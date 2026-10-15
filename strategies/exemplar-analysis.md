@@ -19,7 +19,7 @@ Exemplar analysis presents learners with one or more complete instances of high-
 
 ## Design Implications
 
-Exemplars give novices a concrete reference model, reducing unguided search during early skill acquisition [Example-problem pairs lower cognitive load relative to unsupported problem solving.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S]. Their effectiveness depends on active analysis: learners who explain *why* an exemplar succeeds learn more than those who merely read it [Elaborative interrogation improves learning.](../claims/elaborative-interrogation-improves-learning.md) [+M]. Studying multiple varied exemplars supports abstraction of general principles, whereas a single exemplar risks binding features to that specific case [Multiple varied cases support flexible, transferable knowledge structures.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M].
+Exemplars give novices a concrete reference model, reducing unguided search during early skill acquisition [Example-problem pairs lower cognitive load relative to unsupported problem solving.](../claims/worked-example-problem-sequences.md) [+S]. Their effectiveness depends on active analysis: learners who explain *why* an exemplar succeeds learn more than those who merely read it [Elaborative interrogation improves learning.](../claims/elaborative-interrogation-improves-learning.md) [+M]. Studying multiple varied exemplars supports abstraction of general principles, whereas a single exemplar risks binding features to that specific case [Multiple varied cases support flexible, transferable knowledge structures.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Exemplars give novices a concrete reference model, reducing unguided search duri
 - **Comparative ranking:** learners rank several exemplars and justify the ordering, forcing criterion articulation
 
 ### Target Learners
-- Novices who lack a mental model of what "good" looks like in the domain [Example-problem pairs lower cognitive load relative to unsupported problem solving.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S]
+- Novices who lack a mental model of what "good" looks like in the domain [Example-problem pairs lower cognitive load relative to unsupported problem solving.](../claims/worked-example-problem-sequences.md) [+S]
 - Intermediate learners ready to discriminate quality levels, especially with contrasting or erroneous exemplars [Analyzing erroneous examples builds conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]
 - Less valuable for experts, who already possess the criteria the exemplar would teach [~M]
 

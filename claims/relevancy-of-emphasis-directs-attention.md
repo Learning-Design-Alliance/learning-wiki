@@ -59,7 +59,7 @@ Nist, S. L., & Hogrebe, M. C. (1985). The Effects of High and Low Relevant Text 
 
 `q3 · peer-reviewed experiment, not pre-registered` · `i? · F values only, no effect size printed` · `n=67` · `causal · r?`
 
-In the same study, the main effect for relevancy was also significant for the low-relevant score, F(1, 40) = 6.98, p < .05. Learners scored higher on low-relevant questions when the low-relevant material was the emphasized content. Together with the high-relevant result, this shows the effect is symmetric: emphasis improves performance on whatever is emphasized, regardless of its actual instructional importance.
+In the same study, the main effect for relevancy was also significant for the low-relevant score, F(1, 40) = 6.98, p < .05. Learners scored higher on low-relevant questions when the low-relevant material was the emphasized content. Together with the high-relevant result, emphasis raised scores on whichever material was emphasized; that the effect is symmetric, of equal size regardless of the material's instructional importance, is not shown by the two F tests printed (unsourced on this page).
 
 ## Studies bearing on this claim
 

@@ -47,7 +47,7 @@ The article organizes scoring options for repeated survey administration into fo
 - [Bifactor and second-order structures within measurement occasions keep multidimensional growth IRT models computationally tractable](../claims/bifactor-within-occasion-tractable-cliques.md) [+W]
 - [Junction-tree factorization reduces EM algorithm complexity for latent growth IRT models from exponential to linear in the number of measurement occasions](../claims/junction-tree-em-linear-complexity-occasions.md) [+W]
 - [In concurrent unidimensional calibration the Speaking subtest dominates the Oral scale score while Listening and Speaking correlate only moderately](../claims/speaking-dominates-concurrent-oral-scale.md) [~W]
-- [Response styles can affect estimates of growth parameters, including the slope, on social-emotional survey constructs](../claims/response-styles-affect-growth-parameter-estimates.md) [~W]
+- [Response styles can affect estimates of growth parameters, including the slope, on social-emotional survey constructs](../claims/response-style-growth-effects-vary-by-construct-and-model.md) [~W]
 
 ## Related Theories
 - 

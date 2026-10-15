@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Student off-task behavior declined markedly in trained teachers' classrooms, with adjusted post means differing significantly beyond the .001 level"
-description: "Student off-task behavior declined markedly in trained teachers' classrooms, with adjusted post means differing significantly beyond the .001 level"
+title: "Student off-task behavior is lower in trained teachers' classrooms than in control classrooms after adjusting for baseline off-task rates"
+description: Student off-task behavior is lower in trained teachers' classrooms than in control classrooms after adjusting for baseline off-task rates
 id: off-task-behavior-declines-after-training
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# Student off-task behavior declined markedly in trained teachers' classrooms, with adjusted post means differing significantly beyond the .001 level
+# Student off-task behavior is lower in trained teachers' classrooms than in control classrooms after adjusting for baseline off-task rates
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+<!-- title before 2026-10-15: Student off-task behavior declined markedly in trained teachers' classrooms, with adjusted post means differing significantly beyond the .001 level -->
 
 ## Subclaims
 `q2 i?` Off-task behavior declined markedly in treatment classrooms after training, and the difference between groups on pre-adjusted post means was significant beyond the .001 level by F test. [→ Fitzpatrick 1985](#fitzpatrick-1985)

@@ -113,7 +113,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [The indirect association between AI anxiety and academic motivation through emotion regulation is significant for both male and female students but stronger among male students](../claims/moderated-mediation-indirect-effect-stronger-male-students.md) [~M] — learners who differ on it differ in outcomes
 - [AI simulation induced higher state anxiety than standardized patient simulation in one RCT, while qualitative studies reported reduced anxiety](../claims/ai-simulation-anxiety-divergent.md) [~M] — instruction changes it
 - [Technology anxiety is a positive predictor of AI literacy once other determinants are controlled, despite a negative zero-order correlation](../claims/technology-anxiety-positive-predictor-ai-literacy.md) [~M] — learners who differ on it differ in outcomes
-- [Distracting contextual factors — lack of dedicated study space, lack of reliable technology and financial issues — increase test anxiety](../claims/contextual-factors-increase-test-anxiety.md) [+M] — instruction changes it
+- [Lack of study space and financial issues are associated with higher test anxiety in online exams, and reliable technology with lower](../claims/contextual-factors-increase-test-anxiety.md) [+M] — instruction changes it
 - [Familiarity with online and proctored exams, approximated by exam quartile, shows no effect on test anxiety](../claims/familiarity-no-effect-test-anxiety.md) [-M] — instruction changes it
 - [Higher internet literacy is associated with lower test anxiety in online exams](../claims/internet-literacy-lower-test-anxiety.md) [+M] — instruction changes it
 - [Learning GenAI anxiety moderates the intention–procrastination association, which is negative and significant at high anxiety but absent at low anxiety](../claims/learning-genai-anxiety-moderates-intention-procrastination.md) [~M] — an instructional effect differs with it
@@ -124,7 +124,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation](../claims/test-anxiety-negative-exam-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Nature exposure relieves stress in learners, including experimentally demonstrated reductions in heart rate and self-reported stress](../claims/nature-exposure-reduces-learner-stress.md) [+M] — instruction changes it
 - [SWPBIS effects on prosocial behavior and emotion regulation are strongest for children first exposed in kindergarten](../claims/swpbis-strongest-kindergarten-exposure.md) [~M] — instruction changes it
-- [SWPBIS produced a small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)](../claims/swpbis-improves-emotion-regulation.md) [-M] — instruction changes it
+- [SWPBIS produces a very small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)](../claims/swpbis-improves-emotion-regulation.md) [-M] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — decides whether a setback reads as difficulty or as evidence of not belonging.

@@ -95,7 +95,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
-- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract)
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 
 ## Objective and learner-valued goal
 
@@ -177,4 +177,4 @@ Community of inquiry is most useful when learning depends on sustained discourse
 -->
 - [Students perceived online lab exercises as more effective when instructors were present online and used scaffolds and probes directing attention to key procedure aspects](../claims/online-labs-better-with-instructor-scaffolds.md) [+W]
 - [Over-reliance on GAI risks weakening teaching and social presence and depriving students of foundational skill development](../claims/gai-overreliance-risks-presence-and-skills.md) [-W]
-- [Emotional engagement and social presence are critical factors in AI-powered collaborative learning environments](../claims/emotional-engagement-social-presence-ai-collaborative-learning.md) [+W]
+- [A 2025 systematic review reports that AI tools raising social presence and emotional engagement may improve AI-supported collaborative learning outcomes](../claims/emotional-engagement-social-presence-ai-collaborative-learning.md) [+W]

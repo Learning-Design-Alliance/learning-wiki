@@ -14,7 +14,7 @@ sources:
     title: "Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill. (1991). The Effect of Instructional Clarity and Concept Structure on Student Achievement and Perception. https://eric.ed.gov/?id=ED331809"
     author: Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill
     q: 3
-    i: 2
+    i: "?"
     kind: causal
     rigour: 2
 ---
@@ -22,10 +22,10 @@ sources:
 # A clear variable coordinate lesson produced higher achievement than an unclear lesson with the same concept structure on all five measures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
-`q3 i2` The Clear/Var./Coord. group achieved significantly better than the Unclear/Var./Coord. group on definition, example identification, key words, nonexamples, and application. [→ Snyder 1991](#snyder-1991)
+`q3 i?` The Clear/Var./Coord. group achieved significantly better than the Unclear/Var./Coord. group on definition, example identification, key words, nonexamples, and application. [→ Snyder 1991](#snyder-1991)
 
 ## Evidence
 
@@ -33,7 +33,7 @@ sources:
 
 Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill. (1991). The Effect of Instructional Clarity and Concept Structure on Student Achievement and Perception. https://eric.ed.gov/?id=ED331809
 
-`q3 · i2` · `causal · r2`
+`q3 · i? · p-values only, no effect size printed` · `causal · r2`
 
 Dunn-Sidak multiple comparison tests in the Results section of the 2x3 factorial experiment. The article reports the clear variable coordinate group beat the unclear group on all five achievement sections, with p<.01 on four and p<.05 on nonexamples.
 
@@ -46,7 +46,7 @@ Dunn-Sidak multiple comparison tests in the Results section of the 2x3 factorial
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| Snyder 1991 | q3 · causal · r2 | i2; i1; i? | this claim; [Each positive clarity move (keys, links, framing, focusing, examples) correlates positivel](positive-clarity-moves-correlate-achievement.md) (supports); [Under unclear presentation, a more complex concept structure lessens students' ability to ](unclear-presentation-complex-structure-penalty.md) (supports); [Clarity matters less as concept structure becomes simpler: no significant clear-vs-unclear](clarity-less-relevant-simpler-structures.md) (qualifies); [Students accurately perceive differences between clear and unclear lessons regardless of c](students-perceive-lesson-clarity.md) (qualifies) |
+| Snyder 1991 | q3 · causal · r2 | i?; i2 | this claim; [Each positive clarity move (keys, links, framing, focusing, examples) correlates positivel](positive-clarity-moves-correlate-achievement.md) (supports); [Under unclear presentation, a more complex concept structure lessens students' ability to ](unclear-presentation-complex-structure-penalty.md) (supports); [Clarity matters less as concept structure becomes simpler: no significant clear-vs-unclear](clarity-less-relevant-simpler-structures.md) (qualifies); [Students accurately perceive differences between clear and unclear lessons regardless of c](students-perceive-lesson-clarity.md) (qualifies) |
 | clarity-1 | q2 · qualitative · r? | i? | [Definitions, checkpoints, and staged pacing improved conceptual clarity for novice program](checkpoints-and-definitions-improved-clarity.md) (supports) |
 | Suleiman 2026 | q2 · qualitative · r1 | i? | [Students responded most positively to projects that felt authentic and were organized in a](student-engagement-authenticity-clear-sequence.md) (supports) |
 <!-- synthesis:end -->

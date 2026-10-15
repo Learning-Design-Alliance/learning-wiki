@@ -12,7 +12,7 @@ generated:
 # Essential Questions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 against) · 15 studies (8 quant-synthesis, 4 causal, 2 review, 1 theoretical), `q1`–`q4` · 6 of 15 report an effect size
+> **Evidence** · 6 claims (5 for, 1 against) · 16 studies (8 quant-synthesis, 5 causal, 2 review, 1 theoretical), `q1`–`q4` · 6 of 16 report an effect size
 
 ## Description
 An essential question is an open, arguable question — "When is estimation better than calculation?" or "Who gets to tell history?" — that frames a unit or course rather than a single lesson. It is carried out by posing the question at the outset, returning to it across activities, and having learners revisit and refine their answers as understanding develops. Unlike recall prompts, essential questions have no single settled answer and are designed to be re-asked with increasing sophistication.
@@ -48,7 +48,7 @@ Essential questions function as advance organizers: they give learners a schema 
 ### Target Learning Goals
 - Conceptual understanding and big-idea retention, rather than procedural fluency
 - Argumentation and evidence-based reasoning, since answering the question requires defending a position [Argumentation improves reasoning.](../claims/argumentation-improves-reasoning.md) [+M]
-- Transfer: questions phrased in general terms invite application across contexts [Analogical reasoning improves transfer.](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- Transfer: questions phrased in general terms invite application across contexts [Analogical reasoning improves transfer.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Instructions
 1. Identify the big ideas of the unit and draft an open question that a learner could answer differently at the start and end.

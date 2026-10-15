@@ -41,7 +41,7 @@ A dynamic-systems analysis of one-on-one instrumental music lessons found that t
 ### Claims
 
 - [Teacher-student scaffolding and autonomy support co-evolve into self-reinforcing attractor states over sustained one-on-one instruction](../claims/scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states.md) [~M]
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — this principle adds a temporal, relational dimension to scaffolding and fading: how a dyad's *pattern* of support and autonomy stabilizes over many sessions, not just how a single episode of support should be calibrated

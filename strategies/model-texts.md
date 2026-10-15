@@ -19,7 +19,7 @@ Model texts (also called mentor texts or exemplars) are finished samples of the 
 
 ## Design Implications
 
-Model texts function as worked examples for writing: they substitute a completed product for unguided invention, reducing the load of figuring out both *what to say* and *how to say it* simultaneously [Example–problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]. Their effectiveness depends on active analysis — learners who annotate or deconstruct a model's structure and moves learn more than those who merely read it [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Presenting two or three contrasting models of the same genre, rather than one, helps learners abstract the underlying features instead of imitating surface details.
+Model texts function as worked examples for writing: they substitute a completed product for unguided invention, reducing the load of figuring out both *what to say* and *how to say it* simultaneously [Example–problem sequences reduce cognitive load.](../claims/worked-example-problem-sequences.md) [+M]. Their effectiveness depends on active analysis — learners who annotate or deconstruct a model's structure and moves learn more than those who merely read it [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Presenting two or three contrasting models of the same genre, rather than one, helps learners abstract the underlying features instead of imitating surface details.
 
 ### Context
 #### Requirements

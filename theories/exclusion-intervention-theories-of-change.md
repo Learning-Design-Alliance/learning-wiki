@@ -43,7 +43,7 @@ The review organises how exclusion-reduction interventions might work through tw
 - [The 2018 review reported a larger pooled effect (SMD = 0.30) that was not sustained at longer-term follow-up](../claims/prior-review-larger-unsustained-effect.md) [+W]
 - [Methodological quality varied by design: randomised studies showed lower risk of bias than quasi-experimental studies](../claims/risk-of-bias-varies-by-study-design.md) [+W]
 - [Four implementation themes emerged from UK process evaluations: intervention format, policy consistency, staff buy-in, and perceived effectiveness](../claims/four-implementation-themes-exclusion-interventions.md) [+W]
-- [Brief Intervention Empathic Discipline Cuts Suspensions](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+W]
+- [A brief online empathic-discipline exercise for teachers halved suspensions in one randomized field experiment, while its preregistered replication found a small, marginal overall effect but narrowed group disparities](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+W]
 
 ## Related Theories
 

@@ -18,7 +18,7 @@ sources:
 # Levels of Use Interview
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A focused branching interview developed by Loucks (1977) that assigns overall and category-specific Levels of Use ratings, including Not Doing and No Information classifications.

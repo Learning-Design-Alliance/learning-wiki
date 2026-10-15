@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Attainment (ability) grouping is generally reported to impact negatively on student learning outcomes
-description: Attainment (ability) grouping is generally reported to impact negatively on student learning outcomes
+title: "A narrative review reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested"
+description: A narrative review reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested
 id: streaming-impacts-negatively-on-learning-outcomes
 status: draft
 generated:
@@ -19,10 +19,12 @@ sources:
     rigour: 2
 ---
 
-# Attainment (ability) grouping is generally reported to impact negatively on student learning outcomes
+# A narrative review reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+
+<!-- title before 2026-10-15: Attainment (ability) grouping is generally reported to impact negatively on student learning outcomes -->
 
 ## Subclaims
 `q2 i?` The literature generally shows that streaming, setting or tracking based on attainment impacts negatively on student learning outcomes, with the greatest disadvantages for lower-achieving students. [→ Marks 2021](#marks-2021)
@@ -48,8 +50,8 @@ Narrative review of grouping research: the article reports, citing Johnston & Wi
 |---|---|---|---|
 | [Marks 2021](https://doi.org/10.29333/iejme/11198) | q2 · review · r2 | i? | this claim |
 | Elaine Allensworth and Takako Nomi 2014 | q2 · causal · r? | i? | [Sorting by ability affects grades and pass rates differently from test scores: high-skille](sorting-opposite-effects-grades-vs-test-scores.md) (qualifies) |
-| Takako Nomi 2010 | q3 · causal · r2 | i? | [Above-norm students' post-policy test score gains (.56 points) were partly explained by pe](above-norm-score-gains-peer-ability-spillover.md) (qualifies) |
-| [Takako Nomi and Elaine M. Allensworth 2013](https://doi.org/10.3102/0002831212469997) | q3 · causal · r2 | i? | [Below-norm students' algebra test scores improved despite having lower-skill peers post-po](below-norm-scores-improved-despite-lower-peers.md) (qualifies) |
+| Takako Nomi 2010 | q3 · causal · r2 | i? | [In one Chicago study, above-norm students' post-policy algebra test gains were partly expl](above-norm-score-gains-peer-ability-spillover.md) (qualifies) |
+| [Takako Nomi and Elaine M. Allensworth 2013](https://doi.org/10.3102/0002831212469997) | q3 · causal · r2 | i? | [In one Chicago study, above-norm students' post-policy algebra test gains were partly expl](above-norm-score-gains-peer-ability-spillover.md) (qualifies); [Below-norm students' algebra test scores improved despite having lower-skill peers post-po](below-norm-scores-improved-despite-lower-peers.md) (qualifies) |
 | Kluge 1999 | q1 · review · r1 | i? | [Heterogeneously grouped teams show more benefits than homogeneously formed teams](heterogeneous-teams-more-benefits-than-homogeneous.md) (supports) |
 | Ediger 1995 | q1 · theoretical · r1 | i? | [Homogeneous grouping for reading instruction and heterogeneous grouping for discussion gro](mixed-homogeneous-heterogeneous-grouping.md) (qualifies) |
 <!-- synthesis:end -->
@@ -58,4 +60,4 @@ Narrative review of grouping research: the article reports, citing Johnston & Wi
 
 
 ## Related Claims
-- [Students in heterogeneous mathematics classrooms learn more, enjoy mathematics more, and achieve higher understanding than in streamed settings](heterogeneous-mathematics-classrooms-benefit-students.md) — a narrower finding that bears on this claim
+- [A practice-framework article reports, citing Boaler and Staples (2008), that students in heterogeneous mathematics classrooms learn more, enjoy mathematics more and reach higher understanding than in streamed settings](heterogeneous-mathematics-classrooms-benefit-students.md) — a narrower finding that bears on this claim

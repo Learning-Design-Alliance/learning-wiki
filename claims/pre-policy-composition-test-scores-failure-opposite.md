@@ -65,5 +65,4 @@ Pre-policy bottom panel of Table 3. The article links this pattern to a frog pon
 - [Academic composition of algebra classrooms affects math achievement among high-skill students](academic-composition-affects-math-achievement.md) — related
 - [Below-norm students' test scores improved post-policy (0.88 points total), and classroom average ability no longer predicted their scores post-policy](below-norm-score-gains-composition-null-post-policy.md) — related
 - [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points), largely explained by classroom environment and peer ability](double-dose-failure-rates-divergent.md) — related
-- [Classroom peer skill levels explain about 20% of post-policy test score improvements among above-norm algebra students in Chicago](peer-skill-explains-above-norm-test-gains.md) — related
-- [Above-norm students' post-policy test score gains (.56 points) were partly explained by peer ability and by spillover from classmates taking support algebra (~0.6 points, p<.01)](above-norm-score-gains-peer-ability-spillover.md) — related
+- [Classroom peer skill levels explain about 20% of post-policy test score improvements among above-norm algebra students in Chicago](above-norm-score-gains-peer-ability-spillover.md) — related

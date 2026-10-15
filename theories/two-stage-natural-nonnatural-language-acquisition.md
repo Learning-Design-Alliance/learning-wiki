@@ -39,8 +39,8 @@ The article presents a stage model of native language acquisition in which the f
 
 ### Claims
 
-- [Oral language competence predicts subsequent reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]
-- [Reverse transfer from literacy to oral skills is unsupported by research](../claims/reverse-transfer-literacy-to-oral-unsupported.md) [+W]
+- [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]
+- [The author of a 1997 conference paper reports finding no research supporting reverse transfer of skills from literacy to oral language](../claims/reverse-transfer-literacy-to-oral-unsupported.md) [+W]
 - [Sticht's Law holds that reading skill cannot exceed listening skill](../claims/sticht-law-reading-cannot-exceed-listening.md) [+W]
 
 ## Related Theories

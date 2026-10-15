@@ -44,6 +44,6 @@ The digest's factors section asserts, without cited data, that depression is com
 
 ## Related Claims
 - [Social identity and power relations between speakers mediate when and whether older refugees communicate in English](social-identity-power-mediate-refugee-english-use.md) — related
-- [No research evidence suggests older adults cannot succeed in learning another language, though adults need more deliberate learning effort than children](no-evidence-older-adults-cannot-learn-language.md) — related
+- [A practitioner digest asserts, without cited studies, that no research evidence suggests older adults cannot succeed in learning another language](no-evidence-older-adults-cannot-learn-language.md) — related
 - [Participation in a solution-focused cognitive-behavioural life coaching program is associated with significantly enhanced mental health, quality of life and increased goal attainment in normal adults.](sfcb-life-coaching-enhances-mental-health-goal-attainment.md) — related
 - [Distress tolerance and intolerance of uncertainty are consistently associated with mental health problems](distress-tolerance-uncertainty-intolerance-associations.md) — related

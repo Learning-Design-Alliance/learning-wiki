@@ -1,0 +1,36 @@
+{
+  "principle": "principles/text-chats",
+  "note": "Wave 12 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries. Two distinct studies: Sarre 2011 (five of the members and the hub) and Arslanyilmaz & Pedersen 2010.",
+  "findings": [
+    {
+      "hub": "cmc-meaning-focused-tasks-foster-negotiated-interactions",
+      "question": "In meaning-focused second-language tasks done through text chat and other computer-mediated modes, which task and mode features produce negotiation of meaning and corrective feedback?",
+      "members": [
+        [
+          "closed-tasks-foster-more-negotiation-than-open-tasks",
+          "+"
+        ],
+        [
+          "subtitled-videos-increase-negotiation-of-meaning-online-tbll",
+          "+"
+        ],
+        [
+          "discussion-board-no-negative-feedback-synchrony-required",
+          "+"
+        ],
+        [
+          "videoconferencing-more-negotiated-turns-than-chat-and-board",
+          "~"
+        ],
+        [
+          "content-triggers-dominate-syntactic-triggers-absent-text-chat",
+          "~"
+        ],
+        [
+          "self-correction-dominates-negative-feedback-face-saving",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

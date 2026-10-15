@@ -74,7 +74,7 @@ Modeling works because it converts tacit expert knowledge into explicit, observa
 - Novices encountering a task type for the first time [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]
 - Learners who need support with metacognition and strategy application — the verbalized self-monitoring gives them a script for their own thinking
 - Less beneficial for experts or advanced learners, for whom the model adds redundant load [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
-- Novices encountering a task type for the first time, who would otherwise flounder in unguided search [example-problem-sequences-reduce-cognitive-load](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+- Novices encountering a task type for the first time, who would otherwise flounder in unguided search [example-problem-sequences-reduce-cognitive-load](../claims/worked-example-problem-sequences.md) [+M]
 
 ### Target Learning Goals
 - Procedural skill acquisition: learning how to execute a task, not just what the finished product looks like
@@ -142,7 +142,7 @@ Modeling means the teacher performs the target task — writing a paragraph, sol
 
 ## Design Implications
 
-Modeling works because observation of a competent performance provides a template learners can imitate and internalize [Bandura, 1977], and because worked models reduce the unguided search that overwhelms novices [Example–problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]. The critical ingredient is the verbalization: silent demonstration shows *what* to do, but think-aloud narration shows *how experts decide*, which is what learners cannot infer from the finished product alone [van Gog & Rummel, 2010] [+M]. Modeling must be paired with guided practice and faded over time, or learners remain dependent on the model [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
+Modeling works because observation of a competent performance provides a template learners can imitate and internalize [Bandura, 1977], and because worked models reduce the unguided search that overwhelms novices [Example–problem sequences reduce cognitive load.](../claims/worked-example-problem-sequences.md) [+M]. The critical ingredient is the verbalization: silent demonstration shows *what* to do, but think-aloud narration shows *how experts decide*, which is what learners cannot infer from the finished product alone [van Gog & Rummel, 2010] [+M]. Modeling must be paired with guided practice and faded over time, or learners remain dependent on the model [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ### Context
 #### Requirements
@@ -164,7 +164,7 @@ Modeling works because observation of a competent performance provides a templat
 - **Peer modeling**: a near-peer performs the task, which can raise self-efficacy by making the performance seem attainable [self-efficacy-predicts-academic-persistence](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 
 ### Target Learners
-- Novices encountering a task type for the first time, who would otherwise flounder in unguided search [example-problem-sequences-reduce-cognitive-load](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+- Novices encountering a task type for the first time, who would otherwise flounder in unguided search [example-problem-sequences-reduce-cognitive-load](../claims/worked-example-problem-sequences.md) [+M]
 - Learners low in self-efficacy for the task, who benefit from seeing a attainable path [self-efficacy-predicts-academic-persistence](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 - Less beneficial for advanced learners, who profit more from independent problem solving [expertise-reversal-effect](../claims/expertise-reversal-effect.md) [~M]
 

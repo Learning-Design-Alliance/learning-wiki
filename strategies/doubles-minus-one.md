@@ -12,14 +12,14 @@ generated:
 # Doubles Minus One
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 8 studies (4 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies (4 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 2 of 8 report an effect size
 
 ## Description
 Doubles Minus One (also called "near doubles" or "doubles −1") is a mental computation strategy for addition facts such as 7+6 or 8+7. Learners anchor on a memorized doubles fact (7+7=14), then adjust: because 6 is one less than 7, the sum is one less than 14, so 7+6=13. The strategy converts roughly a dozen hard-to-memorize facts into applications of facts already known, using the structural relationship between addends.
 
 ## Design Implications
 
-Doubles Minus One is a form of derived-fact instruction: rather than rote memorization of every fact, learners reuse known facts and apply a relational rule, which builds number sense and supports [transfer](../principles/analogical-reasoning.md) to the full addition table [Analogical reasoning improves transfer.](../claims/analogical-reasoning-improves-transfer.md) [+M]. It reduces the memory burden of fact learning by chunking related facts around a single anchor [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. The strategy works only when the doubles themselves are automatic; if learners must compute 7+7, the adjustment step overloads working memory [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+M].
+Doubles Minus One is a form of derived-fact instruction: rather than rote memorization of every fact, learners reuse known facts and apply a relational rule, which builds number sense and supports [transfer](../principles/analogical-reasoning.md) to the full addition table [Analogical reasoning improves transfer.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. It reduces the memory burden of fact learning by chunking related facts around a single anchor [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. The strategy works only when the doubles themselves are automatic; if learners must compute 7+7, the adjustment step overloads working memory [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+M].
 
 ### Context
 #### Requirements

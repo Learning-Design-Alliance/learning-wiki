@@ -41,8 +41,9 @@ Finding from the J48 decision tree analysis of ASSISTments Skill Builder log dat
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — the general claim this finding bears on, with the studies behind it
 - [Adaptive students request significantly fewer on-demand hints and spend longer on a step before requesting help than Control students](adaptive-hint-seeking-behavior-differences.md) — related
 - [The relationship between bottom-out hint use and wheel-spinning is nuanced, depending on whether students avoid hints entirely](bottom-out-hint-use-nuanced-wheel-spinning.md) — related
 - [Two distinct feature combinations identify two types of wheel-spinning students in ASSISTments Skill Builders](two-types-wheel-spinning-students-assistments.md) — a narrower finding that bears on this claim

@@ -20,7 +20,7 @@ grain_size: lesson
 # Peer Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 17 claims (8 for, 9 mixed) · 24 studies (6 causal, 5 quant-synthesis, 5 review, 4 associational, 2 qualitative, 2 theoretical), `q2`–`q4` · 4 of 24 report an effect size · 12 claims rest on one study
+> **Evidence** · 17 claims (8 for, 9 mixed) · 25 studies (6 causal, 5 quant-synthesis, 5 review, 4 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 4 of 25 report an effect size · 11 claims rest on one study
 
 ## Description and scope
 
@@ -94,7 +94,7 @@ Ask for three facts when the brief omits them: **whether a bank of conceptual qu
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
-- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract)
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M] — not yet checked against its sources
 

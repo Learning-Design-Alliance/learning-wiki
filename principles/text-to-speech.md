@@ -135,7 +135,7 @@ Learners, materials and outcomes differ across these claims (college students wi
 Claims this page cited before it was rewritten as a conditional model. Neither tests text-to-speech; each is kept with what it is and how far it bears.
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — two reviews and an experiment on how grouping items into chunks reduces what working memory must hold. The earlier page used it as an analogy (speech shifts part of the processing burden); it does not test listening or reading, and bears on this page only through the general working-memory account. Not checked against its sources (abstracts and entries only).
-- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — a synthesis and a theoretical review arguing that checking performance against a goal leads learners to adjust strategy. It is the general reason for the section-break check in the default design; it does not test that check with speech. Not checked against its sources (abstracts only).
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M] — a synthesis and a theoretical review arguing that checking performance against a goal leads learners to adjust strategy. It is the general reason for the section-break check in the default design; it does not test that check with speech. Not checked against its sources (abstracts only).
 
 ## Objective and learner-valued goal
 

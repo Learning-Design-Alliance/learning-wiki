@@ -17,7 +17,7 @@ sources:
 # Regression discontinuity embedded in a piecewise multilevel growth model for entry-age effects
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper introduces a modeling approach that combines a regression discontinuity design with a piecewise multilevel growth model, allowing causal estimates of entry-age effects on both initial achievement and subsequent growth rates. The authors state, "We embed regression discontinuity into a piecewise multilevel growth model and apply it to rich assessment data from three states." This extends prior work that, per the authors, "estimated either associations between school entry age and academic growth or causal effects on achievement measured at one or two points."
@@ -29,7 +29,6 @@ The paper introduces a modeling approach that combines a regression discontinuit
 ### Claims
 - [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]
 - [Older entrants show higher kindergarten growth rates but lower growth rates in 1st and 2nd grades](../claims/entry-age-growth-rate-tradeoff.md) [+M]
-- [The early academic advantage of entering school older may fade in later grades, per a multi-state regression discontinuity analysis through second grade](../claims/school-entry-age-early-advantage-fades-by-later-grades.md) [+W]
 
 ## Related Research Methods
 -
@@ -66,7 +65,7 @@ The paper introduces a modeling approach that combines a regression discontinuit
 
 - [Older Entry Higher Initial Achievement](../claims/older-entry-higher-initial-achievement.md) [+M]
 - [Entry Age Growth Rate Tradeoff](../claims/entry-age-growth-rate-tradeoff.md) [+M]
-- [The early academic advantage of entering school older may fade in later grades, per a multi-state regression discontinuity analysis through second grade](../claims/school-entry-age-early-advantage-fades-by-later-grades.md) [+W]
+- [The early academic advantage of entering school older may fade in later grades, per a multi-state regression discontinuity analysis through second grade](../claims/entry-age-growth-rate-tradeoff.md) [+W]
 
 ## Related Theories
 

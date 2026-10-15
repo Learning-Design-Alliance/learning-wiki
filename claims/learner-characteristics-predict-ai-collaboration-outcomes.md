@@ -46,7 +46,7 @@ Robust main-effects model for revision performance (pseudo R² = 0.580) with gro
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Structured GenAI scaffolding training improves students' AI-assisted revision performance on CSEM electromagnetism problems](genai-scaffolding-training-improves-revision-performance.md) — related
+- [Structured GenAI scaffolding training raises sophomore STEM students' posttest CSEM electromagnetism scores over problem-solving training (d = 0.81)](genai-scaffolding-training-improves-revision-performance.md) — related
 - [GenAI training leaves total cognitive load comparable while marginally raising intrinsic cognitive load](genai-training-comparable-load-marginal-intrinsic-increase.md) — related
 - [GenAI training attenuates the predictive effect of prior GenAI experience on revision performance](training-attenuates-genai-experience-effect.md) — related
 - [GenAI effects on externally assessed learning are highly heterogeneous and conditional on prior knowledge, scaffolding, verification, and task design, with pooled effects unstable under publication-bias correction](genai-learning-effects-heterogeneous-conditional.md) — related

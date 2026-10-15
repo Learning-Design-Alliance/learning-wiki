@@ -39,8 +39,8 @@ The paper concludes that classroom work should aim to influence how learners pro
 ### Claims
 
 - [Form Focused Input Manipulation Illusory For Competence](../claims/form-focused-input-manipulation-illusory-for-competence.md) [+M]
-- [Instruction shows little or no effect on route of L2 acquisition, indicating powerlessness to influence underlying linguistic competence](../claims/instruction-little-effect-on-route-of-acquisition.md) [+W]
-- [Explicit negative evidence failed to induce grammar reorganization in French learners of English adverb placement](../claims/white-adverb-placement-negative-evidence-failed.md) [+W]
+- [A 1999 conference paper reports, citing Ellis and LaPorte (1997), that instruction has little or no effect on the route of L2 acquisition](../claims/instruction-little-effect-on-route-of-acquisition.md) [+W]
+- [A 1999 conference paper reports, citing White (1991) and Schwartz and Gubala-Ryzak (1992), that explicit negative evidence on English adverb placement produced only superficial change in French learners](../claims/white-adverb-placement-negative-evidence-failed.md) [+W]
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [~W]
 - [Informal evidence that adults do not automatically process input to develop competence reopens the role of grammar instruction (as reported by the bibliography, citing Terrell)](../claims/input-processing-insufficient-for-adult-competence-terrell.md) [-W]
 

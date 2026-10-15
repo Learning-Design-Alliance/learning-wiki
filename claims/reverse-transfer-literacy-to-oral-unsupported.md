@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Reverse transfer from literacy to oral skills is unsupported by research
-description: Reverse transfer from literacy to oral skills is unsupported by research
+title: "The author of a 1997 conference paper reports finding no research supporting reverse transfer of skills from literacy to oral language"
+description: The author of a 1997 conference paper reports finding no research supporting reverse transfer of skills from literacy to oral language
 id: reverse-transfer-literacy-to-oral-unsupported
 status: draft
 generated:
@@ -19,10 +19,12 @@ sources:
     rigour: 2
 ---
 
-# Reverse transfer from literacy to oral skills is unsupported by research
+# The author of a 1997 conference paper reports finding no research supporting reverse transfer of skills from literacy to oral language
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+
+<!-- title before 2026-10-15: Reverse transfer from literacy to oral skills is unsupported by research -->
 
 ## Subclaims
 `q1 i?` The author could find no research supporting reverse transfer of skills from the nonnatural literacy stage to the natural oral-aural stage. [→ Neiburg 1997](#neiburg-1997)
@@ -46,4 +48,4 @@ The author reports a personal literature search: "I cannot find any research tha
 - [Japanese schools teach English literacy before oral-aural competency, inverting the natural sequence](japanese-english-instruction-inverts-stage-sequence.md) — related
 - [Sticht's Law holds that reading skill cannot exceed listening skill](sticht-law-reading-cannot-exceed-listening.md) — related
 - [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — related
-- [Morphological Instruction Improves Literacy](morphological-instruction-improves-literacy.md) — related
+- [Morphological instruction improves word-level literacy outcomes (decoding, spelling, vocabulary, morphological knowledge) but shows no reliable effect on reading comprehension](morphological-instruction-improves-literacy.md) — related

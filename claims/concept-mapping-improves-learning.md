@@ -127,7 +127,7 @@ In Experiment 1, 80 undergraduates studied a science text in one of four ways: s
 - [Advance organizers improve learning.](advance-organizers-improve-learning.md) — supplied maps function as graphic advance organizers
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — maps externalize and chunk relational structure that would otherwise burden working memory
 - [Cognitive load reduction improves learning.](cognitive-load-reduction-improves-learning.md) — scaffolded map construction manages the load that free-form mapping imposes
-- [Analogical reasoning improves transfer.](analogical-reasoning-improves-transfer.md) — mapping elicits the same relational-structure comparison that drives analogical transfer
+- [Analogical reasoning improves transfer.](comparing-contrasting-cases-improves-learning.md) — mapping elicits the same relational-structure comparison that drives analogical transfer
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — unconstrained map construction can itself overload novices
 - [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — another generative strategy that forces learners to process and restructure text
 - [Cognitive flexibility theory: multiple cases](cognitive-flexibility-theory-multiple-cases.md) — concept mapping is a core tool within cognitive flexibility theory for representing multiple linked perspectives
@@ -141,4 +141,4 @@ In Experiment 1, 80 undergraduates studied a science text in one of four ways: s
 - [Learning is an initiative construction of meanings completed by the interaction of learners' old and new knowledge](learning-is-initiative-construction-old-new-knowledge.md) — a broader claim this one bears on
 - [A map risks becoming a new metanarrative unless it is continually remapped and readers actively construct their own maps](remapping-prevents-map-as-metanarrative.md) — related
 - [Multiple representations and explanations of math concepts aid student understanding, but faculty lack time to source or develop them](multiple-representations-aid-understanding-faculty-time.md) — related
-- [Conceptual-map scaffolding modestly improves novice LLM-condition performance and reduces outcome variance, with benefits concentrated among low-AIC novices](conceptual-map-scaffolding-reduces-novice-variance.md) — related
+- [In one randomized working-paper experiment, conceptual-map scaffolding gave LLM-using novices marginally higher scores (p < .10) and lower score variance, with a marginal benefit concentrated among low-AIC novices](conceptual-map-scaffolding-reduces-novice-variance.md) — related

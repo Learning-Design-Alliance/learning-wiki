@@ -12,7 +12,7 @@ generated:
 # Micro-Goal Setting
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 unmarked) · 12 studies (4 review, 3 causal, 3 quant-synthesis, 2 theoretical), `q2`–`q4` · 2 of 12 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 unmarked) · 13 studies (4 review, 3 causal, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 2 of 13 report an effect size
 
 ## Description
 Micro-goal setting decomposes a large learning task into small, specific, near-term goals that a learner can complete in a single session or sitting. Each micro-goal is concrete enough that completion is unambiguous ("outline section 2," "learn five vocabulary items"), giving the learner frequent, verifiable success experiences. The strategy draws on goal-setting theory — specific, challenging goals outperform vague "do your best" intentions [Specific difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S] — and on self-efficacy research, since mastery experiences are the strongest source of efficacy beliefs [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M].

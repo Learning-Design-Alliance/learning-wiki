@@ -1,0 +1,94 @@
+{
+  "principle": "patterns/learning-for-use-lfu-model",
+  "note": "Wave 12 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries. Both hubs already carry tables from other specs (productive-failure, inquiry); the members here are already or newly gathered under them. No claim tests Learning-for-Use itself.",
+  "findings": [
+    {
+      "hub": "productive-failure-improves-conceptual-learning",
+      "question": "Should learners meet the task that needs the idea before the idea is taught, and what must the teaching afterwards do?",
+      "members": [
+        [
+          "invention-tasks-prepare-future-learning",
+          "+"
+        ],
+        [
+          "ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions",
+          "~"
+        ],
+        [
+          "domain-general-skills-favor-ips",
+          "~"
+        ],
+        [
+          "initial-guidance-does-not-improve-learning-from-instruction",
+          "+"
+        ],
+        [
+          "publication-bias-corrected-psi-effect-strong",
+          "+"
+        ],
+        [
+          "psi-procedural-knowledge-null-pooled-effect",
+          "~"
+        ],
+        [
+          "psi-effect-increases-with-grade-level",
+          "~"
+        ],
+        [
+          "pf-fidelity-predicts-psi-effect-size",
+          "~"
+        ],
+        [
+          "psi-fidelity-time-span-interaction",
+          "~"
+        ],
+        [
+          "worked-example-problem-sequences",
+          "~"
+        ],
+        [
+          "identical-example-problem-order-advantage-not-detected-at-final-test",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "inquiry-based-teaching-improves-science-achievement",
+      "question": "Does guided inquiry raise science learning over the usual instruction, and is it the guidance that carries it?",
+      "members": [
+        [
+          "inquiry-based-lab-learning-improves-ct",
+          "+"
+        ],
+        [
+          "scripted-personal-inquiry-associated-with-inquiry-knowledge-gains",
+          "+"
+        ],
+        [
+          "ai-assisted-inquiry-largest-decision-making-gains-climate",
+          "~"
+        ],
+        [
+          "amsti-inquiry-science-higher-reading-achievement",
+          "~"
+        ],
+        [
+          "deeper-learning-math-inquiry-reduces-disparities",
+          "~"
+        ],
+        [
+          "inquiry-benefits-low-income-equity-tension",
+          "~"
+        ],
+        [
+          "guidance-improves-inquiry-learning-outcomes",
+          "+"
+        ],
+        [
+          "minimal-guidance-less-effective-for-novices",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

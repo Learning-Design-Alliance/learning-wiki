@@ -12,7 +12,7 @@ generated:
 # Repetition
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 11 studies (5 quant-synthesis, 4 causal, 2 review), `q2`–`q4` · 5 of 11 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 12 studies (5 quant-synthesis, 4 causal, 3 review), `q2`–`q4` · 6 of 12 report an effect size
 
 ## Description
 Repetition is the deliberate re-presentation of key points multiple times within and across a lesson, using simple, plain language that minimizes language-processing demands. Repeating key points gives every student additional opportunities to grasp concepts, while simplified wording removes barriers for learners who process auditory information slowly. It is carried out through verbal emphasis, restatement in varied phrasing, and having learners themselves restate or re-explain the key idea.

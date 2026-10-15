@@ -31,7 +31,7 @@ The strategy inverts the usual instruction-then-practice sequence: exploration p
 
 #### Constraints
 - Without high-quality follow-up instruction, exploration produces frustration and shallow, sometimes entrenched, misconceptions [Attempting problems before instruction improves conceptual learning despite lower success during exploration.](../claims/productive-failure-improves-conceptual-learning.md) [-S]
-- Ineffective for procedural fluency on well-structured skills, where worked examples outperform problem solving for novices [Worked examples reduce unnecessary search for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M]
+- Ineffective for procedural fluency on well-structured skills, where worked examples outperform problem solving for novices [Worked examples reduce unnecessary search for novices.](../claims/worked-example-problem-sequences.md) [~M]
 - The expertise-reversal effect applies: learners with substantial prior knowledge gain little from exploration and may do worse than with direct instruction [Guidance that helps novices can hinder more knowledgeable learners.](../claims/expertise-reversal-effect.md) [~S]
 - Very low prior knowledge or high working-memory demands can make unguided exploration unproductive; scaffolds during exploration (representational prompts, collaboration) mitigate this
 

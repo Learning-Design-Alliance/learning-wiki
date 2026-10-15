@@ -46,6 +46,6 @@ Thematic analysis of confirmatory study interviews with 11 educators. Educator R
 - [Educators perceived FH2T as strongly connected to Common Core Standards for Mathematical Content and uniquely integrating the Standards for Mathematical Practice](fh2t-common-core-standards-alignment-perception.md) — related
 - [Educators who implemented FH2T through partner or group work perceived it promoted peer collaboration and mathematical discussion](fh2t-promoted-peer-collaboration-discussion.md) — related
 - [Learning Studio participation was associated with indicators of student agency and ownership of learning](learning-studios-agency-ownership-indicators.md) — related
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
 - [Trauma-informed practices such as safe environments and positive relationships can mitigate the effects of trauma and promote resilience](trauma-informed-practices-mitigate-trauma-promote-resilience.md) — related
 - [The seven levers can describe environments for robust understanding with or without AI, mapping onto the TRU dimensions](levers-map-to-tru-dimensions.md) — related

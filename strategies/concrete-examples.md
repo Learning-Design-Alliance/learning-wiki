@@ -13,14 +13,14 @@ generated:
 # Concrete Examples
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 8 claims (6 for, 2 against) · 16 studies (9 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q2`–`q4` · 3 of 16 report an effect size · 1 claim rests on one study
+> **Evidence** · 7 claims (5 for, 2 against) · 16 studies (9 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q2`–`q4` · 3 of 16 report an effect size · 1 claim rests on one study
 
 ## Description
 Concrete examples anchor abstract ideas in specific, tangible instances — a worked physics problem for the principle of conservation, a real negotiation transcript for game theory, a particular poem for the concept of meter. The strategy is carried out by presenting one or more instances first (or alongside the abstraction), then helping learners map features of the example onto the general principle.
 
 ## Design Implications
 
-Concrete examples reduce the working-memory and knowledge demands of abstraction by giving learners something specific to reason about, which is especially valuable when the concept itself is unfamiliar [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Examples are most powerful when learners first explore cases and then receive the general rule — a sequence that supports schema induction better than rule-first presentation [Exploration before explanation improves learning from subsequent instruction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Multiple varied examples are generally needed for transfer, since a single example tends to be encoded as a specific story rather than a generalizable structure [Analogical reasoning improves transfer.](../claims/analogical-reasoning-improves-transfer.md) [+M].
+Concrete examples reduce the working-memory and knowledge demands of abstraction by giving learners something specific to reason about, which is especially valuable when the concept itself is unfamiliar [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Examples are most powerful when learners first explore cases and then receive the general rule — a sequence that supports schema induction better than rule-first presentation [Exploration before explanation improves learning from subsequent instruction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Multiple varied examples are generally needed for transfer, since a single example tends to be encoded as a specific story rather than a generalizable structure [Analogical reasoning improves transfer.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -59,7 +59,7 @@ Concrete examples reduce the working-memory and knowledge demands of abstraction
 
 ### Target Learning Goals
 - Concept formation: understanding what a category, principle, or definition means in practice
-- Schema induction: extracting generalizable structure from instances [Analogical reasoning improves transfer.](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- Schema induction: extracting generalizable structure from instances [Analogical reasoning improves transfer.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Transfer: applying principles to novel situations (requires multiple varied examples) [Multiple varied cases support flexible transfer.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]
 - Concept learning and categorization: recognizing new instances of a defined class
 - Procedural skill: seeing a rule applied before applying it
@@ -133,7 +133,7 @@ Concrete examples reduce the working-memory and inferential burden of learning f
 #### Implementation Variability
 - **Worked examples**: fully solved instances with reasoning made visible; effective for procedural learning, especially when faded progressively
 - **Contrasting cases**: two or more examples differing on a critical dimension, presented side by side so the dimension becomes visible
-- **Analogies**: mapping a familiar domain onto an unfamiliar one; effective when the mapping is explicit and learners are warned about where it breaks down [Analogical reasoning improves transfer.](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- **Analogies**: mapping a familiar domain onto an unfamiliar one; effective when the mapping is explicit and learners are warned about where it breaks down [Analogical reasoning improves transfer.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - **Case studies**: extended, realistic instances used to situate concepts in authentic complexity
 - **Self-explanation prompts**: asking learners to state *why* an example is an instance of the concept, which forces abstraction
 

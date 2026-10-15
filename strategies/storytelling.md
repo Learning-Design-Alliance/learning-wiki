@@ -12,7 +12,7 @@ generated:
 # Storytelling
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 9 studies (5 causal, 3 quant-synthesis, 1 theoretical), `q3`–`q4` · 3 of 9 report an effect size
+> **Evidence** · 3 claims (2 for, 1 against) · 10 studies (6 causal, 3 quant-synthesis, 1 theoretical), `q3`–`q4` · 3 of 10 report an effect size
 
 ## Description
 Storytelling presents content within a narrative frame: a protagonist pursuing goals, encountering obstacles, and resolving them through the concepts being taught. It can take the form of an instructor-voiced story, a case narrative, a scenario learners act within, or a story learners construct themselves. The narrative structure supplies causal connections and temporal sequence that bind otherwise isolated facts into a coherent, retrievable schema.
@@ -43,12 +43,12 @@ Narratives are remembered better than equivalent non-narrative expositions becau
 ### Target Learners
 - Novices, who benefit from the ready-made organizational structure a story provides before they can build their own schemas [~M]
 - Young learners and learners with limited domain vocabulary, for whom narrative is a familiar comprehension format
-- Learners building causal reasoning; stories make cause–effect relations explicit and support [Analogical Reasoning](../principles/analogical-reasoning.md) [Analogical reasoning improves transfer.](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- Learners building causal reasoning; stories make cause–effect relations explicit and support [Analogical Reasoning](../principles/analogical-reasoning.md) [Analogical reasoning improves transfer.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learning Goals
 - Conceptual understanding: explaining *why* phenomena occur through causal narrative chains
 - Retention of structured factual content (history, science, clinical cases)
-- Transfer: recognizing the same story pattern in new situations [Analogical reasoning improves transfer.](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- Transfer: recognizing the same story pattern in new situations [Analogical reasoning improves transfer.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Motivation and engagement: narrative tension sustains attention across a lesson
 
 ### Instructions

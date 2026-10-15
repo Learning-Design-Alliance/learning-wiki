@@ -21,7 +21,7 @@ grain_size: lesson
 # Structured Academic Controversy
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 9 claims (9 mixed) · 22 studies (8 quant-synthesis, 6 causal, 5 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 6 of 22 report an effect size · 2 claims rest on one study
+> **Evidence** · 9 claims (9 mixed) · 23 studies (8 quant-synthesis, 6 causal, 5 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 23 report an effect size · 1 claim rests on one study
 
 ## Description and scope
 
@@ -107,7 +107,7 @@ Do not rank SAC against debate, Socratic seminar or discussion from these claims
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — not settled: the text available could not confirm the entries (abstract)
-- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract)
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M] — not yet checked against its sources
 

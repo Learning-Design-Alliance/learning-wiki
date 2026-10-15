@@ -26,6 +26,14 @@
         [
           "pthv-home-visits-improve-attendance-slightly",
           "~"
+        ],
+        [
+          "pthv-home-visit-math-gain-no-ela-difference",
+          "~"
+        ],
+        [
+          "home-visits-rare-and-lowest-rated",
+          "~"
         ]
       ]
     }

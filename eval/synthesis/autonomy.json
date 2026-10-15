@@ -129,6 +129,14 @@
         [
           "hint-budget-mismanaged-two-patterns",
           "~"
+        ],
+        [
+          "annotated-videodisc-beats-videotape-retention-recall",
+          "+"
+        ],
+        [
+          "hint-avoidance-related-greater-wheel-spinning",
+          "~"
         ]
       ]
     },

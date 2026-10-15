@@ -55,6 +55,14 @@
         [
           "incidental-vocabulary-acquisition-more-powerful-than-intentional",
           "-"
+        ],
+        [
+          "lwpa-outperforms-traditional-vocabulary-learning",
+          "+"
+        ],
+        [
+          "incidental-reading-enables-productive-word-use",
+          "~"
         ]
       ]
     },
@@ -62,6 +70,14 @@
       "hub": "vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts",
       "question": "Does a taught word need repeated, spaced encounters before it is known and kept?",
       "members": [
+        [
+          "exposure-frequency-predicts-incidental-gains",
+          "+"
+        ],
+        [
+          "incidental-vocabulary-retention-problems",
+          "~"
+        ],
         [
           "spaced-repetition-supplement-triples-vocabulary-retention",
           "+"

@@ -62,12 +62,15 @@ This systematic review looked at 20 studies of mnemonic interventions with 669 s
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do cue-based (mnemonic) methods help students with mild disabilities recall academic facts and vocabulary?* This table gathers the studies behind this claim and the 0 narrower claims that bear on it: **2 distinct studies** (1 quant-synthesis, 1 review), `q3`, 1 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do cue-based (mnemonic) methods help students with mild disabilities recall academic facts and vocabulary?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **5 distinct studies** (3 review, 2 quant-synthesis), `q2`–`q3`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Scruggs and Mastropieri 2000](https://doi.org/10.1023/a:1016640214368) | q3 · quant-synthesis · r? | i3 · large effect, mean ES=1.62 | this claim |
 | [Wolgemuth et al. 2008](https://doi.org/10.1111/j.1540-5826.2007.00258.x) | q3 · review · r? | i? | this claim |
+| [Donoghue & Hattie 2021](https://doi.org/10.3389/feduc.2021.581216) | q3 · quant-synthesis · r? | i2 · medium effect, overall d = 0.56; 0.85 distributed practice, 0.74 practice testing | [Across ten learning techniques, distributed practice and practice testing have the largest](ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) (qualifies) |
+| [Dunlosky 2013](https://doi.org/10.1177/1529100612453266) | q2 · review · r3 | i? | [Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive](five-techniques-low-utility.md) (counts against) |
+| [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r2 | i? | [A review chapter (Karpicke 2017) reports, second-hand, experiments in which retrieval prac](retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration.md) (counts against) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -78,9 +81,9 @@ This systematic review looked at 20 studies of mnemonic interventions with 669 s
 
 **Learner fit.** Mnemonic instruction is a well-established component of explicit, systematic instruction for students with learning disabilities and mild intellectual disabilities, and pairs naturally with [accommodations](../elements/accommodations.md) and [cognitive load reduction](../principles/cognitive-load-reduction.md) approaches. Learners must be able to decode the mnemonic itself; very weak decoders may need teacher-mediated presentation rather than self-generated mnemonics.
 
-**Constraints.** Mnemonic benefits shrink when the target content is conceptually integrated rather than paired or list-like — keyword strategies applied to connected prose or multi-step reasoning can consume instructional time without improving comprehension [~M]. Teacher- or self-generated mnemonics that are semantically confusing, or that require decoding skill the learner lacks, can add extraneous load and interfere with recall of the target content itself [~W]. Benefits demonstrated under immediate-recall testing conditions may not persist over long retention intervals without spaced review [~W].
+**Constraints.** Mnemonic benefits shrink when the target content is conceptually integrated rather than paired or list-like — keyword strategies applied to connected prose or multi-step reasoning can consume instructional time without improving comprehension (unsourced on this page). Teacher- or self-generated mnemonics that are semantically confusing, or that require decoding skill the learner lacks, can add extraneous load and interfere with recall of the target content itself (unsourced on this page). Benefits demonstrated under immediate-recall testing conditions may not persist over long retention intervals without spaced review (unsourced on this page).
 
-**Open questions.** How durable mnemonic-based recall is over long retention intervals, and whether self-generated mnemonics outperform teacher-provided ones for students with disabilities, remain under-researched relative to the immediate-recall literature. Until controlled studies are catalogued here, the claim should be treated as directionally well supported by the special-education literature but not yet quantified on this page.
+**Open questions.** How durable mnemonic-based recall is over long retention intervals, and whether self-generated mnemonics outperform teacher-provided ones for students with disabilities, remain under-researched relative to the immediate-recall literature. The one pooled figure on this page is Scruggs and Mastropieri's (2000) mean standardized effect of 1.62, read from the abstract alone; the Wolgemuth et al. (2008) review reports no effect size in its abstract.
 
 ## Related Claims
 

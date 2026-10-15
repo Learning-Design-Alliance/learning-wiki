@@ -69,7 +69,7 @@ A meta-analysis of 36 elementary-school peer-assisted-learning studies examined 
 
 **Open questions.** The relative contribution of each structural component (training vs. scripting vs. monitoring) is not well separated in the literature; most effective implementations bundle them. Whether reciprocal role reversal adds gains beyond fixed roles, and how much structure to fade as tutors gain experience, remain unsettled design questions.
 
-**Note on evidence.** This page currently has no curated Evidence entries; the claim reflects a broad pattern in the peer-assisted learning literature but specific studies still need to be added and tagged.
+**Note on evidence.** This page has two Evidence entries, both meta-analyses (Cohen et al. 1982; Ginsburg-Block et al. 2006); neither reports a numeric effect size for the structured-versus-unstructured moderator, and the mechanism and boundary-condition points above are not sourced on this page.
 
 ## Related Claims
 
@@ -79,7 +79,7 @@ A meta-analysis of 36 elementary-school peer-assisted-learning studies examined 
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — the amount of structure that helps novice tutors may need to fade as tutors gain competence
 - [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — related
 - [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — related
-- [Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — a broader claim this one bears on
+- [A descriptive report defines peer assisted learning and asserts, without a tested result, that it promotes knowledge construction, collaboration ability and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — a broader claim this one bears on
 - [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md) — related
 - [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — related
 - [Tutoring is highly effective, and hiring older peers as tutors supports learning gains for both older and younger students](tutoring-and-cross-age-peer-tutors-effective.md) — related

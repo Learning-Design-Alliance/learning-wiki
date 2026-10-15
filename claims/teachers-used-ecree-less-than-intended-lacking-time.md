@@ -41,8 +41,9 @@ Implementation findings from teacher reports in grade 8-11 ELA classrooms during
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teachers receiving 11 or more hours of training on integrating digital content report almost double the reliance on software and the Internet compared with untrained teachers](pd-integration-training-doubles-reliance.md) — the general claim this finding bears on, with the studies behind it
 - [Districts' costs for using Ecree depend on implementation and support needs, and the price per student would likely be lower for larger districts](ecree-district-costs-depend-on-implementation-lower-for-larger-districts.md) — related
 - [Regular and tailored support helped teachers integrate Ecree and MI Write into their teaching](regular-tailored-support-helped-teachers-integrate-tools.md) — related
 - [Some students struggled to use Ecree's and MI Write's automated feedback](some-students-struggled-automated-feedback-use.md) — related

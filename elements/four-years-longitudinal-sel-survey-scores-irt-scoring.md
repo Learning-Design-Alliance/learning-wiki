@@ -17,7 +17,7 @@ sources:
 # Four years of longitudinal social-emotional survey scores analyzed under competing IRT scoring models
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The study's data and analysis setup: four years of longitudinal survey scores on social-emotional constructs, scored using item response theory (IRT) models that do and do not account for response styles. The resulting scores were then used in growth models and results compared. The article describes conducting "empirical and simulation analyses" with these scores to test effects on growth parameters.
@@ -40,7 +40,6 @@ The study's data and analysis setup: four years of longitudinal survey scores on
 ## Claims
 
 - [The effect of response styles on growth estimates varies by psychological construct, response style, and IRT model used](../claims/response-style-growth-effects-vary-by-construct-and-model.md) [+W]
-- [Response styles can affect estimates of growth parameters, including the slope, on social-emotional survey constructs](../claims/response-styles-affect-growth-parameter-estimates.md) [+W]
 
 ## Related Elements
 

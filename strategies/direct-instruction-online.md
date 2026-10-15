@@ -19,7 +19,7 @@ Direct instruction in online learning involves pre-developed presentations, asse
 
 ## Design Implications
 
-Explicit, well-structured online instruction reduces unguided search and working-memory burden for novices, particularly when explanations are segmented and paired with visuals [Kirschner, Sweller, and Clark argue minimal-guidance approaches overload novice working memory.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]. Effectiveness depends on instructional design quality: segmenting content, aligning narration with visuals rather than redundant on-screen text, and building in frequent checks for understanding [Multimedia design principles such as segmenting and signaling improve learning from narrated presentations.](../claims/chunking-reduces-working-memory-load.md) [+M]. Feedback should target the task and the process, not just a right/wrong verdict [Feedback most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
+Explicit, well-structured online instruction reduces unguided search and working-memory burden for novices, particularly when explanations are segmented and paired with visuals [Kirschner, Sweller, and Clark argue minimal-guidance approaches overload novice working memory.](../claims/worked-example-problem-sequences.md) [+M]. Effectiveness depends on instructional design quality: segmenting content, aligning narration with visuals rather than redundant on-screen text, and building in frequent checks for understanding [Multimedia design principles such as segmenting and signaling improve learning from narrated presentations.](../claims/chunking-reduces-working-memory-load.md) [+M]. Feedback should target the task and the process, not just a right/wrong verdict [Feedback most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ### Context
 #### Requirements
@@ -40,7 +40,7 @@ Explicit, well-structured online instruction reduces unguided search and working
 - Degree of guidance can be faded across a course, shifting toward inquiry as expertise grows [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
 
 ### Target Learners
-- Novices and online learners who need structured guidance and clear explanations, especially in high-content domains [Unguided methods disadvantage novices relative to explicit instruction.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+- Novices and online learners who need structured guidance and clear explanations, especially in high-content domains [Unguided methods disadvantage novices relative to explicit instruction.](../claims/worked-example-problem-sequences.md) [+M]
 - Learners with limited self-regulation skills who benefit from externally imposed structure and pacing
 - Less beneficial for advanced learners, who profit more from open problems and reduced guidance [Guidance that helps novices can hinder more expert learners.](../claims/expertise-reversal-effect.md) [~S]
 

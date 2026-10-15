@@ -22,7 +22,7 @@ sources:
 # Parent Teacher Home Visits (PTHV)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 3 studies (3 causal), `q2` · 2 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 3 studies (3 causal), `q2` · 2 of 3 report an effect size · 2 claims rest on one study
 
 ## Description
 Parent Teacher Home Visits (PTHV) is a family-engagement programme run by the Parent Teacher Home Visits organization in which educators and families build relationships through structured voluntary home visits.
@@ -33,10 +33,9 @@ Parent Teacher Home Visits (PTHV) is a family-engagement programme run by the Pa
 
 ### Claims
 - [Teacher home visits slightly improved student attendance in the following school year (ES = +0.02)](../claims/pthv-home-visits-improve-attendance-slightly.md) [+W]
-- [Home visits improved standardized math scores (ES = +0.11) but showed no difference in ELA scores](../claims/pthv-home-visit-math-gain-no-ela-difference.md) [+W]
+- [Home visits improved standardized math scores (ES = +0.11) but showed no difference in ELA scores](../claims/pthv-home-visit-math-gain-no-ela-difference.md) [+W] — (also cited [~W])
 - [A home visit before the school year reduced the likelihood of a disciplinary incident (effect size = +0.10)](../claims/pthv-home-visit-reduces-disciplinary-incidents.md) [+W]
 - [PTHV is rated promising for social-emotional learning with an average effect size of +0.10 from one study](../claims/pthv-sel-promising-rating-es-010.md) [+W]
-- [Home visits showed slight improvements in math scores but no difference in ELA scores](../claims/pthv-math-slight-gain-ela-no-difference.md) [~W]
 
 ## Related Products and Programmes
 -
@@ -123,7 +122,7 @@ PTHV is a family engagement program co-created by parents and educators using co
 ## Claims
 
 - [Teacher home visits slightly improved student attendance in the following school year (ES = +0.02)](../claims/pthv-home-visits-improve-attendance-slightly.md) [+W]
-- [Home visits showed slight improvements in math scores but no difference in ELA scores](../claims/pthv-math-slight-gain-ela-no-difference.md) [~W]
+- [Home visits showed slight improvements in math scores but no difference in ELA scores](../claims/pthv-home-visit-math-gain-no-ela-difference.md) [~W]
 
 ## Related Elements
 

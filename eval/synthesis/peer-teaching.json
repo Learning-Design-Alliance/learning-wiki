@@ -1,0 +1,60 @@
+{
+  "principle": "patterns/peer-teaching",
+  "note": "Wave 12 (2026-10-15). Groupings and directions by an agent from the claims' evidence entries, each read in full. Several PALS claims draw on the same WWC-reviewed trials (Fuchs et al. 1997; Saenz et al. 2005; McMaster et al. 2005), reported in different WWC intervention reports; the table counts study entries, which may overstate distinct trials.",
+  "findings": [
+    {
+      "hub": "peer-assisted-and-small-group-instruction-most-effective",
+      "question": "Does structured, reciprocal peer tutoring such as PALS raise reading and mathematics for elementary learners, including those who struggle, over usual instruction?",
+      "members": [
+        [
+          "pals-k-pals-significant-rapid-letter-sound-gains",
+          "+"
+        ],
+        [
+          "pals-strong-evidence-first-grade-literacy-es-023",
+          "+"
+        ],
+        [
+          "pals-wwc-effectiveness-ratings-three-domains",
+          "~"
+        ],
+        [
+          "pals-mathes-babyak-positive-comprehension-effect",
+          "~"
+        ],
+        [
+          "pals-potentially-positive-reading-comprehension-ld",
+          "~"
+        ],
+        [
+          "pals-potentially-positive-reading-fluency-ld",
+          "~"
+        ],
+        [
+          "pals-potentially-positive-reading-effects-ells",
+          "~"
+        ],
+        [
+          "pals-potentially-positive-comprehension-effect-adolescent",
+          "~"
+        ],
+        [
+          "pals-no-discernible-math-effects-ld",
+          "~"
+        ],
+        [
+          "pals-mcmaster-comprehension-negative-effect",
+          "-"
+        ],
+        [
+          "pals-first-grade-alphabetics-indeterminate-versus-adult-tutoring",
+          "~"
+        ],
+        [
+          "pals-fluency-no-significant-effects-first-grade",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

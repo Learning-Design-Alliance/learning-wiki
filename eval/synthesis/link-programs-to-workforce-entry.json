@@ -1,0 +1,36 @@
+{
+  "principle": "principles/link-programs-to-workforce-entry",
+  "note": "Wave 12 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries. Members compare whole routes (apprenticeship vs community college or employment-service participants), rate career-pathway design (WWC), or report program outcomes without comparison; none isolates the linking of program elements to workforce entry.",
+  "findings": [
+    {
+      "hub": "employer-relevant-training-improves-adult-outcomes",
+      "question": "Does training tied closely to a real job, through apprenticeship, career pathways or employer-recognized credentials, improve adults' entry into work and their earnings, compared with other routes?",
+      "members": [
+        [
+          "registered-apprenticeship-ninth-quarter-employment-impacts",
+          "+"
+        ],
+        [
+          "registered-apprenticeship-ninth-quarter-earnings-impacts",
+          "+"
+        ],
+        [
+          "unregistered-apprenticeship-ninth-quarter-employment-impacts",
+          "+"
+        ],
+        [
+          "career-pathways-design-moderate-evidence",
+          "+"
+        ],
+        [
+          "breaking-through-cohorts-enter-apprenticeships",
+          "+"
+        ],
+        [
+          "tcsg-manufacturing-microcredentials-led-to-hiring",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

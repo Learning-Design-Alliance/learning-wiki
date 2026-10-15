@@ -103,12 +103,12 @@ A meta-analysis of 50 independent studies of peer-tutoring programs in mathemati
 - [Teaching as learning](../strategies/teaching-as-learning.md) — the "protégé effect": preparing to teach improves the teacher's own learning.
 - [Active learning improves exam performance](active-learning-improves-exam-performance.md) — tutoring is an active-learning format; effects should be interpreted against that baseline.
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — explains why explaining to a peer can benefit the tutor through germane elaboration, and why overloaded tutors may fail.
-- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — related
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related
 - [Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling](direct-instruction-improves-outcomes.md) — a broader claim this one bears on
 - [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — related
 - [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — related
 - [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related
-- [Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — a broader claim this one bears on
+- [A descriptive report defines peer assisted learning and asserts, without a tested result, that it promotes knowledge construction, collaboration ability and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — a broader claim this one bears on
 - [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) — related
 - [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — related
 - [Cross-age peer tutoring by either bilingual or English-only tutors shows no statistically significant effect on oral language proficiency (Serrano, 1987)](cross-level-peer-tutoring-null-oral-proficiency.md) — a narrower finding that bears on this claim

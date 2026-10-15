@@ -1,6 +1,6 @@
 ---
 type: claim
-title: "The modality effect holds for middle school students learning electricity with multimedia animation in real school settings: spoken-text groups significantly outperform written-text groups with both abstract and concrete animation"
+title: In one middle-school quasi-experiment on electricity, spoken-text groups outperform written-text groups with both abstract and concrete animation (d = .35)
 description: "The modality effect holds for middle school students learning electricity with multimedia animation in real school settings: spoken-text groups significantly outperform written-text groups with both abstract and concr..."
 id: modality-effect-holds-middle-school-electricity
 status: draft
@@ -27,10 +27,11 @@ sources:
     rigour: 2
 ---
 
-# The modality effect holds for middle school students learning electricity with multimedia animation in real school settings: spoken-text groups significantly outperform written-text groups with both abstract and concrete animation
+# In one middle-school quasi-experiment on electricity, spoken-text groups outperform written-text groups with both abstract and concrete animation (d = .35)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i1` small
+<!-- title before 2026-10-15: The modality effect holds for middle school students learning electricity with multimedia animation in real school settings: spoken-text groups significantly outperform written-text groups with both abstract and concrete animation -->
 
 ## Subclaims
 `q2 i1` Spoken text with abstract animation (Sp-A) yielded significantly higher achievement than written text with abstract animation (W-A), d = .35. [→ Kutbay 2020](#kutbay-2020)

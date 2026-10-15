@@ -137,6 +137,10 @@
         [
           "redundancy-principle-mayer-2008",
           "+"
+        ],
+        [
+          "bimodal-captioned-input-improves-segmentation",
+          "+"
         ]
       ]
     }

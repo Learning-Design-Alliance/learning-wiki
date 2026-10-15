@@ -81,7 +81,7 @@ Nothing here says where retention falls off.
 - [Retention trajectories diverged by centre: Centre 1 retained gains at 30 days while Centre 2 showed significant post-to-delayed decay](podcast-retention-divergence-massed-vs-distributed.md) — a narrower finding that bears on this claim
 - [Participants in an intensive competency-based mastery workshop mastered more than 98% of their workshop enabling objectives](mastery-workshop-98-percent-objective-completion.md) — related
 - [The GoldList Notebook Method increases long-term retention of L2 idioms compared with a vocabulary lesson alone](goldlist-method-improves-l2-vocabulary-retention.md) — related
-- [Delaying oral production and emphasizing aural comprehension in initial EFL instruction produces better results than intensive oral practice](listening-first-outperforms-intensive-oral-practice.md) — related
+- [A 2010 teacher guide reports, citing Postovsky (1974, 1975), that delaying oral production and emphasising aural comprehension early in EFL instruction gives better results than intensive oral practice](listening-first-outperforms-intensive-oral-practice.md) — related
 - [Task rehearsal improves fluency and complexity on the repeated task but does not transfer to a new task of the same type](task-repetition-fluency-complexity-same-task-only.md) — related
 - [Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months](distributed-practice-limits-l2.md) — related
 - [Infants retain verbal material over delays, indicating adult-like storage of speech](infant-verbal-memory-retention.md) — related

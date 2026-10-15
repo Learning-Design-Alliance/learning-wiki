@@ -29,14 +29,14 @@ sources:
 # Contrasting Cases
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 11 claims (8 for, 2 mixed, 1 against) · 21 studies (12 causal, 6 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 4 of 21 report an effect size · 2 claims rest on one study
+> **Evidence** · 10 claims (7 for, 2 mixed, 1 against) · 21 studies (12 causal, 6 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 4 of 21 report an effect size · 2 claims rest on one study
 
 ## Description
 Contrasting cases are two or more examples deliberately built to be alike in most respects and different in exactly the respect the learner is supposed to notice. Placed side by side, the difference becomes perceptible in a way it never is when cases are met one at a time — a single case gives the learner nothing to measure it against, so its critical features and its incidental ones look alike. The strategy's defining move is the design of the contrast set, not the act of comparing: what varies across the cases is what learners will end up attending to, so the variation has to be built to point at the target feature and hold everything else still.
 
 ## Design Implications
 
-Comparison outperforms studying the same cases sequentially, and the advantage is largest when learners are prompted to state what differs rather than left to notice on their own [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](../claims/comparing-contrasting-cases-improves-learning.md) [+S]. The mechanism is alignment: setting two structurally similar cases against each other forces the learner to map one onto the other, and the residue of that mapping is an abstracted schema rather than a memory of two episodes [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](../claims/comparing-contrasting-cases-improves-learning.md) [+S], which is also why the abstraction transfers to problems that look nothing like the originals [Analogical Reasoning Improves Transfer](../claims/analogical-reasoning-improves-transfer.md) [+M].
+Comparison outperforms studying the same cases sequentially, and the advantage is largest when learners are prompted to state what differs rather than left to notice on their own [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](../claims/comparing-contrasting-cases-improves-learning.md) [+S]. The mechanism is alignment: setting two structurally similar cases against each other forces the learner to map one onto the other, and the residue of that mapping is an abstracted schema rather than a memory of two episodes [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](../claims/comparing-contrasting-cases-improves-learning.md) [+S], which is also why the abstraction transfers to problems that look nothing like the originals [Analogical Reasoning Improves Transfer](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 The strategy is most distinctive when it runs *before* instruction. Schwartz and Bransford's "time for telling" result is that learners who first analyse contrasting cases and then hear an explanation outperform learners who get the explanation first — the contrast set does not teach the concept, it manufactures the noticing that makes the subsequent explanation land [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M]. Used that way it is a preparation activity, and judging it on what learners can do immediately after the comparison, before any telling, will make it look like a failure.
 
@@ -71,7 +71,7 @@ The strategy is most distinctive when it runs *before* instruction. Schwartz and
 ### Target Learning Goals
 - Perceptual discrimination: reliably telling apart categories that look alike to a novice
 - Conceptual understanding of what a principle actually ranges over, including the cases it excludes
-- Transfer to structurally similar problems with different surface features [Analogical Reasoning Improves Transfer](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- Transfer to structurally similar problems with different surface features [Analogical Reasoning Improves Transfer](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Readiness to learn from a subsequent lecture, text, or demonstration
 - Flexible knowledge in ill-structured domains where no single case is representative [Presenting multiple cases from different perspectives supports transfer in ill-structured domains](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]
 
@@ -89,7 +89,7 @@ The strategy is most distinctive when it runs *before* instruction. Schwartz and
 - [Comparing Cases](comparing_cases.md) — comparison of cases that are not necessarily engineered to isolate a single dimension
 - [Analogical Encoding](analogical-encoding.md) — comparison of structurally parallel cases to abstract a shared relational schema, rather than to detect a difference
 - [Comparing Multiple Solution Methods](comparing_multiple_solution_methods.md) — contrasting cases applied to procedures instead of concepts
-- [Worked Examples](worked-examples-first.md) — the alternative when the goal is fluent execution rather than discrimination; example–problem pairs and contrast sets often alternate [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S]
+- [Worked Examples](worked-examples-first.md) — the alternative when the goal is fluent execution rather than discrimination; example–problem pairs and contrast sets often alternate [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-example-problem-sequences.md) [+S]
 - [Case-Based Learning](case-based-learning.md) — extended authentic cases, where the contrast is across a sequence rather than within one activity [Case-based learning improves exam performance](../claims/case-based-learning-improves-exam-performance.md) [+M]
 
 ## Examples

@@ -39,7 +39,7 @@ The paper argues that Indigenous knowledge should be incorporated into curricula
 ### Claims
 
 - Indigenous Ways Of Knowing Transformative Student Learning [+M]
-- [The authors' research indicates strong student interest in local Indigenous culture, which supports locally-based teaching of cultural knowledge](../claims/local-indigenous-culture-student-interest.md) [+W]
+- [Staff at one university Indigenous centre report that many students, Indigenous and non-Indigenous, show keen interest in local Indigenous culture and take part avidly when it is taught](../claims/local-indigenous-culture-student-interest.md) [+W]
 - [SAIL embeds Indigenous and cultural perspectives as integral competencies across all domains and levels rather than as add-ons](../claims/indigenous-perspectives-integral-across-sail-levels.md) [+W]
 - [When AI/AN communities design their own place-, culture-, and language-based education programs, students' school engagement and learning flourish](../claims/culture-based-programs-flourish-engagement.md) [+W]
 

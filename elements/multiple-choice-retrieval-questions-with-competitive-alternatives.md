@@ -18,7 +18,7 @@ sources:
 # Multiple-choice retrieval practice questions with competitive alternatives
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 mixed, 1 unmarked) · 6 studies (3 causal, 2 quant-synthesis, 1 associational), `q3`–`q4` · 3 of 6 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 mixed, 1 unmarked) · 7 studies (3 causal, 2 quant-synthesis, 1 review, 1 associational), `q3`–`q4` · 4 of 7 report an effect size · 3 claims rest on one study
 
 ## Description
 A recognition-format retrieval practice item: a multiple-choice question whose incorrect options are competitive alternatives, intended to make recognition practice demand retrieval comparable to short-answer production. The study built its MCQs this way, "by including competitive alternatives in the MCQs to ensure that the MCQs cannot be attributed to being relatively easier than short-answer questions", scoring one point per correct response.

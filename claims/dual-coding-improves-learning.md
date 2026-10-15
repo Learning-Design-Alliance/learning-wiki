@@ -102,9 +102,9 @@ The experiments tested whether pictures are remembered better than words because
 | [Guo et al. 2020](https://doi.org/10.1177/2332858420901696) | q4 · quant-synthesis · r2 | i1 · small-to-moderate effect, g=0.39 | this claim |
 | [Carney and Levin 2002](https://doi.org/10.1023/a:1013176309260) | q2 · review · r? | i? | this claim |
 | [Higdon et al. 2025](https://doi.org/10.1177/17470218241235520) | q3 · causal · r? | i? | this claim |
-| Alty 2002 | q3 · causal · r? | i? | [Different media combinations significantly affect the recall and retention of information](media-combinations-affect-recall-and-retention.md) (supports) |
+| Alty 2002 | q3 · causal · r? | i? | [In one 37-student classroom experiment, recall and retention differ across media combinati](media-combinations-affect-recall-and-retention.md) (supports) |
 | [Restrepo Ramos 2015](https://doi.org/10.15446/profile.v17n1.43957) | q2 · review · r2 | i? | [Combining textual and pictorial glosses improves incidental vocabulary learning more than ](multimodal-glosses-improve-incidental-vocabulary-learning.md) (supports) |
-| Ceballos & Nutta 2022 | q2 · review · r2 | i? | [Presenting words together with instructionally relevant pictures (multimedia principle) is](multimedia-principle-words-and-pictures-outcomes.md) (supports) |
+| Ceballos & Nutta 2022 | q2 · review · r2 | i? | [A practice article reports that the studies it cites found better post-test outcomes from ](multimedia-principle-words-and-pictures-outcomes.md) (supports) |
 | [Nesbit & Adesope 2006](https://doi.org/10.3102/00346543076003413) | q4 · quant-synthesis · r2 | i2 · medium effect, g=0.60 overall (0.37 for studying maps) | [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) (qualifies) |
 | [Schroeder et al. 2018](https://doi.org/10.1007/s10648-017-9403-9) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.58 | [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) (qualifies) |
 | [Sundararajan & Adesope 2020](https://doi.org/10.1007/s10648-020-09522-4) | q3 · quant-synthesis · r? | i? | [Interesting but irrelevant details can impair comprehension and transfer, with effects tha](seductive-details-effect.md) (qualifies) |
@@ -138,16 +138,16 @@ Open questions: how durable the recall advantage is over long retention interval
 - [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — the load-management counterpart to adding a second representation
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — a complementary strategy for managing representational demands
 - [Advance organizers improve learning](advance-organizers-improve-learning.md) — visual organizers are a common dual-coding implementation
-- [Analogical reasoning improves transfer](analogical-reasoning-improves-transfer.md) — visual analogies pair verbal and pictorial codes to support transfer
+- [Analogical reasoning improves transfer](comparing-contrasting-cases-improves-learning.md) — visual analogies pair verbal and pictorial codes to support transfer
 - [Hispanic adults valued culturally relevant visual design — bright colors, Hispanic representation, and realistic imagery — in lung cancer screening educational materials](culturally-relevant-visual-design-lcs-materials.md) — a narrower finding that bears on this claim
 - [Decorative Illustrations Do Not Improve Learning](seductive-details-effect.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — a broader claim this one bears on
 - [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](learner-constructed-graphic-organizers-outperform-provided.md) — related
 - [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) — related
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
-- [Different media combinations significantly affect the recall and retention of information](media-combinations-affect-recall-and-retention.md) — related
+- [In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts](media-combinations-affect-recall-and-retention.md) — related
 - [Combining textual and pictorial glosses improves incidental vocabulary learning more than single-mode glosses](multimodal-glosses-improve-incidental-vocabulary-learning.md) — a narrower finding that bears on this claim
-- [Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally](multimedia-principle-words-and-pictures-outcomes.md) — related
+- [A practice article reports that the studies it cites found better post-test outcomes from words with relevant pictures than from words alone, especially with spoken words](multimedia-principle-words-and-pictures-outcomes.md) — related
 - [Activation improves learning.](activation-improves-learning.md) — prior knowledge determines whether a second representation adds retrieval routes
 - [Dual coding theory](../theories/dual-coding-theory.md) — the theoretical account of separate verbal and visual memory systems
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — added representations can become redundant for advanced learners

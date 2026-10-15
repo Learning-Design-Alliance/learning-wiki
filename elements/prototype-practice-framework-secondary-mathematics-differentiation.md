@@ -44,8 +44,8 @@ The article presents a prototype practice framework developed within a broader s
 
 - [Sporadic, disconnected professional learning does not change practice long term, whereas well-structured programs can build differentiation skills with positive student outcomes](../claims/structured-professional-learning-builds-differentiation-skills.md) [+W]
 - [Teacher efficacy underpins the ability to differentiate instruction effectively, with efficacy dependent on pedagogical content knowledge](../claims/teacher-efficacy-pck-underpin-differentiation.md) [+W]
-- [Students in heterogeneous mathematics classrooms learn more, enjoy mathematics more, and achieve higher understanding than in streamed settings](../claims/heterogeneous-mathematics-classrooms-benefit-students.md) [+W]
-- [Attainment (ability) grouping is generally reported to impact negatively on student learning outcomes](../claims/streaming-impacts-negatively-on-learning-outcomes.md) [+W]
+- [A practice-framework article reports, citing Boaler and Staples (2008), that students in heterogeneous mathematics classrooms learn more, enjoy mathematics more and reach higher understanding than in streamed settings](../claims/heterogeneous-mathematics-classrooms-benefit-students.md) [+W]
+- [A narrative review reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested](../claims/streaming-impacts-negatively-on-learning-outcomes.md) [+W]
 - [Effective implementation of formative assessment is hindered by its complexity, summative-assessment pressure, and teachers' negative early experiences](../claims/formative-assessment-implementation-barriers.md) [~W]
 
 ## Related Elements

@@ -44,5 +44,5 @@ Meta-analysis of 107 independent effect sizes comparing ITS to non-ITS instructi
 
 ## Related Claims
 - [ITS significantly outperform large-group human instruction, individual computer-based instruction, and textbooks or workbooks, but not small-group or individual human tutoring](its-beats-large-group-cbi-textbooks-not-human-tutoring.md) — a narrower finding that bears on this claim
-- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — possibly the same claim (merge candidate)
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — possibly the same claim (merge candidate)
 - [Bayesian network modeling ITS showed a higher weighted mean effect size than model tracing and constraint-based modeling, but only under a fixed-effect model](its-type-bayesian-higher-than-model-tracing-fixed-effect.md) — a narrower finding that bears on this claim

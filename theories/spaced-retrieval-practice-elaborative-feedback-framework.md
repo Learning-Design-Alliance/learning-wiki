@@ -16,7 +16,7 @@ sources:
 # Three complementary cognitive-science learning principles implemented as spaced retrieval practice with elaborative feedback
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 2 studies (1 causal, 1 review), `q2`–`q3` · 1 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 2 studies (1 causal, 1 review), `q2`–`q3` · 1 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 The article organizes its intervention around three robust and complementary learning principles: retrieval practice (testing enhances retention and transfer), feedback containing correct answers with elaboration on why an answer is correct, and spacing review over time rather than massing it. The article states these "can be implemented simultaneously in a practicable manner in the form of spaced retrieval practice with elaborative feedback," which is exactly the design of the smartphone-app intervention tested after the credit workshop.
@@ -41,9 +41,8 @@ The article organizes its intervention around three robust and complementary lea
 
 ### Claims
 
-- [Spaced Retrieval Practice Improves Financial Knowledge Retention](../claims/spaced-retrieval-practice-improves-financial-knowledge-retention.md) [+M]
-- [Spaced Beats Massed And Control Financial Knowledge](../claims/spaced-beats-massed-and-control-financial-knowledge.md) [+M]
-- [The spaced-practice knowledge benefit reflects deeper learning or transfer rather than memorization of repeated items](../claims/spaced-practice-benefit-reflects-transfer-not-item-memorization.md) [+M]
+- [Spaced Retrieval Practice Improves Financial Knowledge Retention](../claims/spaced-beats-massed-and-control-financial-knowledge.md) [+M]
+- [The authors attribute the spaced-practice knowledge benefit to deeper learning or transfer, because quiz and final-test items were never repeated](../claims/spaced-practice-benefit-reflects-transfer-not-item-memorization.md) [+M]
 - [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](../claims/less-initial-retrieval-support-produces-better-retention.md) [+W]
 - [Practice condition showed no significant association with self-reported financial behaviors about credit](../claims/practice-condition-no-effect-financial-behaviors.md) [~W]
 - [Practice condition did not significantly affect learners' subjective confidence about credit knowledge or ability to manage credit](../claims/practice-condition-no-effect-financial-metacognition.md) [~W]

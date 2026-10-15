@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally
-description: Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally
+title: A practice article reports that the studies it cites found better post-test outcomes from words with relevant pictures than from words alone, especially with spoken words
+description: A practice article reports that the studies it cites found better post-test outcomes from words with relevant pictures than from words alone, especially with spoken words
 id: multimedia-principle-words-and-pictures-outcomes
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally
+# A practice article reports that the studies it cites found better post-test outcomes from words with relevant pictures than from words alone, especially with spoken words
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+<!-- title before 2026-10-15: Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally -->
 
 ## Subclaims
 `q2 i?` Studies cited by the article demonstrated improved post-test learning outcomes when both words and pictures were presented instead of words alone, with Herrlinger et al. (2017) finding learning improved especially when words were delivered orally. [→ Marjorie Ceballos 2022](#ceballos-nutta-2022)
@@ -45,6 +46,6 @@ A practice-to-theory article (the authors' own term), not a review of its own: i
 ## Related Claims
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related
-- [Different media combinations significantly affect the recall and retention of information](media-combinations-affect-recall-and-retention.md) — related
+- [In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts](media-combinations-affect-recall-and-retention.md) — related
 - [Multimedia Principles Benefit Novices](expertise-reversal-effect.md) — related
 - [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](redundancy-hurts-learning.md) — related

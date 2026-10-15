@@ -59,6 +59,8 @@ Francis, N. (2006). Bilingual competence, metalinguistic awareness, and the regi
 
 Francis's synthesis links bilingual competence directly to the development of metalinguistic awareness, framing it as a general cognitive skill in reflecting on language, which in turn supports downstream literacy tasks like writing and reading comprehension of complex texts.
 
+<!-- citation check 2026-10-15: neither this citation (IJAL 16(1), 21-45) nor the principle page's Key Sources version (Handbook of Bilingualism chapter, pp. 137-163) is found on Crossref. Crossref does list Francis, N. (2011), Bilingual Competence and Bilingual Proficiency in Child Development (MIT Press, doi:10.7551/mitpress/9780262016391.001.0001), with chapters on metalinguistic awareness, bilingualism, writing and reading; which work this entry rests on is unestablished. -->
+
 ## Discussion
 
 This claim links a specific bilingual cognitive advantage to the broader construct of [Metacognition](../theories/metacognition.md) — the reflective skill fluent bilinguals show toward *language itself* is a domain-specific instance of the general capacity to monitor and reflect on one's own thinking. The benefit is specific to *balanced/fluent* bilingualism, not bilingualism in any degree; a student still acquiring one of their two languages, or one who has lost fluency in a heritage language (see [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md)), would not be expected to show the same advantage, since the mechanism depends on genuine, comparably fluent command of both languages to reflect across.

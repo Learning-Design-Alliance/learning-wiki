@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Self-generated elaboration improves procedural knowledge more than instructor-assisted elaboration in introductory accounting
-description: Self-generated elaboration improves procedural knowledge more than instructor-assisted elaboration in introductory accounting
+title: "In one introductory accounting experiment, self-generated elaboration scored above instructor-assisted elaboration on procedural knowledge at the p = .05 boundary, and not significantly above a combined strategy"
+description: In one introductory accounting experiment, self-generated elaboration scored above instructor-assisted elaboration on procedural knowledge at the p = .05 boundary, and not significantly above a combined strategy
 id: self-generated-elaboration-improves-procedural-knowledge-accounting
 status: draft
 generated:
@@ -19,10 +19,12 @@ sources:
     rigour: 2
 ---
 
-# Self-generated elaboration improves procedural knowledge more than instructor-assisted elaboration in introductory accounting
+# In one introductory accounting experiment, self-generated elaboration scored above instructor-assisted elaboration on procedural knowledge at the p = .05 boundary, and not significantly above a combined strategy
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+
+<!-- title before 2026-10-15: Self-generated elaboration improves procedural knowledge more than instructor-assisted elaboration in introductory accounting -->
 
 ## Subclaims
 `q2 i?` Students taught under self-generated elaboration scored higher on procedural knowledge than students taught under instructor-assisted elaboration (significant at the 5% level), but not significantly higher than students under the combined strategy. [→ Xiong 2014](#xiong-2014)
@@ -37,7 +39,7 @@ Xiong, Y., Zhou, H., & Ogilby, S. M. (2014). Experimental Investigation of the E
 
 Univariate t-tests among three treatment groups (n = 26, 26, 25) in a pretest/posttest classroom experiment. The self-generated group outperformed the instructor-assisted group (t=1.99, p=0.05); self vs. combined was "not statistically significant" (t=0.40, p=0.69).
 
-> "That is, the self-elaboration strategy does improve students’ Procedural knowledge at 5% significance level compared to the instructor-assisted elaboration st rategy. The results are positive but are not statistically significant when comparing the self elaboration with the combined strategy."
+> "That is, the self-elaboration strategy does improve students’ Procedural knowledge at 5% significance level compared to the instructor-assisted elaboration strategy. The results are positive but are not statistically significant when comparing the self elaboration with the combined strategy."
 
 ## Discussion
 
@@ -45,6 +47,6 @@ Univariate t-tests among three treatment groups (n = 26, 26, 25) in a pretest/po
 
 - [Elaborative Encoding Improves Retention](generative-processing-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [GPA, pretest score, and self-generated elaboration jointly predict intellectual skills but not procedural knowledge or attitudes](gpa-pretest-elaboration-interaction-intellectual-skills.md) — related
-- [Self-generated elaboration improves intellectual skills more than instructor-assisted elaboration, but not more than the combined strategy](self-generated-elaboration-improves-intellectual-skills.md) — related
+- [In one accounting classroom experiment, self-generated elaboration scored marginally above instructor-assisted elaboration on intellectual skills (p = .06, omnibus test not significant) and no higher than a combined strategy](self-generated-elaboration-improves-intellectual-skills.md) — related
 - [Cognitive elaboration strategy significantly affects overall posttest performance, with self-generated elaboration highest](elaboration-strategy-affects-posttest-performance.md) — related
 - [GPA predicts procedural knowledge and intellectual skills but not attitudes toward learning](gpa-predicts-knowledge-not-attitudes.md) — related

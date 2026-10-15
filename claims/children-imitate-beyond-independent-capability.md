@@ -43,6 +43,6 @@ Theoretical argument reported in this review paper, attributed to Vygotsky via v
 
 
 ## Related Claims
-- [Choice-rich infrastructure enables self-sustained, self-extending student projects well beyond a challenge's designed scope](choice-rich-infrastructure-supports-productive-deviation-and-learning.md) — related
+- [In one extreme case, two sixth-graders with a choice-rich, ungraded STEAM infrastructure extended a game-design challenge into a year-long self-directed project well beyond its designed scope](choice-rich-infrastructure-supports-productive-deviation-and-learning.md) — related
 - [In pretend play the child behaves beyond her average age and daily behaviour](pretend-play-child-head-taller.md) — related
 - [Challenging tasks within the child's capability promote maximum cognitive growth, per the account presented](vygotsky-challenging-tasks-promote-growth.md) — related

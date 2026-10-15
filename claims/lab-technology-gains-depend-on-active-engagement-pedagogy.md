@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Technology-supported learning gains depend on the technology being used within student-centered, active-engagement pedagogy
-description: Technology-supported learning gains depend on the technology being used within student-centered, active-engagement pedagogy
+title: "The authors of one physics-course study attribute its technology-supported gains to the student-centred, active-engagement pedagogy the technology was used within"
+description: The authors of one physics-course study attribute its technology-supported gains to the student-centred, active-engagement pedagogy the technology was used within
 id: lab-technology-gains-depend-on-active-engagement-pedagogy
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 1
 ---
 
-# Technology-supported learning gains depend on the technology being used within student-centered, active-engagement pedagogy
+# The authors of one physics-course study attribute its technology-supported gains to the student-centred, active-engagement pedagogy the technology was used within
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+<!-- title before 2026-10-15: Technology-supported learning gains depend on the technology being used within student-centered, active-engagement pedagogy -->
 
 ## Subclaims
 `q2 i?` The authors argue the learning gains arose because technology supported a student-centered, active engagement curriculum, and would not expect the same gains in a lecture-based course switching to high-tech traditional labs. [→ Brewe 2007](#brewe-2007)

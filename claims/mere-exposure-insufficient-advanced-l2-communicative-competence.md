@@ -44,7 +44,7 @@ Diary-based self-study: the author, an advanced learner with 1.5 years in Englis
 
 ## Related Claims
 - [Adult learners generally find pronunciation more difficult than children and are unlikely to achieve native-like pronunciation, though experience and self-monitoring offset this somewhat](adults-find-pronunciation-harder-than-children.md) — related
-- [L2 learners never develop fully native-like skill: they read consistently slower and miss subtle anaphoric interpretation distinctions](l2-skill-never-fully-native-like.md) — related
+- [A 2010 narrative review reports that even very advanced L2 learners read more slowly than native speakers and miss subtle anaphoric interpretation distinctions](l2-skill-never-fully-native-like.md) — related
 - [Spanish business professionals develop English outside work mainly through reading in English, watching original-version television and films, and speaking with native English speaking friends](out-of-work-english-practices-spanish-professionals.md) — related
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — a narrower finding that bears on this claim
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — a narrower finding that bears on this claim

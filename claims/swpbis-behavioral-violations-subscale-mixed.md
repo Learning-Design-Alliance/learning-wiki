@@ -33,7 +33,7 @@ sources:
 
 Catherine P. Bradshaw, Mary M. Mitchell, & Philip J. Leaf. (2010). Examining the Effects of Schoolwide Positive Behavioral Interventions and Supports on Student Outcomes: Results From a Randomized Controlled Effectiveness Trial in Elementary Schools. Journal of Positive Behavior Interventions, 12(3), 133-148. https://doi.org/10.1177/1098300709334798
 
-`q3 · i?` · `causal · r2`
+`q3 · i? · within-school Year 1 to Year 4 change only, d = .90; no treatment-control effect size` · `causal · r2`
 
 Repeated measures GLM on SET subscale data from the randomized trial; the behavioral violations subscale was the one of seven subscales not significant across all 4 years.
 

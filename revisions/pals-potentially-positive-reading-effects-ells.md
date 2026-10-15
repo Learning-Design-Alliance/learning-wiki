@@ -7,3 +7,8 @@ page: ../claims/pals-potentially-positive-reading-effects-ells.md
 
 ### 2026-10-07 · ingest · process:wiki-ingest
 Ingested from hub-576 (Peer-Assisted Learning Strategies — English Language Learners (Reading)) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/pals-improvement-index-reading-12-percentile
+
+### 2026-10-07 · ingest · process:wiki-ingest
+Ingested from hub-576 (Peer-Assisted Learning Strategies — English Language Learners (Reading)) via eval_harness.py + ingest_extractions.py

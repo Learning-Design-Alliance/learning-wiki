@@ -19,7 +19,7 @@ This strategy makes the *strategic layer* of problem solving an explicit object 
 
 ## Design Implications
 
-Explicit strategy instruction works because novices lack the schemas to recognize problem types and select appropriate methods on their own; teaching the selection criteria directly reduces unproductive search [Example-problem sequences reduce cognitive load for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]. The critical design move is the shift from *modeling* strategies to *learner choice*: having learners select among taught strategies and compare outcomes builds conditional knowledge (when and why each strategy applies) that pure imitation does not [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Strategy instruction should be embedded in domain content rather than taught as context-free heuristics — generic "problem-solving skills" taught in isolation transfer poorly.
+Explicit strategy instruction works because novices lack the schemas to recognize problem types and select appropriate methods on their own; teaching the selection criteria directly reduces unproductive search [Example-problem sequences reduce cognitive load for novices.](../claims/worked-example-problem-sequences.md) [+M]. The critical design move is the shift from *modeling* strategies to *learner choice*: having learners select among taught strategies and compare outcomes builds conditional knowledge (when and why each strategy applies) that pure imitation does not [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Strategy instruction should be embedded in domain content rather than taught as context-free heuristics — generic "problem-solving skills" taught in isolation transfer poorly.
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Explicit strategy instruction works because novices lack the schemas to recogniz
 - **Embedded in [Case-Based Learning](../patterns/case-based-learning.md)**: cases supply the varied problem types that make strategy choice consequential
 
 ### Target Learners
-- Novices who lack a repertoire of approaches and default to trial-and-error search [Example-problem sequences reduce cognitive load for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+- Novices who lack a repertoire of approaches and default to trial-and-error search [Example-problem sequences reduce cognitive load for novices.](../claims/worked-example-problem-sequences.md) [+M]
 - Intermediate learners who can execute procedures but cannot diagnose which procedure a novel problem requires
 - Less beneficial for experts, who already possess and flexibly deploy strategies [Expertise reversal effect.](../claims/expertise-reversal-effect.md) [~S]
 

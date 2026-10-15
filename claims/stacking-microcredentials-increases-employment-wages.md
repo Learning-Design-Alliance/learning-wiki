@@ -9,8 +9,8 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 sources:
-  - id: meyer
-    title: meyer
+  - id: tinsley-2022
+    title: Tinsley 2022
     q: 2
     i: "?"
     kind: associational
@@ -23,11 +23,11 @@ sources:
 > **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
-`q2 i?` Meyer et al. found that combining micro-credentials that build on one another increases employment by four percent and quarterly wages by seven percent, with larger increases for people whose first credential was a short-term certificate. [→ meyer](#meyer)
+`q2 i?` Meyer et al. found that combining micro-credentials that build on one another increases employment by four percent and quarterly wages by seven percent, with larger increases for people whose first credential was a short-term certificate. [→ Tinsley 2022](#tinsley-2022)
 
 ## Evidence
 
-### meyer
+### Tinsley 2022
 
 Tinsley, B., Cacicio, S., Shah, Z., Parker, D., Younge, O. & Luke Luna C. (2022, March). Micro-credentials for social mobility in rural postsecondary communities: A landscape report. Digital Promise. https://doi.org/10.51388/20.500.12265/151
 

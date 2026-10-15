@@ -60,5 +60,5 @@ Bootstrap mediation for task type in the same model: only the autonomy pathway w
 - [Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no independent effect](competence-strongest-predictor-relatedness-null.md) — related
 - [The TBI advantage over SBI is larger under open-ended tasks than under structured tasks](tbi-advantage-larger-under-oet-interaction.md) — related
 - [In agentic AI-supported online learning, perceived autonomy, competence, and relatedness are each positively associated with learning motivation](sdt-needs-positive-learning-motivation-agentic-ai.md) — related
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
 - [Thinking-based instruction produces higher AI literacy performance than skills-based instruction in an AIGC image-generation task](tbi-outperforms-sbi-ai-literacy-performance.md) — related

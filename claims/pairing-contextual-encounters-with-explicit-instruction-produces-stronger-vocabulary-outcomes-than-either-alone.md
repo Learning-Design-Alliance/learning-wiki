@@ -43,7 +43,7 @@ This meta-analysis synthesized studies on the effects of vocabulary instruction 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does combining explicit instruction with contextual or incidental learning outperform either alone?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **7 distinct studies** (4 quant-synthesis, 3 review), `q2`–`q3`, 2 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does combining explicit instruction with contextual or incidental learning outperform either alone?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **8 distinct studies** (4 quant-synthesis, 3 review, 1 causal), `q2`–`q3`, 2 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -53,7 +53,8 @@ This meta-analysis synthesized studies on the effects of vocabulary instruction 
 | [Uchihara et al. 2019](https://doi.org/10.1111/lang.12343) | q3 · quant-synthesis · r? | i2 · medium effect, r=.34 | [Incidental vocabulary exposure produces reliable learning, but learners pick up only a sma](incidental-vocabulary-exposure-limited.md) (supports) |
 | [Webb et al. 2023](https://doi.org/10.1017/s0261444822000507) | q3 · quant-synthesis · r2 | i3 · large effect, g = 1.14 on first posttests | [Incidental vocabulary exposure produces reliable learning, but learners pick up only a sma](incidental-vocabulary-exposure-limited.md) (supports) |
 | Kamil 2008 | q2 · review · r2 | i? | [Incidental vocabulary exposure produces reliable learning, but learners pick up only a sma](incidental-vocabulary-exposure-limited.md) (supports) |
-| Ponniah 2011 | q2 · review · r1 | i? | [Incidental vocabulary acquisition through comprehensible input is more powerful than inten](incidental-vocabulary-acquisition-more-powerful-than-intentional.md) (counts against) |
+| Ponniah 2011 | q2 · review · r1 | i? | [Incidental vocabulary acquisition through comprehensible input is more powerful than inten](incidental-vocabulary-acquisition-more-powerful-than-intentional.md) (counts against); [Adult ESL students who read a short story could use incidentally acquired words in sentenc](incidental-reading-enables-productive-word-use.md) (qualifies) |
+| [Tetiana Zubenko 2019](https://doi.org/10.20535/2410-8286.165717) | q2 · causal · r1 | i? | [Listening to vocabulary lessons while physically active improves End-of-Unit exam performa](lwpa-outperforms-traditional-vocabulary-learning.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

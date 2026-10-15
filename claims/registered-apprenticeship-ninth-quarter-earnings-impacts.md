@@ -41,8 +41,9 @@ Earnings outcomes from the same impact evaluation of the two DOL grant programs,
 
 ## Discussion
 
-
 ## Related Claims
+
+- [An adult-education market report asserts, quoting earlier research it does not detail, that adult training yields better results the more closely it relates to a real job or occupation](employer-relevant-training-improves-adult-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Registered apprenticeship programs had large, statistically significant positive impacts on employment in the ninth quarter following enrollment relative to both community college students and Wagner-Peyser participants](registered-apprenticeship-ninth-quarter-employment-impacts.md) — related
 - [Registered apprenticeship had strong ninth-quarter employment and earnings impacts for IT, healthcare, and advanced manufacturing sectors](registered-apprenticeship-sector-impacts-it-healthcare-manufacturing.md) — related
 - [Unregistered apprenticeship programs had positive, statistically significant impacts on ninth-quarter earnings, ranging from $3,368 to $3,490](unregistered-apprenticeship-ninth-quarter-earnings-impacts.md) — related

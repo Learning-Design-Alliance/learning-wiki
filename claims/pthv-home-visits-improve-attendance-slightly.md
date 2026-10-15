@@ -83,11 +83,10 @@ Same matched comparison group study of grades 1-5 home visits in DC Public Schoo
 
 - [Teachers who took part in funds of knowledge household research came to view their minority students as competent and raised their expectations of them.](funds-of-knowledge-research-raises-teacher-expectations.md) — the general claim this finding bears on, with the studies behind it
 
-- [Home visits showed slight improvements in math scores but no difference in ELA scores](pthv-math-slight-gain-ela-no-difference.md) — related
+- [Home visits showed slight improvements in math scores but no difference in ELA scores](pthv-home-visit-math-gain-no-ela-difference.md) — related
 - [Only the 200740F high-use group showed a significantly higher rate of good academic standing compared to non-visitors](tutoring-good-standing-significant-only-one-cohort.md) — related
 - [Freshmen who visited the tutoring center more than 10 times per quarter had statistically higher persistence rates than students who did not visit](high-use-tutoring-center-visits-higher-persistence.md) — related
 - [In the Tucson funds of knowledge project, teachers visiting language minority households found funds of knowledge to be abundant and diverse.](home-visits-reveal-abundant-diverse-household-funds-of-knowledge.md) — related
-- [Home visits improved standardized math scores (ES = +0.11) but showed no difference in ELA scores](pthv-home-visit-math-gain-no-ela-difference.md) — related
 - [A home visit before the school year reduced the likelihood of a disciplinary incident (effect size = +0.10)](pthv-home-visit-reduces-disciplinary-incidents.md) — related
 - [PTHV is rated promising for social-emotional learning with an average effect size of +0.10 from one study](pthv-sel-promising-rating-es-010.md) — related
 - [In Los Angeles Unified, student attendance increased following visits to a school health center](shc-visits-linked-attendance-gains-lausd.md) — related

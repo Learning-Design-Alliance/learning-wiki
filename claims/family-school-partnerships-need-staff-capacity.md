@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Authentic family–school partnerships positively impact student achievement, but persist without staff training and coaching
-description: Authentic family–school partnerships positively impact student achievement, but persist without staff training and coaching
+title: A field guide asserts that authentic family–school partnerships benefit student achievement and argues that without staff training and coaching the school–family divide persists
+description: A field guide asserts that authentic family–school partnerships benefit student achievement and argues that without staff training and coaching the school–family divide persists
 id: family-school-partnerships-need-staff-capacity
 status: draft
 generated:
@@ -27,10 +27,11 @@ sources:
     rigour: 1
 ---
 
-# Authentic family–school partnerships positively impact student achievement, but persist without staff training and coaching
+# A field guide asserts that authentic family–school partnerships benefit student achievement and argues that without staff training and coaching the school–family divide persists
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r1` · `q1`
+<!-- title before 2026-10-15: Authentic family–school partnerships positively impact student achievement, but persist without staff training and coaching -->
 
 ## Subclaims
 `q1 i?` Authentic partnerships between school staff and families have a tremendous positive impact on student achievement. [→ Breaking Barriers 2022](#breaking-barriers-2022)

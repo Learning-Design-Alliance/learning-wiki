@@ -14,7 +14,7 @@ sources:
     title: "Baicheng Lin, Lingxi Jin, and Kyung-Seok Min. (2026). Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias. arXiv preprint. https://arxiv.org/abs/2608.01783"
     author: Baicheng Lin, Lingxi Jin, and Kyung-Seok Min
     q: 2
-    i: 3
+    i: "?"
     kind: design
     rigour: 2
 ---
@@ -22,10 +22,10 @@ sources:
 # Under single-pass deployment, Fs+CoT prompting yields the strongest agreement with teacher mean scores for music-analysis essay scoring (r = 0.795, ICC (2,1) = 0.657)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · design `r2` · `q2` · `i3` large
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
-`q2 i3` Among Fs+CoT, RAG, and SC under Run1, Fs+CoT achieved the strongest agreement with teacher mean scores, with the highest Pearson r, Krippendorff's alpha, and QWK and the lowest RMSE. [→ Baicheng Lin 2026](#baicheng-lin-2026)
+`q2 i?` Among Fs+CoT, RAG, and SC under Run1, Fs+CoT achieved the strongest agreement with teacher mean scores, with the highest Pearson r, Krippendorff's alpha, and QWK and the lowest RMSE. [→ Baicheng Lin 2026](#baicheng-lin-2026)
 
 ## Evidence
 
@@ -33,7 +33,7 @@ sources:
 
 Baicheng Lin, Lingxi Jin, and Kyung-Seok Min. (2026). Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias. arXiv preprint. https://arxiv.org/abs/2608.01783
 
-`q2 · i3` · `design · r2`
+`q2 · i?` · `design · r2`
 
 Comparison of three GPT-4o-mini prompting strategies against teacher mean scores for 300 undergraduate music-analysis responses, reported in Results Table 1. Fs+CoT led with "r = 0.795, ICC (2,1) = 0.657"; RAG and SC followed at r = 0.669 and 0.545.
 

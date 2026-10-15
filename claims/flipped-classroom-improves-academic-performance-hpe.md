@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Flipped classroom learning improves academic performance of undergraduate health professional students compared with traditional class learning (SMD = 0.57), at low certainty of evidence
-description: Flipped classroom learning improves academic performance of undergraduate health professional students compared with traditional class learning (SMD = 0.57), at low certainty of evidence
+title: In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)
+description: In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)
 id: flipped-classroom-improves-academic-performance-hpe
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 3
 ---
 
-# Flipped classroom learning improves academic performance of undergraduate health professional students compared with traditional class learning (SMD = 0.57), at low certainty of evidence
+# In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
+<!-- title before 2026-10-15: Flipped classroom learning improves academic performance of undergraduate health professional students compared with traditional class learning (SMD = 0.57), at low certainty of evidence -->
 
 ## Subclaims
 `q3 i2` Across 44 studies (n = 7813), academic performance was better in the flipped class method of learning than in traditional class learning, with a moderate standardised mean difference of 0.57 but very high heterogeneity. [→ Naing 2023](#naing-2023)

@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Adaptive learning improves outcomes
+title: "Intelligent tutoring systems improve achievement over non-individualised instruction"
 status: draft
 generated:
   by: claude/unspecified
@@ -28,10 +28,11 @@ sources:
     rigour: "?"
 ---
 
-# Adaptive learning improves outcomes
+# Intelligent tutoring systems improve achievement over non-individualised instruction
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q4` · `i2` medium
+<!-- title before 2026-10-15: Adaptive learning improves outcomes -->
 
 Learning environments that adjust task difficulty, sequencing, or support to individual learner performance can improve outcomes relative to fixed, one-size-fits-all sequences — but the effect depends heavily on how adaptation is implemented and for whom.
 
@@ -73,7 +74,7 @@ A meta-analysis of 50 controlled evaluations of intelligent computer tutoring sy
 | Digital Promise 2015 | q3 · causal · r? | i? | [A multi-site randomized controlled trial found Woot Math's adaptivity contributed signific](woot-math-rct-adaptivity-significant-effects.md) (supports) |
 | [Ikram M 2026](https://doi.org/10.3389/feduc.2026.1782626) | q2 · review · r2 | i2 | [Meta-analytic evidence reviewed reports medium-to-large positive effects of AI-enabled ada](ai-adaptive-learning-medium-large-effects-reviewed.md) (supports) |
 | [Simon Baradziej 2026](https://doi.org/10.1016/j.ssaho.2026.103418) | q2 · review · r3 | i? | [Adaptive learning systems report academic performance gains of 15–25% and engagement incre](adaptive-learning-gains-15-25-percent.md) (supports) |
-| [Mahamad 2025](https://doi.org/10.3390/fi17090383) | q2 · review · r2 | i? | [A reinforcement-learning adaptive learning system improved course grades by 12%, engagemen](rl-adaptive-system-grade-engagement-gains.md) (supports) |
+| [Mahamad 2025](https://doi.org/10.3390/fi17090383) | q2 · review · r2 | i? | [A technical review reports that one reinforcement-learning adaptive platform raised averag](rl-adaptive-system-grade-engagement-gains.md) (supports) |
 | [Bin Bakheet 2026](https://doi.org/10.1186/s40594-026-00630-1) | q2 · causal · r1 | i? | [An adaptive AI-based STEM instructional program produced statistically significant differe](adaptive-ai-stem-deep-learning-gains-sixth-grade.md) (supports) |
 | [Sibley 2026](https://doi.org/10.1016/j.caeo.2026.100420) | q3 · causal · r3 | i?; i2 | [Adaptive task difficulty in an ITS did not improve second-graders' mathematics posttest pe](task-difficulty-adaptation-no-learning-benefit-second-grade.md) (counts against); [Students in the non-adaptive condition reached significantly higher average mastery probab](non-adaptive-condition-higher-mastery-probabilities.md) (counts against); [Adaptive versus non-adaptive ITS condition showed no significant differences in mental eff](adaptive-its-no-difference-cognitive-load-enjoyment.md) (qualifies) |
 <!-- synthesis:end -->
@@ -130,8 +131,8 @@ A meta-analysis of 50 controlled evaluations of intelligent computer tutoring sy
 - [Within sociocultural theory, teacher feedback and AI-assisted peer feedback function as heterogeneous scaffolds with distinct natures and complementary advantages](heterogeneous-scaffolds-sct-framework.md) — related
 - [AutoTutor achieved learning gains comparable to human tutors in physics and computer literacy](autotutor-learning-gains-comparable-human-tutors.md) — related
 - [A narrative review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings](personalized-learning-outperforms-standardized-settings.md) — related
-- [The direction of difficulty adaptation, not merely its presence, determines AI-GBL outcomes](dda-adaptation-direction-determines-outcomes.md) — a narrower finding that bears on this claim
-- [A reinforcement-learning adaptive learning system improved course grades by 12%, engagement by 20%, and reduced dropout by 10% versus static curricula](rl-adaptive-system-grade-engagement-gains.md) — a narrower finding that bears on this claim
+- [In one quasi-experimental VR shooting study (n = 50), reported in a review, rule-based dynamic difficulty outperformed progressive difficulty](dda-adaptation-direction-determines-outcomes.md) — a narrower finding that bears on this claim
+- [A technical review reports that one reinforcement-learning adaptive platform raised average course grades by 12%, task completion by 20% and cut dropout by 10% against static curricula (uncontrolled case report)](rl-adaptive-system-grade-engagement-gains.md) — a narrower finding that bears on this claim
 - [ITS significantly outperform large-group human instruction, individual computer-based instruction, and textbooks or workbooks, but not small-group or individual human tutoring](its-beats-large-group-cbi-textbooks-not-human-tutoring.md) — possibly the same claim (merge candidate)
 - [Learning with intelligent tutoring systems yields a moderate, statistically significant overall advantage in achievement over non-ITS modes of instruction](its-meta-analysis-overall-effect-0-41.md) — possibly the same claim (merge candidate)
 - [Intelligent tutoring raised test scores by a median of 0.66 standard deviations over conventional instruction across 50 controlled evaluations](its-meta-analysis-median-es-066-sd.md) — related

@@ -56,7 +56,7 @@ Adaptive mastery systems ensure that foundational gaps are closed before higher-
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Shortest remediation paths respecting attribute prerequisites are shorter than random and full-coverage baseline paths](../claims/remediation-path-efficiency-baselines.md) [+W] — attached 2026-10-10 from Feng Z et al. (2026), which proposed "Shortest remediation path algorithm converting diagnosed knowledge states into prerequisite-respecting learning sequences".
-- [The direction of difficulty adaptation, not merely its presence, determines AI-GBL outcomes](../claims/dda-adaptation-direction-determines-outcomes.md) [~W]
+- [In one quasi-experimental VR shooting study (n = 50), reported in a review, rule-based dynamic difficulty outperformed progressive difficulty](../claims/dda-adaptation-direction-determines-outcomes.md) [~W]
 - [Adaptive learning functions as the algorithmic engine that operationalizes personalized learning](../claims/adaptive-learning-engine-of-personalization.md) [+W]
 - [Learner engagement was strengthened when the AI tutor adapted to learners' pace and prior knowledge](../claims/ai-tutor-pace-adaptation-strengthened-engagement.md) [+W]
 - [Adaptivity to individual learners is the primary bottleneck for LLMs in KC path planning](../claims/adaptivity-bottleneck-llm-path-planning.md) [~W]

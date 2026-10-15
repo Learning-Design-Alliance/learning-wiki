@@ -125,7 +125,7 @@ Learners, outcomes and comparisons differ across these claims (elementary peer t
 Claims that bear on peer learning but are not part of the model above, each with what it is and how far it bears on the page.
 
 - [Tutoring benefits both tutors and tutees](../claims/peer-tutoring-improves-achievement.md) [+S]: carries the same two meta-analyses as Peer Tutoring Improves Achievement; a duplicate of it in substance, linked here rather than counted twice.
-- [Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction](../claims/peer-assisted-learning-improves-learning-outcomes.md) [+W]: a definition of peer-assisted learning and its forms from a descriptive report; the effectiveness statement is the report's own framing, not a tested result.
+- [A descriptive report defines peer assisted learning and asserts, without a tested result, that it promotes knowledge construction, collaboration ability and interpersonal interaction](../claims/peer-assisted-learning-improves-learning-outcomes.md) [+W]: a definition of peer-assisted learning and its forms from a descriptive report; the effectiveness statement is the report's own framing, not a tested result.
 - [An ICAP article reports, second-hand, a study in which concept mapping with a peer enhanced learning more than concept mapping alone](../claims/interactive-beats-constructive-concept-mapping.md) [+W]: the one comparison in the wiki of the same task done with a peer against alone, but reported without its design.
 
 ## Objective and learner-valued goal

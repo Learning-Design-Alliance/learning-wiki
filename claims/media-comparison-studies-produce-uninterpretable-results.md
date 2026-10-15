@@ -91,7 +91,7 @@ The authors apply Clark's and Levie & Dickie's critiques directly to early-2000s
 | Martin 2003 | q3 · causal · r2 | i? | [In one experiment with 256 undergraduates, computer-based lesson versions that included pr](practice-presence-raises-cbi-posttest-achievement.md) (supports) |
 | Slezak 2011 | q2 · causal · r2 | i? | [The computer-based implementation showed no significant difference from individual paper-b](computer-based-no-better-than-individual-paper.md) (supports); [A computer-based implementation of the tutorial yields the lowest post-test scores, statis](computer-based-tutorial-implementation-lowest-posttest.md) (qualifies) |
 | Gilbert 1999 | q2 · theoretical · r3 | i? | [A tool's effectiveness results from the whole configuration of events, activities, and con](tool-effectiveness-depends-on-context-configuration.md) (supports) |
-| Brewe 2007 | q2 · causal · r1 | i? | [Technology-supported learning gains depend on the technology being used within student-cen](lab-technology-gains-depend-on-active-engagement-pedagogy.md) (supports) |
+| Brewe 2007 | q2 · causal · r1 | i? | [The authors of one physics-course study attribute its technology-supported gains to the st](lab-technology-gains-depend-on-active-engagement-pedagogy.md) (supports) |
 | [Jaeseok Yang 2013](https://doi.org/10.5539/elt.v6n7p19) | q2 · review · r2 | i? | [In one 30-student study of high-school English learners (Lu 2008, reported in a review), v](sms-vocabulary-learning-beats-paper-materials.md) (qualifies) |
 <!-- synthesis:end -->
 
@@ -103,6 +103,6 @@ A live tension worth flagging: the claim that "media do not influence learning, 
 
 ## Related Claims
 - [A theoretical gap exists between delivery-system/media theory and instructional strategy theory and other ISD steps](gap-between-media-theory-and-isd-steps.md) — related
-- [Technology-supported learning gains depend on the technology being used within student-centered, active-engagement pedagogy](lab-technology-gains-depend-on-active-engagement-pedagogy.md) — related
+- [The authors of one physics-course study attribute its technology-supported gains to the student-centred, active-engagement pedagogy the technology was used within](lab-technology-gains-depend-on-active-engagement-pedagogy.md) — related
 - [Bilingual education evaluations have produced uninterpretable data by failing to model child-input by treatment interactions](bilingual-evaluations-ignore-interactions.md) — a narrower finding that bears on this claim
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — related

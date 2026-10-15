@@ -43,6 +43,6 @@ The report's synthesis of CSTAG implementation studies finds that staff self-rep
 
 
 ## Related Claims
-- [Causal studies find CSTAG reduces exclusionary discipline and bullying and increases counseling, with fidelity moderating effects](cstag-causal-reduces-discipline-increases-counseling.md) — related
+- [Randomized studies, as reviewed, find that students who make threats in CSTAG schools more often receive counseling and less often long-term suspension or transfer, with the largest changes in higher-fidelity schools](cstag-causal-reduces-discipline-increases-counseling.md) — related
 - [Schools using the CSTAG model show fewer disciplinary infractions, suspensions, expulsions, and law enforcement actions than schools using general threat assessment approaches](cstag-fewer-exclusionary-discipline-than-general-approach.md) — related
 - [Experts report reduced suspensions and expulsions and improved school climate as RJ implementation successes](rj-successes-reduced-suspensions-improved-climate.md) — related

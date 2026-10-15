@@ -30,7 +30,7 @@ The core evidence comes from productive failure studies: learners who explore co
 
 #### Constraints
 - Struggle without a subsequent instruction or consolidation phase produces no advantage and can entrench errors [-S] — the exploration alone is not the mechanism; the *contrast* with expert solutions is
-- For complete novices with no relevant prior knowledge, unguided struggle imposes extraneous load and yields little activation [~S]; some minimal structure or scaffolding is needed [Cognitive load is reduced by worked examples for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+- For complete novices with no relevant prior knowledge, unguided struggle imposes extraneous load and yields little activation [~S]; some minimal structure or scaffolding is needed [Cognitive load is reduced by worked examples for novices.](../claims/worked-example-problem-sequences.md) [+M]
 - Extended, unresolved frustration harms motivation and self-efficacy, particularly for learners with low prior success in the domain [-M]
 - The expertise-reversal pattern applies: as learners gain competence, the exploratory phase adds less and guided practice becomes more efficient [~M]
 

@@ -43,6 +43,6 @@ Cluster-assigned posttest-only experiment with 30 sixth-grade girls (15 per cond
 
 ## Related Claims
 
-- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [LMS process indicators documented adaptive engagement during the eight-week intervention, with most experimental students reaching mastery by unit end](lms-process-indicators-pilot.md) — related
 - [Interviews with three science teachers corroborated the quantitative results, reporting perceived improvements in analytical reasoning, conceptual integration, inquiry-based exploration, and creative scientific thinking](teacher-interviews-corroborate-deep-learning-gains.md) — related

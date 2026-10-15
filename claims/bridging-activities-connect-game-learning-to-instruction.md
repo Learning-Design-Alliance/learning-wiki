@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Students learn more from games when bridging activities connect implicit game learning with formal, explicit classroom instruction, and learning analytics can strengthen that connection
-description: Students learn more from games when bridging activities connect implicit game learning with formal, explicit classroom instruction, and learning analytics can strengthen that connection
+title: "A 2017 cyberlearning community report states that students learn more from games when bridging activities connect game learning to classroom instruction, and that learning analytics can strengthen the connection"
+description: A 2017 cyberlearning community report states that students learn more from games when bridging activities connect game learning to classroom instruction, and that learning analytics can strengthen the connection
 id: bridging-activities-connect-game-learning-to-instruction
 status: draft
 generated:
@@ -19,10 +19,12 @@ sources:
     rigour: "?"
 ---
 
-# Students learn more from games when bridging activities connect implicit game learning with formal, explicit classroom instruction, and learning analytics can strengthen that connection
+# A 2017 cyberlearning community report states that students learn more from games when bridging activities connect game learning to classroom instruction, and that learning analytics can strengthen the connection
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+
+<!-- title before 2026-10-15: Students learn more from games when bridging activities connect implicit game learning with formal, explicit classroom instruction, and learning analytics can strengthen that connection -->
 
 ## Subclaims
 `q2 i?` Students learn more from games when bridging activities connect implicit learning in the game to formal, explicit classroom instruction. [→ Roschelle 2017](#roschelle-2017)

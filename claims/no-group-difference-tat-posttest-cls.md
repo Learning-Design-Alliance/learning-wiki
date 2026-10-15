@@ -44,6 +44,6 @@ Univariate follow-ups in the same MANOVA on the 23-item TAT post-test and the 9-
 ## Related Claims
 
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — the general claim this finding bears on, with the studies behind it
-- [A CLT-based instructional design yields significantly higher retention and transfer scores than lecturer-designed instruction in thermodynamics, controlling for prior knowledge and memory span](clt-instructional-design-raises-retention-transfer-thermodynamics.md) — related
+- [In one study of 37 thermodynamics freshmen, a CLT-based instructional design yields higher retention and transfer scores than lecturer-designed instruction, controlling for prior knowledge and memory span](clt-instructional-design-raises-retention-transfer-thermodynamics.md) — related
 - [The CLT-based design produced higher effective learning scores at retention and transfer, while achievement effective learning scores were nearly equal between groups](clt-design-effective-learning-retention-transfer.md) — related
 - [As the element interactivity level of thermodynamics topics increases, learning becomes more difficult and retention and transfer scores decrease](retention-transfer-scores-decrease-with-element-interactivity.md) — related

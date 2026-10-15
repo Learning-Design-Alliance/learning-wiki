@@ -44,6 +44,6 @@ Authors' stated limitations in the paper's discussion section (§9.3). The paper
 
 ## Related Claims
 - [Phase VI AI-enabled systems face six documented challenges: explainability, hallucination risk, prompt sensitivity, computational cost, validation complexity, and limited large-scale evidence](phase-vi-ai-systems-six-challenges.md) — related
-- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — related
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related
 - [The FTS proposes that fading distinguishes expert from non-expert peers via a game-progress threshold, and peer-tutoring collaboration is expected to improve non-expert game progress and knowledge gained](fts-fading-threshold-peer-tutoring-expected-gains.md) — related
 - [The interaction taxonomy's effectiveness within Memdora has not been empirically evaluated](memdora-taxonomy-not-empirically-evaluated.md) — possibly the same claim (merge candidate)

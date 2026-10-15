@@ -39,11 +39,11 @@ The paper argues that if learning to read and write are seen as complex cognitiv
 
 ### Claims
 
-- [Autonomy At One Level May Inhibit Another](../claims/autonomy-at-one-level-may-inhibit-another.md) [~M]
+- [Autonomy At One Level May Inhibit Another](../claims/autonomy-at-one-level-may-inhibit-another.md) [~W]
 - [In teacher-led big-book reading, children exercise cognitive autonomy by making their own connections between spoken and written words within the activity's boundaries](../claims/big-book-reading-cognitive-autonomy.md) [+W]
 - [Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement](../claims/co-construction-scribe-teacher-fosters-composition-autonomy.md) [+W]
 - [Autonomy alone cannot secure orthographic mastery: most children need explicit instruction about the orthographic system](../claims/orthographic-autonomy-requires-instruction.md) [~W]
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
 
 ## Related Principles
 - 

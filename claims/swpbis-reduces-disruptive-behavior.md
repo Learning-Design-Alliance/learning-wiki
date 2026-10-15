@@ -1,7 +1,7 @@
 ---
 type: claim
-title: SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)
-description: SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)
+title: "SWPBIS produces a very small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)"
+description: SWPBIS produces a very small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)
 id: swpbis-reduces-disruptive-behavior
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 3
 ---
 
-# SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)
+# SWPBIS produces a very small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i0` negligible
+<!-- title before 2026-10-15: SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12) -->
 <!-- title before 2026-10-14: SWPBIS reduces aggressive and disruptive behavior problems among elementary school children over 4 years -->
 
 ## Subclaims
@@ -47,18 +48,18 @@ Group randomized controlled effectiveness trial in 37 elementary schools; 3-leve
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Catherine P. Bradshaw 2012](https://doi.org/10.1542/peds.2012-0243) | q3 · causal · r3 | i0 | this claim; [SWPBIS produced a small improvement in teacher-rated prosocial behavior among elementary s](swpbis-improves-prosocial-behavior.md) (supports); [SWPBIS produced a small improvement in teacher-rated emotion regulation among elementary s](swpbis-improves-emotion-regulation.md) (supports); [SWPBIS produced a small reduction in teacher-rated concentration problems among elementary](swpbis-reduces-concentration-problems.md) (supports) |
-| Waasdorp TE 2012 | q3 · causal · r3 | i? | [SWPBIS reduces the rate of increase in teacher-reported bullying perpetration over element](swpbis-reduces-growth-teacher-reported-bullying.md) (supports); [SWPBIS reduces the rate of increase in teacher-reported peer rejection over elementary sch](swpbis-reduces-growth-peer-rejection.md) (supports) |
-| Benner 2008 | q2 · causal · r1 | i1; i? | [PBIS implementation is associated with significant pre-to-post reductions in externalizing](pbis-reduces-externalizing-total-problems-ed-self-contained.md) (supports); [Teacher fidelity (TKSS total score) shows a statistically significant interaction effect o](tkss-fidelity-ancova-interaction-problem-behavior.md) (qualifies) |
+| [Catherine P. Bradshaw 2012](https://doi.org/10.1542/peds.2012-0243) | q3 · causal · r3 | i0 | this claim; [SWPBIS produces a very small improvement in teacher-rated prosocial behavior among element](swpbis-improves-prosocial-behavior.md) (supports); [SWPBIS produces a very small improvement in teacher-rated emotion regulation among element](swpbis-improves-emotion-regulation.md) (supports); [SWPBIS produces a very small reduction in teacher-rated concentration problems among eleme](swpbis-reduces-concentration-problems.md) (supports) |
+| [Waasdorp TE 2012](https://doi.org/10.1001/archpediatrics.2011.755) | q3 · causal · r3 | i? | [SWPBIS reduces the rate of increase in teacher-reported bullying perpetration over element](swpbis-reduces-growth-teacher-reported-bullying.md) (supports); [SWPBIS reduces the rate of increase in teacher-reported peer rejection over elementary sch](swpbis-reduces-growth-peer-rejection.md) (supports) |
+| Benner 2008 | q2 · causal · r1 | i1; i? | [PBIS implementation is associated with significant pre-to-post reductions in externalizing](pbis-reduces-externalizing-total-problems-ed-self-contained.md) (supports); [Teachers' PBIS knowledge and fidelity (TKSS score) interacts with pre-to-post change in pr](tkss-fidelity-ancova-interaction-problem-behavior.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
 
 
 ## Related Claims
-- [SWPBIS produced a small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)](swpbis-reduces-concentration-problems.md) — related
-- [SWPBIS produced a small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)](swpbis-improves-prosocial-behavior.md) — related
-- [SWPBIS produced a small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)](swpbis-improves-emotion-regulation.md) — related
+- [SWPBIS produces a very small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)](swpbis-reduces-concentration-problems.md) — related
+- [SWPBIS produces a very small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)](swpbis-improves-prosocial-behavior.md) — related
+- [SWPBIS produces a very small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)](swpbis-improves-emotion-regulation.md) — related
 - [Teachers' universal classroom management practices significantly reduce problem classroom behavior (mean classroom ES = 0.80, ICC=.05)](universal-classroom-management-reduces-problem-behavior.md) — related
 - [SWPBIS reduced receipt of counseling for inappropriate behavior among at-risk and socially-emotionally skilled children](swpbis-reduces-counseling-services.md) — related
 - [SWPBIS effects on discipline referrals and school services tended to be greatest among children rated at-risk or high-risk at baseline](swpbis-effects-greatest-at-risk-high-risk-children.md) — related

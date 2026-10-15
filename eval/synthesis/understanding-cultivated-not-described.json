@@ -29,6 +29,86 @@
         [
           "guided-discovery-outperformed-both-extremes",
           "+"
+        ],
+        [
+          "project-based-context-highest-scaffolding-effect",
+          "+"
+        ],
+        [
+          "part-task-practice-reduces-load-for-novices",
+          "+"
+        ],
+        [
+          "initial-guidance-does-not-improve-learning-from-instruction",
+          "~"
+        ],
+        [
+          "teachers-struggle-designing-interactive-activities",
+          "~"
+        ],
+        [
+          "balance-active-learning-independent-practice-gateway-math",
+          "~"
+        ],
+        [
+          "minimally-guided-instruction-less-effective-than-strong-guidance",
+          "+"
+        ],
+        [
+          "minimally-guided-approaches-ignore-cognitive-architecture",
+          "+"
+        ],
+        [
+          "worked-examples-reduce-novice-search",
+          "+"
+        ],
+        [
+          "contingent-scaffolding-improves-learning",
+          "+"
+        ],
+        [
+          "recent-design-models-support-guidance-during-instruction",
+          "+"
+        ],
+        [
+          "domain-moderates-unassisted-discovery-deficit",
+          "~"
+        ],
+        [
+          "dependent-measure-moderates-discovery-effects",
+          "~"
+        ],
+        [
+          "explicit-instruction-context-dependent-synthesis",
+          "~"
+        ],
+        [
+          "process-goals-outperform-outcome-goals-for-novices",
+          "+"
+        ],
+        [
+          "chunking-reduces-working-memory-load",
+          "+"
+        ],
+        [
+          "fading-support-promotes-transfer-of-responsibility",
+          "~"
+        ],
+        [
+          "expertise-reversal-effect",
+          "~"
+        ],
+        [
+          "koku-qualitative-acceptability-themes",
+          "+"
+        ],
+        [
+          "play-based-learning-improves-outcomes",
+          "+"
+        ],
+        [
+          "community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object",
+          "+"
         ]
       ]
     },
@@ -73,7 +153,7 @@
           "~"
         ],
         [
-          "example-problem-sequences-reduce-cognitive-load",
+          "worked-example-problem-sequences",
           "~"
         ],
         [

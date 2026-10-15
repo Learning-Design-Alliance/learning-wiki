@@ -32,7 +32,7 @@ Problem generation converts learners from consumers to constructors of tasks, fo
 - Unguided generation tends to produce low-level recall items rather than problems targeting deep structure [Guided question generation is more effective than unguided generation.](../claims/activation-improves-learning.md) [-M]
 - Novices may generate ill-posed or unsolvable problems, wasting time and embedding confusion; instructor vetting or structured templates mitigate this
 - Generation is effortful and slower than solving; when coverage pressure is high, time spent authoring competes with practice on existing problems
-- Learners with very low prior knowledge lack the schema needed to construct meaningful problems and benefit more from studying [Worked Examples](../principles/worked-examples.md) first [Example-problem sequences reduce cognitive load for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M]
+- Learners with very low prior knowledge lack the schema needed to construct meaningful problems and benefit more from studying [Worked Examples](../principles/worked-examples.md) first [Example-problem sequences reduce cognitive load for novices.](../claims/worked-example-problem-sequences.md) [~M]
 
 #### Implementation Variability
 - **Question generation**: learners write discussion or comprehension questions about a text (e.g., [Reciprocal Teaching](../patterns/cognitive-apprenticeship.md) question-asking role)
@@ -44,7 +44,7 @@ Problem generation converts learners from consumers to constructors of tasks, fo
 ### Target Learners
 - Intermediate learners who have enough schema to recognize problem structure but are still consolidating it [Guided question generation is more effective than unguided generation.](../claims/activation-improves-learning.md) [+M]
 - Learners prone to illusion of knowing — authoring a solvable problem is a strong self-check on understanding
-- Less suitable for complete novices, who should first study worked examples before generating [Example-problem sequences reduce cognitive load for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M]
+- Less suitable for complete novices, who should first study worked examples before generating [Example-problem sequences reduce cognitive load for novices.](../claims/worked-example-problem-sequences.md) [~M]
 
 ### Target Learning Goals
 - Conceptual understanding: identifying the deep structure that defines a problem type

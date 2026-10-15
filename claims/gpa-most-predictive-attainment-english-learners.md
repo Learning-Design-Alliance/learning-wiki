@@ -18,26 +18,16 @@ sources:
     i: "?"
     kind: associational
     rigour: 2
-  - id: allensworth-2025-2
-    resource: "https://edworkingpapers.com/ai25-1241"
-    title: "Allensworth, E.M., de la Torre, M., Franklin, K., & Xu, J. (2025). Predictive power of grades and other indicators for English Learners. Chicago, IL: University of Chicago Consortium on School Research. https://edworkingpapers.com/ai25-1241"
-    author: "Allensworth, E.M., de la Torre, M., Franklin, K., & Xu, J."
-    q: 2
-    i: "?"
-    kind: associational
-    rigour: 2
 ---
 
 # Ninth grade GPAs are the single most predictive indicator of high school graduation, college enrollment, and degree completion for all English Learner groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 
 `q2 i?` GPAs predicted high school graduation, college enrollment, and degree completion better than attendance, course failure rates, English proficiency level, test scores, suspensions, and background characteristics for all English Learner groups. [→ Allensworth 2025](#allensworth-2025)
-
-`q2 i?` Across all English Learner groups, GPA outperformed attendance, course failures, English proficiency, test scores, suspensions, and background characteristics as a single predictor of attainment outcomes. [→ Allensworth 2025 (2)](#allensworth-2025-2)
 
 ## Evidence
 
@@ -63,6 +53,9 @@ Logistic regression analysis of 185,441 CPS first-time ninth graders (fall 2008�
 > "GPAs were the most predictive of high school graduation, college enrollment, and degree completion for all English Learner groups, followed by attendance and course failure rates."
 -->
 
+<!-- merged duplicate entry 2026-10-15: the Consortium report and the Annenberg working paper are two versions of one Allensworth et al. (2025) study of the same 185,441 ninth graders; that entry, verbatim, with its subclaim:
+`q2 i?` Across all English Learner groups, GPA outperformed attendance, course failures, English proficiency, test scores, suspensions, and background characteristics as a single predictor of attainment outcomes. [→ Allensworth 2025 (2)](#allensworth-2025-2)
+
 ### Allensworth 2025 (2)
 
 Allensworth, E.M., de la Torre, M., Franklin, K., & Xu, J. (2025). Predictive power of grades and other indicators for English Learners. Chicago, IL: University of Chicago Consortium on School Research. https://edworkingpapers.com/ai25-1241
@@ -72,6 +65,7 @@ Allensworth, E.M., de la Torre, M., Franklin, K., & Xu, J. (2025). Predictive po
 The same logistic regression comparison shows grades, attendance, and course failures were "more predictive than level of English proficiency, standardized test scores, suspensions, and background characteristics." No effect sizes printed.
 
 > "These were more predictive than level of English proficiency, standardized test scores, suspensions, and background characteristics."
+-->
 
 ## Discussion
 

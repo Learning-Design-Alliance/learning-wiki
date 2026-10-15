@@ -58,6 +58,18 @@ The review reports, citing Grinschgl et al. (2020), a pattern-copy task in which
 
 > "Comparative ranking feedback signiﬁcantly shifted participants' metacognitive beliefs about working memory capacity. Contrary to expectations, however, individuals with lower metacognitive beliefs did not exhibit increased of ﬂoading behaviors"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does feedback on their own performance make learners' decisions to offload better calibrated?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 review), `q2`–`q3`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Yufei Guo & Qun Ye 2026](https://doi.org/10.1057/s41599-026-06621-5) | q2 · review · r2 | i? | this claim |
+| [Ceri Ngai and Sam J. Gilbert 2026](https://doi.org/10.1186/s41235-026-00714-0) | q3 · causal · r3 | i1 | [In Experiment 1, a five-trial metacognitive prediction-plus-feedback intervention signific](metacognitive-feedback-reduces-reminder-bias.md) (supports) |
+| Sebastian Maier 2026 | q2 / q3 · causal · r3 | i? | [In one preregistered experiment, metacognitive feedback on learners' own LLM use lowered t](metacognitive-feedback-reduces-llm-answer-offloading-improves-unaided-performance.md) (supports); [Metacognitive feedback disrupted the tendency to repeat answer offloading across consecuti](metacognitive-feedback-disrupts-repeated-answer-offloading.md) (supports); [An effort-based reward did not significantly reduce answer offloading or improve unaided p](effort-based-reward-no-effect-offloading-or-unaided-performance.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

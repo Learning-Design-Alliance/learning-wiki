@@ -19,7 +19,7 @@ Learning through play embeds learning goals in activities characterized by enjoy
 
 ## Design Implications
 
-Play leverages intrinsic motivation and active engagement, which support attention, persistence, and encoding [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. However, unguided discovery through play is often inefficient: learners may not notice the intended structure without scaffolding [Unguided discovery is less effective than guided instruction.](../claims/minimal-guidance-less-effective-for-novices.md) [+S]. Guided play — where adults set up the play context and prompt within it — consistently outperforms both free play and direct instruction for early academic content [Guided play improves early academic outcomes.](../claims/guided-play-improves-academic-outcomes.md) [+M]. Playful formats also support social and language development through peer negotiation and role enactment [Act It Out](../elements/act-it-out.md).
+Play leverages intrinsic motivation and active engagement, which support attention, persistence, and encoding [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. However, unguided discovery through play is often inefficient: learners may not notice the intended structure without scaffolding [Unguided discovery is less effective than guided instruction.](../claims/minimal-guidance-less-effective-for-novices.md) [+S]. Guided play — where adults set up the play context and prompt within it — consistently outperforms both free play and direct instruction for early academic content [Guided play improves early academic outcomes.](../claims/play-based-learning-improves-outcomes.md) [+M]. Playful formats also support social and language development through peer negotiation and role enactment [Act It Out](../elements/act-it-out.md).
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Play leverages intrinsic motivation and active engagement, which support attenti
 - **Construction play**: building and making (blocks, LEGO, coding toys); block play predicts later math achievement [Block play predicts math achievement.](../claims/block-play-predicts-math-achievement.md) [+M]
 
 ### Target Learners
-- Early childhood and primary learners, where play is developmentally primary [Guided play improves early academic outcomes.](../claims/guided-play-improves-academic-outcomes.md) [+M]
+- Early childhood and primary learners, where play is developmentally primary [Guided play improves early academic outcomes.](../claims/play-based-learning-improves-outcomes.md) [+M]
 - Learners with low motivation or negative prior experience with a subject, for whom play lowers affective barriers [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
 - Less suitable as a primary approach for advanced novices facing complex technical content, who benefit from explicit models first [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [~M]
 

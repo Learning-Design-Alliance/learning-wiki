@@ -7,10 +7,6 @@
       "question": "Does inquiry-based teaching raise science achievement over the usual instruction?",
       "members": [
         [
-          "furtak-metaanalysis-37-studies-inquiry-positive",
-          "+"
-        ],
-        [
           "inquiry-based-lab-learning-improves-ct",
           "+"
         ],
@@ -33,6 +29,14 @@
         [
           "inquiry-benefits-low-income-equity-tension",
           "~"
+        ],
+        [
+          "guidance-improves-inquiry-learning-outcomes",
+          "+"
+        ],
+        [
+          "minimal-guidance-less-effective-for-novices",
+          "~"
         ]
       ]
     },
@@ -40,6 +44,14 @@
       "hub": "guidance-improves-inquiry-learning-outcomes",
       "question": "Does adding guidance to inquiry improve what learners learn, and does the kind of guidance matter?",
       "members": [
+        [
+          "simulation-guidance-moderate-effect-dangelo",
+          "+"
+        ],
+        [
+          "pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction",
+          "~"
+        ],
         [
           "guidance-improves-inquiry-performance-success",
           "+"
@@ -49,20 +61,12 @@
           "+"
         ],
         [
-          "simulation-guidance-moderate-effect-dangelo",
-          "+"
-        ],
-        [
           "teacher-guided-inquiry-larger-effects",
           "+"
         ],
         [
           "teacher-guided-inquiry-outperforms-student-led",
           "+"
-        ],
-        [
-          "pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction",
-          "~"
         ]
       ]
     },
@@ -92,6 +96,86 @@
         ],
         [
           "guided-discovery-outperformed-both-extremes",
+          "+"
+        ],
+        [
+          "project-based-context-highest-scaffolding-effect",
+          "+"
+        ],
+        [
+          "part-task-practice-reduces-load-for-novices",
+          "+"
+        ],
+        [
+          "initial-guidance-does-not-improve-learning-from-instruction",
+          "~"
+        ],
+        [
+          "teachers-struggle-designing-interactive-activities",
+          "~"
+        ],
+        [
+          "balance-active-learning-independent-practice-gateway-math",
+          "~"
+        ],
+        [
+          "minimally-guided-instruction-less-effective-than-strong-guidance",
+          "+"
+        ],
+        [
+          "minimally-guided-approaches-ignore-cognitive-architecture",
+          "+"
+        ],
+        [
+          "worked-examples-reduce-novice-search",
+          "+"
+        ],
+        [
+          "contingent-scaffolding-improves-learning",
+          "+"
+        ],
+        [
+          "recent-design-models-support-guidance-during-instruction",
+          "+"
+        ],
+        [
+          "domain-moderates-unassisted-discovery-deficit",
+          "~"
+        ],
+        [
+          "dependent-measure-moderates-discovery-effects",
+          "~"
+        ],
+        [
+          "explicit-instruction-context-dependent-synthesis",
+          "~"
+        ],
+        [
+          "process-goals-outperform-outcome-goals-for-novices",
+          "+"
+        ],
+        [
+          "chunking-reduces-working-memory-load",
+          "+"
+        ],
+        [
+          "fading-support-promotes-transfer-of-responsibility",
+          "~"
+        ],
+        [
+          "expertise-reversal-effect",
+          "~"
+        ],
+        [
+          "koku-qualitative-acceptability-themes",
+          "+"
+        ],
+        [
+          "play-based-learning-improves-outcomes",
+          "+"
+        ],
+        [
+          "community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object",
           "+"
         ]
       ]

@@ -44,6 +44,6 @@ This is the article's first stated conclusion from the limited experimental rese
 
 ## Related Claims
 - [Adult ESL learners in a planned informal total-immersion program made significantly greater communication-skill progress than a control group, with structural-skill progress not significantly different](immersion-esl-greater-communication-progress.md) — related
-- [Structured input alone, without explicit information, is sufficient to cause changes in learner knowledge](structured-input-alone-sufficient-for-acquisition.md) — related
+- [A 2010 narrative review reports that processing-instruction studies show structured input without explicit information can change learner knowledge](structured-input-alone-sufficient-for-acquisition.md) — related
 - [Native-speaker conversations with learners show more interactional modification than native-speaker conversations in two-way information-exchange tasks, but not in tasks without information exchange](two-way-tasks-promote-interactional-restructuring.md) — related
 - [Children acquiring a second language through immersion begin with formulaic utterances used as wholes, which are gradually analyzed into component words](formulaic-utterances-dominate-early-immersion-speech.md) — related

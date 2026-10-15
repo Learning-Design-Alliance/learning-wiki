@@ -43,4 +43,4 @@ Secondary analysis of the treatment group's pre-post off-task scattergram, motiv
 
 
 ## Related Claims
-- [Student off-task behavior declined markedly in trained teachers' classrooms, with adjusted post means differing significantly beyond the .001 level](off-task-behavior-declines-after-training.md) — related
+- [Student off-task behavior is lower in trained teachers' classrooms than in control classrooms after adjusting for baseline off-task rates](off-task-behavior-declines-after-training.md) — related

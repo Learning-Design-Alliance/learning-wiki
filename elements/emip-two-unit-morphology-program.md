@@ -42,7 +42,7 @@ The EMIP is a short enrichment program organized thematically along two units: u
 
 ## Claims
 
-- [Effect of explicit morphology instruction is larger on morphological awareness (MGR 1.28) than on reading comprehension (MGR 1.06, below the accepted 1.2 minimum)](../claims/emi-effect-size-larger-for-awareness-than-comprehension.md) [+W]
+- [Within the explicit morphology instruction group, the pre-to-post gain ratio was above Blake's 1.2 minimum for morphological awareness (1.28) and below it for reading comprehension (1.06)](../claims/emi-effect-size-larger-for-awareness-than-comprehension.md) [+W]
 - [Experimental and control groups were statistically equivalent on pre-test reading comprehension and morphological awareness](../claims/emi-groups-equivalent-at-pretest.md) [+W]
 - [Explicit morphology instruction raises EFL secondary students' morphological awareness more than regular EFL instruction alone](../claims/emi-raises-efl-morphological-awareness.md) [+W]
 - [Explicit morphology instruction raises EFL secondary students' reading comprehension more than regular EFL instruction alone](../claims/emi-raises-efl-reading-comprehension.md) [+W]

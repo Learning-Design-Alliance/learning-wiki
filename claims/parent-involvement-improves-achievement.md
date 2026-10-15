@@ -81,6 +81,21 @@ Jeynes, W. H. (2005). A meta-analysis of the relation of parental involvement to
 
 Meta-analysis of 41 studies on parental involvement and academic achievement in urban elementary schoolchildren. Per the abstract (full text not accessible from this sandbox), overall parental involvement was associated with academic outcome variables by roughly 0.7 to 0.75 of a standard deviation unit, and this relationship held for both White and minority children and for both boys and girls. As with the other two studies, the underlying primary literature is predominantly correlational (parents were not randomly assigned to involvement conditions), so the pooled estimate should be read as an association, not a demonstrated causal effect of comparable size.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Is closer parent involvement in a child's schooling associated with better student outcomes, and does the form of involvement matter?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **6 distinct studies** (3 quant-synthesis, 3 review), `q2`–`q4`, 3 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Hill & Tyson 2009](https://doi.org/10.1037/a0015362) | q3 · quant-synthesis · r? | i1 · small effect, r=.18 | this claim |
+| [Castro et al. 2015](https://doi.org/10.1016/j.edurev.2015.01.002) | q3 · quant-synthesis · r? | i? | this claim |
+| [Jeynes 2005](https://doi.org/10.1177/0042085905274540) | q3 · quant-synthesis · r? | i2 · medium effect, ~0.7–0.75 SD | this claim |
+| Oakes 2017 | q4 · review · r2 | i2 | [Meta-analyses find parental involvement associated with better student outcomes, effect si](parental-involvement-meta-analyses-effect-sizes.md) (supports) |
+| UChicago Consortium on School Research 2025 | q2 · review · r2 | i? | [Family engagement in schools is closely linked to improved student academic achievement, s](family-engagement-linked-student-outcomes.md) (supports) |
+| Roschelle 2020 | q2 · review · r2 | i? | [Parental focus on compliance harms homework learning, while supporting effort and process ](parent-compliance-versus-process-support.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Form of involvement matters.** The literature consistently distinguishes involvement that directly engages the child's learning (discussing school, reading together, supporting study habits) from involvement that is merely present or controlling (homework surveillance, unsolicited help). Direct engagement of learning at home shows the strongest associations with achievement, whereas some forms of involvement — particularly highly intrusive homework help — show null or negative associations, plausibly because they signal low confidence in the child or displace the child's autonomous effort [~M]. This parallels the autonomy findings in [Autonomy supports intrinsic motivation](autonomy-supports-intrinsic-motivation.md).

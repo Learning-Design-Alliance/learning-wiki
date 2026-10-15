@@ -14,7 +14,7 @@ sources:
     title: "Ramadoni, Mustofa (2022). Enhancing Flipped Classroom with Peer Teaching to Promote Students' Conceptual Understanding and Self-Efficacy in Calculus Courses. Pegem Journal of Education and Instruction, Vol. 12, No. 3, 154-168. https://doi.org/10.47750/pegegog.12.03.17"
     author: Ramadoni, Mustofa
     q: 2
-    i: 2
+    i: "?"
     kind: causal
     rigour: 1
 ---
@@ -22,10 +22,10 @@ sources:
 # Self-efficacy correlates positively with conceptual understanding in both flipped classroom methods
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
-`q2 i2` In CFC, conceptual understanding correlated with self-efficacy at r=.362 (p<.05); in PTFC at r=.394 (p<.05). [→ Ramadoni 2022](#ramadoni-2022)
+`q2 i?` In CFC, conceptual understanding correlated with self-efficacy at r=.362 (p<.05); in PTFC at r=.394 (p<.05). [→ Ramadoni 2022](#ramadoni-2022)
 
 ## Evidence
 
@@ -33,7 +33,7 @@ sources:
 
 Ramadoni, Mustofa (2022). Enhancing Flipped Classroom with Peer Teaching to Promote Students' Conceptual Understanding and Self-Efficacy in Calculus Courses. Pegem Journal of Education and Instruction, Vol. 12, No. 3, 154-168. https://doi.org/10.47750/pegegog.12.03.17
 
-`q2 · i2` · `causal · r1`
+`q2 · i? · correlation r only, no d` · `causal · r1`
 
 Pearson product-moment correlations between posttest conceptual understanding and self-efficacy questionnaire in each method. CFC: r=.362 (p<.05); PTFC: "the conceptual understanding positively correlates with self-efficacy with r=.394* (p<.05)". General self-efficacy and assignment dimensions also correlated with conceptual understanding in both methods.
 
@@ -43,7 +43,7 @@ Pearson product-moment correlations between posttest conceptual understanding an
 
 
 ## Related Claims
-- [Method and prior achievement level interact on self-efficacy: medium-ability PTFC students show lower self-efficacy than their teammates' ratings suggest](method-achievement-interaction-self-efficacy.md) — related
+- [In one flipped calculus study, teaching method (peer-teaching versus conventional flipped classroom) and prior achievement level interact on self-efficacy](method-achievement-interaction-self-efficacy.md) — related
 - [Peer-teaching flipped classroom students show higher calculus conceptual understanding than conventional flipped classroom students after controlling for pretest](ptfc-beats-cfc-conceptual-understanding.md) — related
 - [Peer-teaching flipped classroom students show higher calculus self-efficacy than conventional flipped classroom students after controlling for pretest](ptfc-beats-cfc-self-efficacy.md) — related
 - [Prior achievement level did not significantly affect self-efficacy overall in either flipped classroom method](prior-achievement-null-self-efficacy.md) — related

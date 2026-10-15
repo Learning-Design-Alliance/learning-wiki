@@ -14,7 +14,7 @@ grain_size: lesson
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 9 claims (5 for, 4 mixed) · 18 studies (8 causal, 4 quant-synthesis, 3 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 2 of 18 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (4 for, 4 mixed) · 18 studies (8 causal, 4 quant-synthesis, 3 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 2 of 18 report an effect size · 3 claims rest on one study
 
 ## Description and scope
 
@@ -68,11 +68,11 @@ Ask for four facts when the brief omits them: **is the domain well structured or
 
 | If the brief says… | Then change… | Basis |
 |---|---|---|
-| The goal is applying a principle to new cases | Present two or more cases that share the principle side by side and prompt for what is the same and why, rather than one case at a time | [Comparing cases side by side improves learning and transfer](../claims/comparing-contrasting-cases-improves-learning.md) [+M]; [Analogical reasoning improves transfer](../claims/analogical-reasoning-improves-transfer.md) [+M] |
-| The plan states the principle first and then shows cases as illustrations | Reverse the order: have learners compare first and state the principle after, connected to what they found | [Analogical reasoning improves transfer](../claims/analogical-reasoning-improves-transfer.md) [+M] (moderator in the meta-analysis) |
+| The goal is applying a principle to new cases | Present two or more cases that share the principle side by side and prompt for what is the same and why, rather than one case at a time | [Comparing cases side by side improves learning and transfer](../claims/comparing-contrasting-cases-improves-learning.md) [+M]; [Analogical reasoning improves transfer](../claims/comparing-contrasting-cases-improves-learning.md) [+M] |
+| The plan states the principle first and then shows cases as illustrations | Reverse the order: have learners compare first and state the principle after, connected to what they found | [Analogical reasoning improves transfer](../claims/comparing-contrasting-cases-improves-learning.md) [+M] (moderator in the meta-analysis) |
 | The domain is ill structured (the concept plays out differently case by case) | Revisit several short cases under different themes; expect better transfer essays, and plan separate work for factual recall, which drill did better | [Multiple cases from different perspectives support transfer in ill-structured domains](../claims/cognitive-flexibility-theory-multiple-cases.md) [~M] |
 | The goal is understanding why a mathematical method works, not only choosing a method | After comparing solution methods, add an explicit explanation of why each works; comparison raised procedural knowledge and flexibility but not conceptual knowledge | [Comparing cases: procedural gain, no conceptual gain in one algebra study](../claims/comparing-contrasting-cases-improves-learning.md) [~M] |
-| The test that matters is weeks later | Add a later comparison or retrieval of the principle; benefits were larger on immediate than delayed tests | [Analogical reasoning improves transfer](../claims/analogical-reasoning-improves-transfer.md) [~M] |
+| The test that matters is weeks later | Add a later comparison or retrieval of the principle; benefits were larger on immediate than delayed tests | [Analogical reasoning improves transfer](../claims/comparing-contrasting-cases-improves-learning.md) [~M] |
 | The course is in the health professions and relies on small-group case discussion | Do not expect the case format alone to raise learning; a review judged the evidence inconclusive and said any benefit may come from the group work. Add individual analysis of a new case | [Case-based learning improves exam performance](../claims/case-based-learning-improves-exam-performance.md) [~M] |
 | Learners work alone (`online-self-paced`) | Put both cases on one screen with a written prompt to describe their similarities | [Comparing cases side by side improves learning and transfer](../claims/comparing-contrasting-cases-improves-learning.md) [+M] (undergraduates comparing two cases on one page) |
 | Cases are complex and supported by AI tools or team workflows (medical education) | Keep a faculty member guiding how the tool is used in each case; complex cases and team workflows showed null or unfavourable effects | [Case-based learning benefits depended on faculty-guided embedding](../claims/genai-cbl-faculty-guided-conditional-benefits.md) [~W] |
@@ -81,7 +81,7 @@ Ask for four facts when the brief omits them: **is the domain well structured or
 
 ## The evidence by question
 
-- *Does comparing analogous cases improve transfer more than studying cases one at a time?* [Analogical Reasoning Improves Transfer](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- *Does comparing analogous cases improve transfer more than studying cases one at a time?* [Analogical Reasoning Improves Transfer](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - *Does teaching through realistic cases, by itself, raise learning?* [Case-based learning improves exam performance](../claims/case-based-learning-improves-exam-performance.md) [~M]
 
 ## Further evidence, not yet read against this model

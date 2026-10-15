@@ -37,7 +37,7 @@ Structured/segmented instruction works because working memory is severely limite
 #### Implementation Variability
 - **Part-task practice**: components drilled in isolation before integration — appropriate only for absolute novices on complex recurrent skill components [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]
 - **Whole-task with simplifying assumptions**: teach the full task in simplified form first, then add complexity across segments — preferable for non-recurrent skills where parts lack meaning in isolation
-- **Example–problem pairs within segments**: alternate worked examples with practice problems inside each segment [Example–problem pairs reduce extraneous load relative to problem solving alone.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+- **Example–problem pairs within segments**: alternate worked examples with practice problems inside each segment [Example–problem pairs reduce extraneous load relative to problem solving alone.](../claims/worked-example-problem-sequences.md) [+M]
 - **Learner-controlled segmentation**: in multimedia and e-learning, letting learners advance segments at their own pace improves outcomes compared with continuous presentation [Segmentation and learner pacing improve learning from multimedia instruction.](../claims/media-combinations-affect-recall-and-retention.md) [~M]
 
 ### Target Learners

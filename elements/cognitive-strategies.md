@@ -46,7 +46,7 @@ Strategy instruction improves learning most when strategies are taught explicitl
 - Rehearsal strategies (rereading, verbatim repetition) are among the least effective techniques for durable learning and retention [-S] — they create fluency illusions without building connections
 - Strategy instruction benefits diminish — and can reverse — for learners who already use effective strategies spontaneously [Guidance becomes less effective as learner expertise increases.](../claims/expertise-reversal-effect.md) [~M]
 - Strategies taught as rote procedures without conditional knowledge (when and why to use them) rarely transfer to new tasks [-M]
-- Strategies impose processing costs; for novices, an elaborate strategy can overload working memory and reduce performance on the primary task [Example-problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M]
+- Strategies impose processing costs; for novices, an elaborate strategy can overload working memory and reduce performance on the primary task [Example-problem sequences reduce cognitive load.](../claims/worked-example-problem-sequences.md) [~M]
 
 ### Target Learners
 - Novices and struggling learners who lack spontaneous strategy use — the largest gains come from teaching procedures experts use automatically [+S]

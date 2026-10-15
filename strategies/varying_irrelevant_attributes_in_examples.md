@@ -55,7 +55,7 @@ Varied examples support schema formation by helping learners abstract the genera
 2. Select or author an initial, prototypical example with minimal irrelevant variation — a [Worked Example](../elements/worked-examples.md) is a good vehicle for procedural concepts.
 3. Add 4–6 further examples that keep defining attributes constant while maximizing spread across irrelevant attributes; pair each with a matched [Non-Example](../elements/non-examples.md).
 4. Use [Comparing Cases](../elements/comparing-cases.md) to prompt learners to articulate what varies and what does not, rather than leaving the abstraction implicit.
-5. Fade support by asking learners to classify new varied instances, then generate their own examples, following an [Example-Problem Sequence](../claims/example-problem-sequences-reduce-cognitive-load.md).
+5. Fade support by asking learners to classify new varied instances, then generate their own examples, following an [Example-Problem Sequence](../claims/worked-example-problem-sequences.md).
 
 ## Related Strategies
 - [Use Worked Examples](worked-examples-first.md) — varied worked examples are the standard vehicle for this strategy in problem-solving domains

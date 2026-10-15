@@ -42,7 +42,7 @@ Writing a problem requires the learner to invert the solution process — to rea
 
 ### Target Learners
 - Upper elementary through high school students who have some fluency with the target operations
-- Learners who have mastered routine solving and need a task that pushes toward structural reasoning; complete novices benefit more from solving and studying examples first [Example–problem sequences reduce cognitive load for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+- Learners who have mastered routine solving and need a task that pushes toward structural reasoning; complete novices benefit more from solving and studying examples first [Example–problem sequences reduce cognitive load for novices.](../claims/worked-example-problem-sequences.md) [+M]
 - Reluctant writers often engage more when writing serves a real audience — a peer who will actually solve the problem ([Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md))
 
 ### Target Learning Goals

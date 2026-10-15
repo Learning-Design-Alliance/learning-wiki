@@ -34,7 +34,7 @@ sources:
 
 Catherine P. Bradshaw, Mary M. Mitchell, & Philip J. Leaf. (2010). Examining the Effects of Schoolwide Positive Behavioral Interventions and Supports on Student Outcomes: Results From a Randomized Controlled Effectiveness Trial in Elementary Schools. Journal of Positive Behavior Interventions, 12(3), 133-148. https://doi.org/10.1177/1098300709334798
 
-`q3 · i?` · `causal · r2`
+`q3 · i? · within-school pre-post change only, d = .27; no treatment-control effect size` · `causal · r2`
 
 Wilcoxon signed ranks test on school-level suspension rates from the Maryland State Department of Education, baseline through Year 4, in the randomized trial of 37 elementary schools.
 

@@ -19,7 +19,7 @@ The keyword mnemonic is a two-stage strategy for learning vocabulary and paired 
 
 ## Design Implications
 
-The strategy works by converting abstract verbal material into concrete, interactive imagery, leveraging dual coding (verbal + visual traces) and elaborative encoding [~S]. It reliably outperforms rote rehearsal for immediate recall of paired associates, especially foreign vocabulary [~S]. However, its benefits are strongest for recall of *associations* (word → meaning) and weaker for the reverse direction, for productive use, and for long-term retention, where imagery-based memories can decay faster than semantically organized ones [~M].
+The strategy works by converting abstract verbal material into concrete, interactive imagery, leveraging dual coding (verbal + visual traces) and elaborative encoding. It reliably outperforms rote rehearsal for immediate recall of paired associates, especially foreign vocabulary. However, its benefits are strongest for recall of *associations* (word → meaning) and weaker for the reverse direction, for productive use, and for long-term retention, where imagery-based memories can decay faster than semantically organized ones.
 
 ### Context
 #### Requirements
@@ -29,24 +29,24 @@ The strategy works by converting abstract verbal material into concrete, interac
 - Retrieval practice after initial encoding ([Practice](../elements/practice.md)), since the mnemonic supports initial acquisition more than durable retention
 
 #### Constraints
-- Long-term retention is often no better — and sometimes worse — than semantic strategies; keyword-trained items show faster forgetting on delayed tests [~M]
-- Less effective for productive/recall tasks (meaning → word) than for receptive recognition (word → meaning) [~M]
-- Images can interfere with learning correct pronunciation, since the keyword is only an approximate sound match [~W]
-- Time-intensive: constructing keywords and images costs more time than rote learning, which can offset gains when learning time is held constant [~M]
-- Less suitable for abstract concepts, dense conceptual material, or learners with limited imagery ability or relevant vocabulary [~M]
-- Can crowd out deeper semantic processing; learners may recall the image but not integrate the term into a conceptual network [~W]
+- Long-term retention is often no better — and sometimes worse — than semantic strategies; keyword-trained items show faster forgetting on delayed tests
+- Less effective for productive/recall tasks (meaning → word) than for receptive recognition (word → meaning)
+- Images can interfere with learning correct pronunciation, since the keyword is only an approximate sound match
+- Time-intensive: constructing keywords and images costs more time than rote learning, which can offset gains when learning time is held constant
+- Less suitable for abstract concepts, dense conceptual material, or learners with limited imagery ability or relevant vocabulary
+- Can crowd out deeper semantic processing; learners may recall the image but not integrate the term into a conceptual network
 
 #### Implementation Variability
-- **Experimenter-provided vs. learner-generated keywords and images**: provided keywords/images are more effective for novices and children; learner-generated versions build strategy skill but vary in quality [~M]
-- **Keyword-only** (no image) as a lighter variant — still better than rote rehearsal but weaker than the full two-stage version [~M]
+- **Experimenter-provided vs. learner-generated keywords and images**: provided keywords/images are more effective for novices and children; learner-generated versions build strategy skill but vary in quality
+- **Keyword-only** (no image) as a lighter variant — still better than rote rehearsal but weaker than the full two-stage version
 - **Group/whole-class delivery**: teacher presents the keyword and image, learners elaborate it — practical for classroom vocabulary instruction
 - Extends beyond vocabulary to state capitals, anatomical terms, artists' names, and other paired-associate content
 
 ### Target Learners
-- Novices learning a second language, especially at beginning levels where large volumes of vocabulary must be acquired quickly [~S]
-- Elementary and secondary learners, who benefit more than adults — adults often spontaneously use richer semantic elaboration that the keyword method can displace [~M]
-- Learners with weak prior knowledge, for whom the keyword provides an otherwise-missing retrieval hook [~M]
-- Less beneficial for advanced learners, who can encode semantically and may find imagery an added burden [~M]
+- Novices learning a second language, especially at beginning levels where large volumes of vocabulary must be acquired quickly
+- Elementary and secondary learners, who benefit more than adults — adults often spontaneously use richer semantic elaboration that the keyword method can displace
+- Learners with weak prior knowledge, for whom the keyword provides an otherwise-missing retrieval hook
+- Less beneficial for advanced learners, who can encode semantically and may find imagery an added burden
 
 ### Target Learning Goals
 - Paired-associate recall: term ↔ meaning, name ↔ face, symbol ↔ referent

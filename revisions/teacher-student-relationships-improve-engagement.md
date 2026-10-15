@@ -17,3 +17,8 @@ Evidence filled from Crossref-verified sources, read by an in-session agent (ful
 
 ### 2026-09-25 · ingest · claude/unspecified
 Evidence filled from Crossref-verified sources (gap-fill)
+
+## Earlier history as claims/teacher-relationships-associated-math-engagement-achievement
+
+### 2026-10-10 · ingest · process:wiki-ingest
+Ingested from eric-ed674783 (Positive Conditions for Mathematics Learning: An Overview of the Research) via eval_harness.py + ingest_extractions.py

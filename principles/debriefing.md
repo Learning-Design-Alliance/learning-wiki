@@ -149,7 +149,7 @@ A good debrief conversation, a correct stated change, the next performance, dela
 ## Claims
 
 - [Educators rarely facilitated connections between playlist activities or to students' lives; introductions and debriefings focused on logistics rather than science content](../claims/educators-rarely-facilitated-connections-between-playlists.md) [-W]
-- [Trainees consistently wanted more debriefing time than scheduled, and structured reflection connecting exercise data to actionable outputs is where deeper learning happens.](../claims/reflection-debriefing-time-underscheduled.md) [+W]
+- [In one design report on 25 cybersecurity tabletop exercises, the authors observed that trainees consistently wanted more debriefing time than the schedule allowed](../claims/reflection-debriefing-time-underscheduled.md) [+W]
 
 ## Related Principles
 - [Purposeful Reflection](purposeful-reflection.md) — debriefing is one of the most structured forms of reflection after action

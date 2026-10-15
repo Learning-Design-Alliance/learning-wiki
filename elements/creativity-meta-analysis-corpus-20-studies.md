@@ -41,7 +41,7 @@ The article assembles a corpus of 20 studies meeting its inclusion criteria: pre
 ## Claims
 
 - [Creativity-based learning applications show a large, positive pooled effect on students' academic achievement (ES = 0.850)](../claims/cbl-large-positive-effect-academic-achievement.md) [+W]
-- [Differentiated instruction shows a medium positive pooled effect on academic achievement (REM ES = 0.729) with a confidence interval spanning negative values](../claims/di-medium-positive-effect-academic-achievement.md) [+W]
+- [A meta-analysis of three differentiated-instruction studies reports a pooled effect of 0.729 on academic achievement whose 95% confidence interval (−3.66 to 5.12) spans zero](../claims/di-medium-positive-effect-academic-achievement.md) [+W]
 - [Individually analyzed method and approach studies show widely varying effects, with analogy-enhanced teaching rated most effective and two studies insignificant](../claims/method-approach-effect-sizes-vary-analogy-largest.md) [+W]
 - [Problem-based learning shows a large positive pooled effect on academic achievement (REM ES = 1.560), with heterogeneous study effects](../claims/pbl-large-positive-effect-academic-achievement.md) [+W]
 

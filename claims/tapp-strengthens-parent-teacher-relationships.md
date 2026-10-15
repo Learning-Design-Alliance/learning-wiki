@@ -1,7 +1,7 @@
 ---
 type: claim
-title: TAPP strengthens teacher-reported family-school relationships in both trials, with parent-reported gains appearing in the rural trial
-description: TAPP strengthens teacher-reported family-school relationships in both trials, with parent-reported gains appearing in the rural trial
+title: In a rural randomized trial, TAPP strengthens both teacher-reported and parent-reported family-school relationships
+description: In a rural randomized trial, TAPP strengthens both teacher-reported and parent-reported family-school relationships
 id: tapp-strengthens-parent-teacher-relationships
 status: draft
 generated:
@@ -19,13 +19,14 @@ sources:
     rigour: "?"
 ---
 
-# TAPP strengthens teacher-reported family-school relationships in both trials, with parent-reported gains appearing in the rural trial
+# In a rural randomized trial, TAPP strengthens both teacher-reported and parent-reported family-school relationships
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i2` medium
+<!-- title before 2026-10-15: TAPP strengthens teacher-reported family-school relationships in both trials, with parent-reported gains appearing in the rural trial -->
 
 ## Subclaims
-`q3 i2` In both RCTs teachers reported significantly stronger relationships with parents on the PTRS-II (effect sizes +0.47 and +0.46). [→ Teachers and Parents as Partners (TAPP) Family Engagement evidence summary 2012](#teachers-and-parents-as-partners-tapp-family-engagement-evidence-summary-2012)
+`q3 i2` In both RCTs teachers reported significantly stronger relationships with parents on the PTRS-II (effect sizes +0.47 and +0.46); only the rural trial has an entry on this page, so the first trial's +0.47 is unsourced on this page. [→ Teachers and Parents as Partners (TAPP) Family Engagement evidence summary 2012](#teachers-and-parents-as-partners-tapp-family-engagement-evidence-summary-2012)
 `q3 i2` In the second rural trial, parents in the TAPP group also reported significantly stronger relationships with teachers (effect size = +0.51). [→ Teachers and Parents as Partners (TAPP) Family Engagement evidence summary 2012](#teachers-and-parents-as-partners-tapp-family-engagement-evidence-summary-2012)
 
 ## Evidence

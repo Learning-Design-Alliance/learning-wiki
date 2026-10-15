@@ -27,7 +27,7 @@ sources:
 # OpenSciEd
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 15 claims (10 for, 5 mixed) · 12 studies (9 review, 3 qualitative), `q1`–`q2` · 0 of 12 report an effect size · 11 claims rest on one study
+> **Evidence** · 15 claims (10 for, 5 mixed) · 8 studies (5 review, 3 qualitative), `q1`–`q2` · 0 of 8 report an effect size · 13 claims rest on one study
 
 ## Description
 OpenSciEd is a freely available, Creative Commons–licensed middle-school science curriculum developed to address the Next Generation Science Standards.

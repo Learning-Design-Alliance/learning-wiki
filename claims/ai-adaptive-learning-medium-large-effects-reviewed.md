@@ -41,5 +41,5 @@ Narrative review attribution, not this review's own synthesis: the review report
 
 ## Related Claims
 
-- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 -

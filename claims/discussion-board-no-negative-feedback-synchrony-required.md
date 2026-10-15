@@ -45,7 +45,7 @@ Negative feedback counts per mode (Table 11) show 61 occurrences in text chat (2
 
 - [Social presence shows the strongest association with metacognition in an online case-based course, while teaching presence shows no significant relationship](social-presence-strongest-metacognition-association-cbi.md) — the general claim this finding bears on, with the studies behind it
 - [Closed meaning-focused tasks foster more negotiation of meaning and negative feedback than open tasks in CMC](closed-tasks-foster-more-negotiation-than-open-tasks.md) — related
-- [Completing meaning-focused tasks through CMC fosters negotiated interactions in all three modes (discussion board, text chat, videoconferencing)](cmc-meaning-focused-tasks-foster-negotiated-interactions.md) — reports the opposite
-- [Unprompted self-correction dominates negative feedback in NNS-NNS CMC interaction, interpreted as a face-saving preference](self-correction-dominates-negative-feedback-face-saving.md) — reports the opposite
+- [Completing meaning-focused tasks through CMC fosters negotiated interactions in all three modes (discussion board, text chat, videoconferencing)](cmc-meaning-focused-tasks-foster-negotiated-interactions.md) — related, from the same study: negotiation of meaning occurs on discussion boards even though negative feedback does not
+- [Unprompted self-correction dominates negative feedback in NNS-NNS CMC interaction, interpreted as a face-saving preference](self-correction-dominates-negative-feedback-face-saving.md) — related, from the same study
 - [EFL instructors were unaware of most OCF strategy types and did not consider students' cognition when deciding on corrective feedback](teachers-unaware-ocf-strategies-cognition-absent.md) — related
 - [Videoconferencing was conducive to more negotiation of meaning than text chat and discussion board, measured as proportion of negotiated turns](videoconferencing-more-negotiated-turns-than-chat-and-board.md) — related

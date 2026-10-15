@@ -31,7 +31,7 @@ Prompts work by triggering self-explanations and strategic processing that learn
 
 #### Constraints
 - Over-prompting produces prompt dependence — learners follow cues mechanically without building self-regulated strategies [Fading support promotes transfer of responsibility from scaffold to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [-M]
-- Prompts add extraneous load when learners lack the knowledge to respond to them; novices facing complex material may be better served by worked examples than by questions [Example-problem sequences reduce cognitive load for novices compared with unsupported problem solving.](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M]
+- Prompts add extraneous load when learners lack the knowledge to respond to them; novices facing complex material may be better served by worked examples than by questions [Example-problem sequences reduce cognitive load for novices compared with unsupported problem solving.](../claims/worked-example-problem-sequences.md) [~M]
 - Generic prompts ("think carefully") have little effect; vague cues waste attention without directing processing
 - Effectiveness reverses with expertise: highly knowledgeable learners find explicit prompts redundant and distracting [Guidance such as prompts becomes less effective — and can reverse — as learner expertise increases.](../claims/expertise-reversal-effect.md) [~S]
 

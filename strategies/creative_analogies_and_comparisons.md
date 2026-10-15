@@ -12,10 +12,10 @@ generated:
 # Creative Analogies and Comparisons
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 16 studies (7 causal, 4 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 4 of 16 report an effect size
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 17 studies (8 causal, 4 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 4 of 17 report an effect size
 
 ## Description
-Creative analogies and comparisons link unfamiliar, abstract, or complex target concepts to familiar source domains, so learners can map what they already know onto new material. The strategy works through [Analogical Reasoning](../principles/analogical-reasoning.md): the learner aligns the relational structure of the familiar case with the unfamiliar one, transferring structure rather than surface features [Analogical Reasoning Improves Transfer](../claims/analogical-reasoning-improves-transfer.md) [+M]. Well-designed analogies do more than simplify — they highlight which features of the target matter and which features of the source should be ignored.
+Creative analogies and comparisons link unfamiliar, abstract, or complex target concepts to familiar source domains, so learners can map what they already know onto new material. The strategy works through [Analogical Reasoning](../principles/analogical-reasoning.md): the learner aligns the relational structure of the familiar case with the unfamiliar one, transferring structure rather than surface features [Analogical Reasoning Improves Transfer](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Well-designed analogies do more than simplify — they highlight which features of the target matter and which features of the source should be ignored.
 
 ## Design Implications
 

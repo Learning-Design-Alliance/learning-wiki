@@ -39,7 +39,7 @@ Vainikka and Young-Scholten's structure-building approach holds that adult L2 le
 ### Claims
 
 - [Mental representation is not amenable to direct explicit instruction because UG and parsers operate only on input data](../claims/mental-representation-not-directly-instructable.md) [+W]
-- [Explicit negative evidence failed to induce grammar reorganization in French learners of English adverb placement](../claims/white-adverb-placement-negative-evidence-failed.md) [-W]
+- [A 1999 conference paper reports, citing White (1991) and Schwartz and Gubala-Ryzak (1992), that explicit negative evidence on English adverb placement produced only superficial change in French learners](../claims/white-adverb-placement-negative-evidence-failed.md) [-W]
 
 ## Related Theories
 

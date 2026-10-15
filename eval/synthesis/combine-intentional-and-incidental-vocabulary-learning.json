@@ -1,0 +1,96 @@
+{
+  "principle": "principles/combine-intentional-and-incidental-vocabulary-learning",
+  "note": "Wave 12 spec, 2026-10-15: groupings by an agent from the claims it read in full. Finding 1 reuses the hub already set by principles/explicit-instruction-vocabulary and adds two members. involvement-load-tasks-improve-word-retention and marginal-glosses-most-beneficial-task appear to report the same study (Xu 2010) through two reviews; only the first is listed. vocabulary-knowledge-grows-incrementally and exposure-frequency-predicts-incidental-gains share Uchihara et al. 2019.",
+  "findings": [
+    {
+      "hub": "pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone",
+      "question": "Does combining deliberate word study with learning from meaning-focused input give more words and better retention than either alone?",
+      "members": [
+        [
+          "combined-intentional-incidental-greater-gains",
+          "+"
+        ],
+        [
+          "intentional-beats-incidental-vocabulary-gains",
+          "~"
+        ],
+        [
+          "incidental-vocabulary-exposure-limited",
+          "+"
+        ],
+        [
+          "incidental-vocabulary-acquisition-more-powerful-than-intentional",
+          "-"
+        ],
+        [
+          "lwpa-outperforms-traditional-vocabulary-learning",
+          "+"
+        ],
+        [
+          "incidental-reading-enables-productive-word-use",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "glossing-medium-large-effects-l2-vocabulary",
+      "question": "Do glosses and dictionary use during second-language reading raise the words learned from it?",
+      "members": [
+        [
+          "gloss-l2-ex-and-in-text-gloss-beat-control-scheffe",
+          "+"
+        ],
+        [
+          "proficiency-moderates-gloss-vocabulary-effects",
+          "~"
+        ],
+        [
+          "gloss-perceptions-mismatch-performance",
+          "~"
+        ],
+        [
+          "l1-glosses-improve-immediate-vocabulary-recall",
+          "+"
+        ],
+        [
+          "l1-glosses-no-reading-comprehension-gain",
+          "~"
+        ],
+        [
+          "marginal-glosses-dictionary-recurrence-improve-incidental-learning",
+          "+"
+        ],
+        [
+          "involvement-load-tasks-improve-word-retention",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts",
+      "question": "How much do repeated encounters add, and do words met in input last without review?",
+      "members": [
+        [
+          "exposure-frequency-predicts-incidental-gains",
+          "+"
+        ],
+        [
+          "incidental-vocabulary-retention-problems",
+          "~"
+        ],
+        [
+          "spaced-repetition-supplement-triples-vocabulary-retention",
+          "+"
+        ],
+        [
+          "spaced-retrieval-multiyear-vocabulary-retention",
+          "+"
+        ],
+        [
+          "task-essentialness-goal-directed-vocabulary-retention",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

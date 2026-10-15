@@ -39,10 +39,10 @@ The article proposes that language is not monolithic but consists of two broad d
 ### Claims
 
 - [Applying skill theory to grammar conflates constructs: pedagogical rules are not what exists in learners' mental representation](../claims/grammar-as-skill-is-a-conflation.md) [+W]
-- [L2 learners never develop fully native-like skill: they read consistently slower and miss subtle anaphoric interpretation distinctions](../claims/l2-skill-never-fully-native-like.md) [+W]
+- [A 2010 narrative review reports that even very advanced L2 learners read more slowly than native speakers and miss subtle anaphoric interpretation distinctions](../claims/l2-skill-never-fully-native-like.md) [+W]
 - [Mental representation is not amenable to direct explicit instruction because UG and parsers operate only on input data](../claims/mental-representation-not-directly-instructable.md) [+W]
 - [Skill develops through engaging in the target activity itself, not through mechanistic drill of isolated components](../claims/skill-develops-through-engagement-not-drill.md) [+W]
-- [Structured input alone, without explicit information, is sufficient to cause changes in learner knowledge](../claims/structured-input-alone-sufficient-for-acquisition.md) [+W]
+- [A 2010 narrative review reports that processing-instruction studies show structured input without explicit information can change learner knowledge](../claims/structured-input-alone-sufficient-for-acquisition.md) [+W]
 - [Learners acquired untaught syntactic properties but failed to show sensitivity to agreement they had been explicitly taught and practiced](../claims/untaught-syntax-acquired-taught-agreement-not.md) [+W]
 
 ## Related Theories

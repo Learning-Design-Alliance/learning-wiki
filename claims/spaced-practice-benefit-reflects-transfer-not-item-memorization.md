@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The spaced-practice knowledge benefit reflects deeper learning or transfer rather than memorization of repeated items
-description: The spaced-practice knowledge benefit reflects deeper learning or transfer rather than memorization of repeated items
+title: The authors attribute the spaced-practice knowledge benefit to deeper learning or transfer, because quiz and final-test items were never repeated
+description: The authors attribute the spaced-practice knowledge benefit to deeper learning or transfer, because quiz and final-test items were never repeated
 id: spaced-practice-benefit-reflects-transfer-not-item-memorization
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# The spaced-practice knowledge benefit reflects deeper learning or transfer rather than memorization of repeated items
+# The authors attribute the spaced-practice knowledge benefit to deeper learning or transfer, because quiz and final-test items were never repeated
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+<!-- title before 2026-10-15: The spaced-practice knowledge benefit reflects deeper learning or transfer rather than memorization of repeated items -->
 
 ## Subclaims
 `q3 i?` Because quiz and final-assessment items were never repeated, the benefit is attributed to deeper learning or transfer to different contexts. [→ Kang 2023](#kang-2023)

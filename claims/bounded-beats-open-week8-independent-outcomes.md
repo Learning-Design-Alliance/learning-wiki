@@ -15,22 +15,16 @@ sources:
     i: 3
     kind: causal
     rigour: 2
-  - id: chen-x-2026-2
-    title: Chen X 2026 (2)
-    q: 2
-    i: "?"
-    kind: causal
-    rigour: 2
 ---
 
 # Bounded AI support outperformed open collaboration on all four Week 8 independent no-AI outcomes, though exact wild-cluster p values sat at the 0.050–0.063 boundary
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2` · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Student-level bounded–open effect sizes at Week 8 were large for writing quality (g = 0.83), higher-order thinking (g = 1.07), argument depth (g = 1.21), and independent revision quality (g = 1.17). [→ Chen X 2026](#chen-x-2026)
-`q2 i?` Class-clustered adjusted bounded–open contrasts were positive for all four outcomes, but exact wild-cluster p values (0.050–0.063) make binary significance claims fragile with six classes. [→ Chen X 2026 (2)](#chen-x-2026-2)
+`q2 i?` Class-clustered adjusted bounded–open contrasts were positive for all four outcomes, but exact wild-cluster p values (0.050–0.063) make binary significance claims fragile with six classes. [→ Chen X 2026](#chen-x-2026)
 
 ## Evidence
 
@@ -44,8 +38,7 @@ Week 8 independent no-AI assessment in the quasi-experimental classroom study; t
 
 > "Student-level bounded–open effect sizes were g = 0.83 for writing quality, 1.07 for higher-order thinking, 1.21 for argument depth, and 1.17 for independent revision quality."
 
-### Chen X 2026 (2)
-
+<!-- merged duplicate entry 2026-10-15: ### Chen X 2026 (2)
 Chen X (2026) Layer-sensitive cognitive offloading in generative AI-assisted writing: supported performance and independent no-AI outcomes. Front. Psychol. 17:1906199. https://doi.org/10.3389/fpsyg.2026.1906199
 
 `q2 · i?` · `causal · r2`
@@ -53,6 +46,7 @@ Chen X (2026) Layer-sensitive cognitive offloading in generative AI-assisted wri
 Class-clustered analysis with exact Webb six-point wild-cluster inference over six intact classes; adjusted differences favored bounded support (0.27–0.42) with wild-cluster p values from 0.050 to 0.063.
 
 > "The consistent direction and magnitude of the bounded–open contrasts support the study’s central pattern, but the wild-cluster results show that exact significance claims are fragile with only six classes."
+-->
 
 ## Discussion
 

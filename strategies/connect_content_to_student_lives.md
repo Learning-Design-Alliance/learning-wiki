@@ -24,7 +24,7 @@ Relevance raises situational and individual interest, which supports attention, 
 ### Context
 #### Requirements
 - Genuine knowledge of students' backgrounds, interests, and communities (gathered via surveys, conferences, community input) — invented "relevance" is transparent and ineffective
-- Content connections that are *integral* to the task, not cosmetic wrappers [Personalized contexts improved learning only when personalization carried the problem structure, not surface detail.](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M]
+- Content connections that are *integral* to the task, not cosmetic wrappers [Personalized contexts improved learning only when personalization carried the problem structure, not surface detail.](../claims/worked-example-problem-sequences.md) [~M]
 - Opportunities for students to generate their own connections ([Class Discussion](../elements/class-discussion.md), relevance-writing prompts, choice of context)
 
 #### Constraints

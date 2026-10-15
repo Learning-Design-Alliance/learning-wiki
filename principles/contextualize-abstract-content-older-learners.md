@@ -40,7 +40,7 @@ The author reports that abstract information is challenging for older learners, 
 ### Claims
 
 - [Instructional modifications that lower barriers are optional supports for younger resilient learners but may be necessary for older beginners, pre-literate students, and learners dealing with trauma or disabilities](../claims/modifications-essential-for-vulnerable-learners.md) [+W]
-- [Students in the author's older-beginner Step One class made measured gains, including an average 128-point BEST Plus gain over 6 months and two former absolute beginners passing the citizenship test](../claims/older-beginner-esl-outcome-gains.md) [+W]
+- [In one practitioner's report on her own older-beginner Step One class, with no comparison group, students gained an average of 128 BEST Plus points over 6 months and two former absolute beginners passed the citizenship test](../claims/older-beginner-esl-outcome-gains.md) [+W]
 
 ## Related Principles
 

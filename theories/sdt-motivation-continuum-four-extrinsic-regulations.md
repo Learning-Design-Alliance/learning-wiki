@@ -39,7 +39,7 @@ The article describes SDT's motivational continuum ranging from externally regul
 ### Claims
 
 - [Retention programs interpreted as meeting all three SDT needs show higher persistence and standing](../claims/retention-programs-meeting-all-three-needs-higher-persistence.md) [+W]
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
 
 ## Related Theories
 

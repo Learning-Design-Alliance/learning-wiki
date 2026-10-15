@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online"
-description: Guo et al.
+description: "A 2018 review reports, citing Guo, Kim and Rubin (2014), that engagement with instructional video depends on production style: short videos, talking heads on slides and Khan-style drawing engage more than slides, coding sessions or classroom recordings"
 id: guo-video-style-engagement-findings
 status: draft
 generated:

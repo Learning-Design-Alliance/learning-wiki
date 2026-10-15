@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Conceptual-map scaffolding modestly improves novice LLM-condition performance and reduces outcome variance, with benefits concentrated among low-AIC novices
-description: Conceptual-map scaffolding modestly improves novice LLM-condition performance and reduces outcome variance, with benefits concentrated among low-AIC novices
+title: "In one randomized working-paper experiment, conceptual-map scaffolding gave LLM-using novices marginally higher scores (p < .10) and lower score variance, with a marginal benefit concentrated among low-AIC novices"
+description: In one randomized working-paper experiment, conceptual-map scaffolding gave LLM-using novices marginally higher scores (p < .10) and lower score variance, with a marginal benefit concentrated among low-AIC novices
 id: conceptual-map-scaffolding-reduces-novice-variance
 status: draft
 generated:
@@ -27,13 +27,14 @@ sources:
     rigour: 2
 ---
 
-# Conceptual-map scaffolding modestly improves novice LLM-condition performance and reduces outcome variance, with benefits concentrated among low-AIC novices
+# In one randomized working-paper experiment, conceptual-map scaffolding gave LLM-using novices marginally higher scores (p < .10) and lower score variance, with a marginal benefit concentrated among low-AIC novices
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+<!-- title before 2026-10-15: Conceptual-map scaffolding modestly improves novice LLM-condition performance and reduces outcome variance, with benefits concentrated among low-AIC novices -->
 
 ## Subclaims
-`q3 i?` Scaffolded novices scored modestly but significantly better than unguided novices, with a weakly significant difference. [→ Bharat Anand 2026](#bharat-anand-2026)
+`q3 i?` Scaffolded novices scored higher than unguided novices (M = .45 vs .38), a difference significant only at p < .10. [→ Bharat Anand 2026](#bharat-anand-2026)
 `q3 i?` The scaffolding × AIC interaction was negative and weakly significant, so scaffolding benefited low-AIC participants most and compressed heterogeneity. [→ Bharat Anand 2026 (2)](#bharat-anand-2026-2)
 
 ## Evidence

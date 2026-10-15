@@ -43,5 +43,5 @@ Repeated measures ANOVA over pretest, immediate and delayed posttests for 92 lea
 
 
 ## Related Claims
-- [CF treatment improved irregular past tense performance on both GJT and EIT with large effects](cf-treatment-improves-irregular-past-tense-gjt-eit.md) — related
+- [Learners in all three corrective-feedback groups improve irregular past tense performance on both GJT and EIT from pretest to posttests, a within-group gain that does not separate the feedback types](cf-treatment-improves-irregular-past-tense-gjt-eit.md) — related
 - [Pretest scores significantly predict posttest scores across CF types and outcome measures](pretest-scores-predict-posttest-scores.md) — related

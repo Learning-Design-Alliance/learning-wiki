@@ -26,7 +26,7 @@ sources:
 # Note-taking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (7 for, 7 mixed) · 28 studies (10 causal, 7 quant-synthesis, 5 review, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 9 of 28 report an effect size · 4 claims rest on one study
+> **Evidence** · 14 claims (7 for, 7 mixed) · 29 studies (10 causal, 7 quant-synthesis, 6 review, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 10 of 29 report an effect size · 4 claims rest on one study
 
 ## Conditional relationship
 
@@ -127,7 +127,7 @@ Learners, materials and outcomes differ across these claims (school-age and unde
 Claims this page cited before it was rewritten, and others found while rewriting it. None has been read against the model above as closely as the claims in the previous section.
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S] — the earlier page's mechanism claim: grouping into meaningful units reduces the load of holding material in mind (two narrative reviews and one experiment, none about notes). It supports placing pauses at conceptual breaks; it does not test note-taking.
-- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — the earlier page's claim that notes help learners notice gaps; a synthesis and a theoretical review of self-regulated learning, no study of notes. Bears on the "one question" at each pause only by analogy.
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [+M] — the earlier page's claim that notes help learners notice gaps; a synthesis and a theoretical review of self-regulated learning, no study of notes. Bears on the "one question" at each pause only by analogy.
 - [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](../claims/annotating-improves-learning.md) [~M] — about highlighting printed text (memory 0.36, comprehension 0.20); bears on "annotated reading notes" only as a warning that marking alone is weak. Its model is on [Annotating](annotating.md).
 - [Higher compliance with MetaTutor's revise-summary prompt is associated with larger proportional learning gains](../claims/revise-summary-compliance-predicts-learning-gains.md) [+W] — the same 28-student study as the review-notes claim; revising one's summary associated with larger gains. Associational.
 - [Notetaking as a feedback tool facilitates resolution of lexical problems but leaves grammatical problems unresolved, suggesting reformulation as an alternative](../claims/notetaking-feedback-limits-grammar-resolution.md) [~W] — a single-participant case study in second-language writing, where "notetaking" means a learner noting a model text as feedback on their own draft. A different practice from this page's; it bears only on note-taking used as feedback in L2 writing.

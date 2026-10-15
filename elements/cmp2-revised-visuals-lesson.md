@@ -38,7 +38,7 @@ The revised lesson was derived from Connected Mathematics 2 (CMP2) and covered g
 
 ## Claims
 
-- [Revisions to math-relevant visuals affect cognitive load differently by prior knowledge group, including reduced load for high prior knowledge students](../claims/revised-visuals-cognitive-load-math-visuals-interaction.md) [+W]
+- [In one eye-tracking experiment, revising math-relevant visuals changes fixation length on them differently by prior knowledge group, with shorter fixations under the revised visuals for low prior knowledge students](../claims/revised-visuals-cognitive-load-math-visuals-interaction.md) [+W]
 - [Revised visuals reduce cognitive load while reading lesson text for low prior knowledge students but increase it for middle prior knowledge students](../claims/revised-visuals-cognitive-load-text-prior-knowledge-interaction.md) [+W]
 - [Revisions to visuals had no effect on post-lesson test scores, though prior knowledge predicted performance](../claims/revised-visuals-no-learning-effect.md) [-W]
 - [Revised visuals reduce cognitive processing of math-relevant visuals for low prior knowledge students but increase it for middle prior knowledge students](../claims/revised-visuals-processing-math-visuals-interaction.md) [+W]

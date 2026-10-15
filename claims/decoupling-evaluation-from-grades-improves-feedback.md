@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Decoupling evaluation from grades makes teacher feedback easier to give and more effective for learning
-description: Decoupling evaluation from grades makes teacher feedback easier to give and more effective for learning
+title: "Two writing teachers report that decoupling evaluation from grades under a grading contract lets them give blunter feedback that students can weigh, an account with no data reported"
+description: Two writing teachers report that decoupling evaluation from grades under a grading contract lets them give blunter feedback that students can weigh, an account with no data reported
 id: decoupling-evaluation-from-grades-improves-feedback
 status: draft
 generated:
@@ -19,10 +19,12 @@ sources:
     rigour: 1
 ---
 
-# Decoupling evaluation from grades makes teacher feedback easier to give and more effective for learning
+# Two writing teachers report that decoupling evaluation from grades under a grading contract lets them give blunter feedback that students can weigh, an account with no data reported
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+
+<!-- title before 2026-10-15: Decoupling evaluation from grades makes teacher feedback easier to give and more effective for learning -->
 
 ## Subclaims
 `q1 i?` Because criticism no longer betokens a low grade, teachers can be blunt without being threatening, and students can react to evaluation more sophisticatedly, including disagreeing with teacher comments. [→ Danielewicz 2009](#danielewicz-2009)

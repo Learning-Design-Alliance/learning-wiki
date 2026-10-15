@@ -41,7 +41,7 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [Audio narration with finger-tracking animation directs bilingual preschoolers' attention to the target-language print in dual-language e-books, including the nondominant language](../claims/enhancing-features-direct-attention-dual-language-e-books.md) [+W]
 - [Split Attention Effect Degrades Learning](../claims/split-attention-effect-degrades-learning.md) [+M]
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](../claims/modality-effect-narration-over-text.md) [+M]
-- [Different media combinations significantly affect the recall and retention of information](../claims/media-combinations-affect-recall-and-retention.md) [+W]
+- [In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts](../claims/media-combinations-affect-recall-and-retention.md) [+W]
 - [Segmentation Benefits Shrink With Expertise](../claims/segmentation-benefits-shrink-with-expertise.md) [+W]
 - [Multimedia enhancing features increase attention to print in single-language e-books in both English and Mandarin](../claims/enhancing-features-increase-attention-single-language-e-books.md) [+W]
 - [The attention-guiding effect of narration-plus-animation is phase-dependent: target-language attention drops significantly after the animation ends](../claims/animation-phase-dependent-attention-to-print.md) [+W]

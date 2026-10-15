@@ -37,7 +37,7 @@ The paper argues that although listening is classified as a receptive skill, it 
 
 ### Claims
 
-- [Delaying oral production and emphasizing aural comprehension in initial EFL instruction produces better results than intensive oral practice](../claims/listening-first-outperforms-intensive-oral-practice.md) [+W]
+- [A 2010 teacher guide reports, citing Postovsky (1974, 1975), that delaying oral production and emphasising aural comprehension early in EFL instruction gives better results than intensive oral practice](../claims/listening-first-outperforms-intensive-oral-practice.md) [+W]
 - [Listening is the most frequently used of the four language skills, consuming the largest share of communication time](../claims/listening-most-used-language-skill.md) [+W]
 - [Listening proficiency transfers to other language skills, including reading and writing, in second language learners](../claims/listening-transfer-to-other-language-skills.md) [+W]
 - [Receptive vocabulary knowledge correlates moderately with advanced L2 listening comprehension in advanced Turkish EFL learners](../claims/receptive-vocabulary-moderately-correlates-advanced-listening.md) [+W]

@@ -20,7 +20,7 @@ grain_size: unit
 # Goal-Based Scenarios
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 8 studies (3 causal, 2 review, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q2`–`q4` · 0 of 8 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (1 for, 3 mixed) · 9 studies (3 causal, 2 review, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q4` · 0 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 Goal-Based Scenarios organize learning around a mission or role-based objective pursued inside a realistic scenario. This page serves as the canonical short-form pattern target for references that point to the GBS family without the explicit acronym.
@@ -62,14 +62,14 @@ Goal-Based Scenarios organize learning around a mission or role-based objective 
 - Situated learning perspectives — knowledge is more usable when learned in context.
 - Experiential learning perspectives — action, consequence, and reflection support deeper learning.
 - Goal-oriented motivation perspectives — clear missions can organize attention and persistence.
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M]
 #### Contradicting / Qualifying
 - Scenario immersion alone does not guarantee learning without debrief and support.
 - Scenarios need instructional discipline; immersion alone does not guarantee learning.
 - Some learners need more direct explanation or guided practice before complex scenarios become productive.
 
 ### Claims
-- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+S]
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+M]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M]
 

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: ChatGPT improves programming learning outcomes when integrated through structured pedagogical frameworks and teacher facilitation
-description: ChatGPT improves programming learning outcomes when integrated through structured pedagogical frameworks and teacher facilitation
+title: "A 2026 text-mining review chapter reports that studies of ChatGPT in programming education find benefits where it is used with structured pedagogical guidance and teacher facilitation"
+description: A 2026 text-mining review chapter reports that studies of ChatGPT in programming education find benefits where it is used with structured pedagogical guidance and teacher facilitation
 id: structured-chatgpt-integration-improves-programming-learning
 status: draft
 generated:
@@ -27,10 +27,12 @@ sources:
     rigour: 2
 ---
 
-# ChatGPT improves programming learning outcomes when integrated through structured pedagogical frameworks and teacher facilitation
+# A 2026 text-mining review chapter reports that studies of ChatGPT in programming education find benefits where it is used with structured pedagogical guidance and teacher facilitation
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+
+<!-- title before 2026-10-15: ChatGPT improves programming learning outcomes when integrated through structured pedagogical frameworks and teacher facilitation -->
 
 ## Subclaims
 `q2 i?` Studies reviewed in the chapter report that structured ChatGPT interventions improved student performance, critical thinking, debugging, motivation, self-efficacy, and coding accuracy. [→ Grume 2026](#grume-2026)

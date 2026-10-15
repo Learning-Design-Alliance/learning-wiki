@@ -117,7 +117,7 @@ Claims this page cited before the 2026-10-02 rewrite. They are evidence about th
 
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~M] — not settled: the text available could not confirm the entries (abstract)
-- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract)
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Critical science education requires explicit attention to philosophy of science and rival theories](../claims/critical-science-education-philosophy-of-science.md) [+W]
 - [Weinstein argues critical thinking needs a disciplinary perspective incorporating substantive methodological criteria from within disciplines](../claims/disciplinary-perspective-critical-thinking.md) [+W]
 - [Principles of reason assessment are both subject-neutral and subject-specific](../claims/reason-assessment-principles-both-neutral-and-specific.md) [+W]

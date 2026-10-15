@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Developing and using clear behavior expectations for students is supported by strong evidence from 14 studies meeting WWC standards
-description: Developing and using clear behavior expectations for students is supported by strong evidence from 14 studies meeting WWC standards
+title: "A WWC practice-guide panel rates developing and using clear behavior expectations as supported by strong evidence from 14 studies"
+description: A WWC practice-guide panel rates developing and using clear behavior expectations as supported by strong evidence from 14 studies
 id: clear-behavior-expectations-strong-evidence-14-studies
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# Developing and using clear behavior expectations for students is supported by strong evidence from 14 studies meeting WWC standards
+# A WWC practice-guide panel rates developing and using clear behavior expectations as supported by strong evidence from 14 studies
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+<!-- title before 2026-10-15: Developing and using clear behavior expectations for students is supported by strong evidence from 14 studies meeting WWC standards -->
 
 ## Subclaims
 `q3 i?` The WWC and the expert panel characterized the recommendation on clear behavior expectations as supported by strong evidence, based on 14 studies. [→ Lane 2024](#lane-2024)
@@ -37,7 +38,7 @@ Lane, K. L., Baldy, T., Becker, T., Bradshaw, C., Dolan, V., Dymnicki, A., Freem
 
 The panel's evidence characterization for Recommendation 1 in the 'Why do it?' section, resting on studies screened against WWC standards. The guide states the recommendation was characterized as supported by "strong evidence, based on 14 studies" of developing and using clear behavior expectations.
 
-> "The What Works Clearinghouse and the expert panel characterized this recommendation as supported b y strong evidence, based on 14 studies of the effectiveness of developing and using clear behavior expectations for students."
+> "The What Works Clearinghouse and the expert panel characterized this recommendation as supported by strong evidence, based on 14 studies of the effectiveness of developing and using clear behavior expectations for students."
 
 ## Discussion
 

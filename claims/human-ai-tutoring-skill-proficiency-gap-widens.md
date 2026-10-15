@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Human-AI tutoring increases IXL skill proficiency by 36%, but the proficiency gap widens in favor of reactively tutored students"
-description: "Human-AI tutoring increases IXL skill proficiency by 36%, but the proficiency gap widens in favor of reactively tutored students"
+title: "Human-AI tutoring is associated with a 36% rise in IXL skill proficiency, but the gap widened in favor of reactively tutored students (difference-in-differences preprint)"
+description: Human-AI tutoring is associated with a 36% rise in IXL skill proficiency, but the gap widened in favor of reactively tutored students (difference-in-differences preprint)
 id: human-ai-tutoring-skill-proficiency-gap-widens
 status: draft
 generated:
@@ -27,10 +27,11 @@ sources:
     rigour: 2
 ---
 
-# Human-AI tutoring increases IXL skill proficiency by 36%, but the proficiency gap widens in favor of reactively tutored students
+# Human-AI tutoring is associated with a 36% rise in IXL skill proficiency, but the gap widened in favor of reactively tutored students (difference-in-differences preprint)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+<!-- title before 2026-10-15: Human-AI tutoring increases IXL skill proficiency by 36%, but the proficiency gap widens in favor of reactively tutored students -->
 
 ## Subclaims
 `q2 i?` Human-AI tutoring significantly improved student skill proficiency in IXL (36% in the IK bandwidth; +6.10 skills, p<.001). [→ Ashish Gurung 2026](#ashish-gurung-2026)

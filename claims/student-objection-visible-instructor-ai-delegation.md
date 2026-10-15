@@ -64,4 +64,4 @@ The author's interpretation of the evaluation comments and the bill-of-rights su
 ## Related Claims
 - [Aggregate course evaluations moved modestly against the 2023 offering and written comments split, with a share of the cohort critiquing the instructor's own AI use](evaluations-split-on-redesigned-ai-course.md) — related
 - [Immersive learning tools should surface misconceptions and track learner difficulties so instructors can adapt teaching and assessment](tools-should-surface-misconceptions-track-difficulties.md) — related
-- [Decoupling evaluation from grades makes teacher feedback easier to give and more effective for learning](decoupling-evaluation-from-grades-improves-feedback.md) — reports the opposite
+- [Two writing teachers report that decoupling evaluation from grades under a grading contract lets them give blunter feedback that students can weigh, an account with no data reported](decoupling-evaluation-from-grades-improves-feedback.md) — reports the opposite

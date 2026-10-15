@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 145 claims (99 for, 31 mixed, 15 against) · 123 studies (38 associational, 30 causal, 24 review, 10 qualitative, 8 theoretical, 7 design, 6 quant-synthesis), `q1`–`q4` · 24 of 123 report an effect size · 137 claims rest on one study
+> **Evidence** · 145 claims (99 for, 31 mixed, 15 against) · 125 studies (38 associational, 30 causal, 24 review, 10 qualitative, 8 quant-synthesis, 8 theoretical, 7 design), `q1`–`q4` · 25 of 125 report an effect size · 136 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -46,7 +46,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Evidence of changes in growth mindset or math confidence after the summer programs was minimal](../claims/summer-math-programs-minimal-mindset-confidence-change.md) [-M] — instruction changes it
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](../claims/rewards-undermine-intrinsic-motivation.md) [+S] — instruction changes it
 - [Formative assessment is theorized to foster motivation by supporting autonomy, competence, and relatedness](../claims/formative-assessment-fosters-motivation-autonomy-competence-relatedness.md) [~W] — instruction changes it
-- [Four academic mindsets — belonging, growth beliefs, self-efficacy, and value — increase perseverance and improve academic behaviors](../claims/four-academic-mindsets-increase-perseverance-and-behaviors.md) [+M] — learners who differ on it differ in outcomes
+- [A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors](../claims/four-academic-mindsets-increase-perseverance-and-behaviors.md) [+M] — learners who differ on it differ in outcomes
 - [Growth in academic self-efficacy is significantly associated with growth in mathematics achievement when modeled jointly](../claims/self-efficacy-growth-associated-with-math-growth.md) [+M] — learners who differ on it differ in outcomes
 - [In a pooled multivariate model, the combined self-efficacy/self-management growth predicts about 80% lower odds of suspension, while the growth mindset intercept unexpectedly increases suspension odds](../claims/pooled-model-suspension-growth-mindset-paradox.md) [+M] — learners who differ on it differ in outcomes
 - [Integrative motivation sustains long-term language-learning motivation better than instrumental motivation](../claims/integrative-motivation-sustains-long-term.md) [+M] — learners who differ on it differ in outcomes
@@ -75,7 +75,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Students were highly engaged in the in-school environment, with engagement increasing over the implementation duration.](../claims/hero-elementary-in-school-student-engagement-increased.md) [+M] — instruction changes it
 - [The Elevate Math summer program had no significant effects on students' math interest or math self-efficacy](../claims/elevate-math-no-effects-math-interest-self-efficacy.md) [-M] — instruction changes it
 - [The paper reports that culturally responsive pedagogies are associated with more student engagement, agency, and responsibility for seeking information](../claims/crse-pedagogies-engagement-agency-claim.md) [+M] — instruction changes it
-- [Positive teacher–student relationships are associated with higher student engagement and math achievement, with stronger associations for minority, lower-income, and secondary students](../claims/teacher-relationships-associated-math-engagement-achievement.md) [+M] — instruction changes it
+- [Positive teacher–student relationships are associated with higher student engagement and math achievement, with stronger associations for minority, lower-income, and secondary students](../claims/teacher-student-relationships-improve-engagement.md) [+M] — instruction changes it
 - [Positive teacher–student relationships relate to math outcomes through self-efficacy, intrinsic motivation, belonging, engagement, and mathematics identity](../claims/relationships-pathways-self-efficacy-motivation-identity.md) [+M] — learners who differ on it differ in outcomes
 - [Teacher emotional support buffers the negative association between low math self-efficacy and low engagement](../claims/teacher-emotional-support-buffers-low-efficacy-engagement.md) [~M] — learners who differ on it differ in outcomes
 - [Teachers commonly attribute increased student engagement to ILC-influenced instruction](../claims/ilc-attributed-student-engagement-gains.md) [+M] — instruction changes it

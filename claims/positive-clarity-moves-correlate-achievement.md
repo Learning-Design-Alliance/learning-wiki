@@ -14,7 +14,7 @@ sources:
     title: "Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill. (1991). The Effect of Instructional Clarity and Concept Structure on Student Achievement and Perception. https://eric.ed.gov/?id=ED331809"
     author: Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill
     q: 3
-    i: 1
+    i: "?"
     kind: causal
     rigour: 1
   - id: snyder-1991-2
@@ -22,7 +22,7 @@ sources:
     title: "Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill. (1991). The Effect of Instructional Clarity and Concept Structure on Student Achievement and Perception. https://eric.ed.gov/?id=ED331809"
     author: Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill
     q: 3
-    i: 1
+    i: "?"
     kind: causal
     rigour: 2
 ---
@@ -30,11 +30,11 @@ sources:
 # Each positive clarity move (keys, links, framing, focusing, examples) correlates positively with every concept achievement measure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3` · `i1` small
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
 
 ## Subclaims
-`q3 i1` Keys, links, frames, focusing moves, and examples each had positive significant correlations with application achievement (e.g., keys r(57)=.58). [→ Snyder 1991](#snyder-1991)
-`q3 i1` The same moves correlated positively with definition achievement (e.g., keys r(57)=.53). [→ Snyder 1991 (2)](#snyder-1991-2)
+`q3 i?` Keys, links, frames, focusing moves, and examples each had positive significant correlations with application achievement (e.g., keys r(57)=.58). [→ Snyder 1991](#snyder-1991)
+`q3 i?` The same moves correlated positively with definition achievement (e.g., keys r(57)=.53). [→ Snyder 1991 (2)](#snyder-1991-2)
 
 ## Evidence
 
@@ -42,7 +42,7 @@ sources:
 
 Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill. (1991). The Effect of Instructional Clarity and Concept Structure on Student Achievement and Perception. https://eric.ed.gov/?id=ED331809
 
-`q3 · i1` · `causal · r1`
+`q3 · i? · correlations r only, no d` · `causal · r1`
 
 Correlational analysis in the Results section relating perceived clarity moves to the application section of the concept test. The article reports correlations ranging from r(57)=.33 for frames to r(57)=.58 for keys, all significant.
 
@@ -52,7 +52,7 @@ Correlational analysis in the Results section relating perceived clarity moves t
 
 Snyder, Stephen; Bushur, Lori; Hoeksema, Pam; Olson, Mark; Clark, Shawn; Snyder, Jill. (1991). The Effect of Instructional Clarity and Concept Structure on Student Achievement and Perception. https://eric.ed.gov/?id=ED331809
 
-`q3 · i1` · `causal · r2`
+`q3 · i? · correlations r only, no d` · `causal · r2`
 
 Correlational analysis for the definition measure. The article reports positive significant correlations for all five move types, from r(57)=.25 for frames to r(57)=.53 for keys.
 

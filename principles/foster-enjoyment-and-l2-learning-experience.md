@@ -41,7 +41,7 @@ From the finding that the L2 learning experience and intrinsic motivation were t
 - [L2 Learning Experience Beats Ideal L2 Self](../claims/l2-learning-experience-beats-ideal-l2-self.md) [+M]
 - [Sdt Path Strengths Effort](../claims/sdt-path-strengths-effort.md) [+M]
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+W]
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
 - [Students rated the LLM-based assignments as useful, challenging, engaging, and enjoyable at both the first and fifth iterations, with no significant change across the semester](../claims/positive-affective-responses-llm-assignments.md) [+W]
 
 ## Related Principles

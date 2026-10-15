@@ -6,9 +6,34 @@
       "hub": "glossing-medium-large-effects-l2-vocabulary",
       "question": "Do glosses beside a second-language text help readers learn its vocabulary, and for whom?",
       "members": [
-        ["gloss-l2-ex-and-in-text-gloss-beat-control-scheffe", "+"],
-        ["proficiency-moderates-gloss-vocabulary-effects", "~"],
-        ["gloss-perceptions-mismatch-performance", "~"]
+        [
+          "gloss-l2-ex-and-in-text-gloss-beat-control-scheffe",
+          "+"
+        ],
+        [
+          "proficiency-moderates-gloss-vocabulary-effects",
+          "~"
+        ],
+        [
+          "gloss-perceptions-mismatch-performance",
+          "~"
+        ],
+        [
+          "l1-glosses-improve-immediate-vocabulary-recall",
+          "+"
+        ],
+        [
+          "l1-glosses-no-reading-comprehension-gain",
+          "~"
+        ],
+        [
+          "marginal-glosses-dictionary-recurrence-improve-incidental-learning",
+          "+"
+        ],
+        [
+          "involvement-load-tasks-improve-word-retention",
+          "+"
+        ]
       ]
     }
   ]

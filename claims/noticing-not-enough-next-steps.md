@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Identifying a stage of student learning does not necessarily mean teachers can identify next instructional steps
-description: Identifying a stage of student learning does not necessarily mean teachers can identify next instructional steps
+title: "A practitioner brief, citing Heritage (2009), reports that teachers who can identify a stage of student learning cannot necessarily identify the next instructional steps"
+description: A practitioner brief, citing Heritage (2009), reports that teachers who can identify a stage of student learning cannot necessarily identify the next instructional steps
 id: noticing-not-enough-next-steps
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 1
 ---
 
-# Identifying a stage of student learning does not necessarily mean teachers can identify next instructional steps
+# A practitioner brief, citing Heritage (2009), reports that teachers who can identify a stage of student learning cannot necessarily identify the next instructional steps
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+<!-- title before 2026-10-15: Identifying a stage of student learning does not necessarily mean teachers can identify next instructional steps -->
 
 ## Subclaims
 `q2 i?` Research shows teachers able to identify a stage in student learning are not necessarily able to identify the next instructional steps. [→ Jones 2024](#jones-2024)

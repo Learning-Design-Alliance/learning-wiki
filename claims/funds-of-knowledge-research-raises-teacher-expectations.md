@@ -17,33 +17,17 @@ sources:
     i: "?"
     kind: qualitative
     rigour: 2
-  - id: funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994-2
-    resource: "https://eric.ed.gov/?id=ED367146"
-    title: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146"
-    author: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest"
-    q: 1
-    i: "?"
-    kind: qualitative
-    rigour: 2
-  - id: funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994-3
-    resource: "https://eric.ed.gov/?id=ED367146"
-    title: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146"
-    author: "Funds of Knowledge: Learning from Language Minority Households. ERIC Digest"
-    q: 1
-    i: "?"
-    kind: review
-    rigour: 2
 ---
 
 # Teachers who took part in funds of knowledge household research came to view their minority students as competent and raised their expectations of them.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · qualitative `r2` · `q1`
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` After the research activities, teachers came to view students as "competent participants in households rich in cognitive resources" and raised their expectations of students' abilities. [→ Funds of Knowledge: Learning from Language Minority Households. ERIC Digest 1994](#funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994)
-`q1 i?` Participating teachers are reported to view students with more respect and understanding and to be better able to tie academic content to students' formerly hidden talents and abilities. [→ Funds of Knowledge: Learning from Language Minority Households. ERIC Digest 1994 (2)](#funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994-2)
-`q1 i?` Teachers who visited households while engaging in collaborative ethnographic reflection are reported to experience pivotal and transformative shifts in themselves and in household-school and parent-teacher relations. [→ Funds of Knowledge: Learning from Language Minority Households. ERIC Digest 1994 (3)](#funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994-3)
+`q1 i?` Participating teachers are reported to view students with more respect and understanding and to be better able to tie academic content to students' formerly hidden talents and abilities. [→ Funds of Knowledge: Learning from Language Minority Households. ERIC Digest 1994](#funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994)
+`q1 i?` Teachers who visited households while engaging in collaborative ethnographic reflection are reported to experience pivotal and transformative shifts in themselves and in household-school and parent-teacher relations. [→ Funds of Knowledge: Learning from Language Minority Households. ERIC Digest 1994](#funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994)
 
 ## Evidence
 
@@ -57,8 +41,7 @@ The digest's conclusion reports the project outcome for participating teachers: 
 
 > "As a result of these research activities, teachers have come to view their students as competent participants in households rich in cognitive resources, and have consequently raised their expectations of their students' abilities."
 
-### Funds of Knowledge: Learning from Language Minority Households. ERIC Digest 1994 (2)
-
+<!-- merged duplicate entry 2026-10-15: ### Funds of Knowledge: Learning from Language Minority Households. ERIC Digest 1994 (2)
 Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146
 
 `q1 · i?` · `qualitative · r2`
@@ -66,9 +49,9 @@ Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (19
 The digest reports that teachers changed by visiting families "now view their students with more respect and understanding" and can tie academic content to hidden talents. Qualitative teacher report; no instrument or count is given.
 
 > "Consequently, these teachers now view their students with more respect and understanding, and are better able to tie the academic content to the formerly hidden talents and abilities they have discovered in their minority students."
+-->
 
-### Funds of Knowledge: Learning from Language Minority Households. ERIC Digest 1994 (3)
-
+<!-- merged duplicate entry 2026-10-15: ### Funds of Knowledge: Learning from Language Minority Households. ERIC Digest 1994 (3)
 Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146
 
 `q1 · i?` · `review · r2`
@@ -76,17 +59,19 @@ Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (19
 Citing Gonzalez and Amanti (1992) and Moll et al. (1992), the digest reports that "pivotal and transformative shifts take place in teachers" and in household-school relations. Narrative summary of the project's qualitative findings.
 
 > "Additionally, teachers who have visited working-class minority households while engaging in collaborative ethnographic reflection have found that pivotal and transformative shifts take place in teachers and in relations between households and schools and between parents and teachers"
+-->
 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does learning about learners' homes change how educators read their students, and does it reach the students?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 qualitative), `q1`–`q2`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do teachers' visits to and learning about students' homes change how educators read their students, and does it reach the students?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **4 distinct studies** (2 causal, 1 qualitative, 1 associational), `q1`–`q2`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | Funds of Knowledge: Learning from Language Minority Households. ERIC Digest 1994 | q1 · qualitative · r2 | i? | this claim; [Home visits in funds of knowledge research led teachers to see culture as a dynamic proces](home-visits-shift-teacher-views-of-culture-to-dynamic-process.md) (supports); [Teacher-researchers in funds of knowledge work face difficulties, including helpless pessi](teacher-researcher-difficulties-eased-by-reflective-labs.md) (qualifies) |
-| Academic Performance — Parent Teacher Home Visits 2021 | q2 · causal · r2 | i0 | [A home visit before the school year reduced the likelihood of a disciplinary incident (eff](pthv-home-visit-reduces-disciplinary-incidents.md) (supports); [Teacher home visits slightly improved student attendance in the following school year (ES ](pthv-home-visits-improve-attendance-slightly.md) (qualifies) |
-| Allison McKie 2021 | q2 · causal · r? | i? | [A home visit before the school year reduced the likelihood of a disciplinary incident (eff](pthv-home-visit-reduces-disciplinary-incidents.md) (supports); [Teacher home visits slightly improved student attendance in the following school year (ES ](pthv-home-visits-improve-attendance-slightly.md) (qualifies) |
+| Academic Performance — Parent Teacher Home Visits 2021 | q2 · causal · r2 | i0; i? | [A home visit before the school year reduced the likelihood of a disciplinary incident (eff](pthv-home-visit-reduces-disciplinary-incidents.md) (supports); [Teacher home visits slightly improved student attendance in the following school year (ES ](pthv-home-visits-improve-attendance-slightly.md) (qualifies); [Home visits improved standardized math scores (ES = +0.11) but showed no difference in ELA](pthv-home-visit-math-gain-no-ela-difference.md) (qualifies) |
+| Allison McKie 2021 | q2 · causal · r? | i? | [Teacher home visits slightly improved student attendance in the following school year (ES ](pthv-home-visits-improve-attendance-slightly.md) (qualifies) |
+| Morgan 2024 | q2 · associational · r2 | i? | [Home visits are rarely offered and rated lowest of any engagement resource, with Black, La](home-visits-rare-and-lowest-rated.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

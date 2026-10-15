@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":17881,
+"claim":17857,
 "design":719,
 "element":1080,
 "learner-variable":14,
@@ -1177,12 +1177,13 @@
 "type":"claim"
 },
 {
-"description":"Above-norm students' post-policy test score gains (.56 points) were partly explained by peer ability and by spillover from classmates taking support algebra (~0.6 points, p<.01)",
+"aliases":["heterogeneous-support-benefits-above-norm","peer-skill-explains-above-norm-test-gains"],
+"description":"In one Chicago study, above-norm students' post-policy algebra test gains were partly explained by higher peer ability and by having classmates who took support algebra",
 "evidence_strength":"moderate",
 "id":"above-norm-score-gains-peer-ability-spillover",
 "path":"claims/above-norm-score-gains-peer-ability-spillover.md",
 "status":"draft",
-"title":"Above-norm students' post-policy test score gains (.56 points) were partly explained by peer ability and by spillover from classmates taking support algebra (~0.6 points, p<.01)",
+"title":"In one Chicago study, above-norm students' post-policy algebra test gains were partly explained by higher peer ability and by having classmates who took support algebra",
 "type":"claim"
 },
 {
@@ -1558,12 +1559,12 @@
 "type":"claim"
 },
 {
-"description":"Intensive academic vocabulary instruction across several days is supported by strong evidence from six WWC-standard studies",
+"description":"A WWC practice guide rests its recommendation to teach academic vocabulary intensively across several days on six studies meeting WWC standards (five RCTs, one quasi-experiment)",
 "evidence_strength":"moderate",
 "id":"academic-vocabulary-intensive-instruction-strong-evidence",
 "path":"claims/academic-vocabulary-intensive-instruction-strong-evidence.md",
 "status":"draft",
-"title":"Intensive academic vocabulary instruction across several days is supported by strong evidence from six WWC-standard studies",
+"title":"A WWC practice guide rests its recommendation to teach academic vocabulary intensively across several days on six studies meeting WWC standards (five RCTs, one quasi-experiment)",
 "type":"claim"
 },
 {
@@ -2904,7 +2905,7 @@
 "id":"adaptive-learning-improves-outcomes",
 "path":"claims/adaptive-learning-improves-outcomes.md",
 "status":"draft",
-"title":"Adaptive learning improves outcomes",
+"title":"Intelligent tutoring systems improve achievement over non-individualised instruction",
 "type":"claim"
 },
 {
@@ -5917,12 +5918,12 @@
 "type":"claim"
 },
 {
-"description":"Teachers report AI tools enable authentic, contextualized science experiences including risky or inaccessible phenomena and virtual-to-real practice transfer",
+"description":"In one qualitative interview study, science teachers report that AI tools let students experience risky or inaccessible phenomena and practise virtually before real lab work",
 "evidence_strength":"moderate",
 "id":"ai-enables-authentic-contextualized-science-experiences",
 "path":"claims/ai-enables-authentic-contextualized-science-experiences.md",
 "status":"draft",
-"title":"Teachers report AI tools enable authentic, contextualized science experiences including risky or inaccessible phenomena and virtual-to-real practice transfer",
+"title":"In one qualitative interview study, science teachers report that AI tools let students experience risky or inaccessible phenomena and practise virtually before real lab work",
 "type":"claim"
 },
 {
@@ -7600,12 +7601,12 @@
 "type":"claim"
 },
 {
-"description":"AI tools support adaptive and personalized learning experiences that improve learner engagement and problem-solving skills in PBL",
+"description":"A systematic review of AI in problem-based learning reports, as a dominant theme of its 50 studies, that AI tools support adaptive, personalized learning linked to better engagement and problem-solving",
 "evidence_strength":"moderate",
 "id":"ai-pbl-adaptive-personalized-engagement",
 "path":"claims/ai-pbl-adaptive-personalized-engagement.md",
 "status":"draft",
-"title":"AI tools support adaptive and personalized learning experiences that improve learner engagement and problem-solving skills in PBL",
+"title":"A systematic review of AI in problem-based learning reports, as a dominant theme of its 50 studies, that AI tools support adaptive, personalized learning linked to better engagement and problem-solving",
 "type":"claim"
 },
 {
@@ -7708,12 +7709,12 @@
 "type":"claim"
 },
 {
-"description":"AI-peer integrated feedback produces significantly higher posttest cognitive engagement than conventional peer feedback in EFL writing",
+"description":"In one quasi-experiment in EFL writing classes, students given AI-peer integrated feedback reported higher posttest cognitive engagement than students given conventional peer feedback",
 "evidence_strength":"moderate",
 "id":"ai-peer-feedback-higher-cognitive-engagement",
 "path":"claims/ai-peer-feedback-higher-cognitive-engagement.md",
 "status":"draft",
-"title":"AI-peer integrated feedback produces significantly higher posttest cognitive engagement than conventional peer feedback in EFL writing",
+"title":"In one quasi-experiment in EFL writing classes, students given AI-peer integrated feedback reported higher posttest cognitive engagement than students given conventional peer feedback",
 "type":"claim"
 },
 {
@@ -7741,15 +7742,6 @@
 "path":"claims/ai-performance-learning-gains-diverge.md",
 "status":"draft",
 "title":"AI-assisted task performance can rise without corresponding gains in underlying knowledge, metacognitive processing, or independent reasoning",
-"type":"claim"
-},
-{
-"description":"The review reports that generative AI can raise immediate performance while impairing delayed exam performance once AI access is removed",
-"evidence_strength":"weak",
-"id":"ai-performance-mastery-decoupling-review-report",
-"path":"claims/ai-performance-mastery-decoupling-review-report.md",
-"status":"draft",
-"title":"The review reports that generative AI can raise immediate performance while impairing delayed exam performance once AI access is removed",
 "type":"claim"
 },
 {
@@ -8158,6 +8150,7 @@
 "type":"claim"
 },
 {
+"aliases":["llm-substitution-negative-critical-thinking-correlation"],
 "description":"Higher reliance on AI tools is correlated with lower critical-thinking performance, mediated by cognitive offloading",
 "evidence_strength":"weak",
 "id":"ai-reliance-correlated-lower-critical-thinking-offloading",
@@ -8743,6 +8736,7 @@
 "type":"claim"
 },
 {
+"aliases":["gpt-o4-mini-equivalent-deepseek-noninferior-teacher-feedback"],
 "description":"Project performance improved significantly from pre- to post-feedback across all three feedback conditions with no significant differences between feedback sources",
 "evidence_strength":"moderate",
 "id":"ai-teacher-feedback-equal-project-performance-gains",
@@ -11014,15 +11008,6 @@
 "type":"claim"
 },
 {
-"description":"",
-"evidence_strength":"pending",
-"id":"analogical-reasoning-improves-transfer",
-"path":"claims/analogical-reasoning-improves-transfer.md",
-"status":"draft",
-"title":"Analogical Reasoning Improves Transfer",
-"type":"claim"
-},
-{
 "description":"The study conducts analyses aimed at reducing barriers to generating empirical benchmarks for repeated measures achievement data",
 "evidence_strength":"weak",
 "id":"analyses-reduce-barriers-empirical-benchmarks-repeated-measures",
@@ -11643,12 +11628,12 @@
 "type":"claim"
 },
 {
-"description":"APCA improved self-assessment accuracy and reduced overconfidence, and the combined intervention did not outperform APCA alone on calibration",
+"description":"In one 2×2 experiment with 120 undergraduates, an Assessment-Performance Calibration Activity (APCA) gave the most accurate self-assessment and least overconfidence, and adding a feedback-literacy script did not improve calibration further",
 "evidence_strength":"moderate",
 "id":"apca-improves-self-assessment-accuracy-overconfidence",
 "path":"claims/apca-improves-self-assessment-accuracy-overconfidence.md",
 "status":"draft",
-"title":"APCA improved self-assessment accuracy and reduced overconfidence, and the combined intervention did not outperform APCA alone on calibration",
+"title":"In one 2×2 experiment with 120 undergraduates, an Assessment-Performance Calibration Activity (APCA) gave the most accurate self-assessment and least overconfidence, and adding a feedback-literacy script did not improve calibration further",
 "type":"claim"
 },
 {
@@ -14241,7 +14226,7 @@
 "id":"autonomy-supports-intrinsic-motivation",
 "path":"claims/autonomy-supports-intrinsic-motivation.md",
 "status":"review",
-"title":"Autonomy support increases intrinsic motivation, engagement, and persistence in learning.",
+"title":"Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it",
 "type":"claim"
 },
 {
@@ -14317,12 +14302,12 @@
 "type":"claim"
 },
 {
-"description":"Avatar use in online learning provides social presence, and realistic avatars in intelligent tutoring systems can increase student-tutor engagement",
+"description":"A 2024 vendor white paper cites research that avatars provide social presence and that realistic avatars in intelligent tutoring systems can increase student-tutor engagement",
 "evidence_strength":"weak",
 "id":"avatar-social-presence-increases-tutor-engagement",
 "path":"claims/avatar-social-presence-increases-tutor-engagement.md",
 "status":"draft",
-"title":"Avatar use in online learning provides social presence, and realistic avatars in intelligent tutoring systems can increase student-tutor engagement",
+"title":"A 2024 vendor white paper cites research that avatars provide social presence and that realistic avatars in intelligent tutoring systems can increase student-tutor engagement",
 "type":"claim"
 },
 {
@@ -14535,12 +14520,12 @@
 "type":"claim"
 },
 {
-"description":"AWE tools can enhance organization of writing, overall writing quality, and encourage self-directed learning",
+"description":"A review of 50 studies reports that AWE tools can improve the organization and overall quality of writing and encourage self-directed learning",
 "evidence_strength":"moderate",
 "id":"awe-enhance-organization-quality-self-directed-learning",
 "path":"claims/awe-enhance-organization-quality-self-directed-learning.md",
 "status":"draft",
-"title":"AWE tools can enhance organization of writing, overall writing quality, and encourage self-directed learning",
+"title":"A review of 50 studies reports that AWE tools can improve the organization and overall quality of writing and encourage self-directed learning",
 "type":"claim"
 },
 {
@@ -17662,12 +17647,12 @@
 "type":"claim"
 },
 {
-"description":"National Board certification identifies teachers who are more expert and whose students achieve deeper learning",
+"description":"An ERIC digest reports that a 2000 validity study gave strong initial evidence that National Board certification identifies teachers who are more expert and whose students learn more deeply",
 "evidence_strength":"moderate",
 "id":"board-certification-identifies-more-expert-teachers",
 "path":"claims/board-certification-identifies-more-expert-teachers.md",
 "status":"draft",
-"title":"National Board certification identifies teachers who are more expert and whose students achieve deeper learning",
+"title":"An ERIC digest reports that a 2000 validity study gave strong initial evidence that National Board certification identifies teachers who are more expert and whose students learn more deeply",
 "type":"claim"
 },
 {
@@ -18310,12 +18295,12 @@
 "type":"claim"
 },
 {
-"description":"Students learn more from games when bridging activities connect implicit game learning with formal, explicit classroom instruction, and learning analytics can strengthen that connection",
+"description":"A 2017 cyberlearning community report states that students learn more from games when bridging activities connect game learning to classroom instruction, and that learning analytics can strengthen the connection",
 "evidence_strength":"weak",
 "id":"bridging-activities-connect-game-learning-to-instruction",
 "path":"claims/bridging-activities-connect-game-learning-to-instruction.md",
 "status":"draft",
-"title":"Students learn more from games when bridging activities connect implicit game learning with formal, explicit classroom instruction, and learning analytics can strengthen that connection",
+"title":"A 2017 cyberlearning community report states that students learn more from games when bridging activities connect game learning to classroom instruction, and that learning analytics can strengthen the connection",
 "type":"claim"
 },
 {
@@ -18352,7 +18337,7 @@
 "id":"brief-intervention-empathic-discipline-cuts-suspensions",
 "path":"claims/brief-intervention-empathic-discipline-cuts-suspensions.md",
 "status":"draft",
-"title":"Brief Intervention Empathic Discipline Cuts Suspensions",
+"title":"A brief online empathic-discipline exercise for teachers halved suspensions in one randomized field experiment, while its preregistered replication found a small, marginal overall effect but narrowed group disparities",
 "type":"claim"
 },
 {
@@ -18651,15 +18636,6 @@
 "path":"claims/building-blocks-prek-positive-effects-math.md",
 "status":"draft",
 "title":"Building Blocks for Math has positive effects on preschool mathematics achievement according to the WWC",
-"type":"claim"
-},
-{
-"description":"Building capacity is critical for educational reform",
-"evidence_strength":"weak",
-"id":"building-capacity-critical-for-reform",
-"path":"claims/building-capacity-critical-for-reform.md",
-"status":"draft",
-"title":"Building capacity is critical for educational reform",
 "type":"claim"
 },
 {
@@ -21287,12 +21263,12 @@
 "type":"claim"
 },
 {
-"description":"CF treatment improved irregular past tense performance on both GJT and EIT with large effects",
+"description":"Learners in all three corrective-feedback groups improve irregular past tense performance on both GJT and EIT from pretest to posttests, a within-group gain that does not separate the feedback types",
 "evidence_strength":"moderate",
 "id":"cf-treatment-improves-irregular-past-tense-gjt-eit",
 "path":"claims/cf-treatment-improves-irregular-past-tense-gjt-eit.md",
 "status":"draft",
-"title":"CF treatment improved irregular past tense performance on both GJT and EIT with large effects",
+"title":"Learners in all three corrective-feedback groups improve irregular past tense performance on both GJT and EIT from pretest to posttests, a within-group gain that does not separate the feedback types",
 "type":"claim"
 },
 {
@@ -21440,12 +21416,12 @@
 "type":"claim"
 },
 {
-"description":"Students in the flexible hypertext-based course design scored higher on achievement tests (76%) than students in the direct online course design (59%)",
+"description":"A flexible hypertext course group averaged 76% on achievement tests against 59% for a direct-design group that studied different software, so the contrast confounds design with content",
 "evidence_strength":"moderate",
 "id":"cft-hypertext-design-higher-achievement-scores",
 "path":"claims/cft-hypertext-design-higher-achievement-scores.md",
 "status":"draft",
-"title":"Students in the flexible hypertext-based course design scored higher on achievement tests (76%) than students in the direct online course design (59%)",
+"title":"A flexible hypertext course group averaged 76% on achievement tests against 59% for a direct-design group that studied different software, so the contrast confounds design with content",
 "type":"claim"
 },
 {
@@ -24031,7 +24007,7 @@
 "id":"choice-rich-infrastructure-supports-productive-deviation-and-learning",
 "path":"claims/choice-rich-infrastructure-supports-productive-deviation-and-learning.md",
 "status":"draft",
-"title":"Choice-rich infrastructure enables self-sustained, self-extending student projects well beyond a challenge's designed scope",
+"title":"In one extreme case, two sixth-graders with a choice-rich, ungraded STEAM infrastructure extended a game-design challenge into a year-long self-directed project well beyond its designed scope",
 "type":"claim"
 },
 {
@@ -25387,12 +25363,12 @@
 "type":"claim"
 },
 {
-"description":"Classroom composition significantly affects teacher performance ratings: a one SD increase in classroom quality raises observation scores by 0.07 SD and student survey ratings by 0.13 SD",
+"description":"In one quasi-experimental study of Chicago teachers, a classroom one SD higher on a quality index raised the same teacher's observation scores by 0.07 SD and student survey ratings by 0.13 SD",
 "evidence_strength":"moderate",
 "id":"classroom-composition-affects-teacher-ratings",
 "path":"claims/classroom-composition-affects-teacher-ratings.md",
 "status":"draft",
-"title":"Classroom composition significantly affects teacher performance ratings: a one SD increase in classroom quality raises observation scores by 0.07 SD and student survey ratings by 0.13 SD",
+"title":"In one quasi-experimental study of Chicago teachers, a classroom one SD higher on a quality index raised the same teacher's observation scores by 0.07 SD and student survey ratings by 0.13 SD",
 "type":"claim"
 },
 {
@@ -25656,12 +25632,12 @@
 "type":"claim"
 },
 {
-"description":"Developing and using clear behavior expectations for students is supported by strong evidence from 14 studies meeting WWC standards",
+"description":"A WWC practice-guide panel rates developing and using clear behavior expectations as supported by strong evidence from 14 studies",
 "evidence_strength":"strong",
 "id":"clear-behavior-expectations-strong-evidence-14-studies",
 "path":"claims/clear-behavior-expectations-strong-evidence-14-studies.md",
 "status":"draft",
-"title":"Developing and using clear behavior expectations for students is supported by strong evidence from 14 studies meeting WWC standards",
+"title":"A WWC practice-guide panel rates developing and using clear behavior expectations as supported by strong evidence from 14 studies",
 "type":"claim"
 },
 {
@@ -25680,15 +25656,6 @@
 "path":"claims/clear-roles-and-training-support-ca-implementation.md",
 "status":"draft",
 "title":"Clear role assignment, training resources, and advisory support facilitated CA-supported continuous improvement and reduced faculty workload perceptions",
-"type":"claim"
-},
-{
-"description":"The paper reports that clear, specific, and challenging goals have been linked to higher task performance than simple encouragement, under stated conditions",
-"evidence_strength":"weak",
-"id":"clear-specific-challenging-goals-linked-to-task-performance",
-"path":"claims/clear-specific-challenging-goals-linked-to-task-performance.md",
-"status":"draft",
-"title":"The paper reports that clear, specific, and challenging goals have been linked to higher task performance than simple encouragement, under stated conditions",
 "type":"claim"
 },
 {
@@ -26126,12 +26093,12 @@
 "type":"claim"
 },
 {
-"description":"A CLT-based instructional design yields significantly higher retention and transfer scores than lecturer-designed instruction in thermodynamics, controlling for prior knowledge and memory span",
+"description":"In one study of 37 thermodynamics freshmen, a CLT-based instructional design yields higher retention and transfer scores than lecturer-designed instruction, controlling for prior knowledge and memory span",
 "evidence_strength":"moderate",
 "id":"clt-instructional-design-raises-retention-transfer-thermodynamics",
 "path":"claims/clt-instructional-design-raises-retention-transfer-thermodynamics.md",
 "status":"draft",
-"title":"A CLT-based instructional design yields significantly higher retention and transfer scores than lecturer-designed instruction in thermodynamics, controlling for prior knowledge and memory span",
+"title":"In one study of 37 thermodynamics freshmen, a CLT-based instructional design yields higher retention and transfer scores than lecturer-designed instruction, controlling for prior knowledge and memory span",
 "type":"claim"
 },
 {
@@ -29125,7 +29092,7 @@
 "type":"claim"
 },
 {
-"aliases":["comparing-contrasting-cases-improve-learning","multiple-contrasting-cases-support-abstraction"],
+"aliases":["comparing-contrasting-cases-improve-learning","multiple-contrasting-cases-support-abstraction","analogical-reasoning-improves-transfer"],
 "description":"",
 "id":"comparing-contrasting-cases-improves-learning",
 "path":"claims/comparing-contrasting-cases-improves-learning.md",
@@ -29884,12 +29851,12 @@
 "type":"claim"
 },
 {
-"description":"Conceptual-map scaffolding modestly improves novice LLM-condition performance and reduces outcome variance, with benefits concentrated among low-AIC novices",
+"description":"In one randomized working-paper experiment, conceptual-map scaffolding gave LLM-using novices marginally higher scores (p < .10) and lower score variance, with a marginal benefit concentrated among low-AIC novices",
 "evidence_strength":"weak",
 "id":"conceptual-map-scaffolding-reduces-novice-variance",
 "path":"claims/conceptual-map-scaffolding-reduces-novice-variance.md",
 "status":"draft",
-"title":"Conceptual-map scaffolding modestly improves novice LLM-condition performance and reduces outcome variance, with benefits concentrated among low-AIC novices",
+"title":"In one randomized working-paper experiment, conceptual-map scaffolding gave LLM-using novices marginally higher scores (p < .10) and lower score variance, with a marginal benefit concentrated among low-AIC novices",
 "type":"claim"
 },
 {
@@ -31107,12 +31074,12 @@
 "type":"claim"
 },
 {
-"description":"Distracting contextual factors — lack of dedicated study space, lack of reliable technology and financial issues — increase test anxiety",
+"description":"Lack of study space and financial issues are associated with higher test anxiety in online exams, and reliable technology with lower",
 "evidence_strength":"moderate",
 "id":"contextual-factors-increase-test-anxiety",
 "path":"claims/contextual-factors-increase-test-anxiety.md",
 "status":"draft",
-"title":"Distracting contextual factors — lack of dedicated study space, lack of reliable technology and financial issues — increase test anxiety",
+"title":"Lack of study space and financial issues are associated with higher test anxiety in online exams, and reliable technology with lower",
 "type":"claim"
 },
 {
@@ -34570,15 +34537,6 @@
 "type":"claim"
 },
 {
-"description":"Teachers with National Board Certification or advanced degrees differ from other teachers only on observation scores, not value added",
-"evidence_strength":"moderate",
-"id":"credentials-difference-observation-only-not-value-added",
-"path":"claims/credentials-difference-observation-only-not-value-added.md",
-"status":"draft",
-"title":"Teachers with National Board Certification or advanced degrees differ from other teachers only on observation scores, not value added",
-"type":"claim"
-},
-{
 "description":"District-level increases in total, science, fine arts, or world languages credit requirements between 2012/13 and 2017/18 showed few relationships with student academic outcomes",
 "evidence_strength":"weak",
 "id":"credit-increases-few-outcome-relationships",
@@ -35461,12 +35419,12 @@
 "type":"claim"
 },
 {
-"description":"Causal studies find CSTAG reduces exclusionary discipline and bullying and increases counseling, with fidelity moderating effects",
+"description":"Randomized studies, as reviewed, find that students who make threats in CSTAG schools more often receive counseling and less often long-term suspension or transfer, with the largest changes in higher-fidelity schools",
 "evidence_strength":"moderate",
 "id":"cstag-causal-reduces-discipline-increases-counseling",
 "path":"claims/cstag-causal-reduces-discipline-increases-counseling.md",
 "status":"draft",
-"title":"Causal studies find CSTAG reduces exclusionary discipline and bullying and increases counseling, with fidelity moderating effects",
+"title":"Randomized studies, as reviewed, find that students who make threats in CSTAG schools more often receive counseling and less often long-term suspension or transfer, with the largest changes in higher-fidelity schools",
 "type":"claim"
 },
 {
@@ -37534,12 +37492,12 @@
 "type":"claim"
 },
 {
-"description":"The direction of difficulty adaptation, not merely its presence, determines AI-GBL outcomes",
+"description":"In one quasi-experimental VR shooting study (n = 50), reported in a review, rule-based dynamic difficulty outperformed progressive difficulty",
 "evidence_strength":"weak",
 "id":"dda-adaptation-direction-determines-outcomes",
 "path":"claims/dda-adaptation-direction-determines-outcomes.md",
 "status":"draft",
-"title":"The direction of difficulty adaptation, not merely its presence, determines AI-GBL outcomes",
+"title":"In one quasi-experimental VR shooting study (n = 50), reported in a review, rule-based dynamic difficulty outperformed progressive difficulty",
 "type":"claim"
 },
 {
@@ -37786,12 +37744,12 @@
 "type":"claim"
 },
 {
-"description":"Decoupling evaluation from grades makes teacher feedback easier to give and more effective for learning",
+"description":"Two writing teachers report that decoupling evaluation from grades under a grading contract lets them give blunter feedback that students can weigh, an account with no data reported",
 "evidence_strength":"weak",
 "id":"decoupling-evaluation-from-grades-improves-feedback",
 "path":"claims/decoupling-evaluation-from-grades-improves-feedback.md",
 "status":"draft",
-"title":"Decoupling evaluation from grades makes teacher feedback easier to give and more effective for learning",
+"title":"Two writing teachers report that decoupling evaluation from grades under a grading contract lets them give blunter feedback that students can weigh, an account with no data reported",
 "type":"claim"
 },
 {
@@ -38219,12 +38177,12 @@
 "type":"claim"
 },
 {
-"description":"Students in the deliberate practice group reported increased satisfaction with the learning process",
+"description":"Students in a deliberate practice group reported satisfaction with the learning process on a survey given only to that group",
 "evidence_strength":"moderate",
 "id":"deliberate-practice-increases-student-satisfaction",
 "path":"claims/deliberate-practice-increases-student-satisfaction.md",
 "status":"draft",
-"title":"Students in the deliberate practice group reported increased satisfaction with the learning process",
+"title":"Students in a deliberate practice group reported satisfaction with the learning process on a survey given only to that group",
 "type":"claim"
 },
 {
@@ -39400,12 +39358,12 @@
 "type":"claim"
 },
 {
-"description":"Differentiated instruction shows a medium positive pooled effect on academic achievement (REM ES = 0.729) with a confidence interval spanning negative values",
+"description":"A meta-analysis of three differentiated-instruction studies reports a pooled effect of 0.729 on academic achievement whose 95% confidence interval (−3.66 to 5.12) spans zero",
 "evidence_strength":"weak",
 "id":"di-medium-positive-effect-academic-achievement",
 "path":"claims/di-medium-positive-effect-academic-achievement.md",
 "status":"draft",
-"title":"Differentiated instruction shows a medium positive pooled effect on academic achievement (REM ES = 0.729) with a confidence interval spanning negative values",
+"title":"A meta-analysis of three differentiated-instruction studies reports a pooled effect of 0.729 on academic achievement whose 95% confidence interval (−3.66 to 5.12) spans zero",
 "type":"claim"
 },
 {
@@ -42337,6 +42295,7 @@
 "type":"claim"
 },
 {
+"aliases":["double-dose-led-to-tracking-by-entering-skills"],
 "description":"The double-dose policy led schools to track algebra classes by entering math skills, making classrooms more homogeneous in ability",
 "evidence_strength":"moderate",
 "id":"double-dose-induced-algebra-tracking",
@@ -42352,15 +42311,6 @@
 "path":"claims/double-dose-least-effective-weakest-students.md",
 "status":"draft",
 "title":"Double-dose algebra was least effective for students with the weakest incoming skills, most of whom received special education services",
-"type":"claim"
-},
-{
-"description":"The double-dose policy led schools to track algebra classes by students' entering math skills",
-"evidence_strength":"moderate",
-"id":"double-dose-led-to-tracking-by-entering-skills",
-"path":"claims/double-dose-led-to-tracking-by-entering-skills.md",
-"status":"draft",
-"title":"The double-dose policy led schools to track algebra classes by students' entering math skills",
 "type":"claim"
 },
 {
@@ -47921,12 +47871,12 @@
 "type":"claim"
 },
 {
-"description":"Effect of explicit morphology instruction is larger on morphological awareness (MGR 1.28) than on reading comprehension (MGR 1.06, below the accepted 1.2 minimum)",
+"description":"Within the explicit morphology instruction group, the pre-to-post gain ratio was above Blake's 1.2 minimum for morphological awareness (1.28) and below it for reading comprehension (1.06)",
 "evidence_strength":"moderate",
 "id":"emi-effect-size-larger-for-awareness-than-comprehension",
 "path":"claims/emi-effect-size-larger-for-awareness-than-comprehension.md",
 "status":"draft",
-"title":"Effect of explicit morphology instruction is larger on morphological awareness (MGR 1.28) than on reading comprehension (MGR 1.06, below the accepted 1.2 minimum)",
+"title":"Within the explicit morphology instruction group, the pre-to-post gain ratio was above Blake's 1.2 minimum for morphological awareness (1.28) and below it for reading comprehension (1.06)",
 "type":"claim"
 },
 {
@@ -48111,12 +48061,12 @@
 "type":"claim"
 },
 {
-"description":"Emotional engagement and social presence are critical factors in AI-powered collaborative learning environments",
+"description":"A 2025 systematic review reports that AI tools raising social presence and emotional engagement may improve AI-supported collaborative learning outcomes",
 "evidence_strength":"weak",
 "id":"emotional-engagement-social-presence-ai-collaborative-learning",
 "path":"claims/emotional-engagement-social-presence-ai-collaborative-learning.md",
 "status":"draft",
-"title":"Emotional engagement and social presence are critical factors in AI-powered collaborative learning environments",
+"title":"A 2025 systematic review reports that AI tools raising social presence and emotional engagement may improve AI-supported collaborative learning outcomes",
 "type":"claim"
 },
 {
@@ -48264,12 +48214,12 @@
 "type":"claim"
 },
 {
-"description":"Adult training yields better results the more closely it is related to a real job or occupation",
+"description":"An adult-education market report asserts, quoting earlier research it does not detail, that adult training yields better results the more closely it relates to a real job or occupation",
 "evidence_strength":"weak",
 "id":"employer-relevant-training-improves-adult-outcomes",
 "path":"claims/employer-relevant-training-improves-adult-outcomes.md",
 "status":"draft",
-"title":"Adult training yields better results the more closely it is related to a real job or occupation",
+"title":"An adult-education market report asserts, quoting earlier research it does not detail, that adult training yields better results the more closely it relates to a real job or occupation",
 "type":"claim"
 },
 {
@@ -49155,6 +49105,7 @@
 "type":"claim"
 },
 {
+"aliases":["school-entry-age-early-advantage-fades-by-later-grades"],
 "description":"Older entrants show higher kindergarten growth rates but lower growth rates in 1st and 2nd grades",
 "evidence_strength":"moderate",
 "id":"entry-age-growth-rate-tradeoff",
@@ -51227,16 +51178,6 @@
 "type":"claim"
 },
 {
-"aliases":["example-problem-sequences-reduce-cognitive-load-and-improve-learning-outcomes","worked-examples-example-problem-sequences"],
-"description":"",
-"evidence_strength":"moderate",
-"id":"example-problem-sequences-reduce-cognitive-load",
-"path":"claims/example-problem-sequences-reduce-cognitive-load.md",
-"status":"review",
-"title":"Example-problem sequences reduce cognitive load and improve learning outcomes.",
-"type":"claim"
-},
-{
 "description":"Incorporating example problems does not necessarily improve LLM teaching and can degrade it via a shift to example-specific error correction",
 "evidence_strength":"moderate",
 "id":"example-problems-degrade-llm-teaching",
@@ -51650,6 +51591,7 @@
 "type":"claim"
 },
 {
+"aliases":["credentials-difference-observation-only-not-value-added"],
 "description":"Teacher experience and credentials relate to evaluation scores, with credential differences appearing only on observations",
 "evidence_strength":"moderate",
 "id":"experience-credentials-teacher-evaluation-scores",
@@ -52273,12 +52215,12 @@
 "type":"claim"
 },
 {
-"description":"Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial due to lack of teacher training",
+"description":"Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial, limited to devices and software without a critical approach",
 "evidence_strength":"weak",
 "id":"experts-superficial-technology-integration",
 "path":"claims/experts-superficial-technology-integration.md",
 "status":"draft",
-"title":"Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial due to lack of teacher training",
+"title":"Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial, limited to devices and software without a critical approach",
 "type":"claim"
 },
 {
@@ -53902,12 +53844,12 @@
 "type":"claim"
 },
 {
-"description":"Authentic family–school partnerships positively impact student achievement, but persist without staff training and coaching",
+"description":"A field guide asserts that authentic family–school partnerships benefit student achievement and argues that without staff training and coaching the school–family divide persists",
 "evidence_strength":"weak",
 "id":"family-school-partnerships-need-staff-capacity",
 "path":"claims/family-school-partnerships-need-staff-capacity.md",
 "status":"draft",
-"title":"Authentic family–school partnerships positively impact student achievement, but persist without staff training and coaching",
+"title":"A field guide asserts that authentic family–school partnerships benefit student achievement and argues that without staff training and coaching the school–family divide persists",
 "type":"claim"
 },
 {
@@ -54522,7 +54464,7 @@
 "type":"claim"
 },
 {
-"aliases":["feedback-improves-learning-outcomes","feedback-use-improves-learning"],
+"aliases":["feedback-improves-learning-outcomes","feedback-use-improves-learning","fi-meta-analysis-mean-d-41-over-38-percent-negative"],
 "description":"",
 "evidence_strength":"moderate",
 "id":"feedback-improves-learning",
@@ -54576,6 +54518,7 @@
 "type":"claim"
 },
 {
+"aliases":["high-information-feedback-d099-versus-reinforcement-d024"],
 "description":"",
 "id":"feedback-most-effective-at-task-and-process-levels",
 "path":"claims/feedback-most-effective-at-task-and-process-levels.md",
@@ -54621,12 +54564,12 @@
 "type":"claim"
 },
 {
-"description":"Feedback quality predicts revision outcomes in the teacher condition but not in the GenAI conditions",
+"description":"In one study, feedback quality significantly predicts revised essay quality under teacher feedback but not under either GenAI feedback condition, though the conditions are not compared directly",
 "evidence_strength":"moderate",
 "id":"feedback-quality-predicts-revision-only-in-teacher-condition",
 "path":"claims/feedback-quality-predicts-revision-only-in-teacher-condition.md",
 "status":"draft",
-"title":"Feedback quality predicts revision outcomes in the teacher condition but not in the GenAI conditions",
+"title":"In one study, feedback quality significantly predicts revised essay quality under teacher feedback but not under either GenAI feedback condition, though the conditions are not compared directly",
 "type":"claim"
 },
 {
@@ -54846,12 +54789,12 @@
 "type":"claim"
 },
 {
-"description":"Females gained significantly when the formatted plan followed free exploration but scored lower when the plan was withheld",
+"description":"In one word-problem study, females gained significantly when the formatted procedural plan came after an unformatted test, and scored lower when the formatted test came first",
 "evidence_strength":"moderate",
 "id":"females-benefit-free-exploration-then-plan",
 "path":"claims/females-benefit-free-exploration-then-plan.md",
 "status":"draft",
-"title":"Females gained significantly when the formatted plan followed free exploration but scored lower when the plan was withheld",
+"title":"In one word-problem study, females gained significantly when the formatted procedural plan came after an unformatted test, and scored lower when the formatted test came first",
 "type":"claim"
 },
 {
@@ -55430,15 +55373,6 @@
 "path":"claims/fhao-three-of-seven-outcomes-favor-program.md",
 "status":"draft",
 "title":"Three of seven knowledge, attitudes, and values outcomes favor Facing History and Ourselves, including relationship maturity (best response) with effect size 0.45, but none remain statistically significant after WWC corrections",
-"type":"claim"
-},
-{
-"description":"Feedback interventions improve performance on average with a moderate effect (d = .41), but over 38% of feedback-intervention effects are negative",
-"evidence_strength":"moderate",
-"id":"fi-meta-analysis-mean-d-41-over-38-percent-negative",
-"path":"claims/fi-meta-analysis-mean-d-41-over-38-percent-negative.md",
-"status":"draft",
-"title":"Feedback interventions improve performance on average with a moderate effect (d = .41), but over 38% of feedback-intervention effects are negative",
 "type":"claim"
 },
 {
@@ -56795,12 +56729,12 @@
 "type":"claim"
 },
 {
-"description":"Flipped classroom learning improves academic performance of undergraduate health professional students compared with traditional class learning (SMD = 0.57), at low certainty of evidence",
+"description":"In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)",
 "evidence_strength":"weak",
 "id":"flipped-classroom-improves-academic-performance-hpe",
 "path":"claims/flipped-classroom-improves-academic-performance-hpe.md",
 "status":"draft",
-"title":"Flipped classroom learning improves academic performance of undergraduate health professional students compared with traditional class learning (SMD = 0.57), at low certainty of evidence",
+"title":"In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)",
 "type":"claim"
 },
 {
@@ -57309,12 +57243,12 @@
 "type":"claim"
 },
 {
-"description":"Formative assessment embedded with explicit-reflective instruction yields higher post-test NOS and SK scores than explicit-reflective instruction alone among pre-school prospective teachers",
+"description":"In one nonequivalent-groups study of pre-school prospective teachers, the group taught with formative assessment embedded in explicit-reflective instruction scored higher on post-test NOS and SK than the group taught with explicit-reflective instruction alone",
 "evidence_strength":"moderate",
 "id":"formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks",
 "path":"claims/formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks.md",
 "status":"draft",
-"title":"Formative assessment embedded with explicit-reflective instruction yields higher post-test NOS and SK scores than explicit-reflective instruction alone among pre-school prospective teachers",
+"title":"In one nonequivalent-groups study of pre-school prospective teachers, the group taught with formative assessment embedded in explicit-reflective instruction scored higher on post-test NOS and SK than the group taught with explicit-reflective instruction alone",
 "type":"claim"
 },
 {
@@ -57831,12 +57765,12 @@
 "type":"claim"
 },
 {
-"description":"Four academic mindsets — belonging, growth beliefs, self-efficacy, and value — increase perseverance and improve academic behaviors",
+"description":"A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors",
 "evidence_strength":"moderate",
 "id":"four-academic-mindsets-increase-perseverance-and-behaviors",
 "path":"claims/four-academic-mindsets-increase-perseverance-and-behaviors.md",
 "status":"draft",
-"title":"Four academic mindsets — belonging, growth beliefs, self-efficacy, and value — increase perseverance and improve academic behaviors",
+"title":"A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors",
 "type":"claim"
 },
 {
@@ -59423,15 +59357,6 @@
 "path":"claims/funds-of-knowledge-tasks-reveal-computational-thinking.md",
 "status":"draft",
 "title":"Assessment tasks built on family-identified funds of knowledge elicited computational thinking from K-2 children in a small design-based study that made no comparison with standard assessment",
-"type":"claim"
-},
-{
-"description":"Meta-analysis of 37 inquiry-based instruction studies found an overall positive effect moderated by epistemic focus and teacher leadership",
-"evidence_strength":"weak",
-"id":"furtak-metaanalysis-37-studies-inquiry-positive",
-"path":"claims/furtak-metaanalysis-37-studies-inquiry-positive.md",
-"status":"draft",
-"title":"Meta-analysis of 37 inquiry-based instruction studies found an overall positive effect moderated by epistemic focus and teacher leadership",
 "type":"claim"
 },
 {
@@ -62409,12 +62334,12 @@
 "type":"claim"
 },
 {
-"description":"Structured GenAI scaffolding training improves students' AI-assisted revision performance on CSEM electromagnetism problems",
+"description":"Structured GenAI scaffolding training raises sophomore STEM students' posttest CSEM electromagnetism scores over problem-solving training (d = 0.81)",
 "evidence_strength":"moderate",
 "id":"genai-scaffolding-training-improves-revision-performance",
 "path":"claims/genai-scaffolding-training-improves-revision-performance.md",
 "status":"draft",
-"title":"Structured GenAI scaffolding training improves students' AI-assisted revision performance on CSEM electromagnetism problems",
+"title":"Structured GenAI scaffolding training raises sophomore STEM students' posttest CSEM electromagnetism scores over problem-solving training (d = 0.81)",
 "type":"claim"
 },
 {
@@ -63932,12 +63857,12 @@
 "type":"claim"
 },
 {
-"description":"Glossing yields medium-to-large positive effects on L2 vocabulary learning, with multiple-mode glosses outperforming single-mode",
+"description":"Earlier meta-analyses, as reported second-hand, find that glosses improve L2 vocabulary learning and that text-and-picture glosses outperform single-mode glosses",
 "evidence_strength":"moderate",
 "id":"glossing-medium-large-effects-l2-vocabulary",
 "path":"claims/glossing-medium-large-effects-l2-vocabulary.md",
 "status":"draft",
-"title":"Glossing yields medium-to-large positive effects on L2 vocabulary learning, with multiple-mode glosses outperforming single-mode",
+"title":"Earlier meta-analyses, as reported second-hand, find that glosses improve L2 vocabulary learning and that text-and-picture glosses outperform single-mode glosses",
 "type":"claim"
 },
 {
@@ -64608,15 +64533,6 @@
 "type":"claim"
 },
 {
-"description":"Equivalence analyses indicated practical comparability between GPT-o4-mini and teacher feedback, while DeepSeek R1 demonstrated non-inferiority to teacher feedback",
-"evidence_strength":"moderate",
-"id":"gpt-o4-mini-equivalent-deepseek-noninferior-teacher-feedback",
-"path":"claims/gpt-o4-mini-equivalent-deepseek-noninferior-teacher-feedback.md",
-"status":"draft",
-"title":"Equivalence analyses indicated practical comparability between GPT-o4-mini and teacher feedback, while DeepSeek R1 demonstrated non-inferiority to teacher feedback",
-"type":"claim"
-},
-{
 "description":"On fully correct responses, the GPT few-shot models outperformed the fine-tuned models, averaging less than one category distance from the gold score",
 "evidence_strength":"moderate",
 "id":"gpt-outperforms-finetuned-on-fully-correct-responses",
@@ -64662,7 +64578,7 @@
 "type":"claim"
 },
 {
-"aliases":["gpt4-practice-gains-exam-loss-cognitive-debt","unrestricted-chatgpt-worse-exam-scores","guarded-ai-placement-prevents-unaided-exam-harm","gpt-access-supported-practice-poorer-unaided-test","offloading-to-ai-costs-learning"],
+"aliases":["gpt4-practice-gains-exam-loss-cognitive-debt","unrestricted-chatgpt-worse-exam-scores","guarded-ai-placement-prevents-unaided-exam-harm","gpt-access-supported-practice-poorer-unaided-test","offloading-to-ai-costs-learning","unrestricted-gpt4-practice-gains-exam-decline-guardrail-mitigates","ai-performance-mastery-decoupling-review-report","ai-assistant-short-term-gains-harm-durable-learning","learning-performance-paradox-ai"],
 "description":"Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal",
 "evidence_strength":"weak",
 "id":"gpt4-access-harms-learning-after-withdrawal",
@@ -66319,15 +66235,6 @@
 "type":"claim"
 },
 {
-"description":"",
-"evidence_strength":"emerging",
-"id":"guided-play-improves-academic-outcomes",
-"path":"claims/guided-play-improves-academic-outcomes.md",
-"status":"draft",
-"title":"Guided Play Improves Academic Outcomes",
-"type":"claim"
-},
-{
 "description":"Continuous guided reflection and dialogue about ill-defined dilemmas contributed to increased reflective judgment sophistication in several preservice teachers",
 "evidence_strength":"weak",
 "id":"guided-reflection-increases-reflective-judgment-sophistication",
@@ -66400,7 +66307,7 @@
 "type":"claim"
 },
 {
-"description":"Guo et al.",
+"description":"A 2018 review reports, citing Guo, Kim and Rubin (2014), that engagement with instructional video depends on production style: short videos, talking heads on slides and Khan-style drawing engage more than slides, coding sessions or classroom recordings",
 "evidence_strength":"weak",
 "id":"guo-video-style-engagement-findings",
 "path":"claims/guo-video-style-engagement-findings.md",
@@ -67444,12 +67351,12 @@
 "type":"claim"
 },
 {
-"description":"Students in heterogeneous mathematics classrooms learn more, enjoy mathematics more, and achieve higher understanding than in streamed settings",
+"description":"A practice-framework article reports, citing Boaler and Staples (2008), that students in heterogeneous mathematics classrooms learn more, enjoy mathematics more and reach higher understanding than in streamed settings",
 "evidence_strength":"weak",
 "id":"heterogeneous-mathematics-classrooms-benefit-students",
 "path":"claims/heterogeneous-mathematics-classrooms-benefit-students.md",
 "status":"draft",
-"title":"Students in heterogeneous mathematics classrooms learn more, enjoy mathematics more, and achieve higher understanding than in streamed settings",
+"title":"A practice-framework article reports, citing Boaler and Staples (2008), that students in heterogeneous mathematics classrooms learn more, enjoy mathematics more and reach higher understanding than in streamed settings",
 "type":"claim"
 },
 {
@@ -67468,15 +67375,6 @@
 "path":"claims/heterogeneous-scaffolds-sct-framework.md",
 "status":"draft",
 "title":"Within sociocultural theory, teacher feedback and AI-assisted peer feedback function as heterogeneous scaffolds with distinct natures and complementary advantages",
-"type":"claim"
-},
-{
-"description":"Above-norm students in heterogeneous classrooms with supported below-norm classmates gained .4 additional test score points post-policy",
-"evidence_strength":"moderate",
-"id":"heterogeneous-support-benefits-above-norm",
-"path":"claims/heterogeneous-support-benefits-above-norm.md",
-"status":"draft",
-"title":"Above-norm students in heterogeneous classrooms with supported below-norm classmates gained .4 additional test score points post-policy",
 "type":"claim"
 },
 {
@@ -67775,15 +67673,6 @@
 "path":"claims/high-inconsistency-scenario-raises-both-appraisals.md",
 "status":"draft",
 "title":"Art students in a high-inconsistency scenario report stronger challenge and hindrance appraisals than those in a low-inconsistency scenario",
-"type":"claim"
-},
-{
-"description":"High-information feedback has a very large effect (d = 0.99) while reinforcement/punishment has a low effect (d = 0.24)",
-"evidence_strength":"moderate",
-"id":"high-information-feedback-d099-versus-reinforcement-d024",
-"path":"claims/high-information-feedback-d099-versus-reinforcement-d024.md",
-"status":"draft",
-"title":"High-information feedback has a very large effect (d = 0.99) while reinforcement/punishment has a low effect (d = 0.24)",
 "type":"claim"
 },
 {
@@ -69752,12 +69641,12 @@
 "type":"claim"
 },
 {
-"description":"Human-AI tutoring increases IXL skill proficiency by 36%, but the proficiency gap widens in favor of reactively tutored students",
+"description":"Human-AI tutoring is associated with a 36% rise in IXL skill proficiency, but the gap widened in favor of reactively tutored students (difference-in-differences preprint)",
 "evidence_strength":"mixed",
 "id":"human-ai-tutoring-skill-proficiency-gap-widens",
 "path":"claims/human-ai-tutoring-skill-proficiency-gap-widens.md",
 "status":"draft",
-"title":"Human-AI tutoring increases IXL skill proficiency by 36%, but the proficiency gap widens in favor of reactively tutored students",
+"title":"Human-AI tutoring is associated with a 36% rise in IXL skill proficiency, but the gap widened in favor of reactively tutored students (difference-in-differences preprint)",
 "type":"claim"
 },
 {
@@ -73408,6 +73297,7 @@
 "type":"claim"
 },
 {
+"aliases":["furtak-metaanalysis-37-studies-inquiry-positive"],
 "description":"",
 "evidence_strength":"moderate",
 "id":"inquiry-based-teaching-improves-science-achievement",
@@ -73858,12 +73748,12 @@
 "type":"claim"
 },
 {
-"description":"Instruction shows little or no effect on route of L2 acquisition, indicating powerlessness to influence underlying linguistic competence",
+"description":"A 1999 conference paper reports, citing Ellis and LaPorte (1997), that instruction has little or no effect on the route of L2 acquisition",
 "evidence_strength":"moderate",
 "id":"instruction-little-effect-on-route-of-acquisition",
 "path":"claims/instruction-little-effect-on-route-of-acquisition.md",
 "status":"draft",
-"title":"Instruction shows little or no effect on route of L2 acquisition, indicating powerlessness to influence underlying linguistic competence",
+"title":"A 1999 conference paper reports, citing Ellis and LaPorte (1997), that instruction has little or no effect on the route of L2 acquisition",
 "type":"claim"
 },
 {
@@ -75754,7 +75644,7 @@
 "id":"intuitive-learners-outperform-sensing-learners",
 "path":"claims/intuitive-learners-outperform-sensing-learners.md",
 "status":"review",
-"title":"Intuitive learners tend to outperform sensing learners in media-based presentations",
+"title":"In one author's classroom media experiments, intuitive learners tended to score above sensing learners, though not in every format comparison",
 "type":"claim"
 },
 {
@@ -79662,12 +79552,12 @@
 "type":"claim"
 },
 {
-"description":"L2 learners never develop fully native-like skill: they read consistently slower and miss subtle anaphoric interpretation distinctions",
+"description":"A 2010 narrative review reports that even very advanced L2 learners read more slowly than native speakers and miss subtle anaphoric interpretation distinctions",
 "evidence_strength":"weak",
 "id":"l2-skill-never-fully-native-like",
 "path":"claims/l2-skill-never-fully-native-like.md",
 "status":"draft",
-"title":"L2 learners never develop fully native-like skill: they read consistently slower and miss subtle anaphoric interpretation distinctions",
+"title":"A 2010 narrative review reports that even very advanced L2 learners read more slowly than native speakers and miss subtle anaphoric interpretation distinctions",
 "type":"claim"
 },
 {
@@ -79752,12 +79642,12 @@
 "type":"claim"
 },
 {
-"description":"Technology-supported learning gains depend on the technology being used within student-centered, active-engagement pedagogy",
+"description":"The authors of one physics-course study attribute its technology-supported gains to the student-centred, active-engagement pedagogy the technology was used within",
 "evidence_strength":"weak",
 "id":"lab-technology-gains-depend-on-active-engagement-pedagogy",
 "path":"claims/lab-technology-gains-depend-on-active-engagement-pedagogy.md",
 "status":"draft",
-"title":"Technology-supported learning gains depend on the technology being used within student-centered, active-engagement pedagogy",
+"title":"The authors of one physics-course study attribute its technology-supported gains to the student-centred, active-engagement pedagogy the technology was used within",
 "type":"claim"
 },
 {
@@ -81752,16 +81642,6 @@
 "type":"claim"
 },
 {
-"aliases":["ai-assistant-short-term-gains-harm-durable-learning"],
-"description":"AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)",
-"evidence_strength":"weak",
-"id":"learning-performance-paradox-ai",
-"path":"claims/learning-performance-paradox-ai.md",
-"status":"draft",
-"title":"AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)",
-"type":"claim"
-},
-{
 "description":"Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)",
 "evidence_strength":"weak",
 "id":"learning-rate-retention-tradeoff",
@@ -83546,12 +83426,12 @@
 "type":"claim"
 },
 {
-"description":"Delaying oral production and emphasizing aural comprehension in initial EFL instruction produces better results than intensive oral practice",
+"description":"A 2010 teacher guide reports, citing Postovsky (1974, 1975), that delaying oral production and emphasising aural comprehension early in EFL instruction gives better results than intensive oral practice",
 "evidence_strength":"weak",
 "id":"listening-first-outperforms-intensive-oral-practice",
 "path":"claims/listening-first-outperforms-intensive-oral-practice.md",
 "status":"draft",
-"title":"Delaying oral production and emphasizing aural comprehension in initial EFL instruction produces better results than intensive oral practice",
+"title":"A 2010 teacher guide reports, citing Postovsky (1974, 1975), that delaying oral production and emphasising aural comprehension early in EFL instruction gives better results than intensive oral practice",
 "type":"claim"
 },
 {
@@ -84667,12 +84547,12 @@
 "type":"claim"
 },
 {
-"description":"GPT-4.1 and Llama 4 Maverick achieve ICC reliability above 0.90 across all IELTS dimensions, while Gemini 2.5 Flash is moderate and Claude Sonnet 4 and DeepSeek R1 fall below 0.70 in most dimensions",
+"description":"In one study of repeated LLM scoring of 60 IELTS essays, Gemini 2.5 Flash was moderately reliable (ICC 0.63-0.75) while Claude Sonnet 4 and DeepSeek R1 stayed below 0.70 in most dimensions",
 "evidence_strength":"moderate",
 "id":"llm-essay-scoring-reliability-stratification",
 "path":"claims/llm-essay-scoring-reliability-stratification.md",
 "status":"draft",
-"title":"GPT-4.1 and Llama 4 Maverick achieve ICC reliability above 0.90 across all IELTS dimensions, while Gemini 2.5 Flash is moderate and Claude Sonnet 4 and DeepSeek R1 fall below 0.70 in most dimensions",
+"title":"In one study of repeated LLM scoring of 60 IELTS essays, Gemini 2.5 Flash was moderately reliable (ICC 0.63-0.75) while Claude Sonnet 4 and DeepSeek R1 stayed below 0.70 in most dimensions",
 "type":"claim"
 },
 {
@@ -85640,15 +85520,6 @@
 "type":"claim"
 },
 {
-"description":"AI tool use is negatively correlated with critical thinking, mediated by cognitive offloading and strongest in younger users (review attribution to Gerlich)",
-"evidence_strength":"weak",
-"id":"llm-substitution-negative-critical-thinking-correlation",
-"path":"claims/llm-substitution-negative-critical-thinking-correlation.md",
-"status":"draft",
-"title":"AI tool use is negatively correlated with critical thinking, mediated by cognitive offloading and strongest in younger users (review attribution to Gerlich)",
-"type":"claim"
-},
-{
 "description":"LLM-generated BREQ responses capture overall item-mean patterns but are more extreme and less variable than human responses",
 "evidence_strength":"moderate",
 "id":"llm-survey-responses-extreme-low-variability",
@@ -86378,12 +86249,12 @@
 "type":"claim"
 },
 {
-"description":"The authors' research indicates strong student interest in local Indigenous culture, which supports locally-based teaching of cultural knowledge",
+"description":"Staff at one university Indigenous centre report that many students, Indigenous and non-Indigenous, show keen interest in local Indigenous culture and take part avidly when it is taught",
 "evidence_strength":"weak",
 "id":"local-indigenous-culture-student-interest",
 "path":"claims/local-indigenous-culture-student-interest.md",
 "status":"draft",
-"title":"The authors' research indicates strong student interest in local Indigenous culture, which supports locally-based teaching of cultural knowledge",
+"title":"Staff at one university Indigenous centre report that many students, Indigenous and non-Indigenous, show keen interest in local Indigenous culture and take part avidly when it is taught",
 "type":"claim"
 },
 {
@@ -90949,7 +90820,7 @@
 "id":"media-combinations-affect-recall-and-retention",
 "path":"claims/media-combinations-affect-recall-and-retention.md",
 "status":"review",
-"title":"Different media combinations significantly affect the recall and retention of information",
+"title":"In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts",
 "type":"claim"
 },
 {
@@ -91701,12 +91572,12 @@
 "type":"claim"
 },
 {
-"description":"Metacognitive feedback on learners' own LLM use reduces answer offloading and improves subsequent unaided test performance",
+"description":"In one preregistered experiment, metacognitive feedback on learners' own LLM use lowered the odds of answer offloading and raised the odds of a correct unaided answer on one-sided tests, with 95% intervals reaching no effect",
 "evidence_strength":"moderate",
 "id":"metacognitive-feedback-reduces-llm-answer-offloading-improves-unaided-performance",
 "path":"claims/metacognitive-feedback-reduces-llm-answer-offloading-improves-unaided-performance.md",
 "status":"draft",
-"title":"Metacognitive feedback on learners' own LLM use reduces answer offloading and improves subsequent unaided test performance",
+"title":"In one preregistered experiment, metacognitive feedback on learners' own LLM use lowered the odds of answer offloading and raised the odds of a correct unaided answer on one-sided tests, with 95% intervals reaching no effect",
 "type":"claim"
 },
 {
@@ -91898,12 +91769,12 @@
 "type":"claim"
 },
 {
-"description":"Method and prior achievement level interact on self-efficacy: medium-ability PTFC students show lower self-efficacy than their teammates' ratings suggest",
+"description":"In one flipped calculus study, teaching method (peer-teaching versus conventional flipped classroom) and prior achievement level interact on self-efficacy",
 "evidence_strength":"moderate",
 "id":"method-achievement-interaction-self-efficacy",
 "path":"claims/method-achievement-interaction-self-efficacy.md",
 "status":"draft",
-"title":"Method and prior achievement level interact on self-efficacy: medium-ability PTFC students show lower self-efficacy than their teammates' ratings suggest",
+"title":"In one flipped calculus study, teaching method (peer-teaching versus conventional flipped classroom) and prior achievement level interact on self-efficacy",
 "type":"claim"
 },
 {
@@ -93250,12 +93121,12 @@
 "type":"claim"
 },
 {
-"description":"A substantial share of students are misplaced by single placement tests, more often into developmental courses than the reverse",
+"description":"A 2016 WWC practice guide reports, citing Scott-Clayton (2012), that 24-33% of students were misplaced at matriculation, more often into developmental courses than the reverse",
 "evidence_strength":"weak",
 "id":"misplacement-rates-24-33-percent",
 "path":"claims/misplacement-rates-24-33-percent.md",
 "status":"draft",
-"title":"A substantial share of students are misplaced by single placement tests, more often into developmental courses than the reverse",
+"title":"A 2016 WWC practice guide reports, citing Scott-Clayton (2012), that 24-33% of students were misplaced at matriculation, more often into developmental courses than the reverse",
 "type":"claim"
 },
 {
@@ -93975,7 +93846,7 @@
 "id":"modality-effect-holds-middle-school-electricity",
 "path":"claims/modality-effect-holds-middle-school-electricity.md",
 "status":"draft",
-"title":"The modality effect holds for middle school students learning electricity with multimedia animation in real school settings: spoken-text groups significantly outperform written-text groups with both abstract and concrete animation",
+"title":"In one middle-school quasi-experiment on electricity, spoken-text groups outperform written-text groups with both abstract and concrete animation (d = .35)",
 "type":"claim"
 },
 {
@@ -94868,7 +94739,7 @@
 "id":"morphological-instruction-improves-literacy",
 "path":"claims/morphological-instruction-improves-literacy.md",
 "status":"draft",
-"title":"Morphological Instruction Improves Literacy",
+"title":"Morphological instruction improves word-level literacy outcomes (decoding, spelling, vocabulary, morphological knowledge) but shows no reliable effect on reading comprehension",
 "type":"claim"
 },
 {
@@ -95844,12 +95715,12 @@
 "type":"claim"
 },
 {
-"description":"Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally",
+"description":"A practice article reports that the studies it cites found better post-test outcomes from words with relevant pictures than from words alone, especially with spoken words",
 "evidence_strength":"weak",
 "id":"multimedia-principle-words-and-pictures-outcomes",
 "path":"claims/multimedia-principle-words-and-pictures-outcomes.md",
 "status":"draft",
-"title":"Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally",
+"title":"A practice article reports that the studies it cites found better post-test outcomes from words with relevant pictures than from words alone, especially with spoken words",
 "type":"claim"
 },
 {
@@ -99097,12 +98968,12 @@
 "type":"claim"
 },
 {
-"description":"No research evidence suggests older adults cannot succeed in learning another language, though adults need more deliberate learning effort than children",
+"description":"A practitioner digest asserts, without cited studies, that no research evidence suggests older adults cannot succeed in learning another language",
 "evidence_strength":"weak",
 "id":"no-evidence-older-adults-cannot-learn-language",
 "path":"claims/no-evidence-older-adults-cannot-learn-language.md",
 "status":"draft",
-"title":"No research evidence suggests older adults cannot succeed in learning another language, though adults need more deliberate learning effort than children",
+"title":"A practitioner digest asserts, without cited studies, that no research evidence suggests older adults cannot succeed in learning another language",
 "type":"claim"
 },
 {
@@ -100672,12 +100543,12 @@
 "type":"claim"
 },
 {
-"description":"Identifying a stage of student learning does not necessarily mean teachers can identify next instructional steps",
+"description":"A practitioner brief, citing Heritage (2009), reports that teachers who can identify a stage of student learning cannot necessarily identify the next instructional steps",
 "evidence_strength":"weak",
 "id":"noticing-not-enough-next-steps",
 "path":"claims/noticing-not-enough-next-steps.md",
 "status":"draft",
-"title":"Identifying a stage of student learning does not necessarily mean teachers can identify next instructional steps",
+"title":"A practitioner brief, citing Heritage (2009), reports that teachers who can identify a stage of student learning cannot necessarily identify the next instructional steps",
 "type":"claim"
 },
 {
@@ -101645,12 +101516,12 @@
 "type":"claim"
 },
 {
-"description":"Student off-task behavior declined markedly in trained teachers' classrooms, with adjusted post means differing significantly beyond the .001 level",
+"description":"Student off-task behavior is lower in trained teachers' classrooms than in control classrooms after adjusting for baseline off-task rates",
 "evidence_strength":"moderate",
 "id":"off-task-behavior-declines-after-training",
 "path":"claims/off-task-behavior-declines-after-training.md",
 "status":"draft",
-"title":"Student off-task behavior declined markedly in trained teachers' classrooms, with adjusted post means differing significantly beyond the .001 level",
+"title":"Student off-task behavior is lower in trained teachers' classrooms than in control classrooms after adjusting for baseline off-task rates",
 "type":"claim"
 },
 {
@@ -101879,12 +101750,12 @@
 "type":"claim"
 },
 {
-"description":"Students in the author's older-beginner Step One class made measured gains, including an average 128-point BEST Plus gain over 6 months and two former absolute beginners passing the citizenship test",
+"description":"In one practitioner's report on her own older-beginner Step One class, with no comparison group, students gained an average of 128 BEST Plus points over 6 months and two former absolute beginners passed the citizenship test",
 "evidence_strength":"weak",
 "id":"older-beginner-esl-outcome-gains",
 "path":"claims/older-beginner-esl-outcome-gains.md",
 "status":"draft",
-"title":"Students in the author's older-beginner Step One class made measured gains, including an average 128-point BEST Plus gain over 6 months and two former absolute beginners passing the citizenship test",
+"title":"In one practitioner's report on her own older-beginner Step One class, with no comparison group, students gained an average of 128 BEST Plus points over 6 months and two former absolute beginners passed the citizenship test",
 "type":"claim"
 },
 {
@@ -103573,12 +103444,12 @@
 "type":"claim"
 },
 {
-"description":"Oral language competence predicts subsequent reading achievement",
+"description":"A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement",
 "evidence_strength":"weak",
 "id":"oral-language-predicts-reading-achievement",
 "path":"claims/oral-language-predicts-reading-achievement.md",
 "status":"draft",
-"title":"Oral language competence predicts subsequent reading achievement",
+"title":"A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement",
 "type":"claim"
 },
 {
@@ -104744,15 +104615,6 @@
 "type":"claim"
 },
 {
-"description":"The average improvement index for PALS on reading achievement for English language learners is +12 percentile points, ranging from +5 to +25 across findings",
-"evidence_strength":"moderate",
-"id":"pals-improvement-index-reading-12-percentile",
-"path":"claims/pals-improvement-index-reading-12-percentile.md",
-"status":"draft",
-"title":"The average improvement index for PALS on reading achievement for English language learners is +12 percentile points, ranging from +5 to +25 across findings",
-"type":"claim"
-},
-{
 "description":"K-PALS shows statistically significant positive effects on Rapid Letter Sounds for kindergarten students in all three training-support conditions",
 "evidence_strength":"strong",
 "id":"pals-k-pals-significant-rapid-letter-sound-gains",
@@ -104789,12 +104651,12 @@
 "type":"claim"
 },
 {
-"description":"PALS shows potentially positive effects on reading comprehension for adolescent learners, with a WWC-calculated effect size of 0.48 that is not statistically significant when adjusted for clustering",
+"description":"The WWC Adolescent Literacy review rates PALS as having potentially positive effects on reading comprehension from one trial of students averaging 9.8 years old, with an effect size of 0.48 that is not statistically significant when adjusted for clustering",
 "evidence_strength":"moderate",
 "id":"pals-potentially-positive-comprehension-effect-adolescent",
 "path":"claims/pals-potentially-positive-comprehension-effect-adolescent.md",
 "status":"draft",
-"title":"PALS shows potentially positive effects on reading comprehension for adolescent learners, with a WWC-calculated effect size of 0.48 that is not statistically significant when adjusted for clustering",
+"title":"The WWC Adolescent Literacy review rates PALS as having potentially positive effects on reading comprehension from one trial of students averaging 9.8 years old, with an effect size of 0.48 that is not statistically significant when adjusted for clustering",
 "type":"claim"
 },
 {
@@ -104807,6 +104669,7 @@
 "type":"claim"
 },
 {
+"aliases":["pals-improvement-index-reading-12-percentile"],
 "description":"PALS has potentially positive effects on reading achievement for English language learners, with a combined effect size of 0.31 but no statistically significant effects on individual measures",
 "evidence_strength":"moderate",
 "id":"pals-potentially-positive-reading-effects-ells",
@@ -104816,12 +104679,12 @@
 "type":"claim"
 },
 {
-"description":"PALS shows potentially positive effects on reading fluency for students with learning disabilities (average effect size 0.36, not statistically significant)",
+"description":"PALS shows potentially positive effects on reading fluency for students with learning disabilities, with a substantively important but not statistically significant WWC-calculated effect size of 0.41 in Saenz et al. (2005)",
 "evidence_strength":"moderate",
 "id":"pals-potentially-positive-reading-fluency-ld",
 "path":"claims/pals-potentially-positive-reading-fluency-ld.md",
 "status":"draft",
-"title":"PALS shows potentially positive effects on reading fluency for students with learning disabilities (average effect size 0.36, not statistically significant)",
+"title":"PALS shows potentially positive effects on reading fluency for students with learning disabilities, with a substantively important but not statistically significant WWC-calculated effect size of 0.41 in Saenz et al. (2005)",
 "type":"claim"
 },
 {
@@ -106684,12 +106547,12 @@
 "type":"claim"
 },
 {
-"description":"Teachers receiving 11 or more hours of training on integrating digital content report roughly double the reliance on software and the Internet compared with untrained teachers",
+"description":"Teachers receiving 11 or more hours of training on integrating digital content report almost double the reliance on software and the Internet compared with untrained teachers",
 "evidence_strength":"weak",
 "id":"pd-integration-training-doubles-reliance",
 "path":"claims/pd-integration-training-doubles-reliance.md",
 "status":"draft",
-"title":"Teachers receiving 11 or more hours of training on integrating digital content report roughly double the reliance on software and the Internet compared with untrained teachers",
+"title":"Teachers receiving 11 or more hours of training on integrating digital content report almost double the reliance on software and the Internet compared with untrained teachers",
 "type":"claim"
 },
 {
@@ -106990,12 +106853,12 @@
 "type":"claim"
 },
 {
-"description":"Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction",
+"description":"A descriptive report defines peer assisted learning and asserts, without a tested result, that it promotes knowledge construction, collaboration ability and interpersonal interaction",
 "evidence_strength":"weak",
 "id":"peer-assisted-learning-improves-learning-outcomes",
 "path":"claims/peer-assisted-learning-improves-learning-outcomes.md",
 "status":"draft",
-"title":"Peer assisted learning is an effective learning approach that promotes knowledge construction, collaboration ability, and interpersonal interaction",
+"title":"A descriptive report defines peer assisted learning and asserts, without a tested result, that it promotes knowledge construction, collaboration ability and interpersonal interaction",
 "type":"claim"
 },
 {
@@ -107230,15 +107093,6 @@
 "path":"claims/peer-sensitivity-moderates-norm-emergence-speed.md",
 "status":"draft",
 "title":"In simulations, peer sensitivity (β) moderates how rapidly responsible AI-use norms emerge: strong peer sensitivity yields a sharp tipping-point transition, while weak peer sensitivity yields only gradual, marginal increases",
-"type":"claim"
-},
-{
-"description":"Classroom peer skill levels explain about 20% of post-policy test score improvements among above-norm algebra students in Chicago",
-"evidence_strength":"moderate",
-"id":"peer-skill-explains-above-norm-test-gains",
-"path":"claims/peer-skill-explains-above-norm-test-gains.md",
-"status":"draft",
-"title":"Classroom peer skill levels explain about 20% of post-policy test score improvements among above-norm algebra students in Chicago",
 "type":"claim"
 },
 {
@@ -109882,12 +109736,13 @@
 "type":"claim"
 },
 {
+"aliases":["guided-play-improves-academic-outcomes"],
 "description":"",
 "evidence_strength":"weak-to-moderate",
 "id":"play-based-learning-improves-outcomes",
 "path":"claims/play-based-learning-improves-outcomes.md",
 "status":"draft",
-"title":"Play Based Learning Improves Outcomes",
+"title":"Guided play outperforms direct instruction or free play on a few early-childhood outcomes, with no reliable difference on most others, in one meta-analysis",
 "type":"claim"
 },
 {
@@ -116136,7 +115991,7 @@
 "type":"claim"
 },
 {
-"description":"Self-regulated vs.",
+"description":"Self-regulated vs. externally regulated prompt presentation shows no significant effect on posttest performance and no interaction with prompt format",
 "evidence_strength":"moderate",
 "id":"prompt-presentation-no-performance-effect",
 "path":"claims/prompt-presentation-no-performance-effect.md",
@@ -117216,6 +117071,7 @@
 "type":"claim"
 },
 {
+"aliases":["pthv-math-slight-gain-ela-no-difference"],
 "description":"Home visits improved standardized math scores (ES = +0.11) but showed no difference in ELA scores",
 "evidence_strength":"moderate",
 "id":"pthv-home-visit-math-gain-no-ela-difference",
@@ -117242,15 +117098,6 @@
 "path":"claims/pthv-home-visits-improve-attendance-slightly.md",
 "status":"draft",
 "title":"Teacher home visits slightly improved student attendance in the following school year (ES = +0.02)",
-"type":"claim"
-},
-{
-"description":"Home visits showed slight improvements in math scores but no difference in ELA scores",
-"evidence_strength":"weak",
-"id":"pthv-math-slight-gain-ela-no-difference",
-"path":"claims/pthv-math-slight-gain-ela-no-difference.md",
-"status":"draft",
-"title":"Home visits showed slight improvements in math scores but no difference in ELA scores",
 "type":"claim"
 },
 {
@@ -120821,12 +120668,12 @@
 "type":"claim"
 },
 {
-"description":"Recasts facilitate child EFL learners' acquisition of the third person singular -s verb form in task-based lessons",
+"description":"Child EFL learners receiving recasts in task-based lessons improve their production of third person singular -s from pretest to posttest, in a study with no no-recast comparison group",
 "evidence_strength":"moderate",
 "id":"recasts-facilitate-child-efl-third-person-s-development",
 "path":"claims/recasts-facilitate-child-efl-third-person-s-development.md",
 "status":"draft",
-"title":"Recasts facilitate child EFL learners' acquisition of the third person singular -s verb form in task-based lessons",
+"title":"Child EFL learners receiving recasts in task-based lessons improve their production of third person singular -s from pretest to posttest, in a study with no no-recast comparison group",
 "type":"claim"
 },
 {
@@ -121379,12 +121226,12 @@
 "type":"claim"
 },
 {
-"description":"Trainees consistently wanted more debriefing time than scheduled, and structured reflection connecting exercise data to actionable outputs is where deeper learning happens.",
+"description":"In one design report on 25 cybersecurity tabletop exercises, the authors observed that trainees consistently wanted more debriefing time than the schedule allowed",
 "evidence_strength":"weak",
 "id":"reflection-debriefing-time-underscheduled",
 "path":"claims/reflection-debriefing-time-underscheduled.md",
 "status":"draft",
-"title":"Trainees consistently wanted more debriefing time than scheduled, and structured reflection connecting exercise data to actionable outputs is where deeper learning happens.",
+"title":"In one design report on 25 cybersecurity tabletop exercises, the authors observed that trainees consistently wanted more debriefing time than the schedule allowed",
 "type":"claim"
 },
 {
@@ -121658,6 +121505,7 @@
 "type":"claim"
 },
 {
+"aliases":["building-capacity-critical-for-reform"],
 "description":"Educational reform's progress depends on teachers' individual and collective capacity and its link with school-wide capacity for promoting pupils' learning",
 "evidence_strength":"weak",
 "id":"reform-progress-depends-on-teacher-and-school-capacity",
@@ -122126,12 +121974,12 @@
 "type":"claim"
 },
 {
-"description":"Relative-age effects, not innate talent, bias selection into elite youth sports",
+"description":"A review reports that relative-age effects tied to cohort cutoff dates bias selection into elite youth soccer and hockey",
 "evidence_strength":"moderate",
 "id":"relative-age-effect-talent-selection-bias",
 "path":"claims/relative-age-effect-talent-selection-bias.md",
 "status":"draft",
-"title":"Relative-age effects, not innate talent, bias selection into elite youth sports",
+"title":"A review reports that relative-age effects tied to cohort cutoff dates bias selection into elite youth soccer and hockey",
 "type":"claim"
 },
 {
@@ -123353,22 +123201,13 @@
 "type":"claim"
 },
 {
-"aliases":["response-styles-affect-growth-estimates-sel"],
+"aliases":["response-styles-affect-growth-estimates-sel","response-styles-affect-growth-parameter-estimates"],
 "description":"The effect of response styles on growth estimates varies by psychological construct, response style, and IRT model used",
 "evidence_strength":"moderate",
 "id":"response-style-growth-effects-vary-by-construct-and-model",
 "path":"claims/response-style-growth-effects-vary-by-construct-and-model.md",
 "status":"draft",
 "title":"The effect of response styles on growth estimates varies by psychological construct, response style, and IRT model used",
-"type":"claim"
-},
-{
-"description":"Response styles can affect estimates of growth parameters, including the slope, on social-emotional survey constructs",
-"evidence_strength":"moderate",
-"id":"response-styles-affect-growth-parameter-estimates",
-"path":"claims/response-styles-affect-growth-parameter-estimates.md",
-"status":"draft",
-"title":"Response styles can affect estimates of growth parameters, including the slope, on social-emotional survey constructs",
 "type":"claim"
 },
 {
@@ -123976,12 +123815,12 @@
 "type":"claim"
 },
 {
-"description":"Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects",
+"description":"A review reports that retrieval practice effects grow more robust as initial retrieval success rises, especially above 75%, and separately that giving more retrieval cues yields smaller effects",
 "evidence_strength":"moderate",
 "id":"retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent",
 "path":"claims/retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md",
 "status":"draft",
-"title":"Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects",
+"title":"A review reports that retrieval practice effects grow more robust as initial retrieval success rises, especially above 75%, and separately that giving more retrieval cues yields smaller effects",
 "type":"claim"
 },
 {
@@ -124030,7 +123869,7 @@
 "type":"claim"
 },
 {
-"aliases":["retrieval-practice-enhances-long-term-retention","retrieval-practice-improves-learning","testing-effect-improves-learning","testing-effect-improves-retention","testing-effect-retrieval-practice-improves-retention","testing-improves-retention","retrieval-practice-improves-long-term-retention"],
+"aliases":["retrieval-practice-enhances-long-term-retention","retrieval-practice-improves-learning","testing-effect-improves-learning","testing-effect-improves-retention","testing-effect-retrieval-practice-improves-retention","testing-improves-retention","retrieval-practice-improves-long-term-retention","retrieval-practice-outperforms-repeated-study-rowland-meta-analysis"],
 "description":"",
 "evidence_strength":"strong",
 "id":"retrieval-practice-improves-retention",
@@ -124055,15 +123894,6 @@
 "path":"claims/retrieval-practice-lower-order-questions-outscore-higher-order-questions.md",
 "status":"draft",
 "title":"After retrieval practice, undergraduates score significantly higher on lower-order thinking questions than on higher-order thinking questions about a studied passage",
-"type":"claim"
-},
-{
-"description":"Retrieval practice enhances retention relative to repeated study, with an overall effect of g = 0.50 across 159 studies in Rowland's (2014) meta-analysis",
-"evidence_strength":"strong",
-"id":"retrieval-practice-outperforms-repeated-study-rowland-meta-analysis",
-"path":"claims/retrieval-practice-outperforms-repeated-study-rowland-meta-analysis.md",
-"status":"draft",
-"title":"Retrieval practice enhances retention relative to repeated study, with an overall effect of g = 0.50 across 159 studies in Rowland's (2014) meta-analysis",
 "type":"claim"
 },
 {
@@ -124139,12 +123969,12 @@
 "type":"claim"
 },
 {
-"description":"Reverse transfer from literacy to oral skills is unsupported by research",
+"description":"The author of a 1997 conference paper reports finding no research supporting reverse transfer of skills from literacy to oral language",
 "evidence_strength":"weak",
 "id":"reverse-transfer-literacy-to-oral-unsupported",
 "path":"claims/reverse-transfer-literacy-to-oral-unsupported.md",
 "status":"draft",
-"title":"Reverse transfer from literacy to oral skills is unsupported by research",
+"title":"The author of a 1997 conference paper reports finding no research supporting reverse transfer of skills from literacy to oral language",
 "type":"claim"
 },
 {
@@ -124247,12 +124077,12 @@
 "type":"claim"
 },
 {
-"description":"Revisions to math-relevant visuals affect cognitive load differently by prior knowledge group, including reduced load for high prior knowledge students",
+"description":"In one eye-tracking experiment, revising math-relevant visuals changes fixation length on them differently by prior knowledge group, with shorter fixations under the revised visuals for low prior knowledge students",
 "evidence_strength":"moderate",
 "id":"revised-visuals-cognitive-load-math-visuals-interaction",
 "path":"claims/revised-visuals-cognitive-load-math-visuals-interaction.md",
 "status":"draft",
-"title":"Revisions to math-relevant visuals affect cognitive load differently by prior knowledge group, including reduced load for high prior knowledge students",
+"title":"In one eye-tracking experiment, revising math-relevant visuals changes fixation length on them differently by prior knowledge group, with shorter fixations under the revised visuals for low prior knowledge students",
 "type":"claim"
 },
 {
@@ -124949,12 +124779,12 @@
 "type":"claim"
 },
 {
-"description":"A reinforcement-learning adaptive learning system improved course grades by 12%, engagement by 20%, and reduced dropout by 10% versus static curricula",
+"description":"A technical review reports that one reinforcement-learning adaptive platform raised average course grades by 12%, task completion by 20% and cut dropout by 10% against static curricula (uncontrolled case report)",
 "evidence_strength":"moderate",
 "id":"rl-adaptive-system-grade-engagement-gains",
 "path":"claims/rl-adaptive-system-grade-engagement-gains.md",
 "status":"draft",
-"title":"A reinforcement-learning adaptive learning system improved course grades by 12%, engagement by 20%, and reduced dropout by 10% versus static curricula",
+"title":"A technical review reports that one reinforcement-learning adaptive platform raised average course grades by 12%, task completion by 20% and cut dropout by 10% against static curricula (uncontrolled case report)",
 "type":"claim"
 },
 {
@@ -124994,12 +124824,12 @@
 "type":"claim"
 },
 {
-"description":"RL policies risk three failure modes when reward signals are poorly specified: reward hacking, engagement optimization over learning, and scaffolding dependency",
+"description":"An analytical chapter identifies reward hacking, engagement optimization over learning, and scaffolding dependency as risks of RL policies with poorly specified rewards",
 "evidence_strength":"weak",
 "id":"rl-reward-misalignment-failure-modes",
 "path":"claims/rl-reward-misalignment-failure-modes.md",
 "status":"draft",
-"title":"RL policies risk three failure modes when reward signals are poorly specified: reward hacking, engagement optimization over learning, and scaffolding dependency",
+"title":"An analytical chapter identifies reward hacking, engagement optimization over learning, and scaffolding dependency as risks of RL policies with poorly specified rewards",
 "type":"claim"
 },
 {
@@ -126272,12 +126102,12 @@
 "type":"claim"
 },
 {
-"description":"Individual internet penetration in rural Bangladesh stands at 36.5% versus 71.4% in urban areas, rendering cloud-dependent AI tools functionally inaccessible to rural learners",
+"description":"Individual internet penetration in rural Bangladesh (36.5%) is about half the urban rate (71.4%), which one case-study preprint argues puts cloud-dependent AI tools out of reach for rural learners",
 "evidence_strength":"moderate",
 "id":"rural-urban-connectivity-exclusion-bangladesh",
 "path":"claims/rural-urban-connectivity-exclusion-bangladesh.md",
 "status":"draft",
-"title":"Individual internet penetration in rural Bangladesh stands at 36.5% versus 71.4% in urban areas, rendering cloud-dependent AI tools functionally inaccessible to rural learners",
+"title":"Individual internet penetration in rural Bangladesh (36.5%) is about half the urban rate (71.4%), which one case-study preprint argues puts cloud-dependent AI tools out of reach for rural learners",
 "type":"claim"
 },
 {
@@ -127728,15 +127558,6 @@
 "path":"claims/school-effect-null-ecology-puppetry-ancova.md",
 "status":"draft",
 "title":"School (A, B, C) showed no statistically significant effect on post-test applied conceptual understanding in the ANCOVA model",
-"type":"claim"
-},
-{
-"description":"The early academic advantage of entering school older may fade in later grades, per a multi-state regression discontinuity analysis through second grade",
-"evidence_strength":"moderate",
-"id":"school-entry-age-early-advantage-fades-by-later-grades",
-"path":"claims/school-entry-age-early-advantage-fades-by-later-grades.md",
-"status":"draft",
-"title":"The early academic advantage of entering school older may fade in later grades, per a multi-state regression discontinuity analysis through second grade",
 "type":"claim"
 },
 {
@@ -130708,21 +130529,21 @@
 "type":"claim"
 },
 {
-"description":"Self-generated elaboration improves intellectual skills more than instructor-assisted elaboration, but not more than the combined strategy",
+"description":"In one accounting classroom experiment, self-generated elaboration scored marginally above instructor-assisted elaboration on intellectual skills (p = .06, omnibus test not significant) and no higher than a combined strategy",
 "evidence_strength":"moderate",
 "id":"self-generated-elaboration-improves-intellectual-skills",
 "path":"claims/self-generated-elaboration-improves-intellectual-skills.md",
 "status":"draft",
-"title":"Self-generated elaboration improves intellectual skills more than instructor-assisted elaboration, but not more than the combined strategy",
+"title":"In one accounting classroom experiment, self-generated elaboration scored marginally above instructor-assisted elaboration on intellectual skills (p = .06, omnibus test not significant) and no higher than a combined strategy",
 "type":"claim"
 },
 {
-"description":"Self-generated elaboration improves procedural knowledge more than instructor-assisted elaboration in introductory accounting",
+"description":"In one introductory accounting experiment, self-generated elaboration scored above instructor-assisted elaboration on procedural knowledge at the p = .05 boundary, and not significantly above a combined strategy",
 "evidence_strength":"moderate",
 "id":"self-generated-elaboration-improves-procedural-knowledge-accounting",
 "path":"claims/self-generated-elaboration-improves-procedural-knowledge-accounting.md",
 "status":"draft",
-"title":"Self-generated elaboration improves procedural knowledge more than instructor-assisted elaboration in introductory accounting",
+"title":"In one introductory accounting experiment, self-generated elaboration scored above instructor-assisted elaboration on procedural knowledge at the p = .05 boundary, and not significantly above a combined strategy",
 "type":"claim"
 },
 {
@@ -130812,7 +130633,7 @@
 "id":"self-monitoring-improves-self-regulation",
 "path":"claims/self-monitoring-improves-self-regulation.md",
 "status":"review",
-"title":"Self-monitoring improves self-regulation and supports better learning decisions.",
+"title":"Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy",
 "type":"claim"
 },
 {
@@ -133041,12 +132862,12 @@
 "type":"claim"
 },
 {
-"description":"Supplementing simulation-based inquiry with learner guidance modestly improves learning outcomes and inquiry skills, with age and domain moderating the effect (review attribution to D'Angelo et al., 2014)",
+"description":"Supplementing simulation-based inquiry with learner guidance has a modest effect on learning outcomes (d = 0.49) and inquiry skills (d = 0.41), independent of guidance type (review attribution to D'Angelo et al., 2014)",
 "evidence_strength":"weak",
 "id":"simulation-guidance-moderate-effect-dangelo",
 "path":"claims/simulation-guidance-moderate-effect-dangelo.md",
 "status":"draft",
-"title":"Supplementing simulation-based inquiry with learner guidance modestly improves learning outcomes and inquiry skills, with age and domain moderating the effect (review attribution to D'Angelo et al., 2014)",
+"title":"Supplementing simulation-based inquiry with learner guidance has a modest effect on learning outcomes (d = 0.49) and inquiry skills (d = 0.41), independent of guidance type (review attribution to D'Angelo et al., 2014)",
 "type":"claim"
 },
 {
@@ -135446,6 +135267,7 @@
 "type":"claim"
 },
 {
+"aliases":["spaced-retrieval-practice-improves-financial-knowledge-retention"],
 "description":"Spaced retrieval practice outperformed both massed retrieval practice and no-practice control on delayed financial knowledge, while massed and control did not differ",
 "evidence_strength":"moderate",
 "id":"spaced-beats-massed-and-control-financial-knowledge",
@@ -135464,12 +135286,12 @@
 "type":"claim"
 },
 {
-"description":"The spaced-practice knowledge benefit reflects deeper learning or transfer rather than memorization of repeated items",
+"description":"The authors attribute the spaced-practice knowledge benefit to deeper learning or transfer, because quiz and final-test items were never repeated",
 "evidence_strength":"moderate",
 "id":"spaced-practice-benefit-reflects-transfer-not-item-memorization",
 "path":"claims/spaced-practice-benefit-reflects-transfer-not-item-memorization.md",
 "status":"draft",
-"title":"The spaced-practice knowledge benefit reflects deeper learning or transfer rather than memorization of repeated items",
+"title":"The authors attribute the spaced-practice knowledge benefit to deeper learning or transfer, because quiz and final-test items were never repeated",
 "type":"claim"
 },
 {
@@ -135525,15 +135347,6 @@
 "path":"claims/spaced-retrieval-outperforms-restudy.md",
 "status":"draft",
 "title":"Spacing out retrieval practice produces better long-term retention than massing it",
-"type":"claim"
-},
-{
-"description":"Spaced retrieval practice after a financial education workshop improves knowledge retention about 5 months later relative to other practice conditions",
-"evidence_strength":"moderate",
-"id":"spaced-retrieval-practice-improves-financial-knowledge-retention",
-"path":"claims/spaced-retrieval-practice-improves-financial-knowledge-retention.md",
-"status":"draft",
-"title":"Spaced retrieval practice after a financial education workshop improves knowledge retention about 5 months later relative to other practice conditions",
 "type":"claim"
 },
 {
@@ -135834,12 +135647,12 @@
 "type":"claim"
 },
 {
-"description":"The benefit of spatially co-located AI guidance varies by task: it matters most when instructions and task share a unified spatial frame",
+"description":"The authors of one robot-projection study interpret co-located AI guidance as most useful when instructions and task share a spatial frame, as in drawing",
 "evidence_strength":"moderate",
 "id":"spatial-colocation-benefit-task-dependent",
 "path":"claims/spatial-colocation-benefit-task-dependent.md",
 "status":"draft",
-"title":"The benefit of spatially co-located AI guidance varies by task: it matters most when instructions and task share a unified spatial frame",
+"title":"The authors of one robot-projection study interpret co-located AI guidance as most useful when instructions and task share a spatial frame, as in drawing",
 "type":"claim"
 },
 {
@@ -136095,6 +135908,7 @@
 "type":"claim"
 },
 {
+"aliases":["clear-specific-challenging-goals-linked-to-task-performance"],
 "description":"",
 "evidence_strength":"strong",
 "id":"specific-difficult-goals-lead-to-higher-performance",
@@ -136515,7 +136329,7 @@
 "id":"spontaneous-sentence-production-in-synthetic-planning-increases-understanding",
 "path":"claims/spontaneous-sentence-production-in-synthetic-planning-increases-understanding.md",
 "status":"draft",
-"title":"Spontaneous sentence production under minimal planning increases writers' understanding but reduces initial text quality",
+"title":"In one keystroke-logging study, spontaneous sentence production under minimal planning is associated with gains in writers' self-rated understanding and with lower initial text quality",
 "type":"claim"
 },
 {
@@ -136888,12 +136702,12 @@
 "type":"claim"
 },
 {
-"description":"Self-regulated learning strategies (goal setting, environment structuring, time management) are the strategies most prominently associated with lower digital distraction among college students in online courses",
+"description":"In association-rule mining of survey data from 530 college students in online courses, goal setting, environment structuring and time management were the strategies most often associated with lower digital distraction",
 "evidence_strength":"moderate",
 "id":"srl-strategies-associated-lower-digital-distraction",
 "path":"claims/srl-strategies-associated-lower-digital-distraction.md",
 "status":"draft",
-"title":"Self-regulated learning strategies (goal setting, environment structuring, time management) are the strategies most prominently associated with lower digital distraction among college students in online courses",
+"title":"In association-rule mining of survey data from 530 college students in online courses, goal setting, environment structuring and time management were the strategies most often associated with lower digital distraction",
 "type":"claim"
 },
 {
@@ -139129,12 +138943,12 @@
 "type":"claim"
 },
 {
-"description":"Attainment (ability) grouping is generally reported to impact negatively on student learning outcomes",
+"description":"A narrative review reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested",
 "evidence_strength":"weak",
 "id":"streaming-impacts-negatively-on-learning-outcomes",
 "path":"claims/streaming-impacts-negatively-on-learning-outcomes.md",
 "status":"draft",
-"title":"Attainment (ability) grouping is generally reported to impact negatively on student learning outcomes",
+"title":"A narrative review reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested",
 "type":"claim"
 },
 {
@@ -139562,12 +139376,12 @@
 "type":"claim"
 },
 {
-"description":"ChatGPT improves programming learning outcomes when integrated through structured pedagogical frameworks and teacher facilitation",
+"description":"A 2026 text-mining review chapter reports that studies of ChatGPT in programming education find benefits where it is used with structured pedagogical guidance and teacher facilitation",
 "evidence_strength":"moderate",
 "id":"structured-chatgpt-integration-improves-programming-learning",
 "path":"claims/structured-chatgpt-integration-improves-programming-learning.md",
 "status":"draft",
-"title":"ChatGPT improves programming learning outcomes when integrated through structured pedagogical frameworks and teacher facilitation",
+"title":"A 2026 text-mining review chapter reports that studies of ChatGPT in programming education find benefits where it is used with structured pedagogical guidance and teacher facilitation",
 "type":"claim"
 },
 {
@@ -139607,12 +139421,12 @@
 "type":"claim"
 },
 {
-"description":"Structured input alone, without explicit information, is sufficient to cause changes in learner knowledge",
+"description":"A 2010 narrative review reports that processing-instruction studies show structured input without explicit information can change learner knowledge",
 "evidence_strength":"weak",
 "id":"structured-input-alone-sufficient-for-acquisition",
 "path":"claims/structured-input-alone-sufficient-for-acquisition.md",
 "status":"draft",
-"title":"Structured input alone, without explicit information, is sufficient to cause changes in learner knowledge",
+"title":"A 2010 narrative review reports that processing-instruction studies show structured input without explicit information can change learner knowledge",
 "type":"claim"
 },
 {
@@ -143830,21 +143644,21 @@
 "type":"claim"
 },
 {
-"description":"SWPBIS produced a small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)",
+"description":"SWPBIS produces a very small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)",
 "evidence_strength":"moderate",
 "id":"swpbis-improves-emotion-regulation",
 "path":"claims/swpbis-improves-emotion-regulation.md",
 "status":"draft",
-"title":"SWPBIS produced a small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)",
+"title":"SWPBIS produces a very small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)",
 "type":"claim"
 },
 {
-"description":"SWPBIS produced a small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)",
+"description":"SWPBIS produces a very small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)",
 "evidence_strength":"moderate",
 "id":"swpbis-improves-prosocial-behavior",
 "path":"claims/swpbis-improves-prosocial-behavior.md",
 "status":"draft",
-"title":"SWPBIS produced a small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)",
+"title":"SWPBIS produces a very small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)",
 "type":"claim"
 },
 {
@@ -143893,12 +143707,12 @@
 "type":"claim"
 },
 {
-"description":"SWPBIS produced a small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)",
+"description":"SWPBIS produces a very small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)",
 "evidence_strength":"moderate",
 "id":"swpbis-reduces-concentration-problems",
 "path":"claims/swpbis-reduces-concentration-problems.md",
 "status":"draft",
-"title":"SWPBIS produced a small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)",
+"title":"SWPBIS produces a very small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)",
 "type":"claim"
 },
 {
@@ -143911,12 +143725,12 @@
 "type":"claim"
 },
 {
-"description":"SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)",
+"description":"SWPBIS produces a very small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)",
 "evidence_strength":"moderate",
 "id":"swpbis-reduces-disruptive-behavior",
 "path":"claims/swpbis-reduces-disruptive-behavior.md",
 "status":"draft",
-"title":"SWPBIS produced a small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)",
+"title":"SWPBIS produces a very small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)",
 "type":"claim"
 },
 {
@@ -143947,12 +143761,12 @@
 "type":"claim"
 },
 {
-"description":"SWPBIS reduced office discipline referrals among at-risk and high-risk children relative to comparison-school peers",
+"description":"At-risk children in SWPBIS schools are slightly less likely to receive an office discipline referral than at-risk peers in comparison schools (41.3% vs 46.5%, d = -0.13)",
 "evidence_strength":"moderate",
 "id":"swpbis-reduces-odr-at-risk-high-risk",
 "path":"claims/swpbis-reduces-odr-at-risk-high-risk.md",
 "status":"draft",
-"title":"SWPBIS reduced office discipline referrals among at-risk and high-risk children relative to comparison-school peers",
+"title":"At-risk children in SWPBIS schools are slightly less likely to receive an office discipline referral than at-risk peers in comparison schools (41.3% vs 46.5%, d = -0.13)",
 "type":"claim"
 },
 {
@@ -144002,12 +143816,12 @@
 "type":"claim"
 },
 {
-"description":"After school-wide positive and restorative discipline training, Black-White and LGBTQ-strudent differences in perceived bullying converged at one majority-minority school",
+"description":"After school-wide positive and restorative discipline training, Black-White and LGBTQ-straight differences in perceived bullying converged at one majority-minority school",
 "evidence_strength":"weak",
 "id":"swprd-converged-bullying-perceptions",
 "path":"claims/swprd-converged-bullying-perceptions.md",
 "status":"draft",
-"title":"After school-wide positive and restorative discipline training, Black-White and LGBTQ-strudent differences in perceived bullying converged at one majority-minority school",
+"title":"After school-wide positive and restorative discipline training, Black-White and LGBTQ-straight differences in perceived bullying converged at one majority-minority school",
 "type":"claim"
 },
 {
@@ -144956,12 +144770,12 @@
 "type":"claim"
 },
 {
-"description":"TAPP strengthens teacher-reported family-school relationships in both trials, with parent-reported gains appearing in the rural trial",
+"description":"In a rural randomized trial, TAPP strengthens both teacher-reported and parent-reported family-school relationships",
 "evidence_strength":"moderate",
 "id":"tapp-strengthens-parent-teacher-relationships",
 "path":"claims/tapp-strengthens-parent-teacher-relationships.md",
 "status":"draft",
-"title":"TAPP strengthens teacher-reported family-school relationships in both trials, with parent-reported gains appearing in the rural trial",
+"title":"In a rural randomized trial, TAPP strengthens both teacher-reported and parent-reported family-school relationships",
 "type":"claim"
 },
 {
@@ -146388,12 +146202,12 @@
 "type":"claim"
 },
 {
-"description":"Internal drive from teachers, rather than top-down curriculum prescriptions, leads to the most successful change in educational practices",
+"description":"An article on narrative inquiry asserts, without data, that teachers' internal drive rather than top-down prescriptions leads to the most successful change in educational practice",
 "evidence_strength":"weak",
 "id":"teacher-internal-drive-successful-change",
 "path":"claims/teacher-internal-drive-successful-change.md",
 "status":"draft",
-"title":"Internal drive from teachers, rather than top-down curriculum prescriptions, leads to the most successful change in educational practices",
+"title":"An article on narrative inquiry asserts, without data, that teachers' internal drive rather than top-down prescriptions leads to the most successful change in educational practice",
 "type":"claim"
 },
 {
@@ -146793,15 +146607,6 @@
 "type":"claim"
 },
 {
-"description":"Positive teacher–student relationships are associated with higher student engagement and math achievement, with stronger associations for minority, lower-income, and secondary students",
-"evidence_strength":"moderate",
-"id":"teacher-relationships-associated-math-engagement-achievement",
-"path":"claims/teacher-relationships-associated-math-engagement-achievement.md",
-"status":"draft",
-"title":"Positive teacher–student relationships are associated with higher student engagement and math achievement, with stronger associations for minority, lower-income, and secondary students",
-"type":"claim"
-},
-{
 "description":"Displaced students in receiving schools with high student-teacher trust and teacher personal attention showed larger reading and math gains than those in low-support schools",
 "evidence_strength":"moderate",
 "id":"teacher-relationships-moderate-displaced-student-gains",
@@ -147045,7 +146850,7 @@
 "type":"claim"
 },
 {
-"aliases":["teacher-student-relationships-improve-engagement-and-achievement","learner-centered-teacher-student-relationships-are-effective"],
+"aliases":["teacher-student-relationships-improve-engagement-and-achievement","learner-centered-teacher-student-relationships-are-effective","teacher-relationships-associated-math-engagement-achievement"],
 "description":"",
 "id":"teacher-student-relationships-improve-engagement",
 "path":"claims/teacher-student-relationships-improve-engagement.md",
@@ -151658,12 +151463,12 @@
 },
 {
 "aliases":["low-fidelity-pbis-smaller-student-improvements"],
-"description":"Teacher fidelity (TKSS total score) shows a statistically significant interaction effect on pre-to-post changes in student problem behavior (F = 10.43, p = .003)",
+"description":"Teachers' PBIS knowledge and fidelity (TKSS score) interacts with pre-to-post change in problem behavior among students with emotional disturbance",
 "evidence_strength":"moderate",
 "id":"tkss-fidelity-ancova-interaction-problem-behavior",
 "path":"claims/tkss-fidelity-ancova-interaction-problem-behavior.md",
 "status":"draft",
-"title":"Teacher fidelity (TKSS total score) shows a statistically significant interaction effect on pre-to-post changes in student problem behavior (F = 10.43, p = .003)",
+"title":"Teachers' PBIS knowledge and fidelity (TKSS score) interacts with pre-to-post change in problem behavior among students with emotional disturbance",
 "type":"claim"
 },
 {
@@ -153777,12 +153582,12 @@
 "type":"claim"
 },
 {
-"description":"Thoughtless use of generative AI has a significant negative direct effect on undergraduates’ self-directed learning",
+"description":"Thoughtless use of generative AI is negatively associated with undergraduates' self-directed learning in a cross-sectional survey model (β = −0.42)",
 "evidence_strength":"moderate",
 "id":"tuga-negative-direct-effect-sdl",
 "path":"claims/tuga-negative-direct-effect-sdl.md",
 "status":"draft",
-"title":"Thoughtless use of generative AI has a significant negative direct effect on undergraduates’ self-directed learning",
+"title":"Thoughtless use of generative AI is negatively associated with undergraduates' self-directed learning in a cross-sectional survey model (β = −0.42)",
 "type":"claim"
 },
 {
@@ -155704,15 +155509,6 @@
 "path":"claims/unrestricted-chatbot-higher-learning-delta-than-socratic-and-adaptive.md",
 "status":"draft",
 "title":"In an immediate post-test design, participants with an unrestricted chatbot achieved significantly higher learning deltas than participants with a Socratic chatbot (d = 0.80) or an EEG-adaptive exercise system (d = 0.85)",
-"type":"claim"
-},
-{
-"description":"Unrestricted GPT-4 access improved practice performance but harmed later exam performance, and a guardrailed hint-based version mitigated the harm, as reported by the whitepaper citing Bastani et al.",
-"evidence_strength":"weak",
-"id":"unrestricted-gpt4-practice-gains-exam-decline-guardrail-mitigates",
-"path":"claims/unrestricted-gpt4-practice-gains-exam-decline-guardrail-mitigates.md",
-"status":"draft",
-"title":"Unrestricted GPT-4 access improved practice performance but harmed later exam performance, and a guardrailed hint-based version mitigated the harm, as reported by the whitepaper citing Bastani et al.",
 "type":"claim"
 },
 {
@@ -158938,12 +158734,12 @@
 "type":"claim"
 },
 {
-"description":"Explicit negative evidence failed to induce grammar reorganization in French learners of English adverb placement",
+"description":"A 1999 conference paper reports, citing White (1991) and Schwartz and Gubala-Ryzak (1992), that explicit negative evidence on English adverb placement produced only superficial change in French learners",
 "evidence_strength":"moderate",
 "id":"white-adverb-placement-negative-evidence-failed",
 "path":"claims/white-adverb-placement-negative-evidence-failed.md",
 "status":"draft",
-"title":"Explicit negative evidence failed to induce grammar reorganization in French learners of English adverb placement",
+"title":"A 1999 conference paper reports, citing White (1991) and Schwartz and Gubala-Ryzak (1992), that explicit negative evidence on English adverb placement produced only superficial change in French learners",
 "type":"claim"
 },
 {
@@ -159694,6 +159490,7 @@
 "type":"claim"
 },
 {
+"aliases":["example-problem-sequences-reduce-cognitive-load-and-improve-learning-outcomes","worked-examples-example-problem-sequences","example-problem-sequences-reduce-cognitive-load"],
 "description":"",
 "evidence_strength":"low",
 "id":"worked-example-problem-sequences",
@@ -176593,11 +176390,11 @@
 },
 {
 "canonical":true,
-"description":"Emergent curriculum builds instruction from students' own expressed interests as they arise, rather than from goals set in advance by curriculum writers or teachers, requiring continuous observation and flexible responsiveness in place of predetermined planning.",
+"description":"A reusable policy in which the teacher starts from a planned entry point, records what learners show sustained interest in, webs that interest to content worth learning (and to required standards), follows the thread with guided activity, and closes it on a product or shared account; expected to deepen engagement and self-directed inquiry, mainly with young children and with an adult guiding the activity, but no claim in this wiki tests it against a planned curriculum.",
 "grain_size":"lesson",
 "id":"emergent-curriculum",
 "path":"patterns/emergent-curriculum.md",
-"status":"draft",
+"status":"review",
 "title":"Emergent Curriculum",
 "type":"pattern"
 },
@@ -176905,7 +176702,7 @@
 },
 {
 "canonical":true,
-"description":"Learning-for-Use is a pattern for designing inquiry so that knowledge is learned in response to a meaningful need and then refined through application.",
+"description":"A reusable unit policy in which learners first meet a task that makes a concept necessary, build it through guided inquiry with explicit synthesis, then use it in a consequential task and revisit it later; no claim in this wiki tests the model as a whole, and its phases rest on neighbouring claims (problem-first teaching helps conceptual learning and transfer when instruction builds on the attempts, guided inquiry beats unguided discovery for novices).",
 "grain_size":"unit",
 "id":"learning-for-use-lfu-model",
 "path":"patterns/learning-for-use-lfu-model.md",
@@ -177079,7 +176876,7 @@
 },
 {
 "canonical":true,
-"description":"Peer teaching is the short-form canonical pattern for learners teaching concepts, processes, or interpretations to one another.",
+"description":"A reusable session routine in which paired learners who have studied the material take turns preparing and teaching it to a partner who must respond, correct errors with a scripted move, swap roles and are then checked alone; meta-analyses test peer tutoring and teaching against no tutoring or studying, WWC reviews of the scripted PALS routine find early-reading gains and small, often nonsignificant or null effects elsewhere, and no claim tests the doses, role swaps or hand-over points.",
 "grain_size":"lesson",
 "id":"peer-teaching",
 "path":"patterns/peer-teaching.md",
@@ -177105,7 +176902,7 @@
 },
 {
 "canonical":true,
-"description":"For a whole school, teaching three to five positively stated expectations in every setting, acknowledging them specifically, reviewing disaggregated discipline data monthly and adding daily small-group and then function-based individual support for students who do not respond is expected to reduce referrals and exclusions; one quasi-experimental claim compares PBIS schools with matched schools and found fewer out-of-school suspensions only where all three tiers ran with fidelity, and no claim here tests the universal tier alone against usual practice.",
+"description":"For a whole school, teaching three to five positively stated expectations in every setting, acknowledging them specifically, reviewing disaggregated discipline data monthly and adding daily small-group and then function-based individual support for students who do not respond is expected to reduce referrals and exclusions; one group-randomized trial in 37 Maryland elementary schools found fewer office referrals and small gains in teacher-rated behaviour, largest for children at risk at baseline, but no difference in out-of-school suspensions, and one quasi-experiment found fewer suspensions only where all three tiers ran with fidelity.",
 "grain_size":"program, school",
 "id":"positive-behavioral-interventions-and-supports",
 "path":"patterns/positive-behavioral-interventions-and-supports.md",
@@ -177173,11 +176970,11 @@
 },
 {
 "canonical":true,
-"description":"Reigeluth's response to problem-based instruction's weaknesses — learners work on an authentic project and \"freeze\" it whenever they hit a learning gap, moving into an individualized instructional space for targeted mastery practice before returning to apply the new skill.",
+"description":"A reusable policy in which learners work on an authentic project, pause it at a diagnosed gap in a component skill, practise that skill in a separate instructional space to an explicit criterion and then resume the project; expected to improve individual mastery and transfer where gaps can be diagnosed and instruction delivered, but no claim in this wiki tests the design as a whole.",
 "grain_size":"unit",
 "id":"project-and-instructional-space",
 "path":"patterns/project-and-instructional-space.md",
-"status":"draft",
+"status":"review",
 "title":"Project Space and Instructional Space",
 "type":"pattern"
 },
@@ -177626,10 +177423,10 @@
 },
 {
 "canonical":true,
-"description":"Effective bullying response requires recognizing the full set of participant roles (not just bully and victim), addressing the power imbalance and repetition that define bullying, and treating cyberbullying as a distinct problem requiring its own detection and response strategies.",
+"description":"For school-age learners, a schoolwide plan kept for two or more years (one definition shared by all adults, supervised and organised unstructured times, rehearsed bystander and defender moves, several reporting routes including anonymous ones, and an incident response that protects the target, with separate steps for cyberbullying) is expected to reduce bullying and fear of it more than a response aimed only at the bully and target after incidents; trials of schoolwide behaviour, recess and restorative programmes test schoolwide action against comparison schools, but no claim tests the role-focused design or a cyberbullying response.",
 "id":"bullying-prevention-and-intervention",
 "path":"principles/bullying-prevention-and-intervention.md",
-"status":"draft",
+"status":"review",
 "title":"Bullying Prevention and Intervention",
 "type":"principle"
 },
@@ -177728,7 +177525,7 @@
 {
 "aliases":["design-principles-depend-on-prior-knowledge","determine-element-interactivity-before-designing-instruction","low-task-complexity-child-learners-recasts","measured-pace-one-concept-at-a-time-older-learners","reduce-extraneous-optimize-intrinsic-increase-germane"],
 "canonical":true,
-"description":"Across a sequence, matching how presentation, task order and support distribute processing demand to a learner's current task-specific capacity is expected to improve learning, while keeping effortful processing that the intended outcome and horizon need.",
+"description":"Across a sequence, matching how presentation, task order and support distribute processing demand to a learner's current task-specific capacity is expected to improve learning, while keeping effortful processing that the intended outcome and horizon need; in the wiki, single levers and two whole load-reducing designs are tested, the withdraw-and-restore policy is not.",
 "id":"cognitive-load-management",
 "path":"principles/cognitive-load-management.md",
 "status":"review",
@@ -177784,19 +177581,19 @@
 },
 {
 "canonical":true,
-"description":"The digest notes that hearing loss and declining visual acuity affect many people as they age and can interfere with learning, particularly understanding speech in the presence of background noise.",
+"description":"For an adult, often older, learner whose hearing or eyesight has declined, presenting each new item both spoken and written or shown, in a well-lit room with little outside noise and with control of pace, is expected to let them take in more of the new material than speech alone; no claim in the wiki tests this with such learners, only spoken-plus-written words, captions and pacing with other learners.",
 "id":"combine-audio-visual-compensate-sensory-loss",
 "path":"principles/combine-audio-visual-compensate-sensory-loss.md",
-"status":"draft",
+"status":"review",
 "title":"Compensate for age-related sensory impairments by combining audio input with visual presentation",
 "type":"principle"
 },
 {
 "canonical":true,
-"description":"The review argues that intentional instruction and incidental exposure should complement each other: initial intentional learning builds the lexical knowledge that later incidental acquisition depends on, and gloss or...",
+"description":"For second-language learners building general vocabulary, deliberate study of selected words combined with reading and listening for meaning (glossed, with recurring words) is expected to give more words and better retention than either mode alone, with the deliberate share largest while text coverage is below about 95%; two thin claims test the combination, none tests its order, ratio or dose.",
 "id":"combine-intentional-and-incidental-vocabulary-learning",
 "path":"principles/combine-intentional-and-incidental-vocabulary-learning.md",
-"status":"draft",
+"status":"review",
 "title":"Combine intentional and incidental vocabulary learning rather than relying on incidental learning alone",
 "type":"principle"
 },
@@ -178119,7 +177916,7 @@
 },
 {
 "canonical":true,
-"description":"Distributed cognition is the principle that thinking and problem solving are often spread across people, tools, representations, and environments rather than residing entirely inside one learner.",
+"description":"For a task too large for one learner to hold or do alone, putting part of the work into shared representations, tools or partners is expected to raise performance with those aids present, and to build what the learner can do alone only when the parts the target requires stay with the learner and the learner's decisions to rely on aids are calibrated; no claim tests distributed against individual work, while single studies test how much to hand to an AI tool and feedback that calibrates offloading.",
 "id":"distributed-cognition",
 "path":"principles/distributed-cognition.md",
 "status":"review",
@@ -178180,7 +177977,7 @@
 {
 "aliases":["natural-and-logical-consequences"],
 "canonical":true,
-"description":"For a group of learners in a shared space, a classroom-wide plan put in place before problems arise and kept consistently (relationships, taught rules and routines, unobtrusive redirection, a short consistent response to persistent misbehavior, self-control taught with external controls planned to fade, and corrections checked for cultural meaning) is expected to reduce disruption and raise engaged time more than improvised practice; one meta-analysis tests planned universal management against usual practice, but no claim tests the six-part plan or any of its traditions.",
+"description":"For a group of learners in a shared space, a classroom-wide plan put in place before problems arise and kept consistently (relationships, taught rules and routines, unobtrusive redirection, a short consistent response to persistent misbehavior, self-control taught with external controls planned to fade, and corrections checked for cultural meaning) is expected to reduce disruption and raise engaged time more than improvised practice; one meta-analysis tests planned universal management against usual practice and a K–5 practice guide rates taught behavior expectations as strongly supported, but no claim tests the six-part plan or any of its traditions.",
 "id":"effective-classroom-management-plan",
 "path":"principles/effective-classroom-management-plan.md",
 "status":"review",
@@ -178306,7 +178103,7 @@
 },
 {
 "canonical":true,
-"description":"In an increasingly digital world, adults who struggle with using technology can benefit from direct instruction for an array of digital tools.",
+"description":"For adult novices with a device, especially older or low-confidence adults, demonstrating one short routine at a time on their own device, having them do it at once with help that responds to each attempt, and withdrawing that help as they succeed is expected to produce more accurate unaided use of those routines than exploration or explanation alone, though no claim in the wiki tests this for computer basics.",
 "id":"explicit-instruction-computer-basics",
 "path":"principles/explicit-instruction-computer-basics.md",
 "status":"review",
@@ -178404,7 +178201,7 @@
 },
 {
 "canonical":true,
-"description":"In a class whose learners differ on the current task, forming temporary similar-need and mixed groups for a stated purpose from recent task evidence, and re-forming them as the evidence changes, is expected to match support and challenge to need better than one whole-class format or fixed ability groups, though no claim here tests flexible grouping itself.",
+"description":"In a class whose learners differ on the current task, forming temporary similar-need and mixed groups for a stated purpose from recent task evidence, and re-forming them as the evidence changes, is expected to match support and challenge to need better than one whole-class format, and to keep what targeted support gains without the costs fixed attainment sorting shows on grades, pass rates and the lowest group's classroom climate; no claim here tests flexible grouping itself, and the fixed-sorting evidence (one district's algebra policy) shows test-score gains for high attainers as well as those costs.",
 "id":"flexible-grouping",
 "path":"principles/flexible-grouping.md",
 "status":"review",
@@ -178422,7 +178219,7 @@
 {
 "aliases":["multimedia-modules-for-pre-lecture-preparation"],
 "canonical":true,
-"description":"For learners who can follow a topic's first explanation on their own, moving that first exposure before the live session and spending the freed time on application with feedback is expected to give better course outcomes than spending live time on the same exposition, provided learners prepare and the home time is not simply added; no claim here compares a flipped course with the same course unflipped.",
+"description":"For learners who can follow a topic's first explanation on their own, moving that first exposure before the live session and spending the freed time on application with feedback is expected to give better course outcomes than spending live time on the same exposition, provided learners prepare and the home time is not simply added; one meta-analysis of undergraduate health-professions courses found flipped classes ahead of lecture-based ones on exam performance (SMD 0.57), at low certainty with very high heterogeneity, and no claim here tests it with home time held equal.",
 "id":"flipped-learning",
 "path":"principles/flipped-learning.md",
 "status":"review",
@@ -178814,10 +178611,10 @@
 },
 {
 "canonical":true,
-"description":"The article argues interactive video's power lies in providing context and contextual clues while giving learners control of the information flow, which research suggests is very necessary.",
+"description":"For a learner working through second-language video or text a little above their level, keeping the material whole and putting helps (glossary, replay, first-language explanation, model answer after an attempt, hints before answers) one step away under the learner's control is expected to support comprehension and vocabulary at least as well as withholding or pushing the same helps; no claim here tests on-demand against pushed helps, and learner control in general averages near zero.",
 "id":"learner-control-information-flow-with-on-demand-tools",
 "path":"principles/learner-control-information-flow-with-on-demand-tools.md",
-"status":"draft",
+"status":"review",
 "title":"Keep the learner in control of the information flow with on-demand tools and supports",
 "type":"principle"
 },
@@ -178864,10 +178661,10 @@
 },
 {
 "canonical":true,
-"description":"The article argues that pathway programs should tie every design element to employment: \\\"The priority of linking program elements to the workforce can be seen in every aspect of its design and implementation.\\\" At CNMC...",
+"description":"For learners who enter a program to get work soon, tying each program element to a named job entry point (an early employer-recognized credential, training timed to hiring or apprenticeship intake, employer contact, visible wage steps) is expected to raise entry into that work, but no claim tests the linking against the same program untied; apprenticeship-versus-other-route evaluations and program reports are the nearest evidence.",
 "id":"link-programs-to-workforce-entry",
 "path":"principles/link-programs-to-workforce-entry.md",
-"status":"draft",
+"status":"review",
 "title":"Link program elements to workforce entry points and employer-recognized credentials so learners see an immediate economic payoff",
 "type":"principle"
 },
@@ -178970,7 +178767,7 @@
 },
 {
 "canonical":true,
-"description":"Mnemonic devices are deliberate memory supports such as acronyms, imagery, rhyme, chunking, loci, or categorization systems that help learners encode and retrieve information more efficiently.",
+"description":"For a learner who must recall arbitrary items (terms, foreign words, lists, ordered steps), teaching a specific mnemonic with its meaning made explicit, then practising recall from the cue and without it, is expected to improve recall of those items but not understanding or transfer; claims test this for students with mild disabilities, and for learners in general rate mnemonics below retrieval and spaced practice.",
 "id":"mnemonic-device",
 "path":"principles/mnemonic-device.md",
 "status":"review",
@@ -179170,10 +178967,10 @@
 },
 {
 "canonical":true,
-"description":"The report argues that professional development remains a key issue for creating digital learning environments and that \\\"professional development that guides teachers on the effective integration of digital content an...",
+"description":"When a school introduces a digital tool, professional development that starts from a lesson goal in the teacher's subject, shows the tool doing that job, and has teachers plan and teach a lesson with follow-up support and time is expected to produce more purposeful classroom use than training on how the tool works alone; no claim in this wiki tests that comparison, the nearest evidence is survey associations and implementation reports, and one coach's report limits it by finding narrow step-by-step technical training necessary for uptake.",
 "id":"pd-integration-not-just-technical",
 "path":"principles/pd-integration-not-just-technical.md",
-"status":"draft",
+"status":"review",
 "title":"Professional development should guide teachers on integrating digital content and tools, not just offer technical know-how",
 "type":"principle"
 },
@@ -179672,7 +179469,7 @@
 },
 {
 "canonical":true,
-"description":"For a learner preparing for a risky, costly, rare or invisible performance, repeated runs in a simulation that keeps the task's decisions and cues, guided during exploration and followed by feedback or a debrief, are expected to improve performance on the represented task more than no simulated practice, with more immersion adding nothing by itself; claims test simulation against no intervention and guided against free VR exploration, but not the debrief, dose or fidelity.",
+"description":"For a learner preparing for a risky, costly, rare or invisible performance, repeated runs in a simulation that keeps the task's decisions and cues, guided during exploration and followed by feedback or a debrief, are expected to improve performance on the represented task more than no simulated practice, with more immersion adding nothing by itself; claims test simulation against no intervention or non-game instruction and guided against free VR exploration, but not the debrief, dose or fidelity.",
 "id":"simulations-immersive-virtual-environments",
 "path":"principles/simulations-immersive-virtual-environments.md",
 "status":"review",
@@ -179949,10 +179746,10 @@
 },
 {
 "canonical":true,
-"description":"The report describes Mead's 1942 analysis of the teacher's role, in which she observed the tremendous emotional and social significance of every teacher action within the community and that teacher deviations arouse t...",
+"description":"For a teacher who needs families' cooperation, relationship-first contact and regular two-way communication about learning, begun before any problem, are expected to build more teacher-parent trust and fewer escalations than relying on rules notices and remote sanctions; no claim tests that comparison, though partnership-programme trials and a home-visit study test parts of it.",
 "id":"teacher-parent-solidarity-over-remote-sanctions",
 "path":"principles/teacher-parent-solidarity-over-remote-sanctions.md",
-"status":"draft",
+"status":"review",
 "title":"Strengthen ties between teachers and parents rather than pressing for remote sanctions behind teaching",
 "type":"principle"
 },
@@ -180000,7 +179797,7 @@
 },
 {
 "canonical":true,
-"description":"Text chats use live or near-live written exchange as a learning space for discussion, coordination, questioning, and low-stakes composition.",
+"description":"For learners who need practice writing for a live audience or a lower-threshold way to ask and respond, a focused text chat on a closed task, with content prepared beforehand and someone keeping the pace legible, is expected to produce negotiation of meaning, self-correction and wider participation, but no claim in the wiki tests chat against the same task without it on a learning outcome.",
 "id":"text-chats",
 "path":"principles/text-chats.md",
 "status":"review",
@@ -253279,7 +253076,7 @@
 "ai-assistance-raises-task-performance-larger-gains-lower-education":"ai-assistance-raises-task-performance-larger-gains-lower-education",
 "ai-assistance-withdrawal-performance-decline":"ai-assistance-withdrawal-performance-decline",
 "ai-assistant-mode-inflates-math-self-efficacy":"ai-assistant-mode-inflates-math-self-efficacy",
-"ai-assistant-short-term-gains-harm-durable-learning":"learning-performance-paradox-ai",
+"ai-assistant-short-term-gains-harm-durable-learning":"gpt4-access-harms-learning-after-withdrawal",
 "ai-assisted-effect-sizes-large-vs-traditional":"ai-assisted-effect-sizes-large-vs-traditional",
 "ai-assisted-feedback-preserves-student-usefulness":"ai-assisted-feedback-preserves-student-usefulness",
 "ai-assisted-inquiry-largest-decision-making-gains-climate":"ai-assisted-inquiry-largest-decision-making-gains-climate",
@@ -253572,7 +253369,7 @@
 "ai-peer-feedback-writing-gains-differential":"ai-peer-feedback-writing-gains-differential",
 "ai-peer-longer-book-talk-sessions":"ai-peer-longer-book-talk-sessions",
 "ai-performance-learning-gains-diverge":"ai-performance-learning-gains-diverge",
-"ai-performance-mastery-decoupling-review-report":"ai-performance-mastery-decoupling-review-report",
+"ai-performance-mastery-decoupling-review-report":"gpt4-access-harms-learning-after-withdrawal",
 "ai-performance-metacognition-dissociation":"ai-performance-metacognition-dissociation",
 "ai-personalization-benefits-performance-motivation":"ai-personalization-benefits-performance-motivation",
 "ai-personalization-recommenders-support-collaborative-learning":"ai-personalization-recommenders-support-collaborative-learning",
@@ -253944,7 +253741,7 @@
 "amsti-teachers-higher-student-engagement":"amsti-teachers-higher-student-engagement",
 "amti-case-studies-feasibility-data-informative":"amti-case-studies-feasibility-data-informative",
 "anaheim-lab-year-two-expanded-impact":"anaheim-lab-year-two-expanded-impact",
-"analogical-reasoning-improves-transfer":"analogical-reasoning-improves-transfer",
+"analogical-reasoning-improves-transfer":"comparing-contrasting-cases-improves-learning",
 "analyses-reduce-barriers-empirical-benchmarks-repeated-measures":"analyses-reduce-barriers-empirical-benchmarks-repeated-measures",
 "analysis-leap-plateau-trajectory":"analysis-leap-plateau-trajectory",
 "analytics-feedback-reflection-strengthen-learning-gains":"analytics-feedback-reflection-strengthen-learning-gains",
@@ -254799,7 +254596,7 @@
 "building-blocks-outperformed-pre-k-mathematics-head-to-head":"building-blocks-outperformed-pre-k-mathematics-head-to-head",
 "building-blocks-potentially-positive-preschool-math-effect":"building-blocks-potentially-positive-preschool-math-effect",
 "building-blocks-prek-positive-effects-math":"building-blocks-prek-positive-effects-math",
-"building-capacity-critical-for-reform":"building-capacity-critical-for-reform",
+"building-capacity-critical-for-reform":"reform-progress-depends-on-teacher-and-school-capacity",
 "building-empathy-improves-intergroup-attitudes":"building-empathy-improves-intergroup-attitudes",
 "building-trust-sea-school-improvement":"building-trust-sea-school-improvement",
 "bullock-rct-null-comprehension-star-vocabulary":"bullock-rct-null-comprehension-star-vocabulary",
@@ -255588,7 +255385,7 @@
 "clear-behavior-expectations-strong-evidence-14-studies":"clear-behavior-expectations-strong-evidence-14-studies",
 "clear-expectations-learning-walks-reinforce-hqim-use":"clear-expectations-learning-walks-reinforce-hqim-use",
 "clear-roles-and-training-support-ca-implementation":"clear-roles-and-training-support-ca-implementation",
-"clear-specific-challenging-goals-linked-to-task-performance":"clear-specific-challenging-goals-linked-to-task-performance",
+"clear-specific-challenging-goals-linked-to-task-performance":"specific-difficult-goals-lead-to-higher-performance",
 "clear-structure-improves-learning":"clear-structure-improves-learning",
 "clear-variable-coordinate-beats-unclear":"clear-variable-coordinate-beats-unclear",
 "clearly-lifted-learning-object-yields-pupil-learning":"clearly-lifted-learning-object-yields-pupil-learning",
@@ -256591,7 +256388,7 @@
 "creativity-dimension-present-in-lower-ses-children":"creativity-dimension-present-in-lower-ses-children",
 "credential-supply-lags-demand-california":"credential-supply-lags-demand-california",
 "credentialing-market-demand-shorter-competency-credentials":"credentialing-market-demand-shorter-competency-credentials",
-"credentials-difference-observation-only-not-value-added":"credentials-difference-observation-only-not-value-added",
+"credentials-difference-observation-only-not-value-added":"experience-credentials-teacher-evaluation-scores",
 "credit-increases-few-outcome-relationships":"credit-increases-few-outcome-relationships",
 "credit-recovery-graduation-effects-imprecise":"credit-recovery-graduation-effects-imprecise",
 "credit-recovery-no-second-year-differences":"credit-recovery-no-second-year-differences",
@@ -257471,7 +257268,7 @@
 "double-dose-increased-interactive-pedagogy-low-skill":"double-dose-increased-interactive-pedagogy-low-skill",
 "double-dose-induced-algebra-tracking":"double-dose-induced-algebra-tracking",
 "double-dose-least-effective-weakest-students":"double-dose-least-effective-weakest-students",
-"double-dose-led-to-tracking-by-entering-skills":"double-dose-led-to-tracking-by-entering-skills",
+"double-dose-led-to-tracking-by-entering-skills":"double-dose-induced-algebra-tracking",
 "double-dose-negligible-grade-failure-changes":"double-dose-algebra-improved-test-scores-modest-grades-effects",
 "double-dose-policy-harmed-above-norm-grades":"double-dose-policy-harmed-above-norm-grades",
 "double-dose-spillover-high-ability-scores-up-grades-down":"double-dose-spillover-high-ability-scores-up-grades-down",
@@ -258470,8 +258267,8 @@
 "exam-washback-drives-language-policy":"exam-washback-drives-language-policy",
 "exam-weeks-exercises-as-formative-practice":"exam-weeks-exercises-as-formative-practice",
 "example-based-course-increases-journaling-intrinsic-motivation":"example-based-course-increases-journaling-intrinsic-motivation",
-"example-problem-sequences-reduce-cognitive-load":"example-problem-sequences-reduce-cognitive-load",
-"example-problem-sequences-reduce-cognitive-load-and-improve-learning-outcomes":"example-problem-sequences-reduce-cognitive-load",
+"example-problem-sequences-reduce-cognitive-load":"worked-example-problem-sequences",
+"example-problem-sequences-reduce-cognitive-load-and-improve-learning-outcomes":"worked-example-problem-sequences",
 "example-problems-degrade-llm-teaching":"example-problems-degrade-llm-teaching",
 "example-variability-interaction-with-cognitive-load":"example-variability-interaction-with-cognitive-load",
 "excellence-for-all-questionable":"excellence-for-all-questionable",
@@ -258955,7 +258752,7 @@
 "fhao-limited-evidence-base-one-quasi-experiment":"fhao-limited-evidence-base-one-quasi-experiment",
 "fhao-no-discernible-effects-behavior":"fhao-no-discernible-effects-behavior",
 "fhao-three-of-seven-outcomes-favor-program":"fhao-three-of-seven-outcomes-favor-program",
-"fi-meta-analysis-mean-d-41-over-38-percent-negative":"fi-meta-analysis-mean-d-41-over-38-percent-negative",
+"fi-meta-analysis-mean-d-41-over-38-percent-negative":"feedback-improves-learning",
 "fi-negative-effects-robust-not-sampling-error":"fi-negative-effects-robust-not-sampling-error",
 "fi-time-series-field-studies-all-positive":"fi-time-series-field-studies-all-positive",
 "fiber-crafting-develops-proportional-reasoning-through-unitizing":"fiber-crafting-develops-proportional-reasoning-through-unitizing",
@@ -259408,7 +259205,7 @@
 "funding-top-edtech-procurement-challenge":"funding-top-edtech-procurement-challenge",
 "funds-of-knowledge-research-raises-teacher-expectations":"funds-of-knowledge-research-raises-teacher-expectations",
 "funds-of-knowledge-tasks-reveal-computational-thinking":"funds-of-knowledge-tasks-reveal-computational-thinking",
-"furtak-metaanalysis-37-studies-inquiry-positive":"furtak-metaanalysis-37-studies-inquiry-positive",
+"furtak-metaanalysis-37-studies-inquiry-positive":"inquiry-based-teaching-improves-science-achievement",
 "fusion-no-inference-time-penalty":"fusion-no-inference-time-penalty",
 "fusion-transformer-lowest-worst-group-mae-smallest-gender-gap":"fusion-transformer-lowest-worst-group-mae-smallest-gender-gap",
 "future-forward-black-male-low-attendance-gains":"future-forward-black-male-low-attendance-gains",
@@ -259991,7 +259788,7 @@
 "gpt-hints-moderately-accessible-readability":"gpt-hints-moderately-accessible-readability",
 "gpt-models-more-rubric-errors-than-gemini":"gpt-models-more-rubric-errors-than-gemini",
 "gpt-models-outperform-smaller-llms-on-ivda-mcqs":"gpt-models-outperform-smaller-llms-on-ivda-mcqs",
-"gpt-o4-mini-equivalent-deepseek-noninferior-teacher-feedback":"gpt-o4-mini-equivalent-deepseek-noninferior-teacher-feedback",
+"gpt-o4-mini-equivalent-deepseek-noninferior-teacher-feedback":"ai-teacher-feedback-equal-project-performance-gains",
 "gpt-outperforms-finetuned-on-fully-correct-responses":"gpt-outperforms-finetuned-on-fully-correct-responses",
 "gpt-output-effect-depends-on-prior-knowledge-and-domain":"gpt-output-effect-depends-on-prior-knowledge-and-domain",
 "gpt-tutor-exam-effect-null":"gpt-tutor-exam-effect-null",
@@ -260189,7 +259986,7 @@
 "guided-matching-and-peer-scaffolding-build-correspondence":"guided-matching-and-peer-scaffolding-build-correspondence",
 "guided-note-taking-supported-remote-engagement":"guided-note-taking-supported-remote-engagement",
 "guided-notes-improve-note-accuracy":"guided-notes-improve-note-accuracy",
-"guided-play-improves-academic-outcomes":"guided-play-improves-academic-outcomes",
+"guided-play-improves-academic-outcomes":"play-based-learning-improves-outcomes",
 "guided-reflection-increases-reflective-judgment-sophistication":"guided-reflection-increases-reflective-judgment-sophistication",
 "guided-reflection-produces-longer-reflections":"guided-reflection-produces-longer-reflections",
 "guided-reflection-self-assessment-responsible-genai-engagement":"guided-reflection-self-assessment-responsible-genai-engagement",
@@ -260319,7 +260116,7 @@
 "heterogeneous-mathematics-classrooms-benefit-students":"heterogeneous-mathematics-classrooms-benefit-students",
 "heterogeneous-mobility-across-performance-distribution":"heterogeneous-mobility-across-performance-distribution",
 "heterogeneous-scaffolds-sct-framework":"heterogeneous-scaffolds-sct-framework",
-"heterogeneous-support-benefits-above-norm":"heterogeneous-support-benefits-above-norm",
+"heterogeneous-support-benefits-above-norm":"above-norm-score-gains-peer-ability-spillover",
 "heterogeneous-teams-more-benefits-than-homogeneous":"heterogeneous-teams-more-benefits-than-homogeneous",
 "heterogeneous-within-person-variance-cognitive-inhibition-tasks":"heterogeneous-within-person-variance-cognitive-inhibition-tasks",
 "heteroglossic-exceeds-monoglossic-stable":"heteroglossic-exceeds-monoglossic-stable",
@@ -260353,7 +260150,7 @@
 "high-flyer-cohort-91643-students-28-states":"high-flyer-cohort-91643-students-28-states",
 "high-gpa-non-enrollers-missed-opportunity":"high-gpa-non-enrollers-missed-opportunity",
 "high-inconsistency-scenario-raises-both-appraisals":"high-inconsistency-scenario-raises-both-appraisals",
-"high-information-feedback-d099-versus-reinforcement-d024":"high-information-feedback-d099-versus-reinforcement-d024",
+"high-information-feedback-d099-versus-reinforcement-d024":"feedback-most-effective-at-task-and-process-levels",
 "high-instructional-support-classrooms-less-positive-perceptions-over-time":"high-instructional-support-classrooms-less-positive-perceptions-over-time",
 "high-intensity-active-learning-narrows-gaps":"high-intensity-active-learning-narrows-gaps",
 "high-intensity-teacher-induction-retention-outcomes-study":"high-intensity-teacher-induction-retention-outcomes-study",
@@ -261937,7 +261734,7 @@
 "learning-objectives-anchor-bloom-classification":"learning-objectives-anchor-bloom-classification",
 "learning-outcome-interactions-trend-only":"learning-outcome-interactions-trend-only",
 "learning-paths-srl-accuracy-without-effort":"learning-paths-srl-accuracy-without-effort",
-"learning-performance-paradox-ai":"learning-performance-paradox-ai",
+"learning-performance-paradox-ai":"gpt4-access-harms-learning-after-withdrawal",
 "learning-rate-retention-tradeoff":"learning-rate-retention-tradeoff",
 "learning-readiness-strongest-wec-component":"learning-readiness-strongest-wec-component",
 "learning-science-submitters-work-with-researchers":"learning-science-submitters-work-with-researchers",
@@ -262373,7 +262170,7 @@
 "llm-srl-classifiers-transfer-across-languages-within-domain":"llm-srl-classifiers-transfer-across-languages-within-domain",
 "llm-struggle-open-ended-subjective-tasks":"llm-struggle-open-ended-subjective-tasks",
 "llm-style-over-fit-uniform-deviation":"llm-style-over-fit-uniform-deviation",
-"llm-substitution-negative-critical-thinking-correlation":"llm-substitution-negative-critical-thinking-correlation",
+"llm-substitution-negative-critical-thinking-correlation":"ai-reliance-correlated-lower-critical-thinking-offloading",
 "llm-suggestions-human-tutors-mastery-gain":"tutor-copilot-raises-exit-ticket-mastery-4pp",
 "llm-survey-responses-extreme-low-variability":"llm-survey-responses-extreme-low-variability",
 "llm-sycophancy-affirmation-trust-risk":"llm-sycophancy-affirmation-trust-risk",
@@ -264533,7 +264330,7 @@
 "pals-first-grade-alphabetics-indeterminate-versus-adult-tutoring":"pals-first-grade-alphabetics-indeterminate-versus-adult-tutoring",
 "pals-fluency-no-significant-effects-first-grade":"pals-fluency-no-significant-effects-first-grade",
 "pals-full-sample-significant-ld-subset-not":"pals-full-sample-significant-ld-subset-not",
-"pals-improvement-index-reading-12-percentile":"pals-improvement-index-reading-12-percentile",
+"pals-improvement-index-reading-12-percentile":"pals-potentially-positive-reading-effects-ells",
 "pals-k-pals-significant-rapid-letter-sound-gains":"pals-k-pals-significant-rapid-letter-sound-gains",
 "pals-mathes-babyak-positive-comprehension-effect":"pals-mathes-babyak-positive-comprehension-effect",
 "pals-mcmaster-comprehension-negative-effect":"pals-mcmaster-comprehension-negative-effect",
@@ -264819,7 +264616,7 @@
 "peer-revisions-contractive-ai-balanced":"peer-revisions-contractive-ai-balanced",
 "peer-self-assessment-improve-performance-equally":"peer-self-assessment-improve-performance-equally",
 "peer-sensitivity-moderates-norm-emergence-speed":"peer-sensitivity-moderates-norm-emergence-speed",
-"peer-skill-explains-above-norm-test-gains":"peer-skill-explains-above-norm-test-gains",
+"peer-skill-explains-above-norm-test-gains":"above-norm-score-gains-peer-ability-spillover",
 "peer-small-group-outperform-other-methods":"peer-small-group-outperform-other-methods",
 "peer-support-academic-work-learning-more-likely":"peer-support-academic-work-learning-more-likely",
 "peer-trust-high-outsider-trust-low-edtech":"peer-trust-high-outsider-trust-low-edtech",
@@ -265950,7 +265747,7 @@
 "pthv-home-visit-math-gain-no-ela-difference":"pthv-home-visit-math-gain-no-ela-difference",
 "pthv-home-visit-reduces-disciplinary-incidents":"pthv-home-visit-reduces-disciplinary-incidents",
 "pthv-home-visits-improve-attendance-slightly":"pthv-home-visits-improve-attendance-slightly",
-"pthv-math-slight-gain-ela-no-difference":"pthv-math-slight-gain-ela-no-difference",
+"pthv-math-slight-gain-ela-no-difference":"pthv-home-visit-math-gain-no-ela-difference",
 "pthv-sel-promising-rating-es-010":"pthv-sel-promising-rating-es-010",
 "pu-strongest-predictor-bi-colale":"pu-strongest-predictor-bi-colale",
 "public-capstone-epportfolio-showcase-audience-effect":"public-capstone-epportfolio-showcase-audience-effect",
@@ -266646,7 +266443,7 @@
 "response-quality-little-effect-on-elaborative-interrogation-retention":"response-quality-little-effect-on-elaborative-interrogation-retention",
 "response-style-growth-effects-vary-by-construct-and-model":"response-style-growth-effects-vary-by-construct-and-model",
 "response-styles-affect-growth-estimates-sel":"response-style-growth-effects-vary-by-construct-and-model",
-"response-styles-affect-growth-parameter-estimates":"response-styles-affect-growth-parameter-estimates",
+"response-styles-affect-growth-parameter-estimates":"response-style-growth-effects-vary-by-construct-and-model",
 "response-styles-construct-irrelevant-bias":"response-styles-construct-irrelevant-bias",
 "response-styles-construct-irrelevant-bias-survey":"response-styles-construct-irrelevant-bias",
 "response-time-metadata-gap-social-emotional-constructs":"response-time-metadata-gap-social-emotional-constructs",
@@ -266728,7 +266525,7 @@
 "retrieval-practice-improves-retention":"retrieval-practice-improves-retention",
 "retrieval-practice-improves-transfer":"retrieval-practice-improves-transfer",
 "retrieval-practice-lower-order-questions-outscore-higher-order-questions":"retrieval-practice-lower-order-questions-outscore-higher-order-questions",
-"retrieval-practice-outperforms-repeated-study-rowland-meta-analysis":"retrieval-practice-outperforms-repeated-study-rowland-meta-analysis",
+"retrieval-practice-outperforms-repeated-study-rowland-meta-analysis":"retrieval-practice-improves-retention",
 "retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration":"retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration",
 "retrieval-practice-reading-comprehension-no-significant-retention-interval-difference":"retrieval-practice-reading-comprehension-no-significant-retention-interval-difference",
 "retrieval-practice-strengthens-memory":"retrieval-practice-strengthens-memory",
@@ -267139,7 +266936,7 @@
 "school-district-support-tpe-helpful":"school-district-support-tpe-helpful",
 "school-district-support-valued-over-state-support-for-tpe":"school-district-support-valued-over-state-support-for-tpe",
 "school-effect-null-ecology-puppetry-ancova":"school-effect-null-ecology-puppetry-ancova",
-"school-entry-age-early-advantage-fades-by-later-grades":"school-entry-age-early-advantage-fades-by-later-grades",
+"school-entry-age-early-advantage-fades-by-later-grades":"entry-age-growth-rate-tradeoff",
 "school-entry-age-multistate-regression-discontinuity-analysis":"school-entry-age-multistate-regression-discontinuity-analysis",
 "school-experience-did-not-enlarge-curriculum-impacts":"school-experience-did-not-enlarge-curriculum-impacts",
 "school-experience-effects-outweigh-achievement-effects":"school-experience-effects-outweigh-achievement-effects",
@@ -268040,7 +267837,7 @@
 "spaced-retrieval-multiyear-vocabulary-retention":"spaced-retrieval-multiyear-vocabulary-retention",
 "spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall":"spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall",
 "spaced-retrieval-outperforms-restudy":"spaced-retrieval-outperforms-restudy",
-"spaced-retrieval-practice-improves-financial-knowledge-retention":"spaced-retrieval-practice-improves-financial-knowledge-retention",
+"spaced-retrieval-practice-improves-financial-knowledge-retention":"spaced-beats-massed-and-control-financial-knowledge",
 "spaced-retrieval-practice-improves-retention":"spaced-retrieval-improves-retention",
 "spacing-benefit-short-retention-no-peterson-paradox":"spacing-benefit-short-retention-no-peterson-paradox",
 "spacing-effect-robust-verbal-recall":"spaced-practice-improves-retention",
@@ -269317,7 +269114,7 @@
 "teacher-rank-orderings-robust-to-mild-transformations":"teacher-rank-orderings-robust-to-mild-transformations",
 "teacher-ratings-outpredict-language-tests":"teacher-ratings-outpredict-language-tests",
 "teacher-readiness-belief-predicts-first-prompt-growth":"teacher-readiness-belief-predicts-first-prompt-growth",
-"teacher-relationships-associated-math-engagement-achievement":"teacher-relationships-associated-math-engagement-achievement",
+"teacher-relationships-associated-math-engagement-achievement":"teacher-student-relationships-improve-engagement",
 "teacher-relationships-moderate-displaced-student-gains":"teacher-relationships-moderate-displaced-student-gains",
 "teacher-remote-challenges-attention-not-technology":"teacher-remote-challenges-attention-not-technology",
 "teacher-reported-engagement-opportunities-increased":"teacher-reported-engagement-opportunities-increased",
@@ -270334,7 +270131,7 @@
 "unreliable-ai-output-most-frequent-technical-limitation-efl":"unreliable-ai-output-most-frequent-technical-limitation-efl",
 "unrestricted-chatbot-higher-learning-delta-than-socratic-and-adaptive":"unrestricted-chatbot-higher-learning-delta-than-socratic-and-adaptive",
 "unrestricted-chatgpt-worse-exam-scores":"gpt4-access-harms-learning-after-withdrawal",
-"unrestricted-gpt4-practice-gains-exam-decline-guardrail-mitigates":"unrestricted-gpt4-practice-gains-exam-decline-guardrail-mitigates",
+"unrestricted-gpt4-practice-gains-exam-decline-guardrail-mitigates":"gpt4-access-harms-learning-after-withdrawal",
 "unrestricted-mode-answer-retrieval-copy-paste":"unrestricted-mode-answer-retrieval-copy-paste",
 "unsafe-environments-trigger-stress-response-impeding-cognition":"unsafe-environments-trigger-stress-response-impeding-cognition",
 "unscaffolded-ai-replaces-self-regulation":"unscaffolded-ai-replaces-self-regulation",
@@ -270782,7 +270579,7 @@
 "work-hours-and-enrollment-intensity-effects-persistence":"work-hours-and-enrollment-intensity-effects-persistence",
 "worked-example-gains-in-a-puzzle-game-remain-small-relative-to-expert-knowledge-maps":"worked-example-gains-in-a-puzzle-game-remain-small-relative-to-expert-knowledge-maps",
 "worked-example-problem-sequences":"worked-example-problem-sequences",
-"worked-examples-example-problem-sequences":"example-problem-sequences-reduce-cognitive-load",
+"worked-examples-example-problem-sequences":"worked-example-problem-sequences",
 "worked-examples-expertise-reversal":"worked-examples-less-effective-with-expertise",
 "worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game":"worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game",
 "worked-examples-improve-math-performance":"worked-examples-improve-math-performance",

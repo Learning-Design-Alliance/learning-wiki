@@ -50,7 +50,7 @@ Open questions include how much scaffolding invention tasks should provide, how 
 
 ## Related Claims
 
-- [Analogical reasoning improves transfer.](analogical-reasoning-improves-transfer.md) — contrasting cases in invention tasks work by supporting analogical comparison of deep structure.
+- [Analogical reasoning improves transfer.](comparing-contrasting-cases-improves-learning.md) — contrasting cases in invention tasks work by supporting analogical comparison of deep structure.
 - [Activation improves learning.](activation-improves-learning.md) — invention attempts activate prior knowledge that subsequent instruction can build on.
 - [Cognitive disequilibrium motivates conceptual change.](cognitive-disequilibrium-motivates-conceptual-change.md) — failed invention creates the disequilibrium that makes canonical solutions feel necessary.
 - [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) — expertise reversal may similarly moderate the benefit of exploration-before-instruction for advanced learners.

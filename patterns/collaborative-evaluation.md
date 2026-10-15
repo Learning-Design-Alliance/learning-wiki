@@ -24,7 +24,7 @@ grain_size: lesson
 # Collaborative Evaluation
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 20 claims (7 for, 13 mixed) · 39 studies (15 causal, 7 quant-synthesis, 7 associational, 4 theoretical, 3 review, 2 qualitative, 1 design), `q1`–`q4` · 5 of 39 report an effect size · 7 claims rest on one study
+> **Evidence** · 20 claims (7 for, 13 mixed) · 40 studies (15 causal, 7 quant-synthesis, 7 associational, 5 theoretical, 3 review, 2 qualitative, 1 design), `q1`–`q4` · 5 of 40 report an effect size · 6 claims rest on one study
 
 ## Description and scope
 
@@ -123,7 +123,7 @@ Claims the earlier page cited. Each keeps its old direction, capped by the claim
 
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — prompted explanation while studying examples or solving problems (meta-analysis g = .55). Bears indirectly: writing a reason for each rating is a form of explanation, but no study here prompts explanation of a judgment of quality.
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — mostly one-to-one tutoring. Bears on the teacher's reference comparison only as a general argument for responding to what groups got wrong; it does not test evaluation.
-- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — a review and a theoretical synthesis. Bears on the last step (comparing one's own work with a target and revising); no study of evaluation activities.
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M] — a review and a theoretical synthesis. Bears on the last step (comparing one's own work with a target and revising); no study of evaluation activities.
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M] — one narrative review of goal-setting research (capped from the earlier `[~S]` to its recorded evidence). It does not bear on evaluating work, except as a general argument for explicit criteria.
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M] — rests on the same Double et al. (2020) entry as the peer assessment claim above, with the same subclaim; a duplicate of it, not a second study.
 

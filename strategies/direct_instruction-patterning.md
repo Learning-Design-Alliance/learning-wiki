@@ -19,7 +19,7 @@ Direct Instruction Patterning is the deliberate design of example sequences, wor
 
 ## Design Implications
 
-Patterning operationalizes the insight that learners generalize from whatever varies in the example set — so the designer must control variation precisely, holding irrelevant features constant and varying only the targeted one [Clear example sequencing reduces misgeneralization and error rates.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]. This is a form of [Cognitive Load Management](../principles/cognitive-load-management.md): by controlling the input pattern, the design prevents learners from wasting working memory on spurious hypotheses [Overload from unstructured input degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S].
+Patterning operationalizes the insight that learners generalize from whatever varies in the example set — so the designer must control variation precisely, holding irrelevant features constant and varying only the targeted one [Clear example sequencing reduces misgeneralization and error rates.](../claims/worked-example-problem-sequences.md) [+M]. This is a form of [Cognitive Load Management](../principles/cognitive-load-management.md): by controlling the input pattern, the design prevents learners from wasting working memory on spurious hypotheses [Overload from unstructured input degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S].
 
 ### Context
 #### Requirements

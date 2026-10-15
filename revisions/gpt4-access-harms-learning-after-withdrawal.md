@@ -32,3 +32,23 @@ Ingested from arxiv-2606.26181 (The Effortless Trap: Productive Struggle, AI, an
 
 ### 2026-10-10 · ingest · process:wiki-ingest
 Ingested from arxiv-2606.16822 (AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/ai-performance-mastery-decoupling-review-report
+
+### 2026-10-12 · ingest · process:wiki-ingest
+Ingested from aied-caeai-digital-literacy-frameworks-review-2026 (Reconceptualizing digital literacy in the AI era: A systematic review of validated frameworks from an ecological perspective) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/learning-performance-paradox-ai
+
+### 2026-10-10 · ingest · process:wiki-ingest
+Ingested from arxiv-2605.04816 (Building AI Companions that Prioritise Learning over Performance) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/ai-assistant-short-term-gains-harm-durable-learning
+
+### 2026-10-12 · ingest · process:wiki-ingest
+Ingested from aied-caeai-ai-companions-learning-over-performance-2026 (Building AI Companions that Prioritize Learning over Performance) via eval_harness.py + ingest_extractions.py
+
+## Earlier history as claims/unrestricted-gpt4-practice-gains-exam-decline-guardrail-mitigates
+
+### 2026-10-11 · ingest · process:wiki-ingest
+Ingested from arxiv-2606.07545 (Reshaping Undergraduate Computer Science Education in the Generative AI Era) via eval_harness.py + ingest_extractions.py

@@ -16,7 +16,7 @@ sources:
 # Three constructs of equitable participation: coherence, relevance, and contribution
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (4 review), `q2` · 0 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 3 studies (3 review), `q2` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 The article organizes student experience measurement around three constructs that prior research indicates "together provide a good predictor of equity in science classrooms." Coherence refers to student perspectives of the progressions of their learning experiences and whether these are driven by student questions, ideas, or investigations. Relevance is rooted in expectancy value theory, concerning connections between students' interests and identities and classroom activities. Contribution positions students as epistemic agents and partners in knowledge building. Each SEET survey contains 10 questions aligned with these constructs, answered yes, no, or not sure.

@@ -64,7 +64,7 @@ This meta-analysis updated earlier work (Niemiec, Sikorski, & Walberg) on giving
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does handing learners control over pace, path or tasks improve learning, and when?* This table gathers the studies behind this claim and the 13 narrower claims that bear on it: **11 distinct studies** (5 causal, 4 quant-synthesis, 1 design, 1 review), `q2`–`q4`, 3 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does handing learners control over pace, path or tasks improve learning, and when?* This table gathers the studies behind this claim and the 15 narrower claims that bear on it: **13 distinct studies** (6 causal, 4 quant-synthesis, 1 design, 1 review, 1 associational), `q2`–`q4`, 3 of 13 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -79,6 +79,8 @@ This meta-analysis updated earlier work (Niemiec, Sikorski, & Walberg) on giving
 | [Kulik et al. 1990](https://doi.org/10.3102/00346543060002265) | q4 · quant-synthesis · r? | i? | [Self-paced mastery programs (PSI) reduce college course completion, though not by enough t](self-paced-mastery-programs-reduce-college-course-completion.md) (counts against) |
 | [Scheiter 2007](https://doi.org/10.1007/s10648-007-9046-3) | q2 · review · r? | i? | [Learner characteristics — prior knowledge, self-regulatory skills, cognitive styles, and a](learner-characteristics-moderate-hypermedia-effectiveness.md) (qualifies) |
 | Azimi 2026 | q2 · causal · r1 | i? | [The Coach's hint budget was managed poorly: students split into early-spenders and savers,](hint-budget-mismanaged-two-patterns.md) (qualifies) |
+| Gale 1985 | q2 · causal · r1 | i? | [Students using an annotated interactive videodisc of a film outperformed students who saw ](annotated-videodisc-beats-videotape-retention-recall.md) (supports) |
+| Kai 2018 | q2 · associational · r2 | i? | [Not requesting any hints in at least one problem is related to greater wheel-spinning, con](hint-avoidance-related-greater-wheel-spinning.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

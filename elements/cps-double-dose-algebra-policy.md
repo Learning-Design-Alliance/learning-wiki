@@ -17,7 +17,7 @@ sources:
 # Double-dose algebra policy in the Chicago Public Schools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (7 for) · 2 studies (2 causal), `q3` · 1 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 2 studies (2 causal), `q3` · 1 of 2 report an effect size · 7 claims rest on one study
 
 ## Description
 A district policy initiated in the Chicago Public Schools in 2003 requiring that all students with 8th-grade test scores below the national median enroll in a support algebra course in addition to regular algebra in the 9th grade. The policy is described as an instance of expanded instructional time aimed at low-skilled 9th graders. The article evaluates it with regression discontinuity combined with interrupted time series designs, and instrumental variable models, measuring grades, failure rates and test scores in 9th-grade algebra and 10th-grade geometry.
@@ -40,7 +40,7 @@ A district policy initiated in the Chicago Public Schools in 2003 requiring that
 
 - [Double-dose algebra support courses improved algebra test scores for targeted low-skilled students but only modestly affected grades and failure rates](../claims/double-dose-algebra-improved-test-scores-modest-grades-effects.md) [+W]
 - [Students with very low initial math abilities benefited less from double-dose algebra than students close to the national median](../claims/double-dose-benefits-smaller-for-very-low-ability.md) [+W]
-- [The double-dose policy led schools to track algebra classes by students' entering math skills](../claims/double-dose-led-to-tracking-by-entering-skills.md) [+W]
+- [The double-dose policy led schools to track algebra classes by students' entering math skills](../claims/double-dose-induced-algebra-tracking.md) [+W]
 - [The double-dose policy affected non-targeted high-ability students: their algebra test scores improved while their grades declined](../claims/double-dose-spillover-high-ability-scores-up-grades-down.md) [+W]
 - [Evidence on the policy's effects on 10th-grade geometry outcomes was inconsistent across groups and years](../claims/double-dose-geometry-outcomes-inconsistent.md) [+W]
 - [Double-dose algebra improved algebra test scores for targeted students just below the cutoff, with a larger post-policy gain than for students just above the cutoff](../claims/double-dose-algebra-test-score-gains-targeted-students.md) [+W]

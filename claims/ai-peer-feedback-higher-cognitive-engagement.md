@@ -1,7 +1,7 @@
 ---
 type: claim
-title: AI-peer integrated feedback produces significantly higher posttest cognitive engagement than conventional peer feedback in EFL writing
-description: AI-peer integrated feedback produces significantly higher posttest cognitive engagement than conventional peer feedback in EFL writing
+title: "In one quasi-experiment in EFL writing classes, students given AI-peer integrated feedback reported higher posttest cognitive engagement than students given conventional peer feedback"
+description: In one quasi-experiment in EFL writing classes, students given AI-peer integrated feedback reported higher posttest cognitive engagement than students given conventional peer feedback
 id: ai-peer-feedback-higher-cognitive-engagement
 status: draft
 generated:
@@ -17,10 +17,12 @@ sources:
     rigour: 1
 ---
 
-# AI-peer integrated feedback produces significantly higher posttest cognitive engagement than conventional peer feedback in EFL writing
+# In one quasi-experiment in EFL writing classes, students given AI-peer integrated feedback reported higher posttest cognitive engagement than students given conventional peer feedback
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
+
+<!-- title before 2026-10-15: AI-peer integrated feedback produces significantly higher posttest cognitive engagement than conventional peer feedback in EFL writing -->
 
 ## Subclaims
 `q3 i3` After controlling for pretest scores, the experimental group showed significantly higher posttest cognitive engagement than the control group (partial η2 = 0.32), the largest of the three engagement effects. [→ Liu W 2026](#liu-w-2026)

@@ -33,7 +33,7 @@ Process-mining 30 undergraduates' think-aloud inquiry behavior, students indepen
 
 `q2 i2` Students with low argumentation quality showed a stronger pattern of correct-then-incorrect evidence generation reflecting violations of the control-of-variables strategy (typically manipulating multiple variables simultaneously instead of isolating one), observed as a qualitative pattern rather than a separately quantified correlation. [→ Omarchevska et al. 2022](#omarchevska-et-al-2022)
 
-`q2 i1` Spontaneous planning or monitoring during inquiry was infrequent overall across the sample, which the authors use to motivate [Integrate Self-Regulation Instruction with Scientific Reasoning Instruction](../principles/self-regulated-learning.md) rather than to claim self-regulation is unimportant. [→ Omarchevska et al. 2022](#omarchevska-et-al-2022)
+`q2 i1` Spontaneous planning or monitoring during inquiry was infrequent overall across the sample, which the authors use to motivate [Self-Regulated Learning](../principles/self-regulated-learning.md) rather than to claim self-regulation is unimportant. [→ Omarchevska et al. 2022](#omarchevska-et-al-2022)
 
 ## Evidence
 

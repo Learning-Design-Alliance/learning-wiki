@@ -41,8 +41,9 @@ The report's effectiveness summary synthesizes three studies (2 RCTs meeting sta
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Peer-assisted instruction and small-group instruction by adults have large, robust short-term effect sizes for K-6 struggling students](peer-assisted-and-small-group-instruction-most-effective.md) — the general claim this finding bears on, with the studies behind it
 - PALS outcomes in reading fluency and general literacy achievement were excluded from the WWC rating because they did not meet baseline equivalence standards — related
 - [Read Naturally® shows mixed effects on reading fluency for beginning readers (average improvement index +7 percentile points)](read-naturally-mixed-effects-reading-fluency.md) — related
 - [Leveled Literacy Intervention has positive effects on general reading achievement, potentially positive effects on reading fluency, and no discernible effects on alphabetics for beginning readers in grades K–2](lli-positive-effects-general-reading-achievement-k-2.md) — related

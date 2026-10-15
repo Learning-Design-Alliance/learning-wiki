@@ -20,7 +20,7 @@ Direct instruction of keyword search explicitly teaches learners how to translat
 
 ## Design Implications
 
-Search is a procedural skill with a large novice search space: unguided, novices flounder with vague one-word queries and accept the first plausible result. Explicit, structured teaching reduces that unproductive search and working-memory burden, consistent with evidence that novices learn procedural skills better from explicit guidance than from discovery [Worked examples reduce unnecessary search for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M] and with the broader finding that minimal-guidance approaches are inefficient for novices [Kirschner, Sweller, & Clark, 2006] [+S]. Because search strategy is largely invisible expert behavior, the instruction must externalize it through [Think-Aloud](../elements/think-aloud.md)-style modeling rather than merely stating rules.
+Search is a procedural skill with a large novice search space: unguided, novices flounder with vague one-word queries and accept the first plausible result. Explicit, structured teaching reduces that unproductive search and working-memory burden, consistent with evidence that novices learn procedural skills better from explicit guidance than from discovery [Worked examples reduce unnecessary search for novices.](../claims/worked-example-problem-sequences.md) [+M] and with the broader finding that minimal-guidance approaches are inefficient for novices [Kirschner, Sweller, & Clark, 2006] [+S]. Because search strategy is largely invisible expert behavior, the instruction must externalize it through [Think-Aloud](../elements/think-aloud.md)-style modeling rather than merely stating rules.
 
 ### Context
 #### Requirements

@@ -13,14 +13,14 @@ generated:
 # Use Analogies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 7 studies (4 causal, 3 quant-synthesis), `q3`–`q4` · 3 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 against) · 8 studies (5 causal, 3 quant-synthesis), `q3`–`q4` · 3 of 8 report an effect size
 
 ## Description
-An analogy explains an unfamiliar target concept by relating it to a familiar source domain with a similar relational structure (e.g., the atom as a solar system, electrical current as water flow). The strategy works by activating prior knowledge and aligning its structure with the new material, so learners can infer relationships in the target domain from relationships they already understand [Analogical reasoning improves transfer of relational structure to new domains.](../claims/analogical-reasoning-improves-transfer.md) [+S].
+An analogy explains an unfamiliar target concept by relating it to a familiar source domain with a similar relational structure (e.g., the atom as a solar system, electrical current as water flow). The strategy works by activating prior knowledge and aligning its structure with the new material, so learners can infer relationships in the target domain from relationships they already understand [Analogical reasoning improves transfer of relational structure to new domains.](../claims/comparing-contrasting-cases-improves-learning.md) [+S].
 
 ## Design Implications
 
-Analogies are effective because they transfer *relational structure*, not surface features — the instructional value comes from mapping how elements in the source correspond to elements in the target [Gentner's structure-mapping account of analogy.](../claims/analogical-reasoning-improves-transfer.md) [+S]. Effective use therefore requires making the mapping explicit: naming the correspondences, and just as importantly, naming where the analogy *breaks down*, since learners otherwise import inappropriate features from the source domain [~M]. Analogies also serve as advance organizers, giving learners a schema to hang new details on [Activation of prior knowledge improves learning of new material.](../claims/activation-improves-learning.md) [+M].
+Analogies are effective because they transfer *relational structure*, not surface features — the instructional value comes from mapping how elements in the source correspond to elements in the target [Gentner's structure-mapping account of analogy.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]. Effective use therefore requires making the mapping explicit: naming the correspondences, and just as importantly, naming where the analogy *breaks down*, since learners otherwise import inappropriate features from the source domain [~M]. Analogies also serve as advance organizers, giving learners a schema to hang new details on [Activation of prior knowledge improves learning of new material.](../claims/activation-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -52,7 +52,7 @@ Analogies are effective because they transfer *relational structure*, not surfac
 - **Multiple analogies** — several different source domains for the same concept, supporting flexible understanding ([Cognitive Flexibility](../principles/cognitive-flexibility.md))
 
 ### Target Learners
-- Novices, who lack domain schemas and benefit most from importing structure from a familiar domain [Analogical reasoning improves transfer.](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- Novices, who lack domain schemas and benefit most from importing structure from a familiar domain [Analogical reasoning improves transfer.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Younger learners and learners outside the domain, for whom abstract definitions alone are inert
 - Less beneficial for experts, who already possess domain-internal structure and may find the analogy redundant or distorting [~W]
 - Learners with rich everyday knowledge relevant to the source domain; ineffective when the analogy's source is as unfamiliar as the target [~M]
@@ -60,7 +60,7 @@ Analogies are effective because they transfer *relational structure*, not surfac
 
 ### Target Learning Goals
 - Conceptual understanding of abstract or invisible systems (molecular, economic, computational)
-- Transfer of relational structure across domains [Analogical reasoning improves transfer of relational structure.](../claims/analogical-reasoning-improves-transfer.md) [+S]
+- Transfer of relational structure across domains [Analogical reasoning improves transfer of relational structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+S]
 - Prior knowledge activation and schema formation [Activation improves learning.](../claims/activation-improves-learning.md) [+M]
 - Conceptual understanding of abstract, invisible, or counterintuitive phenomena (electricity, cells, markets, recursion)
 - Schema formation: anchoring new concepts to existing knowledge structures
@@ -106,7 +106,7 @@ An analogy explains a new or abstract concept by relating it to something learne
 
 ## Design Implications
 
-Analogies improve comprehension and transfer when the source and target share deep structural features, not just surface similarity [Analogical reasoning improves transfer when mappings are structural rather than surface-level.](../claims/analogical-reasoning-improves-transfer.md) [+M]. They work by retrieving relevant prior knowledge and using it as a scaffold, consistent with evidence that activation of relevant background knowledge improves learning [Activation of prior knowledge improves learning.](../claims/activation-improves-learning.md) [+M]. Because learners may overextend a mapping, effective analogies explicitly state their limits — where the analogy holds and where it fails.
+Analogies improve comprehension and transfer when the source and target share deep structural features, not just surface similarity [Analogical reasoning improves transfer when mappings are structural rather than surface-level.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. They work by retrieving relevant prior knowledge and using it as a scaffold, consistent with evidence that activation of relevant background knowledge improves learning [Activation of prior knowledge improves learning.](../claims/activation-improves-learning.md) [+M]. Because learners may overextend a mapping, effective analogies explicitly state their limits — where the analogy holds and where it fails.
 
 ### Context
 #### Requirements
@@ -128,13 +128,13 @@ Analogies improve comprehension and transfer when the source and target share de
 - **Multiple analogies** — several different source domains for the same concept, supporting flexible understanding ([Cognitive Flexibility](../principles/cognitive-flexibility.md))
 
 ### Target Learners
-- Novices who lack domain-specific schemas and need an accessible entry point [Analogical reasoning improves transfer when mappings are structural.](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- Novices who lack domain-specific schemas and need an accessible entry point [Analogical reasoning improves transfer when mappings are structural.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Learners with rich everyday knowledge relevant to the source domain; ineffective when the analogy's source is as unfamiliar as the target [~M]
 - Younger learners and those with limited domain vocabulary, for whom concrete source domains reduce language demands
 
 ### Target Learning Goals
 - Conceptual understanding of abstract, invisible, or counterintuitive phenomena (electricity, cells, markets, recursion)
-- Transfer: applying a known relational structure to a new domain [Analogical reasoning improves transfer.](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- Transfer: applying a known relational structure to a new domain [Analogical reasoning improves transfer.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Schema formation: anchoring new concepts to existing knowledge structures
 
 ### Instructions

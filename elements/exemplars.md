@@ -13,7 +13,7 @@ generated:
 # Exemplars
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 8 studies (4 causal, 2 theoretical, 1 quant-synthesis, 1 review), `q1`–`q4` · 1 of 8 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 8 studies (4 causal, 2 theoretical, 1 quant-synthesis, 1 review), `q1`–`q4` · 1 of 8 report an effect size · 2 claims rest on one study
 
 ## Description
 An exemplar is a high-quality model of a finished product or performance — an essay, design, proof, or solution — that learners study to internalize quality criteria before producing their own work. Unlike a [Demonstration](demonstration.md), which shows a *process*, an exemplar shows the *product* of expertise, making implicit standards observable and discussable.
@@ -43,7 +43,7 @@ Exemplars make quality criteria concrete: learners calibrate their own standards
 ### Target Learning Goals
 - Quality calibration: internalizing criteria for evaluating products
 - Genre knowledge: understanding the conventions and structure of a form of writing, design, or argument
-- Transfer: recognizing deep structural features across varied instances [Analogical reasoning improves transfer.](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- Transfer: recognizing deep structural features across varied instances [Analogical reasoning improves transfer.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Affordances
 - [Worked Examples](../principles/worked-examples.md) — an exemplar applied to problem solving *is* a worked example; both give learners a complete model to study before producing their own

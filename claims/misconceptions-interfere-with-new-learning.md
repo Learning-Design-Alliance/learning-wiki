@@ -65,12 +65,15 @@ Reviews roughly twenty years of research (since the mid-1980s) on refutation tex
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does instruction that names and confronts a science misconception change learners' conceptions more than standard exposition?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **5 distinct studies** (2 quant-synthesis, 1 review, 1 causal, 1 qualitative), `q2`–`q4`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does instruction that names and confronts a science misconception change learners' conceptions more than standard exposition?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **8 distinct studies** (2 quant-synthesis, 2 review, 2 causal, 1 design, 1 qualitative), `q2`–`q4`, 1 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Guzzetti et al. 1993](https://doi.org/10.2307/747886) | q3 / q4 · quant-synthesis · r? | i? | this claim; [Conflict-based instruction improves science conceptual learning, though staged contradicti](cognitive-disequilibrium-motivates-conceptual-change.md) (supports) |
 | [Tippett 2010](https://doi.org/10.1007/s10763-010-9203-x) | q3 · review · r? | i? | this claim |
+| Woloshyn 1992 | q3 · causal · r2 | i? | [In one experiment, refutational text (misbelief stated first, then fact) enhanced free rec](refutational-text-order-enhances-retention.md) (supports); [Elaborative interrogation produced greater pretest-to-posttest gains on items about common](elaborative-interrogation-improves-misbelief-items-pretest-posttest.md) (supports) |
+| Blosser 1993 | q2 / q3 · review · r3 | i? | [Conceptual change strategies in cooperative groups reduced misconceptions in community col](cooperative-conceptual-change-chemistry-misconceptions.md) (supports) |
+| Farr 2012 | q2 · design · r2 | i? | [A demonstration-plus-guided-inquiry-plus-computational-model sequence helped most students](guided-inquiry-computational-model-overcomes-amplitude-misconception.md) (qualifies) |
 | [Pacaci et al. 2024](https://doi.org/10.1002/tea.21887) | q4 · quant-synthesis · r? | i3 · large effect, g=1.10 (adjusted g=0.93) | [Conflict-based instruction improves science conceptual learning, though staged contradicti](cognitive-disequilibrium-motivates-conceptual-change.md) (supports) |
 | [Lehman et al. 2013](https://doi.org/10.3233/jai-130025) | q3 · causal · r1 | i? | [Conflict-based instruction improves science conceptual learning, though staged contradicti](cognitive-disequilibrium-motivates-conceptual-change.md) (supports) |
 | Tao 1997 | q2 · qualitative · r2 | i? | [Computer-supported collaborative learning with simulation programs fostered conceptual cha](cscl-simulation-conceptual-change-cognitive-engagement.md) (qualifies) |
@@ -96,7 +99,7 @@ Reviews roughly twenty years of research (since the mid-1980s) on refutation tex
 
 - [Cognitive disequilibrium motivates conceptual change.](cognitive-disequilibrium-motivates-conceptual-change.md) — confronting learners with discrepant events drives the restructuring that overcomes misconceptions
 - [Activation improves learning.](activation-improves-learning.md) — surfacing prior knowledge, including misconceptions, is the precondition for addressing them
-- [Analogical reasoning improves transfer.](analogical-reasoning-improves-transfer.md) — analogy can remap intuitive models onto correct scientific ones
+- [Analogical reasoning improves transfer.](comparing-contrasting-cases-improves-learning.md) — analogy can remap intuitive models onto correct scientific ones
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — misconceptions act as entrenched chunks that compete with newly formed ones
 - [Advance organizers improve learning.](advance-organizers-improve-learning.md) — organizers can pre-empt misassimilation by framing new content against learners' existing schemas
 - [The learning cycle is reported as an effective means for learning science concepts and processes](learning-cycle-effective-science-learning.md) — related

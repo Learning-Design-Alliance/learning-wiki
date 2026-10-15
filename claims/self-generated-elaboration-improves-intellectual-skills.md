@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Self-generated elaboration improves intellectual skills more than instructor-assisted elaboration, but not more than the combined strategy
-description: Self-generated elaboration improves intellectual skills more than instructor-assisted elaboration, but not more than the combined strategy
+title: "In one accounting classroom experiment, self-generated elaboration scored marginally above instructor-assisted elaboration on intellectual skills (p = .06, omnibus test not significant) and no higher than a combined strategy"
+description: In one accounting classroom experiment, self-generated elaboration scored marginally above instructor-assisted elaboration on intellectual skills (p = .06, omnibus test not significant) and no higher than a combined strategy
 id: self-generated-elaboration-improves-intellectual-skills
 status: draft
 generated:
@@ -19,10 +19,12 @@ sources:
     rigour: 1
 ---
 
-# Self-generated elaboration improves intellectual skills more than instructor-assisted elaboration, but not more than the combined strategy
+# In one accounting classroom experiment, self-generated elaboration scored marginally above instructor-assisted elaboration on intellectual skills (p = .06, omnibus test not significant) and no higher than a combined strategy
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+
+<!-- title before 2026-10-15: Self-generated elaboration improves intellectual skills more than instructor-assisted elaboration, but not more than the combined strategy -->
 
 ## Subclaims
 `q2 i?` Students under self-generated elaboration outperformed students under instructor-assisted elaboration on intellectual skills at the 6% significance level; the difference versus the combined strategy was not significant. [→ Xiong 2014](#xiong-2014)
@@ -44,6 +46,6 @@ Univariate tests among the three elaboration groups on case-analysis intellectua
 ## Related Claims
 
 - [Elaborative Encoding Improves Retention](generative-processing-improves-learning.md) — the general claim this finding bears on, with the studies behind it
-- [Self-generated elaboration improves procedural knowledge more than instructor-assisted elaboration in introductory accounting](self-generated-elaboration-improves-procedural-knowledge-accounting.md) — related
+- [In one introductory accounting experiment, self-generated elaboration scored above instructor-assisted elaboration on procedural knowledge at the p = .05 boundary, and not significantly above a combined strategy](self-generated-elaboration-improves-procedural-knowledge-accounting.md) — related
 - [Cognitive elaboration strategy significantly affects overall posttest performance, with self-generated elaboration highest](elaboration-strategy-affects-posttest-performance.md) — related
 - [GPA, pretest score, and self-generated elaboration jointly predict intellectual skills but not procedural knowledge or attitudes](gpa-pretest-elaboration-interaction-intellectual-skills.md) — related

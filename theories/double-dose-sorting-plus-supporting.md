@@ -16,7 +16,7 @@ sources:
 # Double-dose algebra as a sorting-plus-supporting alternative to tracking and detracking
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 13 claims (10 for, 2 mixed, 1 against) · 5 studies (5 causal), `q2`–`q3` · 0 of 5 report an effect size · 13 claims rest on one study
+> **Evidence** · 12 claims (9 for, 2 mixed, 1 against) · 5 studies (5 causal), `q2`–`q3` · 0 of 5 report an effect size · 11 claims rest on one study
 
 ## Description
 The double-dose strategy created homogeneous algebra classes for organizational reasons but ensured that low-track students received challenging coursework and high-quality instruction through extended time, curricular resources, and professional development. "the policy created homogeneous algebra classes for organizational reasons but ensured that low-track students received challenging coursework and high-quality instruction." This approach differs from traditional tracking (which provided low-level content and low expectations) and from detracking (which mixed abilities without additional support). The policy operated through three mechanisms: expanded instructional time, improved instruction from resources and professional development, and ability grouping into more homogeneous classes.
@@ -41,12 +41,11 @@ The double-dose strategy created homogeneous algebra classes for organizational 
 
 ### Claims
 
-- [Peer Skill Explains Above Norm Test Gains](../claims/peer-skill-explains-above-norm-test-gains.md) [+M]
+- [Peer Skill Explains Above Norm Test Gains](../claims/above-norm-score-gains-peer-ability-spillover.md) [+M]
 - [Fish Pond Effects Increase Failure Above Norm](../claims/fish-pond-effects-increase-failure-above-norm.md) [+M]
 - [Below Norm Scores Improved Despite Lower Peers](../claims/below-norm-scores-improved-despite-lower-peers.md) [+M]
 - [Interactive Pedagogy Increased Below Norm](../claims/interactive-pedagogy-increased-below-norm.md) [+M]
 - [Below-norm students' pass rates improved post-policy because their skills relative to classroom peers improved under sorting](../claims/below-norm-pass-rates-improved-relative-skills.md) [+W]
-- [Above-norm students in heterogeneous classrooms with supported below-norm classmates gained .4 additional test score points post-policy](../claims/heterogeneous-support-benefits-above-norm.md) [+W]
 - [The double-dose policy led schools to track algebra classes by entering math skills, making classrooms more homogeneous in ability](../claims/double-dose-induced-algebra-tracking.md) [+W]
 - [Chicago's double-dose algebra policy raised algebra test scores for both low-skill and high-skill students](../claims/double-dose-algebra-raised-test-scores-both-skill-groups.md) [+W]
 - [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points), largely explained by classroom environment and peer ability](../claims/double-dose-failure-rates-divergent.md) [~W]

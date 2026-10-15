@@ -22,7 +22,7 @@ sources:
 # National Board Certification
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 3 studies (2 associational, 1 review), `q2`–`q3` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 4 studies (3 associational, 1 review), `q2`–`q3` · 0 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 A rigorous professional certification programme run by the National Board for Professional Teaching Standards in which teachers demonstrate advanced practice through a portfolio and assessment-centre examinations.
@@ -36,8 +36,8 @@ A rigorous professional certification programme run by the National Board for Pr
 - [Elementary schools with clusters of board-certified teachers and candidates showed higher teacher influence, innovation, and slightly higher collective responsibility](../claims/nbct-clusters-higher-teacher-influence-innovation.md) [+W]
 - [Board-certified teachers were twice as likely as other teachers to hold school leadership roles, and about two-thirds led professional development](../claims/nbcts-twice-as-likely-leadership-roles.md) [+W]
 - [Principals rated board-certified teachers higher than other experienced teachers on seven competence areas, most often 'extraordinary'](../claims/principals-rate-nbcts-extraordinary-on-competence.md) [+W]
-- [National Board certification identifies teachers who are more expert and whose students achieve deeper learning](../claims/board-certification-identifies-more-expert-teachers.md) [+W]
-- [Teachers with National Board Certification or advanced degrees differ from other teachers only on observation scores, not value added](../claims/credentials-difference-observation-only-not-value-added.md) [~W]
+- [An ERIC digest reports that a 2000 validity study gave strong initial evidence that National Board certification identifies teachers who are more expert and whose students learn more deeply](../claims/board-certification-identifies-more-expert-teachers.md) [+W]
+- [Teachers with National Board Certification or advanced degrees differ from other teachers only on observation scores, not value added](../claims/experience-credentials-teacher-evaluation-scores.md) [~W]
 
 ## Related Products and Programmes
 -
@@ -77,7 +77,7 @@ NBPTS was "established to elevate the teaching profession by providing an advanc
 - [Board-certified teachers were twice as likely as other teachers to hold school leadership roles, and about two-thirds led professional development](../claims/nbcts-twice-as-likely-leadership-roles.md) [+W]
 - [Principals rated board-certified teachers higher than other experienced teachers on seven competence areas, most often 'extraordinary'](../claims/principals-rate-nbcts-extraordinary-on-competence.md) [+W]
 - [National Board certification identifies teachers who are more expert and whose students achieve deeper learning](../claims/board-certification-identifies-more-expert-teachers.md) [+W]
-- [Teachers with National Board Certification or advanced degrees differ from other teachers only on observation scores, not value added](../claims/credentials-difference-observation-only-not-value-added.md) [~W]
+- [Teachers with National Board Certification or advanced degrees differ from other teachers only on observation scores, not value added](../claims/experience-credentials-teacher-evaluation-scores.md) [~W]
 
 ## Related Elements
 

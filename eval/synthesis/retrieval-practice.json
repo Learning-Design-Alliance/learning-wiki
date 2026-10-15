@@ -11,10 +11,6 @@
           "+"
         ],
         [
-          "retrieval-practice-outperforms-repeated-study-rowland",
-          "+"
-        ],
-        [
           "quizzing-beats-restudying-and-elaborative-controls",
           "+"
         ],
@@ -175,6 +171,10 @@
         [
           "knowledge-of-results-no-effect-achievement-test-dimensionality",
           "~"
+        ],
+        [
+          "overt-error-correction-speeds-young-children-learning",
+          "+"
         ]
       ]
     },
@@ -260,10 +260,6 @@
         ],
         [
           "spaced-beats-massed-and-control-financial-knowledge",
-          "+"
-        ],
-        [
-          "spaced-retrieval-practice-improves-financial-knowledge-retention",
           "+"
         ],
         [

@@ -14,7 +14,7 @@ grain_size: lesson
 # Game-Based Mastery Learning (e.g., Duolingo Pattern)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 5 claims (2 for, 3 mixed) · 11 studies (4 review, 2 causal, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q2`–`q4` · 0 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (2 for, 3 mixed) · 12 studies (4 review, 3 theoretical, 2 causal, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 0 of 12 report an effect size · 1 claim rests on one study
 
 ## Description
 Game-Based Mastery Learning combines mastery progression with game-like mechanics such as levels, streaks, rewards, adaptive challenge, and immediate feedback. The pattern works by requiring learners to demonstrate competence before moving forward while using feedback and progression signals to sustain engagement. Its value is not the game layer alone; it is the pairing of repeated practice, visible progress, and retry loops.
@@ -62,8 +62,8 @@ This pattern can be highly effective for incremental skill development, especial
 
 ### Claims
 #### Supporting
-- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [+M]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 #### Contradicting
 - [Worked examples can become redundant or counterproductive for advanced learners.](../claims/worked-examples-less-effective-with-expertise.md) [~M]

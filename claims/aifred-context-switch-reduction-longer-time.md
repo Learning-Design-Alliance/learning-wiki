@@ -67,5 +67,5 @@ Across all tasks, mean completion time was "higher with AIfred (349.5 seconds vs
 
 ## Related Claims
 - [AIfred and ChatGPT produce comparable math scores while assistance is available](aifred-chatgpt-comparable-assisted-math.md) — related
-- [The benefit of spatially co-located AI guidance varies by task: it matters most when instructions and task share a unified spatial frame](spatial-colocation-benefit-task-dependent.md) — related
+- [The authors of one robot-projection study interpret co-located AI guidance as most useful when instructions and task share a spatial frame, as in drawing](spatial-colocation-benefit-task-dependent.md) — related
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related

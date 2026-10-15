@@ -39,7 +39,7 @@ Problem solving is the element in which learners identify, analyze, and respond 
 - [Functional fixedness — treating an object's or idea's function as fixed — blocks solutions that require reinterpreting it.](../claims/functional-fixedness-limits-problem-solving.md) [+M]
 - [Productive Failure Improves Conceptual Learning](../claims/productive-failure-improves-conceptual-learning.md) [+W]
 - [A Flexible problem-solving approach within a Fixed-Cooperative course appeared to support cooperative learning](../claims/flexible-problem-solving-supports-cooperative-learning.md) [+W]
-- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/example-problem-sequences-reduce-cognitive-load.md) [+W]
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-example-problem-sequences.md) [+W]
 - [Usability testing with educators and developers identified chatbot strengths for independent challenge-solving but limited feedback for low-participation learners](../claims/usability-test-strengths-and-limits.md) [+W]
 
 ## Related Elements

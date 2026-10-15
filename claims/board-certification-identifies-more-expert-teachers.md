@@ -1,7 +1,7 @@
 ---
 type: claim
-title: National Board certification identifies teachers who are more expert and whose students achieve deeper learning
-description: National Board certification identifies teachers who are more expert and whose students achieve deeper learning
+title: "An ERIC digest reports that a 2000 validity study gave strong initial evidence that National Board certification identifies teachers who are more expert and whose students learn more deeply"
+description: An ERIC digest reports that a 2000 validity study gave strong initial evidence that National Board certification identifies teachers who are more expert and whose students learn more deeply
 id: board-certification-identifies-more-expert-teachers
 status: draft
 generated:
@@ -19,10 +19,12 @@ sources:
     rigour: 1
 ---
 
-# National Board certification identifies teachers who are more expert and whose students achieve deeper learning
+# An ERIC digest reports that a 2000 validity study gave strong initial evidence that National Board certification identifies teachers who are more expert and whose students learn more deeply
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q3`
+
+<!-- title before 2026-10-15: National Board certification identifies teachers who are more expert and whose students achieve deeper learning -->
 
 ## Subclaims
 `q3 i?` The Bond et al. (2000) validity study provides strong initial evidence that the certification system identifies teachers who are significantly more expert in their teaching practices and whose students achieve deeper learning. [→ National Board for Professional Teaching Standards' National Teacher Certification and a Performance-Based Assessment System 2000](#national-board-for-professional-teaching-standards-national-teacher-certification-and-a-performance-based-assessment-system-2000)
@@ -44,4 +46,4 @@ The digest reports the construct and consequential validity study by Bond et al.
 
 ## Related Claims
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — related
-- [Teachers with National Board Certification or advanced degrees differ from other teachers only on observation scores, not value added](credentials-difference-observation-only-not-value-added.md) — reports the opposite
+- [Teachers with National Board Certification or advanced degrees differ from other teachers only on observation scores, not value added](experience-credentials-teacher-evaluation-scores.md) — reports the opposite

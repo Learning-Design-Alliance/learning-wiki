@@ -67,4 +67,4 @@ Global Morris elementary-effects screening of behavioral overreliance across the
 - [In the model, topology shifts aggregate reliance only under opinion dynamics, when influential hubs transmit correlated beliefs that move agents across the verify/use margin](opinion-dynamics-hubs-shift-consensus-trust.md) — related
 - [In the model, visible unverified peer use (social proof) suppresses verification and tips the population into collective overreliance, via a smooth crossover with no hysteresis](social-proof-verification-collapse-cascade.md) — related
 - [Theoretical quality of both theory-based and non-theory agents remains stable across Easy, Medium, and Hard scenario difficulty levels](theoretical-quality-stable-across-difficulty.md) — related
-- [The direction of difficulty adaptation, not merely its presence, determines AI-GBL outcomes](dda-adaptation-direction-determines-outcomes.md) — related
+- [In one quasi-experimental VR shooting study (n = 50), reported in a review, rule-based dynamic difficulty outperformed progressive difficulty](dda-adaptation-direction-determines-outcomes.md) — related

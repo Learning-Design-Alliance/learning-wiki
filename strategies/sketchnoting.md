@@ -73,7 +73,7 @@ The important caveat is that the evidence base is for *drawing to learn*, not fo
 ### Target Learning Goals
 - Comprehension and retention of structured explanatory content [Generative Learning Improves Comprehension](../claims/generative-processing-improves-learning.md) [+M]
 - Understanding relationships — cause, sequence, containment, contrast — which spatial layout represents more directly than prose
-- Durable recall through combined verbal and visual encoding [Different media combinations significantly affect the recall and retention of information](../claims/media-combinations-affect-recall-and-retention.md) [+M]
+- Durable recall through combined verbal and visual encoding [In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts](../claims/media-combinations-affect-recall-and-retention.md) [+M]
 - Summarization: reducing an extended input to its load-bearing ideas
 
 ### Instructions

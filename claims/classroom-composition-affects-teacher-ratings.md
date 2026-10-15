@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Classroom composition significantly affects teacher performance ratings: a one SD increase in classroom quality raises observation scores by 0.07 SD and student survey ratings by 0.13 SD"
-description: "Classroom composition significantly affects teacher performance ratings: a one SD increase in classroom quality raises observation scores by 0.07 SD and student survey ratings by 0.13 SD"
+title: "In one quasi-experimental study of Chicago teachers, a classroom one SD higher on a quality index raised the same teacher's observation scores by 0.07 SD and student survey ratings by 0.13 SD"
+description: In one quasi-experimental study of Chicago teachers, a classroom one SD higher on a quality index raised the same teacher's observation scores by 0.07 SD and student survey ratings by 0.13 SD
 id: classroom-composition-affects-teacher-ratings
 status: draft
 generated:
@@ -19,10 +19,12 @@ sources:
     rigour: 2
 ---
 
-# Classroom composition significantly affects teacher performance ratings: a one SD increase in classroom quality raises observation scores by 0.07 SD and student survey ratings by 0.13 SD
+# In one quasi-experimental study of Chicago teachers, a classroom one SD higher on a quality index raised the same teacher's observation scores by 0.07 SD and student survey ratings by 0.13 SD
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+
+<!-- title before 2026-10-15: Classroom composition significantly affects teacher performance ratings: a one SD increase in classroom quality raises observation scores by 0.07 SD and student survey ratings by 0.13 SD -->
 
 ## Subclaims
 `q3 i0` Teachers received higher ratings when assigned students with higher prior achievement, more regular attendance, and fewer behavioral challenges. [→ Delgado 2026](#delgado-2026)

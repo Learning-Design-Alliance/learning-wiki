@@ -6,7 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: feedback-improves-learning
-aliases: [feedback-improves-learning-outcomes, feedback-use-improves-learning]
+aliases: [feedback-improves-learning-outcomes, feedback-use-improves-learning, fi-meta-analysis-mean-d-41-over-38-percent-negative]
 evidence_strength: moderate
 sources:
   - id: wisniewski-et-al-2020
@@ -45,6 +45,8 @@ Information provided to learners about their performance or understanding can im
 
 `q4 i2` A meta-analysis of 435 studies (k=994 effect sizes, N>61,000) finds a medium overall effect of feedback on student learning (d=0.48), but the pooled effect masks large heterogeneity by feedback type and outcome domain — feedback is not a single consistent treatment. [→ Wisniewski et al. 2020](#wisniewski-et-al-2020)
 
+`q3 i2` Across 607 effect sizes, feedback interventions have a moderate positive average effect on performance (d = .41), yet over 38% of the effects are negative. [→ Kluger 1996](#kluger-denisi-1996)
+
 ## Evidence
 
 ### Wisniewski et al. 2020
@@ -73,6 +75,18 @@ Kluger, A. N., & DeNisi, A. (1996). The effects of feedback interventions on per
 
 A meta-analysis of feedback interventions on task performance in laboratory and field settings, not only in education. On average, feedback improved performance (d = .41), but more than a third of the interventions reduced performance, and sampling error or whether the feedback was positive or negative did not explain this. The authors' feedback intervention theory, tested with moderator analyses, proposes that feedback becomes less effective as it pulls the learner's attention away from the task and toward the self. This is a strong qualification of the general claim.
 
+<!-- merged 2026-10-15 from fi-meta-analysis-mean-d-41-over-38-percent-negative: that page's entry for this study, which differed from the one above, kept verbatim.
+### Kluger 1996
+
+Kluger, A. N., & DeNisi, A. (1996). The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary feedback intervention theory. Psychological Bulletin, 119(2), 254-284. https://doi.org/10.1037/0033-2909.119.2.254
+
+`q3 · i2` · `quant-synthesis · r3`
+
+Meta-analysis of studies meeting inclusion criteria (unconfounded FI treatment, control group, performance measure, at least 10 participants, calculable d), yielding 607 effect sizes from 12,652 participants. The printed effect size is d = 0.41: the authors report the "weighted mean (weighted by sample size) of this distribution is 0.41" and that over 38% of effects were negative.
+
+> "The weighted mean (weighted by sample size) of this distribution is 0.41, suggesting that, on average, FI has a moderate positive effect on performance. However, over 38% of the effects were negative"
+-->
+
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
@@ -91,7 +105,7 @@ A meta-analysis of feedback interventions on task performance in laboratory and 
 | [Mueller & Dweck 1998](https://doi.org/10.1037/0022-3514.75.1.33) | q3 · causal · r? | i? | [Praise for intelligence, rather than for effort, after success undermines children's motiv](feedback-praise-reduces-learning.md) (qualifies) |
 | [Henderlong & Lepper 2002](https://doi.org/10.1037/0033-2909.128.5.774) | q3 · review · r? | i? | [Praise for intelligence, rather than for effort, after success undermines children's motiv](feedback-praise-reduces-learning.md) (qualifies) |
 | Halpern 2007 | q3 · review · r2 | i? | [Praise for intelligence, rather than for effort, after success undermines children's motiv](feedback-praise-reduces-learning.md) (qualifies) |
-| [Farrokhnia 2026](https://doi.org/10.1186/s41239-026-00579-9) | q3 · causal · r2 | i? | [Feedback quality predicts revision outcomes in the teacher condition but not in the GenAI ](feedback-quality-predicts-revision-only-in-teacher-condition.md) (qualifies) |
+| [Farrokhnia 2026](https://doi.org/10.1186/s41239-026-00579-9) | q3 · causal · r2 | i? | [In one study, feedback quality significantly predicts revised essay quality under teacher ](feedback-quality-predicts-revision-only-in-teacher-condition.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -146,7 +160,7 @@ Open questions: how durable feedback effects are over time, how feedback interac
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — structuring feedback into digestible units keeps it actionable
 - [Clear structure improves learning](clear-structure-improves-learning.md) — well-structured feedback is easier to locate, interpret, and act on
 - [Self-regulated learning](../theories/self-regulated-learning.md) — self-regulation-level feedback aims to make learners their own feedback providers
-- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — adaptive systems operationalize feedback by tailoring responses to learner performance
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — adaptive systems operationalize feedback by tailoring responses to learner performance
 - [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — feedback that surfaces discrepancies between performance and goals can trigger productive disequilibrium
 - [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — a narrower finding that bears on this claim
 - [Feedback Most Effective At Task And Process Levels](feedback-most-effective-at-task-and-process-levels.md) — related
@@ -163,5 +177,3 @@ Open questions: how durable feedback effects are over time, how feedback interac
 - [Feedback type shifts engagement by question type: educator feedback yields more MCQ submissions while AI feedback trends toward more open-ended revisions, with no overall difference](feedback-type-shifts-engagement-by-question-type.md) — a narrower finding that bears on this claim
 - [In the expectations meta-analysis, the amount of feedback agents provided had only a meager relation to performance (r = .07) whereas the climate agents created had a strong one (r = .36)](agent-feedback-amount-weak-climate-strong-performance.md) — related
 - [Feedback is more effective for cognitive and physical outcomes than for motivational and behavioral outcomes](feedback-outcome-measure-moderator-cognitive-physical.md) — a narrower finding that bears on this claim
-- [Feedback interventions improve performance on average with a moderate effect (d = .41), but over 38% of feedback-intervention effects are negative](fi-meta-analysis-mean-d-41-over-38-percent-negative.md) — related
-- [High-information feedback has a very large effect (d = 0.99) while reinforcement/punishment has a low effect (d = 0.24)](high-information-feedback-d099-versus-reinforcement-d024.md) — a narrower finding that bears on this claim

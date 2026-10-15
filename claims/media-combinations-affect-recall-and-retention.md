@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Different media combinations significantly affect the recall and retention of information
+title: In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts
 status: review
 generated:
   by: "claude/unspecified"
@@ -19,10 +19,11 @@ id: media-combinations-affect-recall-and-retention
 evidence_strength: moderate
 ---
 
-# Different media combinations significantly affect the recall and retention of information
+# In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · n=37
+<!-- title before 2026-10-15: Different media combinations significantly affect the recall and retention of information -->
 
 How information is distributed across media channels (e.g., text, images, narration) changes how well learners recall and retain it, in line with the predictions of [Dual Coding Theory](../theories/dual-coding-theory.md).
 
@@ -59,6 +60,6 @@ In an extended in-class experiment, 37 students studied the same content present
 - [People acquire different knowledge from different media, the closest indirect evidence for symbolic encoding specificity](different-media-yield-different-knowledge-encoding.md) — related
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — a narrower finding that bears on this claim
-- [Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally](multimedia-principle-words-and-pictures-outcomes.md) — related
+- [A practice article reports that the studies it cites found better post-test outcomes from words with relevant pictures than from words alone, especially with spoken words](multimedia-principle-words-and-pictures-outcomes.md) — related
 - [The way school information is presented to parents affects how that information is understood, perceived, and used, according to the study behind the guide](school-info-presentation-affects-parent-understanding.md) — related
 - [Audiovisual attention decomposition via forward encoding and variance partitioning yields VAC, AAC, and SAC as surrogate indicators, not direct measures of attention](audiovisual-attention-decomposition-surrogate-indicators.md) — related

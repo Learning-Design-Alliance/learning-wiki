@@ -64,7 +64,7 @@ Independent samples t-test comparing digital distraction between male and female
 ## Related Claims
 - [Clustering of association rules yields four distinct strategy-combination profiles characterizing lower digital distraction](four-clusters-lower-distraction-strategy-profiles.md) — related
 - [Peer-related help-seeking and learner-learner engagement strategies appear less often in profiles of students with lower digital distraction](peer-help-seeking-inversely-associated-lower-distraction.md) — related
-- [Self-regulated learning strategies (goal setting, environment structuring, time management) are the strategies most prominently associated with lower digital distraction among college students in online courses](srl-strategies-associated-lower-digital-distraction.md) — related
+- [In association-rule mining of survey data from 530 college students in online courses, goal setting, environment structuring and time management were the strategies most often associated with lower digital distraction](srl-strategies-associated-lower-digital-distraction.md) — related
 - [Learner-instructor and learner-content engagement strategies are negatively associated with digital distraction in online courses](instructor-content-engagement-associated-lower-distraction.md) — related
 - [Technical confidence using digital learning tools is positively associated with lower distraction levels among online learners](technical-competency-associated-lower-distraction.md) — related
 - [Demographic and contextual variables meaningfully differentiate the four GenAI adoption personas](demographics-differentiate-genai-personas.md) — reports the opposite

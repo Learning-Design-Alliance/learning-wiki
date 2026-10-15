@@ -6,7 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: teacher-student-relationships-improve-engagement
-aliases: [teacher-student-relationships-improve-engagement-and-achievement, learner-centered-teacher-student-relationships-are-effective]
+aliases: [teacher-student-relationships-improve-engagement-and-achievement, learner-centered-teacher-student-relationships-are-effective, teacher-relationships-associated-math-engagement-achievement]
 evidence_strength:
 sources:
   - id: cornelius-white-2007
@@ -27,12 +27,20 @@ sources:
     n: 99 studies
     kind: quant-synthesis
     rigour: "?"
+  - id: fitz-2025
+    resource: "https://doi.org/10.54300/967.472"
+    title: "Fitz, J. (with Price, H.). (2025). Positive conditions for mathematics learning: An overview of the research. Learning Policy Institute. https://doi.org/10.54300/967.472"
+    author: Fitz, J. (with Price, H.)
+    q: 3
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 quant-synthesis `r3` · `q3` · `i2` medium
+> **Evidence** · 3 studies · 2 quant-synthesis `r3`, 1 review `r2` · `q3` · `i2` medium
 <!-- deprecated title (2026-10-05, overstated its evidence): Teacher Student Relationships Improve Engagement -->
 
 Across two meta-analyses of correlational and longitudinal studies, positive, warm teacher–student relationships go with greater student engagement (medium-to-large associations in Roorda et al. 2011) and, more weakly, with achievement, and learner-centered teacher variables correlate with student outcomes at a mean r = .31 (Cornelius-White 2007). The claim concerns relationship *quality* — warmth, trust, and appropriate structure — not mere contact time. Neither synthesis tests whether improving relationships raises engagement or achievement.
@@ -44,6 +52,8 @@ Across two meta-analyses of correlational and longitudinal studies, positive, wa
 `q3 i2` Across 119 studies (355,325 students), learner-centered teacher variables correlate with student outcomes at a mean r = .31, higher for affective and behavioral outcomes than for cognitive ones, with wide variation between studies; the pooled studies are correlational and do not establish direction. [→ Cornelius-White 2007](#cornelius-white-2007)
 
 `q3 i?` In 99 studies from preschool to high school, positive and negative affective teacher–student relationships are associated with engagement at medium-to-large strength and with achievement at small-to-medium strength. The associations are stronger in the higher grades, and some weaken, though they stay significant, after correction for methodological biases. [→ Roorda et al. 2011](#roorda-et-al-2011)
+
+`q3 i?` A meta-analysis of more than 90 PreK–12 studies found medium-to-large associations between positive teacher–student relationships and engagement and small-to-medium associations with achievement, strongest for racial/ethnic minority and lower-income students and for middle/high school students. [→ Fitz 2025](#fitz-2025)
 
 ## Evidence
 
@@ -73,20 +83,31 @@ Roorda, D. L., Koomen, H. M. Y., Spilt, J. L., & Oort, F. J. (2011). The influen
 
 The meta-analysis covers 99 studies of students from preschool to high school and analyses four links separately. Positive relationships and engagement: k = 61, N = 88,417. Negative relationships and engagement: k = 18, N = 5,847. Positive relationships and achievement: k = 61, N = 52,718. Negative relationships and achievement: k = 28, N = 18,944. Relationship quality was more strongly associated with engagement than with achievement. Some associations weakened after correction for methodological biases but stayed significant. Effects were stronger in the higher grades, while negative relationships mattered more in primary than in secondary school. This supports the claim for engagement more strongly than for achievement, and it is also associational evidence rather than a causal test.
 
+### Fitz 2025
+
+Fitz, J. (with Price, H.). (2025). Positive conditions for mathematics learning: An overview of the research. Learning Policy Institute. https://doi.org/10.54300/967.472
+
+`q3 · i?` · `review · r2`
+
+A narrative review reports this meta-analysis of more than 90 PreK–12 articles, finding "significant medium to large associations between positive teacher–student relationships and student engagement" and small-to-medium associations with achievement; no effect sizes are printed.
+
+> "One meta-analysis of more than 90 research articles focused on students in grades PreK–12 found significant medium to large associations between positive teacher–student relationships and student engagement and found small to medium associations with achievement."
+
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does a warm, personal contact with the teacher go with, or raise, students' engagement?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **7 distinct studies** (4 causal, 2 quant-synthesis, 1 review), `q1`–`q4`, 1 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does a warm, personal contact with the teacher go with, or raise, students' engagement?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **8 distinct studies** (4 causal, 2 quant-synthesis, 2 review), `q1`–`q4`, 1 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Cornelius-White 2007](https://doi.org/10.3102/003465430298563) | q3 · quant-synthesis · r3 | i2 · medium association, mean r=.31 | this claim |
 | [Roorda et al. 2011](https://doi.org/10.3102/0034654311421793) | q3 · quant-synthesis · r? | i? | this claim |
+| [Fitz 2025](https://doi.org/10.54300/967.472) | q3 · review · r2 | i? | this claim |
 | [Cook et al. 2018](https://doi.org/10.1177/1098300717753831) | q3 · causal · r2 | i? | [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md) (supports) |
 | [Allday And Pakurar 2007](https://doi.org/10.1901/jaba.2007.86-06) | q1 · causal · r1 | i? | [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md) (supports) |
-| [Okonofua et al. 2016](https://doi.org/10.1073/pnas.1523698113) | q3 · causal · r? | i? | [Brief Intervention Empathic Discipline Cuts Suspensions](brief-intervention-empathic-discipline-cuts-suspensions.md) (qualifies) |
-| [Okonofua et al. 2022](https://doi.org/10.1126/sciadv.abj0691) | q4 · causal · r3 | i? | [Brief Intervention Empathic Discipline Cuts Suspensions](brief-intervention-empathic-discipline-cuts-suspensions.md) (qualifies) |
-| [Hernández 2022](https://doi.org/10.54300/165.102) | q3 · review · r2 | i? | [Brief Intervention Empathic Discipline Cuts Suspensions](brief-intervention-empathic-discipline-cuts-suspensions.md) (qualifies) |
+| [Okonofua et al. 2016](https://doi.org/10.1073/pnas.1523698113) | q3 · causal · r? | i? | [A brief online empathic-discipline exercise for teachers halved suspensions in one randomi](brief-intervention-empathic-discipline-cuts-suspensions.md) (qualifies) |
+| [Okonofua et al. 2022](https://doi.org/10.1126/sciadv.abj0691) | q4 · causal · r3 | i? | [A brief online empathic-discipline exercise for teachers halved suspensions in one randomi](brief-intervention-empathic-discipline-cuts-suspensions.md) (qualifies) |
+| [Hernández 2022](https://doi.org/10.54300/165.102) | q3 · review · r2 | i? | [A brief online empathic-discipline exercise for teachers halved suspensions in one randomi](brief-intervention-empathic-discipline-cuts-suspensions.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -135,7 +156,7 @@ The meta-analysis covers 99 studies of students from preschool to high school an
 - [The study's correlational, cross-sectional design limits internal validity and causal interpretation](correlational-design-limits-epistemic-freedom-study.md) — related
 - [Positive teacher-student relationships fulfill relatedness needs and support internalization of learning](relatedness-care-support-internalization.md) — related
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — feedback practices are a relational channel through which teachers sustain engagement
-- [National Board certification identifies teachers who are more expert and whose students achieve deeper learning](board-certification-identifies-more-expert-teachers.md) — related
+- [An ERIC digest reports that a 2000 validity study gave strong initial evidence that National Board certification identifies teachers who are more expert and whose students learn more deeply](board-certification-identifies-more-expert-teachers.md) — related
 - [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md) — related
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — related
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
@@ -156,5 +177,4 @@ The meta-analysis covers 99 studies of students from preschool to high school an
 - [Teacher support is one of the strongest predictors of student belonging](teacher-support-predicts-student-belonging.md) — related
 - [The paper reports that culturally responsive pedagogies are associated with more student engagement, agency, and responsibility for seeking information](crse-pedagogies-engagement-agency-claim.md) — related
 - [Positive teacher–student relationships relate to math outcomes through self-efficacy, intrinsic motivation, belonging, engagement, and mathematics identity](relationships-pathways-self-efficacy-motivation-identity.md) — a narrower finding that bears on this claim
-- [Positive teacher–student relationships are associated with higher student engagement and math achievement, with stronger associations for minority, lower-income, and secondary students](teacher-relationships-associated-math-engagement-achievement.md) — possibly the same claim (merge candidate)
 - [Subject-matter-centered reform that ignores climate may raise achievement scores while increasing dropout rates](subject-centered-reform-dropout-risk.md) — related

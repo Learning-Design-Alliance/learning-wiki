@@ -56,7 +56,7 @@ Qualitative analysis of fall 2023 interviews with 36 district leaders, school le
 - [Equity commitments in technology adoption face ongoing constraints from infrastructure, funding, and organizational capacity](equity-commitments-constrained-infrastructure-capacity.md) — related
 - [LEAs most frequently used short-term behavioral health funds to expand internal staffing and direct services rather than partnerships and structural investments](short-term-funds-favor-internal-staffing.md) — related
 - [Principals actively engaged in prioritizing math at their sites were more likely to organize teacher learning time and involve coaches](engaged-principals-prioritize-teacher-math-learning.md) — related
-- [Authentic family–school partnerships positively impact student achievement, but persist without staff training and coaching](family-school-partnerships-need-staff-capacity.md) — related
+- [A field guide asserts that authentic family–school partnerships benefit student achievement and argues that without staff training and coaching the school–family divide persists](family-school-partnerships-need-staff-capacity.md) — related
 - [Two-way, genuine district-teacher communication is associated with more effective TPE implementation](two-way-communication-supports-tpe-implementation.md) — related
 - [Staff and students in three California schools describe collaboration among leaders, teachers and students as improving buy-in and creating student leadership opportunities](collaboration-buy-in-student-leadership.md) — related
 - [Teachers reported that integrated community school supports allowed them to prioritize student-centered learning opportunities](integrated-supports-let-teachers-focus-on-learning.md) — related

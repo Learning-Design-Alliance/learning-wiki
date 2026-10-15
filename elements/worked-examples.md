@@ -13,7 +13,7 @@ generated:
 # Worked Examples
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (9 for, 6 mixed) · 24 studies (12 causal, 4 quant-synthesis, 4 theoretical, 3 review, 1 associational), `q1`–`q4` · 4 of 24 report an effect size · 6 claims rest on one study
+> **Evidence** · 14 claims (8 for, 6 mixed) · 24 studies (12 causal, 4 quant-synthesis, 4 theoretical, 3 review, 1 associational), `q1`–`q4` · 4 of 24 report an effect size · 5 claims rest on one study
 
 ## Description
 Worked examples are the element in which learners study complete or partial solutions before attempting similar problems independently.
@@ -38,7 +38,6 @@ Worked examples are the element in which learners study complete or partial solu
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Sequencing worked examples with practice problems improves learning for novices](../claims/worked-example-problem-sequences.md) [+W]
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+W]
-- [Example-problem sequences reduce cognitive load and improve learning outcomes.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+W]
 - [Studying worked examples improves novices' algebra performance on problems with the same structure as the examples](../claims/worked-examples-improve-math-performance.md) [+M]
 - [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+M]
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S]

@@ -38,7 +38,7 @@ Structured activities convert reading from passive reception into generative pro
 - **Guided reading questions** distributed through the text, answered as the learner reads
 - **Reading + response**: text followed by short written application or reflection, submitted before class
 - **Text + self-explanation prompts**: embedded prompts asking learners to explain why a claim holds or how an example illustrates a principle [Self-explanation improves conceptual understanding when learners articulate how examples relate to underlying principles.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
-- **Text + problem set**: reading paired with problems that require applying what was read, in [example-problem pairs](../claims/example-problem-sequences-reduce-cognitive-load.md)
+- **Text + problem set**: reading paired with problems that require applying what was read, in [example-problem pairs](../claims/worked-example-problem-sequences.md)
 - **Annotated reading**: learners mark and comment on the text itself, using [Annotating](../principles/annotating.md) tools such as Perusall or Hypothesis
 
 ### Target Learners

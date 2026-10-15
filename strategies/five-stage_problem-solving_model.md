@@ -32,7 +32,7 @@ The model's value lies in converting problem solving from an unstructured search
 - Rigid application can become a bureaucratic checklist; learners who follow the stages mechanically without genuine restatement or evaluation gain little [-W]
 - Less effective for well-structured, algorithmic tasks where a direct procedure exists — the cycle adds [cognitive load](../theories/cognitive-load-theory.md) without payoff [~M]
 - Requires sustained learner engagement in self-assessment; adolescents and novices often skip or shallowly complete Stages 2 and 5 without accountability structures [-W]
-- For novices in high-element-interactivity domains, open exploration during Stage 3 can induce overload; pairing with worked examples first mitigates this [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+- For novices in high-element-interactivity domains, open exploration during Stage 3 can induce overload; pairing with worked examples first mitigates this [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-example-problem-sequences.md) [+M]
 
 #### Implementation Variability
 - Adapt stage names and prompts to domain: IDEAL (Identify, Define, Explore, Act, Look) in general problem solving; understand–plan–solve–check in mathematics

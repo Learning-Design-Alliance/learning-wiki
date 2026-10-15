@@ -13,14 +13,14 @@ generated:
 # Transfer Tasks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (6 for, 3 mixed, 1 against) · 12 studies (6 causal, 2 quant-synthesis, 1 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 2 of 12 report an effect size · 5 claims rest on one study
+> **Evidence** · 9 claims (5 for, 3 mixed, 1 against) · 12 studies (6 causal, 2 quant-synthesis, 1 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 2 of 12 report an effect size · 5 claims rest on one study
 
 ## Description
 A transfer task asks learners to apply what they have learned to a new problem, context, or situation that differs in surface features from the original instruction. It functions both as an assessment of whether learning is flexible rather than rote and as an instructional event that itself deepens abstraction of the underlying principle.
 
 ## Design Implications
 
-Transfer tasks are the primary way to verify and build far transfer, since performance on near-identical problems overstates learning [Analogical reasoning supports transfer to novel contexts.](../claims/analogical-reasoning-improves-transfer.md) [+M]. Effective transfer tasks vary surface features while preserving deep structure, forcing learners to abstract the principle rather than memorize the procedure. Comparing multiple cases that share structure but differ in context improves both learning and transfer [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+S], and encountering the same concept across varied contexts builds the flexible representations transfer requires [Cognitive flexibility theory prescribes multiple representations across cases.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M].
+Transfer tasks are the primary way to verify and build far transfer, since performance on near-identical problems overstates learning [Analogical reasoning supports transfer to novel contexts.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Effective transfer tasks vary surface features while preserving deep structure, forcing learners to abstract the principle rather than memorize the procedure. Comparing multiple cases that share structure but differ in context improves both learning and transfer [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+S], and encountering the same concept across varied contexts builds the flexible representations transfer requires [Cognitive flexibility theory prescribes multiple representations across cases.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M].
 
 ### Context
 #### Requirements
@@ -32,7 +32,7 @@ Transfer tasks are the primary way to verify and build far transfer, since perfo
 #### Constraints
 - Transfer fails when learners encode knowledge tied to a single context; instruction in one exemplar format produces poor far transfer [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [-S]
 - Unsupported transfer tasks overload novices, who lack the schemas to bridge the gap between instruction and the novel problem [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-S] — transfer tasks for novices need scaffolds or faded support
-- Learners frequently fail to spontaneously retrieve relevant prior knowledge; without an activation prompt or analogy cue, they treat the new problem as unrelated [Analogical reasoning supports transfer to novel contexts.](../claims/analogical-reasoning-improves-transfer.md) [~M]
+- Learners frequently fail to spontaneously retrieve relevant prior knowledge; without an activation prompt or analogy cue, they treat the new problem as unrelated [Analogical reasoning supports transfer to novel contexts.](../claims/comparing-contrasting-cases-improves-learning.md) [~M]
 - Transfer tasks are poor initial instruction — they assess or consolidate, but cannot substitute for building the schema first
 
 ### Target Learners

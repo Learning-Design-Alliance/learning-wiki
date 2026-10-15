@@ -39,7 +39,7 @@ The article describes SDT's motivational spectrum as a fine-grained alternative 
 
 - [In SDT, autonomy is not synonymous with independence nor the opposite of dependence](../claims/autonomy-not-synonymous-with-independence.md) [+W]
 - [Autonomy-supportive teaching contrasts with controlling teaching, and controlled students do poorly compared to autonomous students](../claims/autonomy-support-versus-controlling-teaching.md) [+W]
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
 - [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](../claims/extrinsic-rewards-undermine-intrinsic-motivation-argument.md) [+W]
 
 ## Related Theories

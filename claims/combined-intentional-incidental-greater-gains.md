@@ -37,10 +37,11 @@ Zou, F., & Yan, X. (2019). Incidental English Vocabulary Acquisition Through Rea
 
 The review describes Guo's (2010) study in which "Ninety-three students were assigned to two groups" using texts with 26 target words, vocabulary exercises for the experimental group, and vocabulary and writing tests; the combined condition achieved greater gains and better retention. No effect size is printed.
 
-> "The study  showed that both incidental learning and intentional learning result in significant gains in learners' vocabulary knowledge, but the combination of the incidental and intentional learning instruction achieves greater vocabulary gains and better retention."
+> "The study showed that both incidental learning and intentional learning result in significant gains in learners' vocabulary knowledge, but the combination of the incidental and intentional learning instruction achieves greater vocabulary gains and better retention."
 
 ## Discussion
 
+The design is known here only through the review's one-paragraph account, and that account does not fit together: it says "Ninety-three students were assigned to two groups", with vocabulary exercises for the experimental group, yet reports results for incidental, intentional and combined instruction. How a combined condition was formed from two groups cannot be read from the review, so the comparison with "either mode alone" rests on its summary rather than on a design this page can describe.
 
 ## Related Claims
 - [Intentional vocabulary learning yields higher, faster gains and better retention than incidental learning through reading](intentional-beats-incidental-vocabulary-gains.md) — compares the two modes singly, with no combined condition, so it does not contradict this

@@ -41,7 +41,7 @@ A staff development program combining mastery learning principles with research-
 
 - [Greatest declines in off-task behavior occurred in classrooms whose teachers initially faced the highest off-task rates](../claims/largest-off-task-declines-in-high-baseline-classrooms.md) [+W]
 - [Mastery learning implementation did not reduce material covered or instructional pace, contradicting the Robin Hood contention](../claims/mastery-learning-did-not-slow-pace-or-scope.md) [+W]
-- [Student off-task behavior declined markedly in trained teachers' classrooms, with adjusted post means differing significantly beyond the .001 level](../claims/off-task-behavior-declines-after-training.md) [+W]
+- [Student off-task behavior is lower in trained teachers' classrooms than in control classrooms after adjusting for baseline off-task rates](../claims/off-task-behavior-declines-after-training.md) [+W]
 - [Trained teachers reallocated time unevenly: significantly more to presenting/developing lessons and quizzes, less to homework review, independent practice, and transitions](../claims/time-reallocated-across-instructional-functions.md) [+W]
 - [Trained teachers allocated about 20 percent of class time to the feedback-corrective/enrichment loop after staff development, having devoted virtually none before](../claims/training-increases-feedback-corrective-loop-time.md) [+W]
 

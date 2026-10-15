@@ -1,7 +1,7 @@
 ---
 type: claim
-title: AWE tools can enhance organization of writing, overall writing quality, and encourage self-directed learning
-description: AWE tools can enhance organization of writing, overall writing quality, and encourage self-directed learning
+title: "A review of 50 studies reports that AWE tools can improve the organization and overall quality of writing and encourage self-directed learning"
+description: A review of 50 studies reports that AWE tools can improve the organization and overall quality of writing and encourage self-directed learning
 id: awe-enhance-organization-quality-self-directed-learning
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# AWE tools can enhance organization of writing, overall writing quality, and encourage self-directed learning
+# A review of 50 studies reports that AWE tools can improve the organization and overall quality of writing and encourage self-directed learning
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+<!-- title before 2026-10-15: AWE tools can enhance organization of writing, overall writing quality, and encourage self-directed learning -->
 
 ## Subclaims
 `q3 i?` The review finds AWE tools can enhance the organization of writing and overall writing quality while also encouraging self-directed learning. [→ Gres 2026](#gres-2026)
@@ -46,5 +47,5 @@ Thematic synthesis within the same systematic review of 50 empirical studies (20
 - [AWE tools such as Grammarly, Quillbot and DeepL Write significantly improve writing precision, fluency and grammatical proficiency through immediate and customized feedback](awe-improve-precision-fluency-grammatical-proficiency.md) — related
 - [AWE feedback has limited depth and questionable accuracy for evaluating complex writing aspects](awe-limited-feedback-depth-accuracy-complex-writing.md) — related
 - [Overreliance on AWE may lower learners' critical thinking and creativity](awe-overreliance-lowers-critical-thinking-creativity.md) — related
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Review reports that asking students to notice particular errors decreased errors in a subsequent draft without reducing overall writing quality (Chandler)](noticing-errors-decreases-errors-preserves-quality.md) — related

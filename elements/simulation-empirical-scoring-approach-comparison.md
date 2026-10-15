@@ -17,7 +17,7 @@ sources:
 # Simulation and empirical comparison of scoring approaches for longitudinal survey growth estimation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 associational), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A methodological artifact consisting of a series of simulation and empirical studies in which scores were produced "in a single-cohort repeated measure design using sum scores as well as multiple IRT approaches" and the recovery of growth estimates from longitudinal growth models was compared across scoring sets. It serves as evidence for the relative performance of multidimensional IRT scoring over sum scores.
@@ -40,7 +40,6 @@ A methodological artifact consisting of a series of simulation and empirical stu
 
 - [Multidimensional IRT scores that account for latent variable covariances over time produce better recovery of growth parameters in longitudinal growth models than sum scores and other IRT approaches](../claims/multidimensional-irt-covariance-scores-better-growth-recovery.md) [+W]
 - [The effect of response styles on growth estimates varies by psychological construct, response style, and IRT model used](../claims/response-style-growth-effects-vary-by-construct-and-model.md) [+W]
-- [Response styles can affect estimates of growth parameters, including the slope, on social-emotional survey constructs](../claims/response-styles-affect-growth-parameter-estimates.md) [+W]
 
 ## Related Elements
 

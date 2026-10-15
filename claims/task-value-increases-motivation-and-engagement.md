@@ -64,7 +64,7 @@ Wigfield and Cambria synthesize research on achievement values, goal orientation
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does seeing a task as interesting, important or useful raise the effort learners invest in it?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (3 review, 1 associational), `q1`–`q3`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does seeing a task as interesting, important or useful raise the effort learners invest in it?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **6 distinct studies** (3 review, 2 qualitative, 1 associational), `q1`–`q3`, 0 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -72,6 +72,8 @@ Wigfield and Cambria synthesize research on achievement values, goal orientation
 | [Wigfield Cambria 2010](https://doi.org/10.1016/j.dr.2009.12.001) | q3 · review · r? | i? | this claim |
 | Small 1997 | q1 · review · r2 | i? | [Instruction should present the learning task as engaging and meaningful and promote positi](effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) (supports) |
 | [Takahashi 2020](https://doi.org/10.14746/ssllt.2020.10.4.2) | q2 · associational · r2 | i? | [Within SDT, intrinsic motivation predicts intended effort most strongly, followed by ident](sdt-path-strengths-effort.md) (supports) |
+| [Miller & Li 2026](https://doi.org/10.1080/10508406.2025.2557896) | q2 · qualitative · r2 | i? | [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) (supports) |
+| [Hilppö & Stevens 2024](https://doi.org/10.1080/07370008.2024.2386956) | q2 · qualitative · r3 | i? | [In one extreme case, two sixth-graders with a choice-rich, ungraded STEAM infrastructure e](choice-rich-infrastructure-supports-productive-deviation-and-learning.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -83,7 +85,7 @@ Utility value is actionable through explicit framing: studies show that simply a
 Intrinsic interest is less reliably shapeable in the short term than utility value, but situational interest — triggered by novelty, social context, or surprising information — can serve as a bridge to deeper individual interest over time. See Hidi & Renninger's four-phase model of interest development.
 
 ## Related Claims
-- [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — intrinsic value and autonomous motivation often co-occur: tasks learners find interesting are also those they pursue for internal reasons
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — intrinsic value and autonomous motivation often co-occur: tasks learners find interesting are also those they pursue for internal reasons
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — expectancy-value theory explicitly pairs expectancy (self-efficacy) with task value; both are needed to predict effort investment
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](specific-difficult-goals-lead-to-higher-performance.md) — task value provides the motivation to commit to challenging goals; goal commitment is low when value is low regardless of goal specificity
 - [Co-design tools for standards analysis, student-interest data, and launch rehearsal support balancing standards alignment with student interests](co-design-tools-support-balancing-standards-and-student-interests.md) — related
@@ -122,7 +124,7 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 - [IPS implemented with adult support and regular review may increase students’ academic engagement, agency, career-relevant knowledge and skills, and college/career drive](ips-with-adult-support-and-review-associated-outcomes.md) — a narrower finding that bears on this claim
 - [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](personalized-problem-contexts-boost-engagement-grades-4-8.md) — a narrower finding that bears on this claim
 - [Project-based and experiential learning approaches are reported as most effective for AI literacy education, and early exposure enhances learners' self-efficacy](early-exposure-enhances-ai-self-efficacy.md) — related
-- [Four academic mindsets — belonging, growth beliefs, self-efficacy, and value — increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — related
+- [A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — related
 - [The review reports that connecting possible selves to concrete strategies is an essential precursor to positive behavior, beyond merely holding possible selves](possible-selves-require-concrete-strategies-for-behavior.md) — related
 - [Authentic, challenging projects in the Learning Studio developed students' self-efficacy for future careers](authentic-projects-build-career-self-efficacy.md) — a narrower finding that bears on this claim
 - [Developing a common understanding of expected learning helps all students succeed, not only those with school-aligned prior knowledge](shared-understanding-expected-learning-helps-all-students.md) — related

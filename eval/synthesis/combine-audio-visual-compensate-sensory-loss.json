@@ -1,0 +1,64 @@
+{
+  "principle": "principles/combine-audio-visual-compensate-sensory-loss",
+  "note": "Wave 12 (2026-10-15). Groupings and directions by an agent that read every member claim in full. No member was tested with older learners or learners with a hearing or vision loss; the spoken-written members all rest on Adesope & Nesbit (2012), the captioning member on Noetel et al. (2022) reporting Montero Perez et al. (2013), and the bimodal member on Darcy (2018) reporting Charles & Trenkic (2015). The hub is also the hub of this question in the redundancy, multimedia-learning and text-to-speech specs; members here are already in those lists except bimodal-captioned-input-improves-segmentation.",
+  "findings": [
+    {
+      "hub": "redundancy-hurts-learning",
+      "question": "Without a competing picture, do the same words spoken and written help or hurt, and for whom?",
+      "members": [
+        [
+          "verbal-redundancy-small-overall-effect",
+          "-"
+        ],
+        [
+          "spoken-written-beats-spoken-only-not-written-only",
+          "~"
+        ],
+        [
+          "reader-fluency-prior-knowledge-moderate-redundancy",
+          "~"
+        ],
+        [
+          "system-paced-moderates-verbal-redundancy",
+          "~"
+        ],
+        [
+          "segmentation-moderates-verbal-redundancy",
+          "~"
+        ],
+        [
+          "outcome-constructs-test-formats-moderate-redundancy",
+          "~"
+        ],
+        [
+          "captioning-second-language-videos-large-benefits",
+          "~"
+        ],
+        [
+          "redundancy-principle",
+          "+"
+        ],
+        [
+          "images-animation-eliminate-redundancy-benefit",
+          "~"
+        ],
+        [
+          "redundancy-effect-not-significant-middle-school",
+          "~"
+        ],
+        [
+          "redundant-text-no-effect-posterior-probability-lesson",
+          "~"
+        ],
+        [
+          "redundancy-principle-mayer-2008",
+          "+"
+        ],
+        [
+          "bimodal-captioned-input-improves-segmentation",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

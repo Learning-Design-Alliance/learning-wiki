@@ -62,12 +62,13 @@ This meta-analysis synthesised 45 correlations from 26 second-language studies (
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does a taught word need repeated, spaced encounters before it is known and kept?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **5 distinct studies** (2 quant-synthesis, 2 causal, 1 review), `q2`–`q3`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does a taught word need repeated, spaced encounters before it is known and kept?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **6 distinct studies** (2 quant-synthesis, 2 review, 2 causal), `q2`–`q3`, 1 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Swanborn & de Glopper 1999](https://doi.org/10.3102/00346543069003261) | q3 · quant-synthesis · r? | i? | this claim |
-| [Uchihara et al. 2019](https://doi.org/10.1111/lang.12343) | q3 · quant-synthesis · r? | i2 · medium effect, r=.34 | this claim |
+| [Uchihara et al. 2019](https://doi.org/10.1111/lang.12343) | q3 · quant-synthesis · r? | i2 · medium effect, r=.34 | this claim; [The more often learners meet a word while reading, the more likely they are to learn it in](exposure-frequency-predicts-incidental-gains.md) (supports) |
+| [Zou 2019](https://doi.org/10.5539/elt.v12n12p39) | q2 · review · r2 | i? | [The more often learners meet a word while reading, the more likely they are to learn it in](exposure-frequency-predicts-incidental-gains.md) (supports); [Incidental vocabulary gains show retention problems, with losses over time moderated by fe](incidental-vocabulary-retention-problems.md) (qualifies) |
 | [Evgeny Chukharev-Hudilainen and Tatiana A. Klepikova 2016](https://doi.org/10.1558/cj.v33i3.26055) | q3 · causal · r2 | i? | [Supplemental computer-based spaced repetition activities nearly triple long-term vocabular](spaced-repetition-supplement-triples-vocabulary-retention.md) (supports) |
 | [Carpenter 2022](https://doi.org/10.1038/s44159-022-00089-1) | q2 · review · r? | i? | [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign](spaced-retrieval-multiyear-vocabulary-retention.md) (supports) |
 | [Restrepo Ramos 2015](https://doi.org/10.15446/profile.v17n1.43957) | q2 · causal · r1 | i? | [Task-essentialness and productive use of new words in goal-directed activity may positivel](task-essentialness-goal-directed-vocabulary-retention.md) (qualifies) |

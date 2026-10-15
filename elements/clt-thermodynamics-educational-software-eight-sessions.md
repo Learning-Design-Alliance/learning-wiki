@@ -42,7 +42,7 @@ A desktop-based, guided learning module of eight sessions covering the thermodyn
 ## Claims
 
 - [The CLT-based design produced higher effective learning scores at retention and transfer, while achievement effective learning scores were nearly equal between groups](../claims/clt-design-effective-learning-retention-transfer.md) [+W]
-- [A CLT-based instructional design yields significantly higher retention and transfer scores than lecturer-designed instruction in thermodynamics, controlling for prior knowledge and memory span](../claims/clt-instructional-design-raises-retention-transfer-thermodynamics.md) [+W]
+- [In one study of 37 thermodynamics freshmen, a CLT-based instructional design yields higher retention and transfer scores than lecturer-designed instruction, controlling for prior knowledge and memory span](../claims/clt-instructional-design-raises-retention-transfer-thermodynamics.md) [+W]
 - [No significant difference between groups on the thermodynamics achievement post-test or cognitive load scale after CLT-based versus lecturer-designed instruction](../claims/no-group-difference-tat-posttest-cls.md) [~W]
 
 ## Related Elements

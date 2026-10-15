@@ -19,7 +19,7 @@ Learner-generated examples ask students to produce their own instances of a conc
 
 ## Design Implications
 
-Generation is a form of retrieval and elaboration: producing an example forces learners to reconstruct the concept from memory and apply it, which produces more durable learning than rereading or recognizing instructor-provided instances [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The quality of the generated example is diagnostic — a weak or wrong example reveals an incomplete concept and creates a natural opening for feedback and discussion. Because generation adds working-memory demands, it works best after learners have at least a minimal grasp of the concept; asking novices to generate examples before any instruction can overload them [Example-problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M].
+Generation is a form of retrieval and elaboration: producing an example forces learners to reconstruct the concept from memory and apply it, which produces more durable learning than rereading or recognizing instructor-provided instances [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The quality of the generated example is diagnostic — a weak or wrong example reveals an incomplete concept and creates a natural opening for feedback and discussion. Because generation adds working-memory demands, it works best after learners have at least a minimal grasp of the concept; asking novices to generate examples before any instruction can overload them [Example-problem sequences reduce cognitive load.](../claims/worked-example-problem-sequences.md) [~M].
 
 ### Context
 #### Requirements
@@ -44,7 +44,7 @@ Generation is a form of retrieval and elaboration: producing an example forces l
 ### Target Learners
 - Learners with moderate prior knowledge who can retrieve the concept but need to consolidate and refine it [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - Learners prone to illusions of understanding from fluent reading of provided examples — generation exposes what they cannot yet do
-- Less suitable for complete novices, who lack the knowledge base to produce valid instances [Example-problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M]
+- Less suitable for complete novices, who lack the knowledge base to produce valid instances [Example-problem sequences reduce cognitive load.](../claims/worked-example-problem-sequences.md) [~M]
 
 ### Target Learning Goals
 - Concept formation and refinement: sharpening defining features and boundary cases

@@ -43,7 +43,7 @@ Three-level Likert attitude survey (8 items, N=146) administered face-to-face to
 
 
 ## Related Claims
-- [Students in the flexible hypertext-based course design scored higher on achievement tests (76%) than students in the direct online course design (59%)](cft-hypertext-design-higher-achievement-scores.md) — related
+- [A flexible hypertext course group averaged 76% on achievement tests against 59% for a direct-design group that studied different software, so the contrast confounds design with content](cft-hypertext-design-higher-achievement-scores.md) — related
 - [Experimental-group students accessed the online course and learning activities more frequently (6.38 and 7.92) than control-group students (2.67 and 6.05)](cft-hypertext-design-higher-access-rates.md) — related
 - [More experimental-group answers achieved 100% accuracy on achievement tests (23) than control-group answers (13)](cft-hypertext-design-more-perfect-scores.md) — related
 - [The experimental group answered achievement tests faster (6.18 minutes) than the control group (7.51 minutes)](cft-hypertext-design-faster-test-completion.md) — related

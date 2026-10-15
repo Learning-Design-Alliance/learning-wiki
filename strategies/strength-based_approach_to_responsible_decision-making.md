@@ -13,7 +13,7 @@ generated:
 # Strength-Based Approach to Responsible Decision-Making
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 13 studies (4 quant-synthesis, 4 review, 3 causal, 2 theoretical), `q1`–`q4` · 4 of 13 report an effect size
+> **Evidence** · 6 claims (6 for) · 14 studies (4 causal, 4 quant-synthesis, 4 review, 2 theoretical), `q1`–`q4` · 4 of 14 report an effect size
 
 ## Description
 This approach begins by identifying what a student already does well — socially, cognitively, or dispositionally — and using those strengths as entry points for developing responsible decision-making skills (the CASEL competency covering ethical reasoning, evaluating consequences, and making constructive choices). Rather than remediating deficits directly, the educator designs tasks and scenarios in which the student's strength carries the load while the weaker decision-making skill is practiced in a supported role.
@@ -61,7 +61,7 @@ Strength-based framing draws on positive psychology, which holds that building o
 ### Target Learning Goals
 - Responsible decision-making: evaluating consequences, ethical reasoning, and self-correction in social situations
 - Self-awareness: recognizing one's own strengths and how they bear on choices
-- Transfer: applying a familiar strength to unfamiliar decision contexts [Analogical reasoning improves transfer when learners map structure across cases.](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- Transfer: applying a familiar strength to unfamiliar decision contexts [Analogical reasoning improves transfer when learners map structure across cases.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Responsible decision-making: analyzing situations, generating options, weighing consequences
 - Ethical reasoning and perspective-taking ([Building Empathy](../principles/building-empathy.md))
 - Transfer of social-emotional competencies to academic and civic contexts [Durlak et al. (2011) meta-analysis found SEL programs improved behavior and attitudes.](https://doi.org/10.1111/j.1467-8624.2010.01564.x) [+S]

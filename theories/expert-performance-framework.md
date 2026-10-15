@@ -42,7 +42,7 @@ The expert-performance approach studies objectively measurable, reproducibly sup
 - [Expert performers counteract automaticity by building increasingly complex mental representations, unlike everyday skill learning](../claims/experts-counteract-automaticity-mental-representations.md) [+W]
 - [Historical increases in peak performance contradict fixed innate upper limits](../claims/historical-improvements-reject-immutable-limits.md) [+W]
 - [Heritability of everyday abilities cannot be extrapolated to expert performance; twins almost never reach elite levels](../claims/no-heritability-extrapolation-to-expert-performance.md) [+W]
-- [Relative-age effects, not innate talent, bias selection into elite youth sports](../claims/relative-age-effect-talent-selection-bias.md) [+W]
+- [A review reports that relative-age effects tied to cohort cutoff dates bias selection into elite youth soccer and hockey](../claims/relative-age-effect-talent-selection-bias.md) [+W]
 
 ## Related Theories
 

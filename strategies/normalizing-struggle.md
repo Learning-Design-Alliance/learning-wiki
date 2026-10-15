@@ -46,7 +46,7 @@ Struggle supports learning only when it is *productive* — learners grapple wit
 - Learners with low prior knowledge may lack the resources to generate any productive attempt, making pure struggle tasks ineffective for them
 - If assessment and grading still reward error-free performance, normative messaging about struggle will be discounted — culture and evaluation must align
 - Struggle framing can backfire for students who interpret it as confirmation that the class is "not for them" unless belonging is also addressed [Brief belonging interventions improve outcomes for marginalized students.](../claims/belonging-interventions-improve-outcomes.md) [~M]
-- Struggle without adequate prior knowledge or scaffolding produces frustration and disengagement, not resilience — the benefit of difficulty reverses for novices on high-load tasks [Example-problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M]
+- Struggle without adequate prior knowledge or scaffolding produces frustration and disengagement, not resilience — the benefit of difficulty reverses for novices on high-load tasks [Example-problem sequences reduce cognitive load.](../claims/worked-example-problem-sequences.md) [~M]
 - Effort-focused praise can backfire when learners then attribute failure purely to insufficient effort, or when praise is perceived as low expectations [~M]
 - In high-stakes, grade-dominated environments, students may publicly endorse struggle norms while privately avoiding risk; assessment practices must align with the message
 - Normalizing error does not by itself improve learning — errors must be examined and corrected, or they can be rehearsed and retained [~S]
@@ -214,7 +214,7 @@ Struggle is productive only when learners have the resources to work through it;
 - Teacher modeling of one's own errors and recovery strategies
 
 #### Constraints
-- Struggle without adequate prior knowledge or scaffolding produces frustration and disengagement, not resilience — the benefit of difficulty reverses for novices on high-load tasks [Example-problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M]
+- Struggle without adequate prior knowledge or scaffolding produces frustration and disengagement, not resilience — the benefit of difficulty reverses for novices on high-load tasks [Example-problem sequences reduce cognitive load.](../claims/worked-example-problem-sequences.md) [~M]
 - Effort-focused praise can backfire when learners then attribute failure purely to insufficient effort, or when praise is perceived as low expectations [~M]
 - In high-stakes, grade-dominated environments, students may publicly endorse struggle norms while privately avoiding risk; assessment practices must align with the message
 - Normalizing error does not by itself improve learning — errors must be examined and corrected, or they can be rehearsed and retained [~S]

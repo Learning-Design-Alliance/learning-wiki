@@ -20,7 +20,7 @@ grain_size: unit
 # Self-Regulated Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 27 claims (14 for, 13 mixed) · 26 studies (8 causal, 6 quant-synthesis, 5 theoretical, 4 review, 3 associational), `q1`–`q4` · 8 of 26 report an effect size · 20 claims rest on one study
+> **Evidence** · 27 claims (14 for, 13 mixed) · 26 studies (8 causal, 6 quant-synthesis, 5 theoretical, 4 review, 3 associational), `q1`–`q4` · 7 of 26 report an effect size · 20 claims rest on one study
 
 ## Description and scope
 
@@ -92,7 +92,7 @@ Ask for three facts when the brief omits them: **the setting** (taught classroom
 <!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
-- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — not settled: the text available could not confirm the entries (abstract)
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Compliance with MetaTutor's summarize, stay-on-subgoal, move-to-next-subgoal, and open-diagram prompts shows no significant effect on learning gains](../claims/no-learning-effect-for-four-explicit-srl-prompts.md) [~W] — attached 2026-10-07 from Lallé et al. (2017), which proposed "Two-category taxonomy of SRL prompts by how compliance can be evaluated: explicit vs inferred compliance prompts"; tests this page's relationship.
 - [Higher compliance with MetaTutor's review-notes prompt is associated with larger proportional learning gains](../claims/review-notes-compliance-predicts-learning-gains.md) [+W] — attached 2026-10-07 from Lallé et al. (2017), which proposed "Two-category taxonomy of SRL prompts by how compliance can be evaluated: explicit vs inferred compliance prompts"; tests this page's relationship.
 - [Higher compliance with MetaTutor's revise-summary prompt is associated with larger proportional learning gains](../claims/revise-summary-compliance-predicts-learning-gains.md) [+W] — attached 2026-10-07 from Lallé et al. (2017), which proposed "Two-category taxonomy of SRL prompts by how compliance can be evaluated: explicit vs inferred compliance prompts"; tests this page's relationship.

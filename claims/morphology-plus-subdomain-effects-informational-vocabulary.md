@@ -45,6 +45,6 @@ Subdomain results from the same quasi-experimental study of 206 third-grade stud
 ## Related Claims
 - [Third-grade students whose teachers implemented IMSE's Morphology+ scored significantly higher on NWEA MAP Growth Reading than comparison students (effect size +0.05)](morphology-plus-significant-reading-gain-third-grade.md) — a broader claim this one bears on
 - [Morphological Instruction Improves Vocabulary](morphological-instruction-improves-vocabulary.md) — related
-- [Morphological Instruction Improves Literacy](morphological-instruction-improves-literacy.md) — a broader claim this one bears on
+- [Morphological instruction improves word-level literacy outcomes (decoding, spelling, vocabulary, morphological knowledge) but shows no reliable effect on reading comprehension](morphological-instruction-improves-literacy.md) — a broader claim this one bears on
 - [VIP shows no statistically significant or substantively important impacts on PPVT-R and Morphology outcomes for English language learners](vip-null-ppvt-morphology-impacts.md) — related
-- [Effect of explicit morphology instruction is larger on morphological awareness (MGR 1.28) than on reading comprehension (MGR 1.06, below the accepted 1.2 minimum)](emi-effect-size-larger-for-awareness-than-comprehension.md) — related
+- [Within the explicit morphology instruction group, the pre-to-post gain ratio was above Blake's 1.2 minimum for morphological awareness (1.28) and below it for reading comprehension (1.06)](emi-effect-size-larger-for-awareness-than-comprehension.md) — related

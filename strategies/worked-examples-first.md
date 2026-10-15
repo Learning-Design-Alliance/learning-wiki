@@ -71,7 +71,7 @@ For novices, unguided problem solving forces working memory to be spent on searc
 - For learners with substantial prior knowledge, worked examples impose redundancy and slow learning relative to problem solving [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [-S] — the [expertise reversal effect](../theories/expertise-reversal-effect.md)
 - Ill-structured or open-ended tasks (design, argumentation) lack a single canonical solution, limiting the strategy's applicability [~M]
 - Splitting attention between a problem statement, diagram, and solution steps degrades the benefit; integrate text and visuals physically ([Cognitive Load Management](../principles/cognitive-load-management.md))
-- Example study alone, without paired practice, produces overconfidence and poor transfer [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/example-problem-sequences-reduce-cognitive-load.md) [-S]
+- Example study alone, without paired practice, produces overconfidence and poor transfer [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-example-problem-sequences.md) [-S]
 - Ill-suited to ill-structured domains (open design, negotiation) where no single canonical solution exists
 - Learners often skim examples superficially; without self-explanation prompts or completion tasks, study time collapses and learning gains vanish [~M]
 - Less effective for open-ended or design tasks where there is no single correct approach
@@ -231,11 +231,11 @@ Studying worked examples reduces the extraneous cognitive load of unguided searc
 > **Evidence** · 4 claims (3 for, 1 against) · 8 studies (4 causal, 2 review, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 0 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
-A worked example presents a complete solution to a problem, with each step shown and often annotated with the reasoning behind it. Learners study the example before solving a similar problem themselves, substituting example study for unguided problem search during early skill acquisition. The strategy is the canonical application of [Cognitive Load Theory](../theories/cognitive-load-theory.md): novices studying worked examples avoid the means-ends search that consumes working memory without contributing to schema construction [Worked examples reduce unnecessary search for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S].
+A worked example presents a complete solution to a problem, with each step shown and often annotated with the reasoning behind it. Learners study the example before solving a similar problem themselves, substituting example study for unguided problem search during early skill acquisition. The strategy is the canonical application of [Cognitive Load Theory](../theories/cognitive-load-theory.md): novices studying worked examples avoid the means-ends search that consumes working memory without contributing to schema construction [Worked examples reduce unnecessary search for novices.](../claims/worked-example-problem-sequences.md) [+S].
 
 ## Design Implications
 
-Worked examples are most effective when paired with isomorphic practice problems in an alternating example–problem sequence, and when support is faded as expertise develops [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S]. Steps should be integrated with the problem (not split across a diagram and a legend) to avoid split-attention, and extraneous prose should be cut to avoid redundancy [Clark, R. C., & Mayer, R. E. (2016)](https://doi.org/10.1002/9781119239086) [+S]. Self-explanation prompts ("Why is this step taken?") increase processing depth without adding much load [~S].
+Worked examples are most effective when paired with isomorphic practice problems in an alternating example–problem sequence, and when support is faded as expertise develops [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-example-problem-sequences.md) [+S]. Steps should be integrated with the problem (not split across a diagram and a legend) to avoid split-attention, and extraneous prose should be cut to avoid redundancy [Clark, R. C., & Mayer, R. E. (2016)](https://doi.org/10.1002/9781119239086) [+S]. Self-explanation prompts ("Why is this step taken?") increase processing depth without adding much load [~S].
 
 ### Context
 #### Requirements
@@ -248,7 +248,7 @@ Worked examples are most effective when paired with isomorphic practice problems
 
 #### Constraints
 - For learners with substantial prior knowledge, worked examples become redundant and can *impair* learning relative to problem solving [Worked-example guidance becomes less effective as learner expertise increases.](../claims/expertise-reversal-effect.md) [-S] — the expertise reversal effect
-- Example study alone, without paired practice, produces overconfidence and poor transfer [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/example-problem-sequences-reduce-cognitive-load.md) [-S]
+- Example study alone, without paired practice, produces overconfidence and poor transfer [Pairing worked examples with practice or fading supports transfer better than examples alone.](../claims/worked-example-problem-sequences.md) [-S]
 - Ill-suited to ill-structured domains (open design, negotiation) where no single canonical solution exists
 - Learners often skim examples superficially; without self-explanation prompts or completion tasks, study time collapses and learning gains vanish [~M]
 - Does not substitute for practice; learners who only study examples without solving problems do not develop fluency [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S]
@@ -265,7 +265,7 @@ Worked examples are most effective when paired with isomorphic practice problems
 - **Comparison:** Present two worked examples solving the same problem by different methods and ask which is more efficient or generalizable
 
 ### Target Learners
-- Novices in a domain, who lack schemas to guide search and benefit most from studying complete solutions [Worked examples reduce unnecessary search for novices.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S]
+- Novices in a domain, who lack schemas to guide search and benefit most from studying complete solutions [Worked examples reduce unnecessary search for novices.](../claims/worked-example-problem-sequences.md) [+S]
 - Learners with low prior knowledge in mathematics, science, programming, and other structured problem domains
 - Not recommended for advanced learners, who learn more from solving problems directly [Worked-example guidance becomes less effective as learner expertise increases.](../claims/expertise-reversal-effect.md) [-M]
 - Novices in any domain where problem-solving involves learnable steps: mathematics, programming, science, writing, clinical reasoning
@@ -321,7 +321,7 @@ The instructor presents a fully solved problem — showing each step and explain
 
 ## Design Implications
 
-By externalizing the solution process, worked examples let novices study task structure before attempting problems themselves, reducing the unproductive search that characterizes early skill acquisition [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. The strategy works best when it is not passive: prompting learners to explain each step to themselves (self-explanation) substantially amplifies learning beyond silent study. Examples should be followed immediately by a practice problem of comparable difficulty — the example-then-problem sequence improves both cognitive load and transfer outcomes compared to problem-only practice [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S].
+By externalizing the solution process, worked examples let novices study task structure before attempting problems themselves, reducing the unproductive search that characterizes early skill acquisition [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]. The strategy works best when it is not passive: prompting learners to explain each step to themselves (self-explanation) substantially amplifies learning beyond silent study. Examples should be followed immediately by a practice problem of comparable difficulty — the example-then-problem sequence improves both cognitive load and transfer outcomes compared to problem-only practice [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-example-problem-sequences.md) [+S].
 
 ### Context
 #### Requirements

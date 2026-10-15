@@ -5,6 +5,35 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-15 (overnight, part 2) — wave 12, the reread step, and merges
+
+- **Wave 11 brief test:** new pages won 77 of 120 blind pairs (sparse 42–18, complete 35–25). Old pages won
+  both briefs on quiet learning spaces and video replay analysis.
+- **Wave 12:** the last 15 pages on the convert step converted, each with a study-table spec where one fits
+  (15 installed; one finding dropped for resting on one study). Brief test: new pages won 85 of 120 (sparse
+  51–9, complete 34–26). The convert step is now empty.
+- **Reread step:** all 36 converted pages with more than ten unread further-evidence claims were reread, one
+  agent per page. Most claims were worked into steps, situation rows or "Evidence and qualifications"; the
+  rest stay listed with a label saying how far they bear. Test status changed on three pages: scaffolding
+  (two randomised AI-setting comparisons, one marginal, one null), PBIS (the Maryland SWPBIS cluster trial:
+  fewer office referrals, no change in suspensions or achievement) and effective classroom management (one
+  part, taught expectations, tested by a WWC K-5 guide).
+- **Claim cleanup** from the reread and wave 12 reports, by eight agents: 95 retitles (880 link texts and 84
+  descriptions updated), 24 duplicate claims merged, i codes recoded where they rested on r, ICC, odds
+  ratios, partial eta squared or within-school pre-post d (three SWPBIS pages an agent had coded from
+  within-school change went back to `i?`), duplicate entries for one paper folded into comments, citations
+  checked on Crossref (Nomi & Allensworth 2009 for the double-dose pages, Waasdorp 2012, Xu 2010, Bryk &
+  Schneider 2002). 11 markers lowered to their claim's cap after the merges.
+- `choose_fold_parent.py --adjudicate` now skips pages removed since their first reading (it crashed on one).
+- **Held for the maintainer:** `retention-interval-moderates-testing-effect` against
+  `retrieval-practice-effects-larger-at-retention-intervals-over-one-day` (same Rowland moderator, but only
+  the second carries g = .69 vs .41); the Ross 2025 preprint DOI (10.31234/osf.io/e6smh_v1 matches title and
+  author but is dated 2026); `systemic-versus-unfocused-change-classification` (source unknown, amazon.com
+  link); `elements/trust-in-schools-12-chicago-elementary-study` and
+  `theories/relational-trust-framework-bryk-schneider` still carry source id `bryk-1988`; kind and rigour
+  doubts in the cleanup reports (causal codes on interviews and non-randomised cohorts) were reported, not
+  changed.
+
 ## 2026-10-15 (overnight) — waves 10 and 11, study tables for every converted page
 
 The maintainer asked for all remaining pages to be run overnight.

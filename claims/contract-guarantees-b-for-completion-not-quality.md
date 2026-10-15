@@ -45,5 +45,5 @@ The authors' description of the central provision of the contract they use in fi
 ## Related Claims
 - [The authors report that fourteen weeks of contract-required work improves writing quality enough to warrant a B](fourteen-weeks-contract-work-warrants-b.md) — related
 - [The hybrid grading contract helps resist grade inflation by reserving grades above B for exceptionally high quality](hybrid-contract-resists-grade-inflation.md) — related
-- [Decoupling evaluation from grades makes teacher feedback easier to give and more effective for learning](decoupling-evaluation-from-grades-improves-feedback.md) — related
+- [Two writing teachers report that decoupling evaluation from grades under a grading contract lets them give blunter feedback that students can weigh, an account with no data reported](decoupling-evaluation-from-grades-improves-feedback.md) — related
 - [Contract grading yields more total work from students, especially skilled writers who previously skipped learning tasks](contract-yields-more-student-work.md) — related

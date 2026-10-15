@@ -44,4 +44,4 @@ Within the Nashville evaluation, the article reports a variation comparing strat
 
 ## Related Claims
 - [Galaxy Math improves first-grade math outcomes with a qualifying effect size of +0.24, qualifying it as Strong evidence](galaxy-math-strong-evidence-024.md) — related
-- [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — related
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related

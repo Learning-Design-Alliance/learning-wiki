@@ -46,4 +46,4 @@ A randomized study in which Head Start centers in rural and urban Central and So
 - [A2i-informed differentiated literacy instruction improves reading outcomes with an average effect size of +0.23 across three randomized-controlled studies](a2i-average-effect-size-023-strong-rating.md) — related
 - [Literacy Express has positive effects on phonological processing for preschool children, with significant effects in two of three studies](literacy-express-positive-phonological-processing.md) — related
 - [Phonological awareness training plus letter knowledge training has potentially positive effects on preschoolers' phonological processing](pat-lk-potentially-positive-phonological-processing.md) — related
-- [Morphological Instruction Improves Literacy](morphological-instruction-improves-literacy.md) — related
+- [Morphological instruction improves word-level literacy outcomes (decoding, spelling, vocabulary, morphological knowledge) but shows no reliable effect on reading comprehension](morphological-instruction-improves-literacy.md) — related

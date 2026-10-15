@@ -12,7 +12,7 @@ generated:
 # Which One Doesn’t Belong?
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies (4 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 9 report an effect size
+> **Evidence** · 3 claims (3 for) · 9 studies (4 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 9 report an effect size
 
 ## Description
 The instructor or learners place 3–4 dot cards on the table. Two or three cards represent the same quantity, while one represents a different quantity. The learner identifies the card that doesn't belong and, critically, explains *why* — prompting analysis and comparison of quantities rather than simple recognition. Because any card can be made the "odd one out" by choosing the right attribute, well-designed sets invite multiple justifications and discussion. The activity builds number sense by requiring learners to discriminate quantities, and it differentiates naturally through the numerical range and complexity of the dot arrangements.
@@ -46,7 +46,7 @@ Comparison is one of the most robust mechanisms for early concept learning: cont
 ### Target Learning Goals
 - Quantity discrimination and subitizing within 10
 - Part-whole reasoning and early compositional number sense
-- Mathematical justification and comparison-based argumentation [Analogical comparison improves transfer of relational structure.](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- Mathematical justification and comparison-based argumentation [Analogical comparison improves transfer of relational structure.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Instructions
 1. Lay out 3–4 dot cards face up; ensure the quantity contrast is visible at a glance.

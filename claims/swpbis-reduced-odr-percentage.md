@@ -43,7 +43,7 @@ sources:
 
 Catherine P. Bradshaw, Mary M. Mitchell, & Philip J. Leaf. (2010). Examining the Effects of Schoolwide Positive Behavioral Interventions and Supports on Student Outcomes: Results From a Randomized Controlled Effectiveness Trial in Elementary Schools. Journal of Positive Behavior Interventions, 12(3), 133-148. https://doi.org/10.1177/1098300709334798
 
-`q3 · i?` · `causal · r2`
+`q3 · i? · within-school pre-post change only, d = .08; no treatment-control effect size` · `causal · r2`
 
 Repeated measures GLM on SWIS ODR data from SWPBIS-trained schools only (no baseline or comparison ODR data; SWIS use was part of the program). The percentage fell "from 18.8% to 18.1%" with d = .08.
 
@@ -53,7 +53,7 @@ Repeated measures GLM on SWIS ODR data from SWPBIS-trained schools only (no base
 
 Catherine P. Bradshaw, Mary M. Mitchell, & Philip J. Leaf. (2010). Examining the Effects of Schoolwide Positive Behavioral Interventions and Supports on Student Outcomes: Results From a Randomized Controlled Effectiveness Trial in Elementary Schools. Journal of Positive Behavior Interventions, 12(3), 133-148. https://doi.org/10.1177/1098300709334798
 
-`q3 · i?` · `causal · r2`
+`q3 · i? · within-school pre-post change only, d = .12; no treatment-control effect size` · `causal · r2`
 
 Second GLM analysis of SWIS ODR data from the SWPBIS schools across the four posttraining years, showing a significant decline in ODR events per student with d = .12.
 

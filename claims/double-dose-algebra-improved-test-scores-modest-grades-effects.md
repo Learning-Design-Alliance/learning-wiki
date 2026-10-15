@@ -10,40 +10,32 @@ generated:
   at: 2026-10-08
 evidence_strength: moderate
 sources:
-  - id: double-dose-algebra-policy-evaluation-in-the-chicago-public-schools-2003
-    resource: "https://www.tandfonline.com/journals/ujree20"
-    title: "Double-dose algebra policy evaluation in the Chicago Public Schools. (2003). Journal of Research on Educational Effectiveness. https://www.tandfonline.com/journals/ujree20"
-    author: Double-dose algebra policy evaluation in the Chicago Public Schools
+  - id: nomi-allensworth-2009
+    resource: "https://doi.org/10.1080/19345740802676739"
+    title: "Nomi, T., & Allensworth, E. (2009). “Double-dose” algebra as an alternative strategy to remediation: Effects on students’ academic outcomes. *Journal of Research on Educational Effectiveness, 2*(2), 111–148. [doi:10.1080/19345740802676739](https://doi.org/10.1080/19345740802676739)"
+    author: "Nomi, T., & Allensworth, E."
     q: 3
     i: "?"
     kind: causal
     rigour: "?"
-  - id: takako-nomi-and-elaine-m-allensworth-2008
-    resource: "http://www.informaworld.com/smpp/content~db=all?content=10.1080/19345740802676739"
-    title: "Takako Nomi and Elaine M. Allensworth. (2008). “Double-dose” Algebra as an Alternative Strategy to Remediation: Effects on Students’ Academic Outcomes. Consortium on Chicago School Research, University of Chicago. http://www.informaworld.com/smpp/content~db=all?content=10.1080/19345740802676739"
-    author: Takako Nomi and Elaine M. Allensworth
-    q: 3
-    i: "?"
-    kind: causal
-    rigour: 2
 ---
 
 # Double-dose algebra support courses improved algebra test scores for targeted low-skilled students but only modestly affected grades and failure rates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 
-`q3 i?` Providing support algebra courses improved algebra test scores for the target population, with only modest effects on grades and failure rates. [→ Double-dose algebra policy evaluation in the Chicago Public Schools 2003](#double-dose-algebra-policy-evaluation-in-the-chicago-public-schools-2003)
+`q3 i?` Providing support algebra courses improved algebra test scores for the target population, with only modest effects on grades and failure rates. [→ Nomi & Allensworth 2009](#nomi-allensworth-2009)
 
-`q3 i?` For students targeted by the policy, including students far from the cut-off, GPAs increased by only .01 points and failure rates increased by two percentage points. [→ Takako Nomi and Elaine M. Allensworth 2008](#takako-nomi-and-elaine-m-allensworth-2008)
+`q3 i?` For students targeted by the policy, including students far from the cut-off, GPAs increased by only .01 points and failure rates increased by two percentage points. [→ Nomi & Allensworth 2009](#nomi-allensworth-2009)
 
 ## Evidence
 
-### Double-dose algebra policy evaluation in the Chicago Public Schools 2003
+### Nomi & Allensworth 2009
 
-Double-dose algebra policy evaluation in the Chicago Public Schools. (2003). Journal of Research on Educational Effectiveness. https://www.tandfonline.com/journals/ujree20
+Nomi, T., & Allensworth, E. (2009). “Double-dose” algebra as an alternative strategy to remediation: Effects on students’ academic outcomes. *Journal of Research on Educational Effectiveness, 2*(2), 111–148. [doi:10.1080/19345740802676739](https://doi.org/10.1080/19345740802676739)
 
 `q3 · i?` · `causal · r?`
 
@@ -51,8 +43,7 @@ Evaluation of the Chicago 2003 double-period algebra policy using regression dis
 
 > "Providing support courses improved algebra test scores for the target population but only modestly affected grades and failure rates."
 
-### Takako Nomi and Elaine M. Allensworth 2008
-
+<!-- merged duplicate entry 2026-10-15: ### Takako Nomi and Elaine M. Allensworth 2008
 Takako Nomi and Elaine M. Allensworth. (2008). “Double-dose” Algebra as an Alternative Strategy to Remediation: Effects on Students’ Academic Outcomes. Consortium on Chicago School Research, University of Chicago. http://www.informaworld.com/smpp/content~db=all?content=10.1080/19345740802676739
 
 `q3 · i?` · `causal · r2`
@@ -60,6 +51,7 @@ Takako Nomi and Elaine M. Allensworth. (2008). “Double-dose” Algebra as an A
 Cohort comparison across percentile rank groups; the article explains grades depend more on student behaviors than incoming skills, so skill gains need not translate into grade or failure improvements. No effect size printed.
 
 > "For students targeted by the policy, including students far from the cut-off, there were only negligible changes in grades or failure rates with the policy (GPAs increased by .01 points and failure rates increased by two percentage points)."
+-->
 
 ## Discussion
 

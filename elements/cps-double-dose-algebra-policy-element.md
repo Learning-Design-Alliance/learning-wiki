@@ -17,7 +17,7 @@ sources:
 # Chicago Public Schools 2003 double-dose algebra policy with three structural guidelines for support courses
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (4 for, 4 mixed, 1 against) · 5 studies (5 causal), `q3` · 1 of 5 report an effect size · 8 claims rest on one study
+> **Evidence** · 9 claims (4 for, 4 mixed, 1 against) · 4 studies (4 causal), `q3` · 1 of 4 report an effect size · 8 claims rest on one study
 
 ## Description
 A district-wide policy requiring all first-time ninth-graders scoring below the national median on the eighth-grade math test to enroll in a regular algebra class plus an additional algebra support class for a full academic year. The district suggested schools program support courses so that "double-dose algebra students should have the same teacher in algebra and algebra support," courses be sequential, and support classmates be the same students; most schools followed these guidelines in 2003, with adherence declining after the same-teacher guideline was removed in 2004.
@@ -50,7 +50,7 @@ A district-wide policy requiring all first-time ninth-graders scoring below the 
 - [The double-dose algebra policy adversely affected non-targeted above-norm students: their algebra grades declined and failure rates increased post-policy](../claims/double-dose-policy-harmed-above-norm-grades.md) [-W]
 - [Chicago's double-dose algebra policy raised algebra test scores for both low-skill and high-skill students](../claims/double-dose-algebra-raised-test-scores-both-skill-groups.md) [+W]
 - [Double-dose algebra policy increased academic demand for both high- and low-skill students, with below-norm students' gains not attributable to peer ability changes](../claims/double-dose-algebra-increased-academic-demand-both-groups.md) [+W]
-- [Classroom peer skill levels explain about 20% of post-policy test score improvements among above-norm algebra students in Chicago](../claims/peer-skill-explains-above-norm-test-gains.md) [+W]
+- [Classroom peer skill levels explain about 20% of post-policy test score improvements among above-norm algebra students in Chicago](../claims/above-norm-score-gains-peer-ability-spillover.md) [+W]
 
 ## Related Elements
 

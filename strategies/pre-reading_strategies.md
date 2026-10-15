@@ -12,7 +12,7 @@ generated:
 # Pre-Reading Strategies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 2 against) · 13 studies (6 causal, 5 quant-synthesis, 1 review, 1 theoretical), `q2`–`q4` · 5 of 13 report an effect size
+> **Evidence** · 5 claims (3 for, 2 against) · 14 studies (7 causal, 5 quant-synthesis, 1 review, 1 theoretical), `q2`–`q4` · 5 of 14 report an effect size
 
 ## Description
 Pre-reading strategies are structured activities completed before learners engage with a text: activating relevant prior knowledge, previewing text structure, pre-teaching critical vocabulary, and establishing a purpose for reading. They prepare the reader's knowledge structures so that incoming text can be integrated rather than processed word-by-word.
@@ -38,7 +38,7 @@ Pre-reading activities work primarily by supplying or activating the schema that
 - **Pre-questioning** — a question posed before reading directs attention to key content
 - **Vocabulary pre-teaching** — 3–5 critical terms with student-friendly definitions and examples
 - **Text preview / structural walk-through** — examining headings, figures, and layout to build a structural map ([Chunking](../principles/chunking.md) the text into navigable parts)
-- **Analogy priming** — introducing a familiar analog before reading so the text maps onto it [Analogical reasoning improves transfer.](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- **Analogy priming** — introducing a familiar analog before reading so the text maps onto it [Analogical reasoning improves transfer.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ### Target Learners
 - Readers with low prior knowledge of the topic, who benefit most from background building [Activation of prior knowledge improves comprehension and recall.](../claims/activation-improves-learning.md) [+S]

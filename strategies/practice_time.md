@@ -54,7 +54,7 @@ Retrieval and application during practice strengthen retention far more than rer
 #### Implementation Variability
 - **In-class guided practice**: instructor circulates, gives just-in-time coaching, and surfaces common errors for whole-class discussion
 - **Retrieval practice formats**: short ungraded quizzes or free-recall prompts that make practice a memory exercise [Test-enhanced learning: Taking memory tests improves long-term retention.](https://doi.org/10.1111/j.1467-9280.2006.01693.x) [+S]
-- **Example–problem pairs**: learners study a worked example, then immediately attempt a parallel problem [Example-problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+- **Example–problem pairs**: learners study a worked example, then immediately attempt a parallel problem [Example-problem sequences reduce cognitive load.](../claims/worked-example-problem-sequences.md) [+M]
 - **Part-task drills**: isolated subskills practiced before integration into the full task [Part-task practice reduces load for novices.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]
 
 ### Target Learners

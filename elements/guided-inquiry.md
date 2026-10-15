@@ -13,7 +13,7 @@ generated:
 # Guided Inquiry
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (2 quant-synthesis, 2 review, 1 causal, 1 qualitative), `q2`–`q4` · 2 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 7 studies (3 review, 2 quant-synthesis, 1 causal, 1 qualitative), `q2`–`q4` · 2 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 Guided inquiry is the element in which learners investigate questions or problems with structured prompts, facilitator support, or staged resources that keep the inquiry productive. It is useful when the goal is inquiry with support rather than direct telling or unguided discovery.

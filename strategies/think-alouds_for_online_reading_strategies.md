@@ -19,7 +19,7 @@ A think-aloud for online reading is an explicit modeling activity in which the t
 
 ## Design Implications
 
-Think-alouds work because they externalize expert strategy use at the moment it occurs, letting novices observe not just *what* skilled readers do but *when* and *why* — the conditional knowledge that strategy instruction depends on [Afflerbach, Pearson, & Paris distinguish strategies as goal-directed, flexibly deployed actions](../claims/self-monitoring-improves-self-regulation.md) [+M]. Online reading amplifies the need for this modeling: non-linear hypertext environments impose navigation and evaluation demands that print reading does not, and readers with weak strategies are especially prone to disorientation and shallow click-paths [Coiro & Dobler found proficient online readers coordinate prior knowledge, inference, and self-regulated evaluation in ways struggling readers do not spontaneously discover](../claims/self-monitoring-improves-self-regulation.md) [+M]. Verbalizing also slows the expert's performance, chunking a rapid, parallel process into steps that fit within novice working memory [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S].
+Think-alouds work because they externalize expert strategy use at the moment it occurs, letting novices observe not just *what* skilled readers do but *when* and *why* — the conditional knowledge that strategy instruction depends on (Afflerbach, Pearson, & Paris distinguish strategies as goal-directed, flexibly deployed actions). Online reading amplifies the need for this modeling: non-linear hypertext environments impose navigation and evaluation demands that print reading does not, and readers with weak strategies are especially prone to disorientation and shallow click-paths (Coiro & Dobler found proficient online readers coordinate prior knowledge, inference, and self-regulated evaluation in ways struggling readers do not spontaneously discover). Verbalizing also slows the expert's performance, chunking a rapid, parallel process into steps that fit within novice working memory [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S].
 
 ### Context
 #### Requirements
@@ -37,7 +37,7 @@ Think-alouds work because they externalize expert strategy use at the moment it 
 #### Implementation Variability
 - **Whole-class live modeling** on a projected screen, the standard entry point
 - **Recorded think-alouds** (screencasts) that learners can replay, useful for self-paced or flipped settings
-- **Paired or reciprocal think-alouds**, where students alternate verbalizing their own navigation decisions — a bridge toward [reciprocal teaching](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S] structures
+- **Paired or reciprocal think-alouds**, where students alternate verbalizing their own navigation decisions — a bridge toward reciprocal teaching structures
 - **Interrupted think-alouds**, where readers stop at decision points to explain their choices, trading fluency of modeling for depth of learner reflection [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 
 ### Target Learners

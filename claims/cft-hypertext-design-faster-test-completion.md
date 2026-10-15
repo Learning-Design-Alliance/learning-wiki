@@ -43,7 +43,7 @@ Platform-tracked timing data from the Moodle e-learning system after the experim
 
 
 ## Related Claims
-- [Students in the flexible hypertext-based course design scored higher on achievement tests (76%) than students in the direct online course design (59%)](cft-hypertext-design-higher-achievement-scores.md) — related
+- [A flexible hypertext course group averaged 76% on achievement tests against 59% for a direct-design group that studied different software, so the contrast confounds design with content](cft-hypertext-design-higher-achievement-scores.md) — related
 - [More experimental-group answers achieved 100% accuracy on achievement tests (23) than control-group answers (13)](cft-hypertext-design-more-perfect-scores.md) — related
 - [Boys responded faster than girls on the test, but the response-time difference did not affect achievement](boys-faster-than-girls-no-achievement-difference.md) — related
 - [Experimental-group students held more positive attitudes toward flexible hypertext course design than control-group students toward direct design (t = 4.723)](cft-hypertext-design-more-positive-attitudes.md) — related

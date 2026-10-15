@@ -12,7 +12,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 86 claims (51 for, 27 mixed, 8 against) · 73 studies (20 causal, 15 review, 10 associational, 9 theoretical, 7 design, 6 quant-synthesis, 6 qualitative), `q1`–`q4` · 11 of 73 report an effect size · 76 claims rest on one study
+> **Evidence** · 86 claims (51 for, 27 mixed, 8 against) · 74 studies (21 causal, 15 review, 10 associational, 9 theoretical, 7 design, 6 quant-synthesis, 6 qualitative), `q1`–`q4` · 10 of 74 report an effect size · 76 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -35,7 +35,7 @@ A learner's existing domain knowledge in the subject area before instruction beg
 ## Claims
 - [Activating prior knowledge improves learning](../claims/activation-improves-learning.md) [+M] — prompts that retrieve relevant knowledge before instruction improve comprehension and integration.
 - [Advance organizers improve learning](../claims/advance-organizers-improve-learning.md) [+M] — organizing frameworks are most effective when learners lack the knowledge to structure material themselves.
-- [Analogical reasoning improves transfer](../claims/analogical-reasoning-improves-transfer.md) [+M] — analogies work by mapping new content onto knowledge learners already hold.
+- [Analogical reasoning improves transfer](../claims/comparing-contrasting-cases-improves-learning.md) [+M] — analogies work by mapping new content onto knowledge learners already hold.
 - [Chunking reduces working memory load](../claims/chunking-reduces-working-memory-load.md) [+M] — prior knowledge supplies the schemas that make chunking possible; novices must be given them.
 - [Prior knowledge is not significantly related to test performance in this sample](../claims/prior-knowledge-not-related-to-performance.md) [-W] — a single-sample null finding (Nist & Hogrebe, 1985) that runs against the broader meta-analytic consensus and should not be generalized.
 - [Both high- and low-prior-achieving students benefited from exposure to high-quality assignments](../claims/high-and-low-achievers-benefit-from-quality-assignments.md) [-M] — an instructional effect differs with it
@@ -56,7 +56,7 @@ A learner's existing domain knowledge in the subject area before instruction beg
 - [Learning Studios provided opportunities for students with learning difficulties and disabilities to develop expertise, confidence and peer rapport](../claims/learning-studios-ldd-students-expertise-confidence.md) [+W] — instruction changes it
 - [Lower-prior-knowledge learners scored higher on an algebra posttest after full-worked than completion-worked examples, while higher-prior-knowledge learners' non-significant advantage ran the other way](../claims/lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples.md) [~M] — an instructional effect differs with it
 - [Meditation expertise follows an inverted-U: moderate practice hours show greater attention-network activation than novices, while very high hours show reduced activation](../claims/meditation-expertise-inverted-u-neural-efficiency.md) [~M] — learners who differ on it differ in outcomes
-- [Method and prior achievement level interact on self-efficacy: medium-ability PTFC students show lower self-efficacy than their teammates' ratings suggest](../claims/method-achievement-interaction-self-efficacy.md) [~M] — an instructional effect differs with it
+- [In one flipped calculus study, teaching method (peer-teaching versus conventional flipped classroom) and prior achievement level interact on self-efficacy](../claims/method-achievement-interaction-self-efficacy.md) [~M] — an instructional effect differs with it
 - [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+W] — an instructional effect differs with it
 - [No significant interaction between prior knowledge and task difficulty was observed in a worked-example algebra study](../claims/no-prior-knowledge-by-task-difficulty-interaction-in-algebra-worked-examples.md) [-M] — an instructional effect differs with it
 - [Pre-test scores strongly predict post-test scores but not normalized learning gains](../claims/pretest-predicts-posttest-not-learning-gain.md) [~W] — learners who differ on it differ in outcomes
@@ -69,7 +69,7 @@ A learner's existing domain knowledge in the subject area before instruction beg
 - [Revised visuals reduce cognitive load while reading lesson text for low prior knowledge students but increase it for middle prior knowledge students](../claims/revised-visuals-cognitive-load-text-prior-knowledge-interaction.md) [~M] — an instructional effect differs with it
 - [Revised visuals reduce cognitive processing of lesson text for low prior knowledge students but increase it for middle prior knowledge students](../claims/revised-visuals-processing-text-prior-knowledge-interaction.md) [~M] — an instructional effect differs with it
 - [Revised visuals reduce cognitive processing of math-relevant visuals for low prior knowledge students but increase it for middle prior knowledge students](../claims/revised-visuals-processing-math-visuals-interaction.md) [~M] — an instructional effect differs with it
-- [Revisions to math-relevant visuals affect cognitive load differently by prior knowledge group, including reduced load for high prior knowledge students](../claims/revised-visuals-cognitive-load-math-visuals-interaction.md) [~M] — an instructional effect differs with it
+- [In one eye-tracking experiment, revising math-relevant visuals changes fixation length on them differently by prior knowledge group, with shorter fixations under the revised visuals for low prior knowledge students](../claims/revised-visuals-cognitive-load-math-visuals-interaction.md) [~M] — an instructional effect differs with it
 - [Revisions to visuals had no effect on post-lesson test scores, though prior knowledge predicted performance](../claims/revised-visuals-no-learning-effect.md) [+M] — learners who differ on it differ in outcomes
 - [Saga tutoring impacts were larger for students with lower prior math achievement and for Black students](../claims/saga-tutoring-larger-impacts-lower-prior-achievement.md) [+W] — an instructional effect differs with it
 - [Segmentation Benefits Shrink With Expertise](../claims/segmentation-benefits-shrink-with-expertise.md) [~W] — an instructional effect differs with it

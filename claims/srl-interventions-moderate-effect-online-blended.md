@@ -39,6 +39,8 @@ Meta-analysis of 15 studies (5,519 participants) from Scopus, IEEE Explore, and 
 
 > "Figure 3 shows that a random effects model (RE Model) with a value of 0.65 was found. This means that self-regulated learning intervention studies affect learning results in online and blended environments by 65%"
 
+The "65%" is the source's own wording for a pooled Cohen's d of 0.65; a d of 0.65 is a standardized mean difference, not a 65% improvement.
+
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
@@ -69,5 +71,5 @@ Meta-analysis of 15 studies (5,519 participants) from Scopus, IEEE Explore, and 
 - [Self-management interventions significantly and positively impact academic outcomes (achievement and work completion) in single-case design studies](sm-interventions-improve-academic-outcomes-scd.md) — related
 - [Blended implementation models matched to learner skill level: high-touch blended for lowest-skilled learners, online courses for more advanced students](blended-high-touch-lowest-skilled-adults.md) — related
 - [A survey of 100 leading companies found 86 percent use blended learning strategies combining an average of 4.8 different modalities](corporate-blended-learning-adoption.md) — related
-- [Self-regulated learning strategies (goal setting, environment structuring, time management) are the strategies most prominently associated with lower digital distraction among college students in online courses](srl-strategies-associated-lower-digital-distraction.md) — related
+- [In association-rule mining of survey data from 530 college students in online courses, goal setting, environment structuring and time management were the strategies most often associated with lower digital distraction](srl-strategies-associated-lower-digital-distraction.md) — related
 - [The GenAI feedback group showed a statistically significant post-intervention improvement in the Task Strategies dimension of SRL compared with the tutor group](genai-feedback-improved-task-strategies-srl.md) — a narrower finding that bears on this claim

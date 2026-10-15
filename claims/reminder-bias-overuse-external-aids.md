@@ -58,6 +58,18 @@ The review reports correlational evidence across multiple studies (Gilbert et al
 
 > "Researchers have found strong positive correlations between reminder bias and both individual subjective con ﬁdence and metacognitive biases that deviate from reality across multiple studies"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do learners rely on external aids more, or less, than their own performance warrants?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **3 distinct studies** (1 review, 1 causal, 1 theoretical), `q2`–`q3`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Yufei Guo & Qun Ye 2026](https://doi.org/10.1057/s41599-026-06621-5) | q2 · review · r? | i? | this claim |
+| [Ceri Ngai and Sam J. Gilbert 2026](https://doi.org/10.1186/s41235-026-00714-0) | q3 · causal · r? | i1; i? | [In Experiment 1, participants in both groups were significantly biased towards excessive r](excessive-reminder-bias-both-groups-exp1.md) (supports); [In Experiment 1, lower confidence predicted greater offloading beyond objective performanc](confidence-predicts-offloading-no-feedback-only.md) (supports) |
+| [Lin J and Al-Hada NM 2026](https://doi.org/10.3389/fpsyg.2026.1906070) | q2 · theoretical · r3 | i? | [Review reports a developmental shift in cognitive offloading: children under-use external ](developmental-shift-cognitive-offloading.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

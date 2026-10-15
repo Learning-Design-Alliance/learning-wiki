@@ -70,7 +70,7 @@ A meta-analysis (part of a US Department of Education-commissioned review) synth
 
 ## Related Claims
 
-- [Flipped classroom learning improves academic performance of undergraduate health professional students compared with traditional class learning (SMD = 0.57), at low certainty of evidence](flipped-classroom-improves-academic-performance-hpe.md) — the general claim this finding bears on, with the studies behind it
+- [In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)](flipped-classroom-improves-academic-performance-hpe.md) — the general claim this finding bears on, with the studies behind it
 
 - [Grades are lower both for courses taken online and in future courses](online-course-lower-grades-current-and-future.md) — the general claim this finding bears on, with the studies behind it
 

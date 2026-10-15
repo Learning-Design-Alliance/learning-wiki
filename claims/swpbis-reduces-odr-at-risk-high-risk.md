@@ -1,7 +1,7 @@
 ---
 type: claim
-title: SWPBIS reduced office discipline referrals among at-risk and high-risk children relative to comparison-school peers
-description: SWPBIS reduced office discipline referrals among at-risk and high-risk children relative to comparison-school peers
+title: "At-risk children in SWPBIS schools are slightly less likely to receive an office discipline referral than at-risk peers in comparison schools (41.3% vs 46.5%, d = -0.13)"
+description: At-risk children in SWPBIS schools are slightly less likely to receive an office discipline referral than at-risk peers in comparison schools (41.3% vs 46.5%, d = -0.13)
 id: swpbis-reduces-odr-at-risk-high-risk
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: 2
 ---
 
-# SWPBIS reduced office discipline referrals among at-risk and high-risk children relative to comparison-school peers
+# At-risk children in SWPBIS schools are slightly less likely to receive an office discipline referral than at-risk peers in comparison schools (41.3% vs 46.5%, d = -0.13)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+<!-- title before 2026-10-15: SWPBIS reduced office discipline referrals among at-risk and high-risk children relative to comparison-school peers -->
 
 ## Subclaims
 `q3 i0` At-risk children in SWPBIS schools were significantly less likely to receive an ODR than at-risk peers in comparison schools (41.3% vs. 46.5%, d = -0.13). [→ Bradshaw 2015](#bradshaw-2015)
@@ -35,9 +36,9 @@ Bradshaw, C. P., Waasdorp, T. E., & Leaf, P. J. (2015). Examining Variation in t
 
 `q3 · i0` · `causal · r2`
 
-Within-class comparison of SWPBIS versus comparison schools in the 4-year group-randomized effectiveness trial, using teacher-reported office disciplinary referrals aggregated over five time points. The "at-risk child ren in the SW PBIS schools w ere significantly less likely to re ceive an O D R" with d = -0.13.
+Within-class comparison of SWPBIS versus comparison schools in the 4-year group-randomized effectiveness trial, using teacher-reported office disciplinary referrals aggregated over five time points. The "at-risk children in the SWPBIS schools were significantly less likely to receive an ODR" with d = -0.13.
 
-> "T he at-risk child ren in the SW PBIS schools w ere significantly less likely to re ceive an O D R than their at-risk peers in the com parison schools (41.3% vs. 46.5% , d  =  -0 .1 3 )."
+> "The at-risk children in the SWPBIS schools were significantly less likely to receive an ODR than their at-risk peers in the comparison schools (41.3% vs. 46.5%, d = -0.13)."
 
 ## Discussion
 
@@ -45,7 +46,7 @@ Within-class comparison of SWPBIS versus comparison schools in the 4-year group-
 ## Related Claims
 - [SWPBIS effects on discipline referrals and school services tended to be greatest among children rated at-risk or high-risk at baseline](swpbis-effects-greatest-at-risk-high-risk-children.md) — a broader claim this one bears on
 - [SWPBIS does not significantly reduce out-of-school suspensions in this trial](swpbis-no-effect-suspensions.md) — related
-- [SWPBIS produced a small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)](swpbis-reduces-concentration-problems.md) — related
+- [SWPBIS produces a very small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)](swpbis-reduces-concentration-problems.md) — related
 - [SWPBIS reduces the odds of receiving an office discipline referral](swpbis-reduces-office-discipline-referrals.md) — a broader claim this one bears on
 - [SWPBIS reduced receipt of counseling for inappropriate behavior among at-risk and socially-emotionally skilled children](swpbis-reduces-counseling-services.md) — related
 - [At-risk children in SWPBIS schools were significantly less likely to be referred to special education than at-risk peers in comparison schools](swpbis-reduces-special-education-referral-at-risk.md) — related

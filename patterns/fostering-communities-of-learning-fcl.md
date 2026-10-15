@@ -16,7 +16,7 @@ grain_size: course
 # Fostering Communities of Learning (FCL)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 19 claims (11 for, 8 mixed) · 35 studies (13 quant-synthesis, 10 review, 6 causal, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 9 of 35 report an effect size · 9 claims rest on one study
+> **Evidence** · 19 claims (11 for, 8 mixed) · 36 studies (13 quant-synthesis, 10 review, 6 causal, 3 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 9 of 36 report an effect size · 8 claims rest on one study
 
 ## Description and scope
 
@@ -108,7 +108,7 @@ Claims this page cited before the 2026-10-05 rewrite, and claims found while rew
 
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — cited before; used above for the teacher's role in fading support. Five studies, mostly one-to-one tutoring of children; bears on how the teacher circulates, not on the community structure.
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — cited before; used above for the reflection step. Explaining to oneself, not to peers; carried to this pattern by analogy.
-- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — cited before. Two syntheses arguing that monitoring against a criterion supports strategy change; bears on comparing the final with the starting check, untested here.
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M] — cited before. Two syntheses arguing that monitoring against a criterion supports strategy change; bears on comparing the final with the starting check, untested here.
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M] — cited before as contradicting (marker lowered from S to the claim's cap, one narrative review at `q2`). It bears on the pattern only as a reason to give each cycle a specific question and an individual target rather than an open "explore the topic".
 - [Active participation in a community has a more significant impact on learning than mere membership](../claims/active-participation-beats-mere-membership-for-learning.md) [+W] — the authors' interpretation of a perception survey of 28 honours students; not a tested contrast.
 - [Within the CoP model, learners who do not progress toward the centre through nonparticipation are relegated to the fringes with invalidated identities](../claims/cop-nonparticipation-invalidates-learner-identities.md) [~W] — a theoretical critique; a reason to define what a valued contribution from a quieter member looks like.

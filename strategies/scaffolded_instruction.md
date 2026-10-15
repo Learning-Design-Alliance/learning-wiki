@@ -41,7 +41,7 @@ Scaffolding works because it keeps tasks within the learner's zone of proximal d
 - **Domain structure**: whole-task scaffolding in complex learning environments vs. [part-task practice](../claims/part-task-practice-reduces-load-for-novices.md) for high-load subskills
 
 ### Target Learners
-- Novices facing tasks that exceed their current working-memory or skill capacity [Example–problem sequences reduce cognitive load.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
+- Novices facing tasks that exceed their current working-memory or skill capacity [Example–problem sequences reduce cognitive load.](../claims/worked-example-problem-sequences.md) [+M]
 - Learners with learning disabilities or limited background knowledge who need task decomposition and explicit support
 - Less beneficial for advanced learners, for whom support becomes redundant and can interfere [Support becomes less effective as learner expertise increases.](../claims/expertise-reversal-effect.md) [~M]
 

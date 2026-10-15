@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 47 claims (22 for, 22 mixed, 3 against) · 45 studies (19 associational, 10 causal, 4 review, 4 design, 3 qualitative, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 13 of 45 report an effect size · 36 claims rest on one study
+> **Evidence** · 47 claims (22 for, 22 mixed, 3 against) · 46 studies (19 associational, 10 causal, 4 review, 4 design, 4 theoretical, 3 qualitative, 2 quant-synthesis), `q1`–`q4` · 12 of 46 report an effect size · 35 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -50,7 +50,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 
 ## Claims
 
-- [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M]
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [+M]
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]
 - [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](../claims/argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) [~M]

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Supplementing simulation-based inquiry with learner guidance modestly improves learning outcomes and inquiry skills, with age and domain moderating the effect (review attribution to D'Angelo et al., 2014)"
-description: "Supplementing simulation-based inquiry with learner guidance modestly improves learning outcomes and inquiry skills, with age and domain moderating the effect (review attribution to D'Angelo et al., 2014)"
+title: Supplementing simulation-based inquiry with learner guidance has a modest effect on learning outcomes (d = 0.49) and inquiry skills (d = 0.41), independent of guidance type (review attribution to D'Angelo et al., 2014)
+description: Supplementing simulation-based inquiry with learner guidance has a modest effect on learning outcomes (d = 0.49) and inquiry skills (d = 0.41), independent of guidance type (review attribution to D'Angelo et al., 2014)
 id: simulation-guidance-moderate-effect-dangelo
 status: draft
 generated:
@@ -19,10 +19,11 @@ sources:
     rigour: "?"
 ---
 
-# Supplementing simulation-based inquiry with learner guidance modestly improves learning outcomes and inquiry skills, with age and domain moderating the effect (review attribution to D'Angelo et al., 2014)
+# Supplementing simulation-based inquiry with learner guidance has a modest effect on learning outcomes (d = 0.49) and inquiry skills (d = 0.41), independent of guidance type (review attribution to D'Angelo et al., 2014)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2` · `i2` medium
+<!-- title before 2026-10-15: Supplementing simulation-based inquiry with learner guidance modestly improves learning outcomes and inquiry skills, with age and domain moderating the effect (review attribution to D'Angelo et al., 2014) -->
 
 ## Subclaims
 `q2 i2` The review reports, citing D'Angelo et al. (2014), that supplementing a simulation with learner guidance had a modest effect on learning outcomes (d = 0.49) and inquiry skills (d = 0.41), independent of guidance type. [→ Lazonder 2016](#lazonder-2016)

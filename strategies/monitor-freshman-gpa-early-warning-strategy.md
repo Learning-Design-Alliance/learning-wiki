@@ -17,7 +17,7 @@ sources:
 # Monitor freshman-year grades and intervene early, treating D students as needing attention comparable to F students
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 5 studies (4 associational, 1 design), `q1`–`q3` · 1 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 4 studies (3 associational, 1 design), `q1`–`q3` · 1 of 4 report an effect size · 6 claims rest on one study
 
 ## Description
 The article supports district and school use of ninth-grade GPA as an early warning indicator, beyond the binary Freshman OnTrack measure, to identify students who will benefit from assistance. Districts are "increasingly turning to 'early warning indicators' like Freshman OnTrack as a way of identifying students who will benefit from assistance," and broadening the focus to overall GPA could extend benefits to college outcomes. Because graduation rates differ sharply between F and D students, the article concludes D students need attention too.

@@ -44,7 +44,7 @@ Cognitive elaboration is defined as the generation and integration of new inform
 - [Cognitive elaboration strategy significantly affects overall posttest performance, with self-generated elaboration highest](../claims/elaboration-strategy-affects-posttest-performance.md) [+M]
 - [GPA predicts procedural knowledge and intellectual skills but not attitudes toward learning](../claims/gpa-predicts-knowledge-not-attitudes.md) [~W]
 - [GPA, pretest score, and self-generated elaboration jointly predict intellectual skills but not procedural knowledge or attitudes](../claims/gpa-pretest-elaboration-interaction-intellectual-skills.md) [~W]
-- [Self-generated elaboration improves intellectual skills more than instructor-assisted elaboration, but not more than the combined strategy](../claims/self-generated-elaboration-improves-intellectual-skills.md) [~W]
+- [In one accounting classroom experiment, self-generated elaboration scored marginally above instructor-assisted elaboration on intellectual skills (p = .06, omnibus test not significant) and no higher than a combined strategy](../claims/self-generated-elaboration-improves-intellectual-skills.md) [~W]
 
 ## Related Theories
 - 

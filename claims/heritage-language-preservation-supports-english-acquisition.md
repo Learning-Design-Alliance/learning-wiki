@@ -9,8 +9,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: hansen-umeda-and-mckinney-2002
-    resource: "https://onlinelibrary.wiley.com/journal/14679922"
-    title: "Hansen, L., Umeda, Y., & McKinney, M. (2002). Savings in the relearning of second language vocabulary: The effects of time and proficiency. *Language Learning, 52*(4), 653-678. [https://onlinelibrary.wiley.com/journal/14679922](https://onlinelibrary.wiley.com/journal/14679922)"
+    resource: "https://doi.org/10.1111/1467-9922.00200"
+    title: "Hansen, L., Umeda, Y., & McKinney, M. (2002). Savings in the relearning of second language vocabulary: The effects of time and proficiency. *Language Learning, 52*(4), 653-678. [doi:10.1111/1467-9922.00200](https://doi.org/10.1111/1467-9922.00200)"
     author: "Hansen, L., Umeda, Y., & McKinney, M."
     q: 2
     i: "?"
@@ -45,7 +45,7 @@ A common assumption treats time and attention spent on a bilingual student's hom
 
 ## Subclaims
 
-`q2 i?` A large vocabulary in a student's first language saves time when later learning the equivalent vocabulary in a second language — but only if the first language is preserved rather than lost. [→ Hansen, Umeda, and McKinney 2002](#hansen-umeda-and-mckinney-2002)
+`q2 i?` A large vocabulary in a student's first language saves time when later learning the equivalent vocabulary in a second language — but only if the first language is preserved rather than lost. (Citation check 2026-10-15: the cited paper concerns relearning forgotten second-language vocabulary; that it supports first-language-to-second-language savings is unconfirmed.) [→ Hansen, Umeda, and McKinney 2002](#hansen-umeda-and-mckinney-2002)
 
 `q2 i?` For bilingual students with language impairments affecting both languages, speech-language intervention is more effective when the specialist uses the student's first language alongside English, rather than English alone. [→ Kohnert et al. 2005](#kohnert-et-al-2005)
 
@@ -55,11 +55,13 @@ A common assumption treats time and attention spent on a bilingual student's hom
 
 ### Hansen, Umeda, and McKinney 2002
 
-Hansen, L., Umeda, Y., & McKinney, M. (2002). Savings in the relearning of second language vocabulary: The effects of time and proficiency. *Language Learning, 52*(4), 653-678. [https://onlinelibrary.wiley.com/journal/14679922](https://onlinelibrary.wiley.com/journal/14679922)
+Hansen, L., Umeda, Y., & McKinney, M. (2002). Savings in the relearning of second language vocabulary: The effects of time and proficiency. *Language Learning, 52*(4), 653-678. [doi:10.1111/1467-9922.00200](https://doi.org/10.1111/1467-9922.00200)
 
 `q2 · experimental study on vocabulary relearning · i? · no source text available to check; the entry prints no effect size · n=moderate` · `causal · r?`
 
 This study found that prior vocabulary knowledge in one language produces measurable "savings" — reduced time and effort — when a learner later acquires the equivalent vocabulary in a second language. The savings are only available, however, if the first-language vocabulary itself has not been lost, directly linking heritage-language preservation to the practical efficiency of English vocabulary acquisition.
+
+<!-- citation check 2026-10-15: Crossref confirms this paper by title, first author and year (doi:10.1111/1467-9922.00200; Language Learning 52(4), 653-678), so the DOI replaces the journal-homepage link. Its title and topic are savings when RELEARNING forgotten second-language vocabulary, not first-language vocabulary easing second-language learning, so the description above may not match the paper; not re-read here. The principle page's Key Sources cites a different Hansen 2002 title ('Ragged interlanguage morphology...', JMMD 23(1-2)) that Crossref does not find. -->
 
 ### Kohnert et al. 2005
 
@@ -84,7 +86,7 @@ This account describes how preserving two shared languages between parent and ch
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| Hansen, Umeda, and McKinney 2002 | q2 · causal · r? | i? | this claim |
+| [Hansen, Umeda, and McKinney 2002](https://doi.org/10.1111/1467-9922.00200) | q2 · causal · r? | i? | this claim |
 | [Kohnert et al. 2005](<https://doi.org/10.1044/0161-1461(2005/025)>) | q2 · causal · r? | i? | this claim |
 | Ebert 2005 | q1 · theoretical · r? | i? | this claim |
 | [Cummins 1979](https://doi.org/10.3102/00346543049002222) | q2 · theoretical · r3 | i? | [Promoting minority children's L1 raises L1 achievement at no cost to L2 achievement](l1-maintenance-supports-l2-without-cost.md) (supports); [Preservation of the mother tongue predicts second-language achievement among migrant child](mother-tongue-preservation-predicts-l2-achievement.md) (supports); [Semilingualism — less than native-like skill in both languages — is associated with detrim](semilingualism-associated-with-negative-cognitive-effects.md) (qualifies) |
