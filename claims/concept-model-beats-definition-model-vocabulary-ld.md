@@ -3,7 +3,7 @@ type: claim
 title: The concept model of vocabulary instruction produced larger gains in content-area vocabulary test performance than the definition/sentence-writing model for all six middle school students with learning disabilities
 description: The concept model of vocabulary instruction produced larger gains in content-area vocabulary test performance than the definition/sentence-writing model for all six middle school students with learning disabilities
 id: concept-model-beats-definition-model-vocabulary-ld
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

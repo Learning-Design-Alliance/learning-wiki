@@ -3,7 +3,7 @@ type: claim
 title: HSE participants found the LER value proposition unclear, questioning how it differed from Indeed and LinkedIn and feeling excluded by linear-journey prompts
 description: HSE participants found the LER value proposition unclear, questioning how it differed from Indeed and LinkedIn and feeling excluded by linear-journey prompts
 id: unclear-ler-value-proposition-hse-participants
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

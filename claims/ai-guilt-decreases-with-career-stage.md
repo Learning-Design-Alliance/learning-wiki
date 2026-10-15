@@ -3,7 +3,7 @@ type: claim
 title: AI-related guilt decreases with career stage, with early-career academics reporting the highest guilt
 description: AI-related guilt decreases with career stage, with early-career academics reporting the highest guilt
 id: ai-guilt-decreases-with-career-stage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

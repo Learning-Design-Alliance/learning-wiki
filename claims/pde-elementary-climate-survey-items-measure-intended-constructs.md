@@ -3,7 +3,7 @@ type: claim
 title: Items in each of the three domains of the PDE elementary school climate survey measured the constructs they intended to measure
 description: Items in each of the three domains of the PDE elementary school climate survey measured the constructs they intended to measure
 id: pde-elementary-climate-survey-items-measure-intended-constructs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

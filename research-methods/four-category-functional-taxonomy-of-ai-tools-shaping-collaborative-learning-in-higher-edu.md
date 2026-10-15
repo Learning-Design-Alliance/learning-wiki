@@ -3,7 +3,7 @@ type: research-method
 id: four-category-functional-taxonomy-of-ai-tools-shaping-collaborative-learning-in-higher-edu
 title: Four-category functional taxonomy of AI tools shaping collaborative learning in higher education
 description: "The review organizes AI tools by underlying functionality into four categories: predictive analytics (machine learning models, early warning systems) that predict student success and identify at-risk students; language-based systems (chatbots, large language models, natural language processors) enab"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

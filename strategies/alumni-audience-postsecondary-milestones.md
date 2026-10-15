@@ -3,7 +3,7 @@ type: strategy
 id: alumni-audience-postsecondary-milestones
 title: "Select survey audiences around three postsecondary milestones: recent graduates, the 2-3 year sweet-spot cohort, and long-term alumni"
 description: The guide recommends organizing the audience strategy around three distinct postsecondary milestones.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

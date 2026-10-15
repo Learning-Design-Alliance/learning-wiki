@@ -4,7 +4,7 @@ id: edu-qurating-pipeline-and-edu-qurater-scorers
 title: Edu-QuRating pipeline and Edu-QuRater scorers
 description: A software and trained-model package developed by Garrod et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

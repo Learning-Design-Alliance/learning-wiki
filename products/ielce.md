@@ -4,7 +4,7 @@ id: ielce
 title: IELCE
 description: A federally supported adult-education programme administered through state and local providers that combines English-language literacy instruction with civics education for adult learners, including immigrants.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

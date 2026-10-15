@@ -2,7 +2,7 @@
 type: theory
 title: Three-perspective bibliometric mapping for locating emerging research subfields
 description: "The article presents a combined bibliometric approach in which \"coauthorship analysis reveals social ties and bridges, bibliographic coupling shows shared intellectual foundations, and semantic similarity uncovers rel..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

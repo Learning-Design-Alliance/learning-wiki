@@ -4,7 +4,7 @@ id: alas-dropout-prevention-program
 title: ALAS dropout prevention program
 description: ALAS is a multi-component dropout-prevention programme for middle- and high-school students that combines counselor mentoring, attendance and performance monitoring, resilience and self-control instruction, parent training, recognition activities, and community-service coordination.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

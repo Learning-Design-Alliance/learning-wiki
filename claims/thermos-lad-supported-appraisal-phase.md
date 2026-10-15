@@ -3,7 +3,7 @@ type: claim
 title: The LAD was mostly perceived to support student appraisal of study behaviour by providing new insights or awareness
 description: The LAD was mostly perceived to support student appraisal of study behaviour by providing new insights or awareness
 id: thermos-lad-supported-appraisal-phase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

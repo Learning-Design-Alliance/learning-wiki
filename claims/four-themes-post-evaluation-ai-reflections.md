@@ -3,7 +3,7 @@ type: claim
 title: "Post-interaction reflections reveal four preference themes: AI as formative learning aid, preference for human authority, conditional acceptance, and skepticism about educational impact"
 description: "Post-interaction reflections reveal four preference themes: AI as formative learning aid, preference for human authority, conditional acceptance, and skepticism about educational impact"
 id: four-themes-post-evaluation-ai-reflections
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Seriously disengaged initial testers who stopped rapid-guessing on retest showed large RIT gains, averaging about 6 points in Reading and 12 in Math
 description: Seriously disengaged initial testers who stopped rapid-guessing on retest showed large RIT gains, averaging about 6 points in Reading and 12 in Math
 id: serious-disengagement-retest-zero-guessing-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

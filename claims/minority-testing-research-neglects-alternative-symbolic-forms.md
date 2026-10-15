@@ -3,7 +3,7 @@ type: claim
 title: Research on minority group testing has focused on test bias, linguistic minorities, and culture-fair tests, rarely on alternative symbolic forms
 description: Research on minority group testing has focused on test bias, linguistic minorities, and culture-fair tests, rarely on alternative symbolic forms
 id: minority-testing-research-neglects-alternative-symbolic-forms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

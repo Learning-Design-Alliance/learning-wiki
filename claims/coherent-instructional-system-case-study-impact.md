@@ -3,7 +3,7 @@ type: claim
 title: A district case study identifies practices and conditions of a coherent instructional system for reading and science improvement and where it had the most impact
 description: A district case study identifies practices and conditions of a coherent instructional system for reading and science improvement and where it had the most impact
 id: coherent-instructional-system-case-study-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

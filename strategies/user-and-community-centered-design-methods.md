@@ -3,7 +3,7 @@ type: strategy
 id: user-and-community-centered-design-methods
 title: Engage users and community members in the design process to make learning tools more attractive, useful, and effective
 description: "User- and community-centered design is one of three methodological advances the report highlights, defined as \"Engaging users and community members in the design process to make learning tools more attractive, useful,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: six-recommendations-fostering-reflective-judgment
 title: Six recommendations for fostering reflective judgment in introductory college science
 description: "The article closes with six recommendations for introductory college science: engage students in authentic scientific thinking rather than teaching about science; teach less and spend time on thinking skills, possibly..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

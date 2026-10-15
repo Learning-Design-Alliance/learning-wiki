@@ -3,7 +3,7 @@ type: claim
 title: The survey reports, citing Lu et al., that xAI-based interpretations of deep knowledge tracing were demonstrated to aid in enhancing the trust of students and teachers.
 description: The survey reports, citing Lu et al., that xAI-based interpretations of deep knowledge tracing were demonstrated to aid in enhancing the trust of students and teachers.
 id: xai-interpretation-of-dkt-enhances-trust
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

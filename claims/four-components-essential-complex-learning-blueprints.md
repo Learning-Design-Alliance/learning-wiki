@@ -3,7 +3,7 @@ type: claim
 title: Four interrelated components are essential in blueprints for complex learning
 description: Four interrelated components are essential in blueprints for complex learning
 id: four-components-essential-complex-learning-blueprints
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

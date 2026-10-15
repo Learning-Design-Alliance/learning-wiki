@@ -3,7 +3,7 @@ type: claim
 title: Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none
 description: Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none
 id: human-llm-agreement-low-construct-varying
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

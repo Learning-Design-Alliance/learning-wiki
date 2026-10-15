@@ -3,7 +3,7 @@ type: claim
 title: "Human-resource roadblocks rose sharply from 2009 to 2017: difficulty removing poor teachers increased from 39 to 48 percent, and concern over recruiting and hiring the right teachers nearly quadrupled from 12 to 44 percent"
 description: "Human-resource roadblocks rose sharply from 2009 to 2017: difficulty removing poor teachers increased from 39 to 48 percent, and concern over recruiting and hiring the right teachers nearly quadrupled from 12 to 44 pe..."
 id: cps-hr-roadblocks-rose-2009-2017
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

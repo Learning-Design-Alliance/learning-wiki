@@ -3,7 +3,7 @@ type: strategy
 id: four-leader-actions-retain-teachers-of-color
 title: "Four leader actions to retain teachers of color: financial incentives, disaggregated data, diverse leader investment, and inclusive environments"
 description: "The report closes with four recommended actions for state, district, and school leaders: value teachers of color through loan forgiveness, service scholarships, loan repayment and relocation incentives; collect and di..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

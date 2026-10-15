@@ -3,7 +3,7 @@ type: strategy
 id: keep-students-at-center-of-data-use
 title: "Keep students' lived experiences at the center of data use and ensure data reflect students' lives"
 description: This strategy warns that data users can become absorbed in trends and patterns tied to policies and programs and lose sight of the students they aim to serve.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

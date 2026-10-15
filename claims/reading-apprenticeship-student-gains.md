@@ -3,7 +3,7 @@ type: claim
 title: "Reading Apprenticeship active-learning PD produced a year's reading growth and better state assessment results for students"
 description: "Reading Apprenticeship active-learning PD produced a year's reading growth and better state assessment results for students"
 id: reading-apprenticeship-student-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

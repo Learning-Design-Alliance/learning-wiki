@@ -3,7 +3,7 @@ type: claim
 title: "Students' attendance and middle grades on-track rates in Success schools improved during the first two program years, especially in Year 2"
 description: "Students' attendance and middle grades on-track rates in Success schools improved during the first two program years, especially in Year 2"
 id: success-project-attendance-ontrack-improved
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

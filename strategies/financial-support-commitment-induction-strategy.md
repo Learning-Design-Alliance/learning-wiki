@@ -3,7 +3,7 @@ type: strategy
 id: financial-support-commitment-induction-strategy
 title: Provide financial support and induction mentoring in exchange for a multi-year teaching commitment
 description: Residencies offer living stipends, tuition remission, and loan forgiveness in exchange for a commitment to teach in the sponsoring district, typically 3-5 years, and provide 1-3 years of early career mentoring after c...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: experiential-intercultural-training-methods
 title: Use experiential intercultural training methods such as simulations, role-playing and critical incidents to encounter perceptual and value differences
 description: Several annotated background materials recommend experiential methods for intercultural learning.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: element
 id: pennsylvania-pilot-phase1-vam-estimates
 title: Value-added models (VAMs) developed and estimated for Phase 1 of the Pennsylvania Teacher and Principal Evaluation Pilot
 description: The article describes a set of value-added models (VAMs) developed and estimated as technical assistance for Phase 1 of the Pennsylvania Teacher and Principal Evaluation Pilot.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

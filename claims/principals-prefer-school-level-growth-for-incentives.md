@@ -3,7 +3,7 @@ type: claim
 title: Principals prefer school-level performance and achievement growth over teacher-level performance alone or test-score levels for incentive awards
 description: Principals prefer school-level performance and achievement growth over teacher-level performance alone or test-score levels for incentive awards
 id: principals-prefer-school-level-growth-for-incentives
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

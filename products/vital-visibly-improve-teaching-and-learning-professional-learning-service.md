@@ -4,7 +4,7 @@ id: vital-visibly-improve-teaching-and-learning-professional-learning-service
 title: VITAL (Visibly Improve Teaching and Learning) professional learning service
 description: "WestEd's VITAL service builds K–12 teachers' capacity for collaborative inquiry through structured teaching-and-learning cycles, peer feedback, reflection, and analysis of student and teacher learning."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

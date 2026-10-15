@@ -3,7 +3,7 @@ type: claim
 title: Decisions made at each stage of a meta-analysis influence its conduct, results, and substantive implications
 description: Decisions made at each stage of a meta-analysis influence its conduct, results, and substantive implications
 id: meta-analysis-stage-decisions-shape-results
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

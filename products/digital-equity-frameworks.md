@@ -4,7 +4,7 @@ id: digital-equity-frameworks
 title: Digital Equity Frameworks
 description: A framework for planning and guiding digital-equity work in schools and districts through the principles of inclusive innovation, sustainability, and continuous improvement.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

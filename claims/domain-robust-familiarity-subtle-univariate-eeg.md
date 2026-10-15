@@ -3,7 +3,7 @@ type: claim
 title: Trial-level spectral features robustly differentiate stimulus domains (faces vs. equations) but no familiarity-driven spectral shift survives FDR correction
 description: Trial-level spectral features robustly differentiate stimulus domains (faces vs.
 id: domain-robust-familiarity-subtle-univariate-eeg
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

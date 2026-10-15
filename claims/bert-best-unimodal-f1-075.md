@@ -3,7 +3,7 @@ type: claim
 title: BERT was the best unimodal text classifier for Key Stage classification with an F1 score of 0.75
 description: BERT was the best unimodal text classifier for Key Stage classification with an F1 score of 0.75
 id: bert-best-unimodal-f1-075
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

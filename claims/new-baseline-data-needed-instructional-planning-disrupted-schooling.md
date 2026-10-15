@@ -3,7 +3,7 @@ type: claim
 title: New baseline data are needed to support instructional planning for individual students and student groups after disrupted schooling
 description: New baseline data are needed to support instructional planning for individual students and student groups after disrupted schooling
 id: new-baseline-data-needed-instructional-planning-disrupted-schooling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

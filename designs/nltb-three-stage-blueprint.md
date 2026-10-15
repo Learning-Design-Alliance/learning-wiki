@@ -3,7 +3,7 @@ type: design
 id: nltb-three-stage-blueprint
 title: "Next Level Teaching Blueprint (NLTB): three-stage constraint-first design for Strategic Dialogue"
 description: "A replicable instructional design system with three sequenced stages and explicit interaction protocols, described by the article as having \"a theoretical logic linking each element to Path 3 engagement.\" Stage 1 has..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

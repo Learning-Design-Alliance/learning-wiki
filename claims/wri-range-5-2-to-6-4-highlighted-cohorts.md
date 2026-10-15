@@ -3,7 +3,7 @@ type: claim
 title: Cohort workforce-readiness index ranged from 5.2 to 6.4 across the four highlighted cases
 description: Cohort workforce-readiness index ranged from 5.2 to 6.4 across the four highlighted cases
 id: wri-range-5-2-to-6-4-highlighted-cohorts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

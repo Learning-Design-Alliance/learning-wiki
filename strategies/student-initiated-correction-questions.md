@@ -3,7 +3,7 @@ type: strategy
 id: student-initiated-correction-questions
 title: Put students in charge of soliciting grammatical feedback through pre-taught correction questions
 description: "To give corrective feedback without hindering communication, the teacher shifts the onus to students: in the journal space reserved for teacher comments, students ask specific questions about the grammatical correctne..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

@@ -3,7 +3,7 @@ type: claim
 title: Most teens at any given time chose the hanging out space, though staff reported a substantial number also engaged in geeking out activities
 description: Most teens at any given time chose the hanging out space, though staff reported a substantial number also engaged in geeking out activities
 id: youmedia-hanging-out-dominant-with-geeking-out-subgroup
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

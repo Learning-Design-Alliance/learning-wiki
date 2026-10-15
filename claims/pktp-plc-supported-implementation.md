@@ -3,7 +3,7 @@ type: claim
 title: Consistent participation in a cross-grade, cross-school professional learning community supported PKTP implementation and teacher learning
 description: Consistent participation in a cross-grade, cross-school professional learning community supported PKTP implementation and teacher learning
 id: pktp-plc-supported-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

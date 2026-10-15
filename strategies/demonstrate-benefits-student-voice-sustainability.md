@@ -3,7 +3,7 @@ type: strategy
 id: demonstrate-benefits-student-voice-sustainability
 title: Demonstrate solution benefits through participant perspectives, direct experience, and foregrounded student voice
 description: "Because longer-term equitable student outcomes lag behind implementation, the article recommends substantiating benefit through direct participants' perspectives, firsthand experience such as live demonstrations and o..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Increasing high school GPA by 0.4 points has a larger impact on four-year college graduation than increasing ACT by 2 points for CPS students of all academic qualifications
 description: Increasing high school GPA by 0.4 points has a larger impact on four-year college graduation than increasing ACT by 2 points for CPS students of all academic qualifications
 id: gpa-increase-outperforms-act-for-college-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Students' confidence and readiness correlate mostly with self-efficacy and collaboration rather than with formal instruction"
 description: "Students' confidence and readiness correlate mostly with self-efficacy and collaboration rather than with formal instruction"
 id: student-confidence-readiness-self-efficacy-collaboration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

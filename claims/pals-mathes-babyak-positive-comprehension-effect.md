@@ -3,7 +3,7 @@ type: claim
 title: Peer-Assisted Literacy Strategies showed a substantively important positive (but statistically non-significant) effect on WRMT-R Passage Comprehension for first graders
 description: Peer-Assisted Literacy Strategies showed a substantively important positive (but statistically non-significant) effect on WRMT-R Passage Comprehension for first graders
 id: pals-mathes-babyak-positive-comprehension-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Students oppose preferring AI videos over instructor-recorded videos and distrust AI video information as much as human-presented information
 description: Students oppose preferring AI videos over instructor-recorded videos and distrust AI video information as much as human-presented information
 id: students-oppose-ai-videos-replacing-instructors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

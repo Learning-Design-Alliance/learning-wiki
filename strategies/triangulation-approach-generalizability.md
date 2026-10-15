@@ -3,7 +3,7 @@ type: strategy
 id: triangulation-approach-generalizability
 title: Triangulate internal-validity findings with interaction analyses, propensity-score generalizability indices, and adapted extensions to establish external validity
 description: "The report proposes a three-part methodological strategy for establishing that an experimental finding generalizes when probability sampling of schools is impractical: (1) test interactions between treatment effects a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

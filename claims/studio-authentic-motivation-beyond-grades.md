@@ -3,7 +3,7 @@ type: claim
 title: Students in interdisciplinary design studio courses reported high authentic motivation stemming from the problems rather than grades
 description: Students in interdisciplinary design studio courses reported high authentic motivation stemming from the problems rather than grades
 id: studio-authentic-motivation-beyond-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

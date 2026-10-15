@@ -4,7 +4,7 @@ id: investigations-in-number-data-and-space-math-expressions-saxon-math-and-scot
 title: Investigations in Number, Data, and Space; Math Expressions; Saxon Math; and Scott Foresman-Addison Wesley Mathematics
 description: Four published elementary mathematics curricula evaluated comparatively by Agodini et al.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

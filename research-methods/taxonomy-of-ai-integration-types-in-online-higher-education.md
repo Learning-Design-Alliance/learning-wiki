@@ -3,7 +3,7 @@ type: research-method
 id: taxonomy-of-ai-integration-types-in-online-higher-education
 title: Taxonomy of AI integration types in online higher education
 description: "From 54 articles containing specific examples, the review classifies AI integration into categories: \"AI teaching assistance/machine teachers; automated AI monitoring; AI-driven surveillance; algorithms, generative AI (GAI), large language models, machine learning, prediction model performance (i.e."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

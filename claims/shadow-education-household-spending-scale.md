@@ -3,7 +3,7 @@ type: claim
 title: Households pay substantial recurring sums for private supplementary language education, with Korea at 29.2 trillion won in 2024 and English the leading subject
 description: Households pay substantial recurring sums for private supplementary language education, with Korea at 29.2 trillion won in 2024 and English the leading subject
 id: shadow-education-household-spending-scale
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

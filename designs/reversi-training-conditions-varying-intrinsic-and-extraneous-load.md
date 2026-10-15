@@ -3,7 +3,7 @@ type: design
 id: reversi-training-conditions-varying-intrinsic-and-extraneous-load
 title: Jointly varying intrinsic and extraneous load in a Reversi game to isolate germane load effects
 description: This design pattern uses a computer-based Reversi game with three conditions crossing a display factor affecting extraneous load (Black and White vs.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

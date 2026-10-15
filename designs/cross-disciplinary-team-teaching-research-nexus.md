@@ -3,7 +3,7 @@ type: design
 id: cross-disciplinary-team-teaching-research-nexus
 title: Teaching-research nexus with cross-disciplinary, cross-cultural team teaching
 description: "Woolyungah's academics span several disciplines and use a team-teaching approach so students encounter a range of approaches to disciplinary and cross-disciplinary research."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

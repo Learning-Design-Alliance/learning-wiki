@@ -3,7 +3,7 @@ type: claim
 title: Layered AI feedback was perceived as more encouraging and independence-supporting but imposed higher mental effort
 description: Layered AI feedback was perceived as more encouraging and independence-supporting but imposed higher mental effort
 id: layered-ai-feedback-perceptions-mental-effort
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: PROMISE treatment group youth had lower educational attainment than control group youth
 description: PROMISE treatment group youth had lower educational attainment than control group youth
 id: promise-lower-educational-attainment-than-control
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

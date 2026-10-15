@@ -3,7 +3,7 @@ type: strategy
 id: observable-verifiable-rubric-criteria-with-citable-evidence
 title: Design rubric criteria and model instructions in observable, verifiable terms with citable evidence requirements
 description: The article recommends formulating assessment criteria in observable and verifiable terms, avoiding formulations assessable only through an overall reading.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

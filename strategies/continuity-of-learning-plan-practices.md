@@ -3,7 +3,7 @@ type: strategy
 id: continuity-of-learning-plan-practices
 title: Develop or update continuity of learning plans using evidence-based and promising practices to prepare for blended learning and possible school closures
 description: This strategy directs local education agencies to develop or update continuity of learning plans that keep students progressing academically across in-person and home settings.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

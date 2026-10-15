@@ -3,7 +3,7 @@ type: claim
 title: "Structural and dynamical future-scaffolding skills appeared in teachers' visions, led by causal-relationship identification and present-future shifting"
 description: "Structural and dynamical future-scaffolding skills appeared in teachers' visions, led by causal-relationship identification and present-future shifting"
 id: future-scaffolding-skills-teacher-essays
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Under unclear presentation, a more complex concept structure lessens students' ability to identify concepts"
 description: "Under unclear presentation, a more complex concept structure lessens students' ability to identify concepts"
 id: unclear-presentation-complex-structure-penalty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Both GAI-assisted and traditional DST groups improved in CPS skills over the 20-week program, with larger gains in the GAI group
 description: Both GAI-assisted and traditional DST groups improved in CPS skills over the 20-week program, with larger gains in the GAI group
 id: both-groups-improved-cps-gai-larger-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

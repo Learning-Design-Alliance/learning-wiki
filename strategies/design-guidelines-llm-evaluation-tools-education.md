@@ -3,7 +3,7 @@ type: strategy
 id: design-guidelines-llm-evaluation-tools-education
 title: "Design guidelines for future LLM evaluation tools: configurable metric views, tighter metric-rubric integration, and comparison-foregrounding visualizations"
 description: The article synthesizes design guidelines for future LLM evaluation tools that enable pedagogically-aligned, LLM-powered learning tools.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

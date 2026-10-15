@@ -3,7 +3,7 @@ type: claim
 title: Engineering students come to view mastering GenAI as crucial as other engineering skills, driven by labour-market expectations, alongside widespread uncertainty about over-reliance
 description: Engineering students come to view mastering GenAI as crucial as other engineering skills, driven by labour-market expectations, alongside widespread uncertainty about over-reliance
 id: genai-mastery-new-learning-objective-engineering
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

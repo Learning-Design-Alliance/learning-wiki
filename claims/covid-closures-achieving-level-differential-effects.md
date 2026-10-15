@@ -3,7 +3,7 @@ type: claim
 title: Low-performing students were more affected by closures in mathematics while high-performing students were more affected in reading, and low-performing students benefited more from systematic online learning
 description: Low-performing students were more affected by closures in mathematics while high-performing students were more affected in reading, and low-performing students benefited more from systematic online learning
 id: covid-closures-achieving-level-differential-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

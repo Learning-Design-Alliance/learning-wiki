@@ -3,7 +3,7 @@ type: claim
 title: Districts use a wide variety of methods to assess Portrait of a Graduate skills, varying across contexts and grade levels
 description: Districts use a wide variety of methods to assess Portrait of a Graduate skills, varying across contexts and grade levels
 id: districts-use-varied-pog-assessment-methods
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

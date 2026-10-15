@@ -3,7 +3,7 @@ type: claim
 title: Intelligent tutoring systems are reported to improve learning outcomes, especially in structured knowledge domains
 description: Intelligent tutoring systems are reported to improve learning outcomes, especially in structured knowledge domains
 id: its-improve-outcomes-structured-domains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

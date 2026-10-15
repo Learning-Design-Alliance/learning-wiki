@@ -3,7 +3,7 @@ type: claim
 title: High- and low-prior-knowledge learners differ significantly on an algebra posttest and on intrinsic and germane cognitive load, but not on extraneous load
 description: High- and low-prior-knowledge learners differ significantly on an algebra posttest and on intrinsic and germane cognitive load, but not on extraneous load
 id: high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

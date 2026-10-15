@@ -3,7 +3,7 @@ type: claim
 title: During active transfer, the application rejected learner coaching and export requests and redacted earlier project content in all 120 episodes
 description: During active transfer, the application rejected learner coaching and export requests and redacted earlier project content in all 120 episodes
 id: praxis-transfer-restrictions-enforced
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

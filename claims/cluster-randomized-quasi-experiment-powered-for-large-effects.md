@@ -3,7 +3,7 @@ type: claim
 title: The evaluation used a school-level cluster-randomized quasi-experiment (N = 50) that was powered only to detect large effects (d = 0.81)
 description: The evaluation used a school-level cluster-randomized quasi-experiment (N = 50) that was powered only to detect large effects (d = 0.81)
 id: cluster-randomized-quasi-experiment-powered-for-large-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

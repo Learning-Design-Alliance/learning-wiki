@@ -3,7 +3,7 @@ type: claim
 title: Students answer lower-taxonomy-category questions more frequently, but only by a factor of about 2
 description: Students answer lower-taxonomy-category questions more frequently, but only by a factor of about 2
 id: lower-taxonomy-questions-answered-more
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

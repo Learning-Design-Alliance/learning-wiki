@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

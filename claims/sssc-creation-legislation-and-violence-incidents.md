@@ -3,7 +3,7 @@ type: claim
 title: "State legislation was the most commonly reported reason SSSCs were created, with school violence incidents cited by 28% of respondents"
 description: "State legislation was the most commonly reported reason SSSCs were created, with school violence incidents cited by 28% of respondents"
 id: sssc-creation-legislation-and-violence-incidents
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

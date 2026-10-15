@@ -3,7 +3,7 @@ type: claim
 title: "Rural Nebraska districts' middle school CTE offerings are limited by teacher availability, with one CTE teacher often covering both middle grade and high school courses"
 description: "Rural Nebraska districts' middle school CTE offerings are limited by teacher availability, with one CTE teacher often covering both middle grade and high school courses"
 id: rural-districts-cte-limited-by-teacher-availability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

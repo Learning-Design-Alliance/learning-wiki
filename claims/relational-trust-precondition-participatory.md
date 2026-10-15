@@ -3,7 +3,7 @@ type: claim
 title: Relational trust built through prior rigorous evaluation was a precondition for introducing participatory approaches
 description: Relational trust built through prior rigorous evaluation was a precondition for introducing participatory approaches
 id: relational-trust-precondition-participatory
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

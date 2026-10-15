@@ -3,7 +3,7 @@ type: claim
 title: Exploration behavior is associated with the most complex and most varied conceptual models, with statistically significant differences across behavior types
 description: Exploration behavior is associated with the most complex and most varied conceptual models, with statistically significant differences across behavior types
 id: exploration-associated-with-model-complexity-variety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

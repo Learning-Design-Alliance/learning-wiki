@@ -3,7 +3,7 @@ type: claim
 title: Pre-K Mathematics with DLM Early Childhood Express Math shows no discernible effects on preschool oral language
 description: Pre-K Mathematics with DLM Early Childhood Express Math shows no discernible effects on preschool oral language
 id: prek-mathematics-no-oral-language-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

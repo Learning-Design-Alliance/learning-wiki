@@ -3,7 +3,7 @@ type: claim
 title: Dual enrollment programs have positive effects on college degree attainment, with an average improvement index of +25 percentile points
 description: Dual enrollment programs have positive effects on college degree attainment, with an average improvement index of +25 percentile points
 id: dual-enrollment-positive-degree-attainment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

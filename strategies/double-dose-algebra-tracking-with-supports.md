@@ -3,7 +3,7 @@ type: strategy
 id: double-dose-algebra-tracking-with-supports
 title: "Double-dose algebra: tracking with supports as an alternative to detracking"
 description: The double-dose algebra strategy keeps homogeneous classes but gives low-skill students two periods of algebra—a support course plus regular algebra—along with curricular resources, stand-alone lesson plans, and profe...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

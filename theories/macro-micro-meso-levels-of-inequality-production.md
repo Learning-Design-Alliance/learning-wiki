@@ -3,7 +3,7 @@ type: theory
 title: Macro-, Micro- and Meso-Level Stations of Inequality Production
 description: "A three-level account, drawn from Lamont, Beljean and Clair (2014), of \"three essential stations to understand the production of inequalities\": macro-level material, symbolic and location-based inequality; micro-level..."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

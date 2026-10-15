@@ -3,7 +3,7 @@ type: claim
 title: The viability of using RD designs for new impact evaluations of educational interventions depends on the point of treatment assignment, the availability of pretests, and key research questions
 description: The viability of using RD designs for new impact evaluations of educational interventions depends on the point of treatment assignment, the availability of pretests, and key research questions
 id: rd-design-viability-depends-on-assignment-point-pretests-questions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

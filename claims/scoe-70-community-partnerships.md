@@ -3,7 +3,7 @@ type: claim
 title: Through Project Cal-Well, SCOE established or renewed 70 community partnerships to improve school-based mental health services
 description: Through Project Cal-Well, SCOE established or renewed 70 community partnerships to improve school-based mental health services
 id: scoe-70-community-partnerships
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

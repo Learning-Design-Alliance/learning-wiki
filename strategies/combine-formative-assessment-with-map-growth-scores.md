@@ -3,7 +3,7 @@ type: strategy
 id: combine-formative-assessment-with-map-growth-scores
 title: Combine formative assessment information with MAP Growth scores for instructional decisions
 description: "Because formative assessment is not designed to measure growth over time, the article recommends that teachers \"combine the formative assessment information with MAP Growth scores to make data-informed decisions about..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

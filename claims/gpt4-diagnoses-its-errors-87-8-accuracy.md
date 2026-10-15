@@ -3,7 +3,7 @@ type: claim
 title: "Given sufficient prompt context, GPT-4 describes student errors in a College Algebra ITS with 87.8% accuracy"
 description: "Given sufficient prompt context, GPT-4 describes student errors in a College Algebra ITS with 87.8% accuracy"
 id: gpt4-diagnoses-its-errors-87-8-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

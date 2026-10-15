@@ -3,7 +3,7 @@ type: strategy
 id: match-subjects-to-most-likely-beneficial-intervention
 title: Match each study subject to the candidate intervention most likely to benefit them
 description: The article recommends that evaluators use its Bayesian approach to consider multiple candidate interventions simultaneously within one trial, matching each study subject with the intervention most likely to benefit t...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

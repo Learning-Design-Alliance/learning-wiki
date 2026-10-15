@@ -3,7 +3,7 @@ type: claim
 title: The 2024 reduction of the maximum GSTG award from $20,000 to $10,000 left recipients with more unmet need, greater loan reliance, and more work during preparation
 description: The 2024 reduction of the maximum GSTG award from $20,000 to $10,000 left recipients with more unmet need, greater loan reliance, and more work during preparation
 id: gstg-reduced-award-lessens-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Log-based evaluation showed chatbot alignment was stronger for responsiveness (88.9%) and persona (81.5%) than for rules (70.4%) and purpose (59.3%)"
 description: "Log-based evaluation showed chatbot alignment was stronger for responsiveness (88.9%) and persona (81.5%) than for rules (70.4%) and purpose (59.3%)"
 id: log-based-alignment-responsiveness-persona-rules-purpose
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "The study's findings derive from structured reflections of 10 researchers and 11 program designers, not direct partner reports"
 description: "The study's findings derive from structured reflections of 10 researchers and 11 program designers, not direct partner reports"
 id: reflection-method-10-researchers-11-program-staff
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

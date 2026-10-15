@@ -3,7 +3,7 @@ type: claim
 title: Phase 1 of the Pennsylvania evaluation pilot produced value-added estimates of teacher and principal contributions to student achievement growth
 description: Phase 1 of the Pennsylvania evaluation pilot produced value-added estimates of teacher and principal contributions to student achievement growth
 id: phase-1-pennsylvania-value-added-estimates-produced
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

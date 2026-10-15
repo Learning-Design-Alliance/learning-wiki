@@ -3,7 +3,7 @@ type: claim
 title: Expert annotators show high agreement on intervention appropriateness ratings
 description: Expert annotators show high agreement on intervention appropriateness ratings
 id: expert-annotator-high-agreement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

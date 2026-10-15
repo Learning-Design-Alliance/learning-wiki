@@ -4,7 +4,7 @@ id: mathematics-diagnostic-testing-project-mdtp
 title: Mathematics Diagnostic Testing Project (MDTP)
 description: MDTP is a mathematics diagnostic assessment project that provides topic-level mastery information for students and educators, including online results used to inform algebra placement decisions.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

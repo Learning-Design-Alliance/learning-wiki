@@ -3,7 +3,7 @@ type: claim
 title: "AI-assisted feedback drafts do not reduce TAs' time spent per character of feedback"
 description: "AI-assisted feedback drafts do not reduce TAs' time spent per character of feedback"
 id: ai-drafts-no-reduction-time-per-character
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

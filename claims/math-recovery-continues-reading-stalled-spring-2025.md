@@ -3,7 +3,7 @@ type: claim
 title: In spring 2025, math recovery continued while reading remained stalled
 description: In spring 2025, math recovery continued while reading remained stalled
 id: math-recovery-continues-reading-stalled-spring-2025
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

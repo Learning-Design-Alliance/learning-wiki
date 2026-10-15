@@ -3,7 +3,7 @@ type: claim
 title: "Dissatisfaction is the most-cited reason for leaving, cited by 55% of profession-leavers and 66% of school-movers"
 description: "Dissatisfaction is the most-cited reason for leaving, cited by 55% of profession-leavers and 66% of school-movers"
 id: dissatisfaction-top-reason-for-turnover
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

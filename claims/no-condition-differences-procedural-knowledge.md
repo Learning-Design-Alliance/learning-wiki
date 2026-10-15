@@ -3,7 +3,7 @@ type: claim
 title: The three preparatory conditions did not differ on procedural knowledge acquisition
 description: The three preparatory conditions did not differ on procedural knowledge acquisition
 id: no-condition-differences-procedural-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

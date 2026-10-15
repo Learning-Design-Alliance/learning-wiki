@@ -3,7 +3,7 @@ type: claim
 title: "U.S. recertification policy relies heavily on seat-time CEUs: 44 states require them while only six require performance indicators for licensure renewal"
 description: U.S.
 id: recertification-seat-time-ceu-dominance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

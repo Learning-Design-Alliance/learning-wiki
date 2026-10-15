@@ -3,7 +3,7 @@ type: claim
 title: College enrollment gaps by race, gender, and socioeconomic background among CPS graduates were driven primarily by differences in four-year enrollment
 description: College enrollment gaps by race, gender, and socioeconomic background among CPS graduates were driven primarily by differences in four-year enrollment
 id: cps-enrollment-gaps-driven-by-four-year-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Students are dissatisfied with college websites and want interactive, dynamic, accurate, and timely online information
 description: Students are dissatisfied with college websites and want interactive, dynamic, accurate, and timely online information
 id: students-dissatisfied-with-college-websites
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

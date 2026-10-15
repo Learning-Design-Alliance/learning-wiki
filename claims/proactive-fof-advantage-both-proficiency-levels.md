@@ -3,7 +3,7 @@ type: claim
 title: Proactive FOF improved grammar more than reactive FOF at both beginner and upper-intermediate proficiency levels
 description: Proactive FOF improved grammar more than reactive FOF at both beginner and upper-intermediate proficiency levels
 id: proactive-fof-advantage-both-proficiency-levels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

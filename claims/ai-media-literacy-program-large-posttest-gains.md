@@ -3,7 +3,7 @@ type: claim
 title: Fourth-graders receiving AI-enhanced media literacy instruction outperformed control-group peers on post-test critical media reading, writing, and total literacy with large effect sizes
 description: Fourth-graders receiving AI-enhanced media literacy instruction outperformed control-group peers on post-test critical media reading, writing, and total literacy with large effect sizes
 id: ai-media-literacy-program-large-posttest-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

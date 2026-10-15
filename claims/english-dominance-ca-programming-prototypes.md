@@ -3,7 +3,7 @@ type: claim
 title: "English dominates CA interaction languages: 17 of 23 prototypes relied exclusively on English even though only seven studies originated from English-speaking countries"
 description: "English dominates CA interaction languages: 17 of 23 prototypes relied exclusively on English even though only seven studies originated from English-speaking countries"
 id: english-dominance-ca-programming-prototypes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

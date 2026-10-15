@@ -3,7 +3,7 @@ type: claim
 title: "Each additional correct GLAT response is associated with a 13.9% increase in modeled odds of correctly classifying a scenario"
 description: "Each additional correct GLAT response is associated with a 13.9% increase in modeled odds of correctly classifying a scenario"
 id: glat-predicts-scenario-accuracy-binomial-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

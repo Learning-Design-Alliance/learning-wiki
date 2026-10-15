@@ -3,7 +3,7 @@ type: claim
 title: Initial findings suggest video modeling pedagogy is suitable for active and deep learning through predicting, observing and explaining
 description: Initial findings suggest video modeling pedagogy is suitable for active and deep learning through predicting, observing and explaining
 id: video-modeling-suits-active-deep-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

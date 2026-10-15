@@ -3,7 +3,7 @@ type: claim
 title: Four-year enrollees had stronger academic qualifications than two-year enrollees and non-enrollees, yet many non-enrollees and two-year entrants had credentials sufficient for four-year access
 description: Four-year enrollees had stronger academic qualifications than two-year enrollees and non-enrollees, yet many non-enrollees and two-year entrants had credentials sufficient for four-year access
 id: academic-qualifications-vary-by-enrollment-status
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

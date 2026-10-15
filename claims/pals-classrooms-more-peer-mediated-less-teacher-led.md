@@ -3,7 +3,7 @@ type: claim
 title: In the meeting-standards study, PALS classrooms used more one-on-one and peer-mediated instruction and less teacher-led instruction than comparison classrooms
 description: In the meeting-standards study, PALS classrooms used more one-on-one and peer-mediated instruction and less teacher-led instruction than comparison classrooms
 id: pals-classrooms-more-peer-mediated-less-teacher-led
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

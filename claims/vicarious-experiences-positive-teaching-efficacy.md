@@ -3,7 +3,7 @@ type: claim
 title: "Vicarious experiences are positively related to agriculture teachers' general teaching efficacy, with observing a first year teacher explaining 11% of variance"
 description: "Vicarious experiences are positively related to agriculture teachers' general teaching efficacy, with observing a first year teacher explaining 11% of variance"
 id: vicarious-experiences-positive-teaching-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

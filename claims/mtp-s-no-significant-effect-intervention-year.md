@@ -3,7 +3,7 @@ type: claim
 title: MTP-S showed no statistically significant effect on general achievement during the intervention year
 description: MTP-S showed no statistically significant effect on general achievement during the intervention year
 id: mtp-s-no-significant-effect-intervention-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

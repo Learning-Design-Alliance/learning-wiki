@@ -3,7 +3,7 @@ type: claim
 title: US public education could lose $11.5 billion in annual state revenues by 2030–31 as enrollment declines, with 40 states and DC projected to see further declines
 description: US public education could lose $11.5 billion in annual state revenues by 2030–31 as enrollment declines, with 40 states and DC projected to see further declines
 id: enrollment-decline-11-5b-revenue-loss-2030-31
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

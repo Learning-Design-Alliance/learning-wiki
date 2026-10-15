@@ -3,7 +3,7 @@ type: claim
 title: A 4-bit quantized 27B local Teacher LLM generated knowledge in the required format, suggesting accessible-resource implementations may be feasible
 description: A 4-bit quantized 27B local Teacher LLM generated knowledge in the required format, suggesting accessible-resource implementations may be feasible
 id: quantized-local-teacher-llm-feasible
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: integrate-ct-into-disciplinary-learning
 title: Integrate computational thinking into existing disciplinary teaching across grade bands rather than adding it on
 description: The guide recommends that educators embed computational thinking into topics they already teach, such as math and ELA, so it becomes a value-add rather than an add-on to an overscheduled day.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

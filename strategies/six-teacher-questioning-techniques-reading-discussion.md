@@ -3,7 +3,7 @@ type: strategy
 id: six-teacher-questioning-techniques-reading-discussion
 title: "Apply six questioning techniques in whole-class discussion: simplify, moderate, provoke thought, challenge, follow up, and relate to students"
 description: "After group discussion or role-play, whole-class discussion follows, and the article details six techniques for teacher questions: simplifying language, moderating difficulty to students' knowledge and thinking capabi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

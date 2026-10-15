@@ -3,7 +3,7 @@ type: claim
 title: Agreement between K–3 screening assessments on risk classification varied from 47 percent to 85 percent depending on the assessment combination
 description: Agreement between K–3 screening assessments on risk classification varied from 47 percent to 85 percent depending on the assessment combination
 id: screening-assessment-agreement-varies-47-85-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

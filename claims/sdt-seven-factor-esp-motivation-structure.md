@@ -3,7 +3,7 @@ type: claim
 title: An SDT-based questionnaire yields seven distinct, reliable motivation subtypes for Chinese college ESP learners
 description: An SDT-based questionnaire yields seven distinct, reliable motivation subtypes for Chinese college ESP learners
 id: sdt-seven-factor-esp-motivation-structure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

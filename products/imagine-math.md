@@ -4,7 +4,7 @@ id: imagine-math
 title: Imagine Math
 description: "Imagine Math is Imagine Learning's adaptive digital supplemental mathematics learning platform for Pre-Kindergarten through Geometry, offering scaffolded instruction and on-demand support from certified teachers."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

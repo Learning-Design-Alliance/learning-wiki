@@ -3,7 +3,7 @@ type: element
 id: tough-twelve-self-teaching-tasks
 title: "Tough's list of twelve common self-teaching tasks"
 description: "In constructing his 1967 study, Tough derived from pedagogic literature, his own self-education experience, colleague conversations and pilot interviews \"a list of twelve 'common' self teaching tasks\", including choos..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

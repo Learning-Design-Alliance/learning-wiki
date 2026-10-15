@@ -3,7 +3,7 @@ type: claim
 title: The SRI program produced a statistically significant positive effect on knowledge of reading strategies after one year of intervention in Grade 3
 description: The SRI program produced a statistically significant positive effect on knowledge of reading strategies after one year of intervention in Grade 3
 id: sri-positive-effect-strategy-knowledge-grade-3
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

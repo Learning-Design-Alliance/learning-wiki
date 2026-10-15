@@ -3,7 +3,7 @@ type: claim
 title: "Larger dense generators passed smoke probes but all exceeded the +30% classroom latency limit in bake-off round 1"
 description: "Larger dense generators passed smoke probes but all exceeded the +30% classroom latency limit in bake-off round 1"
 id: larger-generators-fail-classroom-speed-gate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

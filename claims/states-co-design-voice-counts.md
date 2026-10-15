@@ -3,7 +3,7 @@ type: claim
 title: Eleven of 33 state guidance documents mention co-design or feedback loop structures, and 27 include student, teacher, parent, and community voices
 description: Eleven of 33 state guidance documents mention co-design or feedback loop structures, and 27 include student, teacher, parent, and community voices
 id: states-co-design-voice-counts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

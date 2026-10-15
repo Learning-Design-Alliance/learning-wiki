@@ -3,7 +3,7 @@ type: theory
 title: Self-originated elaboration account of acceptance without comprehension
 description: "The article's preferred formulation is a cognitive response account in which acceptance rests on the recipient's own thoughts rather than on message meaning."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

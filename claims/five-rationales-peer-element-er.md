@@ -3,7 +3,7 @@ type: claim
 title: The article advances a five-part rationale for benefits of adding a peer element to extensive reading
 description: The article advances a five-part rationale for benefits of adding a peer element to extensive reading
 id: five-rationales-peer-element-er
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

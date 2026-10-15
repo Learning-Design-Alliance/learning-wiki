@@ -3,7 +3,7 @@ type: claim
 title: The tutor-access learning gain was concentrated in conceptual depth of written answers rather than multiple-choice scores
 description: The tutor-access learning gain was concentrated in conceptual depth of written answers rather than multiple-choice scores
 id: tutor-gain-concentrated-in-written-reasoning-depth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Item-difficulty orderings diverge across cohorts, with the weakest correlation between academics and students (r = 0.188) and no stable shared developmental hierarchy
 description: Item-difficulty orderings diverge across cohorts, with the weakest correlation between academics and students (r = 0.188) and no stable shared developmental hierarchy
 id: cohort-difficulty-ordering-correlations-diverge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

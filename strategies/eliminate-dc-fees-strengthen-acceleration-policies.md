@@ -3,7 +3,7 @@ type: strategy
 id: eliminate-dc-fees-strengthen-acceleration-policies
 title: State leaders should eliminate dual credit fees for all students and strengthen automatic enrollment policy implementation
 description: "The brief recommends that Washington build on its 2023 fee eliminations by extending universal access: \"The state should build on the universal access model they created in SB 5048 and work to eliminate fees for all s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

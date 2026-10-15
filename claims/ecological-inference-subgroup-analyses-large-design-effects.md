@@ -3,7 +3,7 @@ type: claim
 title: Ecological inference methods for subgroup analyses yield large design effects
 description: Ecological inference methods for subgroup analyses yield large design effects
 id: ecological-inference-subgroup-analyses-large-design-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: In the sole Salem-Keizer study, team recommendations split evenly between social supports and surveillance, with racial differences in recommendation types
 description: In the sole Salem-Keizer study, team recommendations split evenly between social supports and surveillance, with racial differences in recommendation types
 id: salem-keizer-supports-surveillance-racial-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

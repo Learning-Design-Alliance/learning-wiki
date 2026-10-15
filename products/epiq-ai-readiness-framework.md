@@ -4,7 +4,7 @@ id: epiq-ai-readiness-framework
 title: EPIQ-AI Readiness Framework
 description: A framework developed by Sangwa et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

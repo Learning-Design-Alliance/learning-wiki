@@ -3,7 +3,7 @@ type: design
 id: mathbot-constructionism-reinforcement-framework
 title: "Mathbot's design framework: Constructionism combined with Reinforcement Learning Theory for adaptive AI-driven learning"
 description: "The Mathbot intervention is grounded in a dual theoretical foundation combining Papert's Constructionism and Skinner's Reinforcement Learning Theory."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Students' help requests to the AI tutor were predominantly instrumental rather than executive, with procedural content and low verification"
 description: "Students' help requests to the AI tutor were predominantly instrumental rather than executive, with procedural content and low verification"
 id: instrumental-help-seeking-procedural-low-verification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

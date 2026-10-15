@@ -3,7 +3,7 @@ type: strategy
 id: continue-examining-ffl-score-variation-statewide
 title: "Continue examining the FFL's statistical properties, especially score variation, during statewide implementation"
 description: "The report recommends that as Pennsylvania's Framework for Leadership moves from pilot to statewide use, evidence on its statistical properties should keep being examined."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

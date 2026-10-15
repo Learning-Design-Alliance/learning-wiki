@@ -3,7 +3,7 @@ type: claim
 title: "The Louisiana study separated high schools' contributions to long-term success from family resources and students' learning before high school"
 description: "The Louisiana study separated high schools' contributions to long-term success from family resources and students' learning before high school"
 id: louisiana-school-contributions-separated-from-family-resources
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

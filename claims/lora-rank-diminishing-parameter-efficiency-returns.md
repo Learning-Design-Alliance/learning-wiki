@@ -3,7 +3,7 @@ type: claim
 title: Increasing LoRA rank raises absolute ROUGE-L gains but produces diminishing returns in performance per million adapter parameters
 description: Increasing LoRA rank raises absolute ROUGE-L gains but produces diminishing returns in performance per million adapter parameters
 id: lora-rank-diminishing-parameter-efficiency-returns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

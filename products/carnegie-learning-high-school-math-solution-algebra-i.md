@@ -4,7 +4,7 @@ id: carnegie-learning-high-school-math-solution-algebra-i
 title: Carnegie Learning High School Math Solution Algebra I
 description: A Carnegie Learning first-year Algebra I curriculum that combines textbook and workbook materials with self-paced individualized instruction through automated tutoring software.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

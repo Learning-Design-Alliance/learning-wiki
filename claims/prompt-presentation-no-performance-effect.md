@@ -3,7 +3,7 @@ type: claim
 title: Self-regulated vs. externally regulated prompt presentation shows no significant effect on posttest performance and no interaction with prompt format
 description: "Self-regulated vs. externally regulated prompt presentation shows no significant effect on posttest performance and no interaction with prompt format"
 id: prompt-presentation-no-performance-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

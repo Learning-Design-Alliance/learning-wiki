@@ -3,7 +3,7 @@ type: claim
 title: Fourth-graders perform substantially better on computation tests than on word problems using the same numbers
 description: Fourth-graders perform substantially better on computation tests than on word problems using the same numbers
 id: computation-outperforms-word-problems-same-numbers
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

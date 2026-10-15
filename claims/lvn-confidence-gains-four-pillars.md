@@ -3,7 +3,7 @@ type: claim
 title: Educators reported increased confidence across all four pillars of the whole-child model after LVN use
 description: Educators reported increased confidence across all four pillars of the whole-child model after LVN use
 id: lvn-confidence-gains-four-pillars
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

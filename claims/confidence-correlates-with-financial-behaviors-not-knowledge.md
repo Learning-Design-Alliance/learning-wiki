@@ -3,7 +3,7 @@ type: claim
 title: Metacognitive confidence about credit correlates with financial behaviors and advice giving, but knowledge performance does not correlate with behavior
 description: Metacognitive confidence about credit correlates with financial behaviors and advice giving, but knowledge performance does not correlate with behavior
 id: confidence-correlates-with-financial-behaviors-not-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

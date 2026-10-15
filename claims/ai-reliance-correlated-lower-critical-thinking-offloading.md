@@ -4,7 +4,7 @@ title: Higher reliance on AI tools is correlated with lower critical-thinking pe
 description: Higher reliance on AI tools is correlated with lower critical-thinking performance, mediated by cognitive offloading
 id: ai-reliance-correlated-lower-critical-thinking-offloading
 aliases: [llm-substitution-negative-critical-thinking-correlation]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

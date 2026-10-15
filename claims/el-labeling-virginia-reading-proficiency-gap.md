@@ -3,7 +3,7 @@ type: claim
 title: In Virginia, Hispanic/Latino children labeled English Learners with low kindergarten literacy were 20 percent less likely to achieve grade-3 reading proficiency than similar peers
 description: In Virginia, Hispanic/Latino children labeled English Learners with low kindergarten literacy were 20 percent less likely to achieve grade-3 reading proficiency than similar peers
 id: el-labeling-virginia-reading-proficiency-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

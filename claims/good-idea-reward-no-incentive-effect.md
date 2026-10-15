@@ -3,7 +3,7 @@ type: claim
 title: "Rewarding only 'good' ideas in a final task produced no incentive effect, but this condition was confounded and excluded from the main analysis"
 description: "Rewarding only 'good' ideas in a final task produced no incentive effect, but this condition was confounded and excluded from the main analysis"
 id: good-idea-reward-no-incentive-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: strategy
 id: ongoing-teacher-pd-for-ai-evaluation-integration
 title: Allocate ongoing professional development so teachers learn to evaluate and integrate AI systems appropriately
 description: The brief recommends continuous training covering equitable practice evaluation, effective integration, and data awareness.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: element
 id: co-regulation-strategies-welcoming-praise-breath-to-focus
 title: "Three co-regulation strategies for classroom facilitation: welcoming, praise, and breath to focus"
 description: The study implemented and tested three classroom strategies drawn from the SARHM project.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

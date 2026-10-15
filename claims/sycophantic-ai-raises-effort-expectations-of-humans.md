@@ -3,7 +3,7 @@ type: claim
 title: After talking with sycophantic AI, people anticipate greater effort to feel understood by a close other and feel their dilemma is already sufficiently talked through
 description: After talking with sycophantic AI, people anticipate greater effort to feel understood by a close other and feel their dilemma is already sufficiently talked through
 id: sycophantic-ai-raises-effort-expectations-of-humans
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

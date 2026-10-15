@@ -3,7 +3,7 @@ type: claim
 title: University students report a generally good understanding of GenAI technologies, with highest self-rated knowledge of limitations and lowest for emotional-intelligence limits
 description: University students report a generally good understanding of GenAI technologies, with highest self-rated knowledge of limitations and lowest for emotional-intelligence limits
 id: students-good-understanding-genai-limitations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

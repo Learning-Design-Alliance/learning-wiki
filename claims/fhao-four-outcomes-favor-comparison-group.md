@@ -3,7 +3,7 @@ type: claim
 title: Four of seven knowledge, attitudes, and values outcomes favor the comparison group, including ethnic identity (effect size -0.19) and both moral reasoning measures, none statistically significant
 description: Four of seven knowledge, attitudes, and values outcomes favor the comparison group, including ethnic identity (effect size -0.19) and both moral reasoning measures, none statistically significant
 id: fhao-four-outcomes-favor-comparison-group
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

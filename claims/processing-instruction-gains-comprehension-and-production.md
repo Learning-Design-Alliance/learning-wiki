@@ -3,7 +3,7 @@ type: claim
 title: Processing instruction produces significant gains in both sentence-level comprehension and production
 description: Processing instruction produces significant gains in both sentence-level comprehension and production
 id: processing-instruction-gains-comprehension-and-production
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

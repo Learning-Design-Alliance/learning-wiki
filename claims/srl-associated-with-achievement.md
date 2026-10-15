@@ -3,7 +3,7 @@ type: claim
 title: Self-regulated learning is associated with increased academic achievement and improved learning outcomes for students
 description: Self-regulated learning is associated with increased academic achievement and improved learning outcomes for students
 id: srl-associated-with-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

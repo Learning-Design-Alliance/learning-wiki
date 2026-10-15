@@ -3,7 +3,7 @@ type: claim
 title: Game design, not learner age or linguistic background, determines DGBL effectiveness; adventure games outperform non-adventure games
 description: Game design, not learner age or linguistic background, determines DGBL effectiveness; adventure games outperform non-adventure games
 id: game-design-moderates-dgbl-effectiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

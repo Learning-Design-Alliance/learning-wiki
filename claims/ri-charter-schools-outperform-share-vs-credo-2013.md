@@ -3,7 +3,7 @@ type: claim
 title: "A larger share of Rhode Island charter schools outperform local options (43% reading, 57% math) than the national rates found in the 2013 CREDO Study (25% reading, 29% math)"
 description: "A larger share of Rhode Island charter schools outperform local options (43% reading, 57% math) than the national rates found in the 2013 CREDO Study (25% reading, 29% math)"
 id: ri-charter-schools-outperform-share-vs-credo-2013
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

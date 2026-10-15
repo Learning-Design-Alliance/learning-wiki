@@ -3,7 +3,7 @@ type: element
 id: simulation-empirical-scoring-approach-comparison
 title: Simulation and empirical comparison of scoring approaches for longitudinal survey growth estimation
 description: "A methodological artifact consisting of a series of simulation and empirical studies in which scores were produced \"in a single-cohort repeated measure design using sum scores as well as multiple IRT approaches\" and t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

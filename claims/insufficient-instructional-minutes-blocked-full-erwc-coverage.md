@@ -3,7 +3,7 @@ type: claim
 title: Teachers reported that insufficient instructional minutes during the school year prevented them from teaching all required ERWC modules with fidelity
 description: Teachers reported that insufficient instructional minutes during the school year prevented them from teaching all required ERWC modules with fidelity
 id: insufficient-instructional-minutes-blocked-full-erwc-coverage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

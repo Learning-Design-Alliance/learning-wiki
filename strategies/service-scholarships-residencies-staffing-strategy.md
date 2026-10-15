@@ -3,7 +3,7 @@ type: strategy
 id: service-scholarships-residencies-staffing-strategy
 title: Deploy service scholarships, loan forgiveness, and teacher residencies to staff high-need fields and schools
 description: "The report recommends service scholarships and loan forgiveness that \"cover all or a large percentage of tuition; target high-need fields and schools; recruit academically strong and committed teachers; and commit rec..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

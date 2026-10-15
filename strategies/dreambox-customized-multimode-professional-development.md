@@ -3,7 +3,7 @@ type: strategy
 id: dreambox-customized-multimode-professional-development
 title: Provide customized, multi-mode professional development for teachers implementing DreamBox Math
 description: "DreamBox Learning offers \"comprehensive professional development that is customized to the unique needs of each district, school, and teacher\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

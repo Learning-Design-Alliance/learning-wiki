@@ -3,7 +3,7 @@ type: claim
 title: The advantage of guidance begins to recede only when learners have sufficiently high prior knowledge to provide internal guidance
 description: The advantage of guidance begins to recede only when learners have sufficiently high prior knowledge to provide internal guidance
 id: guidance-advantage-recedes-with-high-prior-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

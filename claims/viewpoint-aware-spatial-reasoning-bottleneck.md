@@ -3,7 +3,7 @@ type: claim
 title: Viewpoint-aware spatial reasoning is a persistent bottleneck with poor calibration of spatial uncertainty
 description: Viewpoint-aware spatial reasoning is a persistent bottleneck with poor calibration of spatial uncertainty
 id: viewpoint-aware-spatial-reasoning-bottleneck
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

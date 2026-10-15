@@ -3,7 +3,7 @@ type: claim
 title: Video-based treatment produces significant macrostructure gains over five weeks, with a significant Group x Test interaction
 description: Video-based treatment produces significant macrostructure gains over five weeks, with a significant Group x Test interaction
 id: video-treatment-significant-macs-pre-post-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

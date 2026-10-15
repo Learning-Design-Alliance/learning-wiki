@@ -3,7 +3,7 @@ type: claim
 title: A large introductory statistics unit integrated AI-enabled elements (AI-assisted poster assessment, AI-enhanced lectures, and an AI chatbot) to complement statistical reasoning
 description: A large introductory statistics unit integrated AI-enabled elements (AI-assisted poster assessment, AI-enhanced lectures, and an AI chatbot) to complement statistical reasoning
 id: stat1170-ai-enabled-elements-complement-reasoning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

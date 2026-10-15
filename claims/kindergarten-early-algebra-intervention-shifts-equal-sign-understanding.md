@@ -3,7 +3,7 @@ type: claim
 title: "After an early algebra intervention, the number of kindergarteners giving a relational definition of the equal sign went from one to nine, and acceptance of non-standard equation forms rose, as reported from the authors' earlier study"
 description: After an early algebra intervention, the number of kindergarteners giving a relational definition of the equal sign went from one to nine, and acceptance of non-standard equation forms rose, as reported from the autho...
 id: kindergarten-early-algebra-intervention-shifts-equal-sign-understanding
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

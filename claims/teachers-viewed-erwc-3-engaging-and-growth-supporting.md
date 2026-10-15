@@ -3,7 +3,7 @@ type: claim
 title: "Teachers viewed the ERWC 3.0 as an improved curriculum that promoted high student engagement and supported students' academic and personal growth"
 description: "Teachers viewed the ERWC 3.0 as an improved curriculum that promoted high student engagement and supported students' academic and personal growth"
 id: teachers-viewed-erwc-3-engaging-and-growth-supporting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

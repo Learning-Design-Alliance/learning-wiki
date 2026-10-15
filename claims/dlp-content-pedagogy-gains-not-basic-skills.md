@@ -3,7 +3,7 @@ type: claim
 title: DLP teachers reported significant increases in using technology for both content and pedagogy, but no significant difference from non-DLP teachers in basic technology skills
 description: DLP teachers reported significant increases in using technology for both content and pedagogy, but no significant difference from non-DLP teachers in basic technology skills
 id: dlp-content-pedagogy-gains-not-basic-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

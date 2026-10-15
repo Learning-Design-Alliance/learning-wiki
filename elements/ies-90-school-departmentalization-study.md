@@ -3,7 +3,7 @@ type: element
 id: ies-90-school-departmentalization-study
 title: IES study of 90 elementary schools comparing departmentalized and self-contained instruction in grades 4 and 5
 description: "A study by Mathematica researchers for the Institute of Education Sciences that \"examined the experiences of 90 schools that either voluntarily switched to departmentalized instruction or continued teaching all subjec..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

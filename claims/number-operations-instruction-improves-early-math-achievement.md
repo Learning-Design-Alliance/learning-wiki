@@ -3,7 +3,7 @@ type: claim
 title: "Targeted instruction in number and operations improves young children's early math achievement, with a moderate level of supporting evidence"
 description: "Targeted instruction in number and operations improves young children's early math achievement, with a moderate level of supporting evidence"
 id: number-operations-instruction-improves-early-math-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

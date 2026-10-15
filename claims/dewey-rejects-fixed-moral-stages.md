@@ -3,7 +3,7 @@ type: claim
 title: "Dewey rejects Kohlberg's fixed stage hierarchy: moral inquiry happens only in problematic situations where no single action seems morally justified, and must be repeated as concrete situations arise"
 description: "Dewey rejects Kohlberg's fixed stage hierarchy: moral inquiry happens only in problematic situations where no single action seems morally justified, and must be repeated as concrete situations arise"
 id: dewey-rejects-fixed-moral-stages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

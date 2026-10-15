@@ -3,7 +3,7 @@ type: strategy
 id: instructor-role-evolution-support
 title: Support the evolving instructor role with professional development beyond product training, articulated role expectations, and communities of practice
 description: "As technology shifts adult education toward student-centered learning, instructors need support that goes beyond vendor product training: opportunities to develop ideas and strategies, try them out, reflect, and adjus..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

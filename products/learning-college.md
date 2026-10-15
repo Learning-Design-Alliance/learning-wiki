@@ -4,7 +4,7 @@ id: learning-college
 title: Learning College
 description: "A community-college reform framework promoted by the League for Innovation and based on Terry O'Banion's Learning College concept, which organizes institutional change around learner-centeredness and improved student success."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

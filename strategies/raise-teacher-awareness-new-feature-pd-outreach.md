@@ -3,7 +3,7 @@ type: strategy
 id: raise-teacher-awareness-new-feature-pd-outreach
 title: Raise teacher awareness of new features through professional development and outreach
 description: "The report's third key takeaway is that raising teacher awareness of additional features is critical so that the supports are actually used in the classroom."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need that the authors say simple surveys may not have produced
 description: In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need that the authors say simple surveys may not have produced
 id: lvn-generator-feedback-loop-case
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

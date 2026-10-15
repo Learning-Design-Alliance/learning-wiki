@@ -3,7 +3,7 @@ type: claim
 title: Field Test II with students should not be implemented until Field Test I evaluation yields a go decision on staff competencies
 description: Field Test II with students should not be implemented until Field Test I evaluation yields a go decision on staff competencies
 id: sequential-field-testing-go-no-go
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

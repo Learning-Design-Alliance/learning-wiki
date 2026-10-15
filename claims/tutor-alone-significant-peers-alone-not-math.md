@@ -3,7 +3,7 @@ type: claim
 title: In math problem solving, a tutor LLM alone significantly improved unassisted test accuracy over no-agent control, while peer-like error agents alone did not reach significance
 description: In math problem solving, a tutor LLM alone significantly improved unassisted test accuracy over no-agent control, while peer-like error agents alone did not reach significance
 id: tutor-alone-significant-peers-alone-not-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -2,7 +2,7 @@
 type: theory
 title: "Nativistic theory: language development is determined from within the child; language is innate"
 description: The paper presents the nativistic theory, associated with Lenneberg (1967) and McNeill (1966), arguing that language development is determined from within the child rather than by external factors such as imitation or...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

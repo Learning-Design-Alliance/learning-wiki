@@ -3,7 +3,7 @@ type: strategy
 id: screen-local-dependence-before-testlet-modeling
 title: Screen for local dependence with simple methods (Q3 statistic or item-based versus testlet-based reliability comparison) before fitting a complex testlet model
 description: Because fitting the general polytomous testlet model is time-consuming, the report recommends first applying relatively simple methods to detect local dependence and measure the magnitude of the testlet effect.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Course Signals at Purdue reported retention and DFW gains that were later questioned as a selection effect, cautioning that correlation is not causal evidence
 description: Course Signals at Purdue reported retention and DFW gains that were later questioned as a selection effect, cautioning that correlation is not causal evidence
 id: course-signals-selection-effect-caution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

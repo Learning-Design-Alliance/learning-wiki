@@ -3,7 +3,7 @@ type: claim
 title: "Implementing the guide's five recommendations together improves students' math achievement, while no component's isolated effectiveness was established"
 description: "Implementing the guide's five recommendations together improves students' math achievement, while no component's isolated effectiveness was established"
 id: five-recommendations-together-improve-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

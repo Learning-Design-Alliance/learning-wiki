@@ -3,7 +3,7 @@ type: claim
 title: GPA, pretest score, and self-generated elaboration jointly predict intellectual skills but not procedural knowledge or attitudes
 description: GPA, pretest score, and self-generated elaboration jointly predict intellectual skills but not procedural knowledge or attitudes
 id: gpa-pretest-elaboration-interaction-intellectual-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

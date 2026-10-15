@@ -3,7 +3,7 @@ type: claim
 title: Eighth grade EL reclassification shows positive but imprecise estimates for on-track-to-graduate status in 10th and 11th grades
 description: Eighth grade EL reclassification shows positive but imprecise estimates for on-track-to-graduate status in 10th and 11th grades
 id: el-reclassification-on-track-positive-imprecise
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

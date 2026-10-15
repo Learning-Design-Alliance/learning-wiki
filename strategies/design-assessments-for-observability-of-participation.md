@@ -3,7 +3,7 @@ type: strategy
 id: design-assessments-for-observability-of-participation
 title: Design assignments and assessment environments with observability of cognitive participation in mind
 description: The article recommends that educational institutions design assignments and assessment environments so that cognitively relevant forms of participation leave examinable evidence.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

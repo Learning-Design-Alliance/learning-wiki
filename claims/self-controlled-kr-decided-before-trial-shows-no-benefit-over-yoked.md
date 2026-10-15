@@ -3,7 +3,7 @@ type: claim
 title: Having control over the knowledge-of-results decision only before a motor trial (Self-Before) produced no statistically significant retention or transfer benefit over a yoked group receiving the same KR schedule.
 description: Having control over the knowledge-of-results decision only before a motor trial (Self-Before) produced no statistically significant retention or transfer benefit over a yoked group receiving the same KR schedule.
 id: self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

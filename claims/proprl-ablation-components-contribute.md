@@ -3,7 +3,7 @@ type: claim
 title: Removing any ProPRL component reduces F1 on all three datasets, with multi-hop propagation having the largest overall impact
 description: Removing any ProPRL component reduces F1 on all three datasets, with multi-hop propagation having the largest overall impact
 id: proprl-ablation-components-contribute
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Thoughtless use of generative AI significantly and negatively predicts both self-efficacy and motivation
 description: Thoughtless use of generative AI significantly and negatively predicts both self-efficacy and motivation
 id: tuga-negative-effect-se-mov
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: First-year physics students overwhelmingly believe LLMs can solve introductory physics problems with high accuracy before instruction
 description: First-year physics students overwhelmingly believe LLMs can solve introductory physics problems with high accuracy before instruction
 id: physics-students-believe-llms-solve-intro-problems-accurately
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

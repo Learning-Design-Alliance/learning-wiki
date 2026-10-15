@@ -3,7 +3,7 @@ type: claim
 title: "Easy access to AI-generated answers may reduce learners' motivation to engage deeply with material"
 description: "Easy access to AI-generated answers may reduce learners' motivation to engage deeply with material"
 id: ai-over-reliance-reduces-deep-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

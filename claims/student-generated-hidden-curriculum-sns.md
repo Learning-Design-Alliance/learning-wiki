@@ -3,7 +3,7 @@ type: claim
 title: Student-generated Facebook groups constitute a hidden curriculum that supports learning outside the formal design studio
 description: Student-generated Facebook groups constitute a hidden curriculum that supports learning outside the formal design studio
 id: student-generated-hidden-curriculum-sns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

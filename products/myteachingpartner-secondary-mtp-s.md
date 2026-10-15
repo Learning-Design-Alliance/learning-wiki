@@ -4,7 +4,7 @@ id: myteachingpartner-secondary-mtp-s
 title: MyTeachingPartner-Secondary (MTP-S)
 description: MyTeachingPartner–Secondary is a University of Virginia Center for Advanced Study of Teaching and Learning professional-development programme that combines a video library of effective teacher–student interactions with individualized web-based coaching for secondary teachers.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

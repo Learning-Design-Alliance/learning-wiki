@@ -3,7 +3,7 @@ type: claim
 title: Outlier rates in Spanish item calibration are extremely low, which the authors take as evidence of very high calibration quality
 description: Outlier rates in Spanish item calibration are extremely low, which the authors take as evidence of very high calibration quality
 id: spanish-calibration-outlier-rates-extremely-low
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

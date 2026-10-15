@@ -4,7 +4,7 @@ id: insidetrack-coaching
 title: InsideTrack Coaching
 description: InsideTrack© Coaching is a postsecondary student-support programme run by InsideTrack that provides proactive, personalized coaching through multiple communication channels to help students overcome academic and non-academic barriers to persistence and graduation.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

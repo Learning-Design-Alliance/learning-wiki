@@ -3,7 +3,7 @@ type: claim
 title: School shooters do not fit a single consistent profile; perpetrators, motivations, and attacks vary widely
 description: School shooters do not fit a single consistent profile; perpetrators, motivations, and attacks vary widely
 id: no-consistent-school-shooter-profile
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

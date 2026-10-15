@@ -3,7 +3,7 @@ type: claim
 title: "Purposely teaching for higher order thinking skills enhances high school students' critical thinking compared with traditional teaching"
 description: "Purposely teaching for higher order thinking skills enhances high school students' critical thinking compared with traditional teaching"
 id: hots-teaching-enhances-critical-thinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

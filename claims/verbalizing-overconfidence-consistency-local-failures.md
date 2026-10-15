@@ -3,7 +3,7 @@ type: claim
 title: Verbalized self-reported confidence is overconfident in the mid-confidence range, while consistency-based confidence shows good average calibration but localized failure regions
 description: Verbalized self-reported confidence is overconfident in the mid-confidence range, while consistency-based confidence shows good average calibration but localized failure regions
 id: verbalizing-overconfidence-consistency-local-failures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

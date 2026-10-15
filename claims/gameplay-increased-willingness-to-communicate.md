@@ -3,7 +3,7 @@ type: claim
 title: "Gameplay increased participants' willingness to communicate in English"
 description: "Gameplay increased participants' willingness to communicate in English"
 id: gameplay-increased-willingness-to-communicate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: SAIL embeds Indigenous and cultural perspectives as integral competencies across all domains and levels rather than as add-ons
 description: SAIL embeds Indigenous and cultural perspectives as integral competencies across all domains and levels rather than as add-ons
 id: indigenous-perspectives-integral-across-sail-levels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

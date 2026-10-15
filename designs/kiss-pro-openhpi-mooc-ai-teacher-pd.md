@@ -3,7 +3,7 @@ type: design
 id: kiss-pro-openhpi-mooc-ai-teacher-pd
 title: "KISS-Pro open educational resources: the openHPI MOOC on teacher professional development for AI in schools"
 description: To facilitate broader dissemination of INSIGHT, central elements of the training were transferred into open educational resources within the KISS-Pro project.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

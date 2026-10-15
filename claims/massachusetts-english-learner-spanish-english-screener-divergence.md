@@ -3,7 +3,7 @@ type: claim
 title: "English learners' progress beyond the significant risk level differed by test language: 21 percent stayed above threshold in English and 19 percent improved to it, versus 11 percent improving in Spanish"
 description: "English learners' progress beyond the significant risk level differed by test language: 21 percent stayed above threshold in English and 19 percent improved to it, versus 11 percent improving in Spanish"
 id: massachusetts-english-learner-spanish-english-screener-divergence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

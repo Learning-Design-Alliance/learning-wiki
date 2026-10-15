@@ -4,7 +4,7 @@ id: harmonized-cross-national-pisa-20182022-country-level-dataset-with-learning-
 title: Harmonized cross-national PISA 2018–2022 country-level dataset with learning environment and career aspiration indicators
 description: A balanced longitudinal country-level dataset assembled by Popa et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

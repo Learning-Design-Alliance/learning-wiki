@@ -3,7 +3,7 @@ type: claim
 title: The outcomes study used a comparative design contrasting 2015 Broward LINCS completers with 2014 SCM students who did not participate in LINCS, and could not assess longer-term outcomes because of time limitations
 description: The outcomes study used a comparative design contrasting 2015 Broward LINCS completers with 2014 SCM students who did not participate in LINCS, and could not assess longer-term outcomes because of time limitations
 id: lincs-outcomes-study-design-limits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

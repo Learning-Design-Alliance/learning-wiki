@@ -3,7 +3,7 @@ type: design
 id: holistic-place-based-time-bound-indigenous-teaching
 title: Holistic, place-based, time-bound Indigenous teaching pattern
 description: "In the Elders' teaching of Indigenous knowledge in this study, all forms of knowledge were taught holistically rather than divided into disciplines, avoiding what Nadasdy called compartmentalization of IK."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

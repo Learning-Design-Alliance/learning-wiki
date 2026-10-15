@@ -3,7 +3,7 @@ type: claim
 title: Simulated role play sessions cost $0.05-$0.10 each in the EducaSim deployment
 description: Simulated role play sessions cost $0.05-$0.10 each in the EducaSim deployment
 id: educasim-low-cost-per-session
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Observable indicators showed micro-action completion was higher with structured task-clarity prompts and communicative autonomy improved particularly after AmicoTuo sessions, while transition-to-human follow-through was not quantified
 description: Observable indicators showed micro-action completion was higher with structured task-clarity prompts and communicative autonomy improved particularly after AmicoTuo sessions, while transition-to-human follow-through w...
 id: amico-indicator-patterns-micro-actions-autonomy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

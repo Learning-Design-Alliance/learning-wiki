@@ -3,7 +3,7 @@ type: claim
 title: "Zero-shot LLMs perform only marginally above random in five-class competency classification but exceed 70% accuracy on binary classification"
 description: "Zero-shot LLMs perform only marginally above random in five-class competency classification but exceed 70% accuracy on binary classification"
 id: zero-shot-llm-granularity-competency-classification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

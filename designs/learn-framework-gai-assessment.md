@@ -3,7 +3,7 @@ type: design
 id: learn-framework-gai-assessment
 title: "The LEARN framework: five components for neuroscience-informed, PBL-based GAI assessment design"
 description: "The LEARN framework is a conceptual, neuroscience-informed model comprising five interrelated components: Lifelong Learning, Engagement, Active Processing, Reflection, and Neuro-based Design."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Every surveyed district filled some vacancies with underprepared teachers, and substandard credentials nearly tripled from 2012–13 to 2019–20
 description: Every surveyed district filled some vacancies with underprepared teachers, and substandard credentials nearly tripled from 2012–13 to 2019–20
 id: underprepared-teacher-hiring-increased
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

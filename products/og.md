@@ -4,7 +4,7 @@ id: og
 title: OG+
 description: "IMSE's OG+ is a Structured Literacy foundational-skills curriculum developed by the Institute for Multi-Sensory Education (IMSE) for whole-class, small-group, and one-to-one reading and spelling instruction in grades K–5."
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

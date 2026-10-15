@@ -3,7 +3,7 @@ type: strategy
 id: raise-awareness-ccr-flexibility-options
 title: Raise student awareness of requirement flexibility and support options for meeting CCR graduation requirements
 description: The report recommends that state policymakers and education leaders ensure that all students — particularly those in groups with the largest gaps — are aware of the new graduation requirements and receive support and...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Students perceive peer assessment-based game development as fostering deep learning in in-depth thinking, creativity and motivation
 description: Students perceive peer assessment-based game development as fostering deep learning in in-depth thinking, creativity and motivation
 id: peer-assessment-game-development-fosters-deep-learning-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

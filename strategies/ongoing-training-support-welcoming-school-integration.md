@@ -3,7 +3,7 @@ type: strategy
 id: ongoing-training-support-welcoming-school-integration
 title: Provide welcoming schools with more ongoing training, time for reflection, and targeted support when integrating displaced students and staff
 description: "Based on the report's conclusion, school leaders in receiving schools \"did not know what it took to be a successful welcoming school, suggesting a need for training that is more ongoing, along with time for reflection..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

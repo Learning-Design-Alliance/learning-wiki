@@ -3,7 +3,7 @@ type: claim
 title: In a survey of 236 blended-learning students, learners readily ranked teacher, student and content interaction, which the authors read as supporting both theses of the Interaction Equivalency Theorem
 description: In a survey of 236 blended-learning students, learners readily ranked teacher, student and content interaction, which the authors read as supporting both theses of the Interaction Equivalency Theorem
 id: theorem-theses-confirmed-by-survey
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

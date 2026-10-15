@@ -3,7 +3,7 @@ type: research-method
 id: college-readiness-predictor-selection-using-decision-trees-random-forests-lasso-and-factor
 title: College-readiness predictor selection using decision trees, random forests, lasso, and factor analysis
 description: This framework uses data reduction to select, from thousands of measures, the variables that maximize classification accuracy for college enrollment and persistence.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

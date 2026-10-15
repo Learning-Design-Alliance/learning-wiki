@@ -3,7 +3,7 @@ type: strategy
 id: chart-approaches-by-skill-component-delivery-and-outcome-type
 title: Map educational approaches onto predefined evidence synthesis skill components, delivery modes and outcome-measure categories when charting the literature
 description: "The protocol's Stage 5 analysis plan specifies how to organise extracted data on educational approaches: compile and map them per the predefined evidence synthesis skill components (research question development, lite..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

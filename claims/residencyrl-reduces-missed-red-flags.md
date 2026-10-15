@@ -3,7 +3,7 @@ type: claim
 title: RL training reduces missed red flag rates by approximately one third under adversarial conditions, mitigating premature closure
 description: RL training reduces missed red flag rates by approximately one third under adversarial conditions, mitigating premature closure
 id: residencyrl-reduces-missed-red-flags
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

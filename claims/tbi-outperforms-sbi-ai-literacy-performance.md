@@ -3,7 +3,7 @@ type: claim
 title: Thinking-based instruction produces higher AI literacy performance than skills-based instruction in an AIGC image-generation task
 description: Thinking-based instruction produces higher AI literacy performance than skills-based instruction in an AIGC image-generation task
 id: tbi-outperforms-sbi-ai-literacy-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

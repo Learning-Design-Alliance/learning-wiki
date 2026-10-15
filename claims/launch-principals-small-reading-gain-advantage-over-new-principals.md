@@ -3,7 +3,7 @@ type: claim
 title: Elementary schools led by LAUNCH principals showed statistically significant but very small reading learning gains over schools led by other new principals, similar to veteran principals
 description: Elementary schools led by LAUNCH principals showed statistically significant but very small reading learning gains over schools led by other new principals, similar to veteran principals
 id: launch-principals-small-reading-gain-advantage-over-new-principals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

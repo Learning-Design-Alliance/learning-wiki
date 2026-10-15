@@ -3,7 +3,7 @@ type: research-method
 id: reinforcement-learning-measurement-model-rlmm
 title: Reinforcement Learning Measurement Model (RLMM)
 description: "The RLMM is a psychometric measurement framework for sequential process data that treats a person's inverse-temperature parameter βj as an ability to choose higher-valued actions under a Boltzmann policy."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

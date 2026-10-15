@@ -3,7 +3,7 @@ type: element
 id: multimedia-popup-gloss-six-information-types
 title: Multimedia pop-up gloss combining synonym, definition, picture, audio, video, and hyperlink
 description: "The study's gloss is a pop-up window that appears when a reader clicks an underlined target word in a computerized text."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

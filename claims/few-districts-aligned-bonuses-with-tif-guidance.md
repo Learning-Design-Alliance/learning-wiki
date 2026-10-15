@@ -3,7 +3,7 @@ type: claim
 title: Few districts structured pay-for-performance bonuses to align well with TIF grant guidance
 description: Few districts structured pay-for-performance bonuses to align well with TIF grant guidance
 id: few-districts-aligned-bonuses-with-tif-guidance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

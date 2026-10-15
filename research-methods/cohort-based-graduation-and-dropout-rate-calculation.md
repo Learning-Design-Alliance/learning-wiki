@@ -3,7 +3,7 @@ type: research-method
 id: cohort-based-graduation-and-dropout-rate-calculation
 title: Cohort-based graduation and dropout rate calculation
 description: The report calculates graduation and dropout rates by following student cohorts over multiple years using two cohort types.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

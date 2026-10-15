@@ -3,7 +3,7 @@ type: claim
 title: Learning should be assessed with retention and transfer tests rather than current practice performance
 description: Learning should be assessed with retention and transfer tests rather than current practice performance
 id: retention-transfer-tests-define-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

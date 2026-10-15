@@ -3,7 +3,7 @@ type: claim
 title: AI exploration assignments helped students connect physics content to their personal lives and interests
 description: AI exploration assignments helped students connect physics content to their personal lives and interests
 id: ai-exploration-personal-connections
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

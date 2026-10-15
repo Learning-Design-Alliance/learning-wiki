@@ -3,7 +3,7 @@ type: claim
 title: Las micro-credenciales apoyaron la práctica profesional de una educadora como desarrollo profesional a propio ritmo
 description: Las micro-credenciales apoyaron la práctica profesional de una educadora como desarrollo profesional a propio ritmo
 id: microcredentials-self-paced-educator-pd-testimonial
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

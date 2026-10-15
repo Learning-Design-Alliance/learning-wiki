@@ -4,7 +4,7 @@ id: corrective-reading
 title: Corrective Reading
 description: Corrective Reading is a scripted, structured reading intervention curriculum for upper-elementary struggling readers, focused on phonics, fluency, and comprehension.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: ai-literacy-durable-trust-defense-layer
 title: AI literacy as the slowest but most durable layer of defense, moving users across typology profiles
 description: "The article closes by positioning AI literacy differently from the other interventions: it \"operates differently by gradually increasing users’ capacity to verify and potentially moving them across profiles.\" Literacy..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

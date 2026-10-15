@@ -3,7 +3,7 @@ type: claim
 title: Students at highest estimated risk of suspension felt safer when suspensions were reduced, while students at lowest risk saw the largest test score gains, with no evidence of overall academic harm
 description: Students at highest estimated risk of suspension felt safer when suspensions were reduced, while students at lowest risk saw the largest test score gains, with no evidence of overall academic harm
 id: cps-suspension-reduction-risk-stratified-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

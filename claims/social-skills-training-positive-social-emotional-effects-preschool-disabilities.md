@@ -3,7 +3,7 @@ type: claim
 title: Social skills training has positive effects on social-emotional development and behavior for preschool children with disabilities in early education settings
 description: Social skills training has positive effects on social-emotional development and behavior for preschool children with disabilities in early education settings
 id: social-skills-training-positive-social-emotional-effects-preschool-disabilities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

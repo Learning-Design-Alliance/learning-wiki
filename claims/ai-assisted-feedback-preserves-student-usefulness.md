@@ -3,7 +3,7 @@ type: claim
 title: AI-assisted feedback does not reduce student-perceived usefulness of rated feedback
 description: AI-assisted feedback does not reduce student-perceived usefulness of rated feedback
 id: ai-assisted-feedback-preserves-student-usefulness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

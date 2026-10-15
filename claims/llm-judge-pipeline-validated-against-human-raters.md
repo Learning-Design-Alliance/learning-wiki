@@ -3,7 +3,7 @@ type: claim
 title: The LLM-judge scoring pipeline for the two metrics aligns with human labels and human raters
 description: The LLM-judge scoring pipeline for the two metrics aligns with human labels and human raters
 id: llm-judge-pipeline-validated-against-human-raters
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

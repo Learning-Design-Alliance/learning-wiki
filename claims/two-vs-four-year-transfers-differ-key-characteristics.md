@@ -3,7 +3,7 @@ type: claim
 title: Two-year and four-year origin transfers differ on gender, enrollment status, and six-year engineering graduation
 description: Two-year and four-year origin transfers differ on gender, enrollment status, and six-year engineering graduation
 id: two-vs-four-year-transfers-differ-key-characteristics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

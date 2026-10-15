@@ -3,7 +3,7 @@ type: claim
 title: Rapid proliferation of culturally focused assessment terms after 2020 risks the jingle-jangle fallacy
 description: Rapid proliferation of culturally focused assessment terms after 2020 risks the jingle-jangle fallacy
 id: cra-term-proliferation-jingle-jangle
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

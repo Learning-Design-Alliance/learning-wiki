@@ -4,7 +4,7 @@ id: ansys-workbench
 title: ANSYS Workbench
 description: ANSYS Workbench is an engineering simulation platform made by Ansys, Inc., used to build and analyze finite-element models for applications such as heat transfer.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

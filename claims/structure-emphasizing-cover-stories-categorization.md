@@ -3,7 +3,7 @@ type: claim
 title: Structure-emphasizing example sets, using varied cover stories across problem types, lead students to categorize problems by structure rather than surface features
 description: Structure-emphasizing example sets, using varied cover stories across problem types, lead students to categorize problems by structure rather than surface features
 id: structure-emphasizing-cover-stories-categorization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

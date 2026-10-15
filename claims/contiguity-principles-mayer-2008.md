@@ -3,7 +3,7 @@ type: claim
 title: "Contiguity principles: near placement and simultaneous presentation of corresponding words and pictures improve transfer"
 description: "Contiguity principles: near placement and simultaneous presentation of corresponding words and pictures improve transfer"
 id: contiguity-principles-mayer-2008
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

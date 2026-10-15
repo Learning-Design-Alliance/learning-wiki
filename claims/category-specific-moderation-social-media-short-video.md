@@ -3,7 +3,7 @@ type: claim
 title: Exploratory analyses suggest the digital moderation of the EF–reappraisal link is concentrated in social media and short-form video, not gaming or educational use
 description: Exploratory analyses suggest the digital moderation of the EF–reappraisal link is concentrated in social media and short-form video, not gaming or educational use
 id: category-specific-moderation-social-media-short-video
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

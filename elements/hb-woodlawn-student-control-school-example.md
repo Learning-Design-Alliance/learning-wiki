@@ -3,7 +3,7 @@ type: element
 id: hb-woodlawn-student-control-school-example
 title: H-B Woodlawn Secondary School as an existing learning-centered learning environment
 description: The article presents H-B Woodlawn Secondary School in Arlington, Virginia, started in the early 1970s as an alternative to traditional high schools, as a public-school example of learning-centered learning.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

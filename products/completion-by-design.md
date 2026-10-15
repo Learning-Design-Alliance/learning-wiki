@@ -4,7 +4,7 @@ id: completion-by-design
 title: Completion by Design
 description: A community-college redesign framework and initiative that coordinates institutional policies, practices, and programmes into completion pathways to improve student progress and credential attainment.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Districts with data systems in place still face challenges in the strategic use of data
 description: Districts with data systems in place still face challenges in the strategic use of data
 id: districts-face-strategic-data-use-challenges-despite-systems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

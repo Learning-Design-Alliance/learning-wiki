@@ -3,7 +3,7 @@ type: claim
 title: Instructors value design problems for assessing higher-order thinking in PjBL but cite creation effort and scalability as adoption barriers
 description: Instructors value design problems for assessing higher-order thinking in PjBL but cite creation effort and scalability as adoption barriers
 id: instructors-value-dps-effort-barrier
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

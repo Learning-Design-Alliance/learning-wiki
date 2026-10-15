@@ -3,7 +3,7 @@ type: claim
 title: "Participation in STEM PLCs positively impacts teachers' understanding of or preparedness to teach content and attitudes toward teaching methods"
 description: "Participation in STEM PLCs positively impacts teachers' understanding of or preparedness to teach content and attitudes toward teaching methods"
 id: stem-plc-teacher-knowledge-attitude-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

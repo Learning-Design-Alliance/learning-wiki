@@ -4,7 +4,7 @@ id: launch
 title: LAUNCH
 description: A Chicago Public Schools professional-development programme that recruits, prepares, and supports aspiring principals through intensified leadership knowledge, skills, and experience.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

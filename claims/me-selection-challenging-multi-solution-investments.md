@@ -3,7 +3,7 @@ type: claim
 title: "Determining the right M&E activities for a new or evolving solution is challenging, and more complex when investing in multiple solutions at once"
 description: "Determining the right M&E activities for a new or evolving solution is challenging, and more complex when investing in multiple solutions at once"
 id: me-selection-challenging-multi-solution-investments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -2,7 +2,7 @@
 type: claim
 title: Teachers actively synthesize professional-development practices with their own context rather than transferring them intact
 id: teachers-synthesize-pd-practices-with-context-not-just-transfer-them
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

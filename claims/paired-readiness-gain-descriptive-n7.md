@@ -3,7 +3,7 @@ type: claim
 title: "Paired pre/post AI readiness scores rose descriptively from 82.5% to 89.9% (mean gain 7.4 percentage points) among seven co-creation clients, treated as descriptive context only"
 description: "Paired pre/post AI readiness scores rose descriptively from 82.5% to 89.9% (mean gain 7.4 percentage points) among seven co-creation clients, treated as descriptive context only"
 id: paired-readiness-gain-descriptive-n7
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: In some cases, Teach For America and Teaching Fellows secondary math teachers are more effective than traditionally certified math teachers
 description: In some cases, Teach For America and Teaching Fellows secondary math teachers are more effective than traditionally certified math teachers
 id: tfa-teaching-fellows-math-teachers-sometimes-more-effective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

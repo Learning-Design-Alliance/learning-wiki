@@ -3,7 +3,7 @@ type: claim
 title: Iterative co-design served as a culturally responsive methodology for designing alumni surveys in equity-focused high school communities, with each school designing its own survey with researcher support.
 description: Iterative co-design served as a culturally responsive methodology for designing alumni surveys in equity-focused high school communities, with each school designing its own survey with researcher support.
 id: codesign-culturally-responsive-alumni-surveys
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: optel
 title: OPTEL
 description: OPTEL is an observation protocol for teachers of English learners, developed and implemented by the California Department of Education with support from R15CC.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

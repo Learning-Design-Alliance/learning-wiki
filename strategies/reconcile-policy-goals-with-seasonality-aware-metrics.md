@@ -3,7 +3,7 @@ type: strategy
 id: reconcile-policy-goals-with-seasonality-aware-metrics
 title: Reconcile long-term policy goals with short-term accountability metrics by reviewing seasonal effects
 description: Policy makers and accountability designers can audit their school effectiveness metrics for seasonal bias before using them for identification decisions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

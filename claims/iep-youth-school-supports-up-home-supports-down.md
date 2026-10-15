@@ -4,7 +4,7 @@ title: Youth with an IEP are more likely than in the past to receive supports at
 description: Youth with an IEP are more likely than in the past to receive supports at school but less likely to receive them at home
 id: iep-youth-school-supports-up-home-supports-down
 aliases: [iep-youth-supports-up-school-down-home]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

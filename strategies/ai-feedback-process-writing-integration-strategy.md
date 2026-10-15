@@ -3,7 +3,7 @@ type: strategy
 id: ai-feedback-process-writing-integration-strategy
 title: Integrate AI feedback as a supportive resource within process-oriented drafting cycles, with explicit guidance on critical evaluation
 description: "The article's procedure: students receive explicit genre instruction, draft independently, submit to GROK for AI feedback, critically evaluate suggestions, and revise into a second draft, with the instructor providing..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

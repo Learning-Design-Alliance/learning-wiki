@@ -3,7 +3,7 @@ type: strategy
 id: non-ai-pathways-and-diagnostic-refusal
 title: Treat refusal diagnostically and provide non-AI pathways where AI use is not essential to the learning outcome
 description: The article recommends that universities ask what refusal reveals about educational and professional conditions rather than how to reduce it.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

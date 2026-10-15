@@ -3,7 +3,7 @@ type: claim
 title: Differences between human and ChatGPT feedback quality were small, with means within one point and partial eta-squared ranging from .01 to .12
 description: Differences between human and ChatGPT feedback quality were small, with means within one point and partial eta-squared ranging from .01 to .12
 id: small-effect-sizes-human-ai-feedback-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

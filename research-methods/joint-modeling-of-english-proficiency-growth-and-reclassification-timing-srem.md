@@ -3,7 +3,7 @@ type: research-method
 id: joint-modeling-of-english-proficiency-growth-and-reclassification-timing-srem
 title: Joint modeling of English proficiency growth and reclassification timing (SREM)
 description: Because the joint model outperformed the conventional approach, the article supports designing EL policy analytics that estimate proficiency growth and reclassification timing together rather than separately.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

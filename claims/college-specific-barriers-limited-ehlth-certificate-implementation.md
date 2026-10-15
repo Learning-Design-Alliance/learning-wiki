@@ -3,7 +3,7 @@ type: claim
 title: College-specific barriers related to resources, time, and local labor market conditions limited implementation of the statewide E-HLTH career studies certificate
 description: College-specific barriers related to resources, time, and local labor market conditions limited implementation of the statewide E-HLTH career studies certificate
 id: college-specific-barriers-limited-ehlth-certificate-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

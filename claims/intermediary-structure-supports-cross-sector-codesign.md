@@ -3,7 +3,7 @@ type: claim
 title: "Cross-sector committee members report that an organizing intermediary's structure made collaboration generative and productive"
 description: "Cross-sector committee members report that an organizing intermediary's structure made collaboration generative and productive"
 id: intermediary-structure-supports-cross-sector-codesign
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

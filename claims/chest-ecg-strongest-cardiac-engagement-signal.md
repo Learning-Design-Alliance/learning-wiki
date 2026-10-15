@@ -3,7 +3,7 @@ type: claim
 title: Chest-worn ECG provides the strongest cardiac-sensing performance for attention-difficulty prediction, and fusing all cardiac streams does not improve upon chest ECG alone
 description: Chest-worn ECG provides the strongest cardiac-sensing performance for attention-difficulty prediction, and fusing all cardiac streams does not improve upon chest ECG alone
 id: chest-ecg-strongest-cardiac-engagement-signal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

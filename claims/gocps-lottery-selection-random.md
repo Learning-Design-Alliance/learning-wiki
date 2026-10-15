@@ -3,7 +3,7 @@ type: claim
 title: "Lottery-based selection under GoCPS worked as intended: lottery numbers and offers were unrelated to student characteristics and to how highly applicants ranked programs"
 description: "Lottery-based selection under GoCPS worked as intended: lottery numbers and offers were unrelated to student characteristics and to how highly applicants ranked programs"
 id: gocps-lottery-selection-random
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Only 11% of surveyed educators can recommend specialized AI services, with ChatGPT dominating recommendations at 44%"
 description: "Only 11% of surveyed educators can recommend specialized AI services, with ChatGPT dominating recommendations at 44%"
 id: chatgpt-dominance-specialized-service-awareness-11-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

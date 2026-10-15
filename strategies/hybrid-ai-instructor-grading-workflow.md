@@ -3,7 +3,7 @@ type: strategy
 id: hybrid-ai-instructor-grading-workflow
 title: Use a hybrid AI-then-instructor grading workflow with immutable override history
 description: "The system implements grading as a two-stage workflow: \"Firstly, AI scores the initial score, and then the teacher confirms whether the score is reasonable\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

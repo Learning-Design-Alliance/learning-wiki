@@ -3,7 +3,7 @@ type: element
 id: mll-edtech-supportive-features-set
 title: MLL-supportive technology features identified across research and design practice
 description: The report catalogs the technological features that reviewed studies and interviewed designers embed to support multilingual learners, spanning multiple modes of engagement, emerging technologies, and pedagogy-specifi...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

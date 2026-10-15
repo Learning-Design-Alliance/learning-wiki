@@ -3,7 +3,7 @@ type: claim
 title: "Study design moderates the technology effect: between-subject studies yield a significantly higher average effect than within-subject studies"
 description: "Study design moderates the technology effect: between-subject studies yield a significantly higher average effect than within-subject studies"
 id: design-moderates-technology-story-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: strategy
 id: collaborative-structured-data-analysis
 title: Use data collaboratively through a structured data analysis process among educators
 description: This strategy positions data use as a collective sense-making activity rather than an individual task.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

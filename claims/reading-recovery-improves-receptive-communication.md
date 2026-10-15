@@ -3,7 +3,7 @@ type: claim
 title: Reading Recovery improves receptive communication skills immediately after the intervention, with promising evidence from one small quasi-experimental study
 description: Reading Recovery improves receptive communication skills immediately after the intervention, with promising evidence from one small quasi-experimental study
 id: reading-recovery-improves-receptive-communication
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: First-generation status is a significant predictor of reliance intensity, indicating a compensatory dynamic at minority-serving institutions
 description: First-generation status is a significant predictor of reliance intensity, indicating a compensatory dynamic at minority-serving institutions
 id: first-generation-status-predicts-reliance-intensity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

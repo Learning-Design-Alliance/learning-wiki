@@ -3,7 +3,7 @@ type: claim
 title: The workshop argues AI-resistant assignments are temporary at best, reframing design goals toward tasks whose difficulty survives AI completing part of the work
 description: The workshop argues AI-resistant assignments are temporary at best, reframing design goals toward tasks whose difficulty survives AI completing part of the work
 id: ai-resistance-shelf-life-reframing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

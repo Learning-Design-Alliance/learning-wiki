@@ -3,7 +3,7 @@ type: strategy
 id: reflective-teaching-portfolios
 title: Use teaching portfolios with a reflective component so beginning teachers document competencies and reflect on which practices worked
 description: "Portfolio development is described as \"a favorite tool used in pre-service teacher education.\" Portfolios gather significant artifacts representing professional development and include a reflective component: when dec..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

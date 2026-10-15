@@ -3,7 +3,7 @@ type: claim
 title: Within-person reciprocal effects from fairness back to trust are weaker than trust-to-fairness effects, indicating an asymmetric rather than strictly unidirectional pattern
 description: Within-person reciprocal effects from fairness back to trust are weaker than trust-to-fairness effects, indicating an asymmetric rather than strictly unidirectional pattern
 id: asymmetric-reciprocal-fairness-trust-aita
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

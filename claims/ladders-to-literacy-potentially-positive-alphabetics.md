@@ -3,7 +3,7 @@ type: claim
 title: Ladders to Literacy shows potentially positive effects on alphabetics, with an average improvement index of +25 percentile points and a domain average effect size of 0.69
 description: Ladders to Literacy shows potentially positive effects on alphabetics, with an average improvement index of +25 percentile points and a domain average effect size of 0.69
 id: ladders-to-literacy-potentially-positive-alphabetics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

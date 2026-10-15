@@ -3,7 +3,7 @@ type: claim
 title: Most working-group district leaders reported planning or already implementing concrete SEL changes within two months of the Melbourne convening
 description: Most working-group district leaders reported planning or already implementing concrete SEL changes within two months of the Melbourne convening
 id: sel-working-group-districts-implement-changes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

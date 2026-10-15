@@ -3,7 +3,7 @@ type: claim
 title: Only 2.4 percent of the sampled California secondary schools were classified as beating the odds, and 1.2 percent as chronically underperforming
 description: Only 2.4 percent of the sampled California secondary schools were classified as beating the odds, and 1.2 percent as chronically underperforming
 id: bto-schools-rare-2-point-4-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

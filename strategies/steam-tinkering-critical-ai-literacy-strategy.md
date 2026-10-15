@@ -3,7 +3,7 @@ type: strategy
 id: steam-tinkering-critical-ai-literacy-strategy
 title: Reaffirm learning-by-making through STEAM tinkering and critical AI literacy to cultivate epistemic resilience
 description: "The article recommends pedagogical strategies against outsourced thinking: \"We believe it is essential to reaffirm experience and learning-by-making through STEAM (science, technology, engineering, arts, and mathemati..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

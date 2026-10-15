@@ -3,7 +3,7 @@ type: claim
 title: Meta-analysis is more systematic and replicable than traditional qualitative literature reviews for averaging effect sizes across studies
 description: Meta-analysis is more systematic and replicable than traditional qualitative literature reviews for averaging effect sizes across studies
 id: meta-analysis-more-systematic-replicable-than-qualitative-reviews
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

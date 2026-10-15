@@ -3,7 +3,7 @@ type: claim
 title: "In a pilot study, the TigerGPT survey chatbot achieved a 75% usability rating and an 81% satisfaction score, with 50% of participants preferring it over traditional surveys"
 description: "In a pilot study, the TigerGPT survey chatbot achieved a 75% usability rating and an 81% satisfaction score, with 50% of participants preferring it over traditional surveys"
 id: tigergpt-pilot-usability-satisfaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

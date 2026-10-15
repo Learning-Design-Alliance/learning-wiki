@@ -3,7 +3,7 @@ type: claim
 title: "LLMs show a directional asymmetry in educational control: they reliably increase cognitive demand but struggle to lower it"
 description: "LLMs show a directional asymmetry in educational control: they reliably increase cognitive demand but struggle to lower it"
 id: llm-upward-cognitive-shift-asymmetry
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

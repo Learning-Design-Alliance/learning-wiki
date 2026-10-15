@@ -3,7 +3,7 @@ type: claim
 title: "In secondary-school research, cooperative learning beat frontal teaching in 68% of comparisons, with STAD most and Jigsaw least successful"
 description: "In secondary-school research, cooperative learning beat frontal teaching in 68% of comparisons, with STAD most and Jigsaw least successful"
 id: secondary-cooperative-learning-newmann-thompson
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

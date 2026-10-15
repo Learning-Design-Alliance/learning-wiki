@@ -3,7 +3,7 @@ type: claim
 title: "Simulation ablations show ARC's projected growth requires both primary and secondary hub mechanisms together"
 description: "Simulation ablations show ARC's projected growth requires both primary and secondary hub mechanisms together"
 id: arc-ablation-complementary-hub-mechanisms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

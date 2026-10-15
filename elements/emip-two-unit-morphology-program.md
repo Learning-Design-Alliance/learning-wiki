@@ -3,7 +3,7 @@ type: element
 id: emip-two-unit-morphology-program
 title: Two-unit explicit morphology instruction program (EMIP) with outcome-based teaching for EFL secondary students
 description: "The EMIP is a short enrichment program organized thematically along two units: unit one covers basic morphological knowledge and unit two targets the two morphological skills, inflectional and derivational."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

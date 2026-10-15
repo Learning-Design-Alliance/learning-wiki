@@ -3,7 +3,7 @@ type: strategy
 id: align-self-explanation-prompts-with-target-outcomes
 title: Design self-explanation prompts aligned to target outcomes, favoring explanations of correct content
 description: "The article recommends that educators prompt self-explanation of content known to be correct, and additionally of why incorrect information is incorrect, rather than of learners' own potentially incorrect ideas."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

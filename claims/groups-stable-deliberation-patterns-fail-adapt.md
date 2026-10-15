@@ -3,7 +3,7 @@ type: claim
 title: Most groups maintain stable deliberation patterns across triggering events and fail to adapt to emerging regulatory needs
 description: Most groups maintain stable deliberation patterns across triggering events and fail to adapt to emerging regulatory needs
 id: groups-stable-deliberation-patterns-fail-adapt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

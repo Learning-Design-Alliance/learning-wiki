@@ -3,7 +3,7 @@ type: claim
 title: AI literacy interventions show a large, statistically significant overall positive effect on student AI literacy outcomes (g = 0.837)
 description: AI literacy interventions show a large, statistically significant overall positive effect on student AI literacy outcomes (g = 0.837)
 id: ai-literacy-interventions-large-overall-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "Most superintendents expect AI to change education within five years, yet many leaders lack foundational AI knowledge and 43% of districts operate without formal AI guidance"
 description: "Most superintendents expect AI to change education within five years, yet many leaders lack foundational AI knowledge and 43% of districts operate without formal AI guidance"
 id: leaders-lack-ai-knowledge-districts-without-guidance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

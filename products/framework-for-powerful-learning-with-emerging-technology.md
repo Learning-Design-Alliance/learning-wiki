@@ -4,7 +4,7 @@ id: framework-for-powerful-learning-with-emerging-technology
 title: Framework for Powerful Learning with Emerging Technology
 description: A three-principle framework developed by its authors to guide educators, caregivers, and learners in using emerging technologies through learner-centered, evidence-based, and skill-building practices.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

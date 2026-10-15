@@ -3,7 +3,7 @@ type: claim
 title: Three internal arrangements of Processes and Structures (P→S, S→P, P⇄S) form the basis of scenario differentiation
 description: Three internal arrangements of Processes and Structures (P→S, S→P, P⇄S) form the basis of scenario differentiation
 id: three-internal-arrangements-monitoring-control
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

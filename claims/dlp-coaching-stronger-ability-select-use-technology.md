@@ -3,7 +3,7 @@ type: claim
 title: More DLP teachers reported strong ability to select and use technology for pedagogy and for their content area than non-DLP teachers
 description: More DLP teachers reported strong ability to select and use technology for pedagogy and for their content area than non-DLP teachers
 id: dlp-coaching-stronger-ability-select-use-technology
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

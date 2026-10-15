@@ -3,7 +3,7 @@ type: claim
 title: "Most Annenberg partners found the Challenge's twice-yearly written reporting requirements burdensome and detrimental to their work with schools"
 description: "Most Annenberg partners found the Challenge's twice-yearly written reporting requirements burdensome and detrimental to their work with schools"
 id: annenberg-reporting-requirements-onerous
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

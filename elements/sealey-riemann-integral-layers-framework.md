@@ -3,7 +3,7 @@ type: element
 id: sealey-riemann-integral-layers-framework
 title: "Sealey's layered reference frame for Riemann sum and definite integral understanding"
 description: "The article synthesizes Sealey's (2014) framework characterizing students' understanding of Riemann sums and the definite integral."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

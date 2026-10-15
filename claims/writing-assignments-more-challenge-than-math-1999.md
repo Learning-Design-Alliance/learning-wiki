@@ -3,7 +3,7 @@ type: claim
 title: Writing assignments in 1999 showed more intellectual challenge than mathematics, with 48 to 64 percent reaching moderate or extensive challenge depending on grade
 description: Writing assignments in 1999 showed more intellectual challenge than mathematics, with 48 to 64 percent reaching moderate or extensive challenge depending on grade
 id: writing-assignments-more-challenge-than-math-1999
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

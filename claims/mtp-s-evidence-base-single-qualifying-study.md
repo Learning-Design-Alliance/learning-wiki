@@ -3,7 +3,7 @@ type: claim
 title: Only one of six identified MTP-S studies met WWC group design standards, and only for general achievement
 description: Only one of six identified MTP-S studies met WWC group design standards, and only for general achievement
 id: mtp-s-evidence-base-single-qualifying-study
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

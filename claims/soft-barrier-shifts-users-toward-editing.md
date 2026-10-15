@@ -3,7 +3,7 @@ type: claim
 title: In an exploratory pilot, a soft barrier shifted participants from direct copying toward editing, understanding, and iterative resubmission without preventing task completion
 description: In an exploratory pilot, a soft barrier shifted participants from direct copying toward editing, understanding, and iterative resubmission without preventing task completion
 id: soft-barrier-shifts-users-toward-editing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

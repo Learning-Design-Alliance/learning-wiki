@@ -3,7 +3,7 @@ type: claim
 title: LLM-generated errors received significantly higher plausibility ratings than authentic student errors, explained by a narrower, cleaner error-type distribution
 description: LLM-generated errors received significantly higher plausibility ratings than authentic student errors, explained by a narrower, cleaner error-type distribution
 id: llm-errors-score-higher-plausibility-than-authentic-student-errors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

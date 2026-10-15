@@ -3,7 +3,7 @@ type: claim
 title: Elaborative interrogation improved true/false test performance in an introductory biology course context
 description: Elaborative interrogation improved true/false test performance in an introductory biology course context
 id: elaborative-interrogation-biology-course-context
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

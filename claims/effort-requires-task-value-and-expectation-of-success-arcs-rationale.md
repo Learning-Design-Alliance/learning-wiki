@@ -3,7 +3,7 @@ type: claim
 title: Instruction should present the learning task as engaging and meaningful and promote positive expectations of success, because effort requires that learners value the task and believe they can succeed
 description: Instruction should present the learning task as engaging and meaningful and promote positive expectations of success, because effort requires that learners value the task and believe they can succeed
 id: effort-requires-task-value-and-expectation-of-success-arcs-rationale
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

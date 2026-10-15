@@ -4,7 +4,7 @@ id: dataset-of-approximately-18000-multiple-choice-questions-from-a-high-stakes-
 title: Dataset of approximately 18,000 multiple-choice questions from a high-stakes medical exam
 description: A research dataset assembled by Kang Xue et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

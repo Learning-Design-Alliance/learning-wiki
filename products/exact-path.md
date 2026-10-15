@@ -4,7 +4,7 @@ id: exact-path
 title: Exact Path
 description: "Exact Path is Edmentum's computer-adaptive supplemental learning platform, using diagnostic data to assign personalized instruction and practice."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

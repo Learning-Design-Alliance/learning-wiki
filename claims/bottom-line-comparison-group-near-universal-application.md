@@ -3,7 +3,7 @@ type: claim
 title: Comparison-group students in the Bottom Line study accessed existing advising and nearly all applied to college and for financial aid
 description: Comparison-group students in the Bottom Line study accessed existing advising and nearly all applied to college and for financial aid
 id: bottom-line-comparison-group-near-universal-application
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

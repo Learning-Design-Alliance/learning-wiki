@@ -3,7 +3,7 @@ type: design
 id: detect-verify-escalate-pipeline
 title: Detect-verify-escalate pipeline with four pedagogically distinct routes
 description: "The pipeline routes each student submission through an answer-key check and, for correct-answer cases, an LLM graduated assessment producing four routes: Red (wrong answer, automated correction), Green (clear reasonin..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

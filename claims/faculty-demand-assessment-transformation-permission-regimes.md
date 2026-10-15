@@ -3,7 +3,7 @@ type: claim
 title: A majority of faculty believe student evaluation methods require significant change, and preferences tilt toward disclosure-based permission regimes over bans
 description: A majority of faculty believe student evaluation methods require significant change, and preferences tilt toward disclosure-based permission regimes over bans
 id: faculty-demand-assessment-transformation-permission-regimes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "DIF study finds most items in category A, with C DIF rare (~1%) except for the Native English/Bilingual group (6.66%)"
 description: "DIF study finds most items in category A, with C DIF rare (~1%) except for the Native English/Bilingual group (6.66%)"
 id: spanish-map-reading-dif-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

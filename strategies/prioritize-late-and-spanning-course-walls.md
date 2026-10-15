@@ -3,7 +3,7 @@ type: strategy
 id: prioritize-late-and-spanning-course-walls
 title: Prioritize redesign of late, back-to-back, and spanning Course Walls, where momentum recovery is least likely
 description: The authors recommend that when Course Walls are identified, designers prioritize the walls latest in the course.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

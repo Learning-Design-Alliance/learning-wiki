@@ -3,7 +3,7 @@ type: claim
 title: Coordination of Services Teams (COSTs) are used universally in Oakland Unified schools to connect students and families with academic, mental, behavioral, and physical health supports
 description: Coordination of Services Teams (COSTs) are used universally in Oakland Unified schools to connect students and families with academic, mental, behavioral, and physical health supports
 id: costs-universally-connect-students-to-supports
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

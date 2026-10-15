@@ -3,7 +3,7 @@ type: claim
 title: Self-efficacy and motivation positively predict self-directed learning, with motivation the strongest direct predictor
 description: Self-efficacy and motivation positively predict self-directed learning, with motivation the strongest direct predictor
 id: se-mov-positive-predict-sdl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

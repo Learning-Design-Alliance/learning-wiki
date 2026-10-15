@@ -3,7 +3,7 @@ type: claim
 title: LLM-as-a-judge ratings found only small, incremental differences between systems, with ceiling effects on several criteria
 description: LLM-as-a-judge ratings found only small, incremental differences between systems, with ceiling effects on several criteria
 id: llm-judge-small-incremental-differences-ceiling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Imposing the SDP zero-paper constraint significantly improves overall instructional design quality (d = 2.80)
 description: Imposing the SDP zero-paper constraint significantly improves overall instructional design quality (d = 2.80)
 id: sdp-constraint-improves-overall-design-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

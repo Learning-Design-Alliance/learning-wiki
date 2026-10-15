@@ -3,7 +3,7 @@ type: claim
 title: Adding small peer feedback groups to web-based SRL training and a diary (Group TDP) produced statistically significant gains in SRL knowledge, the SRL overall score, self-efficacy and the mathematics focus score, the last of which Group TD did not show
 description: Adding small peer feedback groups to web-based SRL training and a diary (Group TDP) produced statistically significant gains in SRL knowledge, the SRL overall score, self-efficacy and the mathematics focus score, the...
 id: peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

@@ -3,7 +3,7 @@ type: design
 id: logic-aware-segmented-video-intervention
 title: Logic-aware segmented video intervention with fixed 4-second system-defined pauses
 description: "A post-hoc video processing intervention for instructional programming videos: after recording, content is cut at logical action boundaries and a fixed pause is injected after each step."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: element
 id: tsdl-inspired-data-activities
 title: "TSDL-inspired data activities: roster verification, data system integration, and new data presentation"
 description: New activities undertaken by states and districts that grew out of the TSDL project.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

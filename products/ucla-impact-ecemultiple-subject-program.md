@@ -4,7 +4,7 @@ id: ucla-impact-ecemultiple-subject-program
 title: UCLA IMPACT ECE/Multiple Subject Program
 description: A UCLA Center X and Los Angeles Unified School District teacher-residency programme that prepared early-childhood and multiple-subject teachers through integrated graduate coursework, certification pathways, intensive clinical placements, and mentored practice.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

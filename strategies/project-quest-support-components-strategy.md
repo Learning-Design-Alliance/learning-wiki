@@ -3,7 +3,7 @@ type: strategy
 id: project-quest-support-components-strategy
 title: Combine full-time occupational enrollment with intrusive advising, financial support, and basic skills instruction
 description: "The report describes an implementable package of supports: \"Project QUEST is comprised of several components, including a comprehensive intake process, full-time enrollment in an occupational program, basic skills ins..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

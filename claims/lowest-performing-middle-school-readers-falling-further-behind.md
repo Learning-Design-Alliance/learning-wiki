@@ -3,7 +3,7 @@ type: claim
 title: The lowest-performing middle school readers fell further behind during post-COVID recovery
 description: The lowest-performing middle school readers fell further behind during post-COVID recovery
 id: lowest-performing-middle-school-readers-falling-further-behind
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

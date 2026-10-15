@@ -3,7 +3,7 @@ type: strategy
 id: counter-prompting-probing-ai-assumptions
 title: "Counter-prompting: deliberately probing AI systems for their assumptions and using responses as data about the apparatus"
 description: Counter-prompting is a Critical Interrogation practice in which users probe AI systems reflexively to illuminate their own limitations.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

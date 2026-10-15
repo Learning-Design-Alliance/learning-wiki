@@ -3,7 +3,7 @@ type: claim
 title: "In one qualitative interview study, science teachers report that AI tools let students experience risky or inaccessible phenomena and practise virtually before real lab work"
 description: In one qualitative interview study, science teachers report that AI tools let students experience risky or inaccessible phenomena and practise virtually before real lab work
 id: ai-enables-authentic-contextualized-science-experiences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

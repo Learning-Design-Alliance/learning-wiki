@@ -3,7 +3,7 @@ type: claim
 title: Teachers used Forms to support social-emotional learning through daily well-being check-ins and anonymous voice
 description: Teachers used Forms to support social-emotional learning through daily well-being check-ins and anonymous voice
 id: forms-sel-checkins-anonymity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

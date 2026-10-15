@@ -4,7 +4,7 @@ id: pefk-prosocial-and-effective-facilitation-in-konversations
 title: PEFK (Prosocial and Effective Facilitation in Konversations)
 description: A standardized, multi-domain compilation of online and oral discussion datasets created by Dimitris Tsirmpas and colleagues for benchmarking and analyzing facilitator interventions.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

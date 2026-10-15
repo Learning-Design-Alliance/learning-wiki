@@ -3,7 +3,7 @@ type: strategy
 id: ai-literacy-ethics-curricula-assessment-strategy
 title: Fund AI literacy initiatives integrating AI ethics into curricula and adapting assessments
 description: The article recommends that institutions fund AI literacy initiatives that embed AI ethics in curricula and redesign assessment for ethical and effective AI use.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

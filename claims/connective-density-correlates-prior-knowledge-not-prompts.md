@@ -3,7 +3,7 @@ type: claim
 title: Connective density in student-written essay segments was negatively correlated with prior knowledge and not with number of prompts
 description: Connective density in student-written essay segments was negatively correlated with prior knowledge and not with number of prompts
 id: connective-density-correlates-prior-knowledge-not-prompts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

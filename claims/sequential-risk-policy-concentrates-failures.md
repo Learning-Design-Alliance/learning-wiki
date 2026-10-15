@@ -3,7 +3,7 @@ type: claim
 title: A fixed-threshold sequential risk policy concentrated persistent-failure alerts within restricted alert budgets
 description: A fixed-threshold sequential risk policy concentrated persistent-failure alerts within restricted alert budgets
 id: sequential-risk-policy-concentrates-failures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

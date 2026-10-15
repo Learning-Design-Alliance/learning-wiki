@@ -3,7 +3,7 @@ type: strategy
 id: double-check-ai-information-classroom-structuring
 title: "Manage students' over-reliance on ChatGPT by having teachers and students double-check AI-provided information against other sources and structuring classroom interactions"
 description: "To address students' over-reliance on AI tools, the review reports that teachers recommend \"double-checking the information provided by ChatGPT with various other sources\" and \"structuring classroom interactions to sy..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

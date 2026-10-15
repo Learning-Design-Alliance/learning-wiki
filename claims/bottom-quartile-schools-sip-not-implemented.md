@@ -3,7 +3,7 @@ type: claim
 title: In bottom-quartile schools the School Improvement Plan is largely not implemented, with most teachers negative or mixed
 description: In bottom-quartile schools the School Improvement Plan is largely not implemented, with most teachers negative or mixed
 id: bottom-quartile-schools-sip-not-implemented
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -2,7 +2,7 @@
 type: theory
 title: "Powerful Learning with Emerging Technologies framework: three design principles"
 description: "The report introduces a framework organizing guidance for developers, educators, and learners into three principles: Evidence-Based, Learner-Centered, and Skill-Building."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

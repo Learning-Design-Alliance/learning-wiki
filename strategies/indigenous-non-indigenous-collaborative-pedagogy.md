@@ -3,7 +3,7 @@ type: strategy
 id: indigenous-non-indigenous-collaborative-pedagogy
 title: Indigenous–non-Indigenous academic collaboration grounded in trust, collegiality and un-learning of Western epistemic authority
 description: The paper presents collaboration between Indigenous and non-Indigenous academics as effective pedagogy in practice for reinstituting Indigenous knowledges.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

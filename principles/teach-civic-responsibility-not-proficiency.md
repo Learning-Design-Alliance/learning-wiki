@@ -3,7 +3,7 @@ type: principle
 id: teach-civic-responsibility-not-proficiency
 title: The basic course should teach civic responsibility through the classroom as a microcosm of community, rather than individual communication proficiency
 description: The fourth operationalization treats rhetorical competence as communal and ethical rather than individual.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

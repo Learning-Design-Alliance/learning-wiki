@@ -3,7 +3,7 @@ type: strategy
 id: value-added-ratings-for-ex-post-facto-program-evaluation
 title: Use value-added school ratings for low-cost ex post facto evaluation of district programs
 description: "The article recommends evaluating already-implemented programs by comparing schools' poverty-adjusted effectiveness ratings before and after implementation, using data districts already collect."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

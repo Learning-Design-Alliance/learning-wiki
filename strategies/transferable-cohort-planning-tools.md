@@ -3,7 +3,7 @@ type: strategy
 id: transferable-cohort-planning-tools
 title: Use transferable planning tools to design virtual cohort learning activities
 description: A facilitator can use the toolkit when planning a variety of learning activities for a learning cohort.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

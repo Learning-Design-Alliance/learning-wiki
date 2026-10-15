@@ -3,7 +3,7 @@ type: claim
 title: Testing benefits retention over a conservative restudy control, establishing the testing effect as robust
 description: Testing benefits retention over a conservative restudy control, establishing the testing effect as robust
 id: testing-effect-robust-versus-restudy-control
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

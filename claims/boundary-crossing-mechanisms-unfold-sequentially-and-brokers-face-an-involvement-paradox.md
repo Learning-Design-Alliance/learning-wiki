@@ -2,7 +2,7 @@
 type: claim
 title: Boundary-crossing mechanisms unfold sequentially across levels, and broker centrality creates an involvement paradox
 id: boundary-crossing-mechanisms-unfold-sequentially-and-brokers-face-an-involvement-paradox
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

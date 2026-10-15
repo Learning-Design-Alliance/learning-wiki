@@ -3,7 +3,7 @@ type: claim
 title: Only 4 of 11 studied external partners had a comprehensive, research-based approach to literacy instruction
 description: Only 4 of 11 studied external partners had a comprehensive, research-based approach to literacy instruction
 id: only-4-of-11-partners-comprehensive-literacy-approach
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: design-transparent-context-sensitive-hybrid-intelligence-decision-support
 title: Design AI decision-support systems that are transparent, context-sensitive, and hybrid-intelligence oriented
 description: "The review derives design implications for future AI decision-support systems in higher education, stating that \"the study derives design implications for the development of more transparent, context-sensitive, and hy..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

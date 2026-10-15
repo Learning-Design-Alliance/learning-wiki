@@ -2,7 +2,7 @@
 type: theory
 title: Foundations for Young Adult Success developmental framework
 description: "A developmental framework (Nagaoka, Farrington, Ehrlich, & Heath, 2015) that the author uses to organize how settings influence character development."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

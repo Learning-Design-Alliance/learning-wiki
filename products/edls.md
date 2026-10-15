@@ -4,7 +4,7 @@ id: edls
 title: EDLS
 description: A Digital Promise student survey measuring course experiences, digital-learning practices and challenges, and equity and inclusion perspectives, with demographic data for disaggregation and dashboard reporting.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

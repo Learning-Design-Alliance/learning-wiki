@@ -3,7 +3,7 @@ type: claim
 title: Observed classroom implementation promoted science practices and core ideas, with Observing and Describing most frequent and coverage varying by unit
 description: Observed classroom implementation promoted science practices and core ideas, with Observing and Describing most frequent and coverage varying by unit
 id: nico-nor-classroom-science-practices-coverage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

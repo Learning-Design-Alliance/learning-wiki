@@ -3,7 +3,7 @@ type: claim
 title: First Step to Success shows no discernible effects on reading achievement/literacy
 description: First Step to Success shows no discernible effects on reading achievement/literacy
 id: first-step-success-no-reading-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

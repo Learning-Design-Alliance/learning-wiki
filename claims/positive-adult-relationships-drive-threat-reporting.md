@@ -3,7 +3,7 @@ type: claim
 title: "Student bystanders' willingness to report threats is influenced by positive relationships with adults at school"
 description: "Student bystanders' willingness to report threats is influenced by positive relationships with adults at school"
 id: positive-adult-relationships-drive-threat-reporting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

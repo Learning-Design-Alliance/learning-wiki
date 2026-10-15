@@ -3,7 +3,7 @@ type: claim
 title: ACT scores weakly predict college graduation, and the school-level variance in the ACT slope (0.192) exceeds the average slope (0.129), so school effects introduce more noise than the ACT signal
 description: ACT scores weakly predict college graduation, and the school-level variance in the ACT slope (0.192) exceeds the average slope (0.129), so school effects introduce more noise than the ACT signal
 id: act-weak-predictor-noise-exceeds-signal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

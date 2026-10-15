@@ -3,7 +3,7 @@ type: element
 id: two-cycle-applicant-contact-administrative-dataset
 title: "Administrative dataset of all applicant contacts with one selective university's admissions office across two admission cycles"
 description: "The study's data source is a comprehensive administrative record from a medium-sized highly selective university."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

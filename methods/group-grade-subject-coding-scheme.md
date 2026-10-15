@@ -3,7 +3,7 @@ type: method
 id: group-grade-subject-coding-scheme
 title: Three-set coding scheme (group, grade level, subject area) with column-aligned codes and group indexes
 description: "Each resource entry carries three sets of codes on its last line: group codes (e.g., AA Asian American, BA Black American, MF Minority Female, H Handicapped), grade-level codes (E elementary, J junior high, H high sch..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

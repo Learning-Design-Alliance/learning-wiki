@@ -3,7 +3,7 @@ type: claim
 title: The Bayesian context layer applies stronger posterior personalization to students with fewer training clips, correlating clip count with KL divergence from the prior (r=-0.748, p=0.001)
 description: The Bayesian context layer applies stronger posterior personalization to students with fewer training clips, correlating clip count with KL divergence from the prior (r=-0.748, p=0.001)
 id: bayesian-context-kl-clip-count-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

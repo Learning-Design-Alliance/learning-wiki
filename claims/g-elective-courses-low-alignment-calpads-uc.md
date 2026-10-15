@@ -3,7 +3,7 @@ type: claim
 title: "College preparatory elective (G) courses showed markedly lower CALPADS-UC alignment (23-30%) than other A-G areas"
 description: "College preparatory elective (G) courses showed markedly lower CALPADS-UC alignment (23-30%) than other A-G areas"
 id: g-elective-courses-low-alignment-calpads-uc
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

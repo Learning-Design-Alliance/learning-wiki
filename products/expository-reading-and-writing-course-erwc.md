@@ -4,7 +4,7 @@ id: expository-reading-and-writing-course-erwc
 title: Expository Reading and Writing Course (ERWC)
 description: The Expository Reading and Writing Course is a college-preparatory English language arts curriculum developed by the California State University system for secondary students, with modules that integrate rhetorical reading, writing, revision, and language study.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

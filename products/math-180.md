@@ -4,7 +4,7 @@ id: math-180
 title: Math 180
 description: "Math 180 is Scholastic's targeted mathematics intervention programme combining adaptive student software with teacher-facilitated instruction for students striving to reach grade-level proficiency."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

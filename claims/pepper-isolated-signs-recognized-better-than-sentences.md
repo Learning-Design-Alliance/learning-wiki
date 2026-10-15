@@ -3,7 +3,7 @@ type: claim
 title: "LIS users recognize Pepper's isolated signs far better than its full signed sentences in an exploratory evaluation"
 description: "LIS users recognize Pepper's isolated signs far better than its full signed sentences in an exploratory evaluation"
 id: pepper-isolated-signs-recognized-better-than-sentences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Student gender showed no detectable effect on rubric-based teaching quality scores, though the analysis was underpowered
 description: Student gender showed no detectable effect on rubric-based teaching quality scores, though the analysis was underpowered
 id: gender-no-detectable-effect-underpowered
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

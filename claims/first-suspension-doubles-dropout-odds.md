@@ -3,7 +3,7 @@ type: claim
 title: "A first suspension doubles a student's odds of dropping out of school"
 description: "A first suspension doubles a student's odds of dropping out of school"
 id: first-suspension-doubles-dropout-odds
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

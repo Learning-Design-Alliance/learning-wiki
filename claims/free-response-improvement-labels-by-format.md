@@ -3,7 +3,7 @@ type: claim
 title: "Free-response improvement comments differed by format: stiffness of speech dominated for teacher–teacher and unnatural manner of speaking for student–student"
 description: "Free-response improvement comments differed by format: stiffness of speech dominated for teacher–teacher and unnatural manner of speaking for student–student"
 id: free-response-improvement-labels-by-format
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

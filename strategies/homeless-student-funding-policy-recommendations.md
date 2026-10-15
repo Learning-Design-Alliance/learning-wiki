@@ -3,7 +3,7 @@ type: strategy
 id: homeless-student-funding-policy-recommendations
 title: "Policy recommendations: fully fund the Education for Homeless Children and Youth program, expand allowable uses, base funding on homeless-student counts, and invest in community schools"
 description: "The report's closing recommendations for federal, state, and district policymakers."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

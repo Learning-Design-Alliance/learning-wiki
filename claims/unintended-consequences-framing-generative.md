@@ -3,7 +3,7 @@ type: claim
 title: "The adapted conjecture map's framing around unintended consequences proved generative for interdisciplinary discussion"
 description: "The adapted conjecture map's framing around unintended consequences proved generative for interdisciplinary discussion"
 id: unintended-consequences-framing-generative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

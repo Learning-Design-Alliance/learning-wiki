@@ -3,7 +3,7 @@ type: claim
 title: GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)
 description: GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)
 id: genai-higher-order-thinking-g072
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

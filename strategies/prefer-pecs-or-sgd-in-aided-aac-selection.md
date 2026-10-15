@@ -3,7 +3,7 @@ type: strategy
 id: prefer-pecs-or-sgd-in-aided-aac-selection
 title: Prefer PECS or speech-generating devices when selecting aided AAC approaches for individuals with ASD
 description: Based on the meta-analytic comparison of AAC intervention types, this strategy favors selecting the Picture Exchange Communication System or speech-generating devices over other picture-based systems for individuals w...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

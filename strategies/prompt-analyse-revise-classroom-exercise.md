@@ -3,7 +3,7 @@ type: strategy
 id: prompt-analyse-revise-classroom-exercise
 title: "Classroom exercise cycle: select a task, formulate a baseline prompt, submit it to an LLM, then critically analyse the output before revising instructions"
 description: "The paper's core implementable recipe: students select a task relevant to the story they are working on, formulate the baseline prompt from the relevant table, and submit it to an LLM."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

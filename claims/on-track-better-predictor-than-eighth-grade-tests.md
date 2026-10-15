@@ -3,7 +3,7 @@ type: claim
 title: On-track status predicts graduation better than eighth-grade test scores
 description: On-track status predicts graduation better than eighth-grade test scores
 id: on-track-better-predictor-than-eighth-grade-tests
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

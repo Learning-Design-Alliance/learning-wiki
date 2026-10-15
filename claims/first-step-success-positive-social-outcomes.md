@@ -3,7 +3,7 @@ type: claim
 title: First Step to Success shows potentially positive effects on social outcomes (average improvement index +23)
 description: First Step to Success shows potentially positive effects on social outcomes (average improvement index +23)
 id: first-step-success-positive-social-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

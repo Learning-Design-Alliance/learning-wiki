@@ -3,7 +3,7 @@ type: claim
 title: Hostility and afraid attachment do not meaningfully predict cognitive flexibility, while the other variables do
 description: Hostility and afraid attachment do not meaningfully predict cognitive flexibility, while the other variables do
 id: hostility-afraid-attachment-null-predictors-flexibility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

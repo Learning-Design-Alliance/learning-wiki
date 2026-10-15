@@ -3,7 +3,7 @@ type: claim
 title: Purely mechanical drills are of limited use because they do not train learners to conceptualize a meaning and express it linguistically
 description: Purely mechanical drills are of limited use because they do not train learners to conceptualize a meaning and express it linguistically
 id: mechanical-drills-limited-use-meaning-form
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

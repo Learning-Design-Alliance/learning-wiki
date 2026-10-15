@@ -3,7 +3,7 @@ type: claim
 title: Classroom testing of cognitively revised middle school math units shows trends in the expected direction favoring the redesigned curriculum, though analysis is still underway
 description: Classroom testing of cognitively revised middle school math units shows trends in the expected direction favoring the redesigned curriculum, though analysis is still underway
 id: revised-math-units-trends-expected-direction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

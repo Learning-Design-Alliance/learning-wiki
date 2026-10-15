@@ -3,7 +3,7 @@ type: claim
 title: Proficient learners complete the CT task faster and with fewer clicks than Novice and Developing learners
 description: Proficient learners complete the CT task faster and with fewer clicks than Novice and Developing learners
 id: proficient-learners-task-efficiency-behaviour
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

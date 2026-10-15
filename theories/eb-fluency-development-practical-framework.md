@@ -2,7 +2,7 @@
 type: theory
 title: "A practical framework for emergent bilinguals' reading fluency development"
 description: "The paper distills the eleven reviewed studies and the classical Kuhn studies into a sequenced framework for EB fluency instruction: \"Begin with accessible, meaningful texts; provide teacher or adult fluent modeling;..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

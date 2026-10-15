@@ -3,7 +3,7 @@ type: claim
 title: "Each of the 12 human raters' scores correlates significantly with AEEGS scores, with coefficients ranging from 0.604 to 0.864"
 description: "Each of the 12 human raters' scores correlates significantly with AEEGS scores, with coefficients ranging from 0.604 to 0.864"
 id: aeegs-pearson-correlations-range-0604-0864
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

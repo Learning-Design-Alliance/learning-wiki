@@ -3,7 +3,7 @@ type: claim
 title: "Prompt Coach's largest learning gains occurred on Inclusion of Constraints, Error Handling, and Context Awareness, the dimensions developers scored lowest on at baseline"
 description: "Prompt Coach's largest learning gains occurred on Inclusion of Constraints, Error Handling, and Context Awareness, the dimensions developers scored lowest on at baseline"
 id: prompt-coach-largest-gains-on-baseline-blind-spots
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

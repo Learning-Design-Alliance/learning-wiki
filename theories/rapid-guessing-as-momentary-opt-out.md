@@ -2,7 +2,7 @@
 type: theory
 title: Rapid guessing as a momentary decision by the test taker to opt out of being measured
 description: "Wise conceptualizes a rapid guess not as a low-quality attempt at the item but as a behavioral choice: \"a rapid guess to an item represents a choice by the test taker to momentarily opt out of being measured.\" On this..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

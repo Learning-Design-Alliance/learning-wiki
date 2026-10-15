@@ -3,7 +3,7 @@ type: claim
 title: Additional special education costs vary substantially by primary disability category
 description: Additional special education costs vary substantially by primary disability category
 id: disability-category-cost-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

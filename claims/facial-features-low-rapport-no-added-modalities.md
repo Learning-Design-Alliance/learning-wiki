@@ -3,7 +3,7 @@ type: claim
 title: Facial features of negative emotions predict low rapport, but additional modalities added no predictive power
 description: Facial features of negative emotions predict low rapport, but additional modalities added no predictive power
 id: facial-features-low-rapport-no-added-modalities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

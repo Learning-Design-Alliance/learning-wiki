@@ -3,7 +3,7 @@ type: claim
 title: The inverse relation between mathematics and reading sex differences also holds within nations across the performance continuum
 description: The inverse relation between mathematics and reading sex differences also holds within nations across the performance continuum
 id: within-nation-inverse-relation-performance-continuum
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Leadership teams can use CALL survey results to select the guide sections most useful for their improvement plan
 description: Leadership teams can use CALL survey results to select the guide sections most useful for their improvement plan
 id: call-results-inform-guide-section-selection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

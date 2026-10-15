@@ -3,7 +3,7 @@ type: claim
 title: "In a classroom deployment, 71.1% of observed target-level ERD changes fully or partially incorporated the hidden diagnostic target, conditional on students making a relevant revision"
 description: "In a classroom deployment, 71.1% of observed target-level ERD changes fully or partially incorporated the hidden diagnostic target, conditional on students making a relevant revision"
 id: erd-agent-target-incorporation-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

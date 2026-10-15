@@ -3,7 +3,7 @@ type: claim
 title: Students value knowing class routines and report that rushed pacing, especially in Advanced Placement courses, is a barrier to mastering content
 description: Students value knowing class routines and report that rushed pacing, especially in Advanced Placement courses, is a barrier to mastering content
 id: students-report-routines-help-and-rushed-pacing-hurts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

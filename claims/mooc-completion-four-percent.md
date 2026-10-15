@@ -3,7 +3,7 @@ type: claim
 title: A University of Pennsylvania study found only about half of MOOC registrants viewed a lecture and only about four percent finished a course entirely
 description: A University of Pennsylvania study found only about half of MOOC registrants viewed a lecture and only about four percent finished a course entirely
 id: mooc-completion-four-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

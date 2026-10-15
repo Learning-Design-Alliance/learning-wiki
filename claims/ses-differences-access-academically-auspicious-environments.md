@@ -3,7 +3,7 @@ type: claim
 title: The article reviews evidence that aspects of the learning environment most closely associated with successful development of early academic competence differ by socioeconomic background
 description: The article reviews evidence that aspects of the learning environment most closely associated with successful development of early academic competence differ by socioeconomic background
 id: ses-differences-access-academically-auspicious-environments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

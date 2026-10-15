@@ -3,7 +3,7 @@ type: claim
 title: Repeatedly recalling a text without feedback or rereading produces the best one-week retention, while repeated studying leads on a final test at the end of the session
 description: Repeatedly recalling a text without feedback or rereading produces the best one-week retention, while repeated studying leads on a final test at the end of the session
 id: repeated-recall-without-feedback-beats-repeated-study-at-one-week-but-not-five-minutes
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

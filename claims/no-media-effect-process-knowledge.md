@@ -3,7 +3,7 @@ type: claim
 title: "No media effect for process knowledge: animation did not improve learning of dynamic content"
 description: "No media effect for process knowledge: animation did not improve learning of dynamic content"
 id: no-media-effect-process-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

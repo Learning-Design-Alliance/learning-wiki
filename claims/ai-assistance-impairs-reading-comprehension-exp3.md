@@ -3,7 +3,7 @@ type: claim
 title: AI assistance impairs unassisted performance and persistence in reading comprehension, replicating the fraction-task effects in a second domain
 description: AI assistance impairs unassisted performance and persistence in reading comprehension, replicating the fraction-task effects in a second domain
 id: ai-assistance-impairs-reading-comprehension-exp3
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

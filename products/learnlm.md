@@ -4,7 +4,7 @@ id: learnlm
 title: LearnLM
 description: "LearnLM is Google's Gemini-based language model co-trained to follow pedagogical instructions for interactive tutoring and learning applications."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

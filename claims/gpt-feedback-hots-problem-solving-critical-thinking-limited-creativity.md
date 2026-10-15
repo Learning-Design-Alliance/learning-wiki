@@ -3,7 +3,7 @@ type: claim
 title: GPT feedback in VR markedly improved problem-solving and critical thinking but had limited impact on creativity
 description: GPT feedback in VR markedly improved problem-solving and critical thinking but had limited impact on creativity
 id: gpt-feedback-hots-problem-solving-critical-thinking-limited-creativity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

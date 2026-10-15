@@ -3,7 +3,7 @@ type: claim
 title: Unsuccessful retrieval attempts confer a smaller benefit to future performance than successful retrievals, whose advantage grows with item difficulty
 description: Unsuccessful retrieval attempts confer a smaller benefit to future performance than successful retrievals, whose advantage grows with item difficulty
 id: unsuccessful-retrieval-smaller-benefit-than-successful
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

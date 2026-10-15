@@ -3,7 +3,7 @@ type: element
 id: twenty-seven-scaled-passages
 title: Twenty-seven one-paragraph passages scaled for linkage, imagery, interest, reading ease, and word frequency
 description: "A normed corpus of 27 one-paragraph passages (nine narrative, nine factual, nine conceptual) with scores on five dimensions: familiarity (linkage), imagery, interest, reading ease, and word frequency."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

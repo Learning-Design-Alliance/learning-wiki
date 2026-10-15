@@ -3,7 +3,7 @@ type: claim
 title: The 15 pedagogical innovation projects benefited approximately 1,800 students and produced improvements in problematic aspects of science teaching and learning at UNAL
 description: The 15 pedagogical innovation projects benefited approximately 1,800 students and produced improvements in problematic aspects of science teaching and learning at UNAL
 id: i3p-science-projects-benefited-1800-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

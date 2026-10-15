@@ -3,7 +3,7 @@ type: strategy
 id: sl-home-language-assessment-differentiation
 title: "Teach in students' home language in primary, assess learning levels and differentiate instruction, and align teacher training with language-of-instruction policy"
 description: "The brief recommends that systems \"use students' home language in primary, building up their literacy in their home language before potentially switching to a second language (L2) as the language of instruction.\" It f..."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

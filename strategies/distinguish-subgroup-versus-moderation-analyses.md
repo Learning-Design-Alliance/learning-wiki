@@ -3,7 +3,7 @@ type: strategy
 id: distinguish-subgroup-versus-moderation-analyses
 title: Distinguish subgroup stratified analyses from statistical moderation tests when evaluating differential SEL effects
 description: The review advises that depending on research aims, subgroup analyses or moderation tests of diversity characteristics may be appropriate, and that data may direct the decision, for example when subgroups have differe...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

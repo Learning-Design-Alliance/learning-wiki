@@ -3,7 +3,7 @@ type: claim
 title: Two decades of research have produced advances in both the measurement of test-taking disengagement and understanding of its distortive impact on individual and aggregated scores
 description: Two decades of research have produced advances in both the measurement of test-taking disengagement and understanding of its distortive impact on individual and aggregated scores
 id: disengagement-research-advances-measurement-and-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

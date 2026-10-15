@@ -3,7 +3,7 @@ type: claim
 title: "Extraversion's protective effect on well-being declines with age, significant only for younger students"
 description: "Extraversion's protective effect on well-being declines with age, significant only for younger students"
 id: age-moderates-extraversion-wellbeing-effect
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -2,7 +2,7 @@
 type: theory
 title: Eight laboratory method types from three classificatory adjectives
 description: The paper classifies laboratory instruction along three adjective groups, producing eight option types that differ in their space requirements.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

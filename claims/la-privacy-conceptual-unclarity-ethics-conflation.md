@@ -3,7 +3,7 @@ type: claim
 title: "Conceptual unclarity in LA: privacy is used interchangeably or in overlapping ways with ethics, security, and anonymity"
 description: "Conceptual unclarity in LA: privacy is used interchangeably or in overlapping ways with ethics, security, and anonymity"
 id: la-privacy-conceptual-unclarity-ethics-conflation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

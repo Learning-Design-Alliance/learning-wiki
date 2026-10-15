@@ -3,7 +3,7 @@ type: claim
 title: "Estimated teacher hires increased 43% between 2013–14 and 2017–18, outpacing growth in credential issuance"
 description: "Estimated teacher hires increased 43% between 2013–14 and 2017–18, outpacing growth in credential issuance"
 id: teacher-hire-demand-increased-43-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

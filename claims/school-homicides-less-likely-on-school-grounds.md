@@ -3,7 +3,7 @@ type: claim
 title: Homicides of school-aged children are far less likely to occur on school grounds than elsewhere
 description: Homicides of school-aged children are far less likely to occur on school grounds than elsewhere
 id: school-homicides-less-likely-on-school-grounds
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

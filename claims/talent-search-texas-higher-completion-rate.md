@@ -3,7 +3,7 @@ type: claim
 title: "Talent Search participants in Texas completed high school or GED at a significantly higher rate than matched comparison students (86% vs. 77%)"
 description: "Talent Search participants in Texas completed high school or GED at a significantly higher rate than matched comparison students (86% vs."
 id: talent-search-texas-higher-completion-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: idc-as-leadership-tool
 title: Develop IDC as a leadership tool for district-level equity discourse, not only a curriculum design framework
 description: "The commentary recommends extending IDC's use beyond curriculum design to structure learning-sciences-based discourse with powerful school leaders about preparing students equitably for the future."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

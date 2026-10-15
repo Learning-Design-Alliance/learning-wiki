@@ -3,7 +3,7 @@ type: claim
 title: Initial short-answer tests outperform initial multiple-choice tests mainly when feedback follows them; without feedback, the higher initial success of multiple-choice tests can favor multiple-choice
 description: Initial short-answer tests outperform initial multiple-choice tests mainly when feedback follows them; without feedback, the higher initial success of multiple-choice tests can favor multiple-choice
 id: feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

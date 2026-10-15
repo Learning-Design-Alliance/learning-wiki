@@ -3,7 +3,7 @@ type: strategy
 id: industry-partners-inform-cbe-competencies
 title: Engage industry partners to inform curriculum development, including the competencies needed, and develop new programs in response to employer input
 description: "The brief reports that \"Industry partners informed curriculum development, including the competencies needed, and new programs were developed in response to employer input.\" This strategy makes employer input a direct..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

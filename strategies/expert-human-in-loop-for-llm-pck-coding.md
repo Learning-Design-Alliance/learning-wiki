@@ -3,7 +3,7 @@ type: strategy
 id: expert-human-in-loop-for-llm-pck-coding
 title: Incorporate an expert human in the loop to support LLM coding of difficult adjacent coding categories
 description: "The article's discussion recommends exploring human-in-the-loop support when multi-agent refinement alone leaves adjacent coding categories confounded."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

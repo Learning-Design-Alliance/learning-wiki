@@ -3,7 +3,7 @@ type: claim
 title: Human oversight remained necessary alongside AI-based tutoring, especially for misconceptions and advanced topics
 description: Human oversight remained necessary alongside AI-based tutoring, especially for misconceptions and advanced topics
 id: human-oversight-necessary-alongside-ai-tutoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

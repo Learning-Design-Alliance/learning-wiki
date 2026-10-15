@@ -3,7 +3,7 @@ type: claim
 title: Schools with stronger college-going cultures have higher student ACT scores, regardless of student backgrounds
 description: Schools with stronger college-going cultures have higher student ACT scores, regardless of student backgrounds
 id: college-going-culture-associated-higher-act-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

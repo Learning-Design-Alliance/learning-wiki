@@ -3,7 +3,7 @@ type: claim
 title: "English-delivered AI explanations impose a double cognitive burden: foreign-language content significantly reduced learning outcomes versus native-language instruction in controlled higher-education studies"
 description: "English-delivered AI explanations impose a double cognitive burden: foreign-language content significantly reduced learning outcomes versus native-language instruction in controlled higher-education studies"
 id: double-burden-language-of-ai-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

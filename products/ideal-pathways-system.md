@@ -4,7 +4,7 @@ id: ideal-pathways-system
 title: Ideal pathways system
 description: A college-and-career pathways framework proposed by Rebeca Shackleford and colleagues that coordinates CTE, work-based learning, postsecondary opportunities, credentials, and continuous counseling for adolescents and young adults.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: student-owned-portfolios-maker-assessment
 title: Use student-owned portfolios with digital and non-digital documentation to assess maker growth over time
 description: The paper recommends portfolio development as a way to accomplish a process-over-product approach.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

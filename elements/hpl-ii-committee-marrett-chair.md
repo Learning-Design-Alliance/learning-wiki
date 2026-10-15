@@ -3,7 +3,7 @@ type: element
 id: hpl-ii-committee-marrett-chair
 title: Ad hoc committee of sixteen members chaired by Cora B. Marrett
 description: The activity page lists the study committee with Cora B.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

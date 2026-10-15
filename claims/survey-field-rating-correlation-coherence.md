@@ -3,7 +3,7 @@ type: claim
 title: "Teacher survey reports of instructional program coherence correlate strongly with researchers' field-based ratings of coherence"
 description: "Teacher survey reports of instructional program coherence correlate strongly with researchers' field-based ratings of coherence"
 id: survey-field-rating-correlation-coherence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

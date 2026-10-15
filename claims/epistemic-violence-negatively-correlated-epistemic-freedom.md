@@ -3,7 +3,7 @@ type: claim
 title: "Adults' resorting to epistemic violence correlates negatively with past enjoyment of and tendency toward education-related epistemic freedom"
 description: "Adults' resorting to epistemic violence correlates negatively with past enjoyment of and tendency toward education-related epistemic freedom"
 id: epistemic-violence-negatively-correlated-epistemic-freedom
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Model family and instruction-tuning approach appear better predictors of tutoring quality than parameter count alone
 description: Model family and instruction-tuning approach appear better predictors of tutoring quality than parameter count alone
 id: model-family-beats-parameter-count-for-tutoring-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: obc-future-cohort-support-strategies
 title: Support future edtech OBC cohorts with readiness assessments, early planning, needs-assessment framing, and cross-cohort collaboration
 description: "The report offers role-specific recommendations for future OBC engagement: develop readiness assessments to prepare districts and providers; frame contract development as a needs assessment leveraging existing process..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

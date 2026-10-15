@@ -3,7 +3,7 @@ type: claim
 title: "The tool's effect differs by timing: early AI acts as a momentum starter, later AI as a deepener raising narrative transportation"
 description: "The tool's effect differs by timing: early AI acts as a momentum starter, later AI as a deepener raising narrative transportation"
 id: ai-scaffolding-effect-depends-on-workflow-timing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

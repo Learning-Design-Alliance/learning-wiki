@@ -3,7 +3,7 @@ type: claim
 title: Teacher mobility behavior is heterogeneous across the teacher performance distribution
 description: Teacher mobility behavior is heterogeneous across the teacher performance distribution
 id: heterogeneous-mobility-across-performance-distribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

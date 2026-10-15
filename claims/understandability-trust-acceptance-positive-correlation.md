@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' understandability, trust, and acceptance of AI-EdTech recommendations are positively and significantly correlated"
 description: "Teachers' understandability, trust, and acceptance of AI-EdTech recommendations are positively and significantly correlated"
 id: understandability-trust-acceptance-positive-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

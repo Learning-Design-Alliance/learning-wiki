@@ -3,7 +3,7 @@ type: theory
 id: computer-roles-expert-partner-servant
 title: "Computer roles as division of labor: expert, partner, and servant, each with goals, concerns, and contradictions"
 description: "The paper's Table 1 organizes the division of labor between computers and single users in terms of the role the computer plays: expert, intellectual partner, or servant."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

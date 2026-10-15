@@ -3,7 +3,7 @@ type: element
 id: dropout-meta-analysis-130-samples-corpus
 title: Meta-analytic corpus of 130 dropout program evaluation samples
 description: "The article's evidence base is a coded corpus of \"130 independent samples of students\" drawn from a comprehensive literature search of evaluations of school-based, school-affiliated, and community-based dropout preven..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

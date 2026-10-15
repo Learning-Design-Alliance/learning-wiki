@@ -3,7 +3,7 @@ type: claim
 title: T-tests show no significant shallow-vs-transformer difference in accuracy, weighted F1 or macro-F1, but a significant ROC-AUC advantage for the shallow model
 description: T-tests show no significant shallow-vs-transformer difference in accuracy, weighted F1 or macro-F1, but a significant ROC-AUC advantage for the shallow model
 id: ttest-roc-auc-advantage-shallow
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

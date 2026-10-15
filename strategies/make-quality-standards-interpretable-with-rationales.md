@@ -3,7 +3,7 @@ type: strategy
 id: make-quality-standards-interpretable-with-rationales
 title: Make platform quality standards interpretable by pairing automated scores with rationales and contextual cues
 description: "The article's third design consideration states that automated feedback can support gig platforms' quality control by organizing evaluations around structured criteria rather than relying solely on learners' individua..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: magnetic-reading-implementation-points-of-contact
 title: Implement Magnetic Reading with designated points of contact supported by i-Ready Partners, with no additional staff required
 description: "The article's implementation guidance specifies that no additional staff are required to use Magnetic Reading, but implementations do require points of contact to assist with initial set-up and disseminate communicati..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

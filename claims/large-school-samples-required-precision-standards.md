@@ -3,7 +3,7 @@ type: claim
 title: Large school samples are required to achieve appropriate precision standards in clustered education experiments
 description: Large school samples are required to achieve appropriate precision standards in clustered education experiments
 id: large-school-samples-required-precision-standards
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

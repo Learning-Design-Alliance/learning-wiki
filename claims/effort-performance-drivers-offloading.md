@@ -3,7 +3,7 @@ type: claim
 title: "Both performance-oriented goals and effort minimization motivate offloading, and effort's effect disappears when performance monitoring is considered simultaneously"
 description: "Both performance-oriented goals and effort minimization motivate offloading, and effort's effect disappears when performance monitoring is considered simultaneously"
 id: effort-performance-drivers-offloading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

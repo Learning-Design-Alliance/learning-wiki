@@ -3,7 +3,7 @@ type: claim
 title: During its first seven years, the Kauffman School had substantial positive impacts on student achievement growth in mathematics, English language arts, and science beyond growth in other Kansas City public schools
 description: During its first seven years, the Kauffman School had substantial positive impacts on student achievement growth in mathematics, English language arts, and science beyond growth in other Kansas City public schools
 id: kauffman-school-seven-year-achievement-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

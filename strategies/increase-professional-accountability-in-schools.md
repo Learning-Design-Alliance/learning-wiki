@@ -3,7 +3,7 @@ type: strategy
 id: increase-professional-accountability-in-schools
 title: Specifically increase the use of professional accountability in schools
 description: "As a specific implementable recommendation within its multi-pronged approach, the paper advises that accountability design \"should specifically increase the use of professional accountability, which has historically b..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

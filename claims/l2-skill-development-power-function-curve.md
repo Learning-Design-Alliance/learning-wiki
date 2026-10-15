@@ -3,7 +3,7 @@ type: claim
 title: Automatized L2 morphosyntactic skills develop very gradually over time, following a power function learning curve like other cognitive skills
 description: Automatized L2 morphosyntactic skills develop very gradually over time, following a power function learning curve like other cognitive skills
 id: l2-skill-development-power-function-curve
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

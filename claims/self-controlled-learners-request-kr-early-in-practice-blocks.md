@@ -3,7 +3,7 @@ type: claim
 title: When restricted to three knowledge-of-results requests per 10-trial block, all three self-controlled groups requested KR mostly on early trials of a block, a massed schedule.
 description: When restricted to three knowledge-of-results requests per 10-trial block, all three self-controlled groups requested KR mostly on early trials of a block, a massed schedule.
 id: self-controlled-learners-request-kr-early-in-practice-blocks
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

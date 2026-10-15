@@ -3,7 +3,7 @@ type: claim
 title: Strength on most 5Essentials measures was similarly likely across poverty levels, but five measures were less prevalent in high-poverty schools
 description: Strength on most 5Essentials measures was similarly likely across poverty levels, but five measures were less prevalent in high-poverty schools
 id: 5essentials-five-measures-less-prevalent-high-poverty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

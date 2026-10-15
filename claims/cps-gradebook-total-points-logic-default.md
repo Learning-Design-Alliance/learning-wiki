@@ -3,7 +3,7 @@ type: claim
 title: "Sixty-five percent of CPS ninth-grade math sections used Gradebook's default Total Points Logic ON setting, aggregating task scores by total points earned over total points possible"
 description: "Sixty-five percent of CPS ninth-grade math sections used Gradebook's default Total Points Logic ON setting, aggregating task scores by total points earned over total points possible"
 id: cps-gradebook-total-points-logic-default
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

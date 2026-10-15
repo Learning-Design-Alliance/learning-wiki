@@ -3,7 +3,7 @@ type: claim
 title: Peer and self-assessment both show significant effects on academic performance with no significant difference between their impacts
 description: Peer and self-assessment both show significant effects on academic performance with no significant difference between their impacts
 id: peer-self-assessment-improve-performance-equally
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

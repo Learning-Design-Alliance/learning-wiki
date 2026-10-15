@@ -3,7 +3,7 @@ type: claim
 title: College English writing instruction for non-English majors in China faces reduced class hours, no dedicated writing course, and test-driven assessment
 description: College English writing instruction for non-English majors in China faces reduced class hours, no dedicated writing course, and test-driven assessment
 id: college-english-writing-instruction-problems-china
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

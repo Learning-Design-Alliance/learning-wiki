@@ -3,7 +3,7 @@ type: strategy
 id: invest-in-el-coordination-coaching-paraprofessional-pathways
 title: Invest in program coordination, instructional coaching, and bilingual paraprofessional career pathways to improve English Learner program design
 description: The brief recommends that local and regional actors hire additional English Learner program coordination and instructional coaching staff to improve integration of English language development with academic subjects,...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

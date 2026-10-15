@@ -3,7 +3,7 @@ type: claim
 title: "Over a third (36.7%) of borrowing teachers have worked multiple jobs because of student loans, and the share rises with monthly repayment amounts"
 description: "Over a third (36.7%) of borrowing teachers have worked multiple jobs because of student loans, and the share rises with monthly repayment amounts"
 id: loan-debt-multiple-jobs-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

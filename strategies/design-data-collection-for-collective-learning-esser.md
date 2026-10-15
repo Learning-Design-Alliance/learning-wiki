@@ -3,7 +3,7 @@ type: strategy
 id: design-data-collection-for-collective-learning-esser
 title: Districts should design and implement data collection processes now to shape collective learning from ESSER interventions
 description: "The presentation recommends that district leaders act immediately on measurement infrastructure for recovery spending, asking \"What can districts do now to design and implement data collection processes that will shap..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

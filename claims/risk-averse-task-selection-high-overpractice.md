@@ -3,7 +3,7 @@ type: claim
 title: The risk-averse Minimize Worst Case Loss task-selection strategy produces far higher overpractice than other strategies in simulated mastery learning
 description: The risk-averse Minimize Worst Case Loss task-selection strategy produces far higher overpractice than other strategies in simulated mastery learning
 id: risk-averse-task-selection-high-overpractice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

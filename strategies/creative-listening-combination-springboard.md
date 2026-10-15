@@ -3,7 +3,7 @@ type: strategy
 id: creative-listening-combination-springboard
 title: Use existing class combinations as springboards for creative self-listening studies
 description: The article recommends devoting a small but consistent period of technique class to the creative voice by using locomotor or culminating center-floor combinations as springboards.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

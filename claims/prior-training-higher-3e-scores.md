@@ -3,7 +3,7 @@ type: claim
 title: Participants with prior communication-training experience achieved higher overall 3E scores than those without
 description: Participants with prior communication-training experience achieved higher overall 3E scores than those without
 id: prior-training-higher-3e-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

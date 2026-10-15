@@ -3,7 +3,7 @@ type: claim
 title: WTC decreases as class size increases on both talk-time and turns of talk
 description: WTC decreases as class size increases on both talk-time and turns of talk
 id: wtc-decreases-as-class-size-increases
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

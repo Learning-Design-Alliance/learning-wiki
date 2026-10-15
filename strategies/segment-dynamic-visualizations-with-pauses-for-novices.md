@@ -3,7 +3,7 @@ type: strategy
 id: segment-dynamic-visualizations-with-pauses-for-novices
 title: Segment dynamic visualizations with pauses between meaningful segments for novice learners, choosing segment length deliberately
 description: The review supports showing complex dynamic visualizations in segments with pauses between them, since studies show benefits at least for novices.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

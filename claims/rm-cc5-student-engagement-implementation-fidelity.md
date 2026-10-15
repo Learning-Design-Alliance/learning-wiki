@@ -3,7 +3,7 @@ type: claim
 title: "Treatment students substantively engaged with RM-CC5 across the school year and all treatment schools met the program's implementation intensity benchmarks, though engagement varied widely between schools and students"
 description: "Treatment students substantively engaged with RM-CC5 across the school year and all treatment schools met the program's implementation intensity benchmarks, though engagement varied widely between schools and students"
 id: rm-cc5-student-engagement-implementation-fidelity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

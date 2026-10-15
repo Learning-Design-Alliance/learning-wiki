@@ -3,7 +3,7 @@ type: claim
 title: "Country context differentially predicts GenAI concerns: Qatari teachers report higher plagiarism concern and Indian teachers lower creativity concern than U.S. teachers"
 description: "Country context differentially predicts GenAI concerns: Qatari teachers report higher plagiarism concern and Indian teachers lower creativity concern than U.S."
 id: country-specific-genai-concern-profiles-qatar-india
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

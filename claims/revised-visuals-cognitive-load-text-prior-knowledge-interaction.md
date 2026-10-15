@@ -3,7 +3,7 @@ type: claim
 title: Revised visuals reduce cognitive load while reading lesson text for low prior knowledge students but increase it for middle prior knowledge students
 description: Revised visuals reduce cognitive load while reading lesson text for low prior knowledge students but increase it for middle prior knowledge students
 id: revised-visuals-cognitive-load-text-prior-knowledge-interaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

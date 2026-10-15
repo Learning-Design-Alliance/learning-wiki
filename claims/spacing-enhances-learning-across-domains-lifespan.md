@@ -3,7 +3,7 @@ type: claim
 title: Spacing enhances learning across various domains and across the lifespan, with emphasis on applied educational settings
 description: Spacing enhances learning across various domains and across the lifespan, with emphasis on applied educational settings
 id: spacing-enhances-learning-across-domains-lifespan
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

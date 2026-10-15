@@ -3,7 +3,7 @@ type: claim
 title: No significant differences in science learning or attitudes between OpenSciEd and mySci eighth-grade classes in one small comparison
 description: No significant differences in science learning or attitudes between OpenSciEd and mySci eighth-grade classes in one small comparison
 id: null-open-scied-vs-mysci-eighth-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

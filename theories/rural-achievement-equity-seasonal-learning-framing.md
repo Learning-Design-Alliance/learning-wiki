@@ -2,7 +2,7 @@
 type: theory
 title: Rural school achievement and growth as an equity concern intertwined with seasonal learning patterns
 description: The brief situates rural achievement within an equity framing and connects it to seasonal learning research.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Districts implementing new teacher evaluation systems faced challenges reducing the burden on principals
 description: Districts implementing new teacher evaluation systems faced challenges reducing the burden on principals
 id: teacher-evaluation-principal-burden-challenge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

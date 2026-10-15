@@ -3,7 +3,7 @@ type: claim
 title: Teachers give disinvited students less wait time than invited students when they cannot answer questions
 description: Teachers give disinvited students less wait time than invited students when they cannot answer questions
 id: wait-time-invited-disinvited-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

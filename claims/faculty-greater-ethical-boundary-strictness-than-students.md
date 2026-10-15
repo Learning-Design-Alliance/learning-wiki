@@ -3,7 +3,7 @@ type: claim
 title: Faculty members reported greater ethical-boundary strictness about GenAI than students, the only group difference surviving Bonferroni adjustment
 description: Faculty members reported greater ethical-boundary strictness about GenAI than students, the only group difference surviving Bonferroni adjustment
 id: faculty-greater-ethical-boundary-strictness-than-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

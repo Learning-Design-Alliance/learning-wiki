@@ -3,7 +3,7 @@ type: claim
 title: Under a matched 2,300-sample SFT budget, K12-Train-Text outperforms eight mainstream instruction-tuning corpora on GaokaoBench and EduEval across two base models
 description: Under a matched 2,300-sample SFT budget, K12-Train-Text outperforms eight mainstream instruction-tuning corpora on GaokaoBench and EduEval across two base models
 id: k12-train-text-outperforms-instruction-corpora
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

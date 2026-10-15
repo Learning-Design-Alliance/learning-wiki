@@ -3,7 +3,7 @@ type: pattern
 id: merrill-demonstration-application-integration-corollaries
 title: "Demonstration, application, and integration corollaries of Merrill's framework"
 description: "The digest enumerates the supporting generalizations for Merrill's remaining phases."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

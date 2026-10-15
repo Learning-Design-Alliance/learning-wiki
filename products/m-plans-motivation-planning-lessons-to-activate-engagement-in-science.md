@@ -4,7 +4,7 @@ id: m-plans-motivation-planning-lessons-to-activate-engagement-in-science
 title: M-PLANS (Motivation - Planning Lessons to Activate eNgagement in Science)
 description: M-PLANS is a multi-week professional-learning programme and toolkit developed by Harris et al.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

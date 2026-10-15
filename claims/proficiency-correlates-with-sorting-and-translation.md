@@ -3,7 +3,7 @@ type: claim
 title: Learners’ proficiency correlates with constructional sorting and translation performance, countering a purely age-based explanation
 description: Learners’ proficiency correlates with constructional sorting and translation performance, countering a purely age-based explanation
 id: proficiency-correlates-with-sorting-and-translation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

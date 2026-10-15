@@ -3,7 +3,7 @@ type: claim
 title: "Two-thirds of students reported limitations of data comics: information overload, limited generalisability, design-dependence, and oversimplification"
 description: "Two-thirds of students reported limitations of data comics: information overload, limited generalisability, design-dependence, and oversimplification"
 id: data-comics-perceived-limitations-overload-design-dependence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

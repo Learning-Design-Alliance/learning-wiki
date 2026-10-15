@@ -3,7 +3,7 @@ type: claim
 title: Equitable access emerged as a prominent governance theme, with one-third of panelists explicitly mentioning equity or inclusion
 description: Equitable access emerged as a prominent governance theme, with one-third of panelists explicitly mentioning equity or inclusion
 id: genai-equitable-access-governance-theme
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

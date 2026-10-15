@@ -3,7 +3,7 @@ type: claim
 title: Greater participation of district experts in the research process increases the potential for effective research, policy, and practice
 description: Greater participation of district experts in the research process increases the potential for effective research, policy, and practice
 id: district-expert-participation-increases-research-effectiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

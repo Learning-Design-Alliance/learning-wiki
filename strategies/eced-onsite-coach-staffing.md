@@ -3,7 +3,7 @@ type: strategy
 id: eced-onsite-coach-staffing
 title: Designate an on-site instructional coach or leader to monitor and support ECED implementation
 description: "ECED's staffing requirement is current math staff plus \"a designated on-site instructional coach or leader to monitor and support implementation.\" The article notes this position may look different depending on the si..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: The proportionality restrictions that the testlet model imposes on the bifactor model were implausible in the applied dataset, as specific-to-general loading quotients varied far from constant within testlets
 description: The proportionality restrictions that the testlet model imposes on the bifactor model were implausible in the applied dataset, as specific-to-general loading quotients varied far from constant within testlets
 id: testlet-proportionality-restrictions-implausible
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

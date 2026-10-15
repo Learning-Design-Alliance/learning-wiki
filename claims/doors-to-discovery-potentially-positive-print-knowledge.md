@@ -3,7 +3,7 @@ type: claim
 title: Doors to Discovery™ shows potentially positive effects on preschool print knowledge, with mixed findings across two studies
 description: Doors to Discovery™ shows potentially positive effects on preschool print knowledge, with mixed findings across two studies
 id: doors-to-discovery-potentially-positive-print-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

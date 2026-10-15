@@ -2,7 +2,7 @@
 type: theory
 title: "Four most common AI technology types in cyberlearning: intelligent tutoring systems, machine learning, speech/vision/natural interaction, and social robotics and avatars"
 description: "The report's AI theme defines the portfolio's most common technologies: 'Intelligent Tutoring Systems, in which a computational agent supports and guides students as they work to learn challenging subject matter'; mac..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

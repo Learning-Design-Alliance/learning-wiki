@@ -3,7 +3,7 @@ type: element
 id: phonological-awareness-training-practices-element
 title: "Phonological awareness training practices: rhyme detection, blending, and segmentation activities"
 description: "Phonological awareness training is any practice targeting young children's ability to detect or manipulate the sounds in words independent of meaning."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

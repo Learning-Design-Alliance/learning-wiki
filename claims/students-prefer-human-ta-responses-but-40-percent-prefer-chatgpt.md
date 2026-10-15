@@ -3,7 +3,7 @@ type: claim
 title: "Students rated human TA responses more favorably overall but preferred ChatGPT responses 40% of the time"
 description: "Students rated human TA responses more favorably overall but preferred ChatGPT responses 40% of the time"
 id: students-prefer-human-ta-responses-but-40-percent-prefer-chatgpt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

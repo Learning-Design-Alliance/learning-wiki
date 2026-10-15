@@ -4,7 +4,7 @@ id: comprehensive-cross-unit-ccu-assessments-joy-ruth-and-jackie-tests
 title: Comprehensive Cross Unit (CCU) Assessments (Joy, Ruth, and Jackie Tests)
 description: Assessment instruments developed by Dr.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

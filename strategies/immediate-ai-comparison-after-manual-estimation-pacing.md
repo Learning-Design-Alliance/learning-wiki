@@ -3,7 +3,7 @@ type: strategy
 id: immediate-ai-comparison-after-manual-estimation-pacing
 title: Manage pacing within a 40-minute period so AI comparison immediately follows manual estimation
 description: "For replication of the lesson design, the article recommends that \"Within a standard 40-minute instructional period, the temporal allocation should be carefully managed to maintain the cognitive coherence of each phas..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

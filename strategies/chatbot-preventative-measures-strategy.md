@@ -3,7 +3,7 @@ type: strategy
 id: chatbot-preventative-measures-strategy
 title: "Implement preventative measures: student awareness programs and regular professional development training for educators"
 description: The review recommends that educational institutions implement preventative measures when integrating AI chatbots.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

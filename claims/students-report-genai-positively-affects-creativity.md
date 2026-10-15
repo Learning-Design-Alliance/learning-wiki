@@ -3,7 +3,7 @@ type: claim
 title: Most architecture students in the studios reported that the GenAI models used positively affected their creativity during the design process
 description: Most architecture students in the studios reported that the GenAI models used positively affected their creativity during the design process
 id: students-report-genai-positively-affects-creativity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

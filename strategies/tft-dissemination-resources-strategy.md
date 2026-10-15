@@ -3,7 +3,7 @@ type: strategy
 id: tft-dissemination-resources-strategy
 title: Develop dissemination resources to support acceptability and feasibility of the toolkit approach
 description: The partnership plans dissemination materials to build buy-in for the intervention.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

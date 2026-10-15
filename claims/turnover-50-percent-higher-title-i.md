@@ -3,7 +3,7 @@ type: claim
 title: "Turnover rates are about 50% higher in Title I schools than in non-Title I schools"
 description: "Turnover rates are about 50% higher in Title I schools than in non-Title I schools"
 id: turnover-50-percent-higher-title-i
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

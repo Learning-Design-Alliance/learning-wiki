@@ -3,7 +3,7 @@ type: claim
 title: Students report feeling less safe and more likely to perceive violence and disorder in schools with metal detectors
 description: Students report feeling less safe and more likely to perceive violence and disorder in schools with metal detectors
 id: metal-detectors-lower-student-safety-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

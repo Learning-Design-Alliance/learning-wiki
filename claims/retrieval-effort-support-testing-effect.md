@@ -3,7 +3,7 @@ type: claim
 title: The meta-analysis supports retrieval effort as a contributor to the testing effect
 description: The meta-analysis supports retrieval effort as a contributor to the testing effect
 id: retrieval-effort-support-testing-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

@@ -3,7 +3,7 @@ type: claim
 title: 89 percent of NFTE alumni survey respondents reported NFTE contributed to their knowledge, skills, and/or personal development, with top areas aligning with entrepreneurial mindset domains
 description: 89 percent of NFTE alumni survey respondents reported NFTE contributed to their knowledge, skills, and/or personal development, with top areas aligning with entrepreneurial mindset domains
 id: nfte-alumni-89-percent-reported-development-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

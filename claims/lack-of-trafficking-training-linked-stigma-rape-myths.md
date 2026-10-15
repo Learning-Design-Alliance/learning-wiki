@@ -3,7 +3,7 @@ type: claim
 title: Counselors without prior training on prostitution/sex trafficking endorsed more stigmatizing beliefs and more rape myths
 description: Counselors without prior training on prostitution/sex trafficking endorsed more stigmatizing beliefs and more rape myths
 id: lack-of-trafficking-training-linked-stigma-rape-myths
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

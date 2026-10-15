@@ -3,7 +3,7 @@ type: claim
 title: Interventions combining repeated reading, modeled/assisted reading, and explicit feedback outperformed control groups in English reading fluency for emergent bilinguals
 description: Interventions combining repeated reading, modeled/assisted reading, and explicit feedback outperformed control groups in English reading fluency for emergent bilinguals
 id: repeated-reading-modeling-feedback-outperform-control-eb-fluency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Evidence of academic rebounding in 2021-22 appeared across all school-poverty levels
 description: Evidence of academic rebounding in 2021-22 appeared across all school-poverty levels
 id: rebounding-across-all-school-poverty-levels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

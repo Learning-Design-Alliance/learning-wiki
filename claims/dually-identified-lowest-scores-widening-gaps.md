@@ -3,7 +3,7 @@ type: claim
 title: Dually-identified EL/SPED students had the lowest scores with gaps widening over time, driven by larger summer loss
 description: Dually-identified EL/SPED students had the lowest scores with gaps widening over time, driven by larger summer loss
 id: dually-identified-lowest-scores-widening-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

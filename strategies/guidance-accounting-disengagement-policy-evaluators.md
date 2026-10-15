@@ -3,7 +3,7 @@ type: strategy
 id: guidance-accounting-disengagement-policy-evaluators
 title: Provide guidance to policy makers and evaluators on accounting for disengagement in their own work
 description: "The authors state they \"provide guidance for policy makers and evaluators on how to account for disengagement in their own work\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

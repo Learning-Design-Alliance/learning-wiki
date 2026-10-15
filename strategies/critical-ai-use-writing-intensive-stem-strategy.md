@@ -3,7 +3,7 @@ type: strategy
 id: critical-ai-use-writing-intensive-stem-strategy
 title: Instructors integrating generative AI into writing-intensive courses should have students critically understand, access, prompt, vet and integrate AI-produced content
 description: "Drawing on Tate et al.'s study of an AI-facilitated writing tool in writing-intensive STEM courses, the review recommends enabling critical student use of AI."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

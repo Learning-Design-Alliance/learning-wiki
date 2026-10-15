@@ -3,7 +3,7 @@ type: claim
 title: Automated metrics and LLM judges can misalign with expert human preferences in non-verifiable educational evaluation
 description: Automated metrics and LLM judges can misalign with expert human preferences in non-verifiable educational evaluation
 id: non-verifiability-crisis-llm-judges-misalign
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

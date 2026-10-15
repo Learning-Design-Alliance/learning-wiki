@@ -3,7 +3,7 @@ type: element
 id: teacher-level-value-added-model-memphis
 title: Teacher-level value-added model adaptation for identifying high-performing teachers in Memphis
 description: This element is a teacher-level value-added application described on the publication page.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

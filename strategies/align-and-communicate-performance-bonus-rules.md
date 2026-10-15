@@ -3,7 +3,7 @@ type: strategy
 id: align-and-communicate-performance-bonus-rules
 title: Design pay-for-performance bonus structures that align with grant guidance and clearly communicate eligibility to teachers
 description: "The evaluation's implementation findings imply that districts adopting performance-based compensation should structure bonuses to align with program guidance and ensure teachers understand the rules."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

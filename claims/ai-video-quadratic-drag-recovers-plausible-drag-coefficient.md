@@ -3,7 +3,7 @@ type: claim
 title: The quadratic-drag AI video yields a fitted drag coefficient (CD ≈ 3.18) within the literature range reported for skydivers
 description: The quadratic-drag AI video yields a fitted drag coefficient (CD ≈ 3.18) within the literature range reported for skydivers
 id: ai-video-quadratic-drag-recovers-plausible-drag-coefficient
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

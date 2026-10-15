@@ -3,7 +3,7 @@ type: claim
 title: Students perceive GenAI tools as beneficial for academic engagement, particularly for overcoming language barriers and accessing up-to-date resources
 description: Students perceive GenAI tools as beneficial for academic engagement, particularly for overcoming language barriers and accessing up-to-date resources
 id: students-perceive-genai-academic-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Districts will need to hire between 11,900 and 15,600 additional lead TK teachers by 2025–26 beyond the estimated 4,100 already employed
 description: Districts will need to hire between 11,900 and 15,600 additional lead TK teachers by 2025–26 beyond the estimated 4,100 already employed
 id: additional-lead-tk-teachers-11900-15600
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

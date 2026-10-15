@@ -3,7 +3,7 @@ type: claim
 title: The CPS four-year college enrollment rate rose from 33 percent in 2006 to 42 percent in 2014, slightly below the national rate
 description: The CPS four-year college enrollment rate rose from 33 percent in 2006 to 42 percent in 2014, slightly below the national rate
 id: cps-four-year-enrollment-33-to-42-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

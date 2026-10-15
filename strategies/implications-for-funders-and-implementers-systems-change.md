@@ -3,7 +3,7 @@ type: strategy
 id: implications-for-funders-and-implementers-systems-change
 title: Offer implications for funders and program implementers engaged in systems change
 description: "The brief closes by offering \"implications for funders and program implementers engaged in systems change,\" responding to growing philanthropic and community development interest in investing in systems change and to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

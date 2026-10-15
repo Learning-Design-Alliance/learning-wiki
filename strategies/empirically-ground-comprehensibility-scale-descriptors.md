@@ -3,7 +3,7 @@ type: strategy
 id: empirically-ground-comprehensibility-scale-descriptors
 title: Ground proficiency-scale comprehensibility descriptors in empirically identified linguistic measures
 description: "The article motivates its study by noting that \"shortcomings of existing scales (e.g., vague descriptors) reflect limited empirical evidence as to which linguistic aspects influence listeners' judgments of L2 comprehe..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

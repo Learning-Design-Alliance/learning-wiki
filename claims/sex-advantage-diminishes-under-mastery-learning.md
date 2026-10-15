@@ -3,7 +3,7 @@ type: claim
 title: Female students show stronger academic self-confidence, more positive attitudes, higher achievement, and fewer absences, but this advantage diminishes almost completely under mastery learning
 description: Female students show stronger academic self-confidence, more positive attitudes, higher achievement, and fewer absences, but this advantage diminishes almost completely under mastery learning
 id: sex-advantage-diminishes-under-mastery-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

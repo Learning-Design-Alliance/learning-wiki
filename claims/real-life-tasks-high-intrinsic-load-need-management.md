@@ -3,7 +3,7 @@ type: claim
 title: Real-life complex tasks carry high intrinsic cognitive load, requiring new load-management methods
 description: Real-life complex tasks carry high intrinsic cognitive load, requiring new load-management methods
 id: real-life-tasks-high-intrinsic-load-need-management
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

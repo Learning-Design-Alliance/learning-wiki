@@ -3,7 +3,7 @@ type: claim
 title: Translation features in mobile apps enabled direct communication between educators and parents who speak languages other than English
 description: Translation features in mobile apps enabled direct communication between educators and parents who speak languages other than English
 id: app-translation-features-direct-communication
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

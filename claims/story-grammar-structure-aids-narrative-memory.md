@@ -3,7 +3,7 @@ type: claim
 title: Narrative memory is superior when content follows stereotypical story grammar structure, and goal information is critical to comprehension
 description: Narrative memory is superior when content follows stereotypical story grammar structure, and goal information is critical to comprehension
 id: story-grammar-structure-aids-narrative-memory
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

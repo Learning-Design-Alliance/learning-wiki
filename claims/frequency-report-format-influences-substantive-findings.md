@@ -3,7 +3,7 @@ type: claim
 title: The format used to quantify behavioral frequency reports directly influences substantive findings
 description: The format used to quantify behavioral frequency reports directly influences substantive findings
 id: frequency-report-format-influences-substantive-findings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

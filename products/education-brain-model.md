@@ -4,7 +4,7 @@ id: education-brain-model
 title: Education Brain model
 description: A bio-inspired three-layer architecture for educational AI systems that separates multimodal data capture, pedagogical decision generation, and intervention output.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

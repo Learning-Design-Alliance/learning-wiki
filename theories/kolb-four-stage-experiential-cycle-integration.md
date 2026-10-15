@@ -2,7 +2,7 @@
 type: theory
 title: "Kolb's four-stage experiential learning cycle as the structural spine of case-based curriculum"
 description: "The article adopts Kolb's four-stage cycle as the organizing structure of its program-level model, mapping case-based activities onto each stage."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

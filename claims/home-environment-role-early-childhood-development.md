@@ -3,7 +3,7 @@ type: claim
 title: The home environment plays an important role in early childhood development
 description: The home environment plays an important role in early childhood development
 id: home-environment-role-early-childhood-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

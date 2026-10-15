@@ -3,7 +3,7 @@ type: claim
 title: Research questions are rarely conceived in partnership with practitioners, which undermines research impact on educational decision making
 description: Research questions are rarely conceived in partnership with practitioners, which undermines research impact on educational decision making
 id: research-questions-rarely-designed-with-practitioners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

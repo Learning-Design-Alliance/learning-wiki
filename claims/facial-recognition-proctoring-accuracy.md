@@ -3,7 +3,7 @@ type: claim
 title: "Facial recognition models for proctoring report accuracies up to 99.21%, with limitations in dim-light and blurring conditions"
 description: "Facial recognition models for proctoring report accuracies up to 99.21%, with limitations in dim-light and blurring conditions"
 id: facial-recognition-proctoring-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: The study examines whether rapid guessing over several tests is associated with background variables such as English learner status
 description: The study examines whether rapid guessing over several tests is associated with background variables such as English learner status
 id: rapid-guessing-background-variables-examined
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

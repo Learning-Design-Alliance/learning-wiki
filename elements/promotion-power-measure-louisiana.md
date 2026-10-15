@@ -3,7 +3,7 @@ type: element
 id: promotion-power-measure-louisiana
 title: Promotion power measure of Louisiana high schools
 description: "Promotion power is defined in the report as \"a school’s effect on the long-term success of its students\" as indicated by high school graduation, college or career readiness, college enrollment and persistence, and job..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

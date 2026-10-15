@@ -3,7 +3,7 @@ type: claim
 title: In the perceptual-cue reanalysis, the only reliable forgetting and slip deviations were a small forgetting reduction under incongruent color and a modest slip reduction under congruent spacing
 description: In the perceptual-cue reanalysis, the only reliable forgetting and slip deviations were a small forgetting reduction under incongruent color and a modest slip reduction under congruent spacing
 id: cue-effects-forgetting-slip-small-reductions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

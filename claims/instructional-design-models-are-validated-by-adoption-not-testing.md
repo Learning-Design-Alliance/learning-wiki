@@ -3,7 +3,7 @@ type: claim
 title: Instructional design models are rarely tested against outcomes; their credibility comes from practitioners finding them useful.
 id: instructional-design-models-are-validated-by-adoption-not-testing
 description: An account of the instructional design model literature holds that few design models have been rigorously evaluated against predetermined criteria, and that widely adopted models gain credibility from practitioner use and adaptation rather than from evidence of their results.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

@@ -3,7 +3,7 @@ type: claim
 title: "The positive effect of integrated illustrations on transfer is stronger for students who lack experience in the text's domain (meteorology) than for high-experience students"
 description: "The positive effect of integrated illustrations on transfer is stronger for students who lack experience in the text's domain (meteorology) than for high-experience students"
 id: illustration-integration-effect-stronger-for-low-experience-learners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Many children with communication needs who require AAC lack access to appropriate supports, and embedding AAC interventions in the classroom is challenging
 description: Many children with communication needs who require AAC lack access to appropriate supports, and embedding AAC interventions in the classroom is challenging
 id: aac-classroom-access-barriers-challenge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

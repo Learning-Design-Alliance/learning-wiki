@@ -2,7 +2,7 @@
 type: theory
 title: Extended TAM with perceived contextual value (PCV) for mobile learning acceptance
 description: "The article extends Davis' Technology Acceptance Model, which predicts actual system use via perceived usefulness (PU), perceived ease of use (PEOU), attitude, and behavioral intention (BI), by adding a mobile-learnin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

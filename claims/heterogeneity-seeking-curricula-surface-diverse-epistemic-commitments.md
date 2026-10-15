@@ -2,7 +2,7 @@
 type: claim
 title: Heterogeneity-seeking modeling curricula surface epistemic commitments in most students, including care-based commitments absent from prior frameworks
 id: heterogeneity-seeking-curricula-surface-diverse-epistemic-commitments
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

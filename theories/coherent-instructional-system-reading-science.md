@@ -2,7 +2,7 @@
 type: theory
 title: Coherent instructional system model for reading and science improvement
 description: "The page describes a research brief that \"examines the practices and conditions of a coherent instructional system, and where and how it had the most impact,\" using \"a case study from a U.S."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

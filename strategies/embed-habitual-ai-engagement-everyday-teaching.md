@@ -3,7 +3,7 @@ type: strategy
 id: embed-habitual-ai-engagement-everyday-teaching
 title: Embed repeated AI engagement and habit formation into everyday teaching practice, alongside supportive resources and collegial exchange
 description: "Because habit showed the strongest direct and competence-mediated associations with teachers' AI use, the authors recommend interventions that build routinised engagement."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

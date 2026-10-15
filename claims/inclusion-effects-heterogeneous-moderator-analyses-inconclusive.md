@@ -3,7 +3,7 @@ type: claim
 title: Effects of inclusion are heterogeneous and single-factor subgroup moderator analyses were inconclusive
 description: Effects of inclusion are heterogeneous and single-factor subgroup moderator analyses were inconclusive
 id: inclusion-effects-heterogeneous-moderator-analyses-inconclusive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Novice AI users showed a Trust-but-Can't-Verify pattern: accepting unfamiliar constructs they could not assess, then symptom-level debugging"
 description: "Novice AI users showed a Trust-but-Can't-Verify pattern: accepting unfamiliar constructs they could not assess, then symptom-level debugging"
 id: trust-but-cant-verify-novices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

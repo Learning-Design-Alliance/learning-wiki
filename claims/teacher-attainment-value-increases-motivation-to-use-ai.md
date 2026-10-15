@@ -3,7 +3,7 @@ type: claim
 title: Teachers who believe AI use will contribute to their professional success and identity (attainment value) may be more motivated to use it (theoretical argument).
 description: Teachers who believe AI use will contribute to their professional success and identity (attainment value) may be more motivated to use it (theoretical argument).
 id: teacher-attainment-value-increases-motivation-to-use-ai
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

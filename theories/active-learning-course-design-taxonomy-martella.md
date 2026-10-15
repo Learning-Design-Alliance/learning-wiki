@@ -2,7 +2,7 @@
 type: theory
 title: "Three-dimension taxonomy of active learning course design: location, percentage of time dedicated to activities, and goal of the activity"
 description: "The article presents a taxonomy (Figure 3) as \"a practical guide to support (a) instructors in creating an active learning course or to revise a course to include active learning and (b) researchers in doing systemati..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

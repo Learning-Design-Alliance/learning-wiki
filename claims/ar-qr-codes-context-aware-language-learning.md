@@ -3,7 +3,7 @@ type: claim
 title: Augmented reality and QR-code mobile systems enable context-aware language learning in designated physical zones
 description: Augmented reality and QR-code mobile systems enable context-aware language learning in designated physical zones
 id: ar-qr-codes-context-aware-language-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

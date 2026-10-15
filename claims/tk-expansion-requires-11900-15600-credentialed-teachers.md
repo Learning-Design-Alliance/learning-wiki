@@ -3,7 +3,7 @@ type: claim
 title: "California's universal TK expansion will require an additional 11,900 to 15,600 credentialed teachers with early childhood expertise by 2025–26"
 description: "California's universal TK expansion will require an additional 11,900 to 15,600 credentialed teachers with early childhood expertise by 2025–26"
 id: tk-expansion-requires-11900-15600-credentialed-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Mean skill diversity rises from low to moderate specialisation before declining among the most specialised workers
 description: Mean skill diversity rises from low to moderate specialisation before declining among the most specialised workers
 id: diversity-specialisation-inverse-u-pattern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

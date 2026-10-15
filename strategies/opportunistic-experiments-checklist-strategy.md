@@ -3,7 +3,7 @@ type: strategy
 id: opportunistic-experiments-checklist-strategy
 title: Use a checklist of key questions when conducting opportunistic experiments
 description: "The guide supplies \"a checklist of key questions to consider when conducting opportunistic experiments,\" giving policymakers and researchers a concrete procedural tool for deciding whether and how to pursue an opportu..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

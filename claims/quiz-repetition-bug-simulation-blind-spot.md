@@ -3,7 +3,7 @@ type: claim
 title: A question-repetition bug in Quiz Mode, reported by 2/8 pilot participants, was a defect simulation-based evaluation could not identify
 description: A question-repetition bug in Quiz Mode, reported by 2/8 pilot participants, was a defect simulation-based evaluation could not identify
 id: quiz-repetition-bug-simulation-blind-spot
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

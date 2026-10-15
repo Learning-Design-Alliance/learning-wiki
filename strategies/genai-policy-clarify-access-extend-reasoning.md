@@ -3,7 +3,7 @@ type: strategy
 id: genai-policy-clarify-access-extend-reasoning
 title: Move beyond permit-or-restrict GenAI policies toward policies that clarify appropriate use, support equitable access, and extend rather than replace independent reasoning
 description: "The article's concluding recommendation is that educators should design GenAI course policies that go beyond simple permission or prohibition."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

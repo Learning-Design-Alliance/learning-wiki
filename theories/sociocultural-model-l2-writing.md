@@ -2,7 +2,7 @@
 type: theory
 title: Sociocultural Model of L2 writing
 description: The Sociocultural Model emphasizes the social and contextual situatedness of writing as an activity, stressing language as a social, cultural and interactional phenomenon rather than a property of the individual writer.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

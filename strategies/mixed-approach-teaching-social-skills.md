@@ -3,7 +3,7 @@ type: strategy
 id: mixed-approach-teaching-social-skills
 title: Combine needs-based and pre-taught approaches when introducing social skills to cooperative groups
 description: "The digest describes two basic approaches to introducing social skills: the teacher observes cooperative groups, determines the specific skills needed, and introduces them on a needs basis; or specific, predetermined..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

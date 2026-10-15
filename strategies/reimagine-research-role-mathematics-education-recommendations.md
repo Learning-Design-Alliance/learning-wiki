@@ -3,7 +3,7 @@ type: strategy
 id: reimagine-research-role-mathematics-education-recommendations
 title: Offer researchers and stakeholders concrete examples, frameworks, and recommendations to reimagine the role of research in mathematics education
 description: "The chapter's stated method for change is to supply usable research tools: \"Specific examples, frameworks, and recommendations are offered for researchers and other stakeholders seeking to reimagine the role of resear..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

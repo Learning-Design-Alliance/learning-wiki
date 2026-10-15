@@ -3,7 +3,7 @@ type: claim
 title: Teacher-AI co-design research is concentrated in teacher education and higher education, while secondary and primary education settings remain relatively underdeveloped
 description: Teacher-AI co-design research is concentrated in teacher education and higher education, while secondary and primary education settings remain relatively underdeveloped
 id: k12-underrepresented-teacher-ai-codesign-research
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

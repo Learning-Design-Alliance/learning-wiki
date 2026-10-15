@@ -3,7 +3,7 @@ type: claim
 title: Urban charter schools have more positive impacts on student achievement than other charter schools
 description: Urban charter schools have more positive impacts on student achievement than other charter schools
 id: urban-charter-schools-more-positive-achievement-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

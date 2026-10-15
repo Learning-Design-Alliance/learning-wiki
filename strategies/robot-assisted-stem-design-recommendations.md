@@ -3,7 +3,7 @@ type: strategy
 id: robot-assisted-stem-design-recommendations
 title: Design robot-assisted STEM instruction with sustained duration (over one month), instructor support, group interaction, and game-based or project-based learning
 description: "Based on the meta-analytic findings, the authors recommend that robot-assisted STEM education be designed with attention to instructional context: they report that \"the best intervention duration for robot-assisted ST..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

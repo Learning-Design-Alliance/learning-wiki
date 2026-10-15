@@ -3,7 +3,7 @@ type: claim
 title: A combination of sociocognitive variables predicts concurrent academic outcomes at school entry
 description: A combination of sociocognitive variables predicts concurrent academic outcomes at school entry
 id: sociocognitive-combination-predicts-school-entry-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

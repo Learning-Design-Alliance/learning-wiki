@@ -3,7 +3,7 @@ type: strategy
 id: early-year-support-for-boys-at-risk-students
 title: Focus support early in the school year on students identified as at risk at BOY to get them on track by midyear
 description: The brief recommends concentrating support early in the year for students flagged as at risk at the beginning of year, because getting students on track by midyear most often keeps them on track through end of year.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

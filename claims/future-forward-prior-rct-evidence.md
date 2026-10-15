@@ -4,7 +4,7 @@ title: Prior randomized studies of Future Forward/SPARK met WWC standards Withou
 description: Prior randomized studies of Future Forward/SPARK met WWC standards Without Reservations and found positive impacts on literacy and attendance
 id: future-forward-prior-rct-evidence
 aliases: [ff-prior-rct-literacy-attendance-impacts]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

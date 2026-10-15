@@ -3,7 +3,7 @@ type: claim
 title: AI-mediating is a newly observed orchestration type in which the teacher concretizes or supplements correct AI feedback for students in curriculum context (12 of 46 episodes)
 description: AI-mediating is a newly observed orchestration type in which the teacher concretizes or supplements correct AI feedback for students in curriculum context (12 of 46 episodes)
 id: ai-mediating-orchestration-type
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

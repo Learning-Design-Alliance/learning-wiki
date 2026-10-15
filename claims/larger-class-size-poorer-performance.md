@@ -3,7 +3,7 @@ type: claim
 title: Larger class size linked to poorer student and teacher performance (review attribution)
 description: Larger class size linked to poorer student and teacher performance (review attribution)
 id: larger-class-size-poorer-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

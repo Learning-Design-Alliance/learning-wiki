@@ -2,7 +2,7 @@
 type: theory
 title: Education 4.0 paradigm
 description: The review describes Education 4.0 as the educational expression of the fourth industrial revolution, in which education takes place amid disrupted technologies such as the Internet of Things, 3D printing, advanced cl...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

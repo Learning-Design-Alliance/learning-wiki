@@ -3,7 +3,7 @@ type: strategy
 id: provide-different-levels-of-controllability
 title: Provide different levels of controllability to meet diverse stakeholder needs
 description: "The article's practice recommendation is that while stakeholder control and personalization of indicator implementation is beneficial, systems should offer graduated control rather than a single mode."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

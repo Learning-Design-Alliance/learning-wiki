@@ -3,7 +3,7 @@ type: claim
 title: AI-driven case simulations in ambulatory settings support diagnostic reasoning and anticipatory thinking in nursing education
 description: AI-driven case simulations in ambulatory settings support diagnostic reasoning and anticipatory thinking in nursing education
 id: ai-ambulatory-case-simulations-diagnostic-reasoning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

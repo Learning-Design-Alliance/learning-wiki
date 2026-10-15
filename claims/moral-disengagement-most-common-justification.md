@@ -3,7 +3,7 @@ type: claim
 title: Moral disengagement is the most common justification category among job-seeking CS students rationalizing ethically concerning employment choices
 description: Moral disengagement is the most common justification category among job-seeking CS students rationalizing ethically concerning employment choices
 id: moral-disengagement-most-common-justification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

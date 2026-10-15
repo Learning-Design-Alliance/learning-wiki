@@ -3,7 +3,7 @@ type: claim
 title: Using the ITS reduced executive state-math anxiety and improved algebra learning across conditions
 description: Using the ITS reduced executive state-math anxiety and improved algebra learning across conditions
 id: its-reduces-executive-state-ma-improves-algebra
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

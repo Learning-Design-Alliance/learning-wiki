@@ -4,7 +4,7 @@ title: Differing response styles create a construct-irrelevant source of bias th
 description: Differing response styles create a construct-irrelevant source of bias that distorts fundamental inferences made from survey data
 id: response-styles-construct-irrelevant-bias
 aliases: [response-styles-construct-irrelevant-bias-survey]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

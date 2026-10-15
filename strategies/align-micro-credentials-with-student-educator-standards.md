@@ -3,7 +3,7 @@ type: strategy
 id: align-micro-credentials-with-student-educator-standards
 title: Align micro-credential offerings and recognition with student and educator performance standards
 description: Under the Outcomes standard, the report recommends precise alignment between what adults learn and what students must learn.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

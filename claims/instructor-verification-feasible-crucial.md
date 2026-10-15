@@ -3,7 +3,7 @@ type: claim
 title: Instructor verification of AI-generated content before delivery is feasible and crucial for quality, per prior systems reviewed
 description: Instructor verification of AI-generated content before delivery is feasible and crucial for quality, per prior systems reviewed
 id: instructor-verification-feasible-crucial
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

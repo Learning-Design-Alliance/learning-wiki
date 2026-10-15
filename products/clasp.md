@@ -4,7 +4,7 @@ id: clasp
 title: CLASP
 description: A three-quarter introductory physics curriculum for bioscience majors, developed and run at UC Davis and implemented in other university settings.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

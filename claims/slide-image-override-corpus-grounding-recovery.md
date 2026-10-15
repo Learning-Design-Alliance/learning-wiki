@@ -3,7 +3,7 @@ type: claim
 title: A deterministic slide-image override converts a 0/9 corpus-grounding failure into 9/10 successful slide matches on the same topic
 description: A deterministic slide-image override converts a 0/9 corpus-grounding failure into 9/10 successful slide matches on the same topic
 id: slide-image-override-corpus-grounding-recovery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

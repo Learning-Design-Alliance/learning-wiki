@@ -3,7 +3,7 @@ type: claim
 title: End-of-series reflection found faculty most valued collective airing of the shared problem, with stance shifts and some adoption of oral assessments
 description: End-of-series reflection found faculty most valued collective airing of the shared problem, with stance shifts and some adoption of oral assessments
 id: faculty-reflection-series-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Perceived contextual value significantly predicts behavioral intention to use a context-aware mobile language learning app
 description: Perceived contextual value significantly predicts behavioral intention to use a context-aware mobile language learning app
 id: pcv-significantly-predicts-bi-contextual-language-app
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

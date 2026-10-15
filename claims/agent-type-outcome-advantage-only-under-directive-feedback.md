@@ -3,7 +3,7 @@ type: claim
 title: "The customized agent's advantage in short-term task improvement emerges under directive feedback but not under Socratic feedback"
 description: "The customized agent's advantage in short-term task improvement emerges under directive feedback but not under Socratic feedback"
 id: agent-type-outcome-advantage-only-under-directive-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

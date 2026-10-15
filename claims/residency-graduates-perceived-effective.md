@@ -3,7 +3,7 @@ type: claim
 title: Residency graduates report strongly positive perceptions of their preparation, and principals tend to perceive them as more effective than other novice teachers
 description: Residency graduates report strongly positive perceptions of their preparation, and principals tend to perceive them as more effective than other novice teachers
 id: residency-graduates-perceived-effective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: The interleaving literature is dominated by laboratory studies of university undergraduates, with no included study using high-school participants
 description: The interleaving literature is dominated by laboratory studies of university undergraduates, with no included study using high-school participants
 id: interleaving-literature-lab-undergraduate-dominance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

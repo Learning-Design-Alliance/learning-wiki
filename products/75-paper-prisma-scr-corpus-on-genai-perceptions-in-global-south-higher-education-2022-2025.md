@@ -4,7 +4,7 @@ id: 75-paper-prisma-scr-corpus-on-genai-perceptions-in-global-south-higher-educa
 title: 75-paper PRISMA-ScR corpus on GenAI perceptions in Global South higher education (2022-2025)
 description: A corpus of 75 papers published from 2022–2025 on perceptions of generative AI in Global South higher education, categorized across five areas and with data files available from the authors by request.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "Previous dyslexia training and confidence predict teachers' dyslexia knowledge, but years of experience do not"
 description: "Previous dyslexia training and confidence predict teachers' dyslexia knowledge, but years of experience do not"
 id: training-confidence-predict-dyslexia-knowledge-not-experience
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

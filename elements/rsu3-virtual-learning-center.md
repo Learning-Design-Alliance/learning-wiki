@@ -3,7 +3,7 @@ type: element
 id: rsu3-virtual-learning-center
 title: "RSU 3 Virtual Learning Center: a human-supported virtual world for adult learners"
 description: "The RSU 3 Virtual Learning Center is a virtual world built solely for adult learners, developed with Reaction Grid and grown by SPICE's IT department to four levels including a HiSET prep class, a family literacy clas..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

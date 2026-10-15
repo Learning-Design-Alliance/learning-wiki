@@ -3,7 +3,7 @@ type: claim
 title: Organizational error management culture relates positively to company performance
 description: Organizational error management culture relates positively to company performance
 id: error-management-culture-company-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

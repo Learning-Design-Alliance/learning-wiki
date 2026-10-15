@@ -3,7 +3,7 @@ type: claim
 title: Learners of Italian report ideal-self motivation rather than instrumental motivation, while their teachers assume the reverse.
 id: italian-l2-motivation-is-ideal-self-not-instrumental
 description: Two independent university studies find learners of Italian motivated by an imagined future self who speaks the language and barely at all by expected usefulness — with the mismatch running the other way for their teachers.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-03

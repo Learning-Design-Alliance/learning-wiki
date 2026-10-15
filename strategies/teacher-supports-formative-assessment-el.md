@@ -3,7 +3,7 @@ type: strategy
 id: teacher-supports-formative-assessment-el
 title: Supports teachers need to enact formative assessment for English learners
 description: "The brief lists supports teachers benefit from: professional development in formative assessment, asset-based instruction, and language development across pre-service, induction, and in-service; learning alongside pee..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

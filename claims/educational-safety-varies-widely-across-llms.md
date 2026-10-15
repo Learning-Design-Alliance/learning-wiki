@@ -3,7 +3,7 @@ type: claim
 title: Educational safety performance varies widely across LLMs, with GPT-5.6-Luna the safest and Qwen3-8B among the weakest under educational adversarial probing
 description: Educational safety performance varies widely across LLMs, with GPT-5.6-Luna the safest and Qwen3-8B among the weakest under educational adversarial probing
 id: educational-safety-varies-widely-across-llms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

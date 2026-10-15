@@ -3,7 +3,7 @@ type: claim
 title: MAP Growth cut scores at the 30th percentile of national norms best identify Grade K-8 students in need of intensive intervention in reading and mathematics
 description: MAP Growth cut scores at the 30th percentile of national norms best identify Grade K-8 students in need of intensive intervention in reading and mathematics
 id: map-growth-30th-percentile-screening-cut-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

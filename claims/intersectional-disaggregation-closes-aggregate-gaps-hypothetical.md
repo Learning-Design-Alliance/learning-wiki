@@ -3,7 +3,7 @@ type: claim
 title: Disaggregating by race and income can show aggregate subgroup gaps largely reflect differing subgroup compositions (hypothetical example)
 description: Disaggregating by race and income can show aggregate subgroup gaps largely reflect differing subgroup compositions (hypothetical example)
 id: intersectional-disaggregation-closes-aggregate-gaps-hypothetical
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

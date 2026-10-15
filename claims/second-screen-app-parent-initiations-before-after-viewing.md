@@ -3,7 +3,7 @@ type: claim
 title: Parents in the intervention condition tended to initiate more conversations before and after episode viewing than comparison parents, with no difference during viewing
 description: Parents in the intervention condition tended to initiate more conversations before and after episode viewing than comparison parents, with no difference during viewing
 id: second-screen-app-parent-initiations-before-after-viewing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

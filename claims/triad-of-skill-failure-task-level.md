@@ -3,7 +3,7 @@ type: claim
 title: Task-level account of upskilling and the Triad of Skill Failure (deskilling, never-skilling, mis-skilling) with differing empirical support
 description: Task-level account of upskilling and the Triad of Skill Failure (deskilling, never-skilling, mis-skilling) with differing empirical support
 id: triad-of-skill-failure-task-level
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Easy, highly specific simulated tasks compress the range of the WD statistic across learner types, while well-designed tasks widen it
 description: Easy, highly specific simulated tasks compress the range of the WD statistic across learner types, while well-designed tasks widen it
 id: easy-highly-specific-tasks-shrink-wd-range
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

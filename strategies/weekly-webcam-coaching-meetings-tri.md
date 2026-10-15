@@ -3,7 +3,7 @@ type: strategy
 id: weekly-webcam-coaching-meetings-tri
 title: Weekly webcam coaching meetings with observation and feedback sustain teacher implementation
 description: TRI coaches use webcam technology to train and follow up with teachers.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

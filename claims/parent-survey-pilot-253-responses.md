@@ -3,7 +3,7 @@ type: claim
 title: The final spring 2015 parent-survey pilot collected 253 parent responses across seven school-based and nine center-based Chicago preschool sites, in English and Spanish
 description: The final spring 2015 parent-survey pilot collected 253 parent responses across seven school-based and nine center-based Chicago preschool sites, in English and Spanish
 id: parent-survey-pilot-253-responses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: refusal-first-description-substitution-accessibility
 title: Use refusal-first behavior and description-substitution experiments to support accessible visual math
 description: "For accessibility, the article recommends that systems \"elicit the missing figure (or a structured textual description) rather than speculate\" when a required image is unavailable."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

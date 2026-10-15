@@ -3,7 +3,7 @@ type: claim
 title: A course schedule guided by Bloom's Revised Taxonomy is proposed to raise the planned contribution ratings of six program learning outcomes
 description: A course schedule guided by Bloom's Revised Taxonomy is proposed to raise the planned contribution ratings of six program learning outcomes
 id: brt-schedule-raised-plo-degrees
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

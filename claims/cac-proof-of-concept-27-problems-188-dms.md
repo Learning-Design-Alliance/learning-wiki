@@ -3,7 +3,7 @@ type: claim
 title: The CAC proof of concept compiled 27 biology problems successfully, accumulating 188 Declarative Memory entries, but failed on the 28th problem
 description: The CAC proof of concept compiled 27 biology problems successfully, accumulating 188 Declarative Memory entries, but failed on the 28th problem
 id: cac-proof-of-concept-27-problems-188-dms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

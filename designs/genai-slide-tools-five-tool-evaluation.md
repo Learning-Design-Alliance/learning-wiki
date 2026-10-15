@@ -3,7 +3,7 @@ type: design
 id: genai-slide-tools-five-tool-evaluation
 title: Five-tool GenAI slide generation evaluation (NotebookLM, M365 Copilot, Claude, Cursor, Claude Code)
 description: "The article evaluates five accessible GenAI tools for transforming online textbook chapters into lecture slides for a 5 ECTS Web Software Development course: NotebookLM, M365 Copilot, Claude (Sonnet 4.5), Cursor, and..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

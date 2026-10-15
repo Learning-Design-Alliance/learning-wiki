@@ -3,7 +3,7 @@ type: claim
 title: "Delaying college enrollment was associated with low completion: only 8 percent of CPS students who delayed completed a degree or credential within six years"
 description: "Delaying college enrollment was associated with low completion: only 8 percent of CPS students who delayed completed a degree or credential within six years"
 id: delayed-enrollment-lower-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

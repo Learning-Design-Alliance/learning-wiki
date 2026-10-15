@@ -3,7 +3,7 @@ type: claim
 title: Twelfth graders report high rates of college-preparation actions, with 80 percent at Sample School reporting they applied for financial aid versus 68 percent across CPS
 description: Twelfth graders report high rates of college-preparation actions, with 80 percent at Sample School reporting they applied for financial aid versus 68 percent across CPS
 id: twelfth-graders-financial-aid-application-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

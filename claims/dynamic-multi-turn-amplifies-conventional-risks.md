@@ -3,7 +3,7 @@ type: claim
 title: Adaptive multi-turn interactions substantially amplify LLM vulnerabilities to conventional safety risks in educational contexts
 description: Adaptive multi-turn interactions substantially amplify LLM vulnerabilities to conventional safety risks in educational contexts
 id: dynamic-multi-turn-amplifies-conventional-risks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

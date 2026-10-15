@@ -3,7 +3,7 @@ type: strategy
 id: nine-big-plays-digital-equity
 title: "Make nine 'big plays' across three focus areas — sustaining access infrastructure, upskilling the educator workforce, and upskilling students, families, and caregivers — in state digital equity and BEAD plans"
 description: "Digital Promise recommends that state and local teams planning IIJA broadband investments adopt nine 'big plays' spread across three essential focus areas: building and sustaining systems and infrastructure for consta..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

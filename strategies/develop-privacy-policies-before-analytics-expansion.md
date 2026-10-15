@@ -3,7 +3,7 @@ type: strategy
 id: develop-privacy-policies-before-analytics-expansion
 title: Institutions implementing learning analytics should spend focused time developing privacy policies and procedures, with stakeholder input including students, before expanding analytics use
 description: "The article recommends that institutions beginning a focused push with learning analytics \"spend time developing policies and procedures,\" since this focused time allows buy-in and surfaces issues early."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

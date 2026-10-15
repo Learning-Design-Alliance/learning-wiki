@@ -3,7 +3,7 @@ type: claim
 title: Intervention effects of SRI did not differ by student background or ability variables
 description: Intervention effects of SRI did not differ by student background or ability variables
 id: sri-no-differential-effects-background-ability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

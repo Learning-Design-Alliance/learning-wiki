@@ -3,7 +3,7 @@ type: claim
 title: Participation rates rose with eligibility index score, reflecting program prioritization
 description: Participation rates rose with eligibility index score, reflecting program prioritization
 id: chicago-connected-participation-rose-with-eligibility-index
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

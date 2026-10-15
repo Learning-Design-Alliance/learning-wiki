@@ -3,7 +3,7 @@ type: claim
 title: Linked learning communities produced no statistically significant or substantively important effects on academic achievement
 description: Linked learning communities produced no statistically significant or substantively important effects on academic achievement
 id: linked-learning-communities-academic-achievement-no-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

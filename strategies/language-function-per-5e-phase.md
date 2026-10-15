@@ -3,7 +3,7 @@ type: strategy
 id: language-function-per-5e-phase
 title: Assign a language function to each 5E phase (describe, compare and contrast, classify, classify with justification) and align language objectives with science objectives
 description: The Montebello project added a language column to the 5E template so teachers identified the major language focus of each lesson phase.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

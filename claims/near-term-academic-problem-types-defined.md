@@ -3,7 +3,7 @@ type: claim
 title: Near-term academic problems targeted include absenteeism, suspensions, poor grades, and low state-test performance
 description: Near-term academic problems targeted include absenteeism, suspensions, poor grades, and low state-test performance
 id: near-term-academic-problem-types-defined
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

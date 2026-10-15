@@ -3,7 +3,7 @@ type: claim
 title: "Efficiency trap: human critical thinking may decline when AI performs most of the cognitive work"
 description: "Efficiency trap: human critical thinking may decline when AI performs most of the cognitive work"
 id: efficiency-trap-critical-thinking-decline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

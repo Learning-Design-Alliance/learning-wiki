@@ -3,7 +3,7 @@ type: claim
 title: Elementary teachers were much more likely than high school teachers to report the CCSS would have a great deal of impact on teaching and learning in 2016
 description: Elementary teachers were much more likely than high school teachers to report the CCSS would have a great deal of impact on teaching and learning in 2016
 id: ccss-elementary-teachers-greater-impact-beliefs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

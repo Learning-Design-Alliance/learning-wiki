@@ -3,7 +3,7 @@ type: method
 id: link-ambiguous-constructs-to-operational-concepts
 title: Make ambiguous behavioral-science constructs empirically tractable by linking them to better-behaved concepts from related nomological networks
 description: "The paper models a strategy of conceptual clarification: rather than abandoning a fertile but empirically elusive construct, link it to a concept with greater behavioral vulnerability."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

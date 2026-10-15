@@ -4,7 +4,7 @@ id: jobstart
 title: JOBSTART
 description: JOBSTART is a nonresidential alternative education and occupational-training programme for disadvantaged high school dropouts, combining GED preparation, occupational skills training, support services, and job placement assistance.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Middle-grade Idaho charter schools show the weakest growth while multi-level charters show the strongest reading growth
 description: Middle-grade Idaho charter schools show the weakest growth while multi-level charters show the strongest reading growth
 id: idaho-charter-grade-configuration-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

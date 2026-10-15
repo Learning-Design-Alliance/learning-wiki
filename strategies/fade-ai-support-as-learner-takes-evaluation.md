@@ -3,7 +3,7 @@ type: strategy
 id: fade-ai-support-as-learner-takes-evaluation
 title: Build the vigilance disposition through an AI partnership whose support is faded as the learner takes over evaluation
 description: "The paper's closing recommendation is to develop the vigilance disposition through a partnership whose support is gradually faded as the learner takes the evaluation over, rather than leaving the disposition to the le..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

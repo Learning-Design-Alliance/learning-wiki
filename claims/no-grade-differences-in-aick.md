@@ -3,7 +3,7 @@ type: claim
 title: AI-TPACK component scores show no significant differences across MTES grades, while self-efficacy and teaching beliefs do differ
 description: AI-TPACK component scores show no significant differences across MTES grades, while self-efficacy and teaching beliefs do differ
 id: no-grade-differences-in-aick
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

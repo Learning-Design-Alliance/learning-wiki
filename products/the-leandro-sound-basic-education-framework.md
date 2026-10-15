@@ -4,7 +4,7 @@ id: the-leandro-sound-basic-education-framework
 title: The Leandro sound basic education framework
 description: A North Carolina constitutional education framework defining the components of a sound basic education and guiding state action, accountability, and resource recommendations for K–12 public education.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

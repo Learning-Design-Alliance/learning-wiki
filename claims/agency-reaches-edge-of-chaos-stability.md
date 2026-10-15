@@ -3,7 +3,7 @@ type: claim
 title: "The teacher's agency system reached dynamic stability at the edge of chaos in the final period"
 description: "The teacher's agency system reached dynamic stability at the edge of chaos in the final period"
 id: agency-reaches-edge-of-chaos-stability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

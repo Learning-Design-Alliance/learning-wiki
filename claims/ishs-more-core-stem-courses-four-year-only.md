@@ -3,7 +3,7 @@ type: claim
 title: ISHS attendance is associated with more Core STEM courses completed at four-year colleges but not with STEM GPA or total courses, and shows no course-taking advantage at two-year colleges
 description: ISHS attendance is associated with more Core STEM courses completed at four-year colleges but not with STEM GPA or total courses, and shows no course-taking advantage at two-year colleges
 id: ishs-more-core-stem-courses-four-year-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

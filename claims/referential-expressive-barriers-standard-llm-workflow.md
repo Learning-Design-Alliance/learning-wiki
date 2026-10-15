@@ -3,7 +3,7 @@ type: claim
 title: Learners using standard keyboard-based LLM workflows during pen-based study face a Referential Barrier and an Expressive Barrier
 description: Learners using standard keyboard-based LLM workflows during pen-based study face a Referential Barrier and an Expressive Barrier
 id: referential-expressive-barriers-standard-llm-workflow
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

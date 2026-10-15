@@ -3,7 +3,7 @@ type: claim
 title: Middle school students and teachers broadly buy in to an AI system that visualizes classroom community agreements
 description: Middle school students and teachers broadly buy in to an AI system that visualizes classroom community agreements
 id: cobi-broad-buy-in-students-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

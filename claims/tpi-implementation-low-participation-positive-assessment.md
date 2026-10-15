@@ -3,7 +3,7 @@ type: claim
 title: Implementation of the TPI procedure reached only one tutor-trainee pair out of nine potential tutors, though participants assessed it positively
 description: Implementation of the TPI procedure reached only one tutor-trainee pair out of nine potential tutors, though participants assessed it positively
 id: tpi-implementation-low-participation-positive-assessment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

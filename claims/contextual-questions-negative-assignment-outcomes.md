@@ -3,7 +3,7 @@ type: claim
 title: Contextual Questions dialogue acts are negatively correlated with assignment outcomes across both semesters
 description: Contextual Questions dialogue acts are negatively correlated with assignment outcomes across both semesters
 id: contextual-questions-negative-assignment-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

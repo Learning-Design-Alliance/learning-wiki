@@ -3,7 +3,7 @@ type: strategy
 id: adaptive-reflexive-structures-all-levels
 title: Design adaptive, reflexive structures at macro, meso and micro levels for a continuously learning education system
 description: "The chapter concludes that the education system itself must be capable of continuous learning and that 'adaptive, reﬂexive structures must be designed at all levels of the education system'."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

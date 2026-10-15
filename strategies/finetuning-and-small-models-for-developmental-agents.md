@@ -3,7 +3,7 @@ type: strategy
 id: finetuning-and-small-models-for-developmental-agents
 title: Enhance student development agents with finetuned or small task-specific models and richer memory architectures rather than prompting alone
 description: "In its future directions, the article recommends moving beyond prompting: integrating finetuning, \"particularly those based on reinforcement learning (e.g., reinforcement learning with human or synthetic feedback, RLH..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

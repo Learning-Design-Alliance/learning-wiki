@@ -3,7 +3,7 @@ type: strategy
 id: infographic-decisions-teacher-apprenticeship-implementation
 title: Use an infographic of key decisions to guide states considering teacher apprenticeship programs
 description: The publication offers an infographic laying out decisions that its Wyoming and South Dakota partners have made and that states interested in implementing teacher apprenticeship programs might consider.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

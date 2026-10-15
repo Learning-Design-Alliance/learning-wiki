@@ -3,7 +3,7 @@ type: claim
 title: AI usage pressure attenuates the indirect association of course development satisfaction with psychological adjustment through AI proficiency (moderated mediation index = −0.051)
 description: AI usage pressure attenuates the indirect association of course development satisfaction with psychological adjustment through AI proficiency (moderated mediation index = −0.051)
 id: ai-usage-pressure-attenuates-indirect-association
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

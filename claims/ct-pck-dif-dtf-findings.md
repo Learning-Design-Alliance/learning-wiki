@@ -3,7 +3,7 @@ type: claim
 title: The overall CT–PCK Survey functioned similarly across teacher characteristic groups, though some items showed raw differential item functioning above 0.64 logits
 description: The overall CT–PCK Survey functioned similarly across teacher characteristic groups, though some items showed raw differential item functioning above 0.64 logits
 id: ct-pck-dif-dtf-findings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

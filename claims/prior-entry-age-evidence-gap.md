@@ -3,7 +3,7 @@ type: claim
 title: Prior evidence on school entry age lacked causal estimates of growth through early grades
 description: Prior evidence on school entry age lacked causal estimates of growth through early grades
 id: prior-entry-age-evidence-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

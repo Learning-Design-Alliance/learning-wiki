@@ -3,7 +3,7 @@ type: strategy
 id: school-survey-reports-for-self-assessment-planning
 title: Use individualized school survey reports for self-assessment, internal program review, and improvement planning
 description: "The report is 'specially prepared to assist in self-assessment and long-term planning.' It states that information about where a school is and how it is developing can help the school assess its progress and plan for..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

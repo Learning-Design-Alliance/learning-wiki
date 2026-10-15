@@ -3,7 +3,7 @@ type: claim
 title: "In Texas in 2023–24, 68% of newly hired teachers were underqualified or unqualified, teaching on intern certificates, emergency permits, or no certification"
 description: "In Texas in 2023–24, 68% of newly hired teachers were underqualified or unqualified, teaching on intern certificates, emergency permits, or no certification"
 id: texas-68-percent-new-hires-underqualified-2023-24
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: track-prek-impacts-beyond-kindergarten
 title: Evaluate pre-K programs by tracking impacts beyond kindergarten into early elementary grades
 description: "The report's approach is to estimate the impact of an offer of admission to a pre-K program and then \"explore whether any impacts persist as students advance beyond kindergarten,\" building on a previous study of the s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

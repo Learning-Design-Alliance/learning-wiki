@@ -3,7 +3,7 @@ type: claim
 title: Both fine-tuned models show regression toward the mean in score-wise bias, and error rises monotonically above score 3.0, with high scores hardest to predict
 description: Both fine-tuned models show regression toward the mean in score-wise bias, and error rises monotonically above score 3.0, with high scores hardest to predict
 id: score-wise-bias-regression-to-mean-awe
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

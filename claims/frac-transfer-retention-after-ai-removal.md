@@ -3,7 +3,7 @@ type: claim
 title: FRAC and combined intervention advantages transferred to a new writing task and were retained after AI support was withdrawn
 description: FRAC and combined intervention advantages transferred to a new writing task and were retained after AI support was withdrawn
 id: frac-transfer-retention-after-ai-removal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

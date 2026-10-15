@@ -3,7 +3,7 @@ type: strategy
 id: consent-procedures-parental-permission-student-assent
 title: Develop appropriate procedures for gathering parental permission and student assent
 description: "Consent gathering is one of the six key decisions the review identifies, and the article's conclusions single it out as a practical step."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

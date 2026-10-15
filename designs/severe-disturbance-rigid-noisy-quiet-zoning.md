@@ -3,7 +3,7 @@ type: design
 id: severe-disturbance-rigid-noisy-quiet-zoning
 title: Rigid zoning with clearly separated noisy and quiet areas for severely disturbed children
 description: "For severely disturbed children the booklet prescribes the most structured arrangement: \"The schemes for teaching areas for severely disturbed children are fairly rigid in their design."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

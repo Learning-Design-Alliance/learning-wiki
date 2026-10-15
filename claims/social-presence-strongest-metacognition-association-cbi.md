@@ -3,7 +3,7 @@ type: claim
 title: Social presence shows the strongest association with metacognition in an online case-based course, while teaching presence shows no significant relationship
 description: Social presence shows the strongest association with metacognition in an online case-based course, while teaching presence shows no significant relationship
 id: social-presence-strongest-metacognition-association-cbi
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

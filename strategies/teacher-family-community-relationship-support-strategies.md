@@ -3,7 +3,7 @@ type: strategy
 id: teacher-family-community-relationship-support-strategies
 title: Support teacher relationships with students, families, and communities through community events, home visits, and family voice
 description: The brief recommends concrete leader actions to help teachers form meaningful relationships with students, families, and their communities as classrooms become more diverse.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

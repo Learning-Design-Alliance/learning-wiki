@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT produced more descriptive feedback than peers on argumentative essays
 description: ChatGPT produced more descriptive feedback than peers on argumentative essays
 id: chatgpt-more-descriptive-feedback-than-peers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -2,7 +2,7 @@
 type: theory
 title: "BKTransformer: transformer-based generation of temporally-evolving BKT parameters"
 description: "BKTransformer extends OptimNN by generating BKT parameters that vary over time within a student's problem sequence."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

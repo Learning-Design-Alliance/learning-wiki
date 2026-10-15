@@ -3,7 +3,7 @@ type: strategy
 id: use-bertopic-map-emerging-field-themes
 title: Use transformer-based topic modeling (BERTopic) to map thematic structure and evolution of an emerging research field
 description: "The article demonstrates using BERTopic — \"a transformer-based topic modeling approach that leverages contextual embeddings\" — on a publication corpus to identify major research topics, track their evolution over time..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

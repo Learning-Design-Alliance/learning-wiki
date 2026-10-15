@@ -3,7 +3,7 @@ type: claim
 title: Model selection, not feedback condition, explains LLM diagnostic accuracy in three-way logic proof classification
 description: Model selection, not feedback condition, explains LLM diagnostic accuracy in three-way logic proof classification
 id: model-selection-dominates-feedback-condition-diagnosis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Guidance during initial problem solving does not translate into better learning from subsequent instruction
 description: Guidance during initial problem solving does not translate into better learning from subsequent instruction
 id: initial-guidance-does-not-improve-learning-from-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

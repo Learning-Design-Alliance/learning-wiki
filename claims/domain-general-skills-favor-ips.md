@@ -3,7 +3,7 @@ type: claim
 title: For domain-general skills, effect sizes favor I-PS over PS-I
 description: For domain-general skills, effect sizes favor I-PS over PS-I
 id: domain-general-skills-favor-ips
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

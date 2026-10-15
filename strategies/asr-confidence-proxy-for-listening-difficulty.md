@@ -3,7 +3,7 @@ type: strategy
 id: asr-confidence-proxy-for-listening-difficulty
 title: Use ASR confidence as a proxy for listening difficulty to drive segment-level playback speed
 description: "AIxSpeed determines playback speed for each phoneme using the speech recognition model's recognition probability as a proxy for listenability, adjusting speed based solely on acoustic features without requiring semant..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

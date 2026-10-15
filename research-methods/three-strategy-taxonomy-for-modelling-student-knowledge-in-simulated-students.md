@@ -3,7 +3,7 @@ type: research-method
 id: three-strategy-taxonomy-for-modelling-student-knowledge-in-simulated-students
 title: Three-strategy taxonomy for modelling student knowledge in Simulated Students
 description: The review organises knowledge modelling for LLM-based Simulated Students into three strategies.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT-supported STEAM IBL research is split evenly between K-12 and higher education, but undergraduates dominate and no study examined elementary learners
 description: ChatGPT-supported STEAM IBL research is split evenly between K-12 and higher education, but undergraduates dominate and no study examined elementary learners
 id: chatgpt-steam-ibl-participant-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Retained third and sixth graders were placed in special education at about three times the rate of comparable low-achieving students
 description: Retained third and sixth graders were placed in special education at about three times the rate of comparable low-achieving students
 id: retention-increases-special-education-placement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

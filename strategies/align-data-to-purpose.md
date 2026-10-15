@@ -3,7 +3,7 @@ type: strategy
 id: align-data-to-purpose
 title: Align selected data directly to the purpose or problem the data use is meant to serve
 description: This strategy directs education leaders to choose data sources that connect to the specific issue or outcome they are addressing.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

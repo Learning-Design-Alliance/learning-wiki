@@ -3,7 +3,7 @@ type: claim
 title: The increased number and specificity of policy requirements challenged implementation flexibility, with some viewing the policy as one-size-fits-all
 description: The increased number and specificity of policy requirements challenged implementation flexibility, with some viewing the policy as one-size-fits-all
 id: illinois-principal-preparation-requirements-inflexibility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

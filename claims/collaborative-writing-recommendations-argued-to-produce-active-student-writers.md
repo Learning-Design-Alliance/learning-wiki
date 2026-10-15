@@ -3,7 +3,7 @@ type: claim
 title: Acting on the collaborative writing recommendations is argued to produce active student writers who attend to what their peers say
 description: Acting on the collaborative writing recommendations is argued to produce active student writers who attend to what their peers say
 id: collaborative-writing-recommendations-argued-to-produce-active-student-writers
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

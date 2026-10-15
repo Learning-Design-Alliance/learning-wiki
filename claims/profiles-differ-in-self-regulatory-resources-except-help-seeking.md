@@ -3,7 +3,7 @@ type: claim
 title: The four profiles differ in academic self-efficacy, time/study management, and effort regulation, with HL highest, but not in help seeking
 description: The four profiles differ in academic self-efficacy, time/study management, and effort regulation, with HL highest, but not in help seeking
 id: profiles-differ-in-self-regulatory-resources-except-help-seeking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

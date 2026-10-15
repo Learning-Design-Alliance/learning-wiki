@@ -3,7 +3,7 @@ type: claim
 title: A smaller student subset showed a similar STEMscopes advantage on the NWEA MAP Growth science assessment (effect size +0.17)
 description: A smaller student subset showed a similar STEMscopes advantage on the NWEA MAP Growth science assessment (effect size +0.17)
 id: stemscopes-nwea-map-similar-result
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

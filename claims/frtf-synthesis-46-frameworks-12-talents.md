@@ -3,7 +3,7 @@ type: claim
 title: "A literature synthesis of 46 talent frameworks and future-of-work reports yielded 29 unique talents reduced to the FRTF's 12 talents"
 description: "A literature synthesis of 46 talent frameworks and future-of-work reports yielded 29 unique talents reduced to the FRTF's 12 talents"
 id: frtf-synthesis-46-frameworks-12-talents
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

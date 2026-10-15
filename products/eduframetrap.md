@@ -4,7 +4,7 @@ id: eduframetrap
 title: EDUFRAMETRAP
 description: EDUFRAMETRAP is a controlled pre-deployment benchmark created by Enkelejda Kasneci et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

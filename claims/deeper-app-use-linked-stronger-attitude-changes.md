@@ -3,7 +3,7 @@ type: claim
 title: "Families who used the app's features more extensively internalized its purpose and reported stronger changes in joint media engagement and science attitudes"
 description: "Families who used the app's features more extensively internalized its purpose and reported stronger changes in joint media engagement and science attitudes"
 id: deeper-app-use-linked-stronger-attitude-changes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

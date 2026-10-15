@@ -3,7 +3,7 @@ type: claim
 title: Adding think-aloud data to theory prompts improves GPT-4o codebook completeness and alignment with the data
 description: Adding think-aloud data to theory prompts improves GPT-4o codebook completeness and alignment with the data
 id: theory-plus-data-prompting-improves-codebook
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

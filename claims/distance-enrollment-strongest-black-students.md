@@ -3,7 +3,7 @@ type: claim
 title: Pre-policy, the negative distance-enrollment relationship was strongest for Black students
 description: Pre-policy, the negative distance-enrollment relationship was strongest for Black students
 id: distance-enrollment-strongest-black-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

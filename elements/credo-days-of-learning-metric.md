@@ -3,7 +3,7 @@ type: element
 id: credo-days-of-learning-metric
 title: "Days of Learning: CREDO's translation of statistical growth into days of a 180-day school year"
 description: "Days of Learning is CREDO's accessibility translation of its statistical growth estimates."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

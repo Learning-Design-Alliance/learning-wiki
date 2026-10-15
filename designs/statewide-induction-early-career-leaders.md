@@ -3,7 +3,7 @@ type: design
 id: statewide-induction-early-career-leaders
 title: Statewide induction support for early-career leaders via mentoring, coaching, and cohort learning
 description: Ten states operate initiatives specifically targeting early-career leaders, six focused exclusively on induction into the principalship and four covering other roles such as the assistant principalship.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Low ACT scores and confusion about financial aid led a hardworking, college-aspiring student to decide not to attend college at all
 description: Low ACT scores and confusion about financial aid led a hardworking, college-aspiring student to decide not to attend college at all
 id: act-scores-and-aid-confusion-deter-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

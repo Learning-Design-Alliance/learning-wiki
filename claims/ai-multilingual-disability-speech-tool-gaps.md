@@ -3,7 +3,7 @@ type: claim
 title: Educators identify real-time translation, dialect handling, and speech recognition as potentially transformative for multilingual learners and students with disabilities, but current speech tools fail on accents and dialects
 description: Educators identify real-time translation, dialect handling, and speech recognition as potentially transformative for multilingual learners and students with disabilities, but current speech tools fail on accents and d...
 id: ai-multilingual-disability-speech-tool-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

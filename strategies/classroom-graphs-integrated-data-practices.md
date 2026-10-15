@@ -3,7 +3,7 @@ type: strategy
 id: classroom-graphs-integrated-data-practices
 title: Integrate data and analysis into existing K-2 teaching practices through classroom graphs such as birthdays and word walls.
 description: The webinar recommends embedding data practices into routines primary teachers already run, rather than adding standalone lessons.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

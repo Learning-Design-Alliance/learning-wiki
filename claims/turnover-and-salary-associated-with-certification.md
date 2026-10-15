@@ -3,7 +3,7 @@ type: claim
 title: "Districts' prior-year teacher turnover was negatively associated with certification rates, and certification rates tend to be higher where beginning teacher salaries are higher"
 description: "Districts' prior-year teacher turnover was negatively associated with certification rates, and certification rates tend to be higher where beginning teacher salaries are higher"
 id: turnover-and-salary-associated-with-certification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

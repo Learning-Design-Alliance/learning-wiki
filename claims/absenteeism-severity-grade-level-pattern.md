@@ -3,7 +3,7 @@ type: claim
 title: Absenteeism severity varies by grade level, peaking in kindergarten, middle school, and 12th grade
 description: Absenteeism severity varies by grade level, peaking in kindergarten, middle school, and 12th grade
 id: absenteeism-severity-grade-level-pattern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

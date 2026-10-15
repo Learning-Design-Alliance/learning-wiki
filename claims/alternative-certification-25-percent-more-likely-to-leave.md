@@ -3,7 +3,7 @@ type: claim
 title: "Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors"
 description: "Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors"
 id: alternative-certification-25-percent-more-likely-to-leave
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

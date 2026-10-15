@@ -3,7 +3,7 @@ type: strategy
 id: micro-credentials-convert-to-ceus
 title: "Convert earned micro-credentials into continuing education units for re-licensure and master's equivalency"
 description: "The report's first incentive strategy is implementing systems that allow earned micro-credentials to convert into a specific number of CEUs usable for re-licensure or master's equivalency petitions."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

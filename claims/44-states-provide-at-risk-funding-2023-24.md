@@ -3,7 +3,7 @@ type: claim
 title: In 2023–24, 44 states provided unique funding for at-risk students, with all 44 classifying low-income students as at-risk and 22 providing concentration-based funding
 description: In 2023–24, 44 states provided unique funding for at-risk students, with all 44 classifying low-income students as at-risk and 22 providing concentration-based funding
 id: 44-states-provide-at-risk-funding-2023-24
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

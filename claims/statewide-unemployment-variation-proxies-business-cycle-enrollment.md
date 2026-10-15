@@ -3,7 +3,7 @@ type: claim
 title: Statewide unemployment-rate variation can proxy business cycle conditions in studies of graduate enrollment decisions
 description: Statewide unemployment-rate variation can proxy business cycle conditions in studies of graduate enrollment decisions
 id: statewide-unemployment-variation-proxies-business-cycle-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

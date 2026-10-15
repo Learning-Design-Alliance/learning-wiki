@@ -3,7 +3,7 @@ type: claim
 title: Instructor-scripted self-explanation prompts have limitations, motivating computer-generated prompts
 description: Instructor-scripted self-explanation prompts have limitations, motivating computer-generated prompts
 id: computer-generated-self-explanation-prompts-recommendation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

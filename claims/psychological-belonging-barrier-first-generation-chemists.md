@@ -3,7 +3,7 @@ type: claim
 title: "Psychological barriers, including imposter syndrome and feelings of not belonging, hinder first-generation chemists' visibility and opportunity-seeking"
 description: "Psychological barriers, including imposter syndrome and feelings of not belonging, hinder first-generation chemists' visibility and opportunity-seeking"
 id: psychological-belonging-barrier-first-generation-chemists
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

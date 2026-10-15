@@ -3,7 +3,7 @@ type: claim
 title: Students from low income, English learner, special education, and several racial/ethnic groups are more likely to be repeatedly identified as significantly below benchmark, with low income students 2.5 times as likely
 description: Students from low income, English learner, special education, and several racial/ethnic groups are more likely to be repeatedly identified as significantly below benchmark, with low income students 2.5 times as likely
 id: massachusetts-k3-risk-inequities-student-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

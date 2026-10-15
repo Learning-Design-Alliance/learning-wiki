@@ -3,7 +3,7 @@ type: claim
 title: Automating constructive alignment with GenAI risks shifting it towards an instrument of compliance
 description: Automating constructive alignment with GenAI risks shifting it towards an instrument of compliance
 id: genai-automation-shifts-constructive-alignment-toward-compliance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

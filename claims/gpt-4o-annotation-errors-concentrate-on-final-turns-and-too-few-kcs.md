@@ -3,7 +3,7 @@ type: claim
 title: "GPT-4o's correctness-labeling errors concentrate on final turns requiring numerical calculation, and its main KC-labeling error is assigning too few standards to a turn."
 description: "GPT-4o's correctness-labeling errors concentrate on final turns requiring numerical calculation, and its main KC-labeling error is assigning too few standards to a turn."
 id: gpt-4o-annotation-errors-concentrate-on-final-turns-and-too-few-kcs
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

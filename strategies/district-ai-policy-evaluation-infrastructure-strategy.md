@@ -3,7 +3,7 @@ type: strategy
 id: district-ai-policy-evaluation-infrastructure-strategy
 title: Districts should build community-shared visions, evaluation infrastructure, and policies for procuring and using AI edtech
 description: "The report recommends that districts collaborate with community members to develop a shared vision, then determine \"where might AI be useful and where might it be harmful.\" It argues districts hold \"immense, yet under..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

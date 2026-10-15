@@ -3,7 +3,7 @@ type: claim
 title: The no-thin-pillar rule was diagnostically informative in three of four cases and the binding constraint in one
 description: The no-thin-pillar rule was diagnostically informative in three of four cases and the binding constraint in one
 id: no-thin-pillar-rule-diagnostic-four-cases
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

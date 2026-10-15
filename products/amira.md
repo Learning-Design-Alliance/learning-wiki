@@ -4,7 +4,7 @@ id: amira
 title: Amira
 description: "Amira Learning's Amira is an AI-powered personal reading tutor that assesses oral reading fluency, provides individualized reading practice and intervention, and reports diagnostic information to educators and families."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: theory
 title: "Baldwin's genetic logic as the elaboration of natural thought processes"
 description: "In his four-volume Thought and Things, Baldwin differentiated three types of logic: formal, dialectical, and genetic."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -2,7 +2,7 @@
 type: theory
 title: Three-cline characterization of procedural versus lexical words
 description: "Robinson arranges words on three clines separating procedural from lexical words: indexicality (high, non-monotonic, schema-free versus low, monotonic, schema-specific), lexical content (few versus many fixed features..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

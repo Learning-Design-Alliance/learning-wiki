@@ -3,7 +3,7 @@ type: claim
 title: "OpenSciEd enactment faces key challenges: project fatigue, unit length and pacing, pseudoagency, and gaps in student sensemaking practices"
 description: "OpenSciEd enactment faces key challenges: project fatigue, unit length and pacing, pseudoagency, and gaps in student sensemaking practices"
 id: openscied-enactment-challenges-fatigue-pacing-pseudoagency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

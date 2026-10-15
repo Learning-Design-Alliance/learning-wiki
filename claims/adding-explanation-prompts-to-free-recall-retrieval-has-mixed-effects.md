@@ -3,7 +3,7 @@ type: claim
 title: Whether prompting students to construct explanations during retrieval adds benefit beyond initial free recall is mixed across studies
 description: Whether prompting students to construct explanations during retrieval adds benefit beyond initial free recall is mixed across studies
 id: adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

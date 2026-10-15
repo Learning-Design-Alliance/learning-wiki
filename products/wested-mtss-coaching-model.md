@@ -4,7 +4,7 @@ id: wested-mtss-coaching-model
 title: WestEd MTSS coaching model
 description: "WestEd's framework provides school-based coaching to support implementation of academic and behavioral multi-tiered systems of support (MTSS)."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content
 description: ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content
 id: el-lag-limited-academic-content-exposure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

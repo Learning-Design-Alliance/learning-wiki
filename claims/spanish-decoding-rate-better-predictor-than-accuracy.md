@@ -3,7 +3,7 @@ type: claim
 title: In Spanish, decoding rate rather than decoding accuracy is the better predictor of passage comprehension
 description: In Spanish, decoding rate rather than decoding accuracy is the better predictor of passage comprehension
 id: spanish-decoding-rate-better-predictor-than-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

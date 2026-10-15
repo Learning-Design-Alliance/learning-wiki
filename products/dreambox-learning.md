@@ -4,7 +4,7 @@ id: dreambox-learning
 title: DreamBox Learning
 description: DreamBox Learning is a supplemental adaptive online mathematics program developed by DreamBox Learning for students in grades K–5.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

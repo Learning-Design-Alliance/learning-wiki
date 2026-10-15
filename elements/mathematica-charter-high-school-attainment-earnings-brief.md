@@ -3,7 +3,7 @@ type: element
 id: mathematica-charter-high-school-attainment-earnings-brief
 title: "Mathematica issue brief on charter high schools' attainment and earnings effects"
 description: A published issue brief from Mathematica Policy Research, dated Jan 30, 2014, authored by Kevin Booker, Brian Gill, Tim Sass, and Ron Zimmer.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

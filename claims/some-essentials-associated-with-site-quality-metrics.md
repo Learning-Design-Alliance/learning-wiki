@@ -3,7 +3,7 @@ type: claim
 title: Some, but not all, measured organizational conditions are associated in expected directions with site-level ECE quality metrics
 description: Some, but not all, measured organizational conditions are associated in expected directions with site-level ECE quality metrics
 id: some-essentials-associated-with-site-quality-metrics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

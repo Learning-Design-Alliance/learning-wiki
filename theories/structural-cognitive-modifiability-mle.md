@@ -2,7 +2,7 @@
 type: theory
 title: "Feuerstein's theory of structural cognitive modifiability and Mediated Learning Experience"
 description: "Feuerstein's theory holds that human beings can be changed cognitively throughout life, and that intelligence reflects plasticity and flexibility of adaptation produced through Mediated Learning Experience."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

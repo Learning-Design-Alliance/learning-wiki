@@ -3,7 +3,7 @@ type: claim
 title: Three OER competencies depend on educational level, though the definition-of-elements association is weak and non-linear
 description: Three OER competencies depend on educational level, though the definition-of-elements association is weak and non-linear
 id: three-oer-competencies-depend-on-education-level
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

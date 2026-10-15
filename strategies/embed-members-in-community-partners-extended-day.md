@@ -3,7 +3,7 @@ type: strategy
 id: embed-members-in-community-partners-extended-day
 title: Embed near-peer members within established community youth-serving organizations during extended-day hours rather than creating parallel systems
 description: For extended-day (after-school and summer) programming, the report recommends embedding members inside existing youth-serving organizations and targeting out-of-school hours when students may be most vulnerable.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

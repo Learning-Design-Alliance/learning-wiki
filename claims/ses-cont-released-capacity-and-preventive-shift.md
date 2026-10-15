@@ -3,7 +3,7 @@ type: claim
 title: "SES/CONT's time gains translated into an estimated released capacity of about 352 additional cases (+22.3%) and cleared backlog, and output shifted toward preventive work (Advisory Notices +664%)"
 description: "SES/CONT's time gains translated into an estimated released capacity of about 352 additional cases (+22.3%) and cleared backlog, and output shifted toward preventive work (Advisory Notices +664%)"
 id: ses-cont-released-capacity-and-preventive-shift
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

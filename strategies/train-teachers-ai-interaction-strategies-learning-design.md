@@ -3,7 +3,7 @@ type: strategy
 id: train-teachers-ai-interaction-strategies-learning-design
 title: Train teachers in effective AI chatbot interaction strategies before AI-assisted learning design
 description: "The article describes a teacher training aimed at \"fostering pedagogically-grounded chatbot interactions during learning design\", delivered before teachers designed learning activities with AI access."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

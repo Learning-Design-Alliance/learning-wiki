@@ -3,7 +3,7 @@ type: claim
 title: A linear mixed-effects model of detection error showed significant paper type, tool, and interaction effects, with underestimation largest for fully AI-generated papers and Pangram consistently producing the smallest errors
 description: A linear mixed-effects model of detection error showed significant paper type, tool, and interaction effects, with underestimation largest for fully AI-generated papers and Pangram consistently producing the smallest...
 id: mixed-model-detection-error-underestimation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

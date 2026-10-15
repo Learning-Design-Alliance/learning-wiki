@@ -3,7 +3,7 @@ type: claim
 title: Becoming too focused on a single college option left a highly qualified student with no fallback when that option fell through, and she did not enroll in college
 description: Becoming too focused on a single college option left a highly qualified student with no fallback when that option fell through, and she did not enroll in college
 id: single-option-focus-summer-melt-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

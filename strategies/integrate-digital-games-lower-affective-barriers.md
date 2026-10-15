@@ -3,7 +3,7 @@ type: strategy
 id: integrate-digital-games-lower-affective-barriers
 title: Integrate digital games into the language curriculum to lower affective barriers and encourage L2 interaction
 description: The article recommends that teachers consider integrating digital games into the language curriculum because games are said to be motivating, to lower affective barriers, and to encourage L2 interaction, and because t...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

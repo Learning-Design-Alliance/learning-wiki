@@ -3,7 +3,7 @@ type: strategy
 id: high-teacher-salaries-with-professional-responsibility
 title: Reward and develop high-quality teachers through substantially higher salaries plus increased professional responsibility
 description: "The strategy the report documents at TEP is to concentrate resources on the teaching force rather than on other inputs: teachers receive salaries of $125,000 along with substantial professional responsibility, funded..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

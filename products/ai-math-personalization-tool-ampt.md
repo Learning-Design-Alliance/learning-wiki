@@ -4,7 +4,7 @@ id: ai-math-personalization-tool-ampt
 title: A.I. Math Personalization Tool (AMPT)
 description: A generative-AI system developed by Norberg et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Q-Q plots, CDF curves, and residual checks support the joint normality assumption underlying the multivariate true score model for the course-specific tests.
 description: Q-Q plots, CDF curves, and residual checks support the joint normality assumption underlying the multivariate true score model for the course-specific tests.
 id: course-specific-norms-normality-supported
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

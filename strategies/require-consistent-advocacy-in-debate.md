@@ -3,7 +3,7 @@ type: strategy
 id: require-consistent-advocacy-in-debate
 title: "Require consistent advocacy in debate activities: bar or discourage conditional arguments"
 description: In debate activities, require students to commit to and defend a consistent set of claims through the round rather than allowing conditional or multiple hypothetical positions that can be dismissed at the last moment.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Reading score trends flattened for ages 9-12 and declined at ages 9 and 12 in the grade equivalent metric by 2000
 description: Reading score trends flattened for ages 9-12 and declined at ages 9 and 12 in the grade equivalent metric by 2000
 id: cps-reading-trends-flattened-declined-younger-ages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

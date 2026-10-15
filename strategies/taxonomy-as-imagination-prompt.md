@@ -3,7 +3,7 @@ type: strategy
 id: taxonomy-as-imagination-prompt
 title: Use the taxonomy as a prompt to stimulate educator imagination when constructing new GenAI learning activities
 description: "Rather than only describing existing activities, the taxonomy can be used generatively — the article states that \"the taxonomy can serve as a prompt to stimu- late educators' imagination about GenAI activities.\" Two o..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

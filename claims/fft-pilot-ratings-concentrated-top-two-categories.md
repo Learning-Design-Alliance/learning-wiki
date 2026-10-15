@@ -3,7 +3,7 @@ type: claim
 title: "FFT-based teacher ratings in Pennsylvania's pilot were overwhelmingly concentrated in the top two performance categories, with less than 0.1 percent rated failing"
 description: "FFT-based teacher ratings in Pennsylvania's pilot were overwhelmingly concentrated in the top two performance categories, with less than 0.1 percent rated failing"
 id: fft-pilot-ratings-concentrated-top-two-categories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

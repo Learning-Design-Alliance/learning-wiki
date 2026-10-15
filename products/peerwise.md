@@ -4,7 +4,7 @@ id: peerwise
 title: PeerWise
 description: "PeerWise is a freely available online tool developed at the University of Auckland that enables students to author, answer, rate, comment on, and follow peers' multiple-choice questions."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

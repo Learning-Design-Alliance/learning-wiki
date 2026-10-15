@@ -3,7 +3,7 @@ type: claim
 title: Separating ability estimation from correctness prediction yields smoother, more stable learning trajectories than probability-based mastery estimation
 description: Separating ability estimation from correctness prediction yields smoother, more stable learning trajectories than probability-based mastery estimation
 id: ability-difficulty-separation-stable-learning-trajectories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

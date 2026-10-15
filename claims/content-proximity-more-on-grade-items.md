@@ -3,7 +3,7 @@ type: claim
 title: Content Proximity pilot tests contained significantly more on-grade items and made better use of adjacent-grade items than traditional MAP Growth tests
 description: Content Proximity pilot tests contained significantly more on-grade items and made better use of adjacent-grade items than traditional MAP Growth tests
 id: content-proximity-more-on-grade-items
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

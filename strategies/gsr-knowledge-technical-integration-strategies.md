@@ -3,7 +3,7 @@ type: strategy
 id: gsr-knowledge-technical-integration-strategies
 title: Technical integration of GSR knowledge via onboarding system prompts, knowledge graphs, retrieval-augmented generation, and a control module
 description: "The authors propose concrete integration mechanisms for the identified requirements: stable characteristics such as preferred personality, student background, and learning type could be captured in a short onboarding..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: The heuristic framework deliberately retains automatic performance checks opposed by instructors and students, as context-appropriate measure selection matters
 description: The heuristic framework deliberately retains automatic performance checks opposed by instructors and students, as context-appropriate measure selection matters
 id: framework-retains-automatic-assessment-heuristic-for-other-contexts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

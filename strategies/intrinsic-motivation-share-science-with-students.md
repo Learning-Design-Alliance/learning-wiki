@@ -3,7 +3,7 @@ type: strategy
 id: intrinsic-motivation-share-science-with-students
 title: "Build students' intrinsic motivation and share learning sciences principles with students to support buy-in and ownership"
 description: "The report highlights research on the importance of building students' intrinsic motivation to learn rather than relying on external rewards; d.tech's extension passion projects embody this, where there is no outside..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: In the structural equation model, both supports directly predict innovative competence and strongly predict the mediators
 description: In the structural equation model, both supports directly predict innovative competence and strongly predict the mediators
 id: sem-direct-paths-dual-supports-innovative-competence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

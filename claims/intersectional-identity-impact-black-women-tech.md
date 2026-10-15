@@ -3,7 +3,7 @@ type: claim
 title: Black women and participants with intersecting identities report being overlooked, facing microaggressions, and experiencing imposter syndrome in tech spaces
 description: Black women and participants with intersecting identities report being overlooked, facing microaggressions, and experiencing imposter syndrome in tech spaces
 id: intersectional-identity-impact-black-women-tech
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: element
 id: five-year-desegregation-graduate-interview-study
 title: Five-year open-ended interview study of six desegregated high schools and their graduates
 description: "This book is the study artifact: a five-year investigation of six high schools that had undergone some form of desegregation in the late 1970s, providing \"a firsthand account of how desegregation affected students dur..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: fuzzy-criteria-as-charitable-yes-no-requirements
 title: Handle fuzzy effort criteria as charitable yes/no binary requirements with periodic check-ins
 description: "When a contract names indefinable but central qualities such as \"consistent effort\" or \"thoughtful feedback\", the authors avoid arguments by never accusing a student of failing a fuzzy criterion unless the violation i..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

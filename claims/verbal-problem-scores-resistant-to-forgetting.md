@@ -3,7 +3,7 @@ type: claim
 title: On the problem solution criterion, verbal problem solving scores do not decline over four weeks and rise on the more complex problems
 description: Verbal problem solving scores on both criteria are highly resistant to forgetting over four weeks
 id: verbal-problem-scores-resistant-to-forgetting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

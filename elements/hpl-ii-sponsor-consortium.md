@@ -3,7 +3,7 @@ type: element
 id: hpl-ii-sponsor-consortium
 title: Sponsor consortium of seven funders supporting the study
 description: "The page lists the study's sponsors as the Alfred P."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Female elementary students rated their teacher more positively over time than male students
 description: Female elementary students rated their teacher more positively over time than male students
 id: female-students-rate-teachers-more-positively-over-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

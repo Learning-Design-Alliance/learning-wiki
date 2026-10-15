@@ -3,7 +3,7 @@ type: research-method
 id: six-dimensional-agentic-capability-framework-rated-on-a-15-ordinal-scale
 title: Six-dimensional agentic capability framework rated on a 1–5 ordinal scale
 description: "The review develops a coding rubric rating six agentic capability dimensions — autonomy and proactivity; planning and reasoning depth; memory and context management; tool and environment interaction; multi-agent collaboration; and robustness, explainability and governance — each on \"A 1–5 ordinal sc"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

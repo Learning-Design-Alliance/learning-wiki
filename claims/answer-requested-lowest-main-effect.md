@@ -3,7 +3,7 @@ type: claim
 title: "In artificial action logs, \"answer requested\" yields the lowest average predicted probability of a correct end-of-unit response, below even \"wrong response\""
 description: "In artificial action logs, \"answer requested\" yields the lowest average predicted probability of a correct end-of-unit response, below even \"wrong response\""
 id: answer-requested-lowest-main-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

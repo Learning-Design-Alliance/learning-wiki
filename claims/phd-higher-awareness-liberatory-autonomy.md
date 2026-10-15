@@ -3,7 +3,7 @@ type: claim
 title: PhD teachers show significantly higher awareness than both MA and BA teachers of liberatory autonomy
 description: PhD teachers show significantly higher awareness than both MA and BA teachers of liberatory autonomy
 id: phd-higher-awareness-liberatory-autonomy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

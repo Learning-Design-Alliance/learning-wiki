@@ -3,7 +3,7 @@ type: claim
 title: Summer credit recovery increased the number of math, English Language Arts, science, and social science classes taken by newcomer EL students
 description: Summer credit recovery increased the number of math, English Language Arts, science, and social science classes taken by newcomer EL students
 id: summer-credit-recovery-increases-course-taking-newcomer-els
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

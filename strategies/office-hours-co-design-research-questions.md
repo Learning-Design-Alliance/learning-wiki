@@ -3,7 +3,7 @@ type: strategy
 id: office-hours-co-design-research-questions
 title: Run conversational office hours in which practitioners and researchers co-design research questions with platform representatives
 description: "Office Hours: A Conversational Series was SEERNet's first application of its guiding principles, grounded in participatory design."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

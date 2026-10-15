@@ -3,7 +3,7 @@ type: claim
 title: Teaching self-efficacy, professional identity, and AI literacy are each significantly associated with AI teaching innovation behavior, with additional links among the mediators
 description: Teaching self-efficacy, professional identity, and AI literacy are each significantly associated with AI teaching innovation behavior, with additional links among the mediators
 id: mediators-associated-with-ai-teaching-innovation-behavior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

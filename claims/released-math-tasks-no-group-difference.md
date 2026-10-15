@@ -3,7 +3,7 @@ type: claim
 title: The two teacher groups did not differ on released-math tasks; both groups made pretest-to-posttest gains, suggesting math-in-science-context tasks better capture OpenSciEd math reasoning
 description: The two teacher groups did not differ on released-math tasks; both groups made pretest-to-posttest gains, suggesting math-in-science-context tasks better capture OpenSciEd math reasoning
 id: released-math-tasks-no-group-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

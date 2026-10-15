@@ -3,7 +3,7 @@ type: element
 id: sdp-school-by-grade-enrollment-prediction-analysis
 title: School-by-grade enrollment prediction analysis for the School District of Philadelphia
 description: "A comparative analysis that used \"data from prior years\" to predict fall enrollment \"at the school-by-grade level\" in the School District of Philadelphia, a district with school choice and substantial student mobility."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: In the owl game, being shown the solids and working with pictures and labels did not help two boys distinguish solids; body-based experience with contrastive guidance was needed
 description: In the owl game, being shown the solids and working with pictures and labels did not help two boys distinguish solids; body-based experience with contrastive guidance was needed
 id: owl-game-body-based-experience-needed-for-solids
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

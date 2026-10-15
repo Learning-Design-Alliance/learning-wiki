@@ -3,7 +3,7 @@ type: claim
 title: Both groups showed large sustained five-week gains in AI engagement
 description: Both groups showed large sustained five-week gains in AI engagement
 id: sustained-aie-gains-both-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

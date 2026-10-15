@@ -3,7 +3,7 @@ type: claim
 title: CS course offerings in CPS high schools more than doubled between 2009 and 2018, with 80 percent of schools offering at least one CS course by 2018
 description: CS course offerings in CPS high schools more than doubled between 2009 and 2018, with 80 percent of schools offering at least one CS course by 2018
 id: cps-cs-offerings-doubled-2009-2018
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

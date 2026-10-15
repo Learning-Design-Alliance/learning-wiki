@@ -3,7 +3,7 @@ type: claim
 title: Both AI platforms received their lowest expert ratings in engineering skills, indicating a shared limitation in supporting iterative design competencies
 description: Both AI platforms received their lowest expert ratings in engineering skills, indicating a shared limitation in supporting iterative design competencies
 id: ai-lesson-plans-weakest-in-engineering-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

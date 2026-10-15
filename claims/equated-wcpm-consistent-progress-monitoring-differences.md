@@ -3,7 +3,7 @@ type: claim
 title: Cross-term WCPM score differences are more consistent across passage positions after equating, supporting progress monitoring
 description: Cross-term WCPM score differences are more consistent across passage positions after equating, supporting progress monitoring
 id: equated-wcpm-consistent-progress-monitoring-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

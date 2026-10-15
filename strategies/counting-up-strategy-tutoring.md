@@ -3,7 +3,7 @@ type: strategy
 id: counting-up-strategy-tutoring
 title: Teach struggling students a counting-up strategy for calculation and missing-number word problems
 description: "The tutoring sessions focus on \"counting up\" strategies in which students start with the bigger number and add or subtract on their fingers."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

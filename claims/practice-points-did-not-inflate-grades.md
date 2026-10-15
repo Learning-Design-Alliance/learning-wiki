@@ -3,7 +3,7 @@ type: claim
 title: Practice points from active-learning exercises did not inflate final grades; exam points remained the primary determinant of course grade
 description: Practice points from active-learning exercises did not inflate final grades; exam points remained the primary determinant of course grade
 id: practice-points-did-not-inflate-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

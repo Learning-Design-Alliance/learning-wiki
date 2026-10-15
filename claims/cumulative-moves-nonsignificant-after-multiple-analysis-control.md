@@ -3,7 +3,7 @@ type: claim
 title: Effects of two or more school moves on child functioning are not significant after controlling for the number of analyses conducted
 description: Effects of two or more school moves on child functioning are not significant after controlling for the number of analyses conducted
 id: cumulative-moves-nonsignificant-after-multiple-analysis-control
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: District-wide pre-k attendance rates increased modestly (1.5 percentage points) as full-day enrollment expanded, with Black students gaining 3 percentage points
 description: District-wide pre-k attendance rates increased modestly (1.5 percentage points) as full-day enrollment expanded, with Black students gaining 3 percentage points
 id: district-prek-attendance-increased-with-fullday-expansion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

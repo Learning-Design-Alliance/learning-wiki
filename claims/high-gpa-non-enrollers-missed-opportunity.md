@@ -3,7 +3,7 @@ type: claim
 title: Ten percent of CPS graduates who did not enroll in college within six years had an average high school GPA above 3.0, a missed opportunity for high-achieving students
 description: Ten percent of CPS graduates who did not enroll in college within six years had an average high school GPA above 3.0, a missed opportunity for high-achieving students
 id: high-gpa-non-enrollers-missed-opportunity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: co-developing-mathematics-tasks-from-informal-educators-everyday-problems
 title: "Co-Developing Mathematics Tasks from an Informal Educator's Everyday Problem"
 description: "A task-development route the article illustrates with the Quilt Problem, showing \"informal educators as curriculum developers who capture emerging learning opportunities from everyday practice and teaching practice\"."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

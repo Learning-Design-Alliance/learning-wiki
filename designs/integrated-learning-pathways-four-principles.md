@@ -3,7 +3,7 @@ type: design
 id: integrated-learning-pathways-four-principles
 title: "Integrated Learning Pathways defined by four principles: competency-based, complementary, cumulative, and consistent"
 description: "Learning pathways are system-wide learning progressions that \"function according to four principles: They are competency-based, complementary to disciplinary learning, consistent across classrooms, and cumulative from..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

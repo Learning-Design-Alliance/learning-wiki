@@ -3,7 +3,7 @@ type: claim
 title: KIPP outcomes were measured with state tests, a nationally normed assessment including higher-order thinking measures, and student- and parent-reported behaviors
 description: KIPP outcomes were measured with state tests, a nationally normed assessment including higher-order thinking measures, and student- and parent-reported behaviors
 id: kipp-outcome-measures-normed-assessment-behaviors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

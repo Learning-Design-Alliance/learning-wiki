@@ -3,7 +3,7 @@ type: design
 id: align-tier2-with-tier1-core-reading-instruction
 title: Align Tier 2 supplemental reading instruction with Tier 1 core instruction through teacher professional development and materials
 description: "The program's central design principle is alignment: it provides \"teachers with professional development and materials to improve the alignment of Tier 2 with Tier 1 core instruction.\" Core reading teachers also recei..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-08

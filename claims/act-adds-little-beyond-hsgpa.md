@@ -4,7 +4,7 @@ title: Adding ACT scores to models with HSGPA does not improve prediction of col
 description: Adding ACT scores to models with HSGPA does not improve prediction of college graduation or reduce between-school variability
 id: act-adds-little-beyond-hsgpa
 aliases: [act-adds-little-beyond-hsgpa-graduation]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

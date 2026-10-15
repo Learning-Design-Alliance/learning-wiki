@@ -3,7 +3,7 @@ type: claim
 title: Most teachers judged their REACH evaluators fair and able to assess instruction accurately
 description: Most teachers judged their REACH evaluators fair and able to assess instruction accurately
 id: teachers-view-evaluator-ratings-fair-accurate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

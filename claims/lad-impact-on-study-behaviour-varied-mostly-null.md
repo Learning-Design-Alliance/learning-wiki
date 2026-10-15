@@ -3,7 +3,7 @@ type: claim
 title: Perceived impact of LAD use on study behaviour varied, with most participants reporting no impact
 description: Perceived impact of LAD use on study behaviour varied, with most participants reporting no impact
 id: lad-impact-on-study-behaviour-varied-mostly-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Students experience a perceived sense of support and connectedness through conversational ChatGPT interaction, though this is not genuine human relatedness
 description: Students experience a perceived sense of support and connectedness through conversational ChatGPT interaction, though this is not genuine human relatedness
 id: chatgpt-perceived-relatedness-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

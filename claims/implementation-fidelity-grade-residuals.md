@@ -3,7 +3,7 @@ type: claim
 title: Meeting four or more implementation fidelity criteria is associated with course grades about 0.24 points higher than expected, a 0.58 grade-point swing versus meeting only two criteria.
 description: Meeting four or more implementation fidelity criteria is associated with course grades about 0.24 points higher than expected, a 0.58 grade-point swing versus meeting only two criteria.
 id: implementation-fidelity-grade-residuals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Detection-oriented emotion AI faces contextual under-interpretation: emotional signals lack stable meanings independent of person, task, culture, and situation"
 description: "Detection-oriented emotion AI faces contextual under-interpretation: emotional signals lack stable meanings independent of person, task, culture, and situation"
 id: contextual-under-interpretation-emotion-ai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

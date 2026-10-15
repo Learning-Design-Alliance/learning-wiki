@@ -3,7 +3,7 @@ type: claim
 title: "Educators moved from awareness to interest in integrating the studio's technology into their coursework"
 description: "Educators moved from awareness to interest in integrating the studio's technology into their coursework"
 id: educators-awareness-to-interest-technology-integration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

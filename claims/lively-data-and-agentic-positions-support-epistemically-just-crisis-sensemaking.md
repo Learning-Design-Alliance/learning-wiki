@@ -2,7 +2,7 @@
 type: claim
 title: Agentic engagement with lively data supports epistemically just crisis sensemaking
 id: lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

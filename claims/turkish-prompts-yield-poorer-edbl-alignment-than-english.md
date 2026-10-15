@@ -3,7 +3,7 @@ type: claim
 title: Turkish-language prompts produced poorer EDBL alignment than English prompts, revealing a linguistic equity limitation of AI lesson-planning tools
 description: Turkish-language prompts produced poorer EDBL alignment than English prompts, revealing a linguistic equity limitation of AI lesson-planning tools
 id: turkish-prompts-yield-poorer-edbl-alignment-than-english
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

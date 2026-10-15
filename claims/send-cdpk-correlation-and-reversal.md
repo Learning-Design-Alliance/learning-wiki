@@ -3,7 +3,7 @@ type: claim
 title: SEND and CDPK benchmark results correlate highly (r = 0.94), but higher-performing models do relatively better on general pedagogy than SEND
 description: SEND and CDPK benchmark results correlate highly (r = 0.94), but higher-performing models do relatively better on general pedagogy than SEND
 id: send-cdpk-correlation-and-reversal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

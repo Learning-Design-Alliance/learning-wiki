@@ -3,7 +3,7 @@ type: claim
 title: After one year of DLP coaching, coached teachers reported more frequent and more powerful technology use than non-participating colleagues
 description: After one year of DLP coaching, coached teachers reported more frequent and more powerful technology use than non-participating colleagues
 id: dlp-teachers-more-frequent-powerful-technology-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

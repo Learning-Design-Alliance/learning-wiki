@@ -3,7 +3,7 @@ type: claim
 title: Find the Fit increased the share of Upward Bound students who applied to four or more colleges
 description: Find the Fit increased the share of Upward Bound students who applied to four or more colleges
 id: find-the-fit-increased-four-or-more-college-applications
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

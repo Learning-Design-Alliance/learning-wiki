@@ -3,7 +3,7 @@ type: claim
 title: The framework generalizes under automatically generated Q-matrices without requiring expert annotation
 description: The framework generalizes under automatically generated Q-matrices without requiring expert annotation
 id: automatic-qmatrix-extraction-generalization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Open collaboration exceeded bounded support in offloading at all four layers, with the largest differences at the idea and reasoning layers
 description: Open collaboration exceeded bounded support in offloading at all four layers, with the largest differences at the idea and reasoning layers
 id: open-collaboration-deeper-layer-offloading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

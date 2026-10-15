@@ -3,7 +3,7 @@ type: strategy
 id: implementation-scaffolding-change-management
 title: Strengthen implementation scaffolding for new edtech rollouts with routines, guided practice, and change management grounded in observed workflows
 description: "The article's recommendation for district leaders rolling out new tools: \"pair new feature rollouts with concrete routines, guided practice, and modest incentives when possible, such as preparing teacher champions to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: rely-on-existing-experts-build-community-expertise
 title: Rely on existing experts and invest in building expertise from within the communities served, including Grow Your Own faculty recruitment
 description: "A funder strategy of drawing on individuals with diverse racial and ethnic backgrounds, those already working with the target student populations, and intermediary organizations that understand students' specific needs."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

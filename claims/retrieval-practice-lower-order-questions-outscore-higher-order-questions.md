@@ -3,7 +3,7 @@ type: claim
 title: After retrieval practice, undergraduates score significantly higher on lower-order thinking questions than on higher-order thinking questions about a studied passage
 description: After retrieval practice, undergraduates score significantly higher on lower-order thinking questions than on higher-order thinking questions about a studied passage
 id: retrieval-practice-lower-order-questions-outscore-higher-order-questions
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

@@ -3,7 +3,7 @@ type: strategy
 id: tripwire-mitigation-defense-ripe-problems
 title: Ripe problems framed with a tripwire-mitigation-general defense lens to compress the observe-orient-decide-act loop
 description: The paper proposes treating ripe problems as early-warning probes and shock absorbers in schools.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

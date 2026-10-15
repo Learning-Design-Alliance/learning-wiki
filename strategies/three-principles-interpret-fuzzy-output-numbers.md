@@ -3,7 +3,7 @@ type: strategy
 id: three-principles-interpret-fuzzy-output-numbers
 title: Apply three membership-based principles to translate fuzzy forecast outputs into numeric values
 description: Because model outputs are fuzzy sets, the article prescribes three interpretation principles for obtaining quantitative forecasts.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Videoconferencing was conducive to more negotiation of meaning than text chat and discussion board, measured as proportion of negotiated turns
 description: Videoconferencing was conducive to more negotiation of meaning than text chat and discussion board, measured as proportion of negotiated turns
 id: videoconferencing-more-negotiated-turns-than-chat-and-board
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

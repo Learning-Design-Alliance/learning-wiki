@@ -3,7 +3,7 @@ type: claim
 title: Schooling does not show a compensatory effect on math skill inequality
 description: Schooling does not show a compensatory effect on math skill inequality
 id: no-compensatory-effect-math-inequality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

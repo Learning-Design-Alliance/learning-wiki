@@ -3,7 +3,7 @@ type: strategy
 id: six-state-funding-stability-policies
 title: State leaders should assess six funding-stability policy areas to reduce district revenue volatility
 description: "The brief identifies six state policy areas that foster fiscal resiliency: guaranteed funding floors, rainy day funds, hold-harmless provisions for declining enrollment, reducing unfunded pension liabilities, flexible..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

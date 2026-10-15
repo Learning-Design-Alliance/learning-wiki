@@ -3,7 +3,7 @@ type: claim
 title: "Early adopters report time savings from ChatGPT automation, including a Wharton professor's exam-writing productivity increase of 100%"
 description: "Early adopters report time savings from ChatGPT automation, including a Wharton professor's exam-writing productivity increase of 100%"
 id: chatgpt-automation-time-savings-educators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

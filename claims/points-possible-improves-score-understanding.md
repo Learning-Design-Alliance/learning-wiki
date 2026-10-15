@@ -3,7 +3,7 @@ type: claim
 title: Reporting the number of points possible for each metric led to better understanding of how the STAR score is calculated
 description: Reporting the number of points possible for each metric led to better understanding of how the STAR score is calculated
 id: points-possible-improves-score-understanding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

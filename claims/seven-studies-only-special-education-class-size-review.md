@@ -3,7 +3,7 @@ type: claim
 title: Comprehensive searches identified only seven eligible studies, and quantitative synthesis was blocked by critical risk of bias and unreportable effect sizes
 description: Comprehensive searches identified only seven eligible studies, and quantitative synthesis was blocked by critical risk of bias and unreportable effect sizes
 id: seven-studies-only-special-education-class-size-review
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

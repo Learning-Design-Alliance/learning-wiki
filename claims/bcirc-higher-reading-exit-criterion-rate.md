@@ -3,7 +3,7 @@ type: claim
 title: "A larger percentage of BCIRC students met the bilingual education exit criterion in reading (32% versus 10%)"
 description: "A larger percentage of BCIRC students met the bilingual education exit criterion in reading (32% versus 10%)"
 id: bcirc-higher-reading-exit-criterion-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

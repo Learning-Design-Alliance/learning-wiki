@@ -3,7 +3,7 @@ type: research-method
 id: ksa-three-axis-evaluation-framework-with-a-four-level-skills-hierarchy-centerrolescenarios
 title: KSA three-axis evaluation framework with a four-level Skills hierarchy (Center→Role→Scenario→Sub-scenario)
 description: The framework operationalizes educational LLM capability using the KSA (Knowledge-Skills-Attitude) model from educational assessment.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: BERT and MentalBERT remain resilient under sentence shuffling in ENS-based mental health classification
 description: BERT and MentalBERT remain resilient under sentence shuffling in ENS-based mental health classification
 id: bert-mentalbert-resilient-sentence-shuffling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

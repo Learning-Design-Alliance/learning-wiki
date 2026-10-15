@@ -3,7 +3,7 @@ type: strategy
 id: tier2-selection-weigh-evidence-cost-feasibility-matrix
 title: Select Tier 2 literacy interventions by weighing ESSA evidence ratings, cost, feasibility, and use of the supplemental matrix for homegrown designs
 description: "The report recommends that the CNMI PSS's selection of an intervention will likely depend on several factors: ESSA evidence ratings (including targeted skills such as reading fluency and grade-level fit, e.g., Reading..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

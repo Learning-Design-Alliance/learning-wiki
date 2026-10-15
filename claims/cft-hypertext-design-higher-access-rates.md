@@ -3,7 +3,7 @@ type: claim
 title: Experimental-group students accessed the online course and learning activities more frequently (6.38 and 7.92) than control-group students (2.67 and 6.05)
 description: Experimental-group students accessed the online course and learning activities more frequently (6.38 and 7.92) than control-group students (2.67 and 6.05)
 id: cft-hypertext-design-higher-access-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

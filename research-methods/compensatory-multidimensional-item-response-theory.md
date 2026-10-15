@@ -3,7 +3,7 @@ type: research-method
 id: compensatory-multidimensional-item-response-theory
 title: Compensatory multidimensional item response theory
 description: The article presents compensatory multidimensional IRT (MIRT), estimated via the BMIRT program with MCMC (Metropolis-Hastings), as an explanatory framework for combining subtests measuring distinct but overlapping abilities into a composite.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: First Step to Success has positive effects on external behavior for children at risk for emotional disturbance (average improvement index +28)
 description: First Step to Success has positive effects on external behavior for children at risk for emotional disturbance (average improvement index +28)
 id: first-step-success-positive-external-behavior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

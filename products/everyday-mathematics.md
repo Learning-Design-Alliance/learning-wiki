@@ -4,7 +4,7 @@ id: everyday-mathematics
 title: Everyday Mathematics®
 description: Everyday Mathematics® is a comprehensive pre-K–6 mathematics curriculum developed by the University of Chicago School Mathematics Project, combining teacher guides, student materials, manipulatives, games, technology, and repeated exposure to mathematical content.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

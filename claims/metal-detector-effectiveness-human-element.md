@@ -3,7 +3,7 @@ type: claim
 title: "Metal detector effectiveness depends heavily on the human element: training, correct operation and functioning equipment"
 description: "Metal detector effectiveness depends heavily on the human element: training, correct operation and functioning equipment"
 id: metal-detector-effectiveness-human-element
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

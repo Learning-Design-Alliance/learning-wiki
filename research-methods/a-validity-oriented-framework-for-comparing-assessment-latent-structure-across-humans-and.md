@@ -3,7 +3,7 @@ type: research-method
 id: a-validity-oriented-framework-for-comparing-assessment-latent-structure-across-humans-and
 title: A validity-oriented framework for comparing assessment latent structure across humans and LLMs
 description: The article introduces a methodological framework that treats similarity of latent factor structure as a necessary, though not sufficient, condition for transferring score interpretations from humans to LLMs.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

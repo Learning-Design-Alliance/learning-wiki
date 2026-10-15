@@ -3,7 +3,7 @@ type: claim
 title: Educational opportunity and achievement gaps impose large societal costs, including an estimated $156 billion loss in tax revenues and income per yearly cohort of nongraduates
 description: Educational opportunity and achievement gaps impose large societal costs, including an estimated $156 billion loss in tax revenues and income per yearly cohort of nongraduates
 id: achievement-gap-societal-costs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

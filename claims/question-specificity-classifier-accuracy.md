@@ -3,7 +3,7 @@ type: claim
 title: An LLM-based question-specificity classifier reached .830 knowledge and .829 scaffold accuracy without fine-tuning
 description: An LLM-based question-specificity classifier reached .830 knowledge and .829 scaffold accuracy without fine-tuning
 id: question-specificity-classifier-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

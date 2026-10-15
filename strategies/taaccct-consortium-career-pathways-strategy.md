@@ -3,7 +3,7 @@ type: strategy
 id: taaccct-consortium-career-pathways-strategy
 title: Use multi-college consortia funded through TAACCCT to build career pathways for dislocated and low-skilled workers
 description: The strategy is a federal grant approach in which community colleges and groups of institutions working as consortia improve education, employment, and training outcomes for economically dislocated and low-skilled adu...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: reading-as-the-reader-activity
 title: "Use a reading-as-the-reader activity in which writers re-read text from the reader's perspective before revising"
 description: "A specific implementable activity in which young writers take the reader's role — reading their own or similar descriptive text as a reader would — before revising or drafting."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

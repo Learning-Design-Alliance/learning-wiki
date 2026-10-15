@@ -3,7 +3,7 @@ type: claim
 title: In second-language teaching for pupils with special educational needs, Pepper was associated with higher participation than digital tablets
 description: In second-language teaching for pupils with special educational needs, Pepper was associated with higher participation than digital tablets
 id: pepper-vs-tablets-higher-participation-sen-language
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "Parental involvement has a small to moderate, practically meaningful relationship with students' academic achievement"
 description: "Parental involvement has a small to moderate, practically meaningful relationship with students' academic achievement"
 id: parental-involvement-small-to-moderate-achievement-relationship
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

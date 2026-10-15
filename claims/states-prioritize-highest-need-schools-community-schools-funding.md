@@ -3,7 +3,7 @@ type: claim
 title: "States investing in community schools typically prioritize funding for the highest-need schools and districts, with high-need thresholds ranging from 40% to 80% or more of the student population."
 description: "States investing in community schools typically prioritize funding for the highest-need schools and districts, with high-need thresholds ranging from 40% to 80% or more of the student population."
 id: states-prioritize-highest-need-schools-community-schools-funding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

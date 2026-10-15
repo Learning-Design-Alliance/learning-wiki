@@ -3,7 +3,7 @@ type: claim
 title: "Mode-specific advantages: SCMC favors productive and written L2 outcomes; FTF favors receptive and oral outcomes"
 description: "Mode-specific advantages: SCMC favors productive and written L2 outcomes; FTF favors receptive and oral outcomes"
 id: mode-specific-advantages-productive-written-vs-receptive-oral
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

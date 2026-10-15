@@ -3,7 +3,7 @@ type: claim
 title: State ethnic studies policies vary in whether coursework is a graduation requirement, an elective, or offered without student mandates
 description: State ethnic studies policies vary in whether coursework is a graduation requirement, an elective, or offered without student mandates
 id: ethnic-studies-mandate-variation-graduation-elective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

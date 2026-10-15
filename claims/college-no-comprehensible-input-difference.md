@@ -3,7 +3,7 @@ type: claim
 title: In college groups, negotiation of meaning made no difference to comprehensible input obtained in the match task
 description: In college groups, negotiation of meaning made no difference to comprehensible input obtained in the match task
 id: college-no-comprehensible-input-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

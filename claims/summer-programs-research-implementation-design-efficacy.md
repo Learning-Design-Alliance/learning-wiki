@@ -3,7 +3,7 @@ type: claim
 title: Research on summer programs addresses their implementation, design, and efficacy for literacy, math, and social-emotional learning outcomes
 description: Research on summer programs addresses their implementation, design, and efficacy for literacy, math, and social-emotional learning outcomes
 id: summer-programs-research-implementation-design-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

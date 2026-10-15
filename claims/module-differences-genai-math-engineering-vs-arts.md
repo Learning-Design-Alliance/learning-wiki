@@ -3,7 +3,7 @@ type: claim
 title: Interaction patterns and perceptions differed between mathematics-engineering and mathematics-arts modules despite similar interaction counts
 description: Interaction patterns and perceptions differed between mathematics-engineering and mathematics-arts modules despite similar interaction counts
 id: module-differences-genai-math-engineering-vs-arts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Students with low prior test scores and students with disabilities were suspended at substantially higher rates than their peers in CPS
 description: Students with low prior test scores and students with disabilities were suspended at substantially higher rates than their peers in CPS
 id: low-achievement-disability-suspension-rates-cps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

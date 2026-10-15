@@ -3,7 +3,7 @@ type: claim
 title: Effect sizes are highest in medium-sized classes (50–99 students), with class-size differences only marginally significant
 description: Effect sizes are highest in medium-sized classes (50–99 students), with class-size differences only marginally significant
 id: ai-effect-medium-class-size-highest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

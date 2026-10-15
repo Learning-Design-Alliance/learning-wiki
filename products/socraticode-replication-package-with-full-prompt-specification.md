@@ -4,7 +4,7 @@ id: socraticode-replication-package-with-full-prompt-specification
 title: SocratiCode replication package with full prompt specification
 description: A Zenodo-archived replication package containing the full topic-prompt specification for the SocratiCode generative-AI programming tutor, released by the study authors to support replication and extension.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

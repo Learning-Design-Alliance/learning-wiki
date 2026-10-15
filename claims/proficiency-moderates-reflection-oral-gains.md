@@ -3,7 +3,7 @@ type: claim
 title: Language proficiency significantly moderates the effect of reflective behavior on oral proficiency improvement, with the effect non-significant at low proficiency
 description: Language proficiency significantly moderates the effect of reflective behavior on oral proficiency improvement, with the effect non-significant at low proficiency
 id: proficiency-moderates-reflection-oral-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

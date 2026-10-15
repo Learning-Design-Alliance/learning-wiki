@@ -3,7 +3,7 @@ type: claim
 title: Students—particularly those facing significant social, economic, and academic impediments—demonstrate stronger academic, social, and emotional development in smaller learning settings
 description: Students—particularly those facing significant social, economic, and academic impediments—demonstrate stronger academic, social, and emotional development in smaller learning settings
 id: smaller-settings-stronger-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

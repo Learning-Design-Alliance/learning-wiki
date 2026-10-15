@@ -3,7 +3,7 @@ type: claim
 title: Elaborative interrogation instructions produce better recall and recognition of science facts than reading-for-understanding instructions
 description: Elaborative interrogation instructions produce better recall and recognition of science facts than reading-for-understanding instructions
 id: elaborative-interrogation-improves-science-fact-learning
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

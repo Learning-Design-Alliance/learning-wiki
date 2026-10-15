@@ -3,7 +3,7 @@ type: claim
 title: "Authentic, challenging projects in the Learning Studio developed students' self-efficacy for future careers"
 description: "Authentic, challenging projects in the Learning Studio developed students' self-efficacy for future careers"
 id: authentic-projects-build-career-self-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

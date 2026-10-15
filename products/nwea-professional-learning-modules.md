@@ -4,7 +4,7 @@ id: nwea-professional-learning-modules
 title: NWEA professional learning modules
 description: "NWEA's professional-learning module suite trains educators to use MAP Growth reports, interpret assessment information, set growth goals, and apply broader formative-assessment practices."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

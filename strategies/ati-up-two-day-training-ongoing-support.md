@@ -3,7 +3,7 @@ type: strategy
 id: ati-up-two-day-training-ongoing-support
 title: Provide two days of pre-implementation training plus ongoing technical support for school teams
 description: "ATI-UP's professional development model has \"school-based teams attend two days of training prior to program start and have access to ongoing technical support via email communication.\" During training, \"teams learn a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

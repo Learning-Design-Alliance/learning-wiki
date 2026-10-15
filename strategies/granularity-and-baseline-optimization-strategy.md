@@ -3,7 +3,7 @@ type: strategy
 id: granularity-and-baseline-optimization-strategy
 title: Develop a theoretically grounded data-granularity structure and stronger evaluation baselines, including meta-analysis-derived baselines
 description: "The article recommends developing \"a theoretically grounded data structure for simulated data\" with standardized granularity levels (e.g., event-level, session-level, daily-level), since coarse simulations risk missin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

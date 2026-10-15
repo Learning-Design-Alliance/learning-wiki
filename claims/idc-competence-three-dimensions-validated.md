@@ -3,7 +3,7 @@ type: claim
 title: Instructional design competence of pre-service teachers comprises knowledge, ability, and personal attributes dimensions
 description: Instructional design competence of pre-service teachers comprises knowledge, ability, and personal attributes dimensions
 id: idc-competence-three-dimensions-validated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

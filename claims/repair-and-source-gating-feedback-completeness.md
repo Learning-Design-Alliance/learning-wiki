@@ -3,7 +3,7 @@ type: claim
 title: Standardized repair and source-verification gating produced structurally complete, source-traceable feedback for most generated messages
 description: Standardized repair and source-verification gating produced structurally complete, source-traceable feedback for most generated messages
 id: repair-and-source-gating-feedback-completeness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

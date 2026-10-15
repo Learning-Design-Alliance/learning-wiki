@@ -3,7 +3,7 @@ type: claim
 title: Financial governance shows no statistically significant direct effect on governance effectiveness when modeled with other factors
 description: Financial governance shows no statistically significant direct effect on governance effectiveness when modeled with other factors
 id: finance-no-significant-direct-effect-governance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

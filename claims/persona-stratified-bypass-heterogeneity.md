@@ -3,7 +3,7 @@ type: claim
 title: "Bypass robustness varies across student personas (32.76% to 52.05%) while FPR stays 0.00% across all personas"
 description: "Bypass robustness varies across student personas (32.76% to 52.05%) while FPR stays 0.00% across all personas"
 id: persona-stratified-bypass-heterogeneity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

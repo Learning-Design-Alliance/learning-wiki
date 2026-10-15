@@ -3,7 +3,7 @@ type: claim
 title: Clustered regression discontinuity designs typically require three to four times larger samples than clustered experimental designs to produce impact estimates with the same level of statistical precision in education evaluations
 description: Clustered regression discontinuity designs typically require three to four times larger samples than clustered experimental designs to produce impact estimates with the same level of statistical precision in education...
 id: rd-designs-need-three-to-four-times-larger-samples-than-experiments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

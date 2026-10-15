@@ -3,7 +3,7 @@ type: claim
 title: "CPS's Bachelor's Degree Attainment Index rose 7 percentage points, from 11 percent for 2006 ninth-graders to 18 percent for 2016 ninth-graders"
 description: "CPS's Bachelor's Degree Attainment Index rose 7 percentage points, from 11 percent for 2006 ninth-graders to 18 percent for 2016 ninth-graders"
 id: cps-bachelors-dai-rose-7-points
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

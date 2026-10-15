@@ -3,7 +3,7 @@ type: strategy
 id: federal-authentic-assessment-for-improvement
 title: Federal policy should support authentic performance assessments used for improvement rather than punishment
 description: The brief recommends federal testing requirements focus on quality rather than quantity, supporting authentic measures of relevant knowledge and skills as used in the real world.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

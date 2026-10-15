@@ -3,7 +3,7 @@ type: claim
 title: Prior gateway course success rates averaged 66 percent with a 14-point gap for students of color
 description: Prior gateway course success rates averaged 66 percent with a 14-point gap for students of color
 id: gateway-success-rates-racial-gap-baseline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

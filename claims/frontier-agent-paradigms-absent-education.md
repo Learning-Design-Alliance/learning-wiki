@@ -3,7 +3,7 @@ type: claim
 title: GPT-series models and LangChain dominate educational agentic implementations, while frontier paradigms such as OpenClaw remain largely absent
 description: GPT-series models and LangChain dominate educational agentic implementations, while frontier paradigms such as OpenClaw remain largely absent
 id: frontier-agent-paradigms-absent-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

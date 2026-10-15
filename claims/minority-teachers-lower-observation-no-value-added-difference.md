@@ -3,7 +3,7 @@ type: claim
 title: Minority teachers have lower observation scores than white teachers but no significant differences on value added
 description: Minority teachers have lower observation scores than white teachers but no significant differences on value added
 id: minority-teachers-lower-observation-no-value-added-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

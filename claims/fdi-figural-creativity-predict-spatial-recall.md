@@ -3,7 +3,7 @@ type: claim
 title: Field-dependence-independence and figural creativity significantly predict spatial recall accuracy in both high school and college samples
 description: Field-dependence-independence and figural creativity significantly predict spatial recall accuracy in both high school and college samples
 id: fdi-figural-creativity-predict-spatial-recall
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

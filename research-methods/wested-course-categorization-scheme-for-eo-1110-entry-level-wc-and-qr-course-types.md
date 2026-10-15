@@ -3,7 +3,7 @@ type: research-method
 id: wested-course-categorization-scheme-for-eo-1110-entry-level-wc-and-qr-course-types
 title: WestEd course categorization scheme for EO 1110 entry-level WC and QR course types
 description: A four-category scheme developed by WestEd researchers to classify how CSU campuses provide additional supports to students in entry-level Written Communication and QR courses under EO 1110.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

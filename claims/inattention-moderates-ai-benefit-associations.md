@@ -3,7 +3,7 @@ type: claim
 title: Inattention moderates how baseline competence frustration and baseline autonomy translate into perceived AI benefits, weakening both positive associations
 description: Inattention moderates how baseline competence frustration and baseline autonomy translate into perceived AI benefits, weakening both positive associations
 id: inattention-moderates-ai-benefit-associations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

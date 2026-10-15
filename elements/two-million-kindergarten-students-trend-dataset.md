@@ -3,7 +3,7 @@ type: element
 id: two-million-kindergarten-students-trend-dataset
 title: National dataset of over 2 million kindergarten students used to estimate 2010-2017 school-entry skill trends
 description: The study draws on assessment data from a very large national sample of kindergarten students to estimate trends in math and reading skills at school entry between 2010 and 2017.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

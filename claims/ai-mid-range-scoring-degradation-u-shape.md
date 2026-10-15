@@ -3,7 +3,7 @@ type: claim
 title: "AI scoring shows a quality-conditioned pattern: strong agreement on fully correct and fully incorrect responses but substantial degradation on mid-range responses"
 description: "AI scoring shows a quality-conditioned pattern: strong agreement on fully correct and fully incorrect responses but substantial degradation on mid-range responses"
 id: ai-mid-range-scoring-degradation-u-shape
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

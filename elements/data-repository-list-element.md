@@ -3,7 +3,7 @@ type: element
 id: data-repository-list-element
 title: Curated list of data repositories for classroom data collection
 description: "The session defines a data repository as \"a place that holds data, makes data available to use, and organizes data in a logical manner,\" possibly a subject-specific location where researchers submit data."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

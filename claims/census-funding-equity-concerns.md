@@ -3,7 +3,7 @@ type: claim
 title: Census funding has raised concerns about funding equity
 description: Census funding has raised concerns about funding equity
 id: census-funding-equity-concerns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

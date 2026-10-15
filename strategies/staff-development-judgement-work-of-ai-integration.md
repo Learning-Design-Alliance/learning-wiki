@@ -3,7 +3,7 @@ type: strategy
 id: staff-development-judgement-work-of-ai-integration
 title: Focus staff development on the judgement work of AI integration rather than tool training
 description: "For the shift from teacher-centric delivery to AI-augmented facilitation, the article recommends that educator development move beyond tool training toward integration judgement: deciding when AI should be invited int..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

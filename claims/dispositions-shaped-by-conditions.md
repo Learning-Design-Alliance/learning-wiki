@@ -3,7 +3,7 @@ type: claim
 title: Dispositions such as openness and shared responsibility are shaped by conditions, not fixed individual traits
 description: Dispositions such as openness and shared responsibility are shaped by conditions, not fixed individual traits
 id: dispositions-shaped-by-conditions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

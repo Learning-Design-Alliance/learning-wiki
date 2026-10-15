@@ -3,7 +3,7 @@ type: claim
 title: Iconic visual scaffolds in chemistry visualizations helped low-prior-knowledge high-school students but not higher-prior-knowledge ones, with the effect eliminated for younger middle-school children
 description: Iconic visual scaffolds in chemistry visualizations helped low-prior-knowledge high-school students but not higher-prior-knowledge ones, with the effect eliminated for younger middle-school children
 id: expertise-reversal-iconic-scaffolds-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

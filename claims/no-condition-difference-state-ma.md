@@ -3,7 +3,7 @@ type: claim
 title: The mindfulness interventions did not significantly change anticipatory or executive state-MA relative to cognitive support alone
 description: The mindfulness interventions did not significantly change anticipatory or executive state-MA relative to cognitive support alone
 id: no-condition-difference-state-ma
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

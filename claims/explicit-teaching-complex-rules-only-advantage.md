@@ -3,7 +3,7 @@ type: claim
 title: "Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too"
 description: Explicit grammar teaching improves performance on complex rules but equals implicit teaching for simple rules
 id: explicit-teaching-complex-rules-only-advantage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Blocked randomization is always recommended in small CRCTs, but covariate adjustment for blocking depends on a precision-versus-degrees-of-freedom tradeoff
 description: Blocked randomization is always recommended in small CRCTs, but covariate adjustment for blocking depends on a precision-versus-degrees-of-freedom tradeoff
 id: blocked-randomization-always-covariate-adjustment-tradeoff-small-crcts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

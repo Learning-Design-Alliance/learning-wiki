@@ -3,7 +3,7 @@ type: claim
 title: Hispanic charter students perform similarly to their Hispanic TPS peers in both subjects, while both groups lag the average White TPS student
 description: Hispanic charter students perform similarly to their Hispanic TPS peers in both subjects, while both groups lag the average White TPS student
 id: pa-charter-hispanic-students-similar-to-tps-peers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

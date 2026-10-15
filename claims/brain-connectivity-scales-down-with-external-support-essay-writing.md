@@ -3,7 +3,7 @@ type: claim
 title: Brain connectivity during essay writing systematically scales down with the amount of external support, with Brain-only strongest, Search Engine intermediate, and LLM weakest
 description: Brain connectivity during essay writing systematically scales down with the amount of external support, with Brain-only strongest, Search Engine intermediate, and LLM weakest
 id: brain-connectivity-scales-down-with-external-support-essay-writing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

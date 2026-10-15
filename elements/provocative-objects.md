@@ -4,7 +4,7 @@ id: provocative-objects
 title: Provocative Objects
 description: A digital-environment design construct specifying five characteristics — consistent feedback, frequent failure tightly coupled to that feedback, non-standard representations, late or absent formal notation, and legitimate alternative solution paths — that together support productive mathematical play rather than frustration or rote procedure.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

@@ -3,7 +3,7 @@ type: claim
 title: Kauffman School college enrollment and achievement impacts are comparable to average effects for other high-performing charter schools
 description: Kauffman School college enrollment and achievement impacts are comparable to average effects for other high-performing charter schools
 id: kauffman-impacts-comparable-high-performing-charters
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

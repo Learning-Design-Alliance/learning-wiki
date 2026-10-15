@@ -3,7 +3,7 @@ type: claim
 title: The effects of Bottom Line are not known for outcome domains other than college enrollment and progressing in college
 description: The effects of Bottom Line are not known for outcome domains other than college enrollment and progressing in college
 id: bottom-line-effects-unknown-other-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

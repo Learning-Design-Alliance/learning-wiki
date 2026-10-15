@@ -3,7 +3,7 @@ type: strategy
 id: frame-feedback-sources-as-complementary
 title: Frame learner and automated feedback as complementary rather than conflicting
 description: "The article's second design consideration recommends that learner and automated feedback \"should be framed as complementary rather than conflicting\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

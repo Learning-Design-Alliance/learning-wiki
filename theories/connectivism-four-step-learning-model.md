@@ -2,7 +2,7 @@
 type: theory
 title: "The four-step connectivism learning model: aggregating, remixing, repurposing, feed forward"
 description: "The survey reports a connectivist methodology for learning described by Kultawanicha, Koraneekija, and Na-Songkhlaa (2015): \"the model of connectivism learning consists of 4 steps including: (1) Aggregating, (2) Remix..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

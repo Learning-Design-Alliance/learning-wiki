@@ -3,7 +3,7 @@ type: claim
 title: Sophomore OnTrack rose from 61 to 85 percent and predicts graduation, but 30 percent of non-graduates were on-track as sophomores
 description: Sophomore OnTrack rose from 61 to 85 percent and predicts graduation, but 30 percent of non-graduates were on-track as sophomores
 id: sophomore-ontrack-predictive-but-limited
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

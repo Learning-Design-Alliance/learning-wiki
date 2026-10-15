@@ -3,7 +3,7 @@ type: claim
 title: "AI's direct impact on SRL concentrates on metacognitive and cognitive aspects while motivation remains underexplored"
 description: "AI's direct impact on SRL concentrates on metacognitive and cognitive aspects while motivation remains underexplored"
 id: ai-srl-impact-metacognitive-cognitive-motivation-underexplored
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

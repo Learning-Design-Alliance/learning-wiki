@@ -3,7 +3,7 @@ type: claim
 title: Teachers rated classroom observation scores as the most accurate REACH measure of teaching effectiveness and value-added measures as the least accurate
 description: Teachers rated classroom observation scores as the most accurate REACH measure of teaching effectiveness and value-added measures as the least accurate
 id: observation-scores-rated-most-accurate-vam-least
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

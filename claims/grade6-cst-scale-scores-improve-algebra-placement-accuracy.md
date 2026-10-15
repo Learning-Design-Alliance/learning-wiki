@@ -3,7 +3,7 @@ type: claim
 title: Using grade 6 math CST scale scores rather than proficiency status increases the accuracy of grade 8 algebra I placement decisions from 69 to 75 percent
 description: Using grade 6 math CST scale scores rather than proficiency status increases the accuracy of grade 8 algebra I placement decisions from 69 to 75 percent
 id: grade6-cst-scale-scores-improve-algebra-placement-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

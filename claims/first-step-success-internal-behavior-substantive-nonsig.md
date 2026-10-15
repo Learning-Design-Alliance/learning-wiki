@@ -3,7 +3,7 @@ type: claim
 title: First Step to Success shows potentially positive but not statistically significant effects on emotional/internal behavior (effect size 0.26)
 description: First Step to Success shows potentially positive but not statistically significant effects on emotional/internal behavior (effect size 0.26)
 id: first-step-success-internal-behavior-substantive-nonsig
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: "Vision-assisted extraction identified chart type in all sampled images but showed ±5–10% numeric estimation error and two failure modes correctable via mandatory review"
 description: "Vision-assisted extraction identified chart type in all sampled images but showed ±5–10% numeric estimation error and two failure modes correctable via mandatory review"
 id: llm-chart-extraction-accuracy-failure-modes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

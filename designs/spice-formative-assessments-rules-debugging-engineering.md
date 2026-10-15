@@ -3,7 +3,7 @@ type: design
 id: spice-formative-assessments-rules-debugging-engineering
 title: "SPICE curriculum formative assessments: Rules Task, Debugging Task, and Engineering Task with cross-domain rubrics"
 description: "SPICE (Science Projects Integrating Computing and Engineering) is \"a three-week middle school curriculum unit in which students redesign a schoolyard using surface materials that minimize post-rainstorm runoff while s..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

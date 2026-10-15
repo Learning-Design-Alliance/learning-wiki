@@ -3,7 +3,7 @@ type: claim
 title: "In a pedagogical space, epistemic injustice might be activated when teachers' identity prejudice leads them to give a student less credit, and the curriculum can block or enable students' understanding and expression of their social experiences"
 description: "In a pedagogical space, epistemic injustice might be activated when teachers' identity prejudice leads them to give a student less credit, and the curriculum can block or enable students' understanding and expression..."
 id: teacher-identity-prejudice-and-curriculum-can-enact-epistemic-injustice-toward-students
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

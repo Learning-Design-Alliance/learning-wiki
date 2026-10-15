@@ -3,7 +3,7 @@ type: claim
 title: Kindergarten follow-up shows statistically significant positive effects of Curiosity Corner on two print knowledge measures, not included in the effectiveness rating
 description: Kindergarten follow-up shows statistically significant positive effects of Curiosity Corner on two print knowledge measures, not included in the effectiveness rating
 id: curiosity-corner-kindergarten-followup-print-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

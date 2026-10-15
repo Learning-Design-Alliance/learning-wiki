@@ -3,7 +3,7 @@ type: claim
 title: CPS concentrated CCL resources in a subset of schools with numerous CTE programs of study
 description: CPS concentrated CCL resources in a subset of schools with numerous CTE programs of study
 id: ccl-resources-concentrated-in-strong-cte-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

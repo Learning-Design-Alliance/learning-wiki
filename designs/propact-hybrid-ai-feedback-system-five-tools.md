@@ -3,7 +3,7 @@ type: design
 id: propact-hybrid-ai-feedback-system-five-tools
 title: ProPACT Hybrid-AI feedback system with five feedback tools and hierarchical trigger policy
 description: "The feedback system is a Hybrid-AI framework that \"combines data-driven forecasting with rule-based pedagogical decision-making\"."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

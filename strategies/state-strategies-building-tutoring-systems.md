@@ -3,7 +3,7 @@ type: strategy
 id: state-strategies-building-tutoring-systems
 title: State education agencies build tutoring systems through guidance, workforce investment, professional development, vetted vendor hubs, and legislation
 description: "The brief enumerates seven state strategies for building intensive tutoring systems: \"Statewide investments in creating a tutoring workforce,\" research-based program guardrails, publicly available resources for distri..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

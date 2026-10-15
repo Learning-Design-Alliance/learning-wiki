@@ -3,7 +3,7 @@ type: claim
 title: Higher linguistic quality shows no consistent association with overestimation of conceptual understanding by AI-based scoring
 description: Higher linguistic quality shows no consistent association with overestimation of conceptual understanding by AI-based scoring
 id: no-consistent-linguistic-overestimation-ai-scoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

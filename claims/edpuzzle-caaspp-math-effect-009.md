@@ -3,7 +3,7 @@ type: claim
 title: Edpuzzle Original math videos raise grades 3–5 mathematics achievement on the CAASPP (effect size +0.09)
 description: Edpuzzle Original math videos raise grades 3–5 mathematics achievement on the CAASPP (effect size +0.09)
 id: edpuzzle-caaspp-math-effect-009
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

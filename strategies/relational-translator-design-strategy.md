@@ -3,7 +3,7 @@ type: strategy
 id: relational-translator-design-strategy
 title: Design AI systems as relational translators and adopt friction-preserving designs to buffer asymmetric risks
 description: "The article recommends buffering the risks of asymmetric AI bonds through the relational translator human-computer interaction framework, in which the system 'relies on contextual reconstruction to present multiple re..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

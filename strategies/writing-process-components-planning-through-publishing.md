@@ -3,7 +3,7 @@ type: strategy
 id: writing-process-components-planning-through-publishing
 title: Break the writing process into explicit components students move among flexibly
 description: "The guide recommends introducing students to the components of the writing process: planning, drafting, sharing, evaluating, revising, editing, and publishing, each defined by what the writer does (for example, planni..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

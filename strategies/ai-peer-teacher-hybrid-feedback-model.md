@@ -3,7 +3,7 @@ type: strategy
 id: ai-peer-teacher-hybrid-feedback-model
 title: Implement an AI-Peer-Teacher hybrid integrated feedback model staged across drafting, revision, and polishing phases
 description: "The article proposes a staged hybrid feedback workflow for L2 writing instruction: \"during the initial drafting phase, AI provides real-time standardized content logic guidance and basic error marking; in the in-depth..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

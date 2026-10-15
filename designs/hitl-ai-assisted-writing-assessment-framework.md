@@ -3,7 +3,7 @@ type: design
 id: hitl-ai-assisted-writing-assessment-framework
 title: Human-in-the-Loop AI-assisted evaluation framework for high-stakes writing assessment
 description: A decision-oriented operational framework integrating LLM-based scoring of the Writing section into a national exam workflow while keeping humans in charge of outcome-determining decisions.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

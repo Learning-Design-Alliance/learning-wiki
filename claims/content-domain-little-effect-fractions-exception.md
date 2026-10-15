@@ -3,7 +3,7 @@ type: claim
 title: Content domain shows little association with effect sizes, except fractions in mathematics
 description: Content domain shows little association with effect sizes, except fractions in mathematics
 id: content-domain-little-effect-fractions-exception
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

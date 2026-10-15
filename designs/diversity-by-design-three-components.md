@@ -3,7 +3,7 @@ type: design
 id: diversity-by-design-three-components
 title: Diversity by design schools combine innovative instructional models, transportation, and a controlled-choice lottery
 description: "The report describes San Antonio Independent School District's \"diversity by design\" schools, which enroll students from inside and outside district boundaries starting in preschool."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

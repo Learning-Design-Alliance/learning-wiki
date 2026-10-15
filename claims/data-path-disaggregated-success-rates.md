@@ -3,7 +3,7 @@ type: claim
 title: "In early online implementations of the Skyline Data Path course, Filipino students' success rates exceeded the course average while Latino students' fell below it"
 description: "In early online implementations of the Skyline Data Path course, Filipino students' success rates exceeded the course average while Latino students' fell below it"
 id: data-path-disaggregated-success-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

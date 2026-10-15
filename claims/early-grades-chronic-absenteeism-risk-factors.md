@@ -3,7 +3,7 @@ type: claim
 title: Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors
 description: Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors
 id: early-grades-chronic-absenteeism-risk-factors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

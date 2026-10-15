@@ -3,7 +3,7 @@ type: strategy
 id: offline-smoke-tests-live-hill-climbing
 title: Use offline evaluations as smoke tests and live experiments for hill climbing
 description: "The article recommends a three-step strategy for any hill-climbing change: \"(1) Conduct offline evals to make sure that the change is ok to show to users."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

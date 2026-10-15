@@ -3,7 +3,7 @@ type: claim
 title: Undecidable labels before discussion predict accuracy gains from AI agent discussions, but persistent undecidable labels after discussion signal smaller gains
 description: Undecidable labels before discussion predict accuracy gains from AI agent discussions, but persistent undecidable labels after discussion signal smaller gains
 id: claim-undecidable-labels-signal-discussion-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

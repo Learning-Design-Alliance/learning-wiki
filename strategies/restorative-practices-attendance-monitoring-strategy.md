@@ -3,7 +3,7 @@ type: strategy
 id: restorative-practices-attendance-monitoring-strategy
 title: Replace exclusionary discipline with restorative practices and implement data-driven attendance monitoring
 description: "This strategy pairs two recommendations the authors draw from their findings: adopting alternatives to exclusionary discipline and monitoring attendance data."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

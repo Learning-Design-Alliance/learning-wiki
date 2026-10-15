@@ -4,7 +4,7 @@ id: mindmatters-school-based-mental-health-promotion-programme
 title: MindMatters school-based mental health promotion programme
 description: MindMatters is a comprehensive whole-school mental-health and resilience promotion programme originally developed in Australia and implemented in Swiss schools by Radix.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

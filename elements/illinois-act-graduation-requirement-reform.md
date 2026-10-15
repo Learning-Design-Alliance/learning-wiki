@@ -3,7 +3,7 @@ type: element
 id: illinois-act-graduation-requirement-reform
 title: Illinois policy reform making the ACT a graduation requirement (identification strategy)
 description: "A policy reform in Illinois that \"made the ACT a graduation requirement,\" which the authors use to identify the within- and across-school selectivity of ACT takers."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

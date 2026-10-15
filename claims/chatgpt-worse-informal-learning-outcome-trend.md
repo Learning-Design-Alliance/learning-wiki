@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT users showed a non-significant trend toward worse overall informal learning outcomes than Google Search users over 8 days
 description: ChatGPT users showed a non-significant trend toward worse overall informal learning outcomes than Google Search users over 8 days
 id: chatgpt-worse-informal-learning-outcome-trend
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

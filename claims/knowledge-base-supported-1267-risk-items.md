@@ -3,7 +3,7 @@ type: claim
 title: The knowledge base supported downstream expert-level analysis, yielding 1,267 risk items across 81 categories and 14 domains
 description: The knowledge base supported downstream expert-level analysis, yielding 1,267 risk items across 81 categories and 14 domains
 id: knowledge-base-supported-1267-risk-items
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

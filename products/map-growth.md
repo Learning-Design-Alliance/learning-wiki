@@ -4,7 +4,7 @@ id: map-growth
 title: MAP Growth
 description: "MAP Growth is NWEA's computer-adaptive assessment system, with national achievement and growth norms and reporting tools such as the MAP Growth National Dashboard."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

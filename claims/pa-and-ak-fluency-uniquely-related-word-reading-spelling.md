@@ -3,7 +3,7 @@ type: claim
 title: Phonological awareness and alphabet knowledge fluency are each uniquely related to both word reading and spelling in kindergartners
 description: Phonological awareness and alphabet knowledge fluency are each uniquely related to both word reading and spelling in kindergartners
 id: pa-and-ak-fluency-uniquely-related-word-reading-spelling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

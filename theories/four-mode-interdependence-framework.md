@@ -2,7 +2,7 @@
 type: theory
 title: "Four-mode framework of interdependence: task, position-role, social, and skill interdependence"
 description: "The paper develops a conceptual framework defining interdependence as encompassing four distinct modes: task interdependence (interrelatedness of discrete operations), role or positional interdependence (normatively e..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: The WWC rated DreamBox Learning as having potentially positive effects on mathematics achievement with a small extent of evidence
 description: The WWC rated DreamBox Learning as having potentially positive effects on mathematics achievement with a small extent of evidence
 id: dreambox-potentially-positive-effects-small-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

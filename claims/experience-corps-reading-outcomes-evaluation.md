@@ -3,7 +3,7 @@ type: claim
 title: "A funded evaluation of Experience Corps effects on student reading outcomes was conducted by Washington University's Center for Social Development"
 description: "A funded evaluation of Experience Corps effects on student reading outcomes was conducted by Washington University's Center for Social Development"
 id: experience-corps-reading-outcomes-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

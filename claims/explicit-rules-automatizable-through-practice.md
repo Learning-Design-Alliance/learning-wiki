@@ -3,7 +3,7 @@ type: claim
 title: Explicitly learned L2 rules can be automatized through systematic practice after a metalinguistic criterion is reached
 description: Explicitly learned L2 rules can be automatized through systematic practice after a metalinguistic criterion is reached
 id: explicit-rules-automatizable-through-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

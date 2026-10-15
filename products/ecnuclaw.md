@@ -4,7 +4,7 @@ id: ecnuclaw
 title: ECNUClaw
 description: An open-source Python framework developed by Yizhou Zhou et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

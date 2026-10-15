@@ -3,7 +3,7 @@ type: claim
 title: "System reliability and latency acted as a prerequisite bottleneck: 56.4% of started solves completed, with a 32.0-second average latency and 68.5-second p90"
 description: "System reliability and latency acted as a prerequisite bottleneck: 56.4% of started solves completed, with a 32.0-second average latency and 68.5-second p90"
 id: solve-funnel-latency-bottleneck
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

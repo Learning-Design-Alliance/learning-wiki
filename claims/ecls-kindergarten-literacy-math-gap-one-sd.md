@@ -3,7 +3,7 @@ type: claim
 title: "Children from low-income families enter kindergarten one full standard deviation (15 standard score points) behind higher-income peers in literacy and mathematics (ECLS-K, attributed to Zill & West, 2001)"
 description: "Children from low-income families enter kindergarten one full standard deviation (15 standard score points) behind higher-income peers in literacy and mathematics (ECLS-K, attributed to Zill & West, 2001)"
 id: ecls-kindergarten-literacy-math-gap-one-sd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

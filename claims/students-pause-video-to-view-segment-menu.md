@@ -3,7 +3,7 @@ type: claim
 title: Students pause the video after a few sequences to consult a segment menu and judge workload by segment count
 description: Students pause the video after a few sequences to consult a segment menu and judge workload by segment count
 id: students-pause-video-to-view-segment-menu
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

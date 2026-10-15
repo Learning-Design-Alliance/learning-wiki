@@ -3,7 +3,7 @@ type: strategy
 id: metacognitive-interventions-adaptive-offloading
 title: Use metacognitive interventions to promote adaptive use of cognitive tools
 description: "The review's main practical conclusion is that because 'metacognitive processes play a key role in triggering' offloading, 'metacognitive interventions could play an important role in promoting the adaptive use of cog..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

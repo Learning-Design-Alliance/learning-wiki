@@ -3,7 +3,7 @@ type: strategy
 id: cbm-goal-line-decision-rules-iep
 title: Apply goal-line decision rules to CBM data to adjust IEP goals or revise instruction
 description: At tertiary prevention, standard decision rules guide whether to raise a goal or change instruction.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

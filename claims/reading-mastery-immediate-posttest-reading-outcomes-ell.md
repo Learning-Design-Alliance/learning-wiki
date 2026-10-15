@@ -3,7 +3,7 @@ type: claim
 title: Supplemental Reading Mastery instruction showed substantively important immediate effects on four of five reading measures for English language learners, none statistically significant
 description: Supplemental Reading Mastery instruction showed substantively important immediate effects on four of five reading measures for English language learners, none statistically significant
 id: reading-mastery-immediate-posttest-reading-outcomes-ell
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

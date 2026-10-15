@@ -3,7 +3,7 @@ type: strategy
 id: community-prompts-authentic-audience-360-film
 title: Use community-focused prompts and authentic audiences to make creative projects personally meaningful
 description: Program observations identified the challenge prompts (share what makes your community special, inspire action for positive change, or help people learn something new) and creating with a purpose about issues students...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

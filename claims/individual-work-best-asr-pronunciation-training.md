@@ -3,7 +3,7 @@ type: claim
 title: "Whether individual or peer practice works better with ASR-based pronunciation training is unsettled: one study found individual work best, a meta-analysis found peer practice gave larger effects"
 description: Individual work with an ASR-based CAPT program yielded the best pronunciation training results among individual, pair and group work conditions
 id: individual-work-best-asr-pronunciation-training
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

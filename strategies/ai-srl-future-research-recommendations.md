@@ -3,7 +3,7 @@ type: strategy
 id: ai-srl-future-research-recommendations
 title: Future AI-SRL research should broaden search strategies, include educators and younger learners, address motivation, and apply longitudinal designs
 description: "Based on identified gaps, the review recommends that future reviews use \"broader search strategies, such as keyword expansion or full-text searches, to provide a more inclusive representation of the literature\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

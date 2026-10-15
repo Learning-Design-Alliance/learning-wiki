@@ -4,7 +4,7 @@ id: dataset-of-484-de-identified-student-project-reports-with-instructor-reviews
 title: Dataset of 484 de-identified student project reports with instructor reviews collected over twelve semesters
 description: A publicly released research dataset created by Qinjin Jia et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: State assessment design decisions inevitably shape classroom instruction, often narrowing curriculum and teaching practices
 description: State assessment design decisions inevitably shape classroom instruction, often narrowing curriculum and teaching practices
 id: state-assessments-shape-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

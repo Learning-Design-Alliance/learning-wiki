@@ -3,7 +3,7 @@ type: claim
 title: Students in grades 3-8 made reading and math gains in 2020-21 but ended the year with lower achievement than in a typical year, with larger declines in math than in reading
 description: Students in grades 3-8 made reading and math gains in 2020-21 but ended the year with lower achievement than in a typical year, with larger declines in math than in reading
 id: covid-2020-21-lower-achievement-larger-math-declines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

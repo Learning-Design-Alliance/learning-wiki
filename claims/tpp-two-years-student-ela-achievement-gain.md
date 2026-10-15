@@ -3,7 +3,7 @@ type: claim
 title: "Two years of teacher participation in the Teacher Potential Project improved students' English language arts achievement by roughly 1.4 months of typical improvement"
 description: "Two years of teacher participation in the Teacher Potential Project improved students' English language arts achievement by roughly 1.4 months of typical improvement"
 id: tpp-two-years-student-ela-achievement-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

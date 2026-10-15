@@ -3,7 +3,7 @@ type: claim
 title: Innovation school students mostly do not deviate from citywide growth trends, with Denver innovation schools an outperforming exception
 description: Innovation school students mostly do not deviate from citywide growth trends, with Denver innovation schools an outperforming exception
 id: credo-cohort1-innovation-schools-citywide-trends-denver-exception
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

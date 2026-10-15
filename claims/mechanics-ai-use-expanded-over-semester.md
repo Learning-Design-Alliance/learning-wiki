@@ -3,7 +3,7 @@ type: claim
 title: "Student generative AI use expanded substantially within engineering mechanics coursework over the semester, from 37% to 51% using it at least weekly"
 description: "Student generative AI use expanded substantially within engineering mechanics coursework over the semester, from 37% to 51% using it at least weekly"
 id: mechanics-ai-use-expanded-over-semester
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: School offerings and placement practices limit opportunity for 8th-grade algebra access
 description: School offerings and placement practices limit opportunity for 8th-grade algebra access
 id: school-offerings-and-placement-practices-limit-algebra-opportunity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

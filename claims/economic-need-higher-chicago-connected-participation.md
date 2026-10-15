@@ -3,7 +3,7 @@ type: claim
 title: Students with greater economic need participated at higher rates in Chicago Connected
 description: Students with greater economic need participated at higher rates in Chicago Connected
 id: economic-need-higher-chicago-connected-participation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

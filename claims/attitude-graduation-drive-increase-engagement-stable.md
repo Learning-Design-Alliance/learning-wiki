@@ -3,7 +3,7 @@ type: claim
 title: Revision-driven increases in appraisal resources are driven by Attitude and Graduation, while Engagement frequency remains stable across draft types
 description: Revision-driven increases in appraisal resources are driven by Attitude and Graduation, while Engagement frequency remains stable across draft types
 id: attitude-graduation-drive-increase-engagement-stable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

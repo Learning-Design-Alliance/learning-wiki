@@ -3,7 +3,7 @@ type: claim
 title: Providing both a simple and a complex example facilitates transfer better than a single example or an example plus procedures
 description: Providing both a simple and a complex example facilitates transfer better than a single example or an example plus procedures
 id: multiple-examples-per-problem-type
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

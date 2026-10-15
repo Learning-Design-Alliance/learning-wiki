@@ -3,7 +3,7 @@ type: claim
 title: Perceived independence did not mediate a significant indirect effect of layered AI feedback on learning performance
 description: "Perceived independence did not mediate a significant indirect effect of layered AI feedback on learning performance"
 id: positive-affective-path-encouragement-mediation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

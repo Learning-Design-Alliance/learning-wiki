@@ -3,7 +3,7 @@ type: claim
 title: "AI serves two complementary roles in learning: cognitive partner and personalized recommendation mechanism"
 description: "AI serves two complementary roles in learning: cognitive partner and personalized recommendation mechanism"
 id: ai-dual-roles-cognitive-partner-recommender
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

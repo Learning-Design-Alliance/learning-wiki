@@ -3,7 +3,7 @@ type: claim
 title: Within-session help-seeking development predicts unaided post-test performance beyond pre-test performance and static AI-use features
 description: Within-session help-seeking development predicts unaided post-test performance beyond pre-test performance and static AI-use features
 id: hs-trajectory-predicts-unaided-posttest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

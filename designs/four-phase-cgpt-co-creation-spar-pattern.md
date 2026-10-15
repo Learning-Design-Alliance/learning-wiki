@@ -3,7 +3,7 @@ type: design
 id: four-phase-cgpt-co-creation-spar-pattern
 title: Four-phase iterative cGPT co-creation process with SPAR reflective logging
 description: "The article describes a reusable co-creation pattern with four construction phases: Creation (writing the system prompt and selecting knowledge-base files), Refinement (iterative testing, prompt editing, and SPAR refl..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-13

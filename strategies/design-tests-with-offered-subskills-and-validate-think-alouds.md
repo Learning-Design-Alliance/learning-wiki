@@ -3,7 +3,7 @@ type: strategy
 id: design-tests-with-offered-subskills-and-validate-think-alouds
 title: Design RC and LC tests with the offered subskills and validate them with think-aloud protocols and interviews
 description: As a follow-up direction, the article recommends designing reading and listening comprehension tests using the offered subskills, then observing students while they answer questions on the measured subskills.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

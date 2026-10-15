@@ -3,7 +3,7 @@ type: claim
 title: Eliminating inequities in both teacher mobility and hiring would close teacher quality gaps within 5 years in simulations
 description: Eliminating inequities in both teacher mobility and hiring would close teacher quality gaps within 5 years in simulations
 id: mobility-hiring-equity-closes-tqgs-5-years
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

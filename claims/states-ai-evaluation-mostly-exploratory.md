@@ -3,7 +3,7 @@ type: claim
 title: "Most states' AI evaluation guidance is exploratory, and only a handful describe systematic, student outcomes-based evaluation"
 description: "Most states' AI evaluation guidance is exploratory, and only a handful describe systematic, student outcomes-based evaluation"
 id: states-ai-evaluation-mostly-exploratory
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

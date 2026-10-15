@@ -3,7 +3,7 @@ type: principle
 id: establish-meaningful-communication-before-correction
 title: Establish meaningful communication first, then layer in focus on form gradually
 description: "Because dialogue journals' value rests on authentic interaction, the article recommends laying the groundwork for meaningful communication at the outset, which may mean withholding grammar correction initially."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

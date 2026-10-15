@@ -3,7 +3,7 @@ type: claim
 title: Reading Recovery shows uncertain effects on general academic achievement ten years after the intervention
 description: Reading Recovery shows uncertain effects on general academic achievement ten years after the intervention
 id: reading-recovery-uncertain-longterm-academic-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: The lifetime fiscal loss per Arizona high school dropout is $135,730 across all levels of government, or $2.5 billion per cohort
 description: The lifetime fiscal loss per Arizona high school dropout is $135,730 across all levels of government, or $2.5 billion per cohort
 id: arizona-dropout-fiscal-loss-135730
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

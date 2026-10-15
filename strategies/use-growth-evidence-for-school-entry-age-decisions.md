@@ -3,7 +3,7 @@ type: strategy
 id: use-growth-evidence-for-school-entry-age-decisions
 title: Use early-grades growth evidence when advising families about delaying kindergarten entry
 description: The brief situates its findings for educators and families weighing school entry age, noting that an early advantage of entering older may fade in later grades.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

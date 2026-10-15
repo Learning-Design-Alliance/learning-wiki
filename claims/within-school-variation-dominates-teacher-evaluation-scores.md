@@ -3,7 +3,7 @@ type: claim
 title: Most variation in teacher evaluation scores is within schools rather than between schools
 description: Most variation in teacher evaluation scores is within schools rather than between schools
 id: within-school-variation-dominates-teacher-evaluation-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

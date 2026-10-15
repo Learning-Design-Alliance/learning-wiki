@@ -4,7 +4,7 @@ id: child-directed-speech
 title: Child-Directed Speech
 description: Child-directed speech — exaggerated pitch, careful articulation, and simplified structure used when speaking with infants and toddlers — increases infant attention and supports early phoneme discrimination.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

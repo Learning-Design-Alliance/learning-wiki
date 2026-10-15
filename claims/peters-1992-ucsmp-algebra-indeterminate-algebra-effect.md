@@ -3,7 +3,7 @@ type: claim
 title: Peters (1992) found no statistically significant difference between UCSMP Algebra and Saxon Algebra I on the algebra domain
 description: Peters (1992) found no statistically significant difference between UCSMP Algebra and Saxon Algebra I on the algebra domain
 id: peters-1992-ucsmp-algebra-indeterminate-algebra-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

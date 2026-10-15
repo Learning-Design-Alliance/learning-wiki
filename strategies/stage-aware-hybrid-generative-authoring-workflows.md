@@ -3,7 +3,7 @@ type: strategy
 id: stage-aware-hybrid-generative-authoring-workflows
 title: Design generative educational tools for stage-aware, hybrid authoring workflows combining automation with direct manipulation
 description: The article recommends that generative educational tools support multiple forms of control aligned to authoring stages rather than optimizing for a single paradigm.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

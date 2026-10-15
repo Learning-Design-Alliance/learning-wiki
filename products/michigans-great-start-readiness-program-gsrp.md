@@ -4,7 +4,7 @@ id: michigans-great-start-readiness-program-gsrp
 title: "Michigan's Great Start Readiness Program (GSRP)"
 description: A state-funded preschool programme operated by Michigan for four-year-old children with factors placing them at risk of educational failure, using specified quality standards, staffing requirements, and research-validated curricula.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

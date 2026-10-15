@@ -3,7 +3,7 @@ type: claim
 title: Mindfulness interventions delivered during late adolescence (15–18) show the largest effects on youth mental health and well-being outcomes
 description: Mindfulness interventions delivered during late adolescence (15–18) show the largest effects on youth mental health and well-being outcomes
 id: mindfulness-late-adolescence-largest-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

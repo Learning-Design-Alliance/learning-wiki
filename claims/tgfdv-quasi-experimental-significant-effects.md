@@ -3,7 +3,7 @@ type: claim
 title: In a quasi-experimental study, Too Good for Drugs and Violence produced statistically significant effects on attitudes toward violence, emotional competence, social and resistance skills, and goals and decisionmaking
 description: In a quasi-experimental study, Too Good for Drugs and Violence produced statistically significant effects on attitudes toward violence, emotional competence, social and resistance skills, and goals and decisionmaking
 id: tgfdv-quasi-experimental-significant-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

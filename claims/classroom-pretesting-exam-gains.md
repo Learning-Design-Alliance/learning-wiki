@@ -3,7 +3,7 @@ type: claim
 title: "Classroom pretesting improves high-stakes exam performance on pretested content by 8–9% over a multi-week course"
 description: "Classroom pretesting improves high-stakes exam performance on pretested content by 8–9% over a multi-week course"
 id: classroom-pretesting-exam-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

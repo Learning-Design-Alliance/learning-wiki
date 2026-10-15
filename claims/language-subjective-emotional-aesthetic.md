@@ -3,7 +3,7 @@ type: claim
 title: Language must also be subjective, emotional, inspirational, and aesthetic, so teachers should employ both the method of fact and the method of imagination
 description: Language must also be subjective, emotional, inspirational, and aesthetic, so teachers should employ both the method of fact and the method of imagination
 id: language-subjective-emotional-aesthetic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

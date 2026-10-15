@@ -3,7 +3,7 @@ type: strategy
 id: two-pass-llm-validation-grading-workflow
 title: Two-pass LLM validation with solution-key comparison and focused manual review of divergent pages
 description: "After scripts are scanned, each relevant table is cropped and processed in two parallel LLM requests: one with the correct solution to check whether expected letters appear, and one without the solution to extract ent..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

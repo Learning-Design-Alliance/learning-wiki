@@ -3,7 +3,7 @@ type: claim
 title: "Without clear expectations and support from district leaders, coaches might not devote sufficient time to the full range of coaching activities needed to improve teachers' instruction"
 description: "Without clear expectations and support from district leaders, coaches might not devote sufficient time to the full range of coaching activities needed to improve teachers' instruction"
 id: coaches-need-district-expectations-full-activities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

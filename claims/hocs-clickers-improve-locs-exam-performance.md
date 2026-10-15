@@ -3,7 +3,7 @@ type: claim
 title: HOCS clicker questions during learning improve performance on LOCS exam questions more than LOCS clicker questions do
 description: HOCS clicker questions during learning improve performance on LOCS exam questions more than LOCS clicker questions do
 id: hocs-clickers-improve-locs-exam-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

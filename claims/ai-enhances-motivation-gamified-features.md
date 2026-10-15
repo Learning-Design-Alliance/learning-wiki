@@ -3,7 +3,7 @@ type: claim
 title: "Gamified design and interactive AI features sustain learners' motivation for oral practice (Motivational Propensity Pathway)"
 description: "Gamified design and interactive AI features sustain learners' motivation for oral practice (Motivational Propensity Pathway)"
 id: ai-enhances-motivation-gamified-features
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Educators use AI tools mainly for personalized learning and language support and frequently use generative AI for lesson planning
 description: Educators use AI tools mainly for personalized learning and language support and frequently use generative AI for lesson planning
 id: educators-ai-use-personalization-lesson-planning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

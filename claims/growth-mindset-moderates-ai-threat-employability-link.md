@@ -3,7 +3,7 @@ type: claim
 title: Growth mindset moderates the negative effect of AI employment threat perception on perceived employability, weakening it at higher mindset levels
 description: Growth mindset moderates the negative effect of AI employment threat perception on perceived employability, weakening it at higher mindset levels
 id: growth-mindset-moderates-ai-threat-employability-link
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

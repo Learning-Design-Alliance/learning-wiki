@@ -3,7 +3,7 @@ type: claim
 title: Latinx, Black, and Asian students participated at higher rates than White peers; household size explained Latinx, Black, and Asian differences
 description: Latinx, Black, and Asian students participated at higher rates than White peers; household size explained Latinx, Black, and Asian differences
 id: race-ethnicity-participation-differences-chicago-connected
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

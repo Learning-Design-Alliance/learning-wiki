@@ -3,7 +3,7 @@ type: claim
 title: "Participation rates remained low: 1 percent for Title I public school choice and 17 percent for supplemental educational services"
 description: "Participation rates remained low: 1 percent for Title I public school choice and 17 percent for supplemental educational services"
 id: title-i-choice-ses-low-participation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: element
 id: dddm-annotated-bibliography
 title: Annotated bibliography of data-use literature informing the framework
 description: The report includes an annotated bibliography of the literature used to inform the DDDM framework.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

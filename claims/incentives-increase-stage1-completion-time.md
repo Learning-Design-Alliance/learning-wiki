@@ -3,7 +3,7 @@ type: claim
 title: Performance incentives increase time invested in the assisted reasoning task
 description: Performance incentives increase time invested in the assisted reasoning task
 id: incentives-increase-stage1-completion-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: A large randomized trial found no statistically significant effects of Project CRISS® on standardized grade 5 comprehension measures (James-Burdumy et al., 2009)
 description: A large randomized trial found no statistically significant effects of Project CRISS® on standardized grade 5 comprehension measures (James-Burdumy et al., 2009)
 id: project-criss-null-effects-grade5-randomized-trial
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

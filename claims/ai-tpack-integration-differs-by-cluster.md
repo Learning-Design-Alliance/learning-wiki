@@ -3,7 +3,7 @@ type: claim
 title: "AI-TPACK integration quality differs across behavioral clusters: Optimizers achieve cohesive systemic designs, Creators show pragmatic enhancement, Observers show unstable integration"
 description: "AI-TPACK integration quality differs across behavioral clusters: Optimizers achieve cohesive systemic designs, Creators show pragmatic enhancement, Observers show unstable integration"
 id: ai-tpack-integration-differs-by-cluster
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

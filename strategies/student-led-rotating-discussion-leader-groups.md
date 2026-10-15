@@ -3,7 +3,7 @@ type: strategy
 id: student-led-rotating-discussion-leader-groups
 title: Implement student-led weekly discussion groups in which rotating leaders choose topics, facilitate discussion, and post summaries, unmediated by teaching staff
 description: "In the redesigned unit, discussion groups of about 10 students met weekly; each week a nominated leader \"explored relevant literature, posed questions for the group to explore, and provided their own initial response\"..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

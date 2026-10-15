@@ -3,7 +3,7 @@ type: design
 id: same-faculty-cohort-pairing
 title: Same-faculty cohort pairing of college-level and corequisite courses
 description: All six implementing institutions delivered the paired courses as a cohort, with one instructor teaching both the college-level and the developmental-level course to the same group of students.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

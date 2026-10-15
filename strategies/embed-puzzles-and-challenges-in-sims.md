@@ -3,7 +3,7 @@ type: strategy
 id: embed-puzzles-and-challenges-in-sims
 title: Embed puzzles and challenges in simulations for continued engagement and self-assessment
 description: To sustain engagement after initial exploration, the article recommends designing conceptual puzzles and challenges into sims — implicit goals such as making sense of a behavior or representation, or explicit question...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

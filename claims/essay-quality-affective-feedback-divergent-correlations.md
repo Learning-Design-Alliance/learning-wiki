@@ -3,7 +3,7 @@ type: claim
 title: Essay quality correlates positively with the affective feature of ChatGPT feedback and negatively with the affective feature of peer feedback
 description: Essay quality correlates positively with the affective feature of ChatGPT feedback and negatively with the affective feature of peer feedback
 id: essay-quality-affective-feedback-divergent-correlations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

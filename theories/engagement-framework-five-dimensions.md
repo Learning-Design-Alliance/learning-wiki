@@ -2,7 +2,7 @@
 type: theory
 title: "Engagement Framework: five distinct yet interrelated, non-hierarchical dimensions of student engagement"
 description: "The Engagement Framework addresses how students engage, offering \"five distinctive, non-hierarchical dimensions of engagement that are fundamental to students’ success at university\": personal, academic, intellectual,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

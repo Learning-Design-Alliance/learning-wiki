@@ -3,7 +3,7 @@ type: claim
 title: "Students objected to the instructor's visible AI delegation even though AI scores never counted toward grades, so decoupling the stakes did not decouple the resentment"
 description: "Students objected to the instructor's visible AI delegation even though AI scores never counted toward grades, so decoupling the stakes did not decouple the resentment"
 id: student-objection-visible-instructor-ai-delegation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

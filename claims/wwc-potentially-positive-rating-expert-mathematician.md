@@ -3,7 +3,7 @@ type: claim
 title: The WWC rates The Expert Mathematician as having potentially positive effects on middle school mathematics achievement
 description: The WWC rates The Expert Mathematician as having potentially positive effects on middle school mathematics achievement
 id: wwc-potentially-positive-rating-expert-mathematician
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

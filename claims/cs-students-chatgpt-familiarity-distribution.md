@@ -3,7 +3,7 @@ type: claim
 title: Familiarity with ChatGPT among MSc computer science students is spread across levels, with about one-fifth not familiar at all
 description: Familiarity with ChatGPT among MSc computer science students is spread across levels, with about one-fifth not familiar at all
 id: cs-students-chatgpt-familiarity-distribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

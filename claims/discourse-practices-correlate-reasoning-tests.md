@@ -3,7 +3,7 @@ type: claim
 title: Productive discourse practices correlate with improved performance on standardized tests of reasoning
 description: Productive discourse practices correlate with improved performance on standardized tests of reasoning
 id: discourse-practices-correlate-reasoning-tests
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

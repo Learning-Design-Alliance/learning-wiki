@@ -3,7 +3,7 @@ type: claim
 title: DaisyQuest improved phonological awareness over regular kindergarten curriculum on three of four measures
 description: DaisyQuest improved phonological awareness over regular kindergarten curriculum on three of four measures
 id: daisyquest-kindergarten-significant-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

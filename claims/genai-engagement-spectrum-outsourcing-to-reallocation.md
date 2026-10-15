@@ -3,7 +3,7 @@ type: claim
 title: Student engagement with generative AI in unsupervised assessments forms a spectrum bounded by cognitive outsourcing and cognitive reallocation
 description: Student engagement with generative AI in unsupervised assessments forms a spectrum bounded by cognitive outsourcing and cognitive reallocation
 id: genai-engagement-spectrum-outsourcing-to-reallocation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

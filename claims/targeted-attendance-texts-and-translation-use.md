@@ -3,7 +3,7 @@ type: claim
 title: Nearly all attendance-related text-messaging events were targeted to specific students or subgroups, and nearly a third were sent in a language other than English, mostly Spanish
 description: Nearly all attendance-related text-messaging events were targeted to specific students or subgroups, and nearly a third were sent in a language other than English, mostly Spanish
 id: targeted-attendance-texts-and-translation-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

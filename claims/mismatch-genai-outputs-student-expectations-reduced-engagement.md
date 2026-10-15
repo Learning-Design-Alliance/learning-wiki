@@ -3,7 +3,7 @@ type: claim
 title: Reduced engagement with GenAI feedback functionalities was attributed to a mismatch between GenAI outputs and student expectations
 description: Reduced engagement with GenAI feedback functionalities was attributed to a mismatch between GenAI outputs and student expectations
 id: mismatch-genai-outputs-student-expectations-reduced-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

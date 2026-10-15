@@ -3,7 +3,7 @@ type: claim
 title: Cross-sector leadership programs were widely viewed as the most successful collaboration grant activities, while limited grant time period and scope and lack of goal clarity hindered implementation
 description: Cross-sector leadership programs were widely viewed as the most successful collaboration grant activities, while limited grant time period and scope and lack of goal clarity hindered implementation
 id: leadership-programs-most-successful-grant-activities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

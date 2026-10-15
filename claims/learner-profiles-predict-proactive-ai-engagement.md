@@ -3,7 +3,7 @@ type: claim
 title: Students from higher-ranked universities and with stronger prior knowledge are more likely to adopt proactive and critical AI engagement
 description: Students from higher-ranked universities and with stronger prior knowledge are more likely to adopt proactive and critical AI engagement
 id: learner-profiles-predict-proactive-ai-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

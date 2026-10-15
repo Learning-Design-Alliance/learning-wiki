@@ -3,7 +3,7 @@ type: claim
 title: LLMs are more intrusive and more consistent than humans, eager to view neutral discussions as opportunities for positive reinforcement
 description: LLMs are more intrusive and more consistent than humans, eager to view neutral discussions as opportunities for positive reinforcement
 id: llms-over-intervene-positive-reinforcement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

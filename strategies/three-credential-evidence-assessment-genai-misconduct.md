@@ -3,7 +3,7 @@ type: strategy
 id: three-credential-evidence-assessment-genai-misconduct
 title: Assess GenAI misconduct evidence against three probative credentials — relevance, credibility and inferential force — before imposing sanctions
 description: "The study adapts a legal-scholarship evidence credentials framework for institutional misconduct decision-making, evaluating each discrete evidence item on \"relevance (whether it matters to the question at issue), cre..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

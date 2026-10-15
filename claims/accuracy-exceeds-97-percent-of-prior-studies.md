@@ -3,7 +3,7 @@ type: claim
 title: "The models' classification accuracy exceeds that of 97 percent of prior studies predicting high school completion"
 description: "The models' classification accuracy exceeds that of 97 percent of prior studies predicting high school completion"
 id: accuracy-exceeds-97-percent-of-prior-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

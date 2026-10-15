@@ -3,7 +3,7 @@ type: claim
 title: "In 2021–22, 99.7% of Texas teacher hires replaced teachers who had left the prior year, making attrition the dominant driver of demand"
 description: "In 2021–22, 99.7% of Texas teacher hires replaced teachers who had left the prior year, making attrition the dominant driver of demand"
 id: texas-attrition-drives-99-7-percent-of-hires
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

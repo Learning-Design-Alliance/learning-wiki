@@ -3,7 +3,7 @@ type: claim
 title: Underlying all AI risks in education is that generative AI behavior is difficult to explain, inspect, or predict due to its statistical mechanisms
 description: Underlying all AI risks in education is that generative AI behavior is difficult to explain, inspect, or predict due to its statistical mechanisms
 id: generative-ai-behavior-hard-to-explain-inspect-predict
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

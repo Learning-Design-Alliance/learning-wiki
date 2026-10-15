@@ -3,7 +3,7 @@ type: claim
 title: Using generative AI as a dialogic partner for brainstorming, feedback, and co-construction can support constructive and interactive learning
 description: Using generative AI as a dialogic partner for brainstorming, feedback, and co-construction can support constructive and interactive learning
 id: ai-dialogic-partner-constructive-interactive-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

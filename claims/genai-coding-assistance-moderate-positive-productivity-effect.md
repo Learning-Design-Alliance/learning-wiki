@@ -3,7 +3,7 @@ type: claim
 title: GenAI coding assistance produces a statistically significant moderate positive effect on developer productivity (g = 0.33), with substantial heterogeneity across settings.
 description: GenAI coding assistance produces a statistically significant moderate positive effect on developer productivity (g = 0.33), with substantial heterogeneity across settings.
 id: genai-coding-assistance-moderate-positive-productivity-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

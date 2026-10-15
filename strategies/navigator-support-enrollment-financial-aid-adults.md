@@ -3,7 +3,7 @@ type: strategy
 id: navigator-support-enrollment-financial-aid-adults
 title: Provide navigator support through enrollment and financial aid, plus continued support after enrollment
 description: "A concrete high-touch recipe drawn from Adult Promise states: assign navigators who guide adult learners step by step through the enrollment and financial aid process, and keep support in place after the learner engag..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

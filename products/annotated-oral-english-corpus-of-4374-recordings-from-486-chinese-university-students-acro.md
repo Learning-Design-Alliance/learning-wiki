@@ -4,7 +4,7 @@ id: annotated-oral-english-corpus-of-4374-recordings-from-486-chinese-university
 title: Annotated oral English corpus of 4,374 recordings from 486 Chinese university students across five diagnostic dimensions
 description: A corpus created by Chai Rui containing 4,374 recorded oral-English performances from 486 Chinese university students, scored by trained evaluators across five diagnostic dimensions for model training and evaluation.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

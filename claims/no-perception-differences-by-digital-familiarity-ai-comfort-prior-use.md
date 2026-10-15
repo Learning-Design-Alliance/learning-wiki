@@ -3,7 +3,7 @@ type: claim
 title: Student perceptions of LLM influence on collaboration and creativity do not differ significantly by digital familiarity, AI comfort, or prior AI use
 description: Student perceptions of LLM influence on collaboration and creativity do not differ significantly by digital familiarity, AI comfort, or prior AI use
 id: no-perception-differences-by-digital-familiarity-ai-comfort-prior-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

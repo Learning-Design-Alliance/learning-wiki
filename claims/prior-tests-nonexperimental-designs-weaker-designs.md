@@ -3,7 +3,7 @@ type: claim
 title: Most prior studies testing nonexperimental designs find they fail to produce unbiased estimates, but those studies examined weaker evaluation designs
 description: Most prior studies testing nonexperimental designs find they fail to produce unbiased estimates, but those studies examined weaker evaluation designs
 id: prior-tests-nonexperimental-designs-weaker-designs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

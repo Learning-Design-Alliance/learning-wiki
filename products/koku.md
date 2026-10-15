@@ -4,7 +4,7 @@ id: koku
 title: KOKU
 description: An NHS-approved tablet-delivered falls-prevention programme co-developed with older adults and falls-prevention experts, combining progressive strength-and-balance exercises with eCoach guidance, safety information, reminders, progress tracking, and health-literacy games for older adults.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

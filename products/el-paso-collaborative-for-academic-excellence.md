@@ -4,7 +4,7 @@ id: el-paso-collaborative-for-academic-excellence
 title: El Paso Collaborative for Academic Excellence
 description: A University of Texas at El Paso and El Paso-area school-district initiative that combined standards, intensive teacher professional development, coaching, and teacher-preparation changes to improve K–college achievement.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

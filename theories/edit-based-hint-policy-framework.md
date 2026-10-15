@@ -2,7 +2,7 @@
 type: theory
 title: Mathematical framework of edit-based hint policies
 description: "The article provides \"precise definitions of key concepts in the field of edit-based hint policies and integrate them into a mathematical framework\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

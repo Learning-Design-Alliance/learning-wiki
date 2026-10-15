@@ -3,7 +3,7 @@ type: strategy
 id: peer-feedback-against-success-criteria
 title: "Peer feedback against success criteria: students locate where peers are in their learning and give actionable clues, hints, suggestions, or wonderings"
 description: "The brief defines peer feedback as \"the practice of students analyzing evidence of learning (what another student says, does, makes, or writes) in relation to an interpretive framework, i.e., the success criteria, and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

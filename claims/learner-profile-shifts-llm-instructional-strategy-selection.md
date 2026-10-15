@@ -3,7 +3,7 @@ type: claim
 title: "Providing a learner profile shifts an LLM's selected instructional strategies from content-focused to learner-centered"
 description: "Providing a learner profile shifts an LLM's selected instructional strategies from content-focused to learner-centered"
 id: learner-profile-shifts-llm-instructional-strategy-selection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

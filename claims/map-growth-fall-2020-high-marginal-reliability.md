@@ -3,7 +3,7 @@ type: claim
 title: Fall 2020 MAP Growth tests showed high levels of marginal reliability across all grades in both remote and in-person administration
 description: Fall 2020 MAP Growth tests showed high levels of marginal reliability across all grades in both remote and in-person administration
 id: map-growth-fall-2020-high-marginal-reliability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: More than half of surveyed LEAs employ dedicated family liaisons who bridge schools and multilingual families
 description: More than half of surveyed LEAs employ dedicated family liaisons who bridge schools and multilingual families
 id: sv-leas-family-liaisons-bridge-multilingual-families
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

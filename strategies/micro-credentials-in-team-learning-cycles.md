@@ -3,7 +3,7 @@ type: strategy
 id: micro-credentials-in-team-learning-cycles
 title: Integrate individual micro-credential learning into collaborative team learning cycles
 description: Under the Learning Communities standard, the report recommends that educators, teams, and issuers deliberately connect individually earned micro-credentials to collective goals.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests
 description: Meta-analyses of corrective-feedback studies find a significant effect of correcting learners' L2 errors on target-language development, still present at delayed posttests.
 id: corrective-feedback-effect-on-l2-development-is-significant-and-durable
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-30

@@ -3,7 +3,7 @@ type: claim
 id: fading-and-principle-prompts-improve-probability-transfer
 title: "Backward fading and principle prompts supported transfer in probability learning"
 description: "Backward fading and principle prompts supported transfer in probability learning"
-status: draft
+status: review
 evidence_strength: moderate
 generated:
   by: codex/unspecified

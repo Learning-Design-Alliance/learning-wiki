@@ -3,7 +3,7 @@ type: claim
 title: "Small input perturbations such as minor spelling errors can reduce state-of-the-art dialogue and assessment model accuracy by over 30%"
 description: "Small input perturbations such as minor spelling errors can reduce state-of-the-art dialogue and assessment model accuracy by over 30%"
 id: its-dialogue-models-brittleness-perturbations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

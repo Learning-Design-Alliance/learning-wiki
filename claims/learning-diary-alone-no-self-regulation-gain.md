@@ -3,7 +3,7 @@ type: claim
 title: "Keeping a structured learning diary without further intervention did not improve university students' self-regulation"
 description: "Keeping a structured learning diary without further intervention did not improve university students' self-regulation"
 id: learning-diary-alone-no-self-regulation-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

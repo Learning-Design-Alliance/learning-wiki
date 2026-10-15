@@ -3,7 +3,7 @@ type: claim
 title: "CPS students with an IEP related to a learning disability graduated at a rate approaching the district average, while students with an IEP related to another disability graduated at 54.7%"
 description: "CPS students with an IEP related to a learning disability graduated at a rate approaching the district average, while students with an IEP related to another disability graduated at 54.7%"
 id: cps-graduation-disability-status
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

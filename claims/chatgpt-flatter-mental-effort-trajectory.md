@@ -3,7 +3,7 @@ type: claim
 title: Self-reported mental effort increased less across tasks in the ChatGPT condition while perceived difficulty rose equally in both groups
 description: Self-reported mental effort increased less across tasks in the ChatGPT condition while perceived difficulty rose equally in both groups
 id: chatgpt-flatter-mental-effort-trajectory
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

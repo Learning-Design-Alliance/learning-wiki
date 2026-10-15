@@ -3,7 +3,7 @@ type: claim
 title: "Graduation rates differed by timing of English proficiency: 60 percent for middle-grades proficiency versus 68 percent for pre-sixth-grade proficiency"
 description: "Graduation rates differed by timing of English proficiency: 60 percent for middle-grades proficiency versus 68 percent for pre-sixth-grade proficiency"
 id: proficiency-timing-graduation-rates-60-68
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

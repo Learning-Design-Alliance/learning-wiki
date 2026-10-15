@@ -3,7 +3,7 @@ type: claim
 title: ESL students using a spaced L2 vocabulary acquisition strategy with monthly incidental listening outperformed comparison students on the End-of-Experiment test
 description: ESL students using a spaced L2 vocabulary acquisition strategy with monthly incidental listening outperformed comparison students on the End-of-Experiment test
 id: svas-spaced-listening-outperforms-comparison-end-of-experiment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Edpuzzle qualifies for a Promising evidence rating based on one school-level randomized study
 description: Edpuzzle qualifies for a Promising evidence rating based on one school-level randomized study
 id: edpuzzle-promising-evidence-rating
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

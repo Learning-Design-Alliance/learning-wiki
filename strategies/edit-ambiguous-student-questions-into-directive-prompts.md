@@ -3,7 +3,7 @@ type: strategy
 id: edit-ambiguous-student-questions-into-directive-prompts
 title: Edit ambiguous student questions into clear, directive prompts before posing them to ChatGPT
 description: When student questions were posed to ChatGPT in raw form, some were unclear or lacked context, so the prompts were made clear and directive before evaluation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

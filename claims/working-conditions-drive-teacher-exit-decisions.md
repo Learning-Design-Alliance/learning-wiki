@@ -3,7 +3,7 @@ type: claim
 title: "Working conditions, especially accountability pressures and administrative support, shape teachers' decisions to leave or stay"
 description: "Working conditions, especially accountability pressures and administrative support, shape teachers' decisions to leave or stay"
 id: working-conditions-drive-teacher-exit-decisions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

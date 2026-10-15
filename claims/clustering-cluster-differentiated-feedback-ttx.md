@@ -3,7 +3,7 @@ type: claim
 title: Clustering yields a small number of behaviorally distinct team clusters that instructors can use for cluster-differentiated feedback
 description: Clustering yields a small number of behaviorally distinct team clusters that instructors can use for cluster-differentiated feedback
 id: clustering-cluster-differentiated-feedback-ttx
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

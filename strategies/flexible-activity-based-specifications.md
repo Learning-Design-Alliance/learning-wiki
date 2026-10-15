@@ -3,7 +3,7 @@ type: strategy
 id: flexible-activity-based-specifications
 title: Draft flexible educational specifications stating activities and needs rather than fixed dimensions
 description: The paper recommends that educators give architects specifications describing intended activities and program needs rather than prescribing shapes and dimensions, so the architect retains autonomy and can modify speci...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

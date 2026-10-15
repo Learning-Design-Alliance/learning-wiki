@@ -3,7 +3,7 @@ type: element
 id: didactic-mathematical-tasks-teacher-education
 title: Didactic-mathematical tasks as a teacher-education element situating pre-service teachers in professional activity
 description: Didactic-mathematical tasks combine a professional activity of secondary teachers (e.g.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

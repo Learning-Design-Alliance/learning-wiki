@@ -3,7 +3,7 @@ type: claim
 title: "TECTA credential attainment concentrated below the bachelor's level, with only 1.8% of participants completing a bachelor's degree or higher"
 description: "TECTA credential attainment concentrated below the bachelor's level, with only 1.8% of participants completing a bachelor's degree or higher"
 id: tecta-credential-attainment-concentrated-below-bachelors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

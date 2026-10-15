@@ -3,7 +3,7 @@ type: strategy
 id: early-proportional-thinking-for-ratio-preparation
 title: "Build on children's informal proportional understandings to prepare for ratio and proportion"
 description: "Beyond sharing and dividing, the presentation reports that researchers and mathematics educators suggest building on children's informal understandings of proportional relationships."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

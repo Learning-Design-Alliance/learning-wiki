@@ -3,7 +3,7 @@ type: claim
 title: "Dual-Lens attention aligns with expert pedagogical focus, allocating most weight to Bloom's taxonomy verbs and problem-solving steps"
 description: "Dual-Lens attention aligns with expert pedagogical focus, allocating most weight to Bloom's taxonomy verbs and problem-solving steps"
 id: dual-lens-attention-aligns-expert-pedagogical-focus
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

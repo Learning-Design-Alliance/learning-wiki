@@ -3,7 +3,7 @@ type: claim
 title: A calibrated logistic-regression model predicts next-assessment pass/fail strongly on OULAD at both decision horizons
 description: A calibrated logistic-regression model predicts next-assessment pass/fail strongly on OULAD at both decision horizons
 id: oulad-calibrated-logistic-regression-strong-prediction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

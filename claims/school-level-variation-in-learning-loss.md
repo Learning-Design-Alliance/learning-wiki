@@ -3,7 +3,7 @@ type: claim
 title: Learning loss varied considerably by school, with some schools seeing slides of 10 percentile points or more and others recording no losses or small gains
 description: Learning loss varied considerably by school, with some schools seeing slides of 10 percentile points or more and others recording no losses or small gains
 id: school-level-variation-in-learning-loss
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

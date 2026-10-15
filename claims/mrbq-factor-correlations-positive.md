@@ -3,7 +3,7 @@ type: claim
 title: "Belief factors are positively intercorrelated: a social-dynamic view of mathematics co-occurs with higher task value and confidence (r = .48) and more positive teacher beliefs (r = .41)"
 description: "Belief factors are positively intercorrelated: a social-dynamic view of mathematics co-occurs with higher task value and confidence (r = .48) and more positive teacher beliefs (r = .41)"
 id: mrbq-factor-correlations-positive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

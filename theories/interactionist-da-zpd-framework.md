@@ -2,7 +2,7 @@
 type: theory
 title: "Interactionist dynamic assessment grounded in Vygotsky's ZPD"
 description: "Dynamic assessment is presented as a Vygotskian alternative to psychometric testing that \"focuses on the collaborative dialogue between the learners and the mediator to move the learners from their current capabilities\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

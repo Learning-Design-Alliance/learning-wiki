@@ -3,7 +3,7 @@ type: claim
 title: "The post-ChatGPT learning-time decline follows an age gradient: largest in high school (31.3% cumulative), small in middle school (9.0%), and undetectable in Grade 5"
 description: "The post-ChatGPT learning-time decline follows an age gradient: largest in high school (31.3% cumulative), small in middle school (9.0%), and undetectable in Grade 5"
 id: age-gradient-ai-learning-time-decline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

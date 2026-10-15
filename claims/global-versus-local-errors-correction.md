@@ -3,7 +3,7 @@ type: claim
 title: Global errors hinder communication while local errors affect only a single sentence element, informing which errors to correct
 description: Global errors hinder communication while local errors affect only a single sentence element, informing which errors to correct
 id: global-versus-local-errors-correction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: "Students in high and highest rated AVID schools are overwhelmingly positive about the program's impact on them"
 description: "Students in high and highest rated AVID schools are overwhelmingly positive about the program's impact on them"
 id: avid-high-schools-students-overwhelmingly-positive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

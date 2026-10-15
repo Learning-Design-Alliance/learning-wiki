@@ -3,7 +3,7 @@ type: claim
 title: "SR–OB profile patterns differ by prior AI literacy experience: overestimation appears only among experienced teachers and a low–low profile only among inexperienced teachers"
 description: "SR–OB profile patterns differ by prior AI literacy experience: overestimation appears only among experienced teachers and a low–low profile only among inexperienced teachers"
 id: prior-experience-moderates-sr-ob-profiles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: hard-scaffolding-questions-for-edp
 title: Use hard scaffolding questions prepared in advance to guide students through the Engineering Design Process
 description: K-12 engineering teachers use scaffolding questions to help students learn the Engineering Design Process through design challenges.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

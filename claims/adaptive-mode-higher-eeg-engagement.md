@@ -3,7 +3,7 @@ type: claim
 title: The EEG-adaptive exercise condition produced significantly higher cognitive engagement during training than the unrestricted chatbot condition (p = .018), and was the only condition above the 0.5 baseline
 description: The EEG-adaptive exercise condition produced significantly higher cognitive engagement during training than the unrestricted chatbot condition (p = .018), and was the only condition above the 0.5 baseline
 id: adaptive-mode-higher-eeg-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

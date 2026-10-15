@@ -4,7 +4,7 @@ id: spiral-students-partners-for-information-research-and-literacy
 title: SPIRaL (Students Partners for Information Research and Literacy)
 description: "SPIRaL is Purdue's two-semester students-as-partners undergraduate research programme in which information-studies students investigate societal information challenges while developing information-literacy and research skills."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "Fall 2020 CPS enrollment changes showed no clear pattern by colleges' reopening models"
 description: "Fall 2020 CPS enrollment changes showed no clear pattern by colleges' reopening models"
 id: cps-2020-no-reopening-model-pattern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

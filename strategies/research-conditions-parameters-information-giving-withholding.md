@@ -3,7 +3,7 @@ type: strategy
 id: research-conditions-parameters-information-giving-withholding
 title: Pursue research yielding conditions and parameters for when to use information giving versus information withholding interactions
 description: "The article's forward-looking recommendation is a research strategy: treat Cognitive Tutor experiments comparing forms of interactivity as partial answers to the assistance dilemma, and \"emphasize the need for further..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

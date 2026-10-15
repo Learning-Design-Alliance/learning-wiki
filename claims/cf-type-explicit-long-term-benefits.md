@@ -3,7 +3,7 @@ type: claim
 title: All four written CF types, including metalinguistic code CF, outperformed the control group on the delayed posttest of explicit L2 knowledge two weeks later.
 description: All four written CF types, including metalinguistic code CF, outperformed the control group on the delayed posttest of explicit L2 knowledge two weeks later.
 id: cf-type-explicit-long-term-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

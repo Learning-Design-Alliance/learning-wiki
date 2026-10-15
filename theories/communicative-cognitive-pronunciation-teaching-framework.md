@@ -2,7 +2,7 @@
 type: theory
 title: "Communicative-cognitive framework for teaching pronunciation: description and analysis, listening discrimination, controlled practice, guided practice, communicative practice"
 description: Celce-Murcia, Brinton, and Goodwin (1996), as presented in the digest, propose a framework supporting a communicative-cognitive approach to teaching pronunciation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

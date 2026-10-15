@@ -3,7 +3,7 @@ type: claim
 title: More than half of CPS high school teachers report robbery or theft problems and over 60 percent report gang activity and physical conflicts among students
 description: More than half of CPS high school teachers report robbery or theft problems and over 60 percent report gang activity and physical conflicts among students
 id: high-school-teacher-crime-disorder-reports
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

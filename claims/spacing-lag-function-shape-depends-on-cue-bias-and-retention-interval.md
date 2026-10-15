@@ -3,7 +3,7 @@ type: claim
 title: In continuous recognition memory, the lag function is inverted U-shaped after a short retention interval and monotonically increasing after a long retention interval
 description: In continuous recognition memory, the lag function is inverted U-shaped after a short retention interval and monotonically increasing after a long retention interval
 id: spacing-lag-function-shape-depends-on-cue-bias-and-retention-interval
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

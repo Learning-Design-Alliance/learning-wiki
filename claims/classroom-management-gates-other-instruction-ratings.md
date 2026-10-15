@@ -3,7 +3,7 @@ type: claim
 title: Teachers rated basic or unsatisfactory in classroom management were unlikely to achieve high ratings on instructional practices, especially instructional demand
 description: Teachers rated basic or unsatisfactory in classroom management were unlikely to achieve high ratings on instructional practices, especially instructional demand
 id: classroom-management-gates-other-instruction-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

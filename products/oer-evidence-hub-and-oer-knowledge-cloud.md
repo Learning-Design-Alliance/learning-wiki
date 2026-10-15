@@ -4,7 +4,7 @@ id: oer-evidence-hub-and-oer-knowledge-cloud
 title: OER Evidence Hub and OER Knowledge Cloud
 description: "The OER Evidence Hub, developed by the Knowledge Media Institute and The Open University's Institute of Educational Technology, and the OER Knowledge Cloud are digital infrastructures for interrogating the open-education movement and collecting, preserving, and disseminating its research documents."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

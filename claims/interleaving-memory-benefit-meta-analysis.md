@@ -3,7 +3,7 @@ type: claim
 title: "Interleaving during concept learning benefits memory of studied items, with effect sizes (Hedges' g) of up to 0.65"
 description: "Interleaving during concept learning benefits memory of studied items, with effect sizes (Hedges' g) of up to 0.65"
 id: interleaving-memory-benefit-meta-analysis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

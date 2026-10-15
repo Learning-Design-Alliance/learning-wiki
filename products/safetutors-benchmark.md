@@ -4,7 +4,7 @@ id: safetutors-benchmark
 title: SAFETUTORS benchmark
 description: A benchmark dataset of single-turn and multi-turn mathematics, physics, and chemistry tutoring dialogues, created and human-validated by Rima Hazra et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

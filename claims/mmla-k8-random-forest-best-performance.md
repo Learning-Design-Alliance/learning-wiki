@@ -3,7 +3,7 @@ type: claim
 title: Random forest algorithms yielded the best classification performance in K–8 MMLA studies comparing multiple machine learning models
 description: Random forest algorithms yielded the best classification performance in K–8 MMLA studies comparing multiple machine learning models
 id: mmla-k8-random-forest-best-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Metalinguistic written CF was equivalent, not superior, to non-metalinguistic direct CF, contrasting with previous studies whose metalinguistic CF also contained correct forms.
 description: Metalinguistic written CF was equivalent, not superior, to non-metalinguistic direct CF, contrasting with previous studies whose metalinguistic CF also contained correct forms.
 id: metalinguistic-cf-equivalent-not-superior-to-direct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

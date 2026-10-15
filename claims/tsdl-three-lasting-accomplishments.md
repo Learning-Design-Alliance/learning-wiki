@@ -3,7 +3,7 @@ type: claim
 title: "The TSDL project produced three lasting accomplishments: implementation support, ongoing state collaboration, and new TSDL-inspired data activities"
 description: "The TSDL project produced three lasting accomplishments: implementation support, ongoing state collaboration, and new TSDL-inspired data activities"
 id: tsdl-three-lasting-accomplishments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

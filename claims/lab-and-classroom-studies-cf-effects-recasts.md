@@ -3,7 +3,7 @@ type: claim
 title: Laboratory and classroom studies assess the effects of recasts and different CF types differentially
 description: Laboratory and classroom studies assess the effects of recasts and different CF types differentially
 id: lab-and-classroom-studies-cf-effects-recasts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

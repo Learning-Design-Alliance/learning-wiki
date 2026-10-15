@@ -3,7 +3,7 @@ type: claim
 title: Digital infrastructure readiness determines the scalability and effectiveness of AI systems in higher education, with disparities between high-income and low-income regions
 description: Digital infrastructure readiness determines the scalability and effectiveness of AI systems in higher education, with disparities between high-income and low-income regions
 id: infrastructure-readiness-determines-ai-scalability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

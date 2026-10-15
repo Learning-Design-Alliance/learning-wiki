@@ -3,7 +3,7 @@ type: claim
 title: Memory-decay-based models fit fact-learning datasets better than models insensitive to memory decay
 description: Memory-decay-based models fit fact-learning datasets better than models insensitive to memory decay
 id: memory-features-improve-fit-for-fact-learning-datasets
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

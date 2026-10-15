@@ -3,7 +3,7 @@ type: claim
 title: Top-tier nonselective schools improve college enrollment, persistence, and selectivity, while selective schools show no college advantage
 description: Top-tier nonselective schools improve college enrollment, persistence, and selectivity, while selective schools show no college advantage
 id: top-tier-schools-improve-college-outcomes-selective-do-not
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

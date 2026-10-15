@@ -3,7 +3,7 @@ type: research-method
 id: five-trustworthiness-metrics-comprising-20-measures-for-evaluating-llm-trustworthiness-in
 title: Five trustworthiness metrics comprising 20 measures for evaluating LLM trustworthiness in education
 description: The article co-constructed a set of five trustworthiness metrics comprising 20 quantitative measures tailored to pedagogical use.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: incremental-llm-simulation-development
 title: Develop complex simulations incrementally, testing each stage before adding the next feature
 description: "For complex simulations, the article recommends building in stages rather than using one comprehensive prompt: \"we found it more effective to develop the simulation incrementally, adding features in stages ensuring th..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

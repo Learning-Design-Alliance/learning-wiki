@@ -3,7 +3,7 @@ type: claim
 title: Effort regulation negatively predicts, and general academic help seeking positively predicts, reported AI dependency; time management is non-significant
 description: Effort regulation negatively predicts, and general academic help seeking positively predicts, reported AI dependency; time management is non-significant
 id: effort-regulation-buffers-help-seeking-predicts-ai-dependency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

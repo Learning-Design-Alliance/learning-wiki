@@ -3,7 +3,7 @@ type: claim
 title: Learners supported by ChatGPT, a human expert, checklist tools, or no support show no significant difference in post-task intrinsic motivation
 description: Learners supported by ChatGPT, a human expert, checklist tools, or no support show no significant difference in post-task intrinsic motivation
 id: genai-support-no-intrinsic-motivation-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: AI-mediated SSH learning externalizes interpretive cognition as students delegate thematic identification, contextual explanation, and comparative analysis to AI systems
 description: AI-mediated SSH learning externalizes interpretive cognition as students delegate thematic identification, contextual explanation, and comparative analysis to AI systems
 id: externalization-of-interpretive-cognition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

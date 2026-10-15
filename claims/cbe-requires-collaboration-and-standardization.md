@@ -3,7 +3,7 @@ type: claim
 title: Implementing CBE in community colleges requires a higher degree of collaboration and standardization than is typically found in community college programs
 description: Implementing CBE in community colleges requires a higher degree of collaboration and standardization than is typically found in community college programs
 id: cbe-requires-collaboration-and-standardization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

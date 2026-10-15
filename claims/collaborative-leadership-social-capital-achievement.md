@@ -3,7 +3,7 @@ type: claim
 title: Collaborative leadership and practice can create conditions for improving student learning, with social capital and teacher-peer learning explaining the link to achievement
 description: Collaborative leadership and practice can create conditions for improving student learning, with social capital and teacher-peer learning explaining the link to achievement
 id: collaborative-leadership-social-capital-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

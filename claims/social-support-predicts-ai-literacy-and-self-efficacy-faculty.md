@@ -3,7 +3,7 @@ type: claim
 title: Perceived social support positively predicts both AI literacy and technological self-efficacy among university faculty
 description: Perceived social support positively predicts both AI literacy and technological self-efficacy among university faculty
 id: social-support-predicts-ai-literacy-and-self-efficacy-faculty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

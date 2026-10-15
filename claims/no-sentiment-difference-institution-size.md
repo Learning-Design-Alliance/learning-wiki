@@ -3,7 +3,7 @@ type: claim
 title: Sentiment scores in GenAI guidelines do not differ significantly by institution size, though small institutions show the highest mean
 description: Sentiment scores in GenAI guidelines do not differ significantly by institution size, though small institutions show the highest mean
 id: no-sentiment-difference-institution-size
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

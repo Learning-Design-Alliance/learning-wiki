@@ -3,7 +3,7 @@ type: strategy
 id: error-injection-diagnosis-exercises
 title: "Error-injection exercises: diagnosing subtly wrong simulations as graded practice"
 description: The article recommends giving students a subtly wrong simulation—sign error in the force, dt an order too large, the wrong potential—with the diagnosis as the graded object.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

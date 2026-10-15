@@ -3,7 +3,7 @@ type: claim
 title: The evidence base for Twelve Together is a single randomized controlled trial that met WWC standards only with reservations due to differential attrition
 description: The evidence base for Twelve Together is a single randomized controlled trial that met WWC standards only with reservations due to differential attrition
 id: twelve-together-single-rct-attrition-reservations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Students in active learning environments learned more but felt they learned less, mistaking mental effort for failure
 description: Students in active learning environments learned more but felt they learned less, mistaking mental effort for failure
 id: active-learning-felt-learning-paradox
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

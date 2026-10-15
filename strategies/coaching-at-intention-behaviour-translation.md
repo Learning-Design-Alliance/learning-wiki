@@ -3,7 +3,7 @@ type: strategy
 id: coaching-at-intention-behaviour-translation
 title: Concentrate professional development support at the point of intention–behaviour translation through clinically embedded coaching
 description: Derived from hypothesis H12 (capability moderates the intention–behaviour link), this strategy holds that professional development should not end once favourable intentions are formed.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Pen input supported deictic referencing: 85% of V1 queries contained at least one visible pen mark, and ease of referencing improved significantly over the baseline"
 description: "Pen input supported deictic referencing: 85% of V1 queries contained at least one visible pen mark, and ease of referencing improved significantly over the baseline"
 id: pen-marks-deictic-referencing-study1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

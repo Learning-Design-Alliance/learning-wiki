@@ -3,7 +3,7 @@ type: strategy
 id: hands-on-college-entry-assistance
 title: Provide hands-on assistance with college entry steps (entrance exams, searches, visits, applications) and financial aid, beginning before 12th grade
 description: "Recommendations 4 and 5 address the discrete tasks of college entry: preparing for and taking entrance exams early, assisting college search, coordinating college visits, helping with applications, organizing pre-12th..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

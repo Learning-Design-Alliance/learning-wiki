@@ -3,7 +3,7 @@ type: claim
 title: Students overwhelmingly relied on GoCPS, CPS, and school websites to learn about potential high schools, but found websites out of date and lacking student-voice information
 description: Students overwhelmingly relied on GoCPS, CPS, and school websites to learn about potential high schools, but found websites out of date and lacking student-voice information
 id: students-relied-on-online-sources-school-research
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: STEM teachers participating in learning teams deepen their mathematics and science content knowledge and feel more prepared to teach it
 description: STEM teachers participating in learning teams deepen their mathematics and science content knowledge and feel more prepared to teach it
 id: stem-plcs-deepen-teacher-content-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Teachers without mentors reached the impact level more often than mentored teachers, raising the question that mentoring may inhibit development
 description: Teachers without mentors reached the impact level more often than mentored teachers, raising the question that mentoring may inhibit development
 id: mentors-may-inhibit-concern-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

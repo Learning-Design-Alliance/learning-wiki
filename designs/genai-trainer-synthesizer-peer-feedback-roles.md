@@ -3,7 +3,7 @@ type: design
 id: genai-trainer-synthesizer-peer-feedback-roles
 title: "GenAI as Trainer and Synthesizer: two complementary roles in EFL speaking peer feedback"
 description: The article proposes a theory-informed design framework positioning generative AI in two constrained roles within L2 speaking peer feedback.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

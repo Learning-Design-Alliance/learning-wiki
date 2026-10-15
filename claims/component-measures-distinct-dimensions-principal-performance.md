@@ -3,7 +3,7 @@ type: claim
 title: Component measure ratings had low to moderate positive correlations with each other, suggesting the components measure distinct dimensions of principal performance
 description: Component measure ratings had low to moderate positive correlations with each other, suggesting the components measure distinct dimensions of principal performance
 id: component-measures-distinct-dimensions-principal-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

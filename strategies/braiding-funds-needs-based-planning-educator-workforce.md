@@ -3,7 +3,7 @@ type: strategy
 id: braiding-funds-needs-based-planning-educator-workforce
 title: Braid state, federal, and grant funds through a needs-based planning approach to address multiple educator workforce priority areas
 description: "The brief's core strategy is fiscal braiding: education leaders 'coordinate, or braid, state funds, federal funds, and specialized grants' so districts can 'invest in strategies that address multiple priority areas.'..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

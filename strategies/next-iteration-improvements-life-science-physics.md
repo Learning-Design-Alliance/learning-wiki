@@ -3,7 +3,7 @@ type: strategy
 id: next-iteration-improvements-life-science-physics
 title: Iterative improvements and interdisciplinary integration for the next course iteration
 description: "The authors' forward-looking recommendations for improving the reformed course: supplement the draft textbook with additional practice problems, develop additional multi-part homework problems exploring \"the physical..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: An exploratory configural caseness rule formalizes when a veteran warrants treatment for moral injury
 description: An exploratory configural caseness rule formalizes when a veteran warrants treatment for moral injury
 id: cimi-m-configural-caseness-rule
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

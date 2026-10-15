@@ -3,7 +3,7 @@ type: claim
 title: Large Type M (magnitude) errors almost certainly exist when applying the statistical significance filter in education research
 description: Large Type M (magnitude) errors almost certainly exist when applying the statistical significance filter in education research
 id: large-type-m-errors-significance-filter-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

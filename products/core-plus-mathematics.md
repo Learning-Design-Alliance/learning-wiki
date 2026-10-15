@@ -4,7 +4,7 @@ id: core-plus-mathematics
 title: Core-Plus Mathematics
 description: A four-year high-school mathematics curriculum developed by the Core-Plus Mathematics Project at Western Michigan University and distributed by Glencoe/McGraw-Hill, integrating algebra, functions, statistics, probability, geometry, trigonometry, discrete mathematics, modeling, multiple representatio
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

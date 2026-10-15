@@ -3,7 +3,7 @@ type: design
 id: heuristicedu-sft-grpo-pipeline
 title: "HeuristicEdu: an SFT-then-GRPO alignment pipeline with a three-component heuristic reward for Socratic tutoring"
 description: HeuristicEdu is a two-phase alignment pipeline that redirects an instruction-tuned LLM from direct answer delivery toward Socratic guided inquiry.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: research-method
 id: neural-symbolic-knowledge-tracing-with-conservative-mastery-and-non-mastery-rules
 title: Neural-symbolic knowledge tracing with conservative mastery and non-mastery rules
 description: The article recommends encoding pedagogically motivated constraints as learnable-weight symbolic rules that modulate neural predictions when simple evidence patterns occur in the interaction history.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

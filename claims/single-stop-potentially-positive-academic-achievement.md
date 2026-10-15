@@ -3,7 +3,7 @@ type: claim
 title: Single Stop has potentially positive effects on academic achievement of first-time community college students
 description: Single Stop has potentially positive effects on academic achievement of first-time community college students
 id: single-stop-potentially-positive-academic-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

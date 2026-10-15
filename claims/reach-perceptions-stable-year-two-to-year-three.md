@@ -3,7 +3,7 @@ type: claim
 title: Teacher and administrator perceptions of REACH changed little between Year 2 and Year 3 of implementation
 description: Teacher and administrator perceptions of REACH changed little between Year 2 and Year 3 of implementation
 id: reach-perceptions-stable-year-two-to-year-three
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

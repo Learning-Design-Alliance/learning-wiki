@@ -3,7 +3,7 @@ type: claim
 title: "Removing degree requirements and centering skills-based hiring widens employers' talent pools and Black job seekers' access to technology careers"
 description: "Removing degree requirements and centering skills-based hiring widens employers' talent pools and Black job seekers' access to technology careers"
 id: skills-based-hiring-widens-talent-pool
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

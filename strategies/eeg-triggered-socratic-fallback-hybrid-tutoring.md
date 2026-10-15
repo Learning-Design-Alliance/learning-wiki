@@ -3,7 +3,7 @@ type: strategy
 id: eeg-triggered-socratic-fallback-hybrid-tutoring
 title: Hybrid Socratic-to-sub-question tutoring with EEG-triggered fallback and progressively concrete hints
 description: "The authors propose a design in which \"deployment of Socratic dialogue by default\", but when EEG shows sustained disengagement below the personal baseline, the system temporarily switches to Mode-3-style sub-questions..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

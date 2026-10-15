@@ -3,7 +3,7 @@ type: strategy
 id: strategic-staffing-partnership-model
 title: Strategic staffing partnership model funds resident stipends while meeting LEA paraeducator and substitute staffing needs
 description: Starting in 2022–23, Claremont moved toward a strategic staffing partnership model that provided residents with high-quality mentors and LEA-funded stipends while offering partner LEAs solutions for immediate staffing...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: The definitions of cognitive load used in cognitive load theory are not fully equivalent
 description: The definitions of cognitive load used in cognitive load theory are not fully equivalent
 id: cognitive-load-definitions-not-equivalent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

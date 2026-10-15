@@ -3,7 +3,7 @@ type: claim
 title: Latent singing ability varies widely across learners, with sequence-level theta estimates spanning −3.79 to 3.36 logits
 description: Latent singing ability varies widely across learners, with sequence-level theta estimates spanning −3.79 to 3.36 logits
 id: wide-latent-ability-spread-singing-learners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

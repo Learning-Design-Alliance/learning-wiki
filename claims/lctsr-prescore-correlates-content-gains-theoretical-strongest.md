@@ -3,7 +3,7 @@ type: claim
 title: Pre-instruction LCTSR scores correlate with normalized learning gains, most strongly for theoretical content (TUG-K r=0.59) and more weakly for descriptive content (DIRECT r=0.50)
 description: Pre-instruction LCTSR scores correlate with normalized learning gains, most strongly for theoretical content (TUG-K r=0.59) and more weakly for descriptive content (DIRECT r=0.50)
 id: lctsr-prescore-correlates-content-gains-theoretical-strongest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

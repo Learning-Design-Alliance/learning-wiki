@@ -3,7 +3,7 @@ type: claim
 title: Input-based incentives produce achievement gains at lower cost than major education reforms of recent decades
 description: Input-based incentives produce achievement gains at lower cost than major education reforms of recent decades
 id: input-incentives-cost-effective-comparison
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

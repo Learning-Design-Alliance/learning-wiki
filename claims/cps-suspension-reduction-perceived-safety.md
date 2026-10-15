@@ -3,7 +3,7 @@ type: claim
 title: "Perceived safety changes under reduced suspension use varied by school racial composition: a small decline in predominantly Latino schools and a similar-sized but non-significant improvement in predominantly Black schools"
 description: "Perceived safety changes under reduced suspension use varied by school racial composition: a small decline in predominantly Latino schools and a similar-sized but non-significant improvement in predominantly Black sch..."
 id: cps-suspension-reduction-perceived-safety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Video is more effective for teaching skills than for transmitting knowledge
 description: Video is more effective for teaching skills than for transmitting knowledge
 id: video-more-effective-for-skills-than-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

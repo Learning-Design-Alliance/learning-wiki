@@ -3,7 +3,7 @@ type: strategy
 id: form-if-then-implementation-intentions-strategy
 title: Form if-then implementation intentions (specifying when, where, and how) to support goal achievement
 description: "A concrete, implementable self-regulation strategy: learners form plans in the format \"If situation Y is encountered, then I will initiate goal-directed behavior X!\", spelling out the when, where, and how of goal stri..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

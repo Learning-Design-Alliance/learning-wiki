@@ -4,7 +4,7 @@ title: "Projected fall 2020 reading gains for returning students are approximate
 description: "Projected fall 2020 reading gains for returning students are approximately 63 to 68% of a typical school year's learning gains"
 id: covid-closures-projected-reading-gains-63-68-percent
 aliases: [covid-projections-reading-63-68-percent-gains]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

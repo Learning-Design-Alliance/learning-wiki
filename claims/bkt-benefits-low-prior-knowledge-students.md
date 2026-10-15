@@ -3,7 +3,7 @@ type: claim
 title: BKT scaffolding significantly benefits low prior knowledge students, who outperformed low prior knowledge controls
 description: BKT scaffolding significantly benefits low prior knowledge students, who outperformed low prior knowledge controls
 id: bkt-benefits-low-prior-knowledge-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

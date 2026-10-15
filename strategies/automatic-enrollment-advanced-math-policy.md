@@ -3,7 +3,7 @@ type: strategy
 id: automatic-enrollment-advanced-math-policy
 title: Adopt automatic-enrollment policies that default students into higher-level math based on prior achievement or demonstrated proficiency
 description: The report recommends that states address disparities in advanced math participation through default placement programs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

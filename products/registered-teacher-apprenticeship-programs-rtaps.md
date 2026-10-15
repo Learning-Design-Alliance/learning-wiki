@@ -4,7 +4,7 @@ id: registered-teacher-apprenticeship-programs-rtaps
 title: Registered Teacher Apprenticeship Programs (RTAPs)
 description: A U.S.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

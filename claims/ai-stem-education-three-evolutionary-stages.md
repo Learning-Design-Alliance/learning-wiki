@@ -3,7 +3,7 @@ type: claim
 title: Research on AI in STEM education evolved through three stages, from proof-of-concept learning systems to generative-AI-centered adaptive instruction (2015–2025)
 description: Research on AI in STEM education evolved through three stages, from proof-of-concept learning systems to generative-AI-centered adaptive instruction (2015–2025)
 id: ai-stem-education-three-evolutionary-stages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

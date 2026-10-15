@@ -3,7 +3,7 @@ type: claim
 title: Instructors authoring AI tutoring chatbots in a MOOC almost never systematically tested their bots before deploying them to students
 description: Instructors authoring AI tutoring chatbots in a MOOC almost never systematically tested their bots before deploying them to students
 id: teachers-rarely-test-ai-tutor-bots-before-publication
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

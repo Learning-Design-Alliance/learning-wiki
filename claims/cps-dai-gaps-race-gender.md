@@ -3,7 +3,7 @@ type: claim
 title: "Bachelor's DAI varies sharply by race/ethnicity and gender: Black and Latino young men are projected at 10 and 13 percent versus a 19 percent district average"
 description: "Bachelor's DAI varies sharply by race/ethnicity and gender: Black and Latino young men are projected at 10 and 13 percent versus a 19 percent district average"
 id: cps-dai-gaps-race-gender
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

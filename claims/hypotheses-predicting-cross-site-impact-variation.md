@@ -3,7 +3,7 @@ type: claim
 title: The study explores hypotheses about factors that predict the magnitude of cross-site impact variation
 description: The study explores hypotheses about factors that predict the magnitude of cross-site impact variation
 id: hypotheses-predicting-cross-site-impact-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

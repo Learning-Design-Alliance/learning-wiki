@@ -3,7 +3,7 @@ type: claim
 title: GenAI lowers the barrier to advanced tasks, letting less-experienced practitioners achieve outcomes once requiring formal training or mentorship
 description: GenAI lowers the barrier to advanced tasks, letting less-experienced practitioners achieve outcomes once requiring formal training or mentorship
 id: genai-lowers-barrier-to-advanced-it-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

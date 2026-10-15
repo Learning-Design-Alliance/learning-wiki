@@ -3,7 +3,7 @@ type: claim
 title: For DCPS students in grades 6 to 8, achievement gains under new principals were larger and statistically significant in both math and reading
 description: For DCPS students in grades 6 to 8, achievement gains under new principals were larger and statistically significant in both math and reading
 id: dcps-grades-6-8-gains-significant-both-subjects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

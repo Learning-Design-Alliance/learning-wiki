@@ -3,7 +3,7 @@ type: claim
 title: School climate and parent participation in school were the most frequently measured non-student outcomes, while teacher-level outcomes were rarely assessed
 description: School climate and parent participation in school were the most frequently measured non-student outcomes, while teacher-level outcomes were rarely assessed
 id: character-ed-school-climate-most-measured-nonstudent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

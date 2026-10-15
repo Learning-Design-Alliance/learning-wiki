@@ -3,7 +3,7 @@ type: design
 id: moderate-disturbance-shared-quiet-consultation-room
 title: Moderate-disturbance classrooms merge consultation into the quiet room and add group-project space
 description: "For moderately disturbed children the booklet relaxes the severe-disorder scheme: \"Classrooms for moderately disturbed children differ from those for severely disturbed children in the elimination of separate consulta..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

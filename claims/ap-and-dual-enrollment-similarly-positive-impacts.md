@@ -3,7 +3,7 @@ type: claim
 title: Advanced Placement and dual enrollment participation have similarly positive impacts on student success
 description: Advanced Placement and dual enrollment participation have similarly positive impacts on student success
 id: ap-and-dual-enrollment-similarly-positive-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

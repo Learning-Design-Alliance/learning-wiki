@@ -4,7 +4,7 @@ id: unesco-ai-competency-framework-for-teachers
 title: UNESCO AI Competency Framework for Teachers
 description: A UNESCO framework specifying 15 AI-related teacher competencies across five dimensions to guide national competency frameworks and teacher training programmes.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

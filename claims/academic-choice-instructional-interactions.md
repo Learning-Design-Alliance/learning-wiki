@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' use of Academic Choice relates to higher levels of instructional interactions in grade 3–5 classrooms"
 description: "Teachers' use of Academic Choice relates to higher levels of instructional interactions in grade 3–5 classrooms"
 id: academic-choice-instructional-interactions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

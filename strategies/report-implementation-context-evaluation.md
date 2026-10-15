@@ -3,7 +3,7 @@ type: strategy
 id: report-implementation-context-evaluation
 title: Report evaluation results with implementation and context details so schools can judge fit, and use measures educators value
 description: "For evaluation research, the guide advises that \"When reporting evaluation research results, provide adequate details about implementation and context about where the study took place so other schools can determine wh..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

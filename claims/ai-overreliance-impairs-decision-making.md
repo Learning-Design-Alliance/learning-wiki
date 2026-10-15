@@ -3,7 +3,7 @@ type: claim
 title: "Over-reliance on AI dialogue systems fosters complacency and dependency that impairs students' decision-making abilities"
 description: "Over-reliance on AI dialogue systems fosters complacency and dependency that impairs students' decision-making abilities"
 id: ai-overreliance-impairs-decision-making
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

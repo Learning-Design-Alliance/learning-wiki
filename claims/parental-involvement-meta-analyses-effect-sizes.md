@@ -3,7 +3,7 @@ type: claim
 title: Meta-analyses find parental involvement associated with better student outcomes, effect sizes 0.2 to 0.75 standard deviations
 description: Meta-analyses find parental involvement associated with better student outcomes, effect sizes 0.2 to 0.75 standard deviations
 id: parental-involvement-meta-analyses-effect-sizes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

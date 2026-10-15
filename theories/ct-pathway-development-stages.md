@@ -2,7 +2,7 @@
 type: theory
 title: "Three-stage model of developing district computational thinking pathways: Getting Started, Getting Going, Getting Better"
 description: The presentation proposes a three-stage developmental model for how a district CT pathway matures.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

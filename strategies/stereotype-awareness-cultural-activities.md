@@ -3,7 +3,7 @@ type: strategy
 id: stereotype-awareness-cultural-activities
 title: Use stereotype-awareness and cross-cultural activities to surface assumptions about NESB staff
 description: "Module 4 makes supervisors' own assumptions visible."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

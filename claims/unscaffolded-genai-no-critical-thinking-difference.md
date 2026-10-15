@@ -3,7 +3,7 @@ type: claim
 title: "Unscaffolded GenAI access was not associated with a significant difference in pre-service teachers' critical thinking relative to traditional learning"
 description: "Unscaffolded GenAI access was not associated with a significant difference in pre-service teachers' critical thinking relative to traditional learning"
 id: unscaffolded-genai-no-critical-thinking-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

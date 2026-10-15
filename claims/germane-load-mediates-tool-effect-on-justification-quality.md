@@ -3,7 +3,7 @@ type: claim
 title: Germane cognitive load fully mediates the effect of information-search tool on justification quality (exploratory analysis)
 description: Germane cognitive load fully mediates the effect of information-search tool on justification quality (exploratory analysis)
 id: germane-load-mediates-tool-effect-on-justification-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

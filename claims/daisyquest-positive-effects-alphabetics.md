@@ -3,7 +3,7 @@ type: claim
 title: DaisyQuest has positive effects on alphabetics skills in beginning readers, per WWC synthesis of four randomized controlled trials
 description: DaisyQuest has positive effects on alphabetics skills in beginning readers, per WWC synthesis of four randomized controlled trials
 id: daisyquest-positive-effects-alphabetics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

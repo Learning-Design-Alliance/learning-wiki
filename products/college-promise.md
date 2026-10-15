@@ -4,7 +4,7 @@ id: college-promise
 title: College Promise
 description: A place-based postsecondary access and completion framework combining financial assistance, student supports, early messaging, and cross-sector collaboration, used by College Promise programmes and their partners.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

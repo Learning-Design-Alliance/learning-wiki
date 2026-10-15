@@ -2,7 +2,7 @@
 type: theory
 title: Realism and Expressionism as poles of thought around which related schools cluster
 description: The course rationale organizes the study of modern cultural movements around two poles.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

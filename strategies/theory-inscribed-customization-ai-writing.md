@@ -3,7 +3,7 @@ type: strategy
 id: theory-inscribed-customization-ai-writing
 title: Pursue theory-inscribed customization that embeds pedagogical principles into AI system architecture
 description: "The review recommends reconceptualizing customization as \"the theoretically constrained specification of system behavior, with mediation, interaction, and development positioned as first-order design concerns\" rather..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

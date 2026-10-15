@@ -4,7 +4,7 @@ id: the-expert-mathematician
 title: The Expert Mathematician
 description: "A three-year middle-school mathematics curriculum developed by the program's creators that combines Logo programming software with consumable print materials across general mathematics, pre-algebra, and algebra I."
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

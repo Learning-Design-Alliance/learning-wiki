@@ -3,7 +3,7 @@ type: element
 id: effort-monitoring-proctor-notification-feature
 title: Effort monitoring with proctor notification feature for computer-based tests
 description: A computer-based testing feature that detects rapid guessing as it occurs and notifies proctors that a test taker has become disengaged.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

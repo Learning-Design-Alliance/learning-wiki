@@ -3,7 +3,7 @@ type: claim
 title: "Students identified MCQ item source at a rate significantly above the 50% chance level in a real exam setting"
 description: "Students identified MCQ item source at a rate significantly above the 50% chance level in a real exam setting"
 id: students-identify-mcq-source-above-chance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

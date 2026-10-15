@@ -3,7 +3,7 @@ type: claim
 title: "Lynwood Unified's custom dashboards and intervention tools were followed by a decrease in high school D/F rates of over 8% and 593 interventions logged in one year"
 description: "Lynwood Unified's custom dashboards and intervention tools were followed by a decrease in high school D/F rates of over 8% and 593 interventions logged in one year"
 id: lynwood-dfi-decrease-intervention-tracking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

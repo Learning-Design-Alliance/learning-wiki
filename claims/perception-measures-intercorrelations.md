@@ -3,7 +3,7 @@ type: claim
 title: Perception measures of social distance, treatment amenability, perceived recidivism, and sentencing severity are mostly significantly intercorrelated
 description: Perception measures of social distance, treatment amenability, perceived recidivism, and sentencing severity are mostly significantly intercorrelated
 id: perception-measures-intercorrelations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: "Thirty-two states and DC guarantee base per-pupil funding, and state legislation can add year-to-year funding guarantees such as California's Proposition 98"
 description: "Thirty-two states and DC guarantee base per-pupil funding, and state legislation can add year-to-year funding guarantees such as California's Proposition 98"
 id: guaranteed-funding-floors-32-states
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

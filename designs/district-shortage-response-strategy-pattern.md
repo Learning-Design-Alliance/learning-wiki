@@ -3,7 +3,7 @@ type: design
 id: district-shortage-response-strategy-pattern
 title: "District strategy pattern: compensation increases, high-retention pathways, recruitment capacity, and added student-support staff"
 description: "The report identifies a four-part pattern of district responses to shortages: \"increasing teacher compensation, improving recruitment and hiring capacity, developing high-retention pathways into teaching within the di..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

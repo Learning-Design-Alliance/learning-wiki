@@ -4,7 +4,7 @@ id: six-rd-practice-dimensions-framework
 title: "Six R&D Practice Dimensions Framework"
 description: "A framework from Research and Development in America's Schools that helps school systems assess and develop R&D practice across strategy, structure, intensity, spread, engagement, and evidence."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

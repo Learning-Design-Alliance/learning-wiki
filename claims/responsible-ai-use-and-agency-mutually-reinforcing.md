@@ -3,7 +3,7 @@ type: claim
 title: Responsible AI use and student agency are mutually reinforcing capacities
 description: Responsible AI use and student agency are mutually reinforcing capacities
 id: responsible-ai-use-and-agency-mutually-reinforcing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

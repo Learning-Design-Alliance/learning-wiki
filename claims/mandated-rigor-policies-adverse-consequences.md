@@ -3,7 +3,7 @@ type: claim
 title: "Mandated rigorous-curriculum policies in CPS sometimes had adverse consequences: the IDS initiative saw test scores decline and the college-prep-for-all policy increased course failure without achievement gains"
 description: "Mandated rigorous-curriculum policies in CPS sometimes had adverse consequences: the IDS initiative saw test scores decline and the college-prep-for-all policy increased course failure without achievement gains"
 id: mandated-rigor-policies-adverse-consequences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

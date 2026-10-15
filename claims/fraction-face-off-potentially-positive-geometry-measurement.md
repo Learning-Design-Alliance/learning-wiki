@@ -3,7 +3,7 @@ type: claim
 title: "Fraction Face-Off! shows potentially positive effects on fourth-grade students' geometry and measurement outcomes, with a WWC-calculated average effect size of 0.96 and improvement index of +33"
 description: "Fraction Face-Off!"
 id: fraction-face-off-potentially-positive-geometry-measurement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

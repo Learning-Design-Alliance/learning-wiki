@@ -3,7 +3,7 @@ type: strategy
 id: senior-district-turnaround-leader-advocacy
 title: Designate a senior district leader to oversee turnaround efforts and advocate urgently for low-performing schools
 description: "For the practice of prioritizing improvement and communicating its urgency, the guide recommends that districts \"Designate a senior district leader to oversee turnaround efforts\" and \"Advocate relentlessly for the suc..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: VIP shows potentially positive effects on reading achievement for fifth-grade English language learners (effect size 0.50, not statistically significant)
 description: VIP shows potentially positive effects on reading achievement for fifth-grade English language learners (effect size 0.50, not statistically significant)
 id: vip-potentially-positive-reading-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

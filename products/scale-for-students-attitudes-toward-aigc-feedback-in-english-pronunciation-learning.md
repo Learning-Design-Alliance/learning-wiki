@@ -4,7 +4,7 @@ id: scale-for-students-attitudes-toward-aigc-feedback-in-english-pronunciation-l
 title: "Scale for Students' Attitudes Toward AIGC Feedback in English Pronunciation Learning"
 description: A 16-item five-point Likert self-report scale developed by Zhong et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Extensive reading accompanied by peer interaction produced greater reading achievement gains than ER without peer interaction, no ER, or ER with teacher conferences
 description: Extensive reading accompanied by peer interaction produced greater reading achievement gains than ER without peer interaction, no ER, or ER with teacher conferences
 id: er-peer-interaction-greater-achievement-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

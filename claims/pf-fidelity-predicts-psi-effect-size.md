@@ -3,7 +3,7 @@ type: claim
 title: PF design fidelity predicts larger PS-I effects, with four fidelity criteria showing significant subgroup differences
 description: PF design fidelity predicts larger PS-I effects, with four fidelity criteria showing significant subgroup differences
 id: pf-fidelity-predicts-psi-effect-size
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

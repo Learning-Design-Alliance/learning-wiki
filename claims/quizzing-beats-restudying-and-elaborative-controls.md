@@ -3,7 +3,7 @@ type: claim
 title: "Quizzing outperforms no/filler activity, fewer-question testing, restudying, and other elaborative strategies, with the advantage shrinking as the control condition's reexposure increases."
 description: "Quizzing outperforms no/filler activity, fewer-question testing, restudying, and other elaborative strategies, with the advantage shrinking as the control condition's reexposure increases."
 id: quizzing-beats-restudying-and-elaborative-controls
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

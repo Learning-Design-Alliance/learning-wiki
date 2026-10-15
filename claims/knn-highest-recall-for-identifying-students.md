@@ -3,7 +3,7 @@ type: claim
 title: k-nearest neighbours achieves the highest recall of the tested models, making it better suited when identifying which students know a topic matters
 description: k-nearest neighbours achieves the highest recall of the tested models, making it better suited when identifying which students know a topic matters
 id: knn-highest-recall-for-identifying-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

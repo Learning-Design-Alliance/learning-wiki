@@ -3,7 +3,7 @@ type: strategy
 id: looking-at-student-work-protocols-ngss
 title: Two looking-at-student-work protocols for monitoring progress toward 3D NGSS learning
 description: "The Early Implementers use two protocols: one within the TLC, where teams create expected student responses and preliminary rubrics, sort student work into high, medium, and low performance, identify characteristics o..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

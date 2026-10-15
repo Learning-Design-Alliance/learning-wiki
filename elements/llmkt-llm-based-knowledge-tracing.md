@@ -4,7 +4,7 @@ id: llmkt-llm-based-knowledge-tracing
 title: "LLMKT: LLM-Based Knowledge Tracing for Dialogues"
 description: "LLMKT is the article's knowledge tracing method: \"a novel LLM-based KT method, LLMKT, that leverages the textual content in dialogues, by fine-tuning the open-source Llama 3 LLM\" on the KT objective."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

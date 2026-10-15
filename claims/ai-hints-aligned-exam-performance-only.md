@@ -3,7 +3,7 @@ type: claim
 title: AI-generated homework hints were positively associated with exam performance only when exam questions closely matched the homework content
 description: AI-generated homework hints were positively associated with exam performance only when exam questions closely matched the homework content
 id: ai-hints-aligned-exam-performance-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

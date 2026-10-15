@@ -3,7 +3,7 @@ type: claim
 title: "High-stakes testing pushed some Chicago schools toward test preparation and away from partners' long-term instructional improvement efforts"
 description: "High-stakes testing pushed some Chicago schools toward test preparation and away from partners' long-term instructional improvement efforts"
 id: high-stakes-testing-crowded-out-partner-efforts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

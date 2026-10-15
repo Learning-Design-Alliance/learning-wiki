@@ -3,7 +3,7 @@ type: strategy
 id: cross-district-improvement-collaboration-structure
 title: Run a cross-district improvement collaboration combining content communities, dedicated advisors, and structured peer feedback
 description: The article describes how CALLI organized district teams with shared content focus into learning communities convened three times a year for two days of professional learning, where interdistrict discussions provided...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

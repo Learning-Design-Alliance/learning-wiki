@@ -3,7 +3,7 @@ type: strategy
 id: web-platforms-enable-classroom-rcts
 title: Use web-based educational platforms to run individual-level randomized experiments in the classroom
 description: "The authors propose that web-based platforms such as learning management systems and MOOCs make individual-level randomization, the core of high-quality RCTs, much easier because personalizing an individual's experien..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

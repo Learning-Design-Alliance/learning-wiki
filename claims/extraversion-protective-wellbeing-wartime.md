@@ -3,7 +3,7 @@ type: claim
 title: Extraversion correlates negatively with well-being decline in wartime students, though less strongly than emotional stability
 description: Extraversion correlates negatively with well-being decline in wartime students, though less strongly than emotional stability
 id: extraversion-protective-wellbeing-wartime
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

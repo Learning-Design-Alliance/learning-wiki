@@ -3,7 +3,7 @@ type: claim
 title: Under high extraneous load (hint presentation and L and rL condition), no test-score increases were observed on identical or near-transfer problems
 description: Under high extraneous load (hint presentation and L and rL condition), no test-score increases were observed on identical or near-transfer problems
 id: extraneous-load-eliminates-germane-load-learning-gains
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

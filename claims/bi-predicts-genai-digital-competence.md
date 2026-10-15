@@ -3,7 +3,7 @@ type: claim
 title: "Behavioural intention to use GenAI tools significantly predicts in-service teachers' self-reported pedagogical digital competence for curriculum planning"
 description: "Behavioural intention to use GenAI tools significantly predicts in-service teachers' self-reported pedagogical digital competence for curriculum planning"
 id: bi-predicts-genai-digital-competence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review
 description: Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review
 id: spaced-retrieval-multiyear-vocabulary-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

@@ -3,7 +3,7 @@ type: claim
 title: "Trust in AI varied by positioning: partners saw bias and assigned their own grades, while substitutes trusted AI scores as actual grades"
 description: "Trust in AI varied by positioning: partners saw bias and assigned their own grades, while substitutes trusted AI scores as actual grades"
 id: ai-trust-varies-by-positioning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

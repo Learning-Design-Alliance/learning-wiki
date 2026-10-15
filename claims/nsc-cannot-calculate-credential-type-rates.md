@@ -3,7 +3,7 @@ type: claim
 title: NSC data cannot be used alone to calculate two-year credential-type completion rates because 57.5 percent of completion records have a blank credential name field
 description: NSC data cannot be used alone to calculate two-year credential-type completion rates because 57.5 percent of completion records have a blank credential name field
 id: nsc-cannot-calculate-credential-type-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

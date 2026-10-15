@@ -3,7 +3,7 @@ type: claim
 title: Zero-shot GenAI feedback quality is statistically comparable to teacher feedback quality
 description: Zero-shot GenAI feedback quality is statistically comparable to teacher feedback quality
 id: zero-shot-feedback-quality-comparable-to-teacher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Security risk perception is positively associated with perceived academic assistance and skill development benefits of Gen AI among university students
 description: Security risk perception is positively associated with perceived academic assistance and skill development benefits of Gen AI among university students
 id: security-risk-positive-academic-skill-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

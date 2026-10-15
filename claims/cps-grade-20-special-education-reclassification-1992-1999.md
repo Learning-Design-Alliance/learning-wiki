@@ -3,7 +3,7 @@ type: claim
 title: CPS sharply reduced the number of non-graded (grade 20) special education students of grades 3-8 age, from 6,180 in 1992 to 773 in 1999
 description: CPS sharply reduced the number of non-graded (grade 20) special education students of grades 3-8 age, from 6,180 in 1992 to 773 in 1999
 id: cps-grade-20-special-education-reclassification-1992-1999
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

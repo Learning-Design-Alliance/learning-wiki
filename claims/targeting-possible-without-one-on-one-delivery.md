@@ -3,7 +3,7 @@ type: claim
 title: One-on-one service delivery may not be the only way to target services to individual student needs
 description: One-on-one service delivery may not be the only way to target services to individual student needs
 id: targeting-possible-without-one-on-one-delivery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

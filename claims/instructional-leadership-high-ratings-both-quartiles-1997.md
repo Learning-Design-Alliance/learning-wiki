@@ -3,7 +3,7 @@ type: claim
 title: "Instructional leadership ratings are high even in bottom-quartile Chicago high schools: 85 percent of top-quartile teachers give strong or very strong ratings, and half of bottom-quartile teachers do so as well"
 description: "Instructional leadership ratings are high even in bottom-quartile Chicago high schools: 85 percent of top-quartile teachers give strong or very strong ratings, and half of bottom-quartile teachers do so as well"
 id: instructional-leadership-high-ratings-both-quartiles-1997
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

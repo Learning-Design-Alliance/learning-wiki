@@ -3,7 +3,7 @@ type: claim
 title: Task completion with GenAI is a weak proxy for durable competence, with struggling learners at risk of an illusion of competence
 description: Task completion with GenAI is a weak proxy for durable competence, with struggling learners at risk of an illusion of competence
 id: task-completion-weak-proxy-competence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

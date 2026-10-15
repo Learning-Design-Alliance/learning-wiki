@@ -3,7 +3,7 @@ type: design
 id: ncs-partner-high-school-team-structures
 title: A predictable set of educator teams — freshman success, instructional leadership, postsecondary leadership, senior leadership, and care — drives improvement in NCS partner high schools
 description: The paper describes the teaming structures used to drive improvement in NCS partner high schools, where visiting educators would likely find a predictable set of teams.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

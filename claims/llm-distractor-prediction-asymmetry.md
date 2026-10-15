@@ -3,7 +3,7 @@ type: claim
 title: LLMs predict common distractors above chance but fall 15 percentage points below chance at predicting which errors students rarely select
 description: LLMs predict common distractors above chance but fall 15 percentage points below chance at predicting which errors students rarely select
 id: llm-distractor-prediction-asymmetry
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

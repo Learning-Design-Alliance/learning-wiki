@@ -3,7 +3,7 @@ type: strategy
 id: teacher-supports-curriculum-customization
 title: Support teachers to customize curriculum for local relevance and cultural responsiveness
 description: "The article outlines an example research project, Customizing OpenSciEd materials to students' local contexts, identities, and funds of knowledge, combining professional learning strategies with design heuristics."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

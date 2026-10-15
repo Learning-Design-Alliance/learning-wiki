@@ -3,7 +3,7 @@ type: claim
 title: "Noncertified Texas teachers show the sharpest retention decline, with fewer than 40% still teaching after 5 years"
 description: "Noncertified Texas teachers show the sharpest retention decline, with fewer than 40% still teaching after 5 years"
 id: noncertified-sharpest-retention-decline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

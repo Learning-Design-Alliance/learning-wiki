@@ -3,7 +3,7 @@ type: strategy
 id: explicit-subzone-classification-instruction
 title: Teach subzone classification explicitly as a teachable, assessable cognitive skill in clinical curricula
 description: The article recommends treating subzone classification as a teachable and assessable cognitive skill rather than policing AI use.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

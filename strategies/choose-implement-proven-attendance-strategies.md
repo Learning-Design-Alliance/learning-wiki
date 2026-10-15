@@ -3,7 +3,7 @@ type: strategy
 id: choose-implement-proven-attendance-strategies
 title: Choose and implement proven strategies to improve early-grade attendance
 description: "The fact sheet's stated approach is to help districts and schools select and carry out strategies with an evidence base for improving attendance among the youngest learners."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

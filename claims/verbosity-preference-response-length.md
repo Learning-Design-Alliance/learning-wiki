@@ -3,7 +3,7 @@ type: claim
 title: Verbosity preference is associated with systematic variation in LLM response length
 description: Verbosity preference is associated with systematic variation in LLM response length
 id: verbosity-preference-response-length
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

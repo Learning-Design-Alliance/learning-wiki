@@ -2,7 +2,7 @@
 type: theory
 title: "Mead's theory of the social origin of reflective consciousness"
 description: "The article reconstructs Mead's central claim that reflective consciousness — both self-consciousness and conceptual thought — is not an original endowment but emerges within social interaction."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

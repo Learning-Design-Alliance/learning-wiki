@@ -3,7 +3,7 @@ type: claim
 title: AI review difficulty also correlates with problem-level non-attempt rate, providing process evidence beyond pass rate
 description: AI review difficulty also correlates with problem-level non-attempt rate, providing process evidence beyond pass rate
 id: ai-difficulty-non-attempt-rate-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "Dynamic assessment reflects young children's learning potential more accurately than static tests, especially with minority and learning disabled children"
 description: "Dynamic assessment reflects young children's learning potential more accurately than static tests, especially with minority and learning disabled children"
 id: da-more-accurate-than-static-tests-young-children
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

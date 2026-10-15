@@ -3,7 +3,7 @@ type: design
 id: duolingo-scaffolding-hearts-progression
 title: Scaffolding via level-gated progression and hearts in Duolingo
 description: "The article describes Duolingo's design as scaffolding, in which learners progress into more advanced levels once they show competence at the previous level."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

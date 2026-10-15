@@ -3,7 +3,7 @@ type: claim
 title: Children from economically disadvantaged families are at greater risk for poor kindergarten transitions than their peers
 description: Children from economically disadvantaged families are at greater risk for poor kindergarten transitions than their peers
 id: economically-disadvantaged-greater-kindergarten-transition-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: element
 id: amsti-rotating-materials-kits
 title: Rotating materials kits supplying all hands-on math and science instructional materials
 description: A supporting component of AMSTI is the provision of complete instructional materials to teachers.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

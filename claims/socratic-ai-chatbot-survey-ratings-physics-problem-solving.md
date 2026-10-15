@@ -3,7 +3,7 @@ type: claim
 title: Students rate a Socratic AI chatbot highest for knowledge-based skills (median ≈ 4.0/5) and positively for overall effectiveness (median ≈ 3.4/5) in an introductory mechanics course
 description: Students rate a Socratic AI chatbot highest for knowledge-based skills (median ≈ 4.0/5) and positively for overall effectiveness (median ≈ 3.4/5) in an introductory mechanics course
 id: socratic-ai-chatbot-survey-ratings-physics-problem-solving
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

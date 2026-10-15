@@ -3,7 +3,7 @@ type: claim
 title: General academic supports and quality instruction are insufficient to foster civic commitment; supportive teachers and quality instruction were not statistically related to it
 description: General academic supports and quality instruction are insufficient to foster civic commitment; supportive teachers and quality instruction were not statistically related to it
 id: academic-outcomes-focus-insufficient-civic-commitment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

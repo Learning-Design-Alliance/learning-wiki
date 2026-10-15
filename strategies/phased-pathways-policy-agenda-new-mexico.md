@@ -3,7 +3,7 @@ type: strategy
 id: phased-pathways-policy-agenda-new-mexico
 title: "Phased policy agenda for building a statewide pathways system: immediate low-cost COVID-recovery steps followed by longer-term investments"
 description: The report lays out ten recommendations in two phases.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: The report calls for reframing edtech certification applications to help developers identify equity gaps in the research they use
 description: The report calls for reframing edtech certification applications to help developers identify equity gaps in the research they use
 id: certification-equity-gap-reframing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

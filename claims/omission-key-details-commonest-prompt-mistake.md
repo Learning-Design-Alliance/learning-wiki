@@ -3,7 +3,7 @@ type: claim
 title: The most common prompt mistakes are omissions of key details, most frequently the specified function return type
 description: The most common prompt mistakes are omissions of key details, most frequently the specified function return type
 id: omission-key-details-commonest-prompt-mistake
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

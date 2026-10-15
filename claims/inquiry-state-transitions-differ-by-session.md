@@ -3,7 +3,7 @@ type: claim
 title: "Students' inquiry sequences differ by session: most start with Assertion questions in Session 1 (prob = 0.48) but with Instrumental/Procedural questions in Session 2 (prob = 0.43)"
 description: "Students' inquiry sequences differ by session: most start with Assertion questions in Session 1 (prob = 0.48) but with Instrumental/Procedural questions in Session 2 (prob = 0.43)"
 id: inquiry-state-transitions-differ-by-session
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

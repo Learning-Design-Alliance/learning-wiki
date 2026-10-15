@@ -2,7 +2,7 @@
 type: theory
 title: Taxonomy of EL reclassification policy complexity based on the number and type of test-based criteria
 description: The report organizes state reclassification policies along a complexity axis defined by the type and number of test-based benchmarks students must meet.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

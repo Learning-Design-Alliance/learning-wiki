@@ -3,7 +3,7 @@ type: claim
 title: "Onto-semiotic analysis of Starbird's intuitive integral presentation identifies five epistemic configurations of practices, objects and processes"
 description: "Onto-semiotic analysis of Starbird's intuitive integral presentation identifies five epistemic configurations of practices, objects and processes"
 id: starbird-intuitive-integral-five-configurations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: design
 id: trustworthiness-violation-visualizations-llm-responses
 title: Six visualizations for tracing and comparing trustworthiness metric violations across LLM responses
 description: The article co-designed six visualizations that help learning engineers trace where each trustworthiness metric was violated in an LLM response and compare relative performance across multiple responses.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

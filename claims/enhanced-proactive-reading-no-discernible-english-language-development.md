@@ -3,7 +3,7 @@ type: claim
 title: Enhanced Proactive Reading shows no discernible effects on English language development
 description: Enhanced Proactive Reading shows no discernible effects on English language development
 id: enhanced-proactive-reading-no-discernible-english-language-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

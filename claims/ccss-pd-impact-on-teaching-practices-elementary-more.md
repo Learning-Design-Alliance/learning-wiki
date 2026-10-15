@@ -3,7 +3,7 @@ type: claim
 title: Elementary teachers were more likely than high school teachers to report that standards-related professional development had extensive impact on their teaching practices
 description: Elementary teachers were more likely than high school teachers to report that standards-related professional development had extensive impact on their teaching practices
 id: ccss-pd-impact-on-teaching-practices-elementary-more
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

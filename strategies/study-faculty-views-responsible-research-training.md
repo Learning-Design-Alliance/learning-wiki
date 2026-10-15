@@ -3,7 +3,7 @@ type: strategy
 id: study-faculty-views-responsible-research-training
 title: "Study faculty advisors' and mentors' own views of their role in educating doctoral students about responsible research"
 description: "The article describes a study designed with the Office of Research Integrity \"to learn what role faculty advisors and mentors believe they play in educating doctoral students to conduct responsible research.\" The appr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

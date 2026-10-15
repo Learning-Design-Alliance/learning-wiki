@@ -3,7 +3,7 @@ type: claim
 title: Both flipped and AI-enhanced flipped classrooms achieve higher in-class question accuracy than the traditional classroom
 description: Both flipped and AI-enhanced flipped classrooms achieve higher in-class question accuracy than the traditional classroom
 id: flipped-models-higher-question-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

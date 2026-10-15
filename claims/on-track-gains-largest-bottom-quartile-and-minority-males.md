@@ -3,7 +3,7 @@ type: claim
 title: On-Track gains were largest in the lowest-performing schools and among African American and Latino males
 description: On-Track gains were largest in the lowest-performing schools and among African American and Latino males
 id: on-track-gains-largest-bottom-quartile-and-minority-males
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

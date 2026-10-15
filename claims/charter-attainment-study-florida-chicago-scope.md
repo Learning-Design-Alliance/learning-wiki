@@ -3,7 +3,7 @@ type: claim
 title: The study examines charter high school effects on educational attainment in two settings, Florida and Chicago
 description: The study examines charter high school effects on educational attainment in two settings, Florida and Chicago
 id: charter-attainment-study-florida-chicago-scope
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

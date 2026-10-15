@@ -3,7 +3,7 @@ type: claim
 title: Each form of accountability can produce favorable or unfavorable effects
 description: Each form of accountability can produce favorable or unfavorable effects
 id: each-accountability-form-favorable-or-unfavorable-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

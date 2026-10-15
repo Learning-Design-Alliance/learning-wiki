@@ -4,7 +4,7 @@ id: alharbi-et-al-2026-scenario-rubric-artefact-rubric-and-engagement-index
 title: Alharbi et al. (2026) Scenario Rubric, Artefact Rubric, and engagement index
 description: A set of original instruments developed by Alharbi et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

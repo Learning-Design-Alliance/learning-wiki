@@ -3,7 +3,7 @@ type: strategy
 id: autonomy-supportive-esp-teaching-strategies
 title: Autonomy-supportive ESP teaching strategies to foster motivation
 description: The article recommends that ESP educators design language programs emphasizing autonomy and create supportive contexts for practice.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

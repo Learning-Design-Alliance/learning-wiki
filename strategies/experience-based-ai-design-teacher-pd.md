@@ -3,7 +3,7 @@ type: strategy
 id: experience-based-ai-design-teacher-pd
 title: Shift teacher professional development from information-based training to experience-based AI design activities in sustainability contexts
 description: The article recommends that teacher training programs prioritise applied learning rather than introducing AI concepts or promoting positive attitudes alone.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

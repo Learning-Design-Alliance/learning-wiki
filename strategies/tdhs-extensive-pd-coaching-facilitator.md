@@ -3,7 +3,7 @@ type: strategy
 id: tdhs-extensive-pd-coaching-facilitator
 title: Provide extensive initial training plus ongoing coaching, with a teacher-level facilitator, when adopting a whole-school reform model
 description: "Implementing the Talent Development High School model relies on building staff capacity: \"Extensive professional development is provided, both initial training and ongoing coaching.\" Adoption also carries a staffing r..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

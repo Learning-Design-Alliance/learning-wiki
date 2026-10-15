@@ -3,7 +3,7 @@ type: claim
 title: Reviewed AI literature portrays AI as having transformative capacity to reshape educational methodologies, with a need for balancing guidelines
 description: Reviewed AI literature portrays AI as having transformative capacity to reshape educational methodologies, with a need for balancing guidelines
 id: ai-transformative-capacity-guidelines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

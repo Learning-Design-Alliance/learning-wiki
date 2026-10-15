@@ -3,7 +3,7 @@ type: claim
 title: "Teachers who tried ReadWorks features reported high intent to assign more and higher-level articles (89% and 82%)"
 description: "Teachers who tried ReadWorks features reported high intent to assign more and higher-level articles (89% and 82%)"
 id: readworks-features-raise-teacher-assignment-ambitions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

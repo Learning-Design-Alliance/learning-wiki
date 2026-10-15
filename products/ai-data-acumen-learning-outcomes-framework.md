@@ -4,7 +4,7 @@ id: ai-data-acumen-learning-outcomes-framework
 title: "AI & Data Acumen Learning Outcomes Framework"
 description: A University of Arizona faculty, student, and staff task force framework that crosses seven AI-and-data knowledge dimensions with four cognitive proficiency levels to support higher-education curriculum development and assessment.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

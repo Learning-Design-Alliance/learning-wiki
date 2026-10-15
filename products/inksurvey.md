@@ -4,7 +4,7 @@ id: inksurvey
 title: InkSurvey
 description: InkSurvey is free, web-based software developed for educators that collects keyed or digital-ink student responses in real time and enables anonymous display to a class.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

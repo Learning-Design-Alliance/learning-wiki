@@ -3,7 +3,7 @@ type: element
 id: bridge-multidimensional-educator-evaluation-framework-charleston
 title: Charleston County School District BRIDGE multi-dimensional educator evaluation framework
 description: "The BRIDGE framework is the district's multi-dimensional educator evaluation system, in which value-added measures are one component."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

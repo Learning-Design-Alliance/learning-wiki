@@ -3,7 +3,7 @@ type: research-method
 id: a-five-level-scale-of-learning-theory-operationalization-l0-mention-to-l4-operational-impl
 title: A five-level scale of learning-theory operationalization (L0 mention to L4 operational implementation)
 description: "To analyze the role of theory in studies of digital educational technologies, the article defines a scale distinguishing ways learning theories influence research, \"ranging from simple conceptual mention to their implementation as functional components of educational technologies.\" The levels are L0"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

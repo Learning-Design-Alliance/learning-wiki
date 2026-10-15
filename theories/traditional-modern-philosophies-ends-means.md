@@ -3,7 +3,7 @@ type: theory
 title: Traditional versus modern philosophies distinguished by who determines ends and means
 description: "Apps organizes the four general philosophies by a structural axis: idealism and realism are traditional, while experimentalism and existentialism are modern."
 canonical: true
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

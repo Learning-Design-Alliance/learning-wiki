@@ -3,7 +3,7 @@ type: claim
 title: A descriptive report defines peer assisted learning and asserts, without a tested result, that it promotes knowledge construction, collaboration ability and interpersonal interaction
 description: A descriptive report defines peer assisted learning and asserts, without a tested result, that it promotes knowledge construction, collaboration ability and interpersonal interaction
 id: peer-assisted-learning-improves-learning-outcomes
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: "Job Corps' completion effect came entirely from GED receipt, with a small statistically significant negative effect on earning a high school diploma"
 description: "Job Corps' completion effect came entirely from GED receipt, with a small statistically significant negative effect on earning a high school diploma"
 id: job-corps-ged-gain-diploma-decline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

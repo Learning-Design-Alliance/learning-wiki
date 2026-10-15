@@ -3,7 +3,7 @@ type: strategy
 id: district-priority-retaining-teachers-of-color
 title: "Make retaining teachers of color a district priority: compensate the invisible tax and place teachers in cohorts to reduce isolation"
 description: "District leaders should publish transparent compensation matrices, monetize the extra burdens teachers of color carry (the \"invisible tax\"), give principals flexible budget autonomy, and intentionally recruit and plac..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

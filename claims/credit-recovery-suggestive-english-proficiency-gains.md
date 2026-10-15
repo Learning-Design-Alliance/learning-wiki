@@ -3,7 +3,7 @@ type: claim
 title: Summer credit recovery shows suggestive evidence of positive effects on English proficiency for newcomer ELs
 description: Summer credit recovery shows suggestive evidence of positive effects on English proficiency for newcomer ELs
 id: credit-recovery-suggestive-english-proficiency-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

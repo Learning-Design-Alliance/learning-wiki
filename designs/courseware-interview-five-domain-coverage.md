@@ -3,7 +3,7 @@ type: design
 id: courseware-interview-five-domain-coverage
 title: Interview coverage spanning five question domains from platform experience to belonging
 description: "The protocol organizes its questions into recurring domains: general platform and structure, courseware-specific features, course content, student learning behaviors, and student perceptions and sense of belonging, cl..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -2,7 +2,7 @@
 type: claim
 title: Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning
 id: mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

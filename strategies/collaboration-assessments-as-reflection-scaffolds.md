@@ -3,7 +3,7 @@ type: strategy
 id: collaboration-assessments-as-reflection-scaffolds
 title: Use automated collaboration assessments as scaffolds for reflection rather than ground truth
 description: The article recommends treating LLM-generated 7C collaboration assessments as structured entry points that accelerate the feedback loop for developing collaboration skills, since structured reflection normally require...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

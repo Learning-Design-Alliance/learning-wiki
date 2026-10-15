@@ -3,7 +3,7 @@ type: claim
 title: KIPP charter schools have potentially positive effects on social studies achievement, with mixed study findings
 description: KIPP charter schools have potentially positive effects on social studies achievement, with mixed study findings
 id: kipp-mixed-social-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

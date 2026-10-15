@@ -3,7 +3,7 @@ type: claim
 title: Time spent between teachers and coaches is one of the most important factors in a successful coaching program
 description: Time spent between teachers and coaches is one of the most important factors in a successful coaching program
 id: coach-teacher-time-key-success-factor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Staff feedback from teacher surveys can serve as evidence in evaluating school leaders' performance"
 description: "Staff feedback from teacher surveys can serve as evidence in evaluating school leaders' performance"
 id: staff-feedback-teacher-surveys-principal-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

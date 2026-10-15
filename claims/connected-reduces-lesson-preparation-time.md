@@ -3,7 +3,7 @@ type: claim
 title: ConnectED reduces 45-minute lesson preparation time to approximately 15–20 minutes in-system, versus 3–4 hours for manual preparation
 description: ConnectED reduces 45-minute lesson preparation time to approximately 15–20 minutes in-system, versus 3–4 hours for manual preparation
 id: connected-reduces-lesson-preparation-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

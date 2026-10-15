@@ -3,7 +3,7 @@ type: strategy
 id: erwc-pacing-adaptation-strategy
 title: "Adapt ERWC pacing by combining activities and supplementing with teachers' own materials"
 description: "Teachers who found the course pacing challenging made modifications: they were \"able to make some modifications to the curriculum by combining activities,\" and other teachers reported \"supplementing ERWC with their ow..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

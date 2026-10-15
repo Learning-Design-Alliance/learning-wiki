@@ -3,7 +3,7 @@ type: strategy
 id: one-on-one-writing-conferences
 title: Hold one-on-one writing conferences to negotiate feedback and revision
 description: One-on-one writing conferences, whose purpose is to transmit feedback and discuss potential revision, derive their value from the negotiation and collaboration that take place during this pedagogical activity.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

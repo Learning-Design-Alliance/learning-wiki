@@ -3,7 +3,7 @@ type: claim
 title: "The first release of New York's Common Core exam results was widely misread as showing dramatic declines in student achievement"
 description: "The first release of New York's Common Core exam results was widely misread as showing dramatic declines in student achievement"
 id: ny-common-core-results-misread-as-decline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: aarp-foundation-experience-corps
 title: AARP Foundation Experience Corps
 description: AARP Foundation Experience Corps is a volunteer-based literacy tutoring programme run by AARP Foundation in which trained adults aged 50 and older tutor struggling K–3 readers individually or in small groups.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

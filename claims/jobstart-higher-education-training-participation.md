@@ -3,7 +3,7 @@ type: claim
 title: JOBSTART youth participated in substantially more education and training during follow-up than control youth
 description: JOBSTART youth participated in substantially more education and training during follow-up than control youth
 id: jobstart-higher-education-training-participation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

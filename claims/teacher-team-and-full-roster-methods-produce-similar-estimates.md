@@ -3,7 +3,7 @@ type: claim
 title: The Teacher Team Method and Full Roster Method produce similar estimates of teacher value added
 description: The Teacher Team Method and Full Roster Method produce similar estimates of teacher value added
 id: teacher-team-and-full-roster-methods-produce-similar-estimates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

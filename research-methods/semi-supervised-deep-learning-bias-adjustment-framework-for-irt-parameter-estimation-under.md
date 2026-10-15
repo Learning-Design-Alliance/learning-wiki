@@ -3,7 +3,7 @@ type: research-method
 id: semi-supervised-deep-learning-bias-adjustment-framework-for-irt-parameter-estimation-under
 title: Semi-supervised deep learning bias-adjustment framework for IRT parameter estimation under nonignorable missingness
 description: The article introduces a framework combining semi-supervised learning with deep learning to adjust biased 2PL-IRT parameter estimates caused by nonignorable missingness in VLE data.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

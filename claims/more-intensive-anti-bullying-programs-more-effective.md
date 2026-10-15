@@ -3,7 +3,7 @@ type: claim
 title: More intensive anti-bullying programs are more effective
 description: More intensive anti-bullying programs are more effective
 id: more-intensive-anti-bullying-programs-more-effective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

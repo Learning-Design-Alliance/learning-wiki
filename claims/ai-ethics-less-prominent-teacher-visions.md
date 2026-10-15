@@ -3,7 +3,7 @@ type: claim
 title: "Ethical and governance dimensions of AI were less prominent in teachers' narratives than pedagogical opportunities"
 description: "Ethical and governance dimensions of AI were less prominent in teachers' narratives than pedagogical opportunities"
 id: ai-ethics-less-prominent-teacher-visions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

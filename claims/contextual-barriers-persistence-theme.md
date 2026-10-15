@@ -3,7 +3,7 @@ type: claim
 title: Teachers identify attendance, unreliable devices, prior academic gaps, and COVID-related disruption as compounding contextual barriers to persistence
 description: Teachers identify attendance, unreliable devices, prior academic gaps, and COVID-related disruption as compounding contextual barriers to persistence
 id: contextual-barriers-persistence-theme
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

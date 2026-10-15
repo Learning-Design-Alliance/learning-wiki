@@ -3,7 +3,7 @@ type: claim
 title: The perception that language minority students bring language disadvantages and knowledge deficiencies from home has too often led to lowered academic expectations for them.
 description: The perception that language minority students bring language disadvantages and knowledge deficiencies from home has too often led to lowered academic expectations for them.
 id: deficit-view-of-minority-households-lowers-academic-expectations
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

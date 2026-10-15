@@ -3,7 +3,7 @@ type: claim
 title: Assignment quality improved between 1997 and 1999, yet math assignment challenge remained very low
 description: Assignment quality improved between 1997 and 1999, yet math assignment challenge remained very low
 id: assignment-quality-improved-but-math-challenge-low
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

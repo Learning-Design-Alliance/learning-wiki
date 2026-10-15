@@ -3,7 +3,7 @@ type: strategy
 id: consider-removing-criterion4-reclassification
 title: "Consider removing Criterion 4 from California's reclassification requirements while maintaining the ELPAC overall PL 4 threshold"
 description: The report recommends that the CDE consider removing the locally determined basic-skills comparison (Criterion 4) from reclassification requirements, while maintaining ELPAC overall PL 4 as the Criterion 1 threshold.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

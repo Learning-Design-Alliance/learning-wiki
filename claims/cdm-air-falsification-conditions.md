@@ -3,7 +3,7 @@ type: claim
 title: CDM-AIR declares four falsification conditions, including moderation nullity and context redundancy
 description: CDM-AIR declares four falsification conditions, including moderation nullity and context redundancy
 id: cdm-air-falsification-conditions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: feature-driven-ml-baseline-bias-flagging
 title: Use interpretable feature-driven machine learning as a human-in-the-loop baseline for flagging ethnic bias in learning content
 description: "The article positions learning analytics as supporting, not replacing, human review of educational texts: automated detection offers \"a scalable solution while retaining human judgment for nuanced evaluations\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

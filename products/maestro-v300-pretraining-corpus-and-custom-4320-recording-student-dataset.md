@@ -4,7 +4,7 @@ id: maestro-v300-pretraining-corpus-and-custom-4320-recording-student-dataset
 title: MAESTRO v3.0.0 pretraining corpus and custom 4,320-recording student dataset
 description: The MAESTRO corpus is a public collection of MIDI-aligned solo-piano performances, while Zhu et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

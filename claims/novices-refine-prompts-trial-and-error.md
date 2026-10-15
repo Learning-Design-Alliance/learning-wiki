@@ -3,7 +3,7 @@ type: claim
 title: GenAI novices develop prompting strategies through trial and error, starting from zero-shot prompts and refining them after unsatisfactory outputs
 description: GenAI novices develop prompting strategies through trial and error, starting from zero-shot prompts and refining them after unsatisfactory outputs
 id: novices-refine-prompts-trial-and-error
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

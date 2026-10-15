@@ -3,7 +3,7 @@ type: claim
 title: "Guidance during inquiry learning produces a medium-to-large improvement in learners' use of inquiry skills during the inquiry"
 description: "Guidance during inquiry learning produces a medium-to-large improvement in learners' use of inquiry skills during the inquiry"
 id: guidance-improves-inquiry-learning-activities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

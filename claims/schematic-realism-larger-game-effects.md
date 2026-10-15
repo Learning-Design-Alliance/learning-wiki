@@ -3,7 +3,7 @@ type: claim
 title: Schematic visual realism is associated with significantly larger game learning effects than realistic visuals, which show no benefit
 description: Schematic visual realism is associated with significantly larger game learning effects than realistic visuals, which show no benefit
 id: schematic-realism-larger-game-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

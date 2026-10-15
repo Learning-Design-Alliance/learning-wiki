@@ -3,7 +3,7 @@ type: claim
 title: "The review reports that role-playing exercises significantly enhanced students' 21st-century skills including communication, collaboration, and critical thinking"
 description: "The review reports that role-playing exercises significantly enhanced students' 21st-century skills including communication, collaboration, and critical thinking"
 id: role-play-enhances-21st-century-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

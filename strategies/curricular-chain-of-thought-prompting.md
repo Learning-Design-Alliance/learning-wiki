@@ -3,7 +3,7 @@ type: strategy
 id: curricular-chain-of-thought-prompting
 title: "Curricular chain-of-thought prompting: extract key pedagogical elements before competency inference"
 description: A reasoning-based prompting strategy in which the LLM first extracts key pedagogical components using guided questions grounded in curriculum design theory, then synthesizes them into a standardized structured summary...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

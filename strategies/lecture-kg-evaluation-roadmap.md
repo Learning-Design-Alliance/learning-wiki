@@ -3,7 +3,7 @@ type: strategy
 id: lecture-kg-evaluation-roadmap
 title: "Rigorous evaluation roadmap for lecture-KG systems: gold-standard annotation, controlled ablations, and faithfulness metrics"
 description: "The article's future-work section lays out an implementable evaluation program: \"(1) annotate concept mentions, canonical entities, relations, evidence validity, and QA; (2) add domain-aware lemmatization, alias dicti..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

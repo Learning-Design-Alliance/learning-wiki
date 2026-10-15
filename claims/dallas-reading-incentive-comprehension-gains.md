@@ -3,7 +3,7 @@ type: claim
 title: Paying second-grade students to read books increases reading comprehension by roughly 0.18–0.25 standard deviations in Dallas
 description: Paying second-grade students to read books increases reading comprehension by roughly 0.18–0.25 standard deviations in Dallas
 id: dallas-reading-incentive-comprehension-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

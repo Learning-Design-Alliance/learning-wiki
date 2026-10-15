@@ -3,7 +3,7 @@ type: claim
 title: Continuous improvement can fall short when it becomes a compliance-based checklist activity detached from purpose and equity
 description: Continuous improvement can fall short when it becomes a compliance-based checklist activity detached from purpose and equity
 id: ci-compliance-activity-undermines-equity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

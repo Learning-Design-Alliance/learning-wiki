@@ -3,7 +3,7 @@ type: strategy
 id: mtss-three-tier-universal-screening-wellbeing
 title: Organize student well-being supports through a three-tier MTSS with universal screening
 description: "The report recommends that school leaders use multitiered systems of support (MTSS) to organize academic, behavioral, and social-emotional interventions based on three tiers: universal (all students), targeted (small..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Pre-experimental knowledge and education level relate to specific knowledge categories
 description: Pre-experimental knowledge and education level relate to specific knowledge categories
 id: prior-knowledge-education-relate-knowledge-categories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

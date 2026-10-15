@@ -3,7 +3,7 @@ type: claim
 title: An intelligent reading tutor used 20 minutes a day offered time efficiencies over conventional human tutoring of 30 or more minutes a day
 description: An intelligent reading tutor used 20 minutes a day offered time efficiencies over conventional human tutoring of 30 or more minutes a day
 id: intelligent-reading-tutor-time-efficiency-over-human-tutoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

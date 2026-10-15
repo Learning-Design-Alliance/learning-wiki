@@ -3,7 +3,7 @@ type: claim
 title: Increased retirements and resignations contributed to shortages in most large districts surveyed
 description: Increased retirements and resignations contributed to shortages in most large districts surveyed
 id: retirements-resignations-contributed-shortages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

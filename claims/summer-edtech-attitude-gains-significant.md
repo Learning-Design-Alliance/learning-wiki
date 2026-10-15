@@ -3,7 +3,7 @@ type: claim
 title: Students reported statistically significant pre-post improvements in attitudes about learning after the summer ed-tech programs
 description: Students reported statistically significant pre-post improvements in attitudes about learning after the summer ed-tech programs
 id: summer-edtech-attitude-gains-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

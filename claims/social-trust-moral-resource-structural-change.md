@@ -3,7 +3,7 @@ type: claim
 title: Relational trust functions as a moral resource enabling organizations to effect major structural change
 description: Relational trust functions as a moral resource enabling organizations to effect major structural change
 id: social-trust-moral-resource-structural-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

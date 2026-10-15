@@ -3,7 +3,7 @@ type: claim
 title: Strategy variety for drawing attention was higher in the no-instruction and peer tutoring groups, while frequency was higher in the instruction groups
 description: Strategy variety for drawing attention was higher in the no-instruction and peer tutoring groups, while frequency was higher in the instruction groups
 id: drawing-attention-variety-no-instruction-peer-tutoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

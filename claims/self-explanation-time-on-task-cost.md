@@ -3,7 +3,7 @@ type: claim
 title: Self-explanation substantially increases time on task, raising questions about its efficiency
 description: Self-explanation substantially increases time on task, raising questions about its efficiency
 id: self-explanation-time-on-task-cost
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

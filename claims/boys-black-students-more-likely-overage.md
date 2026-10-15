@@ -3,7 +3,7 @@ type: claim
 title: Within the same neighborhoods and schools, boys and Black students are more likely to be overage for grade, a proxy for prior retention
 description: Within the same neighborhoods and schools, boys and Black students are more likely to be overage for grade, a proxy for prior retention
 id: boys-black-students-more-likely-overage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Students rate LLM-generated response-level feedback favourably, with clarity and perceived accuracy highest and actionability and usefulness lowest
 description: Students rate LLM-generated response-level feedback favourably, with clarity and perceived accuracy highest and actionability and usefulness lowest
 id: llm-response-feedback-clarity-accuracy-highest-actionability-usefulness-lowest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

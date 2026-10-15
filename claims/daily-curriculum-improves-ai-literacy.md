@@ -3,7 +3,7 @@ type: claim
 title: "The MIT DAILy curriculum significantly improved middle and early high school learners' AI literacy compared to control groups"
 description: "The MIT DAILy curriculum significantly improved middle and early high school learners' AI literacy compared to control groups"
 id: daily-curriculum-improves-ai-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

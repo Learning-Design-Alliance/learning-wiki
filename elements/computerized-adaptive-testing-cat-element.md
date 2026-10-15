@@ -3,7 +3,7 @@ type: element
 id: computerized-adaptive-testing-cat-element
 title: Computerized adaptive testing (CAT) as an assessment component
 description: Computerized adaptive testing (CAT) is a technology-based assessment approach in which the test adjusts its questions as testing proceeds.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

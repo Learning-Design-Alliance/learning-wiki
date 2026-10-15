@@ -3,7 +3,7 @@ type: claim
 title: DC public high schools show wide variation in promotion power for college-ready SAT scores, graduation, and college enrollment
 description: DC public high schools show wide variation in promotion power for college-ready SAT scores, graduation, and college enrollment
 id: wide-variation-dc-high-school-promotion-power
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

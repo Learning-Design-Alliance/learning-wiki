@@ -3,7 +3,7 @@ type: claim
 title: No individual alphabetics outcome reached statistical significance in the WWC analysis
 description: No individual alphabetics outcome reached statistical significance in the WWC analysis
 id: voyager-alphabetics-null-significance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

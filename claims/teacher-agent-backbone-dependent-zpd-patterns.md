@@ -3,7 +3,7 @@ type: claim
 title: Teacher-agent comparisons show backbone-dependent patterns consistent with ZPD-informed adaptation
 description: Teacher-agent comparisons show backbone-dependent patterns consistent with ZPD-informed adaptation
 id: teacher-agent-backbone-dependent-zpd-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: research-method
 id: unidimensional-rasch-model-scaling
 title: Unidimensional Rasch model scaling
 description: All MAP tests assume a single latent achievement factor and are scaled on the unidimensional Rasch model with the RIT scale, linearly transformed from logits (RIT = logit x 10 + 200).
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Les LLMs utilisés comme juges d'évaluation scientifique présentent douze types de biais qui désavantagent les productions s'écartant des canons dominants"
 description: "Les LLMs utilisés comme juges d'évaluation scientifique présentent douze types de biais qui désavantagent les productions s'écartant des canons dominants"
 id: llm-as-a-judge-twelve-bias-types
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

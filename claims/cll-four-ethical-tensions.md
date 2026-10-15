@@ -3,7 +3,7 @@ type: claim
 title: "In CLL, teachers perceive a trust erosion cycle, AI dominance in groups, collaborative hollowing, and a counselor's dilemma"
 description: "In CLL, teachers perceive a trust erosion cycle, AI dominance in groups, collaborative hollowing, and a counselor's dilemma"
 id: cll-four-ethical-tensions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

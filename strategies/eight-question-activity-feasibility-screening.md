@@ -3,7 +3,7 @@ type: strategy
 id: eight-question-activity-feasibility-screening
 title: Screen candidate educational improvement activities with eight pre-determined feasibility questions
 description: "After identifying educational activities that could foster the behaviors named in specific objectives, planners screen them for practicality using eight pre-determined questions: compatibility, complexity, financial c..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

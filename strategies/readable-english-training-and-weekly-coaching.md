@@ -3,7 +3,7 @@ type: strategy
 id: readable-english-training-and-weekly-coaching
 title: Pair program adoption with two days of initial training and weekly coaching meetings
 description: "The page specifies a professional development model for implementing Readable English: \"Two days of training prior to implementation, in addition to weekly meetings with an assigned Readable English reading coach hire..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

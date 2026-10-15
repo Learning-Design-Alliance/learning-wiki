@@ -3,7 +3,7 @@ type: claim
 title: Underprepared teachers are two to three times more likely to leave than prepared teachers, driving a revolving door in high-poverty schools
 description: Underprepared teachers are two to three times more likely to leave than prepared teachers, driving a revolving door in high-poverty schools
 id: underprepared-teachers-leave-two-to-three-times-more
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

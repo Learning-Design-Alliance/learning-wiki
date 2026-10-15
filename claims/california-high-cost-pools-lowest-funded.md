@@ -3,7 +3,7 @@ type: claim
 title: "California's statewide high-cost pools are among the lowest-funded in the nation, and SELPA directors report paperwork burdens outweigh their benefit"
 description: "California's statewide high-cost pools are among the lowest-funded in the nation, and SELPA directors report paperwork burdens outweigh their benefit"
 id: california-high-cost-pools-lowest-funded
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: All three intervention groups converted AI feedback into effective revisions more successfully than regular AI use, with the combined group highest in effective adoption rate
 description: All three intervention groups converted AI feedback into effective revisions more successfully than regular AI use, with the combined group highest in effective adoption rate
 id: interventions-raise-effective-adoption-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

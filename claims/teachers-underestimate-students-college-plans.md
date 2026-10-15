@@ -3,7 +3,7 @@ type: claim
 title: Fewer than 30 percent of high school teachers report that most or all of their students will go on to college
 description: Fewer than 30 percent of high school teachers report that most or all of their students will go on to college
 id: teachers-underestimate-students-college-plans
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

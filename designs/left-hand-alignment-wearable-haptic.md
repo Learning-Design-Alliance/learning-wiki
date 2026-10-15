@@ -3,7 +3,7 @@ type: design
 id: left-hand-alignment-wearable-haptic
 title: Left-hand alignment wearable with personalized baseline and event-based haptic feedback
 description: A lightweight narrow band (approximately 1.5 cm wide) worn around the lower forearm near the wrist, intended to sense wrist alignment and forearm rotation using wearable sensing modalities such as orientation and surf...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

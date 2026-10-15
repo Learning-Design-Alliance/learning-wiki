@@ -3,7 +3,7 @@ type: claim
 title: READ 180® comprehension effects are inconsistent across cohorts within the same study
 description: READ 180® comprehension effects are inconsistent across cohorts within the same study
 id: read-180-comprehension-inconsistent-across-cohorts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

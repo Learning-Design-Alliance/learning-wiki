@@ -3,7 +3,7 @@ type: claim
 title: ASSISTments benefited Hispanic students more than non-Hispanic students
 description: ASSISTments benefited Hispanic students more than non-Hispanic students
 id: assistments-hispanic-students-benefit-more
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

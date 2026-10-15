@@ -3,7 +3,7 @@ type: strategy
 id: teacher-ai-preparedness-and-detectors-strategy
 title: Prepare teachers to use AI expeditiously and provide AI-text detectors for evaluation, alongside updated academic-integrity rules
 description: "The article's forward-looking recommendations for institutions adopting AI tools in courses."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

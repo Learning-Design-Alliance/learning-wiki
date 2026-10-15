@@ -3,7 +3,7 @@ type: claim
 title: Two-year persistence in four-year colleges declined from 66 percent to 60 percent over five years even as enrollee numbers grew
 description: Two-year persistence in four-year colleges declined from 66 percent to 60 percent over five years even as enrollee numbers grew
 id: cps-two-year-persistence-declined-66-to-60
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

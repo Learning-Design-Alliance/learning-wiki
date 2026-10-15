@@ -3,7 +3,7 @@ type: claim
 title: Family engagement is connected to stronger social-emotional development, higher attendance, and better academic outcomes
 description: Family engagement is connected to stronger social-emotional development, higher attendance, and better academic outcomes
 id: family-engagement-linked-better-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

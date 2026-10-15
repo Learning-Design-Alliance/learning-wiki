@@ -3,7 +3,7 @@ type: claim
 title: Algebra access gaps are tied to school poverty levels, geography, and race/ethnicity
 description: Algebra access gaps are tied to school poverty levels, geography, and race/ethnicity
 id: algebra-access-gaps-poverty-geography-race
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

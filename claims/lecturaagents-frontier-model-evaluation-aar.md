@@ -3,7 +3,7 @@ type: claim
 title: "Frontier-model choice affects LecturaAgents performance, with Gemini 3 Pro ranking first at 80.4% AAR"
 description: "Frontier-model choice affects LecturaAgents performance, with Gemini 3 Pro ranking first at 80.4% AAR"
 id: lecturaagents-frontier-model-evaluation-aar
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

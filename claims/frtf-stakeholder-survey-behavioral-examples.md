@@ -3,7 +3,7 @@ type: claim
 title: Stakeholder consultation with 60 WIL students, employers, and educators generated 1,806 behavioral examples distilled into 59
 description: Stakeholder consultation with 60 WIL students, employers, and educators generated 1,806 behavioral examples distilled into 59
 id: frtf-stakeholder-survey-behavioral-examples
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

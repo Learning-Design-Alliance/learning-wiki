@@ -3,7 +3,7 @@ type: strategy
 id: early-domain-specific-gender-equity-interventions
 title: Provide early, proactive, domain-specific interventions to support equitable access to advanced mathematics
 description: The article recommends interventions that begin in the earliest school years and target specific mathematical domains, since disparities emerge by kindergarten and intensify across elementary grades.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

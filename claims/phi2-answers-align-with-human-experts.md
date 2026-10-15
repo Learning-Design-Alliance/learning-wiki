@@ -3,7 +3,7 @@ type: claim
 title: "Phi-2's answers to its own generated MCQs align with human experts at least as strongly as the experts agree with each other"
 description: "Phi-2's answers to its own generated MCQs align with human experts at least as strongly as the experts agree with each other"
 id: phi2-answers-align-with-human-experts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

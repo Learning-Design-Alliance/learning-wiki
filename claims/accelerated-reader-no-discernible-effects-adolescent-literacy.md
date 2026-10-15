@@ -3,7 +3,7 @@ type: claim
 title: Accelerated Reader has no discernible effects on reading fluency or comprehension for adolescent learners
 description: Accelerated Reader has no discernible effects on reading fluency or comprehension for adolescent learners
 id: accelerated-reader-no-discernible-effects-adolescent-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

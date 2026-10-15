@@ -3,7 +3,7 @@ type: claim
 title: The achievement divide between high and low achievers widened significantly over the last two years of the pandemic
 description: The achievement divide between high and low achievers widened significantly over the last two years of the pandemic
 id: achievement-divide-widened-significantly
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

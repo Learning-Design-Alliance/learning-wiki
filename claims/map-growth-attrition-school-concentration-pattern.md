@@ -3,7 +3,7 @@ type: claim
 title: Attrition was concentrated in schools with higher concentrations of racial/ethnic minorities and socioeconomically disadvantaged students
 description: Attrition was concentrated in schools with higher concentrations of racial/ethnic minorities and socioeconomically disadvantaged students
 id: map-growth-attrition-school-concentration-pattern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

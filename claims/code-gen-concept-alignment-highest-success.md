@@ -3,7 +3,7 @@ type: claim
 title: "Concept alignment achieves the highest success rate (98.6%) among the seven dimensions, attributed to the RAG-based design"
 description: "Concept alignment achieves the highest success rate (98.6%) among the seven dimensions, attributed to the RAG-based design"
 id: code-gen-concept-alignment-highest-success
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: multimedia-interaction-online-discussion-intervention-package
 title: Use multimedia presentations, classroom interactions and synchronous and asynchronous online discussions alongside laboratory experiments to correct teleologic-anthropomorphic language
 description: "The article describes a package of classroom pedagogical interventions used to correct students' teleologic and anthropomorphic language in Physics."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

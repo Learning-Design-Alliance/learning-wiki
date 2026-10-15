@@ -3,7 +3,7 @@ type: claim
 title: Sysadmins shift from producing solutions to evaluating, correcting, and refining GenAI output, which still requires human expertise
 description: Sysadmins shift from producing solutions to evaluating, correcting, and refining GenAI output, which still requires human expertise
 id: sysadmin-expertise-shifts-to-validating-genai-output
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

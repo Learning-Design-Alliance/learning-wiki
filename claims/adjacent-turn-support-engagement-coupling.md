@@ -3,7 +3,7 @@ type: claim
 title: "Adjacent-turn support–engagement coupling is state- and form-dependent: explaining predicts constructive follow-up after all prior states, while feedback's positive association concentrates after prior passive turns"
 description: "Adjacent-turn support–engagement coupling is state- and form-dependent: explaining predicts constructive follow-up after all prior states, while feedback's positive association concentrates after prior passive turns"
 id: adjacent-turn-support-engagement-coupling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

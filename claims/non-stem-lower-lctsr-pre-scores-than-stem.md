@@ -3,7 +3,7 @@ type: claim
 title: Non-STEM majors in conceptual physics and astronomy courses score significantly lower pre-instruction on the LCTSR than STEM majors
 description: Non-STEM majors in conceptual physics and astronomy courses score significantly lower pre-instruction on the LCTSR than STEM majors
 id: non-stem-lower-lctsr-pre-scores-than-stem
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

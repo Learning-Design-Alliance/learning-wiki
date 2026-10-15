@@ -3,7 +3,7 @@ type: claim
 title: College instructors perceive Generative AI through power relations with four distinct centers
 description: College instructors perceive Generative AI through power relations with four distinct centers
 id: instructors-perceive-genai-through-power-relations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

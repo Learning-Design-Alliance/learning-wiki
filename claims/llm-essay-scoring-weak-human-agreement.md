@@ -3,7 +3,7 @@ type: claim
 title: Out-of-the-box LLMs agree with human essay grades far less than human raters agree with each other
 description: Out-of-the-box LLMs agree with human essay grades far less than human raters agree with each other
 id: llm-essay-scoring-weak-human-agreement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

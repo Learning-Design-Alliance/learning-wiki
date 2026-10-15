@@ -4,7 +4,7 @@ id: psyscore
 title: PsyScore
 description: A psychometrically aware automated essay-scoring and formative-feedback framework developed by Wei Xia et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

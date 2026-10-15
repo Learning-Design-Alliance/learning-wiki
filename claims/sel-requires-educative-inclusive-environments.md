@@ -3,7 +3,7 @@ type: claim
 title: SEL programs cannot produce meaningful long-term growth in authoritarian, punitive, or exclusionary environments; restorative practices are needed
 description: SEL programs cannot produce meaningful long-term growth in authoritarian, punitive, or exclusionary environments; restorative practices are needed
 id: sel-requires-educative-inclusive-environments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

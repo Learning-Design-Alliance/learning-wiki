@@ -3,7 +3,7 @@ type: design
 id: episode-memory-versioned-erd-states
 title: Episode memory linking feedback episodes to versioned ERD states
 description: Each feedback request creates a session history containing stages shown, student answers, generated feedback, follow-up questions, credit use, and next actions, allowing later stages to condition on what has already o...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: online-srl-peer-feedback-groups-after-each-training-lesson
 title: Online SRL Peer Feedback Groups After Each Training Lesson
 description: "Participants who took the web-based SRL training were placed in groups; \"Participants in Group TDP were assigned to peer feedback groups of five persons each\", drawn where possible from the same field of study."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

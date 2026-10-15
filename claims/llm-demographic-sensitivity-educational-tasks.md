@@ -3,7 +3,7 @@ type: claim
 title: "LLMs exhibit demographic sensitivity: systematic output differences attributable solely to demographic context when task inputs are held constant"
 description: "LLMs exhibit demographic sensitivity: systematic output differences attributable solely to demographic context when task inputs are held constant"
 id: llm-demographic-sensitivity-educational-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

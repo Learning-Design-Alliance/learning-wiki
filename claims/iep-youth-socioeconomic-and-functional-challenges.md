@@ -3,7 +3,7 @@ type: claim
 title: Youth with an IEP are more likely than their peers to be socioeconomically disadvantaged and to face problems with health, communication, and completing typical tasks independently
 description: Youth with an IEP are more likely than their peers to be socioeconomically disadvantaged and to face problems with health, communication, and completing typical tasks independently
 id: iep-youth-socioeconomic-and-functional-challenges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

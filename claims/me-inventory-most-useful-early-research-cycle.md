@@ -3,7 +3,7 @@ type: claim
 title: "The M&E Needs Inventory is positioned as most useful in the early stage of a research cycle"
 description: "The M&E Needs Inventory is positioned as most useful in the early stage of a research cycle"
 id: me-inventory-most-useful-early-research-cycle
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

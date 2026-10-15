@@ -3,7 +3,7 @@ type: claim
 title: Three word embedding methods and three classifiers were introduced to predict item quality for accessible math assessments
 description: Three word embedding methods and three classifiers were introduced to predict item quality for accessible math assessments
 id: word-embedding-classifiers-predict-item-quality-vi
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

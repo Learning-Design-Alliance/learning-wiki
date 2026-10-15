@@ -3,7 +3,7 @@ type: strategy
 id: triangulate-behavioral-flags-with-follow-up-assessment
 title: Triangulate automated behavioral flags with oral interviews, exam-performance comparison, and targeted plagiarism detection
 description: Because API-level telemetry captures interaction patterns but not intent, the article recommends treating anomaly flags as a screening tool rather than evidence of misconduct.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

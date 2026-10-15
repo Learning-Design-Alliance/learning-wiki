@@ -3,7 +3,7 @@ type: claim
 title: AI literacy relates to AI integration intention through a serial indirect pathway via AI-TPACK and science teaching self-efficacy
 description: AI literacy relates to AI integration intention through a serial indirect pathway via AI-TPACK and science teaching self-efficacy
 id: serial-mediation-ai-literacy-tpack-efficacy-intention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Trim-and-fill analysis shows no publication bias in the meta-analysis of innovative learning effects on mathematical problem-solving ability
 description: Trim-and-fill analysis shows no publication bias in the meta-analysis of innovative learning effects on mathematical problem-solving ability
 id: trim-fill-no-publication-bias-innovative-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: claim
 title: Lack of conceptual foundations and methodological shortcomings of many hypermedia studies contribute to ambiguous effectiveness findings
 description: Lack of conceptual foundations and methodological shortcomings of many hypermedia studies contribute to ambiguous effectiveness findings
 id: conceptual-methodological-shortcomings-hypermedia-research
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

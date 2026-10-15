@@ -3,7 +3,7 @@ type: claim
 title: Practicing cover letter writing with an AI tool improved unassisted writing skill more than practicing without AI or not practicing, with benefits persisting one day later
 description: Practicing cover letter writing with an AI tool improved unassisted writing skill more than practicing without AI or not practicing, with benefits persisting one day later
 id: ai-practice-improved-writing-skill-persisted-one-day
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

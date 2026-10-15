@@ -3,7 +3,7 @@ type: claim
 title: Applying PET raises accuracy for every user cohort, with the largest gain for the Low Literacy cohort
 description: Applying PET raises accuracy for every user cohort, with the largest gain for the Low Literacy cohort
 id: pet-raises-accuracy-all-cohorts-largest-low-literacy-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

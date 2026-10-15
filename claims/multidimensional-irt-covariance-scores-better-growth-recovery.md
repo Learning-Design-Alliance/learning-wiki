@@ -3,7 +3,7 @@ type: claim
 title: Multidimensional IRT scores that account for latent variable covariances over time produce better recovery of growth parameters in longitudinal growth models than sum scores and other IRT approaches
 description: Multidimensional IRT scores that account for latent variable covariances over time produce better recovery of growth parameters in longitudinal growth models than sum scores and other IRT approaches
 id: multidimensional-irt-covariance-scores-better-growth-recovery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

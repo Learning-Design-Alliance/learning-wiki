@@ -3,7 +3,7 @@ type: strategy
 id: school-rd-friction-mitigation-playbooks
 title: "Implementation mitigations that convert school-based R&D frictions into standard work"
 description: "The paper pairs predictable frictions that slow valid school-based R&D with mitigations turned into standard work: pre-approved data-sharing playbooks using FERPA school-official or research exceptions, published data..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

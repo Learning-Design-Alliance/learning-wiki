@@ -3,7 +3,7 @@ type: claim
 title: Fewer than five percent of submissions described AI as opening new opportunities for inclusivity, a gap the report highlights
 description: Fewer than five percent of submissions described AI as opening new opportunities for inclusivity, a gap the report highlights
 id: rfi-inclusivity-under-five-percent-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

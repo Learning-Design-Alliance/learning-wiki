@@ -4,7 +4,7 @@ id: mathematical-imagery-trainer-for-proportion
 title: Mathematical Imagery Trainer for Proportion
 description: An embodied mathematics-learning environment developed by Dor Abrahamson and colleagues in which learners manipulate on-screen cursors to construct proportional relationships through staged visual and numerical overlays.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

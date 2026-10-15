@@ -2,7 +2,7 @@
 type: theory
 title: "Bruner's account: language acquisition as necessity for thinking and the highest levels of cognitive development"
 description: "The article presents Jerome Bruner's (1983) cognitive-developmental account, in which first language acquisition is primed by knowledge of the world and a push to communicate, not acquired abstractly."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

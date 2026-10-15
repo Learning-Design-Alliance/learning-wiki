@@ -3,7 +3,7 @@ type: strategy
 id: pedagogical-guardrails-educational-ai
 title: Build educational AI with pedagogical guardrails such as withholding direct solutions and embedded reflection steps
 description: The paper recommends that developers of educational AI treat the purpose of AI in these contexts as genuine learning rather than short-term productivity.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: element
 id: blackboard-irat-trat-pharmacy-calculations-procedure
 title: Blackboard-delivered readiness assurance test procedure (20-minute IRAT then 20-minute TRAT in groups of three)
 description: This element is the readiness assurance test implementation used in a pharmacy calculations laboratory course.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

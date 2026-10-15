@@ -3,7 +3,7 @@ type: claim
 title: On the misconception-annotated math dataset, LLMs predominantly follow a solve-first, error-injection process aligned with misconception-based distractor design
 description: On the misconception-annotated math dataset, LLMs predominantly follow a solve-first, error-injection process aligned with misconception-based distractor design
 id: llms-solve-first-error-injection-edi
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

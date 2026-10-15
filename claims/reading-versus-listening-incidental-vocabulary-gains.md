@@ -3,7 +3,7 @@ type: claim
 title: "Reading and listening yield similar proportions of incidental vocabulary learning, with reading ahead only on some immediate posttests"
 description: Reading produces greater incidental vocabulary gains and retention than listening, but listening may yield slightly higher retention for high-proficiency learners
 id: reading-versus-listening-incidental-vocabulary-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

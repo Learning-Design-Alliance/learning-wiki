@@ -2,7 +2,7 @@
 type: theory
 title: "Three-theme characterization of innovative interdisciplinary exploratory research: new frontiers, equitable co-design, and networked communities"
 description: From thematic analysis of principal investigator interviews, the report organizes the value of exploratory, interdisciplinary research into three themes.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

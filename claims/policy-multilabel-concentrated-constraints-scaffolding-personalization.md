@@ -3,7 +3,7 @@ type: claim
 title: Policy in reviewed systems is commonly expressed as a set of assistance boundaries, concentrated on response constraints, scaffolding, and personalization
 description: Policy in reviewed systems is commonly expressed as a set of assistance boundaries, concentrated on response constraints, scaffolding, and personalization
 id: policy-multilabel-concentrated-constraints-scaffolding-personalization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

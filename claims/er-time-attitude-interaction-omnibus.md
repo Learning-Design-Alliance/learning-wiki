@@ -3,7 +3,7 @@ type: claim
 title: The effect of extensive reading on reading attitude varied by attitude component, shown by a significant time × attitude interaction (ηp² = .168)
 description: The effect of extensive reading on reading attitude varied by attitude component, shown by a significant time × attitude interaction (ηp² = .168)
 id: er-time-attitude-interaction-omnibus
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

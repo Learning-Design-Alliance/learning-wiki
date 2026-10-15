@@ -3,7 +3,7 @@ type: claim
 title: "Teachers rated ChatGPT as effective for interdisciplinary integration, with 61% giving ratings of 4 or above"
 description: "Teachers rated ChatGPT as effective for interdisciplinary integration, with 61% giving ratings of 4 or above"
 id: chatgpt-supports-interdisciplinary-integration-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

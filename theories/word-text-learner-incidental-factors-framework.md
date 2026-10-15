@@ -2,7 +2,7 @@
 type: theory
 title: Three-factor framework of word, text, and learner factors affecting incidental L2 vocabulary acquisition
 description: "The review organizes the factors enhancing incidental L2 vocabulary acquisition into three aspects: the word itself, the reading text, and the learners."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

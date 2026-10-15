@@ -3,7 +3,7 @@ type: claim
 title: The benefits of retrieval practice do not depend on an exact match between initial retrieval practice conditions and the final test format
 description: The benefits of retrieval practice do not depend on an exact match between initial retrieval practice conditions and the final test format
 id: retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

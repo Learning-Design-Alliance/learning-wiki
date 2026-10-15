@@ -3,7 +3,7 @@ type: claim
 title: "Limited contextual understanding of pragmatic, cultural, and discourse information is a major technical limitation, reported in 16 of 54 studies (30%)"
 description: "Limited contextual understanding of pragmatic, cultural, and discourse information is a major technical limitation, reported in 16 of 54 studies (30%)"
 id: limited-contextual-understanding-ai-efl-technical
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

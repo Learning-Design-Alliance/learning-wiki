@@ -3,7 +3,7 @@ type: research-method
 id: model-based-multivariate-true-score-norming-procedure
 title: Model-based multivariate true score norming procedure
 description: "The norming approach, employed previously in the course-specific MAP Growth Mathematics norming study (Thum & He, 2019), uses \"a multivariate true score model that accounts for the known imprecision of scores from the fall, winter, and spring terms.\" Observed scores are decomposed into true scores a"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: curiobot-curiosity-modulated-tutoring-framework
 title: CURIOBOT curiosity-modulated tutoring framework
 description: CURIOBOT is a Ganganath et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Students' variation in concern across ethical issues corresponds with topic coverage on typical CS ethics syllabi, which rarely address military applications"
 description: "Students' variation in concern across ethical issues corresponds with topic coverage on typical CS ethics syllabi, which rarely address military applications"
 id: syllabus-coverage-matches-concern-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

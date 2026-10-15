@@ -3,7 +3,7 @@ type: claim
 title: "AI introduced without pedagogical scaffolding can replace rather than reinforce learners' self-regulatory processes"
 description: "AI introduced without pedagogical scaffolding can replace rather than reinforce learners' self-regulatory processes"
 id: unscaffolded-ai-replaces-self-regulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

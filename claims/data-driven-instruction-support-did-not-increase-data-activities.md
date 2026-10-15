@@ -3,7 +3,7 @@ type: claim
 title: Support for data-driven instruction did not increase key data-related activities despite additional resources and emphasis
 description: Support for data-driven instruction did not increase key data-related activities despite additional resources and emphasis
 id: data-driven-instruction-support-did-not-increase-data-activities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

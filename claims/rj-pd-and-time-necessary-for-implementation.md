@@ -3,7 +3,7 @@ type: claim
 title: Qualitative studies report district-provided professional development and adequate preparation time as necessary factors for effective restorative justice implementation
 description: Qualitative studies report district-provided professional development and adequate preparation time as necessary factors for effective restorative justice implementation
 id: rj-pd-and-time-necessary-for-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Iterative testing engagement during AI agent creation predicts CT self-efficacy gains after controlling for initial self-efficacy
 description: Iterative testing engagement during AI agent creation predicts CT self-efficacy gains after controlling for initial self-efficacy
 id: iterative-testing-predicts-self-efficacy-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

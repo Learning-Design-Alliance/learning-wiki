@@ -3,7 +3,7 @@ type: claim
 title: "The authors report that the kinesthetic experience enhances student understanding and that a student project provides evidence of the approach's effectiveness"
 description: "The authors report that the kinesthetic experience enhances student understanding and that a student project provides evidence of the approach's effectiveness"
 id: kinesthetic-experience-enhances-understanding-physics-of-dance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

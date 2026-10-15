@@ -3,7 +3,7 @@ type: strategy
 id: teacher-professional-development-srl-strategies
 title: Provide professional development programs so teachers learn to implement self-regulated learning strategies in their lessons
 description: "Because self-regulated learning strategies showed a large pooled effect on achievement, the authors recommend that \"preservice and in-service teachers should learn how to implement these strategies in their lessons to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

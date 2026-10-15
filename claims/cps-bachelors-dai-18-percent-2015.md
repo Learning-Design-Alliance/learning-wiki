@@ -3,7 +3,7 @@ type: claim
 title: "An estimated 18 percent of CPS ninth-graders will obtain a four-year college degree within 10 years of starting high school (Bachelor's DAI, 2015)"
 description: "An estimated 18 percent of CPS ninth-graders will obtain a four-year college degree within 10 years of starting high school (Bachelor's DAI, 2015)"
 id: cps-bachelors-dai-18-percent-2015
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

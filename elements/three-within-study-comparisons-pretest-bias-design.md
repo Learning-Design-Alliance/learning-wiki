@@ -3,7 +3,7 @@ type: element
 id: three-within-study-comparisons-pretest-bias-design
 title: Three-dataset within-study comparison design varying pretest-selection correlation
 description: "The article's evidence base is a design combining \"two within study comparisons and an especially strong quasi-experiment,\" each featuring \"an educational intervention that seeks to improve achievement.\" Across the th..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

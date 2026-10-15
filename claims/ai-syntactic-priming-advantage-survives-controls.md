@@ -3,7 +3,7 @@ type: claim
 title: Learners show stronger short-term syntactic priming with the AI partner, significant across all three recency-window operationalizations including one equalizing input volume
 description: Learners show stronger short-term syntactic priming with the AI partner, significant across all three recency-window operationalizations including one equalizing input volume
 id: ai-syntactic-priming-advantage-survives-controls
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

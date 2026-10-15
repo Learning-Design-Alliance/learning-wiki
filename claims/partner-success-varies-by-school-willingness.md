@@ -3,7 +3,7 @@ type: claim
 title: Partner success varies substantially between schools based on teacher and administrator willingness to collaborate
 description: Partner success varies substantially between schools based on teacher and administrator willingness to collaborate
 id: partner-success-varies-by-school-willingness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

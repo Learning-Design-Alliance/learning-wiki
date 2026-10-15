@@ -3,7 +3,7 @@ type: claim
 title: PLI students digitally collaborated significantly more than non-PLI students with the same technology access, and digital collaboration had a small significant association with SBAC scores
 description: PLI students digitally collaborated significantly more than non-PLI students with the same technology access, and digital collaboration had a small significant association with SBAC scores
 id: pli-digital-collaboration-associated-with-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

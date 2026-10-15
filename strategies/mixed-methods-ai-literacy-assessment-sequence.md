@@ -3,7 +3,7 @@ type: strategy
 id: mixed-methods-ai-literacy-assessment-sequence
 title: "Use a mixed-methods assessment sequence: diagnostic inventory, structured verification tasks, and discipline-specific critique or workflow-design assignments"
 description: The article recommends combining validated self-report instruments with performance-based and process-focused assessment.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

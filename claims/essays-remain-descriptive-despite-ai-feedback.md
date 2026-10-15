@@ -3,7 +3,7 @@ type: claim
 title: Most student essays remained at a descriptive reflection level despite repeated AI feedback
 description: Most student essays remained at a descriptive reflection level despite repeated AI feedback
 id: essays-remain-descriptive-despite-ai-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

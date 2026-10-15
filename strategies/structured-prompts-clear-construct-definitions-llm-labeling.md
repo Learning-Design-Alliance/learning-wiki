@@ -3,7 +3,7 @@ type: strategy
 id: structured-prompts-clear-construct-definitions-llm-labeling
 title: Use structured multi-stage prompts with clearly defined constructs when eliciting LLM topic labels for qualitative coding
 description: The article recommends grounding LLM-assisted labeling in structured prompts that define constructs clearly and contextualize them within the research task.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: The report documents a value-added method combining nontechnical description of main features with data sources and technical statistical detail
 description: The report documents a value-added method combining nontechnical description of main features with data sources and technical statistical detail
 id: dc-value-added-report-design-features
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

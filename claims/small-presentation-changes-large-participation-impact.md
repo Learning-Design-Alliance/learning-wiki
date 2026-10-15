@@ -3,7 +3,7 @@ type: claim
 title: "Small changes in the way information is presented can have a large impact on a person's decision to participate in a program"
 description: "Small changes in the way information is presented can have a large impact on a person's decision to participate in a program"
 id: small-presentation-changes-large-participation-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

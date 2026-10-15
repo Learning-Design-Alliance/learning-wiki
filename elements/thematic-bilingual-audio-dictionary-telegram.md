@@ -3,7 +3,7 @@ type: element
 id: thematic-bilingual-audio-dictionary-telegram
 title: Thematic bilingual audio dictionary lessons delivered via Telegram for incidental mobile listening
 description: "The researchers created seven audio vocabulary lessons covering homes-and-apartments topics such as \"materials\" and \"opinions about housing arrangements\", each about 2 to 8 minutes long."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

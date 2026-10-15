@@ -3,7 +3,7 @@ type: claim
 title: "Head-pose-estimation-based proctoring systems report widely varying accuracies, from 75.6% for cheating detection to 100% for yaw-angle estimation"
 description: "Head-pose-estimation-based proctoring systems report widely varying accuracies, from 75.6% for cheating detection to 100% for yaw-angle estimation"
 id: head-pose-proctoring-accuracy-range
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

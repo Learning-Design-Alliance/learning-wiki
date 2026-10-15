@@ -3,7 +3,7 @@ type: claim
 title: "Cross-linguistic transfer is skill-specific: phonological awareness and print concepts transfer across languages, vocabulary and comprehension do not"
 description: "Cross-linguistic transfer is skill-specific: phonological awareness and print concepts transfer across languages, vocabulary and comprehension do not"
 id: cross-linguistic-transfer-skill-specific
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

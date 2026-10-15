@@ -3,7 +3,7 @@ type: strategy
 id: sketching-during-reading-strategy
 title: Prompt students to sketch a drawing of the system while reading an expository science text
 description: "This strategy asks readers, rather than presenting them with visualizations, to \"draw a representation of the earth's climate system\" while reading an un-illustrated expository text."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

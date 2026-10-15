@@ -3,7 +3,7 @@ type: claim
 title: "Students' appropriation of class interaction practices was mediated by prior sociohistorical educational experiences"
 description: "Students' appropriation of class interaction practices was mediated by prior sociohistorical educational experiences"
 id: prior-practices-mediate-class-interaction-appropriation
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

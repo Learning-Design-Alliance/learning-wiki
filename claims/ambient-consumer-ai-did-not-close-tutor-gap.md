@@ -3,7 +3,7 @@ type: claim
 title: Ambient consumer AI use in the holdout did not close the structured-tutor gap
 description: Ambient consumer AI use in the holdout did not close the structured-tutor gap
 id: ambient-consumer-ai-did-not-close-tutor-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

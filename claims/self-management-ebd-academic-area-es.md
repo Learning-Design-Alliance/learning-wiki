@@ -3,7 +3,7 @@ type: claim
 title: Self-management interventions targeted math calculation skills most often, with mean effect sizes of 2.66 for social studies, 2.28 for reading, 1.97 for math, and 1.13 for writing
 description: Self-management interventions targeted math calculation skills most often, with mean effect sizes of 2.66 for social studies, 2.28 for reading, 1.97 for math, and 1.13 for writing
 id: self-management-ebd-academic-area-es
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

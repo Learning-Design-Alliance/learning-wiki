@@ -3,7 +3,7 @@ type: strategy
 id: domain-experts-throughout-child-safety-evaluation
 title: Involve domain experts throughout the AI safety evaluation pipeline, especially for defining unsafe content
 description: The article recommends that future evaluations actively involve domain experts such as educators throughout the evaluation process, rather than only reflecting expert views through published guidelines as this study did.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

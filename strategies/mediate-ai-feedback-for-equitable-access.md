@@ -3,7 +3,7 @@ type: strategy
 id: mediate-ai-feedback-for-equitable-access
 title: Mediate AI feedback for equity by adapting it to learner readiness, vocabulary, confidence, and bodily awareness
 description: The article recommends making AI-assisted feedback usable across differences in training background, language resources, bodily awareness, confidence, and interpretive readiness.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

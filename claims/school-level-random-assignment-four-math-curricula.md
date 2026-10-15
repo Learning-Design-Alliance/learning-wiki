@@ -3,7 +3,7 @@ type: claim
 title: The evaluation uses a school-level random assignment design to estimate the relative effects of four early elementary math curricula
 description: The evaluation uses a school-level random assignment design to estimate the relative effects of four early elementary math curricula
 id: school-level-random-assignment-four-math-curricula
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

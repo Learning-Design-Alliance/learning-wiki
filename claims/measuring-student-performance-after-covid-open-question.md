@@ -3,7 +3,7 @@ type: claim
 title: Educators and evaluators faced open questions about how to measure student performance after COVID disruptions
 description: Educators and evaluators faced open questions about how to measure student performance after COVID disruptions
 id: measuring-student-performance-after-covid-open-question
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

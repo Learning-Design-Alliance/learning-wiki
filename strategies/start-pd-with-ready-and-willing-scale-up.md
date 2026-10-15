@@ -3,7 +3,7 @@ type: strategy
 id: start-pd-with-ready-and-willing-scale-up
 title: Start PD with ready and willing teachers and scale up over time, using train-the-trainers models
 description: "In districts where teachers view PD as optional, the report describes first offering PD to teachers who are willing and excited, to \"build word of mouth about the benefits of the PD, and thus increase interest and par..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

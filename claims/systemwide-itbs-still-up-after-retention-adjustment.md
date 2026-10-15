@@ -3,7 +3,7 @@ type: claim
 title: Adjusting for retained students, systemwide 1998 reading scores are essentially unchanged and math scores fall slightly, but both remain above 1997 levels; the authors judge the promotion policy did not seriously distort the results
 description: Adjusting for retained students, systemwide 1998 reading scores are essentially unchanged and math scores fall slightly, but both remain above 1997 levels; the authors judge the promotion policy did not seriously dist...
 id: systemwide-itbs-still-up-after-retention-adjustment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

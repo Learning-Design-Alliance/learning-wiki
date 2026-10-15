@@ -3,7 +3,7 @@ type: claim
 title: "General literacy achievement domain: one statistically significant positive effect and one indeterminate effect yield a potentially positive rating"
 description: "General literacy achievement domain: one statistically significant positive effect and one indeterminate effect yield a potentially positive rating"
 id: achieve3000-general-literacy-findings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

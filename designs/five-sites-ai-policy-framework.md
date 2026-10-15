@@ -3,7 +3,7 @@ type: design
 id: five-sites-ai-policy-framework
 title: Five-sites framework of AI-use expectations in a course
 description: "The article proposes that for any given course, concepts of appropriate AI use for academic writing are housed in five distinct sites: faculty intention, formal policy, student interpretation, student self-policy, and..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

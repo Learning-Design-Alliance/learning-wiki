@@ -4,7 +4,7 @@ id: socrates
 title: Socrates
 description: Socrates is a playground-and-grader system developed by Xinming Yang et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

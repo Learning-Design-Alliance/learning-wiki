@@ -3,7 +3,7 @@ type: claim
 title: Connectivist MOOC aggregation-remix-repurpose-feed-forward model neglects personal self-transformation
 description: Connectivist MOOC aggregation-remix-repurpose-feed-forward model neglects personal self-transformation
 id: connectivist-mooc-neglects-self-transformation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

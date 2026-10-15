@@ -3,7 +3,7 @@ type: claim
 title: Intention to use consolidated LLM reports is associated with motivation and personalisation
 description: Intention to use consolidated LLM reports is associated with motivation and personalisation
 id: intention-to-use-associated-motivation-personalisation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

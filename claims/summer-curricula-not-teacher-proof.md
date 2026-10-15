@@ -3,7 +3,7 @@ type: claim
 title: "Mandatory summer curricula are not teacher proof: individualizing instruction and quality of teacher-student interactions were associated with larger gains"
 description: "Mandatory summer curricula are not teacher proof: individualizing instruction and quality of teacher-student interactions were associated with larger gains"
 id: summer-curricula-not-teacher-proof
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

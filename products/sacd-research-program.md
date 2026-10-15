@@ -4,7 +4,7 @@ id: sacd-research-program
 title: SACD Research Program
 description: The U.S.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

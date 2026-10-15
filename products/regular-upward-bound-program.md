@@ -4,7 +4,7 @@ id: regular-upward-bound-program
 title: Regular Upward Bound program
 description: A federally funded U.S.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

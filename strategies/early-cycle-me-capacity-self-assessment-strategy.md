@@ -3,7 +3,7 @@ type: strategy
 id: early-cycle-me-capacity-self-assessment-strategy
 title: "Conduct an organizational M&E self-assessment early in the research cycle to target external support"
 description: The article recommends that an organization conduct a self-assessment of its existing measurement and evaluation capacity using the inventory, with the goal of identifying priority areas for support from an external r...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

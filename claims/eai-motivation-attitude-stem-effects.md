@@ -3,7 +3,7 @@ type: claim
 title: EAI modalities were associated with higher student motivation and changes in attitudes toward STEM knowledge areas
 description: EAI modalities were associated with higher student motivation and changes in attitudes toward STEM knowledge areas
 id: eai-motivation-attitude-stem-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

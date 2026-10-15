@@ -3,7 +3,7 @@ type: claim
 title: Spaced and interleaved homework practice improves learning and retention
 description: Spaced and interleaved homework practice improves learning and retention
 id: spaced-interleaved-homework-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

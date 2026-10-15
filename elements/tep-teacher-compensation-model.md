@@ -3,7 +3,7 @@ type: element
 id: tep-teacher-compensation-model
 title: The Equity Project (TEP) charter school teacher compensation and responsibility model
 description: "TEP is a New York City charter school with what the report calls \"a unique approach to rewarding and developing high quality teachers—including salaries of $125,000 and substantial professional responsibility.\" The mo..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

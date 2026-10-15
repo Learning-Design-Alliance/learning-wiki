@@ -3,7 +3,7 @@ type: strategy
 id: phased-cohort-development-usability-efficacy-testing
 title: Phase the intervention through cohorts that move from development to usability/feasibility testing to efficacy testing
 description: "The LEAD Partnership sequences its intervention work across cohorts: \"Develop, implement, and refine LEAD intervention Cohorts 1 & 2 (2023/24 and 2024/25)\", then \"Manualize and implement LEAD intervention Cohort 3 (20..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

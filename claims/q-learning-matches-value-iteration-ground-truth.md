@@ -3,7 +3,7 @@ type: claim
 title: "The tool's Q-learning matches a value-iteration ground truth in 98.5% of non-terminal states on average"
 description: "The tool's Q-learning matches a value-iteration ground truth in 98.5% of non-terminal states on average"
 id: q-learning-matches-value-iteration-ground-truth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

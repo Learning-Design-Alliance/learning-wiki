@@ -3,7 +3,7 @@ type: claim
 title: Theoretical quality of agent outputs strongly correlates with benchmark performance (r = 0.656)
 description: Theoretical quality of agent outputs strongly correlates with benchmark performance (r = 0.656)
 id: theoretical-quality-correlates-benchmark-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: English/language arts classes in high-performing CHSRI schools required high academic demand, with high-level skill activities in 21 of 23 observed classes
 description: English/language arts classes in high-performing CHSRI schools required high academic demand, with high-level skill activities in 21 of 23 observed classes
 id: chsri-classes-high-academic-demand
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

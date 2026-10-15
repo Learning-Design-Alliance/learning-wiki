@@ -3,7 +3,7 @@ type: design
 id: stemscopes-5e-inquiry-design
 title: 5E-based inquiry curriculum design with embedded formative assessment
 description: The curriculum is organized around the 5E instructional model (Engage, Explore, Explain, Elaborate, Evaluate), pairing hands-on, inquiry-based investigations with real-world problem solving and embedded formative asse...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: "On animation items, GPT via frame extraction matches human-level accuracy while Claude scores lowest of all models and humans at 59.3%"
 description: "On animation items, GPT via frame extraction matches human-level accuracy while Claude scores lowest of all models and humans at 59.3%"
 id: animation-items-gpt-matches-human-claude-lowest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

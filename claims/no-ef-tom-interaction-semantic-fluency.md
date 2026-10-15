@@ -3,7 +3,7 @@ type: claim
 title: No interaction effect of executive functions and theory of mind on semantic fluency in preschool children
 description: No interaction effect of executive functions and theory of mind on semantic fluency in preschool children
 id: no-ef-tom-interaction-semantic-fluency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

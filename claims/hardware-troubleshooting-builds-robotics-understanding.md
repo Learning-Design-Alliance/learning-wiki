@@ -3,7 +3,7 @@ type: claim
 title: High school students in a project-based robotics + AI curriculum developed robotics understanding by troubleshooting hardware and operational factors of physical robots
 description: High school students in a project-based robotics + AI curriculum developed robotics understanding by troubleshooting hardware and operational factors of physical robots
 id: hardware-troubleshooting-builds-robotics-understanding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

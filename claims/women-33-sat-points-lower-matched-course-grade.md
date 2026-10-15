@@ -3,7 +3,7 @@ type: claim
 title: Women scored about 33 SAT-M points lower than men who took the same math course and received the same grade
 description: Women scored about 33 SAT-M points lower than men who took the same math course and received the same grade
 id: women-33-sat-points-lower-matched-course-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: "In the Nelson, Stage, Epstein, & Pierce (2005) RCT, SSL produced statistically significant positive effects on all four alphabetics outcomes"
 description: "In the Nelson, Stage, Epstein, & Pierce (2005) RCT, SSL produced statistically significant positive effects on all four alphabetics outcomes"
 id: ssl-nelson-stage-2005-significant-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

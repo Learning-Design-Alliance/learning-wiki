@@ -3,7 +3,7 @@ type: claim
 title: The fraction of women enrolling in mathematics degree programs in the UK and the Netherlands has remained constant despite rising female participation in higher education
 description: The fraction of women enrolling in mathematics degree programs in the UK and the Netherlands has remained constant despite rising female participation in higher education
 id: female-mathematics-enrollment-fraction-constant-uk-netherlands
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

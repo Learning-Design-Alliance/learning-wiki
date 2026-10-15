@@ -3,7 +3,7 @@ type: claim
 title: "TEP's cumulative four-year effect equals approximately 78% of the Hispanic-white achievement gap in math, 17% in English language arts, and 25% in science"
 description: "TEP's cumulative four-year effect equals approximately 78% of the Hispanic-white achievement gap in math, 17% in English language arts, and 25% in science"
 id: tep-cumulative-effect-achievement-gap-benchmarks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

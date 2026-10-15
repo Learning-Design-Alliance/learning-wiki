@@ -3,7 +3,7 @@ type: claim
 title: Concerns about accuracy, reliability, academic integrity, and potential negative effects on cognitive and social development were consistently highlighted across many included studies.
 description: Concerns about accuracy, reliability, academic integrity, and potential negative effects on cognitive and social development were consistently highlighted across many included studies.
 id: chatgpt-concerns-accuracy-integrity-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

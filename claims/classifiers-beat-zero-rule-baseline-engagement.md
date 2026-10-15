@@ -3,7 +3,7 @@ type: claim
 title: "All three trained classifiers outperformed the zero-rule baseline (28.4% accuracy) for classifying cognitive engagement in discussion posts"
 description: "All three trained classifiers outperformed the zero-rule baseline (28.4% accuracy) for classifying cognitive engagement in discussion posts"
 id: classifiers-beat-zero-rule-baseline-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

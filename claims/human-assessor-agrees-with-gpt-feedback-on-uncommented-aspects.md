@@ -3,7 +3,7 @@ type: claim
 title: A human assessor agreed with the majority of GPT-generated feedback comments on assessment aspects that instructors had not commented on
 description: A human assessor agreed with the majority of GPT-generated feedback comments on assessment aspects that instructors had not commented on
 id: human-assessor-agrees-with-gpt-feedback-on-uncommented-aspects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

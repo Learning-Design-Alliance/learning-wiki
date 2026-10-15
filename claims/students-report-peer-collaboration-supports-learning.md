@@ -3,7 +3,7 @@ type: claim
 title: Students report that peer collaboration and group work support their learning, and many want teachers to offer more group work
 description: Students report that peer collaboration and group work support their learning, and many want teachers to offer more group work
 id: students-report-peer-collaboration-supports-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

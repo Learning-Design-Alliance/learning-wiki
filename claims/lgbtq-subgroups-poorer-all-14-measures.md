@@ -3,7 +3,7 @@ type: claim
 title: "Transgender, gay/lesbian, bisexual, and 'something else' students report significantly poorer outcomes than non-transgender and straight peers on all 14 measures"
 description: "Transgender, gay/lesbian, bisexual, and 'something else' students report significantly poorer outcomes than non-transgender and straight peers on all 14 measures"
 id: lgbtq-subgroups-poorer-all-14-measures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

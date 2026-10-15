@@ -3,7 +3,7 @@ type: claim
 title: "Universal college-prep coursework did not prepare more students for college: upper-level math credits and four-year college entrance showed no overall gains"
 description: "Universal college-prep coursework did not prepare more students for college: upper-level math credits and four-year college entrance showed no overall gains"
 id: college-prep-all-no-college-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

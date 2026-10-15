@@ -3,7 +3,7 @@ type: claim
 title: Post-test mathematics performance was significantly lower than pre-test after AI-tutor use
 description: Post-test mathematics performance was significantly lower than pre-test after AI-tutor use
 id: post-test-decline-after-ai-tutor-session
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

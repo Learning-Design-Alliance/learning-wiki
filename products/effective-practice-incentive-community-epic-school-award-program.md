@@ -4,7 +4,7 @@ id: effective-practice-incentive-community-epic-school-award-program
 title: Effective Practice Incentive Community (EPIC) school award program
 description: A school-level award programme operated through three partner organizations that uses school data to determine eligibility and recognizes eligible schools with EPIC awards.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

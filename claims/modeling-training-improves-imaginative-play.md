@@ -3,7 +3,7 @@ type: claim
 title: Modeling training improved imaginative play in disadvantaged kindergartners, with gains in imaginativeness, verbal communication, spontaneity, and attention span persisting two months
 description: Modeling training improved imaginative play in disadvantaged kindergartners, with gains in imaginativeness, verbal communication, spontaneity, and attention span persisting two months
 id: modeling-training-improves-imaginative-play
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

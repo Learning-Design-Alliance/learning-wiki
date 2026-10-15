@@ -4,7 +4,7 @@ id: ielts-writing-scored-essays-dataset
 title: IELTS Writing Scored Essays Dataset
 description: A publicly available Kaggle dataset of 787 Academic IELTS Task 2 essays with official examiner-assigned band scores, used for automated writing-assessment research.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

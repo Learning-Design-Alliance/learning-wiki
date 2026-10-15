@@ -3,7 +3,7 @@ type: claim
 title: "Neither diary-keeping nor diary-plus-instruction improved university students' academic performance"
 description: "Neither diary-keeping nor diary-plus-instruction improved university students' academic performance"
 id: no-academic-performance-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: The v6m workflow produced compilations passing PDF/UA-2 and ISO 32005 validation in 16 of 17 successive transcription tests across 16 videos
 description: The v6m workflow produced compilations passing PDF/UA-2 and ISO 32005 validation in 16 of 17 successive transcription tests across 16 videos
 id: v6m-workflow-16-of-17-validation-passes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

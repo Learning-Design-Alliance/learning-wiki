@@ -3,7 +3,7 @@ type: strategy
 id: cross-functional-generative-ai-task-force
 title: Convene cross-functional generative AI task forces to guide ethical adoption decisions and procurement
 description: "The report's second use case shows Indian Prairie School District establishing a Generative Artificial Intelligence Task Force of teachers, administrators, principals, and district office representatives before deploy..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

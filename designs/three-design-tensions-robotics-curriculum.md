@@ -3,7 +3,7 @@ type: design
 id: three-design-tensions-robotics-curriculum
 title: "Three design tensions from expert feedback: authenticity versus cognitive load, integration versus visible progress, and team construction versus individual accountability"
 description: "The article synthesizes expert feedback into three tensions organizing the framework's revisions."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

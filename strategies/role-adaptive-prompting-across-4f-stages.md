@@ -3,7 +3,7 @@ type: strategy
 id: role-adaptive-prompting-across-4f-stages
 title: "Role-adaptive prompting across 4F stages: prioritize cognitive scaffolding in Facts and Findings, shift to empathetic facilitation in Feelings and Futures"
 description: The article recommends enabling the AI to modulate its persona and interactional style according to the stage of the 4F reflective framework.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

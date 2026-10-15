@@ -3,7 +3,7 @@ type: claim
 title: "A medium feature's affordance does not guarantee its actual cognitive effects: LOGO instruction designed to enhance conditional reasoning may not do so"
 description: "A medium feature's affordance does not guarantee its actual cognitive effects: LOGO instruction designed to enhance conditional reasoning may not do so"
 id: affordance-does-not-guarantee-cognitive-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

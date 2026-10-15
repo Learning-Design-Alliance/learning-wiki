@@ -3,7 +3,7 @@ type: element
 id: district-ell-outreach-case-study
 title: "Case study of one public school district's successful ELL family outreach efforts"
 description: "The brief concludes with \"a case study of one public school district’s successful outreach efforts\" aimed at increasing ELL parental involvement."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

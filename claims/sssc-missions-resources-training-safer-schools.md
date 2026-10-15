@@ -3,7 +3,7 @@ type: claim
 title: SSSC missions most frequently emphasize providing resources, training, and education and creating safer school environments, with some centers serving as school safety hubs
 description: SSSC missions most frequently emphasize providing resources, training, and education and creating safer school environments, with some centers serving as school safety hubs
 id: sssc-missions-resources-training-safer-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

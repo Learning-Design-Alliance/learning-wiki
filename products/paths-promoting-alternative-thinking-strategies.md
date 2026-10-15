@@ -4,7 +4,7 @@ id: paths-promoting-alternative-thinking-strategies
 title: PATHS (Promoting Alternative THinking Strategies)
 description: The Promoting Alternative THinking Strategies (PATHS) curriculum is a classroom-delivered social-emotional learning program developed for teaching emotional understanding, communication, friendship skills, self-control, and social problem solving.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

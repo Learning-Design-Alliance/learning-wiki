@@ -3,7 +3,7 @@ type: claim
 title: The v6m subscript framework robustly transcribed a wide range of board-written subscript configurations, with stacked-subscript unstacking less reliable
 description: The v6m subscript framework robustly transcribed a wide range of board-written subscript configurations, with stacked-subscript unstacking less reliable
 id: v6m-subscript-framework-robust-transcription
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

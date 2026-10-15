@@ -3,7 +3,7 @@ type: strategy
 id: three-year-pathway-development-activities
 title: "Sequence pathway development activities across three years: buy-in, SCRIPT assessment and summer institutes led by model-district teachers, then piloting with microcredentials"
 description: The presentation lays out development activities by year.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

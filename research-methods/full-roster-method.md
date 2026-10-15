@@ -3,7 +3,7 @@ type: research-method
 id: full-roster-method
 title: Full Roster Method
 description: The Full Roster Method is one of three methods the article proposes for estimating teacher value added under co-teaching.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

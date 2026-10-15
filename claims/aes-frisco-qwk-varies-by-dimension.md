@@ -3,7 +3,7 @@ type: claim
 title: The best AES models per FRISCO dimension reached strong agreement for Situation (QWK 0.728) and Clarity (QWK 0.763) but only fair agreement for Focus, Reason, and Inference in Indonesian physics essays
 description: The best AES models per FRISCO dimension reached strong agreement for Situation (QWK 0.728) and Clarity (QWK 0.763) but only fair agreement for Focus, Reason, and Inference in Indonesian physics essays
 id: aes-frisco-qwk-varies-by-dimension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

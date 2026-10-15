@@ -3,7 +3,7 @@ type: claim
 title: K-12 officials increasingly attend to postsecondary outcomes but many are unsure how best to use the data
 description: K-12 officials increasingly attend to postsecondary outcomes but many are unsure how best to use the data
 id: officials-unsure-how-to-use-postsecondary-data
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "High-use tutoring center visitors had significantly higher cumulative GPA than non-visitors, with the main difference between >10-visit and no-visit groups"
 description: "High-use tutoring center visitors had significantly higher cumulative GPA than non-visitors, with the main difference between >10-visit and no-visit groups"
 id: tutoring-center-visits-higher-cumulative-gpa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

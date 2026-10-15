@@ -3,7 +3,7 @@ type: claim
 title: "In the TAM structural model, satisfaction mediated sustained use: usability strongly predicted usefulness (β = 0.93), usefulness predicted satisfaction (β = 0.76), but usefulness did not directly predict use intention (β = 0.02, p = .896)"
 description: "In the TAM structural model, satisfaction mediated sustained use: usability strongly predicted usefulness (β = 0.93), usefulness predicted satisfaction (β = 0.76), but usefulness did not directly predict use intention..."
 id: satisfaction-mediates-agent-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

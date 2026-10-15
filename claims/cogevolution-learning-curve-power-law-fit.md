@@ -3,7 +3,7 @@ type: claim
 title: "CogEvolution's simulated learning trajectory fits the human power-law trajectory far better than baselines (R²LC 0.92 vs 0.78 PEERS, 0.45 static agents)"
 description: "CogEvolution's simulated learning trajectory fits the human power-law trajectory far better than baselines (R²LC 0.92 vs 0.78 PEERS, 0.45 static agents)"
 id: cogevolution-learning-curve-power-law-fit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

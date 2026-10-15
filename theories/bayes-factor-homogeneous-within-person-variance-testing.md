@@ -2,7 +2,7 @@
 type: theory
 title: Bayes factor testing of homogeneous within-person variance in hierarchical models
 description: A methodological framework that reframes measurement reliability as an individual-level property rather than a stable property of a questionnaire or task.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "True attrition in competitive programming is preceded by an 83.71% reduction in monthly contest participation"
 description: "True attrition in competitive programming is preceded by an 83.71% reduction in monthly contest participation"
 id: contest-participation-decline-precedes-cp-attrition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

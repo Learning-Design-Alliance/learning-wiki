@@ -3,7 +3,7 @@ type: claim
 title: The Child Development Project/CSC shows potentially positive effects on student behavior, with an average improvement index of +8 percentile points
 description: The Child Development Project/CSC shows potentially positive effects on student behavior, with an average improvement index of +8 percentile points
 id: csc-potentially-positive-behavior-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

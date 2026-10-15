@@ -4,7 +4,7 @@ id: standards-of-excellence-for-outcomes-based-contracting
 title: Standards of Excellence for Outcomes Based Contracting™
 description: A framework from COBC that organizes outcomes-based edtech contracting around population and program definition, outcomes and metrics, contingent payment, mutual accountability, and continuous improvement.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

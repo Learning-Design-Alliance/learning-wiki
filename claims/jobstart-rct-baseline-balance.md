@@ -3,7 +3,7 @@ type: claim
 title: The JOBSTART and control groups showed no statistically significant baseline differences on compared characteristics
 description: The JOBSTART and control groups showed no statistically significant baseline differences on compared characteristics
 id: jobstart-rct-baseline-balance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

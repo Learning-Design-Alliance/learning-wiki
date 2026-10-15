@@ -4,7 +4,7 @@ id: eduzone
 title: EduZone
 description: EduZone is an automated adversarial evaluation framework released by Park et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

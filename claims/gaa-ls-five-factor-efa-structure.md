@@ -3,7 +3,7 @@ type: claim
 title: "Exploratory factor analysis supports a five-factor GAA-LS structure explaining 67.82% of variance"
 description: "Exploratory factor analysis supports a five-factor GAA-LS structure explaining 67.82% of variance"
 id: gaa-ls-five-factor-efa-structure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

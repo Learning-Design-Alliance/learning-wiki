@@ -3,7 +3,7 @@ type: design
 id: five-commitments-capacity-building-research-organization
 title: Five organizational commitments for research that builds district capacity
 description: "CCSR's three themes for capacity-building research are institutionalized in five commitments that organize how the organization conducts and communicates research: 'developing an extensive data archive on CPs, (2) ext..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-08

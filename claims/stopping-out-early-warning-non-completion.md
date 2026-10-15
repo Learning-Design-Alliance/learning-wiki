@@ -3,7 +3,7 @@ type: claim
 title: "Stopping out was common and associated with non-completion: about 90 percent of CPS graduates who took a semester off did not finish a degree within six years"
 description: "Stopping out was common and associated with non-completion: about 90 percent of CPS graduates who took a semester off did not finish a degree within six years"
 id: stopping-out-early-warning-non-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

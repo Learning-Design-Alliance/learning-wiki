@@ -3,7 +3,7 @@ type: claim
 title: "Most students (87.6%) prefer attempting to solve problems independently before seeking support, managing uncertainty privately before engaging formal support"
 description: "Most students (87.6%) prefer attempting to solve problems independently before seeking support, managing uncertainty privately before engaging formal support"
 id: students-prefer-independent-problem-solving-first
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

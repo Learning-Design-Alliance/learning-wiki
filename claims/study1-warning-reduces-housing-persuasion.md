@@ -3,7 +3,7 @@ type: claim
 title: In Study 1, the general warning significantly reduced persuasive effects on housing-policy attitudes (b=−1.81, p= 0.001)
 description: In Study 1, the general warning significantly reduced persuasive effects on housing-policy attitudes (b=−1.81, p= 0.001)
 id: study1-warning-reduces-housing-persuasion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

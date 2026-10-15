@@ -3,7 +3,7 @@ type: research-method
 id: compound-polynomial-growth-model
 title: Compound Polynomial growth model
 description: The CP model, developed by Thum and Hauser (2015), is a flexible functional form for describing growth trends with marked seasonal patterns.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

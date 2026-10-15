@@ -3,7 +3,7 @@ type: claim
 title: Extensive reading of graded readers produced substantial vocabulary learning gains for EFL learners across proficiency levels
 description: Extensive reading of graded readers produced substantial vocabulary learning gains for EFL learners across proficiency levels
 id: extensive-reading-produces-vocabulary-gains-efl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

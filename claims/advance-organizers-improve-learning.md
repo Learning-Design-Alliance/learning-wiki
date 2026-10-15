@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

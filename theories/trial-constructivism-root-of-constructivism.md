@@ -2,7 +2,7 @@
 type: theory
 title: "Trial constructivism as the root of constructivism (Piaget's personal constructivism)"
 description: "The article presents trial constructivism, attributed to von Glasersfeld's account of Piaget, as the origin of constructivism, also called personal constructivism."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

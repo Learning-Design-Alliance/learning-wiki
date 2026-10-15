@@ -3,7 +3,7 @@ type: claim
 title: Information retrieval questions were consistently easier than comprehension questions across both visualisation formats
 description: Information retrieval questions were consistently easier than comprehension questions across both visualisation formats
 id: retrieval-easier-than-comprehension-questions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

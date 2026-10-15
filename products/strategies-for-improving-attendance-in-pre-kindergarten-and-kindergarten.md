@@ -4,7 +4,7 @@ id: strategies-for-improving-attendance-in-pre-kindergarten-and-kindergarten
 title: Strategies for Improving Attendance in Pre-Kindergarten and Kindergarten
 description: A Go-Learn-Grow toolkit created by Martha Bleeker and colleagues that provides attendance-improvement strategies and practical materials for districts, schools, and early-childhood providers.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Early failure in phonetic recoding and decoding widens the acquisition gap between false beginners and successful learners over time
 description: Early failure in phonetic recoding and decoding widens the acquisition gap between false beginners and successful learners over time
 id: early-decoding-failure-widens-acquisition-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

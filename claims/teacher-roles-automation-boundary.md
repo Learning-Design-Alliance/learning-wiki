@@ -3,7 +3,7 @@ type: claim
 title: "Review reports AI may automate teachers' administrative chores while direct instruction and coaching are less susceptible to automation"
 description: "Review reports AI may automate teachers' administrative chores while direct instruction and coaching are less susceptible to automation"
 id: teacher-roles-automation-boundary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

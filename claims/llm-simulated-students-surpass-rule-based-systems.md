@@ -3,7 +3,7 @@ type: claim
 title: LLM-based simulated students surpass rule-based systems in natural language generation and situational flexibility, but concerns about bias and evaluation reliability persist
 description: LLM-based simulated students surpass rule-based systems in natural language generation and situational flexibility, but concerns about bias and evaluation reliability persist
 id: llm-simulated-students-surpass-rule-based-systems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

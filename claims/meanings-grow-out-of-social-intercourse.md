@@ -3,7 +3,7 @@ type: claim
 title: "In Mead's lectures, meanings grow out of social intercourse and the child constructs meanings only in social process"
 description: "In Mead's lectures, meanings grow out of social intercourse and the child constructs meanings only in social process"
 id: meanings-grow-out-of-social-intercourse
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

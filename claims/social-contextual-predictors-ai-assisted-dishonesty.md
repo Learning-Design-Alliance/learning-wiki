@@ -3,7 +3,7 @@ type: claim
 title: Social norms, peer behaviors, family attitudes, insufficient sanctions, teacher attitude, high expectations, and adverse conditions positively predict AI-assisted dishonesty, while ethical and moral education negatively predicts it
 description: Social norms, peer behaviors, family attitudes, insufficient sanctions, teacher attitude, high expectations, and adverse conditions positively predict AI-assisted dishonesty, while ethical and moral education negative...
 id: social-contextual-predictors-ai-assisted-dishonesty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

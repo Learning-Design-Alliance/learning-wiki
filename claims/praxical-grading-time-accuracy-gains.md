@@ -3,7 +3,7 @@ type: claim
 title: "Praxical teacher-AI grading teaming decreased grading time by 44% and increased accuracy by 6% versus manual grading"
 description: "Praxical teacher-AI grading teaming decreased grading time by 44% and increased accuracy by 6% versus manual grading"
 id: praxical-grading-time-accuracy-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

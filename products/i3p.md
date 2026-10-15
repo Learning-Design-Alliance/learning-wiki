@@ -4,7 +4,7 @@ id: i3p
 title: I3P
 description: "A programme run by UNAL's National Directorate of Pedagogical Innovation that supports collaborative pedagogical innovation projects intended to foster Professional Learning Communities across campuses and faculties."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

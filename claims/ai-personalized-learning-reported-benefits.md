@@ -3,7 +3,7 @@ type: claim
 title: The review reports AI-driven personalization improves student engagement and learning outcomes, and virtual teaching assistants support diverse learning needs
 description: The review reports AI-driven personalization improves student engagement and learning outcomes, and virtual teaching assistants support diverse learning needs
 id: ai-personalized-learning-reported-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

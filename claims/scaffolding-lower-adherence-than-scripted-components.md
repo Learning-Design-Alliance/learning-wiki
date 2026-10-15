@@ -3,7 +3,7 @@ type: claim
 title: Teachers adhered less to scaffolding than to fully scripted curriculum components across three studies
 description: Teachers adhered less to scaffolding than to fully scripted curriculum components across three studies
 id: scaffolding-lower-adherence-than-scripted-components
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

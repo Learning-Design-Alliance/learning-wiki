@@ -4,7 +4,7 @@ id: simple-solutions
 title: Simple Solutions
 description: A branded supplemental curriculum from Simple Solutions that provides brief daily distributed-practice lessons with spiral review and optional online resources for K–8 subjects.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

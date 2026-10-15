@@ -3,7 +3,7 @@ type: claim
 title: Text-based and log data dominate the student data used by AI systems for lecturer decision-making
 description: Text-based and log data dominate the student data used by AI systems for lecturer decision-making
 id: text-log-data-dominate-lecturer-decision-ai-inputs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

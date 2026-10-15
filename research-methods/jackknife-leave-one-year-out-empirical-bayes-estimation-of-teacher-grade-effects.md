@@ -3,7 +3,7 @@ type: research-method
 id: jackknife-leave-one-year-out-empirical-bayes-estimation-of-teacher-grade-effects
 title: Jackknife leave-one-year-out empirical Bayes estimation of teacher grade effects
 description: A two-step value-added estimation procedure, adapted from the teacher value-added literature, that produces teacher grade effects used to predict student outcomes.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

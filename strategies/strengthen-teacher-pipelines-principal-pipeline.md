@@ -3,7 +3,7 @@ type: strategy
 id: strengthen-teacher-pipelines-principal-pipeline
 title: Strengthen teacher pipelines and remove biased promotion barriers to build the principal pipeline
 description: The brief recommends creating leadership opportunities for strong teachers, particularly teachers of color, since diversifying school leadership begins with diversifying the educator workforce.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

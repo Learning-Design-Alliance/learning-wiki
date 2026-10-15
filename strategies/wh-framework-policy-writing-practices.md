@@ -3,7 +3,7 @@ type: strategy
 id: wh-framework-policy-writing-practices
 title: Actionable writing practices for researchers to produce policy-ready implications
 description: "The review offers a set of writing suggestions for creating impactful implications, including: signal policy relevance early in the abstract; adopt the lexicon of governance; apply the WH-framework to implication narr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

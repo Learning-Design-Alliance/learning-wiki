@@ -3,7 +3,7 @@ type: claim
 title: Math proficiency rose in West Kern Consortium districts after the community schools initiative, with three districts exceeding the county average in 2024–25
 description: Math proficiency rose in West Kern Consortium districts after the community schools initiative, with three districts exceeding the county average in 2024–25
 id: west-kern-math-proficiency-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: national-board-certification
 title: National Board Certification
 description: A rigorous professional certification programme run by the National Board for Professional Teaching Standards in which teachers demonstrate advanced practice through a portfolio and assessment-centre examinations.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

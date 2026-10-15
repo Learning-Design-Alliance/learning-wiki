@@ -3,7 +3,7 @@ type: claim
 title: Simulated student reasoning shifted teachers from task-solvers to teacher-reasoners who interpreted misconceptions as student logic
 description: Simulated student reasoning shifted teachers from task-solvers to teacher-reasoners who interpreted misconceptions as student logic
 id: simulated-student-reasoning-pck-rehearsal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

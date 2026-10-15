@@ -2,7 +2,7 @@
 type: theory
 title: "Symbol systems framework: symbols, symbol systems, and symbolic products"
 description: "The review organizes its analysis with Gardner's distinction between symbols, symbol systems, and symbolic products."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

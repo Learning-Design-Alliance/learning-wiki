@@ -3,7 +3,7 @@ type: claim
 title: EO 1110 created a sense of urgency that catalyzed cross-departmental curriculum redesign, though campus stakeholders wanted earlier engagement building on local expertise
 description: EO 1110 created a sense of urgency that catalyzed cross-departmental curriculum redesign, though campus stakeholders wanted earlier engagement building on local expertise
 id: eo1110-urgency-catalyzed-cross-departmental-redesign
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Logged time investment on an online mathematics preparation platform differed significantly across SRL intervention groups, rising from control through diary and training + diary to training + diary + peer feedback groups
 description: Logged time investment on an online mathematics preparation platform differed significantly across SRL intervention groups, rising from control through diary and training + diary to training + diary + peer feedback gr...
 id: srl-interventions-increase-logged-time-investment-online-math-prep-course
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

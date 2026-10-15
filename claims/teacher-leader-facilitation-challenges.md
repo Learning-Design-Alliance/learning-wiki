@@ -3,7 +3,7 @@ type: claim
 title: "Facilitating professional learning poses challenges for teacher leaders, including unfamiliarity with colleagues' instructional strategies and lacking skills to support teachers in applying them"
 description: "Facilitating professional learning poses challenges for teacher leaders, including unfamiliarity with colleagues' instructional strategies and lacking skills to support teachers in applying them"
 id: teacher-leader-facilitation-challenges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

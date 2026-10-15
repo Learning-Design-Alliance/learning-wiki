@@ -3,7 +3,7 @@ type: claim
 title: The multiple-choice placement test component and high school GPA similarly predicted passing credit-bearing ELA courses, while the writing component did not predict any outcomes
 description: The multiple-choice placement test component and high school GPA similarly predicted passing credit-bearing ELA courses, while the writing component did not predict any outcomes
 id: cmi-gpa-and-multiple-choice-similarly-predict-ela-passing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

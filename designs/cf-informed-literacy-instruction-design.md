@@ -3,7 +3,7 @@ type: design
 id: cf-informed-literacy-instruction-design
 title: Cognitive-flexibility-informed early literacy instruction combines multiple knowledge linkages, multiple application cases, participatory learning, and scaffolding
 description: "The article enumerates the design characteristics of an early literacy approach informed by cognitive flexibility theory: it \"includes emphasis on multiple alternative systems of linkage among knowledge elements (e.g."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

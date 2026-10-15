@@ -3,7 +3,7 @@ type: claim
 title: "Temperature-construct interactions: constructs with moderate theoretical coherence benefited from higher temperatures, while well-defined constructs required deterministic settings"
 description: "Temperature-construct interactions: constructs with moderate theoretical coherence benefited from higher temperatures, while well-defined constructs required deterministic settings"
 id: temperature-construct-type-interaction-coding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

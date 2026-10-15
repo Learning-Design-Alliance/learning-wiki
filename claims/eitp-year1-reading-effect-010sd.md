@@ -3,7 +3,7 @@ type: claim
 title: After the first year of the EITP pilot, cohort 1 schools improved reading achievement by 0.10 standard deviations relative to cohort 2 schools
 description: After the first year of the EITP pilot, cohort 1 schools improved reading achievement by 0.10 standard deviations relative to cohort 2 schools
 id: eitp-year1-reading-effect-010sd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

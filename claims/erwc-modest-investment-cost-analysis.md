@@ -3,7 +3,7 @@ type: claim
 title: The cost analysis suggests the ERWC is a modest investment whose upfront development and training costs become insignificant over time
 description: The cost analysis suggests the ERWC is a modest investment whose upfront development and training costs become insignificant over time
 id: erwc-modest-investment-cost-analysis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

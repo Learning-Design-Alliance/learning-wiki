@@ -4,7 +4,7 @@ id: geovad-bench
 title: GeoVAD-Bench
 description: A diagnostic benchmark created by Zhitong Dong et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

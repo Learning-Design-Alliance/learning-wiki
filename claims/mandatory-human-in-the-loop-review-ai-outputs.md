@@ -3,7 +3,7 @@ type: claim
 title: All AI-generated outputs in the project underwent mandatory human-in-the-loop review, positioning AI as augmentative rather than substitutive
 description: All AI-generated outputs in the project underwent mandatory human-in-the-loop review, positioning AI as augmentative rather than substitutive
 id: mandatory-human-in-the-loop-review-ai-outputs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

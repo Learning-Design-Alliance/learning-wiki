@@ -3,7 +3,7 @@ type: claim
 title: Mathematica developed and estimated VAMs for use in Phase 1 of the Pennsylvania evaluation pilot
 description: Mathematica developed and estimated VAMs for use in Phase 1 of the Pennsylvania evaluation pilot
 id: mathematica-vam-technical-assistance-phase1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

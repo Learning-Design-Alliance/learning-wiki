@@ -3,7 +3,7 @@ type: claim
 title: Experts report there is neither a clear definition nor a widely accepted model of restorative justice in schools
 description: Experts report there is neither a clear definition nor a widely accepted model of restorative justice in schools
 id: no-clear-definition-or-accepted-model-of-school-rj
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

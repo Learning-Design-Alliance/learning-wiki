@@ -3,7 +3,7 @@ type: claim
 title: Intrinsically motivated students show significantly higher proportions of evaluation and elaboration messages, while extrinsically motivated students concentrate in planning and orientation
 description: Intrinsically motivated students show significantly higher proportions of evaluation and elaboration messages, while extrinsically motivated students concentrate in planning and orientation
 id: intrinsic-motivation-higher-order-metacognition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

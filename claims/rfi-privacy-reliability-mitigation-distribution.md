@@ -3,7 +3,7 @@ type: claim
 title: "Data privacy mitigations centered on data governance and monitoring (68.9%), while technical reliability mitigations centered on human involvement (36.9%)"
 description: "Data privacy mitigations centered on data governance and monitoring (68.9%), while technical reliability mitigations centered on human involvement (36.9%)"
 id: rfi-privacy-reliability-mitigation-distribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

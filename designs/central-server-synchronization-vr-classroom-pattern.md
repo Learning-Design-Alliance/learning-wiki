@@ -3,7 +3,7 @@ type: design
 id: central-server-synchronization-vr-classroom-pattern
 title: Central-server synchronization pattern replacing peer-to-peer HMD relaying for multi-user VR classrooms
 description: The design pattern routes all client communication through Photon Cloud as a central server that synchronizes object states and audio among all clients in real time, instead of the prior peer-to-peer arrangement whose...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

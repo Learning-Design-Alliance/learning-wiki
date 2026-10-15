@@ -3,7 +3,7 @@ type: claim
 title: School average ACT scores predict college graduation for students with the same individual HSGPA and ACT score, reducing between-school variance by 42 percent, while school poverty is not significant once average ACT is included
 description: School average ACT scores predict college graduation for students with the same individual HSGPA and ACT score, reducing between-school variance by 42 percent, while school poverty is not significant once average ACT...
 id: school-average-act-explains-school-variance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

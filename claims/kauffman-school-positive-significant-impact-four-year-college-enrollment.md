@@ -3,7 +3,7 @@ type: claim
 title: The Kauffman School has a positive, statistically significant impact on enrollment in four-year colleges large enough to close the gap in four-year college enrollment rates for Black high school seniors in Missouri
 description: The Kauffman School has a positive, statistically significant impact on enrollment in four-year colleges large enough to close the gap in four-year college enrollment rates for Black high school seniors in Missouri
 id: kauffman-school-positive-significant-impact-four-year-college-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

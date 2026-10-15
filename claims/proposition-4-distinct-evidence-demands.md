@@ -3,7 +3,7 @@ type: claim
 title: "Proposition 4: evidence gathered through distinct demands supports capability claims better than multiple records of the same performance"
 description: "Proposition 4: evidence gathered through distinct demands supports capability claims better than multiple records of the same performance"
 id: proposition-4-distinct-evidence-demands
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

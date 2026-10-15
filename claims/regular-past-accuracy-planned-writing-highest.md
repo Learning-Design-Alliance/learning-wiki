@@ -3,7 +3,7 @@ type: claim
 title: Regular past tense accuracy is greatest in planned writing, intermediate in planned speech, and least in unplanned speech
 description: Regular past tense accuracy is greatest in planned writing, intermediate in planned speech, and least in unplanned speech
 id: regular-past-accuracy-planned-writing-highest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

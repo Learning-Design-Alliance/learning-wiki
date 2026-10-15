@@ -2,7 +2,7 @@
 type: theory
 title: Pragmatic progressive philosophy as a framework for adult education
 description: "The article presents pragmatism as the philosophical basis of progressivism in adult education, a distinctively American philosophy dating to the 1870s that, per the article, \"accepts both the relativism and pluralism..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

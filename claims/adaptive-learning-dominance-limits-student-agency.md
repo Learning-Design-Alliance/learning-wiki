@@ -3,7 +3,7 @@ type: claim
 title: The review argues that the dominance of adaptive learning within AI integration undermines educational goals and limits student agency and creativity
 description: The review argues that the dominance of adaptive learning within AI integration undermines educational goals and limits student agency and creativity
 id: adaptive-learning-dominance-limits-student-agency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

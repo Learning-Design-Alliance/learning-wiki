@@ -3,7 +3,7 @@ type: claim
 title: FLIGHT shows no discernible effects on high school attendance
 description: FLIGHT shows no discernible effects on high school attendance
 id: flight-no-discernible-effect-high-school-attendance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

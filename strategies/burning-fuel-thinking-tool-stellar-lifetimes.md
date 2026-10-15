@@ -3,7 +3,7 @@ type: strategy
 id: burning-fuel-thinking-tool-stellar-lifetimes
 title: Use a burning-fuel analogy thinking tool to bridge data trends to stellar lifetimes and mass-to-energy conversion
 description: A demonstration in which liquid fuel is ignited in two metal dishes of drastically different diameters helps students connect observed trends to stellar evolution.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

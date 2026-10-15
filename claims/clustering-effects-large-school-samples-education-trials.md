@@ -3,7 +3,7 @@ type: claim
 title: Clustering effects in education random-assignment trials vary by design but are typically large, requiring large school samples
 description: Clustering effects in education random-assignment trials vary by design but are typically large, requiring large school samples
 id: clustering-effects-large-school-samples-education-trials
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

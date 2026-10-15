@@ -3,7 +3,7 @@ type: claim
 title: Existing AI literacy assessment instruments poorly cover Stages 0–1 and Stage 4 of the continuum
 description: Existing AI literacy assessment instruments poorly cover Stages 0–1 and Stage 4 of the continuum
 id: assessment-instruments-gap-stages-0-1-4
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

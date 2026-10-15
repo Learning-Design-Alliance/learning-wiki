@@ -3,7 +3,7 @@ type: claim
 title: "A larger percentage of BCIRC students met the bilingual education exit criterion in language (39% versus 21%), not statistically significant"
 description: "A larger percentage of BCIRC students met the bilingual education exit criterion in language (39% versus 21%), not statistically significant"
 id: bcirc-higher-language-exit-criterion-rate-not-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

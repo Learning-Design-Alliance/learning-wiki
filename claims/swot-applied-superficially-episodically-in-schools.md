@@ -3,7 +3,7 @@ type: claim
 title: SWOT in educational settings is typically applied superficially, episodically, and detached from improvement cycles
 description: SWOT in educational settings is typically applied superficially, episodically, and detached from improvement cycles
 id: swot-applied-superficially-episodically-in-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

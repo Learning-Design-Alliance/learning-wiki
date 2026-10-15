@@ -2,7 +2,7 @@
 type: theory
 title: "Neurolinguistic account of adults' superior language learning capabilities"
 description: The digest presents a neurolinguistic account, citing Walsh and Diller (1978), that replaces the 1960s critical-period hypothesis.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Critical thinking instruction transfers better when taught alongside academic content than as a standalone subject
 description: Critical thinking instruction transfers better when taught alongside academic content than as a standalone subject
 id: critical-thinking-transfer-better-alongside-content
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

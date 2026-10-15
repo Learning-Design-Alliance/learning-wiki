@@ -3,7 +3,7 @@ type: claim
 title: Six historical thinking dimensions — historical argumentation, causation, comparison, contextualization, continuity and change over time, and sourcing — were selected as rubric assessment targets based on convergence across U.S. national frameworks and the WHP course guide
 description: Six historical thinking dimensions — historical argumentation, causation, comparison, contextualization, continuity and change over time, and sourcing — were selected as rubric assessment targets based on convergence...
 id: six-historical-thinking-dimensions-rubric-targets
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Pruning low-advantage completions during RL improves F1 up to a middle pruning rate while reducing training time
 description: Pruning low-advantage completions during RL improves F1 up to a middle pruning rate while reducing training time
 id: pruning-mechanism-improves-f1-and-training-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

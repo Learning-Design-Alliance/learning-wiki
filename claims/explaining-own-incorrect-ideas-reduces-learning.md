@@ -3,7 +3,7 @@ type: claim
 title: "Explaining one's own potentially incorrect ideas can reduce learning, while explaining known-correct content supports it"
 description: "Explaining one's own potentially incorrect ideas can reduce learning, while explaining known-correct content supports it"
 id: explaining-own-incorrect-ideas-reduces-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

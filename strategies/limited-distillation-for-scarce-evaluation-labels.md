@@ -3,7 +3,7 @@ type: strategy
 id: limited-distillation-for-scarce-evaluation-labels
 title: Use knowledge distillation with deliberately limited synthetic data to expand scarce labeled evaluation datasets
 description: When labeled data for a specialized evaluation task is scarce, the authors generate synthetic student-tutor conversations with a frontier LLM, prompting it to produce nine tutor responses per conversation (three high-...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

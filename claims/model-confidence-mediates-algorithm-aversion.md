@@ -3,7 +3,7 @@ type: claim
 title: "Confidence in the algorithm's forecasts mediates the effect of seeing it perform on choosing it"
 description: "Confidence in the algorithm's forecasts mediates the effect of seeing it perform on choosing it"
 id: model-confidence-mediates-algorithm-aversion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

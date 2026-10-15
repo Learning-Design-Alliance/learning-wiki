@@ -3,7 +3,7 @@ type: design
 id: unity-blackboard-demo-game-school-environment
 title: Demo game rendering Blackboard course elements as 3D school environments
 description: A standalone Universal Windows Platform demo game serving as the practical use case for the integration package.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

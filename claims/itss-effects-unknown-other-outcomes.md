@@ -3,7 +3,7 @@ type: claim
 title: The effects of ITSS are not known for adolescent literacy outcomes other than comprehension
 description: The effects of ITSS are not known for adolescent literacy outcomes other than comprehension
 id: itss-effects-unknown-other-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

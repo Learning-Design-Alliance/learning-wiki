@@ -3,7 +3,7 @@ type: claim
 title: Prior knowledge, worked-example type (full vs completion) and task difficulty show a significant three-way interaction on an algebra posttest, but not on self-reported cognitive load
 description: Prior knowledge, worked-example type (full vs completion) and task difficulty show a significant three-way interaction on an algebra posttest, but not on self-reported cognitive load
 id: prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

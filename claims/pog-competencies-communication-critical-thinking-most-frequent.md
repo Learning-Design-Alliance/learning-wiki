@@ -3,7 +3,7 @@ type: claim
 title: POG frameworks most frequently emphasize communication, critical thinking, collaboration, and perseverance/adaptability among their competencies
 description: POG frameworks most frequently emphasize communication, critical thinking, collaboration, and perseverance/adaptability among their competencies
 id: pog-competencies-communication-critical-thinking-most-frequent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

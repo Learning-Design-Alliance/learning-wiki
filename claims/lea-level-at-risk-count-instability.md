@@ -3,7 +3,7 @@ type: claim
 title: At-risk count instability at the LEA level varies widely and is largest in small districts
 description: At-risk count instability at the LEA level varies widely and is largest in small districts
 id: lea-level-at-risk-count-instability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

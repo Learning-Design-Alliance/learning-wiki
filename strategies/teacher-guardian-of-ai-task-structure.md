@@ -3,7 +3,7 @@ type: strategy
 id: teacher-guardian-of-ai-task-structure
 title: Teachers as designers and guardians of the task structure across all three AIRIS phases
 description: "A strategy specifying concrete teacher actions in each phase: selecting tasks requiring genuine prior-knowledge activation, monitoring whether students critically compare AI outputs or simply accept them, and orchestr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

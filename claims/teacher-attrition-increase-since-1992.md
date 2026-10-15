@@ -3,7 +3,7 @@ type: claim
 title: "Teacher attrition rose from 5.1% in 1992 to 8.4% in 2005 and has hovered around 8% since"
 description: "Teacher attrition rose from 5.1% in 1992 to 8.4% in 2005 and has hovered around 8% since"
 id: teacher-attrition-increase-since-1992
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

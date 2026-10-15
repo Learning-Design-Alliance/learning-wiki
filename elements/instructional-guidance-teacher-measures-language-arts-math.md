@@ -3,7 +3,7 @@ type: element
 id: instructional-guidance-teacher-measures-language-arts-math
 title: Teacher instructional guidance measures of basic-skills and application-oriented emphasis in language arts and math
 description: "The 1994 teacher survey measures instructional guidance through four Rasch scales: Knowledge, Skill in Language Arts (individual reliability 0.76), Knowledge, Skill in Math (0.70), Application, Analysis, Production in..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

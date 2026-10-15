@@ -3,7 +3,7 @@ type: strategy
 id: tapp-six-online-training-modules-specialists
 title: Train school specialists through six online modules covering all stages of the TAPP process
 description: TAPP preparation uses six online training modules for school specialists covering all stages of the TAPP process and related content.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

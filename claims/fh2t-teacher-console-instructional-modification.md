@@ -3,7 +3,7 @@ type: claim
 title: "Educators used FH2T's teacher console insights to modify instruction, and recommended the console share students' mathematical capabilities and content-area difficulties"
 description: "Educators used FH2T's teacher console insights to modify instruction, and recommended the console share students' mathematical capabilities and content-area difficulties"
 id: fh2t-teacher-console-instructional-modification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

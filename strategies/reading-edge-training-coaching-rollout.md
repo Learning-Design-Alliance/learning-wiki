@@ -3,7 +3,7 @@ type: strategy
 id: reading-edge-training-coaching-rollout
 title: Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures
 description: "The program's professional development model combines an initial workshop with ongoing classroom-embedded support: \"Two days of initial training is followed by in-class coaching about once a month.\" Support is provide..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

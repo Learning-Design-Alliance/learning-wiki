@@ -3,7 +3,7 @@ type: claim
 title: Student-perceived curricular alignment did not differ between AI and NLE MCQs or among ChatGPT, Gemini and NLE
 description: Student-perceived curricular alignment did not differ between AI and NLE MCQs or among ChatGPT, Gemini and NLE
 id: perceived-alignment-does-not-differ-ai-vs-nle
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

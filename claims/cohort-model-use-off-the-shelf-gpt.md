@@ -3,7 +3,7 @@ type: claim
 title: "Cohort members predominantly used off-the-shelf multimodal LLMs, mostly OpenAI's GPT, and nearly all combined closed and open source models"
 description: "Cohort members predominantly used off-the-shelf multimodal LLMs, mostly OpenAI's GPT, and nearly all combined closed and open source models"
 id: cohort-model-use-off-the-shelf-gpt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

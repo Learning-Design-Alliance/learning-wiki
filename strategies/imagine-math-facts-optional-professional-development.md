@@ -3,7 +3,7 @@ type: strategy
 id: imagine-math-facts-optional-professional-development
 title: Offer optional professional development for administrators and educators alongside program implementation
 description: Imagine Learning offers optional virtual or on-site professional development and training in addition to Customer Success support.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

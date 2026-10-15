@@ -3,7 +3,7 @@ type: claim
 title: Students who accessed exemplar examination answers on the LMS achieved higher grades than those who did not
 description: Students who accessed exemplar examination answers on the LMS achieved higher grades than those who did not
 id: lms-exemplar-access-associated-with-higher-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

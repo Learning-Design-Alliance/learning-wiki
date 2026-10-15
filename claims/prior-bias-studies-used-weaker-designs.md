@@ -3,7 +3,7 @@ type: claim
 title: Prior studies finding nonexperimental estimators biased examined weaker evaluation designs than RCT-benchmark studies
 description: Prior studies finding nonexperimental estimators biased examined weaker evaluation designs than RCT-benchmark studies
 id: prior-bias-studies-used-weaker-designs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

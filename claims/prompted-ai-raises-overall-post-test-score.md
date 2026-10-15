@@ -3,7 +3,7 @@ type: claim
 title: Prompted AI-supported learning raises overall post-test scores above both slide-based and unprompted AI conditions
 description: Prompted AI-supported learning raises overall post-test scores above both slide-based and unprompted AI conditions
 id: prompted-ai-raises-overall-post-test-score
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

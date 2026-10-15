@@ -4,7 +4,7 @@ id: a4l-lessons-curriculum
 title: A4L Lessons curriculum
 description: An arts-integrated curriculum package for elementary students in grades 3–5, developed and delivered through the Arts for Learning program.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

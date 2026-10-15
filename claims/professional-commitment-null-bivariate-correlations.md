@@ -3,7 +3,7 @@ type: claim
 title: Professional commitment is essentially uncorrelated with AI literacy and shows no significant bivariate correlation with learning engagement
 description: Professional commitment is essentially uncorrelated with AI literacy and shows no significant bivariate correlation with learning engagement
 id: professional-commitment-null-bivariate-correlations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

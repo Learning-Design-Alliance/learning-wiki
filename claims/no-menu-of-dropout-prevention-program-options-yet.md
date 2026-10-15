@@ -3,7 +3,7 @@ type: claim
 title: The evidence base does not yet provide a menu of program options for helping students at risk of dropping out, and program developers need a way to identify approaches while stronger scientific evidence is developed
 description: The evidence base does not yet provide a menu of program options for helping students at risk of dropping out, and program developers need a way to identify approaches while stronger scientific evidence is developed
 id: no-menu-of-dropout-prevention-program-options-yet
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

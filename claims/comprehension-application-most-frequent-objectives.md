@@ -3,7 +3,7 @@ type: claim
 title: Comprehension and application were the most frequent learning objectives in both series, with evaluation least frequent
 description: Comprehension and application were the most frequent learning objectives in both series, with evaluation least frequent
 id: comprehension-application-most-frequent-objectives
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

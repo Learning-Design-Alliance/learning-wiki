@@ -3,7 +3,7 @@ type: claim
 title: Skill-based AI literacy (using/understanding and detecting AI) is positively associated with reported AI dependency among higher education students
 description: Skill-based AI literacy (using/understanding and detecting AI) is positively associated with reported AI dependency among higher education students
 id: skill-based-ai-literacy-positively-predicts-ai-dependency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

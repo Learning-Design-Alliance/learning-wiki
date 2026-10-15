@@ -3,7 +3,7 @@ type: strategy
 id: plan-engagement-objectives-questions-type-pilot
 title: Plan engagement by defining objectives, aligned questions, engagement type, and piloted materials
 description: "Phase 1 prescribes four steps: 'Define engagement objectives', develop questions 'aligned with the purpose of community engagement sessions, answerable, actionable, and specific', determine the engagement type (e.g.,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: An adapted SimCalc intervention in Florida produced strong learning gains (ES = 1.09), significantly higher posttests than predicted from the Texas control group
 description: An adapted SimCalc intervention in Florida produced strong learning gains (ES = 1.09), significantly higher posttests than predicted from the Texas control group
 id: simcalc-florida-extension-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

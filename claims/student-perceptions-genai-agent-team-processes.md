@@ -3,7 +3,7 @@ type: claim
 title: The study examined student perceptions of the genAI agent and its integration into team processes
 description: The study examined student perceptions of the genAI agent and its integration into team processes
 id: student-perceptions-genai-agent-team-processes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

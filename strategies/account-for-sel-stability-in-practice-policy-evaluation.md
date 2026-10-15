@@ -3,7 +3,7 @@ type: strategy
 id: account-for-sel-stability-in-practice-policy-evaluation
 title: Account for stability of SEL competencies when using them in practice, policy, and evaluation
 description: "The brief's title and description direct teachers and schools to consider the stability of social-emotional learning competencies when using them: \"Are social-emotional learning competencies stable over time?"
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

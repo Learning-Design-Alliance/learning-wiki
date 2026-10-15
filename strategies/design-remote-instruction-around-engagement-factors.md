@@ -3,7 +3,7 @@ type: strategy
 id: design-remote-instruction-around-engagement-factors
 title: Attend to a set of interrelated engagement-support factors when designing remote and hybrid instruction
 description: This strategy directs educators planning remote or hybrid instruction to consider a set of identified engagement-support factors rather than treating engagement as a single lever.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

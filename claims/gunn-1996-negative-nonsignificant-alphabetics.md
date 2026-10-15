@@ -3,7 +3,7 @@ type: claim
 title: In Gunn (1996), LiPS effects on word accuracy/fluency and phonemic decoding were negative and substantively important but not statistically significant
 description: In Gunn (1996), LiPS effects on word accuracy/fluency and phonemic decoding were negative and substantively important but not statistically significant
 id: gunn-1996-negative-nonsignificant-alphabetics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: extend-student-simulation-beyond-turn-level-math
 title: Future student-simulation work should extend beyond turn-level math dialogue and address history-selection and faithfulness gaps
 description: "The authors lay out forward-looking directions: studying how to include a student's entire learning history in context, potentially \"by leveraging interaction embeddings optimized for student simulation or using intel..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

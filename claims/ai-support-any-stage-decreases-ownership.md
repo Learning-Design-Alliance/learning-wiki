@@ -3,7 +3,7 @@ type: claim
 title: Any AI writing support decreases feelings of ownership compared to no AI support, with ownership following a gradient by stage (highest with no AI, then planning, revision, and AI-generated draft lowest).
 description: Any AI writing support decreases feelings of ownership compared to no AI support, with ownership following a gradient by stage (highest with no AI, then planning, revision, and AI-generated draft lowest).
 id: ai-support-any-stage-decreases-ownership
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

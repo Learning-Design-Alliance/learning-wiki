@@ -3,7 +3,7 @@ type: research-method
 id: longitudinal-achievement-growth-analysis
 title: Longitudinal achievement growth analysis
 description: This principle holds that educators and researchers should use longitudinal data analysis to track how academic achievement for DHH students progresses over time.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09
@@ -70,8 +70,6 @@ This principle holds that educators and researchers should use longitudinal data
 - [ITBS test form progression systematically influences eighth-grade math gain scores, with Form L-to-M years showing the largest gains and Form K-to-L years the smallest](../claims/itbs-test-form-effects-on-eighth-grade-math-gains.md) [~W]
 - [CPS elementary ITBS scores improved across the 1990s in both reading and math for all age groups, but trend gains flattened after 1998](../claims/cps-itbs-decade-gains-flattened-after-1998.md) [~W]
 - [All six CPS age cohorts saw a slight 2001 decline in math scores of less than one month, which a Rasch-score re-analysis suggests reflects an actual drop in learning rather than test-form effects](../claims/2001-math-decline-confirmed-by-rasch-analysis.md) [~W]
-- [K-cohort English learners' 3rd-grade achievement improved in both ELA and math across successive kindergarten cohorts, shrinking gaps with never-ELs](../claims/k-cohort-el-3rd-grade-achievement-improved-shrinking-gaps.md) [+M]
-- [Despite improvements in English proficiency, only about half of K-cohort ELs were reclassified by the end of elementary school, revealing a gap between proficiency and reclassification](../claims/proficiency-reclassification-gap-ltels.md) [+M]
 - [Within-school-year achievement growth is often not linear, particularly in reading](../claims/linear-within-year-growth-assumption-unjustified-reading.md) [+M]
 
 ## Related Research Methods

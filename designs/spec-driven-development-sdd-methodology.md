@@ -3,7 +3,7 @@ type: design
 id: spec-driven-development-sdd-methodology
 title: "Spec-Driven Development (SDD): a development methodology in which AI agents generate code from structured specification documents that developers must verify"
 description: SDD is a software development methodology proposed for use with AI agents, positioned as an alternative to Vibe Coding.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

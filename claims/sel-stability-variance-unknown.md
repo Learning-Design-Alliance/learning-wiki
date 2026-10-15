@@ -3,7 +3,7 @@ type: claim
 title: Little is known about how much variance in SEL constructs is stable over time versus specific to a given time or context
 description: Little is known about how much variance in SEL constructs is stable over time versus specific to a given time or context
 id: sel-stability-variance-unknown
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

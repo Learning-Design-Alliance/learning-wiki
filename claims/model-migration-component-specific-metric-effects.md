@@ -3,7 +3,7 @@ type: claim
 title: Model selection experiments show newer models are not strict improvements, with component-specific effects on quality metrics
 description: Model selection experiments show newer models are not strict improvements, with component-specific effects on quality metrics
 id: model-migration-component-specific-metric-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

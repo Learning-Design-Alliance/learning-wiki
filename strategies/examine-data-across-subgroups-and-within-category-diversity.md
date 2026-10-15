@@ -3,7 +3,7 @@ type: strategy
 id: examine-data-across-subgroups-and-within-category-diversity
 title: Examine data across subgroups and account for diversity within subgroup categories before interpreting score differences
 description: "The guide's first actionable recommendation directs leaders to disaggregate data across subgroups and, where relevant, within them."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

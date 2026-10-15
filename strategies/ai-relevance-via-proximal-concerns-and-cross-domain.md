@@ -3,7 +3,7 @@ type: strategy
 id: ai-relevance-via-proximal-concerns-and-cross-domain
 title: "Use generative AI to connect school subjects to students' immediate concerns and cross-domain applications rather than to core identity components"
 description: "Based on the finding that the individualized identity-based AI dialogue failed while the collective one worked, the article recommends that \"utilizing generative AI to establish relevance of the subject with students'..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

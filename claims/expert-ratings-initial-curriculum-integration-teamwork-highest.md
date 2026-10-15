@@ -3,7 +3,7 @@ type: claim
 title: Experts rated the initial curriculum highest on AI/robotics integration and teamwork (both M=4.60) and lowest on communication (M=3.40) and assessment (M=3.60)
 description: Experts rated the initial curriculum highest on AI/robotics integration and teamwork (both M=4.60) and lowest on communication (M=3.40) and assessment (M=3.60)
 id: expert-ratings-initial-curriculum-integration-teamwork-highest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

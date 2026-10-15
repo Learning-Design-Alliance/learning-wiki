@@ -3,7 +3,7 @@ type: claim
 title: Recovery-related behavioral features add only a small, unstable held-out Macro-F1 gain for final-success prediction in DTA logs (0.725 to 0.743), with negligible average window-sensitivity differences
 description: Recovery-related behavioral features add only a small, unstable held-out Macro-F1 gain for final-success prediction in DTA logs (0.725 to 0.743), with negligible average window-sensitivity differences
 id: dta-recovery-features-small-unstable-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

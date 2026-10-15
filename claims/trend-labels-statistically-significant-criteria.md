@@ -3,7 +3,7 @@ type: claim
 title: Profile trends labeled up or down are determined by statistical criteria, so those labels denote statistically significant trends
 description: Profile trends labeled up or down are determined by statistical criteria, so those labels denote statistically significant trends
 id: trend-labels-statistically-significant-criteria
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

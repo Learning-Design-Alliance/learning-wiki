@@ -3,7 +3,7 @@ type: claim
 title: "Capacity for data use was similar among SDP- and EP-partnered agencies although the two programs' approaches differ"
 description: "Capacity for data use was similar among SDP- and EP-partnered agencies although the two programs' approaches differ"
 id: similar-data-capacity-sdp-ep-agencies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

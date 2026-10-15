@@ -3,7 +3,7 @@ type: claim
 title: Standardized test proficiency provides biased information about school quality, indicating a need for alternative metrics
 description: Standardized test proficiency provides biased information about school quality, indicating a need for alternative metrics
 id: standardized-tests-biased-school-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

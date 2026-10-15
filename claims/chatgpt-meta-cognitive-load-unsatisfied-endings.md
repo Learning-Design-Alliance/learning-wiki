@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT participants experienced meta-cognitive load and frictions, with slightly more unsatisfied endings than Google participants
 description: ChatGPT participants experienced meta-cognitive load and frictions, with slightly more unsatisfied endings than Google participants
 id: chatgpt-meta-cognitive-load-unsatisfied-endings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

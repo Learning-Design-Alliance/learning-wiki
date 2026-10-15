@@ -3,7 +3,7 @@ type: claim
 title: Senior high school students taught with generative AI-supported instruction scored significantly higher on geometric reasoning and proof construction than students taught conventionally
 description: Senior high school students taught with generative AI-supported instruction scored significantly higher on geometric reasoning and proof construction than students taught conventionally
 id: genai-instruction-higher-geometry-proof-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

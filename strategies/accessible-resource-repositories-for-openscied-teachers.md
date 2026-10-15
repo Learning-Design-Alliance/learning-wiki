@@ -3,7 +3,7 @@ type: strategy
 id: accessible-resource-repositories-for-openscied-teachers
 title: "Provide easily accessible resource repositories and assessment tools to reduce teachers' time spent searching for and adapting OpenSciEd materials"
 description: "Among the report's five priority areas for research, innovation, and development is providing resources that support classroom enactment and formative assessment."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

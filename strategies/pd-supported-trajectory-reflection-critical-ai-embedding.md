@@ -3,7 +3,7 @@ type: strategy
 id: pd-supported-trajectory-reflection-critical-ai-embedding
 title: Structure AI-focused professional development as a supported trajectory of planning, reflection, design autonomy, and embedded critical AI literacy
 description: The article recommends that professional development move beyond tool demonstrations and technology-acceptance outcomes toward a supported developmental trajectory.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

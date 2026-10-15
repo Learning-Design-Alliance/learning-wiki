@@ -3,7 +3,7 @@ type: claim
 title: Failure rates increased and grades declined for higher-skill students in single-period algebra after the policy
 description: Failure rates increased and grades declined for higher-skill students in single-period algebra after the policy
 id: grades-declined-higher-skill-single-period-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

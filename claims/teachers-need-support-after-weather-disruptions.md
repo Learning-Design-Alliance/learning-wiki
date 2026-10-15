@@ -3,7 +3,7 @@ type: claim
 title: "Teachers need support to meet students' varied needs following weather-related disruptions"
 description: "Teachers need support to meet students' varied needs following weather-related disruptions"
 id: teachers-need-support-after-weather-disruptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

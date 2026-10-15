@@ -3,7 +3,7 @@ type: strategy
 id: california-ece-four-part-policy-agenda
 title: "Four-part state policy agenda: coherent administration, universal affordability, a well-qualified workforce, and quality improvement for all programs"
 description: "The report recommends that California \"adopt a comprehensive approach to turn an uncoordinated set of underfunded programs into a true system of supports for children, families, and providers.\" Its four areas are: bui..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

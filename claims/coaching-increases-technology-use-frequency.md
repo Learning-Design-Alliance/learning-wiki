@@ -3,7 +3,7 @@ type: claim
 title: Coached teachers report increases in how often students and teachers use technology, compared to non-coached peers
 description: Coached teachers report increases in how often students and teachers use technology, compared to non-coached peers
 id: coaching-increases-technology-use-frequency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

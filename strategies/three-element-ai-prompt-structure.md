@@ -3,7 +3,7 @@ type: strategy
 id: three-element-ai-prompt-structure
 title: "Guide student teachers' AI prompts with a shared three-element structure (context, challenge, requested support) while leaving wording individual"
 description: "The intervention standardized the type of information exchanged with the AI without a scripted template: 'participants were guided to include three elements in their prompts, a brief description of the classroom conte..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

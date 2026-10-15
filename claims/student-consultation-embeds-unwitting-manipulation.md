@@ -3,7 +3,7 @@ type: claim
 title: Much student-consultation activity embeds unwitting manipulation of students rather than genuine voice
 description: Much student-consultation activity embeds unwitting manipulation of students rather than genuine voice
 id: student-consultation-embeds-unwitting-manipulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

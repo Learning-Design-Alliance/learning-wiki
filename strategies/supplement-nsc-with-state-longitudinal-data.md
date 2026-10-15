@@ -3,7 +3,7 @@ type: strategy
 id: supplement-nsc-with-state-longitudinal-data
 title: Use state longitudinal data systems to supplement NSC data when reporting detailed two-year college outcomes
 description: The article recommends that researchers combine NSC data with state administrative data such as ICCB records through the ILDS.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

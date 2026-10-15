@@ -3,7 +3,7 @@ type: claim
 title: "The learner's first language influences target-language pronunciation and is a significant factor in foreign accents, causing errors in aspiration, intonation, and rhythm"
 description: "The learner's first language influences target-language pronunciation and is a significant factor in foreign accents, causing errors in aspiration, intonation, and rhythm"
 id: native-language-interference-shapes-pronunciation-errors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

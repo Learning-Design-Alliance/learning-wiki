@@ -3,7 +3,7 @@ type: claim
 title: A stochastic (exploration) router yields a higher exercise conversion rate than the static baseline, while the greedy router is comparable
 description: A stochastic (exploration) router yields a higher exercise conversion rate than the static baseline, while the greedy router is comparable
 id: stochastic-router-higher-conversion-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

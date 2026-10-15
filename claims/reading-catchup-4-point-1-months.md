@@ -3,7 +3,7 @@ type: claim
 title: The average student needs an estimated 4.1 additional months of schooling to catch up in reading
 description: The average student needs an estimated 4.1 additional months of schooling to catch up in reading
 id: reading-catchup-4-point-1-months
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: aihed-future-research-ethics-rigour-interdisciplinarity
 title: Future AIHEd research should give greater attention to ethics, methodological rigour, context, and interdisciplinary collaboration
 description: "The review's forward-looking recommendation is that future AIHEd primary and secondary research address the gaps it identified: \"a need for greater ethical, methodological, and contextual considerations within future..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

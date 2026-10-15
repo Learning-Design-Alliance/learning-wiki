@@ -3,7 +3,7 @@ type: claim
 title: AI-correcting is a newly observed orchestration type in which the teacher identifies erroneous AI feedback, points it out to students, and re-guides or edits AI prompts (10 of 46 episodes)
 description: AI-correcting is a newly observed orchestration type in which the teacher identifies erroneous AI feedback, points it out to students, and re-guides or edits AI prompts (10 of 46 episodes)
 id: ai-correcting-orchestration-type
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

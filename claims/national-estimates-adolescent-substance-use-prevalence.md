@@ -3,7 +3,7 @@ type: claim
 title: National estimates indicate nearly half of students report having ever used illicit drugs and most report having drunk alcohol before leaving high school
 description: National estimates indicate nearly half of students report having ever used illicit drugs and most report having drunk alcohol before leaving high school
 id: national-estimates-adolescent-substance-use-prevalence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

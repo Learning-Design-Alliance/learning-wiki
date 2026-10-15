@@ -3,7 +3,7 @@ type: claim
 title: "Lower-prior-knowledge learners scored higher on an algebra posttest after full-worked than completion-worked examples, while higher-prior-knowledge learners' non-significant advantage ran the other way"
 description: "Lower-prior-knowledge learners scored higher on an algebra posttest after full-worked than completion-worked examples, while higher-prior-knowledge learners' non-significant advantage ran the other way"
 id: lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

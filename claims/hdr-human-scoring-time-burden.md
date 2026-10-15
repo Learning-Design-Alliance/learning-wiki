@@ -3,7 +3,7 @@ type: claim
 title: Human scoring and feedback for HDR takes about 11 minutes 30 seconds per learner, while GPT-based scoring and feedback is nearly instant
 description: Human scoring and feedback for HDR takes about 11 minutes 30 seconds per learner, while GPT-based scoring and feedback is nearly instant
 id: hdr-human-scoring-time-burden
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

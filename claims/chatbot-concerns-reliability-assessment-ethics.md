@@ -3,7 +3,7 @@ type: claim
 title: "Scholars raise three main concerns about AI chatbots in education: reliability and accuracy, fair assessment, and ethical issues"
 description: "Scholars raise three main concerns about AI chatbots in education: reliability and accuracy, fair assessment, and ethical issues"
 id: chatbot-concerns-reliability-assessment-ethics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

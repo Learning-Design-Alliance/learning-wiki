@@ -3,7 +3,7 @@ type: claim
 title: Explanation prompts direct attention to targeted information and can reduce attention to other important information
 description: Explanation prompts direct attention to targeted information and can reduce attention to other important information
 id: explanation-prompts-redirect-attention-with-hidden-costs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

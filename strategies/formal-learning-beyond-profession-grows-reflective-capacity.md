@@ -3,7 +3,7 @@ type: strategy
 id: formal-learning-beyond-profession-grows-reflective-capacity
 title: Use structured, formal learning beyond the profession (e.g., classical liberal arts content) to grow mid-career faculty reflective capacity
 description: Given faculty scores near the center of the epistemic scale and a gap relative to very-late-career faculty benchmarks, the authors recommend professional development built on a trajectory of growth on the King and Kit...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

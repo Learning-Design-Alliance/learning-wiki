@@ -3,7 +3,7 @@ type: strategy
 id: three-principles-responsible-ai-use-education
 title: "Three-part strategy for responsible AI use in education: empower reasoning, foster emotional well-being, and provide institutional support"
 description: The paper proposes that AI in education should follow three principles.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Juniors in the first CHSRI cohort were seven percentage points less likely to have dropped out by junior year, marginally significant
 description: Juniors in the first CHSRI cohort were seven percentage points less likely to have dropped out by junior year, marginally significant
 id: chsri-junior-cumulative-dropout-lower
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

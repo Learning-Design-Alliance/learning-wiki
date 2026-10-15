@@ -3,7 +3,7 @@ type: claim
 title: Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI
 description: Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI
 id: teacher-constraints-responsible-ai-integration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: flight
 title: FLIGHT
 description: FLIGHT is a Florida school-based mentoring and college-access programme supported by staff workshops, dedicated mentoring and advocacy activities, scholarships, and public-private funding.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: tiered-fiscal-responsibility-education-health
 title: "Assign tiered fiscal responsibility: education funds Tier 1 and some Tier 2 supports, while the health system funds expanded Tier 2 and Tier 3 services"
 description: "The brief recommends structuring sustainability so that schoolwide programs (Tier 1) and some limited targeted interventions (Tier 2) are the education system's fiscal and implementation responsibility, while targeted..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

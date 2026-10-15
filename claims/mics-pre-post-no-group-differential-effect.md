@@ -3,7 +3,7 @@ type: claim
 title: Presentation condition does not differentially affect microstructure comprehension over five weeks, though VNT and NT groups improved while the text-only group did not
 description: Presentation condition does not differentially affect microstructure comprehension over five weeks, though VNT and NT groups improved while the text-only group did not
 id: mics-pre-post-no-group-differential-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

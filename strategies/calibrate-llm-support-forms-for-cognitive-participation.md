@@ -3,7 +3,7 @@ type: strategy
 id: calibrate-llm-support-forms-for-cognitive-participation
 title: "Calibrate assistant support forms to preserve users' cognitive participation rather than making every interaction tutor-like"
 description: "The article recommends that the educational value of future AI assistants lies in calibrating support rather than universal tutoring: assistants should choose \"when to answer, explain, give feedback or step back, pres..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: californias-statewide-system-of-support-ssos
 title: "California's Statewide System of Support (SSOS)"
 description: A California state-run system coordinated by the CCEE, CDE, and SBE that provides tiered technical assistance, tools, and resources to local educational agencies and schools.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

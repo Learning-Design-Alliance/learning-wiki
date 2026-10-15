@@ -3,7 +3,7 @@ type: claim
 title: "Programmatic churn from constant turnover of curricula and initiatives hindered teachers' capacity for personalized, evaluation-driven improvement"
 description: "Programmatic churn from constant turnover of curricula and initiatives hindered teachers' capacity for personalized, evaluation-driven improvement"
 id: programmatic-churn-hinders-personalized-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

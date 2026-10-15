@@ -3,7 +3,7 @@ type: element
 id: modeling-feedback-native-speaker-text
 title: "Modeling feedback: an original native-speaker text used as a comparison model"
 description: "Modeling feedback is the feedback type used in this study: it \"involves the use of a text that is written by a native speaker, but the text is original and not a reformulation of a learner's writing\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: strategy
 id: college-choice-and-context-support-strategy
 title: Support college transitions by addressing college choice, institutional fit, and college support — not student preparation alone
 description: "The article concludes that efforts to promote attainment must attend not just to skills making students \"ready for college,\" but also to college choice and the role colleges play in supporting students."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

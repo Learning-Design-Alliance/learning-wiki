@@ -3,7 +3,7 @@ type: claim
 title: SRL interventions combining metacognitive, cognitive, and motivational components were most frequent and, per the authors, had the greatest impact
 description: SRL interventions combining metacognitive, cognitive, and motivational components were most frequent and, per the authors, had the greatest impact
 id: mixed-srl-strategy-interventions-greatest-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

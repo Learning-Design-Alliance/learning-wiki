@@ -3,7 +3,7 @@ type: research-method
 id: statistical-analysis-of-partially-nested-randomized-controlled-trials
 title: Statistical analysis of partially nested randomized controlled trials
 description: "Because PN-RCT treatment students are nested in intervention clusters while control students are not, analysis must use \"basic statistical models that adjust for the clustering of treatment students within intervention clusters\"."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

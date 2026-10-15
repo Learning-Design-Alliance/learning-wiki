@@ -3,7 +3,7 @@ type: strategy
 id: five-part-prompt-framework-with-evaluation-cycle
 title: Teach prompting as a five-part skill (role, task, audience, constraints, justification) with a structured ask-generate-evaluate cycle
 description: "The briefs prescribe a classroom strategy in which \"A strong prompt usually includes:\" a role, a task, an audience, constraints, and justification, noting teachers already ask specific and detailed questions in daily..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

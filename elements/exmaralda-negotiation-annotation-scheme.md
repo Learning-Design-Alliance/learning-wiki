@@ -3,7 +3,7 @@ type: element
 id: exmaralda-negotiation-annotation-scheme
 title: EXMARaLDA-based annotation scheme for negotiation of meaning and negative feedback in CMC data
 description: The study built a two-tier annotation scheme in EXMARaLDA Partitur Editor to code negotiation work and negative feedback across text and video data.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

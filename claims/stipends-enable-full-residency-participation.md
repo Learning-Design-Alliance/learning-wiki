@@ -3,7 +3,7 @@ type: claim
 title: TCLAS stipends of $20,000 enabled residents to participate in yearlong residencies by forgoing outside employment
 description: TCLAS stipends of $20,000 enabled residents to participate in yearlong residencies by forgoing outside employment
 id: stipends-enable-full-residency-participation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

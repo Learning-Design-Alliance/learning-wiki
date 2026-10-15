@@ -3,7 +3,7 @@ type: claim
 title: Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access
 description: Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access
 id: ai-concerns-critical-thinking-plagiarism-nursing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

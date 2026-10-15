@@ -3,7 +3,7 @@ type: strategy
 id: district-hqim-implementation-actionable-steps
 title: Four actionable steps for district leaders moving from adoption to effective, equitable HQIM implementation
 description: "Drawing on its seven-district cross-case findings, the report recommends four steps for district leaders: invest time in building shared instructional principles before curriculum selection, as Maple and Oak did; trea..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

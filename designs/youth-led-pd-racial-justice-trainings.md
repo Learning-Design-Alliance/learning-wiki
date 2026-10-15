@@ -3,7 +3,7 @@ type: design
 id: youth-led-pd-racial-justice-trainings
 title: Youth-led professional development trainings on racial justice and relationship-centered practices
 description: Youth-led professional development opportunities are a primary mechanism through which the RCS campaign has spread relationship-centered practice beyond its core set of actors.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

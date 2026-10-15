@@ -3,7 +3,7 @@ type: strategy
 id: systemic-coaching-program-design-six-pillars
 title: Design coaching programs as a systemic collective enterprise with shared vision, recruited and developed coaches, and continuous evaluation
 description: "The paper recommends coaching programs be \"a collective enterprise embedded in the larger district context, rather than as an isolated project,\" following the Coaching for Impact report's six pillars: shared vision am..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

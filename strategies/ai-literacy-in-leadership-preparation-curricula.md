@@ -3,7 +3,7 @@ type: strategy
 id: ai-literacy-in-leadership-preparation-curricula
 title: Incorporate AI literacy into educational-leadership preparation curricula
 description: The article argues that schools of education and teacher training programs should embed AI literacy in leadership preparation, so future leaders can both use AI tools and critically evaluate their effectiveness, ethic...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

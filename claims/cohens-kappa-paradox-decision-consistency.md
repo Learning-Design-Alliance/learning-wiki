@@ -3,7 +3,7 @@ type: claim
 title: "Cohen's kappa exhibits a paradox in which high observed agreement yields low kappa, making it unsuitable for pass/fail decision consistency"
 description: "Cohen's kappa exhibits a paradox in which high observed agreement yields low kappa, making it unsuitable for pass/fail decision consistency"
 id: cohens-kappa-paradox-decision-consistency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

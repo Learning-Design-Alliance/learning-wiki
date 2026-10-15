@@ -3,7 +3,7 @@ type: claim
 title: Causal discovery analysis finds four of five LLMs prioritize lexical features in scoring, while DeepSeek R1 uniquely prioritizes syntactic complexity
 description: Causal discovery analysis finds four of five LLMs prioritize lexical features in scoring, while DeepSeek R1 uniquely prioritizes syntactic complexity
 id: llm-causal-feature-dependencies-lexical-versus-syntactic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

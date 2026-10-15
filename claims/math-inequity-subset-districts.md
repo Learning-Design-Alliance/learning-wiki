@@ -4,7 +4,7 @@ title: "A small subset of study districts shows meaningful inequity in low-incom
 description: "A small subset of study districts shows meaningful inequity in low-income students' access to effective math teachers"
 id: math-inequity-subset-districts
 aliases: [meaningful-math-inequity-subset-districts]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

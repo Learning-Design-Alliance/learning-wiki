@@ -3,7 +3,7 @@ type: claim
 title: Computing students rate short AI-generated Markdown videos favorably across quality, comprehension, and accuracy dimensions
 description: Computing students rate short AI-generated Markdown videos favorably across quality, comprehension, and accuracy dimensions
 id: students-rate-ai-markdown-videos-favorably
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

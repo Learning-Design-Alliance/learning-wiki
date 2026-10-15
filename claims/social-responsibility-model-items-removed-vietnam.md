@@ -3,7 +3,7 @@ type: claim
 title: The social responsibility measurement model required the most item removals, with global justice and personal responsibility items dropped in the Vietnamese context
 description: The social responsibility measurement model required the most item removals, with global justice and personal responsibility items dropped in the Vietnamese context
 id: social-responsibility-model-items-removed-vietnam
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

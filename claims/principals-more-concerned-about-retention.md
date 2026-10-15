@@ -3,7 +3,7 @@ type: claim
 title: "Principals expressed somewhat greater concern about retention's negative effects than teachers"
 description: "Principals expressed somewhat greater concern about retention's negative effects than teachers"
 id: principals-more-concerned-about-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

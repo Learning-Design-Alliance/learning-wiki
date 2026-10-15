@@ -3,7 +3,7 @@ type: claim
 title: First-year students report coexisting high approval of AI-enabled courses and high self-reported psychological strain, with strain indicators endorsed by more than two-thirds of the sample
 description: First-year students report coexisting high approval of AI-enabled courses and high self-reported psychological strain, with strain indicators endorsed by more than two-thirds of the sample
 id: high-support-high-strain-coexistence-first-years
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

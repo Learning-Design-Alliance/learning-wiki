@@ -3,7 +3,7 @@ type: claim
 title: CPS officials and CBO leaders intended the WSS Framework to ground safety plans in community perspectives, facilitate power-sharing, and redefine school safety
 description: CPS officials and CBO leaders intended the WSS Framework to ground safety plans in community perspectives, facilitate power-sharing, and redefine school safety
 id: wss-goals-community-perspectives-power-sharing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

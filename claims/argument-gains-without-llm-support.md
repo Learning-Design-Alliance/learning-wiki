@@ -3,7 +3,7 @@ type: claim
 title: "Students became better able to develop arguments even prior to interacting with LLMs, per the authors' interpretation of initial-draft gains"
 description: "Students became better able to develop arguments even prior to interacting with LLMs, per the authors' interpretation of initial-draft gains"
 id: argument-gains-without-llm-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

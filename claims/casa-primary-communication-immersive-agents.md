@@ -3,7 +3,7 @@ type: claim
 title: Learners in immersive media environments tend to treat pedagogical agents as real people, relying primarily on biologically primary communication patterns
 description: Learners in immersive media environments tend to treat pedagogical agents as real people, relying primarily on biologically primary communication patterns
 id: casa-primary-communication-immersive-agents
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

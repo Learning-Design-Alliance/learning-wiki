@@ -3,7 +3,7 @@ type: strategy
 id: invest-in-evidence-infrastructure
 title: Invest in technological infrastructure for evidence generation, including synthetic data, shared platforms, and privacy-enhancing technologies
 description: "The article argues that 'infrastructure-less evaluations are becoming less tenable' as funding shrinks, and identifies growing infrastructure opportunities: synthetic data sets for early-stage innovation testing, plat..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

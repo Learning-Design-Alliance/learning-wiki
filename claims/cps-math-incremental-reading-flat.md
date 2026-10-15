@@ -3,7 +3,7 @@ type: claim
 title: Elementary/middle-grade math scores improved incrementally across all three eras while reading scores remained fairly flat for two decades
 description: Elementary/middle-grade math scores improved incrementally across all three eras while reading scores remained fairly flat for two decades
 id: cps-math-incremental-reading-flat
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

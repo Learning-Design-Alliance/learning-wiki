@@ -3,7 +3,7 @@ type: claim
 title: Pre-K Mathematics shows uncertain effects on reading and literacy related outcomes
 description: Pre-K Mathematics shows uncertain effects on reading and literacy related outcomes
 id: pre-k-mathematics-uncertain-reading-literacy-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

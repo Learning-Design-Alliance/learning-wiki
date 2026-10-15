@@ -3,7 +3,7 @@ type: claim
 title: The ACT does not distinguish well among low-achieving students, while WorkKeys differentiates achievement levels among these students
 description: The ACT does not distinguish well among low-achieving students, while WorkKeys differentiates achievement levels among these students
 id: act-weak-at-low-end-workkeys-differentiates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

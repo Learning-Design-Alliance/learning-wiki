@@ -3,7 +3,7 @@ type: claim
 title: Disagreements within a PLC can catalyze teacher learning rather than impede it
 description: Disagreements within a PLC can catalyze teacher learning rather than impede it
 id: plc-disagreements-catalyze-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

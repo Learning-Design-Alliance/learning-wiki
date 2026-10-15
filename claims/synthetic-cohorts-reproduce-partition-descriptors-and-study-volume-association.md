@@ -3,7 +3,7 @@ type: claim
 title: Partition descriptors and the component-membership–study-volume association are reproduced by the synthetic cohorts
 description: Partition descriptors and the component-membership–study-volume association are reproduced by the synthetic cohorts
 id: synthetic-cohorts-reproduce-partition-descriptors-and-study-volume-association
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "In the Nelson, Benner, & Gonzalez (2005) RCT, SSL produced statistically significant positive effects on all five alphabetics outcomes"
 description: "In the Nelson, Benner, & Gonzalez (2005) RCT, SSL produced statistically significant positive effects on all five alphabetics outcomes"
 id: ssl-nelson-benner-gonzalez-2005-significant-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

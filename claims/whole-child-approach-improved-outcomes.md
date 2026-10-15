@@ -3,7 +3,7 @@ type: claim
 title: Schools adopting a whole child approach are reported to see improved attendance, engagement, health, and academic performance
 description: Schools adopting a whole child approach are reported to see improved attendance, engagement, health, and academic performance
 id: whole-child-approach-improved-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

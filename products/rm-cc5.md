@@ -4,7 +4,7 @@ id: rm-cc5
 title: RM-CC5
 description: RM-CC5 is a Grade 5 mathematics core curriculum that combines one-to-one adaptive technology, teacher data use, and implementation coaching.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

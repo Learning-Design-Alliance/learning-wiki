@@ -3,7 +3,7 @@ type: claim
 title: "Students and teachers respond favorably to embedded aids: approximately 90% of students reported no difficulty understanding or using the aids, and over 75% wanted similar aids throughout the book."
 description: "Students and teachers respond favorably to embedded aids: approximately 90% of students reported no difficulty understanding or using the aids, and over 75% wanted similar aids throughout the book."
 id: embedded-aids-are-acceptable-to-students-and-teachers
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

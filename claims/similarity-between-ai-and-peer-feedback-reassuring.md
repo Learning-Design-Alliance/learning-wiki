@@ -3,7 +3,7 @@ type: claim
 title: Similarity between AI and peer feedback reassured students and increased their confidence in peer response
 description: Similarity between AI and peer feedback reassured students and increased their confidence in peer response
 id: similarity-between-ai-and-peer-feedback-reassuring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

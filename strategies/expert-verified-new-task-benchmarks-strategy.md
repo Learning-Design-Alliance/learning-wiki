@@ -3,7 +3,7 @@ type: strategy
 id: expert-verified-new-task-benchmarks-strategy
 title: Build new frontier-model benchmarks from new hard tasks with expert verification and adequate curation resources
 description: The article recommends replacing near-saturated, defect-ridden closed-ended benchmarks with a new style of evaluation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Top-ranked program choices differed by student background: low-performing students were nearly three times as likely as high-performing students to rank a charter program first, and IB programs were most popular among high-performing students"
 description: "Top-ranked program choices differed by student background: low-performing students were nearly three times as likely as high-performing students to rank a charter program first, and IB programs were most popular among..."
 id: gocps-preferences-vary-by-student-background
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

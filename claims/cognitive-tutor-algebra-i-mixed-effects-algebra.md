@@ -3,7 +3,7 @@ type: claim
 title: Cognitive Tutor® Algebra I has mixed effects on algebra outcomes for secondary students, with an average improvement index of +4 percentile points across five studies
 description: Cognitive Tutor® Algebra I has mixed effects on algebra outcomes for secondary students, with an average improvement index of +4 percentile points across five studies
 id: cognitive-tutor-algebra-i-mixed-effects-algebra
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "The evidence base for Core-Plus Mathematics is small: of 17 reviewed studies, only one met WWC standards (with reservations) and 16 did not meet standards or screens"
 description: "The evidence base for Core-Plus Mathematics is small: of 17 reviewed studies, only one met WWC standards (with reservations) and 16 did not meet standards or screens"
 id: core-plus-evidence-base-small
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

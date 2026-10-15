@@ -3,7 +3,7 @@ type: claim
 title: PIA groups follow a strategic generate-options-to-implement cycle with fewer random idea attempts, while TFA groups loop through repeated metacognitive interactions and unproductive idea testing
 description: PIA groups follow a strategic generate-options-to-implement cycle with fewer random idea attempts, while TFA groups loop through repeated metacognitive interactions and unproductive idea testing
 id: pia-strategic-cycle-tfa-random-ideas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

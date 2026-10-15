@@ -3,7 +3,7 @@ type: claim
 title: A student-led small-group discussion assessment sustained online participation and produced denser peer interaction than a standard teacher-led discussion board
 description: A student-led small-group discussion assessment sustained online participation and produced denser peer interaction than a standard teacher-led discussion board
 id: student-led-discussion-task-sustains-online-participation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Effort-moderated scoring yields more accurate scores than traditional scoring on an adaptive achievement test
 description: Effort-moderated scoring yields more accurate scores than traditional scoring on an adaptive achievement test
 id: effort-moderated-scoring-more-accurate-than-traditional
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

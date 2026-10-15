@@ -3,7 +3,7 @@ type: claim
 title: A modified E-M scoring method using more liberal time thresholds accounts for two-thirds or more of score distortion, outperforming standard thresholds
 description: A modified E-M scoring method using more liberal time thresholds accounts for two-thirds or more of score distortion, outperforming standard thresholds
 id: liberal-threshold-em-scoring-two-thirds-distortion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "AI-generated questions instead of draft text significantly reduce actors' cognitive burden during character journaling"
 description: "AI-generated questions instead of draft text significantly reduce actors' cognitive burden during character journaling"
 id: generative-refusal-reduces-cognitive-burden-journaling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: element
 id: ccsr-school-report-protocol-quartile-benchmarks
 title: Individual school report protocol with citywide and quartile benchmarks
 description: "The report protocol presents Part I with ten profile graphs, each displaying three to six teacher or student scales, and Part II with two pages of detail per scale: item-level response charts and frequency distributio..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

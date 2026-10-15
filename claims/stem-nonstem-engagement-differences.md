@@ -3,7 +3,7 @@ type: claim
 title: STEM students adopt the GenAI Tutor less and use it differently than non-STEM students, with more shallow and routine-learning engagement
 description: STEM students adopt the GenAI Tutor less and use it differently than non-STEM students, with more shallow and routine-learning engagement
 id: stem-nonstem-engagement-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

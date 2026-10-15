@@ -3,7 +3,7 @@ type: claim
 title: CPS four-year completion rates rose 7 percentage points over ten years while enrollees nearly doubled, but remained far below six-year rates
 description: CPS four-year completion rates rose 7 percentage points over ten years while enrollees nearly doubled, but remained far below six-year rates
 id: cps-four-year-rates-increased-seven-points
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

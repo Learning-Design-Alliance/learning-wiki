@@ -3,7 +3,7 @@ type: claim
 title: Academic impacts of closures hinge on the quality of receiving schools, and fewer than half of displaced students transfer to higher-performing schools
 description: Academic impacts of closures hinge on the quality of receiving schools, and fewer than half of displaced students transfer to higher-performing schools
 id: receiving-school-quality-moderates-closure-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

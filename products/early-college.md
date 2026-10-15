@@ -4,7 +4,7 @@ id: early-college
 title: Early College
 description: A whole-school dual-enrollment programme run through district-college partnerships that combines college-level coursework with academic, social, and transition supports for high-school students.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

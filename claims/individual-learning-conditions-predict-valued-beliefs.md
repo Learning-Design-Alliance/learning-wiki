@@ -3,7 +3,7 @@ type: claim
 title: Each individual learning condition predicts I am Valued gains, with Classroom Community the largest (15.0 middle grades, 16.9 high school percentile points)
 description: Each individual learning condition predicts I am Valued gains, with Classroom Community the largest (15.0 middle grades, 16.9 high school percentile points)
 id: individual-learning-conditions-predict-valued-beliefs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

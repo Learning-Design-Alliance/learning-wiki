@@ -3,7 +3,7 @@ type: claim
 title: "Basic prompt injection attempts failed or were detected: instruction manipulation alone failed in all 9 iterations, role-playing without concealment was detected in output, and metadata-hidden injections failed in all 9 iterations"
 description: "Basic prompt injection attempts failed or were detected: instruction manipulation alone failed in all 9 iterations, role-playing without concealment was detected in output, and metadata-hidden injections failed in all..."
 id: basic-and-metadata-injections-fail
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

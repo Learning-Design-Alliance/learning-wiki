@@ -4,7 +4,7 @@ id: embodied-simulated-patient-training-application-for-act-oriented-psychothera
 title: Embodied simulated-patient training application for ACT-oriented psychotherapy practice with spoken dialogue
 description: A Unity application developed by Pascal Riachi et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: systemic-sel-public-health-implementation
 title: Implement SEL systemically as a public health approach with shared vision, adult SEL, aligned programs, and continuous improvement
 description: "The report recommends that sustainable SEL requires supportive infrastructures and systemic efforts with core features: developing a shared vision integrating SEL with academic learning, building professional developm..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

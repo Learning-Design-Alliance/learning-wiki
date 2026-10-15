@@ -3,7 +3,7 @@ type: claim
 title: Student surveys show widespread weekly AI use, requests for instructor guidance, and a substantial minority using AI to produce entire solutions
 description: Student surveys show widespread weekly AI use, requests for instructor guidance, and a substantial minority using AI to produce entire solutions
 id: physics-student-ai-use-survey-findings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

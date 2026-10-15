@@ -3,7 +3,7 @@ type: strategy
 id: purpose-built-solutions-heilmeier-catechism-questions
 title: Engineer purpose-built solutions using fit-to-context analysis and a Heilmeier Catechism-style question set
 description: Teams should identify use cases that fit the solution being designed and collect information about key context factors for implementation, such as technology systems, academic schedules, and policies, while accounting...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

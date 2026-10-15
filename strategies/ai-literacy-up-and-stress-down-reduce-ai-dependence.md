@@ -3,7 +3,7 @@ type: strategy
 id: ai-literacy-up-and-stress-down-reduce-ai-dependence
 title: "Enhance students' AI literacy while alleviating excessive academic stress to reduce over-dependence on generative AI"
 description: "The article's discussion recommends that educational practice address both protective and risk factors for AI dependence: \"efforts should bemade toenhance students'AIliteracy,whilealsopayingattentiontoalleviatingexces..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

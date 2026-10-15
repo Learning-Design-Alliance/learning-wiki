@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT shows high success on open-ended general chemistry exam questions but lower accuracy at the university level, and unverified copying of its answers is a reported risk
 description: ChatGPT shows high success on open-ended general chemistry exam questions but lower accuracy at the university level, and unverified copying of its answers is a reported risk
 id: chatgpt-accuracy-varies-by-question-level
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

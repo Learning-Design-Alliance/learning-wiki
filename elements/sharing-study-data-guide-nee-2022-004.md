@@ -3,7 +3,7 @@ type: element
 id: sharing-study-data-guide-nee-2022-004
 title: "Sharing Study Data: A Guide for Education Researchers (NCEE 2022-004)"
 description: A practical guide published by the U.S.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

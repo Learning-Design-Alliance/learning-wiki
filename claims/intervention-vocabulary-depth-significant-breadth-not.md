@@ -3,7 +3,7 @@ type: claim
 title: The intervention produced significant effects on researcher-developed measures of vocabulary depth but not vocabulary breadth
 description: The intervention produced significant effects on researcher-developed measures of vocabulary depth but not vocabulary breadth
 id: intervention-vocabulary-depth-significant-breadth-not
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

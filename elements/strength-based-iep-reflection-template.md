@@ -3,7 +3,7 @@ type: element
 id: strength-based-iep-reflection-template
 title: Strength-based Teacher Report/IEP Reflection Template with key information, academic/cognition, and SEL/behavior sections
 description: "Section Two of the guide is a fillable template where teachers \"capture the most important information you gathered from your reflection about your student.\" It is broken into three parts — Key Information, General Ac..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

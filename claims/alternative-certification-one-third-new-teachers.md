@@ -3,7 +3,7 @@ type: claim
 title: Alternative certification programs grew to account for about one-third of all new teachers certified annually in the United States
 description: Alternative certification programs grew to account for about one-third of all new teachers certified annually in the United States
 id: alternative-certification-one-third-new-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

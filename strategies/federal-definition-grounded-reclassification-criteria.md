@@ -3,7 +3,7 @@ type: strategy
 id: federal-definition-grounded-reclassification-criteria
 title: Reclassify English learners using criteria grounded in the federal EL definition, without requiring minimum content-assessment performance for exit
 description: "The paper recommends conceptualizing reclassification criteria using the federal definition of an EL, addressing the linguistic contribution to academic performance and societal participation \"while not requiring a mi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

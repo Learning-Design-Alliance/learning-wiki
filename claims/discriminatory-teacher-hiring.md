@@ -3,7 +3,7 @@ type: claim
 title: African American teacher candidates are less likely to receive job offers than white candidates despite similar or better qualifications.
 description: African American teacher candidates are less likely to receive job offers than white candidates despite similar or better qualifications.
 id: discriminatory-teacher-hiring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

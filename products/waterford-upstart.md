@@ -4,7 +4,7 @@ id: waterford-upstart
 title: Waterford Upstart
 description: "Waterford Upstart is Waterford.org's home-based early-learning programme that uses Waterford Early Learning software to provide adaptive reading, mathematics, and science instruction to young children."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: design
 id: latina-affinity-group-huntley-158
 title: "Latino/a Affinity Group at Huntley 158: an affinity space fostering belonging and retention of Latino/a teachers"
 description: "Huntley Community School District 158 initiated a Latino/a Affinity Group \"to foster connections and support among Latino/a teachers, creating a sense of belonging and networking opportunities across the district to i..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

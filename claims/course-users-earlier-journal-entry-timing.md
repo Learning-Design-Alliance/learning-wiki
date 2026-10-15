@@ -3,7 +3,7 @@ type: claim
 title: Course users create their journal entries earlier relative to the daily notification, while assistant access shows no significant timing effect
 description: Course users create their journal entries earlier relative to the daily notification, while assistant access shows no significant timing effect
 id: course-users-earlier-journal-entry-timing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

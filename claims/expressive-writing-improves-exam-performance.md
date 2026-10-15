@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

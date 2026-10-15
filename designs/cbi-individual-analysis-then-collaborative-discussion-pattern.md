@@ -3,7 +3,7 @@ type: design
 id: cbi-individual-analysis-then-collaborative-discussion-pattern
 title: Case-based instruction sequencing individual case analysis before collaborative discussion to support self- and co-regulation
 description: "The article describes CBI as an instructional strategy with two components: \"narratives covering real-world situations for individual knowledge construction (self-regulation) and collaborative discussions offering stu..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

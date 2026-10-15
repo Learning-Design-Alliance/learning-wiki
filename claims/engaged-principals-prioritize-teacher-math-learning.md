@@ -3,7 +3,7 @@ type: claim
 title: Principals actively engaged in prioritizing math at their sites were more likely to organize teacher learning time and involve coaches
 description: Principals actively engaged in prioritizing math at their sites were more likely to organize teacher learning time and involve coaches
 id: engaged-principals-prioritize-teacher-math-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

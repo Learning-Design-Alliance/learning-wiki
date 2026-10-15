@@ -3,7 +3,7 @@ type: claim
 title: Dimensional classification was superior for predicting Opportunity Room visits and suspensions
 description: Dimensional classification was superior for predicting Opportunity Room visits and suspensions
 id: dimensional-method-superior-behavioral-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

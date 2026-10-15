@@ -4,7 +4,7 @@ title: A personalized ability signal increased the probability of participating 
 description: A personalized ability signal increased the probability of participating in AP classes by 49 percentage points among surveyed students
 id: ability-signal-increases-ap-participation-49-points
 aliases: [personalized-ap-message-increases-participation-49-points]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: For Chinese tone learning, simpler models insensitive to memory decay fit as well as or better than memory-feature models
 description: For Chinese tone learning, simpler models insensitive to memory decay fit as well as or better than memory-feature models
 id: simpler-models-sufficient-for-tone-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

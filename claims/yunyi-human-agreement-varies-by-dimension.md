@@ -3,7 +3,7 @@ type: claim
 title: "The automated scoring system's agreement with human raters varied widely by dimension, with information fidelity showing a weak, non-significant correlation"
 description: "The automated scoring system's agreement with human raters varied widely by dimension, with information fidelity showing a weak, non-significant correlation"
 id: yunyi-human-agreement-varies-by-dimension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

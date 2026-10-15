@@ -3,7 +3,7 @@ type: strategy
 id: sustain-access-isp-clauses-device-as-service
 title: "Sustain broadband and device access beyond grant funds by inserting permanent upgrade clauses in ISP contracts and adopting 'device as service' procurement models at state scale"
 description: The report recommends two sustainability strategies for states.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

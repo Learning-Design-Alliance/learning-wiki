@@ -3,7 +3,7 @@ type: claim
 title: Engage-to-Unlock improved error-classification accuracy over Standard Chatbot but showed no significant advantage in overall judgment accuracy or complete diagnosis
 description: Engage-to-Unlock improved error-classification accuracy over Standard Chatbot but showed no significant advantage in overall judgment accuracy or complete diagnosis
 id: engage-to-unlock-error-classification-advantage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

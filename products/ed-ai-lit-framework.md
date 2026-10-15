@@ -4,7 +4,7 @@ id: ed-ai-lit-framework
 title: ED-AI Lit framework
 description: "Developed by Allen and Kendeou, the ED-AI Lit framework organizes AI literacy into six dimensions: Knowledge, Evaluation, Collaboration, Contextualization, Autonomy, and Ethics."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

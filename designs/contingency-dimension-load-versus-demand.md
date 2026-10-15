@@ -3,7 +3,7 @@ type: design
 id: contingency-dimension-load-versus-demand
 title: "The contingency dimension: separating the load a system carries from the demand it places on the learner"
 description: "The paper defines a design axis on which tutor designs sit: \"We call the line those positions lie on thecontingency dimension, and contingent tutoring is movement along it during a task.\" Structuring changes how much..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

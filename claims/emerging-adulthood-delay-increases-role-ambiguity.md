@@ -3,7 +3,7 @@ type: claim
 title: The paper reports that delayed entry into adulthood has increased role ambiguity and individualized identity development in emerging adulthood
 description: The paper reports that delayed entry into adulthood has increased role ambiguity and individualized identity development in emerging adulthood
 id: emerging-adulthood-delay-increases-role-ambiguity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

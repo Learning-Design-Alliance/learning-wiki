@@ -2,7 +2,7 @@
 type: theory
 title: Cooperative learning as socially structured, mutually accountable group learning
 description: "The chapter defines cooperative learning using Olsen and Kagan's formulation: \"Cooperative Learning is group learning activity organized so that learning is dependent on the socially structured exchange of information..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

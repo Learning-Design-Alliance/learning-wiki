@@ -3,7 +3,7 @@ type: claim
 title: Metal detector use disproportionately affects students of color, who are more likely to pass through detectors daily
 description: Metal detector use disproportionately affects students of color, who are more likely to pass through detectors daily
 id: metal-detectors-disproportionate-students-of-color
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

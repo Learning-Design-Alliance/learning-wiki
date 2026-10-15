@@ -3,7 +3,7 @@ type: claim
 title: "Self-paced mastery programs (PSI) reduce college course completion, though not by enough to explain their examination advantage"
 description: "In 32 PSI studies, 23 found higher completion in the conventional class; the average effect on attrition was h = -0.14, a small effect favouring conventional instruction. Examination effects were similar whether completion was lower in the PSI class (0.46 SD, 23 studies) or the conventional one (0.55 SD, 6 studies)."
 id: self-paced-mastery-programs-reduce-college-course-completion
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-10-13

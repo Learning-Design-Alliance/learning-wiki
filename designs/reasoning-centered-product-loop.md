@@ -3,7 +3,7 @@ type: design
 id: reasoning-centered-product-loop
 title: "Reasoning-Centered Product Loop: Orient, Visualize, Repair, Retrieve, Verify"
 description: A five-part design framework the authors propose for educational AI, moving beyond answer delivery.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

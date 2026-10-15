@@ -3,7 +3,7 @@ type: claim
 title: Nursing academics report limited, unclear and inconsistently applied institutional guidance on GenAI use in teaching and assessment
 description: Nursing academics report limited, unclear and inconsistently applied institutional guidance on GenAI use in teaching and assessment
 id: nursing-academics-report-genai-policy-ambiguity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

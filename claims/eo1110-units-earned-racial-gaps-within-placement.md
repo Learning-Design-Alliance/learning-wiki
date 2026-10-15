@@ -3,7 +3,7 @@ type: claim
 title: Within QR placement categories, White and Asian students earned significantly more first-year units than Black/African American and Hispanic/Latino students, with gaps most pronounced in Category IV
 description: Within QR placement categories, White and Asian students earned significantly more first-year units than Black/African American and Hispanic/Latino students, with gaps most pronounced in Category IV
 id: eo1110-units-earned-racial-gaps-within-placement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

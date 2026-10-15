@@ -3,7 +3,7 @@ type: claim
 title: The entrance-age achievement association is especially pronounced among children from upper-income families
 description: The entrance-age achievement association is especially pronounced among children from upper-income families
 id: entrance-age-gap-largest-upper-income-families
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

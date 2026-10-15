@@ -3,7 +3,7 @@ type: claim
 title: External partners played the central role in forming and running implementation networks, with most principal interaction directed at partners rather than other schools
 description: External partners played the central role in forming and running implementation networks, with most principal interaction directed at partners rather than other schools
 id: external-partners-central-to-network-function
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

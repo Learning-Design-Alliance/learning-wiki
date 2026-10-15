@@ -3,7 +3,7 @@ type: strategy
 id: cdp-simulation-applications-strategy
 title: Use CDP-simulated examinees for early item calibration, data augmentation, diagnostic item design, and fairness review before human field testing
 description: The article recommends several operational uses of profile-conditioned simulation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

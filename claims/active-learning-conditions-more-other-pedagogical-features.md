@@ -3,7 +3,7 @@ type: claim
 title: Active learning conditions more often include quizzes, homework, and learning/exam preparation than lecture conditions
 description: Active learning conditions more often include quizzes, homework, and learning/exam preparation than lecture conditions
 id: active-learning-conditions-more-other-pedagogical-features
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

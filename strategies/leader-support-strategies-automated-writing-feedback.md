@@ -3,7 +3,7 @@ type: strategy
 id: leader-support-strategies-automated-writing-feedback
 title: School and district leaders should provide tailored technical support, clear student guidance, and technical integration when deploying automated writing feedback tools
 description: "The brief provides \"strategies for school and district leaders to support using Ecree,\" drawing on its study of Ecree in grade 8–11 English language arts classrooms during the 2021–2022 school year."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

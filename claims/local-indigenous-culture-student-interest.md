@@ -3,7 +3,7 @@ type: claim
 title: "Staff at one university Indigenous centre report that many students, Indigenous and non-Indigenous, show keen interest in local Indigenous culture and take part avidly when it is taught"
 description: Staff at one university Indigenous centre report that many students, Indigenous and non-Indigenous, show keen interest in local Indigenous culture and take part avidly when it is taught
 id: local-indigenous-culture-student-interest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

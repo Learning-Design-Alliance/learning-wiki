@@ -3,7 +3,7 @@ type: claim
 title: 21st CCLC afterschool programs changed after-school supervision, with parents less likely to care for their child and other adults more likely
 description: 21st CCLC afterschool programs changed after-school supervision, with parents less likely to care for their child and other adults more likely
 id: 21st-cclc-shifted-after-school-supervision-away-from-parents
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

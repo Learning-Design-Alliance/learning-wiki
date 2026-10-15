@@ -3,7 +3,7 @@ type: claim
 title: Current measurement models underlying achievement testing assume students respond effortfully to test items
 description: Current measurement models underlying achievement testing assume students respond effortfully to test items
 id: measurement-models-assume-effortful-responding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

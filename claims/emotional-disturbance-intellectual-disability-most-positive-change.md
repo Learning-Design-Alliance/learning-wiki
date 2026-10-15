@@ -4,7 +4,7 @@ title: Among students with an IEP, youth with emotional disturbance or an intell
 description: Among students with an IEP, youth with emotional disturbance or an intellectual disability experienced more positive changes over the past decade than youth in other disability groups
 id: emotional-disturbance-intellectual-disability-most-positive-change
 aliases: [emotional-disturbance-intellectual-disability-more-positive-changes]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

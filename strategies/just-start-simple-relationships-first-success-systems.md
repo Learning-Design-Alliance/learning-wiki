@@ -3,7 +3,7 @@ type: strategy
 id: just-start-simple-relationships-first-success-systems
 title: "Start simple: relationships-first, low-tech student success systems can suffice in small, tight-knit communities"
 description: "Drawing on Demopolis High School's experience, the report recommends that districts \"Focus on relationships first,\" design systems that let staff see student history across grade levels and years, and adopt a \"Just St..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

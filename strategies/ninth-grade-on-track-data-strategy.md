@@ -3,7 +3,7 @@ type: strategy
 id: ninth-grade-on-track-data-strategy
 title: Focus school improvement efforts on the ninth-grade transition using real-time data to monitor and support at-risk freshmen
 description: "The strategy is a district-and-school approach in which high schools use data reports to \"monitor student performance in real time and identify students at risk,\" combined with ninth grade coordinators and summer tran..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: research-method
 id: raise-reporting-ai-studies-in-education
 title: RAISE (Reporting AI Studies in Education)
 description: RAISE (Reporting AI Studies in Education) is a structured reporting standard for empirical studies involving AI as part of the educational experience.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

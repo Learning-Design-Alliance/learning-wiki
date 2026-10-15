@@ -3,7 +3,7 @@ type: claim
 title: Experts report reduced suspensions and expulsions and improved school climate as RJ implementation successes
 description: Experts report reduced suspensions and expulsions and improved school climate as RJ implementation successes
 id: rj-successes-reduced-suspensions-improved-climate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

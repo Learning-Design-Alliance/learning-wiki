@@ -4,7 +4,7 @@ id: californias-job-embedded-administrator-induction-model
 title: "California's job-embedded administrator induction model"
 description: "California's two-year induction programme for Administrative Services Credential holders, administered through Commission-approved providers and combining individualized coaching, professional development, and standards-aligned assessments."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

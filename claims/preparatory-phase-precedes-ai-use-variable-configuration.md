@@ -3,7 +3,7 @@ type: claim
 title: In most included studies, AI tool use is preceded by a preparatory phase, but its configuration varies between technology-first and content-first approaches
 description: In most included studies, AI tool use is preceded by a preparatory phase, but its configuration varies between technology-first and content-first approaches
 id: preparatory-phase-precedes-ai-use-variable-configuration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

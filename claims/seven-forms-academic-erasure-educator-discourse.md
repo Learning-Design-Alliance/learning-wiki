@@ -3,7 +3,7 @@ type: claim
 title: Critical discourse analysis of 49 educator Reddit posts identifies seven forms of academic erasure in AI-supported writing
 description: Critical discourse analysis of 49 educator Reddit posts identifies seven forms of academic erasure in AI-supported writing
 id: seven-forms-academic-erasure-educator-discourse
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

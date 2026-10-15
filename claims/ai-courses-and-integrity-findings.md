@@ -3,7 +3,7 @@ type: claim
 title: Many institutions are adding dedicated AI courses and majors, and academic dishonesty changes form rather than increasing with GenAI
 description: Many institutions are adding dedicated AI courses and majors, and academic dishonesty changes form rather than increasing with GenAI
 id: ai-courses-and-integrity-findings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

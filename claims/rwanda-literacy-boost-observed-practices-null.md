@@ -3,7 +3,7 @@ type: claim
 title: Classroom observations suggested increases in desired pedagogical practices after PD, but differences were not statistically significant
 description: Classroom observations suggested increases in desired pedagogical practices after PD, but differences were not statistically significant
 id: rwanda-literacy-boost-observed-practices-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

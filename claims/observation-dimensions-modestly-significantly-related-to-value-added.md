@@ -3,7 +3,7 @@ type: claim
 title: "All seven dimensions of instructional practice with quantitative data are modestly but significantly related to teachers' value-added scores"
 description: "All seven dimensions of instructional practice with quantitative data are modestly but significantly related to teachers' value-added scores"
 id: observation-dimensions-modestly-significantly-related-to-value-added
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

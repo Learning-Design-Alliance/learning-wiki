@@ -3,7 +3,7 @@ type: strategy
 id: retain-teachers-of-color-four-policy-levers
 title: Underwrite comprehensive preparation, improve teaching conditions, raise compensation, and expand induction to retain teachers of color
 description: "The report's policy implications section recommends four levers for policymakers: \"Provide Greater Access to Comprehensive Preparation\", \"Improve Teaching Conditions\", \"Increase Teacher Compensation\", and improve acce..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

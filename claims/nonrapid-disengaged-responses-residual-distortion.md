@@ -3,7 +3,7 @@ type: claim
 title: E-M scoring leaves residual score distortion, suggesting some disengaged test responses are nonrapid rather than rapid guesses
 description: E-M scoring leaves residual score distortion, suggesting some disengaged test responses are nonrapid rather than rapid guesses
 id: nonrapid-disengaged-responses-residual-distortion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

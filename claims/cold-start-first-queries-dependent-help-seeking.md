@@ -3,7 +3,7 @@ type: claim
 title: "First queries from Cold Start learners were overwhelmingly dependent (96.7%), contrasting with mostly guided first queries from Oriented (69.1%) and Struggling (71.4%) learners"
 description: "First queries from Cold Start learners were overwhelmingly dependent (96.7%), contrasting with mostly guided first queries from Oriented (69.1%) and Struggling (71.4%) learners"
 id: cold-start-first-queries-dependent-help-seeking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

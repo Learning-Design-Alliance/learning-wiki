@@ -3,7 +3,7 @@ type: strategy
 id: future-symbolic-hybrid-metaverse-ai-collaborative-learning
 title: Pursue symbolic, hybrid, and metaverse-based AI approaches to address gaps left by subsymbolic AI in collaborative learning
 description: The review recommends directing future research toward underrepresented AI methodologies.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

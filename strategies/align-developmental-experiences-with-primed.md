@@ -3,7 +3,7 @@ type: strategy
 id: align-developmental-experiences-with-primed
 title: Align proposed developmental experiences with the PRIMED framework of effective character education practices
 description: The article recommends connecting the ten developmental experiences to existing character-education practice frameworks.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

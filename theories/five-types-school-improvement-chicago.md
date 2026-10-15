@@ -2,7 +2,7 @@
 type: theory
 title: Five types of local school improvement initiatives, grouped into three major approaches
 description: "Drawing on field observations from the case-study synthesis, the report identifies five types of school improvement initiatives constituting three major approaches: improving social relations, unfocused academic initi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

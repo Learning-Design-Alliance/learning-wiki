@@ -3,7 +3,7 @@ type: claim
 title: Dahmus Method students translated phrases successfully but failed to combine them into a single solution equation
 description: Dahmus Method students translated phrases successfully but failed to combine them into a single solution equation
 id: dahmus-students-translate-but-no-single-equation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

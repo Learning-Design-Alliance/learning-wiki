@@ -4,7 +4,7 @@ id: multimodal-obe-examination-answer-dataset-of-485-scanned-submissions-with-cr
 title: Multimodal OBE examination-answer dataset of 485 scanned submissions with criterion-level rubric marks
 description: A restricted research dataset created by Jahangir Alam SM et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

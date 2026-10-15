@@ -3,7 +3,7 @@ type: principle
 id: easy-accurate-complete-access-motivates-retrieval-design
 title: Design retrieval tools for easy, accurate, and complete access to rapidly growing knowledge
 description: "The article motivates Entrez by the explosive growth of information molecular biologists must access: the literature adds about 6,000 peer-reviewed articles per month and sequence databases double in size every 20 mon..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -2,7 +2,7 @@
 type: theory
 title: The activity/action/operation hierarchy of activity theory
 description: Drawing on Kuutti (1996) and Kaptelinin (1996a), the paper sketches a three-level hierarchy within an activity.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

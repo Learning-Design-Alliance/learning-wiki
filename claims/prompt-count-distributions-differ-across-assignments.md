@@ -3,7 +3,7 @@ type: claim
 title: "Prompt-count distributions differ significantly across assignments, with moderate prompting most common and extended prompting (10+) rare except in Algorithms (18.0%)"
 description: "Prompt-count distributions differ significantly across assignments, with moderate prompting most common and extended prompting (10+) rare except in Algorithms (18.0%)"
 id: prompt-count-distributions-differ-across-assignments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

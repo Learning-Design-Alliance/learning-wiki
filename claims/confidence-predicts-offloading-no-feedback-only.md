@@ -3,7 +3,7 @@ type: claim
 title: In Experiment 1, lower confidence predicted greater offloading beyond objective performance in the no-feedback group, but not in the feedback group
 description: In Experiment 1, lower confidence predicted greater offloading beyond objective performance in the no-feedback group, but not in the feedback group
 id: confidence-predicts-offloading-no-feedback-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

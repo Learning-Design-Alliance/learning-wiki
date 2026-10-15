@@ -3,7 +3,7 @@ type: strategy
 id: roadmap-ethical-cai-implementation-education
 title: Adopt a roadmap for ethical CAI implementation in education
 description: The review concludes by proposing a roadmap for ethical CAI implementation in education, built on its six-theme framework of responsible-use directions and its identified framework gaps.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

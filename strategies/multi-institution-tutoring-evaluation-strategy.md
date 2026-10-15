@@ -3,7 +3,7 @@ type: strategy
 id: multi-institution-tutoring-evaluation-strategy
 title: Evaluate tutoring outcomes at multiple institutions and compare effectiveness across tutoring forms
 description: "The article's stated next steps for tutoring-effectiveness research are that \"similar evaluations of student outcomes must occur at other institutions that provide tutoring services\" and that, as the literature grows,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

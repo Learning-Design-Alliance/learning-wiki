@@ -3,7 +3,7 @@ type: claim
 title: High school GPA is the strongest predictor of college admission, persistence, and graduation, more than ACT or SAT scores
 description: High school GPA is the strongest predictor of college admission, persistence, and graduation, more than ACT or SAT scores
 id: hs-gpa-strongest-college-predictor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

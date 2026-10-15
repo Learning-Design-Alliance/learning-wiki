@@ -3,7 +3,7 @@ type: claim
 title: Spoon-to-cup fading increased acceptance and mouth clean during cup drinking in a child with intestinal failure
 description: Spoon-to-cup fading increased acceptance and mouth clean during cup drinking in a child with intestinal failure
 id: spoon-to-cup-fading-increases-cup-drinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

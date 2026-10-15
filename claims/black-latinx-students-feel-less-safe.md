@@ -3,7 +3,7 @@ type: claim
 title: Black and Latinx students generally feel less safe at school than their White peers
 description: Black and Latinx students generally feel less safe at school than their White peers
 id: black-latinx-students-feel-less-safe
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

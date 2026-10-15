@@ -3,7 +3,7 @@ type: claim
 title: Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points), largely explained by classroom environment and peer ability
 description: Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points), largely explained by classroom environment and peer ability
 id: double-dose-failure-rates-divergent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

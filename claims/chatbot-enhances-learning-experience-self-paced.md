@@ -3,7 +3,7 @@ type: claim
 title: "Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation"
 description: "Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation"
 id: chatbot-enhances-learning-experience-self-paced
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

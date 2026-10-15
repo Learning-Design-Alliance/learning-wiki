@@ -3,7 +3,7 @@ type: element
 id: learning-unit-boxed-card-self-testing
 title: "Learning unit: sentence-translation file cards sorted into boxes by self-test performance"
 description: The learning unit consists of file cards with one corner removed and four or five boxes.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

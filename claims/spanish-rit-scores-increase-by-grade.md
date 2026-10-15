@@ -3,7 +3,7 @@ type: claim
 title: Spanish examinee RIT scores and item difficulty increase on average from kindergarten through high school, with item difficulty matching student ability
 description: Spanish examinee RIT scores and item difficulty increase on average from kindergarten through high school, with item difficulty matching student ability
 id: spanish-rit-scores-increase-by-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

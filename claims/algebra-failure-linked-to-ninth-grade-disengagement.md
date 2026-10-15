@@ -3,7 +3,7 @@ type: claim
 title: Students who fail Algebra I show far more signs of ninth-grade disengagement, including higher absenteeism and suspension rates
 description: Students who fail Algebra I show far more signs of ninth-grade disengagement, including higher absenteeism and suspension rates
 id: algebra-failure-linked-to-ninth-grade-disengagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

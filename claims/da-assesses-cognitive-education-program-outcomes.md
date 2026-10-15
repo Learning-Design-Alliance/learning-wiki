@@ -3,7 +3,7 @@ type: claim
 title: Dynamic assessment is useful for assessing outcome effects of cognitive education programs aimed at learning-how-to-learn skills
 description: Dynamic assessment is useful for assessing outcome effects of cognitive education programs aimed at learning-how-to-learn skills
 id: da-assesses-cognitive-education-program-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

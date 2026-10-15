@@ -3,7 +3,7 @@ type: claim
 title: Open-weight (DeepSeek) and proprietary (OpenAI) rubrics produced equivalent grading outcomes in every assignment-approach comparison except Assignment 1 free-form
 description: Open-weight (DeepSeek) and proprietary (OpenAI) rubrics produced equivalent grading outcomes in every assignment-approach comparison except Assignment 1 free-form
 id: open-weight-proprietary-rubric-equivalence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

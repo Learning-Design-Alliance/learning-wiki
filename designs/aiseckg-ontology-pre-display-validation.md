@@ -3,7 +3,7 @@ type: design
 id: aiseckg-ontology-pre-display-validation
 title: AISecKG ontology as a pre-display validation layer for agent-generated content
 description: "CyberAGENTS integrates the AISecKG cybersecurity ontology, which \"defines valid entity types (e.g., tool, technique, attack, vulnerability, defense, system) and permissible relations among them (e.g., exploits, detect..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

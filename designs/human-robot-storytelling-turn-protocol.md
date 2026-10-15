@@ -3,7 +3,7 @@ type: design
 id: human-robot-storytelling-turn-protocol
 title: Six-phase turn-taking narrative interaction protocol for human-robot story co-creation
 description: "A reusable interaction structure for a joint human-robot storytelling session, organised in six phases: introduction (task explanation and partner detection), iCub turn (robot asks for, grasps and identifies the first..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

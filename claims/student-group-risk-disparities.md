@@ -3,7 +3,7 @@ type: claim
 title: Low income, English learner, special education, Black, and Hispanic students were more likely to be classified significantly below benchmark at each time period and more than once
 description: Low income, English learner, special education, Black, and Hispanic students were more likely to be classified significantly below benchmark at each time period and more than once
 id: student-group-risk-disparities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

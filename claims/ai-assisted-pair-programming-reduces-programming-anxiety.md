@@ -3,7 +3,7 @@ type: claim
 title: AI-assisted pair programming significantly reduced programming anxiety compared to individual programming
 description: AI-assisted pair programming significantly reduced programming anxiety compared to individual programming
 id: ai-assisted-pair-programming-reduces-programming-anxiety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

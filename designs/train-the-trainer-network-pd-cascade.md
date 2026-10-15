@@ -3,7 +3,7 @@ type: design
 id: train-the-trainer-network-pd-cascade
 title: Three-tier train-the-trainer professional development cascade through school networks
 description: "A district-scale professional development delivery pattern in which each school network sends experienced teachers to full-day district-sponsored sessions three to four times per year; these teacher facilitators \"repl..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-08

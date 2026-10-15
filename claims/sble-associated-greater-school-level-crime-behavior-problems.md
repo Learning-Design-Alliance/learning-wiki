@@ -3,7 +3,7 @@ type: claim
 title: School-based law enforcement use is associated with greater crime and behavior problems in studies using schools as the unit of analysis
 description: School-based law enforcement use is associated with greater crime and behavior problems in studies using schools as the unit of analysis
 id: sble-associated-greater-school-level-crime-behavior-problems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

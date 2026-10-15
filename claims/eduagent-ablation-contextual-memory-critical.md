@@ -3,7 +3,7 @@ type: claim
 title: In the EduAgent framework, removing past cognitive states from memory significantly reduced simulation performance
 description: In the EduAgent framework, removing past cognitive states from memory significantly reduced simulation performance
 id: eduagent-ablation-contextual-memory-critical
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

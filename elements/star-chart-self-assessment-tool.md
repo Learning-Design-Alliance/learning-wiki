@@ -4,7 +4,7 @@ id: star-chart-self-assessment-tool
 title: "STaR Chart: a self-assessment tool for school technology and readiness"
 description: The School Technology and Readiness (STaR) Chart, first released by the CEO Forum in October 1997 and updated in this Year 2 report, is a self-assessment tool that helps K-12 schools chart their readiness to use and i...
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

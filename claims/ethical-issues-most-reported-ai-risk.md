@@ -3,7 +3,7 @@ type: claim
 title: The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism
 description: The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism
 id: ethical-issues-most-reported-ai-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

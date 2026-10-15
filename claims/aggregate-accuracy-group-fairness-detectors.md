@@ -3,7 +3,7 @@ type: claim
 title: A detector can achieve high aggregate accuracy while producing materially different over-detection rates across author groups
 description: A detector can achieve high aggregate accuracy while producing materially different over-detection rates across author groups
 id: aggregate-accuracy-group-fairness-detectors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

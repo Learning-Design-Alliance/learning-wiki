@@ -3,7 +3,7 @@ type: claim
 title: Adding generated hypotheses as features improves black-box difficulty predictors
 description: Adding generated hypotheses as features improves black-box difficulty predictors
 id: hypothesis-features-improve-difficulty-predictors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

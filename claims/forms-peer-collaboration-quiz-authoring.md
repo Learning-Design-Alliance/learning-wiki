@@ -3,7 +3,7 @@ type: claim
 title: Students created and took peer assessments in Forms, learning through writing quiz questions and answer options
 description: Students created and took peer assessments in Forms, learning through writing quiz questions and answer options
 id: forms-peer-collaboration-quiz-authoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

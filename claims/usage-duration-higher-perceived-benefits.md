@@ -3,7 +3,7 @@ type: claim
 title: Gen AI usage duration longer than one year is associated with higher perceived academic assistance, skill development, psychological and emotional support, and daily life benefits
 description: Gen AI usage duration longer than one year is associated with higher perceived academic assistance, skill development, psychological and emotional support, and daily life benefits
 id: usage-duration-higher-perceived-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

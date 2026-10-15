@@ -3,7 +3,7 @@ type: claim
 title: Most principals in EPIC sites have positive attitudes toward EPIC and merit pay in general
 description: Most principals in EPIC sites have positive attitudes toward EPIC and merit pay in general
 id: epic-principals-positive-attitudes-merit-pay
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

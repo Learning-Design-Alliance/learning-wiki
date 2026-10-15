@@ -3,7 +3,7 @@ type: claim
 title: Austin charter Hispanic students outperformed Austin district Hispanic students in reading growth
 description: Austin charter Hispanic students outperformed Austin district Hispanic students in reading growth
 id: austin-charter-hispanic-students-reading-advantage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

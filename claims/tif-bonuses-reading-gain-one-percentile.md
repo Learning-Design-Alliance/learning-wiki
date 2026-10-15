@@ -3,7 +3,7 @@ type: claim
 title: Offering pay-for-performance bonuses in 10 TIF districts increased student reading achievement by 1 percentile point after two years, with a similar-magnitude but statistically non-significant math effect
 description: Offering pay-for-performance bonuses in 10 TIF districts increased student reading achievement by 1 percentile point after two years, with a similar-magnitude but statistically non-significant math effect
 id: tif-bonuses-reading-gain-one-percentile
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

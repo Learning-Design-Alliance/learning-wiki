@@ -3,7 +3,7 @@ type: design
 id: pedagogical-friction-reflection-gating
 title: "Pedagogical friction: reflection-gated feedback architecture in which cognitive effort precedes support"
 description: "The article introduces pedagogical friction as a first-class architectural primitive: revision suggestions are gated behind an intelligent reflection gate that assesses the student's written defense for substance and,..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

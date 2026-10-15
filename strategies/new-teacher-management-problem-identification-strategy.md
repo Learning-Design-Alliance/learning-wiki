@@ -3,7 +3,7 @@ type: strategy
 id: new-teacher-management-problem-identification-strategy
 title: New teachers should diagnose problem areas with reflection, mentoring, self-assessment, observation of experts, and video review
 description: "The brief recommends a diagnostic routine for new teachers before implementing a management plan: \"Reflect on classroom organization, lesson preparation, and classroom routines in order to recognize management areas t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

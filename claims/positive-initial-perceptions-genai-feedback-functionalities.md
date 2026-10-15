@@ -3,7 +3,7 @@ type: claim
 title: Students initially perceived GenAI explanation features and dashboard visualizations positively in introductory lab sessions
 description: Students initially perceived GenAI explanation features and dashboard visualizations positively in introductory lab sessions
 id: positive-initial-perceptions-genai-feedback-functionalities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

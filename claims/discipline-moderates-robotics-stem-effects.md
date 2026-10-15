@@ -3,7 +3,7 @@ type: claim
 title: Discipline significantly moderates the effects of educational robotics on STEM learning, with larger effects in technology and cross-disciplinary contexts than in science and mathematics
 description: Discipline significantly moderates the effects of educational robotics on STEM learning, with larger effects in technology and cross-disciplinary contexts than in science and mathematics
 id: discipline-moderates-robotics-stem-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

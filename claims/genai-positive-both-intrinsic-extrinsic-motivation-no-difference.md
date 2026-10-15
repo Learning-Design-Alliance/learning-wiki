@@ -3,7 +3,7 @@ type: claim
 title: GenAI shows positive effects on both intrinsic and extrinsic motivation, with no reliable difference between the two (H-1c not supported)
 description: GenAI shows positive effects on both intrinsic and extrinsic motivation, with no reliable difference between the two (H-1c not supported)
 id: genai-positive-both-intrinsic-extrinsic-motivation-no-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

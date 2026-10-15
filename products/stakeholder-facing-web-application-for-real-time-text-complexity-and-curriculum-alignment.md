@@ -4,7 +4,7 @@ id: stakeholder-facing-web-application-for-real-time-text-complexity-and-curricu
 title: Stakeholder-facing web application for real-time text complexity and curriculum alignment analysis
 description: A Flask-based application developed by Jordan J.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

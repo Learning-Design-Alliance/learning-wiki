@@ -3,7 +3,7 @@ type: claim
 title: In-service science educators use AI far less in subject-specific DiKoLAN areas (SIM, DAP, DAQ) than in general areas
 description: In-service science educators use AI far less in subject-specific DiKoLAN areas (SIM, DAP, DAQ) than in general areas
 id: ai-use-skews-to-general-dikolan-areas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

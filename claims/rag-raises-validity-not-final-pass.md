@@ -3,7 +3,7 @@ type: claim
 title: Retrieval augmentation raises path Validity but not the joint Final Pass rate
 description: Retrieval augmentation raises path Validity but not the joint Final Pass rate
 id: rag-raises-validity-not-final-pass
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

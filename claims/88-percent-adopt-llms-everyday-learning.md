@@ -3,7 +3,7 @@ type: claim
 title: "88% of survey respondents have incorporated LLMs into their everyday learning practices"
 description: "88% of survey respondents have incorporated LLMs into their everyday learning practices"
 id: 88-percent-adopt-llms-everyday-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

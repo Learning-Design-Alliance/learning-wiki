@@ -3,7 +3,7 @@ type: claim
 title: LLM-generated erroneous code aligns with authentic student errors at levels that depend on model and prompting strategy, with Claude Sonnet 4 most consistently aligned
 description: LLM-generated erroneous code aligns with authentic student errors at levels that depend on model and prompting strategy, with Claude Sonnet 4 most consistently aligned
 id: llm-error-alignment-depends-on-model-and-prompting-strategy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

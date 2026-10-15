@@ -3,7 +3,7 @@ type: strategy
 id: mra-implementation-plan-and-pd-strategy
 title: Support district implementations of adaptive reading programs with a milestone-based implementation plan and ongoing data-informed coaching
 description: "The page describes an implementation model in which the vendor partners with the district on a plan with key milestones: a discovery meeting, plan development, integration meetings for technical readiness, launch meet..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: The MAP Growth National Dashboard draws on a sample of over seven million students in 20,000 schools, about one in four US public schools
 description: The MAP Growth National Dashboard draws on a sample of over seven million students in 20,000 schools, about one in four US public schools
 id: dashboard-sample-seven-million-students-20000-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

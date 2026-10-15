@@ -3,7 +3,7 @@ type: element
 id: retrieval-unit-alphabetical-vocabulary-sheets
 title: "Retrieval unit: alphabetical reference sheets recording word, grammar, equivalents, examples, source, date, synonyms and definition"
 description: The retrieval unit is a set of ring files with alphabetically indexed sheets, one sheet per word.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

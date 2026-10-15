@@ -4,7 +4,7 @@ id: energy-skate-park-basics-espb
 title: "Energy Skate Park: Basics (ESPB)"
 description: A PhET Interactive Simulations physics simulation that lets learners explore conservation of energy and energy relationships by manipulating a skater, track, mass, and friction.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

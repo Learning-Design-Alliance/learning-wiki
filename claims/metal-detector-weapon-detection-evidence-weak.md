@@ -3,7 +3,7 @@ type: claim
 title: Available data suggest schools with metal detectors identify more weapons through searches without scanning devices than through scanning
 description: Available data suggest schools with metal detectors identify more weapons through searches without scanning devices than through scanning
 id: metal-detector-weapon-detection-evidence-weak
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

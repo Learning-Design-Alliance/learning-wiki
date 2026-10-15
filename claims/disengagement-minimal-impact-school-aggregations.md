@@ -3,7 +3,7 @@ type: claim
 title: Disengagement had only minimal impact on school mean performance, proficiency rates, and relative ranking on the state accountability test
 description: Disengagement had only minimal impact on school mean performance, proficiency rates, and relative ranking on the state accountability test
 id: disengagement-minimal-impact-school-aggregations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Outsourcing productive struggle to AI risks cognitive debt, and reactive compliance-focused approaches are insufficient
 description: Outsourcing productive struggle to AI risks cognitive debt, and reactive compliance-focused approaches are insufficient
 id: cognitive-debt-reactive-ai-approaches-insufficient
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

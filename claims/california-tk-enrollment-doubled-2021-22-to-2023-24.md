@@ -3,7 +3,7 @@ type: claim
 title: Transitional kindergarten enrollment in California doubled from about 75,465 in 2021–22 to 151,491 in 2023–24 as eligibility expanded toward all 4-year-olds
 description: Transitional kindergarten enrollment in California doubled from about 75,465 in 2021–22 to 151,491 in 2023–24 as eligibility expanded toward all 4-year-olds
 id: california-tk-enrollment-doubled-2021-22-to-2023-24
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

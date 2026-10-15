@@ -3,7 +3,7 @@ type: claim
 title: Students perceived peer group feedback as contextually rich but sometimes subjective, and ChatGPT-4o feedback as more objective and well structured but occasionally lacking contextual sensitivity
 description: Students perceived peer group feedback as contextually rich but sometimes subjective, and ChatGPT-4o feedback as more objective and well structured but occasionally lacking contextual sensitivity
 id: student-perceptions-human-contextual-ai-objective-structured
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

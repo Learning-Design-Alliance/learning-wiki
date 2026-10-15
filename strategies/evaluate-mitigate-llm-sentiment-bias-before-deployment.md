@@ -3,7 +3,7 @@ type: strategy
 id: evaluate-mitigate-llm-sentiment-bias-before-deployment
 title: Evaluate and mitigate sentiment bias across sensitive attributes before deploying LLM forum support
 description: "The article's practice recommendations are to measure sentiment bias in LLM-generated forum replies across sensitive attributes and to counter it with counterfactual fine-tuning before deployment."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

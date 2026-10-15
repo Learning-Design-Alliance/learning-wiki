@@ -3,7 +3,7 @@ type: claim
 title: AI intuition emphasizes epistemic judgment rather than output optimization, distinguishing it from prompt engineering
 description: AI intuition emphasizes epistemic judgment rather than output optimization, distinguishing it from prompt engineering
 id: ai-intuition-epistemic-judgment-not-prompt-engineering
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

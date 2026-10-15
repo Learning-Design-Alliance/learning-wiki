@@ -3,7 +3,7 @@ type: claim
 title: The five-year dropout rate for the first cohort fully subject to the CPS promotion policy (1995) continued the slight downward trend, but pre-age-18 patterns do not clearly indicate a change
 description: The five-year dropout rate for the first cohort fully subject to the CPS promotion policy (1995) continued the slight downward trend, but pre-age-18 patterns do not clearly indicate a change
 id: promotion-policy-cohort-five-year-rate-continued-trend
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

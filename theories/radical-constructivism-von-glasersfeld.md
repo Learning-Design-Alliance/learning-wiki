@@ -2,7 +2,7 @@
 type: theory
 title: "Radical constructivism: knowing as dynamic adaptation of interpretations of experience"
 description: "The article describes radical constructivism, founded by Ernst von Glasersfeld and built on Piaget, in which \"the learner dynamically adapts to variable interpretation of experience\" and need not construct knowledge m..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

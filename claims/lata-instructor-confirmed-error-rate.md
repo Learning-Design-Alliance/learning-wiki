@@ -3,7 +3,7 @@ type: claim
 title: "Instructor-confirmed grading errors occurred at roughly 0.02–0.04% of rubric line items across the term"
 description: "Instructor-confirmed grading errors occurred at roughly 0.02–0.04% of rubric line items across the term"
 id: lata-instructor-confirmed-error-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: element
 id: nwea-tech-appendix-pandemic-recovery-2022-23
 title: NWEA technical appendix documenting sample and methods for the 2022-23 pandemic recovery brief
 description: A technical appendix published by NWEA Research in December 2022, authored by Megan Kuhfeld and Karyn Lewis, accompanying the research brief on pandemic recovery.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

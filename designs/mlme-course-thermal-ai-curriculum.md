@@ -3,7 +3,7 @@ type: design
 id: mlme-course-thermal-ai-curriculum
 title: "MLME: an open-access, project-based AI curriculum for thermal engineering totaling 39.1 hours with four core projects and three optional projects"
 description: The Machine Learning for Mechanical Engineers (MLME) course at UARK integrates AI into thermal engineering for ME students, distinct from computer-science AI courses by focusing on selection and implementation of AI a...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

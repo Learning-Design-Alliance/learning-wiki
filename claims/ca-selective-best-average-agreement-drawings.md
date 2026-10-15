@@ -3,7 +3,7 @@ type: claim
 title: Confidence-aware selective test-time scoring achieves the best average agreement with expert rubric scoring across six NGSS drawing items
 description: Confidence-aware selective test-time scoring achieves the best average agreement with expert rubric scoring across six NGSS drawing items
 id: ca-selective-best-average-agreement-drawings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

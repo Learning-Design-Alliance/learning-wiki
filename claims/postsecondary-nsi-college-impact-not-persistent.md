@@ -3,7 +3,7 @@ type: claim
 title: "The postsecondary enrollment NSI's first-year impact on college enrollment did not persist into schools' second year"
 description: "The postsecondary enrollment NSI's first-year impact on college enrollment did not persist into schools' second year"
 id: postsecondary-nsi-college-impact-not-persistent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

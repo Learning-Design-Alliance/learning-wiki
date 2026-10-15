@@ -3,7 +3,7 @@ type: claim
 title: "Live feedback shifts the router's strategy from the Feynman prompt favored in simulation to the scaffolding Coach prompt, with superior live performance"
 description: "Live feedback shifts the router's strategy from the Feynman prompt favored in simulation to the scaffolding Coach prompt, with superior live performance"
 id: sim-to-real-strategy-shift-feynman-to-coach
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

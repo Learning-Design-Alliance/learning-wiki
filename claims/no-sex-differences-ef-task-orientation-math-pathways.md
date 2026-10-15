@@ -3,7 +3,7 @@ type: claim
 title: No statistically significant sex differences in the direct associations among EF, task orientation, and mathematics or in the mediating effect of task orientation
 description: No statistically significant sex differences in the direct associations among EF, task orientation, and mathematics or in the mediating effect of task orientation
 id: no-sex-differences-ef-task-orientation-math-pathways
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

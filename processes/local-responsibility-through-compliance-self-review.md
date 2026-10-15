@@ -3,7 +3,7 @@ type: process
 id: local-responsibility-through-compliance-self-review
 title: Increase local responsibility for program compliance through self-review before state validation
 description: "The guide's central design principle is devolving compliance assurance to the local level: districts perform a compliance self-review that the state agency later validates, with state technical and management assistan..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

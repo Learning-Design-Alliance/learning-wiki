@@ -3,7 +3,7 @@ type: claim
 title: Elementary attendance improved more in schools that were strong or growing on 5Essentials Survey measures, in both pooled and within-school models
 description: Elementary attendance improved more in schools that were strong or growing on 5Essentials Survey measures, in both pooled and within-school models
 id: elementary-attendance-improves-strong-5essentials-measures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

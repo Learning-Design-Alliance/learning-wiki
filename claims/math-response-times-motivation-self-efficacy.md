@@ -3,7 +3,7 @@ type: claim
 title: Time students spend on math test questions is studied as a potential source of information about motivation and self-efficacy
 description: Time students spend on math test questions is studied as a potential source of information about motivation and self-efficacy
 id: math-response-times-motivation-self-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

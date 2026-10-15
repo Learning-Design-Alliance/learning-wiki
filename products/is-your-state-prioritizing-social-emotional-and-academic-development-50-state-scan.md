@@ -4,7 +4,7 @@ id: is-your-state-prioritizing-social-emotional-and-academic-development-50-stat
 title: Is Your State Prioritizing Social, Emotional, and Academic Development? 50-state scan
 description: A 50-state policy-scan data resource released by Ed Trust in partnership with CASEL that compiles publicly available state policies so educators, advocates, and policymakers can compare support for students’ social, emotional, and academic development.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

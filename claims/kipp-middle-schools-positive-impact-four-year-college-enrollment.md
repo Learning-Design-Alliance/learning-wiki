@@ -3,7 +3,7 @@ type: claim
 title: KIPP middle schools had a positive and statistically significant impact on enrollment in four-year colleges
 description: KIPP middle schools had a positive and statistically significant impact on enrollment in four-year colleges
 id: kipp-middle-schools-positive-impact-four-year-college-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Progress monitoring is needed to guide next steps in planning and providing instruction and interventions
 description: Progress monitoring is needed to guide next steps in planning and providing instruction and interventions
 id: progress-monitoring-guides-next-steps-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

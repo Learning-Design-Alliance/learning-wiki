@@ -3,7 +3,7 @@ type: claim
 title: An LLM-based AI Evaluator agrees with expert human raters on collaboration transcripts at a level similar to inter-expert agreement
 description: An LLM-based AI Evaluator agrees with expert human raters on collaboration transcripts at a level similar to inter-expert agreement
 id: llm-evaluator-agreement-matches-expert-raters
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Facebook usage in higher education carries potential problems ranging from educators' dominance to privacy concerns"
 description: "Facebook usage in higher education carries potential problems ranging from educators' dominance to privacy concerns"
 id: facebook-educator-dominance-privacy-concerns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

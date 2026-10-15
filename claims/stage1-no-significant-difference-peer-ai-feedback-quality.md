@@ -3,7 +3,7 @@ type: claim
 title: In the first assessment stage, peer group and ChatGPT-4o feedback showed no significant difference in quality
 description: In the first assessment stage, peer group and ChatGPT-4o feedback showed no significant difference in quality
 id: stage1-no-significant-difference-peer-ai-feedback-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: earn-and-learn-apprenticeship-nontraditional-occupations
 title: Use employer-based earn-and-learn apprenticeship as a workforce training pathway outside traditional construction occupations
 description: "The report positions apprenticeship as a viable training pathway beyond its traditional construction base: apprentices are employed during training, combine classroom instruction with mentored on-the-job training at t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

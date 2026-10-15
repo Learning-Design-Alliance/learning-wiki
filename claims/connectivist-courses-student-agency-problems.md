@@ -3,7 +3,7 @@ type: claim
 title: Not all students in connectivist courses could autonomously direct their own learning, and some felt disconnected and demotivated
 description: Not all students in connectivist courses could autonomously direct their own learning, and some felt disconnected and demotivated
 id: connectivist-courses-student-agency-problems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

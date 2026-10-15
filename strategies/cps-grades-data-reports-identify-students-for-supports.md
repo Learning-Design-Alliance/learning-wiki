@@ -3,7 +3,7 @@ type: strategy
 id: cps-grades-data-reports-identify-students-for-supports
 title: Use course grades data reports to identify and reach out to students who most need different supports, similar to ninth-grade on-track teams
 description: The report recommends that schools or the district organize course grades data to flag students whose grades declined during remote and hybrid learning so staff can reach out and determine why they are struggling.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

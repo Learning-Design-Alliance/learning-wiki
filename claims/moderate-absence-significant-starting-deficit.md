@@ -3,7 +3,7 @@ type: claim
 title: "Even moderately absent students (0.1-4.9% of days) start the following year at significantly lower mathematics achievement (.07 to .15 SDs) than no-absence peers"
 description: "Even moderately absent students (0.1-4.9% of days) start the following year at significantly lower mathematics achievement (.07 to .15 SDs) than no-absence peers"
 id: moderate-absence-significant-starting-deficit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

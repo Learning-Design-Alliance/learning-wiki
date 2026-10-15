@@ -3,7 +3,7 @@ type: claim
 title: High school teachers are substantially less positive than elementary school teachers about recent changes, reform impact, and local school leadership
 description: High school teachers are substantially less positive than elementary school teachers about recent changes, reform impact, and local school leadership
 id: high-school-teachers-less-positive-than-elementary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

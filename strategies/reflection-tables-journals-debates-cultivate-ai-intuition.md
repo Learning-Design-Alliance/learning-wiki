@@ -3,7 +3,7 @@ type: strategy
 id: reflection-tables-journals-debates-cultivate-ai-intuition
 title: Use structured reflection tables, learning journals, prompt variation, adversarial queries, and peer debate to cultivate AI intuition
 description: The article recommends instructional practices that make each phase of the experiential cycle visible and assessable.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

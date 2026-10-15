@@ -3,7 +3,7 @@ type: claim
 title: SEDA and MAP Growth district growth estimates in ELA correlate at .82 (precision-adjusted)
 description: SEDA and MAP Growth district growth estimates in ELA correlate at .82 (precision-adjusted)
 id: seda-map-growth-ela-growth-correlation-082
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

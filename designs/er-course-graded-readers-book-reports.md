@@ -3,7 +3,7 @@ type: design
 id: er-course-graded-readers-book-reports
 title: 15-week university extensive reading course with free choice of graded readers and book reports
 description: "A 15-week compulsory EFL course at a Japanese university met weekly for 90 minutes; \"During class, students were able to access approximately 500 graded English readers (a series of Oxford, Cambridge, Heinemann, and P..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-14

@@ -3,7 +3,7 @@ type: claim
 title: "KITE's non-procedural responses show strong retrieval grounding (faithfulness 0.85, context relevance 0.94) and answer similarity 0.76, with lower factual correctness 0.45"
 description: "KITE's non-procedural responses show strong retrieval grounding (faithfulness 0.85, context relevance 0.94) and answer similarity 0.76, with lower factual correctness 0.45"
 id: kite-strong-grounding-lower-factual-correctness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

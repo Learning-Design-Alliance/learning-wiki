@@ -3,7 +3,7 @@ type: design
 id: admission-as-rite-of-passage-pattern
 title: Admission structured as a rite of passage combining rituals and constructivist therapy
 description: "The article's organizing pattern treats residential admission as a rite of passage rather than an event, integrating Van Gennep's phases with constructivist therapy."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

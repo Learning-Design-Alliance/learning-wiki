@@ -3,7 +3,7 @@ type: claim
 title: "Service learning and in-class civic learning opportunities are more strongly associated with high school students' later commitment to civic participation than the other school, family and community factors studied"
 description: "Service learning experiences and in-class civic learning opportunities have a larger impact on high school students' commitment to civic participation than other school, family, or community influences"
 id: service-learning-and-in-class-civic-learning-strongest-predictors-civic-commitment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

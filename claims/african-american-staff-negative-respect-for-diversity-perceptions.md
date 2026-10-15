@@ -3,7 +3,7 @@ type: claim
 title: African American secondary school staff had more negative perceptions of respect for diversity in their schools than other staff
 description: African American secondary school staff had more negative perceptions of respect for diversity in their schools than other staff
 id: african-american-staff-negative-respect-for-diversity-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

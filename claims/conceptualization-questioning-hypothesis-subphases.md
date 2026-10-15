@@ -3,7 +3,7 @@ type: claim
 title: The Conceptualization phase divides into two alternative sub-phases, Questioning and Hypothesis Generation
 description: The Conceptualization phase divides into two alternative sub-phases, Questioning and Hypothesis Generation
 id: conceptualization-questioning-hypothesis-subphases
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

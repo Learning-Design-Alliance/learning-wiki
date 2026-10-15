@@ -3,7 +3,7 @@ type: strategy
 id: personalize-reading-via-factor-research-dyslexia
 title: Personalize reading tools and curriculum using Factor research, including for students with developmental dyslexia
 description: The paper recommends that developers and educators use the research behind the Factors critical to reading success to personalize tools and curriculum to individual learner needs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

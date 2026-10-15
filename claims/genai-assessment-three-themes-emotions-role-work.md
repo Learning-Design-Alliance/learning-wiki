@@ -3,7 +3,7 @@ type: claim
 title: "Thematic analysis of interviews with academics and students about GenAI and assessment yielded three themes: emotions, academic role and identity; assessment must change; and the work and expertise required to change assessment."
 description: "Thematic analysis of interviews with academics and students about GenAI and assessment yielded three themes: emotions, academic role and identity; assessment must change; and the work and expertise required to change..."
 id: genai-assessment-three-themes-emotions-role-work
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

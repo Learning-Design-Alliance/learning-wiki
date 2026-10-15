@@ -3,7 +3,7 @@ type: claim
 title: Across 11 states with transparent student group allocation, estimated combined additional funding for dual EL/low-income students ranged from $904 per pupil in Arkansas to $16,161 in New Jersey
 description: Across 11 states with transparent student group allocation, estimated combined additional funding for dual EL/low-income students ranged from $904 per pupil in Arkansas to $16,161 in New Jersey
 id: dual-funding-range-904-to-16161
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

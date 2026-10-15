@@ -3,7 +3,7 @@ type: claim
 title: Mindfulness practices are linked to positive school climate outcomes including compassion, well-being, and self-regulation
 description: Mindfulness practices are linked to positive school climate outcomes including compassion, well-being, and self-regulation
 id: mindfulness-positive-school-climate-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

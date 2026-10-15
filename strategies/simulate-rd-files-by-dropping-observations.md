@@ -3,7 +3,7 @@ type: strategy
 id: simulate-rd-files-by-dropping-observations
 title: Simulate RD analysis files by selectively dropping observations from experimental data files
 description: "An implementable methodological recipe for creating RD analysis data from experimental data: \"We simulate RD analysis files by selectively dropping observations from the original experimental data files.\" Observations..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

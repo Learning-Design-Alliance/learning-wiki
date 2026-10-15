@@ -3,7 +3,7 @@ type: design
 id: constructivist-model-reconstruction-course-pattern
 title: Lecture-free, problem-centered, collaborative course pattern built on model construction and evaluation
 description: "The restructured Introductory Astronomy course was \"lecture-free, problem-centered, and collaborative in structure.\" Rather than presenting the heliocentric model linearly, students retraced the steps of evaluating an..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

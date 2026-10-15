@@ -3,7 +3,7 @@ type: claim
 title: The charter school sector grew to more than 6,800 schools serving nearly 3 million students across forty states and DC by 2015–16
 description: The charter school sector grew to more than 6,800 schools serving nearly 3 million students across forty states and DC by 2015–16
 id: charter-sector-scale-2015-16
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

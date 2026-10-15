@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

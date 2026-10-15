@@ -3,7 +3,7 @@ type: claim
 title: LLM capabilities enabled family education systems across conversational, embodied, and spatial interface forms to generate support from the context of an unfolding interaction
 description: LLM capabilities enabled family education systems across conversational, embodied, and spatial interface forms to generate support from the context of an unfolding interaction
 id: llm-generated-support-unfolding-interaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

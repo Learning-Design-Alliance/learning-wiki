@@ -3,7 +3,7 @@ type: claim
 title: A VLM-based screenplay-to-video fidelity proxy shows scene and element structure are usually preserved while action-level fidelity is the primary failure mode
 description: A VLM-based screenplay-to-video fidelity proxy shows scene and element structure are usually preserved while action-level fidelity is the primary failure mode
 id: anvil-video-fidelity-proxy-action-failure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: state-agencies-commission-rel-analytic-support-reopening-guidance
 title: State education agencies can commission regional educational laboratory analytic support to develop COVID-19 mitigation guidance for school reopening
 description: This strategy pairs a state education agency with a regional educational laboratory to supply analytic support for policy guidance.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

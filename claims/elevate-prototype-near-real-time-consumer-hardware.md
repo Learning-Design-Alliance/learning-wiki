@@ -3,7 +3,7 @@ type: claim
 title: An ELEVATE prototype achieves near real-time end-to-end tutoring interaction on consumer-grade school hardware without cloud GPUs
 description: An ELEVATE prototype achieves near real-time end-to-end tutoring interaction on consumer-grade school hardware without cloud GPUs
 id: elevate-prototype-near-real-time-consumer-hardware
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

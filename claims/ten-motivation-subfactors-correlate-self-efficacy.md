@@ -3,7 +3,7 @@ type: claim
 title: All ten sub-factors of the L2 motivational self-system correlate significantly and positively with L2 self-efficacy
 description: All ten sub-factors of the L2 motivational self-system correlate significantly and positively with L2 self-efficacy
 id: ten-motivation-subfactors-correlate-self-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

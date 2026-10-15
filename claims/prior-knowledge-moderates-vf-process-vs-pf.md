@@ -3,7 +3,7 @@ type: claim
 title: "Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while prior knowledge did not affect post-test performance in the PF condition"
 description: "Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while prior knowledge did not affect post-test performance in the PF condition"
 id: prior-knowledge-moderates-vf-process-vs-pf
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

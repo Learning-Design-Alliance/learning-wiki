@@ -3,7 +3,7 @@ type: element
 id: lottery-based-study-33-charter-middle-schools
 title: Lottery-based study of 33 charter middle schools across 13 states
 description: "The evidence base for this article is a lottery-based study of \"a broad set of 33 charter middle schools across 13 states.\" Because admission was determined by randomized admissions lotteries, the authors could compar..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

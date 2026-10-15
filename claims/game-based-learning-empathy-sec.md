@@ -3,7 +3,7 @@ type: claim
 title: "Review reports a game-based learning course increased adolescents' empathy and compassion in migration/refugee context"
 description: "Review reports a game-based learning course increased adolescents' empathy and compassion in migration/refugee context"
 id: game-based-learning-empathy-sec
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

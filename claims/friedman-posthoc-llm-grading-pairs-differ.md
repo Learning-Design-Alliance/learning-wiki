@@ -3,7 +3,7 @@ type: claim
 title: Statistical tests show significant grading differences among nearly all pairs of LLMs, with only 7 of 153 pairs statistically indistinguishable
 description: Statistical tests show significant grading differences among nearly all pairs of LLMs, with only 7 of 153 pairs statistically indistinguishable
 id: friedman-posthoc-llm-grading-pairs-differ
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

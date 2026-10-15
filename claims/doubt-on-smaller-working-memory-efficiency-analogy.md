@@ -3,7 +3,7 @@ type: claim
 title: The evolutionary analogy for a smaller working memory being more efficient is doubtful
 description: The evolutionary analogy for a smaller working memory being more efficient is doubtful
 id: doubt-on-smaller-working-memory-efficiency-analogy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

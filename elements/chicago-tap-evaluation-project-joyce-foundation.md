@@ -3,7 +3,7 @@ type: element
 id: chicago-tap-evaluation-project-joyce-foundation
 title: Chicago TAP evaluation project (2006-2012), prepared for the Joyce Foundation
 description: The evaluation of the Chicago Teacher Advancement Program was a multi-year project with a stated time frame of 2006-2012, prepared for the Joyce Foundation and conducted by Mathematica Policy Research.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

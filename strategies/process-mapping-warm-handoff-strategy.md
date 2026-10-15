@@ -3,7 +3,7 @@ type: strategy
 id: process-mapping-warm-handoff-strategy
 title: Use process mapping and warm handoffs to connect students to supports across offices
 description: The guide recommends process mapping, in which staff and students document the processes and requirements students must complete as they progress toward graduation, then share experiences to identify gaps and overlaps...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

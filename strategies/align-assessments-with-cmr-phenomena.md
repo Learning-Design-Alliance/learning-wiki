@@ -3,7 +3,7 @@ type: strategy
 id: align-assessments-with-cmr-phenomena
 title: Incorporate assessment questions that elicit causal mechanistic reasoning through phenomena, scaffolded but not over-probed
 description: "The article recommends aligning assessments with instruction by including free-response exam questions that ask for molecular-level explanations of observed phenomena, similar to the study's prompts, since assessments..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

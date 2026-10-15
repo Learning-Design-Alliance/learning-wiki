@@ -3,7 +3,7 @@ type: strategy
 id: provisional-el-classification-period
 title: Establish a provisional classification period of roughly 45 to 90 days to detect and correct initial EL misclassifications
 description: "The report recommends a limited time frame after initial classification during which educators observe students' classroom language use, gather evidence, and correct erroneous classifications in either direction."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

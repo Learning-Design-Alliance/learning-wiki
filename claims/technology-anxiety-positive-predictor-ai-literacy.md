@@ -3,7 +3,7 @@ type: claim
 title: Technology anxiety is a positive predictor of AI literacy once other determinants are controlled, despite a negative zero-order correlation
 description: Technology anxiety is a positive predictor of AI literacy once other determinants are controlled, despite a negative zero-order correlation
 id: technology-anxiety-positive-predictor-ai-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Existing research on missing school from summer breaks, weather closures, and absenteeism can inform projections of pandemic learning loss
 description: Existing research on missing school from summer breaks, weather closures, and absenteeism can inform projections of pandemic learning loss
 id: missing-school-research-informs-covid-learning-loss-projections
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

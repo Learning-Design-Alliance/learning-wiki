@@ -3,7 +3,7 @@ type: claim
 title: "Neural network models predicted students' writing performance groups with 94–100% accuracy from self-regulation characteristics"
 description: "Neural network models predicted students' writing performance groups with 94–100% accuracy from self-regulation characteristics"
 id: neural-networks-predict-writing-performance-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

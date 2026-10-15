@@ -3,7 +3,7 @@ type: claim
 title: Teachers and principals reported satisfaction with READ 180 implementation and positive perceptions of its impacts, while recommending additional professional development
 description: Teachers and principals reported satisfaction with READ 180 implementation and positive perceptions of its impacts, while recommending additional professional development
 id: read-180-implementation-satisfaction-and-pd-recommendations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

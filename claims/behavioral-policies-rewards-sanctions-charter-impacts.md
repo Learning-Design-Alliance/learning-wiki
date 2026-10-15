@@ -3,7 +3,7 @@ type: claim
 title: Comprehensive behavioral policies with rewards and sanctions are associated with positive charter-school impacts
 description: Comprehensive behavioral policies with rewards and sanctions are associated with positive charter-school impacts
 id: behavioral-policies-rewards-sanctions-charter-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: In elementary book talk, students spent significantly more time interacting with a fixed-role AI peer than with their homeroom teacher in both grades
 description: In elementary book talk, students spent significantly more time interacting with a fixed-role AI peer than with their homeroom teacher in both grades
 id: ai-peer-longer-book-talk-sessions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

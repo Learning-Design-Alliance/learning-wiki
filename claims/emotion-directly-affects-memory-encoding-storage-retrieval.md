@@ -3,7 +3,7 @@ type: claim
 title: Emotion directly affects encoding, storage, and retrieval of information, including before awareness of the material, via broadening or narrowing cognitive resources and mood-dependent and mood-congruent processing
 description: Emotion directly affects encoding, storage, and retrieval of information, including before awareness of the material, via broadening or narrowing cognitive resources and mood-dependent and mood-congruent processing
 id: emotion-directly-affects-memory-encoding-storage-retrieval
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

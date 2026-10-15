@@ -3,7 +3,7 @@ type: claim
 title: A one-parameter IRT model outperforms global and per-pitch baselines on AUC, BCE and Brier score but not on threshold accuracy for held-out singing attempts
 description: A one-parameter IRT model outperforms global and per-pitch baselines on AUC, BCE and Brier score but not on threshold accuracy for held-out singing attempts
 id: irt-outperforms-baselines-discrimination-not-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

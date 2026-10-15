@@ -3,7 +3,7 @@ type: claim
 title: 9th-grade on-track NSI improved course pass rates by 3 to 4 percentage points but did not reduce suspension rates
 description: 9th-grade on-track NSI improved course pass rates by 3 to 4 percentage points but did not reduce suspension rates
 id: 9th-grade-on-track-nsi-pass-rates-suspension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

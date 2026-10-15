@@ -3,7 +3,7 @@ type: claim
 title: Implementation level was not significantly associated with most student and staff climate outcomes or any administrative outcomes
 description: Implementation level was not significantly associated with most student and staff climate outcomes or any administrative outcomes
 id: implementation-not-associated-most-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

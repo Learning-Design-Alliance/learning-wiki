@@ -3,7 +3,7 @@ type: claim
 title: GCLA use improves chemistry knowledge construction, including two-week retention, compared with traditional ChatGPT use
 description: GCLA use improves chemistry knowledge construction, including two-week retention, compared with traditional ChatGPT use
 id: gcla-improves-knowledge-construction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

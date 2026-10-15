@@ -3,7 +3,7 @@ type: claim
 title: GSTG recipients report teaching in high-need schools and shortage subjects, with most intending to stay after their service obligation
 description: GSTG recipients report teaching in high-need schools and shortage subjects, with most intending to stay after their service obligation
 id: gstg-recipients-high-need-schools-subjects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

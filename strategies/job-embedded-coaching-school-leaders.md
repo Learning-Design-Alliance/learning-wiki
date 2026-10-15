@@ -3,7 +3,7 @@ type: strategy
 id: job-embedded-coaching-school-leaders
 title: Provide job-embedded coaching to school leaders to translate learning into sustainable practice
 description: The NCS model pairs network learning opportunities with individualized, on-the-ground support.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

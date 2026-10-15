@@ -3,7 +3,7 @@ type: strategy
 id: prek-8-ct-integration-over-stand-alone
 title: Integrate computational thinking into PreK-8 core subject matter rather than relying on stand-alone clubs and classes
 description: "The report's first commitment is focusing on PreK-8 integration of computing with engaging professional learning for teachers, rather than electives meant for a select few."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

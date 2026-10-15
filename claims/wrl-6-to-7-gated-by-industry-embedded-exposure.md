@@ -3,7 +3,7 @@ type: claim
 title: Advancement to WRL 7 was observed only after industry-embedded exposure, not additional coursework
 description: Advancement to WRL 7 was observed only after industry-embedded exposure, not additional coursework
 id: wrl-6-to-7-gated-by-industry-embedded-exposure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

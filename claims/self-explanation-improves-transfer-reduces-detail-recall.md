@@ -3,7 +3,7 @@ type: claim
 title: Self-explanation promotes transfer of general patterns but can reduce recall of details and cause overgeneralization
 description: Self-explanation promotes transfer of general patterns but can reduce recall of details and cause overgeneralization
 id: self-explanation-improves-transfer-reduces-detail-recall
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: School-based prevention practices appear effective in reducing alcohol and drug use, dropout and nonattendance, and other conduct problems, with small average effects and considerable heterogeneity across studies
 description: School-based prevention practices appear effective in reducing alcohol and drug use, dropout and nonattendance, and other conduct problems, with small average effects and considerable heterogeneity across studies
 id: school-based-prevention-small-heterogeneous-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

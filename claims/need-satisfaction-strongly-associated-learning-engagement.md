@@ -3,7 +3,7 @@ type: claim
 title: Basic psychological need satisfaction is strongly associated with learning engagement among medical undergraduates
 description: Basic psychological need satisfaction is strongly associated with learning engagement among medical undergraduates
 id: need-satisfaction-strongly-associated-learning-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

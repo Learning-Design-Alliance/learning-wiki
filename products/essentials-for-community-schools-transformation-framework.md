@@ -4,7 +4,7 @@ id: essentials-for-community-schools-transformation-framework
 title: Essentials for Community Schools Transformation framework
 description: A Community Schools Forward framework that guides K–12 community-school transformation through six site-level practices and enabling conditions.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Interaction traces cannot establish answerability or justificatory dispossession because StudyChat does not elicit reconstruction and defense of reasoning
 description: Interaction traces cannot establish answerability or justificatory dispossession because StudyChat does not elicit reconstruction and defense of reasoning
 id: interaction-traces-cannot-establish-answerability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

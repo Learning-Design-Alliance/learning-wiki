@@ -3,7 +3,7 @@ type: claim
 title: Prompting metacognitive strategies before cognitive strategies improves strategy quality and conceptual knowledge
 description: Prompting metacognitive strategies before cognitive strategies improves strategy quality and conceptual knowledge
 id: metacognitive-first-prompt-sequence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

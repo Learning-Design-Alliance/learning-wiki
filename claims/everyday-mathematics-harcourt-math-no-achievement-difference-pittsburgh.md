@@ -3,7 +3,7 @@ type: claim
 title: Everyday Mathematics and Harcourt Math show no difference in effects on elementary student achievement in Pittsburgh Public Schools
 description: Everyday Mathematics and Harcourt Math show no difference in effects on elementary student achievement in Pittsburgh Public Schools
 id: everyday-mathematics-harcourt-math-no-achievement-difference-pittsburgh
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

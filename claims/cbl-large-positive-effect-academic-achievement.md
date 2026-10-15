@@ -3,7 +3,7 @@ type: claim
 title: "Creativity-based learning applications show a large, positive pooled effect on students' academic achievement (ES = 0.850)"
 description: "Creativity-based learning applications show a large, positive pooled effect on students' academic achievement (ES = 0.850)"
 id: cbl-large-positive-effect-academic-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

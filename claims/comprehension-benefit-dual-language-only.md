@@ -3,7 +3,7 @@ type: claim
 title: Multimedia features improved story comprehension in dual-language e-books (marginal trend) but not in single-language e-books
 description: Multimedia features improved story comprehension in dual-language e-books (marginal trend) but not in single-language e-books
 id: comprehension-benefit-dual-language-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Limited instruction directed at complex structures also proved effective, provided the target structures are readily available in noninstructional input
 description: Limited instruction directed at complex structures also proved effective, provided the target structures are readily available in noninstructional input
 id: limited-ffi-complex-structures-effective-with-input-availability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

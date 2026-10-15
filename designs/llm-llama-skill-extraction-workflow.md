@@ -3,7 +3,7 @@ type: design
 id: llm-llama-skill-extraction-workflow
 title: LLM-based project skill extraction workflow using a fine-tuned Llama 3.2 instruct model
 description: "A component that parses sponsor-provided project descriptions and asks an LLM to rate the necessity of each skill on a 0–5 scale, where \"a 5 is given when a skill is realistically indispensable for a project.\" The imp..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

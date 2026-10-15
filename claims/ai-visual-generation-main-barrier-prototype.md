@@ -3,7 +3,7 @@ type: claim
 title: In early prototype testing, AI-generated visuals were the main barrier to real-world readiness, rated lower than text and narration
 description: In early prototype testing, AI-generated visuals were the main barrier to real-world readiness, rated lower than text and narration
 id: ai-visual-generation-main-barrier-prototype
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

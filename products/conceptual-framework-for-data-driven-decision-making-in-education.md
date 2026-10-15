@@ -4,7 +4,7 @@ id: conceptual-framework-for-data-driven-decision-making-in-education
 title: Conceptual framework for data-driven decision making in education
 description: A Mathematica-developed framework, commissioned by the Gates Foundation, that organizes how education systems use data for strategic decision making and learning capacity.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

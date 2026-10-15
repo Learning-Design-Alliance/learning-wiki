@@ -3,7 +3,7 @@ type: claim
 title: Both MCAS and PARCC assessment scores predict college readiness, with similar validity in predicting college grades
 description: Both MCAS and PARCC assessment scores predict college readiness, with similar validity in predicting college grades
 id: mcas-and-parcc-both-predict-college-grades-similar-validity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

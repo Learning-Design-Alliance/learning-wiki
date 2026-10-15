@@ -3,7 +3,7 @@ type: strategy
 id: pre-implementation-community-knowledge-exchanges
 title: Build community-wide foundations before implementation through knowledge exchanges and planning meetings across sites
 description: "Before implementation, project staff engaged pre-K and kindergarten teachers and administrators across the community in a series of knowledge exchanges and planning meetings, which the report says \"provided an importa..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -2,7 +2,7 @@
 type: theory
 title: "Three-layer definition of AI for learning: computational intelligence, specific capabilities, and a futures toolkit"
 description: "The report frames AI for educators through three layers: AI as computational intelligence brought to bear on educational challenges as an additional resource; AI as a set of specific rapidly advancing capabilities (pe..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

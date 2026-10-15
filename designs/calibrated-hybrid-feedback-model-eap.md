@@ -3,7 +3,7 @@ type: design
 id: calibrated-hybrid-feedback-model-eap
 title: Calibrated hybrid feedback model for EAP writing instruction
 description: The article proposes a hybrid model of feedback provision in which language instructors leverage generative AI to support formative assessment while maintaining pedagogical oversight.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

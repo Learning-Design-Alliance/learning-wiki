@@ -3,7 +3,7 @@ type: design
 id: cal-well-universal-mental-health-screening
 title: Universal mental health screening systems in Cal-Well districts
 description: A district-level universal screening system in which every Project Cal-Well district in Stanislaus County now administers a mental health screener, such as the Covitality screening tool.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

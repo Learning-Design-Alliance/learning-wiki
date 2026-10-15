@@ -3,7 +3,7 @@ type: strategy
 id: differentiate-single-article-to-reading-level
 title: "Differentiate one shared article to each student's reading level rather than assigning varied texts"
 description: "The reviewed program's core design strategy is whole-class assignment of a single nonfiction article with automatic tailoring: \"teachers assign an article and related activities to an entire class; the program then ta..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: programme-wide-embedding-and-lms-feedback-repository
 title: Embed feedback literacy programme-wide and extend LMSs for feedback storage, retrieval and loop-closing
 description: The article recommends systematically embedding feedback literacy across programmes, introducing it in the first semester and developing it through staged activities, with resources invested in first year to establish...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

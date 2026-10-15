@@ -3,7 +3,7 @@ type: claim
 title: Most teachers participate in informal professional development activities, which generate more satisfaction than formal in-service days
 description: Most teachers participate in informal professional development activities, which generate more satisfaction than formal in-service days
 id: informal-pd-more-satisfying-than-in-service
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

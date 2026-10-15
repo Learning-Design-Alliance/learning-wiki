@@ -3,7 +3,7 @@ type: element
 id: four-early-elementary-math-curricula-evaluated
 title: "Four early elementary math curricula evaluated: Investigations, Math Expressions, Saxon Math, and Scott Foresman-Addison Wesley Mathematics"
 description: The Evaluation of Mathematics Curricula project (time frame 2005-2013) examined four early elementary math programs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

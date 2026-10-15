@@ -3,7 +3,7 @@ type: claim
 title: The growth mindset intervention reduced fixed-mindset beliefs among lower-achieving adolescents, with effects homogeneous across schools
 description: The growth mindset intervention reduced fixed-mindset beliefs among lower-achieving adolescents, with effects homogeneous across schools
 id: growth-mindset-reduces-fixed-mindset-beliefs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

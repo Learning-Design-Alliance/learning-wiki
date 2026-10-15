@@ -4,7 +4,7 @@ id: aspiring-to-educate
 title: Aspiring to Educate
 description: A Pennsylvania state-supported programme that creates multiple pathways into teaching through preparation partnerships and financial supports for high school students, adults, paraprofessionals, and college students.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

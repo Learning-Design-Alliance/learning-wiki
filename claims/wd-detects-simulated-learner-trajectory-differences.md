@@ -3,7 +3,7 @@ type: claim
 title: In simulated epistemic games, the weighted density statistic distinguishes simulated learner types with distinct mastery trajectories, with the expert trajectory showing the largest WD values
 description: In simulated epistemic games, the weighted density statistic distinguishes simulated learner types with distinct mastery trajectories, with the expert trajectory showing the largest WD values
 id: wd-detects-simulated-learner-trajectory-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

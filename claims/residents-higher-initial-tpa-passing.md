@@ -3,7 +3,7 @@ type: claim
 title: Residents pass TPAs on their first attempt at higher rates than student teachers or interns in the linked subsample
 description: Residents pass TPAs on their first attempt at higher rates than student teachers or interns in the linked subsample
 id: residents-higher-initial-tpa-passing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

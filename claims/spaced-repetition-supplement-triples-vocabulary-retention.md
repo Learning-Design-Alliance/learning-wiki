@@ -3,7 +3,7 @@ type: claim
 title: Supplemental computer-based spaced repetition activities nearly triple long-term vocabulary retention in EFL students compared with conventional instruction alone
 description: Supplemental computer-based spaced repetition activities nearly triple long-term vocabulary retention in EFL students compared with conventional instruction alone
 id: spaced-repetition-supplement-triples-vocabulary-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: strategy
 id: air-reading-consistent-tutor-assessment-driven-grouping
 title: Pair consistent tutors with small groups and use bi-weekly assessment data to drive grouping and instruction
 description: "The program's delivery model assigns the same tutor to a small group throughout the semester and regroups students from diagnostic and progress-monitoring data."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

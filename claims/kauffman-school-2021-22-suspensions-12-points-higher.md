@@ -3,7 +3,7 @@ type: claim
 title: In 2021-22 Kauffman School students were 12 percentage points more likely than comparison students to receive at least one suspension
 description: In 2021-22 Kauffman School students were 12 percentage points more likely than comparison students to receive at least one suspension
 id: kauffman-school-2021-22-suspensions-12-points-higher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

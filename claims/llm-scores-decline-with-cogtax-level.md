@@ -3,7 +3,7 @@ type: claim
 title: All four LLMs award a smaller share of available marks as bash question cognitive complexity increases, with L4 questions receiving the lowest proportions
 description: All four LLMs award a smaller share of available marks as bash question cognitive complexity increases, with L4 questions receiving the lowest proportions
 id: llm-scores-decline-with-cogtax-level
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

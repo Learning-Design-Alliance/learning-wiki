@@ -2,7 +2,7 @@
 type: theory
 title: "Unitary language construct: vocabulary, grammar, and listening comprehension reflect a common language factor"
 description: "The review's first theoretical perspective holds that linguistic comprehension develops with high interdependence across domains and modalities."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

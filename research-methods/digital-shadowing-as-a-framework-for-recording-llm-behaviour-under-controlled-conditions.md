@@ -3,7 +3,7 @@ type: research-method
 id: digital-shadowing-as-a-framework-for-recording-llm-behaviour-under-controlled-conditions
 title: Digital shadowing as a framework for recording LLM behaviour under controlled conditions
 description: "Digital shadowing is the article's organising methodological framework: unlike digital twins, shadows record system behaviour without feedback loops."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: student-100-dataset-for-student-simulation
 title: Student_100 dataset for student simulation
 description: A dataset created by Tao Wu et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

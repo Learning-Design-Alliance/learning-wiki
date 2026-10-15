@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Presenting words as spoken narration rather than on-screen text alongside graphics improves learning
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

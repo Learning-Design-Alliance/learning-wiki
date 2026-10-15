@@ -3,7 +3,7 @@ type: strategy
 id: three-themes-guide-district-cmo-decision-making
 title: "Use the report's three themes to guide district and CMO decision-making about driving student achievement"
 description: "The report offers its three themes — teachers' key role, school leaders as instructional leaders, and shared and well-communicated mission, vision, and goals — as a guide for leaders."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Regulatory absence and digital competency gaps are the most prevalent barriers to AI adoption among Ukrainian education managers
 description: Regulatory absence and digital competency gaps are the most prevalent barriers to AI adoption among Ukrainian education managers
 id: regulatory-absence-competency-gaps-top-barriers-managers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

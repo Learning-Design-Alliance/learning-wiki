@@ -3,7 +3,7 @@ type: claim
 title: Job Corps substantially increased time spent in education and training relative to the control group during the 48-month follow-up
 description: Job Corps substantially increased time spent in education and training relative to the control group during the 48-month follow-up
 id: job-corps-more-education-training-hours
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

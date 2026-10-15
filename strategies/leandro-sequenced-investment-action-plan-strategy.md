@@ -3,7 +3,7 @@ type: strategy
 id: leandro-sequenced-investment-action-plan-strategy
 title: Sequenced multi-year investment plan across teacher and principal pipelines, early childhood, high-poverty schools, funding, and assessment and accountability to achieve Leandro compliance
 description: "The action plan recommends that the state take immediate and six-year sequenced actions to transform its education system: ensuring an adequate supply of qualified teachers and principals, improving curriculum, instru..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

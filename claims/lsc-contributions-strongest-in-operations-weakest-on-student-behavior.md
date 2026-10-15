@@ -3,7 +3,7 @@ type: claim
 title: Teachers rate Local School Councils most helpful for school operations such as parent involvement, community relations, facilities, and safety, and least helpful for student behavior
 description: Teachers rate Local School Councils most helpful for school operations such as parent involvement, community relations, facilities, and safety, and least helpful for student behavior
 id: lsc-contributions-strongest-in-operations-weakest-on-student-behavior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

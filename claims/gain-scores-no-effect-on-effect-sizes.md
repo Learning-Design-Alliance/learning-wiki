@@ -3,7 +3,7 @@ type: claim
 title: Use of pretest-to-posttest gain scores does not influence word-learning effect sizes
 description: Use of pretest-to-posttest gain scores does not influence word-learning effect sizes
 id: gain-scores-no-effect-on-effect-sizes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

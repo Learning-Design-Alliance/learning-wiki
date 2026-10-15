@@ -3,7 +3,7 @@ type: claim
 title: "Without explicit scaffolding, the two lower-agency paths (Passive Review and Direct Question) accounted for 64% of student-AI interactions in the primary sample"
 description: "Without explicit scaffolding, the two lower-agency paths (Passive Review and Direct Question) accounted for 64% of student-AI interactions in the primary sample"
 id: paths-1-2-default-64-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

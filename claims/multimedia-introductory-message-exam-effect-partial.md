@@ -3,7 +3,7 @@ type: claim
 title: The learning advantage of multimedia introductory messages is partially visible on global exams and not durable across the study
 description: The learning advantage of multimedia introductory messages is partially visible on global exams and not durable across the study
 id: multimedia-introductory-message-exam-effect-partial
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

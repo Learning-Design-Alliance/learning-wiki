@@ -3,7 +3,7 @@ type: claim
 title: Implementation varied substantially across teacher trials, and business-as-usual revision was often already technology-rich
 description: Implementation varied substantially across teacher trials, and business-as-usual revision was often already technology-rich
 id: medly-implementation-varied-technology-rich-control
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

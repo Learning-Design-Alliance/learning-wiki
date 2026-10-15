@@ -3,7 +3,7 @@ type: claim
 title: Multiple representations and explanations of math concepts aid student understanding, but faculty lack time to source or develop them
 description: Multiple representations and explanations of math concepts aid student understanding, but faculty lack time to source or develop them
 id: multiple-representations-aid-understanding-faculty-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

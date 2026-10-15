@@ -3,7 +3,7 @@ type: claim
 title: "Using the AI chatbot ADA significantly enhances ninth-graders' situational interest in mathematics compared with conventional differentiation materials"
 description: "Using the AI chatbot ADA significantly enhances ninth-graders' situational interest in mathematics compared with conventional differentiation materials"
 id: ada-significantly-raises-situational-interest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

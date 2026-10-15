@@ -3,7 +3,7 @@ type: research-method
 id: three-axis-taxonomy-of-agentic-ai-in-education-pedagogical-role-autonomy-level-and-embodim
 title: "Three-axis taxonomy of agentic AI in education: pedagogical role, autonomy level and embodiment"
 description: The review proposes an organizing taxonomy for educational agentic AI built on three axes.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Over eight weeks, university learners receiving reinforcement learning-optimized oral practice sequencing attained normalized learning gains approximately 2.2 times higher than learners following fixed curricula
 description: Over eight weeks, university learners receiving reinforcement learning-optimized oral practice sequencing attained normalized learning gains approximately 2.2 times higher than learners following fixed curricula
 id: rl-sequencing-beats-fixed-oral-curriculum
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

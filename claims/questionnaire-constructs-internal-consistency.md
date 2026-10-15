@@ -3,7 +3,7 @@ type: claim
 title: Questionnaire constructs showed acceptable to strong internal consistency (α = 0.740 to 0.945)
 description: Questionnaire constructs showed acceptable to strong internal consistency (α = 0.740 to 0.945)
 id: questionnaire-constructs-internal-consistency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

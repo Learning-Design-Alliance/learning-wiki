@@ -3,7 +3,7 @@ type: claim
 title: "Treatment-by-test-type interactions in Knowledge scores significantly favor the generation condition's improvement from pre-test to post-tests"
 description: "Treatment-by-test-type interactions in Knowledge scores significantly favor the generation condition's improvement from pre-test to post-tests"
 id: generation-knowledge-interaction-advantage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

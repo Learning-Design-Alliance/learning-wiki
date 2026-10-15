@@ -3,7 +3,7 @@ type: claim
 title: An LLM debugging assistant provides accurate, detailed descriptions of circuit components and their proper connections
 description: An LLM debugging assistant provides accurate, detailed descriptions of circuit components and their proper connections
 id: llm-provides-accurate-hardware-information
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

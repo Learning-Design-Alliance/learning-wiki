@@ -2,7 +2,7 @@
 type: theory
 title: Response likelihood as a measure of the reliability of the response actually given, computed from the 2PL IRT model
 description: The article defines response likelihood L = π(θ)^s · (1−π(θ))^(1−s), where π is the 2PL IRT probability that an examinee of ability θ answers correctly and s is 1 for correct or 0 for incorrect.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

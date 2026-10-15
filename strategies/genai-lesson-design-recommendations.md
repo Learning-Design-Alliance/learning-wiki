@@ -3,7 +3,7 @@ type: strategy
 id: genai-lesson-design-recommendations
 title: Design GenAI lesson-planning tools around teacher-specific alignment, integrated multimedia student materials, bite-sized activities, and sustained professional development
 description: "The authors close with five actionable recommendations: systems should learn and adapt to teachers' individual preferences while balancing surveillance concerns; integrated GenAI programs should \"generate a variety of..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

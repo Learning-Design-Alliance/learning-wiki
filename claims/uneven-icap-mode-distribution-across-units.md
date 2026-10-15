@@ -3,7 +3,7 @@ type: claim
 title: Engagement modes were unevenly distributed across units, with some units rated Interactive and others entirely Passive
 description: Engagement modes were unevenly distributed across units, with some units rated Interactive and others entirely Passive
 id: uneven-icap-mode-distribution-across-units
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

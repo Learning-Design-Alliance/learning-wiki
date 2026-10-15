@@ -3,7 +3,7 @@ type: claim
 title: "One student's resistance to GenAI was entangled with neurodiversity, a biological conception of authentic effortful learning, and anxieties about rapid technological change"
 description: "One student's resistance to GenAI was entangled with neurodiversity, a biological conception of authentic effortful learning, and anxieties about rapid technological change"
 id: genai-resistance-entangled-neurodiversity-authenticity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

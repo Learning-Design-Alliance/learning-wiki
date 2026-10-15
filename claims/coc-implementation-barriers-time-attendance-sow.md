@@ -3,7 +3,7 @@ type: claim
 title: Time constraints, student attendance, and slow central-office approval of Statements of Work were the major implementation barriers reported by coordinators, principals, and vendors
 description: Time constraints, student attendance, and slow central-office approval of Statements of Work were the major implementation barriers reported by coordinators, principals, and vendors
 id: coc-implementation-barriers-time-attendance-sow
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

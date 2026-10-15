@@ -3,7 +3,7 @@ type: claim
 title: An adult-education market report asserts, quoting earlier research it does not detail, that adult training yields better results the more closely it relates to a real job or occupation
 description: An adult-education market report asserts, quoting earlier research it does not detail, that adult training yields better results the more closely it relates to a real job or occupation
 id: employer-relevant-training-improves-adult-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

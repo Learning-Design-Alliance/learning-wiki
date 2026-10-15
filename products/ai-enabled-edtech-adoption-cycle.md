@@ -4,7 +4,7 @@ id: ai-enabled-edtech-adoption-cycle
 title: AI-Enabled EdTech Adoption Cycle
 description: A four-phase adoption framework described by Ruiz et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

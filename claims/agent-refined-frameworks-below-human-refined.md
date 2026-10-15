@@ -3,7 +3,7 @@ type: claim
 title: Agent-refined frameworks improved cross-model agreement but remained below the human-refined framework and varied across foundation models
 description: Agent-refined frameworks improved cross-model agreement but remained below the human-refined framework and varied across foundation models
 id: agent-refined-frameworks-below-human-refined
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

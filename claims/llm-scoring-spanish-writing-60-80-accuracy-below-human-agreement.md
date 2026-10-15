@@ -3,7 +3,7 @@ type: claim
 title: "LLM-based scoring of Spanish argumentative writing achieves 60–80% per-item accuracy, slightly below human inter-rater agreement"
 description: "LLM-based scoring of Spanish argumentative writing achieves 60–80% per-item accuracy, slightly below human inter-rater agreement"
 id: llm-scoring-spanish-writing-60-80-accuracy-below-human-agreement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

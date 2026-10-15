@@ -3,7 +3,7 @@ type: claim
 title: Universities converge on caution toward AI-detection systems, warning against using detection scores as dispositive evidence of misconduct
 description: Universities converge on caution toward AI-detection systems, warning against using detection scores as dispositive evidence of misconduct
 id: ai-detector-skepticism-convergence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

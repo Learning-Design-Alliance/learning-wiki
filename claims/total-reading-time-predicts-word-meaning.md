@@ -3,7 +3,7 @@ type: claim
 title: Total reading time independently contributed to the learning of word meaning
 description: Total reading time independently contributed to the learning of word meaning
 id: total-reading-time-predicts-word-meaning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

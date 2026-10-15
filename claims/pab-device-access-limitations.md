@@ -3,7 +3,7 @@ type: claim
 title: "Limited device access and a six-month engagement constrained some Board members' contributions, with one member reporting expectations were not met"
 description: "Limited device access and a six-month engagement constrained some Board members' contributions, with one member reporting expectations were not met"
 id: pab-device-access-limitations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

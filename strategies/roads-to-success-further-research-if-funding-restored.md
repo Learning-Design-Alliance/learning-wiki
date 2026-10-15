@@ -3,7 +3,7 @@ type: strategy
 id: roads-to-success-further-research-if-funding-restored
 title: Review the evaluation plan and possibilities for further research when funding is restored
 description: "The report's authors planned for continuation: it \"reviews the evaluation plan and possibilities for further research if funding is restored.\" This treats a disrupted evaluation as resumable, preserving the design doc..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

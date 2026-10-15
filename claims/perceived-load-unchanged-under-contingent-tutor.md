@@ -3,7 +3,7 @@ type: claim
 title: Perceived task load and germane load did not differ between the contingent tutor and either baseline
 description: Perceived task load and germane load did not differ between the contingent tutor and either baseline
 id: perceived-load-unchanged-under-contingent-tutor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: AI tools such as chatbots, intelligent tutoring systems, and early alert systems are identified as having potential to serve marginalized students, contingent on ethical governance and infrastructure
 description: AI tools such as chatbots, intelligent tutoring systems, and early alert systems are identified as having potential to serve marginalized students, contingent on ethical governance and infrastructure
 id: ai-tools-potential-marginalized-students-contingent-safeguards
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

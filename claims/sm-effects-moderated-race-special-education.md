@@ -3,7 +3,7 @@ type: claim
 title: Single-case effects of self-management interventions are moderated by student race and special education status, with more pronounced effects for African American students and students receiving special education services
 description: Single-case effects of self-management interventions are moderated by student race and special education status, with more pronounced effects for African American students and students receiving special education serv...
 id: sm-effects-moderated-race-special-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

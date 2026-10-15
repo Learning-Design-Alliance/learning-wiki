@@ -3,7 +3,7 @@ type: claim
 title: LCFF-induced spending increases reduced suspensions and expulsions, with larger effects for boys and the most pronounced effects for Black students
 description: LCFF-induced spending increases reduced suspensions and expulsions, with larger effects for boys and the most pronounced effects for Black students
 id: lcff-spending-reduces-suspension-expulsion-disparities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

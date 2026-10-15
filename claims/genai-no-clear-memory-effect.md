@@ -3,7 +3,7 @@ type: claim
 title: Prior genAI use and incentives show no clear effects on later memory retention
 description: Prior genAI use and incentives show no clear effects on later memory retention
 id: genai-no-clear-memory-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

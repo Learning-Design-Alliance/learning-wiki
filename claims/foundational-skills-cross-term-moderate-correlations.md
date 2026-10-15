@@ -3,7 +3,7 @@ type: claim
 title: Cross-term Foundational Skills scores were moderately correlated, with correlations ranging from 0.48 to 0.82 depending on domain and grade
 description: Cross-term Foundational Skills scores were moderately correlated, with correlations ranging from 0.48 to 0.82 depending on domain and grade
 id: foundational-skills-cross-term-moderate-correlations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

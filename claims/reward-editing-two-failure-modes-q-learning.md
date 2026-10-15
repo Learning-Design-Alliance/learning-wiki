@@ -3,7 +3,7 @@ type: claim
 title: Editing the pit reward produces two behaviorally identical but diagnostically opposite failure modes, separated by a threshold at 7.774
 description: Editing the pit reward produces two behaviorally identical but diagnostically opposite failure modes, separated by a threshold at 7.774
 id: reward-editing-two-failure-modes-q-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

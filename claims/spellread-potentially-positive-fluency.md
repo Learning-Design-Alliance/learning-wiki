@@ -3,7 +3,7 @@ type: claim
 title: SpellRead™ has potentially positive effects on reading fluency, with an average improvement index of +9 percentile points
 description: SpellRead™ has potentially positive effects on reading fluency, with an average improvement index of +9 percentile points
 id: spellread-potentially-positive-fluency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

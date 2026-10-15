@@ -3,7 +3,7 @@ type: design
 id: ontological-bridging-math-concepts-algorithmic-processes
 title: Ontological principles bridging familiar mathematical concepts with algorithmic processes
 description: The intervention used ontological principles to bridge familiar mathematical concepts with algorithmic processes, serving as the conceptual bridge in the PD design.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

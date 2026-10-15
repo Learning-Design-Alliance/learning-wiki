@@ -3,7 +3,7 @@ type: claim
 title: Inquiry-first teaching stimulates interest, sharpens reading, and helps organize course work
 description: Inquiry-first teaching stimulates interest, sharpens reading, and helps organize course work
 id: inquiry-first-stimulates-interest-and-organizes-course
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

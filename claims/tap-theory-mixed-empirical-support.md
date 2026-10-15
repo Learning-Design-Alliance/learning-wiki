@@ -3,7 +3,7 @@ type: claim
 title: TAP theory has received mixed empirical support as an account of the testing effect
 description: TAP theory has received mixed empirical support as an account of the testing effect
 id: tap-theory-mixed-empirical-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

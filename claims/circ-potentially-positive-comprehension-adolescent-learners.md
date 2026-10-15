@@ -3,7 +3,7 @@ type: claim
 title: WWC finds Cooperative Integrated Reading and Composition® has potentially positive effects on comprehension for adolescent learners (average improvement index +7 percentile points)
 description: WWC finds Cooperative Integrated Reading and Composition® has potentially positive effects on comprehension for adolescent learners (average improvement index +7 percentile points)
 id: circ-potentially-positive-comprehension-adolescent-learners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

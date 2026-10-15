@@ -3,7 +3,7 @@ type: claim
 title: Students in a technology-enhanced modeling physics class learned significantly more than students in an otherwise identical no-technology class
 description: Students in a technology-enhanced modeling physics class learned significantly more than students in an otherwise identical no-technology class
 id: real-time-data-collection-increases-modeling-physics-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

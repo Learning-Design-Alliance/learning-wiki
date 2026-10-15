@@ -3,7 +3,7 @@ type: claim
 title: Multi-institutional case study analysis of five Australian higher education institutions revealed a lack of governance-level information on student assessment and integrity
 description: Multi-institutional case study analysis of five Australian higher education institutions revealed a lack of governance-level information on student assessment and integrity
 id: case-study-reveals-lack-assessment-integrity-information
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

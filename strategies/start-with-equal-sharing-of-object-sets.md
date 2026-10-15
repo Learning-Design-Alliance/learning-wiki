@@ -3,7 +3,7 @@ type: strategy
 id: start-with-equal-sharing-of-object-sets
 title: Begin fraction instruction with activities that involve dividing groups of objects equally
 description: An implementable activity sequence in which students first divide sets of objects into equal shares.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

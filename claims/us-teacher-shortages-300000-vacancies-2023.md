@@ -3,7 +3,7 @@ type: claim
 title: U.S. teacher shortages are nationwide and worsening, with over 300,000 positions unfilled or filled by uncertified teachers in 2023
 description: U.S.
 id: us-teacher-shortages-300000-vacancies-2023
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

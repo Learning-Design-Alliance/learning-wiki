@@ -3,7 +3,7 @@ type: claim
 title: Over two decades, Chicago teachers reported increasing program coherence and higher trust in their principals
 description: Over two decades, Chicago teachers reported increasing program coherence and higher trust in their principals
 id: teacher-reports-coherence-trust-increased
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

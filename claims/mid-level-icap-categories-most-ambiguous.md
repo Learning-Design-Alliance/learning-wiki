@@ -3,7 +3,7 @@ type: claim
 title: Human and agent framework revisions concentrate on the mid-level engagement categories (Levels 3–5), indicating greater ambiguity there than at scale endpoints
 description: Human and agent framework revisions concentrate on the mid-level engagement categories (Levels 3–5), indicating greater ambiguity there than at scale endpoints
 id: mid-level-icap-categories-most-ambiguous
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

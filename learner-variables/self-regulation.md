@@ -3,7 +3,7 @@ type: learner-variable
 id: self-regulation
 title: Self-Regulation
 description: Whether a learner can plan, monitor and adjust their own work without the structure being supplied.
-status: draft
+status: review
 generated:
   by: "claude/unspecified"
   at: 2026-09-02

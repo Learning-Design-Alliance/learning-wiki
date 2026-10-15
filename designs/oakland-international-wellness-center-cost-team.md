@@ -3,7 +3,7 @@ type: design
 id: oakland-international-wellness-center-cost-team
 title: Wellness Center and Coordination of Services Team coordinating partnerships and supports
 description: "The Wellness Center, funded by the district and the Oakland Fund for Children and Youth, provides \"a centralized infrastructure, dedicated staff, and a structured process for services and referrals.\" It houses two cas..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Some GenAI tools can inhibit productive struggle by reducing cognitive effort (metacognitive laziness)
 description: Some GenAI tools can inhibit productive struggle by reducing cognitive effort (metacognitive laziness)
 id: genai-metacognitive-laziness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

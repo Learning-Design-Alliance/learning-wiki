@@ -3,7 +3,7 @@ type: strategy
 id: concentrate-revision-on-unknown-box
 title: Allocate revision time economically by concentrating self-testing on the box of not-yet-known items
 description: The learning unit lets the student see at a glance his command of the vocabulary he is expected to know and allot revision time in the most economical way.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

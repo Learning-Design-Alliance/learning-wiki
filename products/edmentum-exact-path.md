@@ -4,7 +4,7 @@ id: edmentum-exact-path
 title: Edmentum Exact Path
 description: Edmentum Exact Path is a personalized K–12 learning platform that uses diagnostic and adaptive assessments to create individualized Math and English Language Arts learning paths and report student growth.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

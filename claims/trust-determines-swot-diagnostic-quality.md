@@ -3,7 +3,7 @@ type: claim
 title: Relational trust shapes whether SWOT functions as organisational learning or superficial compliance
 description: Relational trust shapes whether SWOT functions as organisational learning or superficial compliance
 id: trust-determines-swot-diagnostic-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

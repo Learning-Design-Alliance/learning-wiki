@@ -3,7 +3,7 @@ type: claim
 title: "The SWELL logic model posits medium-term improvements in teachers' literacy instruction and ability to accommodate language learning and embed CLRI"
 description: "The SWELL logic model posits medium-term improvements in teachers' literacy instruction and ability to accommodate language learning and embed CLRI"
 id: swell-medium-term-teacher-instruction-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

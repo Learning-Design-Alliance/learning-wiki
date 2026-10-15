@@ -3,7 +3,7 @@ type: claim
 title: "Students rate AI's helpfulness positively overall, with academic challenges receiving the highest usefulness, satisfaction, and intent-to-continue scores"
 description: "Students rate AI's helpfulness positively overall, with academic challenges receiving the highest usefulness, satisfaction, and intent-to-continue scores"
 id: academic-domain-highest-ai-helpfulness-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

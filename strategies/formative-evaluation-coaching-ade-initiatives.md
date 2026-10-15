@@ -3,7 +3,7 @@ type: strategy
 id: formative-evaluation-coaching-ade-initiatives
 title: Provide formative evaluation and implementation coaching to strengthen ADE initiative design
 description: "The logic model specifies two coaching activities: \"Formative evaluation coaching to support rigorous evaluation design of AIIM initiative\" and \"THRIVE implementation coaching for balanced application process and rigo..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

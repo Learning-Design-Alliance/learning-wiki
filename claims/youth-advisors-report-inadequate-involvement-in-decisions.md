@@ -3,7 +3,7 @@ type: claim
 title: Youth advisors report students are inadequately involved in school decision-making and want more transparent communication
 description: Youth advisors report students are inadequately involved in school decision-making and want more transparent communication
 id: youth-advisors-report-inadequate-involvement-in-decisions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: design
 id: educator-guided-diagnosis-workflow-separation
 title: Educator-guided architecture separating artifact-grounded diagnosis, pedagogical workflow control, and student-facing LLM generation
 description: The architecture places a hidden, artifact-grounded diagnosis inside an explicit, stateful pedagogical workflow so the language model is not solely responsible for instructional strategy.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

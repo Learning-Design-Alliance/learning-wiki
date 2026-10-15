@@ -3,7 +3,7 @@ type: claim
 title: "Waterford Early Reading Level One™ and Let's Begin with the Letter People® produce similar outcomes in oral language and print knowledge"
 description: "Waterford Early Reading Level One™ and Let's Begin with the Letter People® produce similar outcomes in oral language and print knowledge"
 id: waterford-versus-letter-people-similar-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

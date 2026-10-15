@@ -3,7 +3,7 @@ type: strategy
 id: balanced-ai-integration-ai-literacy-courses
 title: Institutions should adopt a balanced AI-integration approach including AI literacy courses and instructional guidelines
 description: "For policy, the article argues institutions should not simply decide whether to adopt AI but should consider students' preparation, faculty instructional objectives, and available support systems."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

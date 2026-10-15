@@ -3,7 +3,7 @@ type: claim
 title: A minority of honours community members feel the community is too closed, hindering knowledge growth
 description: A minority of honours community members feel the community is too closed, hindering knowledge growth
 id: honours-community-closedness-hinders-knowledge-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

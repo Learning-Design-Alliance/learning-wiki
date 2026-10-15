@@ -3,7 +3,7 @@ type: claim
 title: At trait level PsyScore-AES ranks first in 10 of 11 dimensions (mean QWK 0.735), improving Voice scoring from 0.619 to 0.740 while trailing T-MES on Style
 description: At trait level PsyScore-AES ranks first in 10 of 11 dimensions (mean QWK 0.735), improving Voice scoring from 0.619 to 0.740 while trailing T-MES on Style
 id: psyscore-trait-level-qwk-10-of-11
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: The mentoring topics first-year teachers most frequently received guidance on were noninstructional rather than instructional
 description: The mentoring topics first-year teachers most frequently received guidance on were noninstructional rather than instructional
 id: mentoring-focused-on-noninstructional-topics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

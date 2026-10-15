@@ -3,7 +3,7 @@ type: element
 id: eight-recommended-online-instructional-practices-survey
 title: Eight research-recommended online instructional practices measured in the Suddenly Online survey
 description: "The survey measured whether each student's post-COVID course used \"eight instructional practices identified through past research as contributing to more effective online teaching and learning\": reflective assignments..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

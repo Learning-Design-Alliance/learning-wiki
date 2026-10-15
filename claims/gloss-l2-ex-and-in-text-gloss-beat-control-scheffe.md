@@ -3,7 +3,7 @@ type: claim
 title: Only L1-gloss-L2-ex and L1-in-text-gloss conditions significantly outperform the no-gloss control on all three vocabulary recall tests
 description: Only L1-gloss-L2-ex and L1-in-text-gloss conditions significantly outperform the no-gloss control on all three vocabulary recall tests
 id: gloss-l2-ex-and-in-text-gloss-beat-control-scheffe
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Graduation rates differ largely across Chicago schools, with many new charter and magnet schools and several neighborhood high schools showing exceptionally high rates beyond what incoming freshman characteristics would predict
 description: Graduation rates differ largely across Chicago schools, with many new charter and magnet schools and several neighborhood high schools showing exceptionally high rates beyond what incoming freshman characteristics wou...
 id: cps-school-level-graduation-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

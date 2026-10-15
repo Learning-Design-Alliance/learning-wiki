@@ -3,7 +3,7 @@ type: strategy
 id: generative-prompting-ai-thinking-partner
 title: "Generative prompting: using AI as a thinking partner through iterative dialogue rather than an answer machine"
 description: Generative prompting is a Contextual Use capacity in which learners employ iterative dialogue with AI to develop and refine their own knowledge rather than outsource it.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

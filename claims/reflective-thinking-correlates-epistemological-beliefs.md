@@ -3,7 +3,7 @@ type: claim
 title: Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge
 description: Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge
 id: reflective-thinking-correlates-epistemological-beliefs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

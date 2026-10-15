@@ -3,7 +3,7 @@ type: claim
 title: "A four-layer multi-layer defense pipeline achieves 46.34% bypass and 0.00% false positive rate on the holdout benchmark"
 description: "A four-layer multi-layer defense pipeline achieves 46.34% bypass and 0.00% false positive rate on the holdout benchmark"
 id: multi-layer-guardrail-46-bypass-zero-fpr
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

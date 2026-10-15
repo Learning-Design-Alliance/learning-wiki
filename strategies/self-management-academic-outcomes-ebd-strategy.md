@@ -3,7 +3,7 @@ type: strategy
 id: self-management-academic-outcomes-ebd-strategy
 title: Use self-management interventions to target academic outcomes for students with emotional and behavioral disorders, prioritizing under-studied areas such as writing
 description: "Based on the review's findings, practitioners and researchers can implement self-management techniques (self-monitoring, self-evaluation, self-instruction, strategy instruction, or multiple-component packages) to impr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

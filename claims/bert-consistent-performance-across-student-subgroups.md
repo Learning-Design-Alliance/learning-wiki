@@ -3,7 +3,7 @@ type: claim
 title: "The fine-tuned BERT model's classification performance is consistent across stereotype-threatened and non-threatened students and other demographic subgroups"
 description: "The fine-tuned BERT model's classification performance is consistent across stereotype-threatened and non-threatened students and other demographic subgroups"
 id: bert-consistent-performance-across-student-subgroups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

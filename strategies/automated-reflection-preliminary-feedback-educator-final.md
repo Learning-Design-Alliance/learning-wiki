@@ -3,7 +3,7 @@ type: strategy
 id: automated-reflection-preliminary-feedback-educator-final
 title: Use automatic reflection classification for preliminary feedback and workload support, with final assessment retained by educators
 description: The article recommends deploying automatic reflection-level classifiers as assistive rather than replacement tools in educational technology.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Model and prompt choice account for only a small share of misalignment error, which concentrates in transcript-conditioned higher-order interactions
 description: Model and prompt choice account for only a small share of misalignment error, which concentrates in transcript-conditioned higher-order interactions
 id: variance-decomposition-model-prompt-weak-levers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

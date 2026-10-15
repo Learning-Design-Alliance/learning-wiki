@@ -3,7 +3,7 @@ type: claim
 title: No statistically significant EBAPS differences were observed for Axes 1–3 or between guided-inquiry and answer-oriented chatbot preferrers
 description: No statistically significant EBAPS differences were observed for Axes 1–3 or between guided-inquiry and answer-oriented chatbot preferrers
 id: no-ebaps-differences-axes-1-3-or-inquiry-vs-answer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

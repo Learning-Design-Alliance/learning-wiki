@@ -3,7 +3,7 @@ type: claim
 title: Louisiana high schools vary widely in their success in promoting graduation, college enrollment, and earnings
 description: Louisiana high schools vary widely in their success in promoting graduation, college enrollment, and earnings
 id: louisiana-high-schools-vary-widely-promotion-power
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

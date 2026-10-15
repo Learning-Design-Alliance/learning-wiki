@@ -3,7 +3,7 @@ type: claim
 title: An AI assistant configured on the ISLE approach can scaffold the epistemic core of inquiry, at the level of feasibility
 description: An AI assistant configured on the ISLE approach can scaffold the epistemic core of inquiry, at the level of feasibility
 id: ai-gem-scaffolds-isle-epistemic-core
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

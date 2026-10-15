@@ -3,7 +3,7 @@ type: claim
 title: Passing rates under the Chicago promotional policy increased in all three grades from 1997 to 1999, mostly during the school year rather than Summer Bridge
 description: Passing rates under the Chicago promotional policy increased in all three grades from 1997 to 1999, mostly during the school year rather than Summer Bridge
 id: chicago-promotion-passing-rates-rose-1997-1999
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

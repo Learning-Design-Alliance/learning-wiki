@@ -3,7 +3,7 @@ type: claim
 title: GAI-assisted DST creation produced significantly better team creativity performance than traditional methods, particularly in novelty and user experience
 description: GAI-assisted DST creation produced significantly better team creativity performance than traditional methods, particularly in novelty and user experience
 id: gai-assisted-dst-improves-team-creativity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

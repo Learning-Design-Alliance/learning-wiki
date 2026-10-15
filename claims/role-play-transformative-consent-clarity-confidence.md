@@ -3,7 +3,7 @@ type: claim
 title: Focus group participants described role-play as transformative for conceptual clarity and confidence in consent-taking
 description: Focus group participants described role-play as transformative for conceptual clarity and confidence in consent-taking
 id: role-play-transformative-consent-clarity-confidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

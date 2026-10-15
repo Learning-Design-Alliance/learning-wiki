@@ -3,7 +3,7 @@ type: research-method
 id: overview-of-reviews-framework-for-professional-educational-and-quality-assurance-behavior
 title: Overview-of-reviews framework for professional educational and quality assurance behavior change interventions
 description: The article organizes the evidence on changing professional behavior by systematically identifying, appraising, and synthesizing systematic reviews rather than primary studies.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

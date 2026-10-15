@@ -3,7 +3,7 @@ type: claim
 title: Metacognitive awareness shapes whether learners use ChatGPT reflectively or copy shallowly, and metacognitive support sustains self-regulated learning
 description: Metacognitive awareness shapes whether learners use ChatGPT reflectively or copy shallowly, and metacognitive support sustains self-regulated learning
 id: metacognition-gates-genai-use-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "Item discrimination moderates detection differently by index: NCDIF benefits from high a-parameters only at large DIF magnitude"
 description: "Item discrimination moderates detection differently by index: NCDIF benefits from high a-parameters only at large DIF magnitude"
 id: a-parameter-moderates-dif-detection-by-index
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

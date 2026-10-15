@@ -3,7 +3,7 @@ type: claim
 title: Under a simulated load of 100 concurrent users, Taklif.AI averaged 30 seconds end-to-end response time per request
 description: Under a simulated load of 100 concurrent users, Taklif.AI averaged 30 seconds end-to-end response time per request
 id: load-test-100-concurrent-users-30-second-response
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

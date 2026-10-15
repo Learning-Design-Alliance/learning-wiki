@@ -3,7 +3,7 @@ type: claim
 title: Educator perceptions of TPE become more positive with each year of implementation
 description: Educator perceptions of TPE become more positive with each year of implementation
 id: tpe-perceptions-improve-with-experience
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

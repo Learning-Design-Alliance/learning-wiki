@@ -3,7 +3,7 @@ type: claim
 title: Incremental theory and performance goal orientation differ across university departments, but entity and learning goal orientation do not
 description: Incremental theory and performance goal orientation differ across university departments, but entity and learning goal orientation do not
 id: department-differences-mindset-goal-orientation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: "Pipeline applied to HSLS:09 recovers that advanced mathematics coursework benefits students least likely to enroll in four-year college the most"
 description: "Pipeline applied to HSLS:09 recovers that advanced mathematics coursework benefits students least likely to enroll in four-year college the most"
 id: ap-ib-math-benefits-lowest-college-likelihood-most-hsls
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

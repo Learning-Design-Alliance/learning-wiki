@@ -3,7 +3,7 @@ type: claim
 title: Positive SLAM-student relationship qualities correlate with civic action
 description: Positive SLAM-student relationship qualities correlate with civic action
 id: slam-relationship-quality-correlates-civic-action
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

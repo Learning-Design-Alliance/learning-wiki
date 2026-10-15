@@ -3,7 +3,7 @@ type: claim
 title: "Middle school teachers envisioned AI chatbots as adaptive instructional scaffolds providing differentiated support responsive to students' varying needs"
 description: "Middle school teachers envisioned AI chatbots as adaptive instructional scaffolds providing differentiated support responsive to students' varying needs"
 id: teachers-envision-chatbots-adaptive-scaffolds-differentiated-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: After two years, TLTS raised student ELA achievement by 0.05 standard deviations relative to comparison schools
 description: After two years, TLTS raised student ELA achievement by 0.05 standard deviations relative to comparison schools
 id: tlts-two-year-ela-effect-005-sd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

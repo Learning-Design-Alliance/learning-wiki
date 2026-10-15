@@ -3,7 +3,7 @@ type: claim
 title: Federally funded evidence reviews show substantial variation in how they conceptualize effectiveness
 description: Federally funded evidence reviews show substantial variation in how they conceptualize effectiveness
 id: evidence-reviews-vary-effectiveness-conceptualization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

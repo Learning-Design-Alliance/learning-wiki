@@ -3,7 +3,7 @@ type: claim
 title: "Charter students' learning growth in the first, second, and third year of enrollment is not statistically different from TPS peers"
 description: "Charter students' learning growth in the first, second, and third year of enrollment is not statistically different from TPS peers"
 id: wa-charter-gains-by-years-enrolled
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

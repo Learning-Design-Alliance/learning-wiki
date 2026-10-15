@@ -3,7 +3,7 @@ type: strategy
 id: five-domains-micro-credentialing-policy
 title: "Advance micro-credentialing policy across five domains: controlling for quality, counting what matters, finding time, leveraging expertise, and designing for effectiveness"
 description: "The brief proposes five major policy domains for the future of micro-credentialing: controlling for quality, counting what matters, finding time, leveraging and recognizing expertise, and designing for effectiveness."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

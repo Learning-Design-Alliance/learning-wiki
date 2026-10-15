@@ -3,7 +3,7 @@ type: claim
 title: Ninth-grade GPA predicts beginning-of-tenth-grade PLAN scores even after controlling for eighth-grade test scores, suggesting grades reflect new learning
 description: Ninth-grade GPA predicts beginning-of-tenth-grade PLAN scores even after controlling for eighth-grade test scores, suggesting grades reflect new learning
 id: ninth-grade-gpa-predicts-plan-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: socratic-circles
 title: Socratic Circles
 description: An open educational curriculum package developed by the RCS Core Team comprising professional-development modules, a classroom guidebook, and Community Socratic Circle materials for facilitating text- and question-centered discussions.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: research-method
 id: value-added-modeling
 title: Value-added modeling
 description: "Value-added measures quantify a teacher's contribution to students' learning gains."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: SPICE learners report that the virtual Center reduced their rural isolation and made learning enjoyable
 description: SPICE learners report that the virtual Center reduced their rural isolation and made learning enjoyable
 id: spice-learners-report-reduced-isolation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

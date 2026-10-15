@@ -3,7 +3,7 @@ type: claim
 title: Performance tasks did little to differentiate teachers, with most receiving high scores and over a third receiving default scores due to missing data
 description: Performance tasks did little to differentiate teachers, with most receiving high scores and over a third receiving default scores due to missing data
 id: reach-performance-tasks-little-differentiation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

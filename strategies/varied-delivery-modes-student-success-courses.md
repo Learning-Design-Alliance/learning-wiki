@@ -3,7 +3,7 @@ type: strategy
 id: varied-delivery-modes-student-success-courses
 title: Offer student success courses in varied content, timing, and delivery modes matched to student needs rather than a one-size-fits-all model
 description: This strategy addresses student criticism that student success courses can feel irrelevant, costly, and like wasted time.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

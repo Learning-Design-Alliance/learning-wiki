@@ -3,7 +3,7 @@ type: claim
 title: Subskill taxonomies in the literature come from both empirical investigations and theory, with no consensus on the number of subskills
 description: Subskill taxonomies in the literature come from both empirical investigations and theory, with no consensus on the number of subskills
 id: no-consensus-subskill-number-empirical-and-theoretical-sources
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

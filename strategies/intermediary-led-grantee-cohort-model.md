@@ -3,7 +3,7 @@ type: strategy
 id: intermediary-led-grantee-cohort-model
 title: Intermediary-led grantee cohort model with four support components
 description: "The article describes an implementable model in which an intermediary supports a cohort of grantees by \"helping grantees scope projects in their area of need, matching grantees with providers that could help build org..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

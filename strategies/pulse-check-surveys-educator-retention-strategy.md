@@ -3,7 +3,7 @@ type: strategy
 id: pulse-check-surveys-educator-retention-strategy
 title: Use pulse check surveys and systemic retention elements to proactively monitor educator well-being and reduce turnover
 description: "The guide describes pulse check surveys as \"short surveys, often delivered by email\" asking a small number of questions about how educators feel about their work and what supports would help."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

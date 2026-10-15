@@ -3,7 +3,7 @@ type: claim
 title: Fine-tuning on the 1,000-image nuclear dataset improves image fidelity of SD models, with KID and CMMD decreasing over training steps
 description: Fine-tuning on the 1,000-image nuclear dataset improves image fidelity of SD models, with KID and CMMD decreasing over training steps
 id: fine-tuning-improves-sd-nuclear-image-fidelity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: AI-assisted outputs are more similar to each other than purely human-authored ones, indicating a homogenization risk
 description: AI-assisted outputs are more similar to each other than purely human-authored ones, indicating a homogenization risk
 id: ai-assisted-outputs-homogenization-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

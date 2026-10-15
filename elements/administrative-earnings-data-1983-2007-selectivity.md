@@ -3,7 +3,7 @@ type: element
 id: administrative-earnings-data-1983-2007-selectivity
 title: Administrative earnings data spanning 1983 through 2007 used to estimate career-long returns to college selectivity
 description: "The article's evidence base is administrative earnings data used to estimate the effect of attending a highly selective college on future earnings."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

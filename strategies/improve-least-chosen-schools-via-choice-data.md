@@ -3,7 +3,7 @@ type: strategy
 id: improve-least-chosen-schools-via-choice-data
 title: Use choice data as a referendum to identify and improve least-chosen schools rather than magnetizing only the best
 description: "Controlled Choice treats annual parental choices as \"a referendum on the attractiveness of schools\" and obligates authorities \"to use their limited resources to upgrade and make more attractive least chosen schools.\"..."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

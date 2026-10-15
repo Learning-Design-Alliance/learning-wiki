@@ -3,7 +3,7 @@ type: research-method
 id: two-stage-llm-misconception-identification-pipeline
 title: Two-stage LLM misconception identification pipeline
 description: "A pipeline combining quantitative quiz analysis with two LLM stages: GPT-4 (gpt-4o-2024-08-06, temperature 0.3) generates hypothesized misconceptions from structured question representations, most common incorrect answers, and Whisper-transcribed lecture transcripts; Gemini 2.0 Flash (temperature 0)"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

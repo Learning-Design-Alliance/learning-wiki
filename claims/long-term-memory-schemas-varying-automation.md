@@ -3,7 +3,7 @@ type: claim
 title: Long-term memory is effectively unlimited and holds schemas that vary in their degree of automation
 description: Long-term memory is effectively unlimited and holds schemas that vary in their degree of automation
 id: long-term-memory-schemas-varying-automation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

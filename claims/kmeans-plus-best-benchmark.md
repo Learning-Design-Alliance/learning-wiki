@@ -3,7 +3,7 @@ type: claim
 title: Under the reported settings, K-Means++ achieved the best internal clustering indices, though the K-Means baseline used a single initialization
 description: Under the reported settings, K-Means++ achieved the best internal clustering indices, though the K-Means baseline used a single initialization
 id: kmeans-plus-best-benchmark
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

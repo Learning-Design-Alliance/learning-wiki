@@ -3,7 +3,7 @@ type: element
 id: nwea-brief-trends-school-entry-2010-2017
 title: "NWEA research brief: Trends in children's academic skills at school entry, 2010–2017"
 description: A research brief published by NWEA Research in 2019, authored by Megan Kuhfeld, James Soland, Christine Pitts, and Margaret Burchinal.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

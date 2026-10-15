@@ -3,7 +3,7 @@ type: element
 id: behavioral-relaxation-training-brt
 title: Behavioral Relaxation Training (BRT)
 description: "Behavioral Relaxation Training (BRT; Poppen, 1998) is a behavioral intervention for anxiety that, per the article, \"does not require tense release muscle activities.\" It has been \"successfully used with patients with..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

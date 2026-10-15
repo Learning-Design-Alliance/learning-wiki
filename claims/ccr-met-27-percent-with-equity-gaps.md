@@ -3,7 +3,7 @@ type: claim
 title: About 27 percent of 2018 graduates statewide met all CCR graduation requirements, with gaps by socioeconomic status, English learner status, race/ethnicity, and prior achievement
 description: About 27 percent of 2018 graduates statewide met all CCR graduation requirements, with gaps by socioeconomic status, English learner status, race/ethnicity, and prior achievement
 id: ccr-met-27-percent-with-equity-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

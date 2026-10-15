@@ -3,7 +3,7 @@ type: claim
 title: "Mid-range degradation is conditioned on task-specific adaptation: it is most severe for few-shot LLMs with few examples, decreases with more task-specific data, and is mildest for the fine-tuned encoder"
 description: "Mid-range degradation is conditioned on task-specific adaptation: it is most severe for few-shot LLMs with few examples, decreases with more task-specific data, and is mildest for the fine-tuned encoder"
 id: task-specific-adaptation-conditions-mid-range-degradation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

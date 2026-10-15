@@ -3,7 +3,7 @@ type: claim
 title: Open questions for learnity graphs include validation, legitimacy, grading avoidance, algorithmic guidance balance, and privacy
 description: Open questions for learnity graphs include validation, legitimacy, grading avoidance, algorithmic guidance balance, and privacy
 id: learnity-graph-open-questions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

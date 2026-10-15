@@ -3,7 +3,7 @@ type: claim
 title: AI outcomes in higher education are shaped by leadership capacity, infrastructure readiness, and governance structures rather than functioning independently
 description: AI outcomes in higher education are shaped by leadership capacity, infrastructure readiness, and governance structures rather than functioning independently
 id: ai-outcomes-shaped-by-leadership-infrastructure-governance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

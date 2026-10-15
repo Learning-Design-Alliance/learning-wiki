@@ -3,7 +3,7 @@ type: claim
 title: Only three of twelve identified OLI studies met WWC group design standards
 description: Only three of twelve identified OLI studies met WWC group design standards
 id: oli-three-of-twelve-studies-meet-wwc-standards
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

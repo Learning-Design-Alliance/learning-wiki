@@ -3,7 +3,7 @@ type: claim
 title: PALS shows potentially positive effects on reading fluency for students with learning disabilities, with a substantively important but not statistically significant WWC-calculated effect size of 0.41 in Saenz et al. (2005)
 description: PALS shows potentially positive effects on reading fluency for students with learning disabilities, with a substantively important but not statistically significant WWC-calculated effect size of 0.41 in Saenz et al. (2005)
 id: pals-potentially-positive-reading-fluency-ld
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

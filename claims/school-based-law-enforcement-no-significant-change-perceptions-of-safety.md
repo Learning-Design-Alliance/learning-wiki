@@ -3,7 +3,7 @@ type: claim
 title: "School-based law enforcement is not associated with statistically significant changes in students' perceptions of safety at school"
 description: "School-based law enforcement is not associated with statistically significant changes in students' perceptions of safety at school"
 id: school-based-law-enforcement-no-significant-change-perceptions-of-safety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

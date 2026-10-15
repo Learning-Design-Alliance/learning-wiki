@@ -3,7 +3,7 @@ type: claim
 title: Demanding anti-correlation is argued to be didactically superior to employing the CHSH inequality in the QRC
 description: Demanding anti-correlation is argued to be didactically superior to employing the CHSH inequality in the QRC
 id: anti-correlation-superior-to-chsh-didactically
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

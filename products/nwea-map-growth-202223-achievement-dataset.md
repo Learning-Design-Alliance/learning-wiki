@@ -4,7 +4,7 @@ id: nwea-map-growth-202223-achievement-dataset
 title: NWEA MAP Growth 2022–23 achievement dataset
 description: A dataset assembled by NWEA from MAP Growth assessments for approximately 6.7 million U.S.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

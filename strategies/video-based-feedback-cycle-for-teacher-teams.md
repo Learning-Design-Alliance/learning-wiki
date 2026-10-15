@@ -3,7 +3,7 @@ type: strategy
 id: video-based-feedback-cycle-for-teacher-teams
 title: Video-Based Feedback Cycle for Teacher Teams
 description: A five-step collaborative protocol in which a teacher team's own classroom video, selected around a teacher-initiated inquiry question, becomes the basis for joint sensemaking between researchers/coaches and teachers, rather than top-down evaluation.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

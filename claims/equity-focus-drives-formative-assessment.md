@@ -3,7 +3,7 @@ type: claim
 title: An equity and personalization focus led teachers to apply elements of formative assessment without extensive formal training
 description: An equity and personalization focus led teachers to apply elements of formative assessment without extensive formal training
 id: equity-focus-drives-formative-assessment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

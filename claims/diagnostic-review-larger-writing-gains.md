@@ -3,7 +3,7 @@ type: claim
 title: "The Diagnostic Review class gained more writing points across three cycles than the Control class (Hedges' g = 1.12)"
 description: "The Diagnostic Review class gained more writing points across three cycles than the Control class (Hedges' g = 1.12)"
 id: diagnostic-review-larger-writing-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

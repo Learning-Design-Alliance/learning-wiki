@@ -3,7 +3,7 @@ type: claim
 title: "Overall policy effects were concentrated among the lowest-ability students: larger credit gains but more failures and lower math GPAs, with ninth-grade test scores unaffected"
 description: "Overall policy effects were concentrated among the lowest-ability students: larger credit gains but more failures and lower math GPAs, with ninth-grade test scores unaffected"
 id: overall-policy-effects-lowest-ability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

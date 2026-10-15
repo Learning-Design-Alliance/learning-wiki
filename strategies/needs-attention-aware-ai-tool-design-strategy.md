@@ -3,7 +3,7 @@ type: strategy
 id: needs-attention-aware-ai-tool-design-strategy
 title: Design needs- and attention-aware AI learning tools using mechanism-level measures, heterogeneous-effects analysis, and in-process telemetry
 description: The article translates its findings into design guidance for AI learning tools in engineering education.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

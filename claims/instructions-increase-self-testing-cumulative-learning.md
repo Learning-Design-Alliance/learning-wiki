@@ -3,7 +3,7 @@ type: claim
 title: Instructions increased self-testing and cumulative learning but not study choices or feedback seeking in Experiment 1
 description: Instructions increased self-testing and cumulative learning but not study choices or feedback seeking in Experiment 1
 id: instructions-increase-self-testing-cumulative-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

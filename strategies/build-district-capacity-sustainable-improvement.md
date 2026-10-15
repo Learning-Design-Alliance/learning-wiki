@@ -3,7 +3,7 @@ type: strategy
 id: build-district-capacity-sustainable-improvement
 title: Build district capacity so improvement gains are sustained without direct external supports
 description: Because ESSA gives LEAs a central role in school improvement, the article reports that SEAs work to develop district capacity to lead and sustain change.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

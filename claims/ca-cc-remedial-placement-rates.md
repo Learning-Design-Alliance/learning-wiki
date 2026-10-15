@@ -3,7 +3,7 @@ type: claim
 title: Large majorities of incoming California community college students place into remedial-level mathematics and English
 description: Large majorities of incoming California community college students place into remedial-level mathematics and English
 id: ca-cc-remedial-placement-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

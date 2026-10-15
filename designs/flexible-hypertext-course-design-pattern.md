@@ -3,7 +3,7 @@ type: design
 id: flexible-hypertext-course-design-pattern
 title: Flexible hypertext-based online course design with hierarchical navigation and multiple representations
 description: "This pattern describes the flexible online course design the article built on cognitive flexibility hypertext theory: an e-learning process using video, PDF, images, simulations and discussion forums, organized by hie..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

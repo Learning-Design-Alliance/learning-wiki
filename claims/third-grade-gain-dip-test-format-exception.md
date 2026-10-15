@@ -3,7 +3,7 @@ type: claim
 title: Third grade is the notable exception where retained students did not make smaller gains, likely due to the ITBS Level 8 to Level 9 test format change
 description: Third grade is the notable exception where retained students did not make smaller gains, likely due to the ITBS Level 8 to Level 9 test format change
 id: third-grade-gain-dip-test-format-exception
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

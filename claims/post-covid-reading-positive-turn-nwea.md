@@ -3,7 +3,7 @@ type: claim
 title: NWEA reports a positive turn for U.S. reading achievement after a period of post-COVID stagnation
 description: NWEA reports a positive turn for U.S.
 id: post-covid-reading-positive-turn-nwea
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

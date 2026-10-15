@@ -3,7 +3,7 @@ type: strategy
 id: ethical-safeguards-ai-personalized-learning
 title: Address core ethical challenges—data privacy, algorithmic fairness, and transparency—when deploying AI-driven personalized learning
 description: "The review identifies three central ethical challenges for AI-driven personalized learning: data privacy and security (requiring \"robust data protection, anonymization, and clear consent protocols\"), algorithmic fairn..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

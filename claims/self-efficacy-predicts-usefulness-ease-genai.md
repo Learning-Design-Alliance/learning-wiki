@@ -3,7 +3,7 @@ type: claim
 title: Teacher self-efficacy significantly predicts perceived usefulness and perceived ease of use of GenAI tools
 description: Teacher self-efficacy significantly predicts perceived usefulness and perceived ease of use of GenAI tools
 id: self-efficacy-predicts-usefulness-ease-genai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

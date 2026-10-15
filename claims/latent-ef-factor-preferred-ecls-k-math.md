@@ -3,7 +3,7 @@ type: claim
 title: "In the ECLS-K: 2010 dataset, a single latent EF factor model fits EF–math associations better than a specific-components model at all three time points"
 description: "In the ECLS-K: 2010 dataset, a single latent EF factor model fits EF–math associations better than a specific-components model at all three time points"
 id: latent-ef-factor-preferred-ecls-k-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

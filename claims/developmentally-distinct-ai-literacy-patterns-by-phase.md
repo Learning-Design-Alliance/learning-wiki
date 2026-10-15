@@ -3,7 +3,7 @@ type: claim
 title: AI literacy priorities manifest as developmentally distinct pedagogical patterns across educational phases
 description: AI literacy priorities manifest as developmentally distinct pedagogical patterns across educational phases
 id: developmentally-distinct-ai-literacy-patterns-by-phase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

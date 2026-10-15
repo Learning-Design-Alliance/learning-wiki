@@ -3,7 +3,7 @@ type: claim
 title: The taxonomy decodes overlapping misconceptions behind a single observed loop-tracing error
 description: The taxonomy decodes overlapping misconceptions behind a single observed loop-tracing error
 id: taxonomy-decodes-overlapping-loop-misconceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: minimal-teacher-moves-prompting-questions
 title: "Use minimal, targeted teacher moves: circulate, prompt with questions, and give feedback that prompts strategy change"
 description: "In effective collaborative environments the primer says \"teacher intervention is minimal yet impactful, timely yet infrequent, and peripheral yet targeted.\" Recommended moves include circulating to observe and interve..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

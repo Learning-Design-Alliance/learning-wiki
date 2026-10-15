@@ -3,7 +3,7 @@ type: claim
 title: "Most LEAs used multiple TK curricula and play-based, developmentally appropriate strategies, but 20% still used kindergarten curriculum in TK classrooms"
 description: "Most LEAs used multiple TK curricula and play-based, developmentally appropriate strategies, but 20% still used kindergarten curriculum in TK classrooms"
 id: tk-curriculum-and-sel-practices-2023-24
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: research-method
 id: construct-evaluation-framework
 title: Construct evaluation framework
 description: "A framework for evaluating the characteristics of psychological constructs prior to automated coding, grounded in educational psychology measurement practices and validity theories (Cronbach & Meehl, 1955; Kane, 2013; Messick, 1995)."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

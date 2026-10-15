@@ -3,7 +3,7 @@ type: claim
 title: Students with disabilities suffered disproportionately from reduced instructional time and disconnection from school communities during COVID-19
 description: Students with disabilities suffered disproportionately from reduced instructional time and disconnection from school communities during COVID-19
 id: students-with-disabilities-disproportionately-hurt-by-covid-instructional-loss
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

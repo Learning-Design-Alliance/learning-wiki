@@ -3,7 +3,7 @@ type: claim
 title: AI applications support self-regulated learning regulation but not motivational regulation
 description: AI applications support self-regulated learning regulation but not motivational regulation
 id: ai-supports-srl-not-motivation-regulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

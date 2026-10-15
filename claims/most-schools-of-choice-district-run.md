@@ -3,7 +3,7 @@ type: claim
 title: Most U.S. schools of choice are operated by public school districts, with about 6.5 million students enrolled in a chosen public school
 description: Most U.S.
 id: most-schools-of-choice-district-run
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

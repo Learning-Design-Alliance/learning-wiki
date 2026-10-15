@@ -3,7 +3,7 @@ type: claim
 title: Multiple-choice state tests are prone to ceiling and floor effects and do not measure higher-order skills well
 description: Multiple-choice state tests are prone to ceiling and floor effects and do not measure higher-order skills well
 id: multiple-choice-state-tests-limits-high-low-performers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

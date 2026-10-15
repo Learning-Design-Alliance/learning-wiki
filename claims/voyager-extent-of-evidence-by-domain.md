@@ -3,7 +3,7 @@ type: claim
 title: Evidence extent for Voyager is moderate to large for alphabetics and small for comprehension, with no qualifying studies of fluency or general reading achievement
 description: Evidence extent for Voyager is moderate to large for alphabetics and small for comprehension, with no qualifying studies of fluency or general reading achievement
 id: voyager-extent-of-evidence-by-domain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

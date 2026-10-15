@@ -3,7 +3,7 @@ type: claim
 title: "Teachers and education leaders differ in which OpenSciEd challenges they prioritize: teachers rate student engagement higher, leaders rate materials adaptation and teacher capacity higher."
 description: "Teachers and education leaders differ in which OpenSciEd challenges they prioritize: teachers rate student engagement higher, leaders rate materials adaptation and teacher capacity higher."
 id: openscied-teacher-leader-priority-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

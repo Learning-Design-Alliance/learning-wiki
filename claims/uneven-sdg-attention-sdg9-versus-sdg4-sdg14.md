@@ -3,7 +3,7 @@ type: claim
 title: Attention across the SDGs is uneven, with focus on SDG 9 but limited engagement with SDG 4 and SDG 14
 description: Attention across the SDGs is uneven, with focus on SDG 9 but limited engagement with SDG 4 and SDG 14
 id: uneven-sdg-attention-sdg9-versus-sdg4-sdg14
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

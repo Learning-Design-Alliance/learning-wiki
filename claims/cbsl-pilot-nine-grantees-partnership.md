@@ -3,7 +3,7 @@ type: claim
 title: "A pilot initiative partnered Mathematica and Catalyst:Ed with the Gates Foundation and nine K-12 education grantees to build strategic learning capacity from May 2020 to September 2021"
 description: "A pilot initiative partnered Mathematica and Catalyst:Ed with the Gates Foundation and nine K-12 education grantees to build strategic learning capacity from May 2020 to September 2021"
 id: cbsl-pilot-nine-grantees-partnership
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

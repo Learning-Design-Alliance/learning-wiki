@@ -4,7 +4,7 @@ id: opportunity-culture
 title: Opportunity Culture
 description: Opportunity Culture is a school redesign and staffing framework developed by Public Impact that uses tiered teaching roles to expand the reach of excellent teachers and strengthen teacher leadership.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

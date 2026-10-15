@@ -3,7 +3,7 @@ type: claim
 title: More years of coding experience were associated with better performance in AI-supported PBL courses (exploratory)
 description: More years of coding experience were associated with better performance in AI-supported PBL courses (exploratory)
 id: coding-experience-associated-with-pbl-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

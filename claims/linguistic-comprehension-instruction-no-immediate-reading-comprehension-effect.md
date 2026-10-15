@@ -3,7 +3,7 @@ type: claim
 title: Linguistic comprehension instruction shows no clear immediate effect on generalized reading comprehension outcomes
 description: Linguistic comprehension instruction shows no clear immediate effect on generalized reading comprehension outcomes
 id: linguistic-comprehension-instruction-no-immediate-reading-comprehension-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: The 2020 norms report states the MAP Growth scale remains stable while status patterns shifted relative to the 2015 norms
 description: The 2020 norms report states the MAP Growth scale remains stable while status patterns shifted relative to the 2015 norms
 id: map-growth-scale-stable-2020-norms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

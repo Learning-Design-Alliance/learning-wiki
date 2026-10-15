@@ -3,7 +3,7 @@ type: strategy
 id: teacher-in-the-loop-offline-small-model-deployment
 title: Deploy quantized adapted small models offline with a teacher in the loop rather than as autonomous graders
 description: "The article recommends deploying the adapted, quantized 4B model as an offline binary for local inference in resource-constrained environments, but explicitly positions it as an assistive tool: PhysicsMate and derived..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

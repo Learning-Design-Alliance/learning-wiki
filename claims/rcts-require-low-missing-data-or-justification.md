@@ -3,7 +3,7 @@ type: claim
 title: RCTs must achieve much lower missing-data rates or justify that missing data are unrelated to outcomes
 description: RCTs must achieve much lower missing-data rates or justify that missing data are unrelated to outcomes
 id: rcts-require-low-missing-data-or-justification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: research-method
 id: bert-strategy-embedding-and-successful-strategy-prediction-from-mathia-logs
 title: BERT strategy-embedding and successful-strategy prediction from MATHia logs
 description: A BERT-based model the authors train to learn embeddings for math strategies from MATHia student log data, together with a prediction task that distinguishes between successful and unsuccessful strategy use.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

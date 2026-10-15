@@ -3,7 +3,7 @@ type: strategy
 id: integrate-puerto-rico-national-naep-sample
 title: Integrate Puerto Rico into the national NAEP sample in future administrations
 description: "The report's stated forward-looking plan is to \"integrate Puerto Rico into the national sample in future administrations\" of NAEP, building on the 2003 and 2005 Spanish-language trial assessments and the statistical w..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

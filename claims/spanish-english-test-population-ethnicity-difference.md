@@ -3,7 +3,7 @@ type: claim
 title: "The Spanish math test population is predominantly Hispanic (about 78%), unlike the English math test population (about 15%), with implications for Spanish norms"
 description: "The Spanish math test population is predominantly Hispanic (about 78%), unlike the English math test population (about 15%), with implications for Spanish norms"
 id: spanish-english-test-population-ethnicity-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

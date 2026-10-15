@@ -3,7 +3,7 @@ type: strategy
 id: representational-balance-six-recommendations
 title: Six recommendations for publishers and curriculum decision-makers to improve representational balance
 description: "The report closes with six actions for those who create, publish, and select children's books: \"Challenge dominant norms and singular perspectives\"; \"Expand publisher and educator definitions of cultural relevance\"; \"..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

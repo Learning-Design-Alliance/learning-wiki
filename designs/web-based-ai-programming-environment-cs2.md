@@ -3,7 +3,7 @@ type: design
 id: web-based-ai-programming-environment-cs2
 title: Web-based CS2 programming environment with integrated GPT-4 AI assistant and interaction logging
 description: "A web-based programming environment developed for this study in which \"The system integrates the programming assign- ment description, a code editor, program execution output, and a conversational AI assistant within..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

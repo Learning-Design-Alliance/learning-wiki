@@ -3,7 +3,7 @@ type: claim
 title: "AIL is delineated from related literacies: it extends Data, Media and Computational Literacy with human-AI interaction and ethical reasoning about autonomous systems"
 description: "AIL is delineated from related literacies: it extends Data, Media and Computational Literacy with human-AI interaction and ethical reasoning about autonomous systems"
 id: ail-delineation-from-related-literacies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

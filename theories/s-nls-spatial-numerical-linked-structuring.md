@@ -2,7 +2,7 @@
 type: theory
 title: "S*NLS as the linking mechanism between spatial structuring and numerical structuring"
 description: "S*-numerical linked structuring (S*NLS) is a form of reasoning coordinating S*-structuring, the mental construction of organization for sequences of physical/mental actions on perceptual or imagined material, with N-s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

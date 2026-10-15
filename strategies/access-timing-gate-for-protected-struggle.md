@@ -3,7 +3,7 @@ type: strategy
 id: access-timing-gate-for-protected-struggle
 title: Use an access-timing gate as the only safe AI presence during protected struggle
 description: "During Probe, the move of protected struggle before instruction, the article recommends keeping AI out except for one mechanism: \"an access-timing gate that unlocks the tool only after an independent attempt, which mi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

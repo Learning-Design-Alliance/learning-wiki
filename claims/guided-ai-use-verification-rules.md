@@ -3,7 +3,7 @@ type: claim
 title: Students used AI mainly for retrieving pharmacological mechanisms, generating PPT outlines, and clarifying concepts under rules requiring verification and student responsibility for AI outputs
 description: Students used AI mainly for retrieving pharmacological mechanisms, generating PPT outlines, and clarifying concepts under rules requiring verification and student responsibility for AI outputs
 id: guided-ai-use-verification-rules
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

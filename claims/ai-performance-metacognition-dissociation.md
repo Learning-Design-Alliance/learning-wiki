@@ -3,7 +3,7 @@ type: claim
 title: "AI support can improve task performance while weakening users' metacognitive accuracy and leaving their own reasoning unimproved"
 description: "AI support can improve task performance while weakening users' metacognitive accuracy and leaving their own reasoning unimproved"
 id: ai-performance-metacognition-dissociation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

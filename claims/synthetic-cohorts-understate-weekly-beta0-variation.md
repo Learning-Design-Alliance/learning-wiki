@@ -3,7 +3,7 @@ type: claim
 title: Synthetic cohorts reproduce the level and shape of the weekly β0 partition but vary 2.6–4.9 times less across the term than real cohorts at a common working point
 description: Synthetic cohorts reproduce the level and shape of the weekly β0 partition but vary 2.6–4.9 times less across the term than real cohorts at a common working point
 id: synthetic-cohorts-understate-weekly-beta0-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

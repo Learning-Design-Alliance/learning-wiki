@@ -3,7 +3,7 @@ type: design
 id: instructional-governance-design-construct
 title: "Instructional governance: the designed allocation of authority, agency, accountability, context, and evaluation visibility in AI-mediated teaching interactions"
 description: "The article defines instructional governance as \"the designed allocation of pedagogical authority, learner agency, human accountability, contextual boundaries, and evaluation visibility within an AI-mediated teaching..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: research-method
 id: rubric-based-pedagogical-quality-scoring-for-educational-ai-explanations
 title: Rubric-based pedagogical quality scoring for educational AI explanations
 description: "The article defines a composite pedagogical quality score on [0,1] as the mean of six binary criteria applied per response: step-by-step exposition, correct mathematical notation, worked example, query coverage, explanation depth, and proof-step granularity."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

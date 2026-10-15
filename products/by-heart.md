@@ -4,7 +4,7 @@ id: by-heart
 title: By Heart
 description: A memorization application that uses one card type with three learner-selectable retrieval modes of varying cueing difficulty for practicing poems, scripts, and other extended passages verbatim.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Differentiated-AI materials exceeded unified-AI materials on reading comprehension within each proficiency stratum, most strongly for high-proficiency learners (d = 1.40)
 description: Differentiated-AI materials exceeded unified-AI materials on reading comprehension within each proficiency stratum, most strongly for high-proficiency learners (d = 1.40)
 id: within-stratum-differentiated-advantage-reading-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

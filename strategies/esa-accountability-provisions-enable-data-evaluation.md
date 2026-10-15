@@ -3,7 +3,7 @@ type: strategy
 id: esa-accountability-provisions-enable-data-evaluation
 title: Policymakers designing ESA programs should use accountability and transparency provisions to require high-quality data that enables evaluation and policy refinement
 description: "The brief recommends that state policymakers designing or redesigning ESA programs attend to accountability and transparency provisions because they interact with data and reporting practices: requiring programs to co..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

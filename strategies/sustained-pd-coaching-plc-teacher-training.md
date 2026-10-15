@@ -3,7 +3,7 @@ type: strategy
 id: sustained-pd-coaching-plc-teacher-training
 title: Sustained teacher professional development with coaching and professional learning communities
 description: "The intervention's delivery strategy is multi-year, job-embedded teacher training: \"Teachers participate in 46 hours of professional development per year, over the course of 2 years,\" and \"Teachers are also encouraged..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

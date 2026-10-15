@@ -4,7 +4,7 @@ id: nlts-2012-dataset
 aliases: [nlts-2012-national-longitudinal-transition-study]
 title: National Longitudinal Transition Study 2012 (NLTS 2012)
 description: The National Longitudinal Transition Study 2012 is a national research study of youth in special education, conducted under a project with the time frame 2010–2018, prepared for the U.S.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: teacher-curated-knowledge-governance-rag
 title: Govern tutor knowledge through teacher-curated document corpora with RAG and document-driven adaptation
 description: The Teacher Interaction Layer lets educators delimit what the virtual tutor may know by curating an approved corpus.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

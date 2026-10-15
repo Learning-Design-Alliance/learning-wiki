@@ -3,7 +3,7 @@ type: strategy
 id: readers-reinforce-episode-instruction
 title: Use printed story Readers tied to mastered content to reinforce computer-delivered reading instruction
 description: The article describes a strategy in which teachers use printed stories based on the animated episodes to reinforce the instruction delivered in the lessons.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

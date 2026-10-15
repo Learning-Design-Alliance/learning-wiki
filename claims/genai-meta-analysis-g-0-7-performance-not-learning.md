@@ -3,7 +3,7 @@ type: claim
 title: A meta-analysis of 69 studies reports generative AI improves academic performance with g = 0.7, but the article argues this likely reflects immediate task success rather than learning
 description: A meta-analysis of 69 studies reports generative AI improves academic performance with g = 0.7, but the article argues this likely reflects immediate task success rather than learning
 id: genai-meta-analysis-g-0-7-performance-not-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

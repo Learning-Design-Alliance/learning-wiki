@@ -4,7 +4,7 @@ id: pinpoint-learning-mock-exam-dataset-of-119034-uk-students-across-13-national
 title: Pinpoint Learning mock-exam dataset of 119,034 UK students across 13 national-level mock exams
 description: A question-level GCSE mathematics mock-exam results dataset extracted from the Pinpoint Learning platform and collected from teacher-uploaded assessments.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

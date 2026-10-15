@@ -3,7 +3,7 @@ type: claim
 title: JOBSTART increased the likelihood that disadvantaged high school dropouts earned a high school diploma or GED certificate within 48 months of random assignment
 description: JOBSTART increased the likelihood that disadvantaged high school dropouts earned a high school diploma or GED certificate within 48 months of random assignment
 id: jobstart-increased-diploma-or-ged-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

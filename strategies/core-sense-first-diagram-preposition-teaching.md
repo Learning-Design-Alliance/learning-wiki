@@ -3,7 +3,7 @@ type: strategy
 id: core-sense-first-diagram-preposition-teaching
 title: Teach prepositions by presenting the core spatial sense first, then deriving metaphoric senses, supported by diagrams and schemas
 description: "The article describes a teaching technique arising from CL's systematic account of metaphoric preposition use, \"based on the idea that all metaphoric uses stem from their spatial/physical meanings, which have also bee..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

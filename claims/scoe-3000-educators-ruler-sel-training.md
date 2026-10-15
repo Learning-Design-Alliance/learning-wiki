@@ -3,7 +3,7 @@ type: claim
 title: SCOE supported 3,000 educators in almost 200 schools in receiving SEL training through RULER since 2019
 description: SCOE supported 3,000 educators in almost 200 schools in receiving SEL training through RULER since 2019
 id: scoe-3000-educators-ruler-sel-training
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

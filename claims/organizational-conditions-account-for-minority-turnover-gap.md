@@ -3,7 +3,7 @@ type: claim
 title: Less positive school organizational conditions account for the higher minority teacher turnover rate; once conditions are controlled, the minority-nonminority turnover difference becomes statistically insignificant
 description: Less positive school organizational conditions account for the higher minority teacher turnover rate; once conditions are controlled, the minority-nonminority turnover difference becomes statistically insignificant
 id: organizational-conditions-account-for-minority-turnover-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

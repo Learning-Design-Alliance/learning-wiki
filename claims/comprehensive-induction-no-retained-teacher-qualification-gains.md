@@ -3,7 +3,7 @@ type: claim
 title: Comprehensive teacher induction did not measurably improve the qualifications of teachers who were retained compared to business-as-usual induction
 description: Comprehensive teacher induction did not measurably improve the qualifications of teachers who were retained compared to business-as-usual induction
 id: comprehensive-induction-no-retained-teacher-qualification-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

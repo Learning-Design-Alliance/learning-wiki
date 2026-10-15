@@ -3,7 +3,7 @@ type: claim
 title: Rule Space successfully classified most examinees in architecture, with solve attributes the most powerful and check attributes the least powerful
 description: Rule Space successfully classified most examinees in architecture, with solve attributes the most powerful and check attributes the least powerful
 id: rule-space-classifies-architecture-examinees-solve-strongest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

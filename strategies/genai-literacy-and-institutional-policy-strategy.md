@@ -3,7 +3,7 @@ type: strategy
 id: genai-literacy-and-institutional-policy-strategy
 title: Develop student AI literacy and institutional GenAI policies, guidelines and safeguards for responsible integration
 description: "The article recommends that institutions develop policies and formal guidance on GenAI use while building students' AI literacy."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

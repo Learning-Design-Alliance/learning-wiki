@@ -3,7 +3,7 @@ type: element
 id: jtpa-monitoring-report-form
 title: Monitoring Report form for submitting self-monitoring results to the state JTPA office
 description: A summary reporting form mirroring the 28 instrument items, with spaces for the JTPA coordinator visited, superintendent, date, ratings, and comments per item.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

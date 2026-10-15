@@ -3,7 +3,7 @@ type: claim
 title: "Gen-AI has a moderate positive overall effect on students' higher-order thinking (g = 0.609) across 29 experimental and quasi-experimental studies"
 description: "Gen-AI has a moderate positive overall effect on students' higher-order thinking (g = 0.609) across 29 experimental and quasi-experimental studies"
 id: genai-moderate-positive-effect-hot
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

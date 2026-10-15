@@ -3,7 +3,7 @@ type: claim
 title: Collaborative writing methods such as peer criticism and group revision were in use before the collaborative learning movement
 description: Collaborative writing methods such as peer criticism and group revision were in use before the collaborative learning movement
 id: collaborative-writing-methods-predate-the-collaborative-learning-movement
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

@@ -3,7 +3,7 @@ type: claim
 title: The Synthesizer is expected to support uptake and action planning compared with unsynthesized feedback
 description: The Synthesizer is expected to support uptake and action planning compared with unsynthesized feedback
 id: synthesizer-expected-support-uptake-action-planning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

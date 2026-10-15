@@ -3,7 +3,7 @@ type: strategy
 id: register-graded-distributed-repetition-hypotheses
 title: Advance register-graded sequencing, distributed repetition and adaptive pacing as hypotheses for classroom testing
 description: "Because the study's patterns are observational and correlational, the authors advance three pedagogical implications \"as hypotheses for classroom research rather than as validated prescriptions\": distributing repetiti..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

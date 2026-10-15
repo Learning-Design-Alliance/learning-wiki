@@ -3,7 +3,7 @@ type: claim
 title: Cognitive load theory has generated a variety of novel instructional procedures for presenting information
 description: Cognitive load theory has generated a variety of novel instructional procedures for presenting information
 id: clt-generated-novel-instructional-procedures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

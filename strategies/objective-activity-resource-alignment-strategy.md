@@ -3,7 +3,7 @@ type: strategy
 id: objective-activity-resource-alignment-strategy
 title: Pair each performance objective with a demonstration-based suggested activity and coded resource references
 description: "An implementable planning recipe used throughout the guide: every topic outline row states a performance objective, then a suggested activity, then numbered resource references matching the unit bibliography."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

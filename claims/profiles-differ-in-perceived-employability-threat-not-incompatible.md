@@ -3,7 +3,7 @@ type: claim
 title: Profiles also differ in self-perceived employability, and elevated AI-related threat is not necessarily incompatible with career preparation
 description: Profiles also differ in self-perceived employability, and elevated AI-related threat is not necessarily incompatible with career preparation
 id: profiles-differ-in-perceived-employability-threat-not-incompatible
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

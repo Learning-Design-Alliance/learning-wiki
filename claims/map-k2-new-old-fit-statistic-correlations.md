@@ -3,7 +3,7 @@ type: claim
 title: New and old fit statistics are highly correlated after difficulty adjustment, with outfit correlations near 0.99 for Mathematics and infit correlations around 0.7 for Mathematics and mid-to-high 0.8–0.9 for Reading
 description: New and old fit statistics are highly correlated after difficulty adjustment, with outfit correlations near 0.99 for Mathematics and infit correlations around 0.7 for Mathematics and mid-to-high 0.8–0.9 for Reading
 id: map-k2-new-old-fit-statistic-correlations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

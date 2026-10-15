@@ -3,7 +3,7 @@ type: claim
 title: Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to fostering self-regulated AI interaction
 description: Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to fostering self-regulated AI interaction
 id: ai-scaffolding-fading-learned-helplessness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

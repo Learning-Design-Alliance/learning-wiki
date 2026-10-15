@@ -3,7 +3,7 @@ type: claim
 title: "Nearly all California LEAs offered TK in 2023–24, with 85% offering it at all elementary sites, up from 81% the prior year"
 description: "Nearly all California LEAs offered TK in 2023–24, with 85% offering it at all elementary sites, up from 81% the prior year"
 id: california-leas-tk-offering-2023-24
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

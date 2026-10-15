@@ -3,7 +3,7 @@ type: claim
 title: "AI-related fear shows a differentiated pattern: positive direct association with AI use but negative association with pedagogical AI competence and negative indirect effect"
 description: "AI-related fear shows a differentiated pattern: positive direct association with AI use but negative association with pedagogical AI competence and negative indirect effect"
 id: ai-fear-differentiated-direct-indirect-pattern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

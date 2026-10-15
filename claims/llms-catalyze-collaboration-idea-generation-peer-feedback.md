@@ -3,7 +3,7 @@ type: claim
 title: LLMs act as catalysts for collaboration by aiding idea generation, organization and peer feedback, and by democratizing access to knowledge in large-class settings
 description: LLMs act as catalysts for collaboration by aiding idea generation, organization and peer feedback, and by democratizing access to knowledge in large-class settings
 id: llms-catalyze-collaboration-idea-generation-peer-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

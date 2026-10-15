@@ -4,7 +4,7 @@ title: "Attendance in preschool and kindergarten is framed as important to young
 description: "Attendance in preschool and kindergarten is framed as important to young learners' school success"
 id: prek-kindergarten-attendance-spells-success
 aliases: [early-attendance-preschool-kindergarten-future-success]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

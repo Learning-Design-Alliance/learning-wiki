@@ -3,7 +3,7 @@ type: claim
 title: "Sample size category (21–40 vs. >40 participants) does not significantly moderate GenAI writing effects"
 description: Sample size category (21–40 vs.
 id: sample-size-nonsignificant-moderator-genai-writing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

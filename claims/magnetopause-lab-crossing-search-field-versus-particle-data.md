@@ -3,7 +3,7 @@ type: claim
 title: Students find magnetopause crossings well in magnetic field data but have more difficulty with particle data, and some data sets contain no crossings at all
 description: Students find magnetopause crossings well in magnetic field data but have more difficulty with particle data, and some data sets contain no crossings at all
 id: magnetopause-lab-crossing-search-field-versus-particle-data
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

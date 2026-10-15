@@ -3,7 +3,7 @@ type: claim
 title: Reaching the qualitative SOLO phase in GenAI interaction required repeated meta-level learner interventions, demanding the very self-regulatory skills the tool was expected to support
 description: Reaching the qualitative SOLO phase in GenAI interaction required repeated meta-level learner interventions, demanding the very self-regulatory skills the tool was expected to support
 id: genai-qualitative-shift-requires-meta-level-interventions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

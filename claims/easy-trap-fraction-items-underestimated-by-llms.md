@@ -3,7 +3,7 @@ type: claim
 title: "LLMs systematically underestimate fraction items whose difficulty is driven by misconceptions (the \"Easy Trap\")"
 description: "LLMs systematically underestimate fraction items whose difficulty is driven by misconceptions (the \"Easy Trap\")"
 id: easy-trap-fraction-items-underestimated-by-llms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

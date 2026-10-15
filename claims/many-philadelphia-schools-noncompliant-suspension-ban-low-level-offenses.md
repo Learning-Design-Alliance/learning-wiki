@@ -3,7 +3,7 @@ type: claim
 title: Many Philadelphia schools did not comply with the policy change prohibiting out-of-school suspension for low-level offenses
 description: Many Philadelphia schools did not comply with the policy change prohibiting out-of-school suspension for low-level offenses
 id: many-philadelphia-schools-noncompliant-suspension-ban-low-level-offenses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Adult learners view AI as a collaborative learning agent for solving complex problems, sharing knowledge, and honing higher-order thinking
 description: Adult learners view AI as a collaborative learning agent for solving complex problems, sharing knowledge, and honing higher-order thinking
 id: ai-as-collaborative-learning-agent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

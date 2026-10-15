@@ -3,7 +3,7 @@ type: claim
 title: Bullock (2005) RCT found no statistically significant Accelerated Reader effects on comprehension (STAR and 4J Vocabulary)
 description: Bullock (2005) RCT found no statistically significant Accelerated Reader effects on comprehension (STAR and 4J Vocabulary)
 id: bullock-rct-null-comprehension-star-vocabulary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

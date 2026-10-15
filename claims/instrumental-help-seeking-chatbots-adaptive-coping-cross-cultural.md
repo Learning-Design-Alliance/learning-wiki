@@ -3,7 +3,7 @@ type: claim
 title: "Adolescents' preference for instrumental help-seeking from AI chatbots is positively associated with adaptive coping, which relates to more prosocial behavior and less bullying, consistently across US and HK samples"
 description: "Adolescents' preference for instrumental help-seeking from AI chatbots is positively associated with adaptive coping, which relates to more prosocial behavior and less bullying, consistently across US and HK samples"
 id: instrumental-help-seeking-chatbots-adaptive-coping-cross-cultural
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

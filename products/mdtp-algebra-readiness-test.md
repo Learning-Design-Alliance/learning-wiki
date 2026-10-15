@@ -4,7 +4,7 @@ id: mdtp-algebra-readiness-test
 title: MDTP Algebra Readiness test
 description: "A 45-item multiple-choice mathematics diagnostic assessment developed by the Mathematics Diagnostic Testing Project to measure students' algebra readiness across seven topic areas."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Under Chain-of-Thought prompting, higher Bloom-level classification accuracy correlates with lower category consistency in generated questions
 description: Under Chain-of-Thought prompting, higher Bloom-level classification accuracy correlates with lower category consistency in generated questions
 id: negative-correlation-classification-catcons
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

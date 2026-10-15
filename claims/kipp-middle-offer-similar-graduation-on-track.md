@@ -3,7 +3,7 @@ type: claim
 title: KIPP middle school offers did not produce higher five-year four-year graduation or on-track rates than no offer
 description: KIPP middle school offers did not produce higher five-year four-year graduation or on-track rates than no offer
 id: kipp-middle-offer-similar-graduation-on-track
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

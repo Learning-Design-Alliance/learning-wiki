@@ -3,7 +3,7 @@ type: research-method
 id: almeida-bauer-zytkuewisz-rubric-for-characterizing-levels-of-inquiry-in-undergraduate-labo
 title: Almeida Bauer Zytkuewisz rubric for characterizing levels of inquiry in undergraduate laboratories
 description: "A rubric that differentiates laboratory activities into six levels (originally five, recently updated) based on six characteristics: problem/question, theory/background, procedure/design, result/analysis, results communication, and conclusions."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

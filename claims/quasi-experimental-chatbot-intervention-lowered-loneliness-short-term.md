@@ -3,7 +3,7 @@ type: claim
 title: A quasi-experimental intervention reported short-term reductions in loneliness followed by lower social anxiety after a social-chatbot intervention
 description: A quasi-experimental intervention reported short-term reductions in loneliness followed by lower social anxiety after a social-chatbot intervention
 id: quasi-experimental-chatbot-intervention-lowered-loneliness-short-term
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: design
 id: project-cal-well-three-component-model
 title: Project Cal-Well three-component school mental health model implemented in DNUSD
 description: "Project Cal-Well is a California Department of Education program, initiated in 2014 and funded by a SAMHSA NITT-AWARE grant, that \"aims to expand mental health services in schools and communities.\" In Cohort 2 (2019–2..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

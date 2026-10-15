@@ -3,7 +3,7 @@ type: claim
 title: "The four-predictor model explains approximately 55.4% of variance in teachers' AI integration ability"
 description: "The four-predictor model explains approximately 55.4% of variance in teachers' AI integration ability"
 id: plssem-model-explains-55-percent-variance-ai-integration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

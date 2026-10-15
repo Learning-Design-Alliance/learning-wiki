@@ -3,7 +3,7 @@ type: claim
 title: High-frequency LLM users show higher minimum course outcomes and reduced score variability, though interaction level is not a dominant outcome predictor
 description: High-frequency LLM users show higher minimum course outcomes and reduced score variability, though interaction level is not a dominant outcome predictor
 id: high-usage-lower-variance-higher-minimum
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

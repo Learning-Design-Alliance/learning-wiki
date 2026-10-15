@@ -3,7 +3,7 @@ type: claim
 title: The 2005 CCSR survey achieved response rates near 90 percent at the sample high school, with respondents closely matching the full student body
 description: The 2005 CCSR survey achieved response rates near 90 percent at the sample high school, with respondents closely matching the full student body
 id: ccsr-2005-sample-school-response-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Teachers reported pacing demands, student struggles with rigor, and technology impediments as factors hindering ERWC implementation
 description: Teachers reported pacing demands, student struggles with rigor, and technology impediments as factors hindering ERWC implementation
 id: erwc-implementation-hindering-factors-qualitative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

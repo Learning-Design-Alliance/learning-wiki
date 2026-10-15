@@ -4,7 +4,7 @@ id: national-study-of-online-charter-schools-principal-survey
 title: National Study of Online Charter Schools principal survey
 description: "A nationwide survey dataset collected by Mathematica Policy Research from 127 online charter school principals to describe online charter schools' operations and instructional approaches."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

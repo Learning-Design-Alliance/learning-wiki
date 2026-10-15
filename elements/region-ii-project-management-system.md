@@ -3,7 +3,7 @@ type: element
 id: region-ii-project-management-system
 title: Comprehensive project management system with PERT charts and critical work activities
 description: To operate the project, a comprehensive management system was developed with an external agency (EPIC Diversified Systems Corporation).
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

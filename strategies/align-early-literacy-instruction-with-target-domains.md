@@ -3,7 +3,7 @@ type: strategy
 id: align-early-literacy-instruction-with-target-domains
 title: Align early literacy instruction with the specific skill domains educators seek to support, favoring small-group language delivery
 description: The review recommends that early childhood educators use its findings to improve the alignment between instructional focus and target skill domains, and to identify evidence-based curricula, lesson packages, practices...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

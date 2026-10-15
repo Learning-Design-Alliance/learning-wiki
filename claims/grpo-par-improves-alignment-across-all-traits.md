@@ -3,7 +3,7 @@ type: claim
 title: GRPO with the Proficiency Alignment Reward improves alignment over SFT across every writing trait and essay prompt
 description: GRPO with the Proficiency Alignment Reward improves alignment over SFT across every writing trait and essay prompt
 id: grpo-par-improves-alignment-across-all-traits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

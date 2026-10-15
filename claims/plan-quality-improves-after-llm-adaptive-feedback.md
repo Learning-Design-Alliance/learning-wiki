@@ -3,7 +3,7 @@ type: claim
 title: "Children's plan quality improves substantially after receiving LLM-generated adaptive feedback"
 description: "Children's plan quality improves substantially after receiving LLM-generated adaptive feedback"
 id: plan-quality-improves-after-llm-adaptive-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

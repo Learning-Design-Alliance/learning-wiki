@@ -3,7 +3,7 @@ type: strategy
 id: teach-explicit-hierarchical-organization
 title: Teach knowledge with explicit hierarchical multi-level structure and active student processing of the organization
 description: The article recommends that instructional efforts pay more attention to the organization, not just the content, of knowledge to be taught.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

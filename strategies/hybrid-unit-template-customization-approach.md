@@ -3,7 +3,7 @@ type: strategy
 id: hybrid-unit-template-customization-approach
 title: Provide teachers with exemplar NGSS-aligned CBL units and templates to customize rather than requiring design from scratch
 description: The report recommends a hybrid approach in which teachers have examples of well-designed units and unit templates but engage in customizing the templates for their own students and curriculum.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

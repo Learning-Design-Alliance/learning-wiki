@@ -3,7 +3,7 @@ type: claim
 title: "Perceived GenAI role is systematically associated with metacognitive dimensions activated: replacement-tool users show no evaluation or elaboration, collaborator users show predominantly higher-order activity"
 description: "Perceived GenAI role is systematically associated with metacognitive dimensions activated: replacement-tool users show no evaluation or elaboration, collaborator users show predominantly higher-order activity"
 id: genai-role-metacognitive-profiles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

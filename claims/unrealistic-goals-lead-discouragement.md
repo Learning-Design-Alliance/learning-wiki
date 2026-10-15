@@ -3,7 +3,7 @@ type: claim
 title: Pursuing unrealistic goals can lead to discouragement and frustration, so goals should balance rigor with realism
 description: Pursuing unrealistic goals can lead to discouragement and frustration, so goals should balance rigor with realism
 id: unrealistic-goals-lead-discouragement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

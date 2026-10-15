@@ -3,7 +3,7 @@ type: claim
 title: "Engineering students most often use LLMs for academic writing (27%), conceptual clarification (20%), programming help (17%) and brainstorming (13%)"
 description: "Engineering students most often use LLMs for academic writing (27%), conceptual clarification (20%), programming help (17%) and brainstorming (13%)"
 id: students-use-llms-writing-clarification-coding-brainstorming
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

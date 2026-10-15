@@ -3,7 +3,7 @@ type: claim
 title: Higher baseline autonomy and higher baseline competence frustration predict greater perceived relief from competence frustration after AI chatbot use, while higher baseline personal agency predicts less
 description: Higher baseline autonomy and higher baseline competence frustration predict greater perceived relief from competence frustration after AI chatbot use, while higher baseline personal agency predicts less
 id: baseline-needs-predict-competence-relief-ai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

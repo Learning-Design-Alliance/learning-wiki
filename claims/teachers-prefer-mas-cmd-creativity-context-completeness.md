@@ -3,7 +3,7 @@ type: claim
 title: Teachers qualitatively preferred MAS-CMD activities for creativity, real-world context, and classroom-ready completeness
 description: Teachers qualitatively preferred MAS-CMD activities for creativity, real-world context, and classroom-ready completeness
 id: teachers-prefer-mas-cmd-creativity-context-completeness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

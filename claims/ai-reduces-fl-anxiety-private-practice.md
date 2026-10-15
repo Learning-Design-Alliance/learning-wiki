@@ -3,7 +3,7 @@ type: claim
 title: AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway
 description: AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway
 id: ai-reduces-fl-anxiety-private-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

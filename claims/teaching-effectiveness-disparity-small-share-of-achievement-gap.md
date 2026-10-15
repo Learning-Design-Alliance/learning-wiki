@@ -3,7 +3,7 @@ type: claim
 title: The teaching-effectiveness disparity represents a small share of the overall achievement gap for disadvantaged students
 description: The teaching-effectiveness disparity represents a small share of the overall achievement gap for disadvantaged students
 id: teaching-effectiveness-disparity-small-share-of-achievement-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

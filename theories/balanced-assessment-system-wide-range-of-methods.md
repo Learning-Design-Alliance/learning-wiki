@@ -2,7 +2,7 @@
 type: theory
 title: Balanced assessment system encompassing a wide range of methods beyond tests
 description: The article defines a balanced assessment system as an organizing framework for school assessment practice.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

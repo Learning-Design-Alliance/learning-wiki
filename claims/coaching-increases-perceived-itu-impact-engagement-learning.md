@@ -3,7 +3,7 @@ type: claim
 title: Coached teachers report greater impact of their technology use on student engagement and learning
 description: Coached teachers report greater impact of their technology use on student engagement and learning
 id: coaching-increases-perceived-itu-impact-engagement-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: In higher education, the purported Silicon Valley revolution is undermined by detrimental effects on academic integrity and erosion of evidence-based pedagogical practices, compounded by the prevailing crisis of higher education
 description: In higher education, the purported Silicon Valley revolution is undermined by detrimental effects on academic integrity and erosion of evidence-based pedagogical practices, compounded by the prevailing crisis of highe...
 id: gai-undermines-academic-integrity-and-evidence-based-pedagogy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

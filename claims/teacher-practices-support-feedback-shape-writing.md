@@ -3,7 +3,7 @@ type: claim
 title: Teachers shape writing outcomes through instructional practices and through engagement, support, and feedback
 description: Teachers shape writing outcomes through instructional practices and through engagement, support, and feedback
 id: teacher-practices-support-feedback-shape-writing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

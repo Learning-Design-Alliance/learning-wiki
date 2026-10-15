@@ -3,7 +3,7 @@ type: strategy
 id: templates-and-posted-talk-moves-scaffolds
 title: Provide templates and publicly posted talk moves to scaffold discussion and lower cognitive load
 description: The primer recommends giving students time to think and write responses before discussing, using a template or prompt sheet to scaffold thinking.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

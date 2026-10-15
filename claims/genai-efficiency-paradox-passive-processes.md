@@ -3,7 +3,7 @@ type: claim
 title: "An efficiency paradox: well-intentioned students default to passive GenAI processes and experience cognitive laziness and overreliance"
 description: "An efficiency paradox: well-intentioned students default to passive GenAI processes and experience cognitive laziness and overreliance"
 id: genai-efficiency-paradox-passive-processes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

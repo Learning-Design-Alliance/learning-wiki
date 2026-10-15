@@ -3,7 +3,7 @@ type: claim
 title: "Special education needs are much more prevalent among California students designated as LTEL7 (28%) than other ever-EL peers (11%)"
 description: "Special education needs are much more prevalent among California students designated as LTEL7 (28%) than other ever-EL peers (11%)"
 id: special-education-needs-more-prevalent-ltel7
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

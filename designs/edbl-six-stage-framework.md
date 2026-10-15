@@ -3,7 +3,7 @@ type: design
 id: edbl-six-stage-framework
 title: Engineering Design-Based Learning (EDBL) as a six-stage iterative pedagogical framework
 description: EDBL is a pedagogical approach grounded in problem-based learning and constructivist theories in which students engage in authentic, iterative design challenges to develop scientific understanding and practical skills.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: purposeful-repeated-reading-three-four-times
 title: Reread the same passage 3–4 times, each time with a different purpose
 description: For fluency building, structure repeated reading so each reread has a distinct purpose rather than mere speed practice.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: EAI effectiveness was reported across all educational stages, with most studies in secondary education and university
 description: EAI effectiveness was reported across all educational stages, with most studies in secondary education and university
 id: eai-effective-all-educational-stages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

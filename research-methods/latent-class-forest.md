@@ -3,7 +3,7 @@ type: research-method
 id: latent-class-forest
 title: Latent class forest
 description: The latent class forest (LCF) embeds latent class analysis within a random forest ensemble, recursively partitioning observations via EM-estimated two-class splits at each internal node, then clustering a pairwise distance matrix built from terminal-node similarity.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

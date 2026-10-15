@@ -3,7 +3,7 @@ type: strategy
 id: teacher-developed-ct-integration-examples
 title: Have classroom teachers develop CT-integrated example lessons and practical integration routines to operationalize a competency map
 description: "To operationalize the competency map for teachers, IPSD had a team of six teachers add \"classroom-relevant examples of CT-integrated lessons aligned to the IPSD standards and curricula\" and, with district leaders, pro..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: classroom-system-level-equity-focus
 title: Focus equity-relevant research at the classroom and systems levels, treating teachers—not just technology—as drivers of change
 description: This strategy shifts attention from adapting technology to individual students toward how platforms can support teachers and change classroom and system practices.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

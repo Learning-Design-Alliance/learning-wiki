@@ -3,7 +3,7 @@ type: design
 id: dyad-pairing-maximize-peer-conflicts-poe
 title: Dyad composition pairing low-scoring with higher-scoring students to maximize peer conflicts, combined with POE simulation tasks
 description: "In this design pattern, students are assigned to dyads to work on simulation-based predict-observe-explain tasks with pairing deliberately arranged so that \"students of low scores being paired up with students of rela..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

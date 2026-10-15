@@ -3,7 +3,7 @@ type: claim
 title: The review reports that training a single deep learning model may have a carbon footprint comparable to several automobiles over their lifespan
 description: The review reports that training a single deep learning model may have a carbon footprint comparable to several automobiles over their lifespan
 id: deep-learning-training-carbon-footprint-comparable-automobiles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

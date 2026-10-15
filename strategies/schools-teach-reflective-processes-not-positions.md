@@ -3,7 +3,7 @@ type: strategy
 id: schools-teach-reflective-processes-not-positions
 title: Schools should teach and protect reflective processes, not particular conclusions or ideological positions
 description: In its societal section, the paper argues that schools should pursue the goal of preparing an educated citizenry by teaching students how to think for themselves, and that it is reflective processes the schools should...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

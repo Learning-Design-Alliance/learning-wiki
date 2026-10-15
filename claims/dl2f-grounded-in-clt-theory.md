@@ -3,7 +3,7 @@ type: claim
 title: DL2F is grounded in communicative language teaching theory prioritizing communication as the key objective of language learning
 description: DL2F is grounded in communicative language teaching theory prioritizing communication as the key objective of language learning
 id: dl2f-grounded-in-clt-theory
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: About 30 percent of South Carolina charter schools outperform traditional alternatives in reading and 15 percent in math, while 22 percent and 33 percent underperform
 description: About 30 percent of South Carolina charter schools outperform traditional alternatives in reading and 15 percent in math, while 22 percent and 33 percent underperform
 id: sc-charter-school-quality-range-reading-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

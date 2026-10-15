@@ -3,7 +3,7 @@ type: claim
 title: On the PRM800K validation dataset, detection rates dropped by 10.5 percentage points when final answers were correct, consistent with the correct answer trap extending beyond the Eedi data
 description: On the PRM800K validation dataset, detection rates dropped by 10.5 percentage points when final answers were correct, consistent with the correct answer trap extending beyond the Eedi data
 id: cat-extends-to-prm800k-validation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

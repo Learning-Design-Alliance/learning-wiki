@@ -3,7 +3,7 @@ type: strategy
 id: cw-fit-targeted-student-supports-strategy
 title: Provide additional targeted supports — self-monitoring charts or help cards — for students with significant skill challenges
 description: Within CW-FIT, teachers select students who continue to struggle after initial game sessions and choose from two supports based on student behavior.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

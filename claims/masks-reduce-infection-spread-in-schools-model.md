@@ -3,7 +3,7 @@ type: claim
 title: Requiring masks measurably reduces infection spread in schools, according to simulation models of school operating strategies
 description: Requiring masks measurably reduces infection spread in schools, according to simulation models of school operating strategies
 id: masks-reduce-infection-spread-in-schools-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

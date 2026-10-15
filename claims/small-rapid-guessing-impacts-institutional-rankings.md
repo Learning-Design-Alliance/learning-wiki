@@ -3,7 +3,7 @@ type: claim
 title: Even a small amount of rapid-guessing behavior can impact institutional rankings
 description: Even a small amount of rapid-guessing behavior can impact institutional rankings
 id: small-rapid-guessing-impacts-institutional-rankings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

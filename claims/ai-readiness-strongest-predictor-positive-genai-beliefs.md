@@ -3,7 +3,7 @@ type: claim
 title: "AI readiness is the strongest predictor of K-12 teachers' positive beliefs about GenAI's instructional impact, with the model explaining 50% of variance"
 description: "AI readiness is the strongest predictor of K-12 teachers' positive beliefs about GenAI's instructional impact, with the model explaining 50% of variance"
 id: ai-readiness-strongest-predictor-positive-genai-beliefs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
