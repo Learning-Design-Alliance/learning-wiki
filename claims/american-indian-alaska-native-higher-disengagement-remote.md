@@ -43,7 +43,7 @@ In the comparison of remote spring 2020 and in-school fall 2019 administrations,
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 - [The grade-level disengagement pattern was not meaningfully different between remote and in-school testing](disengagement-pattern-similar-remote-versus-in-school.md) — a broader claim this one bears on

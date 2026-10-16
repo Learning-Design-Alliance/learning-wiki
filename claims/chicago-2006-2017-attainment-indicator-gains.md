@@ -62,7 +62,7 @@ The introduction's descriptive trend summary for CPS: graduation rates up 18 per
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - Chicago's on-track data system was associated with improved high school graduation rates — related

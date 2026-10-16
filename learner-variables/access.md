@@ -12,7 +12,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 52 claims (40 for, 11 mixed, 1 against) · 42 studies (21 associational, 5 causal, 5 review, 4 qualitative, 3 design, 2 quant-synthesis, 2 theoretical), `q1`–`q4` · 2 of 42 report an effect size · 48 claims rest on one study
+> **Evidence** · 52 claims (40 show a difference, 11 mixed, 1 no difference) · 42 studies (21 associational, 5 causal, 5 review, 4 qualitative, 3 design, 2 quant-synthesis, 2 theoretical), `q1`–`q4` · 2 of 42 report an effect size · 48 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.

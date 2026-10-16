@@ -43,7 +43,7 @@ The Consortium report on YOUmedia Chicago reports attendance levels and particip
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [YOUmedia registration increased steadily across Year 1, reaching 1,593 registered teens by August 2010](youmedia-registration-increased-year-one.md) — related

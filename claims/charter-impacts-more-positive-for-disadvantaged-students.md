@@ -43,7 +43,7 @@ Subgroup pattern reported in the lottery-based study of 33 charter middle school
 
 
 ## Learner Variables
-- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 - [Impacts of charter middle schools on achievement varied considerably across schools and students](charter-middle-school-impacts-varied-considerably.md) — related

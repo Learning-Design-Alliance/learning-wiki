@@ -75,7 +75,7 @@ Same PISA secondary analysis, Results section. The article reports the average r
 
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [The mathematics sex difference is practically non-existent among low performers and largest among high performers, where boys outnumber girls up to 2.7:1 above the 99th percentile](math-sex-difference-concentrated-at-high-end.md) — a narrower finding that bears on this claim

@@ -61,7 +61,7 @@ Format-acceptance item in the same gender breakdown of the N=50 survey. Female p
 ## Discussion
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
 - [Self-Efficacy](../learner-variables/self-efficacy.md) — moderator: an instructional effect differs with it
 
 ## Related Claims

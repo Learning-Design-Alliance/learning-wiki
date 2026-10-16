@@ -43,7 +43,7 @@ Descriptive comparison of CPS administrative records for first-time ninth grader
 
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [Most students needing Algebra I credit recovery failed multiple ninth-grade courses and few were on track to graduate](algebra-failers-failed-multiple-courses-off-track.md) — related

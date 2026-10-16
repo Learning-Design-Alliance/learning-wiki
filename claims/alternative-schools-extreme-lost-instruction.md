@@ -43,7 +43,7 @@ First-of-its-kind descriptive analysis of 2015-16 CRDC data for alternative scho
 
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [Race-by-gender disparities are more pronounced: Black boys lost 132 days per 100 enrolled and Black girls lost 77, seven times the rate of White girls](gender-disaggregated-lost-instruction-disparities.md) — related

@@ -43,7 +43,7 @@ The report's background synthesis of research on disproportionality, attributing
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [Student homelessness disproportionately affects Black students, LGBT youth, English learners, and students with disabilities](homelessness-disproportionate-groups.md) — possibly the same claim (merge candidate)

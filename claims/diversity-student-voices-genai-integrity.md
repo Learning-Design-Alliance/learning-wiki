@@ -62,7 +62,7 @@ The review reports Harrington et al. (2025) found that, despite identical instit
 
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples — related

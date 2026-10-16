@@ -42,7 +42,7 @@ Descriptive analysis of 2000 high school transcript data (Figure 2) reported in 
 ## Discussion
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 

@@ -43,7 +43,7 @@ Descriptive analysis of CALPADS enrollment data for 330,733 students designated 
 
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [Special education needs are much more prevalent among California students designated as LTEL7 (28%) than other ever-EL peers (11%)](special-education-needs-more-prevalent-ltel7.md) — related

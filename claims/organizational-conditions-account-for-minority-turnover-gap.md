@@ -44,7 +44,7 @@ Supplementary combined-sample logistic regression with a minority-teacher predic
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [Minority teacher turnover rates have been significantly higher than nonminority turnover, and the gap widened after 2004](minority-teacher-turnover-significantly-higher.md) — related

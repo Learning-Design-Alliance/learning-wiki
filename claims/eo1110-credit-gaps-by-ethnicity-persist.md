@@ -43,7 +43,7 @@ Disaggregated credit-accumulation analysis of the 2017 and 2018 cohorts using Le
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [Average first-year baccalaureate units earned decreased with each lower QR placement category, from about 27 units in Category I to about 20 in Category IV](eo1110-credit-accumulation-declines-by-placement.md) — related

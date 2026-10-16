@@ -44,7 +44,7 @@ Subgroup analysis in Table 1 of 2005 versus 2013 on-track rates by EXPLORE categ
 
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [Ninth graders who fail Algebra I are demographically similar to those who pass, but are more likely to be male and African American](algebra-i-failers-more-likely-male-african-american.md) — related

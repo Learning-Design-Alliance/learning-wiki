@@ -204,13 +204,21 @@ def page_profile(cites: list, claims: dict) -> dict:
     }
 
 
-def profile_line(p: dict) -> str:
+# On a learner-variable page a marker says whether the claim found a difference between learners who
+# differ on the characteristic, not whether it supports a recommendation. "147 for" on the race and
+# ethnicity page read as evidence for race as a cause of outcomes (maintainer, 2026-10-16), so those
+# pages count differences found instead.
+POLARITY_LABELS = {"learner-variables": ("show a difference", "mixed", "no difference")}
+
+
+def profile_line(p: dict, kind: str = None) -> str:
     """The `> **Evidence** ·` header for a page that cites claims. Closed grammar:
     add_evidence_profile.GENERATED_RE must match every line this can return."""
     if not p["claims"]:
         return "> **Evidence** · no claims cited"
     pol = p["polarity"]
-    parts_pol = [f"{pol[k]} {label}" for k, label in (("+", "for"), ("~", "mixed"), ("-", "against"),
+    plus, mixed, minus = POLARITY_LABELS.get(kind, ("for", "mixed", "against"))
+    parts_pol = [f"{pol[k]} {label}" for k, label in (("+", plus), ("~", mixed), ("-", minus),
                                                      ("unmarked", "unmarked")) if pol.get(k)]
     head = f"{p['claims']} claim{'s' if p['claims'] != 1 else ''} ({', '.join(parts_pol)})"
     if not p["studies"]:

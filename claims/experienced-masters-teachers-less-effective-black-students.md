@@ -43,7 +43,7 @@ Analysis of teacher characteristics linked to race-specific value-added in Chica
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 - [Having a teacher highly effective for Black students shows no detrimental effect on non-Black students' test scores](no-detrimental-effect-non-black-students.md) — related

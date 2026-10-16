@@ -55,7 +55,7 @@ In an extended student-class experiment comparing text-only, voice, diagram, and
 **Single-source limitation.** Both subclaims rest on one conference-report series of classroom experiments by a single author, with sample sizes and effect magnitudes not fully specified. Replication in independent labs and with modern multimedia would be needed before treating the intuitive advantage as robust.
 
 ## Learner Variables
-- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — predictor: learners who differ on it differ in outcomes
+- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — predictor: learners reporting different styles differed here; not a test of matching instruction to style
 
 ## Related Claims
 

@@ -43,7 +43,7 @@ Student subgroup analysis for students in poverty, 2018-19, row comparing with s
 
 
 ## Learner Variables
-- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 - [Houston charter school students outperformed Houston other district school students in both reading and math in 2018-19](houston-charter-beats-district-reading-and-math-2018-19.md) — a broader claim this one bears on

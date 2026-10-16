@@ -43,7 +43,7 @@ Descriptive demographic comparison reported in the Executive Summary and the Dem
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - In California (2018-19), 77.4% of K-12 public school students are people of color but only 39.1% of classroom teachers are — related

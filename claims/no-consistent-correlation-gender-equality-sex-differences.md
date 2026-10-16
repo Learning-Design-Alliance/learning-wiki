@@ -40,7 +40,7 @@ Correlational analysis (Table 3) of sex differences in mathematics and reading a
 ## Discussion
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 

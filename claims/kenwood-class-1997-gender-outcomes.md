@@ -81,7 +81,7 @@ Girls' section of Table 2, fifth-year row, printed verbatim: "Fifth Year 1997–
 
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - Among Barton's class of 1993, more girls than boys graduated within five years (25 of 46 versus 19 of 35) — related

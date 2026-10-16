@@ -43,7 +43,7 @@ Narrative review reporting Gregory et al. (2014): teachers implementing RJ frequ
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 - [Teachers who implemented restorative justice frequently had better student relationships and issued fewer referrals, with preliminary indications of reduced racial discipline gaps that were not fully eliminated](frequent-rj-use-relationships-referrals-racial-gap.md) — possibly the same claim (merge candidate)

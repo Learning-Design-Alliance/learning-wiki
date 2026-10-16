@@ -43,7 +43,7 @@ Quantitative study of 2011–18 CPS data compared improvement among elementary s
 
 
 ## Learner Variables
-- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 - [5Essentials Survey measures predicted school improvement in both high- and low-poverty schools at elementary and high school levels](5essentials-predicts-improvement-high-low-poverty.md) — a broader claim this one bears on

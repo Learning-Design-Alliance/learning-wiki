@@ -46,7 +46,7 @@ Testimony of Phyllis Rosser at the 1987 hearing reporting 1985 SAT score average
 The entry reports one year of score averages for one group (Black test-takers) from a witness's testimony; the general statement about all minority females is the witness's, and no figures for other groups are recorded here. Score gaps alone do not show that the test, rather than unequal preparation or schooling, produces them.
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [Congressional hearing testimony reports, citing a 1979 ETS study second-hand, that females tend to do better on test items with female or neutral figures than on items with male figures](male-oriented-item-content-biases-test-scores.md) — related

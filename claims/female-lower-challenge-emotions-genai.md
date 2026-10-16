@@ -43,7 +43,7 @@ Secondary covariate finding from the mediation model; the article reports the di
 
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - Male students are significantly more work-avoidant than female students in the project-based course, with no gender differences on the other measures — related

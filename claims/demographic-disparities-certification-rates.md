@@ -43,7 +43,7 @@ Regression analysis of district-level TEA and federal data (2023–24 and 2024�
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [Access to restorative practices is inequitable: schools with more Black and economically disadvantaged students show lower restorative practice utilization](inequitable-access-restorative-practices.md) — related

@@ -44,7 +44,7 @@ From the same multilevel regression model (Model 1, N = 2,225 after exclusions, 
 
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [Teacher characteristics from the will-skill-tool model — data literacy, availability of data technologies, and positive beliefs — predict teachers' pedagogical use of digital data, with data literacy the strongest predictor](wst-characteristics-predict-teacher-digital-data-use.md) — related

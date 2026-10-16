@@ -58,7 +58,7 @@ Testimony of Phyllis Rosser, a consultant on sex bias in testing, at the April 2
 ## Discussion
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 

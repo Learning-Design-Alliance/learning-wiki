@@ -44,7 +44,7 @@ Theoretical argument in the development section of Sternberg's chapter, which li
 
 
 ## Learner Variables
-- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — outcome: instruction changes it
+- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — outcome: instruction changes reported style
 
 ## Related Claims
 - [Schools overwhelmingly reward executive styles and confuse style with level of intellect](schools-reward-executive-styles.md) — related

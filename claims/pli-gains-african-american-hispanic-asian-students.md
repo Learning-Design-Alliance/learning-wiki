@@ -43,7 +43,7 @@ Analysis of spring 2018 SBAC ELA and math scores for elementary students by ethn
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 - [PLI students digitally collaborated significantly more than non-PLI students with the same technology access, and digital collaboration had a small significant association with SBAC scores](pli-digital-collaboration-associated-with-scores.md) — related

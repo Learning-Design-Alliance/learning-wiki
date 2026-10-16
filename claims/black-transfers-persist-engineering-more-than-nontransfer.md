@@ -43,7 +43,7 @@ The authors report, from their own earlier longitudinal study of engineering stu
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 - [Black students in engineering are more likely to transfer from other four-year institutions than from two-year institutions](black-engineering-students-transfer-more-from-four-year.md) — related

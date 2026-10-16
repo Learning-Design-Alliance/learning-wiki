@@ -62,7 +62,7 @@ Same HLM analysis of college enrollment for all students (n = 867 ISHS / 1,997 c
 
 
 ## Learner Variables
-- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 - [Attending an inclusive STEM high school nearly triples the odds of declaring a Core STEM major at a four-year college two years after high school graduation](ishs-triples-odds-four-year-stem-major.md) — related

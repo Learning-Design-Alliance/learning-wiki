@@ -42,8 +42,8 @@ Subgroup propensity score-weighted HLM analyses of Texas records (Hispanic n = 5
 ## Discussion
 
 ## Learner Variables
-- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
-- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs by group
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 

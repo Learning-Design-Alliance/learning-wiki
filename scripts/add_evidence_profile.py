@@ -37,7 +37,7 @@ import okf_lib  # noqa: E402
 
 SUMMARY_RE = re.compile(r"^>\s*\*\*Evidence\*\*\s*·.*$")
 BANNER_RE = re.compile(r"^>\s*\*\*[^*]+\*\*\s*·\s*\[[^\]]*\]\(index\.md\)\s*$")
-_POL = r"\d+ (?:for|mixed|against|unmarked)"
+_POL = r"\d+ (?:for|mixed|against|unmarked|show a difference|no difference)"
 _KIND = r"\d+ (?:" + "|".join(re.escape(k) for k in okf_lib.EVIDENCE_KINDS) + r")"
 GENERATED_RE = re.compile(
     r"^> \*\*Evidence\*\* · (?:no claims cited|\d+ claims? \(" + _POL + r"(?:, " + _POL + r")*\)"
@@ -91,7 +91,7 @@ def main() -> None:
         for path in sorted((WIKI_ROOT / kind).glob("*.md")):
             if path.stem == "index":
                 continue
-            want = er.profile_line(er.page_profile(cites.get((kind, path.stem), []), claims))
+            want = er.profile_line(er.page_profile(cites.get((kind, path.stem), []), claims), kind)
             if not GENERATED_RE.match(want):   # the grammar and the writer must agree
                 raise SystemExit(f"profile_line produced a line outside GENERATED_RE: {want}")
             action, detail = process(path, want, args.apply)

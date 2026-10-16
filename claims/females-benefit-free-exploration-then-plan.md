@@ -63,7 +63,7 @@ Descriptive result from Table 1 (female formatted-to-unformatted group: posttest
 ## Discussion
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 

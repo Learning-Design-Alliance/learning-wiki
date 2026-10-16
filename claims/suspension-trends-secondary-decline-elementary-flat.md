@@ -63,7 +63,7 @@ District trend analysis identifying the largest increases in secondary out-of-sc
 
 ## Learner Variables
 - [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [Secondary students lose instruction due to out-of-school suspensions at more than five times the rate of elementary students (37 vs. 7 days per 100 enrolled)](secondary-suspension-lost-instruction-five-times-elementary.md) — related

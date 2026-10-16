@@ -43,7 +43,7 @@ Analysis of CPS student record files, fall semester 1999 (Figure 15), computing 
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [African-American and Asian students are more likely than Latino and white students to live within multiple magnet neighborhood zones](multiple-magnet-zone-access-varies-by-ethnicity.md) — related

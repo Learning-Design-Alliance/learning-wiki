@@ -43,7 +43,7 @@ Subset analysis of program completers whose records could be linked to demograph
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [Elementary candidates have lower TPA passing rates than secondary and special education candidates, possibly due to added assessment complexity](elementary-candidates-lower-tpa-passing-rates.md) — related

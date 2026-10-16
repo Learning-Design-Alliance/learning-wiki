@@ -43,7 +43,7 @@ Findings section of the brief, from the observational CPS analysis: within-censu
 
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [Students in census tracts with unaffordable housing, low home ownership, or little green space have higher odds of grade retention, even with similar achievement](neighborhood-disadvantage-higher-retention-odds.md) — related

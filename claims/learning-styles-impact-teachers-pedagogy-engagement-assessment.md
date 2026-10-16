@@ -43,7 +43,7 @@ The abstract states that "The paper illustrates the impact of LS on teachers, pe
 
 
 ## Learner Variables
-- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — predictor: learners who differ on it differ in outcomes
+- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — predictor: learners reporting different styles differed here; not a test of matching instruction to style
 
 ## Related Claims
 - [The literature contains a gap regarding the development of assessments based on learning styles](learning-styles-assessment-development-gap.md) — related

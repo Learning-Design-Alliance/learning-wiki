@@ -42,7 +42,7 @@ Supplemental subgroup analysis from the 2013 Denver RCT; only four grade-by-demo
 ## Discussion
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 

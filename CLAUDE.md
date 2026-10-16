@@ -210,6 +210,14 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   dimensions reach the research only through those pages. The model names the role (predictor,
   moderator, outcome) and a marker capped at the claim's evidence; the claim gets a
   `## Learner Variables` section.
+- **Group categories are never written as causes** (maintainer, 2026-10-16: "race is not a contributor to
+  learning outcomes but does correlate with other factors"). On `race-and-ethnicity`, `gender` and
+  `socioeconomic-status`, a claim is linked as "outcomes differ by group: a gap reflecting circumstances and
+  treatment, not a cause" (`link_learner_variables.ROLE_TEXT_BY_VARIABLE`), and each page opens with a
+  *How to read this page* statement saying so. Learning-variable headers count "show a difference / mixed /
+  no difference", never "for / against" (`evidence_rollup.POLARITY_LABELS`). `learning-style-preferences`
+  opens with its bottom line: matching instruction to style is not supported; single studies listed there
+  are not tests of matching.
 - **The coded evidence cells are committed** (`eval/runs/evidence-axes/cells.ndjson` and
   `cells-contrasts.json`; maintainer, 2026-10-13), the one folder under `eval/runs/` that is: every
   evidence map and report reads them, and the ignored store vanished with each container.

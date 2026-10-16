@@ -43,7 +43,7 @@ Descriptive analysis of 2015–16 CRDC data by school locale, shown in Figure 4.
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [In 2016, 17.2% of teachers in high student of color enrollment schools were in their first or second year, compared to 9.1% in low-enrollment schools, and the gap widened from 2014 to 2016](inexperienced-teacher-gap-high-student-of-color-schools.md) — a narrower finding that bears on this claim

@@ -63,7 +63,7 @@ From the strong girls section: in the one group where boys did not dominate the 
 
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [Pragmatic values of keeping order counteracted the democratic values teachers were mandated to realise](pragmatic-values-counteract-democratic-values.md) — related

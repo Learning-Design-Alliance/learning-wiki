@@ -61,7 +61,7 @@ Simple-effects analysis within the 123-participant experiment. Female agency was
 ## Discussion
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 

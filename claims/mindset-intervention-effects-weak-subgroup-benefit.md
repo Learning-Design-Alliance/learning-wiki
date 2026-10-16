@@ -42,7 +42,7 @@ Second meta-analysis of mind-set interventions (k = 43 effect sizes, N = 57,155)
 ## Discussion
 
 ## Learner Variables
-- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 

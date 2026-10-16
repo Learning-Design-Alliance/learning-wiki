@@ -42,7 +42,7 @@ Observational comparison of course completion data across fall 2019 (N = 102) an
 ## Discussion
 
 ## Learner Variables
-- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 

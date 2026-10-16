@@ -44,7 +44,7 @@ Longitudinal analysis of Teacher Follow-Up Survey migration and attrition data a
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [Less positive school organizational conditions account for the higher minority teacher turnover rate; once conditions are controlled, the minority-nonminority turnover difference becomes statistically insignificant](organizational-conditions-account-for-minority-turnover-gap.md) — related

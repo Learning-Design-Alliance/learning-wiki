@@ -43,7 +43,7 @@ Analysis of pacing trajectories by school racial composition categories shown in
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [High-poverty Chicago schools show instructional pacing that flattens out around fourth grade, while mixed-income schools keep pace with ITBS norms](high-poverty-schools-pacing-flattens-fourth-grade.md) — related

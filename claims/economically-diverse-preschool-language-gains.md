@@ -43,7 +43,7 @@ The report describes a small study comparing language growth of 3- to 6-year-old
 
 
 ## Learner Variables
-- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [Children's language and math outcomes improve as average classroom income and socioeconomic diversity increase](classroom-income-composition-language-math.md) — related

@@ -42,7 +42,7 @@ IPD meta-analysis of failure/passing-rate data from 26 studies (44,606 students,
 ## Discussion
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 

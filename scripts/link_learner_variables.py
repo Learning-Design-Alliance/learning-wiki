@@ -93,6 +93,25 @@ SYNONYMS = {
 ROLE_TEXT = {"predictor": "learners who differ on it differ in outcomes",
              "moderator": "an instructional effect differs with it",
              "outcome": "instruction changes it"}
+# Group categories are not causes. A gap between racial groups, genders or income groups records the
+# circumstances and treatment that go with membership (school funding, teacher assignment, tracking,
+# discrimination, stereotypes, poverty), not something about the learners; the default wording read
+# as if the category itself drove outcomes (maintainer, 2026-10-16). Learning-style claims are
+# worded so a single study is not read as support for matching instruction to style.
+ROLE_TEXT_BY_VARIABLE = {
+    **{v: {"predictor": "outcomes differ by group: a gap reflecting circumstances and treatment, not a cause",
+           "moderator": "an instructional effect differs by group",
+           "outcome": "instruction changes the gap"}
+       for v in ("race-and-ethnicity", "gender", "socioeconomic-status")},
+    "learning-style-preferences": {
+        "predictor": "learners reporting different styles differed here; not a test of matching instruction to style",
+        "moderator": "an effect differed by reported style in this study; matching to style is not supported overall",
+        "outcome": "instruction changes reported style"},
+}
+
+
+def role_text(variable: str, role: str) -> str:
+    return ROLE_TEXT_BY_VARIABLE.get(variable, ROLE_TEXT)[role]
 
 PROMPT = """A learning-design wiki has one page per learner characteristic. Designers reach the research
 on a characteristic through that page, so it should link every claim that reports a finding about it.
@@ -226,7 +245,7 @@ def apply(links: list, vars_: dict) -> dict:
         by_claim.setdefault(l["claim"], []).append(l)
     for slug, ls in by_var.items():
         path = FOLDER / f"{slug}.md"
-        lines = [f"- [{l['title']}](../claims/{l['claim']}.md) [{l['marker']}] — {ROLE_TEXT[l['role']]}"
+        lines = [f"- [{l['title']}](../claims/{l['claim']}.md) [{l['marker']}] — {role_text(l['variable'], l['role'])}"
                  for l in sorted(ls, key=lambda x: x["title"].lower())]
         text = path.read_text(encoding="utf-8")
         path.write_text(add_lines(text, "## Claims", lines, ("## Related Learner Variables", "## Examples",
@@ -234,7 +253,7 @@ def apply(links: list, vars_: dict) -> dict:
     for claim, ls in by_claim.items():
         path = WIKI_ROOT / "claims" / f"{claim}.md"
         lines = [f"- [{vars_[l['variable']]['title']}](../learner-variables/{l['variable']}.md) — "
-                 f"{l['role']}: {ROLE_TEXT[l['role']]}" for l in ls]
+                 f"{l['role']}: {role_text(l['variable'], l['role'])}" for l in ls]
         text = path.read_text(encoding="utf-8")
         path.write_text(add_lines(text, "## Learner Variables", lines, ("## Related Claims",)), encoding="utf-8")
     return {"variable_pages": len(by_var), "claim_pages": len(by_claim), "links": len(links)}

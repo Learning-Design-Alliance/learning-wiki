@@ -43,7 +43,7 @@ Subgroup analysis of prediction accuracy across SDP schools grouped by student c
 
 
 ## Learner Variables
-- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 - [Four statistical techniques for predicting school-by-grade fall enrollment in SDP differ little in accuracy, with predicted cohort size off by roughly six students across all methods](sdp-enrollment-prediction-methods-similar-accuracy.md) — possibly the same claim (merge candidate)

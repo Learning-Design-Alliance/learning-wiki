@@ -12,7 +12,7 @@ generated:
 # Mindset
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 19 claims (10 for, 6 mixed, 3 against) · 12 studies (4 review, 4 associational, 2 causal, 1 quant-synthesis, 1 theoretical), `q2`–`q4` · 2 of 12 report an effect size · 18 claims rest on one study
+> **Evidence** · 19 claims (10 show a difference, 6 mixed, 3 no difference) · 12 studies (4 review, 4 associational, 2 causal, 1 quant-synthesis, 1 theoretical), `q2`–`q4` · 2 of 12 report an effect size · 18 claims rest on one study
 
 ## Description
 Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset holds that ability is set, a growth mindset that it can be developed. It is measured with short self-report scales. Research tests it as a predictor of achievement, as a moderator, and above all as an outcome of brief growth-mindset interventions. Large preregistered trials and meta-analyses find that the average effect of those interventions on achievement is small and concentrated in lower-achieving students in supportive settings, and that the correlation between mindset and achievement is weak.

@@ -44,7 +44,7 @@ Narrative review attributing this to Moschkovich's (1996) analysis of how Latino
 
 ## Learner Variables
 - [Domain Context](../learner-variables/domain-context.md) — predictor: learners who differ on it differ in outcomes
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - Colonization-introduced formal education creates greater discontinuities with informal education than evolved systems — related

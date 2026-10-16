@@ -41,7 +41,7 @@ Spearman rank-order correlations between preference (five-point scale from Text 
 
 
 ## Learner Variables
-- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — predictor: learners who differ on it differ in outcomes
+- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — predictor: learners reporting different styles differed here; not a test of matching instruction to style
 
 ## Related Claims
 - [Unedited voice prompts have lower odds of first-attempt success than text prompts on two of three Prompt Problems](unedited-voice-lower-first-attempt-success.md) — related

@@ -44,7 +44,7 @@ Pre–post OLS by gender (Table 3) on npost = 136 students. Female career-intere
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
-- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
 - [Interest](../learner-variables/interest.md) — outcome: instruction changes it
 
 ## Related Claims

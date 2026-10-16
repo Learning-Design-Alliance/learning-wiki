@@ -74,7 +74,7 @@ The report explains the mechanism: direct questioning "contradicts a norm of all
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [Teachers of AI/AN students use collaborative response formats such as white boards and choral response rather than direct individual questioning, as culturally appropriate alternatives](collaborative-response-formats-ai-an-classrooms.md) — related
