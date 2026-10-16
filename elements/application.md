@@ -57,6 +57,12 @@ Application is where learning consolidates: retrieval and use of knowledge in co
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Instruction organized to promote authentic intellectual work was associated with more complex student thinking and greater standardized test gains](../claims/authentic-intellectual-work-complex-thinking-gains.md) [+W]
 
+## The evidence by question
+
+- *Does organising training around whole tasks (4C/ID) produce better learning and transfer than lectures or part- and topic-centred instruction?* [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+W]
+- *How much guidance do novices need inside a problem-centred design?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~S]
+- *Does making the assessed task closer to real practice help learners carry the capability into that practice?* [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](../claims/contextualized-teaching-facilitates-transfer.md) [+M]
+
 ## Related Elements
 - [Practice](practice.md) — application at scale; repeated, spaced, and varied application constitutes practice
 - [Coaching](coaching.md) — supplies the feedback loop that makes application corrective rather than self-reinforcing of errors

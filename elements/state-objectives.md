@@ -67,6 +67,10 @@ Stated objectives improve learning primarily by directing attention and supporti
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - 
 
+## The evidence by question
+
+- *Does making the intended learning explicit to learners help them, and do learners register when it is missing?* [Developing a common understanding of expected learning helps all students succeed, not only those with school-aligned prior knowledge](../claims/shared-understanding-expected-learning-helps-all-students.md) [+W]
+
 ## Related Elements
 
 - [Learning Outcomes](learning-outcomes.md) — the formal, curriculum-level statements from which episode-level objectives are drawn

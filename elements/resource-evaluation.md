@@ -61,6 +61,10 @@ Resource evaluation works when learners actively apply criteria to real, contras
 - [College students' scores on an online source credibility assessment improved significantly after four course-embedded modules in an asynchronous nutrition course](../claims/course-embedded-modules-improve-credibility-scores.md) [+M] — attached 2026-10-15 from Breakstone et al. (2021), which proposed "Four one-hour course-embedded modules teaching fact checkers' evaluation strategies in an asynchronous nutrition course"; tests this page's relationship.
 - [After the modules, students engaged in lateral reading far more often, rising from 3 of 87 students at pretest to 67 of 87 at posttest](../claims/lateral-reading-increased-post-intervention.md) [+M] — attached 2026-10-15 from Breakstone et al. (2021), which proposed "Four one-hour course-embedded modules teaching fact checkers' evaluation strategies in an asynchronous nutrition course"; tests this page's relationship.
 
+## The evidence by question
+- *Does teaching learners how to check a source improve their judgments of unfamiliar sources, and how much can one session do?* [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]
+- *Do learners check information from a generative AI the way they check sources found by search?* [ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users](../claims/chatgpt-reduced-differentiation-verification.md) [+M]
+
 ## Related Elements
 - [Research](research.md) — evaluation is the filtering stage within a research cycle
 - [Criteria Development](criteria-development.md) — co-constructing rubrics makes evaluation criteria explicit and owned by learners

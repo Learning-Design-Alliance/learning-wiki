@@ -59,6 +59,11 @@ Transfer tasks are the primary way to verify and build far transfer, since perfo
 - [Teachers designed tasks with dilemmas, unfamiliar scenarios, and differentiation intended to support transfer, without assessing capability](../claims/capability-oriented-design-dimension.md) [~W]
 - [Proposition 4: evidence gathered through distinct demands supports capability claims better than multiple records of the same performance](../claims/proposition-4-distinct-evidence-demands.md) [~W]
 
+## The evidence by question
+
+- *Does learning across varied contexts or varied tasks of a type, rather than repeating one, produce transfer to new cases?* [Encoding variability across varied example contexts produces decontextualization supporting transfer (review reports DiVesta and Peverly)](../claims/encoding-variability-decontextualization-transfer.md) [+M]
+- *Does instruction that raises near transfer also raise far transfer to a different domain or form?* [Learning techniques have much smaller effects on deep learning and far transfer than on surface learning and near transfer](../claims/learning-techniques-smaller-effects-on-deep-learning-and-far-transfer.md) [~M]
+
 ## Related Elements
 - [Practice](practice.md) — transfer tasks are the most demanding form of practice; they follow, not replace, skill-building practice
 - [Case Studies](case-studies.md) — multiple cases with shared structure are the raw material for building transferable schemas

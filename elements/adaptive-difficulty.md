@@ -58,6 +58,11 @@ Adaptive difficulty adjusts task challenge in response to learner performance so
 - [A proposed effort-guided adaptive test alleviates item difficulty mistargeting caused by unmotivated test taking, as shown by simulation](../claims/effort-guided-adaptive-test-alleviates-mistargeting.md) [~W]
 - [Performance is best at moderate difficulty granularity and a limited recent window for domain transitions](../claims/moderate-difficulty-granularity-window-optimal.md) [~W]
 
+## The evidence by question
+
+- *Does adaptive instruction raise achievement over non-individualised instruction or the same content in a fixed sequence?* [Intelligent tutoring systems improve achievement over non-individualised instruction](../claims/adaptive-learning-improves-outcomes.md) [+S]
+- *Does raising the challenge of tasks help learners only when support comes with it?* [Instruction must be challenging for learning gains, but raising challenge without classroom control and student support harms grades and engagement](../claims/challenge-requires-control-and-support.md) [+M]
+
 ## Related Elements
 - [Adaptive Mastery Learning](adaptive-mastery-learning.md)
 - [Mastery Progression](mastery-progression.md)

@@ -56,6 +56,11 @@ Scaffolded inquiry resolves the central tension of inquiry learning: open explor
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - 
 
+## The evidence by question
+- *Does adding guidance to inquiry improve what learners learn, and does the kind of guidance matter?* [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](../claims/guidance-improves-inquiry-learning-outcomes.md) [+M]
+- *Should novices be left to discover the target content without support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
+- *Should support be withdrawn, and in what order?* [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S]
+
 ## Related Elements
 - [Guided Discovery](guided-discovery.md) — the intermediate phase; scaffolded inquiry extends guided discovery toward full independence
 - [Coaching](coaching.md) — the instructor stance during the middle phases, providing hints and feedback as learners work

@@ -103,6 +103,11 @@ The pattern is useful when instructors want inquiry without abandoning structure
 - Instructors can vary the amount of structure in the prompts depending on learner readiness.
 - Application tasks can be tuned for different pacing or complexity levels.
 
+## The evidence by question
+
+- *Does adding guidance to inquiry improve what learners learn, and does the kind of guidance matter?* [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](../claims/guidance-improves-inquiry-learning-outcomes.md) [+M]
+- *Does inquiry-based teaching raise science achievement over the usual instruction?* [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+S]
+
 ## Related Patterns
 - [Guided Discovery Learning](../principles/inquiry-based-learning.md)
 

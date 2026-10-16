@@ -73,6 +73,12 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [Time students spend on math test questions is studied as a potential source of information about motivation and self-efficacy](../claims/math-response-times-motivation-self-efficacy.md) [~W]
 - [Agriculture teachers' self-efficacy is positively related to career persistence indicators such as career commitment and job satisfaction](../claims/self-efficacy-positive-career-persistence-agriculture-teachers.md) [+W]
 
+## The evidence by question
+
+- *Which instruction raises learners' self-efficacy: close goals, feedback on progress, guided practice?* [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](../claims/proximal-goals-feedback-peer-models-build-learning-efficacy.md) [+M]
+- *Does a gain in reported confidence mean a gain in skill?* [Self-efficacy judgments correspond less well to behavior in learning settings than in performance settings](../claims/self-efficacy-accuracy-lower-in-learning-settings.md) [~M]
+- *Does a learner's belief that they can succeed at a task predict whether they start and persist, and which goals and feedback raise it?* [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
+
 ## Related Elements
 - [Demonstration](demonstration.md) — provides vicarious mastery experiences; near-peer models are more efficacy-building than expert models
 - [Coaching](coaching.md) — delivers the process-level feedback and attributional reframing that sustain efficacy through difficulty

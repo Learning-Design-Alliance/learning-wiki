@@ -71,6 +71,10 @@ Underlining alone is one of the weakest studied techniques for durable learning;
 - [Ten-year-old readers predominantly underline subordinate passage details rather than superordinate conceptual material, even when conceptual postquestions focus attention on topic sentences](../claims/children-underline-subordinate-details-not-superordinate-material.md) [~W] — attached 2026-10-15 from Rickards et al. (1979), which proposed "Underlining and conceptual postquestion manipulation for children's text study (Rickards & Denner 1979 experiment)".
 - [Recall of passage details is most depressed when children receive both underlining and conceptual postquestions](../claims/underlining-plus-postquestions-most-depress-detail-recall.md) [-W] — attached 2026-10-15 from Rickards et al. (1979), which proposed "Underlining and conceptual postquestion manipulation for children's text study (Rickards & Denner 1979 experiment)".
 
+## The evidence by question
+- *Does asking learners to highlight or underline while reading improve learning over reading alone, and for which outcomes?* [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](../claims/annotating-improves-learning.md) [+S]
+- *Does it matter what is marked, and who marks it (learner or instructor)?* [Relevancy of emphasized text directs attention and influences test performance](../claims/relevancy-of-emphasis-directs-attention.md) [+M]
+
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — provide the relevance framework novices need before marking selectively
 - [Summarization](../strategies/summarizing.md) — the natural next step; annotations become the raw material for summaries

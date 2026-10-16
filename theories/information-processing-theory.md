@@ -70,6 +70,10 @@ Information processing models are often criticized as overly linear and serial, 
 - [Similarity-based retrieval degrades as the Knowledge Base grows, consistent with the fan effect, stalling the agent](../claims/fan-effect-kb-growth-retrieval-degradation.md) [~W]
 - [Evidence on working memory capacity as a moderator of the interleaving effect is mixed, but WM does not appear to be a major barrier to classroom use](../claims/working-memory-mixed-moderator-interleaving.md) [~W] — attached 2026-10-13 from Jonathan Firth et al. (2021), which proposed "Attentional accounts of the interleaving effect: attention attenuation and attentional bias".
 
+## The evidence by question
+- *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]
+- *Does removing avoidable processing from a presentation improve learning?* [Cognitive Overload Degrades Learning](../claims/cognitive-overload-degrades-learning.md) [+S]
+
 ## Related Theories
 
 - [Cognitive Load Theory](cognitive-load-theory.md) — CLT sharpens the working-memory constraint central to information-processing approaches
