@@ -46,6 +46,95 @@ the rigour judged within that kind: <a href="../evidence-codes/">what each code 
 <blockquote>
 <p>"The analyzed studies yield mixed results when comparing GenAI and human assessment. GenAI performed worse than humans in 11 cases. In 12 instances, its effectiveness was comparable to human ratings."</p>
 </blockquote>
+<h2 id="studies-bearing-on-this-claim">Studies bearing on this claim<a class="headerlink" href="#studies-bearing-on-this-claim" title="Permanent link">&para;</a></h2>
+<!-- synthesis:start -->
+<p><em>Can a language model score learners' written constructed responses as a trained human marker would, and on which tasks?</em> This table gathers the studies behind this claim and the 16 narrower claims that bear on it: <strong>12 distinct studies</strong> (5 design, 3 associational, 2 review, 1 causal, 1 qualitative), <code>q1</code>–<code>q3</code>, 2 of 12 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by <code>scripts/synthesize_claim.py</code> from <code>eval/synthesis/</code>; a row that looks wrong is fixed on the claim it comes from.</p>
+<table>
+<thead>
+<tr>
+<th>Study</th>
+<th>Design</th>
+<th>Effect as recorded</th>
+<th>Bears on this claim through</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://doi.org/10.3390/app16020680">Marcin Jukiewicz and Michał Wyrwa 2026</a></td>
+<td>q2 / q3 · review · r3</td>
+<td>i?</td>
+<td>this claim; <a href="../prompt-rubric-quality-drives-llm-grading/">Prompt quality and detailed scoring rubrics significantly influence the accuracy and consi</a> (qualifies); <a href="../gpt4-advantage-uneven-across-tasks/">Newer LLM generations such as GPT-4 generally outperform GPT-3.5 in short-answer grading a</a> (qualifies)</td>
+</tr>
+<tr>
+<td><a href="https://doi.org/10.48550/arxiv.2603.23714">Jerin George Mathew 2026</a></td>
+<td>q2 · associational · r2</td>
+<td>i?</td>
+<td><a href="../llm-essay-scoring-weak-human-agreement/">Out-of-the-box LLMs agree with human essay grades far less than human raters agree with ea</a> (supports); <a href="../llm-overrate-short-essays-overpenalize-errors/">LLMs overrate short underdeveloped essays and over-penalize minor language errors in well-</a> (supports); <a href="../llms-weight-rubric-traits-differently/">Different LLMs rely on different subsets of rubric traits when assigning essay scores</a> (supports)</td>
+</tr>
+<tr>
+<td><a href="https://doi.org/10.48550/arxiv.2509.26483">Marcin Jukiewicz 2025</a></td>
+<td>q2 · design · r2</td>
+<td>i?</td>
+<td><a href="../llm-grading-moderate-human-agreement-icc/">Even the best LLM grader reaches only moderate agreement with human teachers, below the th</a> (supports)</td>
+</tr>
+<tr>
+<td><a href="https://doi.org/10.48550/arxiv.2609.29333">Habibullah 2026</a></td>
+<td>q2 · causal · r2</td>
+<td>i?; i2</td>
+<td><a href="../closed-llm-graders-below-human-floor/">Six closed-model configurations grade at or below the human inter-grader floor of 2.61/35 </a> (qualifies)</td>
+</tr>
+<tr>
+<td><a href="https://doi.org/10.1007/s40593-025-00517-2">Pecuchova 2025</a></td>
+<td>q2 · design · r2</td>
+<td>i?</td>
+<td><a href="../claude3-palm2-substantial-agreement-failing-grades/">Claude3 and PaLM2 show substantial agreement but fall short on identifying failing grades</a> (qualifies)</td>
+</tr>
+<tr>
+<td><a href="https://doi.org/10.1007/s44163-026-01606-4">Jan Cvengros and Gerd Kortemeyer 2026</a></td>
+<td>q2 · design · r2</td>
+<td>i?</td>
+<td><a href="../ai-total-scores-align-with-ta-grades-chemistry-exam/">AI-assigned total scores on a handwritten chemistry exam align strongly with TA-assigned t</a> (qualifies)</td>
+</tr>
+<tr>
+<td><a href="https://doi.org/10.1007/s40670-026-02638-2">Olvet DM 2026</a></td>
+<td>q2 / q3 · design · r3</td>
+<td>i?</td>
+<td><a href="../oeq-scoring-discrepancies-mostly-one-point/">Most faculty–GPT-4 scoring discrepancies were only one-point differences, shrinking across</a> (qualifies); <a href="../model-answer-in-prompt-lowered-reliability/">Adding a model answer to the GPT-4 prompt was counterproductive, lowering scoring reliabil</a> (qualifies)</td>
+</tr>
+<tr>
+<td><a href="https://doi.org/10.48550/arxiv.2608.20521">Praveen Pathak 2026</a></td>
+<td>q2 · design · r3</td>
+<td>i?</td>
+<td><a href="../revised-workflow-reduces-overawarding-mad/">The revised Round II grading workflow reduced AI over-awarding and total-score MAD, most c</a> (qualifies)</td>
+</tr>
+<tr>
+<td><a href="https://doi.org/10.48550/arxiv.2504.02323">Cohn 2026</a></td>
+<td>q1 · qualitative · r1</td>
+<td>i?</td>
+<td><a href="../llm-logical-inconsistency-scoring-feedback/">Despite generally accurate feedback, the LLM's scoring explanations could be unpredictable</a> (supports)</td>
+</tr>
+<tr>
+<td>Markus S. Feser &amp; Paul L. Tschisgale 2026</td>
+<td>q3 · associational · r2</td>
+<td>i2</td>
+<td><a href="../ai-scoring-underestimates-linguistically-weak-physics-explanations/">Lower linguistic quality of physics explanations is associated with higher odds that AI-ba</a> (supports)</td>
+</tr>
+<tr>
+<td><a href="https://doi.org/10.3389/feduc.2025.1648661">Long DY 2026</a></td>
+<td>q2 · review · r2</td>
+<td>i?</td>
+<td><a href="../gpt4-essay-score-inflation/">In one reviewed study, GPT-4 automated essay scoring showed score inflation, with AI–human</a> (supports)</td>
+</tr>
+<tr>
+<td><a href="https://doi.org/10.51388/20.500.12265/293">floden</a></td>
+<td>q2 · associational · r?</td>
+<td>i?</td>
+<td><a href="../chatgpt-grading-within-10-percent-human/">ChatGPT's exam scores were within 10% of human grades 70% of the time in a study of AI-bas</a> (qualifies)</td>
+</tr>
+</tbody>
+</table>
+<!-- synthesis:end -->
+
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
 <ul>

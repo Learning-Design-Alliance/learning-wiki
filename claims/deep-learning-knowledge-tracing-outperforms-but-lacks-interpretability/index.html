@@ -45,6 +45,89 @@ the rigour judged within that kind: <a href="../evidence-codes/">what each code 
 <blockquote>
 <p>"It is crucial to emphasize that, despite deep learning models exhibiting superior performance compared to Bayesian mod- els and logistic models, there remains significant room for improvement in their interpretability and explainability."</p>
 </blockquote>
+<h2 id="studies-bearing-on-this-claim">Studies bearing on this claim<a class="headerlink" href="#studies-bearing-on-this-claim" title="Permanent link">&para;</a></h2>
+<!-- synthesis:start -->
+<p><em>How accurately does BKT predict a learner's next answers, compared with other knowledge-tracing models, and do its assumptions and fitted parameters hold up?</em> This table gathers the studies behind this claim and the 18 narrower claims that bear on it: <strong>11 distinct studies</strong> (7 design, 1 review, 1 causal, 1 associational, 1 theoretical), <code>q1</code>–<code>q3</code>, 1 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by <code>scripts/synthesize_claim.py</code> from <code>eval/synthesis/</code>; a row that looks wrong is fixed on the claim it comes from.</p>
+<table>
+<thead>
+<tr>
+<th>Study</th>
+<th>Design</th>
+<th>Effect as recorded</th>
+<th>Bears on this claim through</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://doi.org/10.48550/arxiv.2105.15106">Shuanghong Shen 2021</a></td>
+<td>q2 · review · r2</td>
+<td>i?</td>
+<td>this claim; <a href="../no-single-knowledge-tracing-model-is-always-best/">The survey reports, citing Pavlik et al., that no single knowledge tracing model was alway</a> (qualifies); <a href="../attentive-knowledge-tracing-benefits-from-repeated-interactions/">The survey reports, citing Pu and Becker, that removing students' repeated interactions on</a> (qualifies); <a href="../xai-interpretation-of-dkt-enhances-trust/">The survey reports, citing Lu et al., that xAI-based interpretations of deep knowledge tra</a> (qualifies); <a href="../bkt-overestimates-accuracy-after-a-day-elapses/">The survey reports, citing Qiu et al., that BKT consistently overestimates the accuracy of</a> (supports)</td>
+</tr>
+<tr>
+<td><a href="https://doi.org/10.48550/arxiv.2605.04727">Jaewook Kim 2026</a></td>
+<td>q2 · causal · r2</td>
+<td>i?</td>
+<td><a href="../task-specific-hyperparameter-tuning-raises-dkt-baseline/">Task-specific hyperparameter optimization substantially raises baseline DKT performance, i</a> (qualifies)</td>
+</tr>
+<tr>
+<td><a href="https://doi.org/10.48550/arxiv.2605.01097">Shuyan Huang 2026</a></td>
+<td>q2 · design · r2</td>
+<td>i?</td>
+<td><a href="../dkt-comparable-to-complex-kt-architectures/">Among deep learning KT models, simpler DKT performs comparably to complex architectures un</a> (qualifies)</td>
+</tr>
+<tr>
+<td><a href="https://doi.org/10.48550/arxiv.2604.08263">Hooshyar 2026</a></td>
+<td>q2 · design · r2</td>
+<td>i?</td>
+<td><a href="../responsible-dkt-outperforms-baselines-predictive-accuracy/">Responsible-DKT outperforms a neural-symbolic baseline without knowledge injection and a f</a> (supports); <a href="../responsible-dkt-temporal-reliability/">Symbolic knowledge injection improves temporal reliability of predictions, yielding lower </a> (qualifies)</td>
+</tr>
+<tr>
+<td><a href="https://doi.org/10.31219/osf.io/3k7z2">Lu 2024</a></td>
+<td>q3 · design · r2</td>
+<td>i2</td>
+<td><a href="../transformer-kt-first-place-edm-cup-2023/">The proposed Transformer-based framework achieved first place in the EDM Cup 2023 with an </a> (supports)</td>
+</tr>
+<tr>
+<td><a href="https://doi.org/10.48550/arxiv.2608.24005">Haotian Zhang 2026</a></td>
+<td>q3 · design · r2</td>
+<td>i?</td>
+<td><a href="../lt-mkt-outperforms-kt-baselines-four-datasets/">LT-MKT achieves the best performance across all four datasets and all three evaluation met</a> (supports)</td>
+</tr>
+<tr>
+<td><a href="https://doi.org/10.48550/arxiv.2409.16490">Alexander Scarlatos 2024</a></td>
+<td>q2 · design · r2</td>
+<td>i?</td>
+<td><a href="../dkt-sem-outperforms-existing-kt-methods-most-with-little-training-data/">DKT-Sem, a DKT variant using semantic text embeddings, performs better than existing KT me</a> (supports); <a href="../existing-kt-methods-fail-on-small-comta-but-improve-with-more-data-on-mathdial/">Existing KT methods fail to beat a majority-class baseline on the small CoMTA dialogue dat</a> (qualifies)</td>
+</tr>
+<tr>
+<td><a href="https://doi.org/10.1007/978-3-642-13470-8_24">Pardos 2010</a></td>
+<td>q2 · design · r2</td>
+<td>i?</td>
+<td><a href="../individualizing-initial-knowledge-improves-prediction/">Individualizing the initial knowledge parameter reliably improves prediction of real-world</a> (qualifies)</td>
+</tr>
+<tr>
+<td><a href="https://doi.org/10.3389/fpsyg.2026.1905847">Wei 2026</a></td>
+<td>q2 · associational · r2</td>
+<td>i?</td>
+<td><a href="../bkt-highest-accuracy-lower-auc-than-irt/">Per-pitch BKT attains the highest accuracy, lowest BCE and lowest Brier score of the four </a> (qualifies)</td>
+</tr>
+<tr>
+<td><a href="https://doi.org/10.48550/arxiv.2605.23048">Siddhartha Pradhan 2026</a></td>
+<td>q2 · design · r2</td>
+<td>i?</td>
+<td><a href="../stanbkt-methods-comparable-predictive-performance-assistments-2020/">On the ASSISTments 2020 dataset, StanBKT inference methods achieve nearly identical predic</a> (qualifies)</td>
+</tr>
+<tr>
+<td><a href="https://doi.org/10.5281/zenodo.3554629">Brett Van de Sande 2013</a></td>
+<td>q1 / q2 · theoretical · r3</td>
+<td>i?</td>
+<td><a href="../bkt-hmm-exponential-form-questions-fitting-practice/">The exponential functional form of the BKT HMM calls into question the popular practice of</a> (qualifies); <a href="../bkt-identifiability-explained-by-parameter-a/">The identifiability problem of the BKT HMM arises because combinations of P(G) and P(L0) w</a> (qualifies); <a href="../bkt-hmm-form-is-three-parameter-exponential/">The HMM form of BKT, solved analytically, is a three-parameter exponential in opportunity </a> (qualifies)</td>
+</tr>
+</tbody>
+</table>
+<!-- synthesis:end -->
+
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
 <ul>
