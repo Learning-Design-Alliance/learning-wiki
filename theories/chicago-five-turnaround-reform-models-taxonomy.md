@@ -41,7 +41,7 @@ The report organizes Chicago's 1997-2010 district-mandated interventions into fi
 
 - [Reformed elementary schools made significant test-score improvements versus matched comparison schools, with gains growing gradually over four years](../claims/chicago-turnaround-elementary-test-score-gains-gradual.md) [+M]
 - [High schools that underwent reform showed no significant improvement in absence rates or ninth-grade on-track rates compared with matched schools](../claims/chicago-turnaround-high-schools-no-significant-gains.md) [-M]
-- [Elementary schools strong on at least three of five essential organizational elements were 10 times more likely to improve and 30 times less likely to stagnate](../claims/five-essential-elements-three-of-five-improvement-odds.md) [+W]
+- [Elementary schools strong on at least three of five essential organizational elements were 10 times more likely to improve and 30 times less likely to stagnate](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+W]
 - [Six of seven recently reformed high schools showed first-year on-track improvements above comparison schools, though evidence is limited](../claims/recent-high-school-turnarounds-on-track-improvement.md) [+W]
 - [School turnaround is a gradual process rather than an immediate event triggered by replacing staff or leadership](../claims/turnaround-is-a-process-not-an-event.md) [+W]
 - [Turnaround schools generally served the same students after reform, except Closure and Restart schools, which shifted toward more advantaged, higher-achieving students](../claims/turnaround-student-composition-stable-except-restart.md) [~M]

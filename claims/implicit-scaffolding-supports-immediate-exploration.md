@@ -43,7 +43,7 @@ Qualitative microanalysis of one think-aloud interview with a 6th-grade student,
 
 ## Related Claims
 
-- [Supplementing simulation-based inquiry with learner guidance has a modest effect on learning outcomes (d = 0.49) and inquiry skills (d = 0.41), independent of guidance type (review attribution to D'Angelo et al., 2014)](simulation-guidance-moderate-effect-dangelo.md) — the general claim this finding bears on, with the studies behind it
+- [Supplementing simulation-based inquiry with learner guidance has a modest effect on learning outcomes (d = 0.49) and inquiry skills (d = 0.41), independent of guidance type (review attribution to D'Angelo et al., 2014)](guidance-improves-inquiry-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Authors report that flexibility in sim access supports student agency while students tend to explore in a productive sequence](flexibility-supports-agency-productive-sequence.md) — a broader claim this one bears on
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — related
 - [A student used slider extremes to make qualitative comparisons of skater mass effects](slider-extremes-support-qualitative-comparisons.md) — related

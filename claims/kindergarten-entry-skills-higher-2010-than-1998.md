@@ -43,7 +43,7 @@ The article attributes this finding to two prior nationally representative studi
 
 
 ## Related Claims
-- [Inequalities at kindergarten entry by school poverty level decreased between 2010 and 2017](kindergarten-entry-school-poverty-gaps-narrowed-2010-2017.md) — related
+- [Inequalities at kindergarten entry by school poverty level decreased between 2010 and 2017](school-poverty-entry-gaps-narrowed-2010-2017.md) — related
 - [Inequalities at kindergarten entry by race/ethnicity decreased between 2010 and 2017](kindergarten-entry-racial-ethnic-gaps-narrowed-2010-2017.md) — related
 - [Kindergarteners in 2017 had moderately lower math and reading skills at school entry than kindergarteners in 2010](kindergarten-entry-skills-lower-2017-than-2010.md) — related
 - [Gaps in academic skills between children narrowed at kindergarten entry, per the article's abstract](shrinking-gaps-kindergarten-entry.md) — related

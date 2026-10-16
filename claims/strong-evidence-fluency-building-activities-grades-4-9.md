@@ -3,6 +3,7 @@ type: claim
 title: Fluency-building activities for struggling readers in grades 4–9 have strong evidence, based on 33 studies
 description: Fluency-building activities for struggling readers in grades 4–9 have strong evidence, based on 33 studies
 id: strong-evidence-fluency-building-activities-grades-4-9
+aliases: [fluency-building-activities-strong-evidence-grades-4-9]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -25,7 +26,10 @@ sources:
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 
 ## Subclaims
+
 `q3 i?` The WWC panel assigned a strong level of evidence to purposeful fluency-building activities, based on 33 studies of their effectiveness. [→ Vaughn 2022](#vaughn-2022)
+
+`q3 i?` The WWC panel assigned a strong level of evidence to purposeful fluency-building activities, based on 33 studies. [→ Vaughn 2022](#vaughn-2022)
 
 ## Evidence
 
@@ -39,6 +43,18 @@ The evidence summary for Recommendation 2 reports a strong evidence level "based
 
 > "based on 33 studies of the effectiveness of fluency-building activities."
 
+<!-- merged 2026-10-16 from fluency-building-activities-strong-evidence-grades-4-9: that page's entry for this study, which differed from the one above, kept verbatim.
+### Vaughn 2022
+
+Vaughn, S., Gersten, R., Dimino, J., Taylor, M. J., Newman-Gonchar, R., Krowka, S., Kieffer, M. J., McKeown, M., Reed, D., Sanchez, M., St. Martin, K., Wexler, J., Morgan, S., Yañez, A., & Jayanthi, M. (2022). Providing Reading Interventions for Students in Grades 4–9 (WWC 2022007). Washington, DC: National Center for Education Evaluation and Regional Assistance (NCEE), Institute of Education Sciences, U.S. Department of Education. Retrieved from https://whatworks.ed.gov/
+
+`q3 · i?` · `review · r?`
+
+Evidence rating from Recommendation 2: the panel reviewed 33 studies of fluency-building activities, of which "Nineteen of the studies meet WWC standards without reservations, and 14 studies meet WWC standards with reservations."
+
+> "The WWC and the expert panel assigned a strong level of evidence to this recom- mendation based on 33 studies of the effectiveness of fluency-building activities."
+-->
+
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
@@ -46,7 +62,7 @@ The evidence summary for Recommendation 2 reports a strong evidence level "based
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| Vaughn 2022 | q3 · quant-synthesis · r3 | i? | this claim; [Fluency-building activities improve effortless reading for students in grades 4–9, with st](fluency-building-activities-strong-evidence-grades-4-9.md) (supports) |
+| Vaughn 2022 | q3 · quant-synthesis · r3 | i? | this claim; [Fluency-building activities improve effortless reading for students in grades 4–9, with st](strong-evidence-fluency-building-activities-grades-4-9.md) (supports) |
 | [ev-1](https://doi.org/10.51388/20.500.12265/316) | q3 · review · r2 | i? | [Interventions combining repeated reading, modeled/assisted reading, and explicit feedback ](repeated-reading-modeling-feedback-outperform-control-eb-fluency.md) (supports); [The HELPS one-to-one fluency program significantly outperformed control on GORT Fluency an](helps-one-to-one-gort-fluency-comprehension-gains.md) (supports); [Two years of multicomponent fluency intervention produced greater word-reading and fluency](two-year-fluency-intervention-greater-word-reading-growth.md) (qualifies) |
 | Salarvand 2022 | q2 · review · r1 | i? | [Repeated listening improves oral reading fluency in second-grade students, with Listening ](repeated-listening-improves-oral-reading-fluency.md) (supports) |
 | What Works Clearinghouse 2014 | q3 · causal · r3 | i? | [Repeated reading shows no discernible effects on reading fluency for students with learnin](repeated-reading-no-discernible-fluency-effects.md) (counts against); [Repeated reading has potentially positive effects on reading comprehension for students wi](repeated-reading-potentially-positive-comprehension-learning-disabilities.md) (qualifies); [Repeated reading shows no discernible effects on general reading achievement for students ](repeated-reading-no-discernible-general-reading-achievement.md) (qualifies) |
@@ -56,9 +72,11 @@ The evidence summary for Recommendation 2 reports a strong evidence level "based
 ## Discussion
 
 
+
 ## Related Claims
-- [Fluency-building activities improve effortless reading for students in grades 4–9, with strong supporting evidence](fluency-building-activities-strong-evidence-grades-4-9.md) — possibly the same claim (merge candidate)
+
 - [Multisyllabic word-reading instruction for struggling readers in grades 4–9 has strong evidence, based on 32 studies](strong-evidence-multisyllabic-word-reading-instruction-grades-4-9.md) — related
 - [In the Rashotte, MacPhee, and Torgesen (2001) RCT, SpellRead™ produced statistically significant positive effects on alphabetics and reading fluency for fifth- and sixth-grade struggling readers after eight weeks](rashotte-2001-spellread-significant-gains.md) — a narrower finding that bears on this claim
 - [Corrective Reading produced statistically significant positive effects on oral reading fluency in a randomized controlled trial of third-grade struggling readers](corrective-reading-significant-fluency-effect.md) — a narrower finding that bears on this claim
 - [Sound Partners tutoring has positive effects on reading fluency of beginning readers](sound-partners-positive-effects-fluency.md) — a narrower finding that bears on this claim
+- [Practice making sense of stretch text has moderate evidence, based on 15 studies](moderate-evidence-stretch-text-practice-grades-4-9.md) — related

@@ -41,8 +41,7 @@ A short NWEA research brief titled "English Language Learners, self-efficacy, an
 ## Claims
 
 - [A companion working paper examines the relationship between academic and social-emotional growth for English Language Learners](../claims/ell-working-paper-academic-and-social-emotional-growth.md) [+W]
-- [Self-efficacy is related to the achievement gap for English Language Learners](../claims/self-efficacy-related-ell-achievement-gap.md) [+W]
-- [Self-efficacy is related to the persistence of achievement gaps for English Language Learners](../claims/self-efficacy-related-to-persistence-of-ell-achievement-gaps.md) [+W]
+- [Self-efficacy is related to the achievement gap for English Language Learners](../claims/self-efficacy-related-to-persistence-of-ell-achievement-gaps.md) [+W]
 
 ## Related Elements
 

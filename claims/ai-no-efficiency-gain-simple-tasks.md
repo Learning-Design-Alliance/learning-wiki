@@ -67,7 +67,6 @@ Study 1 (N=498) recorded hidden-timer completion times and NASA-TLX effort per t
 ## Related Claims
 - [People significantly underestimate AI-assisted completion times even though actual AI-assisted and independent completion times do not differ (the speedup illusion)](speedup-illusion-ai-assisted-time-underestimation.md) — related
 - [AI assistance sped up only difficult tasks and only a few individual tasks, not easy ones](ai-speedup-limited-to-difficult-tasks.md) — related
-- [People overestimate how much time AI assistance saves (speedup illusion), driven by miscalibration about AI-assisted completion time while independent completion time is well calibrated](speedup-illusion-ai-time-savings.md) — related
 - [Prior AI use carries over: brief AI exposure increases subsequent AI adoption and exacerbates the speedup illusion, while independent exposure does not reduce AI use](ai-exposure-carryover-effect.md) — related
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
 - [Chat-log analysis indicates lower-education participants obtain substantial assistance from AI while higher-education participants use the tool somewhat more effectively across several margins, explaining why the gap narrows but does not disappear](chat-logs-explain-gap-narrows-but-persists.md) — related

@@ -20,7 +20,7 @@ sources:
 # CCT shows no significant effects on executive functions or attention in healthy older adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i0` negligible
 
 ## Subclaims
 `q4 i0` Executive functions (g = 0.09, p = 0.096) and attention (g = 0.24, p = 0.06) showed non-significant effects despite adequately powered analyses. [→ Lampit A 2014](#lampit-a-2014)

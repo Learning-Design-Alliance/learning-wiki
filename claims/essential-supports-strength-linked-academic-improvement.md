@@ -43,12 +43,10 @@ The report summarizes prior Consortium research on Chicago public schools since 
 
 
 ## Related Claims
-- [Chicago elementary schools strong in most essential supports were at least ten times more likely than weak-support schools to show substantial gains in both reading and mathematics](strong-essential-supports-ten-times-more-likely-substantial-gains.md) — a narrower finding that bears on this claim
-- [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](schools-strong-three-plus-supports-ten-times-more-likely-improve.md) — a narrower finding that bears on this claim
+- [Chicago elementary schools strong in most essential supports were at least ten times more likely than weak-support schools to show substantial gains in both reading and mathematics](schools-strong-three-plus-supports-ten-times-more-likely-improve.md) — a narrower finding that bears on this claim
 - [Schools weak in most essential supports were four to five times more likely to stagnate than schools with strong overall organizational capacity](weak-essential-supports-four-to-five-times-stagnation.md) — related
 - [Schools with strong essential supports were more likely to sit in communities with strong social capital, low crime, and low density of abused or neglected children](strong-supports-linked-community-social-capital-low-crime.md) — related
 - [Ninety-five Chicago elementary schools showed substantial improvement in academic productivity, accumulating an extra half year of learning in reading and over 1.25 years in mathematics over eight grades](95-improving-schools-extra-half-year-reading-1-25-math.md) — related
 - [Fewer than 10 percent of elementary schools with a sustained weakness in one essential support showed improvements in student outcomes (attributed to Bryk et al., 2010)](sustained-weakness-one-support-few-improve.md) — related
-- [Elementary schools strong on at least three of five essential organizational elements were 10 times more likely to improve and 30 times less likely to stagnate](five-essential-elements-three-of-five-improvement-odds.md) — a narrower finding that bears on this claim
 - [Chicago students gain most in achievement when strong academic press and strong social support occur together, and learn less when either is strong and the other weak](press-plus-support-combined-gains.md) — a narrower finding that bears on this claim
 - Schools strong in five essential supports were at least ten times more likely to show substantial reading and math gains — a narrower finding that bears on this claim

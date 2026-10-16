@@ -41,7 +41,7 @@ The primer organizes inclusive collaborative learning around four defined terms.
 - [Belonging Prerequisite For Collaborative Learning](../claims/belonging-prerequisite-for-collaborative-learning.md) [+M]
 - [Belongingness is among the factors that most strongly and reliably affect learners' academic motivation and achievement](../claims/belongingness-strongly-affects-motivation-achievement.md) [+W]
 - [Stereotype threat in collaborative contexts can interfere with working memory and reduce meaningful contribution](../claims/stereotype-threat-undermines-collaborative-contribution.md) [+W]
-- [Teacher support is one of the strongest predictors of student belonging](../claims/teacher-support-predicts-student-belonging.md) [+W]
+- [Teacher support is one of the strongest predictors of student belonging](../claims/teacher-support-strongest-predictor-school-belonging.md) [+W]
 
 ## Related Theories
 

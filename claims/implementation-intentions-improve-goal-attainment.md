@@ -2,6 +2,7 @@
 type: claim
 title: Forming implementation intentions (if-then plans) improves goal attainment
 id: implementation-intentions-improve-goal-attainment
+aliases: [implementation-intentions-d65-goal-attainment-meta-analysis]
 description: Adding an if-then plan that says when, where and how to act to a goal intention raises goal attainment, with a medium-to-large pooled effect across 94 tests; in online courses a brief planning activity raised completion only for some learners.
 status: review
 generated:
@@ -44,6 +45,8 @@ plan, not only the strength of the goal, raises the chance that the goal is reac
 
 `q3 i?` In two randomized field experiments in online courses (n = 17,963), a brief writing activity combining mental contrasting with implementation intentions made learners in individualist cultures 32% (first experiment) and 15% (second experiment) more likely to complete the course, and left learners in collectivist cultures unaffected. [→ Kizilcec & Cohen 2017](#kizilcec-cohen-2017)
 
+`q4 i2` Across 94 independent tests, implementation intentions had a positive effect of medium-to-large magnitude (d = .65) on goal attainment. [→ Gollwitzer 2006](#gollwitzer-sheeran-2006)
+
 ## Evidence
 
 ### Gollwitzer & Sheeran 2006
@@ -55,6 +58,18 @@ Gollwitzer, P. M., & Sheeran, P. (2006). Implementation Intentions and Goal Achi
 A meta-analysis of 94 independent tests from 63 reports (searches covering January 1990 to December 2003, plus unpublished studies requested from authors) compared people who formed an if-then plan with people who held only the goal intention. The overall effect was d = .65, and effects were heterogeneous, Q(93) = 173.46. Most tests sampled university students (k = 79, d = .65); effects were similar for correlational and experimental designs (d = .70 and .65), for self-report and objective outcomes (d = .63 and .67) and for published and unpublished tests (d = .65 and .67), and were medium or large in every goal domain examined, including academic achievement (d = .72). Read in full, as a scanned PDF from the University of Konstanz repository (KOPS).
 
 > "The overall impact of forming implementation intentions on goal achievement was d = .65 based on k = 94 tests that involved 8461 participants."
+
+<!-- merged 2026-10-16 from implementation-intentions-d65-goal-attainment-meta-analysis: that page's entry for this study, which differed from the one above, kept verbatim.
+### Gollwitzer 2006
+
+Gollwitzer, Peter M., Sheeran, Paschal. (2006). Implementation intentions and goal achievement: a meta-analysis of effects and processes. Advances in Experimental Social Psychology, 38, 69-119. https://nbn-resolving.de/urn:nbn:de:bsz:352-opus-56534. [doi:10.1016/s0065-2601(06)38002-1](https://doi.org/10.1016/s0065-2601(06)38002-1)
+
+`q4 · i2` · `quant-synthesis · r2`
+
+The article's meta-analysis of 94 independent tests reports that "implementation intentions had a positive effect of medium-to-large magnitude (d= .65) on goal attainment." The pooled effect size d = .65 is as printed in the abstract.
+
+> "Findings from 94 independent tests showed that implementation intentions had a positive effect of medium-to-large magnitude (d= .65) on goal attainment."
+-->
 
 ### Kizilcec & Cohen 2017
 
@@ -103,4 +118,4 @@ performance](goal-setting-improves-performance.md).
 - [A single Tipping Point explains dropout patterns in only about a quarter of online courses, so lesson-level dropout behavior is more complex than one critical lesson](tipping-point-hypothesis-insufficient-online-dropout.md) — related: online course dropout
 - [Mental contrasting with implementation intentions](../strategies/mental-contrasting-with-implementation-intentions.md) — the strategy the online experiments tested
 - [Youth most positively reported Project With's impact on goal setting, with 81 percent saying it made them more likely to make plans to reach their goals](project-with-perceived-impact-goal-setting.md) — a narrower finding that bears on this claim
-- [Forming implementation intentions produces a medium-to-large positive effect (d = .65) on goal attainment across 94 independent tests](implementation-intentions-d65-goal-attainment-meta-analysis.md) — possibly the same claim (merge candidate)
+- [Achievement effects of group-based mastery learning are larger for elementary students than for high school or college students](mastery-effects-larger-elementary.md) — related

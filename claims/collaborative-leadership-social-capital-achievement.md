@@ -63,4 +63,4 @@ A mechanism statement from the same synthesis finding: the review reports, with 
 
 ## Related Claims
 - [The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration](principal-role-expanded-beyond-administrative-oversight.md) — related
-- [Teacher support is one of the strongest predictors of student belonging](teacher-support-predicts-student-belonging.md) — related
+- [Teacher support is one of the strongest predictors of student belonging](teacher-support-strongest-predictor-school-belonging.md) — related

@@ -71,7 +71,7 @@ The agenda further reports, citing Hart et al. (2020) and Jackson, Porter, Easto
 - Teachers are more likely to stay in schools where parents support their work and where students feel safe and peers behave appropriately — related
 - [In schools where students experience peer support for academic work, student learning is more likely](peer-support-academic-work-learning-more-likely.md) — related
 - [Strong relational trust and cooperative adult effort distinguish improving schools from schools with flat or declining test scores](relational-trust-linked-school-improvement.md) — related
-- [Teacher support is one of the strongest predictors of student belonging](teacher-support-predicts-student-belonging.md) — a narrower finding that bears on this claim
+- [Teacher support is one of the strongest predictors of student belonging](teacher-support-strongest-predictor-school-belonging.md) — a narrower finding that bears on this claim
 - [Positive learning communities and collaborative social interaction drive learning](social-connection-and-collaboration-drive-learning.md) — a narrower finding that bears on this claim
 - [School climate functions as a setting-level indicator: students entering schools where they feel safe and supported attend more and earn higher grades, and Chicago's five essential supports survey responses are highly predictive of teacher and school performance](school-climate-setting-level-indicator-five-supports.md) — a narrower finding that bears on this claim
 - [Students—particularly those facing significant social, economic, and academic impediments—demonstrate stronger academic, social, and emotional development in smaller learning settings](smaller-settings-stronger-development.md) — related

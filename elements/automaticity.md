@@ -53,7 +53,7 @@ Automaticity of component skills is a precondition for complex performance: read
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Fluency-building activities improve effortless reading for students in grades 4–9, with strong supporting evidence](../claims/fluency-building-activities-strong-evidence-grades-4-9.md) [+W]
+- [Fluency-building activities improve effortless reading for students in grades 4–9, with strong supporting evidence](../claims/strong-evidence-fluency-building-activities-grades-4-9.md) [+W]
 - [In Spanish, decoding rate rather than decoding accuracy is the better predictor of passage comprehension](../claims/spanish-decoding-rate-better-predictor-than-accuracy.md) [+W]
 
 ## The evidence by question

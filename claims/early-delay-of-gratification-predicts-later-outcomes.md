@@ -10,7 +10,7 @@ evidence_strength: mixed
 sources:
   - id: mischel-ebbesen-and-raskoff-zeiss-1972
     resource: "https://doi.org/10.1037/h0032198"
-    title: "Mischel, W., Ebbesen, E. B., & Raskoff Zeiss, A. (1972). Cognitive and attentional mechanisms in delay of gratification. *Journal of Personality and Social Psychology, 21*(2), 204-218."
+    title: "Mischel, W., Ebbesen, E. B., & Raskoff Zeiss, A. (1972). Cognitive and attentional mechanisms in delay of gratification. *Journal of Personality and Social Psychology, 21*(2), 204-218. [doi:10.1037/h0032198](https://doi.org/10.1037/h0032198)"
     author: "Mischel, W., Ebbesen, E. B., & Raskoff Zeiss, A."
     q: 3
     i: "?"

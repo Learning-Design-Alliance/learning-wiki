@@ -43,9 +43,6 @@ Analytical argument in Section 2.5.1 of this conceptual paper. The article argue
 
 
 ## Related Claims
-- [Feedback Answers Three Questions](feedback-answers-three-questions.md) — related
-- [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — related
-- [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — related
+- [Feedback Answers Three Questions](feedback-answers-three-questions-improves-learning.md) — related
+- [Feedback Addressing Task Improves Learning](feedback-most-effective-at-task-and-process-levels.md) — related
 - [Feedback about self as a person is the least effective feedback level; task, process, and self-regulation feedback support learning and combine for greater impact](feedback-levels-task-process-self-regulation-effective.md) — related
-- [Feedback Improves Learning When It Addresses Task Goals](feedback-improves-learning-when-it-addresses-task-goals.md) — related
-- [Feedback Most Effective At Task And Process Levels](feedback-most-effective-at-task-and-process-levels.md) — related

@@ -3,6 +3,7 @@ type: claim
 title: Achievement gaps between high-poverty and low-poverty schools at kindergarten entry narrowed modestly but significantly between 2010 and 2017
 description: Achievement gaps between high-poverty and low-poverty schools at kindergarten entry narrowed modestly but significantly between 2010 and 2017
 id: school-poverty-entry-gaps-narrowed-2010-2017
+aliases: [kindergarten-entry-school-poverty-gaps-narrowed-2010-2017]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -25,7 +26,10 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
+
 `q2 i?` The math gap between students at high-poverty and low-poverty schools narrowed from 0.95 to 0.90 SD and the reading gap from 0.88 to 0.77 SD, both significantly. [→ Kuhfeld 2019](#kuhfeld-2019)
+
+`q3 i?` Inequalities at school entry by school poverty level decreased between 2010 and 2017. [→ Megan Kuhfeld 2020](#kuhfeld-2019)
 
 ## Evidence
 
@@ -39,9 +43,24 @@ School-poverty gap models comparing students in schools with over 75% FRPL eligi
 
 > "Specifically, the math gap between students at high-poverty and low-poverty schools (0.90 SD) was modestly but significantly smaller than the corresponding achievement gaps in 2010 (0.95 SD). The low-high poverty gap in reading significantly narrowed from 0.88 SD in 2010 to 0.77 SD in 2017."
 
+<!-- merged 2026-10-16 from kindergarten-entry-school-poverty-gaps-narrowed-2010-2017: that page's entry for this study, which differed from the one above, kept verbatim.
+### Megan Kuhfeld 2020
+
+Megan Kuhfeld, James Soland, Christine Pitts, Margaret Burchinal. (2020). Trends in children's academic skills at school entry: 2010 to 2017. Educational Researcher. https://doi.org/10.3102/0013189X20931078
+
+`q3 · i?` · `associational · r?`
+
+The abstract of the national trend analysis reports decreased school-entry inequality by school poverty level alongside the racial/ethnic decrease, in a study using "data from over 2 million kindergarten students". No effect size is printed in the available text.
+
+> "Results indicate that kindergarteners in 2017 had moderately lower math and reading skills than in 2010, but that inequalities at school entry by race/ethnicity and school poverty level have decreased during this period."
+-->
+
 ## Discussion
 
+
+
 ## Learner Variables
+
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
@@ -52,8 +71,8 @@ School-poverty gap models comparing students in schools with over 75% FRPL eligi
 - [Kindergarten-entry math and reading scores were mostly flat 2010-2014 then slightly declined by 2017, with median math down about 0.24 SD and reading down 0.14 SD](kindergarten-entry-scores-declined-2010-2017.md) — related
 - [A national study examines trends and disparities in children's academic skills at school entry for students who began kindergarten between 2010 and 2017](national-trends-kindergarten-entry-skills-2010-2017.md) — a broader claim this one bears on
 - [Black-White and Hispanic-White achievement gaps at kindergarten entry narrowed significantly between 2010 and 2017 in both math and reading](racial-ethnic-entry-gaps-narrowed-2010-2017.md) — related
-- [Inequalities at kindergarten entry by school poverty level decreased between 2010 and 2017](kindergarten-entry-school-poverty-gaps-narrowed-2010-2017.md) — a broader claim this one bears on
 - [Inequalities at kindergarten entry by race/ethnicity decreased between 2010 and 2017](kindergarten-entry-racial-ethnic-gaps-narrowed-2010-2017.md) — a broader claim this one bears on
 - [Gaps in academic skills between children narrowed at kindergarten entry, per the article's abstract](shrinking-gaps-kindergarten-entry.md) — a broader claim this one bears on
 - [Kindergarteners in 2017 had moderately lower math and reading skills at school entry than kindergarteners in 2010](kindergarten-entry-skills-lower-2017-than-2010.md) — related
 - [ASSISTments benefited students of color significantly more than White students, narrowing the ethnic achievement gap](assistments-close-ethnic-achievement-gaps.md) — related
+- [Prior nationally representative studies found incoming kindergarteners' math and literacy skills were higher in 2010 than in 1998](kindergarten-entry-skills-higher-2010-than-1998.md) — related

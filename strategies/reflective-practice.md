@@ -30,7 +30,7 @@ Reflection works when it is structured and prompted, not when it is left to chan
 
 #### Constraints
 - Unstructured reflection can devolve into venting or vague narration with no learning gain [-M]
-- Reflection without feedback or external perspective risks entrenching misconceptions — learners may confidently draw wrong lessons from experience [Feedback that answers "Where am I going, how am I doing, where to next?" improves learning.](../claims/feedback-improves-learning-when-it-addresses-task-goals.md) [~M]
+- Reflection without feedback or external perspective risks entrenching misconceptions — learners may confidently draw wrong lessons from experience [Feedback that answers "Where am I going, how am I doing, where to next?" improves learning.](../claims/feedback-most-effective-at-task-and-process-levels.md) [~M]
 - Overly long or frequent reflective writing tasks produce compliance writing and fatigue [-W]
 - Novices may lack the knowledge to diagnose what went wrong; reflection on unfamiliar domains can mislead [~M]
 

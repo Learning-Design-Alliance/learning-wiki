@@ -125,7 +125,6 @@ Small randomized experimental studies (Mueller and Dweck 1998) cited under Recom
 - Feedback that is specific and actionable improves learning — the informational alternative to praise (page not yet created).
 - Person-directed praise fosters fixed mindsets and challenge avoidance (page not yet created).
 - [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](extrinsic-rewards-undermine-intrinsic-motivation-argument.md) — related
-- [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — related
 - [Prolonged reading failure leads students to attribute failure to fixed low ability and define reading as a failure situation](reading-failure-fixed-ability-attribution.md) — related

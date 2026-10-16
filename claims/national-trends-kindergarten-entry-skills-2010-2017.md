@@ -45,7 +45,6 @@ The research brief's own description states it "provides the first national insi
 ## Related Claims
 - [Prior nationally representative studies found incoming kindergarteners' math and literacy skills were higher in 2010 than in 1998](kindergarten-entry-skills-higher-2010-than-1998.md) — related
 - [Inequalities at kindergarten entry by race/ethnicity decreased between 2010 and 2017](kindergarten-entry-racial-ethnic-gaps-narrowed-2010-2017.md) — a narrower finding that bears on this claim
-- [Inequalities at kindergarten entry by school poverty level decreased between 2010 and 2017](kindergarten-entry-school-poverty-gaps-narrowed-2010-2017.md) — a narrower finding that bears on this claim
+- [Inequalities at kindergarten entry by school poverty level decreased between 2010 and 2017](school-poverty-entry-gaps-narrowed-2010-2017.md) — a narrower finding that bears on this claim
 - [Kindergarteners in 2017 had moderately lower math and reading skills at school entry than kindergarteners in 2010](kindergarten-entry-skills-lower-2017-than-2010.md) — a narrower finding that bears on this claim
 - [Gaps in academic skills between children narrowed at kindergarten entry, per the article's abstract](shrinking-gaps-kindergarten-entry.md) — possibly the same claim (merge candidate)
-- [Achievement gaps between high-poverty and low-poverty schools at kindergarten entry narrowed modestly but significantly between 2010 and 2017](school-poverty-entry-gaps-narrowed-2010-2017.md) — a narrower finding that bears on this claim

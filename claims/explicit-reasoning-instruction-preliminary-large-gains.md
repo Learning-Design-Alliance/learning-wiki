@@ -14,7 +14,7 @@ sources:
     title: "Moore, J. C., & Rubbo, L. J. (2011). Scientific reasoning abilities of non-science majors in physics-based courses. https://arxiv.org/abs/1110.2764 [doi:10.48550/arxiv.1110.2764](https://doi.org/10.48550/arxiv.1110.2764)"
     author: "Moore, J. C., & Rubbo, L. J."
     q: 2
-    i: 2
+    i: "?"
     kind: causal
     rigour: 1
 ---
@@ -22,7 +22,7 @@ sources:
 # In one class of 14 non-science majors, preliminary explicit instruction in scientific reasoning patterns (e.g., IAT statement construction) was followed by a larger average normalized LCTSR gain (68%) than in earlier courses without it (11%, n=42)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` A test class with explicit reasoning intervention achieved an average normalized LCTSR gain of 68% (n=14) versus 11% (n=42) in prior similar courses, with DIRECT and TUG-K gains also higher. [→ Moore 2011](#moore-2011)

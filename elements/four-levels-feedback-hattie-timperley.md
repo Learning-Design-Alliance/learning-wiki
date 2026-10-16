@@ -39,10 +39,8 @@ The primer's appendix presents Hattie and Timperley's (2007) four levels of feed
 
 ## Claims
 
-- [Feedback Addressing Task Improves Learning](../claims/feedback-addressing-task-improves-learning.md) [+W]
-- [Feedback Most Effective At Task And Process Levels](../claims/feedback-most-effective-at-task-and-process-levels.md) [+W]
+- [Feedback Addressing Task Improves Learning](../claims/feedback-most-effective-at-task-and-process-levels.md) [+W]
 - [Feedback about self as a person is the least effective feedback level; task, process, and self-regulation feedback support learning and combine for greater impact](../claims/feedback-levels-task-process-self-regulation-effective.md) [+W]
-- [Feedback Improves Learning When It Addresses Task Goals](../claims/feedback-improves-learning-when-it-addresses-task-goals.md) [+W]
 
 ## Related Elements
 - 

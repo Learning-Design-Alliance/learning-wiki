@@ -12,7 +12,7 @@ sources:
   - id: lu-y-2026
     title: Lu Y 2026
     q: 2
-    i: 3
+    i: "?"
     kind: associational
     rigour: 2
   - id: lu-y-2026-2
@@ -26,7 +26,7 @@ sources:
 # GenAI feedback perceptions, pronunciation self-efficacy, and WTC are all positively intercorrelated, and learners report positive feedback perceptions and moderate self-efficacy and WTC
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2` · `i3` large
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Pearson correlations among the three constructs are significant and positive (r = 0.562–0.739). [→ Lu Y 2026](#lu-y-2026)

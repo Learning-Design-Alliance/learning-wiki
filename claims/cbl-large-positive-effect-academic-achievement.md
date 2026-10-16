@@ -14,7 +14,7 @@ sources:
     title: "Şenel Elaldı, Veli Batdı. (2016). The Effects of Different Applications on Creativity Regarding Academic Achievement: A Meta-Analysis. Journal of Education and Training Studies. http://dx.doi.org/10.11114/jets.v4i1.1097"
     author: Şenel Elaldı, Veli Batdı
     q: 3
-    i: 2
+    i: 3
     kind: quant-synthesis
     rigour: 2
 ---
@@ -22,7 +22,7 @@ sources:
 # Creativity-based learning applications show a large, positive pooled effect on students' academic achievement (ES = 0.850)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Across five studies analyzed under a fixed-effect model, creativity-based learning environments yielded a pooled effect size of 0.850 on academic achievement, interpreted as large under Thalheimer and Cook's classification. [→ Şenel Elaldı 2016](#senel-elald-2016)

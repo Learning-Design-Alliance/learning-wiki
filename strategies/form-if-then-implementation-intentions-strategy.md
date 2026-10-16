@@ -43,9 +43,8 @@ A concrete, implementable self-regulation strategy: learners form plans in the f
 
 - [Holding a strong goal intention alone does not guarantee goal achievement](../claims/goal-intention-alone-insufficient-for-achievement.md) [+W]
 - [Implementation intention formation enhances accessibility of specified opportunities and automates goal-directed responses](../claims/implementation-intentions-component-processes-accessibility-automation.md) [+M]
-- [Forming implementation intentions produces a medium-to-large positive effect (d = .65) on goal attainment across 94 independent tests](../claims/implementation-intentions-d65-goal-attainment-meta-analysis.md) [+M]
+- [Forming implementation intentions produces a medium-to-large positive effect (d = .65) on goal attainment across 94 independent tests](../claims/implementation-intentions-improve-goal-attainment.md) [+M]
 - [Implementation intentions promote initiation of goal striving, shielding of ongoing pursuit, disengagement from failing courses of action, and conservation of capability](../claims/implementation-intentions-four-self-regulatory-benefits.md) [+M]
-- [Forming implementation intentions (if-then plans) improves goal attainment](../claims/implementation-intentions-improve-goal-attainment.md) [+M]
 
 ## Related Strategies
 - 

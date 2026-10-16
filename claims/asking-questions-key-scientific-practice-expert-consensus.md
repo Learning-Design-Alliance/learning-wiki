@@ -14,7 +14,7 @@ sources:
     title: "Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760 [doi:10.48550/arxiv.1307.5760](https://doi.org/10.48550/arxiv.1307.5760)"
     author: "Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J."
     q: 2
-    i: 1
+    i: "?"
     kind: design
     rigour: 2
 ---
@@ -22,7 +22,7 @@ sources:
 # Asking questions is a valued scientific practice: all 23 experts agreed it is a key aspect of scientific research
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · design `r2` · `q2` · `i1` small
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Asking questions is identified as a key scientific practice in NGSS and AAPT introductory lab goals, and 100% of the 23 experts agreed it is a key aspect of scientific research. [→ Zwickl 2013](#zwickl-2013)

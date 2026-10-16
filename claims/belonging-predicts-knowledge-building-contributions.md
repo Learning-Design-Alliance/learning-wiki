@@ -51,4 +51,4 @@ The review reports, citing Penuel et al. (2024), mixed-effects models analyzing 
 
 - [Belongingness is among the factors that most strongly and reliably affect learners' academic motivation and achievement](belongingness-strongly-affects-motivation-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — related
-- [Teacher support is one of the strongest predictors of student belonging](teacher-support-predicts-student-belonging.md) — related
+- [Teacher support is one of the strongest predictors of student belonging](teacher-support-strongest-predictor-school-belonging.md) — related

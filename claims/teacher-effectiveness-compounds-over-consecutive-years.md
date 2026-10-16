@@ -13,7 +13,7 @@ sources:
     title: "Bracey, G. W. (2004). *Setting the record straight: Responses to misconceptions about public education in the U.S.* (2nd ed.). Heinemann. [https://www.heinemann.com/products/e00594.aspx](https://www.heinemann.com/products/e00594.aspx)"
     author: Bracey, G. W.
     q: 2
-    i: 3
+    i: "?"
     n: low-achieving 4th-grade cohort, Dallas Independent School District
     kind: associational
     rigour: "?"
@@ -22,7 +22,7 @@ sources:
 # Effective teachers compound their advantage over consecutive years, and low-achieving students are disproportionately assigned to ineffective ones
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r?` · `q2` · `i3` large · n=low-achieving 4th-grade cohort, Dallas Independent School District
+> **Evidence** · 1 study · associational `r?` · `q2` · n=low-achieving 4th-grade cohort, Dallas Independent School District
 
 Teacher effectiveness, tracked as a growth or value-added measure rather than a single-year snapshot, produces large downstream differences in student outcomes — and the students most likely to benefit from an effective teacher are, on average, less likely to actually get one across consecutive years.
 

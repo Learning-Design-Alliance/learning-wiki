@@ -17,6 +17,12 @@ generated:
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
 
+## How strongly it relates to achievement
+
+**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
+
+- Mastery goals **r = .17**, performance-avoidance goals **−.17**, enjoyment **.31**, need for cognition **.25** (see [achievement goal orientation](achievement-goal-orientation.md)). [Claim](../claims/mastery-goals-correlate-positively-and-avoidance-goals-negatively-with-math-achievement.md)
+
 ## Implications
 
 ### Context

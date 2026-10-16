@@ -45,6 +45,5 @@ One-way ANOVA on expert-rated TCP scores (three experts, ICC = 0.89) comparing s
 ## Related Claims
 - [GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students](gai-assisted-dst-improves-cps-skills.md) — related
 - [GAI-assisted DST creation significantly enhanced all five CPS sub-dimensions compared to traditional methods](gai-assisted-dst-improves-cps-subdimensions.md) — related
-- [Both GAI-assisted and traditional DST groups improved in CPS skills over the 20-week program, with larger gains in the GAI group](both-groups-improved-cps-gai-larger-gains.md) — related
 - [Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance](gai-dst-interview-six-themes.md) — related
 - [Structured prompting raises perceived interaction clarity and dependability but reduces perceived novelty of AI-supported learning](prompting-raises-perspicuity-dependability-lowers-novelty.md) — related

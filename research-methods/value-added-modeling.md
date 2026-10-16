@@ -82,7 +82,6 @@ Value-added measures quantify a teacher's contribution to students' learning gai
 - [The report synthesizes 21 empirical studies on value-added model key issues and findings](../claims/vam-report-synthesized-21-empirical-studies.md) [+W]
 - [Phase 1 of the Pennsylvania pilot examined whether teachers with higher classroom observation scores on specific professional practices tended to have greater value-added impacts on student achievement](../claims/observation-scores-value-added-relationship-pennsylvania-pilot.md) [+W]
 - [There is little prior evidence on the validity of principal evaluation measures, and this is the first study linking practice ratings to credible value-added measures](../claims/first-study-principal-practice-ratings-value-added-validity.md) [+W]
-- [The average teaching-effectiveness disparity for disadvantaged students equals about four weeks of learning in reading and two weeks in math](../claims/teaching-disparity-weeks-of-learning.md) [+W]
 - [Teachers in districts with large fractions of disadvantaged students receive lower value-added ratings when student background characteristics are omitted](../claims/vam-omitting-background-lowers-disadvantaged-district-ratings.md) [+W]
 - [Disadvantaged students in 29 study districts receive poorer-quality instruction, on average, compared with other students](../claims/disadvantaged-students-poorer-access-effective-teachers.md) [+W]
 - [Highest-performing teachers moved students up 4 to 14 percentile points per school year relative to the average district teacher](../claims/highest-performing-teachers-4-to-14-percentile-gains.md) [+M]
@@ -426,7 +425,7 @@ The brief defines value added as a way of quantifying teaching quality: "'Value 
 
 - [Disadvantaged Students Less Effective Teaching](../claims/disadvantaged-students-receive-less-effective-teaching.md) [+M]
 - [Access to effective teaching for disadvantaged students varied across districts, from no statistically significant difference to a disparity equivalent to 13 weeks of learning](../claims/access-effective-teaching-varies-across-districts.md) [+W]
-- [The average teaching-effectiveness disparity for disadvantaged students equals about four weeks of learning in reading and two weeks in math](../claims/teaching-disparity-weeks-of-learning.md) [+W]
+- [The average teaching-effectiveness disparity for disadvantaged students equals about four weeks of learning in reading and two weeks in math](../claims/disadvantaged-students-receive-less-effective-teaching.md) [+W]
 - [Teachers in districts with large fractions of disadvantaged students receive lower value-added ratings when student background characteristics are omitted](../claims/vam-omitting-background-lowers-disadvantaged-district-ratings.md) [+W]
 - [Disadvantaged students in 29 study districts receive poorer-quality instruction, on average, compared with other students](../claims/disadvantaged-students-poorer-access-effective-teachers.md) [+W]
 

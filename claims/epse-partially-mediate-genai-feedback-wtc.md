@@ -12,13 +12,13 @@ sources:
   - id: lu-y-2026
     title: Lu Y 2026
     q: 2
-    i: 3
+    i: "?"
     kind: associational
     rigour: 2
   - id: lu-y-2026-2
     title: Lu Y 2026 (2)
     q: 2
-    i: 3
+    i: "?"
     kind: associational
     rigour: 2
 ---
@@ -26,7 +26,7 @@ sources:
 # English pronunciation self-efficacy partially mediates the association between GenAI-based pronunciation feedback perceptions and willingness to communicate, with the indirect effect accounting for 69.9% of the total effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2` · `i3` large
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The indirect effect of GenAI feedback on WTC through EPSE is statistically significant (β = 0.401). [→ Lu Y 2026](#lu-y-2026)

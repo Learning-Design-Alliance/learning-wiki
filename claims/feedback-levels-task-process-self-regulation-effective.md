@@ -62,11 +62,8 @@ The appendix recommends combining the task, process, and self-regulation feedbac
 
 
 ## Related Claims
-- [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — related
-- [Feedback Most Effective At Task And Process Levels](feedback-most-effective-at-task-and-process-levels.md) — related
-- [Feedback Improves Learning When It Addresses Task Goals](feedback-improves-learning-when-it-addresses-task-goals.md) — related
-- [Feedback Answers Three Questions](feedback-answers-three-questions.md) — related
-- [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — related
+- [Feedback Addressing Task Improves Learning](feedback-most-effective-at-task-and-process-levels.md) — related
+- [Feedback Answers Three Questions](feedback-answers-three-questions-improves-learning.md) — related
 - [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
 - [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — related

@@ -40,7 +40,6 @@ The article organizes school leadership effects through the Bryk et al. (2010) c
 - [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+W]
 - [Fewer than 10 percent of elementary schools with a sustained weakness in one essential support showed improvements in student outcomes (attributed to Bryk et al., 2010)](../claims/sustained-weakness-one-support-few-improve.md) [+W]
 - [Schools weak in most essential supports were four to five times more likely to stagnate than schools with strong overall organizational capacity](../claims/weak-essential-supports-four-to-five-times-stagnation.md) [+W]
-- [Elementary schools strong on at least three of five essential organizational elements were 10 times more likely to improve and 30 times less likely to stagnate](../claims/five-essential-elements-three-of-five-improvement-odds.md) [+W]
 
 ## Related Theories
 

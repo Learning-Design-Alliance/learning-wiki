@@ -56,11 +56,10 @@ The CCSR framework holds that five in-school supports are all essential for impr
 
 ### Claims
 
-- [Strong Essential Supports Ten Times More Likely Substantial Gains](../claims/strong-essential-supports-ten-times-more-likely-substantial-gains.md) [+M]
+- [Strong Essential Supports Ten Times More Likely Substantial Gains](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+M]
 - [Weak Essential Supports Four To Five Times Stagnation](../claims/weak-essential-supports-four-to-five-times-stagnation.md) [+M]
 - Low Social Capital Requires Exceptionally Robust Supports [+M]
 - [The five essential supports matter in combination: strength on clusters of supports, not isolated domains, predicts improvement](../claims/supports-matter-in-combined-clusters.md) [+M]
-- [Elementary schools strong on at least three of five essential organizational elements were 10 times more likely to improve and 30 times less likely to stagnate](../claims/five-essential-elements-three-of-five-improvement-odds.md) [+M]
 - [Ninety-five Chicago elementary schools showed substantial improvement in academic productivity, accumulating an extra half year of learning in reading and over 1.25 years in mathematics over eight grades](../claims/95-improving-schools-extra-half-year-reading-1-25-math.md) [+M]
 - [School improvement rates varied by community type: Latino, racially diverse, and integrated schools improved disproportionately, while stagnation concentrated in predominantly African-American low-income communities](../claims/improvement-rates-vary-community-racial-composition.md) [~M]
 - [Schools with strong essential supports were more likely to sit in communities with strong social capital, low crime, and low density of abused or neglected children](../claims/strong-supports-linked-community-social-capital-low-crime.md) [~M]
@@ -99,7 +98,6 @@ The CCSR framework holds that five in-school supports are all essential for impr
 - [Mistrust between teachers and parents remained a low-level roadblock in 2017, while lack of parental support had grown as a top roadblock for almost one-third of administrators](../claims/parent-support-roadblock-grew-trust-low.md) [~W]
 - [Teacher-principal trust is far more prevalent in top-quartile schools than bottom-quartile schools](../claims/teacher-principal-trust-top-vs-bottom-quartile.md) [~W]
 - [Teachers in top-quartile schools hold their principals in high regard as facilitative, inclusive, committed leaders](../claims/top-quartile-schools-facilitative-principal-leadership.md) [+W]
-- [Strong Supports Cluster Ten Times More Likely To Improve](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+M]
 - [Elementary GPA improved more in schools with strong 5Essentials Survey scores, a new outcome beyond the original validation](../claims/elementary-gpa-strong-5essentials-measures.md) [+W]
 - [District-provided instructional resources supported strong practices only when instruction-ready and tied to professional learning; other resources showed a null or negative relationship](../claims/instruction-ready-resources-tied-to-professional-learning.md) [~W]
 - [Freshman OnTrack rates improved by as much as 3.25 percentage points more in high schools with strong 5Essentials Survey measures](../claims/freshman-ontrack-strong-5essentials-measures.md) [+W]
