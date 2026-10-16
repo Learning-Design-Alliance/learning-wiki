@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The outcome data met t-test assumptions: Lilliefors normality (Lo &lt; Lt for both classes) and variance homogeneity (F count 0.579 &lt; F table 1.84) - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-favicon.png">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="the-outcome-data-met-t-test-assumptions-lilliefors-normality-lo-lt-for-both-classes-and-variance-homogeneity-f-count-0579-f-table-184">The outcome data met t-test assumptions: Lilliefors normality (Lo &lt; Lt for both classes) and variance homogeneity (F count 0.579 &lt; F table 1.84)<a class="headerlink" href="#the-outcome-data-met-t-test-assumptions-lilliefors-normality-lo-lt-for-both-classes-and-variance-homogeneity-f-count-0579-f-table-184" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study (2 entries) · causal <code>r1</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Lilliefors tests showed both classes' final-test data were normally distributed (Lo &lt; Lt = 0.159). <a href="#hakiki-2023">→ Hakiki 2023</a>
+<code>q2 i?</code> An F test showed the two classes had homogeneous variances (F count = 0.579 &lt; F table = 1.84). <a href="#hakiki-2023-2">→ Hakiki 2023 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="hakiki-2023">Hakiki 2023<a class="headerlink" href="#hakiki-2023" title="Permanent link">&para;</a></h3>
+<p>Hakiki, M., Fadli, R., Samala, A. D., Fricticarani, A., Dayurni, P., Rahmadani, K., Astiti, A. D., &amp; Sabir, A. (2023). Exploring the impact of using Chat-GPT on student learning outcomes in technology learning: The comprehensive experiment. Advances in Mobile Learning Educational Research, 3(2), 859-872. https://doi.org/10.25082/AMLER.2023.02.013</p>
+<p><code>q2 · i?</code> · <code>causal · r1</code></p>
+<p>Prerequisite normality testing of final-test scores for both classes (N = 31 each) using the Lilliefors test at a 5% significance level. Table 3 prints Lt = 0.159 with Lo = 0.142 (control) and Lo = 0.150 (experimental), described as "Lo &lt; Lt".</p>
+<blockquote>
+<p>"Based on the Lilliefors test for the experimental and control classes, L o &lt; Lt, it can be concluded that the data is normally distributed."</p>
+</blockquote>
+<h3 id="hakiki-2023-2">Hakiki 2023 (2)<a class="headerlink" href="#hakiki-2023-2" title="Permanent link">&para;</a></h3>
+<p>Hakiki, M., Fadli, R., Samala, A. D., Fricticarani, A., Dayurni, P., Rahmadani, K., Astiti, A. D., &amp; Sabir, A. (2023). Exploring the impact of using Chat-GPT on student learning outcomes in technology learning: The comprehensive experiment. Advances in Mobile Learning Educational Research, 3(2), 859-872. https://doi.org/10.25082/AMLER.2023.02.013</p>
+<p><code>q2 · i?</code> · <code>causal · r1</code></p>
+<p>Variance homogeneity testing via F test at α = 0.05 with dk = 30, comparing the experimental and control classes' variances. The article reports "The Fcount value is 0.579 while the Ftable value is 1.84", concluding homogeneous variances and justifying the pooled variance t-test.</p>
+<blockquote>
+<p>"The Fcount value is 0.579 while the Ftable value is 1.84. Thus, it can be concluded that the value of Fcount&lt; Ftable, which indicates that the two groups tested are homogeneous."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../course-specific-norms-normality-supported/">Q-Q plots, CDF curves, and residual checks support the joint normality assumption underlying the multivariate true score model for the course-specific tests.</a> — related</li>
+<li><a href="../normality-assumption-reasonable-course-specific/">Normality assumptions of the true score model appeared reasonable for the course-specific tests</a> — related</li>
+<li><a href="../normality-assumption-met-foundational-skills-norming/">The multivariate normality assumption of the norming model was judged met for all domains and grades, despite some tail deviations in Q-Q plots</a> — related</li>
+<li><a href="../spanish-foundational-skills-normality-assumption-met/">The multivariate normality assumption of the true score model was judged reasonable for all domains and grades</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>normality-homogeneity-prerequisites-met</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>The outcome data met t-test assumptions: Lilliefors normality (Lo &lt; Lt for both classes) and variance homogeneity (F count 0.579 &lt; F table 1.84)</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>The outcome data met t-test assumptions: Lilliefors normality (Lo &lt; Lt for both classes) and variance homogeneity (F count 0.579 &lt; F table 1.84)</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-16</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>hakiki-2023</code>, <code>hakiki-2023-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>
