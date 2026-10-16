@@ -120,3 +120,4 @@ Open questions include how summarization compares with other generative strategi
 - [Activation improves learning](activation-improves-learning.md) — prior knowledge supports identifying main ideas in a text
 - [Group-level scaffolding training increases teacher process support and student participation](group-level-scaffolding-training-increases-teacher-process-support-and-student-participation.md) — related
 - [Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive low utility assessments](five-techniques-low-utility.md) — related
+- [Well-organized texts following rhetorical schemata are better remembered than disorganized texts, and high-structure information is more likely to be recalled](organized-text-high-structure-recall-advantage.md) — related

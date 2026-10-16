@@ -66,3 +66,4 @@ Null moderator result from the media-comparison meta-regression models for suppl
 - [Games with no story or irrelevant story context show larger learning effects than games with relevant story context](irrelevant-story-larger-effects-than-relevant.md) — related
 - [Multi-session game conditions outperform nongame conditions while single-session games do not, though total play duration shows no association with effect size](multiple-sessions-benefit-single-session-null.md) — related
 - [Exploration behavior is associated with the most complex and most varied conceptual models, with statistically significant differences across behavior types](exploration-associated-with-model-complexity-variety.md) — related
+- [Simulation games are effective as a supplement to other instruction but counterproductive as standalone instruction](simulation-games-as-supplement-not-standalone.md) — related

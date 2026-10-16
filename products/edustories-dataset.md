@@ -13,7 +13,7 @@ generated:
 # Edustories dataset
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A public dataset of 1,492 anonymized, expert-annotated teacher-written classroom case studies developed from Czech trainee teachers' teaching-practice experiences.
@@ -24,7 +24,6 @@ A public dataset of 1,492 anonymized, expert-annotated teacher-written classroom
 
 ### Claims
 
-- [Expert annotators show high agreement on intervention appropriateness ratings](../claims/expert-annotator-high-agreement.md) [+W]
 - [Current LLMs fall short of human experts in predicting classroom intervention outcomes](../claims/llms-below-expert-outcome-prediction.md) [+W]
 - [Human experts and LLMs show qualitatively different error patterns in outcome prediction](../claims/expert-llm-error-patterns-differ.md) [+W]
 

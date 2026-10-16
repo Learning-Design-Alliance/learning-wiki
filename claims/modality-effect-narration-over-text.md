@@ -197,3 +197,4 @@ Open questions include how the effect interacts with learner control over pacing
 - [Working memory includes partially independent subcomponents for auditory/verbal and visual/2- or 3-dimensional information](working-memory-partially-independent-modality-subcomponents.md) — related
 - [Animated personas produce better learning than static ones, and agent voice contributes significantly to learning](animated-persona-and-voice-effects.md) — related
 - [Pedagogical agents enhance learning compared with learning environments that do not feature agents](pedagogical-agents-enhance-learning.md) — related
+- [APA presentations tend to overload the visual channel, especially with high element interactivity content](apa-visual-channel-overload.md) — a narrower finding that bears on this claim

@@ -44,4 +44,4 @@ The report states as a scope limitation that "Findings from two states and three
 
 ## Related Claims
 - [The report explicitly discusses limitations of the Oklahoma value-added model](oklahoma-value-added-model-limitations-discussed.md) — related
-- [The case study cannot distinguish which program elements caused the positive impacts](bell-elements-causal-attribution-limited.md) — related
+- The case study cannot distinguish which program elements caused the positive impacts — related

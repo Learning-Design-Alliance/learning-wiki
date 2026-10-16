@@ -16,7 +16,7 @@ sources:
 # Privacy-preserving linkage and analysis of educational data using privacy-enhancing technologies
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 5 studies (3 theoretical, 1 review, 1 design), `q1` · 0 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 against) · 3 studies (2 theoretical, 1 design), `q1` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The article presents a worked scenario in which a DLP used across several school districts for high school math instruction is linked with state college enrollment and persistence records using secure multiparty computation, producing aggregate correlations between engagement patterns and college outcomes with no raw data ever moving between the parties. The researcher tests analysis code on synthetic student data and applies differential privacy to summary tables before publication. The article describes this as turning a previously impossible study into a feasible one.
@@ -31,8 +31,6 @@ The article presents a worked scenario in which a DLP used across several school
 - [PETs expand the value of data by enabling sharing where in-the-clear approaches are infeasible](../claims/pets-expand-data-value-through-sharing.md) [+W]
 - [PETs trade utility for privacy, limiting use where accuracy is mandated](../claims/pets-utility-privacy-tradeoff.md) [-W]
 - [Working a research scenario against a DLP surfaced concrete platform needs: adding measures, linking observational data, and enabling districtwide studies](../claims/scenario-terracotta-platform-capability-lessons.md) [+W]
-- [Researcher access to identifiable student information, not research intent alone, determines NHSR status](../claims/access-not-intent-determines-nhsr.md) [+W]
-- [Maintaining NHSR status requires no researcher access to identifiable records, no added procedures, and no non-standard prompts](../claims/nhsr-maintenance-three-conditions.md) [+W]
 
 ## Related Research Methods
 -

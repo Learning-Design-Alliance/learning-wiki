@@ -46,5 +46,5 @@ Analytic example examining whether item response times, after accounting for ite
 - [Computer-based testing's routine capture of item-level response times has driven increased interest in applications of response time to measuring ability and achievement](computer-based-testing-drives-response-time-interest.md) — related
 - [Time students spend on math test questions is studied as a potential source of information about motivation and self-efficacy](math-response-times-motivation-self-efficacy.md) — a broader claim this one bears on
 - [Mean item response durations show no strong relationship with math motivation and self-efficacy in general](mean-item-durations-not-strongly-related-motivation-self-efficacy.md) — reports the opposite
-- [Response times have been used extensively for achievement estimation but little work links test metadata to social-emotional constructs](response-time-metadata-gap-social-emotional-constructs.md) — related
+- Response times have been used extensively for achievement estimation but little work links test metadata to social-emotional constructs — related
 - [Using item response time metadata to measure students' social-emotional learning shows both promise and limitations](response-time-metadata-sel-promise-and-limitations.md) — a broader claim this one bears on

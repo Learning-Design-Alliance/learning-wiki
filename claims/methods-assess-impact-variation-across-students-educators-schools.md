@@ -43,8 +43,8 @@ The report's own framing statement: it summarizes existing quantitative methods 
 
 
 ## Related Claims
-- [Subgroup analyses in education impact evaluations can also be based on participants' experiences, mediators, and outcomes measured after program implementation](post-intervention-mediator-subgroup-analyses.md) — a narrower finding that bears on this claim
-- [Subgroup (moderator) analyses in education impact evaluations can be based on participant characteristics measured before the intervention is implemented](pre-intervention-moderator-analyses.md) — a narrower finding that bears on this claim
+- Subgroup analyses in education impact evaluations can also be based on participants' experiences, mediators, and outcomes measured after program implementation — a narrower finding that bears on this claim
+- Subgroup (moderator) analyses in education impact evaluations can be based on participant characteristics measured before the intervention is implemented — a narrower finding that bears on this claim
 - [Methods for estimating impacts when treatment effects vary apply to randomized controlled trials and are also applicable to quasi-experimental designs](varying-effects-methods-rct-and-quasi-experimental.md) — a narrower finding that bears on this claim
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — a narrower finding that bears on this claim
 - [Some blended learning interventions improve student outcomes, but whether a positive effect exists varies across interventions and domains of achievement](blended-learning-effects-vary-by-intervention-and-domain.md) — a narrower finding that bears on this claim

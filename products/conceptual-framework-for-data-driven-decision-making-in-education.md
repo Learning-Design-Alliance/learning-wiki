@@ -18,7 +18,7 @@ sources:
 # Conceptual framework for data-driven decision making in education
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 design, 1 theoretical), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A Mathematica-developed framework, commissioned by the Gates Foundation, that organizes how education systems use data for strategic decision making and learning capacity.
@@ -28,7 +28,6 @@ A Mathematica-developed framework, commissioned by the Gates Foundation, that or
 - **Conceptual framework for data-driven decision making (DDDM) in education**: The article presents a conceptual framework for data-driven decision making (DDDM) in education, developed by Mathematica at the request of the Gates Foundation. It states the framework "aims to provide a comprehensive picture of the DDDM process in education." The framework draws on Mathematica's own evaluations of strategic data use initiatives and on existing education data-use literature. (Brian Gill et al. (2014))
 
 ### Claims
-- [The DDDM framework was developed from Mathematica's initiative evaluations and existing literature](../claims/dddm-framework-dual-evidence-base.md) [+W]
 - [A pilot initiative partnered Mathematica and Catalyst:Ed with the Gates Foundation and nine K-12 education grantees to build strategic learning capacity from May 2020 to September 2021](../claims/cbsl-pilot-nine-grantees-partnership.md) [+W]
 
 ## Related Products and Programmes
@@ -63,7 +62,6 @@ The article presents a conceptual framework for data-driven decision making (DDD
 
 ### Claims
 
-- [The DDDM framework was developed from Mathematica's initiative evaluations and existing literature](../claims/dddm-framework-dual-evidence-base.md) [+W]
 - [A pilot initiative partnered Mathematica and Catalyst:Ed with the Gates Foundation and nine K-12 education grantees to build strategic learning capacity from May 2020 to September 2021](../claims/cbsl-pilot-nine-grantees-partnership.md) [+W]
 
 ## Related Theories

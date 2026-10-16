@@ -16,7 +16,7 @@ sources:
 # A factor-based taxonomy of seventeen indicators of elementary school organizational development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The appendix organizes school organizational development into factors—School Leadership, Parent-Community Ties, Professional Capacity, Learning Climate, Instructional Guidance, and Relational Trust—each measured by Rasch scales. The authors state that factor analyses "yielded thirteen composite indicators" and that they "added four 'stand-alone' measures, arriving at a final set of seventeen overall indicators of organizational development in each elementary school." Table 1 maps each factor to its elements, Rasch measures, and the number of schools surveyed in 1991, 1992, 1994, and 1997.
@@ -37,7 +37,6 @@ The appendix organizes school organizational development into factors—School L
 
 ### Claims
 
-- [Factor analysis of the Chicago school surveys produced thirteen composite indicators, which with four stand-alone measures yielded seventeen overall indicators](../claims/thirteen-composite-indicators-seventeen-total.md) [+W]
 
 ## Related Theories
 - 

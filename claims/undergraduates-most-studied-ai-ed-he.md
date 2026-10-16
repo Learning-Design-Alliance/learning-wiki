@@ -43,6 +43,6 @@ A priori coding of academic level across the 138 studies. The review reports "99
 
 
 ## Related Claims
-- [72% of AIEd higher education studies focused on students as the intended users, 17% on instructors, and 11% on managers](intended-users-ai-ed-he-students-dominant.md) — related
+- 72% of AIEd higher education studies focused on students as the intended users, 17% on instructors, and 11% on managers — related
 - [ChatGPT-supported STEAM IBL research is split evenly between K-12 and higher education, but undergraduates dominate and no study examined elementary learners](chatgpt-steam-ibl-participant-gaps.md) — related
 - [Language learning was the most common subject domain for AIEd in higher education, at 17%](language-learning-top-subject-domain-ai-ed-he.md) — related

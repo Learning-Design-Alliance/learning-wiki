@@ -43,7 +43,7 @@ The review's Results section reports the outcome of its systematic search across
 
 
 ## Related Claims
-- [Comprehensive searches identified only seven eligible studies, and quantitative synthesis was blocked by critical risk of bias and unreportable effect sizes](seven-studies-only-special-education-class-size-review.md) — related
+- Comprehensive searches identified only seven eligible studies, and quantitative synthesis was blocked by critical risk of bias and unreportable effect sizes — related
 - [No rigorous evaluations of trauma-informed approaches in schools met inclusion criteria in a comprehensive systematic review search](no-rigorous-evaluations-trauma-informed-schools.md) — a broader claim this one bears on
 - [Recovery high school attendance may improve absenteeism, abstinence, and reduce marijuana and other drug use, based on a single quasi‐experimental study with serious risk of bias](rhs-improves-absenteeism-abstinence-drug-use-single-qed.md) — related
-- [The review planned meta‐analytic synthesis but could not use it because only one study met the inclusion criteria](planned-meta-analysis-unavailable-single-study.md) — related
+- The review planned meta‐analytic synthesis but could not use it because only one study met the inclusion criteria — related

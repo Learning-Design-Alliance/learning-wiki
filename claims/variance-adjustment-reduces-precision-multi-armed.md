@@ -43,8 +43,8 @@ Analytical methodological result derived from the article's key insight about pa
 
 
 ## Related Claims
-- [Identifying and estimating the CACE parameter in the multi-armed context requires complex assumptions](multi-armed-cace-complex-assumptions.md) — related
-- [Design-based estimators for two-group designs require modification for multi-armed designs when comparing pairs of research groups](multi-armed-estimators-modify-two-group-estimators.md) — a broader claim this one bears on
-- [In multi-armed trials seeking the most effective treatments, each pairwise contrast sample is representative of the full set of randomized units](pairwise-contrast-samples-represent-full-randomized-set.md) — related
-- [Appropriate average treatment effect estimators can be derived for both finite-population and super-population models of clustered RCTs](appropriate-estimators-derived-for-each-causal-model.md) — related
+- Identifying and estimating the CACE parameter in the multi-armed context requires complex assumptions — related
+- Design-based estimators for two-group designs require modification for multi-armed designs when comparing pairs of research groups — a broader claim this one bears on
+- In multi-armed trials seeking the most effective treatments, each pairwise contrast sample is representative of the full set of randomized units — related
+- Appropriate average treatment effect estimators can be derived for both finite-population and super-population models of clustered RCTs — related
 - [In time-series field studies of behavior modification, all 17 quasi-d feedback effects were positive with a mean quasi-d of 1.69](fi-time-series-field-studies-all-positive.md) — related

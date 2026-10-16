@@ -16,7 +16,7 @@ sources:
 # Comparative framework of three SLA theories (Krashen, Complexity, Socio-cognitive) by philosophy and characteristics
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 The article analyzes and synthesizes Krashen's SLA Theory, Larsen-Freeman's Complexity Theory, and Atkinson's Socio-cognitive Theory along two axes: philosophy and nature/characteristics. It reports that the three theories "identify SLA as a complex process and a system," recognize SLA as cognitive but interrelated with other areas, and acknowledge that the environment affects SLA. Krashen's focus is comprehensible input, Complexity theory's focus is the context, and Socio-cognitive theory's focus is "the way the mind, body, and world work together."
@@ -37,7 +37,6 @@ The article analyzes and synthesizes Krashen's SLA Theory, Larsen-Freeman's Comp
 
 ### Claims
 
-- [Grammar Not Focus Of Sla Synthesis](../claims/grammar-not-focus-of-sla-synthesis.md) [+W]
 - [Meaningful L2 learning is achieved through a conducive environment and authentic tasks and materials](../claims/authentic-tasks-meaningful-l2-learning.md) [+W]
 - [Fluency can have a high effect on accuracy, whereas accuracy will not lead to fluency](../claims/fluency-precedes-accuracy-oral-l2.md) [+W]
 - [Learner-centeredness is a universal theme across SLA theories and language teaching methods](../claims/learner-centeredness-universal-theme-sla.md) [+W]

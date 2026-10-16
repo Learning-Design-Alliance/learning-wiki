@@ -43,7 +43,7 @@ Frequency analysis of inductively coded decision types across the review's 27 in
 
 
 ## Related Claims
-- [Learning Analytics Dashboards are the most frequently reported AI system type supporting lecturer decisions, primarily for monitoring, feedback, and assessment](lad-dominant-system-type-lecturer-decision-support.md) — related
+- Learning Analytics Dashboards are the most frequently reported AI system type supporting lecturer decisions, primarily for monitoring, feedback, and assessment — related
 - [Instructional decisions form the hub of decision-type co-occurrence, most strongly with assessment decisions](instructional-decisions-hub-of-co-occurrence-structure.md) — related
 - [Text-based and log data dominate the student data used by AI systems for lecturer decision-making](text-log-data-dominate-lecturer-decision-ai-inputs.md) — related
 - [Behavioral outcomes, especially performance and engagement, dominate the learning outcomes linked to AI-supported lecturer decisions](behavioral-outcomes-dominate-ai-decision-support-mapping.md) — related

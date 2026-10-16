@@ -17,7 +17,7 @@ sources:
 # Understanding Types of Evidence: A Guide for Educators (Mathematica, 2016)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A practitioner guide published by Mathematica Policy Research on October 24, 2016, under its Effective Data Use area. It "describes four key types of evidence you are likely to encounter and explains how to tell whether these types of evidence can provide strong support for claims about effectiveness." Each evidence description is accompanied by examples of information sources containing that type of evidence, and the types are ordered from weakest to strongest.
@@ -41,7 +41,6 @@ A practitioner guide published by Mathematica Policy Research on October 24, 201
 
 ## Claims
 
-- [The quality of evidence about technology effectiveness varies widely across information sources](../claims/evidence-quality-varies-widely-sources.md) [+W]
 - [Different evidence types differ in how strongly they can support claims about effectiveness](../claims/evidence-types-differ-support-strength.md) [+W]
 
 ## Related Elements

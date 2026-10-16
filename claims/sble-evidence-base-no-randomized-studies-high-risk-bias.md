@@ -43,7 +43,7 @@ In the Results section on risk of bias, the review reports "The risk of bias in 
 
 
 ## Related Claims
-- [Most included studies carry risk of bias concerns, requiring cautious interpretation of the pooled effect](mobile-device-review-risk-of-bias-concerns.md) — related
+- Most included studies carry risk of bias concerns, requiring cautious interpretation of the pooled effect — related
 - [School-based law enforcement use is associated with greater crime and behavior problems in studies using schools as the unit of analysis](sble-associated-greater-school-level-crime-behavior-problems.md) — related
 - [SBLE shows no beneficial effects on learning outcomes or other analyzed outcomes](sble-no-beneficial-learning-effects.md) — related
 - [The evidence base on inclusion effects is methodologically weak: no randomised studies and nearly all synthesised studies at serious risk of bias](inclusion-evidence-low-quality-serious-risk-of-bias.md) — related
@@ -52,4 +52,4 @@ In the Results section on risk of bias, the review reports "The risk of bias in 
 - [Common non-curricular policing strategies show no overall effects on measures of school crime or discipline](non-curricular-policing-no-overall-effects-crime-discipline.md) — related
 - [School-based law enforcement is not associated with statistically significant changes in students' perceptions of safety at school](school-based-law-enforcement-no-significant-change-perceptions-of-safety.md) — related
 - The evidence base on SBLE lacks randomized trials, though recent strong quasi-experiments indicate increasing rigor — possibly the same claim (merge candidate)
-- [The evidence base on COVID-19 learning is geographically skewed toward high-income countries and about half of studies carry serious or critical risk of bias, with no evidence of publication bias](covid-learning-evidence-quality-and-reach.md) — related
+- The evidence base on COVID-19 learning is geographically skewed toward high-income countries and about half of studies carry serious or critical risk of bias, with no evidence of publication bias — related

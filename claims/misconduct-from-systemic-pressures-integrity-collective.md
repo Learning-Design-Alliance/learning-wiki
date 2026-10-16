@@ -68,3 +68,4 @@ Definitional/conceptual claim in the integrity section, citing Balalle & Pannila
 - [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — related
 - [Nursing academics link student GenAI misconduct to future unprofessional and unsafe clinical conduct](genai-misconduct-linked-to-professional-conduct.md) — related
 - [Mission statements across the U15, Russell Group, and Ivy League exhibit Booth's rhetorical corruptions, with polished rhetoric of excellence obscuring concrete commitments](mission-statement-rhetorical-corruptions.md) — related
+- [International students expressed frustration at severe punishment for inappropriate citations, and the authors recommend education over pure punishment](plagiarism-cultural-conduct-frustration.md) — a narrower finding that bears on this claim

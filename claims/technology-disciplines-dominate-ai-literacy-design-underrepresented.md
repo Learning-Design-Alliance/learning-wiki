@@ -64,7 +64,7 @@ Same disciplinary mapping analysis (Fig. 7). The review reports the Design dimen
 ## Related Claims
 - [Instruction in STEAM AI literacy is predominantly technology-enhanced (82.1% of studies) rather than unplugged (17.9%)](steam-ai-literacy-instruction-technology-enhanced-dominant.md) — related
 - [Technical AI literacy elements dominate STEAM implementations: Fundamental AI Concepts (36 studies), Data Literacy (30) and Computational Thinking (29) far exceed Managing AI (6), Designing AI (8) and Creative Imagination (9)](technical-ailes-dominate-creative-managerial-underrepresented.md) — related
-- [Research on ChatGPT-supported STEAM inquiry-based learning is unevenly distributed across disciplines, concentrated in science and mathematics](chatgpt-steam-ibl-uneven-disciplinary-distribution.md) — related
+- Research on ChatGPT-supported STEAM inquiry-based learning is unevenly distributed across disciplines, concentrated in science and mathematics — related
 - [AIL is delineated from related literacies: it extends Data, Media and Computational Literacy with human-AI interaction and ethical reasoning about autonomous systems](ail-delineation-from-related-literacies.md) — related
 - [Expert-led curriculum mapping of two programs shows discipline-specific AIL emphasis: technical programs stress TKS and AP, humanities-oriented programs stress EAR and SIU](curriculum-mapping-discipline-specific-ail-profiles.md) — related
 - Agentic AI in education research concentrates on higher education, computer science, and text-based tutoring-like contexts — related

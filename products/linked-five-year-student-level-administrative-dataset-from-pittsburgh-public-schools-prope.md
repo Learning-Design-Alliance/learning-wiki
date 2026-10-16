@@ -18,7 +18,7 @@ sources:
 # Linked five-year student-level administrative dataset from Pittsburgh Public Schools, Propel Schools, and Allegheny County DHS
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A five-year linked student-level administrative dataset assembled by the study team from Pittsburgh Public Schools, Propel Schools, and the Allegheny County Department of Human Services for analyzing and predicting near-term academic risks.
@@ -27,7 +27,6 @@ A five-year linked student-level administrative dataset assembled by the study t
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [The study uses five years of linked school and child welfare administrative data to predict near-term academic risks, with the two most recent years serving as outcome years](../claims/five-year-linked-data-predict-near-term-academic-risks.md) [+W]
 - [A predictive model built on school and child welfare data was assessed for identifying at-risk students in two Allegheny County education agencies](../claims/risk-model-assessed-two-allegheny-agencies.md) [+W]
 
 ## Related Products and Programmes
@@ -63,7 +62,6 @@ The study team built a linked administrative dataset covering five academic year
 
 ## Claims
 
-- [The study uses five years of linked school and child welfare administrative data to predict near-term academic risks, with the two most recent years serving as outcome years](../claims/five-year-linked-data-predict-near-term-academic-risks.md) [+W]
 - [A predictive model built on school and child welfare data was assessed for identifying at-risk students in two Allegheny County education agencies](../claims/risk-model-assessed-two-allegheny-agencies.md) [+W]
 
 ## Related Elements

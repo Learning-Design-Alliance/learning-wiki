@@ -44,7 +44,7 @@ The review reports that "Most studies did not test for moderating effects" of st
 
 
 ## Related Claims
-- [Demographic diversity characteristics are inconsistently reported across published universal school-based SEL intervention evaluations](inconsistent-diversity-reporting-sel-evaluations.md) — related
+- Demographic diversity characteristics are inconsistently reported across published universal school-based SEL intervention evaluations — related
 - [Program and delivery characteristics moderate SEL effects: implementation quality, duration, skill practice, and delivery agent](sel-effects-moderators-implementation-delivery.md) — related
-- [Moderation analyses in reviewed SEL evaluations often lacked conceptual or empirical justification from prior literature or hypotheses](unjustified-sel-moderation-analyses.md) — related
+- Moderation analyses in reviewed SEL evaluations often lacked conceptual or empirical justification from prior literature or hypotheses — related
 - [Too few studies exist to draw robust conclusions on moderating factors (age, gender, screen size, dosage, SAMR-based activities) or on whether benefits persist beyond the post-test](mobile-device-moderators-insufficient-evidence.md) — related

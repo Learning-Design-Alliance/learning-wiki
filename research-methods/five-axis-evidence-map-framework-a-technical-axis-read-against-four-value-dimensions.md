@@ -12,7 +12,7 @@ generated:
 # Five-axis evidence map framework: a technical axis read against four value dimensions
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The review's organizing framework separates technical sophistication (RQ1: tasks, methods, technological families, contexts) from four analytically separate value dimensions (RQ2–RQ5). The review states it "distinguishes technical sophistication (RQ1) from four related but analytically separate value dimensions (RQ2–RQ5)" covering depth, validation and reporting, actionability, and responsible use. Its core argument is that "Technical complexity should therefore not be used as a proxy for analytical depth, methodological robustness, educational usefulness, or responsible use." The framework is operationalized through seven extraction domains and versioned coding rules (D1–D5 depth, A0–A5 actionability, M1–M11 reporting indicators) applied to 421 studies.
@@ -22,8 +22,6 @@ The review's organizing framework separates technical sophistication (RQ1: tasks
 - **Five-axis evidence map framework: a technical axis (RQ1) read against four value dimensions (analytical depth, methodological validation and reporting, actionability, responsible use)**: The review's organizing framework separates technical sophistication (RQ1: tasks, methods, technological families, contexts) from four analytically separate value dimensions (RQ2–RQ5). The review states it "distinguishes technical sophistication (RQ1) from four related but analytically separate value dimensions (RQ2–RQ5)" covering depth, validation and reporting, actionability, and responsible use. Its core argument is that "Technical complexity should therefore not be used as a proxy for analytical depth, methodological robustness, educational usefulness, or responsible use." The framework is operationalized through seven extraction domains and versioned coding rules (D1–D5 depth, A0–A5 actionability, M1–M11 reporting indicators) applied to 421 studies. (Eicher et al. (2026))
 
 ### Claims
-- [Among 421 SET-NLP studies, 61.3% demonstrate output or stronger (A2+) but only 11.6% evaluate outputs with intended users or stronger (A3+), a 49.7 percentage-point drop](../claims/set-nlp-actionability-discontinuity-a2-a3.md) [+M]
-- [Sentiment analysis is the modal NLP task in SET research (300/421), while diagnostic/generative depth (D4–D5, 28.2%) and formal fairness metrics (1.9%) are rare](../claims/set-nlp-sentiment-modal-depth-fairness-rare.md) [+M]
 
 ## Related Research Methods
 -

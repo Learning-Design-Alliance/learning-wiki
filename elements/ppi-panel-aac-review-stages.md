@@ -17,7 +17,7 @@ sources:
 # Public and patient involvement (PPI) panel embedded across all stages of the AAC evidence synthesis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The protocol establishes a PPI panel of AAC-familiar stakeholders to support the review from the outset. The protocol states: "A PPI panel has been established to support this qualitative evidence synthesis across all stages of the review." The group comprises a primary school principal, teacher, special needs assistant, speech and language therapist, parent and person with lived experience. Members reviewed and refined the research question and inclusion criteria, advised on implementation issues of community importance, will review synthesis outcomes for relevance and reliability, and will co-write a lay summary and guide dissemination.
@@ -40,7 +40,6 @@ The protocol establishes a PPI panel of AAC-familiar stakeholders to support the
 
 ## Claims
 
-- [Reviewers judged the protocol methodologically rigorous and approved it, while requesting clarification on NPT justification, grey-literature search detail, and analysis steps](../claims/peer-review-approval-clarification-requests.md) [+W]
 
 ## Related Elements
 

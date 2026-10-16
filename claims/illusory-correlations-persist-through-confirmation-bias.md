@@ -45,5 +45,5 @@ This is a specific, well-documented case of a more general vulnerability describ
 
 ## Related Claims
 
-- [The RCT is considered the gold standard of research evidence because randomization ensures only the intervention could cause treatment-control outcome differences](rct-gold-standard-randomization-logic.md) — the general claim this finding bears on, with the studies behind it
+- The RCT is considered the gold standard of research evidence because randomization ensures only the intervention could cause treatment-control outcome differences — the general claim this finding bears on, with the studies behind it
 - [Teacher effectiveness compounds over consecutive years](teacher-effectiveness-compounds-over-consecutive-years.md) — an example of a correlational finding with strong enough design (tracked cohorts, contrasted assignment patterns) to support a causal-adjacent policy conclusion, unlike an illusory correlation

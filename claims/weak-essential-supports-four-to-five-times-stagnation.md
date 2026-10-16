@@ -48,5 +48,5 @@ Observational analysis of Chicago elementary schools comparing stagnation in ITB
 - [Elementary schools strong on at least three of five essential organizational elements were 10 times more likely to improve and 30 times less likely to stagnate](schools-strong-three-plus-supports-ten-times-more-likely-improve.md) — related
 - Chicago schools strong in most of the five essential supports were about 10 times more likely to show substantial gains in reading and mathematics — related
 - [Schools strong in the five essential supports are more likely to improve academically](essential-supports-strength-linked-academic-improvement.md) — related
-- [Factor analysis of the Chicago school surveys produced thirteen composite indicators, which with four stand-alone measures yielded seventeen overall indicators](thirteen-composite-indicators-seventeen-total.md) — related
+- Factor analysis of the Chicago school surveys produced thirteen composite indicators, which with four stand-alone measures yielded seventeen overall indicators — related
 - Schools strong in five essential supports were at least ten times more likely to show substantial reading and math gains — related

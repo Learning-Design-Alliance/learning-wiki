@@ -17,7 +17,7 @@ sources:
 # Evidence reviews for evidence-based program decisions
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article frames evidence reviews as "projects that identify, assess, and summarize existing research in a given area" that play an important role in supporting the quality of program evaluations and how findings are used. Their goals and standards determine conclusions about whether an evaluation is of high quality or a program is effective, and they "encourage the use of sound scientific principles to identify, select, and implement evidence-based programs."
@@ -27,10 +27,6 @@ The article frames evidence reviews as "projects that identify, assess, and summ
 - **Evidence reviews as projects that identify, assess, and summarize existing research to support evidence-based program decisions**: The article frames evidence reviews as "projects that identify, assess, and summarize existing research in a given area" that play an important role in supporting the quality of program evaluations and how findings are used. Their goals and standards determine conclusions about whether an evaluation is of high quality or a program is effective, and they "encourage the use of sound scientific principles to identify, select, and implement evidence-based programs." (Westbrook et al. (2017))
 
 ### Claims
-- [Federally funded evidence reviews show substantial variation in how they conceptualize effectiveness](../claims/evidence-reviews-vary-effectiveness-conceptualization.md) [+M]
-- [Fourteen federally funded evidence reviews agree on broad critical elements for assessing evaluation quality](../claims/evidence-reviews-agree-broad-quality-elements.md) [+W]
-- [Evidence reviews differ in how they assess some quality elements, such as acceptable amounts of attrition](../claims/evidence-reviews-differ-element-assessment.md) [+W]
-- [Despite differences in topic and available research, evidence reviews typically favor evaluations that limit potential bias](../claims/evidence-reviews-favor-low-bias-evaluations.md) [+W]
 
 ## Related Research Methods
 -
@@ -66,10 +62,6 @@ The article frames evidence reviews as "projects that identify, assess, and summ
 
 ### Claims
 
-- [Evidence Reviews Vary Effectiveness Conceptualization](../claims/evidence-reviews-vary-effectiveness-conceptualization.md) [+M]
-- [Fourteen federally funded evidence reviews agree on broad critical elements for assessing evaluation quality](../claims/evidence-reviews-agree-broad-quality-elements.md) [+W]
-- [Evidence reviews differ in how they assess some quality elements, such as acceptable amounts of attrition](../claims/evidence-reviews-differ-element-assessment.md) [+W]
-- [Despite differences in topic and available research, evidence reviews typically favor evaluations that limit potential bias](../claims/evidence-reviews-favor-low-bias-evaluations.md) [+W]
 
 ## Related Theories
 - 

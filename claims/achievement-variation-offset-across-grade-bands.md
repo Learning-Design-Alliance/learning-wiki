@@ -43,4 +43,4 @@ Decomposition analysis of pretest score variation within classes, between classe
 
 
 ## Related Claims
-- [Random assignment in the Baker (1997) trial produced pretest differences favoring the comparison curriculum, controlled by using the pretest as a covariate](baker-trial-pretest-difference-covariate-control.md) — related
+- Random assignment in the Baker (1997) trial produced pretest differences favoring the comparison curriculum, controlled by using the pretest as a covariate — related

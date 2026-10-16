@@ -16,7 +16,7 @@ sources:
 # Functional behavioral assessment as an individualized, operant-based problem-solving process
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The report defines FBA as "an individualized problem-solving process for addressing student problem behavior". Grounded in operant conditioning, it holds that behaviors are maintained by their consequences or functions, such as reinforcement. Assessment identifies the environmental conditions preceding problem behavior and the rewards maintaining it, and the resulting information is used to design individualized interventions that reduce problem behaviors and increase positive behaviors. The report notes FBA has no single developer; researchers have produced interview protocols, survey instruments, and observational tools for gathering information about functional relationships between students' behaviors and their environments.
@@ -39,7 +39,6 @@ The report defines FBA as "an individualized problem-solving process for address
 
 - [Fba Potentially Positive School Engagement](../claims/fba-potentially-positive-school-engagement.md) [+M]
 - Fba Potentially Positive Problem Behavior [+M]
-- [The eligible evidence base for FBA-based interventions consists entirely of single-case design studies, 17 of which met pilot standards](../claims/fba-evidence-base-single-case-only.md) [+W]
 - [Single-case evidence on FBA-based interventions for social-emotional competence does not reach the threshold for an effectiveness rating](../claims/fba-social-emotional-competence-below-threshold.md) [~W]
 
 ## Related Theories

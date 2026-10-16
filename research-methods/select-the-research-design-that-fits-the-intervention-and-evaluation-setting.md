@@ -12,7 +12,7 @@ generated:
 # Select the research design that fits the intervention and evaluation setting
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that school health researchers take practical steps to ensure high-quality evidence, beginning with design choice. Among the steps it names are "selecting the right research design for the intervention and evaluation setting, identifying appropriate sample definitions and analysis methods." The principle holds that design selection should be driven by the characteristics of the intervention being evaluated and the setting in which the evaluation takes place, rather than applied uniformly.
@@ -22,7 +22,6 @@ The article recommends that school health researchers take practical steps to en
 - **Select the research design that fits the intervention and evaluation setting**: The article recommends that school health researchers take practical steps to ensure high-quality evidence, beginning with design choice. Among the steps it names are "selecting the right research design for the intervention and evaluation setting, identifying appropriate sample definitions and analysis methods." The principle holds that design selection should be driven by the characteristics of the intervention being evaluated and the setting in which the evaluation takes place, rather than applied uniformly. (Brian Goesling (2019))
 
 ### Claims
-- [A methodological review identifies six key decisions school health researchers must address when designing, conducting, and analyzing cluster randomized trials](../claims/six-key-decisions-cluster-randomized-school-health-trials.md) [+M]
 
 ## Related Research Methods
 -

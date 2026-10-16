@@ -16,7 +16,7 @@ sources:
 # Participant engagement as a continuum shaped by influencing factors and research stage
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 mixed) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The brief conceptualizes how study participants and community members are involved in research as a continuum rather than a binary. It states that "Participant engagement can be conceptualized as a continuum" and that "Several factors influence where a study falls along the continuum." The continuum position "can also vary at each stage of the research process," so engagement depth is treated as dynamic across design, data collection, and reporting rather than fixed for a whole study.
@@ -37,8 +37,6 @@ The brief conceptualizes how study participants and community members are involv
 
 ### Claims
 
-- [Greater participation of district experts in the research process increases the potential for effective research, policy, and practice](../claims/district-expert-participation-increases-research-effectiveness.md) [~W]
-- [When engagement with partners is relatively limited, researchers should be especially thoughtful about how findings translate to action-oriented recommendations](../claims/limited-engagement-requires-careful-action-oriented-recommendations.md) [~W]
 
 ## Related Theories
 - 

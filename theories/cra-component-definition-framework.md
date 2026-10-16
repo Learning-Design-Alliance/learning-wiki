@@ -15,7 +15,7 @@ sources:
 # Culturally Responsive Assessment framework built from component definitions of culture, responsiveness, and assessment
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The guide defines CRA through a component-based approach: instructors and students first build working definitions of the individual terms culture, responsiveness, and assessment before assembling a definition of CRA. The collaborative defines culture as "a social concept that describes complex traditions, customs, and practices of a society or social group", encompassing implicit components like social identity and shared experiences, and shaped by power dynamics. Responsiveness is framed as active, empathetic engagement that may extend toward sustaining cultural richness, and assessment is expanded beyond individual tests to community and systemic factors.
@@ -37,7 +37,6 @@ The guide defines CRA through a component-based approach: instructors and studen
 
 ### Claims
 
-- [Rapid proliferation of culturally focused assessment terms after 2020 risks the jingle-jangle fallacy](../claims/cra-term-proliferation-jingle-jangle.md) [+W]
 
 ## Related Theories
 

@@ -54,7 +54,7 @@ The expert panel's synthesis statement in Recommendation 1, grounded in the pane
 | [Alison Cheng 2025](https://doi.org/10.18608/jla.2025.8761) | q2 · design · r2 | i? | [Stage 1 (after the first unit review assignment) is the optimal point for identifying at-r](stage1-optimal-early-at-risk-identification.md) (supports) |
 | [Vincent Zhang 2025](https://doi.org/10.1007/s40593-025-00510-9) | q2 · associational · r2 | i? | [The approach offers a large real-time intervention window, with a median of 176.2-196.1 ho](large-prediction-window-real-time-intervention.md) (supports); [Exploratory heat maps reveal three student groups, including disengaged-but-successful stu](interaction-patterns-three-student-groups-heatmaps.md) (qualifies) |
 | [Shihao Wang 2026](https://doi.org/10.48550/arxiv.2609.29874) | q2 · associational · r2 | i? | [Secondary outcomes differed in predictability: near-term related-task performance was hard](secondary-outcomes-varied-predictability.md) (qualifies) |
-| [Crompton 2023](https://doi.org/10.1186/s41239-023-00392-8) | q2 · quant-synthesis · r2 | i? | [Predicting student outcomes was a common AIEd use in higher education, with ten studies pr](predicting-academic-performance-ai-ed-he.md) (supports) |
+| [Crompton 2023](https://doi.org/10.1186/s41239-023-00392-8) | q2 · quant-synthesis · r2 | i? | Predicting student outcomes was a common AIEd use in higher education, with ten studies pr (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

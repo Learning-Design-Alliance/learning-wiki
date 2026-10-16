@@ -17,7 +17,7 @@ sources:
 # Mathematica national evaluation of four early elementary math curricula
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (7 for) · 4 studies (3 causal, 1 design), `q2`–`q3` · 0 of 4 report an effect size · 7 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 3 studies (3 causal), `q2`–`q3` · 0 of 3 report an effect size · 6 claims rest on one study
 
 ## Description
 A large-scale, national study conducted by Mathematica Policy Research for the U.S. Department of Education's Institute of Education Sciences, comparing "the effects of four early elementary math curricula on improving student math achievement in disadvantaged schools". The study ran under the associated project "Evaluation of Mathematics Curricula" with a 2005-2013 time frame, and used experimental methods with school-level random assignment to estimate the curricula's relative effects on student math achievement.
@@ -39,7 +39,6 @@ A large-scale, national study conducted by Mathematica Policy Research for the U
 
 ## Claims
 
-- [The evaluation uses a school-level random assignment design to estimate the relative effects of four early elementary math curricula](../claims/school-level-random-assignment-four-math-curricula.md) [+M]
 - [A large-scale, rigorous study compared four elementary math curricula's effects on achievement across two years, first through second grade](../claims/four-curricula-two-year-elementary-math-study-design.md) [+M]
 - [The study is the largest experimental-design study of multiple math curricula, covering 110 schools with this report based on the first cohort of 39 schools](../claims/largest-experimental-study-of-math-curricula-110-schools.md) [+M]
 - [First-grade math achievement is significantly higher under Math Expressions and Saxon Math than under Investigations in Number, Data, and Space and Scott Foresman-Addison Wesley Mathematics](../claims/math-expressions-saxon-outperform-investigations-sfaw-first-grade.md) [+M]

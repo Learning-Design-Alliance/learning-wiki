@@ -46,4 +46,4 @@ Longitudinal anonymous classroom poll administered at the opening lecture of AI-
 - [From 2024 onward, yearly mean preference for investing in human intelligence exceeds that for artificial intelligence, with the largest within-year divergence in 2026](post-2024-hi-preference-exceeds-ai.md) — a broader claim this one bears on
 - [AI's key contribution in STEM education is intelligent scaffolding that lowers the threshold for understanding knowledge, driving a shift from knowledge transmission to capability development](ai-intelligent-scaffolding-lowers-knowledge-threshold.md) — related
 - [Course-based emphasis on reframing and stakeholder inquiry shifts pre-service teachers toward informed-designer stances](course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances.md) — related
-- [Linguistic analysis of abstracts shows shifts from knowledge to learning and toward more stakeholders](ijaied-abstract-linguistic-shifts.md) — related
+- Linguistic analysis of abstracts shows shifts from knowledge to learning and toward more stakeholders — related

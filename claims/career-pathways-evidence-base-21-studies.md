@@ -44,4 +44,4 @@ Overview of the evidence base in the guide's introduction: 21 studies met WWC st
 
 ## Related Claims
 - [Intentionally designed career pathways with multiple entry and exit points and stackable credentials receive moderate evidence of improving student outcomes](career-pathways-design-moderate-evidence.md) — related
-- [The guide's recommendations rest on 21 studies meeting WWC standards, with participant samples ranging from 51 to 15,898 students](wwc-advising-evidence-base-21-studies.md) — related
+- The guide's recommendations rest on 21 studies meeting WWC standards, with participant samples ranging from 51 to 15,898 students — related

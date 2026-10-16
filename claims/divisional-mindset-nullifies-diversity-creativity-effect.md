@@ -43,4 +43,4 @@ Simple-effects analysis in the divisional mindset condition (story featured two 
 
 
 ## Related Claims
--
+- [Cross-cultural study of university websites found similar technical features and audience-significant cultural emphases](callahan-university-websites-similar-features.md) — related

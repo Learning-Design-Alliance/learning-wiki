@@ -44,5 +44,5 @@ Descriptive table analysis of principal exit interviews. The paradigm-shift row 
 
 ## Related Claims
 - [The buy-in typology was derived from 39 interviewed principals, whose evaluation attitudes in the table are described as mostly positive](eit-39-principals-mostly-positive-attitudes.md) — a broader claim this one bears on
-- [The principal typology records changes in practice and their severity as distinct columns, with the paradigm-shift type's changes rated high](eit-changes-in-practice-severity-column.md) — a broader claim this one bears on
+- The principal typology records changes in practice and their severity as distinct columns, with the paradigm-shift type's changes rated high — a broader claim this one bears on
 - [The report classifies interviewed principals into a buy-in typology whose table records framework conferences, evaluation attitudes, description of teacher buy-in, changes in practice, and severity for 39 principals](eit-principal-buyin-typology-table.md) — a broader claim this one bears on

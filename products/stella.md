@@ -17,7 +17,7 @@ sources:
 # STeLLA®
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (2 causal, 1 design), `q2`–`q3` · 1 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 design), `q2`–`q3` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A yearlong professional-development program developed and run by BSCS Science Learning in which science teachers analyze lessons through summer institutes and ongoing study-group sessions.
@@ -30,7 +30,6 @@ A yearlong professional-development program developed and run by BSCS Science Le
 ### Claims
 - [STeLLA® has potentially positive effects on science achievement, with a statistically significant effect size of 0.68 and an improvement index of +25 percentile points](../claims/stella-potentially-positive-science-achievement.md) [+M]
 - [An external implementation study rated the STeLLA® and comparison professional development programs similarly on provider effectiveness, pacing, engagement, and collaboration](../claims/stella-comparison-pd-equivalent-implementation-ratings.md) [~M]
-- [The supporting evidence comes from a cluster randomized controlled trial in 77 Colorado elementary schools with low attrition, meeting WWC group design standards without reservations](../claims/stella-cluster-rct-taylor-2017.md) [+M]
 
 ## Related Products and Programmes
 
@@ -113,7 +112,6 @@ STeLLA® (Science Teachers Learning through Lesson Analysis) is a yearlong profe
 
 ## Claims
 
-- [The supporting evidence comes from a cluster randomized controlled trial in 77 Colorado elementary schools with low attrition, meeting WWC group design standards without reservations](../claims/stella-cluster-rct-taylor-2017.md) [+M]
 - [An external implementation study rated the STeLLA® and comparison professional development programs similarly on provider effectiveness, pacing, engagement, and collaboration](../claims/stella-comparison-pd-equivalent-implementation-ratings.md) [~M]
 - [STeLLA® has potentially positive effects on science achievement, with a statistically significant effect size of 0.68 and an improvement index of +25 percentile points](../claims/stella-potentially-positive-science-achievement.md) [+M]
 

@@ -17,7 +17,7 @@ sources:
 # Two key figures depicting the DDDM process
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The framework artifact consists of two key figures that together depict the DDDM process in education. The article states the framework is "encompassed in this document as two key figures" and that they aim to provide a comprehensive picture of the process. These figures are the primary deliverable of the report.
@@ -41,7 +41,6 @@ The framework artifact consists of two key figures that together depict the DDDM
 
 ## Claims
 
-- [The DDDM framework was developed from Mathematica's initiative evaluations and existing literature](../claims/dddm-framework-dual-evidence-base.md) [+W]
 
 ## Related Elements
 - 

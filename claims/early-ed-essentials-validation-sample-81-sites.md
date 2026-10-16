@@ -62,7 +62,7 @@ Survey administration during spring 2016 across the 81 validation sites, with te
 
 
 ## Related Claims
-- [Site-level essential scores were created by averaging standardized measure scores grouped into essentials, informed by exploratory factor analysis](early-ed-essentials-site-score-grouping-efa.md) — related
+- Site-level essential scores were created by averaging standardized measure scores grouped into essentials, informed by exploratory factor analysis — related
 - [The Early Education Essentials is reliable across multiple ECE settings](early-education-essentials-reliable-multiple-settings.md) — related
 - [Site-level pre-k attendance in the validation sample averaged 85.2 percent and varied widely across sites](ece-site-attendance-averaged-85-percent.md) — related
 - [Preschool classrooms in the validation sample scored lowest on Instructional Support relative to Emotional Support and Classroom Organization](ece-sample-instructional-support-lowest-class-domain.md) — related

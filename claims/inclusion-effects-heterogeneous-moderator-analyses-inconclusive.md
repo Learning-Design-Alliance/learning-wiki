@@ -47,5 +47,5 @@ Across the review's random effects meta-analyses, the authors report "a moderate
 - [For assessments taken less than 24 months since exposure, the evidence on deployment effects on mental health is inconclusive](deployment-short-term-evidence-inconclusive.md) — related
 - [Individually analyzed method and approach studies show widely varying effects, with analogy-enhanced teaching rated most effective and two studies insignificant](method-approach-effect-sizes-vary-analogy-largest.md) — related
 - [Inclusion in general is very unlikely to increase or decrease learning and psychosocial adjustment of children with special needs](inclusion-general-no-increase-or-decrease-learning-psychosocial.md) — related
-- [The review planned meta‐analytic synthesis but could not use it because only one study met the inclusion criteria](planned-meta-analysis-unavailable-single-study.md) — related
-- [Meta-analysis offers additional strengths of increased statistical power, moderator analyses, and model testing](meta-analysis-strengths-power-moderators-model-testing.md) — a broader claim this one bears on
+- The review planned meta‐analytic synthesis but could not use it because only one study met the inclusion criteria — related
+- Meta-analysis offers additional strengths of increased statistical power, moderator analyses, and model testing — a broader claim this one bears on

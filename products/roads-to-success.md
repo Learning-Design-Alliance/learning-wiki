@@ -22,7 +22,7 @@ sources:
 # Roads to Success
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 Roads to Success is a school and career planning programme that supports students in exploring careers, understanding pathways to career success, and developing school and career plans.
@@ -38,7 +38,6 @@ Roads to Success is a school and career planning programme that supports student
 - [Two years of Roads to Success exposure had no measurable effect on eighth graders' desire to learn job skills or their study and learning habits](../claims/roads-to-success-no-effect-desire-job-skills-study-habits.md) [-W]
 - [Roads to Success was evaluated as part of an associated project running 2007-2009](../claims/roads-to-success-associated-project-2007-2009.md) [+W]
 - [Funding cuts in 2008 ended the Roads to Success program and its evaluation in 2009](../claims/roads-to-success-funding-cut-2009-conclusion.md) [+W]
-- [The Roads to Success evaluation used a treatment-control design with baseline comparison of groups](../claims/roads-to-success-treatment-control-baseline-comparison.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -80,7 +79,6 @@ Roads to Success is a school and career planning program evaluated over a 2007-2
 - [Two years of Roads to Success exposure had no measurable effect on eighth graders' desire to learn job skills or their study and learning habits](../claims/roads-to-success-no-effect-desire-job-skills-study-habits.md) [-W]
 - [Roads to Success was evaluated as part of an associated project running 2007-2009](../claims/roads-to-success-associated-project-2007-2009.md) [+W]
 - [Funding cuts in 2008 ended the Roads to Success program and its evaluation in 2009](../claims/roads-to-success-funding-cut-2009-conclusion.md) [+W]
-- [The Roads to Success evaluation used a treatment-control design with baseline comparison of groups](../claims/roads-to-success-treatment-control-baseline-comparison.md) [+W]
 
 ## Related Elements
 
@@ -121,7 +119,6 @@ Roads to Success is a school-based program launched in early 2005 that, per the 
 
 - [Roads to Success was evaluated as part of an associated project running 2007-2009](../claims/roads-to-success-associated-project-2007-2009.md) [+W]
 - [Funding cuts in 2008 ended the Roads to Success program and its evaluation in 2009](../claims/roads-to-success-funding-cut-2009-conclusion.md) [+W]
-- [The Roads to Success evaluation used a treatment-control design with baseline comparison of groups](../claims/roads-to-success-treatment-control-baseline-comparison.md) [+W]
 
 ## Related Elements
 

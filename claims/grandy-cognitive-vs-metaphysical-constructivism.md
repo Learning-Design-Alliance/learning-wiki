@@ -43,7 +43,7 @@ The preface summarizes Grandy's chapter 'Constructivism and Objectivity: Disenta
 
 
 ## Related Claims
-- [Constructivism is a highly influential theory in science education, with over five thousand scholarly articles published in three decades](constructivism-influence-five-thousand-articles.md) — related
-- [Phillips criticises social constructivism for advancing strong but untenable claims that are then qualified to the level of triteness](phillips-untenable-social-constructivist-claims.md) — related
+- Constructivism is a highly influential theory in science education, with over five thousand scholarly articles published in three decades — related
+- Phillips criticises social constructivism for advancing strong but untenable claims that are then qualified to the level of triteness — related
 - Constructivist responses to Objectivist criticism have redirected rather than addressed the specific questions raised — related
-- [Slezak argues the Edinburgh strong programme's core claims are flawed, while Suchting defends Bloor's social constructivist account against those criticisms](slezak-suchting-strong-programme-debate.md) — related
+- Slezak argues the Edinburgh strong programme's core claims are flawed, while Suchting defends Bloor's social constructivist account against those criticisms — related

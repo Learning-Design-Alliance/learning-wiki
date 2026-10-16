@@ -69,3 +69,4 @@ In Experiment 3 of the prior-knowledge article, familiarity and rated imageabili
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Passage cohesion showed no effect on delayed recall; means showed greater recall from less cohesive passages](cohesion-no-effect-delayed-recall.md) — related
 - The five passage attributes are significantly intercorrelated, with imagery, interest, and linkage highly correlated — related
+- [Interest-evoking text revision strategies raised fourth and sixth graders' recall of a history passage but not acquisition of abstract, general information](interest-evoking-strategies-recall-history-passage.md) — related

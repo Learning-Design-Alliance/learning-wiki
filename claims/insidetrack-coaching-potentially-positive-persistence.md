@@ -42,6 +42,6 @@ WWC calculations from the Bettinger & Baker (2014) RCT, seven effectively random
 
 ## Related Claims
 - [ASAP likely increases credit accumulation and persistence rates](asap-increases-credit-accumulation-persistence.md) — related
-- [The qualifying InsideTrack© study was an RCT across 17 lotteries in eight universities, with only seven 50/50 lotteries meeting WWC standards](bettinger-baker-2014-rct-lottery-design.md) — related
+- The qualifying InsideTrack© study was an RCT across 17 lotteries in eight universities, with only seven 50/50 lotteries meeting WWC standards — related
 - [InsideTrack© Coaching costs roughly $390–$500 per student per semester depending on program scale and intensity](insidetrack-coaching-cost-per-student-semester.md) — related
 - [InsideTrack© Coaching shows no discernible effects on college degree completion (attainment)](insidetrack-coaching-no-discernible-attainment-effect.md) — related

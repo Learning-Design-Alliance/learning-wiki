@@ -67,7 +67,7 @@ sources:
 # Cultural & Life Experiences Connections
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 45 claims (34 for, 11 mixed) · 46 studies (12 qualitative, 11 causal, 8 design, 6 review, 4 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q4` · 3 of 46 report an effect size · 39 claims rest on one study
+> **Evidence** · 46 claims (35 for, 11 mixed) · 47 studies (13 qualitative, 11 causal, 8 design, 6 review, 4 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q4` · 3 of 47 report an effect size · 40 claims rest on one study
 
 ## Conditional relationship
 
@@ -187,6 +187,7 @@ Claims cited before this page was rewritten, or found while rewriting it, that a
 - [Teacher Researcher Difficulties Eased By Reflective Labs](../claims/teacher-researcher-difficulties-eased-by-reflective-labs.md) [~W]
 - [In the Tucson household ethnography, exchanges within households' social networks were often reciprocal and built mutual trust through shared practical activities.](../claims/household-exchange-networks-are-reciprocal-and-build-trust.md) [+W]
 - [Teachers doing household ethnography had readier entree to families than anthropologists and were welcomed without suspicion in the Tucson project.](../claims/teachers-have-readier-household-entree-than-anthropologists.md) [+W]
+- [International students wanted more global cases and closer connections between case analyses and their local work contexts](../claims/lack-of-global-cases-local-relevance.md) [+W] — attached 2026-10-16 from Liu et al. (2010), which proposed "Design culturally inclusive online learning environments by building diversity into course design".
 
 ## Objective and learner-valued goal
 

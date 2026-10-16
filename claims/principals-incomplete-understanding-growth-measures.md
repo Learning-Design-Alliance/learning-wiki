@@ -46,4 +46,4 @@ The baseline survey collected information on school administrators' knowledge of
 - [Most principals in EPIC sites have positive attitudes toward EPIC and merit pay in general](epic-principals-positive-attitudes-merit-pay.md) — related
 - [Principals prefer school-level performance and achievement growth over teacher-level performance alone or test-score levels for incentive awards](principals-prefer-school-level-growth-for-incentives.md) — related
 - [The EPIC evaluation baseline report compares student characteristics across the program's three partners and compares award-determination data with data on all students in the awarded schools](epic-baseline-compares-partner-student-characteristics-and-award-data.md) — related
-- [The EPIC evaluation design report documents estimation procedures, partner-level operations, and a work plan](epic-report-details-procedures-and-work-plan.md) — related
+- The EPIC evaluation design report documents estimation procedures, partner-level operations, and a work plan — related

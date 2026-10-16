@@ -43,4 +43,4 @@ Feature comparison against representative tools (CS188 Gridworld, RL Playground,
 
 
 ## Related Claims
-- [Of 100 human-audited claims, 39 are fully verifiable, 55 partially verifiable, and 6 not verifiable, with main responses showing stronger provenance than follow-ups](human-audit-claim-verifiability.md) — related
+- Of 100 human-audited claims, 39 are fully verifiable, 55 partially verifiable, and 6 not verifiable, with main responses showing stronger provenance than follow-ups — related

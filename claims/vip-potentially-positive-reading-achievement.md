@@ -43,7 +43,7 @@ WWC re-analysis of the Carlo et al. (2004) randomized controlled trial's English
 
 
 ## Related Claims
-- [Severe and differential attrition at grade 4 (68.2% intervention vs. 44.2% comparison) led the WWC to exclude grade-4 outcomes from review](cwpt-grade4-differential-attrition-excluded.md) — related
+- Severe and differential attrition at grade 4 (68.2% intervention vs. 44.2% comparison) led the WWC to exclude grade-4 outcomes from review — related
 - [EIR® had a positive, substantively important but statistically non-significant effect on first-grade reading comprehension](eir-comprehension-substantively-important-ns.md) — related
 - [The WWC rates Reading Mastery as having potentially positive effects on the reading achievement of English language learners](reading-mastery-potentially-positive-effects-ell-reading.md) — related
 - [VIP shows no statistically significant or substantively important impacts on PPVT-R and Morphology outcomes for English language learners](vip-null-ppvt-morphology-impacts.md) — related

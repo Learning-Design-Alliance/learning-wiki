@@ -94,7 +94,7 @@ Random-effects meta-analysis of 56 effect sizes from 42 controlled experimental 
 
 - [GenAI-assisted education produces significantly higher academic achievement than non-GenAI-assisted approaches (g = 0.40)](genai-higher-academic-achievement-g040.md) — related
 - [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — related
-- [Effect sizes across GenAI studies are highly heterogeneous, requiring random-effects pooling](genai-effect-heterogeneity-random-effects.md) — related
+- Effect sizes across GenAI studies are highly heterogeneous, requiring random-effects pooling — related
 - [Motivational orientation is strongly associated with the role students assign to GenAI: intrinsically motivated students most often position it as an instructor, extrinsically motivated students as a replacement tool](motivation-shapes-genai-role-assignment.md) — related
 - [GenAI effects on externally assessed learning are highly heterogeneous and conditional on prior knowledge, scaffolding, verification, and task design, with pooled effects unstable under publication-bias correction](genai-learning-effects-heterogeneous-conditional.md) — related
 - [GenAI-related misconduct allegations rose from 11.9% of all misconduct cases in 2023 to 36.9% in 2025 against a stable total caseload](genai-misconduct-allegations-grew-2023-2025.md) — related

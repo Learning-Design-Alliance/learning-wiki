@@ -75,3 +75,4 @@ Story relevance moderator rows from Table 3 of the media-comparison meta-regress
 - [Single noncollaborative, noncompetitive play shows the largest learning effects; single competitive play shows no benefit relative to nongame conditions](single-noncompetitive-play-largest-effects.md) — related
 - [Digital game conditions produce significantly better learning outcomes than nongame conditions (g = 0.33) in media comparisons](digital-games-outperform-nongame-media-comparisons.md) — a broader claim this one bears on
 - [Third-person camera perspective games show significant learning benefits while first-person perspective games show no significant benefit](camera-perspective-moderator-games.md) — related
+- [Entertainment value of simulation games did not moderate learning relative to comparison instruction](entertainment-value-does-not-moderate-simulation-game-learning.md) — related

@@ -17,7 +17,7 @@ sources:
 # Describe the specific elements of an effective program so it can be replicated
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 After an intervention is shown effective, document its specific program elements so practitioners can replicate it. This paper follows that approach: given positive random-assignment results, "this new paper describes the specific elements of the successful program so it can be replicated." The elements documented are those present in the successful BELL summer program.
@@ -38,7 +38,6 @@ After an intervention is shown effective, document its specific program elements
 
 ### Claims
 - [Bell Summer Program Random Assignment Effective](../claims/bell-summer-program-random-assignment-effective.md) [+M]
-- [Bell Elements Causal Attribution Limited](../claims/bell-elements-causal-attribution-limited.md) [~W]
 
 ## Related Designs
 - 

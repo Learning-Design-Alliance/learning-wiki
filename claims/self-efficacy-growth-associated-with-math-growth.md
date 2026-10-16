@@ -48,7 +48,7 @@ Latent curve modeling of repeated measures of math achievement and self-efficacy
 ## Related Claims
 
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — the general claim this finding bears on, with the studies behind it
-- [Prior longitudinal studies of math and self-efficacy tend to fit models assuming the constructs lack unique developmental trajectories and do not examine within-person relations](prior-studies-assume-no-unique-trajectories.md) — related
+- Prior longitudinal studies of math and self-efficacy tend to fit models assuming the constructs lack unique developmental trajectories and do not examine within-person relations — related
 - [Within-person deviations from math and self-efficacy growth trajectories at a given time point are not related across constructs](within-person-deviations-unrelated-across-constructs.md) — related
 - [Fifth-grade self-efficacy is associated with later math and reading growth (.15 and .19 standardized units per SD), mediating ELL status's indirect negative association with growth](self-efficacy-intercept-predicts-achievement-growth-mediation.md) — related
 - [Academic self-efficacy is associated with high school graduation rates and mathematics achievement](self-efficacy-associated-graduation-and-math.md) — a broader claim this one bears on

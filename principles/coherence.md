@@ -64,7 +64,7 @@ sources:
 # Coherence Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (6 for, 18 mixed) · 30 studies (13 causal, 5 quant-synthesis, 5 review, 3 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 6 of 30 report an effect size · 17 claims rest on one study
+> **Evidence** · 25 claims (7 for, 18 mixed) · 31 studies (14 causal, 5 quant-synthesis, 5 review, 3 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 7 of 31 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -162,6 +162,7 @@ Each question links a general claim that gathers the studies behind it and the n
 
 - [Cognitive load reduction improves learning](../claims/cognitive-load-reduction-improves-learning.md) [+M]: its entries are all on split attention and contiguity; it names coherence as a lever only in its discussion, so it does not bear on this page's relationship.
 - [Different media combinations affect recall and retention](../claims/media-combinations-affect-recall-and-retention.md) [~W]: a dual-coding experiment on which media carry the content, not on adding irrelevant material; it bears on the umbrella [Multimedia Learning](multimedia-learning.md) page more than here.
+- [Adding seductive details to multimedia instruction significantly worsens recall of pertinent content compared with instruction without seductive details](../claims/seductive-details-worsen-recall-versus-control.md) [+M] — attached 2026-10-16 from Kienitz et al. (2023), which proposed "Prompt learners that seductive details are irrelevant to the learning objective to protect recall of pertinent content"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

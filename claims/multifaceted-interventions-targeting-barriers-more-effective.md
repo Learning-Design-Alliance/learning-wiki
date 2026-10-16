@@ -43,7 +43,7 @@ The overview's cross-review synthesis compares multifaceted interventions with s
 
 
 ## Related Claims
-- [Forty-one systematic reviews of professional behavior change interventions published 1966-1998 were identified, covering a wide range of interventions and behaviors](forty-one-reviews-provider-behavior-change.md) — related
+- Forty-one systematic reviews of professional behavior change interventions published 1966-1998 were identified, covering a wide range of interventions and behaviors — related
 - [Most professional behavior change interventions are effective under some circumstances but none are effective under all circumstances](no-intervention-effective-all-circumstances.md) — related
 - [Educational outreach (for prescribing) and reminders are promising approaches to changing professional behavior](educational-outreach-and-reminders-promising.md) — a narrower finding that bears on this claim
 - [Passive dissemination approaches are generally ineffective and unlikely to result in professional behavior change](passive-dissemination-ineffective-provider-behavior.md) — a narrower finding that bears on this claim

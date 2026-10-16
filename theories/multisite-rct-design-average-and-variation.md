@@ -16,7 +16,7 @@ sources:
 # Multisite randomized trials as a design for estimating both average effects and cross-site variation
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 3 studies (2 causal, 1 theoretical), `q2`–`q4` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (2 causal), `q2`–`q4` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The article presents multisite randomized controlled trials, in which "individuals are randomly assigned to alternative treatment arms within sites", as a design that can estimate both the cross-site average effect of treatment assignment (intent to treat) and the amount that impact varies across sites. It argues both statistics are substantively and methodologically important, but that only the average has been well studied, motivating its empirical contribution.
@@ -41,7 +41,6 @@ The article presents multisite randomized controlled trials, in which "individua
 - [Cross-site impact variation has implications for the statistical precision of multisite trials](../claims/cross-site-variation-implications-trial-precision.md) [+W]
 - [The study explores hypotheses about factors that predict the magnitude of cross-site impact variation](../claims/hypotheses-predicting-cross-site-impact-variation.md) [+W]
 - [BARR produces a small statistically significant positive effect on NWEA MAP math outcomes in a multi-site student-level randomized trial](../claims/barr-multisite-rct-map-math-es-008.md) [+W]
-- [In multi-armed trials seeking the most effective treatments, each pairwise contrast sample is representative of the full set of randomized units](../claims/pairwise-contrast-samples-represent-full-randomized-set.md) [+W]
 
 ## Related Theories
 

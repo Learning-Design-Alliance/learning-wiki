@@ -51,3 +51,4 @@ In the Findings (Community section) of the interview study, e-teachers reported 
 - [The change in tools caused the most disruption in e-teachers' activity system, replacing body language and visual cues with text and voice mediation](tool-change-most-disruption-online-teaching.md) — related
 - [A student-led small-group discussion assessment sustained online participation and produced denser peer interaction than a standard teacher-led discussion board](student-led-discussion-task-sustains-online-participation.md) — related
 - Online peer assisted learning communities foster informal learning and spontaneous interest-based groups — reports the opposite
+- [Design has not caught up with technology; creating for diverse audiences must be deliberate](design-has-not-caught-up-with-technology.md) — a broader claim this one bears on

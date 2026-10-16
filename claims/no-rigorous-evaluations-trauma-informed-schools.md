@@ -44,7 +44,7 @@ Systematic review searching nine electronic databases, registers, gray literatur
 
 ## Related Claims
 - [No eligible studies of collegiate recovery communities were identified, so there is no rigorous evidence on CRC effectiveness](no-eligible-crc-studies-identified.md) — a narrower finding that bears on this claim
-- [The review planned meta‐analytic synthesis but could not use it because only one study met the inclusion criteria](planned-meta-analysis-unavailable-single-study.md) — related
+- The review planned meta‐analytic synthesis but could not use it because only one study met the inclusion criteria — related
 - [The evidence base on dual language programs is thin: only two of 122 identified studies met WWC standards](dual-language-evidence-base-thin-two-of-122.md) — related
 - [Only three of twelve identified OLI studies met WWC group design standards](oli-three-of-twelve-studies-meet-wwc-standards.md) — related
 - [The evidence base for Accelerated Reader with adolescent learners is thin: only 2 of 318 reviewed studies met WWC standards](accelerated-reader-thin-evidence-base-318-studies.md) — related

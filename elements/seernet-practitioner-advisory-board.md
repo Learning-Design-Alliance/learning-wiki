@@ -17,7 +17,7 @@ sources:
 # SEERNet Practitioner Advisory Board: six practitioners meeting monthly to advise the research network
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The advisory board comprises six practitioners—classroom teachers, school psychologists, instructional coaches, district-level and state leaders—recruited to give practitioners "a direct voice in SEERNet." Meeting monthly from January through May 2023, the board discussed DLP use, challenges and gaps, engaging practitioners in research, and dissemination, offering real-time insights into classroom realities. The board brings content and context expertise with a combined 146 years of experience in education, and five of six have pursued doctoral-level work.
@@ -39,7 +39,6 @@ The advisory board comprises six practitioners—classroom teachers, school psyc
 
 ## Claims
 
-- [Practitioners identified classroom complexities and fidelity-of-implementation variability as considerations experimental research should account for beyond causal effects](../claims/practitioner-considerations-experimental-research.md) [+W]
 - [Practitioner engagement initiatives reflected buy-in rather than ownership because leadership developed ideas and decisions before seeking context-expert input](../claims/seernet-initiatives-buy-in-not-ownership.md) [~W]
 
 ## Related Elements

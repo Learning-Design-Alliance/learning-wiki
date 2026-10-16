@@ -17,7 +17,7 @@ sources:
 # Collegiate recovery communities (CRCs): campus‐embedded recovery support services within larger universities
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 mixed) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 CRCs "provide recovery oriented support services (e.g., self‐help groups, counseling sessions, sober dorms) for students, but are embedded within larger college or university settings." They operate on at least 75 college campuses, range in size from 5–80 students, and offer seminars, 12‐Step meetings, counseling, recreational and social events, life‐skills training, and linkages to community supports. Unlike RHSs, they do not usually offer separate academic classes; their primary aim is improving abstinence rates and preventing relapse so students remain enrolled and succeed.
@@ -43,7 +43,6 @@ CRCs "provide recovery oriented support services (e.g., self‐help groups, coun
 ## Claims
 
 - [No eligible studies of collegiate recovery communities were identified, so there is no rigorous evidence on CRC effectiveness](../claims/no-eligible-crc-studies-identified.md) [~W]
-- [The review planned meta‐analytic synthesis but could not use it because only one study met the inclusion criteria](../claims/planned-meta-analysis-unavailable-single-study.md) [~W]
 
 ## Related Elements
 

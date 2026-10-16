@@ -77,5 +77,5 @@ This report narrates the prior i3-funded RCT by Jones & Christian (2020), which 
 - Future Forward produces statistically significant gains in foundational literacy skills in a two-year RCT — related
 - A regression discontinuity study found a positive but non-significant effect of +0.16 on standardized literacy growth — related
 - FF's attendance impact was greatest for Black male students, and especially Black male students with low baseline attendance — related
-- [Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial](rd-replication-matches-experimental-estimates-two-interventions.md) — related
-- [The case study cannot distinguish which program elements caused the positive impacts](bell-elements-causal-attribution-limited.md) — related
+- Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial — related
+- The case study cannot distinguish which program elements caused the positive impacts — related

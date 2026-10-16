@@ -70,5 +70,5 @@ The research brief's own description announces an "examination of student diseng
 - [E-M scoring partially accounts for observed RIT score differences between disengaged first tests and engaged retests](em-scoring-partially-accounts-retest-score-differences.md) — related
 - [Student test-taking disengagement on remotely administered adaptive interim assessments differs from disengagement on the same assessment administered in school](remote-interim-testing-disengagement-differs-from-in-school.md) — related
 - [Removing disengaged examinees from the sample will likely induce bias in estimates of educational effectiveness](removing-disengaged-examinees-induces-bias.md) — related
-- [Filtered students had much lower effort-moderated achievement, suggesting motivation filtering may bias mean estimates](filtering-removes-low-achievers-bias-risk.md) — related
+- Filtered students had much lower effort-moderated achievement, suggesting motivation filtering may bias mean estimates — related
 - [Computer-based test advantages can be used to manage the effects of disengagement as a construct-irrelevant factor](cbt-manages-disengagement-construct-irrelevance.md) — related

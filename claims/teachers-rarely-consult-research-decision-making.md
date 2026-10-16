@@ -45,4 +45,4 @@ Advisory board discussions, January–May 2023, about how research is accessed a
 ## Related Claims
 - Education stakeholders report that limited, hard-to-find, and rarely trustworthy information about edtech products creates significant barriers to selection — related
 - [Research questions are rarely conceived in partnership with practitioners, which undermines research impact on educational decision making](research-questions-rarely-designed-with-practitioners.md) — related
-- [A literature review identifies misalignment between conducted research and needed evidence, contextual factors, and rarely used bridging frameworks as challenges to evidence use in policy decisions](literature-review-challenges-evidence-use-policy.md) — related
+- A literature review identifies misalignment between conducted research and needed evidence, contextual factors, and rarely used bridging frameworks as challenges to evidence use in policy decisions — related

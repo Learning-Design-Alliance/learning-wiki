@@ -46,6 +46,6 @@ WWC review of the evidence base: seven studies failed screens for lacking valid 
 - [Three of seven knowledge, attitudes, and values outcomes favor Facing History and Ourselves, including relationship maturity (best response) with effect size 0.45, but none remain statistically significant after WWC corrections](fhao-three-of-seven-outcomes-favor-program.md) — related
 - [Facing History and Ourselves shows no discernible effects on student behavior, with self-reported fighting differences neither statistically significant nor substantively important](fhao-no-discernible-effects-behavior.md) — related
 - [Only three of twelve identified OLI studies met WWC group design standards](oli-three-of-twelve-studies-meet-wwc-standards.md) — related
-- [Only one of eight unit outcomes in the qualifying study met WWC evidence standards; seven were excluded](teemss-seven-outcomes-excluded-baseline-inequivalence.md) — related
+- Only one of eight unit outcomes in the qualifying study met WWC evidence standards; seven were excluded — related
 - [Thirteen of 14 reviewed studies of the program fail WWC evidence standards or eligibility screens, most for lacking comparison-group designs or non-equivalent quasi-experimental groups](challengge-thirteen-studies-excluded.md) — related
-- [The evidence base for first year experience courses consists only of quasi-experimental studies meeting WWC group design standards with reservations](fye-evidence-base-quasi-experimental-reservations.md) — related
+- The evidence base for first year experience courses consists only of quasi-experimental studies meeting WWC group design standards with reservations — related

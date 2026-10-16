@@ -44,9 +44,9 @@ Univariate mixed-effects meta-regression across 16 productivity effect sizes com
 
 ## Related Claims
 
-- [Variation in meta-analytic effect sizes stems from synthesists' methodological choices (inclusion criteria, data extraction, formulas, outlier handling) and from study quality](meta-analysis-variation-from-methodological-choices.md) — the general claim this finding bears on, with the studies behind it
+- Variation in meta-analytic effect sizes stems from synthesists' methodological choices (inclusion criteria, data extraction, formulas, outlier handling) and from study quality — the general claim this finding bears on, with the studies behind it
 - [Exam environment critically moderates GenAI learning effects: significant large gains when GenAI is permitted during assessment (g = 0.76) versus non-significant slightly negative effects when it is not (g = -0.06).](exam-environment-moderates-genai-learning-effects.md) — related
 - [GenAI coding assistance produces a statistically significant moderate positive effect on developer productivity (g = 0.33), with substantial heterogeneity across settings.](genai-coding-assistance-moderate-positive-productivity-effect.md) — related
 - [Instructional model shows a significant subgroup difference (traditional classroom g = 1.19 vs. AI teaching g = 0.69) that does not remain robust in multivariate meta-regression](instructional-model-subgroup-nonrobust.md) — related
 - [Baseline capability moderates AI productivity benefits non-monotonically across AI's capability frontier](baseline-capability-nonmonotonic-ai-benefit.md) — related
-- [Study design moderates the technology effect: between-subject studies yield a significantly higher average effect than within-subject studies](design-moderates-technology-story-effect.md) — related
+- Study design moderates the technology effect: between-subject studies yield a significantly higher average effect than within-subject studies — related

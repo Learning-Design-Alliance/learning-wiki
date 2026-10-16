@@ -61,7 +61,7 @@ The "65%" is the source's own wording for a pooled Cohen's d of 0.65; a d of 0.6
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [SRL interventions combining metacognitive, cognitive, and motivational components were most frequent and, per the authors, had the greatest impact](mixed-srl-strategy-interventions-greatest-impact.md) — related
 - [The effect of SRL interventions does not differ significantly by course type, SRL strategy type, school level, or learning context](srl-effect-no-significant-moderator-differences.md) — related
-- [Effect sizes across SRL intervention studies are highly heterogeneous, requiring a random effects model](srl-effect-sizes-heterogeneous-random-effects.md) — related
+- Effect sizes across SRL intervention studies are highly heterogeneous, requiring a random effects model — related
 - [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — related
 - [In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains](srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep.md) — related
 - [Web-based SRL training combined with a learning diary (Group TD) produced statistically significant pre-post gains in SRL knowledge, the SRL overall score and self-efficacy, but not in mathematics scores, among prospective university students in an online preparation course](web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math.md) — related
@@ -78,3 +78,4 @@ The "65%" is the source's own wording for a pooled Cohen's d of 0.65; a d of 0.6
 - [Adaptive learning showed a statistically significant effect on learning skills but not on building factual knowledge in a meta-analysis of 21 Health & Welfare studies](adaptive-learning-effect-learning-skills-not-factual-knowledge.md) — related
 - [Self-regulated learning is associated with increased academic achievement and improved learning outcomes for students](srl-associated-with-achievement.md) — a broader claim this one bears on
 - [Most study, measurement, and intervention moderators did not explain significant variance in SRL intervention effect sizes](srl-intervention-moderators-most-nonsignificant.md) — related
+- [SRL scaffolds in computer-based learning environments produce a medium, significantly positive effect on academic performance (ES = 0.438)](srl-scaffolds-positive-effect-academic-performance.md) — related

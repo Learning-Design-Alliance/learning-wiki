@@ -17,7 +17,7 @@ sources:
 # Multiple-design-element interrupted time series evaluation
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Because the basic single-group ITS depends on extrapolating the pretest functional form as a counterfactual, an assumption the authors call problematic, evaluators should add multiple design elements to the basic ITS structure. Each element limits alternative interpretations, and together the elements provide a strong causal warrant when predictions are complex and results cohere with them.
@@ -29,7 +29,6 @@ Because the basic single-group ITS depends on extrapolating the pretest function
 
 ### Claims
 - [Adding multiple design elements to the basic ITS structure promotes causal inference by limiting alternative interpretations, demonstrated with No Child Left Behind](../claims/adding-design-elements-to-its-promotes-causal-inference.md) [+W]
-- [The single-group ITS design's counterfactual rests on the assumption that the pretest functional form can be validly estimated and extrapolated into the postintervention period, an assumption the authors call problematic](../claims/its-single-group-counterfactual-assumption-problematic.md) [+W]
 - [Added ITS design elements collectively provide a strong causal warrant when predictions are complex, results cohere with them, and no alternative fits the same pattern](../claims/its-design-elements-collective-causal-warrant.md) [+W]
 - [Ambiguous preintervention functional forms and other factors affecting posttest means and slopes are common in ITS applications](../claims/its-ambiguous-preintervention-functional-forms-common.md) [+W]
 
@@ -69,7 +68,6 @@ The article frames causal inference in augmented ITS designs as a pattern-matchi
 - [Its Design Elements Collective Causal Warrant](../claims/its-design-elements-collective-causal-warrant.md) [+W]
 - [Adding Design Elements To Its Promotes Causal Inference](../claims/adding-design-elements-to-its-promotes-causal-inference.md) [+W]
 - [Ambiguous preintervention functional forms and other factors affecting posttest means and slopes are common in ITS applications](../claims/its-ambiguous-preintervention-functional-forms-common.md) [+W]
-- [The single-group ITS design's counterfactual rests on the assumption that the pretest functional form can be validly estimated and extrapolated into the postintervention period, an assumption the authors call problematic](../claims/its-single-group-counterfactual-assumption-problematic.md) [+W]
 
 ## Related Theories
 - 

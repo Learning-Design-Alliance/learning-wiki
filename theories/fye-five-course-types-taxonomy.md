@@ -16,7 +16,7 @@ sources:
 # Five-type taxonomy of first year experience courses
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The report organizes first year experience courses into five types identified by Barefoot and Fidler in the early 1990s: "extended orientation, academic seminars with uniform content, academic seminars with variable content, introduction to a discipline or professional seminars, and basic study skills seminars," with hybrid versions also offered. Extended orientation is the most common type, focused on supporting freshman-year success. Academic seminars develop writing, critical thinking, and study skills, and can have a set curriculum or vary by section topic and faculty expertise.
@@ -40,7 +40,6 @@ The report organizes first year experience courses into five types identified by
 - [First year experience courses show a statistically significant positive effect on undergraduate degree attainment, based on one study](../claims/fye-courses-positive-degree-attainment.md) [+W]
 - [First year experience courses show a statistically significant positive effect on cumulative grade point average after one year, based on one study](../claims/fye-courses-positive-gpa-effect.md) [+W]
 - [First year experience courses show potentially positive effects on credit accumulation, with two of three qualifying studies showing statistically significant positive retention effects and one showing no significant effect](../claims/fye-courses-potentially-positive-credit-accumulation.md) [+W]
-- [The evidence base for first year experience courses consists only of quasi-experimental studies meeting WWC group design standards with reservations](../claims/fye-evidence-base-quasi-experimental-reservations.md) [+W]
 
 ## Related Theories
 - 

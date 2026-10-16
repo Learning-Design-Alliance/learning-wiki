@@ -45,7 +45,7 @@ Descriptive outcomes analysis using student-level data from five of the nine LIN
 ## Related Claims
 - [CBE participants completed programs quickly, averaging less than two terms to a first industry certification course and about four terms to certificates and degrees](cbe-fast-completion-two-terms-certification-four-terms-credentials.md) — related
 - [Consortium-wide, 35 percent of participants completed a grant-funded program of study, with high employment rates and wage growth above the national average](cbe-participants-completion-employment-wages.md) — related
-- [The report presents the first national study of high school and college information technology skill certification programs](first-national-study-it-certification-programs.md) — related
+- The report presents the first national study of high school and college information technology skill certification programs — related
 - [The outcomes study used a comparative design contrasting 2015 Broward LINCS completers with 2014 SCM students who did not participate in LINCS, and could not assess longer-term outcomes because of time limitations](lincs-outcomes-study-design-limits.md) — related
 - [Broward College LINCS students showed statistically significant increases in employment (3.3 percent) and earnings (5.2 percent) since enrolling, but these gains cannot be attributed to the LINCS program because estimated impacts were not statistically significant](broward-gains-not-attributable-to-lincs.md) — related
 - [LINCS surpassed its targets for program completion, exceeding its proposal goal of preparing students for supply chain management positions](lincs-surpassed-completion-targets.md) — related

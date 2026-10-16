@@ -16,7 +16,7 @@ sources:
 # Definitional framework of five modalities in MMCA research
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review develops a definitional framework classifying modalities used in MMCA studies into five categories: auditory, visual, physiological, kinesthetic, and tactile. It defines modality as "the distinct sensory channels or modes through which humans (or machines) perceive and interact with the external environment", grounding the framework in relationships between sensors and the stimuli they detect. Each modality is linked to the information it can extract about learners, such as prosodic and semantic speech, position and movement, gaze, facial expressions, actions, written output, and physiological arousal.
@@ -37,8 +37,6 @@ The review develops a definitional framework classifying modalities used in MMCA
 
 ### Claims
 
-- [Microphones are the most widely used sensor in MMCA studies](../claims/microphone-most-used-mmca-sensor.md) [+W]
-- [Most MMCA studies combine two or three modalities rather than four](../claims/mmca-studies-mostly-two-or-three-modalities.md) [+W]
 - [Combining more modalities does not always improve detection of learner mental states](../claims/more-modalities-not-always-better-mental-state-detection.md) [+W]
 
 ## Related Theories

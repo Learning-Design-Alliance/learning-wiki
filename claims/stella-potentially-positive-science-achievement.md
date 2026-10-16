@@ -41,7 +41,7 @@ WWC synthesis of one cluster randomized controlled trial (Taylor et al., 2017) m
 
 
 ## Related Claims
-- [The supporting evidence comes from a cluster randomized controlled trial in 77 Colorado elementary schools with low attrition, meeting WWC group design standards without reservations](stella-cluster-rct-taylor-2017.md) — related
+- The supporting evidence comes from a cluster randomized controlled trial in 77 Colorado elementary schools with low attrition, meeting WWC group design standards without reservations — related
 - [An external implementation study rated the STeLLA® and comparison professional development programs similarly on provider effectiveness, pacing, engagement, and collaboration](stella-comparison-pd-equivalent-implementation-ratings.md) — related
 - [DaisyQuest has positive effects on phonological processing in preschool children, with a domain-average effect size of 0.68 across two randomized controlled trials](daisyquest-positive-effects-phonological-processing.md) — related
 - [Ladders to Literacy shows potentially positive effects on alphabetics, with an average improvement index of +25 percentile points and a domain average effect size of 0.69](ladders-to-literacy-potentially-positive-alphabetics.md) — related

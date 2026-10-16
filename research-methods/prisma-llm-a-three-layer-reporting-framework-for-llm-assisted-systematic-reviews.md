@@ -12,7 +12,7 @@ generated:
 # PRISMA-LLM: a three-layer reporting framework for LLM-assisted systematic reviews
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 PRISMA-LLM is an evidence-informed reporting framework for LLM-assisted and AI-enabled systematic-review workflows, organized to complement PRISMA 2020. It has three layers: "a universal checklist specifies the information that should be reported across LLM-assisted review workflows"; five implementation-disclosure levels organize technical detail needed to reconstruct workflows; and consequence-sensitive evaluation expectations determine when validation should exceed the minimum associated with a disclosure level. Its empirical basis is the recurring evaluation and limitation dimensions observed in SciLitBench and the association between workflow type and reporting coverage.
@@ -22,7 +22,6 @@ PRISMA-LLM is an evidence-informed reporting framework for LLM-assisted and AI-e
 - **PRISMA-LLM: a three-layer reporting framework for LLM-assisted systematic reviews**: PRISMA-LLM is an evidence-informed reporting framework for LLM-assisted and AI-enabled systematic-review workflows, organized to complement PRISMA 2020. It has three layers: "a universal checklist specifies the information that should be reported across LLM-assisted review workflows"; five implementation-disclosure levels organize technical detail needed to reconstruct workflows; and consequence-sensitive evaluation expectations determine when validation should exceed the minimum associated with a disclosure level. Its empirical basis is the recurring evaluation and limitation dimensions observed in SciLitBench and the association between workflow type and reporting coverage. (Zabaleta et al. (2026))
 
 ### Claims
-- [Reporting coverage increases with LLM workflow complexity, from prompt-only to engineered and retrieval/adapted/agentic methods](../claims/reporting-richness-increases-with-llm-workflow-complexity.md) [+M]
 - [Since 2023, software/product papers report markedly less evaluation detail than LLM papers in review automation](../claims/software-product-papers-report-less-evaluation-than-llm-papers.md) [+M]
 
 ## Related Research Methods

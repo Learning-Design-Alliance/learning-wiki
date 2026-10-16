@@ -46,7 +46,7 @@ The WWC's systematic review of single-case design studies, using visual analysis
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| What Works Clearinghouse 2016 | q3 · quant-synthesis · r2 | i? | this claim; [The eligible evidence base for FBA-based interventions consists entirely of single-case de](fba-evidence-base-single-case-only.md) (qualifies); [Single-case evidence on FBA-based interventions for social-emotional competence does not r](fba-social-emotional-competence-below-threshold.md) (qualifies) |
+| What Works Clearinghouse 2016 | q3 · quant-synthesis · r2 | i? | this claim; The eligible evidence base for FBA-based interventions consists entirely of single-case de (qualifies); [Single-case evidence on FBA-based interventions for social-emotional competence does not r](fba-social-emotional-competence-below-threshold.md) (qualifies) |
 | [Epstein 2008](https://doi.org/10.1037/e602222011-001) | q2 · review · r2 | i? | [Strategies not linked to a problem behavior's specific context are associated with increas](context-unlinked-strategies-increase-problem-behavior.md) (supports) |
 | [Groff 2011](https://doi.org/10.1901/jaba.2011.44-949) | q2 · causal · r1 | i? | [Inappropriate mealtime behavior was maintained by escape and attention](inappropriate-behavior-maintained-by-escape-and-attention.md) (supports) |
 <!-- synthesis:end -->
@@ -56,5 +56,5 @@ The WWC's systematic review of single-case design studies, using visual analysis
 
 ## Related Claims
 - [Early Risers shows no discernible effects on emotional/internal behavior for children at risk of emotional disturbance classification](early-risers-no-effect-internal-behavior.md) — related
-- [The eligible evidence base for FBA-based interventions consists entirely of single-case design studies, 17 of which met pilot standards](fba-evidence-base-single-case-only.md) — related
+- The eligible evidence base for FBA-based interventions consists entirely of single-case design studies, 17 of which met pilot standards — related
 - [Single-case evidence on FBA-based interventions for social-emotional competence does not reach the threshold for an effectiveness rating](fba-social-emotional-competence-below-threshold.md) — related

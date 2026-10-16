@@ -16,7 +16,7 @@ sources:
 # Smith et al.'s value-based and cognate-based categorization of privacy definitions as an analytical lens for LA
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article adopts Smith et al.'s (2011) framework, which classifies privacy definitions into value-based (privacy as a right or commodity) and cognate-based (privacy as a state or control) approaches. The authors chose it because it "emanates from the information systems field" and thoroughly considers technology and human-technology relations. It serves as the coding scheme for the scoping review, with added categories for other definitions and no definition.
@@ -38,8 +38,6 @@ The article adopts Smith et al.'s (2011) framework, which classifies privacy def
 ### Claims
 
 - [74 Percent La Articles No Privacy Definition](../claims/74-percent-la-articles-no-privacy-definition.md) [+M]
-- [La Privacy Definitions Distribution Control Most Common](../claims/la-privacy-definitions-distribution-control-most-common.md) [+M]
-- [Conceptual unclarity in LA: privacy is used interchangeably or in overlapping ways with ethics, security, and anonymity](../claims/la-privacy-conceptual-unclarity-ethics-conflation.md) [+W]
 
 ## Related Theories
 

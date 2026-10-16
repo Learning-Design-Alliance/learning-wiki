@@ -56,4 +56,4 @@ The review's summary of educator- and institutional-level challenges (Table 5, e
 - [Integrating AI in CS assessment raises concerns about academic integrity, algorithmic bias, transparency, and ethical evaluation](ai-assessment-integrity-bias-transparency-concerns.md) — related
 - [Common risks of AI integration in nursing education include technological inequities, faculty preparedness gaps, and ethical concerns around privacy and bias](ai-nursing-education-risks-inequity-ethics.md) — related
 - [Integrating AI in collaborative learning raises challenges including algorithmic bias, over-reliance on technology, and teacher training needs](ai-collaborative-learning-challenges-bias-overreliance.md) — related
-- [Only a small fraction of AIEd research addresses ethical implications, challenges and risks](aied-little-ethical-reflection.md) — related
+- Only a small fraction of AIEd research addresses ethical implications, challenges and risks — related

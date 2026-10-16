@@ -17,7 +17,7 @@ sources:
 # Mathematica Center for Improving Research Evidence issue brief on conducting high quality systematic reviews
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 An issue brief released by Mathematica's Center for Improving Research Evidence that "offer[s] recommendations for conducting high quality systematic reviews." The brief is positioned as guidance for the education and human services policy community, published by Mathematica Policy Research in Princeton, NJ in October 2012. The supplied text is a publisher announcement of the brief rather than the brief's full content, so only its stated purpose is documented here.
@@ -39,7 +39,6 @@ An issue brief released by Mathematica's Center for Improving Research Evidence 
 
 ## Claims
 
-- [Systematic reviews serve decision makers by identifying relevant studies, assessing evidence quality, and summarizing valid findings](../claims/systematic-reviews-identify-assess-summarize-for-decision-makers.md) [+W]
 
 ## Related Elements
 

@@ -50,3 +50,4 @@ Ad hoc subgroup analysis within the non-significant intervention-duration modera
 - [Educational robotics has a moderate-to-large effect on students' STEM learning performance](educational-robotics-effect-learning-performance.md) — related
 - [Educational robotics has a moderate positive overall effect on K-16 students' STEM learning compared to non-robotics instruction](educational-robotics-moderate-overall-effect-stem-learning.md) — related
 - [Educational robotics shows no significant effect on students' computational thinking in STEM education](educational-robotics-no-significant-ct-effect.md) — related
+- [Scaffold effects peak at 2–4 weeks of treatment and decrease dramatically for treatments lasting 9–24 weeks](treatment-duration-moderates-scaffold-effects.md) — related

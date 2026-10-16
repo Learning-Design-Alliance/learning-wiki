@@ -43,7 +43,7 @@ Social network analysis visualizing investigator relationships, with projects (b
 
 
 ## Related Claims
-- [Equity and accessibility expertise areas were cold spots in the NSF EXP community, with fewer than two projects over three years](equity-accessibility-expertise-cold-spots.md) — related
-- [Equity and social justice research topics rose in prominence in the NSF EXP portfolio between 2017 and 2021 while research became more AI-focused](equity-topics-rose-ai-focus-grew-nsf-exp.md) — related
-- [Publications from NSF EXP exploratory projects showed more novel topic pairings than a random sample of publications from the same database](nsf-exp-publications-more-novel-topic-pairings.md) — related
-- [The most frequent research tags in the NSF EXP portfolio were AI, machine learning, modeling and simulation, formative assessment, and augmented/virtual/mixed reality](nsf-exp-top-tags-ai-machine-learning.md) — related
+- Equity and accessibility expertise areas were cold spots in the NSF EXP community, with fewer than two projects over three years — related
+- Equity and social justice research topics rose in prominence in the NSF EXP portfolio between 2017 and 2021 while research became more AI-focused — related
+- Publications from NSF EXP exploratory projects showed more novel topic pairings than a random sample of publications from the same database — related
+- The most frequent research tags in the NSF EXP portfolio were AI, machine learning, modeling and simulation, formative assessment, and augmented/virtual/mixed reality — related

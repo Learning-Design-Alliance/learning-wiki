@@ -17,7 +17,7 @@ sources:
 # Four supplemental reading comprehension curricula evaluated under real-world conditions
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (6 for) · 4 studies (4 causal), `q3` · 1 of 4 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 4 studies (4 causal), `q3` · 1 of 4 report an effect size · 5 claims rest on one study
 
 ## Description
 The study evaluated four supplemental fifth-grade reading comprehension curricula: Project CRISS (developed by CRISS), ReadAbout (developed by Scholastic), Read for Real (developed by Chapman University and Zaner-Bloser), and Reading for Knowledge (developed by the Success for All Foundation). The curricula were "designed to supplement—not replace—the core curriculum being used by each teacher." Schools were randomly assigned to use one of the four treatment curricula or to a control group, and teachers in treatment schools developed their own strategies for incorporating the assigned curriculum into daily schedules. Developers provided teacher training and follow-up support, and teachers and schools could discontinue use if they believed the curricula were ineffective or too challenging to use.
@@ -42,7 +42,6 @@ The study evaluated four supplemental fifth-grade reading comprehension curricul
 - [After one school year of implementation (first cohort), the curricula produced no statistically significant positive impacts, and four statistically significant negative impacts were observed.](../claims/year-one-curricula-no-positive-impacts-four-negative.md) [+M]
 - [Reading for Knowledge had a statistically significant negative impact on students' reading comprehension scores in the study's first year](../claims/reading-for-knowledge-negative-impact-year-one.md) [+M]
 - [ReadAbout had a positive and significant impact in the study's second year among teachers with one year of experience using the intervention](../claims/readabout-positive-impact-second-year-experienced-teachers.md) [+M]
-- [The evaluation was a large-scale randomized control trial spanning 268 teachers, 6,350 students, 89 schools, 10 districts, and 8 states](../claims/rct-scale-reading-comprehension-curricula-evaluation.md) [+M]
 - [A large randomized trial found no statistically significant effects of Project CRISS® on standardized grade 5 comprehension measures (James-Burdumy et al., 2009)](../claims/project-criss-null-effects-grade5-randomized-trial.md) [+M]
 
 ## Related Elements

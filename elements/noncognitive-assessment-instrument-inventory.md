@@ -17,7 +17,7 @@ sources:
 # Inventory of available instruments for assessing postsecondary students' noncognitive attributes
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review identifies that many instruments are available to postsecondary institutions for measuring students' noncognitive attributes, and reports convergence on a limited number of key attributes with "multiple instruments are available to measure these attributes." The supplied text does not name the individual instruments or their psychometric properties; it establishes their availability and the theoretical (rather than applied) character of most research reporting findings from them.
@@ -39,7 +39,6 @@ The review identifies that many instruments are available to postsecondary insti
 ## Claims
 
 - [Literature and expert opinion converge on a limited number of key noncognitive attributes that matter for student success, with multiple available instruments](../claims/convergence-key-noncognitive-attributes.md) [+W]
-- [Most research on noncognitive assessment and segmentation in postsecondary education is theoretical rather than applied to college practice](../claims/noncognitive-assessment-research-mostly-theoretical.md) [+W]
 
 ## Related Elements
 - 

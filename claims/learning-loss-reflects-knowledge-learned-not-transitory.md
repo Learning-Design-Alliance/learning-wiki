@@ -47,4 +47,4 @@ Comparison of the baseline difference-in-differences effect on the composite ach
 
 ## Related Claims
 - [Students in The Netherlands lost on average 3.16 percentile points (0.08 SD) in achievement during the 8-week COVID-19 lockdown](dutch-lockdown-learning-loss-3-percentile-points.md) — related
-- [Learning-loss estimates are robust to placebo tests, propensity-score and maximum-entropy reweighting, and school and family fixed effects](learning-loss-robust-to-reweighting-and-fixed-effects.md) — related
+- Learning-loss estimates are robust to placebo tests, propensity-score and maximum-entropy reweighting, and school and family fixed effects — related

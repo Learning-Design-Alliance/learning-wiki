@@ -17,7 +17,7 @@ sources:
 # TEEMSS sound unit test
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (4 causal), `q2` · 2 of 4 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (2 causal), `q2` · 2 of 2 report an effect size
 
 ## Description
 The TEEMSS sound unit test is a nine-item, standards-aligned science assessment developed by the TEEMSS researchers to measure elementary and middle school students' understanding of sound before and after instruction.
@@ -28,7 +28,6 @@ The TEEMSS sound unit test is a nine-item, standards-aligned science assessment 
 
 ### Claims
 - [TEEMSS produced a statistically significant positive effect on the grade 3–4 sound unit test in a quasi-experimental study](../claims/teemss-sound-unit-test-positive-effect.md) [+M]
-- [Only one of eight unit outcomes in the qualifying study met WWC evidence standards; seven were excluded](../claims/teemss-seven-outcomes-excluded-baseline-inequivalence.md) [~M]
 
 ## Related Products and Programmes
 -
@@ -63,7 +62,6 @@ The sound unit test was developed by the researchers and "designed to align with
 ## Claims
 
 - [TEEMSS produced a statistically significant positive effect on the grade 3–4 sound unit test in a quasi-experimental study](../claims/teemss-sound-unit-test-positive-effect.md) [+M]
-- [Only one of eight unit outcomes in the qualifying study met WWC evidence standards; seven were excluded](../claims/teemss-seven-outcomes-excluded-baseline-inequivalence.md) [~M]
 
 ## Related Elements
 

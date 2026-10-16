@@ -13,7 +13,7 @@ generated:
 # ED-AI Lit framework
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 qualitative, 1 design), `q2`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Developed by Allen and Kendeou, the ED-AI Lit framework organizes AI literacy into six dimensions: Knowledge, Evaluation, Collaboration, Contextualization, Autonomy, and Ethics.
@@ -24,8 +24,6 @@ Developed by Allen and Kendeou, the ED-AI Lit framework organizes AI literacy in
 
 ### Claims
 - [Students co-designing a GenAI course policy prioritized training for students and instructors, standardized disclosure procedures, and stronger institutional support](../claims/students-prioritize-training-disclosure-institutional-support-genai-policy.md) [+M]
-- [Confirmatory factor analysis with preservice English language teachers supports a six-factor TAILS structure with acceptable fit (CFI = 0.919; TLI = 0.908)](../claims/tails-six-factor-cfa-confirmed.md) [+M]
-- [Exploratory factor analysis identifies six factors aligned with the ED-AI framework, explaining 63.965% of total variance](../claims/tails-efa-six-factors-variance.md) [+M]
 
 ## Related Products and Programmes
 -

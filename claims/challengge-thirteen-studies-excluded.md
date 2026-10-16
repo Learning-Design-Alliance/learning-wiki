@@ -45,7 +45,7 @@ The WWC review of 14 studies found several ineligible because they "does not use
 ## Related Claims
 - [The evidence base for Facing History and Ourselves is limited: only one of eight reviewed studies met WWC evidence standards, and it used a quasi-experimental rather than randomized design](fhao-limited-evidence-base-one-quasi-experiment.md) — related
 - [The evidence base for Core-Plus Mathematics is small: of 17 reviewed studies, only one met WWC standards (with reservations) and 16 did not meet standards or screens](core-plus-evidence-base-small.md) — related
-- [The evidence base for first year experience courses consists only of quasi-experimental studies meeting WWC group design standards with reservations](fye-evidence-base-quasi-experimental-reservations.md) — related
+- The evidence base for first year experience courses consists only of quasi-experimental studies meeting WWC group design standards with reservations — related
 - [The evidence base for Everyday Mathematics® on primary mathematics achievement is small: one study of 3,436 students met WWC standards, and 33 of 34 eligible studies did not meet group design standards](everyday-mathematics-small-evidence-base-one-qualifying-study.md) — related
 - [The evidence base for Head Start's school-readiness effects is small: only one of 40 eligible studies met WWC group design standards](head-start-evidence-base-single-rct.md) — related
 - The guide's recommendations rest on a screened evidence base of 15 studies meeting WWC group design standards drawn from more than 2,800 citations — related

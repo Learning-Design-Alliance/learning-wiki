@@ -17,7 +17,7 @@ sources:
 # Roster confirmation process for verifying teacher/student links
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies (3 associational), `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (3 associational), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 A roster confirmation process is a data-quality procedure in which "teachers verify the subjects and students they taught," producing confirmed teacher/student links. The working paper uses these confirmed links as the benchmark against which links from unconfirmed administrative data are compared, in the context of the Value-Added Assessment System for DC Schools and Teachers project (2009-2015) prepared for District of Columbia Public Schools.
@@ -39,7 +39,6 @@ A roster confirmation process is a data-quality procedure in which "teachers ver
 ## Claims
 
 - [About one in six grade 4 and 5 math and reading/ELA teachers is linked in unconfirmed administrative data to a subject they do not teach](../claims/one-in-six-grade-4-5-teachers-mislinked-unconfirmed-data.md) [+W]
-- [Using unconfirmed teacher/student links in value-added models affects research differently depending on the circumstances of the data](../claims/unconfirmed-links-affect-value-added-research-conditionally.md) [+W]
 - [Teacher-confirmed roster data show levels of co-teaching far beyond what appears in administrative data](../claims/confirmed-roster-data-reveal-more-co-teaching-than-administrative-data.md) [+W]
 - [Instruction in upper elementary grades is often departmentalized: about one in six elementary school teachers in the original administrative data was linked to a subject he or she did not teach](../claims/one-in-six-elementary-teachers-linked-to-untaught-subject.md) [+W]
 

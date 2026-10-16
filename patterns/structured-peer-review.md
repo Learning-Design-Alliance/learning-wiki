@@ -24,7 +24,7 @@ grain_size: lesson
 # Structured Peer Review
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 28 claims (16 for, 12 mixed) · 44 studies (13 causal, 10 quant-synthesis, 6 review, 5 associational, 4 theoretical, 3 qualitative, 3 design), `q1`–`q4` · 8 of 44 report an effect size · 15 claims rest on one study
+> **Evidence** · 29 claims (17 for, 12 mixed) · 45 studies (13 causal, 10 quant-synthesis, 7 review, 5 associational, 4 theoretical, 3 qualitative, 3 design), `q1`–`q4` · 8 of 45 report an effect size · 16 claims rest on one study
 
 ## Description and scope
 
@@ -130,6 +130,7 @@ Claims the earlier page cited, and others that bear on it, not used as core evid
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — prompted explanation while studying worked examples or solving problems (meta-analysis g = .55, immediate tests). Bears indirectly: a reviewer's comment that says why a passage falls short is a kind of explanation, but no study here prompts explanation in peer review. Cited on the earlier page as supporting.
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M] — one narrative review of goal-setting research (Locke & Latham 2002), capped from the earlier `[~S]` to its recorded evidence. It does not bear on peer review, except as a general argument for explicit criteria and a stated revision target. Cited on the earlier page as contradicting.
 - [Online peer assessment shifts instructional assessment from teacher-controlled to a combination of teacher assessment and student peer assessment](../claims/online-peer-assessment-shifts-assessment-control-to-students.md) [~W] — a design article's description of practice, no comparative data; it describes learners revising on peer feedback before teacher evaluation, which is this pattern's order, and tests nothing.
+- [Grading students on the quality of their reviews rather than on peer-assessed marks reduced tensions and improved student-instructor mark correlations](../claims/grading-review-quality-reduces-tensions-improves-correlations.md) [+W] — attached 2026-10-16 from Luxton-Reilly (2009), which proposed "Design peer assessment marking criteria to separate objective grading criteria from students' subjective opinions".
 
 ## Illustrative design instance and observation record
 

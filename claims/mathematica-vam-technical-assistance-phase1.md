@@ -57,5 +57,5 @@ A descriptive statement printed on the publication page for the report, not a te
 - [Phase 1 of the Pennsylvania evaluation pilot produced value-added estimates of teacher and principal contributions to student achievement growth](phase-1-pennsylvania-value-added-estimates-produced.md) — related
 - [Value-added models were used to estimate teacher and principal effectiveness measures in Charleston County School District in 2013-2014](value-added-models-estimate-charleston-teacher-principal-effectiveness-2013-14.md) — related
 - [The Memphis value-added model estimates school effects on student performance while adjusting for mobility, demographics, and measurement error](memphis-model-adjusts-mobility-demographics-measurement-error.md) — related
-- [The report examined value-added implementation in seven school districts or states](vam-report-examined-seven-district-states-implementation.md) — related
+- The report examined value-added implementation in seven school districts or states — related
 - [Federal policy requirements drove growth modeling and teacher value-added evaluation under NCLB and RTTP](federal-policy-growth-modeling-requirements-nclb-rttp.md) — related

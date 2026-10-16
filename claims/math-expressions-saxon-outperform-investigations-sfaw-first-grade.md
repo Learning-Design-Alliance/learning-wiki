@@ -51,7 +51,7 @@ Findings from the first cohort of a large-scale federal experimental study of fo
 - [A large-scale experimental study compared the effects of the four mathematics curricula on student achievement](large-scale-experimental-study-curricula-achievement.md) — a broader claim this one bears on
 - [After two years of implementation, three of four elementary math curricula outperformed the fourth on student achievement in grades 1–2](three-math-curricula-outperform-fourth-after-two-years.md) — a broader claim this one bears on
 - [The early elementary math curriculum used by schools mattered for student achievement in first and second grade](curriculum-choice-mattered-early-elementary-math.md) — a broader claim this one bears on
-- [Four elementary math curricula were evaluated using an experimental design](experimental-evaluation-four-elementary-math-curricula.md) — a broader claim this one bears on
+- Four elementary math curricula were evaluated using an experimental design — a broader claim this one bears on
 - [The study examines whether some early elementary school math curricula are more effective than others at improving math achievement in schools serving a high percentage of disadvantaged students.](math-curricula-relative-effects-disadvantaged-first-second-graders.md) — a broader claim this one bears on
 - [Math Expressions and Saxon Math raise first-grade math percentile rank 9 to 12 points more than Investigations and SFAW](math-expressions-saxon-percentile-advantage-first-grade.md) — related
 - [Everyday Mathematics and Harcourt Math show no difference in effects on elementary student achievement in Pittsburgh Public Schools](everyday-mathematics-harcourt-math-no-achievement-difference-pittsburgh.md) — related

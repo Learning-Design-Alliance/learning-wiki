@@ -48,5 +48,5 @@ Moderator analyses accompanying three separate meta-analyses (intervention–ach
 - [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](srl-interventions-moderate-effect-online-blended.md) — related
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — related
 - [Class size, course level, and discipline did not explain significant variation in how achievement gaps changed under active learning](class-size-level-discipline-not-significant-moderators.md) — a broader claim this one bears on
-- [Subgroup (moderator) analyses in education impact evaluations can be based on participant characteristics measured before the intervention is implemented](pre-intervention-moderator-analyses.md) — a broader claim this one bears on
+- Subgroup (moderator) analyses in education impact evaluations can be based on participant characteristics measured before the intervention is implemented — a broader claim this one bears on
 - [SRL activity only partially mediates the effect of SRL interventions on achievement in higher education](srl-partial-mediation-achievement-higher-ed.md) — related

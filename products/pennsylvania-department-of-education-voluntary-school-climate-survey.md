@@ -18,7 +18,7 @@ sources:
 # Pennsylvania Department of Education voluntary school climate survey
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (6 for, 1 against) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 against) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 A voluntary statewide school-climate survey developed and administered by the Pennsylvania Department of Education's Office for Safe Schools in partnership with REL Mid-Atlantic to measure school climate and identify schools needing support.
@@ -33,7 +33,6 @@ A voluntary statewide school-climate survey developed and administered by the Pe
 - [School climate scores were steady across the years before COVID-19 in the Pennsylvania sample](../claims/pre-covid-climate-scores-steady.md) [+W]
 - [Items in each of the three domains of the PDE elementary school climate survey measured the constructs they intended to measure](../claims/pde-elementary-climate-survey-items-measure-intended-constructs.md) [+W]
 - [The safe and respectful school climate domain of the elementary student survey fell short of the established reliability threshold](../claims/safe-respectful-climate-domain-below-reliability-threshold.md) [-W]
-- [The three domains of the PDE elementary school climate survey were distinct from one another](../claims/pde-elementary-climate-survey-domains-distinct.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -74,7 +73,6 @@ A statewide survey administered by the Pennsylvania Department of Education's Of
 - [School climate scores were steady across the years before COVID-19 in the Pennsylvania sample](../claims/pre-covid-climate-scores-steady.md) [+W]
 - [Items in each of the three domains of the PDE elementary school climate survey measured the constructs they intended to measure](../claims/pde-elementary-climate-survey-items-measure-intended-constructs.md) [+W]
 - [The safe and respectful school climate domain of the elementary student survey fell short of the established reliability threshold](../claims/safe-respectful-climate-domain-below-reliability-threshold.md) [-W]
-- [The three domains of the PDE elementary school climate survey were distinct from one another](../claims/pde-elementary-climate-survey-domains-distinct.md) [+W]
 
 ## Related Elements
 

@@ -33,7 +33,7 @@ sources:
 # ASSISTments
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 11 claims (10 for, 1 mixed) · 8 studies (3 causal, 3 qualitative, 1 associational, 1 design), `q2`–`q3` · 3 of 8 report an effect size · 11 claims rest on one study
+> **Evidence** · 10 claims (9 for, 1 mixed) · 7 studies (3 causal, 2 qualitative, 1 associational, 1 design), `q2`–`q3` · 3 of 7 report an effect size · 10 claims rest on one study
 
 ## Description
 ASSISTments is a free web-based platform developed and operated by the ASSISTments Project for assigning mathematics practice, providing feedback, and reporting student-performance data to teachers.
@@ -55,7 +55,6 @@ ASSISTments is a free web-based platform developed and operated by the ASSISTmen
 - [Students with lower baseline performance (below the 50th percentile) showed significantly greater math achievement gains with ASSISTments than matched virtual peers](../claims/assistments-low-performers-significant-gains.md) [+M]
 - [Teachers used ASSISTments reports to adjust instruction and make problem review more frequent, targeted, and data driven](../claims/assistments-data-driven-review-instructional-adjustment.md) [+M]
 - [ASSISTments use in grade 7 math homework produces a statistically significant long-term positive effect on grade 8 state test scores one year after the intervention ends](../claims/assistments-long-term-math-impact-grade-8.md) [+M]
-- [Practitioner interaction shaped the fundamental research question of the ASSISTments online math homework randomized controlled trial](../claims/assistments-homework-question-from-practitioners.md) [+W]
 - [A possible mediating effect of teacher homework review practices was observed in the ASSISTments trial, but the planned mediation analysis failed to show an effect](../claims/assistments-teacher-review-mediation-null.md) [~W]
 - [In an IES-funded randomized controlled trial, students with lower prior mathematics achievement gained more from ASSISTments homework support than students with higher prior achievement](../claims/assistments-greater-gains-lower-prior-achievement.md) [+W]
 - [Not requesting any hints in at least one problem is related to greater wheel-spinning, consistent with help avoidance](../claims/hint-avoidance-related-greater-wheel-spinning.md) [+W]
@@ -107,7 +106,6 @@ E-TRIALS is described as "a free learning science A/B testing platform that allo
 
 ## Claims
 
-- [Practitioner interaction shaped the fundamental research question of the ASSISTments online math homework randomized controlled trial](../claims/assistments-homework-question-from-practitioners.md) [+W]
 - [A possible mediating effect of teacher homework review practices was observed in the ASSISTments trial, but the planned mediation analysis failed to show an effect](../claims/assistments-teacher-review-mediation-null.md) [~W]
 - [In an IES-funded randomized controlled trial, students with lower prior mathematics achievement gained more from ASSISTments homework support than students with higher prior achievement](../claims/assistments-greater-gains-lower-prior-achievement.md) [+W]
 

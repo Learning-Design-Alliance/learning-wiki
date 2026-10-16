@@ -17,7 +17,7 @@ sources:
 # I CAN Learn
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (2 mixed, 2 against) · 6 studies (4 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 0 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (1 mixed, 2 against) · 5 studies (3 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 0 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 I CAN Learn® is a self-paced, mastery-based computer mathematics curriculum developed by JRL Enterprises, Inc., with interactive lessons, placement-based learning paths, practice, quizzes, and classroom tracking tools.
@@ -30,7 +30,6 @@ I CAN Learn® is a self-paced, mastery-based computer mathematics curriculum dev
 - [I CAN Learn® has no discernible effects on the mathematics test scores of eighth-grade students in primary mathematics courses](../claims/ican-learn-no-discernible-effects-eighth-grade-math.md) [-S]
 - [Supplemental analyses of I CAN Learn® in alternate second-year samples showed no effects that survived multiple-comparison adjustment](../claims/ican-learn-supplemental-alternate-samples-null.md) [-M]
 - [Only one of seven eligible studies of I CAN Learn® met WWC group design standards, and it met them only with reservations](../claims/ican-learn-thin-evidence-base-one-qualifying-study.md) [~W]
-- [Comparison classrooms in the qualifying study were district-matched traditional classrooms, but baseline equivalence required adjustment](../claims/kerstyn-matched-comparison-baseline-adjustment.md) [~W]
 
 ## Related Products and Programmes
 -
@@ -70,7 +69,6 @@ I CAN Learn® is a full-curriculum mathematics software program developed by JRL
 - [I CAN Learn® has no discernible effects on the mathematics test scores of eighth-grade students in primary mathematics courses](../claims/ican-learn-no-discernible-effects-eighth-grade-math.md) [-S]
 - [Supplemental analyses of I CAN Learn® in alternate second-year samples showed no effects that survived multiple-comparison adjustment](../claims/ican-learn-supplemental-alternate-samples-null.md) [-M]
 - [Only one of seven eligible studies of I CAN Learn® met WWC group design standards, and it met them only with reservations](../claims/ican-learn-thin-evidence-base-one-qualifying-study.md) [~W]
-- [Comparison classrooms in the qualifying study were district-matched traditional classrooms, but baseline equivalence required adjustment](../claims/kerstyn-matched-comparison-baseline-adjustment.md) [~W]
 
 ## Related Elements
 

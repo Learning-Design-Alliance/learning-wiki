@@ -51,4 +51,4 @@ Disposition outcomes measured with critical thinking assessment instruments in t
 - [WISE Agent feedback significantly increased Truth-seeking and CT Self-confidence disposition scores](wise-agent-truth-seeking-self-confidence-gains.md) — a narrower finding that bears on this claim
 - [Cognitive Maturity disposition scores significantly declined during the WISE Agent intervention, interpreted as de-centering of naive optimism](wise-agent-cognitive-maturity-decline.md) — reports the opposite
 - [A three-month WISE Agent intervention did not significantly increase sixth-graders' aggregate critical thinking disposition scores](wise-agent-no-aggregate-ct-gain.md) — related
-- [The study used a three-group longitudinal design with an experimental science group and two traditionally taught controls](three-group-hots-case-study-design.md) — related
+- The study used a three-group longitudinal design with an experimental science group and two traditionally taught controls — related

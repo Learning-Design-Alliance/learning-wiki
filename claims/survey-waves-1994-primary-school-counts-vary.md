@@ -43,5 +43,5 @@ Descriptive statement from the appendix introduction identifying the primary dat
 
 
 ## Related Claims
-- [Site-level essential scores were created by averaging standardized measure scores grouped into essentials, informed by exploratory factor analysis](early-ed-essentials-site-score-grouping-efa.md) — related
-- [Factor analysis of the Chicago school surveys produced thirteen composite indicators, which with four stand-alone measures yielded seventeen overall indicators](thirteen-composite-indicators-seventeen-total.md) — related
+- Site-level essential scores were created by averaging standardized measure scores grouped into essentials, informed by exploratory factor analysis — related
+- Factor analysis of the Chicago school surveys produced thirteen composite indicators, which with four stand-alone measures yielded seventeen overall indicators — related

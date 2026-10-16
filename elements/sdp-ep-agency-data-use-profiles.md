@@ -17,7 +17,7 @@ sources:
 # SDP/EP agency profiles documenting data use in twelve education agencies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (2 qualitative, 1 design), `q1`–`q2` · 0 of 3 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 3 studies (2 qualitative, 1 design), `q1`–`q2` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 A set of twelve agency profiles developed by Mathematica Policy Research, each summarizing one agency's experience with using data and working with Strategic Data Project (SDP) and Education Pioneers (EP) fellows. The profiles cover state education agencies, school districts, and a charter management organization. Each profile "summarizes one agency's experience with using data and working with Strategic Data Project (SDP) and Education Pioneers (EP) fellows." The profiles were built from site visit interviews and serve as companion evidence for the Year 2 report on changing education agencies from the inside out.
@@ -42,7 +42,6 @@ A set of twelve agency profiles developed by Mathematica Policy Research, each s
 ## Claims
 
 - [Agency data-use profiles were developed from fall and winter 2013–14 site visit interviews](../claims/profiles-from-site-visit-interviews-2013-14.md) [+W]
-- [Agency experiences with data practices were documented through interviews covering collection, use, analysis, and reporting](../claims/agency-profiles-interview-data-practices.md) [+W]
 - [SDP and EP programs aim to enhance education agencies' data capacity through support, training, and staff placement](../claims/sdp-ep-aim-enhance-data-capacity.md) [+W]
 
 ## Related Elements

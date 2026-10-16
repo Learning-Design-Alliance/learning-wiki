@@ -45,5 +45,5 @@ Key finding from the Louisiana promotion power study comparing school effects ac
 ## Related Claims
 - [Students at high promotion power high schools have substantially better expected long-term outcomes than similar students at average promotion power schools](high-promotion-power-better-expected-outcomes.md) — a narrower finding that bears on this claim
 - [The Louisiana study separated high schools' contributions to long-term success from family resources and students' learning before high school](louisiana-school-contributions-separated-from-family-resources.md) — related
-- [Charter school research has historically focused on test scores, with longer-term outcomes only recently examined](charter-research-shift-from-test-scores-to-long-term-outcomes.md) — related
+- Charter school research has historically focused on test scores, with longer-term outcomes only recently examined — related
 - [Schools' impacts on socioemotional development and behaviors in 9th grade matter substantially more for long-run trajectories than test score impacts](sed-behavior-impacts-exceed-test-score-impacts-long-run.md) — related

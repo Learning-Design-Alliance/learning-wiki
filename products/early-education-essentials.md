@@ -22,7 +22,7 @@ sources:
 # Early Education Essentials
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 13 claims (13 for) · 7 studies (4 associational, 1 causal, 1 qualitative, 1 design), `q2` · 0 of 7 report an effect size · 12 claims rest on one study
+> **Evidence** · 12 claims (12 for) · 7 studies (4 associational, 1 causal, 1 qualitative, 1 design), `q2` · 0 of 7 report an effect size · 11 claims rest on one study
 
 ## Description
 Early Ed Essentials is a teacher- and parent-survey assessment system developed by the Ounce of Prevention Fund and the University of Chicago Consortium to measure organizational supports in school- and center-based early-childhood education settings.
@@ -34,7 +34,6 @@ Early Ed Essentials is a teacher- and parent-survey assessment system developed 
 
 ### Claims
 - [Rasch-based refinement reduced the Early Ed Essentials surveys to 24 teacher measures (122 items) and 9 parent measures (42 items)](../claims/early-ed-essentials-rasch-refined-measures.md) [+W]
-- [Site-level essential scores were created by averaging standardized measure scores grouped into essentials, informed by exploratory factor analysis](../claims/early-ed-essentials-site-score-grouping-efa.md) [+W]
 - [The validation study sample comprised 81 Chicago ECE sites with high teacher and parent survey response rates](../claims/early-ed-essentials-validation-sample-81-sites.md) [+W]
 - [Preschool classrooms in the validation sample scored lowest on Instructional Support relative to Emotional Support and Classroom Organization](../claims/ece-sample-instructional-support-lowest-class-domain.md) [+W]
 - [Site-level pre-k attendance in the validation sample averaged 85.2 percent and varied widely across sites](../claims/ece-site-attendance-averaged-85-percent.md) [+W]
@@ -87,7 +86,6 @@ The Early Education Essential Organizational Supports measurement system (Early 
 ## Claims
 
 - [Rasch-based refinement reduced the Early Ed Essentials surveys to 24 teacher measures (122 items) and 9 parent measures (42 items)](../claims/early-ed-essentials-rasch-refined-measures.md) [+W]
-- [Site-level essential scores were created by averaging standardized measure scores grouped into essentials, informed by exploratory factor analysis](../claims/early-ed-essentials-site-score-grouping-efa.md) [+W]
 - [The validation study sample comprised 81 Chicago ECE sites with high teacher and parent survey response rates](../claims/early-ed-essentials-validation-sample-81-sites.md) [+W]
 - [Preschool classrooms in the validation sample scored lowest on Instructional Support relative to Emotional Support and Classroom Organization](../claims/ece-sample-instructional-support-lowest-class-domain.md) [+W]
 - [Site-level pre-k attendance in the validation sample averaged 85.2 percent and varied widely across sites](../claims/ece-site-attendance-averaged-85-percent.md) [+W]

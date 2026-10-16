@@ -16,7 +16,7 @@ sources:
 # Type M and Type S error framework (Gelman and Carlin) for characterizing inferential errors from statistical significance filtering
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 This commentary organizes the inferential mistakes examined by Simpson (2022) and Sims et al (2022) using the "'Type M' (magnitude) and 'Type S' (sign) errors described by Gelman and Carlin (2014)." Type M errors concern errors in magnitude and Type S errors concern errors in sign of estimated effects. The framework serves as the conceptual lens through which the commentary argues that filtering research findings using statistical significance produces substantial errors in education research.
@@ -39,7 +39,6 @@ This commentary organizes the inferential mistakes examined by Simpson (2022) an
 - interpreting impact estimates appropriately
 
 ### Claims
-- [Large Type M Errors Significance Filter Education](../claims/large-type-m-errors-significance-filter-education.md) [+M]
 
 ## Related Theories
 - 

@@ -15,7 +15,7 @@ sources:
 # Participatory design as a discrete approach to engaging practitioners in research design
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 qualitative, 1 design), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Participatory design is presented as a relatively discrete way to work with practitioners, promoting "iterative construction of emerging designs" and generating results co-interpreted by researchers and the participants who will use the design. The report describes it as "explore, approximate, then refine" (citing Spinuzzi, 2005), drawing on ethnographic observations, interviews, and artifact analysis. Because of its focus on empowerment, the report says it is strongly committed to addressing problems of practice centering equity from a practitioner's perspective.
@@ -37,7 +37,6 @@ Participatory design is presented as a relatively discrete way to work with prac
 ### Claims
 
 - [Research questions are rarely conceived in partnership with practitioners, which undermines research impact on educational decision making](../claims/research-questions-rarely-designed-with-practitioners.md) [+W]
-- [Practitioner interaction shaped the fundamental research question of the ASSISTments online math homework randomized controlled trial](../claims/assistments-homework-question-from-practitioners.md) [+W]
 
 ## Related Theories
 

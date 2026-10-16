@@ -43,4 +43,4 @@ Descriptive statement from the publication's own overview of the checklist resou
 
 
 ## Related Claims
-- [Phase 2 of the M&E Checklist aims to develop descriptive evidence that a refined solution was successfully implemented in the priority community](phase-2-goal-descriptive-implementation-evidence.md) — a narrower finding that bears on this claim
+- Phase 2 of the M&E Checklist aims to develop descriptive evidence that a refined solution was successfully implemented in the priority community — a narrower finding that bears on this claim

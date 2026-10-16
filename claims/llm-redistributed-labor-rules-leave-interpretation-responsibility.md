@@ -44,5 +44,5 @@ The review's synthesis of divisions of labor and rules across the corpus (Findin
 
 ## Related Claims
 - [Evidence on LLM-based family education remains limited across families and educational purposes, especially on sustained personalization, repair labor, and negotiation of authority and rules](llm-family-education-evidence-gaps.md) — related
-- [AI methodologies may redistribute epistemic agency, moving researchers from primary analyst to interpreter and validator of AI-generated outputs](ai-redistributes-researcher-epistemic-agency.md) — a broader claim this one bears on
+- AI methodologies may redistribute epistemic agency, moving researchers from primary analyst to interpreter and validator of AI-generated outputs — a broader claim this one bears on
 - [Low comment rewriting does not imply a smooth process: students describe the main effort as verifying generated code rather than revising prompts](verification-burden-shifts-work-from-rewriting-to-reviewing.md) — related

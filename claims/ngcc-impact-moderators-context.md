@@ -65,5 +65,5 @@ A second moderator finding from the same set of NGCC impact analyses: comparison
 
 ## Related Claims
 - NGCC adaptive courseware had a small positive, statistically significant average impact on course grades, with the top 25% of implementations showing impacts equivalent to 12 percentile points. — related
-- [Of 77 impact data sets submitted by NGCC projects, only 28 had adequate sample sizes and reasonably comparable conditions; the rest were eliminated for small samples, confounds, or baseline inequivalence.](ngcc-dataset-attrition-77-to-28.md) — related
+- Of 77 impact data sets submitted by NGCC projects, only 28 had adequate sample sizes and reasonably comparable conditions; the rest were eliminated for small samples, confounds, or baseline inequivalence. — related
 - Course modality moderated student experience: instructor responsiveness was more prevalent in face-to-face classes and online students reported more frustration — related

@@ -17,7 +17,7 @@ sources:
 # IES practice guide levels-of-evidence framework
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The guide operationalizes the IES levels of evidence for practice guides: strong evidence requires studies with high internal and external validity, such as a systematic review meeting WWC standards or well-designed randomized trials with no contradictory evidence; moderate evidence allows strong causal conclusions with uncertain generalizability, or generalizable relationships with causal ambiguity; low evidence means recommendations rest on expert opinion derived from strong findings in related areas. The panel stresses that a low rating "does not indicate that the recommendation is any less important" but that the panel cannot point to a body of research demonstrating its effect.
@@ -27,7 +27,6 @@ The guide operationalizes the IES levels of evidence for practice guides: strong
 - **IES practice guide levels-of-evidence framework (strong, moderate, low)**: The guide operationalizes the IES levels of evidence for practice guides: strong evidence requires studies with high internal and external validity, such as a systematic review meeting WWC standards or well-designed randomized trials with no contradictory evidence; moderate evidence allows strong causal conclusions with uncertain generalizability, or generalizable relationships with causal ambiguity; low evidence means recommendations rest on expert opinion derived from strong findings in related areas. The panel stresses that a low rating "does not indicate that the recommendation is any less important" but that the panel cannot point to a body of research demonstrating its effect. (Tierney et al. (2009))
 
 ### Claims
-- [Of 99 comparison-group studies of college access programs identified, 16 studies of 10 programs met WWC standards](../claims/16-of-99-college-access-studies-met-wwc-standards.md) [+M]
 
 ## Related Research Methods
 -
@@ -60,7 +59,6 @@ The guide operationalizes the IES levels of evidence for practice guides: strong
 - Evidence-based decisionmaking about college access practices
 
 ### Claims
-- [16 Of 99 College Access Studies Met Wwc Standards](../claims/16-of-99-college-access-studies-met-wwc-standards.md) [+M]
 
 ## Related Theories
 - 

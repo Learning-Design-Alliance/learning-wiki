@@ -58,4 +58,4 @@ Longitudinal multilevel analysis (HLM) of weekly self-reports from 194 universit
 - [Intrinsically motivated students form reflective-iterative metacognitive co-occurrence networks, but overall ENA centroid positions do not differ significantly between motivational groups](ena-networks-motivational-groups.md) — related
 - Adaptive motivation predicts greater behavioral, cognitive and emotional engagement in master's thesis students — related
 - [Emotion affects motivation, which in turn affects mental effort investment during learning](emotion-affects-motivation-mental-effort.md) — related
-- [The SRL and SAL perspectives on student motivation and learning differ, and the article discusses those differences](srl-perspective-contrasts-with-sal-perspective.md) — related
+- The SRL and SAL perspectives on student motivation and learning differ, and the article discusses those differences — related

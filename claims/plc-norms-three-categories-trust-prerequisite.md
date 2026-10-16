@@ -82,7 +82,7 @@ Cross-study synthesis of norm development. The review states that "productive no
 - [Disagreements within a PLC can catalyze teacher learning rather than impede it](plc-disagreements-catalyze-learning.md) — related
 - [PLC in mathematics in prior research pursue three distinct objects, with developing teachers' repertoire of teaching actions the most common](plc-mathematics-three-objects-repertoire-most-common.md) — related
 - [Participation in mathematics PLC changed teachers' collaboration norms, understanding of mathematics and its teaching, and ability to design and carry out teaching](plc-participation-changes-teacher-norms-understanding-practice.md) — related
-- [Reported PLC outcomes frequently do not correspond with the stated object; complete object–outcome correspondence appeared in only three studies](plc-object-outcome-mismatch.md) — related
+- Reported PLC outcomes frequently do not correspond with the stated object; complete object–outcome correspondence appeared in only three studies — related
 - [A preschool teacher's professional growth in guiding children's mathematical learning was identified in three areas: recognizing demonstrated understanding, using mathematical language, and systematic assessment](teacher-growth-three-areas-guiding-preschool-math.md) — related
 - Barriers to situated learning fall into three categories: the traditional school system, the traditional educational approach, and teacher training and practice — related
 - [Teacher resistance as an exercise of teacher agency is a fundamental challenge to current PLC formulations](teacher-resistance-agency-challenges-plc.md) — related

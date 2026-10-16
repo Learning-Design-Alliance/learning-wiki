@@ -63,6 +63,6 @@ Score-level analysis of mid-range responses (Results): "all but one of the 6×4�
 
 ## Related Claims
 - [Task Specific Adaptation Conditions Mid Range Degradation](task-specific-adaptation-conditions-mid-range-degradation.md)
-- [The second human expert showed the highest and most stable agreement with the gold-standard rater, with no mid-range degradation across the response quality spectrum](human-highest-stable-agreement-across-quality-range.md) — related
+- The second human expert showed the highest and most stable agreement with the gold-standard rater, with no mid-range degradation across the response quality spectrum — related
 - [On fully correct responses, the GPT few-shot models outperformed the fine-tuned models, averaging less than one category distance from the gold score](gpt-outperforms-finetuned-on-fully-correct-responses.md) — a narrower finding that bears on this claim
 - [Claude's few-shot scoring behaved erratically across items: best few-shot model on Item 1 but by far the worst model on Item 2](claude-erratic-few-shot-performance-across-items.md) — related

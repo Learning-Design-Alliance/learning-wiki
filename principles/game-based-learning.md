@@ -43,7 +43,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (12 for, 10 mixed) · 28 studies (10 quant-synthesis, 8 causal, 6 review, 3 theoretical, 1 associational), `q1`–`q4` · 9 of 28 report an effect size · 16 claims rest on one study
+> **Evidence** · 23 claims (13 for, 10 mixed) · 29 studies (11 quant-synthesis, 8 causal, 6 review, 3 theoretical, 1 associational), `q1`–`q4` · 10 of 29 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -135,6 +135,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - Novices, for whom requirement 3 bites hardest — an unfamiliar control scheme is a confound for the learner who has least spare capacity [Reducing extraneous cognitive load improves learning outcomes.](../claims/cognitive-load-reduction-improves-learning.md) [+M]
 - [Desirable difficulties enhance learning.](../claims/desirable-difficulties-enhance-learning.md) [+M] — requirement 2's insistence that the mechanic not do the learner's work for them
 - [Guidance that helps novices can become redundant as expertise grows.](../claims/expertise-reversal-effect.md) [~M] — the scaffolding a mechanic bakes in is calibrated to one level of expertise and will be wrong for another
+- [Simulation games are effective as a supplement to other instruction but counterproductive as standalone instruction](../claims/simulation-games-as-supplement-not-standalone.md) [+M] — attached 2026-10-16 from Traci Sitzmann (2011), which proposed "Embed simulation games as a supplement within a broader program of instruction rather than using them as standalone instruction"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

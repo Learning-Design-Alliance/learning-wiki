@@ -17,7 +17,7 @@ sources:
 # Assessment metadata as naturally occurring direct SEL measurement
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 3 studies (2 associational, 1 review), `q1`–`q2` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 3 studies (2 associational, 1 review), `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The article proposes that assessment metadata — data about how students behave on a test or survey, including disengagement indicators — can function as naturally occurring, direct measures of social-emotional competencies, offering an alternative to deliberately administered SEL surveys. The abstract describes the study's focus as "assessment metadata (typically data relevant to how students behave on a test or survey)" that "can provide information on SEL constructs." The framework treats behavioral traces already collected during routine testing and surveying as a new source of SEL data, and the article examines both the promise and the limitations of this approach.
@@ -30,7 +30,6 @@ The article proposes that assessment metadata — data about how students behave
 - [Educators' efforts to support SEL are hampered by a lack of available, unbiased measures of related competencies](../claims/sel-measurement-lack-unbiased-measures.md) [+M]
 - [A literature review investigated whether assessment metadata can provide information on SEL constructs](../claims/literature-review-assessment-metadata-sel.md) [+M]
 - [Using item response time metadata to measure students' social-emotional learning shows both promise and limitations](../claims/response-time-metadata-sel-promise-and-limitations.md) [~W]
-- [Response times have been used extensively for achievement estimation but little work links test metadata to social-emotional constructs](../claims/response-time-metadata-gap-social-emotional-constructs.md) [~W]
 - [Assessment metadata can be used to quantify the impact of test disengagement on estimates of educational effectiveness](../claims/assessment-metadata-quantify-disengagement-impact.md) [+W]
 
 ## Related Research Methods
@@ -68,7 +67,6 @@ The article proposes that assessment metadata — data about how students behave
 - [Sel Measurement Lack Unbiased Measures](../claims/sel-measurement-lack-unbiased-measures.md) [+M]
 - [A literature review investigated whether assessment metadata can provide information on SEL constructs](../claims/literature-review-assessment-metadata-sel.md) [+M]
 - [Using item response time metadata to measure students' social-emotional learning shows both promise and limitations](../claims/response-time-metadata-sel-promise-and-limitations.md) [~W]
-- [Response times have been used extensively for achievement estimation but little work links test metadata to social-emotional constructs](../claims/response-time-metadata-gap-social-emotional-constructs.md) [~W]
 - [Assessment metadata can be used to quantify the impact of test disengagement on estimates of educational effectiveness](../claims/assessment-metadata-quantify-disengagement-impact.md) [+W]
 
 ## Related Theories

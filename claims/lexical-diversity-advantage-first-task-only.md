@@ -46,3 +46,4 @@ Mixed repeated-measures ANOVA on Coh-Metrix 3.0 lexical diversity indicators (LD
 - [In the first writing task, teacher feedback contained significantly more items than AI-assisted peer feedback, especially on vocabulary errors and technical details](teacher-feedback-more-items-first-task-vocabulary-technical.md) — related
 - [Free ChatGPT use boosts originality on the assisted creative task but the advantage disappears when assistance is removed](chatgpt-free-use-originality-gains-vanish-unassisted.md) — related
 - [Teacher feedback produced larger first-task score gains that dropped 32.8% by the second task, while AI-assisted peer feedback gains remained stable (a learning-curve effect)](writing-score-trajectories-feedback-modes.md) — related
+- [Peer assessment of writing yields outcomes at least as good as teacher assessment and sometimes better](peer-writing-assessment-as-good-as-teacher.md) — related

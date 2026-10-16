@@ -65,6 +65,6 @@ This PRISMA-based systematic review screened 86 articles down to 12 studies (17 
 - [Critical science education requires explicit attention to philosophy of science and rival theories](critical-science-education-philosophy-of-science.md) — related
 - [Critical disposition is least spontaneous when confronting one's most basic prejudices or deeply held convictions](critical-temper-weakest-on-basic-prejudices.md) — related
 - Goffman rejected laboratory experiments because they had not uncovered fields of naturalistic study and fostered bias toward negative cases — related
-- [Drawing on the positional reflexivity of two researchers with distinct perspectives can function as a strength for cogenerating themes and theory in policy evaluation](dual-researcher-positional-reflexivity-strength-theory-generation.md) — related
+- Drawing on the positional reflexivity of two researchers with distinct perspectives can function as a strength for cogenerating themes and theory in policy evaluation — related
 - [Ammons's influential 1956 review concluded that feedback improves learning and motivation without considering the contradictory evidence available to him](ammons-review-ignored-contradictory-evidence.md) — related
 - [Learners design poor experiments: confirmation bias, inconclusive designs, and ineffective variable manipulation are common](poor-experiment-design-in-discovery.md) — related

@@ -52,5 +52,5 @@ The survey measured students' stated priorities among three kinds of interaction
 - Students' general expectations of interaction for learning quality show no single priority order common to all — a broader claim this one bears on
 - In online learning, the perceived importance of teacher and student interaction decreases with student age — related
 - Experience of blended course design shifts students' interaction priorities from teacher toward student interaction — related
-- [Both educator groups rank research to inform best practices in teaching and learning as the most important research goal](best-practices-research-top-goal-educators.md) — related
+- Both educator groups rank research to inform best practices in teaching and learning as the most important research goal — related
 - [A meta-analysis quantitatively verified the importance of three types of interaction in distance and online learning: among students, between instructor and students, and between students and content](three-interaction-types-verified-meta-analysis-distance-learning.md) — related

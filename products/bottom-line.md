@@ -18,7 +18,7 @@ sources:
 # Bottom Line
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Bottom Line is an intensive advising programme run by Bottom Line that supports primarily low-income, first-generation students with college applications, financial aid, college choice, and postsecondary persistence.
@@ -30,7 +30,6 @@ Bottom Line is an intensive advising programme run by Bottom Line that supports 
 ### Claims
 - [Comparison-group students in the Bottom Line study accessed existing advising and nearly all applied to college and for financial aid](../claims/bottom-line-comparison-group-near-universal-application.md) [~M]
 - [The effects of Bottom Line are not known for outcome domains other than college enrollment and progressing in college](../claims/bottom-line-effects-unknown-other-outcomes.md) [~W]
-- [The supporting evidence for Bottom Line comes from a randomized controlled trial that meets WWC group design standards without reservations](../claims/bottom-line-evidence-from-rct-meeting-wwc-standards.md) [+M]
 - [Bottom Line increases enrollment in a four-year college among low-income high school students](../claims/bottom-line-increases-four-year-college-enrollment.md) [+W]
 - [Bottom Line increases progression in college (continuous enrollment for three semesters after high school)](../claims/bottom-line-increases-progressing-in-college.md) [+W]
 
@@ -68,7 +67,6 @@ Bottom Line is an intensive advising program for low-income students, most of wh
 
 - [Comparison-group students in the Bottom Line study accessed existing advising and nearly all applied to college and for financial aid](../claims/bottom-line-comparison-group-near-universal-application.md) [~M]
 - [The effects of Bottom Line are not known for outcome domains other than college enrollment and progressing in college](../claims/bottom-line-effects-unknown-other-outcomes.md) [~W]
-- [The supporting evidence for Bottom Line comes from a randomized controlled trial that meets WWC group design standards without reservations](../claims/bottom-line-evidence-from-rct-meeting-wwc-standards.md) [+M]
 - [Bottom Line increases enrollment in a four-year college among low-income high school students](../claims/bottom-line-increases-four-year-college-enrollment.md) [+W]
 - [Bottom Line increases progression in college (continuous enrollment for three semesters after high school)](../claims/bottom-line-increases-progressing-in-college.md) [+W]
 

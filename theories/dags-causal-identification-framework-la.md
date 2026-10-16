@@ -16,7 +16,7 @@ sources:
 # Directed acyclic graphs as a nonparametric framework for identifying causal effects in learning analytics
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 2 studies (2 theoretical), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 theoretical), `q2` · 0 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 The article presents DAGs, pioneered by Pearl, as a way of visually encoding causal assumptions among variables of interest so researchers can reason about bias and identification. Unlike SEMs, "DAGs are nonparametric in that they make no assumptions about distribution or functional form"; their primary function is graphical identification of causal effects rather than estimation. Constructing a valid DAG requires domain knowledge supplied from outside the data, such as theory and experience.
@@ -37,12 +37,8 @@ The article presents DAGs, pioneered by Pearl, as a way of visually encoding cau
 
 ### Claims
 
-- [Causal knowledge cannot be derived from data analysis alone but requires outside information about the data-generation process](../claims/causal-knowledge-requires-outside-data-information.md) [+W]
-- [Sample truncation based on at-risk status can induce collider bias that undermines internal as well as external validity](../claims/collider-bias-sample-truncation-at-risk.md) [+M]
 - [Confounding may explain the large retention effects reported for the Course Signals early warning system](../claims/course-signals-confounding-number-of-classes.md) [+M]
 - [Course-level sample truncation can produce M-bias that helps explain difficult-to-interpret negative associations between LMS behaviour and student success](../claims/m-bias-gasevic-2016-lms-behaviour.md) [+M]
-- [Restricting a sample to students who used the treatment can block a mediating path and induce overcontrol bias, attenuating estimated effects](../claims/overcontrol-bias-blocking-mediator.md) [+M]
-- [Randomized experiments de-confound by deleting back-door paths, but imperfect compliance can reintroduce confounding](../claims/rct-deconfounding-arrow-deletion.md) [+M]
 
 ## Related Theories
 - 

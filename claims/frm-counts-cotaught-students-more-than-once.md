@@ -43,7 +43,7 @@ The article's description of the Full Roster Method (FRM), attributed to Hock an
 
 
 ## Related Claims
-- [The Full Roster-Plus Method gives co-taught students full weight with their teachers while all students contribute equally to the student-characteristics and achievement relationship](frp-equal-contribution-cotaught-students.md) — related
+- The Full Roster-Plus Method gives co-taught students full weight with their teachers while all students contribute equally to the student-characteristics and achievement relationship — related
 - [The Teacher Team Method and Full Roster Method produce similar estimates of teacher value added](teacher-team-and-full-roster-methods-produce-similar-estimates.md) — related
 - [Applying the Full Roster-Plus Method instead of the Full Roster Method produces very small empirical differences in value-added estimates in District of Columbia Public Schools data](frp-vs-frm-very-small-empirical-differences.md) — related
 - [The report documents a value-added method combining nontechnical description of main features with data sources and technical statistical detail](dc-value-added-report-design-features.md) — related

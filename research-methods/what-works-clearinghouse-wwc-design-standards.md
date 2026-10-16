@@ -17,7 +17,7 @@ sources:
 # What Works Clearinghouse (WWC) design standards
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The What Works Clearinghouse (WWC), established in 2002 by the U.S. Department of Education's Institute of Education Sciences, is a long-running systematic review effort. "Through its design standards, the WWC has defined its requirements for a study to be considered causal evidence," setting expectations for study quality and execution in research on program efficacy while providing decision makers with evidence to inform choices. The framework operates by screening and reviewing studies against its standards, disposing of studies that meet standards, fail them, or are excluded for ineligible design.
@@ -28,8 +28,6 @@ The What Works Clearinghouse (WWC), established in 2002 by the U.S. Department o
 
 ### Claims
 - [The levels and rates of studies meeting WWC evidence standards have increased over the life of the What Works Clearinghouse](../claims/wwc-studies-meeting-standards-increasing-over-time.md) [+M]
-- [The number and proportion of studies excluded due to ineligible design are decreasing over time](../claims/wwc-design-exclusions-decreasing-over-time.md) [+M]
-- [WWC design standards may have contributed to observed improvement in education research quality over the past 15 years](../claims/wwc-standards-may-have-improved-research-quality.md) [+W]
 
 ## Related Research Methods
 -
@@ -64,8 +62,6 @@ The What Works Clearinghouse (WWC), established in 2002 by the U.S. Department o
 ### Claims
 
 - [Wwc Studies Meeting Standards Increasing Over Time](../claims/wwc-studies-meeting-standards-increasing-over-time.md) [+M]
-- [Wwc Design Exclusions Decreasing Over Time](../claims/wwc-design-exclusions-decreasing-over-time.md) [+M]
-- [WWC design standards may have contributed to observed improvement in education research quality over the past 15 years](../claims/wwc-standards-may-have-improved-research-quality.md) [+W]
 
 ## Related Theories
 

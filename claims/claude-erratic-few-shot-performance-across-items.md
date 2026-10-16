@@ -45,4 +45,4 @@ Cross-item comparison of scoring mechanisms (Results): "Claude’s performance o
 ## Related Claims
 - [AI scoring shows a quality-conditioned pattern: strong agreement on fully correct and fully incorrect responses but substantial degradation on mid-range responses](ai-mid-range-scoring-degradation-u-shape.md) — related
 - LLM choice significantly influences human-AI coding correspondence, with Claude Sonnet 4 performing best and GPT 4.1 Mini worst — related
-- [The second human expert showed the highest and most stable agreement with the gold-standard rater, with no mid-range degradation across the response quality spectrum](human-highest-stable-agreement-across-quality-range.md) — related
+- The second human expert showed the highest and most stable agreement with the gold-standard rater, with no mid-range degradation across the response quality spectrum — related

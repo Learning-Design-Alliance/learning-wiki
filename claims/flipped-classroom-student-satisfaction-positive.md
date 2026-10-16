@@ -43,6 +43,6 @@ Random-effects meta-analysis of eight studies (n = 1696) measuring student satis
 
 
 ## Related Claims
-- [Only a minority of flipped-classroom studies in health professional education are RCTs, and risk of bias in non-randomised studies is high](flipped-classroom-evidence-base-rct-shortage-high-bias.md) — related
+- Only a minority of flipped-classroom studies in health professional education are RCTs, and risk of bias in non-randomised studies is high — related
 - [In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)](flipped-classroom-improves-academic-performance-hpe.md) — related
 - [The academic performance advantage of flipped classrooms persists when studies with imputed data are excluded (SMD = 0.54), at low certainty](flipped-classroom-performance-sensitivity-imputed-data.md) — related

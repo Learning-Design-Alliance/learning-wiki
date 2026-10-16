@@ -43,4 +43,4 @@ Analysis of the WWC's database of reviewed studies examining changes in study di
 
 
 ## Related Claims
-- [WWC design standards may have contributed to observed improvement in education research quality over the past 15 years](wwc-standards-may-have-improved-research-quality.md) — a narrower finding that bears on this claim
+- WWC design standards may have contributed to observed improvement in education research quality over the past 15 years — a narrower finding that bears on this claim

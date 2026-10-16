@@ -17,7 +17,7 @@ sources:
 # Design report for the evaluation of the Effective Practice Incentive Community (EPIC) initiative
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A design report by Mathematica Policy Research researchers for evaluating the Effective Practice Incentive Community initiative, an education program. The report states: "This report details our estimation procedures, documents what is currently known about how EPIC operates within the various partners, and provides a work plan for the evaluation." It serves as a methodological planning document rather than a findings report, laying out how the evaluation of EPIC across partner organizations would be carried out.
@@ -38,7 +38,6 @@ A design report by Mathematica Policy Research researchers for evaluating the Ef
 
 ## Claims
 
-- [The EPIC evaluation design report documents estimation procedures, partner-level operations, and a work plan](../claims/epic-report-details-procedures-and-work-plan.md) [+W]
 
 ## Related Elements
 

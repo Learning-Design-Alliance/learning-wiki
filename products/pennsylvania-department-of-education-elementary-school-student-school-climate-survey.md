@@ -18,7 +18,7 @@ sources:
 # Pennsylvania Department of Education elementary school student school climate survey
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 A voluntary elementary student school-climate survey developed by the Pennsylvania Department of Education's Office for Safe Schools with REL Mid-Atlantic to help Pennsylvania schools measure climate and identify areas needing support.
@@ -27,7 +27,6 @@ A voluntary elementary student school-climate survey developed by the Pennsylvan
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [The three domains of the PDE elementary school climate survey were distinct from one another](../claims/pde-elementary-climate-survey-domains-distinct.md) [+W]
 - [Items in each of the three domains of the PDE elementary school climate survey measured the constructs they intended to measure](../claims/pde-elementary-climate-survey-items-measure-intended-constructs.md) [+W]
 - [The safe and respectful school climate domain of the elementary student survey fell short of the established reliability threshold](../claims/safe-respectful-climate-domain-below-reliability-threshold.md) [-W]
 - [Students and teachers reported more positive school climate perceptions in 2020/21 during hybrid and remote learning than in 2018/19 and 2021/22](../claims/pandemic-year-climate-positive-bump-pennsylvania.md) [~W]
@@ -66,7 +65,6 @@ A school climate survey for elementary school students, available on a voluntary
 
 ## Claims
 
-- [The three domains of the PDE elementary school climate survey were distinct from one another](../claims/pde-elementary-climate-survey-domains-distinct.md) [+W]
 - [Items in each of the three domains of the PDE elementary school climate survey measured the constructs they intended to measure](../claims/pde-elementary-climate-survey-items-measure-intended-constructs.md) [+W]
 - [The safe and respectful school climate domain of the elementary student survey fell short of the established reliability threshold](../claims/safe-respectful-climate-domain-below-reliability-threshold.md) [-W]
 - [Students and teachers reported more positive school climate perceptions in 2020/21 during hybrid and remote learning than in 2018/19 and 2021/22](../claims/pandemic-year-climate-positive-bump-pennsylvania.md) [~W]

@@ -62,7 +62,7 @@ Design statement for the two experiments: "Two experiments were conducted with D
 
 
 ## Related Claims
-- [Before this study, no research had explored incidental vocabulary learning through viewing a single full-length TV program](no-prior-studies-single-full-length-tv-viewing-vocabulary.md) — related
+- Before this study, no research had explored incidental vocabulary learning through viewing a single full-length TV program — related
 - [Incidental vocabulary learning through viewing TV was affected by frequency of occurrence, prior vocabulary knowledge, and cognateness](viewing-vocabulary-learning-affected-by-frequency-prior-knowledge-cognateness.md) — related
 - [Reading a single authentic novel yields incidental vocabulary gains, with more gains for words occurring more than five times](single-novel-reading-incidental-vocabulary-gains.md) — related
 - [The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies](exposure-frequency-predicts-incidental-gains.md) — a broader claim this one bears on

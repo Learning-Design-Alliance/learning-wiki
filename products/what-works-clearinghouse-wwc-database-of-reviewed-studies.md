@@ -18,7 +18,7 @@ sources:
 # What Works Clearinghouse (WWC) database of reviewed studies
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A database maintained by the U.S. Institute of Education Sciences' What Works Clearinghouse containing education studies reviewed against WWC evidence standards.
@@ -27,8 +27,6 @@ A database maintained by the U.S. Institute of Education Sciences' What Works Cl
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [The number and proportion of studies excluded due to ineligible design are decreasing over time](../claims/wwc-design-exclusions-decreasing-over-time.md) [~W]
-- [WWC design standards may have contributed to observed improvement in education research quality over the past 15 years](../claims/wwc-standards-may-have-improved-research-quality.md) [+W]
 - [The levels and rates of studies meeting WWC evidence standards have increased over the life of the What Works Clearinghouse](../claims/wwc-studies-meeting-standards-increasing-over-time.md) [+W]
 
 ## Related Products and Programmes
@@ -66,8 +64,6 @@ A database maintained by the What Works Clearinghouse, established by the Instit
 
 ## Claims
 
-- [The number and proportion of studies excluded due to ineligible design are decreasing over time](../claims/wwc-design-exclusions-decreasing-over-time.md) [~W]
-- [WWC design standards may have contributed to observed improvement in education research quality over the past 15 years](../claims/wwc-standards-may-have-improved-research-quality.md) [+W]
 - [The levels and rates of studies meeting WWC evidence standards have increased over the life of the What Works Clearinghouse](../claims/wwc-studies-meeting-standards-increasing-over-time.md) [+W]
 
 ## Related Elements

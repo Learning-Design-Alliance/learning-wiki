@@ -44,5 +44,5 @@ Statement of scope from the report overview. The report states it "presents impa
 
 ## Related Claims
 - [The four Power4Kids interventions delivered about 100 hours of pull-out instruction in small groups of three students over one school year](power4kids-100-hours-small-group-pullout-instruction.md) — related
-- [The Power4Kids evaluation used two-level random assignment: 50 schools to four interventions and struggling readers within schools to treatment or control](power4kids-two-level-random-assignment-design.md) — related
+- The Power4Kids evaluation used two-level random assignment: 50 schools to four interventions and struggling readers within schools to treatment or control — related
 - [The Power4Kids evaluation covered four widely used reading programs for elementary students with reading problems: Corrective Reading, Failure Free Reading, Spell Read P.A.T., and Wilson Reading](power4kids-four-reading-interventions-compared.md) — related

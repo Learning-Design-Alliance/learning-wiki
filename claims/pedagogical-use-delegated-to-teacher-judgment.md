@@ -43,6 +43,6 @@ Authors' interpretive discussion (type e), not a tested result: they argue from 
 
 
 ## Related Claims
-- [A structured review of digital mathematics education technologies found no studies in which learning theories are implemented as functional components of technological systems (L4)](no-l4-operationalization-learning-theories-math-tech.md) — related
+- A structured review of digital mathematics education technologies found no studies in which learning theories are implemented as functional components of technological systems (L4) — related
 - [Only 4 of 23 reviewed conversational agent studies explicitly apply learning theories, indicating a gap between CA development and pedagogical grounding](only-four-ca-studies-apply-learning-theories.md) — related
 - [Teachers retain ultimate control over AI systems because professional responsibility cannot be delegated](teachers-retain-ultimate-control-responsibility-not-delegable.md) — related

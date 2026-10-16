@@ -51,3 +51,4 @@ Focus-group analysis of one participant (Howard, arts/psychology) within a study
 - [Layer 1 survey (N=54) found mostly daily or weekly but largely passive AI use, with persistent ethical anxiety described as cheating fears or hallucination worries](layer1-survey-passive-use-ethical-anxiety.md) — related
 - [AI use threatens students' computing identities as competent, hardworking, and ethical, with students identifying as cheaters, lazy, or incompetent even where AI is permitted](ai-use-threatens-computing-identity.md) — related
 - [Ethical decision-making about AI emerges as tensions and contradictions negotiated across ecological levels](ethical-ai-decision-negotiated-across-levels.md) — related
+- [International students expressed frustration at severe punishment for inappropriate citations, and the authors recommend education over pure punishment](plagiarism-cultural-conduct-frustration.md) — related

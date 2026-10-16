@@ -12,7 +12,7 @@ generated:
 # Lottery-based randomized controlled trials for school-choice evaluation
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 When a school of choice has more applicants than seats, its admissions lottery can serve as the randomizer for a causal evaluation. The KIPP study 'uses a randomized controlled trial design to ensure' that students offered admission and students not offered admission 'are similar on average', on observable characteristics such as prior test scores and unobservable ones such as motivation and parental support, permitting unbiased long-term impact estimates.
@@ -23,7 +23,6 @@ When a school of choice has more applicants than seats, its admissions lottery c
 - **Use admissions lotteries at oversubscribed schools to estimate long-term school impacts with randomized treatment and control groups.**: When a school is oversubscribed and allocates seats by lottery, the lottery creates a randomized controlled trial: students offered admission form the treatment group and non-offered applicants the control group. The article states this design ensures the groups are "similar on average" on observable characteristics such as prior test scores and unobservable characteristics such as motivation and parental support, supporting credible long-term impact estimates. (Thomas Coen et al. (2019))
 
 ### Claims
-- [The KIPP lottery-based randomized controlled trial yielded treatment and control groups similar on observable and unobservable characteristics](../claims/kipp-lottery-offer-rct-group-balance.md) [+M]
 
 ## Related Research Methods
 -

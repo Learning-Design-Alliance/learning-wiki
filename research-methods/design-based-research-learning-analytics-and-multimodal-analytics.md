@@ -17,7 +17,7 @@ sources:
 # Design-based research, learning analytics, and multimodal analytics
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The report's methods theme identifies the most common or growing approaches: Design-Based Research, 'a methodology that rigorously explores which design features have the most potential to improve learning'; learning analytics, providing insights into the learning process often linked to formative assessment and ITS feedback; and multimodal analytics, 'the integration and analysis of multiple data sources (e.g., visual, audio, gestural, movement, eye gaze, heart rate, and/or other types)' to measure learning in new ways.
@@ -28,7 +28,6 @@ The report's methods theme identifies the most common or growing approaches: Des
 - **The article defines design-based research and identifies its characteristics**: The article undertakes to define design-based research and identify its characteristics as a methodology for technology-enhanced learning environments. According to the abstract, the authors "define and identify characteristics of design-based research", establishing what counts as DBR and how it differs from other educational research approaches. This definitional work organizes the paper's subsequent treatment of DBR's importance, implementation principles, and challenges for TELE development. (Wang et al. (2005))
 
 ### Claims
-- [Design-based research was part of 22 funded projects, learning analytics part of 34, and multimodal analytics in roughly a dozen](../claims/research-methods-theme-project-counts.md) [+W]
 
 ## Related Research Methods
 -
@@ -62,7 +61,6 @@ The report's methods theme identifies the most common or growing approaches: Des
 
 ### Claims
 
-- [Design-based research was part of 22 funded projects, learning analytics part of 34, and multimodal analytics in roughly a dozen](../claims/research-methods-theme-project-counts.md) [+W]
 
 ## Related Theories
 

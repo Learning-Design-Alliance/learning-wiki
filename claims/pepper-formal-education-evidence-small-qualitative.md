@@ -50,6 +50,6 @@ Scoping review synthesis of 13 peer-reviewed empirical studies on Pepper in form
 - [In second-language teaching for pupils with special educational needs, Pepper was associated with higher participation than digital tablets](pepper-vs-tablets-higher-participation-sen-language.md) — related
 - [Pepper's classroom operation required frequent teacher supervision in over half of the studies, mainly due to voice recognition and technical failures](pepper-requires-constant-teacher-supervision.md) — related
 - [Recognition of individual Pepper-produced LIS signs varies widely, with several signs significantly above chance and others not significant](pepper-lis-sign-recognition-binomial-tests.md) — related
-- [STEAM AI literacy studies rely mainly on mixed (41.0%) and qualitative (35.9%) methods, with large-scale quantitative work limited (23.1%)](steam-ai-literacy-studies-mixed-qualitative-methods-dominant.md) — reports the opposite
+- STEAM AI literacy studies rely mainly on mixed (41.0%) and qualitative (35.9%) methods, with large-scale quantitative work limited (23.1%) — reports the opposite
 - Empirical studies predominate in the corpus but mostly employ small or moderate samples (median 43.0 participants) — related
 - Experimental, quasi-experimental, machine-learning, mixed-methods and survey designs dominate research assessing AI's impact on engagement and satisfaction — related

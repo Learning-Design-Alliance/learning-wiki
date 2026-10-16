@@ -47,7 +47,7 @@ The report's Key Findings state that a K-3 school-level growth measure was estim
 - [Teachers of students with hard-to-predict achievement levels tend to have less precise value-added estimates than teachers of other students](hard-to-predict-students-less-precise-teacher-va-estimates.md) — related
 - [Empirical Bayes shrinkage increases the precision of value-added estimates and reduces their absolute value for teachers of hard-to-predict students](shrinkage-increases-precision-reduces-absolute-va.md) — related
 - [Including track indicators and classroom achievement controls simultaneously reduces precision of value-added estimates](combined-specifications-reduce-precision.md) — related
-- [The study's correlational, cross-sectional design limits internal validity and causal interpretation](correlational-design-limits-epistemic-freedom-study.md) — related
+- The study's correlational, cross-sectional design limits internal validity and causal interpretation — related
 - [Schools' K-3 growth estimates are much less precise for smaller schools than for larger schools](k3-growth-precision-lower-for-smaller-schools.md) — a narrower finding that bears on this claim
 - [Administering the Kindergarten Readiness Assessment to a subset of students per classroom greatly reduces precision of schools' K-3 growth estimates](kra-subset-administration-greatly-reduces-growth-precision.md) — related
 - [Maryland lacked a measure of schools' support of academic growth from kindergarten to grade 3, creating a critical accountability need under ESSA](maryland-lacked-k3-growth-measure-essa-need.md) — related

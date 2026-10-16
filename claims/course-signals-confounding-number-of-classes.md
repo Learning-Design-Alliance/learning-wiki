@@ -69,6 +69,6 @@ The paper's review of the Course Signals deployment, piloted at Purdue in 2007, 
 
 - [AI-powered predictive analytics improves academic performance by enabling early identification of at-risk students and timely intervention](ai-predictive-analytics-improves-academic-performance.md) — the general claim this finding bears on, with the studies behind it
 - Most non-STAR studies could not be used in the synthesis because of high risk of bias, chiefly confounding — related
-- [Propensity score stratification using multilevel models reduces selection bias from confounding variables and improves accuracy of charter school effect estimations](propensity-stratification-multilevel-reduces-selection-bias.md) — related
-- [Randomized experiments de-confound by deleting back-door paths, but imperfect compliance can reintroduce confounding](rct-deconfounding-arrow-deletion.md) — related
+- Propensity score stratification using multilevel models reduces selection bias from confounding variables and improves accuracy of charter school effect estimations — related
+- Randomized experiments de-confound by deleting back-door paths, but imperfect compliance can reintroduce confounding — related
 - [Written examination scores were low and confounded, providing a serious warning about students' unaided performance on foundational calculations](kt1-exam-low-unaided-performance-warning.md) — related

@@ -43,7 +43,7 @@ The abstract enumerates the study's examination areas: "the mix of students part
 
 
 ## Related Claims
-- [The report presents the first national study of high school and college information technology skill certification programs](first-national-study-it-certification-programs.md) — related
+- The report presents the first national study of high school and college information technology skill certification programs — related
 - [The study documents the prevalence and size of IT skill certification programs in 2002](it-certification-prevalence-size-2002.md) — related
 - [About 35 percent of consortium participants completed a grant-funded program of study, including certifications, certificates, and degrees](cbe-participants-completion-employment-wages.md) — a narrower finding that bears on this claim
 - [Participants completed programs quickly, averaging less than two terms to a first certification course and about four terms to certificates and degrees](cbe-fast-completion-two-terms-certification-four-terms-credentials.md) — a narrower finding that bears on this claim

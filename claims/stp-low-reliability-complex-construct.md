@@ -57,4 +57,4 @@ Human inter-rater reliability measured with Fleiss' κ among three researchers c
 - Inter-model agreement on LLM skill tagging is moderate (Cohen's kappa 0.51), with strong agreement on S5 and disagreement concentrated in the S2/S3/S4 boundary — related
 - [The emergent LLM coding pipeline reaches substantial agreement with expert human coding (Cohen's κ = 0.78, raw agreement 84%) on a stratified 10% sample](llm-discourse-coding-kappa-078-expert-agreement.md) — related
 - [Inter-rater agreement among the 20 expert teachers was low, at or below chance across QM criteria](low-inter-rater-agreement-qm-criteria.md) — related
-- [Think aloud coding achieved inter-rater reliability of k = .53-.65 (kmax = .81-.82) between two coders using ELAN software](think-aloud-coding-interrater-reliability.md) — related
+- Think aloud coding achieved inter-rater reliability of k = .53-.65 (kmax = .81-.82) between two coders using ELAN software — related

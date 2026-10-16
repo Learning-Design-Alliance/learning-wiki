@@ -17,7 +17,7 @@ sources:
 # Multimodal analysis
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 5 claims (5 for) · 3 studies (1 review, 1 associational, 1 design), `q2` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (1 associational, 1 design), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 Multimodal analysis is one of three methodological advances the report highlights, defined as "Integrating multiple streams of data, such as audio, video, eye gaze, sensors, and clickstream data." The introduction elaborates it as "the study of learning with data streams that include physical movement, sound, and logs from interactions with technology (as well as more traditional observations)." The report presents the Connected Worlds exhibit at the New York Hall of Science, which enables embodied learning in an immersive sensor-rich space, as a research site where scientists are pushing the frontiers of multimodal analytics.
@@ -29,7 +29,6 @@ Multimodal analysis is one of three methodological advances the report highlight
 - **EEG-fNIRS bimodal complementarity framework for attention quantification**: The article's attention modeling framework rests on the complementary strengths of EEG and fNIRS. EEG offers millisecond-level temporal resolution sensitive to rapid stimulus changes but is susceptible to motion artifacts, while fNIRS suffers hemodynamic latency yet provides region-level spatial specificity and greater tolerance to movement. As the authors state, "EEG primarily contributes high-temporal-resolution neural dynamics, whereas fNIRS provides complementary region-level spatial information over the targeted cortical regions." These complementary properties motivate the bimodal input, with fused features feeding a DDQN that outputs high, medium, or low attention levels. (Shixian Zhou et al. (2026))
 
 ### Claims
-- [Microphones are the most widely used sensor in MMCA studies](../claims/microphone-most-used-mmca-sensor.md) [+W]
 - [High-experience team teachers show higher voice-quality/spectral-structure and greater loudness-dynamics components than low-experience teachers across spatial pedagogy behavioural categories](../claims/experience-differences-team-teaching-acoustics.md) [+M]
 - [Teacher talk differs acoustically by student cohort: undergraduate classes show higher loudness-dynamics components while postgraduate classes show higher spectral-slope and voice-quality components](../claims/cohort-differences-team-teaching-acoustics.md) [+M]
 - [Collaborative tasks elicit higher loudness-dynamics components in team-teacher talk than individual tasks, which show higher spectral-slope and voice-quality components](../claims/task-design-differences-team-teaching-acoustics.md) [+M]
@@ -68,7 +67,6 @@ Multimodal analysis is one of three methodological advances the report highlight
 
 ### Claims
 
-- [Microphones are the most widely used sensor in MMCA studies](../claims/microphone-most-used-mmca-sensor.md) [+W]
 
 ## Related Theories
 

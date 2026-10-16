@@ -44,7 +44,7 @@ In the same propensity-score-matched Florida comparison of 30 teachers over two 
 
 ## Related Claims
 - [Students of ABCTE-certified teachers and non-ABCTE teachers show no difference in reading achievement gains in Florida](abcte-florida-no-reading-gain-difference.md) — related
-- [Propensity score matching was used to build a comparison group of Florida teachers for estimating ABCTE certification effects](abcte-florida-propensity-score-matching-design.md) — related
+- Propensity score matching was used to build a comparison group of Florida teachers for estimating ABCTE certification effects — related
 - [Students of alternatively certified teachers taking coursework while teaching scored lower in math than students of traditionally certified counterparts](coursework-while-teaching-lower-math.md) — a narrower finding that bears on this claim
 - [Students with alternatively certified teachers did no worse on achievement tests than students with traditionally certified teachers](alt-cert-teachers-no-worse-student-achievement.md) — related
 - [Administrators gave a cautious assessment of the ABCTE Passport to Teaching program that certified the teachers](principals-cautious-assessment-abcte-program.md) — related

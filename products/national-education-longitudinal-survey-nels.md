@@ -18,7 +18,7 @@ sources:
 # National Education Longitudinal Survey (NELS)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A nationally representative longitudinal education dataset collected and maintained by the National Center for Education Statistics, tracking students from eighth grade through postsecondary outcomes.
@@ -31,7 +31,6 @@ A nationally representative longitudinal education dataset collected and maintai
 ### Claims
 - [Using a flexible functional form, the estimated benefit of improving a competency depends on a student's existing strengths and weaknesses in other competencies](../claims/competency-benefits-depend-on-other-competencies.md) [+W]
 - [NELS indicators of math skills, work habits, leadership, teamwork and sports-related skills, and locus of control are related to postsecondary earnings and to the likelihood of attending and completing postsecondary education](../claims/nels-competencies-predict-postsecondary-attainment-earnings.md) [+W]
-- [The report analyzes several competencies simultaneously rather than one at a time](../claims/simultaneous-analysis-of-multiple-competencies.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -69,7 +68,6 @@ The National Education Longitudinal Study (NELS) surveys of students and teacher
 
 - [Using a flexible functional form, the estimated benefit of improving a competency depends on a student's existing strengths and weaknesses in other competencies](../claims/competency-benefits-depend-on-other-competencies.md) [+W]
 - [NELS indicators of math skills, work habits, leadership, teamwork and sports-related skills, and locus of control are related to postsecondary earnings and to the likelihood of attending and completing postsecondary education](../claims/nels-competencies-predict-postsecondary-attainment-earnings.md) [+W]
-- [The report analyzes several competencies simultaneously rather than one at a time](../claims/simultaneous-analysis-of-multiple-competencies.md) [+W]
 
 ## Related Elements
 - 

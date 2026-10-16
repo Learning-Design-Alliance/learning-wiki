@@ -18,7 +18,7 @@ sources:
 # OSF repository
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 An OSF-hosted replication package from Zambrano et al. containing the prompts, GPT-generated codebooks, and code used to develop and compare LLM-assisted qualitative codebooks.
@@ -32,7 +32,6 @@ An OSF-hosted replication package from Zambrano et al. containing the prompts, G
 - [GPT-4o prompted only with SRL theory references generates a codebook accurately representing most key elements of both foundational SRL theories](../claims/gpt4o-theory-references-codebook-covers-srl-theories.md) [+W]
 - [Human review remains essential after GPT-based codebook generation, producing a final refined SRL codebook of eleven constructs](../claims/human-refinement-essential-gpt-codebooks.md) [+W]
 - [Fully inductive LLM codebook development risks importing unexamined sensitizing concepts, such as folk theories and scientific misconceptions, from the model's training data](../claims/llm-inductive-coding-sensitizing-concept-risk.md) [+W]
-- [In the interest-development context, naming the theory without full references produced the most practical and usable codebook, while supplying full papers enhanced theoretical alignment but reduced applicability](../claims/naming-theory-most-practical-prompting-strategy.md) [+W]
 - [Adding think-aloud data to theory prompts improves GPT-4o codebook completeness and alignment with the data](../claims/theory-plus-data-prompting-improves-codebook.md) [+W]
 
 ## Related Products and Programmes
@@ -71,7 +70,6 @@ A released replication package hosting the code for the article's codebook devel
 - [GPT-4o prompted only with SRL theory references generates a codebook accurately representing most key elements of both foundational SRL theories](../claims/gpt4o-theory-references-codebook-covers-srl-theories.md) [+W]
 - [Human review remains essential after GPT-based codebook generation, producing a final refined SRL codebook of eleven constructs](../claims/human-refinement-essential-gpt-codebooks.md) [+W]
 - [Fully inductive LLM codebook development risks importing unexamined sensitizing concepts, such as folk theories and scientific misconceptions, from the model's training data](../claims/llm-inductive-coding-sensitizing-concept-risk.md) [+W]
-- [In the interest-development context, naming the theory without full references produced the most practical and usable codebook, while supplying full papers enhanced theoretical alignment but reduced applicability](../claims/naming-theory-most-practical-prompting-strategy.md) [+W]
 - [Adding think-aloud data to theory prompts improves GPT-4o codebook completeness and alignment with the data](../claims/theory-plus-data-prompting-improves-codebook.md) [+W]
 
 ## Related Elements

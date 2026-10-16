@@ -47,4 +47,4 @@ Thematic synthesis (Section 4.2). The review reports that "AI systems are capabl
 - [Students show signs of dropout risk early in high school, and schools that reach out in the ninth-grade year can keep them on track to graduate](ninth-grade-early-outreach-keeps-students-on-track.md) — related
 - [Monitoring all students and proactively intervening on early warning signs has minimal-level evidence of improving dropout-related outcomes](proactive-monitoring-minimal-evidence.md) — related
 - [AI-powered predictive analytics improves academic performance by enabling early identification of at-risk students and timely intervention](ai-predictive-analytics-improves-academic-performance.md) — possibly the same claim (merge candidate)
-- [Predicting student outcomes was a common AIEd use in higher education, with ten studies predicting academic performance](predicting-academic-performance-ai-ed-he.md) — possibly the same claim (merge candidate)
+- Predicting student outcomes was a common AIEd use in higher education, with ten studies predicting academic performance — possibly the same claim (merge candidate)

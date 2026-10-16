@@ -18,7 +18,7 @@ sources:
 # CWPT Learning Management System (CWPT–LMS)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 CWPT–LMS is computer-based software support for implementing, monitoring, and sustaining ClassWide Peer Tutoring, distributed by the Juniper Gardens Children's Project.
@@ -30,7 +30,6 @@ CWPT–LMS is computer-based software support for implementing, monitoring, and 
 ### Claims
 - [Greenwood et al. (1993) reported a statistically significant CWPT effect on CTBS-Reading, but the WWC-corrected analysis was not statistically significant](../claims/cwpt-ctbs-effect-significance-discrepancy.md) [~W]
 - [The evidence base for CWPT in beginning reading is small, with no standards-meeting studies of alphabetics, fluency, or comprehension](../claims/cwpt-evidence-base-small-reading-domains.md) [~W]
-- [Severe and differential attrition at grade 4 (68.2% intervention vs. 44.2% comparison) led the WWC to exclude grade-4 outcomes from review](../claims/cwpt-grade4-differential-attrition-excluded.md) [~W]
 
 ## Related Products and Programmes
 -
@@ -66,7 +65,6 @@ The CWPT Learning Management System is a computer-based version of the peer tuto
 
 - [Greenwood et al. (1993) reported a statistically significant CWPT effect on CTBS-Reading, but the WWC-corrected analysis was not statistically significant](../claims/cwpt-ctbs-effect-significance-discrepancy.md) [~W]
 - [The evidence base for CWPT in beginning reading is small, with no standards-meeting studies of alphabetics, fluency, or comprehension](../claims/cwpt-evidence-base-small-reading-domains.md) [~W]
-- [Severe and differential attrition at grade 4 (68.2% intervention vs. 44.2% comparison) led the WWC to exclude grade-4 outcomes from review](../claims/cwpt-grade4-differential-attrition-excluded.md) [~W]
 
 ## Related Elements
 

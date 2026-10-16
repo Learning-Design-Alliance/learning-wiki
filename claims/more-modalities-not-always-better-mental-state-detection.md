@@ -43,8 +43,8 @@ The review reports, citing Peng and Nagao (2021), a tool using commercial sensor
 
 
 ## Related Claims
-- [Microphones are the most widely used sensor in MMCA studies](microphone-most-used-mmca-sensor.md) — related
-- [Most MMCA studies combine two or three modalities rather than four](mmca-studies-mostly-two-or-three-modalities.md) — related
+- Microphones are the most widely used sensor in MMCA studies — related
+- Most MMCA studies combine two or three modalities rather than four — related
 - [Spoken text modality does not significantly differ from signaled written text modality, or from signaled written plus spoken text, for either abstract or concrete animation](spoken-versus-signaled-written-null.md) — related
 - [Certain multimodal data combinations improve predictive model performance, with audio plus eye-tracking data most effective in one K–8 study](mmla-k8-modality-combinations-prediction.md) — related
 - [Chest-worn ECG provides the strongest cardiac-sensing performance for attention-difficulty prediction, and fusing all cardiac streams does not improve upon chest ECG alone](chest-ecg-strongest-cardiac-engagement-signal.md) — a narrower finding that bears on this claim

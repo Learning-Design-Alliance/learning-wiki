@@ -17,7 +17,7 @@ sources:
 # Trim-and-fill publication-bias analysis procedure applied to learning-effectiveness meta-analysis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 2 studies (2 quant-synthesis), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article applies the trim and fill method (Duval & Tweedie) as its publication-bias analysis procedure within a five-step meta-analysis pipeline: effect size calculation, heterogeneity testing, summary effect calculation, forest-plot analysis, and funnel-plot bias analysis. The article describes the mechanism: "The trim and fill method uses an iterative procedure to eliminate the most extreme small studies from the funnel plot's positive side and recalculate each iteration's effect size until the funnel plot becomes symmetrical." Symmetry of the funnel plot indicates no publication bias; asymmetry would indicate bias. The procedure was implemented with JASP software for the forest plot and R software for the summary effect.
@@ -39,8 +39,6 @@ The article applies the trim and fill method (Duval & Tweedie) as its publicatio
 
 ## Claims
 
-- [Trim-and-fill analysis shows no publication bias in the meta-analysis of innovative learning effects on mathematical problem-solving ability](../claims/trim-fill-no-publication-bias-innovative-learning.md) [+W]
-- [Funnel plot and Egger's test indicate publication bias in the PBL tutor-background data, and trim-and-fill suggests the overall effect is overestimated](../claims/publication-bias-pbl-tutor-meta-analysis.md) [-W]
 
 ## Related Elements
 

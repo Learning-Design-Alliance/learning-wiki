@@ -44,7 +44,7 @@ Authors' interpretation drawn from the survey findings on instructional mode, te
 ## Related Claims
 
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — the general claim this finding bears on, with the studies behind it
-- [Few studies of online instruction's operations and effects existed before the National Study of Online Charter Schools](few-prior-studies-online-instruction-operations-effects.md) — related
+- Few studies of online instruction's operations and effects existed before the National Study of Online Charter Schools — related
 - [Student-driven, independent study is the dominant mode of learning in online charter schools, with 33 percent offering only self-paced instruction](online-charters-dominant-independent-study-mode.md) — related
 - [About 200 online charter schools operate in the United States, serving about 200,000 students across elementary, middle, and high school grades](online-charter-schools-200-schools-200000-students.md) — related
 - [Online charter school students receive less live teacher contact time in a week than conventional-school students receive in a day](online-charters-low-live-teacher-contact-time.md) — a narrower finding that bears on this claim

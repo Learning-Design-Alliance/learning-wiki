@@ -18,7 +18,7 @@ sources:
 # MAP Accelerator
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Khan Academy MAP Accelerator is a mastery-based mathematics learning platform developed by Khan Academy in partnership with NWEA for students in grades 3–8.
@@ -31,7 +31,6 @@ Khan Academy MAP Accelerator is a mastery-based mathematics learning platform de
 - [Platform treatment effects did not vary across demographic subgroups, suggesting equal benefit regardless of racial background](../claims/mastery-platform-effects-uniform-across-demographics.md) [+W]
 - [Longitudinal within-student analysis of a mathematics mastery learning platform replicates positive effects on standardized math test scores](../claims/mastery-platform-longitudinal-positive-effects.md) [+W]
 - [Prior cross-sectional between-group research on the platform found a positive usage–test-score relationship but could not rule out unobserved confounding](../claims/prior-cross-sectional-platform-usage-achievement-link.md) [+W]
-- [Time-varying confounds (e.g., hiring a tutor, school policy changes) remain an uneliminated threat to the platform's estimated effects](../claims/time-varying-confounds-limit-platform-estimates.md) [~W]
 
 ## Related Products and Programmes
 -
@@ -68,7 +67,6 @@ A technology-enhanced, mastery-based mathematics learning platform used at scale
 - [Platform treatment effects did not vary across demographic subgroups, suggesting equal benefit regardless of racial background](../claims/mastery-platform-effects-uniform-across-demographics.md) [+W]
 - [Longitudinal within-student analysis of a mathematics mastery learning platform replicates positive effects on standardized math test scores](../claims/mastery-platform-longitudinal-positive-effects.md) [+W]
 - [Prior cross-sectional between-group research on the platform found a positive usage–test-score relationship but could not rule out unobserved confounding](../claims/prior-cross-sectional-platform-usage-achievement-link.md) [+W]
-- [Time-varying confounds (e.g., hiring a tutor, school policy changes) remain an uneliminated threat to the platform's estimated effects](../claims/time-varying-confounds-limit-platform-estimates.md) [~W]
 
 ## Related Elements
 - 

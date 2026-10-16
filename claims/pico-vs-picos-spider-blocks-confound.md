@@ -43,8 +43,8 @@ Observational comparison (Methley et al., 2014) of identical search terms combin
 
 
 ## Related Claims
-- [The recommendation to avoid outcome-related search terms to preserve sensitivity is not substantiated by available evidence](outcome-terms-lower-sensitivity-unsubstantiated.md) — related
-- [Only three studies assessing PICO as a search strategy tool were eligible for review, and heterogeneity prevented quantitative analysis](pico-search-review-three-studies-only.md) — related
+- The recommendation to avoid outcome-related search terms to preserve sensitivity is not substantiated by available evidence — related
+- Only three studies assessing PICO as a search strategy tool were eligible for review, and heterogeneity prevented quantitative analysis — related
 - [PICO versus truncated PIC in PubMed: PICO showed higher median sensitivity and precision on the first 40 records, but PIC showed higher sensitivity on the full output](pico-vs-pic-pubmed-median-sensitivity.md) — related
 - [The number of search blocks impacts search quality: fewer blocks yield higher sensitivity and lower precision](search-block-count-impacts-sensitivity-precision.md) — a broader claim this one bears on
 - [In a randomized crossover trial, PICO searching yielded higher average sensitivity and lower average precision than unguided searching, not statistically significant](pico-vs-unguided-sensitivity-precision.md) — related

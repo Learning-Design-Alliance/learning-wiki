@@ -44,5 +44,5 @@ Descriptive table analysis of principal exit interviews in the Excellence in Tea
 
 ## Related Claims
 - [The buy-in typology was derived from 39 interviewed principals, whose evaluation attitudes in the table are described as mostly positive](eit-39-principals-mostly-positive-attitudes.md) — possibly the same claim (merge candidate)
-- [The principal typology records changes in practice and their severity as distinct columns, with the paradigm-shift type's changes rated high](eit-changes-in-practice-severity-column.md) — possibly the same claim (merge candidate)
+- The principal typology records changes in practice and their severity as distinct columns, with the paradigm-shift type's changes rated high — possibly the same claim (merge candidate)
 - [Principals of the paradigm-shift type reported high buy-in and a paradigm shift, and their reported influence on instructional grouping, assessment, planning, and general instructional practice was rated high](eit-paradigm-shift-principals-high-influence.md) — a narrower finding that bears on this claim

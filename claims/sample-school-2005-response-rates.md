@@ -43,4 +43,4 @@ Survey Response Rates section of the school report, covering 207 eligible grade 
 
 
 ## Related Claims
-- [The 2005 CCSR survey achieved response rates near 90 percent at the sample high school, with respondents closely matching the full student body](ccsr-2005-sample-school-response-rates.md) — related
+- The 2005 CCSR survey achieved response rates near 90 percent at the sample high school, with respondents closely matching the full student body — related

@@ -22,7 +22,7 @@ sources:
 # Reading Plus
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Reading Plus® is a web-based individualized reading intervention platform developed and operated by Reading Plus® to provide scaffolded silent-reading practice, assessment, and progress monitoring for students.
@@ -37,7 +37,6 @@ Reading Plus® is a web-based individualized reading intervention platform devel
 - **Three-part session structure combining perceptual warm-up, adaptive silent reading, and contextual analysis activities**: Within a typical 45-minute session, students engage in visual perceptual warm-up activities, scaffolded silent reading activities that "dynamically adjust content-level difficulty, degree of repetition, duration of reading, rate, and style of presentation," and contextual analysis activities building word knowledge and inferential abilities. Program length varies from 9 weeks (3–4 times per week) to 30 weeks (5 times per week). (What Works Clearinghouse (2010))
 
 ### Claims
-- [Baseline equivalence was established only for low-achieving students, so analyses for other grades and subpopulations do not meet WWC evidence standards](../claims/reading-plus-baseline-equivalence-low-achievers-only.md) [~W]
 - [The extent of evidence for Reading Plus® on adolescent learners is small, resting on a single study that met WWC standards with reservations](../claims/reading-plus-evidence-extent-small-one-study.md) [~W]
 - [Reading Plus® produced a statistically significant positive effect on FCAT reading comprehension for low-achieving adolescent learners, with a small WWC-calculated effect of 0.06](../claims/reading-plus-small-significant-comprehension-effect-low-achievers.md) [+W]
 
@@ -81,7 +80,6 @@ Reading Plus® is a web-based reading intervention providing "individualized sca
 
 ## Claims
 
-- [Baseline equivalence was established only for low-achieving students, so analyses for other grades and subpopulations do not meet WWC evidence standards](../claims/reading-plus-baseline-equivalence-low-achievers-only.md) [~W]
 - [The extent of evidence for Reading Plus® on adolescent learners is small, resting on a single study that met WWC standards with reservations](../claims/reading-plus-evidence-extent-small-one-study.md) [~W]
 - [Reading Plus® produced a statistically significant positive effect on FCAT reading comprehension for low-achieving adolescent learners, with a small WWC-calculated effect of 0.06](../claims/reading-plus-small-significant-comprehension-effect-low-achievers.md) [+W]
 

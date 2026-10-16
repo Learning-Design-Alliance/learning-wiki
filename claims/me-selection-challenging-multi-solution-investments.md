@@ -46,6 +46,6 @@ The brief's framing statement, offered as expert guidance rather than an empiric
 - [Progress in evidence-based solution development is not always linear; evidence determines phase movement](evidence-determines-nonlinear-phase-movement.md) — related
 - Common gaps in the SSI Youth Solutions proposal papers concern effects on employment outcomes, costs, and implementation challenges — related
 - [The M&E Plan Template promotes continuity across funders' portfolios, enabling streamlined review and cross-solution comparisons](me-template-promotes-cross-solution-continuity.md) — related
-- [Rapid-cycle evaluation determines with high confidence whether and for whom a program change causes intended improvements or unintended consequences](rapid-cycle-evaluation-determines-whether-and-for-whom-changes-work.md) — a narrower finding that bears on this claim
+- Rapid-cycle evaluation determines with high confidence whether and for whom a program change causes intended improvements or unintended consequences — a narrower finding that bears on this claim
 - [For classroom assessments of complex constructs such as learning progressions in math and science, test score use is more effectively conceptualized as part of a potential solution to a problem, or 'job-to-be-done'](score-use-as-job-to-be-done.md) — a narrower finding that bears on this claim
 - [Operation Warp Speed illustrates that purpose-built agile R&D structures can compress time-to-impact during systemic disruption](ows-agile-rd-compressed-vaccine-timeline.md) — related

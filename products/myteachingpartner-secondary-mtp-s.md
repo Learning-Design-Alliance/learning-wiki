@@ -17,7 +17,7 @@ sources:
 # MyTeachingPartner-Secondary (MTP-S)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (2 for, 2 against) · 4 studies (2 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 2 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 against) · 3 studies (2 causal, 1 quant-synthesis), `q3` · 2 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 MyTeachingPartner–Secondary is a University of Virginia Center for Advanced Study of Teaching and Learning professional-development programme that combines a video library of effective teacher–student interactions with individualized web-based coaching for secondary teachers.
@@ -28,7 +28,6 @@ MyTeachingPartner–Secondary is a University of Virginia Center for Advanced St
 - **CLASS-S organizes effective secondary teaching into three domains of teacher-student interaction**: The Classroom Assessment Scoring System–Secondary (CLASS-S) defines and observes effective teaching practices in MTP-S. Its dimensions are organized into three domains: "(1) Emotional Support", "(2) Classroom Organization", and "(3) Instructional Support", each with named dimensions such as positive climate, behavior management, and quality of feedback. The video library is organized by these CLASS-S dimensions. (MyTeachingPartner-Secondary (MTP-S))
 
 ### Claims
-- [Only one of six identified MTP-S studies met WWC group design standards, and only for general achievement](../claims/mtp-s-evidence-base-single-qualifying-study.md) [-W]
 - [MTP-S showed no statistically significant effect on general achievement during the intervention year](../claims/mtp-s-no-significant-effect-intervention-year.md) [-M]
 - [WWC rates MTP-S as having potentially positive effects on general achievement, with a small extent of evidence](../claims/mtp-s-potentially-positive-general-achievement.md) [+M]
 - [MTP-S produced a positive, statistically significant effect on general achievement in the post-intervention year with a new student cohort](../claims/mtp-s-significant-positive-effect-post-intervention-year.md) [+M]
@@ -68,7 +67,6 @@ MTP-S is a professional development program aiming to increase student learning 
 
 ## Claims
 
-- [Only one of six identified MTP-S studies met WWC group design standards, and only for general achievement](../claims/mtp-s-evidence-base-single-qualifying-study.md) [-W]
 - [MTP-S showed no statistically significant effect on general achievement during the intervention year](../claims/mtp-s-no-significant-effect-intervention-year.md) [-M]
 - [WWC rates MTP-S as having potentially positive effects on general achievement, with a small extent of evidence](../claims/mtp-s-potentially-positive-general-achievement.md) [+M]
 - [MTP-S produced a positive, statistically significant effect on general achievement in the post-intervention year with a new student cohort](../claims/mtp-s-significant-positive-effect-post-intervention-year.md) [+M]

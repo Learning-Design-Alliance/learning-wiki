@@ -47,5 +47,5 @@ In the longitudinal comparison of the three respondent types, the study reports 
 - [Teacher reports of children's noncognitive skills have the highest internal consistency among child, guardian, and teacher reports](teacher-reports-highest-internal-consistency-noncognitive.md) — related
 - [Reports of children's noncognitive skills from children, guardians, and teachers are correlated with each other](three-respondent-reports-correlated.md) — related
 - [Teacher reports of noncognitive skills are the most predictive of children's later cognitive outcomes and school behavior](teacher-reports-most-predictive-later-outcomes.md) — possibly the same claim (merge candidate)
-- [A 2012 landscape analysis project collected and analyzed information on instruments measuring learning strategies and student mindsets in middle childhood](landscape-analysis-collected-instruments-learning-strategies-mindsets.md) — related
+- A 2012 landscape analysis project collected and analyzed information on instruments measuring learning strategies and student mindsets in middle childhood — related
 - [Non-tested outcomes are predicted by teaching practices most proximal to these measures, including teachers' emotional support and classroom organization](proximal-practices-predict-behaviors-mindsets.md) — related

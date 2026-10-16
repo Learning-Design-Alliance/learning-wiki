@@ -43,6 +43,6 @@ Country categorization of all 183 publications by author affiliations shows "73%
 
 
 ## Related Claims
-- [The global literature on ChatGPT in higher education is concentrated in high-income countries and mostly non-empirical: of 69 included studies, 53 (77%) were from HICs and only 19 (27%) were based on empirical data.](chatgpt-he-scoping-review-69-studies-hic-dominance.md) — related
+- The global literature on ChatGPT in higher education is concentrated in high-income countries and mostly non-empirical: of 69 included studies, 53 (77%) were from HICs and only 19 (27%) were based on empirical data. — related
 - [AI-motivation research is geographically and educationally concentrated: over half of reviewed studies were conducted in China and most in higher education](ai-motivation-research-china-higher-ed-concentration.md) — related
 - [Teacher-AI co-design research is concentrated in teacher education and higher education, while secondary and primary education settings remain relatively underdeveloped](k12-underrepresented-teacher-ai-codesign-research.md) — related

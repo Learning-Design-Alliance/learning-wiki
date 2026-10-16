@@ -58,4 +58,4 @@ Meta-regression of chronic exercise studies on working memory, showing type and 
 
 
 ## Related Claims
--
+- [Exergaming fosters small but significant improvements in quality of life for people living with chronic diseases, and structured programs associate with executive functioning gains](exergaming-quality-of-life-executive-gains.md) — related

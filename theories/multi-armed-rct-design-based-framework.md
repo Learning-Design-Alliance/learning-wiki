@@ -16,7 +16,7 @@ sources:
 # Multi-armed RCT design-based framework for examining multiple interventions in a single study
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 2 studies (2 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report presents a design-based framework for multi-armed randomized controlled trials, which are "becoming increasingly common in social policy research to simultaneously examine the effects of multiple interventions in a single study." The framework extends two-group design-based estimation to settings where several research groups are compared in one experiment, addressing estimation, hypothesis testing, and causal identification for compliers.
@@ -37,10 +37,6 @@ The report presents a design-based framework for multi-armed randomized controll
 
 ### Claims
 
-- [Identifying and estimating the CACE parameter in the multi-armed context requires complex assumptions](../claims/multi-armed-cace-complex-assumptions.md) [+W]
-- [Design-based estimators for two-group designs require modification for multi-armed designs when comparing pairs of research groups](../claims/multi-armed-estimators-modify-two-group-estimators.md) [+W]
-- [Multiple comparison adjustments are needed when conducting hypothesis tests across pairwise contrasts to identify the most effective interventions](../claims/multi-armed-multiple-comparison-adjustments.md) [+W]
-- [In multi-armed trials seeking the most effective treatments, each pairwise contrast sample is representative of the full set of randomized units](../claims/pairwise-contrast-samples-represent-full-randomized-set.md) [+W]
 - [Variance terms in multi-armed RCT estimators need slight adjustment under the finite-population framework, which can reduce precision](../claims/variance-adjustment-reduces-precision-multi-armed.md) [+W]
 
 ## Related Theories

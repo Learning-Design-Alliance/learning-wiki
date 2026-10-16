@@ -41,7 +41,7 @@ Cost figures reported in the report's cost section, drawn from the Bettinger & B
 
 
 ## Related Claims
-- [The qualifying InsideTrack© study was an RCT across 17 lotteries in eight universities, with only seven 50/50 lotteries meeting WWC standards](bettinger-baker-2014-rct-lottery-design.md) — related
+- The qualifying InsideTrack© study was an RCT across 17 lotteries in eight universities, with only seven 50/50 lotteries meeting WWC standards — related
 - [InsideTrack© Coaching has potentially positive effects on college credit accumulation and persistence, based on one RCT meeting WWC standards](insidetrack-coaching-potentially-positive-persistence.md) — related
 - [InsideTrack© Coaching shows no discernible effects on college degree completion (attainment)](insidetrack-coaching-no-discernible-attainment-effect.md) — related
 - [Only one of 10 identified studies of InsideTrack© Coaching met WWC group design standards without reservations](insidetrack-evidence-base-one-study-meets-wwc-standards.md) — related

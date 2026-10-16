@@ -17,7 +17,7 @@ sources:
 # Simulation-based power calculation procedure comparing classical and Bayesian MDEs across factorial designs
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 3 studies (2 theoretical, 1 design), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The paper describes a simulation procedure for comparing the statistical power of classical and Bayesian factorial designs. The authors "repeatedly simulate factorial experiments with a variety of sample sizes and numbers of treatment arms to estimate the minimum detectable effect (MDE) for each combination," producing MDE comparisons across design complexity that quantify the sample-size savings from the Bayesian approach.
@@ -38,11 +38,6 @@ The paper describes a simulation procedure for comparing the statistical power o
 
 ## Claims
 
-- [Bayesian analysis yields substantially lower minimum detectable effects than classical methods for complex factorial experiments](../claims/bayesian-factorial-lower-mde.md) [+W]
-- [Bayesian factorial analysis controls the risk of false positives from multiple comparisons while increasing precision](../claims/bayesian-partial-pooling-precision-false-positive-control.md) [+W]
-- [For 72 treatment arms, a classical factorial experiment requires nearly twice the sample size of a Bayesian experiment for a given MDE](../claims/bayesian-72-arm-half-sample-size-classical.md) [+W]
-- [Traditional statistical inference methods may require prohibitively large sample sizes for complex factorial experiments](../claims/classical-inference-prohibitive-sample-sizes-factorial.md) [+W]
-- [A Bayesian adaptive design can yield superior inference to a standard design using less than one third the sample size under identified conditions](../claims/bayesian-adaptive-superior-inference-smaller-samples.md) [+W]
 
 ## Related Elements
 - 

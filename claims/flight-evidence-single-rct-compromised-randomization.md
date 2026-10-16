@@ -45,5 +45,5 @@ WWC assessment of Philp (2015): 315 eligible students in grades 7, 9, and 11 in 
 ## Related Claims
 - [The evidence base for PALS in the Adolescent Literacy review rests on a single randomized trial of 120 students across 12 schools, rated as meeting standards with reservations](pals-evidence-base-single-rct-reservations.md) — related
 - [The evidence base for Twelve Together is a single randomized controlled trial that met WWC standards only with reservations due to differential attrition](twelve-together-single-rct-attrition-reservations.md) — related
-- [The qualifying InsideTrack© study was an RCT across 17 lotteries in eight universities, with only seven 50/50 lotteries meeting WWC standards](bettinger-baker-2014-rct-lottery-design.md) — related
-- [The study uses a randomized controlled trial design in which admissions lottery offers make the treatment group similar on average to the control group on observable and unobservable characteristics.](kipp-lottery-offer-rct-group-balance.md) — related
+- The qualifying InsideTrack© study was an RCT across 17 lotteries in eight universities, with only seven 50/50 lotteries meeting WWC standards — related
+- The study uses a randomized controlled trial design in which admissions lottery offers make the treatment group similar on average to the control group on observable and unobservable characteristics. — related

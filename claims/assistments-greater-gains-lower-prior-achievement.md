@@ -44,5 +44,5 @@ The report's retrospective case study of the 2012 IES-funded ASSISTments efficac
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
-- [Practitioner interaction shaped the fundamental research question of the ASSISTments online math homework randomized controlled trial](assistments-homework-question-from-practitioners.md) — related
+- Practitioner interaction shaped the fundamental research question of the ASSISTments online math homework randomized controlled trial — related
 - [Prior research established correlations between observable student experiences such as frustration and clickstream data in ASSISTments, enabling experience-variable equity research without demographic data](bromp-frustration-clickstream-correlations.md) — related

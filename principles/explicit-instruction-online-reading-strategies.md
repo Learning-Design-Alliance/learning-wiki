@@ -22,7 +22,7 @@ sources:
 # Explicit Instruction: Online Reading Strategies
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (15 for, 11 mixed) · 38 studies (15 causal, 10 quant-synthesis, 6 review, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 9 of 38 report an effect size · 16 claims rest on one study
+> **Evidence** · 25 claims (15 for, 10 mixed) · 38 studies (15 causal, 10 quant-synthesis, 6 review, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 9 of 38 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -129,7 +129,7 @@ Learners, tasks and outcomes differ across these claims (second-language and sch
 
 Claims read for this rewrite that bear on the page less directly. Every claim the earlier page cited is used in the model above.
 
-- [Lack of conceptual foundations and methodological shortcomings of many hypermedia studies contribute to ambiguous effectiveness findings](../claims/conceptual-methodological-shortcomings-hypermedia-research.md) [~M] — the same 2007 review; says why hypermedia studies are hard to read, not what to teach.
+- Lack of conceptual foundations and methodological shortcomings of many hypermedia studies contribute to ambiguous effectiveness findings [~M] — the same 2007 review; says why hypermedia studies are hard to read, not what to teach.
 - [Studies on the effectiveness of hypermedia learning have produced ambiguous results](../claims/ambiguous-hypermedia-effectiveness-results.md) [~M] — the same review's starting point; background to the hypermedia claims above.
 - [More fixations on the learning content after an add-subgoal prompt are associated with higher learning gains, suggesting complying with that prompt may not be effective](../claims/add-subgoal-prompt-compliance-may-not-help-learning.md) [~M] — the MetaTutor study again, seven students; complicates the subgoal prompt.
 - [Explicit instruction of four reading comprehension strategies with short stories yields higher reading comprehension post-test scores than regular syllabus instruction in EFL preparatory students](../claims/explicit-strategy-instruction-short-stories-improve-efl-reading-comprehension.md) [+M] — 25 against 25 Turkish EFL students over 16 weeks, quasi-experimental, print short stories; one more instance of the print evidence.

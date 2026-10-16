@@ -43,4 +43,4 @@ The review asserts, in its own words, that "Frequency plays a large part in expl
 
 
 ## Related Claims
-- [Frequency should be reinstated as a bridging variable binding the different schools of language acquisition research](frequency-as-bridging-variable-language-acquisition-research.md) — related
+- Frequency should be reinstated as a bridging variable binding the different schools of language acquisition research — related

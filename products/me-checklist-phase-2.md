@@ -18,7 +18,7 @@ sources:
 # M&E Checklist Phase 2
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A Mathematica practical guidance document prepared for the Gates Foundation that guides education-solution developers through refining an implemented solution and building descriptive implementation evidence.
@@ -28,7 +28,6 @@ A Mathematica practical guidance document prepared for the Gates Foundation that
 - **Measurement and Evaluation Checklist Phase 2 document**: The M&E Checklist Phase 2 is a practical guidance document from Mathematica that guides users through the second phase of an evidence-building process for education solutions. It is one of four checklist documents, each covering one evidence-building phase, and this portion focuses on refining a solution using lessons learned during implementation. The checklist was prepared for the Gates Foundation under a project on middle years math teaching and learning solutions. (Ryan Ruggiero et al. (2023))
 
 ### Claims
-- [Phase 2 of the M&E Checklist aims to develop descriptive evidence that a refined solution was successfully implemented in the priority community](../claims/phase-2-goal-descriptive-implementation-evidence.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -62,7 +61,6 @@ The M&E Checklist Phase 2 is a practical guidance document from Mathematica that
 
 ## Claims
 
-- [Phase 2 of the M&E Checklist aims to develop descriptive evidence that a refined solution was successfully implemented in the priority community](../claims/phase-2-goal-descriptive-implementation-evidence.md) [+W]
 
 ## Related Elements
 

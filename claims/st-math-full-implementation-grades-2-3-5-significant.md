@@ -47,5 +47,5 @@ Grade-level ANCOVA analyses (Exhibit 5) of fully implementing grades matched to 
 - [Among grades provided with ST Math, only grade 2 showed statistically significant CST advantages; grades 3, 4, and 5 did not](st-math-itt-grade2-only-significant.md) — reports the opposite
 - [Grades provided with ST Math have significantly larger proportions of students advanced, or proficient or advanced, on the mathematics CST than comparison grades](st-math-itt-pooled-proficiency-proportions.md) — related
 - [Grade-level clusters provided with ST Math scored higher on state math proficiency rates and scale scores than matched comparison clusters across grades 3-5](st-math-provided-schools-higher-math-outcomes.md) — related
-- [The ST Math evaluation's quasi-experimental design cannot rule out selection bias because treatment grades volunteered to participate](st-math-evaluation-voluntary-participation-selection-bias.md) — related
+- The ST Math evaluation's quasi-experimental design cannot rule out selection bias because treatment grades volunteered to participate — related
 - [Implementation fidelity was defined as at least 85 percent student enrollment and at least 50 percent grade-level content coverage in ST Math](st-math-fidelity-definition-85-enrollment-50-coverage.md) — related

@@ -43,11 +43,11 @@ Distributional analysis of unshrunken individual impact estimates across the 15 
 
 
 ## Related Claims
-- [Manipulation of the assignment variable can substantially influence RD impact estimates, particularly when manipulation is related to the outcome and occurs close to the cutoff](assignment-variable-manipulation-biases-rd-estimates.md) — a narrower finding that bears on this claim
-- [Regression discontinuity estimates show high internal validity, with average bias below 0.01 standard deviations relative to RCT estimates at the same cutoff](rd-average-bias-below-0-01-sd-high-internal-validity.md) — related
+- Manipulation of the assignment variable can substantially influence RD impact estimates, particularly when manipulation is related to the outcome and occurs close to the cutoff — a narrower finding that bears on this claim
+- Regression discontinuity estimates show high internal validity, with average bias below 0.01 standard deviations relative to RCT estimates at the same cutoff — related
 - [Robust RDD methods protect against model misspecification but require much larger sample sizes to detect small effects](rdd-robust-methods-need-larger-samples.md) — related
-- [Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial](rd-replication-matches-experimental-estimates-two-interventions.md) — related
-- [The meta-analysis finds some evidence favoring non-parametric RD methods over parametric ones](rd-non-parametric-methods-favored.md) — related
-- [Shrunken study-specific RD bias estimates stay below 0.07 standard deviations, indicating good external validity](rd-shrunken-bias-below-0-07-sd-external-validity.md) — related
+- Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial — related
+- The meta-analysis finds some evidence favoring non-parametric RD methods over parametric ones — related
+- Shrunken study-specific RD bias estimates stay below 0.07 standard deviations, indicating good external validity — related
 - [Schools that missed AYP showed some positive subsequent achievement impacts under NCLB accountability](missing-ayp-positive-achievement-impacts.md) — related
-- [Regression discontinuity estimates of EL status effects on SPED placement consistently differ substantively from regression analysis results](rd-estimates-differ-from-regression-el-sped.md) — related
+- Regression discontinuity estimates of EL status effects on SPED placement consistently differ substantively from regression analysis results — related

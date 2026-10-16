@@ -45,4 +45,4 @@ Assessment of synthetic control fit across the 12 NDL programs in the analytic s
 ## Related Claims
 - [Exploratory analyses suggest NDL increased requested funding, reduced reviewer burden, and shifted proposal quality ratings for two GEO programs](ndl-funding-reviewer-quality-exploratory.md) — related
 - [In exploratory synthetic control analyses, two GEO no-deadlines programs received 120 to 130 fewer proposals relative to their synthetic counterfactuals](ndl-reduced-proposal-volume-geo-exploratory.md) — related
-- [Nonexperimental methods incorporating pre-treatment outcome measures can replicate experimental ITT impact estimates when control-group crossover occurs](nonexperimental-pre-treatment-methods-replicate-itt-under-crossover.md) — related
+- Nonexperimental methods incorporating pre-treatment outcome measures can replicate experimental ITT impact estimates when control-group crossover occurs — related

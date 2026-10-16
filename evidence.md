@@ -8,32 +8,32 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 16,681 |
-| Evidence entries | 19,850 |
-| Distinct studies | 4,878 |
-| Claims resting on one study | 16,210 (97%) |
+| Claims | 16,849 |
+| Evidence entries | 20,069 |
+| Distinct studies | 4,927 |
+| Claims resting on one study | 16,385 (97%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 922 of 4,878 (19%) |
+| Studies reporting an effect size | 953 of 4,927 (19%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 69 | 530 | 202 | 336 | 1,137 |
-| quant-synthesis | 59 | 113 | 36 | 118 | 326 |
-| review | 74 | 308 | 89 | 127 | 598 |
-| associational | 32 | 605 | 272 | 248 | 1,157 |
-| qualitative | 97 | 253 | 66 | 83 | 499 |
-| design | 51 | 493 | 136 | 30 | 710 |
-| theoretical | 81 | 260 | 58 | 52 | 451 |
+| causal | 67 | 543 | 205 | 329 | 1,144 |
+| quant-synthesis | 60 | 113 | 38 | 118 | 329 |
+| review | 79 | 322 | 91 | 123 | 615 |
+| associational | 32 | 618 | 280 | 249 | 1,179 |
+| qualitative | 102 | 259 | 64 | 82 | 507 |
+| design | 49 | 504 | 130 | 30 | 713 |
+| theoretical | 83 | 255 | 49 | 53 | 440 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 701 (14%) | 3,003 (62%) | 1,054 (22%) | 120 (2%) |
+| 682 (14%) | 3,046 (62%) | 1,078 (22%) | 121 (2%) |
 
-**Studies per claim:** 0: 0, 1: 16,210, 2: 389, 3: 66, 4 or more: 16.
+**Studies per claim:** 0: 0, 1: 16,385, 2: 382, 3: 66, 4 or more: 16.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -44,7 +44,7 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | Study | q | Claims citing it | Resting on it alone |
 |---|---|---|---|
 | [Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive …](claims/adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects.md) | q2 | 34 | 32 |
-| [ClassWide Peer Tutoring: WWC Intervention Report. (2007). What Works Clearinghouse, U.S. Department of …](claims/cwpt-ctbs-effect-significance-discrepancy.md) | q3 | 26 | 26 |
+| [ClassWide Peer Tutoring: WWC Intervention Report. (2007). What Works Clearinghouse, U.S. Department of …](claims/cwpt-ctbs-effect-significance-discrepancy.md) | q3 | 25 | 25 |
 | [John Q. Easton, Stephen Ponisciak, Stuart Luppescu. (2008). From High School to the Future: The Pathway to …](claims/academic-culture-raises-act-scores.md) | q2 | 20 | 20 |
 | [Financial Incentives for Teen Parents to Stay in School. (2006). What Works Clearinghouse Intervention …](claims/cal-learn-evidence-standards-reservations-attrition.md) | q3 | 18 | 17 |
 | [Price, H., Burns, D., Loewe, S., Shields, P., Kaplan, J., & Lee, H. (2024). Long-term English learners in …](claims/boys-disproportionately-represented-ltel7-california.md) | q2 | 15 | 15 |
@@ -62,7 +62,7 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for …](claims/delay-term-improves-exponential-forgetting-curve-recall-prediction.md) | q1 | 11 | 11 |
 | [Kuhfeld, Megan, Soland, James, Pitts, Christine, & Burchinal, Margaret. (2019). Trends in Children's Academic …](claims/district-level-variance-kindergarten-entry-scores.md) | q2 | 11 | 11 |
 | [Feng, M., Li, L., Brezack, N., & Schneider, M. (2025). Scaling teachers' professional development for …](claims/assistments-classwork-shift-rural-equity.md) | q2 | 11 | 11 |
-| [Steven Glazerman and Jeffrey Max. (2011). Do Low-Income Students Have Equal Access to the Highest-Performing …](claims/district-a-extreme-middle-school-math-disparity.md) | q2 | 10 | 10 |
+| [Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is …](claims/learners-given-two-kr-decisions-mostly-keep-their-first-choice.md) | q3 | 10 | 10 |
 
 ## Citation load against evidence base
 
@@ -134,16 +134,16 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
 | [principles](principles/index.md) | 213 | 208 | 22 | 0 |
-| [elements](elements/index.md) | 1,066 | 777 | 2 | 0 |
+| [elements](elements/index.md) | 1,066 | 762 | 2 | 0 |
 | [patterns](patterns/index.md) | 65 | 61 | 23 | 0 |
-| [strategies](strategies/index.md) | 5,770 | 2,582 | 5 | 0 |
+| [strategies](strategies/index.md) | 5,827 | 2,580 | 5 | 0 |
 | [processes](processes/index.md) | 18 | 15 | 6 | 0 |
-| [methods](methods/index.md) | 38 | 22 | 1 | 0 |
-| [theories](theories/index.md) | 1,361 | 908 | 1 | 0 |
+| [methods](methods/index.md) | 38 | 21 | 1 | 0 |
+| [theories](theories/index.md) | 1,361 | 888 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 74 | 72 | 31.5 | 0 |
-| [designs](designs/index.md) | 771 | 454 | 1 | 0 |
-| [products](products/index.md) | 1,612 | 1,100 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 457 | 363 | 1 | 0 |
+| [designs](designs/index.md) | 789 | 464 | 1 | 0 |
+| [products](products/index.md) | 1,646 | 1,107 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 491 | 347 | 1 | 0 |
 
 ## Toward pooled estimates
 

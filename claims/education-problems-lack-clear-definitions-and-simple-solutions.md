@@ -43,4 +43,4 @@ The article's abstract states this characterization directly, offering it as the
 
 
 ## Related Claims
-- [Narrative inquiry uses research puzzles rather than research problems because it is a searching again rather than a problem with a clear solution](narrative-inquiry-puzzles-not-problems.md) — related
+- Narrative inquiry uses research puzzles rather than research problems because it is a searching again rather than a problem with a clear solution — related

@@ -62,7 +62,7 @@ In Experiment 2's stepwise regression, the rereading-vs-once dummy variable was 
 
 
 ## Related Claims
-- [Counterbalancing condition did not affect map accuracy and did not interact with test condition](counterbalancing-no-effect-map-accuracy.md) — related
+- Counterbalancing condition did not affect map accuracy and did not interact with test condition — related
 - [Neither rereading nor self-explanation changed comprehension test performance itself; effects were specific to monitoring accuracy](monitoring-effects-without-test-performance-gains.md) — related
 - [Rereading significantly improves metacomprehension monitoring accuracy relative to reading once (Experiment 1)](rereading-improves-metacomprehension-accuracy.md) — related
 - [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — related

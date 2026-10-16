@@ -46,5 +46,5 @@ A second-order synthesis of 12 meta-analyses in CALL (derived largely from Plons
 
 - [CALL is at least as effective as traditional teaching: the synthesis meets the minimal d=0 (or Hattie's d=.4) expectation](call-at-least-as-good-as-traditional-teaching.md) — a broader claim this one bears on
 - Prior meta-analyses of feedback (Li 2010; Kang & Han 2015; Van der Kleij et al. 2015) reported positive effects but none was devoted entirely to feedback in CALL — related
-- [Variation in meta-analytic effect sizes stems from synthesists' methodological choices (inclusion criteria, data extraction, formulas, outlier handling) and from study quality](meta-analysis-variation-from-methodological-choices.md) — a broader claim this one bears on
+- Variation in meta-analytic effect sizes stems from synthesists' methodological choices (inclusion criteria, data extraction, formulas, outlier handling) and from study quality — a broader claim this one bears on
 - [A meta-analysis of corpus use in language learning was published in Language Learning in 2017 by Boulton and Cobb.](boulton-cobb-2017-corpus-use-meta-analysis.md) — related

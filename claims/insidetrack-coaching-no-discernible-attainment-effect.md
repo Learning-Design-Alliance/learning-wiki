@@ -41,7 +41,7 @@ WWC calculations from the same RCT, three 50/50 lotteries at four-year colleges 
 
 
 ## Related Claims
-- [The qualifying InsideTrack© study was an RCT across 17 lotteries in eight universities, with only seven 50/50 lotteries meeting WWC standards](bettinger-baker-2014-rct-lottery-design.md) — related
+- The qualifying InsideTrack© study was an RCT across 17 lotteries in eight universities, with only seven 50/50 lotteries meeting WWC standards — related
 - [Comprehensive, integrated advising interventions improve progression, academic achievement, and postsecondary degree attainment for postsecondary students](comprehensive-integrated-advising-improves-persistence-and-degree-attainment.md) — reports the opposite
 - [InsideTrack© Coaching costs roughly $390–$500 per student per semester depending on program scale and intensity](insidetrack-coaching-cost-per-student-semester.md) — related
 - [InsideTrack© Coaching has potentially positive effects on college credit accumulation and persistence, based on one RCT meeting WWC standards](insidetrack-coaching-potentially-positive-persistence.md) — related

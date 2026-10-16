@@ -43,9 +43,9 @@ A priori coding of subject domains across the 138 studies into 14 areas. The rev
 
 
 ## Related Claims
-- [72% of AIEd higher education studies focused on students as the intended users, 17% on instructors, and 11% on managers](intended-users-ai-ed-he-students-dominant.md) — related
+- 72% of AIEd higher education studies focused on students as the intended users, 17% on instructors, and 11% on managers — related
 - [Engineering students most often use LLMs for academic writing (27%), conceptual clarification (20%), programming help (17%) and brainstorming (13%)](students-use-llms-writing-clarification-coding-brainstorming.md) — related
 - [Technology disciplines, especially Computer Science and Data Science, lead contributions to AI literacy across TIECD dimensions, while Design (AILE 5.1) is underrepresented across all STEAM clusters](technology-disciplines-dominate-ai-literacy-design-underrepresented.md) — related
-- [Research on ChatGPT-supported STEAM inquiry-based learning is unevenly distributed across disciplines, concentrated in science and mathematics](chatgpt-steam-ibl-uneven-disciplinary-distribution.md) — related
+- Research on ChatGPT-supported STEAM inquiry-based learning is unevenly distributed across disciplines, concentrated in science and mathematics — related
 - [In-service science educators use AI far less in subject-specific DiKoLAN areas (SIM, DAP, DAQ) than in general areas](ai-use-skews-to-general-dikolan-areas.md) — related
 - [Undergraduate students were the most studied academic level in AIEd higher education research, at 72% of studies](undergraduates-most-studied-ai-ed-he.md) — related

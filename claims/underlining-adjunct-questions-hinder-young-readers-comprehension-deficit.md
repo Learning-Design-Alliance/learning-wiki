@@ -47,3 +47,4 @@ The authors' interpretation of the N=69 experiment's results: the findings "sugg
 - [Recall of passage details is most depressed when children receive both underlining and conceptual postquestions](underlining-plus-postquestions-most-depress-detail-recall.md) — related
 - [Question prompts improve learning](question-prompts-improve-learning.md) — reports the opposite
 - [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — reports the opposite
+- [Adjunct aids such as learning objectives and embedded questions show limited effects and may interfere with competent readers' natural strategies](adjunct-aids-limited-effects-interference.md) — related

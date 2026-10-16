@@ -16,7 +16,7 @@ sources:
 # Bayesian hypothesis testing as an approach to the multiple testing problem
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The report treats Bayesian hypothesis testing as one of the approaches addressed for handling multiple testing in education impact evaluations. The abstract lists it among the report's contents: "the report provides details on the nature of the multiple testing problem and the statistical solutions that have been proposed; the creation of composite outcomes measures; and the Bayesian hypothesis testing approach". It is presented as an alternative to frequentist correction procedures.
@@ -37,9 +37,6 @@ The report treats Bayesian hypothesis testing as one of the approaches addressed
 
 ### Claims
 
-- [Bayesian analysis yields substantially lower minimum detectable effects than classical methods for complex factorial experiments](../claims/bayesian-factorial-lower-mde.md) [+W]
-- [Statistical procedures that correct for multiple testing typically reduce the statistical power of hypothesis tests in impact evaluations](../claims/multiple-testing-corrections-reduce-power.md) [+W]
-- [Researchers disagree about using multiple testing procedures and the trade-off between type I error and statistical power (type II error)](../claims/researcher-disagreement-multiple-testing-tradeoff.md) [+W]
 
 ## Related Theories
 

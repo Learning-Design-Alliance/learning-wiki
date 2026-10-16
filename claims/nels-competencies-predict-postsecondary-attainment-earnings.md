@@ -49,4 +49,4 @@ Observational analysis of NELS student and teacher surveys relating competency i
 - [Multiple non-academic competencies (leadership, sports-related skills, work habits, prosocial behavior, locus of control) appear to predict students' later success in higher education and the labor market](non-academic-competencies-predict-later-success.md) — possibly the same claim (merge candidate)
 - [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — related
 - [K-12 officials increasingly attend to postsecondary outcomes but many are unsure how best to use the data](officials-unsure-how-to-use-postsecondary-data.md) — related
-- [The report analyzes several competencies simultaneously rather than one at a time](simultaneous-analysis-of-multiple-competencies.md) — related
+- The report analyzes several competencies simultaneously rather than one at a time — related

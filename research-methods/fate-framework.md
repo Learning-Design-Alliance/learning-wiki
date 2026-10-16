@@ -17,7 +17,7 @@ sources:
 # FATE framework
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 5 claims (5 for) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article organizes the evaluation of multimodal learning analytics around four dimensions synthesized from prior FATE research in AI and learning analytics. Fairness concerns unbiased analytics and "the equitable and impartial reporting and visualization of these analytics"; accountability concerns distributed responsibility and data access; transparency concerns articulation of data-driven insights so students can understand and trust them; ethics concerns privacy and informed consent. The study operationalizes each dimension through student interviews after an authentic MMLA deployment.
@@ -31,7 +31,6 @@ The article organizes the evaluation of multimodal learning analytics around fou
 - [Students supported tiered data access: broad access for self-reflection, educator access for teaching, and restricted access to raw video and audio](../claims/mmla-tiered-data-access-preferences.md) [+M]
 - [Students held misconceptions about how MMLA data was collected and processed, and most relied on guesswork when explaining the analysis pipeline](../claims/mmla-transparency-misconceptions-guesswork.md) [+M]
 - [Most students preferred opt-out over opt-in consent for low-risk MMLA research, but many did not fully read the explanatory statement](../claims/opt-out-consent-preferred-mmla.md) [+M]
-- [K–8 MMLA studies rarely report data fusion techniques, ethics, and transparency despite collecting multimodal data](../claims/mmla-k8-fusion-ethics-underreported.md) [+W]
 
 ## Related Research Methods
 -
@@ -70,7 +69,6 @@ The article organizes the evaluation of multimodal learning analytics around fou
 - [Mmla Tiered Data Access Preferences](../claims/mmla-tiered-data-access-preferences.md) [+M]
 - [Mmla Transparency Misconceptions Guesswork](../claims/mmla-transparency-misconceptions-guesswork.md) [+M]
 - [Opt Out Consent Preferred Mmla](../claims/opt-out-consent-preferred-mmla.md) [+M]
-- [K–8 MMLA studies rarely report data fusion techniques, ethics, and transparency despite collecting multimodal data](../claims/mmla-k8-fusion-ethics-underreported.md) [+W]
 
 ## Related Theories
 

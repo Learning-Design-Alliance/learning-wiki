@@ -60,6 +60,6 @@ Descriptive survey results on adequacy of privacy measures (Figure 7). The repor
 ## Related Claims
 - [K-12 and higher education educators express generally positive feelings about research on digital learning platforms, with no negative respondents](educators-positive-feelings-dlp-research.md) — related
 - [Higher education educators report greater awareness of research on digital learning platforms than K-12 educators](higher-ed-greater-dlp-research-awareness.md) — related
-- [K-12 educators report little direct involvement in DLP research while higher education participants are evenly split, and report higher-oversight roles](k12-lower-dlp-research-participation.md) — related
+- K-12 educators report little direct involvement in DLP research while higher education participants are evenly split, and report higher-oversight roles — related
 - [Working a research scenario against a DLP surfaced concrete platform needs: adding measures, linking observational data, and enabling districtwide studies](scenario-terracotta-platform-capability-lessons.md) — related
 - [SEERNet platforms trade off open science against availability of individual student data, with eTrials and ASU L@S at opposite extremes](seernet-platform-open-science-data-tradeoff.md) — related

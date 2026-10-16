@@ -43,5 +43,5 @@ Bivariate comparison grouping estimates from Brazil, Colombia, Mexico and South 
 
 
 ## Related Claims
-- [The evidence base on COVID-19 learning is geographically skewed toward high-income countries and about half of studies carry serious or critical risk of bias, with no evidence of publication bias](covid-learning-evidence-quality-and-reach.md) — related
+- The evidence base on COVID-19 learning is geographically skewed toward high-income countries and about half of studies carry serious or critical risk of bias, with no evidence of publication bias — related
 - [School-aged children experienced a substantial overall learning deficit during the COVID-19 pandemic (pooled d = −0.14), equivalent to about 35% of a school year's learning](covid-pandemic-pooled-learning-deficit.md) — a broader claim this one bears on

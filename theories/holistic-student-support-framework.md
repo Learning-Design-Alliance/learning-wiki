@@ -16,7 +16,7 @@ sources:
 # Holistic student support as the organizing framework for effective advising
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The guide's overarching framework holds that advising is most effective when integrated within holistic student support. Holistic student support "provides all students with the types and intensities of information, services, and resources they need to identify, select, and progress on the best pathway" to their educational and career goals, meets students developmentally, addresses individual needs, and leverages strengths. In this model, advisors play a central role in connecting students to a wide range of academic and non-academic supports, contrasting with a typical approach where disconnected supports leave students to navigate on their own.
@@ -38,7 +38,6 @@ The guide's overarching framework holds that advising is most effective when int
 ### Claims
 
 - [Comprehensive Integrated Advising Improves Persistence And Degree Attainment](../claims/comprehensive-integrated-advising-improves-persistence-and-degree-attainment.md) [+M]
-- [The guide's recommendations rest on 21 studies meeting WWC standards, with participant samples ranging from 51 to 15,898 students](../claims/wwc-advising-evidence-base-21-studies.md) [+W]
 
 ## Related Theories
 - 

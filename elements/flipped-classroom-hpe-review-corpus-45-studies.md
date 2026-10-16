@@ -17,7 +17,7 @@ sources:
 # Evidence corpus of 45 flipped-classroom studies in undergraduate health professional education (8426 students)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The review assembles a corpus of 45 studies involving 8426 undergraduate students in medicine, pharmacy, nursing and other health professional courses, comparing flipped classes with traditional classes. Most studies used "conventional/traditional lecture‐based class/large classroom‐based lecture as a comparator" (44 of 45). Studies spanned 2013 to 2021; 16 were conducted in the USA, and only three came from lower-middle-income countries including India.
@@ -39,7 +39,6 @@ The review assembles a corpus of 45 studies involving 8426 undergraduate student
 
 ## Claims
 
-- [Only a minority of flipped-classroom studies in health professional education are RCTs, and risk of bias in non-randomised studies is high](../claims/flipped-classroom-evidence-base-rct-shortage-high-bias.md) [~W]
 - [In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)](../claims/flipped-classroom-improves-academic-performance-hpe.md) [+W]
 - [The academic performance advantage of flipped classrooms persists when studies with imputed data are excluded (SMD = 0.54), at low certainty](../claims/flipped-classroom-performance-sensitivity-imputed-data.md) [+W]
 - [Undergraduate health professional students report more positive satisfaction with flipped class learning than with traditional class learning (SMD = 0.48), at low certainty](../claims/flipped-classroom-student-satisfaction-positive.md) [+W]

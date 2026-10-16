@@ -12,7 +12,7 @@ generated:
 # Zawacki-Richter et al.'s four-area AIEd typology
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 This typology classifies AI-in-education research into four broad areas: Profiling and prediction, Intelligent Tutoring Systems, Assessment and Evaluation, and Adaptive Systems and Personalisation. The tertiary review adopted it as the starting coding frame, stating it coded the corpus "using Zawacki-Richter et al. 's (2019) typology ... as a starting point", with reviews not specifying a focus coded as General AIEd. Each area is substantively described in the article, e.g. Profiling and Prediction covers dropout prediction and student models, while Adaptive Systems and Personalisation covers tailored content delivery and personalised learning pathways.
@@ -22,7 +22,6 @@ This typology classifies AI-in-education research into four broad areas: Profili
 - **Zawacki-Richter et al.'s (2019) four-area AIEd typology used as the review's organising classification**: This typology classifies AI-in-education research into four broad areas: Profiling and prediction, Intelligent Tutoring Systems, Assessment and Evaluation, and Adaptive Systems and Personalisation. The tertiary review adopted it as the starting coding frame, stating it coded the corpus "using Zawacki-Richter et al. 's (2019) typology ... as a starting point", with reviews not specifying a focus coded as General AIEd. Each area is substantively described in the article, e.g. Profiling and Prediction covers dropout prediction and student models, while Adaptive Systems and Personalisation covers tailored content delivery and personalised learning pathways. (Bond et al. (2024))
 
 ### Claims
-- [AIHEd reviews focus mostly on General AIEd (47.0%) and Profiling and Prediction (28.8%), while key findings predominantly concern adaptive systems and personalisation (54.5%)](../claims/aihed-thematic-focus-adaptive-personalisation-predominance.md) [+M]
 
 ## Related Research Methods
 -

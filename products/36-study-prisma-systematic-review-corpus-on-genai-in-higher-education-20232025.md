@@ -13,7 +13,7 @@ generated:
 # 36-study PRISMA systematic review corpus on GenAI in higher education (2023–2025)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A corpus of 36 peer-reviewed studies on generative-AI integration in higher education, assembled by Alvedi Sabani et al. through PRISMA-guided screening and MMAT-based quality appraisal.
@@ -23,7 +23,6 @@ A corpus of 36 peer-reviewed studies on generative-AI integration in higher educ
 
 ### Claims
 - [Capabilities and skills are explicitly addressed in only 3 of 36 reviewed GenAI studies, marking a gap in AI-literacy and educator-capability research](../claims/capabilities-skills-addressed-in-only-3-of-36-genai-studies.md) [+M]
-- [Thematic focus in GenAI education literature intensified from 2023 to 2025, with 2025 showing the heaviest flows and Context of Use dominating](../claims/genai-literature-thematic-intensification-2023-2025.md) [+M]
 
 ## Related Products and Programmes
 

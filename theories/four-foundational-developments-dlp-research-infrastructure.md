@@ -15,7 +15,7 @@ sources:
 # Four foundational developments framework for DLPs-as-research-infrastructure
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article organizes the history of DLP-based research infrastructure into four building blocks: "data repositories, data collection services, research design interfaces, and research communities." Each advance carries its own constraint — repositories limit researchers to questions the available data can address; collection services must operate unobtrusively; RDIs constrain the types of contrasts and study scope; communities require researchers to develop deep knowledge to use a DLP well. SEERNet is framed as the first effort to fund many independent DLPs to engineer tools addressing all four problems together.
@@ -38,7 +38,6 @@ The article organizes the history of DLP-based research infrastructure into four
 
 ### Claims
 
-- [The DLP-as-research-infrastructure community is small and fragmented: the DLP-focused cluster was one of five bibliographic-coupling communities and only 20.6% of filtered papers](../claims/dlp-subfield-small-and-fragmented.md) [+W]
 
 ## Related Theories
 

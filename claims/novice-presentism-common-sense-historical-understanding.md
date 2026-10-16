@@ -43,4 +43,4 @@ Narrative review of research on novice historical understanding (citing National
 
 
 ## Related Claims
-- [Collingwood argues historical knowledge differs from natural-science knowledge because historical events have both an observable 'outside' and an unobservable 'inside' of thought](collingwood-outside-inside-historical-events.md) — related
+- Collingwood argues historical knowledge differs from natural-science knowledge because historical events have both an observable 'outside' and an unobservable 'inside' of thought — related

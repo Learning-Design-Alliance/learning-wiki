@@ -16,7 +16,7 @@ sources:
 # Options framework for addressing co-teaching in value-added models
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article organizes the policy problem of co-teaching in value-added models as a set of options available to policymakers, building on earlier work that described the Full Roster Method. It frames co-teachers as teams, "with each teacher receiving equal credit for co-taught students," and positions the Full Roster-Plus Method as an improvement that removes the extra weighting of co-taught students while keeping their full weight with each teacher. The framework serves as a guide for policymakers and developers of value-added models choosing how to account for co-teaching.
@@ -37,7 +37,6 @@ The article organizes the policy problem of co-teaching in value-added models as
 
 ### Claims
 - [Frm Counts Cotaught Students More Than Once](../claims/frm-counts-cotaught-students-more-than-once.md) [+M]
-- [Frp Equal Contribution Cotaught Students](../claims/frp-equal-contribution-cotaught-students.md) [+M]
 - [Frp Vs Frm Very Small Empirical Differences](../claims/frp-vs-frm-very-small-empirical-differences.md) [+M]
 
 ## Related Theories

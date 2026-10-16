@@ -12,7 +12,7 @@ generated:
 # L2 Motivational Self System
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 4 studies (3 associational, 1 qualitative), `q2` · 1 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 4 studies (3 associational, 1 qualitative), `q2` · 1 of 4 report an effect size · 4 claims rest on one study
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this
 theory: eric-ej1165192, eric-ej1288838, eric-ej1508788. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -43,7 +43,6 @@ The articles disagree about how well the system works. Roshandel et al. (2018) s
 
 - [Learners of Italian report ideal-self motivation rather than instrumental motivation, while their teachers assume the reverse.](../claims/italian-l2-motivation-is-ideal-self-not-instrumental.md) [+M]
 - [In the L2MSS, the L2 learning experience predicts intended effort most strongly, while the ideal L2 self is weaker than the theory argues](../claims/l2-learning-experience-beats-ideal-l2-self.md) [~M]
-- [SDT and L2MSS constructs correlate as predicted, with the ought-to L2 self/own most closely tied to introjected regulation](../claims/sdt-l2mss-construct-correlations.md) [+M]
 - [Intended learning effort predicts L2 proficiency with a modest standardized coefficient of .20 in all three models](../claims/effort-predicts-proficiency-modestly.md) [+M]
 - [Ideal L2 self positively and significantly predicts student self-efficacy, generalizing prior qualitative findings quantitatively](../claims/ideal-l2-self-predicts-self-efficacy.md) [+M]
 - [All ten sub-factors of the L2 motivational self-system correlate significantly and positively with L2 self-efficacy](../claims/ten-motivation-subfactors-correlate-self-efficacy.md) [+M]

@@ -17,7 +17,7 @@ sources:
 # Rapid-cycle evaluation
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Rapid-cycle evaluation is presented as an approach organizations can use when decision-makers 'often lack timely and reliable evidence of whether such changes produce the expected results.' The page frames it as a 'decision support tool for continuous program and quality improvement,' applied to 'small changes to operations or service delivery' in public programs, including education and human services contexts.
@@ -27,7 +27,6 @@ Rapid-cycle evaluation is presented as an approach organizations can use when de
 - **Rapid-cycle evaluation as a decision support tool for continuous program and quality improvement**: Rapid-cycle evaluation is presented as an approach organizations can use when decision-makers 'often lack timely and reliable evidence of whether such changes produce the expected results.' The page frames it as a 'decision support tool for continuous program and quality improvement,' applied to 'small changes to operations or service delivery' in public programs, including education and human services contexts. (Mathematica Policy Research (2016))
 
 ### Claims
-- [Rapid-cycle evaluation determines with high confidence whether and for whom a program change causes intended improvements or unintended consequences](../claims/rapid-cycle-evaluation-determines-whether-and-for-whom-changes-work.md) [~W]
 
 ## Related Research Methods
 -
@@ -61,7 +60,6 @@ Rapid-cycle evaluation is presented as an approach organizations can use when de
 
 ## Claims
 
-- [Rapid-cycle evaluation determines with high confidence whether and for whom a program change causes intended improvements or unintended consequences](../claims/rapid-cycle-evaluation-determines-whether-and-for-whom-changes-work.md) [~W]
 
 ## Related Elements
 - 

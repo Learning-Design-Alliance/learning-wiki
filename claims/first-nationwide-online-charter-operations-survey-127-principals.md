@@ -43,7 +43,7 @@ The brief describes its own evidence base: a nationwide survey "completed by 127
 
 
 ## Related Claims
-- [Few studies of online instruction's operations and effects existed before the National Study of Online Charter Schools](few-prior-studies-online-instruction-operations-effects.md) — a broader claim this one bears on
+- Few studies of online instruction's operations and effects existed before the National Study of Online Charter Schools — a broader claim this one bears on
 - [Student-driven, independent study is the dominant mode of learning in online charter schools, with 33 percent offering only self-paced instruction](online-charters-dominant-independent-study-mode.md) — a narrower finding that bears on this claim
 - [Maintaining student engagement is the greatest challenge reported by online charter school principals, identified nearly three times as often as any other challenge](online-charters-engagement-greatest-challenge.md) — a narrower finding that bears on this claim
 - [About 200 online charter schools operate in the United States, serving about 200,000 students across elementary, middle, and high school grades](online-charter-schools-200-schools-200000-students.md) — a narrower finding that bears on this claim

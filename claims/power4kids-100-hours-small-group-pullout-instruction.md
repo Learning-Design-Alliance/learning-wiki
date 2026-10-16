@@ -43,6 +43,6 @@ Descriptive statement from the report overview about how the four interventions 
 
 
 ## Related Claims
-- [The Power4Kids evaluation used two-level random assignment: 50 schools to four interventions and struggling readers within schools to treatment or control](power4kids-two-level-random-assignment-design.md) — related
+- The Power4Kids evaluation used two-level random assignment: 50 schools to four interventions and struggling readers within schools to treatment or control — related
 - [The Power4Kids evaluation covered four widely used reading programs for elementary students with reading problems: Corrective Reading, Failure Free Reading, Spell Read P.A.T., and Wilson Reading](power4kids-four-reading-interventions-compared.md) — related
 - [The Power4Kids first-year report presents impacts on reading achievement at the end of the intervention year, with nearly 800 children in the study](power4kids-first-year-reading-achievement-impacts.md) — related

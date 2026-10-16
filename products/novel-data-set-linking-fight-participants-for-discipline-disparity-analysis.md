@@ -18,7 +18,7 @@ sources:
 # Novel data set linking fight participants for discipline disparity analysis
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A research dataset constructed by Nathan Barrett et al. that links students involved in the same fights with their disciplinary outcomes to analyze within-pair disparities.
@@ -28,7 +28,6 @@ A research dataset constructed by Nathan Barrett et al. that links students invo
 
 ### Claims
 - [Within fight pairs, Black and poor students are punished more harshly than the opponents they fight](../claims/fight-pairs-black-poor-punished-more-harshly.md) [+M]
-- [Prior studies of discipline disparities were limited by a selection challenge that prevented identifying discrimination](../claims/selection-challenge-limited-prior-discipline-studies.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -66,7 +65,6 @@ The study relies on what the authors call "a novel data set" used "to examine ho
 ## Claims
 
 - [Within fight pairs, Black and poor students are punished more harshly than the opponents they fight](../claims/fight-pairs-black-poor-punished-more-harshly.md) [+M]
-- [Prior studies of discipline disparities were limited by a selection challenge that prevented identifying discrimination](../claims/selection-challenge-limited-prior-discipline-studies.md) [+W]
 
 ## Related Elements
 - 

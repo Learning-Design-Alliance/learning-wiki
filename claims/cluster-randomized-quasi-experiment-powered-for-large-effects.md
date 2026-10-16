@@ -63,9 +63,9 @@ Sensitivity analysis reported in §4.2 using G*Power 3.1 (two-tailed independent
 
 ## Related Claims
 - [Clustering effects in education random-assignment trials vary by design but are typically large, requiring large school samples](clustering-effects-large-school-samples-education-trials.md) — a broader claim this one bears on
-- [Large school samples are required to achieve appropriate precision standards in clustered education experiments](large-school-samples-required-precision-standards.md) — a broader claim this one bears on
-- [Many education evaluations have sufficient power to detect precise impacts only for relatively large subgroups of sites](power-limited-to-large-site-subgroups.md) — related
-- [Most education impact studies can rigorously address only broad questions due to power constraints](most-impact-studies-address-broad-questions-only.md) — related
-- [Required numbers of schools differ across school, classroom, and student random-assignment designs](required-schools-vary-by-assignment-level.md) — related
-- [The qualifying InsideTrack© study was an RCT across 17 lotteries in eight universities, with only seven 50/50 lotteries meeting WWC standards](bettinger-baker-2014-rct-lottery-design.md) — related
-- [Sample size formulas for clustered designs with school- or teacher-level random assignment are derived using generalized estimating equation methods](gee-sample-size-formulas-clustered-school-rcts.md) — related
+- Large school samples are required to achieve appropriate precision standards in clustered education experiments — a broader claim this one bears on
+- Many education evaluations have sufficient power to detect precise impacts only for relatively large subgroups of sites — related
+- Most education impact studies can rigorously address only broad questions due to power constraints — related
+- Required numbers of schools differ across school, classroom, and student random-assignment designs — related
+- The qualifying InsideTrack© study was an RCT across 17 lotteries in eight universities, with only seven 50/50 lotteries meeting WWC standards — related
+- Sample size formulas for clustered designs with school- or teacher-level random assignment are derived using generalized estimating equation methods — related

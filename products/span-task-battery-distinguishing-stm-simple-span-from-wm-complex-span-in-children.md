@@ -13,7 +13,7 @@ generated:
 # Span-task battery distinguishing STM (simple span) from WM (complex span) in children
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A child memory assessment battery developed and administered by Robert Kail and colleagues, combining simple- and complex-span tasks with reading and processing-speed measures for children aged 7 to 13.
@@ -22,7 +22,6 @@ A child memory assessment battery developed and administered by Robert Kail and 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Simple span and complex span tasks define two distinct but correlated memory factors in 7- to 13-year-olds](../claims/stm-wm-two-factor-structure-children.md) [+M]
 
 ## Related Products and Programmes
 -

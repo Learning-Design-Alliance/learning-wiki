@@ -17,7 +17,7 @@ sources:
 # Statistical analysis of partially nested randomized controlled trials
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Because PN-RCT treatment students are nested in intervention clusters while control students are not, analysis must use "basic statistical models that adjust for the clustering of treatment students within intervention clusters". The guide supports this principle with "associated computer code for estimation" and worked examples interpreting model output.
@@ -30,9 +30,6 @@ Because PN-RCT treatment students are nested in intervention clusters while cont
 - **Partially Nested RCTs: a design taxonomy distinguishing I-RCTs, C-RCTs, and PN-RCTs**: The guide defines three education experiment designs. In an I-RCT, "individual students are randomized directly to the treatment or control group"; in a C-RCT, "clusters of students (e.g., classrooms) are randomized". The PN-RCT is the hybrid: treatment students are nested in higher-level units while control students remain unclustered, making the design "partially nested". (Sharon Lohr et al. (2014))
 
 ### Claims
-- [PN-RCTs arise when treatment students are clustered but control students receive the protocol individually](../claims/pn-rct-arises-from-clustered-treatment-individual-control.md) [+W]
-- [PN-RCT design choices include random assignment possibilities, cluster formation, statistical power, and confounding factors](../claims/pn-rct-design-issues-random-assignment-power-confounding.md) [+W]
-- [Sample size formulas for clustered designs with school- or teacher-level random assignment are derived using generalized estimating equation methods](../claims/gee-sample-size-formulas-clustered-school-rcts.md) [+W]
 
 ## Related Research Methods
 -
@@ -101,9 +98,6 @@ The guide defines three education experiment designs. In an I-RCT, "individual s
 
 ### Claims
 
-- [PN-RCTs arise when treatment students are clustered but control students receive the protocol individually](../claims/pn-rct-arises-from-clustered-treatment-individual-control.md) [+W]
-- [PN-RCT design choices include random assignment possibilities, cluster formation, statistical power, and confounding factors](../claims/pn-rct-design-issues-random-assignment-power-confounding.md) [+W]
-- [Sample size formulas for clustered designs with school- or teacher-level random assignment are derived using generalized estimating equation methods](../claims/gee-sample-size-formulas-clustered-school-rcts.md) [+W]
 
 ## Related Theories
 

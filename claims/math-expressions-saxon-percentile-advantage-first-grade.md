@@ -43,7 +43,7 @@ Experimental evaluation of four elementary math curricula reporting a curricula 
 
 
 ## Related Claims
-- [Four elementary math curricula were evaluated using an experimental design](experimental-evaluation-four-elementary-math-curricula.md) — a broader claim this one bears on
+- Four elementary math curricula were evaluated using an experimental design — a broader claim this one bears on
 - [First-grade math achievement is significantly higher under Math Expressions and Saxon Math than under Investigations in Number, Data, and Space and Scott Foresman-Addison Wesley Mathematics](math-expressions-saxon-outperform-investigations-sfaw-first-grade.md) — related
 - [The better-performing early math curricula raised achievement for several student subgroups, including students in low-scoring and high-poverty schools](math-curricula-benefits-extend-to-low-performing-high-poverty-schools.md) — a broader claim this one bears on
 - [The study is the largest experimental-design study of multiple math curricula, covering 110 schools with this report based on the first cohort of 39 schools](largest-experimental-study-of-math-curricula-110-schools.md) — a broader claim this one bears on

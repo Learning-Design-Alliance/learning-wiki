@@ -43,5 +43,5 @@ The same HLMs re-run on filtered scores reversed the gap: "Black students showed
 
 
 ## Related Claims
-- [Filtered students had much lower effort-moderated achievement, suggesting motivation filtering may bias mean estimates](filtering-removes-low-achievers-bias-risk.md) — related
+- Filtered students had much lower effort-moderated achievement, suggesting motivation filtering may bias mean estimates — related
 - [Rapid guessing had mostly minimal effects on estimates of school contributions to student growth in this sample](rapid-guessing-minimal-school-growth-estimates.md) — related

@@ -16,7 +16,7 @@ sources:
 # Collaborative grounded theory as an approach to qualitative data analysis and theory generation in developmental evaluation of education policy
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article presents collaborative grounded theory as a methodological approach in which qualitative data analysis and theory generation are carried out jointly by multiple researchers. It applies "a collaborative grounded theory approach to qualitative data analysis and theory generation" within the developmental evaluation of education policy, using "two researchers as independent instruments for interpretation". The approach is positioned as suited to evaluating complex programs or policies where deeper understanding of both positive and negative impacts is sought.
@@ -37,8 +37,6 @@ The article presents collaborative grounded theory as a methodological approach 
 - deeper understanding of the impact, both positive and negative, of an education program or policy
 
 ### Claims
-- [Dual Researcher Positional Reflexivity Strength Theory Generation](../claims/dual-researcher-positional-reflexivity-strength-theory-generation.md) [+W]
-- [Thirteen Education Leaders Interviews Two States Teacher Evaluation](../claims/thirteen-education-leaders-interviews-two-states-teacher-evaluation.md) [+W]
 
 ## Related Theories
 - 

@@ -17,7 +17,7 @@ sources:
 # Four remedial reading interventions for striving readers: Corrective Reading, Failure Free Reading, Spell Read P.A.T., and Wilson Reading
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The evaluation employed parts or all of four existing, widely used remedial reading programs delivered to struggling third and fifth graders in groups of three for about 90 hours over the school year. Failure Free Reading "uses a combination of computer-based lessons, workbook exercises, and teacher-led instruction to teach sight vocabulary, fluency, and comprehension," while Corrective Reading uses scripted lessons, Spell Read P.A.T. provides systematic fluency-oriented phonemic instruction, and Wilson Reading uses multi-sensory Orton-Gillingham-based teaching. Corrective Reading and Wilson were modified to focus on word-level skills.
@@ -40,7 +40,6 @@ The evaluation employed parts or all of four existing, widely used remedial read
 ## Claims
 
 - [The Power4Kids evaluation covered four widely used reading programs for elementary students with reading problems: Corrective Reading, Failure Free Reading, Spell Read P.A.T., and Wilson Reading](../claims/power4kids-four-reading-interventions-compared.md) [+W]
-- [The Power4Kids evaluation used two-level random assignment: 50 schools to four interventions and struggling readers within schools to treatment or control](../claims/power4kids-two-level-random-assignment-design.md) [+W]
 - [The four Power4Kids interventions delivered about 100 hours of pull-out instruction in small groups of three students over one school year](../claims/power4kids-100-hours-small-group-pullout-instruction.md) [+W]
 - [The Power4Kids first-year report presents impacts on reading achievement at the end of the intervention year, with nearly 800 children in the study](../claims/power4kids-first-year-reading-achievement-impacts.md) [+W]
 

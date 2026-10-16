@@ -17,7 +17,7 @@ sources:
 # Systematic reviews as intentional learning experiences scaffolded by mentoring that combines methodological guidance with emotional scaffolding
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article frames systematic reviews "as intentional learning experiences that unfold across stages of the review and require mentoring and technological support." Mentoring is described as "an integrated support system that combined methodological guidance with emotional scaffolding" rather than solely procedural knowledge transmission. Mentoring was embedded across stages: guiding search refinement, joint discussion of borderline screening decisions, and collaborative coding, reducing the cognitive and emotional burden of evaluative judgments and supporting both technical competence and confidence.
@@ -39,7 +39,6 @@ The article frames systematic reviews "as intentional learning experiences that 
 - confidence in handling ambiguity and evaluative judgment
 
 ### Claims
-- [Hands On Engagement Mentoring Peer Discussion Central](../claims/hands-on-engagement-mentoring-peer-discussion-central.md) [+W]
 
 ## Related Designs
 - 

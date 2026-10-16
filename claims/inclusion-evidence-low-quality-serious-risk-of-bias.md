@@ -44,8 +44,8 @@ Risk of bias assessment using ROBINS-I across the 15 studies in the synthesis; t
 
 ## Related Claims
 - Most non-STAR studies could not be used in the synthesis because of high risk of bias, chiefly confounding — related
-- [Comprehensive searches identified only seven eligible studies, and quantitative synthesis was blocked by critical risk of bias and unreportable effect sizes](seven-studies-only-special-education-class-size-review.md) — related
-- [Methodological quality varied by design: randomised studies showed lower risk of bias than quasi-experimental studies](risk-of-bias-varies-by-study-design.md) — related
+- Comprehensive searches identified only seven eligible studies, and quantitative synthesis was blocked by critical risk of bias and unreportable effect sizes — related
+- Methodological quality varied by design: randomised studies showed lower risk of bias than quasi-experimental studies — related
 - [Inclusion in general is very unlikely to increase or decrease learning and psychosocial adjustment of children with special needs](inclusion-general-no-increase-or-decrease-learning-psychosocial.md) — related
 - [The SBLE evidence base contains no randomized experiments and carries high risk of bias](sble-evidence-base-no-randomized-studies-high-risk-bias.md) — related
-- [The evidence base on COVID-19 learning is geographically skewed toward high-income countries and about half of studies carry serious or critical risk of bias, with no evidence of publication bias](covid-learning-evidence-quality-and-reach.md) — related
+- The evidence base on COVID-19 learning is geographically skewed toward high-income countries and about half of studies carry serious or critical risk of bias, with no evidence of publication bias — related

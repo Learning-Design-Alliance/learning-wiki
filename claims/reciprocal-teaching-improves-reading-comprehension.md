@@ -76,3 +76,4 @@ Open questions include how much teacher modeling is optimal before handover, how
 - [Self-questioning improves comprehension](self-questioning-improves-comprehension.md) — related
 - [The review reports reciprocal teaching of reading, an approach exemplifying cognitive apprenticeship, was remarkably effective in raising reading comprehension scores, especially for poor readers](reciprocal-teaching-raises-reading-comprehension-poor-readers.md) — possibly the same claim (merge candidate)
 - The overall mean impact of Reading Apprenticeship across four variations is +0.11 — related
+- [Comprehension instruction in resource rooms consisted mostly of teacher question-and-answer monitoring rather than explicit comprehension-strategy instruction](comprehension-monitoring-dominates-strategy-instruction-scarce.md) — related

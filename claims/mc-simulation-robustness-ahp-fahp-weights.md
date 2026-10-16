@@ -62,7 +62,7 @@ Deterministic sensitivity analysis under ±10% to ±30% weight variation (Table 
 
 
 ## Related Claims
-- [Expert rating consistency passed all AHP thresholds, with the main dimension matrix CR = 0.0307](ahp-consistency-testing-pass-all-matrices.md) — related
+- Expert rating consistency passed all AHP thresholds, with the main dimension matrix CR = 0.0307 — related
 - [Student AI competency achievement and curriculum-AI frontier alignment dominate the indicator-level priority ranking](ai-competency-achievement-top-indicator.md) — related
 - [Faculty Professional Competence shows the largest gap between perceived importance and current satisfaction among the five dimensions](faculty-competence-largest-importance-performance-gap.md) — related
 - [Experts rank Curriculum System and Content Design as the highest-priority dimension for AI certificate program evaluation, with Cross-Cultural Adaptability lowest](expert-priority-hierarchy-ai-certificate-dimensions.md) — related

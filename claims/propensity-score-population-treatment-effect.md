@@ -62,7 +62,7 @@ Analysis of propensity score logit distributions (Figure 3) shows the remaining 
 
 
 ## Related Claims
-- [Propensity score stratification using multilevel models reduces selection bias from confounding variables and improves accuracy of charter school effect estimations](propensity-stratification-multilevel-reduces-selection-bias.md) — related
-- [Using baseline data strongly predictive of outcome measures considerably reduces bias in nonexperimental estimates of charter school achievement effects](predictive-baseline-data-reduce-nonexperimental-bias.md) — related
+- Propensity score stratification using multilevel models reduces selection bias from confounding variables and improves accuracy of charter school effect estimations — related
+- Using baseline data strongly predictive of outcome measures considerably reduces bias in nonexperimental estimates of charter school achievement effects — related
 - [SimCalc treatment effects were not sensitive to school socioeconomic status or percentage of Hispanic students, and 91% of 7th-grade treatment classrooms exceeded the control-group mean gain](simcalc-effects-insensitive-demographics.md) — related
 - [An adapted SimCalc intervention in Florida produced strong learning gains (ES = 1.09), significantly higher posttests than predicted from the Texas control group](simcalc-florida-extension-gains.md) — related

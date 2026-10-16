@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 28 claims (8 for, 18 mixed, 2 against) · 25 studies (8 causal, 5 theoretical, 4 quant-synthesis, 4 review, 3 qualitative, 1 design), `q1`–`q4` · 4 of 25 report an effect size · 23 claims rest on one study
+> **Evidence** · 27 claims (8 for, 17 mixed, 2 against) · 25 studies (8 causal, 5 theoretical, 4 quant-synthesis, 4 review, 3 qualitative, 1 design), `q1`–`q4` · 4 of 25 report an effect size · 22 claims rest on one study
 
 ## Description and scope
 
@@ -67,7 +67,7 @@ A request for "more engaging, real-world learning" does not specify these inputs
 
 ## Choosing configurations from evidence
 
-- **Whether to expect anything from the PBL label.** [The overall effect in a 353-outcome re-analysis is modest (g = 0.27)](../claims/pbl-overall-effect-modest-large-heterogeneity.md) [~M], [ranges from g = −1.26 to 1.91](../claims/massive-range-pbl-outcome-effect-sizes.md) [~M] and [may be inflated by publication bias (g = 0.103 after trim-and-fill)](../claims/publication-bias-pbl-tutor-meta-analysis.md) [~M]. Plan and evaluate the specific configuration; do not promise a gain from the format.
+- **Whether to expect anything from the PBL label.** [The overall effect in a 353-outcome re-analysis is modest (g = 0.27)](../claims/pbl-overall-effect-modest-large-heterogeneity.md) [~M], [ranges from g = −1.26 to 1.91](../claims/massive-range-pbl-outcome-effect-sizes.md) [~M] and may be inflated by publication bias (g = 0.103 after trim-and-fill) [~M]. Plan and evaluate the specific configuration; do not promise a gain from the format.
 - **Who facilitates.** [Tutor background did not predict learning](../claims/tutor-background-meta-regression-not-predictive.md) [~M] in the same data. Prepare facilitators in the guidance and consolidation moves below rather than relying on content expertise or its absence; whether facilitation training itself changes outcomes is not recorded in the wiki.
 - **Amount of guidance.** For novices, [unassisted discovery underperforms explicit instruction, while enhanced discovery outperforms other instruction](../claims/minimal-guidance-less-effective-for-novices.md) [-S]. This rules out a configuration in which essential content is left for novices to find unsupported; it does not rule out guided problem work. The meta-analysis is not broken down by prior knowledge on the claim page.
 - **Order of problem and instruction.** For conceptual and transfer outcomes, [a problem-first phase followed by instruction](../claims/productive-failure-improves-conceptual-learning.md) [~S] has meta-analytic support over the same instruction taught first, with no procedural difference and a reversal for second to fifth graders and for domain-general skills. Choose it only with a consolidation phase, for learners old enough, and judge it on conceptual and transfer measures. The claim page reports no delayed-horizon breakdown.

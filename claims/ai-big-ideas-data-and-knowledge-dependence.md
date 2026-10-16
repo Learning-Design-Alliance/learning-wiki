@@ -44,4 +44,4 @@ Expository claim from the Big Idea #3 section: machine learning is statistical i
 
 ## Related Claims
 - [Algorithmic bias and data privacy are central ethical risks of AI in adult education](algorithmic-bias-privacy-risks-adult-education.md) — related
-- [Prior studies finding nonexperimental estimators biased examined weaker evaluation designs than RCT-benchmark studies](prior-bias-studies-used-weaker-designs.md) — related
+- Prior studies finding nonexperimental estimators biased examined weaker evaluation designs than RCT-benchmark studies — related

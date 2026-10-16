@@ -21,7 +21,7 @@ sources:
 # Narrative inquiry
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Narrative inquiry is a qualitatively oriented research method in education, first named by Connelly and Clandinin in 1990 and grounded in Dewey's philosophy. The article states that per Connelly and Clandinin, "the study of narrative, ..., is the study of the ways humans experience the world" (p. 2). Experience is the stories people live, and stories are the closest form that can research experience; researchers describe, collect, and retell stories of experience so that stories, lived and told, relived and retold, educate the self and others. All stakeholders—researchers, teachers, students, parents, administrators—are storytellers, and the method values individuality, originality, and owne
@@ -32,8 +32,6 @@ Narrative inquiry is a qualitatively oriented research method in education, firs
 - **Narrative inquiry as a method for critical educational research**: The paper adopts narrative inquiry, in Connelly and Clandinin's formulation, as its methodological framework: "humans are storytelling organisms who, individually and socially, lead storied lives". Education and educational research are thereby seen as the construction and reconstruction of personal and social stories, with teachers and learners as storytellers and characters. The authors use narrative inquiry to analyse and criticise the texts, myths and metaphors in which environmental education stories are embedded, drawing on poststructural criticism and premodern mythologies. (Gough et al. (1992))
 
 ### Claims
-- [Narrative inquiry uses research puzzles rather than research problems because it is a searching again rather than a problem with a clear solution](../claims/narrative-inquiry-puzzles-not-problems.md) [+W]
-- [The storied format of personal experience research can transcend the specialties of the immediate research field to influence a larger research community](../claims/storied-format-transcends-field-specialties.md) [+W]
 
 ## Related Research Methods
 -
@@ -70,8 +68,6 @@ Narrative inquiry is a qualitatively oriented research method in education, firs
 
 ### Claims
 
-- [Narrative inquiry uses research puzzles rather than research problems because it is a searching again rather than a problem with a clear solution](../claims/narrative-inquiry-puzzles-not-problems.md) [+W]
-- [The storied format of personal experience research can transcend the specialties of the immediate research field to influence a larger research community](../claims/storied-format-transcends-field-specialties.md) [+W]
 
 ## Related Theories
 

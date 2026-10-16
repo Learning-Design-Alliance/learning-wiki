@@ -43,4 +43,4 @@ Longitudinal measurement invariance testing (Appendix C, Table A5) following Wid
 
 
 ## Related Claims
-- [Prior longitudinal studies of math and self-efficacy tend to fit models assuming the constructs lack unique developmental trajectories and do not examine within-person relations](prior-studies-assume-no-unique-trajectories.md) — related
+- Prior longitudinal studies of math and self-efficacy tend to fit models assuming the constructs lack unique developmental trajectories and do not examine within-person relations — related

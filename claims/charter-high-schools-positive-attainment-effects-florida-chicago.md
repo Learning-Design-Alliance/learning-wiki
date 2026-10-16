@@ -46,7 +46,7 @@ Key finding of the issue brief, which reports a new analysis using data from Flo
 - [Charter high school effects on attainment hold in both Chicago and Florida after controlling for prior charter middle school enrollment](charter-high-school-effects-both-locations-with-controls.md) — possibly the same claim (merge candidate)
 - [Charter high schools in Florida and Chicago showed substantial positive effects on both high school completion and college attendance](charter-schools-positive-attainment-effects.md) — possibly the same claim (merge candidate)
 - [The study examines charter high school effects on educational attainment in two settings, Florida and Chicago](charter-attainment-study-florida-chicago-scope.md) — a broader claim this one bears on
-- [Charter school research has historically focused on test scores, with longer-term outcomes only recently examined](charter-research-shift-from-test-scores-to-long-term-outcomes.md) — related
+- Charter school research has historically focused on test scores, with longer-term outcomes only recently examined — related
 - [Students attending charter high schools are more likely to persist in college](charter-high-schools-more-likely-persist-college.md) — a narrower finding that bears on this claim
 - [Charter middle school students who attend a charter high school are 7 to 15 percentage points more likely to earn a standard diploma than those who transition to a traditional public high school](charter-high-school-diploma-attainment-gain.md) — a narrower finding that bears on this claim
 - [Students attending charter high schools are more likely to graduate from high school and enroll in college](charter-high-schools-more-likely-graduate-enroll-college.md) — a narrower finding that bears on this claim

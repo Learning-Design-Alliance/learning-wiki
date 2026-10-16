@@ -68,5 +68,6 @@ Reflection stage of the same narrative inquiry. Both designers "were not very sa
 - In one narrative inquiry, boundary crossing collaboration between a mathematics education researcher and an informal educator created a space for a new understanding of mathematics as normal human practice — related
 - Expanding the quilt task into an integrated STEM project was judged by its two designers to give students multiple entry points and to feel fun rather than too school-like — reports the opposite
 - [A dynamic geometry model of the quilt problem helped an informal educator understand its spatial relations](geometry-software-model-helped-informal-educator-understand-spatial-relations.md) — related
-- [Narrative inquiry uses research puzzles rather than research problems because it is a searching again rather than a problem with a clear solution](narrative-inquiry-puzzles-not-problems.md) — related
+- Narrative inquiry uses research puzzles rather than research problems because it is a searching again rather than a problem with a clear solution — related
 - [Students responded most positively to projects that felt authentic and were organized in a clear sequence with manageable milestones](student-engagement-authenticity-clear-sequence.md) — related
+- [Learning-stories research indicates meaningful learning involves felt ownership of knowledge, emotional integration, generativity, real-life context, interaction with others' learning, and transformed self-perceptions](learning-stories-meaningful-learning-dimensions.md) — related

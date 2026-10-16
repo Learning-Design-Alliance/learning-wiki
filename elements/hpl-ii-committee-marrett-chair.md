@@ -17,7 +17,7 @@ sources:
 # Ad hoc committee of sixteen members chaired by Cora B. Marrett
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The activity page lists the study committee with Cora B. Marrett as Chair and members including Patricia J. Bauer, Cynthia M. Beall, Margaret E. Beier, David B. Daniel, Robert L. Goldstone, Arthur C. Graesser, Mary Helen Immordino-Yang, Ruth Kanfer, Jeffrey Karpicke, Barbara M. Means, Douglas L. Medin, Linda Nathan, Annemarie S. Palincsar, Daniel Schwartz, and Zewelanji Serpell. Staff leads include Sujeeta Bhatt, Alexandra Beatty, Heidi Schweingruber, and Amy Stephens.
@@ -39,7 +39,6 @@ The activity page lists the study committee with Cora B. Marrett as Chair and me
 ## Claims
 
 - [The study gives explicit consideration to cultural differences and similarities in learning, including English learners and learners with learning disabilities](../claims/hpl-ii-cultural-differences-special-populations.md) [+W]
-- [The study calls for integrative research designs that combine knowledge from multiple fields, including network, multi-level, and simulation modeling](../claims/hpl-ii-integrative-multifield-designs.md) [+W]
 - [How People Learn II updates and extends the 2000 How People Learn report by synthesizing research on learning from birth through adulthood in formal and informal settings](../claims/hpl-ii-updates-extends-hpl-2000-lifespan.md) [+W]
 
 ## Related Elements

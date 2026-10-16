@@ -45,6 +45,6 @@ Correlational analysis of 2013/14 ratings against school student characteristics
 ## Related Claims
 - [Component measure ratings had low to moderate positive correlations with each other, suggesting the components measure distinct dimensions of principal performance](component-measures-distinct-dimensions-principal-performance.md) — related
 - [School median student growth percentiles correlate with student disadvantage](school-mgp-correlates-student-disadvantage.md) — a narrower finding that bears on this claim
-- [The study's correlational, cross-sectional design limits internal validity and causal interpretation](correlational-design-limits-epistemic-freedom-study.md) — related
+- The study's correlational, cross-sectional design limits internal validity and causal interpretation — related
 - [Principals evaluated on school median student growth percentiles were less likely to receive highly effective overall ratings than principals not evaluated on that measure](sgp-evaluation-lower-highly-effective-ratings.md) — related
 - [Composition effects on ratings point to evaluator bias rather than genuine changes in teacher effectiveness](evaluator-bias-not-effectiveness-drives-composition-effect.md) — related

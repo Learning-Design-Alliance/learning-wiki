@@ -18,7 +18,7 @@ sources:
 # American Board for Certification of Teacher Excellence (ABCTE) alternative teacher certification
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 3 studies (1 causal, 1 associational, 1 design), `q1`–`q2` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 against) · 3 studies (1 causal, 1 associational, 1 design), `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 A teacher-certification pathway, including the Passport to Teaching credential, developed and administered by the American Board for Certification of Teacher Excellence for alternative-route teacher candidates.
@@ -29,7 +29,6 @@ A teacher-certification pathway, including the Passport to Teaching credential, 
 ### Claims
 - [Students of ABCTE teachers scored lower than students of non-ABCTE teachers on the Florida state math test](../claims/abcte-florida-lower-math-scores.md) [-W]
 - [Students of ABCTE-certified teachers and non-ABCTE teachers show no difference in reading achievement gains in Florida](../claims/abcte-florida-no-reading-gain-difference.md) [+W]
-- [Propensity score matching was used to build a comparison group of Florida teachers for estimating ABCTE certification effects](../claims/abcte-florida-propensity-score-matching-design.md) [+W]
 - [A five-year evaluation is assessing the impact of the Passport to Teaching credential on teacher performance measured by student achievement](../claims/passport-to-teaching-evaluation-student-achievement.md) [+W]
 - [School administrators gave a generally positive assessment of American Board-certified teachers based on supervisor surveys](../claims/principals-positive-assessment-abcte-certified-teachers.md) [+W]
 
@@ -67,7 +66,6 @@ ABCTE is an alternative route to teacher certification whose effectiveness the s
 
 - [Students of ABCTE teachers scored lower than students of non-ABCTE teachers on the Florida state math test](../claims/abcte-florida-lower-math-scores.md) [-W]
 - [Students of ABCTE-certified teachers and non-ABCTE teachers show no difference in reading achievement gains in Florida](../claims/abcte-florida-no-reading-gain-difference.md) [+W]
-- [Propensity score matching was used to build a comparison group of Florida teachers for estimating ABCTE certification effects](../claims/abcte-florida-propensity-score-matching-design.md) [+W]
 - [A five-year evaluation is assessing the impact of the Passport to Teaching credential on teacher performance measured by student achievement](../claims/passport-to-teaching-evaluation-student-achievement.md) [+W]
 - [School administrators gave a generally positive assessment of American Board-certified teachers based on supervisor surveys](../claims/principals-positive-assessment-abcte-certified-teachers.md) [+W]
 

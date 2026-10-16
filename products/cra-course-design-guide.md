@@ -17,7 +17,7 @@ sources:
 # CRA Course Design Guide
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 design), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A modular Digital Promise resource produced by the CRA Collaborative to help instructors design or integrate a graduate-level introductory culturally responsive assessment course.
@@ -26,8 +26,6 @@ A modular Digital Promise resource produced by the CRA Collaborative to help ins
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [CRA was formally introduced by Stafford Hood in 1998 and saw limited mainstream development until rapid term proliferation after 2020](../claims/cra-history-hood-1998-proliferation.md) [+W]
-- [Rapid proliferation of culturally focused assessment terms after 2020 risks the jingle-jangle fallacy](../claims/cra-term-proliferation-jingle-jangle.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -61,8 +59,6 @@ This guide is a Digital Promise resource produced by the CRA Collaborative to su
 
 ## Claims
 
-- [CRA was formally introduced by Stafford Hood in 1998 and saw limited mainstream development until rapid term proliferation after 2020](../claims/cra-history-hood-1998-proliferation.md) [+W]
-- [Rapid proliferation of culturally focused assessment terms after 2020 risks the jingle-jangle fallacy](../claims/cra-term-proliferation-jingle-jangle.md) [+W]
 
 ## Related Elements
 - 

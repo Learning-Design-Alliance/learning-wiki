@@ -43,6 +43,6 @@ Learning-strategy coding of the 117 reviewed articles (Fig. 9). The review repor
 
 
 ## Related Claims
-- [Most VR/AR-supported K-12 STEM studies targeted elementary students and used quantitative methods, with most samples under 100 participants](elementary-focus-quantitative-methods-small-samples.md) — related
-- [Publications on VR/AR-supported K-12 STEM learning grew rapidly after 2017, with 2022 output four times the 2010 level](vr-ar-k12-stem-publication-growth-2017-2022.md) — related
-- [VR/AR-supported K-12 STEM research is unevenly distributed across subjects: science dominates, engineering has no studies](vr-ar-uneven-subject-distribution-science-dominant.md) — related
+- Most VR/AR-supported K-12 STEM studies targeted elementary students and used quantitative methods, with most samples under 100 participants — related
+- Publications on VR/AR-supported K-12 STEM learning grew rapidly after 2017, with 2022 output four times the 2010 level — related
+- VR/AR-supported K-12 STEM research is unevenly distributed across subjects: science dominates, engineering has no studies — related

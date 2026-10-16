@@ -16,7 +16,7 @@ sources:
 # Statistical significance as the criterion distinguishing a program effect from chance
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (7 for) · 6 studies (4 causal, 1 review, 1 theoretical), `q1`–`q3` · 1 of 6 report an effect size · 7 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 5 studies (4 causal, 1 review), `q2`–`q3` · 1 of 5 report an effect size · 6 claims rest on one study
 
 ## Description
 The brief's organizing account is that an observed difference between program and comparison groups counts as a program effect only when it is "not likely due to chance alone (that is, it is statistically significant)." This framework underlies the brief's guidance: a study finding no effect is one where the group difference did not meet this significance criterion, and interpreting such a result requires asking what could have caused it.
@@ -37,7 +37,6 @@ The brief's organizing account is that an observed difference between program an
 
 ### Claims
 
-- [Effect Defined As Statistically Significant Group Difference](../claims/effect-defined-as-statistically-significant-group-difference.md) [+W]
 - [Author-reported statistically significant program effects did not remain significant after WWC corrections for clustering and multiple comparisons](../claims/wwc-corrections-eliminate-author-reported-significance.md) [+W]
 - [Head Start shows no discernible effects on mathematics achievement for 4-year-old children](../claims/head-start-no-discernible-mathematics-effects.md) [+W]
 - [BCIRC has potentially positive effects on English language development (effect size 0.29, not statistically significant)](../claims/bcirc-potentially-positive-english-language-development.md) [+W]

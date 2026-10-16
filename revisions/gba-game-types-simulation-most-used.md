@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/gba-game-types-simulation-most-used.md
+---
+
+# Revision history: [claims/gba-game-types-simulation-most-used](../claims/gba-game-types-simulation-most-used.md)
+
+### 2026-10-16 · ingest · process:wiki-ingest
+Ingested from zot-su-2024-a-systematic-review-of-gamebased-assessment-in-education-in-th (A systematic review of game-based assessment in education in the past decade) via eval_harness.py + ingest_extractions.py

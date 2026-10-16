@@ -17,7 +17,7 @@ sources:
 # Linked school and human services data approach for predicting near-term academic risk
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 This element is the data-linkage approach developed by the partnership: school records are combined with "data on child welfare events, justice system involvement, and other human services involvement and public benefits receipt" to flag students likely to face academic problems in the near term. The snapshot presents it as the foundation for an early warning system serving both educators and human services staff in the Pittsburgh-area partner agencies.
@@ -40,7 +40,6 @@ This element is the data-linkage approach developed by the partnership: school r
 
 - [A partnership developed an approach for identifying at-risk students using school data linked with child welfare, justice, human services, and public benefits data.](../claims/linked-school-human-services-data-identify-near-term-academic-risk.md) [+W]
 - [A predictive model built from school and child welfare data identifies students at risk of near-term academic problems](../claims/school-child-welfare-data-predict-near-term-academic-risks.md) [+W]
-- [The study uses five years of linked school and child welfare administrative data to predict near-term academic risks, with the two most recent years serving as outcome years](../claims/five-year-linked-data-predict-near-term-academic-risks.md) [+W]
 - [A predictive model built on school and child welfare data was assessed for identifying at-risk students in two Allegheny County education agencies](../claims/risk-model-assessed-two-allegheny-agencies.md) [+W]
 
 ## Related Elements

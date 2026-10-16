@@ -84,4 +84,4 @@ Same mixed-effects analysis of within-session position for SRL functions. The au
 - [Direct student requests for answers significantly increased the AI's provision of direct answers (26.1% vs. 12.5% baseline; r = 0.14), though the AI maintained scaffolding in most cases](student-pressure-shifts-ai-toward-answers.md) — related
 - [Robot embodiment changes verification and debugging: learners treat robot execution as perceptual evidence for hypothesis-driven revisions, while AI-Only learners rely on generic help-seeking](robot-embodiment-perceptual-evidence-debugging.md) — related
 - [Scaffolded task progression shifts novice reasoning from local completion toward diagnosis and systematic debugging as task demands increase](scaffolded-task-progression-diagnostic-shift.md) — related
-- [The article treats metacognition and learning as a topic requiring explicit conceptual and methodological considerations](metacognition-learning-conceptual-methodological-considerations-veenman-2006.md) — related
+- The article treats metacognition and learning as a topic requiring explicit conceptual and methodological considerations — related

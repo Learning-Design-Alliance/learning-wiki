@@ -49,5 +49,5 @@ Systematic meta-analysis of studies from PsycINFO, ERIC, Social Work Abstracts, 
 - [School-based mindfulness interventions show overall effect sizes of g = 0.40 between groups and g = 0.41 within groups](mindfulness-schools-overall-effect-g-040.md) — related
 - [Across all RCTs, mindfulness-based interventions significantly improve mindfulness, executive functioning, attention, depression, anxiety/stress and negative behaviours in youth, with small effect sizes](mbis-small-positive-effects-all-rcts-youth.md) — related
 - [Effects of school-based mindfulness interventions differ according to whether delivery is by an outside facilitator or by trained educators/teachers](mindfulness-facilitator-type-moderates-effects.md) — related
-- [Effect sizes vary by control group type, with wait-list controls yielding the largest mean effect and no-contact controls the smallest](control-group-type-moderates-mbi-effects.md) — related
+- Effect sizes vary by control group type, with wait-list controls yielding the largest mean effect and no-contact controls the smallest — related
 - [Publication bias is evident for Negative Behaviour and Anxiety/Stress across all RCTs and for Mindfulness in active-control RCTs, suggesting overestimation of MBI effects](publication-bias-mbi-youth-rcts.md) — related

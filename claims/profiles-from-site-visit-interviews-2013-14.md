@@ -43,5 +43,5 @@ Qualitative multi-site study: twelve profiles of state education agencies, schoo
 
 
 ## Related Claims
-- [Agency experiences with data practices were documented through interviews covering collection, use, analysis, and reporting](agency-profiles-interview-data-practices.md) — related
+- Agency experiences with data practices were documented through interviews covering collection, use, analysis, and reporting — related
 - [CBE practices at the consortium colleges were identified through document review, site visits, and stakeholder interviews](cbe-practices-identified-via-review-visits-interviews.md) — related

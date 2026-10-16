@@ -45,4 +45,4 @@ The abstract reports a timing result from the seven-year observation window: "un
 ## Related Claims
 - [EL status had either a null effect or led to slight under-identification in SPED placement](el-status-null-or-underidentification-sped.md) — a broader claim this one bears on
 - [EL status led to under-identification for Spanish speakers but proportionate representation for Mandarin/Cantonese and other-language speakers](el-underidentification-varies-by-language-group.md) — related
-- [Regression discontinuity estimates of EL status effects on SPED placement consistently differ substantively from regression analysis results](rd-estimates-differ-from-regression-el-sped.md) — related
+- Regression discontinuity estimates of EL status effects on SPED placement consistently differ substantively from regression analysis results — related

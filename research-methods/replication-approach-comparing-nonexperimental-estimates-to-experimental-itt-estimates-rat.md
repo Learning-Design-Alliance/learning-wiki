@@ -17,7 +17,7 @@ sources:
 # Replication approach comparing nonexperimental estimates to experimental ITT estimates rather than CACE
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 5 claims (5 for) · 3 studies (1 causal, 1 review, 1 theoretical), `q1`–`q3` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article develops a replication method for within-study comparisons in settings with control-group noncompliance. Instead of requiring the nonexperimental estimate to match the complier average causal effect, the approach uses "nonexperimental methods to produce an estimate that can be compared to the experimental intent-to-treat (ITT) impact estimate rather than the CACE." This aligns the causal estimands when some control-group members are always-takers who receive treatment anyway.
@@ -28,11 +28,6 @@ The article develops a replication method for within-study comparisons in settin
 - **Benchmark nonexperimental methods against experimental ITT estimates, accounting for control crossover**: When judging whether nonexperimental methods can recover causal impacts, the article recommends using the experimental ITT estimate as the standard of comparison. It notes that "Ideally, nonexperimental methods that aim to replicate the results of rigorous randomized experiments focus on the intent to treat (ITT) experimental impact estimate," and that the comparison must handle "substantial control crossover" in the experiment. (Brian Gill et al. (2013))
 
 ### Claims
-- [Nonexperimental methods incorporating pre-treatment outcome measures can replicate experimental ITT impact estimates when control-group crossover occurs](../claims/nonexperimental-pre-treatment-methods-replicate-itt-under-crossover.md) [+M]
-- [Control-group noncompliance makes experimental and nonexperimental estimands diverge (CACE vs. all treated subjects)](../claims/noncompliance-estimand-divergence-cace-itt.md) [+W]
-- [Replication of ITT estimates holds even when treatment effects differ for compliers and always-takers](../claims/replication-robust-to-heterogeneous-complier-always-taker-effects.md) [+W]
-- [Substantial crossover occurred in the Head Start impact study comparison group, with 17.3% of the 3-year-old and 13.9% of the 4-year-old comparison groups enrolling in non-study Head Start programs](../claims/head-start-impact-study-comparison-crossover.md) [+W]
-- [The intent-to-treat experimental impact estimate is the most causally rigorous measure for nonexperimental methods to replicate](../claims/itt-estimate-most-causally-rigorous-benchmark.md) [+W]
 
 ## Related Research Methods
 -
@@ -66,10 +61,6 @@ The article develops a replication method for within-study comparisons in settin
 
 ### Claims
 
-- [Nonexperimental Pre Treatment Methods Replicate Itt Under Crossover](../claims/nonexperimental-pre-treatment-methods-replicate-itt-under-crossover.md) [+M]
-- [Control-group noncompliance makes experimental and nonexperimental estimands diverge (CACE vs. all treated subjects)](../claims/noncompliance-estimand-divergence-cace-itt.md) [+W]
-- [Replication of ITT estimates holds even when treatment effects differ for compliers and always-takers](../claims/replication-robust-to-heterogeneous-complier-always-taker-effects.md) [+W]
-- [Substantial crossover occurred in the Head Start impact study comparison group, with 17.3% of the 3-year-old and 13.9% of the 4-year-old comparison groups enrolling in non-study Head Start programs](../claims/head-start-impact-study-comparison-crossover.md) [+W]
 
 ## Related Theories
 - 

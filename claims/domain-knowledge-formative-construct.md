@@ -43,4 +43,4 @@ This is the article's own theoretical argument, a definitional/conceptual claim 
 ## Related Claims
 - [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](high-alpha-indicates-domain-knowledge-test-failure.md) — related
 - [Reflective modeling of formative knowledge constructs risks misrepresenting domain knowledge as a general factor such as intelligence](reflective-model-misrepresents-domain-knowledge.md) — related
-- [Research practice misaligns with theory: domain knowledge is usually assessed with reflective models without argument for that choice](practice-reflective-models-assumed-without-argument.md) — related
+- Research practice misaligns with theory: domain knowledge is usually assessed with reflective models without argument for that choice — related

@@ -22,7 +22,7 @@ sources:
 # Collaborative Innovation
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 11 claims (11 for) · 2 studies (2 qualitative), `q2` · 0 of 2 report an effect size · 11 claims rest on one study
+> **Evidence** · 10 claims (10 for) · 2 studies (2 qualitative), `q2` · 0 of 2 report an effect size · 10 claims rest on one study
 
 ## Description
 White's Collaborative Innovation framework organizes collaborative work through four Practice Tenets and two Impact Tenets, with associated phases, protocols, and activities.
@@ -40,7 +40,6 @@ White's Collaborative Innovation framework organizes collaborative work through 
 - [Participation supports were most effective when deliberately matched to the specific constraints participants faced](../claims/supports-matched-to-barriers.md) [+W]
 - [Time constraints, limited capacity, funder expectations, and communication gaps were the most consistent barriers to participation, offset by recurring structures, relational trust, actionable data, and networked channels](../claims/barriers-and-supports-shaping-participation.md) [+W]
 - [Partners in participatory evaluation demonstrated capacities in data engagement, contextual and pedagogical knowledge, and openness and improvement-oriented dispositions](../claims/partner-capacities-skills-knowledge-dispositions.md) [+W]
-- [The study's findings derive from structured reflections of 10 researchers and 11 program designers, not direct partner reports](../claims/reflection-method-10-researchers-11-program-staff.md) [+W]
 - [Relational trust built through prior rigorous evaluation was a precondition for introducing participatory approaches](../claims/relational-trust-precondition-participatory.md) [+W]
 - [Evaluator staff capacities centered on creating conditions for participation rather than technical control](../claims/staff-capacities-creating-conditions.md) [+W]
 
@@ -140,7 +139,6 @@ Collaborative Innovation is Digital Promise's structured approach to research an
 
 - [Time constraints, limited capacity, funder expectations, and communication gaps were the most consistent barriers to participation, offset by recurring structures, relational trust, actionable data, and networked channels](../claims/barriers-and-supports-shaping-participation.md) [+W]
 - [Partners in participatory evaluation demonstrated capacities in data engagement, contextual and pedagogical knowledge, and openness and improvement-oriented dispositions](../claims/partner-capacities-skills-knowledge-dispositions.md) [+W]
-- [The study's findings derive from structured reflections of 10 researchers and 11 program designers, not direct partner reports](../claims/reflection-method-10-researchers-11-program-staff.md) [+W]
 - [Relational trust built through prior rigorous evaluation was a precondition for introducing participatory approaches](../claims/relational-trust-precondition-participatory.md) [+W]
 - [Evaluator staff capacities centered on creating conditions for participation rather than technical control](../claims/staff-capacities-creating-conditions.md) [+W]
 - [Collaborative Innovation tenets varied in visibility: collective ownership and context expertise were most evidenced, reimagining progress least](../claims/tenet-visibility-varied-across-projects.md) [+W]

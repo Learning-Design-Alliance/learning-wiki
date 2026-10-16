@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 43 claims (25 for, 12 mixed, 5 against, 1 unmarked) · 57 studies (15 quant-synthesis, 14 causal, 7 review, 7 design, 6 qualitative, 6 theoretical, 2 associational), `q1`–`q4` · 14 of 57 report an effect size · 30 claims rest on one study
+> **Evidence** · 42 claims (24 for, 12 mixed, 5 against, 1 unmarked) · 56 studies (15 quant-synthesis, 14 causal, 7 review, 6 qualitative, 6 design, 6 theoretical, 2 associational), `q1`–`q4` · 14 of 56 report an effect size · 29 claims rest on one study
 
 ## Conditional relationship
 
@@ -144,7 +144,6 @@ Claims this page cited before the 2026-10-02 rewrite. They are evidence about th
 - [A six-step C/I cycle administered in a sophomore engineering physics class and a graduate physics class guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric](../claims/ci-cycle-metric-guided-solution-quarry-problem.md) [+W] — attached 2026-10-07 from Morzinski et al. (2010), which proposed "Design inquiry activities around student ownership and authenticity to real science and engineering practices".
 - [Explicit instruction produces greater learning than unassisted discovery learning under most conditions](../claims/minimal-guidance-less-effective-for-novices.md) [+W] — attached 2026-10-13 from Alfieri et al. (2011), which proposed "Provide feedback, worked examples, scaffolding, and elicited explanations rather than unassisted discovery"; tests this page's relationship.
 - [Worked examples confer a larger advantage over unassisted discovery than direct teaching does](../claims/worked-examples-largest-advantage-over-unassisted-discovery.md) [+W] — attached 2026-10-13 from Alfieri et al. (2011), which proposed "Provide feedback, worked examples, scaffolding, and elicited explanations rather than unassisted discovery"; tests this page's relationship.
-- [Research question co-design builds community and moves research closer to practice](../claims/co-design-builds-community-closer-practice.md) [+W]
 - [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M]
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M]
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](../claims/mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) [+W]
@@ -401,7 +400,6 @@ The pattern is most useful when the instructional goal is not just finding infor
 - Social constructivist perspectives — learning strengthens through dialogue and co-construction of understanding.
 - Inquiry-oriented perspectives — knowledge grows through questioning, investigation, and revision.
 - Knowledge-building traditions — learners can work as a community to improve ideas rather than only complete tasks.
-- [Research question co-design builds community and moves research closer to practice](../claims/co-design-builds-community-closer-practice.md) [+W]
 
 #### Contradicting / Qualifying
 - Inquiry quality depends on structure; not all collaboration is inquiry.

@@ -13,7 +13,7 @@ generated:
 # RiPPLE (Recommendation in Personalised Peer-Learning Environments)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 RiPPLE is an adaptive higher-education peer-learning platform for creating, evaluating, revising, and practising with peer-generated learning resources.
@@ -25,7 +25,6 @@ RiPPLE is an adaptive higher-education peer-learning platform for creating, eval
 ### Claims
 
 - [In the Enacted Feedback workflow most resources moved from AI feedback to suggestion selection, while optional AI assistance was rarely entered](../claims/event-flow-selection-versus-optional-assistance-use.md) [+W]
-- [The study dataset comprised 13,037 students, 51,296 student-authored resources, and 70 course offerings across three workflow conditions](../claims/ripple-feedback-workflow-dataset-scale.md) [+W]
 - [Enacted Feedback produces more post-workflow revisions per resource than the comparison workflows](../claims/enacted-feedback-more-revisions-per-resource.md) [+W]
 
 ## Related Products and Programmes

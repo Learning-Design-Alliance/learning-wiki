@@ -59,4 +59,4 @@ The WWC findings table reports the sound unit test results for 181 grade 3–4 s
 ## Related Claims
 - [The supporting evidence for TEEMSS comes from a quasi-experimental study meeting WWC standards only with reservations](teemss-evidence-qed-with-reservations.md) — related
 - [The WWC rated TEEMSS as having potentially positive effects on general science achievement with a small extent of evidence](teemss-potentially-positive-effects-small-evidence.md) — related
-- [Only one of eight unit outcomes in the qualifying study met WWC evidence standards; seven were excluded](teemss-seven-outcomes-excluded-baseline-inequivalence.md) — related
+- Only one of eight unit outcomes in the qualifying study met WWC evidence standards; seven were excluded — related

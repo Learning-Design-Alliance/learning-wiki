@@ -43,6 +43,6 @@ Findings from the one study meeting WWC standards (version 4.0), an RCT in rural
 
 
 ## Related Claims
-- [Comparison-group contamination occurred in the Balanced Leadership® trial](balanced-leadership-comparison-contamination.md) — related
+- Comparison-group contamination occurred in the Balanced Leadership® trial — related
 - [Effects of Balanced Leadership® on student achievement, teacher retention, and leadership practice are not established by standards-meeting evidence](balanced-leadership-other-outcomes-not-established.md) — related
 - [The retention effect of Balanced Leadership® was not statistically significant in the contributing study](balanced-leadership-retention-not-statistically-significant.md) — related

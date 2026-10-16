@@ -43,5 +43,5 @@ In the same matched comparison group evaluation, attendance impacts varied by gr
 
 
 ## Related Claims
-- [The Kauffman School evaluation used a matched comparison group design to estimate impacts on achievement, attendance, and suspensions](kauffman-school-matched-comparison-group-design.md) — related
+- The Kauffman School evaluation used a matched comparison group design to estimate impacts on achievement, attendance, and suspensions — related
 - [The Kauffman School raised student attendance by approximately 1 percentage point relative to comparison students](kauffman-school-attendance-impact-one-percentage-point.md) — related

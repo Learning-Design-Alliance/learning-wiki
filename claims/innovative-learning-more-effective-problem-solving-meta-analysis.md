@@ -44,6 +44,6 @@ Meta-analysis of 31 experimental and control group comparisons of junior high sc
 
 
 ## Related Claims
-- [Trim-and-fill analysis shows no publication bias in the meta-analysis of innovative learning effects on mathematical problem-solving ability](trim-fill-no-publication-bias-innovative-learning.md) — related
-- [Study effect sizes are heterogeneous (I² reported as 83.197%), so a random-effects model is used for the summary effect](heterogeneity-random-effects-model-problem-solving-meta-analysis.md) — related
+- Trim-and-fill analysis shows no publication bias in the meta-analysis of innovative learning effects on mathematical problem-solving ability — related
+- Study effect sizes are heterogeneous (I² reported as 83.197%), so a random-effects model is used for the summary effect — related
 - [Individual study effect sizes span moderate to very high: eight studies medium, ten high, and thirteen very high by Cohen-criteria classification](effect-size-distribution-medium-high-very-high.md) — related

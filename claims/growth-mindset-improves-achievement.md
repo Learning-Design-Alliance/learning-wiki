@@ -135,4 +135,4 @@ Two meta-analyses: the first (k=273 studies, N=365,915) examined the correlation
 - [GPA treatment effects among lower-achieving students were larger in schools whose peer norms supported challenge-seeking](peer-norms-sustain-mindset-gpa-effects.md) — a narrower finding that bears on this claim
 - [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](growth-mindset-achievement-correlation-weak.md) — related
 - [Mind-set interventions show weak overall effects on achievement, with some support that low-SES or academically at-risk students might benefit](mindset-intervention-effects-weak-subgroup-benefit.md) — related
-- [Risk of bias was high or unclear in all included trials, but no criterion significantly moderated effects](risk-of-bias-high-unclear-all-trials.md) — related
+- Risk of bias was high or unclear in all included trials, but no criterion significantly moderated effects — related

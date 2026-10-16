@@ -43,4 +43,4 @@ The appendix page states the brief's first main research question verbatim: 'To 
 
 
 ## Related Claims
-- [The 2021-22 study included a supplementary research question on whether achievement became more distributed over the pandemic.](supplementary-question-achievement-more-distributed-over-pandemic.md) — related
+- The 2021-22 study included a supplementary research question on whether achievement became more distributed over the pandemic. — related

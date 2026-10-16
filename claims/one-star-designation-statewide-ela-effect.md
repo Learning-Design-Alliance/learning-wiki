@@ -46,8 +46,8 @@ Regression discontinuity analysis (RDD) of statewide spring 2024 math and ELA sc
 - [In Clark County, One-Star designation significantly raises math and ELA scores for all students](one-star-designation-clark-county-all-students.md) — related
 - [For Clark County students designated At-risk, One-Star designation significantly raises math but not ELA scores](one-star-designation-clark-county-at-risk-students.md) — related
 - A regression discontinuity study found a positive but non-significant effect of +0.16 on standardized literacy growth — related
-- [Regression discontinuity estimates show high internal validity, with average bias below 0.01 standard deviations relative to RCT estimates at the same cutoff](rd-average-bias-below-0-01-sd-high-internal-validity.md) — a broader claim this one bears on
+- Regression discontinuity estimates show high internal validity, with average bias below 0.01 standard deviations relative to RCT estimates at the same cutoff — a broader claim this one bears on
 - Statistical theory predicts that regression discontinuity provides valid causal inference at the cutoff score determining treatment assignment — a broader claim this one bears on
-- [Shrunken study-specific RD bias estimates stay below 0.07 standard deviations, indicating good external validity](rd-shrunken-bias-below-0-07-sd-external-validity.md) — a broader claim this one bears on
-- [Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial](rd-replication-matches-experimental-estimates-two-interventions.md) — a broader claim this one bears on
-- [The meta-analysis finds some evidence favoring non-parametric RD methods over parametric ones](rd-non-parametric-methods-favored.md) — a broader claim this one bears on
+- Shrunken study-specific RD bias estimates stay below 0.07 standard deviations, indicating good external validity — a broader claim this one bears on
+- Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial — a broader claim this one bears on
+- The meta-analysis finds some evidence favoring non-parametric RD methods over parametric ones — a broader claim this one bears on

@@ -63,4 +63,4 @@ External-validity evidence discussed in the discussion section: in the prompted 
 
 ## Related Claims
 - [External validity of the special-issue strategy measures was mixed: low-to-moderate comprehension correlations for Bräten and Strømsø and Magliano et al., indeterminate for Schellings and Winne and Muis](external-validity-mixed-across-new-strategy-instruments.md) — related
-- [Within-method convergence (RSAT coding vs human coding; G vs d') indicates stability, not construct validity](within-method-convergence-stability-not-construct-validity.md) — related
+- Within-method convergence (RSAT coding vs human coding; G vs d') indicates stability, not construct validity — related

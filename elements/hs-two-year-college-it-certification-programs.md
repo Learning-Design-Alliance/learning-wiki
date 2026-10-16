@@ -17,7 +17,7 @@ sources:
 # High school and two-year college IT skill certification programs
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Information technology skill certification programs in high schools and two-year colleges combine skill standards and certification tests within IT classes. The article's abstract describes a national study of these programs, covering their prevalence and size in 2002, "the mix of students participating, the issues programs face," and the certifications and other outcomes students achieve.
@@ -40,7 +40,6 @@ Information technology skill certification programs in high schools and two-year
 
 ## Claims
 
-- [The report presents the first national study of high school and college information technology skill certification programs](../claims/first-national-study-it-certification-programs.md) [+W]
 - [The study examines student participation mix, program issues, and certification and other outcomes](../claims/it-certification-participants-issues-outcomes.md) [+W]
 - [The study documents the prevalence and size of IT skill certification programs in 2002](../claims/it-certification-prevalence-size-2002.md) [+W]
 

@@ -43,5 +43,5 @@ The article's tentative DAG analysis of Gašević et al. (2016), a large analysi
 
 
 ## Related Claims
-- [Sample truncation based on at-risk status can induce collider bias that undermines internal as well as external validity](collider-bias-sample-truncation-at-risk.md) — a broader claim this one bears on
-- [Restricting a sample to students who used the treatment can block a mediating path and induce overcontrol bias, attenuating estimated effects](overcontrol-bias-blocking-mediator.md) — related
+- Sample truncation based on at-risk status can induce collider bias that undermines internal as well as external validity — a broader claim this one bears on
+- Restricting a sample to students who used the treatment can block a mediating path and induce overcontrol bias, attenuating estimated effects — related

@@ -25,7 +25,7 @@ sources:
 # Precision-based sample-size planning for clustered education trials
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 16 claims (15 for, 1 mixed) · 7 studies (7 theoretical), `q1`–`q2` · 0 of 7 report an effect size · 15 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 4 studies (4 theoretical), `q2` · 0 of 4 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends that evaluators discuss "appropriate precision standards" and then determine, for each random-assignment design, "the required number of schools to achieve those standards" using empirical parameter values. This makes precision targets, rather than convenience, drive sample planning in education experiments. The principle applies the article's unified framework to practical evaluation design.
@@ -42,21 +42,9 @@ The article recommends that evaluators discuss "appropriate precision standards"
 
 ### Claims
 - [Clustering effects in education random-assignment trials vary by design but are typically large, requiring large school samples](../claims/clustering-effects-large-school-samples-education-trials.md) [+M]
-- [Clustered regression discontinuity designs typically require three to four times larger samples than clustered experimental designs to produce impact estimates with the same level of statistical precision in education evaluations](../claims/rd-designs-need-three-to-four-times-larger-samples-than-experiments.md) [+M]
-- [The viability of using RD designs for new impact evaluations of educational interventions depends on the point of treatment assignment, the availability of pretests, and key research questions](../claims/rd-design-viability-depends-on-assignment-point-pretests-questions.md) [~W]
-- [In clustered school-based RCTs, OLS mediator analyses yield precise teacher practice-achievement estimates only with about 150 to 200 study schools](../claims/ols-mediator-power-requires-150-200-schools.md) [+M]
-- [The IV approach to mediator analysis in clustered education RCTs has very little statistical power](../claims/iv-mediator-analysis-low-power.md) [+M]
-- [Power calculations for small CRCTs can be accurate when design effects from small-sample spurious correlations are taken into account](../claims/power-calculations-accurate-spurious-correlation-design-effects-small-crcts.md) [+W]
 - [Mediator-outcome association analyses can identify teacher practice mediators most associated with student learning](../claims/mediator-analyses-identify-key-teacher-practices.md) [+W]
-- [Estimating associations between student and teacher practice outcomes can examine the extent to which RCT data support a study's conceptual model](../claims/mediator-outcome-associations-test-conceptual-model.md) [+W]
 - [Measurement error in the mediator reduces statistical power for mediator-achievement association estimates](../claims/mediator-measurement-error-reduces-power.md) [+W]
-- [Typical clustered RCTs with 40 to 60 schools are often insufficient for binary outcomes](../claims/40-60-schools-insufficient-binary-outcomes.md) [+W]
-- [Sample size formulas for clustered designs with school- or teacher-level random assignment are derived using generalized estimating equation methods](../claims/gee-sample-size-formulas-clustered-school-rcts.md) [+W]
 - [Classroom-level ICCs for elementary test score gains range from 0.02 to 0.15 and school-level ICCs from 0.05 to 0.20, so classroom effects explain about 15 percent of gain-score variance](../claims/icc-classroom-effects-gain-scores-15-percent.md) [+W]
-- [Many education evaluations have sufficient power to detect precise impacts only for relatively large subgroups of sites](../claims/power-limited-to-large-site-subgroups.md) [+W]
-- [Required numbers of schools differ across school, classroom, and student random-assignment designs](../claims/required-schools-vary-by-assignment-level.md) [+W]
-- [Large school samples are required to achieve appropriate precision standards in clustered education experiments](../claims/large-school-samples-required-precision-standards.md) [+W]
-- [Most education impact studies can rigorously address only broad questions due to power constraints](../claims/most-impact-studies-address-broad-questions-only.md) [+W]
 
 ## Related Research Methods
 
@@ -103,7 +91,6 @@ The article assembles empirical values of "intraclass correlations, regression R
 ## Claims
 
 - [Clustering effects in education random-assignment trials vary by design but are typically large, requiring large school samples](../claims/clustering-effects-large-school-samples-education-trials.md) [+W]
-- [Power calculations for small CRCTs can be accurate when design effects from small-sample spurious correlations are taken into account](../claims/power-calculations-accurate-spurious-correlation-design-effects-small-crcts.md) [+W]
 
 ## Related Elements
 - 
@@ -140,7 +127,6 @@ The report grounds its power analysis in a framework combining causal inference 
 - Estimating intervention effects on student test scores with adequate statistical precision
 
 ### Claims
-- [Rd Designs Need Three To Four Times Larger Samples Than Experiments](../claims/rd-designs-need-three-to-four-times-larger-samples-than-experiments.md) [+M]
 
 ## Related Theories
 
@@ -180,12 +166,7 @@ The article develops statistical power formulas for exploratory analyses that es
 ### Claims
 
 - [Mediator-outcome association analyses can identify teacher practice mediators most associated with student learning](../claims/mediator-analyses-identify-key-teacher-practices.md) [+W]
-- [Estimating associations between student and teacher practice outcomes can examine the extent to which RCT data support a study's conceptual model](../claims/mediator-outcome-associations-test-conceptual-model.md) [+W]
-- [In clustered school-based RCTs, OLS mediator analyses yield precise teacher practice-achievement estimates only with about 150 to 200 study schools](../claims/ols-mediator-power-requires-150-200-schools.md) [+W]
-- [The IV approach to mediator analysis in clustered education RCTs has very little statistical power](../claims/iv-mediator-analysis-low-power.md) [+W]
 - [Measurement error in the mediator reduces statistical power for mediator-achievement association estimates](../claims/mediator-measurement-error-reduces-power.md) [+W]
-- [Typical clustered RCTs with 40 to 60 schools are often insufficient for binary outcomes](../claims/40-60-schools-insufficient-binary-outcomes.md) [+W]
-- [Sample size formulas for clustered designs with school- or teacher-level random assignment are derived using generalized estimating equation methods](../claims/gee-sample-size-formulas-clustered-school-rcts.md) [+W]
 - [Classroom-level ICCs for elementary test score gains range from 0.02 to 0.15 and school-level ICCs from 0.05 to 0.20, so classroom effects explain about 15 percent of gain-score variance](../claims/icc-classroom-effects-gain-scores-15-percent.md) [+W]
 
 ## Related Theories
@@ -231,12 +212,7 @@ The article organizes power analysis for education experiments through a unified
 ### Claims
 
 - [Clustering Effects Large School Samples Education Trials](../claims/clustering-effects-large-school-samples-education-trials.md) [+M]
-- [Many education evaluations have sufficient power to detect precise impacts only for relatively large subgroups of sites](../claims/power-limited-to-large-site-subgroups.md) [+W]
-- [Required numbers of schools differ across school, classroom, and student random-assignment designs](../claims/required-schools-vary-by-assignment-level.md) [+W]
-- [Sample size formulas for clustered designs with school- or teacher-level random assignment are derived using generalized estimating equation methods](../claims/gee-sample-size-formulas-clustered-school-rcts.md) [+W]
 - [Clustering effects vary by design but are typically large in education random-assignment evaluations](../claims/clustering-effects-large-school-samples-education-trials.md) [+W]
-- [Large school samples are required to achieve appropriate precision standards in clustered education experiments](../claims/large-school-samples-required-precision-standards.md) [+W]
-- [Most education impact studies can rigorously address only broad questions due to power constraints](../claims/most-impact-studies-address-broad-questions-only.md) [+W]
 
 ## Related Theories
 
@@ -276,9 +252,6 @@ The paper presents "a unified analytic framework based on statistical methods fr
 ### Claims
 
 - [Clustering effects vary by design but are typically large in education random-assignment evaluations](../claims/clustering-effects-large-school-samples-education-trials.md) [+W]
-- [Large school samples are required to achieve appropriate precision standards in clustered education experiments](../claims/large-school-samples-required-precision-standards.md) [+W]
-- [Most education impact studies can rigorously address only broad questions due to power constraints](../claims/most-impact-studies-address-broad-questions-only.md) [+W]
-- [Required numbers of schools differ across school, classroom, and student random-assignment designs](../claims/required-schools-vary-by-assignment-level.md) [+W]
 - [Clustering effects in education random-assignment trials vary by design but are typically large, requiring large school samples](../claims/clustering-effects-large-school-samples-education-trials.md) [+W]
 
 ## Related Theories

@@ -48,7 +48,7 @@ Theoretical review section (§3) categorizing error sources. The article states 
 ## Related Claims
 - [Lack of confidence and inappropriate language use were observed obstacles to students' mathematical communication during the experiment](confidence-obstacles-math-communication.md) — related
 - Contrastive rhetoric overgeneralizes shared culture and ignores individual differences among L2 writers — related
-- [Error analysis has stated limitations: overattention to errors, overstressing production data, failure to account for avoidance, and language-specific focus](error-analysis-limitations.md) — related
+- Error analysis has stated limitations: overattention to errors, overstressing production data, failure to account for avoidance, and language-specific focus — related
 - Children follow a similar four-stage sequence in acquiring specific syntactic forms, from no usage through error-filled production to correct usage — related
 - [Errors should be distinguished from mistakes, and analysis proceeds through recognition, description, and explanation stages](error-versus-mistake-analysis-procedure.md) — related
 - Morphological and derivational interference in Polish-English deceptive pairs is unidirectional, operating only in translation from Polish into English — a narrower finding that bears on this claim

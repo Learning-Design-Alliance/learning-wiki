@@ -43,7 +43,7 @@ The brief's own description states its central finding: access to early Algebra 
 
 
 ## Related Claims
-- [The study examined both school Algebra offerings and student placement practices](algebra-access-two-mechanisms-offerings-and-placement.md) — related
+- The study examined both school Algebra offerings and student placement practices — related
 - [School offerings and placement practices limit opportunity for 8th-grade algebra access](school-offerings-and-placement-practices-limit-algebra-opportunity.md) — related
 - [Algebra access gaps are tied to school poverty levels, geography, and race/ethnicity](algebra-access-gaps-poverty-geography-race.md) — a narrower finding that bears on this claim
 - [The study examines post-COVID trends in gender gaps in 8th grade STEM skills using three national assessments and Algebra enrollment data](post-covid-gender-gap-trends-8th-grade-stem-three-assessments.md) — related

@@ -44,4 +44,4 @@ The WWC's intervention rating for the math achievement domain, based on one stud
 
 ## Related Claims
 - [The Expert Mathematician shows a positive but not statistically significant effect on middle school math achievement (effect size 0.35, improvement index +14 percentile points)](expert-mathematician-potentially-positive-math-achievement.md) — possibly the same claim (merge candidate)
-- [Random assignment in the Baker (1997) trial produced pretest differences favoring the comparison curriculum, controlled by using the pretest as a covariate](baker-trial-pretest-difference-covariate-control.md) — related
+- Random assignment in the Baker (1997) trial produced pretest differences favoring the comparison curriculum, controlled by using the pretest as a covariate — related

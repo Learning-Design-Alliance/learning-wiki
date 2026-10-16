@@ -43,7 +43,7 @@ The chapter's abstract states the authors "discuss the pedagogical challenges in
 
 
 ## Related Claims
-- [Research on distance and online learning has methodological issues that need to be addressed](methodological-issues-distance-education-research.md) — related
+- Research on distance and online learning has methodological issues that need to be addressed — related
 - [Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses](widespread-remote-stem-challenges-motivation-connectivity.md) — a narrower finding that bears on this claim
 - Students attributed online-course problems more to the unplanned move online (45%) than to inherent limitations of online learning (37%) — related
 - [The number of challenges a student experienced was strongly associated with post-COVID course satisfaction: 81 percent satisfaction with no challenges versus 32 percent with four or more](challenge-count-associated-satisfaction.md) — a narrower finding that bears on this claim

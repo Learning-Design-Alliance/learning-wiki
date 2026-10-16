@@ -43,7 +43,7 @@ Random effects meta-analysis using Robust Variance Estimation of 18 RCTs with 11
 
 
 ## Related Claims
-- [Most included studies carry risk of bias concerns, requiring cautious interpretation of the pooled effect](mobile-device-review-risk-of-bias-concerns.md) — related
+- Most included studies carry risk of bias concerns, requiring cautious interpretation of the pooled effect — related
 - [Prior syntheses of educational technology effects show inconsistent findings, with mobile learning meta-analysis finding near-zero maths effects and reading interventions comparatively more effective](prior-technology-meta-analyses-inconsistent-effects.md) — reports the opposite
 - [Too few studies exist to draw robust conclusions on moderating factors (age, gender, screen size, dosage, SAMR-based activities) or on whether benefits persist beyond the post-test](mobile-device-moderators-insufficient-evidence.md) — related
 - [Using computerized systems as a differentiation tool has small to moderate positive effects on primary students' language and math performance](computerized-differentiation-systems-positive-effects-primary.md) — related

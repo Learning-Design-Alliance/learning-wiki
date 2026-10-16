@@ -46,3 +46,4 @@ Error analysis of confusion matrices and misclassified posts across the three cl
 - [All three trained classifiers outperformed the zero-rule baseline (28.4% accuracy) for classifying cognitive engagement in discussion posts](classifiers-beat-zero-rule-baseline-engagement.md) — related
 - [A support vector machine classifier outperformed decision tree and random forest models in predicting cognitive engagement levels of online discussion posts](svm-outperforms-dt-rf-cognitive-engagement-prediction.md) — related
 - The classifier's dominant error was labelling Low Stress students as Moderate Stress, a bias the authors judge safe because over-assignment yields extra support while the dangerous high-as-low error was uncommon — related
+- [86% of World of Warcraft forum posts constitute social knowledge construction rather than social banter](wow-forum-86-percent-social-knowledge-construction.md) — related

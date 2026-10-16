@@ -63,7 +63,7 @@ Figure 1 scatterplots compare empirical Bayes school random-effect estimates fro
 
 ## Related Claims
 - [Accounting for test disengagement had minimal impact on estimates of school growth contributions, achievement gaps, and summer learning loss](disengagement-corrections-minimal-impact-effectiveness-estimates.md) — possibly the same claim (merge candidate)
-- [Filtered students had much lower effort-moderated achievement, suggesting motivation filtering may bias mean estimates](filtering-removes-low-achievers-bias-risk.md) — reports the opposite
+- Filtered students had much lower effort-moderated achievement, suggesting motivation filtering may bias mean estimates — reports the opposite
 - [Motivation filtering reversed the estimated Black-White fall-to-fall growth gap direction in later grades](filtering-reverses-black-white-growth-gap.md) — related
 - [Differences in rapid guessing between subgroups generally do not impact substantive interpretations of achievement gaps](rapid-guessing-generally-does-not-change-gap-interpretations.md) — related
 - [Summer learning loss estimates changed significantly under filtering but not effort-moderated scoring](rapid-guessing-summer-learning-loss-estimates.md) — related

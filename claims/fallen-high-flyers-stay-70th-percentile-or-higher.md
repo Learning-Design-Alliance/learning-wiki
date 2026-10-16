@@ -43,5 +43,5 @@ In the same longitudinal tracking of top students, the study reports that "Stude
 
 
 ## Related Claims
-- [The study operationalized high achievement as scoring at or above the 90th percentile on the NWEA assessment](high-achievement-defined-as-90th-percentile-or-above.md) — related
+- The study operationalized high achievement as scoring at or above the 90th percentile on the NWEA assessment — related
 - [About three in five students identified as high-achieving in the first year remained high-achieving in the last year of the study](three-in-five-high-achievers-remain-high-achieving.md) — related

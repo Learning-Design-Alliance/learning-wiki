@@ -46,7 +46,7 @@ Heterogeneity assessment in the re-analysis of Leary et al. (2013) data across 3
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Walker 2023](https://doi.org/10.14434/ijpbl.v17i2.35844) | q2 · quant-synthesis · r2 | i? | this claim; [Individual PBL outcome effect sizes in the tutor-background meta-analysis span a massive r](massive-range-pbl-outcome-effect-sizes.md) (qualifies); [Funnel plot and Egger's test indicate publication bias in the PBL tutor-background data, a](publication-bias-pbl-tutor-meta-analysis.md) (qualifies); [In a re-analysis of PBL tutor-background data, neither a meta-regression nor subgroup comp](tutor-background-meta-regression-not-predictive.md) (qualifies) |
+| [Walker 2023](https://doi.org/10.14434/ijpbl.v17i2.35844) | q2 · quant-synthesis · r2 | i? | this claim; [Individual PBL outcome effect sizes in the tutor-background meta-analysis span a massive r](massive-range-pbl-outcome-effect-sizes.md) (qualifies); Funnel plot and Egger's test indicate publication bias in the PBL tutor-background data, a (qualifies); [In a re-analysis of PBL tutor-background data, neither a meta-regression nor subgroup comp](tutor-background-meta-regression-not-predictive.md) (qualifies) |
 | [Şenel Elaldı 2016](https://doi.org/10.11114/jets.v4i1.1097) | q3 · quant-synthesis · r2 | i2 | [Problem-based learning shows a large positive pooled effect on academic achievement (REM E](pbl-large-positive-effect-academic-achievement.md) (supports) |
 | [Ayanwale 2026](https://doi.org/10.1016/j.chbah.2026.100263) | q2 · causal · r1 | i3; i? | [AI-supported PBL students obtain significantly higher posttest academic achievement scores](ai-pbl-higher-posttest-academic-achievement.md) (supports) |
 | [Michael Rowe 2026](https://doi.org/10.35542/osf.io/haet3_v1) | q1 · theoretical · r3 | i? | [PBL's empirical evidence base is equivocal, attributed by the essay to implementation fail](pbl-evidence-base-equivocal.md) (qualifies) |
@@ -57,11 +57,11 @@ Heterogeneity assessment in the re-analysis of Leary et al. (2013) data across 3
 ## Related Claims
 
 - [Problem-based learning shows null or negative effects on basic knowledge acquisition but positive effects on conceptual understanding and transfer relative to direct instruction](pbl-null-basic-knowledge-positive-transfer.md) — the general claim this finding bears on, with the studies behind it
-- [Study effect sizes are heterogeneous (I² reported as 83.197%), so a random-effects model is used for the summary effect](heterogeneity-random-effects-model-problem-solving-meta-analysis.md) — related
+- Study effect sizes are heterogeneous (I² reported as 83.197%), so a random-effects model is used for the summary effect — related
 - [Individual PBL outcome effect sizes in the tutor-background meta-analysis span a massive range, from g = -1.26 to g = 1.91](massive-range-pbl-outcome-effect-sizes.md) — related
 - [In a re-analysis of PBL tutor-background data, neither a meta-regression nor subgroup comparisons found that tutor expertise predicts student learning](tutor-background-meta-regression-not-predictive.md) — related
-- [Funnel plot and Egger's test indicate publication bias in the PBL tutor-background data, and trim-and-fill suggests the overall effect is overestimated](publication-bias-pbl-tutor-meta-analysis.md) — related
+- Funnel plot and Egger's test indicate publication bias in the PBL tutor-background data, and trim-and-fill suggests the overall effect is overestimated — related
 - Robust variance estimation shows study of origin does not impact the final effect size in the PBL tutor-background data — related
 - Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model — related
 - [Warning effect size shows no significant heterogeneity across topics and studies](warning-effect-no-heterogeneity-across-topics.md) — reports the opposite
-- [Effect sizes across GenAI studies are highly heterogeneous, requiring random-effects pooling](genai-effect-heterogeneity-random-effects.md) — a narrower finding that bears on this claim
+- Effect sizes across GenAI studies are highly heterogeneous, requiring random-effects pooling — a narrower finding that bears on this claim

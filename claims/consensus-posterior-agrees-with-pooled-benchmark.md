@@ -45,5 +45,5 @@ Benchmark comparison on operational Duolingo English Test data across four quart
 ## Related Claims
 - [Per-period ability distributions implied by the linked calibrations agree closely with the pooled benchmark, checking the linking independently of the items](ability-distribution-agreement-linking-check.md) — related
 - [Consensus calibration shows mild under-dispersion relative to the pooled benchmark, strongest for sparsely observed items, consistent with residual prior over-counting](mild-under-dispersion-low-exposure-items.md) — related
-- [A convergence screen excluding non-converged (item, parameter) pairs removed 1.9% of pairs from the benchmark comparison](convergence-screen-removed-1-9-percent-pairs.md) — related
+- A convergence screen excluding non-converged (item, parameter) pairs removed 1.9% of pairs from the benchmark comparison — related
 - [The Bayesian context layer applies stronger posterior personalization to students with fewer training clips, correlating clip count with KL divergence from the prior (r=-0.748, p=0.001)](bayesian-context-kl-clip-count-correlation.md) — related

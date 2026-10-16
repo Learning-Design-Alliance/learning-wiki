@@ -50,3 +50,4 @@ Interview and survey findings across studio courses: students reported that "stu
 - [Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams](epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams.md) — related
 - [Youth motivation to persist in everyday problem-solving is minimal, costing them collaboration and new knowledge](minimal-persistence-everyday-problem-solving-youth.md) — related
 - [Employers value social and emotional development alongside content knowledge for workforce preparation](employers-value-social-emotional-skills.md) — related
+- [Teaching science and mathematics through human modeling and collaborative cross-border projects can serve the purpose of developing tolerance and international understanding](science-teaching-modeling-international-understanding.md) — related

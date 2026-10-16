@@ -43,5 +43,5 @@ The reliability analysis found that the safe and respectful school climate domai
 
 
 ## Related Claims
-- [The three domains of the PDE elementary school climate survey were distinct from one another](pde-elementary-climate-survey-domains-distinct.md) — related
+- The three domains of the PDE elementary school climate survey were distinct from one another — related
 - [Items in each of the three domains of the PDE elementary school climate survey measured the constructs they intended to measure](pde-elementary-climate-survey-items-measure-intended-constructs.md) — related

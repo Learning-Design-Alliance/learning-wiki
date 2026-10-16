@@ -16,7 +16,7 @@ sources:
 # Within-student longitudinal (fixed-effects-style) design as an approach to causal inference in edtech efficacy evaluation
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article's methodological framework: using multi-year panel data so that "each student as their own control" serves as the identification strategy, "eliminating confounding from time-invariant student factors (e.g., general ability, motivation)". The authors position this as a substantial improvement over cross-sectional between-group designs with statistical controls, and apply it to evaluate a mastery learning platform's effect on standardized test scores.
@@ -38,7 +38,6 @@ The article's methodological framework: using multi-year panel data so that "eac
 ### Claims
 
 - [Mastery Platform Longitudinal Positive Effects](../claims/mastery-platform-longitudinal-positive-effects.md) [+M]
-- [Time Varying Confounds Limit Platform Estimates](../claims/time-varying-confounds-limit-platform-estimates.md) [~W]
 - [Prior cross-sectional between-group research on the platform found a positive usage–test-score relationship but could not rule out unobserved confounding](../claims/prior-cross-sectional-platform-usage-achievement-link.md) [~W]
 - [Platform treatment effects did not vary across demographic subgroups, suggesting equal benefit regardless of racial background](../claims/mastery-platform-effects-uniform-across-demographics.md) [~W]
 

@@ -15,7 +15,7 @@ sources:
 # Four regulatory tracks framework for edtech efficacy studies
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 5 studies (3 review, 2 theoretical), `q1` · 0 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 theoretical), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The guide organizes edtech study planning around four broad regulatory pathways determined chiefly by whether the research team can ascertain student identity. As a practical planning framework, most edtech studies fall into internal product development (no IRB), Not Human Subjects Research, Exempt Research, or Expedited/Full Board Review. The pivotal planning question is whether the team can readily ascertain individual student identities, because identity access drives both review tier and parental-permission burden.
@@ -36,9 +36,6 @@ The guide organizes edtech study planning around four broad regulatory pathways 
 
 ### Claims
 
-- [Researcher access to identifiable student information, not research intent alone, determines NHSR status](../claims/access-not-intent-determines-nhsr.md) [+W]
-- [School districts act as independent gatekeepers whose requirements can exceed IRB determinations](../claims/district-independent-gatekeeper-edtech-research.md) [+W]
-- [Maintaining NHSR status requires no researcher access to identifiable records, no added procedures, and no non-standard prompts](../claims/nhsr-maintenance-three-conditions.md) [+W]
 - [Small additions of research-specific procedures can shift a study out of exempt review](../claims/small-procedure-additions-change-review-path.md) [+W]
 - [Survey item sensitivity determines the parental permission pathway, from full waiver to active opt-in](../claims/survey-sensitivity-drives-parental-permission.md) [+W]
 

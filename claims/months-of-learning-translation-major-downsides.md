@@ -43,4 +43,4 @@ The brief's description asserts that "there are major downsides to this translat
 
 
 ## Related Claims
-- [Researchers have translated test scores into months of learning to claim how many months or years students are behind in school](test-scores-translated-to-months-of-learning.md) — related
+- Researchers have translated test scores into months of learning to claim how many months or years students are behind in school — related

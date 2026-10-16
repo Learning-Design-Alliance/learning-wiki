@@ -43,4 +43,4 @@ Methodological argument in the review's screening section, citing validation lit
 
 
 ## Related Claims
-- [Among 421 SET-NLP studies, 61.3% demonstrate output or stronger (A2+) but only 11.6% evaluate outputs with intended users or stronger (A3+), a 49.7 percentage-point drop](set-nlp-actionability-discontinuity-a2-a3.md) — related
+- Among 421 SET-NLP studies, 61.3% demonstrate output or stronger (A2+) but only 11.6% evaluate outputs with intended users or stronger (A3+), a 49.7 percentage-point drop — related

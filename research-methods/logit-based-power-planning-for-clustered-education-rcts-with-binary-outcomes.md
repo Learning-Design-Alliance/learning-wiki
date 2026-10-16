@@ -17,7 +17,7 @@ sources:
 # Logit-based power planning for clustered education RCTs with binary outcomes
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Because binary outcomes demand larger samples than continuous test-score or behavioral-scale outcomes, designers of clustered school-based RCTs should plan for more schools than the 40 to 60 typically used. The article's key finding is that "sample sizes of 40 to 60 schools that are typically included in clustered RCTs for student test score or behavioral scale outcomes will often be insufficient for binary outcomes," so power calculations should use the article's logit-based approach.
@@ -28,9 +28,6 @@ Because binary outcomes demand larger samples than continuous test-score or beha
 - **A new approach for calculating sample sizes for school-based RCTs with binary outcomes**: The article develops a method for computing appropriate sample sizes in school-based randomized controlled trials where the outcome is binary. It works by using logit models, with and without baseline covariates, to translate planned effect sizes into required sample sizes. As the abstract states, the article "develops a new approach for calculating appropriate sample sizes for school-based randomized controlled trials (RCTs) with binary outcomes using logit models with and without baseline covariates." (Peter Z. Schochet (2013))
 
 ### Claims
-- [Typical clustered RCTs with 40 to 60 schools are often insufficient for binary outcomes](../claims/40-60-schools-insufficient-binary-outcomes.md) [+M]
-- [Sample size formulas for clustered designs with school- or teacher-level random assignment are derived using generalized estimating equation methods](../claims/gee-sample-size-formulas-clustered-school-rcts.md) [+W]
-- [The sample size approach handles logit models both with and without baseline covariates](../claims/logit-models-with-and-without-covariates-power.md) [+W]
 
 ## Related Research Methods
 -
@@ -65,9 +62,6 @@ The article develops a method for computing appropriate sample sizes in school-b
 
 ### Claims
 
-- [Typical clustered RCTs with 40 to 60 schools are often insufficient for binary outcomes](../claims/40-60-schools-insufficient-binary-outcomes.md) [+W]
-- [Sample size formulas for clustered designs with school- or teacher-level random assignment are derived using generalized estimating equation methods](../claims/gee-sample-size-formulas-clustered-school-rcts.md) [+W]
-- [The sample size approach handles logit models both with and without baseline covariates](../claims/logit-models-with-and-without-covariates-power.md) [+W]
 
 ## Related Theories
 - 

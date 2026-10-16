@@ -46,4 +46,4 @@ Theoretical and empirical analysis using a loss function approach compares estim
 - [The variance-bias trade-off for late pretests is addressed both theoretically and empirically for several commonly used impact estimators](late-pretest-analyzed-for-several-estimators.md) — a broader claim this one bears on
 - [Including late pretest data in RCT analyses can bias post-test impact estimates because pretests are collected after random assignment](late-pretest-inclusion-can-bias-posttest-estimates.md) — related
 - [The late-pretest estimator preference holds as long as test score impacts do not grow very quickly early in the school year](late-pretest-preference-conditional-on-slow-early-impact-growth.md) — a narrower finding that bears on this claim
-- [Deciding whether to collect and use late pretest data in RCTs involves a variance-bias trade-off](late-pretest-variance-bias-tradeoff.md) — a broader claim this one bears on
+- Deciding whether to collect and use late pretest data in RCTs involves a variance-bias trade-off — a broader claim this one bears on

@@ -43,6 +43,6 @@ Descriptive bibliometric analysis of 321 eligible WoS articles on WCF in L2 writ
 
 
 ## Related Claims
-- [The highest-centrality keywords in WCF-in-L2-writing research were student, corrective feedback, accuracy, acquisition and L2 writing](wcf-high-centrality-keywords.md) — related
-- [Yu Shulin and Lee Icy were the most productive WCF-in-L2-writing authors, Assessing Writing and Journal of Second Language Writing the leading journals, and University of Macau the leading institution](wcf-leading-authors-journals-institutions.md) — related
-- [WCF research trends shifted from accuracy and error correction, through efficacy of feedback strategies and scope, to teacher practices, motivation, student engagement and automated feedback](wcf-research-trends-shift.md) — related
+- The highest-centrality keywords in WCF-in-L2-writing research were student, corrective feedback, accuracy, acquisition and L2 writing — related
+- Yu Shulin and Lee Icy were the most productive WCF-in-L2-writing authors, Assessing Writing and Journal of Second Language Writing the leading journals, and University of Macau the leading institution — related
+- WCF research trends shifted from accuracy and error correction, through efficacy of feedback strategies and scope, to teacher practices, motivation, student engagement and automated feedback — related

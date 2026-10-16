@@ -44,7 +44,7 @@ CP growth models (Table 5) estimated summer change between 4th and 5th grade und
 
 ## Related Claims
 - [Accounting for test disengagement had minimal impact on estimates of school growth contributions, achievement gaps, and summer learning loss](disengagement-corrections-minimal-impact-effectiveness-estimates.md) — related
-- [Filtered students had much lower effort-moderated achievement, suggesting motivation filtering may bias mean estimates](filtering-removes-low-achievers-bias-risk.md) — related
+- Filtered students had much lower effort-moderated achievement, suggesting motivation filtering may bias mean estimates — related
 - [Ignoring summer loss changes which schools are identified as low performers](ignoring-summer-loss-changes-low-performer-identification.md) — related
 - [Rapid guessing had mostly minimal effects on estimates of school contributions to student growth in this sample](rapid-guessing-minimal-school-growth-estimates.md) — related
 - [Removing disengaged examinees from the sample will likely induce bias in estimates of educational effectiveness](removing-disengaged-examinees-induces-bias.md) — related

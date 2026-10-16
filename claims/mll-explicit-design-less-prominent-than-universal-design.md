@@ -43,7 +43,7 @@ Qualitative open coding of seven interviews (October-December 2024) with public 
 
 
 ## Related Claims
-- [Only a minority of studies systematically evaluated features designed for multilingual learners](mll-edtech-features-rarely-systematically-evaluated.md) — related
+- Only a minority of studies systematically evaluated features designed for multilingual learners — related
 - [Existing MLL-focused edtech overwhelmingly offers English and Spanish, with a third offering only those two languages](mll-edtech-landscape-english-spanish-dominant.md) — related
-- [Most research articles on technology for young multilingual learners did not evaluate impacts on learning outcomes](mll-edtech-studies-rarely-evaluate-learning-outcomes.md) — related
-- [Research on technology for young multilingual learners concentrates on literacy, with few studies in science, mathematics, or social studies](mll-edtech-research-literacy-dominant.md) — related
+- Most research articles on technology for young multilingual learners did not evaluate impacts on learning outcomes — related
+- Research on technology for young multilingual learners concentrates on literacy, with few studies in science, mathematics, or social studies — related

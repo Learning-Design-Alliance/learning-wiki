@@ -63,3 +63,4 @@ The distribution of teacher non-instructional rates (Figure 2) splits observed t
 
 ## Related Claims
 - [In one synthesis of group-based mastery learning, five observational studies found more time-on-task in mastery classes and one community-college evaluation found lower attrition in seven of eight disciplines](mastery-improves-engagement-attrition.md) — related
+- [Teachers and students in elementary resource rooms remained on task during reading instruction, with overall student engagement averaging 2.76 on a 3-point scale](resource-room-reading-instruction-on-task-engagement.md) — related

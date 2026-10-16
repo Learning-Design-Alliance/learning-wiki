@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/constant-error-rate-rising-skill-correct.md
+---
+
+# Revision history: [claims/constant-error-rate-rising-skill-correct](../claims/constant-error-rate-rising-skill-correct.md)
+
+### 2026-10-16 · ingest · process:wiki-ingest
+Ingested from zot-ritter-2007-cognitive-tutor-applied-research-in-mathematics-education (Cognitive Tutor: Applied research in mathematics education) via eval_harness.py + ingest_extractions.py

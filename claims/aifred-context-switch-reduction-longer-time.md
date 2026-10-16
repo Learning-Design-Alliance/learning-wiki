@@ -69,3 +69,4 @@ Across all tasks, mean completion time was "higher with AIfred (349.5 seconds vs
 - [AIfred and ChatGPT produce comparable math scores while assistance is available](aifred-chatgpt-comparable-assisted-math.md) — related
 - [The authors of one robot-projection study interpret co-located AI guidance as most useful when instructions and task share a spatial frame, as in drawing](spatial-colocation-benefit-task-dependent.md) — related
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
+- [Pico-projector interaction with maps improves task completion time, errors and satisfaction over smart phone screens](pico-projector-interaction-advantages-over-smartphone-screens.md) — related

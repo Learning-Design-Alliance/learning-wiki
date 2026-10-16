@@ -59,7 +59,7 @@ The article's abstract frames test-taking motivation as a construct-irrelevant f
 
 ## Related Claims
 - Effort-moderated scoring yields more accurate achievement scores and better person fit than traditional MLE scoring when rapid guessing is present — related
-- [Filtered students had much lower effort-moderated achievement, suggesting motivation filtering may bias mean estimates](filtering-removes-low-achievers-bias-risk.md) — related
+- Filtered students had much lower effort-moderated achievement, suggesting motivation filtering may bias mean estimates — related
 - In simulation, effort-moderated scoring (EM-CAT and EG-CAT) yields negligible bias and nominal 95% confidence interval coverage, unlike MLE-CAT scoring — related
 - [Disengagement produced both positive and negative distortion of individual student scores, which tended to cancel out much of the net distortive effect on school means](positive-negative-distortion-cancellation.md) — reports the opposite
 - [Effort-moderated scoring yields more accurate scores than traditional scoring on an adaptive achievement test](effort-moderated-scoring-more-accurate-than-traditional.md) — related

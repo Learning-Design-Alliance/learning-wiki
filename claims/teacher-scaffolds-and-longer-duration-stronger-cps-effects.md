@@ -62,4 +62,4 @@ Subgroup analysis by intervention duration (Table 4): 1–4 weeks (4 effect quan
 
 
 ## Related Claims
--
+- [Scaffold effects peak at 2–4 weeks of treatment and decrease dramatically for treatments lasting 9–24 weeks](treatment-duration-moderates-scaffold-effects.md) — reports the opposite

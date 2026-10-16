@@ -45,10 +45,10 @@ The study's summary states it "examined the effects of five design factors on kn
 ## Related Claims
 - [Changing the default order in which schools are presented induces meaningful changes in the types of schools low-income parents choose](default-order-changes-school-choice.md) — a narrower finding that bears on this claim
 - [Displaying data with icons or concise summaries led parents to choose schools with higher academic performance than graphs, numbers, or detailed displays](icons-concise-summaries-higher-performing-schools.md) — a narrower finding that bears on this claim
-- [For a 72-arm factorial experiment (five factors with two or three levels each), a classical experiment requires nearly twice the sample size of a Bayesian experiment for a given MDE](bayesian-72-arm-half-sample-size-classical.md) — related
+- For a 72-arm factorial experiment (five factors with two or three levels each), a classical experiment requires nearly twice the sample size of a Bayesian experiment for a given MDE — related
 - [Setting the default sort order to academic performance instead of distance from home induces parents to choose academically higher performing schools](default-sort-academic-performance-shifts-school-choices.md) — a narrower finding that bears on this claim
 - [Display design affected parents' understanding of school information and their self-reported satisfaction and ease of use](display-design-understanding-satisfaction-ease.md) — a narrower finding that bears on this claim
-- [Traditional statistical inference methods may require prohibitively large sample sizes for complex factorial experiments](classical-inference-prohibitive-sample-sizes-factorial.md) — related
-- [Bayesian factorial analysis controls the risk of false positives from multiple comparisons while increasing precision](bayesian-partial-pooling-precision-false-positive-control.md) — related
+- Traditional statistical inference methods may require prohibitively large sample sizes for complex factorial experiments — related
+- Bayesian factorial analysis controls the risk of false positives from multiple comparisons while increasing precision — related
 - [How school information is presented can affect how parents rank their school choices](school-info-presentation-affects-school-rankings.md) — a broader claim this one bears on
 - [FEIP implementation was associated with improvements in parents' knowledge and attitudes about family engagement and their uptake of family engagement supports](feip-parent-knowledge-attitudes-uptake-improvements.md) — related

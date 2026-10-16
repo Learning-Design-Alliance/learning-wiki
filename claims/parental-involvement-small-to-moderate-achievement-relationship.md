@@ -48,6 +48,6 @@ The article's meta-analysis of the quantitative literature on parental involveme
 ## Related Claims
 - [Parental aspiration/expectation for children's educational achievement has the strongest relationship with academic achievement among involvement components](parental-aspiration-expectation-strongest-relationship.md) — a narrower finding that bears on this claim
 - [Parental home supervision has the weakest relationship with students' academic achievement among involvement components](parental-home-supervision-weakest-relationship.md) — a narrower finding that bears on this claim
-- [The quantitative literature on parental involvement and achievement is sparse and inconsistent compared with a largely qualitative and nonempirical literature](parental-involvement-literature-largely-qualitative-inconsistent.md) — related
+- The quantitative literature on parental involvement and achievement is sparse and inconsistent compared with a largely qualitative and nonempirical literature — related
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — a narrower finding that bears on this claim
 - [The parental involvement–achievement relationship is stronger for global achievement indicators (e.g., GPA) than for subject-specific indicators (e.g., math grade)](involvement-stronger-with-global-achievement-indicators.md) — a narrower finding that bears on this claim

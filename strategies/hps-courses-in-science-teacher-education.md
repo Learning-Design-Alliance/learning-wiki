@@ -17,7 +17,7 @@ sources:
 # Include history and philosophy of science courses in preservice and graduate science teacher education programmes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The preface recommends that science teacher education address epistemology directly: teachers need not just first-order understanding of subject content but second-order understanding of its epistemology and place in the intellectual scheme of things. It states that "One way to reduce these deficiences in science education debate is to have history and philosophy of science courses included in preservice and graduate programmes," a goal the journal Science & Education promotes.
@@ -41,8 +41,6 @@ The preface recommends that science teacher education address epistemology direc
 ## Claims
 
 - [Cognitive constructivism has strong empirical support and suggests new directions for science education, and must be distinguished from metaphysical constructivism](../claims/grandy-cognitive-vs-metaphysical-constructivism.md) [+W]
-- [Phillips criticises social constructivism for advancing strong but untenable claims that are then qualified to the level of triteness](../claims/phillips-untenable-social-constructivist-claims.md) [~W]
-- [Slezak argues the Edinburgh strong programme's core claims are flawed, while Suchting defends Bloor's social constructivist account against those criticisms](../claims/slezak-suchting-strong-programme-debate.md) [~W]
 
 ## Related Strategies
 - 

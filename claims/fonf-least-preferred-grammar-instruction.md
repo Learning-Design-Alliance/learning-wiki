@@ -47,5 +47,5 @@ Descriptive statistics from the survey of 927 students grouped by year of study.
 - [Preferred instruction type shifted by year: Prep School, freshman and sophomore students preferred implicit instruction while junior and senior students preferred meaning-focused instruction](year-of-study-shifts-preferred-grammar-instruction.md) — related
 - [All student groups preferred explicit over implicit grammar instruction](efl-students-prefer-explicit-over-implicit-grammar-instruction.md) — related
 - [All student groups preferred deductive over inductive grammar instruction](efl-students-prefer-deductive-over-inductive-grammar-instruction.md) — related
-- [Grammatical skill is not the focus of Second Language Acquisition, per the study's synthesis of SLA theories and methods](grammar-not-focus-of-sla-synthesis.md) — reports the opposite
+- Grammatical skill is not the focus of Second Language Acquisition, per the study's synthesis of SLA theories and methods — reports the opposite
 - [Prep School and undergraduate students differed significantly on overall beliefs, MFI-FFI and FonF-FonFs, but not on implicit-explicit or inductive-deductive preferences](prep-undergrad-belief-differences-mixed-across-constructs.md) — related

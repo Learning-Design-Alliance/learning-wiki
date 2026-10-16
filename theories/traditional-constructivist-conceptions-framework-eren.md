@@ -16,7 +16,7 @@ sources:
 # Traditional versus constructivist conceptions of teaching/learning framework
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article organizes prospective teachers' conceptions about teaching/learning under two philosophically grounded categories: traditional and constructivist conceptions. Traditional teaching is described as teacher-centered knowledge transmission in which students are passive recipients, whereas the constructivist approach is student-centered, involving "facilitating understanding, collaboration in learning process, and knowledge construction based on students' previous learning experiences". The study measures both conceptions with the TLCQ (Chan & Elliott, 2004) in value and practice forms, and pairs them with three assessment-conception dimensions (making learning explicit, promoting learning autonomy, performance orientation) drawn from James and Pedder's (2006) framework.
@@ -38,7 +38,6 @@ The article organizes prospective teachers' conceptions about teaching/learning 
 
 ### Claims
 - [Prospective Teachers Value Constructivist More Than Practised](../claims/prospective-teachers-value-constructivist-more-than-practised.md) [+M]
-- [Four Patterns Consonance Dissonance Pca](../claims/four-patterns-consonance-dissonance-pca.md) [+M]
 
 ## Related Theories
 

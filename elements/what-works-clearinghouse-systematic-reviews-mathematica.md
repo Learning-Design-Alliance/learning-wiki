@@ -17,7 +17,7 @@ sources:
 # What Works Clearinghouse systematic reviews conducted by Mathematica Policy Research
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 theoretical), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The What Works Clearinghouse is an initiative through which systematic reviews are conducted, with Mathematica Policy Research carrying out "several other systematic reviews ... on behalf of other federal agencies". The author's perspectives in this paper are explicitly formed through her involvement in the What Works Clearinghouse, making it the practical context in which the article's considerations about review design and funding were developed.
@@ -38,8 +38,6 @@ The What Works Clearinghouse is an initiative through which systematic reviews a
 
 ## Claims
 
-- [Systematic reviews are designed to answer a question and prevent information overload for decision makers](../claims/systematic-reviews-prevent-information-overload.md) [+W]
-- [Systematic reviews serve decision makers by identifying relevant studies, assessing evidence quality, and summarizing valid findings](../claims/systematic-reviews-identify-assess-summarize-for-decision-makers.md) [+W]
 
 ## Related Elements
 

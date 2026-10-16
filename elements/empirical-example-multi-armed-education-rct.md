@@ -17,7 +17,7 @@ sources:
 # Empirical example using data from a multi-armed education RCT
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (2 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article includes an empirical demonstration applying its design-based estimators to real data from a multi-armed education randomized controlled trial. As the abstract states, "An empirical example using data from a multi-armed education RCT demonstrates the issues." The example illustrates the variance adjustment and block-weighting issues the article identifies for multi-armed designs.
@@ -38,10 +38,7 @@ The article includes an empirical demonstration applying its design-based estima
 
 ## Claims
 
-- [The developed estimators apply to a wide range of education research designs, including clustered and blocked designs](../claims/design-based-estimators-clustered-blocked-designs.md) [+W]
-- [In multi-armed trials seeking the most effective treatments, each pairwise contrast sample is representative of the full set of randomized units](../claims/pairwise-contrast-samples-represent-full-randomized-set.md) [+W]
 - [Variance terms in multi-armed RCT estimators need slight adjustment under the finite-population framework, which can reduce precision](../claims/variance-adjustment-reduces-precision-multi-armed.md) [+W]
-- [Design-based estimators for two-group designs require modification for multi-armed designs when comparing pairs of research groups](../claims/multi-armed-estimators-modify-two-group-estimators.md) [+W]
 
 ## Related Elements
 - 

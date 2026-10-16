@@ -89,7 +89,7 @@ Sanders, M. R., Markie-Dadds, C., Tully, L. A., & Bor, W. (2000). The triple P-p
 - [Cognitive apprenticeship](../theories/cognitive-apprenticeship.md) — the modeling–coaching–fading sequence describes exactly how coached parent training scaffolds complex interaction skills.
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — instructional support that helps novice parents can become inefficient for those who already possess the component skills.
 - [Feedback improves learning](../elements/feedback.md) — feedback at the point of performance is the ingredient information-only formats structurally lack.
-- [Coaching components are inconsistently reported: face-to-face feedback appeared in 94% of studies but coaching fidelity was collected in only 50%](coaching-components-inconsistently-reported.md) — related
+- Coaching components are inconsistently reported: face-to-face feedback appeared in 94% of studies but coaching fidelity was collected in only 50% — related
 - [Dialogic Reading Improves Expressive Language](dialogic-reading-improves-language-outcomes.md) — related
 - [Disruptive student behavior is associated with less academic engaged time and lower achievement](disruptive-behavior-lowers-engagement-and-achievement.md) — related
 - [Research on value education in India reports that lecturing on values does not transact values effectively to children](lecturing-on-values-does-not-transact-values-effectively.md) — related

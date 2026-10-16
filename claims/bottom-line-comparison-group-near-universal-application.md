@@ -45,5 +45,5 @@ Survey of Cohort 1 students reported in the study characteristics section; the s
 ## Related Claims
 - [Twelfth graders report high rates of college-preparation actions, with 80 percent at Sample School reporting they applied for financial aid versus 68 percent across CPS](twelfth-graders-financial-aid-application-rates.md) — related
 - [Bottom Line increases progression in college (continuous enrollment for three semesters after high school)](bottom-line-increases-progressing-in-college.md) — related
-- [The supporting evidence for Bottom Line comes from a randomized controlled trial that meets WWC group design standards without reservations](bottom-line-evidence-from-rct-meeting-wwc-standards.md) — related
+- The supporting evidence for Bottom Line comes from a randomized controlled trial that meets WWC group design standards without reservations — related
 - [Bottom Line increases enrollment in a four-year college among low-income high school students](bottom-line-increases-four-year-college-enrollment.md) — related

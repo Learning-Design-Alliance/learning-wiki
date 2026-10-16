@@ -17,7 +17,7 @@ sources:
 # Mathematica Working Paper 29 on charter high schools' long-term attainment and earnings effects
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (7 for) · 4 studies (2 causal, 2 associational), `q2`–`q3` · 0 of 4 report an effect size · 7 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 4 studies (2 causal, 2 associational), `q2`–`q3` · 0 of 4 report an effect size · 6 claims rest on one study
 
 ## Description
 A published working paper (Working Paper 29, published Jan 30, 2014) by Mathematica Policy Research in its Evidence/Publications series, categorized under Human Services, Education, and School Choice and Charters. The publisher describes it as discussing "a new analysis, using data from Florida and Chicago" of charter high schools' long-term outcomes. It serves as the source document for the attainment and earnings findings.
@@ -45,7 +45,6 @@ A published working paper (Working Paper 29, published Jan 30, 2014) by Mathemat
 - [Charter high schools have positive effects on educational attainment in Florida and Chicago](../claims/charter-high-schools-positive-attainment-effects-florida-chicago.md) [+M]
 - [Charter high school attendees experience higher earnings in their mid-20s](../claims/charter-high-schools-higher-mid-twenties-earnings.md) [+W]
 - [The study examines charter high school effects on educational attainment in two settings, Florida and Chicago](../claims/charter-attainment-study-florida-chicago-scope.md) [+W]
-- [Charter school research has historically focused on test scores, with longer-term outcomes only recently examined](../claims/charter-research-shift-from-test-scores-to-long-term-outcomes.md) [+M]
 
 ## Related Elements
 

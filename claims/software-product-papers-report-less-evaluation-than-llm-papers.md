@@ -63,5 +63,5 @@ Share of papers annotated as reporting no evaluation (the none reported category
 
 ## Related Claims
 - Review automation has shifted toward LLM- and software-facing workflows and into review stages that can alter the evidence base — a broader claim this one bears on
-- [Reporting coverage increases with LLM workflow complexity, from prompt-only to engineered and retrieval/adapted/agentic methods](reporting-richness-increases-with-llm-workflow-complexity.md) — a narrower finding that bears on this claim
+- Reporting coverage increases with LLM workflow complexity, from prompt-only to engineered and retrieval/adapted/agentic methods — a narrower finding that bears on this claim
 - [The software-product reporting gap persists within each review stage, and reported precision and recall vary widely across approaches](software-reporting-gap-persists-across-review-stages.md) — related

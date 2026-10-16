@@ -71,8 +71,8 @@ Spearman correlation analysis of continuous factors in the survey. Training dura
 - Family demographics were largely unrelated to goal setting, with child gender the only associated variable — related
 - [The impact of FAST did not differ significantly by student subgroups or school characteristics in the RCT](fast-no-subgroup-differential-impact.md) — related
 - [Student demographics affect parents' perceptions of school quality](demographics-affect-perceived-school-quality.md) — related
-- [Subgroup analyses in education impact evaluations can also be based on participants' experiences, mediators, and outcomes measured after program implementation](post-intervention-mediator-subgroup-analyses.md) — related
-- [Subgroup (moderator) analyses in education impact evaluations can be based on participant characteristics measured before the intervention is implemented](pre-intervention-moderator-analyses.md) — related
+- Subgroup analyses in education impact evaluations can also be based on participants' experiences, mediators, and outcomes measured after program implementation — related
+- Subgroup (moderator) analyses in education impact evaluations can be based on participant characteristics measured before the intervention is implemented — related
 - [There was no clear pattern to the relationship between student, teacher, and school characteristics and the effectiveness of the interventions.](no-clear-pattern-characteristics-and-effectiveness.md) — related
 - [Too few studies exist to draw robust conclusions on moderating factors (age, gender, screen size, dosage, SAMR-based activities) or on whether benefits persist beyond the post-test](mobile-device-moderators-insufficient-evidence.md) — related
 - [Platform treatment effects did not vary across demographic subgroups, suggesting equal benefit regardless of racial background](mastery-platform-effects-uniform-across-demographics.md) — related

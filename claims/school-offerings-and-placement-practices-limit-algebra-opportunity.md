@@ -44,7 +44,7 @@ The printed title of the brief names school offerings and placement practices as
 
 ## Related Claims
 - [Access to 8th-grade Algebra remains highly inequitable across the United States](8th-grade-algebra-access-inequitable-nationwide.md) — related
-- [The study examined both school Algebra offerings and student placement practices](algebra-access-two-mechanisms-offerings-and-placement.md) — possibly the same claim (merge candidate)
+- The study examined both school Algebra offerings and student placement practices — possibly the same claim (merge candidate)
 - [Algebra access gaps are tied to school poverty levels, geography, and race/ethnicity](algebra-access-gaps-poverty-geography-race.md) — related
 - [A 2026 research brief examines whether taking Algebra in 8th grade instead of 9th grade improves student outcomes](nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief.md) — related
 - [The brief examines how outcomes were affected for students who were or were not ready for 8th-grade Algebra](algebra-outcomes-ready-versus-not-ready-students.md) — related

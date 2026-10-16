@@ -47,4 +47,4 @@ Systematic WWC review of four RCTs meeting standards without reservations, total
 - [Phonological awareness training plus letter knowledge training has potentially positive effects on preschoolers' phonological processing](pat-lk-potentially-positive-phonological-processing.md) — related
 - [Phonological Awareness Training has positive effects on phonological processing in preschool children, averaging +27 percentile points](phonological-awareness-training-positive-effects-phonological-processing.md) — related
 - [Four of six standards-meeting studies showed statistically significant positive effects and two showed substantively important positive effects on phonological processing](phonological-awareness-training-six-studies-significance-pattern.md) — related
-- [Of 225 reviewed studies of phonological awareness training, only four RCTs met WWC evidence standards without reservations](phonological-awareness-training-thin-rct-evidence-base.md) — related
+- Of 225 reviewed studies of phonological awareness training, only four RCTs met WWC evidence standards without reservations — related
