@@ -43,6 +43,7 @@ The review reports this second-hand, citing Fan et al. (2025); the underlying ra
 
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+- [Metacognition](../learner-variables/metacognition.md) — outcome: instruction changes it
 
 ## Related Claims
 

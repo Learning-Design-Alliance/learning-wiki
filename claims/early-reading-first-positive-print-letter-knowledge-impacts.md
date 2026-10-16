@@ -42,6 +42,9 @@ The national evaluation report to Congress states the program "had positive, sta
 ## Discussion
 
 
+## Learner Variables
+- [Alphabet Knowledge and Print Awareness](../learner-variables/alphabet-knowledge-and-print-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Early Reading First improved instructional content and practices in preschool classrooms](early-reading-first-classroom-practice-impacts.md) — related
 - [The PD program had a large and significant impact on classroom print environments in rural Rwanda](rwanda-literacy-boost-print-environment.md) — related

@@ -42,6 +42,9 @@ Across multiple chat logs on different problems, Student D asked the expected ou
 ## Discussion
 
 
+## Learner Variables
+- [Critical Thinking](../learner-variables/critical-thinking.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Hardware debugging with an LLM assistant takes multiple prompts and more patience than software debugging](hardware-debugging-takes-multiple-prompts.md) — related
 - [LLM-assisted hardware debugging requires consistent human feedback because the LLM's understanding of the circuit drifts](llm-debugging-requires-consistent-human-feedback.md) — related

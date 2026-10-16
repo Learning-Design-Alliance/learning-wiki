@@ -42,5 +42,9 @@ A logic-model statement in the partnership document specifying the long-term stu
 ## Discussion
 
 
+## Learner Variables
+- [Operations and Place Value](../learner-variables/operations-and-place-value.md) — outcome: instruction changes it
+- [Proportional Reasoning](../learner-variables/proportional-reasoning.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The partnership targets improved teacher instruction in eliciting student thinking, using representations, and focusing on math reasoning](tft-teacher-instruction-improvement-targets.md) — related

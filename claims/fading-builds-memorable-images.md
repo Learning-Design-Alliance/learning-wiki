@@ -42,6 +42,9 @@ Theoretical argument from the review's abstract, presented as the third of four 
 ## Discussion
 
 
+## Learner Variables
+- [Algebraic Thinking](../learner-variables/algebraic-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Concreteness fading provides advantages beyond the sum of the benefits of concrete and abstract materials considered independently](manipulatives-require-connection-to-concept.md) — related
 - [Concreteness fading helps learners interpret ambiguous or opaque abstract symbols in terms of well-understood concrete objects](fading-helps-interpret-abstract-symbols.md) — related

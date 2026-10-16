@@ -63,3 +63,5 @@ This is a systematic review synthesis (WWC Intervention Report, mathematics achi
 - [Under the i3 scale-up grant, TFA planned to grow its corps by 80 percent and aimed for a majority of its teachers to be rated highly effective by the 2014-2015 school year](tfa-i3-grant-growth-and-effectiveness-goals.md) — related
 - [Secondary math students taught by Teach For America teachers outperformed peers taught by traditional-route teachers by 0.06 standard deviations](tfa-secondary-math-outperforms-traditional-006-sd.md) — a narrower finding that bears on this claim
 - The authors propose creating America's Teacher Corps through federal legislation to recognize highly effective K-12 public school teachers — related
+- [Students of certified teachers outperformed students of under-certified teachers, including TFA teachers, on all three SAT-9 subtests in low-income districts](certified-outperform-undercertified-sat9.md) — reports the opposite
+- [Students of TFA teachers did not perform significantly differently from students of other under-certified teachers](tfa-no-different-other-undercertified.md) — reports the opposite

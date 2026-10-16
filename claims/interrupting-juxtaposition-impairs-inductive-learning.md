@@ -51,3 +51,4 @@ Online experiment with 102 Mechanical Turk participants studying photos of eight
 - [The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests](interleaving-not-spacing-persists-over-delay.md) — related
 - [Learners overwhelmingly judge blocking more effective than interleaving even when their test performance favors interleaving](metacognitive-illusion-blocking-interleaving.md) — related
 - The most effective intervention types provided counterstereotypical exemplar experience, evaluative conditioning, or strategies to override biases — related
+- [Categorization accuracy was significantly higher for infrequently alternated categories than for frequently alternated categories](infrequent-alternation-higher-accuracy.md) — reports the opposite

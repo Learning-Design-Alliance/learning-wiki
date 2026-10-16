@@ -42,6 +42,9 @@ Robust variance estimation meta-analysis of six studies providing 15 effect size
 ## Discussion
 
 
+## Learner Variables
+- [Home Learning Environment](../learner-variables/home-learning-environment.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Caregiver-directed shared book-reading interventions have a small positive effect on child receptive language (d=0.26)](book-sharing-receptive-language-small-effect.md) — related
 - [Improvements in caregiver book-sharing behaviour mediate the intervention's impact on child language (one mediation analysis)](caregiver-book-sharing-competence-mediation.md) — related

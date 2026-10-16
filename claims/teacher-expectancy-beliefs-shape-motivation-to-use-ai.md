@@ -90,3 +90,4 @@ Theoretical argument in the same section, offered as an example with no data: th
 - Effortful learning strategies posed a student motivation challenge at d.tech, which teachers addressed by explaining the underlying science directly to students — related
 - [AI applications support prompt engineering, professional skill development, technology acceptance, and active participation in science and chemistry education](ai-outcome-themes-prompt-skills-technology-acceptance.md) — related
 - [Teachers combined high concern about education's future with belief that change requires active effort and that AI is associated with progress](concern-effort-progress-perceptions.md) — related
+- [AI applications in STEM education foster positive affective perception, including attitude, interest, and motivation](ai-stem-positive-affective-perception-effects.md) — related

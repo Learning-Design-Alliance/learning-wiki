@@ -48,3 +48,4 @@ The review reports, citing the optimal reminders experiments of Gilbert et al. (
 - [Individuals show a systematic positive reminder bias, setting more reminders than optimal](positive-reminder-bias.md) — related
 - [Effort avoidance contributes to reminder overuse beyond metacognitive error](effort-avoidance-reminder-bias.md) — related
 - [Feedback interventions show phase-specific effects: advice feedback reduces reminder bias, but ranking feedback alters beliefs without increasing offloading](feedback-effects-on-offloading-mixed.md) — related
+- [Task accuracy is far higher with reminders than internal memory and is unaffected by reminder framing](reminder-accuracy-unaffected-by-framing.md) — related

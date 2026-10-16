@@ -51,3 +51,4 @@ Thematic categorical analysis of the 13 included studies, reported in the review
 - [In second-language teaching for pupils with special educational needs, Pepper was associated with higher participation than digital tablets](pepper-vs-tablets-higher-participation-sen-language.md) — related
 - [Inclusion of learners with special educational needs is typically implicit rather than explicitly designed even in advanced agentic AI systems](inclusion-implicit-not-designed-in-agentic-systems.md) — related
 - [AI most often serves as an assistant or draft generator (33.3% of studies) in teacher-AI design collaboration, while co-designer or partner roles appear in only 13.3%](ai-mostly-assistant-draft-generator-not-co-designer.md) — related
+- [Pedagogical agents as coaches and tutors are most useful with novice learners, while virtual role-players benefit learners across expertise levels](agents-most-effective-novice-learners.md) — related

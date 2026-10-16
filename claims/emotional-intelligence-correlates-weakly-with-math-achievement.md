@@ -22,6 +22,7 @@ sources:
 # Emotional intelligence correlates only weakly with mathematics achievement (r = .16), less than with achievement in the humanities
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q3` · `i1` small · n=30 meta-analyses, 66 correlations from 13,853 effect sizes (~4.66 million participants)
 
 Emotional intelligence correlates r = .16 with mathematics achievement (MacCann et al. 2020, k = 258, n = 9,750), the weakest of the aptitude variables. These are correlations compiled across meta-analyses: they describe how strongly the characteristic goes with mathematics achievement, not what causes it.
 

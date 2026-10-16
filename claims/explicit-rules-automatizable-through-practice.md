@@ -42,6 +42,9 @@ Experimental study of automatization: 61 subjects first reached criterion on met
 ## Discussion
 
 
+## Learner Variables
+- [Syntax](../learner-variables/syntax.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Learning of second language morphosyntactic rules is highly skill-specific: comprehension practice yields comprehension skill and production practice yields production skill](skill-specificity-l2-grammar-practice.md) — related
 - [Automatized L2 morphosyntactic skills develop very gradually over time, following a power function learning curve like other cognitive skills](l2-skill-development-power-function-curve.md) — related

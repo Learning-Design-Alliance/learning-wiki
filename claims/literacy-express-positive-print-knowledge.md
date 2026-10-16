@@ -80,6 +80,9 @@ In the PCER Florida randomized trial (188 children analyzed), TERA-3, WJ-III Let
 ## Discussion
 
 
+## Learner Variables
+- [Alphabet Knowledge and Print Awareness](../learner-variables/alphabet-knowledge-and-print-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Literacy Express shows no discernible effects on cognition and math for preschool children](literacy-express-no-effects-cognition-math.md) — related
 - [Literacy Express has positive effects on oral language for preschool children, with significant effects in two of three studies](literacy-express-positive-oral-language.md) — related

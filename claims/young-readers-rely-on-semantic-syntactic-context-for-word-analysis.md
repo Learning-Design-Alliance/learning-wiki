@@ -43,6 +43,9 @@ The review reports Schwantes' (1991) study using "third grade, sixth grade, and 
 ## Discussion
 
 
+## Learner Variables
+- [Reading Fluency](../learner-variables/reading-fluency.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - Combined semantic and syntactic contextual information expedites word recognition compared with syntactic information alone — related
 - Children use content words before function words, and semantics in general appears to precede syntax — related

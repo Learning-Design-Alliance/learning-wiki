@@ -12,6 +12,7 @@ generated:
 # Syntax
 
 > **Learner Variable** · [All learner variables](index.md)
+> **Evidence** · 19 claims (13 show a difference, 3 mixed, 3 no difference) · 17 studies (5 causal, 4 quant-synthesis, 4 review, 2 associational, 1 design, 1 theoretical), `q2`–`q3` · 1 of 17 report an effect size · 16 claims rest on one study
 
 ## Description
 Syntax is knowledge of how sentences work: how the order of words, the arrangement of clauses and the use of punctuation change what a sentence means. Readers draw on it to work out who did what to whom in a long sentence, and writers draw on it to turn an idea into a sentence that says what they intend. It is assessed through samples of a learner's speech or writing, coded for features such as words per clause and clauses per sentence, and through standardised language batteries with syntax subtests.
@@ -35,6 +36,25 @@ Syntactic knowledge starts to develop in early childhood and keeps growing throu
 
 ## Claims
 <!-- Claims reporting findings about this variable, with evidence tags -->
+- [Beginner EFL learners taught with proactive FOF scored significantly higher on a grammar posttest than learners taught with reactive FOF](../claims/proactive-fof-beats-reactive-beginners-grammar.md) [+M] — instruction changes it
+- [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [+M] — instruction changes it
+- [Effects of linguistic comprehension instruction differ by outcome domain: small for vocabulary and grammar, moderate for narrative and listening comprehension](../claims/differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening.md) [~W] — instruction changes it
+- [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](../claims/explicit-teaching-complex-rules-only-advantage.md) [~S] — instruction changes it
+- [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](../claims/explicit-l2-grammar-instruction-superior-to-implicit.md) [+M] — instruction changes it
+- [Explicit teaching of grammar rules enhances their learning, and rules are learned faster and better when repeated in communicative tasks](../claims/explicit-rules-learned-faster-in-communicative-tasks.md) [+M] — instruction changes it
+- [Explicitly learned L2 rules can be automatized through systematic practice after a metalinguistic criterion is reached](../claims/explicit-rules-automatizable-through-practice.md) [+M] — instruction changes it
+- [Korean EFL learners sort sentences increasingly by construction rather than by verb as grade level increases](../claims/construction-based-sorting-increases-with-grade-level.md) [+M] — learners who differ on it differ in outcomes
+- [Learners acquired untaught syntactic properties but failed to show sensitivity to agreement they had been explicitly taught and practiced](../claims/untaught-syntax-acquired-taught-agreement-not.md) [~W] — instruction changes it
+- [Light verbs drive construction-based sorting in intermediate-level but not beginner or advanced EFL learners](../claims/light-verbs-modulate-intermediate-sorting.md) [+M] — learners who differ on it differ in outcomes
+- [Lynch and Maclean's carousel task showed immediate repetition benefits in pronunciation, vocabulary and grammar](../claims/carousel-task-immediate-repetition-benefits.md) [+M] — instruction changes it
+- [Neither feedback mode produced differential improvements in syntactic complexity; a general time effect appeared only in the first task](../claims/syntactic-complexity-no-differential-effect.md) [-W] — instruction changes it
+- [No differential effect of explicit instruction depending on the variable morphology/syntax](../claims/no-differential-explicit-instruction-effect-morphology-syntax.md) [-W] — an instructional effect differs with it
+- [Oral language measures of syntax, listening comprehension, and oral vocabulary do not predict which English learners will struggle with learning to read](../claims/oral-language-measures-do-not-predict-reading-struggle.md) [-M] — learners who differ on it differ in outcomes
+- [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](../claims/skill-specificity-l2-grammar-practice.md) [+M] — instruction changes it
+- [Preselection of grammar points in proactive FOF reduced learners' repetition and fossilization of erroneous forms](../claims/proactive-fof-reduces-error-fossilization.md) [+W] — instruction changes it
+- [Processing instruction produces significant gains in both sentence-level comprehension and production](../claims/processing-instruction-gains-comprehension-and-production.md) [+M] — instruction changes it
+- [Review reports a controlled comparison favoring teacher-led instruction over student-centered instruction for grammar learning](../claims/teacher-led-outperformed-student-centered-grammar.md) [+W] — instruction changes it
+- [Upper-intermediate EFL learners taught with proactive FOF scored significantly higher on a grammar posttest than learners taught with reactive FOF](../claims/proactive-fof-beats-reactive-upper-intermediate-grammar.md) [+M] — instruction changes it
 
 ## Measures
 - **Measures of syntactic complexity** (Beers & Nagy, 2007): Student writing samples are coded to identify how many words per clause and clauses per T-units (sentences) students use.

@@ -41,6 +41,9 @@ Authors' interpretation from examining test papers: "a large majority of the DM 
 
 ## Discussion
 
+## Learner Variables
+- [Algebraic Thinking](../learner-variables/algebraic-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Three weeks of explicit language-focused strategy instruction produced no significant word-problem gain in this study](explicit-strategy-instruction-no-significant-gain.md) — the general claim this finding bears on, with the studies behind it

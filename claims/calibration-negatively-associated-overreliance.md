@@ -39,6 +39,9 @@ Correlation analysis (Table 4) among participants in the two AI-assisted conditi
 
 ## Discussion
 
+## Learner Variables
+- [Metacognition](../learner-variables/metacognition.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Access to AI advice roughly doubled reported confidence in answers in one experiment](ai-access-inflates-confidence.md) — the general claim this finding bears on, with the studies behind it

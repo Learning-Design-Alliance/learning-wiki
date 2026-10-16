@@ -61,3 +61,4 @@ The article's abstract states the central finding of the two computer-based expe
 - [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — related
 - [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md) — a broader claim this one bears on
 - [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md) — related
+- [Example–problem pairs and examples-only are more effective than problem–example pairs for novices, with no significant difference between the first two](example-problem-ordering-novices.md) — related

@@ -43,6 +43,7 @@ Risk finding from the systematic review's thematic analysis of 50 empirical stud
 
 ## Learner Variables
 - [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
+- [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — outcome: instruction changes it
 
 ## Related Claims
 

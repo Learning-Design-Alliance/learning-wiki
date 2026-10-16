@@ -43,5 +43,8 @@ The authors' experiential report from their own courses, not a controlled study:
 ## Discussion
 
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [A unilateral grading contract guarantees students a course grade of B based solely on completion of specified activities, not on judged writing quality](contract-guarantees-b-for-completion-not-quality.md) — related

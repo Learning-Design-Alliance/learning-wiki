@@ -45,6 +45,7 @@ Multiple regression on MSLQ learning-strategy factors from 97 Japanese universit
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — predictor: learners who differ on it differ in outcomes
+- [Metacognition](../learner-variables/metacognition.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [High-proficiency EFL learners use more metacognitive strategies, effort regulation, and coping with problems than low-proficiency learners](high-proficiency-learners-use-more-strategies.md) — related
@@ -53,3 +54,4 @@ Multiple regression on MSLQ learning-strategy factors from 97 Japanese universit
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — a broader claim this one bears on
 - Teacher ratings predicted reading achievement better than common language proficiency tests (41% vs 0-4% additional variance) — related
 - [Metacognitive strategies and prior coding experience significantly predict CT profile membership, with metacognition contributing more strongly](metacognition-coding-experience-predict-ct-profile.md) — related
+- [IQ, psychological empowerment, self-realization, and self-regulation subscale scores contributed significantly to variance in hourly pay, while number of vocational education classes did not](self-determination-subdomains-predict-wage-vocational-classes-do-not.md) — related

@@ -22,6 +22,7 @@ sources:
 # General and fluid intelligence correlate strongly with mathematics achievement (r = .41 to .62), and the fluid-intelligence correlation is larger in older samples
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q3` · `i3` large · n=30 meta-analyses, 66 correlations from 13,853 effect sizes (~4.66 million participants)
 
 General intelligence correlates r = .49 with mathematics achievement (Roth et al. 2015, k = 100), fluid intelligence .41 (Peng et al. 2019, k = 1,129) and a PASS composite .62 (Georgiou et al. 2020). These are correlations compiled across meta-analyses: they describe how strongly the characteristic goes with mathematics achievement, not what causes it.
 

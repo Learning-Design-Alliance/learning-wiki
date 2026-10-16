@@ -40,6 +40,9 @@ Hierarchical multiple regression on survey data (N = 818 for this model) predict
 ## Discussion
 
 
+## Learner Variables
+- [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Critical-ethical awareness plays a dual role: it negatively predicts general GenAI reliance but positively predicts shortcut reliance](critical-ethical-awareness-dual-role-reliance.md) — related
 - [AI literacy is the strongest predictor of reliance type: each unit increase in AI literacy is associated with roughly a tenfold reduction in the odds of Dependent versus Strategic classification](ai-literacy-predicts-reliance-type-membership.md) — related

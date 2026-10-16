@@ -40,6 +40,9 @@ Student feedback survey on the Compact Writing Assignments implemented in Pilot 
 ## Discussion
 
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Sunnyside students participating in the Compact Writing Assignments pilot completed quarterly research papers at a rate more than 15 percent higher than non-participants](sunnyside-writing-engagement-15-percent-increase.md) — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related

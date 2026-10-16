@@ -52,3 +52,4 @@ The guide cites research at primary and secondary educational levels as the basi
 - [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — related
 - [Whether individual or peer practice works better with ASR-based pronunciation training is unsettled: one study found individual work best, a meta-analysis found peer practice gave larger effects](individual-work-best-asr-pronunciation-training.md) — related
 - [Educators who implemented FH2T through partner or group work perceived it promoted peer collaboration and mathematical discussion](fh2t-promoted-peer-collaboration-discussion.md) — related
+- [Cooperative concept mapping produces better meaningful learning than individualistic concept mapping](cooperative-concept-mapping-better-than-individual.md) — a narrower finding that bears on this claim

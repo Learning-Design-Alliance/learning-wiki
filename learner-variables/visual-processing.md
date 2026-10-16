@@ -12,6 +12,7 @@ generated:
 # Visual Processing
 
 > **Learner Variable** · [All learner variables](index.md)
+> **Evidence** · 11 claims (6 show a difference, 5 mixed) · 9 studies (3 causal, 3 review, 1 quant-synthesis, 1 associational, 1 design), `q2`–`q4` · 3 of 9 report an effect size · 11 claims rest on one study
 
 ## Description
 Visual processing is what the brain does with the input that comes through vision: recognising, ordering and interpreting visual information. It lets learners recognise letters, numbers and symbols, read quickly and accurately, copy and solve problems correctly, and work with diagrams, drawings and geometric shapes; visual-motor integration, the coordination of hand and eye, is part of it and supports handwriting. Learners with dyslexia or dyscalculia may process words and numbers visually in different ways, which the LVN traces in many cases to phonological difficulties that disrupt visual attention during reading. It is measured with visual discrimination and matching tasks, figure-copying and design-copying tests, block design and mental rotation tasks, and computer-based tasks that use non-linguistic symbols so language skills do not affect scores. It overlaps closely with [spatial ability](spatial-ability.md), and is distinct from eyesight itself, which [access](access.md) covers.
@@ -34,6 +35,17 @@ Visual processing is what the brain does with the input that comes through visio
 
 ## Claims
 <!-- Claims reporting findings about this variable, with evidence tags -->
+- [CCT yields small significant gains in nonverbal memory, working memory, and visuospatial skills, but only weak evidence for verbal memory](../claims/cct-domain-gains-nonverbal-wm-visuospatial-verbal-weak.md) [+M] — instruction changes it
+- [Dual-mode (auditory plus visual) presentation of worked examples enhances subsequent problem-solving efficiency, except under high visual-search conditions without attention cues](../claims/dual-mode-worked-example-presentation.md) [~W] — an instructional effect differs with it
+- [In one eye-tracking experiment, revising math-relevant visuals changes fixation length on them differently by prior knowledge group, with shorter fixations under the revised visuals for low prior knowledge students](../claims/revised-visuals-cognitive-load-math-visuals-interaction.md) [~W] — instruction changes it
+- [Linguistic coherence predicts productive collaboration, strengthened by joint visual attention data](../claims/linguistic-coherence-predicts-productive-collaboration.md) [~W] — an instructional effect differs with it
+- [Personalized ChatGPT-supported feedback in an augmented-reality quantum physics laboratory improved learning outcomes and directed visual attention](../claims/chatgpt-ar-lab-feedback-improves-outcomes.md) [+M] — instruction changes it
+- [Proactive feedback produces significant post-intervention increases in Joint Visual Attention of dyads](../claims/propact-feedback-increases-jva-post-intervention.md) [+M] — instruction changes it
+- [Qualitative analysis found radiation became perceptible in VR for all participants, while all reported operability differences favoring conventional training](../claims/qualitative-themes-visualization-versus-operability.md) [+M] — instruction changes it
+- [Revised visuals reduce cognitive processing of math-relevant visuals for low prior knowledge students but increase it for middle prior knowledge students](../claims/revised-visuals-processing-math-visuals-interaction.md) [~M] — instruction changes it
+- [Step-linked visual grounding externalizes spatial reasoning: synchronized diagrams that reveal auxiliary lines step by step reduce split-attention effort](../claims/step-linked-visualization-externalizes-reasoning.md) [+W] — instruction changes it
+- [Students working with multi-view program visualizations spend nearly half their attention on the code view, with attention distribution varying by task topic](../claims/gaze-anchored-in-code-despite-multi-view-scaffolds.md) [~W] — instruction changes it
+- [VR-based training with radiation field visualization received significantly higher ratings for radiation understanding and visualization than conventional training (r=0.878)](../claims/vr-radiation-visualization-higher-understanding-ratings.md) [+M] — instruction changes it
 
 ## Measures
 - **NAB Visual Discrimination Task** (Stern & White, 2003): a match-to-sample task measuring adults' visual perception and visual-spatial skill.

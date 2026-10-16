@@ -42,6 +42,9 @@ The guide's own synthesis of the studies supporting Recommendation 3, stated in 
 
 ## Discussion
 
+## Learner Variables
+- [Mathematical Flexibility](../learner-variables/mathematical-flexibility.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Strategy Instruction Needs Conditional Knowledge](strategy-instruction-needs-conditional-knowledge.md) — the general claim this finding bears on, with the studies behind it

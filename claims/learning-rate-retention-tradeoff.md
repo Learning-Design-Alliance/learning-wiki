@@ -42,6 +42,10 @@ The review reports, citing Smith, Ghazizadeh and Shadmehr (2006), evidence from 
 ## Discussion
 
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — predictor: learners who differ on it differ in outcomes
+- [Processing Speed](../learner-variables/processing-speed.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — related

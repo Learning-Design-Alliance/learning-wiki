@@ -42,6 +42,9 @@ The review cites an RCT (Stasinaki et al.) where AI incorporation did not improv
 ## Discussion
 
 
+## Learner Variables
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Purpose-built AI chatbots show generally promising short-term improvements in physical activity and dietary behaviors](health-behavior-change-short-term-promising.md) — related
 - [Purpose-built AI chatbot coaching is generally well received and supports short-term motivation and selected behavior change, but effects on sustained, meaningful outcomes are inconsistent](purpose-built-chatbot-coaching-short-term-benefits-inconsistent-sustained.md) — a broader claim this one bears on

@@ -61,6 +61,9 @@ Findings table for the Olson et al. (2020) scale-up randomized controlled trial,
 ## Discussion
 
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Implementation differences between intervention and comparison classrooms emerged by the end of the intervention period](pathway-implementation-differences-emerged-late.md) — related
 - [The Pathway to Academic Success Project has potentially positive effects on literacy achievement for English learners in grades 6-12](pathway-project-potentially-positive-literacy-achievement.md) — related

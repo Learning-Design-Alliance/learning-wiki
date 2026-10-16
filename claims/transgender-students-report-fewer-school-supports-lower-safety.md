@@ -44,6 +44,7 @@ Descriptive analysis of pooled 2017–19 California Healthy Kids Survey response
 
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — predictor: learners who differ on it differ in outcomes
+- [Identity](../learner-variables/identity.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Transgender, gay/lesbian, bisexual, and 'something else' students report significantly poorer outcomes than non-transgender and straight peers on all 14 measures](lgbtq-subgroups-poorer-all-14-measures.md) — a broader claim this one bears on

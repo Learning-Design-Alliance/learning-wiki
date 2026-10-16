@@ -42,6 +42,9 @@ Qualitative observation of student-teacher interactions in 23 classes. Researche
 ## Discussion
 
 
+## Learner Variables
+- [Social Supports](../learner-variables/social-supports.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Observed classes in high-performing CHSRI schools showed high or medium student engagement and calm, well-behaved classrooms, with only one low-engagement class](chsri-classes-engagement-calm.md) — related
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — a broader claim this one bears on

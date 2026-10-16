@@ -65,6 +65,9 @@ Same randomized lottery-based analysis of the 2016 election. The report states t
 
 
 
+## Learner Variables
+- [Civic Mindedness](../learner-variables/civic-mindedness.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Civic-education-focused schooling can boost civic participation in adulthood](civic-focused-education-boosts-adult-participation.md) — a broader claim this one bears on

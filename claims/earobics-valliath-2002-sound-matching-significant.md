@@ -61,6 +61,9 @@ Same quasi-experiment; the WWC analyzed four CTOPP phonological awareness subtes
 ## Discussion
 
 
+## Learner Variables
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [In a Los Angeles RCT, Earobics® plus Open Court improved phonological awareness but not letter knowledge, phonics, or fluency](earobics-cognitive-concepts-2003-phonological-awareness-gains.md) — related
 - [In an Anchorage RCT with severe differential attrition, Earobics® effects on alphabetics were not statistically significant and one subtest showed a substantively important negative effect](earobics-rehmann-2005-null-and-negative-effects.md) — related

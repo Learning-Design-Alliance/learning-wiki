@@ -52,6 +52,9 @@ Meta-analysis of 29 studies on spaced retrieval practice, split into two subsets
 
 **Design implication.** The one meta-analysis recorded above compares spaced with massed retrieval, not retrieval with restudy, so the "outperforms restudy" half of this claim still rests on the separate testing-effect literature. Practitioners should pair spaced retrieval with feedback and success rates high enough that retrieval attempts are effortful but achievable. In practice this means scheduling retrieval attempts at expanding or fixed intervals across sessions rather than within one sitting, keeping initial retrieval success rates moderate (learners should sometimes struggle but usually succeed), and correcting errors immediately after each attempt.
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — working-memory constraints shape how much can be successfully retrieved in one attempt

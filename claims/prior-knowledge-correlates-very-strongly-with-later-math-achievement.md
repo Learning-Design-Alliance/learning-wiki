@@ -22,6 +22,7 @@ sources:
 # Prior mathematical knowledge correlates very strongly with later mathematics achievement (r = .63), largely reflecting stable differences between learners
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q3` · `i3` large · n=30 meta-analyses, 66 correlations from 13,853 effect sizes (~4.66 million participants)
 
 Prior mathematical knowledge correlates r = .63 with later mathematics achievement (Simonsmeier et al. 2022, k = 950, corrected for unreliability), the second-largest of 66 correlates. These are correlations compiled across meta-analyses: they describe how strongly the characteristic goes with mathematics achievement, not what causes it.
 

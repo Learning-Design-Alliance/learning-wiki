@@ -75,6 +75,7 @@ This meta-analysis synthesized studies on the effects of vocabulary instruction 
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
 
 ## Related Claims
 

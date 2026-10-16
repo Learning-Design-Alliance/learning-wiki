@@ -44,6 +44,9 @@ Researchers ran a 5-day e-textile maker camp using [identity-centered e-textile 
 ## Discussion
 This is a single, short (5-day), self-selected, small-sample (n=9) camp with no comparison group and no standardized measure of STEM learning, identity, or belonging — findings rest on participant-authored artifacts, fieldnotes, and interviews. Participants opted into an already queer-affirming camp, so they may have arrived with more fluid views than a general population; the study cannot separate "the camp changed participants' views" from "the camp gave already-fluid views room to be expressed." The short duration also means nothing is known about whether the reported sense of integrated identity persisted once participants returned to less affirming everyday school/STEM environments.
 
+## Learner Variables
+- [Identity](../learner-variables/identity.md) — outcome: instruction changes it
+
 ## Related Claims
 - (none yet linked)
 - [Restorying supports Black girls' identification of and resistance to dominant narratives in computing](restorying-supports-computing-identity-reconstruction.md) — related

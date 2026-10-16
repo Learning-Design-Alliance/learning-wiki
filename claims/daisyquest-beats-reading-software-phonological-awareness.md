@@ -42,6 +42,9 @@ Randomized comparison of 49 at-risk first graders assigned to DaisyQuest, Hint a
 ## Discussion
 
 
+## Learner Variables
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [DaisyQuest outperformed math-oriented control software on phonological awareness and phonics measures](daisyquest-beats-math-software-alphabetics.md) — related
 - [DaisyQuest matched teacher-delivered phonological awareness instruction but beat other instructional software in low-progress readers](daisyquest-versus-teacher-instruction-mixed.md) — related

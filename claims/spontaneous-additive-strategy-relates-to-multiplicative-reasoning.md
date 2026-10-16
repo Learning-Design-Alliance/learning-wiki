@@ -46,6 +46,10 @@ Thirty-one fourth graders solved a single addition word problem (8+7=15) via cli
 ## Discussion
 The exploratory design (n=31, single urban school, no control condition) limits generalizability, and the authors explicitly call for a larger confirmatory study. The association is correlational — a spontaneous strategy was observed, not assigned — so the claim supports diagnostic use (inferring number-sequence stage from an addition strategy) rather than a causal claim that teaching break-apart-make-ten as a procedure would, by itself, produce multiplicative reasoning. The paper's companion citation of a separate teacher-intervention study (average mDC success rising from 14% to 39% year-over-year, Cohen's d=0.83) is suggestive but reported only as background, not as part of this study's own design.
 
+## Learner Variables
+- [Mathematical Flexibility](../learner-variables/mathematical-flexibility.md) — predictor: learners who differ on it differ in outcomes
+- [Proportional Reasoning](../learner-variables/proportional-reasoning.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - (none yet linked)
 - Challenges of students with learning difficulties in constructing multiplicative double counting may stem from conceptually born factors beyond memory issues — related

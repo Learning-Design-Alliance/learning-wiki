@@ -74,6 +74,9 @@ One-way ANOVA on perceived independent thinking across clusters; the article des
 ## Discussion
 
 
+## Learner Variables
+- [Problem Solving](../learner-variables/problem-solving.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Cluster analysis identifies three stable learner profiles: Engaged and Literate, Uncritical Reliant, and Skeptical Minimal users](three-genai-learner-profiles.md) — related
 - [Profiles differ in immediate usage behaviors: Engaged and Literate users verify most, while Skeptical Minimal users report the highest shortcut reliance](profile-differences-usage-behaviors.md) — related

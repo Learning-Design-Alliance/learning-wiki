@@ -44,6 +44,9 @@ A Norwegian lower-secondary science class was video-recorded across an 11-lesson
 ## Discussion
 The authors are explicit that the co-variation between student-resource invocation and multi-party discussion is not established as causal ("we cannot ascertain a causal relationship"). The three-sequence contrast is illustrative rather than a systematic experiment — it demonstrates the pattern exists and is analytically well-supported by transcript evidence, but with only one instance of the dialogic pattern documented in this level of detail, its reliability across topics, teachers, and classes is untested.
 
+## Learner Variables
+- [Communication Skills](../learner-variables/communication-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — the general claim this finding bears on, with the studies behind it

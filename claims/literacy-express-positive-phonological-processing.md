@@ -80,6 +80,10 @@ PCER Florida randomized trial (188 children analyzed) using the Pre-CTOPPP Elisi
 ## Discussion
 
 
+## Learner Variables
+- [Communication Skills](../learner-variables/communication-skills.md) — outcome: instruction changes it
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Literacy Express shows no discernible effects on cognition and math for preschool children](literacy-express-no-effects-cognition-math.md) — related
 - [Literacy Express has positive effects on oral language for preschool children, with significant effects in two of three studies](literacy-express-positive-oral-language.md) — related

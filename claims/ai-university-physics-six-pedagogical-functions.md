@@ -50,3 +50,4 @@ The review's synthesis of 11 included studies (Section 3.3) characterizes the pe
 - [Within sociocultural theory, teacher feedback and AI-assisted peer feedback function as heterogeneous scaffolds with distinct natures and complementary advantages](heterogeneous-scaffolds-sct-framework.md) — related
 - [Many contemporary generative AI tools serve multiple educational purposes, with several tools appearing in multiple typology categories](genai-tools-multipurpose-multiple-categories.md) — related
 - [Intelligent tutoring systems have been shown to improve upon typical classroom instruction](its-improve-upon-typical-classroom-instruction.md) — related
+- [Pedagogical agents as coaches and tutors are most useful with novice learners, while virtual role-players benefit learners across expertise levels](agents-most-effective-novice-learners.md) — related

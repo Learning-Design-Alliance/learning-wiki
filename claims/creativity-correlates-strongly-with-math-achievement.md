@@ -22,6 +22,7 @@ sources:
 # Creativity correlates strongly with mathematics achievement in school (r = .47), more so in elementary than in high school
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q3` · `i3` large · n=30 meta-analyses, 66 correlations from 13,853 effect sizes (~4.66 million participants)
 
 Creativity, mostly measured as divergent thinking, correlates r = .47 with mathematics achievement in school (Bicer et al. 2021, k = 30, n = 11,418). These are correlations compiled across meta-analyses: they describe how strongly the characteristic goes with mathematics achievement, not what causes it.
 

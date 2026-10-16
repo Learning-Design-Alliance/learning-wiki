@@ -41,6 +41,9 @@ The article reports this solution-variety contrast from Kapur's (2014) experimen
 
 ## Discussion
 
+## Learner Variables
+- [Problem Solving](../learner-variables/problem-solving.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Direct instruction's advantages do not persist over the longer term](direct-instruction-advantages-vanish-long-term.md) — the general claim this finding bears on, with the studies behind it

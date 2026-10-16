@@ -66,3 +66,4 @@ Follow-up observation reported by the authors, citing Buyarski (2016): after the
 - First-year seminar participation is associated with higher retention and graduation rates — related
 - The ePortfolio social pedagogy ecosystem appears to be an effective way for students to integrate deeper learning and document developing information literacy competencies as self-assessment — related
 - [Colleges adopted new technology platforms to increase efficiencies, but face challenges sustaining their use after the grant ends](technology-platforms-efficiency-adoption-sustainability-challenge.md) — related
+- [First-semester transfer students taking one general education course persisted at rates 15-20% lower than similar non-takers, an effect absent when the course was taken in a later term](first-term-transfer-persistence-penalty-specific-course.md) — related

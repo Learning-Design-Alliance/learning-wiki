@@ -61,6 +61,9 @@ Same RCT, second comparison arm. Appendix A3.1 shows effect sizes from 0.00 to 0
 ## Discussion
 
 
+## Learner Variables
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Lexia Early Reading shows no significant advantage over Earobics on alphabetics, with several negative effects substantively important](lexia-versus-earobics-alphabetics-comparison.md) — possibly the same claim (merge candidate)
 - [Lexia Early Reading outperforms no supplemental instruction on kindergarten alphabetics outcomes in Gale (2006), significant by author but not WWC calculations](lexia-versus-control-kindergarten-alphabetics.md) — related

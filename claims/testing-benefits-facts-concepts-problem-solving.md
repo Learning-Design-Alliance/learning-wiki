@@ -42,5 +42,8 @@ Meta-analytic analysis coding exam content into fact learning, concept learning,
 ## Discussion
 
 
+## Learner Variables
+- [Problem Solving](../learner-variables/problem-solving.md) — outcome: instruction changes it
+
 ## Related Claims
 -

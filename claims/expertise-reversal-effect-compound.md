@@ -55,3 +55,4 @@ This narrative review attributes the expertise reversal effect to Kalyuga et al.
 - [In one meta-regression, the PS-I fidelity benefit tended to shrink for interventions spanning only a few hours, a marginal interaction (p = .055)](psi-fidelity-time-span-interaction.md) — related
 - [The article analyzes the consequences of explaining the various cognitive load effects in terms of element interactivity](cognitive-load-effects-reexplained-via-element-interactivity.md) — related
 - [The expertise reversal effect relies on changes in relative levels of element interactivity due to changes in relative levels of expertise](expertise-reversal-changes-from-expertise-levels.md) — a narrower finding that bears on this claim
+- [Expertise reversal: high-guidance worked examples become ineffective or detrimental once learners have developed cognitive schemata](expertise-reversal-worked-examples.md) — possibly the same claim (merge candidate)

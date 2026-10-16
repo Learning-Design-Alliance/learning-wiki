@@ -52,3 +52,4 @@ Open-ended survey of 12 California districts (eight largest plus four small rura
 - Michigan's teacher vacancy data are severely underreported, with nearly 90% of districts reporting zero vacancies in 2021-22 — related
 - Fresno’s Skillful Leader Project improved teacher retention and hiring — related
 - [District leaders report pandemic-era teacher workloads have at least doubled, contributing to burnout concerns and earlier-than-planned retirements](pandemic-teacher-workload-increase-burnout-retirement.md) — related
+- [Schools reporting hiring difficulties are almost twice as likely to have above-average teacher turnover rates](hiring-difficulties-correlated-with-high-turnover.md) — related

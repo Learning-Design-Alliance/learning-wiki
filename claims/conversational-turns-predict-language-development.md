@@ -86,6 +86,7 @@ The shift from "word count" to "conversational turns" as the operative mechanism
 ## Learner Variables
 
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Home Learning Environment](../learner-variables/home-learning-environment.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 

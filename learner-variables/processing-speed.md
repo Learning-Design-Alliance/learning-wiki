@@ -12,6 +12,7 @@ generated:
 # Processing Speed
 
 > **Learner Variable** · [All learner variables](index.md)
+> **Evidence** · 8 claims (2 show a difference, 6 mixed) · 5 studies (2 quant-synthesis, 1 causal, 1 review, 1 qualitative), `q1`–`q4` · 1 of 5 report an effect size · 8 claims rest on one study
 
 ## Description
 Processing speed (the LVN calls it speed of processing) is how quickly a learner perceives and processes information and formulates a response. Reading and mathematics both require it constantly: a reader takes in letters, words, punctuation and layout, a mathematics learner numbers, shapes and symbols, and each has to choose and apply the right skills fast enough to keep the whole task in view. It grows quickly in the early years and keeps improving through adolescence, may dip during puberty, and declines with age in older adults. It is measured with timed tasks, such as pattern-matching and cancellation subtests of cognitive batteries and rapid automatised naming, though naming tasks also draw on vocabulary. It is related to [working memory](working-memory.md), since faster processing lets more be rehearsed and held, and to fluid reasoning in [general cognitive ability](general-cognitive-ability.md). Slow processing is also reported in learners with hearing loss and with dyslexia, which overlaps [learning disabilities](learning-disabilities.md).
@@ -34,6 +35,14 @@ Processing speed (the LVN calls it speed of processing) is how quickly a learner
 
 ## Claims
 <!-- Claims reporting findings about this variable, with evidence tags -->
+- [CCT improves processing speed with a moderate effect, the largest domain effect, though with large heterogeneity](../claims/cct-processing-speed-moderate-effect.md) [~M] — instruction changes it
+- [Diverse and uniform training contexts dissociate: processing ease and semantic representation diverge early in learning](../claims/diversity-dissociation-processing-versus-semantics.md) [+M] — instruction changes it
+- [Explainability's effect on trust in AI-enabled systems is mixed: it can increase trust and reliance but also raises cognitive load, slows performance, and sometimes does not improve trust](../claims/explainability-mixed-effect-on-trust.md) [~W] — instruction changes it
+- [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](../claims/learning-rate-retention-tradeoff.md) [~W] — learners who differ on it differ in outcomes
+- [Group-based CCT is effective while home-based CCT is not](../claims/cct-group-based-effective-home-based-not.md) [~M] — an instructional effect differs with it
+- [Pilot instructors reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed](../claims/socratic-test-faculty-differentiation.md) [~W] — an instructional effect differs with it
+- [Training more than three sessions per week neutralizes CCT efficacy, while one or 2–3 sessions per week are effective](../claims/cct-frequency-above-three-sessions-ineffective.md) [~M] — an instructional effect differs with it
+- [Words encountered in diverse contexts are identified faster, with a mean 26-ms advantage](../claims/diverse-contexts-speed-word-identification.md) [+M] — instruction changes it
 
 ## Measures
 - **Woodcock-Johnson Tests of Cognitive Abilities** (Schrank, Mather, & McGrew, 2014): includes number-pattern matching, pair cancellation and letter-pattern matching subtests of processing speed.

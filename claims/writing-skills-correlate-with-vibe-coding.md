@@ -57,6 +57,10 @@ Partial correlations controlling for cognitive ability (Table 3b) in the same st
 ## Discussion
 
 
+## Learner Variables
+- [Communication Skills](../learner-variables/communication-skills.md) — predictor: learners who differ on it differ in outcomes
+- [Writing Skills](../learner-variables/writing-skills.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Domain-general cognitive skills correlate positively with vibe-coding performance, CS achievement, and writing skills](cognitive-skills-correlate-with-vibe-coding-and-predictors.md) — related
 - [CS achievement significantly predicts vibe-coding performance and remains a significant predictor after controlling for domain-general cognitive ability](cs-achievement-predicts-vibe-coding-performance.md) — related

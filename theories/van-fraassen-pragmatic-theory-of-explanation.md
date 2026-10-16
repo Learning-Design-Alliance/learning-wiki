@@ -46,4 +46,4 @@ The article presents Van Fraassen's (VF) pragmatic theory of explanation as "ess
 -
 
 ## Key Sources
-- Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40.
+- Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40. [doi:10.3926/jotse.137](https://doi.org/10.3926/jotse.137)

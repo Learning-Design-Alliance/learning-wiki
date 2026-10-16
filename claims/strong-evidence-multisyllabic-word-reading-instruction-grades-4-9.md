@@ -59,6 +59,9 @@ Evidence rating from the practice guide's Recommendation 1 section: a WWC expert
 
 
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Practice making sense of stretch text has moderate evidence, based on 15 studies](moderate-evidence-stretch-text-practice-grades-4-9.md) — related

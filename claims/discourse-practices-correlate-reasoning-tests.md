@@ -39,6 +39,9 @@ The primer's What Does the Research Say section reports, citing Tao & Chen (2024
 
 ## Discussion
 
+## Learner Variables
+- [Communication Skills](../learner-variables/communication-skills.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Preliminary explicit instruction in scientific reasoning patterns (e.g., IAT statement construction) produced much larger LCTSR gains (g = 0.68) than courses without such intervention (g = 0.11)](explicit-reasoning-instruction-preliminary-large-gains.md) — the general claim this finding bears on, with the studies behind it

@@ -41,6 +41,7 @@ Authors' overall interpretation of the quasi-experimental results, not a separat
 
 ## Learner Variables
 - [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
+- [Problem Solving](../learner-variables/problem-solving.md) — outcome: instruction changes it
 
 ## Related Claims
 

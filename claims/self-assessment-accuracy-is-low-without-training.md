@@ -123,3 +123,4 @@ A meta-analysis of 51 quantitative studies comparing students' self-assessed mar
 - [Sequencing worked examples with practice problems improves learning for novices](worked-example-problem-sequences.md) — related
 - [A theoretical article, citing two simulation studies, reports that novice clinical learners overestimated their performance and that their confidence exceeded their accuracy](novice-metacognitive-calibration-deficits.md) — a narrower finding that bears on this claim
 - [Students' expertise on the task may be an important prerequisite for accurate self-assessment](task-expertise-prerequisite-ssa-accuracy.md) — related
+- [ChatGPT use does not change absolute self-evaluation accuracy, but self-evaluation judgments fail to correlate with performance under ChatGPT assistance](chatgpt-no-accuracy-difference-poor-calibration.md) — related

@@ -48,6 +48,9 @@ Twelve youth in a decade-old community STEM-making program ("Green Club") were f
 ## Discussion
 This is a rich, well-triangulated single-program qualitative study, not a comparative or causal design: there is no comparison group of youth in a conventional (non-justice-oriented) maker-entrepreneurship program, so the claims describe what this program's participants did and became, not what any maker-entrepreneurship program would produce. The longitudinal follow-up (documented shifts sustained 1+ year later, and a deliberate return to the fair the following year with a sharper justice focus) is a genuine strength that distinguishes this from a single-moment case study.
 
+## Learner Variables
+- [Identity](../learner-variables/identity.md) — outcome: instruction changes it
+
 ## Related Claims
 - (none yet linked)
 - [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — related

@@ -44,6 +44,7 @@ Qualitative case study finding on family engagement across the three study schoo
 
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
+- [Home Learning Environment](../learner-variables/home-learning-environment.md) — outcome: instruction changes it
 
 ## Related Claims
 - Female principals empowered others through shared ownership, committee involvement, and staff development — related

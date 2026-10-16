@@ -42,5 +42,8 @@ The agenda reports a planning study conducted with Chapin Hall providing descrip
 ## Discussion
 
 
+## Learner Variables
+- [Adverse Experiences](../learner-variables/adverse-experiences.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [At the close of the first full year, PKTP's communication about the importance of transition was unclear to many teacher and parent participants](pktp-transition-message-unclear-to-participants.md) — related

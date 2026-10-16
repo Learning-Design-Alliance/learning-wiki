@@ -61,6 +61,9 @@ Comparison of year-to-year risk persistence by grade in the 2023/24 and earlier 
 ## Discussion
 
 
+## Learner Variables
+- [Statistical Reasoning](../learner-variables/statistical-reasoning.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Risk status is largely stable within the year, but 40 percent of students at risk at beginning of year met benchmark by end of year, and students on track by middle of year were significantly more likely to meet the end-of-year benchmark](boy-risk-40-percent-recover-by-eoy.md) — related
 - [Students at later grade levels were more likely to remain at risk across school years than students at earlier grade levels](cross-grade-risk-persistence.md) — a narrower finding that bears on this claim

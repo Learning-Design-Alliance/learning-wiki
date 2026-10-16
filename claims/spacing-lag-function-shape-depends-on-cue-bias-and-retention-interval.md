@@ -43,6 +43,7 @@ The article reviews Glenberg's (1976) continuous recognition memory experiment, 
 
 ## Learner Variables
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — predictor: learners who differ on it differ in outcomes
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
 
 ## Related Claims
 
@@ -51,3 +52,4 @@ The article reviews Glenberg's (1976) continuous recognition memory experiment, 
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Recent research identifies time intervals during which spaced study should occur to maximize memory retention](optimal-spacing-intervals-maximize-retention.md) — related
 - [In paired-associate paradigms, the lag function is decreasing at very short retention intervals, inverted U-shaped at slightly longer intervals, and monotonically increasing at long intervals](paired-associate-lag-function-retention-interval.md) — related
+- [Recall of between-lists repeated words matched two-independent-representations predictions at short retention intervals but exceeded independence after long retention intervals](independence-to-nonindependence-between-lists-recall.md) — related

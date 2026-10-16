@@ -61,6 +61,9 @@ Program-specific victimization analysis (Table 4): OBPP Norway (n = 5) OR = 1.57
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Program effectiveness varies by country: Greece led for perpetration, Italy for victimization](anti-bullying-effectiveness-varies-by-country.md) — related
 - [Effectiveness of anti-bullying programs varies significantly across evaluations (heterogeneity)](anti-bullying-program-effectiveness-heterogeneous.md) — a broader claim this one bears on

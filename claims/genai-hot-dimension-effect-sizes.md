@@ -43,6 +43,7 @@ Subgroup meta-analysis across the three HOT dimensions (Table 4): problem-solvin
 
 ## Learner Variables
 - [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
+- [Problem Solving](../learner-variables/problem-solving.md) — outcome: instruction changes it
 
 ## Related Claims
 

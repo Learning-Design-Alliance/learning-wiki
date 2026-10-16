@@ -42,6 +42,9 @@ The review reports the consistent finding from prospective, longitudinal studies
 ## Discussion
 
 
+## Learner Variables
+- [Adverse Experiences](../learner-variables/adverse-experiences.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Early Risers shows no discernible effects on emotional/internal behavior for children at risk of emotional disturbance classification](early-risers-no-effect-internal-behavior.md) — related
 - [A close bond with at least one caring adult is the most critical protective factor for resilient children](one-caring-adult-protective-bond.md) — related

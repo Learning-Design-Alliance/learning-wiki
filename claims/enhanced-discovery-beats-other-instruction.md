@@ -63,3 +63,4 @@ Random effects meta-analysis of 360 comparisons from 56 studies comparing enhanc
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related
 - [The advantage of explicit instruction over unassisted discovery is largest in the verbal/social skills domain](domain-moderates-unassisted-discovery-deficit.md) — related
+- [Studies comparing pure simulation-based discovery learning with expository teaching show no clear and univocal outcome in favor of simulations](no-clear-simulation-advantage-over-expository.md) — related

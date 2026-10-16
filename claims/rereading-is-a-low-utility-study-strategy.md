@@ -91,3 +91,6 @@ Undergraduates read educational texts (textbook chapters or a Scientific America
 - [Elaborative interrogation improved true/false test performance in an introductory biology course context](elaborative-interrogation-biology-course-context.md) — related
 - [Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive low utility assessments](five-techniques-low-utility.md) — a broader claim this one bears on
 - [Practice testing and distributed practice receive high utility assessments because their benefits generalize widely across learners, tasks, and educational contexts](practice-testing-distributed-practice-high-utility.md) — related
+- [Offering a monetary incentive in both test and study conditions strengthens the case that testing has a true learning advantage over motivated restudy](monetary-incentive-rules-out-motivation-confound.md) — related
+- [Rereading significantly improves metacomprehension monitoring accuracy relative to reading once (Experiment 1)](rereading-improves-metacomprehension-accuracy.md) — reports the opposite
+- [A self-explanation instruction during rereading improves monitoring accuracy for all readers above mere rereading (Experiment 2)](self-explanation-improves-metacomprehension-accuracy.md) — related

@@ -62,6 +62,9 @@ Same earlier single-group study (Sung et al., 2021), summarised in this article:
 ## Discussion
 
 
+## Learner Variables
+- [Algebraic Thinking](../learner-variables/algebraic-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Collaborative critique-and-redesign instruction shifts students from a value-free view of objectivity toward a procedural one](collaborative-evidence-critique-shifts-students-toward-procedural-objectivity.md) — related
 - The kindergarten teacher explicitly discussed the forms an equation can take (FORM) with the goal of expanding the range of equations students would accept as valid — related

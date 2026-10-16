@@ -54,3 +54,4 @@ Narrative review of the expertise reversal literature. The review states that in
 - [The cognitive architecture has been used to design a variety of novel instructional procedures](architecture-generated-novel-instructional-procedures.md) — related
 - [Within cognitive load theory, the element interactivity and expertise reversal effects are usually not treated as closely related effects](effects-usually-treated-as-unrelated-in-clt.md) — related
 - [Self-instruction techniques yielded the highest mean effect size (2.71) among self-management intervention types, with self-monitoring the predominant technique used](self-management-ebd-intervention-type-es.md) — related
+- [Instructional method and prior knowledge interact on conceptual understanding of statistics (expertise reversal effect)](expertise-reversal-conceptual-understanding-statistics.md) — a narrower finding that bears on this claim

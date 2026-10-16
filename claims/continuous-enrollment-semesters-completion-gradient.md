@@ -68,3 +68,4 @@ Analysis of completion rates by number of semesters of continuous enrollment in 
 - [CPS graduates took more than 6,000 distinct post-secondary paths, so continuous enrollment at one college was not the standard route to a credential](cps-graduates-6000-college-paths.md) — related
 - [Bottom Line increases progression in college (continuous enrollment for three semesters after high school)](bottom-line-increases-progressing-in-college.md) — related
 - [Delaying college enrollment was associated with low completion: only 8 percent of CPS students who delayed completed a degree or credential within six years](delayed-enrollment-lower-completion.md) — related
+- [First-semester transfer students taking one general education course persisted at rates 15-20% lower than similar non-takers, an effect absent when the course was taken in a later term](first-term-transfer-persistence-penalty-specific-course.md) — related

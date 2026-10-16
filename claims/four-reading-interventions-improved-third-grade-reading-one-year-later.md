@@ -42,6 +42,10 @@ Randomized trial in which 50 schools were assigned to four interventions and stu
 ## Discussion
 
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
+- [Reading Fluency](../learner-variables/reading-fluency.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Failure Free Reading, the only word-level-plus-comprehension program, showed impacts for third graders but no impacts for fifth graders](failure-free-reading-impacts-third-grade-only.md) — related
 - [For fifth-grade struggling readers, the four interventions combined improved phonemic decoding on one measure but produced a small reduction in oral reading fluency one year after the interventions](fifth-grade-cohort-small-fluency-reduction.md) — related

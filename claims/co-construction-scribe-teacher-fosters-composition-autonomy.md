@@ -64,6 +64,7 @@ The authors' interpretation of the same Modena transcript: although the teacher 
 
 ## Learner Variables
 - [Attention](../learner-variables/attention.md) — outcome: instruction changes it
+- [Metacognition](../learner-variables/metacognition.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Collaborative Writing Improves Text Quality](collaborative-writing-improves-text-quality.md) — related

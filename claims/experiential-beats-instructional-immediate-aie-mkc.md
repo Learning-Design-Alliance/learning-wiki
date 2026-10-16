@@ -42,6 +42,9 @@ Between-group comparison of pre-post immediate change scores in a quasi-experime
 
 ## Discussion
 
+## Learner Variables
+- [Metacognition](../learner-variables/metacognition.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — the general claim this finding bears on, with the studies behind it

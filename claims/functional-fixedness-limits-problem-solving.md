@@ -62,6 +62,9 @@ A teacher asked students to connect nine dots using only four straight lines. Mo
 ## Discussion
 Functional fixedness and response set are both failures of problem representation rather than failures of reasoning once the problem is correctly understood — the practical implication for instruction is that when learners appear stuck, it is often more productive to ask them to examine their own unstated assumptions about the problem (as the teacher did in the classroom example) than to simply supply more solution strategies. This connects directly to the distinction between [well-structured and ill-structured problems](../theories/well-structured-vs-ill-structured-problems.md): fixedness is especially likely when a problem looks well-structured (a clear, bounded task) but in fact depends on information or constraints the solver has wrongly assumed rather than been told.
 
+## Learner Variables
+- [Problem Solving](../learner-variables/problem-solving.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [A preservice teacher's self-perceived confidence and success with traditional mathematics inhibited reinterpreting his understanding of mathematics](math-confidence-inhibits-philosophy-reinterpretation.md) — related
 - A Flexible problem-solving approach within a Fixed-Cooperative course appeared to support cooperative learning — related

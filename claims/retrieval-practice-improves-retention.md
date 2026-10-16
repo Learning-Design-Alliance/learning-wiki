@@ -217,6 +217,9 @@ Open questions that evidence entries should address include: how retrieval pract
 
 **Design implications pending evidence.** Until evidence entries are verified, practitioners should treat the strong rating as provisional. The most defensible design heuristics consistent with the claim's scope are: require learners to generate answers before re-exposing them to material; schedule retrieval attempts after a delay rather than immediately after study; and keep retrieval tasks low-stakes so errors carry diagnostic rather than evaluative weight. These follow from the claim's stated mechanism and boundary conditions, not from cited experiments on this page.
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Active learning improves exam performance.](active-learning-improves-exam-performance.md) — retrieval-oriented activity is a central ingredient of active-learning effects on exams
@@ -270,3 +273,4 @@ Open questions that evidence entries should address include: how retrieval pract
 - [Rereading Less Effective Than Retrieval Practice](rereading-less-effective-than-retrieval-practice.md)
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related
 - [A significant but negligible benefit of peer assessment (d = .122) persisted to the final exam in one college statistics course](peer-assessment-gains-persist-to-final-exam.md) — related
+- [Repeated test-restudy trials produced higher final cued recall than study-only or single test-restudy controls across both experiments](test-restudy-beats-controls.md) — a narrower finding that bears on this claim

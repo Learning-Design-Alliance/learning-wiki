@@ -54,3 +54,4 @@ The review reports Sachdeva and Gilbert (2020), who argued that reward-sensitivi
 - [Both performance-oriented goals and effort minimization motivate offloading, and effort's effect disappears when performance monitoring is considered simultaneously](effort-performance-drivers-offloading.md) — a broader claim this one bears on
 - [External reminders dramatically reduce forgetting of delayed intentions](external-reminders-reduce-forgetting.md) — related
 - [Higher-value intentions are more likely to be offloaded than lower-value ones](value-drives-offloading-selection.md) — related
+- [Participants show a significant reminder bias (overuse of reminders relative to the optimal strategy) when reminders are framed as gains](reminder-bias-under-gain-framing.md) — related

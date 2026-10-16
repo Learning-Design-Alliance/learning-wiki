@@ -101,6 +101,9 @@ Schunn, C., Godley, A., & DeMartino, S. (2016). The reliability and validity of 
 
 <!-- deprecated (2026-10-05): **Open questions.** Most of the literature contrasts novices with more advanced peers or instructors; the expertise threshold at which peer feedback becomes reliably accurate is not well established, and evidence is needed across domains before strong design prescriptions can be made. Until that evidence is added to this page, the claim should be treated as a well-motivated theoretical expectation rather than an empirically established effect. -->
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — the general claim this finding bears on, with the studies behind it

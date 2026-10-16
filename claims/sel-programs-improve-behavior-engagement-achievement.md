@@ -63,6 +63,7 @@ The review reports this meta-analysis of longer-term SEL effects as evidence of 
 
 ## Learner Variables
 - [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
 
 ## Related Claims
 - [SEL program effects are sustained over long-term follow-up periods](sel-benefits-persist-follow-up.md) — possibly the same claim (merge candidate)

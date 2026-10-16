@@ -22,6 +22,7 @@ sources:
 # Enjoyment correlates positively (r = .31), and boredom, mathematics anxiety and test anxiety negatively (r = −.23 to −.28), with mathematics achievement
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q3` · `i2` medium · n=30 meta-analyses, 66 correlations from 13,853 effect sizes (~4.66 million participants)
 
 Enjoyment correlates r = .31 with mathematics achievement and boredom −.28 (Camacho-Morles et al. 2021); mathematics anxiety −.28 (Barroso et al. 2021), test anxiety −.23 and general anxiety −.19 to −.09. These are correlations compiled across meta-analyses: they describe how strongly the characteristic goes with mathematics achievement, not what causes it.
 

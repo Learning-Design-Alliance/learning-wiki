@@ -66,3 +66,5 @@ Logistic regression Model 11 in Table 5b. The report describes faculty decision-
 - [After controlling for teacher and school background, school demographic characteristics were not significantly related to minority teacher turnover](school-demographics-not-related-to-minority-teacher-turnover.md) — related
 - Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader — a broader claim this one bears on
 - [Teachers who find their administrators unsupportive are more than twice as likely to leave as those who feel well-supported](administrative-support-double-attrition-odds.md) — related
+- [Administrative support, student discipline, and faculty influence are associated with teacher turnover after controlling for teacher and school characteristics](organizational-conditions-predict-teacher-turnover.md) — related
+- [Both younger and older teachers are more likely to depart than middle-aged teachers](u-shaped-age-turnover-relationship.md) — related

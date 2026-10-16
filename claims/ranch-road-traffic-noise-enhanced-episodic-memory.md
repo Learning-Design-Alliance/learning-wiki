@@ -40,6 +40,9 @@ The review reports that the RANCH cross-sectional study, often cited only for th
 ## Discussion
 
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Chronic aircraft noise exposure is associated with lower reading comprehension in children, with a linear exposure–effect relationship](chronic-aircraft-noise-lower-reading-comprehension.md) — related
 - [Chronic exposure to indoor noise and reverberation at school is associated with poorer children's reading and prereading skills](chronic-indoor-classroom-noise-reading-prereading.md) — related

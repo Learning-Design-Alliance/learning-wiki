@@ -43,6 +43,7 @@ Design Principle 2 section, a narrative synthesis, reports that "learning happen
 
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — predictor: learners who differ on it differ in outcomes
+- [Identity](../learner-variables/identity.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 

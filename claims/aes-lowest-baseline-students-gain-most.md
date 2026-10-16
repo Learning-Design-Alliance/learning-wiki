@@ -61,6 +61,9 @@ Executive-summary analysis of the same score dataset reports that lowest-band st
 ## Discussion
 
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Teachers' years of experience and most self-reported instructional practices did not significantly predict students' AES-measured writing growth](teacher-experience-practices-no-growth-prediction.md) — related

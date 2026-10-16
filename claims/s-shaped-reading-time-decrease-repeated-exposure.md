@@ -41,6 +41,9 @@ Growth curve analysis of eye-tracking data from native and non-native English sp
 
 ## Discussion
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — the general claim this finding bears on, with the studies behind it
@@ -48,3 +51,4 @@ Growth curve analysis of eye-tracking data from native and non-native English sp
 - [Number of exposures was the strongest predictor of incidental vocabulary learning of both word form and meaning](exposure-frequency-strongest-predictor-vocabulary-learning.md) — related
 - [Total reading time independently contributed to the learning of word meaning](total-reading-time-predicts-word-meaning.md) — related
 - [Single exposures yield partial word knowledge, and repeated encounters in varied contexts build complete word meaning (fast mapping then full mapping)](fast-mapping-full-mapping-word-learning.md) — related
+- [Participants respond increasingly faster to stimuli presented more often during the incidental letter-search task](faster-rt-more-exposures.md) — related

@@ -42,6 +42,9 @@ User study finding from 23 parent-child dyads. The role separation allowed child
 ## Discussion
 
 
+## Learner Variables
+- [Social Supports](../learner-variables/social-supports.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Child-initiated questions increased in ParaTutor modes compared to baseline tutoring conditions](child-initiated-questions-increase-paratutor.md) — related
 - [Interactive visual grounding helped children interpret word problems by making hidden relational constraints manipulable and visible](interactive-visual-grounding-relational-interpretation.md) — related

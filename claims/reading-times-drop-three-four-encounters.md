@@ -42,6 +42,9 @@ Post hoc Mann-Whitney comparisons with Bonferroni correction (.05/7 = .007) on e
 
 ## Discussion
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — the general claim this finding bears on, with the studies behind it
@@ -49,3 +52,4 @@ Post hoc Mann-Whitney comparisons with Bonferroni correction (.05/7 = .007) on e
 - [Unknown words are read significantly longer than known control words in all four eye-tracking measures](targets-read-longer-than-controls-all-measures.md) — related
 - [The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies](exposure-frequency-predicts-incidental-gains.md) — related
 - [Reading times on unfamiliar words decrease non-linearly, following an S-shaped curve, as exposures accumulate during natural reading](s-shaped-reading-time-decrease-repeated-exposure.md) — a broader claim this one bears on
+- [Participants respond increasingly faster to stimuli presented more often during the incidental letter-search task](faster-rt-more-exposures.md) — related

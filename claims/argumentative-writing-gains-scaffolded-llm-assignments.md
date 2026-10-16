@@ -41,6 +41,9 @@ Paired-sample t-tests comparing each student's Assignment 1 and Assignment 5 sco
 
 ## Discussion
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Direct GenAI-supported feedback improves immediate argument-quality gain over peer feedback, while reflective and hybrid designs outperform direct GenAI feedback](genai-feedback-design-argument-quality-gain.md) — the general claim this finding bears on, with the studies behind it

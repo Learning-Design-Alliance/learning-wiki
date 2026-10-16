@@ -42,6 +42,10 @@ The brief's synthesis of the science of learning and development states that pos
 ## Discussion
 
 
+## Learner Variables
+- [Adverse Experiences](../learner-variables/adverse-experiences.md) — moderator: an instructional effect differs with it
+- [Social Supports](../learner-variables/social-supports.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Strong relationships and supportive conditions can offset the effects of trauma on learning and behavior](relationships-offset-trauma-effects.md) — a narrower finding that bears on this claim
 - [Educator social-emotional competency and wellbeing contribute to warm student-teacher relationships and to trusted adults who model stress management for students](educator-wellbeing-supports-student-relationships.md) — related

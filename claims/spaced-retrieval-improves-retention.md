@@ -92,6 +92,9 @@ Meta-analysis (subset 1) aggregating 39 effect sizes from studies comparing spac
 
 **Evidence status.** The page records one meta-analysis (Latimier et al. 2021), which compares spaced with massed retrieval practice (g = 0.74) and expanding with uniform spacing (g = 0.034, no reliable difference). Classroom experiments combining spacing and retrieval against passive review are not yet entered here.
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Testing effect: retrieval practice improves retention](retrieval-practice-improves-retention.md) — the retrieval half of this claim, established independently
@@ -127,3 +130,5 @@ Meta-analysis (subset 1) aggregating 39 effect sizes from studies comparing spac
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — related
 - [Students' academic outcomes tentatively benefit from teacher-focused classroom management programs](teacher-focused-programs-academic-outcomes-tentative.md) — related
 - [Performance on final tests of learning is improved when multiple study sessions are spaced apart in time rather than massed in immediate succession](spacing-improves-final-test-performance.md) — related
+- [The authors' findings add to evidence that expanding-interval schedules are not more effective than fixed-interval schedules of practice](expanding-not-better-than-fixed-interval.md) — related
+- [Preschool children do not exhibit a spacing effect in free recall, although they benefit from repetition](preschoolers-no-spacing-effect-free-recall.md) — a narrower finding that bears on this claim

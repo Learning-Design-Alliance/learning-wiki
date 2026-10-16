@@ -119,3 +119,4 @@ performance](goal-setting-improves-performance.md).
 - [Mental contrasting with implementation intentions](../strategies/mental-contrasting-with-implementation-intentions.md) — the strategy the online experiments tested
 - [Youth most positively reported Project With's impact on goal setting, with 81 percent saying it made them more likely to make plans to reach their goals](project-with-perceived-impact-goal-setting.md) — a narrower finding that bears on this claim
 - [Achievement effects of group-based mastery learning are larger for elementary students than for high school or college students](mastery-effects-larger-elementary.md) — related
+- [All four students achieved above the performance levels teachers expected on the Goal Attainment Scale, exceeding their personal goals by 10% to 20%](students-exceeded-teacher-gas-expectations.md) — related

@@ -42,6 +42,9 @@ High school findings from the observational CPS analysis: school civic engagemen
 ## Discussion
 
 
+## Learner Variables
+- [Civic Mindedness](../learner-variables/civic-mindedness.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Charter schools show favorable high school graduation and college-entry results suggesting possible long-term benefits](charter-schools-favorable-graduation-and-college-entry-results.md) — related

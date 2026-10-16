@@ -42,6 +42,10 @@ The report asserts, citing the science of learning without printing a specific s
 ## Discussion
 
 
+## Learner Variables
+- [Adverse Experiences](../learner-variables/adverse-experiences.md) — moderator: an instructional effect differs with it
+- [Social Supports](../learner-variables/social-supports.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Trauma-informed practices such as safe environments and positive relationships can mitigate the effects of trauma and promote resilience](trauma-informed-practices-mitigate-trauma-promote-resilience.md) — possibly the same claim (merge candidate)
 - [Positive learning communities and collaborative social interaction drive learning](social-connection-and-collaboration-drive-learning.md) — related

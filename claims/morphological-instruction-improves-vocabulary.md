@@ -69,6 +69,9 @@ Systematic review of 22 peer-reviewed studies of morphological intervention with
 
 **Open questions.** The meta-analysis recorded above finds a moderate overall effect on literacy, largest for decoding and morphological knowledge, and no reliable effect on reading comprehension or fluency. For vocabulary specifically it reports a significant pooled effect of d̄ = 0.34 (small on this wiki's scale); dosage requirements are not characterized.
 
+## Learner Variables
+- [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Vocabulary Instruction Improves Comprehension](vocabulary-instruction-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it

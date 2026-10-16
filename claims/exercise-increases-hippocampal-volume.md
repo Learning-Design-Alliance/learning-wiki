@@ -71,6 +71,9 @@ A systematic review identified 4,398 articles, of which 14 controlled trials (73
 
 **Single-claim limitation.** The evidence recorded above qualifies the title: one year-long trial found a 2% increase in anterior hippocampal volume against a declining control group, but a meta-analysis of 14 trials found no significant effect on total hippocampal volume and a positive effect only on the left hippocampus, largely from preventing the decline seen in controls.
 
+## Learner Variables
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Acute exercise timing affects memory](acute-exercise-timing-memory.md) — when exercise is scheduled relative to learning changes its memory effects

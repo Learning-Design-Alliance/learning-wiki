@@ -42,6 +42,9 @@ Qualitative case study coding of 68 PSMTs' questionnaire responses in NVivo. M t
 ## Discussion
 
 
+## Learner Variables
+- [Statistical Reasoning](../learner-variables/statistical-reasoning.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Attributing outcomes to Allah's will among some PSMTs functioned as probabilistic reasoning, not mere personalist belief](allahs-will-as-probabilistic-reasoning.md) — related
 - [Subjectively oriented reasoning emerged in the giving-birth context but disappeared in the die-rolling task](subjective-reasoning-context-dependent.md) — related

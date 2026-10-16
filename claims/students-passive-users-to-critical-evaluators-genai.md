@@ -42,5 +42,8 @@ Finding from the mixed-methods analysis of 112 student reflections in the 12-wee
 ## Discussion
 
 
+## Learner Variables
+- [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 -

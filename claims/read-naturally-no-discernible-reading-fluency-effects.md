@@ -42,6 +42,9 @@ Randomized controlled trial (Chenault et al., 2006) reviewed under WWC standards
 ## Discussion
 
 
+## Learner Variables
+- [Reading Fluency](../learner-variables/reading-fluency.md) — outcome: instruction changes it
+
 ## Related Claims
 - [LiPS shows potentially positive effects on reading fluency: authors found significant effects on GORT–III Reading Accuracy and Reading Rate, but WWC analyses did not confirm significance](lips-reading-fluency-potentially-positive.md) — related
 - [Christ and Davie (2009) found positive, statistically significant effects of Read Naturally® Software Edition on three reading fluency measures](christ-davie-2009-significant-fluency-gains.md) — reports the opposite

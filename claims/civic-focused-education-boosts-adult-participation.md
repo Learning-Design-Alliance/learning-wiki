@@ -42,6 +42,9 @@ The authors' interpretive conclusion from the Democracy Prep evaluation: the reg
 ## Discussion
 
 
+## Learner Variables
+- [Civic Mindedness](../learner-variables/civic-mindedness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Democracy Prep charter schools increase students' voter-registration rates by about 16 percentage points](democracy-prep-increases-voter-registration-16-points.md) — a narrower finding that bears on this claim
 - [Democracy Prep charter schools increase students' voting rates by about 12 percentage points in the 2016 election](democracy-prep-increases-voting-rates-12-points.md) — a narrower finding that bears on this claim

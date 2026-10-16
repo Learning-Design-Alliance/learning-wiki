@@ -62,6 +62,9 @@ The author recounts a final round at a recent tournament where the resolution ab
 ## Discussion
 
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - Less experienced debate judges are more likely to be assigned to parliamentary debate — related
 - [In one informal tournament survey, coaches and students listed partly different strengths and weaknesses of parliamentary debate](survey-identifies-perceived-strengths-weaknesses-of-parliamentary-debate.md) — related

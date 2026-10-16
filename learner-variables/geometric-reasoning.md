@@ -12,6 +12,7 @@ generated:
 # Geometric Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
+> **Evidence** · 8 claims (6 show a difference, 2 mixed) · 6 studies (3 causal, 3 qualitative), `q1`–`q3` · 1 of 6 report an effect size · 8 claims rest on one study
 
 ## Description
 Geometric reasoning is the abstract thinking used to define shapes, analyse their properties and relationships, and argue about them; in the secondary grades it extends to formalising those arguments as written proofs. The Learner Variability Navigator notes that geometric knowledge gives concrete representations and models for abstract mathematical ideas, which can serve as an entry point to higher-order mathematical thinking. It is assessed with short geometry tasks that ask learners to explain their reasoning in writing or diagrams, which also reveal misconceptions, and with the geometry subtests of diagnostic batteries.
@@ -35,6 +36,14 @@ LVN follows it from grade 3 to grade 10. It is distinct from, but draws on, [spa
 
 ## Claims
 <!-- Claims reporting findings about this variable, with evidence tags -->
+- [A dynamic geometry model of the quilt problem helped an informal educator understand its spatial relations](../claims/geometry-software-model-helped-informal-educator-understand-spatial-relations.md) [+W] — instruction changes it
+- [Both instructional groups improved significantly from pre-test to post-test, with larger gains in the generative AI-supported group](../claims/genai-geometry-within-group-gains.md) [+M] — instruction changes it
+- [Embodied collaborative construction can build shared geometric reasoning](../claims/embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) [+W] — instruction changes it
+- [In the owl game, being shown the solids and working with pictures and labels did not help two boys distinguish solids; body-based experience with contrastive guidance was needed](../claims/owl-game-body-based-experience-needed-for-solids.md) [~W] — instruction changes it
+- [Reasoning with ground-truth auxiliary diagrams consistently outperforms reasoning from the original diagram alone on GeoVAD-Bench](../claims/gt-aux-consistently-outperforms-no-aux-geometry.md) [+M] — instruction changes it
+- [Self-explanation effects hold on far-transfer but not near-transfer questions in a geometry classroom study](../claims/self-explanation-far-transfer-geometry-classroom.md) [~M] — instruction changes it
+- [Senior high school students taught with generative AI-supported instruction scored significantly higher on geometric reasoning and proof construction than students taught conventionally](../claims/genai-instruction-higher-geometry-proof-scores.md) [+M] — instruction changes it
+- [The post-test advantage of generative AI-supported instruction persists after controlling for pre-test performance (ANCOVA)](../claims/genai-geometry-ancova-group-effect.md) [+M] — instruction changes it
 
 ## Measures
 - **Geometry Tasks with Explanation** (e.g., Carroll, 1998): Short geometry tasks that elicit reasoning and argumentation through writing, diagrams, and other representations can be used to assess students' understanding and misconceptions of basic geometric properties while giving insight into students' thinking.

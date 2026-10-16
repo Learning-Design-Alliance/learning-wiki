@@ -61,6 +61,9 @@ Third key FCA finding, printed in the Formal Concept Analysis section. The latti
 ## Discussion
 
 
+## Learner Variables
+- [Metacognition](../learner-variables/metacognition.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Metacognitive development exhibits equifinality: multiple viable trajectories challenge linear developmental models](equifinality-metacognitive-trajectories.md) — possibly the same claim (merge candidate)
 - [Three internal arrangements of Processes and Structures (P→S, S→P, P⇄S) form the basis of scenario differentiation](three-internal-arrangements-monitoring-control.md) — related

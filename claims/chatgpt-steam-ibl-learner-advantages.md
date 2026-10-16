@@ -41,6 +41,9 @@ The review's synthesis of cross-phase advantages, mentioned in 104 instances acr
 
 ## Discussion
 
+## Learner Variables
+- [Problem Solving](../learner-variables/problem-solving.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — the general claim this finding bears on, with the studies behind it

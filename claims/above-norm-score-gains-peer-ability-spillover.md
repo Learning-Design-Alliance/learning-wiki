@@ -100,6 +100,7 @@ Regression models on the population of ninth-grade students in 55 Chicago school
 
 ## Learner Variables
 - [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — predictor: learners who differ on it differ in outcomes
+- [Algebraic Thinking](../learner-variables/algebraic-thinking.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 

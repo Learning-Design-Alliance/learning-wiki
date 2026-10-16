@@ -42,6 +42,9 @@ The review reports, citing Schneider and Pea (2015), a methodological study comb
 ## Discussion
 
 
+## Learner Variables
+- [Visual Processing](../learner-variables/visual-processing.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [A network of three mutually overlapping intuitive ideas (less distance implies less time, bunched up means faster, faster implies less time) stabilizes students' initial thinking](network-of-intuitive-ideas-stabilizes-thinking.md) — related
 - [Students' collective understanding during a physics tutorial alternates repeatedly between two distinct interpretations of tickertape distance rather than changing once](student-understanding-alternates-between-local-coherences-tickertape.md) — related

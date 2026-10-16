@@ -43,6 +43,9 @@ Correlational analyses of community partner-student NRI-SPV variables against CA
 
 One correlational study is recorded. The correlations are moderate to large by r bins (−.36 to −.41) but come from a single sample with no controls reported in the entry, so they do not show that conflict or antagonism lowers these attitudes; the direction could run either way. (Codes corrected 2026-10-05 from `q3 i1`: a correlational analysis is design tier q2, and |r| ≥ .37 is i3.)
 
+## Learner Variables
+- [Civic Mindedness](../learner-variables/civic-mindedness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Professor-student relationship quality correlates with multiple civic engagement outcomes in both directions](professor-relationship-quality-civic-engagement-bidirectional.md) — possibly the same claim (merge candidate)
 - [Positive SLAM-student relationship qualities correlate with civic action](slam-relationship-quality-correlates-civic-action.md) — related

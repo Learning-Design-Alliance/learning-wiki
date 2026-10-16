@@ -40,6 +40,9 @@ The PCER Consortium (2008) randomized trial (14 classrooms, 198 children) assess
 ## Discussion
 
 
+## Learner Variables
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The Bright Beginnings preschool curriculum shows no discernible effects on preschool children's school readiness across oral language, print knowledge, phonological processing, and math domains](bright-beginnings-no-discernible-effects-preschool.md) — a broader claim this one bears on
 - [Curiosity Corner shows no discernible effects on phonological processing in the PCER randomized trial](curiosity-corner-no-discernible-phonological-effects.md) — related

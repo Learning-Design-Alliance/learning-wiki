@@ -49,3 +49,4 @@ Randomized controlled trial in which 81 undergraduate students were randomly ass
 - [Review reports a randomized trial in which unrestricted ChatGPT study produced lower delayed retention than traditional methods](chatgpt-unrestricted-lower-delayed-retention-rct.md) — related
 - [AI access raises immediate unaided test scores by 7.2 percentage points (0.28 SD) after a timed learning phase](genai-access-raises-immediate-test-scores.md) — related
 - [In the first assessment stage, peer group and ChatGPT-4o feedback showed no significant difference in quality](stage1-no-significant-difference-peer-ai-feedback-quality.md) — related
+- [AI applications contributed to STEM students' higher-order thinking, including problem-solving, computational thinking, and self-regulated learning](ai-stem-higher-order-thinking-effects.md) — related

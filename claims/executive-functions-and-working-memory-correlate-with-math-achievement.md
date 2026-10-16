@@ -22,6 +22,7 @@ sources:
 # Executive functions and working memory correlate moderately to strongly with mathematics achievement (r = .28 to .40), from preschool through elementary school
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q3` · `i2` medium · n=30 meta-analyses, 66 correlations from 13,853 effect sizes (~4.66 million participants)
 
 Executive-function composites correlate r = .40 (preschool) and .36 (elementary school) with mathematics achievement, composite working memory .38 and working memory .35; cognitive flexibility (.35) is more closely related in younger children. These are correlations compiled across meta-analyses: they describe how strongly the characteristic goes with mathematics achievement, not what causes it.
 

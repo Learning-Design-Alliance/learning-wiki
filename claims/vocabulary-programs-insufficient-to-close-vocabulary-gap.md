@@ -41,6 +41,9 @@ Authors' conclusion from the meta-analysis of 43 studies, in which vocabulary in
 
 ## Discussion
 
+## Learner Variables
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Vocabulary Instruction Improves Comprehension](vocabulary-instruction-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it

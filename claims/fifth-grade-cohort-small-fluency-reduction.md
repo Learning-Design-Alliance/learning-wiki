@@ -42,6 +42,10 @@ In the same two-level randomized trial, Table 2 shows the fifth-grade cohort's A
 ## Discussion
 
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
+- [Reading Fluency](../learner-variables/reading-fluency.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Failure Free Reading, the only word-level-plus-comprehension program, showed impacts for third graders but no impacts for fifth graders](failure-free-reading-impacts-third-grade-only.md) — related
 - [Four remedial reading interventions combined improved phonemic decoding, word reading accuracy and fluency, and reading comprehension for third-grade struggling readers one year after the interventions ended, though not on all measures](four-reading-interventions-improved-third-grade-reading-one-year-later.md) — related

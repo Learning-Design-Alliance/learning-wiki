@@ -84,3 +84,6 @@ The review reports correlational evidence across multiple studies (Gilbert et al
 - [Developmental change in offloading reflects metacognitive control, not knowledge](child-development-offloading-selectivity.md) — related
 - [Effort avoidance contributes to reminder overuse beyond metacognitive error](effort-avoidance-reminder-bias.md) — related
 - [Metacognitive confidence triggers intention offloading independently of objective memory need](metacognition-triggers-offloading.md) — related
+- [Framing adds an additive predictive value to the reminder bias beyond participants' internal metacognitive bias](framing-additive-beyond-metacognitive-bias.md) — related
+- [Participants still offload more than optimal under loss framing](reminder-bias-persists-under-loss-framing.md) — a narrower finding that bears on this claim
+- [Participants show a significant reminder bias (overuse of reminders relative to the optimal strategy) when reminders are framed as gains](reminder-bias-under-gain-framing.md) — a narrower finding that bears on this claim

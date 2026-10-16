@@ -42,6 +42,9 @@ DiD regression on Team-Q subscales in the same team-level quasi-experiment (GenA
 ## Discussion
 
 
+## Learner Variables
+- [Collaboration](../learner-variables/collaboration.md) — outcome: instruction changes it
+
 ## Related Claims
 - [No significant relative pre–post changes for attitudes toward collaborative learning, overall teamwork, or remaining teamwork subscales](genarch-null-did-collaborative-attitudes-teamwork.md) — related
 - [Blinded panel ratings of design presentations did not differ significantly between GenARch and Control teams](genarch-panel-presentation-no-significant-difference.md) — related

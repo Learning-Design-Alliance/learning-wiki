@@ -80,3 +80,5 @@ The review reports, citing Tarmizi and Sweller, that Experiments 4 and 5 with an
 - [Reviews report that the split-attention benefit for novices reverses into a redundancy effect for more experienced learners: Kalyuga et al. (2003) cite Kalyuga et al. (1998) and Yeung et al. (1998), and Ginns (2006) cites Kalyuga et al. (1998)](expertise-reversal-split-attention-redundancy-review.md) — related
 - [Multimedia Principles Benefit Novices](expertise-reversal-effect.md) — a broader claim this one bears on
 - [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — a broader claim this one bears on
+- [For circle geometry problems, guidance in the form of subgoals or worked examples increased cognitive load during problem processing (Experiments 1-3)](guidance-subgoals-worked-examples-increase-cognitive-load-geometry.md) — related
+- [When guidance was presented in a unitary (integrated) format, worked examples were superior to conventional problems (Experiments 4 and 5)](unitary-format-worked-examples-superior-conventional-problems.md) — related

@@ -61,6 +61,9 @@ In the same trial, five social-emotional measures were analyzed; only one was si
 ## Discussion
 
 
+## Learner Variables
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Social skills training has positive effects on social-emotional development and behavior for preschool children with disabilities in early education settings](social-skills-training-positive-social-emotional-effects-preschool-disabilities.md) — a broader claim this one bears on
 - [Social skills training shows no discernible effects on cognition for preschool children with disabilities](social-skills-training-no-discernible-cognition-effects.md) — related

@@ -86,6 +86,9 @@ Following an earlier successful large-scale replication in the same Midwestern s
 **Open questions.** Two studies are recorded, both randomized field experiments with seventh-graders and both measuring grades: Cohen et al. (2006), two small studies at one school, and Hanselman et al. (2017), a larger replication with the same protocol that found no benefit. They leave open (a) whether effects hold on single-task or lab measures as well as on term grades; (b) which populations benefit, beyond African American, Black and Hispanic middle-schoolers; and (c) whether repeated administrations help, harm or dilute the effect. Treat the claim as mixed, not supported.
 <!-- deprecated (2026-10-05, stale beside two recorded entries): **Open questions for enrichment.** When studies are ingested, this page should resolve: (a) whether effects hold on cumulative performance (grades over a term) versus single-task measures; (b) which populations benefit most — the literature suggests effects concentrate among students under identifiable threat, and any entry should state the population explicitly; and (c) whether repeated administrations help, harm, or simply dilute the effect. Until then, treat this claim as unverified rather than supported. -->
 
+## Learner Variables
+- [Identity](../learner-variables/identity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Belonging interventions improve outcomes](belonging-interventions-improve-outcomes.md) — a sibling brief social-psychological intervention targeting threat and belonging rather than self-integrity

@@ -42,6 +42,12 @@ A multilingual-considerations statement in the Test Design section. The report a
 ## Discussion
 
 
+## Learner Variables
+- [Alphabet Knowledge and Print Awareness](../learner-variables/alphabet-knowledge-and-print-awareness.md) — predictor: learners who differ on it differ in outcomes
+- [Communication Skills](../learner-variables/communication-skills.md) — predictor: learners who differ on it differ in outcomes
+- [Oral Language](../learner-variables/oral-language.md) — predictor: learners who differ on it differ in outcomes
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does.](l1-predicts-l2-phoneme-perception-more-than-proficiency.md) — related
 - [L2 oral language proficiency predicts reading comprehension more strongly than decoding skills](oral-proficiency-predicts-l2-reading-comprehension.md) — related

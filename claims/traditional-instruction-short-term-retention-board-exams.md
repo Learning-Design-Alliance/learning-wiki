@@ -46,3 +46,4 @@ The contrasting finding of the qualitative meta-synthesis of PBL meta-analyses: 
 - [PBL is superior to conventional instruction for long-term retention, according to a meta-synthesis of meta-analyses](pbl-superior-long-term-retention.md) — related
 - [PBL is superior to conventional instruction for skill development and for satisfaction of students and teachers](pbl-superior-skill-development-satisfaction.md) — related
 - [Problem-based learning shows a large positive pooled effect on academic achievement (REM ES = 1.560), with heterogeneous study effects](pbl-large-positive-effect-academic-achievement.md) — related
+- [Student engagement is higher during PBL than during traditional instruction](pbl-engagement-higher-than-traditional.md) — related

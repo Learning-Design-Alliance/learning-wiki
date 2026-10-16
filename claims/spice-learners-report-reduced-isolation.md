@@ -44,6 +44,7 @@ Qualitative case-study reporting of learner experience, illustrated with student
 
 ## Learner Variables
 - [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+- [Social Supports](../learner-variables/social-supports.md) — outcome: instruction changes it
 
 ## Related Claims
 

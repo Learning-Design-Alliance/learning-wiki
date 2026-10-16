@@ -61,6 +61,9 @@ Quasi-experimental study of 129 four-year-old low-income children in 10 Head Sta
 ## Discussion
 
 
+## Learner Variables
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Phonological awareness training plus letter knowledge training has positive effects on preschoolers' print knowledge](pat-lk-positive-print-knowledge-preschool.md) — related
 - [Phonological awareness training plus letter knowledge training has potentially positive effects on preschoolers' early reading/writing](pat-lk-potentially-positive-early-reading-writing.md) — related

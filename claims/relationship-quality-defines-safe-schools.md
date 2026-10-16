@@ -61,6 +61,10 @@ The report finds that "disadvantaged schools with high-quality relationships act
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
+- [Social Supports](../learner-variables/social-supports.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Students feel safest in classrooms and least safe in areas just outside the school, with safety tracking the level of adult supervision](adult-supervision-safety-gradient.md) — related
 - Teachers are more likely to stay in schools where parents support their work and where students feel safe and peers behave appropriately — related

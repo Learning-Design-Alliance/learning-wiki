@@ -47,3 +47,4 @@ The review attributes this to Kalyuga, Chandler, Tuovinen, and Sweller (2001), e
 
 - [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md) — the general claim this finding bears on, with the studies behind it
 -
+- [Under many circumstances, studying worked examples produced superior learning compared to active problem solving, as suggested by previous research](worked-examples-superior-to-problem-solving-many-circumstances.md) — related

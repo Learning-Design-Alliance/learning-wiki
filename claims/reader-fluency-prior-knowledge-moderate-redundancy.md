@@ -61,6 +61,7 @@ Meta-analytic moderator analysis of participant characteristics (Table 4): readi
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — moderator: an instructional effect differs with it
 - [English-Learner Status](../learner-variables/english-learner-status.md) — moderator: an instructional effect differs with it
+- [Reading Fluency](../learner-variables/reading-fluency.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 

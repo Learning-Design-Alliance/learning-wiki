@@ -71,6 +71,11 @@ Meta-analysis of 22 peer-reviewed studies of morphological intervention with par
 **Evidence status.** Two meta-analyses are recorded. Goodwin and Ahn (2013; 30 studies, 92 effect sizes) report a pooled d̄ = 0.32, with significant effects on morphological knowledge, phonological awareness, vocabulary, decoding and spelling but not on reading comprehension or fluency. Bowers, Kirby and Deacon (2010; 22 studies) conclude that morphological instruction benefits learners overall, especially less-able readers, but only their abstract was read and it prints no pooled effect size.
 <!-- deprecated (2026-10-15, stale: entries had been added): **Evidence status.** This page currently has no documented evidence entries. Well-known meta-analytic syntheses of morphological intervention studies (e.g., Bowers, Kirby, & Deacon, 2010; Goodwin & Ahn, 2013) are candidates for inclusion, but per wiki policy they must be added through a future enrichment pass with verified citations rather than asserted here. Until then, no evidence-strength rating can be assigned, and the claim should be treated as plausible but unverified. -->
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
+- [Morphological Awareness](../learner-variables/morphological-awareness.md) — outcome: instruction changes it
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Automatic word recognition frees resources for comprehension.](automatic-word-recognition-frees-resources-for-comprehension.md) — morphological decoding supports the automaticity that comprehension depends on

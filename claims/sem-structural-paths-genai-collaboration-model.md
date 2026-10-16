@@ -44,6 +44,9 @@ Cross-sectional SEM survey of university students using a 22-item instrument dev
 ## Discussion
 
 
+## Learner Variables
+- [Collaboration](../learner-variables/collaboration.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [The direct path from contextual support to perceived transfer gains was not statistically significant, whereas the chained indirect pathway through trust calibration and collaborative regulation was significant](chained-indirect-pathway-significant-direct-not.md) — related
 - [Homogeneous problem perceptions predict better regulation outcomes in collaborative groups](homogeneous-problem-perceptions-predict-regulation-success.md) — related

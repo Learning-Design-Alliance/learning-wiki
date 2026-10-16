@@ -90,6 +90,11 @@ In a 2-year longitudinal study beginning at school entry (90 British children st
 
 **Open questions.** The relative contributions of phoneme versus rhyme awareness across orthographies of varying depth (e.g., transparent vs. opaque scripts), and whether early rhyme training indirectly supports later phoneme development, remain actively debated. The three studies recorded above are correlational and longitudinal, come largely from one research group, and were read as abstracts without effect sizes, so the strength and generality of the predictive advantage should still be treated as provisional.
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — predictor: learners who differ on it differ in outcomes
+- [Reading Fluency](../learner-variables/reading-fluency.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Literacy screener benchmarks predict which grade 3 students will not meet MCAS ELA expectations, but not necessarily who will meet them](screeners-predict-mcas-failure-not-success.md) — the general claim this finding bears on, with the studies behind it

@@ -60,6 +60,9 @@ Brier score ANOVA was significant with η² = .042; Full-trace (M = 0.342) was r
 
 ## Discussion
 
+## Learner Variables
+- [Metacognition](../learner-variables/metacognition.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Access to AI advice roughly doubled reported confidence in answers in one experiment](ai-access-inflates-confidence.md) — the general claim this finding bears on, with the studies behind it

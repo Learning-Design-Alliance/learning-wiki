@@ -43,6 +43,7 @@ Null finding from the same randomized evaluation of 29 schools using acceleromet
 
 ## Learner Variables
 - [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — outcome: instruction changes it
 
 ## Related Claims
 

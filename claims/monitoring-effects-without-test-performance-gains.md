@@ -1,0 +1,47 @@
+---
+type: claim
+title: Neither rereading nor self-explanation changed comprehension test performance itself; effects were specific to monitoring accuracy
+description: Neither rereading nor self-explanation changed comprehension test performance itself; effects were specific to monitoring accuracy
+id: monitoring-effects-without-test-performance-gains
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+evidence_strength: moderate
+sources:
+  - id: griffin-2008
+    resource: "https://doi.org/10.3758/MC.36.1.93"
+    title: "Griffin, T. D., Wiley, J., & Thiede, K. W. (2008). Individual differences, rereading, and self-explanation: Concurrent processing and cue validity as constraints on metacomprehension accuracy. Memory & Cognition, 36(1), 93-103. https://doi.org/10.3758/MC.36.1.93"
+    author: "Griffin, T. D., Wiley, J., & Thiede, K. W."
+    q: 3
+    i: "?"
+---
+
+# Neither rereading nor self-explanation changed comprehension test performance itself; effects were specific to monitoring accuracy
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
+
+## Subclaims
+`q3 i?` In both experiments, reading conditions did not differ in mean comprehension test performance, so the monitoring improvements cannot be attributed to performance gains. [→ Griffin 2008](#griffin-2008)
+
+## Evidence
+
+### Griffin 2008
+
+Griffin, T. D., Wiley, J., & Thiede, K. W. (2008). Individual differences, rereading, and self-explanation: Concurrent processing and cue validity as constraints on metacomprehension accuracy. Memory & Cognition, 36(1), 93-103. https://doi.org/10.3758/MC.36.1.93
+
+`q3 · i?`
+
+In Experiment 1, conditions did not differ in mean performance on any of the tests (all reported tests non-significant); in Experiment 2, performance did not reliably differ between conditions on any test except a marginal effect (p  .10) on the RaceIQ text. Mean judgment magnitude also did not reliably differ among conditions in either experiment.
+
+> "Neither the rereading nor the self-explanation effects can be attributed to effects on test performance itself, because the groups did not differ in test performance."
+
+## Discussion
+
+
+## Related Claims
+- [Reading comprehension ability predicts monitoring accuracy after a single reading but not after rereading (Experiments 1 and 2)](comprehension-ability-by-rereading-interaction.md) — related
+- [A self-explanation instruction during rereading improves monitoring accuracy for all readers above mere rereading (Experiment 2)](self-explanation-improves-metacomprehension-accuracy.md) — related
+- [Rereading significantly improves metacomprehension monitoring accuracy relative to reading once (Experiment 1)](rereading-improves-metacomprehension-accuracy.md) — related
+- [Working memory capacity predicts monitoring accuracy after a single reading but not after rereading, independently of comprehension ability (Experiment 2)](wmc-by-rereading-interaction.md) — related

@@ -71,3 +71,5 @@ The chapter's own methodological argument: because restudy reexposes the whole s
 - [The argument that retrieval practice effects do not occur with materials high in element interactivity is contested, and the chapter judges its research base not convincing](whether-element-interactivity-limits-retrieval-practice-effects-is-contested.md) — related
 - [Testing benefits retention over a conservative restudy control, establishing the testing effect as robust](testing-effect-robust-versus-restudy-control.md) — related
 - [The testing effect is largest at a retention interval of 1–6 days (g = 0.82) and robust across all intervals](retention-interval-one-to-six-days-largest.md) — related
+- [Offering a monetary incentive in both test and study conditions strengthens the case that testing has a true learning advantage over motivated restudy](monetary-incentive-rules-out-motivation-confound.md) — related
+- [The retrieval benefit holds at both short (5 min) and long (24 h) retention delays](ttst-advantage-not-different-at-5min-24h.md) — related

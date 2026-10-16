@@ -44,6 +44,7 @@ Focus-group finding about a high school that created a virtual parent group with
 
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
+- [Social Supports](../learner-variables/social-supports.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Translation features in mobile apps enabled direct communication between educators and parents who speak languages other than English](app-translation-features-direct-communication.md) — related

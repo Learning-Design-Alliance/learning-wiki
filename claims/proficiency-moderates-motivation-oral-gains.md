@@ -59,6 +59,7 @@ Conditional effects analysis in the same model. At low proficiency the motivatio
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+- [Oral Language](../learner-variables/oral-language.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 - [Reflective behavior and learning motivation each significantly predict oral proficiency improvement in ASR-assisted instruction](asr-reflection-motivation-predict-oral-gains.md) — related

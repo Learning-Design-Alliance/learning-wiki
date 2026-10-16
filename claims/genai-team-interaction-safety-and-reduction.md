@@ -63,6 +63,7 @@ The review reports concerns from He et al. (2024) and Kiesler et al. (2025) that
 
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
 
 ## Related Claims
 - [The AI's nonjudgmental conversational tone and adaptive prompting fostered risk-taking and productive struggle in a psychologically safe environment](nonjudgmental-ai-tone-risk-taking.md) — related

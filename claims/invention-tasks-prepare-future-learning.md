@@ -48,6 +48,9 @@ Two boundary conditions are widely discussed in the literature. First, the benef
 
 Open questions include how much scaffolding invention tasks should provide, how long the preparatory benefit persists, and how the effect interacts with learner expertise — as with other exploration-before-instruction methods, benefits may shrink or reverse for advanced learners, consistent with the expertise reversal pattern documented for [worked examples](worked-examples-less-effective-with-expertise.md).
 
+## Learner Variables
+- [Algebraic Thinking](../learner-variables/algebraic-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Analogical reasoning improves transfer.](comparing-contrasting-cases-improves-learning.md) — contrasting cases in invention tasks work by supporting analogical comparison of deep structure.

@@ -42,6 +42,9 @@ Interview and site-visit findings from the district-charter collaboration grant 
 ## Discussion
 
 
+## Learner Variables
+- [Collaboration](../learner-variables/collaboration.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Several collaboration activities show promise in spreading effective practices, but overall progress in increasing collaboration has been limited](collaboration-progress-limited-despite-promise.md) — a broader claim this one bears on
 - [Compact collaboration activities did not yield systemic change within the grant period but were perceived to have produced small-scale improvements in instructional quality and human capital practices and increased availability of school effectiveness information](compact-activities-small-scale-improvements-not-systemic-change.md) — related

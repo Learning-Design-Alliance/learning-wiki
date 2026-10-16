@@ -12,6 +12,7 @@ generated:
 # Algebraic Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
+> **Evidence** · 27 claims (16 show a difference, 8 mixed, 3 no difference) · 19 studies (11 causal, 2 review, 2 theoretical, 1 quant-synthesis, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 3 of 19 report an effect size · 25 claims rest on one study
 
 ## Description
 Algebraic thinking is the ability to generalise, represent, justify and reason with abstract mathematical structures and relationships: noticing that a pattern holds for all numbers, writing it with symbols, and arguing why it holds. The Learner Variability Navigator stresses that it is not only a secondary-school subject: in the primary grades it deepens understanding of arithmetic, for example by making the properties of operations explicit, and it helps students connect separate parts of their early mathematics. It is assessed with written early-algebra assessments and with researcher-designed measures that separate conceptual knowledge, procedural knowledge and flexibility in solving equations.
@@ -35,6 +36,33 @@ LVN follows it from grade 3 to grade 10. It links forward to [geometric reasonin
 
 ## Claims
 <!-- Claims reporting findings about this variable, with evidence tags -->
+- [A medium feature's affordance does not guarantee its actual cognitive effects: LOGO instruction designed to enhance conditional reasoning may not do so](../claims/affordance-does-not-guarantee-cognitive-effect.md) [-W] — instruction changes it
+- [A procedural \"answer is coming\" interpretation of the equals sign leads students to chain arithmetic and errors on missing-number equations](../claims/answer-coming-equals-sign-misconception.md) [+M] — learners who differ on it differ in outcomes
+- [After an early algebra intervention, the number of kindergarteners giving a relational definition of the equal sign went from one to nine, and acceptance of non-standard equation forms rose, as reported from the authors' earlier study](../claims/kindergarten-early-algebra-intervention-shifts-equal-sign-understanding.md) [+W] — instruction changes it
+- [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points), largely explained by classroom environment and peer ability](../claims/double-dose-failure-rates-divergent.md) [~M] — an instructional effect differs with it
+- [Baseline versus code-augmented performance differs significantly for story and symbolic representations but not word-equations, with small effect sizes](../claims/interaction-condition-chi-square-representation-differences.md) [~M] — instruction changes it
+- [Below-norm students' algebra test scores improved despite having lower-skill peers post-policy, consistent with additional supports offsetting compositional decline](../claims/below-norm-scores-improved-despite-lower-peers.md) [+M] — instruction changes it
+- [Below-norm students' pass rates improved post-policy because their skills relative to classroom peers improved under sorting](../claims/below-norm-pass-rates-improved-relative-skills.md) [+M] — learners who differ on it differ in outcomes
+- [Below-norm students' test scores improved post-policy (0.88 points total), and classroom average ability no longer predicted their scores post-policy](../claims/below-norm-score-gains-composition-null-post-policy.md) [~M] — an instructional effect differs with it
+- [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](../claims/comparing-contrasting-cases-improves-learning.md) [~M] — instruction changes it
+- [Concreteness fading enables learners to build a store of memorable images usable when abstract symbols lose meaning](../claims/fading-builds-memorable-images.md) [+W] — instruction changes it
+- [Dahmus Method students translated phrases successfully but failed to combine them into a single solution equation](../claims/dahmus-students-translate-but-no-single-equation.md) [~W] — instruction changes it
+- [Double-dose algebra policy increased academic demand for both high- and low-skill students, with below-norm students' gains not attributable to peer ability changes](../claims/double-dose-algebra-increased-academic-demand-both-groups.md) [+M] — an instructional effect differs with it
+- [Double-dose algebra substantially increased interactive pedagogy for low-skill students (.55 SD, p<.001), unexplained by classroom compositional changes](../claims/double-dose-increased-interactive-pedagogy-low-skill.md) [+M] — an instructional effect differs with it
+- [Grade 6 math CST proficiency alone is not an effective indicator of algebra readiness: students need a scale score of 367, about 0.27 SD above the cutpoint, to reach a 50 percent probability of grade 8 algebra I proficiency](../claims/grade6-proficiency-insufficient-algebra-readiness-indicator.md) [+M] — instruction changes it
+- [In one Chicago study, above-norm students' post-policy algebra test gains were partly explained by higher peer ability and by having classmates who took support algebra](../claims/above-norm-score-gains-peer-ability-spillover.md) [~S] — an instructional effect differs with it
+- [Invention Tasks Prepare Future Learning](../claims/invention-tasks-prepare-future-learning.md) [+M] — instruction changes it
+- [MDTP scores on five of seven topics significantly predict grade 8 algebra I proficiency after controlling for grade 6 CST scale score](../claims/mdtp-topic-scores-predict-algebra-proficiency.md) [~W] — learners who differ on it differ in outcomes
+- [Policy effects on grades and failure rates differed by incoming ability: most below-norm students' grades improved slightly, but the very lowest-ability students' algebra grades declined](../claims/double-dose-effects-vary-by-initial-ability.md) [~M] — an instructional effect differs with it
+- [Polya and Dahmus methods do not differ on the problem solution criterion](../claims/no-treatment-difference-problem-solution-criterion.md) [-M] — instruction changes it
+- [Polya Method students outscore Dahmus Method students on the equation criterion for verbal problems](../claims/polya-method-beats-dahmus-on-equation-criterion.md) [+M] — instruction changes it
+- [Relational understandings of the equals sign are associated with middle grades mathematics success](../claims/relational-equals-sign-understanding-middle-grades-success.md) [+M] — learners who differ on it differ in outcomes
+- [Review reports students did not recognize the key points an exemplary lecturer presented in a proof](../claims/students-did-not-recognize-lecture-proof-key-points.md) [+M] — instruction changes it
+- [Students exposed to AI-generated responses achieved higher performance in solving quadratic equations than those taught through conventional teaching methods](../claims/ai-generated-responses-higher-quadratic-achievement.md) [+M] — instruction changes it
+- [Students transferred cube-based permutation reasoning to permutation tasks not involving cubes](../claims/cube-reasoning-transfers-to-non-cube-permutation-tasks.md) [+M] — instruction changes it
+- [The double-dose algebra policy adversely affected non-targeted above-norm students: their algebra grades declined and failure rates increased post-policy](../claims/double-dose-policy-harmed-above-norm-grades.md) [+M] — an instructional effect differs with it
+- [Three weeks of explicit language-focused strategy instruction produced no significant word-problem gain in this study](../claims/explicit-strategy-instruction-no-significant-gain.md) [-W] — instruction changes it
+- [Using the ITS reduced executive state-math anxiety and improved algebra learning across conditions](../claims/its-reduces-executive-state-ma-improves-algebra.md) [+M] — instruction changes it
 
 ## Measures
 - **Early algebra assessment** (Blanton et al., 2015): Written assessment to measure students' understanding of core algebraic concepts and practices.

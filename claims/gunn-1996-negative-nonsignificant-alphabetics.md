@@ -64,6 +64,10 @@ Appendix C.2 table for Gunn (1996) prints WRMT-R Word Attack means of 2.82 (2.99
 ## Discussion
 
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
+- [Reading Fluency](../learner-variables/reading-fluency.md) — outcome: instruction changes it
+
 ## Related Claims
 - [In Torgesen et al. (2010), LiPS produced statistically significant positive effects on word accuracy/fluency, phonemic decoding, phonological awareness, and spelling versus a basal reading program](torgesen-2010-positive-alphabetics-effects.md) — related
 - [LiPS has mixed effects on alphabetics for beginning readers: positive and statistically significant in one trial, negative and substantively important (but not significant) in another](lips-mixed-alphabetics-effects.md) — a broader claim this one bears on

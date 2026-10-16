@@ -41,6 +41,9 @@ Theoretical argument reviewing prior critiques (e.g. DeKeyser 1998; Krashen). Th
 
 ## Discussion
 
+## Learner Variables
+- [Communication Skills](../learner-variables/communication-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Automatization of L2 skills requires extensive practice in a consistent environment, not repetition of grammar rules as in traditional exercises](automatization-requires-practice-consistent-environment.md) — the general claim this finding bears on, with the studies behind it

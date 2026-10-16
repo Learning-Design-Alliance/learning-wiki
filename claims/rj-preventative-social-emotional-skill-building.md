@@ -44,6 +44,7 @@ Interview findings: RJ "can serve a preventative purpose when implemented in sch
 
 ## Learner Variables
 - [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Experts attribute their focus on RJ in schools to the failure of zero-tolerance discipline, disciplinary disparities, school climate concerns, holistic community approaches, and connections to youth development models](expert-motivations-restorative-justice-schools.md) — related

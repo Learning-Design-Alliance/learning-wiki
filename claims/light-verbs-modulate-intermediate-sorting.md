@@ -42,5 +42,8 @@ Hierarchical cluster analysis (Euclidean distance, Ward’s method) of co-occurr
 ## Discussion
 
 
+## Learner Variables
+- [Syntax](../learner-variables/syntax.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Korean EFL learners sort sentences increasingly by construction rather than by verb as grade level increases](construction-based-sorting-increases-with-grade-level.md) — related

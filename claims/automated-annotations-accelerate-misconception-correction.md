@@ -41,6 +41,9 @@ Qualitative thematic analysis of student portfolios tracking conceptual error de
 
 ## Discussion
 
+## Learner Variables
+- [Operations and Place Value](../learner-variables/operations-and-place-value.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — the general claim this finding bears on, with the studies behind it

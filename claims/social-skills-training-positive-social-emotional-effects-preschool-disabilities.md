@@ -41,6 +41,9 @@ WWC synthesis of two randomized controlled trials (Ferentino 1991; Guglielmo & T
 
 ## Discussion
 
+## Learner Variables
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — the general claim this finding bears on, with the studies behind it

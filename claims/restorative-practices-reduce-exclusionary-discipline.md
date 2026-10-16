@@ -75,6 +75,9 @@ A district-level example described in the report's restorative practices section
 ## Discussion
 
 
+## Learner Variables
+- [Identity](../learner-variables/identity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [School climate data supported changes to the three schools' discipline systems](climate-data-discipline-system-changes.md) — related
 - [Exclusionary discipline harms students and disproportionately affects students of color, so tracking suspension data can promote positive interventions](exclusionary-discipline-harms-and-disproportionality.md) — related

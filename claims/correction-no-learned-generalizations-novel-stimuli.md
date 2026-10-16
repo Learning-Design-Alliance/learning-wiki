@@ -41,6 +41,9 @@ After the feedback session, all subjects guessed responses to novel stimuli and 
 
 ## Discussion
 
+## Learner Variables
+- [Morphological Awareness](../learner-variables/morphological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — the general claim this finding bears on, with the studies behind it

@@ -48,3 +48,4 @@ The report's analysis of Schools and Staffing Survey and Teacher Follow-Up Surve
 - [Dissatisfaction is the most-cited reason for leaving, cited by 55% of profession-leavers and 66% of school-movers](dissatisfaction-top-reason-for-turnover.md) — related
 - New teachers who feel supported and valued are reported to have up to 48% lower chances of leaving their position — related
 - [School organizational conditions—especially teacher classroom autonomy and faculty decision-making influence—are strongly related to minority teacher turnover](organizational-conditions-drive-minority-teacher-turnover.md) — related
+- [Administrative support, student discipline, and faculty influence are associated with teacher turnover after controlling for teacher and school characteristics](organizational-conditions-predict-teacher-turnover.md) — possibly the same claim (merge candidate)

@@ -101,3 +101,5 @@ This claim is about sequence design, not mere inclusion. Examples that are never
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](worked-example-problem-sequences.md)
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Successively fading out worked solution steps is effective for facilitating the transition from learning from worked examples to problem solving, compared to example-problem pairs](fading-worked-steps-facilitates-example-to-problem-transition.md) — related
+- [Example–problem pairs and examples-only are more effective than problem–example pairs for novices, with no significant difference between the first two](example-problem-ordering-novices.md) — a narrower finding that bears on this claim
+- [Studying worked examples is more effective and more efficient than problem solving for novice learners (the worked example effect)](worked-example-effect-novices-review.md) — possibly the same claim (merge candidate)

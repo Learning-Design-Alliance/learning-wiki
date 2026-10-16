@@ -42,6 +42,9 @@ The guide asserts, in its Paradigm of Safety section, that "Attempts to bring sa
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Metal detector use disproportionately affects students of color, who are more likely to pass through detectors daily](metal-detectors-disproportionate-students-of-color.md) — a narrower finding that bears on this claim
 - [Two mass shootings exemplify how metal detectors can be insufficient at stopping such attacks](metal-detectors-insufficient-mass-shooting-cases.md) — related

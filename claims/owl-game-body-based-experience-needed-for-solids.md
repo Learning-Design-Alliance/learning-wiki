@@ -60,6 +60,9 @@ Observation of the researcher's intervention during the owl game: the boys touch
 
 ## Discussion
 
+## Learner Variables
+- [Geometric Reasoning](../learner-variables/geometric-reasoning.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — the general claim this finding bears on, with the studies behind it

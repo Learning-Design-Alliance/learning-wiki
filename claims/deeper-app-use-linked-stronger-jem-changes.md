@@ -42,6 +42,9 @@ Digital Promise field study (26 families). The report states that "Families who 
 ## Discussion
 
 
+## Learner Variables
+- [Home Learning Environment](../learner-variables/home-learning-environment.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Families who used the app's features more extensively internalized its purpose and reported stronger changes in joint media engagement and science attitudes](deeper-app-use-linked-stronger-attitude-changes.md) — possibly the same claim (merge candidate)
 - [Nearly all participating families reported using the Splash and Bubbles for Parents app and found it helpful for supporting children's science learning](splash-bubbles-app-high-uptake-perceived-learning-support.md) — related

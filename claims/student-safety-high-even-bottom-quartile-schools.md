@@ -59,6 +59,9 @@ Survey report summary of the four-item Safety scale (safety in classes, hallways
 
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Student-reported safety and classroom behavior are more positive in top-quartile schools, and students feel less safe outside school than inside](student-safety-behavior-quartile-differences.md) — related

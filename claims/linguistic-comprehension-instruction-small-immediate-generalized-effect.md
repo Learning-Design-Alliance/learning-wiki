@@ -42,6 +42,9 @@ Systematic review and meta-analysis of 43 RCTs and QEs with pretest–posttest c
 ## Discussion
 
 
+## Learner Variables
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Linguistic comprehension instruction shows no clear immediate effect on generalized reading comprehension outcomes](linguistic-comprehension-instruction-no-immediate-reading-comprehension-effect.md) — related
 - [Effects of linguistic comprehension instruction differ by outcome domain: small for vocabulary and grammar, moderate for narrative and listening comprehension](differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening.md) — a narrower finding that bears on this claim

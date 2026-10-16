@@ -42,6 +42,9 @@ The brief reports this from Li & Sullivan (2016), citing it alongside research o
 ## Discussion
 
 
+## Learner Variables
+- [Sleep](../learner-variables/sleep.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The school-built environment, including access to nature and green spaces, positively impacts children, teachers, and the school community](school-built-environment-positive-impact.md) — a broader claim this one bears on
 - [Classroom Design Affects Learning Progress](classroom-design-affects-learning-progress.md) — related

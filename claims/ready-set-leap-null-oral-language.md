@@ -42,6 +42,9 @@ Findings from two RCTs in the oral language domain. The appendix table prints a 
 ## Discussion
 
 
+## Learner Variables
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Ready, Set, Leap!® shows no discernible effects on oral language, print knowledge, phonological processing, early reading/writing, or math in preschoolers](ready-set-leap-no-discernible-effects-preschool.md) — a broader claim this one bears on
 - [Ready, Set, Leap!® has no significant effect on preschool early reading/writing (effect size 0.09)](ready-set-leap-null-early-reading-writing.md) — related

@@ -42,6 +42,9 @@ Pearson correlation analysis in a relational screening study of 429 prospective 
 ## Discussion
 
 
+## Learner Variables
+- [Critical Thinking](../learner-variables/critical-thinking.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Prospective teachers' critical thinking dispositions show no significant relationship with traditional educational philosophy preference](critical-thinking-dispositions-not-related-traditional-philosophy.md) — related
 - [Critical thinking disposition subscales jointly explain about 14% of contemporary educational philosophy preference, with innovation the only significant predictor](ctds-subscales-predict-contemporary-philosophy-innovation.md) — related

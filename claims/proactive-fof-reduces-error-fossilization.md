@@ -42,6 +42,9 @@ Authors' observational interpretation from the beginner reactive group, where de
 ## Discussion
 
 
+## Learner Variables
+- [Syntax](../learner-variables/syntax.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Beginner EFL learners taught with proactive FOF scored significantly higher on a grammar posttest than learners taught with reactive FOF](proactive-fof-beats-reactive-beginners-grammar.md) — related
 - [Upper-intermediate EFL learners taught with proactive FOF scored significantly higher on a grammar posttest than learners taught with reactive FOF](proactive-fof-beats-reactive-upper-intermediate-grammar.md) — related

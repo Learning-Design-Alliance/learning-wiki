@@ -42,6 +42,9 @@ Randomized controlled trial in which 108 kindergarten Spanish-speaking English l
 ## Discussion
 
 
+## Learner Variables
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Mean clause length showed a small negative difference favoring the comparison group, not statistically significant](arthur-mean-clause-length-negative-nonsignificant.md) — related
 - [The supporting evidence is a randomized controlled trial in which 108 kindergarten English learners watched 54 episodes of Arthur or Between the Lions over one school year](arthur-uchikoshi-rct-design.md) — related

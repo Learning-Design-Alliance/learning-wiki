@@ -106,6 +106,9 @@ This research synthesis meta-analysed 99 studies (N = 7,669) of leisure-time rea
 
 **Open questions.** How long shared-reading benefits persist once formal schooling begins, whether effects differ across languages and orthographies, and how digital vs. print formats compare all remain actively debated.
 
+## Learner Variables
+- [Home Learning Environment](../learner-variables/home-learning-environment.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Automatic word recognition frees resources for comprehension.](automatic-word-recognition-frees-resources-for-comprehension.md) — shared reading builds toward the fluency that frees attention for comprehension

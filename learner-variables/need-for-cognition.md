@@ -12,7 +12,7 @@ generated:
 # Need for Cognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 2 claims (2 unmarked) · 1 study (1 review), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (1 show a difference, 2 mixed, 2 unmarked) · 4 studies (2 associational, 1 review, 1 theoretical), `q1`–`q3` · 2 of 4 report an effect size · 5 claims rest on one study
 
 ## Description
 Need for cognition is a stable disposition to seek out and enjoy cognitively demanding activity, measured by self-report scales (Cacioppo & Petty). Learners high on it invest more effort in demanding material and tend to process information more deeply. It correlates with achievement, with [general cognitive ability](general-cognitive-ability.md), academic self-concept and intrinsic [motivation](motivation.md), and it can moderate how learners respond to tools that reduce effort, such as AI assistance.

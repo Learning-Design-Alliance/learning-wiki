@@ -42,6 +42,9 @@ The evaluation's key findings report that the program "Generally increased stude
 ## Discussion
 
 
+## Learner Variables
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Increases in the percentage of students in the Harlem Fitness Zone were generally larger for boys than for girls](healthy-harlem-hfz-gains-larger-for-boys.md) — a narrower finding that bears on this claim
 - [Overweight or obese students who participated in Get Fit and Prevention had large and statistically significant increases in PACER laps two and three years later](healthy-harlem-get-fit-prevention-pacer-increases.md) — a narrower finding that bears on this claim

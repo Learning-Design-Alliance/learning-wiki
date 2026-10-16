@@ -42,6 +42,9 @@ Null regression finding reported in the discussion of the multiple regression an
 ## Discussion
 
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Declarative memory predicts immediate UGJT posttest gains for irregular past tense only under recasts](declarative-memory-predicts-irregular-past-ugjt-recasts.md) — related
 - [Procedural memory shows no association with irregular past tense learning under any CF type](procedural-memory-null-irregular-past-tense.md) — related

@@ -66,3 +66,4 @@ Capped-gap active-time algorithm applied to sorted unique event timestamps from 
 - [The memory layer recorded 889 failure, verification, correction, or protocol-proxy events (9.26 per active day), making governance part of the operating environment](governance-889-events-ger-9-26.md) — related
 - [The environment produced 482 memory-recorded output-proxy events (5.02 per active day) across 10 artifact-surface categories spanning research, teaching, software, content, and operations](output-proxy-482-events-breadth-10-surfaces.md) — related
 - [May 2026 token telemetry was cache-dominant: 82.9% of 73,950,305 recorded tokens were cache reads, suggesting persistent workflows shift the economic unit from cost per token to cost per completed artifact](cache-dominant-82-9-percent-tokens.md) — related
+- [Empirical ILE papers show a strong increase in breadth of content and time of use](aied-breadth-increase-topics-time.md) — related

@@ -42,6 +42,9 @@ Three-group pretest-posttest experiment with 270 secondary students (90 per grou
 ## Discussion
 
 
+## Learner Variables
+- [Problem Solving](../learner-variables/problem-solving.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The clearest AI-assisted advantages appeared on the stakeholder engagement, alternatives, implementation, and monitoring decision-making steps](ai-advantages-stakeholder-alternatives-implementation-monitoring.md) — a narrower finding that bears on this claim
 - [Between-group effect sizes on decision-making gains were large for AI-assisted versus traditional instruction and moderate-to-large for AI-assisted versus inquiry-only](ai-assisted-effect-sizes-large-vs-traditional.md) — possibly the same claim (merge candidate)

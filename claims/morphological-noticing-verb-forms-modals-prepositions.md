@@ -41,6 +41,9 @@ Analysis of the twelve morphological LREs in Table 1 shows verb forms as broad f
 
 ## Discussion
 
+## Learner Variables
+- [Morphological Awareness](../learner-variables/morphological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Review-reported experiment found output performed noticing and hypothesis-testing functions but no apparent metalinguistic function in L2 writing](zhao-ping-output-functions-writing-experiment.md) — the general claim this finding bears on, with the studies behind it

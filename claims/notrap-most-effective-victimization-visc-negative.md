@@ -61,6 +61,9 @@ Program-specific results (Table 4): ViSC (n = 5) OR = 0.95 for both outcomes; th
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Program effectiveness varies by country: Greece led for perpetration, Italy for victimization](anti-bullying-effectiveness-varies-by-country.md) — related
 - [Effectiveness of anti-bullying programs varies significantly across evaluations (heterogeneity)](anti-bullying-program-effectiveness-heterogeneous.md) — a broader claim this one bears on

@@ -41,6 +41,10 @@ The review reports, citing Janebi and Haghighatpasand (2019), that an adventure 
 
 ## Discussion
 
+## Learner Variables
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [The review reports that students learning with serious games often perform better on content knowledge assessments than those in traditional settings](serious-games-better-content-knowledge-than-traditional.md) — the general claim this finding bears on, with the studies behind it

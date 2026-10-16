@@ -55,3 +55,4 @@ Two longitudinal field studies in developmental psychology courses: Experiment 1
 - [Without instructional support, learners show low cognitive strategy use and almost absent metacognitive strategies in journal writing, and realized strategy use correlates with learning outcomes](unsupported-journal-writing-low-strategy-use.md) — related
 - [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md) — a broader claim this one bears on
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
+- [Expertise reversal: high-guidance worked examples become ineffective or detrimental once learners have developed cognitive schemata](expertise-reversal-worked-examples.md) — related

@@ -46,3 +46,4 @@ Qualitative thematic interviews with 671 students, coded by keyword extraction a
 - [Academic burnout is widespread among secondary vocational students](academic-burnout-widespread-vocational-students.md) — related
 - Qualitative interviews identify prior coding interest, time resources, course pacing, and financial constraints as key experiential factors shaping LC101 persistence — related
 - [Only 4.3% of surveyed secondary vocational students meet mental health knowledge standards](vocational-students-low-mental-health-literacy-4-3-percent.md) — related
+- [Four factors explain students' sense of belonging in STEM, with interpersonal relationships the most commonly cited](four-factors-interpersonal-relationships-competence-interest-identity-explain-belonging.md) — related

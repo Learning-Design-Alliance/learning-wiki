@@ -42,6 +42,9 @@ Survey-based Rasch measures of interactive pedagogy in the cross-cohort disconti
 ## Discussion
 
 
+## Learner Variables
+- [Algebraic Thinking](../learner-variables/algebraic-thinking.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Double-dose algebra policy increased academic demand for both high- and low-skill students, with below-norm students' gains not attributable to peer ability changes](double-dose-algebra-increased-academic-demand-both-groups.md) — related
 - [Interactive pedagogy increased nearly half a standard deviation for below-norm students in homogeneous double-dose algebra classes](interactive-pedagogy-increased-below-norm.md) — possibly the same claim (merge candidate)

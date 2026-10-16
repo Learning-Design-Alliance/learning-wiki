@@ -43,6 +43,7 @@ Theoretical argument in a position paper. The author endorses Lightbown's formul
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
 
 ## Related Claims
 

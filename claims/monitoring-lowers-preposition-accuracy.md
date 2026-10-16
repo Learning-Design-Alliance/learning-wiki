@@ -42,6 +42,9 @@ In Ciske's four-style elicitation from one Korean student, the edited written st
 
 ## Discussion
 
+## Learner Variables
+- [Metacognition](../learner-variables/metacognition.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — the general claim this finding bears on, with the studies behind it

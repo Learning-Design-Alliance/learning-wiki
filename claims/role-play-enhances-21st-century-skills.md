@@ -58,6 +58,10 @@ The review reports, citing Aura, Alho, and Kallio (2023), that role-playing exer
 ## Discussion
 
 
+## Learner Variables
+- [Communication Skills](../learner-variables/communication-skills.md) — outcome: instruction changes it
+- [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 - [21st Century after-school programs had only limited influence on academic performance, including test scores, grades, and homework completion](21st-cclc-limited-academic-influence.md) — related
 - [The 21st Century Community Learning Centers program had few impacts on student achievement overall](21st-cclc-national-evaluation-no-academic-improvement.md) — related

@@ -60,6 +60,9 @@ Contrast finding from the same reflection analysis: when staff assumed too much 
 
 ## Discussion
 
+## Learner Variables
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [After the Inclusive Innovation pilots, district-community teams sustained solutions through multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits](inclusive-innovation-sustainability-factors.md) — the general claim this finding bears on, with the studies behind it

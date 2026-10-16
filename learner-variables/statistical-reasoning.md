@@ -12,6 +12,7 @@ generated:
 # Statistical Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
+> **Evidence** · 12 claims (10 show a difference, 2 mixed) · 5 studies (3 causal, 1 associational, 1 qualitative), `q2`–`q3` · 1 of 5 report an effect size · 12 claims rest on one study
 
 ## Description
 Statistical reasoning is thinking about uncertainty and building mental models of real-world phenomena from data. The Learner Variability Navigator describes it as a cycle: learners pose a question about data, decide what data they need, gather it, organise, analyse and display it, and then describe what it shows and draw inferences to answer the question. It is assessed with questionnaires on understanding of variation (in chance settings such as dice, and in data and graphs) that pair multiple-choice items with written explanations, and with the data-analysis and probability subtests of diagnostic batteries.
@@ -35,6 +36,18 @@ LVN follows it from grade 3 to grade 10. It builds on [measurement](measurement.
 
 ## Claims
 <!-- Claims reporting findings about this variable, with evidence tags -->
+- [A bias-free experimental-probability subcategory (o**) emerged only in the die-rolling task](../claims/o-star-star-law-of-large-numbers.md) [~M] — learners who differ on it differ in outcomes
+- [Ability to Reason (SMP 2) benchmark levels improved linearly across all three time points (d ≈ 0.78) with no significant quadratic trend](../claims/mindsets-smp2-linear-trend.md) [+M] — instruction changes it
+- [Attributing outcomes to Allah's will among some PSMTs functioned as probabilistic reasoning, not mere personalist belief](../claims/allahs-will-as-probabilistic-reasoning.md) [+M] — learners who differ on it differ in outcomes
+- [Mathematically oriented PSMTs exhibit equiprobability and insensitivity-to-prior-probability biases](../claims/m-thinkers-equiprobability-insensitivity-biases.md) [+M] — learners who differ on it differ in outcomes
+- [Outcome-oriented PSMTs conflate causality with conditionality and predict single-trial outcomes](../claims/outcome-oriented-causal-conception.md) [+M] — learners who differ on it differ in outcomes
+- [Post-test mean differences favored the ChatGPT group on knowing, applying, and reasoning subscales and overall at α=0.05](../claims/chatgpt-posttest-subscale-differences-significant.md) [+M] — instruction changes it
+- [Repeated Reasoning (SMP 8) benchmark levels improved linearly across all three time points (d ≈ 0.77) with no significant quadratic trend](../claims/mindsets-smp8-linear-trend.md) [+M] — instruction changes it
+- [Risk status tends to persist: 75 percent of students significantly below benchmark at BOY remained so at EOY, and earlier grades showed lower year-to-year persistence](../claims/early-literacy-risk-persistence-within-and-across-years.md) [+M] — learners who differ on it differ in outcomes
+- [Students showed a large, statistically significant pre-to-post improvement in ability to reason (SMP 2) in the Mindsets program (d ≈ 1.20)](../claims/mindsets-smp2-pre-post-improvement.md) [+M] — instruction changes it
+- [Students showed a large, statistically significant pre-to-post improvement in repeated reasoning (SMP 8) in the Mindsets program (d ≈ 1.19)](../claims/mindsets-smp8-pre-post-improvement.md) [+M] — instruction changes it
+- [Subjectively oriented reasoning emerged in the giving-birth context but disappeared in the die-rolling task](../claims/subjective-reasoning-context-dependent.md) [~M] — learners who differ on it differ in outcomes
+- [Visualisation literacy positively predicts task accuracy in both conditions, and data comics show no equalising effect for lower-literacy students](../claims/visualisation-literacy-predicts-accuracy-no-equalising-effect.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Statistical Variation Measure** (Watson et al., 2003): Questionnaire examining student understanding of statistical variation, including understanding of basic chance measurement and graph reading, variation in a chance setting (e.g., results of throwing a die), and variation in data and graphs. Students respond to multiple choice questions but also have space to explain their responses which allows for a more comprehensive measure of their understanding.

@@ -44,6 +44,7 @@ Interview quote from participant P02 in the field study's visualization theme, d
 
 ## Learner Variables
 - [Attention](../learner-variables/attention.md) — outcome: instruction changes it
+- [Visual Processing](../learner-variables/visual-processing.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — a broader claim this one bears on

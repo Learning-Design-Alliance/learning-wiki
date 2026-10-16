@@ -43,6 +43,7 @@ The review reports Hulstijn and Hulstijn's (1984) study of L2 Dutch students per
 
 ## Learner Variables
 - [Attention](../learner-variables/attention.md) — moderator: an instructional effect differs with it
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
 
 ## Related Claims
 

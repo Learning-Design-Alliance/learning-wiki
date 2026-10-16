@@ -42,6 +42,10 @@ Randomized comparison in Barker and Torgesen (1995) against math-oriented softwa
 ## Discussion
 
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [DaisyQuest outperformed alternative reading software on phonological awareness in at-risk first graders](daisyquest-beats-reading-software-phonological-awareness.md) — related
 - [DaisyQuest improved phonological awareness over regular kindergarten curriculum on three of four measures](daisyquest-kindergarten-significant-gains.md) — related

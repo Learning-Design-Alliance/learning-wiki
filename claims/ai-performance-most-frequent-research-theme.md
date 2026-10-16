@@ -46,3 +46,4 @@ Distribution of the 183 publications across nine research themes (Fig. 4) shows 
 - [Mathematics is the most frequently covered STEM discipline (39%) in research on generative AI in secondary STEM education, followed by physics (24%) and science (19%)](mathematics-most-covered-discipline-generative-ai.md) — related
 - [Research on AI in STEM education evolved through three stages, from proof-of-concept learning systems to generative-AI-centered adaptive instruction (2015–2025)](ai-stem-education-three-evolutionary-stages.md) — related
 - [Only 3 of 183 publications on generative AI in secondary STEM education address learning about generative AI rather than learning with it](three-of-183-address-learning-about-generative-ai.md) — related
+- [Most reviewed studies reported significantly positive AI effects on STEM learning performance, with two null results](ai-positive-learning-performance-effects-two-nulls.md) — related

@@ -56,3 +56,4 @@ Descriptive temporal analysis of the 42 included studies (Results, RQ1). The rev
 - Publication output on metacognition in STEM education increased steadily since 2005, with notable growth after 2015 — related
 - [AIEd higher education publications rose nearly two to three times in 2021 and 2022 compared with previous years](ai-ed-he-publications-rose-2021-2022.md) — related
 - [The K-12 AI literacy literature grew slowly until 2016 and increased sharply in 2020, with most contributions published as conference papers](k12-ai-literacy-bibliometric-growth.md) — related
+- [Publication of empirical AI-STEM studies increased over the decade, with most articles published 2018–2021](ai-stem-publications-increasing-trend-2018-2021.md) — related

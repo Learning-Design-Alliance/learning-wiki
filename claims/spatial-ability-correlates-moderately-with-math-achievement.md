@@ -22,6 +22,7 @@ sources:
 # Spatial ability correlates moderately with mathematics achievement (r = .25), less strongly than verbal ability
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q3` · `i2` medium · n=30 meta-analyses, 66 correlations from 13,853 effect sizes (~4.66 million participants)
 
 Spatial ability correlates r = .25 with mathematics achievement (Xie et al. 2020, k = 263, n = 14,766), with subtypes from .21 to .35. These are correlations compiled across meta-analyses: they describe how strongly the characteristic goes with mathematics achievement, not what causes it.
 

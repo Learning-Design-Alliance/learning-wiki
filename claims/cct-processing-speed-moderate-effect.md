@@ -40,6 +40,9 @@ Domain-specific random-effects meta-analysis of 33 studies reporting processing 
 ## Discussion
 
 
+## Learner Variables
+- [Processing Speed](../learner-variables/processing-speed.md) — outcome: instruction changes it
+
 ## Related Claims
 - [CCT shows no significant effects on executive functions or attention in healthy older adults](cct-no-effect-executive-attention.md) — related
 - [Computerized cognitive training produces a small but statistically significant improvement in cognitive performance in healthy older adults](cct-small-significant-overall-effect-healthy-older-adults.md) — a broader claim this one bears on

@@ -48,3 +48,5 @@ The review reports Gilbert et al. (2020, Experiment 3), which manipulated practi
 - [Individuals systematically overuse reminders relative to the optimal offloading level, and reminder bias correlates with confidence and metacognitive bias](reminder-bias-overuse-external-aids.md) — related
 - [Feedback interventions show phase-specific effects: advice feedback reduces reminder bias, but ranking feedback alters beliefs without increasing offloading](feedback-effects-on-offloading-mixed.md) — related
 - [Offloading attenuates individual differences linked to unaided ability](offloading-attenuates-individual-differences.md) — related
+- [Task accuracy is far higher with reminders than internal memory and is unaffected by reminder framing](reminder-accuracy-unaffected-by-framing.md) — related
+- [The more underconfident participants are about their memory abilities, the larger their reminder bias, regardless of framing](underconfidence-predicts-reminder-bias.md) — related

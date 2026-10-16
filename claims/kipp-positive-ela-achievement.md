@@ -42,6 +42,9 @@ WWC review of four studies; Table 4 rates ELA achievement "Positive effects" wit
 ## Discussion
 
 
+## Learner Variables
+- [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [KIPP charter schools have potentially positive effects on social studies achievement, with mixed study findings](kipp-mixed-social-studies.md) — related
 - [A lottery-based randomized controlled trial of KIPP middle schools found statistically significant positive effects on state math and reading tests](kipp-rct-lottery-positive-effects.md) — a narrower finding that bears on this claim

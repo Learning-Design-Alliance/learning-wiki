@@ -45,6 +45,7 @@ Quasi-experimental study (Bacon, 2001b) with 394 students in 11 classrooms in on
 
 ## Learner Variables
 - [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Building Decision Skills combined with service learning has potentially positive effects on high school students' knowledge, attitudes, and values](bds-service-learning-potentially-positive-kav.md) — related

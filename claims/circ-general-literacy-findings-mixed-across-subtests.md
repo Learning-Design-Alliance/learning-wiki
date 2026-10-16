@@ -61,5 +61,9 @@ WWC review of the Jewell (1994) quasi-experiment reporting a non-significant eff
 ## Discussion
 
 
+## Learner Variables
+- [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — outcome: instruction changes it
+- [Communication Skills](../learner-variables/communication-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Stevens and Slavin (1995) found statistically significant positive effects of CIRC on CAT Reading Comprehension and Vocabulary subtests, while Jewell (1994) found no statistically significant effects](circ-comprehension-findings-mixed-across-two-quasi-experiments.md) — related

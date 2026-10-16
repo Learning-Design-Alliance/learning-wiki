@@ -47,3 +47,7 @@ The review reports that Maskarinec and Thompson (1976, Experiment 2) and Shaughn
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — a broader claim this one bears on
 - [Eliminating differential storage of structural components reduces the free-recall spacing effect at moderate to long lags](free-recall-lag-effect-structural-components.md) — related
 - [The spacing benefit holds even at very short retention intervals, contradicting the Peterson paradox](spacing-benefit-short-retention-no-peterson-paradox.md) — a broader claim this one bears on
+- [When the orienting task prevented interitem associations, the within-list lag effect was attenuated after long retention intervals and this attenuation was not a floor effect](lag-effect-eliminated-long-retention-no-associations.md) — reports the opposite
+- [Preschoolers' recall of repeated items exceeds the maximum predicted by encoding variability theories assuming independent encodings](preschoolers-recall-exceeds-encoding-variability-prediction.md) — related
+- [With constant judgment standards, the same-different orienting task at repetitions did not affect the within-list lag effect, arguing against inattention and encoding-variability explanations](same-different-task-no-lag-interaction.md) — related
+- [Distributed presentations are recalled better than massed presentations in free recall (the spacing effect), and requiring likelihood ratings does not alter this effect](spacing-effect-free-recall-dp-beats-mp.md) — related

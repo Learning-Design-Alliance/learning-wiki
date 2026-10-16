@@ -42,6 +42,9 @@ WWC synthesis of two studies: PCER Consortium (2008), a randomized controlled tr
 ## Discussion
 
 
+## Learner Variables
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Chambers et al. report a statistically significant expressive language effect for 3-year-olds but not 4-year-olds, which WWC recalculation does not confirm](curiosity-corner-expressive-language-age-group-mixed.md) — related
 - [Curiosity Corner shows no discernible effects on cognition in the Chambers et al. quasi-experimental study](curiosity-corner-no-discernible-cognition-effects.md) — related

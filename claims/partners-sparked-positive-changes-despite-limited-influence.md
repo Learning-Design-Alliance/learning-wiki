@@ -42,6 +42,9 @@ Multi-year qualitative case study of nine external partners across 18 Chicago sc
 ## Discussion
 
 
+## Learner Variables
+- [Home Learning Environment](../learner-variables/home-learning-environment.md) — outcome: instruction changes it
+
 ## Related Claims
 - [External partners' influence is necessarily limited by their minor role in schools' attention and activity](partner-influence-limited-by-minor-role-in-schools.md) — reports the opposite
 - [Principals in implementation networks reported moderate school improvement from working with external partners and other network schools, attributed largely to teacher collaboration](network-participation-moderate-school-improvement.md) — related

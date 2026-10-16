@@ -42,6 +42,10 @@ Controlled intervention study in inner-city kindergarten classrooms with 84 trea
 ## Discussion
 
 
+## Learner Variables
+- [Alphabet Knowledge and Print Awareness](../learner-variables/alphabet-knowledge-and-print-awareness.md) — outcome: instruction changes it
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Before intervention, treatment and control kindergartners did not differ on age, demographics, vocabulary, phoneme segmentation, letter knowledge, or reading](pretest-equivalence-phoneme-awareness-kindergarten-trial.md) — related
 - [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — a broader claim this one bears on

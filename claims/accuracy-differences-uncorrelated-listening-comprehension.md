@@ -42,6 +42,9 @@ Observational analysis of classroom data from the same four intact intensive ESL
 ## Discussion
 
 
+## Learner Variables
+- [Oral Language](../learner-variables/oral-language.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - Receptive vocabulary knowledge correlates moderately with advanced L2 listening comprehension in advanced Turkish EFL learners — related
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related

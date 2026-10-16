@@ -50,3 +50,4 @@ PFA-based logistic regression of practice data (5,696 observations, 178 particip
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — a broader claim this one bears on
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
 - [Differential scaffold benefits were more salient for the more difficult learning concept](scaffold-benefits-more-salient-for-difficult-concept.md) — related
+- [Map B was self-scored as easier to learn than Map A during the test/study phase](map-b-easier-than-map-a-self-scored.md) — related

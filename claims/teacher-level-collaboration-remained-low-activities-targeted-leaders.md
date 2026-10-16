@@ -42,6 +42,9 @@ Findings from teacher focus groups and interviews across grantee sites in the di
 ## Discussion
 
 
+## Learner Variables
+- [Collaboration](../learner-variables/collaboration.md) — outcome: instruction changes it
+
 ## Related Claims
 - [In cities with individually targeted grant activities, more than three-quarters of grant participants collaborated across sectors](individual-targeted-grants-three-quarters-cross-sector.md) — related
 - [Cross-sector collaboration is less widespread among school leaders than central office administrators but is particularly strong among participants in grant-funded intensive leadership training or principal residency programs](leadership-program-participants-show-strongest-cross-sector-collaboration.md) — related

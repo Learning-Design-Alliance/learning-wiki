@@ -77,3 +77,4 @@ The same multiple regression on motivational factors found no significant predic
 - [Extensive reading reduced Japanese EFL learners' anxiety about foreign-language reading (r = .34)](er-reduced-anxiety-efl-reading-attitude.md) — related
 - [At semester end, intrinsic motivation was positively correlated and programming anxiety negatively correlated with programming performance](motivation-anxiety-correlate-with-programming-performance.md) — a narrower finding that bears on this claim
 - [The SRL and SAL perspectives on student motivation and learning differ, and the article discusses those differences](srl-perspective-contrasts-with-sal-perspective.md) — related
+- [AI-mediated language instruction increases EFL learners' L2 motivation more than traditional instruction](ai-instruction-increases-l2-motivation.md) — related

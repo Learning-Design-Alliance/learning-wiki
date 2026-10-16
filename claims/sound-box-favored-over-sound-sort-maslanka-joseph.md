@@ -42,6 +42,9 @@ A quasi-experimental study of 19 three- to five-year-old children at a private s
 ## Discussion
 
 
+## Learner Variables
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Phonemic segmentation training favored over rhyme/alliteration training on print knowledge, phonological processing, and early reading/writing (Yeh 2003), with substantively important but non-significant differences](phonemic-segmentation-favored-over-rhyme-alliteration-yeh.md) — related
 - [Phonological Awareness Training has positive effects on phonological processing in preschool children, averaging +27 percentile points](phonological-awareness-training-positive-effects-phonological-processing.md) — related

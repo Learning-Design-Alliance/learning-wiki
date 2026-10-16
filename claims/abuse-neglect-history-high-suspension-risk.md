@@ -42,6 +42,9 @@ Observational analysis linking Chicago discipline records with child welfare dat
 ## Discussion
 
 
+## Learner Variables
+- [Adverse Experiences](../learner-variables/adverse-experiences.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Students with low prior test scores and students with disabilities were suspended at substantially higher rates than their peers in CPS](low-achievement-disability-suspension-rates-cps.md) — related
 - [A subset of about a quarter of Chicago high schools and 10 percent of middle-grades schools have very high suspension rates, almost all predominantly serving African-American students](high-suspension-schools-concentrated-disadvantage.md) — related

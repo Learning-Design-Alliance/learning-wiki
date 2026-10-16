@@ -43,6 +43,7 @@ Model 1 of the sequential test-score regressions on the two-cohort discontinuity
 
 ## Learner Variables
 - [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
+- [Algebraic Thinking](../learner-variables/algebraic-thinking.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 

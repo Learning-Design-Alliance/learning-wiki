@@ -42,6 +42,9 @@ Analysis of student response distributions for the five most underestimated frac
 ## Discussion
 
 
+## Learner Variables
+- [Proportional Reasoning](../learner-variables/proportional-reasoning.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [LLMs systematically underestimate fraction items whose difficulty is driven by misconceptions (the \"Easy Trap\")](easy-trap-fraction-items-underestimated-by-llms.md) — a broader claim this one bears on
 - [Behavioural analytics alone cannot distinguish the cognitive origins of identical learner errors](behaviour-alone-insufficient-cognitive-origins.md) — related

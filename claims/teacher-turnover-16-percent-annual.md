@@ -51,3 +51,4 @@ Descriptive analysis of the nationally representative Schools and Staffing Surve
 - [Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors](alternative-certification-25-percent-more-likely-to-leave.md) — related
 - [Turnover is higher in charter schools (17.8%) than traditional public schools (14.9%) and higher in city schools (17.7%) than other locales](school-type-locale-turnover-differences.md) — related
 - [Teachers with little or no pedagogical preparation are 2 to 3 times more likely to leave the profession than those with the most comprehensive preparation](underprepared-teachers-leave-at-2-3-times-rate.md) — related
+- [Teaching has a relatively high turnover rate compared to nursing and national employee turnover benchmarks](teaching-turnover-high-versus-other-occupations.md) — related

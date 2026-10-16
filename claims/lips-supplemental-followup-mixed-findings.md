@@ -42,6 +42,9 @@ Supplemental 1-year follow-up findings for 74 first-grade students in three scho
 ## Discussion
 
 
+## Learner Variables
+- [Auditory Processing](../learner-variables/auditory-processing.md) — outcome: instruction changes it
+
 ## Related Claims
 - [LiPS has potentially positive effects on comprehension for beginning readers, based on one randomized trial showing a statistically significant positive effect on passage comprehension](lips-potentially-positive-comprehension-effects.md) — related
 - [In Torgesen et al. (2010), LiPS produced statistically significant positive effects on word accuracy/fluency, phonemic decoding, phonological awareness, and spelling versus a basal reading program](torgesen-2010-positive-alphabetics-effects.md) — related

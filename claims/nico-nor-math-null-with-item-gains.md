@@ -59,6 +59,7 @@ Item-level analyses of the math assessment in the same field study. The report s
 
 ## Learner Variables
 - [Spatial Ability](../learner-variables/spatial-ability.md) — outcome: instruction changes it
+- [Measurement](../learner-variables/measurement.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Spatial Skills Improve Through Block Building](spatial-skills-improve-through-block-building.md) — related

@@ -52,3 +52,4 @@ Non-pre-registered linear regression analyses in Experiment 1 predicting actual 
 - [Older adults show reduced reminder bias relative to objective need despite setting more reminders](ageing-reminder-bias-reduced.md) — related
 - [Effort avoidance contributes to reminder overuse beyond metacognitive error](effort-avoidance-reminder-bias.md) — related
 - [Metacognitive confidence triggers intention offloading independently of objective memory need](metacognition-triggers-offloading.md) — a broader claim this one bears on
+- [Framing adds an additive predictive value to the reminder bias beyond participants' internal metacognitive bias](framing-additive-beyond-metacognitive-bias.md) — related

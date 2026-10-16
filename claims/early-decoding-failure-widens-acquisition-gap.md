@@ -43,6 +43,9 @@ Authors' concluding interpretation (type e): even though the two young adult gro
 ## Discussion
 
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - False beginners' backsliding occurs in comprehension, and their main problem lies in recoding and decoding English words — related
 - On harder passages, false beginners' oral reading falls between true beginners and successful learners — related

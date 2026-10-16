@@ -44,6 +44,7 @@ Process-level analysis addressing RQ2 in the same within-subjects study: JVA agg
 
 ## Learner Variables
 - [Attention](../learner-variables/attention.md) — outcome: instruction changes it
+- [Visual Processing](../learner-variables/visual-processing.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Proactive feedback produces significant post-intervention increases in Joint Mental Effort of dyads](propact-feedback-increases-jme-post-intervention.md) — related

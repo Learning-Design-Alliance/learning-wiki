@@ -12,6 +12,7 @@ generated:
 # Auditory Processing
 
 > **Learner Variable** · [All learner variables](index.md)
+> **Evidence** · 7 claims (3 show a difference, 3 mixed, 1 no difference) · 6 studies (2 quant-synthesis, 2 review, 1 causal, 1 associational), `q2`–`q3` · 2 of 6 report an effect size · 5 claims rest on one study
 
 ## Description
 Auditory processing is what the brain does with sound once it has been heard: locating sounds, telling them apart and interpreting them as meaningful, so that a listener can attend to, understand and remember speech and control their own speaking. It underpins spoken language and listening comprehension and lays the foundation for reading and writing, including [phonological awareness](phonological-awareness.md), at every age the LVN covers from pre-kindergarten to adulthood. It is still developing through adolescence, when academic demands on listening rise. Difficulties show up most where speech must be followed against background noise, as in a busy classroom, and learners with dyslexia may process speech sounds differently. It is measured with standardised batteries of auditory attention, auditory memory and phonological skills, and with tests of auditory processing speed. It is distinct from hearing itself, which [access](access.md) covers, though hearing loss affects it; in older adults, age-related decline in hearing speech in noise is part of the picture.
@@ -34,6 +35,13 @@ Auditory processing is what the brain does with sound once it has been heard: lo
 
 ## Claims
 <!-- Claims reporting findings about this variable, with evidence tags -->
+- [All participants believed heritage learners perform better in classroom listening, but dialectal differences posed difficulties for HLLs that NHLLs did not notice](../claims/perceived-hll-advantage-and-dialect-difficulty.md) [~W] — learners who differ on it differ in outcomes
+- [Heritage and non-heritage learners perceive textbook listening activities in reversed ways: no HLL found them difficult and no NHLL found them easy](../claims/reversed-perceptions-textbook-listening-activities.md) [+W] — learners who differ on it differ in outcomes
+- [Meaningful background speech impairs delayed memory for texts in teenagers more consistently than transportation noise](../claims/meaningful-speech-impairs-prose-memory-teenagers.md) [~M] — learners who differ on it differ in outcomes
+- [No individual alphabetics outcome reached statistical significance in the WWC analysis](../claims/voyager-alphabetics-null-significance.md) [-M] — instruction changes it
+- [Noise impairs children's performance in complex listening tasks beyond simple identification, with children affected more than adults](../claims/noise-impairs-children-listening-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [One-year follow-up and LiPS-vs-RWT supplemental comparisons showed mostly non-significant differences, with some follow-up alphabetics effects remaining significant](../claims/lips-supplemental-followup-mixed-findings.md) [~W] — instruction changes it
+- [Read, Write & Type!™ shows statistically significant positive effects on phoneme segmenting and word attack relative to regular classroom instruction for low-achieving first graders](../claims/rwt-significant-alphabetics-gains-versus-regular-instruction.md) [+W] — instruction changes it
 
 ## Measures
 - **Test of Auditory Processing Skills** (Martin, Brownell & Hamaguchi, 2018): auditory attention, auditory memory and phonological skills for ages 4 to 18.

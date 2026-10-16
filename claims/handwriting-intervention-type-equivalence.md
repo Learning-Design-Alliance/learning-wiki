@@ -79,6 +79,9 @@ Thirty-eight children aged 6–11 with handwriting dysfunction were randomly ass
 - Are effects durable without continued practice, and does durability vary by type?
 - How do dosage and fidelity interact with type — could a low-dose version of one type match a high-dose version of another?
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Automatic word recognition frees resources for comprehension.](automatic-word-recognition-frees-resources-for-comprehension.md) — the same automaticity logic applied to reading: fluent low-level processing frees working memory for higher-order tasks

@@ -45,6 +45,7 @@ Structural equation model of cross-sectional survey data from 502 faculty at one
 
 ## Learner Variables
 - [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+- [Social Supports](../learner-variables/social-supports.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [AI literacy is the strongest predictor of faculty AI well-being in the structural model](ai-literacy-strongest-predictor-of-ai-well-being.md) — related

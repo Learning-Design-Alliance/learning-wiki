@@ -42,6 +42,9 @@ Print knowledge findings from two RCTs. Appendix A3.2 prints individual effect s
 ## Discussion
 
 
+## Learner Variables
+- [Alphabet Knowledge and Print Awareness](../learner-variables/alphabet-knowledge-and-print-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Phonological awareness training plus letter knowledge training has positive effects on preschoolers' print knowledge](pat-lk-positive-print-knowledge-preschool.md) — related
 - [Ready, Set, Leap!® has no significant effect on preschool early reading/writing (effect size 0.09)](ready-set-leap-null-early-reading-writing.md) — related

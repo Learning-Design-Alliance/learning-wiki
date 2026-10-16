@@ -41,6 +41,9 @@ Moderator analysis of outcome construct (Table 3): retention k = 243 (g = 0.63),
 
 ## Discussion
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — the general claim this finding bears on, with the studies behind it

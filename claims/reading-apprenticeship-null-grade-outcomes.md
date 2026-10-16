@@ -42,6 +42,9 @@ Null findings from the randomized controlled trial's first cohort (686 intervent
 ## Discussion
 
 
+## Learner Variables
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Reading Apprenticeship® showed a statistically significant positive effect on the GRADE reading comprehension subtest for Cohort 2 ninth-grade students](reading-apprenticeship-cohort2-comprehension-significant.md) — related
 - [Reading Apprenticeship® shows no effect on vocabulary (effect size 0.00)](reading-apprenticeship-no-vocabulary-effect.md) — related

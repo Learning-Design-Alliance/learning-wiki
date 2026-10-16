@@ -43,6 +43,9 @@ The review reports, citing Allington (1984a), a classroom observational finding 
 ## Discussion
 
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md) — related
 - [Training seventh graders to elaborate produced better long-term recall than questions stimulating elaboration, and the training transferred to new passages](trained-elaboration-beats-question-stimulated-elaboration.md) — related

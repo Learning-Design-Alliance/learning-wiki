@@ -44,6 +44,7 @@ Authors' closing recommendation slide (type e, interpretation). The presentation
 
 ## Learner Variables
 - [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+- [Proportional Reasoning](../learner-variables/proportional-reasoning.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — a broader claim this one bears on

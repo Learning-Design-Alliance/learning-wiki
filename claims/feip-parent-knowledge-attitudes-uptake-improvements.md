@@ -42,6 +42,9 @@ The report's key findings section states that the implementation-phase evaluatio
 ## Discussion
 
 
+## Learner Variables
+- [Home Learning Environment](../learner-variables/home-learning-environment.md) — outcome: instruction changes it
+
 ## Related Claims
 - [FEIP was associated with improvements in professionals' knowledge and skills related to family engagement practice](feip-professional-knowledge-skills-improvements.md) — related
 - [FEIP was associated with improvements in interagency collaboration and organizational capacity to support family engagement](feip-interagency-collaboration-capacity-improvements.md) — related

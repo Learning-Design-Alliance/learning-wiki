@@ -46,3 +46,4 @@ The report's Capacity-Building Outcomes section asserts these outcomes as the go
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
 - [Dispositions such as openness and shared responsibility are shaped by conditions, not fixed individual traits](dispositions-shaped-by-conditions.md) — related
 - [District improvement teams valued CALLI for peer learning, expert access, and structure that built capacity for continuous improvement](calli-districts-valued-peer-learning-experts-structure.md) — related
+- [The article asserts that potential impact and social change rise with increasing stakeholder participation](participation-level-tied-to-real-world-impact.md) — related

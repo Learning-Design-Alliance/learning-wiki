@@ -51,3 +51,4 @@ Quasi-experimental study of 134 Iranian EFL learners in four intact classes; one
 - [The literature is supportive of recasts, but recast effectiveness varies with the language area and learner knowledge, focus, and aptitudes](recasts-supported-but-effectiveness-varies.md) — a broader claim this one bears on
 - [All three groups benefited from the instructional intervention, with both experimental groups benefiting the most](all-groups-benefited-experimental-most.md) — related
 - [Explicit correction improves adult L2 learners' responses on corrected suffixation items during the feedback session](explicit-correction-improves-feedback-session-responses.md) — related
+- [AI-mediated language instruction produces significantly greater English learning achievement gains than traditional instruction among EFL learners](ai-instruction-greater-efl-achievement-gains.md) — related

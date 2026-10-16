@@ -41,6 +41,9 @@ A theoretical proposition from the conceptual framework's validation agenda, off
 
 ## Discussion
 
+## Learner Variables
+- [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — the general claim this finding bears on, with the studies behind it

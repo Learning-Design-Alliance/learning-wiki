@@ -55,6 +55,9 @@ Narrative review attributing this finding to Duncan (1996); the reviewed study's
 ## Discussion
 
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — related

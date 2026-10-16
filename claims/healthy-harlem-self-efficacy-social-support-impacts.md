@@ -42,6 +42,9 @@ The evaluation's key findings state the program "Had some positive impacts on ot
 ## Discussion
 
 
+## Learner Variables
+- [Social Supports](../learner-variables/social-supports.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Healthy Harlem increased students' nutrition knowledge and physical-activity self-efficacy, with gains sustained over three years](healthy-harlem-sustained-nutrition-knowledge-self-efficacy-gains.md) — related
 - [Healthy Harlem generally increased students' fitness levels, with variation by gender](healthy-harlem-fitness-gains-vary-by-gender.md) — related

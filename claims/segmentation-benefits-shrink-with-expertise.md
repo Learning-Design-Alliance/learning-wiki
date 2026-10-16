@@ -119,3 +119,6 @@ The review reports Spanjers et al.'s (2010) experiment on probability calculatio
 - [The expertise reversal effect relies on changes in relative levels of element interactivity due to changes in relative levels of expertise](expertise-reversal-changes-from-expertise-levels.md) — a broader claim this one bears on
 - [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](expertise-reversal-effect-definition.md) — a broader claim this one bears on
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — a broader claim this one bears on
+- [Cognitive load when studying depended on instructional method (highest in the worked-out examples condition), but no prior knowledge or test-phase effects emerged](cognitive-load-method-effect-studying.md) — related
+- [Instructional method and prior knowledge interact on conceptual understanding of statistics (expertise reversal effect)](expertise-reversal-conceptual-understanding-statistics.md) — a broader claim this one bears on
+- [Model progression benefits learning only in sufficiently complex simulations; in a simple domain it was less efficient than full complexity from the start](model-progression-complexity-boundary.md) — related

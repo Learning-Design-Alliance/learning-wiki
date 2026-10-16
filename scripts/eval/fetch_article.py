@@ -203,6 +203,26 @@ def matches_title(text: str, title: str) -> bool:
     return sum(w in head for w in words) / len(words) >= 0.6
 
 
+def _fold(s: str) -> str:
+    import unicodedata
+    return unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()
+
+
+def matches_author(text: str, authors) -> bool:
+    """Whether the queued first author's surname appears in the document's opening. A generic
+    title passes matches_title on another work about the same topic: on hq-wave-1 (2026-10-16)
+    "Promoting learning and achievement through self-assessment" (Andrade) fetched a TESL Journal
+    piece on reflection journals, and Zimmerman 1990 a Spanish doctoral thesis. Both fail this;
+    none of the other 60 cached texts in that batch does. Whitespace is ignored because PDF text
+    splits names ("V eenman")."""
+    a = authors if isinstance(authors, str) else (authors[0] if authors else "")
+    first = a.split(",")[0].strip() if "," in a else a.split(" and ")[0].strip()
+    surname = re.sub(r"[^a-z]", "", _fold(first.split()[-1])) if first.split() else ""
+    if len(surname) < 3:
+        return True
+    return surname in re.sub(r"[^a-z]", "", _fold(text[:6000]))
+
+
 def _fetch_web(fetch_url: str) -> str:
     """A report or article on the publisher's own site (the curated lists in
     scripts/eval/source_lists.py: WWC, Evidence for ESSA, Mathematica, Brookings, ...).
@@ -359,7 +379,14 @@ def fetch_article_text(entry: dict, refresh: bool = False) -> str:
     cache_path = CACHE_DIR / f"{entry['id']}.txt"
 
     if cache_path.exists() and not refresh:
-        return cache_path.read_text(encoding="utf-8")
+        cached = cache_path.read_text(encoding="utf-8")
+        # Texts cached before the title check existed are held to it too: two wrong
+        # documents from that cache reached hq-wave-1 (2026-10-16).
+        if (entry.get("source") in ("web", "oa") and entry.get("title")
+                and not (matches_title(cached, entry["title"]) and matches_author(cached, entry.get("authors")))):
+            raise FetchError(f"the cached document does not look like {entry['title'][:80]!r}; "
+                             f"not ingesting another work under its name")
+        return cached
 
     source = entry["source"]
     fetch_url = entry["fetch_url"]
@@ -394,7 +421,8 @@ def fetch_article_text(entry: dict, refresh: bool = False) -> str:
     except requests.RequestException as e:
         raise FetchError(f"Network error fetching {fetch_url}: {e}") from e
 
-    if source in ("web", "oa") and entry.get("title") and not matches_title(text, entry["title"]):
+    if source in ("web", "oa") and entry.get("title") and not (
+            matches_title(text, entry["title"]) and matches_author(text, entry.get("authors"))):
         raise FetchError(f"the fetched document does not look like {entry['title'][:80]!r} "
                          f"(fewer than 60% of its title words in the opening); not ingesting another work under its name")
     cache_path.write_text(text, encoding="utf-8")

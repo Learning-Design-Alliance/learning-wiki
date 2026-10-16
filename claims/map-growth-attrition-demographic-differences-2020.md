@@ -45,3 +45,4 @@ Attrition analysis comparing 5.2 million students tested in fall 2019, contrasti
 ## Related Claims
 - [Systematic attrition differences mean COVID-19 impacts on student achievement are likely underestimated in fall 2020 MAP Growth results](covid-achievement-impacts-likely-underestimated-attrition.md) — a broader claim this one bears on
 - [Attrition was concentrated in schools with higher concentrations of racial/ethnic minorities and socioeconomically disadvantaged students](map-growth-attrition-school-concentration-pattern.md) — related
+- [No significant differences in achievement growth were identified for Indigenous students between 2019 and 2020 cohorts](covid19-no-significant-indigenous-student-achievement-difference.md) — related

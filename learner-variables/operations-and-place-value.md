@@ -12,6 +12,7 @@ generated:
 # Operations and Place Value
 
 > **Learner Variable** · [All learner variables](index.md)
+> **Evidence** · 5 claims (4 show a difference, 1 mixed) · 7 studies (3 causal, 2 quant-synthesis, 2 design), `q1`–`q4` · 2 of 7 report an effect size · 4 claims rest on one study
 
 ## Description
 This page brings together two factors from the Learner Variability Navigator. Operations covers addition, subtraction, multiplication and division: at first learners treat an operation as an instruction about which calculation to do, and LVN stresses that they also need a conceptual understanding of what each operation means, which lets them estimate an approximate answer as well as calculate an exact one quickly and accurately. Place value is understanding that in the base-ten system the same digit stands for different values (ones, tens, hundreds) depending on its position, which children work out as they explore the size of numbers and how numbers relate.
@@ -35,6 +36,11 @@ Operations are assessed with standardised numerical operations subtests that ask
 
 ## Claims
 <!-- Claims reporting findings about this variable, with evidence tags -->
+- [A procedural \"answer is coming\" interpretation of the equals sign leads students to chain arithmetic and errors on missing-number equations](../claims/answer-coming-equals-sign-misconception.md) [+M] — learners who differ on it differ in outcomes
+- [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](../claims/comparing-contrasting-cases-improves-learning.md) [~M] — instruction changes it
+- [Self-management interventions targeted math calculation skills most often, with mean effect sizes of 2.66 for social studies, 2.28 for reading, 1.97 for math, and 1.13 for writing](../claims/self-management-ebd-academic-area-es.md) [+W] — instruction changes it
+- [Step-by-step automated annotations accelerated correction of procedural misconceptions, with intervention students rectifying fundamental errors weeks before control peers](../claims/automated-annotations-accelerate-misconception-correction.md) [+M] — instruction changes it
+- [The partnership's long-term goal is that students can solve fraction computation and ratio and rate problems](../claims/tft-student-long-term-outcome-goal.md) [+W] — instruction changes it
 
 ## Measures
 - **Numerical Operations Subtest of the Wechsler Individual Achievement Test (WIAT-III)** (Wechsler, 2009): Standardized test of procedural knowledge of Operations: writing numbers, counting and solving arithmetic problems, up to fractions and negative integers.

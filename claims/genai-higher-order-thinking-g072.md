@@ -41,6 +41,9 @@ Random-effects meta-analysis of the included comparison studies for higher-order
 
 ## Discussion
 
+## Learner Variables
+- [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Meta-reviews reach contradictory conclusions on whether AI reliance harms or helps critical thinking, with substantial design limitations limiting generalizability](contradictory-meta-reviews-ai-critical-thinking.md) — the general claim this finding bears on, with the studies behind it
@@ -56,3 +59,4 @@ Random-effects meta-analysis of the included comparison studies for higher-order
 - ChatGPT use shows a moderate positive pooled effect on students' higher-order thinking (g = 0.457) — related
 - [GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students](gai-assisted-dst-improves-cps-skills.md) — a narrower finding that bears on this claim
 - [GCLA use enhances higher-order thinking skills—critical thinking, problem-solving, and creativity—compared with traditional ChatGPT use](gcla-improves-hots.md) — a narrower finding that bears on this claim
+- [AI applications contributed to STEM students' higher-order thinking, including problem-solving, computational thinking, and self-regulated learning](ai-stem-higher-order-thinking-effects.md) — a narrower finding that bears on this claim

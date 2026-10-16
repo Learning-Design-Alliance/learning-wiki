@@ -12,6 +12,7 @@ generated:
 # Adverse Experiences
 
 > **Learner Variable** · [All learner variables](index.md)
+> **Evidence** · 13 claims (13 show a difference) · 13 studies (7 review, 2 associational, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q2` · 0 of 13 report an effect size · 13 claims rest on one study
 
 ## Description
 Adverse experiences are events that can be traumatic: physical, sexual or emotional abuse and neglect, witnessing violence at home or in the community, family instability, and discrimination experienced as racial trauma. The concern for learning is the stress response they set off. Repeated or prolonged stress releases stress hormones that can change how the body and brain develop, and childhood is a sensitive period for this, so effects on cognition, health, emotional well-being and achievement can carry into adulthood. Exposure is usually measured with self-report or parent-report trauma checklists. The LVN treats it as relevant at every age it covers, from pre-kindergarten to adult education: for children it bears on learning to read, write and do mathematics, and for adults it includes earlier negative experiences of school that make returning to learning harder. The summaries are equally clear that harm is not fixed: children's brains are plastic enough to recover, evidence-based interventions exist, and protective factors such as [social supports](social-supports.md), a [sense of belonging](belonging.md) and a positive [identity](identity.md) can buffer the effects. It overlaps with [affect regulation](affect-regulation.md), which covers the emotional side, and with [safety](safety.md).
@@ -34,6 +35,19 @@ Adverse experiences are events that can be traumatic: physical, sexual or emotio
 
 ## Claims
 <!-- Claims reporting findings about this variable, with evidence tags -->
+- [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](../claims/aces-toxic-stress-impair-learning.md) [+M] — learners who differ on it differ in outcomes
+- [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear](../claims/toxic-stress-impedes-learning.md) [+M] — learners who differ on it differ in outcomes
+- [Close monitoring of school experiences is important for children in their first year of foster care](../claims/foster-care-first-year-school-monitoring.md) [+W] — learners who differ on it differ in outcomes
+- [Instructional modifications that lower barriers are optional supports for younger resilient learners but may be necessary for older beginners, pre-literate students, and learners dealing with trauma or disabilities](../claims/modifications-essential-for-vulnerable-learners.md) [+W] — an instructional effect differs with it
+- [Many students and staff will return to school with trauma that can adversely affect teaching and learning](../claims/covid-trauma-adversely-affects-teaching-and-learning.md) [+W] — learners who differ on it differ in outcomes
+- [Multicultural approach to education may increase cultural sensitivity and reduce race-related stressors (review attribution)](../claims/multicultural-approach-sensitivity-stressors.md) [+W] — instruction changes it
+- [Positive school-based relationships support secondary students' learning and well-being, especially for youth experiencing poverty, trauma, and discrimination](../claims/positive-relationships-support-secondary-learning-wellbeing.md) [+M] — an instructional effect differs with it
+- [Prolonged or overwhelming stress disrupts self-regulation development by physically changing brain wiring toward emotional reactivity](../claims/toxic-stress-disrupts-self-regulation-development.md) [+M] — learners who differ on it differ in outcomes
+- [Prospective longitudinal studies of high-risk children found that a greater percentage became healthy, competent young adults than developed problems](../claims/high-risk-children-majority-resilient-longitudinal.md) [+M] — learners who differ on it differ in outcomes
+- [Strong relationships and supportive conditions can offset the effects of trauma on learning and behavior](../claims/relationships-offset-trauma-effects.md) [+W] — an instructional effect differs with it
+- [Students with a history of abuse or neglect are at particularly high risk of suspension, with almost a third suspended in 2013-14](../claims/abuse-neglect-history-high-suspension-risk.md) [+W] — learners who differ on it differ in outcomes
+- [Trauma exposure is widespread among school students and is associated with adverse cognitive, academic, behavioral, and socioemotional outcomes](../claims/trauma-exposure-adverse-school-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [Trauma-informed practices such as safe environments and positive relationships can mitigate the effects of trauma and promote resilience](../claims/trauma-informed-practices-mitigate-trauma-promote-resilience.md) [+W] — an instructional effect differs with it
 
 ## Measures
 - **Brief Trauma Questionnaire** (Schnurr et al., 2002): self-report of lifetime exposure to traumatic events such as accidents, combat, illness, abuse and disasters.

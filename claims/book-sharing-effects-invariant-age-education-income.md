@@ -42,6 +42,9 @@ Pre-specified subgroup meta-regression analyses across the included RCTs, with a
 ## Discussion
 
 
+## Learner Variables
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Book-sharing interventions produce a large improvement in caregiver book-sharing competence (d=1.01)](book-sharing-caregiver-competence-large-effect.md) — related
 - [Improvements in caregiver book-sharing behaviour mediate the intervention's impact on child language (one mediation analysis)](caregiver-book-sharing-competence-mediation.md) — related

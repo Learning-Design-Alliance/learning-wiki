@@ -63,6 +63,7 @@ In the urban randomized effectiveness study, the WWC confirmed no statistically 
 
 ## Learner Variables
 - [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Early Risers shows no discernible effects on external behavior for children at risk of emotional disturbance classification](early-risers-no-effect-external-behavior.md) — related

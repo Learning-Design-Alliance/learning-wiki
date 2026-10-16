@@ -41,6 +41,9 @@ The WWC's synthesis of six studies (four RCTs meeting standards, two RCTs meetin
 
 ## Discussion
 
+## Learner Variables
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — the general claim this finding bears on, with the studies behind it

@@ -45,3 +45,4 @@ Quasi-experimental study of two schools in the same district, one assigned to Ch
 ## Related Claims
 - [Post-test mean differences favored the ChatGPT group on knowing, applying, and reasoning subscales and overall at α=0.05](chatgpt-posttest-subscale-differences-significant.md) — possibly the same claim (merge candidate)
 - [Students who teach a ChatGPT teachable agent in natural language achieve greater knowledge gains than students who learn the same material from online videos](chatgpt-teachable-agent-knowledge-gains.md) — related
+- [ChatGPT-enhanced instruction improved Knowing, Applying and Reasoning sub-skills significantly, each with a large printed effect size](chatgpt-gains-knowing-applying-reasoning-subskills.md) — possibly the same claim (merge candidate)

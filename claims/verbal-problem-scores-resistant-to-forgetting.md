@@ -44,6 +44,9 @@ Subscale analysis of the problem solution criterion: no occasion difference on t
 ## Discussion
 
 
+## Learner Variables
+- [Problem Solving](../learner-variables/problem-solving.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Polya and Dahmus methods do not differ on the problem solution criterion](no-treatment-difference-problem-solution-criterion.md) — related
 - Retention differs by type of knowledge tested, with concepts and rules retained best and problem solving worst — related

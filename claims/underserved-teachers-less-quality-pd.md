@@ -42,6 +42,9 @@ Descriptive finding from the 1997 and 1999 citywide teacher surveys comparing pr
 ## Discussion
 
 
+## Learner Variables
+- [Social Supports](../learner-variables/social-supports.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Elementary teachers were more likely than high school teachers to report that standards-related professional development had extensive impact on their teaching practices](ccss-pd-impact-on-teaching-practices-elementary-more.md) — related
 - [Frequency, content, and quality of professional development are each positively related to elementary teachers' use of interactive instruction](pd-elements-related-interactive-instruction.md) — related

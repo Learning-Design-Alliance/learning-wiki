@@ -41,6 +41,9 @@ Moderator analysis at the comparison level in the unassisted-discovery meta-anal
 
 ## Discussion
 
+## Learner Variables
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Age moderates discovery-learning effects: the explicit-instruction advantage over unassisted discovery is larger for adolescents than adults, and the enhanced-discovery benefit larger for adults than children](age-moderates-discovery-effects.md) — the general claim this finding bears on, with the studies behind it

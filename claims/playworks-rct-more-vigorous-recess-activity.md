@@ -61,6 +61,9 @@ In the same randomized controlled trial, teacher surveys measured perceived stud
 ## Discussion
 
 
+## Learner Variables
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Playworks showed significant impact on some measures of girls' physical activity but no significant impact on measures of boys' physical activity](playworks-gender-differential-impact.md) — related
 - [Girls in Playworks schools had significantly higher accelerometer intensity counts and spent more time in vigorous physical activity than girls in control schools](playworks-girls-higher-activity-counts-vigorous.md) — a narrower finding that bears on this claim

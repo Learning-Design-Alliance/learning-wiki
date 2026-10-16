@@ -40,6 +40,9 @@ PLS-SEM path in the survey of 412 Omani business students; f2 = 0.296 (medium–
 ## Discussion
 
 
+## Learner Variables
+- [Critical Thinking](../learner-variables/critical-thinking.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [GenAI dependence is negatively associated with both self-reported critical-thinking disposition and self-perceived employability](genai-dependence-negative-both-outcomes.md) — related
 - [GenAI use is positively associated with self-reported critical-thinking disposition among business students only in the adjusted structural model, with a near-zero zero-order correlation](genai-use-adjusted-positive-ct-disposition.md) — related

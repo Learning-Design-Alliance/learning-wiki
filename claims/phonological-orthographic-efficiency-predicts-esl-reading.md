@@ -42,6 +42,10 @@ The article reports, citing Nassaji and Geva (1999), a correlational and hierarc
 ## Discussion
 
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — predictor: learners who differ on it differ in outcomes
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Automatization of the phonological component through pronunciation practice improves ESP students' reading comprehension more than traditional translation-based instruction](phonological-automatization-improves-esp-reading-comprehension.md) — a narrower finding that bears on this claim
 - [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — related

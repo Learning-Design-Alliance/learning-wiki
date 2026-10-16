@@ -41,6 +41,9 @@ Meta-regression contrast between task/+interaction and task/–interaction treat
 
 ## Discussion
 
+## Learner Variables
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — the general claim this finding bears on, with the studies behind it

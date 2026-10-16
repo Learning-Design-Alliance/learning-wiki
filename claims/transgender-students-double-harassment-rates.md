@@ -42,6 +42,9 @@ Descriptive percentages from the CHKS 2017–19 pooled high school sample (Table
 ## Discussion
 
 
+## Learner Variables
+- [Identity](../learner-variables/identity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Transgender, gay/lesbian, bisexual, and 'something else' students report significantly poorer outcomes than non-transgender and straight peers on all 14 measures](lgbtq-subgroups-poorer-all-14-measures.md) — a broader claim this one bears on
 - [Transgender students are more than twice as likely as non-transgender peers to report bullying, harassment, and fear of physical violence](transgender-students-twice-likely-bullying-fear.md) — related

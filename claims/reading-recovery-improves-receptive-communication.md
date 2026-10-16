@@ -40,6 +40,10 @@ WWC synthesis of Burroughs-Lange & Douëtil (2007), a quasi-experimental study o
 ## Discussion
 
 
+## Learner Variables
+- [Communication Skills](../learner-variables/communication-skills.md) — outcome: instruction changes it
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Reading Recovery improves writing productivity immediately after the intervention, with promising evidence from one small quasi-experimental study](reading-recovery-improves-writing-productivity.md) — related
 - [Reading Recovery improves writing conventions three years after the intervention, but the effect is significant only against one of the two comparison groups](reading-recovery-improves-writing-conventions-mixed.md) — related

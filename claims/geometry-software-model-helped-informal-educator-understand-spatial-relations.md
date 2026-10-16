@@ -45,6 +45,7 @@ Identification stage of the narrative inquiry; the informal educator's own repor
 
 ## Learner Variables
 - [Spatial Ability](../learner-variables/spatial-ability.md) — outcome: instruction changes it
+- [Geometric Reasoning](../learner-variables/geometric-reasoning.md) — outcome: instruction changes it
 
 ## Related Claims
 - In one narrative inquiry, boundary crossing collaboration between a mathematics education researcher and an informal educator created a space for a new understanding of mathematics as normal human practice — related

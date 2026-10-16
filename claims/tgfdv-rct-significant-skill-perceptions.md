@@ -45,6 +45,7 @@ Randomized controlled trial (Bacon, 2001a) with 303 students in grades 9-12 acro
 
 ## Learner Variables
 - [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
 
 ## Related Claims
 - [The WWC rated Too Good for Drugs and Violence as having positive effects on knowledge, attitudes, and values, with a cross-study domain-average effect size of 0.42](tgfdv-positive-effects-rating.md) — a broader claim this one bears on

@@ -46,6 +46,7 @@ Content analysis of semi-structured focus-group interviews with 30 undergraduate
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
 - [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
+- [Communication Skills](../learner-variables/communication-skills.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Students report games make the classroom atmosphere fun and increase participation](games-fun-atmosphere-participation.md) — related

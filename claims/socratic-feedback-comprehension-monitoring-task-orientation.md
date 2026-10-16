@@ -63,6 +63,7 @@ Mixed-design ANOVA on feedback regulation ratings from the same interaction-log 
 
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+- [Metacognition](../learner-variables/metacognition.md) — outcome: instruction changes it
 
 ## Related Claims
 

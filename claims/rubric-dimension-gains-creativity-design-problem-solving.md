@@ -62,6 +62,7 @@ Null results for two rubric dimensions in the same historical-cohort comparison:
 
 ## Learner Variables
 - [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
+- [Problem Solving](../learner-variables/problem-solving.md) — outcome: instruction changes it
 
 ## Related Claims
 - [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — a broader claim this one bears on

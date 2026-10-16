@@ -52,3 +52,4 @@ Supplementary combined-sample logistic regression with a minority-teacher predic
 - [After controlling for teacher and school background, school demographic characteristics were not significantly related to minority teacher turnover](school-demographics-not-related-to-minority-teacher-turnover.md) — related
 - [School organizational conditions—especially teacher classroom autonomy and faculty decision-making influence—are strongly related to minority teacher turnover](organizational-conditions-drive-minority-teacher-turnover.md) — related
 - [Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover](alternative-certification-pathway-turnover-teachers-of-color.md) — related
+- [Administrative support, student discipline, and faculty influence are associated with teacher turnover after controlling for teacher and school characteristics](organizational-conditions-predict-teacher-turnover.md) — related

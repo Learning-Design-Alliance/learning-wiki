@@ -50,3 +50,4 @@ The Perspective reports, citing prior empirical work, that the prompt–response
 - [Perceived improvement after prompt-engineering training was concentrated among students with little or no prior prompting experience](prior-experience-moderates-perceived-training-benefit.md) — related
 - [The article argues traditional learning formats have six limitations that make them ill-suited for interactive, evolving skills like prompt engineering](traditional-learning-formats-six-limitations-prompt-engineering.md) — related
 - [Higher-quality prompt engineering skills predict the quality of LLM output in goal-directed use of generative AI tools](prompt-engineering-skill-predicts-llm-output-quality.md) — related
+- [More complex prompts tend to elicit superior results with advanced LLM versions (authors' observation)](complex-prompts-elicit-better-llm-results.md) — related

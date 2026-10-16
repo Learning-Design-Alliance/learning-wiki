@@ -43,6 +43,9 @@ The article's relatedness section links IE's care element to SDT's relatedness n
 ## Discussion
 
 
+## Learner Variables
+- [Social Supports](../learner-variables/social-supports.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - Both SDT and IE hold that people's actions are based on their perceptions of their contexts — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related

@@ -45,3 +45,4 @@ Semi-structured interviews with 25 male and 30 female students who had used Chat
 ## Related Claims
 - [Male and female students used ChatGPT differently: females used it more frequently and for questions, males more sporadically and to check answers](gender-differences-chatgpt-use-patterns.md) — related
 - [Students recommended ChatGPT to peers and suggested improvements to accent recognition, visual aids, and response time](students-recommend-chatgpt-suggest-improvements.md) — related
+- [Students reported that ChatGPT enhanced engagement, comprehension, problem-solving, and perceived relevance in Quantum Theory](chatgpt-qualitative-engagement-comprehension-quantum.md) — related

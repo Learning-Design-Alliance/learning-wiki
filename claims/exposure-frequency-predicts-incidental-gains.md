@@ -103,3 +103,6 @@ Uchihara et al. (2019) support the direction of this claim for second-language l
 - [Total reading time independently contributed to the learning of word meaning](total-reading-time-predicts-word-meaning.md) — related
 - [Viewing a single full-length L2 TV program results in incidental vocabulary learning at the level of meaning recall and meaning recognition](viewing-full-length-tv-incidental-vocabulary-learning.md) — a narrower finding that bears on this claim
 - [Incidental vocabulary learning through viewing TV was affected by frequency of occurrence, prior vocabulary knowledge, and cognateness](viewing-vocabulary-learning-affected-by-frequency-prior-knowledge-cognateness.md) — related
+- [The incidental learning advantage occurs from as little as two exposures to multimodal stimuli in complete beginners](incidental-learning-from-two-exposures.md) — related
+- [No significant overall linear trend of exposure number on the incidental learning effect, though two exposures yield a significantly smaller effect than eight in block 1](no-linear-trend-two-versus-eight-exposures.md) — reports the opposite
+- [Per-exposure learning gains decrease as the number of exposures increases: a small but significant negative linear trend in the normalized incidental learning effect](per-exposure-gains-decrease.md) — related

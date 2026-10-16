@@ -96,6 +96,7 @@ A systematic review of experimental and quasi-experimental studies of universal 
 
 ## Learner Variables
 - [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
 
 ## Related Claims
 
@@ -124,3 +125,4 @@ A systematic review of experimental and quasi-experimental studies of universal 
 - [SEL programs reduce disruptive behavior problems and emotional distress and foster prosocial behavior](sel-programs-reduce-behavior-problems-distress.md) — related
 - [Programs focusing on students' social-emotional development contribute most to classroom management intervention effectiveness, especially on social-emotional outcomes](social-emotional-focus-largest-contribution.md) — related
 - [Non-cognitive-behavioral counseling, social work, and other therapeutic interventions show consistently negative effects, whereas self-control or social competency promotion instruction using cognitive-behavioral and behavioral instructional methods shows consistently positive effects](cognitive-behavioral-prevention-positive-therapeutic-negative.md) — related
+- [Student and teacher social validation feedback supported the strategy, with students reporting improved social lives, class engagement, and goal completion](social-validation-feedback-positive-problem-solving.md) — related

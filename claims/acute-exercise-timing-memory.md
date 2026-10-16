@@ -80,6 +80,10 @@ Participants were randomly assigned to one of three groups, and all of them lear
 
 **Open questions.** Whether the effect is driven by arousal (inverted-U), by molecular signaling (BDNF, noradrenaline), or both; whether the optimal window differs for declarative versus motor skill learning; and whether chronic exercise training changes the acute-response profile are all unresolved and should temper strong instructional prescriptions.
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — exercise during instruction affects attention and engagement in the moment, complementing post-encoding consolidation effects

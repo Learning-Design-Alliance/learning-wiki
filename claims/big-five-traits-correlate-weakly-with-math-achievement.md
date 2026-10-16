@@ -22,6 +22,7 @@ sources:
 # Of the Big Five personality traits, only conscientiousness (r = .22) and openness (r = .13) correlate appreciably with mathematics achievement
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q3` · `i2` medium · n=30 meta-analyses, 66 correlations from 13,853 effect sizes (~4.66 million participants)
 
 Conscientiousness correlates r = .22 with mathematics achievement and openness .13; agreeableness (.01), extraversion (−.02) and neuroticism (−.09) are negligible (Meyer et al. 2023, about 85–100 effect sizes each, children and adolescents). These are correlations compiled across meta-analyses: they describe how strongly the characteristic goes with mathematics achievement, not what causes it.
 

@@ -42,6 +42,9 @@ Subgroup analysis within the same quasi-experimental study of Chicago Public Sch
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Attending a high school that reduces the fear of bullying raises students' graduation rates](bullying-fear-reduction-raises-graduation-rates.md) — a broader claim this one bears on
 - Victimized students reported negative school conditions at higher rates than nonvictims — related

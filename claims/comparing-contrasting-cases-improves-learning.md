@@ -193,6 +193,9 @@ Seventy seventh-grade students learning to solve algebra equations were randomly
 
 ## Learner Variables
 - [Executive Function](../learner-variables/executive-function.md) — outcome: instruction changes it
+- [Algebraic Thinking](../learner-variables/algebraic-thinking.md) — outcome: instruction changes it
+- [Mathematical Flexibility](../learner-variables/mathematical-flexibility.md) — outcome: instruction changes it
+- [Operations and Place Value](../learner-variables/operations-and-place-value.md) — outcome: instruction changes it
 
 ## Related Claims
 

@@ -22,6 +22,7 @@ sources:
 # Mastery goals correlate positively (r = .17) and performance-avoidance goals negatively (r = −.17) with mathematics achievement, while performance-approach goals barely do
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q3` · `i1` small · n=30 meta-analyses, 66 correlations from 13,853 effect sizes (~4.66 million participants)
 
 In Huang's (2011) meta-analysis, mastery goals correlate r = .17 with mathematics achievement, performance-approach goals .07 and performance-avoidance goals −.17 (k = 19 each). These are correlations compiled across meta-analyses: they describe how strongly the characteristic goes with mathematics achievement, not what causes it.
 

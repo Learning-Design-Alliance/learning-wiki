@@ -42,6 +42,9 @@ WWC re-analysis of the Hecht & Close (2002) quasi-experimental study (76 Kinderg
 ## Discussion
 
 
+## Learner Variables
+- [Alphabet Knowledge and Print Awareness](../learner-variables/alphabet-knowledge-and-print-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [No individual alphabetics outcome reached statistical significance in the WWC analysis](voyager-alphabetics-null-significance.md) — possibly the same claim (merge candidate)
 - [The Frechtling, Zhang, and Silverstein (2006) study showed a substantively important positive average alphabetics effect, while Hecht (2003) did not](voyager-study-average-effect-sizes-differ.md) — related

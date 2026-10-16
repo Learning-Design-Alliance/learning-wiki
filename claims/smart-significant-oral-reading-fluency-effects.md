@@ -42,6 +42,9 @@ In the randomized controlled trial, fluency was measured as words read correctly
 ## Discussion
 
 
+## Learner Variables
+- [Reading Fluency](../learner-variables/reading-fluency.md) — outcome: instruction changes it
+
 ## Related Claims
 - [After one year of SMART® intervention, only the fluency outcome was statistically significant, while alphabetics and comprehension effects were not](smart-one-year-interim-mixed-significance.md) — related
 - [SMART® tutoring produced a statistically significant positive effect on first-graders' word identification after two years of intervention](smart-significant-word-identification-effect.md) — related

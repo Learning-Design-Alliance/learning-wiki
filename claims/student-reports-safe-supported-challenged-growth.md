@@ -60,6 +60,9 @@ The agenda further reports, citing Hart et al. (2020) and Jackson, Porter, Easto
 
 ## Discussion
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [5Essentials Survey measures predict school improvement in elementary and high schools, but not all measures relate to all outcomes](5essentials-measures-positively-associated-improvement.md) — the general claim this finding bears on, with the studies behind it

@@ -62,6 +62,7 @@ Simple-effects analysis within the 123-participant experiment. Female agency was
 
 ## Learner Variables
 - [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
+- [Stereotype Threat](../learner-variables/stereotype-threat.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 

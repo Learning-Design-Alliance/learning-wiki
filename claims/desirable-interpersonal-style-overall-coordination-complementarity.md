@@ -66,3 +66,4 @@ Same case-study analysis for Sam's classroom: the cross-correlations were "not c
 - [The hypothesis that both teachers can refrain from complementarity when facing hostile student behavior could not be confirmed](refraining-from-complementarity-hypothesis-not-confirmed.md) — related
 - [During the early stage of therapy, more severely maladjusted clients elicit higher levels of therapist complementarity](early-stage-maladjustment-elicits-complementarity.md) — related
 - The four-phase model predicts favored interpersonal styles appear early and style flexibility grows with accumulated specific experience — related
+- [Athletes' personality affects coaches' perceptions of relationship quality, with more difficult personalities linked to lower closeness, commitment and complementarity](athlete-personality-affects-perceived-relationship-quality.md) — related

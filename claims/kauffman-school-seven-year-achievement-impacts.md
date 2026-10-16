@@ -42,6 +42,9 @@ Quasi-experimental evaluation matching Kauffman students to a comparison group o
 ## Discussion
 
 
+## Learner Variables
+- [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The Kauffman School has higher ACT scores than the Kansas City high school average, but its impact on ACT scores could not be calculated](kauffman-act-scores-higher-impact-not-calculable.md) — related
 - [The Kauffman School's achievement impacts are higher than the average impacts found in studies of other charter schools](kauffman-impacts-exceed-average-charter-impacts.md) — related

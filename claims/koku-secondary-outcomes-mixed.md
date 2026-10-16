@@ -61,6 +61,9 @@ Fall counts from self-reported fall calendars over 24 weeks compared by Poisson 
 ## Discussion
 
 
+## Learner Variables
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The 12-week KOKU programme is dominant over usual care in cost-effectiveness, with a significant QALY gain and non-significant cost savings](koku-cost-effective-dominant.md) — related
 - [The KOKU digital programme improves balance function at 12 weeks compared with standard care in community-dwelling older adults, with the effect increasing over time](koku-improves-balance-12-weeks-older-adults.md) — related

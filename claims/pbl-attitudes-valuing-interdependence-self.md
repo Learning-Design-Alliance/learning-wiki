@@ -53,6 +53,9 @@ Qualitative analysis of written reflections (journals, two assignments) from 122
 ## Discussion
 
 
+## Learner Variables
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Students characterised the skills needed for collaborative group work as interpersonal (social), problem solving, and group skills](pbl-skills-interpersonal-problem-solving-group.md) — related
 - [Students described knowledge gained through PBL group work in terms of generation, application, and dissemination of knowledge, plus pedagogical knowledge for future teaching](pbl-knowledge-generation-application-dissemination.md) — related

@@ -46,3 +46,4 @@ Graphical evaluation of the joint normality assumption using Q-Q plots, CDF curv
 - [Q-Q plots, CDF curves, and residual checks support the joint normality assumption underlying the multivariate true score model for the course-specific tests.](course-specific-norms-normality-supported.md) — related
 - [The multivariate normality assumption of the true score model was judged reasonable for all domains and grades](spanish-foundational-skills-normality-assumption-met.md) — possibly the same claim (merge candidate)
 - [Normality assumptions of the true score model appeared reasonable for the course-specific tests](normality-assumption-reasonable-course-specific.md) — possibly the same claim (merge candidate)
+- [The outcome data met t-test assumptions: Lilliefors normality (Lo < Lt for both classes) and variance homogeneity (F count 0.579 < F table 1.84)](normality-homogeneity-prerequisites-met.md) — related

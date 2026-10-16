@@ -44,6 +44,7 @@ The article states it "builds on prior research showing that greater linguistic 
 
 ## Learner Variables
 - [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
+- [Communication Skills](../learner-variables/communication-skills.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 - [Some 2003 MCAS fourth-grade math word problems exhibited differential item functioning for English-language learners versus non-ELLs](mcas-math-word-problems-dif-for-ells.md) — related

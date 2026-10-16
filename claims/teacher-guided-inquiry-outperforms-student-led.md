@@ -109,3 +109,5 @@ This synthesis analyzed 138 studies conducted between 1984 and 2002 addressing t
 - [Enhanced discovery learning produces greater learning than other forms of instruction](enhanced-discovery-beats-other-instruction.md) — related
 - [The advantage of guidance begins to recede only when learners have sufficiently high prior knowledge to provide internal guidance](guidance-advantage-recedes-with-high-prior-knowledge.md) — related
 - [Minimally guided instruction is less effective and less efficient than instruction that places a strong emphasis on guidance of the student learning process](minimally-guided-instruction-less-effective-than-strong-guidance.md) — related
+- [Studies comparing pure simulation-based discovery learning with expository teaching show no clear and univocal outcome in favor of simulations](no-clear-simulation-advantage-over-expository.md) — related
+- [Structuring the discovery process can outperform unstructured environments, but effects depend on learner characteristics and the knowledge test used](structuring-discovery-process-effects.md) — related

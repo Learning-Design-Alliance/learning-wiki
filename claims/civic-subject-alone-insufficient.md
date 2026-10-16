@@ -42,6 +42,9 @@ The article's conceptual argument at the formal education level states that a de
 ## Discussion
 
 
+## Learner Variables
+- [Civic Mindedness](../learner-variables/civic-mindedness.md) — outcome: instruction changes it
+
 ## Related Claims
 - Class discussion is widely used among students attaining knowledge outcomes, while race and political topics are underused despite association with civic competence — related
 - Civic competence items cluster into four epistemological components (knowledge, skills, attitudes, actions) in community-based learning course surveys — related

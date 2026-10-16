@@ -86,6 +86,9 @@ Undergraduates studying heat and temperature were assigned to physical manipulat
 
 **Open questions.** Whether physical experience outperforms high-quality simulations or video demonstrations remains contested; some work suggests physicality adds engagement and haptic memory [~W], while other work finds equivalent learning from virtual equivalents at lower cost [~W]. Replication across science domains, age groups, and comparison conditions is needed before strong claims can be made.
 
+## Learner Variables
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — the general claim this finding bears on, with the studies behind it

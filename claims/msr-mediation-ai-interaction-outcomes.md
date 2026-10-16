@@ -43,6 +43,7 @@ Mediation testing used bias-corrected bootstrapping with 5,000 resamples and 95%
 
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — predictor: learners who differ on it differ in outcomes
+- [Metacognition](../learner-variables/metacognition.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 

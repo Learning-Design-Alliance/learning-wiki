@@ -41,6 +41,9 @@ Interview findings: editing students finished early and had lighter loads, progr
 
 ## Discussion
 
+## Learner Variables
+- [Vocabulary](../learner-variables/vocabulary.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Interdisciplinary humanities units improve students' interdisciplinary competences](interdisciplinary-humanities-units-improve-interdisciplinary-competences.md) — the general claim this finding bears on, with the studies behind it

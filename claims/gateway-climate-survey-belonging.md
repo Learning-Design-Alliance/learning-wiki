@@ -42,6 +42,9 @@ Report of a 2018 local school climate survey at Gateway Middle School, cited alo
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Strong relational trust and cooperative adult effort distinguish improving schools from schools with flat or declining test scores](relational-trust-linked-school-improvement.md) — a broader claim this one bears on
 - [Youth-led action research found that many California high school students did not feel cared for by adults at school](youth-survey-adult-care-deficit.md) — reports the opposite

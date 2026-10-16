@@ -108,3 +108,4 @@ A public-domain ERIC digest from 2000, drawn from Ellsworth's book *Surviving Ch
 - [K-12 stakeholders across sectors report enthusiasm for competency-based learning, assessment, and recognition technologies](cross-sector-enthusiasm-competency-recognition-k12.md) — related
 - [GAI in K-12 education offers opportunities to personalize learning, motivate students, improve assessment, and introduce innovative teaching practices](gai-k12-personalization-assessment-opportunities.md) — related
 - [Digital education innovations are an interplay of technological, pedagogical, organisational and governance-related dimensions](digital-education-innovation-four-dimension-interplay.md) — related
+- [The article asserts that potential impact and social change rise with increasing stakeholder participation](participation-level-tied-to-real-world-impact.md) — related

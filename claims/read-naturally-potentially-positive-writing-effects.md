@@ -42,6 +42,9 @@ Writing-domain finding from the same WWC-reviewed RCT (Chenault et al., 2006; 20
 ## Discussion
 
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Growth Mindset interventions have potentially positive effects on postsecondary academic achievement (improvement index +13)](growth-mindset-potentially-positive-academic-achievement-postsecondary.md) — related
 - [LiPS shows potentially positive effects on math: no statistically significant effect on the WJ–R Calculation subtest, but a positive effect size of 0.30 judged substantively important](lips-potentially-positive-math-calculation.md) — related

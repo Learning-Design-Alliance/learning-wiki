@@ -12,6 +12,7 @@ generated:
 # Inferencing
 
 > **Learner Variable** · [All learner variables](index.md)
+> **Evidence** · 4 claims (4 show a difference) · 3 studies (2 causal, 1 review), `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 Inferencing is the work a reader does to supply meaning a text does not state outright: linking one sentence to another, connecting the text to what the reader already knows or has experienced, and adding what is learned to existing knowledge. It supports reading comprehension, and the Learner Variability Navigator notes that it develops with age, moving from inferences drawn from within the text towards deeper inferences that draw on the reader's own knowledge. It is usually assessed through comprehension questions that ask for information the text implies rather than states; LVN lists no dedicated measure for it.
@@ -34,6 +35,10 @@ It matters most in middle and high school, where subject-specific texts assume b
 
 ## Claims
 <!-- Claims reporting findings about this variable, with evidence tags -->
+- [Adding multiple design elements to the basic ITS structure promotes causal inference by limiting alternative interpretations, demonstrated with No Child Left Behind](../claims/adding-design-elements-to-its-promotes-causal-inference.md) [+W] — instruction changes it
+- [Contrary to the science comprehension thesis, political polarization of data interpretation did not abate among the most numerate subjects but increased](../claims/polarization-increases-with-numeracy.md) [+M] — learners who differ on it differ in outcomes
+- [Correct word inference in reading requires knowing roughly 95-98% of surrounding words, corresponding to about 3,000-5,000 word families](../claims/vocabulary-coverage-thresholds-for-inference.md) [+W] — learners who differ on it differ in outcomes
+- [Subjects highest in numeracy draw valid causal inferences from data better than less numerate subjects when the data are politically uncharged (skin rash treatment framing)](../claims/numerate-subjects-better-skin-rash-inference.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 <!-- The Learner Variability Navigator lists no measures for this factor. -->

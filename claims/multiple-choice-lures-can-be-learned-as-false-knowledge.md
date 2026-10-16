@@ -86,3 +86,9 @@ The chapter reports Marsh et al. (2009), with college students answering SAT II 
 - [Feedback on a multiple-choice test sharply reduces lure intrusions on a later cued recall test, with immediate and delayed schedules equally effective](feedback-reduces-lure-intrusions.md) — related
 - [Taking a multiple-choice test produces a testing effect on later cued recall, but testing without study or feedback can be net harmful](mc-testing-effect-and-net-harm-boundary.md) — related
 - [Strategy perseveration: prior offloading experience biases later offloading choices](strategy-perseveration-offloading.md) — related
+- [Immediate feedback reduces multiple-choice lure production on later tests, and the overall positive effect of testing outweighs negative consequences](feedback-reduces-lure-production.md) — related
+- [Persistence of multiple-choice errors is driven by faulty reasoning that integrates the error into knowledge rather than by mere familiarity of lures](lure-persistence-reasoning-not-familiarity.md) — related
+- [Incorrect information learned from a multiple-choice test is applied and reasoned with on conceptually related transfer questions](lures-transfer-erroneous-reasoning.md) — related
+- [Multiple-choice testing increases the later production of multiple-choice lures as answers on cued recall tests, even under warning against guessing](mc-testing-increases-lure-production.md) — possibly the same claim (merge candidate)
+- [Multiple-choice testing improves later cued recall of prose facts, a benefit that persists though reduced after a one-week delay](mc-testing-prose-cued-recall-benefit.md) — related
+- [Positive and negative testing effects occur for questions tapping higher levels of Bloom's taxonomy, and question level does not change the memorial consequences of testing](testing-effects-bloom-higher-levels.md) — related

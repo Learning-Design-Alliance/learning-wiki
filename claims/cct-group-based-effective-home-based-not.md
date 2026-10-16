@@ -40,6 +40,9 @@ Mixed-effects subgroup meta-analysis of delivery format across all cognitive out
 ## Discussion
 
 
+## Learner Variables
+- [Processing Speed](../learner-variables/processing-speed.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Training more than three sessions per week neutralizes CCT efficacy, while one or 2–3 sessions per week are effective](cct-frequency-above-three-sessions-ineffective.md) — related
 - [Computerized cognitive training produces a small but statistically significant improvement in cognitive performance in healthy older adults](cct-small-significant-overall-effect-healthy-older-adults.md) — a broader claim this one bears on

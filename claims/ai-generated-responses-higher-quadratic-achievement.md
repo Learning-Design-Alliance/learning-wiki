@@ -42,6 +42,9 @@ Quasi-experimental study with intact classes: School A (62 students) exposed to 
 ## Discussion
 
 
+## Learner Variables
+- [Algebraic Thinking](../learner-variables/algebraic-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Intellectually Ambitious Instruction Is Associated with Improved Student Learning Across Populations](intellectually-ambitious-instruction-improves-learning.md) — a broader claim this one bears on
 - [Polya Method students outscore Dahmus Method students on the equation criterion for verbal problems](polya-method-beats-dahmus-on-equation-criterion.md) — related

@@ -42,6 +42,9 @@ The article reports, citing Schneider et al. (2002), a vocabulary learning study
 ## Discussion
 
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Deeper processing of target language improves lexical retention and long-term learning](depth-of-processing-improves-l2-retention.md) — a narrower finding that bears on this claim
 - [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — related
@@ -51,3 +54,4 @@ The article reports, citing Schneider et al. (2002), a vocabulary learning study
 - [The GoldList Notebook Method increases long-term retention of L2 idioms compared with a vocabulary lesson alone](goldlist-method-improves-l2-vocabulary-retention.md) — related
 - [Generation as the sole desirable difficulty produced no detrimental effect on L2 vocabulary recall, in contrast to prior short-term findings](generation-no-detriment-l2-recall.md) — a narrower finding that bears on this claim
 - [Struggling to encode, retrieve, and reorganize information produces deeper comprehension and retention, and AI-supplied ready-made solutions short-circuit these processes](ai-removing-struggle-short-circuits-desirable-difficulties.md) — a narrower finding that bears on this claim
+- [Problem isomorphs with identical structure differ greatly in difficulty; Monster Change took 16 times as long to solve as the standard problem](isomorph-difficulty-rule-learning-working-memory.md) — related

@@ -42,6 +42,9 @@ Interim findings from the evaluation of the Harlem Children's Zone Healthy Harle
 ## Discussion
 
 
+## Learner Variables
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Among students overweight or obese at baseline who received both Get Fit and Prevention, BMI z-scores and overweight/obesity prevalence were reduced](healthy-harlem-bmi-reduction-baseline-overweight-get-fit-prevention.md) — related
 - [Healthy Harlem generally increased students' fitness levels, with variation by gender](healthy-harlem-fitness-gains-vary-by-gender.md) — a broader claim this one bears on

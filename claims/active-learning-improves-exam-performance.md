@@ -152,3 +152,4 @@ The article reports this as a summary of a recent National Academies consensus s
 - The review reports that formative assessment produces significant and often substantial learning gains, citing Black and Wiliam — related
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
 - [On Newton's Third Law questions specifically, Just-in-Time Teaching students gained 50.8%±4.1% while traditional lecture students gained only 6.6%±5.2%](jitt-newtons-third-law-question-gains.md) — a narrower finding that bears on this claim
+- [Predominantly lecture-based courses are associated with less engagement, while class discussion and group work time are associated with more](lecture-decreases-discussion-groupwork-increase-engagement.md) — related

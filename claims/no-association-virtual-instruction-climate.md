@@ -42,6 +42,9 @@ Secondary analysis relating 2021/22 climate scores to the amount of virtual and 
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Students and teachers reported more positive school climate perceptions in 2020/21 during hybrid and remote learning than in 2018/19 and 2021/22](pandemic-year-climate-positive-bump-pennsylvania.md) — related
 - [No evidence of a significant decline in school climate scores between 2018/19 and 2021/22 in the Pennsylvania sample](no-lasting-pandemic-climate-decline.md) — related

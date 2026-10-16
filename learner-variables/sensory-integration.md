@@ -12,6 +12,7 @@ generated:
 # Sensory Integration
 
 > **Learner Variable** · [All learner variables](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Sensory integration is the brain's capacity to receive, process and organise information arriving through several senses at once, such as sights, sounds, smells and touch, and turn it into appropriate physical and emotional responses. When it is difficult for a learner, sensory input can interfere with focusing on reading, writing or mathematics, and the LVN describes knock-on effects on peer relationships, participation in class activities and sleep, all of which can make learning and engagement harder. Learners can have higher or lower thresholds for input in a given sense, and difficulty can show as over-sensitivity or as sensory-motor difficulty. The LVN covers it from pre-kindergarten to grade 12, and notes that its link with mathematics performance weakens as children get older. It is measured with sensory profiles completed by parents, teachers or learners themselves, and with clinical test batteries of visual, tactile and kinaesthetic processing and motor performance. It overlaps with [self-regulation](self-regulation.md), since integration combines sensory processing with behavioural regulation, and with [learning disabilities and developmental differences](learning-disabilities.md).

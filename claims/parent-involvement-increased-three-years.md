@@ -42,6 +42,9 @@ Descriptive engagement outcome from the Results section of the single-school rep
 ## Discussion
 
 
+## Learner Variables
+- [Home Learning Environment](../learner-variables/home-learning-environment.md) — outcome: instruction changes it
+
 ## Related Claims
 - Female principals empowered others through shared ownership, committee involvement, and staff development — related
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — a broader claim this one bears on

@@ -87,6 +87,9 @@ Eleventh-grade students in five San Francisco high schools took part in a six-mo
 
 **Evidence status.** This page has two evidence entries: a cluster-randomised trial in high-school science (Goldman et al. 2019; small comprehension gains, no gain in written explanations) and a quasi-experiment in high-school history (Reisman 2012; effect sizes not recorded here). Both compare disciplinary-literacy instruction with usual instruction, not with well-taught generic strategy instruction, so the generic-vs-disciplinary question above is untested in the wiki. Further evidence to curate includes studies comparing disciplinary vs. generic strategy conditions on discipline-specific text comprehension, and evaluations in middle school.
 
+## Learner Variables
+- [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Civic online reasoning instruction improves evaluation.](civic-online-reasoning-instruction-improves-evaluation.md) — discipline-specific (civic) evaluation strategies as a case of disciplinary literacy in action

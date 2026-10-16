@@ -45,3 +45,4 @@ Regression results from both samples (high school n=64, college n=68) showed the
 
 ## Related Claims
 - [Field-dependence-independence and figural creativity significantly predict spatial recall accuracy in both high school and college samples](fdi-figural-creativity-predict-spatial-recall.md) — related
+- [Map drawing after 30 min is more accurate for maps learned through covert-retrieval tests than for maps learned through equal conventional study time](covert-retrieval-tests-improve-map-learning.md) — related

@@ -44,6 +44,7 @@ A pilot study by Mary Ciske elicited four contextual styles (free writing, readi
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [Metacognition](../learner-variables/metacognition.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 

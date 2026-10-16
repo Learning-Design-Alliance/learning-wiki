@@ -43,5 +43,8 @@ The review reports, citing Allington (1984b), that poor beginning readers rely o
 ## Discussion
 
 
+## Learner Variables
+- [Reading Fluency](../learner-variables/reading-fluency.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Poorly fluent readers use context clues more heavily than fluent readers, as a compensatory device](struggling-readers-use-context-clues-compensatorily.md) — related

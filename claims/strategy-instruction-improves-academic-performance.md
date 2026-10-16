@@ -106,3 +106,5 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — possibly the same claim (merge candidate)
 - [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — related
 - [All types of regulation can be explicitly taught and improved with time, effort, and effective feedback](regulation-skills-can-be-taught.md) — related
+- [SRL training effects vary by outcome category, largest for metacognitive strategies (g = .40) and smallest for cognitive strategies (g = .32)](srl-training-effects-by-outcome-category.md) — related
+- [Extended SRL training programs enhance university students' academic performance, SRL strategies, and motivation (overall g = .38)](srl-training-university-students-overall-g38.md) — related

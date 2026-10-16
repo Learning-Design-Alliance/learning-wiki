@@ -22,6 +22,7 @@ sources:
 # Self-regulation and metacognition correlate strongly with mathematics achievement (r = .42 and .37)
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q3` · `i3` large · n=30 meta-analyses, 66 correlations from 13,853 effect sizes (~4.66 million participants)
 
 Self-regulation correlates r = .42 with mathematics achievement in children (Robson et al. 2020, k = 22) and metacognition .37 in adolescents (Muncer et al. 2022, k = 74). These are correlations compiled across meta-analyses: they describe how strongly the characteristic goes with mathematics achievement, not what causes it.
 
@@ -42,6 +43,9 @@ The review compiles zero-order correlations from published meta-analyses (each w
 ## Discussion
 
 The authors call these promising targets because they are malleable, citing a separate meta-analysis of self-regulation interventions (Pandey et al. 2018, d = 0.42); that intervention evidence is not part of this review.
+
+## Learner Variables
+- [Metacognition](../learner-variables/metacognition.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 

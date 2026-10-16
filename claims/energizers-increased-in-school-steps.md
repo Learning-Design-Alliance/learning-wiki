@@ -42,6 +42,9 @@ Quasi-experimental comparison of in-school physical activity among 243 students;
 ## Discussion
 
 
+## Learner Variables
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Systematic implementation of Energizers improves on-task behavior during academic instruction in third- and fourth-grade students](energizers-improved-on-task-behavior.md) — related
 - [The least on-task students show the largest improvement after Energizers activities, improving on-task behavior by 20%](energizers-least-on-task-students-largest-gain.md) — related

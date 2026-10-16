@@ -42,6 +42,10 @@ The review reports the distribution of targeted academic areas and printed effec
 ## Discussion
 
 
+## Learner Variables
+- [Operations and Place Value](../learner-variables/operations-and-place-value.md) — outcome: instruction changes it
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Self-management intervention configurations show strong mean effect sizes but substantial effect size heterogeneity in single-case research](self-management-strong-mean-effects-with-heterogeneity.md) — related
 - [The review found evidence supporting generalization and maintenance of self-management intervention effects for students with emotional and behavioral disorders](self-management-ebd-generalization-maintenance.md) — related

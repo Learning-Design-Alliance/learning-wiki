@@ -44,6 +44,7 @@ The article's overall group comparison of 10-year-olds taught by the two phonics
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Under analytic phonics teaching, boys matched girls in word reading but had inferior spelling and reading comprehension](analytic-phonics-boys-inferior-spelling-comprehension.md) — related

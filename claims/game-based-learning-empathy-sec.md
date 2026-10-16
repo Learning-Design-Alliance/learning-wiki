@@ -41,6 +41,9 @@ The review reports this second-hand from Mukund et al. (2022) within the C2 'Rel
 
 ## Discussion
 
+## Learner Variables
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Building Empathy Improves Intergroup Attitudes](building-empathy-improves-intergroup-attitudes.md) — the general claim this finding bears on, with the studies behind it

@@ -180,3 +180,4 @@ A narrative review reports this meta-analysis of more than 90 PreK–12 articles
 - [The paper reports that culturally responsive pedagogies are associated with more student engagement, agency, and responsibility for seeking information](crse-pedagogies-engagement-agency-claim.md) — related
 - [Positive teacher–student relationships relate to math outcomes through self-efficacy, intrinsic motivation, belonging, engagement, and mathematics identity](relationships-pathways-self-efficacy-motivation-identity.md) — a narrower finding that bears on this claim
 - Subject-matter-centered reform that ignores climate may raise achievement scores while increasing dropout rates — related
+- [Interest correlates moderately with academic achievement (mean correlation r = .31, meta-analytic)](interest-achievement-correlation-31.md) — related

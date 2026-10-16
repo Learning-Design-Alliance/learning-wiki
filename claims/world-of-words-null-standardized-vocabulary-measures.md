@@ -57,6 +57,9 @@ Cluster randomized trial of 143 children across 5 state-funded preschool sites i
 ## Discussion
 
 
+## Learner Variables
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
+
 ## Related Claims
 - [World of Words produced a statistically significant medium effect on a comprehension composite measure (effect size 0.54) after 12 weeks](world-of-words-comprehension-composite-significant.md) — related
 - [World of Words produced a statistically significant medium effect on expressive vocabulary (Expressive One-Word Picture Vocabulary Test, 4th Edition; effect size 0.43) in a scaled-up 12-site study](world-of-words-expressive-vocabulary-significant.md) — related

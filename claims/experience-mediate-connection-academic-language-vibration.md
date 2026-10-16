@@ -44,6 +44,7 @@ Discourse analysis of the episode shows Brian said the shortest string goes "tin
 
 ## Learner Variables
 - [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
+- [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 

@@ -44,6 +44,7 @@ Survey-based analysis using perceived safety measures constructed from My Voice,
 
 ## Learner Variables
 - [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs by group
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Reduced suspension use was associated with increased attendance of roughly one additional day per year per student, rising to about three days in schools serving predominantly Black students](cps-suspension-reduction-attendance.md) — related

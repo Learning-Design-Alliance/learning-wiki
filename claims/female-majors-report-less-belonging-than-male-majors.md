@@ -1,0 +1,47 @@
+---
+type: claim
+title: Female STEM majors report significantly lower sense of belonging than male majors
+description: Female STEM majors report significantly lower sense of belonging than male majors
+id: female-majors-report-less-belonging-than-male-majors
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+evidence_strength: moderate
+sources:
+  - id: katherine-rainey-2018
+    resource: "https://doi.org/10.1186/s40594-018-0115-6"
+    title: "Katherine Rainey, Melissa Dancy, Roslyn Mickelson, Elizabeth Stearns and Stephanie Moller. (2018). Race and gender differences in how sense of belonging influences decisions to major in STEM. International Journal of STEM Education 5:10. https://doi.org/10.1186/s40594-018-0115-6"
+    author: Katherine Rainey, Melissa Dancy, Roslyn Mickelson, Elizabeth Stearns and Stephanie Moller
+    q: 2
+    i: "?"
+---
+
+# Female STEM majors report significantly lower sense of belonging than male majors
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
+
+## Subclaims
+`q2 i?` Among STEM majors, women were significantly less likely than men to report they felt they belonged in STEM (Z = 2.41, p ≤ 0.01); a similar pattern held among leavers. [→ Katherine Rainey 2018](#katherine-rainey-2018)
+
+## Evidence
+
+### Katherine Rainey 2018
+
+Katherine Rainey, Melissa Dancy, Roslyn Mickelson, Elizabeth Stearns and Stephanie Moller. (2018). Race and gender differences in how sense of belonging influences decisions to major in STEM. International Journal of STEM Education 5:10. https://doi.org/10.1186/s40594-018-0115-6
+
+`q2 · i?`
+
+Interview study of 201 college seniors from 16 UNC system campuses; coded belonging responses analyzed with a test of proportions. The article reports the gender contrast among majors: "female majors were significantly less likely than male majors to report they felt they belonged in STEM" with Z = 2.41, p ≤ 0.01. No effect size is printed.
+
+> "We found that female majors were significantly less likely than male majors to report they felt they belonged in STEM ( Z = 2.41, p ≤ 0.01)"
+
+## Discussion
+
+
+## Related Claims
+- [Students who remain in STEM majors report greater sense of belonging than leavers, and lack of science identity distinguishes leavers](belonging-associated-with-persistence-science-identity-differentiates-leavers.md) — related
+- [Women of color are the least likely, and white men the most likely, to report a sense of belonging in STEM majors](intersectional-belonging-women-of-color-lowest-white-men-highest.md) — a narrower finding that bears on this claim
+- [Representation in the sub-discipline relates to belonging: women of color in pSTEM report belonging less frequently than white men](field-representation-relates-to-womens-belonging.md) — related
+- [Students of color majoring in STEM report significantly lower sense of belonging than white majors](students-of-color-report-less-belonging-than-white-majors.md) — related

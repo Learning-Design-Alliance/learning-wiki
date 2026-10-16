@@ -73,3 +73,4 @@ The synthesis reports, citing Liang et al. (2023), that "GPT detectors can be bi
 - [Detection-led responses to AI in assessment face validity, fairness and trust limits](detection-limits-validity-fairness-trust.md) — a broader claim this one bears on
 - [AI-generated-text detectors are reported as ineffective against current sophisticated language models, and students can alter text to evade detection](ai-text-detectors-ineffective.md) — a narrower finding that bears on this claim
 - [A majority of universities with faculty guidelines discourage reliance on AI detection tools due to unreliability and bias](universities-discourage-ai-detection-tools.md) — a narrower finding that bears on this claim
+- [OpenAI's GPT-2 Output Detector distinguished real student essays from ChatGPT-generated essays on the same subjects in a December 2022 trial](gpt2-output-detector-distinguishes-chatgpt-essays.md) — related

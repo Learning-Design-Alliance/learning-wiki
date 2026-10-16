@@ -8,12 +8,12 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 15,841 |
-| Evidence entries | 18,824 |
-| Distinct studies | 4,712 |
-| Claims resting on one study | 15,390 (97%) |
+| Claims | 16,138 |
+| Evidence entries | 19,179 |
+| Distinct studies | 4,780 |
+| Claims resting on one study | 15,686 (97%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 859 of 4,712 (18%) |
+| Studies reporting an effect size | 875 of 4,780 (18%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
@@ -26,14 +26,15 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 | qualitative | 96 | 253 | 66 | 82 | 497 |
 | design | 51 | 491 | 135 | 30 | 707 |
 | theoretical | 73 | 256 | 58 | 52 | 439 |
+| not yet coded | | | | | 68 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 696 (15%) | 2,936 (62%) | 962 (20%) | 118 (3%) |
+| 704 (15%) | 2,972 (62%) | 986 (21%) | 118 (2%) |
 
-**Studies per claim:** 0: 0, 1: 15,390, 2: 371, 3: 64, 4 or more: 16.
+**Studies per claim:** 0: 0, 1: 15,686, 2: 372, 3: 64, 4 or more: 16.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -77,15 +78,15 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 347 pages | 2 | q3–q4 | 1 of 2 |
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 328 pages | 2 | q2 | 0 of 2 |
 | [Self-regulated learning models treat self-monitoring as a core process through which …](claims/self-monitoring-improves-self-regulation.md) | 312 pages | 2 | q3 | 0 of 2 |
-| [Comparing cases side by side improves learning and transfer by a moderate average amount, …](claims/comparing-contrasting-cases-improves-learning.md) | 241 pages | 3 | q3–q4 | 1 of 3 |
+| [Comparing cases side by side improves learning and transfer by a moderate average amount, …](claims/comparing-contrasting-cases-improves-learning.md) | 244 pages | 3 | q3–q4 | 1 of 3 |
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 228 pages | 2 | q3 | 0 of 2 |
 | [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 227 pages | 3 | q1–q3 | 0 of 3 |
 | [Active Learning Improves Exam Performance](claims/active-learning-improves-exam-performance.md) | 219 pages | 3 | q2–q4 | 2 of 3 |
 | [Assessment for learning improves achievement](claims/assessment-for-learning-improves-achievement.md) | 213 pages | 3 | q2–q3 | 2 of 3 |
-| [Spaced Practice Improves Retention](claims/spaced-practice-improves-retention.md) | 188 pages | 5 | q3–q4 | 2 of 5 |
+| [Spaced Practice Improves Retention](claims/spaced-practice-improves-retention.md) | 189 pages | 5 | q3–q4 | 2 of 5 |
 | [Contingent scaffolding improves learning more than fixed or absent support.](claims/contingent-scaffolding-improves-learning.md) | 182 pages | 5 | q2–q4 | 0 of 5 |
+| [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 170 pages | 2 | q1–q2 | 0 of 2 |
 | [Fading support promotes the transfer of responsibility from instructor to learner.](claims/fading-support-promotes-transfer-of-responsibility.md) | 170 pages | 2 | q3 | 0 of 2 |
-| [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 169 pages | 2 | q1–q2 | 0 of 2 |
 | [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic …](claims/activation-improves-learning.md) | 151 pages | 3 | q3 | 1 of 3 |
 | [Learners invest more effort in tasks they perceive as interesting, personally important, …](claims/task-value-increases-motivation-and-engagement.md) | 125 pages | 2 | q2–q3 | 0 of 2 |
 | [Process goals lead to better skill acquisition for novices than outcome goals.](claims/process-goals-outperform-outcome-goals-for-novices.md) | 107 pages | 2 | q3 | 0 of 2 |
@@ -96,13 +97,13 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [In school studies, cooperative and peer-learning methods that reward groups on every …](claims/cooperative-learning-group-rewards-and-individual-accountability.md) | 82 pages | 3 | q2–q3 | 2 of 3 |
 | [Building Empathy Improves Intergroup Attitudes](claims/building-empathy-improves-intergroup-attitudes.md) | 80 pages | 3 | q3 | 0 of 3 |
 
-Of the 38 claims cited from 50 or more pages, **6 rest on one study or none**: [In one 37-student classroom experiment, recall and retention differ …](claims/media-combinations-affect-recall-and-retention.md), [Part-task practice reduces cognitive load for absolute novices during …](claims/part-task-practice-reduces-load-for-novices.md), [Relevancy of emphasized text directs attention and influences test …](claims/relevancy-of-emphasis-directs-attention.md), [A training-design argument, not tested by any study recorded here, …](claims/whole-task-performance-improves-transfer.md), [Example-first conditions outperformed problem-first conditions on an …](claims/worked-example-problem-sequences.md), [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md).
+Of the 39 claims cited from 50 or more pages, **6 rest on one study or none**: [In one 37-student classroom experiment, recall and retention differ …](claims/media-combinations-affect-recall-and-retention.md), [Part-task practice reduces cognitive load for absolute novices during …](claims/part-task-practice-reduces-load-for-novices.md), [Relevancy of emphasized text directs attention and influences test …](claims/relevancy-of-emphasis-directs-attention.md), [A training-design argument, not tested by any study recorded here, …](claims/whole-task-performance-improves-transfer.md), [Example-first conditions outperformed problem-first conditions on an …](claims/worked-example-problem-sequences.md), [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md).
 
 ## Contested claims
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-236 claims are cited both ways.
+260 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -136,11 +137,11 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 213 | 208 | 22 | 0 |
 | [elements](elements/index.md) | 1,066 | 777 | 2 | 0 |
 | [patterns](patterns/index.md) | 65 | 61 | 23 | 0 |
-| [strategies](strategies/index.md) | 5,694 | 2,560 | 5 | 0 |
+| [strategies](strategies/index.md) | 5,724 | 2,560 | 5 | 0 |
 | [processes](processes/index.md) | 18 | 15 | 6 | 0 |
 | [methods](methods/index.md) | 38 | 22 | 1 | 0 |
 | [theories](theories/index.md) | 1,361 | 908 | 1 | 0 |
-| [learner-variables](learner-variables/index.md) | 74 | 35 | 39 | 0 |
+| [learner-variables](learner-variables/index.md) | 74 | 72 | 31.5 | 0 |
 | [designs](designs/index.md) | 758 | 446 | 1 | 0 |
 | [products](products/index.md) | 1,586 | 1,087 | 1 | 0 |
 | [research-methods](research-methods/index.md) | 449 | 356 | 1 | 0 |

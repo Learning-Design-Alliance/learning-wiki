@@ -90,3 +90,4 @@ Bibliometric keyword-evolution analysis (Path 3). Early research centered on kno
 - Keyword co-occurrence analysis identifies three thematic clusters: traditional AI/predictive modeling, medical education with generative AI, and ethics/knowledge/healthcare integration — related
 - [A datafication-to-commodification governance pathway can shift education from a value-based practice toward a commodified service](datafication-to-commodification-governance-pathway.md) — related
 - AI knowledge and education are increasingly emphasized in Federal STEM education programs and are a component of the Computer Science for All initiative — related
+- [AI applications contributed to STEM students' higher-order thinking, including problem-solving, computational thinking, and self-regulated learning](ai-stem-higher-order-thinking-effects.md) — related

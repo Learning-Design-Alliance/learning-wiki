@@ -68,3 +68,4 @@ Risk-of-bias appraisal using ROBINS-I for non-randomised studies. Two quantitati
 - [No eligible studies of collegiate recovery communities were identified, so there is no rigorous evidence on CRC effectiveness](no-eligible-crc-studies-identified.md) — related
 - Structured literature synthesis retained 7 studies and policy documents from approximately 173 initial records — related
 - Meta-analysis of AI-in-nursing-education studies was not feasible due to heterogeneity, so the review used narrative synthesis — related
+- [Only three studies assessing PICO as a search strategy tool were eligible for review, and heterogeneity prevented quantitative analysis](pico-search-review-three-studies-only.md) — related

@@ -44,6 +44,7 @@ The article asserts as its framing premise that "Student engagement increases st
 
 ## Learner Variables
 - [Interest](../learner-variables/interest.md) — predictor: learners who differ on it differ in outcomes
+- [Social Supports](../learner-variables/social-supports.md) — outcome: instruction changes it
 
 ## Related Claims
 - [A 2024 vendor white paper cites research that avatars provide social presence and that realistic avatars in intelligent tutoring systems can increase student-tutor engagement](avatar-social-presence-increases-tutor-engagement.md) — related

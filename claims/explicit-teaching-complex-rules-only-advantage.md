@@ -64,6 +64,9 @@ Meta-analysis of 41 studies of explicit and implicit instruction on simple and c
 
 Spada and Tomita (2010), a meta-analysis of 41 studies, found larger effects for explicit than implicit instruction for simple as well as complex English grammatical features, which contradicts the earlier title's "equals implicit teaching for simple rules". That rested on one primary study (Andrews, 2007) reported second-hand, so the title now states both findings and gives the meta-analysis its weight.
 
+## Learner Variables
+- [Syntax](../learner-variables/syntax.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](explicit-instruction-context-dependent-synthesis.md) — possibly the same claim (merge candidate)
 - [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruction](rule-oriented-explicit-outperforms-implicit.md) — related

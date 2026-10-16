@@ -42,6 +42,9 @@ Action research with 74 first-year Japanese university ELLs (CEFR B1–B2) acros
 ## Discussion
 
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Classroom implementation of the GoldList Method encountered pitfalls: forgotten notebooks, omitted dates, and unclear initial steps](goldlist-implementation-pitfalls-observed.md) — related
 - [Only the Standard two-week-interval treatment showed a statistically significant improvement over the Baseline treatment](standard-two-week-spacing-significant-over-baseline.md) — related

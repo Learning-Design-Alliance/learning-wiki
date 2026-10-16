@@ -50,6 +50,7 @@ The central statistic (d=1.96) is frequently the kind of number that gets over-r
 
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — predictor: learners who differ on it differ in outcomes
+- [Critical Thinking](../learner-variables/critical-thinking.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - (none yet linked)

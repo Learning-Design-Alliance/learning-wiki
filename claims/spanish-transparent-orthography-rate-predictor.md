@@ -42,6 +42,10 @@ The report attributes this claim to Tapia (2016) in its Test Design section, con
 ## Discussion
 
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — predictor: learners who differ on it differ in outcomes
+- [Reading Fluency](../learner-variables/reading-fluency.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Four oral reading scores together best predict passage comprehension and enable individualized instruction](four-scores-predict-passage-comprehension.md) — related
 - [In Spanish, decoding rate rather than decoding accuracy is the better predictor of passage comprehension](spanish-decoding-rate-better-predictor-than-accuracy.md) — possibly the same claim (merge candidate)

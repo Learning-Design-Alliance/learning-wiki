@@ -61,6 +61,9 @@ Single-study interpersonal outcome from the media-comparison set; g = 0.25 with 
 ## Discussion
 
 
+## Learner Variables
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Multi-session game conditions outperform nongame conditions while single-session games do not, though total play duration shows no association with effect size](multiple-sessions-benefit-single-session-null.md) — related
 - [Balanced SEL frameworks cover intrapersonal, interpersonal, and cognitive competencies and mix skills, knowledge, and attitudes](balance-criterion-intrapersonal-interpersonal-cognitive-competencies.md) — related

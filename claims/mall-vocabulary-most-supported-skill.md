@@ -46,3 +46,4 @@ Descriptive results from the online survey of students and young professionals (
 - [Learners use apps mostly for vocabulary development, translation, and grammar practice, often informally and in short sessions](learners-use-apps-vocabulary-translation-grammar-informally.md) — related
 - [Most language-learning apps focus on cognitive processes and receptive skills, lacking sociocognitive and collaborative activities](apps-focus-cognitive-receptive-skills-lack-collaboration.md) — related
 - [More than 70 percent of the 180 most popular literacy applications referenced no research in their design](literacy-apps-lack-research-reference.md) — related
+- [Hyper-reference dictionary users consulted vocabulary twice as often as paper-dictionary users, though comprehension did not differ significantly](hyper-reference-consultation-frequency-no-comprehension-gain.md) — related

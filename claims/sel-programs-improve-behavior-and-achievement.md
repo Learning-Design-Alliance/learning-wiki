@@ -159,6 +159,9 @@ Open questions include the durability of achievement effects after programs end,
 **Status.** Three meta-analyses with academic outcome measures are recorded above; together they support a positive but small, and in randomised trials negligible, achievement effect.
 <!-- deprecated (2026-10-05, stale): **Status.** This page currently has no verified Evidence entries, so no effect size or specific study claim should be relied on yet. Studies (ideally randomized trials or meta-analytic syntheses with academic outcome measures) still need to be added before this claim can be treated as supported. -->
 
+## Learner Variables
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it

@@ -41,6 +41,9 @@ The review reports, citing Jeung, Chandler, and Sweller, an experiment comparing
 
 ## Discussion
 
+## Learner Variables
+- [Visual Processing](../learner-variables/visual-processing.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Presentation pacing moderates the modality effect: large under system-paced conditions and not significant under self-paced conditions, where it may disappear or reverse](modality-effect-moderated-by-pacing.md) — the general claim this finding bears on, with the studies behind it

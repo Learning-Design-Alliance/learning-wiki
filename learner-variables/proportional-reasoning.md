@@ -12,6 +12,7 @@ generated:
 # Proportional Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
+> **Evidence** · 5 claims (5 show a difference) · 5 studies (2 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 1 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 Proportional reasoning is understanding ratio and how ratios relate to one another. The Learner Variability Navigator describes a ratio as a relationship between parts and wholes that can be written as a fraction, a percentage or a rate. It is assessed with tasks that ask learners to rank fractions shown in different forms (shaded shapes, numerals, decimals) by size, and with missing-value problems in which one quantity in a pair of equivalent ratios must be found.
@@ -34,6 +35,11 @@ LVN treats it as an essential part of arithmetic proficiency in primary school a
 
 ## Claims
 <!-- Claims reporting findings about this variable, with evidence tags -->
+- [Fiber crafting develops proportional reasoning through nested, personally-defined units](../claims/fiber-crafting-develops-proportional-reasoning-through-unitizing.md) [+W] — instruction changes it
+- [Learning is effective when it builds on children's existing knowledge in real-world contexts, and early fraction foundations matter because many older children struggle with rational numbers](../claims/early-fraction-foundations-given-rational-number-difficulty.md) [+W] — learners who differ on it differ in outcomes
+- [Spontaneous break-apart-make-ten strategy use is associated with stronger multiplicative double-counting reasoning](../claims/spontaneous-additive-strategy-relates-to-multiplicative-reasoning.md) [+W] — learners who differ on it differ in outcomes
+- [Student errors on underestimated fraction items reflect systematic misconception patterns rather than random error](../claims/fraction-errors-systematic-misconception-patterns.md) [+M] — learners who differ on it differ in outcomes
+- [The partnership's long-term goal is that students can solve fraction computation and ratio and rate problems](../claims/tft-student-long-term-outcome-goal.md) [+W] — instruction changes it
 
 ## Measures
 - **Ranking Proportions Task** (e.g., Mazzocco & Devlin, 2008): Magnitude comparison for fractions and rational numbers where students rank order different representations of fractions including shaded circles, numerical fractions, and decimals.

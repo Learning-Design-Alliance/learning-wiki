@@ -42,6 +42,9 @@ Case study profile of Los Padillas Elementary (about 200 students, Albuquerque P
 ## Discussion
 
 
+## Learner Variables
+- [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Los Padillas reduced chronic absenteeism by more than half, from 65.5% in 2021–22 to 31.3% in 2023–24, a rate below other APS community schools](los-padillas-chronic-absenteeism-halved.md) — a narrower finding that bears on this claim
 - Los Padillas kindergartners increased year-over-year performance on a local formative assessment in both ELA and math since 2021–22 — a narrower finding that bears on this claim

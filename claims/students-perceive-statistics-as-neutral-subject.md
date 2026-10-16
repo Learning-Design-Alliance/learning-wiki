@@ -41,6 +41,9 @@ Across interviews on belonging and inclusivity, a common theme of uncertainty em
 
 ## Discussion
 
+## Learner Variables
+- [Identity](../learner-variables/identity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Payne argues that color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race](colorblindness-blocks-distribution-discussion.md) — the general claim this finding bears on, with the studies behind it

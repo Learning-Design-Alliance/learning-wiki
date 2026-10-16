@@ -61,6 +61,9 @@ Within-group pre-post comparison on the MAT for the 49 experimental students: pr
 ## Discussion
 
 
+## Learner Variables
+- [Morphological Awareness](../learner-variables/morphological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Within the explicit morphology instruction group, the pre-to-post gain ratio was above Blake's 1.2 minimum for morphological awareness (1.28) and below it for reading comprehension (1.06)](emi-effect-size-larger-for-awareness-than-comprehension.md) — related
 - [Explicit morphology instruction raises EFL secondary students' reading comprehension more than regular EFL instruction alone](emi-raises-efl-reading-comprehension.md) — related

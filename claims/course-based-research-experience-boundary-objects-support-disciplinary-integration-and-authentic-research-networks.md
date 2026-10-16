@@ -48,6 +48,7 @@ This is a methodologically solid, well-triangulated qualitative case study (q2-q
 
 ## Learner Variables
 - [Domain Context](../learner-variables/domain-context.md) — moderator: an instructional effect differs with it
+- [Social Supports](../learner-variables/social-supports.md) — outcome: instruction changes it
 
 ## Related Claims
 - (none yet linked)

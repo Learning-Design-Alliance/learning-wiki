@@ -42,6 +42,9 @@ The brief reports, citing Knuth et al. (2006) and Rittle-Johnson & Star (2009), 
 ## Discussion
 
 
+## Learner Variables
+- [Algebraic Thinking](../learner-variables/algebraic-thinking.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [After an early algebra intervention, the number of kindergarteners giving a relational definition of the equal sign went from one to nine, and acceptance of non-standard equation forms rose, as reported from the authors' earlier study](kindergarten-early-algebra-intervention-shifts-equal-sign-understanding.md) — related
 - In a kindergarten early algebra intervention, the teacher's equal-sign language shifted with lesson focus, from definitions and \"is the same as\" early on to \"balanced\" talk and balance gestures when evaluating and solving equations — related

@@ -42,6 +42,9 @@ In the same WWC subsample analysis of the randomized controlled trial, the PPVT-
 ## Discussion
 
 
+## Learner Variables
+- [Morphological Awareness](../learner-variables/morphological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [VIP shows potentially positive effects on reading achievement for fifth-grade English language learners (effect size 0.50, not statistically significant)](vip-potentially-positive-reading-achievement.md) — related
 - [VIP produces a statistically significant effect on Word Mastery (taught-word definition selection) for English language learners, effect size 1.03](vip-word-mastery-significant-effect.md) — related

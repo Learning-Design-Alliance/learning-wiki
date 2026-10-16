@@ -57,6 +57,10 @@ The review reports inconsistent transportation-noise findings across studies; Lj
 ## Discussion
 
 
+## Learner Variables
+- [Auditory Processing](../learner-variables/auditory-processing.md) — predictor: learners who differ on it differ in outcomes
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Irrelevant changing-state sounds impair children's serial recall of visually presented items, with developmental evidence pointing to two mechanisms](irrelevant-sound-effect-children-serial-recall.md) — related
 - [Noise impairs children's performance in complex listening tasks beyond simple identification, with children affected more than adults](noise-impairs-children-listening-comprehension.md) — related

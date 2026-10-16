@@ -77,6 +77,9 @@ Study 2 simple slopes for the significant stakes × AI interaction on confidence
 
 ## Discussion
 
+## Learner Variables
+- [Metacognition](../learner-variables/metacognition.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Self-efficacy judgments correspond less well to behavior in learning settings than in performance settings](self-efficacy-accuracy-lower-in-learning-settings.md) — the general claim this finding bears on, with the studies behind it

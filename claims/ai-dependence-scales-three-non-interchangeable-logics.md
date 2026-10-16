@@ -50,3 +50,4 @@ The review's psychometric synthesis (Section 3.3, Table 3) of instruments develo
 - [Questionnaire constructs showed acceptable to strong internal consistency (α = 0.740 to 0.945)](questionnaire-constructs-internal-consistency.md) — related
 - Exploratory factor analysis of survey items yields a unidimensional 9-item AI pedagogical orientation scale with strong reliability — related
 - Critical Evaluation and Dependent reliance emerge as empirically distinct constructs, with near-zero correlation between the two facets — a narrower finding that bears on this claim
+- [Within-method convergence (RSAT coding vs human coding; G vs d') indicates stability, not construct validity](within-method-convergence-stability-not-construct-validity.md) — a narrower finding that bears on this claim

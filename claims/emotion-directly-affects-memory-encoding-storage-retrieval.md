@@ -42,6 +42,9 @@ Theoretical argument from the article's abstract, presented as the second perspe
 ## Discussion
 
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Emotions may act as extraneous cognitive load by competing for limited working memory resources with task-irrelevant processing](emotion-as-extraneous-cognitive-load.md) — related
 - [Emotion may affect intrinsic cognitive load, for example when emotion regulation is part of the learning outcomes](emotion-as-intrinsic-load-emotion-regulation.md) — related

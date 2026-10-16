@@ -42,6 +42,9 @@ In the longitudinal Chicago survey analysis, measures of general school experien
 ## Discussion
 
 
+## Learner Variables
+- [Civic Mindedness](../learner-variables/civic-mindedness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged](positive-relationships-increase-civic-engagement-intention.md) — related
 - [Students who witnessed concern for community and current events at home, in the neighborhood or at school were more likely to be committed to civic participation](experiencing-civic-community-fosters-commitment.md) — related

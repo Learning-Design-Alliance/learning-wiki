@@ -44,6 +44,7 @@ Systematic review phase of the meta-analysis, identifying the ten themes includi
 
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
+- [Social Supports](../learner-variables/social-supports.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Contextual themes (extracurricular activities, environmental/school safety) are associated with school belonging](contextual-themes-school-belonging.md) — related

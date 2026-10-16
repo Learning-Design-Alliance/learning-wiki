@@ -41,6 +41,9 @@ Theoretical argument in the brief's introduction, citing Vygotsky. The brief ass
 
 ## Discussion
 
+## Learner Variables
+- [Identity](../learner-variables/identity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it

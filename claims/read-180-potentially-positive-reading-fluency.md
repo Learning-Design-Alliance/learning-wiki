@@ -42,6 +42,9 @@ The review's fluency-domain rating statement: one RCT (Kim et al., DIBELS Oral R
 ## Discussion
 
 
+## Learner Variables
+- [Reading Fluency](../learner-variables/reading-fluency.md) — outcome: instruction changes it
+
 ## Related Claims
 - [READ 180® comprehension effects are inconsistent across cohorts within the same study](read-180-comprehension-inconsistent-across-cohorts.md) — related
 - [READ 180® shows no discernible effects on alphabetics for adolescent readers](read-180-no-discernible-effects-alphabetics.md) — related

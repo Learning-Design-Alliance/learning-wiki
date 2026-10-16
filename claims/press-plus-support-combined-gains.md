@@ -68,3 +68,4 @@ The math version of the same combined analysis (Figure 4) shows the high-press/h
 - [Schools strong in the five essential supports are more likely to improve academically](essential-supports-strength-linked-academic-improvement.md) — a broader claim this one bears on
 - Integrated, small, wealthier, and higher-achieving Chicago schools are far more likely to combine strong press and strong support than large, poor, racially isolated, low-achieving schools — related
 - [Students' social support is positively related to one-year reading and math achievement gains in Chicago middle grades, controlling for background and school characteristics](social-support-positive-achievement-gains-chicago.md) — related
+- [Coach-athlete relationship and coach leadership or behaviours considered together are better predictors of athletes' and coaches' outcomes than either alone](relationship-plus-leadership-better-predictors.md) — a narrower finding that bears on this claim

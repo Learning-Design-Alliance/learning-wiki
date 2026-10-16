@@ -43,6 +43,9 @@ Questionnaire item on textbook listening activities rated on a 4-point scale by 
 ## Discussion
 
 
+## Learner Variables
+- [Auditory Processing](../learner-variables/auditory-processing.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Heritage learners of Portuguese perceive listening as the easiest of the four skills, while non-heritage learners find it as challenging as other skills](hlls-rate-listening-easiest-nhlls-challenging.md) — related
 - [All participants believed heritage learners perform better in classroom listening, but dialectal differences posed difficulties for HLLs that NHLLs did not notice](perceived-hll-advantage-and-dialect-difficulty.md) — related

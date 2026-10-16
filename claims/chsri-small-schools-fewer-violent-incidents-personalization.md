@@ -61,6 +61,9 @@ From student and teacher focus groups across the 11 schools; students described 
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Strong personalized student supports tend to accompany strong freshman course performance but may not be essential](student-supports-tend-accompany-strong-performance.md) — related
 - [Teachers and principals in CHSRI small schools describe an environment marked by trust, commitment, and strong professional community in year two](chsri-small-schools-trust-professional-community.md) — related

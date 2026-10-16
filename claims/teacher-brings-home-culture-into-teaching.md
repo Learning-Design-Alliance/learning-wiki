@@ -43,6 +43,9 @@ Life-history narrative of Ana Maria Orbe-Lugo, a Chicago public school teacher, 
 ## Discussion
 
 
+## Learner Variables
+- [Identity](../learner-variables/identity.md) — outcome: instruction changes it
+
 ## Related Claims
 - A teacher mentioning her own less-celebrated identities opens the door for students to include their perspectives and identities — related
 - Experiences of racism and assimilationist schooling shape teachers' resolve to prevent non-white children's cultures from being overlooked — possibly the same claim (merge candidate)

@@ -43,6 +43,7 @@ Cross-case comparison in the conclusion section of the holistic multiple-case st
 
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+- [Metacognition](../learner-variables/metacognition.md) — outcome: instruction changes it
 
 ## Related Claims
 

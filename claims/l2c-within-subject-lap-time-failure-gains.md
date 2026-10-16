@@ -66,3 +66,4 @@ Paired t-test on per-lap failure count (collisions and timeouts) for the L2C gro
 - [Learners rated the L2C coach higher than both baselines on safety, performance, agency, and satisfaction](l2c-higher-subjective-ratings.md) — related
 - [L2C outperformed both the Rule-based Fading and Minimally-invasive Assistance baselines on lap time and failure count](l2c-outperforms-rbf-mia-baselines.md) — related
 - [The L2C coach adaptively modulates assistance by estimated learner skill and physical context, concentrating intervention around gates](l2c-adaptive-assistance-by-skill-and-context.md) — related
+- [For within-subjects designs, the author recommends reporting Cohen's d_rm or Cohen's d_av rather than Cohen's dz](recommend-drm-or-dav-for-within-designs.md) — related

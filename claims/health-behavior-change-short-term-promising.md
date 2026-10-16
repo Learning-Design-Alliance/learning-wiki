@@ -42,6 +42,9 @@ Narrative synthesis of health behavior-change pilots: studies reported increased
 ## Discussion
 
 
+## Learner Variables
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Purpose-built chatbot effects on educational performance are mixed, with some studies showing no benefits or worse outcomes than comparison conditions](educational-performance-mixed-ai-chatbots.md) — related
 - [Purpose-built AI chatbot coaching is generally well received and supports short-term motivation and selected behavior change, but effects on sustained, meaningful outcomes are inconsistent](purpose-built-chatbot-coaching-short-term-benefits-inconsistent-sustained.md) — related

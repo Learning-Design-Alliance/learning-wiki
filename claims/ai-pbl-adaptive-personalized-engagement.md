@@ -42,6 +42,9 @@ Thematic synthesis of the 50 included studies in this systematic review; the rev
 
 ## Discussion
 
+## Learner Variables
+- [Problem Solving](../learner-variables/problem-solving.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Included studies suggest engagement increases when adaptive platform activities are tailored to learners' personal needs and emotional state](adaptivity-emotional-tailoring-increases-engagement.md) — the general claim this finding bears on, with the studies behind it
@@ -51,3 +54,4 @@ Thematic synthesis of the 50 included studies in this systematic review; the rev
 - [Educators' use of AI in PBL is accompanied by persistent ethical concerns about data privacy, algorithmic bias, and educator autonomy](ai-pbl-ethical-concerns-privacy-bias-autonomy.md) — related
 - The review identifies scarcity of long-term impact assessment, limited empirical validation of integrity interventions, and missing equity-focused policy research as key research gaps — related
 - [AI raises the ceiling on problem complexity by reducing access complexity rather than cognitive demand](ai-raises-problem-complexity-ceiling.md) — a narrower finding that bears on this claim
+- [Students reported that ChatGPT enhanced engagement, comprehension, problem-solving, and perceived relevance in Quantum Theory](chatgpt-qualitative-engagement-comprehension-quantum.md) — a narrower finding that bears on this claim

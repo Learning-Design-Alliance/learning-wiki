@@ -62,6 +62,9 @@ Blake's modified gain ratio computed from the experimental group's pre/post MAT 
 ## Discussion
 
 
+## Learner Variables
+- [Morphological Awareness](../learner-variables/morphological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Morphological Instruction Improves Vocabulary](morphological-instruction-improves-vocabulary.md) — related
 - [Morphological instruction improves word-level literacy outcomes (decoding, spelling, vocabulary, morphological knowledge) but shows no reliable effect on reading comprehension](morphological-instruction-improves-literacy.md) — related

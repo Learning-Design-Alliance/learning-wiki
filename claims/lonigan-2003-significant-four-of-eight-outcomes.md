@@ -42,6 +42,9 @@ Randomized controlled trial of 41 low-income three- to five-year-olds in a Talla
 ## Discussion
 
 
+## Learner Variables
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [DaisyQuest outperformed alternative reading software on phonological awareness in at-risk first graders](daisyquest-beats-reading-software-phonological-awareness.md) — related
 - [Blending outcomes showed no statistically significant effects of DaisyQuest in the Lonigan et al. (2003) trial](daisyquest-blending-outcomes-not-significant.md) — related

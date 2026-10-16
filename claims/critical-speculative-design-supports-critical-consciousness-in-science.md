@@ -46,6 +46,9 @@ Two 8th-grade physics classes replaced a standard unit on light waves with [Thre
 ## Discussion
 This is a qualitative, ethnographic design study (q2), not an efficacy trial: there is no comparison condition and no quantified learning-outcome measure, and the most detailed evidence comes from two focal students out of 158 tracked (13 with sufficient data for broader pathway analysis). Implementation was affected by a COVID-driven mid-unit reduction in instructional time (from 75 to 28 minutes per session), which the authors note as a real-world constraint rather than a controlled variable. The pattern of increased engagement with anti-racist, emotionally resonant content is well-documented in the two focal cases but not established as reliable across the full cohort or across other content domains.
 
+## Learner Variables
+- [Civic Mindedness](../learner-variables/civic-mindedness.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [One adult educator's first-person reflection reports that facilitated class discussions left her feeling empowered as an individual contributor](facilitated-self-directed-learning-empowers-adults.md) — the general claim this finding bears on, with the studies behind it

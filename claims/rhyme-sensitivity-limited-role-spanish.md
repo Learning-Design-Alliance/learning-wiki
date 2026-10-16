@@ -42,6 +42,9 @@ The report states these abilities "tend to show reduced differentiation among re
 ## Discussion
 
 
+## Learner Variables
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — a broader claim this one bears on
 - [Syllable awareness is a strong and prominent predictor of Spanish reading development](syllable-awareness-strong-predictor-spanish-reading.md) — related

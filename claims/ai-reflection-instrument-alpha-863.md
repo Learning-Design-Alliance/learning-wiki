@@ -51,3 +51,4 @@ Psychometric analysis of the study's 12-item, 5-point Likert reflection instrume
 - [The AEEGS software demonstrated internal consistency of Cronbach alpha 0.86 in trial testing and was validated for face and content validity by three software experts](aeegs-reliability-cronbach-086.md) — related
 - [TAILS dimensions show high internal consistency, with Cronbach's alpha values above 0.90](tails-high-internal-consistency.md) — related
 - [CTAT shows robust psychometric properties for higher education CS/AI students, with reliable internal consistency and adequate IRT item parameters](ctat-robust-psychometric-properties.md) — related
+- [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](high-alpha-indicates-domain-knowledge-test-failure.md) — related

@@ -79,6 +79,9 @@ Same models; related measures are teacher-parent trust, parent involvement in sc
 
 ## Discussion
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [A more positive school climate is related to improved academic achievement beyond socioeconomic status](positive-school-climate-linked-achievement.md) — the general claim this finding bears on, with the studies behind it

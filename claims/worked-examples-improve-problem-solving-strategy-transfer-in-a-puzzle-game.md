@@ -43,6 +43,9 @@ Same randomized two-group SafeCracker experiment with 72 students. "The worked e
 ## Discussion
 
 
+## Learner Variables
+- [Problem Solving](../learner-variables/problem-solving.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Worked Examples Improve Problem Solving Strategy Retention In A Puzzle Game](worked-examples-improve-problem-solving-strategy-retention-in-a-puzzle-game.md)
 - [Worked Examples With Practice Improve Transfer](worked-examples-with-practice-improve-transfer.md)

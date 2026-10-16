@@ -42,6 +42,9 @@ Longitudinal analysis of the Chicago survey data compared extracurricular partic
 ## Discussion
 
 
+## Learner Variables
+- [Civic Mindedness](../learner-variables/civic-mindedness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [General academic supports and quality instruction are insufficient to foster civic commitment; supportive teachers and quality instruction were not statistically related to it](academic-outcomes-focus-insufficient-civic-commitment.md) — related
 - [Students who witnessed concern for community and current events at home, in the neighborhood or at school were more likely to be committed to civic participation](experiencing-civic-community-fosters-commitment.md) — related

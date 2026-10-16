@@ -45,3 +45,4 @@ Fixed-effects regression of Google Trends ChatGPT search index on an in-session 
 ## Related Claims
 - [The educational summer dip is invisible in aggregate 2025 ChatGPT activity due to rapid overall growth, even though the school-calendar response remains intact](2025-summer-dip-masked-by-growth.md) — a narrower finding that bears on this claim
 - [College students contribute to but cannot fully explain the summer dip in ChatGPT activity](college-students-partially-explain-summer-dip.md) — related
+- [Google Trends data show ChatGPT search interest surged globally within weeks of its November 2022 public release, with plagiarism among the top related queries](google-trends-chatgpt-plagiarism-queries.md) — related

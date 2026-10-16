@@ -98,6 +98,9 @@ The chapter's own conclusion: "there is a wealth of evidence that retrieval prac
 
 ## Discussion
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Test-enhanced learning generalizes across education levels, from elementary school (g = 0.328) through university/college (g = 0.486).](testing-effect-generalizes-education-levels.md) — the general claim this finding bears on, with the studies behind it

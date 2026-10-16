@@ -51,3 +51,4 @@ Descriptive post-intervention analysis within the experimental group (n = 102) o
 - [ADA use shows a modest non-significant tendency toward increased intrinsic and extrinsic cognitive load, contrary to prior chatbot research](ada-cognitive-load-slightly-increased-non-significant.md) — related
 - [Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation](chatbot-enhances-learning-experience-self-paced.md) — related
 - [Learners in fully online courses reported positive perceived usefulness and perceived ease of use of both a goal-setting chatbot and a learning buddy chatbot](chatbots-positive-usefulness-ease-of-use-online.md) — related
+- [AI applications in STEM education foster positive affective perception, including attitude, interest, and motivation](ai-stem-positive-affective-perception-effects.md) — a broader claim this one bears on

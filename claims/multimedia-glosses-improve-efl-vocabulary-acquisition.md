@@ -54,3 +54,5 @@ Quasi-experimental pretest-posttest control group study of 45 first-year EFL stu
 - [Only L1-gloss-L2-ex and L1-in-text-gloss conditions significantly outperform the no-gloss control on all three vocabulary recall tests](gloss-l2-ex-and-in-text-gloss-beat-control-scheffe.md) — related
 - [Learning style (visual-verbal) shows no significant correlation with the effectiveness of pictorial elucidation for adolescent EFL learners](learning-style-no-correlation-pictorial-elucidation-effect.md) — related
 - After concept-model instruction, students' posttest vocabulary scores ranged from 57.78% to 82.22% correct, compared with pretest scores of 0% to 8.89% — related
+- [In Chun and Plass's CyberBuch studies, the text + picture annotation group significantly outperformed text-definition and text + video groups on a vocabulary test](chun-plass-text-picture-outperformed-text-video.md) — related
+- [In Yoshii's study, text + picture glosses beat text-only glosses only on a definition-supply test, with no L1 versus L2 gloss difference](yoshii-text-picture-definition-supply-only.md) — related

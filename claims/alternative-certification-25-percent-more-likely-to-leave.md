@@ -59,3 +59,4 @@ Multivariate logistic regression on SASS/TFS data controlling for student, teach
 - [Five years after first licensure, 69% of traditional-preservice teachers remained in Texas classrooms versus 60% of alternatively certified teachers](retention-gap-traditional-versus-alternative-texas.md) — related
 - Tennessee's educator diversity efforts leave two recruitment pathways unfunded: minority serving institutions and teacher academies/dual enrollment — related
 - [Students of university-prepared Texas teachers gained 2.2 additional months of 9th-grade ELA learning and 1.8 additional months of 9th-grade math learning versus students of alternatively prepared teachers](university-prepared-teachers-higher-student-learning-gains.md) — related
+- [Students of under-certified teachers made about 20% less academic growth per year than students of regularly certified teachers](undercertified-20-percent-less-growth.md) — related

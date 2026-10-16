@@ -42,6 +42,9 @@ Key finding from the Healthy Harlem evaluation brief comparing the share of stud
 ## Discussion
 
 
+## Learner Variables
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Healthy Harlem generally increased students' fitness levels, with variation by gender](healthy-harlem-fitness-gains-vary-by-gender.md) — related
 - [Overweight or obese students who participated in Get Fit and Prevention had large and statistically significant increases in PACER laps two and three years later](healthy-harlem-get-fit-prevention-pacer-increases.md) — related

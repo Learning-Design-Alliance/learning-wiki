@@ -153,7 +153,7 @@ Surprise or confusion during the lesson, a correct answer immediately after it, 
 ## Key Sources
 - Posner, G. J., Strike, K. A., Hewson, P. W., & Gertzog, W. A. (1982). Accommodation of a scientific conception: Toward a theory of conceptual change. *Science Education, 66*(2), 211-227. [https://doi.org/10.1002/sce.3730660207](https://doi.org/10.1002/sce.3730660207)
 - Limon, M. (2001). On the cognitive conflict as an instructional strategy for conceptual change. *Learning and Instruction, 11*(4-5), 357-380. [https://doi.org/10.1016/S0959-4752(00)00037-2](https://doi.org/10.1016/S0959-4752(00)00037-2)
-- Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40.
+- Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40. [doi:10.3926/jotse.137](https://doi.org/10.3926/jotse.137)
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -245,5 +245,5 @@ Drawing on constructivist tenets in learning science, the article argues that te
 - [Build on children's anthropomorphic explanations as bridges into scientific concepts instead of correcting them](../strategies/build-on-anthropomorphic-explanations-as-bridges.md)
 
 ## Key Sources
-- Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40.
+- Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40. [doi:10.3926/jotse.137](https://doi.org/10.3926/jotse.137)
 -->

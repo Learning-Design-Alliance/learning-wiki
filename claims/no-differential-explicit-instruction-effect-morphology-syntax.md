@@ -42,6 +42,9 @@ In the same two-group artificial-language experiment, the hypothesis that explic
 ## Discussion
 
 
+## Learner Variables
+- [Syntax](../learner-variables/syntax.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [The study tested the interaction of explicit instruction with complexity and morphology/syntax across four L2 structures](experanto-interaction-design-four-l2-structures.md) — related
 - [No differential effect of explicit instruction depending on the variable complexity](no-differential-explicit-instruction-effect-complexity.md) — related

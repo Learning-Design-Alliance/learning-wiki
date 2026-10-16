@@ -12,6 +12,7 @@ generated:
 # Alphabet Knowledge and Print Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
+> **Evidence** · 29 claims (11 show a difference, 8 mixed, 10 no difference) · 21 studies (14 causal, 4 quant-synthesis, 1 associational, 1 qualitative, 1 design), `q1`–`q3` · 14 of 21 report an effect size · 28 claims rest on one study
 
 ## Description
 Alphabet knowledge is knowing the names, written forms and sounds of letters, including letter combinations that represent a single sound. Print awareness is the understanding that print carries meaning and has different functions, and of how it works on the page (that text is read in a set direction, that words are separated by spaces, and so on), something experienced readers forget they had to learn. Both are measured in early childhood: alphabet knowledge by asking children to name and sound out randomly ordered upper- and lower-case letters, print awareness by informal assessments in which a child handles a book.
@@ -38,6 +39,35 @@ Both factors come from the LVN's PK-3 literacy area. They lead into [phonologica
 
 ## Claims
 <!-- Claims reporting findings about this variable, with evidence tags -->
+- [A year of West Virginia Pre-K produced substantial gains in print awareness at kindergarten entry, and the program meets all 10 NIEER quality standards](../claims/wv-prek-print-awareness-gains.md) [+W] — instruction changes it
+- [Alphabetics improvement-index findings for Waterford Early Reading Program™ were inconsistent across outcomes, ranging from –26 to +37 percentile points](../claims/werp-alphabetics-effects-vary-by-outcome.md) [~W] — instruction changes it
+- [An 11-week teacher-delivered phonological awareness intervention significantly improves kindergarten children's phoneme segmentation, letter knowledge, reading, and invented spelling](../claims/teacher-delivered-phoneme-awareness-kindergarten-improves-early-literacy.md) [+M] — instruction changes it
+- [Bright Beginnings shows a substantively important positive effect on the TERA-3 print knowledge measure (effect size 0.32) but no discernible effect on the print knowledge domain overall](../claims/bright-beginnings-print-knowledge-tera3-mixed.md) [~M] — instruction changes it
+- [Cross-linguistic transfer is skill-specific: phonological awareness and print concepts transfer across languages, vocabulary and comprehension do not](../claims/cross-linguistic-transfer-skill-specific.md) [+W] — learners who differ on it differ in outcomes
+- [Curiosity Corner shows no discernible effects on preschool print knowledge in the PCER randomized trial](../claims/curiosity-corner-no-discernible-print-knowledge-effects.md) [-M] — instruction changes it
+- [Dialogic Reading combined with Sound Foundations shows potentially positive effects on print knowledge and early reading/writing but not oral language](../claims/dialogic-reading-sound-foundations-combined-outcomes.md) [~W] — instruction changes it
+- [Doors to Discovery™ shows potentially positive effects on preschool print knowledge, with mixed findings across two studies](../claims/doors-to-discovery-potentially-positive-print-knowledge.md) [~W] — instruction changes it
+- [Early Reading First had positive, statistically significant impacts on children's print and letter knowledge](../claims/early-reading-first-positive-print-letter-knowledge-impacts.md) [+M] — instruction changes it
+- [For students with full week-6 attendance, Flex showed significantly greater gains than Plain on taught-letter alphabetics, decoding, and word reading](../claims/week6-attendance-interaction-favors-flex.md) [+M] — instruction changes it
+- [Headsprout Early Reading has a statistically significant positive effect on the print knowledge of at-risk preschool children](../claims/headsprout-positive-print-knowledge-preschool.md) [+M] — instruction changes it
+- [Higher pretest cognitive flexibility predicted greater decoding gains and compensated for lower pretest alphabet knowledge](../claims/pretest-cognitive-flexibility-predicts-decoding-gains-compensates-alphabet.md) [~M] — an instructional effect differs with it
+- [In a Los Angeles RCT, Earobics® plus Open Court improved phonological awareness but not letter knowledge, phonics, or fluency](../claims/earobics-cognitive-concepts-2003-phonological-awareness-gains.md) [-M] — instruction changes it
+- [In an Anchorage RCT with severe differential attrition, Earobics® effects on alphabetics were not statistically significant and one subtest showed a substantively important negative effect](../claims/earobics-rehmann-2005-null-and-negative-effects.md) [-W] — instruction changes it
+- [In the Nelson, Benner, & Gonzalez (2005) RCT, SSL produced statistically significant positive effects on all five alphabetics outcomes](../claims/ssl-nelson-benner-gonzalez-2005-significant-outcomes.md) [+M] — instruction changes it
+- [Instruction in language, phonological awareness, and decoding improved performance in the taught domain, while interventions teaching print knowledge or early writing exclusively did not](../claims/taught-domain-instruction-improves-taught-domain.md) [-M] — instruction changes it
+- [Kindergarten follow-up shows statistically significant positive effects of Curiosity Corner on two print knowledge measures, not included in the effectiveness rating](../claims/curiosity-corner-kindergarten-followup-print-gains.md) [+M] — instruction changes it
+- [Language and print knowledge instructional features produced statistically comparable performance within their domains, leaving unclear which features are most effective](../claims/instructional-features-comparable-within-domains.md) [~W] — instruction changes it
+- [Literacy Express has positive effects on print knowledge for preschool children, with significant effects in two of three studies](../claims/literacy-express-positive-print-knowledge.md) [~M] — instruction changes it
+- [No individual alphabetics outcome reached statistical significance in the WWC analysis](../claims/voyager-alphabetics-null-significance.md) [-M] — instruction changes it
+- [Phonemic segmentation training favored over rhyme/alliteration training on print knowledge, phonological processing, and early reading/writing (Yeh 2003), with substantively important but non-significant differences](../claims/phonemic-segmentation-favored-over-rhyme-alliteration-yeh.md) [-M] — instruction changes it
+- [Phonological awareness and alphabet knowledge fluency are each uniquely related to both word reading and spelling in kindergartners](../claims/pa-and-ak-fluency-uniquely-related-word-reading-spelling.md) [+M] — learners who differ on it differ in outcomes
+- [Phonological awareness training plus letter knowledge training has positive effects on preschoolers' print knowledge](../claims/pat-lk-positive-print-knowledge-preschool.md) [+M] — instruction changes it
+- [Pre-K Mathematics with DLM Early Childhood Express Math shows no discernible effects on preschool print knowledge](../claims/prek-mathematics-no-print-knowledge-effects.md) [-W] — instruction changes it
+- [Reading Recovery has potentially positive effects on alphabetics for beginning readers](../claims/reading-recovery-potentially-positive-alphabetics.md) [+M] — instruction changes it
+- [Ready, Set, Leap!® has no significant effect on preschool print knowledge (domain average effect size 0.06)](../claims/ready-set-leap-null-print-knowledge.md) [-M] — instruction changes it
+- [The WWC rated Waterford Early Reading Program™ as having potentially positive effects on alphabetics, based on a substantively important average effect size with no statistically significant individual outcomes](../claims/werp-potentially-positive-alphabetics.md) [~W] — instruction changes it
+- [Waterford Early Reading Level One™ and Let's Begin with the Letter People® produce similar outcomes in oral language and print knowledge](../claims/waterford-versus-letter-people-similar-outcomes.md) [-M] — instruction changes it
+- [Waterford Early Reading Level One™ shows no discernible effects on preschool children's print knowledge](../claims/waterford-level-one-no-discernible-print-knowledge-effects.md) [-W] — instruction changes it
 
 ## Measures
 - **Concepts About Print (CAP)** (Clay, 2000): informal assessment of print awareness for kindergarten and first-grade children.

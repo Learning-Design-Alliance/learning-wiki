@@ -63,3 +63,5 @@ This RCT randomly assigned students in 45 secondary schools to a math class taug
 - [Secondary math students taught by Teach For America teachers outperformed peers taught by traditional-route teachers by 0.06 standard deviations](tfa-secondary-math-outperforms-traditional-006-sd.md) — related
 - Within-school random assignment studies such as the TFA evaluation are challenging but may be feasible and generate useful evidence — related
 - The authors propose creating America's Teacher Corps through federal legislation to recognize highly effective K-12 public school teachers — related
+- [Students of certified teachers outperformed students of under-certified teachers, including TFA teachers, on all three SAT-9 subtests in low-income districts](certified-outperform-undercertified-sat9.md) — reports the opposite
+- [Students of TFA teachers did not perform significantly differently from students of other under-certified teachers](tfa-no-different-other-undercertified.md) — reports the opposite

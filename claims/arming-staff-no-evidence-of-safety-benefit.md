@@ -42,6 +42,9 @@ The review reports this examination of intentional school shootings as its evide
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Two mass shootings exemplify how metal detectors can be insufficient at stopping such attacks](metal-detectors-insufficient-mass-shooting-cases.md) — related
 - [Security cameras show no evidence of improving school safety, and evidence does not support expanding metal detector use](security-cameras-and-metal-detectors-lack-safety-evidence.md) — related

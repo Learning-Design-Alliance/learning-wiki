@@ -22,6 +22,7 @@ sources:
 # Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q3` · `i3` large · n=30 meta-analyses, 66 correlations from 13,853 effect sizes (~4.66 million participants)
 
 Across 66 learner characteristics, the strongest correlates of mathematics achievement are knowledge and skills (verbal achievement, prior knowledge, reading, mathematics vocabulary) and cognitive abilities (intelligence, language, creativity, executive functions); personality, goals and emotions correlate less and more variably. These are correlations compiled across meta-analyses: they describe how strongly the characteristic goes with mathematics achievement, not what causes it.
 
@@ -64,3 +65,4 @@ The review compiles zero-order correlations from published meta-analyses (each w
 - [Mastery goals correlate positively (r = .17) and performance-avoidance goals negatively (r = −.17) with mathematics achievement, while performance-approach goals barely do](mastery-goals-correlate-positively-and-avoidance-goals-negatively-with-math-achievement.md)
 - [Creativity correlates strongly with mathematics achievement in school (r = .47), more so in elementary than in high school](creativity-correlates-strongly-with-math-achievement.md)
 - [Emotional intelligence correlates only weakly with mathematics achievement (r = .16), less than with achievement in the humanities](emotional-intelligence-correlates-weakly-with-math-achievement.md)
+- [State-level percentage of uncertified teachers correlates negatively with NAEP state assessment performance (r from –.40 to –.63)](uncertified-rate-negative-naep-correlation.md) — related

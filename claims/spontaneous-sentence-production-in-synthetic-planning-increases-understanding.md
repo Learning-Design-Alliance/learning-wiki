@@ -51,6 +51,9 @@ University students wrote a 30-minute argumentative essay after either detailed 
 ## Discussion
 The understanding measure is a single pre/post self-rating on a 7-point scale (arctan-transformed for skew), not an external test of learning — a genuine but subjective measure. The sample is drawn from one university writing task in one language and topic domain, and the effects are statistically significant (e.g., p=.007, p=.03) but no standardised effect size is reported. The claim that text quality and understanding are not positively related is the paper's most theoretically consequential finding and directly conflicts with the problem-solving account's core assumption; readers should note this is based on the same 78-participant sample as the other subclaims, not independently replicated elsewhere.
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — related

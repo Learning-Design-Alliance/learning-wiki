@@ -42,6 +42,9 @@ Same correlational analysis of 40 French L2 speakers' speech with 60 listeners' 
 ## Discussion
 
 
+## Learner Variables
+- [Oral Language](../learner-variables/oral-language.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Five speech measures clearly distinguish L2 learners at different comprehensibility levels after data triangulation](five-speech-measures-distinguish-comprehensibility-levels.md) — a broader claim this one bears on
 - [Lexical richness and fluency measures differentiate between low-level L2 learners' comprehensibility](lexical-richness-fluency-differentiate-low-level-comprehensibility.md) — related

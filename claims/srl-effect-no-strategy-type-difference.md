@@ -52,3 +52,7 @@ Categorical moderator analysis under the random effects model comparing subgroup
 - [Effect sizes across SRL intervention studies are highly heterogeneous, requiring a random effects model](srl-effect-sizes-heterogeneous-random-effects.md) — related
 - [Self-regulated learning strategies have a large pooled effect (d = 0.859) on academic achievement across 21 Turkish studies](srl-strategies-large-effect-academic-achievement.md) — related
 - [Evidence indicates socially shared regulation of learning occurs across SRL areas and may promote learning and performance](ssrl-empirical-evidence-occurrence-and-effects.md) — related
+- [Feedback in course design predicts larger SRL training effects for metacognitive strategies, resource management strategies, and motivation](feedback-moderates-srl-training-effects.md) — related
+- [Provision of learning protocols predicts larger SRL training effects for resource management strategies](learning-protocols-moderate-resource-management-effects.md) — related
+- [SRL training effects vary by outcome category, largest for metacognitive strategies (g = .40) and smallest for cognitive strategies (g = .32)](srl-training-effects-by-outcome-category.md) — reports the opposite
+- [SRL training programs targeting older students and students with lower prior academic achievement show larger effects on resource management strategies](student-characteristics-moderate-resource-management-effects.md) — related

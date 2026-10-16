@@ -42,6 +42,9 @@ Between-group comparison of writing quality gain in the 2×2 experiment (120 und
 ## Discussion
 
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [FRAC and the combined intervention shifted revision toward deeper levels, with deep revision (L3+L4) rising from 25% in the regular AI group to 55% in the combined group](frac-shifts-revision-toward-deep-levels.md) — related
 - [FRAC and combined intervention advantages transferred to a new writing task and were retained after AI support was withdrawn](frac-transfer-retention-after-ai-removal.md) — possibly the same claim (merge candidate)

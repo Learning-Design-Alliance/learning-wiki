@@ -42,6 +42,9 @@ Analysis of CIVED 1999 data on adolescents' civic engagement. The article report
 ## Discussion
 
 
+## Learner Variables
+- [Civic Mindedness](../learner-variables/civic-mindedness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [An open classroom climate has a positive impact on adolescents' civic knowledge and appreciation of political conflict, controlling for individual, classroom, school, and district characteristics](open-classroom-climate-boosts-civic-knowledge-conflict-appreciation.md) — related
 - [An open classroom climate at school can partially compensate for the disadvantages of young people with low socioeconomic status](open-classroom-climate-compensates-low-ses.md) — related

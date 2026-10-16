@@ -42,6 +42,9 @@ The brief states this as a finding from the research literature on stress and se
 
 ## Discussion
 
+## Learner Variables
+- [Adverse Experiences](../learner-variables/adverse-experiences.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](math-anxiety-degrades-performance.md) — the general claim this finding bears on, with the studies behind it

@@ -72,6 +72,9 @@ A second reviewed finding attributes greater social responsibility, community aw
 
 ## Discussion
 
+## Learner Variables
+- [Civic Mindedness](../learner-variables/civic-mindedness.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Project-based learning improves achievement](project-based-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it

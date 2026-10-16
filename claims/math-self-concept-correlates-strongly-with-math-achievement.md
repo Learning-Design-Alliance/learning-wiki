@@ -22,6 +22,7 @@ sources:
 # Mathematics self-concept correlates strongly with mathematics achievement (r = .43), while verbal self-concept barely does (r = .12)
 
 > **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r3` · `q3` · `i3` large · n=30 meta-analyses, 66 correlations from 13,853 effect sizes (~4.66 million participants)
 
 Mathematics self-concept correlates r = .43 with mathematics achievement and verbal self-concept only .12 (Möller et al. 2009, k = 69, n = 125,308). These are correlations compiled across meta-analyses: they describe how strongly the characteristic goes with mathematics achievement, not what causes it.
 

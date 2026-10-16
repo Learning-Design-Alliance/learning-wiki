@@ -61,6 +61,9 @@ School-level change analyses reported in the findings section: increases in util
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [School climate data supported changes to the three schools' discipline systems](climate-data-discipline-system-changes.md) — related
 - [Restorative practices reduce exclusionary discipline and misbehavior and improve school climate, safety, and achievement, though implementation requires sustained investment](restorative-practices-improve-safety-climate-achievement.md) — a broader claim this one bears on

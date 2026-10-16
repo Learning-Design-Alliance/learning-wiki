@@ -60,6 +60,9 @@ The review reports countervailing findings in the same category, including that 
 
 ## Discussion
 
+## Learner Variables
+- [Communication Skills](../learner-variables/communication-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it

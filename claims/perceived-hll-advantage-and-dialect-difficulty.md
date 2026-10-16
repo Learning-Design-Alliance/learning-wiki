@@ -62,6 +62,9 @@ Qualitative questionnaire data on difficulties with listening activities. Other 
 ## Discussion
 
 
+## Learner Variables
+- [Auditory Processing](../learner-variables/auditory-processing.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Four themes of difficulty in textbook listening activities emerge for both groups: speech rate, speaker's accent, word meaning, and time pressure](four-difficulty-themes-textbook-listening.md) — related
 - [Heritage learners of Portuguese perceive listening as the easiest of the four skills, while non-heritage learners find it as challenging as other skills](hlls-rate-listening-easiest-nhlls-challenging.md) — related

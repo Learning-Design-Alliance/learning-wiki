@@ -293,6 +293,9 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 
 **Open questions.** Open questions for future enrichment include how spacing effects scale from laboratory verbal-learning tasks to authentic classroom content, whether benefits extend to complex skill acquisition and transfer rather than retention, and how to specify optimal gap-to-retention ratios for practical scheduling.
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — another encoding-side strategy that changes how material is packaged across study episodes
@@ -339,3 +342,6 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 - [With incidental orienting tasks that eliminate structural encoding, distributed presentations produce better free recall than massed presentations](contextual-spacing-effect-survives-orienting-tasks.md) — a narrower finding that bears on this claim
 - [Recent research identifies time intervals during which spaced study should occur to maximize memory retention](optimal-spacing-intervals-maximize-retention.md) — a narrower finding that bears on this claim
 - [Performance on final tests of learning is improved when multiple study sessions are spaced apart in time rather than massed in immediate succession](spacing-improves-final-test-performance.md) — possibly the same claim (merge candidate)
+- [Preschool children do not exhibit a spacing effect in free recall, although they benefit from repetition](preschoolers-no-spacing-effect-free-recall.md) — a narrower finding that bears on this claim
+- [Recall of words repeated across lists spaced up to 1 week follows a proportionality rule: recall is better after short spacing at short retention intervals but better after long spacing at long retention intervals](proportionality-rule-long-spacing-weeks.md) — a narrower finding that bears on this claim
+- [A rehearsal-based deficient-processing account cannot explain the developmental emergence of the spacing effect](rehearsal-account-inconsistent-with-developmental-spacing-pattern.md) — a narrower finding that bears on this claim

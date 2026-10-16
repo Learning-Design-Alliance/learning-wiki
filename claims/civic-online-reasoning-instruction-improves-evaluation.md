@@ -120,6 +120,9 @@ Sixty-eight 11th-grade students took eight lessons on strategies for evaluating 
 - **Poor fit for primary sources.** For a single historical document, dataset, or firsthand account with no third-party coverage, lateral moves yield little and may distract from close reading of the source itself.
 - **Time and access constraints.** The strategy assumes open web access and time for multiple searches; in locked-down or offline assessment environments it cannot be practiced at all.
 
+## Learner Variables
+- [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Checklist evaluation is ineffective online.](checklist-evaluation-ineffective-online.md) — the common checklist approach (evaluating features on the page) fails for web content, motivating lateral-reading instruction instead.
