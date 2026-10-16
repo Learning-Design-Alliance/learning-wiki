@@ -16,7 +16,7 @@ sources:
 # OpenAlex-seeded bibliometric corpus of workshop organizer publications
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 6 studies (6 associational), `q2` · 0 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size
 
 ## Description
 The study's dataset is built from publication records of 22 workshop organizers retrieved from the OpenAlex database, yielding a coauthorship corpus of "2,197 authors and over 4,000 publications." A topic-filtered subset of 724 papers supported bibliographic coupling, and semantic expansion via SPECTER embeddings and snowball sampling produced "a much larger corpus of over 1,200 publications" for identifying related work outside the workshop's social network.
@@ -42,9 +42,6 @@ The study's dataset is built from publication records of 22 workshop organizers 
 ## Claims
 
 - [Coauthorship analysis of workshop organizers yields a 2,197-author network with six communities, 80% of nodes in the largest three, spanning diverse research lineages](../claims/coauthorship-network-six-communities.md) [+M]
-- [The DLP-as-research-infrastructure community is small and fragmented: the DLP-focused cluster was one of five bibliographic-coupling communities and only 20.6% of filtered papers](../claims/dlp-subfield-small-and-fragmented.md) [+W]
-- [Platform-enabled experimentation research draws on multiple intellectual lineages, including intelligent tutoring systems, formative feedback, and exemplar platforms like ASSISTments](../claims/multiple-intellectual-lineages-shared-foundations.md) [+M]
-- [Removing the workshop's coauthorship edges increased average path length and network diameter, indicating the workshop publications bridge otherwise separate researcher groups](../claims/workshop-papers-bridge-researcher-groups.md) [+W]
 
 ## Related Elements
 - 

@@ -44,4 +44,4 @@ Descriptive statement of the pilot initiative's partners, timeframe, and scale a
 
 ## Related Claims
 - [The CBSL pilot aimed to strengthen grantee capacity through scoping, provider matching, cohort learning, and thought partnership](cbsl-pilot-capacity-building-approach.md) — related
-- [The DDDM framework was developed from Mathematica's initiative evaluations and existing literature](dddm-framework-dual-evidence-base.md) — related
+- The DDDM framework was developed from Mathematica's initiative evaluations and existing literature — related

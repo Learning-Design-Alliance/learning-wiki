@@ -53,4 +53,4 @@ Theoretical argument in a position paper. The author endorses Lightbown's formul
 - [Extramural English gaming relates to better L2 proficiency, but effects vary by activity type and strategy](extramural-gaming-vocabulary-effects-mixed.md) — related
 - [Digital game-based learning supports long-term retention of second-language vocabulary](dgbl-long-term-vocabulary-retention.md) — related
 - Comprehensible input in natural language contexts is presented as essential to second language acquisition — related
-- [Frequency should be reinstated as a bridging variable binding the different schools of language acquisition research](frequency-as-bridging-variable-language-acquisition-research.md) — related
+- Frequency should be reinstated as a bridging variable binding the different schools of language acquisition research — related

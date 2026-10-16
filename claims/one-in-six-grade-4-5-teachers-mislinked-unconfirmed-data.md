@@ -46,4 +46,4 @@ The paper's comparison of roster-confirmed versus unconfirmed teacher/student li
 - [Instruction in upper elementary grades is often departmentalized: about one in six elementary school teachers in the original administrative data was linked to a subject he or she did not teach](one-in-six-elementary-teachers-linked-to-untaught-subject.md) — possibly the same claim (merge candidate)
 - Researchers presume grades 4-5 administrative data are better for value-added teacher effectiveness research because of self-contained classrooms and classroom homogeneity — related
 - [The effects of departmentalized instruction on student achievement and teacher retention remain unclear](departmentalization-effects-achievement-retention-unclear.md) — related
-- [Using unconfirmed teacher/student links in value-added models affects research differently depending on the circumstances of the data](unconfirmed-links-affect-value-added-research-conditionally.md) — a broader claim this one bears on
+- Using unconfirmed teacher/student links in value-added models affects research differently depending on the circumstances of the data — a broader claim this one bears on

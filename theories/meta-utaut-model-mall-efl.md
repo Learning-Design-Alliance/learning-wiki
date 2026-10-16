@@ -16,7 +16,7 @@ sources:
 # Meta-UTAUT model of technology acceptance applied to MALL in EFL learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Meta-UTAUT, proposed by Dwivedi et al. (2019), is an evolution of UTAUT that the article applies to MALL adoption in EFL. It removes contextual moderators such as age and gender and reintroduces attitude: "This model eliminates contextual moderators and introduces "use attitude" as a mediator, a concept initially included in TAM (Davis et al., 1989) but absent in UTAUT." It also posits a direct relationship between facilitating conditions and usage behavior, with behavioral intention mediating between use attitude and actual usage behavior. The study tests six paths among SI, PE, EE, ATT, PBC, BI and UB in this framework.
@@ -39,7 +39,6 @@ Meta-UTAUT, proposed by Dwivedi et al. (2019), is an evolution of UTAUT that the
 
 - [Meta Utaut Hypotheses Accepted Mall Efl](../claims/meta-utaut-hypotheses-accepted-mall-efl.md) [+M]
 - [Bi Weak Effect Actual Mall Use](../claims/bi-weak-effect-actual-mall-use.md) [~M]
-- [The measurement model showed adequate reliability and convergent validity, and BI and UB models showed substantial explanatory power](../claims/measurement-model-reliability-mall-efl.md) [+W]
 - [Social influence has a small positive impact on MALL use in EFL acquisition among Vietnamese learners](../claims/social-influence-modest-attitude-mall.md) [+W]
 
 ## Related Theories

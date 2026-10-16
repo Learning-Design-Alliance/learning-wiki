@@ -17,7 +17,7 @@ sources:
 # Four comparison group approaches evaluated as alternatives to random assignment in the charter school evaluation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The study evaluates four distinct comparison group approaches, which serve as the nonexperimental methods under test. According to the abstract, the study "examines the validity of four different comparison group approaches to test whether these designs can replicate findings from a well-implemented random assignment study." The approaches function as the methodological artifacts whose estimates are compared against the experimental benchmark; the available text does not name or describe the four approaches individually.
@@ -38,7 +38,6 @@ The study evaluates four distinct comparison group approaches, which serve as th
 
 ## Claims
 
-- [Nonexperimental methods incorporating pre-treatment outcome measures can replicate experimental ITT impact estimates when control-group crossover occurs](../claims/nonexperimental-pre-treatment-methods-replicate-itt-under-crossover.md) [+W]
 
 ## Related Elements
 

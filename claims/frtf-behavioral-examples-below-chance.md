@@ -45,6 +45,6 @@ Row from Table 4 of the same educator sorting study (n = 97): the behavioral exa
 
 ## Related Claims
 - [54 of 59 FRTF behavioral examples were sorted better than chance and 48 by a majority of educator participants](frtf-behavioral-example-sorting-validated.md) — reports the opposite
-- [A literature synthesis of 46 talent frameworks and future-of-work reports yielded 29 unique talents reduced to the FRTF's 12 talents](frtf-synthesis-46-frameworks-12-talents.md) — related
+- A literature synthesis of 46 talent frameworks and future-of-work reports yielded 29 unique talents reduced to the FRTF's 12 talents — related
 - [Educators sorted 11 talents into the proposed FRTF clusters significantly above chance, from 94.8% (self-assessment) to 44.8% (critical thinking)](frtf-talent-cluster-sorting-validated.md) — related
 - [About 61% of observed in-class student behavior was actively seeking knowledge or asking questions](majority-student-activity-questioning.md) — related

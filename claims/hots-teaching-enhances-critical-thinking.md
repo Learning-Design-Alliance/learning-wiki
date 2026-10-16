@@ -47,6 +47,6 @@ Longitudinal case study with a pre-, post-, and post–post experimental design 
 ## Related Claims
 
 - [Direct CT instruction combined with modeling, coaching, and discussion yields more consistent CT improvement than implicit teaching strategies](direct-ct-instruction-outperforms-implicit-strategies.md) — the general claim this finding bears on, with the studies behind it
-- [The study used a three-group longitudinal design with an experimental science group and two traditionally taught controls](three-group-hots-case-study-design.md) — related
+- The study used a three-group longitudinal design with an experimental science group and two traditionally taught controls — related
 - [HOTS-oriented teaching improves disposition towards critical thinking subscales including truth-seeking, open-mindedness, self-confidence, and maturity](hots-teaching-improves-ct-dispositions.md) — a narrower finding that bears on this claim
 - [GCLA use enhances higher-order thinking skills—critical thinking, problem-solving, and creativity—compared with traditional ChatGPT use](gcla-improves-hots.md) — related

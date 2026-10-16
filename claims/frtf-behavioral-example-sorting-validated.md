@@ -45,5 +45,5 @@ Second sorting task of the online study (n = 97 educators), where participants m
 
 ## Related Claims
 - [Several FRTF behavioral examples were not sorted better than chance, including actively listening to others (18.2%) and exploring implications of proposed solutions (9.4%)](frtf-behavioral-examples-below-chance.md) — reports the opposite
-- [A literature synthesis of 46 talent frameworks and future-of-work reports yielded 29 unique talents reduced to the FRTF's 12 talents](frtf-synthesis-46-frameworks-12-talents.md) — related
+- A literature synthesis of 46 talent frameworks and future-of-work reports yielded 29 unique talents reduced to the FRTF's 12 talents — related
 - [Educators sorted 11 talents into the proposed FRTF clusters significantly above chance, from 94.8% (self-assessment) to 44.8% (critical thinking)](frtf-talent-cluster-sorting-validated.md) — related

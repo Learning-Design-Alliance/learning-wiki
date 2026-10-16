@@ -62,8 +62,8 @@ Same observational study, full-output analysis: the review reports "about 85% of
 
 
 ## Related Claims
-- [The recommendation to avoid outcome-related search terms to preserve sensitivity is not substantiated by available evidence](outcome-terms-lower-sensitivity-unsubstantiated.md) — related
-- [Only three studies assessing PICO as a search strategy tool were eligible for review, and heterogeneity prevented quantitative analysis](pico-search-review-three-studies-only.md) — related
+- The recommendation to avoid outcome-related search terms to preserve sensitivity is not substantiated by available evidence — related
+- Only three studies assessing PICO as a search strategy tool were eligible for review, and heterogeneity prevented quantitative analysis — related
 - [PICO versus PICOS and SPIDER: PICO gave higher sensitivity and lower precision, but with different numbers of search blocks per model](pico-vs-picos-spider-blocks-confound.md) — related
 - [The number of search blocks impacts search quality: fewer blocks yield higher sensitivity and lower precision](search-block-count-impacts-sensitivity-precision.md) — related
 - [In a randomized crossover trial, PICO searching yielded higher average sensitivity and lower average precision than unguided searching, not statistically significant](pico-vs-unguided-sensitivity-precision.md) — related

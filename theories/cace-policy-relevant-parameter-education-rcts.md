@@ -16,7 +16,7 @@ sources:
 # CACE as a policy-relevant parameter for intervention effects on students receiving a meaningful dose of treatment
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size
+> **Evidence** · no claims cited
 
 ## Description
 The article frames the complier average causal effect (CACE) parameter as the estimand in education RCTs that pertains to students who actually receive a meaningful dose of treatment services. It is presented as "often of policy interest" because it targets intervention effects for the treated complier subgroup rather than all assigned students. The article develops this parameter within a causal inference and instrumental variables framework for two-level clustered designs.
@@ -37,7 +37,6 @@ The article frames the complier average causal effect (CACE) parameter as the es
 
 ### Claims
 
-- [CACE estimators based on correct variance formulas and commonly used simplified formulas yield very similar significance findings across 10 education RCTs](../claims/cace-variance-formulas-similar-significance-findings.md) [+W]
 
 ## Related Theories
 

@@ -43,6 +43,6 @@ Synthetic within-study comparison generating RD datasets from two experimental e
 
 
 ## Related Claims
-- [Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial](rd-replication-matches-experimental-estimates-two-interventions.md) — a narrower finding that bears on this claim
-- [Regression discontinuity estimates show high internal validity, with average bias below 0.01 standard deviations relative to RCT estimates at the same cutoff](rd-average-bias-below-0-01-sd-high-internal-validity.md) — a narrower finding that bears on this claim
-- [Shrunken study-specific RD bias estimates stay below 0.07 standard deviations, indicating good external validity](rd-shrunken-bias-below-0-07-sd-external-validity.md) — a narrower finding that bears on this claim
+- Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial — a narrower finding that bears on this claim
+- Regression discontinuity estimates show high internal validity, with average bias below 0.01 standard deviations relative to RCT estimates at the same cutoff — a narrower finding that bears on this claim
+- Shrunken study-specific RD bias estimates stay below 0.07 standard deviations, indicating good external validity — a narrower finding that bears on this claim

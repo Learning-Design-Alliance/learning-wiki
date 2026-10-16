@@ -17,7 +17,7 @@ sources:
 # Direct future VR/AR-supported K-12 STEM research and development toward underexplored subjects, immersive devices, senior high schools and 21st-century skills
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review derives future research agendas from its findings: developing VR/AR materials for underexplored K-12 technology and engineering learning, researching immersive devices whose environments students perceive with "a much higher degree of realism and stronger involvement", extending research to senior high schools where abstract concepts and experiments dominate, and studying impacts on higher-order thinking and cooperative abilities, which only 9% and 2% of gathered studies respectively addressed.
@@ -39,7 +39,6 @@ The review derives future research agendas from its findings: developing VR/AR m
 ## Claims
 
 - [Non-immersive devices, especially smartphone/tablet-based AR, dominated VR/AR-supported K-12 STEM studies; immersive AR was rarely used](../claims/smartphone-tablet-ar-dominates-k12-stem-devices.md) [+W]
-- [VR/AR-supported K-12 STEM research is unevenly distributed across subjects: science dominates, engineering has no studies](../claims/vr-ar-uneven-subject-distribution-science-dominant.md) [+W]
 
 ## Related Strategies
 - 

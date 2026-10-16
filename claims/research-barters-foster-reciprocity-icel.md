@@ -50,4 +50,4 @@ Autoethnographic reflection on funding and resources. The authors "observed that
 - A lack of funding privileges more resourceful partners, and CHARM-EU declined stakeholder funding requests to avoid favoring some student teams over others — related
 - Staff time for the Capstone was limited and unequally divided across CHARM-EU partners, with University of Pretoria staff receiving no hours or funding — related
 - Students felt uncomfortable with short-term European fieldwork in South Africa with limited interaction with local researchers and communities — related
-- [When engagement with partners is relatively limited, researchers should be especially thoughtful about how findings translate to action-oriented recommendations](limited-engagement-requires-careful-action-oriented-recommendations.md) — related
+- When engagement with partners is relatively limited, researchers should be especially thoughtful about how findings translate to action-oriented recommendations — related

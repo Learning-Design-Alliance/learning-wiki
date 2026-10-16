@@ -95,6 +95,6 @@ The evaluation's key findings state that "the Kauffman School had substantial po
 - [The Kauffman School produced substantial positive impacts on achievement growth in mathematics, English language arts, and science each year through 2021-22, except during the 2020-21 pandemic year](kauffman-school-achievement-growth-impacts-math-ela-science.md) — related
 - [Attendance at Gehring STEM Academy had statistically significant positive impacts on mathematics and reading achievement in grades 1-5 after up to 1.5 years, with no significant science impacts](gehring-magnet-qed-math-reading-impacts.md) — related
 - Horace Mann Elementary showed steady growth in English language arts MAP scores from 2009 to 2014 and reached provisional accreditation in 2013 — related
-- [The Kauffman School evaluation used a matched comparison group design to estimate impacts on achievement, attendance, and suspensions](kauffman-school-matched-comparison-group-design.md) — related
+- The Kauffman School evaluation used a matched comparison group design to estimate impacts on achievement, attendance, and suspensions — related
 - [TEP's achievement impacts were consistently positive across subjects and cohorts through 2012-2013, with especially large effects in math](tep-impacts-consistently-positive-math-largest.md) — related
 - [The first-year APS Turnaround Strategy evaluation reports implementation and impact findings focused on High Impact Tutoring and PBS operation of Thomasville Heights Elementary](aps-turnaround-first-year-report-scope.md) — related

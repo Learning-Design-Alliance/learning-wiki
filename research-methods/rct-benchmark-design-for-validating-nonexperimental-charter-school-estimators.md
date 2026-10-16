@@ -17,7 +17,7 @@ sources:
 # RCT-benchmark design for validating nonexperimental charter-school estimators
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 3 studies (3 causal), `q2`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The study's design uses student-level data drawn from a large-scale randomized controlled trial of charter schools as a benchmark against which nonexperimental regression and propensity score estimators are tested for bias. The key outcome measures are standardized achievement tests. The article states it addresses prior studies' limitations by "using student-level data based on a large-scale RCT of charter schools for which standardized achievement tests are the key outcome measure."
@@ -27,10 +27,6 @@ The study's design uses student-level data drawn from a large-scale randomized c
 - **RCT-benchmark design using student-level charter school data with standardized achievement test outcomes**: The study's design uses student-level data drawn from a large-scale randomized controlled trial of charter schools as a benchmark against which nonexperimental regression and propensity score estimators are tested for bias. The key outcome measures are standardized achievement tests. The article states it addresses prior studies' limitations by "using student-level data based on a large-scale RCT of charter schools for which standardized achievement tests are the key outcome measure." (Kenneth Fortson et al. (2015))
 
 ### Claims
-- [Using baseline data strongly predictive of outcome measures considerably reduces bias in nonexperimental estimates of charter school achievement effects](../claims/predictive-baseline-data-reduce-nonexperimental-bias.md) [+M]
-- [Some bias may remain in nonexperimental estimates even when rich pre-intervention data are used](../claims/residual-bias-nonexperimental-estimators.md) [~M]
-- [Prior studies finding nonexperimental estimators biased examined weaker evaluation designs than RCT-benchmark studies](../claims/prior-bias-studies-used-weaker-designs.md) [~M]
-- [Nonexperimental methods incorporating pre-treatment outcome measures can replicate experimental ITT impact estimates when control-group crossover occurs](../claims/nonexperimental-pre-treatment-methods-replicate-itt-under-crossover.md) [~M]
 
 ## Related Research Methods
 -
@@ -64,10 +60,6 @@ The study's design uses student-level data drawn from a large-scale randomized c
 
 ## Claims
 
-- [Using baseline data strongly predictive of outcome measures considerably reduces bias in nonexperimental estimates of charter school achievement effects](../claims/predictive-baseline-data-reduce-nonexperimental-bias.md) [+M]
-- [Some bias may remain in nonexperimental estimates even when rich pre-intervention data are used](../claims/residual-bias-nonexperimental-estimators.md) [~M]
-- [Prior studies finding nonexperimental estimators biased examined weaker evaluation designs than RCT-benchmark studies](../claims/prior-bias-studies-used-weaker-designs.md) [~M]
-- [Nonexperimental methods incorporating pre-treatment outcome measures can replicate experimental ITT impact estimates when control-group crossover occurs](../claims/nonexperimental-pre-treatment-methods-replicate-itt-under-crossover.md) [~M]
 
 ## Related Elements
 - 

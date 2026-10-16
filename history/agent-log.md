@@ -41,6 +41,15 @@ at the top, under this paragraph.
 - **Maintainer decisions**: the Navigator's Core Academic Literacies is general achievement across subjects and sits
   on `prior-knowledge`, not `academic-and-critical-literacy`; an astronaut sleep-deprivation study is unlinked from
   `sleep` and `physical-wellbeing` as too remote from learning.
+- **zotero-1** (the maintainer's Zotero library, read through its API): 118 of 131 synced PDFs the wiki did not
+  cite were ingested (13 failed validation), about 430 claims and 42 strategies. Two PDFs filed as chapters were whole
+  edited books (Gaskins 2007 in Meltzer's *Executive Function in Education*; Gee 2025 in Sireci et al.'s assessment
+  handbook); the extraction drew on the opening chapters and credited the editors, so their 7 pages were removed. A
+  chapter queued from a book-length PDF is the gap the title and author checks do not close.
+- **Research-practice claims removed** (maintainer: "we don't need research methods studies that don't directly
+  impact design decisions"): `sort_claims.py --all` sorted every claim with two models; the 401 both filed as
+  research practice (trial design, Bayesian analysis, sample-size formulas, bibliometric counts, reliability
+  statistics) were removed with every link to them (2,700 links on about 1,000 pages). 2,100 disputed sorts stay.
 
 ## 2026-10-16 — citation chase, no drafts, duplicate folds, twelve learner variables, study tables for 249 pages
 

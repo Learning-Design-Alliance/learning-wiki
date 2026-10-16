@@ -47,4 +47,4 @@ Authors' interpretation of the reflection data (Dataset 2): the activity's desig
 
 ## Related Claims
 - [Most students reported improved output-evaluation competence after comparing their own text analysis with LLM-generated analyses](output-evaluation-competence-gains.md) — related
-- [AI methodologies may redistribute epistemic agency, moving researchers from primary analyst to interpreter and validator of AI-generated outputs](ai-redistributes-researcher-epistemic-agency.md) — related
+- AI methodologies may redistribute epistemic agency, moving researchers from primary analyst to interpreter and validator of AI-generated outputs — related

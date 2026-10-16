@@ -44,6 +44,6 @@ Analytical derivation using a standard measurement error model (Fuller 1987) for
 
 ## Related Claims
 - [Mediator-outcome association analyses can identify teacher practice mediators most associated with student learning](mediator-analyses-identify-key-teacher-practices.md) — related
-- [In clustered school-based RCTs, OLS mediator analyses yield precise teacher practice-achievement estimates only with about 150 to 200 study schools](ols-mediator-power-requires-150-200-schools.md) — related
-- [The IV approach to mediator analysis in clustered education RCTs has very little statistical power](iv-mediator-analysis-low-power.md) — related
-- [Estimating associations between student and teacher practice outcomes can examine the extent to which RCT data support a study's conceptual model](mediator-outcome-associations-test-conceptual-model.md) — a broader claim this one bears on
+- In clustered school-based RCTs, OLS mediator analyses yield precise teacher practice-achievement estimates only with about 150 to 200 study schools — related
+- The IV approach to mediator analysis in clustered education RCTs has very little statistical power — related
+- Estimating associations between student and teacher practice outcomes can examine the extent to which RCT data support a study's conceptual model — a broader claim this one bears on

@@ -17,7 +17,7 @@ sources:
 # Develop a reliable coding scheme as a distinct stage of an SLA meta-analysis
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 As the second of the review's four stages, meta-analysts in SLA should develop a reliable coding scheme for study features and outcomes before analyzing data. The article names "developing a reliable coding scheme" as one of the "typical stages of a meta-analysis in second language acquisition (SLA) research," positioned between defining the research domain and analyzing data, and treats it as a locus of consequential decisions.
@@ -41,7 +41,6 @@ As the second of the review's four stages, meta-analysts in SLA should develop a
 
 ## Claims
 
-- [Decisions made at each stage of a meta-analysis influence its conduct, results, and substantive implications](../claims/meta-analysis-stage-decisions-shape-results.md) [+W]
 
 ## Related Strategies
 - 

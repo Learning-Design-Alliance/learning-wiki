@@ -64,6 +64,6 @@ Within-group pre-post comparison on the 20-point RCT for the same 49 experimenta
 ## Related Claims
 - [Within the explicit morphology instruction group, the pre-to-post gain ratio was above Blake's 1.2 minimum for morphological awareness (1.28) and below it for reading comprehension (1.06)](emi-effect-size-larger-for-awareness-than-comprehension.md) — related
 - [Explicit morphology instruction raises EFL secondary students' morphological awareness more than regular EFL instruction alone](emi-raises-efl-morphological-awareness.md) — related
-- [Experimental and control groups were statistically equivalent on pre-test reading comprehension and morphological awareness](emi-groups-equivalent-at-pretest.md) — related
+- Experimental and control groups were statistically equivalent on pre-test reading comprehension and morphological awareness — related
 - [Explicit instruction of four reading comprehension strategies with short stories yields higher reading comprehension post-test scores than regular syllabus instruction in EFL preparatory students](explicit-strategy-instruction-short-stories-improve-efl-reading-comprehension.md) — related
 - Experimental and control groups showed no significant pre-test difference in reading comprehension before treatment — related

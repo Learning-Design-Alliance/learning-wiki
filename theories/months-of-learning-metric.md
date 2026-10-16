@@ -16,7 +16,7 @@ sources:
 # Months of learning as a metric for communicating achievement gaps
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Months of learning is a translation of test scores into an intuitive time-based unit, used to communicate how many months or years of schooling students appear to be behind. The brief treats it as a metric whose "perceived accessibility" makes it attractive for public communication, while cautioning that "there are major downsides to this translation". The brief explains how the metric is calculated and examines its trade-offs.
@@ -36,7 +36,6 @@ Months of learning is a translation of test scores into an intuitive time-based 
 - Communicating student achievement and learning loss in accessible units
 
 ### Claims
-- [Test Scores Translated To Months Of Learning](../claims/test-scores-translated-to-months-of-learning.md) [+W]
 - [Months Of Learning Translation Major Downsides](../claims/months-of-learning-translation-major-downsides.md) [+W]
 
 ## Related Theories

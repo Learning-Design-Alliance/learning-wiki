@@ -17,7 +17,7 @@ sources:
 # Mathematica issue brief on charter high schools' attainment and earnings effects
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (8 for) · 4 studies (3 causal, 1 associational), `q2`–`q3` · 0 of 4 report an effect size · 8 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 4 studies (3 causal, 1 associational), `q2`–`q3` · 0 of 4 report an effect size · 7 claims rest on one study
 
 ## Description
 A published issue brief from Mathematica Policy Research, dated Jan 30, 2014, authored by Kevin Booker, Brian Gill, Tim Sass, and Ron Zimmer. It "discusses a new analysis, using data from Florida and Chicago" of charter high schools' effects on "educational attainment and earnings." The brief presents key findings on attainment in both sites and on adult earnings in Chicago.
@@ -44,7 +44,6 @@ A published issue brief from Mathematica Policy Research, dated Jan 30, 2014, au
 - [Chicago charter high schools have large positive effects on earnings in adulthood](../claims/chicago-charter-high-schools-large-earnings-effects.md) [+W]
 - [Charter high schools are associated with increased postsecondary educational attainment and may boost students' long-run earnings, based on data from Florida and Chicago](../claims/charter-high-schools-attainment-earnings-florida-chicago.md) [+W]
 - [Evaluations of charter schools limited to test scores may fail to capture important benefits](../claims/test-score-only-evaluations-miss-charter-benefits.md) [+W]
-- [Charter school research has historically focused on test scores, with longer-term outcomes only recently examined](../claims/charter-research-shift-from-test-scores-to-long-term-outcomes.md) [+W]
 - [Charter high school attendees experience higher earnings in their mid-20s](../claims/charter-high-schools-higher-mid-twenties-earnings.md) [+W]
 - [Students attending charter high schools are more likely to persist in college](../claims/charter-high-schools-more-likely-persist-college.md) [+W]
 

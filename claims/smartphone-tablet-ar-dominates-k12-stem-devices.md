@@ -44,8 +44,8 @@ Device categorization of the reviewed studies (Fig. 5). The review reports 96 no
 
 ## Related Claims
 - [Immersive technologies are rarely adopted in robotics GBL/gamification but studies using them report heightened engagement, improved spatial reasoning, and enhanced perceived realism](immersive-tech-underused-positive-outcomes-robotics.md) — related
-- [VR/AR-supported K-12 STEM research is unevenly distributed across subjects: science dominates, engineering has no studies](vr-ar-uneven-subject-distribution-science-dominant.md) — related
-- [Most VR/AR-supported K-12 STEM studies targeted elementary students and used quantitative methods, with most samples under 100 participants](elementary-focus-quantitative-methods-small-samples.md) — related
+- VR/AR-supported K-12 STEM research is unevenly distributed across subjects: science dominates, engineering has no studies — related
+- Most VR/AR-supported K-12 STEM studies targeted elementary students and used quantitative methods, with most samples under 100 participants — related
 - [VR/AR implementation challenges fall on three fronts: learner distraction and discomfort, teacher classroom-management and design burdens, and school cost and infrastructure limits](vr-ar-challenges-learners-teachers-schools.md) — related
 - [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) — related
-- [Publications on VR/AR-supported K-12 STEM learning grew rapidly after 2017, with 2022 output four times the 2010 level](vr-ar-k12-stem-publication-growth-2017-2022.md) — related
+- Publications on VR/AR-supported K-12 STEM learning grew rapidly after 2017, with 2022 output four times the 2010 level — related

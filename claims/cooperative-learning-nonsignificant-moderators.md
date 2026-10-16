@@ -58,7 +58,7 @@ Moderator analyses in Table 2 for these five variables showed non-significant Q-
 - [Cooperative learning models have a moderate average effect on student learning outcomes across 23 first-order meta-analyses](cooperative-learning-moderate-overall-effect-second-order.md) — related
 - Seven moderators did not significantly affect CALL feedback: intervention length, modeling, status, language proficiency, measures of proficiency, publication type, and research setting — related
 - [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — related
-- [A program is said to have an effect when the difference between program and non-program groups is statistically significant](effect-defined-as-statistically-significant-group-difference.md) — related
+- A program is said to have an effect when the difference between program and non-program groups is statistically significant — related
 - [Several candidate moderators show no reliable effects: retention interval, test type, presentation mode, and publication status](interleaving-null-moderators-retention-test-presentation.md) — related
 - [Type of achievement measure moderates the correlation only when laboratory measures are excluded; course-exam correlation drops to r = .04](achievement-measure-moderator-lab-exclusion.md) — related
-- [Meta-analysis offers additional strengths of increased statistical power, moderator analyses, and model testing](meta-analysis-strengths-power-moderators-model-testing.md) — a broader claim this one bears on
+- Meta-analysis offers additional strengths of increased statistical power, moderator analyses, and model testing — a broader claim this one bears on

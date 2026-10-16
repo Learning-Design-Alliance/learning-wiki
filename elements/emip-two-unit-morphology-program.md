@@ -17,7 +17,7 @@ sources:
 # Two-unit explicit morphology instruction program (EMIP) with outcome-based teaching for EFL secondary students
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The EMIP is a short enrichment program organized thematically along two units: unit one covers basic morphological knowledge and unit two targets the two morphological skills, inflectional and derivational. Content was supported by YouTube videos and student participation, and taught with explicit instruction plus an outcome-based approach in which "the contents, delivery, activities, and assessments are all aligned" to intended learning outcomes. It was kept short because it was delivered as an extra load within the daily school schedule. A panel of three EFL professors, five supervisors and fifteen teachers refined it and judged it feasible.
@@ -43,7 +43,6 @@ The EMIP is a short enrichment program organized thematically along two units: u
 ## Claims
 
 - [Within the explicit morphology instruction group, the pre-to-post gain ratio was above Blake's 1.2 minimum for morphological awareness (1.28) and below it for reading comprehension (1.06)](../claims/emi-effect-size-larger-for-awareness-than-comprehension.md) [+W]
-- [Experimental and control groups were statistically equivalent on pre-test reading comprehension and morphological awareness](../claims/emi-groups-equivalent-at-pretest.md) [+W]
 - [Explicit morphology instruction raises EFL secondary students' morphological awareness more than regular EFL instruction alone](../claims/emi-raises-efl-morphological-awareness.md) [+W]
 - [Explicit morphology instruction raises EFL secondary students' reading comprehension more than regular EFL instruction alone](../claims/emi-raises-efl-reading-comprehension.md) [+W]
 

@@ -16,7 +16,7 @@ sources:
 # Four most common AI technology types in cyberlearning: intelligent tutoring systems, machine learning, speech/vision/natural interaction, and social robotics and avatars
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report's AI theme defines the portfolio's most common technologies: 'Intelligent Tutoring Systems, in which a computational agent supports and guides students as they work to learn challenging subject matter'; machine learning applying statistical techniques to learner data; speech, vision, and natural interaction analyzing learner speech, visual scenes, and eye-gaze; and social robotics and avatars providing 'an artificial learning partner to a student or group of students'.
@@ -38,7 +38,6 @@ The report's AI theme defines the portfolio's most common technologies: 'Intelli
 ### Claims
 
 - [Respondents anticipated using LLMs most often (23%), followed by NLP (17%), predictive AI (14%), chatbots (13%), and ASR (10%)](../claims/rfi-technology-types-llm-most-common.md) [+W]
-- [The most frequent research tags in the NSF EXP portfolio were AI, machine learning, modeling and simulation, formative assessment, and augmented/virtual/mixed reality](../claims/nsf-exp-top-tags-ai-machine-learning.md) [+W]
 
 ## Related Theories
 

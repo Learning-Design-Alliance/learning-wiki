@@ -41,5 +41,5 @@ Descriptive analysis of Google Trends data, reported in the discussion and Figur
 
 
 ## Related Claims
-- [Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024](aied-topic-peaked-2023-declined-2024.md) — related
+- Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024 — related
 - [ChatGPT search activity is higher while local K-12 schools are in session, tracking local school calendars](chatgpt-activity-tracks-local-school-calendars.md) — related

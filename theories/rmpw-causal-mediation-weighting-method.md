@@ -16,7 +16,7 @@ sources:
 # Ratio-of-mediator-probability weighting (RMPW) for causal mediation analysis under treatment-by-mediator interaction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 RMPW is a weighting-based approach to causal mediation analysis that decomposes a total effect into natural direct and indirect effects even when the mediator–outcome relationship depends on the treatment condition. The article gives "an intuitive explanation of the RMPW rationale, a mathematical proof, and simulation results for the parametric and nonparametric RMPW procedures." Unlike model-based alternatives, it relies on propensity score models for the mediator rather than a fully specified outcome model.
@@ -37,11 +37,8 @@ RMPW is a weighting-based approach to causal mediation analysis that decomposes 
 
 ### Claims
 
-- [Conventional mediation methods generate biased results when the mediator–outcome relationship depends on treatment condition](../claims/conventional-mediation-biased-under-treatment-mediator-interaction.md) [+W]
-- [Correct specification of the mediator propensity score models is crucial when parametric RMPW is applied](../claims/parametric-rmpw-depends-on-propensity-score-specification.md) [+W]
 - [RMPW was applied to test whether employment mediated the effect of an experimental welfare-to-work program on maternal depression](../claims/rmpw-application-welfare-to-work-maternal-depression.md) [+W]
 - [RMPW decomposes total effects into natural direct and indirect effects, with the indirect effect further split into a pure indirect effect and a natural treatment-by-mediator interaction effect](../claims/rmpw-decomposes-total-indirect-interaction-effects.md) [+W]
-- [RMPW requires relatively few assumptions about outcome and mediator distributions and outcome-model functional form compared with model-based alternatives](../claims/rmpw-fewer-distributional-assumptions-than-sem-path-analysis.md) [+W]
 
 ## Related Theories
 - 

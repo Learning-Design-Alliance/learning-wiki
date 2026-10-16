@@ -12,7 +12,7 @@ generated:
 # Small cluster-randomized trial design and analysis
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article offers best practices for designing and analyzing cluster randomized controlled trials with ten or fewer clusters, contexts where it says meaningful effects may still be detectable. Its stated objective is "to offer recommendations for best practices in design and analysis for small CRCTs," grounded in simulations of alternative approaches. The practices cover analytic choice, blocking, power estimation, and cluster-count planning.
@@ -22,10 +22,6 @@ The article offers best practices for designing and analyzing cluster randomized
 - **Design small cluster randomized trials deliberately: use blocked randomization, Type I error-safe analysis, and corrected power calculations**: The article offers best practices for designing and analyzing cluster randomized controlled trials with ten or fewer clusters, contexts where it says meaningful effects may still be detectable. Its stated objective is "to offer recommendations for best practices in design and analysis for small CRCTs," grounded in simulations of alternative approaches. The practices cover analytic choice, blocking, power estimation, and cluster-count planning. (John Deke (2016))
 
 ### Claims
-- [Mixed effects modeling and OLS on cluster-aggregated data both control the Type I error rate in small cluster randomized trials](../claims/mixed-effects-and-cluster-aggregated-ols-control-type-i-error-small-crcts.md) [+M]
-- [Blocked randomization is always recommended in small CRCTs, but covariate adjustment for blocking depends on a precision-versus-degrees-of-freedom tradeoff](../claims/blocked-randomization-always-covariate-adjustment-tradeoff-small-crcts.md) [+M]
-- [Power calculations for small CRCTs can be accurate when design effects from small-sample spurious correlations are taken into account](../claims/power-calculations-accurate-spurious-correlation-design-effects-small-crcts.md) [+M]
-- [Detecting small effects is very difficult with four clusters, but with six or more clusters small effects can be detected with high probability under realistic circumstances](../claims/six-or-more-clusters-enable-small-effect-detection-small-crcts.md) [+M]
 
 ## Related Research Methods
 -

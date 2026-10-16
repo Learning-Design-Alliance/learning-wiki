@@ -17,7 +17,7 @@ sources:
 # Validate new strategy-use assessment methods against three validity criteria: internal consistency, construct validity, and external validity
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article prescribes that introduction of any new assessment method for strategy use be accompanied by validation on three criteria: "internal consistency or reliability of a measure, construct validity, and external or predictive validity." Convergent validity should be established in a multi-method design against other assessments of the same construct, and a strategy-use instrument should adequately predict reading comprehension, as most theories claim better strategy use leads to better comprehension.
@@ -41,7 +41,6 @@ The article prescribes that introduction of any new assessment method for strate
 - [Cromley and Azevedo's prompted strategy-use measure correlated .23–.74 with other measures and accounted for about 30% of comprehension variance on average](../claims/cromley-azevedo-strategy-mc-correlations-variance.md) [+W]
 - [External validity of the special-issue strategy measures was mixed: low-to-moderate comprehension correlations for Bräten and Strømsø and Magliano et al., indeterminate for Schellings and Winne and Muis](../claims/external-validity-mixed-across-new-strategy-instruments.md) [~W]
 - [Schellings' questionnaire-thinking-aloud convergent correlation of .51 rests on a small sample and is questionable against other studies](../claims/schellings-convergent-validity-n16-correlation-51.md) [~W]
-- [Within-method convergence (RSAT coding vs human coding; G vs d') indicates stability, not construct validity](../claims/within-method-convergence-stability-not-construct-validity.md) [+W]
 
 ## Related Strategies
 - 

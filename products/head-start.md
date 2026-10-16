@@ -18,7 +18,7 @@ sources:
 # Head Start
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (2 for, 2 mixed, 2 against) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (2 for, 1 mixed, 2 against) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Head Start is a federally funded U.S. programme providing education, health, nutrition, family-engagement, and related services to promote school readiness for children from birth to age five, administered through local grantees.
@@ -28,7 +28,6 @@ Head Start is a federally funded U.S. programme providing education, health, nut
 
 ### Claims
 - [The evidence base for Head Start's school-readiness effects is small: only one of 40 eligible studies met WWC group design standards](../claims/head-start-evidence-base-single-rct.md) [~W]
-- [Substantial crossover occurred in the Head Start impact study comparison group, with 17.3% of the 3-year-old and 13.9% of the 4-year-old comparison groups enrolling in non-study Head Start programs](../claims/head-start-impact-study-comparison-crossover.md) [~M]
 - [Head Start shows no discernible effects on mathematics achievement for 4-year-old children](../claims/head-start-no-discernible-mathematics-effects.md) [-M]
 - [Head Start shows no discernible effects on social-emotional development for 3- and 4-year-old children](../claims/head-start-no-discernible-social-emotional-effects.md) [-M]
 - [Head Start has potentially positive effects on general reading achievement for 3- and 4-year-old children, based on parent-rated emergent literacy](../claims/head-start-potentially-positive-reading-achievement.md) [+M]
@@ -72,7 +71,6 @@ Head Start is a national, federally funded program providing services to promote
 ## Claims
 
 - [The evidence base for Head Start's school-readiness effects is small: only one of 40 eligible studies met WWC group design standards](../claims/head-start-evidence-base-single-rct.md) [~W]
-- [Substantial crossover occurred in the Head Start impact study comparison group, with 17.3% of the 3-year-old and 13.9% of the 4-year-old comparison groups enrolling in non-study Head Start programs](../claims/head-start-impact-study-comparison-crossover.md) [~M]
 - [Head Start shows no discernible effects on mathematics achievement for 4-year-old children](../claims/head-start-no-discernible-mathematics-effects.md) [-M]
 - [Head Start shows no discernible effects on social-emotional development for 3- and 4-year-old children](../claims/head-start-no-discernible-social-emotional-effects.md) [-M]
 - [Head Start has potentially positive effects on general reading achievement for 3- and 4-year-old children, based on parent-rated emergent literacy](../claims/head-start-potentially-positive-reading-achievement.md) [+M]

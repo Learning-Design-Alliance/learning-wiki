@@ -17,7 +17,7 @@ sources:
 # College algebra placement test with dual enrollment eligibility cut-off
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A college algebra placement test served as the gatekeeper instrument in the studied Florida dual enrollment system: high school seniors took the test, and a printed cut-off score defined eligibility for the rigorous dual enrollment college algebra class. The study compared students who passed "with a score very near the cut-off for eligibility," making the test's threshold central to both participation and the research design.
@@ -41,7 +41,6 @@ A college algebra placement test served as the gatekeeper instrument in the stud
 
 - [Passing the college algebra placement test near the cut-off and enrolling in dual enrollment college algebra was associated with a 16 percent higher likelihood of going to college](../claims/dual-enrollment-college-algebra-16-percent-college-enrollment.md) [+W]
 - [Dual enrollment college algebra near the cut-off was associated with a 23 percent higher likelihood of earning a college degree](../claims/dual-enrollment-college-algebra-23-percent-degree-attainment.md) [+W]
-- [The study identified comparison students using scores very near the college algebra placement test cut-off for dual enrollment eligibility](../claims/dual-enrollment-placement-cutoff-comparison-design.md) [+W]
 
 ## Related Elements
 - 

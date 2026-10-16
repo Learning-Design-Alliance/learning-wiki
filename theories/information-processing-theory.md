@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 18 claims (12 for, 6 mixed) · 15 studies (7 causal, 3 quant-synthesis, 2 review, 2 associational, 1 design), `q1`–`q4` · 4 of 15 report an effect size · 16 claims rest on one study
+> **Evidence** · 17 claims (11 for, 6 mixed) · 15 studies (7 causal, 3 quant-synthesis, 2 review, 2 associational, 1 design), `q1`–`q4` · 4 of 15 report an effect size · 15 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -73,7 +73,7 @@ Information processing models are often criticized as overly linear and serial, 
 - [High-WMC readers show no seductive details effect, with seductive illustrations tending to yield the best performance](../claims/high-wmc-no-seduction-effect.md) [~W] — attached 2026-10-16 from Sanchez et al. (2006), which proposed "Controlled attention perspective of working memory capacity".
 - [Preschool children do not exhibit a spacing effect in free recall, although they benefit from repetition](../claims/preschoolers-no-spacing-effect-free-recall.md) [~W] — attached 2026-10-16 from Thomas C. Toppino et al. (1984), which proposed "Deficient-processing and encoding-variability theories of the spacing effect".
 - [First-grade children show the typical spacing effect in free recall with the same picture procedures](../claims/first-graders-spacing-effect-free-recall.md) [+W] — attached 2026-10-16 from Thomas C. Toppino et al. (1984), which proposed "Deficient-processing and encoding-variability theories of the spacing effect".
-- [Simple span and complex span tasks define two distinct but correlated memory factors in 7- to 13-year-olds](../claims/stm-wm-two-factor-structure-children.md) [+W] — attached 2026-10-16 from Robert Kail et al. (2001), which proposed "Embedded-processes account in which STM is activated long-term memory and WM adds controlled attention".
+- Simple span and complex span tasks define two distinct but correlated memory factors in 7- to 13-year-olds [+W] — attached 2026-10-16 from Robert Kail et al. (2001), which proposed "Embedded-processes account in which STM is activated long-term memory and WM adds controlled attention".
 - [Working memory, but not short-term memory, predicts word decoding skill in children](../claims/wm-predicts-word-decoding-stm-does-not.md) [+W] — attached 2026-10-16 from Robert Kail et al. (2001), which proposed "Embedded-processes account in which STM is activated long-term memory and WM adds controlled attention".
 - [Serial order STM at Age 4 predicts vocabulary knowledge at Age 5 over and above initial vocabulary, item STM, age and nonverbal reasoning](../claims/serial-order-stm-predicts-later-vocabulary-longitudinal.md) [+W] — attached 2026-10-16 from Leclercq et al. (2010), which proposed "Item-order distinction in verbal STM and the serial-order account of vocabulary acquisition".
 - [Growth in serial order STM from Age 4 to Age 5 predicts growth in vocabulary, whereas growth in item STM does not](../claims/serial-order-stm-gain-predicts-vocabulary-gain.md) [+M] — attached 2026-10-16 from Leclercq et al. (2010), which proposed "Item-order distinction in verbal STM and the serial-order account of vocabulary acquisition".

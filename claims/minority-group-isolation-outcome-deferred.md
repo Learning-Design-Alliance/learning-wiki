@@ -43,5 +43,5 @@ Statement of scope from the report's executive summary: the minority group isola
 
 
 ## Related Claims
-- [Most education impact studies can rigorously address only broad questions due to power constraints](most-impact-studies-address-broad-questions-only.md) — related
+- Most education impact studies can rigorously address only broad questions due to power constraints — related
 - A methodological study tests whether four nonexperimental comparison group approaches can replicate experimental impact estimates from a random assignment evaluation of charter schools. — related

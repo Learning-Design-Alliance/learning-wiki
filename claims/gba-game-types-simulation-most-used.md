@@ -43,6 +43,6 @@ Genre coding of the 21 included studies' games, compared against genre descripti
 
 
 ## Related Claims
-- [GBA research in education remained limited until 2012 and fluctuated thereafter, with the USA the most prolific region (N = 10, 48%)](gba-publication-trends-usa-most-prolific.md) — related
-- [GBA is predominantly applied in physics education (4 studies), with about 19% of studies not specifying a subject field](gba-subjects-physics-predominant.md) — related
-- [Supporting theory in GBA studies tends to be unitary: about 48% of studies specified no theory, and evidence-centered design was cited most (N = 6)](gba-theory-evidence-centered-design-dominant.md) — related
+- GBA research in education remained limited until 2012 and fluctuated thereafter, with the USA the most prolific region (N = 10, 48%) — related
+- GBA is predominantly applied in physics education (4 studies), with about 19% of studies not specifying a subject field — related
+- Supporting theory in GBA studies tends to be unitary: about 48% of studies specified no theory, and evidence-centered design was cited most (N = 6) — related

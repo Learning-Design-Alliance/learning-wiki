@@ -43,7 +43,7 @@ Large-scale experimental study of secondary math teachers from TFA in high-pover
 
 
 ## Related Claims
-- [This is the first large-scale experimental study of secondary math teachers from Teach For America](first-large-scale-experimental-study-tfa-math.md) — related
+- This is the first large-scale experimental study of secondary math teachers from Teach For America — related
 - [TFA teachers in their first two years of teaching are more effective than more experienced non-TFA teachers in the same schools](tfa-first-two-years-beat-experienced-non-tfa.md) — related
 - [Secondary math teachers from Teach For America and the Teaching Fellows programs are as effective as teachers receiving traditional certification](tfa-teaching-fellows-math-teachers-as-effective-as-traditional-certification.md) — related
 - [TFA teachers have positive effects on mathematics achievement for students in grades pre-K-12, based on six studies](tfa-positive-mathematics-achievement-effects.md) — a broader claim this one bears on

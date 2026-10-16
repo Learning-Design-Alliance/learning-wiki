@@ -49,8 +49,8 @@ Separate random effects meta-analysis of the 17 studies (n = 1,762) using an RCT
 
 - [The evidence base for school mindfulness interventions is promising but too variable for definitive practice recommendations](mbi-evidence-base-variability-limitation.md) — the general claim this finding bears on, with the studies behind it
 - [Publication bias is evident for Negative Behaviour and Anxiety/Stress across all RCTs and for Mindfulness in active-control RCTs, suggesting overestimation of MBI effects](publication-bias-mbi-youth-rcts.md) — related
-- [Effect sizes vary by control group type, with wait-list controls yielding the largest mean effect and no-contact controls the smallest](control-group-type-moderates-mbi-effects.md) — related
+- Effect sizes vary by control group type, with wait-list controls yielding the largest mean effect and no-contact controls the smallest — related
 - [Age significantly moderates MBI effects on executive functions across all RCTs (larger benefits with older age) and on negative behaviour in active-control RCTs (larger benefits with younger age)](age-moderates-mbi-outcomes.md) — related
 - [Across all RCTs, mindfulness-based interventions significantly improve mindfulness, executive functioning, attention, depression, anxiety/stress and negative behaviours in youth, with small effect sizes](mbis-small-positive-effects-all-rcts-youth.md) — a broader claim this one bears on
 - [Total training hours significantly moderate MBI effects on negative behaviour across all RCTs, with more hours associated with larger reductions](training-dose-moderates-negative-behaviour.md) — related
-- [Studies using a no-input control group yield significantly smaller effect sizes, protecting against overestimation](control-group-smaller-effect-sizes.md) — related
+- Studies using a no-input control group yield significantly smaller effect sizes, protecting against overestimation — related

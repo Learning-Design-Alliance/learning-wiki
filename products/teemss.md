@@ -17,7 +17,7 @@ sources:
 # TEEMSS
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies (8 causal), `q2` · 2 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 6 studies (6 causal), `q2` · 2 of 6 report an effect size
 
 ## Description
 TEEMSS is a Concord Consortium physical-science curriculum for grades 3–8 that combines inquiry-based investigations with handheld computers, sensors, interactive models, and teacher reporting tools.
@@ -29,7 +29,6 @@ TEEMSS is a Concord Consortium physical-science curriculum for grades 3–8 that
 ### Claims
 - [The supporting evidence for TEEMSS comes from a quasi-experimental study meeting WWC standards only with reservations](../claims/teemss-evidence-qed-with-reservations.md) [+M]
 - [The WWC rated TEEMSS as having potentially positive effects on general science achievement with a small extent of evidence](../claims/teemss-potentially-positive-effects-small-evidence.md) [+M]
-- [Only one of eight unit outcomes in the qualifying study met WWC evidence standards; seven were excluded](../claims/teemss-seven-outcomes-excluded-baseline-inequivalence.md) [~M]
 - [TEEMSS produced a statistically significant positive effect on the grade 3–4 sound unit test in a quasi-experimental study](../claims/teemss-sound-unit-test-positive-effect.md) [+M]
 
 ## Related Products and Programmes
@@ -66,7 +65,6 @@ TEEMSS is a physical science curriculum for grades 3–8 that "utilizes computer
 
 - [The supporting evidence for TEEMSS comes from a quasi-experimental study meeting WWC standards only with reservations](../claims/teemss-evidence-qed-with-reservations.md) [+M]
 - [The WWC rated TEEMSS as having potentially positive effects on general science achievement with a small extent of evidence](../claims/teemss-potentially-positive-effects-small-evidence.md) [+M]
-- [Only one of eight unit outcomes in the qualifying study met WWC evidence standards; seven were excluded](../claims/teemss-seven-outcomes-excluded-baseline-inequivalence.md) [~M]
 - [TEEMSS produced a statistically significant positive effect on the grade 3–4 sound unit test in a quasi-experimental study](../claims/teemss-sound-unit-test-positive-effect.md) [+M]
 
 ## Related Elements

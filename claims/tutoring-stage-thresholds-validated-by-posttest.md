@@ -43,6 +43,6 @@ The same double-blind randomized study's posttest analysis of lexical-unit statu
 
 
 ## Related Claims
-- [Double-blind experimental design can be successfully implemented in CALL-based pedagogical intervention research](double-blind-design-feasible-in-call-research.md) — related
+- Double-blind experimental design can be successfully implemented in CALL-based pedagogical intervention research — related
 - [Lexical units brought to the 'fully learned' stage by the tutor scored significantly lower on the posttest than units students already knew before introduction](learned-units-below-previously-known-units.md) — related
 - [Supplemental computer-based spaced repetition activities nearly triple long-term vocabulary retention in EFL students compared with conventional instruction alone](spaced-repetition-supplement-triples-vocabulary-retention.md) — related

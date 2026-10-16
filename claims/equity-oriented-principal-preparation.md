@@ -43,7 +43,7 @@ The report's review of recent literature on equity-oriented principal preparatio
 
 
 ## Related Claims
-- [Individual biases and narratives influence how systems are investigated in continuous improvement, potentially leading projects to address symptoms rather than root causes](personal-bias-influences-ci-investigations.md) — related
+- Individual biases and narratives influence how systems are investigated in continuous improvement, potentially leading projects to address symptoms rather than root causes — related
 - [Empathy interviews are among the most commonly discussed continuous improvement practices for advancing equity](empathy-interviews-central-equity-practice.md) — related
 - [Education leaders believe continuous improvement, when done well, can unearth issues of equity and reveal root causes of inequities in education systems](ci-done-well-unearths-equity-issues.md) — related
 - [More than two thirds of principals want equity-focused professional development, with significant differences by community type](principals-want-equity-pd-community-differences.md) — related

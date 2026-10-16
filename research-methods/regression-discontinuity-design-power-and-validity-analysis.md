@@ -17,7 +17,7 @@ sources:
 # Regression discontinuity design power and validity analysis
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 6 claims (6 for) · 5 studies (2 causal, 2 theoretical, 1 quant-synthesis), `q2`–`q3` · 0 of 5 report an effect size · 6 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The evidence base for this working paper is a set of four previously published education studies whose data were reanalyzed to estimate the statistical power of regression discontinuity designs relative to randomized controlled trials. The paper states it is "using data from four previously published education studies" to produce its design-effect estimates. The identities and details of the four studies are not printed on the available page.
@@ -27,12 +27,7 @@ The evidence base for this working paper is a set of four previously published e
 - **Empirical design-effect estimates based on four previously published education studies**: The evidence base for this working paper is a set of four previously published education studies whose data were reanalyzed to estimate the statistical power of regression discontinuity designs relative to randomized controlled trials. The paper states it is "using data from four previously published education studies" to produce its design-effect estimates. The identities and details of the four studies are not printed on the available page. (John Deke (2012))
 
 ### Claims
-- [Regression discontinuity designs in education require 9 to 17 times as many schools or students as randomized controlled trials to achieve the same statistical precision](../claims/rd-designs-need-9-to-17-times-rct-sample.md) [+W]
-- [The large sample requirement of RD designs is driven primarily by bandwidth selection, not by adjusting for random misspecification error](../claims/rd-sample-need-driven-by-bandwidth-selection.md) [+W]
-- [Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial](../claims/rd-replication-matches-experimental-estimates-two-interventions.md) [+W]
 - [Robust RDD methods protect against model misspecification but require much larger sample sizes to detect small effects](../claims/rdd-robust-methods-need-larger-samples.md) [+W]
-- [A study qualifies as an RD design only if assignment uses an ordinal forcing variable with at least four unique values on each side of the cutoff and no confounding factor](../claims/rd-qualification-criteria-forcing-variable.md) [+W]
-- [Regression discontinuity estimates show high internal validity, with average bias below 0.01 standard deviations relative to RCT estimates at the same cutoff](../claims/rd-average-bias-below-0-01-sd-high-internal-validity.md) [+W]
 
 ## Related Research Methods
 -
@@ -66,12 +61,7 @@ The evidence base for this working paper is a set of four previously published e
 
 ## Claims
 
-- [Regression discontinuity designs in education require 9 to 17 times as many schools or students as randomized controlled trials to achieve the same statistical precision](../claims/rd-designs-need-9-to-17-times-rct-sample.md) [+W]
-- [The large sample requirement of RD designs is driven primarily by bandwidth selection, not by adjusting for random misspecification error](../claims/rd-sample-need-driven-by-bandwidth-selection.md) [+W]
-- [Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial](../claims/rd-replication-matches-experimental-estimates-two-interventions.md) [+W]
 - [Robust RDD methods protect against model misspecification but require much larger sample sizes to detect small effects](../claims/rdd-robust-methods-need-larger-samples.md) [+W]
-- [A study qualifies as an RD design only if assignment uses an ordinal forcing variable with at least four unique values on each side of the cutoff and no confounding factor](../claims/rd-qualification-criteria-forcing-variable.md) [+W]
-- [Regression discontinuity estimates show high internal validity, with average bias below 0.01 standard deviations relative to RCT estimates at the same cutoff](../claims/rd-average-bias-below-0-01-sd-high-internal-validity.md) [+W]
 
 ## Related Elements
 

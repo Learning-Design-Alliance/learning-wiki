@@ -43,7 +43,7 @@ The brief's Key Findings report that the rigorous multi-grade evaluation found K
 
 
 ## Related Claims
-- [This is the first high-quality study to rigorously examine the impacts of the KIPP charter school network at all elementary and secondary grade levels](first-rigorous-study-kipp-all-grade-levels.md) — a broader claim this one bears on
+- This is the first high-quality study to rigorously examine the impacts of the KIPP charter school network at all elementary and secondary grade levels — a broader claim this one bears on
 - [KIPP middle schools have positive, statistically significant, and educationally meaningful impacts on student achievement in math, reading, science, and social studies](kipp-middle-school-achievement-impacts-four-subjects.md) — related
 - [KIPP high schools have positive, statistically significant, and educationally meaningful achievement impacts for students new to the KIPP network](kipp-high-school-impacts-new-entrants.md) — related
 - [In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial](kipp-middle-schools-positive-significant-math-reading-impacts.md) — related

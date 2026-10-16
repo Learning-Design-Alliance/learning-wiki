@@ -43,7 +43,7 @@ An experiment embedded in the 2006 National Survey of Student Engagement compare
 
 
 ## Related Claims
-- [The format used to quantify behavioral frequency reports directly influences substantive findings](frequency-report-format-influences-substantive-findings.md) — related
+- The format used to quantify behavioral frequency reports directly influences substantive findings — related
 - Latent variable models can be used to detect individual variability in the interpretation of vague quantifiers of behavioral frequency — related
 - Differential interpretation of vague quantifiers is best represented as variability between latent interpretation classes — related
 - [Multidimensional latent variable models rarely support more than about four to six latent variables, limiting fine-grained SKIVE modeling](latent-variable-models-limit-grain-size.md) — related

@@ -44,9 +44,9 @@ Qualitative interview study of 21 California education leaders conducted in fall
 
 ## Related Claims
 - [Continuous improvement can fall short when it becomes a compliance-based checklist activity detached from purpose and equity](ci-compliance-activity-undermines-equity.md) — related
-- [Individual biases and narratives influence how systems are investigated in continuous improvement, potentially leading projects to address symptoms rather than root causes](personal-bias-influences-ci-investigations.md) — related
+- Individual biases and narratives influence how systems are investigated in continuous improvement, potentially leading projects to address symptoms rather than root causes — related
 - [Leaders caution that disaggregating data by student demographics is only the beginning of using continuous improvement for equity, not its entirety](data-disaggregation-beginning-not-entirety.md) — related
-- [Interviews with 13 education leaders from Kentucky and California, two states with contrasting teacher-evaluation approaches, provided the data for the collaborative grounded theory analysis](thirteen-education-leaders-interviews-two-states-teacher-evaluation.md) — related
+- Interviews with 13 education leaders from Kentucky and California, two states with contrasting teacher-evaluation approaches, provided the data for the collaborative grounded theory analysis — related
 - [Empathy interviews are among the most commonly discussed continuous improvement practices for advancing equity](empathy-interviews-central-equity-practice.md) — a narrower finding that bears on this claim
 - [Commissioned evaluations found 21CSLA offerings influenced participants' knowledge, skills, and practices related to evidence-based practices, continuous improvement, and equity](21csla-evaluations-influenced-knowledge-practices.md) — related
 - [Equity-oriented leadership preparation through applied and reflective learning can deepen aspiring principals' understanding of bias and equitable practices](equity-oriented-principal-preparation.md) — related

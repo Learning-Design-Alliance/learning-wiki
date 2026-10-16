@@ -18,7 +18,7 @@ sources:
 # Coded dataset of 31 studies comparing innovative and conventional learning on junior high school mathematics problem-solving ability
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A research dataset assembled by Ridwan et al. (2021) containing coded study characteristics and group-level mathematics problem-solving results from 31 junior-high studies.
@@ -28,9 +28,7 @@ A research dataset assembled by Ridwan et al. (2021) containing coded study char
 
 ### Claims
 - [Individual study effect sizes span moderate to very high: eight studies medium, ten high, and thirteen very high by Cohen-criteria classification](../claims/effect-size-distribution-medium-high-very-high.md) [+W]
-- [Study effect sizes are heterogeneous (I² reported as 83.197%), so a random-effects model is used for the summary effect](../claims/heterogeneity-random-effects-model-problem-solving-meta-analysis.md) [+W]
 - [Innovative learning is more effective than conventional learning for junior high school students' mathematical problem-solving ability (summary effect 0.95, 95% CI 0.71–1.19)](../claims/innovative-learning-more-effective-problem-solving-meta-analysis.md) [+W]
-- [Trim-and-fill analysis shows no publication bias in the meta-analysis of innovative learning effects on mathematical problem-solving ability](../claims/trim-fill-no-publication-bias-innovative-learning.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -65,9 +63,7 @@ The article assembles a coded dataset of 31 primary studies comparing an experim
 ## Claims
 
 - [Individual study effect sizes span moderate to very high: eight studies medium, ten high, and thirteen very high by Cohen-criteria classification](../claims/effect-size-distribution-medium-high-very-high.md) [+W]
-- [Study effect sizes are heterogeneous (I² reported as 83.197%), so a random-effects model is used for the summary effect](../claims/heterogeneity-random-effects-model-problem-solving-meta-analysis.md) [+W]
 - [Innovative learning is more effective than conventional learning for junior high school students' mathematical problem-solving ability (summary effect 0.95, 95% CI 0.71–1.19)](../claims/innovative-learning-more-effective-problem-solving-meta-analysis.md) [+W]
-- [Trim-and-fill analysis shows no publication bias in the meta-analysis of innovative learning effects on mathematical problem-solving ability](../claims/trim-fill-no-publication-bias-innovative-learning.md) [+W]
 
 ## Related Elements
 

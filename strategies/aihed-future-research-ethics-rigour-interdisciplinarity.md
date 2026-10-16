@@ -17,7 +17,7 @@ sources:
 # Future AIHEd research should give greater attention to ethics, methodological rigour, context, and interdisciplinary collaboration
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review's forward-looking recommendation is that future AIHEd primary and secondary research address the gaps it identified: "a need for greater ethical, methodological, and contextual considerations within future research, alongside interdisciplinary approaches to AIHEd application". Concretely, this includes reporting inter-rater reliability, providing full search strings and coding schemes, undertaking quality assessment, reflecting on limitations, and extending interdisciplinary collaboration beyond the field's current domestic-only, STEM-skewed authorship. Suggestions are provided to guide both future primary and secondary research.
@@ -39,7 +39,6 @@ The review's forward-looking recommendation is that future AIHEd primary and sec
 
 ## Claims
 
-- [AIHEd evidence syntheses show methodological quality weaknesses: many omit inter-rater reliability reporting, quality assessment, and full search strings](../claims/aihed-review-quality-gaps-irr-quality-assessment.md) [+W]
 - [Most reviews reporting neurophysiological AI use stressed the need for further ethical considerations, including participant consent and transparent development](../claims/neurophysiological-ai-ethics-consent-transparency.md) [+W]
 
 ## Related Strategies

@@ -16,7 +16,7 @@ sources:
 # Neyman causal inference framework distinguishing finite-population and super-population models for clustered education RCTs
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The report grounds the estimation of average treatment effects in two-stage clustered RCTs in the Neyman causal inference framework. Its key organizing distinction is whether potential treatment and control group outcomes are "considered to be fixed for the study population (the finite-population model) or randomly selected from a vaguely defined universe (the super-population model)". Appropriate estimators are derived and discussed for each model.
@@ -37,9 +37,6 @@ The report grounds the estimation of average treatment effects in two-stage clus
 
 ### Claims
 
-- [Appropriate average treatment effect estimators can be derived for both finite-population and super-population models of clustered RCTs](../claims/appropriate-estimators-derived-for-each-causal-model.md) [+W]
-- [Across five clustered education RCTs, finite-population and super-population estimators yield identical findings on statistical significance](../claims/clustered-rct-estimators-identical-significance-findings.md) [+W]
-- [Standard errors sometimes differ across estimators, so policy conclusions from clustered education RCTs could be sensitive to the choice of estimator](../claims/rct-policy-conclusions-sensitive-to-estimator-choice.md) [+W]
 
 ## Related Theories
 

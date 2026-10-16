@@ -43,5 +43,5 @@ Systematic review of 19 IRT-based scale development studies in Turkey; the revie
 
 
 ## Related Claims
-- [Exploratory factor analysis was used more often than confirmatory factor analysis in Turkish IRT-based scale development studies](efa-more-than-cfa-irt-scale-studies.md) — related
+- Exploratory factor analysis was used more often than confirmatory factor analysis in Turkish IRT-based scale development studies — related
 - [Most Turkish IRT-based scale development studies did not check the unidimensionality or local independence assumptions](irt-assumptions-often-unchecked-turkey.md) — related

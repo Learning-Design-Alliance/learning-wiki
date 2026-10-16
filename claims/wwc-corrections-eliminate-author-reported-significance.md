@@ -43,7 +43,7 @@ WWC footnote on its re-analysis of both randomized controlled trials. The WWC ca
 
 ## Related Claims
 
-- [Large Type M (magnitude) errors almost certainly exist when applying the statistical significance filter in education research](large-type-m-errors-significance-filter-education.md) — the general claim this finding bears on, with the studies behind it
+- Large Type M (magnitude) errors almost certainly exist when applying the statistical significance filter in education research — the general claim this finding bears on, with the studies behind it
 - [Too Good for Drugs has potentially positive effects on student behavior, with a WWC-computed domain average effect size of 0.25 that is not statistically significant](too-good-for-drugs-potentially-positive-behavior-effects.md) — a narrower finding that bears on this claim
 - [At end of program, the largest Too Good for Drugs effect was on teacher-rated prosocial behaviors (effect size 0.52), not statistically significant after WWC correction](too-good-for-drugs-prosocial-behavior-end-of-program-es-052.md) — a narrower finding that bears on this claim
 - [Three of seven knowledge, attitudes, and values outcomes favor Facing History and Ourselves, including relationship maturity (best response) with effect size 0.45, but none remain statistically significant after WWC corrections](fhao-three-of-seven-outcomes-favor-program.md) — a narrower finding that bears on this claim
@@ -57,4 +57,4 @@ WWC footnote on its re-analysis of both randomized controlled trials. The WWC ca
 - [Nunnery and Ross (2007) reported significant grade 5 but not grade 8 TAAS effects, which were non-significant in WWC recalculation](nunnery-ross-taas-grade5-significant-wwc-recalculation-null.md) — a narrower finding that bears on this claim
 - [In a quasi-experimental study, CIRC showed no statistically significant effect on comprehension outcomes after WWC clustering and multiple-comparison adjustments](circ-qed-comprehension-indeterminate.md) — a narrower finding that bears on this claim
 - [Author-reported RD findings count toward effectiveness ratings only if standard errors account for clustering of students at unique forcing variable values](rd-clustering-and-discreteness-requirement.md) — related
-- [A program is said to have an effect when the difference between program and non-program groups is statistically significant](effect-defined-as-statistically-significant-group-difference.md) — a broader claim this one bears on
+- A program is said to have an effect when the difference between program and non-program groups is statistically significant — a broader claim this one bears on

@@ -16,7 +16,7 @@ sources:
 # Taxonomy of character education outcomes organized from broad student/other levels to specific cognitive, affective, and behavioral constructs
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The report develops a hierarchical taxonomy for classifying outcomes measured in character education research, built iteratively from WWC, WWCEP, and PCEP classification approaches and refined as the review proceeded. "The broadest level distinguished between student-level outcomes and “other” level outcomes" including teacher, school, parent, and community outcomes; the mid-range distinguished "student affective, behavioral, and cognitive outcomes"; and finer levels separated constructs such as student knowledge and reasoning from prosocial and risk behaviors. The taxonomy structures the report's crosswalks between constructs, programs, and measures (Tables 2 and 4, Appendix B).
@@ -38,7 +38,6 @@ The report develops a hierarchical taxonomy for classifying outcomes measured in
 ### Claims
 
 - [Among specific student constructs, academic content, discipline issues, and interpersonal competencies were the most frequently measured outcomes in character education program studies](../claims/character-ed-most-measured-student-constructs.md) [+W]
-- [School climate and parent participation in school were the most frequently measured non-student outcomes, while teacher-level outcomes were rarely assessed](../claims/character-ed-school-climate-most-measured-nonstudent.md) [+W]
 - [Studies of character education programs most often measure student-level outcomes, with behavioral outcomes measured for 31 of 36 programs, affective for 28, and cognitive for 25](../claims/character-ed-studies-mostly-measure-student-outcomes.md) [+W]
 
 ## Related Theories

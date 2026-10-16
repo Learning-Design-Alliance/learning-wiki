@@ -43,7 +43,7 @@ The overview's synthesis of systematic reviews of professional behavior change i
 
 
 ## Related Claims
-- [Forty-one systematic reviews of professional behavior change interventions published 1966-1998 were identified, covering a wide range of interventions and behaviors](forty-one-reviews-provider-behavior-change.md) — related
+- Forty-one systematic reviews of professional behavior change interventions published 1966-1998 were identified, covering a wide range of interventions and behaviors — related
 - [Passive dissemination approaches are generally ineffective and unlikely to result in professional behavior change](passive-dissemination-ineffective-provider-behavior.md) — a broader claim this one bears on
 - [Most professional behavior change interventions are effective under some circumstances but none are effective under all circumstances](no-intervention-effective-all-circumstances.md) — a broader claim this one bears on
 - A targeted chatbot registration reminder increased timely course enrollment, with treated students 34 percentage points more likely to enroll by August 16th than controls — related

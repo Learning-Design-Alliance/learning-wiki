@@ -16,7 +16,7 @@ sources:
 # Three-dimension model of instructional design competence for pre-service teachers (knowledge, ability, personal attributes)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article develops and validates a competence model in which instructional design competence comprises three dimensions: knowledge and understanding of instructional design, ability in instructional design, and personal attributes. The knowledge and ability dimensions share six components—curriculum analysis, learner analysis, determination of learning objectives, design of learning activities, selection of instructional media and resources, and measurement and evaluation of learning outcomes—while personal attributes cover curiosity, teamwork, systematic thinking, creativity, and ethical values. The model was operationalized as a questionnaire with indicators for each component and validated via CFA.
@@ -38,7 +38,6 @@ The article develops and validates a competence model in which instructional des
 
 ### Claims
 - [Idc Competence Three Dimensions Validated](../claims/idc-competence-three-dimensions-validated.md) [+M]
-- [Idc Ability Dimension Highest Loading](../claims/idc-ability-dimension-highest-loading.md) [+M]
 
 ## Related Theories
 - 

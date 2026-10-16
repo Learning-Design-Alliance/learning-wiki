@@ -66,4 +66,4 @@ The article attributes this differential benefit, citing Steenbergen-Hu & Cooper
 - Machine learning systems can perpetuate biases contained in their training data — a broader claim this one bears on
 - Generative AI systems carry strong potential for introduced and inherited bias — a broader claim this one bears on
 - [Algorithmic empathy is culturally fragile: emotional inference errors in socio-emotional AI can invalidate teachers' experiences, so systems require local validation and participatory design](cultural-fragility-algorithmic-empathy.md) — related
-- [AI methodologies may redistribute epistemic agency, moving researchers from primary analyst to interpreter and validator of AI-generated outputs](ai-redistributes-researcher-epistemic-agency.md) — related
+- AI methodologies may redistribute epistemic agency, moving researchers from primary analyst to interpreter and validator of AI-generated outputs — related

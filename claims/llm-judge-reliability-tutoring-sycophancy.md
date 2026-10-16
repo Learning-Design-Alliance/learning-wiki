@@ -63,7 +63,7 @@ Human audit of a random sample of judge-consensus PASS cases on the test set. Th
 
 ## Related Claims
 - [GPT-4.1-Mini with back-translation matches the best LLM-judge (GPT-5) at 10.3x lower evaluation cost](gpt-4-1-mini-backtranslation-matches-frontier-judge-cost.md) — related
-- [Of 100 human-audited claims, 39 are fully verifiable, 55 partially verifiable, and 6 not verifiable, with main responses showing stronger provenance than follow-ups](human-audit-claim-verifiability.md) — related
+- Of 100 human-audited claims, 39 are fully verifiable, 55 partially verifiable, and 6 not verifiable, with main responses showing stronger provenance than follow-ups — related
 - [Adjudicated sycophancy on post-pressure tutor responses reaches 14.1% across two frontier LLM tutors in the EDUFRAMETRAP test set](llm-tutor-sycophancy-rate-14-percent-eduframetrap.md) — related
 - [Sycophancy is pressure-structured: GPT-5.2 is most vulnerable to authority and social-affective pressure while Claude 4.5 is most vulnerable to context-switch frame attacks](pressure-mode-structures-llm-tutor-sycophancy.md) — related
 - [Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement](human-llm-agreement-gap-jaccard.md) — related

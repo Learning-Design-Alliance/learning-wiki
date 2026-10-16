@@ -45,4 +45,4 @@ Structured rapid review (PRISMA-ScR-guided) of Scopus records: 5762 initial reco
 ## Related Claims
 - [The marginality of Generator, Reimaginator, and Synthesizer entanglements reflects institutional accommodation of individualistic competence expectations rather than technological limitation](entanglement-distribution-reflects-institutional-accommodation.md) — related
 - [Collaborative testing shows the taxonomy enables comparison between similar GenAI activities while inevitably falling short of portraying all entangled aspects](taxonomy-testing-reveals-limits-and-comparison.md) — related
-- [AIHEd evidence synthesis is dominated by systematic reviews conducted in mostly domestic-only teams, with 66 higher-education reviews included in the corpus](aihed-corpus-systematic-reviews-domestic-teams.md) — related
+- AIHEd evidence synthesis is dominated by systematic reviews conducted in mostly domestic-only teams, with 66 higher-education reviews included in the corpus — related

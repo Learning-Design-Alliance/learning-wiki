@@ -45,7 +45,7 @@ The article's own summary of its research brief states that "New research shows 
 ## Related Claims
 - [A literature review investigated whether assessment metadata can provide information on SEL constructs](literature-review-assessment-metadata-sel.md) — a broader claim this one bears on
 - [Time students spend on math test questions is studied as a potential source of information about motivation and self-efficacy](math-response-times-motivation-self-efficacy.md) — possibly the same claim (merge candidate)
-- [Response times have been used extensively for achievement estimation but little work links test metadata to social-emotional constructs](response-time-metadata-gap-social-emotional-constructs.md) — related
+- Response times have been used extensively for achievement estimation but little work links test metadata to social-emotional constructs — related
 - [Mean item response durations show no strong relationship with math motivation and self-efficacy in general](mean-item-durations-not-strongly-related-motivation-self-efficacy.md) — related
 - [Time spent on very difficult math test items is highly correlated with students' academic motivation and self-efficacy](time-on-difficult-items-correlates-motivation-self-efficacy.md) — a narrower finding that bears on this claim
 - [Measuring SEL involves a tradeoff between measuring narrower discrete skills and measuring broader competencies](sel-measurement-narrow-skills-versus-broad-competency-tradeoff.md) — related

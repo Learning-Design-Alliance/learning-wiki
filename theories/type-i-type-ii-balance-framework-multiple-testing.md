@@ -16,7 +16,7 @@ sources:
 # A framework that balances Type I and Type II errors for addressing the multiple testing problem in social policy impact evaluations
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 theoretical), `q1` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article presents a framework for handling the multiple testing problem in social policy impact evaluations. Its stated purpose is to "balance[] Types I and II errors" so that evaluations controlling spurious findings do not simultaneously miss genuine impacts. The framework is positioned as an approach for evaluators who must test many outcomes and subgroup impacts and need a principled trade-off between falsely declaring effects and failing to detect real ones.
@@ -37,9 +37,6 @@ The article presents a framework for handling the multiple testing problem in so
 
 ### Claims
 
-- [Multiple Testing Spurious Impact Findings](../claims/multiple-testing-spurious-impact-findings.md) [+W]
-- [Researchers disagree about using multiple testing procedures and the trade-off between type I error and statistical power (type II error)](../claims/researcher-disagreement-multiple-testing-tradeoff.md) [+W]
-- [Statistical procedures that correct for multiple testing typically reduce the statistical power of hypothesis tests in impact evaluations](../claims/multiple-testing-corrections-reduce-power.md) [+W]
 
 ## Related Theories
 

@@ -45,7 +45,7 @@ WWC review of the program's research base. The single qualifying study included 
 ## Related Claims
 - [The evidence base for Corrective Reading in grades K–3 is small: one of 25 reviewed studies met WWC standards, and no studies addressed general reading achievement](corrective-reading-small-evidence-base.md) — related
 - [The evidence base for Little Books is small: only one study met WWC standards, addressing only general reading achievement, with no studies meeting standards for alphabetics, fluency, or comprehension](little-books-evidence-base-small-one-domain.md) — related
-- [Baseline equivalence was established only for low-achieving students, so analyses for other grades and subpopulations do not meet WWC evidence standards](reading-plus-baseline-equivalence-low-achievers-only.md) — related
+- Baseline equivalence was established only for low-achieving students, so analyses for other grades and subpopulations do not meet WWC evidence standards — related
 - [The extent of evidence for Reading Plus® on adolescent learners is small, resting on a single study that met WWC standards with reservations](reading-plus-evidence-extent-small-one-study.md) — related
 - [The evidence base for Read, Write & Type!™ is a single small-extent randomized trial, limiting confidence in the effectiveness ratings](rwt-evidence-base-single-small-trial.md) — related
 - [The evidence base for SMART® is a single small-extent RCT, capping the intervention rating at potentially positive effects](smart-evidence-base-single-small-rct.md) — related
@@ -60,5 +60,5 @@ WWC review of the program's research base. The single qualifying study included 
 - [Evidence base for Waterford Early Reading Level One™ is small, with no standards-meeting studies in four of six outcome domains](waterford-level-one-small-extent-of-evidence.md) — possibly the same claim (merge candidate)
 - Waterford Upstart participation shows statistically significant positive effects on early literacy skills in matched quasi-experimental cohorts — related
 - [Thirteen of 14 reviewed studies of the program fail WWC evidence standards or eligibility screens, most for lacking comparison-group designs or non-equivalent quasi-experimental groups](challengge-thirteen-studies-excluded.md) — related
-- [The evidence base for first year experience courses consists only of quasi-experimental studies meeting WWC group design standards with reservations](fye-evidence-base-quasi-experimental-reservations.md) — related
+- The evidence base for first year experience courses consists only of quasi-experimental studies meeting WWC group design standards with reservations — related
 - [The WWC rated JOBSTART as having potentially positive effects on completing school, based on a small extent of evidence from a single study](jobstart-wwc-potentially-positive-rating.md) — related

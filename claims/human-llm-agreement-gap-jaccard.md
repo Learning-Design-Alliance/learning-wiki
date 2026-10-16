@@ -93,4 +93,4 @@ Same agreement analysis at the model level. LLM-LLM Jaccard ranged from 0.37 to 
 - [Even the best LLM grader reaches only moderate agreement with human teachers, below the threshold for good reliability](llm-grading-moderate-human-agreement-icc.md) — related
 - [LLMs agree strongly with their own consensus grades (most ICC > 0.8), far more than with human teachers' grades](llm-high-consensus-agreement-circularity-risk.md) — related
 - [The LLM judge agrees with human annotators at 87.7% (κ = 0.842) on consensus pairs, but severity-rating agreement is uneven and medium-tier boundaries are uncertain](judge-calibration-labels-strong-severity-uneven.md)
-- [Within-method convergence (RSAT coding vs human coding; G vs d') indicates stability, not construct validity](within-method-convergence-stability-not-construct-validity.md) — related
+- Within-method convergence (RSAT coding vs human coding; G vs d') indicates stability, not construct validity — related

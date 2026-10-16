@@ -43,6 +43,6 @@ In the report's summary statement, the authors identify a knowledge gap, noting 
 
 
 ## Related Claims
-- [This is the first high-quality study to rigorously examine the impacts of the KIPP charter school network at all elementary and secondary grade levels](first-rigorous-study-kipp-all-grade-levels.md) — related
+- This is the first high-quality study to rigorously examine the impacts of the KIPP charter school network at all elementary and secondary grade levels — related
 - The article examines whether the type of charter-school authorizer relates to charter-school effectiveness as measured by student achievement trajectories in Ohio — related
 - [About 200 online charter schools operate in the United States, serving about 200,000 students across elementary, middle, and high school grades](online-charter-schools-200-schools-200000-students.md) — related

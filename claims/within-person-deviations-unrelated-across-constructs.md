@@ -43,7 +43,7 @@ Joint latent curve models fitted to repeated measures of math achievement and se
 
 
 ## Related Claims
-- [Prior longitudinal studies of math and self-efficacy tend to fit models assuming the constructs lack unique developmental trajectories and do not examine within-person relations](prior-studies-assume-no-unique-trajectories.md) — related
+- Prior longitudinal studies of math and self-efficacy tend to fit models assuming the constructs lack unique developmental trajectories and do not examine within-person relations — related
 - [Growth in academic self-efficacy is significantly associated with growth in mathematics achievement when modeled jointly](self-efficacy-growth-associated-with-math-growth.md) — related
 - [Fifth-grade self-efficacy is associated with later math and reading growth (.15 and .19 standardized units per SD), mediating ELL status's indirect negative association with growth](self-efficacy-intercept-predicts-achievement-growth-mediation.md) — related
 - [ELLs start middle school roughly .6 SD lower in math and .65 SD lower in reading, with faster reading growth (.13 SD) but no faster math or self-efficacy growth](ell-lower-start-faster-reading-growth-only.md) — related

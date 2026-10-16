@@ -16,7 +16,7 @@ sources:
 # Four-dimension coding scheme for SRL strategies in online and blended learning (metacognitive, motivational, cognitive, mixed)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (6 for, 1 against) · 2 studies (1 causal, 1 quant-synthesis), `q3` · 1 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 against) · 2 studies (1 causal, 1 quant-synthesis), `q3` · 1 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 The article organizes SRL interventions using a coding scheme with four primary strategy dimensions applied to online learning (OL) and blended learning (BL) contexts. As the authors state, "we employed a coding scheme including four primary strategies (metacognitive, motivational, cognitive, and mixed)". The metacognitive dimension covers self-monitoring, planning, reflection, and goal setting; the motivational dimension covers intrinsic and extrinsic motivation, interests, and values; the cognitive dimension covers information processing, concept acquisition, and problem-solving; and the mixed dimension examines the interplay among the three. The scheme was used to code the 15 included studies for moderator analysis.
@@ -43,7 +43,6 @@ The article organizes SRL interventions using a coding scheme with four primary 
 
 - [Srl Effect No Significant Moderator Differences](../claims/srl-effect-no-significant-moderator-differences.md) [+M]
 - [SRL interventions combining metacognitive, cognitive, and motivational components were most frequent and, per the authors, had the greatest impact](../claims/mixed-srl-strategy-interventions-greatest-impact.md) [+M]
-- [Effect sizes across SRL intervention studies are highly heterogeneous, requiring a random effects model](../claims/srl-effect-sizes-heterogeneous-random-effects.md) [+M]
 - [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](../claims/srl-interventions-moderate-effect-online-blended.md) [+M]
 - [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](../claims/srl-meta-analysis-no-publication-bias.md) [+W]
 - [In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains](../claims/srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep.md) [+M]

@@ -43,7 +43,7 @@ Randomized controlled trial with 218 sixth-grade students in six schools; Append
 
 ## Related Claims
 
-- [Large Type M (magnitude) errors almost certainly exist when applying the statistical significance filter in education research](large-type-m-errors-significance-filter-education.md) — the general claim this finding bears on, with the studies behind it
+- Large Type M (magnitude) errors almost certainly exist when applying the statistical significance filter in education research — the general claim this finding bears on, with the studies behind it
 - [In a five-year quasi-experimental study, the intervention program showed a statistically significant positive effect on fifth-grade reading performance assessment but not on the CTBS Reading subtest](ic-ll-longitudinal-reading-quasi-experiment.md) — related
 - [The intervention showed substantively important but WWC-unconfirmed effects on English language development, with non-significant CTBS Language and Writing outcomes](ic-ll-english-language-development-unconfirmed.md) — related
 - [EIR® had a positive, substantively important but statistically non-significant effect on first-grade reading comprehension](eir-comprehension-substantively-important-ns.md) — related

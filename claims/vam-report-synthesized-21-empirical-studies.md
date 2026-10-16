@@ -43,7 +43,7 @@ The report describes its own evidence base: it "selected 21 empirical studies th
 
 
 ## Related Claims
-- [The report examined value-added implementation in seven school districts or states](vam-report-examined-seven-district-states-implementation.md) — related
+- The report examined value-added implementation in seven school districts or states — related
 - [Applying the Full Roster-Plus Method instead of the Full Roster Method produces very small empirical differences in value-added estimates in District of Columbia Public Schools data](frp-vs-frm-very-small-empirical-differences.md) — related
 - [The Teacher Team Method and Full Roster Method produce similar estimates of teacher value added](teacher-team-and-full-roster-methods-produce-similar-estimates.md) — related
 - [The Full Roster Method effectively counts co-taught students more than once in value-added calculations](frm-counts-cotaught-students-more-than-once.md) — related

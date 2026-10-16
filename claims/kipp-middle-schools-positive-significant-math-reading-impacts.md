@@ -48,7 +48,7 @@ First findings from a multi-year evaluation of the KIPP charter school network, 
 - [KIPP charter schools have positive effects on English language arts achievement for middle and high school students](kipp-positive-ela-achievement.md) — a broader claim this one bears on
 - [KIPP charter schools have positive effects on mathematics achievement for middle and high school students](kipp-positive-math-achievement.md) — a broader claim this one bears on
 - [The Kauffman School's achievement impacts are higher than the average impacts found in studies of other charter schools](kauffman-impacts-exceed-average-charter-impacts.md) — related
-- [This is the first high-quality study to rigorously examine the impacts of the KIPP charter school network at all elementary and secondary grade levels](first-rigorous-study-kipp-all-grade-levels.md) — a broader claim this one bears on
+- This is the first high-quality study to rigorously examine the impacts of the KIPP charter school network at all elementary and secondary grade levels — a broader claim this one bears on
 - [KIPP elementary schools have positive, statistically significant, and educationally meaningful impacts on three of four measures of reading and mathematics skills](kipp-elementary-positive-impacts-three-of-four-measures.md) — related
 - [For students continuing from KIPP middle schools to KIPP high schools, achievement impacts are not statistically significant](kipp-high-school-continuing-students-achievement-null.md) — related
 - [Average KIPP middle school impacts were positive and statistically significant throughout the 10-year study period, though higher in earlier years than recent years](kipp-middle-impacts-positive-throughout-higher-earlier-years.md) — related

@@ -45,7 +45,7 @@ Pooled effect sizes from the same three-level meta-analysis, broken down by outc
 ## Related Claims
 - [Feedback in course design predicts larger SRL training effects for metacognitive strategies, resource management strategies, and motivation](feedback-moderates-srl-training-effects.md) — related
 - [Provision of learning protocols predicts larger SRL training effects for resource management strategies](learning-protocols-moderate-resource-management-effects.md) — related
-- [The theoretical framework categorised SRL into four main categories (Metacognition, Low Cognition, High Cognition, Other) and eight subcategories](srl-theoretical-framework-categories.md) — related
+- The theoretical framework categorised SRL into four main categories (Metacognition, Low Cognition, High Cognition, Other) and eight subcategories — related
 - [The pooled effect of self-regulated learning does not differ significantly by strategy type (cognitive, metacognitive, resource management, motivational)](srl-effect-no-strategy-type-difference.md) — reports the opposite
 - [The combined training-plus-diary condition improved specific SRL components: SRL knowledge, metacognitive strategies, cognitive strategies (elaboration, organisation, critical thinking), and resource management strategies (time-management, effort regulation)](combined-condition-improved-specific-srl-components.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related

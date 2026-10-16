@@ -45,8 +45,8 @@ RDD analysis restricted to Clark County School District, which the report says e
 ## Related Claims
 - [For Clark County students designated At-risk, One-Star designation significantly raises math but not ELA scores](one-star-designation-clark-county-at-risk-students.md) — related
 - [Statewide, One-Star designation has a modest significant positive effect on ELA but not on math scores](one-star-designation-statewide-ela-effect.md) — related
-- [Regression discontinuity estimates show high internal validity, with average bias below 0.01 standard deviations relative to RCT estimates at the same cutoff](rd-average-bias-below-0-01-sd-high-internal-validity.md) — a broader claim this one bears on
-- [Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial](rd-replication-matches-experimental-estimates-two-interventions.md) — a broader claim this one bears on
+- Regression discontinuity estimates show high internal validity, with average bias below 0.01 standard deviations relative to RCT estimates at the same cutoff — a broader claim this one bears on
+- Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial — a broader claim this one bears on
 - Statistical theory predicts that regression discontinuity provides valid causal inference at the cutoff score determining treatment assignment — a broader claim this one bears on
-- [Shrunken study-specific RD bias estimates stay below 0.07 standard deviations, indicating good external validity](rd-shrunken-bias-below-0-07-sd-external-validity.md) — a broader claim this one bears on
+- Shrunken study-specific RD bias estimates stay below 0.07 standard deviations, indicating good external validity — a broader claim this one bears on
 - [Robust RDD methods protect against model misspecification but require much larger sample sizes to detect small effects](rdd-robust-methods-need-larger-samples.md) — a broader claim this one bears on

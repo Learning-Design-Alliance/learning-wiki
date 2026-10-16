@@ -45,7 +45,7 @@ Exploratory quasi-experimental analyses using a regression discontinuity design 
 ## Related Claims
 - [Accountability sanction effects were not consistent across years and outcomes](ayp-effects-inconsistent-across-years-and-outcomes.md) — related
 - [First-year identification for school improvement showed no positive achievement impacts](school-improvement-identification-no-achievement-impact.md) — related
-- [Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial](rd-replication-matches-experimental-estimates-two-interventions.md) — related
+- Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial — related
 - [Individual RD impact estimates show substantial variation in bias, warranting caution when interpreting single RD estimates](rd-individual-estimates-substantial-bias-variation.md) — related
-- [Clustered regression discontinuity designs typically require three to four times larger samples than clustered experimental designs to produce impact estimates with the same level of statistical precision in education evaluations](rd-designs-need-three-to-four-times-larger-samples-than-experiments.md) — related
+- Clustered regression discontinuity designs typically require three to four times larger samples than clustered experimental designs to produce impact estimates with the same level of statistical precision in education evaluations — related
 - Statistical theory predicts that regression discontinuity provides valid causal inference at the cutoff score determining treatment assignment — related

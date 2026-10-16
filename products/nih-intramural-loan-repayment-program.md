@@ -18,7 +18,7 @@ sources:
 # NIH Intramural Loan Repayment Program
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A set of National Institutes of Health loan-repayment programmes run by NIH to attract and retain biomedical researchers in its intramural laboratories and clinics.
@@ -31,7 +31,6 @@ A set of National Institutes of Health loan-repayment programmes run by NIH to a
 ### Claims
 - [Participation in NIH loan repayment programs is associated with longer stays at the NIH and in research careers](../claims/loan-repayment-participation-longer-research-stays.md) [+W]
 - [Eligibility for NIH loan repayment is associated with higher recruitment success of biomedical researchers](../claims/loan-repayment-eligibility-higher-recruitment-success.md) [+W]
-- [The NIH Intramural Research Loan Repayment Program evaluation combined an outcomes evaluation with a process analysis drawing on focus groups, staff interviews, and administrative data](../claims/nih-lrp-mixed-process-outcomes-evaluation.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -70,7 +69,6 @@ The NIH Intramural Loan Repayment Programs are an incentive mechanism by which, 
 
 - [Participation in NIH loan repayment programs is associated with longer stays at the NIH and in research careers](../claims/loan-repayment-participation-longer-research-stays.md) [+W]
 - [Eligibility for NIH loan repayment is associated with higher recruitment success of biomedical researchers](../claims/loan-repayment-eligibility-higher-recruitment-success.md) [+W]
-- [The NIH Intramural Research Loan Repayment Program evaluation combined an outcomes evaluation with a process analysis drawing on focus groups, staff interviews, and administrative data](../claims/nih-lrp-mixed-process-outcomes-evaluation.md) [+W]
 
 ## Related Elements
 
@@ -109,7 +107,6 @@ The NIH Intramural Research Loan Repayment Program is a program evaluated by Mat
 
 ## Claims
 
-- [The NIH Intramural Research Loan Repayment Program evaluation combined an outcomes evaluation with a process analysis drawing on focus groups, staff interviews, and administrative data](../claims/nih-lrp-mixed-process-outcomes-evaluation.md) [+W]
 
 ## Related Elements
 

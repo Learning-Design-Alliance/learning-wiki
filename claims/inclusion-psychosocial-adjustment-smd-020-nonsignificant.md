@@ -47,4 +47,4 @@ Meta-analysis of non-randomised studies comparing inclusive versus segregated pl
 - [Inclusion shows a negligible, non-significant pooled difference for language and literacy learning outcomes](inclusion-language-literacy-smd-004-nonsignificant.md) — related
 - [Inclusion shows a negligible, non-significant pooled difference for math learning outcomes](inclusion-math-outcomes-smd-005-nonsignificant.md) — related
 - [Prior reviews of inclusion published before 2000 reported equivocal effects, including a pooled effect size of 0.33 favouring inclusion](prior-inclusion-reviews-equivocal-wang-baker-033.md) — related
-- [The review planned meta‐analytic synthesis but could not use it because only one study met the inclusion criteria](planned-meta-analysis-unavailable-single-study.md) — related
+- The review planned meta‐analytic synthesis but could not use it because only one study met the inclusion criteria — related

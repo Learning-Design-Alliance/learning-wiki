@@ -44,5 +44,5 @@ From the same CPS-based observational analysis using statewide unemployment vari
 
 ## Related Claims
 - [Graduate school enrollment is countercyclical for females and acyclical for males](graduate-enrollment-countercyclical-females-acyclical-males.md) — related
-- [Statewide unemployment-rate variation can proxy business cycle conditions in studies of graduate enrollment decisions](statewide-unemployment-variation-proxies-business-cycle-enrollment.md) — related
+- Statewide unemployment-rate variation can proxy business cycle conditions in studies of graduate enrollment decisions — related
 - [Poor labor market conditions lead to substitution from full-time to part-time graduate enrollment for both genders](poor-labor-markets-shift-full-time-to-part-time-graduate-enrollment.md) — related

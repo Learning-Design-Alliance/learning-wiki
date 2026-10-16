@@ -46,6 +46,6 @@ Posttest analysis from the same randomized double-blind study comparing set-L un
 - [Vocabulary](../learner-variables/vocabulary.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Double-blind experimental design can be successfully implemented in CALL-based pedagogical intervention research](double-blind-design-feasible-in-call-research.md) — related
+- Double-blind experimental design can be successfully implemented in CALL-based pedagogical intervention research — related
 - [Posttest scores increase monotonically across the tutoring algorithm's acquisition stages, supporting its stage criteria, though control-group items did not differ from items still in active acquisition](tutoring-stage-thresholds-validated-by-posttest.md) — related
 - [Supplemental computer-based spaced repetition activities nearly triple long-term vocabulary retention in EFL students compared with conventional instruction alone](spaced-repetition-supplement-triples-vocabulary-retention.md) — related

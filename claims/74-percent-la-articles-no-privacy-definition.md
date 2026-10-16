@@ -45,6 +45,6 @@ Scoping review of 59 peer-reviewed LA articles (2011–July 2021) coded independ
 
 
 ## Related Claims
-- [Among LA articles that define privacy, control (15%) is the most common established definition; none define privacy as a commodity](la-privacy-definitions-distribution-control-most-common.md) — related
-- [Conceptual unclarity in LA: privacy is used interchangeably or in overlapping ways with ethics, security, and anonymity](la-privacy-conceptual-unclarity-ethics-conflation.md) — related
+- Among LA articles that define privacy, control (15%) is the most common established definition; none define privacy as a commodity — related
+- Conceptual unclarity in LA: privacy is used interchangeably or in overlapping ways with ethics, security, and anonymity — related
 - In one institution's early-stage learning analytics implementation, inductive coding of interviews and documents surfaced three privacy themes: FERPA compliance, role-based access and security measures, and students' relationship with their data — related

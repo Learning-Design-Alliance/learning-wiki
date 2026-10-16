@@ -51,4 +51,4 @@ Spearman correlation analysis under RQ2 in the survey of 47 graduate students in
 - [CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while facilitation behaviors and resolution-phase items rated below 4.0](coi-presence-uneven-profile-mba.md) — related
 - [Self-regulation and co-regulation are significantly and highly correlated in an online case-based course](self-co-regulation-highly-correlated-online-cbi.md) — related
 - [Interactivity, information sharing, and collaborative environment are each positively associated with perceived social presence in agentic AI-supported online learning](affordances-positive-social-presence-agentic-ai.md) — related
-- [In an online course, student performance can be examined in relationship to measures of student interaction and sense of presence using multiple independent and dependent variables.](online-performance-related-to-interaction-and-presence.md) — related
+- In an online course, student performance can be examined in relationship to measures of student interaction and sense of presence using multiple independent and dependent variables. — related

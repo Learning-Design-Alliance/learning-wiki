@@ -17,7 +17,7 @@ sources:
 # The Fluency Way: a proposed lesson guide for oral English proficiency
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The Fluency Way is a prototype lesson guide the researcher formulated from the study's synthesized themes to encourage language fluency. It targets "Freshmen tertiary L2 students (30-60 students per class)" in 50-90 minute classes, with objectives of gaining speaking confidence, communicating effectively with limited vocabulary, and practicing English through dialogues and role-plays. The article states "The lesson guide can be utilized best in both the Direct Method and the Communicative Language Teaching Method."
@@ -42,7 +42,6 @@ The Fluency Way is a prototype lesson guide the researcher formulated from the s
 
 - [Meaningful L2 learning is achieved through a conducive environment and authentic tasks and materials](../claims/authentic-tasks-meaningful-l2-learning.md) [+W]
 - [Fluency can have a high effect on accuracy, whereas accuracy will not lead to fluency](../claims/fluency-precedes-accuracy-oral-l2.md) [+W]
-- [Grammatical skill is not the focus of Second Language Acquisition, per the study's synthesis of SLA theories and methods](../claims/grammar-not-focus-of-sla-synthesis.md) [+W]
 - [Learner-centeredness is a universal theme across SLA theories and language teaching methods](../claims/learner-centeredness-universal-theme-sla.md) [+W]
 - [A learner's mother language affects second language acquisition, particularly in production of absent sounds](../claims/mother-tongue-affects-sla-production.md) [+W]
 

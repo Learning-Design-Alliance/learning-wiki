@@ -17,7 +17,7 @@ sources:
 # Three-dataset within-study comparison design varying pretest-selection correlation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (2 causal), `q2`–`q3` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's evidence base is a design combining "two within study comparisons and an especially strong quasi-experiment," each featuring "an educational intervention that seeks to improve achievement." Across the three datasets with two outcomes each, the design yields six instances in which the correlation between the pretest and the selection process is varied, with three low-correlation and three high-correlation cases, allowing within-study examination of how pretest measures reduce selection bias.
@@ -38,9 +38,6 @@ The article's evidence base is a design combining "two within study comparisons 
 
 ## Claims
 
-- [Bias elimination does not follow the predicted pattern of increasing with the pretest's correlation with selection into treatment](../claims/bias-elimination-not-predicted-by-pretest-selection-correlation.md) [+W]
-- [Adding a second pretest wave eliminates selection bias in two additional instances beyond those cured by a single wave](../claims/second-pretest-wave-additional-bias-elimination.md) [+W]
-- [A single wave of pretest measures reduces selection bias in every examined case and eliminates it in half of them](../claims/single-pretest-wave-reduces-selection-bias.md) [+W]
 - [In the qualifying quasi-experimental study, at-risk Kindergarten students using Waterford Level One for 15-minute daily sessions were matched to comparison students and pretested in fall and posttested in spring](../claims/werp-hecht-close-study-design.md) [+W]
 
 ## Related Elements

@@ -38,7 +38,7 @@ sources:
 # NWEA MAP Growth assessment and longitudinal achievement database
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 12 claims (12 for) · 4 studies (4 associational), `q2`–`q3` · 0 of 4 report an effect size · 12 claims rest on one study
+> **Evidence** · 11 claims (11 for) · 4 studies (4 associational), `q2`–`q3` · 0 of 4 report an effect size · 11 claims rest on one study
 
 ## Description
 A longitudinal database of student achievement and growth scores collected through NWEA's MAP Growth assessments and used for large-scale educational analysis.
@@ -59,7 +59,6 @@ A longitudinal database of student achievement and growth scores collected throu
 - [By spring 2021 students remained behind typical prepandemic achievement averages in both math and reading](../claims/spring-2021-students-behind-prepandemic-averages.md) [+W]
 - [Access to 8th-grade Algebra remains highly inequitable across the United States](../claims/8th-grade-algebra-access-inequitable-nationwide.md) [+W]
 - [Algebra access gaps are tied to school poverty levels, geography, and race/ethnicity](../claims/algebra-access-gaps-poverty-geography-race.md) [+W]
-- [The study examined both school Algebra offerings and student placement practices](../claims/algebra-access-two-mechanisms-offerings-and-placement.md) [+W]
 - [Seasonal growth patterns were examined with math and reading scores for over seven million K-8 students across three within-year test occasions](../claims/seven-million-students-three-seasonal-occasions.md) [+M]
 - [Assuming linear within-year achievement growth is often not justified, particularly in reading](../claims/linear-within-year-growth-assumption-unjustified-reading.md) [+M]
 - [Asian students generally pull ahead of White students at a faster rate during summers than during school periods](../claims/asian-white-summer-growth-advantage.md) [+W]
@@ -199,7 +198,6 @@ The empirical basis of the brief is a large NWEA dataset covering "162,000 eight
 
 - [Access to 8th-grade Algebra remains highly inequitable across the United States](../claims/8th-grade-algebra-access-inequitable-nationwide.md) [+W]
 - [Algebra access gaps are tied to school poverty levels, geography, and race/ethnicity](../claims/algebra-access-gaps-poverty-geography-race.md) [+W]
-- [The study examined both school Algebra offerings and student placement practices](../claims/algebra-access-two-mechanisms-offerings-and-placement.md) [+W]
 
 ## Related Elements
 - 

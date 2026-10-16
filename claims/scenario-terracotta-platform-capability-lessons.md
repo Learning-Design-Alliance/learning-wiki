@@ -41,6 +41,6 @@ The authors' design exercise considering one scenario against the Terracotta DLP
 
 
 ## Related Claims
-- [Enriched DLP data enable two types of theory testing: sustained observation of individuals in a single setting and modeling the same type of learner across contexts](clickstream-enables-two-types-theory-testing.md) — related
+- Enriched DLP data enable two types of theory testing: sustained observation of individuals in a single setting and modeling the same type of learner across contexts — related
 - [Educators rate student data privacy as very or extremely important, but K-12 educators largely remain unaware of the privacy measures DLP research takes](k12-unaware-dlp-privacy-measures.md) — related
 - [In a Terracotta study across classes, retrieval practice review outperformed restudy review on subsequent exams](terracotta-retrieval-practice-outperforms-restudy.md) — related

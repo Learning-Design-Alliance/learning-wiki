@@ -18,7 +18,7 @@ sources:
 # Waterford Early Reading Program™
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (2 for, 5 mixed) · 3 studies (2 causal, 1 quant-synthesis), `q2` · 1 of 3 report an effect size · 7 claims rest on one study
+> **Evidence** · 6 claims (2 for, 4 mixed) · 2 studies (1 causal, 1 quant-synthesis), `q2` · 1 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 Waterford Early Reading Program™ is a software-based K–2 reading curriculum developed and provided by Waterford.org, combining individualized computer sessions with literacy activities, multimedia content, and teacher management tools.
@@ -32,7 +32,6 @@ Waterford Early Reading Program™ is a software-based K–2 reading curriculum 
 - [In the qualifying quasi-experimental study, at-risk Kindergarten students using Waterford Level One for 15-minute daily sessions were matched to comparison students and pretested in fall and posttested in spring](../claims/werp-hecht-close-study-design.md) [+W]
 - [Waterford Early Reading Program™ showed no discernible effects on comprehension, with a small non-significant effect size on vocabulary](../claims/werp-no-discernible-comprehension.md) [~W]
 - [The WWC rated Waterford Early Reading Program™ as having potentially positive effects on alphabetics, based on a substantively important average effect size with no statistically significant individual outcomes](../claims/werp-potentially-positive-alphabetics.md) [+W]
-- [Baseline equivalence was established only for low-achieving students, so analyses for other grades and subpopulations do not meet WWC evidence standards](../claims/reading-plus-baseline-equivalence-low-achievers-only.md) [~W]
 - [No individual alphabetics outcome reached statistical significance in the WWC analysis](../claims/voyager-alphabetics-null-significance.md) [~W]
 
 ## Related Products and Programmes
@@ -81,7 +80,6 @@ Waterford Early Reading Program™ is "a software-based curriculum for students 
 - [In the qualifying quasi-experimental study, at-risk Kindergarten students using Waterford Level One for 15-minute daily sessions were matched to comparison students and pretested in fall and posttested in spring](../claims/werp-hecht-close-study-design.md) [+W]
 - [Waterford Early Reading Program™ showed no discernible effects on comprehension, with a small non-significant effect size on vocabulary](../claims/werp-no-discernible-comprehension.md) [~W]
 - [The WWC rated Waterford Early Reading Program™ as having potentially positive effects on alphabetics, based on a substantively important average effect size with no statistically significant individual outcomes](../claims/werp-potentially-positive-alphabetics.md) [+W]
-- [Baseline equivalence was established only for low-achieving students, so analyses for other grades and subpopulations do not meet WWC evidence standards](../claims/reading-plus-baseline-equivalence-low-achievers-only.md) [~W]
 - [No individual alphabetics outcome reached statistical significance in the WWC analysis](../claims/voyager-alphabetics-null-significance.md) [~W]
 
 ## Related Elements

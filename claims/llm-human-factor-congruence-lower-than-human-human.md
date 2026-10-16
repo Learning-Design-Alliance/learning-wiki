@@ -44,5 +44,5 @@ Repeated resampling analysis (100 iterations, matched 120-respondent samples) co
 
 ## Related Claims
 - [Item-to-factor loading patterns qualitatively differ between human and LLM EFA solutions](human-llm-loading-structures-qualitatively-different.md) — related
-- [Parallel analysis yields different factor counts for humans and LLMs on both instruments](parallel-analysis-factor-retention-differs-humans-llms.md) — related
+- Parallel analysis yields different factor counts for humans and LLMs on both instruments — related
 - [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — related

@@ -16,7 +16,7 @@ sources:
 # Regression discontinuity design framework for estimating intervention effects at a cutoff
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies (2 causal, 1 theoretical), `q2`–`q3` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 theoretical), `q2`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The document describes the RD design as a method for obtaining unbiased estimates of education intervention effects when a continuous scoring rule assigns units to treatment or comparison around a pre-set cutoff. The effect is estimated as the difference between the treatment and comparison regression lines at the cutoff: "an effect occurs if there is a 'discontinuity' in the two regression lines at the cutoff." The estimate pertains to units right at the cutoff.
@@ -40,7 +40,6 @@ The document describes the RD design as a method for obtaining unbiased estimate
 
 ### Claims
 
-- [Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial](../claims/rd-replication-matches-experimental-estimates-two-interventions.md) [+W]
 - [Robust RDD methods protect against model misspecification but require much larger sample sizes to detect small effects](../claims/rdd-robust-methods-need-larger-samples.md) [+W]
 - [Offering SES to eligible applicants near the cutoff in oversubscribed districts has no statistically significant impact on reading or math achievement](../claims/ses-offer-no-significant-impact-itt.md) [+W]
 - [Participating in SES (averaging about 21 hours) shows no statistically significant impact on reading or math achievement for students near the cutoff](../claims/ses-participation-no-significant-impact-tot.md) [+W]

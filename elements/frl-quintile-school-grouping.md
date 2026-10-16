@@ -17,7 +17,7 @@ sources:
 # School disadvantage classification by free/reduced-price lunch quintiles within districts
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 To measure school disadvantage, the study ranked schools "by grade span (elementary separate from middle school) within each district based on the percentage of their students eligible for free and reduced price lunch (FRL), an indicator of poverty", then divided them into five equal-sized groups. The first quintile represents the highest-poverty schools and the fifth the lowest. Across all districts combined, average FRL ranged from 92 percent in the highest-poverty elementary quintile to 33 percent in the lowest, with variation across districts. An alternative ranking by prior-year school achievement was used as a robustness check.
@@ -39,7 +39,6 @@ To measure school disadvantage, the study ranked schools "by grade span (element
 
 ## Claims
 
-- [Main results are robust to grouping schools into four poverty quartiles instead of five quintiles](../claims/results-robust-to-quartile-grouping.md) [+W]
 - [The distribution of highest-performing teachers across schools is statistically unlikely to be random, with significance for middle school teachers on both poverty and achievement groupings but for elementary teachers only on achievement groupings](../claims/highest-performing-teacher-distribution-nonuniform.md) [+W]
 
 ## Related Elements

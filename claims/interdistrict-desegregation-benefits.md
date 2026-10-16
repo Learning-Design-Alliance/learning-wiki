@@ -46,4 +46,4 @@ The report's review of research on eight interdistrict school desegregation prog
 - [Interdistrict desegregation choice plans decrease segregation, help close racial achievement gaps, and improve racial attitudes and long-term outcomes](interdistrict-desegregation-choice-benefits.md) — possibly the same claim (merge candidate)
 - [Graduates of desegregated 1970s high schools report both benefits from desegregation and experiences of backlash against it](desegregation-graduates-report-benefits-and-backlash.md) — related
 - [Charter schools show favorable high school graduation and college-entry results suggesting possible long-term benefits](charter-schools-favorable-graduation-and-college-entry-results.md) — related
-- [Charter school research has historically focused on test scores, with longer-term outcomes only recently examined](charter-research-shift-from-test-scores-to-long-term-outcomes.md) — related
+- Charter school research has historically focused on test scores, with longer-term outcomes only recently examined — related

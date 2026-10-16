@@ -43,6 +43,6 @@ This is the protocol's discussion-section synthesis (authors' interpretation) of
 
 
 ## Related Claims
-- [The study's correlational, cross-sectional design limits internal validity and causal interpretation](correlational-design-limits-epistemic-freedom-study.md) — related
+- The study's correlational, cross-sectional design limits internal validity and causal interpretation — related
 - [Distributed Practice Improves Retention](spaced-practice-improves-retention.md) — related
 - [Computer programmer employment is projected to decline 10% from 2021 to 2031 due to automation, and apprenticeships placed in automation-vulnerable pathways risk reinforcing disparities](automation-declines-programmer-jobs-apprenticeship-risk.md) — related

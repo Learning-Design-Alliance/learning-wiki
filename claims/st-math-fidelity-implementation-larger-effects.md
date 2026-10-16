@@ -68,4 +68,4 @@ Grade-specific regressions in the fidelity sample (N = 168, 156, 173 matched pai
 - [Among grades provided with ST Math, only grade 2 showed statistically significant CST advantages; grades 3, 4, and 5 did not](st-math-itt-grade2-only-significant.md) — related
 - Matched treatment and comparison grade-level clusters were balanced on observable baseline characteristics, with differences below a quarter of a standard deviation — related
 - [Grades provided with ST Math have significantly larger proportions of students advanced, or proficient or advanced, on the mathematics CST than comparison grades](st-math-itt-pooled-proficiency-proportions.md) — related
-- [The ST Math evaluation's quasi-experimental design cannot rule out selection bias because treatment grades volunteered to participate](st-math-evaluation-voluntary-participation-selection-bias.md) — related
+- The ST Math evaluation's quasi-experimental design cannot rule out selection bias because treatment grades volunteered to participate — related

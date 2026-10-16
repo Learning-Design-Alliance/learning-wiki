@@ -16,7 +16,7 @@ sources:
 # Emerging LA-specific privacy conceptualizations: contextual integrity and intellectual privacy
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Beyond the established categories, the review identifies two emerging, LA-relevant approaches. Contextual integrity associates privacy with information flows regulated by relative norms (context, actors, attributes, transmission principles); intellectual privacy protects "intellectual activities such as searching for information, writing, and thinking," and is seen as a condition for student autonomy. The authors present both as important dimensions for LA communities to consider, not as the only ways to define privacy in LA.
@@ -38,9 +38,7 @@ Beyond the established categories, the review identifies two emerging, LA-releva
 
 ### Claims
 
-- [La Privacy Conceptual Unclarity Ethics Conflation](../claims/la-privacy-conceptual-unclarity-ethics-conflation.md) [+M]
 - [In a scoping review of 59 privacy-focused LA articles, 74% addressed privacy without defining or conceptualizing it](../claims/74-percent-la-articles-no-privacy-definition.md) [+W]
-- [Among LA articles that define privacy, control (15%) is the most common established definition; none define privacy as a commodity](../claims/la-privacy-definitions-distribution-control-most-common.md) [+W]
 
 ## Related Theories
 

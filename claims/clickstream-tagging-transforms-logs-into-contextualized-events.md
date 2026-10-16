@@ -42,7 +42,7 @@ Descriptive account of the CLICKSTREAM prototyping process, in which learning sc
 
 ## Related Claims
 - [Prediction algorithms forecast student achievement from small windows of data, more accurately when data are enriched with instructional design and learning-process detail](enriched-data-improve-achievement-prediction.md) — a broader claim this one bears on
-- [Enriched DLP data enable two types of theory testing: sustained observation of individuals in a single setting and modeling the same type of learner across contexts](clickstream-enables-two-types-theory-testing.md) — related
+- Enriched DLP data enable two types of theory testing: sustained observation of individuals in a single setting and modeling the same type of learner across contexts — related
 - [LMS log analysis showed groups spent roughly 9 days to 2 weeks per module after M1, and completed implementation (M5) faster than expected](lms-module-timing-m5-faster.md) — related
 - [LMS process indicators documented adaptive engagement during the eight-week intervention, with most experimental students reaching mastery by unit end](lms-process-indicators-pilot.md) — related
 - [A proposed three-part process-evidence submission (deliverable, AI interaction logs, video reflection) shifts displacement upstream rather than eliminating it](three-part-process-evidence-submission.md) — related

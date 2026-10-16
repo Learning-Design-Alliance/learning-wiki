@@ -42,7 +42,7 @@ Study 1 exploratory factor analysis with 486 students using principal axis facto
 
 ## Related Claims
 - [GAA-LS scores correlate positively with feedback engagement, academic integrity intention, and responsible AI use intention, and differ across known groups](gaa-ls-criterion-known-group-validity.md) — related
-- [Confirmatory factor analysis in an independent sample supports the five-factor correlated model over collapsed and one-factor alternatives](gaa-ls-cfa-model-comparison.md) — related
+- Confirmatory factor analysis in an independent sample supports the five-factor correlated model over collapsed and one-factor alternatives — related
 - [The GAA-LS shows satisfactory-to-strong internal consistency and evidence of convergent and discriminant validity](gaa-ls-reliability-convergent-discriminant.md) — related
 - Exploratory factor analysis indicates a four-factor solution best fits the survey response data — related
 - [Feedback engagement indirectly associates GAA-LS scores with academic integrity intention in a cross-sectional structural model](gaa-ls-feedback-engagement-indirect-association.md) — related

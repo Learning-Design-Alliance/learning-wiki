@@ -43,5 +43,5 @@ Qualitative visual analysis of EFA loading structures (Figure 1) for both instru
 
 
 ## Related Claims
-- [Parallel analysis yields different factor counts for humans and LLMs on both instruments](parallel-analysis-factor-retention-differs-humans-llms.md) — related
+- Parallel analysis yields different factor counts for humans and LLMs on both instruments — related
 - [LLM-human factor-structure similarity is consistently lower than human-human similarity on both assessments](llm-human-factor-congruence-lower-than-human-human.md) — related

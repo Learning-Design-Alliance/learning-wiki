@@ -44,5 +44,5 @@ External-validity discussion of a questionnaire study assessing shallow informat
 
 ## Related Claims
 - [Cromley and Azevedo's prompted strategy-use measure correlated .23–.74 with other measures and accounted for about 30% of comprehension variance on average](cromley-azevedo-strategy-mc-correlations-variance.md) — related
-- [Within-method convergence (RSAT coding vs human coding; G vs d') indicates stability, not construct validity](within-method-convergence-stability-not-construct-validity.md) — related
+- Within-method convergence (RSAT coding vs human coding; G vs d') indicates stability, not construct validity — related
 - [Schellings' questionnaire-thinking-aloud convergent correlation of .51 rests on a small sample and is questionable against other studies](schellings-convergent-validity-n16-correlation-51.md) — related

@@ -16,7 +16,7 @@ sources:
 # Privacy as a plural, context-dependent concept operationalized as restriction of access to personal information
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article frames privacy as a concept lacking universal definition, quoting Solove that "privacy is not reducible to a singular essence; it is a plurality of different things." Definitions vary by time period, cultural norms, physical location, and field of study. For its case study, the article adopts the operational definition of privacy as "the restriction of access to an individual's personal information," and draws on Nissenbaum's contextual and Solove's bottom-up approaches.
@@ -37,7 +37,6 @@ The article frames privacy as a concept lacking universal definition, quoting So
 
 ### Claims
 
-- [Conceptual unclarity in LA: privacy is used interchangeably or in overlapping ways with ethics, security, and anonymity](../claims/la-privacy-conceptual-unclarity-ethics-conflation.md) [+W]
 - [In a scoping review of 59 privacy-focused LA articles, 74% addressed privacy without defining or conceptualizing it](../claims/74-percent-la-articles-no-privacy-definition.md) [+W]
 
 ## Related Theories

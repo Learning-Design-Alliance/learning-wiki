@@ -43,5 +43,5 @@ The paper reports, in its Mission, Values and Aspirations section, the network's
 
 
 ## Related Claims
-- [Studies run on the E-TRIALS platform reach far larger samples than is typical in educational research, with nearly 20% enrolling over 1,000 participants](e-trials-large-sample-studies.md) — related
-- [The DLP-as-research-infrastructure community is small and fragmented: the DLP-focused cluster was one of five bibliographic-coupling communities and only 20.6% of filtered papers](dlp-subfield-small-and-fragmented.md) — related
+- Studies run on the E-TRIALS platform reach far larger samples than is typical in educational research, with nearly 20% enrolling over 1,000 participants — related
+- The DLP-as-research-infrastructure community is small and fragmented: the DLP-focused cluster was one of five bibliographic-coupling communities and only 20.6% of filtered papers — related

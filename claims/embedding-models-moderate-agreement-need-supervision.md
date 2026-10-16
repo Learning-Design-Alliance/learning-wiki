@@ -44,7 +44,7 @@ Evaluation of SBERT, USE, T5, BERT and RoBERTa using cosine similarity against r
 
 ## Related Claims
 - [Even the best LLM grader reaches only moderate agreement with human teachers, below the threshold for good reliability](llm-grading-moderate-human-agreement-icc.md) — related
-- [Two human graders reached almost perfect agreement (QWK = 0.95), though one waterfall-model question showed only substantial agreement](human-graders-almost-perfect-agreement-qwk-095.md) — related
+- Two human graders reached almost perfect agreement (QWK = 0.95), though one waterfall-model question showed only substantial agreement — related
 - [Fine-tuned PLMs measure high-inference teaching practices better when the variable requires less pedagogical expertise, matching human-rater agreement on lexical variables but degrading on inference-heavy ones](plm-performance-depends-on-pedagogical-expertise-required.md) — related
 - [GPT-4 achieved almost perfect inter-rater reliability with faculty after three iterations of rubric engineering on three of four medical school OEQ questions](gpt4-almost-perfect-irr-after-rubric-engineering.md) — related
 - [The most challenging holistic-rubric question reached only moderate inter-rater reliability (kw=0.54) after three iterations](holistic-hardest-question-moderate-reliability.md) — related

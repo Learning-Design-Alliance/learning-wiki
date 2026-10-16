@@ -66,6 +66,6 @@ Within the same advantages synthesis, the review cites one reviewed study report
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related
 - [Immersive technologies are rarely adopted in robotics GBL/gamification but studies using them report heightened engagement, improved spatial reasoning, and enhanced perceived realism](immersive-tech-underused-positive-outcomes-robotics.md) — related
-- [Most VR/AR-supported K-12 STEM studies targeted elementary students and used quantitative methods, with most samples under 100 participants](elementary-focus-quantitative-methods-small-samples.md) — related
-- [VR/AR-supported K-12 STEM research is unevenly distributed across subjects: science dominates, engineering has no studies](vr-ar-uneven-subject-distribution-science-dominant.md) — related
+- Most VR/AR-supported K-12 STEM studies targeted elementary students and used quantitative methods, with most samples under 100 participants — related
+- VR/AR-supported K-12 STEM research is unevenly distributed across subjects: science dominates, engineering has no studies — related
 - [No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability](no-difference-operational-skills-usability.md) — related

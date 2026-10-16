@@ -17,7 +17,7 @@ sources:
 # Challenge-by-modification pattern: learners modify a minimal working program to test their own model
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The QRC's instructional pattern is a minimal, transparent computer realization of an experiment that learners modify to embody their own favored model. The article states "Any directly real model whatever needs modification of only three lines of the code", covering hidden-variable construction and the measurement parts, while the random angle choice stays unaltered. Because any directly real model can in principle be realized on classical computers, modification is trivial, so the difficulty lies in the physics, not the programming.
@@ -47,7 +47,6 @@ The QRC's instructional pattern is a minimal, transparent computer realization o
 - [Qrc Simulation Violates Bell 99 Percent 800 Pairs](../claims/qrc-simulation-violates-bell-99-percent-800-pairs.md) [+M]
 - [Classical Indeterminism Model Fails Anticorrelation](../claims/classical-indeterminism-model-fails-anticorrelation.md) [+M]
 - [Demanding anti-correlation is argued to be didactically superior to employing the CHSH inequality in the QRC](../claims/anti-correlation-superior-to-chsh-didactically.md) [+W]
-- [Cheating hidden variables can violate Bell about 85% of the time only by sacrificing anti-correlation](../claims/cheating-hidden-variables-85-percent-lose-anticorrelation.md) [+W]
 - [Hidden variables that skip preparing certain pair classes violate the Bell and CHSH inequality in half of all runs](../claims/hidden-variables-violate-bell-50-percent.md) [+W]
 - [An initial QRC deployment terminated artificially created pseudoscience debates on several popular web portals](../claims/qrc-deployment-terminated-online-debates.md) [+W]
 

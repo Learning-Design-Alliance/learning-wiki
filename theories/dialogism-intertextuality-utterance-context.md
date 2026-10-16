@@ -16,7 +16,7 @@ sources:
 # Dialogism: the relation of one utterance to other utterances as the context informing all writing
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Dialogism, sometimes translated as intertextuality, is Bakhtin's term for the relation of one utterance to other utterances. It is not dialogue in the usual sense but "the context which informs utterance," without which utterance cannot exist. Ewald uses dialogism to argue that composing is never the writer working alone but always interaction with the world, readers, and subjects, making all writing sociohistorical and collaborative.
@@ -38,7 +38,6 @@ Dialogism, sometimes translated as intertextuality, is Bakhtin's term for the re
 ### Claims
 
 - [Dialogue underpins networked learning: thinking in networks means thinking through collaborative dialogue](../claims/dialogue-underpins-networked-learning.md) [+W]
-- [The dialogical pair of responding and responded utterances, not a single utterance, is the minimum unit of analysis for SCMD research](../claims/topical-pair-minimum-unit-analysis-scmd.md) [+W]
 - [A collective unit of subjects emerges when two utterances form a dialogical pair in SCMD](../claims/collective-subject-emergence-dialogical-pair.md) [+W]
 
 ## Related Theories

@@ -43,5 +43,5 @@ The report's introductory overview asserts, citing prior publications (Mathews 2
 
 
 ## Related Claims
-- [This is the first high-quality study to rigorously examine the impacts of the KIPP charter school network at all elementary and secondary grade levels](first-rigorous-study-kipp-all-grade-levels.md) — related
+- This is the first high-quality study to rigorously examine the impacts of the KIPP charter school network at all elementary and secondary grade levels — related
 - [The Kauffman School's achievement impacts are higher than the average impacts found in studies of other charter schools](kauffman-impacts-exceed-average-charter-impacts.md) — related

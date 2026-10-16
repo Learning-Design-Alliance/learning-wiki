@@ -49,4 +49,4 @@ The publisher's abstract states the article's aim: it "examines how educators ca
 - [The evidence base for UCSMP is small, with no studies meeting WWC group design standards without reservations](ucsmp-small-evidence-base-no-unreserved-studies.md) — related
 - [The retention effect of Balanced Leadership® was not statistically significant in the contributing study](balanced-leadership-retention-not-statistically-significant.md) — related
 - [Single-case evidence on FBA-based interventions for social-emotional competence does not reach the threshold for an effectiveness rating](fba-social-emotional-competence-below-threshold.md) — related
-- [The eligible evidence base for FBA-based interventions consists entirely of single-case design studies, 17 of which met pilot standards](fba-evidence-base-single-case-only.md) — related
+- The eligible evidence base for FBA-based interventions consists entirely of single-case design studies, 17 of which met pilot standards — related

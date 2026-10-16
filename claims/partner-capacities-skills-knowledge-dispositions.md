@@ -44,5 +44,5 @@ Qualitative analysis of structured reflections gathered from 10 researchers and 
 
 ## Related Claims
 - [Dispositions such as openness and shared responsibility are shaped by conditions, not fixed individual traits](dispositions-shaped-by-conditions.md) — related
-- [The study's findings derive from structured reflections of 10 researchers and 11 program designers, not direct partner reports](reflection-method-10-researchers-11-program-staff.md) — related
+- The study's findings derive from structured reflections of 10 researchers and 11 program designers, not direct partner reports — related
 - [Staff reflections identify partner skills, knowledge, and dispositions that support full participation in Collaborative Innovation](staff-reflections-capacities-collaborative-innovation.md) — possibly the same claim (merge candidate)

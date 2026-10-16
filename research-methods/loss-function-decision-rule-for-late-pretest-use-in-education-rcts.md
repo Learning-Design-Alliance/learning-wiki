@@ -21,7 +21,7 @@ sources:
 # Loss-function decision rule for late pretest use in education RCTs
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 3 studies (2 theoretical, 1 associational), `q2` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 3 studies (2 theoretical, 1 associational), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 Education RCTs often use pretest-posttest designs because including pretests improves the precision of estimated treatment effects. However, when pretests are collected after random assignment, analysts should not automatically include them: the decision "involves a variance-bias trade-off" that should be evaluated using a loss function approach before late pretest data are used in impact estimation.
@@ -35,7 +35,6 @@ Education RCTs often use pretest-posttest designs because including pretests imp
 ### Claims
 
 - [Including late pretest data in RCT analyses can bias post-test impact estimates because pretests are collected after random assignment](../claims/late-pretest-inclusion-can-bias-posttest-estimates.md) [+M]
-- [Deciding whether to collect and use late pretest data in RCTs involves a variance-bias trade-off](../claims/late-pretest-variance-bias-tradeoff.md) [+M]
 - [The variance-bias trade-off for late pretests is addressed both theoretically and empirically for several commonly used impact estimators](../claims/late-pretest-analyzed-for-several-estimators.md) [+W]
 - [In RCTs of interventions to improve student test scores, estimators including late pretests will typically be preferred to estimators excluding them or using other baseline data](../claims/late-pretest-estimators-typically-preferred.md) [+W]
 - [The late-pretest estimator preference holds as long as test score impacts do not grow very quickly early in the school year](../claims/late-pretest-preference-conditional-on-slow-early-impact-growth.md) [+W] — (also cited [~W])
@@ -76,7 +75,6 @@ The article proposes evaluating the late pretest decision using a loss function 
 
 ### Claims
 
-- [Late Pretest Variance Bias Tradeoff](../claims/late-pretest-variance-bias-tradeoff.md) [+M]
 - [The variance-bias trade-off for late pretests is addressed both theoretically and empirically for several commonly used impact estimators](../claims/late-pretest-analyzed-for-several-estimators.md) [+W]
 - [Including late pretest data in RCT analyses can bias post-test impact estimates because pretests are collected after random assignment](../claims/late-pretest-inclusion-can-bias-posttest-estimates.md) [+W]
 - [In RCTs of interventions to improve student test scores, estimators including late pretests will typically be preferred to estimators excluding them or using other baseline data](../claims/late-pretest-estimators-typically-preferred.md) [+W]
@@ -125,7 +123,6 @@ The paper organizes the late pretest decision as a tradeoff: including late pret
 - [Late Pretest Inclusion Can Bias Impact Estimates](../claims/late-pretest-inclusion-can-bias-posttest-estimates.md) [+M]
 - [In RCTs of interventions to improve student test scores, estimators including late pretests will typically be preferred to estimators excluding them or using other baseline data](../claims/late-pretest-estimators-typically-preferred.md) [+W]
 - [The late-pretest estimator preference holds as long as test score impacts do not grow very quickly early in the school year](../claims/late-pretest-preference-conditional-on-slow-early-impact-growth.md) [~W]
-- [Deciding whether to collect and use late pretest data in RCTs involves a variance-bias trade-off](../claims/late-pretest-variance-bias-tradeoff.md) [+W]
 - [The variance-bias trade-off for late pretests is addressed both theoretically and empirically for several commonly used impact estimators](../claims/late-pretest-analyzed-for-several-estimators.md) [+W]
 - [Including late pretest data in RCT analyses can bias post-test impact estimates because pretests are collected after random assignment](../claims/late-pretest-inclusion-can-bias-posttest-estimates.md) [+W]
 

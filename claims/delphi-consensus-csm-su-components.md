@@ -43,4 +43,4 @@ Two-round Delphi validation with 10 Cypriot field experts (six senior principals
 
 
 ## Related Claims
-- [The study's scope is limited by English-only sources, a Cyprus-based Delphi panel, and interpretive synthesis](csm-su-validation-scope-limitations.md) — related
+- The study's scope is limited by English-only sources, a Cyprus-based Delphi panel, and interpretive synthesis — related

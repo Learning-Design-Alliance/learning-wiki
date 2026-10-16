@@ -62,7 +62,7 @@ Artifact and interview analysis in Research Question 2 found most schools showed
 
 
 ## Related Claims
-- [Education research urges cultures of inquiry and root-cause determination but provides almost no detailed methodology for finding root causes](no-detailed-root-cause-methodology-guidance.md) — related
+- Education research urges cultures of inquiry and root-cause determination but provides almost no detailed methodology for finding root causes — related
 - [SIPs generally reflect surface-level discussions of root causes, leading to plans that address symptoms rather than causes](sips-do-not-guide-root-cause-efforts.md) — related
 - [The RCS Core Team's root cause analysis identified fear and political influence, lack of comprehensive and inclusive curriculum, and lack of awareness as central causes of the discourse challenge](rcs-root-causes-fear-curriculum-awareness.md) — related
 - A district equity study found a lack of clear and consistent focus on delivering high-quality instructional support to all students — related

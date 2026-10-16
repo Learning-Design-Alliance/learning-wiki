@@ -43,5 +43,5 @@ The targeted review of published and unpublished materials, with input from expe
 
 
 ## Related Claims
-- [Most research on noncognitive assessment and segmentation in postsecondary education is theoretical rather than applied to college practice](noncognitive-assessment-research-mostly-theoretical.md) — related
+- Most research on noncognitive assessment and segmentation in postsecondary education is theoretical rather than applied to college practice — related
 - [No published research describes colleges using segmentation to improve student success, though authors and experts see promise in the approach](no-published-segmentation-application-example.md) — related

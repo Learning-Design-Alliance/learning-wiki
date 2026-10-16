@@ -18,7 +18,7 @@ sources:
 # Contextualised SWOT Model for School Units
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A theoretically informed, participatory four-phase SWOT-based strategic-management framework for diagnosing, prioritising, implementing, and reviewing school-unit improvement, developed by Keravnos et al.
@@ -30,7 +30,6 @@ A theoretically informed, participatory four-phase SWOT-based strategic-manageme
 ### Claims
 - [Delphi experts reached 80% or higher consensus on all major CSM-SU components](../claims/delphi-consensus-csm-su-components.md) [+M]
 - [Relational trust shapes whether SWOT functions as organisational learning or superficial compliance](../claims/trust-determines-swot-diagnostic-quality.md) [+M]
-- [The study's scope is limited by English-only sources, a Cyprus-based Delphi panel, and interpretive synthesis](../claims/csm-su-validation-scope-limitations.md) [~W]
 - [SWOT in educational settings is typically applied superficially, episodically, and detached from improvement cycles](../claims/swot-applied-superficially-episodically-in-schools.md) [+M]
 
 ## Related Products and Programmes
@@ -69,7 +68,6 @@ The CSM-SU is a theoretically informed framework that repositions SWOT analysis 
 
 - [Delphi Consensus Csm Su Components](../claims/delphi-consensus-csm-su-components.md) [+M]
 - [Trust Determines Swot Diagnostic Quality](../claims/trust-determines-swot-diagnostic-quality.md) [+M]
-- [The study's scope is limited by English-only sources, a Cyprus-based Delphi panel, and interpretive synthesis](../claims/csm-su-validation-scope-limitations.md) [~W]
 - [SWOT in educational settings is typically applied superficially, episodically, and detached from improvement cycles](../claims/swot-applied-superficially-episodically-in-schools.md) [+M]
 
 ## Related Theories

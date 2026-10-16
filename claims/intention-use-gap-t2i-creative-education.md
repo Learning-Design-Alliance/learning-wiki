@@ -60,7 +60,7 @@ Coefficients of determination from the structural model (UB R² p = 0.01; PR R²
 ## Related Claims
 - [Behavioral intention has a statistically significant but weak positive effect on actual MALL usage behavior in EFL learning](bi-weak-effect-actual-mall-use.md) — related
 - [In a Vietnamese EFL sample, all six Meta-UTAUT hypotheses on MALL adoption were accepted with p-values below 0.05](meta-utaut-hypotheses-accepted-mall-efl.md) — reports the opposite
-- [The measurement model showed adequate reliability and convergent validity, and BI and UB models showed substantial explanatory power](measurement-model-reliability-mall-efl.md) — related
+- The measurement model showed adequate reliability and convergent validity, and BI and UB models showed substantial explanatory power — related
 - [Learning-oriented intentions did not significantly predict enacted in-chat behavior; only selecting final solutions predicted executive and answer-seeking requests](intent-enactment-gap-genai-help-seeking.md) — related
 - [Students' stated pre-interaction intentions only weakly correspond to their enacted help-seeking with an LLM](stated-intentions-weakly-match-enacted-help-seeking.md) — a broader claim this one bears on
 - [Performance expectancy, social influence, novelty value, and creative competence positively predict art and design students' behavioral intention to use T2I GenAI tools](pe-si-nv-cc-positive-predict-bi-t2i.md) — related

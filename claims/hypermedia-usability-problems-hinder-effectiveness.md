@@ -45,7 +45,7 @@ The review's analysis identifies usability problems as the first of four reasons
 
 - [Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)](design-principle-effects-moderated-by-pacing-and-complexity.md) — the general claim this finding bears on, with the studies behind it
 - [Studies on the effectiveness of hypermedia learning have produced ambiguous results](ambiguous-hypermedia-effectiveness-results.md) — related
-- [Lack of conceptual foundations and methodological shortcomings of many hypermedia studies contribute to ambiguous effectiveness findings](conceptual-methodological-shortcomings-hypermedia-research.md) — related
+- Lack of conceptual foundations and methodological shortcomings of many hypermedia studies contribute to ambiguous effectiveness findings — related
 - [Learner characteristics — prior knowledge, self-regulatory skills, cognitive styles, and attitudes towards learning — moderate hypermedia learning effectiveness](learner-characteristics-moderate-hypermedia-effectiveness.md) — related
 - [Reported limitations of AR enhanced analytics include cognitive overload from immersive environments, technological constraints, usability challenges, and inconsistent measurement approaches](ar-analytics-limitations-cognitive-overload-inconsistency.md) — related
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related

@@ -46,11 +46,11 @@ Authors' discussion interpretation of the null main effect, citing treatment-con
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 
 - [Mastery learning implementation did not reduce material covered or instructional pace, contradicting the Robin Hood contention](mastery-learning-did-not-slow-pace-or-scope.md) — the general claim this finding bears on, with the studies behind it
-- [A null study finding can have multiple possible causes and requires interpretation before it informs decisions](null-findings-require-interpretation-of-causes.md) — a broader claim this one bears on
+- A null study finding can have multiple possible causes and requires interpretation before it informs decisions — a broader claim this one bears on
 - [Assigning schools to use RM-CC5 as their core Grade 5 mathematics curriculum for a full year did not significantly change state assessment achievement compared with business-as-usual schools](rm-cc5-core-curriculum-null-achievement-effect.md) — related
 - [Treatment students substantively engaged with RM-CC5 across the school year and all treatment schools met the program's implementation intensity benchmarks, though engagement varied widely between schools and students](rm-cc5-student-engagement-implementation-fidelity.md) — related
 - [RM-CC5 treatment teachers shifted toward one-on-one instruction with individual students, while control teachers led more whole-group and small-group instruction](rm-cc5-teacher-role-shift-one-on-one.md) — related
 - [RM-CC5 usage metrics correlated positively with achievement, and together accounted for an additional 7.3% of variance in Grade 5 scores beyond prior achievement, though causality and relative contributions could not be inferred](rm-cc5-usage-metrics-achievement-correlation.md) — related
-- [Practitioners identified classroom complexities and fidelity-of-implementation variability as considerations experimental research should account for beyond causal effects](practitioner-considerations-experimental-research.md) — related
+- Practitioners identified classroom complexities and fidelity-of-implementation variability as considerations experimental research should account for beyond causal effects — related
 - [Teachers viewed district pacing calendars and standardized assessments as impediments when they pressured rushing through material regardless of mastery](pacing-calendars-standardized-assessments-impediments.md) — related
 - [SSA should also consider students' expectations about their learning](ssa-should-consider-student-expectations.md) — related

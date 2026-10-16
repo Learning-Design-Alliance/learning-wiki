@@ -17,7 +17,7 @@ sources:
 # De-identified data category exempt from agreement restrictions with a re-identification ban
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (1 review, 1 design), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The agreement defines De-identified Data as data where any and all Personally Identifiable Information has been removed, such that no one knows who the students are when analyzing the data. It states that de-identified data is not considered student data and is not subject to the agreement's terms, and cites the U.S. Department of Education that such data may be shared without FERPA consent with any party for any purpose. The receiving party may use it after termination to assist research or develop its educational sites, services, or applications, but under no circumstances shall it attempt re-identification.
@@ -40,7 +40,6 @@ The agreement defines De-identified Data as data where any and all Personally Id
 
 - [GPT-4 de-identification performance varies by course, with lower agreement in courses with longer posts and more qualitative discussion](../claims/gpt4-redaction-performance-varies-by-course-content.md) [~W]
 - [GPT-4 detected 45 PII words that human coders failed to redact across all nine courses](../claims/gpt4-detects-pii-missed-by-human-coders.md) [+W]
-- [Maintaining NHSR status requires no researcher access to identifiable records, no added procedures, and no non-standard prompts](../claims/nhsr-maintenance-three-conditions.md) [+W]
 
 ## Related Elements
 

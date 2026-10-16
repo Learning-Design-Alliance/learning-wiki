@@ -26,7 +26,7 @@ sources:
 # Compound Polynomial growth model
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 13 claims (11 for, 1 mixed, 1 against) · 5 studies (4 associational, 1 design), `q1`–`q2` · 1 of 5 report an effect size · 13 claims rest on one study
+> **Evidence** · 12 claims (10 for, 1 mixed, 1 against) · 5 studies (4 associational, 1 design), `q1`–`q2` · 1 of 5 report an effect size · 12 claims rest on one study
 
 ## Description
 The CP model, developed by Thum and Hauser (2015), is a flexible functional form for describing growth trends with marked seasonal patterns. It combines "a polynomial growth in performance (scores) that occurs within a segment" with "a second polynomial growth model for one or more within-segment growth components," so that the model "includes parameters capturing between- and within-year growth." In this article it is applied in a school evaluation context to estimate school contributions to student growth from fall and spring MAP Growth data across grades two through six, with three levels (time points within students within schools).
@@ -48,7 +48,6 @@ The CP model, developed by Thum and Hauser (2015), is a flexible functional form
 - [Within-year (fall-to-spring) achievement gains decelerate linearly as students move through school, at roughly 1.4 to 4 RIT per year depending on subject and centering grade](../claims/fall-to-spring-gains-decelerate-across-grades.md) [+W]
 - [In the study data, mean spring grade-2 math RIT was 190.6 with linear spring-to-spring growth of 14.5 RIT, and mean fall-to-spring gain in grade-2 math was 13.4 RIT](../claims/grade2-math-growth-descriptives-cp-model.md) [+W]
 - [The proposed seasonal growth model combines polynomial terms for year-to-year growth with piecewise terms for within-year gains and losses](../claims/seasonal-model-combines-polynomial-and-piecewise-features.md) [+W]
-- [The study conducts analyses aimed at reducing barriers to generating empirical benchmarks for repeated measures achievement data](../claims/analyses-reduce-barriers-empirical-benchmarks-repeated-measures.md) [+W]
 - [Seasonal patterns are discrepant across national data sets](../claims/discrepant-seasonal-patterns-national-data-sets.md) [~W]
 - [School contributions to within-year (single-year fall-to-spring) growth correlate at roughly .10 or below with school contributions to growth across elementary school (grades 2–6)](../claims/single-year-growth-decoupled-from-elementary-long-term-growth.md) [+M]
 - [School growth estimates based on two years of data correlate around .55–.58 with estimates based on all five elementary years, below the .90 threshold at which ESSA accountability determinations would likely change](../claims/two-year-vs-five-year-growth-school-rankings-differ.md) [+M]
@@ -180,7 +179,6 @@ The article introduces a general statistical model motivated by the seasonal cha
 ### Claims
 
 - [Interim achievement data exhibit distinctly seasonal patterns that few existing statistical models can approximate](../claims/interim-achievement-data-seasonal-patterns-few-models.md) [+W]
-- [The study conducts analyses aimed at reducing barriers to generating empirical benchmarks for repeated measures achievement data](../claims/analyses-reduce-barriers-empirical-benchmarks-repeated-measures.md) [+W]
 - [Seasonal patterns are discrepant across national data sets](../claims/discrepant-seasonal-patterns-national-data-sets.md) [~W]
 
 ## Related Theories

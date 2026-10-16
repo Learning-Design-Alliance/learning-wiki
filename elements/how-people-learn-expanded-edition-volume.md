@@ -17,7 +17,7 @@ sources:
 # How People Learn: Brain, Mind, Experience, and School (Expanded Edition)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 review), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A National Research Council consensus volume synthesizing the science of learning and its implications for teaching. The Preface explains that "a second NRC committee, the Committee on Learning Research and Educational Practice, was formed" to explore "how better to link the findings of research on the science of learning to actual practice in the classroom," and that the expanded edition "draws on that report to expand on the findings, conclusions, and research agenda" of the original. The volume is organized in four parts covering learners and learning, teachers and teaching, and future directions for research.
@@ -38,7 +38,6 @@ A National Research Council consensus volume synthesizing the science of learnin
 
 ## Claims
 
-- [The expanded edition of How People Learn draws on two NRC committee efforts, the second of which was formed to link learning research to classroom practice](../claims/hpl-expanded-edition-two-committee-origins.md) [+W]
 - [How People Learn II updates and extends the 2000 How People Learn report by synthesizing research on learning from birth through adulthood in formal and informal settings](../claims/hpl-ii-updates-extends-hpl-2000-lifespan.md) [+W]
 
 ## Related Elements

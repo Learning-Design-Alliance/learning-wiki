@@ -17,7 +17,7 @@ sources:
 # Develop a four-year course trajectory with each 9th grader leading to a college-ready curriculum
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Recommendation 1 advises high schools to offer a college-ready curriculum as the default, communicate course requirements to students and families before high school, and plan coursework with each 9th grader. The panel recommends that "at a minimum, all students should pass Algebra I by the end of their 9th-grade year," and that counselors build individualized plans that are living documents referred to by teachers, counselors, and provided to parents.
@@ -38,7 +38,6 @@ Recommendation 1 advises high schools to offer a college-ready curriculum as the
 
 ## Related Strategies
 
-- [16 Of 99 College Access Studies Met Wwc Standards](../claims/16-of-99-college-access-studies-met-wwc-standards.md)
 - [Use assessment measures throughout high school to inform students of college readiness and assist them in overcoming deficiencies](ongoing-college-readiness-assessment.md)
 - [Provide hands-on assistance with college entry steps (entrance exams, searches, visits, applications) and financial aid, beginning before 12th grade](hands-on-college-entry-assistance.md)
 - [Surround students with college-educated mentors and college-going peers to build college aspirations](mentors-peers-college-aspirations.md)

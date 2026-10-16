@@ -45,7 +45,7 @@ The report's longitudinal student-level analysis across its eight study sites re
 ## Related Claims
 - [Charter high schools in Florida and Chicago showed substantial positive effects on both high school completion and college attendance](charter-schools-positive-attainment-effects.md) — a narrower finding that bears on this claim
 - [The study examines charter high school effects on educational attainment in two settings, Florida and Chicago](charter-attainment-study-florida-chicago-scope.md) — related
-- [Charter school research has historically focused on test scores, with longer-term outcomes only recently examined](charter-research-shift-from-test-scores-to-long-term-outcomes.md) — related
+- Charter school research has historically focused on test scores, with longer-term outcomes only recently examined — related
 - [Students attending charter high schools are more likely to graduate from high school and enroll in college](charter-high-schools-more-likely-graduate-enroll-college.md) — a narrower finding that bears on this claim
 - [Students attending charter high schools are more likely to persist in college](charter-high-schools-more-likely-persist-college.md) — related
 - [Charter high school attendees experience higher earnings in their mid-20s](charter-high-schools-higher-mid-twenties-earnings.md) — related

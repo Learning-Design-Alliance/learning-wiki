@@ -46,6 +46,6 @@ The study reports that fostering socioemotional development most strongly influe
 - [High schools that foster 8th-to-9th-grade student growth across multiple dimensions positively influence students' social and academic trajectories](multidimensional-growth-schools-improve-long-run-outcomes.md) — related
 - [School quality measures that exclude schools' impacts on socioemotional development underestimate or misidentify many impactful schools](quality-metrics-excluding-sed-misidentify-impactful-schools.md) — related
 - [Fostering socioemotional development and fostering test score growth had nearly identical impacts on 9th grade test scores](sed-growth-nearly-identical-impact-ninth-grade-test-scores.md) — related
-- [Charter school research has historically focused on test scores, with longer-term outcomes only recently examined](charter-research-shift-from-test-scores-to-long-term-outcomes.md) — related
+- Charter school research has historically focused on test scores, with longer-term outcomes only recently examined — related
 - [School and teacher effects on students' school experiences influence social and educational trajectories more than their effects on academic achievement measures](school-experience-effects-outweigh-achievement-effects.md) — possibly the same claim (merge candidate)
 - [Schools positively impacting one promotion power measure are more likely to positively impact other long-term outcomes, but many show varying effectiveness across outcomes](promotion-power-correlates-across-outcomes-with-variation.md) — related

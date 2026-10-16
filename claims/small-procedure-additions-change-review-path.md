@@ -41,5 +41,5 @@ The guide's Small Changes Can Change the Review Path section lists common trigge
 
 
 ## Related Claims
-- [School districts act as independent gatekeepers whose requirements can exceed IRB determinations](district-independent-gatekeeper-edtech-research.md) — related
-- [Maintaining NHSR status requires no researcher access to identifiable records, no added procedures, and no non-standard prompts](nhsr-maintenance-three-conditions.md) — a narrower finding that bears on this claim
+- School districts act as independent gatekeepers whose requirements can exceed IRB determinations — related
+- Maintaining NHSR status requires no researcher access to identifiable records, no added procedures, and no non-standard prompts — a narrower finding that bears on this claim

@@ -16,7 +16,7 @@ sources:
 # Didactic Randi Challenge (DRC) framework with five necessary characteristics
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 A DRC is a challenge that, according to the article, cannot be met under established laws of nature but would be easy to meet if certain pseudoscientific claims were correct, with enormous rewards for meeting it. The article defines it via five characteristics: "It cannot be met (according to the established laws of nature)", easy meetability if pseudoscientific claims were correct, enormous rewards, independence from anything discreditable as establishment conspiracy, and didactic transparency making everything accessible to an educated lay audience.
@@ -41,7 +41,6 @@ A DRC is a challenge that, according to the article, cannot be met under establi
 ### Claims
 
 - [Demanding anti-correlation is argued to be didactically superior to employing the CHSH inequality in the QRC](../claims/anti-correlation-superior-to-chsh-didactically.md) [+W]
-- [Cheating hidden variables can violate Bell about 85% of the time only by sacrificing anti-correlation](../claims/cheating-hidden-variables-85-percent-lose-anticorrelation.md) [+W]
 - [A classical-indeterminism modification of the QRC program fails to reproduce anti-correlation at equal angles](../claims/classical-indeterminism-model-fails-anticorrelation.md) [+W]
 - [Hidden variables that skip preparing certain pair classes violate the Bell and CHSH inequality in half of all runs](../claims/hidden-variables-violate-bell-50-percent.md) [+W]
 - [An initial QRC deployment terminated artificially created pseudoscience debates on several popular web portals](../claims/qrc-deployment-terminated-online-debates.md) [+W]

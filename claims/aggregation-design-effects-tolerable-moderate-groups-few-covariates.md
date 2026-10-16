@@ -43,4 +43,4 @@ The article reports that "design effects from aggregation are tolerable with mod
 
 
 ## Related Claims
-- [Ecological inference methods for subgroup analyses yield large design effects](ecological-inference-subgroup-analyses-large-design-effects.md) — reports the opposite
+- Ecological inference methods for subgroup analyses yield large design effects — reports the opposite

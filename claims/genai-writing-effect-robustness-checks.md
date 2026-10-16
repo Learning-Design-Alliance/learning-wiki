@@ -43,5 +43,5 @@ Prediction-interval diagnostic reported alongside the primary synthesis. The art
 
 
 ## Related Claims
-- [Risk-of-bias classification is the only robust moderator of GenAI writing effects, with unrated studies showing significantly larger effects than high-risk studies](risk-of-bias-moderates-genai-writing-effects.md) — related
+- Risk-of-bias classification is the only robust moderator of GenAI writing effects, with unrated studies showing significantly larger effects than high-risk studies — related
 - [Effects of AI literacy interventions vary considerably across contexts, with most variance between studies (71.361%) and a wide prediction interval](ai-literacy-intervention-effects-highly-heterogeneous.md) — related

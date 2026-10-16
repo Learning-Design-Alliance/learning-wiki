@@ -44,6 +44,6 @@ The WWC reviewed two studies of Twelve Together. The Dynarski et al. (1998) RCT 
 
 ## Related Claims
 - [The supporting evidence for FLIGHT comes from a single randomized controlled trial with compromised random assignment](flight-evidence-single-rct-compromised-randomization.md) — related
-- [The evidence base for first year experience courses consists only of quasi-experimental studies meeting WWC group design standards with reservations](fye-evidence-base-quasi-experimental-reservations.md) — related
+- The evidence base for first year experience courses consists only of quasi-experimental studies meeting WWC group design standards with reservations — related
 - [Twelve Together has potentially positive effects on staying in school, based on a lower (non-significant) dropout rate than control](twelve-together-potentially-positive-staying-in-school.md) — related
 - [Twelve Together shows no discernible effects on progressing in school as measured by highest grade completed](twelve-together-no-effect-progressing-in-school.md) — related

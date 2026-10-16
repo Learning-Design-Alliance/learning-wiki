@@ -45,8 +45,8 @@ The authors' interpretive discussion (not a tested result) linking topic distrib
 ## Related Claims
 - [Topic modelling yielded 16 topics dominated by four: AI in Education & Pedagogy (39.43%), Applied ML & Data Science (21.33%), AI Ethics Risk & Governance (20.83%), and ChatGPT for Teaching, Writing & Coding (7.13%)](four-dominant-bertopic-topics-aied-twitter.md) — related
 - [Public sentiment toward AI in education on Twitter was predominantly positive (81.65% of tweets) across 2019–2024](twitter-aied-discourse-predominantly-positive-sentiment.md) — related
-- [Twitter discourse on AI in education is more practice-oriented and pedagogically granular than policy documents, practitioner accounts, and media coverage](twitter-discourse-more-practice-oriented-than-policy-media.md) — related
-- [Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024](aied-topic-peaked-2023-declined-2024.md) — related
+- Twitter discourse on AI in education is more practice-oriented and pedagogically granular than policy documents, practitioner accounts, and media coverage — related
+- Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024 — related
 - Healthcare dominates citation impact in practice-based AI ethics research, while education contributes disproportionately to interpretive debates despite fewer publications — related
 - ChatGPT research in programming education prioritizes classroom practice and learner interaction, with limited attention to assessment design and governance — related
 - [University AI policy themes fall into three main categories: usage and education, technology and tools, and governance and potential risks](university-ai-policy-three-theme-categories.md) — related

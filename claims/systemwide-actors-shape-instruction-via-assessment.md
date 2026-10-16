@@ -45,4 +45,4 @@ The report's framing, supported by Table 2, which lists instructionally relevant
 ## Related Claims
 - [State assessment design decisions inevitably shape classroom instruction, often narrowing curriculum and teaching practices](state-assessments-shape-instruction.md) — related
 - [Adding writing prompts and essays to state English language arts assessments shifted classroom instruction toward writing](ela-writing-prompts-shift-instruction.md) — a narrower finding that bears on this claim
-- [Decisions made at each stage of a meta-analysis influence its conduct, results, and substantive implications](meta-analysis-stage-decisions-shape-results.md) — related
+- Decisions made at each stage of a meta-analysis influence its conduct, results, and substantive implications — related

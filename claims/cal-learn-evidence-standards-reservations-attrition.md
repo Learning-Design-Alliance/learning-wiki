@@ -49,4 +49,4 @@ WWC research review of the Cal-Learn randomized controlled trial (Mauldon et al.
 - [Financial incentives for teen parents show no discernible effects on completing school](financial-incentives-teen-parents-completing-school.md) — related
 - Meeting the WWC attrition standard is now an important consideration for researchers whose studies may be reviewed by federal evidence reviews — related
 - Federally funded evidence reviews have historically reserved their highest quality ratings for randomized control trials — related
-- [WWC design standards may have contributed to observed improvement in education research quality over the past 15 years](wwc-standards-may-have-improved-research-quality.md) — related
+- WWC design standards may have contributed to observed improvement in education research quality over the past 15 years — related

@@ -12,7 +12,7 @@ generated:
 # Bayesian analysis for complex factorial experiments
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The paper recommends that researchers interested in studying complex interventions adopt Bayesian analysis for factorial designs. Because traditional inference "may require prohibitively large sample sizes to perform complex factorial experiments," Bayesian methods with hierarchical priors and partial pooling make "factorial experiments with many treatment arms vastly more feasible," enabling testing of multiple implementation factors such as dosages and implementation strategies and their interactions.
@@ -23,8 +23,6 @@ The paper recommends that researchers interested in studying complex interventio
 - **Use Bayesian methods to make factorial experiments with many treatment arms feasible when studying complex interventions**: The article recommends Bayesian methods as a tool for researchers studying complex interventions, because they make factorial experiments with many treatment arms vastly more feasible. As the authors conclude, "Bayesian methods are a valuable tool for researchers interested in studying complex interventions. They make factorial experiments with many treatment arms vastly more feasible." The recommendation rests on the simulation evidence of lower MDEs under hierarchical priors and partial pooling. (Daniel Kassler et al. (2019))
 
 ### Claims
-- [Bayesian analysis yields substantially lower minimum detectable effects than classical methods for complex factorial experiments](../claims/bayesian-factorial-lower-mde.md) [+M]
-- [For 72 treatment arms, a classical factorial experiment requires nearly twice the sample size of a Bayesian experiment for a given MDE](../claims/bayesian-72-arm-half-sample-size-classical.md) [+M]
 
 ## Related Research Methods
 -

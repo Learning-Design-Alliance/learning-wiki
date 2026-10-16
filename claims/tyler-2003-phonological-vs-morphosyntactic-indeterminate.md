@@ -47,4 +47,4 @@ Randomized controlled trial comparing phonological awareness training (target-so
 
 ## Related Claims
 - [Tyler et al. (2011) found no statistically significant differences between a phonemic awareness intervention and a morphosyntactic intervention at the US site (indeterminate effect)](tyler-2011-phonemic-awareness-us-site-indeterminate.md) — related
-- [Of 225 reviewed studies of phonological awareness training, only four RCTs met WWC evidence standards without reservations](phonological-awareness-training-thin-rct-evidence-base.md) — related
+- Of 225 reviewed studies of phonological awareness training, only four RCTs met WWC evidence standards without reservations — related

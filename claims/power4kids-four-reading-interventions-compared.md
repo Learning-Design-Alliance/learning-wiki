@@ -45,7 +45,7 @@ Descriptive statement from the report overview naming the four programs under st
 ## Related Claims
 - [The four Power4Kids interventions delivered about 100 hours of pull-out instruction in small groups of three students over one school year](power4kids-100-hours-small-group-pullout-instruction.md) — related
 - [The Power4Kids first-year report presents impacts on reading achievement at the end of the intervention year, with nearly 800 children in the study](power4kids-first-year-reading-achievement-impacts.md) — related
-- [The Power4Kids evaluation used two-level random assignment: 50 schools to four interventions and struggling readers within schools to treatment or control](power4kids-two-level-random-assignment-design.md) — related
+- The Power4Kids evaluation used two-level random assignment: 50 schools to four interventions and struggling readers within schools to treatment or control — related
 - [Word attack gains from the Wilson Reading System were concentrated among students with high initial word attack or vocabulary scores and students not eligible for free/reduced lunch](wilson-reading-system-subgroup-effects-initial-skill-ses.md) — related
 - [Effects of Corrective Reading varied by student subgroup: positive for students with high pretest vocabulary scores and for students not eligible for free/reduced lunch, but not for their counterparts](corrective-reading-subgroup-moderators.md) — related
 - [Failure Free Reading, the only word-level-plus-comprehension program, showed impacts for third graders but no impacts for fifth graders](failure-free-reading-impacts-third-grade-only.md) — related

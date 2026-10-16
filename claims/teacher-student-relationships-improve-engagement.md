@@ -155,7 +155,7 @@ A narrative review reports this meta-analysis of more than 90 PreK–12 articles
 - [Brief intervention: empathic discipline cuts suspensions](brief-intervention-empathic-discipline-cuts-suspensions.md) — relationship-oriented teacher practice improves behavioral outcomes
 - [Check-ins](../principles/check-ins.md) — a practical routine for building relationship quality
 - [Belonging](../elements/belonging.md) — the design element most directly supported by strong relationships
-- [The study's correlational, cross-sectional design limits internal validity and causal interpretation](correlational-design-limits-epistemic-freedom-study.md) — related
+- The study's correlational, cross-sectional design limits internal validity and causal interpretation — related
 - [Positive teacher-student relationships fulfill relatedness needs and support internalization of learning](relatedness-care-support-internalization.md) — related
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — feedback practices are a relational channel through which teachers sustain engagement
 - [An ERIC digest reports that a 2000 validity study gave strong initial evidence that National Board certification identifies teachers who are more expert and whose students learn more deeply](board-certification-identifies-more-expert-teachers.md) — related

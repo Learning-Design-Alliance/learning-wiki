@@ -45,6 +45,6 @@ First-order Markov model analysis of event-flow transitions from the relevant fe
 ## Related Claims
 - [Enacted Feedback yields higher workflow-specific uptake of AI-generated feedback than Directed and Self-Directed Feedback workflows](enacted-feedback-higher-uptake-than-directed-self-directed.md) — related
 - [Enacted Feedback produces more post-workflow revisions per resource than the comparison workflows](enacted-feedback-more-revisions-per-resource.md) — related
-- [The study dataset comprised 13,037 students, 51,296 student-authored resources, and 70 course offerings across three workflow conditions](ripple-feedback-workflow-dataset-scale.md) — related
+- The study dataset comprised 13,037 students, 51,296 student-authored resources, and 70 course offerings across three workflow conditions — related
 - [TAs adapt rather than copy AI feedback drafts, with moderate draft–final overlap (ROUGE-L F1 = 0.60)](tas-adapt-rather-than-copy-ai-drafts.md) — related
 - [Revision after chatbot feedback predominantly results in successful uptake, indicating effective error correction](penny-feedback-successful-uptake.md) — related

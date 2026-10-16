@@ -13,7 +13,7 @@ generated:
 # SFAILQ: 32-item Six-Facet Artificial Intelligence Literacy Questionnaire
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 A 32-item self-report assessment developed by Liu Qingqi et al. to measure adolescents' and adults' AI literacy across affective experiences, usage skills, cognitive evaluation, ethical norms, responsible use, and self-development.
@@ -25,8 +25,6 @@ A 32-item self-report assessment developed by Liu Qingqi et al. to measure adole
 ### Claims
 
 - [SFAILQ shows high reliability, convergent validity with digital literacy (r = 0.49–0.68), and discriminant validity (HTMT below 0.80)](../claims/sfailq-reliability-convergent-discriminant.md) [+W]
-- [Confirmatory factor analysis supports the six-facet structure with marginal but acceptable fit](../claims/sfailq-cfa-fit.md) [+W]
-- [Exploratory factor analysis of the reduced item pool yields a six-factor solution explaining 73.76% of variance](../claims/sfailq-efa-six-factor-solution.md) [+W]
 - [All SFAILQ dimensions correlate positively with academic self-efficacy (usage skills strongest) and academic engagement (responsible use strongest)](../claims/sfailq-criterion-validity-correlations.md) [+W]
 - [SFAILQ shows scalar measurement invariance across adolescents, young adults, and middle-aged adults](../claims/sfailq-scalar-invariance-age-groups.md) [+W]
 - [Negative affective experience items were dropped due to floor effects and poor discrimination](../claims/negative-affect-items-floor-effect-removed.md) [+W]

@@ -17,7 +17,7 @@ sources:
 # InsideTrack Coaching
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (1 for, 3 mixed, 1 against) · 5 studies (3 causal, 2 review), `q2`–`q3` · 1 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (1 for, 2 mixed, 1 against) · 4 studies (2 causal, 2 review), `q2`–`q3` · 1 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 InsideTrack© Coaching is a postsecondary student-support programme run by InsideTrack that provides proactive, personalized coaching through multiple communication channels to help students overcome academic and non-academic barriers to persistence and graduation.
@@ -27,7 +27,6 @@ InsideTrack© Coaching is a postsecondary student-support programme run by Insid
 - **uCoach® Technology Platform**: The uCoach® Technology Platform is one of the two primary components of InsideTrack© Coaching. It "enables InsideTrack© Coaching to deliver proactive, one-on-one coaching through multiple channels; send automated messages at predefined intervals; track student engagement and coach observations; and predict when to reach out to students on particular issues." Automated messages remind students about deadlines, opportunities, and resources, and the platform includes self-directed resources and can be integrated with institutional systems such as learning management systems. (InsideTrack© Coaching)
 
 ### Claims
-- [The qualifying InsideTrack© study was an RCT across 17 lotteries in eight universities, with only seven 50/50 lotteries meeting WWC standards](../claims/bettinger-baker-2014-rct-lottery-design.md) [~M]
 - [InsideTrack© Coaching costs roughly $390–$500 per student per semester depending on program scale and intensity](../claims/insidetrack-coaching-cost-per-student-semester.md) [~W]
 - [InsideTrack© Coaching shows no discernible effects on college degree completion (attainment)](../claims/insidetrack-coaching-no-discernible-attainment-effect.md) [-M]
 - [InsideTrack© Coaching has potentially positive effects on college credit accumulation and persistence, based on one RCT meeting WWC standards](../claims/insidetrack-coaching-potentially-positive-persistence.md) [+M]
@@ -68,7 +67,6 @@ InsideTrack© Coaching "provides proactive, personalized coaching to help studen
 
 ## Claims
 
-- [The qualifying InsideTrack© study was an RCT across 17 lotteries in eight universities, with only seven 50/50 lotteries meeting WWC standards](../claims/bettinger-baker-2014-rct-lottery-design.md) [~M]
 - [InsideTrack© Coaching costs roughly $390–$500 per student per semester depending on program scale and intensity](../claims/insidetrack-coaching-cost-per-student-semester.md) [~W]
 - [InsideTrack© Coaching shows no discernible effects on college degree completion (attainment)](../claims/insidetrack-coaching-no-discernible-attainment-effect.md) [-M]
 - [InsideTrack© Coaching has potentially positive effects on college credit accumulation and persistence, based on one RCT meeting WWC standards](../claims/insidetrack-coaching-potentially-positive-persistence.md) [+M]
@@ -113,7 +111,6 @@ The uCoach® Technology Platform is one of the two primary components of InsideT
 
 ## Claims
 
-- [The qualifying InsideTrack© study was an RCT across 17 lotteries in eight universities, with only seven 50/50 lotteries meeting WWC standards](../claims/bettinger-baker-2014-rct-lottery-design.md) [~W]
 - [InsideTrack© Coaching costs roughly $390–$500 per student per semester depending on program scale and intensity](../claims/insidetrack-coaching-cost-per-student-semester.md) [~W]
 - [InsideTrack© Coaching shows no discernible effects on college degree completion (attainment)](../claims/insidetrack-coaching-no-discernible-attainment-effect.md) [-W]
 - [InsideTrack© Coaching has potentially positive effects on college credit accumulation and persistence, based on one RCT meeting WWC standards](../claims/insidetrack-coaching-potentially-positive-persistence.md) [+W]

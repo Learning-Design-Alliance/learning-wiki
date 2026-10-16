@@ -156,7 +156,7 @@ The page's description of the research brief "Getting Algebra Placement Right" r
 ## Related Claims
 
 - [Access to 8th-grade Algebra remains highly inequitable across the United States](8th-grade-algebra-access-inequitable-nationwide.md) — related
-- [The study examined both school Algebra offerings and student placement practices](algebra-access-two-mechanisms-offerings-and-placement.md) — related
+- The study examined both school Algebra offerings and student placement practices — related
 - [The brief examines how outcomes were affected for students who were or were not ready for 8th-grade Algebra](algebra-outcomes-ready-versus-not-ready-students.md) — a narrower finding that bears on this claim
 - [Using nationwide MAP Growth scores, the brief examines how many students ready for Algebra actually enrolled in it](algebra-ready-students-enrollment-examined-map-growth.md) — a narrower finding that bears on this claim
 - [School offerings and placement practices limit opportunity for 8th-grade algebra access](school-offerings-and-placement-practices-limit-algebra-opportunity.md) — related

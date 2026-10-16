@@ -12,7 +12,7 @@ generated:
 # Locus of Control
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 associational), `q2`–`q3` · 2 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Julian Rotter (1966) proposed locus of control as a cognitive factor shaping behavior and personality, distinct from [Self-Efficacy Theory](self-efficacy-theory.md): self-efficacy is a belief about one's own *ability* to perform a specific task, while locus of control is a broader belief about *who or what controls outcomes* in one's life generally. People with an **internal locus of control** ("internals") tend to believe their outcomes are the direct result of their own effort; people with an **external locus of control** ("externals") tend to believe their outcomes are controlled by other people, luck, or chance. Rotter framed the two orientations as ends of a continuum rather than a strict dichotomy.
@@ -38,7 +38,6 @@ A student who does poorly on a test after skipping study time illustrates the co
 ## Claims
 
 - [Locus of control is negatively correlated with and predicts subjective well-being, ranking second after self-esteem](../claims/locus-of-control-negatively-predicts-subjective-well-being.md) [+W]
-- [Internal experimenters were perceived as significantly more potent than external experimenters, and external subjects rated their experimenters higher on Activity](../claims/ie-experimenters-perceived-more-potent.md) [+W]
 
 ## Related Theories
 

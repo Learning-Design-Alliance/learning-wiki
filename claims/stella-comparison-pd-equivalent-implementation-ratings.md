@@ -41,7 +41,7 @@ Implementation study conducted alongside the Taylor et al. (2017) trial, with ra
 
 
 ## Related Claims
-- [The supporting evidence comes from a cluster randomized controlled trial in 77 Colorado elementary schools with low attrition, meeting WWC group design standards without reservations](stella-cluster-rct-taylor-2017.md) — related
+- The supporting evidence comes from a cluster randomized controlled trial in 77 Colorado elementary schools with low attrition, meeting WWC group design standards without reservations — related
 - [STeLLA® has potentially positive effects on science achievement, with a statistically significant effect size of 0.68 and an improvement index of +25 percentile points](stella-potentially-positive-science-achievement.md) — related
 - [The null achievement difference may stem from the two math programs being implemented more similarly in practice than they differ in theory](math-program-implementation-similarity-may-explain-null-effect.md) — related
 - [Classroom observations suggested increases in desired pedagogical practices after PD, but differences were not statistically significant](rwanda-literacy-boost-observed-practices-null.md) — related

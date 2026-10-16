@@ -26,7 +26,7 @@ sources:
 # Teach For America
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 16 claims (11 for, 5 mixed) · 5 studies (3 causal, 2 quant-synthesis), `q3` · 1 of 5 report an effect size · 16 claims rest on one study
+> **Evidence** · 15 claims (10 for, 5 mixed) · 5 studies (3 causal, 2 quant-synthesis), `q3` · 1 of 5 report an effect size · 15 claims rest on one study
 
 ## Description
 Teach For America runs a nationwide alternate-route teacher-preparation and teacher-placement programme that recruits and prepares corps members to teach in low-income K–12 schools.
@@ -53,7 +53,6 @@ Teach For America runs a nationwide alternate-route teacher-preparation and teac
 - [TFA teachers show no discernible effects on social studies achievement, based on one study](../claims/tfa-no-discernible-social-studies-effects.md) [~W]
 - [TFA teachers have positive effects on mathematics achievement for students in grades pre-K-12, based on six studies](../claims/tfa-positive-mathematics-achievement-effects.md) [+W]
 - [TFA teachers show potentially positive effects on science achievement, based on one study](../claims/tfa-potentially-positive-science-effects.md) [+W]
-- [This is the first large-scale experimental study of secondary math teachers from Teach For America](../claims/first-large-scale-experimental-study-tfa-math.md) [+W]
 - [TFA teachers in their first two years of teaching are more effective than more experienced non-TFA teachers in the same schools](../claims/tfa-first-two-years-beat-experienced-non-tfa.md) [+W]
 
 ## Related Products and Programmes
@@ -196,7 +195,6 @@ Teach For America is a program that supplies teachers for hard-to-staff subjects
 
 ## Claims
 
-- [This is the first large-scale experimental study of secondary math teachers from Teach For America](../claims/first-large-scale-experimental-study-tfa-math.md) [+W]
 - [TFA teachers in their first two years of teaching are more effective than more experienced non-TFA teachers in the same schools](../claims/tfa-first-two-years-beat-experienced-non-tfa.md) [+W]
 - [TFA secondary math teachers increase student math achievement by 0.07 standard deviations over one school year relative to other math teachers in the same schools](../claims/tfa-math-teachers-raise-achievement-007-sd.md) [+W]
 - [Secondary math teachers from Teach For America and the Teaching Fellows programs are as effective as teachers receiving traditional certification](../claims/tfa-teaching-fellows-math-teachers-as-effective-as-traditional-certification.md) [+W]

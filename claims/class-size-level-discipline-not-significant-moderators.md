@@ -46,7 +46,7 @@ Null moderator results from three-way interaction Bayesian models (SI Appendix, 
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
 - [Gender differences in points earned remained statistically significant when comparing students in the same courses with the same weightings](gender-gap-persists-controlling-course-enrollment.md) — related
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — related
-- [Subgroup (moderator) analyses in education impact evaluations can be based on participant characteristics measured before the intervention is implemented](pre-intervention-moderator-analyses.md) — related
+- Subgroup (moderator) analyses in education impact evaluations can be based on participant characteristics measured before the intervention is implemented — related
 - [Type of achievement measure moderates the correlation only when laboratory measures are excluded; course-exam correlation drops to r = .04](achievement-measure-moderator-lab-exclusion.md) — related
 - [Active learning's performance benefits hold across all STEM disciplines](active-learning-benefits-hold-across-stem-disciplines.md) — related
 - [Practice points from active-learning exercises did not inflate final grades; exam points remained the primary determinant of course grade](practice-points-did-not-inflate-grades.md) — related

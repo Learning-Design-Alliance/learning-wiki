@@ -18,7 +18,7 @@ sources:
 # M&E Checklist for evidence-building with priority-community stakeholders
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 design), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A project-developed checklist from the Evaluating the Development of Middle Years Math Teaching and Learning Solutions project, prepared for the Gates Foundation, that guides solution teams through stakeholder-collaborative evidence building and testing.
@@ -29,7 +29,6 @@ A project-developed checklist from the Evaluating the Development of Middle Year
 
 ### Claims
 - [The M&E Checklist structures validation as stakeholder-collaborative evidence building culminating in a large pilot study](../claims/me-checklist-phase4-structure-claim.md) [+W]
-- [Phase 2 of the M&E Checklist aims to develop descriptive evidence that a refined solution was successfully implemented in the priority community](../claims/phase-2-goal-descriptive-implementation-evidence.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -65,7 +64,6 @@ The M&E Checklist is a resource that guides users through an evidence-building p
 ## Claims
 
 - [The M&E Checklist structures validation as stakeholder-collaborative evidence building culminating in a large pilot study](../claims/me-checklist-phase4-structure-claim.md) [+W]
-- [Phase 2 of the M&E Checklist aims to develop descriptive evidence that a refined solution was successfully implemented in the priority community](../claims/phase-2-goal-descriptive-implementation-evidence.md) [+W]
 
 ## Related Elements
 

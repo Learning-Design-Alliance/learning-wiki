@@ -16,7 +16,7 @@ sources:
 # Use VIF-based indicator elimination above 3.3, guided by theory, when developing formative knowledge measures
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (2 theoretical), `q1` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Instead of maximizing Cronbach's alpha, the article recommends variance inflation factor (VIF) checks for formative measures. VIF ranges from 1 (no correlation with other indicators) to infinity (perfect redundancy); "If the VIF statistic for formative measures is greater than 3.3" researchers should model the construct differently, remove or collapse correlated items, or make it multidimensional.
@@ -42,7 +42,6 @@ Instead of maximizing Cronbach's alpha, the article recommends variance inflatio
 
 - [Domain knowledge is theoretically a formative construct formed by distinct, not necessarily associated, aspects](../claims/domain-knowledge-formative-construct.md) [+W]
 - [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](../claims/high-alpha-indicates-domain-knowledge-test-failure.md) [+W]
-- [Research practice misaligns with theory: domain knowledge is usually assessed with reflective models without argument for that choice](../claims/practice-reflective-models-assumed-without-argument.md) [+W]
 - [Reflective modeling of formative knowledge constructs risks misrepresenting domain knowledge as a general factor such as intelligence](../claims/reflective-model-misrepresents-domain-knowledge.md) [+W]
 
 ## Related Strategies

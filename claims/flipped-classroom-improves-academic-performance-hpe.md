@@ -47,7 +47,7 @@ Random-effects inverse-variance meta-analysis of 44 studies (n = 7813) comparing
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Naing 2023](https://doi.org/10.1002/cl2.1339) | q2 / q3 · quant-synthesis · r3 | i2; i? | this claim; [The academic performance advantage of flipped classrooms persists when studies with impute](flipped-classroom-performance-sensitivity-imputed-data.md) (supports); [Only a minority of flipped-classroom studies in health professional education are RCTs, an](flipped-classroom-evidence-base-rct-shortage-high-bias.md) (qualifies) |
+| [Naing 2023](https://doi.org/10.1002/cl2.1339) | q2 / q3 · quant-synthesis · r3 | i2; i? | this claim; [The academic performance advantage of flipped classrooms persists when studies with impute](flipped-classroom-performance-sensitivity-imputed-data.md) (supports); Only a minority of flipped-classroom studies in health professional education are RCTs, an (qualifies) |
 | [Liu YJ 2026](https://doi.org/10.1186/s12909-026-09608-7) | q2 · causal · r1 | i? | [Both flipped and AI-enhanced flipped classrooms achieve higher in-class question accuracy ](flipped-models-higher-question-accuracy.md) (supports) |
 | [Means et al. 2013](https://doi.org/10.1177/016146811311500307) | q3 · quant-synthesis · r? | i2 · medium effect, g+=0.35, p<.0001 | [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) (qualifies) |
 | Martella 2021 | q2 · review · r2 | i? | [Time-on-task is frequently unequal across compared conditions, with active learning condit](time-on-task-unequal-in-active-learning-comparisons.md) (qualifies) |
@@ -59,4 +59,4 @@ Random-effects inverse-variance meta-analysis of 44 studies (n = 7813) comparing
 ## Related Claims
 - [The academic performance advantage of flipped classrooms persists when studies with imputed data are excluded (SMD = 0.54), at low certainty](flipped-classroom-performance-sensitivity-imputed-data.md) — a narrower finding that bears on this claim
 - [Undergraduate health professional students report more positive satisfaction with flipped class learning than with traditional class learning (SMD = 0.48), at low certainty](flipped-classroom-student-satisfaction-positive.md) — related
-- [Only a minority of flipped-classroom studies in health professional education are RCTs, and risk of bias in non-randomised studies is high](flipped-classroom-evidence-base-rct-shortage-high-bias.md) — related
+- Only a minority of flipped-classroom studies in health professional education are RCTs, and risk of bias in non-randomised studies is high — related

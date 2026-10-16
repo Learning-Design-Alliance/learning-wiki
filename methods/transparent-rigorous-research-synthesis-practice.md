@@ -17,7 +17,7 @@ sources:
 # Synthesists should be rigorously transparent in design, write-up and provision of supplementary materials so others can check, replicate or modify syntheses
 
 > **Design Method** · [All design methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A design recommendation for research synthesis methodology: because bias is inherent in primary research and many synthesist choices are glossed over, the article urges that "Synthesists need to be rigorously transparent in designing their studies, writing up their results, and providing supplementary materials". Transparency allows others to check, replicate or modify syntheses as more research becomes available, and complements rather than replaces narrative syntheses, which the article calls "inevitably idiosyncratic".
@@ -38,7 +38,6 @@ A design recommendation for research synthesis methodology: because bias is inhe
 - rigorous, replicable research synthesis of learning-intervention effects
 
 ### Claims
-- [Meta Analysis Variation From Methodological Choices](../claims/meta-analysis-variation-from-methodological-choices.md) [+W]
 
 ## Related Principles
 - 

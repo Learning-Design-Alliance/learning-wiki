@@ -71,5 +71,5 @@ Descriptive outcome analysis of program participants in the evaluation's key fin
 - [More than four-fifths of 2015 LINCS certification track course completers in five consortium colleges were employed within three quarters after the course, with average quarterly earnings of nearly $7,400](lincs-completers-employment-earnings-2015.md) — related
 - [The outcomes study used a comparative design contrasting 2015 Broward LINCS completers with 2014 SCM students who did not participate in LINCS, and could not assess longer-term outcomes because of time limitations](lincs-outcomes-study-design-limits.md) — related
 - [Gatekeeper course completion rates were slightly lower for CBE participants than for comparison students, and credential completion differences varied by college](cbe-gatekeeper-completion-lower-than-comparison.md) — related
-- [The report presents the first national study of high school and college information technology skill certification programs](first-national-study-it-certification-programs.md) — related
+- The report presents the first national study of high school and college information technology skill certification programs — related
 - [The study examines student participation mix, program issues, and certification and other outcomes](it-certification-participants-issues-outcomes.md) — a broader claim this one bears on

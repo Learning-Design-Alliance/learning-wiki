@@ -17,7 +17,7 @@ sources:
 # NISS Ingram Olkin Forum presentation on modeling COVID-19 school openings, closings, and learning loss
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (8 for) · 5 studies (3 theoretical, 2 review), `q1` · 0 of 5 report an effect size · 8 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 5 studies (3 theoretical, 2 review), `q1` · 0 of 5 report an effect size · 7 claims rest on one study
 
 ## Description
 A 2020 presentation by Megan Kuhfeld delivered as part of the National Institute of Statistical Sciences (NISS) Ingram Olkin "Statistics Serving Society" Forum. The forum convened experts who "share statistical and data-analytic challenges they have faced as they have reported on and researched issues around the impact of COVID-19 in U.S. schools." The presentation addresses modeling of school openings, closings, and learning loss during the pandemic. It is hosted by NWEA Research, which lists it under the topics COVID-19 & schools and Measurement & scaling.
@@ -41,7 +41,6 @@ A 2020 presentation by Megan Kuhfeld delivered as part of the National Institute
 - [The forum addressed modeling of school openings, closings, and learning loss during COVID-19](../claims/covid-modeling-openings-closings-learning-loss.md) [+W]
 - [Experts at the NISS Ingram Olkin Forum shared statistical and data-analytic challenges in researching COVID-19's impact on U.S. schools](../claims/covid-schools-statistical-challenges-forum.md) [+W]
 - [Education leaders had little data on the impacts of school closures on learning at the time of the COVID-19 spring 2020 closures](../claims/little-data-closure-impacts-2020.md) [+W]
-- [COVID-19 disruptions to schools and testing created a “lost year” of data that challenged education research](../claims/covid-lost-year-data-challenge-education-research.md) [+W]
 - [Educators and evaluators faced open questions about how to measure student performance after COVID disruptions](../claims/measuring-student-performance-after-covid-open-question.md) [+W]
 - [Existing research on missing school from summer breaks, weather closures, and absenteeism can inform projections of pandemic learning loss](../claims/missing-school-research-informs-covid-learning-loss-projections.md) [+W]
 - [COVID-19 school closures will likely impact student academic achievement](../claims/covid-closures-likely-impact-achievement.md) [+W]

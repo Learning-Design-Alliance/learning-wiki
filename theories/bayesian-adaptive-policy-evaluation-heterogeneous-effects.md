@@ -16,7 +16,7 @@ sources:
 # Bayesian adaptive approach to randomized policy evaluations for estimating heterogeneous treatment effects
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 theoretical), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article presents a statistical method for randomized policy evaluations that efficiently estimates heterogeneous treatment effects, identifying what works for whom. It is designed to exploit high-volume, high-velocity data streams from public programs, including web-based tools, tablet-based educational curricula, and electronic health records. The method "enables evaluators to consider multiple candidate interventions simultaneously, matching each study subject with the intervention that is most likely to benefit him or her."
@@ -37,9 +37,7 @@ The article presents a statistical method for randomized policy evaluations that
 
 ### Claims
 
-- [Bayesian Adaptive Superior Inference Smaller Trials](../claims/bayesian-adaptive-superior-inference-smaller-samples.md) [+M]
 - [Adaptive Allocation To Promising Arms](../claims/adaptive-allocation-to-promising-arms.md) [+M]
-- [The Bayesian adaptive design can produce better inference and ultimately smaller trials under identifiable conditions](../claims/bayesian-adaptive-better-inference-smaller-trials.md) [+W]
 
 ## Related Theories
 

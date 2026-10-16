@@ -17,7 +17,7 @@ sources:
 # Four supplemental reading comprehension curricula evaluated in a federal study
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 against) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The element is the set of four supplemental reading comprehension programs evaluated in Mathematica's federal study. The report describes it as "Mathematica's federal study of four reading comprehension programs," designed to shed light on "the effectiveness of these curricula in helping disadvantaged students improve their reading comprehension." The curricula were implemented as supplemental programs with fifth-grade students in disadvantaged urban districts and assessed via student test scores. The individual curriculum names are not printed on this page.
@@ -39,7 +39,6 @@ The element is the set of four supplemental reading comprehension programs evalu
 ## Claims
 
 - [Four supplemental reading comprehension curricula had no positive impact on fifth-grade students' test scores, with negative impacts in some cases](../claims/reading-comprehension-curricula-no-positive-impact-fifth-grade.md) [-W]
-- [The evaluation was a large-scale randomized control trial spanning 268 teachers, 6,350 students, 89 schools, 10 districts, and 8 states](../claims/rct-scale-reading-comprehension-curricula-evaluation.md) [+W]
 
 ## Related Elements
 

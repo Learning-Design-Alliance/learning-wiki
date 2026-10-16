@@ -43,7 +43,7 @@ This fact sheet, published by the Regional Educational Laboratory Mid-Atlantic, 
 
 
 ## Related Claims
-- [The study uses five years of linked school and child welfare administrative data to predict near-term academic risks, with the two most recent years serving as outcome years](five-year-linked-data-predict-near-term-academic-risks.md) — related
+- The study uses five years of linked school and child welfare administrative data to predict near-term academic risks, with the two most recent years serving as outcome years — related
 - [A partnership developed an approach for identifying at-risk students using school data linked with child welfare, justice, human services, and public benefits data.](linked-school-human-services-data-identify-near-term-academic-risk.md) — a broader claim this one bears on
 - [A predictive model built on school and child welfare data was assessed for identifying at-risk students in two Allegheny County education agencies](risk-model-assessed-two-allegheny-agencies.md) — possibly the same claim (merge candidate)
 - [Near-term academic problems targeted include absenteeism, suspensions, poor grades, and low state-test performance](near-term-academic-problem-types-defined.md) — a narrower finding that bears on this claim

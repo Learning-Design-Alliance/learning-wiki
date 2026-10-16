@@ -16,7 +16,7 @@ sources:
 # Cluster randomized trials as a design for meeting evidence standards on school health program effectiveness
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 review), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article presents cluster randomized trials as an evaluation methodology in which schools, rather than individual students, are the unit of randomization. It argues that "When well‐designed and implemented, cluster randomized trials can meet the high standards federal agencies and other funders increasingly require for evidence on the effectiveness of school health programs and services." The framework organizes trial planning around decisions about clustering, sample size, matching, sample definition, consent, and analysis, while cautioning that "designing and implementing these studies can present more challenges than at first appears."
@@ -37,8 +37,6 @@ The article presents cluster randomized trials as an evaluation methodology in w
 
 ### Claims
 
-- [Six Key Decisions Cluster Randomized School Health Trials](../claims/six-key-decisions-cluster-randomized-school-health-trials.md) [+M]
-- [The supporting evidence comes from a cluster randomized controlled trial in 77 Colorado elementary schools with low attrition, meeting WWC group design standards without reservations](../claims/stella-cluster-rct-taylor-2017.md) [+W]
 
 ## Related Theories
 - 

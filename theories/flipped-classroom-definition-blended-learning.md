@@ -16,7 +16,7 @@ sources:
 # Flipped classroom as reversal of traditional class and self-study activities, fitting within blended learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The review defines the flipped classroom as an educational technique with two parts: "interactive group learning activities inside the classroom and direct personal computer‐based individual instruction outside the classroom". Work typically done as homework in the didactic model is undertaken interactively in class, while lecture viewing happens at home. The review situates the approach within blended learning and notes it reverses Bloom's revised taxonomy, with lower-level cognitive work done by students before class and educators working interactively in class on higher forms of cognition.
@@ -38,7 +38,6 @@ The review defines the flipped classroom as an educational technique with two pa
 
 ### Claims
 
-- [Only a minority of flipped-classroom studies in health professional education are RCTs, and risk of bias in non-randomised studies is high](../claims/flipped-classroom-evidence-base-rct-shortage-high-bias.md) [~W]
 - [In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)](../claims/flipped-classroom-improves-academic-performance-hpe.md) [+W]
 - [The academic performance advantage of flipped classrooms persists when studies with imputed data are excluded (SMD = 0.54), at low certainty](../claims/flipped-classroom-performance-sensitivity-imputed-data.md) [+W]
 - [Undergraduate health professional students report more positive satisfaction with flipped class learning than with traditional class learning (SMD = 0.48), at low certainty](../claims/flipped-classroom-student-satisfaction-positive.md) [+W]

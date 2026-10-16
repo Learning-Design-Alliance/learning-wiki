@@ -22,7 +22,7 @@ sources:
 # Four early elementary math curricula evaluated: Investigations, Math Expressions, Saxon Math, and Scott Foresman-Addison Wesley Mathematics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (8 for) · 5 studies (4 causal, 1 qualitative), `q2`–`q3` · 0 of 5 report an effect size · 8 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 4 studies (3 causal, 1 qualitative), `q2`–`q3` · 0 of 4 report an effect size · 7 claims rest on one study
 
 ## Description
 The Evaluation of Mathematics Curricula project (time frame 2005-2013) examined four early elementary math programs. As the page lists them: "(1) Investigations in Number, Data, and Space (Investigations), (2) Math Expressions, (3) Saxon Math (Saxon), and (4) Scott Foresman-Addison Wesley Mathematics (SFAW)." These four curricula are the treatments compared in the study's achievement findings for first and second graders.
@@ -46,7 +46,6 @@ The Evaluation of Mathematics Curricula project (time frame 2005-2013) examined 
 ## Claims
 
 - [First-grade math achievement is significantly higher under Math Expressions and Saxon Math than under Investigations in Number, Data, and Space and Scott Foresman-Addison Wesley Mathematics](../claims/math-expressions-saxon-outperform-investigations-sfaw-first-grade.md) [+W]
-- [Four elementary math curricula were evaluated using an experimental design](../claims/experimental-evaluation-four-elementary-math-curricula.md) [+W]
 - [A large-scale, rigorous study compared four elementary math curricula's effects on achievement across two years, first through second grade](../claims/four-curricula-two-year-elementary-math-study-design.md) [+W]
 - [A large-scale experimental study compared the effects of the four mathematics curricula on student achievement](../claims/large-scale-experimental-study-curricula-achievement.md) [+W]
 - [The curriculum evaluation was the second report from a multi-year (2005-2013) IES-funded study of mathematics curricula](../claims/ies-math-curricula-evaluation-second-report.md) [+W]

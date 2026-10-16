@@ -47,7 +47,7 @@ Quasi-experiment in Moroccan public schools with 109 secondary students in three
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — outcome: instruction changes it
 
 ## Related Claims
-- [The evaluation used a three-class design contrasting a traditional-approach control class with two experimental classes using digital content and a chatbot-based method](three-class-chatbot-evaluation-design.md) — related
+- The evaluation used a three-class design contrasting a traditional-approach control class with two experimental classes using digital content and a chatbot-based method — related
 - [Using the AI chatbot ADA significantly enhances ninth-graders' situational interest in mathematics compared with conventional differentiation materials](ada-significantly-raises-situational-interest.md) — related
 - [AI chatbots enable flexible personalized learning by adapting teaching strategies to individual student needs](chatbot-flexible-personalized-learning.md) — a broader claim this one bears on
 - [Students in secondary mathematics report high acceptance of the domain-specific AI chatbot ADA across all Technology Acceptance Model dimensions](ada-high-tam-acceptance-secondary-math.md) — related

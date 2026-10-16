@@ -45,4 +45,3 @@ Reflexive thematic analysis of semi-structured exit interviews conducted after v
 ## Related Claims
 
 - [Supplying learners' own engagement-definition codes as context raised exploratory prediction from 64.6% to 71.5% balanced 1-off accuracy in an eighteen-participant cohort](definition-codes-improve-engagement-calibration.md) — related
-- [Student engagement with WCF is the current research hotspot, with engagement analyzed as cognitive, affective and behavioral dimensions](student-engagement-wcf-hotspot-tripartite.md)

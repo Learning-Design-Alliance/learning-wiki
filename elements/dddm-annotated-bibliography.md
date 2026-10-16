@@ -17,7 +17,7 @@ sources:
 # Annotated bibliography of data-use literature informing the framework
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The report includes an annotated bibliography of the literature used to inform the DDDM framework. The article states: "Separately, we also include an annotated bibliography of the literature we used to inform the framework." It documents the evidence base behind the framework's development.
@@ -41,7 +41,6 @@ The report includes an annotated bibliography of the literature used to inform t
 
 ## Claims
 
-- [The DDDM framework was developed from Mathematica's initiative evaluations and existing literature](../claims/dddm-framework-dual-evidence-base.md) [+W]
 
 ## Related Elements
 - 

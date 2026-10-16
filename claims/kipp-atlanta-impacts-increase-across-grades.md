@@ -48,5 +48,5 @@ School-level impact analyses across middle school grade levels; the report descr
 ## Related Claims
 - [KIPP Atlanta middle schools substantially improve student proficiency on Georgia statewide assessments](kipp-atlanta-middle-schools-improve-proficiency.md) — related
 - [In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial](kipp-middle-schools-positive-significant-math-reading-impacts.md) — a broader claim this one bears on
-- [This is the first high-quality study to rigorously examine the impacts of the KIPP charter school network at all elementary and secondary grade levels](first-rigorous-study-kipp-all-grade-levels.md) — a broader claim this one bears on
+- This is the first high-quality study to rigorously examine the impacts of the KIPP charter school network at all elementary and secondary grade levels — a broader claim this one bears on
 - [No detectable effects of KIPP Atlanta Collegiate High School on overall credential completion during the study period](kipp-atlanta-no-credential-completion-effect.md) — related

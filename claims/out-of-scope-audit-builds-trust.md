@@ -44,7 +44,7 @@ Design argument (Section 5.4), not a tested result: the author states the mechan
 
 ## Related Claims
 - Participants articulated four interrelated arguments for preserving human instructor authority in assessment: knowledge of students, dialogue, institutional legitimacy, and safeguarding against AI error — related
-- [Of 100 human-audited claims, 39 are fully verifiable, 55 partially verifiable, and 6 not verifiable, with main responses showing stronger provenance than follow-ups](human-audit-claim-verifiability.md) — related
+- Of 100 human-audited claims, 39 are fully verifiable, 55 partially verifiable, and 6 not verifiable, with main responses showing stronger provenance than follow-ups — related
 - [Of 30 verified hallucinated references, 13 appeared entirely fabricated and 17 were hybrid references combining a real title with fabricated authorship or metadata](hybrid-hallucinated-references-real-title-fake-authors.md) — related
 - [Verified hallucinated references at SIGCSE TS increased from 3 in the 2025 proceedings to 17 in the 2026 proceedings, appearing in 2.3% of 2026 papers](sigcse-ts-hallucinations-increased-2025-2026.md) — related
 - [AI hallucination can be turned into a pedagogical resource by making verification and collaborative fact evaluation integral to AI-supported learning](hallucination-as-pedagogical-resource.md) — a broader claim this one bears on

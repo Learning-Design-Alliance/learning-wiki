@@ -47,8 +47,8 @@ In the 60-school cluster RCT (1,396 students), subgroup and school-characteristi
 - [In the 2013 RCT, subgroup findings for female students in grades 1–2 on the STAR Early Literacy Assessment were positive but not statistically significant, yet large enough to be considered substantively important](lli-star-female-subgroup-positive-nonsignificant.md) — related
 - The attendance impact of Future Forward is larger for Black students, male students, and students with low baseline attendance — related
 - [Offering FAST produced no meaningful, enduring effects on family functioning, family-school relationships, academic learning, or social-behavioral outcomes in a 60-school cluster RCT](fast-rct-no-meaningful-enduring-effects.md) — related
-- [Subgroup analyses in education impact evaluations can also be based on participants' experiences, mediators, and outcomes measured after program implementation](post-intervention-mediator-subgroup-analyses.md) — related
-- [Subgroup (moderator) analyses in education impact evaluations can be based on participant characteristics measured before the intervention is implemented](pre-intervention-moderator-analyses.md) — a broader claim this one bears on
+- Subgroup analyses in education impact evaluations can also be based on participants' experiences, mediators, and outcomes measured after program implementation — related
+- Subgroup (moderator) analyses in education impact evaluations can be based on participant characteristics measured before the intervention is implemented — a broader claim this one bears on
 - [There was no clear pattern to the relationship between student, teacher, and school characteristics and the effectiveness of the interventions.](no-clear-pattern-characteristics-and-effectiveness.md) — related
 - [The interventions did not consistently benefit any baseline subgroup more than another](no-consistent-subgroup-benefit-reading-interventions.md) — related
 - [Platform treatment effects did not vary across demographic subgroups, suggesting equal benefit regardless of racial background](mastery-platform-effects-uniform-across-demographics.md) — related

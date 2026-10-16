@@ -69,8 +69,8 @@ Theoretical analysis in the paper's framing of the problem: pretests collected a
 
 - [The variance-bias trade-off for late pretests is addressed both theoretically and empirically for several commonly used impact estimators](late-pretest-analyzed-for-several-estimators.md) — related
 - [In RCTs of interventions to improve student test scores, estimators including late pretests will typically be preferred to estimators excluding them or using other baseline data](late-pretest-estimators-typically-preferred.md) — related
-- [Deciding whether to collect and use late pretest data in RCTs involves a variance-bias trade-off](late-pretest-variance-bias-tradeoff.md) — related
+- Deciding whether to collect and use late pretest data in RCTs involves a variance-bias trade-off — related
 - [The late-pretest estimator preference holds as long as test score impacts do not grow very quickly early in the school year](late-pretest-preference-conditional-on-slow-early-impact-growth.md) — related
 - [Empirical examples using real-world education RCT data demonstrate the design-based grouped-data theory](empirical-examples-education-rct-data-demonstrate-theory.md) — related
-- [The RCT is considered the gold standard of research evidence because randomization ensures only the intervention could cause treatment-control outcome differences](rct-gold-standard-randomization-logic.md) — related
-- [Results for high school achievement are less clear because data limitations precluded a credible impact analysis](dc-high-school-results-inconclusive-data-limitations.md) — related
+- The RCT is considered the gold standard of research evidence because randomization ensures only the intervention could cause treatment-control outcome differences — related
+- Results for high school achievement are less clear because data limitations precluded a credible impact analysis — related

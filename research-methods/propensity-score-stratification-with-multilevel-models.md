@@ -17,7 +17,7 @@ sources:
 # Propensity score stratification with multilevel models
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies (3 causal), `q1`–`q3` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 When estimating the achievement effects of school transfer or school choice from non-experimental data, the article recommends combining propensity score stratification with multilevel models. The authors report that this combination "reduces selection bias which arises from confounding variables and improves the accuracy of charter school effect estimations". The multilevel component addresses the clustered structure of students within schools in cross-state samples.
@@ -28,10 +28,7 @@ When estimating the achievement effects of school transfer or school choice from
 - **Propensity score stratification within multilevel models as a quasi-experimental approach to school achievement effects**: The article employs a combined methodological framework: propensity score stratification is used to balance key covariates between treatment and control groups, and multilevel models accommodate the nesting of students within schools in a cross-state sample. The authors state they "employ propensity score stratification and multilevel models to balance key covariates between treatment and control groups of a cross-state sample of students". The framework is presented as suited to estimating school transfer effects when randomization is not possible, providing "a more complex picture of charter school achievement effects in a quasi-experimental context". (Beth Tarasawa (2015))
 
 ### Claims
-- [Propensity score stratification using multilevel models reduces selection bias from confounding variables and improves accuracy of charter school effect estimations](../claims/propensity-stratification-multilevel-reduces-selection-bias.md) [+W]
 - [Charter school students perform consistently better on standardized mathematics achievement measures than traditional public school peers, with modest differences](../claims/charter-math-achievement-consistently-better-modest.md) [+M]
-- [Using baseline data strongly predictive of outcome measures considerably reduces bias in nonexperimental estimates of charter school achievement effects](../claims/predictive-baseline-data-reduce-nonexperimental-bias.md) [+W]
-- [Nonexperimental methods incorporating pre-treatment outcome measures can replicate experimental ITT impact estimates when control-group crossover occurs](../claims/nonexperimental-pre-treatment-methods-replicate-itt-under-crossover.md) [+W]
 
 ## Related Research Methods
 -
@@ -66,9 +63,6 @@ The article employs a combined methodological framework: propensity score strati
 
 ### Claims
 
-- [Propensity Stratification Multilevel Reduces Selection Bias](../claims/propensity-stratification-multilevel-reduces-selection-bias.md) [+W]
-- [Using baseline data strongly predictive of outcome measures considerably reduces bias in nonexperimental estimates of charter school achievement effects](../claims/predictive-baseline-data-reduce-nonexperimental-bias.md) [+W]
-- [Nonexperimental methods incorporating pre-treatment outcome measures can replicate experimental ITT impact estimates when control-group crossover occurs](../claims/nonexperimental-pre-treatment-methods-replicate-itt-under-crossover.md) [+W]
 
 ## Related Theories
 - 

@@ -46,5 +46,5 @@ Omnibus 2×2×2×2 mixed ANOVA (test time within; medium, complexity, engagement
 - [College students show no comprehension difference between digital and paperbound textbook reading, immediately or after 1 week](no-comprehension-difference-digital-paper-textbooks.md) — a narrower finding that bears on this claim
 - [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md) — a broader claim this one bears on
 - [Treatment effects were not moderated by emergent bilingual status, pretest levels, or tutoring attendance](no-treatment-moderators-eb-pretest-attendance.md) — related
-- [Counterbalancing condition did not affect map accuracy and did not interact with test condition](counterbalancing-no-effect-map-accuracy.md) — related
+- Counterbalancing condition did not affect map accuracy and did not interact with test condition — related
 - [Text complexity (basic vs. comprehensive textbook) shows no significant effect on comprehension](text-complexity-no-comprehension-effect.md) — related

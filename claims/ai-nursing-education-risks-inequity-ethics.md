@@ -52,4 +52,4 @@ The review's thematic synthesis of 28 studies concludes that "Common risks inclu
 - [Human-AI relationship concerns persist across all CAI generations while academic integrity and data privacy are emerging ethical concerns](cai-ethical-concerns-human-ai-relationship-persistent.md) — related
 - [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — related
 - [Integrating AI in collaborative learning raises challenges including algorithmic bias, over-reliance on technology, and teacher training needs](ai-collaborative-learning-challenges-bias-overreliance.md) — related
-- [Only a small fraction of AIEd research addresses ethical implications, challenges and risks](aied-little-ethical-reflection.md) — related
+- Only a small fraction of AIEd research addresses ethical implications, challenges and risks — related

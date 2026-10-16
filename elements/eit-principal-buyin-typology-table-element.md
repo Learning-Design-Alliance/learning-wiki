@@ -17,7 +17,7 @@ sources:
 # Principal buy-in typology table from the Excellence in Teaching Year 1 exit interviews
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 2 studies (1 qualitative, 1 design), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (1 qualitative, 1 design), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 A descriptive typology table produced from exit interviews with 39 principals in the Excellence in Teaching pilot. Each row is a principal type (for example the "Paradigm shift" type) characterized across columns for framework conferences, evaluation attitudes, description of teacher buy-in, changes in practice, and severity, with shares reported as a percentage of the 39 interviewed principals. The paradigm-shift row records mostly positive attitudes, high buy-in described as a paradigm shift, and high influence on instructional grouping, assessment, planning, and general instructional practice.
@@ -39,7 +39,6 @@ A descriptive typology table produced from exit interviews with 39 principals in
 ## Claims
 
 - [The buy-in typology was derived from 39 interviewed principals, whose evaluation attitudes in the table are described as mostly positive](../claims/eit-39-principals-mostly-positive-attitudes.md) [+W]
-- [The principal typology records changes in practice and their severity as distinct columns, with the paradigm-shift type's changes rated high](../claims/eit-changes-in-practice-severity-column.md) [+W]
 - [Principals of the paradigm-shift type reported high buy-in and a paradigm shift, and their reported influence on instructional grouping, assessment, planning, and general instructional practice was rated high](../claims/eit-paradigm-shift-principals-high-influence.md) [+W]
 - [The report classifies interviewed principals into a buy-in typology whose table records framework conferences, evaluation attitudes, description of teacher buy-in, changes in practice, and severity for 39 principals](../claims/eit-principal-buyin-typology-table.md) [+W]
 - [Fifty-seven percent of principals were highly enthusiastic about the Framework-based evaluation process while 43 percent held mixed to negative attitudes](../claims/principal-attitudes-toward-framework-evaluation.md) [+W]

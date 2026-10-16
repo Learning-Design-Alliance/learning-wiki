@@ -18,7 +18,7 @@ sources:
 # Conversation-based assessment chat log corpus
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (5 for, 1 against) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 A research dataset created by Ober et al. containing more than 10,000 student dialogue turns from English-learning middle school students interacting with a conversation-based mathematics assessment and its pedagogical agents.
@@ -28,7 +28,6 @@ A research dataset created by Ober et al. containing more than 10,000 student di
 - **Conversation-based assessment (CBA) chat log corpus for middle school mathematics**: A chat log dataset of over 10,000 student turns (human coder 1 coded N = 10,919 turns) collected from 107 middle school students classified as English learners (mean age 12.4 years) interacting with a conversation-based assessment for middle school mathematics. The CBA comprised "a sequence of six structured, interactive conversations between the student and three pedagogical agents, a teacher agent and two peer agents," designed to simulate small-group mathematical problem solving with NLP-based dialogue adaptation. Students completed up to seven tasks targeting six competencies including proportional reasoning. (Ober et al. (2026))
 
 ### Claims
-- [Constructs with higher operational clarity show higher overall coder agreement, and low clarity harms human coder agreement more than LLM agreement](../claims/construct-clarity-predicts-coding-agreement.md) [+W]
 - [Human-human agreement (average κ = 0.644) was lower than the best LLM-LLM agreement (average κ = 0.856) across constructs](../claims/human-human-agreement-lower-than-llm-llm.md) [+W]
 - [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](../claims/human-llm-agreement-low-construct-varying.md) [-W]
 - [Same-model LLM configuration pairs agree more than cross-model pairs, and agreement decreases monotonically as temperature difference increases](../claims/llm-pairwise-agreement-model-type-temperature.md) [+W]
@@ -67,7 +66,6 @@ A chat log dataset of over 10,000 student turns (human coder 1 coded N = 10,919 
 
 ## Claims
 
-- [Constructs with higher operational clarity show higher overall coder agreement, and low clarity harms human coder agreement more than LLM agreement](../claims/construct-clarity-predicts-coding-agreement.md) [+W]
 - [Human-human agreement (average κ = 0.644) was lower than the best LLM-LLM agreement (average κ = 0.856) across constructs](../claims/human-human-agreement-lower-than-llm-llm.md) [+W]
 - [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](../claims/human-llm-agreement-low-construct-varying.md) [-W]
 - [Same-model LLM configuration pairs agree more than cross-model pairs, and agreement decreases monotonically as temperature difference increases](../claims/llm-pairwise-agreement-model-type-temperature.md) [+W]

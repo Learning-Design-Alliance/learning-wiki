@@ -46,6 +46,6 @@ Review scope statement from the WWC report: "The WWC identified 8 studies that i
 - [The evidence base for the Lovaas Model is small: only two of 58 reviewed studies met WWC evidence standards](lovaas-model-evidence-base-small-two-studies.md) — related
 - [Only three of twelve identified OLI studies met WWC group design standards](oli-three-of-twelve-studies-meet-wwc-standards.md) — related
 - [ASAP likely increases community college students' graduation and degree attainment rates](asap-increases-degree-attainment.md) — related
-- [The evidence base for first year experience courses consists only of quasi-experimental studies meeting WWC group design standards with reservations](fye-evidence-base-quasi-experimental-reservations.md) — related
+- The evidence base for first year experience courses consists only of quasi-experimental studies meeting WWC group design standards with reservations — related
 - [Only one of 10 identified studies of InsideTrack© Coaching met WWC group design standards without reservations](insidetrack-evidence-base-one-study-meets-wwc-standards.md) — related
 - [Linked learning communities show no discernible effects on any of five outcome domains for community college students in developmental education](linked-learning-communities-no-discernible-effects-five-domains.md) — related

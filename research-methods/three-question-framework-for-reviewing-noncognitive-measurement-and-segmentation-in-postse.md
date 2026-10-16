@@ -17,7 +17,7 @@ sources:
 # Three-question framework for reviewing noncognitive measurement and segmentation in postsecondary education
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The report organizes its targeted document review and expert interviews around three questions relevant to the Student Segmentation Initiative: what instruments and measures are available to assess postsecondary students' noncognitive attributes; to what extent these instruments are used to classify or segment student populations; and how institutions have used these instruments and classification systems to improve student success. The framework moves from measurement availability, through classification practice, to institutional application, structuring the review's findings about the field's theoretical-versus-applied gap.
@@ -27,7 +27,6 @@ The report organizes its targeted document review and expert interviews around t
 - **Three-question framework for reviewing noncognitive measurement and segmentation in postsecondary education**: The report organizes its targeted document review and expert interviews around three questions relevant to the Student Segmentation Initiative: what instruments and measures are available to assess postsecondary students' noncognitive attributes; to what extent these instruments are used to classify or segment student populations; and how institutions have used these instruments and classification systems to improve student success. The framework moves from measurement availability, through classification practice, to institutional application, structuring the review's findings about the field's theoretical-versus-applied gap. (Ann E. Person et al. (2014))
 
 ### Claims
-- [Most research on noncognitive assessment and segmentation in postsecondary education is theoretical rather than applied to college practice](../claims/noncognitive-assessment-research-mostly-theoretical.md) [+M]
 - [Literature and expert opinion converge on a limited number of key noncognitive attributes that matter for student success, with multiple available instruments](../claims/convergence-key-noncognitive-attributes.md) [+M]
 - [No published research describes colleges using segmentation to improve student success, though authors and experts see promise in the approach](../claims/no-published-segmentation-application-example.md) [+M]
 
@@ -64,7 +63,6 @@ The report organizes its targeted document review and expert interviews around t
 - segmenting student populations to improve postsecondary success
 
 ### Claims
-- [Noncognitive Assessment Research Mostly Theoretical](../claims/noncognitive-assessment-research-mostly-theoretical.md) [+M]
 - [Convergence Key Noncognitive Attributes](../claims/convergence-key-noncognitive-attributes.md) [+M]
 - [No Published Segmentation Application Example](../claims/no-published-segmentation-application-example.md) [+M]
 

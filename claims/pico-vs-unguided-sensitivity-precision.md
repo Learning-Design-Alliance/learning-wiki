@@ -43,7 +43,7 @@ Randomized controlled crossover trial (Hoogendam et al., 2012) with 8 specialist
 
 
 ## Related Claims
-- [Only three studies assessing PICO as a search strategy tool were eligible for review, and heterogeneity prevented quantitative analysis](pico-search-review-three-studies-only.md) — related
+- Only three studies assessing PICO as a search strategy tool were eligible for review, and heterogeneity prevented quantitative analysis — related
 - [PICO versus truncated PIC in PubMed: PICO showed higher median sensitivity and precision on the first 40 records, but PIC showed higher sensitivity on the full output](pico-vs-pic-pubmed-median-sensitivity.md) — related
 - [The number of search blocks impacts search quality: fewer blocks yield higher sensitivity and lower precision](search-block-count-impacts-sensitivity-precision.md) — related
 - [PICO versus PICOS and SPIDER: PICO gave higher sensitivity and lower precision, but with different numbers of search blocks per model](pico-vs-picos-spider-blocks-confound.md) — related

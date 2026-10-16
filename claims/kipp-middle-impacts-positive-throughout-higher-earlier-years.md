@@ -78,4 +78,4 @@ The Key Findings section reports a temporal pattern in middle school impacts ove
 - [Impacts of charter middle schools on achievement varied considerably across schools and students](charter-middle-school-impacts-varied-considerably.md) — related
 - [An earlier report of the national KIPP evaluation described strong positive achievement impacts in math and reading for 22 KIPP middle schools](kipp-first-report-positive-math-reading-impacts-22-schools.md) — related
 - [No detectable effects of KIPP Atlanta Collegiate High School on overall credential completion during the study period](kipp-atlanta-no-credential-completion-effect.md) — related
-- [The KIPP lottery-based randomized controlled trial yielded treatment and control groups similar on observable and unobservable characteristics](kipp-lottery-offer-rct-group-balance.md) — related
+- The KIPP lottery-based randomized controlled trial yielded treatment and control groups similar on observable and unobservable characteristics — related

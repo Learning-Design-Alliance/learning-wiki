@@ -47,5 +47,5 @@ Diagnostic finding from the Oklahoma statewide data analysis: the larger effect 
 - [Proxy pre-test value-added estimates show bias, but may still carry information about teacher effectiveness](proxy-pretest-estimates-biased-but-informative.md) — related
 - [The working paper examines the sensitivity and precision of teacher value-added estimates under specifications differing in student-level, peer-level, and double-lagged achievement controls](vam-sensitivity-student-peer-controls-examined.md) — related
 - [Omitting same-subject pre-tests affects value-added estimates more than excluding other student background characteristics](same-subject-pretest-omission-dominates-background-omission.md) — related
-- [Adding a second pretest wave eliminates selection bias in two additional instances beyond those cured by a single wave](second-pretest-wave-additional-bias-elimination.md) — related
+- Adding a second pretest wave eliminates selection bias in two additional instances beyond those cured by a single wave — related
 - [Multiple sources of student information can be accumulated to estimate teacher effectiveness](multiple-sources-accumulate-teacher-effectiveness.md) — related

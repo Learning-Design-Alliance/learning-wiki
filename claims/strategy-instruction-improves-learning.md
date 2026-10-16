@@ -83,7 +83,7 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — possibly the same claim (merge candidate)
 - [Strategy Instruction Needs Conditional Knowledge](strategy-instruction-needs-conditional-knowledge.md) — a narrower finding that bears on this claim
 - Students showed deficiencies in maintaining and monitoring their reading plan within the three-element view of metacognition — a narrower finding that bears on this claim
-- [Enriched DLP data enable two types of theory testing: sustained observation of individuals in a single setting and modeling the same type of learner across contexts](clickstream-enables-two-types-theory-testing.md) — related
+- Enriched DLP data enable two types of theory testing: sustained observation of individuals in a single setting and modeling the same type of learner across contexts — related
 - [Teaching reflective questioning or using graphical representations improves procedural and conceptual knowledge across diverse populations](reflective-questioning-graphical-representations-improve-algebra-outcomes.md) — a narrower finding that bears on this claim
 - [Learning through the experience of solving problems can build both content knowledge and thinking strategies](problem-experience-builds-content-and-thinking-strategies.md) — a narrower finding that bears on this claim
 - [Self-instruction techniques yielded the highest mean effect size (2.71) among self-management intervention types, with self-monitoring the predominant technique used](self-management-ebd-intervention-type-es.md) — related

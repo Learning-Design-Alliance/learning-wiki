@@ -44,5 +44,5 @@ The implementation study, based on site visits, focus groups, interviews and doc
 
 ## Related Claims
 - [Poor labor market conditions lead to substitution from full-time to part-time graduate enrollment for both genders](poor-labor-markets-shift-full-time-to-part-time-graduate-enrollment.md) — related
-- [Statewide unemployment-rate variation can proxy business cycle conditions in studies of graduate enrollment decisions](statewide-unemployment-variation-proxies-business-cycle-enrollment.md) — related
+- Statewide unemployment-rate variation can proxy business cycle conditions in studies of graduate enrollment decisions — related
 - [Financial and economic constraints shape first-generation chemists' career decisions, sometimes deterring advanced training altogether](financial-constraints-shape-first-generation-career-decisions.md) — related

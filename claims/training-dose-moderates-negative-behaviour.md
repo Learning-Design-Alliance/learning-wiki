@@ -45,4 +45,4 @@ Random effects meta-regression across all 33 RCTs testing dose (total training h
 ## Related Claims
 - [Across all RCTs, mindfulness-based interventions significantly improve mindfulness, executive functioning, attention, depression, anxiety/stress and negative behaviours in youth, with small effect sizes](mbis-small-positive-effects-all-rcts-youth.md) — related
 - [When only RCTs with active control groups are analysed, MBI benefits are restricted to Mindfulness (d = .42), Depression (d = .47) and Anxiety/Stress (d = .18)](active-control-rcts-benefits-restricted.md) — related
-- [Effect sizes vary by control group type, with wait-list controls yielding the largest mean effect and no-contact controls the smallest](control-group-type-moderates-mbi-effects.md) — related
+- Effect sizes vary by control group type, with wait-list controls yielding the largest mean effect and no-contact controls the smallest — related

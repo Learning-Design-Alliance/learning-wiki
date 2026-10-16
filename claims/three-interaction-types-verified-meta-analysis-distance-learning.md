@@ -45,5 +45,5 @@ The chapter reports, citing Bernard et al. (2009), a meta-analysis of distance a
 ## Related Claims
 - [Online students value learner-to-instructor engagement strategies most among the three interaction categories](learner-to-instructor-strategies-most-valued-online.md) — a narrower finding that bears on this claim
 - [In a survey of 236 blended-learning students, learners readily ranked teacher, student and content interaction, which the authors read as supporting both theses of the Interaction Equivalency Theorem](theorem-theses-confirmed-by-survey.md) — related
-- [Research on distance and online learning has methodological issues that need to be addressed](methodological-issues-distance-education-research.md) — related
+- Research on distance and online learning has methodological issues that need to be addressed — related
 - [Pedagogical challenges inherent in distance and online learning must be considered in instructional design and software development](pedagogical-challenges-distance-learning-design-software.md) — related

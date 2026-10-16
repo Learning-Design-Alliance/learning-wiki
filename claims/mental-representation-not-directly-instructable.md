@@ -49,4 +49,4 @@ Theoretical argument in section I.3: the author reasons that UG and parsers/proc
 - Comprehensible input in natural language contexts is presented as essential to second language acquisition — related
 - [Learners show no first-language transfer for manner adverbs, judging sentence-final placement acceptable and pre-verbal placement unacceptable despite Chinese word order](no-l1-transfer-manner-adverb-positions.md) — related
 - [A 1999 conference paper reports, citing White (1991) and Schwartz and Gubala-Ryzak (1992), that explicit negative evidence on English adverb placement produced only superficial change in French learners](white-adverb-placement-negative-evidence-failed.md) — a narrower finding that bears on this claim
-- [Causal knowledge cannot be derived from data analysis alone but requires outside information about the data-generation process](causal-knowledge-requires-outside-data-information.md) — related
+- Causal knowledge cannot be derived from data analysis alone but requires outside information about the data-generation process — related

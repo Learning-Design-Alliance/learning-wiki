@@ -22,7 +22,7 @@ sources:
 # M&E Checklist
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 design), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The M&E Checklist is a resource developed by Ruggiero et al. that guides stakeholders through evidence-building phases, including a Phase 3 small pilot study to assess early evidence of improved student outcomes.
@@ -33,7 +33,6 @@ The M&E Checklist is a resource developed by Ruggiero et al. that guides stakeho
 - **Four-phase evidence-building framework for designing and testing education solutions**: The M&E Checklist organizes evidence building for education solutions into four sequential phases, each with its own checklist document: Design the Solution (Phase 1), Refine the Solution (Phase 2), Assess for Early Evidence of Success (Phase 3), and Validate Effectiveness (Phase 4). The framework structures how solution developers move from initial design through refinement, early evidence gathering, and validation of effectiveness, with stakeholder collaboration from a priority community throughout. (Ryan Ruggiero et al. (2023))
 
 ### Claims
-- [Phase 2 of the M&E Checklist aims to develop descriptive evidence that a refined solution was successfully implemented in the priority community](../claims/phase-2-goal-descriptive-implementation-evidence.md) [+W]
 - [The M&E Checklist structures validation as stakeholder-collaborative evidence building culminating in a large pilot study](../claims/me-checklist-phase4-structure-claim.md) [+M]
 
 ## Related Products and Programmes
@@ -108,7 +107,6 @@ The M&E Checklist organizes evidence building for education solutions into four 
 
 ### Claims
 
-- [Phase 2 of the M&E Checklist aims to develop descriptive evidence that a refined solution was successfully implemented in the priority community](../claims/phase-2-goal-descriptive-implementation-evidence.md) [+W]
 - [The M&E Checklist structures validation as stakeholder-collaborative evidence building culminating in a large pilot study](../claims/me-checklist-phase4-structure-claim.md) [+M]
 
 ## Related Theories

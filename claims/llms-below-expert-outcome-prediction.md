@@ -45,5 +45,5 @@ Evaluation on n=310 Edustories case studies comparing six open-source LLMs' dire
 ## Related Claims
 - [Human experts and LLMs show qualitatively different error patterns in outcome prediction](expert-llm-error-patterns-differ.md) — related
 - [Model size is not the primary factor in outcome-prediction performance](model-size-not-primary-outcome-prediction-factor.md) — related
-- [Expert annotators show high agreement on intervention appropriateness ratings](expert-annotator-high-agreement.md) — related
+- Expert annotators show high agreement on intervention appropriateness ratings — related
 - [A research-grounded prompt revision improved scores for 10 of 11 models, with gains of 6.6 to 16.2 percentage points](prompt-revision-improves-tutoring-scores-ten-of-eleven.md) — related

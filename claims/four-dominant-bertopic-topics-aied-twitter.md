@@ -44,7 +44,7 @@ BERTopic analysis of the tweet corpus after c-TF-IDF outlier reassignment (outli
 
 ## Related Claims
 - AI ethics research is distributed across applied disciplines, with Social Sciences the largest subject area (52.84%) ahead of Computer Science (34.04%) — related
-- [Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024](aied-topic-peaked-2023-declined-2024.md) — related
+- Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024 — related
 - [Algorithmic curation on Twitter may amplify optimistic, technically sophisticated AI-in-education narratives while underrepresenting practical implementation concerns and non-technical stakeholders](algorithmic-curation-shapes-aied-discourse-visibility.md) — related
 - ChatGPT research in programming education prioritizes classroom practice and learner interaction, with limited attention to assessment design and governance — related
 - Text mining of 69 Scopus documents on ChatGPT in programming education identifies four dominant research themes — related

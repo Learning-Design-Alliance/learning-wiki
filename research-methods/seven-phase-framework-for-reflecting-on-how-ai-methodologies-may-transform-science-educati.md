@@ -12,7 +12,7 @@ generated:
 # Seven-phase framework for reflecting on how AI methodologies may transform science education research
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (3 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article proposes a framework of seven epistemological phases for AI-based educational research: "(1) problem framing, (2) instrumentation and measurement, (3) experimentation and evidence‑based inference, (4) comparisons and replication, (5) building norms and consensus, (6) implementation and its consequences, and (7) continuous refinement." Each phase is paired with guiding questions and exemplified through both thermometer history and AI analysis of student learning. The framework is intended to help the community interrogate what is analyzed, how analyses acquire meaning, and how practices reshape the field's foundations.
@@ -24,7 +24,6 @@ The article proposes a framework of seven epistemological phases for AI-based ed
 ### Claims
 
 - [Algorithmically inferred measurement functions may intensify, rather than resolve, the problem of nomic measurement in analyzing student learning](../claims/ai-intensifies-nomic-measurement-problem.md) [~W]
-- [AI methodologies may redistribute epistemic agency, moving researchers from primary analyst to interpreter and validator of AI-generated outputs](../claims/ai-redistributes-researcher-epistemic-agency.md) [~W]
 - [AI-based analyses of student learning may perform unevenly across student populations, limiting comparability of findings across settings](../claims/ai-uneven-performance-across-student-populations.md) [~W]
 
 ## Related Research Methods

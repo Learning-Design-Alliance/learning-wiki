@@ -46,7 +46,7 @@ The article's central methodological demonstration, using the No Child Left Behi
 
 ## Related Claims
 
-- [The RCT is considered the gold standard of research evidence because randomization ensures only the intervention could cause treatment-control outcome differences](rct-gold-standard-randomization-logic.md) — the general claim this finding bears on, with the studies behind it
+- The RCT is considered the gold standard of research evidence because randomization ensures only the intervention could cause treatment-control outcome differences — the general claim this finding bears on, with the studies behind it
 - [Added ITS design elements collectively provide a strong causal warrant when predictions are complex, results cohere with them, and no alternative fits the same pattern](its-design-elements-collective-causal-warrant.md) — a broader claim this one bears on
 - [Ambiguous preintervention functional forms and other factors affecting posttest means and slopes are common in ITS applications](its-ambiguous-preintervention-functional-forms-common.md) — related
-- [The single-group ITS design's counterfactual rests on the assumption that the pretest functional form can be validly estimated and extrapolated into the postintervention period, an assumption the authors call problematic](its-single-group-counterfactual-assumption-problematic.md) — related
+- The single-group ITS design's counterfactual rests on the assumption that the pretest functional form can be validly estimated and extrapolated into the postintervention period, an assumption the authors call problematic — related

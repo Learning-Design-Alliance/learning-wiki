@@ -17,7 +17,7 @@ sources:
 # Experiment embedded in the 2006 National Survey of Student Engagement comparing numerically and vaguely quantified frequency reports
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The study's data source is an experiment embedded in the 2006 National Survey of Student Engagement, a large-scale survey of student engagement. The experiment collected behavioral frequency information in two formats: "numerically or vaguely quantified frequency reports," allowing comparison of the measurement models each format supports. It serves as the empirical basis for the working paper's findings on measurement-model structure.
@@ -38,7 +38,6 @@ The study's data source is an experiment embedded in the 2006 National Survey of
 
 ## Claims
 
-- [The format used to quantify behavioral frequency reports directly influences substantive findings](../claims/frequency-report-format-influences-substantive-findings.md) [+W]
 - [Measurement models based on vaguely quantified behavioral frequency reports differ in structure from those based on numerically quantified reports](../claims/vague-vs-numeric-frequency-measurement-models-differ.md) [+W]
 
 ## Related Elements

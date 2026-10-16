@@ -18,7 +18,7 @@ sources:
 # M&E Needs Inventory
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A self-assessment tool developed by Megan Shoji and colleagues for organizations to evaluate their measurement and evaluation capacity and identify priorities for external research-partner support.
@@ -28,7 +28,6 @@ A self-assessment tool developed by Megan Shoji and colleagues for organizations
 - **Measurement and Evaluation Needs Inventory: a self-assessment tool for organizational M&E capacity**: The Measurement and Evaluation Needs Inventory is a tool designed to assist an organization in conducting a self-assessment of its existing measurement and evaluation (M&E) capacity. It covers study setup, project monitoring, compliance with research requirements, solution implementation support, instrument development, data collection, data analysis, and data interpretation and reporting, with the goal of identifying priority areas for support from an external research partner. (Megan Shoji et al. (2023))
 
 ### Claims
-- [The M&E Needs Inventory is positioned as most useful in the early stage of a research cycle](../claims/me-inventory-most-useful-early-research-cycle.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -62,7 +61,6 @@ The Measurement and Evaluation Needs Inventory is a tool designed to assist an o
 
 ## Claims
 
-- [The M&E Needs Inventory is positioned as most useful in the early stage of a research cycle](../claims/me-inventory-most-useful-early-research-cycle.md) [+W]
 
 ## Related Elements
 

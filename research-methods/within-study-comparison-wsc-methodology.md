@@ -21,7 +21,7 @@ sources:
 # Within-study comparison (WSC) methodology
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 11 claims (11 for) · 6 studies (4 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 1 of 6 report an effect size · 11 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (2 causal, 1 quant-synthesis), `q2`–`q3` · 1 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 A within-study comparison examines "whether and in what context nonexperimental methods can successfully replicate the results of randomized experiments." The article situates its contribution in this growing literature and applies a WSC to charter school effects on student achievement, using a randomized study with control-group crossover as the experimental benchmark.
@@ -34,15 +34,7 @@ A within-study comparison examines "whether and in what context nonexperimental 
 - **Matched randomized crossover design for within-student comparison of an instructional treatment**: A course-level experimental pattern in which each student serves as their own control across units of a course. Students are assigned to treatment and control in different orders over the units (e.g., TCTC, CTCT, TCCT, CTTC), which, as the authors note, "eliminates what is arguably the largest source of variability in educational studies: variation between students." Matching students on covariates before assigning complementary treatments further guards against baseline differences. (Sun DL et al. (2015))
 
 ### Claims
-- [Control-group noncompliance makes experimental and nonexperimental estimands diverge (CACE vs. all treated subjects)](../claims/noncompliance-estimand-divergence-cace-itt.md) [+W]
-- [Nonexperimental methods incorporating pre-treatment outcome measures can replicate experimental ITT impact estimates when control-group crossover occurs](../claims/nonexperimental-pre-treatment-methods-replicate-itt-under-crossover.md) [+W]
-- [Replication of ITT estimates holds even when treatment effects differ for compliers and always-takers](../claims/replication-robust-to-heterogeneous-complier-always-taker-effects.md) [+W]
-- [Substantial crossover occurred in the Head Start impact study comparison group, with 17.3% of the 3-year-old and 13.9% of the 4-year-old comparison groups enrolling in non-study Head Start programs](../claims/head-start-impact-study-comparison-crossover.md) [+W]
-- [Regression discontinuity estimates show high internal validity, with average bias below 0.01 standard deviations relative to RCT estimates at the same cutoff](../claims/rd-average-bias-below-0-01-sd-high-internal-validity.md) [+M]
-- [Shrunken study-specific RD bias estimates stay below 0.07 standard deviations, indicating good external validity](../claims/rd-shrunken-bias-below-0-07-sd-external-validity.md) [+M]
 - [Individual RD impact estimates show substantial variation in bias, warranting caution when interpreting single RD estimates](../claims/rd-individual-estimates-substantial-bias-variation.md) [+W]
-- [The meta-analysis finds some evidence favoring non-parametric RD methods over parametric ones](../claims/rd-non-parametric-methods-favored.md) [+W]
-- [Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial](../claims/rd-replication-matches-experimental-estimates-two-interventions.md) [+W]
 - [When well implemented, RD and experimental estimators produce impact estimates that are not significantly different and similar in magnitude on average](../claims/rd-well-implemented-matches-experimental-estimates.md) [+W]
 - [Participating in peer assessment causes a small but significant improvement in short-term achievement on unit quizzes in a college statistics course](../claims/peer-assessment-improves-unit-quiz-achievement.md) [+M]
 
@@ -80,10 +72,6 @@ A within-study comparison examines "whether and in what context nonexperimental 
 
 ## Claims
 
-- [Control-group noncompliance makes experimental and nonexperimental estimands diverge (CACE vs. all treated subjects)](../claims/noncompliance-estimand-divergence-cace-itt.md) [+W]
-- [Nonexperimental methods incorporating pre-treatment outcome measures can replicate experimental ITT impact estimates when control-group crossover occurs](../claims/nonexperimental-pre-treatment-methods-replicate-itt-under-crossover.md) [+W]
-- [Replication of ITT estimates holds even when treatment effects differ for compliers and always-takers](../claims/replication-robust-to-heterogeneous-complier-always-taker-effects.md) [+W]
-- [Substantial crossover occurred in the Head Start impact study comparison group, with 17.3% of the 3-year-old and 13.9% of the 4-year-old comparison groups enrolling in non-study Head Start programs](../claims/head-start-impact-study-comparison-crossover.md) [+W]
 
 ## Related Elements
 
@@ -123,11 +111,7 @@ The article's methodological framework is the within-study comparison: each of 1
 
 ### Claims
 
-- [Rd Average Bias Below 0 01 Sd High Internal Validity](../claims/rd-average-bias-below-0-01-sd-high-internal-validity.md) [+M]
-- [Rd Shrunken Bias Below 0 07 Sd External Validity](../claims/rd-shrunken-bias-below-0-07-sd-external-validity.md) [+M]
 - [Individual RD impact estimates show substantial variation in bias, warranting caution when interpreting single RD estimates](../claims/rd-individual-estimates-substantial-bias-variation.md) [+W]
-- [The meta-analysis finds some evidence favoring non-parametric RD methods over parametric ones](../claims/rd-non-parametric-methods-favored.md) [+W]
-- [Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial](../claims/rd-replication-matches-experimental-estimates-two-interventions.md) [+W]
 - [When well implemented, RD and experimental estimators produce impact estimates that are not significantly different and similar in magnitude on average](../claims/rd-well-implemented-matches-experimental-estimates.md) [+W]
 
 ## Related Theories

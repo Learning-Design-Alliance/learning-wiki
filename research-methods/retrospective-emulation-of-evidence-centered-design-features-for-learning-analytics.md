@@ -12,7 +12,7 @@ generated:
 # Retrospective emulation of evidence-centered design features for learning analytics
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because the full ECD framework cannot be applied retrospectively to existing game logs, the article recommends emulating its useful features: a student model operationalizing the hypothesized cognitive dynamics (here, the 2SM stances) and an evidence model mapping those dynamics onto observable log variables. The article states "the goal would be to emulate some useful features of ECD, such as the student model and the evidence model". This constrains latent variables, boosts interpretability, and pre-selects likely-significant observed variables.
@@ -22,7 +22,6 @@ Because the full ECD framework cannot be applied retrospectively to existing gam
 - **Emulate evidence-centered design features (student model and evidence model) when applying learning analytics to game logs retrospectively**: Because the full ECD framework cannot be applied retrospectively to existing game logs, the article recommends emulating its useful features: a student model operationalizing the hypothesized cognitive dynamics (here, the 2SM stances) and an evidence model mapping those dynamics onto observable log variables. The article states "the goal would be to emulate some useful features of ECD, such as the student model and the evidence model". This constrains latent variables, boosts interpretability, and pre-selects likely-significant observed variables. (Martinez-Garza et al. (2017))
 
 ### Claims
-- [Principal components analysis of 16,239 gameplay attempts reduced 23 variables to three components explaining 72.1% of variance](../claims/pca-three-components-gameplay-variables.md) [+M]
 - [Affinity propagation clustering of gameplay attempts yielded an interpretable six-cluster solution (part.6)](../claims/affinity-propagation-six-cluster-solution.md) [+M]
 
 ## Related Research Methods

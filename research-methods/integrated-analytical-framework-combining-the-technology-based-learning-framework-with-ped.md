@@ -12,7 +12,7 @@ generated:
 # Integrated analytical framework combining the technology-based learning framework with Pedaste et al.'s five-phase inquiry cycle
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review adapts the technology-based learning framework (originated by Hsu et al., 2012, with six analytical dimensions: learning devices, learning domains, learning strategies, research methods, participants, and research issues) and integrates Pedaste et al.'s (2015) five-phase inquiry framework into it. This dual-level lens bridges macro-level analysis of technology-supported learning with micro-level inquiry processes, mapping ChatGPT as the primary learning device aligned with IBL as the central learning strategy. RQ1 is answered via the framework's learning domains, participants, and methods dimensions; RQ2 via ChatGPT's positioning across the five inquiry phases; and RQ3 via synthesis of outcomes and issues across learners, educators, and institutions.
@@ -22,7 +22,6 @@ The review adapts the technology-based learning framework (originated by Hsu et 
 - **Integrated analytical framework combining the technology-based learning framework with Pedaste et al.'s five-phase inquiry cycle**: The review adapts the technology-based learning framework (originated by Hsu et al., 2012, with six analytical dimensions: learning devices, learning domains, learning strategies, research methods, participants, and research issues) and integrates Pedaste et al.'s (2015) five-phase inquiry framework into it. This dual-level lens bridges macro-level analysis of technology-supported learning with micro-level inquiry processes, mapping ChatGPT as the primary learning device aligned with IBL as the central learning strategy. RQ1 is answered via the framework's learning domains, participants, and methods dimensions; RQ2 via ChatGPT's positioning across the five inquiry phases; and RQ3 via synthesis of outcomes and issues across learners, educators, and institutions. (Haozhe Jiang et al. (2026))
 
 ### Claims
-- [Research on ChatGPT-supported STEAM inquiry-based learning is unevenly distributed across disciplines, concentrated in science and mathematics](../claims/chatgpt-steam-ibl-uneven-disciplinary-distribution.md) [+M]
 - [ChatGPT applications in STEAM IBL cluster in the investigation, conceptualization and discussion phases, leaving orientation and conclusion largely unexplored](../claims/chatgpt-ibl-phase-coverage-imbalance.md) [+M]
 
 ## Related Research Methods

@@ -43,7 +43,7 @@ WWC summary of findings from the RCT (Table 4). The statistically significant co
 
 
 ## Related Claims
-- [Comparison-group contamination occurred in the Balanced Leadership® trial](balanced-leadership-comparison-contamination.md) — related
+- Comparison-group contamination occurred in the Balanced Leadership® trial — related
 - [Balanced Leadership® may increase school leader retention at the school (potentially positive effects rating)](balanced-leadership-potentially-positive-school-leader-retention.md) — related
 - [Effects of Balanced Leadership® on student achievement, teacher retention, and leadership practice are not established by standards-meeting evidence](balanced-leadership-other-outcomes-not-established.md) — related
 - [Strong leadership is central to rapid school improvement, per the article's summary of research](leadership-central-rapid-school-improvement.md) — related

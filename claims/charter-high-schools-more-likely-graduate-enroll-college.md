@@ -50,7 +50,7 @@ The study analyzes Florida data on students attending charter high schools, conf
 - [Students attending charter high schools are more likely to persist in college](charter-high-schools-more-likely-persist-college.md) — a narrower finding that bears on this claim
 - [The study examines charter high school effects on educational attainment in two settings, Florida and Chicago](charter-attainment-study-florida-chicago-scope.md) — a broader claim this one bears on
 - [Schools with high promotion power for high school graduation tended also to have high promotion power for college enrollment](graduation-promotion-power-relates-college-enrollment.md) — related
-- [Charter school research has historically focused on test scores, with longer-term outcomes only recently examined](charter-research-shift-from-test-scores-to-long-term-outcomes.md) — a broader claim this one bears on
+- Charter school research has historically focused on test scores, with longer-term outcomes only recently examined — a broader claim this one bears on
 - [Charter schools show favorable high school graduation and college-entry results suggesting possible long-term benefits](charter-schools-favorable-graduation-and-college-entry-results.md) — a broader claim this one bears on
 - [Attending a high school that reduces the fear of bullying raises students' graduation rates](bullying-fear-reduction-raises-graduation-rates.md) — related
 - [High school civic engagement is associated with higher graduation rates for all students regardless of age at entry, race, or gender](civic-engagement-higher-graduation-all-students.md) — related

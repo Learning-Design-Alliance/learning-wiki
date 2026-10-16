@@ -43,7 +43,7 @@ Case documentation from the Journeys Project: distance between Amargosa and othe
 
 ## Related Claims
 
-- [Reported PLC outcomes frequently do not correspond with the stated object; complete object–outcome correspondence appeared in only three studies](plc-object-outcome-mismatch.md) — the general claim this finding bears on, with the studies behind it
+- Reported PLC outcomes frequently do not correspond with the stated object; complete object–outcome correspondence appeared in only three studies — the general claim this finding bears on, with the studies behind it
 - [Rural SIG schools reported additional challenges from remote locations and large catchment areas beyond those reported by nonrural SIG schools](rural-sig-schools-additional-location-challenges.md) — a broader claim this one bears on
 - [Students without home broadband or who rely only on a cell phone show a digital skill gap of roughly three grade levels and are less likely to plan for college](home-broadband-digital-skill-gap.md) — related
 - [Consistent participation in a cross-grade, cross-school professional learning community supported PKTP implementation and teacher learning](pktp-plc-supported-implementation.md) — related

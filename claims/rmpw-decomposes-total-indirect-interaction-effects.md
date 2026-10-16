@@ -62,7 +62,7 @@ A second decomposition result stated in the abstract and supported by the articl
 
 
 ## Related Claims
-- [Conventional mediation methods generate biased results when the mediator–outcome relationship depends on treatment condition](conventional-mediation-biased-under-treatment-mediator-interaction.md) — related
+- Conventional mediation methods generate biased results when the mediator–outcome relationship depends on treatment condition — related
 - [RMPW was applied to test whether employment mediated the effect of an experimental welfare-to-work program on maternal depression](rmpw-application-welfare-to-work-maternal-depression.md) — a narrower finding that bears on this claim
-- [Correct specification of the mediator propensity score models is crucial when parametric RMPW is applied](parametric-rmpw-depends-on-propensity-score-specification.md) — related
-- [RMPW requires relatively few assumptions about outcome and mediator distributions and outcome-model functional form compared with model-based alternatives](rmpw-fewer-distributional-assumptions-than-sem-path-analysis.md) — related
+- Correct specification of the mediator propensity score models is crucial when parametric RMPW is applied — related
+- RMPW requires relatively few assumptions about outcome and mediator distributions and outcome-model functional form compared with model-based alternatives — related

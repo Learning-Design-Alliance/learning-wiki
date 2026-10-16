@@ -17,7 +17,7 @@ sources:
 # Landscape analysis of instruments measuring learning strategies and student mindsets in middle childhood
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 This element is the Mathematica Policy Research landscape analysis project on non-cognitive measures. Its stated goal was to "collect and analyze information about instruments designed to measure learning strategies and student mindsets in middle childhood." It serves as a reference resource on measurement instruments for learning strategies and mindsets in the middle-childhood age range, published by Mathematica in 2012.
@@ -39,7 +39,6 @@ This element is the Mathematica Policy Research landscape analysis project on no
 
 ## Claims
 
-- [A 2012 landscape analysis project collected and analyzed information on instruments measuring learning strategies and student mindsets in middle childhood](../claims/landscape-analysis-collected-instruments-learning-strategies-mindsets.md) [+W]
 
 ## Related Elements
 - 

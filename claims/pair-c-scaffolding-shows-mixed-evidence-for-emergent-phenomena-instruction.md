@@ -61,4 +61,4 @@ This is a single-domain (natural selection), single-population (undergraduates, 
 - [AI-driven methodologies in chemistry laboratory classes foster deeper understanding of chemical phenomena while raising questions about human intuition and creativity](ai-lab-methodologies-deeper-understanding-questions-intuition.md) — related
 - [Openness to material feedback is proposed as the single organizing dimension behind the FRA differences between science and generative models](openness-material-feedback-organizing-dimension.md) — related
 - [Scaffolding effects varied by education population, with traditional learners significantly outperforming underperforming learners](education-population-moderates-scaffolding-effect.md) — related
-- [Models can only be understood with respect to the aims and intentions of a cognitive agent, not solely in terms of representation](models-understood-via-agent-aims-and-intentions.md) — related
+- Models can only be understood with respect to the aims and intentions of a cognitive agent, not solely in terms of representation — related

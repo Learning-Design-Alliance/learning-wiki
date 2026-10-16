@@ -63,5 +63,5 @@ Learning-goal coding (Table 7) of the analysed papers: 90% of 2014 empirical pap
 
 ## Related Claims
 - [Empirical ILE papers show a strong increase in breadth of content and time of use](aied-breadth-increase-topics-time.md) — related
-- [The proportion of empirical papers in IJAIED rose sharply between 1994 and 2014](ijaied-empirical-rigor-increase-1994-2014.md) — related
+- The proportion of empirical papers in IJAIED rose sharply between 1994 and 2014 — related
 - [Scaffolding research and frameworks have shifted from motivational-plus-cognitive support toward mostly cognitive support](scaffolding-became-cognitively-skewed.md) — related

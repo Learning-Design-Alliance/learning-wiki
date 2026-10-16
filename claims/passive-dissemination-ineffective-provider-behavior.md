@@ -45,7 +45,7 @@ The overview's synthesis of 41 systematic reviews of professional behavior chang
 ## Related Claims
 - [Educational outreach (for prescribing) and reminders are promising approaches to changing professional behavior](educational-outreach-and-reminders-promising.md) — a narrower finding that bears on this claim
 - [Multifaceted interventions targeting different barriers to change are more likely to be effective than single interventions](multifaceted-interventions-targeting-barriers-more-effective.md) — a broader claim this one bears on
-- [Forty-one systematic reviews of professional behavior change interventions published 1966-1998 were identified, covering a wide range of interventions and behaviors](forty-one-reviews-provider-behavior-change.md) — related
+- Forty-one systematic reviews of professional behavior change interventions published 1966-1998 were identified, covering a wide range of interventions and behaviors — related
 - [Most professional behavior change interventions are effective under some circumstances but none are effective under all circumstances](no-intervention-effective-all-circumstances.md) — a broader claim this one bears on
 - [Sporadic, disconnected professional learning does not change practice long term, whereas well-structured programs can build differentiation skills with positive student outcomes](structured-professional-learning-builds-differentiation-skills.md) — related
 - [The effectiveness of some types of peer tutoring is already well established but under-disseminated to practitioners](peer-tutoring-effectiveness-known-but-undisseminated.md) — related

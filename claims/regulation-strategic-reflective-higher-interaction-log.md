@@ -43,7 +43,7 @@ Descriptive contrast across 190 retained regulation instances (114 interaction-l
 
 
 ## Related Claims
-- [Evidence-depth ratings in both records were concentrated at the awareness and strategic labels, with implicit and reflective evidence uncommon](evidence-depth-concentrated-awareness-strategic.md) — related
+- Evidence-depth ratings in both records were concentrated at the awareness and strategic labels, with implicit and reflective evidence uncommon — related
 - [Retained monitoring units showed a higher combined strategic-plus-reflective share in think-aloud speech than in interaction logs (66.7% vs 41.3%)](monitoring-strategic-reflective-higher-think-aloud.md) — related
 - [Retained planning units showed a higher combined strategic-plus-reflective share in think-aloud speech than in interaction logs (59.4% vs 49.5%)](planning-strategic-reflective-higher-think-aloud.md) — related
 - [In both interaction-log and think-aloud records from a GenAI-assisted instructional-design task, regulation was the most frequent operational label and monitoring the least frequent](regulation-most-frequent-monitoring-least-genai-logs-and-think-aloud.md) — related

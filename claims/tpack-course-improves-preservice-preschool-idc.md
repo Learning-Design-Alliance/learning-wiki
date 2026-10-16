@@ -78,4 +78,4 @@ Paired-sample test of the experimental class (n=21) comparing pre-test (3.795) a
 - [Lesson-plan quality grows steadily across three iterative design rounds, but no product reaches the excellent grade](iterative-design-steady-growth-no-excellent.md) — related
 - The three-dimension instructional design competence model fits the empirical data acceptably in CFA — related
 - [Instructional design competence of pre-service teachers comprises knowledge, ability, and personal attributes dimensions](idc-competence-three-dimensions-validated.md) — related
-- [Ability in instructional design carries the highest second-order factor loading, followed by knowledge and personal attributes](idc-ability-dimension-highest-loading.md) — related
+- Ability in instructional design carries the highest second-order factor loading, followed by knowledge and personal attributes — related

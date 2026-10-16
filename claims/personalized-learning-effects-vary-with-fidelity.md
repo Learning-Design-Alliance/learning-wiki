@@ -79,7 +79,7 @@ RAND matched students in NGLC schools implementing PL practices (adaptive softwa
 - [Blended learning improves outcomes](blended-learning-improves-outcomes.md) — another multi-component model whose effects hinge on how the blend is actually enacted
 - [Competency-based learning](../patterns/competency-based-learning.md) — a personalization approach that requires substantial restructuring of pacing and assessment to implement faithfully
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — a design lens for judging whether a personalized sequence is well-formed, independent of delivery fidelity
-- [Coaching components are inconsistently reported: face-to-face feedback appeared in 94% of studies but coaching fidelity was collected in only 50%](coaching-components-inconsistently-reported.md) — a narrower finding that bears on this claim
+- Coaching components are inconsistently reported: face-to-face feedback appeared in 94% of studies but coaching fidelity was collected in only 50% — a narrower finding that bears on this claim
 - [Teacher buy-in and willingness to engage are viewed as strong mediators of coaching benefits](teacher-buy-in-mediates-coaching-benefit.md) — a narrower finding that bears on this claim
 - [Teachers adhered less to scaffolding than to fully scripted curriculum components across three studies](scaffolding-lower-adherence-than-scripted-components.md) — related
 - [Fidelity of implementation of early language curricula varies widely across teachers and studies](wide-variability-foi-early-language-curricula.md) — related
@@ -91,6 +91,6 @@ RAND matched students in NGLC schools implementing PL practices (adaptive softwa
 - Adaptive training produced substantial and sustained gains in working memory for children with poor working memory — related
 - [Teachers varied in Data Routine enactment, with Sensemaking about the Data least common, and sensemaking activities were strongly associated with open-ended questioning](data-routine-sensemaking-least-common-open-questioning.md) — related
 - [Three fidelity components—completing Apply It problems, following up on Time-Sensitive Interventions, and having Automated Messages on—differentiate classes with better-vs-poorer-than-expected grades.](three-key-fidelity-components-achievement.md) — a narrower finding that bears on this claim
-- [Practitioners identified classroom complexities and fidelity-of-implementation variability as considerations experimental research should account for beyond causal effects](practitioner-considerations-experimental-research.md) — related
+- Practitioners identified classroom complexities and fidelity-of-implementation variability as considerations experimental research should account for beyond causal effects — related
 - Teachers and school directors were uniformly satisfied with digital content training, and coaches observed 96% fidelity in blended-learning implementation — related
 - [ITS benefits in mathematics education vary by system design, domain, learner characteristics, intervention intensity, outcome measurement, teacher mediation, and implementation context](its-benefits-vary-by-design-context.md) — a broader claim this one bears on

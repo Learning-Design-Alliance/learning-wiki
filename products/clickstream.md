@@ -17,7 +17,7 @@ sources:
 # CLICKSTREAM
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 5 studies (5 design), `q1`–`q2` · 0 of 5 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (3 design), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 CLICKSTREAM is a cloud-hosted learning-data infrastructure service developed for educators and researchers to collect, enrich, and analyze timestamped interaction data across digital learning platforms.
@@ -26,7 +26,6 @@ CLICKSTREAM is a cloud-hosted learning-data infrastructure service developed for
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Enriched DLP data enable two types of theory testing: sustained observation of individuals in a single setting and modeling the same type of learner across contexts](../claims/clickstream-enables-two-types-theory-testing.md) [+W]
 - [Instructor co-designed tagging transforms raw LMS log data into structured event data reflecting course design and temporal context](../claims/clickstream-tagging-transforms-logs-into-contextualized-events.md) [+W]
 - [Prediction algorithms forecast student achievement from small windows of data, more accurately when data are enriched with instructional design and learning-process detail](../claims/enriched-data-improve-achievement-prediction.md) [+W]
 - [Working a research scenario against a DLP surfaced concrete platform needs: adding measures, linking observational data, and enabling districtwide studies](../claims/scenario-terracotta-platform-capability-lessons.md) [+W]
@@ -64,7 +63,6 @@ CLICKSTREAM (Cyberinfrastructure for Learning Insights & Curricular Knowledge us
 
 ## Claims
 
-- [Enriched DLP data enable two types of theory testing: sustained observation of individuals in a single setting and modeling the same type of learner across contexts](../claims/clickstream-enables-two-types-theory-testing.md) [+W]
 - [Instructor co-designed tagging transforms raw LMS log data into structured event data reflecting course design and temporal context](../claims/clickstream-tagging-transforms-logs-into-contextualized-events.md) [+W]
 - [Prediction algorithms forecast student achievement from small windows of data, more accurately when data are enriched with instructional design and learning-process detail](../claims/enriched-data-improve-achievement-prediction.md) [+W]
 - [Working a research scenario against a DLP surfaced concrete platform needs: adding measures, linking observational data, and enabling districtwide studies](../claims/scenario-terracotta-platform-capability-lessons.md) [+W]

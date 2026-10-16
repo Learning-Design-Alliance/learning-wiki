@@ -17,7 +17,7 @@ sources:
 # Synthetic within-study comparison design for assessing regression discontinuity performance
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (2 causal, 1 quant-synthesis), `q2`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A methodological artifact in which the authors "generate synthetic RD data sets from experimental data sets" from two recent evaluations of educational interventions—the Educational Technology Study and the Teach for America Study—and "compare the RD impact estimates to the experimental estimates of the same intervention." This lets RD performance be benchmarked against randomized estimates for the same interventions. The article uses it both to test well-implemented RD and to study manipulation bias.
@@ -28,8 +28,6 @@ A methodological artifact in which the authors "generate synthetic RD data sets 
 
 ### Claims
 - [When well implemented, RD and experimental estimators produce impact estimates that are not significantly different and similar in magnitude on average](../claims/rd-well-implemented-matches-experimental-estimates.md) [+W]
-- [Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial](../claims/rd-replication-matches-experimental-estimates-two-interventions.md) [+W]
-- [Regression discontinuity estimates show high internal validity, with average bias below 0.01 standard deviations relative to RCT estimates at the same cutoff](../claims/rd-average-bias-below-0-01-sd-high-internal-validity.md) [+W]
 
 ## Related Research Methods
 -
@@ -64,8 +62,6 @@ A methodological artifact in which the authors "generate synthetic RD data sets 
 ## Claims
 
 - [When well implemented, RD and experimental estimators produce impact estimates that are not significantly different and similar in magnitude on average](../claims/rd-well-implemented-matches-experimental-estimates.md) [+W]
-- [Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial](../claims/rd-replication-matches-experimental-estimates-two-interventions.md) [+W]
-- [Regression discontinuity estimates show high internal validity, with average bias below 0.01 standard deviations relative to RCT estimates at the same cutoff](../claims/rd-average-bias-below-0-01-sd-high-internal-validity.md) [+W]
 
 ## Related Elements
 

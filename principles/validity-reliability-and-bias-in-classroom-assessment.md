@@ -35,7 +35,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 162 claims (73 for, 76 mixed, 13 against) · 123 studies (41 associational, 30 design, 18 theoretical, 17 review, 12 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 8 of 123 report an effect size · 157 claims rest on one study
+> **Evidence** · 158 claims (69 for, 76 mixed, 13 against) · 122 studies (41 associational, 30 design, 17 review, 17 theoretical, 12 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 8 of 122 report an effect size · 153 claims rest on one study
 
 ## Conditional relationship
 
@@ -160,14 +160,14 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [CATs can effectively address the validity threat posed by unmotivated examinees in low-stakes testing](../claims/cats-address-unmotivated-examinee-validity-threat.md) [+W]: a review's statement about adaptive testing in low-stakes programmes; no study details on the page.
 - [Rasch-based refinement reduced the Early Ed Essentials surveys to 24 teacher measures (122 items) and 9 parent measures (42 items)](../claims/early-ed-essentials-rasch-refined-measures.md) [+W]: describes how one set of early-education surveys was refined with Rasch criteria; a development record, not a test of a decision.
 - [Iar Cdr Factor Scores Low Intercorrelations](../claims/iar-cdr-factor-scores-low-intercorrelations.md) [+M]: two locus-of-control questionnaires with weakly related factor scores (188 ninth-graders); bears on construct validity of research instruments, not on classroom achievement assessment.
-- [Eleven Components Iar Cdr](../claims/eleven-components-iar-cdr.md) [+M]: the factor structure behind the line above; descriptive, same limit.
+- Eleven Components Iar Cdr [+M]: the factor structure behind the line above; descriptive, same limit.
 - [Loa Correlates Predictions Borne Out](../claims/loa-correlates-predictions-borne-out.md) [+W]
 - [Free Response Loa High Nonresponse](../claims/free-response-loa-high-nonresponse.md) [+W]
 - [Linguist review of draft items revealed communication problems with terminology and imprecisely reasoned attitude statements](../claims/linguist-review-revealed-item-communication-problems.md) [+W]
 - [Some 2003 MCAS fourth-grade math word problems exhibited differential item functioning for English-language learners versus non-ELLs](../claims/mcas-math-word-problems-dif-for-ells.md) [+M] — attached 2026-10-15 from Maria Martiniello (2008), which proposed "Scrutinize the appropriateness of inferences about ELLs' math knowledge drawn from linguistically complex test items"; tests this page's relationship.
 - [Textual analysis identifies specific linguistic features of MCAS word problems that posed disproportionate difficulty for ELLs](../claims/linguistic-features-of-dif-mcas-word-problems.md) [+M] — attached 2026-10-15 from Maria Martiniello (2008), which proposed "Scrutinize the appropriateness of inferences about ELLs' math knowledge drawn from linguistically complex test items"; tests this page's relationship.
-- [Cohen's kappa exceeds Scott's pi when coders show unequal marginal category preferences, counting those disagreements as agreement](../claims/kappa-exceeds-pi-unequal-margins.md) [+W] — attached 2026-10-16 from Klaus Krippendorff (2004), which proposed "Use only chance-corrected agreement coefficients satisfying interchangeability and population-reference conditions; reject %-agreement, correlation, and association measures as reliability indices".
-- [Lombard et al.'s fallback criterion (alpha below .700, accept if %-agreement above .900) accepts data whose chance-corrected coefficients indicate near-zero reliability](../claims/percent-agreement-fallback-accepts-unreliable-data.md) [+W] — attached 2026-10-16 from Klaus Krippendorff (2004), which proposed "Use only chance-corrected agreement coefficients satisfying interchangeability and population-reference conditions; reject %-agreement, correlation, and association measures as reliability indices".
+- Cohen's kappa exceeds Scott's pi when coders show unequal marginal category preferences, counting those disagreements as agreement [+W] — attached 2026-10-16 from Klaus Krippendorff (2004), which proposed "Use only chance-corrected agreement coefficients satisfying interchangeability and population-reference conditions; reject %-agreement, correlation, and association measures as reliability indices".
+- Lombard et al.'s fallback criterion (alpha below .700, accept if %-agreement above .900) accepts data whose chance-corrected coefficients indicate near-zero reliability [+W] — attached 2026-10-16 from Klaus Krippendorff (2004), which proposed "Use only chance-corrected agreement coefficients satisfying interchangeability and population-reference conditions; reject %-agreement, correlation, and association measures as reliability indices".
 - [Reflective modeling of formative knowledge constructs risks misrepresenting domain knowledge as a general factor such as intelligence](../claims/reflective-model-misrepresents-domain-knowledge.md) [+W] — attached 2026-10-16 from Knowledge as a formative construct: A good alpha is not always better, which proposed "Match a knowledge assessment's measurement model to the construct's theoretical conceptualization before applying scale-quality criteria"; tests this page's relationship.
 - [Off-line self-reports of strategy use may not correspond to actual learner behavior due to memory-reconstruction problems](../claims/off-line-self-reports-memory-reconstruction-problem.md) [+W] — attached 2026-10-16 from Marcel V. J. Veenman (2011), which proposed "Treat off-line self-report assessments of strategy use as prone to memory-reconstruction and prompting threats, and pursue more validation work".
 - [Peer assessment is equivalent to teacher assessment for exact-science exams with clear marking schemes](../claims/peer-assessment-valid-exact-science-exams.md) [+W] — attached 2026-10-16 from Bouzidi et al. (2009), which proposed "Trust peer assessment only for exact-science exams marked by at least four peers with quality precautions in place"; tests this page's relationship.
@@ -209,7 +209,6 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Using grade 6 math CST scale scores rather than proficiency status increases the accuracy of grade 8 algebra I placement decisions from 69 to 75 percent](../claims/grade6-cst-scale-scores-improve-algebra-placement-accuracy.md) [+W]
 - [The most challenging holistic-rubric question reached only moderate inter-rater reliability (kw=0.54) after three iterations](../claims/holistic-hardest-question-moderate-reliability.md) [~W]
 - [GPA combined with test scores was the best prediction of college degree attainment for all English Learner groups, but the test-score relationship partly reflects school composition](../claims/gpa-test-scores-best-college-degree-prediction-el.md) [+W]
-- [The second human expert showed the highest and most stable agreement with the gold-standard rater, with no mid-range degradation across the response quality spectrum](../claims/human-highest-stable-agreement-across-quality-range.md) [+W]
 - [Under the initial rubric with direct evaluation, machine raters systematically underestimate openness while relevance and clarity align near-perfectly](../claims/initial-rubric-openness-systematic-underestimation.md) [~W]
 - [Reading score distributions within A–F letter grades overlap heavily, so letter grades misrepresent the achievement of many individual students](../claims/letter-grades-hide-within-grade-score-variation.md) [+W]
 - [Inter-rater agreement among the 20 expert teachers was low, at or below chance across QM criteria](../claims/low-inter-rater-agreement-qm-criteria.md) [-W]
@@ -374,7 +373,6 @@ The article concludes that instrument developers must attend to how situations a
 
 ### Claims
 - [Iar Cdr Factor Scores Low Intercorrelations](../claims/iar-cdr-factor-scores-low-intercorrelations.md) [+M]
-- [Eleven Components Iar Cdr](../claims/eleven-components-iar-cdr.md) [+M]
 
 ## Related Principles
 - 

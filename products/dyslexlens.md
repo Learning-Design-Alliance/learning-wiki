@@ -13,7 +13,7 @@ generated:
 # DysLexLens
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 DysLexLens is a low-resource, evidence-traceable LLM framework developed by Dana Rezazadegan et al. that constructs a dictionary-filtered knowledge graph from noisy social-media data, generates source-referenced answers, and evaluates their relevance and verifiability.
@@ -24,7 +24,6 @@ DysLexLens is a low-resource, evidence-traceable LLM framework developed by Dana
 ### Claims
 
 - [DysLexLens achieves a mean Answer Relevancy of 0.75 across 30 responses to research questions and follow-ups on dyslexia-AI Reddit data](../claims/dyslexlens-mean-answer-relevancy-075.md) [+M]
-- [Of 100 human-audited claims, 39 are fully verifiable, 55 partially verifiable, and 6 not verifiable, with main responses showing stronger provenance than follow-ups](../claims/human-audit-claim-verifiability.md) [+M]
 - [DysLexLens is moderately robust to paraphrased queries (Answer Relevancy 0.58) but sensitive to keyword-perturbed queries (0.34)](../claims/query-robustness-paraphrase-keyword-perturbation.md) [~W]
 
 ## Related Products and Programmes

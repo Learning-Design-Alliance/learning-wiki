@@ -16,7 +16,7 @@ sources:
 # Systems change defined as shifting the conditions that produce and hold societal problems in place
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief's organizing framework is systems change, which it defines as "shifting the conditions that produce and hold societal problems in place." It applies this framework to place-based partnerships in education that "seek to improve the systems that impact individuals' journeys from cradle to career and beyond," organizing a literature review around what drives such change.
@@ -38,7 +38,6 @@ The brief's organizing framework is systems change, which it defines as "shiftin
 ### Claims
 
 - [Research identifies critical components of successful place-based systems change in education](../claims/critical-components-successful-place-based-systems-change-education.md) [+W]
-- [Research on systems change success has proliferated as philanthropic interest grows](../claims/proliferation-of-systems-change-success-research.md) [+W]
 
 ## Related Theories
 

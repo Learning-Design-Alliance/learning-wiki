@@ -58,6 +58,6 @@ Qualitative characterization of the three main clusters from the same coauthorsh
 
 
 ## Related Claims
-- [Removing the workshop's coauthorship edges increased average path length and network diameter, indicating the workshop publications bridge otherwise separate researcher groups](workshop-papers-bridge-researcher-groups.md) — related
-- [Platform-enabled experimentation research draws on multiple intellectual lineages, including intelligent tutoring systems, formative feedback, and exemplar platforms like ASSISTments](multiple-intellectual-lineages-shared-foundations.md) — related
-- [The DLP-as-research-infrastructure community is small and fragmented: the DLP-focused cluster was one of five bibliographic-coupling communities and only 20.6% of filtered papers](dlp-subfield-small-and-fragmented.md) — related
+- Removing the workshop's coauthorship edges increased average path length and network diameter, indicating the workshop publications bridge otherwise separate researcher groups — related
+- Platform-enabled experimentation research draws on multiple intellectual lineages, including intelligent tutoring systems, formative feedback, and exemplar platforms like ASSISTments — related
+- The DLP-as-research-infrastructure community is small and fragmented: the DLP-focused cluster was one of five bibliographic-coupling communities and only 20.6% of filtered papers — related

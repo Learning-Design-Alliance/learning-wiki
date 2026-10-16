@@ -18,7 +18,7 @@ sources:
 # National Study of Online Charter Schools principal survey
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (7 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 A nationwide survey dataset collected by Mathematica Policy Research from 127 online charter school principals to describe online charter schools' operations and instructional approaches.
@@ -27,7 +27,6 @@ A nationwide survey dataset collected by Mathematica Policy Research from 127 on
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Few studies of online instruction's operations and effects existed before the National Study of Online Charter Schools](../claims/few-prior-studies-online-instruction-operations-effects.md) [+W]
 - [The National Study of Online Charter Schools provides the first nationwide data and analysis of online charter schools' operations and instructional approaches, based on a survey of 127 principals](../claims/first-nationwide-online-charter-operations-survey-127-principals.md) [+W]
 - [About 200 online charter schools operate in the United States, serving about 200,000 students across elementary, middle, and high school grades](../claims/online-charter-schools-200-schools-200000-students.md) [+W]
 - [Maintaining student engagement is the greatest challenge reported by online charter school principals, identified nearly three times as often as any other challenge](../claims/online-charters-engagement-greatest-challenge.md) [+W]
@@ -67,7 +66,6 @@ A nationwide survey of online charter school principals, described as the data s
 
 ## Claims
 
-- [Few studies of online instruction's operations and effects existed before the National Study of Online Charter Schools](../claims/few-prior-studies-online-instruction-operations-effects.md) [+W]
 - [The National Study of Online Charter Schools provides the first nationwide data and analysis of online charter schools' operations and instructional approaches, based on a survey of 127 principals](../claims/first-nationwide-online-charter-operations-survey-127-principals.md) [+W]
 - [About 200 online charter schools operate in the United States, serving about 200,000 students across elementary, middle, and high school grades](../claims/online-charter-schools-200-schools-200000-students.md) [+W]
 - [Maintaining student engagement is the greatest challenge reported by online charter school principals, identified nearly three times as often as any other challenge](../claims/online-charters-engagement-greatest-challenge.md) [+W]

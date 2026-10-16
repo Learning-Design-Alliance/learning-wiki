@@ -44,7 +44,7 @@ The review's assumption-check analysis (Table 1) found "the unidimensionality as
 
 
 ## Related Claims
-- [Item and test information functions and marginal reliability were reported by fewer than half of the reviewed studies](information-functions-underreported-irt-studies.md) — related
+- Item and test information functions and marginal reliability were reported by fewer than half of the reviewed studies — related
 - [The assessment violates IRT assumptions of unidimensionality and local independence, which the authors identify as a likely cause of the method discrepancy](irt-assumption-violations-cause-dif-method-discrepancy.md) — related
 - [In an empirical comparison on a testlet-based English assessment test, the bifactor model is preferred over the second-order and unidimensional 2PL models by both AIC and BIC](bifactor-model-preferred-aic-bic-testlet-test.md) — related
 - [Ignoring testlet effects by fitting a unidimensional 2PL model produced mild shrinkage of item intercept and loading estimates toward zero relative to the bifactor model](ignoring-testlet-effects-shrinks-parameter-estimates.md) — related

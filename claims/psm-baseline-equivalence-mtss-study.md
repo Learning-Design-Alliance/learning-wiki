@@ -46,11 +46,11 @@ Propensity scores were estimated by logistic regression on gender, race/ethnicit
 - [In the full-sample analysis, baseline demographic and prior-achievement differences between treatment and matched comparison groups were minimal, with effect sizes below the WWC threshold](air-tutors-full-sample-baseline-equivalence.md) — related
 - [Students in MTSS-coached schools had significantly fewer days absent in both implementation years](mtss-coaching-fewer-days-absent.md) — related
 - [Students in MTSS-coached schools were significantly less likely to have at least one behavior incident](mtss-coaching-lower-likelihood-behavior-incident.md) — related
-- [Using baseline data strongly predictive of outcome measures considerably reduces bias in nonexperimental estimates of charter school achievement effects](predictive-baseline-data-reduce-nonexperimental-bias.md) — a broader claim this one bears on
-- [Propensity score stratification using multilevel models reduces selection bias from confounding variables and improves accuracy of charter school effect estimations](propensity-stratification-multilevel-reduces-selection-bias.md) — related
+- Using baseline data strongly predictive of outcome measures considerably reduces bias in nonexperimental estimates of charter school achievement effects — a broader claim this one bears on
+- Propensity score stratification using multilevel models reduces selection bias from confounding variables and improves accuracy of charter school effect estimations — related
 - A virtual comparison group matched on pretest, locale, FRL, and test dates achieved baseline equivalence with the treatment group (effect size = -0.03) — related
 - [Baseline equivalence held between conditions, but both groups scored far below the grade 8 proficiency cut score](assistments-baseline-equivalence-proficiency-gap.md) — related
 - Baseline pre-assessment scores showed no statistical differences between treatment and control groups in either the matched or baseline sample. — related
 - Propensity score matching produced comparison groups equivalent at baseline (within +/- 0.25 standard deviations) on all pretest achievement measures across the three QEDs — related
 - Matched treatment and comparison grade-level clusters were balanced on observable baseline characteristics, with differences below a quarter of a standard deviation — related
-- [Learning-loss estimates are robust to placebo tests, propensity-score and maximum-entropy reweighting, and school and family fixed effects](learning-loss-robust-to-reweighting-and-fixed-effects.md) — related
+- Learning-loss estimates are robust to placebo tests, propensity-score and maximum-entropy reweighting, and school and family fixed effects — related

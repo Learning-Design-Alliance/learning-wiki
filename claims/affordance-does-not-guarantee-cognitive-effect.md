@@ -49,7 +49,7 @@ The authors' theoretical argument, citing Seidman (1983), that assuming unique f
 ## Related Claims
 - [One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments](checklist-evaluation-ineffective-online.md) — related
 - Learners' beliefs about a medium and its processing demands influence the mental effort they invest in processing it — related
-- [Reported PLC outcomes frequently do not correspond with the stated object; complete object–outcome correspondence appeared in only three studies](plc-object-outcome-mismatch.md) — a broader claim this one bears on
+- Reported PLC outcomes frequently do not correspond with the stated object; complete object–outcome correspondence appeared in only three studies — a broader claim this one bears on
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
 - [Students can only improve if they develop the capacity to monitor the quality of their own work during actual production](self-monitoring-during-production-premise.md) — related
 - [Learning from visual displays often yields disappointing outcomes because displays pose substantial demands on learners](visual-displays-pose-demands-disappointing-outcomes.md) — a narrower finding that bears on this claim

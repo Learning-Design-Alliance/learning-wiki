@@ -44,5 +44,5 @@ The article's abstract asserts that disengaged responding "often biases observed
 
 ## Related Claims
 - [Test disengagement could undermine inferences drawn from observed achievement scores](disengagement-undermines-score-inferences.md) — a narrower finding that bears on this claim
-- [Filtered students had much lower effort-moderated achievement, suggesting motivation filtering may bias mean estimates](filtering-removes-low-achievers-bias-risk.md) — related
+- Filtered students had much lower effort-moderated achievement, suggesting motivation filtering may bias mean estimates — related
 - [Validating decision rules for detecting disengaged survey responses is problematic because surveys have no correct answers](survey-disengagement-detection-validation-problem.md) — related

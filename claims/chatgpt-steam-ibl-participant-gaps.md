@@ -62,7 +62,7 @@ RQ1 sample-size distribution across the 24 studies (Fig. 7), with most studies (
 
 
 ## Related Claims
-- [Research on ChatGPT-supported STEAM inquiry-based learning is unevenly distributed across disciplines, concentrated in science and mathematics](chatgpt-steam-ibl-uneven-disciplinary-distribution.md) — related
+- Research on ChatGPT-supported STEAM inquiry-based learning is unevenly distributed across disciplines, concentrated in science and mathematics — related
 - [ChatGPT applications in STEAM IBL cluster in the investigation, conceptualization and discussion phases, leaving orientation and conclusion largely unexplored](chatgpt-ibl-phase-coverage-imbalance.md) — related
 - [ChatGPT use in STEAM IBL is reported to enhance learner outcomes including motivation, critical thinking, engagement, and problem-solving](chatgpt-steam-ibl-learner-advantages.md) — related
 - [ChatGPT use in STEAM IBL is reported to improve teaching efficiency, student engagement, and flexible instructional design](chatgpt-steam-ibl-teaching-process-advantages.md) — related

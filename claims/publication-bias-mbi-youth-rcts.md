@@ -45,6 +45,6 @@ Begg's funnel plots and Egger's regressions conducted for each meta-analysis. Th
 ## Related Claims
 - [When only RCTs with active control groups are analysed, MBI benefits are restricted to Mindfulness (d = .42), Depression (d = .47) and Anxiety/Stress (d = .18)](active-control-rcts-benefits-restricted.md) — related
 - [Across all RCTs, mindfulness-based interventions significantly improve mindfulness, executive functioning, attention, depression, anxiety/stress and negative behaviours in youth, with small effect sizes](mbis-small-positive-effects-all-rcts-youth.md) — related
-- [Risk of bias moderates the Mindfulness effect in active-control RCTs, with higher-risk studies producing larger effect sizes](risk-of-bias-inflates-mindfulness-effects.md) — related
+- Risk of bias moderates the Mindfulness effect in active-control RCTs, with higher-risk studies producing larger effect sizes — related
 - [School-based mindfulness interventions produce small-to-moderate significant pre-post improvements in youth mental health and well-being compared to control groups](school-mindfulness-small-moderate-effect-youth-mental-health.md) — related
-- [Funnel-plot asymmetry was significant in both meta-analyses, indicating possible publication or selection bias](funnel-plot-asymmetry-significant-eai.md) — related
+- Funnel-plot asymmetry was significant in both meta-analyses, indicating possible publication or selection bias — related

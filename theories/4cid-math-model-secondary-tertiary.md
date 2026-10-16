@@ -15,7 +15,7 @@ sources:
 # 4C/ID Math Model for secondary-tertiary mathematics instruction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The 4C/ID Math Model is an empirically confirmed adaptation of the Cognitive Load Theory-based Four-Component Instructional Design Model for secondary-tertiary mathematics. Its four renamed components are the Mathematical Learning Task Component (whole tasks presented to avoid the transfer paradox), the Conceptual Understanding Component (the renamed Support Component), the Procedural Fluency Component (the renamed Procedure Component, hooking schemas from long-term memory), and the Practice for Recall Component (the renamed Part-Task Component). The authors state it "can be used to guide instruction in secondary precalculus and calculus courses to support transfer of learning to single variable college calculus."
@@ -37,7 +37,6 @@ The 4C/ID Math Model is an empirically confirmed adaptation of the Cognitive Loa
 
 ### Claims
 - [Cfa Confirms 4Cid Model Secondary Tertiary Mathematics](../claims/cfa-confirms-4cid-model-secondary-tertiary-mathematics.md) [+M]
-- [Four 4Cid Factors Observed Variable Counts](../claims/four-4cid-factors-observed-variable-counts.md) [+M]
 
 ## Related Theories
 - 

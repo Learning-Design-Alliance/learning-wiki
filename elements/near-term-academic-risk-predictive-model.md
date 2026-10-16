@@ -17,7 +17,7 @@ sources:
 # Predictive model of near-term academic risk combining school and child welfare data
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (6 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 The article describes a predictive model that uses both school data and child welfare data to flag students at risk of near-term academic problems. The fact sheet states it "describes predictors related to near-term academic problems, meaning academic problems in the next quarter or semester," and that the companion report "details the approach used to develop a predictive model." The model's purpose is early identification of at-risk students so educators can intervene within the coming academic term.
@@ -39,7 +39,6 @@ The article describes a predictive model that uses both school data and child we
 ## Claims
 
 - [A predictive model built from school and child welfare data identifies students at risk of near-term academic problems](../claims/school-child-welfare-data-predict-near-term-academic-risks.md) [+W]
-- [The study uses five years of linked school and child welfare administrative data to predict near-term academic risks, with the two most recent years serving as outcome years](../claims/five-year-linked-data-predict-near-term-academic-risks.md) [+W]
 - [A predictive model built on school and child welfare data was assessed for identifying at-risk students in two Allegheny County education agencies](../claims/risk-model-assessed-two-allegheny-agencies.md) [+W]
 - [A partnership developed an approach for identifying at-risk students using school data linked with child welfare, justice, human services, and public benefits data.](../claims/linked-school-human-services-data-identify-near-term-academic-risk.md) [+W]
 - [Near-term academic problems targeted include absenteeism, suspensions, poor grades, and low state-test performance](../claims/near-term-academic-problem-types-defined.md) [+W]

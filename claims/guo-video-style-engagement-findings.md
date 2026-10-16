@@ -60,7 +60,7 @@ Narrative review attributing these findings to Guo, Kim, and Rubin (2014), descr
 
 - [Segmenting video into short pieces or click-forward pauses supports student engagement and learning from video](segmenting-supports-video-engagement-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Human embodiment in video: perceived social presence benefits learning ratings, but instructor-face inclusion shows no significant learning-performance difference, and learners prefer human over robot presenters with mixed recall](human-embodiment-video-presence-effects.md) — related
-- [Previous instructional-video research lacks a consistent taxonomy, hindering comparison and meta-analysis](video-style-research-lacks-consistent-taxonomy.md) — related
+- Previous instructional-video research lacks a consistent taxonomy, hindering comparison and meta-analysis — related
 - [MOOC video styles cluster by discipline: humanities/arts favor speaker-centric, science/engineering favor board-centric](mooc-video-styles-discipline-clusters.md) — related
 - [Most remote courses used both synchronous and asynchronous delivery mechanisms](remote-courses-mixed-synchronous-asynchronous-delivery.md) — related
 - [MOOC video engagement declines with video length, with median engagement under half the duration for videos longer than nine minutes](mooc-engagement-declines-with-video-length.md) — related

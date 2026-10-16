@@ -16,7 +16,7 @@ sources:
 # Asymdystopia: small biases raise the risk of false inferences as studies are powered to detect smaller impacts
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Asymdystopia is the authors' name for the phenomenon whereby "the potential for small biases to increase the risk of making false inferences as studies are powered to detect smaller impacts" grows. As education evaluations target effects below Cohen's "small" benchmark of 0.20 standard deviations, the same small bias can flip an inference, so the drive for finer detection creates a parallel need "to guard against smaller biases." The paper examines this for RCTs and RDDs.
@@ -37,7 +37,6 @@ Asymdystopia is the authors' name for the phenomenon whereby "the potential for 
 
 ### Claims
 
-- [Education evaluators increasingly design studies to detect impacts smaller than 0.20 standard deviations](../claims/evaluators-target-impacts-below-020-sd.md) [+W]
 
 ## Related Theories
 - 

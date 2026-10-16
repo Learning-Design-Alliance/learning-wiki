@@ -159,7 +159,7 @@ sources:
 # MAP Growth
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 104 claims (100 for, 4 mixed) · 47 studies (35 associational, 6 design, 4 theoretical, 2 causal), `q1`–`q3` · 2 of 47 report an effect size · 100 claims rest on one study
+> **Evidence** · 103 claims (99 for, 4 mixed) · 47 studies (35 associational, 6 design, 4 theoretical, 2 causal), `q1`–`q3` · 2 of 47 report an effect size · 99 claims rest on one study
 
 ## Description
 MAP Growth is NWEA's computer-adaptive assessment system, with national achievement and growth norms and reporting tools such as the MAP Growth National Dashboard.
@@ -301,7 +301,6 @@ MAP Growth is NWEA's computer-adaptive assessment system, with national achievem
 - [Using nationwide MAP Growth scores, the brief examines how many students ready for Algebra actually enrolled in it](../claims/algebra-ready-students-enrollment-examined-map-growth.md) [+M]
 - [Access to 8th-grade Algebra remains highly inequitable across the United States](../claims/8th-grade-algebra-access-inequitable-nationwide.md) [+M]
 - [High-achieving students who fell below the 90th percentile typically stayed at the 70th percentile or higher](../claims/fallen-high-flyers-stay-70th-percentile-or-higher.md) [+W]
-- [The study operationalized high achievement as scoring at or above the 90th percentile on the NWEA assessment](../claims/high-achievement-defined-as-90th-percentile-or-above.md) [+W]
 - [The high-flyer cohort comprised 91,643 students from more than 800 schools in 28 states](../claims/high-flyer-cohort-91643-students-28-states.md) [+W]
 - [About three in five students identified as high-achieving in the first year remained high-achieving in the last year of the study](../claims/three-in-five-high-achievers-remain-high-achieving.md) [+W]
 - [DHH students in grades 2–8 continue to build reading and mathematics skills and do not necessarily plateau in the elementary grades](../claims/dhh-students-continue-building-skills-no-elementary-plateau.md) [+W]
@@ -1950,7 +1949,6 @@ NWEA MAP Growth is a computer-adaptive achievement assessment and associated lon
 - [Using nationwide MAP Growth scores, the brief examines how many students ready for Algebra actually enrolled in it](../claims/algebra-ready-students-enrollment-examined-map-growth.md) [+M]
 - [Access to 8th-grade Algebra remains highly inequitable across the United States](../claims/8th-grade-algebra-access-inequitable-nationwide.md) [+M]
 - [High-achieving students who fell below the 90th percentile typically stayed at the 70th percentile or higher](../claims/fallen-high-flyers-stay-70th-percentile-or-higher.md) [+W]
-- [The study operationalized high achievement as scoring at or above the 90th percentile on the NWEA assessment](../claims/high-achievement-defined-as-90th-percentile-or-above.md) [+W]
 - [The high-flyer cohort comprised 91,643 students from more than 800 schools in 28 states](../claims/high-flyer-cohort-91643-students-28-states.md) [+W]
 - [About three in five students identified as high-achieving in the first year remained high-achieving in the last year of the study](../claims/three-in-five-high-achievers-remain-high-achieving.md) [+W]
 - [DHH students in grades 2–8 continue to build reading and mathematics skills and do not necessarily plateau in the elementary grades](../claims/dhh-students-continue-building-skills-no-elementary-plateau.md) [+W]
@@ -2223,7 +2221,6 @@ The study's data source is NWEA's longitudinal growth database, which the descri
 ## Claims
 
 - [High-achieving students who fell below the 90th percentile typically stayed at the 70th percentile or higher](../claims/fallen-high-flyers-stay-70th-percentile-or-higher.md) [+W]
-- [The study operationalized high achievement as scoring at or above the 90th percentile on the NWEA assessment](../claims/high-achievement-defined-as-90th-percentile-or-above.md) [+W]
 - [The high-flyer cohort comprised 91,643 students from more than 800 schools in 28 states](../claims/high-flyer-cohort-91643-students-28-states.md) [+W]
 - [About three in five students identified as high-achieving in the first year remained high-achieving in the last year of the study](../claims/three-in-five-high-achievers-remain-high-achieving.md) [+W]
 

@@ -48,4 +48,4 @@ Moderated mediation analysis in the same 480-student cross-sectional survey. The
 - [Cognitive load partially mediates the relationship between AI-based educational technology use and critical thinking](cognitive-load-partially-mediates-ai-critical-thinking.md) — related
 - [Self-regulated learning moderates the cognitive load–critical thinking relationship, buffering the negative effect of load](srl-moderates-cognitive-load-critical-thinking.md) — a narrower finding that bears on this claim
 - [Self-regulated learning and critical AI evaluation promote effective AI use](srl-and-critical-evaluation-promote-effective-ai-use.md) — related
-- [The SRL and SAL perspectives on student motivation and learning differ, and the article discusses those differences](srl-perspective-contrasts-with-sal-perspective.md) — related
+- The SRL and SAL perspectives on student motivation and learning differ, and the article discusses those differences — related

@@ -34,7 +34,7 @@ sources:
 # KIPP
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 16 claims (15 for, 1 mixed) · 8 studies (7 causal, 1 theoretical), `q2`–`q3` · 1 of 8 report an effect size · 13 claims rest on one study
+> **Evidence** · 15 claims (14 for, 1 mixed) · 8 studies (7 causal, 1 theoretical), `q2`–`q3` · 1 of 8 report an effect size · 12 claims rest on one study
 
 ## Description
 KIPP is a network of public charter schools operated by the KIPP Foundation and affiliated local KIPP organizations, serving students through its school model.
@@ -56,7 +56,6 @@ KIPP is a network of public charter schools operated by the KIPP Foundation and 
 - [A lottery-based randomized controlled trial of KIPP middle schools found statistically significant positive effects on state math and reading tests](../claims/kipp-rct-lottery-positive-effects.md) [+M]
 - [In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial](../claims/kipp-middle-schools-positive-significant-math-reading-impacts.md) [+W]
 - [KIPP's Five Pillars strongly influenced the charter school community and traditional public schools](../claims/kipp-five-pillars-influenced-charter-sector.md) [+M]
-- [This is the first high-quality study to rigorously examine the impacts of the KIPP charter school network at all elementary and secondary grade levels](../claims/first-rigorous-study-kipp-all-grade-levels.md) [+W]
 - [For students continuing from KIPP middle schools, KIPP high schools have positive impacts on a variety of college preparation activities and the likelihood of applying to college](../claims/kipp-high-school-continuing-students-college-preparation.md) [+W]
 - [KIPP high schools have positive, statistically significant achievement impacts for students new to the KIPP network, but not for students continuing from KIPP middle schools](../claims/kipp-high-school-impacts-new-entrants-not-continuing.md) [+W]
 - [Average impacts of KIPP middle schools were positive and statistically significant throughout the 10-year study period, though higher in earlier years than recent years](../claims/kipp-middle-impacts-positive-throughout-higher-earlier-years.md) [+W]
@@ -297,7 +296,6 @@ KIPP is a network of public charter schools serving students from elementary thr
 
 ## Claims
 
-- [This is the first high-quality study to rigorously examine the impacts of the KIPP charter school network at all elementary and secondary grade levels](../claims/first-rigorous-study-kipp-all-grade-levels.md) [+W]
 - [For students continuing from KIPP middle schools, KIPP high schools have positive impacts on a variety of college preparation activities and the likelihood of applying to college](../claims/kipp-high-school-continuing-students-college-preparation.md) [+W]
 - [KIPP high schools have positive, statistically significant achievement impacts for students new to the KIPP network, but not for students continuing from KIPP middle schools](../claims/kipp-high-school-impacts-new-entrants-not-continuing.md) [+W]
 - [Average impacts of KIPP middle schools were positive and statistically significant throughout the 10-year study period, though higher in earlier years than recent years](../claims/kipp-middle-impacts-positive-throughout-higher-earlier-years.md) [+W]

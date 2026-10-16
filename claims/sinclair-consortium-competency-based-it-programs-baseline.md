@@ -44,7 +44,7 @@ Implementation analysis of a TAACCCT-funded consortium led by Sinclair Community
 
 ## Related Claims
 - [A three-college consortium successfully implemented online competency-based programs as planned, meeting most implementation milestones and outcome targets](cbe-consortium-implemented-programs-as-planned.md) — related
-- [The report presents the first national study of high school and college information technology skill certification programs](first-national-study-it-certification-programs.md) — related
+- The report presents the first national study of high school and college information technology skill certification programs — related
 - [Implementing CBE in community colleges requires a higher degree of collaboration and standardization than is typically found in community college programs](cbe-requires-collaboration-and-standardization.md) — related
 - [CBE practices at the consortium colleges were identified through document review, site visits, and stakeholder interviews](cbe-practices-identified-via-review-visits-interviews.md) — related
 - [Consortium-wide, 35 percent of participants completed a grant-funded program of study, with high employment rates and wage growth above the national average](cbe-participants-completion-employment-wages.md) — related

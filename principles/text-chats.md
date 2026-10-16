@@ -18,7 +18,7 @@ sources:
 # Text Chats
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (12 for, 8 mixed) · 16 studies (5 causal, 5 qualitative, 2 review, 1 quant-synthesis, 1 associational, 1 design, 1 theoretical), `q2`–`q4` · 1 of 16 report an effect size · 18 claims rest on one study
+> **Evidence** · 19 claims (11 for, 8 mixed) · 16 studies (5 causal, 5 qualitative, 2 review, 1 quant-synthesis, 1 associational, 1 design, 1 theoretical), `q2`–`q4` · 1 of 16 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -115,7 +115,7 @@ Claims bearing on text chat that are not part of the model above, with how far e
 
 - [Student chat questions in the pilot were distributed across seven categories, dominated by study strategies (23%), conceptual quantum (20%), and mathematical formalism (17%)](../claims/itas-question-category-distribution.md) [+W] — cited by the earlier page; questions graduate students typed to an AI tutoring system in a quantum course, descriptive. It suggests a course question channel will draw questions about how to study as well as content, so plan who answers those; it concerns chat with an AI system, not among people.
 - [SCMD discourse activity is best understood as an ecology of nested activity systems within and beyond the classroom](../claims/ecology-of-activity-systems-scmd.md) [+M] — one case study's interpretation: course design, university and tool designers shape a classroom chat. Bears on the page only as context for why norms and tools need setting.
-- [A collective unit of subjects emerges when two utterances form a dialogical pair in SCMD](../claims/collective-subject-emergence-dialogical-pair.md) [+M] and [The dialogical pair of responding and responded utterances, not a single utterance, is the minimum unit of analysis for SCMD research](../claims/topical-pair-minimum-unit-analysis-scmd.md) [+M] — the same case study; claims about how to analyse chat logs (read a post with the one it answers). They bear on reading a log, not on design.
+- [A collective unit of subjects emerges when two utterances form a dialogical pair in SCMD](../claims/collective-subject-emergence-dialogical-pair.md) [+M] and The dialogical pair of responding and responded utterances, not a single utterance, is the minimum unit of analysis for SCMD research [+M] — the same case study; claims about how to analyse chat logs (read a post with the one it answers). They bear on reading a log, not on design.
 - [The change in tools caused the most disruption in e-teachers' activity system, replacing body language and visual cues with text and voice mediation](../claims/tool-change-most-disruption-online-teaching.md) [~M] — online high-school teachers; reported using instant messaging for quick feedback. Bears on the miscommunication constraint: text removes the cues teachers relied on.
 - The earlier page's Key Sources include Payne & Whitney (2002) on chat and oral proficiency, Tare et al. (2014) on interactive chat against independent writing, Lin (2015), a meta-synthesis of computer-mediated communication in second-language acquisition, and Heafner & Plaisance (2014) on chat in remote field experiences. No claim page in the wiki records their findings yet, so the model above takes nothing from them; Tare et al. and Lin are the nearest to a test of the relationship and are the first sources to extract.
 

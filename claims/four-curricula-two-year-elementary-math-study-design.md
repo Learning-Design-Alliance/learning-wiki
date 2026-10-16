@@ -66,6 +66,6 @@ The brief describes its underlying study as "a large-scale, rigorous study" exam
 - [The study is the largest experimental-design study of multiple math curricula, covering 110 schools with this report based on the first cohort of 39 schools](largest-experimental-study-of-math-curricula-110-schools.md) — a narrower finding that bears on this claim
 - [A large-scale experimental study compared the effects of the four mathematics curricula on student achievement](large-scale-experimental-study-curricula-achievement.md) — related
 - [The early elementary math curriculum used by schools mattered for student achievement in first and second grade](curriculum-choice-mattered-early-elementary-math.md) — related
-- [Four elementary math curricula were evaluated using an experimental design](experimental-evaluation-four-elementary-math-curricula.md) — possibly the same claim (merge candidate)
+- Four elementary math curricula were evaluated using an experimental design — possibly the same claim (merge candidate)
 - [The curriculum evaluation was the second report from a multi-year (2005-2013) IES-funded study of mathematics curricula](ies-math-curricula-evaluation-second-report.md) — related
 - [Many U.S. students enter elementary school with poor math skills](many-students-enter-school-poor-math-skills.md) — related

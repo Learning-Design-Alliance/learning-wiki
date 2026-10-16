@@ -43,6 +43,6 @@ The abstract states the report's descriptive aims for 2002, including "documenti
 
 
 ## Related Claims
-- [The report presents the first national study of high school and college information technology skill certification programs](first-national-study-it-certification-programs.md) — related
+- The report presents the first national study of high school and college information technology skill certification programs — related
 - [The study examines student participation mix, program issues, and certification and other outcomes](it-certification-participants-issues-outcomes.md) — related
 - [Oversubscription is prevalent among charter middle schools, enabling lottery-based evaluation](oversubscribed-charter-middle-schools-prevalence.md) — related

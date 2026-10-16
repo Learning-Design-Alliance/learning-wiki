@@ -45,7 +45,7 @@ The brief's own framing sentence, hedged with "may also boost students' long-run
 ## Related Claims
 - [Charter high schools are associated with increased postsecondary educational attainment and may boost students' long-run earnings, based on data from Florida and Chicago](charter-high-schools-attainment-earnings-florida-chicago.md) — possibly the same claim (merge candidate)
 - [Charter schools show favorable high school graduation and college-entry results suggesting possible long-term benefits](charter-schools-favorable-graduation-and-college-entry-results.md) — related
-- [Charter school research has historically focused on test scores, with longer-term outcomes only recently examined](charter-research-shift-from-test-scores-to-long-term-outcomes.md) — related
+- Charter school research has historically focused on test scores, with longer-term outcomes only recently examined — related
 - [Charter high school attendees experience higher earnings in their mid-20s](charter-high-schools-higher-mid-twenties-earnings.md) — a narrower finding that bears on this claim
 - [The study examines charter high school effects on educational attainment in two settings, Florida and Chicago](charter-attainment-study-florida-chicago-scope.md) — related
 - [Charter high schools in Florida and Chicago showed substantial positive effects on both high school completion and college attendance](charter-schools-positive-attainment-effects.md) — a narrower finding that bears on this claim

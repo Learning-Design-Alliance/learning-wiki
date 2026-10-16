@@ -43,5 +43,5 @@ The project's statement of task, as printed on the activity page, defines the st
 
 
 ## Related Claims
-- [The expanded edition of How People Learn draws on two NRC committee efforts, the second of which was formed to link learning research to classroom practice](hpl-expanded-edition-two-committee-origins.md) — related
-- [The study calls for integrative research designs that combine knowledge from multiple fields, including network, multi-level, and simulation modeling](hpl-ii-integrative-multifield-designs.md) — related
+- The expanded edition of How People Learn draws on two NRC committee efforts, the second of which was formed to link learning research to classroom practice — related
+- The study calls for integrative research designs that combine knowledge from multiple fields, including network, multi-level, and simulation modeling — related

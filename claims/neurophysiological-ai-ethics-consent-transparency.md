@@ -43,7 +43,7 @@ Synthesis of the nine AIHEd reviews covering facial recognition/mood detection a
 
 
 ## Related Claims
-- [AIHEd evidence synthesis is dominated by systematic reviews conducted in mostly domestic-only teams, with 66 higher-education reviews included in the corpus](aihed-corpus-systematic-reviews-domestic-teams.md) — a broader claim this one bears on
-- [K–8 MMLA studies rarely report data fusion techniques, ethics, and transparency despite collecting multimodal data](mmla-k8-fusion-ethics-underreported.md) — related
+- AIHEd evidence synthesis is dominated by systematic reviews conducted in mostly domestic-only teams, with 66 higher-education reviews included in the corpus — a broader claim this one bears on
+- K–8 MMLA studies rarely report data fusion techniques, ethics, and transparency despite collecting multimodal data — related
 - [Algorithmic bias and data privacy are central ethical risks of AI in adult education](algorithmic-bias-privacy-risks-adult-education.md) — related
 - [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — related

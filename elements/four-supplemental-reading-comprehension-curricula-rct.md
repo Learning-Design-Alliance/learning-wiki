@@ -17,7 +17,7 @@ sources:
 # Four supplemental reading comprehension curricula evaluated in a large-scale RCT
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (8 for) · 4 studies (4 causal), `q3` · 1 of 4 report an effect size · 8 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 4 studies (4 causal), `q3` · 1 of 4 report an effect size · 7 claims rest on one study
 
 ## Description
 The article evaluates four supplemental reading comprehension curricula: "Project CRISS, ReadAbout, Read for Real, and Reading for Knowledge." These were tested in "a large-scale randomized controlled trial" of their effects on students' reading comprehension, with impacts analyzed across two study years. The curricula serve as the treatments whose year-one and year-two impacts are reported.
@@ -38,7 +38,6 @@ The article evaluates four supplemental reading comprehension curricula: "Projec
 
 ## Claims
 
-- [The evaluation was a large-scale randomized control trial spanning 268 teachers, 6,350 students, 89 schools, 10 districts, and 8 states](../claims/rct-scale-reading-comprehension-curricula-evaluation.md) [+W]
 - [Four supplemental reading comprehension curricula had no positive impact on fifth-grade students' test scores, with negative impacts in some cases](../claims/reading-comprehension-curricula-no-positive-impact-fifth-grade.md) [+W]
 - [After one school year of implementation (first cohort), the curricula produced no statistically significant positive impacts, and four statistically significant negative impacts were observed.](../claims/year-one-curricula-no-positive-impacts-four-negative.md) [+W]
 - [Project CRISS, ReadAbout, and Read for Real showed no significant impacts on reading comprehension in the study's first year](../claims/three-curricula-no-significant-impacts-year-one.md) [+W]

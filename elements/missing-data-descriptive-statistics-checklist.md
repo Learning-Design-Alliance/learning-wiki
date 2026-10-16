@@ -17,7 +17,7 @@ sources:
 # Checklist 5: reporting missing data and descriptive statistics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The fifth checklist covers "missing data and descriptive statistics," prompting researchers to report how much data were missing and to provide descriptive statistics for their measures. As the final component of the brief's five-checklist framework, it addresses the baseline statistical information readers need to interpret the measures reported in an education research study.
@@ -41,7 +41,6 @@ The fifth checklist covers "missing data and descriptive statistics," prompting 
 
 ## Claims
 
-- [RCTs must achieve much lower missing-data rates or justify that missing data are unrelated to outcomes](../claims/rcts-require-low-missing-data-or-justification.md) [+W]
 
 ## Related Elements
 

@@ -17,7 +17,7 @@ sources:
 # Policy Analysis and Decision-Making Capacity project (Phases 1-3)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A project funded by the Office of Science and Data Policy within ASPE at the U.S. Department of Health and Human Services, aimed at improving how evidence is used for decision-making within government, particularly HHS. "During Phase 1 of the project, we conducted a review to assess grey and peer-reviewed literature describing whether and how effectively decision-makers use program evaluation findings to inform their decisions." Phase 2 comprised interviews with thought leaders and experts; Phase 3 plans include "convening a technical expert panel to further discuss potential opportunities to create or improve a systematic approach to using evidence for decision-making within government."
@@ -41,7 +41,6 @@ A project funded by the Office of Science and Data Policy within ASPE at the U.S
 
 - [Subject matter interviews reveal barriers to evidence use in government: untimely evidence, research not geared to decision-makers, limited understanding of evidence, and organizational influences](../claims/interview-barriers-evidence-use-government.md) [+W]
 - [Interview respondents identify collaborative relationships, trust in evidence and its users, clarity on research types, and supportive leadership as facilitators of evidence use](../claims/interview-facilitators-evidence-use.md) [+W]
-- [A literature review identifies misalignment between conducted research and needed evidence, contextual factors, and rarely used bridging frameworks as challenges to evidence use in policy decisions](../claims/literature-review-challenges-evidence-use-policy.md) [+W]
 
 ## Related Elements
 - 

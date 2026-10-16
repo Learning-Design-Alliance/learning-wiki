@@ -17,7 +17,7 @@ sources:
 # Test disengagement adjustment through sample removal and rapid-guess score correction
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 8 claims (5 for, 2 mixed, 1 against) · 4 studies (4 associational), `q2`–`q3` · 0 of 4 report an effect size · 8 claims rest on one study
+> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 4 studies (4 associational), `q2`–`q3` · 0 of 4 report an effect size · 7 claims rest on one study
 
 ## Description
 The article examines two techniques for accounting for test disengagement: "removing unengaged test takers from the sample" and "adjusting test scores to remove rapidly guessed items". These operate on observed scores and samples rather than on the test itself, and are evaluated for their effect on estimates of school contributions to growth, achievement gaps, and summer learning loss.
@@ -32,7 +32,6 @@ The article examines two techniques for accounting for test disengagement: "remo
 - [Removing disengaged examinees from the sample will likely induce bias in estimates of educational effectiveness](../claims/removing-disengaged-examinees-induces-bias.md) [-W]
 - [Summer learning loss estimates changed significantly under filtering but not effort-moderated scoring](../claims/rapid-guessing-summer-learning-loss-estimates.md) [+M]
 - [E-M scoring leaves residual score distortion, suggesting some disengaged test responses are nonrapid rather than rapid guesses](../claims/nonrapid-disengaged-responses-residual-distortion.md) [+M]
-- [Filtered students had much lower effort-moderated achievement, suggesting motivation filtering may bias mean estimates](../claims/filtering-removes-low-achievers-bias-risk.md) [+M]
 - [Rapid guessing had mostly minimal effects on estimates of school contributions to student growth in this sample](../claims/rapid-guessing-minimal-school-growth-estimates.md) [+M]
 - [Rapid guessing did not appear to substantively affect teacher value-added estimates under the value-added specifications used](../claims/rapid-guessing-no-substantive-effect-value-added.md) [~W]
 - [Distortive effects of disengagement on school means were diluted by the high proportion of students exhibiting no non-effortful behavior](../claims/disengagement-diluted-by-engaged-majority.md) [~W]
@@ -73,7 +72,6 @@ The article examines two techniques for accounting for test disengagement: "remo
 - [Removing disengaged examinees from the sample will likely induce bias in estimates of educational effectiveness](../claims/removing-disengaged-examinees-induces-bias.md) [-W]
 - [Summer learning loss estimates changed significantly under filtering but not effort-moderated scoring](../claims/rapid-guessing-summer-learning-loss-estimates.md) [+M]
 - [E-M scoring leaves residual score distortion, suggesting some disengaged test responses are nonrapid rather than rapid guesses](../claims/nonrapid-disengaged-responses-residual-distortion.md) [+M]
-- [Filtered students had much lower effort-moderated achievement, suggesting motivation filtering may bias mean estimates](../claims/filtering-removes-low-achievers-bias-risk.md) [+M]
 - [Rapid guessing had mostly minimal effects on estimates of school contributions to student growth in this sample](../claims/rapid-guessing-minimal-school-growth-estimates.md) [+M]
 
 ## Related Elements

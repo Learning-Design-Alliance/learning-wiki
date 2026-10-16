@@ -59,4 +59,4 @@ The study design compared successive cohorts of the same teachers across two sch
 ## Related Claims
 - [Only three of twelve identified OLI studies met WWC group design standards](oli-three-of-twelve-studies-meet-wwc-standards.md) — related
 - [TEEMSS produced a statistically significant positive effect on the grade 3–4 sound unit test in a quasi-experimental study](teemss-sound-unit-test-positive-effect.md) — related
-- [Only one of eight unit outcomes in the qualifying study met WWC evidence standards; seven were excluded](teemss-seven-outcomes-excluded-baseline-inequivalence.md) — related
+- Only one of eight unit outcomes in the qualifying study met WWC evidence standards; seven were excluded — related

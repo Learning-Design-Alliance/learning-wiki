@@ -16,7 +16,7 @@ sources:
 # Four rationales underlie combining modalities in MMCA research
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The review identifies an organizing taxonomy of four rationales that researchers give for combining modalities in MMCA studies. These rationales — technical, pedagogical/practical, methodological, and theoretical — shape the choice of research focus, design, and methods, and lead to different empirical contributions to understanding collaboration. The taxonomy offers a guidepost for classifying MMCA studies and understanding what each rationale contributes to knowledge of collaborative learning.
@@ -37,7 +37,6 @@ The review identifies an organizing taxonomy of four rationales that researchers
 
 ### Claims
 
-- [Most MMCA studies combine two or three modalities rather than four](../claims/mmca-studies-mostly-two-or-three-modalities.md) [+W]
 - [Combining more modalities does not always improve detection of learner mental states](../claims/more-modalities-not-always-better-mental-state-detection.md) [~W]
 - [Facial features of negative emotions predict low rapport, but additional modalities added no predictive power](../claims/facial-features-low-rapport-no-added-modalities.md) [~W]
 - [Linguistic coherence predicts productive collaboration, strengthened by joint visual attention data](../claims/linguistic-coherence-predicts-productive-collaboration.md) [+W]

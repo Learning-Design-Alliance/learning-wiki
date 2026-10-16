@@ -43,7 +43,7 @@ The article states this second purpose for estimating associations between stude
 
 
 ## Related Claims
-- [Estimating associations between student and teacher practice outcomes can examine the extent to which RCT data support a study's conceptual model](mediator-outcome-associations-test-conceptual-model.md) — related
-- [In clustered school-based RCTs, OLS mediator analyses yield precise teacher practice-achievement estimates only with about 150 to 200 study schools](ols-mediator-power-requires-150-200-schools.md) — related
+- Estimating associations between student and teacher practice outcomes can examine the extent to which RCT data support a study's conceptual model — related
+- In clustered school-based RCTs, OLS mediator analyses yield precise teacher practice-achievement estimates only with about 150 to 200 study schools — related
 - [Measurement error in the mediator reduces statistical power for mediator-achievement association estimates](mediator-measurement-error-reduces-power.md) — related
-- [The IV approach to mediator analysis in clustered education RCTs has very little statistical power](iv-mediator-analysis-low-power.md) — related
+- The IV approach to mediator analysis in clustered education RCTs has very little statistical power — related

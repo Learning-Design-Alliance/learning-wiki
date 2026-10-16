@@ -43,9 +43,9 @@ The panel's reporting requirement for discrete forcing variables states that if 
 
 
 ## Related Claims
-- [A study qualifies as an RD design only if assignment uses an ordinal forcing variable with at least four unique values on each side of the cutoff and no confounding factor](rd-qualification-criteria-forcing-variable.md) — related
-- [Standard errors sometimes differ across estimators, so policy conclusions from clustered education RCTs could be sensitive to the choice of estimator](rct-policy-conclusions-sensitive-to-estimator-choice.md) — related
+- A study qualifies as an RD design only if assignment uses an ordinal forcing variable with at least four unique values on each side of the cutoff and no confounding factor — related
+- Standard errors sometimes differ across estimators, so policy conclusions from clustered education RCTs could be sensitive to the choice of estimator — related
 - [Author-reported statistically significant program effects did not remain significant after WWC corrections for clustering and multiple comparisons](wwc-corrections-eliminate-author-reported-significance.md) — related
-- [Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial](rd-replication-matches-experimental-estimates-two-interventions.md) — related
-- [Manipulation of the assignment variable can substantially influence RD impact estimates, particularly when manipulation is related to the outcome and occurs close to the cutoff](assignment-variable-manipulation-biases-rd-estimates.md) — related
+- Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial — related
+- Manipulation of the assignment variable can substantially influence RD impact estimates, particularly when manipulation is related to the outcome and occurs close to the cutoff — related
 - Statistical theory predicts that regression discontinuity provides valid causal inference at the cutoff score determining treatment assignment — related

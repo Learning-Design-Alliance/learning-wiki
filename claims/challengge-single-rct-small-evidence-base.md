@@ -43,7 +43,7 @@ The Millenky, Bloom, and Dillon (2010) randomized controlled trial is the only o
 
 
 ## Related Claims
-- [The supporting evidence for Bottom Line comes from a randomized controlled trial that meets WWC group design standards without reservations](bottom-line-evidence-from-rct-meeting-wwc-standards.md) — related
+- The supporting evidence for Bottom Line comes from a randomized controlled trial that meets WWC group design standards without reservations — related
 - [The evidence base for New Chance is a single randomized controlled trial of 2,322 women across 16 sites, rated small in extent](new-chance-evidence-base-single-rct.md) — related
 - [The evidence base for Read, Write & Type!™ is a single small-extent randomized trial, limiting confidence in the effectiveness ratings](rwt-evidence-base-single-small-trial.md) — related
 - [The evidence base for Corrective Reading in grades K–3 is small: one of 25 reviewed studies met WWC standards, and no studies addressed general reading achievement](corrective-reading-small-evidence-base.md) — related

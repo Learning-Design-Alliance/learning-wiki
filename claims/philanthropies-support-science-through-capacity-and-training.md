@@ -43,4 +43,4 @@ The foundation brief states, without presenting data or evaluation results, that
 
 
 ## Related Claims
-- [Research on systems change success has proliferated as philanthropic interest grows](proliferation-of-systems-change-success-research.md) — related
+- Research on systems change success has proliferated as philanthropic interest grows — related

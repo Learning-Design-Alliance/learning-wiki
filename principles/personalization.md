@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 58 claims (29 for, 21 mixed, 3 against, 5 unmarked) · 63 studies (22 review, 16 causal, 8 qualitative, 7 theoretical, 4 associational, 3 quant-synthesis, 3 design), `q1`–`q4` · 6 of 63 report an effect size · 53 claims rest on one study
+> **Evidence** · 57 claims (28 for, 21 mixed, 3 against, 5 unmarked) · 62 studies (21 review, 16 causal, 8 qualitative, 7 theoretical, 4 associational, 3 quant-synthesis, 3 design), `q1`–`q4` · 6 of 62 report an effect size · 52 claims rest on one study
 
 ## Conditional relationship
 
@@ -142,7 +142,7 @@ Claims this page cited that were re-read against the model on 2026-10-15 and lef
 - [AI technologies in education enhance teaching and learning through personalization and data analytics while reshaping administrative functions and decision-making](../claims/ai-enhances-teaching-administration-education.md) [+W] — a review's framing statement; names the topic only.
 - [GAI in K-12 education offers opportunities to personalize learning, motivate students, improve assessment, and introduce innovative teaching practices](../claims/gai-k12-personalization-assessment-opportunities.md) [+W] — a review naming opportunities; no outcomes.
 - [AI is implemented in SRL research primarily as an intervention, most often through adaptive systems and personalization](../claims/ai-implemented-as-intervention-adaptive-systems-personalization.md) [+W] — a mapping review of what studies do; does not bear on whether tailoring works.
-- [Individualized instruction has largely receded in recent AI-focused literature, functioning as a pedagogical predecessor to AI-based personalization](../claims/individualized-instruction-receded-ai-era.md) [+W] — a review's account of the literature; does not bear on the relationship, though it notes hybrid teacher-plus-system models.
+- Individualized instruction has largely receded in recent AI-focused literature, functioning as a pedagogical predecessor to AI-based personalization [+W] — a review's account of the literature; does not bear on the relationship, though it notes hybrid teacher-plus-system models.
 - [AI-enhanced assessment tools are reported to facilitate adaptive testing, real-time learner support, and data-driven insights](../claims/ai-tools-adaptive-testing-realtime-support-insights.md) [+W] — a narrative synthesis; no studies or effect sizes.
 - [ChatGPT was the most widely adopted AI platform in undergraduate higher education studies, with applications clustering around assessment automation and personalized learning support](../claims/chatgpt-dominant-platform-assessment-personalization.md) [+W] — a review of use cases; does not bear on the relationship.
 - [Faculty Student Learning Style Mismatch](../claims/faculty-student-learning-style-mismatch.md) [+M]
@@ -309,7 +309,6 @@ Personalization works primarily by keeping instruction within each learner's zon
 - [Robot adaptiveness effects on human autonomy are mixed: autonomy-supportive behaviours and as-needed assistance help, but mere choice or high interactivity may not](../claims/robot-adaptiveness-mixed-autonomy-effects.md) [~W]
 - [Middle school teachers envisioned AI chatbots as adaptive instructional scaffolds providing differentiated support responsive to students' varying needs](../claims/teachers-envision-chatbots-adaptive-scaffolds-differentiated-support.md) [+W]
 - [AI is implemented in SRL research primarily as an intervention, most often through adaptive systems and personalization](../claims/ai-implemented-as-intervention-adaptive-systems-personalization.md) [+W]
-- [Individualized instruction has largely receded in recent AI-focused literature, functioning as a pedagogical predecessor to AI-based personalization](../claims/individualized-instruction-receded-ai-era.md) [+W]
 - [AI-enhanced assessment tools are reported to facilitate adaptive testing, real-time learner support, and data-driven insights](../claims/ai-tools-adaptive-testing-realtime-support-insights.md) [+W]
 - [ChatGPT was the most widely adopted AI platform in undergraduate higher education studies, with applications clustering around assessment automation and personalized learning support](../claims/chatgpt-dominant-platform-assessment-personalization.md) [+W]
 - [Student disengagement on an adaptive interim assessment gradually increased across grade level](../claims/disengagement-increased-across-grade-level-remote-testing.md) [~W]

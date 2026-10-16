@@ -44,5 +44,5 @@ The review argues that because learners show "sensitivity to frequency in all th
 
 ## Related Claims
 - [Language processing is intimately tuned to input frequency across phonology, phonotactics, reading, spelling, lexis, morphosyntax, formulaic language, comprehension, grammaticality, sentence production, and syntax](frequency-tuning-across-language-processing-domains.md) — a broader claim this one bears on
-- [Frequency should be reinstated as a bridging variable binding the different schools of language acquisition research](frequency-as-bridging-variable-language-acquisition-research.md) — related
+- Frequency should be reinstated as a bridging variable binding the different schools of language acquisition research — related
 - [Applying skill theory to grammar conflates constructs: pedagogical rules are not what exists in learners' mental representation](grammar-as-skill-is-a-conflation.md) — related

@@ -45,5 +45,5 @@ Descriptive survey results for the factor "superficial use with limited informat
 ## Related Claims
 - [University students make limited use of digital technologies to self-regulate their learning despite being frequent technology users](students-limited-use-of-technologies-for-srl.md) — a broader claim this one bears on
 - [Cluster analysis identifies two antagonistic student profiles differing in level of technology-supported self-regulated learning](two-srl-technology-profiles-high-and-low.md) — related
-- [Factor analysis of technology-based SRL strategies yields nine factors explaining 54.904% of variance](nine-srl-technology-strategy-factors.md) — related
+- Factor analysis of technology-based SRL strategies yields nine factors explaining 54.904% of variance — related
 - [Social-support strategies are the most generalised technology-based SRL strategies, with most students interacting via instant messaging and sharing material via the cloud](social-support-strategies-most-generalised-with-technology.md) — reports the opposite

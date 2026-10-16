@@ -60,5 +60,5 @@ Q-test of homogeneity across all 994 effect sizes shows "The probability of homo
 
 - [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - Feedback in CALL has a significant moderate positive effect on student language learning outcomes (RE g = 0.56) across 21 studies — related
-- [Variation in meta-analytic effect sizes stems from synthesists' methodological choices (inclusion criteria, data extraction, formulas, outlier handling) and from study quality](meta-analysis-variation-from-methodological-choices.md) — related
+- Variation in meta-analytic effect sizes stems from synthesists' methodological choices (inclusion criteria, data extraction, formulas, outlier handling) and from study quality — related
 - [Feedback Addressing Task Improves Learning](feedback-most-effective-at-task-and-process-levels.md) — related

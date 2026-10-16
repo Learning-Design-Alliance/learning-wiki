@@ -43,4 +43,4 @@ The abstract states the paper's second aim: to "describe the importance of desig
 
 
 ## Related Claims
-- [Design-based research has demonstrated its potential as a methodology suitable to both research and design of technology-enhanced learning environments](dbr-suitable-for-research-and-design-of-teles.md) — possibly the same claim (merge candidate)
+- Design-based research has demonstrated its potential as a methodology suitable to both research and design of technology-enhanced learning environments — possibly the same claim (merge candidate)

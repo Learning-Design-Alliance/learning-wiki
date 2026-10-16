@@ -43,6 +43,6 @@ In the Findings discussion of the social context category, the article reports t
 
 
 ## Related Claims
-- [Thematic coding of expert role-players' interviews produced 46 codes, of which 25 were preference themes (86 statements) and 21 were fact themes (68 statements)](forty-six-codes-preference-fact-themes.md) — related
+- Thematic coding of expert role-players' interviews produced 46 codes, of which 25 were preference themes (86 statements) and 21 were fact themes (68 statements) — related
 - [Participants split between narrative and game play themes, with 6 of 10 mentioning both and the rest mentioning only one, suggesting the ludology–narratology debate may reflect player preferences](ludology-narratology-split-among-players.md) — related
 - [Players decided to engage in gaming primarily for escapism and fun, social connectivity, and achievement of task-related goals through control](gaming-engagement-decision-factors.md) — related

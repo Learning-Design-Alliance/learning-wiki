@@ -67,4 +67,4 @@ The synthesis's judgment in the How Well Do We Know It section, based on its met
 - Students of teachers in STEM learning communities learn mathematics better, but published evidence covers only mathematics and remains emerging — reports the opposite
 - [A small set of mathematics-only studies gives existence proof that teacher participation in a mathematics PLC can enhance student learning, but evidence is insufficient to link formal assessment results to PLC participation](stem-plc-math-student-learning-existence-proof.md) — related
 - [Published policy statements and expert advice universally recommend STEM PLCs, with cautions against superficial definition and implementation](stem-plcs-universally-recommended.md) — related
-- [Research on professional community faces conceptual and methodological difficulties: no universal definition exists and operationalization varies across studies](professional-community-definition-operationalization-difficulties.md) — related
+- Research on professional community faces conceptual and methodological difficulties: no universal definition exists and operationalization varies across studies — related

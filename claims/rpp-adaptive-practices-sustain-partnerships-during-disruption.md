@@ -55,7 +55,7 @@ This is the weakest-evidence claim in this ingest batch: a qualitative synthesis
 - [Formal partnerships enhanced interagency collaboration but required time to form, service benchmarks, and regular communication](promise-formal-partnerships-enhance-collaboration-with-conditions.md) — related
 - Pandemic-related absences and reading setbacks made consistent writing-focused interactions difficult — related
 - [Purposeful school partnerships, particularly among two or more schools located in the same building, spurred collaboration when leaders were invested in all students in the building](co-located-partnerships-spur-collaboration-when-leaders-invested-in-all-students.md) — related
-- [Rapid-cycle evaluation determines with high confidence whether and for whom a program change causes intended improvements or unintended consequences](rapid-cycle-evaluation-determines-whether-and-for-whom-changes-work.md) — related
+- Rapid-cycle evaluation determines with high confidence whether and for whom a program change causes intended improvements or unintended consequences — related
 - [Key officials describe a shift from a punitive top-down accountability approach to a collaborative, improvement-focused model that fostered trust and communication](ri-charter-shift-punitive-to-collaborative-culture.md) — related
 - [The pandemic disruption promoted teacher adaptation and may have prompted lasting new practices, per the authors](pandemic-promoted-teacher-adaptation-lasting-practices.md) — related
 - [Iterative co-design served as a culturally responsive methodology for designing alumni surveys in equity-focused high school communities, with each school designing its own survey with researcher support.](codesign-culturally-responsive-alumni-surveys.md) — related

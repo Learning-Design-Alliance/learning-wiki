@@ -35,7 +35,7 @@ sources:
 # Explicit Instruction: Vocabulary
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 31 claims (25 for, 5 mixed, 1 against) · 36 studies (12 causal, 11 quant-synthesis, 9 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 36 report an effect size · 21 claims rest on one study
+> **Evidence** · 30 claims (24 for, 5 mixed, 1 against) · 36 studies (12 causal, 11 quant-synthesis, 9 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 36 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,7 +147,6 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [Emi Raises Efl Morphological Awareness](../claims/emi-raises-efl-morphological-awareness.md) [+M]
 - [Emi Raises Efl Reading Comprehension](../claims/emi-raises-efl-reading-comprehension.md) [+M]
 - [Emi Effect Size Larger For Awareness Than Comprehension](../claims/emi-effect-size-larger-for-awareness-than-comprehension.md) [~M]
-- [Experimental and control groups were statistically equivalent on pre-test reading comprehension and morphological awareness](../claims/emi-groups-equivalent-at-pretest.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -300,7 +299,6 @@ The article argues that EFL secondary students receive no regular explicit morph
 - [Emi Raises Efl Morphological Awareness](../claims/emi-raises-efl-morphological-awareness.md) [+M]
 - [Emi Raises Efl Reading Comprehension](../claims/emi-raises-efl-reading-comprehension.md) [+M]
 - [Emi Effect Size Larger For Awareness Than Comprehension](../claims/emi-effect-size-larger-for-awareness-than-comprehension.md) [~M]
-- [Experimental and control groups were statistically equivalent on pre-test reading comprehension and morphological awareness](../claims/emi-groups-equivalent-at-pretest.md) [+W]
 - [Morphological Instruction Improves Vocabulary](../claims/morphological-instruction-improves-vocabulary.md) [+M]
 
 ## Related Principles

@@ -16,7 +16,7 @@ sources:
 # Design-based approach to causal inference
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The brief presents the design-based approach to causal inference, describing "their key concepts and how they compare to model-based methods." It presents "rudiments of the design-based approach... using simple mathematical notation" and discusses "the intuition underlying the theory" for randomized designs. The approach serves education researchers evaluating interventions where individuals or groups are randomized.
@@ -37,7 +37,6 @@ The brief presents the design-based approach to causal inference, describing "th
 
 ### Claims
 
-- [The brief argues the design-based approach has advantages relative to model-based approaches such as HLM](../claims/design-based-advantages-over-model-based-approaches.md) [+W]
 
 ## Related Theories
 - 

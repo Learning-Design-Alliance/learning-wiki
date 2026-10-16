@@ -44,5 +44,5 @@ Theoretical comparison stated in the article's abstract as the opening move of i
 
 ## Related Claims
 - [Negative sentiment peaks were tied to specific events: AI governance failures in 2019 and 2021 and diffuse academic-integrity anxiety after ChatGPT in 2023](negative-peaks-tied-to-governance-failures-and-integrity-anxiety.md) — related
-- [Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024](aied-topic-peaked-2023-declined-2024.md) — related
+- Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024 — related
 - [The editorial argues AI will not have a negligible impact on the job market: automation driven by GAI is reshaping work and deepening economic disparities](gai-automation-reshaping-work-deepening-disparities.md) — related

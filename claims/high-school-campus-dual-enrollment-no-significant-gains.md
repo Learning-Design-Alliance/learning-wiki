@@ -47,7 +47,7 @@ In the same statewide Florida study of 2000-2001 and 2001-2002 high school senio
 - [Passing the college algebra placement test near the cut-off and enrolling in dual enrollment college algebra was associated with a 16 percent higher likelihood of going to college](dual-enrollment-college-algebra-16-percent-college-enrollment.md) — related
 - [Dual enrollment classes taken on college campuses increase students' likelihood of attending college and earning a bachelor's degree](college-campus-dual-enrollment-boosts-college-and-ba-attainment.md) — reports the opposite
 - [Dual enrollment college algebra near the cut-off was associated with a 23 percent higher likelihood of earning a college degree](dual-enrollment-college-algebra-23-percent-degree-attainment.md) — related
-- [The study identified comparison students using scores very near the college algebra placement test cut-off for dual enrollment eligibility](dual-enrollment-placement-cutoff-comparison-design.md) — related
+- The study identified comparison students using scores very near the college algebra placement test cut-off for dual enrollment eligibility — related
 - [Dual enrollment programs have positive effects on general academic achievement (high school), with an average improvement index of +7 percentile points](dual-enrollment-positive-hs-achievement.md) — related
 - [Dual enrollment programs show no discernible effects on general academic achievement (college)](dual-enrollment-no-effect-college-achievement.md) — related
 - [Dual enrollment programs have positive effects on credit accumulation, with an average improvement index of +14 percentile points](dual-enrollment-positive-credit-accumulation.md) — related

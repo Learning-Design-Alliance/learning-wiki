@@ -15,7 +15,7 @@ sources:
 # Three-perspective bibliometric mapping for locating emerging research subfields
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article presents a combined bibliometric approach in which "coauthorship analysis reveals social ties and bridges, bibliographic coupling shows shared intellectual foundations, and semantic similarity uncovers related work outside existing citation networks." It is intended for subfields that lack a dedicated journal, conference, or society, using an open-submission workshop as a seed corpus. The authors offer it as proof of concept for community-building, demonstrating "how bibliometric techniques can be used in service of solidifying and growing emerging subfields of research."
@@ -37,8 +37,6 @@ The article presents a combined bibliometric approach in which "coauthorship ana
 - mapping the people, publications, and ideas of an emerging research subfield to support community-building
 
 ### Claims
-- [Workshop Papers Bridge Researcher Groups](../claims/workshop-papers-bridge-researcher-groups.md) [+M]
-- [Dlp Subfield Small And Fragmented](../claims/dlp-subfield-small-and-fragmented.md) [+M]
 
 ## Related Theories
 - 

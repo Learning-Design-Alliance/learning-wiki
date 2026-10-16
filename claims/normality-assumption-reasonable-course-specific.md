@@ -47,4 +47,4 @@ Graphical diagnostic analysis (Figures 3.2–3.5) of Integrated Math 2 RIT score
 - [The multivariate normality assumption of the norming model was judged met for all domains and grades, despite some tail deviations in Q-Q plots](normality-assumption-met-foundational-skills-norming.md) — possibly the same claim (merge candidate)
 - [The multivariate normality assumption of the true score model was judged reasonable for all domains and grades](spanish-foundational-skills-normality-assumption-met.md) — possibly the same claim (merge candidate)
 - [True-score-model correlations between term scores exceed 0.90 for almost all course-specific tests](true-score-correlations-above-090.md) — related
-- [The outcome data met t-test assumptions: Lilliefors normality (Lo < Lt for both classes) and variance homogeneity (F count 0.579 < F table 1.84)](normality-homogeneity-prerequisites-met.md) — related
+- The outcome data met t-test assumptions: Lilliefors normality (Lo < Lt for both classes) and variance homogeneity (F count 0.579 < F table 1.84) — related

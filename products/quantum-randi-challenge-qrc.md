@@ -18,7 +18,7 @@ sources:
 # Quantum Randi Challenge (QRC)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The QRC is a modifiable computer game created by Vongehr for teaching quantum mechanics through challenges involving quantum and hidden-variable simulations.
@@ -28,7 +28,6 @@ The QRC is a modifiable computer game created by Vongehr for teaching quantum me
 - **Quantum Randi Challenge: a modifiable computer game teaching quantum mechanics**: The QRC is a computer game that anybody can modify, designed to reject hidden variable models by simply teaching quantum mechanics. Per the article, "there is no bet or interaction with challengers". The present version includes a simulation of true quantum behavior violating Bell 99% of the time, hidden variables violating Bell and CHSH with 50% probability, and ones violating Bell 85% of the time when missing 13% anti-correlation. The challenge is to modify the hidden variables so the predicted quantum behavior, including anti-correlation, arises. (Vongehr (2012))
 
 ### Claims
-- [Cheating hidden variables can violate Bell about 85% of the time only by sacrificing anti-correlation](../claims/cheating-hidden-variables-85-percent-lose-anticorrelation.md) [+W]
 - [Demanding anti-correlation is argued to be didactically superior to employing the CHSH inequality in the QRC](../claims/anti-correlation-superior-to-chsh-didactically.md) [+W]
 - [A simulation of quantum behavior violates the Bell inequality with about 99% probability using only 800 photon pairs](../claims/qrc-simulation-violates-bell-99-percent-800-pairs.md) [+W]
 - [Hidden variables that skip preparing certain pair classes violate the Bell and CHSH inequality in half of all runs](../claims/hidden-variables-violate-bell-50-percent.md) [+W]
@@ -72,7 +71,6 @@ The QRC is a computer game that anybody can modify, designed to reject hidden va
 
 ### Claims
 <!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
-- [Cheating hidden variables can violate Bell about 85% of the time only by sacrificing anti-correlation](../claims/cheating-hidden-variables-85-percent-lose-anticorrelation.md) [+W]
 - [Demanding anti-correlation is argued to be didactically superior to employing the CHSH inequality in the QRC](../claims/anti-correlation-superior-to-chsh-didactically.md) [+W]
 - [A simulation of quantum behavior violates the Bell inequality with about 99% probability using only 800 photon pairs](../claims/qrc-simulation-violates-bell-99-percent-800-pairs.md) [+W]
 - [Hidden variables that skip preparing certain pair classes violate the Bell and CHSH inequality in half of all runs](../claims/hidden-variables-violate-bell-50-percent.md) [+W]

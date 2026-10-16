@@ -43,6 +43,6 @@ Study 2 criterion-related validity correlations. The subscale pattern was theore
 ## Related Claims
 - [Feedback engagement indirectly associates GAA-LS scores with academic integrity intention in a cross-sectional structural model](gaa-ls-feedback-engagement-indirect-association.md) — related
 - [The GAA-LS shows satisfactory-to-strong internal consistency and evidence of convergent and discriminant validity](gaa-ls-reliability-convergent-discriminant.md) — related
-- [Confirmatory factor analysis in an independent sample supports the five-factor correlated model over collapsed and one-factor alternatives](gaa-ls-cfa-model-comparison.md) — related
+- Confirmatory factor analysis in an independent sample supports the five-factor correlated model over collapsed and one-factor alternatives — related
 - [Exploratory factor analysis supports a five-factor GAA-LS structure explaining 67.82% of variance](gaa-ls-five-factor-efa-structure.md) — related
 - [All SFAILQ dimensions correlate positively with academic self-efficacy (usage skills strongest) and academic engagement (responsible use strongest)](sfailq-criterion-validity-correlations.md) — related

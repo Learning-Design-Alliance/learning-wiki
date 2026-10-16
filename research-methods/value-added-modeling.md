@@ -41,7 +41,7 @@ sources:
 # Value-added modeling
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 39 claims (29 for, 9 mixed, 1 against) · 22 studies (18 associational, 2 review, 2 design), `q1`–`q3` · 0 of 22 report an effect size · 38 claims rest on one study
+> **Evidence** · 38 claims (28 for, 9 mixed, 1 against) · 22 studies (18 associational, 2 review, 2 design), `q1`–`q3` · 0 of 22 report an effect size · 37 claims rest on one study
 
 ## Description
 Value-added measures quantify a teacher's contribution to students' learning gains. The brief defines the approach: "'Value added' is a teacher's contribution to students' learning gains." It reports that newly emerging research uses these measures to shed light on disadvantaged students' access to effective teaching, and that variation in how researchers present such evidence complicates practitioner use.
@@ -78,7 +78,6 @@ Value-added measures quantify a teacher's contribution to students' learning gai
 - [Oklahoma educators received value-added results in spring 2016 based on instruction provided in the 2014–2015 school year](../claims/oklahoma-tle-value-added-results-spring-2016.md) [+W]
 - [Spring 2016 was the third year Oklahoma's TLE provided value-added results to educators](../claims/tle-third-year-value-added-results.md) [+W]
 - [The value-added models used for Oklahoma's spring 2016 results were updated relative to prior years](../claims/value-added-model-updates-spring-2016.md) [+W]
-- [The report examined value-added implementation in seven school districts or states](../claims/vam-report-examined-seven-district-states-implementation.md) [+W]
 - [The report synthesizes 21 empirical studies on value-added model key issues and findings](../claims/vam-report-synthesized-21-empirical-studies.md) [+W]
 - [Phase 1 of the Pennsylvania pilot examined whether teachers with higher classroom observation scores on specific professional practices tended to have greater value-added impacts on student achievement](../claims/observation-scores-value-added-relationship-pennsylvania-pilot.md) [+W]
 - [There is little prior evidence on the validity of principal evaluation measures, and this is the first study linking practice ratings to credible value-added measures](../claims/first-study-principal-practice-ratings-value-added-validity.md) [+W]
@@ -376,7 +375,6 @@ The report treats teacher and principal value-added models (VAM) as an organizin
 
 ### Claims
 
-- [The report examined value-added implementation in seven school districts or states](../claims/vam-report-examined-seven-district-states-implementation.md) [+W]
 - [The report synthesizes 21 empirical studies on value-added model key issues and findings](../claims/vam-report-synthesized-21-empirical-studies.md) [+W]
 - [Phase 1 of the Pennsylvania pilot examined whether teachers with higher classroom observation scores on specific professional practices tended to have greater value-added impacts on student achievement](../claims/observation-scores-value-added-relationship-pennsylvania-pilot.md) [+W]
 - [FFL evaluation scores are significantly and positively correlated with principals' contributions to student achievement (value-added)](../claims/ffl-scores-correlated-principal-value-added.md) [+W]

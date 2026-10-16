@@ -18,7 +18,7 @@ sources:
 # Future Ready Talent Framework
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 against) · 1 study (1 design), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 A conceptual framework synthesized by Pretti et al. to organize 12 future-ready talents into four clusters for communication among work-integrated-learning students, employers, and educators.
@@ -32,7 +32,6 @@ A conceptual framework synthesized by Pretti et al. to organize 12 future-ready 
 - [54 of 59 FRTF behavioral examples were sorted better than chance and 48 by a majority of educator participants](../claims/frtf-behavioral-example-sorting-validated.md) [+M]
 - [Several FRTF behavioral examples were not sorted better than chance, including actively listening to others (18.2%) and exploring implications of proposed solutions (9.4%)](../claims/frtf-behavioral-examples-below-chance.md) [-W]
 - [Stakeholder consultation with 60 WIL students, employers, and educators generated 1,806 behavioral examples distilled into 59](../claims/frtf-stakeholder-survey-behavioral-examples.md) [+M]
-- [A literature synthesis of 46 talent frameworks and future-of-work reports yielded 29 unique talents reduced to the FRTF's 12 talents](../claims/frtf-synthesis-46-frameworks-12-talents.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -71,7 +70,6 @@ The FRTF is a conceptual model organizing 12 talents into four clusters — Expa
 - [Frtf Behavioral Example Sorting Validated](../claims/frtf-behavioral-example-sorting-validated.md) [+M]
 - [Several FRTF behavioral examples were not sorted better than chance, including actively listening to others (18.2%) and exploring implications of proposed solutions (9.4%)](../claims/frtf-behavioral-examples-below-chance.md) [-W]
 - [Stakeholder consultation with 60 WIL students, employers, and educators generated 1,806 behavioral examples distilled into 59](../claims/frtf-stakeholder-survey-behavioral-examples.md) [+M]
-- [A literature synthesis of 46 talent frameworks and future-of-work reports yielded 29 unique talents reduced to the FRTF's 12 talents](../claims/frtf-synthesis-46-frameworks-12-talents.md) [+M]
 
 ## Related Theories
 

@@ -44,7 +44,7 @@ The white paper attributes these assertions to prior studies (Bernacki et al., 2
 - [Instructor co-designed tagging transforms raw LMS log data into structured event data reflecting course design and temporal context](clickstream-tagging-transforms-logs-into-contextualized-events.md) — a narrower finding that bears on this claim
 - [Students raised concerns that performance forecasts cannot capture personal circumstances affecting study](forecast-concerns-personal-circumstances.md) — related
 - [Both prior performance flags and the machine learning algorithm are less accurate when predicting outcomes for students who are Black](ews-and-algorithm-less-accurate-black-students.md) — related
-- [Enriched DLP data enable two types of theory testing: sustained observation of individuals in a single setting and modeling the same type of learner across contexts](clickstream-enables-two-types-theory-testing.md) — related
+- Enriched DLP data enable two types of theory testing: sustained observation of individuals in a single setting and modeling the same type of learner across contexts — related
 - [Sequence analysis of online course logs found group coordination predicted successful outcomes better than raw activity levels (review-attributed to Hoppe et al., 2021)](sequence-analysis-coordination-predicts-group-outcomes.md) — a narrower finding that bears on this claim
 - [Stealth assessment in AI-GBL achieves accurate prediction of learner states, with bias auditing demonstrated without accuracy loss](stealth-assessment-accuracy-and-bias-audits.md) — a narrower finding that bears on this claim
-- [Predicting student outcomes was a common AIEd use in higher education, with ten studies predicting academic performance](predicting-academic-performance-ai-ed-he.md) — related
+- Predicting student outcomes was a common AIEd use in higher education, with ten studies predicting academic performance — related

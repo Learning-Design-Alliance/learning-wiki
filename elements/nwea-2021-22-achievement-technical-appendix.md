@@ -17,7 +17,7 @@ sources:
 # Technical appendix document detailing sample and methods for the Student achievement in 2021-22 brief
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A technical appendix document accompanying the NWEA Research brief on student achievement in 2021-22, authored by Megan Kuhfeld and Karyn Lewis and dated July 2022. Its stated purpose is "to share more detailed results and to describe more fully the sample and methods used in the research included in the brief." The page tags it under the topics COVID-19 & schools and Equity.
@@ -40,7 +40,6 @@ A technical appendix document accompanying the NWEA Research brief on student ac
 
 - [The 2021-22 study investigated whether achievement gains across the 2021-22 school year compared to pre-pandemic trends and whether there were initial signs of rebounding or recovery.](../claims/2021-22-gains-compared-to-pre-pandemic-trends-rebound-signs.md) [+W]
 - [The 2021-22 study investigated how student achievement in spring 2022 compared to pre-pandemic levels.](../claims/spring-2022-achievement-compared-to-pre-pandemic-levels.md) [+W]
-- [The 2021-22 study included a supplementary research question on whether achievement became more distributed over the pandemic.](../claims/supplementary-question-achievement-more-distributed-over-pandemic.md) [+W]
 
 ## Related Elements
 

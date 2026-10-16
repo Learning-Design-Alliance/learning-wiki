@@ -21,7 +21,7 @@ sources:
 # Systematic screening for opportunistic experiments
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 theoretical), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The guide recommends that researchers and policymakers "discuss issues to consider when identifying potential opportunistic experiments" before undertaking one, treating candidate screening as a deliberate step rather than an afterthought. Because opportunistic experiments piggyback on planned interventions or policy changes, the feasibility and validity of the resulting randomization depend on how well the opportunity is assessed up front.
@@ -33,7 +33,6 @@ The guide recommends that researchers and policymakers "discuss issues to consid
 - **Opportunistic experiments: RCTs of planned interventions or policy changes with minimal added disruption and cost**: The guide names and defines opportunistic experiments as "type of randomized controlled trial that study the effects of a planned intervention or policy change with minimal added disruption and cost." The framework rests on exploiting naturally occurring planned changes—such as policy shifts or program rollouts—as sources of randomization, so rigorous causal evidence can be obtained without designing a new study from scratch. The guide defines the concept, provides examples, and organizes practice around identifying candidate opportunities and completing the experiments. (Alexandra Resch et al. (2014))
 
 ### Claims
-- [Opportunistic RCTs can generate strong evidence for education decisions with minimal added cost and disruption](../claims/opportunistic-rcts-strong-evidence-low-cost.md) [+W]
 - [The guide argues opportunistic experiments have potentially low cost while not conducting them has potentially high cost](../claims/opportunistic-experiments-low-cost-high-cost-of-inaction.md) [+W]
 
 ## Related Research Methods
@@ -71,7 +70,6 @@ This guide, published by the U.S. Department of Education's Institute of Educati
 
 ## Claims
 
-- [Opportunistic RCTs can generate strong evidence for education decisions with minimal added cost and disruption](../claims/opportunistic-rcts-strong-evidence-low-cost.md) [+W]
 
 ## Related Elements
 

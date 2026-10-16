@@ -16,7 +16,7 @@ sources:
 # Three-theme characterization of innovative interdisciplinary exploratory research: new frontiers, equitable co-design, and networked communities
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 From thematic analysis of principal investigator interviews, the report organizes the value of exploratory, interdisciplinary research into three themes. The first, exploration and discovery, holds that "Exploratory research created a space for innovative projects in underappreciated and understudied spaces." The second, equitable co-designed learning and practice, emphasizes co-design with underrepresented voices and practitioner expertise throughout the research process. The third, emerging impact through networked communities, holds that participation in communities like CIRCLS added capacity to teams and that researchers pursuing work outside established trajectories faced dissemination barriers.
@@ -41,9 +41,6 @@ From thematic analysis of principal investigator interviews, the report organize
 ### Claims
 
 - [The NSF EXP collaboration network connected 238 researchers across 87 projects and 116 expertise areas](../claims/nsf-exp-network-238-researchers-87-projects.md) [+M]
-- [Publications from NSF EXP exploratory projects showed more novel topic pairings than a random sample of publications from the same database](../claims/nsf-exp-publications-more-novel-topic-pairings.md) [+M]
-- [Equity and accessibility expertise areas were cold spots in the NSF EXP community, with fewer than two projects over three years](../claims/equity-accessibility-expertise-cold-spots.md) [-M]
-- [Equity and social justice research topics rose in prominence in the NSF EXP portfolio between 2017 and 2021 while research became more AI-focused](../claims/equity-topics-rose-ai-focus-grew-nsf-exp.md) [+M]
 
 ## Related Theories
 

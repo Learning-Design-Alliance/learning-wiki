@@ -46,6 +46,6 @@ Same district-level observational analysis (elementary panel, N=5,812 teachers a
 - [The most extreme district disparity: District A's high-poverty middle schools had about 1 in 20 highest-performing math teachers versus about 12 in 20 in the lowest-poverty quintile](district-a-extreme-middle-school-math-disparity.md) — related
 - [District G shows the opposite pattern: highest-poverty elementary schools were most likely to have highest-performing teachers](district-g-elementary-favors-high-poverty-schools.md) — related
 - [The distribution of highest-performing teachers across schools is statistically unlikely to be random, with significance for middle school teachers on both poverty and achievement groupings but for elementary teachers only on achievement groupings](highest-performing-teacher-distribution-nonuniform.md) — related
-- [Main results are robust to grouping schools into four poverty quartiles instead of five quintiles](results-robust-to-quartile-grouping.md) — related
+- Main results are robust to grouping schools into four poverty quartiles instead of five quintiles — related
 - [Elementary under-representation of highest-performing teachers appears in 4 of 8 districts despite the aggregate null](elementary-underrepresentation-four-of-eight-districts.md) — related
 - [Across ten districts combined, high-poverty middle schools have significantly fewer highest-performing teachers than low-poverty middle schools](high-poverty-middle-schools-underrepresented-highest-performing-teachers.md) — related

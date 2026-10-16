@@ -33,7 +33,7 @@ sources:
 # Virtual comparison group construction via database matching
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The VCG approach creates an equivalent virtual comparison for each treatment student: each treatment student was matched with up to 51 real students from NWEA's national MAP test database based on school locale, school-level FRL percentage, test-taking dates, grade level, and pretest scores; aggregated values were treated as a single virtual comparison student. Each virtual student received a comparison criteria level from 0 to 8, with smaller values indicating a closer match. Approximately 89 percent of virtual comparison students were within level 0 to 2.
@@ -47,7 +47,6 @@ The VCG approach creates an equivalent virtual comparison for each treatment stu
 - **Virtual Control Record (VCR) matched-comparison methodology**: CREDO's quasi-experimental design constructs a "virtual twin" for each charter student from records of students in feeder traditional public schools, matching demographic and academic characteristics so the twin differs "only on a single factor: attending a charter school." The VCR produces the expected score the charter student would have realized in TPS. In this study, virtual matches were possible for 87 percent of tested charter observations in reading and 88 percent in math, and matches were newly developed for every growth period to conform to WWC Procedures Handbook Version 4.0 baseline equivalence criteria. (CREDO et al. (2020))
 
 ### Claims
-- [The Kauffman School evaluation used a matched comparison group design to estimate impacts on achievement, attendance, and suspensions](../claims/kauffman-school-matched-comparison-group-design.md) [+M]
 
 ## Related Research Methods
 -
@@ -177,7 +176,6 @@ The evaluation identified a group of students in other Kansas City district and 
 
 ## Claims
 
-- [The Kauffman School evaluation used a matched comparison group design to estimate impacts on achievement, attendance, and suspensions](../claims/kauffman-school-matched-comparison-group-design.md) [+M]
 
 ## Related Elements
 

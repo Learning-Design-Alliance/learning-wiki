@@ -16,7 +16,7 @@ sources:
 # Item Response Theory as a framework for scale development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Item response theory (IRT) is presented as one of two fundamental approaches to scale development, alongside classical test theory (CTT). Unlike CTT, where observed scores of people are the focus, in IRT "the items are the focus", and person and item characteristics become independent of one another and can be placed on the same scale. IRT models (dichotomous 1PLM/2PLM/3PLM and polytomous GRM, GPCM, PCM, RSM, NRM) rest on strong assumptions of unidimensionality and local independence, and provide item and test information functions as an alternative to classical reliability. The review uses this framework to evaluate 19 Turkish scale development studies.
@@ -39,10 +39,6 @@ Item response theory (IRT) is presented as one of two fundamental approaches to 
 ### Claims
 
 - [Irt Assumptions Often Unchecked Turkey](../claims/irt-assumptions-often-unchecked-turkey.md) [+M]
-- [Exploratory factor analysis was used more often than confirmatory factor analysis in Turkish IRT-based scale development studies](../claims/efa-more-than-cfa-irt-scale-studies.md) [+W]
-- [Item parameter estimation methods were almost never reported in the reviewed IRT scale development studies](../claims/estimation-method-rarely-reported-irt-studies.md) [+W]
-- [Item and test information functions and marginal reliability were reported by fewer than half of the reviewed studies](../claims/information-functions-underreported-irt-studies.md) [+W]
-- [Some reviewed studies with polytomous items used dichotomous IRT models such as 2PLM or Rasch](../claims/irt-model-mismatch-polytomous-items.md) [+W]
 - [Sample sizes in Turkish IRT-based scale development studies ranged from 166 to 2223, with about half below the recommended 500](../claims/irt-scale-development-turkey-sample-sizes.md) [+W]
 
 ## Related Theories

@@ -63,9 +63,9 @@ Same ethics theme: reasons for not reading included length (the document was jus
 
 ## Related Claims
 - [Students had little meaningful choice about participation in the student success information system, as they could not remove themselves from the system as a whole](limited-student-choice-opt-out-system.md) — related
-- [K–8 MMLA studies rarely report data fusion techniques, ethics, and transparency despite collecting multimodal data](mmla-k8-fusion-ethics-underreported.md) — related
+- K–8 MMLA studies rarely report data fusion techniques, ethics, and transparency despite collecting multimodal data — related
 - [Students held misconceptions about how MMLA data was collected and processed, and most relied on guesswork when explaining the analysis pipeline](mmla-transparency-misconceptions-guesswork.md) — related
 - [Survey item sensitivity determines the parental permission pathway, from full waiver to active opt-in](survey-sensitivity-drives-parental-permission.md) — related
-- [School districts act as independent gatekeepers whose requirements can exceed IRB determinations](district-independent-gatekeeper-edtech-research.md) — related
+- School districts act as independent gatekeepers whose requirements can exceed IRB determinations — related
 - [Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity](mmla-data-misuse-concerns-four-themes.md) — related
 - Students remained receptive to chatbot communication over four years, with annual opt-out rates below 4% and average interactive-campaign engagement near 5% — related

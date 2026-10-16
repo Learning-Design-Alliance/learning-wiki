@@ -41,6 +41,6 @@ Post-intervention year of the Allen et al. (2011) RCT: 970 students taught by 61
 
 
 ## Related Claims
-- [Only one of six identified MTP-S studies met WWC group design standards, and only for general achievement](mtp-s-evidence-base-single-qualifying-study.md) — related
+- Only one of six identified MTP-S studies met WWC group design standards, and only for general achievement — related
 - [MTP-S showed no statistically significant effect on general achievement during the intervention year](mtp-s-no-significant-effect-intervention-year.md) — related
 - [WWC rates MTP-S as having potentially positive effects on general achievement, with a small extent of evidence](mtp-s-potentially-positive-general-achievement.md) — a broader claim this one bears on

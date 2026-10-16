@@ -44,4 +44,4 @@ Descriptive analysis of CLASS Pre-K observation data provided by CPS and DFSS fo
 
 ## Related Claims
 - [The validation study sample comprised 81 Chicago ECE sites with high teacher and parent survey response rates](early-ed-essentials-validation-sample-81-sites.md) — related
-- [Site-level essential scores were created by averaging standardized measure scores grouped into essentials, informed by exploratory factor analysis](early-ed-essentials-site-score-grouping-efa.md) — related
+- Site-level essential scores were created by averaging standardized measure scores grouped into essentials, informed by exploratory factor analysis — related

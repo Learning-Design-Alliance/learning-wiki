@@ -12,7 +12,7 @@ generated:
 # A four-step adapted cognitive task analysis framework for clinical environments
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article develops a health care setting-adapted version of cognitive task analysis, a suite of methods for studying cognitive processes such as reasoning, problem-solving, and decision-making. The framework guides users through four steps: "(1) Planning, (2) Environmental Analysis, (3) Knowledge Elicitation, and (4) Analyses and Results." It is iterative, drawing on multiple sources of information to moderate the biases of single sources, and is grounded mainly in Crandall et al.'s Working Minds guide. It aims to identify the knowledge, expertise, thought processes, procedures, actors, goals, and mental strategies underlying task completion.
@@ -23,7 +23,6 @@ The article develops a health care setting-adapted version of cognitive task ana
 
 ### Claims
 - [Environmental analysis via structured observation of morning rounds identified unanticipated stakeholders in surgical discharge](../claims/cta-pilot-uncovered-unanticipated-stakeholders.md) [+M]
-- [Critical Decision Method semi-structured interviews expanded on observational data in the discharge planning pilot](../claims/cta-interviews-expand-observations.md) [+M]
 
 ## Related Research Methods
 -

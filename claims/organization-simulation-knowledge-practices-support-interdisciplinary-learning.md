@@ -63,5 +63,5 @@ This is a solid, single-context qualitative case study (q2) with real methodolog
 - [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) — related
 - [Students in interdisciplinary design studio courses reported high authentic motivation stemming from the problems rather than grades](studio-authentic-motivation-beyond-grades.md) — related
 - Interdisciplinary studies are hindered by proliferating definitions and competing instrumental versus conceptual approaches — related
-- [The study calls for integrative research designs that combine knowledge from multiple fields, including network, multi-level, and simulation modeling](hpl-ii-integrative-multifield-designs.md) — related
+- The study calls for integrative research designs that combine knowledge from multiple fields, including network, multi-level, and simulation modeling — related
 - [Student–AI interactions in authentic coursework concentrate in a small number of recurring patterns rather than idiosyncratic use](student-ai-interactions-concentrate-recurring-patterns.md) — related

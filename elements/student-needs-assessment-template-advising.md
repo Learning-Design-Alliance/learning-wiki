@@ -17,7 +17,7 @@ sources:
 # Student needs assessment template for designing comprehensive advising
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A sample template (Figure 1.2, from Achieving the Dream, 2018) that advising teams can use to begin evaluating the extent of student need on campus. "The template in Figure 1.2 includes questions about financial circumstances and background characteristics that can help an advising team begin evaluating the extent of student need on campus." It asks institutions to estimate the percentage of students facing issues such as working more than 20 hours a week, Pell Grant eligibility, food insecurity, parenting responsibilities, and first-generation status. The panel suggests it can be tailored to different student groups.
@@ -42,7 +42,6 @@ A sample template (Figure 1.2, from Achieving the Dream, 2018) that advising tea
 ## Claims
 
 - [Comprehensive, integrated advising interventions improve progression, academic achievement, and postsecondary degree attainment for postsecondary students](../claims/comprehensive-integrated-advising-improves-persistence-and-degree-attainment.md) [+W]
-- [The guide's recommendations rest on 21 studies meeting WWC standards, with participant samples ranging from 51 to 15,898 students](../claims/wwc-advising-evidence-base-21-studies.md) [+W]
 
 ## Related Elements
 - Comprehensive Integrated Advising Recommendation

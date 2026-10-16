@@ -43,5 +43,5 @@ In the Findings section organizing the 46 codes, the article reports that "6 of 
 
 
 ## Related Claims
-- [Thematic coding of expert role-players' interviews produced 46 codes, of which 25 were preference themes (86 statements) and 21 were fact themes (68 statements)](forty-six-codes-preference-fact-themes.md) — related
+- Thematic coding of expert role-players' interviews produced 46 codes, of which 25 were preference themes (86 statements) and 21 were fact themes (68 statements) — related
 - [Expert role-players expressed more frustration with insufficient in-game social context in computer RPGs than with any other aspect, even when discussing their favorite games](players-frustrated-by-thin-social-context.md) — related

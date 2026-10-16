@@ -17,7 +17,7 @@ sources:
 # A four-type hierarchy of evidence for judging educational technology effectiveness
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The guide presents an organizing framework of four evidence types that educators encounter when evaluating product effectiveness claims. The types are explicitly ranked: "The types of evidence in this guide are ordered from weakest to strongest, and each evidence description is accompanied by examples of information sources containing that type of evidence." The hierarchy serves as the guide's structure for helping educators judge how strongly each evidence type can back an effectiveness claim.
@@ -27,7 +27,6 @@ The guide presents an organizing framework of four evidence types that educators
 - **A four-type hierarchy of evidence for judging educational technology effectiveness, ordered from weakest to strongest**: The guide presents an organizing framework of four evidence types that educators encounter when evaluating product effectiveness claims. The types are explicitly ranked: "The types of evidence in this guide are ordered from weakest to strongest, and each evidence description is accompanied by examples of information sources containing that type of evidence." The hierarchy serves as the guide's structure for helping educators judge how strongly each evidence type can back an effectiveness claim. (Gregory Chojnacki et al. (2016))
 
 ### Claims
-- [The quality of evidence about technology effectiveness varies widely across information sources](../claims/evidence-quality-varies-widely-sources.md) [+W]
 - [Different evidence types differ in how strongly they can support claims about effectiveness](../claims/evidence-types-differ-support-strength.md) [+W]
 
 ## Related Research Methods
@@ -62,7 +61,6 @@ The guide presents an organizing framework of four evidence types that educators
 
 ### Claims
 
-- [The quality of evidence about technology effectiveness varies widely across information sources](../claims/evidence-quality-varies-widely-sources.md) [+W]
 - [Different evidence types differ in how strongly they can support claims about effectiveness](../claims/evidence-types-differ-support-strength.md) [+W]
 
 ## Related Theories

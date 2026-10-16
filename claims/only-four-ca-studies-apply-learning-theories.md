@@ -47,5 +47,5 @@ In the review's discussion of learning-theory integration, it reports that "only
 - [Four reviewed CAs explicitly integrate pedagogical theories, including the Vygotskian perspective, the 4C/ID model, scaffolding, and gamification](four-cas-integrate-pedagogical-theories.md) — possibly the same claim (merge candidate)
 - [Because learning theories are not operationalized into system structures, pedagogical use of digital resources is delegated to teachers' judgment at the moment of use](pedagogical-use-delegated-to-teacher-judgment.md) — related
 - Most NLP-for-LA studies (89.10%) never apply their models in real educational settings, revealing a gap between model development and practical use — a broader claim this one bears on
-- [Most research on noncognitive assessment and segmentation in postsecondary education is theoretical rather than applied to college practice](noncognitive-assessment-research-mostly-theoretical.md) — a broader claim this one bears on
+- Most research on noncognitive assessment and segmentation in postsecondary education is theoretical rather than applied to college practice — a broader claim this one bears on
 - Theoretical grounding in teacher-AI learning task design research is fragmented, with a significant number of studies lacking explicit theoretical frameworks — related

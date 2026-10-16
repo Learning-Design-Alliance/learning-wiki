@@ -17,7 +17,7 @@ sources:
 # Distinguish subgroup stratified analyses from statistical moderation tests when evaluating differential SEL effects
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 review), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 review), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The review advises that depending on research aims, subgroup analyses or moderation tests of diversity characteristics may be appropriate, and that data may direct the decision, for example when subgroups have different variance-covariance structures. It cautions that stratified analyses do not statistically compare groups, so heterogeneity claims should not rest on separate within-group tests. Both test types were included in the review's moderation category while recognizing they differ in interpretation.
@@ -39,7 +39,6 @@ The review advises that depending on research aims, subgroup analyses or moderat
 ## Claims
 
 - [Most reviewed SEL studies did not test diversity characteristics as moderators, and those that did found inconsistent moderation effects](../claims/sel-moderation-tests-rare-inconsistent.md) [+W]
-- [Moderation analyses in reviewed SEL evaluations often lacked conceptual or empirical justification from prior literature or hypotheses](../claims/unjustified-sel-moderation-analyses.md) [+W]
 - [Program and delivery characteristics moderate SEL effects: implementation quality, duration, skill practice, and delivery agent](../claims/sel-effects-moderators-implementation-delivery.md) [+W]
 
 ## Related Strategies

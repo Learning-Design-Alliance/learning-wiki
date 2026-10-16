@@ -17,7 +17,7 @@ sources:
 # Construct evaluation framework
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (1 quant-synthesis, 1 design), `q2` · 1 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 quant-synthesis), `q4` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A framework for evaluating the characteristics of psychological constructs prior to automated coding, grounded in educational psychology measurement practices and validity theories (Cronbach & Meehl, 1955; Kane, 2013; Messick, 1995). It comprises three dimensions — "Operational Definition," "Empirical Grounding," and "Conceptual Integrity" — each with sub-dimensions such as clarity, specificity, granularity, concreteness, objectivity, measurability, theoretical coherence, context sensitivity, and sensitivity to individual sources of variability. The authors used it to rate persistence, self-efficacy, interest, perceived challenge, and prior KSAs, finding persistence among the less well-defin
@@ -28,8 +28,6 @@ A framework for evaluating the characteristics of psychological constructs prior
 - **Validate the key dimensions of professional community conceptually and empirically before relying on the construct in school-improvement work**: Because professional community lacks a universal definition and is operationalized inconsistently across studies, the article argues that the concept's key dimensions need conceptual and empirical validation. The article states that "the need for the conceptual and empirical validation of the concept's key dimension was discussed". This principle directs researchers and school designers to establish definitional and measurement validity before drawing on the construct. (Lomos et al. (2011))
 
 ### Claims
-- [Constructs with higher operational clarity show higher overall coder agreement, and low clarity harms human coder agreement more than LLM agreement](../claims/construct-clarity-predicts-coding-agreement.md) [+M]
-- [Research on professional community faces conceptual and methodological difficulties: no universal definition exists and operationalization varies across studies](../claims/professional-community-definition-operationalization-difficulties.md) [+M]
 - [Professional community within a school environment is associated with a small but significant positive effect on student achievement (d=.25)](../claims/professional-community-small-significant-achievement-effect.md) [~M]
 
 ## Related Research Methods
@@ -63,7 +61,6 @@ A framework for evaluating the characteristics of psychological constructs prior
 - measuring persistence, self-efficacy, interest, perceived challenge, and prior KSAs from conversational assessment data
 
 ### Claims
-- [Construct Clarity Predicts Coding Agreement](../claims/construct-clarity-predicts-coding-agreement.md) [+M]
 
 ## Related Theories
 - 

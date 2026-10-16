@@ -43,5 +43,5 @@ This is the review's narrative synthesis of empirical studies of learner-generat
 
 
 ## Related Claims
-- [The review's purpose is to stimulate research on learner-generated drawing, with the framework intended to guide and organize future research efforts](drawing-review-purpose-stimulate-future-research.md) — related
+- The review's purpose is to stimulate research on learner-generated drawing, with the framework intended to guide and organize future research efforts — related
 - [Drawing improves STEM learning by a small-to-moderate amount over not drawing and over other active study strategies, in one meta-analysis](drawing-improves-learning.md) — related

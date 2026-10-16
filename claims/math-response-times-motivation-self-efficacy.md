@@ -45,5 +45,5 @@ The brief poses its guiding question as "What can we glean about students' socia
 ## Related Claims
 - [Time spent on very difficult math test items is highly correlated with students' academic motivation and self-efficacy](time-on-difficult-items-correlates-motivation-self-efficacy.md) — a narrower finding that bears on this claim
 - [Mean item response durations show no strong relationship with math motivation and self-efficacy in general](mean-item-durations-not-strongly-related-motivation-self-efficacy.md) — related
-- [Response times have been used extensively for achievement estimation but little work links test metadata to social-emotional constructs](response-time-metadata-gap-social-emotional-constructs.md) — related
+- Response times have been used extensively for achievement estimation but little work links test metadata to social-emotional constructs — related
 - [Using item response time metadata to measure students' social-emotional learning shows both promise and limitations](response-time-metadata-sel-promise-and-limitations.md) — possibly the same claim (merge candidate)

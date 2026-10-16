@@ -43,6 +43,6 @@ Two publication-bias assessments using PET-PEESE and various selection methods w
 
 ## Related Claims
 
-- [Large Type M (magnitude) errors almost certainly exist when applying the statistical significance filter in education research](large-type-m-errors-significance-filter-education.md) — the general claim this finding bears on, with the studies behind it
+- Large Type M (magnitude) errors almost certainly exist when applying the statistical significance filter in education research — the general claim this finding bears on, with the studies behind it
 - [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — related
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related

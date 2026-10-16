@@ -43,7 +43,7 @@ Theoretical argument stated in the article's abstract: the model's basic claim e
 
 
 ## Related Claims
-- [FICSMath instructional experiences converge into four 4C/ID-aligned factors: complex tasks (4 items), whole-task concept overviews (17), procedural support (16), and practice opportunities (13)](four-4cid-factors-observed-variable-counts.md) — related
+- FICSMath instructional experiences converge into four 4C/ID-aligned factors: complex tasks (4 items), whole-task concept overviews (17), procedural support (16), and practice opportunities (13) — related
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](part-task-practice-reduces-load-for-novices.md) — a narrower finding that bears on this claim
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](whole-task-performance-improves-transfer.md) — related
 - [The 4C/ID group scored higher on consent-taking OSCEs than the lecture group, but the difference was not statistically significant](osce-advantage-4cid-not-significant.md) — related

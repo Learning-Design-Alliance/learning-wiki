@@ -49,4 +49,4 @@ Qualitative thematic analysis of a random subsample of 203 of the 1024 collected
 - [Single-turn tutors disclose answers pervasively while challenge scores are near zero across every model and subject](single-turn-answer-disclosure-challenge-near-zero.md) — related
 - [Role-playing learners report weaker experiences with GPT-4o than with LearnLM, Gemini 1.5 Pro, and Claude 3.5 Sonnet](learnlm-roleplayer-weaker-gpt4o-experience.md) — related
 - [Prompting alone could not keep the gpt-3.5-turbo model on-topic, while the text-davinci-002 engine stayed on-topic in the deployed chatbot](gpt35-turbo-off-topic-prompting-insufficient.md) — related
-- [Thematic coding of expert role-players' interviews produced 46 codes, of which 25 were preference themes (86 statements) and 21 were fact themes (68 statements)](forty-six-codes-preference-fact-themes.md) — related
+- Thematic coding of expert role-players' interviews produced 46 codes, of which 25 were preference themes (86 statements) and 21 were fact themes (68 statements) — related

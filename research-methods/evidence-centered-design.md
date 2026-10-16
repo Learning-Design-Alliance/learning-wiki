@@ -21,7 +21,7 @@ sources:
 # Evidence-Centered Design
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 3 studies (2 design, 1 review), `q2` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 ECD is a principled assessment design framework that structures the rationales, choices, and consequences of assessment development. The article describes how the framework identifies layers and models: "These models are then glued together by (4) the assembly model and (5) the presentation model that make the assessment deliverable." Domain modeling drives the whole process, laying out the assessment argument in narrative terms before formal models are built. The authors adopt ECD as a natural bridge between the demand for high fidelity of epistemic games and the demand for rich assessment data.
@@ -41,7 +41,6 @@ ECD is a principled assessment design framework that structures the rationales, 
 ### Claims
 - [DINA models fit FCI and EMCS posttest data well but fit FMCE data only marginally](../claims/dina-fit-fci-emcs-good-fmce-marginal.md) [+M]
 - [Expert Q-matrix coding closely matched DINA-recovered structure, with only 2.7% of item-LO codings changed during validation](../claims/qmatrix-validation-low-change-rate.md) [+M]
-- [Supporting theory in GBA studies tends to be unitary: about 48% of studies specified no theory, and evidence-centered design was cited most (N = 6)](../claims/gba-theory-evidence-centered-design-dominant.md) [+M]
 - [In a case study, LLM-generated assessment conversations handled common student speech acts more naturalistically than RegExp/LSA conversations](../claims/llm-cba-more-naturalistic-than-regexp-lsa.md) [+M]
 - [LLM assessment conversations can be derailed off-topic by gaming attempts, and one successful prompt revision was not demonstrated to be replicable](../claims/llm-cba-derailment-gaming-not-replicable.md) [~M]
 

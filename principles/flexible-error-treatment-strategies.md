@@ -23,7 +23,7 @@ sources:
 # Employ flexible error treatment strategies matched to objectives, competence, affect, and correction effectiveness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (11 for, 18 mixed, 1 against) · 21 studies (9 causal, 6 review, 2 quant-synthesis, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q3` · 4 of 21 report an effect size · 26 claims rest on one study
+> **Evidence** · 29 claims (11 for, 17 mixed, 1 against) · 21 studies (9 causal, 6 review, 2 quant-synthesis, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q3` · 4 of 21 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -93,7 +93,7 @@ What can be observed is a learner's utterance or text under stated conditions, t
 | Corrects at once when prompted, but not in free speech | A mistake in a known form (attention, not knowledge); the form is known but not yet automatic | Compare accuracy in a slow written task with accuracy in timed speech; if the gap is large, more practice, not more correction. |
 | Stops speaking, or gives shorter answers, after being corrected in front of others | Face threat or anxiety; not understanding what was corrected; disagreement with the correction | Switch that learner to private or written correction and compare their participation over the next sessions; ask privately what they took from the correction. |
 | Correct at the end of the lesson, wrong a week later | Little consolidation; the correction's effect was short-lived; interference from new forms | Check the form in unprompted use at the delay and record all practice and correction in between. |
-| Never makes an error in a form at all | The form is known; the learner avoids it (uses a simpler structure) | Set a task that requires the form; avoidance shows no error, so absence of error is not evidence of competence ([limitations of error analysis](../claims/error-analysis-limitations.md) [~W]). |
+| Never makes an error in a form at all | The form is known; the learner avoids it (uses a simpler structure) | Set a task that requires the form; avoidance shows no error, so absence of error is not evidence of competence (limitations of error analysis [~W]). |
 | The same error across many learners | A shared first-language transfer; a gap in the teaching; a misleading example in the materials | Look at where the error comes from (first-language transfer is commoner early, overgeneralization of a target-language rule later, per a theoretical account ([error sources](../claims/error-sources-interlingual-intralingual-cultural.md) [~W])), and teach the form to the group. |
 
 These rows are proposals, untested with learners as diagnostics. A correction is itself an intervention and changes what it is meant to measure, so record each one, and keep the explanations that remain open rather than choosing the one whose name fits.

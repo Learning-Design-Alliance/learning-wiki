@@ -43,4 +43,4 @@ A quasi-experiment in a grade 7 junior high biology course assigned 34 students 
 
 
 ## Related Claims
-- [The evaluation used a three-class design contrasting a traditional-approach control class with two experimental classes using digital content and a chatbot-based method](three-class-chatbot-evaluation-design.md) — related
+- The evaluation used a three-class design contrasting a traditional-approach control class with two experimental classes using digital content and a chatbot-based method — related

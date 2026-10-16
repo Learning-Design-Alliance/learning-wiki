@@ -67,9 +67,9 @@ The paper's empirical analysis of statistical power for education experiments fi
 
 ## Related Claims
 
-- [Large school samples are required to achieve appropriate precision standards in clustered education experiments](large-school-samples-required-precision-standards.md) — possibly the same claim (merge candidate)
-- [Sample size formulas for clustered designs with school- or teacher-level random assignment are derived using generalized estimating equation methods](gee-sample-size-formulas-clustered-school-rcts.md) — related
-- [Most education impact studies can rigorously address only broad questions due to power constraints](most-impact-studies-address-broad-questions-only.md) — related
-- [Many education evaluations have sufficient power to detect precise impacts only for relatively large subgroups of sites](power-limited-to-large-site-subgroups.md) — related
-- [Required numbers of schools differ across school, classroom, and student random-assignment designs](required-schools-vary-by-assignment-level.md) — a narrower finding that bears on this claim
+- Large school samples are required to achieve appropriate precision standards in clustered education experiments — possibly the same claim (merge candidate)
+- Sample size formulas for clustered designs with school- or teacher-level random assignment are derived using generalized estimating equation methods — related
+- Most education impact studies can rigorously address only broad questions due to power constraints — related
+- Many education evaluations have sufficient power to detect precise impacts only for relatively large subgroups of sites — related
+- Required numbers of schools differ across school, classroom, and student random-assignment designs — a narrower finding that bears on this claim
 - [The evaluation used a school-level cluster-randomized quasi-experiment (N = 50) that was powered only to detect large effects (d = 0.81)](cluster-randomized-quasi-experiment-powered-for-large-effects.md) — a narrower finding that bears on this claim

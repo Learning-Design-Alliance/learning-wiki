@@ -18,7 +18,7 @@ sources:
 # The Expert Mathematician
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A three-year middle-school mathematics curriculum developed by the program's creators that combines Logo programming software with consumable print materials across general mathematics, pre-algebra, and algebra I.
@@ -27,7 +27,6 @@ A three-year middle-school mathematics curriculum developed by the program's cre
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Random assignment in the Baker (1997) trial produced pretest differences favoring the comparison curriculum, controlled by using the pretest as a covariate](../claims/baker-trial-pretest-difference-covariate-control.md) [~W]
 - [The Expert Mathematician shows a positive but not statistically significant effect on middle school math achievement (effect size 0.35, improvement index +14 percentile points)](../claims/expert-mathematician-potentially-positive-math-achievement.md) [+W]
 - [The WWC rates The Expert Mathematician as having potentially positive effects on middle school mathematics achievement](../claims/wwc-potentially-positive-rating-expert-mathematician.md) [+W]
 
@@ -65,7 +64,6 @@ The Expert Mathematician is a three-year middle school mathematics program combi
 
 ## Claims
 
-- [Random assignment in the Baker (1997) trial produced pretest differences favoring the comparison curriculum, controlled by using the pretest as a covariate](../claims/baker-trial-pretest-difference-covariate-control.md) [~W]
 - [The Expert Mathematician shows a positive but not statistically significant effect on middle school math achievement (effect size 0.35, improvement index +14 percentile points)](../claims/expert-mathematician-potentially-positive-math-achievement.md) [+W]
 - [The WWC rates The Expert Mathematician as having potentially positive effects on middle school mathematics achievement](../claims/wwc-potentially-positive-rating-expert-mathematician.md) [+W]
 

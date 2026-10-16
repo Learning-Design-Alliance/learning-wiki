@@ -44,4 +44,4 @@ Stuck points and cognitive roadblocks theme from the workshop. Teachers reported
 
 ## Related Claims
 - [Conditioning results from multiple disengagement detection methods on response times shows how the conditional approach aids threshold setting and misclassification avoidance](conditioning-detection-methods-on-response-times.md) — related
-- [Error analysis has stated limitations: overattention to errors, overstressing production data, failure to account for avoidance, and language-specific focus](error-analysis-limitations.md) — related
+- Error analysis has stated limitations: overattention to errors, overstressing production data, failure to account for avoidance, and language-specific focus — related

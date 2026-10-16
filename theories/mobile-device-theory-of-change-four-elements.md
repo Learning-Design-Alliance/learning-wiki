@@ -16,7 +16,7 @@ sources:
 # Theory of change for mobile technology use in the primary classroom: devices, activities and interventions, outcomes, and moderating factors
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 1 study (1 quant-synthesis), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study (1 quant-synthesis), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The review represents the emerging themes of mobile technology use in the primary classroom as a theory of change (logic model, Figure 1). "four elements are considered in how mobile technology is used in the primary school classroom. These are (a) devices; (b) activities and interventions; (c) outcomes; and (d) moderating factors and theoretical drivers." The framework organises how the elements work together to contribute to improved outcomes for children, and structures the review's background, qualitative extraction and interpretation.
@@ -38,7 +38,6 @@ The review represents the emerging themes of mobile technology use in the primar
 ### Claims
 
 - [Too few studies exist to draw robust conclusions on moderating factors (age, gender, screen size, dosage, SAMR-based activities) or on whether benefits persist beyond the post-test](../claims/mobile-device-moderators-insufficient-evidence.md) [~W]
-- [Most included studies carry risk of bias concerns, requiring cautious interpretation of the pooled effect](../claims/mobile-device-review-risk-of-bias-concerns.md) [~W]
 - [Mobile device use in primary classrooms produces a small, statistically significant positive pooled effect on literacy and numeracy outcomes compared with alternative devices or no device](../claims/mobile-devices-small-positive-effect-literacy-numeracy.md) [+W]
 - [Prior syntheses of educational technology effects show inconsistent findings, with mobile learning meta-analysis finding near-zero maths effects and reading interventions comparatively more effective](../claims/prior-technology-meta-analyses-inconsistent-effects.md) [~W]
 

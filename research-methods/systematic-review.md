@@ -17,7 +17,7 @@ sources:
 # Systematic review
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 5 claims (5 for) · 3 studies (2 quant-synthesis, 1 theoretical), `q1`–`q3` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (2 quant-synthesis), `q3` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The article defines systematic reviews as a distinct genre of research synthesis. It states that "It is important to define what we mean by a systematic review to distinguish it from simple summaries of research", and that "Systematic reviews are designed to answer a question and prevent the information overload that decision makers at all levels may face." The framework positions the systematic review as a purposeful, question-anchored alternative to ad hoc summaries, used to support evidence-based decision making at all levels.
@@ -33,7 +33,6 @@ The article defines systematic reviews as a distinct genre of research synthesis
 - **Revisión sistemática de literatura sobre evaluación formativa y analíticas de aprendizaje en cursos virtuales**: Como parte de la definición del modelo, la tesis realiza "una revisión sistemática de la literatura con el fin de identificar los últimos avances en cuanto a metodologías, herramientas, así como otros modelos aplicados en esta área". Esta revisión fundamenta el planteamiento del problema y las preguntas de investigación que guían el diseño e implementación del modelo de evaluación formativa integrado con analíticas de aprendizaje. (Pineda Corcho (2021))
 
 ### Claims
-- [Systematic reviews are designed to answer a question and prevent information overload for decision makers](../claims/systematic-reviews-prevent-information-overload.md) [+W]
 - [Using computerized systems as a differentiation tool has small to moderate positive effects on primary students' language and math performance](../claims/computerized-differentiation-systems-positive-effects-primary.md) [+M]
 - [Differentiation embedded in a broader program or reform has small to moderate positive effects on primary students' performance](../claims/differentiation-within-broader-program-positive-effects.md) [+M]
 - [Between- or within-class homogeneous ability grouping has a small negative effect on low-ability primary students but no effect on other students](../claims/homogeneous-ability-grouping-negative-low-ability.md) [+M]
@@ -76,7 +75,6 @@ The article defines systematic reviews as a distinct genre of research synthesis
 
 ### Claims
 
-- [Systematic reviews are designed to answer a question and prevent information overload for decision makers](../claims/systematic-reviews-prevent-information-overload.md) [+W]
 
 ## Related Theories
 - 

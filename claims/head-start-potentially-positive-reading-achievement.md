@@ -44,6 +44,6 @@ The WWC report summarizes the DHHS ACF (2010) randomized controlled trial, in wh
 
 ## Related Claims
 - [The evidence base for Head Start's school-readiness effects is small: only one of 40 eligible studies met WWC group design standards](head-start-evidence-base-single-rct.md) — related
-- [Substantial crossover occurred in the Head Start impact study comparison group, with 17.3% of the 3-year-old and 13.9% of the 4-year-old comparison groups enrolling in non-study Head Start programs](head-start-impact-study-comparison-crossover.md) — related
+- Substantial crossover occurred in the Head Start impact study comparison group, with 17.3% of the 3-year-old and 13.9% of the 4-year-old comparison groups enrolling in non-study Head Start programs — related
 - [Head Start shows no discernible effects on mathematics achievement for 4-year-old children](head-start-no-discernible-mathematics-effects.md) — related
 - [Supplemental analyses show statistically significant positive Head Start effects on one social-emotional subscale and two mothers' race/ethnicity subgroup comparisons for the 3-year-old cohort](head-start-supplemental-subgroup-subscale-effects.md) — related

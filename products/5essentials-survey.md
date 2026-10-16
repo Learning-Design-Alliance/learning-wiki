@@ -77,7 +77,7 @@ sources:
 # 5Essentials Survey
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 34 claims (31 for, 2 mixed, 1 against) · 18 studies (15 associational, 2 causal, 1 design), `q1`–`q3` · 0 of 18 report an effect size · 33 claims rest on one study
+> **Evidence** · 33 claims (30 for, 2 mixed, 1 against) · 17 studies (14 associational, 2 causal, 1 design), `q1`–`q3` · 0 of 17 report an effect size · 32 claims rest on one study
 
 ## Description
 The 5Essentials Survey is a statewide school-climate and organizational-conditions assessment developed by the University of Chicago Consortium on School Research and administered to Illinois students and teachers by the Illinois State Board of Education.
@@ -125,7 +125,6 @@ The 5Essentials Survey is a statewide school-climate and organizational-conditio
 - [School survey reports benchmark each school against demographically similar schools and the whole system over a ten-year period](../claims/survey-reports-benchmark-similar-schools-over-time.md) [+W]
 - [Ten years of repeated survey participation enables reporting of change over time in school climate measures](../claims/ten-years-survey-trend-reporting.md) [+W]
 - [The 2005 CCSR survey drew over 130,000 participants and produced reports for 454 schools](../claims/2005-ccsr-survey-participation-454-schools.md) [+W]
-- [The 2005 CCSR survey achieved response rates near 90 percent at the sample high school, with respondents closely matching the full student body](../claims/ccsr-2005-sample-school-response-rates.md) [+W]
 - [Instructional leadership ratings are high even in bottom-quartile Chicago high schools: 85 percent of top-quartile teachers give strong or very strong ratings, and half of bottom-quartile teachers do so as well](../claims/instructional-leadership-high-ratings-both-quartiles-1997.md) [+W]
 - [Intergenerational ties in the community contribute positively to student learning, per research cited in the report](../claims/intergenerational-ties-contribute-student-learning.md) [+W]
 - [Joint problem solving distinguishes top- from bottom-quartile Chicago high schools: half of top-quartile teachers describe strong processes plus 13 percent very strong, while bottom-quartile teachers most often describe weak processes (46 percent)](../claims/joint-problem-solving-quartile-contrast-1997.md) [+W]
@@ -698,7 +697,6 @@ Every two years, the UChicago Consortium surveys all Chicago public school teach
 
 ## Claims
 
-- [The 2005 CCSR survey achieved response rates near 90 percent at the sample high school, with respondents closely matching the full student body](../claims/ccsr-2005-sample-school-response-rates.md) [+W]
 
 ## Related Elements
 

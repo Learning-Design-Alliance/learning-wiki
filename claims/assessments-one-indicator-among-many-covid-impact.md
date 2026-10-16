@@ -43,6 +43,6 @@ A stated position on the NWEA Research page, offered without supporting data or 
 
 
 ## Related Claims
-- [Researchers have translated test scores into months of learning to claim how many months or years students are behind in school](test-scores-translated-to-months-of-learning.md) — related
+- Researchers have translated test scores into months of learning to claim how many months or years students are behind in school — related
 - [Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math](fall-2021-achievement-lagged-pre-pandemic-norms-especially-math.md) — related
 - [After the U.S. Department of Education offered assessment waivers to all 50 states in 2019-2020, many educators and policymakers advocated restarting assessment programs in 2020-2021 to evaluate teaching and learning and inform recovery policies](assessment-restart-advocacy-after-2020-waivers.md) — related

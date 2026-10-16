@@ -18,7 +18,7 @@ sources:
 # 23-item Meta-UTAUT survey instrument for MALL usage in EFL
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A 23-item, seven-domain Likert survey instrument adapted and translated by Tuan Thanh Nguyen to measure Vietnamese EFL learners’ acceptance and intended use of mobile-assisted language learning.
@@ -28,7 +28,6 @@ A 23-item, seven-domain Likert survey instrument adapted and translated by Tuan 
 
 ### Claims
 - [Behavioral intention has a statistically significant but weak positive effect on actual MALL usage behavior in EFL learning](../claims/bi-weak-effect-actual-mall-use.md) [+W]
-- [The measurement model showed adequate reliability and convergent validity, and BI and UB models showed substantial explanatory power](../claims/measurement-model-reliability-mall-efl.md) [+W]
 - [In a Vietnamese EFL sample, all six Meta-UTAUT hypotheses on MALL adoption were accepted with p-values below 0.05](../claims/meta-utaut-hypotheses-accepted-mall-efl.md) [+W]
 - [Social influence has a small positive impact on MALL use in EFL acquisition among Vietnamese learners](../claims/social-influence-modest-attitude-mall.md) [+W]
 
@@ -68,7 +67,6 @@ A questionnaire measuring MALL acceptance constructs among Vietnamese EFL learne
 ## Claims
 
 - [Behavioral intention has a statistically significant but weak positive effect on actual MALL usage behavior in EFL learning](../claims/bi-weak-effect-actual-mall-use.md) [+W]
-- [The measurement model showed adequate reliability and convergent validity, and BI and UB models showed substantial explanatory power](../claims/measurement-model-reliability-mall-efl.md) [+W]
 - [In a Vietnamese EFL sample, all six Meta-UTAUT hypotheses on MALL adoption were accepted with p-values below 0.05](../claims/meta-utaut-hypotheses-accepted-mall-efl.md) [+W]
 - [Social influence has a small positive impact on MALL use in EFL acquisition among Vietnamese learners](../claims/social-influence-modest-attitude-mall.md) [+W]
 

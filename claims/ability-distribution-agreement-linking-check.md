@@ -45,4 +45,4 @@ Ability-distribution agreement comparison from the benchmark evaluation. Because
 ## Related Claims
 - [Consensus calibration closely reproduces pooled-benchmark item-parameter means and standard deviations on an operational assessment](consensus-posterior-agrees-with-pooled-benchmark.md) — related
 - [Consensus calibration shows mild under-dispersion relative to the pooled benchmark, strongest for sparsely observed items, consistent with residual prior over-counting](mild-under-dispersion-low-exposure-items.md) — related
-- [A convergence screen excluding non-converged (item, parameter) pairs removed 1.9% of pairs from the benchmark comparison](convergence-screen-removed-1-9-percent-pairs.md) — related
+- A convergence screen excluding non-converged (item, parameter) pairs removed 1.9% of pairs from the benchmark comparison — related

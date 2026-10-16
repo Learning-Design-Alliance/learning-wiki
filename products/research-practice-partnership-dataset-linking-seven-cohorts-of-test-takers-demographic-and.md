@@ -18,7 +18,7 @@ sources:
 # Research-practice partnership dataset linking seven cohorts of test takers' demographic and English proficiency data to seven years of EL and SPED participation
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A research-practice partnership dataset linking student demographic and initial English-proficiency assessment records for seven cohorts to seven years of English-learner and special-education participation data for educational research.
@@ -29,7 +29,6 @@ A research-practice partnership dataset linking student demographic and initial 
 ### Claims
 - [EL status had either a null effect or led to slight under-identification in SPED placement](../claims/el-status-null-or-underidentification-sped.md) [+W]
 - [EL status led to under-identification for Spanish speakers but proportionate representation for Mandarin/Cantonese and other-language speakers](../claims/el-underidentification-varies-by-language-group.md) [+W]
-- [Regression discontinuity estimates of EL status effects on SPED placement consistently differ substantively from regression analysis results](../claims/rd-estimates-differ-from-regression-el-sped.md) [+W]
 - [Under-identification of SPED placement occurred two years after EL classification](../claims/underidentification-two-years-after-el-classification.md) [+W]
 
 ## Related Products and Programmes
@@ -66,7 +65,6 @@ Through a research-practice partnership, the study links "student demographic da
 
 - [EL status had either a null effect or led to slight under-identification in SPED placement](../claims/el-status-null-or-underidentification-sped.md) [+W]
 - [EL status led to under-identification for Spanish speakers but proportionate representation for Mandarin/Cantonese and other-language speakers](../claims/el-underidentification-varies-by-language-group.md) [+W]
-- [Regression discontinuity estimates of EL status effects on SPED placement consistently differ substantively from regression analysis results](../claims/rd-estimates-differ-from-regression-el-sped.md) [+W]
 - [Under-identification of SPED placement occurred two years after EL classification](../claims/underidentification-two-years-after-el-classification.md) [+W]
 
 ## Related Elements

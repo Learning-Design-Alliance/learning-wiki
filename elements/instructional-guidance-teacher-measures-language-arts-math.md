@@ -17,7 +17,7 @@ sources:
 # Teacher instructional guidance measures of basic-skills and application-oriented emphasis in language arts and math
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The 1994 teacher survey measures instructional guidance through four Rasch scales: Knowledge, Skill in Language Arts (individual reliability 0.76), Knowledge, Skill in Math (0.70), Application, Analysis, Production in Language Arts (0.77), and Application, Analysis, Production in Math (0.75). Items cover teaching philosophy (e.g., "I teach my students very much like my teachers taught me"), instructional strategies, emphasis on specific skills, and test-preparation time for the ITBS and IGAP. Curricular Alignment is measured as average change in course content per year in ITBS grade-level equivalents.
@@ -38,7 +38,6 @@ The 1994 teacher survey measures instructional guidance through four Rasch scale
 
 ## Claims
 
-- [Factor analysis of the Chicago school surveys produced thirteen composite indicators, which with four stand-alone measures yielded seventeen overall indicators](../claims/thirteen-composite-indicators-seventeen-total.md) [+W]
 - [Survey data came primarily from teacher and student surveys conducted in 1994, with school counts varying by measure and wave](../claims/survey-waves-1994-primary-school-counts-vary.md) [+W]
 
 ## Related Elements

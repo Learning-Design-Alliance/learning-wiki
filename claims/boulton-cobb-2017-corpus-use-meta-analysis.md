@@ -43,7 +43,7 @@ The HAL repository record for the article prints the title, authors, venue, year
 
 
 ## Related Claims
-- [Variation in meta-analytic effect sizes stems from synthesists' methodological choices (inclusion criteria, data extraction, formulas, outlier handling) and from study quality](meta-analysis-variation-from-methodological-choices.md) — related
+- Variation in meta-analytic effect sizes stems from synthesists' methodological choices (inclusion criteria, data extraction, formulas, outlier handling) and from study quality — related
 - [A second-order synthesis of 12 CALL meta-analyses yields a mean effect size of d=.64, a medium effect of CALL on learning](call-meta-analyses-mean-effect-d-064.md) — related
 - [CALL is at least as effective as traditional teaching: the synthesis meets the minimal d=0 (or Hattie's d=.4) expectation](call-at-least-as-good-as-traditional-teaching.md) — related
-- [Decisions made at each stage of a meta-analysis influence its conduct, results, and substantive implications](meta-analysis-stage-decisions-shape-results.md) — related
+- Decisions made at each stage of a meta-analysis influence its conduct, results, and substantive implications — related

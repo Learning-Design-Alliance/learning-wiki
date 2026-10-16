@@ -43,7 +43,7 @@ The webinar description frames measurement as an unresolved question: “How sho
 
 
 ## Related Claims
-- [COVID-19 disruptions to schools and testing created a “lost year” of data that challenged education research](covid-lost-year-data-challenge-education-research.md) — related
+- COVID-19 disruptions to schools and testing created a “lost year” of data that challenged education research — related
 - [Experts at the NISS Ingram Olkin Forum shared statistical and data-analytic challenges in researching COVID-19's impact on U.S. schools](covid-schools-statistical-challenges-forum.md) — related
 - Researchers deployed stopgaps to address missing data caused by COVID disruptions — related
 - [Post-pandemic course grades rose while test scores and attendance fell, raising questions about what grades signal](grades-rose-tests-attendance-fell.md) — related

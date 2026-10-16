@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 29 claims (11 for, 10 mixed, 8 against) · 26 studies (10 review, 6 associational, 5 theoretical, 3 qualitative, 2 design), `q1`–`q2` · 1 of 26 report an effect size · 27 claims rest on one study
+> **Evidence** · 28 claims (10 for, 10 mixed, 8 against) · 25 studies (9 review, 6 associational, 5 theoretical, 3 qualitative, 2 design), `q1`–`q2` · 1 of 25 report an effect size · 26 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available (Baker & Inventado, 2016). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -66,7 +66,6 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [Early warning and proactive support agents are associated with reported retention and grade improvements in institutional deployments](../claims/early-warning-agents-retention-gains.md) [+W]
 - [Students hesitated to share learning data except with their own teachers, while teachers insisted on data access for instruction and feared selective sharing by low-performing students would undermine the system's usefulness](../claims/data-sharing-hesitation-versus-teacher-access.md) [~M]
 - [Exploratory heat maps reveal three student groups, including disengaged-but-successful students more prevalent in the Python courses, showing low content completion can link to both positive and negative outcomes](../claims/interaction-patterns-three-student-groups-heatmaps.md) [~W]
-- [Learning Analytics Dashboards are the most frequently reported AI system type supporting lecturer decisions, primarily for monitoring, feedback, and assessment](../claims/lad-dominant-system-type-lecturer-decision-support.md) [+W]
 - [Monitoring all students and proactively intervening on early warning signs has minimal-level evidence of improving dropout-related outcomes](../claims/proactive-monitoring-minimal-evidence.md) [-W]
 - [Established feedback frameworks do not address the epistemic status of feedback tasks relevant to automation decisions](../claims/existing-feedback-frameworks-silent-on-epistemic-status.md) [~W]
 - [Data-based recording of educational processes risks narrowing education to quantifiable output indicators and raises data sovereignty and algorithmic ethics issues](../claims/datafication-risks-narrowing-educational-processes.md) [-W]
