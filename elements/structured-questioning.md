@@ -68,6 +68,10 @@ Structured questioning promotes deeper processing by requiring learners to gener
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - 
 
+## The evidence by question
+- *Do teacher questions that press learners past a first answer, for explanation, justification or higher-level thinking, improve learning?* [Questioning Strategies Improve Learning](../claims/questioning-strategies-improve-learning.md) [+S]
+- *Does a longer pause after a question, before anyone answers, improve the responses that follow?* [Reviews of classroom studies, read from their abstracts, associate longer teacher wait time with longer, higher-cognitive-level student responses, with no effect size recorded](../claims/increasing-wait-time-improves-response-quality.md) [+M]
+
 ## Related Elements
 - [Socratic Questioning](socratic-questioning.md) — the disciplined, assumption-probing variant; structured questioning is the broader, more scaffolded family
 - [Coaching](coaching.md) — questioning is the coach's primary tool for eliciting and correcting reasoning
