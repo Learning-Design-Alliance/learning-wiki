@@ -73,6 +73,11 @@ Reflection deepens learning by engaging learners in self-explanation and self-mo
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Reflective methods carry inherent dangers of overanalysis and of becoming ends rather than means, and can go wrong](../claims/reflective-methods-overanalysis-limits.md) [-W]
 
+## The evidence by question
+- *Does reflecting on a performance improve later learning over no reflection or ordinary instruction?* [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [+M]
+- *Do specific, guided prompts produce better reflection and learning than generic or free reflection?* [Reflective Practice Improves Outcomes When Structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+S]
+- *When learners work with generative AI, does adding a reflection step improve their judgement of the AI and what they learn, compared with using its output directly?* [Reflection improves correspondence between perceived and behavioral reliance on ChatGPT](../claims/reflection-improves-awareness-calibration.md) [+M]
+
 ## Related Elements
 - Journaling — the most common written vehicle for structured reflection over time
 - Self-Assessment — reflection directed at evaluating one's own performance against criteria

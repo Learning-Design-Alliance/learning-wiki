@@ -106,13 +106,27 @@ def study_key(e: dict) -> str:
     return e["heading"].lower()
 
 
+def author_year(e: dict):
+    c = re.match(r"\s*([A-Z][^\s,.(]+)[^()]*?\((\d{4})", e.get("citation") or "")
+    if c:
+        return f"{c.group(1).lower()}-{c.group(2)}"
+    m = re.match(r"([^\d(]+?)\s*(?:et al\.?|and [^\d]+|& [^\d]+)?\s*\(?(\d{4})", e["heading"])
+    return f"{m.group(1).strip().lower().split()[-1]}-{m.group(2)}" if m else None
+
+
 def build(finding: dict) -> tuple:
     hub = resolve(finding["hub"])
     members = [(resolve(p), d) for p, d in finding["members"]]
     studies = collections.OrderedDict()
+    by_author_year = {}
     for slug, bearing in [(hub, "hub")] + members:
         for e in entries(slug):
             k = study_key(e)
+            # The same study cited with a DOI on one claim and without on another is one study:
+            # match on first author and year as well (Sun 2015, Double 2020; 2026-10-16).
+            ay = author_year(e)
+            if ay:
+                k = by_author_year.setdefault(ay, k)
             s = studies.setdefault(k, {"entry": e, "q": set(), "i": [], "claims": []})
             s["q"].add(e["q"])
             if e["i"] not in s["i"]:

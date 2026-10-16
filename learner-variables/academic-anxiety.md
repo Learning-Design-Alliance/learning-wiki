@@ -96,6 +96,11 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Two-part collaborative assessment, individual then group answering, transforms summative testing into a learning experience and may reduce test anxiety](../claims/two-part-collaborative-assessment-learning-experience.md) [~M] — instruction changes it
 - [Using the ITS reduced executive state-math anxiety and improved algebra learning across conditions](../claims/its-reduces-executive-state-ma-improves-algebra.md) [+M] — instruction changes it
 
+## The evidence by question
+- *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]
+- *Does the format and setting of an assessment change how anxious learners are about it?* [Online and proctored online exams increase students' test anxiety compared with on-campus exams and non-proctored online exams](../claims/proctored-online-exams-increase-test-anxiety.md) [+M]
+- *Does private, low-pressure and repeated practice lower learners' anxiety about using a second language?* [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](../claims/ai-reduces-fl-anxiety-private-practice.md) [+M]
+
 ## Related Learner Variables
 - [Affect Regulation](affect-regulation.md)
 - [Self-Efficacy](self-efficacy.md)

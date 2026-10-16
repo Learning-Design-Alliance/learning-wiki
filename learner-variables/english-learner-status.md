@@ -114,6 +114,12 @@ English-learner (EL) status marks a learner who is acquiring the language of ins
 - [Undifferentiated GenAI integrity rules convert linguistic disadvantage into integrity risk for EAL students](../claims/undifferentiated-genai-rules-convert-language-disadvantage-into-integrity-risk.md) [+W] — an instructional effect differs with it
 - [VIP effects did not differ between English language learners and fluent English speakers in the study authors' analyses](../claims/vip-no-treatment-language-status-interaction.md) [-M] — an instructional effect differs with it
 
+## The evidence by question
+- *Do learners classified as English learners reach lower achievement and attainment than their peers, and does the gap hold for those who reach proficiency?* [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](../claims/el-lag-limited-academic-content-exposure.md) [+M]
+- *Does when a learner exits English-learner status (reclassification) change their later achievement and attainment?* [Timing of English learner reclassification influences later outcomes such as high school graduation](../claims/reclassification-timing-influences-later-outcomes.md) [+M]
+- *Does teaching through the learner's home language (dual language or mother-tongue instruction), rather than early transfer to the school language, improve school-language and subject learning?* [Teaching students in a language they understand benefits both language learning and broader learning](../claims/cl-teaching-in-language-students-understand-improves-learning.md) [+M]
+- *Do instructional supports and programmes help English learners more, less or as much as their fluent peers?* [Spoken–written advantages are larger for second-language and nonfluent first-language readers and for low prior knowledge learners](../claims/reader-fluency-prior-knowledge-moderate-redundancy.md) [+M]
+
 ## Related Learner Variables
 - [Reading and Language](reading-and-language.md)
 - [Race and Ethnicity](race-and-ethnicity.md)

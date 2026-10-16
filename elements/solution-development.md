@@ -69,6 +69,10 @@ Solution development strengthens analytical reasoning by requiring learners to i
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - 
 
+## The evidence by question
+- *Should learners attempt a problem before the idea is taught, and what must the teaching afterwards do?* [Productive Failure Improves Conceptual Learning](../claims/productive-failure-improves-conceptual-learning.md) [+S]
+- *How much guidance do novices need inside a problem-centred design?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
+
 ## Related Elements
 - [Case-Based Learning](case-based-learning.md) — cases supply the authentic problem context from which solutions are developed
 - [Decision-Making](decision-making.md) — choosing among candidate solutions is the core cognitive move in this element
