@@ -15,12 +15,14 @@ sources:
     author: Alexander Koch, Julia Nafziger, Helena Skyt Nielsen
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Commitment devices such as deadlines show demand but mixed effectiveness for student performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students demand commitment devices, but exogenously set deadlines do not always improve task completion or performance. [→ Alexander Koch 2015](#alexander-koch-2015)
@@ -31,7 +33,7 @@ sources:
 
 Alexander Koch, Julia Nafziger, Helena Skyt Nielsen. (2015). Behavioral economics of education. Journal of Economic Behavior & Organization 115 (2015) 3–17. https://doi.org/10.1016/j.jebo.2014.09.005
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's synthesis of deadline experiments: Ariely and Wertenbroch (2002) found self-imposed deadlines helped but 'performance is worse compared with the treatment where students are given evenly spread deadlines', while Burger et al. (2011) and Bisin and Hyndman (2014) found no improvement in completion rates.
 

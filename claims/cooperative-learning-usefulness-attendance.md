@@ -15,18 +15,22 @@ sources:
     author: Marrs, K.A., and Novak, G.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: marrs-2004-2
     resource: "https://doi.org/10.1187/cbe.03-11-0022"
     title: "Marrs, K.A., and Novak, G. (2004). Just-in-Time Teaching in Biology: Creating an Active Learner Classroom Using the Internet. Cell Biology Education 3, 49–61. https://doi.org/10.1187/cbe.03-11-0022"
     author: Marrs, K.A., and Novak, G.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Cooperative learning exercises were rated highly useful by >94% of students and were associated with roughly doubled class attendance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Over 94% of N100 students (n = 184) reported cooperative learning exercises were highly or very useful for promoting understanding. [→ Marrs 2004](#marrs-2004)
@@ -38,7 +42,7 @@ sources:
 
 Marrs, K.A., and Novak, G. (2004). Just-in-Time Teaching in Biology: Creating an Active Learner Classroom Using the Internet. Cell Biology Education 3, 49–61. https://doi.org/10.1187/cbe.03-11-0022
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 One-semester Lickert-scale student survey in Contemporary Biology N100. The article reports over 94% of students (n = 184) rated the cooperative learning exercises highly or very useful; no inferential statistic is printed.
 
@@ -48,7 +52,7 @@ One-semester Lickert-scale student survey in Contemporary Biology N100. The arti
 
 Marrs, K.A., and Novak, G. (2004). Just-in-Time Teaching in Biology: Creating an Active Learner Classroom Using the Internet. Cell Biology Education 3, 49–61. https://doi.org/10.1187/cbe.03-11-0022
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Attendance counts reported for Contemporary Biology after implementing graded cooperative learning exercises, with only one of two weekly exercises graded and students not knowing which. The article reports more than 85% attendance, averaging 170 students per session.
 

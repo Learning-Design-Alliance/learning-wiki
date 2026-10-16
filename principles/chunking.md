@@ -31,7 +31,7 @@ sources:
 # Chunking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (7 for, 6 mixed) · 13 studies (5 causal, 4 review, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q3` · 3 of 13 report an effect size · 10 claims rest on one study
+> **Evidence** · 15 claims (9 for, 6 mixed) · 14 studies (6 causal, 4 review, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q3` · 3 of 14 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -95,6 +95,8 @@ Each question below links a general claim that gathers the studies behind it int
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
 - None. The one claim this page cited before the rewrite, [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+W], is read above as part of the model.
+- [Reading passages segmented along phrase boundaries (pausal or syntactic) yields higher comprehension scores than standard prose format in elementary students](../claims/text-segmentation-improves-comprehension.md) [+W] — attached 2026-10-16 from David S. Weiss (1983), which proposed "Segment new social studies textbook text along phrase boundaries to improve children's comprehension"; tests this page's relationship.
+- [Text segmentation benefits all reading levels: no interactions with grade, reading level, or passage difficulty](../claims/segmentation-facilitative-all-readers.md) [+W] — attached 2026-10-16 from David S. Weiss (1983), which proposed "Segment new social studies textbook text along phrase boundaries to improve children's comprehension"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

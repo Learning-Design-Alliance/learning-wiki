@@ -15,18 +15,22 @@ sources:
     author: Marrs, K.A., and Novak, G.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: marrs-2004-2
     resource: "https://doi.org/10.1187/cbe.03-11-0022"
     title: "Marrs, K.A., and Novak, G. (2004). Just-in-Time Teaching in Biology: Creating an Active Learner Classroom Using the Internet. Cell Biology Education 3, 49–61. https://doi.org/10.1187/cbe.03-11-0022"
     author: Marrs, K.A., and Novak, G.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Students self-reported less cramming and more class preparation in the JiTT course than in their non-JiTT courses, except students receiving D or F grades
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Only 16% of A students reported cramming for Contemporary Biology versus 44% in other courses; B and C students also crammed less, but ~70% of D and F students still crammed regardless of course. [→ Marrs 2004](#marrs-2004)
@@ -38,7 +42,7 @@ sources:
 
 Marrs, K.A., and Novak, G. (2004). Just-in-Time Teaching in Biology: Creating an Active Learner Classroom Using the Internet. Cell Biology Education 3, 49–61. https://doi.org/10.1187/cbe.03-11-0022
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Self-report survey (Table 2, n = 426) comparing cramming in Contemporary Biology versus other non-JiTT courses, grouped by grade after the third of four exams. A students: 16% vs 44%; B: 34% vs 63%; C: 41% vs 65%; D and F students showed no improvement.
 
@@ -48,7 +52,7 @@ Self-report survey (Table 2, n = 426) comparing cramming in Contemporary Biology
 
 Marrs, K.A., and Novak, G. (2004). Just-in-Time Teaching in Biology: Creating an Active Learner Classroom Using the Internet. Cell Biology Education 3, 49–61. https://doi.org/10.1187/cbe.03-11-0022
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Self-report survey (Table 1, n = 162) asking three preparation questions, grouped by course grade after the third exam. Higher proportions of A–C students reported reading web notes and textbook before the JiTT class than before other classes.
 

@@ -15,12 +15,14 @@ sources:
     author: Schunk, D. H.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Cognitive modeling raised division skill more than didactic instruction while both raised self-efficacy equally, with self-efficacy mediating treatment effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In Schunk's (1981) long-division experiment, cognitive modeling and didactic instruction raised self-efficacy equally, but modeling produced greater skill gains and more accurate efficacy judgments. [→ Schunk 1995](#schunk-1995)
@@ -31,7 +33,7 @@ sources:
 
 Schunk, D. H. (1995). Self-efficacy, motivation, and performance. Journal of Applied Sport Psychology, 7(2), 112-137. http://www.taylorandfrancis.com/
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Experiment with low-achieving children in a long-division instructional program comparing cognitive modeling with didactic instruction; skill, persistence, and self-efficacy were assessed before and after instruction. Didactic subjects "tended to overestimate what they could do."
 
@@ -41,4 +43,6 @@ Experiment with low-achieving children in a long-division instructional program 
 
 
 ## Related Claims
--
+- [Attributional feedback raises self-efficacy and performance, with ability versus effort feedback credibility depending on learners' capabilities and timing](attributional-feedback-credibility-effort-ability.md) — related
+- [Peer models raised self-efficacy and skill better than teacher models, but model-competence findings conflict across studies](peer-model-similarity-effects-mixed-evidence.md) — related
+- [Self-efficacy judgments correspond less well to behavior in learning settings than in performance settings](self-efficacy-accuracy-lower-in-learning-settings.md) — related

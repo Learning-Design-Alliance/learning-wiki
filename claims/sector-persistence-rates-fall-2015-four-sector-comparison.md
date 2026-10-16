@@ -15,18 +15,22 @@ sources:
     author: First-Year Persistence and Retention
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: first-year-persistence-and-retention-2017-2
     resource: "https://nscresearchcenter.org/wp-content/uploads/NSC_SnapshotReport28_PersistenceRetention_Data_Tables.xlsx"
     title: "First-Year Persistence and Retention. (2017). National Student Clearinghouse Snapshot Report. https://nscresearchcenter.org/wp-content/uploads/NSC_SnapshotReport28_PersistenceRetention_Data_Tables.xlsx"
     author: First-Year Persistence and Retention
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Sector persistence rates for fall 2015 entrants: 81.7 percent at four-year public, 84.9 percent at four-year private, 62.7 percent at two-year public, and 55.7 percent at four-year for-profit institutions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Fall 2015 persistence rates were 81.7 percent (four-year public), 84.9 percent (four-year private), 62.7 percent (two-year public), and 55.7 percent (four-year for-profit). [→ First-Year Persistence and Retention 2017](#first-year-persistence-and-retention-2017)
@@ -38,7 +42,7 @@ sources:
 
 First-Year Persistence and Retention. (2017). National Student Clearinghouse Snapshot Report. https://nscresearchcenter.org/wp-content/uploads/NSC_SnapshotReport28_PersistenceRetention_Data_Tables.xlsx
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive sector-level analysis of the fall 2015 entering cohort (Figures 4, 6, 8, 10). The report prints persistence rates for each sector and retention rates of 69.7 percent (four-year public), 49.1 percent (two-year public), 74.7 percent (four-year private), and 50.3 percent (four-year for-profit).
 
@@ -48,7 +52,7 @@ Descriptive sector-level analysis of the fall 2015 entering cohort (Figures 4, 6
 
 First-Year Persistence and Retention. (2017). National Student Clearinghouse Snapshot Report. https://nscresearchcenter.org/wp-content/uploads/NSC_SnapshotReport28_PersistenceRetention_Data_Tables.xlsx
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive comparison of enrollment intensity within the four-year public sector (Figure 4); parallel full-time/part-time contrasts are printed for the other sectors. No inferential statistics are reported.
 

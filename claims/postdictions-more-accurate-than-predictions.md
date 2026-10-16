@@ -14,12 +14,14 @@ sources:
     author: Narrative review attributing the finding to Pressley and Ghatala
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Postdictions of performance are typically more accurate than predictions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Judgments made after task completion (postdictions) are typically more accurate than judgments made before it (predictions). [→ Bol L and Hacker DJ 2012](#bol-l-and-hacker-dj-2012)
@@ -30,7 +32,7 @@ sources:
 
 Bol L and Hacker DJ (2012) Calibration research: where do we go from here? Front. Psychology 3:229. https://doi.org/10.3389/fpsyg.2012.00229
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Narrative review attributing the finding to Pressley and Ghatala (1990) and Maki and Serra (1992). The review states "postdictions are typically more accurate than predictions" and explains this by familiarity and exposure to the completed task. No effect sizes are printed.
 

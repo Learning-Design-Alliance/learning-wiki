@@ -15,12 +15,14 @@ sources:
     author: Mayer, I.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # TEAMUP in-game performance varies widely across teams, with errors ranging from 2 to 37
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the TEAMUP dataset, avoidable mistakes differed widely from team to team: the best performing team made two errors and the worst 37, with an average of 12. [→ Mayer 2018](#mayer-2018)
@@ -31,7 +33,7 @@ sources:
 
 Mayer, I. (2018). Assessment of Teams in a Digital Game Environment. Simulation & Gaming, 49(6), 602-619. https://doi.org/10.1177/1046878118770831
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive assessment of the logged dataset of 106 teams. The study reports "The best performing team made only two errors, while the worst performing team made 37", with an average of 12 errors; time ranged from 15 to 68 minutes. These are descriptive statistics with no test reported.
 

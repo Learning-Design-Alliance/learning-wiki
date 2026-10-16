@@ -15,12 +15,14 @@ sources:
     author: Woo, H.L.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Agent appearance (iconic vs realistic) shows no significant difference in retention, transfer, or interest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Moreno et al. (2001) found no significant difference between an iconic agent and a full expressive video-image agent on retention, transfer of learning, and participants' interest. [→ Woo 2009](#woo-2009)
@@ -31,7 +33,7 @@ sources:
 
 Woo, H.L. (2009). Designing multimedia learning environments using animated pedagogical agents: factors and issues. Journal of Computer Assisted Learning, 25, 203-218. https://doi.org/10.1111/j.1365-2729.2008.00299.x
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Review reports Moreno et al.'s (2001) detailed comparison of two learning conditions: an agent with only an iconic feature without facial expression and gaze versus a similar agent with a full expressive video image. No significant difference was found; equivalence was not tested and no effect size is printed.
 
@@ -41,4 +43,7 @@ Review reports Moreno et al.'s (2001) detailed comparison of two learning condit
 
 
 ## Related Claims
--
+- [APAs produce more definitive results for affective gain and group learning than for cognitive achievement gains](apa-affective-gain-stronger-than-cognitive.md) — related
+- [Beneficial effects of pedagogical agents are attributed primarily to the agent's voice rather than its visual presence](agent-effects-due-to-voice-not-visual-presence.md) — related
+- [Animated personas produce better learning than static ones, and agent voice contributes significantly to learning](animated-persona-and-voice-effects.md) — related
+- [A 2024 vendor white paper cites research that avatars provide social presence and that realistic avatars in intelligent tutoring systems can increase student-tutor engagement](avatar-social-presence-increases-tutor-engagement.md) — related

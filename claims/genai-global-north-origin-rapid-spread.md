@@ -46,3 +46,4 @@ The review's framing statement reports that "New generative AI (GenAI) tools are
 - [GenAI implementation in Global South higher education faces significant barriers including infrastructure, human capital, ethical, policy and contextual challenges](genai-global-south-implementation-barriers.md) — related
 - [GenAI offers transformative possibilities for personalised learning, research support and administrative efficiency in Global South higher education](genai-global-south-transformative-possibilities.md) — related
 - The Global South GenAI literature shows limited geographic representation, stakeholder imbalance, and insufficient exploration of long-term outcomes — related
+- [Multiple trends point to a de-professionalization of teachers in both the North and the South](de-professionalization-of-teachers-trends.md) — related

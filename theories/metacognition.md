@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 56 claims (33 for, 20 mixed, 3 against) · 46 studies (21 causal, 7 review, 7 theoretical, 5 qualitative, 3 associational, 2 design, 1 quant-synthesis), `q1`–`q4` · 7 of 46 report an effect size · 52 claims rest on one study
+> **Evidence** · 59 claims (36 for, 20 mixed, 3 against) · 47 studies (22 causal, 7 review, 7 theoretical, 5 qualitative, 3 associational, 2 design, 1 quant-synthesis), `q1`–`q4` · 7 of 47 report an effect size · 55 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -98,6 +98,9 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Metacognitive reflection training improves young children's DCCS performance, with behavioral and neural changes](../claims/reflection-training-improves-dccs.md) [+W] — attached 2026-10-16 from Buttelmann F et al. (2017), which proposed "Metacognitive EF training: qualitatively changing how children engage executive functions to support flexible adaptation and transfer".
 - [Metacognitive ability increases with age during adolescence and plateaus in adulthood when task performance is held constant](../claims/metacognitive-ability-improves-across-adolescence-plateaus-adulthood.md) [+W] — attached 2026-10-16 from Weil L.G. et al. (2013), which proposed "Metacognitive ability as a dissociable monitoring component measured by type II signal detection theory".
 - [The adolescent improvement in metacognitive ability is independent of perceptual task performance, which was clamped and uncorrelated with age](../claims/metacognitive-development-independent-of-task-performance.md) [+W] — attached 2026-10-16 from Weil L.G. et al. (2013), which proposed "Metacognitive ability as a dissociable monitoring component measured by type II signal detection theory".
+- [Backward-associated word pairs produce a foresight bias: judgments of learning are inflated relative to actual recall when the dominant association runs from target to cue](../claims/foresight-bias-backward-pairs-inflated-jols.md) [+W] — attached 2026-10-16 from Koriat et al. (2006), which proposed "The foresight bias account: overconfidence arises from the mismatch between study conditions, where the answer is present, and test conditions, where it is absent".
+- [Test experience alleviates the foresight bias more effectively than study experience](../claims/test-experience-beats-study-experience-for-debiasing.md) [+W] — attached 2026-10-16 from Koriat et al. (2006), which proposed "The foresight bias account: overconfidence arises from the mismatch between study conditions, where the answer is present, and test conditions, where it is absent".
+- [Delaying judgments of learning after study markedly reduces, but does not eliminate, the foresight bias](../claims/delayed-jols-reduce-foresight-bias.md) [+W] — attached 2026-10-16 from Koriat et al. (2006), which proposed "The foresight bias account: overconfidence arises from the mismatch between study conditions, where the answer is present, and test conditions, where it is absent".
 
 ## The evidence by question
 

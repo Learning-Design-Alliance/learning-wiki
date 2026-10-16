@@ -15,12 +15,14 @@ sources:
     author: "Martinez-Garza, M. M., & Clark, D. B."
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Solomon four-group pilot found significant pre-post gains from EPIGAME play with no testing effects and no pretest-by-treatment interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` In Study 1, a two-way within-subjects ANOVA showed significant pre-post gains (F = 10.61, df = 104, p < 0.01), no strong evidence of testing effects (F = 1.11, p = 0.29), and no pretest-treatment interaction (F = 0.36, p = 0.55). [→ Martinez-Garza 2017](#martinez-garza-2017)
@@ -31,7 +33,7 @@ sources:
 
 Martinez-Garza, M. M., & Clark, D. B. (2017). Investigating Epistemic Stances in Game Play with Data Mining. International Journal of Gaming and Computer-Mediated Simulations, 9(3). https://doi.org/10.4018/IJGCMS.2017070101
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 Study 1 was a pilot with 86 9th graders in a Solomon four-group design; treatment groups played EPIGAME for three 90-minute sessions while non-treatment groups took normal instruction. The ANOVA showed "significant pre-post gains" with no testing effect or interaction.
 

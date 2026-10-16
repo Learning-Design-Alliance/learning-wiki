@@ -15,18 +15,22 @@ sources:
     author: "Kienitz, A., Krebs, M.-C., & Eitel, A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 3
   - id: kienitz-2023-2
     resource: "https://doi.org/10.1007/s11251-023-09632-w"
     title: "Kienitz, A., Krebs, M.-C., & Eitel, A. (2023). Seductive details hamper learning even when they do not disrupt. Instructional Science. https://doi.org/10.1007/s11251-023-09632-w"
     author: "Kienitz, A., Krebs, M.-C., & Eitel, A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 3
 ---
 
 # A separation prompt does not improve learning with seductive details, and higher integration avoidance predicts worse transfer, disfavouring the disruption explanation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Separation-prompt participants did not outperform no-prompt participants on recall or transfer. [→ Kienitz 2023](#kienitz-2023)
@@ -38,7 +42,7 @@ sources:
 
 Kienitz, A., Krebs, M.-C., & Eitel, A. (2023). Seductive details hamper learning even when they do not disrupt. Instructional Science. https://doi.org/10.1007/s11251-023-09632-w
 
-`q3 · i?`
+`q3 · i?` · `causal · r3`
 
 Contrast analysis comparing separation-prompt (n = 64) vs. no-prompt (n = 58) conditions found no significant difference for recall (p = .106; post-hoc power 0.37) or transfer (F(1,110) = 1.16, p = .283, ηp2 = 0.010).
 
@@ -48,7 +52,7 @@ Contrast analysis comparing separation-prompt (n = 64) vs. no-prompt (n = 58) co
 
 Kienitz, A., Krebs, M.-C., & Eitel, A. (2023). Seductive details hamper learning even when they do not disrupt. Instructional Science. https://doi.org/10.1007/s11251-023-09632-w
 
-`q3 · i?`
+`q3 · i?` · `causal · r3`
 
 Mediation analysis showed the prompt raised integration avoidance (recall: b = 0.44, p < .001; transfer: b = 0.47, p < .001), which did not influence recall (b = -0.01, p = .909) and just missed significance for transfer (b = -0.50, p = .053), in the negative direction.
 

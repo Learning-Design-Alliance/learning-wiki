@@ -17,7 +17,7 @@ sources:
 # DataShop
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 associational, 1 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 DataShop is an online repository and analysis platform created by the Pittsburgh Science of Learning Center for storing, sharing, and analyzing educational learning data.
@@ -25,17 +25,20 @@ DataShop is an online repository and analysis platform created by the Pittsburgh
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **DataShop educational data repository and analysis platform**: DataShop was created out of a 2004 NSF grant to the Pittsburgh Science of Learning Center as "an online repository and analysis platform designed to support research and analysis of educational data." After 20 years it holds over 700,000 hours of student learning data across over 1000 unique data sets, serving as a hub for storing, sharing, and analyzing data from varied educational technology systems under open science principles. Early data came from cognitive tutoring systems with novel logging, formatting, and tagging formats. (Looking Back to Move Forward)
+- **DataShop open educational data repository**: DataShop is an open data repository at the Pittsburgh Science of Learning Center that stores learner interaction data from intelligent tutoring systems and other educational technologies. The article reports it "currently stores more than 350 datasets that include over 200,000 student hours of data from thousands of students at an average of 10 seconds per action, yielding more than 90 million stored student actions." It also enabled a form of "scientist crowdsourcing" in the LFA work, where expert-created alternative Q matrices for shared datasets were unioned into P matrices for automated model search. (Kenneth R. Koedinger et al. (2012))
 
 ### Claims
 - [A DataShop-derived cognitive model of problem-decomposition planning skills improved learner mastery when used to redesign a geometry cognitive tutor unit](../claims/datashop-model-improved-geometry-mastery.md) [+W]
+- [LFA-discovered cognitive models outperformed both original in-use and best hand-generated models in all eleven DataShop datasets](../claims/lfa-discovered-models-beat-hand-generated-eleven-datasets.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Schellinger, A., & Roschelle, J. (2024, January). Looking Back to Move Forward. Digital Promise. https://doi.org/10.51388/20.500.12265/203
-
 <!-- merged 2026-10-10 from elements/cmu-datashop-repository ("DataShop educational data repository and analysis platform"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Kenneth R. Koedinger, Albert T. Corbett, Charles Perfetti. (2010). The Knowledge-Learning-Instruction (KLI) Framework: Toward Bridging the Science-Practice Chasm to Enhance Robust Student Learning. Carnegie Mellon University Technical Report. http://learnlab.org/research/wiki
+- Kenneth R. Koedinger, Emma Brunskill, Ryan S.J.d. Baker, Elizabeth A. McLaughlin, and John Stamper. (2012). New Potentials for Data-Driven Intelligent Tutoring System Development and Optimization. http://learnlab.org/datashop
 
 # DataShop educational data repository and analysis platform
 

@@ -15,12 +15,14 @@ sources:
     author: "Nicole C. Krämer & Gary Bente"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Emote-aloud protocols show learner emotions correlate systematically with AutoTutor dialogue features
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Graesser et al. established significant correlations between dialogue characteristics and confusion, eureka experiences, and frustration. [→ Nicole C. Krämer & Gary Bente 2010](#nicole-c-kramer-gary-bente-2010)
@@ -31,7 +33,7 @@ sources:
 
 Nicole C. Krämer & Gary Bente. (2010). Personalizing e-Learning. The Social Effects of Pedagogical Agents. Educ Psychol Rev. https://doi.org/10.1007/s10648-010-9123-x
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports Graesser et al.'s (2008) emote-aloud analysis: "significant correlations for confusion, eureka experiences, and frustration," with confusion negatively correlated with positive feedback and positively with hints. No coefficients are printed.
 

@@ -15,12 +15,14 @@ sources:
     author: Henrik Örnebring
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Fan-produced and industry-produced ARGs based on existing media properties perform the same cultural function of extending the narrative within a shared consumption framework
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Despite their differences, commercial and non-commercial ARGs based on existing media properties follow a similar logic of fan consumption, extending the narrative in ways conforming to corporate marketing goals and fans' goals of pleasurable consumption. [→ Henrik Örnebring 2007](#henrik-ornebring-2007)
@@ -31,7 +33,7 @@ sources:
 
 Henrik Örnebring. (2007). Alternate reality gaming and convergence culture: The case of Alias. International Journal of Cultural Studies 10(4). https://doi.org/10.1177/1367877907083079
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Comparative qualitative analysis of the three Alias ARGs along an industry-produced/fan-produced axis, drawing on archived game materials, player forums and PM interviews. This is the article's concluding synthesis of the comparison.
 

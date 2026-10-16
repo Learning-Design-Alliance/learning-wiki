@@ -15,12 +15,14 @@ sources:
     author: "Scotty D. Craig, Sidney D'Mello, Amy Witherspoon, and Art Graesser"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Boredom during learning shows a significant association with facial action unit 43 (eye closure), but no association rules between action units
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Boredom was significantly associated with AU 43 (eye closure), with no AU-to-AU association rules and only weaker non-significant trends involving eye and mouth movements. [→ Scotty D. Craig 2008](#scotty-d-craig-2008)
@@ -31,7 +33,7 @@ sources:
 
 Scotty D. Craig, Sidney D'Mello, Amy Witherspoon, and Art Graesser. (2008). Emote aloud during learning with AutoTutor: Applying the Facial Action Coding System to cognitive/affective states during learning. Cognition and Emotion, 22(5), 777-788. https://doi.org/10.1080/02699930701516759
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Association rule mining result for boredom from the same dataset; Table 2 lists AU 43 with 40% coverage and kappa 0.77, marked of secondary importance. The article reports "a significant association with action unit 43 (eye closure)" and no AU-to-AU rules.
 

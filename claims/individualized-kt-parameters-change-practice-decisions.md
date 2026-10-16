@@ -15,12 +15,14 @@ sources:
     author: Kenneth R. Koedinger, Emma Brunskill, Ryan S.J.d. Baker, Elizabeth A. McLaughlin, and John Stamper
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Individualized Knowledge Tracing parameters fit student data significantly better and change mastery-learning practice decisions for many students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Fitting Knowledge Tracing parameters per student gave significantly better fit than a generic model (p < 0.0001) and would substantially alter practice-opportunity decisions for over 20% of students. [→ Kenneth R. Koedinger 2012](#kenneth-r-koedinger-2012)
@@ -31,7 +33,7 @@ sources:
 
 Kenneth R. Koedinger, Emma Brunskill, Ryan S.J.d. Baker, Elizabeth A. McLaughlin, and John Stamper. (2012). New Potentials for Data-Driven Intelligent Tutoring System Development and Optimization. http://learnlab.org/datashop
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Retrospective policy evaluation on ASSISTments data from over 200 students compared generic versus individually fit KT parameters. The article reports "over 20% of students would be expected to be given at least twice as many expected practice opportunities" under the generic model, and a likelihood ratio test of p< 0.0001 favoring individual fit.
 

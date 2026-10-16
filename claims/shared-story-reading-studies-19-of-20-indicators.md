@@ -15,12 +15,14 @@ sources:
     author: Melissa E. Hudson and David W. Test
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # All six reviewed studies met 19 of 20 quality indicators, missing only the practicality/cost-effectiveness indicator, so none met the high-quality standard
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` No reviewed study met all quality indicators for high-quality research, but all six met 19 of 20 indicators and thus acceptable quality, missing only Indicator 19 (stating the intervention was practical and cost effective). [→ Melissa E. Hudson and David W. Test 2011](#melissa-e-hudson-and-david-w-test-2011)
@@ -31,7 +33,7 @@ sources:
 
 Melissa E. Hudson and David W. Test. (2011). Evaluating the Evidence Base of Shared Story Reading to Promote Literacy for Students With Extensive Support Needs. Research & Practice for Persons with Severe Disabilities, 36(1-2), 34-45. http://www.education.uncc.edu/access/
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Quality indicator coding of the six included studies in this systematic review. The review found "none of the studies met the standard for high-quality research" while "All six studies, however, met 19 of 20 quality indicators," missing Indicator 19 because researchers did not explicitly state practicality and cost effectiveness.
 

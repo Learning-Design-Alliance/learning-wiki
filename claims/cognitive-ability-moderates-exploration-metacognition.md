@@ -15,12 +15,14 @@ sources:
     author: "Bell, B. S., & Kozlowski, S. W. J."
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Cognitive ability is expected to moderate exploration effects: enhancing metacognition for high-ability trainees but inhibiting it for low-ability trainees
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Exploratory learning is expected to enhance the metacognitive activities of high ability trainees but inhibit the metacognitive activities of low ability trainees, because unstructured learning increases cognitive workload. [→ Bell 2008](#bell-2008)
@@ -31,7 +33,7 @@ sources:
 
 Bell, B. S., & Kozlowski, S. W. J. (2008). Active learning: Effects of core training design elements on self-regulatory processes, learning, and adaptability. Journal of Applied Psychology, 93(2), 296-316. http://digitalcommons.ilr.cornell.edu/articles/410/
 
-`q1 · i?`
+`q1 · i?` · `causal · r2`
 
 Theoretical aptitude-treatment argument: the article cites Snow's position that lower-ability students benefit from tightly structured lessons while higher-ability students perform better in less structured environments, and notes more exploratory learning increases cognitive workload. Stated as an expectation, not tested in the supplied text.
 

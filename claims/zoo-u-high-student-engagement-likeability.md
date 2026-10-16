@@ -15,18 +15,22 @@ sources:
     author: Melissa E. DeRosier, Ashley B. Craig, and Rebecca P. Sanchez
     q: 3
     i: "?"
+    kind: design
+    rigour: 3
   - id: melissa-e-derosier-2012-2
     resource: "https://doi.org/10.1155/2012/654791"
     title: "Melissa E. DeRosier, Ashley B. Craig, and Rebecca P. Sanchez. (2012). Zoo U: A Stealth Approach to Social Skills Assessment in Schools. Advances in Human-Computer Interaction. https://doi.org/10.1155/2012/654791"
     author: Melissa E. DeRosier, Ashley B. Craig, and Rebecca P. Sanchez
     q: 3
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Students rated Zoo U highly for engagement and likeability, with every usability area rated at least 3.8 on a four-point scale
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · design `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Students rated Zoo U very positively, with every area rated at least 3.8 on a four-point scale. [→ Melissa E. DeRosier 2012](#melissa-e-derosier-2012)
@@ -38,7 +42,7 @@ sources:
 
 Melissa E. DeRosier, Ashley B. Craig, and Rebecca P. Sanchez. (2012). Zoo U: A Stealth Approach to Social Skills Assessment in Schools. Advances in Human-Computer Interaction. https://doi.org/10.1155/2012/654791
 
-`q3 · i?`
+`q3 · i?` · `design · r3`
 
 Student usability survey after gameplay in the iterative testing sessions, rating fun, ease of use, characters, desire to play more, and overall liking on a four-point scale. The article reports "every area rated ≥3.8 on a four-point scale" (Table 1 means 3.80–3.95).
 
@@ -48,7 +52,7 @@ Student usability survey after gameplay in the iterative testing sessions, ratin
 
 Melissa E. DeRosier, Ashley B. Craig, and Rebecca P. Sanchez. (2012). Zoo U: A Stealth Approach to Social Skills Assessment in Schools. Advances in Human-Computer Interaction. https://doi.org/10.1155/2012/654791
 
-`q3 · i?`
+`q3 · i?` · `design · r3`
 
 Observer records and usage logs during the school computer-lab testing sessions. The article reports "96% on-task behavior" during observation and that 89% of students elected to replay Zoo U rather than play other games.
 

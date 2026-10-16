@@ -15,12 +15,14 @@ sources:
     author: Chang Zhu, Martin Valcke and Tammy Schellens
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Flemish faculty adopt e-learning and online collaborative learning at higher rates than Chinese faculty (about 95% vs 30% e-learning; 27% vs 8% online collaboration)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` About 95% of Flemish faculty adopted e-learning versus about 30% of Chinese faculty, and 27% of Flemish versus 8% of Chinese faculty adopted online collaborative learning. [→ Chang Zhu 2010](#chang-zhu-2010)
@@ -31,7 +33,7 @@ sources:
 
 Chang Zhu, Martin Valcke and Tammy Schellens. (2010). A cross-cultural study of teacher perspectives on teacher roles and adoption of online collaborative learning in higher education. European Journal of Teacher Education. https://doi.org/10.1080/02619761003631849
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Interview-based classification of adopters among 60 Chinese and 30 Flemish teachers (Table 6). The article reports the printed adoption percentages for e-learning and for online collaborative learning in each group, noting Ghent University's university-wide Minerva platform.
 

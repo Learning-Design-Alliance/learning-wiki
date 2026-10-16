@@ -47,3 +47,4 @@ Semi-structured interviews with six students stratified by pre-test ability (hig
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — a broader claim this one bears on
 - [Collaborative Writing Improves Text Quality](collaborative-writing-improves-text-quality.md) — a broader claim this one bears on
 - [Most questionnaire respondents (96.88%) reported that GBSRI activities improved their writing, and collaborative activities were the most preferred](gbsri-respondents-reported-writing-improvement.md) — related
+- [Some Chinese students felt uncomfortable with case-based learning due to lack of structured instruction content](case-based-learning-uncomfortable-unstructured-instruction.md) — related

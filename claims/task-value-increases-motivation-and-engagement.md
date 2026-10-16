@@ -158,3 +158,4 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 - [Chatbot integration in a smart classroom is expected by the authors to increase learner engagement and academic achievement](chatbot-engagement-achievement-expectation.md) — a narrower finding that bears on this claim
 - [Emotion affects motivation, which in turn affects mental effort investment during learning](emotion-affects-motivation-mental-effort.md) — a broader claim this one bears on
 - [Meaningful choice about learning tasks increases interest, but only under boundary conditions](meaningful-choice-increases-interest-limited.md) — related
+- [Learning-stories research indicates meaningful learning involves felt ownership of knowledge, emotional integration, generativity, real-life context, interaction with others' learning, and transformed self-perceptions](learning-stories-meaningful-learning-dimensions.md) — related

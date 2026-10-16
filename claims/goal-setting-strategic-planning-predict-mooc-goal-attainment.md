@@ -15,12 +15,14 @@ sources:
     author: "Kizilcec, R. F., Pérez-Sanagustín, M., & Maldonado, J. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Goal setting and strategic planning positively predict attainment of personal course goals in MOOCs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Learners reporting 1 SD higher goal setting had 54% higher odds of earning a course certificate, and strategic planning was also a strong positive predictor of goal attainment. [→ Kizilcec 2017](#kizilcec-2017)
@@ -31,7 +33,7 @@ sources:
 
 Kizilcec, R. F., Pérez-Sanagustín, M., & Maldonado, J. J. (2017). Self-regulated learning strategies predict learner behavior and goal attainment in Massive Open Online Courses. Computers & Education, 104, 18–33. https://doi.org/10.1016/j.compedu.2016.10.001
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Logistic regression on survey and platform data from 4,831 learners across six MOOCs evaluated all six SRL strategies simultaneously. "learners who indicated 1 SD higher levels of goal setting had 54% higher odds of achieving their goal of earning a certi ﬁcate ( z ¼ 2.68, p ¼ 0.007)". Results were robust to covariate adjustment.
 

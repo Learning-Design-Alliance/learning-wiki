@@ -15,12 +15,14 @@ sources:
     author: Richard Halverson, Elizabeth Owen, Nathan Wills, R. Benjamin Shapiro
     q: 2
     i: 2
+    kind: associational
+    rigour: 1
 ---
 
 # The number of far failures — cycles ended by incorrect collection and/or time running out — was negatively correlated with pre-post learning gains in Progenitor X
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Far failures across all cycles were negatively correlated with learning as measured by pre-post tests (r = -.2788), while total failures, cycles started, successful collects, and cycles completed showed no correlation with gains. [→ Richard Halverson 2012](#richard-halverson-2012)
@@ -31,7 +33,7 @@ sources:
 
 Richard Halverson, Elizabeth Owen, Nathan Wills, R. Benjamin Shapiro. (2012). Game-Based Assessment: An integrated model for capturing evidence of learning in play. ERIA Working Paper. http://www.eriainteractive.com/index.php
 
-`q2 · i2`
+`q2 · i2` · `associational · r1`
 
 Analysis of play data from 39 students distinguishing near failure (correct set-up but health runs out) from far failure (incorrect collection and/or time runs out). Far failures correlated negatively with pre-post gains (r = -.2788); other play indicators showed no correlation.
 

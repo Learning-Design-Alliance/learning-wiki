@@ -54,3 +54,5 @@ Focus-group theme from a qualitative phenomenological pilot: two focus groups (f
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - [Students responded most positively to projects that felt authentic and were organized in a clear sequence with manageable milestones](student-engagement-authenticity-clear-sequence.md) — related
 - [Authentic assessment designs in higher education predominantly replicate professional workplace scenarios, with few addressing social authenticity](aa-designs-predominantly-professional-authenticity.md) — related
+- [International students wanted more global cases and closer connections between case analyses and their local work contexts](lack-of-global-cases-local-relevance.md) — related
+- [Learning-stories research indicates meaningful learning involves felt ownership of knowledge, emotional integration, generativity, real-life context, interaction with others' learning, and transformed self-perceptions](learning-stories-meaningful-learning-dimensions.md) — related

@@ -15,12 +15,14 @@ sources:
     author: Adam M. Lavecchia, Heidi Liu, and Philip Oreopoulos
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # A majority of young children make choices consistent with hyperbolic discounting, preferring immediate over larger delayed rewards
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` More than 43 percent of children aged 5 to 16 made choices in line with hyperbolic discounting, and more than 25 percent chose options inconsistent with any type of rational behavior, with irrational choices less common among older children. [→ Adam M. Lavecchia 2014](#adam-m-lavecchia-2014)
@@ -31,7 +33,7 @@ sources:
 
 Adam M. Lavecchia, Heidi Liu, and Philip Oreopoulos. (2014). Behavioral Economics of Education: Progress and Possibilities. NBER Working Paper No. 20609. http://www.nber.org/papers/w20609
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Bettinger and Slonim (2007), an experiment in which children chose between a $10 gift certificate distributed immediately and a larger amount (up to $25) in 2 months, picking the immediate reward; no effect size is printed.
 

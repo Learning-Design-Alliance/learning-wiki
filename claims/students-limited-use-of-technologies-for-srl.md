@@ -15,12 +15,14 @@ sources:
     author: Carmen Yot-Domínguez and Carlos Marcelo
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # University students make limited use of digital technologies to self-regulate their learning despite being frequent technology users
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Andalusian university students use digital technologies in SRL, but their use is limited even though they are regular users of technology for social and leisure activities. [→ Carmen Yot-Domínguez and Carlos Marcelo 2017](#carmen-yot-dominguez-and-carlos-marcelo-2017)
@@ -31,7 +33,7 @@ sources:
 
 Carmen Yot-Domínguez and Carlos Marcelo. (2017). University students' self-regulated learning using digital technologies. International Journal of Educational Technology in Higher Education 14:38. https://doi.org/10.1186/s41239-017-0076-8
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Survey of 711 university students from ten Andalusian universities using the SRLTU instrument (33 items, 1–5 frequency scale, Cronbach's alpha .877). Descriptive means of technology use show limited SRL use; the authors note students "are lacking in how to efficiently use them to support their own learning process."
 
@@ -41,4 +43,6 @@ Survey of 711 university students from ten Andalusian universities using the SRL
 
 
 ## Related Claims
--
+- [Cluster analysis identifies two antagonistic student profiles differing in level of technology-supported self-regulated learning](two-srl-technology-profiles-high-and-low.md) — a narrower finding that bears on this claim
+- [Superficial information use with limited processing is the most used technology-based SRL strategy, while self-evaluation is among the least used](superficial-use-highest-self-evaluation-lowest-srl-strategies.md) — a narrower finding that bears on this claim
+- [Social-support strategies are the most generalised technology-based SRL strategies, with most students interacting via instant messaging and sharing material via the cloud](social-support-strategies-most-generalised-with-technology.md) — a narrower finding that bears on this claim

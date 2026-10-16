@@ -15,12 +15,14 @@ sources:
     author: "Rogers, P. C., Graham, C. R., & Mayes, C. T."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Designers develop cultural awareness through both informal exposure and formal intentional means
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Participants became aware of cultural differences through informal means (exposure, open disposition) and formal means (simulations, classes, research, multicultural design teams, field visits). [→ Rogers 2007](#rogers-2007)
@@ -31,7 +33,7 @@ sources:
 
 Rogers, P. C., Graham, C. R., & Mayes, C. T. (2007). Cultural competence and instructional design: Exploration research into the delivery of online instruction cross-culturally. Education Tech Research Dev. https://doi.org/10.1007/s11423-007-9033-x
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Cross-case synthesis of the 12 interviews reports two routes to awareness. Informal routes included "a side effect of exposure to different cultures and as a side effect of having an open and inquisitive disposition." Shawn described a cultural diversity class involving attending a black church service in Georgia.
 

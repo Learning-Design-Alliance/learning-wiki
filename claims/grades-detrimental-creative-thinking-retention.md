@@ -15,12 +15,14 @@ sources:
     author: Kohn, Alfie
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Grades themselves, regardless of formula, detrimentally affect creative thinking, long-term retention, interest in learning, and preference for challenging tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Grades have been found to detrimentally affect creative thinking, long-term retention, interest in learning, and preference for challenging tasks, an effect attributed to grading itself rather than grade quality. [→ Kohn 1994](#kohn-1994)
@@ -31,7 +33,7 @@ sources:
 
 Kohn, Alfie. (1994). The Risks of Rewards. ERIC Digest. ERIC Clearinghouse on Elementary and Early Childhood Education Urbana IL. https://eric.ed.gov/?id=ED376990
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The digest reports, citing Butler & Nisan (1986) and Grolnick & Ryan (1987), that "grades in particular have been found to have a detrimental effect on creative thinking, long-term retention, interest in learning, and preference for challenging tasks." No effect sizes are printed.
 

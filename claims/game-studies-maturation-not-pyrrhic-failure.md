@@ -15,12 +15,14 @@ sources:
     author: Kirk M. Lundblade
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The chapter argues the distance between game studies and games research reflects the field's maturation, not strategic failure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The author concludes that discarding the early utopian vision enabled material and critical turns, so the field's separation from games research is a result of maturation rather than a blunder. [→ Kirk M. Lundblade 2025](#kirk-m-lundblade-2025)
@@ -31,7 +33,7 @@ sources:
 
 Kirk M. Lundblade. (2025). What Video Games Have Taught Us: Two Decades of Gaming and Learning. In Historiographies of Game Studies (Punctum Books). https://www.jstor.org/stable/jj.31913371.9
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 This is the chapter's concluding interpretive argument: the field's ability to discard its 'evangelical zeal' enabled fruitful scholarship centering real issues 'erased and elided in the field's earlier evangelical zeal.' No empirical data support this; it is a reasoned historiographical position.
 

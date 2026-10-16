@@ -15,12 +15,14 @@ sources:
     author: Kai Kunze, Masakazu Iwamura, Koichi Kise, Seiichi Uchida, and Shinichiro Omachi
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Mobile eye tracking distinguishes five document types with 99 percent user-dependent and 74 percent user-independent recognition from about one minute of gaze data
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Analyzing saccade directions recognized novel, manga, magazine, newspaper, and textbook reading material at 99 percent user-dependent and 74 percent user-independent accuracy. [→ Kai Kunze 2013](#kai-kunze-2013)
@@ -31,7 +33,7 @@ sources:
 
 Kai Kunze, Masakazu Iwamura, Koichi Kise, Seiichi Uchida, and Shinichiro Omachi. (2013). Activity Recognition for the Mind: Toward a Cognitive “Quantified Self.” Computer, IEEE Computer Society, October 2013. http://kaikunze.de/papers/2013Kunze-1.pdf
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Study in which eight users wearing the iView X eye tracker in five different environments read five types of Japanese reading material (novel, manga, magazine, newspaper, textbook), about 10 minutes each. The article reports a "99 percent user-dependent and 74 percent user-independent recognition rate"; no effect size is printed.
 

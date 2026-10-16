@@ -15,12 +15,14 @@ sources:
     author: Luxton-Reilly, A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # An accountability feature allowing students to grade received reviews improved the correlation between expert and peer marks in peerScholar
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In peerScholar, the correlation between expert and peer marks was low but increased after introducing a facility for students to grade the reviews they received. [→ Luxton-Reilly 2009](#luxton-reilly-2009)
@@ -31,7 +33,7 @@ sources:
 
 Luxton-Reilly, A. (2009). A systematic review of tools that support peer assessment. Computer Science Education, 19(4), 209-232. https://doi.org/10.1080/08993400903384844
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports that Pare´ and Joordens (2008) found "a small but significant difference between expert and peer marks" and that "the correlation between the expert and peer marks was low, but increased after they introduced the facility for students to grade the reviews they received." No correlation coefficient is printed.
 

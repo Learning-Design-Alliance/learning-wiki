@@ -15,18 +15,22 @@ sources:
     author: Chris Piech, Jonathan Huang, Zhenghao Chen, Chuong Do, Andrew Ng, Daphne Koller
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: chris-piech-2013-2
     resource: "https://arxiv.org/abs/1307.2579"
     title: "Chris Piech, Jonathan Huang, Zhenghao Chen, Chuong Do, Andrew Ng, Daphne Koller. (2013). Tuned Models of Peer Assessment in MOOCs. arXiv. https://arxiv.org/abs/1307.2579"
     author: Chris Piech, Jonathan Huang, Zhenghao Chen, Chuong Do, Andrew Ng, Daphne Koller
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Higher-scoring students tend to be more reliable graders (except the very best), and students are least biased when grading peers with similar scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Graders that score higher on assignments have close to monotonically decreasing biases, but students with the best grades (+1.75 z-score) are not as accurate as students who do very well (+0.75 z-score, p = 0.04). [→ Chris Piech 2013](#chris-piech-2013)
@@ -38,7 +42,7 @@ sources:
 
 Chris Piech, Jonathan Huang, Zhenghao Chen, Chuong Do, Andrew Ng, Daphne Koller. (2013). Tuned Models of Peer Assessment in MOOCs. arXiv. https://arxiv.org/abs/1307.2579
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Observational analysis of grader latent variables in the HCI datasets (Figure 2a), relating grader grade to grading residual statistics. The article reports higher-scoring students are more reliable graders, with the exception that +1.75 z-score students are less accurate than +0.75 z-score students (p = 0.04).
 
@@ -48,7 +52,7 @@ Observational analysis of grader latent variables in the HCI datasets (Figure 2a
 
 Chris Piech, Jonathan Huang, Zhenghao Chen, Chuong Do, Andrew Ng, Daphne Koller. (2013). Tuned Models of Peer Assessment in MOOCs. arXiv. https://arxiv.org/abs/1307.2579
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Observational analysis of grading residuals against gradee grade (Figure 2c) in the HCI datasets. The article reports least bias when grader and gradee have similar scores, with best students downgrading worst submissions and worst students inflating best submissions.
 

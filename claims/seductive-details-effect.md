@@ -234,3 +234,4 @@ This study found that the seductive details effect was not uniform: readers with
 - [High-WMC readers show no seductive details effect, with seductive illustrations tending to yield the best performance](high-wmc-no-seduction-effect.md) — a narrower finding that bears on this claim
 - [Low-WMC readers recall fewer correct causes when text contains seductive illustrations compared with nonillustrated text](low-wmc-seductive-essay-detriment.md) — a narrower finding that bears on this claim
 - [Working memory capacity interacts with illustration type: seductive illustrations impair comprehension only for low-WMC readers](wmc-moderates-seductive-details-effect.md) — a narrower finding that bears on this claim
+- [Interest-evoking text revision strategies raised fourth and sixth graders' recall of a history passage but not acquisition of abstract, general information](interest-evoking-strategies-recall-history-passage.md) — related

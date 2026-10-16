@@ -13,7 +13,7 @@ generated:
 # Coaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (12 for, 5 mixed, 1 unmarked) · 25 studies (9 review, 5 causal, 4 qualitative, 3 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q2`–`q4` · 1 of 25 report an effect size · 10 claims rest on one study
+> **Evidence** · 20 claims (13 for, 6 mixed, 1 unmarked) · 26 studies (9 review, 5 causal, 5 qualitative, 3 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q2`–`q4` · 1 of 26 report an effect size · 12 claims rest on one study
 
 ## Description
 Coaching is the provision of individualized support and guidance while learners actively perform a task. The coach observes performance, diagnoses gaps between current and target performance, and intervenes with hints, questions, modeling, or [Feedback](feedback.md) calibrated to what the learner needs at that moment. Unlike one-time instruction, coaching is sustained and adaptive — support rises and falls with learner performance.
@@ -62,6 +62,8 @@ Coaching accelerates skill development by keeping learners in a productive strug
 - [In five scaled early learning coaching systems, coach-to-site ratios averaged about 1 coach per 22 sites, dosage varied widely, and participants perceived benefits in educator satisfaction, practice, and program quality](../claims/scaled-coaching-systems-case-study-findings.md) [~W]
 - [Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing larger gains in a randomized trial](../claims/pd-coaching-expert-support-gains.md) [+W]
 - [Real-time in-session feedback remains rare among presentation-coaching systems](../claims/real-time-feedback-rare-in-coaching-systems.md) [~W]
+- [LASSI Self-Regulation cluster scores showed the greatest pre/post gain among coached students, with increasing trends in all three clusters](../claims/lassi-self-regulation-gains-adhd-coaching.md) [+W] — attached 2026-10-16 from Parker et al. (2010), which proposed "Edge Foundation coaching model"; tests this page's relationship.
+- [Participants' average semester GPA rose from 3.05 to 3.22 during the coaching semester, though most students did not attribute grade changes to coaching](../claims/gpa-trend-during-coaching-pilot.md) [~W] — attached 2026-10-16 from Parker et al. (2010), which proposed "Edge Foundation coaching model"; tests this page's relationship.
 
 ## The evidence by question
 - *Must support be contingent on the learner's last response, rather than fixed?* [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S]

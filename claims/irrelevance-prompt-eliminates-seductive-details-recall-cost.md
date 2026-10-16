@@ -15,18 +15,22 @@ sources:
     author: "Kienitz, A., Krebs, M.-C., & Eitel, A."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: kienitz-2023-2
     resource: "https://doi.org/10.1007/s11251-023-09632-w"
     title: "Kienitz, A., Krebs, M.-C., & Eitel, A. (2023). Seductive details hamper learning even when they do not disrupt. Instructional Science. https://doi.org/10.1007/s11251-023-09632-w"
     author: "Kienitz, A., Krebs, M.-C., & Eitel, A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # An irrelevance prompt eliminates the recall cost of seductive details, supporting the diversion explanation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Control and irrelevance-prompt participants outperformed no-prompt participants on recall, per the focal contrast. [→ Kienitz 2023](#kienitz-2023)
@@ -38,7 +42,7 @@ sources:
 
 Kienitz, A., Krebs, M.-C., & Eitel, A. (2023). Seductive details hamper learning even when they do not disrupt. Instructional Science. https://doi.org/10.1007/s11251-023-09632-w
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Orthogonal contrast analysis (+1, +1, −2) in ANCOVA reached significance for recall, F(1,177) = 11.580, p = .001, ηp2 = 0.061, but not for transfer, F(1,168) = 0.907, p = .342. The residual contrast was not significant for either outcome.
 
@@ -48,7 +52,7 @@ Orthogonal contrast analysis (+1, +1, −2) in ANCOVA reached significance for r
 
 Kienitz, A., Krebs, M.-C., & Eitel, A. (2023). Seductive details hamper learning even when they do not disrupt. Instructional Science. https://doi.org/10.1007/s11251-023-09632-w
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Two-step mediation (prompt → perceived relevance → relative processing time → recall) was significant for recall; a one-step mediation via perceived relevance also reached significance (b = -0.12, 95% BootCI [-0.26, -0.01]). The transfer mediation was not significant (b = -0.01, 95% BootCI [-0.03, +0.01]).
 

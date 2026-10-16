@@ -15,12 +15,14 @@ sources:
     author: Matthew Barr
     q: 3
     i: 2
+    kind: causal
+    rigour: 1
 ---
 
 # Playing commercial video games for eight weeks improved self-reported communication skill more than control conditions in a randomised trial of undergraduates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Intervention-group students showed significantly greater positive change on the Communicative Adaptability Scale than control students (Cohen's d 1.1, p = 0.004). [→ Matthew Barr 2017](#matthew-barr-2017)
@@ -31,7 +33,7 @@ sources:
 
 Matthew Barr. (2017). Video games can develop graduate skills in higher education students: A randomised trial. Computers & Education. https://doi.org/10.1016/j.compedu.2017.05.016
 
-`q3 · i2`
+`q3 · i2` · `causal · r1`
 
 Randomised trial: 36 students per group completed week 1 testing; 20 control and 16 intervention completed both pre- and post-tests. Welch's t-test on score change gave Cohen's d 1.1 with a 95% CI of "2.69 to 12.79" that did not cross zero.
 

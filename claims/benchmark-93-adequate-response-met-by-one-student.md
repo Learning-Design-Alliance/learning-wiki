@@ -15,12 +15,14 @@ sources:
     author: "Denton, C. A., Wexler, J., Vaughn, S., & Bryan, D."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Only one of 38 severely struggling middle school readers met a standard-score benchmark of 93 for adequate response to intervention after the study
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` No student met the WJ III Basic Reading Skills benchmark (standard score 93) at pretest, and at posttest only one treatment student and no typical-practice student met it. [→ Denton 2008](#denton-2008)
@@ -31,7 +33,7 @@ sources:
 
 Denton, C. A., Wexler, J., Vaughn, S., & Bryan, D. (2008). Intervention Provided to Linguistically Diverse Middle School Students with Severe Reading Difficulties. Learning Disabilities Research & Practice, 23(2), 79–89. https://doi.org/10.1111/j.1540-5826.2008.00266.x
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Postintervention benchmark analysis of the WJ III Basic Reading Skills cluster (standard score of 93, the 30th percentile), a procedure the authors adapted from intervention studies with younger students. "only one student in the treatment group" reached the benchmark at posttest.
 

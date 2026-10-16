@@ -37,7 +37,7 @@ Because the probabilistic model produces a belief distribution over each submiss
 - Fair and accurate grading of open-ended assignments
 
 ### Affordances
-- [Probabilistic Peer Grading Models Pg1 Pg2 Pg3](../theories/probabilistic-peer-grading-models-pg1-pg2-pg3.md)
+- [Probabilistic Peer Grading Models Pg1 Pg2 Pg3](../research-methods/probabilistic-peer-grading-models-pg1-pg2-pg3.md)
 
 ## Related Strategies
 - 

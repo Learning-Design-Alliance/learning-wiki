@@ -15,12 +15,14 @@ sources:
     author: Alexander Koch, Julia Nafziger, Helena Skyt Nielsen
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Soft skills play an equally important role in education investments and outcomes as cognitive skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A large body of evidence indicates soft skills matter as much as cognitive skills for educational achievement and investments. [→ Alexander Koch 2015](#alexander-koch-2015)
@@ -31,7 +33,7 @@ sources:
 
 Alexander Koch, Julia Nafziger, Helena Skyt Nielsen. (2015). Behavioral economics of education. Journal of Economic Behavior & Organization 115 (2015) 3–17. https://doi.org/10.1016/j.jebo.2014.09.005
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's synthesis of economics-of-education research, citing studies such as Duckworth and Seligman on self-discipline and Almlund et al. on personality traits, concludes 'soft skills play an equally important role for education investments and outcomes as cognitive skills do'. No pooled effect size is printed.
 

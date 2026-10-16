@@ -15,12 +15,14 @@ sources:
     author: Annette Kujawski Taylor
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Quiz accuracy declines from immediate to 1-week delayed testing regardless of text medium
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Participants scored lower on the quiz after 1 week than immediately after reading, with no interaction between test time and text medium. [→ Annette Kujawski Taylor 2011](#annette-kujawski-taylor-2011)
@@ -31,7 +33,7 @@ sources:
 
 Annette Kujawski Taylor. (2011). Students Learn Equally Well From Digital as From Paperbound Texts. Teaching of Psychology, 38(4), 278-281. https://doi.org/10.1177/0098628311421330
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In the same randomized ANOVA design, the within-subjects test-time factor showed a single significant main effect: mean accuracy fell from 63.5% immediately to 58.3% after 1 week, F(1, 64) = 9.49, p = .003. No effect size was printed.
 
@@ -41,4 +43,4 @@ In the same randomized ANOVA design, the within-subjects test-time factor showed
 
 
 ## Related Claims
--
+- [College students show no comprehension difference between digital and paperbound textbook reading, immediately or after 1 week](no-comprehension-difference-digital-paper-textbooks.md) — related

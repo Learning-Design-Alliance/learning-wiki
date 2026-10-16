@@ -15,12 +15,14 @@ sources:
     author: "Na'ilah Suad Nasir, Victoria Hand and Edd V. Taylor"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Reform-driven mathematics classrooms were more successful at narrowing the achievement gap than classrooms focused on rote memorization and recall of procedures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Over the past 10 years, Boaler and colleagues found reform-driven mathematics classrooms were, on the whole, more successful at narrowing the achievement gap than rote-memorization-focused classrooms. [→ Na'ilah Suad Nasir 2008](#nailah-suad-nasir-2008)
@@ -31,7 +33,7 @@ sources:
 
 Na'ilah Suad Nasir, Victoria Hand and Edd V. Taylor. (2008). Culture and Mathematics in School: Boundaries between "Cultural" and "Domain" Knowledge in the Mathematics Classroom and Beyond. Review of Research in Education, Vol. 32. https://doi.org/10.3102/0091732X07308962
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review attributes to Boaler's program of work (1997, 2003, 2006a; Boaler & Staples, in press) the finding that reform classrooms, where students engage in active problem posing and solving, were "more successful at narrowing the achievement gap" than procedural-recall classrooms. Narrative review attribution; no effect sizes printed.
 

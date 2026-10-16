@@ -15,12 +15,14 @@ sources:
     author: "Means, Toyama, Murphy, Bakia, & Jones"
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # In the narrative synthesis, blended and purely online conditions within a single study generally produced similar learning outcomes, and media elements such as video or online quizzes did not appear to influence learning.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Experimental and quasi-experimental studies contrasting variants of online learning generally found blended and purely online conditions produced similar outcomes, and elements such as video or online quizzes did not appear to influence learning. [→ Means 2009](#means-2009)
@@ -31,7 +33,7 @@ sources:
 
 Means, Toyama, Murphy, Bakia, & Jones. (2009). Evaluation of Evidence-Based Practices in Online Learning: A Meta-Analysis and Review of Online Learning Studies. U.S. Department of Education. https://www.ed.gov/about/offices/list/opepd/ppss/reports.html
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Narrative synthesis of experimental and quasi-experimental studies contrasting different versions of online learning (77 studies without a face-to-face condition were set aside for this synthesis; five involved K–12 learners). The synthesis reports student learning is "usually comparable across the two conditions."
 

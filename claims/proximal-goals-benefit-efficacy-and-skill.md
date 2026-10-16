@@ -15,12 +15,14 @@ sources:
     author: Schunk, D. H.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Proximal goals produced higher motivation, skill, self-efficacy, and intrinsic interest than distant or general goals
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Bandura and Schunk (1981) found proximal goals led to the highest motivation, posttest skill, self-efficacy, and intrinsic interest, while distant goals gave no benefit over a general goal. [→ Schunk 1995](#schunk-1995)
@@ -31,7 +33,7 @@ sources:
 
 Schunk, D. H. (1995). Self-efficacy, motivation, and performance. Journal of Applied Sport Psychology, 7(2), 112-137. http://www.taylorandfrancis.com/
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Subtraction instruction with practice over seven sessions in which children pursued proximal (one packet per session), distant, or general goals. The review reports the distant goal "resulted in no benefits compared with the general goal."
 
@@ -41,4 +43,4 @@ Subtraction instruction with practice over seven sessions in which children purs
 
 
 ## Related Claims
--
+- [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — possibly the same claim (merge candidate)

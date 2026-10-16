@@ -37,7 +37,7 @@ The article recommends, on the basis of its training study and mechanism account
 - transferable improvement in probabilistic inference and evidence accumulation
 
 ### Affordances
-- [Improved Probabilistic Inference Transfer Mechanism](../theories/improved-probabilistic-inference-transfer-mechanism.md)
+- Improved Probabilistic Inference Transfer Mechanism
 
 ## Related Strategies
 - 

@@ -15,18 +15,22 @@ sources:
     author: Yanghee Kim and Amy L. Baylor
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
   - id: yanghee-kim-and-amy-l-baylor-2006-2
     resource: "https://doi.org/10.1007/s11423-006-0637-3"
     title: "Yanghee Kim and Amy L. Baylor. (2006). A Social-Cognitive Framework for Pedagogical Agents as Learning Companions. ETR&D, Vol. 54, No. 6, pp. 569–596. https://doi.org/10.1007/s11423-006-0637-3"
     author: Yanghee Kim and Amy L. Baylor
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Proactive PALs yielded higher recall than responsive PALs, with the advantage differing by learner academic strength
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Students working with a proactive PAL achieved higher recall than students working with a PAL that responded only to requests. [→ Yanghee Kim and Amy L. Baylor 2006](#yanghee-kim-and-amy-l-baylor-2006)
@@ -38,7 +42,7 @@ sources:
 
 Yanghee Kim and Amy L. Baylor. (2006). A Social-Cognitive Framework for Pedagogical Agents as Learning Companions. ETR&D, Vol. 54, No. 6, pp. 569–596. https://doi.org/10.1007/s11423-006-0637-3
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The review reports, citing Kim and Baylor (2006), an experiment with 72 male and female college students learning instructional planning comparing proactive versus responsive PAL interaction types. Recall favored the proactive condition; no effect size is printed.
 
@@ -48,7 +52,7 @@ The review reports, citing Kim and Baylor (2006), an experiment with 72 male and
 
 Yanghee Kim and Amy L. Baylor. (2006). A Social-Cognitive Framework for Pedagogical Agents as Learning Companions. ETR&D, Vol. 54, No. 6, pp. 569–596. https://doi.org/10.1007/s11423-006-0637-3
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The same reported study's secondary analysis of learner academic strength is described with hedged language: the proactive PAL "tended to have a more positive impact on academically strong stu- dents" while the responsive PAL tended to help weak students. No statistics are printed.
 

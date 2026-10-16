@@ -15,12 +15,14 @@ sources:
     author: Annie Piolat, Jean-Yves Roussey and Olivier Thunin
     q: 3
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Reading time did not differ between Page and Scroll, though Page readers tended to backtrack more
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Reading time did not differ significantly between presentations; backtracking sequences tended to be more frequent with Page but not significantly. [→ Annie Piolat 1997](#annie-piolat-1997)
@@ -31,7 +33,7 @@ sources:
 
 Annie Piolat, Jean-Yves Roussey and Olivier Thunin. (1997). Effects of screen presentation on text reading and revising. International Journal of Human-Computer Studies. https://doi.org/10.1006/ijhc.1997.0145
 
-`q3 · i?`
+`q3 · i?` · `causal · r?`
 
 Experiment 1 behavioral measures from the navigation file: reading time (459 s vs. 442 s, F < 1) and backtracking sequences (1.61 vs. 1.17, p < 0.14). Neither difference was statistically significant.
 

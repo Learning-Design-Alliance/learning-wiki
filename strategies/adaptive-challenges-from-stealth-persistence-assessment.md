@@ -38,7 +38,7 @@ The authors recommend that educational games embed a stealth assessment of persi
 - Fostering persistence during gameplay
 
 ### Affordances
-- [Stealth Assessment Persistence Time On Task](../theories/stealth-assessment-persistence-time-on-task.md)
+- [Stealth Assessment Persistence Time On Task](../research-methods/stealth-assessment.md)
 
 ## Related Strategies
 - 

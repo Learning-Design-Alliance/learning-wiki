@@ -15,12 +15,14 @@ sources:
     author: Kirk M. Lundblade
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Early games-and-learning scholarship followed a three-move legitimating sequence: reframing, utopian advocacy, and interdisciplinary framing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` A recurring rhetorical structure in early games scholarship moved from personal reframing of beliefs about games, to utopian advocacy of the medium's potential, to multidisciplinary framing. [→ Kirk M. Lundblade 2025](#kirk-m-lundblade-2025)
@@ -31,7 +33,7 @@ sources:
 
 Kirk M. Lundblade. (2025). What Video Games Have Taught Us: Two Decades of Gaming and Learning. In Historiographies of Game Studies (Punctum Books). https://www.jstor.org/stable/jj.31913371.9
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 The chapter's historical analysis identifies this three-move sequence in Gee's introduction and notes Ian Bogost structured pivotal scholarship into the same three-part sequence, moving games discourse from the child's bedroom to the academic classroom.
 

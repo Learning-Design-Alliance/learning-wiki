@@ -15,18 +15,22 @@ sources:
     author: "Al Otaiba, S., & Fuchs, D."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: al-otaiba-2006-2
     resource: "https://journals.sagepub.com/doi/10.1177/00222194060390050401"
     title: "Al Otaiba, S., & Fuchs, D. (2006). Who Are the Young Children for Whom Best Practices in Reading Are Ineffective? An Experimental and Longitudinal Study. Journal of Learning Disabilities, 39(5), 414-431. https://journals.sagepub.com/doi/10.1177/00222194060390050401"
     author: "Al Otaiba, S., & Fuchs, D."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Early literacy intervention reduced the proportion of nonresponders to 7.05% versus 25.35% among controls
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Among 227 intervention students, 7.05% were nonresponders, compared with 25.35% of 71 control students. [→ Al Otaiba 2006](#al-otaiba-2006)
@@ -38,7 +42,7 @@ sources:
 
 Al Otaiba, S., & Fuchs, D. (2006). Who Are the Young Children for Whom Best Practices in Reading Are Ineffective? An Experimental and Longitudinal Study. Journal of Learning Disabilities, 39(5), 414-431. https://journals.sagepub.com/doi/10.1177/00222194060390050401
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Percentage analysis of nonresponders among students in the earlier randomized study who received kindergarten-only, first-grade-only, or both years of intervention versus typical classroom instruction. Only one nonresponder had received K-PALS plus Ladders, and she had special needs and an IEP.
 
@@ -48,7 +52,7 @@ Percentage analysis of nonresponders among students in the earlier randomized st
 
 Al Otaiba, S., & Fuchs, D. (2006). Who Are the Young Children for Whom Best Practices in Reading Are Ineffective? An Experimental and Longitudinal Study. Journal of Learning Disabilities, 39(5), 414-431. https://journals.sagepub.com/doi/10.1177/00222194060390050401
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Subgroup analysis of children with IEPs in the earlier study, comparing nonresponsiveness rates between intervention and control conditions. The authors interpret this as showing children with reading disabilities may need instruction more intensive than mainstream best practices offer.
 

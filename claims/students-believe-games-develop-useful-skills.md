@@ -15,12 +15,14 @@ sources:
     author: Matthew Barr
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Nearly half of surveyed students believe video games might help develop useful skills or provide valuable experience
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 48% of surveyed students responded affirmatively when asked whether playing video games might help develop useful skills or provide valuable experience; 32% were unsure and around 20% were certain they could not. [→ Matthew Barr 2020](#matthew-barr-2020)
@@ -31,7 +33,7 @@ sources:
 
 Matthew Barr. (2020). A cross-sectional study of video game play habits and graduate skills attainment. Research in Learning Technology. https://doi.org/10.25304/rlt.v28.2326
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive survey item from the cross-sectional study (N = 2145). The article reports 48% affirmative, 32% unsure and around 20% certain that games could not develop useful skills or provide valuable experience.
 

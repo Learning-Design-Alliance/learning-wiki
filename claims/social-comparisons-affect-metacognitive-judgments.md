@@ -13,12 +13,14 @@ sources:
     title: Bol L and Hacker DJ 2012
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Social comparison information affects the magnitude of metacognitive judgments, with greater magnitude for higher peer performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Presenting peer-performance information before metacognitive judgments affects judgment magnitude, with greater magnitude associated with higher performance; low-confidence participants may be especially susceptible. [→ Bol L and Hacker DJ 2012](#bol-l-and-hacker-dj-2012)
@@ -29,7 +31,7 @@ sources:
 
 Bol L and Hacker DJ (2012) Calibration research: where do we go from here? Front. Psychology 3:229. https://doi.org/10.3389/fpsyg.2012.00229
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Narrative review attributing this experimental result to Carvalho and Yuzawa (2001), who presented fictitious peer mean scores before participants made metacognitive judgments. The review reports "social comparisons did impact the magnitude of metacognitive judgments with greater magnitude in judgments associated with higher performance." No effect sizes are printed.
 

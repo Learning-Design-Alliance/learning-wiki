@@ -15,12 +15,14 @@ sources:
     author: "McClanahan, B., Williams, K., Kennedy, E., & Tate, S."
     q: 1
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # A struggling fifth-grade reader with ADHD gained one full grade level in reading over six weeks of iPad-mediated tutoring
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r1` · `q1`
 
 ## Subclaims
 `q1 i?` After six weeks of tutoring delivered largely via iPad, a fifth grader with ADHD reading at second-grade level improved one full grade level on an informal reading inventory. [→ McClanahan 2012](#mcclanahan-2012)
@@ -31,7 +33,7 @@ sources:
 
 McClanahan, B., Williams, K., Kennedy, E., & Tate, S. (2012). A Breakthrough for Josh: How Use of an iPad Facilitated Reading Improvement. TechTrends, 56(3). https://link.springer.com/journal/11528
 
-`q1 · i?`
+`q1 · i?` · `causal · r1`
 
 Single-student action research case: pre/post comparison of a different form of the same informal reading inventory. Second grade moved from instructional (word recognition 96%, comprehension 75%) to independent (100%/100%); third grade became the new instructional level (98%/85%).
 

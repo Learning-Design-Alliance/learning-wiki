@@ -15,12 +15,14 @@ sources:
     author: "J. A. Anguera, J. Boccanfuso, J. L. Rintoul, O. Al-Hashimi, F. Faraji, J. Janowich, E. Kong, Y. Larraburo, C. Rolle, E. Johnston & A. Gazzaley"
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Training-induced increases in midline frontal theta power correlate with preserved multitasking gains at 6 months and with sustained attention improvement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Within the MTT group, change in midline frontal theta power was positively correlated with 6-month multitasking gain preservation (r = 0.76) and with TOVA response-time improvement (r = 0.56). [→ J. A. Anguera 2013](#j-a-anguera-2013)
@@ -31,7 +33,7 @@ sources:
 
 J. A. Anguera, J. Boccanfuso, J. L. Rintoul, O. Al-Hashimi, F. Faraji, J. Janowich, E. Kong, Y. Larraburo, C. Rolle, E. Johnston & A. Gazzaley. (2013). Video game training enhances cognitive control in older adults. Nature 501. https://doi.org/10.1038/nature12486
 
-`q2 · i3`
+`q2 · i3` · `causal · r2`
 
 Correlational analyses within the MTT group only, among participants showing increased theta power (14/15). Figure 4 reports r = 0.76, P = 0.004 for 6-month gain preservation (n = 12) and r = 0.56, P = 0.04 for TOVA improvement (n = 14); correlations are associational, not causal.
 

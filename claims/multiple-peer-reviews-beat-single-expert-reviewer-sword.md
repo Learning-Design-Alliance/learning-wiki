@@ -15,12 +15,14 @@ sources:
     author: Luxton-Reilly, A.
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Multiple peer reviews produced greater improvement between draft and final paper than a single expert reviewer in a SWoRD evaluation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r3` · `q3`
 
 ## Subclaims
 `q3 i?` In a controlled experiment with 28 students, the greatest improvement between draft and final paper occurred when the author received multiple peer reviews, and the least improvement occurred with a single expert reviewer. [→ Luxton-Reilly 2009](#luxton-reilly-2009)
@@ -31,7 +33,7 @@ sources:
 
 Luxton-Reilly, A. (2009). A systematic review of tools that support peer assessment. Computer Science Education, 19(4), 209-232. https://doi.org/10.1080/08993400903384844
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 A controlled experiment within the SWoRD evaluation compared "a single expert reviewer, single peer reviewer and multiple peer reviewers" with 28 students in a research methods course. The greatest improvement between draft and final paper occurred with multiple peer reviews. No effect size is printed.
 

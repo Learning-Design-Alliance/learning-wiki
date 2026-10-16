@@ -15,12 +15,14 @@ sources:
     author: "Bell, B. S., & Kozlowski, S. W. J."
     q: 1
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Trait goal orientation is expected to moderate error-framing effects, with framing most powerful for trainees low in the corresponding trait orientation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r?` · `q1`
 
 ## Subclaims
 `q1 i?` Error framing is expected to be a more powerful inducement of a particular achievement orientation among individuals with low trait levels of that orientation. [→ Bell 2008](#bell-2008)
@@ -31,7 +33,7 @@ sources:
 
 Bell, B. S., & Kozlowski, S. W. J. (2008). Active learning: Effects of core training design elements on self-regulatory processes, learning, and adaptability. Journal of Applied Psychology, 93(2), 296-316. http://digitalcommons.ilr.cornell.edu/articles/410/
 
-`q1 · i?`
+`q1 · i?` · `causal · r?`
 
 Theoretical moderation argument: the article reasons that when an individual is characteristically oriented toward mastery or performance, the external instantiation of that orientation has little effect, citing Harackiewicz and Elliot's finding that goal induction effects on intrinsic motivation depended on achievement motivation. Stated as an expectation.
 

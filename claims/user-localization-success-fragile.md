@@ -15,12 +15,14 @@ sources:
     author: Huatong Sun
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # User localization success of text messaging is unqualified and fragile: some participants reduced use when costs rose or alternatives appeared
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The localization success of text messaging occurs only at the user's site, and fieldwork already showed some participants reducing use when promotions ended or other technologies became available. [→ Huatong Sun 2006](#huatong-sun-2006)
@@ -31,7 +33,7 @@ sources:
 
 Huatong Sun. (2006). The Triumph of Users: Achieving Cultural Usability Goals With User Localization. Technical Communication Quarterly, 15(4), 457-481. https://doi.org/10.1207/s15427625tcq1504_3
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Observations from the second-stage interviews and shadowing in the comparative case study. The author reports that "some participants reduced the use of text messaging during the second stage" due to cost and available alternatives, supporting the claim that success is unqualified.
 
@@ -41,4 +43,5 @@ Observations from the second-stage interviews and shadowing in the comparative c
 
 
 ## Related Claims
--
+- [American and Chinese users showed distinct messaging use patterns: fun-oriented short exchanges in the US versus informing and long in-depth chats in China](cross-site-messaging-use-patterns-differ.md) — related
+- [Users successfully localized the hard-to-use mobile text messaging technology into their daily lives despite poor developer localization](users-localize-hard-to-use-text-messaging.md) — related

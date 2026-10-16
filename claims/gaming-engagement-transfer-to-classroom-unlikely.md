@@ -15,12 +15,14 @@ sources:
     author: Bobby Hoffman, Louis Nadelson
     q: 1
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # The authors concluded transfer of motivational engagement from entertainment gaming to educational contexts was unlikely
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · associational `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The authors concluded that motivational engagement in gaming for entertainment was unlikely to transfer to educational contexts. [→ Bobby Hoffman 2010](#bobby-hoffman-2010)
@@ -31,7 +33,7 @@ sources:
 
 Bobby Hoffman, Louis Nadelson. (2010). Motivational engagement and video gaming: a mixed methods study. Education Tech Research Dev 58:245-270. https://doi.org/10.1007/s11423-009-9134-9
 
-`q1 · i?`
+`q1 · i?` · `associational · r1`
 
 Authors' interpretive conclusion (type e) from the merged qualitative and quantitative findings; the article offers this as a stated conclusion rather than a tested transfer result, and no transfer experiment was conducted.
 

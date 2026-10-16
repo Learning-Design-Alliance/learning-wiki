@@ -15,12 +15,14 @@ sources:
     author: "Roberts, G., Torgesen, J. K., Boardman, A., & Scammacca, N."
     q: 3
     i: 2
+    kind: review
+    rigour: 2
 ---
 
 # Word study intervention shows a moderate overall effect on word reading and comprehension for older struggling readers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · review `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` A meta-analysis found a moderate overall effect for word study intervention across standardized and researcher-developed measures (g = .60). [→ Roberts 2008](#roberts-2008)
@@ -31,7 +33,7 @@ sources:
 
 Roberts, G., Torgesen, J. K., Boardman, A., & Scammacca, N. (2008). Evidence-Based Strategies for Reading Instruction of Older Students with Learning Disabilities. Learning Disabilities Research & Practice, 23(2), 63–69. https://doi.org/10.1111/j.1540-5826.2008.00264.x
 
-`q3 · i2`
+`q3 · i2` · `review · r2`
 
 Meta-analytic review (Scammacca et al., 2007) of word study interventions for older struggling readers, reporting "a moderate overall effect" of g = .60 across four studies; the standardized-measures-only effect was .68 and comprehension-only .40.
 

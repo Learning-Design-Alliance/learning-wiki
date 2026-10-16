@@ -48,3 +48,4 @@ ANCOVA on post-test mock scores in a 16-week quasi-experiment with intact classe
 - [Intervention students reported significantly higher exam confidence than controls (M=4.3 vs 3.4 on a 5-point scale, d=0.76)](automated-marking-higher-exam-confidence.md) — related
 - [Student interpreters who practiced with an automated scoring system outperformed the control group on total interpreting scores at post-test](automated-scoring-improves-interpreting-total-scores.md) — related
 - [Non-layered AI feedback produced significantly higher post-test performance than layered AI feedback after controlling for pre-test](non-layered-ai-feedback-beats-layered-post-test.md) — related
+- [Peer assessment through tests, marks, and grades produces learning gains and reduced anxiety, with most participants reporting learning benefits](peer-marks-tests-learning-gains.md) — related

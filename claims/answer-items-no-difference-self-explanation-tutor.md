@@ -15,12 +15,14 @@ sources:
     author: "Koedinger, K., Aleven, V., Roll, I., & Baker, R."
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Self-explanation support did not change Answer-item performance even though the explanation condition completed only half as many problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Performance on Answer items did not differ between the Explanation and Problem Solving conditions, despite the Explanation Condition encountering half as many such items during training. [→ Koedinger 2008](#koedinger-2008)
@@ -31,7 +33,7 @@ sources:
 
 Koedinger, K., Aleven, V., Roll, I., & Baker, R. (2008). In vivo experiments on whether supporting metacognition in intelligent tutoring systems yields robust learning. https://learnlab.org/
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Null result from the same Geometry Cognitive Tutor classroom experiment on isomorphic Answer items. Because time-on-task was controlled, explanation students completed fewer problems; no statistically significant difference was found and equivalence was not tested.
 

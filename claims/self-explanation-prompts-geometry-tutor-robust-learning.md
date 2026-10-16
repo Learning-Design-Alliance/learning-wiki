@@ -15,12 +15,14 @@ sources:
     author: "Koedinger, K., Aleven, V., Roll, I., & Baker, R."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Static self-explanation prompts in the Geometry Cognitive Tutor produced greater gains on Reason and Not Enough Info test items than problem-solving practice alone
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Students who explained their steps with the tutor showed greater gains on Reason items and Not Enough Info transfer items than students who only solved problems. [→ Koedinger 2008](#koedinger-2008)
@@ -31,7 +33,7 @@ sources:
 
 Koedinger, K., Aleven, V., Roll, I., & Baker, R. (2008). In vivo experiments on whether supporting metacognition in intelligent tutoring systems yields robust learning. https://learnlab.org/
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In vivo classroom experiment comparing an Explanation Condition of the Geometry Cognitive Tutor against the standard Problem Solving Condition, with pre- and post-tests on three item types. The explanation group showed "greater gains with respect to Not Enough Info items and with Reason items"; no effect size is printed.
 

@@ -15,12 +15,14 @@ sources:
     author: "Al Otaiba, S., & Fuchs, D."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Nonresponsive students scored significantly lower than always responsive students on seven measures and higher on problem behavior
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Post hoc Tukey comparisons showed nonresponsive students scored significantly lower than always responsive students on Grammatical Closure, PPVT-R, pretreatment RLN, pretreatment RLS, pretreatment Segmentation, Sentence Imitation, and Word Discrimination, and significantly higher on the Achenbach. [→ Al Otaiba 2006](#al-otaiba-2006)
@@ -31,7 +33,7 @@ sources:
 
 Al Otaiba, S., & Fuchs, D. (2006). Who Are the Young Children for Whom Best Practices in Reading Are Ineffective? An Experimental and Longitudinal Study. Journal of Learning Disabilities, 39(5), 414-431. https://journals.sagepub.com/doi/10.1177/00222194060390050401
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Tukey HSD pairwise comparisons following the MANOVA of 104 children. Nonresponsive students scored lower than always responsive students on seven language and literacy measures (all p < .05 or stronger) and higher on the Achenbach problem behavior composite (p < .001).
 

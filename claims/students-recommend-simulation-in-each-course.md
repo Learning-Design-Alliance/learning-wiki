@@ -50,3 +50,4 @@ Focus-group theme from the qualitative pilot; one participant suggested each cla
 - [Students report increased confidence in selecting, administering, scoring, and interpreting assessments after a simulated clinical course](simucase-increases-assessment-confidence.md) — related
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — a broader claim this one bears on
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
+- [International students wanted more global cases and closer connections between case analyses and their local work contexts](lack-of-global-cases-local-relevance.md) — related

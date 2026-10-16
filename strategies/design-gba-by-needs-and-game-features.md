@@ -37,7 +37,7 @@ The review recommends that practitioners "design GBA according to their educatio
 - Aligning in-game assessment design with targeted subject knowledge and competencies
 
 ### Affordances
-- [Ecd Framework Game Based Assessment](../theories/ecd-framework-game-based-assessment.md)
+- [Ecd Framework Game Based Assessment](../research-methods/evidence-centered-design.md)
 
 ## Related Strategies
 - 

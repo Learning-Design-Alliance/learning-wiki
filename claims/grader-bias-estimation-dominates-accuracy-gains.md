@@ -15,12 +15,14 @@ sources:
     author: Chris Piech, Jonathan Huang, Zhenghao Chen, Chuong Do, Andrew Ng, Daphne Koller
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Estimating each grader's bias alone accounts for 95% of the RMSE reduction, while modeling grader reliability contributes little with only four grades per student
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The single change of estimating each grader's bias (Model PG1-bias) is responsible for 95% of the reduction in RMSE; modeling grader precision does little to improve performance. [→ Chris Piech 2013](#chris-piech-2013)
@@ -31,7 +33,7 @@ sources:
 
 Chris Piech, Jonathan Huang, Zhenghao Chen, Chuong Do, Andrew Ng, Daphne Koller. (2013). Tuned Models of Peer Assessment in MOOCs. arXiv. https://arxiv.org/abs/1307.2579
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Simulation-based evaluation on the HCI datasets (Table 2). The article reports that the bias-only model "is responsible for 95% of our reduction in RMSE", and that on a synthetic dataset generated from Model PG1, reliability is hard to estimate with only four grades per student, becoming notable only with more than 10 assignments graded.
 

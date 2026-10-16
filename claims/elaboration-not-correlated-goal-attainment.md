@@ -15,12 +15,14 @@ sources:
     author: "Kizilcec, R. F., Pérez-Sanagustín, M., & Maldonado, J. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Elaboration was not correlated with goal attainment in MOOCs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Elaboration showed no correlation with any of the three personal course goals (certification, completing assessments, completing lectures). [→ Kizilcec 2017](#kizilcec-2017)
@@ -31,7 +33,7 @@ sources:
 
 Kizilcec, R. F., Pérez-Sanagustín, M., & Maldonado, J. J. (2017). Self-regulated learning strategies predict learner behavior and goal attainment in Massive Open Online Courses. Computers & Education, 104, 18–33. https://doi.org/10.1016/j.compedu.2016.10.001
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Spearman correlation analysis of SRL strategies against three personal course goals among goal-expressing learners in the 4,831-learner sample. "Self-evaluation and task strategies were predictive only of completing assessments and lectures, while elaboration was not at all correlated with goal attainment."
 

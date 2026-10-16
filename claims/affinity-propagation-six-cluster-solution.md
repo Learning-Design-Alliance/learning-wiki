@@ -15,12 +15,14 @@ sources:
     author: "Martinez-Garza, M. M., & Clark, D. B."
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Affinity propagation clustering of gameplay attempts yielded an interpretable six-cluster solution (part.6)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` AP clustering converged on 145 proto-clusters, which agglomerative collapsing reduced to six clusters at a 0.905 altitude cut, with a heat map showing three well-delimited cohesive clusters plus internal structure. [→ Martinez-Garza 2017](#martinez-garza-2017)
@@ -31,7 +33,7 @@ sources:
 
 Martinez-Garza, M. M., & Clark, D. B. (2017). Investigating Epistemic Stances in Game Play with Data Mining. International Journal of Gaming and Computer-Mediated Simulations, 9(3). https://doi.org/10.4018/IJGCMS.2017070101
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 Unsupervised clustering of Study 2 attempts on seven theoretically-selected variables using Gower's similarity coefficient and affinity propagation. The algorithm "converged on a set of 145 proto-clusters after 260 iterations"; visual inspection of the dendrogram suggested a cut at 0.905 altitude yielding the part.6 six-cluster solution.
 

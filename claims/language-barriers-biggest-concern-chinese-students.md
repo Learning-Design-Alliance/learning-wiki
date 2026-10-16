@@ -15,12 +15,14 @@ sources:
     author: "Liu, X., Liu, S., Lee, S.-h., & Magjuka, R. J."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Language barriers were the biggest concern for Chinese international students, who reported tripling their reading time in English
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Chinese international students reported severe English limitations hindering understanding and expression, and that they had to triple their reading time when materials were in English. [→ Liu 2010](#liu-2010)
@@ -31,7 +33,7 @@ sources:
 
 Liu, X., Liu, S., Lee, S.-h., & Magjuka, R. J. (2010). Cultural Differences in Online Learning: International Student Perceptions. Educational Technology & Society, 13(3), 177-188. https://www.jstor.org/stable/jeductechsoci.13.3
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Interview finding from the case study: despite passing TOEFL and GMAT, students reported "severe limitations in regard to the English language" that hindered understanding course content and communicating opinions in online discussions.
 
@@ -41,4 +43,5 @@ Interview finding from the case study: despite passing TOEFL and GMAT, students 
 
 
 ## Related Claims
--
+- [Limited English fluency and low native-language literacy among parents hinder school communication in ELL communities](ell-parent-language-literacy-barrier.md) — related
+- [Chinese college ESP learners show high amotivation-subscale, external-regulation, identified-regulation and intrinsic (knowledge, accomplishment) item means](esp-learners-mixed-motivational-propensities.md) — related

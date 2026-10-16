@@ -15,12 +15,14 @@ sources:
     author: "Shute, V. J., & Rahimi, S."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Creativity estimate significantly predicts levels solved and silver coins but not gold coins, controlling for pretest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Creativity significantly predicted total levels solved (β = .39, p < .001) and silver coins (β = .27, p = .001), but was not a significant predictor of gold coins (β = .11, p = .17). [→ Shute 2020](#shute-2020)
@@ -31,7 +33,7 @@ sources:
 
 Shute, V. J., & Rahimi, S. (2020). Stealth Assessment of Creativity in a Physics Video Game. Computers in Human Behavior. https://www.sciencedirect.com/science/article/pii/S0747563220303940
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Three separate multiple regressions with 167 students tested whether the creativity estimate predicted game performance controlling for pretest. The estimate "significantly predicted silver coins earned" and levels solved (βcreativity = .39); gold coins was not significant (β = .11, p = .17). No standardized effect size was printed, so impact is null.
 
@@ -41,4 +43,4 @@ Three separate multiple regressions with 167 students tested whether the creativ
 
 
 ## Related Claims
--
+- [Creativity estimate significantly predicts physics learning and game enjoyment](creativity-predicts-learning-enjoyment.md) — related

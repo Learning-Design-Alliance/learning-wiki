@@ -15,12 +15,14 @@ sources:
     author: Kenneth R. Koedinger, Emma Brunskill, Ryan S.J.d. Baker, Elizabeth A. McLaughlin, and John Stamper
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # LFA-discovered cognitive models outperformed both original in-use and best hand-generated models in all eleven DataShop datasets
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across eleven datasets, the best machine-generated Q-matrix model achieved lower cross-validated RMSE than both the original in-use model and the best hand-generated model, though the overall improvement was small. [→ Kenneth R. Koedinger 2012](#kenneth-r-koedinger-2012)
@@ -31,7 +33,7 @@ sources:
 
 Kenneth R. Koedinger, Emma Brunskill, Ryan S.J.d. Baker, Elizabeth A. McLaughlin, and John Stamper. (2012). New Potentials for Data-Driven Intelligent Tutoring System Development and Optimization. http://learnlab.org/datashop
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Automated LFA search over Q matrices was run on eleven DataShop datasets across five domains, comparing discovered models to prior models by cross-validated RMSE. The article reports that "In all eleven datasets the best machine-generated model outperformed both the original (in-use) model and the best hand-generated model."
 

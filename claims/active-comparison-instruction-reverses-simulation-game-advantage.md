@@ -15,18 +15,22 @@ sources:
     author: Traci Sitzmann
     q: 3
     i: 0
+    kind: quant-synthesis
+    rigour: 2
   - id: traci-sitzmann-2011-2
     resource: "https://onlinelibrary.wiley.com/journal/17446570"
     title: "Traci Sitzmann. (2011). A Meta-Analytic Examination of the Instructional Effectiveness of Computer-Based Simulation Games. Personnel Psychology, 64, 489-528. https://onlinelibrary.wiley.com/journal/17446570"
     author: Traci Sitzmann
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The advantage of simulation games shrinks or reverses when the comparison group learns via active instructional methods
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i0`–`i2`
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i0`–`i2`
 
 ## Subclaims
 `q3 i0` The comparison group learned more than the simulation game group when taught with active methods (d = −.19), a negligible effect. [→ Traci Sitzmann 2011](#traci-sitzmann-2011)
@@ -38,7 +42,7 @@ sources:
 
 Traci Sitzmann. (2011). A Meta-Analytic Examination of the Instructional Effectiveness of Computer-Based Simulation Games. Personnel Psychology, 64, 489-528. https://onlinelibrary.wiley.com/journal/17446570
 
-`q3 · i0`
+`q3 · i0` · `quant-synthesis · r2`
 
 Meta-analytic moderator analysis across 14 active-method comparison samples (N = 832); the comparison group "learned more than the simulation game group" with d = −.19, a negligible printed effect size.
 
@@ -48,7 +52,7 @@ Meta-analytic moderator analysis across 14 active-method comparison samples (N =
 
 Traci Sitzmann. (2011). A Meta-Analytic Examination of the Instructional Effectiveness of Computer-Based Simulation Games. Personnel Psychology, 64, 489-528. https://onlinelibrary.wiley.com/journal/17446570
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Meta-analytic moderator analysis across 18 passive-method comparison samples (N = 970) and the no-instruction category (25 samples, N = 1,844); the QB was significant (84.48), and the largest effect was d = .61 when the comparison group received no instruction.
 
@@ -58,4 +62,5 @@ Meta-analytic moderator analysis across 18 passive-method comparison samples (N 
 
 
 ## Related Claims
--
+- [Entertainment value of simulation games did not moderate learning relative to comparison instruction](entertainment-value-does-not-moderate-simulation-game-learning.md) — related
+- [Simulation games are effective as a supplement to other instruction but counterproductive as standalone instruction](simulation-games-as-supplement-not-standalone.md) — related

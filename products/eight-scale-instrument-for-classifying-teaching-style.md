@@ -18,7 +18,7 @@ sources:
 # Eight-scale instrument for classifying teaching style
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A behavioral-recording and rating instrument developed by Garfunkel for describing classroom atmosphere and teaching style across eight bipolar scales.
@@ -26,16 +26,18 @@ A behavioral-recording and rating instrument developed by Garfunkel for describi
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Eight-scale instrument for classifying teaching style (control, approach, value, warmth, humor, flexibility, direction, differentiation)**: The article presents eight behavioral scales for describing classroom atmosphere and teaching style, each with stated polarities: control (teacher-child), approach (punitive-supportive), value (work-play), warmth (rejecting-accepting), humor (bland-humorous), flexibility (rigid-adaptive), direction (aimless-purposeful), and differentiation (undifferentiated-individualized). The scales are described as "a first approximation of relevant components of classroom atmosphere" and are meant to be part of a change process, with accommodation and revision expected as integral to the methodology. They are operationalized directly by behavioral recording, indirectly by rater judgments, or by inferring (Garfunkel (1967))
+- **Grasha's five teacher roles framework (expert, formal authority, personal model, facilitator, delegator)**: The article adopts Grasha's framework of five teaching styles reflecting five teacher roles: the "expert (transmitter of information)", "formal authority (sets standards and defines acceptable ways of doing things)", "personal model (teaches by illustration and direct example)", "facilitator (guides and directs by asking questions, exploring options, suggesting alternatives)", and "delegator (develops students' ability to function autonomously)". The study uses the Teaching Style Survey built on these five scales to measure how teachers in two cultural settings perceive their roles, and expects social-constructivist adopters to favour facilitator and delegator roles over expert, authority and model roles. (Chang Zhu et al. (2010))
 
 ### Claims
+- [Chinese university teachers stress the expert, authority and model teacher roles to a larger extent than Flemish teachers, with no group difference in facilitator or delegator roles](../claims/chinese-teachers-stress-expert-authority-model-roles-more.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Garfunkel, Frank. (1967). Teaching Style: The Development of Teaching Tasks. Boston University. https://eric.ed.gov/?id=ED022557
-
 <!-- merged 2026-10-10 from elements/eight-teaching-style-scales-garfunkel ("Eight-scale instrument for classifying teaching style (control, approach, value, warmth, humor, flexibility, direction, differentiation)"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Chang Zhu, Martin Valcke and Tammy Schellens. (2010). A cross-cultural study of teacher perspectives on teacher roles and adoption of online collaborative learning in higher education. European Journal of Teacher Education. https://doi.org/10.1080/02619761003631849
 
 # Eight-scale instrument for classifying teaching style (control, approach, value, warmth, humor, flexibility, direction, differentiation)
 

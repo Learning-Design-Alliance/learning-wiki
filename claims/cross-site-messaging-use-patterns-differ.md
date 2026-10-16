@@ -15,12 +15,14 @@ sources:
     author: Huatong Sun
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # American and Chinese users showed distinct messaging use patterns: fun-oriented short exchanges in the US versus informing and long in-depth chats in China
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` At the American site participants mostly used text messaging for fun conversations and short small-talk exchanges, while Chinese participants sent more messages to inform and engaged in longer, more in-depth conversations. [→ Huatong Sun 2006](#huatong-sun-2006)
@@ -31,7 +33,7 @@ sources:
 
 Huatong Sun. (2006). The Triumph of Users: Achieving Cultural Usability Goals With User Localization. Technical Communication Quarterly, 15(4), 457-481. https://doi.org/10.1207/s15427625tcq1504_3
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Findings from the questionnaire survey and verbal data analysis of message diaries at the two sites. The author reports American messages were largely "small talk" with quick status updates, whereas Chinese participants "sent more messages to inform" with long chats common.
 
@@ -41,4 +43,5 @@ Findings from the questionnaire survey and verbal data analysis of message diari
 
 
 ## Related Claims
--
+- [Users successfully localized the hard-to-use mobile text messaging technology into their daily lives despite poor developer localization](users-localize-hard-to-use-text-messaging.md) — a broader claim this one bears on
+- [User localization success of text messaging is unqualified and fragile: some participants reduced use when costs rose or alternatives appeared](user-localization-success-fragile.md) — related

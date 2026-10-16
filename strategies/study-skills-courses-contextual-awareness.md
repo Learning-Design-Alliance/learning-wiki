@@ -39,7 +39,7 @@ The chapter recommends helping students monitor and adjust to classroom task req
 - adaptive strategy use
 
 ### Affordances
-- [Pintrich Four Phase Four Area Srl Framework](../theories/pintrich-four-phase-four-area-srl-framework.md)
+- [Pintrich Four Phase Four Area Srl Framework](../theories/self-regulated-learning.md)
 
 ## Related Strategies
 - 

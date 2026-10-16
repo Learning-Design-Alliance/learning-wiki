@@ -15,12 +15,14 @@ sources:
     author: "Klopfer, E., Perry, J., Squire, K., & Jan, M.-F."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Role-based information asymmetry with infrared beaming encourages cross-team information exchange and collaborative discussion
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Because roles access different information, players exchange information across teams via infrared beaming, and this sharing encourages collaboration that progresses into broader discussion. [→ Klopfer 2004](#klopfer-2004)
@@ -31,7 +33,7 @@ sources:
 
 Klopfer, E., Perry, J., Squire, K., & Jan, M.-F. (2004). Collaborative Learning through Augmented Reality Role Playing. https://doi.org/10.3115/1149293.1149333
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Design-narrative observation of middle school students from an urban Boston school playing Charles River City with three roles (doctor, environmental scientist, DPH expert). A transcript shows students identifying which role should interview a patient and radioing findings to the whole group, with collaboration continuing into classroom recommendation-making.
 

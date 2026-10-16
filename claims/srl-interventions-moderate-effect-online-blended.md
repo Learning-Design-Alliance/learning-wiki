@@ -78,3 +78,4 @@ The "65%" is the source's own wording for a pooled Cohen's d of 0.65; a d of 0.6
 - [Adaptive learning showed a statistically significant effect on learning skills but not on building factual knowledge in a meta-analysis of 21 Health & Welfare studies](adaptive-learning-effect-learning-skills-not-factual-knowledge.md) — related
 - [Self-regulated learning is associated with increased academic achievement and improved learning outcomes for students](srl-associated-with-achievement.md) — a broader claim this one bears on
 - [Most study, measurement, and intervention moderators did not explain significant variance in SRL intervention effect sizes](srl-intervention-moderators-most-nonsignificant.md) — related
+- [SRL scaffolds in computer-based learning environments produce a medium, significantly positive effect on academic performance (ES = 0.438)](srl-scaffolds-positive-effect-academic-performance.md) — related

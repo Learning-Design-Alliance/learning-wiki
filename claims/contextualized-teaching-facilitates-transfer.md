@@ -82,3 +82,4 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [Effective AI use positively influences sustainable learning performance](effective-ai-use-improves-sustainable-learning-performance.md) — related
 - [Authentic assessment designs in higher education predominantly replicate professional workplace scenarios, with few addressing social authenticity](aa-designs-predominantly-professional-authenticity.md) — related
 - [In one qualitative interview study, science teachers report that AI tools let students experience risky or inaccessible phenomena and practise virtually before real lab work](ai-enables-authentic-contextualized-science-experiences.md) — related
+- [Learning-stories research indicates meaningful learning involves felt ownership of knowledge, emotional integration, generativity, real-life context, interaction with others' learning, and transformed self-perceptions](learning-stories-meaningful-learning-dimensions.md) — related

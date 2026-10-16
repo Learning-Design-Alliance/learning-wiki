@@ -15,12 +15,14 @@ sources:
     author: "Rahimi, S., Shute, V., & Zhang, Q."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Persistence varies both within and between students, warranting multilevel modeling, and level-1 predictors explained 18% of variance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The intraclass correlation was .13 with significant between-students variance, and adding level-1 predictors explained 18% of the outcome variance relative to the fully unconditional model. [→ Rahimi 2021](#rahimi-2021)
@@ -31,7 +33,7 @@ sources:
 
 Rahimi, S., Shute, V., & Zhang, Q. (2021). The effects of game and student characteristics on persistence in educational games: A hierarchical linear modeling approach. International Journal of Technology in Education and Science (IJTES), 5(2), 141-165. https://doi.org/10.46328/ijtes.118
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 The fully unconditional HLM model on 3,803 observations from 137 students showed significant between-students variance, and the pseudo R-squared calculation showed "The added level-1 predictors helped explain 18% of the variance in the outcome variable compared to the fully unconditional model."
 

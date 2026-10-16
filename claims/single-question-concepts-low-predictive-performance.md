@@ -15,12 +15,14 @@ sources:
     author: "Henderson, N., Kumaran, V., Min, W., Mott, B., Wu, Z., Boulden, D., Lord, T., Reichsman, F., Dorsey, C., Wiebe, E., & Lester, J."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Concepts associated with only a single post-test question yield markedly low predictive performance across all modeling approaches
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Single-question concepts produced an average R² of 0.046 across all models, attributed to reliability issues from dependence on a single binary response susceptible to guess-and-slip behavior. [→ Henderson 2020](#henderson-2020)
@@ -31,7 +33,7 @@ sources:
 
 Henderson, N., Kumaran, V., Min, W., Mott, B., Wu, Z., Boulden, D., Lord, T., Reichsman, F., Dorsey, C., Wiebe, E., & Lester, J. (2020). Enhancing Student Competency Models for Game-Based Learning with a Hybrid Stealth Assessment Framework. Proceedings of The 13th International Conference on Educational Data Mining (EDM 2020), 92-103. https://educationaldatamining.org/EDM2020/proceedings/
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Analysis of predictive performance for concepts mapped to only one post-test item in the 316-student Geniventure dataset. These concepts "produced an average R2 value of 0.046 across all the models."
 

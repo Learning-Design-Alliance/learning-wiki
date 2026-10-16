@@ -49,3 +49,4 @@ The essay reports, citing Guo et al. (2014), an observational analysis of video-
 - [A University of Pennsylvania study found only about half of MOOC registrants viewed a lecture and only about four percent finished a course entirely](mooc-completion-four-percent.md) — related
 - [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](guo-video-style-engagement-findings.md) — related
 - [A review of music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes](moocs-low-completion-embodied-music-learning.md) — related
+- [mLearning students prefer video-based materials with each video under 5 minutes](mlearning-students-prefer-short-videos-under-5-minutes.md) — related

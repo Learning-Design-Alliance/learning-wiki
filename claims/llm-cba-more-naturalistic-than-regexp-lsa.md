@@ -15,12 +15,14 @@ sources:
     author: Diego Zapata-Rivera, Carol Forsyth, Edith Aurora Graf and Yang Jiang
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # In a case study, LLM-generated assessment conversations handled common student speech acts more naturalistically than RegExp/LSA conversations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In qualitative side-by-side comparisons of sample responses across response categories, LLM conversations appeared more naturalistic than RegExp/LSA conversations, including on-topic redirection of irrelevant remarks and on-the-fly analogies. [→ Diego Zapata-Rivera 2024](#diego-zapata-rivera-2024)
@@ -31,7 +33,7 @@ sources:
 
 Diego Zapata-Rivera, Carol Forsyth, Edith Aurora Graf and Yang Jiang. (2024). Designing and Evaluating Evidence-Centered Design based Conversations for Assessment with LLMs. Leveraging Large Language Models for Next Generation Educational Technologies, CEUR Workshop Proceedings. https://ceur-ws.org
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Case study comparing a RegExp/LSA CBA with an LLM conversation built in Microsoft Copilot GPT-4, using sample responses drawn from a dataset of 105 middle-school students who completed the scientific inquiry volcano scenario in 2014. The authors judged that "the LLM conversations appear more naturalistic", e.g. addressing an off-topic comment about friends before steering back to volcanoes.
 
@@ -41,4 +43,4 @@ Case study comparing a RegExp/LSA CBA with an LLM conversation built in Microsof
 
 
 ## Related Claims
--
+- [LLM-generated assessment conversations may reveal more information than intended and present scoring challenges compared with pre-structured conversations](llm-cba-information-leakage-scoring-challenge.md) — related

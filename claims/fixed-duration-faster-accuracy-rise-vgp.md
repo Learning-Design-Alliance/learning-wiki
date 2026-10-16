@@ -15,12 +15,14 @@ sources:
     author: "Green, C.S., Pouget, A., & Bavelier, D."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # In fixed-duration conditions, accuracy rises faster with presentation duration in VGPs, confirming greater sensory integration and ruling out non-decision-time accounts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The rate parameter β of accuracy growth was higher in VGPs for both visual motion (p-eta2 = .19) and auditory tone (p-eta2 = .18) tasks. [→ Green 2010](#green-2010)
@@ -31,7 +33,7 @@ sources:
 
 Green, C.S., Pouget, A., & Bavelier, D. (2010). Improved probabilistic inference as a general learning mechanism with action video games. Current Biology. https://doi.org/10.1016/j.cub.2010.07.040
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Critical duration study (Experiment 4): stimuli shown for fixed durations, accuracy modeled as exponential rise. The article reports higher β in VGPs in both modalities (p-eta2 = .19 visual; p-eta2 = .18 auditory); simulations showed equal-sensitivity models could not capture the faster rise for VGPs.
 

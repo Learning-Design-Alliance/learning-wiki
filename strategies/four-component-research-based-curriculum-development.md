@@ -37,7 +37,7 @@ The authors describe building a research-based curriculum as having four compone
 - mathematics achievement through research-based curriculum design
 
 ### Affordances
-- [Act R Theory Cognitive Tutor Basis](../theories/act-r-theory-cognitive-tutor-basis.md)
+- [Act R Theory Cognitive Tutor Basis](../theories/information-processing-theory.md)
 
 ## Related Strategies
 - 

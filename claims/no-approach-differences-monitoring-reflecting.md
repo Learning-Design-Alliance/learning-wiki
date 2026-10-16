@@ -15,12 +15,14 @@ sources:
     author: "Tessa H. S. Eysink & Ton de Jong"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Instructional approaches do not differ significantly in monitoring or reflecting, and omnibus differences in orienting and planning show no significant pairwise differences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` No significant differences between instructional approaches were found for monitoring or reflecting, and the significant omnibus effects for orienting and planning did not yield significant Bonferroni-corrected pairwise differences. [→ Tessa H. S. Eysink & Ton de Jong 2012](#tessa-h-s-eysink-ton-de-jong-2012)
@@ -31,7 +33,7 @@ sources:
 
 Tessa H. S. Eysink & Ton de Jong (2012). Does Instructional Approach Matter? How Elaboration Plays a Crucial Role in Multimedia Learning. Journal of the Learning Sciences. https://doi.org/10.1080/10508406.2011.611776
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Kruskal-Wallis tests on the regulative subcategories from the think-aloud study found no significant approach differences for monitoring or reflecting; for orienting and planning the omnibus tests were significant but no pairwise comparison survived correction.
 

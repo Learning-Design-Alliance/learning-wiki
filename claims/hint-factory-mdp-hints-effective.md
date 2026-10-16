@@ -15,12 +15,14 @@ sources:
     author: Kenneth R. Koedinger, Emma Brunskill, Ryan S.J.d. Baker, Elizabeth A. McLaughlin, and John Stamper
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Hint Factory MDP-generated hints gave correct next-step hints over 80% of the time and a pilot showed students solved more logic proofs with hints
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Extracted MDPs from historical student data provided correct next-step hints over 80% of the time, and augmenting a propositional logic tutor with the Hint Factory increased the number of proof problems students solved. [→ Kenneth R. Koedinger 2012](#kenneth-r-koedinger-2012)
@@ -31,7 +33,7 @@ sources:
 
 Kenneth R. Koedinger, Emma Brunskill, Ryan S.J.d. Baker, Elizabeth A. McLaughlin, and John Stamper. (2012). New Potentials for Data-Driven Intelligent Tutoring System Development and Optimization. http://learnlab.org/datashop
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Feasibility demonstration on historical student attempt data, reported in this article as Barnes and Stamper (2008): extracted MDPs "could provide correct next-step hints towards the problem solution over 80% of the time". A pilot study augmenting a logic tutor showed students solved more proof problems with hints included.
 

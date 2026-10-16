@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (7 for, 4 mixed) · 12 studies (3 review, 3 theoretical, 2 causal, 2 associational, 1 quant-synthesis, 1 design), `q2`–`q3` · 1 of 12 report an effect size · 10 claims rest on one study
+> **Evidence** · 12 claims (8 for, 4 mixed) · 13 studies (3 review, 3 theoretical, 2 causal, 2 associational, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q3` · 1 of 13 report an effect size · 11 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -46,6 +46,7 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [ChatGPT was the most widely adopted AI platform in undergraduate higher education studies, with applications clustering around assessment automation and personalized learning support](../claims/chatgpt-dominant-platform-assessment-personalization.md) [+W]
 - [Technology effects on TEFL outcomes trend upward across educational levels (primary g = 0.29, secondary g = 0.35, tertiary g = 0.44), though between-level differences are not statistically significant](../claims/tefl-tech-effects-increase-by-educational-level.md) [~W]
 - [Using ChatGPT during technology learning produces significantly higher post-test learning outcomes than conventional learning in a quasi-experiment of two classes of 31 students](../claims/chatgpt-technology-learning-higher-outcomes.md) [+W] — attached 2026-10-16 from Hakiki et al. (2023), which proposed "ChatGPT as a conversational AI communication tool integrated into technology learning".
+- [The iPad helped a student with ADHD focus attention and become more metacognitive about his reading](../claims/ipad-supported-attention-and-metacognition-adhd-reader.md) [+W] — attached 2026-10-16 from McClanahan et al. (2012), which proposed "iPad with reading apps and downloadable activities as the medium for individualized reading intervention".
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

@@ -15,12 +15,14 @@ sources:
     author: Kenneth R. Koedinger, Emma Brunskill, Ryan S.J.d. Baker, Elizabeth A. McLaughlin, and John Stamper
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # LFA discovered that backward application of the circle area formula is a distinct, harder skill with no transfer from forward application
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the Geometry96-97 dataset, backward application of circle area (given the area, find the radius) showed lower performance (54%) than forward application (80%) and evidence of no transfer, unlike other area formulas. [→ Kenneth R. Koedinger 2012](#kenneth-r-koedinger-2012)
@@ -31,7 +33,7 @@ sources:
 
 Kenneth R. Koedinger, Emma Brunskill, Ryan S.J.d. Baker, Elizabeth A. McLaughlin, and John Stamper. (2012). New Potentials for Data-Driven Intelligent Tutoring System Development and Optimization. http://learnlab.org/datashop
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Analysis of the Geometry96-97 dataset via LFA model discovery found a forward-vs-backward distinction unique to the circle area formula: "The performance rate difference (80% forward vs. 54% backward)". The article also reports evidence that forward practice does not transfer to backward application for this formula.
 

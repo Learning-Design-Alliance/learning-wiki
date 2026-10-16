@@ -15,12 +15,14 @@ sources:
     author: Patricia A. Young
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Cross-cultural study of university websites found similar technical features and audience-significant cultural emphases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Callahan's (2005) study of university websites across cultures found similar technical features across cultures and culturally significant emphases such as religion in Malaysia and Ecuador and the performing arts in Sweden and Denmark. [→ Patricia A. Young 2008](#patricia-a-young-2008)
@@ -31,7 +33,7 @@ sources:
 
 Patricia A. Young. (2008). Integrating Culture in the Design of ICTs. British Journal of Educational Technology, Vol 39 No 1, 6-17. https://doi.org/10.1111/j.1467-8535.2007.00699.x
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports this study of university website design across cultures as evidence that cultural similarities can be developed as design specifications, complementing the field's focus on cultural differences. Purpose as ideological representation was also similar.
 
@@ -41,4 +43,4 @@ The review reports this study of university website design across cultures as ev
 
 
 ## Related Claims
--
+- [Cultural diversity does not increase schoolchildren's creativity when a divisional mindset emphasizing group distinctions is salient](divisional-mindset-nullifies-diversity-creativity-effect.md) — related

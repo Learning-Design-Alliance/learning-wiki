@@ -15,18 +15,22 @@ sources:
     author: "Koriat, A., & Bjork, R. A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
   - id: koriat-2006-2
     resource: "https://doi.org/10.3758/bf03193244"
     title: "Koriat, A., & Bjork, R. A. (2006). Illusions of competence during study can be remedied by manipulations that enhance learners' sensitivity to retrieval conditions at test. Memory & Cognition, 34(5), 959-972. https://doi.org/10.3758/bf03193244"
     author: "Koriat, A., & Bjork, R. A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The foresight bias has behavioral consequences: learners allocate similar study time to backward and forward pairs despite markedly lower recall for backward pairs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
 
 ## Subclaims
 `q3 i?` On the first presentation, study time did not differ between backward and forward pairs, although recall for backward pairs was markedly inferior. [→ Koriat 2006](#koriat-2006)
@@ -38,7 +42,7 @@ sources:
 
 Koriat, A., & Bjork, R. A. (2006). Illusions of competence during study can be remedied by manipulations that enhance learners' sensitivity to retrieval conditions at test. Memory & Cognition, 34(5), 959-972. https://doi.org/10.3758/bf03193244
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Experiment 5, 24 English-speaking undergraduates in a self-paced paired-associates task with no JOLs solicited; the pair type  measure ANOVA interaction was significant [F(2,46)  57.43, p  .0001], and "there was no difference between the amount of time spent studying the backward and the forward pairs".
 
@@ -48,7 +52,7 @@ Experiment 5, 24 English-speaking undergraduates in a self-paced paired-associat
 
 Koriat, A., & Bjork, R. A. (2006). Illusions of competence during study can be remedied by manipulations that enhance learners' sensitivity to retrieval conditions at test. Memory & Cognition, 34(5), 959-972. https://doi.org/10.3758/bf03193244
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 5, first two presentations: the presentation  pair type interaction for backward versus forward pairs was significant [F(1,23)  8.71, p  .01], indicating "a shift in study time allocation" toward backward pairs with practice.
 

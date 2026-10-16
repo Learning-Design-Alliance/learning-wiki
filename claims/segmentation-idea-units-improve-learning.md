@@ -15,12 +15,14 @@ sources:
     author: Innwoo Park and Michael J. Hannafin
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Properly segmented text facilitates decoding, encoding, and retrieval better than poorly segmented text
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Properly segmented text facilitates initial decoding as well as subsequent encoding and retrieval better than poorly segmented text, implying multimedia lesson segments should form internally consistent idea units. [→ Innwoo Park and Michael J. Hannafin 1993](#innwoo-park-and-michael-j-hannafin-1993)
@@ -31,7 +33,7 @@ sources:
 
 Innwoo Park and Michael J. Hannafin. (1993). Empirically-Based Guidelines for the Design of Interactive Multimedia. Educational Technology Research and Development, Vol. 41, No. 3, pp. 63-85. http://www.jstor.org/stable/30218388
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Frase and Schwartz (1979), that "Properly segmented text facilitates ini- tial decoding, as well as subsequent encoding and retrieval, better than poorly segmented text." It applies this to electronic media, noting multimedia systems rarely segment phrases or organize concepts into coherent idea units. The stated implication is to organize lesson segments into internally consistent idea units.
 

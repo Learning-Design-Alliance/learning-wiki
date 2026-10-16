@@ -15,12 +15,14 @@ sources:
     author: "Klopfer, E., Perry, J., Squire, K., & Jan, M.-F."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Time dependence, cascading events, and distinct player roles added to a redesigned AR engine fostered collaboration between teams in subsequent game iterations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` New game play elements — time dependence, cascading events, and distinct player roles — were found effective at fostering collaboration, which in turn scaffolds a more authentic investigation process. [→ Klopfer 2004](#klopfer-2004)
@@ -31,7 +33,7 @@ sources:
 
 Klopfer, E., Perry, J., Squire, K., & Jan, M.-F. (2004). Collaborative Learning through Augmented Reality Role Playing. https://doi.org/10.3115/1149293.1149333
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Design-narrative evaluation across iterations of the redesigned AR engine, illustrated with a transcript of middle school students from an urban Boston school playing Charles River City. The authors report that sharing information "encouraged frequent digital exchanges, which were accompanied by pertinent discussions of game progress."
 

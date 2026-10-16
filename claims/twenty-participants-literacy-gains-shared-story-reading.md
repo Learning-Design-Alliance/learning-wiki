@@ -15,12 +15,14 @@ sources:
     author: Melissa E. Hudson and David W. Test
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Twenty participants aged 3 to 14 with varying disabilities all demonstrated literacy gains through shared story reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across the six reviewed studies, 20 participants ranging in age from 3 to 14 years with varying disabilities all demonstrated gains in literacy through shared story reading. [→ Melissa E. Hudson and David W. Test 2011](#melissa-e-hudson-and-david-w-test-2011)
@@ -31,7 +33,7 @@ sources:
 
 Melissa E. Hudson and David W. Test. (2011). Evaluating the Evidence Base of Shared Story Reading to Promote Literacy for Students With Extensive Support Needs. Research & Practice for Persons with Severe Disabilities, 36(1-2), 34-45. http://www.education.uncc.edu/access/
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Summary of participant outcomes across the six included single-subject studies, reported in the implications section of the review. The review reports "20 participants" aged "3 to 14 years" with varying disabilities, and that "all demonstrated gains in literacy through shared story reading."
 

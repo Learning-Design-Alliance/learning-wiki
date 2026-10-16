@@ -15,12 +15,14 @@ sources:
     author: "Tessa H. S. Eysink & Ton de Jong"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Observational learning devotes a significantly lower percentage of learning activity to elaborative processing than the other three approaches
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Learners in the observational learning environment spent a significantly smaller share of their utterances on elaborative processes than learners in the inquiry, self-explanation-based, and hypermedia environments. [→ Tessa H. S. Eysink & Ton de Jong 2012](#tessa-h-s-eysink-ton-de-jong-2012)
@@ -31,7 +33,7 @@ sources:
 
 Tessa H. S. Eysink & Ton de Jong (2012). Does Instructional Approach Matter? How Elaboration Plays a Crucial Role in Multimedia Learning. Journal of the Learning Sciences. https://doi.org/10.1080/10508406.2011.611776
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Percentage analysis of coded think-aloud utterances from the 40-participant experiment: observational learners' share of elaborative processing was significantly below all three other environments, with the printed Z and p values for each pairwise comparison.
 

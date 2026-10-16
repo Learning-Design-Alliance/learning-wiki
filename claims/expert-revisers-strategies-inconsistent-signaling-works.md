@@ -15,12 +15,14 @@ sources:
     author: Mary H. Sawyer
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Expert revisers' improvements are inconsistent across texts, with only signaling-structure strategies reliably corresponding to improved retention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In Britton et al.'s (1989) revisions of army training manual passages, only three of revisers' eight strategies corresponded to improved texts, all relating to signaling structure and together accounting for 50% of the variance in performance. [→ Mary H. Sawyer 1991](#mary-h-sawyer-1991)
@@ -31,7 +33,7 @@ sources:
 
 Mary H. Sawyer. (1991). A Review of Research in Revising Instructional Text. Journal of Reading Behavior. https://doi.org/10.1080/10862969109547744
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports Britton et al.'s (1989) studies of expert revisers, where the dependent variable was a 24-hour delayed recall protocol; only the signaling-structure strategies corresponded to improved texts, accounting for "50% of the variance in performance".
 
@@ -41,4 +43,4 @@ The review reports Britton et al.'s (1989) studies of expert revisers, where the
 
 
 ## Related Claims
--
+- [Interest-evoking text revision strategies raised fourth and sixth graders' recall of a history passage but not acquisition of abstract, general information](interest-evoking-strategies-recall-history-passage.md) — related

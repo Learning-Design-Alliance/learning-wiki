@@ -15,12 +15,14 @@ sources:
     author: Lee, Hyeon Woo
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Low-prior-knowledge students struggle to deploy key self-regulatory processes during learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Some research indicates that low-prior domain knowledge students are unsuccessful in regulating learning via key self-regulatory processes such as planning, activating prior knowledge, monitoring understanding, and deploying effective strategies. [→ Lee 2008](#lee-2008)
@@ -31,7 +33,7 @@ sources:
 
 Lee, Hyeon Woo. (2008). The effects of generative learning strategy prompts and metacognitive feedback on learners' self-regulation, generation process, and achievement. Dissertation in Instructional Systems, The Pennsylvania State University. https://etda.libraries.psu.edu
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 The dissertation reports, citing Azevedo, Cuthrie, & Seibert (2004) and Shapiro (2004), that low-prior-knowledge students are "not successful in regulating their learning"; the cited studies' designs are not described in the available text.
 

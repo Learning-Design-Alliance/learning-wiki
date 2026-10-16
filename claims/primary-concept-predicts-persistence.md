@@ -15,12 +15,14 @@ sources:
     author: "Rahimi, S., Shute, V., & Zhang, Q."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # A problem's primary physics concept predicts persistence, with energy can dissipate problems eliciting the most
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Problems with conservation of momentum and properties of torque as primary concepts showed 27% and 7% lower persistence than energy-can-transfer problems, while energy-can-dissipate problems showed 34% higher persistence. [→ Rahimi 2021](#rahimi-2021)
@@ -31,7 +33,7 @@ sources:
 
 Rahimi, S., Shute, V., & Zhang, Q. (2021). The effects of game and student characteristics on persistence in educational games: A hierarchical linear modeling approach. International Journal of Technology in Education and Science (IJTES), 5(2), 141-165. https://doi.org/10.46328/ijtes.118
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 HLM contrasts with energy can transfer (ECT) as reference found POT, COM, and ECD significantly different from ECT, while the ECT–NFL difference (2%) was not statistically significant; the authors rank concepts COM, POT, NFL, ECT, ECD from low to high.
 

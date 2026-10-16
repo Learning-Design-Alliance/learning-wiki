@@ -15,18 +15,22 @@ sources:
     author: Kenneth R. Koedinger, Albert T. Corbett, Charles Perfetti
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
   - id: kenneth-r-koedinger-2010-2
     resource: "http://learnlab.org/research/wiki"
     title: "Kenneth R. Koedinger, Albert T. Corbett, Charles Perfetti. (2010). The Knowledge-Learning-Instruction (KLI) Framework: Toward Bridging the Science-Practice Chasm to Enhance Robust Student Learning. Carnegie Mellon University Technical Report. http://learnlab.org/research/wiki"
     author: Kenneth R. Koedinger, Albert T. Corbett, Charles Perfetti
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # KLI complexity-matching hypothesis: instructional principles of a given complexity are effective for knowledge components of equal or greater complexity but not less complex ones
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` The KLI framework hypothesizes that an instructional principle at a particular complexity level is effective for knowledge components of similar or greater complexity, but not for less complex ones. [→ Kenneth R. Koedinger 2010](#kenneth-r-koedinger-2010)
@@ -38,7 +42,7 @@ sources:
 
 Kenneth R. Koedinger, Albert T. Corbett, Charles Perfetti. (2010). The Knowledge-Learning-Instruction (KLI) Framework: Toward Bridging the Science-Practice Chasm to Enhance Robust Student Learning. Carnegie Mellon University Technical Report. http://learnlab.org/research/wiki
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 This is the authors' central hypothesis stated in the executive summary of the framework paper, not a tested result. The article offers it as a hypothesis-generating claim: 'an instructional principle at a particular level of complexity will be effective for knowledge components of similar complexity and those of greater complexity'.
 
@@ -48,7 +52,7 @@ This is the authors' central hypothesis stated in the executive summary of the f
 
 Kenneth R. Koedinger, Albert T. Corbett, Charles Perfetti. (2010). The Knowledge-Learning-Instruction (KLI) Framework: Toward Bridging the Science-Practice Chasm to Enhance Robust Student Learning. Carnegie Mellon University Technical Report. http://learnlab.org/research/wiki
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 The article presents this as a specific instance of the complexity-matching hypothesis, contrasting self-explanation prompting for complex knowledge components like electric field principles against simpler ones like English articles. It is stated as a hypothesis instance, not an experimental finding in this paper.
 

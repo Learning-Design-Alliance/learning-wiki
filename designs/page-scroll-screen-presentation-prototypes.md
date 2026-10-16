@@ -1,0 +1,51 @@
+---
+type: design
+id: page-scroll-screen-presentation-prototypes
+title: Page and Scroll screen-presentation prototypes
+description: Two HyperTalk word-processing prototypes compared in both experiments.
+status: review
+generated:
+  by: "process:settle-candidates"
+  at: 2026-10-16
+sources:
+  - id: annie-piolat-1997
+    resource: "https://doi.org/10.1006/ijhc.1997.0145"
+    title: "Annie Piolat, Jean-Yves Roussey and Olivier Thunin. (1997). Effects of screen presentation on text reading and revising. International Journal of Human-Computer Studies. https://doi.org/10.1006/ijhc.1997.0145"
+    author: Annie Piolat, Jean-Yves Roussey and Olivier Thunin
+---
+
+# Page and Scroll screen-presentation prototypes
+
+> **Design** · [All designs](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+Two HyperTalk word-processing prototypes compared in both experiments. The Page prototype displayed the text page-by-page with numbered page icons, so "the position of the visible page relative to whole text was always available to participants". The Scroll prototype reproduced conventional scrolling with arrows but, in Experiment 1, deliberately omitted the scroll box, leaving users without an indication of their location in the text. Both showed the same window size and amount of text.
+
+## Design Implications
+
+### Context
+#### Requirements
+- In Experiment 2 the Page prototype required a module that reformatted text after each correction to keep the page-based layout stable
+#### Constraints
+- The display window was purposely made small (18 lines of about 50 characters) so a short 574-word document could be used with low processing load
+
+### Target Learners
+- undergraduate psychology students unfamiliar with word processing
+
+### Learning Goals
+- reading comprehension and spatial encoding of text
+- revising and error correction in written texts
+
+### Claims
+- [Page Presentation Better Sentence Locating](../claims/page-presentation-better-sentence-locating.md) [+M]
+- [Page Revising Coherence Corrections](../claims/page-revising-coherence-corrections.md) [+M]
+
+## Related Designs
+- 
+
+## Examples
+-
+
+## Key Sources
+- Annie Piolat, Jean-Yves Roussey and Olivier Thunin. (1997). Effects of screen presentation on text reading and revising. International Journal of Human-Computer Studies. https://doi.org/10.1006/ijhc.1997.0145

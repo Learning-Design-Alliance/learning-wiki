@@ -15,12 +15,14 @@ sources:
     author: "Henderson, N., Kumaran, V., Min, W., Mott, B., Wu, Z., Boulden, D., Lord, T., Reichsman, F., Dorsey, C., Wiebe, E., & Lester, J."
     q: 2
     i: 3
+    kind: design
+    rigour: 2
 ---
 
 # Students demonstrated significant improvement in genetics knowledge from pre-test to post-test after playing Geniventure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · design `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` A paired t-test revealed significant improvement from pre-test (M = 14.41, SD = 5.826) to post-test (M = 19.33, SD = 6.131) with a large effect size (Cohen's d = 0.823). [→ Henderson 2020](#henderson-2020)
@@ -31,7 +33,7 @@ sources:
 
 Henderson, N., Kumaran, V., Min, W., Mott, B., Wu, Z., Boulden, D., Lord, T., Reichsman, F., Dorsey, C., Wiebe, E., & Lester, J. (2020). Enhancing Student Competency Models for Game-Based Learning with a Hybrid Stealth Assessment Framework. Proceedings of The 13th International Conference on Educational Data Mining (EDM 2020), 92-103. https://educationaldatamining.org/EDM2020/proceedings/
 
-`q2 · i3`
+`q2 · i3` · `design · r2`
 
 One-group pre/post comparison of 316 students' genetics knowledge after classroom gameplay of Geniventure over several days. The paired t-test showed "a significant improvement from pre-test to post-test" with "Cohen's d = 0.823."
 

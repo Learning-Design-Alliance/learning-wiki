@@ -51,3 +51,4 @@ The report's executive summary cites this as one example of findings discussed i
 - [The review reports that simulation games support near transfer of knowledge but evidence for long-term or far transfer is less robust](simulation-near-transfer-robust-far-transfer-weak.md) — related
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — a broader claim this one bears on
 - [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — related
+- [Trainees learn more from simulation games when they have unlimited access to the game](unlimited-access-enhances-simulation-game-learning.md) — related

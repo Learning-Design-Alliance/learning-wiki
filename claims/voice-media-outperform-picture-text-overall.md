@@ -72,3 +72,5 @@ Hypothesis 5 was supported in the experiment: visual-knowledge means were 10.18 
 - [Audiovisual attention decomposition via forward encoding and variance partitioning yields VAC, AAC, and SAC as surrogate indicators, not direct measures of attention](audiovisual-attention-decomposition-surrogate-indicators.md) — related
 - [Animation produces a small overall learning advantage over static graphics in multimedia instruction](animation-small-overall-advantage-over-static-graphics.md) — related
 - [Matching modality by conveying complementary information through auditory and visual channels increases retention, transfer, and engagement](modality-matching-complementary-channels-video.md) — related
+- [APA presentations tend to overload the visual channel, especially with high element interactivity content](apa-visual-channel-overload.md) — related
+- [Media-rich videos combining text, pictures and voiceovers are rated more engaging than text-only videos](media-rich-videos-more-engaging-than-text-only.md) — related

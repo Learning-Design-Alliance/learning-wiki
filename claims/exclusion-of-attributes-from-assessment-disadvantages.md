@@ -15,12 +15,14 @@ sources:
     author: Clair Hughes and Simon Barrie
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Excluding graduate attributes from assessment carries four disadvantages, including that unassessed attributes will not be taken seriously by students or teachers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Knight and Page identify four disadvantages of excluding graduate attributes from assessment plans: they will not be taken seriously, employers value them, governments expect evidence of them, and their assessment supports monitoring and development. [→ Clair Hughes and Simon Barrie 2010](#clair-hughes-and-simon-barrie-2010)
@@ -31,7 +33,7 @@ sources:
 
 Clair Hughes and Simon Barrie. (2010). Influences on the assessment of graduate attributes in higher education. Assessment & Evaluation in Higher Education. https://doi.org/10.1080/02602930903221485
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 The paper reports, citing Knight and Page (2007), four disadvantages of the exclusion option. It further cites Brown and Knight's argument that 'assessment defines what students regard as important, how they spend their time'. These are attributed arguments, not tested findings.
 

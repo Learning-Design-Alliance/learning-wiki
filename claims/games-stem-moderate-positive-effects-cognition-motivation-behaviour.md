@@ -15,12 +15,14 @@ sources:
     author: "Michaela Arztmann, Lisette Hornstra, Johan Jeuring & Liesbeth Kester"
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Game-based learning in primary and early secondary STEM education shows moderate positive effects on cognition, motivation, and behaviour compared to traditional classrooms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Game-based learning shows a moderate positive effect on cognitive outcomes in STEM education (g = .67). [→ Michaela Arztmann 2023](#michaela-arztmann-2023)
@@ -33,7 +35,7 @@ sources:
 
 Michaela Arztmann, Lisette Hornstra, Johan Jeuring & Liesbeth Kester (2023). Effects of games in STEM education: a meta-analysis on the moderating role of student background characteristics. Studies in Science Education, 59:1, 109-145. https://doi.org/10.1080/03057267.2022.2057732
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Random-effects meta-analyses of 39 included papers (43 coded studies, 60 effect sizes) comparing game interventions with traditional classrooms in K1-8 STEM education. The pooled effects favour games: "cognition (g = .67, p < .001)" and motivation g = .51, behaviour g = .93.
 

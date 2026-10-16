@@ -37,7 +37,7 @@ The article proposes two uses of the inventory: for teachers and advisors it fun
 - informed design decisions and complete, comparable reporting of peer assessment practices
 
 ### Affordances
-- [Inventory Peer Assessment Diversity 20 Variables Five Clusters](../theories/inventory-peer-assessment-diversity-20-variables-five-clusters.md)
+- [Inventory Peer Assessment Diversity 20 Variables Five Clusters](../research-methods/inventory-of-peer-assessment-diversity-20-variables-grouped-into-five-clusters.md)
 
 ## Related Strategies
 - 

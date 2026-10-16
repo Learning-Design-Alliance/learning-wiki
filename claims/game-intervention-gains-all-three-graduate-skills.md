@@ -15,12 +15,14 @@ sources:
     author: Matthew Barr
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # An eight-week commercial video game intervention produced significant gains on all three measured graduate skills relative to control, totalling about 14 hours of play
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` All three self-report measures showed significant increases for the intervention group over control, with large effect sizes (Cohen's d between 0.9 and 1.15). [→ Matthew Barr 2017](#matthew-barr-2017)
@@ -31,7 +33,7 @@ sources:
 
 Matthew Barr. (2017). Video games can develop graduate skills in higher education students: A randomised trial. Computers & Education. https://doi.org/10.1016/j.compedu.2017.05.016
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Overall result of the randomised trial: intervention students played specified games under controlled conditions over eight weeks (14 h total across eight games). All three measures showed significant increases and no confidence interval crossed zero; Cronbach's alphas at baseline were 0.88, 0.91 and 0.84.
 

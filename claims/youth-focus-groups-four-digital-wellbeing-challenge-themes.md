@@ -45,3 +45,4 @@ Qualitative findings from two 1-hour focus groups with youth ages 14-18, facilit
 ## Related Claims
 - [Learners face compounding systemic challenges: widening gaps, isolation, and shifting skill demands](systemic-challenges-gaps-isolation-shifting-skills.md) — related
 - [Teens with ASD are described as vulnerable to compulsive internet use that limits in-person social interaction](asd-teens-vulnerable-compulsive-internet-use.md) — related
+- [Pokémon Go play is associated with improved social well-being, belonging, and connection, and reduced anxiety about leaving the house](pokemon-go-social-wellbeing-benefits.md) — related

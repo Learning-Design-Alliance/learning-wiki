@@ -15,12 +15,14 @@ sources:
     author: Kai Kunze, Masakazu Iwamura, Koichi Kise, Seiichi Uchida, and Shinichiro Omachi
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The Wordometer eye-tracking app estimates the number of words a person reads with an average error rate of 6.5 percent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A support vector regression algorithm using detected line breaks and eye-gaze features estimates words read with 6.5 percent average error for 8 users over 10 documents. [→ Kai Kunze 2013](#kai-kunze-2013)
@@ -31,7 +33,7 @@ sources:
 
 Kai Kunze, Masakazu Iwamura, Koichi Kise, Seiichi Uchida, and Shinichiro Omachi. (2013). Activity Recognition for the Mind: Toward a Cognitive “Quantified Self.” Computer, IEEE Computer Society, October 2013. http://kaikunze.de/papers/2013Kunze-1.pdf
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Prototype evaluation of the Wordometer app on the SMI iView X eye tracker: eye movements of users reading English documents were recorded, a line-break detector looked for long saccades against the reading direction, and support vector regression estimated word counts. The article reports an "average error rate of only 6.5 percent for 8 users over 10 documents"; no effect size is printed.
 

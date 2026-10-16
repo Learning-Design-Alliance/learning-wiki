@@ -15,12 +15,14 @@ sources:
     author: Annie Piolat, Jean-Yves Roussey and Olivier Thunin
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Readers locate sentences more accurately after reading a text in page-by-page presentation than in scrolling presentation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Page readers located test sentences with significantly higher accuracy than Scroll readers (mean distance in lines 7.68 vs. 10.56). [→ Annie Piolat 1997](#annie-piolat-1997)
@@ -31,7 +33,7 @@ sources:
 
 Annie Piolat, Jean-Yves Roussey and Olivier Thunin. (1997). Effects of screen presentation on text reading and revising. International Journal of Human-Computer Studies. https://doi.org/10.1006/ijhc.1997.0145
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 1, a controlled lab experiment in which 54 undergraduates read a 574-word expository text in Page or Scroll mode and then pointed to sentence locations. The article reports "a significantly higher degree of accuracy than Scroll" with F(1, 68) = 15.92, p < 0.001.
 

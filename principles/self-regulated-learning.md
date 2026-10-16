@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 61 claims (31 for, 27 mixed, 3 against) · 49 studies (18 causal, 8 quant-synthesis, 8 review, 6 associational, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 15 of 49 report an effect size · 50 claims rest on one study
+> **Evidence** · 63 claims (33 for, 27 mixed, 3 against) · 51 studies (19 causal, 9 quant-synthesis, 8 review, 6 associational, 6 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 15 of 51 report an effect size · 52 claims rest on one study
 
 ## Conditional relationship
 
@@ -121,6 +121,8 @@ Claims read against the model above that do not bear on its relationship, steps 
 - [Combining a structured learning diary with instruction on self-regulated learning increased students' strategy use and self-efficacy](../claims/diary-plus-srl-instruction-raises-strategy-use-self-efficacy.md) [+W] — attached 2026-10-15 from Fabriz et al. (2014), which proposed "Inform students on the benefits of self-monitoring when assigning structured learning diaries, to sustain their motivation"; tests this page's relationship.
 - [Keeping a structured learning diary without further intervention did not improve university students' self-regulation](../claims/learning-diary-alone-no-self-regulation-gain.md) [~W] — attached 2026-10-15 from Fabriz et al. (2014), which proposed "Inform students on the benefits of self-monitoring when assigning structured learning diaries, to sustain their motivation".
 - [Self-regulated problem-solving instruction produced immediate, marked increases in target behaviors for all four students, with a mean of 2.3 training sessions to reach 80% mastery](../claims/problem-solving-instruction-increases-target-behaviors-developmental-disabilities.md) [+W] — attached 2026-10-16 from Agran et al. (2002), which proposed "Use curricular augmentation — teaching self-directed learning strategies — to help students with disabilities succeed in the general curriculum"; tests this page's relationship.
+- [Generative learning strategy prompts with metacognitive feedback yield higher self-regulation, strategy-use quality, recall and comprehension than strategy tools alone, controlling for prior knowledge](../claims/prompts-metacognitive-feedback-beat-tools-alone-generative-learning.md) [+W] — attached 2026-10-16 from Lee (2008), which proposed "Provide cognitive and metacognitive prompts while learners study in computer-based learning environments"; tests this page's relationship.
+- [Scaffolds supporting the whole SRL process are more helpful than scaffolds supporting a single phase](../claims/whole-process-srl-scaffolding-more-effective.md) [+W] — attached 2026-10-16 from Lanqin Zheng (2016), which proposed "Design SRL scaffolds to support the whole self-regulation process using integrated, multiple, and combined domain-general and domain-specific scaffolds".
 
 ## Objective and learner-valued goal
 

@@ -50,3 +50,4 @@ Quasi-experimental matched-comparison analysis of 2,855 treatment students in gr
 - A virtual comparison group matched on pretest, locale, FRL, and test dates achieved baseline equivalence with the treatment group (effect size = -0.03) — related
 - [Rural students overall did not show a significant effect, but low-performing rural students did](vplc-assistments-rural-subgroup-effects.md) — a narrower finding that bears on this claim
 - [Students with lower baseline performance (below the 50th percentile) showed significantly greater math achievement gains with ASSISTments than matched virtual peers](assistments-low-performers-significant-gains.md) — a narrower finding that bears on this claim
+- [Schools using the ASSISTment formative assessment platform significantly outperformed matched schools on the state mathematics test](assistment-schools-outperformed-matched-schools.md) — related

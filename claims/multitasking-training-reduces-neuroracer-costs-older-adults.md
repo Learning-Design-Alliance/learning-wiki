@@ -15,18 +15,22 @@ sources:
     author: "J. A. Anguera, J. Boccanfuso, J. L. Rintoul, O. Al-Hashimi, F. Faraji, J. Janowich, E. Kong, Y. Larraburo, C. Rolle, E. Johnston & A. Gazzaley"
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
   - id: j-a-anguera-2013-2
     resource: "https://doi.org/10.1038/nature12486"
     title: "J. A. Anguera, J. Boccanfuso, J. L. Rintoul, O. Al-Hashimi, F. Faraji, J. Janowich, E. Kong, Y. Larraburo, C. Rolle, E. Johnston & A. Gazzaley. (2013). Video game training enhances cognitive control in older adults. Nature 501. https://doi.org/10.1038/nature12486"
     author: "J. A. Anguera, J. Boccanfuso, J. L. Rintoul, O. Al-Hashimi, F. Faraji, J. Janowich, E. Kong, Y. Larraburo, C. Rolle, E. Johnston & A. Gazzaley"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Multitasking training on adaptive NeuroRacer reduced older adults' multitasking costs beyond active and no-contact controls, exceeding untrained 20-year-olds, with gains persisting 6 months
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Only the multitasking training group significantly improved its multitasking performance index from pre- to post-training, with a session × group interaction favouring MTT over both control groups. [→ J. A. Anguera 2013](#j-a-anguera-2013)
@@ -38,7 +42,7 @@ sources:
 
 J. A. Anguera, J. Boccanfuso, J. L. Rintoul, O. Al-Hashimi, F. Faraji, J. Janowich, E. Kong, Y. Larraburo, C. Rolle, E. Johnston & A. Gazzaley. (2013). Video game training enhances cognitive control in older adults. Nature 501. https://doi.org/10.1038/nature12486
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Experiment 2: randomized longitudinal trial assigning 46 older adults (60–85) to multitasking training (MTT, n = 16), single-task training (STT, n = 15), or no-contact control (NCC, n = 15); 12 h home training over 4 weeks. The interaction gave Cohen's d = 1.10, with "Cohen'sd for MTT vs STT 5 1.02; MTT vs NCC 5 1.20".
 
@@ -48,7 +52,7 @@ Experiment 2: randomized longitudinal trial assigning 46 older adults (60–85) 
 
 J. A. Anguera, J. Boccanfuso, J. L. Rintoul, O. Al-Hashimi, F. Faraji, J. Janowich, E. Kong, Y. Larraburo, C. Rolle, E. Johnston & A. Gazzaley. (2013). Video game training enhances cognitive control in older adults. Nature 501. https://doi.org/10.1038/nature12486
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Follow-up comparison in experiment 3 context: MTT post-training cost (reported as −21.9% at 6 months) was significantly better than the −36.7% cost of untrained 20-year-olds (P < 0.001); no effect size printed, so impact is null. Gains "remained stable 6 months after training without booster sessions".
 
@@ -58,4 +62,4 @@ Follow-up comparison in experiment 3 context: MTT post-training cost (reported a
 
 
 ## Related Claims
--
+- [Brain games produce statistically significant cognitive performance gains in older adults, but gains are modest and do not detect improvements over control tasks or produce far transfer](brain-gains-modest-no-far-transfer.md) — reports the opposite

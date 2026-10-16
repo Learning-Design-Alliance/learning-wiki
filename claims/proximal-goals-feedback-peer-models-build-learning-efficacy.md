@@ -103,3 +103,5 @@ Both entries come from one narrative review (Schunk 1996), which reports the fin
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
 - [Specific, difficult goals lead to higher performance than easy or vague \"do your best\" goals.](specific-difficult-goals-lead-to-higher-performance.md) — related
 - Teacher self-efficacy is associated with student achievement and with implementing new practices — related
+- [Attributional feedback raises self-efficacy and performance, with ability versus effort feedback credibility depending on learners' capabilities and timing](attributional-feedback-credibility-effort-ability.md) — related
+- [Proximal goals produced higher motivation, skill, self-efficacy, and intrinsic interest than distant or general goals](proximal-goals-benefit-efficacy-and-skill.md) — possibly the same claim (merge candidate)

@@ -15,12 +15,14 @@ sources:
     author: Jan Visser
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Learning-stories research indicates meaningful learning involves felt ownership of knowledge, emotional integration, generativity, real-life context, interaction with others' learning, and transformed self-perceptions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Analysis of learning stories found that advance towards meaningful learning focuses on felt ownership of knowledge, emotional integration in lifespan development, generative learning, real-life context, interaction with others' learning, positive self-perception, and persistence. [→ Jan Visser 2006](#jan-visser-2006)
@@ -31,7 +33,7 @@ sources:
 
 Jan Visser. (2006). Learning in a Global Society. Learning Development Institute. https://www.learndev.org
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Qualitative analysis of so-called learning stories reported by Y. L. Visser and J. Visser (2000) and related studies, focusing on individuals' perceptions of learning. The studies found learning was facilitated when negative conditions became positive challenges, role models or emotional support were present, or opportunities for independent exploration and metacognition existed.
 
@@ -41,4 +43,9 @@ Qualitative analysis of so-called learning stories reported by Y. L. Visser and 
 
 
 ## Related Claims
--
+- [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
+- [Students responded most positively to projects that felt authentic and were organized in a clear sequence with manageable milestones](student-engagement-authenticity-clear-sequence.md) — related
+- [When a real-life quilt problem was turned into a contextualized mathematics task, its context dropped out during solving and both designers judged it too school-like](contextualized-real-life-task-reverted-to-pure-mathematics-and-felt-too-school.md) — related
+- [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications](simucase-lacks-behavioral-authenticity.md) — related
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
+- [Interviews indicate individualized AI-generated identity-based relevance was perceived as overly abstract, while collective AI dialogue connected math to current concerns and cross-domain applications](ai-relevance-perceptions-abstract-versus-proximal.md) — related

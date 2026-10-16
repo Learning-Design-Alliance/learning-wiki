@@ -15,12 +15,14 @@ sources:
     author: Yanghee Kim and Amy L. Baylor
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # PALs expressing positive mood were perceived as more facilitating, engaging, and intelligent than negative-mood PALs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Students working with a positive-mood PAL perceived it as significantly more facilitating to learning, more engaging, and more intelligent, and rated motivation to keep working with it higher. [→ Yanghee Kim and Amy L. Baylor 2006](#yanghee-kim-and-amy-l-baylor-2006)
@@ -31,7 +33,7 @@ sources:
 
 Yanghee Kim and Amy L. Baylor. (2006). A Social-Cognitive Framework for Pedagogical Agents as Learning Companions. ETR&D, Vol. 54, No. 6, pp. 569–596. https://doi.org/10.1007/s11423-006-0637-3
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The review reports, citing Kim (2004), a controlled experiment with 142 male and female college students learning introductory instructional design comparing positive versus negative PAL mood expression. Perceptions and motivation favored the positive condition; no effect sizes are printed.
 

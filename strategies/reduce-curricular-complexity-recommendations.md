@@ -37,7 +37,7 @@ From comparing the 60 degree maps, the authors distill five recommendations depa
 - On-time graduation and persistence in the computing major
 
 ### Affordances
-- [Curricular Analytics Complexity Measures](../theories/curricular-analytics-complexity-measures.md)
+- [Curricular Analytics Complexity Measures](../research-methods/curricular-analytics-graph-based-measures-of-degree-program-complexity-blocking-delay-cent.md)
 
 ## Related Strategies
 - 

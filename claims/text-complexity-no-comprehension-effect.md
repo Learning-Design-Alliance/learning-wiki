@@ -15,12 +15,14 @@ sources:
     author: Annette Kujawski Taylor
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Text complexity (basic vs. comprehensive textbook) shows no significant effect on comprehension
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Quiz accuracy did not differ significantly between the basic and comprehensive texts, and complexity did not interact with medium. [→ Annette Kujawski Taylor 2011](#annette-kujawski-taylor-2011)
@@ -31,7 +33,7 @@ sources:
 
 Annette Kujawski Taylor. (2011). Students Learn Equally Well From Digital as From Paperbound Texts. Teaching of Psychology, 38(4), 278-281. https://doi.org/10.1177/0098628311421330
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In the randomized experiment, the complexity factor (basic Stone text vs. comprehensive Krugman and Wells text) was nonsignificant: "59.8% quiz accuracy for the basic text" versus "62.2 % for the comprehensive text".
 
@@ -41,4 +43,5 @@ In the randomized experiment, the complexity factor (basic Stone text vs. compre
 
 
 ## Related Claims
--
+- [College students show no comprehension difference between digital and paperbound textbook reading, immediately or after 1 week](no-comprehension-difference-digital-paper-textbooks.md) — related
+- [No significant interactions emerged between text medium and any other variable (test time, complexity, engagement)](no-interactions-with-text-medium.md) — related

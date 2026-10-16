@@ -15,12 +15,14 @@ sources:
     author: UNESCO Secretariat
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The lifelong learning paradigm, introduced in the 1972 Faure report, links learning to equal opportunity and democratisation of education
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The paradigm of lifelong learning, initially introduced in Learning To Be (1972), is linked to the principle of equal opportunity in the democratisation of education and training opportunities. [→ UNESCO Secretariat 2013](#unesco-secretariat-2013)
@@ -31,7 +33,7 @@ sources:
 
 UNESCO Secretariat. (2013). Rethinking Education in a Changing World. UNESCO Education Research and Foresight. https://unesdoc.unesco.org/
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Definitional/historical statement in the report's 'The Forerunners' section about the origin and linkage of the lifelong learning paradigm. The report describes lifelong learning as "a continuum of learning, expanded to the whole of society, open in time and space". No empirical data are offered; this is the experts' account.
 
@@ -41,4 +43,4 @@ Definitional/historical statement in the report's 'The Forerunners' section abou
 
 
 ## Related Claims
--
+- [PBL offers potential to help students develop flexible understanding and lifelong learning skills](pbl-potential-flexible-understanding-lifelong-learning.md) — related

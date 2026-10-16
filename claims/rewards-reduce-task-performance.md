@@ -15,12 +15,14 @@ sources:
     author: Kohn, Alfie
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # People expecting a reward for a task perform worse than those expecting nothing, especially on tasks requiring cognitive sophistication and open-ended thinking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` At least two dozen studies show people expecting a reward for completing a task do not perform as well as those who expect nothing, with worse performance on more open-ended tasks. [→ Kohn 1994](#kohn-1994)
@@ -31,7 +33,7 @@ sources:
 
 Kohn, Alfie. (1994). The Risks of Rewards. ERIC Digest. ERIC Clearinghouse on Elementary and Early Childhood Education Urbana IL. https://eric.ed.gov/?id=ED376990
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The digest's review section reports that "people expecting to receive a reward for completing a task... simply do not perform as well as those who expect nothing," an effect described as robust across ages, sexes, reward types, and tasks. No effect sizes are printed.
 

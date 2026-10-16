@@ -15,18 +15,22 @@ sources:
     author: "Nicole C. Krämer & Gary Bente"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: nicole-c-krämer-gary-bente-2010-2
     resource: "https://doi.org/10.1007/s10648-010-9123-x"
     title: "Nicole C. Krämer & Gary Bente. (2010). Personalizing e-Learning. The Social Effects of Pedagogical Agents. Educ Psychol Rev. https://doi.org/10.1007/s10648-010-9123-x"
     author: "Nicole C. Krämer & Gary Bente"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Beneficial effects of pedagogical agents are attributed primarily to the agent's voice rather than its visual presence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Studies reviewed attribute agent effects to vocalizations: Rajan et al. showed voice was responsible for AutoTutor's effects, and Moreno's studies found voice responsible for transfer gains. [→ Nicole C. Krämer & Gary Bente 2010](#nicole-c-kramer-gary-bente-2010)
@@ -37,7 +41,7 @@ sources:
 
 Nicole C. Krämer & Gary Bente. (2010). Personalizing e-Learning. The Social Effects of Pedagogical Agents. Educ Psychol Rev. https://doi.org/10.1007/s10648-010-9123-x
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Rajan et al. (2001), that "it is first and foremost the voice that is responsible for these effects" regarding AutoTutor's learning gains.
 
@@ -47,7 +51,7 @@ The review reports, citing Rajan et al. (2001), that "it is first and foremost t
 
 Nicole C. Krämer & Gary Bente. (2010). Personalizing e-Learning. The Social Effects of Pedagogical Agents. Educ Psychol Rev. https://doi.org/10.1007/s10648-010-9123-x
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports that Moreno and colleagues found transfer, not recall, enhanced by agents, and that "the agent ’s voice is responsible" for these effects.
 
@@ -57,4 +61,4 @@ The review reports that Moreno and colleagues found transfer, not recall, enhanc
 
 
 ## Related Claims
--
+- [Agent appearance (iconic vs realistic) shows no significant difference in retention, transfer, or interest](apa-appearance-null-effect.md) — related

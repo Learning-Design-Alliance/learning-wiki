@@ -15,18 +15,22 @@ sources:
     author: "Henderson, N., Kumaran, V., Min, W., Mott, B., Wu, Z., Boulden, D., Lord, T., Reichsman, F., Dorsey, C., Wiebe, E., & Lester, J."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: henderson-2020-2
     resource: "https://educationaldatamining.org/EDM2020/proceedings/"
     title: "Henderson, N., Kumaran, V., Min, W., Mott, B., Wu, Z., Boulden, D., Lord, T., Reichsman, F., Dorsey, C., Wiebe, E., & Lester, J. (2020). Enhancing Student Competency Models for Game-Based Learning with a Hybrid Stealth Assessment Framework. Proceedings of The 13th International Conference on Educational Data Mining (EDM 2020), 92-103. https://educationaldatamining.org/EDM2020/proceedings/"
     author: "Henderson, N., Kumaran, V., Min, W., Mott, B., Wu, Z., Boulden, D., Lord, T., Reichsman, F., Dorsey, C., Wiebe, E., & Lester, J."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Overlapping concepts (sharing post-test questions with other concepts) yield higher student scores and higher model R², and multi-task modeling across all concepts is detrimental for these concepts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students scored significantly higher on overlapping concepts (0.718) than non-overlapping concepts (0.550), and hybrid framework models yielded R² of 0.339 (overlapping) versus 0.157 (non-overlapping). [→ Henderson 2020](#henderson-2020)
@@ -38,7 +42,7 @@ sources:
 
 Henderson, N., Kumaran, V., Min, W., Mott, B., Wu, Z., Boulden, D., Lord, T., Reichsman, F., Dorsey, C., Wiebe, E., & Lester, J. (2020). Enhancing Student Competency Models for Game-Based Learning with a Hybrid Stealth Assessment Framework. Proceedings of The 13th International Conference on Educational Data Mining (EDM 2020), 92-103. https://educationaldatamining.org/EDM2020/proceedings/
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Analysis of 316 students' post-test scores and model performance by concept overlap status in Geniventure. Overlapping concepts achieved "average scores of 0.718 and 0.550" and R² of "0.339 (overlapping) and 0.157 (non-overlapping)."
 
@@ -48,7 +52,7 @@ Analysis of 316 students' post-test scores and model performance by concept over
 
 Henderson, N., Kumaran, V., Min, W., Mott, B., Wu, Z., Boulden, D., Lord, T., Reichsman, F., Dorsey, C., Wiebe, E., & Lester, J. (2020). Enhancing Student Competency Models for Game-Based Learning with a Hybrid Stealth Assessment Framework. Proceedings of The 13th International Conference on Educational Data Mining (EDM 2020), 92-103. https://educationaldatamining.org/EDM2020/proceedings/
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Model selection analysis for overlapping concepts in the hybrid framework. The authors found optimal models were "primarily single-task models" and conclude multi-task modeling "is actually detrimental" for these concepts.
 

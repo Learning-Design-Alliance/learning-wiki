@@ -15,12 +15,14 @@ sources:
     author: "Veletsianos, G. & Miller, C."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # The lived experience of conversing with a pedagogical agent comprises five interdependent phenomenological themes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Individuals experience an overwhelming curiosity and drive to question and understand the pedagogical agent, including trying to stump it. [→ Veletsianos 2008](#veletsianos-2008)
@@ -35,7 +37,7 @@ sources:
 
 Veletsianos, G. & Miller, C. (2008). Conversing with pedagogical agents: A phenomenological exploration of interacting with digital entities. British Journal of Educational Technology, 39, 6, 969-986. https://doi.org/10.1111/j.1467-8535.2007.00797.x
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Hermeneutic phenomenological analysis of two interviews and 11 written reflections from six male and seven female informants who had conversed with agents in natural settings. The analysis identified five themes; informants reported being "completely engaged, in the zone, for 30 minutes" and that "time became void at least for a while".
 
@@ -45,4 +47,5 @@ Hermeneutic phenomenological analysis of two interviews and 11 written reflectio
 
 
 ## Related Claims
--
+- [Curiosity balanced against knowledge-gap overwhelm drives prolonged engagement and memory](curiosity-knowledge-gap-balance-engagement-memory.md) — a broader claim this one bears on
+- [Students anthropomorphized the chatbot and built relationships with it through personal and social questions](children-anthropomorphize-educational-chatbot.md) — related

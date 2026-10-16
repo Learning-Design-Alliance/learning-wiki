@@ -15,12 +15,14 @@ sources:
     author: "Parker, D. R., Field Hoffman, S., Sawilowsky, S., & Rolands, L."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Coached students reported growing use of self-talk as an executive functioning strategy, with one exception
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Nearly all participants described a growing use of self-talk they attributed to coaching, using it to remind themselves of goals, stay on task, and counter self-critical doubts. [→ Parker 2010](#parker-2010)
@@ -31,7 +33,7 @@ sources:
 
 Parker, D. R., Field Hoffman, S., Sawilowsky, S., & Rolands, L. (2010). An Examination of the Effects of ADHD Coaching on University Students' Executive Functioning. Journal of Postsecondary Education and Disability, 24(2), 115-132. https://www.edgefoundation.org
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Emergent theme from the qualitative interviews, framed by the article's note that adults with ADHD are often delayed in developing effective self-talk. Students reported hearing their coach's voice or their own coach-inspired voice during the week.
 

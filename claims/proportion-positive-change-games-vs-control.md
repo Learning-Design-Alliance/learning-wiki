@@ -15,12 +15,14 @@ sources:
     author: Matthew Barr
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # A larger proportion of game-playing students showed positive score change than control students on adaptability and resourcefulness, but not significantly on communication
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Fisher's exact tests found significant group differences in the proportion improving on adaptability (p = 0.03) and resourcefulness (p = 0.014), but not communication (p = 0.24). [→ Matthew Barr 2017](#matthew-barr-2017)
@@ -31,7 +33,7 @@ sources:
 
 Matthew Barr. (2017). Video games can develop graduate skills in higher education students: A randomised trial. Computers & Education. https://doi.org/10.1016/j.compedu.2017.05.016
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Fisher's exact tests on counts of students with positive versus negative score change in the randomised trial. The communication contrast was not significant (p = 0.24); adaptability was 8 (40%) versus 12 (75%), p = 0.03; resourcefulness 8 (40%) versus 13 (81%), p = 0.014.
 

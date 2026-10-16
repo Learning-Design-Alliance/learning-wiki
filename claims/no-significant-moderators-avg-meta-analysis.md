@@ -15,12 +15,14 @@ sources:
     author: Benoit Bediou, Melissa A. Rodgers, Elizabeth Tipton, Richard E. Mayer, C. Shawn Green, and Daphne Bavelier
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # No significant moderators of the action video game effect were found in either meta-analysis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Moderator analyses found no significant moderating influence of cognitive domain, dependent measure type, effect category, recruitment method (cross-sectional), or training duration (intervention). [→ Benoit Bediou 2023](#benoit-bediou-2023)
@@ -31,7 +33,7 @@ sources:
 
 Benoit Bediou, Melissa A. Rodgers, Elizabeth Tipton, Richard E. Mayer, C. Shawn Green, and Daphne Bavelier. (2023). Effects of Action Video Game Play on Cognitive Skills: A Meta-Analysis. Technology, Mind, and Behavior. https://doi.org/10.1037/tmb0000102
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Cross-sectional moderator analysis using AHT-F tests across cognitive domain, dependent measure type, effect category, and recruitment method; all moderator tests were nonsignificant (e.g., cognitive domain "p = .144").
 

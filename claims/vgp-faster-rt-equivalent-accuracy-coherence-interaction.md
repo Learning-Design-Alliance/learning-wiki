@@ -15,12 +15,14 @@ sources:
     author: "Green, C.S., Pouget, A., & Bavelier, D."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # VGPs respond faster than NVGPs with equivalent accuracy, and the RT advantage is larger at low motion coherence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` VGPs and NVGPs showed equivalent accuracy while VGPs responded substantially faster (p-eta2 = .47), and the group factor interacted with motion coherence (p-eta2 = .15), with greater RT decreases at low than high coherence. [→ Green 2010](#green-2010)
@@ -31,7 +33,7 @@ sources:
 
 Green, C.S., Pouget, A., & Bavelier, D. (2010). Improved probabilistic inference as a general learning mechanism with action video games. Current Biology. https://doi.org/10.1016/j.cub.2010.07.040
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Behavioral results of Experiment 1: accuracy did not differ between groups (p-eta2 = .01) but RT did (p-eta2 = .47), and the group × coherence interaction reached significance (p-eta2 = .15), with larger RT differences at low coherence. No standardized effect size beyond p-eta2 is printed.
 

@@ -15,12 +15,14 @@ sources:
     author: Kenneth R. Koedinger, Albert T. Corbett, Charles Perfetti
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Simpler knowledge components are executed faster: correct application times rise from about 3-6 seconds for constant-constant KCs to 10-14 seconds for variable-variable KCs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Learning-curve data from Chinese vocabulary, ESL grammar, and Geometry tutoring units show simpler KCs are applied faster, with correct entry times increasing across KC categories. [→ Kenneth R. Koedinger 2010](#kenneth-r-koedinger-2010)
@@ -31,7 +33,7 @@ sources:
 
 Kenneth R. Koedinger, Albert T. Corbett, Charles Perfetti. (2010). The Knowledge-Learning-Instruction (KLI) Framework: Toward Bridging the Science-Practice Chasm to Enhance Robust Student Learning. Carnegie Mellon University Technical Report. http://learnlab.org/research/wiki
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Learning-curve analysis of student performance data from computer-based tutoring systems in Chinese, English as Second Language, and Geometry units, plotted in Figure 2. The text reports Chinese vocabulary facts take 'about three to six seconds', English articles 'about six to ten seconds', and Geometry area KCs 'about ten to fourteen seconds' for correct entry.
 

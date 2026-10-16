@@ -15,12 +15,14 @@ sources:
     author: "Martinez-Garza, M. M., & Clark, D. B."
     q: 3
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Improvement in conceptually-laden in-game challenges over gameplay is strongly moderated by prior physics knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Students generally improved performance on conceptually-laden challenges as gameplay progressed, but this improvement was strongly moderated by prior knowledge of physics. [→ Martinez-Garza 2017](#martinez-garza-2017)
@@ -31,7 +33,7 @@ sources:
 
 Martinez-Garza, M. M., & Clark, D. B. (2017). Investigating Epistemic Stances in Game Play with Data Mining. International Journal of Gaming and Computer-Mediated Simulations, 9(3). https://doi.org/10.4018/IJGCMS.2017070101
 
-`q3 · i?`
+`q3 · i?` · `associational · r?`
 
 Research Question 2 examined whether differences in gameplay in conceptually-laden challenges correlated with performance on a conceptual knowledge test. The article found students "generally improve their performance in these challenges as gameplay progresses" with improvement "strongly moderated by their prior knowledge of physics".
 

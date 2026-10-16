@@ -142,3 +142,4 @@ The review attributes this to Stahl (1999), a reading researcher, and notes Will
 - [Preferences for visualizing predictions with metaphors were a matter of personal choice, with students wanting to choose their own metaphor](metaphor-preference-personal-choice.md) — related
 - [Learning styles have been used in education for classifying students by their preferences for taking in, processing, and demonstrating information](learning-styles-classify-student-preferences.md) — related
 - The range of multiplatform activity types and multiple representations of NGSS-aligned concepts engaged students with different learning preferences and abilities — reports the opposite
+- [Cultural research found Australian Aborigines strong in spatial-visual processing and preferring informal learning strategies](aboriginal-spatial-visual-informal-learning.md) — related

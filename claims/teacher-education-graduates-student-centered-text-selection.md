@@ -15,18 +15,22 @@ sources:
     author: "Nathan, M. J., Koedinger, K. R., & Alibali, M. W."
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: nathan-2001-2
     resource: "https://www.google.com/search?q=%22Expert+Blind+Spot%22+Nathan+Koedinger+Alibali"
     title: "Nathan, M. J., Koedinger, K. R., & Alibali, M. W. (2001). Expert Blind Spot: When Content Knowledge Eclipses Pedagogical Content Knowledge. Proceeding of the Third International Conference on Cognitive Science. https://www.google.com/search?q=%22Expert+Blind+Spot%22+Nathan+Koedinger+Alibali"
     author: "Nathan, M. J., Koedinger, K. R., & Alibali, M. W."
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # In Grossman's case study, English teachers without formal teacher education adopted text-centered instruction, while teacher education graduates adopted student-centered instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Teachers with no formal teacher education used subject matter knowledge as the lens on instruction, promoting a text-centered view poorly matched to most high school students. [→ Nathan 2001](#nathan-2001)
@@ -38,7 +42,7 @@ sources:
 
 Nathan, M. J., Koedinger, K. R., & Alibali, M. W. (2001). Expert Blind Spot: When Content Knowledge Eclipses Pedagogical Content Knowledge. Proceeding of the Third International Conference on Cognitive Science. https://www.google.com/search?q=%22Expert+Blind+Spot%22+Nathan+Koedinger+Alibali
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Grossman's (1990) comparative case study of six secondary English teachers, all strong in subject matter knowledge but differing in teacher preparation. The article reports the non-teacher-education teachers promoted a text-centered view emphasizing detailed textual analysis; no effect size is printed.
 
@@ -48,7 +52,7 @@ Grossman's (1990) comparative case study of six secondary English teachers, all 
 
 Nathan, M. J., Koedinger, K. R., & Alibali, M. W. (2001). Expert Blind Spot: When Content Knowledge Eclipses Pedagogical Content Knowledge. Proceeding of the Third International Conference on Cognitive Science. https://www.google.com/search?q=%22Expert+Blind+Spot%22+Nathan+Koedinger+Alibali
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 In the comparative analysis, teacher education graduates chose 78% adolescent literature versus 22% canonical texts, while teachers with no formal education classes chose mostly (72%) canonical texts. These are descriptive percentages; no effect size is printed.
 

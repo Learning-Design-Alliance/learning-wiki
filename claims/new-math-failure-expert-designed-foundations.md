@@ -15,12 +15,14 @@ sources:
     author: "Nathan, M. J., Koedinger, K. R., & Alibali, M. W."
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The New Math movement failed because its foundational concepts were designed to highlight the domain's organization with little regard to how it was to be learned or taught
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The article attributes the failure of the 1950s New Math curriculum to mathematicians designing foundations around the logical organization of the domain, blinding them to the struggles of novice students and non-expert teachers. [→ Nathan 2001](#nathan-2001)
@@ -31,7 +33,7 @@ sources:
 
 Nathan, M. J., Koedinger, K. R., & Alibali, M. W. (2001). Expert Blind Spot: When Content Knowledge Eclipses Pedagogical Content Knowledge. Proceeding of the Third International Conference on Cognitive Science. https://www.google.com/search?q=%22Expert+Blind+Spot%22+Nathan+Koedinger+Alibali
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 This is the article's historical interpretation (type e) of the New Math movement, based on NCTM (1970) accounts and critics' arguments that the pedagogy over-emphasized formal structure and notation, did not motivate students, and lacked staff development. No effect size is printed.
 

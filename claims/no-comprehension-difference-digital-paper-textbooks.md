@@ -15,12 +15,14 @@ sources:
     author: Annette Kujawski Taylor
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # College students show no comprehension difference between digital and paperbound textbook reading, immediately or after 1 week
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Quiz comprehension did not differ significantly between students reading a digital versus paperbound text, at either immediate or 1-week delayed testing. [→ Annette Kujawski Taylor 2011](#annette-kujawski-taylor-2011)
@@ -31,7 +33,7 @@ sources:
 
 Annette Kujawski Taylor. (2011). Students Learn Equally Well From Digital as From Paperbound Texts. Teaching of Psychology, 38(4), 278-281. https://doi.org/10.1177/0098628311421330
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Randomized experiment: 74 introductory psychology students read a microeconomics chapter on supply and demand from either a paperbound or digital text and took a 20-item multiple-choice quiz immediately and 1 week later. The medium comparison was "nonsignificant" (paper 61.5%, digital 60.4%).
 
@@ -41,4 +43,7 @@ Randomized experiment: 74 introductory psychology students read a microeconomics
 
 
 ## Related Claims
--
+- [Quiz accuracy declines from immediate to 1-week delayed testing regardless of text medium](quiz-accuracy-declines-after-one-week-delay.md) — related
+- [Text complexity (basic vs. comprehensive textbook) shows no significant effect on comprehension](text-complexity-no-comprehension-effect.md) — related
+- [No significant interactions emerged between text medium and any other variable (test time, complexity, engagement)](no-interactions-with-text-medium.md) — a broader claim this one bears on
+- [Engagement via annotation (underlining, highlighting, notes) shows no significant effect on comprehension](annotation-engagement-no-comprehension-effect.md) — related

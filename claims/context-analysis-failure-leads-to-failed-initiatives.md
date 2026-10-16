@@ -15,12 +15,14 @@ sources:
     author: "Arias, S., & Clark, K. A."
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Failure to analyze the broad context is said to lead to failed instructional design initiatives in developing countries
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Researchers cited by the authors state that failure to analyze the broad context surrounding the instructional event will inevitably lead to countless failed instructional design initiatives in developing countries. [→ Arias 2004](#arias-2004)
@@ -31,7 +33,7 @@ sources:
 
 Arias, S., & Clark, K. A. (2004). Instructional Technologies in Developing Countries: A Contextual Analysis Approach. TechTrends, 48(4), 52-55. https://link.springer.com/journal/11528
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Theoretical argument in the article's introduction, attributed to Romiszowski and Weston. The article offers no empirical data of its own for this assertion; it is cited as motivation for the adapted model.
 

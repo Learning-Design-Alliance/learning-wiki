@@ -45,3 +45,4 @@ Exploratory factor analysis (principal axis factoring, Promax rotation) on the i
 ## Related Claims
 - [GenAI-supported SRL in L2 writing has a six-factor latent structure spanning cognitive, metacognitive, motivational, affective, social-behavioral, and environmental regulation](genai-srl-six-factor-structure-l2-writing.md) — related
 - [Exploratory factor analysis identifies six factors aligned with the ED-AI framework, explaining 63.965% of total variance](tails-efa-six-factors-variance.md) — related
+- [Factor analysis of technology-based SRL strategies yields nine factors explaining 54.904% of variance](nine-srl-technology-strategy-factors.md) — related

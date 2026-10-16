@@ -15,12 +15,14 @@ sources:
     author: "Martinez-Garza, M. M., & Clark, D. B."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Principal components analysis of 16,239 gameplay attempts reduced 23 variables to three components explaining 72.1% of variance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` PCA on the attempt-level dataset returned three components with eigenvalues greater than 1 accounting for 72.1% of variance, spanning planning activity, par-metric change, and abort/consecutive-failure behavior. [→ Martinez-Garza 2017](#martinez-garza-2017)
@@ -31,7 +33,7 @@ sources:
 
 Martinez-Garza, M. M., & Clark, D. B. (2017). Investigating Epistemic Stances in Game Play with Data Mining. International Journal of Gaming and Computer-Mediated Simulations, 9(3). https://doi.org/10.4018/IJGCMS.2017070101
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Dimensionality-reduction analysis of the Study 2 log corpus (16,239 attempts x 23 variables) using FactoMineR in R. The PCA "returned 3 components with eigenvalues greater than 1"; Component 1 loaded on modifications, trajectory additions, planning time, and effective actions added, Component 2 on the par metric and its change, Component 3 on aborting and consecutive same-place failures.
 

@@ -15,12 +15,14 @@ sources:
     author: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Study preferences exist and show some stability, but this alone does not justify learning-styles assessment in education
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` People reliably express preferences for how information is presented, but the existence of such preferences does not imply that tailoring instruction to them improves learning. [→ Pashler 2009](#pashler-2009)
@@ -31,7 +33,7 @@ sources:
 
 Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2009). Learning Styles: Concepts and Evidence. Psychological Science in the Public Interest, Volume 9 Number 3. https://journals.sagepub.com/
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Review's conceptual analysis distinguishing preference existence from the learning-styles hypothesis, citing questionnaire reliability evidence and Massa and Mayer's finding that preference instruments correlated with the mode of elaboration college students chose in an electronics lesson. The review stresses preferences' implications for educational practice are minimal.
 

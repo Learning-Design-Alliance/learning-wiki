@@ -15,12 +15,14 @@ sources:
     author: "Means, Toyama, Murphy, Bakia, & Jones"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Online learning effectiveness was broadly positive across content areas and learner types, but the mean effect was not significant for the seven K–12 contrasts and the learner-type moderator test was nonsignificant.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Online learning appeared effective for undergraduates (mean effect +0.35, p < .001) and graduate students/professionals (+0.17, p < .05); the mean effect size was not significant for the seven K–12 contrasts, and the test for learner type as a moderator variable was nonsignificant. [→ Means 2009](#means-2009)
@@ -31,7 +33,7 @@ sources:
 
 Means, Toyama, Murphy, Bakia, & Jones. (2009). Evaluation of Evidence-Based Practices in Online Learning: A Meta-Analysis and Review of Online Learning Studies. U.S. Department of Education. https://www.ed.gov/about/offices/list/opepd/ppss/reports.html
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Learner-type moderator analysis across the 51 contrasts; the K–12 subset comprised seven contrasts from five studies. Of the K–12 contrasts, three favored blended conditions significantly, one favored face-to-face significantly, and three did not attain significance.
 

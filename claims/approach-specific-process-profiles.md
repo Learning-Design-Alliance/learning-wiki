@@ -15,12 +15,14 @@ sources:
     author: "Tessa H. S. Eysink & Ton de Jong"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The self-explanation-based environment elicits the most (self-)explanations and the inquiry environment elicits high hypothesis generation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Learners in the self-explanation-based environment gave significantly more (self-)explanations than learners in the observational and hypermedia environments, and inquiry learners also gave more than observational learners. [→ Tessa H. S. Eysink & Ton de Jong 2012](#tessa-h-s-eysink-ton-de-jong-2012)
@@ -31,7 +33,7 @@ sources:
 
 Tessa H. S. Eysink & Ton de Jong (2012). Does Instructional Approach Matter? How Elaboration Plays a Crucial Role in Multimedia Learning. Journal of the Learning Sciences. https://doi.org/10.1080/10508406.2011.611776
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Bonferroni-corrected Mann-Whitney pairwise comparisons on the giving-(self-)explanations subcategory of the think-aloud protocol data, showing the self-explanation environment produced the most explanation utterances.
 

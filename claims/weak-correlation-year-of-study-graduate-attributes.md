@@ -15,12 +15,14 @@ sources:
     author: Matthew Barr
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Graduate attribute attainment correlates only extremely weakly with years spent at university
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Correlations between year of study and attribute measures were extremely weak; the resourcefulness correlation was meaningless (rho = −0.0004, p = 0.987) and the significant positive correlations for other measures were very small. [→ Matthew Barr 2020](#matthew-barr-2020)
@@ -31,7 +33,7 @@ sources:
 
 Matthew Barr. (2020). A cross-sectional study of video game play habits and graduate skills attainment. Research in Learning Technology. https://doi.org/10.25304/rlt.v28.2326
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Correlational analysis of the survey (Table 2, Spearman's rho). The article reports the year-of-study correlation with resourcefulness as −0.0004 (p = 0.987) and challenges assumptions that attributes develop with years at university.
 

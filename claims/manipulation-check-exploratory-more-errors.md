@@ -15,12 +15,14 @@ sources:
     author: "Bell, B. S., & Kozlowski, S. W. J."
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Manipulation check: instructional condition significantly affected errors made during training, with exploratory learning producing more errors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` The nature of instruction had a significant effect on the number of errors trainees made during training, F(1, 345) = 101.51, p < .01, with exploratory learning leading to more errors. [→ Bell 2008](#bell-2008)
@@ -31,7 +33,7 @@ sources:
 
 Bell, B. S., & Kozlowski, S. W. J. (2008). Active learning: Effects of core training design elements on self-regulatory processes, learning, and adaptability. Journal of Applied Psychology, 93(2), 296-316. http://digitalcommons.ilr.cornell.edu/articles/410/
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Manipulation-check analysis reported at the end of training: the instructional manipulation was validated both by self-report (81.4% of proceduralized-condition participants agreed they followed the step-by-step instructions) and by the error-rate test quoted. The supplied text is truncated mid-sentence on the direction statement.
 

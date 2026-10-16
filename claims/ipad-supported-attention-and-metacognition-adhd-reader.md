@@ -15,12 +15,14 @@ sources:
     author: "McClanahan, B., Williams, K., Kennedy, E., & Tate, S."
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # The iPad helped a student with ADHD focus attention and become more metacognitive about his reading
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The iPad helped the student focus attention and facilitated his becoming much more metacognitive in his reading. [→ McClanahan 2012](#mcclanahan-2012)
@@ -31,7 +33,7 @@ sources:
 
 McClanahan, B., Williams, K., Kennedy, E., & Tate, S. (2012). A Breakthrough for Josh: How Use of an iPad Facilitated Reading Improvement. TechTrends, 56(3). https://link.springer.com/journal/11528
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 Qualitative observation from the case study. During initial testing Josh could not stay focused, but while working on an iPad game he "sat perfectly still for at least 10 minutes and stayed totally focused on the game." Metacognition appeared when he realized he needed to slow down while reading aloud.
 

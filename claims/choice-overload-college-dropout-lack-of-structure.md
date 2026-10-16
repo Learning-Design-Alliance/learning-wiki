@@ -15,12 +15,14 @@ sources:
     author: Adam M. Lavecchia, Heidi Liu, and Philip Oreopoulos
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # An abundance of choices can worsen education decisions, contributing to college dropout when combined with a lack of structure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The abundance of choices available to college students for programs of study, courses, and schedules may be contributing to high dropout rates, especially when combined with a lack of structure. [→ Adam M. Lavecchia 2014](#adam-m-lavecchia-2014)
@@ -31,7 +33,7 @@ sources:
 
 Adam M. Lavecchia, Heidi Liu, and Philip Oreopoulos. (2014). Behavioral Economics of Education: Progress and Possibilities. NBER Working Paper No. 20609. http://www.nber.org/papers/w20609
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Scott-Clayton (2011b), an argument that abundant choices in college may contribute to high dropout rates, especially with a lack of structure; this is an attributed argument, not a tested effect, and no effect size is printed.
 

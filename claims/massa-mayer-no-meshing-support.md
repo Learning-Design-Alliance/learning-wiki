@@ -15,12 +15,14 @@ sources:
     author: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R."
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Massa and Mayer's three experiments found no support for matching instruction to visualizer–verbalizer preferences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In a replicated set of experiments, learners who received help screens matched to their verbal/visual preferences showed no performance advantage, across nearly 20 individual-difference measures. [→ Pashler 2009](#pashler-2009)
@@ -31,7 +33,7 @@ sources:
 
 Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2009). Learning Styles: Concepts and Evidence. Psychological Science in the Public Interest, Volume 9 Number 3. https://journals.sagepub.com/
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Set of three experiments using a computer-based electronics lesson with verbal or visual help screens, with preference-based and ability-based measures sorting learners. Results were replicated and "showed no tendency for better performance for those who received help screens matched to their preferences," despite exhaustive analysis of nearly 20 individual-difference measures.
 

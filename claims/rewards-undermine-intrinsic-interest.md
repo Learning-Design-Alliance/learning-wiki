@@ -15,12 +15,14 @@ sources:
     author: Kohn, Alfie
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Rewards cause people to lose interest in whatever they were rewarded for doing, undermining intrinsic motivation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In the kefir study, children rewarded for drinking an unfamiliar beverage found it significantly less appealing a week later, while unrewarded children liked it as much as or more than before. [→ Kohn 1994](#kohn-1994)
@@ -31,7 +33,7 @@ sources:
 
 Kohn, Alfie. (1994). The Risks of Rewards. ERIC Digest. ERIC Clearinghouse on Elementary and Early Childhood Education Urbana IL. https://eric.ed.gov/?id=ED376990
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The digest describes one representative study (Birch et al., 1984) in which young children drank kefir under praise, treat-promise, or no-reward conditions; rewarded children "found it significantly less appealing" a week later. No effect size is printed.
 

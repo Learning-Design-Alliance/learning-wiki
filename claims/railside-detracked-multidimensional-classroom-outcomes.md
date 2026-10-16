@@ -15,12 +15,14 @@ sources:
     author: "Na'ilah Suad Nasir, Victoria Hand and Edd V. Taylor"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # In Railside's detracked, Complex Instruction classrooms, students from diverse racial and ethnic backgrounds pursued higher-level math courses and greater interest over five years
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Boaler's Railside High School study, over five years students from diverse racial and ethnic backgrounds both pursued higher-level mathematics courses throughout high school and were more interested in the mathematics they were doing. [→ Na'ilah Suad Nasir 2008](#nailah-suad-nasir-2008)
@@ -31,7 +33,7 @@ sources:
 
 Na'ilah Suad Nasir, Victoria Hand and Edd V. Taylor. (2008). Culture and Mathematics in School: Boundaries between "Cultural" and "Domain" Knowledge in the Mathematics Classroom and Beyond. Review of Research in Education, Vol. 32. https://doi.org/10.3102/0091732X07308962
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review describes Boaler's Railside study, where detracked math classrooms used Complex Instruction with groupworthy tasks under group accountability, producing "multidimensional mathematics classrooms that broaden what it means to be 'smart'." The five-year outcomes are reported as the study's finding; no effect sizes are printed.
 

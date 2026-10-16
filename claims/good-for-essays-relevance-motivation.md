@@ -15,18 +15,22 @@ sources:
     author: Marrs, K.A., and Novak, G.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: marrs-2004-2
     resource: "https://doi.org/10.1187/cbe.03-11-0022"
     title: "Marrs, K.A., and Novak, G. (2004). Just-in-Time Teaching in Biology: Creating an Active Learner Classroom Using the Internet. Cell Biology Education 3, 49–61. https://doi.org/10.1187/cbe.03-11-0022"
     author: Marrs, K.A., and Novak, G.
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Optional 'What is Biology Good For?' essays achieved >75% weekly participation and >90% of students reported they made science relevance clear
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a given week, more than 75% of N100 students submitted responses to the optional Good For essays, worth only 30 of 600 semester points. [→ Marrs 2004](#marrs-2004)
@@ -38,7 +42,7 @@ sources:
 
 Marrs, K.A., and Novak, G. (2004). Just-in-Time Teaching in Biology: Creating an Active Learner Classroom Using the Internet. Cell Biology Education 3, 49–61. https://doi.org/10.1187/cbe.03-11-0022
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Participation report for the optional extra-credit Good For essays in Contemporary Biology N100, worth 3 points per question for a total of 30 of 600 semester points. The article reports more than 75% weekly submission despite the small credit value.
 
@@ -48,7 +52,7 @@ Participation report for the optional extra-credit Good For essays in Contempora
 
 Marrs, K.A., and Novak, G. (2004). Just-in-Time Teaching in Biology: Creating an Active Learner Classroom Using the Internet. Cell Biology Education 3, 49–61. https://doi.org/10.1187/cbe.03-11-0022
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Student rating survey of the Good For assignments in N100. The article reports over 90% of students questioned (n = 170) said the essays made them understand the relevance of science to their lives; no inferential test is printed.
 

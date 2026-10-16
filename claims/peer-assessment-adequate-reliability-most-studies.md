@@ -15,18 +15,22 @@ sources:
     author: Keith Topping
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: keith-topping-1998-2
     resource: "https://doi.org/10.3102/00346543068003249"
     title: "Keith Topping. (1998). Peer Assessment Between Students in Colleges and Universities. Review of Educational Research. https://doi.org/10.3102/00346543068003249"
     author: Keith Topping
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Peer marks and grades show acceptably high reliability with teachers' marks in most comparison studies, but a substantial minority report low reliability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Of 25 studies comparing teacher and peer marks or grades, 18 (72%) reported acceptably high reliability. [→ Keith Topping 1998](#keith-topping-1998)
@@ -38,7 +42,7 @@ sources:
 
 Keith Topping. (1998). Peer Assessment Between Students in Colleges and Universities. Review of Educational Research. https://doi.org/10.3102/00346543068003249
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Narrative review synthesis of 31 reliability studies in higher education, most focusing on scores and grades. The review reports "18 (72%) reported acceptably high reliability", sometimes with coefficients such as r = .88, and notes peer marks sometimes clustered around the median.
 
@@ -48,7 +52,7 @@ Narrative review synthesis of 31 reliability studies in higher education, most f
 
 Keith Topping. (1998). Peer Assessment Between Students in Colleges and Universities. Review of Educational Research. https://doi.org/10.3102/00346543068003249
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review's summary of its 31 reliability/validity studies: a majority support adequacy, but "a substantial minority (7)" found unacceptably low reliability in particular projects, including essay writing, oral presentations and group-project contributions. Low-reliability studies may be less likely to be published.
 
@@ -58,4 +62,7 @@ The review's summary of its 31 reliability/validity studies: a majority support 
 
 
 ## Related Claims
--
+- [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — related
+- [Human-LLM agreement is moderated by code properties, multi-model consensus, and model-reported confidence](agreement-moderators-tiers-consensus-confidence.md) — related
+- [Peer assessment through tests, marks, and grades produces learning gains and reduced anxiety, with most participants reporting learning benefits](peer-marks-tests-learning-gains.md) — related
+- [Peer assessment of professional skills shows adequate reliability including in medicine, with outcomes generally at least equivalent to teacher assessment](peer-professional-skills-reliability-outcomes.md) — a narrower finding that bears on this claim

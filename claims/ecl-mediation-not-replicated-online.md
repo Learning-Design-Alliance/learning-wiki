@@ -15,12 +15,14 @@ sources:
     author: "Kienitz, A., Krebs, M.-C., & Eitel, A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Extraneous cognitive load did not mediate the detrimental effect of seductive details in this online study
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` No significant mediation of learning outcomes via extraneous cognitive load was found for recall or transfer. [→ Kienitz 2023](#kienitz-2023)
@@ -31,7 +33,7 @@ sources:
 
 Kienitz, A., Krebs, M.-C., & Eitel, A. (2023). Seductive details hamper learning even when they do not disrupt. Instructional Science. https://doi.org/10.1007/s11251-023-09632-w
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Mediation analysis testing the cognitive load hypothesis found the no-prompt vs. control/irrelevance contrast raised ECL (recall: b = 0.12, p = .010; transfer: b = 0.11, p = .031), but ECL did not significantly influence recall (b = -0.17, p = .105) or transfer (b = -0.13, p = .577).
 

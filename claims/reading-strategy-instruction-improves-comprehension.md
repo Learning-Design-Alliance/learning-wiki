@@ -101,3 +101,4 @@ Meta-analysis of 52 studies (125 effect sizes) testing reading-strategy interven
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
 - [Scaffolded Close Reading Improves Comprehension For Struggling Readers](scaffolded-close-reading-improves-comprehension-for-struggling-readers.md) — related
 - [Self-questioning improves comprehension](self-questioning-improves-comprehension.md) — a narrower finding that bears on this claim
+- [Comprehension instruction in resource rooms consisted mostly of teacher question-and-answer monitoring rather than explicit comprehension-strategy instruction](comprehension-monitoring-dominates-strategy-instruction-scarce.md) — related

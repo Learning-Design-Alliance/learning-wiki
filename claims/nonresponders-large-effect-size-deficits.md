@@ -15,12 +15,14 @@ sources:
     author: "Al Otaiba, S., & Fuchs, D."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Always responsive students showed large effect-size advantages over nonresponsive students, with the largest effect sizes ranging from 0.58 to 1.72
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Effect sizes for always responsive versus nonresponsive students reached 1.72 at the top of the printed range, with the largest ESs in absolute value ranging from 0.58 to 1.72. [→ Al Otaiba 2006](#al-otaiba-2006)
@@ -31,7 +33,7 @@ sources:
 
 Al Otaiba, S., & Fuchs, D. (2006). Who Are the Young Children for Whom Best Practices in Reading Are Ineffective? An Experimental and Longitudinal Study. Journal of Learning Disabilities, 39(5), 414-431. https://journals.sagepub.com/doi/10.1177/00222194060390050401
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Effect sizes computed as mean differences divided by pooled standard deviations (Hedges & Olkin, 1985) across the three responsiveness groups. The largest ESs "ranged from 0.58 to 1.72" for always responsive versus nonresponsive students, with the top value ES = 1.72 (Grammatical Closure).
 

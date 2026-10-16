@@ -15,12 +15,14 @@ sources:
     author: Mayer, Richard E.
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Five hours of Tetris play improved some mental rotation measures but not most spatial skill measures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Students required to play Tetris for five hours showed greater pretest-to-posttest gains in some measures of mental rotation than non-playing students, with no differences on most spatial skill measures. [→ Mayer 2014](#mayer-2014)
@@ -31,7 +33,7 @@ sources:
 
 Mayer, Richard E. (2014). Computer Games for Learning: An Evidence-Based Approach. The MIT Press. http://direct.mit.edu/books/monograph/4028/bookpreview-pdf/2362507
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Cognitive consequences study from the author's lab comparing pretest-to-posttest change for students required to play Tetris for five hours against students who did not play. Gains appeared in "some measures of mental rotation" but not on most spatial skill measures. No effect sizes are printed in the text.
 

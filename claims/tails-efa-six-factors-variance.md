@@ -45,3 +45,4 @@ Exploratory factor analysis (PCA with varimax rotation) with sample 1 (N = 165);
 ## Related Claims
 - [Exploratory factor analysis of the reduced item pool yields a six-factor solution explaining 73.76% of variance](sfailq-efa-six-factor-solution.md) — related
 - [GenAI-supported SRL in L2 writing has a six-factor latent structure spanning cognitive, metacognitive, motivational, affective, social-behavioral, and environmental regulation](genai-srl-six-factor-structure-l2-writing.md) — related
+- [Factor analysis of technology-based SRL strategies yields nine factors explaining 54.904% of variance](nine-srl-technology-strategy-factors.md) — related

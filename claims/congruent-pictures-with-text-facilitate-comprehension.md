@@ -15,12 +15,14 @@ sources:
     author: Innwoo Park and Michael J. Hannafin
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Congruent pictures paired with text facilitate reading comprehension better than text alone or pictures alone
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Congruent pictures paired with text generally facilitate reading comprehension over either text alone or pictures alone, supporting the principle that learning improves as complementary stimuli increase. [→ Innwoo Park and Michael J. Hannafin 1993](#innwoo-park-and-michael-j-hannafin-1993)
@@ -31,7 +33,7 @@ sources:
 
 Innwoo Park and Michael J. Hannafin. (1993). Empirically-Based Guidelines for the Design of Interactive Multimedia. Educational Technology Research and Development, Vol. 41, No. 3, pp. 63-85. http://www.jstor.org/stable/30218388
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Levie and Lentz (1982), that "Congruent pictures paired with text generally facilitate reading comprehension over either text alone or pictures alone." Learning tends to be strongest when pictures supply redundant, supplemental, or additional coding stimuli, consistent with Paivio's dual coding hypothesis. The design implication is to present information using multiple, complementary symbols, formats, and perspectives.
 

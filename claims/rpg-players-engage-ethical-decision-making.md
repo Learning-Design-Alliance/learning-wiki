@@ -15,12 +15,14 @@ sources:
     author: "Simkins, D. W., & Steinkuehler, C."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Players of RPGs engage in ethical decision making as part of their game play, and games under the right conditions have the potential to foster critical ethical reasoning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Players of RPGs engage in ethical decision making as part of their game play, and games, under the right set of conditions, have at least the potential to foster critical ethical reasoning. [→ Simkins 2008](#simkins-2008)
@@ -31,7 +33,7 @@ sources:
 
 Simkins, D. W., & Steinkuehler, C. (2008). Critical ethical reasoning and role-play. Games and Culture. https://doi.org/10.1177/1555412008317313
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Qualitative ethnographic interview study of 10 expert role-players drawn from an interlinked role-playing community; semistructured interviews asked participants to recount a single engaging ethical decision scene. The authors conclude that "players of RPGs engage in ethical decision making as part of their game play" with potential to foster critical ethical reasoning. No effect size is reported.
 
@@ -41,4 +43,5 @@ Qualitative ethnographic interview study of 10 expert role-players drawn from an
 
 
 ## Related Claims
--
+- [The authors hypothesize that violent role-playing games appear to engage individuals in ethical reasoning that may foster empathy, tolerance, and understanding rather than inuring them to violence](rpgs-may-foster-empathy-not-inure.md) — a narrower finding that bears on this claim
+- [Casual games yield social and emotional benefits when sought for those purposes, played mindfully, and used within robust social contexts, but negative effects in other contexts](casual-games-social-emotional-benefits-context-dependent.md) — a broader claim this one bears on

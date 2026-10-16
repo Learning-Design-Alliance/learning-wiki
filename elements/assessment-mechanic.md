@@ -26,7 +26,7 @@ sources:
 # Assessment Mechanic
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 mixed) · 4 studies (2 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 2 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (3 for, 3 mixed) · 7 studies (2 quant-synthesis, 2 associational, 2 theoretical, 1 review), `q1`–`q4` · 3 of 7 report an effect size · 5 claims rest on one study
 
 ## Description
 Games instrument themselves. Every action a player takes can be written to a log, which means a game is already collecting far more evidence about how a learner is thinking than a test administered afterwards ever could — *provided the actions it records are the ones worth interpreting*. An **assessment mechanic** is the design construct that makes that proviso hold. Plass and colleagues define it in the same parallel to Salen and Zimmerman that gives us the [Learning Mechanic](learning-mechanic.md):
@@ -80,6 +80,10 @@ The source's central warning is that instantiating an assessment mechanic as a g
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Behavioural analytics alone cannot distinguish the cognitive origins of identical learner errors](../claims/behaviour-alone-insufficient-cognitive-origins.md) [~W]
+- [In Save Patch, different error types were associated with different learning outcomes, attributed to Kerr and Chung (2013b)](../claims/save-patch-error-types-associated-with-learning-outcomes.md) [+W] — attached 2026-10-16 from Gregory K.W.K. Chung (2015), which proposed "Save Patch telemetry system with 23 telemetry points grounded in fraction learning goals"; tests this page's relationship.
+- [In a sixth-grade choicelet study, time spent figuring out catalog entries predicted about 35 percent of the variation in students' mathematics grades](../claims/catalog-engagement-predicts-math-grades.md) [+W] — attached 2026-10-16 from Daniel L. Schwartz et al. (2013), which proposed "Ohno! Has Talent choicelet assessment for critical thinking".
+- [Sixth graders who used the experiment room to solve each problem through trial and error were the students doing worst in mathematics](../claims/trial-and-error-malchoices-worst-math.md) [~W] — attached 2026-10-16 from Daniel L. Schwartz et al. (2013), which proposed "Ohno! Has Talent choicelet assessment for critical thinking".
+- [Stealth assessment estimates of problem solving in Use Your Brainz correlate significantly with external measures (Raven's and MicroDYN) in middle-school students](../claims/stealth-assessment-problem-solving-correlates-external-measures.md) [+W] — attached 2026-10-16 from Shute et al. (2016), which proposed "Use Your Brainz stealth assessment with 32 indicators and per-level Bayesian networks".
 
 ## Related Elements
 

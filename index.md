@@ -21,14 +21,14 @@ A persistent, LLM-maintained knowledge base for learning design. Read [CLAUDE.md
 
 ## The state of the evidence
 
-The wiki holds **4,997 distinct studies** behind 17,255 claims. What they add up to (the [evidence report](evidence.md) has the detail):
+The wiki holds **4,996 distinct studies** behind 17,250 claims. What they add up to (the [evidence report](evidence.md) has the detail):
 
 - **Few studies can show a cause.** 24% are experiments or systematic reviews (`q3` or `q4`); only 2% are pre-registered trials or well-powered meta-analyses (`q4`). 62% are quasi-experiments, observational studies or narrative reviews, and 14% are case studies, opinion or theory.
-- **Few print an effect size.** 954 of 4,997 studies (19%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
-- **Strong work is not only trials.** 463 studies are rated `r3`, done well for their kind; 303 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
+- **Few print an effect size.** 954 of 4,996 studies (19%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
+- **Strong work is not only trials.** 479 studies are rated `r3`, done well for their kind; 318 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
 - **Most findings stand alone.** 97% of claims rest on one study; a finding reported once, in one setting, has not been shown to hold elsewhere.
 - **Not all research reaches design.** 63% of studies, and 36% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
-- **Principles and patterns.** Of 219 pages written in the conditional format, 103 have research testing their central relationship, at least in part, and 116 carry a labelled default design because nothing in the wiki tests it. Their citations of claims are 7% strong, 47% moderate and 46% weak, and 52% supporting, 43% conditional and 4% against.
+- **Principles and patterns.** Of 219 pages written in the conditional format, 103 have research testing their central relationship, at least in part, and 116 carry a labelled default design because nothing in the wiki tests it. Their citations of claims are 7% strong, 47% moderate and 46% weak, and 53% supporting, 43% conditional and 4% against.
 
 These figures describe two things at once: what education research has produced, and what this wiki has collected so far. As inclusion is held to a higher standard the second will move; the first is why it has to.
 
@@ -47,13 +47,13 @@ Instructional building blocks — the components you compose into patterns.
 ### [Patterns](patterns/index.md) (65)
 Reusable instructional designs at the lesson or unit level.
 
-### [Designs](designs/index.md) (771)
+### [Designs](designs/index.md) (789)
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-### [Products & Programmes](products/index.md) (1612)
+### [Products & Programmes](products/index.md) (1646)
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-### [Strategies](strategies/index.md) (5829)
+### [Strategies](strategies/index.md) (5827)
 Concrete teaching activity recipes — specific, implementable approaches.
 
 ### [Design Processes](processes/index.md) (18)
@@ -62,7 +62,7 @@ How a course gets designed — whole-process models a designer works through, ra
 ### [Design Methods](methods/index.md) (38)
 The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom.
 
-### [Research Methods](research-methods/index.md) (457)
+### [Research Methods](research-methods/index.md) (491)
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
 ### [Theories](theories/index.md) (1361)
@@ -71,7 +71,7 @@ Explanatory frameworks that ground principles and claims.
 ### [Learner Variables](learner-variables/index.md) (74)
 Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags.
 
-### [Claims](claims/index.md) (17255)
+### [Claims](claims/index.md) (17250)
 Empirical claims with evidence ratings, sources, and competing views.
 
 ---

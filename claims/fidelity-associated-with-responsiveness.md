@@ -15,12 +15,14 @@ sources:
     author: "Al Otaiba, S., & Fuchs, D."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Nonresponsive students were in classrooms with lower-quality Ladders implementation and lower fall first-grade PALS fidelity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Responsiveness status was associated with quality of Ladders implementation and fall first-grade PALS fidelity, but not with K-PALS or spring PALS fidelity. [→ Al Otaiba 2006](#al-otaiba-2006)
@@ -31,7 +33,7 @@ sources:
 
 Al Otaiba, S., & Fuchs, D. (2006). Who Are the Young Children for Whom Best Practices in Reading Are Ineffective? An Experimental and Longitudinal Study. Journal of Learning Disabilities, 39(5), 414-431. https://journals.sagepub.com/doi/10.1177/00222194060390050401
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Univariate ANOVAs on implementation fidelity by responsiveness status. Post hoc Tukey comparisons showed nonresponsive students were in classrooms with significantly lower Ladders quality (p < .01 vs. both responsive groups) and lower fall first-grade PALS fidelity than always responsive students (p < .01).
 

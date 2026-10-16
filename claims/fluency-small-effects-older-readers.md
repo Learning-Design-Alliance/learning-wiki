@@ -15,12 +15,14 @@ sources:
     author: "Roberts, G., Torgesen, J. K., Boardman, A., & Scammacca, N."
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Fluency interventions for older students show very small effects on rate and accuracy and virtually no effect on standardized comprehension
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The Scammacca et al. (2007) review found fluency interventions had a very small effect on reading rate and accuracy (g = .26) and virtually no effect on standardized comprehension (g = −.07). [→ Roberts 2008](#roberts-2008)
@@ -31,7 +33,7 @@ sources:
 
 Roberts, G., Torgesen, J. K., Boardman, A., & Scammacca, N. (2008). Evidence-Based Strategies for Reading Instruction of Older Students with Learning Disabilities. Learning Disabilities Research & Practice, 23(2), 63–69. https://doi.org/10.1111/j.1540-5826.2008.00264.x
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Meta-analytic review of fluency interventions for older students, based almost exclusively on repeated oral reading; reports g = .26 for rate/accuracy and g = −.07 for standardized comprehension.
 

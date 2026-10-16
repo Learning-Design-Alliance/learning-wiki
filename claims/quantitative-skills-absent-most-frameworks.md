@@ -15,12 +15,14 @@ sources:
     author: "Markle, R., Brenneman, M., Jackson, T., Burrus, J., & Robbins, S."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Quantitative skills were explicitly addressed by only three of the seven reviewed frameworks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Only three of the seven reviewed frameworks (LEAP, the Lumina DQP, and USDOL-ETA) explicitly mentioned a quantitative domain, leading the authors to exclude quantitative skills from the critical domains. [→ Markle 2013](#markle-2013)
@@ -31,7 +33,7 @@ sources:
 
 Markle, R., Brenneman, M., Jackson, T., Burrus, J., & Robbins, S. (2013). Synthesizing Frameworks of Higher Education Student Learning Outcomes. ETS Research Report Series, ETS RR-13-22. http://search.ets.org/researcher
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Document review finding of the seven-framework synthesis: "Only three of the seven frameworks that we reviewed" named a quantitative domain, and even then quantitative skills appeared embedded within communication and critical thinking outcomes rather than as a standalone domain.
 

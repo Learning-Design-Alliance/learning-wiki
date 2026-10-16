@@ -13,12 +13,14 @@ sources:
     title: Bol L and Hacker DJ 2012
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Little or no relation between absolute and relative accuracy in metacomprehension research
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Current metacomprehension research shows little or no relation between absolute accuracy (calibration) and relative accuracy (discrimination). [→ Bol L and Hacker DJ 2012](#bol-l-and-hacker-dj-2012)
@@ -29,7 +31,7 @@ sources:
 
 Bol L and Hacker DJ (2012) Calibration research: where do we go from here? Front. Psychology 3:229. https://doi.org/10.3389/fpsyg.2012.00229
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 Narrative review attributing to Maki et al. (2005) the finding that "there is little or no relation between absolute and relative accuracy" in metacomprehension judgments. The review defines absolute accuracy as overall calibration and relative accuracy as item-to-item discrimination. No coefficients are printed.
 

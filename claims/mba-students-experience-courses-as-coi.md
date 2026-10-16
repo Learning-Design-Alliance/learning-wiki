@@ -49,3 +49,4 @@ Descriptive analysis of the validated 34-item CoI Survey completed by 21 MBA stu
 - [A program-wide standard online course template heightens teaching presence and supports learner intentions in accelerated online courses](course-template-supports-learner-presence.md) — related
 - [Learner presence in an accelerated online MBA context manifests as three qualities: learner intentions, learner metacognition, and peer monitoring](learner-presence-three-qualities-mba.md) — related
 - [Peer monitoring among MBA learners goes beyond CoI social presence by involving professionally relevant evaluation of peers' contributions](peer-monitoring-exceeds-social-presence.md) — related
+- [International online MBA students perceived cultural differences in collaboration but reported they did not negatively affect their learning](cultural-differences-visible-not-negative-collaboration.md) — related

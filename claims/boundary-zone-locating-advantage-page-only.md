@@ -15,12 +15,14 @@ sources:
     author: Annie Piolat, Jean-Yves Roussey and Olivier Thunin
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Only Page readers tended to locate boundary-zone sentences more accurately than central-zone sentences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The presentation-by-zone interaction was marginal (p = 0.11); only with Page were boundary-zone sentences located more accurately than central-zone ones. [→ Annie Piolat 1997](#annie-piolat-1997)
@@ -31,7 +33,7 @@ sources:
 
 Annie Piolat, Jean-Yves Roussey and Olivier Thunin. (1997). Effects of screen presentation on text reading and revising. International Journal of Human-Computer Studies. https://doi.org/10.1006/ijhc.1997.0145
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 1 analysis of pointing accuracy by sentence zone (boundary vs. central). The interaction was marginal, F(1, 68) = 2.55, p = 0.11, and the Page simple effect did not reach significance (p = 0.12).
 

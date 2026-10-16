@@ -15,18 +15,22 @@ sources:
     author: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A."
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
   - id: ritter-2007-2
     resource: "https://doi.org/10.3758/bf03194060"
     title: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A. (2007). Cognitive Tutor: Applied research in mathematics education. Psychonomic Bulletin & Review, 2007, 14 (2), 249-255. https://doi.org/10.3758/bf03194060"
     author: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # In Miami-Dade County, Cognitive Tutor Algebra I students significantly outscored peers on the 2003 FCAT, with especially large pass-rate differences for Exceptional Student Education and limited-English-proficiency students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 35.7% of Exceptional Student Education students using Cognitive Tutor passed the FCAT versus 10.9% with a different curriculum; 27% versus 18.9% for limited English proficiency students. [→ Ritter 2007](#ritter-2007)
@@ -37,7 +41,7 @@ sources:
 
 Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A. (2007). Cognitive Tutor: Applied research in mathematics education. Psychonomic Bulletin & Review, 2007, 14 (2), 249-255. https://doi.org/10.3758/bf03194060
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The same Miami-Dade analysis reported particularly dramatic findings for special populations: 35.7% of Exceptional Student Education Cognitive Tutor students passed the FCAT versus 10.9% with another curriculum; the article prints no effect size for this contrast.
 
@@ -47,7 +51,7 @@ The same Miami-Dade analysis reported particularly dramatic findings for special
 
 Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A. (2007). Cognitive Tutor: Applied research in mathematics education. Psychonomic Bulletin & Review, 2007, 14 (2), 249-255. https://doi.org/10.3758/bf03194060
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 The same district analysis reported that among students with limited English proficiency, 27% of Cognitive Tutor students passed the FCAT versus 18.9% of such students in another curriculum; no effect size is printed for this contrast.
 

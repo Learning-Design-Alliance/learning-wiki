@@ -37,7 +37,7 @@ The article recommends that intelligent game-based learning environments use ind
 - adopting productive problem-solving strategies and building conceptual knowledge such as binary digit weights
 
 ### Affordances
-- [Strategy Based Temporal Analytics Stealth Assessment](../theories/strategy-based-temporal-analytics-stealth-assessment.md)
+- [Strategy Based Temporal Analytics Stealth Assessment](../research-methods/strategy-based-temporal-analytics-framework-for-stealth-assessment-using-lstm-evidence-mod.md)
 
 ## Related Strategies
 - 

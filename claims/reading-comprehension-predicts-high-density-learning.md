@@ -15,18 +15,22 @@ sources:
     author: "Ross, S. M., Morrison, G. R., & O'Dell, J. K."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: ross-1988-2
     resource: "http://www.jstor.org/stable/30218252"
     title: "Ross, S. M., Morrison, G. R., & O'Dell, J. K. (1988). Obtaining More out of Less Text in CBI: Effects of Varied Text Density Levels as a Function of Learner Characteristics and Control Strategy. Educational Communication and Technology, 36(3), 131-142. http://www.jstor.org/stable/30218252"
     author: "Ross, S. M., Morrison, G. R., & O'Dell, J. K."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Reading comprehension strongly predicts achievement from high-density microtext, unlike other density conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` For the high-density CBI group, reading comprehension was the first regression predictor of immediate posttest scores (simple r = .51, R2 = .26, p < .001), while pretest contributed weakly. [→ Ross 1988](#ross-1988)
@@ -38,7 +42,7 @@ sources:
 
 Ross, S. M., Morrison, G. R., & O'Dell, J. K. (1988). Obtaining More out of Less Text in CBI: Effects of Varied Text Density Levels as a Function of Learner Characteristics and Control Strategy. Educational Communication and Technology, 36(3), 131-142. http://www.jstor.org/stable/30218252
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Stepwise multiple regression for the high-density CBI group (final n = 65), over-sampled to increase reliability. Pretest (simple r = .26) entered second with a weak contribution; no other predictors were entered.
 
@@ -48,7 +52,7 @@ Stepwise multiple regression for the high-density CBI group (final n = 65), over
 
 Ross, S. M., Morrison, G. R., & O'Dell, J. K. (1988). Obtaining More out of Less Text in CBI: Effects of Varied Text Density Levels as a Function of Learner Characteristics and Control Strategy. Educational Communication and Technology, 36(3), 131-142. http://www.jstor.org/stable/30218252
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Comparison regressions on the three remaining standard-density treatments with small n's (24 to 25 subjects). In none of these analyses was either reading measure selected.
 

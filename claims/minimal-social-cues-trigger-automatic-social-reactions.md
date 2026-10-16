@@ -15,12 +15,14 @@ sources:
     author: "Nicole C. Krämer & Gary Bente"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Minimal human-like cues suffice to trigger automatic social reactions to embodied agents, though the role of visual social cues remains contested
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` HCI research shows even minimal cues and similarity with humans lead users to display behavior expected in human–human interaction, including socially desirable choices and politeness strategies. [→ Nicole C. Krämer & Gary Bente 2010](#nicole-c-kramer-gary-bente-2010)
@@ -31,7 +33,7 @@ sources:
 
 Nicole C. Krämer & Gary Bente. (2010). Personalizing e-Learning. The Social Effects of Pedagogical Agents. Educ Psychol Rev. https://doi.org/10.1007/s10648-010-9123-x
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review summarizes HCI evaluation studies (e.g., Reeves and Nass; Sproull et al.) showing that "even minimal cues and similarity with humans suffice to lead users to show behavior that would be expected in human –human interaction."
 

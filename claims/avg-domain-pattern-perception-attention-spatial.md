@@ -15,12 +15,14 @@ sources:
     author: Benoit Bediou, Melissa A. Rodgers, Elizabeth Tipton, Richard E. Mayer, C. Shawn Green, and Daphne Bavelier
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Cross-sectional advantages are largest for perception, multitasking, spatial cognition, and top-down attention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Across cognitive domains in the cross-sectional meta-analysis, the largest effects were for perception (g = 0.71), multitasking (g = 0.86), spatial cognition (g = 0.67), and top-down attention (g = 0.63), with significant effects in all tested domains. [→ Benoit Bediou 2023](#benoit-bediou-2023)
@@ -31,7 +33,7 @@ sources:
 
 Benoit Bediou, Melissa A. Rodgers, Elizabeth Tipton, Richard E. Mayer, C. Shawn Green, and Daphne Bavelier. (2023). Effects of Action Video Game Play on Cognitive Skills: A Meta-Analysis. Technology, Mind, and Behavior. https://doi.org/10.1037/tmb0000102
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r3`
 
 Cross-sectional moderator analysis by cognitive domain (Table 3): perception g = 0.71, top-down attention g = 0.63, spatial cognition g = 0.67, multitasking g = 0.86, inhibition g = 0.53, verbal cognition g = 0.47, problem-solving g = 0.31; bottom-up attention was not significant (g = 0.24, p = .166).
 

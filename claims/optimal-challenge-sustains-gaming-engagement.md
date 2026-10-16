@@ -15,12 +15,14 @@ sources:
     author: Bobby Hoffman, Louis Nadelson
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Sustained gaming engagement depends on controlling an optimal level of challenge: games too hard are abandoned and games too easy are boring
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Participants sustained engagement when they could control task difficulty; insurmountable challenges led to avoidance or abandonment, while overly easy games failed to promote engagement. [→ Bobby Hoffman 2010](#bobby-hoffman-2010)
@@ -31,7 +33,7 @@ sources:
 
 Bobby Hoffman, Louis Nadelson. (2010). Motivational engagement and video gaming: a mixed methods study. Education Tech Research Dev 58:245-270. https://doi.org/10.1007/s11423-009-9134-9
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Interview finding from the 25-player subset: participants perceived difficulty as partially within their control, avoided games that were "too complicated to pick up on fairly quickly", and lost interest when games were too easy. The article concludes "controlling optimal levels of challenge appeared to be closely related to sustained engagement".
 
@@ -41,4 +43,4 @@ Interview finding from the 25-player subset: participants perceived difficulty a
 
 
 ## Related Claims
--
+- [The usefulness of the GAP depends on players being sufficiently challenged in the game](gap-usefulness-depends-on-challenge.md) — a narrower finding that bears on this claim

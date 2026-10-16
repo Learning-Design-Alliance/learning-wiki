@@ -15,12 +15,14 @@ sources:
     author: Kenneth R. Koedinger, Albert T. Corbett, Charles Perfetti
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Prompting self-explanation in a physics electricity unit led to accelerated future learning in a subsequent magnetism unit
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Self-explanation prompting during electricity learning produced accelerated future learning of magnetism, an effect attributed either to better learning strategies or to deeper, more general concept learning. [→ Kenneth R. Koedinger 2010](#kenneth-r-koedinger-2010)
@@ -31,7 +33,7 @@ sources:
 
 Kenneth R. Koedinger, Albert T. Corbett, Charles Perfetti. (2010). The Knowledge-Learning-Instruction (KLI) Framework: Toward Bridging the Science-Practice Chasm to Enhance Robust Student Learning. Carnegie Mellon University Technical Report. http://learnlab.org/research/wiki
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The article reports, citing Hausmann & VanLehn (2007), that self-explanation prompting in a physics electricity unit led to accelerated future learning in a magnetism unit. The article offers two candidate explanations: improved self-explaining as a strategy, or electricity concepts learned in a deeper, more general form.
 

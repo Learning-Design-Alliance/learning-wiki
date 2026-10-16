@@ -15,12 +15,14 @@ sources:
     author: "Al Otaiba, S., & Fuchs, D."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Naming speed, vocabulary, sentence imitation, problem behavior, and amount of intervention correctly classify most nonresponsive and always responsive students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A cross-validated discriminant function analysis using four child-characteristic variables and intervention amount correctly predicted 82.40% of nonresponsive, 30.80% of sometimes responsive, and 84.10% of always responsive students, with kappa = .64. [→ Al Otaiba 2006](#al-otaiba-2006)
@@ -31,7 +33,7 @@ sources:
 
 Al Otaiba, S., & Fuchs, D. (2006). Who Are the Young Children for Whom Best Practices in Reading Are Ineffective? An Experimental and Longitudinal Study. Journal of Learning Disabilities, 39(5), 414-431. https://journals.sagepub.com/doi/10.1177/00222194060390050401
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Discriminant function analysis on 104 children using pretreatment Rapid Letter Naming, PPVT-R, Achenbach, and Sentence Imitation plus intervention amount, cross-validated with leave-one-out. Overall "70.20% of the students were correctly classified" and kappa was .64, described as respectable agreement beyond chance.
 

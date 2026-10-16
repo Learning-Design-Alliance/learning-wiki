@@ -15,12 +15,14 @@ sources:
     author: Traci Sitzmann
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Published studies of simulation games report substantially larger effects than unpublished studies, indicating publication bias
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Published studies reported a mean effect of d = .52 favoring simulation games, whereas unpublished studies reported d = −.10, with a significant QB indicating publication bias. [→ Traci Sitzmann 2011](#traci-sitzmann-2011)
@@ -31,7 +33,7 @@ sources:
 
 Traci Sitzmann. (2011). A Meta-Analytic Examination of the Instructional Effectiveness of Computer-Based Simulation Games. Personnel Psychology, 64, 489-528. https://onlinelibrary.wiley.com/journal/17446570
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Meta-analytic publication-status moderator analysis from Table 2: 44 published samples (N = 3,032) yielded d = .52 while 16 unpublished samples (N = 993) yielded d = −.10, with QB = 64.91 significant, indicating a file drawer problem in this literature.
 
@@ -41,4 +43,4 @@ Meta-analytic publication-status moderator analysis from Table 2: 44 published s
 
 
 ## Related Claims
--
+- [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — reports the opposite

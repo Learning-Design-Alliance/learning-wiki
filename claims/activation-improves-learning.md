@@ -127,3 +127,4 @@ Open questions include how much guidance activation prompts need (open recall vs
 - [The prior knowledge of the intended audience determines a text's information density, rate of new information, and accompanying background](audience-prior-knowledge-determines-information-density.md) — related
 - [Helping students make connections between prior knowledge and the texts they read is among the practices most consistently related to student growth](prior-knowledge-text-connections-related-to-growth.md) — related
 - [Definitions, checkpoints, and staged pacing improved conceptual clarity for novice programmers](checkpoints-and-definitions-improved-clarity.md) — related
+- [Advance organizers facilitate conceptual retention and far transfer of unfamiliar technical material for learners lacking relevant prior knowledge](advance-organizers-far-transfer-unfamiliar-technical-material.md) — related

@@ -39,7 +39,7 @@ The authors recommend that educators use feedback about students' attention leve
 - attention and engagement monitoring
 
 ### Affordances
-- [Cognitive Quantified Self Reading](../theories/cognitive-quantified-self-reading.md)
+- Cognitive Quantified Self Reading
 
 ## Related Strategies
 - 

@@ -15,12 +15,14 @@ sources:
     author: Paul R. Pintrich
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Anticipatory test anxiety can set off a downward spiral of maladaptive cognitions, emotions, and behaviors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students who anticipate anxiety and worry about doing poorly before a test can set in motion a downward spiral of maladaptive cognitions, emotions, and behaviors leading to poor exam performance. [→ Paul R. Pintrich 2000](#paul-r-pintrich-2000)
@@ -31,7 +33,7 @@ sources:
 
 Paul R. Pintrich. (2000). The Role of Goal Orientation in Self-Regulated Learning. Handbook of Self-Regulation, Academic Press. https://doi.org/10.1016/b978-012109890-2/50043-3
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Narrative review statement, citing Bandura (1997) and Zeidner (1998), on anticipatory affect in the motivational planning and activation phase. Test anxiety is identified as the most common and most researched form of academic anxiety.
 

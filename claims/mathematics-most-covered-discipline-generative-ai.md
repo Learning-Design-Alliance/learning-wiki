@@ -45,3 +45,4 @@ Discipline categorization of the 183 publications (Fig. 2) shows "mathematics is
 ## Related Claims
 - [AI performance is the most frequent research theme (35%) in research on generative AI in secondary STEM education, ahead of tool development (22%) and application & impact (19%)](ai-performance-most-frequent-research-theme.md) — related
 - [Research on ChatGPT-supported STEAM inquiry-based learning is unevenly distributed across disciplines, concentrated in science and mathematics](chatgpt-steam-ibl-uneven-disciplinary-distribution.md) — related
+- [GBA is predominantly applied in physics education (4 studies), with about 19% of studies not specifying a subject field](gba-subjects-physics-predominant.md) — related

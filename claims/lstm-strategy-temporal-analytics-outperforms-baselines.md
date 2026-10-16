@@ -15,12 +15,14 @@ sources:
     author: "Akram, B., Mott, B., Min, W., Boyer, K. E., Wiebe, E., & Lester, J."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # An LSTM-based strategy temporal analytics framework outperforms random forest, SVM, and majority-class baselines for stealth assessment predictive accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The LSTM-based evidence model achieved higher predictive accuracy (64.82%) than random forest (50.43%), SVM (41.17%), and the majority-class baseline (35.71%) on held-out test data. [→ Akram 2017](#akram-2017)
@@ -31,7 +33,7 @@ sources:
 
 Akram, B., Mott, B., Min, W., Boyer, K. E., Wiebe, E., & Lester, J. (2017). Improving Stealth Assessment in Game-based Learning with LSTM-based Analytics. https://scholar.google.com/scholar?q=Improving+Stealth+Assessment+in+Game-based+Learning+with+LSTM-based+Analytics
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Computational evaluation on behavior trace data from 168 middle school students who completed both tests and all 11 binary tasks, with training/test split and 100 training runs averaged. The LSTM achieved "an average accuracy of 64.82%" versus RF 50.43%, SVM 41.17%, and baseline 35.71% (Table 2).
 

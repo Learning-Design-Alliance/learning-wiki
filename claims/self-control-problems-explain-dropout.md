@@ -15,12 +15,14 @@ sources:
     author: Alexander Koch, Julia Nafziger, Helena Skyt Nielsen
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Self-control problems are a major explanation of dropout decisions despite high returns to schooling
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Dropout appears suboptimal given large returns, and the review attributes it largely to adolescent self-control problems. [→ Alexander Koch 2015](#alexander-koch-2015)
@@ -31,7 +33,7 @@ sources:
 
 Alexander Koch, Julia Nafziger, Helena Skyt Nielsen. (2015). Behavioral economics of education. Journal of Economic Behavior & Organization 115 (2015) 3–17. https://doi.org/10.1016/j.jebo.2014.09.005
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports Oreopoulos' (2007) analysis of compulsory schooling laws in the US, Canada and the UK, finding lifetime wealth increases by 15% with another year of compulsory schooling; he 'suggests that a major explanation of drop-out decisions are self-control problems faced by adolescents'.
 

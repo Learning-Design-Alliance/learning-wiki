@@ -15,12 +15,14 @@ sources:
     author: Ian Robottom and Sharifah Norhaidah
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Among Malaysian Muslim science students, intensity of discord over scientific claims shows no direct link to scientific reasoning ability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The Malaysian survey of 549 students did not reveal a direct link between intensity of discord and ability to reason scientifically. [→ Ian Robottom and Sharifah Norhaidah 2008](#ian-robottom-and-sharifah-norhaidah-2008)
@@ -31,7 +33,7 @@ sources:
 
 Ian Robottom and Sharifah Norhaidah. (2008). Western science and Islamic learners: When disciplines and culture intersect. Journal of Research in International Education 7(2). https://doi.org/10.1177/1475240908091302
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 A questionnaire-based survey of 549 Form 4 (age approximately 16) science students from government and religious schools in northern Malaysia, using Lawson's Classroom Test of Scientific Reasoning, Schommer's 63-item epistemological beliefs questionnaire, and a discord questionnaire. The study "did not reveal a direct link between intensity of discord and ability to reason scientifically."
 

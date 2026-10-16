@@ -38,7 +38,7 @@ The article recommends provision of an appropriate conceptual (epistemological) 
 - Epistemological awareness of multiple explanatory systems
 
 ### Affordances
-- [Expanded Constructivism Faith Culture Dissonance](../theories/expanded-constructivism-faith-culture-dissonance.md)
+- [Expanded Constructivism Faith Culture Dissonance](../theories/constructivism.md)
 
 ## Related Strategies
 - 

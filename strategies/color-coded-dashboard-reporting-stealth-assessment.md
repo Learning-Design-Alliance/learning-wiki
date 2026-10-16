@@ -37,7 +37,7 @@ The authors teamed with GlassLab to design a dashboard report that lets educator
 - problem solving skill, overall and per facet, for educator interpretation and support
 
 ### Affordances
-- [Four Facet Problem Solving Competency Model](../theories/four-facet-problem-solving-competency-model.md)
+- [Four Facet Problem Solving Competency Model](../designs/four-facet-problem-solving-competency-model.md)
 
 ## Related Strategies
 - 

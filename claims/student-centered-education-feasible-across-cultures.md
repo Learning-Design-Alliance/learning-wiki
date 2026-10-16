@@ -15,18 +15,22 @@ sources:
     author: Janneke M. Frambach, Erik W. Driessen, Philip Beh and Cees P.M. van der Vleuten
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
   - id: janneke-m-frambach-2014-2
     resource: "https://doi.org/10.1080/03075079.2012.754865"
     title: "Janneke M. Frambach, Erik W. Driessen, Philip Beh and Cees P.M. van der Vleuten. (2014). Quiet or questioning? Students' discussion behaviors in student-centered education across cultures. Studies in Higher Education. https://doi.org/10.1080/03075079.2012.754865"
     author: Janneke M. Frambach, Erik W. Driessen, Philip Beh and Cees P.M. van der Vleuten
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Student-centered education is feasible in different cultural contexts, but processes and outcomes are likely to differ across them
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Despite cultural and contextual challenges, a student-centered approach is feasible in higher education in different cultures, as all three institutions had applied the model for over a decade. [→ Janneke M. Frambach 2014](#janneke-m-frambach-2014)
@@ -38,7 +42,7 @@ sources:
 
 Janneke M. Frambach, Erik W. Driessen, Philip Beh and Cees P.M. van der Vleuten. (2014). Quiet or questioning? Students' discussion behaviors in student-centered education across cultures. Studies in Higher Education. https://doi.org/10.1080/03075079.2012.754865
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Discussion section conclusion of the qualitative comparative case study: difficulties can coexist with cross-culturally different, context-specific yet solid discussion processes in student-centered higher education.
 
@@ -48,7 +52,7 @@ Discussion section conclusion of the qualitative comparative case study: difficu
 
 Janneke M. Frambach, Erik W. Driessen, Philip Beh and Cees P.M. van der Vleuten. (2014). Quiet or questioning? Students' discussion behaviors in student-centered education across cultures. Studies in Higher Education. https://doi.org/10.1080/03075079.2012.754865
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Discussion section: the comparison of one Western and two non-Western cases yielded the conceptual model, and the substantial involvement of contextual factors implies such methods pose challenges in any culture, including Western ones.
 

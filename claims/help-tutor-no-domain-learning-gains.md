@@ -15,12 +15,14 @@ sources:
     author: "Koedinger, K., Aleven, V., Roll, I., & Baker, R."
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Help Tutor metacognitive instruction produced no domain-level geometry learning gains and no lasting help-seeking procedural knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Both conditions improved significantly pre- to post-test in geometry, but no differences between conditions were found; no lasting effect on help-seeking procedural knowledge was found either. [→ Koedinger 2008](#koedinger-2008)
@@ -31,7 +33,7 @@ sources:
 
 Koedinger, K., Aleven, V., Roll, I., & Baker, R. (2008). In vivo experiments on whether supporting metacognition in intelligent tutoring systems yields robust learning. https://learnlab.org/
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Null domain-learning result across both Help Tutor classroom experiments. Both conditions improved significantly from pre- to post-test, but "we did not find any differences between the conditions"; equivalence was not tested and no effect size is printed.
 

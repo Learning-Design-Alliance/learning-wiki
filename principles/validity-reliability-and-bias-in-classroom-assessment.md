@@ -35,7 +35,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 159 claims (71 for, 75 mixed, 13 against) · 121 studies (40 associational, 29 design, 18 theoretical, 17 review, 12 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 8 of 121 report an effect size · 154 claims rest on one study
+> **Evidence** · 162 claims (73 for, 76 mixed, 13 against) · 123 studies (41 associational, 30 design, 18 theoretical, 17 review, 12 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 8 of 123 report an effect size · 157 claims rest on one study
 
 ## Conditional relationship
 
@@ -170,6 +170,9 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Lombard et al.'s fallback criterion (alpha below .700, accept if %-agreement above .900) accepts data whose chance-corrected coefficients indicate near-zero reliability](../claims/percent-agreement-fallback-accepts-unreliable-data.md) [+W] — attached 2026-10-16 from Klaus Krippendorff (2004), which proposed "Use only chance-corrected agreement coefficients satisfying interchangeability and population-reference conditions; reject %-agreement, correlation, and association measures as reliability indices".
 - [Reflective modeling of formative knowledge constructs risks misrepresenting domain knowledge as a general factor such as intelligence](../claims/reflective-model-misrepresents-domain-knowledge.md) [+W] — attached 2026-10-16 from Knowledge as a formative construct: A good alpha is not always better, which proposed "Match a knowledge assessment's measurement model to the construct's theoretical conceptualization before applying scale-quality criteria"; tests this page's relationship.
 - [Off-line self-reports of strategy use may not correspond to actual learner behavior due to memory-reconstruction problems](../claims/off-line-self-reports-memory-reconstruction-problem.md) [+W] — attached 2026-10-16 from Marcel V. J. Veenman (2011), which proposed "Treat off-line self-report assessments of strategy use as prone to memory-reconstruction and prompting threats, and pursue more validation work".
+- [Peer assessment is equivalent to teacher assessment for exact-science exams with clear marking schemes](../claims/peer-assessment-valid-exact-science-exams.md) [+W] — attached 2026-10-16 from Bouzidi et al. (2009), which proposed "Trust peer assessment only for exact-science exams marked by at least four peers with quality precautions in place"; tests this page's relationship.
+- [In JEU SERAI, questionnaire-like in-game items (diary ordering, mini game ranking, narrative questionnaires) correlated best with RIASEC questionnaire results, while other item types correlated poorly](../claims/jeu-serai-item-type-correlation-quality-ranking.md) [+W] — attached 2026-10-16 from Guardiola et al. (2015), which proposed "A profiling game's psychological model must be scientifically validated and must match the profiling intention"; tests this page's relationship.
+- [Enterprising-type items in JEU SERAI did not work correctly, attributed to panel underrepresentation and weak action-verb rationalization](../claims/jeu-serai-enterprising-items-failed.md) [~W] — attached 2026-10-16 from Guardiola et al. (2015), which proposed "Mini-game structure to prevent gameplay optimization from masking psychological preferences".
 
 ## Objective and learner-valued goal
 

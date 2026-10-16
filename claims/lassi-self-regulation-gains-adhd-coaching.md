@@ -15,12 +15,14 @@ sources:
     author: "Parker, D. R., Field Hoffman, S., Sawilowsky, S., & Rolands, L."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # LASSI Self-Regulation cluster scores showed the greatest pre/post gain among coached students, with increasing trends in all three clusters
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Pre/post LASSI percentile scores increased for the Skill, Will, and Self-Regulation clusters, with the largest improvement in Self-Regulation. [→ Parker 2010](#parker-2010)
@@ -31,7 +33,7 @@ sources:
 
 Parker, D. R., Field Hoffman, S., Sawilowsky, S., & Rolands, L. (2010). An Examination of the Effects of ADHD Coaching on University Students' Executive Functioning. Journal of Postsecondary Education and Disability, 24(2), 115-132. https://www.edgefoundation.org
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Pre/post administration of the 80-item LASSI to seven participants, reported as percentile scores and displayed in Figure 1. The authors note "hypothesis testing is not appropriate" given the small sample, so gains are descriptive trends with no effect size or significance test.
 

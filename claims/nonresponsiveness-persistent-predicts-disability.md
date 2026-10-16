@@ -15,18 +15,22 @@ sources:
     author: "Al Otaiba, S., & Fuchs, D."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: al-otaiba-2006-2
     resource: "https://journals.sagepub.com/doi/10.1177/00222194060390050401"
     title: "Al Otaiba, S., & Fuchs, D. (2006). Who Are the Young Children for Whom Best Practices in Reading Are Ineffective? An Experimental and Longitudinal Study. Journal of Learning Disabilities, 39(5), 414-431. https://journals.sagepub.com/doi/10.1177/00222194060390050401"
     author: "Al Otaiba, S., & Fuchs, D."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Nonresponsiveness to kindergarten intervention is persistent and predicts school-identified reading problems through third grade
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Virtually all children nonresponsive to kindergarten intervention remained nonresponsive in first grade, and responsiveness status differed significantly on school-identified reading problems two years later. [→ Al Otaiba 2006](#al-otaiba-2006)
@@ -38,7 +42,7 @@ sources:
 
 Al Otaiba, S., & Fuchs, D. (2006). Who Are the Young Children for Whom Best Practices in Reading Are Ineffective? An Experimental and Longitudinal Study. Journal of Learning Disabilities, 39(5), 414-431. https://journals.sagepub.com/doi/10.1177/00222194060390050401
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Longitudinal follow-up of 50 of the original 104 children tested at the end of third grade. The authors report persistence of nonresponsiveness from kindergarten to first grade and reading-related IEP goals by third grade for most nonresponders.
 
@@ -48,7 +52,7 @@ Longitudinal follow-up of 50 of the original 104 children tested at the end of t
 
 Al Otaiba, S., & Fuchs, D. (2006). Who Are the Young Children for Whom Best Practices in Reading Are Ineffective? An Experimental and Longitudinal Study. Journal of Learning Disabilities, 39(5), 414-431. https://journals.sagepub.com/doi/10.1177/00222194060390050401
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Chi-square analysis of third-grade educational placement (Table 10) for the 50 located children, comparing intervention and control students across responsiveness groups on reading difficulties, tutoring, retention, and IEP reading goals.
 

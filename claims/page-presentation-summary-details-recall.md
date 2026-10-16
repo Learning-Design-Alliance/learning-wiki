@@ -15,18 +15,22 @@ sources:
     author: Annie Piolat, Jean-Yves Roussey and Olivier Thunin
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: annie-piolat-1997-2
     resource: "https://doi.org/10.1006/ijhc.1997.0145"
     title: "Annie Piolat, Jean-Yves Roussey and Olivier Thunin. (1997). Effects of screen presentation on text reading and revising. International Journal of Human-Computer Studies. https://doi.org/10.1006/ijhc.1997.0145"
     author: Annie Piolat, Jean-Yves Roussey and Olivier Thunin
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Page readers included more details in their summaries than Scroll readers, while recall of main ideas did not differ significantly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Readers included details in summaries significantly more often in the Page condition (3.61 vs. 5.33), though p was marginal at 0.0562. [→ Annie Piolat 1997](#annie-piolat-1997)
@@ -38,7 +42,7 @@ sources:
 
 Annie Piolat, Jean-Yves Roussey and Olivier Thunin. (1997). Effects of screen presentation on text reading and revising. International Journal of Human-Computer Studies. https://doi.org/10.1006/ijhc.1997.0145
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 1 summarizing task: judge-graded details in summaries written by no-page-break participants. Page readers included more details (3.61 vs. 5.33), F(1, 34) = 3.907, p = 0.0562, just above the .05 threshold.
 
@@ -48,7 +52,7 @@ Experiment 1 summarizing task: judge-graded details in summaries written by no-p
 
 Annie Piolat, Jean-Yves Roussey and Olivier Thunin. (1997). Effects of screen presentation on text reading and revising. International Journal of Human-Computer Studies. https://doi.org/10.1006/ijhc.1997.0145
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 1 summarizing task, important-ideas grades: Page 2.61 vs. Scroll 1.83, F(1, 34) = 1.865, p = 0.1811; the article reports this difference as not statistically significant.
 

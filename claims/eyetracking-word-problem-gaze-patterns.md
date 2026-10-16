@@ -15,18 +15,22 @@ sources:
     author: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A."
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
   - id: ritter-2007-2
     resource: "https://doi.org/10.3758/bf03194060"
     title: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A. (2007). Cognitive Tutor: Applied research in mathematics education. Psychonomic Bulletin & Review, 2007, 14 (2), 249-255. https://doi.org/10.3758/bf03194060"
     author: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A."
     q: 1
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Eyetracking showed students often answer word problems without looking at the algebraic expression, leading the curriculum to treat expression-writing as an induction task with the formula row moved to the bottom of the table
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1`–`q2`
+> **Evidence** · 1 study (2 entries) · associational `r?` · `q1`–`q2`
 
 ## Subclaims
 `q2 i?` Students looked at the problem scenario but not the expression about 13% of the time, at the expression 54% of the time, and at neither almost 34% of the time. [→ Ritter 2007](#ritter-2007)
@@ -38,7 +42,7 @@ sources:
 
 Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A. (2007). Cognitive Tutor: Applied research in mathematics education. Psychonomic Bulletin & Review, 2007, 14 (2), 249-255. https://doi.org/10.3758/bf03194060
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 An eyetracking study in which students completed a table of values based on a word problem; students looked at the problem scenario but not the expression about 13% of the time and at the expression 54% of the time, showing strategy use did not match expert expectations.
 
@@ -48,7 +52,7 @@ An eyetracking study in which students completed a table of values based on a wo
 
 Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A. (2007). Cognitive Tutor: Applied research in mathematics education. Psychonomic Bulletin & Review, 2007, 14 (2), 249-255. https://doi.org/10.3758/bf03194060
 
-`q1 · i?`
+`q1 · i?` · `design · r3`
 
 As a result of the eyetracking and other data, the Cognitive Tutor curriculum treats finding algebraic expressions for simple word problems as an induction task: the formula row is now presented at the bottom of the table, after the two question rows.
 

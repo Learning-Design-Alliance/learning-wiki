@@ -14,7 +14,7 @@ grain_size: lesson
 # Peer Teaching
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 26 claims (12 for, 13 mixed, 1 against) · 15 studies (10 quant-synthesis, 3 causal, 1 review, 1 design), `q2`–`q4` · 9 of 15 report an effect size · 23 claims rest on one study
+> **Evidence** · 27 claims (13 for, 13 mixed, 1 against) · 16 studies (10 quant-synthesis, 4 causal, 1 review, 1 design), `q2`–`q4` · 9 of 16 report an effect size · 24 claims rest on one study
 
 ## Description and scope
 
@@ -109,6 +109,7 @@ Do not rank peer teaching above adult small-group or one-to-one teaching from th
 ## Further evidence, not yet read against this model
 
 - [A descriptive report defines peer assisted learning and asserts, without a tested result, that it promotes knowledge construction, collaboration ability and interpersonal interaction](../claims/peer-assisted-learning-improves-learning-outcomes.md) [+W]: a definition from a descriptive report; does not test this pattern.
+- [Adding reciprocal peer tutoring with audio prompting to incidental exposure produced stronger vocabulary gains than incidental exposure alone for fourth-grade struggling readers](../claims/peer-tutoring-audio-prompting-vocabulary-gains.md) [+W] — attached 2026-10-16 from Mackiewicz et al. (2011), which proposed "Eight-card audio-prompted tutoring sequence with model-lead-test feedback"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

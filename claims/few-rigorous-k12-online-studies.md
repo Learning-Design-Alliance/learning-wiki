@@ -15,12 +15,14 @@ sources:
     author: "Means, Toyama, Murphy, Bakia, & Jones"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # A systematic search found almost no rigorous studies contrasting online and face-to-face instruction for K–12 students: none with computable effect sizes through 2006, and only five meeting meta-analysis criteria through July 2008.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 
 ## Subclaims
 `q3 i?` An extensive systematic search of literature from 1994 through 2006 found no experimental or controlled quasi-experimental K–12 studies comparing online versus face-to-face instruction with sufficient data to compute an effect size; a subsequent search through July 2008 identified just five published studies meeting meta-analysis criteria. [→ Means 2009](#means-2009)
@@ -31,7 +33,7 @@ sources:
 
 Means, Toyama, Murphy, Bakia, & Jones. (2009). Evaluation of Evidence-Based Practices in Online Learning: A Meta-Analysis and Review of Online Learning Studies. U.S. Department of Education. https://www.ed.gov/about/offices/list/opepd/ppss/reports.html
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Systematic literature search across education, career technical, medical, higher education, corporate and military training literatures; 1,132 abstracts screened, 176 rigorous studies identified, of which just nine involved K–12 learners. The report states a subsequent search through July 2008 identified just five published studies meeting meta-analysis criteria.
 

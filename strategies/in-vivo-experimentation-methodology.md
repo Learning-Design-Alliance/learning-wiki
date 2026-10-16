@@ -38,7 +38,7 @@ In vivo experimentation is PSLC's primary methodology: running experimental cont
 - producing learning-science evidence that generalizes to real instructional contexts
 
 ### Affordances
-- [Kli Framework Knowledge Learning Instruction](../theories/kli-framework-knowledge-learning-instruction.md)
+- Kli Framework Knowledge Learning Instruction
 
 ## Related Strategies
 - 

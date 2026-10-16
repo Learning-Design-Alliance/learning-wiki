@@ -45,3 +45,4 @@ The article's overall conclusion from examining the empirical evidence supportin
 ## Related Claims
 - [Research on PBL covers flexible knowledge, problem-solving, and SDL skills but little on collaboration and motivation](pbl-evidence-uneven-across-goals.md) — related
 - It is unknown whether community residents and providers recognize the lifelong learning opportunities community-based education offers — related
+- [The lifelong learning paradigm, introduced in the 1972 Faure report, links learning to equal opportunity and democratisation of education](lifelong-learning-paradium-equal-opportunity-unesco-2013.md) — related

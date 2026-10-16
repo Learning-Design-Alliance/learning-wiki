@@ -15,12 +15,14 @@ sources:
     author: Christina Merten and Cristina Conati
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # More accurate assessment of self-explanation significantly improves the model's assessment of student learning through exploration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Each successive model version (no self-explanation, time-only, time plus gaze shifts) increased accuracy of exploration-node assessment, with both ROC-area increases statistically significant at the z > 1.96 level. [→ Christina Merten and Cristina Conati 2005](#christina-merten-and-cristina-conati-2005)
@@ -31,7 +33,7 @@ sources:
 
 Christina Merten and Cristina Conati. (2005). Eye-Tracking to Model and Adapt to User Meta-cognition in Intelligent Learning Environments. https://www.cs.ubc.ca
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Exploration-node accuracy was evaluated by comparing final exploration-of-categories probabilities against post-test scores on the corresponding concepts. Table 4 shows combined accuracy rising from 59.0% (model 1) to 71.0% (model 2) to 75.1% (model 3).
 

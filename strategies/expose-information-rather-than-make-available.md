@@ -40,7 +40,7 @@ The review recommends that education policies deliver relevant information activ
 - informed choice of programs, courses, and financial aid
 
 ### Affordances
-- [Dual System Four Barriers Education Investment](../theories/dual-system-four-barriers-education-investment.md)
+- Dual System Four Barriers Education Investment
 
 ## Related Strategies
 - 

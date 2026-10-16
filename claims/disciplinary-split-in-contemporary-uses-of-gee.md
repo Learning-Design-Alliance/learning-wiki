@@ -15,12 +15,14 @@ sources:
     author: Kirk M. Lundblade
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Contemporary game studies venues reference Gee along disciplinary lines, with humanistic scholarship incorporating him only in limited ways
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In Game Studies, Games and Culture, and Eludamos, education, psychology, and informatics scholars use Gee to characterize the medium's affordances or as a design lens, while humanistic game studies scholars use him minimally. [→ Kirk M. Lundblade 2025](#kirk-m-lundblade-2025)
@@ -31,7 +33,7 @@ sources:
 
 Kirk M. Lundblade. (2025). What Video Games Have Taught Us: Two Decades of Gaming and Learning. In Historiographies of Game Studies (Punctum Books). https://www.jstor.org/stable/jj.31913371.9
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r2`
 
 The chapter's survey of recent scholarship in three game studies-aligned journals finds usage of Gee 'splits along what are essentially disciplinary lines,' with some scholars invoking his terminology as a lens and others drawing on subsets of his principles for serious game design.
 

@@ -15,12 +15,14 @@ sources:
     author: Kenneth R. Koedinger, Emma Brunskill, Ryan S.J.d. Baker, Elizabeth A. McLaughlin, and John Stamper
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Machine-learned detectors of science inquiry skill made accurate inferences after a student ran a simulation three times
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Classifiers trained on hand-labeled science microworld logs inferred a student's inquiry skill accurately after three simulation runs (each under a minute), enabling rapid intervention. [→ Kenneth R. Koedinger 2012](#kenneth-r-koedinger-2012)
@@ -31,7 +33,7 @@ sources:
 
 Kenneth R. Koedinger, Emma Brunskill, Ryan S.J.d. Baker, Elizabeth A. McLaughlin, and John Stamper. (2012). New Potentials for Data-Driven Intelligent Tutoring System Development and Optimization. http://learnlab.org/datashop
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 Detector approach for ill-defined domains: humans hand-labeled replayed student interaction logs from science microworlds, and standard classification algorithms were trained and validated on new students and microworlds. The article reports detectors were "reasonably effective under these conditions" and accurate after three simulation runs.
 

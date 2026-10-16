@@ -15,18 +15,22 @@ sources:
     author: Christina Merten and Cristina Conati
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
   - id: christina-merten-and-cristina-conati-2005-2
     resource: "https://www.cs.ubc.ca"
     title: "Christina Merten and Cristina Conati. (2005). Eye-Tracking to Model and Adapt to User Meta-cognition in Intelligent Learning Environments. https://www.cs.ubc.ca"
     author: Christina Merten and Cristina Conati
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Time and gaze-shift evidence are complementary predictors of self-explanation: time alone yields higher sensitivity, gaze shifts alone higher specificity, and the combination the best accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` For implicitSE assessment, time alone gave 67.9% sensitivity versus 62.3% for gaze shifts alone, while gaze shifts gave higher specificity (67.8% vs 64.8%); the combined predictor outperformed either on its own (73.0% combined). [→ Christina Merten and Cristina Conati 2005](#christina-merten-and-cristina-conati-2005)
@@ -38,7 +42,7 @@ sources:
 
 Christina Merten and Cristina Conati. (2005). Eye-Tracking to Model and Adapt to User Meta-cognition in Intelligent Learning Environments. https://www.cs.ubc.ca
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Model 3 log files from the new study were rerun twice, once withholding eye-tracking data and once withholding time data (Table 7). The authors note these findings match the original user study and are consistent with time overestimating self-explanation.
 
@@ -48,7 +52,7 @@ Model 3 log files from the new study were rerun twice, once withholding eye-trac
 
 Christina Merten and Cristina Conati. (2005). Eye-Tracking to Model and Adapt to User Meta-cognition in Intelligent Learning Environments. https://www.cs.ubc.ca
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Similar evidence-withholding analysis for exploration nodes (Table 8): time-only combined accuracy 72.1%, gaze-only 71.6%, both 75.1%. Each single predictor "seems to succeed where the other fails", which the authors link to the combined predictor's high accuracy.
 

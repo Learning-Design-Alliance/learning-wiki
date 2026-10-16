@@ -15,12 +15,14 @@ sources:
     author: Carmen Yot-Domínguez and Carlos Marcelo
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Superficial information use with limited processing is the most used technology-based SRL strategy, while self-evaluation is among the least used
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The superficial use factor reaches the highest level of use (M = 3.65), with over 60% of students frequently resorting to Wikipedia and over 50% using online translators. [→ Carmen Yot-Domínguez and Carlos Marcelo 2017](#carmen-yot-dominguez-and-carlos-marcelo-2017)
@@ -31,7 +33,7 @@ sources:
 
 Carmen Yot-Domínguez and Carlos Marcelo. (2017). University students' self-regulated learning using digital technologies. International Journal of Educational Technology in Higher Education 14:38. https://doi.org/10.1186/s41239-017-0076-8
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Descriptive survey results for the factor "superficial use with limited information processing" among 711 students; strategies involve Wikipedia, online dictionaries and e-translators for low-level information processing.
 
@@ -41,4 +43,7 @@ Descriptive survey results for the factor "superficial use with limited informat
 
 
 ## Related Claims
--
+- [University students make limited use of digital technologies to self-regulate their learning despite being frequent technology users](students-limited-use-of-technologies-for-srl.md) — a broader claim this one bears on
+- [Cluster analysis identifies two antagonistic student profiles differing in level of technology-supported self-regulated learning](two-srl-technology-profiles-high-and-low.md) — related
+- [Factor analysis of technology-based SRL strategies yields nine factors explaining 54.904% of variance](nine-srl-technology-strategy-factors.md) — related
+- [Social-support strategies are the most generalised technology-based SRL strategies, with most students interacting via instant messaging and sharing material via the cloud](social-support-strategies-most-generalised-with-technology.md) — reports the opposite

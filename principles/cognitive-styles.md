@@ -19,7 +19,7 @@ sources:
 # Cognitive Styles
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (2 for, 13 mixed, 5 against) · 13 studies (5 review, 4 causal, 3 theoretical, 1 associational), `q1`–`q3` · 4 of 13 report an effect size · 18 claims rest on one study
+> **Evidence** · 22 claims (2 for, 15 mixed, 5 against) · 14 studies (6 review, 4 causal, 3 theoretical, 1 associational), `q1`–`q3` · 4 of 14 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -124,6 +124,8 @@ Claims about cognitive and learning styles that were read for this rewrite but a
 - [Kolb's inventory showed no association with medical career choices, and its personality-type predictions were contradicted](../claims/kolb-inventory-limited-validity-career-and-personality.md) [~M]: reviewed validity problem for a learning-style inventory; bears on measurement, not on cognitive styles directly.
 - [Learner characteristics — prior knowledge, self-regulatory skills, cognitive styles, and attitudes towards learning — moderate hypermedia learning effectiveness](../claims/learner-characteristics-moderate-hypermedia-effectiveness.md) [~M]: a review naming cognitive styles among moderators of learner-controlled hypermedia; names no direction or size.
 - Theory, not a claim: [Multiple Intelligences Theory](../theories/multiple-intelligences-theory.md) [~M] — the earlier page cited critics (Morgan, 1996, on that page) who argue MI's "intelligences" partly relabel cognitive-style research; it bears on what a style construct is, not on a design move.
+- [Virtually no learning-styles studies used designs capable of testing the required style-by-method crossover interaction](../claims/learning-styles-crossover-evidence-missing.md) [~W] — attached 2026-10-16 from Pashler et al. (2009), which proposed "Do not adopt learning-styles assessments in general educational practice; devote resources to practices with strong evidence bases".
+- [Massa and Mayer's three experiments found no support for matching instruction to visualizer–verbalizer preferences](../claims/massa-mayer-no-meshing-support.md) [~M] — attached 2026-10-16 from Pashler et al. (2009), which proposed "Do not adopt learning-styles assessments in general educational practice; devote resources to practices with strong evidence bases"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

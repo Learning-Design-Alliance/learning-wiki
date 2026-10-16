@@ -203,8 +203,10 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   (knowledge-tracing accuracy for an adaptive course, essay-scoring or AI-detector accuracy), and
   context that informs a design (needs, learner populations, baselines for reading an effect size).
   1,959 context claims removed on a misreading of the maintainer were restored the same day; claims
-  are re-sorted on this test (`eval/claim-sort/`), and only research-practice claims and local,
-  dated context go to the maintainer as removal candidates. `scripts/remove_pages.py` does a removal.
+  are re-sorted on this test (`eval/claim-sort/`, `sort_claims.py --all`). **Research-practice claims are
+  removed** where both models agree (maintainer, 2026-10-16: "we don't need research methods studies that
+  don't directly impact design decisions"); a disputed sort stays. Local, dated context still goes to the
+  maintainer as removal candidates. `scripts/remove_pages.py` does a removal.
 - **Claims about a learner characteristic link into its `learner-variables/` page and back**
   (`scripts/link_learner_variables.py`, `--new` in every batch): learning-design-spec's learner
   dimensions reach the research only through those pages. The model names the role (predictor,

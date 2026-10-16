@@ -15,18 +15,22 @@ sources:
     author: "Nathan, M. J., Koedinger, K. R., & Alibali, M. W."
     q: 3
     i: "?"
+    kind: theoretical
+    rigour: 2
   - id: nathan-2001-2
     resource: "https://www.google.com/search?q=%22Expert+Blind+Spot%22+Nathan+Koedinger+Alibali"
     title: "Nathan, M. J., Koedinger, K. R., & Alibali, M. W. (2001). Expert Blind Spot: When Content Knowledge Eclipses Pedagogical Content Knowledge. Proceeding of the Third International Conference on Cognitive Science. https://www.google.com/search?q=%22Expert+Blind+Spot%22+Nathan+Koedinger+Alibali"
     author: "Nathan, M. J., Koedinger, K. R., & Alibali, M. W."
     q: 3
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # High school teachers' rankings of algebra problem difficulty were uncorrelated with student performance, while middle school teachers' rankings were accurate
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q3`
 
 ## Subclaims
 `q3 i?` High school teachers (n = 39) judged verbal problems, especially algebra story problems, as most difficult for students, and their rankings showed no relation to student performance (τ(6) = 0). [→ Nathan 2001](#nathan-2001)
@@ -38,7 +42,7 @@ sources:
 
 Nathan, M. J., Koedinger, K. R., & Alibali, M. W. (2001). Expert Blind Spot: When Content Knowledge Eclipses Pedagogical Content Knowledge. Proceeding of the Third International Conference on Cognitive Science. https://www.google.com/search?q=%22Expert+Blind+Spot%22+Nathan+Koedinger+Alibali
 
-`q3 · i?`
+`q3 · i?` · `theoretical · r2`
 
 Ranking task with 105 elementary, middle and high school teachers who ordered problems from easiest to most difficult; problems varied along arithmetic/algebraic and verbal/symbolic dimensions. The article reports the high school teachers' ranking was "not related to student performance at all, τ(6) = 0"; no effect size is printed.
 
@@ -48,7 +52,7 @@ Ranking task with 105 elementary, middle and high school teachers who ordered pr
 
 Nathan, M. J., Koedinger, K. R., & Alibali, M. W. (2001). Expert Blind Spot: When Content Knowledge Eclipses Pedagogical Content Knowledge. Proceeding of the Third International Conference on Cognitive Science. https://www.google.com/search?q=%22Expert+Blind+Spot%22+Nathan+Koedinger+Alibali
 
-`q3 · i?`
+`q3 · i?` · `theoretical · r2`
 
 In the same ranking task, middle school teachers with less post-secondary mathematics education predicted story and word problems would be easiest and were "very accurate in predicting student performance, τ(6) = .733, p = .034"; no effect size is printed.
 

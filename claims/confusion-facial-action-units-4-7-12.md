@@ -15,12 +15,14 @@ sources:
     author: "Scotty D. Craig, Sidney D'Mello, Amy Witherspoon, and Art Graesser"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Confusion during learning is associated with facial action units 4, 7, and 12, with tightened lids tending to trigger a lowered brow
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Association rule mining found confusion associated with AUs 4, 7, and 12; AUs 4 and 7 occur simultaneously and AU7 tends to trigger AU4. [→ Scotty D. Craig 2008](#scotty-d-craig-2008)
@@ -31,7 +33,7 @@ sources:
 
 Scotty D. Craig, Sidney D'Mello, Amy Witherspoon, and Art Graesser. (2008). Emote aloud during learning with AutoTutor: Applying the Facial Action Coding System to cognitive/affective states during learning. Cognition and Emotion, 22(5), 777-788. https://doi.org/10.1080/02699930701516759
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Association rule mining on the same 300-observation dataset (100 records each for boredom, confusion, frustration). Table 2 lists the AU4-7 rule with 52% coverage and the brow-lowerer kappa at 1.00; the article states "Confusion displayed associations with AUs 4, 7, and 12".
 

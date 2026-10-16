@@ -15,12 +15,14 @@ sources:
     author: Chris Piech, Jonathan Huang, Zhenghao Chen, Chuong Do, Andrew Ng, Daphne Koller
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Grading time shows a sweet spot: students grading around 20 minutes (time z-score near -0.25) have significantly lower residual standard deviations than slow graders, while snap graders are unreliable and inflate grades
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Students grading with time z-score around -0.25 have significantly lower residual standard deviations (p-value < 0.001, diff = 0.3 standard deviations) than students with time z-score > -0.20; snap graders (z-score < -0.30) are unreliable and tend to slightly inflate grades. [→ Chris Piech 2013](#chris-piech-2013)
@@ -31,7 +33,7 @@ sources:
 
 Chris Piech, Jonathan Huang, Zhenghao Chen, Chuong Do, Andrew Ng, Daphne Koller. (2013). Tuned Models of Peer Assessment in MOOCs. arXiv. https://arxiv.org/abs/1307.2579
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Observational analysis of tens of thousands of peer grades in the HCI datasets, comparing grading residual to time spent grading (Figure 4a). The article reports the sweet spot "corresponds to around 20 minutes grading" for most assignments and is only visible with normalized grading times.
 

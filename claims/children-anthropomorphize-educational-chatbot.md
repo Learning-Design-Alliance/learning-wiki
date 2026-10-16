@@ -52,3 +52,4 @@ Thematic analysis of student dialog transcripts identified three themes, includi
 - [Role ambiguity for a Black-accented agent destabilized trust, culminating in breakdown after the agent inaccurately tracked group decisions](role-ambiguity-black-accent-trust-breakdown.md) — related
 - [Children were split about confiding in the chatbot, with about half willing to share secrets or ask advice and half not](children-split-on-confiding-in-chatbot.md) — related
 - [Children use a 'trust test' strategy, asking a chatbot questions they already know the answers to, to evaluate it as a credible information source](children-trust-test-chatbot-with-known-answers.md) — related
+- [The lived experience of conversing with a pedagogical agent comprises five interdependent phenomenological themes](five-themes-conversing-pedagogical-agent.md) — related

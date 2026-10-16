@@ -15,12 +15,14 @@ sources:
     author: Luxton-Reilly, A.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Holistic peer feedback correlated significantly with tutor marks while specific-criteria rubric feedback did not in the PEARS system
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a PEARS evaluation, there was no correlation between students' scores and tutors' scores when using a rubric with specific criteria, but a significant positive correlation was found when the holistic rubric was used. [→ Luxton-Reilly 2009](#luxton-reilly-2009)
@@ -31,7 +33,7 @@ sources:
 
 Luxton-Reilly, A. (2009). A systematic review of tools that support peer assessment. Computer Science Education, 19(4), 209-232. https://doi.org/10.1080/08993400903384844
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 An evaluation study comparing holistic with specific feedback using the PEARS system found that "a significant positive correlation was found between students and tutors when the holistic rubric was used" but no correlation with the specific-criteria rubric. No correlation coefficient is printed.
 

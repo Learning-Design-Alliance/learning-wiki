@@ -15,12 +15,14 @@ sources:
     author: "Na'ilah Suad Nasir, Victoria Hand and Edd V. Taylor"
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Across everyday-mathematics studies, individuals tended to score higher on tasks linked to their everyday practices than on school-format versions of the same questions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` When the same questions were posed in everyday and school formats, individuals tended to score higher on tasks more closely linked to their everyday practices, though schooled people sometimes applied school knowledge to out-of-school problems. [→ Na'ilah Suad Nasir 2008](#nailah-suad-nasir-2008)
@@ -31,7 +33,7 @@ sources:
 
 Na'ilah Suad Nasir, Victoria Hand and Edd V. Taylor. (2008). Culture and Mathematics in School: Boundaries between "Cultural" and "Domain" Knowledge in the Mathematics Classroom and Beyond. Review of Research in Education, Vol. 32. https://doi.org/10.3102/0091732X07308962
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports, citing studies of grocery shopping (Lave et al., 1984), dairy case work (Scribner), street vending in Brazil (Carraher et al.; Saxe), and basketball (Nasir), that individuals "tended to score higher on tasks more closely linked to their everyday practices." This is the review's narrative synthesis of second-hand studies, not a pooled estimate.
 

@@ -15,12 +15,14 @@ sources:
     author: "Akram, B., Mott, B., Min, W., Boyer, K. E., Wiebe, E., & Lester, J."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Clustering n-gram flip sequences per task yields three distinct problem-solving strategy groups across the binary challenges
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` EM clustering of n-gram features of tile-flip sequences produced three coherent strategy clusters: quick solvers with few trial-and-error attempts, moderate solvers with thoughtful trial-and-error, and slow solvers with many flips and seemingly random trial-and-error. [→ Akram 2017](#akram-2017)
@@ -31,7 +33,7 @@ sources:
 
 Akram, B., Mott, B., Min, W., Boyer, K. E., Wiebe, E., & Lester, J. (2017). Improving Stealth Assessment in Game-based Learning with LSTM-based Analytics. https://scholar.google.com/scholar?q=Improving+Stealth+Assessment+in+Game-based+Learning+with+LSTM-based+Analytics
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Unsupervised EM clustering (MClust in R) of n-gram features from flip sequences, performed separately for each of the 11 tasks on the training set. Decimal and binary error-decay plots (Figures 3 and 4) showed distinct decay patterns per cluster; three clusters were chosen for all tasks.
 

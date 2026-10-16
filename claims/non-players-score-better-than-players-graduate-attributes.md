@@ -15,12 +15,14 @@ sources:
     author: Matthew Barr
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Non-players generally score better than players on graduate attribute measures, though the difference is very small
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` When respondents were collapsed into players and non-players, non-players scored better on all measures of graduate attribute attainment, with statistically significant but very small differences. [→ Matthew Barr 2020](#matthew-barr-2020)
@@ -31,7 +33,7 @@ sources:
 
 Matthew Barr. (2020). A cross-sectional study of video game play habits and graduate skills attainment. Research in Learning Technology. https://doi.org/10.25304/rlt.v28.2326
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Player-versus-non-player analysis (Table 3: 753 non-players, 1351 players) of the same survey. The article reports a CAS difference of 1.88 between players and non-players against standard deviations of 13.49 and 13.85, i.e. a very small absolute difference.
 

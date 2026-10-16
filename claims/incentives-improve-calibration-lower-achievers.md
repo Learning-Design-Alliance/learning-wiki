@@ -13,12 +13,14 @@ sources:
     title: Bol L and Hacker DJ 2012
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Incentives significantly improved calibration accuracy only among lower-achieving students in a college-course quasi-experiment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In a fully crossed quasi-experiment manipulating incentives and reflection in a college course, incentives significantly improved calibration accuracy but only among lower-achieving students. [→ Bol L and Hacker DJ 2012](#bol-l-and-hacker-dj-2012)
@@ -29,7 +31,7 @@ sources:
 
 Bol L and Hacker DJ (2012) Calibration research: where do we go from here? Front. Psychology 3:229. https://doi.org/10.3389/fpsyg.2012.00229
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Quasi-experiment in college courses (Hacker et al., 2008a) with a fully crossed incentives-by-reflection design; extrinsic reward students could earn one to four additional points per exam for calibration accuracy. The article reports "incentives signiﬁcantly improved calibration accuracy but only among lower-achieving students"; no effect size is printed.
 

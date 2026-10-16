@@ -13,7 +13,7 @@ generated:
 # Differentiated Team Roles
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 9 studies (3 review, 2 causal, 2 design, 1 quant-synthesis, 1 associational), `q2`–`q3` · 2 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 10 studies (3 review, 3 design, 2 causal, 1 quant-synthesis, 1 associational), `q2`–`q3` · 2 of 10 report an effect size · 3 claims rest on one study
 
 ## Description
 Differentiated team roles assign each member of a collaborative group a distinct function — such as facilitator, recorder, skeptic, or resource manager — so that participation is structured rather than optional. Roles create positive interdependence: the group cannot succeed unless each member performs their function, which raises individual accountability and distributes cognitive labor across the team.
@@ -57,6 +57,7 @@ Structured roles counteract the well-documented failure modes of unstructured gr
 - [Neurodivergent students feel most comfortable in teams with defined roles rather than no specific roles](../claims/nd-prefer-defined-team-roles.md) [+W]
 - [Role rotation created opportunities for perspective-taking and collaborative accountability, but also produced difficulty adapting to unfamiliar roles and uneven participation](../claims/role-rotation-perspective-taking-and-challenges.md) [~M]
 - [Role design facilitates transitions among higher-order collaborative behaviors in human-GAI collaboration](../claims/role-design-facilitates-higher-order-behavior-transitions.md) [+W]
+- [Time dependence, cascading events, and distinct player roles added to a redesigned AR engine fostered collaboration between teams in subsequent game iterations](../claims/ar-gen2-features-foster-between-team-collaboration.md) [+W] — attached 2026-10-16 from Klopfer et al. (2004), which proposed "Redesigned AR engine with time dependence, cascading events, and distinct player roles (Charles River City and Mad City Murder)".
 
 ## The evidence by question
 - *Which structure matters: group rewards tied to each member's learning, assigned roles, or interdependence of any kind?* [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+M]

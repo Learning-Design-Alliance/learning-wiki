@@ -15,12 +15,14 @@ sources:
     author: "Pufpaff, L. A., & Yssel, N."
     q: 1
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The study could not determine whether knowledge gains transferred to participants' classroom teaching
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The authors state that without follow-up into participants' classrooms, they cannot determine whether the research-to-practice loop is complete. [→ Pufpaff 2010](#pufpaff-2010)
@@ -31,7 +33,7 @@ sources:
 
 Pufpaff, L. A., & Yssel, N. (2010). Effects of a 6-Week, Co-Taught Literacy Unit on Preservice Special Educators' Literacy-Education Knowledge. Psychology in the Schools, 47(5). https://doi.org/10.1002/pits.20485
 
-`q1 · i?`
+`q1 · i?` · `causal · r1`
 
 Authors' stated limitation of the pretest-posttest project: no follow-up measured whether participants could apply the knowledge gained in their classrooms. "Ultimately, teachers must be able to translate research knowledge into successful teaching."
 

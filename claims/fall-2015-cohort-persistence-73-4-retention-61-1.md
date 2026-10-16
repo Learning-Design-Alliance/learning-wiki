@@ -15,12 +15,14 @@ sources:
     author: First-Year Persistence and Retention
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Of students who started college in fall 2015, 73.4 percent persisted at any U.S. institution and 61.1 percent were retained at their starting institution in fall 2016
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The overall first-year persistence rate for the fall 2015 entering cohort was 73.4 percent and the overall retention rate was 61.1 percent. [→ First-Year Persistence and Retention 2017](#first-year-persistence-and-retention-2017)
@@ -31,7 +33,7 @@ sources:
 
 First-Year Persistence and Retention. (2017). National Student Clearinghouse Snapshot Report. https://nscresearchcenter.org/wp-content/uploads/NSC_SnapshotReport28_PersistenceRetention_Data_Tables.xlsx
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Descriptive analysis of National Student Clearinghouse enrollment records for the fall 2015 entering cohort, all sectors. The report states "73.4 percent persisted at any U.S. institution" while 61.1 percent were retained at the starting institution; no inferential statistics are printed.
 

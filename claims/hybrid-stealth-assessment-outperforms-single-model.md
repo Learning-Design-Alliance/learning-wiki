@@ -15,12 +15,14 @@ sources:
     author: "Henderson, N., Kumaran, V., Min, W., Mott, B., Wu, Z., Boulden, D., Lord, T., Reichsman, F., Dorsey, C., Wiebe, E., & Lester, J."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # A hybrid stealth assessment framework selecting the optimal model per concept outperforms any single homogeneous modeling technique for predicting student competencies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Selecting the optimal model for each individual concept yields a mean R² of 0.241, a 17.0% improvement over using the best single model (single-task Random Forest, mean R² 0.206) for all concepts. [→ Henderson 2020](#henderson-2020)
@@ -32,7 +34,7 @@ sources:
 
 Henderson, N., Kumaran, V., Min, W., Mott, B., Wu, Z., Boulden, D., Lord, T., Reichsman, F., Dorsey, C., Wiebe, E., & Lester, J. (2020). Enhancing Student Competency Models for Game-Based Learning with a Hybrid Stealth Assessment Framework. Proceedings of The 13th International Conference on Educational Data Mining (EDM 2020), 92-103. https://educationaldatamining.org/EDM2020/proceedings/
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Predictive modeling study of 316 students' gameplay logs in Geniventure, evaluating static and sequential single-task and multi-task regression models on held-out test sets. The hybrid framework achieved "a performance of 0.241" mean R² versus 0.206 for the best homogeneous baseline.
 

@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 9 claims (5 for, 4 mixed) · 8 studies (6 associational, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 3 of 8 report an effect size · 8 claims rest on one study
+> **Evidence** · 10 claims (6 for, 4 mixed) · 9 studies (7 associational, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 4 of 9 report an effect size · 9 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -47,6 +47,7 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [Cognitive flexibility uniquely predicts literacy achievement in Grades 4 and 6, above and beyond fluid intelligence, attention, inhibitory control, working memory, and planning](../claims/cognitive-flexibility-unique-predictor-literacy-grades-4-6.md) [~W] — attached 2026-10-16 from Sofia Magalhães et al. (2020), which proposed "Three-core-component model of executive functions with higher-order components built on top".
 - [Cognitive flexibility uniquely predicts mathematics achievement in Grades 4 and 6, with a larger effect in Grade 6 than in Grade 4](../claims/cognitive-flexibility-unique-predictor-math-grades-4-6.md) [~W] — attached 2026-10-16 from Sofia Magalhães et al. (2020), which proposed "Three-core-component model of executive functions with higher-order components built on top".
 - [Hot executive function (CGT risk adjustment) shows a bell-shaped developmental curve, peaking at age 14 and declining thereafter](../claims/hot-ef-bell-shaped-development.md) [+M] — attached 2026-10-16 from Poon K (2018), which proposed "Hot/cool distinction in executive function: cool EF as logic-driven and hot EF as emotion-driven processes underlying goal-directed behavior"; tests this page's relationship.
+- [Victim group children take longer on Trail Making Test Part B than bullies, indicating lower cognitive flexibility in victims](../claims/victims-longer-tmt-b-lower-cognitive-flexibility.md) [+W] — attached 2026-10-16 from Medeiros W et al. (2016), which proposed "Hot and cold executive functions dichotomy applied to bullying roles".
 
 ## Related Theories
 

@@ -53,3 +53,4 @@ Publication-bias assessment of the 21-study meta-analysis using a thesis-vs-arti
 - Trim and Fill publication bias analysis suggests the pooled short-term adventure therapy effect (.47) slightly underestimates the true effect (adjusted .52) — related
 - Funnel-plot and fail-safe N analyses indicate small publication bias, and one-study-removal analysis indicates stable pooled effects — related
 - [Funnel-plot asymmetry was significant in both meta-analyses, indicating possible publication or selection bias](funnel-plot-asymmetry-significant-eai.md) — related
+- [Published studies of simulation games report substantially larger effects than unpublished studies, indicating publication bias](publication-bias-in-simulation-games-research.md) — reports the opposite

@@ -15,12 +15,14 @@ sources:
     author: "Klopfer, E., Perry, J., Squire, K., & Jan, M.-F."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # First-generation AR games produced strong collaboration within teams but limited or non-existent collaboration between teams
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In first-generation AR games, collaboration within groups was strong and successful while collaboration between groups was limited or non-existent. [→ Klopfer 2004](#klopfer-2004)
@@ -31,7 +33,7 @@ sources:
 
 Klopfer, E., Perry, J., Squire, K., & Jan, M.-F. (2004). Collaborative Learning through Augmented Reality Role Playing. https://doi.org/10.3115/1149293.1149333
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 Design-narrative analysis of classroom runs of Environmental Detectives, including a suburban high school environmental science class and a private all-girls high school chemistry class in the Boston metropolitan area. The authors report that "collaboration within the teams was quite strong" while "Evidence of collaboration between teams of students is sparser."
 

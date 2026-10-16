@@ -15,12 +15,14 @@ sources:
     author: "Rogers, P. C., Graham, C. R., & Mayes, C. T."
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Practitioners hold that general instructional design principles are universal but must be separated from culturally specific applications
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Participants generally believe good instructional design principles are universal cross-culturally, but applications must be adapted by understanding learners' expectations and building bridges. [→ Rogers 2007](#rogers-2007)
@@ -31,7 +33,7 @@ sources:
 
 Rogers, P. C., Graham, C. R., & Mayes, C. T. (2007). Cultural competence and instructional design: Exploration research into the delivery of online instruction cross-culturally. Education Tech Research Dev. https://doi.org/10.1007/s11423-007-9033-x
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 This is a participant viewpoint (Derek's) reported in the results of the interview study, not a tested finding. Derek argued Western scholars who declare methods inapplicable in China fail to understand "the principles behind those theories enough to adapt it to a different culture."
 

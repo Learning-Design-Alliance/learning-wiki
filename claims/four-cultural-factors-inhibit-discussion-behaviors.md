@@ -15,12 +15,14 @@ sources:
     author: Janneke M. Frambach, Erik W. Driessen, Philip Beh and Cees P.M. van der Vleuten
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Four cultural factors inhibit students from speaking up, asking questions and challenging others in PBL discussions, with stronger impact in non-Western schools
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Speaking up, asking questions, and challenging others were influenced by four cultural factors: uncertainty and tradition, group relations and face, hierarchical relations, and achievement and competition, with stronger impact in the two non-Western schools than the Western school. [→ Janneke M. Frambach 2014](#janneke-m-frambach-2014)
@@ -31,7 +33,7 @@ sources:
 
 Janneke M. Frambach, Erik W. Driessen, Philip Beh and Cees P.M. van der Vleuten. (2014). Quiet or questioning? Students' discussion behaviors in student-centered education across cultures. Studies in Higher Education. https://doi.org/10.1080/03075079.2012.754865
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Qualitative comparative case study integrating interviews, observations, documents and context information from three medical schools. The results section reports that the four named cultural factors influenced speaking up, asking questions and challenging others, and that 'Compared with the Western case, the two non-Western cases showed a stronger impact of these factors.'
 

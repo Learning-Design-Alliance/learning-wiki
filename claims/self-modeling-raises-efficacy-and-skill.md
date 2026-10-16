@@ -15,12 +15,14 @@ sources:
     author: Schunk, D. H.
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Self-modeling raised self-efficacy for learning, motivation, and posttest skill among below-grade-level children
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Viewing videotapes of one's own successful problem solving produced higher self-efficacy for learning, motivation, and posttest self-efficacy and skill than being taped but not shown, or not taped. [→ Schunk 1995](#schunk-1995)
@@ -31,7 +33,7 @@ sources:
 
 Schunk, D. H. (1995). Self-efficacy, motivation, and performance. Journal of Applied Sport Psychology, 7(2), 112-137. http://www.taylorandfrancis.com/
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Experiment during acquisition of fraction skills with children working on below-grade-level material; conditions compared self-modeling, taping without viewing, and no taping. Mastery and progress self-model tapes did not differ.
 
@@ -41,4 +43,5 @@ Experiment during acquisition of fraction skills with children working on below-
 
 
 ## Related Claims
--
+- [Peer models raised self-efficacy and skill better than teacher models, but model-competence findings conflict across studies](peer-model-similarity-effects-mixed-evidence.md) — related
+- [Coping versus mastery model benefits depend on task difficulty and observers' prior success](coping-versus-mastery-models-task-difficulty.md) — related

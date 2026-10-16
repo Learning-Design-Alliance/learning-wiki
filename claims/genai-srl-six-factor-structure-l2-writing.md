@@ -68,3 +68,4 @@ Confirmatory factor analysis on the independent Sample two (N = 342) tested the 
 - [Exploratory factor analysis of the reduced item pool yields a six-factor solution explaining 73.76% of variance](sfailq-efa-six-factor-solution.md) — related
 - [Exploratory factor analysis identifies six factors aligned with the ED-AI framework, explaining 63.965% of total variance](tails-efa-six-factors-variance.md) — related
 - [Confirmatory factor analysis supports the six-facet structure with marginal but acceptable fit](sfailq-cfa-fit.md)
+- [Factor analysis of technology-based SRL strategies yields nine factors explaining 54.904% of variance](nine-srl-technology-strategy-factors.md) — related

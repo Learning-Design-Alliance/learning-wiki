@@ -15,12 +15,14 @@ sources:
     author: Daniel L. Schwartz and Dylan Arena
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Nations whose students score best on TIMSS mathematics and science tests show the least liking of mathematics and science
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across nations, better TIMSS math and science scores are associated with less student interest in pursuing math or science. [→ Daniel L. Schwartz and Dylan Arena 2013](#daniel-l-schwartz-and-dylan-arena-2013)
@@ -31,7 +33,7 @@ sources:
 
 Daniel L. Schwartz and Dylan Arena. (2013). Measuring What Matters Most: Choice-Based Assessments for the Digital Age. The MIT Press. http://www.macfound.org
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The report cites the Trends in International Mathematics and Science Study, an assessment taken by students around the world, reporting that "the less interest the children there have in pursuing math or science" the better their nations score. No correlation coefficient is printed.
 

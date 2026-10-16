@@ -15,12 +15,14 @@ sources:
     author: Meltzer, L. (Ed.)
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Students with EDF grow into school-assessed learning disabilities, written expression first and reading comprehension next
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Children with executive function dysfunction, usually attached to an ADHD diagnosis, develop academic difficulties in written expression first and reading comprehension next as they age. [→ Meltzer 2007](#meltzer-2007)
@@ -31,7 +33,7 @@ sources:
 
 Meltzer, L. (Ed.). (2007). Executive Function in Education: From Theory to Practice. The Guilford Press. https://www.guilford.com
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Denckla's clinical chapter describes, citing Singer, Schuerholz, and Denckla, how students with EDF and strong cognitive ingredients in other domains come to be assessed as learning disabled, with written expression difficulties emerging first and reading comprehension next. The review attributes this to the cited work; no effect size is printed.
 

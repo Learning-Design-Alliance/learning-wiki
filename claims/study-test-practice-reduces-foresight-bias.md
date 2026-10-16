@@ -15,12 +15,14 @@ sources:
     author: "Koriat, A., & Bjork, R. A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Repeated study–test practice reduces the foresight bias for backward pairs, with the illusion of competence disappearing by the fourth presentation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Across four study–test cycles in Experiment 1, the illusion of competence for backward pairs decreased with practice and disappeared by the fourth presentation. [→ Koriat 2006](#koriat-2006)
@@ -31,7 +33,7 @@ sources:
 
 Koriat, A., & Bjork, R. A. (2006). Illusions of competence during study can be remedied by manipulations that enhance learners' sensitivity to retrieval conditions at test. Memory & Cognition, 34(5), 959-972. https://doi.org/10.3758/bf03193244
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 1, 24 participants, four study–test cycles; the triple interaction was significant, F(3,69)  9.41, p  .0001, and "the illusion of competence associated with the backward pairs decreased with practice". A ceiling effect on the fourth presentation was checked by repeating the ANOVA on the third.
 

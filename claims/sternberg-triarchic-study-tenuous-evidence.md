@@ -15,12 +15,14 @@ sources:
     author: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # The single potentially supportive study (Sternberg et al., 1999) provided only tenuous evidence due to methodological issues
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A style-by-treatment interaction was reported for gifted high school students, but only with highly derived measures, a subset of subjects, and after excluding outliers for unspecified reasons. [→ Pashler 2009](#pashler-2009)
@@ -31,7 +33,7 @@ sources:
 
 Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2009). Learning Styles: Concepts and Evidence. Psychological Science in the Public Interest, Volume 9 Number 3. https://journals.sagepub.com/
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Study of 324 gifted and talented high school students given the Sternberg Triarchic Abilities Test, with a subset of 112 assigned to analytical, creative, practical, or memory instruction in a Yale summer psychology course. Matched subjects reliably outscored mismatched subjects on two of three assessments, but only after screening for deviant scores and using principal-component-derived measures.
 

@@ -15,12 +15,14 @@ sources:
     author: Dede, C.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Major 21st century skills frameworks are largely consistent, adding to P21 either highlighted subskills or areas underemphasized in its categories
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Alternative frameworks add to P21 in two ways: identifying particularly important subskills within P21 categories, and stressing areas underemphasized in P21's categories. [→ Dede 2009](#dede-2009)
@@ -31,7 +33,7 @@ sources:
 
 Dede, C. (2009). Comparing Frameworks for "21st Century Skills". Harvard Graduate School of Education. https://eric.ed.gov
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Comparative analysis of the P21, Metiri/NCREL, OECD, AAC&U, ISTE, and ETS frameworks. The chapter concludes the frameworks are "generally consistent with each other" and classifies additions into two types, citing ISTE's troubleshooting subskill as an example.
 

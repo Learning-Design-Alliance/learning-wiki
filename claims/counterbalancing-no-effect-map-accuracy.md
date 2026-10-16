@@ -46,3 +46,4 @@ Null omnibus result from the same 50-subject mixed ANOVA: counterbalancing order
 - [A self-explanation instruction during rereading improves monitoring accuracy for all readers above mere rereading (Experiment 2)](self-explanation-improves-metacomprehension-accuracy.md) — related
 - [Prior genAI use and incentives show no clear effects on later memory retention](genai-no-clear-memory-effect.md) — related
 - [No significant GenAI-literacy-by-agent-condition interaction emerged, so the formal models did not support different literacy slopes across designs](no-literacy-by-agent-interaction.md) — related
+- [No significant interactions emerged between text medium and any other variable (test time, complexity, engagement)](no-interactions-with-text-medium.md) — related

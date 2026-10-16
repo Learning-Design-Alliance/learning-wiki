@@ -15,12 +15,14 @@ sources:
     author: Nicholas David Bowman, Daniel Schultheiss, and Christina Schumann
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Video game skill and time spent playing are associated with gaming motivations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Highly skilled gamers reported more of both pro-social and anti-social motivations, and more hours playing the favorite MMO was associated with pro-social gaming motivations. [→ Nicholas David Bowman 2012](#nicholas-david-bowman-2012)
@@ -31,7 +33,7 @@ sources:
 
 Nicholas David Bowman, Daniel Schultheiss, and Christina Schumann. (2012). 'I'm Attached, and I'm a Good Guy/Gal!': How Character Attachment Influences Pro- and Anti-Social Motivations to Play Massively Multiplayer Online Role-Playing Games. CyberPsychology, Behavior, and Social Networking. https://doi.org/10.1089/cyber.2011.0311
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Hierarchical regression results from the 450-player survey: video game skill was significant in both models (pro-social beta = 0.246, p < 0.001; anti-social beta = 0.223, p < 0.001), and square-root-transformed hours playing was significant for pro-social motivations (p < 0.05).
 

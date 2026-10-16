@@ -15,12 +15,14 @@ sources:
     author: "Nathan, M. J., Koedinger, K. R., & Alibali, M. W."
     q: 3
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Ninth grade algebra students solve verbally presented problems better than symbolically presented problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · theoretical `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Students who completed a year of formal algebra instruction performed significantly better on verbally presented problems than on symbolic equations, in both samples. [→ Nathan 2001](#nathan-2001)
@@ -31,7 +33,7 @@ sources:
 
 Nathan, M. J., Koedinger, K. R., & Alibali, M. W. (2001). Expert Blind Spot: When Content Knowledge Eclipses Pedagogical Content Knowledge. Proceeding of the Third International Conference on Cognitive Science. https://www.google.com/search?q=%22Expert+Blind+Spot%22+Nathan+Koedinger+Alibali
 
-`q3 · i?`
+`q3 · i?` · `theoretical · r3`
 
 Research on problem-solving performance of ninth grade students in two samples (n1 = 76, n2 = 171) who had completed a year of formal algebra instruction. The article reports "statistically significant advantages for verbal problems in both samples (p < .01)"; no effect size is printed.
 

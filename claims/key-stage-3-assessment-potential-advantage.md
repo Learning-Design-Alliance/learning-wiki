@@ -15,12 +15,14 @@ sources:
     author: Dede, C.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The Key Stage 3 ICT assessment has more potential than CWRA and PISA to measure the full range of 21st century capabilities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Among the three reviewed assessments, the Key Stage 3 ICT Literacy Assessment, conducted in a virtual world, has more potential than the paper-based CWRA and PISA to measure full 21st century capabilities including digital literacies. [→ Dede 2009](#dede-2009)
@@ -31,7 +33,7 @@ sources:
 
 Dede, C. (2009). Comparing Frameworks for "21st Century Skills". Harvard Graduate School of Education. https://eric.ed.gov
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 The chapter's qualitative comparison of three assessments discussed in the Education Board's report: CWRA, PISA, and Key Stage 3 ICT. CWRA and PISA are described as limited by paper-based, test-item-focused formats; Key Stage 3 uses a virtual world with a walled garden of assets.
 
@@ -41,4 +43,4 @@ The chapter's qualitative comparison of three assessments discussed in the Educa
 
 
 ## Related Claims
--
+- [Progress toward implementing the right to education over the past half century has been largely quantitative, falling short of Article 26's qualitative purposes](right-to-education-progress-quantitative-only.md) — related

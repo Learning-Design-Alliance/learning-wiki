@@ -15,12 +15,14 @@ sources:
     author: Alexander Koch, Julia Nafziger, Helena Skyt Nielsen
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Women tend to shy away from competition, contributing to gender gaps in math-related educational choices
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Experimental studies observe gender differences in selection into competitive situations, with women shy away from competition. [→ Alexander Koch 2015](#alexander-koch-2015)
@@ -31,7 +33,7 @@ sources:
 
 Alexander Koch, Julia Nafziger, Helena Skyt Nielsen. (2015). Behavioral economics of education. Journal of Economic Behavior & Organization 115 (2015) 3–17. https://doi.org/10.1016/j.jebo.2014.09.005
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports experimental evidence on selection into competition: Niederle and Vesterlund (2007) and Datta Gupta et al. (2013) 'examine this selection' and observe that women 'shy away from competition'. Datta Gupta et al. did not observe a clear gender gap in performance, unlike Gneezy et al. (2003).
 

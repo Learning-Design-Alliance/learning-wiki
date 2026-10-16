@@ -15,18 +15,22 @@ sources:
     author: "Ali Al-Issa & Ali Al-Bulushi"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
   - id: ali-al-issa-ali-al-bulushi-2010-2
     resource: "https://ro.ecu.edu.au/ajtec/vol35/iss4/4/"
     title: "Ali Al-Issa & Ali Al-Bulushi. (2010). Training English Language Student Teachers to Become Reflective Teachers. Australian Journal of Teacher Education, Vol 35, 4. https://ro.ecu.edu.au/ajtec/vol35/iss4/4/"
     author: "Ali Al-Issa & Ali Al-Bulushi"
     q: 2
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # SQU ELT trainers encouraged peer observation and same-day feedback sessions, with 78.9% of trainees agreeing trainers encouraged class visits and 81.9% agreeing feedback came the same day as observation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` 78.9 per cent of trainees agreed their trainers encouraged them to visit each other's classes during teaching practice, and all trainers agreed they encouraged such visits. [→ Ali Al-Issa & Ali Al-Bulushi 2010](#ali-al-issa-ali-al-bulushi-2010)
@@ -38,7 +42,7 @@ sources:
 
 Ali Al-Issa & Ali Al-Bulushi. (2010). Training English Language Student Teachers to Become Reflective Teachers. Australian Journal of Teacher Education, Vol 35, 4. https://ro.ecu.edu.au/ajtec/vol35/iss4/4/
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Survey of 90 final-year ELT student teachers at Sultan Qaboos University; Item 7 of the reflection-through-observation theme. "78.9 per cent of the trainees agreed that their trainers encouraged them to visit each other’s classes"; the article adds that all the trainers agreed they encouraged such visits.
 
@@ -48,7 +52,7 @@ Survey of 90 final-year ELT student teachers at Sultan Qaboos University; Item 7
 
 Ali Al-Issa & Ali Al-Bulushi. (2010). Training English Language Student Teachers to Become Reflective Teachers. Australian Journal of Teacher Education, Vol 35, 4. https://ro.ecu.edu.au/ajtec/vol35/iss4/4/
 
-`q2 · i?`
+`q2 · i?` · `associational · r1`
 
 Same survey, reflection-through-talking theme, Item 13. "81.9 per cent agreed that their trainers held feedback sessions on the same day" as observation; all seven trainers agreed they held group feedback sessions.
 

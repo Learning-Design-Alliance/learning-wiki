@@ -15,12 +15,14 @@ sources:
     author: "Gielen, S., Dochy, F., & Onghena, P."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Peer assessment research expanded rapidly after 1998, with at least two-thirds of studies published between 1997 and 2006
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A bibliographic database search shows at least two-thirds of peer assessment studies since the 1970s were published between 1997 and the end of 2006, indicating rapid growth after Topping's 1998 review. [→ Gielen 2011](#gielen-2011)
@@ -31,7 +33,7 @@ sources:
 
 Gielen, S., Dochy, F., & Onghena, P. (2011). An inventory of peer assessment diversity. Assessment & Evaluation in Higher Education, 36(2), 137–155. https://doi.org/10.1080/02602930903221444
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 A descriptive database search across ERIC, SSCI, Academic Search Premier and PsycINFO (conducted 10 February 2007) counted peer assessment references by publication period; the authors report that 'at least two-thirds of the studies published on peer assessment' appeared between 1997 and 2006. No effect size is applicable.
 

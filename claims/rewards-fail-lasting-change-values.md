@@ -15,12 +15,14 @@ sources:
     author: Kohn, Alfie
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Behavior modification programs relying on rewards rarely produce lasting changes in attitudes or behavior, and children whose parents frequently use rewards tend to be less generous
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` When rewards stop, people usually return to prior behavior, and children whose parents make frequent use of rewards tend to be less generous than their peers. [→ Kohn 1994](#kohn-1994)
@@ -31,7 +33,7 @@ sources:
 
 Kohn, Alfie. (1994). The Risks of Rewards. ERIC Digest. ERIC Clearinghouse on Elementary and Early Childhood Education Urbana IL. https://eric.ed.gov/?id=ED376990
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The digest reports, citing prior research (Fabes et al., 1989; Grusec, 1991; Kohn 1990), that "behavior modification programs are rarely successful at producing lasting changes" and that children of reward-using parents are less generous. No effect sizes are printed.
 

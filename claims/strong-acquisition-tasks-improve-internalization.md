@@ -52,3 +52,4 @@ Experiment 2 two-way ANOVA (input version x acquisition tasks) on the sum of com
 - [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](less-initial-retrieval-support-produces-better-retention.md) — related
 - [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — related
 - [Guided Notes Improve Note Accuracy](guided-notes-improve-note-accuracy.md) — related
+- [Structural signals show no consistent recall benefits but can aid deeper understanding measured by problem-solving tests](structural-signals-aid-problem-solving-not-recall.md) — related

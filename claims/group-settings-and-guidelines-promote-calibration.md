@@ -13,12 +13,14 @@ sources:
     title: Bol L and Hacker DJ 2012
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Group settings and guidelines each promoted calibration accuracy and achievement in a high school biology factorial experiment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In a factorial experiment with high school biology students, both practicing calibration in group settings and using guidelines to gauge judgments promoted calibration accuracy and achievement. [→ Bol L and Hacker DJ 2012](#bol-l-and-hacker-dj-2012)
@@ -29,7 +31,7 @@ sources:
 
 Bol L and Hacker DJ (2012) Calibration research: where do we go from here? Front. Psychology 3:229. https://doi.org/10.3389/fpsyg.2012.00229
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Factorial experiment (Bol et al., 2012) with high school biology students crossing group versus individual calibration practice with guideline use. The article reports "both group settings and guidelines to be eﬀective in promoting calibration accuracy and achievement"; no effect sizes are printed.
 

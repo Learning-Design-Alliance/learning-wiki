@@ -39,7 +39,7 @@ De-centering is a concrete team practice for limiting cultural bias in design. T
 - building the cultural and instructional context around the target audience
 
 ### Affordances
-- [Culture Based Model Cbm](../theories/culture-based-model-cbm.md)
+- [Culture Based Model Cbm](../products/culture-based-model-cbm.md)
 
 ## Related Strategies
 - 
