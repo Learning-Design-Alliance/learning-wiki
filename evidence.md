@@ -8,12 +8,12 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 15,826 |
-| Evidence entries | 18,809 |
-| Distinct studies | 4,711 |
-| Claims resting on one study | 15,375 (97%) |
+| Claims | 15,841 |
+| Evidence entries | 18,824 |
+| Distinct studies | 4,712 |
+| Claims resting on one study | 15,390 (97%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 858 of 4,711 (18%) |
+| Studies reporting an effect size | 859 of 4,712 (18%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
@@ -21,7 +21,7 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 |---|---|---|---|---|---|
 | causal | 67 | 504 | 190 | 332 | 1,093 |
 | quant-synthesis | 53 | 105 | 35 | 118 | 311 |
-| review | 59 | 296 | 88 | 125 | 568 |
+| review | 60 | 296 | 88 | 125 | 569 |
 | associational | 30 | 557 | 263 | 246 | 1,096 |
 | qualitative | 96 | 253 | 66 | 82 | 497 |
 | design | 51 | 491 | 135 | 30 | 707 |
@@ -31,9 +31,9 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 696 (15%) | 2,936 (62%) | 961 (20%) | 118 (3%) |
+| 696 (15%) | 2,936 (62%) | 962 (20%) | 118 (3%) |
 
-**Studies per claim:** 0: 0, 1: 15,375, 2: 371, 3: 64, 4 or more: 16.
+**Studies per claim:** 0: 0, 1: 15,390, 2: 371, 3: 64, 4 or more: 16.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -48,6 +48,7 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [John Q. Easton, Stephen Ponisciak, Stuart Luppescu. (2008). From High School to the Future: The Pathway to …](claims/academic-culture-raises-act-scores.md) | q2 | 20 | 20 |
 | [Financial Incentives for Teen Parents to Stay in School. (2006). What Works Clearinghouse Intervention …](claims/cal-learn-evidence-standards-reservations-attrition.md) | q3 | 18 | 17 |
 | [Price, H., Burns, D., Loewe, S., Shields, P., Kaplan, J., & Lee, H. (2024). Long-term English learners in …](claims/boys-disproportionately-represented-ltel7-california.md) | q2 | 15 | 15 |
+| [Breit, M., Schneider, M., & Preckel, F. (2025). Mathematics achievement and learner characteristics: A …](claims/achievement-emotions-and-anxiety-correlate-with-math-achievement.md) | q3 | 15 | 15 |
 | [WWC Intervention Report: ALAS. (2006). What Works Clearinghouse, U.S. Department of Education. …](claims/alas-progressing-completing-null-follow-up.md) | q3 | 14 | 14 |
 | [Dominguez, X., Rood, E., Kamdar, D., Leones, T., & Huynh, K. (2021). Splash and Bubbles for Parents App: …](claims/app-child-initiated-science-conversations-higher.md) | q2 | 14 | 14 |
 | [Philip M. Gleason. (2017). What's the Secret Ingredient? Searching for Policies and Practices That Make …](claims/achievement-focused-mission-charter-impacts.md) | q2 | 13 | 13 |
@@ -62,7 +63,6 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [Kuhfeld, Megan, Soland, James, Pitts, Christine, & Burchinal, Margaret. (2019). Trends in Children's Academic …](claims/district-level-variance-kindergarten-entry-scores.md) | q2 | 11 | 11 |
 | [Feng, M., Li, L., Brezack, N., & Schneider, M. (2025). Scaling teachers' professional development for …](claims/assistments-classwork-shift-rural-equity.md) | q2 | 11 | 11 |
 | [Steven Glazerman and Jeffrey Max. (2011). Do Low-Income Students Have Equal Access to the Highest-Performing …](claims/district-a-extreme-middle-school-math-disparity.md) | q2 | 10 | 10 |
-| [Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is …](claims/learners-given-two-kr-decisions-mostly-keep-their-first-choice.md) | q3 | 10 | 10 |
 
 ## Citation load against evidence base
 
@@ -75,7 +75,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 395 pages | 2 | q4 | 2 of 2 |
 | [Self-determination theory holds that autonomy support raises intrinsic motivation, and a …](claims/autonomy-supports-intrinsic-motivation.md) | 379 pages | 3 | q1–q4 | 1 of 3 |
 | [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 347 pages | 2 | q3–q4 | 1 of 2 |
-| [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 327 pages | 2 | q2 | 0 of 2 |
+| [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 328 pages | 2 | q2 | 0 of 2 |
 | [Self-regulated learning models treat self-monitoring as a core process through which …](claims/self-monitoring-improves-self-regulation.md) | 312 pages | 2 | q3 | 0 of 2 |
 | [Comparing cases side by side improves learning and transfer by a moderate average amount, …](claims/comparing-contrasting-cases-improves-learning.md) | 241 pages | 3 | q3–q4 | 1 of 3 |
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 228 pages | 2 | q3 | 0 of 2 |
@@ -87,8 +87,8 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Fading support promotes the transfer of responsibility from instructor to learner.](claims/fading-support-promotes-transfer-of-responsibility.md) | 170 pages | 2 | q3 | 0 of 2 |
 | [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 169 pages | 2 | q1–q2 | 0 of 2 |
 | [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic …](claims/activation-improves-learning.md) | 151 pages | 3 | q3 | 1 of 3 |
-| [Learners invest more effort in tasks they perceive as interesting, personally important, …](claims/task-value-increases-motivation-and-engagement.md) | 124 pages | 2 | q2–q3 | 0 of 2 |
-| [Process goals lead to better skill acquisition for novices than outcome goals.](claims/process-goals-outperform-outcome-goals-for-novices.md) | 106 pages | 2 | q3 | 0 of 2 |
+| [Learners invest more effort in tasks they perceive as interesting, personally important, …](claims/task-value-increases-motivation-and-engagement.md) | 125 pages | 2 | q2–q3 | 0 of 2 |
+| [Process goals lead to better skill acquisition for novices than outcome goals.](claims/process-goals-outperform-outcome-goals-for-novices.md) | 107 pages | 2 | q3 | 0 of 2 |
 | [Worked-example guidance becomes less effective as learner expertise increases.](claims/worked-examples-less-effective-with-expertise.md) | 98 pages | 2 | q3 | 0 of 2 |
 | [In one 37-student classroom experiment, recall and retention differ across media …](claims/media-combinations-affect-recall-and-retention.md) | 89 pages | 1 | q3 | 0 of 1 |
 | [Adding relevant pictures or graphics to text improves learning from it, with a small …](claims/dual-coding-improves-learning.md) | 86 pages | 3 | q2–q4 | 1 of 3 |
@@ -102,7 +102,7 @@ Of the 38 claims cited from 50 or more pages, **6 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-227 claims are cited both ways.
+236 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | [Learning Styles Matching Does Not Improve Learning](claims/learning-styles-matching-does-not-improve-learning.md) | 2 | 1 | 12 | 3 |
 | [Coherence Principle Irrelevant Material Hurts Learning](claims/coherence-principle-irrelevant-material-hurts-learning.md) | 21 | 5 | 11 | 4 |
 | [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 7 | 206 | 10 | 3 |
-| [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 282 | 21 | 8 | 2 |
+| [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 283 | 21 | 8 | 2 |
 | [Example-based sequences outperform problem-only practice for novices, and fading support …](claims/worked-examples-with-practice-improve-transfer.md) | 44 | 1 | 8 | 2 |
 | [Praise for intelligence, rather than for effort, after success undermines children's …](claims/feedback-praise-reduces-learning.md) | 3 | 7 | 7 | 3 |
 | [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 378 | 9 | 5 | 2 |
@@ -140,7 +140,7 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [processes](processes/index.md) | 18 | 15 | 6 | 0 |
 | [methods](methods/index.md) | 38 | 22 | 1 | 0 |
 | [theories](theories/index.md) | 1,361 | 908 | 1 | 0 |
-| [learner-variables](learner-variables/index.md) | 26 | 26 | 55.5 | 0 |
+| [learner-variables](learner-variables/index.md) | 74 | 35 | 39 | 0 |
 | [designs](designs/index.md) | 758 | 446 | 1 | 0 |
 | [products](products/index.md) | 1,586 | 1,087 | 1 | 0 |
 | [research-methods](research-methods/index.md) | 449 | 356 | 1 | 0 |

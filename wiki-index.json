@@ -1,9 +1,9 @@
 {
 "counts":{
-"claim":15826,
+"claim":15841,
 "design":758,
 "element":1066,
-"learner-variable":26,
+"learner-variable":74,
 "method":38,
 "pattern":65,
 "principle":213,
@@ -1842,6 +1842,15 @@
 "path":"claims/achievement-divide-widened-significantly.md",
 "status":"review",
 "title":"The achievement divide between high and low achievers widened significantly over the last two years of the pandemic",
+"type":"claim"
+},
+{
+"description":"",
+"evidence_strength":"moderate",
+"id":"achievement-emotions-and-anxiety-correlate-with-math-achievement",
+"path":"claims/achievement-emotions-and-anxiety-correlate-with-math-achievement.md",
+"status":"review",
+"title":"Enjoyment correlates positively (r = .31), and boredom, mathematics anxiety and test anxiety negatively (r = −.23 to −.28), with mathematics achievement",
 "type":"claim"
 },
 {
@@ -15018,6 +15027,15 @@
 "path":"claims/big-book-reading-cognitive-autonomy.md",
 "status":"review",
 "title":"In teacher-led big-book reading, children exercise cognitive autonomy by making their own connections between spoken and written words within the activity's boundaries",
+"type":"claim"
+},
+{
+"description":"",
+"evidence_strength":"moderate",
+"id":"big-five-traits-correlate-weakly-with-math-achievement",
+"path":"claims/big-five-traits-correlate-weakly-with-math-achievement.md",
+"status":"review",
+"title":"Of the Big Five personality traits, only conscientiousness (r = .22) and openness (r = .13) correlate appreciably with mathematics achievement",
 "type":"claim"
 },
 {
@@ -31176,6 +31194,15 @@
 "type":"claim"
 },
 {
+"description":"",
+"evidence_strength":"moderate",
+"id":"creativity-correlates-strongly-with-math-achievement",
+"path":"claims/creativity-correlates-strongly-with-math-achievement.md",
+"status":"review",
+"title":"Creativity correlates strongly with mathematics achievement in school (r = .47), more so in elementary than in high school",
+"type":"claim"
+},
+{
 "description":"New California credentials stagnated at about 11,500 per year while estimated annual hires exceeded 20,000, so demand far outpaced supply",
 "evidence_strength":"moderate",
 "id":"credential-supply-lags-demand-california",
@@ -42972,6 +42999,15 @@
 "type":"claim"
 },
 {
+"description":"",
+"evidence_strength":"moderate",
+"id":"emotional-intelligence-correlates-weakly-with-math-achievement",
+"path":"claims/emotional-intelligence-correlates-weakly-with-math-achievement.md",
+"status":"review",
+"title":"Emotional intelligence correlates only weakly with mathematics achievement (r = .16), less than with achievement in the humanities",
+"type":"claim"
+},
+{
 "description":"Better emotional scaffolding is associated with higher ECERS-R Interaction scores",
 "evidence_strength":"weak",
 "id":"emotional-scaffolding-associated-with-ecers-interactions",
@@ -45913,6 +45949,15 @@
 "path":"claims/executable-reasoning-failure-redistribution-layers.md",
 "status":"review",
 "title":"Code-augmented interaction redistributes failures into protocol, execution, and mathematical layers, with Gemini 2.5 Pro failing mostly through protocol violations",
+"type":"claim"
+},
+{
+"description":"",
+"evidence_strength":"moderate",
+"id":"executive-functions-and-working-memory-correlate-with-math-achievement",
+"path":"claims/executive-functions-and-working-memory-correlate-with-math-achievement.md",
+"status":"review",
+"title":"Executive functions and working memory correlate moderately to strongly with mathematics achievement (r = .28 to .40), from preschool through elementary school",
 "type":"claim"
 },
 {
@@ -66789,6 +66834,15 @@
 "type":"claim"
 },
 {
+"description":"",
+"evidence_strength":"moderate",
+"id":"intelligence-correlates-strongly-with-math-achievement",
+"path":"claims/intelligence-correlates-strongly-with-math-achievement.md",
+"status":"review",
+"title":"General and fluid intelligence correlate strongly with mathematics achievement (r = .41 to .62), and the fluid-intelligence correlation is larger in older samples",
+"type":"claim"
+},
+{
 "description":"Gardner holds intelligences are not interchangeable, so one intelligence cannot substitute for another in learning a domain",
 "evidence_strength":"weak",
 "id":"intelligences-not-interchangeable",
@@ -79725,6 +79779,15 @@
 "type":"claim"
 },
 {
+"description":"",
+"evidence_strength":"moderate",
+"id":"mastery-goals-correlate-positively-and-avoidance-goals-negatively-with-math-achievement",
+"path":"claims/mastery-goals-correlate-positively-and-avoidance-goals-negatively-with-math-achievement.md",
+"status":"review",
+"title":"Mastery goals correlate positively (r = .17) and performance-avoidance goals negatively (r = −.17) with mathematics achievement, while performance-approach goals barely do",
+"type":"claim"
+},
+{
 "description":"In one synthesis of group-based mastery learning, five observational studies found more time-on-task in mastery classes and one community-college evaluation found lower attrition in seven of eight disciplines",
 "evidence_strength":"moderate",
 "id":"mastery-improves-engagement-attrition",
@@ -79929,6 +79992,15 @@
 "path":"claims/math-180-rct-grade6-map-es-031.md",
 "status":"review",
 "title":"Math 180 randomized study: 6th graders receiving Math 180 showed greater growth on NWEA MAP mathematics than business-as-usual comparison students (ES +0.31)",
+"type":"claim"
+},
+{
+"description":"",
+"evidence_strength":"moderate",
+"id":"math-achievement-relates-more-to-knowledge-and-abilities-than-personality",
+"path":"claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md",
+"status":"review",
+"title":"Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions",
 "type":"claim"
 },
 {
@@ -80218,6 +80290,15 @@
 "path":"claims/math-science-prepared-pipeline-shrinking.md",
 "status":"review",
 "title":"The share of new math and science teachers entering on substandard credentials doubled from about 20% to 40% between 2011–12 and 2015–16 while fully credentialed entrants dropped from 3,200 to 2,200",
+"type":"claim"
+},
+{
+"description":"",
+"evidence_strength":"moderate",
+"id":"math-self-concept-correlates-strongly-with-math-achievement",
+"path":"claims/math-self-concept-correlates-strongly-with-math-achievement.md",
+"status":"review",
+"title":"Mathematics self-concept correlates strongly with mathematics achievement (r = .43), while verbal self-concept barely does (r = .12)",
 "type":"claim"
 },
 {
@@ -86192,6 +86273,15 @@
 "type":"claim"
 },
 {
+"description":"",
+"evidence_strength":"moderate",
+"id":"need-for-cognition-correlates-moderately-with-math-achievement",
+"path":"claims/need-for-cognition-correlates-moderately-with-math-achievement.md",
+"status":"review",
+"title":"Need for cognition correlates moderately with mathematics achievement (r = .25)",
+"type":"claim"
+},
+{
 "description":"Need for cognition negatively moderates the trust–appropriate reliance relationship, with the trust slope becoming more negative as need for cognition increases",
 "evidence_strength":"moderate",
 "id":"need-for-cognition-moderates-trust-reliance",
@@ -89837,6 +89927,15 @@
 "path":"claims/number-rockets-tema3-effect-034.md",
 "status":"review",
 "title":"Number Rockets tutoring significantly improves first graders' math performance on TEMA-3 with an effect size of +0.34 versus untutored controls",
+"type":"claim"
+},
+{
+"description":"",
+"evidence_strength":"moderate",
+"id":"number-sense-tasks-correlate-with-math-achievement",
+"path":"claims/number-sense-tasks-correlate-with-math-achievement.md",
+"status":"review",
+"title":"Number line estimation and numerical magnitude comparison correlate with mathematics achievement (r = .24 to .44), with number line estimation more strongly related in older children",
 "type":"claim"
 },
 {
@@ -101026,6 +101125,15 @@
 "path":"claims/prior-knowledge-by-worked-example-type-interaction-on-germane-load.md",
 "status":"review",
 "title":"Prior knowledge and worked-example type (full vs completion) interact significantly on self-reported germane cognitive load, but not on intrinsic or extraneous load",
+"type":"claim"
+},
+{
+"description":"",
+"evidence_strength":"moderate",
+"id":"prior-knowledge-correlates-very-strongly-with-later-math-achievement",
+"path":"claims/prior-knowledge-correlates-very-strongly-with-later-math-achievement.md",
+"status":"review",
+"title":"Prior mathematical knowledge correlates very strongly with later mathematics achievement (r = .63), largely reflecting stable differences between learners",
 "type":"claim"
 },
 {
@@ -116033,6 +116141,15 @@
 "type":"claim"
 },
 {
+"description":"",
+"evidence_strength":"moderate",
+"id":"self-regulation-and-metacognition-correlate-strongly-with-math-achievement",
+"path":"claims/self-regulation-and-metacognition-correlate-strongly-with-math-achievement.md",
+"status":"review",
+"title":"Self-regulation and metacognition correlate strongly with mathematics achievement (r = .42 and .37)",
+"type":"claim"
+},
+{
 "description":"Self-reported test preparation showed no significant difference in ACT composite scores in a national sample (Scholes & Lain, 1997, Experiment 2)",
 "evidence_strength":"weak",
 "id":"self-reported-act-prep-no-significant-difference-scholes-lain",
@@ -120249,6 +120366,15 @@
 "path":"claims/spanish-transparent-orthography-rate-predictor.md",
 "status":"review",
 "title":"In Spanish, decoding accuracy is typically established earlier, after which rate becomes a more sensitive predictor of passage comprehension",
+"type":"claim"
+},
+{
+"description":"",
+"evidence_strength":"moderate",
+"id":"spatial-ability-correlates-moderately-with-math-achievement",
+"path":"claims/spatial-ability-correlates-moderately-with-math-achievement.md",
+"status":"review",
+"title":"Spatial ability correlates moderately with mathematics achievement (r = .25), less strongly than verbal ability",
 "type":"claim"
 },
 {
@@ -138822,6 +138948,15 @@
 "path":"claims/verbal-analytical-ability-not-predictor-childhood-arrivals.md",
 "status":"review",
 "title":"Verbal analytical ability is not a significant predictor of second language success for childhood arrivals",
+"type":"claim"
+},
+{
+"description":"",
+"evidence_strength":"moderate",
+"id":"verbal-and-reading-skills-correlate-strongly-with-math-achievement",
+"path":"claims/verbal-and-reading-skills-correlate-strongly-with-math-achievement.md",
+"status":"review",
+"title":"Verbal achievement, reading and language abilities correlate strongly with mathematics achievement (r = .42 to .67)",
 "type":"claim"
 },
 {
@@ -157658,6 +157793,14 @@
 "type":"element"
 },
 {
+"description":"A learner's command of the ways of reading, writing and reasoning used in academic disciplines and real-world domains, including questioning a text's purpose and bias.",
+"id":"academic-and-critical-literacy",
+"path":"learner-variables/academic-and-critical-literacy.md",
+"status":"review",
+"title":"Academic and Critical Literacy",
+"type":"learner-variable"
+},
+{
 "description":"Anxiety tied to learning and assessment in a subject, such as mathematics anxiety, test anxiety and foreign-language anxiety.",
 "id":"academic-anxiety",
 "path":"learner-variables/academic-anxiety.md",
@@ -157666,11 +157809,43 @@
 "type":"learner-variable"
 },
 {
+"description":"A learner's perception of their own ability in an academic domain, such as how good they think they are at mathematics or at reading.",
+"id":"academic-self-concept",
+"path":"learner-variables/academic-self-concept.md",
+"status":"review",
+"title":"Academic Self-Concept",
+"type":"learner-variable"
+},
+{
 "description":"Whether a learner can perceive and operate the material at all — device, bandwidth, sensory and motor.",
 "id":"access",
 "path":"learner-variables/access.md",
 "status":"review",
 "title":"Access",
+"type":"learner-variable"
+},
+{
+"description":"Emotions tied to learning activities and their outcomes, such as enjoyment, boredom, frustration, pride, shame and hope.",
+"id":"achievement-emotions",
+"path":"learner-variables/achievement-emotions.md",
+"status":"review",
+"title":"Achievement Emotions",
+"type":"learner-variable"
+},
+{
+"description":"The purposes a learner pursues in achievement settings: to master the material (mastery goals) or to demonstrate competence relative to others (performance goals), each in an approach or avoidance form.",
+"id":"achievement-goal-orientation",
+"path":"learner-variables/achievement-goal-orientation.md",
+"status":"review",
+"title":"Achievement Goal Orientation",
+"type":"learner-variable"
+},
+{
+"description":"Events that can cause trauma, such as abuse, neglect, witnessing violence or instability at home, and the chronic stress they leave behind.",
+"id":"adverse-experiences",
+"path":"learner-variables/adverse-experiences.md",
+"status":"review",
+"title":"Adverse Experiences",
 "type":"learner-variable"
 },
 {
@@ -157690,6 +157865,30 @@
 "type":"learner-variable"
 },
 {
+"description":"A learner's ability to generalise, represent, justify and reason about mathematical structures and relationships, from patterns in arithmetic to equations and functions.",
+"id":"algebraic-thinking",
+"path":"learner-variables/algebraic-thinking.md",
+"status":"review",
+"title":"Algebraic Thinking",
+"type":"learner-variable"
+},
+{
+"description":"A young learner's knowledge of letter names, shapes and sounds, and their understanding that print carries meaning and works in particular ways on the page.",
+"id":"alphabet-knowledge-and-print-awareness",
+"path":"learner-variables/alphabet-knowledge-and-print-awareness.md",
+"status":"review",
+"title":"Alphabet Knowledge and Print Awareness",
+"type":"learner-variable"
+},
+{
+"description":"A learner's ability to recall basic number combinations, such as single-digit sums and products, quickly and accurately from memory.",
+"id":"arithmetic-fact-retrieval",
+"path":"learner-variables/arithmetic-fact-retrieval.md",
+"status":"review",
+"title":"Arithmetic Fact Retrieval",
+"type":"learner-variable"
+},
+{
 "description":"How long a learner can sustain focus on one thing, and how easily something else takes it away.",
 "id":"attention",
 "path":"learner-variables/attention.md",
@@ -157698,11 +157897,67 @@
 "type":"learner-variable"
 },
 {
+"description":"How the brain makes sense of the sounds that reach it through hearing: locating, distinguishing and interpreting sounds, especially speech.",
+"id":"auditory-processing",
+"path":"learner-variables/auditory-processing.md",
+"status":"review",
+"title":"Auditory Processing",
+"type":"learner-variable"
+},
+{
 "description":"Whether a learner expects to be treated as a full participant in this setting, and how much of their attention that question consumes.",
 "id":"belonging",
 "path":"learner-variables/belonging.md",
 "status":"review",
 "title":"Belonging",
+"type":"learner-variable"
+},
+{
+"description":"A learner's sense of themselves as a contributor to their community: attending to others' needs, understanding how civic systems work and affect people, and acting with others toward shared goals.",
+"id":"civic-mindedness",
+"path":"learner-variables/civic-mindedness.md",
+"status":"review",
+"title":"Civic Mindedness",
+"type":"learner-variable"
+},
+{
+"description":"A learner's ability to work effectively and respectfully with others toward a shared goal: expressing and listening to ideas, compromising and sharing responsibility for the work.",
+"id":"collaboration",
+"path":"learner-variables/collaboration.md",
+"status":"review",
+"title":"Collaboration",
+"type":"learner-variable"
+},
+{
+"description":"A learner's ability to express thoughts, ideas and feelings and to understand others, through speech, sign, writing, gesture, drawing or technology, including talking about subject matter such as mathematics.",
+"id":"communication-skills",
+"path":"learner-variables/communication-skills.md",
+"status":"review",
+"title":"Communication Skills",
+"type":"learner-variable"
+},
+{
+"description":"A learner's ability to generate novel and useful ideas, usually measured as divergent thinking: the fluency, flexibility, originality and elaboration of ideas produced for an open-ended problem.",
+"id":"creativity",
+"path":"learner-variables/creativity.md",
+"status":"review",
+"title":"Creativity",
+"type":"learner-variable"
+},
+{
+"description":"A learner's ability and disposition to evaluate information and arguments, weigh evidence and perspectives, and reason to a judgement or decision.",
+"id":"critical-thinking",
+"path":"learner-variables/critical-thinking.md",
+"status":"review",
+"title":"Critical Thinking",
+"type":"learner-variable"
+},
+{
+"description":"A learner's ability to turn written words into spoken words and meanings, by applying letter-sound knowledge to unfamiliar words and by recognising familiar words at sight.",
+"id":"decoding",
+"path":"learner-variables/decoding.md",
+"status":"review",
+"title":"Decoding",
 "type":"learner-variable"
 },
 {
@@ -157719,6 +157974,14 @@
 "path":"learner-variables/domain-context.md",
 "status":"review",
 "title":"Domain Context",
+"type":"learner-variable"
+},
+{
+"description":"A learner's ability to perceive, understand, use and manage emotions in themselves and others.",
+"id":"emotional-intelligence",
+"path":"learner-variables/emotional-intelligence.md",
+"status":"review",
+"title":"Emotional Intelligence",
 "type":"learner-variable"
 },
 {
@@ -157762,6 +158025,38 @@
 "type":"learner-variable"
 },
 {
+"description":"A learner's ability to define, analyse and argue about shapes and spatial relationships, up to writing formal geometric proofs.",
+"id":"geometric-reasoning",
+"path":"learner-variables/geometric-reasoning.md",
+"status":"review",
+"title":"Geometric Reasoning",
+"type":"learner-variable"
+},
+{
+"description":"The learning opportunities, materials, practices and attitudes a learner's home, family and community provide outside formal instruction.",
+"id":"home-learning-environment",
+"path":"learner-variables/home-learning-environment.md",
+"status":"review",
+"title":"Home Learning Environment",
+"type":"learner-variable"
+},
+{
+"description":"A learner's developing sense of who they are, including the social identities, such as race, ethnicity, gender, culture, language and disability, that shape how they meet the world.",
+"id":"identity",
+"path":"learner-variables/identity.md",
+"status":"review",
+"title":"Identity",
+"type":"learner-variable"
+},
+{
+"description":"A reader's ability to fill in what a text leaves unsaid by connecting it with background knowledge, experience and other parts of the text.",
+"id":"inferencing",
+"path":"learner-variables/inferencing.md",
+"status":"review",
+"title":"Inferencing",
+"type":"learner-variable"
+},
+{
 "description":"A learner's engagement with and liking for a topic, whether a lasting personal interest or interest sparked in the moment by the situation.",
 "id":"interest",
 "path":"learner-variables/interest.md",
@@ -157786,11 +158081,51 @@
 "type":"learner-variable"
 },
 {
+"description":"The memory system that stores knowledge, skills and experiences over hours to decades so they can be retrieved and used later.",
+"id":"long-term-memory",
+"path":"learner-variables/long-term-memory.md",
+"status":"review",
+"title":"Long-Term Memory",
+"type":"learner-variable"
+},
+{
+"description":"A learner's ability to hold and move between several representations of numbers and several strategies, choosing the one that suits the problem.",
+"id":"mathematical-flexibility",
+"path":"learner-variables/mathematical-flexibility.md",
+"status":"review",
+"title":"Mathematical Flexibility",
+"type":"learner-variable"
+},
+{
+"description":"A learner's understanding of measuring: picking out an attribute such as length, area or time and quantifying it by comparison with a unit of the same kind.",
+"id":"measurement",
+"path":"learner-variables/measurement.md",
+"status":"review",
+"title":"Measurement",
+"type":"learner-variable"
+},
+{
+"description":"A learner's awareness of their own thinking and their ability to monitor and steer it: planning an approach, checking understanding and changing strategy when something is not working.",
+"id":"metacognition",
+"path":"learner-variables/metacognition.md",
+"status":"review",
+"title":"Metacognition",
+"type":"learner-variable"
+},
+{
 "description":"A learner's belief about whether ability or intelligence is fixed or can grow with effort and good strategies (implicit theories of intelligence).",
 "id":"mindset",
 "path":"learner-variables/mindset.md",
 "status":"review",
 "title":"Mindset",
+"type":"learner-variable"
+},
+{
+"description":"A learner's awareness of the meaningful parts of words (roots, prefixes and suffixes) and ability to use them to read, understand, spell and build longer words.",
+"id":"morphological-awareness",
+"path":"learner-variables/morphological-awareness.md",
+"status":"review",
+"title":"Morphological Awareness",
 "type":"learner-variable"
 },
 {
@@ -157802,11 +158137,91 @@
 "type":"learner-variable"
 },
 {
+"description":"A learner's tendency to engage in and enjoy effortful thinking, such as complex problem solving and abstract reasoning.",
+"id":"need-for-cognition",
+"path":"learner-variables/need-for-cognition.md",
+"status":"review",
+"title":"Need for Cognition",
+"type":"learner-variable"
+},
+{
+"description":"A learner's understanding of numerical magnitudes and the relations among numbers, shown in tasks such as comparing two quantities or placing a number on a number line.",
+"id":"number-sense",
+"path":"learner-variables/number-sense.md",
+"status":"review",
+"title":"Number Sense",
+"type":"learner-variable"
+},
+{
+"description":"A learner's procedural and conceptual understanding of arithmetic operations and of the base-ten place-value system that written numbers rely on.",
+"id":"operations-and-place-value",
+"path":"learner-variables/operations-and-place-value.md",
+"status":"review",
+"title":"Operations and Place Value",
+"type":"learner-variable"
+},
+{
+"description":"A learner's spoken language skills, including vocabulary, grammar, listening comprehension and the ability to tell an organised story.",
+"id":"oral-language",
+"path":"learner-variables/oral-language.md",
+"status":"review",
+"title":"Oral Language",
+"type":"learner-variable"
+},
+{
+"description":"A learner's characteristic patterns of thinking, feeling and behaving, usually described by the Big Five: conscientiousness, openness, agreeableness, extraversion and neuroticism.",
+"id":"personality-traits",
+"path":"learner-variables/personality-traits.md",
+"status":"review",
+"title":"Personality Traits",
+"type":"learner-variable"
+},
+{
+"description":"A learner's ability to notice and work with the sounds of spoken language (rhymes, syllables and individual phonemes) and to process those sounds quickly when reading and spelling.",
+"id":"phonological-awareness",
+"path":"learner-variables/phonological-awareness.md",
+"status":"review",
+"title":"Phonological Awareness",
+"type":"learner-variable"
+},
+{
+"description":"A learner's physical health and fitness, including nutrition, regular exercise and adequate sleep, as it bears on cognition, mood and learning.",
+"id":"physical-wellbeing",
+"path":"learner-variables/physical-wellbeing.md",
+"status":"review",
+"title":"Physical Well-Being",
+"type":"learner-variable"
+},
+{
 "description":"A learner's existing domain knowledge in the subject area before instruction begins.",
 "id":"prior-knowledge",
 "path":"learner-variables/prior-knowledge.md",
 "status":"review",
 "title":"Prior Knowledge",
+"type":"learner-variable"
+},
+{
+"description":"A learner's ability to work through unfamiliar challenges by setting goals and bringing knowledge, resources and creative thinking to bear on a solution.",
+"id":"problem-solving",
+"path":"learner-variables/problem-solving.md",
+"status":"review",
+"title":"Problem Solving",
+"type":"learner-variable"
+},
+{
+"description":"The rate at which a learner takes in information, makes sense of it and produces an appropriate response.",
+"id":"processing-speed",
+"path":"learner-variables/processing-speed.md",
+"status":"review",
+"title":"Processing Speed",
+"type":"learner-variable"
+},
+{
+"description":"A learner's understanding of ratios and the relationships between them, as expressed in fractions, percentages and rates.",
+"id":"proportional-reasoning",
+"path":"learner-variables/proportional-reasoning.md",
+"status":"review",
+"title":"Proportional Reasoning",
 "type":"learner-variable"
 },
 {
@@ -157826,6 +158241,22 @@
 "type":"learner-variable"
 },
 {
+"description":"A learner's ability to read connected text accurately, at a good pace and smoothly, silently or aloud, so that attention is free for comprehension.",
+"id":"reading-fluency",
+"path":"learner-variables/reading-fluency.md",
+"status":"review",
+"title":"Reading Fluency",
+"type":"learner-variable"
+},
+{
+"description":"Being, and feeling, physically and psychologically secure at home, at school or work, and in the neighbourhood and wider community.",
+"id":"safety",
+"path":"learner-variables/safety.md",
+"status":"review",
+"title":"Safety",
+"type":"learner-variable"
+},
+{
 "description":"A learner's belief in their own ability to carry out the actions needed to succeed at a particular task or in a particular subject.",
 "id":"self-efficacy",
 "path":"learner-variables/self-efficacy.md",
@@ -157842,11 +158273,75 @@
 "type":"learner-variable"
 },
 {
+"description":"The brain's ability to take in, organise and combine information from several senses and turn it into fitting physical and emotional responses.",
+"id":"sensory-integration",
+"path":"learner-variables/sensory-integration.md",
+"status":"review",
+"title":"Sensory Integration",
+"type":"learner-variable"
+},
+{
+"description":"How much, how regularly and how well a learner sleeps, the period in which the body and brain rest, recover and consolidate memories.",
+"id":"sleep",
+"path":"learner-variables/sleep.md",
+"status":"review",
+"title":"Sleep",
+"type":"learner-variable"
+},
+{
+"description":"A learner's ability to understand others' perspectives and feelings and to build and keep positive relationships with peers, teachers and colleagues.",
+"id":"social-awareness-and-relationship-skills",
+"path":"learner-variables/social-awareness-and-relationship-skills.md",
+"status":"review",
+"title":"Social Awareness and Relationship Skills",
+"type":"learner-variable"
+},
+{
+"description":"The network of people, such as family, friends, teachers and community, that a learner has and believes they could turn to for help.",
+"id":"social-supports",
+"path":"learner-variables/social-supports.md",
+"status":"review",
+"title":"Social Supports",
+"type":"learner-variable"
+},
+{
 "description":"A learner's family income, wealth, parental education and occupation, and the resources and constraints that come with them.",
 "id":"socioeconomic-status",
 "path":"learner-variables/socioeconomic-status.md",
 "status":"review",
 "title":"Socioeconomic Status",
+"type":"learner-variable"
+},
+{
+"description":"The ability to generate, retain, retrieve and transform visual and spatial images, such as mentally rotating an object or relating shapes to one another.",
+"id":"spatial-ability",
+"path":"learner-variables/spatial-ability.md",
+"status":"review",
+"title":"Spatial Ability",
+"type":"learner-variable"
+},
+{
+"description":"A learner's ability to reason about data and uncertainty: posing questions, collecting and organising data, and describing and drawing inferences from it.",
+"id":"statistical-reasoning",
+"path":"learner-variables/statistical-reasoning.md",
+"status":"review",
+"title":"Statistical Reasoning",
+"type":"learner-variable"
+},
+{
+"description":"The risk that a learner performs below their actual capability when a negative stereotype about a group they belong to is made salient in an evaluative setting.",
+"id":"stereotype-threat",
+"path":"learner-variables/stereotype-threat.md",
+"status":"review",
+"title":"Stereotype Threat",
+"type":"learner-variable"
+},
+{
+"description":"A learner's grasp of how sentences are built: how word order, sentence structure and punctuation carry meaning, in reading, speech and writing.",
+"id":"syntax",
+"path":"learner-variables/syntax.md",
+"status":"review",
+"title":"Syntax",
 "type":"learner-variable"
 },
 {
@@ -157858,11 +158353,35 @@
 "type":"learner-variable"
 },
 {
+"description":"The cognitive work of making sense of what the eyes take in: recognising, ordering and interpreting visual information such as letters, numbers, shapes and diagrams.",
+"id":"visual-processing",
+"path":"learner-variables/visual-processing.md",
+"status":"review",
+"title":"Visual Processing",
+"type":"learner-variable"
+},
+{
+"description":"The words a learner knows and can use, receptively and expressively, including the academic and subject-specific words that school texts depend on.",
+"id":"vocabulary",
+"path":"learner-variables/vocabulary.md",
+"status":"review",
+"title":"Vocabulary",
+"type":"learner-variable"
+},
+{
 "description":"How much a learner can hold and manipulate at once before the material itself becomes the obstacle.",
 "id":"working-memory",
 "path":"learner-variables/working-memory.md",
 "status":"review",
 "title":"Working Memory",
+"type":"learner-variable"
+},
+{
+"description":"A learner's ability to write, from the foundational skills of handwriting, spelling and conventions to composing texts in a genre and arguing from evidence.",
+"id":"writing-skills",
+"path":"learner-variables/writing-skills.md",
+"status":"review",
+"title":"Writing Skills",
 "type":"learner-variable"
 },
 {
@@ -234399,6 +234918,7 @@
 "achievement-below-typical-recovery-years-away":"achievement-below-typical-recovery-years-away",
 "achievement-composition-predicts-safety":"achievement-composition-predicts-safety",
 "achievement-divide-widened-significantly":"achievement-divide-widened-significantly",
+"achievement-emotions-and-anxiety-correlate-with-math-achievement":"achievement-emotions-and-anxiety-correlate-with-math-achievement",
 "achievement-focused-mission-charter-impacts":"achievement-focused-mission-charter-impacts",
 "achievement-gap-societal-costs":"achievement-gap-societal-costs",
 "achievement-measure-moderator-lab-exclusion":"achievement-measure-moderator-lab-exclusion",
@@ -235883,6 +236403,7 @@
 "bics-calp-intersect-not-identical":"bics-calp-intersect-not-identical",
 "bifactor-model-preferred-aic-bic-testlet-test":"bifactor-model-preferred-aic-bic-testlet-test",
 "big-book-reading-cognitive-autonomy":"big-book-reading-cognitive-autonomy",
+"big-five-traits-correlate-weakly-with-math-achievement":"big-five-traits-correlate-weakly-with-math-achievement",
 "big-tech-application-rates-subgroup-differences":"big-tech-application-rates-subgroup-differences",
 "bilingual-children-home-language-mainly-factual-functions":"bilingual-children-home-language-mainly-factual-functions",
 "bilingual-education-reasons-internationalization-law":"bilingual-education-reasons-internationalization-law",
@@ -237708,6 +238229,7 @@
 "creact-improves-creative-thinking-drawing-arts":"creact-improves-creative-thinking-drawing-arts",
 "creact-previous-language-arts-evidence":"creact-previous-language-arts-evidence",
 "creating-computational-literature-develops-computational-literacy":"creating-computational-literature-develops-computational-literacy",
+"creativity-correlates-strongly-with-math-achievement":"creativity-correlates-strongly-with-math-achievement",
 "credential-supply-lags-demand-california":"credential-supply-lags-demand-california",
 "credentialing-market-demand-shorter-competency-credentials":"credentialing-market-demand-shorter-competency-credentials",
 "credentials-difference-observation-only-not-value-added":"experience-credentials-teacher-evaluation-scores",
@@ -239046,6 +239568,7 @@
 "emotional-disturbance-intellectual-disability-most-positive-change":"emotional-disturbance-intellectual-disability-most-positive-change",
 "emotional-engagement-gains-not-significant-all-modalities":"emotional-engagement-gains-not-significant-all-modalities",
 "emotional-engagement-social-presence-ai-collaborative-learning":"emotional-engagement-social-presence-ai-collaborative-learning",
+"emotional-intelligence-correlates-weakly-with-math-achievement":"emotional-intelligence-correlates-weakly-with-math-achievement",
 "emotional-scaffolding-associated-with-ecers-interactions":"emotional-scaffolding-associated-with-ecers-interactions",
 "emotional-stability-strongest-protective-wellbeing-wartime":"emotional-stability-strongest-protective-wellbeing-wartime",
 "empathetic-chatbot-faster-intention-selfefficacy-growth":"empathetic-chatbot-faster-intention-selfefficacy-growth",
@@ -239376,6 +239899,7 @@
 "exclusive-governance-produces-ignored-policies":"exclusive-governance-produces-ignored-policies",
 "excused-unexcused-absence-few-differences":"excused-unexcused-absence-few-differences",
 "executable-reasoning-failure-redistribution-layers":"executable-reasoning-failure-redistribution-layers",
+"executive-functions-and-working-memory-correlate-with-math-achievement":"executive-functions-and-working-memory-correlate-with-math-achievement",
 "executive-llm-elicits-more-skill-evidence":"executive-llm-elicits-more-skill-evidence",
 "executive-llm-improves-skill-recovery-simulation":"executive-llm-improves-skill-recovery-simulation",
 "exemplar-teachers-highest-gains-partner-schools-not":"exemplar-teachers-highest-gains-partner-schools-not",
@@ -241756,6 +242280,7 @@
 "integrity-dominates-regulatory-terms-rare":"integrity-dominates-regulatory-terms-rare",
 "integrity-equity-concerns-span-all-units":"integrity-equity-concerns-span-all-units",
 "intellectually-ambitious-instruction-improves-learning":"intellectually-ambitious-instruction-improves-learning",
+"intelligence-correlates-strongly-with-math-achievement":"intelligence-correlates-strongly-with-math-achievement",
 "intelligence-praise-versus-effort-praise-effects":"feedback-praise-reduces-learning",
 "intelligences-not-interchangeable":"intelligences-not-interchangeable",
 "intelligent-environment-support-inverted-u-quantile":"intelligent-environment-support-inverted-u-quantile",
@@ -243232,6 +243757,7 @@
 "mastery-control-no-entry-differences":"mastery-control-no-entry-differences",
 "mastery-effects-larger-elementary":"mastery-effects-larger-elementary",
 "mastery-experiences-not-optimal-initially-preservice-efficacy":"mastery-experiences-not-optimal-initially-preservice-efficacy",
+"mastery-goals-correlate-positively-and-avoidance-goals-negatively-with-math-achievement":"mastery-goals-correlate-positively-and-avoidance-goals-negatively-with-math-achievement",
 "mastery-improves-engagement-attrition":"mastery-improves-engagement-attrition",
 "mastery-improves-retention":"mastery-improves-retention",
 "mastery-information-needed-for-adaptivity":"mastery-information-needed-for-adaptivity",
@@ -243256,6 +243782,7 @@
 "maternal-directiveness-correlated-slow-vocabulary":"maternal-directiveness-correlated-slow-vocabulary",
 "math-180-matched-comparison-es-023":"math-180-matched-comparison-es-023",
 "math-180-rct-grade6-map-es-031":"math-180-rct-grade6-map-es-031",
+"math-achievement-relates-more-to-knowledge-and-abilities-than-personality":"math-achievement-relates-more-to-knowledge-and-abilities-than-personality",
 "math-agent-guidance-limit-tradeoff":"math-agent-guidance-limit-tradeoff",
 "math-agent-reduction-livelatency-engagement-gains":"math-agent-reduction-livelatency-engagement-gains",
 "math-anxiety-degrades-performance":"math-anxiety-degrades-performance",
@@ -243288,6 +243815,7 @@
 "math-recovery-continues-reading-stalled-spring-2025":"math-recovery-continues-reading-stalled-spring-2025",
 "math-response-times-motivation-self-efficacy":"math-response-times-motivation-self-efficacy",
 "math-science-prepared-pipeline-shrinking":"math-science-prepared-pipeline-shrinking",
+"math-self-concept-correlates-strongly-with-math-achievement":"math-self-concept-correlates-strongly-with-math-achievement",
 "math-sex-difference-concentrated-at-high-end":"math-sex-difference-concentrated-at-high-end",
 "math-sex-difference-larger-in-higher-achieving-nations":"math-sex-difference-larger-in-higher-achieving-nations",
 "math-software-effects-uncorrelated-classroom-school-characteristics":"math-software-effects-uncorrelated-classroom-school-characteristics",
@@ -243972,6 +244500,7 @@
 "nebraska-engage-career-exploration-course-underutilized":"nebraska-engage-career-exploration-course-underutilized",
 "nebraska-middle-cte-career-development-largest-category":"nebraska-middle-cte-career-development-largest-category",
 "need-factors-fewer-success-points-milestones":"need-factors-fewer-success-points-milestones",
+"need-for-cognition-correlates-moderately-with-math-achievement":"need-for-cognition-correlates-moderately-with-math-achievement",
 "need-for-cognition-moderates-trust-reliance":"need-for-cognition-moderates-trust-reliance",
 "need-satisfaction-predicts-willingness-beyond-capacity":"need-satisfaction-predicts-willingness-beyond-capacity",
 "need-satisfaction-strongly-associated-learning-engagement":"need-satisfaction-strongly-associated-learning-engagement",
@@ -244380,6 +244909,7 @@
 "number-operations-instruction-improves-early-math-achievement":"number-operations-instruction-improves-early-math-achievement",
 "number-rockets-earlier-study-excluded":"number-rockets-earlier-study-excluded",
 "number-rockets-tema3-effect-034":"number-rockets-tema3-effect-034",
+"number-sense-tasks-correlate-with-math-achievement":"number-sense-tasks-correlate-with-math-achievement",
 "numbers-understanding-graphs-satisfaction-tradeoff":"numbers-understanding-graphs-satisfaction-tradeoff",
 "numeracy-measurable-54-months-three-competencies":"numeracy-measurable-54-months-three-competencies",
 "numeracy-quantitative-reasoning-measure":"numeracy-quantitative-reasoning-measure",
@@ -245654,6 +246184,7 @@
 "prior-kipp-research-limited-scope-and-methods":"prior-kipp-research-limited-scope-and-methods",
 "prior-knowledge-activation-little-effect-on-retention":"prior-knowledge-activation-little-effect-on-retention",
 "prior-knowledge-by-worked-example-type-interaction-on-germane-load":"prior-knowledge-by-worked-example-type-interaction-on-germane-load",
+"prior-knowledge-correlates-very-strongly-with-later-math-achievement":"prior-knowledge-correlates-very-strongly-with-later-math-achievement",
 "prior-knowledge-determines-new-learning":"prior-knowledge-determines-new-learning",
 "prior-knowledge-does-not-predict-kbr":"prior-knowledge-does-not-predict-kbr",
 "prior-knowledge-education-relate-knowledge-categories":"prior-knowledge-education-relate-knowledge-categories",
@@ -247375,6 +247906,7 @@
 "self-regulated-learning-strategies-improve-performance":"self-regulated-learning-improves-achievement",
 "self-regulated-learning-strategies-improve-writing":"strategy-instruction-improves-writing-quality",
 "self-regulated-learning-strategy-instruction-improves-achievement":"self-regulated-learning-improves-achievement",
+"self-regulation-and-metacognition-correlate-strongly-with-math-achievement":"self-regulation-and-metacognition-correlate-strongly-with-math-achievement",
 "self-regulation-strategy-instruction-improves-academic-performance":"self-regulated-learning-improves-achievement",
 "self-regulation-strategy-instruction-improves-achievement":"self-regulated-learning-improves-achievement",
 "self-reported-act-prep-no-significant-difference-scholes-lain":"self-reported-act-prep-no-significant-difference-scholes-lain",
@@ -247865,6 +248397,7 @@
 "spanish-reliability-marginal-test-retest":"spanish-reliability-marginal-test-retest",
 "spanish-rit-scores-increase-by-grade":"spanish-rit-scores-increase-by-grade",
 "spanish-transparent-orthography-rate-predictor":"spanish-transparent-orthography-rate-predictor",
+"spatial-ability-correlates-moderately-with-math-achievement":"spatial-ability-correlates-moderately-with-math-achievement",
 "spatial-colocation-benefit-task-dependent":"spatial-colocation-benefit-task-dependent",
 "spatial-contiguity-improves-learning":"split-attention-effect-degrades-learning",
 "spatial-contiguity-meta-analysis-36-studies":"split-attention-effect-degrades-learning",
@@ -249982,6 +250515,7 @@
 "venture-funding-one-percent-black-entrepreneurs":"venture-funding-one-percent-black-entrepreneurs",
 "verbal-achievement-tests-may-underestimate-via-symbolic-mismatch":"verbal-achievement-tests-may-underestimate-via-symbolic-mismatch",
 "verbal-analytical-ability-not-predictor-childhood-arrivals":"verbal-analytical-ability-not-predictor-childhood-arrivals",
+"verbal-and-reading-skills-correlate-strongly-with-math-achievement":"verbal-and-reading-skills-correlate-strongly-with-math-achievement",
 "verbal-problem-scores-resistant-to-forgetting":"verbal-problem-scores-resistant-to-forgetting",
 "verbal-rated-more-serious-than-relational-aggression":"verbal-rated-more-serious-than-relational-aggression",
 "verbal-redundancy-small-overall-effect":"verbal-redundancy-small-overall-effect",
@@ -252273,32 +252807,80 @@
 "zone-of-intervention":"zone-of-intervention"
 },
 "learner-variable":{
+"academic-and-critical-literacy":"academic-and-critical-literacy",
 "academic-anxiety":"academic-anxiety",
+"academic-self-concept":"academic-self-concept",
 "access":"access",
+"achievement-emotions":"achievement-emotions",
+"achievement-goal-orientation":"achievement-goal-orientation",
+"adverse-experiences":"adverse-experiences",
 "affect-regulation":"affect-regulation",
 "age-and-developmental-stage":"age-and-developmental-stage",
+"algebraic-thinking":"algebraic-thinking",
+"alphabet-knowledge-and-print-awareness":"alphabet-knowledge-and-print-awareness",
+"arithmetic-fact-retrieval":"arithmetic-fact-retrieval",
 "attention":"attention",
+"auditory-processing":"auditory-processing",
 "belonging":"belonging",
+"civic-mindedness":"civic-mindedness",
+"collaboration":"collaboration",
+"communication-skills":"communication-skills",
+"creativity":"creativity",
+"critical-thinking":"critical-thinking",
+"decoding":"decoding",
 "digital-literacy":"digital-literacy",
 "domain-context":"domain-context",
+"emotional-intelligence":"emotional-intelligence",
 "english-learner-status":"english-learner-status",
 "epistemic-beliefs":"epistemic-beliefs",
 "executive-function":"executive-function",
 "gender":"gender",
 "general-cognitive-ability":"general-cognitive-ability",
+"geometric-reasoning":"geometric-reasoning",
+"home-learning-environment":"home-learning-environment",
+"identity":"identity",
+"inferencing":"inferencing",
 "interest":"interest",
 "learning-disabilities":"learning-disabilities",
 "learning-style-preferences":"learning-style-preferences",
+"long-term-memory":"long-term-memory",
+"mathematical-flexibility":"mathematical-flexibility",
+"measurement":"measurement",
+"metacognition":"metacognition",
 "mindset":"mindset",
+"morphological-awareness":"morphological-awareness",
 "motivation":"motivation",
+"need-for-cognition":"need-for-cognition",
+"number-sense":"number-sense",
+"operations-and-place-value":"operations-and-place-value",
+"oral-language":"oral-language",
+"personality-traits":"personality-traits",
+"phonological-awareness":"phonological-awareness",
+"physical-wellbeing":"physical-wellbeing",
 "prior-knowledge":"prior-knowledge",
+"problem-solving":"problem-solving",
+"processing-speed":"processing-speed",
+"proportional-reasoning":"proportional-reasoning",
 "race-and-ethnicity":"race-and-ethnicity",
 "reading-and-language":"reading-and-language",
+"reading-fluency":"reading-fluency",
+"safety":"safety",
 "self-efficacy":"self-efficacy",
 "self-regulation":"self-regulation",
+"sensory-integration":"sensory-integration",
+"sleep":"sleep",
+"social-awareness-and-relationship-skills":"social-awareness-and-relationship-skills",
+"social-supports":"social-supports",
 "socioeconomic-status":"socioeconomic-status",
+"spatial-ability":"spatial-ability",
+"statistical-reasoning":"statistical-reasoning",
+"stereotype-threat":"stereotype-threat",
+"syntax":"syntax",
 "time-and-continuity":"time-and-continuity",
-"working-memory":"working-memory"
+"visual-processing":"visual-processing",
+"vocabulary":"vocabulary",
+"working-memory":"working-memory",
+"writing-skills":"writing-skills"
 },
 "method":{
 "access-use-effectiveness-framework":"access-use-effectiveness-framework",
