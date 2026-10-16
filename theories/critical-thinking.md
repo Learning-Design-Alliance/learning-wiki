@@ -53,6 +53,10 @@ Second, who should be taught critical thinking. Surveys have found that teachers
 - [Nursing academics fear GenAI overreliance undermines critical thinking, knowledge translation and graduates' readiness for safe clinical practice](../claims/genai-overreliance-threatens-clinical-readiness.md) [+W]
 - [In the SEM, GenAI dependence is positively associated with critical thinking (β = 0.492), human–AI collaboration quality (β = 0.538), and research creativity (β = 0.064), with satisfactory model fit](../claims/sem-genai-dependence-positive-paths-creativity.md) [+W]
 
+## The evidence by question
+- *Does teaching critical thinking explicitly, rather than expecting it to emerge from other activities, improve learners' critical thinking, and does it transfer beyond the subject it was taught in?* [Direct CT instruction combined with modeling, coaching, and discussion yields more consistent CT improvement than implicit teaching strategies](../claims/direct-ct-instruction-outperforms-implicit-strategies.md) [+M]
+- *Does using generative AI help or harm learners' critical thinking, and what decides which?* [Meta-reviews reach contradictory conclusions on whether AI reliance harms or helps critical thinking, with substantial design limitations limiting generalizability](../claims/contradictory-meta-reviews-ai-critical-thinking.md) [~M]
+
 ## Related Theories
 
 - [Metacognition](metacognition.md) — the self-monitoring and thinking-about-thinking mechanism that underlies what makes thinking "critical" rather than merely correct

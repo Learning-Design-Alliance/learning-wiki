@@ -49,6 +49,10 @@ This paradigm organizes design guidance around three recurring dilemmas, each wi
 - [GenAI reconfigures group knowledge development from individual to distributed, AI-co-constructed processes](../claims/genai-reconfigures-group-knowledge-development.md) [+W]
 - [Human-GAI paradigms are enacted patterns of engagement rather than fixed individual traits](../claims/gai-paradigms-enacted-patterns-not-fixed-traits.md) [+W]
 
+## The evidence by question
+
+- *Do designs that have groups integrate disciplinary perspectives together (themed units, simulations, guided deliberation) develop interdisciplinary competences and practices?* [Interdisciplinary humanities units improve students' interdisciplinary competences](../claims/interdisciplinary-humanities-units-improve-interdisciplinary-competences.md) [+M]
+
 ## Related Theories
 
 - [Cultural-Historical Activity Theory](cultural-historical-activity-theory.md) — both treat tools, artifacts, and institutional context as constitutive of learning rather than as a backdrop to individual cognition; this paradigm is specific to interdisciplinary integration

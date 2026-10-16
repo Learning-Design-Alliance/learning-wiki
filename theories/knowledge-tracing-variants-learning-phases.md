@@ -42,6 +42,9 @@ The survey's second organizing axis groups extensions of the fundamental models 
 - [Bkt Overestimates Accuracy After A Day Elapses](../claims/bkt-overestimates-accuracy-after-a-day-elapses.md) [+W]
 - [Language Proficiency Side Information Improves Kt Models](../claims/language-proficiency-side-information-improves-kt-models.md) [+W]
 
+## The evidence by question
+- *Does extending a knowledge-tracing model with individual parameters, engagement signals, forgetting or other side information improve how well it predicts learners' answers?* [The survey reports, citing Pavlik et al., that no single knowledge tracing model was always the best, and that a better model must consider multiple student features and the learning context.](../claims/no-single-knowledge-tracing-model-is-always-best.md) [+W]
+
 ## Related Theories
 
 - [Knowledge Tracing Model Taxonomy](knowledge-tracing-model-taxonomy.md)

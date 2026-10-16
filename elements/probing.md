@@ -57,6 +57,11 @@ Probing converts a surface-level answer into an act of retrieval and elaboration
 - [Follow-up support shows low initiation but reliable completion: the bottleneck is noticing and composing the question, not the AI's ability to answer](../claims/followup-low-initiation-high-completion.md) [~W]
 - [Interaction traces cannot establish answerability or justificatory dispossession because StudyChat does not elicit reconstruction and defense of reasoning](../claims/interaction-traces-cannot-establish-answerability.md) [+W]
 
+## The evidence by question
+
+- *Do teacher questions that press learners past a first answer, for explanation, justification or higher-level thinking, improve learning?* [Questioning Strategies Improve Learning](../claims/questioning-strategies-improve-learning.md) [+M]
+- *Does a longer pause after a question, before anyone answers, improve the responses that follow?* [Reviews of classroom studies, read from their abstracts, associate longer teacher wait time with longer, higher-cognitive-level student responses, with no effect size recorded](../claims/increasing-wait-time-improves-response-quality.md) [+M]
+
 ## Related Elements
 - [Articulation](articulation.md) — probing is the elicitation side; articulation is the learner's response side of the same exchange
 - [Check-In](check-in.md) — establishes the relational safety that probing requires

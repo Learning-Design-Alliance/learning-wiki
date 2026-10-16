@@ -145,6 +145,13 @@ Practice is one of the most consistently supported instructional elements: activ
 - **Tested with:** second-language learners, all reported second-hand through reviews and position papers (DeKeyser 1997 and Bygate 2001 are the primary studies behind them). **Population-specific** to L2; the same-structure limit on algebra examples above is the nearest evidence for mathematics.
 - **Not settled:** a controlled comparison of drill against meaningful practice; no claim here has one.
 
+## The evidence by question
+
+- *After a model, does practice with support and feedback produce better unaided performance than no practice or unguided practice?* [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](../claims/practice-presence-raises-cbi-posttest-achievement.md) [+M]
+- *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
+- *Does spreading study or practice over sessions improve later retention more than massing the same amount of it?* [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S]
+- *Does training built around deliberate practice (mastery standards, feedback on each attempt, repetition) beat ordinary training?* [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]
+
 ## Related Elements
 - [Demonstration](demonstration.md) — the typical precursor; observation without follow-on practice rarely transfers
 - [Worked Examples](worked-examples.md) — the low-load alternative to early unguided practice

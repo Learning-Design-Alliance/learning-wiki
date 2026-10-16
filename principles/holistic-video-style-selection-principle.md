@@ -51,6 +51,10 @@ The article argues that instructional video is one pillar of pedagogical design 
 - [96.9% of participating experts reported the video-assessment-remediation workflow provides a more effective learning experience than instructional videos alone](../claims/969-percent-experts-prefer-remediation-workflow.md) [+W]
 - [Students oppose preferring AI videos over instructor-recorded videos and distrust AI video information as much as human-presented information](../claims/students-oppose-ai-videos-replacing-instructors.md) [~W]
 
+## The evidence by question
+
+- *Does an instructional video's production style (presenter on screen, drawing or slides, human-recorded or AI-generated, length) change learners' engagement and preferences?* [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](../claims/guo-video-style-engagement-findings.md) [+W]
+
 ## Related Principles
 
 - [Effective teaching requires compatibility among teaching style, learning style, content emphasis, and educational environment](personalization.md)

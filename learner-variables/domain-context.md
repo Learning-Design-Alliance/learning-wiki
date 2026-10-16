@@ -74,6 +74,9 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [Effects of implicit strategies (higher-order questioning, concept mapping, discussion) on CT are inconclusive, with domain-specific gains that fail to transfer](../claims/implicit-strategies-inconclusive-domain-specific-only.md) [~M] — an instructional effect differs with it
 - [Games with no story or irrelevant story context show larger learning effects than games with relevant story context](../claims/irrelevant-story-larger-effects-than-relevant.md) [+M] — an instructional effect differs with it
 
+## The evidence by question
+- *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]
+
 ## Related Learner Variables
 - Prior knowledge — the domain-specific dimension it is most often confused with: this is setting, that is knowledge.
 - Belonging — a scenario set somewhere a learner is not represented carries a message beyond its content.
