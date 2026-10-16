@@ -62,7 +62,7 @@ Study 3 (N = 843) made incentives salient by reminding participants of the stake
 
 
 ## Related Claims
-- [Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong](ai-access-inflates-confidence.md) — related
+- [Access to AI advice roughly doubled reported confidence in answers in one experiment](ai-access-inflates-confidence.md) — related
 - [Merely having access to AI advice nearly eliminates people's willingness to suspend judgment under uncertainty, even when the advice is wrong](ai-access-nearly-eliminates-judgment-suspension.md) — related
 - [Monetary incentives for accuracy improve answer correctness specifically when AI advice is available, by reducing reliance on that advice](stakes-improve-accuracy-specifically-with-ai.md) — related
 - [Participants seek AI advice less frequently when accuracy carries monetary stakes](stakes-reduce-ai-advice-seeking.md) — related

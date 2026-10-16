@@ -33,7 +33,7 @@ sources:
 
 Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760 [doi:10.48550/arxiv.1307.5760](https://doi.org/10.48550/arxiv.1307.5760)
 
-`q2 · i1` · `design · r2`
+`q2 · i?` · `design · r2`
 
 The article's argument that E-CLASS measures something instructors care about, citing expert consensus data collected for validation. The authors state the survey "is measuring something of importance to the science education community."
 

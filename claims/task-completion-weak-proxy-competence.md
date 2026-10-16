@@ -62,7 +62,7 @@ The review attributes to Qiao et al.'s systematic review of 31 code-comprehensio
 
 ## Related Claims
 
-- [Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong](ai-access-inflates-confidence.md) — the general claim this finding bears on, with the studies behind it
+- [Access to AI advice roughly doubled reported confidence in answers in one experiment](ai-access-inflates-confidence.md) — the general claim this finding bears on, with the studies behind it
 - Novice programmers' GenAI use produces a widening gap in outcomes by metacognitive skill (attributed to Prather et al.) — possibly the same claim (merge candidate)
 - [Some GenAI tools can inhibit productive struggle by reducing cognitive effort (metacognitive laziness)](genai-metacognitive-laziness.md) — related
 - genAI-supported work can improve while the constructive processing underlying durable expertise erodes (the performance–metacognition dilemma) — a broader claim this one bears on

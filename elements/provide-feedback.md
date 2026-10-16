@@ -20,7 +20,7 @@ Providing feedback gives learners information about the gap between their curren
 
 ## Design Implications
 
-Feedback is among the most powerful influences on learning, but its effects are highly variable — it can improve or *degrade* performance depending on design [Feedback effects are highly variable and can be negative.](https://doi.org/10.1037/0033-2909.120.2.254) [~S]. Feedback should be specific, task-focused, and actionable, directing attention to the work rather than the person. It works best when learners act on it — feedback followed by revision or retry produces far more learning than feedback that is merely received [Formative feedback loops improve achievement.](https://doi.org/10.3102/0034654308317959) [+S].
+Feedback is among the most powerful influences on learning, but its effects are highly variable — it can improve or *degrade* performance depending on design [Feedback effects are highly variable and can be negative.](https://doi.org/10.1037/0033-2909.119.2.254) [~S]. Feedback should be specific, task-focused, and actionable, directing attention to the work rather than the person. It works best when learners act on it — feedback followed by revision or retry produces far more learning than feedback that is merely received [Formative feedback loops improve achievement.](https://doi.org/10.3102/0034654307313795) [+S].
 
 ### Context
 #### Requirements
@@ -30,13 +30,13 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - An opportunity for learners to act on the feedback (revise, retry, self-explain) [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 
 #### Constraints
-- Feedback that directs attention to the self (praise, grades, social comparison) often has null or negative effects on performance [Feedback effects are highly variable and can be negative.](https://doi.org/10.1037/0033-2909.120.2.254) [~S]
+- Feedback that directs attention to the self (praise, grades, social comparison) often has null or negative effects on performance [Feedback effects are highly variable and can be negative.](https://doi.org/10.1037/0033-2909.119.2.254) [~S]
 - Overly detailed feedback can overwhelm novices; too much information increases extraneous load [Cognitive Load Management](../principles/cognitive-load-management.md) — limit to one or two actionable points per iteration
 - Immediate feedback is not always superior: for complex or conceptual tasks, delayed feedback supports retention better [~M]
 - Feedback without opportunity to apply it is largely wasted effort
 
 ### Target Learners
-- All levels, but especially learners in formative stages who still have room to revise [Formative feedback loops improve achievement.](https://doi.org/10.3102/0034654308317959) [+S]
+- All levels, but especially learners in formative stages who still have room to revise [Formative feedback loops improve achievement.](https://doi.org/10.3102/0034654307313795) [+S]
 - Low-achieving learners benefit most from cues and task-level guidance; high achievers may benefit more from delayed, less scaffolded feedback [~M]
 - Learners with low self-efficacy need feedback framed around progress and strategy rather than ability [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 

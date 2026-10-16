@@ -41,7 +41,7 @@ Correlation analysis (Table 4) among participants in the two AI-assisted conditi
 
 ## Related Claims
 
-- [Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong](ai-access-inflates-confidence.md) — the general claim this finding bears on, with the studies behind it
+- [Access to AI advice roughly doubled reported confidence in answers in one experiment](ai-access-inflates-confidence.md) — the general claim this finding bears on, with the studies behind it
 - [A brief metacognitive reflection prompt reduces acceptance of incorrect AI advice compared with open ChatGPT support alone](reflection-reduces-incorrect-ai-advice-acceptance.md) — related
 - [Reflection produced selective rather than blanket rejection of AI: alignment with correct advice stayed high while alignment with incorrect advice dropped](reflection-selective-not-blanket-ai-rejection.md) — related
 - [Open ChatGPT support produces stronger self-serving attribution bias than ChatGPT support with reflection](chatgpt-support-attribution-bias.md) — related

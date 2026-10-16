@@ -62,7 +62,7 @@ Brier score ANOVA was significant with η² = .042; Full-trace (M = 0.342) was r
 
 ## Related Claims
 
-- [Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong](ai-access-inflates-confidence.md) — the general claim this finding bears on, with the studies behind it
+- [Access to AI advice roughly doubled reported confidence in answers in one experiment](ai-access-inflates-confidence.md) — the general claim this finding bears on, with the studies behind it
 - [Full reasoning traces impaired task performance relative to both answer-only and summary-trace conditions in AI-assisted LSAT reasoning](full-traces-impair-ai-assisted-reasoning-performance.md) — related
 - [Participants substantially overestimated their performance in all trace conditions, with the largest overestimation under full traces](overestimation-largest-under-full-traces.md) — related
 - [No trace format supported calibrated self-evaluation: perceived-achieved correlations were low and non-significant in all conditions](no-trace-format-supported-calibrated-self-evaluation.md) — related

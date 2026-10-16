@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong
-description: Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong
+title: Access to AI advice roughly doubled reported confidence in answers in one experiment
+description: Access to AI advice roughly doubled reported confidence in answers in one experiment
 id: ai-access-inflates-confidence
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 3
 ---
 
-# Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong
+# Access to AI advice roughly doubled reported confidence in answers in one experiment
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3`

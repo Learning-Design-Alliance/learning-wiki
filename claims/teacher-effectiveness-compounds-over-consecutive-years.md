@@ -10,7 +10,7 @@ evidence_strength: moderate
 sources:
   - id: dallas-study-cited-in-bracey-2004
     resource: "https://www.heinemann.com/products/e00594.aspx"
-    title: "Bracey, G. W. (2004). *Setting the record straight: Responses to misconceptions about public education in the U.S.* (2nd ed.). Heinemann. [https://www.heinemann.com/products/e00594.aspx](https://www.heinemann.com/products/e00594.aspx) [doi:10.1177/019263650508964208](https://doi.org/10.1177/019263650508964208)"
+    title: "Bracey, G. W. (2004). *Setting the record straight: Responses to misconceptions about public education in the U.S.* (2nd ed.). Heinemann. [https://www.heinemann.com/products/e00594.aspx](https://www.heinemann.com/products/e00594.aspx)"
     author: Bracey, G. W.
     q: 2
     i: 3
@@ -28,15 +28,15 @@ Teacher effectiveness, tracked as a growth or value-added measure rather than a 
 
 ## Subclaims
 
-`q2 i3` Low-achieving fourth-grade students in Dallas, Texas tracked for three years showed a large gap in later math proficiency depending on whether they had effective or ineffective teachers over that span (90% vs. 42% passing the seventh-grade math test), and low-achieving students were more likely than high-achieving students to be assigned an ineffective teacher for all three years, compounding rather than correcting the initial disadvantage. [→ Dallas study cited in Bracey 2004](#dallas-study-cited-in-bracey-2004)
+`q2 i?` Low-achieving fourth-grade students in Dallas, Texas tracked for three years showed a large gap in later math proficiency depending on whether they had effective or ineffective teachers over that span (90% vs. 42% passing the seventh-grade math test), and low-achieving students were more likely than high-achieving students to be assigned an ineffective teacher for all three years, compounding rather than correcting the initial disadvantage. [→ Dallas study cited in Bracey 2004](#dallas-study-cited-in-bracey-2004)
 
 ## Evidence
 
 ### Dallas study cited in Bracey 2004
 
-Bracey, G. W. (2004). *Setting the record straight: Responses to misconceptions about public education in the U.S.* (2nd ed.). Heinemann. [https://www.heinemann.com/products/e00594.aspx](https://www.heinemann.com/products/e00594.aspx) [doi:10.1177/019263650508964208](https://doi.org/10.1177/019263650508964208)
+Bracey, G. W. (2004). *Setting the record straight: Responses to misconceptions about public education in the U.S.* (2nd ed.). Heinemann. [https://www.heinemann.com/products/e00594.aspx](https://www.heinemann.com/products/e00594.aspx)
 
-`q2 · longitudinal cohort study of low-achieving students tracked across three years, cited secondarily · i3 · large gap in downstream pass rates (90% vs. 42%) · n=low-achieving 4th-grade cohort, Dallas Independent School District` · `associational · r?`
+`q2 · longitudinal cohort study of low-achieving students tracked across three years, cited secondarily · i? · large gap in downstream pass rates (90% vs. 42%) · n=low-achieving 4th-grade cohort, Dallas Independent School District` · `associational · r?`
 
 Low-achieving fourth-grade students in Dallas were followed for three years and classified by whether their teachers over that span were effective or ineffective; 90 percent of students with effective teachers passed the seventh-grade math test, compared with only 42 percent of students with ineffective teachers. The same study found that low-achieving students were *more* likely than high-achieving students to be assigned an ineffective teacher for all three years running — meaning the students who would benefit most from strong instruction were, if anything, less likely to consistently receive it. This finding is cited secondhand via Bracey (2004) rather than traced to the original Dallas research report, so the original study's design details (exact effectiveness measure, sample size, statistical controls) could not be verified against primary source text.
 
