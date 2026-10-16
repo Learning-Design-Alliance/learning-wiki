@@ -12,10 +12,15 @@ sources:
   - id: dede-2009
     resource: "https://eric.ed.gov"
     title: "Dede, C. (2009). Comparing Frameworks for \"21st Century Skills\". Harvard Graduate School of Education. https://eric.ed.gov"
-    author: Dede, C
+    author: Dede, C.
+    q: 2
+    i: "?"
 ---
 
 # The Key Stage 3 ICT assessment has more potential than CWRA and PISA to measure the full range of 21st century capabilities
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Among the three reviewed assessments, the Key Stage 3 ICT Literacy Assessment, conducted in a virtual world, has more potential than the paper-based CWRA and PISA to measure full 21st century capabilities including digital literacies. [→ Dede 2009](#dede-2009)

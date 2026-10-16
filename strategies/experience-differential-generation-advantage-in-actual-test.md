@@ -16,6 +16,9 @@ sources:
 
 # Let students experience the differential test advantage of generation before expecting them to adopt better reading strategies
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article's applied recommendation is that "students may need to experience for themselves the differential advantage of generation in the context of an actual test for them to realize its effectiveness as an encoding strategy." Learning exercises that only require generation improve memory for generated items but are unlikely to induce better strategies for reading. Designers should therefore interleave generated and read items within the same study episode and test them together, so learners observe the performance contrast directly.
 

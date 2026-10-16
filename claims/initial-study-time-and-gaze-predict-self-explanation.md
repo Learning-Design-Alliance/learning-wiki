@@ -13,13 +13,20 @@ sources:
     resource: "https://www.cs.ubc.ca"
     title: "Christina Merten and Cristina Conati. (2005). Eye-Tracking to Model and Adapt to User Meta-cognition in Intelligent Learning Environments. https://www.cs.ubc.ca"
     author: Christina Merten and Cristina Conati
+    q: 2
+    i: "?"
   - id: christina-merten-and-cristina-conati-2005-2
     resource: "https://www.cs.ubc.ca"
     title: "Christina Merten and Cristina Conati. (2005). Eye-Tracking to Model and Adapt to User Meta-cognition in Intelligent Learning Environments. https://www.cs.ubc.ca"
     author: Christina Merten and Cristina Conati
+    q: 2
+    i: "?"
 ---
 
 # In an initial eye-tracking study, time on action predicted self-explanation (16-second threshold) and gaze shifts were most reliable at detecting its absence
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Actions accompanied by self-explanation took significantly longer on average than actions without it, and ROC analysis determined 16 seconds as the sufficient-time threshold. [→ Christina Merten and Cristina Conati 2005](#christina-merten-and-cristina-conati-2005)

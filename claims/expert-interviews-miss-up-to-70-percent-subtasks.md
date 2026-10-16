@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1111/1475-6773.14106"
     title: "Graham LA, Gray C, Wagner TH, Illarmo S, Hawn MT, Wren SM, Iannuzzi J, Harris AHS. (2023). Applying cognitive task analysis to health services research. Health Services Research. https://doi.org/10.1111/1475-6773.14106"
     author: Graham LA, Gray C, Wagner TH, Illarmo S, Hawn MT, Wren SM, Iannuzzi J, Harris AHS
+    q: 1
+    i: "?"
 ---
 
 # Unstructured expert interviews miss up to 70% of the subtasks needed to describe a cognitive task
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Expert interviews are often incomplete and may miss up to 70% of the subtasks needed to describe a specific cognitive task for teaching purposes. [→ Graham LA 2023](#graham-la-2023)

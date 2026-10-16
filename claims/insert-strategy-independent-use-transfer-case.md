@@ -12,10 +12,15 @@ sources:
   - id: mcclanahan-2012
     resource: "https://link.springer.com/journal/11528"
     title: "McClanahan, B., Williams, K., Kennedy, E., & Tate, S. (2012). A Breakthrough for Josh: How Use of an iPad Facilitated Reading Improvement. TechTrends, 56(3). https://link.springer.com/journal/11528"
-    author: "McClanahan, B., Williams, K., Kennedy, E., & Tate, S"
+    author: "McClanahan, B., Williams, K., Kennedy, E., & Tate, S."
+    q: 1
+    i: "?"
 ---
 
 # After introduction, the student used the INSERT text-marking strategy consistently and independently, suggesting transfer
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Once taught the INSERT strategy on the iPad, the student used it consistently and independently on every subsequent reading passage and suggested it would help in his regular classes. [→ McClanahan 2012](#mcclanahan-2012)

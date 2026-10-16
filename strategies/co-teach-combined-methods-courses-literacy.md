@@ -16,6 +16,9 @@ sources:
 
 # Co-teach the literacy unit by combining mild and intense interventions methods courses for six weeks
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Two faculty members, one specializing in severe disabilities and one in mild disabilities, combined their respective methods courses for six weeks and co-taught the literacy unit so candidates in both licensing programs would be prepared to teach literacy to a full range of students with disabilities. "The faculty members used a co-teaching model during these instructional sessions with one faculty member presenting information and the other faculty member then describing how it applied to her respective disability population and vice versa." The unit was taught live in one course and videotaped for playback with discussion in the other.
 

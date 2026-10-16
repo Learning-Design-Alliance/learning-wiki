@@ -10,15 +10,18 @@ generated:
 evidence_strength: moderate
 sources:
   - id: pásztor-2022
-    resource: "https://doi.org/10.3390/jintelligence10030059"
-    title: "Pásztor, Attila, Andrea Magyar, Anita Pásztor-Kovács, and Attila Rausch. 2022. Online Assessment and Game-Based Development of Inductive Reasoning. Journal of Intelligence 10: 59. https://doi.org/10.3390/jintelligence10030059"
-    author: Pásztor, Attila, Andrea Magyar, Anita Pásztor-Kovács, and Attila Rausch
+    title: Pásztor 2022
+    q: 3
+    i: "?"
 ---
 
 # The six-process structure of inductive reasoning fits fifth graders' figurative-test data better than a unidimensional model
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
+
 ## Subclaims
-`q3 i?` Confirmatory factor analysis showed the 6-dimensional model defined by Klauer's theory fitted significantly better than the 1-dimensional model (chi-squared difference test chi2 = 2317.05, p < .01). [→ Pásztor 2022](#pásztor-2022)
+`q3 i?` Confirmatory factor analysis showed the 6-dimensional model defined by Klauer's theory fitted significantly better than the 1-dimensional model (chi-squared difference test chi2 = 2317.05, p < .01). [→ Pásztor 2022](#pasztor-2022)
 
 ## Evidence
 

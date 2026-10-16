@@ -16,6 +16,9 @@ sources:
 
 # Add a field-based component and compare embedded versus semester-long literacy course delivery
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The authors recommend future extensions to the literacy unit. "A Þeld-based component could potentially be implemented with the literacy unit" using the concurrent advanced practicum course to measure participants' ability to apply knowledge and skills gained. They also propose that "Future research could also focus on time frames for delivery of the literacy curriculum," comparing the 6-week embedded unit with a semester-long course with more opportunity for application, since adding coursework or credit hours is usually not viable.
 

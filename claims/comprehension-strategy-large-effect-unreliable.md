@@ -12,10 +12,15 @@ sources:
   - id: roberts-2008
     resource: "https://doi.org/10.1111/j.1540-5826.2008.00264.x"
     title: "Roberts, G., Torgesen, J. K., Boardman, A., & Scammacca, N. (2008). Evidence-Based Strategies for Reading Instruction of Older Students with Learning Disabilities. Learning Disabilities Research & Practice, 23(2), 63–69. https://doi.org/10.1111/j.1540-5826.2008.00264.x"
-    author: "Roberts, G., Torgesen, J. K., Boardman, A., & Scammacca, N"
+    author: "Roberts, G., Torgesen, J. K., Boardman, A., & Scammacca, N."
+    q: 3
+    i: 3
 ---
 
 # Comprehension strategy instruction shows a large overall effect, but reliability is undermined by few standardized measures
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` Across 12 studies the overall effect of comprehension strategy instruction was large (g = 1.35), but only 2 studies used standardized measures, with a moderate but unreliable effect (g = .54). [→ Roberts 2008](#roberts-2008)

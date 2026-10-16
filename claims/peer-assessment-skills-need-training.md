@@ -12,10 +12,15 @@ sources:
   - id: gielen-2011
     resource: "https://doi.org/10.1080/02602930903221444"
     title: "Gielen, S., Dochy, F., & Onghena, P. (2011). An inventory of peer assessment diversity. Assessment & Evaluation in Higher Education, 36(2), 137–155. https://doi.org/10.1080/02602930903221444"
-    author: "Gielen, S., Dochy, F., & Onghena, P"
+    author: "Gielen, S., Dochy, F., & Onghena, P."
+    q: 2
+    i: "?"
 ---
 
 # Peer assessment skills are complex and not automatically acquired, so training and guidance are a crucial design variable
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Peer assessment skills are not easily or automatically acquired; they are a complex skill that must be developed, which justifies training and guidance as an explicit variable in peer assessment designs. [→ Gielen 2011](#gielen-2011)

@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1080/03075079.2012.754865"
     title: "Janneke M. Frambach, Erik W. Driessen, Philip Beh and Cees P.M. van der Vleuten. (2014). Quiet or questioning? Students' discussion behaviors in student-centered education across cultures. Studies in Higher Education. https://doi.org/10.1080/03075079.2012.754865"
     author: Janneke M. Frambach, Erik W. Driessen, Philip Beh and Cees P.M. van der Vleuten
+    q: 2
+    i: "?"
   - id: janneke-m-frambach-2014-2
     resource: "https://doi.org/10.1080/03075079.2012.754865"
     title: "Janneke M. Frambach, Erik W. Driessen, Philip Beh and Cees P.M. van der Vleuten. (2014). Quiet or questioning? Students' discussion behaviors in student-centered education across cultures. Studies in Higher Education. https://doi.org/10.1080/03075079.2012.754865"
     author: Janneke M. Frambach, Erik W. Driessen, Philip Beh and Cees P.M. van der Vleuten
+    q: 2
+    i: "?"
 ---
 
 # Student-centered education is feasible in different cultural contexts, but processes and outcomes are likely to differ across them
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Despite cultural and contextual challenges, a student-centered approach is feasible in higher education in different cultures, as all three institutions had applied the model for over a decade. [→ Janneke M. Frambach 2014](#janneke-m-frambach-2014)

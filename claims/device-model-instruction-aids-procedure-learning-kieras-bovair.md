@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.21236/ada303654"
     title: "Ellen P. Hall, Sherrie P. Gott, Robert A. Pokorny. (1995). A Procedural Guide to Cognitive Task Analysis: The PARI Methodology. Armstrong Laboratory, Human Resources Directorate, Brooks AFB, Texas. AL/HR-TR-1995-0108. https://doi.org/10.21236/ada303654"
     author: Ellen P. Hall, Sherrie P. Gott, Robert A. Pokorny
+    q: 2
+    i: "?"
 ---
 
 # The report attributes to Kieras and Bovair (1984) that device-model instruction improved procedure learning, retention, execution speed, and procedure simplification relative to rote learning
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Subjects given a device model before procedure training learned procedures faster, retained them more accurately, executed them faster, and simplified inefficient procedures more often than a rote-learning group. [→ Ellen P. Hall 1995](#ellen-p-hall-1995)

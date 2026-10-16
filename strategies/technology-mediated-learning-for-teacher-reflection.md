@@ -16,6 +16,9 @@ sources:
 
 # Use technology-mediated learning to shift the trainer's role from knowledge provider to facilitator and foster reflection
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends computer-facilitated learning and activities to foster reflection in pre-service ELT teacher education. Citing Strampel & Oliver, it argues "use of the computer is significant in terms of changing the role of the course instructor from a knowledge provider and controller to a facilitator and helper", giving student teachers access to multiple worldviews about ELT and creating an environment conducive to reflection leading to conceptual change, knowledge transfer and action. Computer-mediated technologies support reflection through the multiple tools and activities they provide, especially when student teachers are given scaffolds and social tasks.
 

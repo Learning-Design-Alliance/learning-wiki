@@ -10,15 +10,18 @@ generated:
 evidence_strength: moderate
 sources:
   - id: pásztor-2022
-    resource: "https://doi.org/10.3390/jintelligence10030059"
-    title: "Pásztor, Attila, Andrea Magyar, Anita Pásztor-Kovács, and Attila Rausch. 2022. Online Assessment and Game-Based Development of Inductive Reasoning. Journal of Intelligence 10: 59. https://doi.org/10.3390/jintelligence10030059"
-    author: Pásztor, Attila, Andrea Magyar, Anita Pásztor-Kovács, and Attila Rausch
+    title: Pásztor 2022
+    q: 3
+    i: "?"
 ---
 
 # The hierarchical model of Similarity, Dissimilarity, and Integration is empirically supported with domain-general figurative items
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
+
 ## Subclaims
-`q3 i?` The hierarchical model suggested by Christou and Papageorgiou fit the figurative-item data well, empirically demonstrating the three latent factors of Similarity, Dissimilarity, and Integration. [→ Pásztor 2022](#pásztor-2022)
+`q3 i?` The hierarchical model suggested by Christou and Papageorgiou fit the figurative-item data well, empirically demonstrating the three latent factors of Similarity, Dissimilarity, and Integration. [→ Pásztor 2022](#pasztor-2022)
 
 ## Evidence
 

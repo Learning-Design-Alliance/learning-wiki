@@ -12,10 +12,15 @@ sources:
   - id: koedinger-2008
     resource: "https://learnlab.org/"
     title: "Koedinger, K., Aleven, V., Roll, I., & Baker, R. (2008). In vivo experiments on whether supporting metacognition in intelligent tutoring systems yields robust learning. https://learnlab.org/"
-    author: "Koedinger, K., Aleven, V., Roll, I., & Baker, R"
+    author: "Koedinger, K., Aleven, V., Roll, I., & Baker, R."
+    q: 3
+    i: "?"
 ---
 
 # Intelligent Novice error-correction tutoring produced better delayed transfer and immediate isomorphic performance than the Expert tutor in spreadsheet learning
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Intelligent Novice students scored 74% vs. 60% on delayed transfer and 88% vs. 79% on an immediate isomorphic test, both statistically reliable. [→ Koedinger 2008](#koedinger-2008)

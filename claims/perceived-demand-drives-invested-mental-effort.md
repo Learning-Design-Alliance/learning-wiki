@@ -13,9 +13,14 @@ sources:
     resource: "http://www.jstor.org/stable/30218388"
     title: "Innwoo Park and Michael J. Hannafin. (1993). Empirically-Based Guidelines for the Design of Interactive Multimedia. Educational Technology Research and Development, Vol. 41, No. 3, pp. 63-85. http://www.jstor.org/stable/30218388"
     author: Innwoo Park and Michael J. Hannafin
+    q: 2
+    i: "?"
 ---
 
 # Learners invest more mental effort in media they perceive as difficult, so multimedia should raise perceived demand characteristics
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Learners invest more mental effort in media they perceive as difficult than those they perceive as easy; less effort is exerted viewing video than reading comparable content in books. [→ Innwoo Park and Michael J. Hannafin 1993](#innwoo-park-and-michael-j-hannafin-1993)

@@ -12,10 +12,15 @@ sources:
   - id: koedinger-2008
     resource: "https://learnlab.org/"
     title: "Koedinger, K., Aleven, V., Roll, I., & Baker, R. (2008). In vivo experiments on whether supporting metacognition in intelligent tutoring systems yields robust learning. https://learnlab.org/"
-    author: "Koedinger, K., Aleven, V., Roll, I., & Baker, R"
+    author: "Koedinger, K., Aleven, V., Roll, I., & Baker, R."
+    q: 3
+    i: "?"
 ---
 
 # Self-explanation support did not change Answer-item performance even though the explanation condition completed only half as many problems
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Performance on Answer items did not differ between the Explanation and Problem Solving conditions, despite the Explanation Condition encountering half as many such items during training. [→ Koedinger 2008](#koedinger-2008)

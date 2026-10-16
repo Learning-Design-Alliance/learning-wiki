@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1037/tmb0000102"
     title: "Benoit Bediou, Melissa A. Rodgers, Elizabeth Tipton, Richard E. Mayer, C. Shawn Green, and Daphne Bavelier. (2023). Effects of Action Video Game Play on Cognitive Skills: A Meta-Analysis. Technology, Mind, and Behavior. https://doi.org/10.1037/tmb0000102"
     author: Benoit Bediou, Melissa A. Rodgers, Elizabeth Tipton, Richard E. Mayer, C. Shawn Green, and Daphne Bavelier
+    q: 3
+    i: 1
 ---
 
 # Action video game training causally improves cognitive skills relative to active control training (small effect, g = 0.30)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` In intervention studies contrasting action video game training with active control video game training, action game play causally improves cognitive skills, with a small average effect. [→ Benoit Bediou 2023](#benoit-bediou-2023)

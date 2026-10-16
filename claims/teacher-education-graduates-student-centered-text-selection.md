@@ -12,14 +12,21 @@ sources:
   - id: nathan-2001
     resource: "https://www.google.com/search?q=%22Expert+Blind+Spot%22+Nathan+Koedinger+Alibali"
     title: "Nathan, M. J., Koedinger, K. R., & Alibali, M. W. (2001). Expert Blind Spot: When Content Knowledge Eclipses Pedagogical Content Knowledge. Proceeding of the Third International Conference on Cognitive Science. https://www.google.com/search?q=%22Expert+Blind+Spot%22+Nathan+Koedinger+Alibali"
-    author: "Nathan, M. J., Koedinger, K. R., & Alibali, M. W"
+    author: "Nathan, M. J., Koedinger, K. R., & Alibali, M. W."
+    q: 2
+    i: "?"
   - id: nathan-2001-2
     resource: "https://www.google.com/search?q=%22Expert+Blind+Spot%22+Nathan+Koedinger+Alibali"
     title: "Nathan, M. J., Koedinger, K. R., & Alibali, M. W. (2001). Expert Blind Spot: When Content Knowledge Eclipses Pedagogical Content Knowledge. Proceeding of the Third International Conference on Cognitive Science. https://www.google.com/search?q=%22Expert+Blind+Spot%22+Nathan+Koedinger+Alibali"
-    author: "Nathan, M. J., Koedinger, K. R., & Alibali, M. W"
+    author: "Nathan, M. J., Koedinger, K. R., & Alibali, M. W."
+    q: 2
+    i: "?"
 ---
 
 # In Grossman's case study, English teachers without formal teacher education adopted text-centered instruction, while teacher education graduates adopted student-centered instruction
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Teachers with no formal teacher education used subject matter knowledge as the lens on instruction, promoting a text-centered view poorly matched to most high school students. [→ Nathan 2001](#nathan-2001)

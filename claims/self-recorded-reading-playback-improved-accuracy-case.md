@@ -12,10 +12,15 @@ sources:
   - id: mcclanahan-2012
     resource: "https://link.springer.com/journal/11528"
     title: "McClanahan, B., Williams, K., Kennedy, E., & Tate, S. (2012). A Breakthrough for Josh: How Use of an iPad Facilitated Reading Improvement. TechTrends, 56(3). https://link.springer.com/journal/11528"
-    author: "McClanahan, B., Williams, K., Kennedy, E., & Tate, S"
+    author: "McClanahan, B., Williams, K., Kennedy, E., & Tate, S."
+    q: 1
+    i: "?"
 ---
 
 # Recording and listening to his own read-alouds helped the student read more accurately and comprehend more than following a teacher's read-aloud
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` When the student recorded and listened to his own reading, he made significantly fewer mistakes and seemed to comprehend more than when following the teacher's reading. [→ McClanahan 2012](#mcclanahan-2012)

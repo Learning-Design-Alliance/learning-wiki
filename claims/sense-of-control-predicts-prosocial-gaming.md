@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1089/cyber.2011.0311"
     title: "Nicholas David Bowman, Daniel Schultheiss, and Christina Schumann. (2012). 'I'm Attached, and I'm a Good Guy/Gal!': How Character Attachment Influences Pro- and Anti-Social Motivations to Play Massively Multiplayer Online Role-Playing Games. CyberPsychology, Behavior, and Social Networking. https://doi.org/10.1089/cyber.2011.0311"
     author: Nicholas David Bowman, Daniel Schultheiss, and Christina Schumann
+    q: 2
+    i: "?"
 ---
 
 # Greater sense of control over one's character predicts pro-social gaming motivations
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Among MMORPG players, a greater sense of control over one's character was a significant positive predictor of pro-social gaming motivations when controlling for demographics and game play factors. [→ Nicholas David Bowman 2012](#nicholas-david-bowman-2012)

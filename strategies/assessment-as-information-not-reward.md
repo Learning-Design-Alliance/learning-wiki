@@ -16,6 +16,9 @@ sources:
 
 # Design assessment as information, not reward and punishment, and provide an engaging curriculum with choice and community
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The digest recommends assessment practices that help students "experience success and failure not as reward and punishment, but as information," thereby avoiding the detrimental effects of grading. More broadly, it concludes children become enthusiastic lifelong learners when provided an engaging curriculum, a safe caring community in which to discover and create, and significant choice about what, how, and why they learn.
 

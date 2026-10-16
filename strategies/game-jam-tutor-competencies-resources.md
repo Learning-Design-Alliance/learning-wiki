@@ -16,6 +16,9 @@ sources:
 
 # Staff game jams with tutors who have pedagogical, technological, collaborative and creative competencies, plus volunteers for materials and technical support
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends tutors familiarized with video-game development who hold "pedagogical, technological, collaborative, and creative competencies", create a safe space, and remain neutral and impartial. Volunteers handle idea-generation techniques, extra materials, and technical problems such as software installation and Internet connection issues.
 

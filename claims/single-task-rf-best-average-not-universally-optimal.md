@@ -12,10 +12,15 @@ sources:
   - id: henderson-2020
     resource: "https://educationaldatamining.org/EDM2020/proceedings/"
     title: "Henderson, N., Kumaran, V., Min, W., Mott, B., Wu, Z., Boulden, D., Lord, T., Reichsman, F., Dorsey, C., Wiebe, E., & Lester, J. (2020). Enhancing Student Competency Models for Game-Based Learning with a Hybrid Stealth Assessment Framework. Proceedings of The 13th International Conference on Educational Data Mining (EDM 2020), 92-103. https://educationaldatamining.org/EDM2020/proceedings/"
-    author: "Henderson, N., Kumaran, V., Min, W., Mott, B., Wu, Z., Boulden, D., Lord, T., Reichsman, F., Dorsey, C., Wiebe, E., & Lester, J"
+    author: "Henderson, N., Kumaran, V., Min, W., Mott, B., Wu, Z., Boulden, D., Lord, T., Reichsman, F., Dorsey, C., Wiebe, E., & Lester, J."
+    q: 2
+    i: "?"
 ---
 
 # The single-task Random Forest achieves the best average predictive performance but is optimal for only 7 of 15 concepts
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Single-task Random Forest achieved the highest average R² (0.206) across all concepts but was the optimal model for only 7 out of 15 concepts, demonstrating that average performance does not guarantee per-concept optimality. [→ Henderson 2020](#henderson-2020)

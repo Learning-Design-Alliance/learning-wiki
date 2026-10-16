@@ -13,9 +13,14 @@ sources:
     resource: "http://kaikunze.de/papers/2013Kunze-1.pdf"
     title: "Kai Kunze, Masakazu Iwamura, Koichi Kise, Seiichi Uchida, and Shinichiro Omachi. (2013). Activity Recognition for the Mind: Toward a Cognitive “Quantified Self.” Computer, IEEE Computer Society, October 2013. http://kaikunze.de/papers/2013Kunze-1.pdf"
     author: Kai Kunze, Masakazu Iwamura, Koichi Kise, Seiichi Uchida, and Shinichiro Omachi
+    q: 2
+    i: "?"
 ---
 
 # Eye tracking can identify which words a second-language reader had trouble understanding
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Fixation histograms mapped onto digitized passages revealed words readers marked as difficult, and the method worked for all words marked as difficult by the participants. [→ Kai Kunze 2013](#kai-kunze-2013)

@@ -12,10 +12,15 @@ sources:
   - id: dewinstanley-2004
     resource: "https://doi.org/10.3758/bf03196872"
     title: "deWinstanley, P. A., & Bjork, E. L. (2004). Processing strategies and the generation effect: Implications for making a better reader. Memory & Cognition, 32(6), 945-955. https://doi.org/10.3758/bf03196872"
-    author: "deWinstanley, P. A., & Bjork, E. L"
+    author: "deWinstanley, P. A., & Bjork, E. L."
+    q: 3
+    i: "?"
 ---
 
 # Experiencing a generation advantage on a first test eliminates the generation advantage on a subsequent test by improving recall of read items
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In Experiment 1A, a generation advantage on the first paragraph test was eliminated on the second paragraph test because recall of read items improved significantly while recall of generated items did not change. [→ deWinstanley 2004](#dewinstanley-2004)

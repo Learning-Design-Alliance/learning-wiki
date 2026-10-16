@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1177/1475240908091302"
     title: "Ian Robottom and Sharifah Norhaidah. (2008). Western science and Islamic learners: When disciplines and culture intersect. Journal of Research in International Education 7(2). https://doi.org/10.1177/1475240908091302"
     author: Ian Robottom and Sharifah Norhaidah
+    q: 2
+    i: "?"
   - id: ian-robottom-and-sharifah-norhaidah-2008-2
     resource: "https://doi.org/10.1177/1475240908091302"
     title: "Ian Robottom and Sharifah Norhaidah. (2008). Western science and Islamic learners: When disciplines and culture intersect. Journal of Research in International Education 7(2). https://doi.org/10.1177/1475240908091302"
     author: Ian Robottom and Sharifah Norhaidah
+    q: 2
+    i: "?"
 ---
 
 # Australian Islamic students reconcile discord over evolution by distinguishing belief from knowledge acquisition, learning content while suspending belief in it
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Interviewed students reported they could learn scientific topics conflicting with their faith, such as evolution, without necessarily believing them, and this reconciliation was reflected in the middling Rasch location of ITEM 80. [→ Ian Robottom and Sharifah Norhaidah 2008](#ian-robottom-and-sharifah-norhaidah-2008)

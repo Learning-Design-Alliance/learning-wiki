@@ -13,9 +13,14 @@ sources:
     resource: "https://arxiv.org/abs/1307.2579"
     title: "Chris Piech, Jonathan Huang, Zhenghao Chen, Chuong Do, Andrew Ng, Daphne Koller. (2013). Tuned Models of Peer Assessment in MOOCs. arXiv. https://arxiv.org/abs/1307.2579"
     author: Chris Piech, Jonathan Huang, Zhenghao Chen, Chuong Do, Andrew Ng, Daphne Koller
+    q: 2
+    i: "?"
 ---
 
 # The model's posterior confidence estimates are conservative: over 95% of predictions the model claims 90–95% confidence in are correct
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Binned confidence estimates were validated against actual pass rates; when the model claims 90–95% confidence, its estimate is correct over 95% of the time, indicating conservative rather than overconfident calibration. [→ Chris Piech 2013](#chris-piech-2013)

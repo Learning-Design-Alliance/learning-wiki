@@ -12,14 +12,21 @@ sources:
   - id: kizilcec-2017
     resource: "https://doi.org/10.1016/j.compedu.2016.10.001"
     title: "Kizilcec, R. F., Pérez-Sanagustín, M., & Maldonado, J. J. (2017). Self-regulated learning strategies predict learner behavior and goal attainment in Massive Open Online Courses. Computers & Education, 104, 18–33. https://doi.org/10.1016/j.compedu.2016.10.001"
-    author: "Kizilcec, R. F., Pérez-Sanagustín, M., & Maldonado, J. J"
+    author: "Kizilcec, R. F., Pérez-Sanagustín, M., & Maldonado, J. J."
+    q: 2
+    i: "?"
   - id: kizilcec-2017-2
     resource: "https://doi.org/10.1016/j.compedu.2016.10.001"
     title: "Kizilcec, R. F., Pérez-Sanagustín, M., & Maldonado, J. J. (2017). Self-regulated learning strategies predict learner behavior and goal attainment in Massive Open Online Courses. Computers & Education, 104, 18–33. https://doi.org/10.1016/j.compedu.2016.10.001"
-    author: "Kizilcec, R. F., Pérez-Sanagustín, M., & Maldonado, J. J"
+    author: "Kizilcec, R. F., Pérez-Sanagustín, M., & Maldonado, J. J."
+    q: 2
+    i: "?"
 ---
 
 # Self-reported SRL strategies vary by individual learner characteristics including demographics, prior experience, and motivations
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q3 i?` Older learners reported higher SRL (except help seeking); women reported higher help seeking but lower strategic planning, elaboration, and self-evaluation; employed learners and those with graduate degrees reported higher SRL on several strategies. [→ Kizilcec 2017](#kizilcec-2017)

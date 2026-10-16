@@ -13,9 +13,14 @@ sources:
     resource: "https://etda.libraries.psu.edu"
     title: "Lee, Hyeon Woo. (2008). The effects of generative learning strategy prompts and metacognitive feedback on learners' self-regulation, generation process, and achievement. Dissertation in Instructional Systems, The Pennsylvania State University. https://etda.libraries.psu.edu"
     author: Lee, Hyeon Woo
+    q: 2
+    i: "?"
 ---
 
 # Learners often fail to regulate their own learning in computer-based learning environments
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Several studies show that learners do not regulate their own learning or often make inappropriate metacognitive decisions, especially in computer-based learning environments. [→ Lee 2008](#lee-2008)

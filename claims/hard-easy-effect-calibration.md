@@ -10,12 +10,15 @@ generated:
 evidence_strength: weak
 sources:
   - id: bol-l-and-hacker-dj-2012
-    resource: "https://doi.org/10.3389/fpsyg.2012.00229"
-    title: "Bol L and Hacker DJ (2012) Calibration research: where do we go from here? Front. Psychology 3:229. https://doi.org/10.3389/fpsyg.2012.00229"
-    author: Bol L and Hacker DJ
+    title: Bol L and Hacker DJ 2012
+    q: 2
+    i: "?"
 ---
 
 # Hard-easy effect: students are more accurate but underconfident on easy items and less accurate but overconfident on difficult items
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Task difficulty influences calibration accuracy: students tend to be more accurate but underconfident on easy items and less accurate but overconfident on difficult items. [→ Bol L and Hacker DJ 2012](#bol-l-and-hacker-dj-2012)

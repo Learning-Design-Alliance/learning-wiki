@@ -12,14 +12,21 @@ sources:
   - id: koriat-2006
     resource: "https://doi.org/10.3758/bf03193244"
     title: "Koriat, A., & Bjork, R. A. (2006). Illusions of competence during study can be remedied by manipulations that enhance learners' sensitivity to retrieval conditions at test. Memory & Cognition, 34(5), 959-972. https://doi.org/10.3758/bf03193244"
-    author: "Koriat, A., & Bjork, R. A"
+    author: "Koriat, A., & Bjork, R. A."
+    q: 3
+    i: "?"
   - id: koriat-2006-2
     resource: "https://doi.org/10.3758/bf03193244"
     title: "Koriat, A., & Bjork, R. A. (2006). Illusions of competence during study can be remedied by manipulations that enhance learners' sensitivity to retrieval conditions at test. Memory & Cognition, 34(5), 959-972. https://doi.org/10.3758/bf03193244"
-    author: "Koriat, A., & Bjork, R. A"
+    author: "Koriat, A., & Bjork, R. A."
+    q: 3
+    i: "?"
 ---
 
 # Delaying judgments of learning after study markedly reduces, but does not eliminate, the foresight bias
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Overconfidence for backward pairs fell from 32.3% with immediate JOLs to 12.0% with delayed JOLs, a significant triple interaction. [→ Koriat 2006](#koriat-2006)

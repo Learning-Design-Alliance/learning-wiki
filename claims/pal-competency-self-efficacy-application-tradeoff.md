@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11423-006-0637-3"
     title: "Yanghee Kim and Amy L. Baylor. (2006). A Social-Cognitive Framework for Pedagogical Agents as Learning Companions. ETR&D, Vol. 54, No. 6, pp. 569–596. https://doi.org/10.1007/s11423-006-0637-3"
     author: Yanghee Kim and Amy L. Baylor
+    q: 2
+    i: "?"
 ---
 
 # The review reports that highly competent PALs increased learners' application of acquired knowledge while low-competent PALs increased self-efficacy
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In a study the review reports, highly competent PALs increased male and female students' application of acquired knowledge whereas low-competent PALs increased self-efficacy beliefs. [→ Yanghee Kim and Amy L. Baylor 2006](#yanghee-kim-and-amy-l-baylor-2006)

@@ -1,0 +1,44 @@
+---
+type: claim
+title: "Stealth assessment estimates of problem solving in Use Your Brainz correlate significantly with external measures (Raven's and MicroDYN) in middle-school students"
+description: "Stealth assessment estimates of problem solving in Use Your Brainz correlate significantly with external measures (Raven's and MicroDYN) in middle-school students"
+id: stealth-assessment-problem-solving-correlates-external-measures
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+evidence_strength: moderate
+sources:
+  - id: shute-2016
+    resource: "https://doi.org/10.1016/j.chb.2016.05.047"
+    title: "Shute, V. J., Wang, L., Greiff, S., Zhao, W., & Moore, G. (2016). Measuring problem solving skills via stealth assessment in an engaging video game. Computers in Human Behavior, 63, 106-117. https://doi.org/10.1016/j.chb.2016.05.047"
+    author: "Shute, V. J., Wang, L., Greiff, S., Zhao, W., & Moore, G."
+    q: 3
+    i: 3
+---
+
+# Stealth assessment estimates of problem solving in Use Your Brainz correlate significantly with external measures (Raven's and MicroDYN) in middle-school students
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+
+## Subclaims
+`q3 i3` Game-based problem solving estimates significantly correlated with Raven's (r = 0.40, p < 0.01) and MicroDYN (r = 0.41, p < 0.01), supporting convergent validity. [→ Shute 2016](#shute-2016)
+
+## Evidence
+
+### Shute 2016
+
+Shute, V. J., Wang, L., Greiff, S., Zhao, W., & Moore, G. (2016). Measuring problem solving skills via stealth assessment in an engaging video game. Computers in Human Behavior, 63, 106-117. https://doi.org/10.1016/j.chb.2016.05.047
+
+`q3 · i3`
+
+Validation study in which 47 seventh-grade students played Use Your Brainz for about three hours and completed Raven's Progressive Matrices and MicroDYN. The article reports the game-based assessment "significantly correlated with both Raven's" and MicroDYN, with r = 0.40 and r = 0.41 respectively.
+
+> "Despite the relatively small sample size ( n ¼ 47), the results showed that our game-based assessment of problem solving skills significantly correlated with both Raven's( r ¼ 0.40, p < 0.01) and MicroDYN (r ¼ 0.41, p < 0.01)."
+
+## Discussion
+
+
+## Related Claims
+-

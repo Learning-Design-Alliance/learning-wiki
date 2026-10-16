@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1016/j.compedu.2017.05.016"
     title: "Matthew Barr. (2017). Video games can develop graduate skills in higher education students: A randomised trial. Computers & Education. https://doi.org/10.1016/j.compedu.2017.05.016"
     author: Matthew Barr
+    q: 3
+    i: 2
 ---
 
 # Playing commercial video games for eight weeks improved self-reported resourcefulness more than control conditions in a randomised trial of undergraduates
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Intervention-group students showed significantly greater positive change on the Resourcefulness Scale than control students (Cohen's d 0.9, p = 0.013). [→ Matthew Barr 2017](#matthew-barr-2017)

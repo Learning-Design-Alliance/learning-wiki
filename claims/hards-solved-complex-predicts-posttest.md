@@ -12,14 +12,21 @@ sources:
   - id: malkiewich-2016
     resource: "https://eric.ed.gov/?q=Tenacious+Assessments+Using+In-Game+Behaviors"
     title: "Malkiewich, L. J., Lee, A., Slater, S., & Chase, C. C. (2016). Tenacious Assessments: Using In-Game Behaviors to Measure Student Persistence and Challenge Navigation. https://eric.ed.gov/?q=Tenacious+Assessments+Using+In-Game+Behaviors"
-    author: "Malkiewich, L. J., Lee, A., Slater, S., & Chase, C. C"
+    author: "Malkiewich, L. J., Lee, A., Slater, S., & Chase, C. C."
+    q: 2
+    i: 3
   - id: malkiewich-2016-2
     resource: "https://eric.ed.gov/?q=Tenacious+Assessments+Using+In-Game+Behaviors"
     title: "Malkiewich, L. J., Lee, A., Slater, S., & Chase, C. C. (2016). Tenacious Assessments: Using In-Game Behaviors to Measure Student Persistence and Challenge Navigation. https://eric.ed.gov/?q=Tenacious+Assessments+Using+In-Game+Behaviors"
-    author: "Malkiewich, L. J., Lee, A., Slater, S., & Chase, C. C"
+    author: "Malkiewich, L. J., Lee, A., Slater, S., & Chase, C. C."
+    q: 2
+    i: 3
 ---
 
 # In-game willingness to solve hard levels with complex code is positively associated with posttest coding knowledge, controlling for pretest
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
 
 ## Subclaims
 `q2 i3` Hards Solved Complex correlated with posttest score (r = 0.76, p < .01) and explained 50.2% additional unique variance in posttest controlling for pretest. [→ Malkiewich 2016](#malkiewich-2016)

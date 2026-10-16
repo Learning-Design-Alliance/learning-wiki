@@ -12,10 +12,15 @@ sources:
   - id: martinez-garza-2017
     resource: "https://doi.org/10.4018/IJGCMS.2017070101"
     title: "Martinez-Garza, M. M., & Clark, D. B. (2017). Investigating Epistemic Stances in Game Play with Data Mining. International Journal of Gaming and Computer-Mediated Simulations, 9(3). https://doi.org/10.4018/IJGCMS.2017070101"
-    author: "Martinez-Garza, M. M., & Clark, D. B"
+    author: "Martinez-Garza, M. M., & Clark, D. B."
+    q: 3
+    i: "?"
 ---
 
 # Students favoring fast iterative solution strategies achieved lower learning gains than students with slow, elaborate, or balanced play
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Congruent with the 2SM, mainly fast iterative solution strategies were associated with lower learning gains than slow, elaborate solutions or a balanced mix of the two. [→ Martinez-Garza 2017](#martinez-garza-2017)

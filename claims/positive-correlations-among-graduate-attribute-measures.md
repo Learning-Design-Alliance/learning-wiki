@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.25304/rlt.v28.2326"
     title: "Matthew Barr. (2020). A cross-sectional study of video game play habits and graduate skills attainment. Research in Learning Technology. https://doi.org/10.25304/rlt.v28.2326"
     author: Matthew Barr
+    q: 2
+    i: "?"
 ---
 
 # All measured graduate attribute scores correlate positively with one another, with the Resourcefulness Scale correlating most weakly
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The correlogram showed all correlations between attribute measures were positive, suggesting the attributes may be facets of one phenomenon, while Resourcefulness Scale scores formed a distinct, weakly correlated cluster. [→ Matthew Barr 2020](#matthew-barr-2020)

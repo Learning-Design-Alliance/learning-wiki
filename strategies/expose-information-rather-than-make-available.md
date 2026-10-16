@@ -16,6 +16,9 @@ sources:
 
 # Expose information directly to students and parents rather than merely making it available
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The review recommends that education policies deliver relevant information actively to decision-makers instead of only making it accessible, because automatic thinking means people act on what immediately comes to mind. It states that "Policies that expose information, compared to making it easily available, are more likely to be effective in a variety of fields, from consumer retail behavior to health". In education this supports mailed college-information packages and simplified, salient presentation of costs and options.
 

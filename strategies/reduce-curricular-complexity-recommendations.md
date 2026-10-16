@@ -16,6 +16,9 @@ sources:
 
 # Five recommendations for reducing curricular barriers: minimize transfer delay, eliminate choke points, flex calculus timing, shrink core requirements, and publish multiple degree plans
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 From comparing the 60 degree maps, the authors distill five recommendations departments can use to evaluate and change their degrees: minimize delay factor for transfer students, eliminate choke points that prevent student progress, offer flexibility for when calculus must be completed, require a small set of core requirements to increase flexibility, and improve how course requirements and plans of study are communicated. They recommend "reducing choke points by offering pathways, such as those demonstrated by some programs who had algorithms, software engineering, and systems pathways throughout their degree," so a student struggling in one pathway can progress in another rather than leaving the major.
 

@@ -12,10 +12,15 @@ sources:
   - id: bell-2008
     resource: "http://digitalcommons.ilr.cornell.edu/articles/410/"
     title: "Bell, B. S., & Kozlowski, S. W. J. (2008). Active learning: Effects of core training design elements on self-regulatory processes, learning, and adaptability. Journal of Applied Psychology, 93(2), 296-316. http://digitalcommons.ilr.cornell.edu/articles/410/"
-    author: "Bell, B. S., & Kozlowski, S. W. J"
+    author: "Bell, B. S., & Kozlowski, S. W. J."
+    q: 2
+    i: "?"
 ---
 
 # Prior studies reviewed show exploratory learning outperformed proceduralized instruction for training performance and transfer
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The review attributes to Frese et al. (1988) and Dormann and Frese (1994) findings that exploratory learning led to higher training performance and transfer than proceduralized instruction. [→ Bell 2008](#bell-2008)

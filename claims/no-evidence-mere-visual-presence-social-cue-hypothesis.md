@@ -13,17 +13,24 @@ sources:
     resource: "https://doi.org/10.1007/s10648-010-9123-x"
     title: "Nicole C. Krämer & Gary Bente. (2010). Personalizing e-Learning. The Social Effects of Pedagogical Agents. Educ Psychol Rev. https://doi.org/10.1007/s10648-010-9123-x"
     author: "Nicole C. Krämer & Gary Bente"
+    q: 2
+    i: "?"
   - id: nicole-c-krämer-gary-bente-2010-2
     resource: "https://doi.org/10.1007/s10648-010-9123-x"
     title: "Nicole C. Krämer & Gary Bente. (2010). Personalizing e-Learning. The Social Effects of Pedagogical Agents. Educ Psychol Rev. https://doi.org/10.1007/s10648-010-9123-x"
     author: "Nicole C. Krämer & Gary Bente"
+    q: 2
+    i: "?"
 ---
 
 # The review reports no evidence that the mere visual presence of a human-like body produces distinct effects, though likeable appearance improves motivation and transfer
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+
 ## Subclaims
-`q2 i?` Moreno postulated no evidence for the social cue hypothesis: mere presence of a human-like body has not been shown to lead to distinct effects. [→ Nicole C. Krämer & Gary Bente 2010](#nicole-c-krämer-gary-bente-2010)
-`q2 i?` Domagk found no general agent effect on motivation or learning, but likeable agents led to higher motivation and increased transfer performance. [→ Nicole C. Krämer & Gary Bente 2010 (2)](#nicole-c-krämer-gary-bente-2010-2)
+`q2 i?` Moreno postulated no evidence for the social cue hypothesis: mere presence of a human-like body has not been shown to lead to distinct effects. [→ Nicole C. Krämer & Gary Bente 2010](#nicole-c-kramer-gary-bente-2010)
+`q2 i?` Domagk found no general agent effect on motivation or learning, but likeable agents led to higher motivation and increased transfer performance. [→ Nicole C. Krämer & Gary Bente 2010 (2)](#nicole-c-kramer-gary-bente-2010-2)
 
 ## Evidence
 

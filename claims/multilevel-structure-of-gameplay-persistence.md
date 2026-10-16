@@ -12,10 +12,15 @@ sources:
   - id: rahimi-2021
     resource: "https://doi.org/10.46328/ijtes.118"
     title: "Rahimi, S., Shute, V., & Zhang, Q. (2021). The effects of game and student characteristics on persistence in educational games: A hierarchical linear modeling approach. International Journal of Technology in Education and Science (IJTES), 5(2), 141-165. https://doi.org/10.46328/ijtes.118"
-    author: "Rahimi, S., Shute, V., & Zhang, Q"
+    author: "Rahimi, S., Shute, V., & Zhang, Q."
+    q: 2
+    i: "?"
 ---
 
 # Persistence varies both within and between students, warranting multilevel modeling, and level-1 predictors explained 18% of variance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The intraclass correlation was .13 with significant between-students variance, and adding level-1 predictors explained 18% of the outcome variance relative to the fully unconditional model. [→ Rahimi 2021](#rahimi-2021)

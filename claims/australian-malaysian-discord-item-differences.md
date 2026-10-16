@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1177/1475240908091302"
     title: "Ian Robottom and Sharifah Norhaidah. (2008). Western science and Islamic learners: When disciplines and culture intersect. Journal of Research in International Education 7(2). https://doi.org/10.1177/1475240908091302"
     author: Ian Robottom and Sharifah Norhaidah
+    q: 2
+    i: "?"
   - id: ian-robottom-and-sharifah-norhaidah-2008-2
     resource: "https://doi.org/10.1177/1475240908091302"
     title: "Ian Robottom and Sharifah Norhaidah. (2008). Western science and Islamic learners: When disciplines and culture intersect. Journal of Research in International Education 7(2). https://doi.org/10.1177/1475240908091302"
     author: Ian Robottom and Sharifah Norhaidah
+    q: 2
+    i: "?"
 ---
 
 # Australian and Malaysian Muslim learners ranked discord items differently, with Australian students most resistant to anti-science statements and most accepting of divine-cause statements
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The three easiest-to-agree items for Australian learners (ITEMS 95, 72, 67) differed from the Malaysian study's easiest items (ITEMS 84, 90, 86), and the most difficult items also differed between the two samples. [→ Ian Robottom and Sharifah Norhaidah 2008](#ian-robottom-and-sharifah-norhaidah-2008)

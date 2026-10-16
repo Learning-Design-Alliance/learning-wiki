@@ -16,6 +16,9 @@ sources:
 
 # Focus vocabulary instruction on Tier 2 words drawn from content-area materials
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Following Beck, McKeown, and Kucan (2002), the article recommends breaking words into three tiers and concentrating instruction on Tier 2 words that appear frequently across many contexts (e.g., regardless, compromise), drawn from content-area materials. Teachers should select words students are likely both to need and to learn well because they will have repeated opportunities for practice and use.
 

@@ -12,10 +12,15 @@ sources:
   - id: kienitz-2023
     resource: "https://doi.org/10.1007/s11251-023-09632-w"
     title: "Kienitz, A., Krebs, M.-C., & Eitel, A. (2023). Seductive details hamper learning even when they do not disrupt. Instructional Science. https://doi.org/10.1007/s11251-023-09632-w"
-    author: "Kienitz, A., Krebs, M.-C., & Eitel, A"
+    author: "Kienitz, A., Krebs, M.-C., & Eitel, A."
+    q: 3
+    i: "?"
 ---
 
 # No seductive details effect on transfer was observed, and no definitive conclusions about comprehension effects can be drawn from the multiple-choice transfer data
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` The study's data showed no seductive details effect for transfer performance. [→ Kienitz 2023](#kienitz-2023)

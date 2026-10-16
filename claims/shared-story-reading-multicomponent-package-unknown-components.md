@@ -13,9 +13,14 @@ sources:
     resource: "http://www.education.uncc.edu/access/"
     title: "Melissa E. Hudson and David W. Test. (2011). Evaluating the Evidence Base of Shared Story Reading to Promote Literacy for Students With Extensive Support Needs. Research & Practice for Persons with Severe Disabilities, 36(1-2), 34-45. http://www.education.uncc.edu/access/"
     author: Melissa E. Hudson and David W. Test
+    q: 2
+    i: "?"
 ---
 
 # Shared story reading was always implemented as one component of a multi-component intervention package, so component contributions are unknown
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In every reviewed study shared story reading was embedded in a package including task analysis, systematic prompting, and adapted literature, and it is not known how much any single component contributed to the practice's success. [→ Melissa E. Hudson and David W. Test 2011](#melissa-e-hudson-and-david-w-test-2011)

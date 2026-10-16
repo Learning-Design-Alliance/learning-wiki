@@ -13,9 +13,14 @@ sources:
     resource: "https://www.worldcat.org/issn/1436-4522"
     title: "Daniel Churchill. (2011). Conceptual Model Learning Objects and Design Recommendations for Small Screens. Educational Technology & Society, 14(1), 203-216. https://www.worldcat.org/issn/1436-4522"
     author: Daniel Churchill
+    q: 1
+    i: "?"
 ---
 
 # Reading text and presenting graphics on handheld screens are more difficult than on paper, and interactivity may be compromised
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The article reports, citing Albers and Kim (2001), three issues affecting user access to information via handheld devices: harder text reading than on paper, limited size and complexity of graphical presentation, and compromised interactivity due to lack of keyboard and mouse and limited display space. [→ Daniel Churchill 2011](#daniel-churchill-2011)

@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1080/02619761003631849"
     title: "Chang Zhu, Martin Valcke and Tammy Schellens. (2010). A cross-cultural study of teacher perspectives on teacher roles and adoption of online collaborative learning in higher education. European Journal of Teacher Education. https://doi.org/10.1080/02619761003631849"
     author: Chang Zhu, Martin Valcke and Tammy Schellens
+    q: 2
+    i: "?"
 ---
 
 # Chinese teachers emphasize competition among students more than Flemish teachers, while perceived power distance and collaboration are similar across the two groups
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Chinese teachers put more emphasis on competition among students than Flemish teachers (p < .001), but the two groups do not differ significantly on power distance teacher-student or student collaboration. [→ Chang Zhu 2010](#chang-zhu-2010)

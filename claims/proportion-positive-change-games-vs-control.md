@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1016/j.compedu.2017.05.016"
     title: "Matthew Barr. (2017). Video games can develop graduate skills in higher education students: A randomised trial. Computers & Education. https://doi.org/10.1016/j.compedu.2017.05.016"
     author: Matthew Barr
+    q: 3
+    i: "?"
 ---
 
 # A larger proportion of game-playing students showed positive score change than control students on adaptability and resourcefulness, but not significantly on communication
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Fisher's exact tests found significant group differences in the proportion improving on adaptability (p = 0.03) and resourcefulness (p = 0.014), but not communication (p = 0.24). [→ Matthew Barr 2017](#matthew-barr-2017)

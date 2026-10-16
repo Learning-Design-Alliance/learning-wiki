@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1155/2012/654791"
     title: "Melissa E. DeRosier, Ashley B. Craig, and Rebecca P. Sanchez. (2012). Zoo U: A Stealth Approach to Social Skills Assessment in Schools. Advances in Human-Computer Interaction. https://doi.org/10.1155/2012/654791"
     author: Melissa E. DeRosier, Ashley B. Craig, and Rebecca P. Sanchez
+    q: 3
+    i: "?"
   - id: melissa-e-derosier-2012-2
     resource: "https://doi.org/10.1155/2012/654791"
     title: "Melissa E. DeRosier, Ashley B. Craig, and Rebecca P. Sanchez. (2012). Zoo U: A Stealth Approach to Social Skills Assessment in Schools. Advances in Human-Computer Interaction. https://doi.org/10.1155/2012/654791"
     author: Melissa E. DeRosier, Ashley B. Craig, and Rebecca P. Sanchez
+    q: 3
+    i: "?"
 ---
 
 # Students rated Zoo U highly for engagement and likeability, with every usability area rated at least 3.8 on a four-point scale
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Students rated Zoo U very positively, with every area rated at least 3.8 on a four-point scale. [→ Melissa E. DeRosier 2012](#melissa-e-derosier-2012)

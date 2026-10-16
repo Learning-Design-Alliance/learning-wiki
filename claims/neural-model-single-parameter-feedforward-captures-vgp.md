@@ -12,10 +12,15 @@ sources:
   - id: green-2010
     resource: "https://doi.org/10.1016/j.cub.2010.07.040"
     title: "Green, C.S., Pouget, A., & Bavelier, D. (2010). Improved probabilistic inference as a general learning mechanism with action video games. Current Biology. https://doi.org/10.1016/j.cub.2010.07.040"
-    author: "Green, C.S., Pouget, A., & Bavelier, D"
+    author: "Green, C.S., Pouget, A., & Bavelier, D."
+    q: 2
+    i: "?"
 ---
 
 # A single-parameter change in feed-forward connection strength in a neural decision model captures VGP behavior, including faster RTs with stable accuracy
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Increasing feed-forward conductance between sensory and integration layers by 55% (motion) and 51% (auditory) captures VGP performance, raising RT speed while leaving accuracy nearly unchanged. [→ Green 2010](#green-2010)

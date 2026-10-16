@@ -16,6 +16,9 @@ sources:
 
 # Set up peer tutoring stations with audio prompting as a low-cost supplement to teacher-led instruction
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The authors recommend that "peer tutoring can supplement teacher-led instruction and provide students with repeated practice on new content" by setting up peer tutoring stations students work at while not in whole-class or small-group instruction. An audio prompting device lets "tutors to give immediate and accurate feedback to tutees even if the tutors are naïve to the material," while the tutor's presence ensures the tutee responds to each task rather than passively skipping through materials. The procedure worked within typical classroom constraints such as no additional personnel and minimal budget.
 

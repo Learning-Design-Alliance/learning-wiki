@@ -13,9 +13,14 @@ sources:
     resource: "https://etda.libraries.psu.edu"
     title: "Lee, Hyeon Woo. (2008). The effects of generative learning strategy prompts and metacognitive feedback on learners' self-regulation, generation process, and achievement. Dissertation in Instructional Systems, The Pennsylvania State University. https://etda.libraries.psu.edu"
     author: Lee, Hyeon Woo
+    q: 2
+    i: "?"
 ---
 
 # Low-prior-knowledge students struggle to deploy key self-regulatory processes during learning
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Some research indicates that low-prior domain knowledge students are unsuccessful in regulating learning via key self-regulatory processes such as planning, activating prior knowledge, monitoring understanding, and deploying effective strategies. [→ Lee 2008](#lee-2008)

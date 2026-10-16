@@ -12,10 +12,15 @@ sources:
   - id: green-2010
     resource: "https://doi.org/10.1016/j.cub.2010.07.040"
     title: "Green, C.S., Pouget, A., & Bavelier, D. (2010). Improved probabilistic inference as a general learning mechanism with action video games. Current Biology. https://doi.org/10.1016/j.cub.2010.07.040"
-    author: "Green, C.S., Pouget, A., & Bavelier, D"
+    author: "Green, C.S., Pouget, A., & Bavelier, D."
+    q: 3
+    i: "?"
 ---
 
 # In fixed-duration conditions, accuracy rises faster with presentation duration in VGPs, confirming greater sensory integration and ruling out non-decision-time accounts
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` The rate parameter β of accuracy growth was higher in VGPs for both visual motion (p-eta2 = .19) and auditory tone (p-eta2 = .18) tasks. [→ Green 2010](#green-2010)

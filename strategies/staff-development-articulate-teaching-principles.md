@@ -16,6 +16,9 @@ sources:
 
 # Staff development should make teaching principles explicit through articulation, reflection and evaluation, supported by institutional incentives and training
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends that university teachers articulate their theories and beliefs about teaching, since "making teaching principles explicit is a necessary step before they can be critically evaluated by the teachers". Staff development programmes incorporating "articulation, reflection, and evaluation activities" are said to have the potential to transform teachers' conceptions and practices. At the institutional level, the article stresses policy, technical readiness, infrastructure, and including innovation efforts in performance assessment.
 

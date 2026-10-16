@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1016/j.compedu.2017.05.016"
     title: "Matthew Barr. (2017). Video games can develop graduate skills in higher education students: A randomised trial. Computers & Education. https://doi.org/10.1016/j.compedu.2017.05.016"
     author: Matthew Barr
+    q: 3
+    i: "?"
 ---
 
 # An eight-week commercial video game intervention produced significant gains on all three measured graduate skills relative to control, totalling about 14 hours of play
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` All three self-report measures showed significant increases for the intervention group over control, with large effect sizes (Cohen's d between 0.9 and 1.15). [→ Matthew Barr 2017](#matthew-barr-2017)

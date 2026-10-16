@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1080/02602930903221485"
     title: "Clair Hughes and Simon Barrie. (2010). Influences on the assessment of graduate attributes in higher education. Assessment & Evaluation in Higher Education. https://doi.org/10.1080/02602930903221485"
     author: Clair Hughes and Simon Barrie
+    q: 2
+    i: "?"
 ---
 
 # Australian universities' quality assurance of graduate attributes relies on a narrow range of strategies, and assessment data remain largely underutilised
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` A narrow range of quality assurance strategies is used for graduate attributes in Australia; student survey data are infrequently used to inform assessment, and multiple complementary data forms remain largely underutilised. [→ Clair Hughes and Simon Barrie 2010](#clair-hughes-and-simon-barrie-2010)

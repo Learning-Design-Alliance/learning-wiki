@@ -12,10 +12,15 @@ sources:
   - id: mackiewicz-2011
     resource: "https://doi.org/10.1177/0741932510362507"
     title: "Mackiewicz, S. M., Wood, C. L., Cooke, N. L., & Mazzotti, V. L. (2011). Effects of Peer Tutoring With Audio Prompting on Vocabulary Acquisition for Struggling Readers. Remedial and Special Education, 32(4), 345–354. https://doi.org/10.1177/0741932510362507"
-    author: "Mackiewicz, S. M., Wood, C. L., Cooke, N. L., & Mazzotti, V. L"
+    author: "Mackiewicz, S. M., Wood, C. L., Cooke, N. L., & Mazzotti, V. L."
+    q: 2
+    i: "?"
 ---
 
 # Lesson-probe data paths showed clear separation favoring the peer tutoring condition for most probes across all eight participants
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` For four participants all data paths separated clearly; three others showed separation on nine of ten probes; one participant outperformed on incidental words for a single probe. [→ Mackiewicz 2011](#mackiewicz-2011)

@@ -13,9 +13,14 @@ sources:
     resource: "https://www.worldcat.org/issn/1436-4522"
     title: "Daniel Churchill. (2011). Conceptual Model Learning Objects and Design Recommendations for Small Screens. Educational Technology & Society, 14(1), 203-216. https://www.worldcat.org/issn/1436-4522"
     author: Daniel Churchill
+    q: 2
+    i: "?"
 ---
 
 # A river-study conceptual model on handhelds supported observation, analysis, experimentation, and report writing for 72 secondary students in fieldwork
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In a 2008 Northern Thailand geography field trip, 72 secondary school students used a handheld-delivered River conceptual model before, during, and after fieldwork as a presentation aid, fieldwork support, and reflection/report tool. [→ Daniel Churchill 2011](#daniel-churchill-2011)

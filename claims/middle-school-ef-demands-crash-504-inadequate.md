@@ -13,9 +13,14 @@ sources:
     resource: "https://www.guilford.com"
     title: "Meltzer, L. (Ed.). (2007). Executive Function in Education: From Theory to Practice. The Guilford Press. https://www.guilford.com"
     author: Meltzer, L. (Ed.)
+    q: 2
+    i: "?"
 ---
 
 # Middle school's escalated executive function demands cause a crash for students with ADHD/EDF, and 504 plans rarely meet EDF needs
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The shift to greater expectations of independence, planning, and organization in middle school causes a crash even for students with ADHD/EDF who succeeded in elementary school, and 504 plans rarely meet EDF needs. [→ Meltzer 2007](#meltzer-2007)

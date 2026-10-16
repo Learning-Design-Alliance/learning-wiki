@@ -12,10 +12,15 @@ sources:
   - id: roberts-2008
     resource: "https://doi.org/10.1111/j.1540-5826.2008.00264.x"
     title: "Roberts, G., Torgesen, J. K., Boardman, A., & Scammacca, N. (2008). Evidence-Based Strategies for Reading Instruction of Older Students with Learning Disabilities. Learning Disabilities Research & Practice, 23(2), 63–69. https://doi.org/10.1111/j.1540-5826.2008.00264.x"
-    author: "Roberts, G., Torgesen, J. K., Boardman, A., & Scammacca, N"
+    author: "Roberts, G., Torgesen, J. K., Boardman, A., & Scammacca, N."
+    q: 2
+    i: "?"
 ---
 
 # Vocabulary instruction effects on taught words do not generalize to untaught words; wide reading is the most reliable gateway
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Typical vocabulary studies show treated groups know taught words better but are no more likely than comparisons to know untaught words; the most reliable gateway to improved vocabulary is extensive reading. [→ Roberts 2008](#roberts-2008)

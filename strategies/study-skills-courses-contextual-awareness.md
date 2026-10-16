@@ -16,6 +16,9 @@ sources:
 
 # Study skills courses should build students' awareness of contextual demands such as grading practices
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The chapter recommends helping students monitor and adjust to classroom task requirements and grading practices, noting that college freshmen often struggle because they fail to adjust their perceptions of course requirements to faculty expectations. It states that "Many college learning strategy or study skills courses attempt to help students become aware of these differences and adjust their strategy use and behavior accordingly." This operationalizes the contextual monitoring cell of the SRL framework.
 

@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1080/03057267.2022.2057732"
     title: "Michaela Arztmann, Lisette Hornstra, Johan Jeuring & Liesbeth Kester (2023). Effects of games in STEM education: a meta-analysis on the moderating role of student background characteristics. Studies in Science Education, 59:1, 109-145. https://doi.org/10.1080/03057267.2022.2057732"
     author: "Michaela Arztmann, Lisette Hornstra, Johan Jeuring & Liesbeth Kester"
+    q: 3
+    i: 1
 ---
 
 # School level shows a marginal moderating effect on motivational outcomes, with secondary students experiencing a lower motivating effect than primary students
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` Secondary school students experience a lower motivating effect of games than primary school students (g = −.37, p = .063), a marginal omnibus result accounting for 22% of heterogeneity. [→ Michaela Arztmann 2023](#michaela-arztmann-2023)

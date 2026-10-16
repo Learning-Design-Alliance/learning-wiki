@@ -12,10 +12,15 @@ sources:
   - id: kienitz-2023
     resource: "https://doi.org/10.1007/s11251-023-09632-w"
     title: "Kienitz, A., Krebs, M.-C., & Eitel, A. (2023). Seductive details hamper learning even when they do not disrupt. Instructional Science. https://doi.org/10.1007/s11251-023-09632-w"
-    author: "Kienitz, A., Krebs, M.-C., & Eitel, A"
+    author: "Kienitz, A., Krebs, M.-C., & Eitel, A."
+    q: 3
+    i: 2
 ---
 
 # Adding seductive details to multimedia instruction significantly worsens recall of pertinent content compared with instruction without seductive details
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Participants learning without seductive details recalled more pertinent content than participants learning with unprompted seductive details. [→ Kienitz 2023](#kienitz-2023)

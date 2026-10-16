@@ -12,10 +12,15 @@ sources:
   - id: bell-2008
     resource: "http://digitalcommons.ilr.cornell.edu/articles/410/"
     title: "Bell, B. S., & Kozlowski, S. W. J. (2008). Active learning: Effects of core training design elements on self-regulatory processes, learning, and adaptability. Journal of Applied Psychology, 93(2), 296-316. http://digitalcommons.ilr.cornell.edu/articles/410/"
-    author: "Bell, B. S., & Kozlowski, S. W. J"
+    author: "Bell, B. S., & Kozlowski, S. W. J."
+    q: 2
+    i: "?"
 ---
 
 # Manipulation check: instructional condition significantly affected errors made during training, with exploratory learning producing more errors
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The nature of instruction had a significant effect on the number of errors trainees made during training, F(1, 345) = 101.51, p < .01, with exploratory learning leading to more errors. [→ Bell 2008](#bell-2008)

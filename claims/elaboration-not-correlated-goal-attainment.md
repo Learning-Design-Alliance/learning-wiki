@@ -12,10 +12,15 @@ sources:
   - id: kizilcec-2017
     resource: "https://doi.org/10.1016/j.compedu.2016.10.001"
     title: "Kizilcec, R. F., Pérez-Sanagustín, M., & Maldonado, J. J. (2017). Self-regulated learning strategies predict learner behavior and goal attainment in Massive Open Online Courses. Computers & Education, 104, 18–33. https://doi.org/10.1016/j.compedu.2016.10.001"
-    author: "Kizilcec, R. F., Pérez-Sanagustín, M., & Maldonado, J. J"
+    author: "Kizilcec, R. F., Pérez-Sanagustín, M., & Maldonado, J. J."
+    q: 3
+    i: "?"
 ---
 
 # Elaboration was not correlated with goal attainment in MOOCs
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Elaboration showed no correlation with any of the three personal course goals (certification, completing assessments, completing lectures). [→ Kizilcec 2017](#kizilcec-2017)

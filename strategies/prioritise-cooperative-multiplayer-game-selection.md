@@ -16,6 +16,9 @@ sources:
 
 # Select games for skills interventions by prioritising co-operative multiplayer modes
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The author recommends that future work and implementations attend to game features, arguing that "a game features a co-operative multiplayer mode is probably a more important consideration than the nature of the game play involved", particularly where communication is involved. The study's own titles were carefully selected to ensure a focus on multiplayer co-operation, and future work should identify which specific game types or features are most effective.
 

@@ -13,13 +13,20 @@ sources:
     resource: "https://arxiv.org/abs/1307.2579"
     title: "Chris Piech, Jonathan Huang, Zhenghao Chen, Chuong Do, Andrew Ng, Daphne Koller. (2013). Tuned Models of Peer Assessment in MOOCs. arXiv. https://arxiv.org/abs/1307.2579"
     author: Chris Piech, Jonathan Huang, Zhenghao Chen, Chuong Do, Andrew Ng, Daphne Koller
+    q: 2
+    i: "?"
   - id: chris-piech-2013-2
     resource: "https://arxiv.org/abs/1307.2579"
     title: "Chris Piech, Jonathan Huang, Zhenghao Chen, Chuong Do, Andrew Ng, Daphne Koller. (2013). Tuned Models of Peer Assessment in MOOCs. arXiv. https://arxiv.org/abs/1307.2579"
     author: Chris Piech, Jonathan Huang, Zhenghao Chen, Chuong Do, Andrew Ng, Daphne Koller
+    q: 2
+    i: "?"
 ---
 
 # Higher-scoring students tend to be more reliable graders (except the very best), and students are least biased when grading peers with similar scores
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Graders that score higher on assignments have close to monotonically decreasing biases, but students with the best grades (+1.75 z-score) are not as accurate as students who do very well (+0.75 z-score, p = 0.04). [→ Chris Piech 2013](#chris-piech-2013)

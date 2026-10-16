@@ -12,10 +12,15 @@ sources:
   - id: green-2010
     resource: "https://doi.org/10.1016/j.cub.2010.07.040"
     title: "Green, C.S., Pouget, A., & Bavelier, D. (2010). Improved probabilistic inference as a general learning mechanism with action video games. Current Biology. https://doi.org/10.1016/j.cub.2010.07.040"
-    author: "Green, C.S., Pouget, A., & Bavelier, D"
+    author: "Green, C.S., Pouget, A., & Bavelier, D."
+    q: 2
+    i: "?"
 ---
 
 # According to a probabilistic population neural model, VGPs make better use of the evidence, with log odds 19% higher than NVGPs in the motion task
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Model-based analysis showed the log odds were 19% higher on average across all coherences in VGPs, indicating better posterior distributions over choices. [→ Green 2010](#green-2010)

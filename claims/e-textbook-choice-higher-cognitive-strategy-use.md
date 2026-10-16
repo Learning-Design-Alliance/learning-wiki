@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1080/08923647.2013.796230"
     title: "Amanda J. Rockinson-Szapkiw, Jillian Wendt, and Rebecca Lunde. (2013). Electronic Versus Print Textbooks: The Influence of Textbook Format on University Students' Self-Regulated Learning Strategies, Motivation, and Text Anxiety. American Journal of Distance Education, 27(3), 179-188. https://doi.org/10.1080/08923647.2013.796230"
     author: Amanda J. Rockinson-Szapkiw, Jillian Wendt, and Rebecca Lunde
+    q: 2
+    i: 2
 ---
 
 # University students who choose e-textbooks report greater use of cognitive strategies than students who choose print textbooks
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
 
 ## Subclaims
 `q2 i2` Students who chose and used e-textbooks scored higher on the MSLQ cognitive strategy use subscale than students who chose and used traditional print textbooks, with eta squared = .07. [→ Amanda J. Rockinson-Szapkiw 2013](#amanda-j-rockinson-szapkiw-2013)

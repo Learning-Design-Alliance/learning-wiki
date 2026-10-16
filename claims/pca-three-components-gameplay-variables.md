@@ -12,10 +12,15 @@ sources:
   - id: martinez-garza-2017
     resource: "https://doi.org/10.4018/IJGCMS.2017070101"
     title: "Martinez-Garza, M. M., & Clark, D. B. (2017). Investigating Epistemic Stances in Game Play with Data Mining. International Journal of Gaming and Computer-Mediated Simulations, 9(3). https://doi.org/10.4018/IJGCMS.2017070101"
-    author: "Martinez-Garza, M. M., & Clark, D. B"
+    author: "Martinez-Garza, M. M., & Clark, D. B."
+    q: 2
+    i: "?"
 ---
 
 # Principal components analysis of 16,239 gameplay attempts reduced 23 variables to three components explaining 72.1% of variance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` PCA on the attempt-level dataset returned three components with eigenvalues greater than 1 accounting for 72.1% of variance, spanning planning activity, par-metric change, and abort/consecutive-failure behavior. [→ Martinez-Garza 2017](#martinez-garza-2017)

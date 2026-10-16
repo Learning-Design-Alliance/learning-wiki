@@ -13,13 +13,20 @@ sources:
     resource: "http://learnlab.org/datashop"
     title: "Kenneth R. Koedinger, Emma Brunskill, Ryan S.J.d. Baker, Elizabeth A. McLaughlin, and John Stamper. (2012). New Potentials for Data-Driven Intelligent Tutoring System Development and Optimization. http://learnlab.org/datashop"
     author: Kenneth R. Koedinger, Emma Brunskill, Ryan S.J.d. Baker, Elizabeth A. McLaughlin, and John Stamper
+    q: 2
+    i: "?"
   - id: kenneth-r-koedinger-2012-2
     resource: "http://learnlab.org/datashop"
     title: "Kenneth R. Koedinger, Emma Brunskill, Ryan S.J.d. Baker, Elizabeth A. McLaughlin, and John Stamper. (2012). New Potentials for Data-Driven Intelligent Tutoring System Development and Optimization. http://learnlab.org/datashop"
     author: Kenneth R. Koedinger, Emma Brunskill, Ryan S.J.d. Baker, Elizabeth A. McLaughlin, and John Stamper
+    q: 2
+    i: 3
 ---
 
 # Automated detectors of disengaged behaviors inferred from interaction-log data alone reached AUC over 0.8 for gaming and correlated 0.55 with observed off-task behavior
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
 
 ## Subclaims
 `q2 i?` Gaming-the-system detectors validated on new students and lessons achieved A' / AUC over 0.8 using interaction features such as repeated fast errors on poorly known skills. [→ Kenneth R. Koedinger 2012](#kenneth-r-koedinger-2012)

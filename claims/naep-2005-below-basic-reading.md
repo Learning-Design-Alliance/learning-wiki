@@ -12,10 +12,15 @@ sources:
   - id: roberts-2008
     resource: "https://doi.org/10.1111/j.1540-5826.2008.00264.x"
     title: "Roberts, G., Torgesen, J. K., Boardman, A., & Scammacca, N. (2008). Evidence-Based Strategies for Reading Instruction of Older Students with Learning Disabilities. Learning Disabilities Research & Practice, 23(2), 63–69. https://doi.org/10.1111/j.1540-5826.2008.00264.x"
-    author: "Roberts, G., Torgesen, J. K., Boardman, A., & Scammacca, N"
+    author: "Roberts, G., Torgesen, J. K., Boardman, A., & Scammacca, N."
+    q: 3
+    i: "?"
 ---
 
 # Large shares of U.S. 4th and 8th graders read below the NAEP Basic level in reading comprehension
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` The 2005 NAEP indicated 36 percent of fourth graders and 27 percent of eighth graders performed below the Basic level in reading comprehension. [→ Roberts 2008](#roberts-2008)

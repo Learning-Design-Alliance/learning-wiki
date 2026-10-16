@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1080/03057267.2022.2057732"
     title: "Michaela Arztmann, Lisette Hornstra, Johan Jeuring & Liesbeth Kester (2023). Effects of games in STEM education: a meta-analysis on the moderating role of student background characteristics. Studies in Science Education, 59:1, 109-145. https://doi.org/10.1080/03057267.2022.2057732"
     author: "Michaela Arztmann, Lisette Hornstra, Johan Jeuring & Liesbeth Kester"
+    q: 3
+    i: 2
 ---
 
 # School level moderates cognitive effects of game-based learning in STEM: games are less effective for secondary than primary school students
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Secondary school students gain less cognitively from game-based learning than primary school students (g = −0.67, p < .001), with school level accounting for 34% of heterogeneity. [→ Michaela Arztmann 2023](#michaela-arztmann-2023)

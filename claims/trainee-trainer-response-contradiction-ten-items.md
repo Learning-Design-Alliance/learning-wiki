@@ -13,13 +13,20 @@ sources:
     resource: "https://ro.ecu.edu.au/ajtec/vol35/iss4/4/"
     title: "Ali Al-Issa & Ali Al-Bulushi. (2010). Training English Language Student Teachers to Become Reflective Teachers. Australian Journal of Teacher Education, Vol 35, 4. https://ro.ecu.edu.au/ajtec/vol35/iss4/4/"
     author: "Ali Al-Issa & Ali Al-Bulushi"
+    q: 2
+    i: "?"
   - id: ali-al-issa-ali-al-bulushi-2010-2
     resource: "https://ro.ecu.edu.au/ajtec/vol35/iss4/4/"
     title: "Ali Al-Issa & Ali Al-Bulushi. (2010). Training English Language Student Teachers to Become Reflective Teachers. Australian Journal of Teacher Education, Vol 35, 4. https://ro.ecu.edu.au/ajtec/vol35/iss4/4/"
     author: "Ali Al-Issa & Ali Al-Bulushi"
+    q: 2
+    i: "?"
 ---
 
 # Trainee and trainer responses contradicted each other on ten questionnaire items (4, 10, 11, 14, 17, 18, 19, 21, 23, 25), suggesting a lack of coordination among trainers
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The analysis revealed a contradiction between trainees' and trainers' responses on Items 4, 10, 11, 14, 17, 18, 19, 21, 23 and 25. [→ Ali Al-Issa & Ali Al-Bulushi 2010](#ali-al-issa-ali-al-bulushi-2010)

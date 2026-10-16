@@ -10,12 +10,15 @@ generated:
 evidence_strength: weak
 sources:
   - id: bol-l-and-hacker-dj-2012
-    resource: "https://doi.org/10.3389/fpsyg.2012.00229"
-    title: "Bol L and Hacker DJ (2012) Calibration research: where do we go from here? Front. Psychology 3:229. https://doi.org/10.3389/fpsyg.2012.00229"
-    author: Bol L and Hacker DJ
+    title: Bol L and Hacker DJ 2012
+    q: 2
+    i: "?"
 ---
 
 # Little or no relation between absolute and relative accuracy in metacomprehension research
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Current metacomprehension research shows little or no relation between absolute accuracy (calibration) and relative accuracy (discrimination). [→ Bol L and Hacker DJ 2012](#bol-l-and-hacker-dj-2012)

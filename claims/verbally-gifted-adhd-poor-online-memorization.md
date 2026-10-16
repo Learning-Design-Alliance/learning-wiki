@@ -13,9 +13,14 @@ sources:
     resource: "https://www.guilford.com"
     title: "Meltzer, L. (Ed.). (2007). Executive Function in Education: From Theory to Practice. The Guilford Press. https://www.guilford.com"
     author: Meltzer, L. (Ed.)
+    q: 2
+    i: "?"
 ---
 
 # Verbally gifted adolescents with ADHD show poor recall and recognition on online memorization despite strong verbal fluency
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Research groups have found that very amply verbal youngsters with ADHD show poor semantic clustering, error excesses, and poor levels of recall and recognition on here-and-now memorization tasks. [→ Meltzer 2007](#meltzer-2007)

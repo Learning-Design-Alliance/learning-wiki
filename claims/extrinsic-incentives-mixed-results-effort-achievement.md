@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1016/j.jebo.2014.09.005"
     title: "Alexander Koch, Julia Nafziger, Helena Skyt Nielsen. (2015). Behavioral economics of education. Journal of Economic Behavior & Organization 115 (2015) 3–17. https://doi.org/10.1016/j.jebo.2014.09.005"
     author: Alexander Koch, Julia Nafziger, Helena Skyt Nielsen
+    q: 2
+    i: "?"
   - id: alexander-koch-2015-2
     resource: "https://doi.org/10.1016/j.jebo.2014.09.005"
     title: "Alexander Koch, Julia Nafziger, Helena Skyt Nielsen. (2015). Behavioral economics of education. Journal of Economic Behavior & Organization 115 (2015) 3–17. https://doi.org/10.1016/j.jebo.2014.09.005"
     author: Alexander Koch, Julia Nafziger, Helena Skyt Nielsen
+    q: 2
+    i: "?"
 ---
 
 # Extrinsic incentives have mixed results on effort and achievement, working better when immediate and larger
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Incentives reliably raise attendance and enrollment but show mixed results on effort and achievement. [→ Alexander Koch 2015](#alexander-koch-2015)

@@ -13,9 +13,14 @@ sources:
     resource: "https://etda.libraries.psu.edu"
     title: "Lee, Hyeon Woo. (2008). The effects of generative learning strategy prompts and metacognitive feedback on learners' self-regulation, generation process, and achievement. Dissertation in Instructional Systems, The Pennsylvania State University. https://etda.libraries.psu.edu"
     author: Lee, Hyeon Woo
+    q: 3
+    i: "?"
 ---
 
 # Generative learning strategy prompts with metacognitive feedback yield higher self-regulation, strategy-use quality, recall and comprehension than strategy tools alone, controlling for prior knowledge
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Participants given generative learning strategy prompts with metacognitive feedback scored significantly higher in self-regulation, quality of generative learning strategy use, and recall and comprehension than participants given only generative learning strategy tools, after controlling for prior domain knowledge. [→ Lee 2008](#lee-2008)

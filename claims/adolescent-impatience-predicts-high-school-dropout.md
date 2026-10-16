@@ -13,9 +13,14 @@ sources:
     resource: "http://www.nber.org/papers/w20609"
     title: "Adam M. Lavecchia, Heidi Liu, and Philip Oreopoulos. (2014). Behavioral Economics of Education: Progress and Possibilities. NBER Working Paper No. 20609. http://www.nber.org/papers/w20609"
     author: Adam M. Lavecchia, Heidi Liu, and Philip Oreopoulos
+    q: 2
+    i: "?"
 ---
 
 # Adolescents classified as impatient are more likely to drop out of high school even when they state an intention to finish
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Adolescents classified by a surveyor as impatient are more likely to drop out of high school even if they stated an intention to finish, behavior the review says is difficult to reconcile with the human capital investment framework. [→ Adam M. Lavecchia 2014](#adam-m-lavecchia-2014)

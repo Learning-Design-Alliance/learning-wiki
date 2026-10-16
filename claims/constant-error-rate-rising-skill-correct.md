@@ -12,14 +12,21 @@ sources:
   - id: ritter-2007
     resource: "https://doi.org/10.3758/bf03194060"
     title: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A. (2007). Cognitive Tutor: Applied research in mathematics education. Psychonomic Bulletin & Review, 2007, 14 (2), 249-255. https://doi.org/10.3758/bf03194060"
-    author: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A"
+    author: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A."
+    q: 2
+    i: "?"
   - id: ritter-2007-2
     resource: "https://doi.org/10.3758/bf03194060"
     title: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A. (2007). Cognitive Tutor: Applied research in mathematics education. Psychonomic Bulletin & Review, 2007, 14 (2), 249-255. https://doi.org/10.3758/bf03194060"
-    author: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A"
+    author: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A."
+    q: 2
+    i: "?"
 ---
 
 # Across a geometry curriculum, overall percent correct stays fairly constant over time while percent correct on actions involving a single skill increases, as ACT-R's knowledge-component claim predicts
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` For 88 geometry students, percent correct remained fairly constant over time because rising task difficulty canceled out learning. [→ Ritter 2007](#ritter-2007)

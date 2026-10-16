@@ -13,12 +13,17 @@ sources:
     resource: "https://doi.org/10.1177/1367877907083079"
     title: "Henrik Örnebring. (2007). Alternate reality gaming and convergence culture: The case of Alias. International Journal of Cultural Studies 10(4). https://doi.org/10.1177/1367877907083079"
     author: Henrik Örnebring
+    q: 2
+    i: "?"
 ---
 
 # Industry-produced Alias ARGs were redundant add-ons with one-way ties to the TV series, providing no new backstory
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
+
 ## Subclaims
-`q2 i?` The Season 1 and Season 2 Alias ARGs did not provide backstory insights beyond what watching the show offered, and gave participants little opportunity to interact with the full fictional universe. [→ Henrik Örnebring 2007](#henrik-örnebring-2007)
+`q2 i?` The Season 1 and Season 2 Alias ARGs did not provide backstory insights beyond what watching the show offered, and gave participants little opportunity to interact with the full fictional universe. [→ Henrik Örnebring 2007](#henrik-ornebring-2007)
 
 ## Evidence
 

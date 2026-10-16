@@ -12,10 +12,15 @@ sources:
   - id: denton-2008
     resource: "https://doi.org/10.1111/j.1540-5826.2008.00266.x"
     title: "Denton, C. A., Wexler, J., Vaughn, S., & Bryan, D. (2008). Intervention Provided to Linguistically Diverse Middle School Students with Severe Reading Difficulties. Learning Disabilities Research & Practice, 23(2), 79–89. https://doi.org/10.1111/j.1540-5826.2008.00266.x"
-    author: "Denton, C. A., Wexler, J., Vaughn, S., & Bryan, D"
+    author: "Denton, C. A., Wexler, J., Vaughn, S., & Bryan, D."
+    q: 3
+    i: "?"
 ---
 
 # Neither treatment nor typical-practice students with severe reading difficulties demonstrated significant standard-score growth over the 13-week study
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Neither group demonstrated significant standard score growth over the course of the study, so neither approach accelerated progress toward closing the gap with peers. [→ Denton 2008](#denton-2008)

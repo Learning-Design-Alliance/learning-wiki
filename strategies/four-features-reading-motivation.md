@@ -16,6 +16,9 @@ sources:
 
 # Support reading motivation through interesting goals, autonomy, interesting texts, and social interaction
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article identifies four features critical to increasing and maintaining students' motivation to read, citing Guthrie and Humenick (2004): "(1) providing interesting content goals for reading, (2) supporting student autonomy, (3) providing interesting texts, and (4) increasing social interactions among students related to reading." Motivation support should occur within a comprehensive reading program built around effective skills and strategy instruction.
 

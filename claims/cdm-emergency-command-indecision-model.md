@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1177/10944281241271216"
     title: "Olivia Brown, Nicola Power, and Julie Gore. (2024). Cognitive Task Analysis: Eliciting Expert Cognition in Context. Organizational Research Methods. https://doi.org/10.1177/10944281241271216"
     author: Olivia Brown, Nicola Power, and Julie Gore
+    q: 2
+    i: "?"
 ---
 
 # CDM study of emergency responders (31 participants, over 51 hours of interviews) generated a theoretical model of command-level indecision
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Using CDM interviews with 31 emergency response participants yielding over 51 hours of data, pluralistic analysis (reflexive thematic analysis followed by grounded theory) generated a theoretical model of command-level indecision during emergencies. [→ Olivia Brown 2024](#olivia-brown-2024)

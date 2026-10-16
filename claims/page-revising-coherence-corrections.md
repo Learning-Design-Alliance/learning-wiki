@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1006/ijhc.1997.0145"
     title: "Annie Piolat, Jean-Yves Roussey and Olivier Thunin. (1997). Effects of screen presentation on text reading and revising. International Journal of Human-Computer Studies. https://doi.org/10.1006/ijhc.1997.0145"
     author: Annie Piolat, Jean-Yves Roussey and Olivier Thunin
+    q: 3
+    i: "?"
   - id: annie-piolat-1997-2
     resource: "https://doi.org/10.1006/ijhc.1997.0145"
     title: "Annie Piolat, Jean-Yves Roussey and Olivier Thunin. (1997). Effects of screen presentation on text reading and revising. International Journal of Human-Computer Studies. https://doi.org/10.1006/ijhc.1997.0145"
     author: Annie Piolat, Jean-Yves Roussey and Olivier Thunin
+    q: 3
+    i: "?"
 ---
 
 # Page writers corrected significantly more coherence errors than Scroll writers, while surface and cohesion corrections did not differ
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Coherence revisions were significantly more frequent for Page writers (50%) than Scroll writers (31%). [→ Annie Piolat 1997](#annie-piolat-1997)

@@ -12,10 +12,15 @@ sources:
   - id: dede-2009
     resource: "https://eric.ed.gov"
     title: "Dede, C. (2009). Comparing Frameworks for \"21st Century Skills\". Harvard Graduate School of Education. https://eric.ed.gov"
-    author: Dede, C
+    author: Dede, C.
+    q: 2
+    i: "?"
 ---
 
 # Major 21st century skills frameworks are largely consistent, adding to P21 either highlighted subskills or areas underemphasized in its categories
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Alternative frameworks add to P21 in two ways: identifying particularly important subskills within P21 categories, and stressing areas underemphasized in P21's categories. [→ Dede 2009](#dede-2009)

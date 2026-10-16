@@ -12,10 +12,15 @@ sources:
   - id: dede-2009
     resource: "https://eric.ed.gov"
     title: "Dede, C. (2009). Comparing Frameworks for \"21st Century Skills\". Harvard Graduate School of Education. https://eric.ed.gov"
-    author: Dede, C
+    author: Dede, C.
+    q: 1
+    i: "?"
 ---
 
 # Primary barriers to infusing 21st century skills are psychological, political, and cultural rather than conceptual, technical, or economic
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` At this point in history, the primary barriers to altering curricular, pedagogical, and assessment practices for 21st century skills are psychological, political, and cultural. [→ Dede 2009](#dede-2009)

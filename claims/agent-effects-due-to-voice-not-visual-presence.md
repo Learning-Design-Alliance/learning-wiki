@@ -13,16 +13,23 @@ sources:
     resource: "https://doi.org/10.1007/s10648-010-9123-x"
     title: "Nicole C. Krämer & Gary Bente. (2010). Personalizing e-Learning. The Social Effects of Pedagogical Agents. Educ Psychol Rev. https://doi.org/10.1007/s10648-010-9123-x"
     author: "Nicole C. Krämer & Gary Bente"
+    q: 2
+    i: "?"
   - id: nicole-c-krämer-gary-bente-2010-2
     resource: "https://doi.org/10.1007/s10648-010-9123-x"
     title: "Nicole C. Krämer & Gary Bente. (2010). Personalizing e-Learning. The Social Effects of Pedagogical Agents. Educ Psychol Rev. https://doi.org/10.1007/s10648-010-9123-x"
     author: "Nicole C. Krämer & Gary Bente"
+    q: 2
+    i: "?"
 ---
 
 # Beneficial effects of pedagogical agents are attributed primarily to the agent's voice rather than its visual presence
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+
 ## Subclaims
-`q2 i?` Studies reviewed attribute agent effects to vocalizations: Rajan et al. showed voice was responsible for AutoTutor's effects, and Moreno's studies found voice responsible for transfer gains. [→ Nicole C. Krämer & Gary Bente 2010](#nicole-c-krämer-gary-bente-2010)
+`q2 i?` Studies reviewed attribute agent effects to vocalizations: Rajan et al. showed voice was responsible for AutoTutor's effects, and Moreno's studies found voice responsible for transfer gains. [→ Nicole C. Krämer & Gary Bente 2010](#nicole-c-kramer-gary-bente-2010)
 
 ## Evidence
 

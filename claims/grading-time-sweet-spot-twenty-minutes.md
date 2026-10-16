@@ -13,9 +13,14 @@ sources:
     resource: "https://arxiv.org/abs/1307.2579"
     title: "Chris Piech, Jonathan Huang, Zhenghao Chen, Chuong Do, Andrew Ng, Daphne Koller. (2013). Tuned Models of Peer Assessment in MOOCs. arXiv. https://arxiv.org/abs/1307.2579"
     author: Chris Piech, Jonathan Huang, Zhenghao Chen, Chuong Do, Andrew Ng, Daphne Koller
+    q: 2
+    i: "?"
 ---
 
 # Grading time shows a sweet spot: students grading around 20 minutes (time z-score near -0.25) have significantly lower residual standard deviations than slow graders, while snap graders are unreliable and inflate grades
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Students grading with time z-score around -0.25 have significantly lower residual standard deviations (p-value < 0.001, diff = 0.3 standard deviations) than students with time z-score > -0.20; snap graders (z-score < -0.30) are unreliable and tend to slightly inflate grades. [→ Chris Piech 2013](#chris-piech-2013)

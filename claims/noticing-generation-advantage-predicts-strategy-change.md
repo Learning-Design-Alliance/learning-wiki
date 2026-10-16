@@ -12,10 +12,15 @@ sources:
   - id: dewinstanley-2004
     resource: "https://doi.org/10.3758/bf03196872"
     title: "deWinstanley, P. A., & Bjork, E. L. (2004). Processing strategies and the generation effect: Implications for making a better reader. Memory & Cognition, 32(6), 945-955. https://doi.org/10.3758/bf03196872"
-    author: "deWinstanley, P. A., & Bjork, E. L"
+    author: "deWinstanley, P. A., & Bjork, E. L."
+    q: 3
+    i: "?"
 ---
 
 # Participants who consciously notice a generation advantage after a first test tend to eliminate it on a second test
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In Experiment 1B, 17 of 31 participants reported noticing a generation advantage after the first test, and most of these tied or showed a read advantage on the second test, more than expected by chance. [→ deWinstanley 2004](#dewinstanley-2004)

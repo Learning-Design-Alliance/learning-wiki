@@ -12,10 +12,15 @@ sources:
   - id: henderson-2020
     resource: "https://educationaldatamining.org/EDM2020/proceedings/"
     title: "Henderson, N., Kumaran, V., Min, W., Mott, B., Wu, Z., Boulden, D., Lord, T., Reichsman, F., Dorsey, C., Wiebe, E., & Lester, J. (2020). Enhancing Student Competency Models for Game-Based Learning with a Hybrid Stealth Assessment Framework. Proceedings of The 13th International Conference on Educational Data Mining (EDM 2020), 92-103. https://educationaldatamining.org/EDM2020/proceedings/"
-    author: "Henderson, N., Kumaran, V., Min, W., Mott, B., Wu, Z., Boulden, D., Lord, T., Reichsman, F., Dorsey, C., Wiebe, E., & Lester, J"
+    author: "Henderson, N., Kumaran, V., Min, W., Mott, B., Wu, Z., Boulden, D., Lord, T., Reichsman, F., Dorsey, C., Wiebe, E., & Lester, J."
+    q: 2
+    i: 3
 ---
 
 # Students demonstrated significant improvement in genetics knowledge from pre-test to post-test after playing Geniventure
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
 
 ## Subclaims
 `q2 i3` A paired t-test revealed significant improvement from pre-test (M = 14.41, SD = 5.826) to post-test (M = 19.33, SD = 6.131) with a large effect size (Cohen's d = 0.823). [→ Henderson 2020](#henderson-2020)

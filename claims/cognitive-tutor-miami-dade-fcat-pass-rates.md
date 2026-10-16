@@ -12,14 +12,21 @@ sources:
   - id: ritter-2007
     resource: "https://doi.org/10.3758/bf03194060"
     title: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A. (2007). Cognitive Tutor: Applied research in mathematics education. Psychonomic Bulletin & Review, 2007, 14 (2), 249-255. https://doi.org/10.3758/bf03194060"
-    author: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A"
+    author: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A."
+    q: 2
+    i: "?"
   - id: ritter-2007-2
     resource: "https://doi.org/10.3758/bf03194060"
     title: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A. (2007). Cognitive Tutor: Applied research in mathematics education. Psychonomic Bulletin & Review, 2007, 14 (2), 249-255. https://doi.org/10.3758/bf03194060"
-    author: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A"
+    author: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A."
+    q: 2
+    i: "?"
 ---
 
 # In Miami-Dade County, Cognitive Tutor Algebra I students significantly outscored peers on the 2003 FCAT, with especially large pass-rate differences for Exceptional Student Education and limited-English-proficiency students
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` 35.7% of Exceptional Student Education students using Cognitive Tutor passed the FCAT versus 10.9% with a different curriculum; 27% versus 18.9% for limited English proficiency students. [→ Ritter 2007](#ritter-2007)

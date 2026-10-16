@@ -12,10 +12,15 @@ sources:
   - id: gielen-2011
     resource: "https://doi.org/10.1080/02602930903221444"
     title: "Gielen, S., Dochy, F., & Onghena, P. (2011). An inventory of peer assessment diversity. Assessment & Evaluation in Higher Education, 36(2), 137–155. https://doi.org/10.1080/02602930903221444"
-    author: "Gielen, S., Dochy, F., & Onghena, P"
+    author: "Gielen, S., Dochy, F., & Onghena, P."
+    q: 2
+    i: "?"
 ---
 
 # Most peer assessment studies still do not fully describe their designs, so the anticipated meta-analysis remains infeasible
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Despite the growth in studies, most reports do not address all typology parameters and implementation factors, preventing the critical review, best-evidence synthesis or meta-analysis Topping anticipated. [→ Gielen 2011](#gielen-2011)

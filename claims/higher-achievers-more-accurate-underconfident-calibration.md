@@ -10,12 +10,15 @@ generated:
 evidence_strength: weak
 sources:
   - id: bol-l-and-hacker-dj-2012
-    resource: "https://doi.org/10.3389/fpsyg.2012.00229"
-    title: "Bol L and Hacker DJ (2012) Calibration research: where do we go from here? Front. Psychology 3:229. https://doi.org/10.3389/fpsyg.2012.00229"
-    author: Bol L and Hacker DJ
+    title: Bol L and Hacker DJ 2012
+    q: 2
+    i: "?"
 ---
 
 # Higher-achieving students tend to be more accurate but more underconfident in calibration than lower-achieving students
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Across many studies, higher-achieving students tend to be more accurate but more underconfident when compared to their lower-achieving counterparts. [→ Bol L and Hacker DJ 2012](#bol-l-and-hacker-dj-2012)

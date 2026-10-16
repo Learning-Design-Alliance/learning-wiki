@@ -13,9 +13,14 @@ sources:
     resource: "http://www.jstor.org/stable/30218388"
     title: "Innwoo Park and Michael J. Hannafin. (1993). Empirically-Based Guidelines for the Design of Interactive Multimedia. Educational Technology Research and Development, Vol. 41, No. 3, pp. 63-85. http://www.jstor.org/stable/30218388"
     author: Innwoo Park and Michael J. Hannafin
+    q: 2
+    i: "?"
 ---
 
 # Related prior knowledge is the single most powerful influence mediating subsequent learning, so multimedia should layer information by complexity
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Related prior knowledge is the single most powerful influence in mediating subsequent learning, implying that interactive multimedia should layer information to accommodate multiple levels of complexity and differences in prior knowledge. [→ Innwoo Park and Michael J. Hannafin 1993](#innwoo-park-and-michael-j-hannafin-1993)

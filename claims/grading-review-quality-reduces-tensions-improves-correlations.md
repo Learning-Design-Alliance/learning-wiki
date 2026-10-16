@@ -12,10 +12,15 @@ sources:
   - id: luxton-reilly-2009
     resource: "https://doi.org/10.1080/08993400903384844"
     title: "Luxton-Reilly, A. (2009). A systematic review of tools that support peer assessment. Computer Science Education, 19(4), 209-232. https://doi.org/10.1080/08993400903384844"
-    author: Luxton-Reilly, A
+    author: Luxton-Reilly, A.
+    q: 2
+    i: "?"
 ---
 
 # Grading students on the quality of their reviews rather than on peer-assessed marks reduced tensions and improved student-instructor mark correlations
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Kali and Ronen report that grading students on the quality of reviews rather than peer-assessed marks for assignments reduced tensions and produced higher correlations between student and instructor marks. [→ Luxton-Reilly 2009](#luxton-reilly-2009)

@@ -13,9 +13,14 @@ sources:
     resource: "https://www.jstor.org/stable/jj.31913371.9"
     title: "Kirk M. Lundblade. (2025). What Video Games Have Taught Us: Two Decades of Gaming and Learning. In Historiographies of Game Studies (Punctum Books). https://www.jstor.org/stable/jj.31913371.9"
     author: Kirk M. Lundblade
+    q: 1
+    i: "?"
 ---
 
 # Gee justified games' pedagogical improvement via a Darwinian market process linking learning principles to sales
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Gee argued that games with poor learning principles would not sell, so market forces produce successively better game pedagogies. [→ Kirk M. Lundblade 2025](#kirk-m-lundblade-2025)

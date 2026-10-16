@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1016/j.jebo.2014.09.005"
     title: "Alexander Koch, Julia Nafziger, Helena Skyt Nielsen. (2015). Behavioral economics of education. Journal of Economic Behavior & Organization 115 (2015) 3–17. https://doi.org/10.1016/j.jebo.2014.09.005"
     author: Alexander Koch, Julia Nafziger, Helena Skyt Nielsen
+    q: 3
+    i: "?"
 ---
 
 # A high class rank at age 11 has a large robust effect on secondary school achievement at age 14
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Having a high rank in class at age 11 predicts secondary achievement at age 14, controlling for prior test scores and school and pupil effects. [→ Alexander Koch 2015](#alexander-koch-2015)

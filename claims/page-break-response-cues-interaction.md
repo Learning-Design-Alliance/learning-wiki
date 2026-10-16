@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1006/ijhc.1997.0145"
     title: "Annie Piolat, Jean-Yves Roussey and Olivier Thunin. (1997). Effects of screen presentation on text reading and revising. International Journal of Human-Computer Studies. https://doi.org/10.1006/ijhc.1997.0145"
     author: Annie Piolat, Jean-Yves Roussey and Olivier Thunin
+    q: 3
+    i: "?"
   - id: annie-piolat-1997-2
     resource: "https://doi.org/10.1006/ijhc.1997.0145"
     title: "Annie Piolat, Jean-Yves Roussey and Olivier Thunin. (1997). Effects of screen presentation on text reading and revising. International Journal of Human-Computer Studies. https://doi.org/10.1006/ijhc.1997.0145"
     author: Annie Piolat, Jean-Yves Roussey and Olivier Thunin
+    q: 3
+    i: "?"
 ---
 
 # The effect of page-break response cues on locating accuracy depends on the presentation mode read: they help Page readers and hurt Scroll readers
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Text presentation by response system interaction was significant; page-break cues improved locating only for Page readers. [→ Annie Piolat 1997](#annie-piolat-1997)

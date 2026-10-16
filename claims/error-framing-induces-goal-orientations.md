@@ -12,10 +12,15 @@ sources:
   - id: bell-2008
     resource: "http://digitalcommons.ilr.cornell.edu/articles/410/"
     title: "Bell, B. S., & Kozlowski, S. W. J. (2008). Active learning: Effects of core training design elements on self-regulatory processes, learning, and adaptability. Journal of Applied Psychology, 93(2), 296-316. http://digitalcommons.ilr.cornell.edu/articles/410/"
-    author: "Bell, B. S., & Kozlowski, S. W. J"
+    author: "Bell, B. S., & Kozlowski, S. W. J."
+    q: 1
+    i: "?"
 ---
 
 # Error framing is expected to induce differential mastery and performance-avoid orientations, shaping self-efficacy and intrinsic motivation
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Framing errors as instructive induces a mastery orientation, while instructing trainees to avoid errors induces a performance-avoid orientation; neither framing is expected to affect performance-prove goals. [→ Bell 2008](#bell-2008)

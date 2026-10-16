@@ -12,10 +12,15 @@ sources:
   - id: koedinger-2008
     resource: "https://learnlab.org/"
     title: "Koedinger, K., Aleven, V., Roll, I., & Baker, R. (2008). In vivo experiments on whether supporting metacognition in intelligent tutoring systems yields robust learning. https://learnlab.org/"
-    author: "Koedinger, K., Aleven, V., Roll, I., & Baker, R"
+    author: "Koedinger, K., Aleven, V., Roll, I., & Baker, R."
+    q: 3
+    i: "?"
 ---
 
 # Scooter the Tutor was associated with a marginally significant reduction in observed gaming among middle-school math students
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` 33% of control students versus 18% of experimental students were observed gaming, a sizeable but only marginally significant reduction; gamers who remained did not game less. [→ Koedinger 2008](#koedinger-2008)

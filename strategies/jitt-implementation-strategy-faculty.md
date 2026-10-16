@@ -16,6 +16,9 @@ sources:
 
 # Implement JiTT incrementally using course management software and existing activity resources
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends that faculty start JiTT in small pieces, using course management systems (BlackBoard, WebCT, Angel) whose discussion forums serve as templates for Warm Up and Good For assignments and can auto-grade responses, or the free jittWeb.org site to generate Warm Up forms, grade responses online, and export to Excel. Cooperative learning activities can be drawn from lab manuals, study guides, or existing activity books. As the authors advise, "faculty can start slowly; by learning how to imple- ment JiTT into a classroom in small pieces."
 

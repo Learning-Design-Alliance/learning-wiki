@@ -16,6 +16,9 @@ sources:
 
 # Reallocate graders to gradees based on model confidence so low-confidence submissions receive more or better graders
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Because the probabilistic model produces a belief distribution over each submission's grade, it can quantify how confident it is in each prediction. The article proposes that midway through grading, submissions with low-confidence scores be given "to more and/or better graders", ensuring each student fair access to quality feedback. Its round-by-round simulation showed 54% of students remained below high confidence after all rounds, demonstrating the need for such reallocation.
 

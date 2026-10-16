@@ -13,13 +13,20 @@ sources:
     resource: "http://learnlab.org/research/wiki"
     title: "Kenneth R. Koedinger, Albert T. Corbett, Charles Perfetti. (2010). The Knowledge-Learning-Instruction (KLI) Framework: Toward Bridging the Science-Practice Chasm to Enhance Robust Student Learning. Carnegie Mellon University Technical Report. http://learnlab.org/research/wiki"
     author: Kenneth R. Koedinger, Albert T. Corbett, Charles Perfetti
+    q: 1
+    i: "?"
   - id: kenneth-r-koedinger-2010-2
     resource: "http://learnlab.org/research/wiki"
     title: "Kenneth R. Koedinger, Albert T. Corbett, Charles Perfetti. (2010). The Knowledge-Learning-Instruction (KLI) Framework: Toward Bridging the Science-Practice Chasm to Enhance Robust Student Learning. Carnegie Mellon University Technical Report. http://learnlab.org/research/wiki"
     author: Kenneth R. Koedinger, Albert T. Corbett, Charles Perfetti
+    q: 1
+    i: "?"
 ---
 
 # KLI complexity-matching hypothesis: instructional principles of a given complexity are effective for knowledge components of equal or greater complexity but not less complex ones
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The KLI framework hypothesizes that an instructional principle at a particular complexity level is effective for knowledge components of similar or greater complexity, but not for less complex ones. [→ Kenneth R. Koedinger 2010](#kenneth-r-koedinger-2010)

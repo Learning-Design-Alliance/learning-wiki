@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.21236/ada303654"
     title: "Ellen P. Hall, Sherrie P. Gott, Robert A. Pokorny. (1995). A Procedural Guide to Cognitive Task Analysis: The PARI Methodology. Armstrong Laboratory, Human Resources Directorate, Brooks AFB, Texas. AL/HR-TR-1995-0108. https://doi.org/10.21236/ada303654"
     author: Ellen P. Hall, Sherrie P. Gott, Robert A. Pokorny
+    q: 2
+    i: "?"
 ---
 
 # The report attributes to Clancey (1984) that GUIDON field-test students had difficulty understanding and remembering MYCIN's production rules because reasoning strategies and system knowledge were not represented
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Students in GUIDON field tests could not make sense of MYCIN's production rules or integrate them into usable knowledge because the underlying tutor did not represent human diagnostic reasoning strategies or knowledge of how the human body works. [→ Ellen P. Hall 1995](#ellen-p-hall-1995)

@@ -12,14 +12,21 @@ sources:
   - id: koriat-2006
     resource: "https://doi.org/10.3758/bf03193244"
     title: "Koriat, A., & Bjork, R. A. (2006). Illusions of competence during study can be remedied by manipulations that enhance learners' sensitivity to retrieval conditions at test. Memory & Cognition, 34(5), 959-972. https://doi.org/10.3758/bf03193244"
-    author: "Koriat, A., & Bjork, R. A"
+    author: "Koriat, A., & Bjork, R. A."
+    q: 3
+    i: "?"
   - id: koriat-2006-2
     resource: "https://doi.org/10.3758/bf03193244"
     title: "Koriat, A., & Bjork, R. A. (2006). Illusions of competence during study can be remedied by manipulations that enhance learners' sensitivity to retrieval conditions at test. Memory & Cognition, 34(5), 959-972. https://doi.org/10.3758/bf03193244"
-    author: "Koriat, A., & Bjork, R. A"
+    author: "Koriat, A., & Bjork, R. A."
+    q: 3
+    i: "?"
 ---
 
 # Backward-associated word pairs produce a foresight bias: judgments of learning are inflated relative to actual recall when the dominant association runs from target to cue
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` For backward pairs, predicted recall (74%) was markedly inflated relative to actual recall (58%) on the first study–test cycle, while forward-pair JOLs matched recall. [→ Koriat 2006](#koriat-2006)

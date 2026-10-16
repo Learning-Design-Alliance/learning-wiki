@@ -12,10 +12,15 @@ sources:
   - id: malkiewich-2016
     resource: "https://eric.ed.gov/?q=Tenacious+Assessments+Using+In-Game+Behaviors"
     title: "Malkiewich, L. J., Lee, A., Slater, S., & Chase, C. C. (2016). Tenacious Assessments: Using In-Game Behaviors to Measure Student Persistence and Challenge Navigation. https://eric.ed.gov/?q=Tenacious+Assessments+Using+In-Game+Behaviors"
-    author: "Malkiewich, L. J., Lee, A., Slater, S., & Chase, C. C"
+    author: "Malkiewich, L. J., Lee, A., Slater, S., & Chase, C. C."
+    q: 2
+    i: "?"
 ---
 
 # Traditional challenge-navigation measures (level choice, replays, careful retries, hint reading, coding time) did not relate to learning outcomes
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Only challenge-approach measures involving complex code correlated with posttest; measures such as Hards Replayed, Immediate Replays, Careful Hard Retries, Careful Hint Reads, and Coding Time Day 2 did not. [→ Malkiewich 2016](#malkiewich-2016)

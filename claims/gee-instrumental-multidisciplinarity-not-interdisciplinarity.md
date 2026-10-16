@@ -13,9 +13,14 @@ sources:
     resource: "https://www.jstor.org/stable/jj.31913371.9"
     title: "Kirk M. Lundblade. (2025). What Video Games Have Taught Us: Two Decades of Gaming and Learning. In Historiographies of Game Studies (Punctum Books). https://www.jstor.org/stable/jj.31913371.9"
     author: Kirk M. Lundblade
+    q: 1
+    i: "?"
 ---
 
 # Gee's engagement with game studies was instrumental multidisciplinarity, not substantive interdisciplinarity
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The 2007 revised edition added game studies sources without substantive chapter changes, serving the instrumental purpose of legitimizing games research. [→ Kirk M. Lundblade 2025](#kirk-m-lundblade-2025)

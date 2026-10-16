@@ -12,10 +12,15 @@ sources:
   - id: denton-2008
     resource: "https://doi.org/10.1111/j.1540-5826.2008.00266.x"
     title: "Denton, C. A., Wexler, J., Vaughn, S., & Bryan, D. (2008). Intervention Provided to Linguistically Diverse Middle School Students with Severe Reading Difficulties. Learning Disabilities Research & Practice, 23(2), 79–89. https://doi.org/10.1111/j.1540-5826.2008.00266.x"
-    author: "Denton, C. A., Wexler, J., Vaughn, S., & Bryan, D"
+    author: "Denton, C. A., Wexler, J., Vaughn, S., & Bryan, D."
+    q: 3
+    i: "?"
 ---
 
 # A 13-week multicomponent small-group reading intervention did not produce significantly better word reading, comprehension, or fluency outcomes than typical remedial instruction for middle school students with severe reading difficulties
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Treatment students did not demonstrate significantly higher outcomes in word recognition, comprehension, or fluency than students receiving the school's typical instruction, and no significant time-by-group interactions were found. [→ Denton 2008](#denton-2008)

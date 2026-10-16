@@ -13,9 +13,14 @@ sources:
     resource: "http://www.eriainteractive.com/index.php"
     title: "Richard Halverson, Elizabeth Owen, Nathan Wills, R. Benjamin Shapiro. (2012). Game-Based Assessment: An integrated model for capturing evidence of learning in play. ERIA Working Paper. http://www.eriainteractive.com/index.php"
     author: Richard Halverson, Elizabeth Owen, Nathan Wills, R. Benjamin Shapiro
+    q: 2
+    i: 2
 ---
 
 # Number of cell-cycle starts and cell-cycle destroys in Progenitor X were negatively correlated with pre-post learning gains, while total cycle starts across the game were not
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
 
 ## Subclaims
 `q2 i2` Cell-cycle starts (r = -.2965) and cell-cycle destroys (r = -.3390) correlated negatively with pre-post learning gains; total cycle starts of all types showed no significant correlation. [→ Richard Halverson 2012](#richard-halverson-2012)

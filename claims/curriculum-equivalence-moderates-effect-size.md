@@ -13,9 +13,14 @@ sources:
     resource: "https://www.ed.gov/about/offices/list/opepd/ppss/reports.html"
     title: "Means, Toyama, Murphy, Bakia, & Jones. (2009). Evaluation of Evidence-Based Practices in Online Learning: A Meta-Analysis and Review of Online Learning Studies. U.S. Department of Education. https://www.ed.gov/about/offices/list/opepd/ppss/reports.html"
     author: "Means, Toyama, Murphy, Bakia, & Jones"
+    q: 3
+    i: 1
 ---
 
 # Effect sizes were larger in studies where online and face-to-face conditions differed in curriculum materials and instructional approach (+0.42) than where curriculum and instruction were nearly identical (+0.20; Q = 5.40, p < .05).
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` Of six methodological variables tested as moderators, only equivalence of curriculum and instruction was significant (Q = 5.40, p < .05): studies with identical or almost identical curriculum and instruction across conditions had smaller effects (+0.20) than studies where conditions varied in multiple instructional aspects (+0.42). [→ Means 2009](#means-2009)

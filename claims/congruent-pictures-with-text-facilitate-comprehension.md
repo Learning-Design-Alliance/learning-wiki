@@ -13,9 +13,14 @@ sources:
     resource: "http://www.jstor.org/stable/30218388"
     title: "Innwoo Park and Michael J. Hannafin. (1993). Empirically-Based Guidelines for the Design of Interactive Multimedia. Educational Technology Research and Development, Vol. 41, No. 3, pp. 63-85. http://www.jstor.org/stable/30218388"
     author: Innwoo Park and Michael J. Hannafin
+    q: 2
+    i: "?"
 ---
 
 # Congruent pictures paired with text facilitate reading comprehension better than text alone or pictures alone
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Congruent pictures paired with text generally facilitate reading comprehension over either text alone or pictures alone, supporting the principle that learning improves as complementary stimuli increase. [→ Innwoo Park and Michael J. Hannafin 1993](#innwoo-park-and-michael-j-hannafin-1993)

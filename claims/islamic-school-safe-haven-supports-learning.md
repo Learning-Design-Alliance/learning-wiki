@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1177/1475240908091302"
     title: "Ian Robottom and Sharifah Norhaidah. (2008). Western science and Islamic learners: When disciplines and culture intersect. Journal of Research in International Education 7(2). https://doi.org/10.1177/1475240908091302"
     author: Ian Robottom and Sharifah Norhaidah
+    q: 2
+    i: "?"
 ---
 
 # Students at the Melbourne Islamic schools describe the school as a safe haven whose religious security supports their learning
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Students reported feeling insulated from societal pressures within the Islamic school, allowing them to be themselves and concentrate on learning. [→ Ian Robottom and Sharifah Norhaidah 2008](#ian-robottom-and-sharifah-norhaidah-2008)

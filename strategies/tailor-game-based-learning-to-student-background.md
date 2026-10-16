@@ -16,6 +16,9 @@ sources:
 
 # Use background-characteristic evidence to decide when and for whom to deploy game-based learning and whether to tailor instruction
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article positions its moderator findings as decision support for educators: knowing whether games work equally for all students should guide "when and for whom to use game-based learning and whether they need to tailor their instruction when using game-based learning in classrooms". Because effects differ by school level and possibly SES, blanket implementation risks "the perpetuation of pre-existing differences between groups". Educators should check which student groups a game intervention serves before adopting it.
 

@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1080/03075079.2012.754865"
     title: "Janneke M. Frambach, Erik W. Driessen, Philip Beh and Cees P.M. van der Vleuten. (2014). Quiet or questioning? Students' discussion behaviors in student-centered education across cultures. Studies in Higher Education. https://doi.org/10.1080/03075079.2012.754865"
     author: Janneke M. Frambach, Erik W. Driessen, Philip Beh and Cees P.M. van der Vleuten
+    q: 2
+    i: "?"
 ---
 
 # Tutor behavior had a major impact on students' discussion behaviors, with dominant or passive tutors both failing to stimulate lively discussion
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Large within-institution differences in tutor facilitation had a major impact on discussion behaviors; neither dominant tutors nor passive, unmotivated tutors stimulated lively discussion. [→ Janneke M. Frambach 2014](#janneke-m-frambach-2014)

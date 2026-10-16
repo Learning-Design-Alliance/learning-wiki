@@ -12,10 +12,15 @@ sources:
   - id: koedinger-2008
     resource: "https://learnlab.org/"
     title: "Koedinger, K., Aleven, V., Roll, I., & Baker, R. (2008). In vivo experiments on whether supporting metacognition in intelligent tutoring systems yields robust learning. https://learnlab.org/"
-    author: "Koedinger, K., Aleven, V., Roll, I., & Baker, R"
+    author: "Koedinger, K., Aleven, V., Roll, I., & Baker, R."
+    q: 2
+    i: 3
 ---
 
 # Students' help-seeking error frequencies correlate strongly across different Cognitive Tutor units and cohorts (r = 0.89)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
 
 ## Subclaims
 `q2 i3` The correlation between students' frequency of help-seeking errors in a geometry angles unit and a data-analysis scatterplot unit was 0.89. [→ Koedinger 2008](#koedinger-2008)

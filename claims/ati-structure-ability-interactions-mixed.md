@@ -12,10 +12,15 @@ sources:
   - id: pashler-2009
     resource: "https://journals.sagepub.com/"
     title: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2009). Learning Styles: Concepts and Evidence. Psychological Science in the Public Interest, Volume 9 Number 3. https://journals.sagepub.com/"
-    author: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R"
+    author: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R."
+    q: 2
+    i: "?"
 ---
 
 # Aptitude-by-treatment interactions for instructional structure show mixed support: crossovers in some studies, nulls in others
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Some studies found ability-by-structure crossovers (low-ability learners better with high structure, high-ability with low structure), while other studies in different domains found no interaction. [→ Pashler 2009](#pashler-2009)

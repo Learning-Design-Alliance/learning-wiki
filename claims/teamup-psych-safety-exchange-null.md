@@ -12,10 +12,15 @@ sources:
   - id: mayer-2018
     resource: "https://doi.org/10.1177/1046878118770831"
     title: "Mayer, I. (2018). Assessment of Teams in a Digital Game Environment. Simulation & Gaming, 49(6), 602-619. https://doi.org/10.1177/1046878118770831"
-    author: Mayer, I
+    author: Mayer, I.
+    q: 2
+    i: "?"
 ---
 
 # Team psychological safety and team member exchange are not significantly correlated with TEAMUP in-game performance indicators
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Team psychological safety and team member exchange, surveyed post-game, are not significantly correlated with the in-game performance indicators time, distance and error. [→ Mayer 2018](#mayer-2018)

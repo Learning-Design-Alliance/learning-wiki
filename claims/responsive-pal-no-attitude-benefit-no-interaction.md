@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1007/s11423-006-8805-z"
     title: "Kim, Y., Baylor, A. L., & PALS Group. (2006). Pedagogical Agents as Learning Companions: The Role of Agent Competency and Type of Interaction. Educational Technology Research and Development, 54(3), 223-243. https://doi.org/10.1007/s11423-006-8805-z"
     author: "Kim, Y., Baylor, A. L., & PALS Group"
+    q: 3
+    i: "?"
   - id: kim-2006-2
     resource: "https://doi.org/10.1007/s11423-006-8805-z"
     title: "Kim, Y., Baylor, A. L., & PALS Group. (2006). Pedagogical Agents as Learning Companions: The Role of Agent Competency and Type of Interaction. Educational Technology Research and Development, 54(3), 223-243. https://doi.org/10.1007/s11423-006-8805-z"
     author: "Kim, Y., Baylor, A. L., & PALS Group"
+    q: 3
+    i: 3
 ---
 
 # A responsive PAL does not improve learner attitudes toward the agent, and competency and interaction type show no significant interaction
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i?` There was no main effect of PAL interaction type on attitudes; the hypothesis that a responsive PAL would positively affect attitudes was not supported. [→ Kim 2006](#kim-2006)

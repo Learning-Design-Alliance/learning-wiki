@@ -12,10 +12,15 @@ sources:
   - id: pashler-2009
     resource: "https://journals.sagepub.com/"
     title: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2009). Learning Styles: Concepts and Evidence. Psychological Science in the Public Interest, Volume 9 Number 3. https://journals.sagepub.com/"
-    author: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R"
+    author: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R."
+    q: 3
+    i: "?"
 ---
 
 # Cook et al. (2009) found no support for sensing/intuitive style-by-sequence interaction in medical education
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Sensing learners did not benefit more from problem-first instruction, nor intuitive learners from content-first instruction, in an internal medicine residency module study. [→ Pashler 2009](#pashler-2009)

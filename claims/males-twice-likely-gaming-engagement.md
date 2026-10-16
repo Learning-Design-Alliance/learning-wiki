@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11423-009-9134-9"
     title: "Bobby Hoffman, Louis Nadelson. (2010). Motivational engagement and video gaming: a mixed methods study. Education Tech Research Dev 58:245-270. https://doi.org/10.1007/s11423-009-9134-9"
     author: Bobby Hoffman, Louis Nadelson
+    q: 2
+    i: "?"
 ---
 
 # Male participants were almost twice as likely as females to be engaged in gaming
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Gender was a significant indicator of video gaming engagement, with males almost twice as likely to be engaged as females. [→ Bobby Hoffman 2010](#bobby-hoffman-2010)

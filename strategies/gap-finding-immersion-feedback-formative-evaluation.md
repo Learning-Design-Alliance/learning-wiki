@@ -16,6 +16,9 @@ sources:
 
 # Immerse in the culture, integrate learner feedback up front, and use formative evaluation to find gaps needing bridges
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article identifies three commonly mentioned ways to find gaps where bridges are needed: "immersing oneself in the culture, integrating learner feedback in up-front analysis, and integrating learner feedback through formative evaluation." Designers should ask what learners' frames of reference are, whether objectives fall within them, and whether prerequisite knowledge is being assumed. Foreign examples may be used if accompanied by more support and explanation than typically assumed.
 

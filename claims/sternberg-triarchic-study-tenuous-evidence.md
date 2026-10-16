@@ -12,10 +12,15 @@ sources:
   - id: pashler-2009
     resource: "https://journals.sagepub.com/"
     title: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2009). Learning Styles: Concepts and Evidence. Psychological Science in the Public Interest, Volume 9 Number 3. https://journals.sagepub.com/"
-    author: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R"
+    author: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R."
+    q: 2
+    i: "?"
 ---
 
 # The single potentially supportive study (Sternberg et al., 1999) provided only tenuous evidence due to methodological issues
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` A style-by-treatment interaction was reported for gifted high school students, but only with highly derived measures, a subset of subjects, and after excluding outliers for unspecified reasons. [→ Pashler 2009](#pashler-2009)

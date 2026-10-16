@@ -12,10 +12,15 @@ sources:
   - id: koedinger-2008
     resource: "https://learnlab.org/"
     title: "Koedinger, K., Aleven, V., Roll, I., & Baker, R. (2008). In vivo experiments on whether supporting metacognition in intelligent tutoring systems yields robust learning. https://learnlab.org/"
-    author: "Koedinger, K., Aleven, V., Roll, I., & Baker, R"
+    author: "Koedinger, K., Aleven, V., Roll, I., & Baker, R."
+    q: 3
+    i: "?"
 ---
 
 # Static self-explanation prompts in the Geometry Cognitive Tutor produced greater gains on Reason and Not Enough Info test items than problem-solving practice alone
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Students who explained their steps with the tutor showed greater gains on Reason items and Not Enough Info transfer items than students who only solved problems. [→ Koedinger 2008](#koedinger-2008)

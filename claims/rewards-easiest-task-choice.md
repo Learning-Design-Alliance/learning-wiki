@@ -13,9 +13,14 @@ sources:
     resource: "https://eric.ed.gov/?id=ED376990"
     title: "Kohn, Alfie. (1994). The Risks of Rewards. ERIC Digest. ERIC Clearinghouse on Elementary and Early Childhood Education Urbana IL. https://eric.ed.gov/?id=ED376990"
     author: Kohn, Alfie
+    q: 2
+    i: "?"
 ---
 
 # People offered a reward generally choose the easiest possible task, whereas children without rewards pick tasks just beyond their current ability
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` At least ten studies show people offered a reward generally choose the easiest possible task; without rewards, children pick tasks just beyond their current level of ability. [→ Kohn 1994](#kohn-1994)

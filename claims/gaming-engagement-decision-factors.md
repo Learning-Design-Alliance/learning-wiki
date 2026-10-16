@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1007/s11423-009-9134-9"
     title: "Bobby Hoffman, Louis Nadelson. (2010). Motivational engagement and video gaming: a mixed methods study. Education Tech Research Dev 58:245-270. https://doi.org/10.1007/s11423-009-9134-9"
     author: Bobby Hoffman, Louis Nadelson
+    q: 2
+    i: "?"
   - id: bobby-hoffman-2010-2
     resource: "https://doi.org/10.1007/s11423-009-9134-9"
     title: "Bobby Hoffman, Louis Nadelson. (2010). Motivational engagement and video gaming: a mixed methods study. Education Tech Research Dev 58:245-270. https://doi.org/10.1007/s11423-009-9134-9"
     author: Bobby Hoffman, Louis Nadelson
+    q: 2
+    i: "?"
 ---
 
 # Players decided to engage in gaming primarily for escapism and fun, social connectivity, and achievement of task-related goals through control
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Interview analysis revealed three main reasons for deciding to engage in gaming: escapism and fun, social connectivity, and achievement of task-related goals through control. [→ Bobby Hoffman 2010](#bobby-hoffman-2010)

@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11423-006-8805-z"
     title: "Kim, Y., Baylor, A. L., & PALS Group. (2006). Pedagogical Agents as Learning Companions: The Role of Agent Competency and Type of Interaction. Educational Technology Research and Development, 54(3), 223-243. https://doi.org/10.1007/s11423-006-8805-z"
     author: "Kim, Y., Baylor, A. L., & PALS Group"
+    q: 3
+    i: 2
 ---
 
 # Working with a low-competency pedagogical agent raises learners' self-efficacy in the task (d = 0.49)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Students who worked with the low-competency PAL showed significantly higher self-efficacy in the task than students with the high-competency PAL (Cohen's d = 0.49). [→ Kim 2006](#kim-2006)

@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1080/02619761003631849"
     title: "Chang Zhu, Martin Valcke and Tammy Schellens. (2010). A cross-cultural study of teacher perspectives on teacher roles and adoption of online collaborative learning in higher education. European Journal of Teacher Education. https://doi.org/10.1080/02619761003631849"
     author: Chang Zhu, Martin Valcke and Tammy Schellens
+    q: 2
+    i: "?"
 ---
 
 # Chinese university teachers stress the expert, authority and model teacher roles to a larger extent than Flemish teachers, with no group difference in facilitator or delegator roles
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Chinese teachers score higher than Flemish teachers on the expert, authority and model teacher roles (p < .01), while facilitator and delegator role perceptions do not differ between the two groups. [→ Chang Zhu 2010](#chang-zhu-2010)

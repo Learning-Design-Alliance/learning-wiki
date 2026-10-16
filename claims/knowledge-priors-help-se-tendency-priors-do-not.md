@@ -13,13 +13,20 @@ sources:
     resource: "https://www.cs.ubc.ca"
     title: "Christina Merten and Cristina Conati. (2005). Eye-Tracking to Model and Adapt to User Meta-cognition in Intelligent Learning Environments. https://www.cs.ubc.ca"
     author: Christina Merten and Cristina Conati
+    q: 2
+    i: "?"
   - id: christina-merten-and-cristina-conati-2005-2
     resource: "https://www.cs.ubc.ca"
     title: "Christina Merten and Cristina Conati. (2005). Eye-Tracking to Model and Adapt to User Meta-cognition in Intelligent Learning Environments. https://www.cs.ubc.ca"
     author: Christina Merten and Cristina Conati
+    q: 2
+    i: "?"
 ---
 
 # Customizing knowledge-node priors from pretest scores improves model accuracy, but tailoring SE-tendency priors yields no significant improvement
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Customized knowledge priors (0.85/0.15 from pretest performance) raised accuracy for each model, significantly so for exploration nodes and for the gaze-shift model's implicitSE nodes. [→ Christina Merten and Cristina Conati 2005](#christina-merten-and-cristina-conati-2005)

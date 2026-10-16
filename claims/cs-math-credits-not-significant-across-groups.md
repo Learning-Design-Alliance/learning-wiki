@@ -10,12 +10,15 @@ generated:
 evidence_strength: moderate
 sources:
   - id: albert-lionelle-2024
-    resource: "https://doi.org/10.1145/3626252.3630835"
-    title: "Albert Lionelle, McKenna Quam, Carla Brodley, and Catherine Gill. 2024. Does Curricular Complexity in Computer Science Influence the Representation of Women CS Graduates?. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2024). https://doi.org/10.1145/3626252.3630835"
-    author: Albert Lionelle, McKenna Quam, Carla Brodley, and Catherine Gill
+    title: Albert Lionelle 2024
+    q: 2
+    i: "?"
 ---
 
 # Required CS credits and math credits do not differ significantly across women-representation groups
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Differences in total required CS credits across the three groups were not statistically significant (F = 2.225, p = 0.117), and math credit differences were also not significant. [→ Albert Lionelle 2024](#albert-lionelle-2024)

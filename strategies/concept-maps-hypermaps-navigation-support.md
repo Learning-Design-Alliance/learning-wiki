@@ -16,6 +16,9 @@ sources:
 
 # Provide concept maps and hypermaps so learners see conceptual relationships and their own location in the system
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends supplying visual representations of lesson content and structure to improve learners' awareness of conceptual relationships and procedural requirements. As printed, the implication is to "Provide concept maps to indicate the inter- relationships among concepts, and hypermaps to indicate the location of the learner relative to other lesson segments." This addresses disorientation that arises when navigation procedures are complex, insufficient, or inconsistent.
 

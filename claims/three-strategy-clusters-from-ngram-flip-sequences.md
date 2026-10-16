@@ -12,10 +12,15 @@ sources:
   - id: akram-2017
     resource: "https://scholar.google.com/scholar?q=Improving+Stealth+Assessment+in+Game-based+Learning+with+LSTM-based+Analytics"
     title: "Akram, B., Mott, B., Min, W., Boyer, K. E., Wiebe, E., & Lester, J. (2017). Improving Stealth Assessment in Game-based Learning with LSTM-based Analytics. https://scholar.google.com/scholar?q=Improving+Stealth+Assessment+in+Game-based+Learning+with+LSTM-based+Analytics"
-    author: "Akram, B., Mott, B., Min, W., Boyer, K. E., Wiebe, E., & Lester, J"
+    author: "Akram, B., Mott, B., Min, W., Boyer, K. E., Wiebe, E., & Lester, J."
+    q: 2
+    i: "?"
 ---
 
 # Clustering n-gram flip sequences per task yields three distinct problem-solving strategy groups across the binary challenges
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` EM clustering of n-gram features of tile-flip sequences produced three coherent strategy clusters: quick solvers with few trial-and-error attempts, moderate solvers with thoughtful trial-and-error, and slow solvers with many flips and seemingly random trial-and-error. [→ Akram 2017](#akram-2017)

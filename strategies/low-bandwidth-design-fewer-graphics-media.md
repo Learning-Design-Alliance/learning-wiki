@@ -16,6 +16,9 @@ sources:
 
 # Design systems to accommodate low bandwidth limitations by using fewer graphics and media
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 For contexts where users may only have internet access through low bandwidth connections, the article recommends that designers "aim to design systems that accommodate low bandwidth limitations by using fewer graphics and media." This is an implementable design recipe drawn directly from the infrastructure challenges section.
 

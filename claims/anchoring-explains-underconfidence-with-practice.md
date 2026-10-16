@@ -10,12 +10,15 @@ generated:
 evidence_strength: weak
 sources:
   - id: bol-l-and-hacker-dj-2012
-    resource: "https://doi.org/10.3389/fpsyg.2012.00229"
-    title: "Bol L and Hacker DJ (2012) Calibration research: where do we go from here? Front. Psychology 3:229. https://doi.org/10.3389/fpsyg.2012.00229"
-    author: Bol L and Hacker DJ
+    title: Bol L and Hacker DJ 2012
+    q: 2
+    i: "?"
 ---
 
 # Anchoring-and-adjustment explains the underconfidence-with-practice effect, with JOLs anchored between 30 and 50% correct recall
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Scheck and Nelson (2005) hypothesized JOLs form a psychological anchor between 30 and 50% of correct recall, explaining why overconfidence with practice shifts to underconfidence. [→ Bol L and Hacker DJ 2012](#bol-l-and-hacker-dj-2012)

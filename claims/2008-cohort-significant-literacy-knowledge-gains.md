@@ -12,14 +12,21 @@ sources:
   - id: pufpaff-2010
     resource: "https://doi.org/10.1002/pits.20485"
     title: "Pufpaff, L. A., & Yssel, N. (2010). Effects of a 6-Week, Co-Taught Literacy Unit on Preservice Special Educators' Literacy-Education Knowledge. Psychology in the Schools, 47(5). https://doi.org/10.1002/pits.20485"
-    author: "Pufpaff, L. A., & Yssel, N"
+    author: "Pufpaff, L. A., & Yssel, N."
+    q: 2
+    i: "?"
   - id: pufpaff-2010-2
     resource: "https://doi.org/10.1002/pits.20485"
     title: "Pufpaff, L. A., & Yssel, N. (2010). Effects of a 6-Week, Co-Taught Literacy Unit on Preservice Special Educators' Literacy-Education Knowledge. Psychology in the Schools, 47(5). https://doi.org/10.1002/pits.20485"
-    author: "Pufpaff, L. A., & Yssel, N"
+    author: "Pufpaff, L. A., & Yssel, N."
+    q: 2
+    i: "?"
 ---
 
 # Preservice special educators in the 2008 cohort showed significant pretest-to-posttest knowledge gains after the 6-week co-taught literacy unit
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The 2008 cohort (n = 10) evidenced a statistically significant improvement in literacy knowledge from pretest to posttest. [→ Pufpaff 2010](#pufpaff-2010)

@@ -12,10 +12,15 @@ sources:
   - id: ritter-2007
     resource: "https://doi.org/10.3758/bf03194060"
     title: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A. (2007). Cognitive Tutor: Applied research in mathematics education. Psychonomic Bulletin & Review, 2007, 14 (2), 249-255. https://doi.org/10.3758/bf03194060"
-    author: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A"
+    author: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A."
+    q: 2
+    i: "?"
 ---
 
 # Learning-curve analysis of tutor logs revealed a flaw in the algebra cognitive model's handling of equations of the form ax = b when the coefficient is 1, and the tutor now provides targeted extra practice on that skill
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The algebra tutor's cognitive model overpredicted student performance on some equations of the form ax = b, traced to the case in which the coefficient is 1, where students must understand that x means 1 times x. [→ Ritter 2007](#ritter-2007)

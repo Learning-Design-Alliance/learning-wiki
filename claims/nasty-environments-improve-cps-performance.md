@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s10339-009-0345-0"
     title: "Joachim Funke. (2009). Complex problem solving: a case for complex cognition? Cogn Process. https://doi.org/10.1007/s10339-009-0345-0"
     author: Joachim Funke
+    q: 2
+    i: "?"
 ---
 
 # Nasty task environments increased negative affect and improved complex problem solving performance relative to nice environments
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In a Tailorshop experiment, nasty environments (hard to increase capital, mostly negative feedback) increased negative and decreased positive affect, and led to higher information retrieval and better CPS performance than nice environments. [→ Joachim Funke 2009](#joachim-funke-2009)

@@ -12,10 +12,15 @@ sources:
   - id: bouzidi-2009
     resource: "https://www.ifets.info/"
     title: "Bouzidi, L., & Jaillet, A. (2009). Can Online Peer Assessment be Trusted?. Educational Technology & Society, 12(4), 257-268. https://www.ifets.info/"
-    author: "Bouzidi, L., & Jaillet, A"
+    author: "Bouzidi, L., & Jaillet, A."
+    q: 2
+    i: "?"
 ---
 
 # Peer assessment is equivalent to teacher assessment for exact-science exams with clear marking schemes
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Teacher and peer marks did not differ significantly (t-tests, H0 accepted at 5%) and correlated highly (Pearson 0.88-0.91) across two exams. [→ Bouzidi 2009](#bouzidi-2009)

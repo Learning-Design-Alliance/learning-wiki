@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1111/1475-6773.14106"
     title: "Graham LA, Gray C, Wagner TH, Illarmo S, Hawn MT, Wren SM, Iannuzzi J, Harris AHS. (2023). Applying cognitive task analysis to health services research. Health Services Research. https://doi.org/10.1111/1475-6773.14106"
     author: Graham LA, Gray C, Wagner TH, Illarmo S, Hawn MT, Wren SM, Iannuzzi J, Harris AHS
+    q: 2
+    i: "?"
 ---
 
 # Environmental analysis via structured observation of morning rounds identified unanticipated stakeholders in surgical discharge
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Structured observations of surgical morning teaching rounds revealed staff nurses and specialties such as physical therapy and social services participating in discharge care coordination, stakeholders not identified during initial planning. [→ Graham LA 2023](#graham-la-2023)

@@ -16,6 +16,9 @@ sources:
 
 # Future shared story reading research should extend to nonfiction texts, inclusive settings, and include practicality statements
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The review identifies gaps for future research: all reviewed studies used fictional texts, so "research is also needed on the effects of using shared story reading to promote literacy with nonfiction literature (e.g., biographies)." Only one study occurred in a nonspecial education setting, and it "remains an empirical question if shared story reading can promote literacy in inclusive settings." Authors of future research should also include a statement of practicality and cost effectiveness, which would have raised all six studies to high quality.
 

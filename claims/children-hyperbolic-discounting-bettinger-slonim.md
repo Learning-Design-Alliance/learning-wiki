@@ -13,9 +13,14 @@ sources:
     resource: "http://www.nber.org/papers/w20609"
     title: "Adam M. Lavecchia, Heidi Liu, and Philip Oreopoulos. (2014). Behavioral Economics of Education: Progress and Possibilities. NBER Working Paper No. 20609. http://www.nber.org/papers/w20609"
     author: Adam M. Lavecchia, Heidi Liu, and Philip Oreopoulos
+    q: 2
+    i: "?"
 ---
 
 # A majority of young children make choices consistent with hyperbolic discounting, preferring immediate over larger delayed rewards
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` More than 43 percent of children aged 5 to 16 made choices in line with hyperbolic discounting, and more than 25 percent chose options inconsistent with any type of rational behavior, with irrational choices less common among older children. [→ Adam M. Lavecchia 2014](#adam-m-lavecchia-2014)

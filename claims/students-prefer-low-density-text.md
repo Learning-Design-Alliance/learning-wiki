@@ -12,10 +12,15 @@ sources:
   - id: ross-1988
     resource: "http://www.jstor.org/stable/30218252"
     title: "Ross, S. M., Morrison, G. R., & O'Dell, J. K. (1988). Obtaining More out of Less Text in CBI: Effects of Varied Text Density Levels as a Function of Learner Characteristics and Control Strategy. Educational Communication and Technology, 36(3), 131-142. http://www.jstor.org/stable/30218252"
-    author: "Ross, S. M., Morrison, G. R., & O'Dell, J. K"
+    author: "Ross, S. M., Morrison, G. R., & O'Dell, J. K."
+    q: 3
+    i: "?"
 ---
 
 # Students generally prefer low-density text, selecting it on about 65 percent of learner-control choices
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Across LC selections, subjects chose low-density materials more often than high-density, with overall means of 3.5 selections for print and 3.0 for CBI out of five lessons. [→ Ross 1988](#ross-1988)

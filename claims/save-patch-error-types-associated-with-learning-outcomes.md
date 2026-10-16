@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/978-3-319-05834-4_3"
     title: "Gregory K.W.K. Chung. (2015). Guidelines for the Design and Implementation of Game Telemetry for Serious Games Analytics. In C.S. Loh et al. (eds.), Serious Games Analytics. https://doi.org/10.1007/978-3-319-05834-4_3"
     author: Gregory K.W.K. Chung
+    q: 2
+    i: "?"
 ---
 
 # In Save Patch, different error types were associated with different learning outcomes, attributed to Kerr and Chung (2013b)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Students who had difficulty identifying the unit size were less likely to learn from the game than students who had difficulty identifying the fractional piece size. [→ Gregory K.W.K. Chung 2015](#gregory-kwk-chung-2015)

@@ -12,10 +12,15 @@ sources:
   - id: martinez-garza-2017
     resource: "https://doi.org/10.4018/IJGCMS.2017070101"
     title: "Martinez-Garza, M. M., & Clark, D. B. (2017). Investigating Epistemic Stances in Game Play with Data Mining. International Journal of Gaming and Computer-Mediated Simulations, 9(3). https://doi.org/10.4018/IJGCMS.2017070101"
-    author: "Martinez-Garza, M. M., & Clark, D. B"
+    author: "Martinez-Garza, M. M., & Clark, D. B."
+    q: 3
+    i: 3
 ---
 
 # Playing EPIGAME produced a large, statistically significant pre-to-post gain in conceptual understanding of force and motion in 7th graders
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` In Study 2, 104 7th-grade students showed a statistically significant pre-post increase on a 21-item force-and-motion test, with Cohen's d = 1.62. [→ Martinez-Garza 2017](#martinez-garza-2017)

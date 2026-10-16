@@ -13,9 +13,14 @@ sources:
     resource: "https://www.jstor.org/stable/jj.31913371.9"
     title: "Kirk M. Lundblade. (2025). What Video Games Have Taught Us: Two Decades of Gaming and Learning. In Historiographies of Game Studies (Punctum Books). https://www.jstor.org/stable/jj.31913371.9"
     author: Kirk M. Lundblade
+    q: 1
+    i: "?"
 ---
 
 # The chapter argues the distance between game studies and games research reflects the field's maturation, not strategic failure
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The author concludes that discarding the early utopian vision enabled material and critical turns, so the field's separation from games research is a result of maturation rather than a blunder. [→ Kirk M. Lundblade 2025](#kirk-m-lundblade-2025)

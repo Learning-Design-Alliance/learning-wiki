@@ -13,9 +13,14 @@ sources:
     resource: "https://eric.ed.gov/?id=ED376990"
     title: "Kohn, Alfie. (1994). The Risks of Rewards. ERIC Digest. ERIC Clearinghouse on Elementary and Early Childhood Education Urbana IL. https://eric.ed.gov/?id=ED376990"
     author: Kohn, Alfie
+    q: 2
+    i: "?"
 ---
 
 # Grades themselves, regardless of formula, detrimentally affect creative thinking, long-term retention, interest in learning, and preference for challenging tasks
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Grades have been found to detrimentally affect creative thinking, long-term retention, interest in learning, and preference for challenging tasks, an effect attributed to grading itself rather than grade quality. [→ Kohn 1994](#kohn-1994)

@@ -16,6 +16,9 @@ sources:
 
 # Use in vivo experimentation: rigorous experimental contrasts embedded in operating courses with real students, real subject matter, and real contexts
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 In vivo experimentation is PSLC's primary methodology: running experimental contrasts inside operating courses with students participating without extra incentives, combining classroom realism with 'experimental control that is as rigorous as possible within these real-world constraints'. The essential standards are real students, real subject matter, and rigorous control. Laboratory studies are used when in vivo restrictions (course-schedule timing, ethics of worse-than-practice conditions) make them preferable, maintaining ecological validity by using the same course materials and student population.
 

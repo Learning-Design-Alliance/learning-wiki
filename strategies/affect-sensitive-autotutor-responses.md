@@ -16,6 +16,9 @@ sources:
 
 # Adapt tutor responses to detected learner affect: leading hints for frustration, engaging hooks for boredom, and timed intervention for confusion
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The authors propose programming AutoTutor to respond appropriately to affective states exhibited by learners, on the expectation that learning improves when the tutor adapts to confusion, frustration, and boredom in addition to cognitive states. The article specifies concrete responses: "If the learner is frustrated, then AutoTutor should give a leading hint to put the student back on track. If the learner is bored, some engaging hooks are needed." For confusion, the authors flag an open pedagogical question about how long a student should remain confused and thinking deeply before the tutor intervenes.
 

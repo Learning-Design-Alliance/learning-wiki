@@ -12,14 +12,21 @@ sources:
   - id: kienitz-2023
     resource: "https://doi.org/10.1007/s11251-023-09632-w"
     title: "Kienitz, A., Krebs, M.-C., & Eitel, A. (2023). Seductive details hamper learning even when they do not disrupt. Instructional Science. https://doi.org/10.1007/s11251-023-09632-w"
-    author: "Kienitz, A., Krebs, M.-C., & Eitel, A"
+    author: "Kienitz, A., Krebs, M.-C., & Eitel, A."
+    q: 3
+    i: "?"
   - id: kienitz-2023-2
     resource: "https://doi.org/10.1007/s11251-023-09632-w"
     title: "Kienitz, A., Krebs, M.-C., & Eitel, A. (2023). Seductive details hamper learning even when they do not disrupt. Instructional Science. https://doi.org/10.1007/s11251-023-09632-w"
-    author: "Kienitz, A., Krebs, M.-C., & Eitel, A"
+    author: "Kienitz, A., Krebs, M.-C., & Eitel, A."
+    q: 3
+    i: "?"
 ---
 
 # A separation prompt does not improve learning with seductive details, and higher integration avoidance predicts worse transfer, disfavouring the disruption explanation
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Separation-prompt participants did not outperform no-prompt participants on recall or transfer. [→ Kienitz 2023](#kienitz-2023)

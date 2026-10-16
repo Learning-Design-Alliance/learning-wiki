@@ -16,6 +16,9 @@ sources:
 
 # Complement outcome measures with continuous process measures to assess social effects and enable adaptive pedagogical agents
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends that research on pedagogical agents move beyond performance and post-hoc motivation measures by introducing objective, non-obtrusive process measures — eye movement, pupil dilation, blink rates, psychophysiological responses, FACS-based facial expression analysis, and emote-aloud protocols — to continuously monitor motivational, emotional, and social states. It argues process measurement is a prerequisite for adaptive agents that tailor behavior to the learner's state, and helps clarify whether learning effects arise from increased motivation or more direct cognitive influence.
 

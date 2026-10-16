@@ -12,10 +12,15 @@ sources:
   - id: marrs-2004
     resource: "https://doi.org/10.1187/cbe.03-11-0022"
     title: "Marrs, K.A., and Novak, G. (2004). Just-in-Time Teaching in Biology: Creating an Active Learner Classroom Using the Internet. Cell Biology Education 3, 49–61. https://doi.org/10.1187/cbe.03-11-0022"
-    author: Marrs, K.A., and Novak, G
+    author: Marrs, K.A., and Novak, G.
+    q: 2
+    i: "?"
 ---
 
 # Test questions reinforced by Warm Up questions or Cooperative Learning activities showed higher average normalized gains (~52%, ~60%) than questions discussed in class only (~15%)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In N100 classes, students showed an average normalized gain of ~52% on test questions reinforced by Warm Up questions or Cooperative Learning activities, versus ~15% on questions discussed in class but not reinforced. [→ Marrs 2004](#marrs-2004)

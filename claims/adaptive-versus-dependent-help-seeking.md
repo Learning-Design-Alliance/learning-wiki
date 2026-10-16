@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1016/b978-012109890-2/50043-3"
     title: "Paul R. Pintrich. (2000). The Role of Goal Orientation in Self-Regulated Learning. Handbook of Self-Regulation, Academic Press. https://doi.org/10.1016/b978-012109890-2/50043-3"
     author: Paul R. Pintrich
+    q: 2
+    i: "?"
 ---
 
 # Adaptive help seeking is a self-regulatory behavioral strategy, distinct from dependent help seeking
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Good students and self-regulators know when, why, and from whom to seek help; adaptive help seeking focuses on learning, while dependent help seeking seeks answers without understanding and is maladaptive. [→ Paul R. Pintrich 2000](#paul-r-pintrich-2000)

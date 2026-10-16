@@ -12,10 +12,15 @@ sources:
   - id: mcclanahan-2012
     resource: "https://link.springer.com/journal/11528"
     title: "McClanahan, B., Williams, K., Kennedy, E., & Tate, S. (2012). A Breakthrough for Josh: How Use of an iPad Facilitated Reading Improvement. TechTrends, 56(3). https://link.springer.com/journal/11528"
-    author: "McClanahan, B., Williams, K., Kennedy, E., & Tate, S"
+    author: "McClanahan, B., Williams, K., Kennedy, E., & Tate, S."
+    q: 1
+    i: "?"
 ---
 
 # A struggling fifth-grade reader with ADHD gained one full grade level in reading over six weeks of iPad-mediated tutoring
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` After six weeks of tutoring delivered largely via iPad, a fifth grader with ADHD reading at second-grade level improved one full grade level on an informal reading inventory. [→ McClanahan 2012](#mcclanahan-2012)

@@ -16,6 +16,9 @@ sources:
 
 # Provide an epistemologically inclusive conceptual framework, such as the IB Theory of Knowledge course, to help non-western learners of western science reconcile discipline-culture tensions
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends provision of an appropriate conceptual (epistemological) frame for reconciling encountered discords, presenting the IB Diploma's Theory of Knowledge (TOK) course as an "epistemologically inclusive conceptual framework" in which staff and students explore intersections of Islam and western science. TOK introduces multi-cultural tolerance, internationalisation and multiple explanatory systems based on alternative epistemologies, and students implicated it as important in their ability to learn contested content without believing it.
 

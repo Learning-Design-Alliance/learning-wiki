@@ -12,10 +12,15 @@ sources:
   - id: luxton-reilly-2009
     resource: "https://doi.org/10.1080/08993400903384844"
     title: "Luxton-Reilly, A. (2009). A systematic review of tools that support peer assessment. Computer Science Education, 19(4), 209-232. https://doi.org/10.1080/08993400903384844"
-    author: Luxton-Reilly, A
+    author: Luxton-Reilly, A.
+    q: 3
+    i: "?"
 ---
 
 # Peer marks correlate with teacher marks, with a mean correlation of 0.69 across studies in a meta-analysis
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` A meta-analysis comparing peer marks with teacher-assigned marks found a mean correlation of 0.69 between teacher and peer marks over all the studies considered. [→ Luxton-Reilly 2009](#luxton-reilly-2009)

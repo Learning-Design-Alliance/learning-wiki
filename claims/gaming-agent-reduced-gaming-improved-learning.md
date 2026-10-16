@@ -13,9 +13,14 @@ sources:
     resource: "http://learnlab.org/datashop"
     title: "Kenneth R. Koedinger, Emma Brunskill, Ryan S.J.d. Baker, Elizabeth A. McLaughlin, and John Stamper. (2012). New Potentials for Data-Driven Intelligent Tutoring System Development and Optimization. http://learnlab.org/datashop"
     author: Kenneth R. Koedinger, Emma Brunskill, Ryan S.J.d. Baker, Elizabeth A. McLaughlin, and John Stamper
+    q: 2
+    i: "?"
 ---
 
 # An automated agent responding to detected gaming-the-system reduced gaming by half and improved gaming students' learning
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In a USA classroom study, an agent that gave supplementary exercises and displayed displeasure when students gamed reduced gaming by half and improved gaming students' learning relative to control. [→ Kenneth R. Koedinger 2012](#kenneth-r-koedinger-2012)

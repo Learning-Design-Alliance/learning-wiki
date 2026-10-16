@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1089/cyber.2011.0311"
     title: "Nicholas David Bowman, Daniel Schultheiss, and Christina Schumann. (2012). 'I'm Attached, and I'm a Good Guy/Gal!': How Character Attachment Influences Pro- and Anti-Social Motivations to Play Massively Multiplayer Online Role-Playing Games. CyberPsychology, Behavior, and Social Networking. https://doi.org/10.1089/cyber.2011.0311"
     author: Nicholas David Bowman, Daniel Schultheiss, and Christina Schumann
+    q: 2
+    i: "?"
 ---
 
 # Video game skill and time spent playing are associated with gaming motivations
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Highly skilled gamers reported more of both pro-social and anti-social motivations, and more hours playing the favorite MMO was associated with pro-social gaming motivations. [→ Nicholas David Bowman 2012](#nicholas-david-bowman-2012)

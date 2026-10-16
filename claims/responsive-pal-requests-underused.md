@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11423-006-8805-z"
     title: "Kim, Y., Baylor, A. L., & PALS Group. (2006). Pedagogical Agents as Learning Companions: The Role of Agent Competency and Type of Interaction. Educational Technology Research and Development, 54(3), 223-243. https://doi.org/10.1007/s11423-006-8805-z"
     author: "Kim, Y., Baylor, A. L., & PALS Group"
+    q: 2
+    i: "?"
 ---
 
 # In the responsive condition, learners requested less than half of the information the PAL was designed to deliver
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Interaction logs showed that responsive-condition students made fewer requests than half the total number of ideas the responsive PAL was designed to deliver. [→ Kim 2006](#kim-2006)

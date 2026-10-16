@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1016/j.jebo.2014.09.005"
     title: "Alexander Koch, Julia Nafziger, Helena Skyt Nielsen. (2015). Behavioral economics of education. Journal of Economic Behavior & Organization 115 (2015) 3–17. https://doi.org/10.1016/j.jebo.2014.09.005"
     author: Alexander Koch, Julia Nafziger, Helena Skyt Nielsen
+    q: 2
+    i: "?"
 ---
 
 # Self-control problems are a major explanation of dropout decisions despite high returns to schooling
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Dropout appears suboptimal given large returns, and the review attributes it largely to adolescent self-control problems. [→ Alexander Koch 2015](#alexander-koch-2015)

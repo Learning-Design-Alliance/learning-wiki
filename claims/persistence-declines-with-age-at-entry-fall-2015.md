@@ -13,9 +13,14 @@ sources:
     resource: "https://nscresearchcenter.org/wp-content/uploads/NSC_SnapshotReport28_PersistenceRetention_Data_Tables.xlsx"
     title: "First-Year Persistence and Retention. (2017). National Student Clearinghouse Snapshot Report. https://nscresearchcenter.org/wp-content/uploads/NSC_SnapshotReport28_PersistenceRetention_Data_Tables.xlsx"
     author: First-Year Persistence and Retention
+    q: 2
+    i: "?"
 ---
 
 # First-year persistence declines with age at entry: 78.2 percent for students 20 and under, 57.8 percent for ages over 20 to 24, and 52.7 percent for students over 24
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Fall 2015 entrants aged 20 and under persisted at 78.2 percent, the over-20-to-24 group at 57.8 percent, and students over 24 at 52.7 percent. [→ First-Year Persistence and Retention 2017](#first-year-persistence-and-retention-2017)

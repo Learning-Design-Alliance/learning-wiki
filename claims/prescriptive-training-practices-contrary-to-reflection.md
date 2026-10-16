@@ -13,13 +13,20 @@ sources:
     resource: "https://ro.ecu.edu.au/ajtec/vol35/iss4/4/"
     title: "Ali Al-Issa & Ali Al-Bulushi. (2010). Training English Language Student Teachers to Become Reflective Teachers. Australian Journal of Teacher Education, Vol 35, 4. https://ro.ecu.edu.au/ajtec/vol35/iss4/4/"
     author: "Ali Al-Issa & Ali Al-Bulushi"
+    q: 2
+    i: "?"
   - id: ali-al-issa-ali-al-bulushi-2010-2
     resource: "https://ro.ecu.edu.au/ajtec/vol35/iss4/4/"
     title: "Ali Al-Issa & Ali Al-Bulushi. (2010). Training English Language Student Teachers to Become Reflective Teachers. Australian Journal of Teacher Education, Vol 35, 4. https://ro.ecu.edu.au/ajtec/vol35/iss4/4/"
     author: "Ali Al-Issa & Ali Al-Bulushi"
+    q: 2
+    i: "?"
 ---
 
 # Some SQU ELT trainers used prescriptive practices contrary to reflective preparation: telling trainees how to teach (74.2% agreement), restricting lesson planning to the teachers guide (53.4%), and training them to teach only the national textbook (66.8%)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` 74.2 per cent of trainees agreed their trainers told them how to teach, and five trainers agreed they did so, which the authors call contrary to preparing a reflective practitioner. [→ Ali Al-Issa & Ali Al-Bulushi 2010](#ali-al-issa-ali-al-bulushi-2010)

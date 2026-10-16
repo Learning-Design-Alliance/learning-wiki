@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1089/cyber.2011.0311"
     title: "Nicholas David Bowman, Daniel Schultheiss, and Christina Schumann. (2012). 'I'm Attached, and I'm a Good Guy/Gal!': How Character Attachment Influences Pro- and Anti-Social Motivations to Play Massively Multiplayer Online Role-Playing Games. CyberPsychology, Behavior, and Social Networking. https://doi.org/10.1089/cyber.2011.0311"
     author: Nicholas David Bowman, Daniel Schultheiss, and Christina Schumann
+    q: 2
+    i: "?"
 ---
 
 # Younger male gamers report more anti-social motivations; pro-social gaming is more prevalent in older gamers
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Younger male gamers were most likely to report anti-social gaming motivations, while pro-social gaming was more prevalent in older gamers. [→ Nicholas David Bowman 2012](#nicholas-david-bowman-2012)

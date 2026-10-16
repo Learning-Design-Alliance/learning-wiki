@@ -12,10 +12,15 @@ sources:
   - id: pashler-2009
     resource: "https://journals.sagepub.com/"
     title: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2009). Learning Styles: Concepts and Evidence. Psychological Science in the Public Interest, Volume 9 Number 3. https://journals.sagepub.com/"
-    author: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R"
+    author: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R."
+    q: 2
+    i: "?"
 ---
 
 # Virtually no learning-styles studies used designs capable of testing the required style-by-method crossover interaction
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Despite an enormous literature, the review found almost no studies meeting the methodological criteria needed to validate learning-styles-based instruction. [→ Pashler 2009](#pashler-2009)

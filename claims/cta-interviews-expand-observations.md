@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1111/1475-6773.14106"
     title: "Graham LA, Gray C, Wagner TH, Illarmo S, Hawn MT, Wren SM, Iannuzzi J, Harris AHS. (2023). Applying cognitive task analysis to health services research. Health Services Research. https://doi.org/10.1111/1475-6773.14106"
     author: Graham LA, Gray C, Wagner TH, Illarmo S, Hawn MT, Wren SM, Iannuzzi J, Harris AHS
+    q: 2
+    i: "?"
 ---
 
 # Critical Decision Method semi-structured interviews expanded on observational data in the discharge planning pilot
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Eight Critical Decision Method interviews with nurses, residents, case managers, medical students, and dieticians, each lasting 20 to 30 minutes, expanded upon the information collected during observations. [→ Graham LA 2023](#graham-la-2023)

@@ -16,6 +16,9 @@ sources:
 
 # Use an intermediate game-jam duration of about 6 hours, long enough for teams to pass through the first four development phases
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The authors opted for 6-hour events instead of the standard 48-hour format, arguing shorter events cannot support a quality collaborative and creative process. They state that with fewer than 6 h "a quality collaborative and creative process cannot take place", because teams must transit the first four phases to turn ideas into playable products, while participants experienced the short duration as part of the challenge.
 

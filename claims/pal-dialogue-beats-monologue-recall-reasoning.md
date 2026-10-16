@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11423-006-0637-3"
     title: "Yanghee Kim and Amy L. Baylor. (2006). A Social-Cognitive Framework for Pedagogical Agents as Learning Companions. ETR&D, Vol. 54, No. 6, pp. 569–596. https://doi.org/10.1007/s11423-006-0637-3"
     author: Yanghee Kim and Amy L. Baylor
+    q: 2
+    i: "?"
 ---
 
 # Overhearing dialogue between virtual tutor and tutee produced more recall propositions, transfer questions, and deeper reasoning than monologue
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Students who overheard dialogue between a virtual tutee and tutor wrote significantly more propositions in free recall and asked significantly more questions in the transfer task than students who overheard a monologue. [→ Yanghee Kim and Amy L. Baylor 2006](#yanghee-kim-and-amy-l-baylor-2006)

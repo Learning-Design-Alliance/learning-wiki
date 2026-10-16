@@ -12,10 +12,15 @@ sources:
   - id: parker-2010
     resource: "https://www.edgefoundation.org"
     title: "Parker, D. R., Field Hoffman, S., Sawilowsky, S., & Rolands, L. (2010). An Examination of the Effects of ADHD Coaching on University Students' Executive Functioning. Journal of Postsecondary Education and Disability, 24(2), 115-132. https://www.edgefoundation.org"
-    author: "Parker, D. R., Field Hoffman, S., Sawilowsky, S., & Rolands, L"
+    author: "Parker, D. R., Field Hoffman, S., Sawilowsky, S., & Rolands, L."
+    q: 2
+    i: "?"
 ---
 
 # Students most valued the caring, accountable relationship with their coach, reporting motivation, confidence, and accountability gains
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` When asked for the most useful outcome of coaching, participants' comments centered on relationship dynamics with a caring coach who held them accountable respectfully. [→ Parker 2010](#parker-2010)

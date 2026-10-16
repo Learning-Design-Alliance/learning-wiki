@@ -12,10 +12,15 @@ sources:
   - id: luxton-reilly-2009
     resource: "https://doi.org/10.1080/08993400903384844"
     title: "Luxton-Reilly, A. (2009). A systematic review of tools that support peer assessment. Computer Science Education, 19(4), 209-232. https://doi.org/10.1080/08993400903384844"
-    author: Luxton-Reilly, A
+    author: Luxton-Reilly, A.
+    q: 2
+    i: "?"
 ---
 
 # Web-SPA peer review activities showed considerable consistency between instructor and peer marks and improved quality of work
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` A study of 76 high school students using Web-SPA found considerable consistency between instructor and peer marks, and that the quality of work improved after peer review activities. [→ Luxton-Reilly 2009](#luxton-reilly-2009)

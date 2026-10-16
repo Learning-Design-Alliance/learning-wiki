@@ -12,10 +12,15 @@ sources:
   - id: akram-2017
     resource: "https://scholar.google.com/scholar?q=Improving+Stealth+Assessment+in+Game-based+Learning+with+LSTM-based+Analytics"
     title: "Akram, B., Mott, B., Min, W., Boyer, K. E., Wiebe, E., & Lester, J. (2017). Improving Stealth Assessment in Game-based Learning with LSTM-based Analytics. https://scholar.google.com/scholar?q=Improving+Stealth+Assessment+in+Game-based+Learning+with+LSTM-based+Analytics"
-    author: "Akram, B., Mott, B., Min, W., Boyer, K. E., Wiebe, E., & Lester, J"
+    author: "Akram, B., Mott, B., Min, W., Boyer, K. E., Wiebe, E., & Lester, J."
+    q: 3
+    i: "?"
 ---
 
 # Students showed significant content-knowledge gains from pre-test to post-test after the Digital World level
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` A paired t-test revealed significant improvement from pre-test (M=0.44, SD=0.20) to post-test (M=0.59, SD=0.24) content knowledge scores. [→ Akram 2017](#akram-2017)

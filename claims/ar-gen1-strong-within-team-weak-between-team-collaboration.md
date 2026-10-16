@@ -12,10 +12,15 @@ sources:
   - id: klopfer-2004
     resource: "https://doi.org/10.3115/1149293.1149333"
     title: "Klopfer, E., Perry, J., Squire, K., & Jan, M.-F. (2004). Collaborative Learning through Augmented Reality Role Playing. https://doi.org/10.3115/1149293.1149333"
-    author: "Klopfer, E., Perry, J., Squire, K., & Jan, M.-F"
+    author: "Klopfer, E., Perry, J., Squire, K., & Jan, M.-F."
+    q: 2
+    i: "?"
 ---
 
 # First-generation AR games produced strong collaboration within teams but limited or non-existent collaboration between teams
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In first-generation AR games, collaboration within groups was strong and successful while collaboration between groups was limited or non-existent. [→ Klopfer 2004](#klopfer-2004)

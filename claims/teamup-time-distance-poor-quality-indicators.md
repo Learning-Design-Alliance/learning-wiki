@@ -12,10 +12,15 @@ sources:
   - id: mayer-2018
     resource: "https://doi.org/10.1177/1046878118770831"
     title: "Mayer, I. (2018). Assessment of Teams in a Digital Game Environment. Simulation & Gaming, 49(6), 602-619. https://doi.org/10.1177/1046878118770831"
-    author: Mayer, I
+    author: Mayer, I.
+    q: 2
+    i: "?"
 ---
 
 # In-game time and distance are not very useful indicators of team quality because they are largely driven by team structure
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In TEAMUP, the performance indicators time and distance are largely influenced by team structure such as age and previous game experience, making them not very useful as indicators of team quality. [→ Mayer 2018](#mayer-2018)

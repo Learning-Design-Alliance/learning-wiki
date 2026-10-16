@@ -13,9 +13,14 @@ sources:
     resource: "http://www.education.uncc.edu/access/"
     title: "Melissa E. Hudson and David W. Test. (2011). Evaluating the Evidence Base of Shared Story Reading to Promote Literacy for Students With Extensive Support Needs. Research & Practice for Persons with Severe Disabilities, 36(1-2), 34-45. http://www.education.uncc.edu/access/"
     author: Melissa E. Hudson and David W. Test
+    q: 2
+    i: "?"
 ---
 
 # Five of six reviewed studies came from one research team, limiting the evidence base pending independent replication
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Five of the six acceptable-quality studies were conducted by research teams from one university and one by a team from a second university, and replication by other researchers is needed to build a strong evidence base. [→ Melissa E. Hudson and David W. Test 2011](#melissa-e-hudson-and-david-w-test-2011)

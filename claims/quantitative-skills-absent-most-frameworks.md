@@ -12,10 +12,15 @@ sources:
   - id: markle-2013
     resource: "http://search.ets.org/researcher"
     title: "Markle, R., Brenneman, M., Jackson, T., Burrus, J., & Robbins, S. (2013). Synthesizing Frameworks of Higher Education Student Learning Outcomes. ETS Research Report Series, ETS RR-13-22. http://search.ets.org/researcher"
-    author: "Markle, R., Brenneman, M., Jackson, T., Burrus, J., & Robbins, S"
+    author: "Markle, R., Brenneman, M., Jackson, T., Burrus, J., & Robbins, S."
+    q: 2
+    i: "?"
 ---
 
 # Quantitative skills were explicitly addressed by only three of the seven reviewed frameworks
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Only three of the seven reviewed frameworks (LEAP, the Lumina DQP, and USDOL-ETA) explicitly mentioned a quantitative domain, leading the authors to exclude quantitative skills from the critical domains. [→ Markle 2013](#markle-2013)

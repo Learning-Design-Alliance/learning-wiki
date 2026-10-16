@@ -13,12 +13,17 @@ sources:
     resource: "https://doi.org/10.1007/s10648-010-9123-x"
     title: "Nicole C. Krämer & Gary Bente. (2010). Personalizing e-Learning. The Social Effects of Pedagogical Agents. Educ Psychol Rev. https://doi.org/10.1007/s10648-010-9123-x"
     author: "Nicole C. Krämer & Gary Bente"
+    q: 2
+    i: "?"
 ---
 
 # The review reports that AutoTutor improves learning by nearly one letter grade compared with reading a textbook for an equivalent time or with a pretest
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
+
 ## Subclaims
-`q2 i?` Based on at least a dozen experiments, AutoTutor improved learning by nearly one letter grade relative to textbook reading or pretest comparison. [→ Nicole C. Krämer & Gary Bente 2010](#nicole-c-krämer-gary-bente-2010)
+`q2 i?` Based on at least a dozen experiments, AutoTutor improved learning by nearly one letter grade relative to textbook reading or pretest comparison. [→ Nicole C. Krämer & Gary Bente 2010](#nicole-c-kramer-gary-bente-2010)
 
 ## Evidence
 

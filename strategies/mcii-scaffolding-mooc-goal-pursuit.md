@@ -16,6 +16,9 @@ sources:
 
 # Provide MOOC scaffolding for goal setting and strategic planning, e.g., mental contrasting with implementation intentions
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Based on converging correlational evidence that goal setting and strategic planning support learners, the authors recommend that "MOOCs should provide learners with relevant scaffolding to support these strategies at the beginning of the course and throughout as needed". They specifically propose mental contrasting with implementation intentions (MCII), implemented as brief writing activities prompting reflection about positive outcomes and obstacles related to a goal, followed by if-then plans for handling obstacles. This targets especially learners with weaker metacognitive skills.
 

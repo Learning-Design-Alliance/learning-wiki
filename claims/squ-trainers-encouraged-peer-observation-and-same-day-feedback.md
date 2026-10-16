@@ -13,13 +13,20 @@ sources:
     resource: "https://ro.ecu.edu.au/ajtec/vol35/iss4/4/"
     title: "Ali Al-Issa & Ali Al-Bulushi. (2010). Training English Language Student Teachers to Become Reflective Teachers. Australian Journal of Teacher Education, Vol 35, 4. https://ro.ecu.edu.au/ajtec/vol35/iss4/4/"
     author: "Ali Al-Issa & Ali Al-Bulushi"
+    q: 2
+    i: "?"
   - id: ali-al-issa-ali-al-bulushi-2010-2
     resource: "https://ro.ecu.edu.au/ajtec/vol35/iss4/4/"
     title: "Ali Al-Issa & Ali Al-Bulushi. (2010). Training English Language Student Teachers to Become Reflective Teachers. Australian Journal of Teacher Education, Vol 35, 4. https://ro.ecu.edu.au/ajtec/vol35/iss4/4/"
     author: "Ali Al-Issa & Ali Al-Bulushi"
+    q: 2
+    i: "?"
 ---
 
 # SQU ELT trainers encouraged peer observation and same-day feedback sessions, with 78.9% of trainees agreeing trainers encouraged class visits and 81.9% agreeing feedback came the same day as observation
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` 78.9 per cent of trainees agreed their trainers encouraged them to visit each other's classes during teaching practice, and all trainers agreed they encouraged such visits. [→ Ali Al-Issa & Ali Al-Bulushi 2010](#ali-al-issa-ali-al-bulushi-2010)

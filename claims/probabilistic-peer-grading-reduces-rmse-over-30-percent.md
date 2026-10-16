@@ -13,9 +13,14 @@ sources:
     resource: "https://arxiv.org/abs/1307.2579"
     title: "Chris Piech, Jonathan Huang, Zhenghao Chen, Chuong Do, Andrew Ng, Daphne Koller. (2013). Tuned Models of Peer Assessment in MOOCs. arXiv. https://arxiv.org/abs/1307.2579"
     author: Chris Piech, Jonathan Huang, Zhenghao Chen, Chuong Do, Andrew Ng, Daphne Koller
+    q: 2
+    i: "?"
 ---
 
 # Probabilistic peer grading models that estimate grader bias and reliability reduce RMSE against ground-truth grades by 33% and 31% on two HCI course offerings
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` On the first HCI offering, probabilistic models reduced RMSE on ground-truth grade prediction from 7.95 to 5.30 (33%); on the second offering from 6.43 to 4.73 (31%). [→ Chris Piech 2013](#chris-piech-2013)

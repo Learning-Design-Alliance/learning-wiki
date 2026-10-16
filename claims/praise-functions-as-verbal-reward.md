@@ -13,9 +13,14 @@ sources:
     resource: "https://eric.ed.gov/?id=ED376990"
     title: "Kohn, Alfie. (1994). The Risks of Rewards. ERIC Digest. ERIC Clearinghouse on Elementary and Early Childhood Education Urbana IL. https://eric.ed.gov/?id=ED376990"
     author: Kohn, Alfie
+    q: 1
+    i: "?"
 ---
 
 # Most praise functions as a verbal reward, creating dependence on others' approval rather than self-generated criteria
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Most praise is tantamount to verbal reward: it makes approval conditional, can create dependence on securing someone else's approval, and devalues learning as a prerequisite for teacher approval. [→ Kohn 1994](#kohn-1994)

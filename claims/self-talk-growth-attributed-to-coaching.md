@@ -12,10 +12,15 @@ sources:
   - id: parker-2010
     resource: "https://www.edgefoundation.org"
     title: "Parker, D. R., Field Hoffman, S., Sawilowsky, S., & Rolands, L. (2010). An Examination of the Effects of ADHD Coaching on University Students' Executive Functioning. Journal of Postsecondary Education and Disability, 24(2), 115-132. https://www.edgefoundation.org"
-    author: "Parker, D. R., Field Hoffman, S., Sawilowsky, S., & Rolands, L"
+    author: "Parker, D. R., Field Hoffman, S., Sawilowsky, S., & Rolands, L."
+    q: 2
+    i: "?"
 ---
 
 # Coached students reported growing use of self-talk as an executive functioning strategy, with one exception
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Nearly all participants described a growing use of self-talk they attributed to coaching, using it to remind themselves of goals, stay on task, and counter self-critical doubts. [→ Parker 2010](#parker-2010)

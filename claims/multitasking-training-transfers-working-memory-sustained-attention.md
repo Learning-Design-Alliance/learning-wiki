@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1038/nature12486"
     title: "J. A. Anguera, J. Boccanfuso, J. L. Rintoul, O. Al-Hashimi, F. Faraji, J. Janowich, E. Kong, Y. Larraburo, C. Rolle, E. Johnston & A. Gazzaley. (2013). Video game training enhances cognitive control in older adults. Nature 501. https://doi.org/10.1038/nature12486"
     author: "J. A. Anguera, J. Boccanfuso, J. L. Rintoul, O. Al-Hashimi, F. Faraji, J. Janowich, E. Kong, Y. Larraburo, C. Rolle, E. Johnston & A. Gazzaley"
+    q: 3
+    i: "?"
 ---
 
 # Multitasking training transferred to untrained working memory and sustained attention tasks in older adults, unlike control training
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Significant group × session interactions showed pre- to post-training improvements in working memory and sustained attention only for the MTT group; the article reports the interactions exceeded Cohen's d of 0.73 but prints no exact effect size value for any single test. [→ J. A. Anguera 2013](#j-a-anguera-2013)

@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.25304/rlt.v28.2326"
     title: "Matthew Barr. (2020). A cross-sectional study of video game play habits and graduate skills attainment. Research in Learning Technology. https://doi.org/10.25304/rlt.v28.2326"
     author: Matthew Barr
+    q: 2
+    i: "?"
 ---
 
 # Playing games in a variety of modes (local and online multiplayer; cooperative and team-based) is associated with higher adaptability and communication scores
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Students playing both local and online multiplayer scored more highly on I-ADAPT-M and CAS than other groups, and players engaging both cooperative types showed a U-shaped advantage in adaptability over those playing only team-based shooters. [→ Matthew Barr 2020](#matthew-barr-2020)

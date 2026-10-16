@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11423-009-9134-9"
     title: "Bobby Hoffman, Louis Nadelson. (2010). Motivational engagement and video gaming: a mixed methods study. Education Tech Research Dev 58:245-270. https://doi.org/10.1007/s11423-009-9134-9"
     author: Bobby Hoffman, Louis Nadelson
+    q: 2
+    i: "?"
 ---
 
 # Video game engagement is predicted by hours of play, playing with others, gender, and task orientation, with hours of play the strongest predictor
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In a stepwise linear regression, hours played per week was the most accurate predictor of engagement, followed by playing with others, gender, and task scores, all significant contributors to the model. [→ Bobby Hoffman 2010](#bobby-hoffman-2010)

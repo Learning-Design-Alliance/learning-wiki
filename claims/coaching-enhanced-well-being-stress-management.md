@@ -12,10 +12,15 @@ sources:
   - id: parker-2010
     resource: "https://www.edgefoundation.org"
     title: "Parker, D. R., Field Hoffman, S., Sawilowsky, S., & Rolands, L. (2010). An Examination of the Effects of ADHD Coaching on University Students' Executive Functioning. Journal of Postsecondary Education and Disability, 24(2), 115-132. https://www.edgefoundation.org"
-    author: "Parker, D. R., Field Hoffman, S., Sawilowsky, S., & Rolands, L"
+    author: "Parker, D. R., Field Hoffman, S., Sawilowsky, S., & Rolands, L."
+    q: 2
+    i: "?"
 ---
 
 # Coaching helped students manage daily stress and enhanced their sense of well-being and self-control
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` All participants identified ways coaching enhanced their capacity to manage daily stress, and students described feeling more proficient, less overwhelmed, and emotionally supported. [→ Parker 2010](#parker-2010)

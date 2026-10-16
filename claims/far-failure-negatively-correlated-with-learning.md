@@ -13,9 +13,14 @@ sources:
     resource: "http://www.eriainteractive.com/index.php"
     title: "Richard Halverson, Elizabeth Owen, Nathan Wills, R. Benjamin Shapiro. (2012). Game-Based Assessment: An integrated model for capturing evidence of learning in play. ERIA Working Paper. http://www.eriainteractive.com/index.php"
     author: Richard Halverson, Elizabeth Owen, Nathan Wills, R. Benjamin Shapiro
+    q: 2
+    i: 2
 ---
 
 # The number of far failures — cycles ended by incorrect collection and/or time running out — was negatively correlated with pre-post learning gains in Progenitor X
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
 
 ## Subclaims
 `q2 i2` Far failures across all cycles were negatively correlated with learning as measured by pre-post tests (r = -.2788), while total failures, cycles started, successful collects, and cycles completed showed no correlation with gains. [→ Richard Halverson 2012](#richard-halverson-2012)

@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1080/03057267.2022.2057732"
     title: "Michaela Arztmann, Lisette Hornstra, Johan Jeuring & Liesbeth Kester (2023). Effects of games in STEM education: a meta-analysis on the moderating role of student background characteristics. Studies in Science Education, 59:1, 109-145. https://doi.org/10.1080/03057267.2022.2057732"
     author: "Michaela Arztmann, Lisette Hornstra, Johan Jeuring & Liesbeth Kester"
+    q: 3
+    i: "?"
 ---
 
 # Evidence of small-study effects exists for cognition and motivation, but trim-and-fill adjustment leaves the moderate motivating effect essentially unchanged
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Egger's test indicates small-study effects for cognition (p = .004) and motivation (p = .002); after trim-and-fill imputation the motivation mean drops only from 0.51 to 0.43. [→ Michaela Arztmann 2023](#michaela-arztmann-2023)

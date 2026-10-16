@@ -12,10 +12,15 @@ sources:
   - id: akram-2017
     resource: "https://scholar.google.com/scholar?q=Improving+Stealth+Assessment+in+Game-based+Learning+with+LSTM-based+Analytics"
     title: "Akram, B., Mott, B., Min, W., Boyer, K. E., Wiebe, E., & Lester, J. (2017). Improving Stealth Assessment in Game-based Learning with LSTM-based Analytics. https://scholar.google.com/scholar?q=Improving+Stealth+Assessment+in+Game-based+Learning+with+LSTM-based+Analytics"
-    author: "Akram, B., Mott, B., Min, W., Boyer, K. E., Wiebe, E., & Lester, J"
+    author: "Akram, B., Mott, B., Min, W., Boyer, K. E., Wiebe, E., & Lester, J."
+    q: 2
+    i: "?"
 ---
 
 # An LSTM-based strategy temporal analytics framework outperforms random forest, SVM, and majority-class baselines for stealth assessment predictive accuracy
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The LSTM-based evidence model achieved higher predictive accuracy (64.82%) than random forest (50.43%), SVM (41.17%), and the majority-class baseline (35.71%) on held-out test data. [→ Akram 2017](#akram-2017)

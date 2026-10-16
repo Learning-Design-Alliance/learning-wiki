@@ -12,10 +12,15 @@ sources:
   - id: parker-2010
     resource: "https://www.edgefoundation.org"
     title: "Parker, D. R., Field Hoffman, S., Sawilowsky, S., & Rolands, L. (2010). An Examination of the Effects of ADHD Coaching on University Students' Executive Functioning. Journal of Postsecondary Education and Disability, 24(2), 115-132. https://www.edgefoundation.org"
-    author: "Parker, D. R., Field Hoffman, S., Sawilowsky, S., & Rolands, L"
+    author: "Parker, D. R., Field Hoffman, S., Sawilowsky, S., & Rolands, L."
+    q: 2
+    i: "?"
 ---
 
 # ADHD coaching helped college students with ADHD set more specific goals broken into component steps with incremental deadlines
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Most participants reported that coaching changed how they formulated goals and improved their capacity to attain them, though three students said coaching did not influence their goals. [→ Parker 2010](#parker-2010)

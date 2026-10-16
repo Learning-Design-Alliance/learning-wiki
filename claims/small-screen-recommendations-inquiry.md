@@ -13,9 +13,14 @@ sources:
     resource: "https://www.worldcat.org/issn/1436-4522"
     title: "Daniel Churchill. (2011). Conceptual Model Learning Objects and Design Recommendations for Small Screens. Educational Technology & Society, 14(1), 203-216. https://www.worldcat.org/issn/1436-4522"
     author: Daniel Churchill
+    q: 2
+    i: "?"
 ---
 
 # Small-screen design recommendations were explicated through an inquiry in which teachers and students interacted with learning objects on handheld devices
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The author's small-screen recommendations emerged from an inquiry in which participants including school teachers interacted with learning objects on HP iPAQ handhelds, followed by progressive redesign, student observation, and interviews. [→ Daniel Churchill 2011](#daniel-churchill-2011)

@@ -12,10 +12,15 @@ sources:
   - id: pashler-2009
     resource: "https://journals.sagepub.com/"
     title: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2009). Learning Styles: Concepts and Evidence. Psychological Science in the Public Interest, Volume 9 Number 3. https://journals.sagepub.com/"
-    author: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R"
+    author: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R."
+    q: 3
+    i: "?"
 ---
 
 # Massa and Mayer's three experiments found no support for matching instruction to visualizer–verbalizer preferences
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In a replicated set of experiments, learners who received help screens matched to their verbal/visual preferences showed no performance advantage, across nearly 20 individual-difference measures. [→ Pashler 2009](#pashler-2009)

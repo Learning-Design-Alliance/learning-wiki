@@ -16,6 +16,9 @@ sources:
 
 # State-level international benchmarking actions for 21st century readiness
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Citing the 2008 "Benchmarking for Success" report, the chapter recommends five actions: adopting internationally benchmarked common core standards in math and language arts; leveraging collective influence to align textbooks, digital media, curricula, and assessments to those standards; revising teacher and leader policies to reflect top-performing nations' human capital practices; holding schools accountable through monitoring, interventions, and support; and measuring state performance globally against international achievement and attainment.
 

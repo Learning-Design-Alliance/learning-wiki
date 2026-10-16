@@ -12,10 +12,15 @@ sources:
   - id: bouzidi-2009
     resource: "https://www.ifets.info/"
     title: "Bouzidi, L., & Jaillet, A. (2009). Can Online Peer Assessment be Trusted?. Educational Technology & Society, 12(4), 257-268. https://www.ifets.info/"
-    author: "Bouzidi, L., & Jaillet, A"
+    author: "Bouzidi, L., & Jaillet, A."
+    q: 2
+    i: "?"
 ---
 
 # Item analysis flags items whose marking instructions mislead peer assessors
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` On CA-2007 question Q7, peers were far more severe (p=0.74) than the teacher (p=0.59), traced to marking instructions that did not preserve independence of the marking scheme's parts; Q7 was excluded from the validity analysis. [→ Bouzidi 2009](#bouzidi-2009)

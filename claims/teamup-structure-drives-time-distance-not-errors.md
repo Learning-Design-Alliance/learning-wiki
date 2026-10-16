@@ -12,10 +12,15 @@ sources:
   - id: mayer-2018
     resource: "https://doi.org/10.1177/1046878118770831"
     title: "Mayer, I. (2018). Assessment of Teams in a Digital Game Environment. Simulation & Gaming, 49(6), 602-619. https://doi.org/10.1177/1046878118770831"
-    author: Mayer, I
+    author: Mayer, I.
+    q: 2
+    i: "?"
 ---
 
 # Team structure factors (gender, age, game experience) markedly influence TEAMUP speed and distance but not avoidable mistakes
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` All-male teams and younger teams are significantly faster and walk less in TEAMUP, but do not make fewer avoidable mistakes. [→ Mayer 2018](#mayer-2018)

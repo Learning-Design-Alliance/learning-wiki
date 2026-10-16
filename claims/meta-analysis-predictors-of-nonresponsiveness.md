@@ -12,10 +12,15 @@ sources:
   - id: al-otaiba-2006
     resource: "https://journals.sagepub.com/doi/10.1177/00222194060390050401"
     title: "Al Otaiba, S., & Fuchs, D. (2006). Who Are the Young Children for Whom Best Practices in Reading Are Ineffective? An Experimental and Longitudinal Study. Journal of Learning Disabilities, 39(5), 414-431. https://journals.sagepub.com/doi/10.1177/00222194060390050401"
-    author: "Al Otaiba, S., & Fuchs, D"
+    author: "Al Otaiba, S., & Fuchs, D."
+    q: 2
+    i: "?"
 ---
 
 # A meta-analysis attributes the strongest predictors of nonresponsiveness to rapid naming and problem behavior
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Nelson, Benner, and Gonzalez's meta-analysis reported noteworthy predictors of treatment effectiveness: rapid naming (Zr = 0.51), problem behavior (Zr = 0.46), phonological awareness (Zr = 0.42), alphabetic understanding (Zr = 0.35), memory (Zr = 0.31), IQ (Zr = 0.26), and demographics (Zr = 0.07). [→ Al Otaiba 2006](#al-otaiba-2006)

@@ -16,6 +16,9 @@ sources:
 
 # Engage trainees in focused observation tasks, collaborative learning tasks, and peer communities of practice to develop reflective practitioners
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends three linked approaches for ELT trainer preparation. First, structured observation tasks (following Wajnryb) that focus on "one or a small number of aspects of teaching or learning" and require collecting data from the actual lesson, developing a skilled and trained eye and reducing dependence on the trainer. Second, collaborative learning tasks such as role plays, simulations, problem solving, reflective discussion, group work and writing, designed to centre on a specific task with reflection as a goal, provide challenge, encourage integration, require ordering of thoughts and involve evaluation. Third, encouraging student teachers to create a "'community of practice' (Wenger, 1998)" in which they participate in dynamic collaborative inquiries and take collective responsibility for identifying and addressing their needs.
 

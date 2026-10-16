@@ -13,9 +13,14 @@ sources:
     resource: "http://www.eriainteractive.com/index.php"
     title: "Richard Halverson, Elizabeth Owen, Nathan Wills, R. Benjamin Shapiro. (2012). Game-Based Assessment: An integrated model for capturing evidence of learning in play. ERIA Working Paper. http://www.eriainteractive.com/index.php"
     author: Richard Halverson, Elizabeth Owen, Nathan Wills, R. Benjamin Shapiro
+    q: 2
+    i: "?"
 ---
 
 # Playing Progenitor X over three weeks produced a statistically significant 11% pre-post gain in stem-cell science content knowledge among 39 middle and high school students
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Students who played Progenitor X over a three-week period showed a statistically significant increase in stem-cell science content knowledge (11% gain, p=.01). [→ Richard Halverson 2012](#richard-halverson-2012)

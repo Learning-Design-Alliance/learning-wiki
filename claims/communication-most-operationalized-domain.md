@@ -12,10 +12,15 @@ sources:
   - id: markle-2013
     resource: "http://search.ets.org/researcher"
     title: "Markle, R., Brenneman, M., Jackson, T., Burrus, J., & Robbins, S. (2013). Synthesizing Frameworks of Higher Education Student Learning Outcomes. ETS Research Report Series, ETS RR-13-22. http://search.ets.org/researcher"
-    author: "Markle, R., Brenneman, M., Jackson, T., Burrus, J., & Robbins, S"
+    author: "Markle, R., Brenneman, M., Jackson, T., Burrus, J., & Robbins, S."
+    q: 2
+    i: "?"
 ---
 
 # Communication is the most extensively operationalized domain, with over 80 individual outcomes across all seven frameworks
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` All seven reviewed frameworks devoted significant attention to communication, yielding more than 80 individual outcomes whose common core is quality communication across message types, forms, and audiences. [→ Markle 2013](#markle-2013)

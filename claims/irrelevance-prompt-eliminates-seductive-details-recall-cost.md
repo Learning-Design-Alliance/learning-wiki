@@ -12,14 +12,21 @@ sources:
   - id: kienitz-2023
     resource: "https://doi.org/10.1007/s11251-023-09632-w"
     title: "Kienitz, A., Krebs, M.-C., & Eitel, A. (2023). Seductive details hamper learning even when they do not disrupt. Instructional Science. https://doi.org/10.1007/s11251-023-09632-w"
-    author: "Kienitz, A., Krebs, M.-C., & Eitel, A"
+    author: "Kienitz, A., Krebs, M.-C., & Eitel, A."
+    q: 3
+    i: 2
   - id: kienitz-2023-2
     resource: "https://doi.org/10.1007/s11251-023-09632-w"
     title: "Kienitz, A., Krebs, M.-C., & Eitel, A. (2023). Seductive details hamper learning even when they do not disrupt. Instructional Science. https://doi.org/10.1007/s11251-023-09632-w"
-    author: "Kienitz, A., Krebs, M.-C., & Eitel, A"
+    author: "Kienitz, A., Krebs, M.-C., & Eitel, A."
+    q: 3
+    i: "?"
 ---
 
 # An irrelevance prompt eliminates the recall cost of seductive details, supporting the diversion explanation
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Control and irrelevance-prompt participants outperformed no-prompt participants on recall, per the focal contrast. [→ Kienitz 2023](#kienitz-2023)

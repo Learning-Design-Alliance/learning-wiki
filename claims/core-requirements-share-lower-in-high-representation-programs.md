@@ -10,12 +10,15 @@ generated:
 evidence_strength: weak
 sources:
   - id: albert-lionelle-2024
-    resource: "https://doi.org/10.1145/3626252.3630835"
-    title: "Albert Lionelle, McKenna Quam, Carla Brodley, and Catherine Gill. 2024. Does Curricular Complexity in Computer Science Influence the Representation of Women CS Graduates?. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2024). https://doi.org/10.1145/3626252.3630835"
-    author: Albert Lionelle, McKenna Quam, Carla Brodley, and Catherine Gill
+    title: Albert Lionelle 2024
+    q: 2
+    i: "?"
 ---
 
 # Programs with higher representation of women require a smaller share of core CS credits (26% vs 33%) and offer more flexibility
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Core CS courses made up 26% of total credits in Group 1 programs versus 33% in Group 3, and Group 1 more often allowed one of multiple courses to fill a requirement. [→ Albert Lionelle 2024](#albert-lionelle-2024)

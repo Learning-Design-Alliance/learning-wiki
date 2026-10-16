@@ -13,9 +13,14 @@ sources:
     resource: "http://www.nber.org/papers/w20609"
     title: "Adam M. Lavecchia, Heidi Liu, and Philip Oreopoulos. (2014). Behavioral Economics of Education: Progress and Possibilities. NBER Working Paper No. 20609. http://www.nber.org/papers/w20609"
     author: Adam M. Lavecchia, Heidi Liu, and Philip Oreopoulos
+    q: 2
+    i: "?"
 ---
 
 # Text-message alerts to parents about incomplete middle-school homework raise student performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Virtually all parents offered text messages about their middle-school child's incomplete homework agreed to receive them, and children of randomly selected offered parents performed significantly better than children whose parents did not receive the offer. [→ Adam M. Lavecchia 2014](#adam-m-lavecchia-2014)

@@ -12,10 +12,15 @@ sources:
   - id: martinez-garza-2017
     resource: "https://doi.org/10.4018/IJGCMS.2017070101"
     title: "Martinez-Garza, M. M., & Clark, D. B. (2017). Investigating Epistemic Stances in Game Play with Data Mining. International Journal of Gaming and Computer-Mediated Simulations, 9(3). https://doi.org/10.4018/IJGCMS.2017070101"
-    author: "Martinez-Garza, M. M., & Clark, D. B"
+    author: "Martinez-Garza, M. M., & Clark, D. B."
+    q: 3
+    i: "?"
 ---
 
 # Solomon four-group pilot found significant pre-post gains from EPIGAME play with no testing effects and no pretest-by-treatment interaction
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In Study 1, a two-way within-subjects ANOVA showed significant pre-post gains (F = 10.61, df = 104, p < 0.01), no strong evidence of testing effects (F = 1.11, p = 0.29), and no pretest-treatment interaction (F = 0.36, p = 0.55). [→ Martinez-Garza 2017](#martinez-garza-2017)

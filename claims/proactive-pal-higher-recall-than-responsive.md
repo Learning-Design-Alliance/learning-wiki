@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1007/s11423-006-0637-3"
     title: "Yanghee Kim and Amy L. Baylor. (2006). A Social-Cognitive Framework for Pedagogical Agents as Learning Companions. ETR&D, Vol. 54, No. 6, pp. 569–596. https://doi.org/10.1007/s11423-006-0637-3"
     author: Yanghee Kim and Amy L. Baylor
+    q: 2
+    i: "?"
   - id: yanghee-kim-and-amy-l-baylor-2006-2
     resource: "https://doi.org/10.1007/s11423-006-0637-3"
     title: "Yanghee Kim and Amy L. Baylor. (2006). A Social-Cognitive Framework for Pedagogical Agents as Learning Companions. ETR&D, Vol. 54, No. 6, pp. 569–596. https://doi.org/10.1007/s11423-006-0637-3"
     author: Yanghee Kim and Amy L. Baylor
+    q: 2
+    i: "?"
 ---
 
 # Proactive PALs yielded higher recall than responsive PALs, with the advantage differing by learner academic strength
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Students working with a proactive PAL achieved higher recall than students working with a PAL that responded only to requests. [→ Yanghee Kim and Amy L. Baylor 2006](#yanghee-kim-and-amy-l-baylor-2006)

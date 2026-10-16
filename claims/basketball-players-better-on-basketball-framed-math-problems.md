@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.3102/0091732X07308962"
     title: "Na'ilah Suad Nasir, Victoria Hand and Edd V. Taylor. (2008). Culture and Mathematics in School: Boundaries between \"Cultural\" and \"Domain\" Knowledge in the Mathematics Classroom and Beyond. Review of Research in Education, Vol. 32. https://doi.org/10.3102/0091732X07308962"
     author: "Na'ilah Suad Nasir, Victoria Hand and Edd V. Taylor"
+    q: 2
+    i: "?"
 ---
 
 # Basketball players solved average and percentage problems better when framed by basketball practices than as school math worksheets, using different strategies across contexts
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Middle and high school basketball players were better able to solve average and percentage problems in basketball context than school worksheet format, and used invented strategies on basketball problems versus often-misremembered algorithms on school problems. [→ Na'ilah Suad Nasir 2008](#nailah-suad-nasir-2008)

@@ -12,10 +12,15 @@ sources:
   - id: malkiewich-2016
     resource: "https://eric.ed.gov/?q=Tenacious+Assessments+Using+In-Game+Behaviors"
     title: "Malkiewich, L. J., Lee, A., Slater, S., & Chase, C. C. (2016). Tenacious Assessments: Using In-Game Behaviors to Measure Student Persistence and Challenge Navigation. https://eric.ed.gov/?q=Tenacious+Assessments+Using+In-Game+Behaviors"
-    author: "Malkiewich, L. J., Lee, A., Slater, S., & Chase, C. C"
+    author: "Malkiewich, L. J., Lee, A., Slater, S., & Chase, C. C."
+    q: 2
+    i: 3
 ---
 
 # Downgrading to simpler code after failure on personally hard levels is negatively associated with persistence on an unsolvable task
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
 
 ## Subclaims
 `q2 i3` Relative-Hard Code Downgrades correlated negatively with challenge time (r = -0.56, p = .02; partial r = -0.62, p < .01 after correction), but added no unique variance beyond Relative-Hards Solved Complex. [→ Malkiewich 2016](#malkiewich-2016)

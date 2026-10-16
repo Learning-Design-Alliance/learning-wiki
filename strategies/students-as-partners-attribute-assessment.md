@@ -16,6 +16,9 @@ sources:
 
 # Engage students as active partners in attribute assessment through negotiated tasks, evidence collection and claims of achievement
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The paper recommends engaging students as active partners in directing their own learning rather than assessing attributes 'for rather than with students'. Drawing on Alverno College's experience, the strategy involves negotiation of assessment tasks, collection of evidence of progress in relation to specific attributes, submission of well-founded claims of achievement, and engagement in dialogue about progress with teachers and peers. The reflective process underpinning this approach is identified as of key importance.
 

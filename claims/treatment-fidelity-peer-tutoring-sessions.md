@@ -12,10 +12,15 @@ sources:
   - id: mackiewicz-2011
     resource: "https://doi.org/10.1177/0741932510362507"
     title: "Mackiewicz, S. M., Wood, C. L., Cooke, N. L., & Mazzotti, V. L. (2011). Effects of Peer Tutoring With Audio Prompting on Vocabulary Acquisition for Struggling Readers. Remedial and Special Education, 32(4), 345–354. https://doi.org/10.1177/0741932510362507"
-    author: "Mackiewicz, S. M., Wood, C. L., Cooke, N. L., & Mazzotti, V. L"
+    author: "Mackiewicz, S. M., Wood, C. L., Cooke, N. L., & Mazzotti, V. L."
+    q: 2
+    i: "?"
 ---
 
 # Tutoring sessions were implemented with high procedural fidelity (mean 93.4%)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Observation of 25.8% of sessions with a 210-item checklist showed mean implementation accuracy of 93.4%, ranging from 75.7% to 99.5%. [→ Mackiewicz 2011](#mackiewicz-2011)

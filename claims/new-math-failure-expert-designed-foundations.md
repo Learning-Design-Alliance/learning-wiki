@@ -12,10 +12,15 @@ sources:
   - id: nathan-2001
     resource: "https://www.google.com/search?q=%22Expert+Blind+Spot%22+Nathan+Koedinger+Alibali"
     title: "Nathan, M. J., Koedinger, K. R., & Alibali, M. W. (2001). Expert Blind Spot: When Content Knowledge Eclipses Pedagogical Content Knowledge. Proceeding of the Third International Conference on Cognitive Science. https://www.google.com/search?q=%22Expert+Blind+Spot%22+Nathan+Koedinger+Alibali"
-    author: "Nathan, M. J., Koedinger, K. R., & Alibali, M. W"
+    author: "Nathan, M. J., Koedinger, K. R., & Alibali, M. W."
+    q: 1
+    i: "?"
 ---
 
 # The New Math movement failed because its foundational concepts were designed to highlight the domain's organization with little regard to how it was to be learned or taught
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` The article attributes the failure of the 1950s New Math curriculum to mathematicians designing foundations around the logical organization of the domain, blinding them to the struggles of novice students and non-expert teachers. [→ Nathan 2001](#nathan-2001)

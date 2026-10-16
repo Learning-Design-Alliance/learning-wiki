@@ -12,10 +12,15 @@ sources:
   - id: bell-2008
     resource: "http://digitalcommons.ilr.cornell.edu/articles/410/"
     title: "Bell, B. S., & Kozlowski, S. W. J. (2008). Active learning: Effects of core training design elements on self-regulatory processes, learning, and adaptability. Journal of Applied Psychology, 93(2), 296-316. http://digitalcommons.ilr.cornell.edu/articles/410/"
-    author: "Bell, B. S., & Kozlowski, S. W. J"
+    author: "Bell, B. S., & Kozlowski, S. W. J."
+    q: 1
+    i: "?"
 ---
 
 # Exploratory learning is expected to raise metacognitive activity, which in turn increases strategic knowledge and adaptive transfer
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Exploratory learning, relative to proceduralized instruction, is hypothesized to lead to greater metacognitive activity, which in turn leads to increased strategic knowledge and adaptive transfer. [→ Bell 2008](#bell-2008)

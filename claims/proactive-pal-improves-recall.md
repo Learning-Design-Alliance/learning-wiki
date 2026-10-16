@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11423-006-8805-z"
     title: "Kim, Y., Baylor, A. L., & PALS Group. (2006). Pedagogical Agents as Learning Companions: The Role of Agent Competency and Type of Interaction. Educational Technology Research and Development, 54(3), 223-243. https://doi.org/10.1007/s11423-006-8805-z"
     author: "Kim, Y., Baylor, A. L., & PALS Group"
+    q: 3
+    i: 2
 ---
 
 # A proactive PAL improves learners' recall of the agent's ideas more than a responsive PAL (d = 0.78)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Students in the proactive condition recalled significantly more of the PAL's ideas than students in the responsive condition (Cohen's d = 0.78). [→ Kim 2006](#kim-2006)

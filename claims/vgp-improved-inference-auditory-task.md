@@ -12,10 +12,15 @@ sources:
   - id: green-2010
     resource: "https://doi.org/10.1016/j.cub.2010.07.040"
     title: "Green, C.S., Pouget, A., & Bavelier, D. (2010). Improved probabilistic inference as a general learning mechanism with action video games. Current Biology. https://doi.org/10.1016/j.cub.2010.07.040"
-    author: "Green, C.S., Pouget, A., & Bavelier, D"
+    author: "Green, C.S., Pouget, A., & Bavelier, D."
+    q: 3
+    i: 3
 ---
 
 # The improved probabilistic inference of VGPs generalizes to a novel auditory tone-location discrimination task
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` In Experiment 2, the integration rate parameter was significantly greater in VGPs (Cohen's d = 1.66), the decision bound significantly smaller, and log odds were 48% higher in VGPs across SNR levels. [→ Green 2010](#green-2010)

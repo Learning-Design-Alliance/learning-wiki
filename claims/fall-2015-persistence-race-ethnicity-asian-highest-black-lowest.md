@@ -13,9 +13,14 @@ sources:
     resource: "https://nscresearchcenter.org/wp-content/uploads/NSC_SnapshotReport28_PersistenceRetention_Data_Tables.xlsx"
     title: "First-Year Persistence and Retention. (2017). National Student Clearinghouse Snapshot Report. https://nscresearchcenter.org/wp-content/uploads/NSC_SnapshotReport28_PersistenceRetention_Data_Tables.xlsx"
     author: First-Year Persistence and Retention
+    q: 2
+    i: "?"
 ---
 
 # Among fall 2015 entrants, Asian students had the highest persistence rate (84.2 percent) and Black students the lowest (66.9 percent)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Asian students had the highest persistence rate (84.2 percent, with 72.9 percent retained at the starting institution) and Black students the lowest (66.9 percent, with 54.5 percent retained). [→ First-Year Persistence and Retention 2017](#first-year-persistence-and-retention-2017)

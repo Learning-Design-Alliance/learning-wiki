@@ -12,10 +12,15 @@ sources:
   - id: bell-2008
     resource: "http://digitalcommons.ilr.cornell.edu/articles/410/"
     title: "Bell, B. S., & Kozlowski, S. W. J. (2008). Active learning: Effects of core training design elements on self-regulatory processes, learning, and adaptability. Journal of Applied Psychology, 93(2), 296-316. http://digitalcommons.ilr.cornell.edu/articles/410/"
-    author: "Bell, B. S., & Kozlowski, S. W. J"
+    author: "Bell, B. S., & Kozlowski, S. W. J."
+    q: 1
+    i: "?"
 ---
 
 # An emotion-control strategy is expected to lower state anxiety early in training, with a stronger negative relationship for trainees high in trait anxiety
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Trainees provided with emotion-control training are expected to show lower state anxiety early in training, leading to higher self-efficacy and performance; the effect is expected to be stronger for individuals high in trait anxiety. [→ Bell 2008](#bell-2008)

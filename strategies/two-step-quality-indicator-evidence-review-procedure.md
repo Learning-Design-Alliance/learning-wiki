@@ -16,6 +16,9 @@ sources:
 
 # Use a two-step quality-indicator and decision-rule procedure that considers both high-quality and acceptable-quality research when establishing level of evidence
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The review used the NSTTAC two-step procedure: first applying a 20-item quality indicator checklist to rate studies high or acceptable quality, then applying decision rules on number of studies, research teams, functional relationship, and contradictory evidence to classify evidence as strong, moderate, or potential. The authors argue that "a procedure like the one developed by Test et al. (2009) that considers both high-quality and acceptable quality research when establishing the level of evidence for an instructional practice may be useful" when the review's purpose is helping educators make informed decisions.
 

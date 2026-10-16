@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1111/1475-6773.14106"
     title: "Graham LA, Gray C, Wagner TH, Illarmo S, Hawn MT, Wren SM, Iannuzzi J, Harris AHS. (2023). Applying cognitive task analysis to health services research. Health Services Research. https://doi.org/10.1111/1475-6773.14106"
     author: Graham LA, Gray C, Wagner TH, Illarmo S, Hawn MT, Wren SM, Iannuzzi J, Harris AHS
+    q: 2
+    i: "?"
 ---
 
 # Applying the adapted CTA framework in the discharge pilot uncovered previously unknown stakeholders and barriers
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Applying the adapted CTA framework in the ongoing discharge planning pilot uncovered key stakeholders in the discharge process of which the team was initially unaware, as well as numerous barriers to discharging a patient after surgery. [→ Graham LA 2023](#graham-la-2023)

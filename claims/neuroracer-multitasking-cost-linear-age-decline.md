@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1038/nature12486"
     title: "J. A. Anguera, J. Boccanfuso, J. L. Rintoul, O. Al-Hashimi, F. Faraji, J. Janowich, E. Kong, Y. Larraburo, C. Rolle, E. Johnston & A. Gazzaley. (2013). Video game training enhances cognitive control in older adults. Nature 501. https://doi.org/10.1038/nature12486"
     author: "J. A. Anguera, J. Boccanfuso, J. L. Rintoul, O. Al-Hashimi, F. Faraji, J. Janowich, E. Kong, Y. Larraburo, C. Rolle, E. Johnston & A. Gazzaley"
+    q: 3
+    i: 3
 ---
 
 # Multitasking performance on NeuroRacer declines linearly across the adult lifespan from ages 20 to 79
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` Multitasking cost (d' percentage change from sign only to sign and drive) increased linearly with age decade across 174 participants aged 20–79. [→ J. A. Anguera 2013](#j-a-anguera-2013)

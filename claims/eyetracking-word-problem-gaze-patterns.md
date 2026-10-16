@@ -12,14 +12,21 @@ sources:
   - id: ritter-2007
     resource: "https://doi.org/10.3758/bf03194060"
     title: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A. (2007). Cognitive Tutor: Applied research in mathematics education. Psychonomic Bulletin & Review, 2007, 14 (2), 249-255. https://doi.org/10.3758/bf03194060"
-    author: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A"
+    author: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A."
+    q: 2
+    i: "?"
   - id: ritter-2007-2
     resource: "https://doi.org/10.3758/bf03194060"
     title: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A. (2007). Cognitive Tutor: Applied research in mathematics education. Psychonomic Bulletin & Review, 2007, 14 (2), 249-255. https://doi.org/10.3758/bf03194060"
-    author: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A"
+    author: "Ritter, S., Anderson, J. R., Koedinger, K. R., & Corbett, A."
+    q: 1
+    i: "?"
 ---
 
 # Eyetracking showed students often answer word problems without looking at the algebraic expression, leading the curriculum to treat expression-writing as an induction task with the formula row moved to the bottom of the table
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q1`–`q2`
 
 ## Subclaims
 `q2 i?` Students looked at the problem scenario but not the expression about 13% of the time, at the expression 54% of the time, and at neither almost 34% of the time. [→ Ritter 2007](#ritter-2007)

@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1080/03075079.2012.754865"
     title: "Janneke M. Frambach, Erik W. Driessen, Philip Beh and Cees P.M. van der Vleuten. (2014). Quiet or questioning? Students' discussion behaviors in student-centered education across cultures. Studies in Higher Education. https://doi.org/10.1080/03075079.2012.754865"
     author: Janneke M. Frambach, Erik W. Driessen, Philip Beh and Cees P.M. van der Vleuten
+    q: 2
+    i: "?"
 ---
 
 # Six contextual factors mediate the influence of cultural factors on discussion behaviors, either inhibiting or enhancing discussion
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Six contextual factors — prior school education, scope of PBL implementation, personal characteristics, language of instruction, tutor behavior, and the assessment system — either inhibited or enhanced discussion behaviors. [→ Janneke M. Frambach 2014](#janneke-m-frambach-2014)

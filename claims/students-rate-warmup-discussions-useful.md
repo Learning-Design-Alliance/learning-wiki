@@ -12,10 +12,15 @@ sources:
   - id: marrs-2004
     resource: "https://doi.org/10.1187/cbe.03-11-0022"
     title: "Marrs, K.A., and Novak, G. (2004). Just-in-Time Teaching in Biology: Creating an Active Learner Classroom Using the Internet. Cell Biology Education 3, 49–61. https://doi.org/10.1187/cbe.03-11-0022"
-    author: Marrs, K.A., and Novak, G
+    author: Marrs, K.A., and Novak, G.
+    q: 2
+    i: "?"
 ---
 
 # Students rated class discussions of Warm Up responses as very useful (87%, n = 485)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` 87% of N100 students rated class discussions of Warm Up responses as very useful to learning the fine points of a concept (n = 485, three semesters). [→ Marrs 2004](#marrs-2004)

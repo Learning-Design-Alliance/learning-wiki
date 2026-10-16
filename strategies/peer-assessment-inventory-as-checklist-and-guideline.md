@@ -16,6 +16,9 @@ sources:
 
 # Use the inventory as a checklist of design decisions for teachers and a reporting guideline for researchers
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article proposes two uses of the inventory: for teachers and advisors it functions 'as a source of inspiration or as a checklist of important decisions to make when working with peer evaluation', helping them see alternatives to implicit choices; for researchers it is a guide to covering the full scope of design particularities when introducing or reporting a peer assessment design, which should make replication studies, interaction-effect studies and synthesis more straightforward.
 

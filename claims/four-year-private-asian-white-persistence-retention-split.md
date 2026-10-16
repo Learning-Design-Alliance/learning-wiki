@@ -13,9 +13,14 @@ sources:
     resource: "https://nscresearchcenter.org/wp-content/uploads/NSC_SnapshotReport28_PersistenceRetention_Data_Tables.xlsx"
     title: "First-Year Persistence and Retention. (2017). National Student Clearinghouse Snapshot Report. https://nscresearchcenter.org/wp-content/uploads/NSC_SnapshotReport28_PersistenceRetention_Data_Tables.xlsx"
     author: First-Year Persistence and Retention
+    q: 2
+    i: "?"
 ---
 
 # In four-year private institutions, white and Asian students had nearly identical persistence rates (89.8 and 89.6 percent), but Asian students were more likely to continue at their starting institution (82.5 percent)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Among fall 2015 four-year private entrants, white and Asian students had nearly identical persistence rates (89.8 and 89.6 percent), while Asian students were more likely to continue at their starting institution (82.5 percent). [→ First-Year Persistence and Retention 2017](#first-year-persistence-and-retention-2017)

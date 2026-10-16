@@ -12,14 +12,21 @@ sources:
   - id: nathan-2001
     resource: "https://www.google.com/search?q=%22Expert+Blind+Spot%22+Nathan+Koedinger+Alibali"
     title: "Nathan, M. J., Koedinger, K. R., & Alibali, M. W. (2001). Expert Blind Spot: When Content Knowledge Eclipses Pedagogical Content Knowledge. Proceeding of the Third International Conference on Cognitive Science. https://www.google.com/search?q=%22Expert+Blind+Spot%22+Nathan+Koedinger+Alibali"
-    author: "Nathan, M. J., Koedinger, K. R., & Alibali, M. W"
+    author: "Nathan, M. J., Koedinger, K. R., & Alibali, M. W."
+    q: 1
+    i: "?"
   - id: nathan-2001-2
     resource: "https://www.google.com/search?q=%22Expert+Blind+Spot%22+Nathan+Koedinger+Alibali"
     title: "Nathan, M. J., Koedinger, K. R., & Alibali, M. W. (2001). Expert Blind Spot: When Content Knowledge Eclipses Pedagogical Content Knowledge. Proceeding of the Third International Conference on Cognitive Science. https://www.google.com/search?q=%22Expert+Blind+Spot%22+Nathan+Koedinger+Alibali"
-    author: "Nathan, M. J., Koedinger, K. R., & Alibali, M. W"
+    author: "Nathan, M. J., Koedinger, K. R., & Alibali, M. W."
+    q: 1
+    i: "?"
 ---
 
 # Experts have reduced access to memory traces of their own cognitive processes due to automatization, and large domain knowledge can disadvantage performance on certain tasks
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Think aloud reports show experts are less likely to have access to memory traces of their cognitive processes within their domain of expertise, attributed to automatization. [→ Nathan 2001](#nathan-2001)

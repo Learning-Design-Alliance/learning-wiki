@@ -13,9 +13,14 @@ sources:
     resource: "https://nscresearchcenter.org/wp-content/uploads/NSC_SnapshotReport28_PersistenceRetention_Data_Tables.xlsx"
     title: "First-Year Persistence and Retention. (2017). National Student Clearinghouse Snapshot Report. https://nscresearchcenter.org/wp-content/uploads/NSC_SnapshotReport28_PersistenceRetention_Data_Tables.xlsx"
     author: First-Year Persistence and Retention
+    q: 2
+    i: "?"
 ---
 
 # On average, the overall persistence rate is about 13 percentage points higher than the retention rate, meaning nearly one in eight starting students transfer by the following fall
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Across the included years, persistence exceeds retention by about 13 percentage points on average, so nearly one in eight students who start college in any fall term transfer to a different institution by the following fall. [→ First-Year Persistence and Retention 2017](#first-year-persistence-and-retention-2017)

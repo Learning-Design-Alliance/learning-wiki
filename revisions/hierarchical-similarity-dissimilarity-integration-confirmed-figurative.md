@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/hierarchical-similarity-dissimilarity-integration-confirmed-figurative.md
+---
+
+# Revision history: [claims/hierarchical-similarity-dissimilarity-integration-confirmed-figurative](../claims/hierarchical-similarity-dissimilarity-integration-confirmed-figurative.md)
+
+### 2026-10-16 · ingest · process:wiki-ingest
+Ingested from zot-pasztor-2022-online-assessment-and-gamebased-development-of-inductive (Online Assessment and Game-Based Development of Inductive Reasoning) via eval_harness.py + ingest_extractions.py

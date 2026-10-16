@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1038/nature12486"
     title: "J. A. Anguera, J. Boccanfuso, J. L. Rintoul, O. Al-Hashimi, F. Faraji, J. Janowich, E. Kong, Y. Larraburo, C. Rolle, E. Johnston & A. Gazzaley. (2013). Video game training enhances cognitive control in older adults. Nature 501. https://doi.org/10.1038/nature12486"
     author: "J. A. Anguera, J. Boccanfuso, J. L. Rintoul, O. Al-Hashimi, F. Faraji, J. Janowich, E. Kong, Y. Larraburo, C. Rolle, E. Johnston & A. Gazzaley"
+    q: 3
+    i: "?"
 ---
 
 # Multitasking training increased midline frontal theta power and frontal–posterior theta coherence in older adults only in the multitasking condition and only for the MTT group
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Theta power and coherence each showed significant condition × session × group interactions, with significant pre- to post-training increases only for MTT during sign and drive; the article reports the interactions exceeded Cohen's d of 0.93 but prints no exact effect size value. [→ J. A. Anguera 2013](#j-a-anguera-2013)

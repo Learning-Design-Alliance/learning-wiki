@@ -13,13 +13,20 @@ sources:
     resource: "https://www.ed.gov/about/offices/list/opepd/ppss/reports.html"
     title: "Means, Toyama, Murphy, Bakia, & Jones. (2009). Evaluation of Evidence-Based Practices in Online Learning: A Meta-Analysis and Review of Online Learning Studies. U.S. Department of Education. https://www.ed.gov/about/offices/list/opepd/ppss/reports.html"
     author: "Means, Toyama, Murphy, Bakia, & Jones"
+    q: 3
+    i: 1
   - id: means-2009-2
     resource: "https://www.ed.gov/about/offices/list/opepd/ppss/reports.html"
     title: "Means, Toyama, Murphy, Bakia, & Jones. (2009). Evaluation of Evidence-Based Practices in Online Learning: A Meta-Analysis and Review of Online Learning Studies. U.S. Department of Education. https://www.ed.gov/about/offices/list/opepd/ppss/reports.html"
     author: "Means, Toyama, Murphy, Bakia, & Jones"
+    q: 3
+    i: "?"
 ---
 
 # Students in online learning conditions performed better on average than those receiving face-to-face instruction (mean effect size +0.24, p < .01, across 51 contrasts).
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` Across 51 independent effect sizes from experimental or controlled quasi-experimental studies, mean student learning outcomes favored online conditions over face-to-face instruction, with an average effect size of +0.24, statistically significant at p < .01. [→ Means 2009](#means-2009)

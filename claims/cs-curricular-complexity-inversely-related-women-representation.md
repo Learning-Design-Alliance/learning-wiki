@@ -10,12 +10,15 @@ generated:
 evidence_strength: moderate
 sources:
   - id: albert-lionelle-2024
-    resource: "https://doi.org/10.1145/3626252.3630835"
-    title: "Albert Lionelle, McKenna Quam, Carla Brodley, and Catherine Gill. 2024. Does Curricular Complexity in Computer Science Influence the Representation of Women CS Graduates?. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2024). https://doi.org/10.1145/3626252.3630835"
-    author: Albert Lionelle, McKenna Quam, Carla Brodley, and Catherine Gill
+    title: Albert Lionelle 2024
+    q: 2
+    i: "?"
 ---
 
 # CS programs with higher structural curricular complexity have lower representation of women graduates (ANOVA across three representation groups)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Among 60 CS degree programs grouped by representation of women graduates, structural complexity differed significantly across groups, with higher complexity correlated with lower representation of women. [→ Albert Lionelle 2024](#albert-lionelle-2024)

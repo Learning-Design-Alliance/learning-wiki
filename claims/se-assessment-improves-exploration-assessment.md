@@ -13,9 +13,14 @@ sources:
     resource: "https://www.cs.ubc.ca"
     title: "Christina Merten and Cristina Conati. (2005). Eye-Tracking to Model and Adapt to User Meta-cognition in Intelligent Learning Environments. https://www.cs.ubc.ca"
     author: Christina Merten and Cristina Conati
+    q: 2
+    i: "?"
 ---
 
 # More accurate assessment of self-explanation significantly improves the model's assessment of student learning through exploration
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Each successive model version (no self-explanation, time-only, time plus gaze shifts) increased accuracy of exploration-node assessment, with both ROC-area increases statistically significant at the z > 1.96 level. [→ Christina Merten and Cristina Conati 2005](#christina-merten-and-cristina-conati-2005)

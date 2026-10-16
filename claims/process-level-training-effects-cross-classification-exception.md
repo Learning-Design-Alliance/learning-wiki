@@ -10,20 +10,23 @@ generated:
 evidence_strength: moderate
 sources:
   - id: pásztor-2022
-    resource: "https://doi.org/10.3390/jintelligence10030059"
-    title: "Pásztor, Attila, Andrea Magyar, Anita Pásztor-Kovács, and Attila Rausch. 2022. Online Assessment and Game-Based Development of Inductive Reasoning. Journal of Intelligence 10: 59. https://doi.org/10.3390/jintelligence10030059"
-    author: Pásztor, Attila, Andrea Magyar, Anita Pásztor-Kovács, and Attila Rausch
+    title: Pásztor 2022
+    q: 3
+    i: 1
   - id: pásztor-2022-2
-    resource: "https://doi.org/10.3390/jintelligence10030059"
-    title: "Pásztor, Attila, Andrea Magyar, Anita Pásztor-Kovács, and Attila Rausch. 2022. Online Assessment and Game-Based Development of Inductive Reasoning. Journal of Intelligence 10: 59. https://doi.org/10.3390/jintelligence10030059"
-    author: Pásztor, Attila, Andrea Magyar, Anita Pásztor-Kovács, and Attila Rausch
+    title: Pásztor 2022 (2)
+    q: 3
+    i: 2
 ---
 
 # Training effects varied by inductive reasoning process: all processes except Cross classification developed significantly, with the largest effects in Recognizing and Differentiating relationships
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i1`–`i2`
+
 ## Subclaims
-`q3 i1` For the experimental group, all inductive reasoning processes except Cross classification developed significantly; corrected effect sizes were largest for Differentiating relationships (.53) and Recognizing relationships (.42), while Cross classification was .03. [→ Pásztor 2022](#pásztor-2022)
-`q3 i2` At the factor level, corrected effect sizes were close to 0.5 standard deviations for Similarity (.41) and Dissimilarity (.47) but much smaller for Integration (.13). [→ Pásztor 2022 (2)](#pásztor-2022-2)
+`q3 i1` For the experimental group, all inductive reasoning processes except Cross classification developed significantly; corrected effect sizes were largest for Differentiating relationships (.53) and Recognizing relationships (.42), while Cross classification was .03. [→ Pásztor 2022](#pasztor-2022)
+`q3 i2` At the factor level, corrected effect sizes were close to 0.5 standard deviations for Similarity (.41) and Dissimilarity (.47) but much smaller for Integration (.13). [→ Pásztor 2022 (2)](#pasztor-2022-2)
 
 ## Evidence
 

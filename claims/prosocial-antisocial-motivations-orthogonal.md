@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1089/cyber.2011.0311"
     title: "Nicholas David Bowman, Daniel Schultheiss, and Christina Schumann. (2012). 'I'm Attached, and I'm a Good Guy/Gal!': How Character Attachment Influences Pro- and Anti-Social Motivations to Play Massively Multiplayer Online Role-Playing Games. CyberPsychology, Behavior, and Social Networking. https://doi.org/10.1089/cyber.2011.0311"
     author: Nicholas David Bowman, Daniel Schultheiss, and Christina Schumann
+    q: 2
+    i: "?"
 ---
 
 # Pro-social and anti-social gaming motivations emerged as orthogonal factors from a principal components analysis
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` A principal components analysis of play motivation items yielded two orthogonal factors, pro-social and anti-social gaming, that were uncorrelated (r = -0.034, p = 0.487). [→ Nicholas David Bowman 2012](#nicholas-david-bowman-2012)

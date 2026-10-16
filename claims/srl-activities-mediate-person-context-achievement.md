@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1016/b978-012109890-2/50043-3"
     title: "Paul R. Pintrich. (2000). The Role of Goal Orientation in Self-Regulated Learning. Handbook of Self-Regulation, Academic Press. https://doi.org/10.1016/b978-012109890-2/50043-3"
     author: Paul R. Pintrich
+    q: 2
+    i: "?"
 ---
 
 # Self-regulatory activities mediate the relationship between person, context, and achievement
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Models of SRL assume self-regulatory activities mediate the relationships between personal and contextual characteristics and achievement or performance. [→ Paul R. Pintrich 2000](#paul-r-pintrich-2000)

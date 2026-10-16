@@ -12,10 +12,15 @@ sources:
   - id: rahimi-2021
     resource: "https://doi.org/10.46328/ijtes.118"
     title: "Rahimi, S., Shute, V., & Zhang, Q. (2021). The effects of game and student characteristics on persistence in educational games: A hierarchical linear modeling approach. International Journal of Technology in Education and Science (IJTES), 5(2), 141-165. https://doi.org/10.46328/ijtes.118"
-    author: "Rahimi, S., Shute, V., & Zhang, Q"
+    author: "Rahimi, S., Shute, V., & Zhang, Q."
+    q: 2
+    i: "?"
 ---
 
 # Gender, gaming frequency, and physics knowledge were not significant predictors of persistence
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Gaming frequency, gender, physics knowledge, and posttest scores did not significantly predict persistence, contrary to the authors' hypotheses. [→ Rahimi 2021](#rahimi-2021)

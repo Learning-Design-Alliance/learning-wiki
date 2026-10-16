@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1038/nature12486"
     title: "J. A. Anguera, J. Boccanfuso, J. L. Rintoul, O. Al-Hashimi, F. Faraji, J. Janowich, E. Kong, Y. Larraburo, C. Rolle, E. Johnston & A. Gazzaley. (2013). Video game training enhances cognitive control in older adults. Nature 501. https://doi.org/10.1038/nature12486"
     author: "J. A. Anguera, J. Boccanfuso, J. L. Rintoul, O. Al-Hashimi, F. Faraji, J. Janowich, E. Kong, Y. Larraburo, C. Rolle, E. Johnston & A. Gazzaley"
+    q: 3
+    i: 3
   - id: j-a-anguera-2013-2
     resource: "https://doi.org/10.1038/nature12486"
     title: "J. A. Anguera, J. Boccanfuso, J. L. Rintoul, O. Al-Hashimi, F. Faraji, J. Janowich, E. Kong, Y. Larraburo, C. Rolle, E. Johnston & A. Gazzaley. (2013). Video game training enhances cognitive control in older adults. Nature 501. https://doi.org/10.1038/nature12486"
     author: "J. A. Anguera, J. Boccanfuso, J. L. Rintoul, O. Al-Hashimi, F. Faraji, J. Janowich, E. Kong, Y. Larraburo, C. Rolle, E. Johnston & A. Gazzaley"
+    q: 3
+    i: "?"
 ---
 
 # Multitasking training on adaptive NeuroRacer reduced older adults' multitasking costs beyond active and no-contact controls, exceeding untrained 20-year-olds, with gains persisting 6 months
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` Only the multitasking training group significantly improved its multitasking performance index from pre- to post-training, with a session × group interaction favouring MTT over both control groups. [→ J. A. Anguera 2013](#j-a-anguera-2013)

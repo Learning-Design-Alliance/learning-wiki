@@ -13,9 +13,14 @@ sources:
     resource: "http://www.eriainteractive.com/index.php"
     title: "Richard Halverson, Elizabeth Owen, Nathan Wills, R. Benjamin Shapiro. (2012). Game-Based Assessment: An integrated model for capturing evidence of learning in play. ERIA Working Paper. http://www.eriainteractive.com/index.php"
     author: Richard Halverson, Elizabeth Owen, Nathan Wills, R. Benjamin Shapiro
+    q: 2
+    i: 3
 ---
 
 # Upper-quartile and lower-quartile learning-gain players showed opposite correlations between cell-cycle activity and learning, and lower-quartile players had more far failures (7 vs 2.3 average cycles)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
 
 ## Subclaims
 `q2 i3` Upper-quartile players' cell starts correlated positively with gains (r = .7059) while lower-quartile players' correlated negatively (r = -.8641); lower-quartile players averaged 7 far-failure cycles versus 2.3 for upper-quartile players, with comparable total failures. [→ Richard Halverson 2012](#richard-halverson-2012)

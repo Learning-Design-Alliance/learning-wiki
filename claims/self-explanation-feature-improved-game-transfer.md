@@ -12,10 +12,15 @@ sources:
   - id: mayer-2014
     resource: "http://direct.mit.edu/books/monograph/4028/bookpreview-pdf/2362507"
     title: "Mayer, Richard E. (2014). Computer Games for Learning: An Evidence-Based Approach. The MIT Press. http://direct.mit.edu/books/monograph/4028/bookpreview-pdf/2362507"
-    author: Mayer, Richard E
+    author: Mayer, Richard E.
+    q: 2
+    i: "?"
 ---
 
 # Adding a self-explanation feature to a base game improved transfer performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Students who played the base version of The Circuit Game plus prompts to self-explain each major decision performed better on solving transfer problems than students who played the base version alone. [→ Mayer 2014](#mayer-2014)

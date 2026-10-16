@@ -13,9 +13,14 @@ sources:
     resource: "https://arxiv.org/abs/1307.2579"
     title: "Chris Piech, Jonathan Huang, Zhenghao Chen, Chuong Do, Andrew Ng, Daphne Koller. (2013). Tuned Models of Peer Assessment in MOOCs. arXiv. https://arxiv.org/abs/1307.2579"
     author: Chris Piech, Jonathan Huang, Zhenghao Chen, Chuong Do, Andrew Ng, Daphne Koller
+    q: 2
+    i: "?"
 ---
 
 # Including grader bias and reliability as features improves prediction of future course participation from AUC 0.93 to 0.98, capturing an engagement dimension missed by assignment grade
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In a classification task predicting whether a student participates in the next assignment, adding grader bias and reliability to a linear classifier with the student's grade improved AUC from 0.93 to 0.98 (a 5pp improvement). [→ Chris Piech 2013](#chris-piech-2013)

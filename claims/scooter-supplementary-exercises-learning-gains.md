@@ -12,10 +12,15 @@ sources:
   - id: koedinger-2008
     resource: "https://learnlab.org/"
     title: "Koedinger, K., Aleven, V., Roll, I., & Baker, R. (2008). In vivo experiments on whether supporting metacognition in intelligent tutoring systems yields robust learning. https://learnlab.org/"
-    author: "Koedinger, K., Aleven, V., Roll, I., & Baker, R"
+    author: "Koedinger, K., Aleven, V., Roll, I., & Baker, R."
+    q: 3
+    i: "?"
 ---
 
 # Students receiving the most Scooter supplementary exercises showed significantly better learning and caught up by post-test, though there was no overall between-condition learning effect
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` The top third of students by supplementary exercises received had significantly better learning than the other two thirds, starting behind but catching up by post-test. [→ Koedinger 2008](#koedinger-2008)

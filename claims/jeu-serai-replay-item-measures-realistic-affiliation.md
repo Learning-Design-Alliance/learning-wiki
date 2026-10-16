@@ -12,14 +12,21 @@ sources:
   - id: guardiola-2015
     resource: "https://doi.org/10.1007/978-3-319-05834-4_16"
     title: "Guardiola, E., & Natkin, S. (2015). A Game Design Methodology for Generating a Psychological Profile of Players. In Serious Games Analytics, Methodologies for Performance Measurement, Assessment, and Improvement. Springer. https://doi.org/10.1007/978-3-319-05834-4_16"
-    author: "Guardiola, E., & Natkin, S"
+    author: "Guardiola, E., & Natkin, S."
+    q: 2
+    i: "?"
   - id: guardiola-2015-2
     resource: "https://doi.org/10.1007/978-3-319-05834-4_16"
     title: "Guardiola, E., & Natkin, S. (2015). A Game Design Methodology for Generating a Psychological Profile of Players. In Serious Games Analytics, Methodologies for Performance Measurement, Assessment, and Improvement. Springer. https://doi.org/10.1007/978-3-319-05834-4_16"
-    author: "Guardiola, E., & Natkin, S"
+    author: "Guardiola, E., & Natkin, S."
+    q: 2
+    i: "?"
 ---
 
 # The replay item in JEU SERAI indicated Realistic type affiliation regardless of the anticipated RIASEC type of the mini game replayed
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Only two mini games out of 18 had their best replay correlation with the right RIASEC type, contrary to the preference hypothesis. [→ Guardiola 2015](#guardiola-2015)

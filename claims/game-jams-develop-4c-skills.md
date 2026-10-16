@@ -12,10 +12,15 @@ sources:
   - id: contreras-espinosa-2022
     resource: "https://doi.org/10.3390/su14042246"
     title: "Contreras-Espinosa, R.S.; Eguia-Gomez, J.L. (2022). Game Jams as Valuable Tools for the Development of 21st-Century Skills. Sustainability 2022, 14, 2246. https://doi.org/10.3390/su14042246"
-    author: Contreras-Espinosa, R.S.; Eguia-Gomez, J.L
+    author: Contreras-Espinosa, R.S.; Eguia-Gomez, J.L.
+    q: 2
+    i: "?"
 ---
 
 # Participating in game jams develops 4C skills (critical thinking, creativity, communication, collaboration) in adolescent students, though skill gains are difficult to verify
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Participants in three game jams reported increased creativity, collaboration, communication and critical thinking, but outcomes of skill evaluation may vary and are difficult to verify. [→ Contreras-Espinosa 2022](#contreras-espinosa-2022)

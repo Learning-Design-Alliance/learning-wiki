@@ -12,10 +12,15 @@ sources:
   - id: pashler-2009
     resource: "https://journals.sagepub.com/"
     title: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2009). Learning Styles: Concepts and Evidence. Psychological Science in the Public Interest, Volume 9 Number 3. https://journals.sagepub.com/"
-    author: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R"
+    author: "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R."
+    q: 3
+    i: "?"
 ---
 
 # Visualizer–Verbalizer Questionnaire scores did not predict modality-specific free recall; visual presentation aided recall overall
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Adults' VVQ scores were not related in any strong or clearly interpretable way to free-recall performance across auditory, visual, or combined presentation modalities. [→ Pashler 2009](#pashler-2009)

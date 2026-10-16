@@ -12,10 +12,15 @@ sources:
   - id: bouzidi-2009
     resource: "https://www.ifets.info/"
     title: "Bouzidi, L., & Jaillet, A. (2009). Can Online Peer Assessment be Trusted?. Educational Technology & Society, 12(4), 257-268. https://www.ifets.info/"
-    author: "Bouzidi, L., & Jaillet, A"
+    author: "Bouzidi, L., & Jaillet, A."
+    q: 2
+    i: "?"
 ---
 
 # Combining peer assessment with self-assessment brings marks closer to the teacher's marks
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Peer marks incorporating self-assessment (SPM) were the closest to teacher marks in the CA-2006 exam, and the authors conclude the combination gives better validity. [→ Bouzidi 2009](#bouzidi-2009)

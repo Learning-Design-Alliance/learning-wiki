@@ -13,9 +13,14 @@ sources:
     resource: "http://learnlab.org/datashop"
     title: "Kenneth R. Koedinger, Emma Brunskill, Ryan S.J.d. Baker, Elizabeth A. McLaughlin, and John Stamper. (2012). New Potentials for Data-Driven Intelligent Tutoring System Development and Optimization. http://learnlab.org/datashop"
     author: Kenneth R. Koedinger, Emma Brunskill, Ryan S.J.d. Baker, Elizabeth A. McLaughlin, and John Stamper
+    q: 2
+    i: "?"
 ---
 
 # Individualized Knowledge Tracing parameters fit student data significantly better and change mastery-learning practice decisions for many students
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Fitting Knowledge Tracing parameters per student gave significantly better fit than a generic model (p < 0.0001) and would substantially alter practice-opportunity decisions for over 20% of students. [→ Kenneth R. Koedinger 2012](#kenneth-r-koedinger-2012)

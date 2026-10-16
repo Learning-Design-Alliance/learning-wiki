@@ -13,9 +13,14 @@ sources:
     resource: "https://www.ed.gov/about/offices/list/opepd/ppss/reports.html"
     title: "Means, Toyama, Murphy, Bakia, & Jones. (2009). Evaluation of Evidence-Based Practices in Online Learning: A Meta-Analysis and Review of Online Learning Studies. U.S. Department of Education. https://www.ed.gov/about/offices/list/opepd/ppss/reports.html"
     author: "Means, Toyama, Murphy, Bakia, & Jones"
+    q: 3
+    i: 1
 ---
 
 # Studies in which online learners spent more time on task than face-to-face learners showed a greater benefit for online learning (+0.46 vs. +0.19; Q = 3.88, p < .05).
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` The mean effect size for studies with more time spent by online learners was +0.46, compared with +0.19 for studies in which face-to-face learners spent as much time or more on task; the difference between the two sets was statistically significant (Q = 3.88, p < .05). [→ Means 2009](#means-2009)

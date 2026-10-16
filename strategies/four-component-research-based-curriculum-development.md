@@ -16,6 +16,9 @@ sources:
 
 # Four-component research-based curriculum development process linking basic research, applied research, and field testing
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The authors describe building a research-based curriculum as having four components: basing the curriculum on a solid theoretical foundation, applying the basic theory to the particular domain and objectives of interest, evaluating results, and developing and implementing a methodology for improving the curriculum on the basis of use. They argue that scientifically based research involves more than demonstrating effectiveness; an essential component is an explanation of why the curriculum is effective, so success can be replicated and improved over time.
 

@@ -13,9 +13,14 @@ sources:
     resource: "http://www.eriainteractive.com/index.php"
     title: "Richard Halverson, Elizabeth Owen, Nathan Wills, R. Benjamin Shapiro. (2012). Game-Based Assessment: An integrated model for capturing evidence of learning in play. ERIA Working Paper. http://www.eriainteractive.com/index.php"
     author: Richard Halverson, Elizabeth Owen, Nathan Wills, R. Benjamin Shapiro
+    q: 2
+    i: 2
 ---
 
 # Aggregate play-efficiency measures in Progenitor X were not correlated with pre-post learning gains, except for efficiency in the final organ boss level (r = .3219)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
 
 ## Subclaims
 `q2 i2` Aggregate efficiency ratio, total tries, and total successes were not significantly correlated with pre-post learning gains, but boss-level efficiency ratio was positively correlated (r = .3219). [→ Richard Halverson 2012](#richard-halverson-2012)

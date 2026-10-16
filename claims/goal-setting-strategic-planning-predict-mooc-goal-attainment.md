@@ -12,10 +12,15 @@ sources:
   - id: kizilcec-2017
     resource: "https://doi.org/10.1016/j.compedu.2016.10.001"
     title: "Kizilcec, R. F., Pérez-Sanagustín, M., & Maldonado, J. J. (2017). Self-regulated learning strategies predict learner behavior and goal attainment in Massive Open Online Courses. Computers & Education, 104, 18–33. https://doi.org/10.1016/j.compedu.2016.10.001"
-    author: "Kizilcec, R. F., Pérez-Sanagustín, M., & Maldonado, J. J"
+    author: "Kizilcec, R. F., Pérez-Sanagustín, M., & Maldonado, J. J."
+    q: 3
+    i: "?"
 ---
 
 # Goal setting and strategic planning positively predict attainment of personal course goals in MOOCs
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Learners reporting 1 SD higher goal setting had 54% higher odds of earning a course certificate, and strategic planning was also a strong positive predictor of goal attainment. [→ Kizilcec 2017](#kizilcec-2017)

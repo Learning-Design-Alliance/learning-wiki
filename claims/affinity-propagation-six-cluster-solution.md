@@ -12,10 +12,15 @@ sources:
   - id: martinez-garza-2017
     resource: "https://doi.org/10.4018/IJGCMS.2017070101"
     title: "Martinez-Garza, M. M., & Clark, D. B. (2017). Investigating Epistemic Stances in Game Play with Data Mining. International Journal of Gaming and Computer-Mediated Simulations, 9(3). https://doi.org/10.4018/IJGCMS.2017070101"
-    author: "Martinez-Garza, M. M., & Clark, D. B"
+    author: "Martinez-Garza, M. M., & Clark, D. B."
+    q: 2
+    i: "?"
 ---
 
 # Affinity propagation clustering of gameplay attempts yielded an interpretable six-cluster solution (part.6)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` AP clustering converged on 145 proto-clusters, which agglomerative collapsing reduced to six clusters at a 0.905 altitude cut, with a heat map showing three well-delimited cohesive clusters plus internal structure. [→ Martinez-Garza 2017](#martinez-garza-2017)

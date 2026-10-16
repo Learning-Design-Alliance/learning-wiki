@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.25304/rlt.v28.2326"
     title: "Matthew Barr. (2020). A cross-sectional study of video game play habits and graduate skills attainment. Research in Learning Technology. https://doi.org/10.25304/rlt.v28.2326"
     author: Matthew Barr
+    q: 2
+    i: "?"
 ---
 
 # Non-players generally score better than players on graduate attribute measures, though the difference is very small
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` When respondents were collapsed into players and non-players, non-players scored better on all measures of graduate attribute attainment, with statistically significant but very small differences. [→ Matthew Barr 2020](#matthew-barr-2020)

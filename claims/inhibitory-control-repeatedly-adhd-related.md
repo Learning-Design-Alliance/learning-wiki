@@ -13,9 +13,14 @@ sources:
     resource: "https://www.guilford.com"
     title: "Meltzer, L. (Ed.). (2007). Executive Function in Education: From Theory to Practice. The Guilford Press. https://www.guilford.com"
     author: Meltzer, L. (Ed.)
+    q: 2
+    i: "?"
 ---
 
 # Inhibitory control is the EDF subdomain most repeatedly linked to ADHD
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The one subdomain of executive function dysfunction that has repeatedly emerged as ADHD-related is inhibitory control. [→ Meltzer 2007](#meltzer-2007)

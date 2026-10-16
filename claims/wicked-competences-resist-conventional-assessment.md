@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1080/02602930903221485"
     title: "Clair Hughes and Simon Barrie. (2010). Influences on the assessment of graduate attributes in higher education. Assessment & Evaluation in Higher Education. https://doi.org/10.1080/02602930903221485"
     author: Clair Hughes and Simon Barrie
+    q: 1
+    i: "?"
 ---
 
 # Graduate attributes ('wicked competences') may not be amenable to conventional assessment because they are context-dependent, partly specifiable and developed over years
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Knight and Page argue graduate attributes are a mix of dispositions, understandings, attributes and practices, rarely fully specifiable, the product of years of learning, and usually context-dependent, making them potentially not amenable to assessment as conventionally understood. [→ Clair Hughes and Simon Barrie 2010](#clair-hughes-and-simon-barrie-2010)

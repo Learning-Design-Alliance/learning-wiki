@@ -12,10 +12,15 @@ sources:
   - id: contreras-espinosa-2022
     resource: "https://doi.org/10.3390/su14042246"
     title: "Contreras-Espinosa, R.S.; Eguia-Gomez, J.L. (2022). Game Jams as Valuable Tools for the Development of 21st-Century Skills. Sustainability 2022, 14, 2246. https://doi.org/10.3390/su14042246"
-    author: Contreras-Espinosa, R.S.; Eguia-Gomez, J.L
+    author: Contreras-Espinosa, R.S.; Eguia-Gomez, J.L.
+    q: 2
+    i: "?"
 ---
 
 # Individual and teamwork challenges (language barriers, personality, competition, skill screening, software, duration) can affect game jam learning processes
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Shared individual and teamwork challenges were identified across the three events, affecting creativity, collaboration, communication and critical thinking. [→ Contreras-Espinosa 2022](#contreras-espinosa-2022)

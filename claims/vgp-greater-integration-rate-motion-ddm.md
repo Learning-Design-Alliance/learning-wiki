@@ -12,10 +12,15 @@ sources:
   - id: green-2010
     resource: "https://doi.org/10.1016/j.cub.2010.07.040"
     title: "Green, C.S., Pouget, A., & Bavelier, D. (2010). Improved probabilistic inference as a general learning mechanism with action video games. Current Biology. https://doi.org/10.1016/j.cub.2010.07.040"
-    author: "Green, C.S., Pouget, A., & Bavelier, D"
+    author: "Green, C.S., Pouget, A., & Bavelier, D."
+    q: 3
+    i: 3
 ---
 
 # Action video-game players show greater integration rate (sensitivity) than non-players in a visual motion direction discrimination task
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` In the DDM fit to Experiment 1, the rate of integration was greater in VGPs than NVGPs (Cohen's d = 1.13), with no difference in non-decision time. [→ Green 2010](#green-2010)

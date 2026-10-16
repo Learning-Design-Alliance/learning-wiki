@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1080/02619761003631849"
     title: "Chang Zhu, Martin Valcke and Tammy Schellens. (2010). A cross-cultural study of teacher perspectives on teacher roles and adoption of online collaborative learning in higher education. European Journal of Teacher Education. https://doi.org/10.1080/02619761003631849"
     author: Chang Zhu, Martin Valcke and Tammy Schellens
+    q: 2
+    i: "?"
 ---
 
 # Perceived power distance correlates with expert and authority roles, collaboration with facilitator and delegator roles, and competition correlates with all five teacher roles
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Teachers perceiving larger power distance more likely take up expert and authority roles; higher collaboration perception associates with facilitator and delegator roles; competition perception is positively associated with all five roles. [→ Chang Zhu 2010](#chang-zhu-2010)

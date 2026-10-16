@@ -16,6 +16,9 @@ sources:
 
 # Use cognitive-sensing feedback on attention and learning progress to tailor instruction to individual learners
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The authors recommend that educators use feedback about students' attention level and learning progress, obtained through cognitive activity recognition, to adapt teaching. As they write, educators "could modify their presentation and tailor learning material to individual pupils' needs, backgrounds, and preferences". Content creators could similarly use quantified mind logs to improve works by learning which parts excite, move, or lose readers.
 

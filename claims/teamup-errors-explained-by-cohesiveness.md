@@ -12,10 +12,15 @@ sources:
   - id: mayer-2018
     resource: "https://doi.org/10.1177/1046878118770831"
     title: "Mayer, I. (2018). Assessment of Teams in a Digital Game Environment. Simulation & Gaming, 49(6), 602-619. https://doi.org/10.1177/1046878118770831"
-    author: Mayer, I
+    author: Mayer, I.
+    q: 2
+    i: "?"
 ---
 
 # In-game avoidable mistakes in TEAMUP are significantly and markedly explained by team cohesiveness, not by team structure variables
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The number of avoidable mistakes (errors) in TEAMUP cannot be explained by team structure variables like age or gender, but is significantly and markedly explained by team cohesiveness, psychological safety and team efficacy. [→ Mayer 2018](#mayer-2018)

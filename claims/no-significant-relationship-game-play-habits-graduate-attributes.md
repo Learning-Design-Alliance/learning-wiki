@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.25304/rlt.v28.2326"
     title: "Matthew Barr. (2020). A cross-sectional study of video game play habits and graduate skills attainment. Research in Learning Technology. https://doi.org/10.25304/rlt.v28.2326"
     author: Matthew Barr
+    q: 2
+    i: "?"
 ---
 
 # Existing extracurricular video game play habits show no significant relationship with graduate attribute attainment among higher education students
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Across a cross-sectional survey of 2145 students, existing game play habits (hours, multiplayer, cooperative play) were not significantly related to self-reported communication, adaptability and resourcefulness scores. [→ Matthew Barr 2020](#matthew-barr-2020)

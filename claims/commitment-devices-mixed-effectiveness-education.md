@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1016/j.jebo.2014.09.005"
     title: "Alexander Koch, Julia Nafziger, Helena Skyt Nielsen. (2015). Behavioral economics of education. Journal of Economic Behavior & Organization 115 (2015) 3–17. https://doi.org/10.1016/j.jebo.2014.09.005"
     author: Alexander Koch, Julia Nafziger, Helena Skyt Nielsen
+    q: 2
+    i: "?"
 ---
 
 # Commitment devices such as deadlines show demand but mixed effectiveness for student performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Students demand commitment devices, but exogenously set deadlines do not always improve task completion or performance. [→ Alexander Koch 2015](#alexander-koch-2015)

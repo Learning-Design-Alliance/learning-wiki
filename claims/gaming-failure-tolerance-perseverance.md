@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s11423-009-9134-9"
     title: "Bobby Hoffman, Louis Nadelson. (2010). Motivational engagement and video gaming: a mixed methods study. Education Tech Research Dev 58:245-270. https://doi.org/10.1007/s11423-009-9134-9"
     author: Bobby Hoffman, Louis Nadelson
+    q: 2
+    i: "?"
 ---
 
 # Gaming participants did not report the negative consequences of task failure; low-stakes experimentation and regeneration supported perseverance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Participants communicated no negative associations with failure, attributing perseverance to the ability to experiment and regenerate gaming lives by resetting or trying again. [→ Bobby Hoffman 2010](#bobby-hoffman-2010)

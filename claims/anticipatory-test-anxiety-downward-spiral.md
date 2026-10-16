@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1016/b978-012109890-2/50043-3"
     title: "Paul R. Pintrich. (2000). The Role of Goal Orientation in Self-Regulated Learning. Handbook of Self-Regulation, Academic Press. https://doi.org/10.1016/b978-012109890-2/50043-3"
     author: Paul R. Pintrich
+    q: 2
+    i: "?"
 ---
 
 # Anticipatory test anxiety can set off a downward spiral of maladaptive cognitions, emotions, and behaviors
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Students who anticipate anxiety and worry about doing poorly before a test can set in motion a downward spiral of maladaptive cognitions, emotions, and behaviors leading to poor exam performance. [→ Paul R. Pintrich 2000](#paul-r-pintrich-2000)

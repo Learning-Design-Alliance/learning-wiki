@@ -12,14 +12,21 @@ sources:
   - id: mayer-2014
     resource: "http://direct.mit.edu/books/monograph/4028/bookpreview-pdf/2362507"
     title: "Mayer, Richard E. (2014). Computer Games for Learning: An Evidence-Based Approach. The MIT Press. http://direct.mit.edu/books/monograph/4028/bookpreview-pdf/2362507"
-    author: Mayer, Richard E
+    author: Mayer, Richard E.
+    q: 2
+    i: "?"
   - id: mayer-2014-2
     resource: "http://direct.mit.edu/books/monograph/4028/bookpreview-pdf/2362507"
     title: "Mayer, Richard E. (2014). Computer Games for Learning: An Evidence-Based Approach. The MIT Press. http://direct.mit.edu/books/monograph/4028/bookpreview-pdf/2362507"
-    author: Mayer, Richard E
+    author: Mayer, Richard E.
+    q: 2
+    i: "?"
 ---
 
 # Media comparison results favor games in some studies but favor slideshows for games with intrusive narrative themes
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Students who learned by playing the Design-a-Plant game showed better transfer test performance than students who learned the same material as frames with printed text and graphics. [→ Mayer 2014](#mayer-2014)

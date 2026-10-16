@@ -13,9 +13,14 @@ sources:
     resource: "https://nscresearchcenter.org/wp-content/uploads/NSC_SnapshotReport28_PersistenceRetention_Data_Tables.xlsx"
     title: "First-Year Persistence and Retention. (2017). National Student Clearinghouse Snapshot Report. https://nscresearchcenter.org/wp-content/uploads/NSC_SnapshotReport28_PersistenceRetention_Data_Tables.xlsx"
     author: First-Year Persistence and Retention
+    q: 2
+    i: "?"
 ---
 
 # In two-year public institutions, white students had a lower retention rate (50.2 percent) than Hispanic students (55.1 percent) because a higher share of white students transferred to four-year institutions
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Among fall 2015 two-year public entrants, white students' one-year retention rate (50.2 percent) was lower than Hispanic students' (55.1 percent), reflecting a higher share of white students transferring to four-year institutions by the second fall. [→ First-Year Persistence and Retention 2017](#first-year-persistence-and-retention-2017)

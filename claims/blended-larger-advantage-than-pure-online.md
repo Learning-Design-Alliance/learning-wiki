@@ -13,9 +13,14 @@ sources:
     resource: "https://www.ed.gov/about/offices/list/opepd/ppss/reports.html"
     title: "Means, Toyama, Murphy, Bakia, & Jones. (2009). Evaluation of Evidence-Based Practices in Online Learning: A Meta-Analysis and Review of Online Learning Studies. U.S. Department of Education. https://www.ed.gov/about/offices/list/opepd/ppss/reports.html"
     author: "Means, Toyama, Murphy, Bakia, & Jones"
+    q: 3
+    i: 1
 ---
 
 # Blended online-plus-face-to-face instruction showed a larger advantage over face-to-face instruction (+0.35, p < .001) than purely online instruction did (+0.14, p < .05).
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` In the meta-analysis, the mean effect size for blended versus face-to-face contrasts (+0.35, p < .001) was larger than the mean effect size for purely online versus face-to-face contrasts (+0.14, p < .05). [→ Means 2009](#means-2009)

@@ -13,12 +13,17 @@ sources:
     resource: "https://doi.org/10.1177/1367877907083079"
     title: "Henrik Örnebring. (2007). Alternate reality gaming and convergence culture: The case of Alias. International Journal of Cultural Studies 10(4). https://doi.org/10.1177/1367877907083079"
     author: Henrik Örnebring
+    q: 2
+    i: "?"
 ---
 
 # The fan-produced Omnifam ARG centred on extending the Alias backstory through the Rambaldi mythology while staying faithful to the fictional universe
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
+
 ## Subclaims
-`q2 i?` Backstory extension was a main feature of the fan-produced Omnifam ARG, built on the Rambaldi mythology, yet its narrative did not transgress the framework of the fictional universe in any important way. [→ Henrik Örnebring 2007](#henrik-örnebring-2007)
+`q2 i?` Backstory extension was a main feature of the fan-produced Omnifam ARG, built on the Rambaldi mythology, yet its narrative did not transgress the framework of the fictional universe in any important way. [→ Henrik Örnebring 2007](#henrik-ornebring-2007)
 
 ## Evidence
 

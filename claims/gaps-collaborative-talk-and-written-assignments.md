@@ -13,13 +13,20 @@ sources:
     resource: "https://ro.ecu.edu.au/ajtec/vol35/iss4/4/"
     title: "Ali Al-Issa & Ali Al-Bulushi. (2010). Training English Language Student Teachers to Become Reflective Teachers. Australian Journal of Teacher Education, Vol 35, 4. https://ro.ecu.edu.au/ajtec/vol35/iss4/4/"
     author: "Ali Al-Issa & Ali Al-Bulushi"
+    q: 2
+    i: "?"
   - id: ali-al-issa-ali-al-bulushi-2010-2
     resource: "https://ro.ecu.edu.au/ajtec/vol35/iss4/4/"
     title: "Ali Al-Issa & Ali Al-Bulushi. (2010). Training English Language Student Teachers to Become Reflective Teachers. Australian Journal of Teacher Education, Vol 35, 4. https://ro.ecu.edu.au/ajtec/vol35/iss4/4/"
     author: "Ali Al-Issa & Ali Al-Bulushi"
+    q: 2
+    i: "?"
 ---
 
 # Gaps in reflective training: 42.9 per cent of trainees had not experienced on-line collaborative talk and 42 per cent had not been asked to produce written assignments about ELT in Oman
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` 42.9 per cent of trainees had not experienced any on-line collaborative talk and 42 per cent had not been asked to produce written assignments (research) about ELT in Oman, despite the literature emphasising both. [→ Ali Al-Issa & Ali Al-Bulushi 2010](#ali-al-issa-ali-al-bulushi-2010)

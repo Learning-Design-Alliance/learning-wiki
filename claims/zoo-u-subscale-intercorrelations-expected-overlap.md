@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1155/2012/654791"
     title: "Melissa E. DeRosier, Ashley B. Craig, and Rebecca P. Sanchez. (2012). Zoo U: A Stealth Approach to Social Skills Assessment in Schools. Advances in Human-Computer Interaction. https://doi.org/10.1155/2012/654791"
     author: Melissa E. DeRosier, Ashley B. Craig, and Rebecca P. Sanchez
+    q: 3
+    i: "?"
 ---
 
 # Zoo U subscales are intercorrelated in patterns the authors attribute to real-world overlap among social skills competencies
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Zoo U subscales were related in a number of cases, and the authors interpret these associations as expected given overlap of social skills competencies in children's real-world behaviors. [→ Melissa E. DeRosier 2012](#melissa-e-derosier-2012)

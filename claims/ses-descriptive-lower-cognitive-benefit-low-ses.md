@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1080/03057267.2022.2057732"
     title: "Michaela Arztmann, Lisette Hornstra, Johan Jeuring & Liesbeth Kester (2023). Effects of games in STEM education: a meta-analysis on the moderating role of student background characteristics. Studies in Science Education, 59:1, 109-145. https://doi.org/10.1080/03057267.2022.2057732"
     author: "Michaela Arztmann, Lisette Hornstra, Johan Jeuring & Liesbeth Kester"
+    q: 3
+    i: "?"
 ---
 
 # Descriptive analyses suggest game-based learning may be less beneficial for cognitive outcomes in low-SES students than high-SES students, but this is preliminary
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Studies with only high-SES samples report larger cognitive effect sizes (g = 1.98, g = 0.71) than studies with only low-SES samples (g = 0.09, g = 0.06), though the moderator test was not significant. [→ Michaela Arztmann 2023](#michaela-arztmann-2023)

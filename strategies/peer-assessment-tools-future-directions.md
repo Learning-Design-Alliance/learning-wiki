@@ -16,6 +16,9 @@ sources:
 
 # Future peer assessment tools should support unlimited reviewing, digital ink annotation, and more thorough evaluation studies
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The review's conclusion sets an agenda for tool development and research. It argues that in systems without review limits, "students with higher grades tend to contribute more than weaker students, resulting in a greater amount of higher quality feedback being produced", so "future tools should support unlimited reviewing where possible." It also calls for usability and evaluation studies, comparative studies of weighting algorithms, evaluation of rubric forms, investigation of discussion at different stages, and support for digital ink annotation, which no tool then provided.
 

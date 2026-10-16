@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1080/10508406.2011.611776"
     title: "Tessa H. S. Eysink & Ton de Jong (2012). Does Instructional Approach Matter? How Elaboration Plays a Crucial Role in Multimedia Learning. Journal of the Learning Sciences. https://doi.org/10.1080/10508406.2011.611776"
     author: "Tessa H. S. Eysink & Ton de Jong"
+    q: 3
+    i: 3
 ---
 
 # Self-explanation-based and inquiry learning environments elicit significantly more total learning-process instances than hypermedia and observational learning environments
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` Learners in the self-explanation-based and inquiry learning environments had significantly more identified instances of engagement in learning processes than learners in the hypermedia and observational learning environments (all ps < .001). [→ Tessa H. S. Eysink & Ton de Jong 2012](#tessa-h-s-eysink-ton-de-jong-2012)

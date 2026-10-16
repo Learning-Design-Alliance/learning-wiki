@@ -12,10 +12,15 @@ sources:
   - id: mayer-2014
     resource: "http://direct.mit.edu/books/monograph/4028/bookpreview-pdf/2362507"
     title: "Mayer, Richard E. (2014). Computer Games for Learning: An Evidence-Based Approach. The MIT Press. http://direct.mit.edu/books/monograph/4028/bookpreview-pdf/2362507"
-    author: Mayer, Richard E
+    author: Mayer, Richard E.
+    q: 2
+    i: "?"
 ---
 
 # Adding a narrative theme to the Cache 17 game did not improve transfer posttest performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Adding a narrative theme to an adventure game intended to teach how mechanical devices work did not improve posttest performance on a transfer test. [→ Mayer 2014](#mayer-2014)
