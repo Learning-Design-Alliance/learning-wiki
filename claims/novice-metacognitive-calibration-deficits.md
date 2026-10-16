@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Novice clinical learners show pervasive metacognitive calibration deficits, with overestimated performance and confidence exceeding accuracy
-description: Novice clinical learners show pervasive metacognitive calibration deficits, with overestimated performance and confidence exceeding accuracy
+title: A theoretical article, citing two simulation studies, reports that novice clinical learners overestimated their performance and that their confidence exceeded their accuracy
+description: A theoretical article, citing two simulation studies, reports that novice clinical learners overestimated their performance and that their confidence exceeded their accuracy
 id: novice-metacognitive-calibration-deficits
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 2
 ---
 
-# Novice clinical learners show pervasive metacognitive calibration deficits, with overestimated performance and confidence exceeding accuracy
+# A theoretical article, citing two simulation studies, reports that novice clinical learners overestimated their performance and that their confidence exceeded their accuracy
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q2`

@@ -53,7 +53,6 @@ Committing to a prediction before instruction activates prior conceptions and cr
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [A small question budget of about 200 suffices for strong hypothesis quality, with room to scale](../claims/small-budget-suffices-for-hypothesis-quality.md) [~W]
 
 ## The evidence by question
 - *Does conflict-based instruction improve conceptual learning more than standard exposition?* [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+S]

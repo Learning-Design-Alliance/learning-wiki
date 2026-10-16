@@ -19,7 +19,7 @@ Fidgets are tools to aid focus and self-regulation, not toys. This strategy esta
 
 ## Design Implications
 
-The protocol treats fidget use as a trained behavior rather than an open accommodation. Evidence for fidget tools is genuinely mixed: task-relevant movement in children with ADHD is associated with better working memory performance, suggesting movement can serve a regulatory function for this population [Sarver et al. found hyperactive movement predicted working memory performance in children with ADHD.](../claims/classroom-physical-activity-improves-attention.md) [~M]. But unstructured fidget use — especially with visually interesting objects — can reduce attention for typically developing learners and for children without ADHD [Fidget spinners impaired attention in children without ADHD.](../claims/classroom-physical-activity-improves-attention.md) [-S]. The protocol's rules exist precisely to capture the potential benefit while limiting the distraction cost: quiet, non-novel, tactile-only objects, used at the learner's discretion, with a clear return-to-storage routine.
+The protocol treats fidget use as a trained behavior rather than an open accommodation. Evidence for fidget tools is genuinely mixed: task-relevant movement in children with ADHD is associated with better working memory performance, suggesting movement can serve a regulatory function for this population [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [~M]. But unstructured fidget use — especially with visually interesting objects — can reduce attention for typically developing learners and for children without ADHD [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [-S]. The protocol's rules exist precisely to capture the potential benefit while limiting the distraction cost: quiet, non-novel, tactile-only objects, used at the learner's discretion, with a clear return-to-storage routine.
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ The protocol treats fidget use as a trained behavior rather than an open accommo
 - Open communication so the learner can report whether a fidget helps or distracts
 
 #### Constraints
-- Fidgets used as toys — spun, shown to peers, dropped loudly — degrade on-task behavior for the user and nearby peers [Fidget spinners impaired attention in children without ADHD.](../claims/classroom-physical-activity-improves-attention.md) [-S]
+- Fidgets used as toys — spun, shown to peers, dropped loudly — degrade on-task behavior for the user and nearby peers [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [-S]
 - No reliable benefit for typically developing learners without attention difficulties; universal fidget access tends to add distraction rather than focus [-M]
 - Requires sustained commitment from learner and instructor; abandoned contracts leave the fidget functioning as a toy
 - Visually engaging fidgets compete for the same attentional resources as the lesson itself [Decorative or attention-grabbing visuals do not improve learning.](../claims/seductive-details-effect.md) [-M]
@@ -38,7 +38,7 @@ The protocol treats fidget use as a trained behavior rather than an open accommo
 #### Implementation Variability
 - Individual contract (one learner, negotiated rules) vs. whole-class protocol with shared norms
 - Choice boards offering several fidget types during a trial week, then narrowing to what works
-- Alternative movement channels for learners who need more: [Act It Out](../elements/act-it-out.md) tasks, standing desks, or scheduled movement breaks aligned with evidence that classroom physical activity can improve attention [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]
+- Alternative movement channels for learners who need more: [Act It Out](../elements/act-it-out.md) tasks, standing desks, or scheduled movement breaks aligned with evidence that classroom physical activity can improve attention [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
 
 ### Target Learners
 - Learners with ADHD, for whom mild task-relevant movement may support working memory during demanding tasks [~M]
@@ -59,7 +59,7 @@ The protocol treats fidget use as a trained behavior rather than an open accommo
 6. **Review.** Use brief [Check-Ins](../elements/check-in.md) weekly: does the fidget help, distract, or no longer matter? Adjust or fade accordingly.
 
 ## Related Strategies
-- [Movement Breaks](../claims/classroom-physical-activity-improves-attention.md) — a higher-intensity alternative channel for the same regulatory need
+- [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) — a higher-intensity alternative channel for the same regulatory need
 - [Check-In](../elements/check-in.md) — the monitoring routine that keeps fidget use honest and adjustable
 
 ## Related Elements

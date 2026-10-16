@@ -57,7 +57,7 @@ Flexible seating is an environmental expression of learner autonomy: it delegate
 - Learners with sensory, attention, or mobility needs, for whom varied options function as built-in [Accommodations](../elements/accommodations.md) [+W]
 - Adult and higher-education learners, who typically self-select appropriately with minimal guidance [~W]
 - Learners who struggle with self-regulation need more scaffolding of choice, not less structure overall [~M]
-- K–12 learners, especially elementary, where movement needs are highest [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]
+- K–12 learners, especially elementary, where movement needs are highest [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
 - Learners with attention or sensory regulation needs, for whom movement options function as an accommodation [~M]
 
 ### Target Learning Goals

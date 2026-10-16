@@ -19,7 +19,7 @@ Quiet time is a structured period of 10–15 minutes where students engage in ca
 
 ## Design Implications
 
-Quiet time functions as an arousal-regulation routine: sustained attention and working-memory-dependent learning degrade when students arrive in a heightened arousal state [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [~M] — the inverse also holds, with calm-down periods supporting re-engagement after unstructured time. Offering a menu of quiet activities leverages autonomy, which supports intrinsic motivation and buy-in for classroom routines [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. The strategy is primarily a classroom-management and self-regulation support rather than a direct instructional technique; its learning benefits are mediated by improved readiness to attend.
+Quiet time functions as an arousal-regulation routine: sustained attention and working-memory-dependent learning degrade when students arrive in a heightened arousal state [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [~M] — the inverse also holds, with calm-down periods supporting re-engagement after unstructured time. Offering a menu of quiet activities leverages autonomy, which supports intrinsic motivation and buy-in for classroom routines [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]. The strategy is primarily a classroom-management and self-regulation support rather than a direct instructional technique; its learning benefits are mediated by improved readiness to attend.
 
 ### Context
 #### Requirements
@@ -48,7 +48,7 @@ Quiet time functions as an arousal-regulation routine: sustained attention and w
 ### Target Learning Goals
 - Self-regulation: practicing independent calming and attention management
 - Classroom climate: reducing post-transition conflict and disruption
-- Learning readiness: improving focus and on-task behavior for subsequent instruction [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [~M]
+- Learning readiness: improving focus and on-task behavior for subsequent instruction [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [~M]
 - Independent reading volume, when reading is among the offered choices
 
 ### Instructions

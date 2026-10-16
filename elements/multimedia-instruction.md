@@ -40,7 +40,7 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](../claims/dual-coding-improves-learning.md) [+M]
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](../claims/modality-effect-narration-over-text.md) [+M]
 - [Split Attention Effect Degrades Learning](../claims/split-attention-effect-degrades-learning.md) [+M]
-- [Multimedia Principles Benefit Novices](../claims/expertise-reversal-effect.md) [+M]
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~M]
 - [In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts](../claims/media-combinations-affect-recall-and-retention.md) [+W]
 - [Audio narration with finger-tracking animation directs bilingual preschoolers' attention to the target-language print in dual-language e-books, including the nondominant language](../claims/enhancing-features-direct-attention-dual-language-e-books.md) [+W]
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](../claims/redundancy-principle.md) [+M]

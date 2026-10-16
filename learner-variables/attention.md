@@ -36,7 +36,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Interesting but irrelevant details can distract from learning](../claims/seductive-details-effect.md) [-M] — the effect that makes 'engaging' and 'effective' come apart
 - [Signaling improves learning](../claims/signaling-improves-learning.md) [+M] — cueing what matters directs attention rather than competing for it
 - [Segmenting improves multimedia learning](../claims/segmenting-improves-multimedia-learning.md) [+M] — learner-paced segments let attention reset at a boundary the learner chooses
-- [Classroom physical activity improves attention](../claims/classroom-physical-activity-improves-attention.md) [+M] — a scheduling rather than a presentation remedy
+- [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M] — a scheduling rather than a presentation remedy
 - [Across repetition cycles, attention can shift from message meaning to linguistic form, enabling recycled language and self-correction](../claims/attention-shift-meaning-to-form-over-cycles.md) [+M] — instruction changes it
 - [Attention plays a major role in L2 learning because a task-relevant knowledge base is built in memory through attention](../claims/attention-builds-task-relevant-knowledge-base.md) [+M] — learners who differ on it differ in outcomes
 - [Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement](../claims/co-construction-scribe-teacher-fosters-composition-autonomy.md) [+W] — instruction changes it

@@ -73,7 +73,7 @@ Daylighting is a physical-design strategy that operates on attention, circadian 
 - Students with attention difficulties may benefit disproportionately from alerting daylight exposure [~W]
 - Teachers also report reduced fatigue and eyestrain in daylit classrooms [~W]
 - All learners in K–12 and higher education; effects appear across age bands, with the strongest evidence in primary schools [Barrett et al. (2015) found daylight and air quality among the strongest classroom-design predictors of academic progress.](https://doi.org/10.1016/j.buildenv.2015.09.002) [+M]
-- Learners with attention difficulties, who benefit disproportionately from alert, comfortable environments [Classroom physical activity and movement improve attention.](../claims/classroom-physical-activity-improves-attention.md) [~W]
+- Learners with attention difficulties, who benefit disproportionately from alert, comfortable environments [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [~W]
 - Light-sensitive learners benefit only when individual control over illumination is provided [~M]
 
 ### Target Learning Goals

@@ -269,4 +269,4 @@ Open questions that evidence entries should address include: how retrieval pract
 - [The meta-analysis supports retrieval effort as a contributor to the testing effect](retrieval-effort-support-testing-effect.md) — a narrower finding that bears on this claim
 - [Rereading Less Effective Than Retrieval Practice](rereading-less-effective-than-retrieval-practice.md)
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related
-- [The achievement benefit of peer assessment persists to a later comprehensive final exam](peer-assessment-gains-persist-to-final-exam.md) — related
+- [A significant but negligible benefit of peer assessment (d = .122) persisted to the final exam in one college statistics course](peer-assessment-gains-persist-to-final-exam.md) — related

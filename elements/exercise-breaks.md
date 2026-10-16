@@ -20,7 +20,7 @@ Exercise breaks are brief (typically 4–20 minute) episodes of moderate-to-vigo
 
 ## Design Implications
 
-Short aerobic activity reliably improves subsequent attention and on-task behavior, particularly in younger learners [Physical activity in the classroom improves attention and reduces off-task behavior.](../claims/classroom-physical-activity-improves-attention.md) [+S]. Timing matters: acute exercise immediately before encoding can enhance memory for material learned shortly afterward, while very intense exercise immediately *after* learning can temporarily impair consolidation [Acute exercise effects on memory depend on timing and intensity relative to learning.](../claims/acute-exercise-timing-memory.md) [~M]. Breaks should be scheduled at natural segment boundaries — after a demanding instructional block, before the next — and kept short enough that re-engagement costs are low.
+Short aerobic activity reliably improves subsequent attention and on-task behavior, particularly in younger learners [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+S]. Timing matters: acute exercise immediately before encoding can enhance memory for material learned shortly afterward, while very intense exercise immediately *after* learning can temporarily impair consolidation [Acute exercise effects on memory depend on timing and intensity relative to learning.](../claims/acute-exercise-timing-memory.md) [~M]. Breaks should be scheduled at natural segment boundaries — after a demanding instructional block, before the next — and kept short enough that re-engagement costs are low.
 
 ### Context
 #### Requirements
@@ -33,10 +33,10 @@ Short aerobic activity reliably improves subsequent attention and on-task behavi
 - High-intensity exercise immediately before tasks with high working-memory demands can transiently reduce performance [Acute exercise effects on memory depend on timing and intensity relative to learning.](../claims/acute-exercise-timing-memory.md) [-M]
 - Breaks that require long setup, equipment distribution, or cool-down consume more time than they return; poorly managed transitions erode the benefit
 - Overuse as a classroom-management substitute (breaking up every minor wobble) can fragment instruction and reduce time on task [-W]
-- Effects on attention are largest for younger children; benefits for adolescents and adults are smaller and less consistent [Physical activity in the classroom improves attention and reduces off-task behavior.](../claims/classroom-physical-activity-improves-attention.md) [~M]
+- Effects on attention are largest for younger children; benefits for adolescents and adults are smaller and less consistent [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [~M]
 
 ### Target Learners
-- Elementary-age learners, who show the strongest attention and behavior gains from classroom physical activity [Physical activity in the classroom improves attention and reduces off-task behavior.](../claims/classroom-physical-activity-improves-attention.md) [+S]
+- Elementary-age learners, who show the strongest attention and behavior gains from classroom physical activity [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+S]
 - Learners with attention difficulties (e.g., ADHD), for whom movement breaks can reduce off-task behavior [~M]
 - Learners in long instructional blocks with few natural movement opportunities
 

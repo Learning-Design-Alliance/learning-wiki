@@ -19,7 +19,7 @@ Planned physical activity is the deliberate scheduling of movement — sport, ac
 
 ## Design Implications
 
-Physical activity is not time taken from learning; it supports it. Regular activity is associated with improved attention and executive function in school-age learners [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M], and single bouts of acute exercise can transiently enhance memory encoding shortly afterward [Acute exercise timing affects memory.](../claims/acute-exercise-timing-memory.md) [~M]. Because adolescents' schedules fill quickly, activity that is not planned is reliably displaced — making the schedule itself the active ingredient of the strategy.
+Physical activity is not time taken from learning; it supports it. Regular activity is associated with improved attention and executive function in school-age learners [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M], and single bouts of acute exercise can transiently enhance memory encoding shortly afterward [Acute exercise timing affects memory.](../claims/acute-exercise-timing-memory.md) [~M]. Because adolescents' schedules fill quickly, activity that is not planned is reliably displaced — making the schedule itself the active ingredient of the strategy.
 
 ### Context
 #### Requirements
@@ -47,7 +47,7 @@ Physical activity is not time taken from learning; it supports it. Regular activ
 ### Target Learning Goals
 - Health and physical literacy: meeting daily activity requirements and building lifelong habits
 - Self-regulation: planning, scheduling, and balancing competing commitments
-- Academic support: improved attention and readiness for learning in adjacent study time [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]
+- Academic support: improved attention and readiness for learning in adjacent study time [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
 
 ### Instructions
 1. Review guidelines and current activity levels to identify the gap to close.

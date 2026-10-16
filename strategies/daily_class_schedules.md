@@ -19,7 +19,7 @@ A daily class schedule allocates specific time blocks to subjects and activities
 
 ## Design Implications
 
-Time on task is one of the most consistent correlates of achievement, but raw allocated time matters less than *engaged* time; schedules primarily work by protecting instructional time from transitions, re-orientation, and decision overhead [~M]. Predictable routines reduce uncertainty and free cognitive resources for content rather than for figuring out what happens next [chunking and routine reduce extraneous load](../claims/chunking-reduces-working-memory-load.md) [+M]. Attention is a limited resource that degrades across a sustained block, so alternating demanding instruction with physical activity or restorative breaks sustains engagement [classroom physical activity improves attention](../claims/classroom-physical-activity-improves-attention.md) [+M].
+Time on task is one of the most consistent correlates of achievement, but raw allocated time matters less than *engaged* time; schedules primarily work by protecting instructional time from transitions, re-orientation, and decision overhead [~M]. Predictable routines reduce uncertainty and free cognitive resources for content rather than for figuring out what happens next [chunking and routine reduce extraneous load](../claims/chunking-reduces-working-memory-load.md) [+M]. Attention is a limited resource that degrades across a sustained block, so alternating demanding instruction with physical activity or restorative breaks sustains engagement [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M].
 
 ### Context
 #### Requirements
@@ -54,7 +54,7 @@ Time on task is one of the most consistent correlates of achievement, but raw al
 ### Instructions
 1. Inventory fixed constraints (specials, lunch, mandated minutes) and non-negotiables.
 2. Place the most cognitively demanding subjects ([Direct Instruction](../patterns/direct-instruction.md) plus guided [Practice](../elements/practice.md)) in high-attention windows, typically early morning.
-3. Schedule [active transitions](active-transitions.md) and physical activity between demanding blocks to restore attention [classroom physical activity improves attention](../claims/classroom-physical-activity-improves-attention.md) [+M].
+3. Schedule [active transitions](active-transitions.md) and physical activity between demanding blocks to restore attention [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M].
 4. Post the schedule with visual cues and open the day with a brief [Check-In](../elements/check-in.md) reviewing it.
 5. Build in [closure and review](../elements/assessment.md) at the end of each block rather than letting blocks bleed together.
 6. Review pacing against formative evidence every few weeks and adjust block lengths accordingly.

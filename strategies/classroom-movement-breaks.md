@@ -19,7 +19,7 @@ Classroom movement breaks are brief (typically 3–10 minute) episodes of modera
 
 ## Design Implications
 
-Movement breaks leverage the link between acute physical activity and subsequent attention and executive function: single bouts of moderate exercise reliably improve on-task behavior and attention in the minutes that follow [Classroom physical activity improves attention and on-task behavior.](../claims/classroom-physical-activity-improves-attention.md) [+S]. They function as attention management rather than instruction — the goal is to restore the cognitive conditions for learning, not to teach content through movement (though content-integrated variants exist).
+Movement breaks leverage the link between acute physical activity and subsequent attention and executive function: single bouts of moderate exercise reliably improve on-task behavior and attention in the minutes that follow [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+S]. They function as attention management rather than instruction — the goal is to restore the cognitive conditions for learning, not to teach content through movement (though content-integrated variants exist).
 
 ### Context
 #### Requirements
@@ -40,7 +40,7 @@ Movement breaks leverage the link between acute physical activity and subsequent
 - **Scheduled vs. responsive** — fixed intervals (e.g., every 25–30 minutes) versus teacher judgment of waning attention
 
 ### Target Learners
-- Elementary students, who show the largest and most consistent attention gains [Classroom physical activity improves attention and on-task behavior.](../claims/classroom-physical-activity-improves-attention.md) [+S]
+- Elementary students, who show the largest and most consistent attention gains [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+S]
 - Students with ADHD or high impulsivity, for whom acute activity produces disproportionate improvements in on-task behavior [~M]
 - Adolescents in block schedules with long sedentary stretches, though effects are smaller than in younger learners [~W]
 

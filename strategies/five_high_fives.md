@@ -19,7 +19,7 @@ Students try to give a high-five to five different classmates; when they have co
 
 ## Design Implications
 
-The activity pairs whole-body movement with a genuine mathematical puzzle, so it works on two fronts: brief physical activity restores attention for subsequent instruction [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M], and the surprising failure pattern creates cognitive conflict that motivates students to seek an explanation [Cognitive disequilibrium motivates conceptual change.](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M]. The teacher's role is to withhold the answer, run the game under varied conditions, and then orchestrate a discussion in which students propose and test conjectures about *why* it only sometimes works.
+The activity pairs whole-body movement with a genuine mathematical puzzle, so it works on two fronts: brief physical activity restores attention for subsequent instruction [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M], and the surprising failure pattern creates cognitive conflict that motivates students to seek an explanation [Cognitive disequilibrium motivates conceptual change.](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M]. The teacher's role is to withhold the answer, run the game under varied conditions, and then orchestrate a discussion in which students propose and test conjectures about *why* it only sometimes works.
 
 ### Context
 #### Requirements

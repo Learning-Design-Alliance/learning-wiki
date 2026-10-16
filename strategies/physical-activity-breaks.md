@@ -20,7 +20,7 @@ Physical activity breaks are brief (2–10 minute) episodes of movement — stre
 
 ## Design Implications
 
-Sustained seated attention degrades over time, particularly for children; short movement breaks counteract this decline and improve on-task behavior afterward [Classroom physical activity improves attention and on-task behavior.](../claims/classroom-physical-activity-improves-attention.md) [+S]. Timing matters: brief moderate activity can enhance subsequent memory encoding, but very vigorous or poorly timed exertion immediately before high-load tasks can temporarily divert resources [Acute exercise timing moderates effects on memory.](../claims/acute-exercise-timing-memory.md) [~M]. Breaks function as attention management, not instruction — they prepare the learner to learn rather than teach content themselves, though they can be designed to reinforce content (e.g., movement-based recall games).
+Sustained seated attention degrades over time, particularly for children; short movement breaks counteract this decline and improve on-task behavior afterward [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+S]. Timing matters: brief moderate activity can enhance subsequent memory encoding, but very vigorous or poorly timed exertion immediately before high-load tasks can temporarily divert resources [Acute exercise timing moderates effects on memory.](../claims/acute-exercise-timing-memory.md) [~M]. Breaks function as attention management, not instruction — they prepare the learner to learn rather than teach content themselves, though they can be designed to reinforce content (e.g., movement-based recall games).
 
 ### Context
 #### Requirements
@@ -53,7 +53,7 @@ Sustained seated attention degrades over time, particularly for children; short 
 - **Adult versions**: standing breaks, walking meetings, or brief movement in long lectures and professional sessions
 
 ### Target Learners
-- Children and adolescents, whose attention spans for seated work are shorter and who show the largest on-task gains after movement [Classroom physical activity improves attention and on-task behavior.](../claims/classroom-physical-activity-improves-attention.md) [+S]
+- Children and adolescents, whose attention spans for seated work are shorter and who show the largest on-task gains after movement [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+S]
 - Learners with ADHD or high activity needs, for whom movement breaks are a common [Accommodations](../elements/accommodations.md) strategy [+M]
 - Adult learners in long meetings or training sessions, where fatigue effects are comparable though less studied
 - Children and adolescents in sustained classroom settings, where on-task behavior gains are most reliable [~M]

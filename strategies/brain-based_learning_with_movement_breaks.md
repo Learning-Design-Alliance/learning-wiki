@@ -19,7 +19,7 @@ This strategy intersperses short, structured movement breaks and socially intera
 
 ## Design Implications
 
-Movement breaks work primarily by counteracting the vigilance decrement — sustained sitting degrades attention over time, and brief physical activity restores it [Classroom physical activity improves attention and on-task behavior.](../claims/classroom-physical-activity-improves-attention.md) [+M]. The learning benefit comes from *when* breaks occur: chunking instruction into shorter segments with breaks between them manages working memory load and prevents overload [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. Movement alone does not teach content; it must be paired with substantive instruction, peer discussion, or practice to affect achievement rather than only affect and engagement [Active learning improves exam performance relative to lecture alone.](../claims/active-learning-improves-exam-performance.md) [+S].
+Movement breaks work primarily by counteracting the vigilance decrement — sustained sitting degrades attention over time, and brief physical activity restores it [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]. The learning benefit comes from *when* breaks occur: chunking instruction into shorter segments with breaks between them manages working memory load and prevents overload [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. Movement alone does not teach content; it must be paired with substantive instruction, peer discussion, or practice to affect achievement rather than only affect and engagement [Active learning improves exam performance relative to lecture alone.](../claims/active-learning-improves-exam-performance.md) [+S].
 
 ### Context
 #### Requirements
@@ -40,7 +40,7 @@ Movement breaks work primarily by counteracting the vigilance decrement — sust
 - **Distributed scheduling**: spacing review and practice across sessions rather than massing it, leveraging the same chunk-and-space logic
 
 ### Target Learners
-- K–12 students, especially younger learners whose sustained attention spans are shorter [Classroom physical activity improves attention and on-task behavior.](../claims/classroom-physical-activity-improves-attention.md) [+M]
+- K–12 students, especially younger learners whose sustained attention spans are shorter [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
 - Students with ADHD or high activity needs, for whom movement breaks can reduce off-task behavior [~M]
 - Adult learners in long sessions (workshops, training days), where vigilance declines are equally well documented [~M]
 

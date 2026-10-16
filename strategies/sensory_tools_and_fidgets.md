@@ -19,7 +19,7 @@ Sensory tools and fidgets are small, quiet, manipulable objects (stress balls, p
 
 ## Design Implications
 
-The evidence base is narrower and more conditional than popular adoption suggests. Fidgets plausibly help learners whose attention lapses stem from under-arousal or a need for movement, but they can become a distraction for learners who do not need them [~M]. Effects are strongest when the tool is chosen by the learner, introduced with clear rules of use, and matched to a specific regulation need rather than distributed indiscriminately. Movement opportunities with stronger evidence — such as brief physical activity breaks — should be considered alongside or instead of static fidget objects [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M].
+The evidence base is narrower and more conditional than popular adoption suggests. Fidgets plausibly help learners whose attention lapses stem from under-arousal or a need for movement, but they can become a distraction for learners who do not need them [~M]. Effects are strongest when the tool is chosen by the learner, introduced with clear rules of use, and matched to a specific regulation need rather than distributed indiscriminately. Movement opportunities with stronger evidence — such as brief physical activity breaks — should be considered alongside or instead of static fidget objects [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M].
 
 ### Context
 #### Requirements

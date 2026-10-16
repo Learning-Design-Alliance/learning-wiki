@@ -19,7 +19,7 @@ This strategy embeds brief bouts of physical activity — stretching, jumping ja
 
 ## Design Implications
 
-Single bouts of moderate physical activity acutely improve attention and executive function in children, with effects strongest for tasks requiring inhibitory control and sustained focus [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]. Timing matters: activity placed immediately before or between demanding segments of instruction yields measurable on-task gains, whereas activity unrelated to lesson structure tends to dissipate [Acute exercise timing affects memory outcomes.](../claims/acute-exercise-timing-memory.md) [~M]. The strategy works as a cognitive reset — restoring attentional resources depleted by sustained seatwork — rather than as direct instruction.
+Single bouts of moderate physical activity acutely improve attention and executive function in children, with effects strongest for tasks requiring inhibitory control and sustained focus [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]. Timing matters: activity placed immediately before or between demanding segments of instruction yields measurable on-task gains, whereas activity unrelated to lesson structure tends to dissipate [Acute exercise timing affects memory outcomes.](../claims/acute-exercise-timing-memory.md) [~M]. The strategy works as a cognitive reset — restoring attentional resources depleted by sustained seatwork — rather than as direct instruction.
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Single bouts of moderate physical activity acutely improve attention and executi
 - **Active seating/allowances**: exercise balls, standing desks, or permission to move for individual learners who need an outlet without whole-class breaks
 
 ### Target Learners
-- Children who struggle with sustained attention, including learners with ADHD [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]
+- Children who struggle with sustained attention, including learners with ADHD [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
 - Whole classrooms during long blocks of seatwork, where attentional fatigue is universal
 - Less necessary for short, varied lessons with frequent [active-learning](../principles/active-learning.md) segments already built in
 

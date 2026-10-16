@@ -19,7 +19,7 @@ Activities that engage multiple senses (visual, auditory, kinesthetic, tactile) 
 
 ## Design Implications
 
-The defensible core of this strategy is dual-channel encoding: presenting verbal and visual information together improves recall compared with verbal-only presentation [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S], and peer explanation forces retrieval and elaboration that passive listening does not. Movement breaks can restore attention in long sessions, particularly for younger learners [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]. However, the popular "learning styles" reading of this strategy — matching instruction to a learner's preferred sensory modality — is not supported by evidence and should not drive design [X]. Adding sensory variety for its own sake can also backfire: decorative images, sound, and motion that do not carry instructional content depress learning [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S].
+The defensible core of this strategy is dual-channel encoding: presenting verbal and visual information together improves recall compared with verbal-only presentation [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S], and peer explanation forces retrieval and elaboration that passive listening does not. Movement breaks can restore attention in long sessions, particularly for younger learners [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]. However, the popular "learning styles" reading of this strategy — matching instruction to a learner's preferred sensory modality — is not supported by evidence and should not drive design [X]. Adding sensory variety for its own sake can also backfire: decorative images, sound, and motion that do not carry instructional content depress learning [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ The defensible core of this strategy is dual-channel encoding: presenting verbal
 - **Song, chant, and gesture** — pairing content with rhythm and movement; strongest for rote sequences (alphabet, formulas, vocabulary) where verbatim recall is the goal
 
 ### Target Learners
-- Young learners and learners who struggle with sustained attention, for whom movement breaks measurably improve on-task behavior [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]
+- Young learners and learners who struggle with sustained attention, for whom movement breaks measurably improve on-task behavior [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
 - Language learners and novices, who benefit from meaning-carrying visuals paired with verbal input [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S]
 - Not differentially beneficial for a learner's "preferred modality" — tailoring to self-reported styles shows no learning advantage [X]
 
@@ -53,7 +53,7 @@ The defensible core of this strategy is dual-channel encoding: presenting verbal
 ### Instructions
 1. Present core content with a meaningful visual that maps onto the verbal explanation (diagram, timeline, concept map) — not decoration [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S]
 2. Have learners process actively: explain the idea to a partner, act it out, or produce a quick visual representation themselves
-3. Insert a short movement or processing break before the next content segment, especially in sessions over 20–30 minutes [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]
+3. Insert a short movement or processing break before the next content segment, especially in sessions over 20–30 minutes [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
 4. Return to [Practice](../elements/practice.md) on the content itself — the multisensory activity is the encoding event, not the assessment
 5. Keep guidance explicit during novel or complex tasks; reduce support as expertise grows [Expertise reversal effect.](../claims/expertise-reversal-effect.md) [~S]
 

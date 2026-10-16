@@ -35,7 +35,7 @@ Slow, controlled breathing reliably shifts autonomic state — increasing parasy
 #### Implementation Variability
 - Whole-class guided routine vs. self-selected calm-down option vs. personal regulation tool taught once and used independently
 - Eyes-open variants (counting breaths, tracing a shape while breathing) for learners who find eyes-closed practice uncomfortable
-- Integration with movement — pairing breathing with stretching or [classroom physical activity](../claims/classroom-physical-activity-improves-attention.md) — for learners who settle better with motion
+- Integration with movement — pairing breathing with stretching or [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) — for learners who settle better with motion
 
 ### Target Learners
 - Learners with high anxiety, particularly before assessments or performances [+W]

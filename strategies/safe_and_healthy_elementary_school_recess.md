@@ -19,7 +19,7 @@ Safe and healthy recess treats recess as an instructional setting rather than un
 
 ## Design Implications
 
-Structured recess leverages the fact that social skills and self-regulation are learned through guided practice in authentic peer settings, not through instruction alone. Physical activity during the school day also supports attention and on-task behavior in subsequent lessons [Classroom physical activity improves attention and on-task behavior.](../claims/classroom-physical-activity-improves-attention.md) [+M]. Adult facilitation matters: simply adding structure without coaching and modeling tends to produce compliance rather than transferable social skills.
+Structured recess leverages the fact that social skills and self-regulation are learned through guided practice in authentic peer settings, not through instruction alone. Physical activity during the school day also supports attention and on-task behavior in subsequent lessons [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]. Adult facilitation matters: simply adding structure without coaching and modeling tends to produce compliance rather than transferable social skills.
 
 ### Context
 #### Requirements

@@ -20,7 +20,7 @@ Assessing performance is the instructional event in which learners demonstrate w
 
 ## Design Implications
 
-Performance assessment is most effective when criteria are transparent and feedback follows quickly, so learners can connect evaluation to the specific actions that produced it [Feedback that specifies the gap between current and desired performance improves achievement.](../principles/assessment-for-learning.md) [+S]. Assessments that require learners to *generate* performance — solving, writing, producing — produce stronger retention than recognition-based formats, because retrieval practice strengthens memory more than re-exposure [Testing produces stronger retention than restudying.](../principles/active-learning.md) [+S]. Rubrics and criterion-referenced scoring make judgments interpretable and support learner self-assessment.
+Performance assessment is most effective when criteria are transparent and feedback follows quickly, so learners can connect evaluation to the specific actions that produced it [Feedback that specifies the gap between current and desired performance improves achievement.](../claims/feedback-improves-learning.md) [+S]. Assessments that require learners to *generate* performance — solving, writing, producing — produce stronger retention than recognition-based formats, because retrieval practice strengthens memory more than re-exposure [Testing produces stronger retention than restudying.](../claims/retrieval-practice-improves-retention.md) [+S]. Rubrics and criterion-referenced scoring make judgments interpretable and support learner self-assessment.
 
 ### Context
 #### Requirements
