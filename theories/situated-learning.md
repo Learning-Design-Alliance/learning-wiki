@@ -37,6 +37,9 @@ Situated learning holds that knowledge is inseparable from the social, material,
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — authentic participation is more productive when support is calibrated to learner capability
 - [A persistent theory-practice gap: students may develop conceptual AI understanding but lack opportunities to apply it in authentic contexts](../claims/ail-theory-practice-gap-he-programs.md) [-W]
 
+## The evidence by question
+- *Does instruction built around authentic tasks and contexts produce better learning and transfer than abstract, decontextualized instruction?* [Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments](../claims/authentic-assignments-greater-itbs-gains.md) [+M]
+
 ## Related Theories
 
 - [Constructivism](constructivism.md)
