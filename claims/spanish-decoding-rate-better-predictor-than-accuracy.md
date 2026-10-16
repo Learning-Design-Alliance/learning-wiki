@@ -41,8 +41,9 @@ A narrative research-synthesis statement in the Test Design chapter, attributed 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — the general claim this finding bears on, with the studies behind it
 - [Four oral reading scores together best predict passage comprehension and enable individualized instruction](four-scores-predict-passage-comprehension.md) — related
 - [In Spanish, decoding accuracy is typically established earlier, after which rate becomes a more sensitive predictor of passage comprehension](spanish-transparent-orthography-rate-predictor.md) — possibly the same claim (merge candidate)
 - [Syllable awareness is a strong and prominent predictor of Spanish reading development](syllable-awareness-strong-predictor-spanish-reading.md) — related

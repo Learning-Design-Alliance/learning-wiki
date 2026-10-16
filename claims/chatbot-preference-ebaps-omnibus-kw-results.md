@@ -30,7 +30,7 @@ sources:
 # Chatbot preference groups differed in total EBAPS and Axis 4/5 scores at the nominal level, with small effect sizes, but not after Bonferroni adjustment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2` · `i0` negligible
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i0` Kruskal-Wallis tests showed at least one preference group differed on total EBAPS scores and on Axis 4 and Axis 5, with small effect sizes (total 0.004; Axis 4 0.007; Axis 5 0.006). [→ Amogh Sirnoorkar and Omkar Mamidpalliwar 2026](#amogh-sirnoorkar-and-omkar-mamidpalliwar-2026)
@@ -60,8 +60,12 @@ Robustness check applying a Bonferroni-adjusted significance level (α=0.0083) a
 
 ## Discussion
 
+## Learner Variables
+- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge](reflective-thinking-correlates-epistemological-beliefs.md) — the general claim this finding bears on, with the studies behind it
 - [Students preferring combination-style chatbots had higher total EBAPS scores than students preferring direct-answer chatbots (nominal significance only)](combination-preferrers-higher-total-ebaps-than-answer-preferrers.md) — a narrower finding that bears on this claim
 - [No statistically significant EBAPS differences were observed for Axes 1–3 or between guided-inquiry and answer-oriented chatbot preferrers](no-ebaps-differences-axes-1-3-or-inquiry-vs-answer.md) — related
 - [Combination-preferring students scored higher than answer-preferring students on evolving-knowledge (Axis 4) and source-of-ability (Axis 5) EBAPS dimensions](combination-preferrers-higher-axis4-axis5-scores.md) — a narrower finding that bears on this claim

@@ -40,6 +40,17 @@ Cummins cites prior research (Collier, 1987; Cummins, 1984) on second language a
 
 > "immigrant children often acquire peer-appropriate conversational fluency in English within about 2 years but it requires considerably longer (5-10 years) to catch up academically in English"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*How long do second-language learners take to reach conversational fluency compared with academic language proficiency, and is conversation always first?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **2 distinct studies** (1 theoretical, 1 review), `q1`–`q2`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Cummins 1999 | q1 · theoretical · r2 | i? | this claim; [Assuming conversational fluency indicates English proficiency has led to bilingual childre](conversational-fluency-misleading-proficiency-indicator.md) (supports); [BICS and CALP intersect developmentally but are not identical or reducible one to the othe](bics-calp-intersect-not-identical.md) (qualifies); [The BICS-before-CALP sequence is typical for immigrant children but not universal: high L2](calp-can-precede-bics-in-certain-situations.md) (qualifies) |
+| [Roessingh 2006](https://doi.org/10.18806/tesl.v23i2.57) | q1 / q2 · review · r1 | i? | [BICS-level language can be acquired in about two years regardless of age on arrival and fi](bics-acquired-two-years-all-ages.md) (supports); [Small-scale studies suggest age 15-16 with intermediate English proficiency (reading GE 5)](arrival-age-15-16-ge5-good-immigration-age.md) (qualifies); [Youngest-arriving ESL learners risk acquiring neither L1 nor L2 at the level school demand](young-arrivals-risk-losing-both-l1-and-l2.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

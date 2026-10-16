@@ -62,6 +62,7 @@ WWC-computed improvement indices across the three studies' findings in the Engli
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [English-Learner Status](../learner-variables/english-learner-status.md) — outcome: instruction changes it
 
 ## Related Claims
 

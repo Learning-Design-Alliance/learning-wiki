@@ -41,7 +41,10 @@ The authors report a predictive evaluation on real-world tutoring data using the
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The survey reports, citing Pavlik et al., that no single knowledge tracing model was always the best, and that a better model must consider multiple student features and the learning context.](no-single-knowledge-tracing-model-is-always-best.md) — the general claim this finding bears on, with the studies behind it
+
+- [The survey states that deep learning knowledge tracing models exhibit superior performance to Bayesian and logistic models but have significant room for improvement in interpretability.](deep-learning-knowledge-tracing-outperforms-but-lacks-interpretability.md) — the general claim this finding bears on, with the studies behind it
 - [A multi-skill prior strategy yielded lower prediction error in 33 of 42 problem sets](multi-skill-prior-strategy-best-prediction-error.md) — related
 - [Standard knowledge tracing models in use do not allow individual learning rates or individualized initial knowledge](standard-knowledge-tracing-lacks-individualization.md) — related

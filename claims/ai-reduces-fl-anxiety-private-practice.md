@@ -54,10 +54,31 @@ Thematic synthesis codes 31 studies to self-efficacy and self-confidence enhance
 
 > "Personalized feedback and visible progress strengthen learners self-efficacy or self- confidence in oral communication"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does private, low-pressure and repeated practice lower learners' anxiety about using a second language?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **8 distinct studies** (3 review, 2 qualitative, 1 causal, 1 associational, 1 design), `q1`–`q2`, 1 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Zhang S 2026](https://doi.org/10.3389/feduc.2026.1927432) | q2 · review · r3 | i? | this claim |
+| Andrew Leichsenring 2010 | q1 · qualitative · r2 | i? | [Speaking practice opportunities and teacher support reduced classroom anxiety and increase](speaking-practice-reduced-flca-increased-self-efficacy.md) (supports) |
+| [Junko Yamashita 2013](https://doi.org/10.64152/10125/66872) | q2 · causal · r1 | i2; i?; i3 | [Extensive reading reduced Japanese EFL learners' anxiety about foreign-language reading (r](er-reduced-anxiety-efl-reading-attitude.md) (supports); [A 15-week extensive reading course increased Japanese EFL learners' feelings of comfort wi](er-increased-comfort-efl-reading-attitude.md) (supports) |
+| [Jaeseok Yang 2013](https://doi.org/10.5539/elt.v6n7p19) | q2 · review · r2 | i? | [Tablet-PC-supported peer-assisted learning reduced EFL learners' anxiety and promoted moti](tablet-pc-peer-assisted-learning-reduces-anxiety.md) (supports) |
+| Ismayilli 2025 | q2 · qualitative · r2 | i? | [EFL students report that games reduce speaking stress and improve speaking skills](games-reduce-speaking-stress-improve-skills.md) (supports) |
+| Diaz 1988 | q1 · review · r1 | i? | [Student-centered writing environments are argued to lower anxiety, increase confidence, an](student-centered-environments-lower-anxiety-increase-confidence.md) (supports) |
+| [Sadighi 2017](https://doi.org/10.7575/aiac.ijels.v.5n.4p.111) | q2 · associational · r1 | i? | [Lack of practice ranks fourth among speaking anxiety sources, attributed to teacher-center](lack-of-practice-teacher-centered-anxiety.md) (supports); [Fear of making mistakes is the most significant cause of foreign language speaking anxiety](fear-of-mistakes-top-speaking-anxiety-iranian-efl.md) (qualifies); [Fear of negative evaluation and limited vocabulary knowledge rank second and third as sour](negative-evaluation-vocabulary-anxiety-ranks.md) (qualifies) |
+| [Rafael Zaccaron 2019](https://doi.org/10.15448/2178-3640.2019.2.32988) | q2 · design · r1 | i? | [Immediate task repetition benefits oral performance, including fluency, self-correction an](immediate-repetition-benefits-oral-performance.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
+## Learner Variables
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Studies directly measuring WTC consistently report positive effects of AI on EFL learners' WTC across tool types, contexts, and age groups](ai-directly-enhances-efl-wtc.md) — the general claim this finding bears on, with the studies behind it
 - [AI-powered corrective feedback and repeated practice enhance oral language skills (Communicative Capacity Pathway)](ai-improves-speaking-proficiency-feedback-practice.md) — related
 - [Speaking practice opportunities and teacher support reduced classroom anxiety and increased self-efficacy for one learner](speaking-practice-reduced-flca-increased-self-efficacy.md) — related
 - [Fear of making mistakes is the most significant cause of foreign language speaking anxiety among Iranian EFL learners (81%)](fear-of-mistakes-top-speaking-anxiety-iranian-efl.md) — related

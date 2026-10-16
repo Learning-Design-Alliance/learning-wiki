@@ -127,6 +127,30 @@
         [
           "expertise-reversal-effect",
           "~"
+        ],
+        [
+          "fading-support-promotes-transfer-of-responsibility",
+          "+"
+        ],
+        [
+          "coach-guided-relearning-beats-static",
+          "+"
+        ],
+        [
+          "genai-hints-effective-but-require-validation",
+          "~"
+        ],
+        [
+          "scaffolded-coach-no-assignment-performance-advantage",
+          "~"
+        ],
+        [
+          "context-effect-depends-on-guidance-style",
+          "~"
+        ],
+        [
+          "chatgpt-hint-error-rate-self-consistency",
+          "~"
         ]
       ]
     }

@@ -151,6 +151,12 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Without instructional support, learners show low cognitive strategy use and almost absent metacognitive strategies in journal writing, and realized strategy use correlates with learning outcomes](../claims/unsupported-journal-writing-low-strategy-use.md) [+M] — learners who differ on it differ in outcomes
 - [Young children ages 5-6 can set learning goals and use the Self-Determined Learning Model of Instruction to achieve them](../claims/young-children-set-goals-sdlmi-achieve.md) [+M] — instruction changes it
 
+## The evidence by question
+- *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]
+- *Does teaching and prompting self-regulation improve achievement over ordinary instruction?* [Self-regulated learning improves achievement](../claims/self-regulated-learning-improves-achievement.md) [+S]
+- *Can learners' own monitoring be trusted, and can it be trained?* [Self assessment accuracy is low without training](../claims/self-assessment-accuracy-is-low-without-training.md) [-S]
+- *What happens to regulation when learners have a generative AI assistant, and what counteracts offloading?* [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](../claims/genai-overreliance-harms-self-regulated-learning.md) [+M]
+
 ## Related Learner Variables
 - Motivation — starts the effort that self-regulation then has to sustain.
 - Prior knowledge — accurate self-assessment needs a standard, which novices do not yet hold.

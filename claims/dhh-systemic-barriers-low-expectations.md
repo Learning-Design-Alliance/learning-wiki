@@ -41,11 +41,12 @@ The article's abstract asserts, without printed data or statistics in the availa
 
 ## Discussion
 
-
 ## Learner Variables
 - [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Math achievement of BVI students lags sighted peers and the gap widens with age](bvi-math-achievement-lags-and-gap-widens.md) — the general claim this finding bears on, with the studies behind it
 - [DHH students in grades 2–8 continue to build reading and mathematics skills and do not necessarily plateau in the elementary grades](dhh-students-continue-building-skills-no-elementary-plateau.md) — related
 - [Half of reported developmental barriers stem from academic-related challenges (50.39%)](academic-challenges-half-of-development-barriers.md) — related
 - [Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).](teacher-perceived-cost-reduces-motivation-to-use-ai.md) — related

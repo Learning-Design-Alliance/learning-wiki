@@ -1,0 +1,86 @@
+{
+  "principle": "elements/three-lesson-web-based-srl-training",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep",
+      "question": "Which components (training, diary, peer feedback, goals), and which outcomes move?",
+      "members": [
+        [
+          "learning-diary-alone-no-significant-srl-gains-online-math-prep-course",
+          "~"
+        ],
+        [
+          "web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math",
+          "~"
+        ],
+        [
+          "peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score",
+          "+"
+        ],
+        [
+          "peer-feedback-groups-add-self-motivation-volition-reflection-gains-to-web-based-srl-training",
+          "+"
+        ],
+        [
+          "srl-interventions-math-overall-score-marginal-focus-score-significant-online-prep-course",
+          "~"
+        ],
+        [
+          "srl-interventions-increase-logged-time-investment-online-math-prep-course",
+          "+"
+        ],
+        [
+          "srl-effect-no-strategy-type-difference",
+          "~"
+        ],
+        [
+          "mixed-srl-strategy-interventions-greatest-impact",
+          "~"
+        ],
+        [
+          "goal-setting-improves-performance",
+          "+"
+        ],
+        [
+          "process-goals-outperform-outcome-goals-for-novices",
+          "+"
+        ],
+        [
+          "web-based-srl-training-subscale-interactions-planning-metacognition-volition",
+          "+"
+        ],
+        [
+          "combined-srl-training-with-app-diaries-improved-more",
+          "+"
+        ],
+        [
+          "combined-condition-improved-specific-srl-components",
+          "+"
+        ],
+        [
+          "diary-plus-srl-instruction-raises-strategy-use-self-efficacy",
+          "+"
+        ],
+        [
+          "no-academic-performance-improvement",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "srl-interventions-moderate-effect-online-blended",
+      "question": "Does building self-regulation support (planning, if-then plans, self-checks) into an online course improve learning and completion?",
+      "members": [
+        [
+          "implementation-intentions-improve-goal-attainment",
+          "+"
+        ],
+        [
+          "srl-interventions-improve-activity-achievement",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

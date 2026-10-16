@@ -30,7 +30,7 @@ sources:
 # LLM error simulation rarely fails, but the model is less likely to reproduce a targeted distractor on problems with longer correct solutions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r2`, 1 associational `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` When prompted to simulate a problem-specific student error, DEEPSEEK-V3.2 achieves a mean accuracy of 0.92±0.02 against any faithful interpretation of the error. [→ Yanick Zengaffinen 2026](#yanick-zengaffinen-2026)

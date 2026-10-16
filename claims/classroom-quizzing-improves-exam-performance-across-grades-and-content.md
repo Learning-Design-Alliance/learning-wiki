@@ -99,17 +99,22 @@ The chapter reports Lindsey et al. (2014), whose personalized review system impl
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*How much comes from answering the question at all, before any discussion?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **2 distinct studies** (1 review, 1 associational), `q2`–`q3`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*How much comes from answering the question at all, before any discussion?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **5 distinct studies** (2 review, 1 associational, 1 quant-synthesis, 1 causal), `q2`–`q4`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r3 | i? | this claim |
-| [Dana L. Kirkwood-Watts 2022](https://doi.org/10.1128/jmbe.00038-22) | q3 · associational · r2 | i? | [Any clicker participation outperforms absence on exam questions, but the lowest quartile s](any-clicker-pattern-beats-absence-except-lowest-quartile.md) (qualifies) |
+| [Dana L. Kirkwood-Watts 2022](https://doi.org/10.1128/jmbe.00038-22) | q3 · associational · r2 | i? | [Any clicker participation outperforms absence on exam questions, but the lowest quartile s](any-clicker-pattern-beats-absence-except-lowest-quartile.md) (qualifies); [Clicker participation and homework completion each significantly predict performance on is](clicker-participation-and-homework-completion-predict-exam-performance.md) (supports); [Being present for a clicker question predicts a higher likelihood of providing a homework ](clicker-presence-predicts-homework-explanation-quality.md) (supports) |
+| [Steven C. Pan 2023](https://doi.org/10.1007/s10648-023-09814-5) | q3 · review · r3 | i? | [Classroom pretesting improves high-stakes exam performance on pretested content by 8–9% ov](classroom-pretesting-exam-gains.md) (supports) |
+| [Yang 2020](https://doi.org/10.1037/bul0000309) | q4 · quant-synthesis · r? | i2 | [The classroom testing effect transfers to mismatched test formats, but consistent quiz–exa](format-consistency-moderates-classroom-testing-effect.md) (qualifies) |
+| [Deborah K. Anderson 2023](https://doi.org/10.1128/jmbe.00151-22) | q3 · causal · r2 | i2 | [HOCS clicker questions during learning improve performance on LOCS exam questions more tha](hocs-clickers-improve-locs-exam-performance.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
 
 ## Related Claims
+
+- [Classroom testing (quizzing) significantly boosts student academic achievement to a medium extent (g = 0.499).](classroom-quizzing-medium-effect-achievement.md) — the general claim this finding bears on, with the studies behind it
 
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Most middle and high school students surveyed after classroom retrieval practice programs viewed them positively and said frequent retrieval practice helped them feel less nervous about exams](students-report-classroom-retrieval-practice-helps-learning-and-reduces-exam-nervousness.md) — related

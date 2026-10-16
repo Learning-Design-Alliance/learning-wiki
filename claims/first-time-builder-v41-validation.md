@@ -30,7 +30,7 @@ sources:
 # First-time builders completed the v4.1 build in a mean of 39.1 minutes with SUS 74.6 (Good), but showed higher assembly Mental Demand than developers and tactile fragility concerns around snap-fit components
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 qualitative `r2`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` User Mental Demand during assembly remained higher than that of developers, which participants attributed to the effort of identifying parts and wiring identification. [→ Farnaz Baksh 2026](#farnaz-baksh-2026)

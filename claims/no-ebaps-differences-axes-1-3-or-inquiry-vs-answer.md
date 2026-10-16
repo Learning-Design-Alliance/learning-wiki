@@ -30,7 +30,7 @@ sources:
 # No statistically significant EBAPS differences were observed for Axes 1–3 or between guided-inquiry and answer-oriented chatbot preferrers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Kruskal-Wallis tests found no statistically significant differences among preference groups on Axis 1 (structure of knowledge), Axis 2 (nature of knowing and learning), or Axis 3 (real-life applicability). [→ Amogh Sirnoorkar and Omkar Mamidpalliwar 2026](#amogh-sirnoorkar-and-omkar-mamidpalliwar-2026)
@@ -60,8 +60,12 @@ Dunn's post-hoc comparisons beyond the significant Answer–Combination contrast
 
 ## Discussion
 
+## Learner Variables
+- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge](reflective-thinking-correlates-epistemological-beliefs.md) — the general claim this finding bears on, with the studies behind it
 - [Chatbot preference groups differed in total EBAPS and Axis 4/5 scores at the nominal level, with small effect sizes, but not after Bonferroni adjustment](chatbot-preference-ebaps-omnibus-kw-results.md) — related
 - [Combination-preferring students scored higher than answer-preferring students on evolving-knowledge (Axis 4) and source-of-ability (Axis 5) EBAPS dimensions](combination-preferrers-higher-axis4-axis5-scores.md) — related
 - [Students preferring combination-style chatbots had higher total EBAPS scores than students preferring direct-answer chatbots (nominal significance only)](combination-preferrers-higher-total-ebaps-than-answer-preferrers.md) — related

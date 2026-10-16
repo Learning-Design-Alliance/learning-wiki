@@ -42,6 +42,9 @@ Correlational analysis (Table 4) of the 210-learner survey identified the four h
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Ideal L2 self positively and significantly predicts student self-efficacy, generalizing prior qualitative findings quantitatively](ideal-l2-self-predicts-self-efficacy.md) — a narrower finding that bears on this claim
 - [In the motivational profile of Iranian EFL learners, instrumentality-promotion received the highest mean, followed by ideal L2 self](iranian-efl-motivation-profile-inspro-highest.md) — related

@@ -41,8 +41,9 @@ A districtwide analysis of survey and interview data on Chicago's standards impl
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](effective-pd-seven-features.md) — the general claim this finding bears on, with the studies behind it
 - Curriculum and instructional resources show more modest and mixed relationships with standards-aligned instructional practices — a broader claim this one bears on
 - Professional learning opportunities are strongly related to teachers' use of standards-aligned instructional practices in math and science — related
 - [One year of Teacher Potential Project participation improved teachers' overall English language arts instructional practices relative to district curriculum and professional development](tpp-one-year-improves-ela-instructional-practices.md) — related

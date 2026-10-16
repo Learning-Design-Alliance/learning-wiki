@@ -41,6 +41,8 @@ Figure 2 analysis of AI-consistent final responses by advice correctness and tas
 
 ## Related Claims
 
+- [Reflection improves correspondence between perceived and behavioral reliance on ChatGPT](reflection-improves-awareness-calibration.md) — the general claim this finding bears on, with the studies behind it
+
 - [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](genai-overreliance-harms-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Better awareness calibration co-occurs with lower incorrect-advice acceptance and lower attribution bias, interpreted associationally only](calibration-negatively-associated-overreliance.md) — related
 - [Open ChatGPT support increases college students' final decision confidence relative to independent decision-making, and reflection attenuates the boost](chatgpt-support-increases-final-confidence.md) — related

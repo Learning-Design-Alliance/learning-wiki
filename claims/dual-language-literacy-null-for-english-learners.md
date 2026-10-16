@@ -41,6 +41,7 @@ The WWC's review of supplemental findings reports that the strongest study's pos
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — moderator: an instructional effect differs with it
+- [English-Learner Status](../learner-variables/english-learner-status.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 

@@ -44,6 +44,7 @@ WWC-conducted synthesis across the two studies meeting standards, computing impr
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [English-Learner Status](../learner-variables/english-learner-status.md) — outcome: instruction changes it
 
 ## Related Claims
 - [The WWC rates Instructional Conversations and Literature Logs as having potentially positive effects on reading achievement and English language development](ic-ll-potentially-positive-wwc-rating.md) — related

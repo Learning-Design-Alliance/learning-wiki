@@ -13,7 +13,7 @@ generated:
 # Simple-to-complex sequencing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 8 studies (3 causal, 3 review, 2 theoretical), `q2`–`q3` · 0 of 8 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 10 studies (4 causal, 4 review, 2 theoretical), `q2`–`q3` · 0 of 10 report an effect size · 3 claims rest on one study
 
 ## Description
 Simple-to-complex sequencing orders instruction so that learners first master basic, prerequisite concepts and skills before encountering more detailed, complex, or integrated ones. It is the default sequencing logic for subjects with cumulative knowledge structures — mathematics, languages, programming — where later content presupposes earlier content. The approach is central to [Elaboration Theory](../patterns/elaboration-theory.md), which prescribes starting with the simplest, most general representation of a topic (an "epitome") and progressively elaborating toward complexity.
@@ -53,6 +53,10 @@ Sequencing from simple to complex manages intrinsic cognitive load by ensuring t
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - 
+
+## The evidence by question
+
+- *Should component knowledge come before the whole task?* [Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies](../claims/pretraining-improves-transfer.md) [+M]
 
 ## Related Elements
 - [Mastery Learning](mastery-learning.md) — provides the gate that keeps sequencing sound; progression without mastery accumulates gaps

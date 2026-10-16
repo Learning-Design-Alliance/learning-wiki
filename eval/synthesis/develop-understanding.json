@@ -33,6 +33,42 @@
         [
           "model-comparison-noticing-lexical",
           "~"
+        ],
+        [
+          "generative-processing-improves-learning",
+          "+"
+        ],
+        [
+          "self-explanation-effect-worked-examples",
+          "+"
+        ],
+        [
+          "worked-example-self-explanation-journal-transfer",
+          "+"
+        ],
+        [
+          "assisting-self-explanation-prompt-effect",
+          "+"
+        ],
+        [
+          "assisting-prompts-foster-conceptual-knowledge",
+          "+"
+        ],
+        [
+          "self-explanation-prompts-foster-procedural-knowledge",
+          "+"
+        ],
+        [
+          "fading-and-principle-prompts-improve-probability-transfer",
+          "+"
+        ],
+        [
+          "explanation-prompts-redirect-attention-with-hidden-costs",
+          "~"
+        ],
+        [
+          "adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects",
+          "~"
         ]
       ]
     },
@@ -62,6 +98,38 @@
         ],
         [
           "cscl-simulation-conceptual-change-cognitive-engagement",
+          "~"
+        ],
+        [
+          "prediction-graphing-reveals-classification-thinking",
+          "+"
+        ],
+        [
+          "force-motion-conceptions-difficult-to-change",
+          "~"
+        ],
+        [
+          "automated-annotations-accelerate-misconception-correction",
+          "+"
+        ],
+        [
+          "fci-gain-increased-peer-instruction-harvard",
+          "+"
+        ],
+        [
+          "peer-conflicts-conditional-on-reflection",
+          "~"
+        ],
+        [
+          "personal-construction-required-stable-conceptual-change",
+          "~"
+        ],
+        [
+          "high-equality-mutuality-not-sufficient-conceptual-change",
+          "~"
+        ],
+        [
+          "belief-consistent-facts-better-recognized",
           "~"
         ]
       ]

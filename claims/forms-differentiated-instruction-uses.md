@@ -30,7 +30,7 @@ sources:
 # Teachers used Forms results to differentiate instruction, including forming working groups and modifying assessments for IEP accommodations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A Scottish high-school teacher used Forms assessment results to create mixed-ability working groups and reteach small groups. [→ Digital Promise 2018](#digital-promise-2018)

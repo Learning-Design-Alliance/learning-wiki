@@ -42,6 +42,9 @@ Regression analysis disaggregated by race/ethnicity (Table 4). The article attri
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Black, Hispanic/Latino/a, and Multiracial preschool children were underrepresented in higher-quality (Tier 4 and 5) programs](black-hispanic-multiracial-children-underrepresented-high-tier.md) — related
 - [Children with disabilities showed larger gains in higher-tier programs than children without disabilities](children-with-disabilities-larger-gains-higher-tiers.md) — related

@@ -13,7 +13,7 @@ generated:
 # Group Work
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 6 studies (3 quant-synthesis, 2 qualitative, 1 causal), `q2`–`q4` · 2 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 10 studies (4 quant-synthesis, 2 causal, 2 qualitative, 1 review, 1 theoretical), `q1`–`q4` · 4 of 10 report an effect size · 3 claims rest on one study
 
 ## Description
 Group work is the element in which learners work together on a shared task, product, or problem. It is useful when the task benefits from distributed reasoning, division of labor, or collaborative sensemaking.
@@ -43,6 +43,11 @@ Group work is the element in which learners work together on a shared task, prod
 - [Collaborative Writing Improves Text Quality](../claims/collaborative-writing-improves-text-quality.md) [+M]
 - [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+S]
 - [Adult learners perceive AI collaborative workspaces as fostering equitable participation and shared responsibility in group problem-solving](../claims/ai-workspaces-equitable-collaborative-problem-solving.md) [+W]
+
+## The evidence by question
+- *Does structured cooperative group work raise achievement more than individualistic, competitive or traditional whole-class instruction?* [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+S]
+- *Which structure matters: group rewards tied to each member's learning, assigned roles, or interdependence of any kind?* [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+S]
+- *What makes joint work fail: the task, group size and composition, or how members take part?* [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](../claims/collaborative-situations-often-fail-productive.md) [~W]
 
 ## Related Elements
 - [Peer Collaboration](peer-collaboration.md)

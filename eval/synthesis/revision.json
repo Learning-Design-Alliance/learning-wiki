@@ -1,0 +1,110 @@
+{
+  "principle": "elements/revision",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "process-writing-improves-writing-quality",
+      "question": "Does teaching writing as a staged process with feedback on drafts raise writing quality, and what has to be inside it for the gain to appear?",
+      "members": [
+        [
+          "strategy-instruction-improves-writing-quality",
+          "+"
+        ],
+        [
+          "peer-feedback-improves-writing",
+          "+"
+        ],
+        [
+          "collaborative-writing-improves-text-quality",
+          "+"
+        ],
+        [
+          "peer-response-groups-writing-idea-units",
+          "~"
+        ],
+        [
+          "rubrics-improve-student-work",
+          "+"
+        ],
+        [
+          "process-goals-outperform-outcome-goals-for-novices",
+          "~"
+        ],
+        [
+          "essay-quality-improves-from-initial-to-revised",
+          "+"
+        ],
+        [
+          "noticing-errors-decreases-errors-preserves-quality",
+          "+"
+        ],
+        [
+          "spontaneous-sentence-production-in-synthetic-planning-increases-understanding",
+          "~"
+        ],
+        [
+          "students-recognize-writing-improvement-ai-feedback",
+          "+"
+        ],
+        [
+          "feedback-source-no-effect-on-revision-outcomes",
+          "~"
+        ],
+        [
+          "feedback-quality-predicts-revision-only-in-teacher-condition",
+          "~"
+        ],
+        [
+          "probing-feedback-revise-resubmit-evidence",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "revision-architecture-meaning-change-versus-surface",
+      "question": "What leads learners to make deep, meaning-level revisions rather than surface edits?",
+      "members": [
+        [
+          "frac-shifts-revision-toward-deep-levels",
+          "+"
+        ],
+        [
+          "comprehension-strongest-link-revision-quality",
+          "+"
+        ],
+        [
+          "ai-peer-feedback-agentive-revision-strategies",
+          "+"
+        ],
+        [
+          "reading-as-the-reader-improves-revision-and-drafting",
+          "+"
+        ],
+        [
+          "constructive-conflict-increases-idea-editing",
+          "+"
+        ],
+        [
+          "soft-barrier-shifts-users-toward-editing",
+          "+"
+        ],
+        [
+          "psychological-mediators-predict-deep-revision",
+          "~"
+        ],
+        [
+          "external-mandate-no-direct-effect-deep-revision",
+          "~"
+        ],
+        [
+          "low-comment-rewriting-across-attempts",
+          "~"
+        ],
+        [
+          "peer-revisions-contractive-ai-balanced",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

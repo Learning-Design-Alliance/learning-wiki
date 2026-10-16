@@ -30,7 +30,7 @@ sources:
 # Recognition of individual Pepper-produced LIS signs varies widely, with several signs significantly above chance and others not significant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` One-tailed binomial tests against the 25% chance level showed statistically significant recognition for signs including Dimenticare, Finire/Fatto, Shampoo, and Università (p < 0.0001). [→ Giulia Boaa 2025](#giulia-boaa-2025)

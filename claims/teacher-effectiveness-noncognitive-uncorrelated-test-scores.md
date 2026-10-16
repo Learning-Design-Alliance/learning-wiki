@@ -41,11 +41,13 @@ The paper's summary reports a dissociation between teacher effects on non-tested
 
 ## Discussion
 
-
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+- [Mindset](../learner-variables/mindset.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [The growth mindset intervention reduced fixed-mindset beliefs among lower-achieving adolescents, with effects homogeneous across schools](growth-mindset-reduces-fixed-mindset-beliefs.md) — the general claim this finding bears on, with the studies behind it
 - [Non-tested outcomes are predicted by teaching practices most proximal to these measures, including teachers' emotional support and classroom organization](proximal-practices-predict-behaviors-mindsets.md) — related
 - [Upper-elementary teachers have large effects on students' self-reported behavior in class, self-efficacy in math, and happiness in class that are similar in magnitude to their effects on math test scores](teachers-large-effects-behaviors-mindsets-similar-to-test-scores.md) — reports the opposite
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related

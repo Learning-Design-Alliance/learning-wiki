@@ -61,6 +61,9 @@ Two reports using Cal-SCHLS data from different years confirmed significant conn
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Racial achievement gaps persist among California middle and high school students, with Asian and White students reporting higher academic achievement than African American, American Indian, and Hispanic students](california-racial-achievement-gap-persists.md) — related
 - [White and Asian staff report more positive school climates than African American and Hispanic staff, irrespective of their school's student racial composition](staff-climate-perceptions-vary-by-staff-race.md) — related

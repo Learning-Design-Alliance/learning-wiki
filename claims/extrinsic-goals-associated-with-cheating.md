@@ -44,6 +44,7 @@ The article reports the integrated model of academic dishonesty of Murdock and A
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+- [Interest](../learner-variables/interest.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](extrinsic-rewards-undermine-intrinsic-motivation-argument.md) — related

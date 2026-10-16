@@ -41,8 +41,9 @@ The author reports findings from her own small-scale studies, hedged with "seem 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Immigrant children acquire peer-appropriate conversational fluency in English within about 2 years but require considerably longer (5-10 years) to catch up academically in English](bics-acquired-faster-than-calc-immigrant-children.md) — the general claim this finding bears on, with the studies behind it
 - [L1 and L2 academic proficiencies are developmentally interdependent, so instruction in either language can build underlying academic ability](l1-l2-academic-interdependence-transfer.md) — a broader claim this one bears on
 - Surface conversational fluency develops within about two years, but academic proficiency in English takes 5-7 years for immigrant students — related
 - [Older-arriving ESL learners transfer L1 knowledge efficiently, but learning slows once they outgrow their L1](l1-transfer-efficient-until-outgrown.md) — related

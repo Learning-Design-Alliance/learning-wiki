@@ -23,7 +23,7 @@ sources:
 # Chicago High School Redesign Initiative
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 15 claims (10 for, 2 mixed, 3 against) · 6 studies (2 quant-synthesis, 2 qualitative, 1 review, 1 associational), `q2`–`q3` · 1 of 6 report an effect size · 14 claims rest on one study
+> **Evidence** · 18 claims (11 for, 3 mixed, 4 against) · 7 studies (2 quant-synthesis, 2 associational, 2 qualitative, 1 review), `q2`–`q3` · 2 of 7 report an effect size · 17 claims rest on one study
 
 ## Description
 A school-redesign initiative that supported the creation and development of small Chicago public high schools through partnerships among Chicago Public Schools, funders, and participating school communities.

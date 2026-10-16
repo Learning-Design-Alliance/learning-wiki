@@ -43,6 +43,9 @@ Subgroup analyses of the follow-up ITT sample tested differential impacts by stu
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students](assistments-school-composition-moderators.md) — related
 - [Black-White and Hispanic-White achievement gaps at kindergarten entry narrowed significantly between 2010 and 2017 in both math and reading](racial-ethnic-entry-gaps-narrowed-2010-2017.md) — related

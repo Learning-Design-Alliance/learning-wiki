@@ -41,11 +41,12 @@ Type-II ANOVA on IMI enjoyment among the 157 active participants in the randomiz
 
 ## Discussion
 
-
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [GenAI-assisted education produces significantly higher learning motivation than non-GenAI approaches (g = 0.81)](genai-learning-motivation-g081.md) — the general claim this finding bears on, with the studies behind it
 - [An example-based built-in course in a mobile chatbot journaling system increases students' intrinsic motivation for creating a learning journal](example-based-course-increases-journaling-intrinsic-motivation.md) — related
 - [Course users create their journal entries earlier relative to the daily notification, while assistant access shows no significant timing effect](course-users-earlier-journal-entry-timing.md) — related
 - [The example-based course increases perceived competence, but neither feature affects perceived choice or pressure](course-increases-perceived-competence-journaling.md) — related

@@ -42,6 +42,9 @@ Descriptive comparison of usage counts by gender from the same February 2025 log
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [AI dependency differs by AI usage frequency and academic year but not gender](ai-dependency-group-differences-usage-frequency-year.md) — related
 - [A substantial proportion of distance students (44,035 of 76,485) used the AI-based learning assistant Syntea during one observation month](syntea-substantial-adoption-distance-students.md) — related

@@ -1,0 +1,44 @@
+{
+  "principle": "theories/elaborative-retrieval-account",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "limited-support-semantic-elaboration-testing-accounts",
+      "question": "Does retrieving improve later recall because learners elaborate the material semantically while retrieving, as this account holds?",
+      "members": [
+        [
+          "retrieval-practice-benefits-extend-to-nonverbal-spatial-and-differently-structured-text-materials",
+          "+"
+        ],
+        [
+          "retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration",
+          "+"
+        ],
+        [
+          "retrieval-effort-support-testing-effect",
+          "+"
+        ],
+        [
+          "mediator-cued-final-test-effects-of-retrieval-practice-may-be-small",
+          "~"
+        ],
+        [
+          "effects-of-retrieval-practice-on-semantic-organization-are-unclear",
+          "~"
+        ],
+        [
+          "less-initial-retrieval-support-produces-better-retention",
+          "~"
+        ],
+        [
+          "transfer-greatest-test-formats-application-inference-medical-mediator-cues",
+          "~"
+        ],
+        [
+          "semantic-association-moderates-pretesting",
+          "-"
+        ]
+      ]
+    }
+  ]
+}

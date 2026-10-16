@@ -41,7 +41,10 @@ Theoretical argument reviewing prior critiques (e.g. DeKeyser 1998; Krashen). Th
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Automatization of L2 skills requires extensive practice in a consistent environment, not repetition of grammar rules as in traditional exercises](automatization-requires-practice-consistent-environment.md) — the general claim this finding bears on, with the studies behind it
+
+- [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](practice-presence-raises-cbi-posttest-achievement.md) — the general claim this finding bears on, with the studies behind it
 - The review reports that behaviorism cannot deal with complex human behavior and fails to explain linguistic generativity — a broader claim this one bears on
 - [Across repetition cycles, attention can shift from message meaning to linguistic form, enabling recycled language and self-correction](attention-shift-meaning-to-form-over-cycles.md) — related

@@ -39,8 +39,9 @@ In the ABSA qualitative analysis, the Efficiency & Speed category showed positiv
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Adult ESL learners report above-neutral perceptions of ASR as a writing tool on usefulness, ease of use, and intention to use](esl-learners-positive-perceptions-asr-writing.md) — the general claim this finding bears on, with the studies behind it
 - [Students reported text supports structured, iterative planning while some valued voice for getting initial ideas out](modality-shapes-planning-and-idea-generation.md) — related
 - [Students overwhelmingly used text prompting, and prior modality choice did not predict subsequent choice among dual-mode users](text-dominance-modality-choice-independent.md) — related
 - [Students perceived text input as superior for accuracy, control, and editability, with transcription errors a key voice drawback](text-perceived-accuracy-control-editability.md) — related

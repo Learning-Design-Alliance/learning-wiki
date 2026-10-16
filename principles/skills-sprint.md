@@ -21,7 +21,7 @@ sources:
 # Skills Sprint
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (3 for, 8 mixed, 2 against) · 25 studies (8 causal, 8 quant-synthesis, 3 review, 3 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 6 of 25 report an effect size · 5 claims rest on one study
+> **Evidence** · 13 claims (3 for, 8 mixed, 2 against) · 26 studies (8 causal, 8 quant-synthesis, 4 review, 3 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 7 of 26 report an effect size · 5 claims rest on one study
 
 ## Conditional relationship
 
@@ -109,6 +109,9 @@ No claim in the wiki compares a skills sprint with another way of spending the s
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](../claims/learner-paced-beats-system-paced-complex-material.md) [~M]: primary-school students learned more from learner-paced than system-paced animation on difficult questions only, while a meta-analysis of learner control found an overall effect near zero (g = 0.05). It bears on pacing only at a distance and is cited for the time-pressure row.
 
 The earlier page tagged the whole-task and specific-goals claims `[~S]`; each rests on one study coded q2, so they are capped at M here.
+
+## The evidence by question
+- *Who should control the pace: the system or the learner?* [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](../claims/learner-paced-beats-system-paced-complex-material.md) [~M]
 
 ## Further evidence, not yet read against this model
 

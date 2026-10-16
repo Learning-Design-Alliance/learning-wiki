@@ -13,7 +13,7 @@ generated:
 # Elaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (8 for, 2 mixed, 2 against) · 20 studies (11 causal, 5 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 6 of 20 report an effect size · 6 claims rest on one study
+> **Evidence** · 14 claims (9 for, 2 mixed, 3 against) · 21 studies (11 causal, 6 quant-synthesis, 3 review, 1 associational), `q2`–`q4` · 7 of 21 report an effect size · 8 claims rest on one study
 
 ## Description
 Elaboration is the process of expanding on new information by relating it to what one already knows — generating explanations, examples, analogies, or "why" and "how" questions. As an instructional element, it means designing prompts and activities that require learners to produce these connections rather than passively rereading material. Elaboration deepens encoding by integrating new content into existing knowledge structures, making it more retrievable and more transferable.
@@ -59,6 +59,12 @@ Elaboration improves retention and comprehension because deeper processing at en
 - [The quality of elaborative-interrogation answers had little effect on retention; even failed or inadequate why-answers facilitated learning relative to reading](../claims/response-quality-little-effect-on-elaborative-interrogation-retention.md) [~W]
 - [Elaborative interrogation instructions produce better recall and recognition of science facts than reading-for-understanding instructions](../claims/elaborative-interrogation-improves-science-fact-learning.md) [+W]
 - [Elaborative-interrogation students are less confident in their incorrect recognition selections than reading controls, who express great confidence in erroneous answers](../claims/elaborative-interrogation-reduces-confidence-in-errors.md) [+W]
+
+## The evidence by question
+
+- *Does answering 'why is this true?' about each statement improve memory and understanding of it over reading it, and when does it not?* [Elaborative Interrogation Improves Learning](../claims/elaborative-interrogation-improves-learning.md) [+S]
+- *Does having learners generate their own elaborations improve learning, compared with no elaboration or with elaborations supplied to them?* [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](../claims/generative-processing-improves-learning.md) [+M]
+- *Is time spent elaborating on material better spent than the same time retrieving it?* [Quizzing outperforms no/filler activity, fewer-question testing, restudying, and other elaborative strategies, with the advantage shrinking as the control condition's reexposure increases.](../claims/quizzing-beats-restudying-and-elaborative-controls.md) [-M]
 
 ## Related Elements
 - [Analogies](analogies.md) — a specific elaboration form connecting new content to familiar domains

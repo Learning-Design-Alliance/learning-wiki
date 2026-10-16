@@ -62,6 +62,8 @@ Univariate posttest comparison from Table 3: the self-generated group (mean 3.89
 
 ## Related Claims
 
+- [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — the general claim this finding bears on, with the studies behind it
+
 - [Elaborative Encoding Improves Retention](generative-processing-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [GPA, pretest score, and self-generated elaboration jointly predict intellectual skills but not procedural knowledge or attitudes](gpa-pretest-elaboration-interaction-intellectual-skills.md) — related
 - [GPA predicts procedural knowledge and intellectual skills but not attitudes toward learning](gpa-predicts-knowledge-not-attitudes.md) — related

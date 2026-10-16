@@ -30,7 +30,7 @@ sources:
 # Monetary stakes for accuracy act independently of AI availability on judgment suspension, with no significant AI × stakes interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2`–`r3` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3`
 
 ## Subclaims
 `q3 i?` The pre-registered negative AI × stakes interaction on suspension was not significant in Studies 2, 3, and 4 (p = .312, .506, .784). [→ Chiara Marcoccia 2026](#chiara-marcoccia-2026)

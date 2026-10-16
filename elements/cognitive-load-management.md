@@ -13,7 +13,7 @@ generated:
 # Cognitive Load Management
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (6 for) · 7 studies (4 quant-synthesis, 2 causal, 1 review), `q3`–`q4` · 3 of 7 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 10 studies (5 quant-synthesis, 3 causal, 2 review), `q3`–`q4` · 4 of 10 report an effect size · 3 claims rest on one study
 
 ## Description
 Cognitive load management is the element in which instruction is designed to reduce unnecessary processing and preserve effort for learning-relevant work.
@@ -30,6 +30,11 @@ Cognitive load management is the element in which instruction is designed to red
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]
 - [Segmenting Improves Multimedia Learning](../claims/segmenting-improves-multimedia-learning.md) [+M]
 - [Segmentation Benefits Shrink With Expertise](../claims/segmentation-benefits-shrink-with-expertise.md) [+M]
+
+## The evidence by question
+- *Does removing avoidable processing from a presentation improve learning?* [Cognitive Overload Degrades Learning](../claims/cognitive-overload-degrades-learning.md) [+S]
+- *Should related text and pictures be integrated rather than separated?* [Cognitive Load Reduction Improves Learning](../claims/cognitive-load-reduction-improves-learning.md) [+S]
+- *Does breaking a continuous presentation into segments improve learning over presenting it whole?* [Segmenting Improves Multimedia Learning](../claims/segmenting-improves-multimedia-learning.md) [+M]
 
 ## Related Elements
 - [Worked Examples](worked-examples.md)

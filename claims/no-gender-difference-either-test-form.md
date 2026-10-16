@@ -60,8 +60,12 @@ Main-effect t-tests of gender on pretest and posttest scores; both non-significa
 
 ## Discussion
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](pisa-sex-differences-math-small-reading-three-times-larger.md) — the general claim this finding bears on, with the studies behind it
 - [Fourth-graders perform substantially better on computation tests than on word problems using the same numbers](computation-outperforms-word-problems-same-numbers.md) — related
 - [In one word-problem study, females gained significantly when the formatted procedural plan came after an unformatted test, and scored lower when the formatted test came first](females-benefit-free-exploration-then-plan.md) — related
 - [Prior research attributes growing male superiority in word problem solving to age, with onset debated between sixth grade and high school](gender-gap-word-problems-increases-with-age.md) — reports the opposite

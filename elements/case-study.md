@@ -57,6 +57,11 @@ Case studies situate abstract concepts in a concrete, messy context, which suppo
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [The Business Case Discussion gives admissions readers evidence of applicants' business mindsets, defined as cognitive and intrapersonal skills rather than business expertise](../claims/business-case-discussion-reveals-business-mindsets.md) [~W]
 
+## The evidence by question
+
+- *Does teaching through realistic cases, by itself, raise learning?* [Case-based learning improves exam performance](../claims/case-based-learning-improves-exam-performance.md) [+M]
+- *Does comparing analogous cases improve transfer more than studying cases one at a time?* [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](../claims/comparing-contrasting-cases-improves-learning.md) [+S]
+
 ## Related Elements
 - [Scenario-Based Learning](scenario-based-learning.md) — broader family of simulated contexts; a case study is a text- or narrative-based scenario with analysis as the task
 - [Problem-Based Learning](problem-based-learning.md) — cases drive the entire curriculum and learners identify what they need to learn, rather than applying already-taught concepts

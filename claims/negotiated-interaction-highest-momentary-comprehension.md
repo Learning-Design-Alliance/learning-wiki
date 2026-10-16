@@ -41,8 +41,9 @@ In this experimental study, three groups of Japanese learners were differentiate
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Conversational interaction facilitates second language grammatical development in adult ESL learners](interaction-facilitates-l2-grammatical-development.md) — the general claim this finding bears on, with the studies behind it
 - [Interactionally adjusted and premodified input yield statistically comparable comprehension overall, with negotiation benefiting lower-ability learners](negotiation-benefit-limited-lower-ability-learners.md) — related
 - [In college groups, negotiation of meaning made no difference to comprehensible input obtained in the match task](college-no-comprehensible-input-difference.md) — related
 - [Learner age/level moderates the benefit of negotiation of meaning: high school learners relied on it more than college learners](age-moderates-negotiation-benefit.md) — related

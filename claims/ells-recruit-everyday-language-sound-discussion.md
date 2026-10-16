@@ -43,6 +43,9 @@ Qualitative discourse analysis of one videotaped discussion in a third-grade SEI
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Everyday and invented terminology became formalized through classroom discussion, establishing a shared protocol for referring to strings](everyday-language-formalized-classroom-protocol.md) — related
 - [ELLs attempted academic terminology from prior lessons, with experience mediating their connection to the concept of vibration](experience-mediate-connection-academic-language-vibration.md) — related

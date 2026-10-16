@@ -18,7 +18,7 @@ sources:
 # Multiple-choice retrieval practice questions with competitive alternatives
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 mixed, 1 unmarked) · 7 studies (3 causal, 2 quant-synthesis, 1 review, 1 associational), `q3`–`q4` · 4 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (1 for, 4 mixed, 1 unmarked) · 7 studies (3 causal, 2 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 4 of 7 report an effect size · 5 claims rest on one study
 
 ## Description
 A recognition-format retrieval practice item: a multiple-choice question whose incorrect options are competitive alternatives, intended to make recognition practice demand retrieval comparable to short-answer production. The study built its MCQs this way, "by including competitive alternatives in the MCQs to ensure that the MCQs cannot be attributed to being relatively easier than short-answer questions", scoring one point per correct response.
@@ -47,6 +47,10 @@ A recognition-format retrieval practice item: a multiple-choice question whose i
 - [The effect of retrieval practice format on reading comprehension does not differ significantly between lower-order and higher-order thinking questions](../claims/retrieval-format-by-levels-of-thinking-interaction-not-significant.md) [~W]
 - [Recognition was not associated with item difficulty](../claims/recognition-not-associated-with-item-difficulty.md) [~W]
 - [MCQ accuracy was high (above 87%) across all conditions with no significant difference between diverse and generic explanations](../claims/mcq-accuracy-no-significant-condition-difference.md) [~W]
+
+## The evidence by question
+- *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [+M]
+- *Can taking a multiple-choice test teach learners the wrong answers it shows them, and does feedback prevent that?* [Taking initial multiple-choice tests without feedback can lead students to later produce the incorrect lure answers they selected, even when an overall retrieval practice benefit occurs](../claims/multiple-choice-lures-can-be-learned-as-false-knowledge.md) [~M]
 
 ## Related Elements
 - [Retrieval Practice](retrieval-practice.md)

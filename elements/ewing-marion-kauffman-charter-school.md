@@ -22,7 +22,7 @@ sources:
 # Ewing Marion Kauffman Charter School
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (7 for) · 6 studies (5 causal, 1 qualitative), `q2`–`q3` · 0 of 6 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (8 for) · 6 studies (5 causal, 1 qualitative), `q2`–`q3` · 0 of 6 report an effect size · 7 claims rest on one study
 
 ## Description
 The Ewing Marion Kauffman School is "a public charter school that serves students from low-income neighborhoods in Kansas City, Missouri". The evaluation examined its impacts on achievement, attendance, and suspensions, and described its hallmarks and operations through surveys, interviews, focus groups, and classroom observations to explore possible mechanisms for its effects, informing the literature on school effectiveness.

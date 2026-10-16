@@ -44,6 +44,8 @@ Experiment 2 two-way ANOVA (input version x acquisition tasks) on the sum of com
 
 ## Related Claims
 
+- [Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading](summarization-improves-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [A hierarchical internal knowledge organization facilitates performance on complex recall and problem-solving tasks more than a single-level organization of the same knowledge](hierarchical-organization-improves-complex-task-performance.md) — related
 - [A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks](organization-task-match-determines-benefit.md) — related

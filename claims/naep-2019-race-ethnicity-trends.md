@@ -42,6 +42,9 @@ The NAEP 2019 results by race/ethnicity report average 2019 scores by student gr
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Grade 4 reading scores in 2019 decreased across the performance distribution except at the 90th percentile compared to 2017](naep-2019-grade-4-reading-declines.md) — related
 - [Grade 8 mathematics scores in 2019 decreased at the 10th and 25th percentiles compared to 2017, while the average was 1 point higher than 2017 and 19 points higher than 1990](naep-2019-grade-8-math-lower-percentiles.md) — related

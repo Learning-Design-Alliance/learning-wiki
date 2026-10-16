@@ -13,7 +13,7 @@ generated:
 # State objectives
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 9 studies (4 review, 3 theoretical, 2 causal), `q1`–`q3` · 0 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 10 studies (4 review, 3 theoretical, 2 causal, 1 design), `q1`–`q3` · 0 of 10 report an effect size · 2 claims rest on one study
 
 ## Description
 Stating objectives means explicitly communicating what learners should know or be able to do by the end of an instructional episode, before instruction begins. It functions as an advance signal of relevance and direction, orienting attention toward the features of the task that matter and setting a standard against which learners can monitor their own progress. Goal statements, though written for the teacher's own planning, are properly expressed from the learner's point of view: "learners will acquire the ability to construct a convincing argument" is a goal statement, while "the teacher will show students examples of logical arguments" is not, since it describes teacher action rather than what students will learn.
@@ -66,6 +66,10 @@ Stated objectives improve learning primarily by directing attention and supporti
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - 
+
+## The evidence by question
+
+- *Does making the intended learning explicit to learners help them, and do learners register when it is missing?* [Developing a common understanding of expected learning helps all students succeed, not only those with school-aligned prior knowledge](../claims/shared-understanding-expected-learning-helps-all-students.md) [+W]
 
 ## Related Elements
 

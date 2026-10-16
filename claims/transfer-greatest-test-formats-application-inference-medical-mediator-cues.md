@@ -41,8 +41,11 @@ Synthesis across the review's six major transfer categories, comparing category-
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Learning techniques have much smaller effects on deep learning and far transfer than on surface learning and near transfer](learning-techniques-smaller-effects-on-deep-learning-and-far-transfer.md) — the general claim this finding bears on, with the studies behind it
+
+- [Existing theoretical accounts attributing the testing effect to enhanced semantic elaboration receive limited support](limited-support-semantic-elaboration-testing-accounts.md) — the general claim this finding bears on, with the studies behind it
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — possibly the same claim (merge candidate)
 - [Retrieval practice enhances performance on final inference and transfer questions relative to restudying, although a single-word fill-in-the-blank task did not](retrieval-practice-improves-final-inference-and-transfer-questions.md) — related
 - [Retrieval practice effects on mediator-cued final tests have been positive, but Coppens et al. (2016) concluded the true effect may be only about 0.10 to 0.20](mediator-cued-final-test-effects-of-retrieval-practice-may-be-small.md) — related

@@ -57,9 +57,9 @@ Authors' interpretation of the Experiment B follow-up data: even high-quality de
 
 ## Discussion
 
-
-
 ## Related Claims
+
+- [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 
 - [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Cognitive prompts activating deep learning strategies produce a marginally significant immediate exam advantage over prompts activating shallow strategies in a real psychology course](deep-prompts-marginal-immediate-exam-advantage.md) — related

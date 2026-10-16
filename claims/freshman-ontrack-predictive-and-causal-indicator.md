@@ -60,8 +60,9 @@ In the characteristics-of-effective-indicators discussion, the paper reports tha
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI-powered predictive analytics improves academic performance by enabling early identification of at-risk students and timely intervention](ai-predictive-analytics-improves-academic-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Freshman OnTrack remains a strong predictor of high school graduation even as on-track rates have risen](freshman-ontrack-predictiveness-held-over-time.md) — related
 - [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related
 - [On-track status predicts graduation better than eighth-grade test scores](on-track-better-predictor-than-eighth-grade-tests.md) — related

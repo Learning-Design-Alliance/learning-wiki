@@ -30,7 +30,7 @@ sources:
 # Engagement-based metrics are more robust predictors of students' perceived feedback helpfulness than pedagogical dimensions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In logistic regressions predicting high perceived helpfulness, RelScore (β = 0.420, p < 0.001) and SuccScore (β = 0.187, p < 0.001) are positively and significantly associated with helpfulness, while most pedagogical dimensions show weak or inconsistent associations. [→ Rose Niousha 2026](#rose-niousha-2026)

@@ -43,6 +43,8 @@ Negative feedback counts per mode (Table 11) show 61 occurrences in text chat (2
 
 ## Related Claims
 
+- [SCMC interaction shows a small advantage over FTF on overall L2 learning outcomes](scmc-small-advantage-overall-l2-outcomes.md) — the general claim this finding bears on, with the studies behind it
+
 - [Social presence shows the strongest association with metacognition in an online case-based course, while teaching presence shows no significant relationship](social-presence-strongest-metacognition-association-cbi.md) — the general claim this finding bears on, with the studies behind it
 - [Closed meaning-focused tasks foster more negotiation of meaning and negative feedback than open tasks in CMC](closed-tasks-foster-more-negotiation-than-open-tasks.md) — related
 - [Completing meaning-focused tasks through CMC fosters negotiated interactions in all three modes (discussion board, text chat, videoconferencing)](cmc-meaning-focused-tasks-foster-negotiated-interactions.md) — related, from the same study: negotiation of meaning occurs on discussion boards even though negative feedback does not

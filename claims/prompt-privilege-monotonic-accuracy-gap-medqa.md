@@ -38,7 +38,7 @@ sources:
 # LLM accuracy increases monotonically with prompt sophistication across semantically equivalent medical questions, with Low Literacy users scoring significantly below Prompt Engineer users
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 causal `r1` · `q2`
+> **Evidence** · 1 study (3 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Across semantically equivalent MedQA prompts answered by the same model, accuracy exhibits a consistent monotonic trend in which it increases with prompt sophistication. [→ Lier Jin 2026](#lier-jin-2026)

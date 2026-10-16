@@ -30,7 +30,7 @@ sources:
 # The second human expert showed the highest and most stable agreement with the gold-standard rater, with no mid-range degradation across the response quality spectrum
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 associational `r2`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On average and across score levels, the second human rater agreed most with the expert gold labels, ahead of the fine-tuned BERT models and the few-shot LLMs. [→ Abigail Victoria Gurin Schleifer 2026](#abigail-victoria-gurin-schleifer-2026)

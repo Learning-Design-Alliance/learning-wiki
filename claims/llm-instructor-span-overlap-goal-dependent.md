@@ -38,7 +38,7 @@ sources:
 # LLMs and instructors agree broadly on where feedback belongs but diverge on exact sentence spans, with span overlap strongly goal-dependent and LLMs highlighting more of each essay
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (3 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Pairwise span overlap is modest overall and highest within LLM pairs (19.2%) versus human-model (18.0%) and human-human pairs (17.0%). [→ Yijun Liu 2026](#yijun-liu-2026)

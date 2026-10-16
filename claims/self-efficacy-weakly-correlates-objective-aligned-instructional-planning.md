@@ -42,6 +42,9 @@ Pearson product-moment correlation analysis of STEBI and TSMTDF scores from 101 
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Integrated instructional hours correlate more positively with technology integration ability than stand-alone technology courses](integrated-hours-beat-standalone-tech-courses.md) — related
 - [Pre-service teachers' self-efficacy and instructional-planning levels were relatively high, but Bloom taxonomy classification was low](preservice-planning-high-taxonomy-low.md) — related

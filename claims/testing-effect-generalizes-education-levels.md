@@ -53,8 +53,14 @@ Meta-analytic moderator analysis across education levels; the review reports gen
 
 ## Discussion
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Classroom testing (quizzing) significantly boosts student academic achievement to a medium extent (g = 0.499).](classroom-quizzing-medium-effect-achievement.md) — the general claim this finding bears on, with the studies behind it
+
+- [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — related
 - [Benefits of retrieval practice have persisted for 6 months in medical students and 9 months in middle-school students](retrieval-practice-benefits-persist-six-to-nine-months.md) — related
 - [Both preclass (g = 0.186) and postclass (g = 0.536) quizzes enhance learning, with postclass quizzes more effective; benefits increase with treatment duration.](postclass-quizzes-and-longer-duration-larger-gains.md) — related

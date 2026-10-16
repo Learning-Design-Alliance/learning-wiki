@@ -41,8 +41,9 @@ Analysis of the roughly 3 to 4 percent of students per period who took more than
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Literacy screener benchmarks predict which grade 3 students will not meet MCAS ELA expectations, but not necessarily who will meet them](screeners-predict-mcas-failure-not-success.md) — the general claim this finding bears on, with the studies behind it
 - [Agreement between K–3 screening assessments on risk classification varied from 47 percent to 85 percent depending on the assessment combination](screening-assessment-agreement-varies-47-85-percent.md) — possibly the same claim (merge candidate)
 - [The predictive value of grade 3 screening benchmarks for MCAS ELA proficiency varies widely: 15 to 69 percent of students classified as on track did not reach MCAS proficiency, and students flagged at risk rarely met proficiency](screening-predictive-value-varies-15-69-percent.md) — related
 - [Screening assessments vary in design, administration, and risk definitions such that there is no truly common definition of risk across assessments](no-common-definition-of-risk-across-screeners.md) — related

@@ -41,8 +41,9 @@ Analysis of Zhimo's draft revision of a run-on sentence in his argumentative ess
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — the general claim this finding bears on, with the studies behind it
 - Of 24 reviewed studies on AI and metacognition in STEM, 23 were human-centred and only one was explicitly posthumanist — related
 - [A case study of two multilingual undergraduates reveals a productive tension between students' experiments with posthumanist AI literacy and their entrenched humanistic assumptions](posthumanist-literacy-tension-humanistic-assumptions.md) — a broader claim this one bears on
 - [The two students' distinct AI literacy approaches may be shaped by differing rhetorical objectives, genres, and audiences of their writing tasks](task-genre-audience-shape-ai-literacy-approaches.md) — related

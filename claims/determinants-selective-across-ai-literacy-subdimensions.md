@@ -41,11 +41,12 @@ Subdimensional regression models (all five significant, explained variance 0.26�
 
 ## Discussion
 
-
 ## Learner Variables
 - [Digital Literacy](../learner-variables/digital-literacy.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](digital-literacy-gaps-span-demographics.md) — the general claim this finding bears on, with the studies behind it
 - [Technology anxiety's positive association with AI literacy is confined to critical evaluation and ethical competence and absent from the three performance-oriented subdimensions](anxiety-effect-localized-to-evaluative-subdimensions.md) — related
 - [Iterative coding of 27 AIL sources yields seven dimensions, with technical, application and critical-thinking dimensions most frequent and legal/regulatory knowledge rarest](ail-seven-dimensions-coding-frequencies.md) — related
 - [Prior digital competence significantly predicts AI literacy after external resources are controlled, adding 3% of variance](digital-competence-predicts-ai-literacy-incrementally.md) — related

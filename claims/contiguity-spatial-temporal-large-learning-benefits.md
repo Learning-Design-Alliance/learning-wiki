@@ -61,7 +61,7 @@ The larger review (Schroeder & Cenkci, 2018) found spatial contiguity significan
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does placing words with the pictures they describe, in space and in time, improve learning, and by how much?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **6 distinct studies** (3 quant-synthesis, 3 review), `q2`–`q4`, 4 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does placing words with the pictures they describe, in space and in time, improve learning, and by how much?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **7 distinct studies** (3 quant-synthesis, 3 review, 1 causal), `q2`–`q4`, 4 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -71,6 +71,7 @@ The larger review (Schroeder & Cenkci, 2018) found spatial contiguity significan
 | [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · review · r2 | i3 | [Contiguity principles: near placement and simultaneous presentation of corresponding words](contiguity-principles-mayer-2008.md) (supports) |
 | Ceballos & Nutta 2022 | q2 · review · r2 | i? | [A narrative review cites one study in which simultaneous notes, worked example and explana](temporal-contiguity-lower-cognitive-load.md) (supports) |
 | [Schroeder and Cenkci 2020](https://doi.org/10.1037/edu0000372) | q3 · review · r? | i? | [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) (qualifies) |
+| [Mayer 1995](https://doi.org/10.1007/bf02300480) | q3 · causal · r? | i? | [College students who study integrated annotated illustrations alongside science text gener](integrated-illustrations-increase-creative-transfer-solutions.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

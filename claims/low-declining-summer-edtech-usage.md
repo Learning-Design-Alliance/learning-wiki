@@ -30,7 +30,7 @@ sources:
 # Students used their assigned ed-tech tools far below recommended levels, and usage declined over the summer
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Kettle Moraine students averaged 54 minutes per week on TenMarks over 11 weeks, less than a third of the recommended three hours per week, with usage declining week to week. [→ Christina Luke 2016](#christina-luke-2016)

@@ -42,8 +42,11 @@ The report's disaggregation of 2022 NAEP scores into four groups (neither, one, 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [School test score averages are strongly related to the income of the families a school serves](school-test-scores-strongly-related-to-family-income.md) — the general claim this finding bears on, with the studies behind it
+
+- [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](el-lag-limited-academic-content-exposure.md) — the general claim this finding bears on, with the studies behind it
 
 - [Dually-identified EL/SPED students had the lowest scores with gaps widening over time, driven by larger summer loss](dually-identified-lowest-scores-widening-gaps.md) — related
 - Historically underserved student groups show substantially lower shares meeting the 12th-grade reading benchmark, with gaps up to 30 percentage points — related

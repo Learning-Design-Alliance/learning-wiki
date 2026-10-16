@@ -30,7 +30,7 @@ sources:
 # Control-flow ordering errors appeared across all UH problems (43–52% of incorrect attempts) but were only a secondary pattern at Aalto, with the conceptual barrier apparently shifting with problem structure
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` At the University of Houston, control-flow ordering errors appeared across all three problems (43–52% of students with incorrect attempts) without a dominant pattern, suggesting students cycled through difficulty types. [→ Daniel Prol 2026](#daniel-prol-2026)

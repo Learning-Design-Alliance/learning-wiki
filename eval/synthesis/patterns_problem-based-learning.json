@@ -79,6 +79,18 @@
         [
           "identical-example-problem-order-advantage-not-detected-at-final-test",
           "~"
+        ],
+        [
+          "pf-outperformed-lp-fcps-post-test-problems",
+          "+"
+        ],
+        [
+          "fcps-lp-difference-not-significant",
+          "~"
+        ],
+        [
+          "pf-greater-representation-flexibility-graphical",
+          "+"
         ]
       ]
     },
@@ -92,6 +104,34 @@
         ],
         [
           "simulation-larger-application-gains",
+          "~"
+        ],
+        [
+          "pbl-superior-long-term-retention",
+          "+"
+        ],
+        [
+          "pbl-superior-skill-development-satisfaction",
+          "+"
+        ],
+        [
+          "pbl-large-positive-effect-academic-achievement",
+          "~"
+        ],
+        [
+          "pbl-overall-effect-modest-large-heterogeneity",
+          "~"
+        ],
+        [
+          "massive-range-pbl-outcome-effect-sizes",
+          "~"
+        ],
+        [
+          "contextualized-teaching-facilitates-transfer",
+          "+"
+        ],
+        [
+          "scenario-lessons-pooled-74-percent-gain",
           "~"
         ],
         [

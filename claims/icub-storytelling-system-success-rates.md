@@ -30,7 +30,7 @@ sources:
 # The iCub storytelling system achieved 88% trial success and 86% VLM sticker-description agreement, with the LLM adding to human contributions in 8% of trials and never correcting them
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Across the validation trials the system was robust with an 88% success rate despite failures such as wrong sticker detection, microphone issues and LLM crashes. [→ Maria Lombardi 2025](#maria-lombardi-2025)

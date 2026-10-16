@@ -43,6 +43,10 @@ The review reports this quasi-experimental study (initial enrollment 187; three 
 
 ## Related Claims
 
+- [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — the general claim this finding bears on, with the studies behind it
+
+- [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — the general claim this finding bears on, with the studies behind it
 
 - [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) — the general claim this finding bears on, with the studies behind it

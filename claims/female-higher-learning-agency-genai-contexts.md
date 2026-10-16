@@ -42,6 +42,9 @@ Secondary finding from the mediation model's covariates in the survey of 434 und
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Bias transfer is asymmetric: prompt condition affects agency in female-target essays but not male-target essays, suppressing female agency while male writing remains stable](asymmetric-female-agency-suppression-bias-transfer.md) — related
 - [Students assisted by a gender-biased LLM produce career-plan essays with a significantly larger male-female agentic gap than students in neutral-LLM and no-AI control conditions](biased-llm-assistance-increases-agentic-gap-student-essays.md) — related

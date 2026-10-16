@@ -42,6 +42,9 @@ Survey analysis (n = 1,008) of challenge frequencies by student group, as descri
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — possibly the same claim (merge candidate)
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related

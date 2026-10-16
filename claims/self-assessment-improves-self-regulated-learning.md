@@ -44,7 +44,7 @@ Four random-effects meta-analyses (Hedges & Olkin method) pooled 19 experimental
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should learners assess their own work, and can their self-ratings be trusted?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **14 distinct studies** (6 causal, 3 quant-synthesis, 3 review, 1 associational, 1 theoretical), `q2`–`q4`, 3 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should learners assess their own work, and can their self-ratings be trusted?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **16 distinct studies** (7 causal, 3 quant-synthesis, 3 review, 1 associational, 1 theoretical, 1 qualitative), `q2`–`q4`, 3 of 16 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -62,6 +62,8 @@ Four random-effects meta-analyses (Hedges & Olkin method) pooled 19 experimental
 | [Butler & Winne 1995](https://doi.org/10.3102/00346543065003245) | q3 · theoretical · r? | i? | [Self-regulated learning models treat self-monitoring as a core process through which learn](self-monitoring-improves-self-regulation.md) (supports) |
 | [Fusco 2025](https://doi.org/10.51388/20.500.12265/252) | q3 · review · r1 | i? | [Peer and self-assessment both show significant effects on academic performance with no sig](peer-self-assessment-improve-performance-equally.md) (supports) |
 | [Ying Zhan 2025](https://doi.org/10.1007/s10734-025-01588-9) | q2 · review · r2 | i? | [Students are typically passive users of assessment rubrics in authentic assessment designs](aa-students-passive-users-of-rubrics.md) (qualifies) |
+| [Pedlow 2026](https://doi.org/10.53761/39ey1895) | q2 · qualitative · r1 | i? | [Students reported increased personal responsibility and described the reflective self-asse](reflection-builds-responsibility-and-confidence-transition.md) (supports); [Guided reflection embedded in self-assessment supports commencing students to engage respo](guided-reflection-self-assessment-responsible-genai-engagement.md) (supports) |
+| [Omar Alsaiari 2026](https://doi.org/10.48550/arxiv.2608.11625) | q3 · causal · r? | i? | [Workflow condition is associated with students' self-assessment confidence](workflow-condition-self-assessment-confidence-effect.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

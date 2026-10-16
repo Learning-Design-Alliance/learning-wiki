@@ -30,7 +30,7 @@ sources:
 # Teachers authoring student-AI dialogue prompts predominantly write highly specific tasks targeting higher-order thinking (92% at DOK 2–3)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 80.9% of teacher-authored prompts provided detailed, concrete task descriptions rather than open-ended explorations. [→ Alex Liu 2026](#alex-liu-2026)

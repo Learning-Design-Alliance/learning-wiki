@@ -42,6 +42,9 @@ Posttest questionnaire with one yes/no item and an open-ended question administe
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Dual coding elucidation raises adolescent EFL learners' awareness of lexical errors and correct usage more than verbal-only elucidation](dual-coding-elucidation-improves-lexical-error-awareness.md) — related
 - [The advantage of dual coding elucidation for correct lexical usage persists over a four-week delay](dual-coding-lexical-effects-persist-four-weeks.md) — related

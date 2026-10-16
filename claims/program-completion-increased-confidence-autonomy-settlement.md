@@ -44,6 +44,9 @@ Interview-theme analysis of identity and wellbeing outcomes for Anna and Rita, w
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - Completing a combined ESL and healthcare-skills training program improved immigrants' employment prospects, but numerous employment barriers persisted even for those with relevant experience — related
 - Participants perceived their English had improved through the program, and this increased their independence in job searching, services, and community interaction — possibly the same claim (merge candidate)

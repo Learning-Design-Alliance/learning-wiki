@@ -41,6 +41,7 @@ Analysis of the time gap between last visit of the preceding slide and the final
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out](abc-early-warning-indicators-predict-dropout.md) — the general claim this finding bears on, with the studies behind it
 - [Students dynamically switched between Socratic Inquiry and Transactional Delegation as deadlines approached and task novelty changed (the Strategic Dance)](strategic-dance-socratic-transactional-switching.md) — related

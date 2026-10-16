@@ -42,6 +42,9 @@ Retention analysis by race/ethnicity across the 2017 and 2018 cohorts using Leas
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Black/African American and Hispanic/Latino students were overrepresented in lower QR placement categories relative to their share of the 2018 CSU entering cohort](eo1110-racial-disproportionality-qr-placement.md) — related
 - [Achievement declines from 2019 to 2022 were smaller for Asian American and White first and second graders than for Hispanic, Black, and AIAN students](early-elementary-covid-losses-racial-ethnic-disparities.md) — related

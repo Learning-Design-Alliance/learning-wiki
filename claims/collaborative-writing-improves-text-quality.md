@@ -69,6 +69,8 @@ Twenty-eight 10- and 11-year-olds in one mixed-ability class were all trained in
 
 ## Related Claims
 
+- [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
+
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — the general claim this finding bears on, with the studies behind it
 
 - [Collaborative learning improves outcomes.](collaborative-learning-improves-outcomes.md) — the broader claim that structured peer collaboration raises achievement, of which collaborative writing is a specific case

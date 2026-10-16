@@ -1,0 +1,62 @@
+{
+  "principle": "learner-variables/race-and-ethnicity",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "active-learning-narrows-achievement-gaps",
+      "question": "For whom: does it narrow gaps for underrepresented and low-income students?",
+      "members": [
+        [
+          "active-learning-reduces-exam-achievement-gaps-33-percent",
+          "+"
+        ],
+        [
+          "active-learning-narrows-passing-rate-gap-45-percent",
+          "+"
+        ],
+        [
+          "active-learning-gap-effects-vary-across-studies",
+          "~"
+        ],
+        [
+          "class-size-level-discipline-not-significant-moderators",
+          "~"
+        ],
+        [
+          "high-intensity-active-learning-narrows-gaps",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "restorative-practices-reduce-exclusionary-discipline",
+      "question": "Do restorative practices narrow racial and ethnic gaps in discipline and achievement?",
+      "members": [
+        [
+          "restorative-practice-benefits-stronger-black-latino-students",
+          "+"
+        ],
+        [
+          "denver-restorative-justice-suspension-gap-narrowed",
+          "+"
+        ],
+        [
+          "rj-reduces-racial-discipline-gap-preliminary",
+          "~"
+        ],
+        [
+          "frequent-rj-use-relationships-referrals-racial-gap",
+          "~"
+        ],
+        [
+          "swprd-converged-bullying-perceptions",
+          "+"
+        ],
+        [
+          "inequitable-access-restorative-practices",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -43,6 +43,8 @@ The review attributes this to Bahrick, Bahrick, Bahrick and Phelps (1993), descr
 
 ## Related Claims
 
+- [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it
+
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — the general claim this finding bears on, with the studies behind it
 
 - [Retention interval moderates the testing effect, with effects often smaller, null, or reversed at short intervals](retention-interval-moderates-testing-effect.md) — the general claim this finding bears on, with the studies behind it

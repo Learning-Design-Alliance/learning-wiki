@@ -43,6 +43,8 @@ Meta-analytic moderator analysis of repeated testing on the same material; the r
 
 ## Related Claims
 
+- [Classroom testing (quizzing) significantly boosts student academic achievement to a medium extent (g = 0.499).](classroom-quizzing-medium-effect-achievement.md) — the general claim this finding bears on, with the studies behind it
+
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Both preclass (g = 0.186) and postclass (g = 0.536) quizzes enhance learning, with postclass quizzes more effective; benefits increase with treatment duration.](postclass-quizzes-and-longer-duration-larger-gains.md) — related
 - [Offering corrective feedback after class quizzes significantly increases learning gains over withholding feedback (g = 0.537 vs. g = 0.374).](feedback-enhances-retrieval-practice.md) — related

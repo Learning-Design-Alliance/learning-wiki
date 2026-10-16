@@ -30,7 +30,7 @@ sources:
 # A scrutable concept-map interface reduced teachers' perceived cognitive load and helped them generate scaffolds quickly when creating classroom content with generative AI
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` All teachers agreed Concept Catalyst would reduce their cognitive load because the AI could generate questions for them. [→ Gennie Mansi 2026](#gennie-mansi-2026)

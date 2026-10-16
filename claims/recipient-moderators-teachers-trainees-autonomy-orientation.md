@@ -41,7 +41,8 @@ Moderator analyses of the meta-analytic effect size compared recipient subcatego
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — the general claim this finding bears on, with the studies behind it
 - [Students taught with the Self-Determined Learning Model of Instruction gain in self-determination, but not significantly more than a delayed-treatment control group](self-determined-learning-model-of-instruction-improves-self-determination.md) — related
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — related

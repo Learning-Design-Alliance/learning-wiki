@@ -83,7 +83,7 @@ A narrative review of the classroom formative assessment literature, the source 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does adjusting instruction to evidence of learners' thinking gathered during teaching raise achievement over teaching the plan unchanged?* This table gathers the studies behind this claim and the 14 narrower claims that bear on it: **14 distinct studies** (4 qualitative, 3 quant-synthesis, 3 review, 2 causal, 1 theoretical, 1 design), `q2`–`q3`, 3 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does adjusting instruction to evidence of learners' thinking gathered during teaching raise achievement over teaching the plan unchanged?* This table gathers the studies behind this claim and the 20 narrower claims that bear on it: **18 distinct studies** (4 design, 4 qualitative, 3 quant-synthesis, 3 review, 2 causal, 1 theoretical, 1 associational), `q1`–`q3`, 3 of 18 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -101,6 +101,10 @@ A narrative review of the classroom formative assessment literature, the source 
 | [Robertson et al. 2021](https://doi.org/10.1080/07370008.2020.1832096) | q2 · qualitative · r2 | i? | [Developing curricular design knowledge enables small-scale responsive adaptations within a](curricular-knowledge-enables-responsive-instructional-moves.md) (qualifies) |
 | [McElhaney 2024](https://doi.org/10.51388/20.500.12265/231) | q2 · review · r2 | i? | [Most surveyed teachers make small customizations to OpenSciEd materials often or daily, co](teacher-customizations-storyline-curriculum.md) (qualifies) |
 | [Yanjie Zhang 2026](https://doi.org/10.48550/arxiv.2606.17633) | q2 · qualitative · r2 | i? | [Teachers in the formative study agreed lesson plans need adjustment when student ability d](stem-more-amenable-difficulty-scaling.md) (qualifies) |
+| [Dana L. Kirkwood-Watts 2022](https://doi.org/10.1128/jmbe.00038-22) | q3 · associational · r2 | i? | [Clicker participation and homework completion each significantly predict performance on is](clicker-participation-and-homework-completion-predict-exam-performance.md) (supports); [Any clicker participation outperforms absence on exam questions, but the lowest quartile s](any-clicker-pattern-beats-absence-except-lowest-quartile.md) (qualifies); [Being present for a clicker question predicts a higher likelihood of providing a homework ](clicker-presence-predicts-homework-explanation-quality.md) (supports) |
+| Miller 2013 | q2 · design · r2 | i? | [Students attributed improved understanding to the discussion process of the implementation](learning-attributed-to-process-not-technology.md) (qualifies) |
+| [polling-1](https://doi.org/10.1145/3785651.3831486) | q2 · design · r2 | i? | [Attendees correctly identified AI-generated images in 82% of polling responses, and pollin](polling-image-identification-82-percent.md) (qualifies) |
+| [Janis 2025](https://doi.org/10.69772/jes.8.3.1) | q1 · design · r3 | i? | [In a case analysis, probing instructor feedback with required revise-and-resubmit moved on](probing-feedback-revise-resubmit-evidence.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

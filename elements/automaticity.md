@@ -13,7 +13,7 @@ generated:
 # Automaticity
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 7 studies (4 review, 1 causal, 1 design, 1 theoretical), `q1`–`q3` · 0 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 7 studies (3 review, 1 causal, 1 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 0 of 7 report an effect size · 3 claims rest on one study
 
 ## Description
 Automaticity is the state in which a component skill — decoding words, retrieving math facts, typing, parsing syntax — executes quickly, accurately, and with little conscious effort. It develops through repeated, spaced, and increasingly varied practice after initial accuracy is achieved. Its instructional significance lies in what it *releases*: when lower-level processes run without deliberate attention, working memory is available for comprehension, problem-solving, and composition.
@@ -55,6 +55,11 @@ Automaticity of component skills is a precondition for complex performance: read
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Fluency-building activities improve effortless reading for students in grades 4–9, with strong supporting evidence](../claims/fluency-building-activities-strong-evidence-grades-4-9.md) [+W]
 - [In Spanish, decoding rate rather than decoding accuracy is the better predictor of passage comprehension](../claims/spanish-decoding-rate-better-predictor-than-accuracy.md) [+W]
+
+## The evidence by question
+
+- *Does practice to build reading fluency improve fluency and comprehension for struggling readers?* [Fluency-building activities for struggling readers in grades 4–9 have strong evidence, based on 33 studies](../claims/strong-evidence-fluency-building-activities-grades-4-9.md) [+M]
+- *Does fast, automatic word recognition, rather than accuracy alone, predict reading comprehension?* [Automatic word recognition frees resources for comprehension](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 
 ## Related Elements
 - [Practice](practice.md) — the mechanism by which automaticity develops; automaticity is the *goal state* of well-designed practice

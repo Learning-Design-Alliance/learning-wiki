@@ -30,7 +30,7 @@ sources:
 # LLM accuracy drops from 96% on text-only to 74% on multimodal physics problems, with significant differences emerging among models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` On multimodal questions with a figure essential for solving the problem, overall accuracy dropped to 74% (95% CI [0.66, 0.82]). [→ Akshay Syal 2026](#akshay-syal-2026)

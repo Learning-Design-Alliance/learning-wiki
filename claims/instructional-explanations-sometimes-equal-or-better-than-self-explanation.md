@@ -86,6 +86,17 @@ The review notes that although self-explanation takes far more time (e.g., nearl
 explanation prompts continued to improve comprehension
 and transfer"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*When is self-explaining worth its extra time, and what can it cost compared with being given an explanation or practising retrieval?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **2 distinct studies** (2 review), `q2`–`q3`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Bethany Rittle-Johnson & Abbey M. Loehr 2017](https://doi.org/10.3758/s13423-016-1079-5) | q2 / q3 · review · r2 | i? | this claim; [Self-explanation promotes transfer of general patterns but can reduce recall of details an](self-explanation-improves-transfer-reduces-detail-recall.md) (qualifies); [Explaining one's own potentially incorrect ideas can reduce learning, while explaining kno](explaining-own-incorrect-ideas-reduces-learning.md) (qualifies) |
+| [Dunlosky 2013](https://doi.org/10.1177/1529100612453266) | q2 · review · r3 | i? | [Self-explanation substantially increases time on task, raising questions about its efficie](self-explanation-time-on-task-cost.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

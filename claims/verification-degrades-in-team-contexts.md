@@ -30,7 +30,7 @@ sources:
 # Verification behaviors degrade most in team contexts, with test-based verification falling and never fully recovering
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q2` · `i1`–`i2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i1`–`i2`
 
 ## Subclaims
 `q2 i2` Verification showed the largest effect size of all measures (Cramer's V = 0.357, medium effect); test-based verification fell from 33.2% to 13.8%, a drop of 19.4 percentage points. [→ Sehrish Basir Nizamani 2026](#sehrish-basir-nizamani-2026)

@@ -41,8 +41,9 @@ Same 120-participant experiment; absolute error was the absolute difference betw
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — the general claim this finding bears on, with the studies behind it
 - [Readers in all conditions except sketching were overconfident, with the most overconfidence in the photograph condition and the least in the sketching condition](overconfidence-all-conditions-except-sketching.md) — related
 - [Sketching and viewing animations produced the best understanding of a geoscience text, while the photograph condition produced the worst](sketching-animation-best-understanding-photograph-worst.md) — related
 - [Spatial thinking and generative activity reduced monitoring error while higher interest increased it](spatial-generative-reduce-error-interest-increases.md) — related

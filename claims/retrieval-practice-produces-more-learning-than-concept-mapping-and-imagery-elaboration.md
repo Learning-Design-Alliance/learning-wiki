@@ -63,8 +63,11 @@ The chapter reports, second-hand, a series of vocabulary-learning experiments by
 
 Both entries are one review chapter's summaries of its author's own earlier experiments, so the page's evidence is second-hand: no sample size, design detail or effect size for Karpicke and Blunt (2011) or Karpicke and Smith (2012) is recorded. Adding those primary articles, and later studies that compared retrieval with concept mapping under other conditions (the chapter itself points to Lechuga et al. 2015), would let the claim be coded on its own evidence. Whether concept mapping helps on its own is a separate question; see [concept mapping](concept-mapping-improves-learning.md).
 
-
 ## Related Claims
+
+- [Concreteness, imagery, and verbal associative processes play major roles across multiple educational domains](concreteness-imagery-associative-roles-educational-domains.md) — the general claim this finding bears on, with the studies behind it
+
+- [Existing theoretical accounts attributing the testing effect to enhanced semantic elaboration receive limited support](limited-support-semantic-elaboration-testing-accounts.md) — the general claim this finding bears on, with the studies behind it
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — the comparison condition here: this page reports retrieval outperforming it
 - [Retrieval Practice Improves Learning](retrieval-practice-improves-retention.md)
 - [The same quizzing or concept-mapping activity produces more learning when done without viewing the material, as retrieval, than while viewing it](closed-book-versions-of-quizzes-and-concept-maps-outperform-open-book-versions.md) — related

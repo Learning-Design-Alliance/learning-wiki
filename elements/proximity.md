@@ -13,7 +13,7 @@ generated:
 # Proximity
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 6 studies (3 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 1 of 6 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (3 for, 3 mixed) · 8 studies (3 causal, 3 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 3 of 8 report an effect size · 5 claims rest on one study
 
 ## Description
 Proximity (spatial contiguity) is the design principle that related pieces of information — a label and the object it names, an explanation and the graphic it describes, feedback and the work it addresses — should be placed near one another rather than separated. When corresponding words and images are integrated, learners do not have to visually search for connections or hold one representation in working memory while locating the other.
@@ -54,6 +54,11 @@ Integrating text with corresponding graphics reduces extraneous cognitive load i
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [The authors of one robot-projection study interpret co-located AI guidance as most useful when instructions and task share a spatial frame, as in drawing](../claims/spatial-colocation-benefit-task-dependent.md) [~W]
 - [College students who study integrated annotated illustrations alongside science text generate approximately 50% more creative solutions on transfer problems than students who view the same illustrations separately after reading](../claims/integrated-illustrations-increase-creative-transfer-solutions.md) [+W] — attached 2026-10-15 from Mayer et al. (1995), which proposed "Annotated lightning-formation illustrations integrated with explanatory text"; tests this page's relationship.
+
+## The evidence by question
+
+- *Does placing words with the pictures they describe, in space and in time, improve learning, and by how much?* [Presenting related material contiguously in space and time yields large learning benefits](../claims/contiguity-spatial-temporal-large-learning-benefits.md) [+M]
+- *For which material, media and testing conditions is integration worth most?* [The learning benefit of increasing integration is substantially larger for high element interactivity (complex) materials than for low element interactivity materials](../claims/element-interactivity-moderates-contiguity-effect.md) [~M]
 
 ## Related Elements
 - [Modality](../strategies/modality.md) — the temporal companion: narrating graphics rather than separating text from them

@@ -42,6 +42,9 @@ The article states this research gap as motivation: prior work covers "middle an
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Female elementary students rated their teacher more positively over time than male students](female-students-rate-teachers-more-positively-over-time.md)

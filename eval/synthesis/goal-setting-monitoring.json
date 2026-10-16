@@ -9,6 +9,30 @@
         [
           "specific-difficult-goals-lead-to-higher-performance",
           "+"
+        ],
+        [
+          "implementation-intentions-improve-goal-attainment",
+          "+"
+        ],
+        [
+          "implementation-intentions-d65-goal-attainment-meta-analysis",
+          "+"
+        ],
+        [
+          "process-goals-outperform-outcome-goals-for-novices",
+          "~"
+        ],
+        [
+          "goal-intention-alone-insufficient-for-achievement",
+          "~"
+        ],
+        [
+          "young-children-set-goals-sdlmi-achieve",
+          "+"
+        ],
+        [
+          "proximal-goals-feedback-peer-models-build-learning-efficacy",
+          "~"
         ]
       ]
     },
@@ -19,6 +43,10 @@
         [
           "proximal-goals-feedback-peer-models-build-learning-efficacy",
           "+"
+        ],
+        [
+          "goal-orientations-predict-engagement-ai-efl",
+          "~"
         ]
       ]
     },

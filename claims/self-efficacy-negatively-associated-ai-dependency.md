@@ -44,6 +44,7 @@ Regression Model 1 in a cross-sectional online questionnaire study of 276 univer
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [AI dependency is positively associated with learning burnout among university students](ai-dependency-positively-associated-learning-burnout.md) — related

@@ -30,7 +30,7 @@ sources:
 # 78.8% of student-GenAI turns lack mastery-oriented aims and reliable epistemic strategies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In 200 sampled co-programming sessions, 78.8% of student turns did not exhibit clear mastery-oriented aims and lacked indicators of reliable epistemic strategies. [→ Menggian Wu 2026](#menggian-wu-2026)

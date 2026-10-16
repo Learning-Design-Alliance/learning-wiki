@@ -30,7 +30,7 @@ sources:
 # Reflection
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 9 studies (3 causal, 2 quant-synthesis, 2 theoretical, 1 review, 1 associational), `q1`–`q4` · 1 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 against) · 15 studies (6 causal, 4 quant-synthesis, 2 review, 2 theoretical, 1 associational), `q1`–`q4` · 5 of 15 report an effect size · 3 claims rest on one study
 
 ## Description
 Reflection is the deliberate act of analyzing one's own experiences, actions, or decisions after (or during) a learning task in order to extract lessons and adjust future behavior. It converts raw experience into usable knowledge by prompting learners to examine what happened, why it happened, and what they would do differently. Schön (1983) distinguished *reflection-on-action* (after the fact) from *reflection-in-action* (during performance), and both forms are designable instructional elements.
@@ -72,6 +72,11 @@ Reflection deepens learning by engaging learners in self-explanation and self-mo
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Reflective methods carry inherent dangers of overanalysis and of becoming ends rather than means, and can go wrong](../claims/reflective-methods-overanalysis-limits.md) [-W]
+
+## The evidence by question
+- *Does reflecting on a performance improve later learning over no reflection or ordinary instruction?* [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [+M]
+- *Do specific, guided prompts produce better reflection and learning than generic or free reflection?* [Reflective Practice Improves Outcomes When Structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+S]
+- *When learners work with generative AI, does adding a reflection step improve their judgement of the AI and what they learn, compared with using its output directly?* [Reflection improves correspondence between perceived and behavioral reliance on ChatGPT](../claims/reflection-improves-awareness-calibration.md) [+M]
 
 ## Related Elements
 - Journaling — the most common written vehicle for structured reflection over time

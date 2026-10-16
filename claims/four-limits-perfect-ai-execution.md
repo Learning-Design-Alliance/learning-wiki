@@ -30,7 +30,7 @@ sources:
 # Perfect AI execution cannot remove four limits: accuracy does not settle end-setting, safety does not confer legitimacy, detection does not secure integrity, and outputs do not replace participation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 theoretical `r3` · `q1`
+> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Even a perfectly accurate AI system cannot make a target legitimate, because accuracy concerns means while end-setting concerns which purposes deserve authority. [→ Kai Yao 2026](#kai-yao-2026)

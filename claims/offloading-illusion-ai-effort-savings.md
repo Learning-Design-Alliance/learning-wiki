@@ -41,8 +41,9 @@ Study 2 completion/prediction samples measured subjective mental effort with the
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong](ai-access-inflates-confidence.md) — the general claim this finding bears on, with the studies behind it
 - [In a one-year PBL deployment, the AI-assisted pipeline was associated with instructor preparation time falling from an average of eight hours to two hours per instruction (an estimated 75% reduction).](ai-pipeline-75-percent-prep-time-reduction.md) — related
 - [Students expect AI to help their test scores, but control students overestimate the effect relative to the experimental estimate](genai-student-beliefs-overestimate-control.md) — related
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related

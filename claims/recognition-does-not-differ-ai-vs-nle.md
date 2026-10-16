@@ -41,8 +41,9 @@ Welch's t-tests comparing recognition of AI (n = 21 items) versus NLE (n = 18 it
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI-generated assessment items frequently need faculty correction, supporting AI as a draft generator within quality assurance](genai-assessment-items-draft-generator-quality-assurance.md) — the general claim this finding bears on, with the studies behind it
 - [Recognition was not associated with item difficulty](recognition-not-associated-with-item-difficulty.md) — related
 - [Exploratory analysis found item difficulty differed across sources, driven by the Google Gemini versus NLE contrast](item-difficulty-differs-across-sources-gemini-nle.md) — related
 - [Students identified MCQ item source at a rate significantly above the 50% chance level in a real exam setting](students-identify-mcq-source-above-chance.md) — related

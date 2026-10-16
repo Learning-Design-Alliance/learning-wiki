@@ -68,7 +68,7 @@ Methods for studying learning and evaluating education that are specific to it o
 ### [Theories](theories/index.md) (1361)
 Explanatory frameworks that ground principles and claims.
 
-### [Learner Variables](learner-variables/index.md) (14)
+### [Learner Variables](learner-variables/index.md) (26)
 Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags.
 
 ### [Claims](claims/index.md) (15844)

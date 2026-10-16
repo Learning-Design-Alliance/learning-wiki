@@ -45,6 +45,10 @@ Four graduate students were given rods, connectors, an image of an icosahedron, 
 This is a single case study of four graduate students already trained in embodied cognition and STEM education — a highly non-representative sample for claims about typical classroom learners. The activity was unfacilitated and exploratory, with no comparison condition, no measure of prior geometric knowledge, and no test of whether the reasoning demonstrated in the post-construction reflection would transfer to a different solid or a formal assessment context. The finding should be read as a plausible, well-documented mechanism (multimodal articulation → shared perceptual anchor → formal reasoning resource), not as evidence that this activity reliably produces geometric learning gains for a general population.
 
 ## Related Claims
+
+- [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
+
+- [The review reports that role-playing exercises significantly enhanced students' 21st-century skills including communication, collaboration, and critical thinking](role-play-enhances-21st-century-skills.md) — the general claim this finding bears on, with the studies behind it
 - (none yet linked)
 - Constructivist learning environments are built on four system attributes: context, construction, collaboration, and conversation — related
 - [Embodied dance improvisation supports physics engagement and sense-making](embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md) — related

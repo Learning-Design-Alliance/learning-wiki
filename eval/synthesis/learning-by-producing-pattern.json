@@ -13,6 +13,18 @@
         [
           "drawing-improves-learning",
           "~"
+        ],
+        [
+          "teacher-initiated-and-student-mediated-mapping-no-difference",
+          "+"
+        ],
+        [
+          "interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated",
+          "~"
+        ],
+        [
+          "interactive-beats-constructive-concept-mapping",
+          "~"
         ]
       ]
     },

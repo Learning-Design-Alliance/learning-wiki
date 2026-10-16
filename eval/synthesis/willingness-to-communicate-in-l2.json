@@ -1,0 +1,46 @@
+{
+  "principle": "theories/willingness-to-communicate-in-l2",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "ai-directly-enhances-efl-wtc",
+      "question": "Does low-pressure practice with AI tools and other digital media raise learners' willingness to communicate in the L2?",
+      "members": [
+        [
+          "ai-reduces-fl-anxiety-private-practice",
+          "+"
+        ],
+        [
+          "ai-wtc-negative-outcomes-challenges",
+          "~"
+        ],
+        [
+          "epse-partially-mediate-genai-feedback-wtc",
+          "+"
+        ],
+        [
+          "gameplay-increased-willingness-to-communicate",
+          "+"
+        ],
+        [
+          "audio-discussions-no-significant-wtc-change",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "pronunciation-self-efficacy-associated-with-wtc",
+      "question": "Do learners' L2 self-confidence and motivation predict their willingness to communicate, as the model holds?",
+      "members": [
+        [
+          "genai-epse-wtc-positive-correlations-descriptives",
+          "+"
+        ],
+        [
+          "motivation-correlates-with-l2-wtc-turkish-efl",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

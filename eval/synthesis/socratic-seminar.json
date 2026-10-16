@@ -1,0 +1,96 @@
+{
+  "principle": "patterns/socratic-seminar",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "structured-discussion-methods-improve-comprehension",
+      "question": "Which discussion structures and facilitation make open discussion produce learning, rather than just more talk?",
+      "members": [
+        [
+          "interactive-requires-constructive-turn-taking",
+          "+"
+        ],
+        [
+          "cooperative-conceptual-change-chemistry-misconceptions",
+          "~"
+        ],
+        [
+          "argumentation-improves-reasoning",
+          "+"
+        ],
+        [
+          "collaborative-argumentation-benefits-summary",
+          "+"
+        ],
+        [
+          "tna-chatbot-prompts-structure-user-interpretation",
+          "~"
+        ],
+        [
+          "increasing-wait-time-improves-response-quality",
+          "+"
+        ],
+        [
+          "student-led-discussion-task-sustains-online-participation",
+          "+"
+        ],
+        [
+          "individual-dialogue-dominant-speaker-learns-more",
+          "~"
+        ],
+        [
+          "discourse-practices-correlate-reasoning-tests",
+          "+"
+        ],
+        [
+          "ire-shift-toward-discussion-improves-learning",
+          "+"
+        ],
+        [
+          "positioning-students-as-sources-increases-productive-participation-in-science-discourse",
+          "+"
+        ],
+        [
+          "adlab-interaction-quality-shifted-from-superficial-to-collaborative",
+          "~"
+        ],
+        [
+          "sidd-mechanism-for-ai-ive-pbl-outcomes",
+          "+"
+        ],
+        [
+          "conceptual-reasoning-absent-from-discourse-head",
+          "~"
+        ],
+        [
+          "ic-ll-significant-story-comprehension-rct",
+          "+"
+        ],
+        [
+          "ic-ll-longitudinal-reading-quasi-experiment",
+          "+"
+        ],
+        [
+          "ic-ll-potentially-positive-wwc-rating",
+          "+"
+        ],
+        [
+          "ic-ll-single-component-effects-nonsignificant",
+          "~"
+        ],
+        [
+          "socratic-dialogue-needs-efficiency-and-summaries",
+          "~"
+        ],
+        [
+          "teacher-control-inverse-ssrl-physics",
+          "~"
+        ],
+        [
+          "cognitive-disequilibrium-motivates-conceptual-change",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

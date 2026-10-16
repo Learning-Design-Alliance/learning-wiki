@@ -41,8 +41,9 @@ In the same ten-participant think-aloud dataset, 24 syntactical LREs were identi
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Review-reported experiment found output performed noticing and hypothesis-testing functions but no apparent metalinguistic function in L2 writing](zhao-ping-output-functions-writing-experiment.md) — the general claim this finding bears on, with the studies behind it
 - [Learners resolve grammar-related noticing with intuition, reasoning, rephrasing and explicit rules rather than external resources](grammar-lres-solved-with-own-resources-not-external.md) — related
 - The article concludes adult learners acquire two things about English adverbs: their general syntactic positions and their scope — related
 - [Morphological noticing focuses mainly on verb forms, especially modals, and on preposition choice](morphological-noticing-verb-forms-modals-prepositions.md) — related

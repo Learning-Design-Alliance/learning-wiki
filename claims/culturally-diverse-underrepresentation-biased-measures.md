@@ -57,6 +57,9 @@ Narrative review attributing this to Ford (2003): giftedness is determined by so
 The one entry is a narrative review that reports the underrepresentation and its cause second-hand, from Ford (2003); it presents no data on representation rates or on bias in any identification measure, and Ford's work has not been read here. Underrepresentation and its attribution to biased measures are therefore recorded as the review's position, not as a tested causal finding.
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Culturally and linguistically diverse students are underrepresented in gifted identification nationwide](gifted-underrepresentation-diverse-students.md) — related
 - [Teachers underrefer culturally and linguistically diverse students for gifted identification](teacher-underreferral-diverse-gifted.md) — related

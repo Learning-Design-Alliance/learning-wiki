@@ -55,6 +55,46 @@
         [
           "peer-feedback-improves-writing",
           "+"
+        ],
+        [
+          "fas-improves-peer-feedback-generation",
+          "+"
+        ],
+        [
+          "feedback-direction-moderator-student-student-highest",
+          "+"
+        ],
+        [
+          "peer-assessment-improves-unit-quiz-achievement",
+          "+"
+        ],
+        [
+          "peer-assessment-gains-persist-to-final-exam",
+          "+"
+        ],
+        [
+          "perception-of-peer-assessment-benefit-uncorrelated-with-actual-benefit",
+          "~"
+        ],
+        [
+          "peers-better-problem-identification-feedback",
+          "~"
+        ],
+        [
+          "coached-peer-review-improves-comment-quality-and-uptake",
+          "~"
+        ],
+        [
+          "peer-assessment-game-development-improves-achievement-motivation-problem-solving",
+          "+"
+        ],
+        [
+          "peer-response-groups-writing-idea-units",
+          "~"
+        ],
+        [
+          "peer-assessment-effect-size-versus-achievement-gaps",
+          "+"
         ]
       ]
     }

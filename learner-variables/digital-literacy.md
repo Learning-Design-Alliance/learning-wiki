@@ -12,7 +12,7 @@ generated:
 # Digital Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 43 claims (30 for, 6 mixed, 7 against) · 38 studies (14 associational, 8 causal, 5 qualitative, 4 review, 3 quant-synthesis, 3 design, 1 theoretical), `q1`–`q4` · 7 of 38 report an effect size · 41 claims rest on one study
+> **Evidence** · 44 claims (31 for, 6 mixed, 7 against) · 38 studies (14 associational, 8 causal, 5 qualitative, 4 review, 3 quant-synthesis, 3 design, 1 theoretical), `q1`–`q4` · 8 of 38 report an effect size · 42 claims rest on one study
 
 ## Description
 Whether a learner can *operate* the interface — distinct from [access](access.md), which is whether they can load it at all. It covers navigation, file handling, knowing what is clickable, and the confidence to explore without fear of breaking something. Every course here is delivered digitally, so this is never out of scope, and it is the dimension most often assumed away: a designer fluent in the interface cannot see it.
@@ -77,6 +77,10 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [Robotics systems skill levels do not differ between GBL and gamified studies](../claims/robotics-systems-skill-levels-no-approach-difference.md) [-W] — instruction changes it
 - [The two students' distinct AI literacy approaches may be shaped by differing rhetorical objectives, genres, and audiences of their writing tasks](../claims/task-genre-audience-shape-ai-literacy-approaches.md) [~M] — instruction changes it
 - [Certain aspects of AI literacy play a role in higher-quality prompt engineering by non-expert students](../claims/ai-literacy-aspects-support-prompt-engineering.md) [+M] — learners who differ on it differ in outcomes
+
+## The evidence by question
+- *Do learners who differ in digital literacy differ in learning, engagement and later outcomes?* [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](../claims/digital-literacy-gaps-span-demographics.md) [+M]
+- *Does explicit instruction raise learners' AI and digital literacy, and for whom?* [AI literacy interventions show a large, statistically significant overall positive effect on student AI literacy outcomes (g = 0.837)](../claims/ai-literacy-interventions-large-overall-effect.md) [+M]
 
 ## Related Learner Variables
 - Access — whether they can load it, as against whether they can drive it.

@@ -46,6 +46,8 @@ Systematic WWC review of 59 studies, of which two randomized controlled trials m
 
 ## Related Claims
 
+- [Outcomes of students with disabilities improve when they receive specially designed instruction responsive to assessment data](specially-designed-instruction-responsive-to-assessment-data-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
+
 - [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Phonological awareness training has potentially positive effects on communication/language competencies for preschool children with learning disabilities, with a small extent of evidence](phonological-awareness-training-potentially-positive-communication-effects.md) — related
 - [The Lovaas Model has no discernible effects on communication/language competencies for children with disabilities](lovaas-model-no-discernible-communication-effects.md) — related

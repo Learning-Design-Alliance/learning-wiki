@@ -30,7 +30,7 @@ sources:
 # SPED-adaptive prompting shifts tutor behavior toward We-Do scaffolding, naturalistic language support, and participation-affirming feedback across three codebooks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The DI We-Do move (lead) jumps from 9.1-14.3% in generic-prompted groups to 21.4-23.6% in SPED-prompted groups, with the I-Do modeling move shrinking by roughly a third. [→ Unggi Lee 2026](#unggi-lee-2026)

@@ -58,6 +58,17 @@ One-way ANOVA on deviation scores from verb-based (Vdev) and construction-based 
 
 > "One-way ANOVA revealed significant group differences both for Vdev (F(4, 165) = 17.597, p < .001, ŋ2 = 0.30) and Cdev scores (F(4, 165) = 17.730, p < .001, ŋ2 = 0.37)."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do learners move from item-based, verb-bound patterns to abstract constructions as their language experience grows?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **2 distinct studies** (1 associational, 1 review), `q2`, 1 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Kim 2020](https://doi.org/10.15858/engtea.75.s1.202006.55) | q2 · associational · r2 | i?; i3 | this claim; [Learners’ proficiency correlates with constructional sorting and translation performance, ](proficiency-correlates-with-sorting-and-translation.md) (supports); [Light verbs drive construction-based sorting in intermediate-level but not beginner or adv](light-verbs-modulate-intermediate-sorting.md) (qualifies); [The transitive construction is acquired earliest while the resultative construction poses ](transitive-earliest-resultative-hardest.md) (qualifies); [Translation accuracy rises with proficiency but varies substantially across individual con](translation-accuracy-varies-by-construction.md) (qualifies) |
+| [Nick C. Ellis 2002](https://doi.org/10.1017/s0272263102002024) | q2 · review · r? | i? | [Constructions typically emerge developmentally from formula, through low-scope pattern, to](emergence-route-formula-low-scope-pattern-construction.md) (supports); [Language processing is intimately tuned to input frequency across phonology, phonotactics,](frequency-tuning-across-language-processing-domains.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

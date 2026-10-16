@@ -41,8 +41,9 @@ Likert items on future inclusion of AI videos in coursework, from the same post-
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](guo-video-style-engagement-findings.md) — the general claim this finding bears on, with the studies behind it
 - [Only half of students could clearly tell the AI-generated videos were AI-generated, the item with the highest variance](half-students-could-not-detect-ai-videos.md) — related
 - [Human embodiment in video: perceived social presence benefits learning ratings, but instructor-face inclusion shows no significant learning-performance difference, and learners prefer human over robot presenters with mixed recall](human-embodiment-video-presence-effects.md) — related
 - [Students scored an average of 4.3 out of 5 on a Markdown quiz after watching the AI-generated videos, suggesting short-term learning](ai-video-viewing-yields-quiz-scores-4-3.md) — related

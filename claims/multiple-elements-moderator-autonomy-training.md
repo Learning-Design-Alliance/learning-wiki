@@ -41,6 +41,7 @@ Moderator analyses of the meta-analytic effect size compared program subcategori
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — the general claim this finding bears on, with the studies behind it
 - [Autonomy-supportive training programs are overall effective, with a weighted effect size of 0.63 across 19 studies](autonomy-support-training-effective-d63.md) — a broader claim this one bears on

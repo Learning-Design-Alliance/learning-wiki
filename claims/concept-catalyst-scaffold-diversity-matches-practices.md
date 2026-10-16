@@ -30,7 +30,7 @@ sources:
 # The concept-map interface let teachers generate scaffolds matching their content focuses, class activities, and teaching styles
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 qualitative `r2`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Teachers observed the tool matched their content focuses, including specific definitions of criteria and constraints, soft skills, and student interests. [→ Gennie Mansi 2026](#gennie-mansi-2026)

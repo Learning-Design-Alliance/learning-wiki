@@ -13,7 +13,7 @@ generated:
 # Misconception Probes
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 9 studies (3 causal, 3 quant-synthesis, 2 qualitative, 1 design), `q1`–`q4` · 2 of 9 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 10 studies (3 causal, 3 quant-synthesis, 2 qualitative, 1 review, 1 design), `q1`–`q4` · 2 of 10 report an effect size · 3 claims rest on one study
 
 ## Description
 A misconception probe is a carefully constructed question, scenario, or two-tier item (answer plus reasoning) that targets a known, documented misconception. Learners commit to an answer *before* instruction, making their intuitive model visible to themselves and the instructor. The probe functions as diagnosis, not assessment — its purpose is to activate the faulty schema so that subsequent instruction can directly challenge it.
@@ -56,6 +56,10 @@ Probes work because learners cannot revise a belief they do not realize they hol
 - [Immersive learning tools should surface misconceptions and track learner difficulties so instructors can adapt teaching and assessment](../claims/tools-should-surface-misconceptions-track-difficulties.md) [+W]
 - [A prediction graphing activity revealed preschool children's classification thinking and misconceptions, which class discussion and pictures corrected](../claims/prediction-graphing-reveals-classification-thinking.md) [+W]
 - [Mined misconception labels match personas' assigned misconceptions at F1 ≈ 0.56, a score that does not test whether generated questions elicit the named misconception](../claims/collearn-misconception-mining-f1.md) [~W]
+
+## The evidence by question
+
+- *Does instruction that names and confronts a science misconception change learners' conceptions more than standard exposition?* [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](../claims/misconceptions-interfere-with-new-learning.md) [+S]
 
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — the complementary move: probes surface faulty structure, organizers supply correct structure

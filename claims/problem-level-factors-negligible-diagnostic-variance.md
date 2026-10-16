@@ -38,7 +38,7 @@ sources:
 # Step complexity, distance to conclusion, and inference rule explain negligible diagnostic variance, with complexity predicting misdiagnosis only for optimal steps
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (3 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Step complexity predicted misdiagnosis only for optimal solutions (misdiagnosed M = 2.46 vs correctly classified M = 1.95, p < .05) and explained negligible variance overall (η² < .01). [→ Tahreem Yasir 2026](#tahreem-yasir-2026)

@@ -41,8 +41,9 @@ Complete-case randomized comparison in the preregistered field experiment (86 ra
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](ai-instruction-stem-moderate-positive-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Ambient consumer AI use in the holdout did not close the structured-tutor gap](ambient-consumer-ai-did-not-close-tutor-gap.md) — related
 - [A quarter of students offered a free AI tutor never tried it once, making first-session adoption a deployment problem](first-session-adoption-problem-free-ai-tutor.md) — related
 - [The instructor's own final exam showed the same direction of advantage on the intact randomized sample, with no difference on the pre-treatment midterm](instructor-final-confirms-tutor-advantage-direction.md) — related

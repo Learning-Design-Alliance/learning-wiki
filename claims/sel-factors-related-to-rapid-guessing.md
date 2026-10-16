@@ -42,6 +42,9 @@ The study tested whether social-emotional factors, including "low academic self-
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Academic disengagement behaviors such as chronic absenteeism and course failures are related to test disengagement behaviors such as rapid guessing](academic-disengagement-related-to-test-disengagement.md) — related
 - [The test platform detects rapid guessing in real time and attempts to re-engage disengaged students to protect score validity](map-growth-real-time-engagement-detection-re-engagement.md) — related

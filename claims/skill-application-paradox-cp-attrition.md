@@ -42,6 +42,9 @@ Multi-institutional survey across 10 Bangladeshi universities (n=73 analyzed her
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Secondary students report near-maximum confidence in passive digital tasks but sharply lower confidence in active creation and algorithmic logic](confidence-competence-divide-passive-vs-active-creation.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — a broader claim this one bears on

@@ -44,6 +44,10 @@ Drawing on new materialist and posthumanist theory (Barad's concept of intra-act
 - [Bias transfer is asymmetric: prompt condition affects agency in female-target essays but not male-target essays, suppressing female agency while male writing remains stable](../claims/asymmetric-female-agency-suppression-bias-transfer.md) [~W]
 - [A neutrally configured LLM assistant produced the lowest rate of gender-stereotypic occupation suggestions, below even the no-AI control condition](../claims/neutral-llm-assistant-attenuates-baseline-stereotyping.md) [+M]
 
+## The evidence by question
+- *Does the choice of physical materials for a hands-on task change what learners come to understand and who takes part?* [Material choice shapes conceptual learning and who feels invited to learn](../claims/material-choice-shapes-conceptual-learning-and-participation.md) [+M]
+- *Do the assumptions built into an AI tool carry into what learners write and the feedback they get, and does configuring the tool change that?* [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](../claims/ai-non-neutral-embeds-power-relations.md) [+W]
+
 ## Related Theories
 - [Constructivism](constructivism.md) — this perspective extends constructivism by treating the material substrate of a hands-on task, not just the learner's cognitive engagement with it, as consequential for what gets learned
 - [Cultural-Historical Activity Theory](cultural-historical-activity-theory.md) — both treat tools as culturally mediating, though this perspective foregrounds material agency and gendered histories specifically

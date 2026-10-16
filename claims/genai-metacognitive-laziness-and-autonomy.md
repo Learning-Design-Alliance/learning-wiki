@@ -60,12 +60,13 @@ The article reports, citing Zhai et al., that frequent chatbot interaction for a
 
 ## Discussion
 
-
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](genai-overreliance-harms-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
 - [GenAI use collapses SRL cycle transitions, with metacognitive activity restructuring around the tool](genai-collapses-srl-cycle-transitions.md) — related
 - [Review-attributed evidence: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — possibly the same claim (merge candidate)
 - [Dependent versus autonomous cognitive offloading to GenAI shows opposite motivational and cognitive outcome patterns](dependent-autonomous-offloading-genai.md) — related

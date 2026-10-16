@@ -41,8 +41,9 @@ Inductive coding of open-ended post-task explanations of the matrix debugging bu
 
 ## Discussion
 
-
 ## Related Claims
+
+- [In an immediate post-test design, participants with an unrestricted chatbot achieved significantly higher learning deltas than participants with a Socratic chatbot (d = 0.80) or an EEG-adaptive exercise system (d = 0.85)](unrestricted-chatbot-higher-learning-delta-than-socratic-and-adaptive.md) — the general claim this finding bears on, with the studies behind it
 - [AI TA condition shows no statistically significant differences in perceived task-comprehension support, correctness, or interaction stress](ai-ta-condition-no-effect-other-perceptions.md) — related
 - [Socratic + No Context produces the highest query volume and Direct + No Context the longest messages](ai-ta-query-volume-and-message-length.md) — related
 - [Students rate the Socratic + Full Context AI TA significantly lowest for perceived support of task completion](socratic-full-context-ai-ta-lowest-task-completion-rating.md) — related

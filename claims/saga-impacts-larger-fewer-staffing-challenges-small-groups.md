@@ -41,8 +41,9 @@ The impact analysis found "larger for students in schools with fewer staffing ch
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Small group instruction is associated with significantly larger effect sizes than CAI and incentive components in targeted secondary interventions](small-group-instruction-outperforms-cai-incentives.md) — the general claim this finding bears on, with the studies behind it
 - [Saga blended tutoring produced large positive impacts on algebra scores in one district and geometry scores in another, but no effects on two other standardized tests](saga-blended-tutoring-test-score-impacts-mixed.md) — related
 - [The size of tutoring programs' effects on student math knowledge aligned with the quality of their implementation](tutoring-effect-size-aligned-with-implementation-quality.md) — a broader claim this one bears on
 - [Implementation analysis identified student engagement as a challenge for technology-driven tutoring programs](saga-implementation-engagement-challenges.md) — related

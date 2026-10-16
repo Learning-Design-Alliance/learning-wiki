@@ -41,11 +41,12 @@ Post-task questionnaire (six adapted items, Cronbach's alpha 0.83) comparing rep
 
 ## Discussion
 
-
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students](gai-assisted-dst-improves-cps-skills.md) — the general claim this finding bears on, with the studies behind it
 - [Semantic similarity between human and AI discourse is highest in the Delegated Reasoning profile and significantly lower in Concerted Interpretation](dr-highest-semantic-similarity-ci-lower.md) — related
 - [The Delegated Reasoning group significantly outperformed the Concerted Interpretation group on collaborative problem-solving task performance](dr-outperforms-ci-task-performance.md) — related
 - [Cluster analysis of student-AI dialogue identifies three distinct collaboration profiles: Delegated Reasoning, Concerted Interpretation, and Delegated Elaboration](three-human-ai-cps-profiles-dr-ci-de.md) — a broader claim this one bears on

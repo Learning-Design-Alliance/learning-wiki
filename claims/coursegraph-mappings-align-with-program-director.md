@@ -30,7 +30,7 @@ sources:
 # In a worked example from real Erasmus+ decisions, some of CourseGraph's nearest-neighbor course mappings matched the program director's and others did not, one plausibly because it ignores differences in learning methods
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 <!-- title before 2026-10-15: CourseGraph's nearest-neighbor course mappings largely align with a program director's judgments on real Erasmus+ decisions, with errors traced to ignored pedagogical differences -->
 

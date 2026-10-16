@@ -61,11 +61,30 @@ The review reports, citing Gerlich (2025a), a mixed-methods study of 666 partici
 
 > "Gerlich (2025a), in a mixed-methods study of 666 participants, found a significant negative correlation between AI tool use and critical thinking, mediated by cognitive offloading and strongest in younger users."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*When learners lean heavily on AI tools, do their own critical thinking and learning suffer?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **10 distinct studies** (5 associational, 2 theoretical, 2 qualitative, 1 design), `q2`–`q3`, 1 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Favero 2025](https://doi.org/10.48550/arxiv.2507.06878) | q2 · theoretical · r3 | i? | this claim |
+| [Mahbub Ul Alam 2026](https://doi.org/10.48550/arxiv.2609.13155) | q2 · design · r1 | i? | this claim |
+| Shan Li 2026 | q2 · theoretical · r3 | i? | [Cognitive offloading to generative AI is associated with reduced learner engagement, lower](cognitive-offloading-reduces-engagement-critical-thinking.md) (supports) |
+| [Davor I 2026](https://doi.org/10.3389/feduc.2026.1855869) | q2 · associational · r2 | i? | [Cognitive offloading tendency is negatively associated with critical thinking, technical p](cognitive-offloading-negative-higher-order-outcomes.md) (supports) |
+| [Lucile Favero 2026](https://doi.org/10.48550/arxiv.2608.17451) | q2 · qualitative · r2 | i? | [80% of IB student essays explicitly link reliance on AI to reduced thinking](essays-link-ai-reliance-to-reduced-thinking.md) (supports) |
+| [Minju Park 2026](https://doi.org/10.48550/arxiv.2605.04534) | q2 · associational · r1 | i? | [Among LLM users, Low-Reliance students (use in under half of submissions) consistently out](low-reliance-outperformed-high-reliance-midterms.md) (supports) |
+| [Gao L 2026](https://doi.org/10.3389/fpsyg.2026.1847369) | q3 · associational · r2 | i? | [Effective AI use increases AI over-reliance, which negatively affects sustainable learning](effective-ai-use-increases-over-reliance-harming-learning.md) (supports) |
+| [Kaşarcı İsmail 2026](https://doi.org/10.3390/bs16071050) | q2 · associational · r1 | i? | [Positive LLM tutor perceptions do not necessarily translate to learning gains, creating an](llm-scaffolding-over-reliance-paradox.md) (qualifies) |
+| [Dabkowski 2026](https://doi.org/10.1007/s40979-026-00220-2) | q2 · qualitative · r3 | i? | [Nursing academics fear GenAI overreliance undermines critical thinking, knowledge translat](genai-overreliance-threatens-clinical-readiness.md) (qualifies) |
+| [Arshad A 2026](https://doi.org/10.3389/fpsyg.2026.1883053) | q2 · associational · r2 | i3 | [AI-based educational technology use is positively associated with critical thinking among ](ai-use-positively-associated-critical-thinking-medical-students.md) (counts against) |
+<!-- synthesis:end -->
+
 ## Discussion
 
-
-
 ## Related Claims
+
+- [Meta-reviews reach contradictory conclusions on whether AI reliance harms or helps critical thinking, with substantial design limitations limiting generalizability](contradictory-meta-reviews-ai-critical-thinking.md) — the general claim this finding bears on, with the studies behind it
 
 - [Cognitive offloading tendency is negatively associated with critical thinking, technical problem-solving, and metacognitive self-regulation](cognitive-offloading-negative-higher-order-outcomes.md) — related
 - [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related

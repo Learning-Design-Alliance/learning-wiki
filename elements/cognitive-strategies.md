@@ -26,7 +26,7 @@ sources:
 # Cognitive Strategies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 14 studies (5 causal, 4 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 5 of 14 report an effect size · 2 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 mixed) · 15 studies (5 causal, 5 review, 4 quant-synthesis, 1 theoretical), `q1`–`q4` · 5 of 15 report an effect size · 3 claims rest on one study
 
 ## Description
 Cognitive strategies are deliberate mental procedures learners apply to process information: **rehearsal** (repeating or copying), **elaboration** (connecting new material to prior knowledge), **organization** (imposing structure such as outlines or hierarchies), and **comprehension monitoring** (checking understanding while working). As an instructional element, cognitive strategy instruction means explicitly teaching these procedures — naming them, modeling them, and prompting their use — rather than assuming learners will discover them independently.
@@ -68,6 +68,11 @@ Strategy instruction improves learning most when strategies are taught explicitl
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Students given retrieval practice instructions spontaneously used a repeated retrieval strategy on new materials one week later without further instructions](../claims/spontaneous-strategy-transfer-one-week-delay.md) [+W]
+
+## The evidence by question
+
+- *Does explicitly teaching learners cognitive and self-regulatory strategies (elaboration, organisation, monitoring) improve their achievement, and what kind of training works best?* [Strategy Instruction Improves Academic Performance](../claims/strategy-instruction-improves-academic-performance.md) [+S]
+- *When learners choose their own study strategies, do they choose the ones that work?* [Learners underuse effective learning strategies such as spacing and retrieval practice](../claims/learners-underuse-effective-learning-strategies.md) [+M]
 
 ## Related Elements
 - [Think-Aloud](think-aloud.md) — the primary method for making strategies visible during instruction

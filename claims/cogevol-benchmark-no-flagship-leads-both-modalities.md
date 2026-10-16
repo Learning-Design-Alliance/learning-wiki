@@ -30,7 +30,7 @@ sources:
 # On the report's internal suites CogEvol-27B scores 83.7 on slides and 63.7 on HTML-500 with zero hard failures, while no external flagship leads both modalities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2`–`r3` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Qwen3.8-Max ties CogEvol-27B's 83.7 slide score only with the full 34 KB specification, but collapses to 35.3 on HTML-500 with 204 of 500 pages dead at the probe. [→ CogEvol Team 2026](#cogevol-team-2026)

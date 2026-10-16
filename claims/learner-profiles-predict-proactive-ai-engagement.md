@@ -30,7 +30,7 @@ sources:
 # Students from higher-ranked universities and with stronger prior knowledge are more likely to adopt proactive and critical AI engagement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In game theory, university ranking (auniv = +0.171, P=0.010) and prior knowledge (aprior = +0.161, P=0.002) were positively associated with proactive and critical engagement. [→ Jingwei Yi 2026](#jingwei-yi-2026)
@@ -60,11 +60,12 @@ Same OLS specification in the Python course plus a one-sided two-proportion z-te
 
 ## Discussion
 
-
 ## Learner Variables
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — the general claim this finding bears on, with the studies behind it
 - [Exploratory, non-significant pattern suggests students with stronger learner profiles may show larger AI-assisted exam gains](exploratory-profile-interaction-ai-gains.md) — related
 - [Students did not consistently detect scientific errors in ChatGPT responses, and students with stronger prior knowledge evaluated AI responses more critically](prior-knowledge-supports-critical-ai-evaluation.md) — related
 - [High-achieving students less often endorse AI-supported autonomy, effective learning, and active engagement, and more often agree that reliance on AI hinders critical thinking and independent problem solving](item-level-high-achievers-hinder-critical-thinking.md) — reports the opposite

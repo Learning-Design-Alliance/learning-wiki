@@ -30,7 +30,7 @@ sources:
 # Across frontier LLMs, Counseling is the easiest educational activity center (average 8.78) while Assessment and Research are hardest (8.42), and performance degrades from Easy to Hard difficulty
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Counseling consistently receives the highest scores across all models (average 8.78), while Assessment (8.42) and Research (8.42) present the greatest challenges. [→ Unggi Lee 2026](#unggi-lee-2026)

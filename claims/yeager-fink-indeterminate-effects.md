@@ -60,8 +60,9 @@ Compromised RCT in a General Chemistry course at a private university, meeting W
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Aronson et al. (2002) pen-pal growth mindset intervention produced a statistically significant positive effect on quarter GPA (effect size 0.85)](aronson-2002-significant-gpa-effect.md) — related
 - [Broda et al. (2018) found indeterminate effects on GPA, full-time enrollment, and credits completed in a large randomized trial](broda-2018-indeterminate-effects-large-trial.md) — related
 - [Growth Mindset interventions have no discernible effects on college enrollment and progressing in college](growth-mindset-no-discernible-enrollment-progressing.md) — related

@@ -60,8 +60,9 @@ Descriptive multi-outcome comparison (attendance, math and reading NWEA-MAP, cou
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Timing of English learner reclassification influences later outcomes such as high school graduation](reclassification-timing-influences-later-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [More than half of students who began as ELs passed the ACCESS proficiency exam by third grade and three-fourths by fifth grade; students who had not passed by fifth grade were unlikely to pass before high school](access-proficiency-timing-fifth-grade-window.md) — related
 - [Publicly reported statistics based only on active ELs give a biased picture of EL performance because proficient students exit the subgroup](active-el-reporting-bias.md) — related
 - [Students who began kindergarten as English Learners had similar achievement and growth, and higher attendance, compared to students never classified as ELs](began-as-els-similar-achievement-higher-attendance.md) — related

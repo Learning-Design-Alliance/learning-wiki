@@ -39,6 +39,9 @@ Two-way ANOVA main effect of task type in the same randomized 2×2 experiment: F
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI literacy interventions show a large, statistically significant overall positive effect on student AI literacy outcomes (g = 0.837)](ai-literacy-interventions-large-overall-effect.md) — the general claim this finding bears on, with the studies behind it
+
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — the general claim this finding bears on, with the studies behind it
 - [The TBI advantage over SBI is larger under open-ended tasks than under structured tasks](tbi-advantage-larger-under-oet-interaction.md) — related

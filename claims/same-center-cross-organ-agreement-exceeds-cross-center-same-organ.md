@@ -30,7 +30,7 @@ sources:
 # Same-center cross-organ handbook agreement exceeds different-center same-organ agreement by 0.024, but the institution contrast is sensitive to coverage thresholds and document selection
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Same-center cross-organ agreement exceeds different-center same-organ agreement by 0.024 (Holm-adjusted p = 0.011) in the primary analysis of handbook pairs. [→ Yubo Li 2026](#yubo-li-2026)

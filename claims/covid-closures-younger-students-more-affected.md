@@ -42,6 +42,9 @@ Review synthesis of differential effects across the eleven included studies, rep
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Low-performing students were more affected by closures in mathematics while high-performing students were more affected in reading, and low-performing students benefited more from systematic online learning](covid-closures-achieving-level-differential-effects.md) — related
 - [COVID-19-related school closures in spring 2020 had a negative overall effect on student achievement (median −0.08 SD across eleven studies)](covid-school-closures-negative-achievement-effect.md) — a broader claim this one bears on

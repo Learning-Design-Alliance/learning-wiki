@@ -61,6 +61,9 @@ Trend analysis of CPS math scores by racial/ethnic group across the three eras, 
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Elementary/middle-grade math scores improved incrementally across all three eras while reading scores remained fairly flat for two decades](cps-math-incremental-reading-flat.md) — related
 - [Graduation rates improved for all racial, ethnic, and economic groups, but racial and ethnic gaps increased while gender, poverty, and disability gaps declined](graduation-gaps-racial-widened-others-narrowed.md) — related

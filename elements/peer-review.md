@@ -23,7 +23,7 @@ sources:
 # Peer Review
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 7 studies (4 associational, 2 quant-synthesis, 1 causal), `q2`–`q4` · 2 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 8 studies (4 associational, 3 quant-synthesis, 1 causal), `q2`–`q4` · 3 of 8 report an effect size · 4 claims rest on one study
 
 ## Description
 Peer review is the element in which learners examine and respond to one another's work using shared criteria, prompts, or examples. It can improve drafts directly, but it is also valuable because evaluating peer work often sharpens learners' own judgment about quality.
@@ -63,6 +63,10 @@ Peer review is the element in which learners examine and respond to one another'
 - [Revising the feedback prompt toward essay-grounded guidance increased feedback specificity odds](../claims/prompt-revision-increased-feedback-specificity.md) [+W]
 - [A peer assessment-based game development approach promotes elementary students' learning achievement, learning motivation and problem-solving skills more than conventional game development](../claims/peer-assessment-game-development-improves-achievement-motivation-problem-solving.md) [~W] — attached 2026-10-15 from Hwang et al. (2014), which proposed "Peer assessment-based game development approach for elementary science".
 - [Peer Feedback Improves Writing](../claims/peer-feedback-improves-writing.md) [+M]
+
+## The evidence by question
+- *Should learners assess each other's work, and does it need a rubric or script?* [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]
+- *How accurately do learners judge work, and what does the accuracy of their judgments depend on?* [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](../claims/peer-feedback-accuracy-depends-on-expertise.md) [+M]
 
 ## Related Elements
 - [Feedback](feedback.md)

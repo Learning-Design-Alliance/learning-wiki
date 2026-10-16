@@ -42,6 +42,9 @@ Pearson correlation analysis of the four scale dimensions in a correlational stu
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Adults' perpetration of education-related epistemic violence on their own or relatives' children is low](adults-low-perpetration-epistemic-violence.md) — related
 - [Adults' acceptance of education-related epistemic violence is moderate, with 48.1% at a moderate and 40.3% at a high level](adults-moderate-acceptance-epistemic-violence.md) — related

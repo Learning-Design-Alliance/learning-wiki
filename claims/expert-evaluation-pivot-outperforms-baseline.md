@@ -30,7 +30,7 @@ sources:
 # Expert evaluators rate PIVOT higher than TheoremExplainAgent across nearly all instructional dimensions, with the largest gains in Physics and Computer Science
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a questionnaire-based expert evaluation with 32 STEM instructors, PIVOT consistently outperforms the baseline across nearly all evaluation dimensions, with an average gain of +1.67 points in Physics and +0.76 in Computer Science. [→ Xinchen Ma 2026](#xinchen-ma-2026)

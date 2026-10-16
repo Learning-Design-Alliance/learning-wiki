@@ -41,12 +41,15 @@ The brief's description of its research on differential growth during school yea
 
 ## Discussion
 
-
 ## Learner Variables
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — predictor: learners who differ on it differ in outcomes
 - [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Summer learning loss is common but not inevitable among K-12 students](summer-slide-common-but-not-inevitable.md) — the general claim this finding bears on, with the studies behind it
+
+- [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](disability-largest-postsecondary-outcome-gap.md) — the general claim this finding bears on, with the studies behind it
 - Summer reading loss disproportionately widens academic gaps for low-income children — related
 - [Dually-identified EL/SPED students had the lowest scores with gaps widening over time, driven by larger summer loss](dually-identified-lowest-scores-widening-gaps.md) — a narrower finding that bears on this claim
 - [Test score disparities between ever-SPED and never-SPED students grew from under 0.4 standard deviations in kindergarten to 0.9 standard deviations in 4th grade](sped-score-gap-grows-04-to-09-sd.md) — related

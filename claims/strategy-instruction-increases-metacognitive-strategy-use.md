@@ -46,6 +46,8 @@ Cross-case comparison in the conclusion section of the holistic multiple-case st
 
 ## Related Claims
 
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
+
 - [Reading Strategy Instruction Improves Comprehension](reading-strategy-instruction-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it
 - [Strategy variety for drawing attention was higher in the no-instruction and peer tutoring groups, while frequency was higher in the instruction groups](drawing-attention-variety-no-instruction-peer-tutoring.md) — related
 - [Preservice science teachers exposed to explicit reading strategy instruction showed the highest diversity and frequency of cognitive strategy use while reading a science text](explicit-instruction-highest-cognitive-strategy-use.md) — related

@@ -60,6 +60,7 @@ The review reports, citing Crandell and Smaldino, that "A stronger noise effect 
 ## Learner Variables
 - [Attention](../learner-variables/attention.md) — predictor: learners who differ on it differ in outcomes
 - [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Children's speech perception in noise is more impaired than adults', requiring higher signal-to-noise ratios for comparable performance](children-speech-perception-noise-more-impaired-than-adults.md) — related

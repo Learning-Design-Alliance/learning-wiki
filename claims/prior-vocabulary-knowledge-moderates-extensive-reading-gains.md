@@ -41,11 +41,12 @@ Study of 60 EFL learners divided into high-, intermediate-, and low-level groups
 
 ## Discussion
 
-
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — the general claim this finding bears on, with the studies behind it
 - [Extensive reading of graded readers produced substantial vocabulary learning gains for EFL learners across proficiency levels](extensive-reading-produces-vocabulary-gains-efl.md) — related
 - [Vocabulary knowledge gained through extensive reading showed little decay on a three-month delayed posttest, with relative gains ranging from 21.05% (low-level) to 59.01% (high-level)](little-decay-three-month-delayed-posttest-extensive-reading.md) — related
 - [L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned](incidental-vocabulary-learning-through-reading-for-meaning.md) — a broader claim this one bears on

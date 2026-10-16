@@ -13,7 +13,7 @@ generated:
 # Direct instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 8 studies (3 causal, 3 review, 2 theoretical), `q1`–`q3` · 0 of 8 report an effect size · 2 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 mixed) · 12 studies (4 causal, 4 review, 2 quant-synthesis, 2 theoretical), `q1`–`q4` · 1 of 12 report an effect size · 4 claims rest on one study
 
 ## Description
 Direct instruction presents new content through explicit explanations, lectures, or demonstrations, with the instructor structuring the sequence of examples, practice, and feedback. It makes the target knowledge and procedures overt rather than leaving learners to discover them, and typically follows a model–guide–test progression from full support to independent performance.
@@ -54,6 +54,11 @@ Direct instruction reduces unguided search during initial learning, which is whe
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Recent developments in instructional research and instructional design models support guidance during instruction](../claims/recent-design-models-support-guidance-during-instruction.md) [+W]
+
+## The evidence by question
+- *Does explaining and modelling a new method beat leaving learners to discover it with little support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
+- *Does the advantage of explicit instruction last beyond the end of instruction?* [Direct instruction's advantages do not persist over the longer term](../claims/direct-instruction-advantages-vanish-long-term.md) [~M]
+- *Does adopting a scripted Direct Instruction programme raise achievement in schools, and what does it depend on?* [Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling](../claims/direct-instruction-improves-outcomes.md) [+M]
 
 ## Related Elements
 - [Explicit Teaching](explicit-teaching.md) — the closely aligned element emphasizing teacher-led explanation and modeling

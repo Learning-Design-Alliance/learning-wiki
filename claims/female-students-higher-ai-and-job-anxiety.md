@@ -60,8 +60,12 @@ Same gender t-test analysis; for positive AI attitudes the test was non-signific
 
 ## Discussion
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — the general claim this finding bears on, with the studies behind it
 - [Negative AI attitudes correlate positively with job finding anxiety more strongly than positive AI attitudes](negative-ai-attitudes-correlate-job-finding-anxiety.md) — related
 - [Female students are significantly more likely than male students to use AI for schoolwork and to seek advice from AI tools](females-more-ai-schoolwork-and-advice-use.md) — related
 - [Gender differences in AI perception scores appear only in the overall score and attitudes dimension, with males scoring higher](gender-differences-ai-perceptions-limited-dimensions.md) — reports the opposite

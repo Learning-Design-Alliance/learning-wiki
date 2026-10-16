@@ -41,8 +41,9 @@ Pearson correlation analysis (Table 4) of the high school experimental group (N=
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Conversational interaction facilitates second language grammatical development in adult ESL learners](interaction-facilitates-l2-grammatical-development.md) — the general claim this finding bears on, with the studies behind it
 - [In college groups, no correlation was found between frequency of negotiation of meaning and vocabulary score](college-no-negotiation-vocabulary-correlation.md) — reports the opposite
 - [Learner age/level moderates the benefit of negotiation of meaning: high school learners relied on it more than college learners](age-moderates-negotiation-benefit.md) — related
 - [In high school groups, learners with negotiation of meaning obtained more comprehensible input in the match task than learners with pre-modified input only](negotiation-meaning-raises-comprehensible-input-high-school.md) — related

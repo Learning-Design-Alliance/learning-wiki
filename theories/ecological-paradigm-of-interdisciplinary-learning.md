@@ -17,7 +17,7 @@ sources:
 # Ecological Paradigm of Interdisciplinary Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 unmarked) · 5 studies (2 qualitative, 1 causal, 1 review, 1 theoretical), `q1`–`q2` · 1 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 5 studies (2 qualitative, 1 causal, 1 review, 1 theoretical), `q1`–`q2` · 1 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 The ecological paradigm contrasts with the field's dominant **cognitivist paradigm** of interdisciplinary learning (IDL) research, in which success is measured by an individual's cognitive integration of disciplinary insights (groundedness, integration, reflectiveness — Boix Mansilla & Duraisingh's three dimensions). The ecological paradigm instead studies IDL as a **group-level, socio-material process**: learners are treated as agents who interact with peers, artifacts, communities, institutions, and — depending on the activity — the natural environment, and success is measured by the interdisciplinary *practices* a group develops (epistemic practices, identity development, authentic research productivity), not only by what settles in an individual mind afterward.
@@ -48,6 +48,10 @@ This paradigm organizes design guidance around three recurring dilemmas, each wi
 - [Interdisciplinary collaboration is fundamentally relational; tools assist but relationships make or break it](../claims/collaboration-fundamentally-relational.md) [+W]
 - [GenAI reconfigures group knowledge development from individual to distributed, AI-co-constructed processes](../claims/genai-reconfigures-group-knowledge-development.md) [+W]
 - [Human-GAI paradigms are enacted patterns of engagement rather than fixed individual traits](../claims/gai-paradigms-enacted-patterns-not-fixed-traits.md) [+W]
+
+## The evidence by question
+
+- *Do designs that have groups integrate disciplinary perspectives together (themed units, simulations, guided deliberation) develop interdisciplinary competences and practices?* [Interdisciplinary humanities units improve students' interdisciplinary competences](../claims/interdisciplinary-humanities-units-improve-interdisciplinary-competences.md) [+M]
 
 ## Related Theories
 

@@ -43,6 +43,8 @@ Categorical moderator analysis under the random effects model comparing subgroup
 
 ## Related Claims
 
+- [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — the general claim this finding bears on, with the studies behind it
+
 - [In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains](srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep.md) — the general claim this finding bears on, with the studies behind it
 - [The pooled effect of self-regulated learning does not differ significantly by school level](srl-effect-no-school-level-difference.md) — related
 - [The effect of SRL interventions does not differ significantly by course type, SRL strategy type, school level, or learning context](srl-effect-no-significant-moderator-differences.md) — a broader claim this one bears on

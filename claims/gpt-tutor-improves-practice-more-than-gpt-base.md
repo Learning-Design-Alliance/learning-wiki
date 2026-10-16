@@ -43,6 +43,8 @@ Same intention-to-treat regression; the GPT Tutor coefficient was 0.361 (P < 0.0
 
 ## Related Claims
 
+- [Learners receiving ChatGPT-generated hints showed statistically significant learning gains compared to a no-hint control in an online mathematics tutoring experiment](chatgpt-hints-significant-gains-versus-control.md) — the general claim this finding bears on, with the studies behind it
+
 - [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](practice-presence-raises-cbi-posttest-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Access to a standard GPT-4 chat tutor during practice substantially improves practice performance in high school mathematics](gpt-base-improves-assisted-practice-performance.md) — related
 - [Review reports a field experiment in which GPT access improved supported practice but was followed by poorer unaided test performance, mitigated by a guarded tutor](gpt4-access-harms-learning-after-withdrawal.md) — related

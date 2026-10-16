@@ -43,6 +43,10 @@ Meta-analysis of 21 Turkish empirical (9) and relational (12) studies, total sam
 
 ## Related Claims
 
+- [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — the general claim this finding bears on, with the studies behind it
+
+- [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — the general claim this finding bears on, with the studies behind it
+
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Creativity-based learning applications show a large, positive pooled effect on students' academic achievement (ES = 0.850)](cbl-large-positive-effect-academic-achievement.md) — related
 - [A meta-analysis of three differentiated-instruction studies reports a pooled effect of 0.729 on academic achievement whose 95% confidence interval (−3.66 to 5.12) spans zero](di-medium-positive-effect-academic-achievement.md) — related

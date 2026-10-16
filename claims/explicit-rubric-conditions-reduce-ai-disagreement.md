@@ -30,7 +30,7 @@ sources:
 # Focused rubric refinement that made required physics and scoring conditions explicit reduced AI–official disagreements on targeted questions (e.g., Grover item MAD 1.1 to 0.4 marks, r 0.70 to 0.82)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` On the refined QM Q3b Grover-diagram question, refinement reduced MAD from 1.1 to 0.4 marks, raised Pearson's r from 0.70 to 0.82, and raised exact agreement from 15% to 45%. [→ Praveen Pathak 2026](#praveen-pathak-2026)
@@ -61,6 +61,8 @@ Focused regrading of only the OE1 Q2 submissions with large Round I AI–officia
 ## Discussion
 
 ## Related Claims
+
+- [Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades](prompt-rubric-quality-drives-llm-grading.md) — the general claim this finding bears on, with the studies behind it
 
 - [Criterion-referenced tests require empirically-based construct validation studies](criterion-referenced-tests-need-construct-validation.md) — the general claim this finding bears on, with the studies behind it
 - [AI total scores correlate strongly with official human scores on handwritten physics assessments (r = 0.91–0.97 in Round I; 0.93–0.96 in Round II)](ai-human-total-score-correlation-handwritten-physics.md) — related

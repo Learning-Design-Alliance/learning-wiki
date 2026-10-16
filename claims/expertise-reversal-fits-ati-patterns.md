@@ -41,10 +41,14 @@ The review's comparative framing: it reports that the effect's empirical pattern
 
 ## Discussion
 
-
 ## Learner Variables
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [In the few studies that split by ability, learning techniques helped low-ability students and not high-ability students](learning-techniques-benefit-low-ability-not-high-ability-students.md) — the general claim this finding bears on, with the studies behind it
+
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — the general claim this finding bears on, with the studies behind it
 - [The effectiveness of instructional techniques and procedures interacts with levels of learner prior knowledge, a pattern known as the expertise reversal effect](expertise-reversal-prior-knowledge-interaction.md) — related
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related

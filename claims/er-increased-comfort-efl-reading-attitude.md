@@ -30,7 +30,7 @@ sources:
 # A 15-week extensive reading course increased Japanese EFL learners' feelings of comfort with foreign-language reading (r = .54)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q2` · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Extensive reading significantly increased the Comfort component of L2 reading attitude, with a large effect size (r = .54). [→ Junko Yamashita 2013](#junko-yamashita-2013)
@@ -59,6 +59,9 @@ Table 1 reports Comfort mean scores rising from 2.25 (SD 0.63) at pretest to 2.6
 
 ## Discussion
 
+
+## Learner Variables
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Extensive reading reduced Japanese EFL learners' anxiety about foreign-language reading (r = .34)](er-reduced-anxiety-efl-reading-attitude.md) — related

@@ -1,0 +1,70 @@
+{
+  "principle": "theories/sociomaterial-agency-of-tools",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "material-choice-shapes-conceptual-learning-and-participation",
+      "question": "Does the choice of physical materials for a hands-on task change what learners come to understand and who takes part?",
+      "members": [
+        [
+          "fiber-crafting-develops-proportional-reasoning-through-unitizing",
+          "+"
+        ],
+        [
+          "material-artifact-stability-stabilizes-thinking",
+          "+"
+        ],
+        [
+          "material-arrangement-affords-stability",
+          "+"
+        ],
+        [
+          "identity-centered-making-supports-stem-engagement-and-identity-affirmation",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "ai-non-neutral-embeds-power-relations",
+      "question": "Do the assumptions built into an AI tool carry into what learners write and the feedback they get, and does configuring the tool change that?",
+      "members": [
+        [
+          "biased-llm-assistance-increases-agentic-gap-student-essays",
+          "+"
+        ],
+        [
+          "biased-llm-assistance-raises-stereotype-congruence-career-choices",
+          "+"
+        ],
+        [
+          "bias-transfer-without-awareness-llm-writing",
+          "+"
+        ],
+        [
+          "asymmetric-female-agency-suppression-bias-transfer",
+          "~"
+        ],
+        [
+          "neutral-llm-assistant-attenuates-baseline-stereotyping",
+          "~"
+        ],
+        [
+          "race-prompts-cultural-stereotype-feedback",
+          "+"
+        ],
+        [
+          "ai-assisted-outputs-homogenization-risk",
+          "+"
+        ],
+        [
+          "zhimo-revision-meaning-negotiation",
+          "+"
+        ],
+        [
+          "interactive-genai-dialogue-promotes-engagement",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

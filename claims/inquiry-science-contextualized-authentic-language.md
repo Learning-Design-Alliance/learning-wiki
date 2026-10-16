@@ -44,6 +44,7 @@ Theoretical argument from the Montebello project team, quoted from Gomez-Zwiep e
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [English-Learner Status](../learner-variables/english-learner-status.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Integrating literacy and science within authentic real-world experiences can produce greater learning in both areas than teaching either separately](integrated-literacy-science-greater-learning-than-separate.md) — related

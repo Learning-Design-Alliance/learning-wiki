@@ -41,7 +41,8 @@ Narrative review of human tutoring research reporting that cueing methods "tend 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Initial short-answer tests outperform initial multiple-choice tests mainly when feedback follows them; without feedback, the higher initial success of multiple-choice tests can favor multiple-choice](feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice.md) — related
 - [The benefits of retrieval practice do not depend on an exact match between initial retrieval practice conditions and the final test format](retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats.md) — related

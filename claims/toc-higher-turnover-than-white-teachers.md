@@ -65,6 +65,9 @@ The report cites prior research (footnoted) for this workforce trend; the review
 
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Teachers of color are judged more harshly in evaluations: within the same schools, Black teachers were 50 percent more likely than white teachers to receive a low rating.](biased-teacher-evaluations.md) — related

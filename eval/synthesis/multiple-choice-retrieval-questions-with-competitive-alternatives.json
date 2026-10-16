@@ -1,0 +1,74 @@
+{
+  "principle": "elements/multiple-choice-retrieval-questions-with-competitive-alternatives",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read. Both hubs are reused with their questions verbatim. Nero 2021's four claims are one study.",
+  "findings": [
+    {
+      "hub": "short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed",
+      "question": "Which practice format: short answer, multiple choice, or matching the final test?",
+      "members": [
+        [
+          "practice-test-format-moderates-effect",
+          "~"
+        ],
+        [
+          "production-vs-recognition-retrieval-practice-no-significant-difference-reading-comprehension",
+          "~"
+        ],
+        [
+          "effect-of-more-multiple-choice-alternatives-depends-on-initial-retrieval-success",
+          "~"
+        ],
+        [
+          "format-consistency-moderates-classroom-testing-effect",
+          "~"
+        ],
+        [
+          "tap-identical-formats-stronger-effect",
+          "~"
+        ],
+        [
+          "retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats",
+          "~"
+        ],
+        [
+          "retrieval-format-levels-of-thinking-retention-interval-three-way-interaction-not-significant",
+          "~"
+        ],
+        [
+          "retrieval-format-by-levels-of-thinking-interaction-not-significant",
+          "~"
+        ],
+        [
+          "retrieval-format-by-retention-interval-interaction-not-significant",
+          "~"
+        ],
+        [
+          "competitive-multiple-choice-alternatives-benefit-related-untested-questions",
+          "~"
+        ],
+        [
+          "feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "multiple-choice-lures-can-be-learned-as-false-knowledge",
+      "question": "Can taking a multiple-choice test teach learners the wrong answers it shows them, and does feedback prevent that?",
+      "members": [
+        [
+          "mc-testing-effect-and-net-harm-boundary",
+          "+"
+        ],
+        [
+          "feedback-reduces-lure-intrusions",
+          "~"
+        ],
+        [
+          "feedback-after-multiple-choice-tests-halves-lure-intrusions",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -41,8 +41,12 @@ Third macro-transformation reported in Section 4.3, drawing on distributed cogni
 
 ## Discussion
 
+## Learner Variables
+- [Epistemic Beliefs](../learner-variables/epistemic-beliefs.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users](chatgpt-reduced-differentiation-verification.md) — the general claim this finding bears on, with the studies behind it
 - [AI methodologies may redistribute epistemic agency, moving researchers from primary analyst to interpreter and validator of AI-generated outputs](ai-redistributes-researcher-epistemic-agency.md) — related
 - [LEARN reconceptualises scaffolding for GAI contexts as interactive, dialogic, and epistemically regulated interrogation of AI outputs](gai-scaffolding-reconceptualised-epistemic-regulation.md) — related
 - [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — related

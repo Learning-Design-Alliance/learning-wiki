@@ -41,8 +41,9 @@ The article reports, citing McCrocklin (2026), that pre-deep-learning dictation 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Educators report ASR features can be inaccurate for learners' diverse accents, dialects, and speech patterns](asr-inaccuracy-diverse-accents.md) — the general claim this finding bears on, with the studies behind it
 - [Speech detection showed preliminary success but remained challenging in noisy settings, particularly for speaker differentiation, children's voices, and diverse dialects](speech-detection-preliminary-success-noisy-settings.md) — related
 - [AI-text detectors misclassify authentic TOEFL essays by non-native English speakers at a mean false-positive rate of 61.3% across seven detectors, far more often than native-speaker essays](detector-61-3-percent-false-positives-non-native-toefl.md) — related
 - [AI-detection tools produce inequitable outcomes, disadvantaging non-native English speakers through false positives](ai-detection-tools-inequitable-false-positives.md) — related

@@ -61,8 +61,12 @@ The authors' comparison of achievement across gender groups in the same test fou
 
 ## Discussion
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](pisa-sex-differences-math-small-reading-three-times-larger.md) — the general claim this finding bears on, with the studies behind it
 - [DIF was found for four items but could not be anticipated from differential response times between boys and girls alone](dif-not-predictable-from-differential-response-times.md) — related
 - The negative response time–likelihood trend holds for boys (R=-0.22) but not for girls (R=+0.04) — related
 - Mean response likelihood does not differ significantly between boys and girls, but its variance is 1.46 times greater for girls — related

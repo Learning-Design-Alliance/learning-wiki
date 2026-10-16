@@ -30,7 +30,7 @@ sources:
 # Exception-type confusion was the dominant difficulty pattern in SafeDivide at the University of Houston (90% of incorrect attempts) and persisted across harder problems in both deployments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` At the University of Houston, exception type confusion affected 90% of students with incorrect attempts on P1 and remained present on P2 (48%) and P3 (37%). [→ Daniel Prol 2026](#daniel-prol-2026)

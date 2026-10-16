@@ -40,6 +40,18 @@ The authors' ergonomic analysis of the Entrez interface reports, from experience
 
 > "Experience shows that this scrolling ("selection mode") is a valuable feature of Entrez, since users don't always know the exact query term or author name."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do retrieval tools that help users who cannot state the exact query (term browsing, query expansion, result summaries) improve what they find?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **3 distinct studies** (2 design, 1 causal), `q2`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Epstein 1994 | q2 · design · r2 | i? | this claim |
+| [Sidney Shapiro and Joshua Lindemann 2026](https://doi.org/10.48550/arxiv.2610.02510) | q2 · design · r2 | i? | [Post-deployment diagnostics attributed many remaining retrieval misses to query formulatio](retrieval-misses-attributed-to-query-formulation.md) (supports) |
+| [Yifan Liu 2026](https://doi.org/10.48550/arxiv.2606.08936) | q2 · causal · r? | i? | [AI overviews in an academic search engine showed mixed effects: summaries may reduce menta](ai-overviews-mixed-effects-academic-search.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

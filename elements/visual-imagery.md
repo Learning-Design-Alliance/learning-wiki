@@ -13,7 +13,7 @@ generated:
 # Visual Imagery
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 16 studies (8 causal, 5 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 16 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 17 studies (8 causal, 6 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 17 report an effect size · 2 claims rest on one study
 
 ## Description
 Visual imagery is the deliberate formation of mental pictures to represent verbal or abstract content — scenes, spatial layouts, processes, or relationships. As an instructional element, it either prompts learners to generate their own images or supplies carefully chosen visuals that learners connect to the material, engaging both verbal and pictorial processing channels.
@@ -53,6 +53,11 @@ Imagery-based encoding improves recall and comprehension because information sto
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Concreteness fading enables learners to build a store of memorable images usable when abstract symbols lose meaning](../claims/fading-builds-memorable-images.md) [+W]
+
+## The evidence by question
+
+- *Does having learners form mental images of the material (imagery for text, the keyword mnemonic) improve learning, for whom, and how does it compare with other study techniques?* [Concreteness, imagery, and verbal associative processes play major roles across multiple educational domains](../claims/concreteness-imagery-associative-roles-educational-domains.md) [+M]
+- *Does pairing the words with a relevant visual of the same idea improve learning over the words alone, and for whom?* [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](../claims/dual-coding-improves-learning.md) [+S]
 
 ## Related Elements
 

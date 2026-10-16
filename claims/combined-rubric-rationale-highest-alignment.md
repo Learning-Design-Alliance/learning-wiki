@@ -41,8 +41,9 @@ Experiment 4 (revised rubric, rationale-first evaluation) scored the machine-gen
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades](prompt-rubric-quality-drives-llm-grading.md) — the general claim this finding bears on, with the studies behind it
 - [Revising the rubric to operationalize pedagogical constructs raises human–machine agreement for openness and depth](rubric-revision-improves-machine-alignment.md) — related
 - [Rationale-first evaluation improves depth alignment under the initial rubric but yields only limited gains for openness](rationale-first-limited-gains-openness.md) — related
 - [Grammatical Accuracy is the most stable and objective scoring dimension for LLMs, while Task Response is the most challenging](grammatical-accuracy-most-stable-llm-scoring-dimension.md) — related

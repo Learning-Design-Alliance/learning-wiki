@@ -42,6 +42,9 @@ Pre/post survey of DLP coaches (94 percent completed both surveys): "89 percent 
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Coaches and principals in the DLP grew in confidence and skills over the year](dlp-coach-principal-growth.md) — related
 - [Principals' confidence in leadership skills related to instructional coaching rose from 60 to 95 percent over the pilot year](dlp-principal-leadership-confidence-growth.md) — related

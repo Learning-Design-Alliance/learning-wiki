@@ -124,7 +124,12 @@ Open questions: most of the evidence base predates modern multimedia learning re
 
 **Open questions.** The meta-analyses recorded above find small effects, larger for high-ability than for low-ability learners; meta-analytic work on organizers is older and heterogeneous, so effect sizes vary widely by domain, organizer type, and outcome measure. The three syntheses recorded support a weak rating; primary experiments and a modern pooled estimate are still missing.<!-- deprecated (2026-10-05, stale beside existing entries): Until studies are added, the strength of this claim cannot be rated. --> A sibling claim page exists at [Advance organizers improve learning](advance-organizers-improve-learning.md); the two pages should be reconciled.
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
+
+- [In the few studies that split by ability, learning techniques helped low-ability students and not high-ability students](learning-techniques-benefit-low-ability-not-high-ability-students.md) — the general claim this finding bears on, with the studies behind it
 
 - [Activation improves learning.](activation-improves-learning.md) — organizers are a designer-led way of activating relevant prior knowledge before instruction
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — organizers impose an initial structure that chunks incoming information

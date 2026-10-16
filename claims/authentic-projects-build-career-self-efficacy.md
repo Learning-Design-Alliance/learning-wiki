@@ -56,8 +56,12 @@ The authors describe Mr. Duarte's final project, in which students find communit
 
 ## Discussion
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — the general claim this finding bears on, with the studies behind it
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Students believed interdisciplinary studio experiences would ease their transition into the workforce](studio-experience-prepares-students-for-workforce.md) — related
 - [Educators moved from awareness to interest in integrating the studio's technology into their coursework](educators-awareness-to-interest-technology-integration.md) — related

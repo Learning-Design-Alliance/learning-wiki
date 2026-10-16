@@ -41,8 +41,9 @@ This is the guide's own summary assertion in its closing section, offered withou
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Integrating oral and written English language instruction into content-area teaching shows positive impacts on content-area acquisition in five RCTs](integrate-oral-written-language-content-teaching.md) — the general claim this finding bears on, with the studies behind it
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — related
 - [Whether strategy instruction works better in authentic content-area tasks is untested, and the one meta-analytic comparison recorded found larger gains in strategic ability in language-arts than in content-area classes](learning-strategy-instruction-contextualized-more-effective.md) — reports the opposite
 - [Embedding gravitational-wave science across a year-long astronomy curriculum gave coherence to previously disconnected units and motivated students](grav-wave-theme-coheres-curriculum.md) — related

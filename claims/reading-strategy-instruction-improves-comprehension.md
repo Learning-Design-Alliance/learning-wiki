@@ -88,6 +88,8 @@ Meta-analysis of 52 studies (125 effect sizes) testing reading-strategy interven
 
 ## Related Claims
 
+- [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — the general claim this finding bears on, with the studies behind it
+
 - [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — annotation is a concrete strategy that operationalizes active text processing.
 - [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — decoding fluency is a precondition for strategy use to pay off.
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — strategies help learners manage the memory demands of extended text.

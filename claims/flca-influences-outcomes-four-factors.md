@@ -42,8 +42,13 @@ Findings from this qualitative case study of two Japanese EFL learners indicated
 
 ## Discussion
 
+## Learner Variables
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — predictor: learners who differ on it differ in outcomes
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [L2 anxiety is negatively correlated with L2 achievement, with a mean correlation of r = −.36 across 216 effect sizes](l2-anxiety-negative-correlation-achievement-meta-analysis.md) — the general claim this finding bears on, with the studies behind it
 - [Speaking practice opportunities and teacher support reduced classroom anxiety and increased self-efficacy for one learner](speaking-practice-reduced-flca-increased-self-efficacy.md) — a narrower finding that bears on this claim
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — a narrower finding that bears on this claim
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — a broader claim this one bears on

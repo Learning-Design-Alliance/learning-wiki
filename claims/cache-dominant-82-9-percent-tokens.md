@@ -30,7 +30,7 @@ sources:
 # May 2026 token telemetry was cache-dominant: 82.9% of 73,950,305 recorded tokens were cache reads, suggesting persistent workflows shift the economic unit from cost per token to cost per completed artifact
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q1`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In the strict May 1–May 25 trajectory subset (627 model-completed events), cache-read tokens represented 61,278,669 of 73,950,305 recorded tokens, a cache-dominance ratio of 0.829. [→ Anas H. Alzahrani 2026](#anas-h-alzahrani-2026)

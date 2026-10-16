@@ -42,6 +42,10 @@ Subgroup trend analysis by race/ethnicity, gender, neighborhood poverty, and dis
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Districtwide ninth-grade on-track rates rose 25 percentage points between 2007 and 2013 across racial, gender, and achievement subgroups](cps-on-track-rate-rose-25-points-districtwide.md) — related
 - [Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year](sophomore-gains-unequal-by-race-gender.md) — related

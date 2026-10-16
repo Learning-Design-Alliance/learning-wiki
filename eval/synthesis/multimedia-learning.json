@@ -25,6 +25,18 @@
         [
           "all-treatments-produced-significant-gains",
           "+"
+        ],
+        [
+          "dual-coding-improves-learning",
+          "+"
+        ],
+        [
+          "generated-textbook-videos-easier-to-follow-than-plain-text",
+          "+"
+        ],
+        [
+          "expertise-reversal-effect",
+          "~"
         ]
       ]
     },
@@ -257,6 +269,22 @@
         [
           "animations-pacify-learners-navigation-imbalance",
           "~"
+        ],
+        [
+          "segmentation-benefit-larger-for-adhd-group",
+          "~"
+        ],
+        [
+          "mooc-engagement-declines-with-video-length",
+          "+"
+        ],
+        [
+          "interpolated-questions-improve-video-learning",
+          "+"
+        ],
+        [
+          "segmentation-improves-learning-dynamic-visualizations",
+          "+"
         ]
       ]
     }

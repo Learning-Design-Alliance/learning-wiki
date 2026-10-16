@@ -41,11 +41,12 @@ The article draws on Schmidt's (2001) claim that attention is a limited resource
 
 ## Discussion
 
-
 ## Learner Variables
 - [Attention](../learner-variables/attention.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](skill-specificity-l2-grammar-practice.md) — the general claim this finding bears on, with the studies behind it
 - Language subsystems may show supportive, competitive, or precursor relationships depending on available cognitive resources — related
 - [Early-stage IDC growth shows simplification, linearity, and dogmatism, with focal points shifting from format to content to technology across rounds](novice-idc-growth-simplification-linearity-dogmatism.md) — related
 - [Purely mechanical drills are of limited use because they do not train learners to conceptualize a meaning and express it linguistically](mechanical-drills-limited-use-meaning-form.md) — related

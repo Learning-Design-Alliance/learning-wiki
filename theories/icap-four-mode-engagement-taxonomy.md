@@ -17,7 +17,7 @@ sources:
 # ICAP theory: a taxonomy of four cognitive engagement modes with a hierarchical learning prediction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (5 for, 3 mixed) · 4 studies (2 design, 1 associational, 1 theoretical), `q1`–`q2` · 1 of 4 report an effect size · 8 claims rest on one study
+> **Evidence** · 10 claims (7 for, 3 mixed) · 6 studies (2 associational, 2 design, 2 theoretical), `q1`–`q2` · 1 of 6 report an effect size · 9 claims rest on one study
 
 ## Description
 ICAP defines four modes of cognitive engagement — Interactive, Constructive, Active, and Passive — operationally differentiated by students' overt behaviors and products. The article states that "ICAP encompasses three components: a taxonomy of four engagement modes and the operational definition of each mode, a metric that can define the degree of engagement based on the cognitive processes corresponding to the four behavioral modes, and a hypothesis that can predict the hierarchical levels of student learning as a function of the mode of engagement." Each mode is mapped to underlying knowledge-change processes (storing, activating, linking, inferring), and the modes are hierarchically ordered so that Interactive subsumes Constructive, which subsumes Active, which subsumes Passive.
@@ -52,6 +52,11 @@ ICAP defines four modes of cognitive engagement — Interactive, Constructive, A
 - [Engagement modes were unevenly distributed across units, with some units rated Interactive and others entirely Passive](../claims/uneven-icap-mode-distribution-across-units.md) [~W]
 - [Coding-oriented conversations show higher cognitive and constructive engagement than writing-oriented conversations across all three corpora](../claims/coding-vs-writing-constructive-engagement.md) [+W]
 - [Generative (Constructive) engagement by young children produces better learning than attentive (Passive) engagement](../claims/constructive-beats-passive-young-children.md) [+W]
+
+## The evidence by question
+- *Which kind of activity: manipulating material, generating beyond it, or building on a partner's ideas?* [Constructive learning beats active and passive learning](../claims/constructive-learning-beats-active-passive.md) [+M]
+- *Can a course's activities and learners' talk be coded reliably into ICAP modes, so a designer can audit a design?* [The ICAP Framework was found effective for assessing potential for active learning in an asynchronous online environment and identifying where design improvements are needed](../claims/icap-effective-audit-tool-asynchronous-online.md) [+M]
+- *Does AI support move learners into constructive and interactive engagement, or let them stay passive?* [Scaffolded assistant support marks richer constructive participation at the conversation level across all six task settings](../claims/scaffolded-support-constructive-participation.md) [+M]
 
 ## Related Theories
 

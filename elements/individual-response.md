@@ -13,7 +13,7 @@ generated:
 # Individual Response
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 14 studies (6 causal, 5 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 14 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 mixed) · 17 studies (8 causal, 5 quant-synthesis, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 17 report an effect size · 4 claims rest on one study
 
 ## Description
 Individual Response asks learners to commit to an answer or solution on their own before any group discussion or peer comparison occurs. It functions as the private, first-draft phase of interactive instruction — the moment when each learner must retrieve, reason, and take a position without being able to defer to others.
@@ -52,6 +52,11 @@ Requiring an independent answer before discussion converts passive listening int
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [The regulated 'think first, ChatGPT later' group outperformed both other groups in independent originality on the unassisted task despite no assisted-task advantage](../claims/regulated-ai-outperforms-independent-originality.md) [+W]
+
+## The evidence by question
+
+- *How much comes from answering the question at all, before any discussion?* [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](../claims/classroom-quizzing-improves-exam-performance-across-grades-and-content.md) [+M]
+- *Does discussing a committed answer with peers improve a later individual answer on a new question?* [Peer Discussion Improves Conceptual Understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M]
 
 ## Related Elements
 - [Peer Instruction](peer-instruction.md) — individual response is the mandatory first phase; without it, peer discussion degenerates into answer-sharing

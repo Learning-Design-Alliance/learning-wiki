@@ -30,7 +30,7 @@ sources:
 # The adaptive router reduces turns in long conversations (turns≥5) but not across the unfiltered dataset
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the subset of conversations with turns≥5, the router guided students through interactions in fewer turns (N=381, p=0.0073). [→ Po-Chin Chang 2026](#po-chin-chang-2026)

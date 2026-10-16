@@ -39,7 +39,8 @@ Abductive thematic analysis of four placement students' Gibbs-cycle reflective r
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI severs the correlation between artefact quality and cognitive engagement, breaking the artefact-as-proxy for learning](ai-breaks-artefact-as-proxy.md) — the general claim this finding bears on, with the studies behind it
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
 - [Students' evaluative judgment of cGPT responses shifted from strict principle compliance toward contextual appropriateness](evolving-evaluative-judgment-cgpt-responses.md) — related

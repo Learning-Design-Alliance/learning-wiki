@@ -41,8 +41,9 @@ In the same classroom intervention (N = 221), the failure-driven scaffolding con
 
 ## Discussion
 
-
 ## Related Claims
+
+- [PF design fidelity predicts larger PS-I effects, with four fidelity criteria showing significant subgroup differences](pf-fidelity-predicts-psi-effect-size.md) — the general claim this finding bears on, with the studies behind it
 - [Failure-driven and success-driven scaffolding before instruction produce similar posttest conceptual understanding](failure-and-success-scaffolding-similar-posttest-conceptual-understanding.md) — related
 - [Emotion dynamics during problem-solving predict learning outcomes in a manner that depends on scaffolding design](emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently.md) — related
 - [Guidance during initial problem solving does not translate into better learning from subsequent instruction](initial-guidance-does-not-improve-learning-from-instruction.md) — related

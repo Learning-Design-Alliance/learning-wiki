@@ -13,7 +13,7 @@ generated:
 # Learner-Centered Paradigm of Education
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 12 claims (9 for, 2 mixed, 1 against) · 10 studies (4 causal, 2 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 10 report an effect size · 11 claims rest on one study
+> **Evidence** · 14 claims (10 for, 3 mixed, 1 against) · 13 studies (5 quant-synthesis, 4 causal, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 13 report an effect size · 12 claims rest on one study
 
 ## Description
 Watson and Reigeluth (2008) argue that most school systems are still organized on an Industrial-Age, sorting-based model: time is held constant (a fixed school year, fixed pace), so achievement is forced to vary — some students master the material, others fall behind and accumulate deficits, and the system's implicit function is to sort students into different tracks rather than ensure everyone reaches mastery. The learner-centered paradigm proposes inverting this: hold **attainment** constant (every learner reaches mastery of each standard) and let **time/pace** vary to fit the individual, alongside person-based (rather than group-based) progression, resource-based (rather than purely teacher-based) instruction, and criterion-based (rather than norm-based) assessment.
@@ -61,6 +61,12 @@ Reigeluth (2011) elaborates the roles that shift under this paradigm. **Teachers
 - [Average test scores are higher when classes are sorted by skill, driven by large learning gains for high-skilled students and slightly lower scores for low-skilled students](../claims/sorting-raises-test-scores-via-high-skill-gains.md) [-W]
 - [Sorting by ability affects grades and pass rates differently from test scores: high-skilled students' grades and pass rates decline while low-skilled students' grades improve](../claims/sorting-opposite-effects-grades-vs-test-scores.md) [~W]
 - [Four high-poverty case study schools sustained rising achievement for all subgroups for 5 to 10 years while pursuing personalization](../claims/four-equity-schools-rising-achievement-all-subgroups.md) [+W]
+
+## The evidence by question
+
+- *Does handing control to learners (pace, feedback, sequence) improve learning, and when?* [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](../claims/learner-paced-beats-system-paced-complex-material.md) [~S]
+- *Does adaptive instruction raise achievement over non-individualised instruction or the same content in a fixed sequence?* [Intelligent tutoring systems improve achievement over non-individualised instruction](../claims/adaptive-learning-improves-outcomes.md) [+S]
+- *Does sorting learners into classes or groups by ability help them, and which learners gain or lose?* [Between- or within-class homogeneous ability grouping has a small negative effect on low-ability primary students but no effect on other students](../claims/homogeneous-ability-grouping-negative-low-ability.md) [~M]
 
 ## Related Theories
 

@@ -79,8 +79,12 @@ Hillsborough RCT (Weiss et al., 2010; 1,071 students). The report states this "d
 
 ## Discussion
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [GenAI function, intervention duration, publication year, and gender were not significant moderators of GenAI's motivational effect](genai-motivation-null-moderators-function-duration-year-gender.md) — the general claim this finding bears on, with the studies behind it
 - [Linked learning communities produced no statistically significant or substantively important effects on academic achievement](linked-learning-communities-academic-achievement-no-effect.md) — related
 - [Linked learning communities produced no statistically significant or substantively important effect on degree attainment](linked-learning-communities-degree-attainment-no-effect.md) — related
 - [Linked learning communities show no discernible effects on any of five outcome domains for community college students in developmental education](linked-learning-communities-no-discernible-effects-five-domains.md) — a broader claim this one bears on

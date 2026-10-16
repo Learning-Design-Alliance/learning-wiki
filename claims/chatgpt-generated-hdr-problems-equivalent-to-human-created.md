@@ -30,7 +30,7 @@ sources:
 # ChatGPT-generated HDR problems measure the same ability as human-created problems, with high internal consistency (Cronbach's α = 0.78) and no significant difficulty difference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q3`
 
 ## Subclaims
 `q3 i?` ChatGPT-generated HDR problems and original human-created problems yielded high internal consistency (α = 0.78), suggesting both measure the same cognitive ability to detect misuse of knowledge. [→ Satoshi Takahashi 2026](#satoshi-takahashi-2026)

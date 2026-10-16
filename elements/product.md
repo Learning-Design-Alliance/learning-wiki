@@ -13,7 +13,7 @@ generated:
 # Product
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (2 for, 4 mixed) · 10 studies (3 quant-synthesis, 3 theoretical, 2 review, 1 qualitative, 1 design), `q1`–`q4` · 3 of 10 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (3 for, 4 mixed) · 11 studies (4 theoretical, 3 quant-synthesis, 2 review, 1 qualitative, 1 design), `q1`–`q4` · 3 of 11 report an effect size · 4 claims rest on one study
 
 ## Description
 A product is the concrete output of learning — an essay, prototype, solution, presentation, or performance — that makes learner competence visible and assessable. It functions as both the goal that organizes instruction and the evidence from which learning is evaluated. In task-centered designs, the product is what distinguishes completing a learning task from merely engaging with content.
@@ -56,6 +56,9 @@ Defining the product up front gives learners a clear performance goal and gives 
 - [Proposition 1: outcome-aligned ownership performances will predict later individual transfer beyond AI-assisted product quality alone](../claims/proposition-1-ownership-predicts-transfer.md) [~W]
 - [Visual media assessments (posters, presentations) were not passable because ChatGPT could not produce complete slides or poster content](../claims/visual-media-assessments-not-passable-by-chatgpt.md) [~W]
 - [Participants report AI-generated database diagrams were less accurate than what students had previously produced, cautioning against assuming AI artifacts are better](../claims/ai-database-diagrams-less-accurate.md) [~W]
+
+## The evidence by question
+- *When generative AI helps make a learner's product, does the product's quality still show what the learner has learned and can do on their own?* [AI severs the correlation between artefact quality and cognitive engagement, breaking the artefact-as-proxy for learning](../claims/ai-breaks-artefact-as-proxy.md) [+W]
 
 ## Related Elements
 - [Assessment](assessment.md) — the product is the primary evidence assessment evaluates

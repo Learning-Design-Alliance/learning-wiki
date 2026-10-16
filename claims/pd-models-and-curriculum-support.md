@@ -60,8 +60,9 @@ Doppelt et al. (2009) study of 8th-grade science teachers using a new electronic
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](effective-pd-seven-features.md) — the general claim this finding bears on, with the studies behind it
 - [Collaboration appeared in 32 of 35 reviewed studies, and collaborative PD models showed student achievement gains](pd-collaboration-prevalence-and-gains.md) — related
 - [Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing larger gains in a randomized trial](pd-coaching-expert-support-gains.md) — related
 - [Content-focused, job-embedded PD linked to student gains: 31 of 35 reviewed studies featured a specific content focus](pd-content-focus-prevalence.md) — related

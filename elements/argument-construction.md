@@ -13,7 +13,7 @@ generated:
 # Argument Construction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 7 studies (3 causal, 2 quant-synthesis, 1 review, 1 theoretical), `q2`–`q4` · 1 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 10 studies (5 causal, 3 quant-synthesis, 1 review, 1 theoretical), `q2`–`q4` · 3 of 10 report an effect size · 3 claims rest on one study
 
 ## Description
 Argument construction asks learners to build a structured claim–evidence–reasoning case for a position, typically using an explicit framework such as Toulmin's model (claim, grounds, warrant, backing, qualifier, rebuttal). Learners must gather and evaluate evidence, articulate warrants connecting evidence to claims, and anticipate counterarguments — converting domain knowledge into defensible reasoning rather than recall.
@@ -57,6 +57,10 @@ Argument construction supports learning because generating and defending a posit
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](../claims/unstructured-llm-use-cognitive-offloading.md) [~W]
 - [Argument quality gains favored the PS-GenAI-PF group over the PF group, while elaboration gains favored the GenAI-PF group](../claims/genai-peer-feedback-raises-argument-quality.md) [~W]
+
+## The evidence by question
+- *Does structured argument with peers improve learners' individual argument and content learning?* [Argumentation Improves Reasoning](../claims/argumentation-improves-reasoning.md) [+S]
+- *Does AI feedback or AI support improve learners' arguments and justifications, and in which designs?* [Direct GenAI-supported feedback improves immediate argument-quality gain over peer feedback, while reflective and hybrid designs outperform direct GenAI feedback](../claims/genai-feedback-design-argument-quality-gain.md) [+M]
 
 ## Related Elements
 - [Research](research.md) — supplies the evidence base; arguments without sourced grounds collapse into opinion

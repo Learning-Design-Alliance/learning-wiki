@@ -60,11 +60,13 @@ ANOVAs on the IMI perceived-choice and pressure sub-scales among active particip
 
 ## Discussion
 
-
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — the general claim this finding bears on, with the studies behind it
 - [Both the course and the assistant increase behavioral engagement, measured as characters written per journaling prompt](course-and-assistant-increase-writing-engagement.md) — related
 - [Robot adaptiveness effects on human autonomy are mixed: autonomy-supportive behaviours and as-needed assistance help, but mere choice or high interactivity may not](robot-adaptiveness-mixed-autonomy-effects.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related

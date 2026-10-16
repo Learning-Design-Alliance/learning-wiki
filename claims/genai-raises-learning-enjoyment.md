@@ -30,7 +30,7 @@ sources:
 # AI access makes learning more enjoyable but does not change self-assessed knowledge or felt effectiveness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r3` · `q4`
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q4`
 
 ## Subclaims
 `q4 i?` Treated students report enjoyment of the learning task 0.58 points (11 percent) higher on a 0–10 scale, while self-assessed knowledge and feeling skilled or effective do not change significantly. [→ Zara Contractor and Germán Reyes 2026](#zara-contractor-and-german-reyes-2026)
@@ -60,6 +60,9 @@ Null result on the self-assessed knowledge outcome (0–10 scale) from Session O
 
 ## Discussion
 
+
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Mastery learning has overall positive effects on student affect, with the exception of slightly lower grade expectations](mastery-positive-affective-effects.md) — related

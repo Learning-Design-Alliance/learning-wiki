@@ -41,8 +41,9 @@ Idea-deletion coding across the 45-participant experiment: three Interactive Eng
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — the general claim this finding bears on, with the studies behind it
 - [Only the interactive antagonistic agent, not stepwise guidance, significantly shifted novice designers' design thinking relative to self-reflection](agent-enacted-conflict-shifts-design-thinking.md) — related
 - [The antagonistic agent surfaced a broader set of stakeholder concerns than novice designers reached on their own](antagonistic-agent-broadens-stakeholder-coverage.md) — related
 - [Both constructive-conflict conditions produced substantially more idea editing between design iterations than unsupported self-reflection](constructive-conflict-increases-idea-editing.md) — related

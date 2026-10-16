@@ -46,6 +46,8 @@ Theme 6 of the study's ten synthesized themes from qualitative analysis of SLA t
 
 ## Related Claims
 
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](whole-task-performance-improves-transfer.md) — the general claim this finding bears on, with the studies behind it
+
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](student-centered-environments-lower-anxiety-increase-confidence.md) — related
 - [Tasks with higher involvement load, involving search and evaluation, are conducive to better word retention, with marginal glosses efficient for incidental learning](involvement-load-tasks-improve-word-retention.md) — related

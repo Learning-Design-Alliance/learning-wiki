@@ -30,7 +30,7 @@ sources:
 # A 60-minute session with Prompt Coach significantly improved professional developers' prompt quality, a 13.73% relative gain overall
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r1`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` After a 60-minute PC learning session, mean prompt-quality scores rose from 63.04 to 71.69 (+13.73%, paired Wilcoxon p < .001). [→ Rohit Mehra 2026](#rohit-mehra-2026)

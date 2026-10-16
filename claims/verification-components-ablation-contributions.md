@@ -38,7 +38,7 @@ sources:
 # Each pedagogical verification component contributes to a distinct quality dimension: layout verification most strongly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 design `r2` · `q2`
+> **Evidence** · 1 study (3 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Removing Layout Consistency degrades the Layout score from 9.10 to 7.87; removing Factual Consistency decreases Accuracy & Depth from 0.87 to 0.85; removing Cognitive Clarity decreases Logical Flow from 0.91 to 0.89. [→ Xinchen Ma 2026](#xinchen-ma-2026)

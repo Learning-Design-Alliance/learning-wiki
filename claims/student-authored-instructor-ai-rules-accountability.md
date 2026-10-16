@@ -30,7 +30,7 @@ sources:
 # A scaffolded participatory exercise in which students wrote rules governing the instructor's own AI use produced an accountability framework the instructor found more usable than institutional guidance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q1`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Handing students the task of articulating the rules under which AI is used, even a scaffolded task, produced a concrete accountability framework, and submitting to student-endorsed rules changed how AI was discussed in the room. [→ Yusuf Pisan 2026](#yusuf-pisan-2026)

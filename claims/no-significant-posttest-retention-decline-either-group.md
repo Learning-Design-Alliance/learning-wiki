@@ -42,6 +42,9 @@ Paired samples t-tests comparing post-test and retention-test means in both grou
 ## Discussion
 
 
+## Learner Variables
+- [Epistemic Beliefs](../learner-variables/epistemic-beliefs.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) — related
 - [In one nonequivalent-groups study of pre-school prospective teachers, the group taught with formative assessment embedded in explicit-reflective instruction scored higher on post-test NOS and SK than the group taught with explicit-reflective instruction alone](formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks.md) — related

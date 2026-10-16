@@ -25,7 +25,7 @@ sources:
 # Framework of five essential supports and contextual resources for school improvement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 42 claims (28 for, 14 mixed) · 31 studies (17 associational, 6 qualitative, 4 review, 3 design, 1 causal), `q1`–`q3` · 2 of 31 report an effect size · 42 claims rest on one study
+> **Evidence** · 48 claims (33 for, 15 mixed) · 35 studies (21 associational, 6 qualitative, 4 review, 3 design, 1 causal), `q1`–`q3` · 2 of 35 report an effect size · 47 claims rest on one study
 
 ## Description
 The CCSR framework holds that five in-school supports are all essential for improving student learning: leadership acting as a catalyst, parent-community ties, professional capacity, student-centered learning climate, and ambitious instruction. Leadership is inclusive, instruction-focused, and strategic, and it stimulates the other four supports; instruction is "the single most direct factor that affects student learning," but providing it depends on strength in the other supports. The supports are anchored in contextual resources: relational trust, structural factors such as school size and student stability, and local community social capital. The framework was developed with Chicago educators in the mid-1990s and used to guide CPS school-improvement planning and self-assessment.
@@ -105,6 +105,12 @@ The CCSR framework holds that five in-school supports are all essential for impr
 - [Freshman OnTrack rates improved by as much as 3.25 percentage points more in high schools with strong 5Essentials Survey measures](../claims/freshman-ontrack-strong-5essentials-measures.md) [+W]
 - [Fewer than 10 percent of elementary schools with a sustained weakness in one essential support showed improvements in student outcomes (attributed to Bryk et al., 2010)](../claims/sustained-weakness-one-support-few-improve.md) [+W]
 - [Teachers reporting higher leadership effectiveness and supports have lower predicted turnover (9.0% vs. 18.7% for low-leadership teachers)](../claims/school-leadership-associated-with-lower-turnover.md) [+W]
+
+## The evidence by question
+- *Are schools strong on several of the five essential supports more likely to improve student learning than schools weak on them?* [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+M]
+- *Does principal leadership raise student outcomes, and by what route?* [Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers](../claims/instructional-leadership-linked-student-outcomes.md) [+M]
+- *Is a school's learning climate associated with achievement and attendance beyond the students it serves?* [A more positive school climate is related to improved academic achievement beyond socioeconomic status](../claims/positive-school-climate-linked-achievement.md) [+M]
+- *Do community context and relational trust condition whether a school builds the supports and improves?* [Schools with strong essential supports were more likely to sit in communities with strong social capital, low crime, and low density of abused or neglected children](../claims/strong-supports-linked-community-social-capital-low-crime.md) [+M]
 
 ## Related Theories
 

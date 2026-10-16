@@ -39,6 +39,7 @@ Authors' interpretation in the Discussion. They also note the random-effects mod
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - Fail-safe N analyses indicate publication bias does not threaten the validity of the meta-analysis findings — related

@@ -41,11 +41,12 @@ Authors' interpretation of the full pre/post dataset (Confidence and Knowledge s
 
 ## Discussion
 
-
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Generation Effect Improves Retention](generation-effect-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Generation tasks show no significant overall treatment effect on L2 vocabulary Knowledge scores compared with baseline non-generative tasks](generation-no-overall-knowledge-effect-l2-vocabulary.md) — a narrower finding that bears on this claim
 - [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](desirable-difficulty-enhances-long-term-retention.md) — a broader claim this one bears on
 - [Treatment-by-test-type interactions in Knowledge scores significantly favor the generation condition's improvement from pre-test to post-tests](generation-knowledge-interaction-advantage.md) — reports the opposite

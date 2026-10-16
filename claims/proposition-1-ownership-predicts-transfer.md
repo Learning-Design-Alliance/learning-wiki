@@ -41,8 +41,9 @@ This is a theoretical proposition from a conceptual article, not an empirical re
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI severs the correlation between artefact quality and cognitive engagement, breaking the artefact-as-proxy for learning](ai-breaks-artefact-as-proxy.md) — the general claim this finding bears on, with the studies behind it
 - [Agentivism generates six empirically testable propositions linking delegation structure, verification, reconstruction, and reduced-support transfer to learning outcomes](agentivism-six-testable-propositions.md) — a broader claim this one bears on
 - [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) — a broader claim this one bears on
 - [The decisive empirical test of AI-augmented instruction frameworks is whether students retain representational competence when AI support is withdrawn](withdrawal-condition-ai-instruction-frameworks.md) — related

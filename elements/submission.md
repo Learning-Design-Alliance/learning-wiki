@@ -13,7 +13,7 @@ generated:
 # Submission
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (3 for, 4 mixed, 1 against) · 11 studies (3 review, 3 theoretical, 2 causal, 2 associational, 1 qualitative), `q1`–`q3` · 0 of 11 report an effect size · 5 claims rest on one study
+> **Evidence** · 10 claims (4 for, 5 mixed, 1 against) · 13 studies (4 review, 3 theoretical, 2 causal, 2 associational, 1 qualitative, 1 design), `q1`–`q3` · 0 of 13 report an effect size · 7 claims rest on one study
 
 ## Description
 Submission is the act of learners delivering completed or in-progress work for evaluation, feedback, or peer review. It functions as a structured checkpoint that makes learning visible to instructors and to learners themselves, converting private effort into an assessable artifact.
@@ -59,6 +59,11 @@ Submission creates the accountability structure that makes practice productive: 
 - [A negative behavioral path through frequent resubmissions counteracted the affective benefit of layered feedback](../claims/negative-behavioral-path-submissions-mediation.md) [~W]
 - [Perceived risk negatively predicts use behavior and operates as a stage-sensitive deterrent, activated at submission and evaluation rather than initial exploration](../claims/perceived-risk-stage-sensitive-deterrent.md) [~W]
 - [The article claims LLM-assisted workflows weaken the validity of output-based evaluation in hiring, education, and certification](../claims/output-based-evaluation-misaligned-llm-assistance.md) [-W]
+
+## The evidence by question
+
+- *Does independent practice outside class (homework) raise achievement, and what makes it work?* [Timely feedback on homework increases learning, and computer platforms providing immediate feedback help teachers adapt](../claims/timely-feedback-improves-homework-learning.md) [+M]
+- *Does requiring learners to revise and resubmit after feedback improve the work, and when do repeated resubmissions stop helping?* [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve](../claims/probing-feedback-revise-resubmit-evidence.md) [~W]
 
 ## Related Elements
 - [Assessment](assessment.md) — the evaluative frame that gives submission its criteria and stakes

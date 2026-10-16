@@ -42,6 +42,9 @@ Observational analysis of 5.4 million U.S. students in Grades 3–8; the study r
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [The CPS test score gap between African-American students and other ethnic groups widened over the decade because Asian, white, and Latino scores improved at faster rates](cps-african-american-test-score-gap-widened-1990s.md) — related
 - [Growth for all race/ethnicity groups lagged pre-pandemic trends in 2023-24, with marginalized students furthest from recovery](marginalized-students-furthest-from-recovery-2023-24.md) — related

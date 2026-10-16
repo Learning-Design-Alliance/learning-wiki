@@ -30,7 +30,7 @@ sources:
 # Teachers used Forms for professional purposes: parent communication, professional learning, efficiency, and administrative tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Scottish and U.S. teachers used Forms for parent questionnaires and pre-conference surveys, reporting more productive meetings. [→ Digital Promise 2018](#digital-promise-2018)

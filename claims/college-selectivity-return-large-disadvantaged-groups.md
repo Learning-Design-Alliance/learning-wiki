@@ -42,6 +42,9 @@ Subgroup analysis within the same administrative-earnings study. The page states
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Estimates of the return to college selectivity fall substantially, often to near zero, when earnings are tracked from 1983 through 2007 and for a 1989 entering cohort](college-selectivity-earnings-return-near-zero-long-horizon.md) — related

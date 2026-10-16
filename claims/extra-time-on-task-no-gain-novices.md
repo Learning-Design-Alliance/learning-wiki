@@ -41,10 +41,11 @@ Time-on-task sub-condition within the LLM arm: OLS models comparing the two novi
 
 ## Discussion
 
-
 ## Learner Variables
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Thoughtfully designed expanded learning time and opportunities are associated with positive academic and nonacademic outcomes, with the best-designed studies showing the strongest effects](expanded-learning-time-positive-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [In one randomized working-paper experiment, conceptual-map scaffolding gave LLM-using novices marginally higher scores (p < .10) and lower score variance, with a marginal benefit concentrated among low-AIC novices](conceptual-map-scaffolding-reduces-novice-variance.md) — related
 - [AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains](aic-moderates-llm-learning-gains.md) — related

@@ -41,7 +41,8 @@ Principal survey finding: maintaining engagement amid limited student-teacher in
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — the general claim this finding bears on, with the studies behind it
 - [The National Study of Online Charter Schools provides the first nationwide data and analysis of online charter schools' operations and instructional approaches, based on a survey of 127 principals](first-nationwide-online-charter-operations-survey-127-principals.md) — a broader claim this one bears on
 - [Online charter school students receive less live teacher contact time in a week than conventional-school students receive in a day](online-charters-low-live-teacher-contact-time.md) — related

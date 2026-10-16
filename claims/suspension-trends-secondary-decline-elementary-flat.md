@@ -61,6 +61,10 @@ District trend analysis identifying the largest increases in secondary out-of-sc
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Secondary students lose instruction due to out-of-school suspensions at more than five times the rate of elementary students (37 vs. 7 days per 100 enrolled)](secondary-suspension-lost-instruction-five-times-elementary.md) — related
 - [Black students are suspended at the highest rate of any racial group, at 12% in 2017–18, with persistent disparities across all years analyzed](black-students-highest-suspension-rate-persistent.md) — related

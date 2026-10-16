@@ -40,6 +40,9 @@ Spearman rank-order correlations between preference (five-point scale from Text 
 ## Discussion
 
 
+## Learner Variables
+- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Unedited voice prompts have lower odds of first-attempt success than text prompts on two of three Prompt Problems](unedited-voice-lower-first-attempt-success.md) — related
 - [Students perceived text input as superior for accuracy, control, and editability, with transcription errors a key voice drawback](text-perceived-accuracy-control-editability.md) — related

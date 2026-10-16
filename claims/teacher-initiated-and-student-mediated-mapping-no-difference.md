@@ -42,8 +42,11 @@ Posttest t-test in the same randomized experiment comparing the teacher-initiate
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](learner-constructed-graphic-organizers-outperform-provided.md) — the general claim this finding bears on, with the studies behind it
+
+- [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Findings on teacher mediation patterns differ from the Gahagans' conclusion of no difference in teacher verbal mediation](findings-differ-from-gahagans-no-difference.md) — related
 - [Teacher-student interactive semantic mapping produced higher EFL reading comprehension posttest scores than teacher-initiated and student-mediated semantic mapping](interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated.md) — related
 - Posttest reading comprehension differed significantly across the three semantic mapping conditions overall — related

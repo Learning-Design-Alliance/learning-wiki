@@ -41,8 +41,9 @@ Experiment with 40 high school students (ages 13–14, immunology content) compa
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Instructionally supported (prompted) journal writing outperforms unsupported journal writing on learning outcomes (Hedges's g = 0.78)](prompted-journal-writing-medium-large-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
 - [Strategy prompts strongly increase learners' use of the prompted strategies, and the effect on comprehension is mediated by strategy use](strategy-prompts-increase-strategy-use-mediated-outcomes.md) — related
 - [A general chemistry utility-value and growth mindset intervention showed statistically significant positive outcomes overall but statistically nonsignificant outcomes for underrepresented students](usf-chemistry-mindset-utility-value-mixed-subgroup-effects.md) — related

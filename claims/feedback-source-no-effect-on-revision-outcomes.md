@@ -60,8 +60,9 @@ In the same ANCOVA, initial essay quality was a significant covariate, F(1, 64) 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — the general claim this finding bears on, with the studies behind it
 - [Students' argumentative essay quality improves substantially from initial to revised drafts regardless of feedback source](essay-quality-improves-from-initial-to-revised.md) — related
 - [In one study, feedback quality significantly predicts revised essay quality under teacher feedback but not under either GenAI feedback condition, though the conditions are not compared directly](feedback-quality-predicts-revision-only-in-teacher-condition.md) — related
 - [GenAI feedback quality correlates with initial essay quality while teacher feedback quality does not](genai-feedback-quality-tracks-initial-essay-quality.md) — related

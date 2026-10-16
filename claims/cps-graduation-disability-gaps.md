@@ -41,11 +41,12 @@ Descriptive table (Table 1) of the 2017–18 CPS ninth-grade cohort by disabilit
 
 ## Discussion
 
-
 ## Learner Variables
 - [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
 - [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](disability-largest-postsecondary-outcome-gap.md) — the general claim this finding bears on, with the studies behind it
 - [CPS students with an IEP related to a learning disability graduated at a rate approaching the district average, while students with an IEP related to another disability graduated at 54.7%](cps-graduation-disability-status.md) — possibly the same claim (merge candidate)
 - [At each level of freshman course performance, students with disabilities and students two or more years below grade level are less likely to graduate than their non-disabled peers](on-track-disabled-students-still-at-risk.md) — related

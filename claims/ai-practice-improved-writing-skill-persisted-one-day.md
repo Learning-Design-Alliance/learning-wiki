@@ -30,7 +30,7 @@ sources:
 # Practicing cover letter writing with an AI tool improved unassisted writing skill more than practicing without AI or not practicing, with benefits persisting one day later
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r3` · `q4` · `i1`–`i2`
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q4` · `i1`–`i2`
 
 ## Subclaims
 `q4 i1` Participants who practiced with the AI tool wrote better cover letters on a no-AI test than those who practiced without AI (d=.38) or did not practice (d=.47). [→ Benjamin Lira 2025](#benjamin-lira-2025)
@@ -61,6 +61,8 @@ One-day follow-up with 87% retention; attrition did not differ by condition (χ�
 ## Discussion
 
 ## Related Claims
+
+- [Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](gpt4-access-harms-learning-after-withdrawal.md) — the general claim this finding bears on, with the studies behind it
 
 - [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Practicing with AI improved unassisted writing skill more than practicing with Google Search for cover letter examples and tips](ai-practice-beat-editor-feedback-and-google-search.md) — related

@@ -41,11 +41,12 @@ ARM single-antecedent rule from the 530-student survey: the OLRQ technical compe
 
 ## Discussion
 
-
 ## Learner Variables
 - [Digital Literacy](../learner-variables/digital-literacy.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](digital-literacy-gaps-span-demographics.md) — the general claim this finding bears on, with the studies behind it
 - [Demographic characteristics (gender, age, race, major) showed no significant association with lower digital distraction in the rule-mining profiles](demographics-not-associated-lower-distraction.md) — related
 - [In association-rule mining of survey data from 530 college students in online courses, goal setting, environment structuring and time management were the strategies most often associated with lower digital distraction](srl-strategies-associated-lower-digital-distraction.md) — related
 - [Learner-instructor and learner-content engagement strategies are negatively associated with digital distraction in online courses](instructor-content-engagement-associated-lower-distraction.md) — related

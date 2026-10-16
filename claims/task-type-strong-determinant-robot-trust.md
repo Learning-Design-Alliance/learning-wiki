@@ -30,7 +30,7 @@ sources:
 # Task type strongly determines trust in educational robots, with highest trust for procedural instruction, moderate trust for teaching, and lowest trust when robots request personal information
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In a repeated-measures ANOVA, TASK had a significant large main effect on trust ratings (η² = .439). [→ Anna-Maria Velentza 2026](#anna-maria-velentza-2026)

@@ -60,8 +60,9 @@ Figure 2 comparison of 27 interventions using one-on-one or small-group instruct
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Small group instruction is associated with significantly larger effect sizes than CAI and incentive components in targeted secondary interventions](small-group-instruction-outperforms-cai-incentives.md) — the general claim this finding bears on, with the studies behind it
 - [Common strategies across reviewed Tier 2 interventions include structured curriculum, small group instruction, and progress-monitoring assessment tools](common-strategies-structured-curriculum-small-group-progress-monitoring.md) — related
 - [Language and early writing interventions showed larger effects on researcher-developed than standardized outcome measures, while phonological awareness, print knowledge, and decoding effects were comparable across measure types](researcher-developed-measures-larger-language-effects.md) — related
 - [Instruction in language, phonological awareness, and decoding improved performance in the taught domain, while interventions teaching print knowledge or early writing exclusively did not](taught-domain-instruction-improves-taught-domain.md) — related

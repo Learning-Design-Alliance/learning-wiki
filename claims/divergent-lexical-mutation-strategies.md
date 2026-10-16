@@ -30,7 +30,7 @@ sources:
 # The general and coder models deploy distinct lexical strategies when raising cognitive demand, and neither deploys simplification vocabulary downward
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Under the Harder setting the general model forms nine distinct clusters using varied structural terms, while the coder model concentrates mutations into three tight clusters focused on input rules and error handling. [→ Yi Zhang & Julia Rayz 2026](#yi-zhang-julia-rayz-2026)

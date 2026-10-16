@@ -41,8 +41,9 @@ Meta-analytic moderator analysis of program characteristics across the 24 includ
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The evidence base for school mindfulness interventions is promising but too variable for definitive practice recommendations](mbi-evidence-base-variability-limitation.md) — the general claim this finding bears on, with the studies behind it
 - [Mindfulness interventions delivered during late adolescence (15–18) show the largest effects on youth mental health and well-being outcomes](mindfulness-late-adolescence-largest-effects.md) — related
 - [School-based mindfulness interventions produce small-to-moderate significant pre-post improvements in youth mental health and well-being compared to control groups](school-mindfulness-small-moderate-effect-youth-mental-health.md) — a broader claim this one bears on
 - [Individual differences and program characteristics impact receptivity and effectiveness of school-based mindfulness training](individual-differences-program-characteristics-shape-mindfulness-effectiveness.md) — related

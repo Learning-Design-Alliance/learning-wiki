@@ -41,11 +41,12 @@ The report attributes to cited research (Fan et al., 2024; Gerlich, 2025; Kosmyn
 
 ## Discussion
 
-
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](genai-overreliance-harms-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
 - Generative AI can help people finish tasks more quickly but does not accelerate learning itself — a broader claim this one bears on
 - [Students made minimal reference to higher-level cognitive or metacognitive processing benefits of group work, departing from prior PBL research](minimal-reference-higher-level-processing-benefits.md) — related
 - [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — related

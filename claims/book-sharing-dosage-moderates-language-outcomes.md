@@ -41,11 +41,12 @@ Pre-specified subgroup meta-regression on expressive and receptive language outc
 
 ## Discussion
 
-
 ## Learner Variables
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Thoughtfully designed expanded learning time and opportunities are associated with positive academic and nonacademic outcomes, with the best-designed studies showing the strongest effects](expanded-learning-time-positive-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md) — related
 - [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — related
 - [Child age, caregiver education and country income level do not moderate book-sharing intervention effects on child language](book-sharing-effects-invariant-age-education-income.md) — related

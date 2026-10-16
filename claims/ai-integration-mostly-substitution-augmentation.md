@@ -39,6 +39,18 @@ Systematic review of 22 studies of AI in undergraduate higher education, coded w
 
 > "When scrutinized through the SAMR model lens, most artificial intelligence applications were categorized within the Substitution and Augmentation tiers. For instance, generative AI was predominantly employed as a replacement for traditional writing tools or an enhancement to pre-existing feedback mechanisms."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Where on the substitution-to-redefinition range does educational technology use actually sit?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **3 distinct studies** (2 review, 1 qualitative), `q1`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [AlSheikh MH 2026](https://doi.org/10.3389/feduc.2026.1871468) | q3 · review · r2 | i? | this claim |
+| [Ogunsakin IB 2026](https://doi.org/10.3389/feduc.2026.1943906) | q2 · review · r2 | i? | [Most ITS applications augment existing mathematics teaching practices rather than transfor](its-applications-augment-not-transform.md) (supports) |
+| [Albardía MS 2025](https://doi.org/10.3389/fhumd.2025.1608911) | q1 · qualitative · r2 | i? | [Experts report that critical media literacy remains insufficiently integrated into curricu](experts-superficial-technology-integration.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

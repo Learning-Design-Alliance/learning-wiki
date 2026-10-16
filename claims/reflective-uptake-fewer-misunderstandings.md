@@ -56,8 +56,9 @@ Reflection quality and monitoring-strategy coding by group. "Diagnostic Review r
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — the general claim this finding bears on, with the studies behind it
 - [The Diagnostic Review class scored higher on diagnostic accuracy, actionability, comprehension, revision quality, and self-assessment accuracy across all three cycles](diagnostic-review-higher-process-indicators.md) — related
 - [The Diagnostic Review class gained more writing points across three cycles than the Control class (Hedges' g = 1.12)](diagnostic-review-larger-writing-gains.md) — related
 - [Diagnostic Review revisions contained larger shares of meaning-change, organization, and content/argument work, while Control revisions remained more dependent on surface-level editing](revision-architecture-meaning-change-versus-surface.md) — related

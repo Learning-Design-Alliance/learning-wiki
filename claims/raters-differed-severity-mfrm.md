@@ -42,11 +42,16 @@ MFRM analysis (FACETS) of the crossed-design rating data; Table 2 reports a rate
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do markers scoring the same responses agree, and do written criteria bring their judgements closer?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (2 causal, 1 associational, 1 design), `q2`–`q3`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do markers scoring the same responses agree, and do written criteria bring their judgements closer?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **9 distinct studies** (3 associational, 3 causal, 3 design), `q2`–`q3`, 0 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Ilhan 2018](https://doi.org/10.14689/ejer.2018.75.6) | q3 · associational · r2 | i? | this claim |
+| [Pedro C. Mendonça 2026](https://doi.org/10.1016/j.caeai.2026.100663) | q3 · causal · r2 | i? | [Human inter-rater reliability with a single rubric exceeded the ±5-point equivalence margi](human-inter-rater-disagreement-exceeds-margin.md) (supports) |
+| [Curi 2026](https://doi.org/10.48550/arxiv.2609.05143) | q2 · design · r2 | i? | [Human inter-rater agreement on the writing rubric is imperfect: no rubric item reaches ful](human-inter-rater-agreement-imperfect-upper-bound.md) (supports) |
+| [Tongxi Liu 2026](https://doi.org/10.1016/j.caeai.2026.100565) | q2 · associational · r1 | i? | [Expert human raters established an inter-rater reliability benchmark above ICC 0.89 on all](human-inter-rater-benchmark-icc-above-089-essays.md) (qualifies) |
+| [Iwatani 2021](https://doi.org/10.51388/20.500.12265/112) | q2 · design · r2 | i? | [Trained scorers applied the historical thinking skills rubrics with good overall inter-rat](hts-rubrics-good-inter-rater-consistency.md) (qualifies) |
+| [Kulkarni 2015](https://doi.org/10.1007/978-3-319-06823-7_9) | q2 · associational · r? | i? | [Rubrics with parallel sentence structure, unambiguous wording and well-specified dimension](rubric-wording-lower-grading-variance.md) (qualifies) |
 | [Morzinski 2010](https://doi.org/10.48550/arxiv.1009.3296) | q2 · design · r2 | i? | [In one community-college lab class, six scorers rating six teams with an engineering rubri](engineering-rubric-low-scoring-reliability.md) (supports) |
 | [Li et al. 2022](https://doi.org/10.1145/3543321.3543344) | q2 · causal · r1 | i? | [In two online comparisons, a rubric changed what peer reviewers commented on (one study) a](rubrics-improve-peer-feedback-quality.md) (qualifies) |
 | [Ashton And Davies 2015](https://doi.org/10.1080/01587919.2015.1081733) | q2 · causal · r? | i? | [In two online comparisons, a rubric changed what peer reviewers commented on (one study) a](rubrics-improve-peer-feedback-quality.md) (qualifies) |

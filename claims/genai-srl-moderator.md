@@ -41,8 +41,9 @@ Moderator analysis (Table 5) comparing high-SRL (N = 31) and low-SRL (N = 25) su
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](genai-overreliance-harms-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Educational level does not significantly moderate Gen-AI's effect on HOT, though K-12 subgroups show a larger effect (ES = 0.857) than post-secondary (ES = 0.539)](genai-education-level-moderator.md) — related
 - [Gen-AI's effect on HOT is strongest for problem-solving ability (g = 0.745), followed by critical thinking (g = 0.691), with a smaller effect on creativity (g = 0.444)](genai-hot-dimension-effect-sizes.md) — related
 - [Gen-AI has a moderate positive overall effect on students' higher-order thinking (g = 0.609) across 29 experimental and quasi-experimental studies](genai-moderate-positive-effect-hot.md) — related

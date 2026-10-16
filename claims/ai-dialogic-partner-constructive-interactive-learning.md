@@ -60,8 +60,9 @@ Authors' interpretation in the interactive-use section: dialogue-partner uses of
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Scaffolded assistant support marks richer constructive participation at the conversation level across all six task settings](scaffolded-support-constructive-participation.md) — the general claim this finding bears on, with the studies behind it
 - Teachers find ChatGPT a creative, fast, iterative brainstorming partner that adds specific numbers and details when posing math questions from photos — a narrower finding that bears on this claim
 - [AI-assisted ideation was conditionally acceptable when researchers retained decision-making authority, but problematic when it displaced conceptual labour](conditional-ideation-dialogic-aid-vs-outsourcing.md) — related
 - Mathematics teachers appreciate ChatGPT-generated generative learning activities as hands-on, collaborative, engaging, open-ended, differentiated, and using multiple representations — a narrower finding that bears on this claim

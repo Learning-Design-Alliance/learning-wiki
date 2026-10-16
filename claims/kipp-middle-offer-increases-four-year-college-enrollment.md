@@ -30,7 +30,7 @@ sources:
 # Receiving an offer of admission to a KIPP middle school increases enrollment in 4-year college programs by 6.9 percentage points
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r?` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r?` · `q3`
 
 ## Subclaims
 `q3 i?` A middle school admission offer raises 4-year college enrollment rates, with the estimated impact of 6.9%, using admission lotteries as a random assignment instrument. [→ Ira Nichols-Barrer 2022](#ira-nichols-barrer-2022)

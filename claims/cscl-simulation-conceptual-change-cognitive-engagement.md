@@ -44,6 +44,10 @@ Qualitative case-study analysis of conversational interactions of 7 dyads workin
 
 ## Related Claims
 
+- [Supplementing simulation-based inquiry with learner guidance has a modest effect on learning outcomes (d = 0.49) and inquiry skills (d = 0.41), independent of guidance type (review attribution to D'Angelo et al., 2014)](simulation-guidance-moderate-effect-dangelo.md) — the general claim this finding bears on, with the studies behind it
+
+- [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — the general claim this finding bears on, with the studies behind it
+
 - [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Peer conflicts did not always produce conceptual change; they appeared to work only for students prepared to reflect on and reconstruct their conceptions](peer-conflicts-conditional-on-reflection.md) — related
 - [Co-construction of shared understanding needed to be accompanied by students' personal construction and sense making for conceptual change to be stable over time](personal-construction-required-stable-conceptual-change.md) — related

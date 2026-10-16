@@ -44,6 +44,7 @@ Group comparison in the cluster-randomized controlled study (N = 195 ninth-grade
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
 
 ## Related Claims
 - [ADA produces directional but non-significant trends toward more positive-activating and less negative-deactivating emotions versus conventional materials](ada-emotions-directional-non-significant.md) — related

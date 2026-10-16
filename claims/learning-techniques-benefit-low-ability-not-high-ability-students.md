@@ -43,9 +43,31 @@ Only 6 of the 242 studies examined high-ability students and 13 low-ability stud
 
 > "Across all techniques, the mean effect on High ability students was -0.11 (SE = 0.10, N = 28) for Low ability students was 0.47, SE = 0.15, N = 58."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do structured techniques and guidance help lower-ability learners more than higher-ability ones, narrowing the gap?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **10 distinct studies** (4 quant-synthesis, 4 causal, 2 review), `q2`–`q4`, 3 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Donoghue & Hattie 2021](https://doi.org/10.3389/feduc.2021.581216) | q3 · quant-synthesis · r? | i2 · medium effect for low-ability students, d = 0.47; d = -0.11 for high-ability | this claim |
+| [Kulik et al. 1990](https://doi.org/10.3102/00346543060002265) | q4 · quant-synthesis · r? | i2 · medium effect, ES = 0.61 SD low-aptitude vs 0.40 SD high-aptitude | [Mastery learning effects are larger for lower-aptitude students, narrowing the spread of a](mastery-learning-effects-larger-for-lower-aptitude-students.md) (supports) |
+| Fluency Formula™ WWC Intervention Report 2007 | q3 · causal · r? | i? | [Fluency effects of Fluency Formula™ differ by initial ability: positive for low-ability st](fluency-formula-fluency-effects-differ-by-initial-ability.md) (supports) |
+| [Luiten et al. 1980](https://doi.org/10.3102/00028312017002211) | q3 · quant-synthesis · r? | i1 · small effect, mean ES=0.21 on learning | [Advance organizers produce a small average learning benefit, larger for high-ability than ](advance-organizers-improve-learning.md) (counts against) |
+| [Stone 1983](https://doi.org/10.1080/00220973.1983.11011862) | q3 · quant-synthesis · r? | i? | [Advance organizers produce a small average learning benefit, larger for high-ability than ](advance-organizers-improve-learning.md) (counts against) |
+| [Mayer 1979](https://doi.org/10.3102/00346543049002371) | q2 · review · r? | i? | [Advance organizers produce a small average learning benefit, larger for high-ability than ](advance-organizers-improve-learning.md) (counts against) |
+| Eylon 1979 | q2 / q3 · causal · r2 | i? | [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no ](ability-moderates-hierarchical-organization-benefit.md) (counts against) |
+| [Freeman Scott 2011](https://doi.org/10.1187/cbe.10-08-0105) | q3 · causal · r2 | i? | [High course structure significantly reduces failure rates in introductory biology independ](high-structure-reduces-failure-intro-biology.md) (qualifies) |
+| [Kalyuga 2007](https://doi.org/10.1007/s10648-007-9054-3) | q2 · review · r? | i? | [Empirical patterns of the expertise reversal effect fit those found in Aptitude Treatment ](expertise-reversal-fits-ati-patterns.md) (qualifies) |
+| bramlett-subgroups | q2 · causal · r2 | i? | [In the Bramlett quasi-experiment, no comprehension subtest or ability-level subgroup showe](circ-qed-subgroups-null.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 This rests on 19 studies and is consistent with expertise-reversal accounts, where support that helps novices is redundant or harmful for more knowledgeable learners. It is a reason to adapt technique prompts to prior knowledge rather than a verdict on any one technique.
+
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 

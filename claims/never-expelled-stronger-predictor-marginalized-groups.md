@@ -42,6 +42,9 @@ Marginal effects analysis from logistic regression models for the high school be
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Predictive specificity was substantially higher for NSLP-eligible, English learner, disabled, and older-entry students, with the largest difference for middle school students with disabilities predicting college enrollment](predictive-specificity-higher-marginalized-groups.md) — related
 - [Students who began as English Learners graduated from high school at a slightly higher rate than never-classified EL students and enrolled in college at about the same rate, with more two-year enrollment](cps-english-learner-attainment-2020.md) — related

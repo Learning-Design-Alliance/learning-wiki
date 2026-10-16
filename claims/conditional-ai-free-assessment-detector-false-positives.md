@@ -30,7 +30,7 @@ sources:
 # Educators run more proctored AI-free assessments conditionally on compromised outcomes, and reject AI detectors based on classroom experience of false positives
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r2` · `q1`
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Participants apply a conditional rule: where a learning outcome is compromised by AI use, that outcome moves to a proctored AI-free assessment, weighted most heavily early in a course. [→ Muhammad Sajjad Akbar 2026](#muhammad-sajjad-akbar-2026)

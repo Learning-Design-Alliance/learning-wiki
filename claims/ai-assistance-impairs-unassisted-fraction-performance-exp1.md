@@ -30,7 +30,7 @@ sources:
 # In a randomized experiment on fraction problems, participants who used an AI assistant solved fewer unassisted test problems and skipped more than control participants
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i1`–`i2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1`–`i2`
 
 ## Subclaims
 `q3 i2` After AI removal, the AI condition had a lower unassisted solve rate than controls (Cohen's d = -0.42). [→ Grace Liu 2026](#grace-liu-2026)

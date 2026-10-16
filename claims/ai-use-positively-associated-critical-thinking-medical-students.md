@@ -39,8 +39,11 @@ Correlational survey of 480 undergraduate medical students with prior AI experie
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Higher reliance on AI tools is correlated with lower critical-thinking performance, mediated by cognitive offloading](ai-reliance-correlated-lower-critical-thinking-offloading.md) — the general claim this finding bears on, with the studies behind it
+
+- [Meta-reviews reach contradictory conclusions on whether AI reliance harms or helps critical thinking, with substantial design limitations limiting generalizability](contradictory-meta-reviews-ai-critical-thinking.md) — the general claim this finding bears on, with the studies behind it
 - [Cognitive load is negatively associated with critical thinking and with self-regulated learning](cognitive-load-negatively-associated-critical-thinking.md) — related
 - [Cognitive load partially mediates the relationship between AI-based educational technology use and critical thinking](cognitive-load-partially-mediates-ai-critical-thinking.md) — related
 - [Overreliance on AI is the most prevalent pedagogical limitation (27 studies, 50%), followed by reduced critical thinking (25 studies, 46%)](overreliance-reduced-critical-thinking-ai-efl.md) — related

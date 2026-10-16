@@ -14,7 +14,7 @@ generated:
 # Debrief
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (9 for, 3 mixed) · 17 studies (9 quant-synthesis, 4 causal, 1 review, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 7 of 17 report an effect size · 6 claims rest on one study
+> **Evidence** · 13 claims (10 for, 3 mixed) · 19 studies (9 quant-synthesis, 4 causal, 3 review, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 8 of 19 report an effect size · 7 claims rest on one study
 
 ## Description
 A debrief is a facilitated reflective conversation conducted after a learning experience — a simulation, role-play, case discussion, experiment, or complex task — in which learners reconstruct what happened, analyze why, and draw out transferable lessons. It converts raw experience into articulated understanding, functioning as the sense-making phase of experiential learning cycles.
@@ -106,6 +106,11 @@ Debriefing is where much of the learning from experience is actually consolidate
 
 ### When should the debrief happen?
 - **Not settled:** no wiki claim tests immediate against delayed debriefing. The feedback claims treat timing as a moderator, not a rule — feedback helps when the learner can still act on it — which argues for debriefing while the next attempt is still ahead, but that is a reading, not a finding — [Feedback improves learning](../claims/feedback-improves-learning.md) [~S].
+
+## The evidence by question
+- *Does a feedback and reflection step after a simulation or shared exercise add to what learners gain from the experience itself?* [The review reports that embedded analytics, timely feedback, and structured reflection strengthen conceptual consolidation and learning gains](../claims/analytics-feedback-reflection-strengthen-learning-gains.md) [+M]
+- *Do specific, guided prompts produce better reflection and learning than generic or free reflection?* [Reflective Practice Improves Outcomes When Structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+S]
+- *What should the facilitator's feedback in a debrief be about: the task, the process, or the person?* [Feedback Most Effective At Task And Process Levels](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 
 ## Related Elements
 - [Reflection](../elements/reflection.md) — the broader category; debrief is a facilitated, typically group-based, time-bounded form of it

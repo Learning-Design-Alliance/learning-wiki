@@ -126,6 +126,8 @@ Participants studied words printed in different font sizes for a free-recall tes
 
 ## Related Claims
 
+- [Students in active classrooms reported lower feeling of learning than students in passive lectures (0.56 SD lower, P < 0.001)](active-learning-lower-feeling-of-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — the general claim this finding bears on, with the studies behind it
 
 - [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it

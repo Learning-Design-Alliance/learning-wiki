@@ -42,6 +42,9 @@ Analysis of student self-reported grades from the California Healthy Kids Survey
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Predominantly Hispanic and schools serving large numbers of African American and Hispanic students have lower standardized test scores than predominantly White schools even after adjusting for socioeconomic factors](school-level-achievement-gap-beyond-ses.md) — related
 - [Achievement declines from 2019 to 2022 were smaller for Asian American and White first and second graders than for Hispanic, Black, and AIAN students](early-elementary-covid-losses-racial-ethnic-disparities.md) — related

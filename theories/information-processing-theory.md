@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 8 studies (3 causal, 2 quant-synthesis, 2 review, 1 design), `q1`–`q4` · 0 of 8 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (5 for, 2 mixed) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 design), `q1`–`q4` · 1 of 10 report an effect size · 5 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -69,6 +69,10 @@ Information processing models are often criticized as overly linear and serial, 
 - [Interleaving effects are stronger when material is more similar between categories, less similar within categories, and more complex](../claims/similarity-and-complexity-moderate-interleaving.md) [+W] — attached 2026-10-13 from Brunmair et al. (2019), which proposed "Attentional bias framework (sequential attention theory) of interleaved learning".
 - [Similarity-based retrieval degrades as the Knowledge Base grows, consistent with the fan effect, stalling the agent](../claims/fan-effect-kb-growth-retrieval-degradation.md) [~W]
 - [Evidence on working memory capacity as a moderator of the interleaving effect is mixed, but WM does not appear to be a major barrier to classroom use](../claims/working-memory-mixed-moderator-interleaving.md) [~W] — attached 2026-10-13 from Jonathan Firth et al. (2021), which proposed "Attentional accounts of the interleaving effect: attention attenuation and attentional bias".
+
+## The evidence by question
+- *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]
+- *Does removing avoidable processing from a presentation improve learning?* [Cognitive Overload Degrades Learning](../claims/cognitive-overload-degrades-learning.md) [+S]
 
 ## Related Theories
 

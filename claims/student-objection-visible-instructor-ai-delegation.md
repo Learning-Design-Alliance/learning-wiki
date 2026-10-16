@@ -30,7 +30,7 @@ sources:
 # Students objected to the instructor's visible AI delegation even though AI scores never counted toward grades, so decoupling the stakes did not decouple the resentment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q1`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Students resented the visible delegation of grading and materials creation to AI, and that the AI scores moved no one's marks did not soften the objection. [→ Yusuf Pisan 2026](#yusuf-pisan-2026)

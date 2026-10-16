@@ -41,7 +41,8 @@ Qualitative content analysis of chat logs coded by two researchers (Krippendorff
 
 ## Discussion
 
-
 ## Related Claims
+
+- [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](peerwise-student-questions-75-percent-high-quality.md) — the general claim this finding bears on, with the studies behind it
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — a broader claim this one bears on
 - Critical questions support competency-based science assessment by evaluating higher-order thinking, knowledge transfer and reasoning patterns beyond fact memorization — related

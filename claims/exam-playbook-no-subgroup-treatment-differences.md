@@ -42,6 +42,9 @@ Moderation analyses within the two randomized cohorts of the Strategic Resource 
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [The impact of FAST did not differ significantly by student subgroups or school characteristics in the RCT](fast-no-subgroup-differential-impact.md) — a broader claim this one bears on
 - [A strategic resource-use exam playbook intervention raised final course grades in introductory statistics across two randomized cohorts, with a dosage effect for completing it twice](exam-playbook-strategic-resource-use-raises-statistics-grades.md) — related

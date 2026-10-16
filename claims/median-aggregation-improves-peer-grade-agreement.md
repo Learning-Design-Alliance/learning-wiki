@@ -41,6 +41,7 @@ Appendix analysis comparing unaggregated peer grades with staff grades in the on
 
 ## Discussion
 
-
 ## Related Claims
+
+- [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — the general claim this finding bears on, with the studies behind it
 - [In a large online class, peer grades correlated highly with staff-assigned grades, with median agreement of 42.9% within 5% and 65.5% within 10% of staff grades in the second iteration](peer-grades-correlate-highly-with-staff-grades-mooc.md) — related

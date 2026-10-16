@@ -30,7 +30,7 @@ sources:
 # AI assistance impairs unassisted performance and persistence in reading comprehension, replicating the fraction-task effects in a second domain
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` In reading comprehension, the AI condition solved fewer unassisted test problems than controls (Cohen's d = -0.42). [→ Grace Liu 2026](#grace-liu-2026)

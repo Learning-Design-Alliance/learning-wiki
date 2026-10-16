@@ -42,6 +42,9 @@ Multivariate regression (N = 821): the authors report that "age, gender, class l
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [AI anxiety is positively and significantly correlated with job search anxiety among health sciences students](ai-anxiety-correlates-job-search-anxiety-health-students.md) — related
 - [AI anxiety predicts job search anxiety after controlling for socio-demographic variables](ai-anxiety-predicts-job-search-anxiety-beyond-demographics.md) — related

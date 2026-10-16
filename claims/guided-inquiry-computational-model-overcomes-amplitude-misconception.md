@@ -43,6 +43,10 @@ Classroom implementation across 8 mixed junior/senior, honors and non-honors cla
 
 ## Related Claims
 
+- [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](guidance-improves-inquiry-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it
+
+- [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — the general claim this finding bears on, with the studies behind it
+
 - [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related
 - Adding prediction and discussion to lecture demonstrations significantly improves students' ability to explain the outcomes compared with merely observing — related

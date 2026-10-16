@@ -18,7 +18,7 @@ sources:
 # Four principal performance measures based on student test scores evaluated in Pennsylvania
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 The report evaluates four principal performance measures based on student test scores: average achievement, adjusted average achievement, school value-added, and adjusted school value-added. The first two "do not account for students’ past achievement" while the latter two do. Each measure's rating stability and predictive accuracy for principals' future contributions to student achievement were assessed and simulated.

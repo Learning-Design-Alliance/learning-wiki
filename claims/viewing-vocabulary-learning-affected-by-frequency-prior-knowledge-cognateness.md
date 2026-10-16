@@ -41,12 +41,15 @@ Across the two experiments with Dutch-speaking EFL learners, the article states 
 
 ## Discussion
 
-
 ## Learner Variables
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
 - [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — the general claim this finding bears on, with the studies behind it
+
+- [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Before this study, no research had explored incidental vocabulary learning through viewing a single full-length TV program](no-prior-studies-single-full-length-tv-viewing-vocabulary.md) — related
 - [Viewing a single full-length L2 TV program results in incidental vocabulary learning at the level of meaning recall and meaning recognition](viewing-full-length-tv-incidental-vocabulary-learning.md) — related
 - [Marginal glosses, dictionary use, and repeated occurrence of unknown words each positively affect incidental vocabulary learning](marginal-glosses-dictionary-recurrence-improve-incidental-learning.md) — related

@@ -54,6 +54,9 @@ Moderator analysis using a three-way Trt × MGS × Moderator Bayesian model, wit
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Effects of active learning on achievement gaps vary widely across studies, with a minority of studies showing larger benefits for non-minoritized students](active-learning-gap-effects-vary-across-studies.md) — related
 - [Active learning narrows the passing-rate gap between minoritized-group and non-minoritized students in undergraduate STEM by 45% on average](active-learning-narrows-passing-rate-gap-45-percent.md) — related

@@ -41,11 +41,12 @@ After-task frustration self-report (1–5) from the within-subjects comparison (
 
 ## Discussion
 
-
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [In an immediate post-test design, participants with an unrestricted chatbot achieved significantly higher learning deltas than participants with a Socratic chatbot (d = 0.80) or an EEG-adaptive exercise system (d = 0.85)](unrestricted-chatbot-higher-learning-delta-than-socratic-and-adaptive.md) — the general claim this finding bears on, with the studies behind it
 - [A contingent tutor surrendered the full answer in one session in sixteen, against one in six for the question-only tutor](contingent-scaffolding-surrenders-full-answer-least.md) — related
 - [Contingent tutoring held delegation at the level of an answer-on-request assistant while delivering more artifacts, one decision at a time](contingent-tutor-delegation-held-delivery-rose.md) — related
 - [A contingent AI tutor places metacognitive demand equal to a question-only tutor and higher than an answer-on-request assistant](contingent-tutor-metacognitive-demand-matches-withholding-tutor.md) — related

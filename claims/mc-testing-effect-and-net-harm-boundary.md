@@ -60,8 +60,9 @@ Descriptive comparison in the no-study–no-feedback condition: intrusions (M = 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — the general claim this finding bears on, with the studies behind it
 - [Feedback neutralizes the effect of prior study on final cued recall performance](feedback-neutralizes-prior-study-effects.md) — related
 - [Feedback on a multiple-choice test sharply reduces lure intrusions on a later cued recall test, with immediate and delayed schedules equally effective](feedback-reduces-lure-intrusions.md) — related
 - [Taking initial multiple-choice tests without feedback can lead students to later produce the incorrect lure answers they selected, even when an overall retrieval practice benefit occurs](multiple-choice-lures-can-be-learned-as-false-knowledge.md) — related

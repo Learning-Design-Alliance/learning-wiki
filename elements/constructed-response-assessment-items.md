@@ -13,7 +13,7 @@ generated:
 # Constructed-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (4 for, 10 mixed, 2 against) · 13 studies (5 design, 3 associational, 2 causal, 1 review, 1 qualitative, 1 theoretical), `q1`–`q3` · 1 of 13 report an effect size · 16 claims rest on one study
+> **Evidence** · 19 claims (5 for, 12 mixed, 2 against) · 15 studies (5 design, 4 associational, 2 causal, 2 review, 1 qualitative, 1 theoretical), `q1`–`q3` · 2 of 15 report an effect size · 19 claims rest on one study
 
 ## Description
 Constructed-response items ask students to recall information and produce their own answer rather than recognize a provided one, which reduces guessing compared with [selected-response items](selected-response-assessment-items.md). Two major kinds are used: **completion/short-answer** items (answerable in a word, phrase, number, or symbol — the same underlying format whether phrased as a statement to complete or a question to answer) and **extended-response** items (answers ranging from a paragraph to several pages, often called essay questions when they run long).
@@ -63,6 +63,11 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - [The GED essay is scored holistically on a six-point scale by two independent readers](../claims/ged-essay-holistic-six-point-two-readers.md) [+W]
 - [Human inter-rater reliability with a single rubric exceeded the ±5-point equivalence margin used for rubric-source comparisons](../claims/human-inter-rater-disagreement-exceeds-margin.md) [+W]
 - [A page-by-page, rubric-guided multimodal LLM workflow graded an authentic handwritten exam in about three hours at roughly $100 in token costs, versus about $3,500 in TA time](../claims/ai-grading-workflow-feasibility-cost.md) [~W]
+
+## The evidence by question
+- *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]
+- *Do markers scoring the same responses agree, and do written criteria bring their judgements closer?* [Raters differed significantly in severity/leniency in the MFRM analysis](../claims/raters-differed-severity-mfrm.md) [+M]
+- *Can a language model score learners' written constructed responses as a trained human marker would, and on which tasks?* [LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks](../claims/llm-grading-mixed-against-human-raters.md) [~M]
 
 ## Related Elements
 

@@ -42,6 +42,9 @@ Across the survey, interviews, and assignment declarations in three teacher educ
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Non-users cite lack of training, distrust of responses, preference for teaching staff, academic-integrity fear and lack of interest as reasons for not using chatbots](non-user-reasons-training-trust-integrity.md) — related
 - [Layer 1 survey (N=54) found mostly daily or weekly but largely passive AI use, with persistent ethical anxiety described as cheating fears or hallucination worries](layer1-survey-passive-use-ethical-anxiety.md) — related

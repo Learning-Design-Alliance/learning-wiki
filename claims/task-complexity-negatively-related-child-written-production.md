@@ -41,8 +41,9 @@ One-way ANOVA on written post-test scores of the three intact-class groups (N=30
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — the general claim this finding bears on, with the studies behind it
 - [Child EFL learners receiving recasts in task-based lessons improve their production of third person singular -s from pretest to posttest, in a study with no no-recast comparison group](recasts-facilitate-child-efl-third-person-s-development.md) — related
 - [Task complexity shows no significant effect on child learners' oral production of the target form when receiving recasts](task-complexity-no-effect-child-oral-production.md) — related
 - Oral language development on a task follows at least three distinct patterns: fluency, complexity, or both — related

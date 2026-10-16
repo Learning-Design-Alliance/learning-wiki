@@ -13,7 +13,7 @@ generated:
 # Question Formulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 11 studies (3 review, 2 causal, 2 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 1 of 11 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 mixed) · 14 studies (4 review, 3 quant-synthesis, 2 causal, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 2 of 14 report an effect size · 4 claims rest on one study
 
 ## Description
 Question Formulation asks learners to generate, refine, and prioritize their own questions about a topic before or during inquiry, rather than responding only to instructor-posed questions. The questions learners produce become the driving agenda for research, discussion, or investigation, positioning them as owners of the inquiry process.
@@ -56,6 +56,10 @@ Generating questions forces learners to surface gaps in their own understanding,
 - [Teachers reported redesigning instruction toward learner question formulation, comparison, and inquiry when using AI](../claims/designing-for-learner-agency-dimension.md) [+W]
 - [Students rarely formulated questions specifying both knowledge component and scaffold type during chatbot problem-solving](../claims/students-rarely-ask-specific-questions.md) [~W]
 - [First-cycle underperformance was attributed to low-quality student-generated questions that failed to represent journal article patterns](../claims/question-quality-limited-first-cycle-outcomes.md) [~W]
+
+## The evidence by question
+- *Do annotations that make the reader generate questions, explanations or summaries improve comprehension?* [Self-questioning improves comprehension](../claims/self-questioning-improves-comprehension.md) [+S]
+- *Can learners write good questions of their own, and what support do they need to?* [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](../claims/peerwise-student-questions-75-percent-high-quality.md) [+M]
 
 ## Related Elements
 - [Socratic Questioning](socratic-questioning.md) — the instructor-led counterpart; Socratic sequences can model the question forms learners then generate themselves

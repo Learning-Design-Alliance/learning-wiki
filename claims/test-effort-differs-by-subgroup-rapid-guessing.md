@@ -42,8 +42,12 @@ The study compared rates of rapid guessing, a behavioral proxy for test effort, 
 
 ## Discussion
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](pisa-sex-differences-math-small-reading-three-times-larger.md) — the general claim this finding bears on, with the studies behind it
 - [Differential student test effort may bias achievement gap estimates](differential-test-effort-may-bias-gap-estimates.md) — a broader claim this one bears on
 - [Disengaged test-taking rates varied greatly by subgroup, grade, and term in this sample](disengagement-rates-vary-subgroup-grade-term.md) — related
 - [Basic conclusions about male-female achievement gaps and changes in gaps as students progress through school may change when models account for test effort](male-female-gap-conclusions-sensitive-to-test-effort.md) — related

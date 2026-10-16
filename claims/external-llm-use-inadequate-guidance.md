@@ -30,7 +30,7 @@ sources:
 # 15% of students used an external LLM, with the highest descriptive rate in the Socratic + Full Context condition, mainly citing inadequate guidance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Overall 15% of students (20 of 132) reported using another LLM or chatbot; rates differed descriptively but not significantly across conditions, with Socratic + Full Context highest at 23% (7 of 30). [→ Madeleine Eastwood 2026](#madeleine-eastwood-2026)
@@ -60,8 +60,9 @@ Inductive content analysis of open-ended survey responses from students who repo
 
 ## Discussion
 
-
 ## Related Claims
+
+- [In an immediate post-test design, participants with an unrestricted chatbot achieved significantly higher learning deltas than participants with a Socratic chatbot (d = 0.80) or an EEG-adaptive exercise system (d = 0.85)](unrestricted-chatbot-higher-learning-delta-than-socratic-and-adaptive.md) — the general claim this finding bears on, with the studies behind it
 - [Socratic + No Context produces the highest query volume and Direct + No Context the longest messages](ai-ta-query-volume-and-message-length.md) — related
 - [Direct conditions descriptively show higher post-task full comprehension than Socratic conditions, with Direct + Full Context highest and Socratic + Full Context lowest](direct-conditions-higher-full-comprehension.md) — related
 - [Students rate the Socratic + Full Context AI TA significantly lowest for perceived support of task completion](socratic-full-context-ai-ta-lowest-task-completion-rating.md) — related

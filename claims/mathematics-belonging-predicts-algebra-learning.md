@@ -60,11 +60,12 @@ The same follow-up study found "non-Asian racial and ethnic minority students re
 
 ## Discussion
 
-
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Belongingness is among the factors that most strongly and reliably affect learners' academic motivation and achievement](belongingness-strongly-affects-motivation-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — a broader claim this one bears on
 - [A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — a broader claim this one bears on

@@ -41,8 +41,9 @@ Sensitivity check addressing student attrition: the restricted subsample had sli
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Systematic attrition differences mean COVID-19 impacts on student achievement are likely underestimated in fall 2020 MAP Growth results](covid-achievement-impacts-likely-underestimated-attrition.md) — the general claim this finding bears on, with the studies behind it
 - [The math discrepancy between NWEA and ERS recovery estimates is largely driven by differences in their samples of districts](math-discrepancy-driven-by-sample-differences.md) — related
 - [Supplemental analyses of I CAN Learn® in alternate second-year samples showed no effects that survived multiple-comparison adjustment](ican-learn-supplemental-alternate-samples-null.md) — related
 - [Pooled effect sizes for deployment on mental health are robust across components of methodological quality in sensitivity analyses](deployment-meta-analysis-robust-sensitivity.md) — a broader claim this one bears on

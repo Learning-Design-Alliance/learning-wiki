@@ -30,7 +30,7 @@ sources:
 # High school GPA predicts four-year college graduation more strongly than achievement test scores among Chicago graduates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 review `r2`, 1 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A one standard deviation increase in unweighted high school GPA, controlling for test scores and advanced coursework, was associated with a 15 percentage point increase in four-year college graduation, versus 7 percentage points for test scores. [→ Melissa Roderick 2009](#melissa-roderick-2009)

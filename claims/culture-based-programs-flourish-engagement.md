@@ -41,6 +41,9 @@ The report's narrative review, citing McCarty (2002) and Reyhner & Hurtado (2008
 
 ## Discussion
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [The paper reports that culturally responsive pedagogies are associated with more student engagement, agency, and responsibility for seeking information](crse-pedagogies-engagement-agency-claim.md) — the general claim this finding bears on, with the studies behind it

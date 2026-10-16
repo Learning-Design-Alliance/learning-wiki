@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (5 for, 4 mixed) · 8 studies (2 review, 2 associational, 1 causal, 1 quant-synthesis, 1 design, 1 theoretical), `q2`–`q3` · 1 of 8 report an effect size · 9 claims rest on one study
+> **Evidence** · 10 claims (6 for, 4 mixed) · 11 studies (3 review, 3 theoretical, 2 associational, 1 causal, 1 quant-synthesis, 1 design), `q2`–`q3` · 1 of 11 report an effect size · 9 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -45,6 +45,9 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Reported benefits of AI integration were efficiency, personalization, and engagement, while challenges were equity, ethics, and academic integrity](../claims/ai-integration-benefits-and-challenges.md) [~W]
 - [ChatGPT was the most widely adopted AI platform in undergraduate higher education studies, with applications clustering around assessment automation and personalized learning support](../claims/chatgpt-dominant-platform-assessment-personalization.md) [+W]
 - [Technology effects on TEFL outcomes trend upward across educational levels (primary g = 0.29, secondary g = 0.35, tertiary g = 0.44), though between-level differences are not statistically significant](../claims/tefl-tech-effects-increase-by-educational-level.md) [~W]
+
+## The evidence by question
+- *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]
 
 ## Related Elements
 

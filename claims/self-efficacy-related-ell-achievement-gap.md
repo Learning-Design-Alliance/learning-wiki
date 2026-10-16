@@ -42,6 +42,9 @@ A November 2019 NWEA webinar presentation by James Soland addresses this topic; 
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Non-ELLs outscore ELLs in math, reading, and self-efficacy at every timepoint, with a 2015 self-efficacy gap exceeding .35 standard deviations](ell-non-ell-gaps-math-reading-self-efficacy.md) — related
 - [Self-efficacy is related to the persistence of achievement gaps for English Language Learners](self-efficacy-related-to-persistence-of-ell-achievement-gaps.md) — possibly the same claim (merge candidate)

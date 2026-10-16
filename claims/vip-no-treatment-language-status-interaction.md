@@ -41,10 +41,12 @@ The report states, based on correspondence with the study authors, that the Carl
 
 ## Discussion
 
-
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — moderator: an instructional effect differs with it
+- [English-Learner Status](../learner-variables/english-learner-status.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Spoken–written advantages are larger for second-language and nonfluent first-language readers and for low prior knowledge learners](reader-fluency-prior-knowledge-moderate-redundancy.md) — the general claim this finding bears on, with the studies behind it
 - Native versus non-native instructor status was a minor factor in students' perceived quality interaction — related
 - [Word frequency does not modulate the transposed-character effect in either experiment](frequency-does-not-modulate-tc-effect.md) — related

@@ -41,8 +41,9 @@ ANCOVA in the randomized experiment (n=91) controlling for prior knowledge. LLM 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Students using Google produce higher-quality justifications in their final recommendations than students using ChatGPT 3.5](web-search-higher-quality-justifications-than-llm.md) — the general claim this finding bears on, with the studies behind it
 - [Recommendation homogeneity does not differ between students using ChatGPT 3.5 and students using Google](llm-recommendation-homogeneity-no-difference.md) — related
 - [Students using ChatGPT 3.5 experience lower extraneous cognitive load than students using Google during a web research task](llm-search-lower-extraneous-cognitive-load.md) — related
 - [Students using ChatGPT 3.5 experience lower intrinsic cognitive load than students using Google during a web research task](llm-search-lower-intrinsic-cognitive-load.md) — related

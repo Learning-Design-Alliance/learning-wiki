@@ -41,8 +41,9 @@ The review reports, citing included studies, that W-Pal lesson activity "decreas
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Included studies suggest engagement increases when adaptive platform activities are tailored to learners' personal needs and emotional state](adaptivity-emotional-tailoring-increases-engagement.md) — the general claim this finding bears on, with the studies behind it
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — a narrower finding that bears on this claim
 - [Interviewed teachers attributed disengagement to technical, institutional, and social-relational environmental constraints rather than capability deficits](environmental-constraints-attributed-disengagement.md) — related
 - [During observed playlist sessions, students were mostly on task and concentrating, though off-task behavior rose when the digital notebook was repeated](bromp-observation-mostly-on-task-concentrating.md) — related

@@ -41,11 +41,12 @@ School-poverty gap models comparing students in schools with over 75% FRPL eligi
 
 ## Discussion
 
-
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [School test score averages are strongly related to the income of the families a school serves](school-test-scores-strongly-related-to-family-income.md) — the general claim this finding bears on, with the studies behind it
 - [Heavy weighting of achievement data in U.S. school evaluation clouds how much learning is actually occurring, particularly in high-poverty communities](achievement-weighting-clouds-learning-high-poverty.md) — related
 - [Female kindergarteners outscore males in math and reading at entry; the reading gap was stable while the small math gap narrowed slightly](gender-gaps-at-kindergarten-entry-2010-2017.md) — related
 - [Kindergarten-entry math and reading scores were mostly flat 2010-2014 then slightly declined by 2017, with median math down about 0.24 SD and reading down 0.14 SD](kindergarten-entry-scores-declined-2010-2017.md) — related

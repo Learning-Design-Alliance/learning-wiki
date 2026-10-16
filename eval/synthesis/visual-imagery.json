@@ -1,0 +1,66 @@
+{
+  "principle": "elements/visual-imagery",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "concreteness-imagery-associative-roles-educational-domains",
+      "question": "Does having learners form mental images of the material (imagery for text, the keyword mnemonic) improve learning, for whom, and how does it compare with other study techniques?",
+      "members": [
+        [
+          "mnemonic-instruction-improves-recall-for-students-with-disabilities",
+          "+"
+        ],
+        [
+          "five-techniques-low-utility",
+          "-"
+        ],
+        [
+          "retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration",
+          "-"
+        ],
+        [
+          "expertise-reversal-isolated-elements-and-imagination-review",
+          "~"
+        ],
+        [
+          "spelling-mastery-significant-vs-visual-imagery",
+          "-"
+        ]
+      ]
+    },
+    {
+      "hub": "dual-coding-improves-learning",
+      "question": "Does pairing the words with a relevant visual of the same idea improve learning over the words alone, and for whom?",
+      "members": [
+        [
+          "multimedia-principle-improves-learning",
+          "+"
+        ],
+        [
+          "seductive-details-effect",
+          "~"
+        ],
+        [
+          "expertise-reversal-iconic-scaffolds-development",
+          "~"
+        ],
+        [
+          "media-combinations-affect-recall-and-retention",
+          "+"
+        ],
+        [
+          "multimodal-glosses-improve-incidental-vocabulary-learning",
+          "+"
+        ],
+        [
+          "multimedia-principle-words-and-pictures-outcomes",
+          "+"
+        ],
+        [
+          "graphic-organizers-support-novice-comprehension",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

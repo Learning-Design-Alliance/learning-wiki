@@ -61,6 +61,9 @@ This NWEA research brief, announced June 2020, asks "Does entering school older 
 
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Redshirted students' early-grade academic advantage over on-time peers fades as students move through school](redshirting-academic-advantage-short-lived.md) — the general claim this finding bears on, with the studies behind it

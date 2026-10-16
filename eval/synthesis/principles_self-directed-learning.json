@@ -41,6 +41,18 @@
         [
           "underuse-stems-from-false-beliefs-and-counterintuition",
           "+"
+        ],
+        [
+          "rereading-is-a-low-utility-study-strategy",
+          "+"
+        ],
+        [
+          "students-aware-of-strategies-but-fail-to-act",
+          "~"
+        ],
+        [
+          "instructions-increase-learning-time-allocation",
+          "~"
         ]
       ]
     }

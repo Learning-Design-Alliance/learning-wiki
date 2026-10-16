@@ -44,6 +44,7 @@ Simple slope analysis of the latent interaction BI × LGA (b = −0.137, 95%CI [
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — moderator: an instructional effect differs with it
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 - [Behavioral attitude, subjective norm, perceived behavioral control, and behavioral intention are each negatively associated with GenAI-assisted learning procrastination](tpb-constructs-negatively-associated-genai-procrastination.md) — related

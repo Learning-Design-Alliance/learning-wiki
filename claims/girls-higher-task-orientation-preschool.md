@@ -42,6 +42,9 @@ In the longitudinal sample of 467 preschoolers, girls had significantly higher t
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [No statistically significant sex differences in the direct associations among EF, task orientation, and mathematics or in the mediating effect of task orientation](no-sex-differences-ef-task-orientation-math-pathways.md) — related
 - Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples — related

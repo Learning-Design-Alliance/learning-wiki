@@ -30,7 +30,7 @@ sources:
 # Direction is observable in nearly all AI-mediated conversations, while Integration and Evaluation become progressively more observable as conversation length increases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Direction is visible in 146 of 150 sampled conversations (97.3%) and in every conversation with at least five student turns. [→ Jorge Fábrega 2026](#jorge-fabrega-2026)

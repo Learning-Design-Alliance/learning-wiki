@@ -13,7 +13,7 @@ generated:
 # Exemplars
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 8 studies (4 causal, 2 theoretical, 1 quant-synthesis, 1 review), `q1`–`q4` · 1 of 8 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 9 studies (4 causal, 2 review, 2 theoretical, 1 quant-synthesis), `q1`–`q4` · 1 of 9 report an effect size · 3 claims rest on one study
 
 ## Description
 An exemplar is a high-quality model of a finished product or performance — an essay, design, proof, or solution — that learners study to internalize quality criteria before producing their own work. Unlike a [Demonstration](demonstration.md), which shows a *process*, an exemplar shows the *product* of expertise, making implicit standards observable and discussable.
@@ -54,6 +54,12 @@ Exemplars make quality criteria concrete: learners calibrate their own standards
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Exemplar-based calibration is expected to align student ratings with expert ratings at the criterion level](../claims/trainer-calibration-expected-align-rater-judgments.md) [+W]
+
+## The evidence by question
+
+- *Does giving learners exemplars of finished work, analysed against the criteria, improve their own work and their judgement of quality?* [Students who accessed exemplar examination answers on the LMS achieved higher grades than those who did not](../claims/lms-exemplar-access-associated-with-higher-grades.md) [+M]
+- *Does comparing analogous cases improve transfer more than studying cases one at a time?* [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](../claims/comparing-contrasting-cases-improves-learning.md) [+S]
+- *For whom: how does the benefit change with prior knowledge?* [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~S]
 
 ## Related Elements
 - [Demonstration](demonstration.md) — the process-level counterpart; exemplars show the product, demonstrations show how it was made

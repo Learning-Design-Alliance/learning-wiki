@@ -37,6 +37,10 @@ Graphic organizers are visual structures that help learners sort, compare, and c
 - [Story Mapping Improves Comprehension](../claims/story-mapping-improves-comprehension.md) [+M]
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](../claims/concept-mapping-improves-learning.md) [+M]
 
+## The evidence by question
+- *Does studying a provided organizer improve comprehension and retention over the text alone, and for whom?* [Graphic Organizers Support Novice Comprehension](../claims/graphic-organizers-support-novice-comprehension.md) [+M]
+- *Should learners build the visual themselves, and does building it beat studying a provided one or recalling from memory?* [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](../claims/concept-mapping-improves-learning.md) [+M]
+
 ## Related Elements
 - [Concept Mapping](concept-mapping.md)
 - [Creating Visual Representations](creating-visual-representations.md)

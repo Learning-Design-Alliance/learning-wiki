@@ -30,7 +30,7 @@ sources:
 # Black students and students with disabilities are suspended at disproportionately high rates, and high-poverty schools are more likely to have a School Resource Officer
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 design `r1`, 1 theoretical `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Black students and students with disabilities are suspended at disproportionately high rates compared with peers, and schools where more than 75 percent of students qualify for free or reduced-price lunch are more likely to have at least one full-time SRO. [→ Trout 2022](#trout-2022)

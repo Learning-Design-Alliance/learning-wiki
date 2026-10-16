@@ -50,6 +50,8 @@ This is exploratory, proof-of-concept research (the authors' own characterizatio
 
 ## Related Claims
 
+- [The review reports that role-playing exercises significantly enhanced students' 21st-century skills including communication, collaboration, and critical thinking](role-play-enhances-21st-century-skills.md) — the general claim this finding bears on, with the studies behind it
+
 - [The paper reports that culturally responsive pedagogies are associated with more student engagement, agency, and responsibility for seeking information](crse-pedagogies-engagement-agency-claim.md) — the general claim this finding bears on, with the studies behind it
 - [Assessment tasks built on family-identified funds of knowledge elicited computational thinking from K-2 children in a small design-based study that made no comparison with standard assessment](funds-of-knowledge-tasks-reveal-computational-thinking.md) — both claims document a fund-of-knowledge mechanism revealing or supporting disciplinary competence that a decontextualized approach would miss
 - [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — related

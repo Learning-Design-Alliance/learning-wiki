@@ -1,0 +1,104 @@
+{
+  "principle": "theories/icap-four-mode-engagement-taxonomy",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read. The mode-comparison evidence is mostly Chi and colleagues (Chi & Wylie 2014; Chi et al. 2018), reporting their own and others' studies second-hand.",
+  "findings": [
+    {
+      "hub": "constructive-learning-beats-active-passive",
+      "question": "Which kind of activity: manipulating material, generating beyond it, or building on a partner's ideas?",
+      "members": [
+        [
+          "icap-hypothesis-learning-increases-i-cap",
+          "+"
+        ],
+        [
+          "students-learned-more-constructive-than-active",
+          "+"
+        ],
+        [
+          "constructive-beats-passive-young-children",
+          "+"
+        ],
+        [
+          "interactive-beats-constructive-concept-mapping",
+          "+"
+        ],
+        [
+          "self-explanation-improves-conceptual-understanding",
+          "+"
+        ],
+        [
+          "interactive-requires-constructive-turn-taking",
+          "~"
+        ],
+        [
+          "constructive-generates-beyond-information-given",
+          "~"
+        ],
+        [
+          "interactive-tasks-beat-noninteractive-spoken-word-learning",
+          "+"
+        ],
+        [
+          "interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "icap-effective-audit-tool-asynchronous-online",
+      "question": "Can a course's activities and learners' talk be coded reliably into ICAP modes, so a designer can audit a design?",
+      "members": [
+        [
+          "uneven-icap-mode-distribution-across-units",
+          "+"
+        ],
+        [
+          "mid-level-icap-categories-most-ambiguous",
+          "~"
+        ],
+        [
+          "everyday-llm-use-engagement-prevalence",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "scaffolded-support-constructive-participation",
+      "question": "Does AI support move learners into constructive and interactive engagement, or let them stay passive?",
+      "members": [
+        [
+          "adjacent-turn-support-engagement-coupling",
+          "~"
+        ],
+        [
+          "coding-vs-writing-constructive-engagement",
+          "~"
+        ],
+        [
+          "constructive-engagement-contextual-organization",
+          "~"
+        ],
+        [
+          "gats-increase-constructive-engagement-uoft",
+          "+"
+        ],
+        [
+          "proactive-engagement-constructive-adequate-reasoning-link",
+          "+"
+        ],
+        [
+          "interactive-genai-dialogue-promotes-engagement",
+          "+"
+        ],
+        [
+          "ai-dialogic-partner-constructive-interactive-learning",
+          "+"
+        ],
+        [
+          "full-ai-offloading-forgoes-engagement-and-skills",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

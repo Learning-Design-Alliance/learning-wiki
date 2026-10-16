@@ -42,13 +42,14 @@ Moderator analysis within the meta-analysis of 50 effects, using the article's d
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*For which material, media and testing conditions is integration worth most?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **3 distinct studies** (1 quant-synthesis, 1 review, 1 causal), `q2`–`q3`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*For which material, media and testing conditions is integration worth most?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **4 distinct studies** (2 review, 1 quant-synthesis, 1 causal), `q2`–`q3`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Ginns 2006](https://doi.org/10.1016/j.learninstruc.2006.10.001) | q3 · quant-synthesis · r2 | i2; i?; i3 | this claim; [Contiguity effects show no statistically reliable difference between static and dynamic pr](static-dynamic-presentation-no-moderation.md) (qualifies); [Contiguity effects are larger under one-on-one testing (d = .89) than under group testing ](testing-format-moderates-contiguity-effect.md) (qualifies) |
+| [Ginns 2006](https://doi.org/10.1016/j.learninstruc.2006.10.001) | q2 / q3 · quant-synthesis · r2 | i2; i?; i3 | this claim; [Contiguity effects show no statistically reliable difference between static and dynamic pr](static-dynamic-presentation-no-moderation.md) (qualifies); [Contiguity effects are larger under one-on-one testing (d = .89) than under group testing ](testing-format-moderates-contiguity-effect.md) (qualifies); [Reviews report that the split-attention benefit for novices reverses into a redundancy eff](expertise-reversal-split-attention-redundancy-review.md) (qualifies) |
 | [Atkinson 2000](https://doi.org/10.3102/00346543070002181) | q2 · review · r3 | i? | [Split-attention worked examples lose their advantage over conventional practice, while int](split-attention-effect-in-worked-examples.md) (supports) |
 | [Gregorio Orlando 2026](https://doi.org/10.48550/arxiv.2609.38737) | q2 · causal · r1 | i? | [The authors of one robot-projection study interpret co-located AI guidance as most useful ](spatial-colocation-benefit-task-dependent.md) (qualifies) |
+| [Kalyuga 2003](https://doi.org/10.1207/s15326985ep3801_4) | q2 · review · r2 | i? | [Reviews report that the split-attention benefit for novices reverses into a redundancy eff](expertise-reversal-split-attention-redundancy-review.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

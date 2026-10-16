@@ -21,15 +21,31 @@
       "question": "Do rewards and praise undermine voluntary engagement?",
       "members": [
         [
+          "extrinsic-rewards-undermine-intrinsic-motivation-argument",
+          "+"
+        ],
+        [
+          "grading-harms-maker-education-outcomes",
+          "+"
+        ],
+        [
+          "incentives-no-intrinsic-motivation-harm",
+          "-"
+        ],
+        [
+          "concrete-reward-increases-mean-ideational-fluency",
+          "~"
+        ],
+        [
+          "feedback-praise-reduces-learning",
+          "~"
+        ],
+        [
           "gamification-has-small-positive-effects-on-learning-outcomes",
           "~"
         ],
         [
           "gamification-engagement-mixed-evidence",
-          "~"
-        ],
-        [
-          "feedback-praise-reduces-learning",
           "~"
         ],
         [
@@ -45,20 +61,12 @@
           "~"
         ],
         [
-          "concrete-reward-increases-mean-ideational-fluency",
-          "~"
-        ],
-        [
           "reward-effects-hold-across-individual-tasks",
           "~"
         ],
         [
           "good-idea-reward-no-incentive-effect",
           "~"
-        ],
-        [
-          "grading-harms-maker-education-outcomes",
-          "+"
         ]
       ]
     },
@@ -68,6 +76,22 @@
       "members": [
         [
           "coherence-principle-irrelevant-material-hurts-learning",
+          "+"
+        ],
+        [
+          "decorative-images-distract-from-math-problems",
+          "+"
+        ],
+        [
+          "weeding-extraneous-content-improves-video-learning",
+          "+"
+        ],
+        [
+          "unfamiliar-contexts-distract-from-mathematics",
+          "+"
+        ],
+        [
+          "auto-updates-drew-users-from-explanations",
           "+"
         ]
       ]

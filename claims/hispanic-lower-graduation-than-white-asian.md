@@ -42,6 +42,9 @@ Cross-racial comparison in the CPS cohort study: "Hispanic students, regardless 
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Course performance indicators predict ELL graduation better than ELL-specific indicators such as proficiency level or education interruptions](course-performance-more-predictive-than-ell-indicators.md) — related
 - [Long-term Hispanic ELLs had the worst course performance and graduation rates, with only 52 percent graduating within four years](long-term-ell-52-percent-graduation.md) — related

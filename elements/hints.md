@@ -22,7 +22,7 @@ sources:
 # Hints
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (2 for, 4 mixed) · 6 studies (3 causal, 2 design, 1 theoretical), `q2`–`q3` · 1 of 6 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (3 for, 4 mixed) · 6 studies (3 causal, 2 design, 1 theoretical), `q2`–`q3` · 1 of 6 report an effect size · 6 claims rest on one study
 
 ## Description
 Hints are partial prompts or cues that help learners continue a task without fully giving away the answer. They are useful when the design goal is to preserve productive struggle while reducing the chance of stuckness, confusion, or abandonment.
@@ -57,6 +57,11 @@ Hints are partial prompts or cues that help learners continue a task without ful
 - [Learning gains showed significant main effects of hint condition and subject, with no significant condition-by-subject interaction](../claims/condition-subject-main-effects-no-interaction.md) [~W]
 - [Persistence and performance costs concentrate among participants who used the AI to obtain direct solutions, while hint-users resemble controls](../claims/persistence-costs-concentrated-among-direct-solution-users.md) [+W]
 - [Learning gains from ChatGPT-generated hints were not statistically significantly different from human tutor-authored hints, though ChatGPT gains were numerically higher in all subjects](../claims/chatgpt-gains-equivalent-human-tutor-hints.md) [~W]
+
+## The evidence by question
+
+- *Do hints during practice improve learning over no hints, and do AI-written hints work as well as tutor-written ones?* [Learners receiving ChatGPT-generated hints showed statistically significant learning gains compared to a no-hint control in an online mathematics tutoring experiment](../claims/chatgpt-hints-significant-gains-versus-control.md) [+M]
+- *Should help stop at a hint rather than give the solution, and what happens when learners can get the answer directly?* [Persistence and performance costs concentrate among participants who used the AI to obtain direct solutions, while hint-users resemble controls](../claims/persistence-costs-concentrated-among-direct-solution-users.md) [+M]
 
 ## Related Elements
 - [Feedback](feedback.md)

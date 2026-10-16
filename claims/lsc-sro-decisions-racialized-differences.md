@@ -42,6 +42,9 @@ Descriptive analysis of CPS administrative data on student race/ethnicity and sc
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [High schools that retained SROs had higher suspension rates, were smaller, and served more socioeconomically disadvantaged students](school-characteristics-associated-with-sro-retention.md) — related
 - [Police notifications declined substantially in schools that fully removed SROs, but the difference-in-difference was not statistically significant](sro-removal-police-notifications-declined-not-significant.md) — related

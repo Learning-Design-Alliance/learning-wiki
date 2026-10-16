@@ -39,6 +39,17 @@ Meta-analytic moderator analysis of control-condition strategy across classroom 
 
 > "By comparison with no/filler activity ( g = 0.610), testing with fewer questions ( g = 0.465), restudying ( g = 0.330), and other elaborative strategies ( g = 0.095), testing is overall a more powerful method to enhance classroom learning."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Is time spent elaborating on material better spent than the same time retrieving it?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **2 distinct studies** (1 quant-synthesis, 1 review), `q2`–`q4`, 1 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Yang 2020](https://doi.org/10.1037/bul0000309) | q4 · quant-synthesis · r? | i2 | this claim |
+| [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r2 | i? | [A review chapter (Karpicke 2017) reports, second-hand, experiments in which retrieval prac](retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

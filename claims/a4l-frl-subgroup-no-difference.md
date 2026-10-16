@@ -41,11 +41,12 @@ Exploratory subgroup analyses with grade 4 CCU data in 12 schools; the report in
 
 ## Discussion
 
-
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students](assistments-school-composition-moderators.md) — the general claim this finding bears on, with the studies behind it
 - [Grade 4 students in treatment schools scored significantly higher than control students on the CCU Assessments in each of the three study years, with effect sizes from 0.30 to 0.36](a4l-grade4-ccu-significant-impact.md) — related
 - Subgroup analysis indicates notable growth for students from traditionally underserved groups, such as those eligible for free or reduced-price lunch — related
 - [Grade 5 students showed very small, non-significant CCU differences, indicating no reliable A4L impact at that grade level](a4l-grade5-ccu-no-impact.md) — related

@@ -26,7 +26,7 @@ sources:
 # Solution Development
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 8 studies (3 causal, 2 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 8 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 15 studies (5 causal, 4 quant-synthesis, 3 theoretical, 2 review, 1 associational), `q2`–`q4` · 4 of 15 report an effect size · 2 claims rest on one study
 
 ## Description
 Solution development asks learners to synthesize information from multiple sources into a proposed solution to an authentic problem, then test, evaluate, and revise that solution against evidence or feedback. It functions as the productive phase of problem-centered instruction — the point where analysis converts into a concrete, defensible artifact or decision.
@@ -68,6 +68,10 @@ Solution development strengthens analytical reasoning by requiring learners to i
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - 
+
+## The evidence by question
+- *Should learners attempt a problem before the idea is taught, and what must the teaching afterwards do?* [Productive Failure Improves Conceptual Learning](../claims/productive-failure-improves-conceptual-learning.md) [+S]
+- *How much guidance do novices need inside a problem-centred design?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
 
 ## Related Elements
 - [Case-Based Learning](case-based-learning.md) — cases supply the authentic problem context from which solutions are developed

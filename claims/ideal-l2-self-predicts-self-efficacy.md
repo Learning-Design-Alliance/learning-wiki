@@ -41,8 +41,9 @@ Regression/correlation results from the 210-learner survey show ideal L2 self (r
 
 ## Discussion
 
-
 ## Related Claims
+
+- [In the L2MSS, the L2 learning experience predicts intended effort most strongly, while the ideal L2 self is weaker than the theory argues](l2-learning-experience-beats-ideal-l2-self.md) — the general claim this finding bears on, with the studies behind it
 - [All ten sub-factors of the L2 motivational self-system correlate significantly and positively with L2 self-efficacy](ten-motivation-subfactors-correlate-self-efficacy.md) — a broader claim this one bears on
 - [Criterion measures, attitudes towards learning English, instrumentality promotion, and ideal L2 self are the strongest predictors of L2 self-efficacy](strongest-motivation-predictors-of-self-efficacy.md) — a broader claim this one bears on
 - [Overall L2 motivation is a significant positive predictor of L2 self-efficacy among Iranian EFL learners](l2-motivation-predicts-self-efficacy.md) — related

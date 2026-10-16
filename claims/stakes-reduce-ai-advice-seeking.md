@@ -30,7 +30,7 @@ sources:
 # Participants seek AI advice less frequently when accuracy carries monetary stakes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2`–`r3` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3`
 
 ## Subclaims
 `q3 i?` In Study 2, participants sought AI advice less often with stakes than without (4.93 vs. 5.44 times out of six questions). [→ Chiara Marcoccia 2026](#chiara-marcoccia-2026)

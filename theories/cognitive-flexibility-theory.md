@@ -20,7 +20,7 @@ grain_size: unit
 # Cognitive Flexibility Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (2 for, 4 mixed) · 13 studies (5 causal, 3 quant-synthesis, 2 qualitative, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 13 report an effect size · 4 claims rest on one study
+> **Evidence** · 8 claims (4 for, 4 mixed) · 17 studies (7 causal, 4 quant-synthesis, 2 review, 2 qualitative, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 17 report an effect size · 4 claims rest on one study
 
 ## Description
 Cognitive Flexibility Theory is a pattern for teaching in ill-structured domains by repeatedly revisiting concepts across multiple cases, perspectives, and contexts. Rather than presenting knowledge as a single linear explanation, the pattern helps learners see how ideas shift depending on context, representation, and problem framing. It is especially useful where oversimplified rules break down and learners need to interpret complexity rather than apply a fixed procedure.
@@ -100,6 +100,10 @@ The pattern often relies on case collections, cross-linking, comparison, and rev
 - Learners can explore different case pathways while still returning to shared synthesis prompts.
 - Instructors can increase or decrease structure by controlling the number of cases and comparison questions.
 - Advanced learners can handle more independent cross-case navigation than novices.
+
+## The evidence by question
+- *Does revisiting concepts across varied, compared cases improve transfer to a new case?* [Presenting multiple cases from different perspectives supports transfer in ill-structured domains](../claims/cognitive-flexibility-theory-multiple-cases.md) [+S]
+- *Does adding a second representation of the same idea help, and when?* [Multiple representations improve learning](../claims/multiple-representations-improve-learning.md) [+M]
 
 ## Related Patterns
 

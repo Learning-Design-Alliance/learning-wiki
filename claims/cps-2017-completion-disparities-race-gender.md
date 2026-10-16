@@ -42,6 +42,10 @@ Descriptive analysis of 14,807 immediate college enrollees from the CPS class of
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - Among 2014 CPS graduates who immediately enrolled in a bachelor's-degree-granting institution, 30% completed within four years versus 51% within six years — related
 - [College completion among immediate enrollees in the CPS class of 2015 shows large race/ethnicity and gender gaps, with fewer than a third of Black and Latino young men completing a bachelor's degree](cps-college-completion-race-gender-gaps.md) — related

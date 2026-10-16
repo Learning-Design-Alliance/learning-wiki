@@ -41,11 +41,13 @@ Slope analysis of student-level cohort data (Table 6) shows the statewide gap sl
 
 ## Discussion
 
-
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](el-lag-limited-academic-content-exposure.md) — the general claim this finding bears on, with the studies behind it
 - [English learners in nearly all MiC districts showed stronger annual CAASPP mathematics gains than their statewide peers from 2015 to 2017 despite remaining mostly at the lowest achievement level](mic-english-learners-stronger-gains.md) — related
 - [MiC district achievement on the CAASPP in mathematics generally followed the same statewide pattern from 2015 to 2018, with MiC districts slightly more homogeneous than non-selected districts](mic-districts-follow-statewide-pattern.md) — related
 - [Student cohorts in several MiC districts showed consistently higher mathematics achievement than the statewide average from 2015 to 2017, with wide district variability](mic-cohort-gains-above-state-variability.md) — related

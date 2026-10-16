@@ -30,7 +30,7 @@ sources:
 # Educator AI training and readiness remain limited, with only about half of teachers trained on AI and resistance increasing at higher grade levels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 review `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` As of fall 2024, only about half of teachers reported being trained on using AI, a two-fold increase from the previous year. [→ Digital Promise 2025](#digital-promise-2025)

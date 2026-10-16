@@ -41,8 +41,11 @@ Randomised control study of 73 university students from mixed disciplines and st
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — the general claim this finding bears on, with the studies behind it
+
+- [Keeping a structured learning diary without further intervention did not improve university students' self-regulation](learning-diary-alone-no-self-regulation-gain.md) — the general claim this finding bears on, with the studies behind it
 - [The combined training-plus-diary condition improved specific SRL components: SRL knowledge, metacognitive strategies, cognitive strategies (elaboration, organisation, critical thinking), and resource management strategies (time-management, effort regulation)](combined-condition-improved-specific-srl-components.md) — a narrower finding that bears on this claim
 - [In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains](srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep.md) — related
 - [Web-based SRL training combined with a learning diary (Group TD) produced statistically significant pre-post gains in SRL knowledge, the SRL overall score and self-efficacy, but not in mathematics scores, among prospective university students in an online preparation course](web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math.md) — related

@@ -43,7 +43,7 @@ A meta-analysis of 8,776 effect sizes examined the relationship between domain-s
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does knowing more beforehand mean learning more from the instruction?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **4 distinct studies** (1 quant-synthesis, 1 associational, 1 causal, 1 review), `q2`–`q4`, 2 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does knowing more beforehand mean learning more from the instruction?* This table gathers the studies behind this claim and the 15 narrower claims that bear on it: **14 distinct studies** (5 causal, 4 associational, 2 theoretical, 1 quant-synthesis, 1 review, 1 design), `q2`–`q4`, 5 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -51,6 +51,16 @@ A meta-analysis of 8,776 effect sizes examined the relationship between domain-s
 | [Yusuke Sato 2023](https://doi.org/10.52598/jpll/5/1/4) | q2 · associational · r2 | i? | [Pretest scores significantly predict posttest scores across CF types and outcome measures](pretest-scores-predict-posttest-scores.md) (qualifies) |
 | Gagne 1981 | q2 · causal · r? | i3 · large effect, r = 0.52; i? | [Passage familiarity (prior related knowledge) correlates .52 with recall, and only familia](passage-familiarity-correlates-with-recall.md) (supports); [Passage cohesion showed no effect on delayed recall; means showed greater recall from less](cohesion-no-effect-delayed-recall.md) (qualifies) |
 | Bigenho 1992 | q2 · review · r3 | i? | [Subjects with a more developed schema for a body of knowledge show higher recall for mater](developed-schema-higher-recall.md) (supports) |
+| Pilgrim 2016 | q2 · theoretical · r2 | i? | [Students' prior knowledge about a topic impacts their understanding of text as they read](prior-knowledge-impacts-text-understanding.md) (supports) |
+| [Ramadoni 2022](https://doi.org/10.47750/pegegog.12.03.17) | q2 · causal · r2 | i? | [Prior achievement level affects calculus conceptual understanding, and PTFC outperforms CF](prior-achievement-affects-conceptual-understanding.md) (supports) |
+| [Clinton 2017](https://doi.org/10.4018/978-1-5225-1005-5.ch010) | q3 · causal · r2 | i? | [Revisions to visuals had no effect on post-lesson test scores, though prior knowledge pred](revised-visuals-no-learning-effect.md) (supports) |
+| [Gupta 2020](https://doi.org/10.20897/ejsteme/9252) | q3 · causal · r2 | i3; i? | [High- and low-prior-knowledge learners differ significantly on an algebra posttest and on ](high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load.md) (supports) |
+| [Elke Peters and Stuart Webb 2018](https://doi.org/10.1017/s0272263117000407) | q2 · causal · r? | i? | [Incidental vocabulary learning through viewing TV was affected by frequency of occurrence,](viewing-vocabulary-learning-affected-by-frequency-prior-knowledge-cognateness.md) (supports) |
+| [Fathima Ameen 2026](https://doi.org/10.1007/s41237-026-00294-9) | q2 · associational · r? | i? | [Procedural prior knowledge predicted conceptual post-test skill, but conceptual prior know](procedural-prior-predicts-conceptual-post.md) (qualifies) |
+| [Shenghua Zha 2025](https://doi.org/10.1007/s40593-025-00476-8) | q3 · design · r2 | i? | [Prior biology knowledge predicted new AI knowledge in Lessons 1 and 2 but not in Lessons 3](prior-biology-predicts-ai-lessons-one-two-not-three-four.md) (qualifies) |
+| [Todd E. Elder and Darren H. Lubotsky 2009](https://doi.org/10.3368/jhr.44.3.641) | q3 · associational · r? | i? | [The positive relationship between kindergarten entrance age and achievement primarily refl](entrance-age-advantage-reflects-prior-skill-accumulation.md) (supports) |
+| [Lei Bao 2006](https://doi.org/10.48550/arxiv.0710.1375) | q2 · theoretical · r3 | i2; i?; i1 | [Hake's survey found interactive-engagement courses achieved average normalized gains about](hake-ie-gains-two-sd-greater.md) (qualifies); [When the γ-process (associative interaction of correct and incorrect knowledge) is conside](gamma-process-positive-gain-pretest-correlation.md) (qualifies) |
+| Nist 1985 | q3 · associational · r? | i0 · null effect | [Prior knowledge is not significantly related to test performance in this sample](prior-knowledge-not-related-to-performance.md) (counts against) |
 <!-- synthesis:end -->
 
 ## Discussion

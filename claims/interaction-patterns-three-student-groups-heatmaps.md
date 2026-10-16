@@ -41,8 +41,9 @@ Exploratory data analysis plotting course-level and module-level heat maps of pr
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out](abc-early-warning-indicators-predict-dropout.md) — the general claim this finding bears on, with the studies behind it
 - [Accounting for learning behavior attenuates profile-related exam score differences, eliminating significance in Python](learning-behavior-attenuates-profile-score-differences.md) — related
 - [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related
 - [Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition](three-ct-profiles-preservice-teachers-lpa.md) — related

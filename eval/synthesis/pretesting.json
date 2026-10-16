@@ -37,6 +37,18 @@
         [
           "pretesting-can-harm-motivation",
           "~"
+        ],
+        [
+          "unsuccessful-retrieval-smaller-benefit-than-successful",
+          "~"
+        ],
+        [
+          "high-confidence-errors-improve-retention",
+          "~"
+        ],
+        [
+          "condition-multivariate-effect-posttest-effort",
+          "+"
         ]
       ]
     },

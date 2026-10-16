@@ -44,6 +44,7 @@ Instructor report from classroom implementation of the exploration assignment in
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on

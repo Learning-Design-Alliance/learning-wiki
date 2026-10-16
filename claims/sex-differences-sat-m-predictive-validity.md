@@ -41,8 +41,12 @@ The authors' interpretive conclusion from the bidirectional validity analysis: m
 
 ## Discussion
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](race-gender-grade-differences-persist.md) — the general claim this finding bears on, with the studies behind it
 - [Prospective regression analysis of the same data found somewhat larger sex differences in the same direction](prospective-regression-larger-sex-differences-sat-m.md) — related
 - [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](mit-lower-sat-math-scores-equal-performance.md) — reports the opposite
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — a broader claim this one bears on

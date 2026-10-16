@@ -43,6 +43,10 @@ The review reports Bygate's (2001) larger study of practicing a type of task on 
 
 ## Related Claims
 
+- [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](skill-specificity-l2-grammar-practice.md) — the general claim this finding bears on, with the studies behind it
+
+- [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](practice-presence-raises-cbi-posttest-achievement.md) — the general claim this finding bears on, with the studies behind it
+
 - [Encoding variability across varied example contexts produces decontextualization supporting transfer (review reports DiVesta and Peverly)](encoding-variability-decontextualization-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — related
 - [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related

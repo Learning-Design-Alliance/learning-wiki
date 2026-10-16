@@ -42,6 +42,9 @@ Secondary covariate finding from the mediation model; the article reports the di
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - Male students are significantly more work-avoidant than female students in the project-based course, with no gender differences on the other measures — related
 - Female Korean immigrants showed better psychosocial adjustment than males on diffusion, isolation, and intimacy resolution — related

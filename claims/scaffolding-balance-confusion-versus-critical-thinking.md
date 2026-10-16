@@ -43,6 +43,8 @@ A lesson-learned synthesized from classroom trials, instructor and student feedb
 
 ## Related Claims
 
+- [Enhanced discovery learning produces greater learning than other forms of instruction](enhanced-discovery-beats-other-instruction.md) — the general claim this finding bears on, with the studies behind it
+
 - [Peer conflicts did not always produce conceptual change; they appeared to work only for students prepared to reflect on and reconstruct their conceptions](peer-conflicts-conditional-on-reflection.md) — the general claim this finding bears on, with the studies behind it
 
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it

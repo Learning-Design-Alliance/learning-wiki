@@ -41,8 +41,9 @@ The abstract warns, as an argument rather than a finding, that ignoring the diff
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI-powered predictive analytics improves academic performance by enabling early identification of at-risk students and timely intervention](ai-predictive-analytics-improves-academic-performance.md) — the general claim this finding bears on, with the studies behind it
 - In descriptive logit models, demographic variables predict dropout at enrollment (e.g., males have a 60% higher chance of dropping out than females), but most lose significance once first-semester performance data is controlled — related
 - [Evidence is mixed on whether including demographic variables as predictors improves model performance in educational prediction](mixed-evidence-demographic-predictor-performance.md) — related
 - [Including demographic variables as predictors can reduce actionability by de-emphasizing correlated actionable risk factors and by discounting intervention effects](demographic-predictors-reduce-actionability.md) — related

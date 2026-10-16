@@ -42,6 +42,8 @@ Thematic analysis of daily stand-ups, weekly surveys, and reflections from the f
 
 ## Related Claims
 
+- [Included studies suggest engagement increases when adaptive platform activities are tailored to learners' personal needs and emotional state](adaptivity-emotional-tailoring-increases-engagement.md) — the general claim this finding bears on, with the studies behind it
+
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — a broader claim this one bears on
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related

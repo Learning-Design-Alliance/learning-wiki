@@ -1,0 +1,170 @@
+{
+  "principle": "theories/tpack",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "tpack-course-improves-preservice-preschool-idc",
+      "question": "Does a TPACK-based course or programme build teachers' capacity to design technology-integrated instruction, and does the gain last?",
+      "members": [
+        [
+          "online-tpack-program-shift-student-centered-strategies",
+          "+"
+        ],
+        [
+          "sdt-driven-redesign-capacity-willingness-gains",
+          "+"
+        ],
+        [
+          "iterative-design-steady-growth-no-excellent",
+          "~"
+        ],
+        [
+          "novice-idc-growth-simplification-linearity-dogmatism",
+          "~"
+        ],
+        [
+          "need-satisfaction-predicts-willingness-beyond-capacity",
+          "~"
+        ],
+        [
+          "87-percent-teachers-cease-ai-agent-creation-three-weeks",
+          "-"
+        ],
+        [
+          "students-need-time-learn-technology-first",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "teacher-beliefs-mediate-ai-integration",
+      "question": "Which teacher knowledge predicts integrating AI into teaching: technology knowledge alone, or knowledge integrated with pedagogy and content, together with beliefs?",
+      "members": [
+        [
+          "ai-tk-indirect-path-aick",
+          "+"
+        ],
+        [
+          "teaching-beliefs-negative-aick",
+          "~"
+        ],
+        [
+          "ai-literacy-predicts-ai-tpack-preservice-science-teachers",
+          "+"
+        ],
+        [
+          "serial-mediation-ai-literacy-tpack-efficacy-intention",
+          "+"
+        ],
+        [
+          "ai-tpack-predicts-science-teaching-self-efficacy",
+          "+"
+        ],
+        [
+          "ai-tpack-dimensions-associated-with-ai-teaching-innovation-behavior",
+          "~"
+        ],
+        [
+          "mediation-of-ai-tpack-effects-on-innovation-behavior",
+          "~"
+        ],
+        [
+          "ai-knowledge-attitudes-not-significant-predictors",
+          "+"
+        ],
+        [
+          "ai-use-in-green-energy-teaching-predicts-integration-ability",
+          "~"
+        ],
+        [
+          "pedagogical-ai-competence-associated-with-ai-use",
+          "+"
+        ],
+        [
+          "tk-strongly-associated-technology-integrated-domains",
+          "~"
+        ],
+        [
+          "content-knowledge-not-associated-genai-integration",
+          "~"
+        ],
+        [
+          "ai-tpack-integration-differs-by-cluster",
+          "+"
+        ],
+        [
+          "behavior-alone-insufficient-predict-ai-tpack",
+          "~"
+        ],
+        [
+          "cognitive-affective-profiles-explain-design-behaviors",
+          "+"
+        ],
+        [
+          "additive-tpack-belief-models-weak-intervention-guidance",
+          "~"
+        ],
+        [
+          "developmental-asymmetry-ck-over-tpack",
+          "~"
+        ],
+        [
+          "teacher-educators-shallow-genai-understanding-gaps",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "teaching-experience-no-aick-gain",
+      "question": "Does teachers' technology-integration knowledge rise with teaching experience, grade or age, or differ by gender?",
+      "members": [
+        [
+          "no-grade-differences-in-aick",
+          "+"
+        ],
+        [
+          "no-age-or-career-type-differences-tpack-genai",
+          "+"
+        ],
+        [
+          "gender-differences-technological-genai-knowledge-small-effects",
+          "~"
+        ],
+        [
+          "faculty-high-traditional-low-technology-integrated-genai-knowledge",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "gai-value-contingent-on-pedagogical-integration",
+      "question": "Does a technology's benefit come from the technology or from the pedagogy it is used within?",
+      "members": [
+        [
+          "chatgpt-free-use-originality-gains-vanish-unassisted",
+          "~"
+        ],
+        [
+          "full-ai-offloading-forgoes-engagement-and-skills",
+          "+"
+        ],
+        [
+          "ai-substitution-inclusion-and-time-tradeoffs",
+          "~"
+        ],
+        [
+          "vr-reinforcement-not-substitute",
+          "+"
+        ],
+        [
+          "lab-technology-gains-depend-on-active-engagement-pedagogy",
+          "+"
+        ],
+        [
+          "edtech-software-null-average-test-score-effects-year-one",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

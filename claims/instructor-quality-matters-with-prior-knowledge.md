@@ -41,8 +41,9 @@ Post-hoc LSD comparisons among cooperative-group styles with verbal TA interacti
 
 ## Discussion
 
-
 ## Related Claims
+
+- [In an immediate post-test design, participants with an unrestricted chatbot achieved significantly higher learning deltas than participants with a Socratic chatbot (d = 0.80) or an EEG-adaptive exercise system (d = 0.85)](unrestricted-chatbot-higher-learning-delta-than-socratic-and-adaptive.md) — the general claim this finding bears on, with the studies behind it
 - [A computer-based implementation of the tutorial yields the lowest post-test scores, statistically lower on momentum than every other style in the same study and the prior study's ideal implementation](computer-based-tutorial-implementation-lowest-posttest.md) — related
 - [Detailed written answer keys at checkpoints significantly improved momentum post-test scores over brief answers, but not kinetic energy scores](detailed-answer-keys-improve-momentum-only.md) — related
 - [Drop-in one-to-one tutorial attendees improved P1X-to-P1Y marks while the class average declined](drop-in-tutorials-improve-p1y-marks.md) — related

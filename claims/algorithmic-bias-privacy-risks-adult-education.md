@@ -42,8 +42,9 @@ The review identifies algorithmic bias as central to AI-in-education debates, ci
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Both prior performance flags and the machine learning algorithm are less accurate when predicting outcomes for students who are Black](ews-and-algorithm-less-accurate-black-students.md) — the general claim this finding bears on, with the studies behind it
 - Generative AI systems carry strong potential for introduced and inherited bias — related
 - [Experts identified pervasive limitations of today's AI for learning, including biased data, inequity, non-graceful failure, and weak context grasp](expert-panel-ai-limitations-list.md) — related
 - People may absorb bias from AI and carry it beyond their interactions with the algorithm — related

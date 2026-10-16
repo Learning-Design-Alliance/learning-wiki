@@ -41,8 +41,9 @@ Integrated logistic regressions with prior-state×support-form interactions from
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Scaffolded assistant support marks richer constructive participation at the conversation level across all six task settings](scaffolded-support-constructive-participation.md) — the general claim this finding bears on, with the studies behind it
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — a broader claim this one bears on
 - [Generative (Constructive) engagement by young children produces better learning than attentive (Passive) engagement](constructive-beats-passive-young-children.md) — a broader claim this one bears on
 - [Learning-oriented engagement is recurrent but selective in everyday human–LLM conversations, with cognitive engagement in 31.9% and constructive engagement in 4.9% of user turns](everyday-llm-use-engagement-prevalence.md) — related

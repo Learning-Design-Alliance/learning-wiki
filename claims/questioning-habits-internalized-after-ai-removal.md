@@ -41,8 +41,9 @@ Post-study residual-effect measurement in the 14-day field study. Participants r
 
 ## Discussion
 
-
 ## Related Claims
+
+- [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](peerwise-student-questions-75-percent-high-quality.md) — the general claim this finding bears on, with the studies behind it
 - [AI-generated questions instead of draft text significantly reduce actors' cognitive burden during character journaling](generative-refusal-reduces-cognitive-burden-journaling.md) — related
 - [Question-driven AI journaling increases intrinsic motivation and acting confidence among actors](question-driven-ai-journaling-raises-motivation-confidence.md) — related
 - [The decisive empirical test of AI-augmented instruction frameworks is whether students retain representational competence when AI support is withdrawn](withdrawal-condition-ai-instruction-frameworks.md) — a broader claim this one bears on

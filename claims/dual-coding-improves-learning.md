@@ -95,24 +95,27 @@ The experiments tested whether pictures are remembered better than words because
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does pairing the words with a relevant visual of the same idea improve learning over the words alone, and for whom?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **14 distinct studies** (7 causal, 4 quant-synthesis, 3 review), `q2`–`q4`, 4 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does pairing the words with a relevant visual of the same idea improve learning over the words alone, and for whom?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **17 distinct studies** (9 causal, 4 quant-synthesis, 4 review), `q2`–`q4`, 6 of 17 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Guo et al. 2020](https://doi.org/10.1177/2332858420901696) | q4 · quant-synthesis · r2 | i1 · small-to-moderate effect, g=0.39 | this claim |
 | [Carney and Levin 2002](https://doi.org/10.1023/a:1013176309260) | q2 · review · r? | i? | this claim |
 | [Higdon et al. 2025](https://doi.org/10.1177/17470218241235520) | q3 · causal · r? | i? | this claim |
-| Alty 2002 | q3 · causal · r? | i? | [In one 37-student classroom experiment, recall and retention differ across media combinati](media-combinations-affect-recall-and-retention.md) (supports) |
-| [Restrepo Ramos 2015](https://doi.org/10.15446/profile.v17n1.43957) | q2 · review · r2 | i? | [Combining textual and pictorial glosses improves incidental vocabulary learning more than ](multimodal-glosses-improve-incidental-vocabulary-learning.md) (supports) |
-| Ceballos & Nutta 2022 | q2 · review · r2 | i? | [A practice article reports that the studies it cites found better post-test outcomes from ](multimedia-principle-words-and-pictures-outcomes.md) (supports) |
-| [Nesbit & Adesope 2006](https://doi.org/10.3102/00346543076003413) | q4 · quant-synthesis · r2 | i2 · medium effect, g=0.60 overall (0.37 for studying maps) | [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) (qualifies) |
-| [Schroeder et al. 2018](https://doi.org/10.1007/s10648-017-9403-9) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.58 | [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) (qualifies) |
+| [Seufert et al. 2025](https://doi.org/10.3389/fpsyg.2025.1480935) | q3 · causal · r2 | i2 · medium-to-large effect, η²=.09–.14 | [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) (supports) |
+| [Lively et al. 2023](https://doi.org/10.1177/00938548221093283) | q3 · causal · r2 | i0 · negligible effect for animation on top of a text/audio channel; d=−0.07 [−0.62, 0.48] (caption alone vs. animation+caption) | [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) (supports) |
 | [Sundararajan & Adesope 2020](https://doi.org/10.1007/s10648-020-09522-4) | q3 · quant-synthesis · r? | i? | [Interesting but irrelevant details can impair comprehension and transfer, with effects tha](seductive-details-effect.md) (qualifies) |
 | [Lenzner et al. 2013](https://doi.org/10.1007/s11251-012-9256-z) | q3 · causal · r? | i? | [Interesting but irrelevant details can impair comprehension and transfer, with effects tha](seductive-details-effect.md) (qualifies) |
 | [González et al. 2019](https://doi.org/10.14742/ajet.4577) | q3 · causal · r2 | i1 · small effect, η²=.04 (Study 1) | [Interesting but irrelevant details can impair comprehension and transfer, with effects tha](seductive-details-effect.md) (qualifies) |
 | Garner et al. 1992 | q2 · causal · r? | i? | [Interesting but irrelevant details can impair comprehension and transfer, with effects tha](seductive-details-effect.md) (qualifies) |
 | [Harp and Mayer 1998](https://doi.org/10.1037/0022-0663.90.3.414) | q3 · causal · r? | i? | [Interesting but irrelevant details can impair comprehension and transfer, with effects tha](seductive-details-effect.md) (qualifies) |
 | Sanchez and Wiley 2006 | q3 · causal · r? | i? | [Interesting but irrelevant details can impair comprehension and transfer, with effects tha](seductive-details-effect.md) (qualifies) |
+| [Slava Kalyuga 2010](https://doi.org/10.1007/s11251-009-9102-0) | q3 · review · r2 | i? | [Iconic visual scaffolds in chemistry visualizations helped low-prior-knowledge high-school](expertise-reversal-iconic-scaffolds-development.md) (qualifies) |
+| Alty 2002 | q3 · causal · r? | i? | [In one 37-student classroom experiment, recall and retention differ across media combinati](media-combinations-affect-recall-and-retention.md) (supports) |
+| [Restrepo Ramos 2015](https://doi.org/10.15446/profile.v17n1.43957) | q2 · review · r2 | i? | [Combining textual and pictorial glosses improves incidental vocabulary learning more than ](multimodal-glosses-improve-incidental-vocabulary-learning.md) (supports) |
+| Ceballos & Nutta 2022 | q2 · review · r2 | i? | [A practice article reports that the studies it cites found better post-test outcomes from ](multimedia-principle-words-and-pictures-outcomes.md) (supports) |
+| [Nesbit & Adesope 2006](https://doi.org/10.3102/00346543076003413) | q4 · quant-synthesis · r2 | i2 · medium effect, g=0.60 overall (0.37 for studying maps) | [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) (qualifies) |
+| [Schroeder et al. 2018](https://doi.org/10.1007/s10648-017-9403-9) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.58 | [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

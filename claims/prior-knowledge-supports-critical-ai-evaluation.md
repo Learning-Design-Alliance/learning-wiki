@@ -41,11 +41,12 @@ The review reports this quantitative descriptive study of 102 university physics
 
 ## Discussion
 
-
 ## Learner Variables
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — the general claim this finding bears on, with the studies behind it
 - [ChatGPT-generated HDR problems measure the same ability as human-created problems, with high internal consistency (Cronbach's α = 0.78) and no significant difficulty difference](chatgpt-generated-hdr-problems-equivalent-to-human-created.md) — related
 - [Verification bottleneck: as reliance on AI increases, accuracy in detecting AI errors decreases while confidence does not](verification-bottleneck-confidence-dissociation.md) — related
 - [A physics-education review reports one study (Ding et al. 2023) in which high-trust students agreed with ChatGPT's answers 100% of the time although those answers were 82% accurate](trust-not-equivalent-to-ai-accuracy.md) — related

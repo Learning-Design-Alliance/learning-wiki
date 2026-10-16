@@ -42,8 +42,9 @@ Regression over inferred-compliance behaviors (window length, fixations, SRL str
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Higher compliance with MetaTutor's suggest-subgoal prompt is associated with larger proportional learning gains](suggest-subgoal-compliance-predicts-learning-gains.md) — reports the opposite
 - [Compliance with MetaTutor's summarize, stay-on-subgoal, move-to-next-subgoal, and open-diagram prompts shows no significant effect on learning gains](no-learning-effect-for-four-explicit-srl-prompts.md) — related
 - [No behavioral measure of compliance with MetaTutor's stay-on-page and move-to-next-page prompts relates to learning gains](no-learning-effect-for-metacognitive-monitoring-prompts.md) — related

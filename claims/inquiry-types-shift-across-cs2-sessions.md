@@ -30,7 +30,7 @@ sources:
 # Students' question types shift from confusion-reporting toward procedural and task-oriented inquiry as tasks progress, though the session difference did not reach conventional significance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` A chi-square test of independence revealed a near-significant difference between the two sessions (χ²(17) = 27.03, p = .0576), indicating a trend toward a shift from confusion-reporting in Session 1 toward more procedural and task-oriented inquiry in Session 2. [→ Matin Amoozadeh and Amin Alipour 2026](#matin-amoozadeh-and-amin-alipour-2026)

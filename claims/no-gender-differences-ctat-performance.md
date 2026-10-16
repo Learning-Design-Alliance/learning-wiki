@@ -41,7 +41,11 @@ t-test comparisons of CTAT scores by gender within each pathway in the main stud
 
 ## Discussion
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](pisa-sex-differences-math-small-reading-three-times-larger.md) — the general claim this finding bears on, with the studies behind it
 - [No significant gender difference in word-problem performance on either formatted or unformatted test forms](no-gender-difference-either-test-form.md) — related
 - [College students scored significantly higher on CTAT than vocational school students](college-students-outscore-vocational-on-ctat.md) — related

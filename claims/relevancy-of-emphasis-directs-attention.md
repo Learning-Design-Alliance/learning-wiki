@@ -64,7 +64,7 @@ In the same study, the main effect for relevancy was also significant for the lo
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does it matter what is cued, and what happens to attention to the rest?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **5 distinct studies** (3 causal, 2 review), `q2`–`q3`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does it matter what is marked, and who marks it (learner or instructor)?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **6 distinct studies** (4 causal, 2 review), `q2`–`q3`, 2 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -73,6 +73,7 @@ In the same study, the main effect for relevancy was also significant for the lo
 | [Yow 2019](https://doi.org/10.1177/2332858419878126) | q3 · causal · r1 | i3; i1 | [Audio narration with finger-tracking animation directs bilingual preschoolers' attention t](enhancing-features-direct-attention-dual-language-e-books.md) (supports); [The attention-guiding effect of narration-plus-animation is phase-dependent: target-langua](animation-phase-dependent-attention-to-print.md) (qualifies) |
 | [Dunlosky et al. 2013](https://doi.org/10.1177/1529100612453266) | q3 · review · r3 | i? | [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) (counts against) |
 | [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · review · r2 | i2 | [Signaling principle: highlighting essential words improves transfer from multimedia lesson](signaling-principle-mayer-2008.md) (supports) |
+| [Rickards 1979](https://doi.org/10.1007/bf00054983) | q3 · causal · r? | i? | [Ten-year-old readers predominantly underline subordinate passage details rather than super](children-underline-subordinate-details-not-superordinate-material.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

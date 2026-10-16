@@ -41,6 +41,7 @@ The paper's review of the Course Signals deployment, piloted at Purdue in 2007, 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI-powered predictive analytics improves academic performance by enabling early identification of at-risk students and timely intervention](ai-predictive-analytics-improves-academic-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Confounding may explain the large retention effects reported for the Course Signals early warning system](course-signals-confounding-number-of-classes.md) — possibly the same claim (merge candidate)

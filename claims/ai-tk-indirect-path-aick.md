@@ -30,7 +30,7 @@ sources:
 # AI-TK contributes to AI-TPACK only indirectly through AI-TPK and AI-TCK, which positively predict AI-TPACK
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r?` · `q2` · `i3` large
+> **Evidence** · 1 study (2 entries) · associational `r?` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` AI-TK positively predicts AI-TPK (β = 0.62) and AI-TCK (β = 0.35), but its direct path to AI-TPACK (H3c) was deleted as insignificant. [→ Meijuan Xie 2025](#meijuan-xie-2025)
@@ -60,8 +60,9 @@ AI-TPACK-SEM path analysis (N=412) showing AI-TCK's standardized path "β = 0.79
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) — the general claim this finding bears on, with the studies behind it
 - [Technological knowledge of GenAI is strongly associated with self-perceived knowledge in technology-integrated domains](tk-strongly-associated-technology-integrated-domains.md) — related
 - [Professional identity and AI literacy partially mediate AI-TPACK associations with innovation behavior, while AI-TK and AI-TPACK show indirect-only mediation and TSE mediation is only partially supported](mediation-of-ai-tpack-effects-on-innovation-behavior.md) — related
 - [Chinese MTES show medium-level AI-TPACK overall, with AI-TK the lowest-scoring component and teaching beliefs the highest, indicating a basic, preliminary stage](mtes-aick-tk-lowest-medium-level-basic-stage.md) — related

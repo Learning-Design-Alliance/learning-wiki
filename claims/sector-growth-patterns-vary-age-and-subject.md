@@ -42,6 +42,9 @@ The national K-8 MAP Growth sector comparison reports that sector differences in
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Catholic school students in earlier grades show less academic-year growth than public school peers in both reading and math](early-grades-catholic-less-growth-reading-math.md) — a narrower finding that bears on this claim
 - [In middle school, academic-year growth in math was comparable across Catholic and public school sectors](middle-school-math-growth-comparable-sectors.md) — a narrower finding that bears on this claim

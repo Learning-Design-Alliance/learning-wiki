@@ -12,7 +12,7 @@ generated:
 # Bloom's Taxonomy
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (3 for, 1 mixed, 2 against) · 5 studies (3 design, 2 associational), `q1`–`q2` · 0 of 5 report an effect size · 6 claims rest on one study
+> **Evidence** · 9 claims (4 for, 3 mixed, 2 against) · 8 studies (3 causal, 3 design, 2 associational), `q1`–`q3` · 0 of 8 report an effect size · 9 claims rest on one study
 
 ## Description
 Benjamin Bloom (1913-1999), working with his mentor Ralph W. Tyler at the University of Chicago and with collaborators Engelhart, Furst, Hill, and Krathwohl, published *Taxonomy of Educational Objectives: Handbook I, The Cognitive Domain* in 1956, followed by a second handbook on the affective domain in 1964 (Krathwohl, Bloom, & Masia, 1973). Bloom et al. (1956) identified three domains of educational goals — often summarized as **KSA**:
@@ -89,6 +89,11 @@ As Morshead (1965) pointed out on publication of the affective-domain handbook, 
 - [LLM-assigned difficulty labels fail to predict empirical item difficulty in classroom retrieval practice (ρ=0.06), as do co-generated Bloom levels (ρ=0.02)](../claims/llm-difficulty-labels-fail-to-predict-empirical-item-difficulty.md) [-W]
 - [Dual-Lens attention aligns with expert pedagogical focus, allocating most weight to Bloom's taxonomy verbs and problem-solving steps](../claims/dual-lens-attention-aligns-expert-pedagogical-focus.md) [+W]
 - [Higher self-assessment, verbosity, reflective processing, and technical abstraction are associated with greater response complexity, and Evaluation and Analysis questions tend to yield more complex responses](../claims/ols-complexity-predictors.md) [+W]
+
+## The evidence by question
+- *Are questions at higher Bloom levels harder for learners, as the taxonomy's hierarchy assumes?* [Students perform better overall on LOCS exam questions than on HOCS exam questions](../claims/locs-exam-questions-outperform-hocs.md) [+M]
+- *Can a model tag questions by Bloom level reliably enough to use the tags in a course?* [Supervised ML/DL Bloom question classifiers trained on one dataset drop substantially in weighted F1 when tested on unseen datasets](../claims/supervised-bloom-classifiers-degrade-cross-dataset.md) [~M]
+- *Can a language model write or rewrite questions at a targeted Bloom level?* [LLMs show a directional asymmetry in educational control: they reliably increase cognitive demand but struggle to lower it](../claims/llm-upward-cognitive-shift-asymmetry.md) [~M]
 
 ## Related Theories
 

@@ -30,7 +30,7 @@ sources:
 # Grader errors dominate audited rejections on benchmarks using rule-based evaluators (PHYBench and PRISM-Physics)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r?` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r?` · `q2`
 
 ## Subclaims
 `q2 i?` On PHYBench's audit set, 40 of 56 rejected questions are grader errors, versus 13 benchmark errors and 3 model errors. [→ Ali Ansari 2026](#ali-ansari-2026)

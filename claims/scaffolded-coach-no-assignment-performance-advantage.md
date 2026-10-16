@@ -41,8 +41,9 @@ Descriptive comparison in a seven-week pilot with 33 master's students randomly 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Students in the Coach condition reported higher confidence in their own competence and a larger confidence gain over the seven weeks than unrestricted-AI students](coach-condition-higher-confidence-gains.md) — related
 - [The Coach's hint budget was managed poorly: students split into early-spenders and savers, and within the Coach condition only those with a deliberate hint strategy scored higher](hint-budget-mismanaged-two-patterns.md) — related
 - [Students with the best self-taught understanding of how language models work used AI tools most deliberately and achieved the highest assignment scores](self-taught-model-understanding-highest-scores.md) — related

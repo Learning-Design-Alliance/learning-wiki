@@ -12,7 +12,7 @@ generated:
 # Sociocultural Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (5 for, 2 mixed, 1 against) · 11 studies (4 review, 2 quant-synthesis, 2 associational, 1 causal, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 11 report an effect size · 6 claims rest on one study
+> **Evidence** · 11 claims (8 for, 2 mixed, 1 against) · 16 studies (6 review, 5 quant-synthesis, 2 associational, 1 causal, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 16 report an effect size · 7 claims rest on one study
 
 ## Description
 Sociocultural theory originates in the work of Russian psychologist Lev Vygotsky (1924–1934) and holds that human development and higher-order thinking originate in social, historical, and cultural interaction rather than inside an isolated individual mind. Vygotsky summarized this as a developmental law: "Every function in the child's cultural development appears twice: first, on the social level, and later, on the individual level; first between people (interpsychological) and then inside the child (intrapsychological)" (Vygotsky, 1978, p. 57). Development is a transformation of participation in shared social activity, not a transmission of discrete facts or skills (Polly et al., 2018).
@@ -73,6 +73,11 @@ A related developmental mechanism is **private speech**: children's habit of tal
 - [Four reviewed CAs explicitly integrate pedagogical theories, including the Vygotskian perspective, the 4C/ID model, scaffolding, and gamification](../claims/four-cas-integrate-pedagogical-theories.md) [+W]
 - [Scaffolding level provides no consistent additional predictive information about subsequent exam performance beyond prior achievement and observed dialogue behavior](../claims/scaffolding-little-incremental-exam-prediction.md) [-W]
 - [Most language-learning apps focus on cognitive processes and receptive skills, lacking sociocognitive and collaborative activities](../claims/apps-focus-cognitive-receptive-skills-lack-collaboration.md) [+W]
+
+## The evidence by question
+- *Does support during an attempt improve later learning compared with attempting unsupported, and for which learners, contexts and outcomes?* [Scaffolding improves learning](../claims/scaffolding-improves-learning.md) [+S]
+- *Does working jointly on a task raise achievement over working alone or instruction without group work?* [Collaborative Learning Improves Outcomes](../claims/collaborative-learning-improves-outcomes.md) [+S]
+- *Does assessing what a learner can do with mediation (dynamic assessment of the zone of proximal development) reveal more than a static test?* [Dynamic assessment reflects young children's learning potential more accurately than static tests, especially with minority and learning disabled children](../claims/da-more-accurate-than-static-tests-young-children.md) [+M]
 
 ## Related Theories
 

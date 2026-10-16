@@ -30,7 +30,7 @@ sources:
 # Student performance on design problems correlates negligibly with traditional project grades, suggesting DPs capture distinct transfer-oriented HOT dimensions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Spearman's correlation between project and DP grades was negligible across all three courses, ranging from −0.05 to 0.03. [→ Ahmad D. Suleiman 2026](#ahmad-d-suleiman-2026)

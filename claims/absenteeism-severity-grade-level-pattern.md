@@ -40,5 +40,8 @@ The review reports, citing Balfanz and Byrnes (2012), a developmental pattern of
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [California kindergarten English learners' chronic absenteeism nearly tripled from 14.5 percent in 2018–19 to 43.1 percent in 2021–22, easing only gradually to 37.1 percent in 2022–23](california-kindergarten-english-learners-absence-tripled.md) — related

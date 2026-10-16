@@ -41,7 +41,8 @@ System-level quality analysis comparing the two pedagogical-judgment dimensions 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI-generated assessment items frequently need faculty correction, supporting AI as a draft generator within quality assurance](genai-assessment-items-draft-generator-quality-assurance.md) — the general claim this finding bears on, with the studies behind it
 - [Concept alignment achieves the highest success rate (98.6%) among the seven dimensions, attributed to the RAG-based design](code-gen-concept-alignment-highest-success.md) — related
 - [CODE-GEN achieves human-validated success rates of 79.9% to 98.6% across seven pedagogical evaluation dimensions](code-gen-success-rates-seven-dimensions.md) — related

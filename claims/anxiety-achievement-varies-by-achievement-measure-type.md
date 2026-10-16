@@ -41,11 +41,13 @@ Meta-analytic moderator analyses of the 216 correlations found heterogeneity "ac
 
 ## Discussion
 
-
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — predictor: learners who differ on it differ in outcomes
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](math-anxiety-degrades-performance.md) — the general claim this finding bears on, with the studies behind it
 - [The anxiety–achievement correlation varies across educational levels, target languages, and anxiety types](anxiety-achievement-moderators-levels-languages-anxiety-types.md) — related
 - [Type of achievement measure moderates the correlation only when laboratory measures are excluded; course-exam correlation drops to r = .04](achievement-measure-moderator-lab-exclusion.md) — related
 - [L2 anxiety is negatively correlated with L2 achievement, with a mean correlation of r = −.36 across 216 effect sizes](l2-anxiety-negative-correlation-achievement-meta-analysis.md) — related

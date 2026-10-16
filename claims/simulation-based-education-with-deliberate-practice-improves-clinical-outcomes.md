@@ -43,13 +43,18 @@ Systematic review and meta-analysis of 3,742 identified articles, of which 14 me
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does training built around deliberate practice (mastery standards, feedback on each attempt, repetition) beat ordinary training?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **3 distinct studies** (2 quant-synthesis, 1 causal), `q2`–`q4`, 2 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does training built around deliberate practice (mastery standards, feedback on each attempt, repetition) beat ordinary training?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **8 distinct studies** (5 quant-synthesis, 2 causal, 1 theoretical), `q2`–`q4`, 4 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [McGaghie et al. 2011](https://doi.org/10.1097/acm.0b013e318217e119) | q3 · quant-synthesis · r? | i2 · medium effect, d=0.71 | this claim |
 | [Cook et al. 2011](https://doi.org/10.1001/jama.2011.1234) | q4 · quant-synthesis · r3 | i3 · large effect, pooled effect sizes 1.09–1.20 for knowledge and skills; 0.79–0.81 for behaviors | [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) (qualifies) |
 | Do 2024 | q2 · causal · r1 | i? | [Deliberate practice interventions produce higher real estate licensing exam pass rates tha](deliberate-practice-raises-licensing-pass-rate.md) (supports) |
+| [Kulik et al. 1990](https://doi.org/10.3102/00346543060002265) | q4 · quant-synthesis · r? | i2 · medium effect, mean ES = 0.52 SD (SE 0.033) across 103 studies of examination performance | [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) (supports) |
+| [Macnamara et al. 2014](https://doi.org/10.1177/0956797614535810) | q3 · quant-synthesis · r? | i? | [Accumulated deliberate practice is associated with performance, explaining a domain-depend](deliberate-practice-improves-performance.md) (qualifies) |
+| [Joshua Wedlock & Christopher Binnie 2025](https://doi.org/10.55593/ej.29115a5) | q2 · theoretical · r3 | i? | [Accumulated deliberate practice is associated with performance, explaining a domain-depend](deliberate-practice-improves-performance.md) (qualifies) |
+| [Dillon 2023](https://doi.org/10.15858/engtea.78.1.202303.3) | q2 · causal · r2 | i? | [Amount of ASR practice (days per week, session length) showed no observable difference in ](no-dose-response-asr-practice-time.md) (qualifies) |
+| [Ngo et al. 2024](https://doi.org/10.1017/s0958344023000113) | q3 · quant-synthesis · r2 | i2 · medium effect, g=0.69 | [Amount of ASR practice (days per week, session length) showed no observable difference in ](no-dose-response-asr-practice-time.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

@@ -30,7 +30,7 @@ sources:
 # Chat-driven vibe-coding builders converge on a single generate-and-check script whose dominant time cost is dead waiting for the tool
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` All seven chat-driven builders' sessions match the canonical generate-and-check loop more often than a shuffled within-person null (conformance 0.21–0.80; z = +2.8 to +6.2), and the strongest recurring motif appears about 1.89 times more often than a first-order Markov null predicts. [→ Léonard Boussioux* 2026](#leonard-boussioux-2026)

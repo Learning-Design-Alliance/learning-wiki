@@ -44,6 +44,9 @@ The digest's review section states this as an assertion about the research liter
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Mental health, especially depression, is probably the single most decisive factor in refugee language learning](depression-decisive-factor-refugee-language-learning.md) — related
 - [Learning ability does not decline with age in healthy older adults](learning-ability-does-not-decline-with-age.md) — possibly the same claim (merge candidate)

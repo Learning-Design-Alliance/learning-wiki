@@ -12,7 +12,7 @@ generated:
 # Research Design Taxonomy — Quantitative/Qualitative and Descriptive/Correlational/Experimental
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 unmarked) · 5 studies (2 review, 1 quant-synthesis, 1 associational, 1 qualitative), `q2`–`q4` · 0 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (5 for, 1 mixed, 1 unmarked) · 7 studies (2 review, 2 theoretical, 1 quant-synthesis, 1 associational, 1 qualitative), `q1`–`q4` · 0 of 7 report an effect size · 7 claims rest on one study
 
 ## Description
 **Quantitative research** typically starts with a focused research question or hypothesis, collects a small amount of data from each of a large number of individuals, describes the resulting data with statistical techniques, and draws general conclusions about a population. It is comparatively weak at generating novel, interesting research questions or providing rich description of behavior in particular situations. **Qualitative research** does the reverse: it can generate new questions and hypotheses, collects large amounts of relatively unfiltered data from a relatively small number of individuals, describes that data with non-statistical techniques, and can produce rich, detailed description of behavior in the real-world contexts where it occurs — what qualitative researchers call the "lived experience" of participants. Because the two approaches have complementary strengths, some researchers combine them into **mixed-methods research**, either by using qualitative work to generate hypotheses that quantitative work then tests, or through **triangulation** — using both approaches simultaneously on the same question and comparing results. Convergent results reinforce and enrich each other; divergent results raise a genuinely useful further question: why do they diverge, and how can that be reconciled?
@@ -45,6 +45,11 @@ People also perceive relationships between variables that don't actually exist a
 - [Among reviewed AI-personalized-learning studies, qualitative designs slightly outnumber quantitative designs, with mixed methods rare](../claims/ai-pl-review-qualitative-dominance.md) [~W]
 - [Qualitative educator interviews corroborate and explain the quantitative path findings](../claims/educator-interviews-explain-ai-learning-mechanisms.md) [+W]
 - [At baseline, mechanics-specific AI use was inversely related to course performance, but the direction of causation is indistinguishable](../claims/baseline-mechanics-ai-use-inversely-related-performance.md) [+W]
+
+## The evidence by question
+
+- *Can a correlational or other non-randomised result be read as evidence that a design choice causes the outcome?* [The RCT is considered the gold standard of research evidence because randomization ensures only the intervention could cause treatment-control outcome differences](../claims/rct-gold-standard-randomization-logic.md) [+M]
+- *Does a study's design (between- or within-subject, laboratory or field, more or less rigorous) change the size of the effect it reports?* [Variation in meta-analytic effect sizes stems from synthesists' methodological choices (inclusion criteria, data extraction, formulas, outlier handling) and from study quality](../claims/meta-analysis-variation-from-methodological-choices.md) [+W]
 
 ## Related Theories
 - [Designing a Valid Experiment](../methods/designing-a-valid-experiment.md) — the design that actually supports causal conclusions, and the mechanics of running one properly

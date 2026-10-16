@@ -30,7 +30,7 @@ sources:
 # In simulations, superficial reflection stays at consistently low frequency across all reflection-reward levels, and misuse remains negligible, indicating the main governance challenge is normalised opportunistic AI use rather than overt misconduct
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 theoretical `r2`–`r3` · `q2`
+> **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Responsible AI use with superficial reflection remains at consistently low frequency across the entire range of reflection rewards in the simulations. [→ Ndidi Bianca Ogbo 2026](#ndidi-bianca-ogbo-2026)

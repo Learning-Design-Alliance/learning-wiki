@@ -47,6 +47,8 @@ A single 11th-grade student, mentored one-on-one over a year-long independent re
 This is a single-case ethnography; every finding here describes one student's trajectory under one mentor, not a generalizable effect. The reported shift in academic engagement and grades across three years is the mentor's own retrospective account, not an independently verified or controlled measure, and could reflect many co-occurring factors besides the mentoring approach. The value of this evidence is illustrative and mechanism-generating (showing in fine detail what the reading-comprehension levels look like in practice), not confirmatory.
 
 ## Related Claims
+
+- [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](guidance-improves-inquiry-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - (none yet linked)
 - [A demonstration-plus-guided-inquiry-plus-computational-model sequence helped most students predict increasing gravitational-wave frequency, but only about half predicted increasing amplitude](guided-inquiry-computational-model-overcomes-amplitude-misconception.md) — related
 - [Repeating one short lesson six times with small groups gave the mentee repeated opportunities to review and modify her classroom management strategies and build confidence](repeated-short-lessons-scaffold-mentee-behaviour-management.md) — related

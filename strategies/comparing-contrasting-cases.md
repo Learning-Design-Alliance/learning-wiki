@@ -13,7 +13,7 @@ generated:
 # Comparing Contrasting Cases
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (3 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 4 report an effect size
+> **Evidence** · 5 claims (3 for, 2 mixed) · 12 studies (6 causal, 3 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 12 report an effect size
 
 ## Description
 Learners examine two or more cases that differ on one or more critical dimensions and are prompted to explain *why* they differ. The comparison surfaces deep features that any single case leaves invisible — variation across cases isolates what matters. The strategy is often used as a preparation phase: learners struggle productively with the contrast before being told the canonical explanation.

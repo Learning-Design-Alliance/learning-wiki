@@ -41,6 +41,9 @@ Comparative analysis of CPS and national ACT data by GPA band and race/ethnicity
 
 ## Discussion
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — the general claim this finding bears on, with the studies behind it

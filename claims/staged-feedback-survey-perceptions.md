@@ -30,7 +30,7 @@ sources:
 # In a self-selected survey, students favored delayed disclosure and agency, but 39.3% found the system too indirect and 42.9% reported repetition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Among 28 survey respondents, 18 (64.3%) agreed they could make their own design decisions and 21 (75.0%) disagreed that the system revealed too much information too early. [→ Sara Riazi and Pedram Rooshenas 2026](#sara-riazi-and-pedram-rooshenas-2026)

@@ -41,8 +41,12 @@ Regression analyses controlling for school size, pre-reform achievement, student
 
 ## Discussion
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Schools with strong essential supports were more likely to sit in communities with strong social capital, low crime, and low density of abused or neglected children](strong-supports-linked-community-social-capital-low-crime.md) — the general claim this finding bears on, with the studies behind it
 - [School improvement rates varied by community type: Latino, racially diverse, and integrated schools improved disproportionately, while stagnation concentrated in predominantly African-American low-income communities](improvement-rates-vary-community-racial-composition.md) — related
 - [During Phase I reform, a subset of very disadvantaged, racially isolated African-American schools showed weak improvement](phase-one-weak-gains-disadvantaged-schools.md) — related
 - [English learner program type, student mobility, discipline rates, and teacher experience were not statistically significant predictors and were removed from the final model](nonsignificant-predictors-removed-model.md) — related

@@ -41,6 +41,7 @@ Theoretical argument in the article's section on automation bias and the fluency
 
 ## Discussion
 
-
 ## Related Claims
+
+- [ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users](chatgpt-reduced-differentiation-verification.md) — the general claim this finding bears on, with the studies behind it
 -

@@ -30,7 +30,7 @@ sources:
 # The environment produced 482 memory-recorded output-proxy events (5.02 per active day) across 10 artifact-surface categories spanning research, teaching, software, content, and operations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q1`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Memory-derived records identified 482 output-proxy events, an output-proxy rate of 5.02 events per active day. [→ Anas H. Alzahrani 2026](#anas-h-alzahrani-2026)

@@ -42,8 +42,12 @@ The article's concluding synthesis, an authors' interpretation connecting proces
 
 ## Discussion
 
+## Learner Variables
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — the general claim this finding bears on, with the studies behind it
 - Low anxiety, high self-confidence, and motivation are presented as affective variables facilitating L2 acquisition — related
 - Comprehensible input in natural language contexts is presented as essential to second language acquisition — related
 - [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — related

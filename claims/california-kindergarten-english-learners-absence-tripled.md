@@ -42,6 +42,9 @@ Figure 2 of the brief, using California Department of Education DataQuest absent
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Chronic absence among students in foster care peaked after the pandemic, with nearly half chronically absent in 2021–22](foster-care-chronic-absence-peaked.md) — related
 - [In Western states during 2022–23, multilingual learners' chronic absence averaged 34.3 percent versus 28.9 percent for all students](western-states-34-3-percent-english-learner-absence.md) — related

@@ -41,8 +41,9 @@ Qualitative thematic analysis of student portfolios tracking conceptual error de
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — the general claim this finding bears on, with the studies behind it
 - [A procedural \"answer is coming\" interpretation of the equals sign leads students to chain arithmetic and errors on missing-number equations](answer-coming-equals-sign-misconception.md) — related
 - [Guided ASR practice did not produce statistically significant improvement in any specific pronunciation error type, with some errors unimproved or regressed](asr-specific-error-types-no-significant-gains.md) — related
 - [In a 16-week quasi-experiment, A-Level STEM students receiving high-frequency automated marking scored 16.8 percentage points higher on a blind-graded final mock exam than control students with human marking](automated-marking-16-point-mock-gain-a-level-stem.md) — related

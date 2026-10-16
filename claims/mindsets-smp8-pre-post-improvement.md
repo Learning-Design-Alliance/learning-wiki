@@ -42,6 +42,9 @@ Pre–post CLMM on the Repeated Reasoning dataset with a challenge random interc
 ## Discussion
 
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Students showed a large, statistically significant increase in engagement from pre- to post-intervention in the 5-week Mindsets program (d ≈ 1.11)](mindsets-engagement-pre-post-increase.md) — related
 - [Students showed a large, statistically significant pre-to-post improvement in ability to reason (SMP 2) in the Mindsets program (d ≈ 1.20)](mindsets-smp2-pre-post-improvement.md) — related

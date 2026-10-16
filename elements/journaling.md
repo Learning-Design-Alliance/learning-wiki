@@ -13,7 +13,7 @@ generated:
 # Journaling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (3 for, 3 mixed, 1 against) · 2 studies (1 causal, 1 design), `q2`–`q3` · 1 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 10 claims (6 for, 3 mixed, 1 against) · 7 studies (3 causal, 2 quant-synthesis, 1 review, 1 design), `q2`–`q4` · 4 of 7 report an effect size · 9 claims rest on one study
 
 ## Description
 Journaling is the element in which learners record reflections, observations, questions, or progress over time in written form. It is useful when learning benefits from continuity, introspection, and visible documentation of change.
@@ -48,6 +48,12 @@ Journaling is the element in which learners record reflections, observations, qu
 - [Course users create their journal entries earlier relative to the daily notification, while assistant access shows no significant timing effect](../claims/course-users-earlier-journal-entry-timing.md) [+W]
 - [Educators struggled to reliably differentiate student-written from GenAI-generated reflections](../claims/educators-cannot-reliably-detect-genai-reflections.md) [-W]
 - [Minority of undergraduate health science students reported using GenAI for reflective writing, mostly to support rather than replace reflection](../claims/minority-health-students-genai-reflective-writing.md) [~W]
+
+## The evidence by question
+
+- *Does keeping a reflective journal or doing regular written reflection improve learning over instruction without it?* [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [+M]
+- *Do task-specific reflection prompts produce better learning or reflection than an open invitation to write?* [Reflective Practice Improves Outcomes When Structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+S]
+- *Does an AI journaling assistant help learners keep a journal, and should it ask questions rather than write for them?* [Question-driven AI journaling increases intrinsic motivation and acting confidence among actors](../claims/question-driven-ai-journaling-raises-motivation-confidence.md) [+M]
 
 ## Related Elements
 - [Individual Reflection](individual-reflection.md)

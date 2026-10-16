@@ -39,6 +39,20 @@ Engeström, R., & Käyhkö, L. (2021). A critical search for the learning object
 
 A Finnish public middle school ran an annual entrepreneurship "fair course" connecting students with local entrepreneurs and municipal decision-makers, analyzed using [cultural-historical activity theory](../theories/cultural-historical-activity-theory.md). Using video/audio recordings, interviews, student reports, and a researcher-facilitated "future forum" discussion, the authors traced how each group of participants (students, teachers, entrepreneurs, municipal officers) made meaning of the shared activity. Without a disciplinary knowledge system to anchor the course's content, the dominant meaning system that emerged was "money-making" — students prioritized profit and declined to share proceeds with outside partners, framing entrepreneurship as a value-neutral economic activity rather than engaging its political or ideological dimensions. A subsequent researcher-designed intervention (a mixed-stakeholder "future forum" discussion) surfaced an alternative "internal entrepreneurship" framing only after explicit facilitation prompted participants to reflect together.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*When several groups act on a shared task, does the learning object stay what the design intended, and what keeps it from narrowing?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **5 distinct studies** (4 qualitative, 1 theoretical), `q1`–`q2`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Engeström & Käyhkö 2021](https://doi.org/10.1080/10508406.2021.1908296) | q1 · qualitative · r2 | i? | this claim |
+| Gilbert 1999 | q2 · theoretical · r3 | i? | [Individual user goals, such as avoiding cognitive load, can contradict the objectives of t](user-goals-contradict-educational-objectives.md) (supports) |
+| [Rantavuori 2016](https://doi.org/10.14786/flr.v4i3.174) | q2 · qualitative · r? | i? | [Object formation in the meeting was iterative and non-linear: the proposed germ cell of 'm](object-formation-iterative-germ-cell-encapsulated.md) (supports) |
+| [Murphy 2009](https://doi.org/10.19173/irrodl.v10i3.579) | q2 · qualitative · r2 | i? | [In web-based high-school distance education, e-teachers widened the object of their teachi](e-teachers-widen-object-toward-independent-learning.md) (qualifies) |
+| Nelson 2001 | q2 · qualitative · r2 | i? | [Some students expanded and generalized class tools and rhetorical concepts into their own ](expansion-generalization-beyond-classroom.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 This is a single interpretive case study (evidence tier q1) with no comparison condition, so it cannot establish how often or under what conditions this narrowing occurs — it demonstrates a mechanism (a boundary-crossing activity converging on the most tractable shared meaning system when conceptual scaffolding is absent), not a generalizable effect size. The intervention that did surface richer meaning ("future forum") suggests the narrowing is not inevitable and can be counteracted by structured, cross-group reflection, but that was demonstrated in the same single site. Findings should be read as a caution for [community-based learning](../principles/community-based-learning.md) and real-world project design, not as evidence that such projects fail generally.
 

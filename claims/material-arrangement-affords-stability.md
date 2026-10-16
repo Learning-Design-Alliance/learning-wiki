@@ -42,8 +42,9 @@ Qualitative analysis of the group's material setting. The author reports student
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Material choice shapes conceptual learning and who feels invited to learn](material-choice-shapes-conceptual-learning-and-participation.md) — the general claim this finding bears on, with the studies behind it
 - [Precisely coordinated transitions among spatial-orientational behavioral clusters help stabilize local patterns of student thinking](behavioral-clusters-stabilize-thinking.md) — related
 - Changes in the constraints of activity (attention, object location, interaction patterns) provide opportunities for new locally stable patterns of thinking to take hold — a broader claim this one bears on
 - Learning objects clearly lifted forward during a lesson resulted in pupils' learning, even when not the intended learning object — related

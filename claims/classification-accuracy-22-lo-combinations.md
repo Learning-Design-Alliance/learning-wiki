@@ -30,7 +30,7 @@ sources:
 # Classification accuracy met or exceeded benchmarks for 19 of 22 LO-assessment combinations, with three EMCS energy LOs below the acceptable range
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Of 22 LO-assessment combinations with data, 13 achieved good and six achieved acceptable classification accuracy; Potential Energy, Conserve Energy, and Kinetic Energy fell below 0.80. [→ Vy Le 2026](#vy-le-2026)

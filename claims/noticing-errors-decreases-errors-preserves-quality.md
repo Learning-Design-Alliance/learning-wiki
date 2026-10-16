@@ -44,6 +44,8 @@ The review reports Chandler's (2003) study of feedback about error in students' 
 
 ## Related Claims
 
+- [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — the general claim this finding bears on, with the studies behind it
+
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — the general claim this finding bears on, with the studies behind it
 - Review reports that collaborative feedback tasks improved students' writing accuracy for both low and highly proficient students (Tang & Tithecott) — related
 - Review reports that collaborative feedback tasks promoted noticing and peer dialogs enhanced meta-cognitive processing in a university ESL writing class (Riddiford) — related

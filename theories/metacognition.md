@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 47 claims (25 for, 19 mixed, 3 against) · 40 studies (17 causal, 7 review, 7 theoretical, 5 qualitative, 2 associational, 2 design), `q1`–`q4` · 6 of 40 report an effect size · 45 claims rest on one study
+> **Evidence** · 48 claims (26 for, 19 mixed, 3 against) · 42 studies (18 causal, 7 review, 7 theoretical, 5 qualitative, 2 associational, 2 design, 1 quant-synthesis), `q1`–`q4` · 7 of 42 report an effect size · 45 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -89,6 +89,11 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Students hit a metacognitive ceiling, endorsing high-level creation more frequently than the hardest metacognitive and evaluative thresholds in their ordering](../claims/student-metacognitive-ceiling-genai.md) [~W]
 - [Sketching during reading yielded the most accurate comprehension monitoring, with significantly less absolute error than photograph, no-image, and animation conditions](../claims/sketching-most-accurate-monitoring-absolute-error.md) [+M] — attached 2026-10-15 from Wiley (2019), which proposed "Deception account of seduction effects on comprehension monitoring"; tests this page's relationship.
 - [Readers in all conditions except sketching were overconfident, with the most overconfidence in the photograph condition and the least in the sketching condition](../claims/overconfidence-all-conditions-except-sketching.md) [+M] — attached 2026-10-15 from Wiley (2019), which proposed "Deception account of seduction effects on comprehension monitoring"; tests this page's relationship.
+
+## The evidence by question
+
+- *Can learners' own monitoring be trusted, and can it be trained?* [Self Assessment Accuracy Is Low Without Training](../claims/self-assessment-accuracy-is-low-without-training.md) [+S]
+- *Does working with AI make learners' judgments of their own knowledge, effort and performance less accurate, and what restores them?* [Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong](../claims/ai-access-inflates-confidence.md) [+M]
 
 ## Related Theories
 

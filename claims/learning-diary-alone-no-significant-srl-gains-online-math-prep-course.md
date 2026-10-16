@@ -43,6 +43,8 @@ Planned pre-to-post gain contrasts in the randomized four-group trial: "Groups C
 
 ## Related Claims
 
+- [Keeping a structured learning diary without further intervention did not improve university students' self-regulation](learning-diary-alone-no-self-regulation-gain.md) — the general claim this finding bears on, with the studies behind it
+
 - [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — the general claim this finding bears on, with the studies behind it

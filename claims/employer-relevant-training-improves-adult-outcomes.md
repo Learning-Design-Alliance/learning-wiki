@@ -56,7 +56,8 @@ The fourth principle cites research on job relevance, quoted secondhand: "the mo
 
 ## Discussion
 
-
 ## Related Claims
+
+- [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](personalized-problem-contexts-boost-engagement-grades-4-8.md) — the general claim this finding bears on, with the studies behind it
 - [Finding another job (29.1%) and low apprenticeship pay (13.9%) are the largest barriers to completing the LC101 apprenticeship phase](job-and-pay-largest-apprenticeship-barriers.md) — related
 - [Interest alignment is highest among course completers while economic motivations (higher pay, better benefits, increased stability) are highest among non-completers](interest-alignment-vs-economic-motivations-persistence.md) — related

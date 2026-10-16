@@ -56,8 +56,9 @@ Same longitudinal survey analysis (Lowell, 2022); the review notes confidence in
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](fifty-hours-content-specific-pd.md) — the general claim this finding bears on, with the studies behind it
 - [The two-week SCIS workshop shifted participants' concerns from lower-stage nonuser patterns toward higher-stage user patterns](workshop-shifts-concerns-toward-user-profile.md) — related
 - [Relationship-focused PD shifts teacher conceptions of rigor and safety in argumentation instruction](relationship-focused-pd-shifts-teacher-conceptions-of-rigor-and-safety.md) — related
 - [A half-day workshop featuring the PPH framework significantly increased dietitians' confidence to undertake pro-environmental change in their personal and professional lives](pph-workshop-increases-dietitians-pro-environmental-confidence.md) — related

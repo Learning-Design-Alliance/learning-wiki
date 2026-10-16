@@ -60,8 +60,9 @@ Interaction of prior study and feedback on intrusions, F(4,138) = 5.88, ηp² = 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — the general claim this finding bears on, with the studies behind it
 - [Feedback improves confidence calibration, and prior lure exposure inflates confidence in intrusions](feedback-improves-confidence-calibration.md) — related
 - [Feedback on a multiple-choice test sharply reduces lure intrusions on a later cued recall test, with immediate and delayed schedules equally effective](feedback-reduces-lure-intrusions.md) — related
 - [Providing feedback after initial multiple-choice tests cut lure intrusions on final short-answer tests roughly in half, with immediate and delayed feedback equally effective](feedback-after-multiple-choice-tests-halves-lure-intrusions.md) — related

@@ -61,8 +61,11 @@ The synthesis reports that collaboration toward a common goal, rather than split
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
+
+- [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Tablet-PC-supported peer-assisted learning reduced EFL learners' anxiety and promoted motivation and confidence in collaborative reading](tablet-pc-peer-assisted-learning-reduces-anxiety.md) — a narrower finding that bears on this claim
 - [Quality of staff-student and staff-parent relationships most strongly defines safe schools, with disadvantaged high-relationship schools feeling safer than advantaged low-relationship schools](relationship-quality-defines-safe-schools.md) — related
 - [Schools where students report feeling more safe, supported, and challenged show stronger academic and social-emotional growth, and student reports predict future school improvement](student-reports-safe-supported-challenged-growth.md) — a broader claim this one bears on

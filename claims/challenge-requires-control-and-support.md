@@ -58,6 +58,19 @@ The same statistical modeling of classroom instruction showed challenge alone is
 
 > "Increasing challenge does not lead  to more learning unless teachers can maintain high levels of classroom control. Furthermore, grades decline with higher challenge unless  teachers increase the level of support they give  students."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does raising the challenge of tasks help learners only when support comes with it?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **4 distinct studies** (2 theoretical, 1 associational, 1 review), `q1`–`q2`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Stevens 2014 | q2 · associational · r2 | i? | this claim |
+| Allensworth 2018 | q2 · review · r? | i? | [Students show the highest learning gains in classes that are both challenging and where st](challenge-plus-support-highest-gains.md) (supports); [Introducing more challenging work without sufficient supports or attention to students' em](unsupported-challenge-backfires.md) (supports) |
+| Carder 1996 | q1 · theoretical · r2 | i? | [Imbalanced challenge and support causes novice library learners to give up or remain depen](challenge-support-imbalance-effects-novice-learners.md) (supports) |
+| Barbara Jones 2024 | q1 · theoretical · r2 | i? | [Learning pitched at the edge of students' current abilities — the ZPD — is more effective ](zpd-edge-learning-english-learners.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

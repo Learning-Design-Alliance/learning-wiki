@@ -41,8 +41,9 @@ The article's re-analysis of the observational Course Signals evaluation by Arno
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI-powered predictive analytics improves academic performance by enabling early identification of at-risk students and timely intervention](ai-predictive-analytics-improves-academic-performance.md) — the general claim this finding bears on, with the studies behind it
 - Most non-STAR studies could not be used in the synthesis because of high risk of bias, chiefly confounding — related
 - [Propensity score stratification using multilevel models reduces selection bias from confounding variables and improves accuracy of charter school effect estimations](propensity-stratification-multilevel-reduces-selection-bias.md) — related
 - [Randomized experiments de-confound by deleting back-door paths, but imperfect compliance can reintroduce confounding](rct-deconfounding-arrow-deletion.md) — related

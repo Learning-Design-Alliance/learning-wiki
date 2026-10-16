@@ -60,6 +60,9 @@ Socratic questioning is the element in which prompts are used to probe assumptio
 - [In an immediate post-test design, participants with an unrestricted chatbot achieved significantly higher learning deltas than participants with a Socratic chatbot (d = 0.80) or an EEG-adaptive exercise system (d = 0.85)](../claims/unrestricted-chatbot-higher-learning-delta-than-socratic-and-adaptive.md) [-W]
 - [LLM participant agents clarify stage goals, keep discussions on topic, and prompt deeper ethical reflection](../claims/llm-participants-stage-goal-clarification.md) [+W]
 
+## The evidence by question
+- *Does a tutor that answers with guiding questions, rather than giving answers or explanations, produce more learning?* [In an immediate post-test design, participants with an unrestricted chatbot achieved significantly higher learning deltas than participants with a Socratic chatbot (d = 0.80) or an EEG-adaptive exercise system (d = 0.85)](../claims/unrestricted-chatbot-higher-learning-delta-than-socratic-and-adaptive.md) [-M]
+
 ## Related Elements
 - [Conceptual Questioning](conceptual-questioning.md)
 - [Class Discussion](class-discussion.md)

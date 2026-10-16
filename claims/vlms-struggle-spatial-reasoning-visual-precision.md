@@ -30,7 +30,7 @@ sources:
 # All evaluated models struggle with spatial reasoning and precise visual replication on Turtle Graphics tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` All models struggle with spatial reasoning — reasoning about relative positions, distances, angles, and sizes of patterns in the image. [→ Chao Wen 2026](#chao-wen-2026)

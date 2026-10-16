@@ -38,7 +38,7 @@ sources:
 # CogEvolution's simulated learning trajectory fits the human power-law trajectory far better than baselines (R²LC 0.92 vs 0.78 PEERS, 0.45 static agents)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 design `r2` · `q2`
+> **Evidence** · 1 study (3 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` CogEvolution produces an error-rate trajectory that tightly aligns with the ground-truth human trajectory (R²LC = 0.92), with a steep drop in the first 20 steps followed by gradual stabilization. [→ Wei Zhang 2026](#wei-zhang-2026)

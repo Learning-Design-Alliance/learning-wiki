@@ -30,7 +30,7 @@ sources:
 # Most children and parents preferred gaze-based assistance over the LLM baseline
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` 15 of 22 children preferred the gaze-based condition, 4 preferred the baseline, and 3 reported no preference. [→ Zekun Wu 2026](#zekun-wu-2026)

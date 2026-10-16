@@ -41,8 +41,9 @@ The playbook's research-summary section states that "How students respond to sur
 
 ## Discussion
 
-
 ## Related Claims
+
+- [5Essentials Survey measures predict school improvement in elementary and high schools, but not all measures relate to all outcomes](5essentials-measures-positively-associated-improvement.md) — the general claim this finding bears on, with the studies behind it
 - [Strong scores and growth on the 5Essentials Survey predict student success measures including GPA, attendance, test scores, and college enrollment](5essentials-scores-predict-student-success-measures.md) — possibly the same claim (merge candidate)
 - [High schools that foster 8th-to-9th-grade student growth across multiple dimensions positively influence students' social and academic trajectories](multidimensional-growth-schools-improve-long-run-outcomes.md) — related
 - [Schools with higher 5Essentials Survey scores, especially more Supportive Environments, are more likely to reduce students' fear of bullying](supportive-environment-predicts-bullying-fear-reduction.md) — related

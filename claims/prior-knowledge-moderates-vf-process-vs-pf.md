@@ -60,11 +60,12 @@ Follow-up simple-correlation analyses within conditions: in VF-process prior kno
 
 ## Discussion
 
-
 ## Learner Variables
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — the general claim this finding bears on, with the studies behind it
 - [PF students reported more awareness of knowledge gaps than example observers, but awareness of knowledge gaps did not correlate with conceptual knowledge acquisition](knowledge-gap-awareness-not-linked-to-learning.md) — related
 - [Observing the complete problem-solving-and-failing process (VF-process) was more effective for conceptual knowledge acquisition than generating one's own failed solutions (PF) prior to instruction](vf-process-outperforms-pf-conceptual-knowledge.md) — related
 - [Students who generated their own solutions or observed the full process did not significantly outperform students who only viewed the outcomes of failed solution attempts on conceptual knowledge](pf-vf-process-not-superior-to-vf-outcome.md) — related

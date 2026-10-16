@@ -41,7 +41,8 @@ The growth modeling of district administrative data found that "dual language st
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teaching students in a language they understand benefits both language learning and broader learning](cl-teaching-in-language-students-understand-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Dual language participants grew faster than nonparticipants in math during each school year in grades 2 to 5 but lost more learning during subsequent summers](dual-language-math-faster-school-year-growth-greater-summer-loss.md) — reports the opposite
 - [In reading, dual language participants grew slightly more slowly during school years but lost less learning during summers, closing the gap with the national average](dual-language-reading-slower-school-year-growth-less-summer-loss.md) — related

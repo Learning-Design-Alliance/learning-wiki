@@ -41,11 +41,12 @@ A theoretical argument advanced in this discussion paper, not an empirical test:
 
 ## Discussion
 
-
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Teacher support is the strongest predictor of school belonging](teacher-support-strongest-predictor-school-belonging.md) — the general claim this finding bears on, with the studies behind it
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Sociocultural factors, learner motivation, self-efficacy and perceptions of the classroom environment influence FLCA learning outcomes and oral performance](flca-influences-outcomes-four-factors.md) — related

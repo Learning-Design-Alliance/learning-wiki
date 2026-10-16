@@ -43,6 +43,9 @@ This is the author's experiential claim in the WHAT NEXT? section, offered witho
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+
 ## Related Claims
 - [A Wheatstone bridge inquiry lab accomplished many of its learning goals and students seemed to enjoy it](circuit-design-inquiry-accomplished-learning-goals.md) — a narrower finding that bears on this claim
 - [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](activation-improves-learning.md) — related

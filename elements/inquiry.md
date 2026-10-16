@@ -13,7 +13,7 @@ generated:
 # Inquiry
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 13 studies (6 quant-synthesis, 3 theoretical, 2 causal, 1 review, 1 associational), `q1`–`q4` · 5 of 13 report an effect size · 2 claims rest on one study
+> **Evidence** · 9 claims (5 for, 4 mixed) · 20 studies (9 quant-synthesis, 4 review, 3 causal, 3 theoretical, 1 associational), `q1`–`q4` · 8 of 20 report an effect size · 3 claims rest on one study
 
 ## Description
 Inquiry places learners in the role of investigator: they pose or pursue questions, collect and evaluate evidence, and construct explanations with instructor support. It ranges along a continuum from structured (instructor-provided question and procedure) to open (learner-generated questions and methods), with the instructor acting as [Coaching](coaching.md) and facilitator rather than primary explainer.
@@ -55,6 +55,13 @@ Inquiry supports learning by engaging learners in knowledge construction, which 
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [AI roles in learning communities risk passivity, diminished authenticity, and overdependence if reflective inquiry is bypassed](../claims/ai-risks-when-reflective-inquiry-bypassed.md) [~W]
 - [Students' inquiry sequences differ by session: most start with Assertion questions in Session 1 (prob = 0.48) but with Instrumental/Procedural questions in Session 2 (prob = 0.43)](../claims/inquiry-state-transitions-differ-by-session.md) [~W]
+
+## The evidence by question
+
+- *Does inquiry-based teaching raise science achievement over the usual instruction?* [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+S]
+- *Does adding guidance to inquiry improve what learners learn, and does the kind of guidance matter?* [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](../claims/guidance-improves-inquiry-learning-outcomes.md) [+M]
+- *Should novices be left to discover the target content without support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~S]
+- *Does conflict-based instruction improve conceptual learning more than standard exposition?* [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+S]
 
 ## Related Elements
 

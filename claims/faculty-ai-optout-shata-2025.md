@@ -41,6 +41,7 @@ Second-hand study reported by the article: a survey of 294 full-time faculty at 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).](teacher-perceived-cost-reduces-motivation-to-use-ai.md) — the general claim this finding bears on, with the studies behind it
 - [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — related

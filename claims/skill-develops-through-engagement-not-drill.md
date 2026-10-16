@@ -43,6 +43,8 @@ Theoretical argument in section II.2 drawing on the cognitive-psychological skil
 
 ## Related Claims
 
+- [Automatization of L2 skills requires extensive practice in a consistent environment, not repetition of grammar rules as in traditional exercises](automatization-requires-practice-consistent-environment.md) — the general claim this finding bears on, with the studies behind it
+
 - [Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies](pretraining-improves-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](part-task-practice-reduces-load-for-novices.md) — reports the opposite
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](whole-task-performance-improves-transfer.md) — related

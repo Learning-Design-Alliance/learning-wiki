@@ -37,11 +37,23 @@ Domain-specific meta-analyses: nonverbal memory g = 0.24 (13 studies), WM g = 0.
 
 > "A fixed-effects analysis was therefore conducted and revealed a very small effect size ( g = 0.08, 95% CI 0.01 to 0.15, p = 0.03; Figure 4)."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Can training or practice raise working memory itself, and by how much?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **2 distinct studies** (1 quant-synthesis, 1 causal), `q1`–`q4`, 1 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Lampit A 2014](https://doi.org/10.1371/journal.pmed.1001756) | q4 · quant-synthesis · r3 | i1; i? | this claim; [Working-memory-only training shows no positive evidence of efficacy in healthy older adult](wm-only-training-ineffective-older-adults.md) (qualifies) |
+| Do 2024 | q1 · causal · r1 | i? | [Deliberate practice can expand short-term memory capacity beyond the conventional seven-it](deliberate-practice-expands-memory-capacity.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 
 ## Learner Variables
 - [Working Memory](../learner-variables/working-memory.md) — outcome: instruction changes it
+- [Executive Function](../learner-variables/executive-function.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Computerized cognitive training produces a small but statistically significant improvement in cognitive performance in healthy older adults](cct-small-significant-overall-effect-healthy-older-adults.md) — a broader claim this one bears on

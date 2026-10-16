@@ -42,8 +42,13 @@ Course-level comparison of FCI results across years of the Harvard calculus-base
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — the general claim this finding bears on, with the studies behind it
+
+- [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — the general claim this finding bears on, with the studies behind it
+
+- [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02](hake-ie-gains-two-sd-greater.md) — a broader claim this one bears on
 - [High-ability students' learning behaves as a dominant α-process even at low pretest scores, while average-ability students show more γ-process behavior](high-ability-alpha-dominant-low-pretest.md) — related
 - [CLASP students achieved an average normalized FCI gain of 0.39, above the traditional-course range and in the middle of the interactive-engagement range, despite only about a third of one quarter on mechanics](clasp-fci-normalized-gain.md) — related

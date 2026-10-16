@@ -66,7 +66,7 @@ Both studies converge on direction (cooperative > competitive/individualistic fo
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does structured cooperative group work raise achievement more than individualistic, competitive or traditional whole-class instruction?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **11 distinct studies** (6 quant-synthesis, 2 review, 2 design, 1 causal), `q1`–`q4`, 3 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does structured cooperative group work raise achievement more than individualistic, competitive or traditional whole-class instruction?* This table gathers the studies behind this claim and the 13 narrower claims that bear on it: **15 distinct studies** (7 quant-synthesis, 3 review, 3 design, 2 causal), `q1`–`q4`, 4 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -81,6 +81,10 @@ Both studies converge on direction (cooperative > competitive/individualistic fo
 | [Dietrichson 2021](https://doi.org/10.1002/cl2.1152) | q3 · quant-synthesis · r3 | i? | [In adjusted meta-regressions, peer-assisted and small-group instruction outperform compute](peer-small-group-outperform-other-methods.md) (supports) |
 | alternate-contrast | q3 · causal · r3 | i? | [The cooperative learning component's added benefit over direct instruction alone with CIRC](circ-cooperative-component-benefit-unconfirmed.md) (qualifies) |
 | [Springer et al. 1999](https://doi.org/10.3102/00346543069001021) | q4 · quant-synthesis · r2 | i2 · medium effect, d=0.51 | [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) (supports) |
+| Philadelphia Mayor's Commission on Literacy 1994 | q2 · design · r1 | i? | [Research at primary and secondary levels indicates students learn more through non-competi](collaborative-group-work-beats-competitive-classrooms-k12.md) (supports) |
+| Digital Promise and the Institute for Applied Neuroscience 2019 | q2 · review · r? | i? | [Positive learning communities and collaborative social interaction drive learning](social-connection-and-collaboration-drive-learning.md) (supports) |
+| [Graham and Perin 2007](https://doi.org/10.1037/0022-0663.99.3.445) | q3 · quant-synthesis · r? | i2 · medium effect, weighted mean ES = 0.75 (95% CI 0.54–0.97) | [Collaborative Writing Improves Text Quality](collaborative-writing-improves-text-quality.md) (supports) |
+| [Yarrow and Topping 2001](https://doi.org/10.1348/000709901158514) | q3 · causal · r2 | i? | [Collaborative Writing Improves Text Quality](collaborative-writing-improves-text-quality.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

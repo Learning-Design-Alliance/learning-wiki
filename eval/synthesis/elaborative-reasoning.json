@@ -41,6 +41,10 @@
         [
           "elaborative-interrogation-lower-posttest-than-read-twice-posterior-probability",
           "-"
+        ],
+        [
+          "elaborative-interrogation-improves-misbelief-items-pretest-posttest",
+          "+"
         ]
       ]
     },
@@ -75,6 +79,38 @@
         [
           "adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects",
           "~"
+        ],
+        [
+          "trained-elaboration-beats-question-stimulated-elaboration",
+          "+"
+        ],
+        [
+          "drawing-improves-learning",
+          "+"
+        ],
+        [
+          "elaborative-interrogation-improves-learning",
+          "+"
+        ],
+        [
+          "constructive-learning-beats-active-passive",
+          "+"
+        ],
+        [
+          "constructive-beats-passive-young-children",
+          "+"
+        ],
+        [
+          "generative-learning-reorganizing-integrating-prior-knowledge",
+          "+"
+        ],
+        [
+          "concept-mapping-improves-learning",
+          "~"
+        ],
+        [
+          "generative-strategies-boundary-conditions",
+          "~"
         ]
       ]
     },
@@ -97,6 +133,50 @@
         [
           "cohesion-no-effect-delayed-recall",
           "~"
+        ],
+        [
+          "prior-knowledge-impacts-text-understanding",
+          "+"
+        ],
+        [
+          "prior-achievement-affects-conceptual-understanding",
+          "+"
+        ],
+        [
+          "revised-visuals-no-learning-effect",
+          "+"
+        ],
+        [
+          "high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load",
+          "+"
+        ],
+        [
+          "viewing-vocabulary-learning-affected-by-frequency-prior-knowledge-cognateness",
+          "+"
+        ],
+        [
+          "procedural-prior-predicts-conceptual-post",
+          "~"
+        ],
+        [
+          "prior-biology-predicts-ai-lessons-one-two-not-three-four",
+          "~"
+        ],
+        [
+          "entrance-age-advantage-reflects-prior-skill-accumulation",
+          "+"
+        ],
+        [
+          "hake-ie-gains-two-sd-greater",
+          "~"
+        ],
+        [
+          "gamma-process-positive-gain-pretest-correlation",
+          "~"
+        ],
+        [
+          "prior-knowledge-not-related-to-performance",
+          "-"
         ]
       ]
     }

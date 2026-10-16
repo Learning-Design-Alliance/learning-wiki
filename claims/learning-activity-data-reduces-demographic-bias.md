@@ -41,8 +41,9 @@ Across the three-stage analysis of models trained on data from 215 AP Statistics
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Both prior performance flags and the machine learning algorithm are less accurate when predicting outcomes for students who are Black](ews-and-algorithm-less-accurate-black-students.md) — the general claim this finding bears on, with the studies behind it
 - [Balancing the dataset significantly improved model predictive performance but increased bias under demographic parity](data-balancing-improves-accuracy-increases-bias.md) — related
 - [Including demographic variables as predictors can reduce actionability by de-emphasizing correlated actionable risk factors and by discounting intervention effects](demographic-predictors-reduce-actionability.md) — a broader claim this one bears on
 - [Adding more learning activity data beyond Stage 1 did not significantly improve predictive performance of at-risk identification models](no-significant-performance-gain-later-stages.md) — related

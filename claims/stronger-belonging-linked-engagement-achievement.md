@@ -41,11 +41,13 @@ Narrative review attribution: the article reports Pedler et al.'s (2022) finding
 
 ## Discussion
 
-
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — predictor: learners who differ on it differ in outcomes
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Belongingness is among the factors that most strongly and reliably affect learners' academic motivation and achievement](belongingness-strongly-affects-motivation-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Learner-centered teacher–student relationships are associated with better student outcomes](teacher-student-relationships-improve-engagement.md) — related
 - [SEL Programs Improve Academic Achievement](sel-programs-improve-behavior-and-achievement.md) — related
 - [Strengthening the student-educator relationship can contribute positively to marginalised students' self-efficacy and sense of belonging in higher education](student-educator-relationship-builds-self-efficacy-and-belonging.md) — related

@@ -41,11 +41,13 @@ Pre–post percentage-point changes in platform identification from the post-int
 
 ## Discussion
 
-
 ## Learner Variables
 - [Digital Literacy](../learner-variables/digital-literacy.md) — outcome: instruction changes it
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [AI literacy interventions show a large, statistically significant overall positive effect on student AI literacy outcomes (g = 0.837)](ai-literacy-interventions-large-overall-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Both male and female students show statistically significant medium-sized gains in AI knowledge and confidence after a one-day AI literacy workshop](both-genders-gain-ai-knowledge-confidence-workshop.md) — related
 - [Female students show broader post-workshop gains than males, including significant increases in AI and computer science career interest, while male career interest remains unchanged](females-broader-gains-career-interest-narrow-gap.md) — related
 - [Deepfake behaviours show gender patterns: males more likely to have shared deepfakes, females more likely to have reported them](gender-patterns-deepfake-behaviours.md) — related

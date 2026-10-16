@@ -42,6 +42,9 @@ Descriptive subgroup analysis of the milestone rates composing the Bachelor's DA
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Projected bachelor's degree attainment is far lower for Black and Latino young men (10 and 14 percent) than the CPS district average of 20 percent](cps-attainment-gaps-black-latino-young-men.md) — related
 - [The 2017 CPS Bachelor's Degree Attainment Index is estimated at 19 percent, up from 11 percent in 2006, with the Direct Bachelor's DAI at 17 percent](cps-bachelors-dai-2017-19-percent.md) — related

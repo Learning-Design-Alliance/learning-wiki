@@ -42,6 +42,7 @@ Qualitative case-study interview from the Admiral Squad case study: a 22-year-ol
 
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — related

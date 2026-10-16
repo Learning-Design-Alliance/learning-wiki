@@ -42,6 +42,9 @@ Summary statement in the publication’s overview describing what research on IP
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application](students-want-curricular-relevance-and-life-skills.md) — related

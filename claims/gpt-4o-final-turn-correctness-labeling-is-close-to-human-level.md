@@ -39,6 +39,18 @@ Final-turn accuracy against CoMTA's ground-truth labels in the human evaluation:
 
 > "Finally, given that the average human annotator’s final turn correctness accuracy is only slightly higher than GPT-4o’s, we can conclude that the correctness labeling task is a challenging one where GPT-4o achieves close to human-level performance."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Can a large language model label whether students' responses are correct, and which skills they show, accurately enough to stand in for human annotators?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **3 distinct studies** (3 design), `q1`–`q2`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Alexander Scarlatos 2024](https://doi.org/10.48550/arxiv.2409.16490) | q1 / q2 · design · r2 | i? | this claim; [Expert former math teachers rated GPT-4o's dialogue annotations very highly for student co](expert-teachers-rate-gpt-4o-dialogue-annotations-as-largely-accurate.md) (supports); [GPT-4o's correctness-labeling errors concentrate on final turns requiring numerical calcul](gpt-4o-annotation-errors-concentrate-on-final-turns-and-too-few-kcs.md) (qualifies) |
+| [Li Lucy 2026](https://doi.org/10.48550/arxiv.2603.00925) | q2 · design · r2 | i? | [Some VLMs perform near chance on binary judgments of student correctness, and error-assess](binary-correctness-judgments-near-chance.md) (counts against) |
+| [Yoonsu Kim 2026](https://doi.org/10.48550/arxiv.2504.00843) | q2 · design · r2 | i? | [LLMs diagnose Applying skills better than Knowing skills, but with higher evidence over-at](applying-vs-knowing-skill-diagnosis-gap.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

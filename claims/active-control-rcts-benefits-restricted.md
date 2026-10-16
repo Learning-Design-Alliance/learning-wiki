@@ -41,12 +41,13 @@ Separate random effects meta-analysis of the 17 studies (n = 1,762) using an RCT
 
 ## Discussion
 
-
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
 - [Attention](../learner-variables/attention.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [The evidence base for school mindfulness interventions is promising but too variable for definitive practice recommendations](mbi-evidence-base-variability-limitation.md) — the general claim this finding bears on, with the studies behind it
 - [Publication bias is evident for Negative Behaviour and Anxiety/Stress across all RCTs and for Mindfulness in active-control RCTs, suggesting overestimation of MBI effects](publication-bias-mbi-youth-rcts.md) — related
 - [Effect sizes vary by control group type, with wait-list controls yielding the largest mean effect and no-contact controls the smallest](control-group-type-moderates-mbi-effects.md) — related
 - [Age significantly moderates MBI effects on executive functions across all RCTs (larger benefits with older age) and on negative behaviour in active-control RCTs (larger benefits with younger age)](age-moderates-mbi-outcomes.md) — related

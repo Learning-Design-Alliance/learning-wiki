@@ -78,6 +78,22 @@ Mol, S. E., & Bus, A. G. (2011). To read or not to read: A meta-analysis of prin
 
 This research synthesis meta-analysed 99 studies (N = 7,669) of leisure-time reading in preschoolers and kindergartners, in pupils in Grades 1–12, and in college and university students. Print exposure correlated moderately to strongly with reading comprehension and with technical reading and spelling. The share of variance it explained in oral language rose from 12% in preschool and kindergarten to 34% at college and university. The authors interpret the pattern as an upward spiral of causality, and conclude that shared book reading to preconventional readers may be part of a continuum of out-of-school reading experiences. The evidence is correlational and bidirectional: more proficient readers also read more.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does reading books together with young children predict their later language and reading?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **7 distinct studies** (4 quant-synthesis, 2 associational, 1 review), `q2`–`q4`, 3 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Bus et al. 1995](https://doi.org/10.3102/00346543065001001) | q3 · quant-synthesis · r? | i2 · medium effect, d=.59 | this claim |
+| [Mol et al. 2008](https://doi.org/10.1080/10409280701838603) | q3 · quant-synthesis · r3 | i2 · medium effect, d=.59 (expressive vocabulary); i2 · medium effect, d=.59 | this claim; [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) (supports) |
+| [Mol & Bus 2011](https://doi.org/10.1037/a0021890) | q3 · quant-synthesis · r? | i2 · moderate-to-strong correlations; print exposure explained 12% of variance in oral language in preschool/kindergarten | this claim |
+| [Sénéchal and Young 2008](https://doi.org/10.3102/0034654308320319) | q4 · quant-synthesis · r? | i? | [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) (supports) |
+| Gabrieli, MIT McGovern Institute | q2 · associational · r? | i? | [Conversational turn-taking predicts language development better than raw word count or soc](conversational-turns-predict-language-development.md) (qualifies) |
+| Hart and Risley 1995 | q2 · associational · r? | i? | [Conversational turn-taking predicts language development better than raw word count or soc](conversational-turns-predict-language-development.md) (qualifies) |
+| [Darling-Hammond 2018](https://doi.org/10.54300/145.655) | q2 · review · r2 | i? | [Conversational turn-taking predicts language development better than raw word count or soc](conversational-turns-predict-language-development.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Correlational core, causal questions open.** The claim as stated is predictive, not causal: most supporting evidence comes from longitudinal correlational studies linking home reading frequency to later literacy outcomes. Families who read together differ systematically from those who do not (in income, parental education, and general home literacy environment), so isolating the unique contribution of joint reading itself is difficult. Intervention studies — in which families are randomly assigned to enhanced shared-reading programs — provide the strongest causal test, and their effects tend to be smaller than raw correlations suggest, indicating part of the association reflects confounding.

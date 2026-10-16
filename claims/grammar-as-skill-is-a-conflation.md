@@ -41,8 +41,9 @@ Theoretical argument in section III. The author critiques the declarative-to-pro
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — the general claim this finding bears on, with the studies behind it
 - [Learners acquired untaught syntactic properties but failed to show sensitivity to agreement they had been explicitly taught and practiced](untaught-syntax-acquired-taught-agreement-not.md) — related
 - [All student groups preferred explicit over implicit grammar instruction](efl-students-prefer-explicit-over-implicit-grammar-instruction.md) — related
 - [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](explicit-teaching-complex-rules-only-advantage.md) — related

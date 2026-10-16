@@ -30,7 +30,7 @@ sources:
 # In one randomized working-paper experiment, conceptual-map scaffolding gave LLM-using novices marginally higher scores (p < .10) and lower score variance, with a marginal benefit concentrated among low-AIC novices
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 <!-- title before 2026-10-15: Conceptual-map scaffolding modestly improves novice LLM-condition performance and reduces outcome variance, with benefits concentrated among low-AIC novices -->
 
 ## Subclaims

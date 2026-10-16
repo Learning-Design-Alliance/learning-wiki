@@ -18,7 +18,7 @@ sources:
 # Explicit Instruction: Internet Search
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 11 claims (6 for, 5 mixed) · 27 studies (12 causal, 5 review, 3 quant-synthesis, 3 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 1 of 27 report an effect size · 4 claims rest on one study
+> **Evidence** · 12 claims (7 for, 5 mixed) · 28 studies (13 causal, 5 review, 3 quant-synthesis, 3 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 2 of 28 report an effect size · 5 claims rest on one study
 
 ## Conditional relationship
 
@@ -121,6 +121,9 @@ No claim in the wiki compares explicit search instruction with unguided explorat
 - [One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments](../claims/checklist-evaluation-ineffective-online.md) [~M]: **limits the model.** In one-shot library sessions with first-year business and nursing students, a checklist and an alternative method did not differ on quizzes or accuracy, both gave modest gains, and learners in both groups kept leaning on domain names and design. It concerns evaluation rather than searching, but it is the only evidence here on one-session information-skills teaching, and it suggests that a single session of explicit teaching changes habits only partly, whatever is taught. It also warns that search results judged by surface cues stay misleading however good the query.
 
 Learners, tasks and settings differ across these claims (writing revision, mathematics tutoring, workers' information seeking, credibility judgments), so do not rank them by effect label. None measures search performance, and none follows learners beyond a month for searching.
+
+## The evidence by question
+- *When learners research a question, does searching with a web search engine lead to deeper learning than asking a generative AI chatbot or reading an AI summary?* [Students using Google produce higher-quality justifications in their final recommendations than students using ChatGPT 3.5](../claims/web-search-higher-quality-justifications-than-llm.md) [+M]
 
 ## Further evidence, not yet read against this model
 

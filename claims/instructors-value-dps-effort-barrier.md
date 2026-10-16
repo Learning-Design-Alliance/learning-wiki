@@ -30,7 +30,7 @@ sources:
 # Instructors value design problems for assessing higher-order thinking in PjBL but cite creation effort and scalability as adoption barriers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` All 31 surveyed instructors supported the potential of DPs to assess HOT in PjBL, with 71.0% indicating clear agreement and 29.0% agreeing with caveats. [→ Ahmad D. Suleiman 2026](#ahmad-d-suleiman-2026)

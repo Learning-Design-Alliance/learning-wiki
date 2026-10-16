@@ -7,6 +7,26 @@
       "question": "Do markers scoring the same responses agree, and do written criteria bring their judgements closer?",
       "members": [
         [
+          "human-inter-rater-disagreement-exceeds-margin",
+          "+"
+        ],
+        [
+          "human-inter-rater-agreement-imperfect-upper-bound",
+          "+"
+        ],
+        [
+          "human-inter-rater-benchmark-icc-above-089-essays",
+          "~"
+        ],
+        [
+          "hts-rubrics-good-inter-rater-consistency",
+          "~"
+        ],
+        [
+          "rubric-wording-lower-grading-variance",
+          "~"
+        ],
+        [
           "engineering-rubric-low-scoring-reliability",
           "+"
         ],

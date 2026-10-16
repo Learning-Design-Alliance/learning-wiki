@@ -42,8 +42,9 @@ PFA-based logistic regression of practice data (5,696 observations, 178 particip
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Pretesting enhances learning](pretesting-enhances-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Higher self-reported confusion predicts a much larger negative effect on future performance when learners answer more questions incorrectly](confusion-amplifies-negative-effect-of-incorrect-trials.md) — related
 - Successful retrieval practice of more difficult items (short answer, applied) yields greater future predicted success than successful retrieval of easier items (multiple choice, factual) — related
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — a broader claim this one bears on

@@ -41,6 +41,7 @@ Reported experience from two iterations of a large online class using peer and s
 
 ## Discussion
 
-
 ## Related Claims
+
+- [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — the general claim this finding bears on, with the studies behind it
 - [Aggregating peer grades with the median improves agreement with staff grades compared with unaggregated peer grades](median-aggregation-improves-peer-grade-agreement.md) — related

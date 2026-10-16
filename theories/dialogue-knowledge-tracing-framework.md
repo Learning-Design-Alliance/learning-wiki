@@ -47,6 +47,9 @@ DialogueKT is the task the article proposes, which "analyzes student discourse w
 - [Learned difficulty parameters show a moderate positive correlation with empirical KC difficulty on QATD2k](../claims/learned-difficulty-correlates-empirical-difficulty.md) [+M] — attached 2026-10-11 from Shuyan Huang et al. (2026), which proposed "Interpretable difficulty-aware conversational knowledge tracing framework (knowledge estimator + difficulty estimator + IRT-based predictor)".
 - [Separating ability estimation from correctness prediction yields smoother, more stable learning trajectories than probability-based mastery estimation](../claims/ability-difficulty-separation-stable-learning-trajectories.md) [+W] — attached 2026-10-11 from Shuyan Huang et al. (2026), which proposed "Interpretable difficulty-aware conversational knowledge tracing framework (knowledge estimator + difficulty estimator + IRT-based predictor)".
 
+## The evidence by question
+- *Can an LLM-based knowledge tracing model estimate what a student knows from a tutoring dialogue more accurately than standard knowledge tracing, and how accurate is it in absolute terms?* [LLMKT outperforms existing knowledge tracing methods at predicting student turn correctness in the CoMTA and MathDial tutoring dialogue datasets, and generally outperforms DKT-Sem.](../claims/llmkt-outperforms-existing-kt-methods-on-tutoring-dialogues.md) [+M]
+
 ## Related Theories
 - Formative Assessment
 - Mastery Learning

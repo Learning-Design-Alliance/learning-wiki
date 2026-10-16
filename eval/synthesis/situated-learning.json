@@ -1,0 +1,52 @@
+{
+  "principle": "theories/situated-learning",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "authentic-assignments-greater-itbs-gains",
+      "question": "Does instruction built around authentic tasks and contexts produce better learning and transfer than abstract, decontextualized instruction?",
+      "members": [
+        [
+          "authentic-assignments-igap-value-added",
+          "+"
+        ],
+        [
+          "high-and-low-achievers-benefit-authentic-assignments",
+          "+"
+        ],
+        [
+          "authentic-intellectual-work-complex-thinking-gains",
+          "+"
+        ],
+        [
+          "authentic-challenges-increase-engagement",
+          "+"
+        ],
+        [
+          "situated-instruction-outperformed-abstract-control-causality",
+          "+"
+        ],
+        [
+          "contextualized-teaching-facilitates-transfer",
+          "+"
+        ],
+        [
+          "whole-task-performance-improves-transfer",
+          "+"
+        ],
+        [
+          "encoding-variability-decontextualization-transfer",
+          "~"
+        ],
+        [
+          "multiple-contexts-generalization-transfer",
+          "~"
+        ],
+        [
+          "part-task-practice-reduces-load-for-novices",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

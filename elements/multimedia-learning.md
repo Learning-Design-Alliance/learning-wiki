@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (12 for, 2 mixed) · 18 studies (10 causal, 4 quant-synthesis, 3 review, 1 qualitative), `q2`–`q4` · 9 of 18 report an effect size · 11 claims rest on one study
+> **Evidence** · 15 claims (13 for, 2 mixed) · 20 studies (10 causal, 5 quant-synthesis, 4 review, 1 qualitative), `q2`–`q4` · 9 of 20 report an effect size · 11 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -51,6 +51,13 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [The signaling effect holds only for abstract animation representations: signaling significantly improved achievement over written text with abstract animation but not with concrete animation](../claims/signaling-effect-abstract-only.md) [~W]
 - [Animated videos were the easiest and most engaging Hero Elementary component to implement virtually, providing an accessible shared entry point for students with IEPs and English learners](../claims/animated-videos-easiest-engaging-virtual-component.md) [+W]
 - [Animations appear to pacify learners: static-picture groups navigated far more actively than the animation group](../claims/animations-pacify-learners-navigation-imbalance.md) [~W]
+
+## The evidence by question
+
+- *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]
+- *Should words sit next to, and arrive with, the picture they describe?* [Split Attention Effect Degrades Learning](../claims/split-attention-effect-degrades-learning.md) [+M]
+- *Should the words be spoken or printed?* [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](../claims/modality-effect-narration-over-text.md) [+S]
+- *Should continuous presentations be segmented, and does learner control of pace help?* [Segmenting Improves Multimedia Learning](../claims/segmenting-improves-multimedia-learning.md) [+M]
 
 ## Related Elements
 - [Digital Learning](digital-learning.md)

@@ -22,7 +22,7 @@ sources:
 # Audiobooks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 15 studies (5 causal, 4 review, 3 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 1 of 15 report an effect size
+> **Evidence** · 6 claims (4 for, 2 mixed) · 17 studies (5 causal, 5 review, 4 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 2 of 17 report an effect size
 
 ## Description
 Audiobooks present written content as narrated audio, giving learners an alternative or complementary channel for accessing the same verbal material. They function both as an accommodation for learners with decoding difficulties and as a general instructional element for building vocabulary, background knowledge, and listening comprehension.
@@ -79,6 +79,9 @@ Listening comprehension and reading comprehension draw on shared language proces
 - Learners understand more when listening is paired with prompts, notes, or explanation rather than treated as background exposure [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — audiobooks can reduce the processing burden of print decoding, especially when paired with visible chunking or text highlighting
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — guided read-alouds and audio-supported reading work best when instructors respond to confusion with prompts, clarifications, and replay
+
+## The evidence by question
+- *Does a learner who listens to a text, or reads while listening, lose anything against reading it?* [Reading and listening yield similar proportions of incidental vocabulary learning, with reading ahead only on some immediate posttests](../claims/reading-versus-listening-incidental-vocabulary-gains.md) [+S]
 
 ## Related Elements
 - [Assigned Readings](assigned-readings.md) — audiobooks are an alternative delivery format for the same content

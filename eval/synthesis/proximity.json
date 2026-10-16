@@ -1,0 +1,66 @@
+{
+  "principle": "elements/proximity",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "contiguity-spatial-temporal-large-learning-benefits",
+      "question": "Does placing words with the pictures they describe, in space and in time, improve learning, and by how much?",
+      "members": [
+        [
+          "split-attention-effect-degrades-learning",
+          "+"
+        ],
+        [
+          "integration-of-related-elements-large-mean-effect",
+          "+"
+        ],
+        [
+          "contiguity-principles-mayer-2008",
+          "+"
+        ],
+        [
+          "temporal-contiguity-lower-cognitive-load",
+          "+"
+        ],
+        [
+          "spatial-temporal-contiguity-equivalent-magnitudes",
+          "~"
+        ],
+        [
+          "cognitive-load-reduction-improves-learning",
+          "~"
+        ],
+        [
+          "integrated-illustrations-increase-creative-transfer-solutions",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "element-interactivity-moderates-contiguity-effect",
+      "question": "For which material, media and testing conditions is integration worth most?",
+      "members": [
+        [
+          "split-attention-effect-in-worked-examples",
+          "+"
+        ],
+        [
+          "static-dynamic-presentation-no-moderation",
+          "~"
+        ],
+        [
+          "testing-format-moderates-contiguity-effect",
+          "~"
+        ],
+        [
+          "spatial-colocation-benefit-task-dependent",
+          "~"
+        ],
+        [
+          "expertise-reversal-split-attention-redundancy-review",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -41,8 +41,12 @@ Seasonal learning analysis comparing achievement-gap growth when school is in ve
 
 ## Discussion
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Summer learning loss is common but not inevitable among K-12 students](summer-slide-common-but-not-inevitable.md) — the general claim this finding bears on, with the studies behind it
 - [Asian students generally pull ahead of White students at a faster rate during summers than during school periods](asian-white-summer-growth-advantage.md) — related
 - [Black–White achievement gaps widen during the school year in both rural and nonrural schools](black-white-gaps-widen-during-school-year-rural-and-nonrural.md) — a narrower finding that bears on this claim
 - [Schools play less of a role in widening racial/ethnic achievement gaps than children's prekindergarten environments](schools-less-role-than-prekindergarten-environments.md) — related

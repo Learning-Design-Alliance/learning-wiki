@@ -41,7 +41,8 @@ The paper reports, citing prior work, that hybrid LLM-plus-knowledge-tracing arc
 
 ## Discussion
 
-
 ## Related Claims
+
+- [LLMKT outperforms existing knowledge tracing methods at predicting student turn correctness in the CoMTA and MathDial tutoring dialogue datasets, and generally outperforms DKT-Sem.](llmkt-outperforms-existing-kt-methods-on-tutoring-dialogues.md) — the general claim this finding bears on, with the studies behind it
 
 - [Knowledge tracing performance on tutoring dialogues is relatively low, with a maximum of around 76% AUC, which the authors take to show dialogueKT is a challenging task.](dialogue-kt-performance-is-relatively-low-compared-to-standard-kt.md)

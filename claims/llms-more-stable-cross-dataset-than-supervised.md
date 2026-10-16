@@ -30,7 +30,7 @@ sources:
 # LLMs are more stable than supervised models across dataset shifts, though they do not surpass within-dataset fine-tuned performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r2`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` LLM performance shows substantially less sensitivity to dataset shifts than the supervised models evaluated in RQ1. [→ Abdolali Faraji 2026](#abdolali-faraji-2026)

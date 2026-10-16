@@ -30,7 +30,7 @@ sources:
 # Reflection on a prediction failure shifted students' isomorphism awareness from structural recognition to boundary awareness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r1` · `q2`
 
 ## Subclaims
 `q2 i?` When an anomaly (an opened flask lid) made the AI's prediction deviate from the actual value, students attributed the error to contextual information missing from the model's data, showing understanding that human inference can complement AI prediction. [→ Li Li 2025](#li-li-2025)

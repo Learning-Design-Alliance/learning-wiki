@@ -41,8 +41,9 @@ Cohort analysis of 2014-15 freshmen (Figure 8) crosses freshman GPA bands with a
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Low attendance is linked with lower academic skills, grades, and high school graduation, and high attendance with higher ones](attendance-linked-academic-skills-grades-graduation.md) — the general claim this finding bears on, with the studies behind it
 - [Three freshman warning indicators—off-track status, any course failure, and attendance below 85 percent—identify 70 percent of eventual non-graduates](freshman-warning-indicators-identify-70-percent-nongraduates.md) — related
 - [Non-core course failures in ninth grade were associated with decreases in four-year graduation rates similar to core course failures](non-core-failures-graduation-risk.md) — related
 - [By the end of sophomore year, 84 percent of eventual non-graduates showed at least one warning indicator](sophomore-warning-indicators-flag-84-percent-nongraduates.md) — related

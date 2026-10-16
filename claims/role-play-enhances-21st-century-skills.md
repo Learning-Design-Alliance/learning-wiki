@@ -39,6 +39,22 @@ The review reports, citing Aura, Alho, and Kallio (2023), that role-playing exer
 
 > "Aura, Alho, and Kallio (2023) found that role-playing exercises significantly enhanced students’ 21st-century skills, including communication, collaboration, and critical thinking."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does acting out content (role-play, or embodying a concept with movement) improve understanding and skill more than describing or discussing it?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **7 distinct studies** (3 qualitative, 2 review, 1 design, 1 causal), `q1`–`q2`, 0 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Kelly McNeil 2026](https://doi.org/10.51388/20.500.12265/284) | q2 · review · r2 | i? | this claim |
+| [Barber et al. 2007](https://doi.org/10.48550/arxiv.0706.2717) | q1 · design · r2 | i? | [The authors report that the kinesthetic experience enhances student understanding and that](kinesthetic-experience-enhances-understanding-physics-of-dance.md) (supports) |
+| [Solomon et al. 2022](https://doi.org/10.1080/10508406.2021.2023543) | q2 · qualitative · r2 | i? | [Embodied dance improvisation supports physics engagement and sense-making](embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md) (supports) |
+| [Ahlquist 2020](https://doi.org/10.17161/jomr.v6i1.12051) | q2 · qualitative · r2 | i? | [In the owl game, being shown the solids and working with pictures and labels did not help ](owl-game-body-based-experience-needed-for-solids.md) (supports) |
+| [Palatnik & Abrahamson 2026](https://doi.org/10.1080/10508406.2026.2622059) | q1 · qualitative · r2 | i? | [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) (supports) |
+| [Khan Abdus Salam 2025](https://doi.org/10.7759/cureus.94133) | q2 · causal · r2 | i? | [Focus group participants described role-play as transformative for conceptual clarity and ](role-play-transformative-consent-clarity-confidence.md) (supports) |
+| [ev-6](https://doi.org/10.51388/20.500.12265/316) | q2 · review · r2 | i? | [No evidence demonstrates unique, reliable, or EL-specific gains attributable to readers' t](readers-theater-alone-no-unique-eb-gains-evidence.md) (counts against) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

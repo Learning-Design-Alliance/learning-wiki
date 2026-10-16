@@ -42,6 +42,9 @@ Piecewise multilevel growth models (Model 2) estimated monthly learning rates fo
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Dual language participants grew faster than nonparticipants in math during each school year in grades 2 to 5 but lost more learning during subsequent summers](dual-language-math-faster-school-year-growth-greater-summer-loss.md) — related
 - [In reading, dual language participants grew slightly more slowly during school years but lost less learning during summers, closing the gap with the national average](dual-language-reading-slower-school-year-growth-less-summer-loss.md) — related

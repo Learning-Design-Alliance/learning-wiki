@@ -42,6 +42,10 @@ Descriptive cohort analysis disaggregated by race/ethnicity and gender from CPS 
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Over 40 percent of Chicago Public Schools students drop out by age 19, with a slight downward trend across the 1991–1994 cohorts](cps-cohort-dropout-over-40-percent-slight-decline.md) — related
 - [African-American students and mostly African-American South Side communities showed less improvement in graduation and dropout rates than other students and North Side communities](cps-graduation-improvement-racial-geographic-inequity.md) — related

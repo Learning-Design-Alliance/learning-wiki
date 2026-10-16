@@ -57,6 +57,9 @@ Teacher self-report survey data from the 2018-2019 field test, summarized by the
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Collective enterprise and care in equitable classroom cultures are positively associated with students' science interest](collective-enterprise-care-science-interest.md) — related
 - [The Student Electronic Exit Ticket (SEET) is useful for gathering student perspectives on coherence, relevance, and participation during OpenSciEd enactment](seet-useful-student-perspective-instrument.md) — related

@@ -39,8 +39,9 @@ Thematic analysis of interviews across the pilot districts identified four barri
 
 ## Discussion
 
-
 ## Related Claims
+
+- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — the general claim this finding bears on, with the studies behind it
 - [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
 - [OBCs drove increased edtech implementation rates, boosted by provider implementation support, despite challenges including buy-in, staff workload, unclear terms, leadership turnover, and time constraints.](obc-increased-implementation-rates.md) — related
 - [The article argues the durability of the WSS co-design approach depends on institutionalizing authentic engagement as core practice, not a one-time initiative](wss-sustainability-requires-institutionalization.md) — related

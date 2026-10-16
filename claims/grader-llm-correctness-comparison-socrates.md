@@ -30,7 +30,7 @@ sources:
 # gpt-4o graded student submissions most correctly in almost all assignments, but gemini-1.0-pro graded the boolean-algebra assignment most correctly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r1`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Across the four assignments, gpt-4o showed the highest grader correctness in almost all assignments except A3. [→ Xinming Yang 2025](#xinming-yang-2025)

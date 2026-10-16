@@ -61,6 +61,9 @@ Same dimension-level analysis: grade-no-anxiety F=1.19, p=.280; in-class F=.013,
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [In one flipped calculus study, teaching method (peer-teaching versus conventional flipped classroom) and prior achievement level interact on self-efficacy](method-achievement-interaction-self-efficacy.md) — related
 - [Prior achievement level did not significantly affect self-efficacy overall in either flipped classroom method](prior-achievement-null-self-efficacy.md) — related

@@ -60,8 +60,9 @@ Coefficient for the HS change score in the full model with N = 89. Students whos
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](genai-overreliance-harms-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Static whole-session summaries of AI use add no detectable post-test variance beyond pre-test performance](static-ai-use-features-no-incremental-posttest-variance.md) — related
 - [Within-session SRL change shows no detectable association with unaided post-test performance](srl-change-no-posttest-association.md) — reports the opposite
 - [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md) — related

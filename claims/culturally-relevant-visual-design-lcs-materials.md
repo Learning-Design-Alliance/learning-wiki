@@ -42,6 +42,9 @@ Theme 4 of the focus-group analysis. Participants said colorful, culturally fami
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Hispanic adults preferred clear, friendly, direct, and nonjudgmental communication for lung cancer screening shared decision-making](hispanic-adults-prefer-clear-friendly-sdm-communication.md) — related
 - [Cancer-related fear and fatalism shape lung cancer screening decisions, and Hispanic adults preferred balanced risk communication that minimizes fear](fear-fatalism-shape-lcs-decisions-balanced-risk-communication.md) — related

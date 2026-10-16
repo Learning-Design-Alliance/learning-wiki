@@ -47,6 +47,9 @@ The article adopts a variant of the exponential forgetting curve, in which recal
 - [Item Specific Difficulty Helps Only At Low And High Leitner Decks](../claims/item-specific-difficulty-helps-only-at-low-and-high-leitner-decks.md) [~M]
 - [Memory-decay-based models fit fact-learning datasets better than models insensitive to memory decay](../claims/memory-features-improve-fit-for-fact-learning-datasets.md) [+W]
 
+## The evidence by question
+- *Does a learner model that tracks memory decay since the last review predict recall better than one that ignores it, and for which kinds of material?* [Memory-decay-based models fit fact-learning datasets better than models insensitive to memory decay](../claims/memory-features-improve-fit-for-fact-learning-datasets.md) [+M]
+
 ## Related Theories
 - [Spaced Repetition](../elements/spaced-repetition.md)
 

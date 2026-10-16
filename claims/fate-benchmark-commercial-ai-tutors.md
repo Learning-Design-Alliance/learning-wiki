@@ -30,7 +30,7 @@ sources:
 # FATE benchmarks rank Gemini 2.5 Flash highest among commercial AI tutors, with actionability weakest for all models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Gemini achieved the highest overall average accuracy (82.88%), leading in Mistake Identification, Mistake Location, and Actionability, while DeepSeek performed best on Providing Guidance. [→ Tahmid Al Hannan 2026](#tahmid-al-hannan-2026)

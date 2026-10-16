@@ -42,6 +42,9 @@ In the same RCT, survey data from 139 students with complete survey data measure
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Math confidence increased slightly among students completing both baseline and end-of-year surveys, but the difference was not statistically significant](breakthrough-tutoring-confidence-gain-not-significant.md) — related
 - [Virtual group tutoring with Cignition improved 5th-grade students' fractions knowledge by 9 percentage points (ES = 0.44 SD) in an RCT](cignition-group-tutoring-fractions-gain-0-44.md) — related

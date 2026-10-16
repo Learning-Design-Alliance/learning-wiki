@@ -1,0 +1,88 @@
+{
+  "principle": "elements/rubrics",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "rubrics-improve-student-work",
+      "question": "Does giving learners the criteria, and having them apply them to their own or peers' work, improve the work?",
+      "members": [
+        [
+          "rubrics-improve-peer-feedback-quality",
+          "+"
+        ],
+        [
+          "peer-assessment-structured-criteria-improve-learning",
+          "~"
+        ],
+        [
+          "aa-students-passive-users-of-rubrics",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "rubric-wording-lower-grading-variance",
+      "question": "Do raters applying a rubric agree, and what in the rubric's design brings their scores closer?",
+      "members": [
+        [
+          "engineering-rubric-low-scoring-reliability",
+          "~"
+        ],
+        [
+          "hts-rubrics-good-inter-rater-consistency",
+          "~"
+        ],
+        [
+          "hts-rubrics-low-consistency-claims-evidence-comparison",
+          "~"
+        ],
+        [
+          "vcp-rubric-lacked-calibration-and-clarity",
+          "+"
+        ],
+        [
+          "stp-low-reliability-complex-construct",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "prompt-rubric-quality-drives-llm-grading",
+      "question": "When an AI model scores work against a rubric, does the rubric's wording and detail decide how closely it agrees with human markers?",
+      "members": [
+        [
+          "explicit-rubric-conditions-reduce-ai-disagreement",
+          "+"
+        ],
+        [
+          "rubric-revision-improves-machine-alignment",
+          "+"
+        ],
+        [
+          "combined-rubric-rationale-highest-alignment",
+          "+"
+        ],
+        [
+          "gpt4-almost-perfect-irr-after-rubric-engineering",
+          "+"
+        ],
+        [
+          "simplified-prompts-outperform-detailed-rubrics",
+          "-"
+        ],
+        [
+          "rubric-prompting-raises-llm-assigned-scores",
+          "~"
+        ],
+        [
+          "llms-weight-rubric-traits-differently",
+          "~"
+        ],
+        [
+          "teacher-aes-agree-tails-diverge-middle",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

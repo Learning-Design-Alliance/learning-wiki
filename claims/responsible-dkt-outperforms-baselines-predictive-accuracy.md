@@ -41,7 +41,8 @@ The paper reports experiments on a real-world dataset of 6th-grade students' Mat
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The survey states that deep learning knowledge tracing models exhibit superior performance to Bayesian and logistic models but have significant room for improvement in interpretability.](deep-learning-knowledge-tracing-outperforms-but-lacks-interpretability.md) — the general claim this finding bears on, with the studies behind it
 - [Symbolic knowledge injection improves temporal reliability of predictions, yielding lower early- and mid-sequence errors and the lowest prediction inconsistency rates across sequence lengths](responsible-dkt-temporal-reliability.md) — related
 - [The neural-symbolic architecture enables empirical evaluation of embedded pedagogical rules, showing that repeated-incorrect (non-mastery) patterns play a stronger role in prediction updates](non-mastery-rules-stronger-prediction-role.md) — related

@@ -47,6 +47,10 @@ Collaborative discussion is the element in which learners build understanding to
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](../claims/structured-discussion-methods-improve-comprehension.md) [+S]
 - [Teachers report AI tools foster collaborative, socially constructed learning through shared data and critical negotiation of AI outputs](../claims/ai-fosters-collaborative-social-construction.md) [+W]
 
+## The evidence by question
+- *Which discussion structures and facilitation make open discussion produce learning, rather than just more talk?* [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](../claims/structured-discussion-methods-improve-comprehension.md) [+S]
+- *Does discussing a committed answer with peers improve a later individual answer on a new question?* [Peer Discussion Improves Conceptual Understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M]
+
 ## Related Elements
 - [Peer Discussion](peer-discussion.md)
 - [Structured Discussion](structured-discussion.md)

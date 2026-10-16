@@ -42,6 +42,9 @@ The article reports (Section V.B) Coletta et al. (2005)'s four interactive-engag
 ## Discussion
 
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [FCI change-score versus pretest-score data from three classes show linear relations at high pretest scores and curving-down at low scores, diagnosable as α- versus γ-process dominance](fci-change-score-curves-diagnose-processes.md) — related
 - [When the γ-process (associative interaction of correct and incorrect knowledge) is considered, the normalized gain correlates positively with pretest score](gamma-process-positive-gain-pretest-correlation.md) — related

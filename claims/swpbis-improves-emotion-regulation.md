@@ -43,11 +43,12 @@ Multilevel HLM in the 4-year group RCT showed children in the intervention schoo
 
 ## Discussion
 
-
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — the general claim this finding bears on, with the studies behind it
 - [SWPBIS effects on prosocial behavior and emotion regulation are strongest for children first exposed in kindergarten](swpbis-strongest-kindergarten-exposure.md) — related
 - [SWPBIS produces a very small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)](swpbis-improves-prosocial-behavior.md) — related
 - [SWPBIS produces a very small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)](swpbis-reduces-concentration-problems.md) — related

@@ -30,7 +30,7 @@ sources:
 # AI assistance provides no significant overall time savings and can slow completion on easy task variants, with chat-interface friction (prompting time) dominating on trivial tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r3` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Across all tasks, AI assistance did not significantly reduce completion time, and on easy task variants AI-assisted completion was 10.0 seconds slower than independent completion. [→ Sunny Yu 2026](#sunny-yu-2026)

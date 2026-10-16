@@ -41,8 +41,9 @@ Partial correlation analyses in Cycle 2 controlling for all baseline measures, w
 
 ## Discussion
 
-
 ## Related Claims
+
+- [A 13-week TPACK-based course significantly improves pre-service preschool teachers' instructional design competence compared with traditional instruction](tpack-course-improves-preservice-preschool-idc.md) — the general claim this finding bears on, with the studies behind it
 - [AI literacy relates to AI integration intention through a serial indirect pathway via AI-TPACK and science teaching self-efficacy](serial-mediation-ai-literacy-tpack-efficacy-intention.md) — related
 - [SDT-driven activity system redesign in Cycle 2 produced significant pre-post gains in AI-TPACK (d = 0.70), IPACK (d = 0.86), and AI attitude (d = 0.58)](sdt-driven-redesign-capacity-willingness-gains.md) — related
 - [Additive TPACK–belief integrations produce construct overlap, causal ambiguity, and weak intervention guidance](additive-tpack-belief-models-weak-intervention-guidance.md) — a broader claim this one bears on

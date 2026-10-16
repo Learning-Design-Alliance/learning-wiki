@@ -1,0 +1,70 @@
+{
+  "principle": "elements/question-formulation",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read. The first hub is reused from the annotating spec with its question verbatim; on this page it stands for: does generating one's own questions improve comprehension?",
+  "findings": [
+    {
+      "hub": "self-questioning-improves-comprehension",
+      "question": "Do annotations that make the reader generate questions, explanations or summaries improve comprehension?",
+      "members": [
+        [
+          "self-explanation-improves-conceptual-understanding",
+          "+"
+        ],
+        [
+          "scaffolded-close-reading-improves-comprehension-for-struggling-readers",
+          "+"
+        ],
+        [
+          "summarization-improves-learning",
+          "~"
+        ],
+        [
+          "questioning-strategies-improve-learning",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "peerwise-student-questions-75-percent-high-quality",
+      "question": "Can learners write good questions of their own, and what support do they need to?",
+      "members": [
+        [
+          "student-questions-majority-above-recall-bloom",
+          "+"
+        ],
+        [
+          "teachers-surprised-by-student-questioning-capability",
+          "+"
+        ],
+        [
+          "ur-student-generated-question-engagement",
+          "+"
+        ],
+        [
+          "questioning-habits-internalized-after-ai-removal",
+          "+"
+        ],
+        [
+          "trained-students-higher-order-prompting-strategies",
+          "~"
+        ],
+        [
+          "students-rarely-ask-specific-questions",
+          "-"
+        ],
+        [
+          "question-quality-limited-first-cycle-outcomes",
+          "-"
+        ],
+        [
+          "first-generation-students-ask-fewer-ai-questions",
+          "~"
+        ],
+        [
+          "generation-differences-in-question-type-usage",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

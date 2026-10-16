@@ -63,7 +63,7 @@ A systematic review and random-effects meta-analysis of randomized controlled tr
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does a specific, challenging goal raise performance over no goal or a vague 'do your best'?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **4 distinct studies** (2 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4`, 2 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does the forethought phase pay off: do specific goals and if-then plans improve performance, and which goals suit novices?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **10 distinct studies** (3 quant-synthesis, 2 review, 2 theoretical, 2 causal, 1 design), `q1`–`q4`, 3 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -71,6 +71,12 @@ A systematic review and random-effects meta-analysis of randomized controlled tr
 | [Epton et al. 2017](https://doi.org/10.1037/ccp0000260) | q4 · quant-synthesis · r? | i1 · small effect, d=.34 (95% CI .28–.41) | this claim |
 | [Locke & Latham 2002](https://doi.org/10.1037/0003-066x.57.9.705) | q2 · review · r? | i? | [Specific, difficult goals lead to higher performance than easy or vague \"do your best\" g](specific-difficult-goals-lead-to-higher-performance.md) (supports) |
 | Nagaoka 2014 | q1 · theoretical · r? | i? | [Specific, difficult goals lead to higher performance than easy or vague \"do your best\" g](specific-difficult-goals-lead-to-higher-performance.md) (supports) |
+| [Gollwitzer & Sheeran 2006](<https://doi.org/10.1016/s0065-2601(06)38002-1>) | q1 / q3 / q4 · quant-synthesis · r? | i2 · medium-to-large effect, d = .65, 95% CI .60 to .70; i2; i? | [Forming implementation intentions (if-then plans) improves goal attainment](implementation-intentions-improve-goal-attainment.md) (supports); [Forming implementation intentions produces a medium-to-large positive effect (d = .65) on ](implementation-intentions-d65-goal-attainment-meta-analysis.md) (supports); [Holding a strong goal intention alone does not guarantee goal achievement](goal-intention-alone-insufficient-for-achievement.md) (qualifies) |
+| [Kizilcec & Cohen 2017](https://doi.org/10.1073/pnas.1611898114) | q3 · causal · r? | i? | [Forming implementation intentions (if-then plans) improves goal attainment](implementation-intentions-improve-goal-attainment.md) (supports) |
+| [Zimmerman & Kitsantas 1999](https://doi.org/10.1037/0022-0663.91.2.241) | q3 · causal · r? | i? | [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md) (qualifies) |
+| [Zimmerman 2000](https://doi.org/10.1016/b978-012109890-2/50031-7) | q3 · theoretical · r? | i? | [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md) (qualifies) |
+| [Palmer 2003](https://doi.org/10.1177/07419325030240020601) | q2 · design · r? | i? | [Young children ages 5-6 can set learning goals and use the Self-Determined Learning Model ](young-children-set-goals-sdlmi-achieve.md) (supports) |
+| Schunk 1996 | q2 · review · r2 | i? | [Proximal goals and ability attributional feedback for early learning raise self-efficacy m](proximal-goals-feedback-peer-models-build-learning-efficacy.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

@@ -37,6 +37,19 @@ The meta-analysis's own summary finding: "Limited support was found for existing
 
 > "Limited support was found for existing theoretical accounts attributing the testing effect to enhanced semantic elaboration, indicating that consideration of alternative mechanisms is warranted in explaining testing effects."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does retrieving improve later recall because learners elaborate the material semantically while retrieving, as this account holds?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **4 distinct studies** (2 quant-synthesis, 2 review), `q2`–`q4`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [meta-3](https://doi.org/10.1037/a0037559) | q4 · quant-synthesis · r? | i? | this claim; [The meta-analysis supports retrieval effort as a contributor to the testing effect](retrieval-effort-support-testing-effect.md) (supports) |
+| [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r3 | i?; i0 | [Retrieval practice benefits extend to nonverbal visual materials, spatial map learning, an](retrieval-practice-benefits-extend-to-nonverbal-spatial-and-differently-structured-text-materials.md) (supports); [A review chapter (Karpicke 2017) reports, second-hand, experiments in which retrieval prac](retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration.md) (supports); [Retrieval practice effects on mediator-cued final tests have been positive, but Coppens et](mediator-cued-final-test-effects-of-retrieval-practice-may-be-small.md) (qualifies); [Whether initial retrieval practice enhances semantic organization in final free recall is ](effects-of-retrieval-practice-on-semantic-organization-are-unclear.md) (qualifies); [Initial retrieval conditions that provide less cue support, such as free recall rather tha](less-initial-retrieval-support-produces-better-retention.md) (qualifies) |
+| [Steven C. Pan and Timothy C. Rickard 2018](https://doi.org/10.1037/bul0000151) | q4 · quant-synthesis · r3 | i? | [Transfer of test-enhanced learning is greatest across test formats, to application and inf](transfer-greatest-test-formats-application-inference-medical-mediator-cues.md) (qualifies) |
+| [Steven C. Pan 2023](https://doi.org/10.1007/s10648-023-09814-5) | q2 · review · r3 | i? | [Pretesting benefits for paired associates depend on semantic association between pair memb](semantic-association-moderates-pretesting.md) (counts against) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

@@ -41,11 +41,12 @@ The review's discussion of implicit teaching strategies reports that higher-orde
 
 ## Discussion
 
-
 ## Learner Variables
 - [Domain Context](../learner-variables/domain-context.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — the general claim this finding bears on, with the studies behind it
 - [Direct CT instruction combined with modeling, coaching, and discussion yields more consistent CT improvement than implicit teaching strategies](direct-ct-instruction-outperforms-implicit-strategies.md) — possibly the same claim (merge candidate)
 - Critical questions support competency-based science assessment by evaluating higher-order thinking, knowledge transfer and reasoning patterns beyond fact memorization — related
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related

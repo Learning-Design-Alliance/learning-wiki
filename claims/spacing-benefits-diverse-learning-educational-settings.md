@@ -41,8 +41,9 @@ The review's stated scope covers "the types of learning that benefit from spaced
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Recent research identifies time intervals during which spaced study should occur to maximize memory retention](optimal-spacing-intervals-maximize-retention.md) — a narrower finding that bears on this claim
 - [Spacing enhances learning across various domains and across the lifespan, with emphasis on applied educational settings](spacing-enhances-learning-across-domains-lifespan.md) — possibly the same claim (merge candidate)
 - [Retrieval practice enhances learning across domains and the lifespan in applied educational settings](retrieval-practice-enhances-learning-applied-settings.md) — related

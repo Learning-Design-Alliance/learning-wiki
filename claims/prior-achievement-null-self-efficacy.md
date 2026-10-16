@@ -41,11 +41,12 @@ Two-way ANOVA on self-efficacy (PTFC n=36, CFC n=34): prior achievement level "w
 
 ## Discussion
 
-
 ## Learner Variables
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — the general claim this finding bears on, with the studies behind it
 - [Senior high school majors' background affects calculus conceptual understanding and self-efficacy, with no method-by-major interaction](majors-background-affects-outcomes.md) — related
 - [In one flipped calculus study, teaching method (peer-teaching versus conventional flipped classroom) and prior achievement level interact on self-efficacy](method-achievement-interaction-self-efficacy.md) — related
 - [Peer-teaching flipped classroom students show higher calculus self-efficacy than conventional flipped classroom students after controlling for pretest](ptfc-beats-cfc-self-efficacy.md) — related

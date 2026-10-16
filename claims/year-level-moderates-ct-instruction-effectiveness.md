@@ -41,7 +41,8 @@ Descriptive analysis of the 23 (70%) studies reporting year level found seven of
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Direct CT instruction combined with modeling, coaching, and discussion yields more consistent CT improvement than implicit teaching strategies](direct-ct-instruction-outperforms-implicit-strategies.md) — the general claim this finding bears on, with the studies behind it
 - [Proportions of significant CT gains vary by instructional approach, but approach alone does not determine effectiveness](instructional-approach-alone-does-not-determine-ct-effectiveness.md) — related
 - [AI-supported PBL students obtain significantly higher posttest computational thinking scores than traditional-lecture students when controlling pretest scores](ai-pbl-higher-posttest-computational-thinking.md) — related

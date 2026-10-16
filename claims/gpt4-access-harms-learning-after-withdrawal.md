@@ -175,6 +175,26 @@ The paper reports, citing a large randomised experiment in high school mathemati
 
 <!-- merged 2026-10-13 from ai-assistant-short-term-gains-harm-durable-learning: that page's entry for this study, which differed from the one above, kept verbatim.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does performing with an aid at hand leave learners able to do the task once the aid is removed?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **11 distinct studies** (5 causal, 2 theoretical, 2 review, 1 qualitative, 1 design), `q1`–`q4`, 1 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Mutlu Cukurova 2026 | q2 · theoretical · r3 | i? | this claim |
+| Reshaping Undergraduate Computer Science Education in the Generative AI Era 2026 | q2 · qualitative · r1 | i? | this claim |
+| [Zemin Guo 2026](https://doi.org/10.1016/j.caeai.2026.100679) | q1 · review · r2 | i? | this claim |
+| [Khosravi 2026](https://doi.org/10.48550/arxiv.2605.04816) | q2 · theoretical · r3 | i? | this claim |
+| [Wei J and Shang Y 2026](https://doi.org/10.3389/fpsyg.2026.1965371) | q1 · review · r2 | i? | [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) (supports) |
+| [Sebastian Maier 2026](https://doi.org/10.48550/arxiv.2609.20143) | q2 / q3 · causal · r3 | i? | [Greater answer offloading during learning is associated with lower subsequent unaided perf](answer-offloading-associated-lower-unaided-performance-exploratory.md) (supports); [Access to an LLM assistant during practice did not significantly lower subsequent unaided ](llm-access-no-significant-lower-unaided-performance.md) (counts against) |
+| [Rohit Mehra 2026](https://doi.org/10.48550/arxiv.2607.06101) | q2 · design · r1 | i? | [Developers who used AI assistance scored 17% lower on a subsequent comprehension assessmen](ai-assistance-lower-comprehension-17-percent.md) (supports) |
+| Rouse 1980 | q2 · causal · r1 | i? | [Aiding-based transfer differs by trainee experience: first-semester trainees showed no aid](trainee-experience-moderates-aiding-transfer.md) (qualifies) |
+| [Guillermo Cruces 2026](https://doi.org/10.2139/ssrn.6246347) | q3 · causal · r3 | i? | [AI-induced gains are not purely delegation: treated participants do not perform worse once](ai-gains-carry-over-followup-not-pure-delegation.md) (counts against) |
+| [Zara Contractor and Germán Reyes 2026](https://doi.org/10.48550/arxiv.2607.08849) | q4 · causal · r3 | i? | [AI access raises immediate unaided test scores by 7.2 percentage points (0.28 SD) after a ](genai-access-raises-immediate-test-scores.md) (counts against) |
+| [Benjamin Lira 2025](https://doi.org/10.48550/arxiv.2502.02880) | q4 · causal · r3 | i1; i2 | [Practicing cover letter writing with an AI tool improved unassisted writing skill more tha](ai-practice-improved-writing-skill-persisted-one-day.md) (counts against) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 Every entry this page had was a second-hand report of one trial (Bastani et al., 2025, high-school mathematics, nearly 1,000 students), so they are kept as one entry; the other five reports are in comments under it. The trial itself has no entry here yet.

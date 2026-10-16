@@ -30,7 +30,7 @@ sources:
 # Statistical tests show significant grading differences among nearly all pairs of LLMs, with only 7 of 153 pairs statistically indistinguishable
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 associational `r2`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The Friedman test revealed significant differences among models' grading scores (χ²(17) = 10630.24, p<0.001). [→ Marcin Jukiewicz 2025](#marcin-jukiewicz-2025)

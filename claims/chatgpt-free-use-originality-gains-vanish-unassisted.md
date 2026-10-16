@@ -78,9 +78,11 @@ The paper reports this secondhand, citing Wong and Qiu (2026): university studen
 
 ## Discussion
 
-
-
 ## Related Claims
+
+- [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](gai-value-contingent-on-pedagogical-integration.md) — the general claim this finding bears on, with the studies behind it
+
+- [AI severs the correlation between artefact quality and cognitive engagement, breaking the artefact-as-proxy for learning](ai-breaks-artefact-as-proxy.md) — the general claim this finding bears on, with the studies behind it
 
 - [The regulated 'think first, ChatGPT later' group outperformed both other groups in independent originality on the unassisted task despite no assisted-task advantage](regulated-ai-outperforms-independent-originality.md) — related
 - [Collaborative prompt use mediated the regulated-AI group's advantage over the general-AI group in independent originality](collaborative-prompts-mediate-independent-originality.md) — related

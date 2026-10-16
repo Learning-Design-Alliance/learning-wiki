@@ -41,10 +41,11 @@ Interview finding from the concerns subcategory; participants noted that "connec
 
 ## Discussion
 
-
 ## Learner Variables
 - [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [During spring 2020 remote instruction, internet connectivity and hardware/software problems interfered with course participation for large shares of undergraduates](remote-covid-technology-access-problems-widespread.md) — the general claim this finding bears on, with the studies behind it
 - [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — related
 - [Persistent technical limitations constitute an authenticity gap in AI-powered nursing simulations](ai-simulation-authenticity-gap.md) — related

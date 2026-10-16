@@ -30,7 +30,7 @@ sources:
 # Mentee fidelity on HSLS:09 test split: attribution transmits far better than decisions, and 98.8% of narrations pass the faithfulness audit
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2` · `i3` large
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` On the held-out test split of 1,834 students, the mentee's estimates correlate with the mentor's at r = 0.71 with slope 0.55; top-cited covariates match the mentor's for 80.6% of students with an intersection-over-union of 0.77, but the mentee recommends treatment for all students while the mentor recommends 1,800 of 1,834. [→ Chenguang Pan 2026](#chenguang-pan-2026)

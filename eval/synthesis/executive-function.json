@@ -1,0 +1,100 @@
+{
+  "principle": "learner-variables/executive-function",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "ef-predicts-preschool-math-growth",
+      "question": "Does a child's executive function predict achievement, and through what?",
+      "members": [
+        [
+          "working-memory-strongest-component-association-ecls-k",
+          "~"
+        ],
+        [
+          "latent-ef-factor-preferred-ecls-k-math",
+          "+"
+        ],
+        [
+          "math-correlates-more-with-ef-than-ef-internally",
+          "+"
+        ],
+        [
+          "meta-analytic-replication-latent-ef-model",
+          "+"
+        ],
+        [
+          "task-orientation-partially-mediates-ef-math",
+          "~"
+        ],
+        [
+          "no-sex-differences-ef-task-orientation-math-pathways",
+          "~"
+        ],
+        [
+          "ef-significant-effect-semantic-fluency-preschool",
+          "+"
+        ],
+        [
+          "pass-both-ef-tom-higher-semantic-fluency",
+          "+"
+        ],
+        [
+          "no-ef-tom-interaction-semantic-fluency",
+          "~"
+        ],
+        [
+          "pretest-cognitive-flexibility-predicts-decoding-gains-compensates-alphabet",
+          "+"
+        ],
+        [
+          "early-delay-of-gratification-predicts-later-outcomes",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "cct-no-effect-executive-attention",
+      "question": "Does training the processes directly (computerised, working-memory or mindfulness training) improve executive function itself?",
+      "members": [
+        [
+          "wm-only-training-ineffective-older-adults",
+          "+"
+        ],
+        [
+          "cct-domain-gains-nonverbal-wm-visuospatial-verbal-weak",
+          "~"
+        ],
+        [
+          "embedded-cognitive-flexibility-no-overall-advantage-winter-kindergarten",
+          "+"
+        ],
+        [
+          "mbis-small-positive-effects-all-rcts-youth",
+          "-"
+        ],
+        [
+          "age-moderates-mbi-outcomes",
+          "~"
+        ],
+        [
+          "classroom-physical-activity-improves-attention",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "prek-small-positive-social-emotional-executive-emotion",
+      "question": "Does attending a pre-kindergarten programme raise children's executive function?",
+      "members": [
+        [
+          "pre-k-graduates-outperform-nonattenders-end-of-kindergarten",
+          "+"
+        ],
+        [
+          "kipp-prek-possible-executive-function-impact",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

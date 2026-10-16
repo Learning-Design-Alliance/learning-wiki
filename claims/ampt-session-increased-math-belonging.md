@@ -41,10 +41,11 @@ Pre/post attitude study measuring students' attitudes towards mathematics before
 
 ## Discussion
 
-
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [AMPT gave students the opportunity to express themselves and see their interests reflected in the math domain](ampt-interests-reflected-in-math.md) — related
 - [After the AMPT co-authoring session, attitudes towards mathematics other than sense of belonging remained unchanged](ampt-other-attitudes-unchanged.md) — related

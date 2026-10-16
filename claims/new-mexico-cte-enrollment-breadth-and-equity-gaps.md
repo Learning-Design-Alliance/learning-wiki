@@ -60,8 +60,12 @@ The report's analysis of CTE offerings found breadth often took priority over de
 
 ## Discussion
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — the general claim this finding bears on, with the studies behind it
 - CTE dual credit enrollment in Washington rose about 5 percentage points from 2019 to 2022, with the largest spike in schools with high concentrations of Black and Latino students — related
 - Overall advanced coursework completion in Washington rose slightly from 2019 to 2022, with gains for Black, Latino, and low-income students similar to the state average — related
 - [Male secondary students report significantly higher STEM career interest than female students across AI, computer science, and engineering at baseline](baseline-male-higher-stem-career-interest-ai-literacy.md) — related

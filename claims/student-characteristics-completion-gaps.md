@@ -42,6 +42,9 @@ Disaggregated analysis of 2012–14 CPS immediate enrollees by GPA, ACT score, r
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - Across nearly all CPS high schools, six-year completion rates exceeded four-year rates, including at selective enrollment high schools where gaps reached 30 percentage points — related
 - [Bachelor's DAI varies sharply by race/ethnicity and gender: Black and Latino young men are projected at 10 and 13 percent versus a 19 percent district average](cps-dai-gaps-race-gender.md) — related

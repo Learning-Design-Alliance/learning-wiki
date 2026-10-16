@@ -1,0 +1,44 @@
+{
+  "principle": "theories/l2-motivational-self-system",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "l2-learning-experience-beats-ideal-l2-self",
+      "question": "Which part of the L2 motivational self system (the ideal L2 self, the ought-to L2 self or the learning experience) best predicts learners' effort, self-efficacy and proficiency?",
+      "members": [
+        [
+          "ideal-l2-self-predicts-self-efficacy",
+          "~"
+        ],
+        [
+          "strongest-motivation-predictors-of-self-efficacy",
+          "~"
+        ],
+        [
+          "ten-motivation-subfactors-correlate-self-efficacy",
+          "~"
+        ],
+        [
+          "l2-motivation-predicts-self-efficacy",
+          "~"
+        ],
+        [
+          "iranian-efl-motivation-profile-inspro-highest",
+          "~"
+        ],
+        [
+          "effort-predicts-proficiency-modestly",
+          "~"
+        ],
+        [
+          "sdt-l2mss-construct-correlations",
+          "~"
+        ],
+        [
+          "italian-l2-motivation-is-ideal-self-not-instrumental",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

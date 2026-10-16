@@ -92,6 +92,8 @@ In a 2-year longitudinal study beginning at school entry (90 British children st
 
 ## Related Claims
 
+- [Literacy screener benchmarks predict which grade 3 students will not meet MCAS ELA expectations, but not necessarily who will meet them](screeners-predict-mcas-failure-not-success.md) — the general claim this finding bears on, with the studies behind it
+
 - [Automatic word recognition frees resources for comprehension.](automatic-word-recognition-frees-resources-for-comprehension.md) — phoneme-level skills feed decoding automaticity, which underpins this downstream benefit
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — rhyme and rime units are coarser "chunks" of the sound stream; phoneme awareness requires finer segmentation that is more effortful but more aligned with alphabetic decoding
 - [Cognitive load theory.](../theories/cognitive-load-theory.md) — explains why harder phoneme tasks correlate with reading partly through general cognitive demand, a key measurement caveat for this claim

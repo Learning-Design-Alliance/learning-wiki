@@ -41,6 +41,7 @@ This is the article's characterization of prior work, citing Corbett and Anderso
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The survey reports, citing Pavlik et al., that no single knowledge tracing model was always the best, and that a better model must consider multiple student features and the learning context.](no-single-knowledge-tracing-model-is-always-best.md) — the general claim this finding bears on, with the studies behind it
 - [Standard knowledge tracing models in use do not allow individual learning rates or individualized initial knowledge](standard-knowledge-tracing-lacks-individualization.md) — related

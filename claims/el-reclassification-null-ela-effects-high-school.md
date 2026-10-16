@@ -42,6 +42,9 @@ Regression discontinuity analysis of administrative data from a large California
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Eighth grade EL reclassification shows a fairly large negative effect on SAT reading, with a confidence interval of −0.27 to 0.05 SDs](el-reclassification-negative-sat-reading.md) — related
 - [Eighth grade EL reclassification shows positive but imprecise estimates for on-track-to-graduate status in 10th and 11th grades](el-reclassification-on-track-positive-imprecise.md) — related

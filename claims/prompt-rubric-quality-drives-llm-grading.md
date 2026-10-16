@@ -58,10 +58,28 @@ The review reports, from a single chemistry study in its table, that detailed ru
 
 > "Using a detailed rubric (i.e., breaking grading into many small criteria) improves AI's results by 9% (accuracy) and 15% (F1) compared to classical, general scoring."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*When an AI model scores work against a rubric, does the rubric's wording and detail decide how closely it agrees with human markers?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **8 distinct studies** (4 causal, 2 associational, 1 review, 1 design), `q2`–`q3`, 0 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Marcin Jukiewicz and Michał Wyrwa 2026](https://doi.org/10.3390/app16020680) | q2 / q3 · review · r3 | i? | this claim |
+| [Praveen Pathak 2026](https://doi.org/10.48550/arxiv.2608.20521) | q2 · causal · r1 | i? | [Focused rubric refinement that made required physics and scoring conditions explicit reduc](explicit-rubric-conditions-reduce-ai-disagreement.md) (supports) |
+| [Pei-Yu Tseng 2026](https://doi.org/10.48550/arxiv.2606.23629) | q2 · causal · r1 | i? | [Revising the rubric to operationalize pedagogical constructs raises human–machine agreemen](rubric-revision-improves-machine-alignment.md) (supports); [Combining the revised rubric with rationale-first evaluation yields the highest human–mach](combined-rubric-rationale-highest-alignment.md) (supports) |
+| [Olvet DM 2026](https://doi.org/10.1007/s40670-026-02638-2) | q3 · design · r3 | i? | [GPT-4 achieved almost perfect inter-rater reliability with faculty after three iterations ](gpt4-almost-perfect-irr-after-rubric-engineering.md) (supports) |
+| [Olga Manakina 2026](https://doi.org/10.48550/arxiv.2608.23814) | q2 · causal · r1 | i? | [Removing detailed rubric explanations from prompts improved grading accuracy across all ap](simplified-prompts-outperform-detailed-rubrics.md) (counts against) |
+| [Alonso-Carracedo 2026](https://doi.org/10.48550/arxiv.2607.02432) | q2 · causal · r2 | i? | [Rubric-enhanced prompting (Variant 2) raises LLM assigned scores relative to the no-rubric](rubric-prompting-raises-llm-assigned-scores.md) (qualifies) |
+| [Jerin George Mathew 2026](https://doi.org/10.48550/arxiv.2603.23714) | q2 · associational · r2 | i? | [Different LLMs rely on different subsets of rubric traits when assigning essay scores](llms-weight-rubric-traits-differently.md) (qualifies) |
+| [Greene Nolan 2023](https://doi.org/10.51388/20.500.12265/187) | q2 · associational · r2 | i? | [Teacher and AES scores agreed most at the lowest and highest rubric points but diverged in](teacher-aes-agree-tails-diverge-middle.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
-
 ## Related Claims
+
+- [LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks](llm-grading-mixed-against-human-raters.md) — the general claim this finding bears on, with the studies behind it
 - Model performance is robust to minor prompt wording changes but sensitive to holistic rubric redesign — related
 - [AI scoring consistency approaches or exceeds 90% for most rubric items, but spelling is replaced by a deterministic LanguageTool-based approach achieving 68% accuracy with 100% consistency](ai-consistency-high-except-spelling-languagetool-replacement.md) — related
 - [Prompt design significantly influences LLM accuracy on IVDA MCQs, with slide context reducing smaller-model accuracy but improving GPT models, while persona effects are inconsistent](prompt-design-affects-mcq-accuracy-asymmetrically.md) — related

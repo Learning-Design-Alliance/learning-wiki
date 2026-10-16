@@ -43,5 +43,9 @@ The review reports, citing Paas and Van Merrienboer, a four-group experiment (lo
 
 ## Related Claims
 
+- [Encoding variability across varied example contexts produces decontextualization supporting transfer (review reports DiVesta and Peverly)](encoding-variability-decontextualization-transfer.md) — the general claim this finding bears on, with the studies behind it
+
+- [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](comparing-contrasting-cases-improves-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Split-attention worked examples lose their advantage over conventional practice, while integrated formats restore it](split-attention-effect-in-worked-examples.md) — the general claim this finding bears on, with the studies behind it
 - [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — related

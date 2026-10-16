@@ -30,7 +30,7 @@ sources:
 # Effortful, fluent-feeling experiences can create an illusion of learning: felt sense of learning is a poor gauge of actual learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r?`, 1 theoretical `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Students in effortful active classes judged they were learning less even as they objectively learned more (Deslauriers et al., 2019, as reported). [→ Mario Brcic 2026](#mario-brcic-2026)

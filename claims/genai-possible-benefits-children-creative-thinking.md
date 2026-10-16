@@ -39,6 +39,9 @@ The review's narrative synthesis of 22 primary empirical studies, summarized des
 
 ## Discussion
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Free ChatGPT use boosts originality on the assisted creative task but the advantage disappears when assistance is removed](chatgpt-free-use-originality-gains-vanish-unassisted.md) — the general claim this finding bears on, with the studies behind it

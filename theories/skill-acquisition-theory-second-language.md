@@ -12,7 +12,7 @@ generated:
 # Skill acquisition theory in second language learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 18 claims (12 for, 4 mixed, 2 against) · 11 studies (4 review, 3 causal, 3 theoretical, 1 design), `q1`–`q3` · 1 of 11 report an effect size · 18 claims rest on one study
+> **Evidence** · 18 claims (12 for, 4 mixed, 2 against) · 14 studies (4 review, 3 causal, 3 quant-synthesis, 3 theoretical, 1 design), `q1`–`q3` · 1 of 14 report an effect size · 16 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ej912917, eric-ej1488626, eric-ej1344843, eric-ej1412014, eric-ej912912, eric-ej1066572, eric-ed604148, eric-ed296585. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -61,6 +61,11 @@ The articles do not agree. VanPatten (eric-ej912912) argues that applying skill 
 - [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruction](../claims/rule-oriented-explicit-outperforms-implicit.md) [+W]
 - [Automatized L2 morphosyntactic skills develop very gradually over time, following a power function learning curve like other cognitive skills](../claims/l2-skill-development-power-function-curve.md) [+W] — attached 2026-10-15 from Robert M. DeKeyser (1997), which proposed "Skill acquisition theory accounts for L2 morphosyntactic automatization"; tests this page's relationship.
 - [Learning of second language morphosyntactic rules is highly skill-specific: comprehension practice yields comprehension skill and production practice yields production skill](../claims/skill-specificity-l2-grammar-practice.md) [+W] — attached 2026-10-15 from Robert M. DeKeyser (1997), which proposed "Skill acquisition theory accounts for L2 morphosyntactic automatization".
+
+## The evidence by question
+- *In second-language grammar, does explicit instruction about a form help more than leaving it to implicit exposure?* [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](../claims/explicit-l2-grammar-instruction-superior-to-implicit.md) [+S]
+- *Does second-language practice carry over to skills and tasks other than the one practised?* [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](../claims/skill-specificity-l2-grammar-practice.md) [+S]
+- *What kind and amount of practice makes second-language use fast and automatic: extended meaningful practice or mechanical drill?* [Automatization of L2 skills requires extensive practice in a consistent environment, not repetition of grammar rules as in traditional exercises](../claims/automatization-requires-practice-consistent-environment.md) [+M]
 
 ## Related Theories
 

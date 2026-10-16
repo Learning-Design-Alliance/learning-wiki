@@ -45,6 +45,14 @@
         [
           "organization-simulation-knowledge-practices-support-interdisciplinary-learning",
           "~"
+        ],
+        [
+          "simulation-larger-application-gains",
+          "+"
+        ],
+        [
+          "simulation-larger-overall-il-gains",
+          "+"
         ]
       ]
     },

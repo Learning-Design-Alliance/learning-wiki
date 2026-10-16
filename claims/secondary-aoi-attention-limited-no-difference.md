@@ -30,7 +30,7 @@ sources:
 # Attention allocated to the secondary AOI remained limited and did not differ significantly between conditions in duration or time to first fixation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Fixation duration on the secondary AOI (gaze-based M = 1.08s vs. baseline M = 1.02s) showed no statistically significant difference between conditions. [→ Zekun Wu 2026](#zekun-wu-2026)

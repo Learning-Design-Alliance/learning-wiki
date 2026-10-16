@@ -41,8 +41,9 @@ Meta-analytic subgroup analysis of expressive vocabulary among disadvantaged chi
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students](assistments-school-composition-moderators.md) — the general claim this finding bears on, with the studies behind it
 - [Technology-enhanced stories yield a small but significant additional benefit over traditional story presentations for story comprehension and expressive vocabulary in young children](technology-enhanced-stories-small-benefit-comprehension-expressive-vocabulary.md) — a broader claim this one bears on
 - [Multimedia-only stories benefit story comprehension, whereas stories that also include interactive features do not](multimedia-only-benefits-interactive-features-detrimental.md) — related
 - [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — related

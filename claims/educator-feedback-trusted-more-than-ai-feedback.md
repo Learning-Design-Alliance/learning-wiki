@@ -41,8 +41,9 @@ The review attributes this to Henderson et al. (2025): a survey of Australian st
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - Trustworthiness and goodwill, more than expertise, set the limits of students' reliance on AI-generated feedback — related
 - Students' reservations about AI feedback centre on trustworthiness (data privacy) and goodwill (impersonal, demotivating feedback) — related
 - [Students bound their reliance on AI feedback and advocate a hybrid model assigning AI broad language concerns and instructors individualized relational guidance](bounded-reliance-hybrid-feedback-preference.md) — related

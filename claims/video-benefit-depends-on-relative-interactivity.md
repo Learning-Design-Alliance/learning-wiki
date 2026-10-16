@@ -41,8 +41,9 @@ Moderation analysis of relative interactivity across replacement studies. The re
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Replacing existing teaching with video produces small improvements in student learning in higher education (g = 0.28)](video-replacement-small-learning-benefit.md) — the general claim this finding bears on, with the studies behind it
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — related
 - [Multimedia-only stories benefit story comprehension, whereas stories that also include interactive features do not](multimedia-only-benefits-interactive-features-detrimental.md) — related

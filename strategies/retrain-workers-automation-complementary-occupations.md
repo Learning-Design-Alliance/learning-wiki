@@ -17,7 +17,7 @@ sources:
 # Retrain workers for occupations complementary to, rather than competing with, automation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 review, 1 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends public policy responses to AI-driven automation of tasks, which it says will likely increase productivity and wealth but reduce demand for some automatable skills. It states: "Public policy can address these risks, ensuring that workers are retrained and able to succeed in occupations that are complementary to, rather than competing with, automation." It also calls for policy ensuring AI's economic benefits are shared broadly.

@@ -41,6 +41,7 @@ The review states this developmental sequence as a synthesis of acquisition rese
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Korean EFL learners sort sentences increasingly by construction rather than by verb as grade level increases](construction-based-sorting-increases-with-grade-level.md) — the general claim this finding bears on, with the studies behind it
 - [Language processing is intimately tuned to input frequency across phonology, phonotactics, reading, spelling, lexis, morphosyntax, formulaic language, comprehension, grammaticality, sentence production, and syntax](frequency-tuning-across-language-processing-domains.md) — related

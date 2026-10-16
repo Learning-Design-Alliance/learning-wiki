@@ -62,6 +62,8 @@ Over-reliance monitoring within the AI-assisted inquiry group (90 students) in t
 
 ## Related Claims
 
+- [All three instructional groups began at comparable, mostly low decision-making levels and all improved over the intervention](all-groups-improved-from-low-baseline.md) — the general claim this finding bears on, with the studies behind it
+
 - [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](genai-overreliance-harms-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
 - [AI-assisted inquiry produced larger decision-making gains than inquiry-only and traditional instruction in secondary climate-change education](ai-assisted-inquiry-largest-decision-making-gains-climate.md) — related
 - [Between-group effect sizes on decision-making gains were large for AI-assisted versus traditional instruction and moderate-to-large for AI-assisted versus inquiry-only](ai-assisted-effect-sizes-large-vs-traditional.md) — related

@@ -42,6 +42,9 @@ Cohort comparison of fall-to-fall MAP Growth gains: the pandemic cohort (fall 20
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Achievement declines from 2019 to 2022 were smaller for Asian American and White first and second graders than for Hispanic, Black, and AIAN students](early-elementary-covid-losses-racial-ethnic-disparities.md) — related
 - [Male BIPOC students and BIPOC students in high-poverty schools made the lowest percentage of typical learning gains during the pandemic](gender-and-school-poverty-moderate-pandemic-gains.md) — related

@@ -30,7 +30,7 @@ sources:
 # In a two-lecture user study, linear mixed models find no statistically significant effect of GPT-generated output on student MCQ performance, with a tendency toward a group-by-attempt interaction for IVDA
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Based on likelihood-ratio tests, no fixed effects (attempt, group, group × attempt) are significant at α = 0.05 in either the IVDA or CV scenario. [→ Markos Stamatakis 2026](#markos-stamatakis-2026)

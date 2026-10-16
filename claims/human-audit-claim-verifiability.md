@@ -30,7 +30,7 @@ sources:
 # Of 100 human-audited claims, 39 are fully verifiable, 55 partially verifiable, and 6 not verifiable, with main responses showing stronger provenance than follow-ups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Human assessors verified 39 of 100 claims fully, 55 partially, and 6 not at all due to missing citation or source evidence. [→ Dana Rezazadegan 2026](#dana-rezazadegan-2026)

@@ -40,6 +40,19 @@ Authors' discussion in the introduction's themes section about state tests, whic
 
 > "Multiple choice tests might be relatively more prone to ceiling and floor effects and therefore of potentially limited value for evaluations examining the effects of interventions targeting high- or low-performing students. Another concern is that multiple-choice tests do not measure higher-order skills well."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Can selected-response items measure higher-order skills and specific domains, or mainly overall recognition-level knowledge?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **4 distinct studies** (2 review, 1 associational, 1 causal), `q2`–`q3`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| May 2009 | q2 · review · r2 | i? | this claim |
+| Darling-Hammond 2017 | q2 · review · r2 | i? | [State tests under NCLB measured little higher-order thinking, with only 2 percent of math ](nclb-tests-low-higher-order-content.md) (supports) |
+| Shannon 2026 | q2 · associational · r2 | i? | [The multiple-choice component of the revised ELA placement test strongly measured overall ](cmi-ela-test-strong-overall-weak-domain-measurement.md) (supports); [The multiple-choice placement test component and high school GPA similarly predicted passi](cmi-gpa-and-multiple-choice-similarly-predict-ela-passing.md) (qualifies) |
+| [Shihao Yang 2026](https://doi.org/10.48550/arxiv.2609.23958) | q3 · causal · r2 | i? | [The tutor-access learning gain was concentrated in conceptual depth of written answers rat](tutor-gain-concentrated-in-written-reasoning-depth.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

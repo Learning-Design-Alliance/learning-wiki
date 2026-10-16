@@ -79,11 +79,13 @@ The report's context section, referencing Figure 2 (annual income by gender and 
 
 ## Discussion
 
-
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — the general claim this finding bears on, with the studies behind it
 - Iowa City schools observed inequitable course enrollment in computational thinking, computer science, and advanced STEM electives by race/ethnicity, income, gender, and ELL status — a narrower finding that bears on this claim
 - [Access to 8th-grade Algebra remains highly inequitable across the United States](8th-grade-algebra-access-inequitable-nationwide.md) — a narrower finding that bears on this claim
 - [Computing participation and achievement disparities persisted in the district despite development of an inclusive CT pathway.](talladega-disparities-persisted-despite-pathway.md) — a narrower finding that bears on this claim

@@ -41,6 +41,7 @@ Coding of students' open-ended feedback found 9 meta comments critiquing the per
 
 ## Discussion
 
-
 ## Related Claims
+
+- [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](personalized-problem-contexts-boost-engagement-grades-4-8.md) — the general claim this finding bears on, with the studies behind it
 - [Students frequently reported that personalized problem topics did not match their interests](students-report-topic-mismatch-interests.md) — related

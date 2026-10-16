@@ -30,7 +30,7 @@ sources:
 # Only 11.1% of interactions pair mastery-oriented aims with advanced strategies such as epistemic justification
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Profiles in which mastery-oriented aims co-occur with epistemic justification (and explanation seeking) account for only 11.1% of observed interactions. [→ Menggian Wu 2026](#menggian-wu-2026)
@@ -60,7 +60,8 @@ The phi correlation matrix among the seven binary labels (Figure 3a) shows gener
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Mastery-approach, performance-approach, and performance-avoidance goals positively predict engagement, while mastery-avoidance goals do not, in AI-assisted English learning](goal-orientations-predict-engagement-ai-efl.md) — the general claim this finding bears on, with the studies behind it
 - [78.8% of student-GenAI turns lack mastery-oriented aims and reliable epistemic strategies](low-epistemic-engagement-788-percent-non-mastery.md) — related
 - The three collaboration behavior sub-scales are strongly intercorrelated, and mastery correlates with ego-social orientation — related

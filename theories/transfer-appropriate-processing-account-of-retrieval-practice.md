@@ -17,7 +17,7 @@ sources:
 # Transfer-Appropriate Processing Account of Retrieval Practice
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 9 claims (4 for, 2 mixed, 3 against) · 5 studies (3 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 1 of 5 report an effect size · 9 claims rest on one study
+> **Evidence** · 10 claims (4 for, 3 mixed, 3 against) · 6 studies (3 quant-synthesis, 1 causal, 1 review, 1 qualitative), `q2`–`q4` · 2 of 6 report an effect size · 9 claims rest on one study
 
 ## Description
 Transfer-appropriate processing holds that performance is best when initial learning processing matches the processing required on a later final assessment. The chapter says it "provides a useful heuristic for explaining why practicing retrieval during learning should bolster long-term retention", illustrated by the need to practice a skill such as playing the violin.
@@ -49,6 +49,11 @@ Transfer-appropriate processing holds that performance is best when initial lear
 - [Transfer of test-enhanced learning is greatest across test formats, to application and inference questions, to medical diagnosis problems, and to mediator and related word cues](../claims/transfer-greatest-test-formats-application-inference-medical-mediator-cues.md) [+W]
 - [Teachers report changing high-quality instruction to match state and interim test formats, limiting deep learning opportunities](../claims/teachers-alter-instruction-to-match-test-formats.md) [~W]
 - [Transfer of test-enhanced learning is weakest to rearranged stimulus-response items, to untested materials seen during initial study, and to problems involving worked examples](../claims/transfer-weakest-rearranged-untested-materials-worked-examples.md) [+W]
+
+## The evidence by question
+
+- *Should practice before the assessment match the assessed task's format and level?* [The classroom testing effect transfers to mismatched test formats, but consistent quiz–exam formats yield a significantly larger effect (g = 0.531 vs. g = 0.399).](../claims/format-consistency-moderates-classroom-testing-effect.md) [+M]
+- *Does the benefit carry to new questions, inferences and applications, or only to the items practised?* [Retrieval Practice Improves Transfer](../claims/retrieval-practice-improves-transfer.md) [~S]
 
 ## Related Theories
 - 

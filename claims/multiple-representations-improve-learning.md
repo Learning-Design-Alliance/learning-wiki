@@ -62,7 +62,7 @@ This review addresses the "representation dilemma": students often must learn un
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does adding a second representation of the same idea help, and when?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **7 distinct studies** (3 causal, 2 review, 1 associational, 1 qualitative), `q2`–`q3`, 2 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does adding a second representation of the same idea help, and when?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **8 distinct studies** (4 causal, 2 review, 1 associational, 1 qualitative), `q2`–`q3`, 2 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -73,6 +73,7 @@ This review addresses the "representation dilemma": students often must learn un
 | [Rakib 2025](https://doi.org/10.48550/arxiv.2607.00979) | q2 · causal · r1 | i? | [Participants valued multimodal experiences combining visualization with hands-on interacti](multimodal-valued-complex-visualizations-hinder.md) (qualifies) |
 | Douglas H. Clements 2013 | q2 · associational · r? | i? | [Using more representations of mathematical ideas is associated with increased student math](more-representations-mathematical-ideas-higher-achievement.md) (supports) |
 | Higgin 2025 | q2 · qualitative · r2 | i? | [Multiple representations and explanations of math concepts aid student understanding, but ](multiple-representations-aid-understanding-faculty-time.md) (supports) |
+| [Seth Bernstein 2026](https://doi.org/10.48550/arxiv.2606.28882) | q3 · causal · r2 | i? | [Diverse LLM explanations were associated with about 7.7% higher open-ended response accura](diverse-llm-explanations-higher-oe-accuracy-not-significant.md) (qualifies); [MCQ accuracy was high (above 87%) across all conditions with no significant difference bet](mcq-accuracy-no-significant-condition-difference.md) (qualifies); [Students reported similar perceived information quantity across conditions, indicating div](diverse-explanations-no-perceived-information-overload.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

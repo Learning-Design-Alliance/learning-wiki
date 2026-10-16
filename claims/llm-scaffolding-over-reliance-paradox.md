@@ -41,8 +41,9 @@ The review reports a single-group observational study of beginner CFL learners u
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Higher reliance on AI tools is correlated with lower critical-thinking performance, mediated by cognitive offloading](ai-reliance-correlated-lower-critical-thinking-offloading.md) — the general claim this finding bears on, with the studies behind it
 - [Over-reliance on GAI risks weakening teaching and social presence and depriving students of foundational skill development](gai-overreliance-risks-presence-and-skills.md) — related
 - [Standalone LLM tutors replicate Phase II's profile: strong single-interaction intelligence without systematic control over the learning trajectory](standalone-llm-tutors-lack-trajectory-control.md) — related
 - [Unguarded answer-giving AI harmed unaided exam performance while a guarded version of the same model erased the harm (Bastani et al., 2025, as reported)](gpt4-access-harms-learning-after-withdrawal.md) — related

@@ -30,7 +30,7 @@ sources:
 # Unimodal classification confuses Key Stage 4 with Key Stage 3, while the best multimodal model classifies Key Stages 4 and 5 perfectly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Key Stage 4 was the most problematic class for the unimodal BERT approach, with excerpts misinterpreted as Key Stage 3. [→ Jordan J. Bird 2024](#jordan-j-bird-2024)

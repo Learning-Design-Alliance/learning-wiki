@@ -42,8 +42,9 @@ The digest's benefits section states this as its primary claim, drawn from a rev
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — the general claim this finding bears on, with the studies behind it
 - [Peer reflective groups encourage student teachers to challenge existing theories and model collaborative professional development](peer-reflective-groups-challenge-student-teacher-views.md) — related
 - [A preservice secondary mathematics teacher's philosophy evolved subtly over a year, appending a 'deeper understanding' view to his original absolutist theory of mathematics](preservice-philosophy-evolved-by-appending-deeper-understanding.md) — related
 - [Perturbation or dissatisfaction with current beliefs, stimulated by reflecting on experiences through the NCTM Standards, was an important stimulus for change in a preservice teacher's philosophy](perturbation-stimulates-philosophy-change.md) — related

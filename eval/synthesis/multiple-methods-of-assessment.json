@@ -75,6 +75,78 @@
         [
           "rubrics-improve-student-work",
           "+"
+        ],
+        [
+          "learners-misjudge-effective-learning-strategies",
+          "+"
+        ],
+        [
+          "metacognitive-illusion-blocking-interleaving",
+          "+"
+        ],
+        [
+          "metacognitive-illusion-pretesting-underrated",
+          "+"
+        ],
+        [
+          "novice-metacognitive-calibration-deficits",
+          "+"
+        ],
+        [
+          "feedback-improves-confidence-calibration",
+          "+"
+        ],
+        [
+          "feedback-reduces-absolute-metacognitive-bias-exp1",
+          "+"
+        ],
+        [
+          "sketching-most-accurate-monitoring-absolute-error",
+          "+"
+        ],
+        [
+          "self-assessment-inflation-seven-percent",
+          "+"
+        ],
+        [
+          "jol-consistency-and-rating-evolution",
+          "~"
+        ],
+        [
+          "elicit-condition-jol-accuracy-correlations",
+          "~"
+        ],
+        [
+          "underuse-stems-from-false-beliefs-and-counterintuition",
+          "+"
+        ],
+        [
+          "overconfidence-all-conditions-except-sketching",
+          "+"
+        ],
+        [
+          "students-miscalibrate-question-specificity",
+          "+"
+        ],
+        [
+          "reflection-improves-awareness-calibration",
+          "~"
+        ],
+        [
+          "exp2-linear-reduction-absolute-metacognitive-bias",
+          "+"
+        ],
+        [
+          "metacognitive-feedback-reduces-reminder-bias",
+          "+"
+        ],
+        [
+          "prediction-alone-ineffective-performance-feedback-sufficient",
+          "~"
+        ],
+        [
+          "exp2-signed-metacognitive-bias-not-replicated",
+          "~"
         ]
       ]
     },
@@ -82,6 +154,14 @@
       "hub": "performance-assessments-reliably-scoreable",
       "question": "Can methods scored by judgement be scored reliably, or do they add rater variation?",
       "members": [
+        [
+          "equity-concerns-performance-based-assessments",
+          "~"
+        ],
+        [
+          "pog-assessment-validity-reliability-challenges",
+          "~"
+        ],
         [
           "raters-differed-severity-mfrm",
           "~"

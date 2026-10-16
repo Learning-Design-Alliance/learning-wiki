@@ -30,7 +30,7 @@ sources:
 # In an 18-participant user study, the system received a 4.00/5 overall recommendation, with hallucination resistance rated 4.44/5 and highest ratings for ease of starting a conversation (4.39/5) and response relevance and accuracy (4.06/5)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Participants rated resistance to hallucinations high (Mean = 4.44/5), confirming RAG was effectively limited to teacher-provided sources. [→ Anna Ostrowska 2026](#anna-ostrowska-2026)

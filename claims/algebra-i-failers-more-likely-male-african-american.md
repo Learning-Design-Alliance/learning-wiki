@@ -42,6 +42,9 @@ Descriptive comparison of CPS administrative records for first-time ninth grader
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Most students needing Algebra I credit recovery failed multiple ninth-grade courses and few were on track to graduate](algebra-failers-failed-multiple-courses-off-track.md) — related
 - [Students who fail Algebra I show far more signs of ninth-grade disengagement, including higher absenteeism and suspension rates](algebra-failure-linked-to-ninth-grade-disengagement.md) — related

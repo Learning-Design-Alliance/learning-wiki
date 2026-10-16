@@ -30,7 +30,7 @@ sources:
 # Scaffolding level provides no consistent additional predictive information about subsequent exam performance beyond prior achievement and observed dialogue behavior
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Adding mean scaffolding level to regression models of exam scores increased explained variance by only 1–2 percentage points, none of the three model comparisons reached conventional statistical significance, and the estimated scaffolding coefficient changed direction for e3. [→ Suhyeon Lee 2026](#suhyeon-lee-2026)
@@ -60,8 +60,9 @@ Appendix C sensitivity analysis replacing mean scaffolding with counts of L4 (So
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Scaffolding improves learning](scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [A general-purpose LLM used as a tutor without pedagogical prompting overwhelmingly provides high assistance, with more than 95% of responses classified as Explaining or Solving](default-llm-tutoring-high-assistance-concentration.md) — related
 - [Explanation-seeking interaction depth is positively associated with task quality beyond baseline knowledge and volume](depth-predicts-task-quality.md) — related
 - [The largest OSCE-domain improvement from multi-agent scaffolding was in communication performance](communication-largest-osce-gain.md) — related

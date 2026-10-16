@@ -43,6 +43,9 @@ Theoretical argument in the development section of Sternberg's chapter, which li
 ## Discussion
 
 
+## Learner Variables
+- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Schools overwhelmingly reward executive styles and confuse style with level of intellect](schools-reward-executive-styles.md) — related
 - [Intellectual style is a way of directing intelligence, not a level of it](style-distinct-from-intelligence-level.md) — related

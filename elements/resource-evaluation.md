@@ -13,7 +13,7 @@ generated:
 # Resource Evaluation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (6 for, 2 mixed, 1 against) · 15 studies (6 causal, 3 quant-synthesis, 3 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 2 of 15 report an effect size · 6 claims rest on one study
+> **Evidence** · 10 claims (7 for, 2 mixed, 1 against) · 18 studies (9 causal, 3 quant-synthesis, 3 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 2 of 18 report an effect size · 6 claims rest on one study
 
 ## Description
 Resource evaluation asks learners to judge the credibility, accuracy, and relevance of information sources before using them. Rather than treating evaluation as a checklist delivered by the instructor, learners apply criteria themselves — comparing sources, probing authorship and evidence, and justifying their judgments — which builds transferable information literacy.
@@ -60,6 +60,10 @@ Resource evaluation works when learners actively apply criteria to real, contras
 - [Large language models can produce fluent but factually inaccurate or fabricated outputs (AI hallucination), posing risks for uncritical users in science education](../claims/llm-hallucination-risk-science-education.md) [+W]
 - [College students' scores on an online source credibility assessment improved significantly after four course-embedded modules in an asynchronous nutrition course](../claims/course-embedded-modules-improve-credibility-scores.md) [+M] — attached 2026-10-15 from Breakstone et al. (2021), which proposed "Four one-hour course-embedded modules teaching fact checkers' evaluation strategies in an asynchronous nutrition course"; tests this page's relationship.
 - [After the modules, students engaged in lateral reading far more often, rising from 3 of 87 students at pretest to 67 of 87 at posttest](../claims/lateral-reading-increased-post-intervention.md) [+M] — attached 2026-10-15 from Breakstone et al. (2021), which proposed "Four one-hour course-embedded modules teaching fact checkers' evaluation strategies in an asynchronous nutrition course"; tests this page's relationship.
+
+## The evidence by question
+- *Does teaching learners how to check a source improve their judgments of unfamiliar sources, and how much can one session do?* [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]
+- *Do learners check information from a generative AI the way they check sources found by search?* [ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users](../claims/chatgpt-reduced-differentiation-verification.md) [+M]
 
 ## Related Elements
 - [Research](research.md) — evaluation is the filtering stage within a research cycle

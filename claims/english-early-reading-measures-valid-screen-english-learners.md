@@ -41,8 +41,9 @@ The panel's synthesis of screening validity studies with English learners, summa
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Literacy screener benchmarks predict which grade 3 students will not meet MCAS ELA expectations, but not necessarily who will meet them](screeners-predict-mcas-failure-not-success.md) — the general claim this finding bears on, with the studies behind it
 - [Phonological awareness and alphabet knowledge fluency are each uniquely related to both word reading and spelling in kindergartners](pa-and-ak-fluency-uniquely-related-word-reading-spelling.md) — related
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related
 - [Oral language measures of syntax, listening comprehension, and oral vocabulary do not predict which English learners will struggle with learning to read](oral-language-measures-do-not-predict-reading-struggle.md) — possibly the same claim (merge candidate)

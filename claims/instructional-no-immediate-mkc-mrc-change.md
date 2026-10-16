@@ -41,8 +41,9 @@ Within-group paired analysis of the instructional group (n1 = 61) at T0 to T1 in
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Experiential instruction produces larger immediate pre-post gains than instructional lecture in AI engagement and metacognitive knowledge of cognition](experiential-beats-instructional-immediate-aie-mkc.md) — related
 - [The experiential group showed a delayed, continued within-group increase in regulation of cognition that the instructional group did not show](experiential-delayed-mrc-increase.md) — related
 - [Immediate experiential advantages in knowledge of cognition and engagement converged with the instructional group by five weeks](five-week-convergence-aie-mkc.md) — related

@@ -41,11 +41,12 @@ Heterogeneity analysis (table 10) of the randomized comparison: the printed year
 
 ## Discussion
 
-
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students](assistments-school-composition-moderators.md) — the general claim this finding bears on, with the studies behind it
 - [Higher-achieving schools realized a bigger first-year reading benefit from the evaluation pilot than lower-achieving schools](eitp-heterogeneity-baseline-achievement.md) — related
 - [The first-year effect of the EITP pilot on school-level math achievement (0.05 SD) was not statistically significant](eitp-year1-math-effect-null.md) — related
 - [After the first year of the EITP pilot, cohort 1 schools improved reading achievement by 0.10 standard deviations relative to cohort 2 schools](eitp-year1-reading-effect-010sd.md) — related

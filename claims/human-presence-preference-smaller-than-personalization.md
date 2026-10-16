@@ -41,8 +41,9 @@ First-choice frequency analysis grouping formats by source across both cohorts o
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](guo-video-style-engagement-findings.md) — the general claim this finding bears on, with the studies behind it
 - [Students preferred AI-generated personalized videos over human-recorded non-personalized videos in direct comparison](ai-personalized-videos-preferred-over-human-non-personalized.md) — reports the opposite
 - [Nearly nine in ten students ranked a personalized video as their top choice](personalized-video-top-choice-88-percent.md) — related
 - [Mean rank ordering of the four video types was stable across both course offerings, with hypothetical human-recorded personalized videos ranked highest and AI-generated non-personalized lowest](stable-mean-rank-ordering-four-video-types.md) — related

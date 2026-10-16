@@ -41,11 +41,15 @@ Subgroup analysis of the randomized controlled trial (Appendix A4): low-ability 
 
 ## Discussion
 
-
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — moderator: an instructional effect differs with it
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [In the few studies that split by ability, learning techniques helped low-ability students and not high-ability students](learning-techniques-benefit-low-ability-not-high-ability-students.md) — the general claim this finding bears on, with the studies behind it
+
+- [Fluency-building activities for struggling readers in grades 4–9 have strong evidence, based on 33 studies](strong-evidence-fluency-building-activities-grades-4-9.md) — the general claim this finding bears on, with the studies behind it
 - [The evidence base for Fluency Formula™ consists of a single small randomized controlled trial, with no studies addressing alphabetics or general reading achievement](fluency-formula-evidence-base-single-small-rct.md) — a broader claim this one bears on
 - [Fluency Formula™ shows a positive but statistically non-significant effect on second-grade oral reading fluency (effect size 0.26, improvement index +10)](fluency-formula-positive-nonsignificant-fluency-effect.md) — related
 - [Fluency Formula™ shows a negative but statistically non-significant effect on second-grade reading comprehension (effect size –0.28, improvement index –11)](fluency-formula-negative-nonsignificant-comprehension-effect.md) — related

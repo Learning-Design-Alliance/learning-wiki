@@ -30,7 +30,7 @@ sources:
 # Prior GenAI-solution evaluation showed no significant benefit on exam problems structurally aligned with the homework, with the midterm comparison inconclusive due to a floor effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` On the midterm aligned question there was no significant difference (U=5,644.5, p=.30, r=-0.058), but a pronounced floor effect (median = 0 in both groups) limits sensitivity. [→ Ethan Dickey 2026](#ethan-dickey-2026)

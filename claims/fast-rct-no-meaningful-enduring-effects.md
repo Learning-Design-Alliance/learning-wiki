@@ -41,8 +41,9 @@ Cluster RCT with 60 Philadelphia elementary schools randomized to FAST or contro
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Small isolated effects on family conflict (negative) and parent-teacher joining (positive) appeared but were not enduring and may be spurious](fast-isolated-small-effects-possibly-spurious.md) — a narrower finding that bears on this claim
 - [The impact of FAST did not differ significantly by student subgroups or school characteristics in the RCT](fast-no-subgroup-differential-impact.md) — related
 - [FAST take-up was far below the projected 60 percent participation rate, with only about 20 percent typical participation per year](fast-takeup-far-below-projected.md) — related

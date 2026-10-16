@@ -42,6 +42,9 @@ These are supplemental findings from the DHHS ACF (2010) randomized controlled t
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [The evidence base for Head Start's school-readiness effects is small: only one of 40 eligible studies met WWC group design standards](head-start-evidence-base-single-rct.md) — related
 - [Head Start shows no discernible effects on mathematics achievement for 4-year-old children](head-start-no-discernible-mathematics-effects.md) — related

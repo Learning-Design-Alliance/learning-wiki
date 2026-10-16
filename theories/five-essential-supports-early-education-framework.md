@@ -17,7 +17,7 @@ sources:
 # The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 23 claims (22 for, 1 against) · 14 studies (6 associational, 3 qualitative, 2 review, 2 design, 1 theoretical), `q2`–`q3` · 0 of 14 report an effect size · 22 claims rest on one study
+> **Evidence** · 24 claims (23 for, 1 against) · 15 studies (6 associational, 4 qualitative, 2 review, 2 design, 1 theoretical), `q2`–`q3` · 0 of 15 report an effect size · 23 claims rest on one study
 
 ## Description
 The five essential supports framework specifies five school- or center-level organizational subsystems—effective leaders, collaborative teachers, involved families, supportive environment, and ambitious instruction—that operate in strong cooperation to enable or inhibit improvement in classroom practices. The article states that "when one of the essential supports is strengthened, it buttresses the development of the other supports," and that school leadership is theorized to be the catalyst that strengthens the other four. The authors adapt this framework, originally developed for elementary schools by Bryk et al. (2010), to early education settings with revised definitions such as "Effective Instructional Leaders."
@@ -61,6 +61,12 @@ The five essential supports framework specifies five school- or center-level org
 - [Within schools, principal leadership shows a negative direct relationship with classroom academic demands net of mediating factors](../claims/within-school-direct-negative-leadership-academic-demand.md) [-W]
 - [Principal turnover is associated with lower student achievement, worse climate, and higher teacher attrition, with effects lasting up to 5 years](../claims/principal-turnover-harms-achievement-climate-retention.md) [+W]
 - [Teachers reporting higher leadership effectiveness and supports have lower predicted turnover (9.0% vs. 18.7% for low-leadership teachers)](../claims/school-leadership-associated-with-lower-turnover.md) [+W]
+
+## The evidence by question
+
+- *Are schools strong on several of the five essential supports more likely to improve student learning than schools weak on them?* [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+M]
+- *Do early education programs that are strong on the essential supports have better classroom interactions and child attendance than weakly organized programs?* [Strongly organized ECE programs create contexts more supportive of teaching, learning, and family engagement than weakly organized programs](../claims/strong-essentials-programs-more-supportive-contexts.md) [+W]
+- *Does principal leadership raise student outcomes, and by what route?* [Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers](../claims/instructional-leadership-linked-student-outcomes.md) [+M]
 
 ## Related Theories
 

@@ -42,6 +42,9 @@ Key finding stated in this Mathematica brief on the Adult Promise initiative; th
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [The brief reports that adult learners often need high-touch support such as navigators through enrollment and financial aid](adult-learners-need-navigator-high-touch-support.md) — related
 - [The brief reports that online tools can engage prospective adult learners and make enrollment convenient given work and family demands](online-tools-convenient-enrollment-adult-learners.md) — related

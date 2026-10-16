@@ -11,7 +11,23 @@
           "+"
         ],
         [
+          "active-learning-effect-robust-bias-and-rigor",
+          "+"
+        ],
+        [
+          "active-learning-benefits-hold-across-stem-disciplines",
+          "+"
+        ],
+        [
+          "active-learning-higher-test-scores-than-lecture",
+          "+"
+        ],
+        [
           "ccct-outperformed-lecture-achievement",
+          "+"
+        ],
+        [
+          "interactive-instruction-positive-achievement-gains-chicago",
           "+"
         ],
         [
@@ -23,20 +39,32 @@
           "~"
         ],
         [
-          "active-learning-effect-robust-bias-and-rigor",
-          "+"
-        ],
-        [
-          "active-learning-benefits-hold-across-stem-disciplines",
-          "+"
-        ],
-        [
-          "interactive-instruction-positive-achievement-gains-chicago",
-          "+"
-        ],
-        [
           "ai-tutor-beats-active-learning-post-test",
           "~"
+        ],
+        [
+          "fci-gain-increased-peer-instruction-harvard",
+          "+"
+        ],
+        [
+          "jitt-larger-fci-gains-than-lecture",
+          "+"
+        ],
+        [
+          "clt-instructional-design-raises-retention-transfer-thermodynamics",
+          "+"
+        ],
+        [
+          "no-group-difference-tat-posttest-cls",
+          "~"
+        ],
+        [
+          "experiential-beats-instructional-immediate-aie-mkc",
+          "+"
+        ],
+        [
+          "instructional-no-immediate-mkc-mrc-change",
+          "+"
         ]
       ]
     },
@@ -79,6 +107,54 @@
         [
           "lecturing-on-values-does-not-transact-values-effectively",
           "+"
+        ],
+        [
+          "active-learning-lower-feeling-of-learning",
+          "~"
+        ],
+        [
+          "interviews-active-classrooms-disjointed-frustrating",
+          "~"
+        ],
+        [
+          "ire-shift-toward-discussion-improves-learning",
+          "+"
+        ],
+        [
+          "open-democratic-classroom-climate-promotes-citizenship",
+          "+"
+        ],
+        [
+          "dilemma-discussion-meta-analysis-moderate-effect",
+          "+"
+        ],
+        [
+          "collaborative-argumentation-benefits-summary",
+          "+"
+        ],
+        [
+          "implicit-strategies-inconclusive-domain-specific-only",
+          "~"
+        ],
+        [
+          "peer-discussion-improves-conceptual-understanding",
+          "+"
+        ],
+        [
+          "er-peer-interaction-greater-achievement-gains",
+          "+"
+        ],
+        [
+          "interactive-beats-constructive-concept-mapping",
+          "+"
+        ],
+        [
+          "interaction-facilitates-l2-grammatical-development",
+          "+"
+        ],
+        [
+          "active-participation-in-interaction-drives-development",
+          "~"
         ]
       ]
     }

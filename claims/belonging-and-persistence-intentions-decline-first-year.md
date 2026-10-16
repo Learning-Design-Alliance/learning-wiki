@@ -41,10 +41,13 @@ Growth curve analysis of the three-wave survey data showed that "sense of belong
 
 ## Discussion
 
-
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Belongingness is among the factors that most strongly and reliably affect learners' academic motivation and achievement](belongingness-strongly-affects-motivation-achievement.md) — the general claim this finding bears on, with the studies behind it
+
+- [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [First-year students' sense of belonging to their university predicts intentions to persist, controlling for background variables and other persistence predictors](sense-of-belonging-predicts-persistence-intentions.md) — related
 - [A belonging-enhancing intervention produced a smaller decline in sense of belonging over the first year than the control groups](belonging-intervention-smaller-decline.md) — related

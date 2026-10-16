@@ -42,7 +42,10 @@ Qualitative analysis of teachers' artifacts, expressions and reflections in the 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [A 13-week TPACK-based course significantly improves pre-service preschool teachers' instructional design competence compared with traditional instruction](tpack-course-improves-preservice-preschool-idc.md) — the general claim this finding bears on, with the studies behind it
+
+- [Teachers receiving 11 or more hours of training on integrating digital content report almost double the reliance on software and the Internet compared with untrained teachers](pd-integration-training-doubles-reliance.md) — the general claim this finding bears on, with the studies behind it
 - Teachers' overarching conceptions expanded to value multiple technologies, including technologies for communication, collaboration, and inquiry, in more student-centered ways — possibly the same claim (merge candidate)
 - After the IDEAS academy, both studied teachers' classrooms moved toward more student-centered methods, with inquiry and collaborative learning emerging — related

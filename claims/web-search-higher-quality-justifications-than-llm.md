@@ -39,10 +39,23 @@ ANCOVA on coded justification quality (number of relevant aspects mentioned; int
 
 > "H2 –Qualityofjustifications 1.87(1.10) 1.20(0.77) 11.18 0.001 0.11"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*When learners research a question, does searching with a web search engine lead to deeper learning than asking a generative AI chatbot or reading an AI summary?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **3 distinct studies** (3 causal), `q2`–`q3`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Matthias Stadler 2024](https://doi.org/10.1016/j.chb.2024.108386) | q2 / q3 · causal · r2 | i2; i?; i3 | this claim; [Germane cognitive load fully mediates the effect of information-search tool on justificati](germane-load-mediates-tool-effect-on-justification-quality.md) (supports); [Students using ChatGPT 3.5 experience lower germane cognitive load than students using Goo](llm-search-lower-germane-cognitive-load.md) (supports); [Students using ChatGPT 3.5 experience lower intrinsic cognitive load than students using G](llm-search-lower-intrinsic-cognitive-load.md) (qualifies) |
+| [Shravika Mittal 2026](https://doi.org/10.48550/arxiv.2606.11669) | q2 · causal · r2 | i? | [ChatGPT users showed a non-significant trend toward worse overall informal learning outcom](chatgpt-worse-informal-learning-outcome-trend.md) (supports); [ChatGPT users began information seeking with narrow, specified queries far more often than](chatgpt-narrow-starting-queries.md) (qualifies) |
+| [Yifan Liu 2026](https://doi.org/10.48550/arxiv.2606.08936) | q2 · causal · r? | i? | [AI overviews in an academic search engine showed mixed effects: summaries may reduce menta](ai-overviews-mixed-effects-academic-search.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
-
 ## Related Claims
+
+- [Direct GenAI-supported feedback improves immediate argument-quality gain over peer feedback, while reflective and hybrid designs outperform direct GenAI feedback](genai-feedback-design-argument-quality-gain.md) — the general claim this finding bears on, with the studies behind it
 - [Recommendation homogeneity does not differ between students using ChatGPT 3.5 and students using Google](llm-recommendation-homogeneity-no-difference.md) — related
 - [Students using ChatGPT 3.5 experience lower extraneous cognitive load than students using Google during a web research task](llm-search-lower-extraneous-cognitive-load.md) — related
 - [Germane cognitive load fully mediates the effect of information-search tool on justification quality (exploratory analysis)](germane-load-mediates-tool-effect-on-justification-quality.md) — related

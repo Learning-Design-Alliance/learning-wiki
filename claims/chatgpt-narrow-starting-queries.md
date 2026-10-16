@@ -41,8 +41,9 @@ Thematic analysis of diary entries (98 ChatGPT, 140 Google) coded with Ellis's m
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Students using Google produce higher-quality justifications in their final recommendations than students using ChatGPT 3.5](web-search-higher-quality-justifications-than-llm.md) — the general claim this finding bears on, with the studies behind it
 - [ChatGPT biased information access toward solution-oriented artifacts over principle-oriented information](chatgpt-artifact-over-principle-bias.md) — related
 - [ChatGPT participants experienced meta-cognitive load and frictions, with slightly more unsatisfied endings than Google participants](chatgpt-meta-cognitive-load-unsatisfied-endings.md) — related
 - [ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users](chatgpt-reduced-differentiation-verification.md) — related

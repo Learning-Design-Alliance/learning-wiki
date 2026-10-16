@@ -41,11 +41,14 @@ This is the article's own concluding statement about its course-based study of A
 
 ## Discussion
 
-
 ## Learner Variables
 - [Digital Literacy](../learner-variables/digital-literacy.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](ai-instruction-stem-moderate-positive-effect.md) — the general claim this finding bears on, with the studies behind it
+
+- [Meta-reviews reach contradictory conclusions on whether AI reliance harms or helps critical thinking, with substantial design limitations limiting generalizability](contradictory-meta-reviews-ai-critical-thinking.md) — the general claim this finding bears on, with the studies behind it
 - A systematic review of 14 studies (8,305 participants) found AI-based tools enhanced comprehension, engagement, problem-solving, and critical thinking by personalizing learning experiences — a narrower finding that bears on this claim
 - [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — reports the opposite
 - [Overreliance on AWE may lower learners' critical thinking and creativity](awe-overreliance-lowers-critical-thinking-creativity.md) — reports the opposite

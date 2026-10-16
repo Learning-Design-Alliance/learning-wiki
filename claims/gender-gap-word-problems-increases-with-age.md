@@ -61,6 +61,10 @@ The review reports disagreement about when the male advantage first appears, att
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [No significant gender difference in word-problem performance on either formatted or unformatted test forms](no-gender-difference-either-test-form.md) — reports the opposite
 - [Congressional hearing testimony reports, citing a 1979 ETS study second-hand, that females tend to do better on test items with female or neutral figures than on items with male figures](male-oriented-item-content-biases-test-scores.md) — related

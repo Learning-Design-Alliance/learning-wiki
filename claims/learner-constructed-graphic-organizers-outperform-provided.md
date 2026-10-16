@@ -66,7 +66,7 @@ In three experiments, learners read a passage that came either with author-provi
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does building a representation of the content teach more than studying one that is provided?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **5 distinct studies** (3 quant-synthesis, 2 causal), `q3`–`q4`, 4 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does building a representation of the content teach more than studying one that is provided?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **7 distinct studies** (3 quant-synthesis, 3 causal, 1 design), `q2`–`q4`, 4 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -75,6 +75,8 @@ In three experiments, learners read a passage that came either with author-provi
 | [Nesbit & Adesope 2006](https://doi.org/10.3102/00346543076003413) | q4 · quant-synthesis · r? | i? | [Concept mapping improves learning over most comparison conditions by a moderate average am](concept-mapping-improves-learning.md) (qualifies) |
 | [Karpicke & Blunt 2011](https://doi.org/10.1126/science.1199327) | q3 · causal · r2 | i3 · large effect favoring retrieval practice over concept mapping, d=1.50 | [Concept mapping improves learning over most comparison conditions by a moderate average am](concept-mapping-improves-learning.md) (qualifies) |
 | [Zhang et al. 2021](https://doi.org/10.1109/eitt53287.2021.00025) | q3 · quant-synthesis · r? | i1 · small effect vs. not drawing, g=0.362 | [Drawing improves STEM learning by a small-to-moderate amount over not drawing and over oth](drawing-improves-learning.md) (qualifies) |
+| El-Koumy 1999 | q3 · causal · r2 | i? | [Teacher-initiated and student-mediated semantic mapping did not differ significantly in th](teacher-initiated-and-student-mediated-mapping-no-difference.md) (supports); [Teacher-student interactive semantic mapping produced higher EFL reading comprehension pos](interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated.md) (qualifies) |
+| [Chi 2018](https://doi.org/10.1111/cogs.12626) | q2 · design · r2 | i? | [An ICAP theory article reports, second-hand and without describing the design, a study in ](interactive-beats-constructive-concept-mapping.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

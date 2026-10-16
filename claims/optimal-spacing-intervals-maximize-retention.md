@@ -41,8 +41,9 @@ The review summarizes "recent research on the time intervals during which spaced
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The optimal interstudy interval increases as the retention interval increases](optimal-isi-increases-with-retention-interval.md) — the general claim this finding bears on, with the studies behind it
 - [Research findings show that various types of learning benefit from spaced study, with demonstrations of these benefits in educational settings](spacing-benefits-diverse-learning-educational-settings.md) — a broader claim this one bears on
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — a broader claim this one bears on
 - [In continuous recognition memory, the lag function is inverted U-shaped after a short retention interval and monotonically increasing after a long retention interval](spacing-lag-function-shape-depends-on-cue-bias-and-retention-interval.md) — related

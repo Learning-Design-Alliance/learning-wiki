@@ -41,8 +41,9 @@ Observational analysis of CPS administrative data 1994–2018 estimating princip
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers](instructional-leadership-linked-student-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [NLCI high school outcomes were lower than those of similar students at other CPS schools for most years of the initiative](nlci-high-school-outcomes-lower-than-similar-students.md) — related
 - CPS four-year high school graduation rose from 57 percent in 2006 to 75 percent in 2017, with options-school graduates adding 4 more percentage points — related
 - [Freshman OnTrack rates improved most among the highest-risk students, including Black and Latinx young men and the lowest-achieving entrants](ontrack-gains-largest-among-highest-risk-students.md) — related

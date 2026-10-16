@@ -41,8 +41,12 @@ Table 1 of the brief, based on 2020/21 and 2021/22 district-provided screening d
 
 ## Discussion
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Most students identified as significantly below benchmark on early literacy screeners remain significantly below benchmark 1 and 2 years later](significantly-below-benchmark-persists-across-years.md) — the general claim this finding bears on, with the studies behind it
 - [Kindergarten students showed the largest BOY-to-EOY decline in significant risk identification, dropping 21 percentage points](kindergarten-largest-risk-decline.md) — related
 - [Most students at risk at BOY remain at risk later, but students who meet benchmark by midyear tend to stay on track](midyear-ontrack-students-stay-ontrack.md) — related
 - [Across grades K–3, the percentage of students below literacy benchmarks decreases more from BOY to EOY in earlier grades than in grade 3](k3-at-risk-decreases-larger-earlier-grades.md) — related

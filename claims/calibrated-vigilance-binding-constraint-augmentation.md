@@ -41,11 +41,12 @@ Theoretical argument of the paper itself: across scientist, citizen, and student
 
 ## Discussion
 
-
 ## Learner Variables
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — the general claim this finding bears on, with the studies behind it
 - [Design factors moderating AI's effect on learning matter only through whether they engage the learner's evaluation](design-factors-work-through-vigilance.md) — a broader claim this one bears on
 - [Delegating the terminal evaluation to AI is self-defeating: each hand-off returns one more output someone must accept or not](delegating-evaluation-self-defeating.md) — a narrower finding that bears on this claim
 - [Uniform AI integration across a classroom is likely to widen the gap between better- and less-prepared students](uniform-ai-integration-widens-gaps.md) — a narrower finding that bears on this claim

@@ -41,8 +41,9 @@ Ongoing analysis of 2022/23 literacy screening data from about 67,000 K–3 stud
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Most students identified as significantly below benchmark on early literacy screeners remain significantly below benchmark 1 and 2 years later](significantly-below-benchmark-persists-across-years.md) — the general claim this finding bears on, with the studies behind it
 - [Across grades K–3, the percentage of students below literacy benchmarks decreases more from BOY to EOY in earlier grades than in grade 3](k3-at-risk-decreases-larger-earlier-grades.md) — a narrower finding that bears on this claim
 - [Kindergarten students showed the largest BOY-to-EOY decline in significant risk identification, dropping 21 percentage points](kindergarten-largest-risk-decline.md) — related
 - [Massachusetts students overall perform above the national average on screening assessments, with a median national percentile of 58 at EOY and 66 percent growing at average or above-average rates](ma-above-national-average-literacy.md) — related

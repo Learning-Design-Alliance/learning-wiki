@@ -41,11 +41,12 @@ Webb's (2008) study randomly assigned 50 intermediate Japanese ESL university st
 
 ## Discussion
 
-
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — the general claim this finding bears on, with the studies behind it
 - [Combining intentional and incidental vocabulary learning produces greater gains and better retention than either mode alone](combined-intentional-incidental-greater-gains.md) — related
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — related
 - [Task-essentialness and productive use of new words in goal-directed activity may positively affect vocabulary learning and retention](task-essentialness-goal-directed-vocabulary-retention.md) — related

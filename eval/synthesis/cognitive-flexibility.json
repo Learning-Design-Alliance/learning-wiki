@@ -17,6 +17,10 @@
         [
           "cft-hypertext-design-higher-achievement-scores",
           "~"
+        ],
+        [
+          "cft-hypertext-design-more-perfect-scores",
+          "~"
         ]
       ]
     },
@@ -42,6 +46,18 @@
         ],
         [
           "multiple-representations-aid-understanding-faculty-time",
+          "+"
+        ],
+        [
+          "diverse-llm-explanations-higher-oe-accuracy-not-significant",
+          "~"
+        ],
+        [
+          "mcq-accuracy-no-significant-condition-difference",
+          "~"
+        ],
+        [
+          "diverse-explanations-no-perceived-information-overload",
           "+"
         ]
       ]

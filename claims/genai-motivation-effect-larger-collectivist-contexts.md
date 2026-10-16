@@ -41,11 +41,12 @@ Exploratory subgroup analysis of cultural context (collectivist k = 49; individu
 
 ## Discussion
 
-
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [GenAI-assisted education produces significantly higher learning motivation than non-GenAI approaches (g = 0.81)](genai-learning-motivation-g081.md) — the general claim this finding bears on, with the studies behind it
 - [GenAI shows positive effects on both intrinsic and extrinsic motivation, with no reliable difference between the two (H-1c not supported)](genai-positive-both-intrinsic-extrinsic-motivation-no-difference.md) — related
 - [GenAI used on mobile devices shows a larger motivational effect than GenAI used on computers (exploratory)](genai-motivation-effect-larger-mobile-devices.md) — related
 - [The motivational effect of GenAI is larger in higher education than in primary and secondary education (exploratory)](genai-motivation-effect-larger-university-than-school.md) — related

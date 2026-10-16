@@ -42,6 +42,9 @@ Observational analysis of Chicago district discipline data. The report identifie
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Students with a history of abuse or neglect are at particularly high risk of suspension, with almost a third suspended in 2013-14](abuse-neglect-history-high-suspension-risk.md) — related
 - [African American boys received out-of-school suspensions at five times the rate of white/Asian boys in CPS high schools in 2013-14](african-american-boys-oss-disparity-cps.md) — related

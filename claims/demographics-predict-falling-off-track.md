@@ -42,6 +42,9 @@ Hierarchical generalized linear models predicting status change among students o
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Higher proportions of Black and Hispanic students than White and Asian students are off-track for college readiness throughout middle school](black-hispanic-students-off-track-throughout-middle-school.md) — related
 - [Student-level and school-level demographic characteristics significantly predict middle school academic trajectories toward college readiness](demographics-predict-college-readiness-trajectories.md) — a broader claim this one bears on

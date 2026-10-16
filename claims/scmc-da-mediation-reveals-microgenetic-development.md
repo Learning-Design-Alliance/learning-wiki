@@ -42,8 +42,9 @@ Microgenetic analysis of language-related episodes from 60-minute SCMC-based int
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Dynamic assessment reflects young children's learning potential more accurately than static tests, especially with minority and learning disabled children](da-more-accurate-than-static-tests-young-children.md) — the general claim this finding bears on, with the studies behind it
 - [Learners placed at the same CEFR level by DIALANG differ in their ZPDs, which DIALANG's non-dynamic feedback does not capture](dialang-cefr-levels-miss-zpd-differences.md) — related
 - [Learners at the same proficiency level differ in responsiveness to mediation, with Sarah needing less explicit help than Dena](learners-differ-in-mediation-responsiveness.md) — a narrower finding that bears on this claim
 - [Static individual assessment misses developing functions; ZPD-based assessment reveals potential competencies](static-assessment-misses-emerging-functions.md) — a broader claim this one bears on

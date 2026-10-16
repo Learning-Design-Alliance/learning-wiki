@@ -17,6 +17,18 @@
         [
           "structured-discussion-methods-improve-comprehension",
           "~"
+        ],
+        [
+          "mad-city-mystery-ar-argumentation-cases",
+          "+"
+        ],
+        [
+          "ar-game-features-scaffold-argumentation",
+          "+"
+        ],
+        [
+          "argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence",
+          "~"
         ]
       ]
     },
@@ -88,6 +100,22 @@
         ],
         [
           "spontaneous-sentence-production-in-synthetic-planning-increases-understanding",
+          "~"
+        ],
+        [
+          "students-recognize-writing-improvement-ai-feedback",
+          "+"
+        ],
+        [
+          "feedback-source-no-effect-on-revision-outcomes",
+          "~"
+        ],
+        [
+          "feedback-quality-predicts-revision-only-in-teacher-condition",
+          "~"
+        ],
+        [
+          "probing-feedback-revise-resubmit-evidence",
           "~"
         ]
       ]

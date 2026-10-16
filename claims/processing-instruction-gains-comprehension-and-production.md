@@ -41,7 +41,8 @@ The article's experiment compared processing instruction with traditional form-f
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — the general claim this finding bears on, with the studies behind it
 - [Traditional form-focused instruction produces significant gains in production but not in comprehension](traditional-instruction-gains-production-only.md) — related
 - [Language processing is intimately tuned to input frequency across phonology, phonotactics, reading, spelling, lexis, morphosyntax, formulaic language, comprehension, grammaticality, sentence production, and syntax](frequency-tuning-across-language-processing-domains.md) — related

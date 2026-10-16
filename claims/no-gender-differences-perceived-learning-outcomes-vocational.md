@@ -42,6 +42,9 @@ Independent-samples t-test comparing male (n = 388) and female (n = 722) student
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - Male students are significantly more work-avoidant than female students in the project-based course, with no gender differences on the other measures — related
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related

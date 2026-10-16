@@ -41,8 +41,13 @@ Post-survey contrast in the 45-participant between-subjects experiment: the agen
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — the general claim this finding bears on, with the studies behind it
+
+- [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — the general claim this finding bears on, with the studies behind it
+
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — the general claim this finding bears on, with the studies behind it
 - [Both stepwise constructive-conflict guidance and the antagonistic agent led novice designers to reconsider what makes a design effective more than unsupported self-reflection](constructive-conflict-guidance-increases-reconsideration.md) — related
 - [Stepwise constructive-conflict guidance reduced new idea generation, while the antagonistic agent played a more balanced role](stepwise-conflict-guidance-reduces-idea-addition.md) — related
 - [The antagonistic agent surfaced a broader set of stakeholder concerns than novice designers reached on their own](antagonistic-agent-broadens-stakeholder-coverage.md) — related

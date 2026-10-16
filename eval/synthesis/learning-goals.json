@@ -1,0 +1,72 @@
+{
+  "principle": "elements/learning-goals",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "goal-setting-improves-performance",
+      "question": "Does a specific, challenging goal raise performance over no goal or a vague 'do your best'?",
+      "members": [
+        [
+          "specific-difficult-goals-lead-to-higher-performance",
+          "+"
+        ],
+        [
+          "implementation-intentions-improve-goal-attainment",
+          "+"
+        ],
+        [
+          "implementation-intentions-d65-goal-attainment-meta-analysis",
+          "+"
+        ],
+        [
+          "process-goals-outperform-outcome-goals-for-novices",
+          "~"
+        ],
+        [
+          "goal-intention-alone-insufficient-for-achievement",
+          "~"
+        ],
+        [
+          "young-children-set-goals-sdlmi-achieve",
+          "+"
+        ],
+        [
+          "proximal-goals-feedback-peer-models-build-learning-efficacy",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "process-goals-outperform-outcome-goals-for-novices",
+      "question": "For a learner new to the task, should the goal name the process or the result, and how near should it be?",
+      "members": [
+        [
+          "proximal-goals-feedback-peer-models-build-learning-efficacy",
+          "+"
+        ],
+        [
+          "goal-orientations-predict-engagement-ai-efl",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "shared-understanding-expected-learning-helps-all-students",
+      "question": "Does making the intended learning explicit to learners help them, and do learners register when it is missing?",
+      "members": [
+        [
+          "no-objectives-group-most-positive-attitudes",
+          "~"
+        ],
+        [
+          "feedback-answers-three-questions",
+          "+"
+        ],
+        [
+          "single-event-removal-no-achievement-effect",
+          "-"
+        ]
+      ]
+    }
+  ]
+}

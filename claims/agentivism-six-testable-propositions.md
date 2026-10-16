@@ -30,7 +30,7 @@ sources:
 # Agentivism generates six empirically testable propositions linking delegation structure, verification, reconstruction, and reduced-support transfer to learning outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 theoretical `r3` · `q1`
+> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Learning should be stronger when AI support preserves learner responsibility for problem framing, criteria setting, and justification than when AI support collapses these processes into direct answer delivery. [→ Lixiang Yan and Dragan Gašević 2026](#lixiang-yan-and-dragan-gasevic-2026)

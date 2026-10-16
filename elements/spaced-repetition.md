@@ -18,7 +18,7 @@ sources:
 # Spaced Repetition
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 17 claims (14 for, 3 mixed) · 16 studies (6 causal, 5 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 5 of 16 report an effect size · 13 claims rest on one study
+> **Evidence** · 19 claims (16 for, 3 mixed) · 17 studies (7 causal, 5 quant-synthesis, 4 review, 1 theoretical), `q1`–`q4` · 5 of 17 report an effect size · 15 claims rest on one study
 
 ## Description
 Spaced repetition is the element in which key material is revisited at strategically increasing intervals rather than massed into a single session. It is useful when the aim is durable retention rather than short-term performance.
@@ -102,6 +102,12 @@ Spaced repetition is the element in which key material is revisited at strategic
 - **Default:** give harder items more review time on the lower (less-known) decks; for easy items spread time roughly evenly — [Under the Leitner Queue Network optimization, easy items call for roughly uniform time across decks, while more difficult items call for more time on lower decks.](../claims/optimal-leitner-deck-allocation-depends-on-item-difficulty.md) [+W], [Under the mean-recall approximation, the optimal Leitner Queue Network review schedule spends more time on lower decks than on higher decks.](../claims/optimal-leitner-schedule-reviews-lower-decks-more-often.md) [+W]
 - **Tested with:** a scheduling model's optimisation only (Reddy et al. 2016); no learners.
 - **Not settled:** no wiki claim tests item-level allocation with learners, and none compares adaptive with fixed schedules.
+
+## The evidence by question
+- *Does spreading study or practice over sessions improve later retention more than massing the same amount of it?* [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S]
+- *How long should the gap between sessions be, given when the knowledge is needed?* [The optimal interstudy interval increases as the retention interval increases](../claims/optimal-isi-increases-with-retention-interval.md) [+M]
+- *Should the gaps expand, stay equal, or contract?* [Total retrieval spacing improved one-week vocabulary recall while relative schedules were not distinguished](../claims/total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md) [+M]
+- *Will learners space their study on their own?* [Learners Misjudge Spacing Benefits](../claims/learners-misjudge-spacing-benefits.md) [+S]
 
 ## Related Elements
 - [Continuous Review](continuous-review.md)

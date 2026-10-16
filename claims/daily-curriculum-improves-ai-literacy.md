@@ -41,9 +41,10 @@ The brief cites this as an evidence-based implementation example of a validated 
 
 ## Discussion
 
-
 ## Learner Variables
 - [Digital Literacy](../learner-variables/digital-literacy.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [AI literacy interventions show a large, statistically significant overall positive effect on student AI literacy outcomes (g = 0.837)](ai-literacy-interventions-large-overall-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Of 132 early literacy interventions evaluated by high-quality impact studies, 38 demonstrated effectiveness in at least one language or literacy outcome domain and 93 showed inconclusive effects](38-of-132-early-literacy-interventions-effective.md) — a broader claim this one bears on

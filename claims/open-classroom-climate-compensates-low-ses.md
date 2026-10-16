@@ -41,11 +41,12 @@ Analysis of CIVED 1999 data examining socioeconomic differences in civic engagem
 
 ## Discussion
 
-
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students](assistments-school-composition-moderators.md) — the general claim this finding bears on, with the studies behind it
 - [An open classroom climate has a positive impact on adolescents' civic knowledge and appreciation of political conflict, controlling for individual, classroom, school, and district characteristics](open-classroom-climate-boosts-civic-knowledge-conflict-appreciation.md) — related
 - [An open classroom climate fosters adolescents' intention to be an informed voter](open-classroom-climate-fosters-informed-voter-intention.md) — related
 - [Strong relationships and supportive conditions can offset the effects of trauma on learning and behavior](relationships-offset-trauma-effects.md) — a broader claim this one bears on

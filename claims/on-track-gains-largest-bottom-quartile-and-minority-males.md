@@ -61,6 +61,10 @@ Descriptive subgroup trends in the same Introduction passage, which states impro
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [On-track gains were largest for students with the lowest incoming skills and for African American males](on-track-gains-largest-for-lowest-skills-and-black-males.md) — related
 - [Districtwide ninth-grade on-track rates rose 25 percentage points between 2007 and 2013 across racial, gender, and achievement subgroups](cps-on-track-rate-rose-25-points-districtwide.md) — related

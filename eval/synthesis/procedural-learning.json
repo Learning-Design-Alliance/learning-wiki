@@ -67,6 +67,58 @@
         [
           "students-notice-missing-practice-and-examples",
           "+"
+        ],
+        [
+          "worked-example-problem-sequences",
+          "+"
+        ],
+        [
+          "part-task-practice-reduces-load-for-novices",
+          "+"
+        ],
+        [
+          "fading-support-promotes-transfer-of-responsibility",
+          "+"
+        ],
+        [
+          "worked-examples-improve-math-performance",
+          "~"
+        ],
+        [
+          "worked-examples-less-effective-with-expertise",
+          "~"
+        ],
+        [
+          "expertise-reversal-effect",
+          "~"
+        ],
+        [
+          "whole-task-performance-improves-transfer",
+          "~"
+        ],
+        [
+          "skill-specificity-l2-grammar-practice",
+          "~"
+        ],
+        [
+          "task-repetition-fluency-complexity-same-task-only",
+          "~"
+        ],
+        [
+          "mechanical-drills-limited-use-meaning-form",
+          "~"
+        ],
+        [
+          "automatization-requires-practice-consistent-environment",
+          "~"
+        ],
+        [
+          "ai-substitution-impedes-long-term-skill-development",
+          "+"
+        ],
+        [
+          "genai-compresses-sysadmin-expertise-pathways",
+          "~"
         ]
       ]
     },

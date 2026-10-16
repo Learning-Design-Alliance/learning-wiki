@@ -41,8 +41,9 @@ The paper reports a RAND Corporation evaluation of state test item depth under N
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Multiple-choice state tests are prone to ceiling and floor effects and do not measure higher-order skills well](multiple-choice-state-tests-limits-high-low-performers.md) — the general claim this finding bears on, with the studies behind it
 - [Significantly more TPP teachers encouraged students' higher-order thinking skills than district-supported comparison teachers](tpp-teachers-encouraged-higher-order-thinking.md) — related
 - [ITBS mathematics is heavily weighted toward computation while ISAT contains up to three times as many items on algebra, geometry, measurement, and probability and statistics](itbs-computation-isat-higher-order-math-content.md) — related
 - [The Teacher Potential Project produced positive impacts on specific Common Core-aligned instructional practices, including engaging students with texts, supporting text evidence use, and supporting higher order thinking](tpp-positive-impacts-ccss-aligned-practices.md) — related

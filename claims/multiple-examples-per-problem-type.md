@@ -41,7 +41,10 @@ The review reports, citing Reed and Bolstad, an experiment in which college stud
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Students who self-explain worked examples learn more effectively than those who do not, and the quality of self-explanations relates to explaining deep structure](self-explanation-effect-worked-examples.md) — the general claim this finding bears on, with the studies behind it
+
+- [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](comparing-contrasting-cases-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Guidance during initial problem solving does not translate into better learning from subsequent instruction](initial-guidance-does-not-improve-learning-from-instruction.md) — related
 - [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — related

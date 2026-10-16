@@ -60,6 +60,9 @@ Theme 3 from older-adult interviews and Theme 2 from care-provider interviews (1
 
 ## Discussion
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — the general claim this finding bears on, with the studies behind it

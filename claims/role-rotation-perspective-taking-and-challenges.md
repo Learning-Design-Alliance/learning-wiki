@@ -56,8 +56,9 @@ Reflective journal excerpt (RJ-P23) from the intervention, illustrating particip
 
 ## Discussion
 
-
 ## Related Claims
+
+- [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — the general claim this finding bears on, with the studies behind it
 - [Systematic role rotation structured pre-service educational psychologists' engagement in AI-supported case-based learning by distributing problem-framing, analytical, intervention-oriented, and reflective responsibilities](role-rotation-distributes-professional-engagement-ai-cases.md) — related
 - [Interdisciplinary studio collaboration produced challenges including uneven workloads, vocabulary barriers, and difficulty giving cross-disciplinary feedback](interdisciplinary-collab-challenges-workload-vocabulary-feedback.md) — related
 - [Dispositions such as openness and shared responsibility are shaped by conditions, not fixed individual traits](dispositions-shaped-by-conditions.md) — a broader claim this one bears on

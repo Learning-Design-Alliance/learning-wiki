@@ -41,8 +41,9 @@ Systematic review synthesis answering research question 1, integrating findings 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Meta-reviews reach contradictory conclusions on whether AI reliance harms or helps critical thinking, with substantial design limitations limiting generalizability](contradictory-meta-reviews-ai-critical-thinking.md) — the general claim this finding bears on, with the studies behind it
 - [Over-reliance on AI dialogue systems fosters complacency and dependency that impairs students' decision-making abilities](ai-overreliance-impairs-decision-making.md) — related
 - [The review reports some evidence that over-dependence on AI contributes to cognitive offloading and decreased independent reasoning, while guided AI use can be helpful](ai-overdependence-cognitive-offloading-guided-use-helpful.md) — related
 - [Among 245 Indonesian undergraduates, majorities reported potential reduction of critical thinking when depending on AI (75%), excessive reliance risk (73%), misinformation (70%), unintentional plagiarism (69%) and algorithmic bias (40%)](malik-student-perceptions-ai-writing-percentages.md) — a narrower finding that bears on this claim

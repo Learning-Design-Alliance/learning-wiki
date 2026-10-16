@@ -42,6 +42,9 @@ Pre–post CLMM on the SMP dataset (889 observations at beginning, 763 at end) w
 ## Discussion
 
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Students showed a large, statistically significant increase in engagement from pre- to post-intervention in the 5-week Mindsets program (d ≈ 1.11)](mindsets-engagement-pre-post-increase.md) — related
 - [Ability to Reason (SMP 2) benchmark levels improved linearly across all three time points (d ≈ 0.78) with no significant quadratic trend](mindsets-smp2-linear-trend.md) — related

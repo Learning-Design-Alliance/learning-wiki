@@ -39,8 +39,9 @@ Cross-sectional survey of 548 Chinese pre-service science teachers analyzed with
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) — the general claim this finding bears on, with the studies behind it
 - [AI-TPACK positively predicts science teaching self-efficacy among Chinese pre-service science teachers](ai-tpack-predicts-science-teaching-self-efficacy.md) — related
 - [The serial mediation model explains 32.5–37.0% of variance in AI-TPACK, self-efficacy, and AI integration intention](model-explained-variance-ai-integration-outcomes.md) — related
 - [AI literacy relates to AI integration intention through a serial indirect pathway via AI-TPACK and science teaching self-efficacy](serial-mediation-ai-literacy-tpack-efficacy-intention.md) — related

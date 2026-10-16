@@ -19,7 +19,7 @@ grain_size: lesson
 # Socratic Seminar
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (4 mixed) · 13 studies (3 causal, 3 quant-synthesis, 3 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 1 of 13 report an effect size
+> **Evidence** · 5 claims (1 for, 4 mixed) · 15 studies (4 causal, 4 quant-synthesis, 3 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 2 of 15 report an effect size
 
 ## Description
 Socratic Seminar is a structured, text-centered discussion pattern in which learners explore a complex question through dialogue, evidence, and follow-up questioning rather than through debate aimed at victory. The goal is disciplined interpretation: learners listen closely, build on one another's ideas, test assumptions, and return to the text or shared source as they refine understanding.
@@ -95,6 +95,9 @@ The pattern works best when the prompt is open enough to sustain interpretation 
 - Seminars can be run in inner/outer circles, small groups, or whole-class formats.
 - Preparation supports can include annotation guides, evidence stems, or pre-seminar quickwrites.
 - Facilitation can be tighter for novice groups and lighter for experienced seminar participants.
+
+## The evidence by question
+- *Which discussion structures and facilitation make open discussion produce learning, rather than just more talk?* [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](../claims/structured-discussion-methods-improve-comprehension.md) [+M]
 
 ## Related Patterns
 

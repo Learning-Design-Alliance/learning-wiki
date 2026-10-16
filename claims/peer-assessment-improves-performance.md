@@ -45,7 +45,7 @@ A meta-analysis of 54 control-group studies (141 effect sizes) spanning primary,
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should learners assess each other's work, and does it need a rubric or script?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **9 distinct studies** (3 quant-synthesis, 3 associational, 2 causal, 1 review), `q2`–`q4`, 3 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should learners assess each other's work, and does it need a rubric or script?* This table gathers the studies behind this claim and the 16 narrower claims that bear on it: **16 distinct studies** (5 quant-synthesis, 5 causal, 4 associational, 2 review), `q2`–`q4`, 6 of 16 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -58,6 +58,13 @@ A meta-analysis of 54 control-group studies (141 effect sizes) spanning primary,
 | [Li et al. 2020](https://doi.org/10.1080/02602938.2019.1620679) | q4 · quant-synthesis · r? | i1 · small effect, d=0.291 | [The quality of feedback students give peers predicts gains in their own work, but no recor](peer-assessment-benefits-assessor.md) (supports) |
 | [Li et al. 2010](https://doi.org/10.1111/j.1467-8535.2009.00968.x) | q2 · associational · r2 | i? | [The quality of feedback students give peers predicts gains in their own work, but no recor](peer-assessment-benefits-assessor.md) (supports) |
 | [Huisman et al. 2019](https://doi.org/10.1080/02602938.2018.1545896) | q4 · quant-synthesis · r? | i3 · large effect vs. no-feedback control, g=0.91 | [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) (supports) |
+| [Peters 2018](https://doi.org/10.1007/s10212-017-0344-y) | q2 · causal · r2 | i? | [A formative assessment script increases the quantity and quality of peer feedback vocation](fas-improves-peer-feedback-generation.md) (supports) |
+| [Wisniewski B 2020](https://doi.org/10.3389/fpsyg.2019.03087) | q3 · quant-synthesis · r2 | i? | [Feedback direction moderates effects: student-to-student feedback is most effective (d = 0](feedback-direction-moderator-student-student-highest.md) (supports) |
+| [Sun DL 2015](https://doi.org/10.1371/journal.pone.0143177) | q3 · causal · r2 | i0; i? | [Participating in peer assessment causes a small but significant improvement in short-term ](peer-assessment-improves-unit-quiz-achievement.md) (supports); [The achievement benefit of peer assessment persists to a later comprehensive final exam](peer-assessment-gains-persist-to-final-exam.md) (supports); [Students' self-reported perception of peer assessment's benefit is virtually uncorrelated ](perception-of-peer-assessment-benefit-uncorrelated-with-actual-benefit.md) (qualifies); [The peer assessment effect size is comparable in magnitude to a substantial fraction of me](peer-assessment-effect-size-versus-achievement-gaps.md) (supports) |
+| [Banihashem 2024](https://doi.org/10.1186/s41239-024-00455-4) | q2 · associational · r2 | i1 | [Peers outperformed ChatGPT in identifying problems within essays](peers-better-problem-identification-feedback.md) (qualifies) |
+| [David Carless & David Boud 2018](https://doi.org/10.1080/02602938.2018.1463354) | q2 · review · r2 | i? | [Coached peer review improves the specificity of reviewer comments and receivers' uptake of](coached-peer-review-improves-comment-quality-and-uptake.md) (qualifies) |
+| [Hwang 2014](https://doi.org/10.1007/s11423-013-9320-7) | q3 · causal · r? | i? | [A peer assessment-based game development approach promotes elementary students' learning a](peer-assessment-game-development-improves-achievement-motivation-problem-solving.md) (supports) |
+| What Works Clearinghouse 2007 | q3 · quant-synthesis · r1 | i2; i? | [Peer response groups increase the number of idea units in English learners' writing but sh](peer-response-groups-writing-idea-units.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

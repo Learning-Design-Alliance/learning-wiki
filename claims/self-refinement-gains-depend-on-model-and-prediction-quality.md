@@ -30,7 +30,7 @@ sources:
 # Self-refinement gains depend on model strength and on behavior-prediction quality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` More powerful LLMs such as GPT-4o exhibit greater performance gains from self-refinement. [→ Tao Wu 2025](#tao-wu-2025)

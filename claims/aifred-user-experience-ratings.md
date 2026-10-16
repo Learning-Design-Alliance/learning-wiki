@@ -30,7 +30,7 @@ sources:
 # AIfred users report higher perceived learning support, innovation, satisfaction, and cognitive demand, with no difference in perceived productivity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Perceived learning support was higher for AIfred (4.5/5 vs. 3.4/5, p<.001), as were innovation (4.5 vs. 3.5, p<.001) and user satisfaction (4.2 vs. 3.5, p=.04). [→ Gregorio Orlando 2026](#gregorio-orlando-2026)

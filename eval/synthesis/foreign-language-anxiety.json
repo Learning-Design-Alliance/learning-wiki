@@ -1,0 +1,86 @@
+{
+  "principle": "theories/foreign-language-anxiety",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "l2-anxiety-negative-correlation-achievement-meta-analysis",
+      "question": "Do learners who are more anxious about a foreign language achieve less in it, and for which kinds of anxiety, outcome and learner?",
+      "members": [
+        [
+          "anxiety-achievement-moderators-levels-languages-anxiety-types",
+          "~"
+        ],
+        [
+          "anxiety-achievement-varies-by-achievement-measure-type",
+          "~"
+        ],
+        [
+          "flca-linked-with-oral-performance-japanese-efl",
+          "+"
+        ],
+        [
+          "flca-influences-outcomes-four-factors",
+          "~"
+        ],
+        [
+          "proficiency-groups-differ-motivational-factors",
+          "+"
+        ],
+        [
+          "incidental-vocabulary-anxiety-positive-predictor",
+          "-"
+        ],
+        [
+          "learner-factors-model-18-percent-variance",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "ai-reduces-fl-anxiety-private-practice",
+      "question": "Does private, low-pressure and repeated practice lower learners' anxiety about using a second language?",
+      "members": [
+        [
+          "speaking-practice-reduced-flca-increased-self-efficacy",
+          "+"
+        ],
+        [
+          "er-reduced-anxiety-efl-reading-attitude",
+          "+"
+        ],
+        [
+          "tablet-pc-peer-assisted-learning-reduces-anxiety",
+          "+"
+        ],
+        [
+          "games-reduce-speaking-stress-improve-skills",
+          "+"
+        ],
+        [
+          "student-centered-environments-lower-anxiety-increase-confidence",
+          "+"
+        ],
+        [
+          "lack-of-practice-teacher-centered-anxiety",
+          "+"
+        ],
+        [
+          "fear-of-mistakes-top-speaking-anxiety-iranian-efl",
+          "~"
+        ],
+        [
+          "negative-evaluation-vocabulary-anxiety-ranks",
+          "~"
+        ],
+        [
+          "er-increased-comfort-efl-reading-attitude",
+          "+"
+        ],
+        [
+          "immediate-repetition-benefits-oral-performance",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

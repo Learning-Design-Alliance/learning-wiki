@@ -30,7 +30,7 @@ sources:
 # Hint-based prompts raise ChatGPT scoring agreement with human experts to 98–100%, while no-hint prompts are unstable (Q2 precision 0.42)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r2`, 1 design `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Under the hint condition, agreement of 98% or higher was achieved for all questions, with perfect agreement (100%) for Q1 and Q2; under the no-hint condition results varied, with Q2 precision only 0.42. [→ Satoshi Takahashi 2026](#satoshi-takahashi-2026)

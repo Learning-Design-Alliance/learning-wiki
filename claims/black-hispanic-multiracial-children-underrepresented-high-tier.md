@@ -42,6 +42,9 @@ Descriptive analysis of tier enrollment by race/ethnicity (Figure 5), with propo
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Children from all racial/ethnic groups were projected to gain more in higher-tier programs, but most racial/ethnic differences were not statistically significant](racial-ethnic-gains-higher-tiers-mostly-nonsignificant.md) — related
 - [Children in Tier 4 and Tier 5 preschool programs gained more learning and development from fall to spring than children in Tier 3 programs](higher-tier-qcc-programs-greater-learning-gains.md) — related

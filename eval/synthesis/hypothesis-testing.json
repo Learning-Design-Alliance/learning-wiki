@@ -1,0 +1,118 @@
+{
+  "principle": "elements/hypothesis-testing",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "cognitive-disequilibrium-motivates-conceptual-change",
+      "question": "Does conflict-based instruction improve conceptual learning more than standard exposition?",
+      "members": [
+        [
+          "cooperative-conceptual-change-chemistry-misconceptions",
+          "+"
+        ],
+        [
+          "guided-inquiry-computational-model-overcomes-amplitude-misconception",
+          "~"
+        ],
+        [
+          "cscl-simulation-conceptual-change-cognitive-engagement",
+          "~"
+        ],
+        [
+          "force-motion-conceptions-difficult-to-change",
+          "~"
+        ],
+        [
+          "constructive-conflict-increases-idea-editing",
+          "+"
+        ],
+        [
+          "constructive-conflict-guidance-increases-reconsideration",
+          "+"
+        ],
+        [
+          "agent-enacted-conflict-shifts-design-thinking",
+          "~"
+        ],
+        [
+          "stepwise-conflict-guidance-reduces-idea-addition",
+          "~"
+        ],
+        [
+          "conflict-seed-induces-deeper-reflection",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "guidance-improves-inquiry-learning-outcomes",
+      "question": "Does adding guidance to inquiry improve what learners learn, and does the kind of guidance matter?",
+      "members": [
+        [
+          "hh-guidance-beats-ll-cvs-children",
+          "+"
+        ],
+        [
+          "guidance-improves-inquiry-performance-success",
+          "+"
+        ],
+        [
+          "guidance-improves-inquiry-learning-activities",
+          "+"
+        ],
+        [
+          "unscaffolded-problem-solving-exploratory-hypotheses-versus-failures",
+          "~"
+        ],
+        [
+          "mercury-case-hypothesis-discarding-limit",
+          "~"
+        ],
+        [
+          "simulation-guidance-moderate-effect-dangelo",
+          "+"
+        ],
+        [
+          "teacher-guided-inquiry-larger-effects",
+          "+"
+        ],
+        [
+          "teacher-guided-inquiry-outperforms-student-led",
+          "+"
+        ],
+        [
+          "pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction",
+          "~"
+        ],
+        [
+          "mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning",
+          "+"
+        ],
+        [
+          "guided-discovery-outperformed-both-extremes",
+          "+"
+        ],
+        [
+          "minimal-guidance-inquiry-inferior-explicit-instruction",
+          "+"
+        ],
+        [
+          "enhanced-discovery-beats-other-instruction",
+          "+"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "~"
+        ],
+        [
+          "guided-inquiry-computational-model-overcomes-amplitude-misconception",
+          "~"
+        ],
+        [
+          "students-criticize-inquiry-worksheets-low-thinking",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

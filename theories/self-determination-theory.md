@@ -17,7 +17,7 @@ sources:
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 23 claims (14 for, 9 mixed) · 20 studies (6 associational, 4 review, 3 causal, 3 theoretical, 2 design, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 4 of 20 report an effect size · 19 claims rest on one study
+> **Evidence** · 25 claims (16 for, 9 mixed) · 27 studies (7 review, 6 associational, 4 causal, 4 theoretical, 3 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 5 of 27 report an effect size · 19 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -79,6 +79,12 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Inattention moderates how baseline competence frustration and baseline autonomy translate into perceived AI benefits, weakening both positive associations](../claims/inattention-moderates-ai-benefit-associations.md) [~W]
 - [Openness and need for relatedness are associated with teachers' AI use indirectly through pedagogical AI competence, with relatedness negatively associated with competence](../claims/openness-relatedness-indirect-via-competence.md) [~W]
 - [Autonomy-supportive training programs are overall effective, with a weighted effect size of 0.63 across 19 studies](../claims/autonomy-support-training-effective-d63.md) [+W] — attached 2026-10-15 from Su et al. (2011), which proposed "Autonomy-supportive training programs as a class of interventions grounded in self-determination theory".
+
+## The evidence by question
+
+- *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+S]
+- *Do learners whose needs for autonomy, competence and relatedness are met engage, persist and perform better, and which need matters most?* [Basic psychological need satisfaction is strongly associated with learning engagement among medical undergraduates](../claims/need-satisfaction-strongly-associated-learning-engagement.md) [+M]
+- *Do rewards and praise undermine voluntary engagement?* [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](../claims/rewards-undermine-intrinsic-motivation.md) [+S]
 
 ## Related Theories
 

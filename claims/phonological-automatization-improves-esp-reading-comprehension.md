@@ -41,8 +41,9 @@ Randomized experiment with 60 ESP students assigned to experimental (pronunciati
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Automatization of L2 skills requires extensive practice in a consistent environment, not repetition of grammar rules as in traditional exercises](automatization-requires-practice-consistent-environment.md) — the general claim this finding bears on, with the studies behind it
 - [Lower-level phonological processing efficiency contributes significantly to individual differences in adult ESL reading measures](phonological-orthographic-efficiency-predicts-esl-reading.md) — a broader claim this one bears on
 - [L2 oral language proficiency predicts reading comprehension more strongly than decoding skills](oral-proficiency-predicts-l2-reading-comprehension.md) — reports the opposite
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related

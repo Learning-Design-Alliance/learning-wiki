@@ -1,0 +1,54 @@
+{
+  "principle": "elements/portfolio",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "epportfolio-courses-engagement-grades-persistence",
+      "question": "Does building a portfolio in a course raise learners' engagement, achievement and persistence?",
+      "members": [
+        [
+          "epdp-pilot-gpa-retention-gains-not-sustained",
+          "~"
+        ],
+        [
+          "intensive-professional-development-stronger-epportfolio-outcomes",
+          "~"
+        ],
+        [
+          "public-capstone-epportfolio-showcase-audience-effect",
+          "+"
+        ],
+        [
+          "cea-improved-speaking-performance",
+          "+"
+        ],
+        [
+          "cea-improved-feedback-literacy",
+          "+"
+        ],
+        [
+          "cea-simultaneous-effect-speaking-feedback-literacy",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "innovative-assessments-capture-pog-competencies",
+      "question": "What does portfolio evidence add to assessment and selection decisions over a test, and can it be judged consistently?",
+      "members": [
+        [
+          "portfolio-adds-equity-context-holistic-review",
+          "+"
+        ],
+        [
+          "ross-portfolio-coincided-application-volume-drop",
+          "~"
+        ],
+        [
+          "body-of-work-agreement-rates-71-97",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

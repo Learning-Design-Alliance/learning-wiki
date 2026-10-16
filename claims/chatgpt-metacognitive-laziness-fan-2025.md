@@ -41,11 +41,12 @@ The review reports this second-hand, citing Fan et al. (2025); the underlying ra
 
 ## Discussion
 
-
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](genai-overreliance-harms-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Some GenAI tools can inhibit productive struggle by reducing cognitive effort (metacognitive laziness)](genai-metacognitive-laziness.md) — a broader claim this one bears on
 - [The availability of AI assistants improved the quality of submitted admissions essays, particularly mechanical aspects and especially for international applicants](ai-availability-improved-essay-quality.md) — related
 - [Robotic projected AI assistance yields 60% higher short-term learning transfer than screen-based ChatGPT once assistance is withdrawn](aifred-higher-short-term-learning-transfer.md) — related

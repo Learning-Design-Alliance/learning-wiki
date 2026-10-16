@@ -60,8 +60,9 @@ The agenda further reports, citing Hart et al. (2020) and Jackson, Porter, Easto
 
 ## Discussion
 
-
 ## Related Claims
+
+- [5Essentials Survey measures predict school improvement in elementary and high schools, but not all measures relate to all outcomes](5essentials-measures-positively-associated-improvement.md) — the general claim this finding bears on, with the studies behind it
 - [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — related
 - [Honours community members perceive a safe and supportive environment that facilitates exploring new ideas](honours-community-safe-supportive-learning-environment.md) — related
 - [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](co-regulation-supports-climate-and-youth-emotion-regulation.md) — related

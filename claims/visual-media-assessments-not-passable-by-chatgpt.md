@@ -41,8 +41,9 @@ Within the case study, poster and presentation assessments could not pass becaus
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI severs the correlation between artefact quality and cognitive engagement, breaking the artefact-as-proxy for learning](ai-breaks-artefact-as-proxy.md) — the general claim this finding bears on, with the studies behind it
 - [Assessments requiring novelty and originality were more resilient to AI-generated output](novelty-requiring-assessments-more-resilient-to-genai.md) — related
 - [ChatGPT produced submissions judged of passing quality for 36 of 40 undergraduate psychology assessments (90%)](chatgpt-passable-36-of-40-psychology-assessments.md) — related
 - [AI pilots found models not yet capable of high-quality math output generation, including multiple choice problems, coherent word problems, and math visuals](ai-not-capable-math-output-generation.md) — related

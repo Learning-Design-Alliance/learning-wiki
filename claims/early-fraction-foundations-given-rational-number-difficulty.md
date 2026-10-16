@@ -42,6 +42,9 @@ Authors' closing recommendation slide (type e, interpretation). The presentation
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — a broader claim this one bears on
 - [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — a broader claim this one bears on

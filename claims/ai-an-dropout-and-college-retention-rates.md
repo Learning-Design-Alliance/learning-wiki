@@ -61,6 +61,9 @@ The report, citing Lopez, Heilig, & Schram (2013) and Bosse et al. (2011), state
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Four-year college graduation rates remained flat at about 49 percent for direct four-year enrollees, with much lower rates for two-year (8 percent) and delayed enrollees (4 percent)](cps-four-year-graduation-flat-49-percent.md) — related
 - [Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent)](cps-graduation-race-gender-gaps.md) — related

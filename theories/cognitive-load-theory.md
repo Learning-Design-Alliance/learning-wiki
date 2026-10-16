@@ -33,7 +33,7 @@ sources:
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 35 claims (25 for, 8 mixed, 2 against) · 37 studies (15 causal, 9 quant-synthesis, 6 review, 6 theoretical, 1 design), `q1`–`q4` · 8 of 37 report an effect size · 28 claims rest on one study
+> **Evidence** · 37 claims (26 for, 9 mixed, 2 against) · 40 studies (17 causal, 9 quant-synthesis, 7 theoretical, 6 review, 1 design), `q1`–`q4` · 8 of 40 report an effect size · 27 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -106,6 +106,13 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Emotion may affect intrinsic cognitive load, for example when emotion regulation is part of the learning outcomes](../claims/emotion-as-intrinsic-load-emotion-regulation.md) [+W] — attached 2026-10-15 from Plass et al. (2019), which proposed "Four-perspective taxonomy of emotion–cognitive load relationships understood through an interval view of cognitive load".
 - [Reduction of cognitive load can sometimes impair learning rather than enhance it](../claims/load-reduction-can-impair-learning.md) [~W] — attached 2026-10-15 from Schnotz et al. (2007), which proposed "Zone of proximal development perspective on cognitive load theory".
 - [Germane cognitive load fully mediates the effect of information-search tool on justification quality (exploratory analysis)](../claims/germane-load-mediates-tool-effect-on-justification-quality.md) [+W] — attached 2026-10-15 from Matthias Stadler et al. (2024), which proposed "Cognitive load–self-regulation tradeoff account of information-search tool effects on learning quality"; tests this page's relationship.
+
+## The evidence by question
+
+- *Should related text and pictures be integrated rather than separated?* [Cognitive Load Reduction Improves Learning](../claims/cognitive-load-reduction-improves-learning.md) [+S]
+- *Do novices learn more from studying worked examples than from solving the same problems unaided?* [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
+- *For whom: does support that helps novices stop helping as task-specific expertise grows?* [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~S]
+- *Does breaking transient material (animation, video, narration) into segments improve learning over a continuous presentation?* [Segmenting Improves Multimedia Learning](../claims/segmenting-improves-multimedia-learning.md) [+M]
 
 ## Related Theories
 

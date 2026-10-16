@@ -30,7 +30,7 @@ sources:
 # Continuing-generation students showed higher usage of procedural and directive question types, while first-generation students leaned toward verification and expectational questions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Instrumental/procedural questions showed the largest statistically significant difference in Session 1 (Δ = +1.03, p = .013), favouring continuing-generation students, and remained the second-largest advantage in Session 2 (Δ = +1.44). [→ Matin Amoozadeh and Amin Alipour 2026](#matin-amoozadeh-and-amin-alipour-2026)
@@ -60,11 +60,12 @@ Descriptive mean-difference patterns from the same generation comparison. The ar
 
 ## Discussion
 
-
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](peerwise-student-questions-75-percent-high-quality.md) — the general claim this finding bears on, with the studies behind it
 - [First-generation students asked fewer questions overall than continuing-generation students in both sessions](first-generation-students-ask-fewer-ai-questions.md) — related
 - [Students' question types shift from confusion-reporting toward procedural and task-oriented inquiry as tasks progress, though the session difference did not reach conventional significance](inquiry-types-shift-across-cs2-sessions.md) — related
 - [Students' inquiry sequences differ by session: most start with Assertion questions in Session 1 (prob = 0.48) but with Instrumental/Procedural questions in Session 2 (prob = 0.43)](inquiry-state-transitions-differ-by-session.md) — related

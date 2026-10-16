@@ -41,8 +41,9 @@ Main effects from the linear mixed-effects model for ARCS motivation (N = 222 fi
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Instruction should present the learning task as engaging and meaningful and promote positive expectations of success, because effort requires that learners value the task and believe they can succeed](effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) — the general claim this finding bears on, with the studies behind it
 - [Critical thinking disposition showed significant positive main effects on motivation and learning outcomes across all dialogue formats, with no format interaction](critical-thinking-disposition-main-effects.md) — related
 - [In TTS dialogue-based lessons, the teacher–teacher format significantly moderates the motivation effects of both the CE factor (positive) and the RCE factor (negative)](tt-format-moderates-ce-rce-motivation.md) — related
 - [The teacher–teacher format received a significantly lower overall evaluation than the teacher–student format despite raising motivation, with no significant learner-characteristic interactions](tt-lower-overall-evaluation-divergence.md) — related

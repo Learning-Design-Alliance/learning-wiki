@@ -42,8 +42,9 @@ Qualitative analysis of post-conversation participant interviews from three teac
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Instruction should present the learning task as engaging and meaningful and promote positive expectations of success, because effort requires that learners value the task and believe they can succeed](effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) — the general claim this finding bears on, with the studies behind it
 - Participants identified performance concerns, classroom distractions, unclear purpose of learning, and time/coverage pressures as barriers to adolescent healthy risk-taking, with relevance and feeling heard as promoters — related
 - [Fortnightly web conferences with open-ended discussion supported students' academic and social engagement and community formation](web-conferences-support-online-community.md) — related
 - [In Layers, Context-Centered-mindset participants drew on students' communities and home lives while Context-Neutral-mindset participants adapted content without students' out-of-school experiences](layers-topics-track-context-centered-mindsets.md) — related

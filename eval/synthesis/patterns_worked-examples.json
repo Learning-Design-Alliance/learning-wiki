@@ -61,6 +61,38 @@
         [
           "worked-examples-improve-problem-solving-strategy-retention-in-a-puzzle-game",
           "+"
+        ],
+        [
+          "oms-videos-animations-most-impactful-modeling",
+          "+"
+        ],
+        [
+          "skill-training-effective-techniques",
+          "+"
+        ],
+        [
+          "direct-ct-instruction-outperforms-implicit-strategies",
+          "+"
+        ],
+        [
+          "viewing-ai-example-as-effective-as-ai-practice",
+          "+"
+        ],
+        [
+          "productive-failure-improves-conceptual-learning",
+          "~"
+        ],
+        [
+          "minimal-guidance-less-effective-for-novices",
+          "+"
+        ],
+        [
+          "minimally-guided-instruction-less-effective-than-strong-guidance",
+          "+"
+        ],
+        [
+          "split-attention-effect-in-worked-examples",
+          "~"
         ]
       ]
     },
@@ -87,6 +119,18 @@
         [
           "no-prior-knowledge-by-task-difficulty-interaction-in-algebra-worked-examples",
           "~"
+        ],
+        [
+          "expertise-reversal-effect",
+          "+"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "+"
+        ],
+        [
+          "worked-examples-reduce-novice-search",
+          "+"
         ]
       ]
     },
@@ -109,6 +153,14 @@
         [
           "faded-steps-hypothesized-trigger-self-explanations",
           "~"
+        ],
+        [
+          "fading-support-promotes-transfer-of-responsibility",
+          "+"
+        ],
+        [
+          "adaptive-fading-worked-examples-benefits",
+          "+"
         ]
       ]
     }

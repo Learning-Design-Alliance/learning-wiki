@@ -1,0 +1,128 @@
+{
+  "principle": "elements/midterm-exam",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "classroom-quizzing-medium-effect-achievement",
+      "question": "In real courses, do quizzes raise achievement, and when, how often and with what questions should they be given?",
+      "members": [
+        [
+          "classroom-quizzing-improves-exam-performance-across-grades-and-content",
+          "+"
+        ],
+        [
+          "postclass-quizzes-and-longer-duration-larger-gains",
+          "~"
+        ],
+        [
+          "test-repetitions-positive-relationship-classroom",
+          "+"
+        ],
+        [
+          "classroom-pretesting-exam-gains",
+          "+"
+        ],
+        [
+          "hocs-clickers-improve-locs-exam-performance",
+          "~"
+        ],
+        [
+          "any-clicker-pattern-beats-absence-except-lowest-quartile",
+          "~"
+        ],
+        [
+          "quizizz-gamification-better-memorization",
+          "+"
+        ],
+        [
+          "testing-effect-generalizes-education-levels",
+          "+"
+        ],
+        [
+          "format-consistency-moderates-classroom-testing-effect",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "test-anxiety-negative-exam-performance",
+      "question": "Does anxiety about the end-point test lower the scores it records, and do the test's conditions change that?",
+      "members": [
+        [
+          "math-anxiety-degrades-performance",
+          "+"
+        ],
+        [
+          "proctored-online-exams-increase-test-anxiety",
+          "~"
+        ],
+        [
+          "expressive-writing-improves-exam-performance",
+          "~"
+        ],
+        [
+          "higher-anxiety-is-associated-with-smaller-testing-effects",
+          "~"
+        ],
+        [
+          "low-stress-tbl-higher-isat-scores",
+          "~"
+        ],
+        [
+          "low-stress-tbl-lower-stress-frustration",
+          "~"
+        ],
+        [
+          "contextual-factors-increase-test-anxiety",
+          "~"
+        ],
+        [
+          "proctoring-no-effect-exam-performance",
+          "~"
+        ],
+        [
+          "familiarity-no-effect-test-anxiety",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "genai-homework-advantage-no-transfer",
+      "question": "Do gains learners make with generative AI on coursework show up on midterm and final exams taken without it?",
+      "members": [
+        [
+          "genai-evaluation-null-summative-algorithms",
+          "+"
+        ],
+        [
+          "genai-aligned-exam-null-floor-effect",
+          "+"
+        ],
+        [
+          "llm-users-lower-midterm1-score-gap-narrowed",
+          "+"
+        ],
+        [
+          "low-reliance-outperformed-high-reliance-midterms",
+          "+"
+        ],
+        [
+          "flagged-students-lower-exam-scores-dose-response",
+          "+"
+        ],
+        [
+          "h-score-negative-exam-correlation-strengthening",
+          "+"
+        ],
+        [
+          "baseline-mechanics-ai-use-inversely-related-performance",
+          "+"
+        ],
+        [
+          "learning-by-teaching-llm-improves-assignments-projects",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

@@ -79,7 +79,10 @@ The chapter reports Whiffen and Karpicke (2017): "initial retrieval practice wit
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it
+
+- [Existing theoretical accounts attributing the testing effect to enhanced semantic elaboration receive limited support](limited-support-semantic-elaboration-testing-accounts.md) — the general claim this finding bears on, with the studies behind it
 - [Retrieval practice disrupted within-list order reconstruction of eight-item word lists, just as generation did](retrieval-practice-disrupts-within-list-order-reconstruction.md) — related
 - [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](less-initial-retrieval-support-produces-better-retention.md) — related

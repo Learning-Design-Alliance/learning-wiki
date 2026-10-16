@@ -41,8 +41,9 @@ WWC review of the Wexler et al. (2010) trial using the Test of Silent Reading Ef
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Fluency-building activities for struggling readers in grades 4–9 have strong evidence, based on 33 studies](strong-evidence-fluency-building-activities-grades-4-9.md) — the general claim this finding bears on, with the studies behind it
 - [Repeated reading shows no discernible effects on alphabetics for students with learning disabilities](repeated-reading-no-discernible-alphabetics-effects.md) — related
 - [Repeated reading shows no discernible effects on reading fluency for students with learning disabilities](repeated-reading-no-discernible-fluency-effects.md) — related
 - [One qualifying study found a substantively important but statistically non-significant positive effect of repeated reading on comprehension (effect size 0.28)](wexler-2010-comprehension-effect-size-028-substantively-important.md) — related

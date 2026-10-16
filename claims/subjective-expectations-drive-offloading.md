@@ -41,11 +41,12 @@ Experimental study (Dunn & Risko, 2016) manipulating word rotation and layout fr
 
 ## Discussion
 
-
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](genai-overreliance-harms-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Both performance-oriented goals and effort minimization motivate offloading, and effort's effect disappears when performance monitoring is considered simultaneously](effort-performance-drivers-offloading.md) — related
 - [Feedback interventions show phase-specific effects: advice feedback reduces reminder bias, but ranking feedback alters beliefs without increasing offloading](feedback-effects-on-offloading-mixed.md) — related
 - [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — related

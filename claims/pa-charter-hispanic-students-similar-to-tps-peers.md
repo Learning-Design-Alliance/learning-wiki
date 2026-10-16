@@ -42,6 +42,9 @@ Figure 9a comparison of Hispanic charter students against Hispanic TPS VCR peers
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Black charter students outperform their Black TPS peers in reading (about 24 additional days) but both groups lag the average White TPS student substantially](pa-charter-black-students-reading-gain.md) — related
 - [Black students in poverty attending charter schools gain about 35 additional days of learning in reading compared to their Black TPS peers in poverty, with no math difference](pa-charter-black-poverty-students-reading-gain.md) — related

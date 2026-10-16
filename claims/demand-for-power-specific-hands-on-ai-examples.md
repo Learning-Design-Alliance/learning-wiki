@@ -30,7 +30,7 @@ sources:
 # Survey respondents strongly prefer power-specific hands-on AI materials over generic image-based examples
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 65.4% of respondents said yes and a further 28.8% said maybe to a one-click power-specific hands-on AI tutorial, a combined 94.2%. [→ Junjie Yin 2026](#junjie-yin-2026)

@@ -80,7 +80,7 @@ Four experiments on how chunks help working memory. Chunking improved recall not
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*How large should a unit be, and does grouping static material help?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (2 review, 2 causal), `q2`–`q3`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*How large should a unit be, and does grouping static material help?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **5 distinct studies** (3 causal, 2 review), `q1`–`q3`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -88,6 +88,7 @@ Four experiments on how chunks help working memory. Chunking improved recall not
 | [Cowan 2001](https://doi.org/10.1017/s0140525x01003922) | q2 · review · r? | i? | this claim |
 | [Thalmann et al. 2019](https://doi.org/10.1037/xlm0000578) | q3 · causal · r? | i? | this claim |
 | Furukawa 1978 | q2 · causal · r1 | i1; i? | [Short chunking study outlines produce higher test performance than long chunking study out](short-cso-improves-test-performance.md) (supports); [High CPC students outperform low CPC students only on the delayed posttest under the chunk](cpc-difference-delayed-posttest-only.md) (qualifies) |
+| Do 2024 | q1 · causal · r1 | i? | [Deliberate practice can expand short-term memory capacity beyond the conventional seven-it](deliberate-practice-expands-memory-capacity.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

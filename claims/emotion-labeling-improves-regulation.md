@@ -52,6 +52,8 @@ Kircanski, K., Lieberman, M. D., & Craske, M. G. (2012). Feelings into words: Co
 
 ## Related Claims
 
+- [Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible](expressive-writing-improves-exam-performance.md) — the general claim this finding bears on, with the studies behind it
+
 - [Belonging interventions improve outcomes.](belonging-interventions-improve-outcomes.md) — belonging interventions attend to students' social-emotional experience, which emotion labeling makes visible
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — unregulated emotional states consume working memory resources that labeling may help free
 - [Brief intervention: empathic discipline cuts suspensions.](brief-intervention-empathic-discipline-cuts-suspensions.md) — teacher-side practice of reappraising student behavior, the counterpart to student-side emotion labeling

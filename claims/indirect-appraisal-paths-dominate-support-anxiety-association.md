@@ -44,6 +44,9 @@ Bootstrap mediation analysis (5,000 resamples, 95% bias-corrected CIs) in AMOS o
 ## Discussion
 
 
+## Learner Variables
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [In a first-order support-dimension model, only informational support retained a significant path to AI learning self-efficacy](informational-support-unique-dimension-path-self-efficacy.md) — a narrower finding that bears on this claim
 - [Trust in AI and academic self-efficacy serially mediate the literacy-to-continued-use association (literacy → trust → self-efficacy → use)](serial-mediation-literacy-trust-efficacy-use.md) — related

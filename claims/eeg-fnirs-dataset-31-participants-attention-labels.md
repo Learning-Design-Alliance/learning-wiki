@@ -30,7 +30,7 @@ sources:
 # A multimodal EEG-fNIRS dataset was collected from 31 participants watching three instructional videos, yielding over 4.5 million data points with expert-verified attention labels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Simultaneous EEG and fNIRS signals were collected from 31 healthy participants during videos on convolutional neural networks, matrix factorization, and neurons and synapses. [→ Shixian Zhou 2026](#shixian-zhou-2026)

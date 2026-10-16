@@ -41,8 +41,9 @@ Observational analysis of immediate effects of the three feedback types on learn
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Producing modified output involving developmentally advanced question forms in response to negative feedback is the only significant predictor of ESL question development](modified-output-advanced-forms-predicts-question-development.md) — the general claim this finding bears on, with the studies behind it
 - [Recasts were provided more predominantly than prompts and explicit correction in both French immersion and Japanese immersion elementary classrooms](recasts-predominate-over-prompts-explicit-correction-immersion.md) — related
 - [The study compared feedback-uptake relationships across two immersion settings totaling 18.3 hr of French and 14.8 hr of Japanese classroom interaction](comparative-feedback-analysis-french-japanese-immersion-hours.md) — related
 - [The frequency of oral corrective feedback differs across instructional contexts](cf-frequency-varies-across-instructional-contexts.md) — a broader claim this one bears on

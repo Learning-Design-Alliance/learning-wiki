@@ -42,6 +42,9 @@ Rapid qualitative analysis of three virtual focus groups (one English, two Spani
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Hispanic adults valued culturally relevant visual design — bright colors, Hispanic representation, and realistic imagery — in lung cancer screening educational materials](culturally-relevant-visual-design-lcs-materials.md) — related
 - [Cancer-related fear and fatalism shape lung cancer screening decisions, and Hispanic adults preferred balanced risk communication that minimizes fear](fear-fatalism-shape-lcs-decisions-balanced-risk-communication.md) — related

@@ -41,11 +41,13 @@ Theoretical/historical statement in the article's opening extract: because psych
 
 ## Discussion
 
-
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — predictor: learners who differ on it differ in outcomes
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](math-anxiety-degrades-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Anxiety is a multifaceted construct with several differentiated types](anxiety-multifaceted-types-taxonomy.md) — related
 - The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety — related
 - [Cognitive apprenticeship students became more anxious about mathematics but reported gains in self-confidence, rapport, and enjoyment](cognitive-apprenticeship-attitude-anxiety-confidence-effects.md) — related

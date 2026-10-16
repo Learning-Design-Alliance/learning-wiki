@@ -41,10 +41,11 @@ The review reports national transcript-data gaps in access to college-preparator
 
 ## Discussion
 
-
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [School test score averages are strongly related to the income of the families a school serves](school-test-scores-strongly-related-to-family-income.md) — the general claim this finding bears on, with the studies behind it
 - [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — related
 - Graduates' academic qualifications improved alongside graduation rates, with ACT scores rising from 16.7 to 18.6 between 2003 and 2014 — related

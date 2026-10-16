@@ -148,6 +148,8 @@ A narrative review reports this meta-analysis of more than 90 PreK–12 articles
 
 ## Related Claims
 
+- [Belongingness is among the factors that most strongly and reliably affect learners' academic motivation and achievement](belongingness-strongly-affects-motivation-achievement.md) — the general claim this finding bears on, with the studies behind it
+
 - [Belonging interventions improve outcomes](belonging-interventions-improve-outcomes.md) — belonging is a key proximal mechanism linking relationships to engagement
 - [Autonomy supports intrinsic motivation](autonomy-supports-intrinsic-motivation.md) — relatedness and autonomy are complementary motivational needs
 - [Brief intervention: empathic discipline cuts suspensions](brief-intervention-empathic-discipline-cuts-suspensions.md) — relationship-oriented teacher practice improves behavioral outcomes

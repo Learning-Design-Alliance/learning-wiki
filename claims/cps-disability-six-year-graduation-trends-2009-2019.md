@@ -42,12 +42,13 @@ Table 4 takeaway comparing six-year graduation rates by disability category for 
 
 ## Discussion
 
-
 ## Learner Variables
 - [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
 - [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](disability-largest-postsecondary-outcome-gap.md) — the general claim this finding bears on, with the studies behind it
 - [Graduation rates improved for all racial, ethnic, and economic groups, but racial and ethnic gaps increased while gender, poverty, and disability gaps declined](graduation-gaps-racial-widened-others-narrowed.md) — related
 - [Within every student category, freshman GPA, course failures, and absences are strongly related to five-year graduation rates, with large drops per half grade point, per additional course failure, and per absence band](freshman-indicators-predict-graduation-within-disability-categories.md) — related
 - [CPS students with an IEP related to a learning disability graduated at a rate approaching the district average, while students with an IEP related to another disability graduated at 54.7%](cps-graduation-disability-status.md) — related

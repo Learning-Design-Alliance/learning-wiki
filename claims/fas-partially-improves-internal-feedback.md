@@ -41,7 +41,8 @@ In the same quasi-experimental study, students giving internal feedback to their
 
 ## Discussion
 
-
 ## Related Claims
+
+- [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — the general claim this finding bears on, with the studies behind it
 - [A formative assessment script increases the quantity and quality of peer feedback vocational students generate on a peer's draft](fas-improves-peer-feedback-generation.md) — related
 - [FAS support does not increase detection of missing information or improvement suggestions in students' internal feedback on their own drafts](fas-no-gain-missing-info-suggestions-own-draft.md) — related

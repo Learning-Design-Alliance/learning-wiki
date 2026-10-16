@@ -17,7 +17,7 @@ sources:
 # Teach rules to metalinguistic criterion first, then schedule systematic comprehension and production practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (1 causal, 1 review), `q2`–`q3` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 review), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article's instructional sequence: teach target rules and vocabulary explicitly, verify with metalinguistic tests until learners reach criterion, then engage learners in systematic, computer-controlled comprehension and production practice over an extended period. The study reports that after subjects "hadreached criterion on a set of metalinguistic tests of grammar and vocabulary, they engaged insystematic, computer-controlled comprehension and production practice for 8 weeks."

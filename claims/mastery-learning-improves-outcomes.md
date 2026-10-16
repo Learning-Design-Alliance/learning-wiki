@@ -47,16 +47,17 @@ This meta-analysis pooled 108 controlled evaluations of mastery learning program
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does making progress depend on reaching a unit criterion, with correction and a recheck, raise examination performance over conventional pacing?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **7 distinct studies** (3 causal, 2 quant-synthesis, 2 associational), `q2`–`q4`, 2 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does making progress depend on reaching a unit criterion, with correction and a recheck, raise examination performance over conventional pacing?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **8 distinct studies** (3 associational, 3 causal, 2 quant-synthesis), `q2`–`q4`, 2 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Kulik et al. 1990](https://doi.org/10.3102/00346543060002265) | q4 · quant-synthesis · r? | i2 · medium effect, mean ES = 0.52 SD (SE 0.033) across 103 studies of examination performance | this claim |
+| [Kulik et al. 1990](https://doi.org/10.3102/00346543060002265) | q4 · quant-synthesis · r? | i2 · medium effect, mean ES = 0.52 SD (SE 0.033) across 103 studies of examination performance; i2 · medium effect, ES = 0.61 SD low-aptitude vs 0.40 SD high-aptitude | this claim; [Mastery learning effects are larger for lower-aptitude students, narrowing the spread of a](mastery-learning-effects-larger-for-lower-aptitude-students.md) (qualifies) |
 | Guskey 1985 | q3 · quant-synthesis · r2 | i? | [Group-based mastery learning programs yield positive achievement effects in every included](group-mastery-positive-achievement-all-studies.md) (supports) |
 | [Weatherholtz 2024](https://doi.org/10.1007/978-3-031-72315-5_32) | q2 · associational · r2 | i? | [Longitudinal within-student analysis of a mathematics mastery learning platform replicates](mastery-platform-longitudinal-positive-effects.md) (supports) |
 | Bonczar 1983 | q2 · associational · r1 | i? | [Mastery learning sections show higher earned credit rates than comparable non-mastery sect](mastery-learning-higher-earned-credit-rates.md) (qualifies) |
 | [Pane et al. 2017](https://doi.org/10.7249/rr2042) | q2 · causal · r2 | i0 · negligible-to-small, overall effect size 0.09 SD (math, sig.) / 0.07 SD (reading, n.s.) | [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) (qualifies) |
 | Person 2016 | q2 · causal · r1 | i? | [Gatekeeper course completion rates were slightly lower for CBE participants than for compa](cbe-gatekeeper-completion-lower-than-comparison.md) (counts against) |
+| Ann Person 2016 | q2 · associational · r? | i? | [Gatekeeper course completion rates were slightly lower for CBE participants than for compa](cbe-gatekeeper-completion-lower-than-comparison.md) (counts against) |
 | Fitzpatrick 1985 | q2 · causal · r2 | i? | [Trained teachers allocated about 20 percent of class time to the feedback-corrective/enric](training-increases-feedback-corrective-loop-time.md) (qualifies) |
 <!-- synthesis:end -->
 
@@ -75,6 +76,8 @@ This meta-analysis pooled 108 controlled evaluations of mastery learning program
 <!-- deprecated (2026-09-30, stale once evidence was recorded): **Open questions.** Evidence entries are still needed here to establish effect sizes, compare group-based versus individually paced variants, and test durability of gains over time. This page should not be treated as evidentially supported until those entries are added. -->
 
 ## Related Claims
+
+- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — the general claim this finding bears on, with the studies behind it
 
 - [Mastery learning gains persist at follow-up](mastery-learning-gains-persist-at-follow-up.md) — the same synthesis, follow-up examinations
 - [Mastery learning effects are larger for lower-aptitude students](mastery-learning-effects-larger-for-lower-aptitude-students.md) — the same synthesis, by aptitude

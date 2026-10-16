@@ -48,7 +48,12 @@ First-year psychology students completed parallel written evidence-evaluation ta
 ## Discussion
 The absence of a control group is a real limitation the authors acknowledge (for ethical reasons, they did not want to withhold the intervention from any students); the pre/post design cannot rule out maturation, other coursework, or general university exposure as contributing causes. The qualitative discourse evidence supporting the mechanism (why collaborative redesign works) comes from an in-depth analysis of a single group across all three tasks and should be read as illustrative rather than a separately quantified effect. The honest null result on lay evidence evaluation is itself informative: it shows the shift was not a general increase in critical thinking but was specific to the disciplinary ideals the course actually emphasized.
 
+## Learner Variables
+- [Epistemic Beliefs](../learner-variables/epistemic-beliefs.md) — outcome: instruction changes it
+
 ## Related Claims
+
+- [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) — the general claim this finding bears on, with the studies behind it
 
 - [Civic Online Reasoning Instruction Improves Evaluation](civic-online-reasoning-instruction-improves-evaluation.md) — the general claim this finding bears on, with the studies behind it
 - (none yet linked)

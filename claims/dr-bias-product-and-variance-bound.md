@@ -30,7 +30,7 @@ sources:
 # Analytically, the DR estimator's bias is bounded by the product of propensity and imputation errors, and its generalization bound contains a variance term scaling with squared imputation error
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Lemma 1 proves the DR estimator is unbiased if either the propensity model or the imputation model is accurate, with bias bounded by the product of the two models' errors. [→ Peilin Zhan 2026](#peilin-zhan-2026)

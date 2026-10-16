@@ -41,8 +41,9 @@ Regression analysis (Table 6) of mathematics gains by student racial/ethnic grou
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers](instructional-leadership-linked-student-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Principals' access to professional development is significantly associated with teacher retention and student achievement, with gains greatest for historically underserved students](principal-pd-associated-retention-achievement.md) — a broader claim this one bears on
 - [Professional development is associated with larger mathematics gains for students of early-career principals than for students of mid-career and veteran principals](pd-benefits-early-career-principals.md) — related
 - [Principals' access to professional development is positively related to student gains in both ELA and mathematics, with the strongest and most consistent relationships in mathematics](principal-pd-access-student-achievement.md) — a broader claim this one bears on

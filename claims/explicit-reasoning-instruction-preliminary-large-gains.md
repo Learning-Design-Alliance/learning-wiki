@@ -39,6 +39,24 @@ Preliminary test class (15 students from both physics-major and general-educatio
 
 > "As shown in tab. III, an average normalized gain of 68% (n=14) was achieved on the LCTSR in comparison to 11% (n=42) for previous courses taught similarly with respect to content, though lacking explicit reasoning intervention."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does teaching reasoning patterns explicitly develop learners' scientific reasoning more than content instruction or unguided inquiry does?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **9 distinct studies** (4 causal, 2 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4`, 3 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Moore 2011](https://doi.org/10.48550/arxiv.1110.2764) | q2 · causal · r1 | i2; i? | this claim; [In physics-based courses for non-science majors taught with active-engagement pedagogy, no](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) (supports) |
+| [Matlen 2013](https://doi.org/10.1007/s11251-012-9248-z) | q3 · causal · r1 | i? | [High-then-high guidance produced stronger understanding of CVS than low-then-low guidance ](hh-guidance-beats-ll-cvs-children.md) (supports); [Preceding high guidance with low guidance conferred no advantage for children's CVS learni](no-advantage-low-before-high-guidance.md) (supports) |
+| [Alfieri et al. 2011](https://doi.org/10.1037/a0021017) | q4 · quant-synthesis · r? | i1 · small effect, d=0.38 favouring explicit instruction over unassisted discovery | [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) (supports) |
+| [Klahr & Nigam 2004](https://doi.org/10.1111/j.0956-7976.2004.00737.x) | q3 · causal · r? | i? | [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) (supports) |
+| [Kirschner et al. 2006](https://doi.org/10.1207/s15326985ep4102_1) | q2 · review · r? | i? | [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) (supports) |
+| [Manu Kapur 2016](https://doi.org/10.1080/00461520.2016.1155457) | q3 · theoretical · r3 | i? | [Direct instruction's advantages do not persist over the longer term](direct-instruction-advantages-vanish-long-term.md) (qualifies) |
+| [Zhou 2023](https://doi.org/10.1080/10494820.2023.2205904) | q3 · quant-synthesis · r? | i2 · medium effect, g=0.603 (learn to argue), g=0.596 (argue to learn) | [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) (qualifies) |
+| [Kuhn & Crowell 2011](https://doi.org/10.1177/0956797611402512) | q2 · causal · r? | i? | [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) (qualifies) |
+| [reasoning-tests-1](https://doi.org/10.51388/20.500.12265/250) | q1 · review · r? | i? | [Productive discourse practices correlate with improved performance on standardized tests o](discourse-practices-correlate-reasoning-tests.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

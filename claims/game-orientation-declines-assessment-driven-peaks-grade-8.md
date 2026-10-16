@@ -42,6 +42,9 @@ Percentage distributions per grade (Table 2) show game-oriented prevalence decre
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [K-means clustering of K–8 students' platform trace data yields seven distinct engagement profiles](seven-engagement-profiles-k8-elearning.md) — related
 - [The theory-into-game profile appears only in Grades 1–5 and the traditional comprehensive profile is absent in Grade 1](grade-specific-profile-presence-theory-into-game.md) — related

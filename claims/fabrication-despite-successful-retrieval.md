@@ -30,7 +30,7 @@ sources:
 # Retrieval failure explained only 2 of vector RAG's 11 ungrounded answers; 9 answers retrieved the correct material and were still ungrounded, suggesting chunked context invites fabrication
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Retrieval itself was largely successful: 43 of 45 topic-page questions (96%) retrieved a chunk from the question's actual source page in the top 5. [→ Brian Wright 2026](#brian-wright-2026)

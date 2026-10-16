@@ -41,8 +41,9 @@ Theoretical argument in the introduction of this position paper, citing prior em
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Over-reliance on AI dialogue systems fosters complacency and dependency that impairs students' decision-making abilities](ai-overreliance-impairs-decision-making.md) — the general claim this finding bears on, with the studies behind it
 - [The effectiveness of reflective AI-engagement mechanisms varies across users, depending on Need for Cognition, expertise, domain familiarity, and task difficulty](reflective-support-effects-vary-by-user.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Review-attributed evidence: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — related

@@ -42,6 +42,9 @@ Controlled 3×3×3 factorial study (§5.1) with 45 participants and 270 tutoring
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Learner-side gains from curiosity modulation generalize across model families, academic domains, and topic complexity levels](curiosity-gains-generalize-across-models-domains-complexity.md) — related
 - [Commercially optimized study-oriented modes achieve higher learner-side scores than baseline, and CURIOBOT shifts general-purpose LLM behavior toward those patterns via prompting alone](study-oriented-modes-upper-bound-reference.md) — related

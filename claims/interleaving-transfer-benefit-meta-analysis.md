@@ -41,8 +41,9 @@ Meta-analytic subset of the systematic review comparing interleaved versus block
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Encoding variability across varied example contexts produces decontextualization supporting transfer (review reports DiVesta and Peverly)](encoding-variability-decontextualization-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — a broader claim this one bears on
 - [Interleaving during concept learning benefits memory of studied items, with effect sizes (Hedges' g) of up to 0.65](interleaving-memory-benefit-meta-analysis.md) — related
 - [Interleaving is most useful when differences between items are subtle; blocking can be preferable when category members are diverse](interleaving-similarity-boundary-condition.md) — related

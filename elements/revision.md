@@ -13,7 +13,7 @@ generated:
 # Revision
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (10 for, 3 mixed, 1 against) · 20 studies (9 causal, 3 associational, 3 qualitative, 2 quant-synthesis, 1 review, 1 design, 1 theoretical), `q1`–`q4` · 1 of 20 report an effect size · 10 claims rest on one study
+> **Evidence** · 15 claims (11 for, 3 mixed, 1 against) · 21 studies (9 causal, 3 quant-synthesis, 3 associational, 3 qualitative, 1 review, 1 design, 1 theoretical), `q1`–`q4` · 2 of 21 report an effect size · 11 claims rest on one study
 
 ## Description
 Revision is the process by which learners rework a product — a text, design, solution, or argument — in response to [Feedback](feedback.md) and their own [Self-Assessment](self-assessment.md). It treats the first attempt as a draft rather than a final answer, making improvement itself the object of learning.
@@ -65,6 +65,10 @@ Revision converts feedback into measurable learning gains only when learners act
 - [Three multilingual international students critically evaluated AI feedback, recognized peer-AI agreement, and maintained their voices while revising](../claims/multilingual-students-critically-evaluate-ai-feedback-pairr.md) [~W]
 - [AI support during drafting lowers ownership substantially more than support during planning or revision, and planning support preserves more ownership than revision support.](../claims/drafting-support-largest-ownership-decrease.md) [+W]
 - [Comment revision effort concentrates on Multi-Step-Block and other procedural constructs, with the widest flows ending in Heavy Modification](../claims/revision-hotspots-multi-step-block-heavy-modification.md) [~W]
+
+## The evidence by question
+- *Does teaching writing as a staged process with feedback on drafts raise writing quality, and what has to be inside it for the gain to appear?* [Process Writing Improves Writing Quality](../claims/process-writing-improves-writing-quality.md) [+M]
+- *What leads learners to make deep, meaning-level revisions rather than surface edits?* [Diagnostic Review revisions contained larger shares of meaning-change, organization, and content/argument work, while Control revisions remained more dependent on surface-level editing](../claims/revision-architecture-meaning-change-versus-surface.md) [+M]
 
 ## Related Elements
 - [Feedback](feedback.md) — the input that drives revision; without it, revision is guesswork

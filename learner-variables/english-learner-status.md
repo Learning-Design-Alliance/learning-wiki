@@ -1,0 +1,126 @@
+---
+type: learner-variable
+id: english-learner-status
+title: English-Learner Status
+description: "Whether a learner is still acquiring the language of instruction (an English learner, multilingual learner or second-language learner), as classified by a school system or measured by proficiency tests."
+status: review
+generated:
+  by: claude/unspecified
+  at: 2026-10-15
+---
+
+# English-Learner Status
+
+> **Learner Variable** · [All learner variables](index.md)
+> **Evidence** · 84 claims (52 for, 18 mixed, 14 against) · 61 studies (27 associational, 13 causal, 9 review, 4 quant-synthesis, 3 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 10 of 61 report an effect size · 83 claims rest on one study
+
+## Description
+English-learner (EL) status marks a learner who is acquiring the language of instruction while learning content in it. Schools classify learners on a proficiency test and reclassify them once they reach a threshold, so the EL group changes composition over time: the learners who succeed leave it. In the research the status appears as a predictor of outcomes, as a moderator of instructional effects (language supports that help ELs more), and as the target of programmes such as bilingual and dual-language models. It is narrower than [reading and language](reading-and-language.md), which covers reading and language skill in every learner.
+
+## Implications
+
+### Context
+- Because reclassified learners leave the group, the current EL group's results understate how former ELs do.
+- Content instruction in a language a learner is still acquiring needs language supports built in, not added afterwards.
+
+### Target Learners
+- English learners and multilingual learners in schools and colleges that teach in English, and second-language learners generally.
+
+### Target Learning Objectives
+- Language proficiency, reclassification, and content achievement in mathematics, science and reading.
+
+## Claims
+<!-- Claims reporting findings about this variable, with evidence tags -->
+- [A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does.](../claims/l1-predicts-l2-phoneme-perception-more-than-proficiency.md) [~M] — learners who differ on it differ in outcomes
+- [A sizable repertoire of formulaic sequences benefits second-language learners, but learners are slow to close the gap with native speakers in formulaic language](../claims/formulaic-sequences-benefit-l2-learners-but-are-slow-to-acquire.md) [+M] — learners who differ on it differ in outcomes
+- [About 27 percent of 2018 graduates statewide met all CCR graduation requirements, with gaps by socioeconomic status, English learner status, race/ethnicity, and prior achievement](../claims/ccr-met-27-percent-with-equity-gaps.md) [+M] — learners who differ on it differ in outcomes
+- [After accounting for other factors, colleges with higher shares of first-generation, older, English learner, and academically disadvantaged students still earned fewer milestones, while economic disadvantage and dual-credit shares were no longer significant](../claims/conditional-regression-need-factors-milestones.md) [+M] — learners who differ on it differ in outcomes
+- [All English Learners, including former English Learners, were more likely to enroll in two-year colleges than the district average](../claims/all-els-overrepresented-two-year-colleges.md) [+M] — learners who differ on it differ in outcomes
+- [Among four-year college enrollees, former and late-arriving English Learners persisted at or above district-average rates while long-term English Learners with IEPs persisted at substantially lower rates](../claims/el-college-persistence-varies-by-subgroup.md) [~M] — learners who differ on it differ in outcomes
+- [BCIRC has potentially positive effects on English language development (effect size 0.29, not statistically significant)](../claims/bcirc-potentially-positive-english-language-development.md) [-W] — instruction changes it
+- [BCIRC has potentially positive effects on reading achievement for Spanish-speaking English language learners (effect size 0.61, not statistically significant after clustering correction)](../claims/bcirc-potentially-positive-reading-achievement.md) [-M] — an instructional effect differs with it
+- [California kindergarten English learners' chronic absenteeism nearly tripled from 14.5 percent in 2018–19 to 43.1 percent in 2021–22, easing only gradually to 37.1 percent in 2022–23](../claims/california-kindergarten-english-learners-absence-tripled.md) [+M] — learners who differ on it differ in outcomes
+- [Children with language or attention disorders and second-language learners are more impaired by noise in speech perception than age-matched controls](../claims/vulnerable-children-more-noise-impaired-speech-perception.md) [+M] — learners who differ on it differ in outcomes
+- [Colleges with higher percentages of first-generation, economically disadvantaged, academically disadvantaged, older, and English learner students earned fewer success points milestones per FTE student](../claims/need-factors-fewer-success-points-milestones.md) [+M] — learners who differ on it differ in outcomes
+- [Disengagement rates on the state summative test varied materially across gender, ethnicity, IEP status, LEP status, FRL status, and disability status](../claims/disengagement-varies-student-subgroups-state-test.md) [+M] — learners who differ on it differ in outcomes
+- [Dual language learners especially benefit from high-quality early care and dual language immersion programs, and multilingualism is associated with cognitive, linguistic, social, and cultural strengths](../claims/dual-language-learners-benefit-from-immersion-programs.md) [+W] — an instructional effect differs with it
+- [Dual language programs are associated with higher achievement and with EB/non-EB achievement gap closure by seventh grade](../claims/dual-language-programs-gap-closure-longitudinal.md) [+W] — an instructional effect differs with it
+- [Economically disadvantaged, English learner, special education, Black, and Hispanic students were more likely than peers to be ever below benchmark](../claims/student-group-early-literacy-disparities.md) [+M] — learners who differ on it differ in outcomes
+- [Educators in 2023-24 listening sessions repeatedly identified Criterion 4 as a barrier to reclassification that many English-only students could not meet](../claims/field-perceptions-criterion4-barrier.md) [+W] — instruction changes it
+- [Eighth grade EL reclassification has statistically insignificant effects on 9th–11th grade ELA test scores, with effects bounded between −0.17 and 0.09 SDs](../claims/el-reclassification-null-ela-effects-high-school.md) [-M] — learners who differ on it differ in outcomes
+- [Eighth grade EL reclassification shows a fairly large negative effect on SAT reading, with a confidence interval of −0.27 to 0.05 SDs](../claims/el-reclassification-negative-sat-reading.md) [~M] — learners who differ on it differ in outcomes
+- [Eighth grade EL reclassification shows positive but imprecise estimates for on-track-to-graduate status in 10th and 11th grades](../claims/el-reclassification-on-track-positive-imprecise.md) [~M] — learners who differ on it differ in outcomes
+- [EL status had either a null effect or led to slight under-identification in SPED placement](../claims/el-status-null-or-underidentification-sped.md) [~M] — learners who differ on it differ in outcomes
+- [EL status led to under-identification for Spanish speakers but proportionate representation for Mandarin/Cantonese and other-language speakers](../claims/el-underidentification-varies-by-language-group.md) [~M] — learners who differ on it differ in outcomes
+- [ELL newcomers entering CPS after age 12 graduated at lower rates than students with the same grades and attendance, with school quality the key associated factor](../claims/ell-newcomers-after-age-12-lower-graduation.md) [+M] — learners who differ on it differ in outcomes
+- [ELLs attempted academic terminology from prior lessons, with experience mediating their connection to the concept of vibration](../claims/experience-mediate-connection-academic-language-vibration.md) [+M] — learners who differ on it differ in outcomes
+- [ELLs start middle school roughly .6 SD lower in math and .65 SD lower in reading, with faster reading growth (.13 SD) but no faster math or self-efficacy growth](../claims/ell-lower-start-faster-reading-growth-only.md) [~M] — learners who differ on it differ in outcomes
+- [ELPAC overall PL 4 students who exit EL status show minimal or no achievement differences one year later compared with those who remain, after controlling for SES](../claims/no-achievement-benefit-remaining-el-status-pl4.md) [-M] — learners who differ on it differ in outcomes
+- [English Learner students at ELPAC PL 4 perform as well as, or better than, matched English-only peers on the state English language arts achievement test](../claims/pl4-el-students-comparable-to-peers.md) [~M] — learners who differ on it differ in outcomes
+- [English learner students were more often identified at risk overall, but those with low English proficiency on ACCESS were not necessarily below benchmark; a little over one third of English learners meeting benchmark scored at the two lowest ACCESS proficiency levels](../claims/el-low-access-proficiency-not-always-below-benchmark.md) [~M] — learners who differ on it differ in outcomes
+- [English learner students with disabilities are more likely to struggle academically and less likely to participate in activities than both other students with disabilities and other English learners](../claims/elswd-more-academic-struggle-less-activity-participation.md) [+W] — learners who differ on it differ in outcomes
+- [English learners can learn to read in English at the same rate as their monolingual peers in the primary grades](../claims/english-learners-read-same-rate-primary-grades.md) [-M] — learners who differ on it differ in outcomes
+- [English Learners participated at higher rates; the disability difference was not statistically significant](../claims/english-learners-higher-iep-null-participation.md) [+M] — learners who differ on it differ in outcomes
+- [English Learners' initial ELP level influences the expected time frame for attaining the English-proficient criterion, supporting refined time-to-proficiency criteria](../claims/initial-elp-level-influences-time-to-proficiency.md) [+M] — learners who differ on it differ in outcomes
+- [English learners' progress beyond the significant risk level differed by test language: 21 percent stayed above threshold in English and 19 percent improved to it, versus 11 percent improving in Spanish](../claims/massachusetts-english-learner-spanish-english-screener-divergence.md) [~M] — learners who differ on it differ in outcomes
+- [Enhanced Proactive Reading shows no discernible effects on English language development](../claims/enhanced-proactive-reading-no-discernible-english-language-development.md) [-M] — instruction changes it
+- [Fast ForWord Language has potentially positive effects on English language development of elementary school English language learners](../claims/fast-forword-language-potentially-positive-english-language-development.md) [+W] — instruction changes it
+- [Feedback quality did not differ by students' language status for either human evaluators or ChatGPT](../claims/feedback-quality-no-language-status-difference.md) [-M] — an instructional effect differs with it
+- [Fifth-grade self-efficacy is associated with later math and reading growth (.15 and .19 standardized units per SD), mediating ELL status's indirect negative association with growth](../claims/self-efficacy-intercept-predicts-achievement-growth-mediation.md) [+M] — learners who differ on it differ in outcomes
+- [Former English Learners graduated from CPS high school at a higher rate (89.0%) than students never classified as English Learners (84.1%)](../claims/cps-former-els-graduate-higher-than-never-els.md) [+M] — learners who differ on it differ in outcomes
+- [Former English Learners graduated from CPS high school at a higher rate than never-English Learners, while active English Learners graduated at a slightly lower rate](../claims/cps-graduation-english-learner-status.md) [+M] — learners who differ on it differ in outcomes
+- [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](../claims/gender-age-proficiency-chatbot-differences.md) [~W] — learners who differ on it differ in outcomes
+- [GPAs were very similar for students who did and did not enter CPS as ELs, with a reading-grade gap that closed by seventh grade and similar Freshman OnTrack rates](../claims/el-gpas-reading-grades-ontrack-similar.md) [-M] — learners who differ on it differ in outcomes
+- [Greater linguistic complexity increases the difficulty of English-language math items for ELLs compared to non-ELLs of equivalent math proficiency](../claims/linguistic-complexity-increases-ell-math-item-difficulty.md) [+M] — learners who differ on it differ in outcomes
+- [Hispanic ELLs proficient before sixth grade performed better in ninth-grade courses than other Hispanic subgroups](../claims/early-proficiency-better-ninth-grade-performance.md) [+M] — learners who differ on it differ in outcomes
+- [In 1997, 31% of third graders and about 20% of sixth and eighth graders were excluded from Chicago's promotional test-score policy, with bilingual education the main exclusion reason in third grade and special education in sixth and eighth](../claims/cps-promotional-policy-exclusion-rates-1997.md) [+M] — learners who differ on it differ in outcomes
+- [In both analysis years and all tested grades, EL students reach a 50 percent chance of SBAC ELA proficiency within ELPAC overall PL 4](../claims/logistic-regression-50-percent-proficiency-pl4.md) [+W] — learners who differ on it differ in outcomes
+- [In math, EL groups grew more than never-ELs during academic years but lost more during summers](../claims/el-math-faster-year-growth-higher-summer-loss.md) [~M] — learners who differ on it differ in outcomes
+- [Inquiry-based science provides a highly contextualized setting for authentic language use and higher-level dialogue that is not text-dependent, supporting English learners' language development](../claims/inquiry-science-contextualized-authentic-language.md) [+W] — instruction changes it
+- [Language proficiency, beliefs, feedback literacy and learning objectives moderate students' engagement with and uptake of WCF](../claims/student-factors-moderate-wcf-engagement.md) [~M] — an instructional effect differs with it
+- [Larger proportions of ELs classified for 6 or more years are meeting the ELPAC well-developed benchmark, rising from about 17% in 2020–21 to nearly 23% in 2022–23](../claims/elpac-well-developed-rising-among-ltel-qualifiers.md) [+M] — learners who differ on it differ in outcomes
+- [Literacy benefits of dual language programs did not extend to the English learner subsample in the strongest study](../claims/dual-language-literacy-null-for-english-learners.md) [-M] — an instructional effect differs with it
+- [Long-term English Learners with IEPs were on-track in ninth grade at near district-average rates but graduated at substantially lower rates, similar to non-English Learners with IEPs](../claims/long-term-els-ieps-ontrack-then-fall-behind.md) [~M] — learners who differ on it differ in outcomes
+- [Long-term Hispanic ELLs had the worst course performance and graduation rates, with only 52 percent graduating within four years](../claims/long-term-ell-52-percent-graduation.md) [+M] — learners who differ on it differ in outcomes
+- [Many English-only students would fail locally determined cutoff scores often applied to English Learner students under California's Criterion 4 basic-skills requirement](../claims/criterion4-barrier-reclassification.md) [+M] — instruction changes it
+- [Multilingual learners gained more in higher-tier programs than non-multilingual learners, with Tier 5 gains of 2.6–2.8 additional months](../claims/multilingual-learners-larger-gains-higher-tiers.md) [+M] — an instructional effect differs with it
+- [NC Pre-K participants made greater gains than expected for normal developmental growth, with particular benefits for dual language learners and low-income students](../claims/nc-prek-gains-dual-language-learners.md) [+W] — an instructional effect differs with it
+- [No evidence demonstrates unique, reliable, or EL-specific gains attributable to readers' theater alone](../claims/readers-theater-alone-no-unique-eb-gains-evidence.md) [-M] — an instructional effect differs with it
+- [Non-ELLs outscore ELLs in math, reading, and self-efficacy at every timepoint, with a 2015 self-efficacy gap exceeding .35 standard deviations](../claims/ell-non-ell-gaps-math-reading-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
+- [Peer Tutoring and Response Groups has positive effects on English language development for English language learners, with an average improvement index of +17 percentile points](../claims/peer-tutoring-response-groups-positive-eld-effects.md) [+W] — instruction changes it
+- [Predictive accuracy of middle and high school indicators did not vary substantially between student groups](../claims/predictive-accuracy-similar-across-groups.md) [-W] — an instructional effect differs with it
+- [Pretest, attendance, and EB status showed distinct covariate effects on specific literacy outcomes](../claims/covariate-effects-pretest-attendance-eb-gains.md) [+M] — learners who differ on it differ in outcomes
+- [Read Well® shows potentially positive effects on English language development for elementary school English language learners](../claims/read-well-potentially-positive-english-language-development.md) [+W] — instruction changes it
+- [Removing Criterion 4 would likely increase reclassification rates for ready students, particularly those with disabilities or from lower socioeconomic backgrounds, without harming academic performance](../claims/removing-criterion4-increases-reclassification.md) [+W] — instruction changes it
+- [Risk identification varies by grade and student group: kindergarten and grade 3 students were less often at risk than grades 1–2, and economically disadvantaged, English learner, Hispanic, Black, and special education students were more often identified at risk](../claims/risk-varies-by-grade-and-student-group.md) [+M] — learners who differ on it differ in outcomes
+- [Spoken–written advantages are larger for second-language and nonfluent first-language readers and for low prior knowledge learners](../claims/reader-fluency-prior-knowledge-moderate-redundancy.md) [+M] — an instructional effect differs with it
+- [Statewide mathematics achievement gaps between English learners and English speakers increased from 2015 to 2017, a pattern evident in all but one MiC district](../claims/el-english-speaker-gap-increasing-statewide.md) [+M] — learners who differ on it differ in outcomes
+- [Students designated as LTEL7 who reached the recommended CAASPP ELA achievement cut point were not yet reclassified as fluent English proficient](../claims/ltel7-caaspp-ela-met-not-reclassified.md) [+M] — learners who differ on it differ in outcomes
+- [Students from low income, English learner, special education, and several racial/ethnic groups are more likely to be repeatedly identified as significantly below benchmark, with low income students 2.5 times as likely](../claims/massachusetts-k3-risk-inequities-student-groups.md) [+M] — learners who differ on it differ in outcomes
+- [Students who began as English Learners graduated from high school at a slightly higher rate than never-classified EL students and enrolled in college at about the same rate, with more two-year enrollment](../claims/cps-english-learner-attainment-2020.md) [~M] — learners who differ on it differ in outcomes
+- [Students who meet Criterion 1 achieve at the same level whether they remain in EL status or exit, suggesting retention in EL status after proficiency provides no clear academic benefit](../claims/retained-versus-exited-equivalent-achievement.md) [-M] — learners who differ on it differ in outcomes
+- [Summer credit recovery shows suggestive evidence of positive effects on English proficiency for newcomer ELs](../claims/credit-recovery-suggestive-english-proficiency-gains.md) [+M] — instruction changes it
+- [Teachers' ratings on 16 English-readiness KEA items at kindergarten entry predicted Hispanic/Latino children's English literacy achievement almost 6 years later](../claims/kea-english-readiness-ratings-predict-literacy-six-years.md) [+M] — learners who differ on it differ in outcomes
+- [Textual analysis identifies specific linguistic features of MCAS word problems that posed disproportionate difficulty for ELLs](../claims/linguistic-features-of-dif-mcas-word-problems.md) [+W] — an instructional effect differs with it
+- [The A4L impact on grade 4 CCU outcomes differed significantly by ELL status in years 1 and 2, with substantially larger effects for ELL students, but not in year 3](../claims/a4l-ell-subgroup-impact.md) [~W] — an instructional effect differs with it
+- [The average improvement index for Arthur in English language development is +11 percentile points, ranging from –5 to +17 across findings](../claims/arthur-improvement-index-plus-11.md) [~W] — instruction changes it
+- [The intervention showed substantively important but WWC-unconfirmed effects on English language development, with non-significant CTBS Language and Writing outcomes](../claims/ic-ll-english-language-development-unconfirmed.md) [~W] — instruction changes it
+- [The Pathway to Academic Success Project has potentially positive effects on literacy achievement for English learners in grades 6-12](../claims/pathway-project-potentially-positive-literacy-achievement.md) [+M] — an instructional effect differs with it
+- [The SWELL logic model posits long-term positive impacts on English learner English proficiency and on literacy achievement, including writing, for all students served](../claims/swell-long-term-student-literacy-outcomes.md) [+W] — instruction changes it
+- [The WWC improvement index is +31 percentile points for English language development and +3 percentile points for reading achievement](../claims/fast-forword-improvement-index-eld-reading.md) [+W] — instruction changes it
+- [Third-grade ELLs recruit familiar everyday language, including onomatopoeic labels, to talk productively about the sounds produced by strings](../claims/ells-recruit-everyday-language-sound-discussion.md) [+M] — learners who differ on it differ in outcomes
+- [Timing of English learner reclassification influences later outcomes such as high school graduation](../claims/reclassification-timing-influences-later-outcomes.md) [+W] — learners who differ on it differ in outcomes
+- [Treatment effects were not moderated by emergent bilingual status, pretest levels, or tutoring attendance](../claims/no-treatment-moderators-eb-pretest-attendance.md) [-M] — an instructional effect differs with it
+- [Undifferentiated GenAI integrity rules convert linguistic disadvantage into integrity risk for EAL students](../claims/undifferentiated-genai-rules-convert-language-disadvantage-into-integrity-risk.md) [+W] — an instructional effect differs with it
+- [VIP effects did not differ between English language learners and fluent English speakers in the study authors' analyses](../claims/vip-no-treatment-language-status-interaction.md) [-M] — an instructional effect differs with it
+
+## The evidence by question
+- *Do learners classified as English learners reach lower achievement and attainment than their peers, and does the gap hold for those who reach proficiency?* [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](../claims/el-lag-limited-academic-content-exposure.md) [+M]
+- *Does when a learner exits English-learner status (reclassification) change their later achievement and attainment?* [Timing of English learner reclassification influences later outcomes such as high school graduation](../claims/reclassification-timing-influences-later-outcomes.md) [+M]
+- *Does teaching through the learner's home language (dual language or mother-tongue instruction), rather than early transfer to the school language, improve school-language and subject learning?* [Teaching students in a language they understand benefits both language learning and broader learning](../claims/cl-teaching-in-language-students-understand-improves-learning.md) [+M]
+- *Do instructional supports and programmes help English learners more, less or as much as their fluent peers?* [Spoken–written advantages are larger for second-language and nonfluent first-language readers and for low prior knowledge learners](../claims/reader-fluency-prior-knowledge-moderate-redundancy.md) [+M]
+
+## Related Learner Variables
+- [Reading and Language](reading-and-language.md)
+- [Race and Ethnicity](race-and-ethnicity.md)
+- [Socioeconomic Status](socioeconomic-status.md)

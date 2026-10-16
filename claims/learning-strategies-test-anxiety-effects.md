@@ -44,6 +44,7 @@ Model M5 (Table 4) combining student characteristics, contextual factors, famili
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Familiarity with online and proctored exams, approximated by exam quartile, shows no effect on test anxiety](familiarity-no-effect-test-anxiety.md) — related

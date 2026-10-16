@@ -38,7 +38,7 @@ sources:
 # A deterministic follow-up resolver raised intended-topic follow-up rates to 90–100% across five courses with all 400 scope checks passing, without changing the generator
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 design `r2` · `q2`
+> **Evidence** · 1 study (3 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Topic checks rose from 23.3–40.0% in baseline resolver preflight to 90–100% live across five courses, with all 400 scope checks passing. [→ Sidney Shapiro and Joshua Lindemann 2026](#sidney-shapiro-and-joshua-lindemann-2026)

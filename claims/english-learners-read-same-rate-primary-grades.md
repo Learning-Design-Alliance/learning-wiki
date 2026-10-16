@@ -42,6 +42,9 @@ The guide reports, in Recommendation 1, criterion-related validity and growth st
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - Bilingual children acquire vocabulary and syntax in each language more slowly than monolingual children, yet show cognitive advantages and can match or surpass monolingual peers with support — related
 - [Fluent bilingualism is linked to metalinguistic awareness of how the two languages relate](bilingual-fluency-enhances-metalinguistic-awareness.md) — related

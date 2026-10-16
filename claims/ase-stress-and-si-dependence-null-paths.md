@@ -43,6 +43,9 @@ SEM path tests in the same 229-respondent survey found the two hypothesized dire
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Perceived usefulness negatively moderates the relationship between academic self-efficacy and academic stress](perceived-usefulness-moderates-efficacy-stress.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related

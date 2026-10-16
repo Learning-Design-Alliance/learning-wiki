@@ -42,6 +42,9 @@ Gender-stratified adjusted mixed models (Table 5) on the linked WEC–NAPLAN/PAT
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [The relationship between the WEC index and academic achievement is stable across student year levels and census years, with no meaningful interaction effects](wec-achievement-relationship-stable-year-census.md) — related
 - Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples — related

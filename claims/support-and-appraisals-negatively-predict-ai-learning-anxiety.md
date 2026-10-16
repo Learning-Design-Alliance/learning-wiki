@@ -46,6 +46,7 @@ SEM structural model in the same 547-student sample. The article reports that "A
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Perceived school support positively predicts AI learning self-efficacy and AI perceived usefulness among Chinese undergraduates](school-support-predicts-ai-self-efficacy-usefulness.md) — related

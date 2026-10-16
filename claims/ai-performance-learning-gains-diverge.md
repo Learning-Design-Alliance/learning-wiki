@@ -30,7 +30,7 @@ sources:
 # AI-assisted task performance can rise without corresponding gains in underlying knowledge, metacognitive processing, or independent reasoning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 theoretical `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In AI-assisted writing, learners can produce stronger essays while revising less independently and gaining no corresponding advantage in underlying knowledge, a pattern described as metacognitive laziness. [→ Lixiang Yan and Dragan Gašević 2026](#lixiang-yan-and-dragan-gasevic-2026)

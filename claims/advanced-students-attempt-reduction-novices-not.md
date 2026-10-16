@@ -41,8 +41,9 @@ NB-GLMM on attempts with hint type × student level interaction (Table 2). The a
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Learners receiving ChatGPT-generated hints showed statistically significant learning gains compared to a no-hint control in an online mathematics tutoring experiment](chatgpt-hints-significant-gains-versus-control.md) — the general claim this finding bears on, with the studies behind it
 - [All three LLM feedback types credibly reduced attempts to success relative to the baseline, with the largest reduction for Diagnostic Feedback](llm-feedback-fewer-attempts.md) — a broader claim this one bears on
 - [Feedback effects on time to solution did not differ significantly between novice and advanced students, though predicted trends suggest feedback was more beneficial for advanced students](no-significant-feedback-expertise-interaction.md) — related
 - [Attempt-reduction patterns differed across course parts: Diagnostic and General Feedback were associated with fewer attempts for New Content, Single-Issue for Old Content](attempt-reduction-varies-by-course-part.md) — related

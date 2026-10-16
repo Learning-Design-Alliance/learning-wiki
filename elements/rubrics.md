@@ -14,7 +14,7 @@ generated:
 # Rubrics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (3 for, 3 mixed, 2 against) · 14 studies (7 causal, 2 quant-synthesis, 2 review, 2 associational, 1 qualitative), `q2`–`q3` · 3 of 14 report an effect size · 4 claims rest on one study
+> **Evidence** · 9 claims (4 for, 3 mixed, 2 against) · 15 studies (7 causal, 3 review, 2 quant-synthesis, 2 associational, 1 qualitative), `q2`–`q3` · 3 of 15 report an effect size · 5 claims rest on one study
 
 ## Description
 Rubrics are the element in which criteria and performance levels are made explicit to guide quality work and evaluation.
@@ -39,6 +39,11 @@ Rubrics are the element in which criteria and performance levels are made explic
 - [Student gender showed no detectable effect on rubric-based teaching quality scores, though the analysis was underpowered](../claims/gender-no-detectable-effect-underpowered.md) [~W]
 - [Teacher and AES scores agreed most at the lowest and highest rubric points but diverged in the middle, with teachers more likely to score a 2 and the AES a 3](../claims/teacher-aes-agree-tails-diverge-middle.md) [~W]
 - [Rubrics with parallel sentence structure, unambiguous wording and well-specified dimensions have lower grading variance, and revising rubrics decreased median grading error from 12.4% to 9.9%](../claims/rubric-wording-lower-grading-variance.md) [+W] — attached 2026-10-15 from Kulkarni et al. (2015), which proposed "Data-driven approach highlighting high-variance grading items for rubric improvement".
+
+## The evidence by question
+- *Does giving learners the criteria, and having them apply them to their own or peers' work, improve the work?* [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](../claims/rubrics-improve-student-work.md) [+M]
+- *Do raters applying a rubric agree, and what in the rubric's design brings their scores closer?* [Rubrics with parallel sentence structure, unambiguous wording and well-specified dimensions have lower grading variance, and revising rubrics decreased median grading error from 12.4% to 9.9%](../claims/rubric-wording-lower-grading-variance.md) [+M]
+- *When an AI model scores work against a rubric, does the rubric's wording and detail decide how closely it agrees with human markers?* [Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades](../claims/prompt-rubric-quality-drives-llm-grading.md) [+M]
 
 ## Related Elements
 - [Rubric Design](rubric-design.md)

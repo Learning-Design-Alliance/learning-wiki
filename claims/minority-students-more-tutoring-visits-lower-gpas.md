@@ -45,6 +45,7 @@ Observational comparison of visit frequency by ethnicity and first-generation st
 
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 

@@ -46,7 +46,7 @@ The chapter reports, citing prior systematic reviews, that the assumption that m
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| Tripathi 2026 | q2 · review · r2 | i? | this claim |
+| [Tripathi 2026](https://doi.org/10.48550/arxiv.2605.21962) | q2 · review · r2 | i? | this claim |
 | [Chwen Jen Chen 2005](https://doi.org/10.1080/15391523.2005.10782453) | q3 · causal · r2 | i? | [VR (non-guided exploration) did not differ significantly from Non VR for either assimilato](non-guided-vr-no-better-than-non-vr.md) (supports) |
 | [Kakimoto Akihiro 2026](https://doi.org/10.2196/104397) | q2 · causal · r1 | i3 | [Conventional training received significantly higher ratings for perceived realism and imme](conventional-training-higher-realism-immersion.md) (qualifies) |
 | [Ross 2025](https://doi.org/10.31234/osf.io/e6smh_v1) | q1 · theoretical · r3 | i? | [Immersive media environments enable higher visual and behavioral realism of pedagogical ag](xr-higher-agent-realism-than-non-immersive.md) (qualifies) |

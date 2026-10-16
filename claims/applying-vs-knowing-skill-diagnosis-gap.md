@@ -30,7 +30,7 @@ sources:
 # LLMs diagnose Applying skills better than Knowing skills, but with higher evidence over-attribution and false-attribution
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2`–`r3` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Contrary to expectations, models performed better on Applying than Knowing skills in F1 (t= 4.34, p < .001) and accuracy (t= 4.85, p < .001). [→ Yoonsu Kim 2026](#yoonsu-kim-2026)
@@ -60,8 +60,9 @@ Same skill-specific analysis. The article reports higher over-attribution (t= 5.
 
 ## Discussion
 
-
 ## Related Claims
+
+- [GPT-4o's final-turn correctness labeling on CoMTA is only slightly less accurate than expert human annotators, which the authors read as close to human-level performance on a challenging task.](gpt-4o-final-turn-correctness-labeling-is-close-to-human-level.md) — the general claim this finding bears on, with the studies behind it
 - [LLMs frequently over-attribute evidential strength and assert Evident evidence even for incorrect diagnoses, and the two tendencies are strongly correlated](evidence-over-attribution-false-attribution.md) — related
 - [Multimodal input consistently improves accuracy but not F1, model size correlates moderately with performance, and reasoning models show mixed results](multimodality-size-reasoning-mixed-effects.md) — related
 - [Few-shot prompting does not improve diagnostic F1 or accuracy but reduces evidence over-attribution and false-attribution](few-shot-prompting-no-f1-gain-reduces-overattribution.md) — related

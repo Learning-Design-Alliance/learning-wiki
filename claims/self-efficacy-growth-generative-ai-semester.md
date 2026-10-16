@@ -41,8 +41,12 @@ Survey study using a bespoke three-item self-efficacy scale (αs = 0.75 − 0.86
 
 ## Discussion
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — the general claim this finding bears on, with the studies behind it
 - [Students rated the LLM-based assignments as useful, challenging, engaging, and enjoyable at both the first and fifth iterations, with no significant change across the semester](positive-affective-responses-llm-assignments.md) — related
 - [Midterm self-efficacy (comfort and confidence) did not differ between conditions after three assignments, though both varied significantly across algorithmic topics](genai-condition-no-self-efficacy-difference.md) — related
 - Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use — related

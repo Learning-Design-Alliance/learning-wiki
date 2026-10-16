@@ -41,11 +41,13 @@ The article reports the meta-analytic finding of Krou et al. (2021) second-hand:
 
 ## Discussion
 
-
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — the general claim this finding bears on, with the studies behind it
 - [Extrinsic goals are more strongly associated with cheating than intrinsic enjoyment of learning](extrinsic-goals-associated-with-cheating.md) — related
 - Learning goals and self-evaluation raise task orientation and lower ego orientation, and self-efficacy correlates positively with task orientation — related
 - [Cheating tendency significantly predicts AI-assisted academic dishonesty, and the association is stronger at higher levels of AI use](cheating-tendency-predicts-ai-dishonesty-moderated-by-ai-use.md) — related

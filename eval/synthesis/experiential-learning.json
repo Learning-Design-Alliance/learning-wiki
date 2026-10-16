@@ -45,6 +45,30 @@
           "+"
         ],
         [
+          "writing-to-learn-improves-understanding",
+          "+"
+        ],
+        [
+          "reflective-practice-deeper-understanding-effectiveness",
+          "+"
+        ],
+        [
+          "journaling-system-improves-srl-all-groups",
+          "+"
+        ],
+        [
+          "web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math",
+          "~"
+        ],
+        [
+          "learning-diary-alone-no-significant-srl-gains-online-math-prep-course",
+          "-"
+        ],
+        [
+          "reflective-methods-overanalysis-limits",
+          "~"
+        ],
+        [
           "formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks",
           "~"
         ],
@@ -57,19 +81,23 @@
           "+"
         ],
         [
-          "writing-to-learn-improves-understanding",
+          "reflective-uptake-fewer-misunderstandings",
           "+"
         ],
         [
-          "learning-diary-alone-no-significant-srl-gains-online-math-prep-course",
+          "learning-diary-alone-no-self-regulation-gain",
           "-"
         ],
         [
-          "web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math",
+          "diary-only-motivation-decrease",
+          "-"
+        ],
+        [
+          "diary-plus-srl-instruction-raises-strategy-use-self-efficacy",
           "~"
         ],
         [
-          "journaling-system-improves-srl-all-groups",
+          "combined-srl-training-with-app-diaries-improved-more",
           "~"
         ]
       ]

@@ -56,6 +56,7 @@ In the second regression model, which controlled for confidence, concerns neithe
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).](teacher-perceived-cost-reduces-motivation-to-use-ai.md) — the general claim this finding bears on, with the studies behind it
 - [Teacher confidence fully mediates the relationship between institutional support and attitudes toward AI adoption](confidence-fully-mediate-support-attitude-relationship.md) — related

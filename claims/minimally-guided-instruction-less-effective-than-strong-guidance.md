@@ -41,8 +41,9 @@ The article's abstract synthesizes a half-century of empirical studies, stating 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Unguided or minimally guided instructional approaches are popular and intuitively appealing but ignore human cognitive architecture and the empirical evidence](minimally-guided-approaches-ignore-cognitive-architecture.md) — possibly the same claim (merge candidate)
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — possibly the same claim (merge candidate)
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related

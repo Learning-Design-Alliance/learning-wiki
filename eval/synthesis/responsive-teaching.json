@@ -61,6 +61,30 @@
         [
           "stem-more-amenable-difficulty-scaling",
           "~"
+        ],
+        [
+          "clicker-participation-and-homework-completion-predict-exam-performance",
+          "+"
+        ],
+        [
+          "any-clicker-pattern-beats-absence-except-lowest-quartile",
+          "~"
+        ],
+        [
+          "clicker-presence-predicts-homework-explanation-quality",
+          "+"
+        ],
+        [
+          "learning-attributed-to-process-not-technology",
+          "~"
+        ],
+        [
+          "polling-image-identification-82-percent",
+          "~"
+        ],
+        [
+          "probing-feedback-revise-resubmit-evidence",
+          "~"
         ]
       ]
     }

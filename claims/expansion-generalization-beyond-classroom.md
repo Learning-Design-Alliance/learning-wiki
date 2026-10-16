@@ -42,8 +42,9 @@ Participant-observer case analysis of two students. Lucas wrote in an observatio
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — the general claim this finding bears on, with the studies behind it
 - CHAT is an interventionist research method aimed at transformation, but tensions persist between adaptive and transformative orientations — related
 - Contradictions surrounding the OLR drove students to appropriate it, transforming it from an object of confusion into an instrument of critical reflection — related
 - Participation in composing the Midterm OLR moved students from appropriating labels and surface features toward conceptual underpinnings — related

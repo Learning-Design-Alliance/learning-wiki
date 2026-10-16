@@ -30,7 +30,7 @@ sources:
 # Specializing models for K-12 education does not require a broad loss of general capability, with MMMU-Pro accuracy increasing at all three scales
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` MMMU-Pro overall accuracy increases from 50.46% to 52.60% for 4B, from 58.38% to 60.75% for 9B, and from 64.97% to 67.98% for 27B after education-oriented tuning. [→ Hao Liang 2026](#hao-liang-2026)

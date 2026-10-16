@@ -41,6 +41,7 @@ The report's framing asserts that early math performance differences "grow over 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [School test score averages are strongly related to the income of the families a school serves](school-test-scores-strongly-related-to-family-income.md) — the general claim this finding bears on, with the studies behind it
 - [Effective teachers compound their advantage over consecutive years, and low-achieving students are disproportionately assigned to ineffective ones](teacher-effectiveness-compounds-over-consecutive-years.md) — related

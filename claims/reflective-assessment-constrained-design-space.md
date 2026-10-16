@@ -30,7 +30,7 @@ sources:
 # In simulations, responsible AI-use norms emerge only within a constrained design space: when reflection effort is high relative to its reward, opportunistic AI use persists, and near the boundary small changes in reward or effort produce large shifts in responsible-use frequency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 theoretical `r2`–`r3` · `q2`
+> **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` When reflection effort is high relative to the reward assigned to it, responsible AI use remains rare even when reflective incentives are present, and opportunistic AI use is the evolutionarily stable outcome. [→ Ndidi Bianca Ogbo 2026](#ndidi-bianca-ogbo-2026)

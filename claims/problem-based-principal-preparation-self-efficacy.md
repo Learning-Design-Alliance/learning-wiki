@@ -62,6 +62,8 @@ The report describes San Diego State University's redesigned 18-month comprehens
 
 ## Related Claims
 
+- [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — the general claim this finding bears on, with the studies behind it
+
 - [Problem-based learning shows null or negative effects on basic knowledge acquisition but positive effects on conceptual understanding and transfer relative to direct instruction](pbl-null-basic-knowledge-positive-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — related
 - [Positive academic mindsets increase perseverance and academic behaviors, yielding higher grades; negative mindsets produce a self-defeating cycle](mindsets-increase-perseverance-behaviors-grades.md) — related

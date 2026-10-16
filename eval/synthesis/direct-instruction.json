@@ -11,12 +11,8 @@
           "+"
         ],
         [
-          "age-moderates-discovery-effects",
-          "~"
-        ],
-        [
-          "guidance-advantage-recedes-with-high-prior-knowledge",
-          "~"
+          "guided-discovery-outperformed-both-extremes",
+          "+"
         ],
         [
           "minimal-guidance-inquiry-inferior-explicit-instruction",
@@ -27,8 +23,44 @@
           "+"
         ],
         [
-          "guided-discovery-outperformed-both-extremes",
+          "minimally-guided-instruction-less-effective-than-strong-guidance",
           "+"
+        ],
+        [
+          "minimally-guided-approaches-ignore-cognitive-architecture",
+          "+"
+        ],
+        [
+          "contingent-scaffolding-improves-learning",
+          "+"
+        ],
+        [
+          "taiwan-constructivist-math-reform-stopped-2003",
+          "+"
+        ],
+        [
+          "age-moderates-discovery-effects",
+          "~"
+        ],
+        [
+          "domain-moderates-unassisted-discovery-deficit",
+          "~"
+        ],
+        [
+          "dependent-measure-moderates-discovery-effects",
+          "~"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "~"
+        ],
+        [
+          "expertise-reversal-effect",
+          "~"
+        ],
+        [
+          "balance-active-learning-independent-practice-gateway-math",
+          "~"
         ],
         [
           "project-based-context-highest-scaffolding-effect",
@@ -47,36 +79,12 @@
           "~"
         ],
         [
-          "balance-active-learning-independent-practice-gateway-math",
-          "~"
-        ],
-        [
-          "minimally-guided-instruction-less-effective-than-strong-guidance",
-          "+"
-        ],
-        [
-          "minimally-guided-approaches-ignore-cognitive-architecture",
-          "+"
-        ],
-        [
           "worked-examples-reduce-novice-search",
-          "+"
-        ],
-        [
-          "contingent-scaffolding-improves-learning",
           "+"
         ],
         [
           "recent-design-models-support-guidance-during-instruction",
           "+"
-        ],
-        [
-          "domain-moderates-unassisted-discovery-deficit",
-          "~"
-        ],
-        [
-          "dependent-measure-moderates-discovery-effects",
-          "~"
         ],
         [
           "explicit-instruction-context-dependent-synthesis",
@@ -95,10 +103,6 @@
           "~"
         ],
         [
-          "expertise-reversal-effect",
-          "~"
-        ],
-        [
           "koku-qualitative-acceptability-themes",
           "+"
         ],
@@ -109,6 +113,34 @@
         [
           "community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object",
           "+"
+        ],
+        [
+          "worked-examples-with-practice-improve-transfer",
+          "+"
+        ],
+        [
+          "worked-examples-less-effective-with-expertise",
+          "~"
+        ],
+        [
+          "oet-outperforms-stt-ai-literacy-performance",
+          "~"
+        ],
+        [
+          "psi-effect-increases-with-grade-level",
+          "~"
+        ],
+        [
+          "simulation-guidance-moderate-effect-dangelo",
+          "+"
+        ],
+        [
+          "worked-example-problem-sequences",
+          "+"
+        ],
+        [
+          "agent-enacted-conflict-shifts-design-thinking",
+          "-"
         ]
       ]
     },
@@ -197,6 +229,18 @@
         [
           "identical-example-problem-order-advantage-not-detected-at-final-test",
           "~"
+        ],
+        [
+          "pf-outperformed-lp-fcps-post-test-problems",
+          "+"
+        ],
+        [
+          "fcps-lp-difference-not-significant",
+          "~"
+        ],
+        [
+          "pf-greater-representation-flexibility-graphical",
+          "+"
         ]
       ]
     },
@@ -275,6 +319,90 @@
         [
           "cognitive-load-management",
           "-"
+        ],
+        [
+          "expertise-reversal-effect-definition",
+          "+"
+        ],
+        [
+          "expertise-reversal-fits-ati-patterns",
+          "+"
+        ],
+        [
+          "expertise-reversal-shakespearean-explanatory-notes",
+          "+"
+        ],
+        [
+          "expertise-reversal-iconic-scaffolds-development",
+          "+"
+        ],
+        [
+          "segmentation-benefits-shrink-with-expertise",
+          "+"
+        ],
+        [
+          "prior-knowledge-moderates-segmenting-retention",
+          "-"
+        ],
+        [
+          "elaborative-interrogation-prior-knowledge-moderator",
+          "~"
+        ],
+        [
+          "lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples",
+          "+"
+        ],
+        [
+          "prior-knowledge-by-worked-example-type-interaction-on-germane-load",
+          "+"
+        ],
+        [
+          "no-prior-knowledge-by-task-difficulty-interaction-in-algebra-worked-examples",
+          "~"
+        ],
+        [
+          "minimal-guidance-less-effective-for-novices",
+          "+"
+        ],
+        [
+          "adaptive-fading-worked-examples-benefits",
+          "+"
+        ],
+        [
+          "bkt-benefits-low-prior-knowledge-students",
+          "+"
+        ],
+        [
+          "drl-benefits-high-prior-knowledge-students",
+          "~"
+        ],
+        [
+          "gpt-output-effect-depends-on-prior-knowledge-and-domain",
+          "+"
+        ],
+        [
+          "prior-knowledge-moderates-vf-process-vs-pf",
+          "~"
+        ],
+        [
+          "expertise-reversal-worked-examples-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-writing-journal-prompts-fading",
+          "+"
+        ],
+        [
+          "expertise-reversal-changes-from-expertise-levels",
+          "+"
+        ],
+        [
+          "load-reduction-can-impair-learning",
+          "~"
+        ],
+        [
+          "audience-prior-knowledge-determines-information-density",
+          "+"
         ]
       ]
     },
@@ -353,6 +481,62 @@
         [
           "efl-students-positive-views-explicit-strategy-instruction",
           "~"
+        ],
+        [
+          "comprehensible-input-insufficient-grammar-acquisition",
+          "+"
+        ],
+        [
+          "unpressured-within-task-planning-form-focused-accuracy",
+          "+"
+        ],
+        [
+          "noticing-errors-decreases-errors-preserves-quality",
+          "+"
+        ],
+        [
+          "proactive-fof-advantage-both-proficiency-levels",
+          "+"
+        ],
+        [
+          "explicit-instruction-facilitates-l2-grammar-acquisition",
+          "+"
+        ],
+        [
+          "ffi-noun-endings-improves-gender-attribution",
+          "+"
+        ],
+        [
+          "ffi-contributes-to-implicit-l2-knowledge",
+          "+"
+        ],
+        [
+          "ffi-success-moderators-structure-and-extent",
+          "~"
+        ],
+        [
+          "form-and-meaning-focus-beats-form-only",
+          "~"
+        ],
+        [
+          "form-focused-input-manipulation-illusory-for-competence",
+          "-"
+        ],
+        [
+          "white-adverb-placement-negative-evidence-failed",
+          "-"
+        ],
+        [
+          "correction-no-learned-generalizations-novel-stimuli",
+          "-"
+        ],
+        [
+          "untaught-syntax-acquired-taught-agreement-not",
+          "-"
+        ],
+        [
+          "grammar-as-skill-is-a-conflation",
+          "-"
         ]
       ]
     }

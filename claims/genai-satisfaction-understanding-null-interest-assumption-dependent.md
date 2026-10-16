@@ -44,6 +44,7 @@ Course-evaluation DiD on median Likert scores for understanding, interest, and r
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Positive average grade effects appear only under COVID-laden treatment anchors, indicating such readings reflect the COVID shock rather than ChatGPT](covid-laden-anchors-produce-spurious-positive-grade-effect.md) — related

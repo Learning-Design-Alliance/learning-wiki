@@ -57,10 +57,11 @@ Interview data on software tools; M2 said MuseScore "tells me in very little det
 
 ## Discussion
 
-
 ## Learner Variables
 - [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Auditory math access works best when the technology is familiar: Math Speak aided expression identification, and BVI students performed similarly to or slightly better than traditional methods with familiar apps](auditory-access-familiar-technology-bvi-math.md) — the general claim this finding bears on, with the studies behind it
 - [Combining voiced auditory descriptions with tactile graphics increased braille readers' likelihood of answering assessment items correctly](auditory-descriptions-plus-tactile-graphics-improve-bvi-assessment.md) — related
 - [Deliberate practice can expand short-term memory capacity beyond the conventional seven-item limit](deliberate-practice-expands-memory-capacity.md) — related

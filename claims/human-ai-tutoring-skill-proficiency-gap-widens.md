@@ -30,7 +30,7 @@ sources:
 # Human-AI tutoring is associated with a 36% rise in IXL skill proficiency, but the gap widened in favor of reactively tutored students (difference-in-differences preprint)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 <!-- title before 2026-10-15: Human-AI tutoring increases IXL skill proficiency by 36%, but the proficiency gap widens in favor of reactively tutored students -->
 
 ## Subclaims

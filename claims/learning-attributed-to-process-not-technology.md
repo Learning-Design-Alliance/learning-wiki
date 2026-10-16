@@ -42,8 +42,9 @@ Of the 63 students in Instructor A's classes, 55 (87.3%) responded favorably tha
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - Pre-service elementary teachers overwhelmingly liked a modified peer instruction clicker implementation in their mathematics content course — related
 - [Most pre-service elementary teachers believed clicker use assisted their learning and understanding of course material](clickers-perceived-learning-benefit.md) — related
 - [Students perceived clickers' greatest course impact as lesson variation and fun, with learning influence a distant second](clickers-fun-variation-over-learning.md) — related

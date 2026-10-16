@@ -39,8 +39,9 @@ Pooled modification analysis across all three exercises and four yearly cohorts 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Diagnostic Review revisions contained larger shares of meaning-change, organization, and content/argument work, while Control revisions remained more dependent on surface-level editing](revision-architecture-meaning-change-versus-surface.md) — the general claim this finding bears on, with the studies behind it
 - [Comment revision effort concentrates on Multi-Step-Block and other procedural constructs, with the widest flows ending in Heavy Modification](revision-hotspots-multi-step-block-heavy-modification.md) — a narrower finding that bears on this claim
 - [Low comment rewriting does not imply a smooth process: students describe the main effort as verifying generated code rather than revising prompts](verification-burden-shifts-work-from-rewriting-to-reviewing.md) — related
 - [Student comments directing AI code generation are dominated by What comments, with How comments second and Why comments rare](what-comments-dominate-student-ai-specifications.md) — related

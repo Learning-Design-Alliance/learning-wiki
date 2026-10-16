@@ -41,8 +41,12 @@ The brief reports that students meeting Criterion 1 "appear to achieve at the sa
 
 ## Discussion
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Timing of English learner reclassification influences later outcomes such as high school graduation](reclassification-timing-influences-later-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Many English-only students would fail locally determined cutoff scores often applied to English Learner students under California's Criterion 4 basic-skills requirement](criterion4-barrier-reclassification.md) — related
 - [ELPAC overall PL 4 students who exit EL status show minimal or no achievement differences one year later compared with those who remain, after controlling for SES](no-achievement-benefit-remaining-el-status-pl4.md) — a narrower finding that bears on this claim
 - [ELPAC overall PL 4 remains the appropriate Criterion 1 reclassification threshold, with 2017-18 and 2022-23 data converging on the same level](elpac-pl4-threshold-validated-replication.md) — related

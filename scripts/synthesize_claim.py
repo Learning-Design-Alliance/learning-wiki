@@ -89,21 +89,44 @@ def entries(slug: str) -> list:
 
 
 def study_key(e: dict) -> str:
+    """A study is its DOI; else the citation's URL; else its first author and year, read from the
+    citation and then the heading. A heading that is not "Author Year" (kuh-foreword, a slug) used to
+    be the key, so one report cited under several anchors counted as several studies (2026-10-16)."""
     if e["doi"]:
         return "doi:" + e["doi"]
+    url = re.search(r"https?://[^\s)\]>]+", e.get("citation") or "")
+    if url and not re.search(r"scholar\.google|\.(?:org|com|edu|gov)/?$", url.group(0)):
+        return "url:" + url.group(0).rstrip(".,;/").lower()
+    c = re.match(r"\s*([A-Z][^\s,.(]+)[^()]*?\((\d{4})", e.get("citation") or "")
+    if c:
+        return f"{c.group(1).lower()}-{c.group(2)}"
     m = re.match(r"([^\d(]+?)\s*(?:et al\.?|and [^\d]+|& [^\d]+)?\s*\(?(\d{4})", e["heading"])
     if m:
         return f"{m.group(1).strip().lower().split()[-1]}-{m.group(2)}"
     return e["heading"].lower()
 
 
+def author_year(e: dict):
+    c = re.match(r"\s*([A-Z][^\s,.(]+)[^()]*?\((\d{4})", e.get("citation") or "")
+    if c:
+        return f"{c.group(1).lower()}-{c.group(2)}"
+    m = re.match(r"([^\d(]+?)\s*(?:et al\.?|and [^\d]+|& [^\d]+)?\s*\(?(\d{4})", e["heading"])
+    return f"{m.group(1).strip().lower().split()[-1]}-{m.group(2)}" if m else None
+
+
 def build(finding: dict) -> tuple:
     hub = resolve(finding["hub"])
     members = [(resolve(p), d) for p, d in finding["members"]]
     studies = collections.OrderedDict()
+    by_author_year = {}
     for slug, bearing in [(hub, "hub")] + members:
         for e in entries(slug):
             k = study_key(e)
+            # The same study cited with a DOI on one claim and without on another is one study:
+            # match on first author and year as well (Sun 2015, Double 2020; 2026-10-16).
+            ay = author_year(e)
+            if ay:
+                k = by_author_year.setdefault(ay, k)
             s = studies.setdefault(k, {"entry": e, "q": set(), "i": [], "claims": []})
             s["q"].add(e["q"])
             if e["i"] not in s["i"]:

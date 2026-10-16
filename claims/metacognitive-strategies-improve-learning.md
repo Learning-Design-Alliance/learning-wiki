@@ -59,6 +59,24 @@ Dent, A. L., & Koenka, A. C. (2016). The relation between self-regulated learnin
 
 Two meta-analyses of elementary and secondary school students related achievement to (1) metacognitive processes of self-regulated learning and (2) use of cognitive strategies. Both overall correlations were small: r = 0.20 for metacognitive processes and r = 0.11 for cognitive strategies. The correlations differed significantly by the specific process or strategy, academic subject, grade level, type of SRL measure and type of achievement measure. This is the correlational arm of the claim. It supports a real but modest association, not a causal effect. The number of studies was not in the abstract. Read as abstract only.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does teaching learners to plan, monitor and evaluate their own learning improve their achievement?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **9 distinct studies** (4 quant-synthesis, 2 causal, 2 associational, 1 review), `q2`–`q4`, 6 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Dignath & Büttner 2008](https://doi.org/10.1007/s11409-008-9029-x) | q4 · quant-synthesis · r? | i2 · medium-to-large effect, average ES = 0.69 | this claim |
+| [Dent & Koenka 2016](https://doi.org/10.1007/s10648-015-9320-8) | q3 · quant-synthesis · r? | i1 · small correlation, r = 0.20 (metacognitive processes), r = 0.11 (cognitive strategies) | this claim |
+| [de Boer et al. 2018](https://doi.org/10.1016/j.edurev.2018.03.002) | q4 · quant-synthesis · r? | i2 · medium effect, Hedges' g=0.50 (posttest), g=0.63 (follow-up) | [Metacognitive strategy instruction, which includes comprehension monitoring, improves acad](self-monitoring-comprehension-improves-learning.md) (supports) |
+| [Adimora et al. 2017](https://doi.org/10.18844/prosoc.v3i3.1582) | q2 · causal · r1 | i? | [Metacognitive strategy instruction, which includes comprehension monitoring, improves acad](self-monitoring-comprehension-improves-learning.md) (supports) |
+| [Ergen 2017](https://doi.org/10.14689/ejer.2017.69.4) | q3 · quant-synthesis · r2 | i3 | [Self-regulated learning strategies have a large pooled effect (d = 0.859) on academic achi](srl-strategies-large-effect-academic-achievement.md) (supports) |
+| Abdul Gafoor. K. 2016 | q2 · review · r1 | i? | [Short-term self-regulatory strategy training, including within regular mathematics lessons](short-srl-strategy-training-enhances-math-performance.md) (supports) |
+| [Thao M. T. Nguyen and Lap Q. Trinh 2011](https://doi.org/10.26634/jelt.1.1.1348) | q2 · associational · r2 | i3 | [Metacognitive strategy use correlates positively with EFL reading comprehension achievemen](metacognitive-strategy-use-reading-achievement-correlation.md) (supports) |
+| [Tanya Chichekian 2026](https://doi.org/10.18608/jla.2026.9077) | q2 · associational · r1 | i3; i2 | [Metacognitive strategies correlate strongly with problem-solving skills, and behavioural m](metacognition-problem-solving-correlation.md) (supports) |
+| [Maksum 2022](https://doi.org/10.36681/tused.2022.161) | q2 · causal · r1 | i? | [The TEFA-T model significantly improves students' metacognitive skills compared with conve](tefa-t-improves-metacognitive-skills.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Scope of the claim.** "Metacognitive strategies" here covers the three canonical phases: planning (goal-setting, strategy selection before a task), monitoring (checking comprehension and progress during a task), and evaluation (judging performance and adjusting afterward). The claim is best read as a family of claims rather than a single effect — the strength of evidence differs considerably across phases and across how instruction is delivered.

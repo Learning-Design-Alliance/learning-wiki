@@ -30,7 +30,7 @@ sources:
 # The multi-stage filtering pipeline reduces Beyond-K-5 retention to near zero while preserving a minority of K-5 content
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r2`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On the held-out CommonCoreText ground-truth set, the pipeline reduces Beyond-K-5 retention to 0% while preserving about 35% of K-5 documents. [→ Fanfei Li 2026](#fanfei-li-2026)

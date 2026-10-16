@@ -38,7 +38,7 @@ sources:
 # Mid-range degradation is conditioned on task-specific adaptation: it is most severe for few-shot LLMs with few examples, decreases with more task-specific data, and is mildest for the fine-tuned encoder
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 causal `r1`–`r2` · `q2`
+> **Evidence** · 1 study (3 entries) · causal `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Fine-tuned BERT models also degraded in the mid-range but less severely, with maximum average distance of 1.5 categories from the gold scores. [→ Abigail Victoria Gurin Schleifer 2026](#abigail-victoria-gurin-schleifer-2026)

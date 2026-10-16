@@ -57,6 +57,9 @@ Figure 3 caption describing the within-country curves for the 33 countries in al
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Sex differences in mathematics and reading are strongly and inversely correlated across nations in all four PISA assessments](across-nation-inverse-correlation-math-reading-sex-differences.md) — related
 - [The mathematics sex difference is practically non-existent among low performers and largest among high performers, where boys outnumber girls up to 2.7:1 above the 99th percentile](math-sex-difference-concentrated-at-high-end.md) — related

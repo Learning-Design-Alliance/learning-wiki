@@ -30,7 +30,7 @@ sources:
 # In a blinded study with 50 learners, TACTutor receives the highest overall mean rating (5.54/7) and is rated above its backbone across all four teaching-behavior dimensions (+0.39 overall)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a blinded, within-participant Prolific study (n=50, 200 conversations), TACTutor achieved the highest mean score (5.54), within 0.09 points of both proprietary tutors, and was rated above its backbone across all four dimensions (+0.39 overall). [→ Dongjie Yang 2026](#dongjie-yang-2026)

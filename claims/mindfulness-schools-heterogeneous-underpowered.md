@@ -41,7 +41,8 @@ The review's quality assessment of the 24 included studies, which varied in samp
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The evidence base for school mindfulness interventions is promising but too variable for definitive practice recommendations](mbi-evidence-base-variability-limitation.md) — the general claim this finding bears on, with the studies behind it
 - [Effects of dropout programs on dropout odds are heterogeneous across studies](dropout-program-effects-heterogeneous.md) — related
 - [No significant heterogeneity in pilot effects by school racial/ethnic composition was found](eitp-heterogeneity-race-null.md) — related

@@ -30,7 +30,7 @@ sources:
 # LLM feedback agents show model-specific over-rejection of valid-alternative reasoning and over-validation of incorrect solutions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r2`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Gemini and DeepSeek over-validated 69-71% of incorrect solutions while over-rejecting only 13-17% of valid-alternative ones. [→ Tahreem Yasir 2026](#tahreem-yasir-2026)

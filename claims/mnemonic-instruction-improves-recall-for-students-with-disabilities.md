@@ -87,6 +87,8 @@ This systematic review looked at 20 studies of mnemonic interventions with 669 s
 
 ## Related Claims
 
+- [Outcomes of students with disabilities improve when they receive specially designed instruction responsive to assessment data](specially-designed-instruction-responsive-to-assessment-data-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
+
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — mnemonics work partly by chunking arbitrary associations into retrievable units
 - [Cognitive load management](cognitive-load-management.md) — students with disabilities are especially vulnerable to overload that mnemonics offset
 - [Advance organizers improve learning](advance-organizers-improve-learning.md) — like mnemonics, organizers provide a retrieval scaffold that reduces memory demands for unfamiliar content

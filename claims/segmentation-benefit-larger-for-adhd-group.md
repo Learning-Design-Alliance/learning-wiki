@@ -30,7 +30,7 @@ sources:
 # Segmentation reduces errors and hesitations for participants with and without ADHD, with larger point estimates for the ADHD group but no significant segmentation-by-ADHD interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q3` · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3` · `i3` large
 
 <!-- title before 2026-10-14: Segmentation yields a larger performance benefit for participants with ADHD than for those without, though the interaction term was not statistically significant -->
 
@@ -66,6 +66,8 @@ Simple-effects table (Table 8) of segmentation benefit by group on hesitations: 
 - [Attention](../learner-variables/attention.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — the general claim this finding bears on, with the studies behind it
 
 - [Learners with high prior knowledge benefit more from segmenting in retention performance than learners with no or low prior knowledge](prior-knowledge-moderates-segmenting-retention.md) — the general claim this finding bears on, with the studies behind it
 

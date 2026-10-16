@@ -41,8 +41,9 @@ Descriptive analysis of screening benchmark data by grade in 2022/23. By EOY a s
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Most students identified as significantly below benchmark on early literacy screeners remain significantly below benchmark 1 and 2 years later](significantly-below-benchmark-persists-across-years.md) — the general claim this finding bears on, with the studies behind it
 - [Across grades K–3, the percentage of students below literacy benchmarks decreases more from BOY to EOY in earlier grades than in grade 3](k3-at-risk-decreases-larger-earlier-grades.md) — possibly the same claim (merge candidate)
 - [The percentage of Massachusetts K–3 students identified as significantly below benchmark decreased from 36 percent at BOY to 29 percent at EOY in 2022/23](ma-literacy-risk-declines-boy-to-eoy.md) — related
 - [The percentage of students who stay at risk across time periods increases across grade levels K–3](staying-at-risk-increases-with-grade-level.md) — related

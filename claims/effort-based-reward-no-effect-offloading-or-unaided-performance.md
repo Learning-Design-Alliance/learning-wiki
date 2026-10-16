@@ -30,7 +30,7 @@ sources:
 # An effort-based reward did not significantly reduce answer offloading or improve unaided performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r3` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
 
 ## Subclaims
 `q3 i?` The reward's association with lower odds of answer offloading was not significant (OR = 0.66, p = .139). [→ Sebastian Maier 2026](#sebastian-maier-2026)

@@ -41,8 +41,11 @@ Analysis of pilot rubric scores from three expert world history teachers who sco
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Rubrics with parallel sentence structure, unambiguous wording and well-specified dimensions have lower grading variance, and revising rubrics decreased median grading error from 12.4% to 9.9%](rubric-wording-lower-grading-variance.md) — the general claim this finding bears on, with the studies behind it
+
+- [Raters differed significantly in severity/leniency in the MFRM analysis](raters-differed-severity-mfrm.md) — the general claim this finding bears on, with the studies behind it
 - [In one community-college lab class, six scorers rating six teams with an engineering rubric differed by a mean of 1.2 of 9 points, which the authors read as a sign the rubric may not be reliable](engineering-rubric-low-scoring-reliability.md) — related
 - The Reflective Judgment Model coding rubric achieves high inter-rater reliability (alpha .93) when applied to teacher educators' interview narratives — related
 - [The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions](framework-scoring-high-consistency-physics.md) — related

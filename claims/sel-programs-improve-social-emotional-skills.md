@@ -62,12 +62,14 @@ A systematic review of experimental and quasi-experimental studies of universal 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do sustained, structured programmes produce social-emotional gains, and do they last?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **12 distinct studies** (5 quant-synthesis, 5 review, 2 causal), `q2`–`q4`, 6 of 12 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do sustained, structured programmes produce social-emotional gains, and do they last?* This table gathers the studies behind this claim and the 12 narrower claims that bear on it: **14 distinct studies** (5 quant-synthesis, 5 review, 3 causal, 1 design), `q2`–`q4`, 7 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Durlak et al. 2011](https://doi.org/10.1111/j.1467-8624.2010.01564.x) | q4 · quant-synthesis · r3 | i2 · medium effect, ES=0.57 on SEL skills | this claim |
 | [Blewitt et al. 2018](https://doi.org/10.1001/jamanetworkopen.2018.5727) | q4 · quant-synthesis · r? | i2 · social competence d=0.30, emotional competence d=0.54 | this claim |
+| [Catherine P. Bradshaw 2012](https://doi.org/10.1542/peds.2012-0243) | q3 · causal · r3 | i0 | [SWPBIS produces a very small improvement in teacher-rated emotion regulation among element](swpbis-improves-emotion-regulation.md) (qualifies) |
+| Tingey 2023 | q2 · design · r2 | i? | [Co-regulation strategies were reported to create a safe, positive classroom climate and to](co-regulation-supports-climate-and-youth-emotion-regulation.md) (supports) |
 | [Taylor et al. 2017](https://doi.org/10.1111/cdev.12864) | q4 · quant-synthesis · r? | i? | [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) (supports) |
 | [Bierman et al. 2026](https://doi.org/10.1037/amp0001765) | q3 · causal · r2 | i1 · small-to-moderate effect, d=.21 to .33 | [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) (supports) |
 | [Greenberg 2023](https://doi.org/10.54300/928.269) | q2 / q3 · review · r2 | i1; i2; i? | [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) (supports); [School-based SEL programs promote the development of social and emotional competencies acr](sel-programs-promote-social-emotional-competencies.md) (supports); [Program and delivery characteristics moderate SEL effects: implementation quality, duratio](sel-effects-moderators-implementation-delivery.md) (qualifies) |

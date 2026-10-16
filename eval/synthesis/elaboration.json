@@ -1,0 +1,128 @@
+{
+  "principle": "elements/elaboration",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "elaborative-interrogation-improves-learning",
+      "question": "Does answering 'why is this true?' about each statement improve memory and understanding of it over reading it, and when does it not?",
+      "members": [
+        [
+          "elaborative-interrogation-improves-science-fact-learning",
+          "+"
+        ],
+        [
+          "durable-elaborative-interrogation-gains-six-months",
+          "+"
+        ],
+        [
+          "elaborative-interrogation-biology-course-context",
+          "+"
+        ],
+        [
+          "elaborative-interrogation-reduces-confidence-in-errors",
+          "+"
+        ],
+        [
+          "elaborative-interrogation-prior-knowledge-moderator",
+          "~"
+        ],
+        [
+          "response-quality-little-effect-on-elaborative-interrogation-retention",
+          "~"
+        ],
+        [
+          "elaborative-interrogation-answer-quality-poor-correlates-with-posttest",
+          "~"
+        ],
+        [
+          "elaborative-interrogation-increases-difficulty-and-time-on-lesson",
+          "~"
+        ],
+        [
+          "elaborative-interrogation-lower-posttest-than-read-twice-posterior-probability",
+          "-"
+        ],
+        [
+          "elaborative-interrogation-improves-misbelief-items-pretest-posttest",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "generative-processing-improves-learning",
+      "question": "Does having learners generate their own elaborations improve learning, compared with no elaboration or with elaborations supplied to them?",
+      "members": [
+        [
+          "self-generated-elaboration-improves-procedural-knowledge-accounting",
+          "+"
+        ],
+        [
+          "self-generated-elaboration-improves-intellectual-skills",
+          "+"
+        ],
+        [
+          "elaboration-strategy-affects-posttest-performance",
+          "+"
+        ],
+        [
+          "elaboration-strategy-no-attitude-effect",
+          "~"
+        ],
+        [
+          "gpa-pretest-elaboration-interaction-intellectual-skills",
+          "~"
+        ],
+        [
+          "elaborative-processing-enhances-retrieval",
+          "+"
+        ],
+        [
+          "adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects",
+          "~"
+        ],
+        [
+          "trained-elaboration-beats-question-stimulated-elaboration",
+          "+"
+        ],
+        [
+          "drawing-improves-learning",
+          "+"
+        ],
+        [
+          "elaborative-interrogation-improves-learning",
+          "+"
+        ],
+        [
+          "constructive-learning-beats-active-passive",
+          "+"
+        ],
+        [
+          "constructive-beats-passive-young-children",
+          "+"
+        ],
+        [
+          "generative-learning-reorganizing-integrating-prior-knowledge",
+          "+"
+        ],
+        [
+          "concept-mapping-improves-learning",
+          "~"
+        ],
+        [
+          "generative-strategies-boundary-conditions",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "quizzing-beats-restudying-and-elaborative-controls",
+      "question": "Is time spent elaborating on material better spent than the same time retrieving it?",
+      "members": [
+        [
+          "retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

@@ -41,11 +41,13 @@ Regression analysis by multilingual learner status across three DRDP domains; Ta
 
 ## Discussion
 
-
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — moderator: an instructional effect differs with it
+- [English-Learner Status](../learner-variables/english-learner-status.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Spoken–written advantages are larger for second-language and nonfluent first-language readers and for low prior knowledge learners](reader-fluency-prior-knowledge-moderate-redundancy.md) — the general claim this finding bears on, with the studies behind it
 - [Children with disabilities showed larger gains in higher-tier programs than children without disabilities](children-with-disabilities-larger-gains-higher-tiers.md) — related
 - [Children in Tier 4 and Tier 5 preschool programs gained more learning and development from fall to spring than children in Tier 3 programs](higher-tier-qcc-programs-greater-learning-gains.md) — a broader claim this one bears on
 - [Children from all racial/ethnic groups were projected to gain more in higher-tier programs, but most racial/ethnic differences were not statistically significant](racial-ethnic-gains-higher-tiers-mostly-nonsignificant.md) — related

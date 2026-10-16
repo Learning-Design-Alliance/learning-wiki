@@ -41,8 +41,9 @@ Post-test judgment among the 114 Experiment 2 participants: 65% (37/57) favored 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — the general claim this finding bears on, with the studies behind it
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — possibly the same claim (merge candidate)
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — a broader claim this one bears on
 - [Spacing and interleaving are subadditive: interleaving beats blocking only when presentation is contiguous, and spacing benefits blocked but not interleaved study](spacing-interleaving-subadditive-interaction.md) — related

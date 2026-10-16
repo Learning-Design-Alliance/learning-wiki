@@ -41,7 +41,8 @@ The study's reported headline result, as stated in the abstract: students in bot
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Diagnostic Review revisions contained larger shares of meaning-change, organization, and content/argument work, while Control revisions remained more dependent on surface-level editing](revision-architecture-meaning-change-versus-surface.md) — the general claim this finding bears on, with the studies behind it
 - [Duplicating readers' experiences helps young writers revise descriptive writing to meet readers' informational needs](duplicating-reader-experiences-meets-informational-needs.md) — possibly the same claim (merge candidate)
 - [Revision conditions offering more reader insight produced contrasting benefits for young writers' descriptive revision](reader-insight-conditions-contrasting-benefits.md) — related

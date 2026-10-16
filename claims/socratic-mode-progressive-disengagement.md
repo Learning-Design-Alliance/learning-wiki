@@ -41,7 +41,8 @@ Behavioral and neurophysiological analysis of the Socratic condition during the 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [The EEG-adaptive exercise condition produced significantly higher cognitive engagement during training than the unrestricted chatbot condition (p = .018), and was the only condition above the 0.5 baseline](adaptive-mode-higher-eeg-engagement.md) — related
 - [In an immediate post-test design, participants with an unrestricted chatbot achieved significantly higher learning deltas than participants with a Socratic chatbot (d = 0.80) or an EEG-adaptive exercise system (d = 0.85)](unrestricted-chatbot-higher-learning-delta-than-socratic-and-adaptive.md) — related

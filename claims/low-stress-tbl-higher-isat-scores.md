@@ -56,6 +56,8 @@ The comparison is between two non-randomised cohorts, medical students in the or
 
 ## Related Claims
 
+- [Online and proctored online exams increase students' test anxiety compared with on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — the general claim this finding bears on, with the studies behind it
+
 - [Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation](test-anxiety-negative-exam-performance.md) — the general claim this finding bears on, with the studies behind it
 
 - [Effective implementation of formative assessment is hindered by its complexity, summative-assessment pressure, and teachers' negative early experiences](formative-assessment-implementation-barriers.md) — the general claim this finding bears on, with the studies behind it

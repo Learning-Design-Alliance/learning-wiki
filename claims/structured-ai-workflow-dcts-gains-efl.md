@@ -60,11 +60,12 @@ Within-group paired-samples analyses reported descriptively in the same study. T
 
 ## Discussion
 
-
 ## Learner Variables
 - [Digital Literacy](../learner-variables/digital-literacy.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [AI literacy interventions show a large, statistically significant overall positive effect on student AI literacy outcomes (g = 0.837)](ai-literacy-interventions-large-overall-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Structured AI-supported writing instruction produced a large posttest writing proficiency advantage over traditional instruction in Saudi EFL undergraduates](structured-ai-workflow-writing-gains-efl.md) — related
 - [Writing proficiency and digital critical thinking were strongly associated, and the association strengthened from pretest to posttest](writing-dcts-co-development-correlations.md) — related
 - [In-service secondary science educators score a mean of 16.7 of 30 points on a validated general AI literacy test](science-educators-mean-ai-literacy-16-7-of-30.md) — related

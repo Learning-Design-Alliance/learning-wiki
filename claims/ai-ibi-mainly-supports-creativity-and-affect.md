@@ -39,8 +39,9 @@ Authors' overall interpretation of the quasi-experimental results, not a separat
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [AI-supported inquiry-based learning significantly improved secondary students' creative mathematical performance compared with traditional instruction](ai-ibi-improves-creative-mathematical-performance.md) — related
 - [AI-supported inquiry-based learning did not produce a statistically significant improvement in students' critical problem-solving skills](ai-ibi-no-significant-gain-critical-problem-solving.md) — related
 - [Intervention cohort scored significantly higher on creativity thinking, design skills, and problem solving, but not on presentation or attendance](rubric-dimension-gains-creativity-design-problem-solving.md) — related

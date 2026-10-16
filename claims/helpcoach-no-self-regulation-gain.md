@@ -41,10 +41,11 @@ Null result from the between-subjects study (n=40) using three MSLQ subscales (m
 
 ## Discussion
 
-
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](genai-overreliance-harms-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
 - [HelpCoach led to greater knowledge retention one week later than pre-task help-seeking training alone](helpcoach-greater-knowledge-retention-one-week.md) — related
 - [HelpCoach increased spontaneous question specificity during chatbot problem-solving compared with pre-task training alone](helpcoach-increased-spontaneous-question-specificity.md) — related

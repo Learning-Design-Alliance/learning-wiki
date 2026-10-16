@@ -41,8 +41,9 @@ Pilot pre-post evaluation of the INSIGHT training with paired-samples t-tests on
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teachers who believe AI will help them reach professional goals and improve students' learning outcomes (utility value) may be more motivated to use it (theoretical argument).](teacher-utility-value-increases-motivation-to-use-ai.md) — the general claim this finding bears on, with the studies behind it
 - [Participation in the short INSIGHT training session is associated with a significant pre-post increase in teachers’ perceived ease of use of AI-based technologies](insight-training-increases-perceived-ease-of-use-ai.md) — related
 - [Behavioural intention to use AI-based technologies does not change significantly following the INSIGHT training, despite increases in perceived usefulness and ease of use](insight-training-no-change-behavioural-intention.md) — related
 - [Teachers rate the INSIGHT training as highly helpful and relevant for lesson planning and instructional design across disciplines, school types, and grade levels](insight-rated-helpful-relevant-lesson-planning.md) — related

@@ -30,7 +30,7 @@ sources:
 # Multi-turn teaching by LLM teacher agents yields larger student gains than knowledge-point exposure alone
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r2`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On the Gaokao Mathematics subset, explicit multi-turn teaching interactions improve student Pass@1 accuracy substantially more than providing knowledge points without interaction (e.g., 7.63 points for the strongest teacher vs. 4.37 for knowledge-only). [→ Zheng Li 2026](#zheng-li-2026)

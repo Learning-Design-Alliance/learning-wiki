@@ -41,8 +41,9 @@ Authors' concluding interpretation of the case study: the discussion would not h
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Interdisciplinary humanities units improve students' interdisciplinary competences](interdisciplinary-humanities-units-improve-interdisciplinary-competences.md) — the general claim this finding bears on, with the studies behind it
 - [Collaborative conjecture map construction surfaced a tension between nuanced learning theory and limited technical capability](conjecture-map-surfaces-theory-technical-tension.md) — related
 - [The adapted conjecture map's framing around unintended consequences proved generative for interdisciplinary discussion](unintended-consequences-framing-generative.md) — related
 - [First-time computer scientist users' contributions fit naturally into the adapted conjecture map format](conjecture-map-familiar-to-computer-scientists.md) — related

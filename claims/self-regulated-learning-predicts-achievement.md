@@ -59,6 +59,25 @@ Dent, A. L., & Koenka, A. C. (2016). The relation between self-regulated learnin
 
 Two meta-analyses of elementary and secondary school students related achievement to (1) metacognitive processes of self-regulated learning and (2) use of cognitive strategies. Both overall correlations were small: r = 0.20 for metacognitive processes and r = 0.11 for cognitive strategies. The correlations differed significantly by the specific process or strategy, academic subject, grade level, type of SRL measure and type of achievement measure. This is the correlational arm of the claim. It supports a real but modest association, not a causal effect. The number of studies was not in the abstract. Read as abstract only.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does a learner's self-regulation predict achievement, and how strongly?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **10 distinct studies** (6 associational, 2 quant-synthesis, 2 causal), `q1`–`q4`, 4 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Dignath & Büttner 2008](https://doi.org/10.1007/s11409-008-9029-x) | q4 · quant-synthesis · r? | i2 · medium-to-large effect, average ES = 0.69 | this claim |
+| [Dent & Koenka 2016](https://doi.org/10.1007/s10648-015-9320-8) | q3 · quant-synthesis · r? | i1 · small correlation, r = 0.20 (metacognitive processes), r = 0.11 (cognitive strategies) | this claim |
+| [Chen C and Liu T 2026](https://doi.org/10.3389/fpsyg.2026.1867463) | q2 · causal · r2 | i? | [Students' SRL profile under automated scoring was uneven, and only Execution-and-Monitorin](srl-uneven-only-execution-monitoring-predicts-gains.md) (qualifies) |
+| [Tanya Chichekian 2026](https://doi.org/10.18608/jla.2026.9077) | q2 · associational · r1 | i3; i2; i? | [Metacognitive strategies correlate strongly with problem-solving skills, and behavioural m](metacognition-problem-solving-correlation.md) (supports); [Metacognitive strategies and prior coding experience significantly predict CT profile memb](metacognition-coding-experience-predict-ct-profile.md) (supports) |
+| James Soland 2020 | q2 · associational · r? | i? | [Repeated rapid guessing across several tests is strongly associated with students' academi](repeated-rapid-guessing-self-efficacy-self-management.md) (supports) |
+| [James Soland 2019](https://doi.org/10.1080/10627197.2019.1645592) | q2 · associational · r? | i? | [Repeated rapid guessing across several tests is strongly associated with students' academi](repeated-rapid-guessing-self-efficacy-self-management.md) (supports) |
+| [Broadbent 2020](https://doi.org/10.1007/s11423-020-09781-6) | q1 · causal · r2 | i? | [Self-regulated learning is associated with increased academic achievement and improved lea](srl-associated-with-achievement.md) (supports) |
+| [Thao M. T. Nguyen and Lap Q. Trinh 2011](https://doi.org/10.26634/jelt.1.1.1348) | q2 · associational · r2 | i3; i? | [Metacognitive strategy use correlates positively with EFL reading comprehension achievemen](metacognitive-strategy-use-reading-achievement-correlation.md) (supports); [Successful readers out-use less successful readers on global and support strategies but no](successful-readers-global-support-strategy-difference.md) (supports) |
+| [Mantovani 2026](https://doi.org/10.14746/gl.2026.53.1.10) | q2 · associational · r1 | i? | [Adolescents who use more language learning strategies are the more proficient ones, and st](strategy-use-correlates-with-l2-proficiency-in-adolescents.md) (supports) |
+| [Tara Hofkens 2022](https://doi.org/10.1016/j.appdev.2022.101432) | q3 · associational · r? | i? | [Children's executive function at the beginning of pre-kindergarten predicts growth in math](ef-predicts-preschool-math-growth.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Correlation vs. causation.** Most support for this claim comes from correlational studies relating self-reported SRL (e.g., MSLQ scores) to grades or test scores [~M]. High-achieving learners may simply report better regulation, and self-reports of SRL correlate only modestly with actual regulatory behavior measured online [-M]. Causal evidence comes mainly from SRL training interventions, which show that teaching strategies such as goal-setting, self-monitoring, and strategy adaptation improves outcomes [+M] — see [Self Regulated Learning](../theories/self-regulated-learning.md).

@@ -61,6 +61,9 @@ Same SEM, mediation analysis section: total indirect effect "0.28, 95% CI (0.21,
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [AI literacy is directly and positively associated with continued ChatGPT use among existing users](ai-literacy-direct-continued-chatgpt-use.md) — related
 - [The serial indirect effect of AI literacy on continued use is weaker at higher levels of AI anxiety (moderated mediation)](moderated-mediation-anxiety-serial-path.md) — related

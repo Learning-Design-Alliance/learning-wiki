@@ -13,7 +13,7 @@ generated:
 # Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 against) · 11 studies (4 review, 2 causal, 2 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 1 of 11 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 against) · 14 studies (5 review, 3 causal, 3 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 2 of 14 report an effect size · 3 claims rest on one study
 
 ## Description
 Integration is the phase in which learners consolidate new knowledge by connecting it to what they already know, to their personal and professional experience, and to situations where they will apply it in the future. It is the fourth of [Merrill's First Principles](../patterns/4cid-four-component-instructional-design.md): learning is promoted when learners integrate the new knowledge into their everyday world through reflection, discussion, and public demonstration.
@@ -56,6 +56,10 @@ Integration activities convert learning from an isolated instructional event int
 - [Adult learners perceive AI as supporting consolidation-phase comparison, knowledge reorganization, and transfer](../claims/ai-supports-consolidation-comparison-reorganization-transfer.md) [+W]
 - [Generative learning involves mentally reorganizing and integrating to-be-learned information with prior knowledge, enabling application to new situations](../claims/generative-learning-reorganizing-integrating-prior-knowledge.md) [+W]
 - [Educators rarely facilitated connections between playlist activities or to students' lives; introductions and debriefings focused on logistics rather than science content](../claims/educators-rarely-facilitated-connections-between-playlists.md) [-W]
+
+## The evidence by question
+- *Do specific, guided prompts produce better reflection and learning than generic or free reflection?* [Reflective Practice Improves Outcomes When Structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+S]
+- *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]
 
 ## Related Elements
 - [Reflection Activities](reflection-activities.md) — the primary vehicle for integration; structured prompts turn experience into learning

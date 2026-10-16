@@ -39,8 +39,9 @@ Ablation study across all 41 learning objectives, repeated ten times with differ
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI-generated assessment items frequently need faculty correction, supporting AI as a draft generator within quality assurance](genai-assessment-items-draft-generator-quality-assurance.md) — the general claim this finding bears on, with the studies behind it
 - [Judging learning-objective alignment of generated MCQs is more subjective than answering them, with only moderate human agreement](lo-alignment-judgment-more-subjective-than-answering.md) — related
 - [Phi-2's answers to its own generated MCQs align with human experts at least as strongly as the experts agree with each other](phi2-answers-align-with-human-experts.md) — related
 - [Gemini-2.5-Pro can effectively replicate human expert judgments when answering SLM-generated MCQs](gemini-surrogate-judge-replicates-human-answers.md) — related

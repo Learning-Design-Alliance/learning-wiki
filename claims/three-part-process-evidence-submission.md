@@ -30,7 +30,7 @@ sources:
 # A proposed three-part process-evidence submission (deliverable, AI interaction logs, video reflection) shifts displacement upstream rather than eliminating it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r1`–`r2` · `q1`
+> **Evidence** · 1 study (2 entries) · qualitative `r1`–`r2` · `q1`
 
 ## Subclaims
 `q1 i?` A concrete process-evidence proposal combines the deliverable, AI interaction logs showing the student's contribution, and a reflection document submitted as video to make it harder to generate. [→ Muhammad Sajjad Akbar 2026](#muhammad-sajjad-akbar-2026)

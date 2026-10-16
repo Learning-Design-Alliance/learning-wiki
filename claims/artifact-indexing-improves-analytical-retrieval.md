@@ -30,7 +30,7 @@ sources:
 # Indexing LLM-generated artifacts nearly doubles retrieval recall on analytical queries compared with transcript-only retrieval, while direct queries perform comparably across configurations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On 20 analytical queries whose evaluative vocabulary does not appear in student speech, transcript-only retrieval achieved Recall@5 = .371, while combining all artifact types yielded the strongest performance (Recall@5 = .739, Recall@10 = .804, MRR@5 = .942). [→ Dawei Xie 2026](#dawei-xie-2026)

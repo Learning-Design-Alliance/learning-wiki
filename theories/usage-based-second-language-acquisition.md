@@ -12,7 +12,7 @@ generated:
 # Usage-Based Second Language Acquisition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (6 for, 2 mixed) · 5 studies (2 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q3` · 2 of 5 report an effect size · 7 claims rest on one study
+> **Evidence** · 9 claims (6 for, 3 mixed) · 6 studies (2 quant-synthesis, 2 review, 1 associational, 1 theoretical), `q2`–`q3` · 2 of 6 report an effect size · 8 claims rest on one study
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this
 theory: eric-ej1266918, eric-ej1176947, eric-ej1435677, eric-ed600054 (the last is about first-language lexical organisation and does not use the term "usage-based"; it is used only for its argument about frequency). The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -48,6 +48,13 @@ The fetched sources do not agree on what "experience" should count. Usage-based 
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](../claims/vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) [+M]
 - [Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks](../claims/cd-semantic-richness-improves-lexical-processing.md) [~M]
 - [Advanced L2 learners taught the core senses of to, for and at with diagrams show pre- to post-test gains in knowing when to use them, in one uncontrolled study reported second-hand](../claims/cl-core-sense-preposition-instruction-improves-use.md) [~M]
+
+## The evidence by question
+
+- *How much do repeated encounters add, and do words met in input last without review?* [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](../claims/vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) [+S]
+- *Does meeting a word in more varied contexts, rather than only more often, make it better known?* [Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks](../claims/cd-semantic-richness-improves-lexical-processing.md) [~M]
+- *Do learners move from item-based, verb-bound patterns to abstract constructions as their language experience grows?* [Korean EFL learners sort sentences increasingly by construction rather than by verb as grade level increases](../claims/construction-based-sorting-increases-with-grade-level.md) [+M]
+- *Is exposure to meaningful input enough for learners to acquire L2 grammar, or do some forms need explicit instruction and practice?* [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [~M]
 
 ## Related Theories
 

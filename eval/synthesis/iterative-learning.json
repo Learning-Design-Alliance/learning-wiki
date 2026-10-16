@@ -1,0 +1,48 @@
+{
+  "principle": "elements/iterative-learning",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "essay-quality-improves-from-initial-to-revised",
+      "question": "Does working through cycles of attempt, feedback and revision improve the quality of learners' work?",
+      "members": [
+        [
+          "iterative-design-steady-growth-no-excellent",
+          "+"
+        ],
+        [
+          "structured-iterative-support-improves-pedagogical-judgment",
+          "+"
+        ],
+        [
+          "probing-feedback-revise-resubmit-evidence",
+          "~"
+        ],
+        [
+          "iterative-lesson-planning-before-clinical-placement",
+          "+"
+        ],
+        [
+          "iterative-follow-up-supports-lasting-change",
+          "+"
+        ],
+        [
+          "iterative-testing-predicts-self-efficacy-gains",
+          "+"
+        ],
+        [
+          "ambiguous-tasks-with-revision-help-students-recognize-role-of-assumptions",
+          "+"
+        ],
+        [
+          "revise-summary-compliance-predicts-learning-gains",
+          "+"
+        ],
+        [
+          "ai-feedback-progress-motivates-revision",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

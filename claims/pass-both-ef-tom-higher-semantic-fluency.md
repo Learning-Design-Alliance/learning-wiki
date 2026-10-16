@@ -41,11 +41,13 @@ The sample was divided into four categories by EF and TOM pass/fail (Table 3 mea
 
 ## Discussion
 
-
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — predictor: learners who differ on it differ in outcomes
+- [Executive Function](../learner-variables/executive-function.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](ef-predicts-preschool-math-growth.md) — the general claim this finding bears on, with the studies behind it
 - [Executive function performance significantly predicts semantic fluency in preschool children](ef-significant-effect-semantic-fluency-preschool.md) — related
 - [No interaction effect of executive functions and theory of mind on semantic fluency in preschool children](no-ef-tom-interaction-semantic-fluency.md) — related
 - [Theory of mind effect on semantic fluency in preschool children is statistically non-significant but approaches significance](tom-marginal-non-significant-semantic-fluency.md) — related

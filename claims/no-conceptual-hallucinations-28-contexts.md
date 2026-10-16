@@ -30,7 +30,7 @@ sources:
 # Across 28 project contexts, human-in-the-loop and independent peer review identified no conceptual or mathematical hallucinations, and Python visualization scripts executed without compilation errors on the zero-shot attempt.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` No conceptual or mathematical hallucinations were identified during human-in-the-loop review across the 28 project contexts. [→ Henrique Mohallem Paiva 2026](#henrique-mohallem-paiva-2026)

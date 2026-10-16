@@ -44,6 +44,8 @@ Observation stage section of the qualitative study: in the web-mediated CSI coac
 
 ## Related Claims
 
+- [Pairing coaching with group trainings is associated with larger effects on instruction and achievement; instructional materials with larger, and video libraries with smaller, effects on instruction](coaching-complementary-elements-moderators.md) — the general claim this finding bears on, with the studies behind it
+
 - [Vicarious experiences are positively related to agriculture teachers' general teaching efficacy, with observing a first year teacher explaining 11% of variance](vicarious-experiences-positive-teaching-efficacy.md) — the general claim this finding bears on, with the studies behind it
 - [A 2007 report on an online peer-assisted learning community asserts, citing no studies, that peer coaching has proved a highly effective form of teacher professional development in the UK, US and other countries since the 1980s](peer-coaching-supports-teacher-professional-development.md) — a broader claim this one bears on
 - [Young children's video interpretation of their own mathematical play reveals both mathematical and social-affective sensemaking](childrens-video-interpretation-of-play-reveals-mathematical-and-social-sensemaking.md) — related

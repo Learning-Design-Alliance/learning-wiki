@@ -30,7 +30,7 @@ sources:
 # Student DP performance differed significantly across the three course deployments, with the paper-based DT3 exam scoring lowest, likely due to administration mode
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2` · `i2` medium
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i?` DP grades differed significantly across the three courses (F=15.519, p<0.001), with DT3 grades significantly lower than Touchalytics and Breached! (p<0.001). [→ Ahmad D. Suleiman 2026](#ahmad-d-suleiman-2026)

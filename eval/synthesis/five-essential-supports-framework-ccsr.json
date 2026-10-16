@@ -1,0 +1,178 @@
+{
+  "principle": "theories/five-essential-supports-framework-ccsr",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "schools-strong-three-plus-supports-ten-times-more-likely-improve",
+      "question": "Are schools strong on several of the five essential supports more likely to improve student learning than schools weak on them?",
+      "members": [
+        [
+          "strong-essential-supports-ten-times-more-likely-substantial-gains",
+          "+"
+        ],
+        [
+          "weak-essential-supports-four-to-five-times-stagnation",
+          "+"
+        ],
+        [
+          "five-essential-elements-three-of-five-improvement-odds",
+          "+"
+        ],
+        [
+          "supports-matter-in-combined-clusters",
+          "+"
+        ],
+        [
+          "sustained-weakness-one-support-few-improve",
+          "+"
+        ],
+        [
+          "essential-supports-strong-schools-improve-learning",
+          "+"
+        ],
+        [
+          "essential-supports-mutual-trust-reinforce-each-other",
+          "+"
+        ],
+        [
+          "elementary-gpa-strong-5essentials-measures",
+          "+"
+        ],
+        [
+          "freshman-ontrack-strong-5essentials-measures",
+          "+"
+        ],
+        [
+          "school-climate-setting-level-indicator-five-supports",
+          "+"
+        ],
+        [
+          "organizational-gains-without-instructional-gains",
+          "~"
+        ],
+        [
+          "5essentials-measures-positively-associated-improvement",
+          "~"
+        ],
+        [
+          "elementary-attendance-improves-strong-5essentials-measures",
+          "+"
+        ],
+        [
+          "high-school-attendance-strong-5essentials-measures",
+          "+"
+        ],
+        [
+          "essential-supports-strength-linked-academic-improvement",
+          "+"
+        ],
+        [
+          "multiple-related-essential-supports-improve-learning-most",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "instructional-leadership-linked-student-outcomes",
+      "question": "Does principal leadership raise student outcomes, and by what route?",
+      "members": [
+        [
+          "leadership-achievement-between-schools-via-climate",
+          "+"
+        ],
+        [
+          "effective-principals-positive-student-outcomes",
+          "+"
+        ],
+        [
+          "middle-grades-principals-lasting-effects-student-outcomes",
+          "+"
+        ],
+        [
+          "principal-pd-access-student-achievement",
+          "~"
+        ],
+        [
+          "california-principal-preparation-pd-outcomes",
+          "+"
+        ],
+        [
+          "instructional-leadership-pd-underserved-students",
+          "~"
+        ],
+        [
+          "school-leadership-associated-with-lower-turnover",
+          "+"
+        ],
+        [
+          "principal-instructional-leadership-ratings-distribution",
+          "~"
+        ],
+        [
+          "leadership-instruction-within-schools-program-quality",
+          "+"
+        ],
+        [
+          "within-school-direct-negative-leadership-academic-demand",
+          "~"
+        ],
+        [
+          "principal-turnover-harms-achievement-climate-retention",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "positive-school-climate-linked-achievement",
+      "question": "Is a school's learning climate associated with achievement and attendance beyond the students it serves?",
+      "members": [
+        [
+          "positive-school-climate-improves-attendance-achievement",
+          "+"
+        ],
+        [
+          "climate-stronger-association-than-resources",
+          "+"
+        ],
+        [
+          "sci-stronger-than-personnel-resources-for-bto",
+          "+"
+        ],
+        [
+          "school-climate-associated-with-lower-absences-post-pandemic",
+          "+"
+        ],
+        [
+          "school-climate-associated-higher-teacher-evaluation-scores",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "strong-supports-linked-community-social-capital-low-crime",
+      "question": "Do community context and relational trust condition whether a school builds the supports and improves?",
+      "members": [
+        [
+          "improvement-rates-vary-community-racial-composition",
+          "+"
+        ],
+        [
+          "demographics-not-independent-reform-predictors",
+          "~"
+        ],
+        [
+          "teacher-principal-trust-top-vs-bottom-quartile",
+          "+"
+        ],
+        [
+          "parental-support-higher-top-quartile-schools",
+          "+"
+        ],
+        [
+          "rural-community-commitment-boosts-turnaround",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

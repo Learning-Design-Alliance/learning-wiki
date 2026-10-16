@@ -41,8 +41,9 @@ The authors' theoretical interpretation of dialogue patterns, offered as an expl
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — the general claim this finding bears on, with the studies behind it
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — related
 - [Turn-taking with an AI partner shows slower responses, reduced learner floor share, and greater within-turn fluency](ai-turn-taking-latency-floor-pause.md) — related
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related

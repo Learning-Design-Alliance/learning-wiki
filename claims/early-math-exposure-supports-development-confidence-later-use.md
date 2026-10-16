@@ -42,6 +42,9 @@ An untested framing assertion opening the brief: the authors state that early ma
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Attendance in preschool and kindergarten is framed as important to young learners' school success](prek-kindergarten-attendance-spells-success.md) — related
 - [Supporting early childhood math development is important for young children's development](early-math-development-importance.md) — a broader claim this one bears on

@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 6 studies (3 quant-synthesis, 1 causal, 1 review, 1 qualitative), `q1`–`q4` · 2 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 8 studies (4 quant-synthesis, 1 causal, 1 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 8 report an effect size · 3 claims rest on one study
 
 ## Description
 Collaboration is the short-form canonical target for learners working together toward a shared product, understanding, or decision.
@@ -40,6 +40,11 @@ Collaboration is the short-form canonical target for learners working together t
 - [Collaborative Writing Improves Text Quality](../claims/collaborative-writing-improves-text-quality.md) [+M]
 - [Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time](../claims/plc-norms-three-categories-trust-prerequisite.md) [+M]
 - [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+S]
+
+## The evidence by question
+
+- *Does working jointly on a task raise achievement over working alone or instruction without group work?* [Collaborative Learning Improves Outcomes](../claims/collaborative-learning-improves-outcomes.md) [+S]
+- *What makes joint work fail: the task, group size and composition, or how members take part?* [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](../claims/collaborative-situations-often-fail-productive.md) [~W]
 
 ## Related Elements
 - [Peer Collaboration](peer-collaboration.md)

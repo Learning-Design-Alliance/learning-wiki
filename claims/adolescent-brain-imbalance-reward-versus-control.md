@@ -43,6 +43,9 @@ The brief reports this developmental neuroscience finding as background from res
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - A rapid increase in dopamine activity in the adolescent brain's reward center contributes to teen risk-taking — related
 - Adolescents rely more on the amygdala and less on frontal regions than adults when processing emotional stimuli, and younger teens often misread facial expressions — related

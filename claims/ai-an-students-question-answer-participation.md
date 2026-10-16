@@ -73,6 +73,9 @@ The report explains the mechanism: direct questioning "contradicts a norm of all
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Teachers of AI/AN students use collaborative response formats such as white boards and choral response rather than direct individual questioning, as culturally appropriate alternatives](collaborative-response-formats-ai-an-classrooms.md) — related
 - [When AI/AN communities design their own place-, culture-, and language-based education programs, students' school engagement and learning flourish](culture-based-programs-flourish-engagement.md) — related

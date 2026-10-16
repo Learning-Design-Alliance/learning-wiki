@@ -41,7 +41,8 @@ The author reports, as a matter of general agreement in the field, that "BICS-le
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Immigrant children acquire peer-appropriate conversational fluency in English within about 2 years but require considerably longer (5-10 years) to catch up academically in English](bics-acquired-faster-than-calc-immigrant-children.md) — the general claim this finding bears on, with the studies behind it
 - [Older-arriving ESL learners transfer L1 knowledge efficiently, but learning slows once they outgrow their L1](l1-transfer-efficient-until-outgrown.md) — related
 - [Youngest-arriving ESL learners risk acquiring neither L1 nor L2 at the level school demands](young-arrivals-risk-losing-both-l1-and-l2.md) — related

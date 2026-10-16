@@ -41,10 +41,13 @@ The study's validation results, as reported in the abstract, show that "even the
 
 ## Discussion
 
-
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
+
+- [Goal setting improves performance](goal-setting-improves-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Teachers can implement the Self-Determined Learning Model of Instruction across varied subjects and settings with students having diverse learning needs](teachers-implement-sdlmi-diverse-settings.md) — a broader claim this one bears on
 - [Students taught with the Self-Determined Learning Model of Instruction gain in self-determination, but not significantly more than a delayed-treatment control group](self-determined-learning-model-of-instruction-improves-self-determination.md) — related

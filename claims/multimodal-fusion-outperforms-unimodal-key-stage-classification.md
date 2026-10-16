@@ -30,7 +30,7 @@ sources:
 # Fusing transformer text classifiers with a linguistic-feature neural network significantly outperforms unimodal models for UK Key Stage classification, with ELECTRA + ANN reaching F1 = 0.996
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Every multimodal model outperformed all unimodal models, and the ELECTRA + ANN fusion achieved an F1 score of 0.996. [→ Jordan J. Bird 2024](#jordan-j-bird-2024)

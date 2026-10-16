@@ -42,6 +42,7 @@ Same PLS-SEM survey study (n = 548); the structural path from AI-TPACK to scienc
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
 
 ## Related Claims
 - [AI literacy positively predicts AI-TPACK among Chinese pre-service science teachers](ai-literacy-predicts-ai-tpack-preservice-science-teachers.md) — related

@@ -39,11 +39,12 @@ In the intrinsic-value findings of this qualitative interview study, eight of th
 
 ## Discussion
 
-
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [GenAI-assisted education produces significantly higher learning motivation than non-GenAI approaches (g = 0.81)](genai-learning-motivation-g081.md) — the general claim this finding bears on, with the studies behind it
 - [Knowing AI could complete assignments made the cost of independent programming effort feel less worthwhile to strongly motivated students](ai-alternative-demoralizes-effort-cost.md) — related
 - [Motivational Disengagement, reported by 270 participants, captures reduced initiative and eroding confidence linked to AI reliance](motivational-disengagement-ai-reliance.md) — related
 - [Students reported satisfaction with the detailed analyses, personalized multi-dimensional recommendations and motivational guidance provided by the AI systems](students-satisfied-with-genai-feedback-quality.md) — reports the opposite

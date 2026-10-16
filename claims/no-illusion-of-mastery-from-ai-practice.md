@@ -41,8 +41,9 @@ Exit questionnaire in the Study 2 experiment (N=2,238). Participants who practic
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong](ai-access-inflates-confidence.md) — the general claim this finding bears on, with the studies behind it
 - [Merely viewing an AI-generated writing example improved writing skill as much as actively practicing with the AI tool, with benefits persisting one day later](viewing-ai-example-as-effective-as-ai-practice.md) — related
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
 - [Practicing cover letter writing with an AI tool improved unassisted writing skill more than practicing without AI or not practicing, with benefits persisting one day later](ai-practice-improved-writing-skill-persisted-one-day.md) — related

@@ -41,8 +41,9 @@ Survey distributions of comfort with role assignment options. ND students felt m
 
 ## Discussion
 
-
 ## Related Claims
+
+- [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — the general claim this finding bears on, with the studies behind it
 - [Neurodivergent computing students feel most comfortable with student-formed teams, then instructor-assigned teams, and lastly randomly-assigned teams](nd-comfort-order-team-formation-collaborative-learning.md) — related
 - [When coping methods fail, neurodivergent students report avoiding socialization and courses requiring public presentations](nd-coping-failure-avoidance-public-presentations.md) — related
 - [Neurodivergent students cope with collaborative active learning discomfort by self-selecting roles and explicitly disclosing access needs](nd-coping-self-selected-roles-self-disclosure.md) — related

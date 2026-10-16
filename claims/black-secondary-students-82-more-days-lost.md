@@ -42,6 +42,9 @@ Descriptive CRDC-based analysis of secondary-level lost-instruction rates by rac
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Students in alternative schools experience extraordinarily high lost-instruction rates, with Black boys losing 235 days per 100 enrolled](alternative-schools-extreme-lost-instruction.md) — related
 - [Race-by-gender disparities are more pronounced: Black boys lost 132 days per 100 enrolled and Black girls lost 77, seven times the rate of White girls](gender-disaggregated-lost-instruction-disparities.md) — related

@@ -1,0 +1,126 @@
+{
+  "principle": "patterns/process-oriented-guided-inquiry-learning-pogil",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "guidance-improves-inquiry-learning-outcomes",
+      "question": "Does adding guidance to inquiry improve what learners learn, and does the kind of guidance matter?",
+      "members": [
+        [
+          "hh-guidance-beats-ll-cvs-children",
+          "+"
+        ],
+        [
+          "guidance-improves-inquiry-performance-success",
+          "+"
+        ],
+        [
+          "guidance-improves-inquiry-learning-activities",
+          "+"
+        ],
+        [
+          "unscaffolded-problem-solving-exploratory-hypotheses-versus-failures",
+          "~"
+        ],
+        [
+          "mercury-case-hypothesis-discarding-limit",
+          "~"
+        ],
+        [
+          "simulation-guidance-moderate-effect-dangelo",
+          "+"
+        ],
+        [
+          "teacher-guided-inquiry-larger-effects",
+          "+"
+        ],
+        [
+          "teacher-guided-inquiry-outperforms-student-led",
+          "+"
+        ],
+        [
+          "pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction",
+          "~"
+        ],
+        [
+          "mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning",
+          "+"
+        ],
+        [
+          "guided-discovery-outperformed-both-extremes",
+          "+"
+        ],
+        [
+          "minimal-guidance-inquiry-inferior-explicit-instruction",
+          "+"
+        ],
+        [
+          "enhanced-discovery-beats-other-instruction",
+          "+"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "~"
+        ],
+        [
+          "guided-inquiry-computational-model-overcomes-amplitude-misconception",
+          "~"
+        ],
+        [
+          "students-criticize-inquiry-worksheets-low-thinking",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "inquiry-based-teaching-improves-science-achievement",
+      "question": "Does inquiry-based teaching raise science achievement over the usual instruction?",
+      "members": [
+        [
+          "inquiry-based-lab-learning-improves-ct",
+          "+"
+        ],
+        [
+          "scripted-personal-inquiry-associated-with-inquiry-knowledge-gains",
+          "~"
+        ],
+        [
+          "amsti-inquiry-science-higher-reading-achievement",
+          "+"
+        ],
+        [
+          "deeper-learning-math-inquiry-reduces-disparities",
+          "+"
+        ],
+        [
+          "inquiry-benefits-low-income-equity-tension",
+          "~"
+        ],
+        [
+          "ai-assisted-inquiry-largest-decision-making-gains-climate",
+          "+"
+        ],
+        [
+          "inquiry-based-stem-activities-enhance-problem-solving-reported",
+          "+"
+        ],
+        [
+          "chatgpt-steam-ibl-learner-advantages",
+          "+"
+        ],
+        [
+          "ai-ibi-mainly-supports-creativity-and-affect",
+          "~"
+        ],
+        [
+          "guidance-improves-inquiry-learning-outcomes",
+          "+"
+        ],
+        [
+          "minimal-guidance-less-effective-for-novices",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -39,6 +39,18 @@ The authors' assertion in the assessment section of the brief, offered without c
 
 > "Innovative assessment measures like performance assessments, portfolios, certifications, and digital badges can provide a more comprehensive view of a student’s abilities related to POG competencies and skills."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*What does portfolio evidence add to assessment and selection decisions over a test, and can it be judged consistently?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **3 distinct studies** (1 theoretical, 1 qualitative, 1 design), `q1`–`q2`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Terrell 2025 | q1 · theoretical · r2 | i? | this claim |
+| [Willis 2022](https://doi.org/10.54300/756.774) | q2 · qualitative · r2 | i? | [The portfolio adds context to holistic review that readers say helps level the playing fie](portfolio-adds-equity-context-holistic-review.md) (supports); [Requiring an admissions portfolio coincided with a large drop in BBA applications, consist](ross-portfolio-coincided-application-volume-drop.md) (qualifies) |
+| Olson 2002 | q2 · design · r2 | i? | [A body of work standard setting process produced classification agreement rates ranging fr](body-of-work-agreement-rates-71-97.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

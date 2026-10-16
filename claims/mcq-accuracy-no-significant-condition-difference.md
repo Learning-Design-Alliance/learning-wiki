@@ -41,8 +41,9 @@ MCQ analysis across all 971 students in the randomized between-subjects study; c
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Multiple representations improve learning](multiple-representations-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Diverse LLM explanations were associated with about 7.7% higher open-ended response accuracy than generic explanations, but the condition effect was not significant after Bonferroni adjustment](diverse-llm-explanations-higher-oe-accuracy-not-significant.md) — related
 - [Students perceived diverse and generic explanations as similarly helpful, with no statistically significant difference across explanation-sequence groups](no-significant-difference-perceived-helpfulness.md) — related
 - [Prompted, unprompted, and slide-based learning conditions yield statistically comparable multiple-choice performance](no-multiple-choice-difference-prompted-ai-learning.md) — related

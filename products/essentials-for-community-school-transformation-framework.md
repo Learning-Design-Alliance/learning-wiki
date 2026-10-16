@@ -14,7 +14,7 @@ generated:
 # Essentials for Community School Transformation Framework
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A Community Schools Forward framework that extends the traditional four community-school pillars with belonging, safety, and care, and rigorous community-connected classroom instruction to guide whole-child school transformation.

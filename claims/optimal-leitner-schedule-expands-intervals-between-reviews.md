@@ -43,6 +43,8 @@ Optimization result under the mean-recall approximation (Fig. 8, n = 20, U = 1, 
 
 ## Related Claims
 
+- [Total retrieval spacing improved one-week vocabulary recall while relative schedules were not distinguished](total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md) — the general claim this finding bears on, with the studies behind it
+
 - [Under the Leitner Queue Network model, raising the rate of new-item introduction beyond a threshold causes a phase transition in learning rate, which a Mechanical Turk vocabulary experiment reproduced.](leitner-queue-network-phase-transition-in-learning-rate.md) — the general claim this finding bears on, with the studies behind it
 - [Spaced Practice Improves Long Term Retention](spaced-practice-improves-retention.md)
 - [Under the mean-recall approximation, the maximum achievable learning rate is convex in the learner's review frequency budget, suggesting increasing returns at lower budgets.](leitner-learning-rate-shows-increasing-returns-to-review-budget.md) — related

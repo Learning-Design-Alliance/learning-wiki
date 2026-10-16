@@ -44,6 +44,7 @@ Regression analysis in the 120-participant study: "ratings of interest were foun
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+- [Interest](../learner-variables/interest.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Spatial thinking and generative activity reduced monitoring error while higher interest increased it](spatial-generative-reduce-error-interest-increases.md) — related

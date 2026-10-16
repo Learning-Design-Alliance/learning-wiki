@@ -60,8 +60,9 @@ Same practice ANOVA: "only the After groups were significantly more accurate dur
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Feedback is more effective for cognitive and physical outcomes than for motivational and behavioral outcomes](feedback-outcome-measure-moderator-cognitive-physical.md) — the general claim this finding bears on, with the studies behind it
 - [Self Controlled Kr Decided After Trial Improves Motor Retention](self-controlled-kr-decided-after-trial-improves-motor-retention.md)
 - [Learners who could decide after a trial whether to receive knowledge of results (Self-After, Self-Both) showed less error on a 24-h transfer test to a new target distance than Self-Before learners and their yoked counterparts.](self-controlled-kr-decided-after-trial-improves-motor-transfer.md) — related
 - [Having control over the knowledge-of-results decision only before a motor trial (Self-Before) produced no statistically significant retention or transfer benefit over a yoked group receiving the same KR schedule.](self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked.md) — related

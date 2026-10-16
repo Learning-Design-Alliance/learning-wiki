@@ -61,6 +61,9 @@ Interview data illustrating how families utilized Ocean Guide components differe
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - Parents used the digital Family Guide flexibly, modifying activities to fit their routines or creating new activities based on family interests — related
 - [Nearly all participating families reported using the Splash and Bubbles for Parents app and found it helpful for supporting children's science learning](splash-bubbles-app-high-uptake-perceived-learning-support.md) — related

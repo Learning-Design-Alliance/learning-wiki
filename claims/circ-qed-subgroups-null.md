@@ -39,9 +39,11 @@ Supplemental subgroup findings from Bramlett (1994), where students were divided
 
 ## Discussion
 
-
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — moderator: an instructional effect differs with it
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [In the few studies that split by ability, learning techniques helped low-ability students and not high-ability students](learning-techniques-benefit-low-ability-not-high-ability-students.md) — the general claim this finding bears on, with the studies behind it
 - [In a quasi-experimental study, CIRC showed no statistically significant effect on comprehension outcomes after WWC clustering and multiple-comparison adjustments](circ-qed-comprehension-indeterminate.md) — possibly the same claim (merge candidate)

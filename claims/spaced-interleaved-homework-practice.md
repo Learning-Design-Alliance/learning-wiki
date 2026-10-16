@@ -63,6 +63,8 @@ Review statement on mixing problem types within homework; no citation or effect 
 
 ## Related Claims
 
+- [Timely feedback on homework increases learning, and computer platforms providing immediate feedback help teachers adapt](timely-feedback-improves-homework-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Spaced Repetition Improves Retention](spaced-practice-improves-retention.md) — a broader claim this one bears on
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related

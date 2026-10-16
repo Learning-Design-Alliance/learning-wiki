@@ -30,7 +30,7 @@ sources:
 # Using a trained StudentSim as the reward for chess tutor RL yields a tutor that expert human raters score best on accuracy, guidance quality, and personalization among the rewards studied
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In an expert human study, the StudentSim-reward tutor is best-rated on accuracy, guidance quality, and personalization among the rewards studied. [→ Ke Yang 2026](#ke-yang-2026)

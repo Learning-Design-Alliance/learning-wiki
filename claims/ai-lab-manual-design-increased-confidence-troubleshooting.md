@@ -42,6 +42,9 @@ Pre- and postsurvey Likert data from the same cohort. Median for troubleshooting
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Perceived difficulty of designing a laboratory manual remained unchanged after the AI-supported project](ai-lab-manual-design-difficulty-unchanged.md) — related
 - [AI-supported lab manual design increased students' confidence in experimental design in an upper-division analytical chemistry laboratory course](ai-lab-manual-design-increased-confidence-experimental-design.md) — related

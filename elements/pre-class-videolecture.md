@@ -13,7 +13,7 @@ generated:
 # Pre-Class Video/Lecture
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (6 for, 4 mixed, 1 against) · 18 studies (5 review, 4 causal, 3 associational, 2 quant-synthesis, 2 qualitative, 2 theoretical), `q1`–`q4` · 1 of 18 report an effect size · 6 claims rest on one study
+> **Evidence** · 14 claims (9 for, 4 mixed, 1 against) · 21 studies (6 review, 4 causal, 4 quant-synthesis, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 3 of 21 report an effect size · 9 claims rest on one study
 
 ## Description
 Instructional content — exposition, worked demonstrations, or recorded lectures — is delivered via video before class, so that synchronous time can be spent on application, discussion, and feedback rather than first exposure. The video functions as the initial-instruction component of a [Flipped Classroom](../principles/flipped-learning.md), shifting information transmission outside the group learning space.
@@ -60,6 +60,11 @@ Pre-class video works only when paired with accountability and application: stud
 - [Video-watching sequences involving pausing and rewinding are negatively correlated with math task performance in a flipped precalculus lesson](../claims/video-pause-rewind-sequences-negative-performance.md) [~W]
 - [Recorded lectures are a controversial accessibility strategy: faculty cite decimated attendance and poorer grades, while acknowledging benefits for some student groups](../claims/recorded-lectures-controversial-accessibility-strategy.md) [~W]
 - [Students scored an average of 4.3 out of 5 on a Markdown quiz after watching the AI-generated videos, suggesting short-term learning](../claims/ai-video-viewing-yields-quiz-scores-4-3.md) [+W]
+
+## The evidence by question
+- *Does a flipped course raise academic performance over the same course taught by lecture?* [In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)](../claims/flipped-classroom-improves-academic-performance-hpe.md) [+M]
+- *Does learning from video beat the teaching it replaces or adds to, and for which goals?* [Replacing existing teaching with video produces small improvements in student learning in higher education (g = 0.28)](../claims/video-replacement-small-learning-benefit.md) [+M]
+- *How should a pre-class video be built (length, segments, signalling, questions) so that learners watch it and learn from it?* [Segmenting video into short pieces or click-forward pauses supports student engagement and learning from video](../claims/segmenting-supports-video-engagement-learning.md) [+M]
 
 ## Related Elements
 - [Assigned Readings](assigned-readings.md) — the text-based alternative for pre-class first exposure; video offers better control of pace and tone, text offers faster skimming and search

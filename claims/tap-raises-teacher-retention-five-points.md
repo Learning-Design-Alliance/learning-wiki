@@ -41,8 +41,9 @@ The Chicago year-one evaluation reports a significant retention impact: "TAP tea
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Mentoring strongly influences new teachers' decisions to stay in or leave teaching (review attribution)](mentoring-influences-new-teacher-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Teachers in Chicago TAP schools at the start of the program were about 20 percent more likely than teachers in comparison schools to remain in the same school three years later](chicago-tap-increased-teacher-retention.md) — related
 - [Chicago TAP did not raise student math or reading scores overall during the four-year rollout in Chicago Public Schools](chicago-tap-no-student-achievement-impact.md) — related
 - [Mathematica conducted a multi-year evaluation of Chicago TAP, with this report detailing second-year results](chicago-tap-year-two-impact-evaluation.md) — related

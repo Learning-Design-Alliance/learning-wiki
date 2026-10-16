@@ -41,8 +41,9 @@ The article's meta-analysis synthesized 19 independent studies with 20 effect si
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — the general claim this finding bears on, with the studies behind it
 - [More effective autonomy-support training programs trained multiple elements of autonomy support](multiple-elements-moderator-autonomy-training.md) — a narrower finding that bears on this claim
 - IE's doing-with stance and democratic ethos map onto SDT autonomy support — related
 - [Formative assessment is theorized to foster motivation by supporting autonomy, competence, and relatedness](formative-assessment-fosters-motivation-autonomy-competence-relatedness.md) — related

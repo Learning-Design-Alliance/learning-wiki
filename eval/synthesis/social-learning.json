@@ -1,0 +1,82 @@
+{
+  "principle": "elements/social-learning",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "cooperative-learning-improves-achievement",
+      "question": "Does structured cooperative group work raise achievement more than individualistic, competitive or traditional whole-class instruction?",
+      "members": [
+        [
+          "cooperative-learning-moderate-overall-effect-second-order",
+          "+"
+        ],
+        [
+          "secondary-cooperative-learning-newmann-thompson",
+          "+"
+        ],
+        [
+          "cooperative-learning-higher-achievement-than-competitive-individualistic",
+          "+"
+        ],
+        [
+          "cooperation-versus-individualistic-effort-outcomes",
+          "+"
+        ],
+        [
+          "cooperative-learning-language-class-outcomes",
+          "+"
+        ],
+        [
+          "circ-potentially-positive-comprehension-adolescent-learners",
+          "+"
+        ],
+        [
+          "peer-small-group-outperform-other-methods",
+          "+"
+        ],
+        [
+          "cooperative-learning-science-studies-mixed",
+          "~"
+        ],
+        [
+          "circ-cooperative-component-benefit-unconfirmed",
+          "~"
+        ],
+        [
+          "small-group-learning-improves-stem-achievement",
+          "+"
+        ],
+        [
+          "collaborative-group-work-beats-competitive-classrooms-k12",
+          "+"
+        ],
+        [
+          "social-connection-and-collaboration-drive-learning",
+          "+"
+        ],
+        [
+          "collaborative-writing-improves-text-quality",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "peer-tutoring-improves-achievement",
+      "question": "Does structured peer tutoring, a paired form of cooperative work, raise achievement, and does its structure matter?",
+      "members": [
+        [
+          "structured-peer-tutoring-outperforms-unstructured",
+          "+"
+        ],
+        [
+          "peer-tutoring-response-groups-positive-eld-effects",
+          "+"
+        ],
+        [
+          "cross-level-peer-tutoring-null-oral-proficiency",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

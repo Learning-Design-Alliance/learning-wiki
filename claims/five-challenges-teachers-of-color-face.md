@@ -42,6 +42,9 @@ Qualitative focus groups led by Teach Plus Policy Fellows with 88 teachers who i
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - Teacher-student racial and cultural match is associated with benefits for students of color and all P-12 students — related
 - [Teachers of color face retention pressures including placement in high-poverty schools, pigeonholing into race-based roles, undervalued ideas, and an unrecognized invisible tax of extra duties.](toc-retention-hostile-conditions.md) — a narrower finding that bears on this claim

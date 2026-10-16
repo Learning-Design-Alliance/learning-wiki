@@ -43,6 +43,9 @@ Wilcoxon signed-rank test on self-assessment forms from 36 consenting students i
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Students reported significantly less difficulty with comprehensibility and accuracy of pronunciation between the first and final audio discussion activity](decreased-perceived-pronunciation-difficulty.md) — related
 - [Participation in interpersonal audio discussions produced no statistically significant changes in overall willingness to communicate, though most students reported unchanged or increased WTC](audio-discussions-no-significant-wtc-change.md) — related

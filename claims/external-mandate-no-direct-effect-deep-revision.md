@@ -41,11 +41,12 @@ Hypothesis test in the PLS-SEM structural model of 327 valid survey responses; t
 
 ## Discussion
 
-
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Diagnostic Review revisions contained larger shares of meaning-change, organization, and content/argument work, while Control revisions remained more dependent on surface-level editing](revision-architecture-meaning-change-versus-surface.md) — the general claim this finding bears on, with the studies behind it
 - [AI Prompting Literacy is indirectly and significantly associated with Deep Revision Engagement through Perceived Competence, Intrinsic Motivation, and Psychological Safety](apl-parallel-mediation-deep-revision.md) — related
 - [Engagement in deep learning activities, as measured by NSSE's DEEP Learning scale, shows no statistically significant relationship with objectively measured critical thinking at the end of the first year](deep-learning-scale-no-caap-critical-thinking-relationship.md) — related
 - Deep learning engagement shows little compensatory benefit by prior achievement: the ACT-by-DEEP interaction is significant and negative only for practical competence gains — related

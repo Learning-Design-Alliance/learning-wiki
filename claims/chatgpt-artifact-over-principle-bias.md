@@ -30,7 +30,7 @@ sources:
 # ChatGPT biased information access toward solution-oriented artifacts over principle-oriented information
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` ChatGPT participants extracted principle-oriented information in 66.33% of entries versus 97.14% for Google, and extracted artifacts (meal plans, grocery lists) in 46.94% versus 6.43%. [→ Shravika Mittal 2026](#shravika-mittal-2026)

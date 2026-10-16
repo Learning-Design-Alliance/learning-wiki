@@ -60,8 +60,9 @@ Paired comparison of support-dimension scores after VS versus AV workshops; Wilc
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Analytical competence showed a leap-plateau trajectory across sequential authentic-video workshops, improving mainly between Workshops 2 and 3](analysis-leap-plateau-trajectory.md) — related
 - [In the initial skill acquisition phase, authentic video yielded higher overall observation assignment scores than virtual simulation](av-outperforms-vs-total-observation-score.md) — related
 - [No significant difference between virtual simulation and authentic video on the basic observation dimension of assignments](vs-av-no-difference-observation-dimension.md) — related

@@ -42,8 +42,9 @@ Review-reported finding: the article cites, in the Kohlberg section, a meta-anal
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — the general claim this finding bears on, with the studies behind it
 - [Character education is criticized for didacticism and de-emphasizing reflection and moral judgment, and Dewey's deliberation is proposed as a bridge between it and Kohlberg's approach](character-education-didacticism-critique-dewey-bridge.md) — related
 - [Dewey rejects Kohlberg's fixed stage hierarchy: moral inquiry happens only in problematic situations where no single action seems morally justified, and must be repeated as concrete situations arise](dewey-rejects-fixed-moral-stages.md) — related
 - The relational taxonomy is argued to support values and moral education because fostering ego strength addresses the gap between moral reasoning and moral behavior — related

@@ -43,6 +43,10 @@ Table 1 takeaway from this descriptive report, disaggregating the DBDAI, BDAI, a
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [College completion rates among immediate enrollees varied widely by community area, ranging from 24 to 74 percent for the class of 2013](college-completion-varied-widely-by-community-area.md) — related
 - [The 2021 PAI ranges widely by race/ethnicity and gender, from 11.6% for Black young men to 67.3% for Asian/Pacific Islander young women, and no group reaches the 75% aspiration level](cps-pai-race-gender-disparities.md) — related

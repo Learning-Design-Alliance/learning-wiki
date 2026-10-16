@@ -86,6 +86,8 @@ source would be reasonable if a third study disagreed.
 
 ## Related Claims
 
+- [In the L2MSS, the L2 learning experience predicts intended effort most strongly, while the ideal L2 self is weaker than the theory argues](l2-learning-experience-beats-ideal-l2-self.md) — the general claim this finding bears on, with the studies behind it
+
 - [Goal setting improves performance](goal-setting-improves-performance.md) — what to do with a motive once identified, rather than which motive to expect
 - [Language learning strategy use correlates with L2 proficiency in adolescents](strategy-use-correlates-with-l2-proficiency-in-adolescents.md) — the other learner-side variable from this set, and the one that is actionable rather than descriptive
 - [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — identity and language as reinforcing rather than competing

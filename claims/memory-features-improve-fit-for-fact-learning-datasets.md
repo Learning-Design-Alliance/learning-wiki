@@ -58,6 +58,18 @@ Analysis of the McGraw Hill dataset (124,387 observations, 1047 college students
 
 > "There were large differences in ﬁt between the best model (model 10) and the worst ﬁtting model (model 1), similar to the cloze dataset."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does a learner model that tracks memory decay since the last review predict recall better than one that ignores it, and for which kinds of material?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **3 distinct studies** (1 design, 1 associational, 1 review), `q2`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Philip I. Pavlik 2021](https://doi.org/10.1109/tlt.2021.3128569) | q2 · design · r2 | i? | this claim; [The PPE memory model was the best-fitting model for the Andes physics dataset, with the re](ppe-best-fitting-andes-physics.md) (supports); [Models able to weight performance by recency fit better on the Assistments and KDD dataset](recency-weighting-models-better-assistments-kdd.md) (qualifies); [For Chinese tone learning, simpler models insensitive to memory decay fit as well as or be](simpler-models-sufficient-for-tone-learning.md) (counts against); [No single learner model was best across the six datasets, justifying a broad multi-model a](no-single-learner-model-best-across-datasets.md) (qualifies) |
+| [Reddy 2016](https://doi.org/10.1145/2939672.2939850) | q2 · associational · r2 | i? | [In Mnemosyne flashcard log data, adding a delay term improves the recall-prediction perfor](delay-term-improves-exponential-forgetting-curve-recall-prediction.md) (supports); [In Mnemosyne log data, exponential forgetting curve models that include a delay term perfo](exponential-forgetting-models-with-delay-perform-comparably-to-1pl-irt.md) (qualifies); [In Mnemosyne log data, setting memory strength equal to an item's Leitner deck position pr](leitner-deck-position-predicts-recall-better-than-review-count.md) (qualifies); [In Mnemosyne log data, item-specific difficulty parameters outperform a global difficulty ](item-specific-difficulty-helps-only-at-low-and-high-leitner-decks.md) (qualifies) |
+| [Shuanghong Shen 2021](https://doi.org/10.48550/arxiv.2105.15106) | q2 · review · r? | i? | [The survey reports, citing Pavlik et al., that no single knowledge tracing model was alway](no-single-knowledge-tracing-model-is-always-best.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

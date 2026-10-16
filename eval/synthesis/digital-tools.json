@@ -1,0 +1,72 @@
+{
+  "principle": "elements/digital-tools",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "media-comparison-studies-produce-uninterpretable-results",
+      "question": "Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?",
+      "members": [
+        [
+          "cbi-advantage-shrinks-same-teacher-comparisons",
+          "+"
+        ],
+        [
+          "practice-presence-raises-cbi-posttest-achievement",
+          "+"
+        ],
+        [
+          "computer-based-no-better-than-individual-paper",
+          "+"
+        ],
+        [
+          "computer-based-tutorial-implementation-lowest-posttest",
+          "~"
+        ],
+        [
+          "tool-effectiveness-depends-on-context-configuration",
+          "+"
+        ],
+        [
+          "lab-technology-gains-depend-on-active-engagement-pedagogy",
+          "+"
+        ],
+        [
+          "sms-vocabulary-learning-beats-paper-materials",
+          "~"
+        ],
+        [
+          "prior-technology-meta-analyses-inconsistent-effects",
+          "+"
+        ],
+        [
+          "emerging-tech-tefl-pooled-effect-g038",
+          "~"
+        ],
+        [
+          "tefl-tech-effects-increase-by-educational-level",
+          "~"
+        ],
+        [
+          "technology-enhanced-stories-small-benefit-comprehension-expressive-vocabulary",
+          "~"
+        ],
+        [
+          "design-moderates-technology-story-effect",
+          "+"
+        ],
+        [
+          "digital-games-outperform-nongame-media-comparisons",
+          "~"
+        ],
+        [
+          "computerized-differentiation-systems-positive-effects-primary",
+          "~"
+        ],
+        [
+          "peer-small-group-outperform-other-methods",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -13,7 +13,7 @@ generated:
 # Inquiry and Research
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (2 for, 2 mixed, 1 against) · 11 studies (4 review, 3 quant-synthesis, 2 causal, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (3 for, 3 mixed, 1 against) · 15 studies (5 quant-synthesis, 5 review, 3 causal, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 15 report an effect size · 3 claims rest on one study
 
 ## Description
 Inquiry and research place learners in the role of investigator: they pose or refine questions, gather and evaluate evidence, and build explanations from what they find. The element shifts the locus of knowledge construction from instructor to learner, with the instructor designing the question space, providing tools and [Scaffolding](scaffolding.md), and [Coaching](coaching.md) during the investigation.
@@ -55,6 +55,11 @@ Inquiry supports deep conceptual understanding and transfer when learners have e
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Meta-analysis of 37 inquiry-based instruction studies found an overall positive effect moderated by epistemic focus and teacher leadership](../claims/inquiry-based-teaching-improves-science-achievement.md) [~W]
 - [Inquiry-based learning strategies in laboratory courses are reported to significantly improve critical thinking skills](../claims/inquiry-based-lab-learning-improves-ct.md) [+W]
+
+## The evidence by question
+- *Does inquiry-based teaching raise science achievement over the usual instruction?* [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+S]
+- *Does adding guidance to inquiry improve what learners learn, and does the kind of guidance matter?* [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](../claims/guidance-improves-inquiry-learning-outcomes.md) [+M]
+- *Should novices be left to discover the target content without support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~M]
 
 ## Related Elements
 - [Inquiry-Based Exploration](inquiry-based-exploration.md) — the exploratory phase; inquiry and research adds systematic evidence gathering and evaluation

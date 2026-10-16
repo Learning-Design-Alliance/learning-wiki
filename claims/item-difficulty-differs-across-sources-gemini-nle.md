@@ -41,8 +41,9 @@ Post-hoc exploratory Kruskal–Wallis analysis of item difficulty across ChatGPT
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI-generated assessment items frequently need faculty correction, supporting AI as a draft generator within quality assurance](genai-assessment-items-draft-generator-quality-assurance.md) — the general claim this finding bears on, with the studies behind it
 - [Recognition was not associated with item difficulty](recognition-not-associated-with-item-difficulty.md) — related
 - [LLM difficulty predictions for fraction items are less stable across repeated runs than for the overall item set](llm-fraction-predictions-run-to-run-instability.md) — related
 - [Models with similar rank correlations differ substantially in estimating difficulty magnitude (RMSE and MAE)](llm-difficulty-magnitude-error-varies-across-models.md) — related

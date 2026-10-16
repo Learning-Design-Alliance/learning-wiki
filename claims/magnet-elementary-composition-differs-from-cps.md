@@ -42,6 +42,9 @@ Descriptive comparison of CPS student record files for fall 1999: enrollment in 
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [African-American students travel farther to attend magnet elementary schools than students of other ethnicities](african-american-students-travel-farthest-to-magnets.md) — related
 - [Only eight of the 15 regular magnet elementary schools meet the consent decree desegregation standard, after white enrollment declined through the 1990s](half-regular-magnets-fail-desegregation-goals.md) — related

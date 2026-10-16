@@ -41,11 +41,12 @@ Individual growth curve modeling of three survey waves across the first academic
 
 ## Discussion
 
-
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Belongingness is among the factors that most strongly and reliably affect learners' academic motivation and achievement](belongingness-strongly-affects-motivation-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Both sense of belonging and intentions to persist decline over the first academic year](belonging-and-persistence-intentions-decline-first-year.md) — related
 - [A belonging-enhancing intervention produced a smaller decline in sense of belonging over the first year than the control groups](belonging-intervention-smaller-decline.md) — related
 - [Sense of mathematics belonging predicts algebra learning, even after controlling for prior knowledge and background factors](mathematics-belonging-predicts-algebra-learning.md) — related

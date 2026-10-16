@@ -39,8 +39,9 @@ RQ3 results (Figure 6) for the n=253 experiment: quality_overall, a 0–9 compos
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI severs the correlation between artefact quality and cognitive engagement, breaking the artefact-as-proxy for learning](ai-breaks-artefact-as-proxy.md) — the general claim this finding bears on, with the studies behind it
 - [The availability of AI assistants improved the quality of submitted admissions essays, particularly mechanical aspects and especially for international applicants](ai-availability-improved-essay-quality.md) — related
 - [Any AI writing support decreases feelings of ownership compared to no AI support, with ownership following a gradient by stage (highest with no AI, then planning, revision, and AI-generated draft lowest).](ai-support-any-stage-decreases-ownership.md) — related
 - [In this experiment, drafts—human-written or AI-generated—anchored the final essay, with AI-generated drafts revised somewhat more but underlying phrases largely retained across conditions.](drafts-anchor-final-essay-text.md) — related

@@ -42,11 +42,13 @@ Post-semester interviews conducted by a co-author with no course association; in
 
 ## Discussion
 
-
 ## Learner Variables
 - [Domain Context](../learner-variables/domain-context.md) — outcome: instruction changes it
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](personalized-problem-contexts-boost-engagement-grades-4-8.md) — the general claim this finding bears on, with the studies behind it
 
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - Student dissatisfaction with the draft textbook stemmed from lack of practice problems and confusing explanations, not from its life science focus — related

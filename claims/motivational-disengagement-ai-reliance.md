@@ -42,6 +42,9 @@ Frequency counts from the grounded theory coding of student accounts. Representa
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Students who used AI reported feeling less accomplished, with heavier reliance associated with greater loss of satisfaction](ai-use-reduces-accomplishment-intrinsic-value.md) — related
 - Grounded theory analysis of 1,054 university students identifies five dimensions of AI fatigue, each with two indicators — a broader claim this one bears on

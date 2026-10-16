@@ -41,11 +41,14 @@ Observational comparison of course completion data across fall 2019 (N = 102) an
 
 ## Discussion
 
-
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students](assistments-school-composition-moderators.md) — the general claim this finding bears on, with the studies behind it
+
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Data dives with disaggregated course success data surfaced equity gaps previously invisible to faculty](disaggregated-data-dives-surface-equity-gaps.md) — related
 - Courseware use did not disadvantage any student group and appeared especially promising for under-represented minority students, with grades independent of Pell, enrollment, age, gender, and first-gen status in 75% or more of analyses. — related
 - NGCC adaptive courseware had a small positive, statistically significant average impact on course grades, with the top 25% of implementations showing impacts equivalent to 12 percentile points. — a broader claim this one bears on

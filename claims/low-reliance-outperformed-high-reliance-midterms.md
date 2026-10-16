@@ -41,8 +41,11 @@ Descriptive comparison of midterm scores between the High-Reliance group (7 stud
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Higher reliance on AI tools is correlated with lower critical-thinking performance, mediated by cognitive offloading](ai-reliance-correlated-lower-critical-thinking-offloading.md) — the general claim this finding bears on, with the studies behind it
+
+- [Students received significantly higher homework scores during GenAI-evaluation periods, but this advantage did not transfer to downstream exams](genai-homework-advantage-no-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Students who used LLMs on assignments scored significantly lower than non-users on the first midterm (large effect size), but this gap narrowed and was non-significant on the later midterms](llm-users-lower-midterm1-score-gap-narrowed.md) — related
 - [Individual trajectories suggest heavy LLM use focused on support other than full answer generation can coexist with improving scores, whereas reliance on LLM-generated summaries was associated with declining scores](usage-type-case-trajectories-s61-s2.md) — related
 - [Students whose LLM use was mostly student-driven support scored higher on Midterm 1 than LLM-driven users (about 10%), but the two groups converged on later midterms](student-driven-support-better-early-midterms.md) — related

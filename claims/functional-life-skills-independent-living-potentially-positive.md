@@ -41,8 +41,9 @@ The review's summary states functional life skills development programs had "pot
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Outcomes of students with disabilities improve when they receive specially designed instruction responsive to assessment data](specially-designed-instruction-responsive-to-assessment-data-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [The WWC rated DreamBox Learning as having potentially positive effects on mathematics achievement with a small extent of evidence](dreambox-potentially-positive-effects-small-evidence.md) — related
 - [The WWC found Voyager Universal Literacy System® had potentially positive effects on alphabetics for kindergarten students](voyager-potentially-positive-alphabetics.md) — related
 - [Attending Green Dot Public Schools produces statistically significant positive effects on high school mathematics achievement (potentially positive effects rating, small extent of evidence)](green-dot-positive-math-achievement.md) — related

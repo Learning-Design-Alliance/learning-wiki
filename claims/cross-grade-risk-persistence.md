@@ -42,6 +42,9 @@ Cross-year analysis linking students' screening status across grade levels in 20
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Across school years, students identified as at risk in earlier grades were more likely to get on track by the end of the next grade than students in later grades](cross-year-recovery-higher-earlier-grades.md) — possibly the same claim (merge candidate)
 - [Risk status tends to persist: 75 percent of students significantly below benchmark at BOY remained so at EOY, and earlier grades showed lower year-to-year persistence](early-literacy-risk-persistence-within-and-across-years.md) — a broader claim this one bears on

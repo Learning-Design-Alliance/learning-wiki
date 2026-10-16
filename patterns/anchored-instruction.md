@@ -94,6 +94,13 @@ No claim in the wiki tests an anchored unit against another format, so these row
 | Only one session is available | Use one short anchor, connect it explicitly to the concept within the session, and end with one individual item on a new situation | untested proposal |
 | The assessment asks about the anchor's own story | Score recall of the anchor separately from use of the concept on a new problem; only the second shows the concept travelled | untested proposal |
 
+## The evidence by question
+
+- *How much guidance do novices need inside a problem-centred design?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
+- *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [~M]
+- *Does comparing analogous cases improve transfer more than studying cases one at a time?* [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
+- *Does moving from concrete to iconic to abstract, with explicit links, beat starting abstract or staying concrete?* [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](../claims/manipulatives-require-connection-to-concept.md) [~M]
+
 ## Further evidence, not yet read against this model
 <!-- Restored 2026-10-02 (maintainer's decision): claims this page cited before the 2026-10-02 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.

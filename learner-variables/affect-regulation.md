@@ -12,7 +12,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 94 claims (64 for, 21 mixed, 9 against) · 74 studies (19 associational, 17 causal, 14 review, 7 quant-synthesis, 7 qualitative, 5 design, 5 theoretical), `q1`–`q4` · 20 of 74 report an effect size · 92 claims rest on one study
+> **Evidence** · 95 claims (64 for, 22 mixed, 9 against) · 74 studies (19 associational, 17 causal, 14 review, 7 quant-synthesis, 7 qualitative, 5 design, 5 theoretical), `q1`–`q4` · 20 of 74 report an effect size · 93 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -134,6 +134,13 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [AI-assisted pair programming significantly reduced programming anxiety compared to individual programming](../claims/ai-assisted-pair-programming-reduces-programming-anxiety.md) [+M] — instruction changes it
 - [At semester end, intrinsic motivation was positively correlated and programming anxiety negatively correlated with programming performance](../claims/motivation-anxiety-correlate-with-programming-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation](../claims/chatbot-enhances-learning-experience-self-paced.md) [+M] — instruction changes it
+
+## The evidence by question
+
+- *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]
+- *Does the format and setting of an assessment change how anxious learners are about it?* [Online and proctored online exams increase students' test anxiety compared with on-campus exams and non-proctored online exams](../claims/proctored-online-exams-increase-test-anxiety.md) [+M]
+- *Do school and youth mindfulness programmes improve students' regulation, wellbeing and academic outcomes?* [The evidence base for school mindfulness interventions is promising but too variable for definitive practice recommendations](../claims/mbi-evidence-base-variability-limitation.md) [~M]
+- *Do learners who regulate their emotions better show more motivation and stronger executive control?* [Emotion regulation is positively associated with academic motivation among university students](../claims/emotion-regulation-positively-associated-academic-motivation.md) [+M]
 
 ## Related Learner Variables
 - Belonging — decides whether a setback reads as difficulty or as evidence of not belonging.

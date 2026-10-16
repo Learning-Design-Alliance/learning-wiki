@@ -1,0 +1,152 @@
+{
+  "principle": "elements/self-monitoring",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "self-monitoring-improves-on-task-behavior",
+      "question": "Does having learners record their own on-task behaviour at set intervals improve that behaviour, and for whom?",
+      "members": [
+        [
+          "self-monitoring-strong-effects-asd-tau-u-083",
+          "+"
+        ],
+        [
+          "prompted-self-monitoring-most-frequent-configuration",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "self-monitoring-comprehension-improves-learning",
+      "question": "Does teaching learners to check their own work during a task improve their performance on it?",
+      "members": [
+        [
+          "metacognitive-prompts-improve-learning",
+          "+"
+        ],
+        [
+          "self-monitoring-improves-self-regulation",
+          "+"
+        ],
+        [
+          "self-monitoring-improves-on-task-behavior",
+          "~"
+        ],
+        [
+          "learning-diary-alone-no-significant-srl-gains-online-math-prep-course",
+          "~"
+        ],
+        [
+          "no-learning-effect-for-metacognitive-monitoring-prompts",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "self-assessment-accuracy-is-low-without-training",
+      "question": "Can learners' own monitoring be trusted, and can it be trained?",
+      "members": [
+        [
+          "fluent-illusions-mislead-self-assessment",
+          "+"
+        ],
+        [
+          "prior-knowledge-needed-for-accurate-self-assessment",
+          "+"
+        ],
+        [
+          "self-assessment-improves-self-regulated-learning",
+          "~"
+        ],
+        [
+          "apca-improves-self-assessment-accuracy-overconfidence",
+          "+"
+        ],
+        [
+          "no-trace-format-supported-calibrated-self-evaluation",
+          "+"
+        ],
+        [
+          "peer-self-assessment-improve-performance-equally",
+          "~"
+        ],
+        [
+          "rubrics-improve-student-work",
+          "+"
+        ],
+        [
+          "learners-misjudge-effective-learning-strategies",
+          "+"
+        ],
+        [
+          "metacognitive-illusion-blocking-interleaving",
+          "+"
+        ],
+        [
+          "metacognitive-illusion-pretesting-underrated",
+          "+"
+        ],
+        [
+          "novice-metacognitive-calibration-deficits",
+          "+"
+        ],
+        [
+          "feedback-improves-confidence-calibration",
+          "+"
+        ],
+        [
+          "feedback-reduces-absolute-metacognitive-bias-exp1",
+          "+"
+        ],
+        [
+          "sketching-most-accurate-monitoring-absolute-error",
+          "+"
+        ],
+        [
+          "self-assessment-inflation-seven-percent",
+          "+"
+        ],
+        [
+          "jol-consistency-and-rating-evolution",
+          "~"
+        ],
+        [
+          "elicit-condition-jol-accuracy-correlations",
+          "~"
+        ],
+        [
+          "underuse-stems-from-false-beliefs-and-counterintuition",
+          "+"
+        ],
+        [
+          "overconfidence-all-conditions-except-sketching",
+          "+"
+        ],
+        [
+          "students-miscalibrate-question-specificity",
+          "+"
+        ],
+        [
+          "reflection-improves-awareness-calibration",
+          "~"
+        ],
+        [
+          "exp2-linear-reduction-absolute-metacognitive-bias",
+          "+"
+        ],
+        [
+          "metacognitive-feedback-reduces-reminder-bias",
+          "+"
+        ],
+        [
+          "prediction-alone-ineffective-performance-feedback-sufficient",
+          "~"
+        ],
+        [
+          "exp2-signed-metacognitive-bias-not-replicated",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

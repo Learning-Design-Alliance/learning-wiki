@@ -49,6 +49,18 @@
         [
           "identical-example-problem-order-advantage-not-detected-at-final-test",
           "~"
+        ],
+        [
+          "pf-outperformed-lp-fcps-post-test-problems",
+          "+"
+        ],
+        [
+          "fcps-lp-difference-not-significant",
+          "~"
+        ],
+        [
+          "pf-greater-representation-flexibility-graphical",
+          "+"
         ]
       ]
     },

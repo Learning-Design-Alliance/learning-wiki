@@ -42,8 +42,13 @@ Randomized five-month experiment with 187 Egyptian EFL freshmen (62 interactive,
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](learner-constructed-graphic-organizers-outperform-provided.md) — the general claim this finding bears on, with the studies behind it
+
+- [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — the general claim this finding bears on, with the studies behind it
+
+- [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — the general claim this finding bears on, with the studies behind it
 - [Teacher-initiated and student-mediated semantic mapping did not differ significantly in their effects on EFL reading comprehension](teacher-initiated-and-student-mediated-mapping-no-difference.md) — related
 - Posttest reading comprehension differed significantly across the three semantic mapping conditions overall — a broader claim this one bears on
 - The three treatment groups were equivalent in reading comprehension at pretest — related

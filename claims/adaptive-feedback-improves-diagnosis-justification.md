@@ -41,6 +41,7 @@ Narrative review attribution in Section 2.2: the paper reports Sailer et al.'s e
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Direct GenAI-supported feedback improves immediate argument-quality gain over peer feedback, while reflective and hybrid designs outperform direct GenAI feedback](genai-feedback-design-argument-quality-gain.md) — the general claim this finding bears on, with the studies behind it
 -

@@ -1,0 +1,62 @@
+{
+  "principle": "elements/automaticity",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "strong-evidence-fluency-building-activities-grades-4-9",
+      "question": "Does practice to build reading fluency improve fluency and comprehension for struggling readers?",
+      "members": [
+        [
+          "fluency-building-activities-strong-evidence-grades-4-9",
+          "+"
+        ],
+        [
+          "repeated-reading-modeling-feedback-outperform-control-eb-fluency",
+          "+"
+        ],
+        [
+          "helps-one-to-one-gort-fluency-comprehension-gains",
+          "+"
+        ],
+        [
+          "repeated-listening-improves-oral-reading-fluency",
+          "+"
+        ],
+        [
+          "two-year-fluency-intervention-greater-word-reading-growth",
+          "~"
+        ],
+        [
+          "repeated-reading-no-discernible-fluency-effects",
+          "-"
+        ],
+        [
+          "repeated-reading-potentially-positive-comprehension-learning-disabilities",
+          "~"
+        ],
+        [
+          "repeated-reading-no-discernible-general-reading-achievement",
+          "~"
+        ],
+        [
+          "fluency-formula-fluency-effects-differ-by-initial-ability",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "automatic-word-recognition-frees-resources-for-comprehension",
+      "question": "Does fast, automatic word recognition, rather than accuracy alone, predict reading comprehension?",
+      "members": [
+        [
+          "spanish-decoding-rate-better-predictor-than-accuracy",
+          "+"
+        ],
+        [
+          "word-recognition-fluency-predicts-comprehension-grades-1-3",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

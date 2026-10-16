@@ -41,8 +41,9 @@ Multiple regression analyses for the irregular past tense UGJT across the same t
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — the general claim this finding bears on, with the studies behind it
 - [Declarative memory shows no association with regular past tense learning under any CF type](declarative-memory-null-regular-past-tense.md) — related
 - [Procedural memory shows no association with irregular past tense learning under any CF type](procedural-memory-null-irregular-past-tense.md) — related
 - [Pretest scores significantly predict posttest scores across CF types and outcome measures](pretest-scores-predict-posttest-scores.md) — related

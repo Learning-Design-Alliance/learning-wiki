@@ -57,11 +57,12 @@ The article reports that domain expertise, not personal interest, consistently t
 
 ## Discussion
 
-
 ## Learner Variables
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — the general claim this finding bears on, with the studies behind it
 - [Most participants described interest-personalized GenAI analogies as more engaging or memorable than generic technical explanations](personalized-analogies-more-engaging-memorable.md) — related
 - [Students describe concrete verification behaviors for GenAI explanations, treating evaluation as an iterative filter rather than a single accept-or-reject judgment](iterative-verification-of-genai-explanations.md) — related
 - [Undergraduate computing students evaluate GenAI analogies by structural correspondence between source and target domain, flagging specific mapping breakdowns rather than judging holistically](students-audit-genai-analogy-structural-correspondence.md) — related

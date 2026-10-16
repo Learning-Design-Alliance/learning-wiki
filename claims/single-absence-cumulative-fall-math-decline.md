@@ -41,8 +41,9 @@ Equation 2 models fall-to-fall growth with lagged absences as a continuous varia
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Low attendance is linked with lower academic skills, grades, and high school graduation, and high attendance with higher ones](attendance-linked-academic-skills-grades-graduation.md) — the general claim this finding bears on, with the studies behind it
 - [Descriptively, prior-year chronically absent students achieved over half a standard deviation below their peers at the start of the following year](descriptive-half-sd-chronic-absent-gap.md) — related
 - [Students highly absent (5-9.9% of days) in the prior year, below the chronic threshold, start the next year .14 to .22 SDs lower in mathematics than no-absence peers](highly-absent-below-threshold-lower-starting-math.md) — related
 - [Even moderately absent students (0.1-4.9% of days) start the following year at significantly lower mathematics achievement (.07 to .15 SDs) than no-absence peers](moderate-absence-significant-starting-deficit.md) — a narrower finding that bears on this claim

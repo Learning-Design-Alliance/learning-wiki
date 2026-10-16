@@ -52,6 +52,7 @@ The article reports, citing Abedi and Lord (2001), that "linguistic simplificati
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Spoken–written advantages are larger for second-language and nonfluent first-language readers and for low prior knowledge learners](reader-fluency-prior-knowledge-moderate-redundancy.md) — the general claim this finding bears on, with the studies behind it
 - Wraparound SES math gains are notable for Hispanic, female, and Title I students — related

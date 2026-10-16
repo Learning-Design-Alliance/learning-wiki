@@ -41,6 +41,7 @@ Aggregate grading comparison from the large online class's peer and self assessm
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — the general claim this finding bears on, with the studies behind it
 - [Students rated peers' work from their own country 3.6% higher than work from elsewhere](in-group-favoritism-peer-grading-country.md) — related

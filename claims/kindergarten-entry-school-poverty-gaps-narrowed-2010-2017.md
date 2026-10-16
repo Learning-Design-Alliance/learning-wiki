@@ -41,8 +41,9 @@ The abstract of the national trend analysis reports decreased school-entry inequ
 
 ## Discussion
 
-
 ## Related Claims
+
+- [School test score averages are strongly related to the income of the families a school serves](school-test-scores-strongly-related-to-family-income.md) — the general claim this finding bears on, with the studies behind it
 - [Inequalities at kindergarten entry by race/ethnicity decreased between 2010 and 2017](kindergarten-entry-racial-ethnic-gaps-narrowed-2010-2017.md) — related
 - [Prior nationally representative studies found incoming kindergarteners' math and literacy skills were higher in 2010 than in 1998](kindergarten-entry-skills-higher-2010-than-1998.md) — related
 - [Kindergarteners in 2017 had moderately lower math and reading skills at school entry than kindergarteners in 2010](kindergarten-entry-skills-lower-2017-than-2010.md) — related

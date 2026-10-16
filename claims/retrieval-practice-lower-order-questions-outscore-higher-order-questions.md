@@ -41,8 +41,9 @@ Within-subjects levels-of-thinking factor of the classroom experiment (100 under
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Students perform better overall on LOCS exam questions than on HOCS exam questions](locs-exam-questions-outperform-hocs.md) — the general claim this finding bears on, with the studies behind it
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md)
 - [The effect of retention interval on reading comprehension after retrieval practice does not differ significantly between lower-order and higher-order thinking questions](retention-interval-by-levels-of-thinking-interaction-not-significant.md) — related
 - [Retrieval practice format, levels of thinking and retention interval show no significant three-way interaction on undergraduates' reading comprehension](retrieval-format-levels-of-thinking-retention-interval-three-way-interaction-not-significant.md) — related

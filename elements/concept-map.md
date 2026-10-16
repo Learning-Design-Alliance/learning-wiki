@@ -19,7 +19,7 @@ sources:
 # Concept Map
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies (2 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 6 claims (2 for, 3 mixed, 1 against) · 9 studies (4 causal, 2 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 4 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 A concept map is a diagram in which concepts appear as nodes and labeled links express the relationships between them, forming a propositional structure ("concept — linking word — concept"). It functions both as a learning activity (learners construct maps) and as an assessment or advance organizer (instructors provide or score maps). Concept maps make knowledge structure — not just knowledge items — visible and revisable.
@@ -66,6 +66,10 @@ Concept mapping supports meaningful learning by forcing learners to identify rel
 - [Graphic Organizers Support Novice Comprehension](../claims/graphic-organizers-support-novice-comprehension.md) [+M]
 - [Placing heavier cognitive demands on learners can be counterproductive in mapping tasks](../claims/heavy-cognitive-demands-of-mapping-can-be-counterproductive.md) [-W]
 - [Teacher-initiated and student-mediated semantic mapping did not differ significantly in their effects on EFL reading comprehension](../claims/teacher-initiated-and-student-mediated-mapping-no-difference.md) [~W]
+
+## The evidence by question
+- *Does having learners build an organization of the content as a concept map help, and against what comparison?* [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](../claims/concept-mapping-improves-learning.md) [+S]
+- *Should learners construct the map themselves, study a provided one, or build it with the teacher or a peer?* [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](../claims/learner-constructed-graphic-organizers-outperform-provided.md) [~S]
 
 ## Related Elements
 

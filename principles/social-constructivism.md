@@ -17,7 +17,7 @@ sources:
 # Social Constructivism
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 6 claims (2 for, 1 mixed, 3 unmarked) · 14 studies (3 causal, 3 quant-synthesis, 3 review, 3 qualitative, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 14 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (3 for, 2 mixed, 3 unmarked) · 18 studies (6 quant-synthesis, 4 causal, 3 review, 3 qualitative, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 18 report an effect size · 3 claims rest on one study
 
 ## Description
 Social constructivism is the principle that learners build understanding through interaction with other people, language, and shared activity. It emphasizes that knowledge formation is not only individual but also social, mediated by dialogue, tools, and participation.
@@ -63,6 +63,11 @@ Social constructivism is strongest when learning depends on language, comparison
 - [Teachers report AI tools foster collaborative, socially constructed learning through shared data and critical negotiation of AI outputs](../claims/ai-fosters-collaborative-social-construction.md) [+W]
 - [Transition network analysis shows the chatbot's prompts and explanations structured the interaction while participants generated their own interpretations](../claims/tna-chatbot-prompts-structure-user-interpretation.md) [~W]
 - [Positive learning communities and collaborative social interaction drive learning](../claims/social-connection-and-collaboration-drive-learning.md) [+W]
+
+## The evidence by question
+
+- *Does working jointly on a task raise achievement over working alone or instruction without group work?* [Collaborative Learning Improves Outcomes](../claims/collaborative-learning-improves-outcomes.md) [+S]
+- *Does talk with others build understanding by itself, or only when tasks, prompts and roles make the talk constructive?* [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](../claims/structured-discussion-methods-improve-comprehension.md) [~S]
 
 ## Related Principles
 - [Social Learning](../theories/sociocultural-theory.md) — the broader principle that learning can happen through interaction with others

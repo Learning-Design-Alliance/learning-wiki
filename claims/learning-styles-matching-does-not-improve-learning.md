@@ -83,7 +83,7 @@ The review attributes this to Stahl (1999), a reading researcher, and notes Will
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*What should the adaptation be based on: responses, or learner styles and preferences?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **7 distinct studies** (5 causal, 2 review), `q2`–`q3`, 2 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does assigning tasks or formats to match a learner's measured style improve learning more than giving every learner the same well-chosen task?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **7 distinct studies** (5 causal, 2 review), `q2`–`q3`, 2 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -119,6 +119,9 @@ The review attributes this to Stahl (1999), a reading researcher, and notes Will
 **Constraints on the claim's scope.** The claim applies to *matching instruction to measured styles to improve learning outcomes*; it does not deny that learners have preferences, nor that learners differ in prior knowledge, ability, or working memory capacity — differences that do moderate instructional effectiveness (see [expertise reversal](../theories/expertise-reversal-effect.md)). Nor does it imply that single-modality instruction is always adequate: content that is inherently spatial or auditory should be presented accordingly, for all learners. Treating the claim as "modality doesn't matter" would be a misreading; the discredited element is the learner–instruction interaction, not modality as a design variable.
 
 **Open questions.** Some researchers argue that *preferences* are real and measurable even if matching them does not aid learning; whether preference data could serve motivational or metacognitive purposes remains underexplored. The core claim here — that matching yields no learning benefit — is not in dispute in the experimental literature.
+
+## Learner Variables
+- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 

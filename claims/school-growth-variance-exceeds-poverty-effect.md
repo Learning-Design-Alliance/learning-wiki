@@ -60,7 +60,8 @@ Comparison of the highest-growth high-poverty schools with the lowest-growth low
 
 ## Discussion
 
-
 ## Related Claims
+
+- [School test score averages are strongly related to the income of the families a school serves](school-test-scores-strongly-related-to-family-income.md) — the general claim this finding bears on, with the studies behind it
 - [Most high-achieving middle schoolers were on track for college readiness, but students in wealthy schools were more often on track than those in poor schools](college-readiness-gaps-high-achievers-poverty.md) — related
 - [The most extreme district disparity: District A's high-poverty middle schools had about 1 in 20 highest-performing math teachers versus about 12 in 20 in the lowest-poverty quintile](district-a-extreme-middle-school-math-disparity.md) — related

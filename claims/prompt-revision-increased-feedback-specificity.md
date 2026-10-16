@@ -41,7 +41,8 @@ Mixed-effects logistic models with student random intercepts and homework number
 
 ## Discussion
 
-
 ## Related Claims
+
+- [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — the general claim this finding bears on, with the studies behind it
 - [In one study, feedback quality significantly predicts revised essay quality under teacher feedback but not under either GenAI feedback condition, though the conditions are not compared directly](feedback-quality-predicts-revision-only-in-teacher-condition.md) — related
 - [Feedback source does not significantly affect revised essay quality once initial draft quality is controlled](feedback-source-no-effect-on-revision-outcomes.md) — related

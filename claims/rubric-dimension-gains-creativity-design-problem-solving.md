@@ -30,7 +30,7 @@ sources:
 # Intervention cohort scored significantly higher on creativity thinking, design skills, and problem solving, but not on presentation or attendance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q2` · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Between-cohort differences were statistically significant for creativity thinking (g = 1.09), design skills (g = 1.42), and problem solving (g = 1.23), but not for presentation (p = 0.100) or attendance (p = 0.445). [→ Hong Qu 2026](#hong-qu-2026)

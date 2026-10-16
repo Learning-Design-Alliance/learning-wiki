@@ -79,11 +79,12 @@ Planned comparison within the blocked condition of the same experiment showed sp
 
 ## Discussion
 
-
 ## Learner Variables
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Inserting trivia questions between interleaved exemplars impairs inductive learning when it disrupts juxtaposition of categories, with total spacing held constant](interrupting-juxtaposition-impairs-inductive-learning.md) — related
 - [When exemplars are already interleaved, larger temporal spacing between same-category exemplars yields better inductive learning than smaller spacing](larger-spacing-better-interleaved-induction.md) — reports the opposite
 - [Learners overwhelmingly judge blocking more effective than interleaving even when their test performance favors interleaving](metacognitive-illusion-blocking-interleaving.md) — related

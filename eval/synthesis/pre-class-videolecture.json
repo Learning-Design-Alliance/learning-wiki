@@ -1,0 +1,104 @@
+{
+  "principle": "elements/pre-class-videolecture",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "flipped-classroom-improves-academic-performance-hpe",
+      "question": "Does a flipped course raise academic performance over the same course taught by lecture?",
+      "members": [
+        [
+          "flipped-classroom-performance-sensitivity-imputed-data",
+          "+"
+        ],
+        [
+          "flipped-classroom-evidence-base-rct-shortage-high-bias",
+          "~"
+        ],
+        [
+          "flipped-models-higher-question-accuracy",
+          "+"
+        ],
+        [
+          "blended-learning-improves-outcomes",
+          "~"
+        ],
+        [
+          "time-on-task-unequal-in-active-learning-comparisons",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "video-replacement-small-learning-benefit",
+      "question": "Does learning from video beat the teaching it replaces or adds to, and for which goals?",
+      "members": [
+        [
+          "supplementary-video-strong-benefit",
+          "+"
+        ],
+        [
+          "video-vs-static-media-stronger-than-vs-teacher",
+          "~"
+        ],
+        [
+          "video-benefit-depends-on-relative-interactivity",
+          "~"
+        ],
+        [
+          "video-more-effective-for-skills-than-knowledge",
+          "~"
+        ],
+        [
+          "no-dose-response-video-duration",
+          "~"
+        ],
+        [
+          "edpuzzle-dosage-more-videos-larger-gains",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "segmenting-supports-video-engagement-learning",
+      "question": "How should a pre-class video be built (length, segments, signalling, questions) so that learners watch it and learn from it?",
+      "members": [
+        [
+          "video-length-mooc-engagement-declines",
+          "+"
+        ],
+        [
+          "mooc-engagement-declines-with-video-length",
+          "+"
+        ],
+        [
+          "guo-video-style-engagement-findings",
+          "+"
+        ],
+        [
+          "long-recorded-lectures-impeded-focus",
+          "+"
+        ],
+        [
+          "interpolated-questions-improve-video-learning",
+          "+"
+        ],
+        [
+          "guiding-questions-and-video-control-improve-learning",
+          "+"
+        ],
+        [
+          "signaling-improves-retention-transfer-video",
+          "+"
+        ],
+        [
+          "weeding-extraneous-content-improves-video-learning",
+          "+"
+        ],
+        [
+          "pretesting-enhances-memory-tested-video",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

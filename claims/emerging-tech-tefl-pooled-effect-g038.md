@@ -41,8 +41,9 @@ Random-effects meta-analysis of 33 experimental and quasi-experimental studies (
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md) — the general claim this finding bears on, with the studies behind it
 - Significant publication bias was detected in the TEFL technology literature, with Egger's test confirming funnel-plot asymmetry — possibly the same claim (merge candidate)
 - [Technology effects on TEFL outcomes trend upward across educational levels (primary g = 0.29, secondary g = 0.35, tertiary g = 0.44), though between-level differences are not statistically significant](tefl-tech-effects-increase-by-educational-level.md) — a narrower finding that bears on this claim
 - [GenAI-supported writing instruction yields a statistically significant positive pooled effect on L2/EFL writing performance (g = 0.80) with very high heterogeneity](genai-writing-instruction-pooled-effect-g-080.md) — related

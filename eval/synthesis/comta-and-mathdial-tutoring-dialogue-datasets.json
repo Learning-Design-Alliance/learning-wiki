@@ -1,0 +1,70 @@
+{
+  "principle": "elements/comta-and-mathdial-tutoring-dialogue-datasets",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "llmkt-outperforms-existing-kt-methods-on-tutoring-dialogues",
+      "question": "Can an LLM-based knowledge tracing model estimate what a student knows from a tutoring dialogue more accurately than standard knowledge tracing, and how accurate is it in absolute terms?",
+      "members": [
+        [
+          "dkt-sem-outperforms-existing-kt-methods-most-with-little-training-data",
+          "~"
+        ],
+        [
+          "existing-kt-methods-fail-on-small-comta-but-improve-with-more-data-on-mathdial",
+          "+"
+        ],
+        [
+          "dialogue-kt-performance-is-relatively-low-compared-to-standard-kt",
+          "~"
+        ],
+        [
+          "irt-difficulty-aware-kt-beats-llmkt-auc",
+          "-"
+        ],
+        [
+          "dkt-comparable-to-complex-kt-architectures",
+          "~"
+        ],
+        [
+          "llms-barely-exceed-trivial-baseline-kt",
+          "~"
+        ],
+        [
+          "llm-optimism-bias-knowledge-tracing",
+          "~"
+        ],
+        [
+          "context-length-no-effect-fkt",
+          "~"
+        ],
+        [
+          "hybrid-llm-knowledge-tracing-outperforms-either-alone",
+          "~"
+        ],
+        [
+          "llmkt-knowledge-change-curves-show-mixed-trends-resembling-power-law-of-practice",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "expert-teachers-rate-gpt-4o-dialogue-annotations-as-largely-accurate",
+      "question": "Can an LLM label the turns of a tutoring dialogue (correctness, knowledge components) about as well as human experts?",
+      "members": [
+        [
+          "gpt-4o-final-turn-correctness-labeling-is-close-to-human-level",
+          "+"
+        ],
+        [
+          "gpt-4o-annotation-errors-concentrate-on-final-turns-and-too-few-kcs",
+          "~"
+        ],
+        [
+          "regex-rules-improve-fewshot-llm-labeling-accuracy",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

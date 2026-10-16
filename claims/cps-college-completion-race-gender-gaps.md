@@ -42,6 +42,9 @@ Descriptive table of six-year college completion rates among immediate enrollees
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [College completion rates among immediate enrollees varied widely by community area, ranging from 24 to 74 percent for the class of 2013](college-completion-varied-widely-by-community-area.md) — related
 - [Attainment indices vary sharply by race/ethnicity and gender: Black young men face a projected PAI of 12.6 percent versus 62.0 percent for Asian/Pacific Islander young women](cps-2019-attainment-indices-race-gender-disparities.md) — related

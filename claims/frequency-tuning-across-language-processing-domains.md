@@ -41,8 +41,9 @@ The review announces its scope as documenting frequency effects across eleven na
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Korean EFL learners sort sentences increasingly by construction rather than by verb as grade level increases](construction-based-sorting-increases-with-grade-level.md) — the general claim this finding bears on, with the studies behind it
 - [Constructions typically emerge developmentally from formula, through low-scope pattern, to construction](emergence-route-formula-low-scope-pattern-construction.md) — related
 - [Learners' sensitivity to frequency has implications for theories of implicit and explicit learning and their interactions](frequency-sensitivity-implications-implicit-explicit-learning.md) — a narrower finding that bears on this claim
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related

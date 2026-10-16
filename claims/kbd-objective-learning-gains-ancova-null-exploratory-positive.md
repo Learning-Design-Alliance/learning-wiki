@@ -38,7 +38,7 @@ sources:
 # Objective learning gains did not differ significantly by condition in the primary ANCOVA, but KBD showed a significant positive effect on learning gains in exploratory regressions accounting for learner covariates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 causal `r1`–`r2` · `q2`–`q3`
+> **Evidence** · 1 study (3 entries) · causal `r1`–`r2` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` In the ANCOVA with pretest as covariate, the KBD group's mean learning gain (0.75 points) versus the control group's (0 points) was not significant. [→ Stephan Vonschallen 2026](#stephan-vonschallen-2026)

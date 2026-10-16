@@ -30,7 +30,7 @@ sources:
 # Incorporating example problems does not necessarily improve LLM teaching and can degrade it via a shift to example-specific error correction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r1`, 1 design `r2` · `q1`–`q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q1`–`q2`
 
 ## Subclaims
 `q2 i?` Adding example problems to knowledge-point instruction often reduces measured teaching effectiveness at Pass@1 (e.g., Gemini-2.5-Pro drops from 7.60 to 3.33 points improvement). [→ Zheng Li 2026](#zheng-li-2026)

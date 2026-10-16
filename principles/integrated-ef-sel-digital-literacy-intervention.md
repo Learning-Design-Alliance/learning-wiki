@@ -45,6 +45,10 @@ The article proposes that intervention for adolescents in digital environments s
 - [Emotion regulation is concurrently associated with executive performance in the reverse direction, with habitual suppression linked to diminished EF](../claims/reappraisal-and-suppression-reverse-linked-to-ef.md) [+W]
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](../claims/sel-programs-improve-behavior-and-achievement.md) [+W]
 
+## The evidence by question
+
+- *Do SEL programmes also improve conduct, distress and academic achievement, and by how much?* [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](../claims/sel-programs-improve-behavior-and-achievement.md) [+S]
+
 ## Related Principles
 - 
 

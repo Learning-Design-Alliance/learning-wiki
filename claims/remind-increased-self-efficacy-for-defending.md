@@ -41,8 +41,9 @@ Pre/post paired-samples t-test in the play-testing study with 18 children aged 9
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — the general claim this finding bears on, with the studies behind it
 - [REMind did not significantly change children's expectations that defending would help the victim feel better](remind-victim-outcome-expectations-not-significant.md) — related
 - [Children who chose to comfort the victim reported higher self-efficacy and victim-help expectations than those who chose to confront the bully (descriptive, imbalanced groups)](remind-strategy-choice-descriptive-differences.md) — related
 - [During REMind, nearly all children reported feeling sad for the victim and attributed bystander inaction mainly to low confidence or fear of retaliation](remind-qualitative-perspective-taking-themes.md) — related

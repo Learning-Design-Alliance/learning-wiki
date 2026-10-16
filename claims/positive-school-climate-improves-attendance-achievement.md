@@ -60,8 +60,9 @@ A cited pathway study reported in the review found "the strongest linkage to be 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [A more positive school climate is related to improved academic achievement beyond socioeconomic status](positive-school-climate-linked-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [A review of 143 studies found well-designed, fully implemented community schools improve attendance, achievement, behavior, and school climate](community-schools-143-study-review-outcomes.md) — related
 - [A positive school climate improves academic achievement and reduces the negative effects of poverty on achievement](positive-school-climate-improves-achievement.md) — possibly the same claim (merge candidate)
 - [Community schools are associated with positive student outcomes including reduced absenteeism, improved academics, and more positive school climates](community-schools-positive-outcomes.md) — related

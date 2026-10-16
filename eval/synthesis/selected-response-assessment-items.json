@@ -1,0 +1,170 @@
+{
+  "principle": "elements/selected-response-assessment-items",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed",
+      "question": "Which practice format: short answer, multiple choice, or matching the final test?",
+      "members": [
+        [
+          "practice-test-format-moderates-effect",
+          "~"
+        ],
+        [
+          "production-vs-recognition-retrieval-practice-no-significant-difference-reading-comprehension",
+          "~"
+        ],
+        [
+          "effect-of-more-multiple-choice-alternatives-depends-on-initial-retrieval-success",
+          "~"
+        ],
+        [
+          "format-consistency-moderates-classroom-testing-effect",
+          "~"
+        ],
+        [
+          "tap-identical-formats-stronger-effect",
+          "~"
+        ],
+        [
+          "retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats",
+          "~"
+        ],
+        [
+          "retrieval-format-levels-of-thinking-retention-interval-three-way-interaction-not-significant",
+          "~"
+        ],
+        [
+          "retrieval-format-by-levels-of-thinking-interaction-not-significant",
+          "~"
+        ],
+        [
+          "retrieval-format-by-retention-interval-interaction-not-significant",
+          "~"
+        ],
+        [
+          "competitive-multiple-choice-alternatives-benefit-related-untested-questions",
+          "~"
+        ],
+        [
+          "feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "multiple-choice-lures-can-be-learned-as-false-knowledge",
+      "question": "Can taking a multiple-choice test teach learners the wrong answers it shows them, and does feedback prevent that?",
+      "members": [
+        [
+          "mc-testing-effect-and-net-harm-boundary",
+          "+"
+        ],
+        [
+          "feedback-reduces-lure-intrusions",
+          "~"
+        ],
+        [
+          "feedback-after-multiple-choice-tests-halves-lure-intrusions",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "multiple-choice-state-tests-limits-high-low-performers",
+      "question": "Can selected-response items measure higher-order skills and specific domains, or mainly overall recognition-level knowledge?",
+      "members": [
+        [
+          "nclb-tests-low-higher-order-content",
+          "+"
+        ],
+        [
+          "cmi-ela-test-strong-overall-weak-domain-measurement",
+          "+"
+        ],
+        [
+          "cmi-gpa-and-multiple-choice-similarly-predict-ela-passing",
+          "~"
+        ],
+        [
+          "tutor-gain-concentrated-in-written-reasoning-depth",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "genai-assessment-items-draft-generator-quality-assurance",
+      "question": "Can a language model write usable multiple-choice items and distractors, or do its drafts need human review?",
+      "members": [
+        [
+          "code-gen-distractor-quality-weakest-dimension",
+          "+"
+        ],
+        [
+          "ai-not-capable-math-output-generation",
+          "+"
+        ],
+        [
+          "llm-distractor-prediction-asymmetry",
+          "+"
+        ],
+        [
+          "llm-difficulty-labels-fail-to-predict-empirical-item-difficulty",
+          "+"
+        ],
+        [
+          "llm-generated-retrieval-practice-deployable-but-high-accuracy-limits-variance",
+          "~"
+        ],
+        [
+          "students-identify-mcq-source-above-chance",
+          "+"
+        ],
+        [
+          "item-difficulty-differs-across-sources-gemini-nle",
+          "~"
+        ],
+        [
+          "distractor-distribution-does-not-differ-across-sources",
+          "-"
+        ],
+        [
+          "perceived-alignment-does-not-differ-ai-vs-nle",
+          "-"
+        ],
+        [
+          "recognition-does-not-differ-ai-vs-nle",
+          "-"
+        ],
+        [
+          "slm-generated-mcqs-answerable-unambiguous-human-judges",
+          "-"
+        ],
+        [
+          "phi2-answers-align-with-human-experts",
+          "~"
+        ],
+        [
+          "answer-confidence-threshold-trades-quantity-for-quality",
+          "~"
+        ],
+        [
+          "lo-alignment-judgment-more-subjective-than-answering",
+          "~"
+        ],
+        [
+          "reasoning-prompting-improves-llm-distractor-match",
+          "~"
+        ],
+        [
+          "correct-solution-in-prompt-bottleneck",
+          "~"
+        ],
+        [
+          "candidate-selection-loss-oracle-ranker",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

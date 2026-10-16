@@ -39,6 +39,21 @@ CRDC analysis disaggregating suspension rates by disability status and race (Fig
 
 > "In 2017–18, almost 1 out of 11 students with disabilities (9%) were suspended, compared to 4% for students without disabilities."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Are learners with disabilities excluded from school by discipline more often than their peers?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **6 distinct studies** (3 associational, 2 review, 1 qualitative), `q2`, 0 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Leung-Gagné 2022](https://doi.org/10.54300/235.277) | q2 · associational · r2 | i? | this claim |
+| Arnold 2025 | q2 · qualitative · r2 | i? | [Students with disabilities are overrepresented in school discipline: 16 percent of enrollm](disability-discipline-overrepresentation-suspension-expulsion.md) (supports) |
+| [Cardichon 2019](https://doi.org/10.33682/a3vc-nfcx) | q2 · review · r1 | i? | [Students of color and students with disabilities are disproportionately suspended and refe](disproportionate-discipline-students-of-color-disabilities.md) (supports) |
+| [DePaoli 2025](https://doi.org/10.54300/808.437) | q2 · review · r2 | i? | [Black students and students with disabilities are disproportionately referred for behavior](bta-referral-disparities-black-students-disabilities.md) (supports) |
+| Stephen Lipscomb 2017 | q2 · associational · r? | i? | [Youth with an IEP experience bullying and suspension at higher rates and are less engaged ](iep-youth-bullying-suspension-engagement.md) (supports) |
+| Albert Y. Liu 2018 | q2 · associational · r? | i? | [Grade retention, suspensions, and expulsions among youth with an IEP showed little change ](iep-youth-discipline-retention-little-change-decade.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

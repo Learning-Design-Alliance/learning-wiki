@@ -42,6 +42,9 @@ The brief's comparison across race/ethnicity groups in 2023-24 assessment data f
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Achievement disparities by student race/ethnicity widened substantively during the pandemic](covid-race-ethnicity-disparities-widened.md) — related
 - [Achievement disparities remained wider in spring 2022 than before the pandemic, and constant-gain trends imply recovery timelines extending past federal recovery-fund spending deadlines](disparities-wider-recovery-past-funding-deadlines.md) — related

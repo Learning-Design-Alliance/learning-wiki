@@ -30,7 +30,7 @@ sources:
 # A 30-minute generative AI literacy training increased intelligence analysts' overall accuracy at distinguishing real from AI-generated images by 9 percentage points
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Among intelligence analysts, a 30-minute expert-led training increased overall accuracy by 9 percentage points (95% CI: [2.7, 15.4]) over a 72% pre-training baseline. [→ Negar Kamali 2026](#negar-kamali-2026)
@@ -60,8 +60,9 @@ Same pre-registered OLS analysis applied to pair accuracy, a stricter post hoc m
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI literacy interventions show a large, statistically significant overall positive effect on student AI literacy outcomes (g = 0.837)](ai-literacy-interventions-large-overall-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Training improved accuracy across all digital-forensics experience and generative-AI familiarity groups, with the largest estimated gains among analysts with no forensics experience and frequent generative-AI users](training-gains-across-experience-levels-largest-for-novices.md) — related
 - [The training gain was driven by a 14.2-percentage-point improvement in accuracy on real images, while the gain on AI-generated images was not statistically significant](training-gain-driven-by-real-image-accuracy-not-skepticism.md) — related
 - [Training effects concentrated in portrait images (+39.8 percentage points, significant), with directional non-significant negative estimates for full-body and posed-group images](training-effects-largest-for-portrait-images.md) — related

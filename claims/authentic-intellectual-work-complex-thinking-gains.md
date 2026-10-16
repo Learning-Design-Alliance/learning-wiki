@@ -41,8 +41,9 @@ The agenda reports, citing Newmann, Bryk, & Nagaoka (2001), that authentic-intel
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Project-based learning improves achievement](project-based-learning-improves-achievement.md) — related
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
 - [Intellectual style is a way of directing intelligence, not a level of it](style-distinct-from-intelligence-level.md) — related

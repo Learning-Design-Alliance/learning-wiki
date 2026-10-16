@@ -39,6 +39,20 @@ The report cites a review of 78 school climate studies since 2000 finding that "
 
 > "A recent report reviewed 78 school climate studies going back to the year 2000, and found that "a more positive school climate is related to improved academic achievement, beyond the expected level of achievement based on student and school socioeconomic status backgrounds,""
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Is a school's learning climate associated with achievement and attendance beyond the students it serves?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **5 distinct studies** (3 associational, 2 review), `q2`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Melnick 2017 | q2 · review · r? | i? | this claim |
+| [Darling-Hammond 2026](https://doi.org/10.54300/644.197) | q2 · review · r2 | i? | [Positive school climate, which principals shape, improves attendance, behavior, graduation](positive-school-climate-improves-attendance-achievement.md) (supports) |
+| Voight 2013 | q2 · associational · r2 | i? | [School climate is more strongly associated with the likelihood of beating the odds than st](climate-stronger-association-than-resources.md) (supports); [A school's School Climate Index is more strongly associated with its probability of beatin](sci-stronger-than-personnel-resources-for-bto.md) (supports) |
+| Allensworth 2026 | q2 · associational · r2 | i? | [Multiple dimensions of school climate were associated with lower school absences, with str](school-climate-associated-with-lower-absences-post-pandemic.md) (supports) |
+| Jennie Y. Jiang 2016 | q2 · associational · r? | i? | [Teachers in schools with better organizational and learning climates have higher value-add](school-climate-associated-higher-teacher-evaluation-scores.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

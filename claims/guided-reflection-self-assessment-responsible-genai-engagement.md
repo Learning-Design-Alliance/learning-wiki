@@ -41,8 +41,12 @@ Study-level finding from pre- and post-semester surveys of commencing university
 
 ## Discussion
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
 - [The study used pre- and post-semester surveys with Likert-scale literacy-confidence items and open-text ethical reflection, thematically analysed](pre-post-survey-likert-open-text-genai-design.md) — related
 - [Student reflections revealed tensions between efficiency and academic integrity, and uncertainty about institutional expectations of GenAI use](tensions-efficiency-integrity-uncertain-expectations.md) — related
 - [Student perceptions of AI use in academic work are neutral and range from viewing AI as valid learning assistance to viewing it as cheating, depending on task type, transparency, and assessment design](student-ai-perceptions-neutral-task-dependent.md) — related

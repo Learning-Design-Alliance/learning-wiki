@@ -30,7 +30,7 @@ sources:
 # Descriptive user-study patterns suggest GPT output may scaffold lower-prior-knowledge IVDA students but reduce performance when prior knowledge is higher (CV)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the IVDA scenario, 63.64% of Group 3 (test first without, then with GPT output) improved between attempts, while about 80% of Groups 1 and 2 showed unchanged performance. [→ Markos Stamatakis 2026](#markos-stamatakis-2026)
@@ -64,6 +64,8 @@ Descriptive comparison of CV participants with GPT-4o (Table 4, Sec. 5): "the av
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — the general claim this finding bears on, with the studies behind it
 
 - [How genAI is used, not who uses it, predicts whether independent performance declines or improves](persistence-costs-concentrated-among-direct-solution-users.md) — the general claim this finding bears on, with the studies behind it
 - [GPT-4o and GPT-5.2 achieve higher accuracy and more fully correct answers on university IVDA multiple-choice questions than the smaller Mistral-7B and DeepSeek-R1 models](gpt-models-outperform-smaller-llms-on-ivda-mcqs.md) — related

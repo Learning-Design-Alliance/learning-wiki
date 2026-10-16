@@ -30,7 +30,7 @@ sources:
 # DINA models fit FCI and EMCS posttest data well but fit FMCE data only marginally
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` DINA models fit FCI and EMCS response data well (RMSEA2 at or below 0.05, SRMSR at or below 0.07) but not FMCE data. [→ Vy Le 2026](#vy-le-2026)

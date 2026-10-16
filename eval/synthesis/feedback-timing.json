@@ -7,6 +7,10 @@
       "question": "Should corrective feedback come immediately after a response, or can it wait?",
       "members": [
         [
+          "immediate-feedback-limits-downstream-error-learning",
+          "~"
+        ],
+        [
           "feedback-after-multiple-choice-tests-halves-lure-intrusions",
           "~"
         ],
@@ -38,10 +42,50 @@
       "members": [
         [
           "recasts-supported-but-effectiveness-varies",
+          "+"
+        ],
+        [
+          "metalinguistic-feedback-beats-recasts-delayed-gjt",
+          "+"
+        ],
+        [
+          "ffi-with-prompts-beats-recasts-for-gender",
           "~"
         ],
         [
-          "cf-type-explicit-short-term-differences",
+          "low-proficiency-learners-benefit-more-from-prompts",
+          "~"
+        ],
+        [
+          "high-proficiency-learners-benefit-equally-from-both",
+          "~"
+        ],
+        [
+          "declarative-memory-predicts-irregular-past-ugjt-recasts",
+          "~"
+        ],
+        [
+          "cf-facilitates-l2-grammar-explicit-implicit-durability",
+          "+"
+        ],
+        [
+          "metalinguistic-beats-recasts-immediate-not-delayed",
+          "~"
+        ],
+        [
+          "recasts-more-enduring-than-metalinguistic-feedback",
+          "~"
+        ],
+        [
+          "time-treatment-interaction-corrective-feedback",
+          "~"
+        ],
+        [
+          "metalinguistic-feedback-beats-recasts-delayed-oral-imitation",
+          "~"
+        ],
+        [
+          "metalinguistic-feedback-generalizes-new-items",
           "~"
         ],
         [
@@ -50,6 +94,10 @@
         ],
         [
           "prompts-beat-explicit-feedback-refusal-awareness",
+          "~"
+        ],
+        [
+          "cf-type-explicit-short-term-differences",
           "~"
         ],
         [
@@ -65,23 +113,15 @@
           "~"
         ],
         [
-          "cf-facilitates-l2-grammar-explicit-implicit-durability",
-          "~"
-        ],
-        [
           "metalinguistic-recasts-effective-immediate-wh-questions",
           "+"
         ],
         [
-          "metalinguistic-beats-recasts-immediate-not-delayed",
+          "prompts-more-effective-than-recasts-overall",
           "~"
         ],
         [
-          "recasts-more-enduring-than-metalinguistic-feedback",
-          "~"
-        ],
-        [
-          "time-treatment-interaction-corrective-feedback",
+          "task-complexity-negatively-related-child-written-production",
           "~"
         ]
       ]

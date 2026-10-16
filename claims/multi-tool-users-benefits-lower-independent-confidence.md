@@ -61,6 +61,9 @@ Same FDR-corrected item-level comparison analysis. The exception to the multi-to
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Perceived instructor policy is associated with GenAI task use, confidence, reliance, and perceived benefits, with small effect sizes](instructor-policy-associated-small-effects.md) — related
 - [Premium-access GenAI users report greater perceived benefits than free-only users, largest for tasks beyond current expertise](premium-access-greater-perceived-benefits.md) — related

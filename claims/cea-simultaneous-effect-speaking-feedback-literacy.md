@@ -41,8 +41,9 @@ Quasi-experiment with pretest-posttest control group design; 60 first-semester v
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Compared with non-ePortfolio peers, students in courses requiring ePortfolios were generally more engaged, earned higher grades, and were more likely to complete and persist, per the 26-institution project evidence](epportfolio-courses-engagement-grades-persistence.md) — the general claim this finding bears on, with the studies behind it
 - [Students' feedback literacy experiences during CEA implementation clustered into seven themes](cea-feedback-literacy-seven-themes.md) — related
 - [Experimental-group students outperformed control-group students on post-test feedback literacy after CEA implementation](cea-improved-feedback-literacy.md) — a narrower finding that bears on this claim
 - [Experimental-group students outperformed control-group students on post-test speaking performance after CEA implementation](cea-improved-speaking-performance.md) — a narrower finding that bears on this claim

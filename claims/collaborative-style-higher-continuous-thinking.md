@@ -42,6 +42,9 @@ Games Howell post hoc comparisons following the ANOVA in Table 4 (collaborative 
 ## Discussion
 
 
+## Learner Variables
+- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Independent-style preservice teachers score higher on open-mindedness than avoidant, collaborative, and competitive styles](independent-style-higher-open-mindedness.md) — related
 - [Avoidant-style preservice teachers hold stronger certainty-of-knowledge beliefs than participant-style peers](avoidant-style-higher-certainty-knowledge.md) — related

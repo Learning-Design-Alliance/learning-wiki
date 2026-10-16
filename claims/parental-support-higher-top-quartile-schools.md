@@ -41,7 +41,8 @@ Survey report summary of the eleven-item Parents' Involvement in Students' Learn
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Schools with strong essential supports were more likely to sit in communities with strong social capital, low crime, and low density of abused or neglected children](strong-supports-linked-community-social-capital-low-crime.md) — the general claim this finding bears on, with the studies behind it
 - [Students' reports of parental support for learning are far higher in top quartile schools, where two-thirds report moderate or very supportive parents](parental-support-for-learning-quartile-contrast.md) — possibly the same claim (merge candidate)
 - [Mistrust between teachers and parents remained a low-level roadblock in 2017, while lack of parental support had grown as a top roadblock for almost one-third of administrators](parent-support-roadblock-grew-trust-low.md) — related

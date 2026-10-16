@@ -30,7 +30,7 @@ sources:
 # Merely having access to AI advice nearly eliminates people's willingness to suspend judgment under uncertainty, even when the advice is wrong
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2`–`r3` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3`
 
 ## Subclaims
 `q3 i?` Participants who could seek AI advice suspended judgment far less often than baseline participants (0.36 vs. 0.06 in Study 1a). [→ Chiara Marcoccia 2026](#chiara-marcoccia-2026)

@@ -41,8 +41,9 @@ Experimental finding from the N=69 study of ten-year-olds in which half received
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Underlining and adjunct questions may hinder rather than help recall in young readers, reflecting a comprehension rather than a metacomprehension deficit](underlining-adjunct-questions-hinder-young-readers-comprehension-deficit.md) — related
 - [Ten-year-old readers predominantly underline subordinate passage details rather than superordinate conceptual material, even when conceptual postquestions focus attention on topic sentences](children-underline-subordinate-details-not-superordinate-material.md) — related
 - [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) — a broader claim this one bears on

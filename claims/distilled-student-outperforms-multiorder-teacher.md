@@ -30,7 +30,7 @@ sources:
 # Distilling a multi-order hierarchical teacher into a smaller zeroth-order student lets the student outperform the teacher, and improves 4.1 percentage points in accuracy over STGCN++
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In ablations, distilling the multi-order hierarchical teacher into a single zeroth-order student allows the student to outperform the teacher, and imposing the smaller-student condition further enables it to outperform the much larger hierarchical teacher. [→ Paritosh Parmar 2026](#paritosh-parmar-2026)

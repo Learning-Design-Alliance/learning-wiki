@@ -30,7 +30,7 @@ sources:
 # GRPO post-training boosts in-scope K-5 capabilities but fails to recover Beyond-K-5 capabilities, even when post-trained on out-of-scope data
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` After SFT followed by GRPO, both LittleLearner and UNFILTERED improve within K-5, but in Beyond-K-5 post-training only modestly improves LittleLearner while producing considerably larger gains for UNFILTERED. [→ Fanfei Li 2026](#fanfei-li-2026)

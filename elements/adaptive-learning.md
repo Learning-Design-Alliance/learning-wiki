@@ -18,7 +18,7 @@ sources:
 # Adaptive Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (10 for, 4 mixed) · 13 studies (4 review, 3 associational, 3 qualitative, 1 causal, 1 design, 1 theoretical), `q1`–`q3` · 0 of 13 report an effect size · 14 claims rest on one study
+> **Evidence** · 15 claims (11 for, 4 mixed) · 15 studies (4 review, 3 associational, 3 qualitative, 2 quant-synthesis, 1 causal, 1 design, 1 theoretical), `q1`–`q4` · 2 of 15 report an effect size · 14 claims rest on one study
 
 ## Description
 Adaptive learning tailors content, pacing, support, or task sequence in response to evidence about a learner's current performance, needs, or prior knowledge.
@@ -67,6 +67,10 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 - [The adaptive mode showed a progressive per-question learning-delta increase across the session (from Δ = 3.16 on Q1 to Δ = 19.97 on Q9), suggesting a warm-up effect as participants learned the system](../claims/adaptive-mode-per-question-delta-increase-warm-up.md) [~W]
 - [Middle school teachers envisioned AI chatbots as adaptive instructional scaffolds providing differentiated support responsive to students' varying needs](../claims/teachers-envision-chatbots-adaptive-scaffolds-differentiated-support.md) [+W]
 - [Adaptive courseware in a corequisite statistics course was associated with improved course outcomes, particularly for Pell-eligible and corequisite students, but effects are confounded with instructor practices](../claims/wileyplus-adaptive-courseware-statistics-outcomes.md) [~W]
+
+## The evidence by question
+- *Does adaptive instruction raise achievement over non-individualised instruction or the same content in a fixed sequence?* [Intelligent tutoring systems improve achievement over non-individualised instruction](../claims/adaptive-learning-improves-outcomes.md) [+S]
+- *Does adapting to the learner raise engagement and motivation, and when does it backfire?* [Included studies suggest engagement increases when adaptive platform activities are tailored to learners' personal needs and emotional state](../claims/adaptivity-emotional-tailoring-increases-engagement.md) [+M]
 
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)

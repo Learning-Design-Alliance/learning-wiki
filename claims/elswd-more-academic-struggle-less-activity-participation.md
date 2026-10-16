@@ -41,12 +41,14 @@ Descriptive comparison of in-school academic struggle and activity participation
 
 ## Discussion
 
-
 ## Learner Variables
 - [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
 - [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](disability-largest-postsecondary-outcome-gap.md) — the general claim this finding bears on, with the studies behind it
 - [English learner students with disabilities are less likely than other students with disabilities to receive extra time on schoolwork but attend transition-planning meetings at a comparable rate, are suspended less, and have parents with higher expectations](elswd-accommodations-transition-planning-suspension-parental-expectations.md) — related
 - [English learner students with disabilities have more socioeconomic disadvantages than other students with disabilities but similar functional performance](elswd-more-socioeconomic-disadvantage-similar-functional-performance-than-swd.md) — related
 - [English learner students with disabilities have backgrounds similar to other English learners but greater functional challenges](elswd-similar-backgrounds-greater-functional-challenges-than-el.md) — related

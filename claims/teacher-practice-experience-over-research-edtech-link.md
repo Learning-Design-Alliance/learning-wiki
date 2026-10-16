@@ -30,7 +30,7 @@ sources:
 # Teachers rely more on experience and instinct than on academic research, and teachers who rely on research are more comfortable with and positive about edtech
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 96 percent of teachers rely a great deal or good amount on experience and 90 percent on instinct, versus 66 percent on education/professional development and 53 percent on academic research. [→ Digital Promise Global 2019](#digital-promise-global-2019)

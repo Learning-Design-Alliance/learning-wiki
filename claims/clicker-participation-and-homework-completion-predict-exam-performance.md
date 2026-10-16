@@ -43,6 +43,10 @@ Observational analysis of 346 consenting students in two sections of an introduc
 
 ## Related Claims
 
+- [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — the general claim this finding bears on, with the studies behind it
+
+- [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
+
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — the general claim this finding bears on, with the studies behind it
 - [Any clicker participation outperforms absence on exam questions, but the lowest quartile sees no significant benefit](any-clicker-pattern-beats-absence-except-lowest-quartile.md) — a narrower finding that bears on this claim
 - [Homework explanations demonstrating understanding predict better isomorphic exam performance across all quartiles](homework-explanation-quality-predicts-exam-performance.md) — related

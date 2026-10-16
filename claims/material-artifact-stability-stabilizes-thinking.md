@@ -41,11 +41,12 @@ Analysis in Section 4.B.2 of the material setting: strips stacked side-by-side p
 
 ## Discussion
 
-
 ## Learner Variables
 - [Attention](../learner-variables/attention.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Material choice shapes conceptual learning and who feels invited to learn](material-choice-shapes-conceptual-learning-and-participation.md) — the general claim this finding bears on, with the studies behind it
 - [Precisely coordinated transitions among spatial-orientational behavioral clusters help stabilize local patterns of student thinking](behavioral-clusters-stabilize-thinking.md) — related
 - Changes in the constraints of activity (attention, object location, interaction patterns) provide opportunities for new locally stable patterns of thinking to take hold — related
 - Contextual micro-features (worksheet wording, salient length differences, matching part-whole structure) support persistence of the less-distance-implies-less-time intuition — a narrower finding that bears on this claim

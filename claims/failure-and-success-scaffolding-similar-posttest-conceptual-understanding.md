@@ -41,8 +41,9 @@ Classroom intervention study (N = 221) comparing explicit failure-driven versus 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [PF design fidelity predicts larger PS-I effects, with four fidelity criteria showing significant subgroup differences](pf-fidelity-predicts-psi-effect-size.md) — the general claim this finding bears on, with the studies behind it
 - [Emotion dynamics during problem-solving predict learning outcomes in a manner that depends on scaffolding design](emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently.md) — related
 - [Students exposed to failure-driven scaffolding demonstrated higher quality of constructive reasoning](failure-driven-scaffolding-higher-quality-constructive-reasoning.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — a broader claim this one bears on

@@ -40,6 +40,9 @@ In the N = 100 cross-sectional correlation matrix (Table 3a), the cognitive-abil
 ## Discussion
 
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Written-communication skills significantly correlate with vibe-coding performance, but the association does not remain significant after controlling for domain-general cognitive ability](writing-skills-correlate-with-vibe-coding.md) — related
 - [CS achievement significantly predicts vibe-coding performance and remains a significant predictor after controlling for domain-general cognitive ability](cs-achievement-predicts-vibe-coding-performance.md) — related

@@ -30,7 +30,7 @@ sources:
 # CTT item selection dropped five low-discrimination items, retaining 20 items of moderate difficulty
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Five items with discrimination indices below 0.3 were excluded from the GLAT. [→ Yueqiao Jin 2024](#yueqiao-jin-2024)

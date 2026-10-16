@@ -30,7 +30,7 @@ sources:
 # Taxonomy-guided post-training raises TACTutor's TACT_Overall on TACTBench from 0.629 (backbone) to 0.832, the highest among evaluated models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Post-training with SFT and taxonomy-grounded GRPO raises TACT_Overall from 0.629 for the Qwen3.5-4B backbone to 0.832 on the 78-context TACTBench diagnostic. [→ Dongjie Yang 2026](#dongjie-yang-2026)

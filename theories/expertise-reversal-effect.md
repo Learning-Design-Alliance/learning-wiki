@@ -12,7 +12,7 @@ generated:
 # Expertise Reversal Effect
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 4 studies (3 review, 1 quant-synthesis), `q2` · 0 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 6 studies (3 review, 1 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 0 of 6 report an effect size · 5 claims rest on one study
 
 ## Description
 The expertise reversal effect is the idea that instructional guidance that helps novices can become redundant or counterproductive as learner expertise increases.
@@ -25,6 +25,9 @@ The expertise reversal effect is the idea that instructional guidance that helps
 - [The review reports that worked examples benefit inexperienced learners but become redundant with increased experience, when problem solving proves superior](../claims/expertise-reversal-worked-examples-review.md) [+W] — attached 2026-10-13 from Kalyuga et al. (2003), which proposed "The expertise reversal effect: the reversal of cognitive load effects with increasing learner expertise, explained by schema-based guidance replacing instruction-based guidance"; tests this page's relationship.
 - [The review reports that the isolated-elements mixed instructional method benefits novices but the benefit disappears for experienced learners, and that the imagination effect reverses with expertise](../claims/expertise-reversal-isolated-elements-and-imagination-review.md) [~W] — attached 2026-10-13 from Kalyuga et al. (2003), which proposed "The expertise reversal effect: the reversal of cognitive load effects with increasing learner expertise, explained by schema-based guidance replacing instruction-based guidance"; tests this page's relationship.
 - [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](../claims/expertise-reversal-effect-definition.md) [+W] — attached 2026-10-15 from Slava Kalyuga (2010), which proposed "Cognitive load imbalance account of the expertise reversal effect"; tests this page's relationship.
+
+## The evidence by question
+- *For whom: does support that helps novices stop helping as task-specific expertise grows?* [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [+S]
 
 ## Related Theories
 - [Cognitive Load Theory](cognitive-load-theory.md)

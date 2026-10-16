@@ -44,6 +44,8 @@ Conceptual Test administered as pre-, post- and delayed post-test (delayed post-
 
 ## Related Claims
 
+- [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — the general claim this finding bears on, with the studies behind it
 - [Computer-supported collaborative learning with simulation programs fostered conceptual change for students who were cognitively engaged and prepared to reflect on and reconstruct their conceptions](cscl-simulation-conceptual-change-cognitive-engagement.md) — related
 - [High joint on-task engagement with high equality and mutuality of engagement did not necessarily mean cognitive engagement or ensure conceptual change](high-equality-mutuality-not-sufficient-conceptual-change.md) — related

@@ -38,7 +38,7 @@ sources:
 # Qualitative transcript analysis showed the KBD robot used Socratic questioning, slide-grounded sourced claims, and explained feedback far more often, while the control robot produced false statements and never cited sources
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (3 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Teachy Mini linked 81.5% of its claims to the lecture slides while the control robot never provided sources. [→ Stephan Vonschallen 2026](#stephan-vonschallen-2026)

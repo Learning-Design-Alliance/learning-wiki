@@ -30,7 +30,7 @@ sources:
 # Prior HQIM mathematics impact studies show mixed results, with positive effects for Desmos and some Illustrative Mathematics contexts but no significant grade-6 difference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` A middle-grades Desmos study found a positive effect on math scores using a basic usage measure, while a quasi-experimental study found no statistically significant grade-6 achievement difference for Illustrative Mathematics districts versus business-as-usual districts. [→ Perry 2026](#perry-2026)

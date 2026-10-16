@@ -42,7 +42,7 @@ The review reports, citing Shute and Ke (2012) and Wouters et al. (2013), that f
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does a feedback and reflection step after a simulation or shared exercise add to what learners gain from the experience itself?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **6 distinct studies** (3 quant-synthesis, 1 review, 1 design, 1 qualitative), `q1`–`q4`, 3 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does a feedback and reflection step after a simulation or shared exercise add to what learners gain from the experience itself?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **7 distinct studies** (3 quant-synthesis, 2 qualitative, 1 review, 1 design), `q1`–`q4`, 3 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -52,6 +52,7 @@ The review reports, citing Shute and Ke (2012) and Wouters et al. (2013), that f
 | [Guo 2022](https://doi.org/10.1080/14623943.2021.1995856) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.56 (SE=0.06) | [Reflection interventions in higher education have a medium positive average effect on lear](reflective-practice-evidence-mixed-in-professional-education.md) (qualifies) |
 | [J. Vykopal 2026](https://doi.org/10.48550/arxiv.2607.28179) | q1 · design · r2 | i? | [In one design report on 25 cybersecurity tabletop exercises, the authors observed that tra](reflection-debriefing-time-underscheduled.md) (supports) |
 | [Zhiqi Gao 2026](https://doi.org/10.48550/arxiv.2606.17512) | q2 · qualitative · r3 | i? | [Formative participants preferred post-session debriefing over in-session interruption, wit](feedback-timing-post-session-debrief-preference.md) (qualifies) |
+| [Elliott 2021](https://doi.org/10.30707/tlcsd5.1.1624982519.538001) | q2 · qualitative · r3 | i? | [Students perceive debriefing and guided psychometric-property exploration as the most bene](debriefing-psychometric-instruction-valued.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

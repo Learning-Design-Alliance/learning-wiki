@@ -41,6 +41,9 @@ Analysis relating district attendance data and Google Meets participation to 202
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Low attendance is linked with lower academic skills, grades, and high school graduation, and high attendance with higher ones](attendance-linked-academic-skills-grades-graduation.md) — the general claim this finding bears on, with the studies behind it
+
+- [Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out](abc-early-warning-indicators-predict-dropout.md) — the general claim this finding bears on, with the studies behind it
 - [High school students participated in synchronous remote instruction on more days than they were counted present, suggesting under-minutes rather than full-day absence drove their absences](hs-remote-absence-driven-by-minutes.md) — related

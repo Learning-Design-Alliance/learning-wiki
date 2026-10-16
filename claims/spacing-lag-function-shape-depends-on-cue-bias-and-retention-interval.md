@@ -41,10 +41,13 @@ The article reviews Glenberg's (1976) continuous recognition memory experiment, 
 
 ## Discussion
 
-
 ## Learner Variables
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [The optimal interstudy interval increases as the retention interval increases](optimal-isi-increases-with-retention-interval.md) — the general claim this finding bears on, with the studies behind it
+
+- [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Recent research identifies time intervals during which spaced study should occur to maximize memory retention](optimal-spacing-intervals-maximize-retention.md) — related
 - [In paired-associate paradigms, the lag function is decreasing at very short retention intervals, inverted U-shaped at slightly longer intervals, and monotonically increasing at long intervals](paired-associate-lag-function-retention-interval.md) — related

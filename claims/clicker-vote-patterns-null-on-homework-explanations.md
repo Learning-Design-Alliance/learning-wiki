@@ -41,8 +41,9 @@ Generalized linear mixed model analysis of coded homework explanations (binary c
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — the general claim this finding bears on, with the studies behind it
 - [Being present for a clicker question predicts a higher likelihood of providing a homework explanation demonstrating understanding, except in the lowest quartile](clicker-presence-predicts-homework-explanation-quality.md) — related
 - [Students answering both clicker votes correctly score significantly higher on isomorphic exam questions than all other vote patterns](correct-correct-clicker-pattern-higher-exam-performance.md) — related
 - [Homework explanations demonstrating understanding predict better isomorphic exam performance across all quartiles](homework-explanation-quality-predicts-exam-performance.md) — related

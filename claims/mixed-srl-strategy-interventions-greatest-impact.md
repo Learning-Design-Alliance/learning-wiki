@@ -43,6 +43,8 @@ Subgroup frequency analysis of the 15 included studies (Table 2) showing the dis
 
 ## Related Claims
 
+- [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — the general claim this finding bears on, with the studies behind it
+
 - [In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains](srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep.md) — the general claim this finding bears on, with the studies behind it
 - [The effect of SRL interventions does not differ significantly by course type, SRL strategy type, school level, or learning context](srl-effect-no-significant-moderator-differences.md) — related
 - [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](srl-interventions-moderate-effect-online-blended.md) — related

@@ -57,6 +57,9 @@ Stoet G, Geary DC (2013) Sex Differences in Mathematics and Reading Achievement 
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [National gender-equality and human-development indicators show no consistent correlation with sex differences in mathematics or reading across the decade](no-consistent-correlation-gender-equality-sex-differences.md) — related
 - [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](pisa-sex-differences-math-small-reading-three-times-larger.md) — related

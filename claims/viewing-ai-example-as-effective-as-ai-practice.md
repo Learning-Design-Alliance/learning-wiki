@@ -30,7 +30,7 @@ sources:
 # Merely viewing an AI-generated writing example improved writing skill as much as actively practicing with the AI tool, with benefits persisting one day later
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r3` · `q4` · `i0` negligible
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q4` · `i0` negligible
 
 ## Subclaims
 `q4 i0` Participants who viewed an AI-generated example without editing it improved as much as participants who practiced with the AI tool (d=.03, p=.883). [→ Benjamin Lira 2025](#benjamin-lira-2025)
@@ -60,7 +60,8 @@ One-day follow-up subsample (n=633 of n=800 recontacted). Both AI conditions "co
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Practicing cover letter writing with an AI tool improved unassisted writing skill more than practicing without AI or not practicing, with benefits persisting one day later](ai-practice-improved-writing-skill-persisted-one-day.md) — related
 - [Practicing with AI did not create an illusion of mastery: participants reported learning and skill levels similar to other conditions](no-illusion-of-mastery-from-ai-practice.md) — related

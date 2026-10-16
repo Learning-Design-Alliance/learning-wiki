@@ -41,11 +41,12 @@ Descriptive analysis of no-credit grade rates by student background among 223,09
 
 ## Discussion
 
-
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Children from low-SES families were more negatively affected by COVID-19 school closures than children from high-SES families](covid-closures-low-ses-students-more-affected.md) — the general claim this finding bears on, with the studies behind it
 - [Course grades of students in grades 4-8 declined during remote and hybrid learning relative to pre-pandemic years](cps-grades-4-8-declined-remote-learning.md) — related
 - [Students in grades 4-8 were much more likely to receive no-credit grades during remote learning, with 41 percent receiving at least one Incomplete in spring 2020](cps-grades-4-8-no-credit-incompletes-spring-2020.md) — related
 - [High school course grades improved in spring 2020 and remained higher than pre-pandemic levels through spring 2021, with a slight rise in Fs](cps-high-school-grades-improved-remote-learning.md) — related

@@ -30,7 +30,7 @@ sources:
 # Teacher Incentive Fund
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 19 claims (5 for, 9 mixed, 5 against) · 7 studies (5 causal, 2 associational), `q2`–`q3` · 0 of 7 report an effect size · 19 claims rest on one study
+> **Evidence** · 18 claims (5 for, 9 mixed, 4 against) · 7 studies (5 causal, 2 associational), `q2`–`q3` · 0 of 7 report an effect size · 17 claims rest on one study
 
 ## Description
 A U.S. federal grant programme that supports performance-based compensation systems for teachers and principals in high-need schools.

@@ -42,6 +42,10 @@ Descriptive distribution analysis of students in grades 3-8 in school year 2018-
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent)](cps-graduation-race-gender-gaps.md) — related
 - [Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year](sophomore-gains-unequal-by-race-gender.md) — related

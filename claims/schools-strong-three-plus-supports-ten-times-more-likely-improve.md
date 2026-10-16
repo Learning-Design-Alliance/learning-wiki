@@ -61,6 +61,25 @@ The UChicago Consortium's 2010 book-length research on public elementary schools
 
 > "Schools strong on clusters of these supports were 10 times more likely to improve learning of reading and mathematics, compared to schools weak in these supports."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Are schools strong on several of the five essential supports more likely to improve student learning than schools weak on them?* This table gathers the studies behind this claim and the 16 narrower claims that bear on it: **10 distinct studies** (7 associational, 1 design, 1 causal, 1 review), `q2`, 0 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Ehrlich 2016 | q2 · design · r2 | i? | this claim; [Fewer than 10 percent of elementary schools with a sustained weakness in one essential sup](sustained-weakness-one-support-few-improve.md) (supports) |
+| [Sebring P. 2014](https://doi.org/10.7764/pel.51.1.2014.7) | q2 · associational · r? | i? | this claim; [The five essential supports matter in combination: strength on clusters of supports, not i](supports-matter-in-combined-clusters.md) (supports) |
+| Sebring 2006 | q2 · associational · r2 | i? | [Chicago elementary schools strong in most essential supports were at least ten times more ](strong-essential-supports-ten-times-more-likely-substantial-gains.md) (supports); [Schools weak in most essential supports were four to five times more likely to stagnate th](weak-essential-supports-four-to-five-times-stagnation.md) (supports) |
+| de la Torre 2013 | q2 · causal · r2 | i? | [Elementary schools strong on at least three of five essential organizational elements were](five-essential-elements-three-of-five-improvement-odds.md) (supports) |
+| Luppescu 2007 | q2 · associational · r? | i? | [Schools strong in the essential supports are more likely to improve student learning over ](essential-supports-strong-schools-improve-learning.md) (supports); [The five essential supports reinforce each other and depend on a school environment infuse](essential-supports-mutual-trust-reinforce-each-other.md) (supports) |
+| Hart 2020 | q2 · associational · r3 | i? | [Elementary GPA improved more in schools with strong 5Essentials Survey scores, a new outco](elementary-gpa-strong-5essentials-measures.md) (supports); [Freshman OnTrack rates improved by as much as 3.25 percentage points more in high schools ](freshman-ontrack-strong-5essentials-measures.md) (supports); [5Essentials Survey measures predict school improvement in elementary and high schools, but](5essentials-measures-positively-associated-improvement.md) (qualifies); [Elementary attendance improved more in schools that were strong or growing on 5Essentials ](elementary-attendance-improves-strong-5essentials-measures.md) (supports); [Yearly high school attendance grew up to 3.55 percentage points more in schools with stron](high-school-attendance-strong-5essentials-measures.md) (supports) |
+| Allensworth 2018 | q2 · review · r2 | i? | [School climate functions as a setting-level indicator: students entering schools where the](school-climate-setting-level-indicator-five-supports.md) (supports) |
+| Luppescu 2011 | q2 · associational · r2 | i? | [Chicago school organizational supports (leadership, professional capacity, parent involvem](organizational-gains-without-instructional-gains.md) (qualifies) |
+| Luppescu 2003 | q2 · associational · r2 | i? | [Schools strong in the five essential supports are more likely to improve academically](essential-supports-strength-linked-academic-improvement.md) (supports) |
+| The UChicago Consortium 2003 | q2 · associational · r? | i? | [Student learning improves most where multiple related essential supports are implemented a](multiple-related-essential-supports-improve-learning-most.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

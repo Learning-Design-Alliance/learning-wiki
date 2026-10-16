@@ -44,6 +44,7 @@ Model-based indirect associations tested via bias-corrected percentile Bootstrap
 
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — predictor: learners who differ on it differ in outcomes
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [In the structural equation model, both supports directly predict innovative competence and strongly predict the mediators](sem-direct-paths-dual-supports-innovative-competence.md) — related

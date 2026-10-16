@@ -41,11 +41,12 @@ Interaction analyses comparing mean cumulative GPA across visit categories withi
 
 ## Discussion
 
-
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students](assistments-school-composition-moderators.md) — the general claim this finding bears on, with the studies behind it
 - [Tutoring center visits showed a delayed significant correlation with cumulative GPA in subsequent quarters](delayed-correlation-visits-cumulative-gpa.md) — related
 - [In one university's records, minority students visit a drop-in tutoring center more often than Caucasian students, while first-generation and other students do not differ in visits](minority-students-more-tutoring-visits-lower-gpas.md) — reports the opposite
 - [High-use tutoring center visitors had significantly higher cumulative GPA than non-visitors, with the main difference between >10-visit and no-visit groups](tutoring-center-visits-higher-cumulative-gpa.md) — related

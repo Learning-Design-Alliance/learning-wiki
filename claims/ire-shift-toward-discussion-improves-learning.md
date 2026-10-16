@@ -39,8 +39,11 @@ The primer's research-summary section asserts, citing Clarke et al. (2015), Drag
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — the general claim this finding bears on, with the studies behind it
+
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — the general claim this finding bears on, with the studies behind it
 - [Productive discourse practices correlate with improved performance on standardized tests of reasoning](discourse-practices-correlate-reasoning-tests.md) — a narrower finding that bears on this claim
 - [Prompting strategies for activating deep learning alone are insufficient for preserving a long-term learning advantage](deep-prompt-advantage-fades-at-follow-up.md) — related
 - [Educators need a shift in adult mindsets—from evaluative/accountability data use toward improvement-oriented use—for student experience data to improve practice](adult-mindset-shift-student-experience-data.md) — related

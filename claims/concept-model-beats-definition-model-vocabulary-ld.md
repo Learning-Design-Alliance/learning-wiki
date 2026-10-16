@@ -44,6 +44,8 @@ Multiple-baseline-across-participants study of six seventh-grade students with L
 
 ## Related Claims
 
+- [Outcomes of students with disabilities improve when they receive specially designed instruction responsive to assessment data](specially-designed-instruction-responsive-to-assessment-data-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
+
 - [Vocabulary Instruction Improves Comprehension](vocabulary-instruction-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it
 - Students with learning disabilities reported high satisfaction with learning vocabulary through concept diagrams — related
 - After concept-model instruction, students' posttest vocabulary scores ranged from 57.78% to 82.22% correct, compared with pretest scores of 0% to 8.89% — related

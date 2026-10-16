@@ -56,11 +56,12 @@ Simple slope analysis at one SD below and above the growth mindset mean showed a
 
 ## Discussion
 
-
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](growth-mindset-achievement-correlation-weak.md) — the general claim this finding bears on, with the studies behind it
 - [AI employment threat perception positively predicts career decision-making anxiety among Chinese college students](ai-employment-threat-perception-predicts-career-decision-making-anxiety.md) — related
 - [AI employment threat perception negatively predicts perceived employability among Chinese college students](ai-threat-negatively-predicts-perceived-employability.md) — related
 - [Growth mindset weakens the indirect effect of AI employment threat perception on career decision-making anxiety through perceived employability](growth-mindset-weakens-moderated-mediation-indirect-effect.md) — related

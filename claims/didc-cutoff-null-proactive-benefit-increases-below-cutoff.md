@@ -30,7 +30,7 @@ sources:
 # At the median cutoff, proactive and reactive tutoring show no significant difference in MAP growth, with proactive benefits increasing for students farther below the cutoff
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` At the cutoff, the difference between proactive and reactive tutoring on relative MAP growth was not statistically significant (-0.33, p = .579), while reactive students at the cutoff achieved 1.74x expected growth. [→ Ashish Gurung 2026](#ashish-gurung-2026)

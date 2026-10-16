@@ -42,6 +42,9 @@ Trend analysis of CPS administrative data on in-school suspensions by race and g
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - Arrest rates for CPS students declined after 2009-10, with African American boys arrested at twice the district average rate — related
 - [Out-of-school suspension rates in CPS high schools declined each year from 24 percent in 2009-10 to 16 percent in 2013-14](cps-high-school-oss-rates-declined-2009-2014.md) — related

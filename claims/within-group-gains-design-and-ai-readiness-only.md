@@ -60,8 +60,9 @@ Paired-samples t-tests within the control group (n = 26) in the same quasi-exper
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](genai-overreliance-harms-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
 - [In an unscaffolded GenAI-permitted instructional design course, the control group outperformed the experimental group on posttest instructional design performance](unscaffolded-genai-lower-instructional-design-performance.md) — related
 - [Unscaffolded GenAI access produced no significant advantage in pre-service teachers' AI readiness compared with traditional learning](unscaffolded-genai-no-ai-readiness-advantage.md) — related
 - [Unscaffolded GenAI access was not associated with a significant difference in pre-service teachers' critical thinking relative to traditional learning](unscaffolded-genai-no-critical-thinking-difference.md) — related

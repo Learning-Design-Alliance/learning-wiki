@@ -41,8 +41,9 @@ Across the three experimental conditions (unmodified input with no interaction, 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Conversational interaction facilitates second language grammatical development in adult ESL learners](interaction-facilitates-l2-grammatical-development.md) — the general claim this finding bears on, with the studies behind it
 - [Differences in moment-to-moment comprehension do not correlate with gains in vocabulary recognition or acquisition of Japanese locative structures](no-comprehension-acquisition-correlation.md) — related
 - [Interactionally modified input aids comprehension but shows no advantage for retention among beginner learners](interactionally-modified-input-aids-comprehension-not-retention.md) — related
 - [Negotiated interaction yields higher moment-to-moment comprehension of L2 input than either noninteraction condition, which do not differ from each other](negotiated-interaction-highest-momentary-comprehension.md) — related

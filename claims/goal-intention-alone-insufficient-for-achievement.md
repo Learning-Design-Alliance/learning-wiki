@@ -41,7 +41,8 @@ The article's framing premise, stated in the abstract: "Holding a strong goal in
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Goal setting improves performance](goal-setting-improves-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Implementation intentions promote initiation of goal striving, shielding of ongoing pursuit, disengagement from failing courses of action, and conservation of capability](implementation-intentions-four-self-regulatory-benefits.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related

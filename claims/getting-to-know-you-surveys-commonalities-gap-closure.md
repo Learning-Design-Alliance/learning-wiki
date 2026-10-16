@@ -41,10 +41,12 @@ The brief reports a single study of getting-to-know-you surveys administered at 
 
 ## Discussion
 
-
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Black and Latinx students generally feel less safe at school than their White peers](black-latinx-students-feel-less-safe.md) — related
 - [A racial school-climate gap exists: White and Asian students generally report higher safety, support, and connectedness than African American, American Indian, and Hispanic students](racial-school-climate-gap-students.md) — related

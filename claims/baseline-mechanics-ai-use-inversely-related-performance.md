@@ -41,6 +41,9 @@ Cross-tabulation of self-reported baseline mechanics AI use against midterm grad
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The RCT is considered the gold standard of research evidence because randomization ensures only the intervention could cause treatment-control outcome differences](rct-gold-standard-randomization-logic.md) — the general claim this finding bears on, with the studies behind it
+
+- [Students received significantly higher homework scores during GenAI-evaluation periods, but this advantage did not transfer to downstream exams](genai-homework-advantage-no-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Student generative AI use expanded substantially within engineering mechanics coursework over the semester, from 37% to 51% using it at least weekly](mechanics-ai-use-expanded-over-semester.md) — related

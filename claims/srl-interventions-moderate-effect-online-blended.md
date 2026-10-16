@@ -44,13 +44,14 @@ The "65%" is the source's own wording for a pooled Cohen's d of 0.65; a d of 0.6
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does building self-regulation support (planning, if-then plans, self-checks) into an online course improve learning and completion?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **3 distinct studies** (2 quant-synthesis, 1 causal), `q3`, 2 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does building self-regulation support (planning, if-then plans, self-checks) into an online course improve learning and completion?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (3 quant-synthesis, 1 causal), `q3`–`q4`, 2 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Guntur 2024](https://doi.org/10.24059/olj.v28i3.4025) | q3 · quant-synthesis · r2 | i2 | this claim |
 | [Gollwitzer & Sheeran 2006](<https://doi.org/10.1016/s0065-2601(06)38002-1>) | q3 · quant-synthesis · r? | i2 · medium-to-large effect, d = .65, 95% CI .60 to .70 | [Forming implementation intentions (if-then plans) improves goal attainment](implementation-intentions-improve-goal-attainment.md) (supports) |
 | [Kizilcec & Cohen 2017](https://doi.org/10.1073/pnas.1611898114) | q3 · causal · r? | i? | [Forming implementation intentions (if-then plans) improves goal attainment](implementation-intentions-improve-goal-attainment.md) (supports) |
+| [Jansen 2019](https://doi.org/10.1016/j.edurev.2019.100292) | q4 · quant-synthesis · r? | i? | [SRL interventions are effective in improving both SRL activity and achievement in higher e](srl-interventions-improve-activity-achievement.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

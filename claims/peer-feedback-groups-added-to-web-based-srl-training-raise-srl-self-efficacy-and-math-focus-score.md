@@ -60,8 +60,9 @@ Same planned contrasts on the mathematics focus score (ten self-chosen chapters)
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — the general claim this finding bears on, with the studies behind it
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md)
 - [Srl Web Training Peer Feedback Group By Time Interaction Online Math Prep](srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep.md)
 - [A daily learning diary alone (Group D) did not produce statistically significant pre-post gains on any measured outcome in an online mathematics preparation course](learning-diary-alone-no-significant-srl-gains-online-math-prep-course.md) — related

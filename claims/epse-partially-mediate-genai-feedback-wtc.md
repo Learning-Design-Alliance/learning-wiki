@@ -56,8 +56,9 @@ Total-effect analysis reported alongside the mediation results: the total effect
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Studies directly measuring WTC consistently report positive effects of AI on EFL learners' WTC across tool types, contexts, and age groups](ai-directly-enhances-efl-wtc.md) — the general claim this finding bears on, with the studies behind it
 - [GenAI feedback perceptions, pronunciation self-efficacy, and WTC are all positively intercorrelated, and learners report positive feedback perceptions and moderate self-efficacy and WTC](genai-epse-wtc-positive-correlations-descriptives.md) — related
 - [English pronunciation self-efficacy is strongly and positively associated with willingness to communicate in English among Chinese EFL learners](pronunciation-self-efficacy-associated-with-wtc.md) — related
 - [Chinese EFL learners' positive perceptions of GenAI-based pronunciation feedback are positively associated with their English pronunciation self-efficacy](genai-pronunciation-feedback-associated-with-pronunciation-self-efficacy.md) — related

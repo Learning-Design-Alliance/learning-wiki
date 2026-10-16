@@ -41,7 +41,8 @@ Subgroup regression and descriptive analyses across district poverty, achievemen
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Mentoring strongly influences new teachers' decisions to stay in or leave teaching (review attribution)](mentoring-influences-new-teacher-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Mentoring experiences did not differ statistically significantly across districts with different poverty, achievement, or rurality levels](mentoring-did-not-vary-by-district-characteristics.md) — related
 - [Strong mentoring is linked to novice elementary teachers being 25 percentage points more likely to plan to remain in the same school, with a similar but non-significant pattern for high school teachers](strong-mentoring-25-point-retention-plan-elementary.md) — related

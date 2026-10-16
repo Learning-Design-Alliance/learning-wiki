@@ -42,6 +42,9 @@ Case study reporting of publicly available accountability data for Gateway High 
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Graduation rates improved for all racial, ethnic, and economic groups, but racial and ethnic gaps increased while gender, poverty, and disability gaps declined](graduation-gaps-racial-widened-others-narrowed.md) — a broader claim this one bears on
 - [Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent)](cps-graduation-race-gender-gaps.md) — related

@@ -41,8 +41,11 @@ Kruskal-Wallis comparison of expert-rated task performance across the three clus
 
 ## Discussion
 
-
 ## Related Claims
+
+- [GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students](gai-assisted-dst-improves-cps-skills.md) — the general claim this finding bears on, with the studies behind it
+
+- [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — the general claim this finding bears on, with the studies behind it
 - [The Concerted Interpretation group reported significantly higher self-regulation than Delegated Reasoning, with no profile differences in co-regulation or socially-shared regulation](ci-higher-self-regulation-no-coreg-differences.md) — related
 - [Semantic similarity between human and AI discourse is highest in the Delegated Reasoning profile and significantly lower in Concerted Interpretation](dr-highest-semantic-similarity-ci-lower.md) — related
 - [Cluster analysis of student-AI dialogue identifies three distinct collaboration profiles: Delegated Reasoning, Concerted Interpretation, and Delegated Elaboration](three-human-ai-cps-profiles-dr-ci-de.md) — related

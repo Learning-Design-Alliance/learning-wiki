@@ -30,7 +30,7 @@ sources:
 # Recorded natural-language feedback was associated with lower odds of subsequent persistent failure than no feedback in the randomized course subset
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r2`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` After adjustment for task, attempt count, consecutive failures, and edit fraction, the natural-language condition was associated with lower odds of persistent failure than no feedback (odds ratio = 0.234, 95% CI [0.091, 0.602]). [→ Shihao Wang 2026](#shihao-wang-2026)

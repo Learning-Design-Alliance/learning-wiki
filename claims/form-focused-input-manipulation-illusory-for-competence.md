@@ -42,8 +42,9 @@ The author's review of studies on input manipulation in adult second language ac
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — the general claim this finding bears on, with the studies behind it
 - [A 1999 conference paper reports, citing White (1991) and Schwartz and Gubala-Ryzak (1992), that explicit negative evidence on English adverb placement produced only superficial change in French learners](white-adverb-placement-negative-evidence-failed.md) — a narrower finding that bears on this claim
 - [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — a broader claim this one bears on
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related

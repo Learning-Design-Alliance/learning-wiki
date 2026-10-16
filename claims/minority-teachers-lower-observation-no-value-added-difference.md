@@ -42,6 +42,9 @@ Analysis of 2013-14 REACH scores by teacher race/ethnicity, adjusted for the sch
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Male teachers have lower observation and value-added scores than female teachers](male-teachers-lower-observation-and-value-added-scores.md) — related
 - [Minority teachers' lower observation scores are largely attributable to school characteristics, and no race/ethnicity differences appear on value-added scores](teacher-race-observation-gaps-explained-by-school-poverty.md) — possibly the same claim (merge candidate)

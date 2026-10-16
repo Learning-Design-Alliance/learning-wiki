@@ -44,6 +44,7 @@ PROCESS Model 4 mediation with 5,000 bootstrap resamples on the 276-respondent s
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [AI dependency mediates the relationship between teacher support and learning burnout](ai-dependency-mediates-teacher-support-burnout.md) — related

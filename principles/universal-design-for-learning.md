@@ -123,6 +123,11 @@ No claim in the wiki tests UDL as a framework, or compares a design with several
 
 Learners, tasks and outcomes differ across these claims (memory experiments, physics undergraduates, fifth graders, adult literacy classes), so do not rank them by effect label. None measures how many learners reach a shared criterion under a UDL-planned design.
 
+## The evidence by question
+
+- *Does adding a second representation of the same idea help, and when?* [Multiple representations improve learning](../claims/multiple-representations-improve-learning.md) [+M]
+- *Does assigning tasks or formats to match a learner's measured style improve learning more than giving every learner the same well-chosen task?* [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [+S]
+
 ## Further evidence, not yet read against this model
 
 - [Choice in retention programs is linked to retention gains, but autonomy is rarely a tested variable](../claims/choice-autonomy-rarely-tested-in-retention-programs.md) [~W] — a narrative review of college retention programmes; bears on choice only indirectly, and says autonomy is seldom tested as a variable.

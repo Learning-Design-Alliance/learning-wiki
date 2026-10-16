@@ -49,6 +49,9 @@ The article annotates each student turn with correctness and KC labels using GPT
 - [GPT-4o's correctness-labeling errors concentrate on final turns requiring numerical calculation, and its main KC-labeling error is assigning too few standards to a turn.](../claims/gpt-4o-annotation-errors-concentrate-on-final-turns-and-too-few-kcs.md) [+W]
 - [Prompting with category information or few-shot examples yields limited improvement in distribution alignment, with zero-shot closest for most models](../claims/prompting-strategies-limited-alignment-gain.md) [+W]
 
+## The evidence by question
+- *Can a large language model label whether students' responses are correct, and which skills they show, accurately enough to stand in for human annotators?* [GPT-4o's final-turn correctness labeling on CoMTA is only slightly less accurate than expert human annotators, which the authors read as close to human-level performance on a challenging task.](../claims/gpt-4o-final-turn-correctness-labeling-is-close-to-human-level.md) [+M]
+
 ## Related Elements
 - [Annotating](../principles/annotating.md)
 

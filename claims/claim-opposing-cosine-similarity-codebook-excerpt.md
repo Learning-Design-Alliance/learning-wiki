@@ -30,7 +30,7 @@ sources:
 # Cosine similarity has opposing effects on LLM coding accuracy: lower similarity within codebooks helps, higher similarity within excerpts helps
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2` · `i1` small
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Higher cosine similarity within the codebook negatively affects initial coding accuracy (effect size -0.276, p<0.0001). [→ Jeongyeon Kim and John Mitchell 2026](#jeongyeon-kim-and-john-mitchell-2026)

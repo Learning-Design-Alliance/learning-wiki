@@ -30,7 +30,7 @@ sources:
 # Students' LLM use in CS2 fell into three themes: understanding, assisting code writing, and writing code, with only a few using LLMs to write code
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 qualitative `r2`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Iterative qualitative coding of 198 Week 13 reflection responses found students' LLM usage could be categorized into three themes: used to understand, used to assist code writing, and used to write code. [→ Margaret Ellis 2026](#margaret-ellis-2026)

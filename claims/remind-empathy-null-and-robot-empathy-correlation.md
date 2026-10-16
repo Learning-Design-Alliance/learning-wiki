@@ -30,7 +30,7 @@ sources:
 # REMind did not significantly increase measured empathy, but baseline human-directed empathy correlated positively with robot-directed empathy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2` · `i3` large
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i?` Empathy scores increased by 15.7 points but the change was not statistically significant; H3(a) was not confirmed. [→ Elaheh Sanoubari 2026](#elaheh-sanoubari-2026)

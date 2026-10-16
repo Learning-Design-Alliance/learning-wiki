@@ -41,8 +41,12 @@ Model 1 of the sequential test-score regressions on the two-cohort discontinuity
 
 ## Discussion
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Between- or within-class homogeneous ability grouping has a small negative effect on low-ability primary students but no effect on other students](homogeneous-ability-grouping-negative-low-ability.md) — the general claim this finding bears on, with the studies behind it
 - [Below-norm students' algebra test scores improved despite having lower-skill peers post-policy, consistent with additional supports offsetting compositional decline](below-norm-scores-improved-despite-lower-peers.md) — related
 - [Double-dose algebra policy increased academic demand for both high- and low-skill students, with below-norm students' gains not attributable to peer ability changes](double-dose-algebra-increased-academic-demand-both-groups.md) — related
 - [Pre-policy, classroom average ability related positively to test scores but positively to failure, with effects strongest for high-ability students](pre-policy-composition-test-scores-failure-opposite.md) — related

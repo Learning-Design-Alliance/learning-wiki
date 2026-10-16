@@ -41,11 +41,12 @@ Pre/post perception measures reported in the evaluation's key findings: confiden
 
 ## Discussion
 
-
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Teacher support is the strongest predictor of school belonging](teacher-support-strongest-predictor-school-belonging.md) — the general claim this finding bears on, with the studies behind it
 - [Math tutoring programs may improve students' math confidence and sense of belonging](tutoring-may-improve-math-confidence-and-belonging.md) — a broader claim this one bears on
 - [Students completing the end-of-year survey reported favorable views of their relationships with math tutors and their sense of belonging in tutoring sessions](breakthrough-tutoring-favorable-relationships-belonging.md) — related
 - [Strong student–tutor relationships and a sense of belonging characterized tutoring programs with high attendance and positive learning effects](strong-student-tutor-relationships-key-to-tutoring-success.md) — related

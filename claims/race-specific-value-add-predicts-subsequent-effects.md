@@ -42,6 +42,9 @@ Predictive validation using teacher moves across schools or grades within Chicag
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Experienced teachers and teachers with a master's degree are highly effective overall but much less effective for Black than non-Black students](experienced-masters-teachers-less-effective-black-students.md) — related
 - [Teacher impacts on Black students' test scores vary widely, from 0.2 standard deviations in middle school English to 0.5 standard deviations in elementary school math between high- and low-effectiveness teachers](teacher-effectiveness-black-students-varies-widely.md) — related

@@ -42,6 +42,9 @@ Descriptive comparison of full-day enrollment rates across six CPS cohorts befor
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Pre-policy, the negative distance-enrollment relationship was strongest for Black students](distance-enrollment-strongest-black-students.md) — related
 - [District-wide pre-k attendance rates increased modestly (1.5 percentage points) as full-day enrollment expanded, with Black students gaining 3 percentage points](district-prek-attendance-increased-with-fullday-expansion.md) — related

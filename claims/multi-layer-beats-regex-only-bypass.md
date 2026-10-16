@@ -30,7 +30,7 @@ sources:
 # Multi-layer defense significantly reduces bypass relative to regex-only filtering (69.65% to 46.34%), confirmed by exact McNemar test
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r2`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The complete four-layer pipeline yields a lower bypass rate (46.34%) than Layer 1 regex-only filtering (69.65%), with Layer 1 alone blocking 112 of 369 injections. [→ Alexandre Cristovão Maiorano 2026](#alexandre-cristovao-maiorano-2026)

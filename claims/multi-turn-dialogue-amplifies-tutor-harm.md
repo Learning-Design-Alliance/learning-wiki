@@ -30,7 +30,7 @@ sources:
 # Multi-turn interaction amplifies pedagogical harm: mean harm rises 6-11 percentage points across subjects and pedagogical-relationship harm surges from 17.7% to 77.8%
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Averaged across models and dimensions, mean harm increases from single-turn to multi-turn by 6.16% in Physics, 6.26% in Chemistry, and 11.13% in Mathematics. [→ Rima Hazra 2026](#rima-hazra-2026)

@@ -13,7 +13,7 @@ generated:
 # Reassessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 13 studies (5 causal, 5 quant-synthesis, 1 review, 1 associational, 1 design), `q2`–`q4` · 3 of 13 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 15 studies (7 causal, 5 quant-synthesis, 1 review, 1 associational, 1 design), `q2`–`q4` · 3 of 15 report an effect size · 2 claims rest on one study
 
 ## Description
 Reassessment asks learners to revisit and revise their own answers after discussion, feedback, or additional instruction. It converts an initial response — right or wrong — into an object of reflection, making the gap between first thinking and improved thinking visible and revisable.
@@ -54,6 +54,10 @@ Reassessment leverages the testing effect a second time: the initial response fu
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Error correction supports learning when it requires substantive cognitive work such as explanation and reconstruction](../claims/error-correction-effort-supports-learning.md) [~W]
 - [Dialogue evidence shows coach feedback induces genuine conceptual change, shifting the agent from misconception to conceptually correct explanation rather than superficial answer alignment](../claims/dialogue-feedback-induces-conceptual-change.md) [+W]
+
+## The evidence by question
+- *Does discussing a committed answer with peers improve a later individual answer on a new question?* [Peer Discussion Improves Conceptual Understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M]
+- *Which errors to correct first: are errors made with high confidence corrected more durably than low-confidence ones?* [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+M]
 
 ## Related Elements
 - [Assessment](assessment.md) — the initial response is a low-stakes assessment event; reassessment is its second act

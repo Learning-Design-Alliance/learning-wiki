@@ -42,6 +42,9 @@ Quasi-experimental Deliberative Poll with a representative sample of 364 Danish 
 ## Discussion
 
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The authors argue deliberative democracy theory needs elaboration to reflect real-life politics](deliberative-democracy-theory-needs-real-life-elaboration.md) — related
 - [Mutual understanding on the euro prevailed among participants in the Danish Deliberative Poll](deliberative-poll-mutual-understanding.md) — related

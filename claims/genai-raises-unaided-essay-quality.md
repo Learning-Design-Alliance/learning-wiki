@@ -30,7 +30,7 @@ sources:
 # AI access raises unaided essay quality in both sessions, while AI-generated text detectable in Session One essays disappears by Session Two
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r3` · `q4`
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q4`
 
 ## Subclaims
 `q4 i?` Essays written during AI access score 0.34 SD higher in overall quality, and essays written unaided one week later are still 0.24 SD higher, indicating a learning channel beyond AI-generated text. [→ Zara Contractor and Germán Reyes 2026](#zara-contractor-and-german-reyes-2026)

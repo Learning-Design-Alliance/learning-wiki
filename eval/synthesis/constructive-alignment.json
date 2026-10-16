@@ -13,6 +13,30 @@
         [
           "semester-cohort-difference-hocs-exams",
           "~"
+        ],
+        [
+          "tap-identical-formats-stronger-effect",
+          "+"
+        ],
+        [
+          "practice-test-format-moderates-effect",
+          "~"
+        ],
+        [
+          "retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats",
+          "-"
+        ],
+        [
+          "less-initial-retrieval-support-produces-better-retention",
+          "-"
+        ],
+        [
+          "tap-theory-mixed-empirical-support",
+          "~"
+        ],
+        [
+          "production-vs-recognition-retrieval-practice-no-significant-difference-reading-comprehension",
+          "~"
         ]
       ]
     }

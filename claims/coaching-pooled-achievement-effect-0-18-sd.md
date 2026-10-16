@@ -61,7 +61,7 @@ Supplemental analysis restricted to the ten studies using state standardized tes
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does coaching or sustained professional development raise the achievement of the teachers' students?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **5 distinct studies** (3 review, 1 quant-synthesis, 1 causal), `q2`–`q4`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does coaching or sustained professional development raise the achievement of the teachers' students?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **6 distinct studies** (3 review, 1 quant-synthesis, 1 causal, 1 design), `q2`–`q4`, 2 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -70,6 +70,7 @@ Supplemental analysis restricted to the ten studies using state standardized tes
 | [Philip Oreopoulos 2024](https://doi.org/10.3386/w32388) | q3 · causal · r2 | i1 | [A teacher-coaching CAL program produces significant intent-to-treat gains in elementary an](cal-teacher-coaching-itt-math-gains-012-022-sd.md) (supports) |
 | [Darling-Hammond 2017](https://doi.org/10.54300/122.311) | q2 / q4 · review · r2 | i? | [Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing ](pd-coaching-expert-support-gains.md) (supports) |
 | Gall 1994 | q2 · review · r2 | i? | [Experimental staff development programs mostly raised student achievement relative to cont](experimental-staff-development-raises-student-achievement.md) (supports) |
+| Perry 2019 | q2 · design · r1 | i? | [Long Beach schools with assigned math coaches showed markedly and disproportionately risin](long-beach-coach-assigned-schools-caaspp-rose.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

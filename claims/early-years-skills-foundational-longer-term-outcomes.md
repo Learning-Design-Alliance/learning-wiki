@@ -42,6 +42,9 @@ The brief asserts, citing recent research it summarizes, that early academic and
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Attendance in preschool and kindergarten is framed as important to young learners' school success](prek-kindergarten-attendance-spells-success.md) — related
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — related

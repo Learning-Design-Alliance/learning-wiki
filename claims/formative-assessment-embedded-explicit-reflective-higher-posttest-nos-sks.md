@@ -61,6 +61,9 @@ Independent samples t-test on post-test SKS scores in the same quasi-experimenta
 
 ## Discussion
 
+## Learner Variables
+- [Epistemic Beliefs](../learner-variables/epistemic-beliefs.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — the general claim this finding bears on, with the studies behind it

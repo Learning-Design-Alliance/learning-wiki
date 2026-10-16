@@ -42,6 +42,9 @@ Background statement in the abstract establishing the construct's importance; th
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Social-emotional factors, including low academic self-efficacy and self-management, are related to rapid guessing behavior](sel-factors-related-to-rapid-guessing.md) — related
 - [High schools that foster 8th-to-9th-grade student growth across multiple dimensions positively influence students' social and academic trajectories](multidimensional-growth-schools-improve-long-run-outcomes.md) — related

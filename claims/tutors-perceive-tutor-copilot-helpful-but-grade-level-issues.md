@@ -30,7 +30,7 @@ sources:
 # Tutors perceive Tutor CoPilot as helpful for on-the-spot explanations but flag suggestions that are not grade-level appropriate and 'too smart'
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r3`, 1 qualitative `r1` · `q1`
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Treatment tutors generally found Tutor CoPilot helpful, particularly for well-phrased explanations and breaking down complex concepts on the spot. [→ Rose E. Wang 2025](#rose-e-wang-2025)

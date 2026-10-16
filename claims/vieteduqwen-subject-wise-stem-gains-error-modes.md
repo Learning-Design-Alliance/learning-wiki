@@ -30,7 +30,7 @@ sources:
 # VietEduQwen improves over its base model across all eight exam subjects, with the largest gains in STEM disciplines, and its residual errors concentrate in multi-step computation and cross-concept integration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` VietEduQwen consistently improves over Qwen3-8B across all eight subjects, with the largest gains in Mathematics, Physics, and Chemistry. [→ Thang Doan Viet 2026](#thang-doan-viet-2026)

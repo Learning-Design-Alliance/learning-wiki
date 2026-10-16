@@ -42,6 +42,9 @@ Authors' interpretation of the third-grade dip in gains in the Chicago gain comp
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Students who were promoted made larger achievement gains than students with the same propensity for retention who were retained, in almost all grades](retention-associated-smaller-gains-than-promotion-chicago.md) — a broader claim this one bears on
 - [Retained students showed smaller three-year achievement gains than previously socially promoted students, though Rasch adjustment erased the gap for once-retained third graders](retained-students-smaller-gains-than-social-promotes.md) — related

@@ -40,6 +40,9 @@ Age-group ANOVAs (Tables 5) and career-type ANOVAs (Table 6) in the 127-faculty 
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Faculty report high self-perceived knowledge in traditional TPACK domains but substantially lower self-perceived knowledge in technology-integrated GenAI domains](faculty-high-traditional-low-technology-integrated-genai-knowledge.md) — related
 - [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related

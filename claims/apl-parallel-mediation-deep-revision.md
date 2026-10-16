@@ -44,6 +44,7 @@ Specific indirect effects assessed with a 10,000-resample bootstrapping procedur
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [AI Prompting Literacy significantly positively predicts Perceived Competence, Intrinsic Motivation, and Psychological Safety among Chinese university EFL learners](apl-predicts-psychological-needs-satisfaction.md) — a narrower finding that bears on this claim

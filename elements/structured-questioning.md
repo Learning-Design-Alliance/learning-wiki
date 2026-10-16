@@ -26,7 +26,7 @@ sources:
 # Structured Questioning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 13 studies (5 causal, 3 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 13 report an effect size · 1 claim rests on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 17 studies (5 causal, 5 quant-synthesis, 4 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 2 of 17 report an effect size · 1 claim rests on one study
 
 ## Description
 Structured questioning is an instructional element in which the instructor sequences purposeful questions — moving from factual retrieval toward explanation, application, and evaluation — to guide learners through inquiry without giving answers directly. The questions function as scaffolds: each one directs attention, elicits reasoning, and prompts learners to construct and articulate understanding themselves.
@@ -67,6 +67,10 @@ Structured questioning promotes deeper processing by requiring learners to gener
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - 
+
+## The evidence by question
+- *Do teacher questions that press learners past a first answer, for explanation, justification or higher-level thinking, improve learning?* [Questioning Strategies Improve Learning](../claims/questioning-strategies-improve-learning.md) [+S]
+- *Does a longer pause after a question, before anyone answers, improve the responses that follow?* [Reviews of classroom studies, read from their abstracts, associate longer teacher wait time with longer, higher-cognitive-level student responses, with no effect size recorded](../claims/increasing-wait-time-improves-response-quality.md) [+M]
 
 ## Related Elements
 - [Socratic Questioning](socratic-questioning.md) — the disciplined, assumption-probing variant; structured questioning is the broader, more scaffolded family

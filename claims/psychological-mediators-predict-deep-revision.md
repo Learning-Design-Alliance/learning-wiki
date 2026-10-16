@@ -41,11 +41,13 @@ In the same PLS-SEM structural model (N = 327), Perceived Competence was also a 
 
 ## Discussion
 
-
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Diagnostic Review revisions contained larger shares of meaning-change, organization, and content/argument work, while Control revisions remained more dependent on surface-level editing](revision-architecture-meaning-change-versus-surface.md) — the general claim this finding bears on, with the studies behind it
 - [AI Prompting Literacy is indirectly and significantly associated with Deep Revision Engagement through Perceived Competence, Intrinsic Motivation, and Psychological Safety](apl-parallel-mediation-deep-revision.md) — a broader claim this one bears on
 - [AI Prompting Literacy significantly positively predicts Perceived Competence, Intrinsic Motivation, and Psychological Safety among Chinese university EFL learners](apl-predicts-psychological-needs-satisfaction.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on

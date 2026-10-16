@@ -41,8 +41,9 @@ Observational analysis of MAP Growth scores (fall, winter, spring) for a kinderg
 
 ## Discussion
 
-
 ## Related Claims
+
+- [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](el-lag-limited-academic-content-exposure.md) — the general claim this finding bears on, with the studies behind it
 - [Dually-identified EL/SPED students had the lowest scores with gaps widening over time, driven by larger summer loss](dually-identified-lowest-scores-widening-gaps.md) — related
 - [Dually-identified students make smaller gains than the all-student average across all grades in math and in kindergarten and 1st grade in reading](dually-identified-smaller-gains.md) — related
 - [In math, EL groups grew more than never-ELs during academic years but lost more during summers](el-math-faster-year-growth-higher-summer-loss.md) — related

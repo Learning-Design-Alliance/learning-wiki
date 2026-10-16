@@ -18,7 +18,7 @@ sources:
 # Adaptive Difficulty
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 4 studies (3 design, 1 theoretical), `q1`–`q2` · 0 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (3 for, 3 mixed) · 7 studies (3 design, 2 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 7 report an effect size · 5 claims rest on one study
 
 ## Description
 Adaptive difficulty adjusts task challenge in response to learner performance so work remains demanding enough to promote growth without becoming discouraging or trivial.
@@ -57,6 +57,11 @@ Adaptive difficulty adjusts task challenge in response to learner performance so
 - [Case study shows tutor scaffolding lowers estimated task difficulty after errors while student ability rises steadily](../claims/case-study-scaffolding-lowers-difficulty-ability-rises.md) [+W]
 - [A proposed effort-guided adaptive test alleviates item difficulty mistargeting caused by unmotivated test taking, as shown by simulation](../claims/effort-guided-adaptive-test-alleviates-mistargeting.md) [~W]
 - [Performance is best at moderate difficulty granularity and a limited recent window for domain transitions](../claims/moderate-difficulty-granularity-window-optimal.md) [~W]
+
+## The evidence by question
+
+- *Does adaptive instruction raise achievement over non-individualised instruction or the same content in a fixed sequence?* [Intelligent tutoring systems improve achievement over non-individualised instruction](../claims/adaptive-learning-improves-outcomes.md) [+S]
+- *Does raising the challenge of tasks help learners only when support comes with it?* [Instruction must be challenging for learning gains, but raising challenge without classroom control and student support harms grades and engagement](../claims/challenge-requires-control-and-support.md) [+M]
 
 ## Related Elements
 - [Adaptive Mastery Learning](adaptive-mastery-learning.md)

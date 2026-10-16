@@ -44,6 +44,7 @@ Key finding from the Consortium report on YOUmedia Chicago. The report states th
 
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
 
 ## Related Claims
 - [YOUmedia attracts between 350 and 500 teens weekly, with African American males the largest single demographic group](youmedia-attracts-350-500-teens-weekly.md) — related

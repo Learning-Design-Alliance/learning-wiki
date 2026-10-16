@@ -22,7 +22,7 @@ sources:
 # Phonological Awareness Training practice (rhyme detection, blending, and segmentation activities for young children)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 11 claims (7 for, 4 mixed) · 3 studies (2 causal, 1 quant-synthesis), `q2`–`q4` · 1 of 3 report an effect size · 11 claims rest on one study
 
 ## Description
 Phonological Awareness Training is a general practice aimed at enhancing young children's phonological awareness, defined as "the ability to detect or manipulate the sounds in words independent of meaning." It can involve activities teaching children to "identify, detect, delete, segment, or blend segments of spoken words" or to detect, identify, or produce rhyme or alliteration. Practices can be used by teachers with individual children, in pairs, or in small groups, generally as a supplement to the regular classroom curriculum. No single developer exists; the interventions in the reviewed studies were developed by the study authors.

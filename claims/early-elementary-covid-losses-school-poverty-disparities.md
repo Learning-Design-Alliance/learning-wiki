@@ -41,11 +41,12 @@ Figure 3 disaggregates percentile rank changes by school poverty level, with "hi
 
 ## Discussion
 
-
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Children from low-SES families were more negatively affected by COVID-19 school closures than children from high-SES families](covid-closures-low-ses-students-more-affected.md) — the general claim this finding bears on, with the studies behind it
 - [Achievement declines from 2019 to 2022 were smaller for Asian American and White first and second graders than for Hispanic, Black, and AIAN students](early-elementary-covid-losses-racial-ethnic-disparities.md) — related
 - [American Indian and Alaska Native, Black, and Latinx students and students in high-poverty schools were disproportionately impacted by pandemic-era achievement declines, particularly in elementary grades](covid-2020-21-disproportionate-impacts-racialized-high-poverty.md) — a broader claim this one bears on
 - [First- and second-grade spring 2022 achievement in reading and math was lower than spring 2019 prepandemic achievement](early-elementary-spring-2022-achievement-below-2019.md) — related

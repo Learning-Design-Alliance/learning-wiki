@@ -61,6 +61,9 @@ Regression analysis from the mediation models (Table 2), controlling for daily A
 ## Discussion
 
 
+## Learner Variables
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [AI anxiety is negatively associated with emotion regulation among university students](ai-anxiety-negatively-associated-emotion-regulation.md) — related
 - [Emotion regulation is positively associated with academic motivation among university students](emotion-regulation-positively-associated-academic-motivation.md) — related

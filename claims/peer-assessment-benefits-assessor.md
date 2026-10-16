@@ -60,6 +60,19 @@ Li, L., Liu, X., & Steckelberg, A. L. (2010). Assessor or assessee: How student 
 
 Forty-three undergraduate teacher-education students completed a technology-application project, anonymously rated and commented on two randomly assigned peers' projects, then revised their own project based on the feedback they received; two independent raters blindly scored initial and final projects. Controlling for initial project quality, the quality of feedback a student *gave* to peers significantly predicted the quality of that student's own final project, while the quality of feedback a student *received* did not significantly predict it. The authors interpret this as support for a prior claim that active engagement in reviewing peers' projects may facilitate learning. Because the relationship is correlational, students who write better feedback may also be students who revise better, so the finding does not show that the assessor role itself causes the improvement.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does the learner doing the assessing learn from it, as well as the learner being assessed?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (2 theoretical, 1 quant-synthesis, 1 associational), `q1`–`q4`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Li et al. 2020](https://doi.org/10.1080/02602938.2019.1620679) | q4 · quant-synthesis · r? | i1 · small effect, d=0.291 | this claim |
+| [Li et al. 2010](https://doi.org/10.1111/j.1467-8535.2009.00968.x) | q2 · associational · r2 | i? | this claim |
+| [David Carless & David Boud 2018](https://doi.org/10.1080/02602938.2018.1463354) | q2 · theoretical · r2 | i? | [Providing peer feedback can be more beneficial than receiving it because it is more cognit](providing-peer-feedback-more-cognitively-engaging.md) (supports) |
+| [William J. Rothwell 2026](https://doi.org/10.46787/ijaipil.v2i1.8053) | q1 · theoretical · r2 | i? | [Proposition 2: mutual evaluation emphasizing reasons and responsive comparison will improv](proposition-2-mutual-evaluation-improves-judgment.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Why assessing might benefit the assessor.** Reviewing a peer's work requires the assessor to internalize quality criteria, compare the work against an internal standard, and articulate a judgment — activities that plausibly promote elaboration and criterion knowledge. Because the reviewer must diagnose *why* a piece of work succeeds or fails, the activity resembles self-explanation applied to someone else's product, and may expose gaps in the reviewer's own understanding that reviewing one's own work would not. This aligns with the broader logic of [Assessment for Learning](../principles/assessment-for-learning.md), where the evaluative act itself drives learning, and with claims that [assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md).

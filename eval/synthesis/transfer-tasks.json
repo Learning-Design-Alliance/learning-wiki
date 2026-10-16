@@ -1,0 +1,74 @@
+{
+  "principle": "elements/transfer-tasks",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "encoding-variability-decontextualization-transfer",
+      "question": "Does learning across varied contexts or varied tasks of a type, rather than repeating one, produce transfer to new cases?",
+      "members": [
+        [
+          "comparing-contrasting-cases-improves-learning",
+          "+"
+        ],
+        [
+          "cognitive-flexibility-theory-multiple-cases",
+          "+"
+        ],
+        [
+          "task-variety-enables-transfer-same-task-type",
+          "+"
+        ],
+        [
+          "multiple-contexts-generalization-transfer",
+          "+"
+        ],
+        [
+          "task-repetition-fluency-complexity-same-task-only",
+          "+"
+        ],
+        [
+          "interleaving-transfer-benefit-meta-analysis",
+          "+"
+        ],
+        [
+          "example-variability-interaction-with-cognitive-load",
+          "~"
+        ],
+        [
+          "variability-effect-format-interaction",
+          "~"
+        ],
+        [
+          "environmental-context-variability-improves-recall",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "learning-techniques-smaller-effects-on-deep-learning-and-far-transfer",
+      "question": "Does instruction that raises near transfer also raise far transfer to a different domain or form?",
+      "members": [
+        [
+          "far-transfer-floor-effect-and-equal-time",
+          "+"
+        ],
+        [
+          "germane-load-gains-limited-to-identical-and-near-transfer-problems",
+          "+"
+        ],
+        [
+          "simulation-near-transfer-robust-far-transfer-weak",
+          "+"
+        ],
+        [
+          "self-explanation-far-transfer-geometry-classroom",
+          "-"
+        ],
+        [
+          "transfer-greatest-test-formats-application-inference-medical-mediator-cues",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

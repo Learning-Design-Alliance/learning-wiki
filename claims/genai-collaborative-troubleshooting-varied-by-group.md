@@ -41,8 +41,11 @@ Descriptive observation of group interaction noted high student interaction in b
 
 ## Discussion
 
-
 ## Related Claims
+
+- [GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students](gai-assisted-dst-improves-cps-skills.md) — the general claim this finding bears on, with the studies behind it
+
+- [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — the general claim this finding bears on, with the studies behind it
 - [Students treated the genAI avatar as a sophisticated question base rather than a virtual patient, using predominantly closed-ended, efficiency-focused questioning](genai-avatar-treated-as-question-base.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [GenAI tutorials took longer than ePBLM tutorials, with approximately 10 additional minutes spent on history-taking](genai-history-taking-longer-tutorial-time.md) — related

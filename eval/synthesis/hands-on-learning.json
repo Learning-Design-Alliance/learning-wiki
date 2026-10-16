@@ -1,0 +1,66 @@
+{
+  "principle": "elements/hands-on-learning",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "manipulatives-improve-math-learning",
+      "question": "Does a concrete stage help at all over abstract symbols alone?",
+      "members": [
+        [
+          "physical-experience-enhances-science-learning",
+          "+"
+        ],
+        [
+          "abstract-concrete-representation-no-difference",
+          "~"
+        ],
+        [
+          "simulation-advantage-immediate-not-sustained",
+          "~"
+        ],
+        [
+          "hands-on-forms-different-feedback-sources",
+          "~"
+        ],
+        [
+          "owl-game-body-based-experience-needed-for-solids",
+          "+"
+        ],
+        [
+          "real-world-simulations-embodiment-affordances",
+          "+"
+        ],
+        [
+          "amsti-inquiry-science-higher-reading-achievement",
+          "+"
+        ],
+        [
+          "ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "material-choice-shapes-conceptual-learning-and-participation",
+      "question": "Does the choice of physical materials for a hands-on task change what learners come to understand and who takes part?",
+      "members": [
+        [
+          "fiber-crafting-develops-proportional-reasoning-through-unitizing",
+          "+"
+        ],
+        [
+          "material-artifact-stability-stabilizes-thinking",
+          "+"
+        ],
+        [
+          "material-arrangement-affords-stability",
+          "+"
+        ],
+        [
+          "identity-centered-making-supports-stem-engagement-and-identity-affirmation",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

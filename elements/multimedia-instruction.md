@@ -50,6 +50,12 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Spoken–written advantages are larger for retention outcomes and multiple-choice test formats than for transfer or mixed formats](../claims/outcome-constructs-test-formats-moderate-redundancy.md) [~W]
 - [Verbal redundancy (spoken–written presentation) yields a small overall learning benefit with large between-study heterogeneity](../claims/verbal-redundancy-small-overall-effect.md) [~W]
 
+## The evidence by question
+- *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]
+- *Should words sit next to, and arrive with, the picture they describe?* [Split Attention Effect Degrades Learning](../claims/split-attention-effect-degrades-learning.md) [+M]
+- *Should the words be spoken or printed?* [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](../claims/modality-effect-narration-over-text.md) [+S]
+- *Does presenting the same words twice (spoken and written) hurt or help, and for whom?* [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](../claims/redundancy-hurts-learning.md) [~S]
+
 ## Related Elements
 - [Multimedia Learning](multimedia-learning.md)
 - [Direct Instruction](direct-instruction.md)

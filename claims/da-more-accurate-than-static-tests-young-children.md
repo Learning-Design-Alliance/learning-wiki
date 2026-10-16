@@ -39,6 +39,18 @@ The review's synthesis of DA research with clinical and educational groups repor
 
 > "DA has been applied with different clinical and educational groups and was found to be more accurate in reflecting children's learning potential than static tests, especially with minority and learning disabled children."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does assessing what a learner can do with mediation (dynamic assessment of the zone of proximal development) reveal more than a static test?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **3 distinct studies** (1 review, 1 theoretical, 1 qualitative), `q1`–`q2`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Tzuriel 2000](https://doi.org/10.1023/a:1009032414088) | q1 / q2 · review · r? | i? | this claim; [The mediational strategy is reported as more effective than other intervention approaches ](mediational-strategy-more-effective-than-graduated-prompt.md) (qualifies); [Dynamic assessment is useful for assessing outcome effects of cognitive education programs](da-assesses-cognitive-education-program-outcomes.md) (supports); [Open issues for dynamic assessment include cost-effectiveness, training, reliability and v](da-open-issues-cost-training-reliability-validity.md) (qualifies) |
+| Seng 1997 | q1 · theoretical · r2 | i? | [Static individual assessment misses developing functions; ZPD-based assessment reveals pot](static-assessment-misses-emerging-functions.md) (supports) |
+| Ebadi 2016 | q2 · qualitative · r2 | i? | [Learners placed at the same CEFR level by DIALANG differ in their ZPDs, which DIALANG's no](dialang-cefr-levels-miss-zpd-differences.md) (supports); [Learners at the same proficiency level differ in responsiveness to mediation, with Sarah n](learners-differ-in-mediation-responsiveness.md) (supports); [Interactionist DA mediation in SCMC reveals learners' microgenetic movement through intern](scmc-da-mediation-reveals-microgenetic-development.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

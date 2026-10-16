@@ -1,0 +1,120 @@
+{
+  "principle": "learner-variables/general-cognitive-ability",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "cognitive-ability-predicts-secondary-gpa-more-than-curiosity",
+      "question": "Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?",
+      "members": [
+        [
+          "no-significant-predictors-tertiary-gpa",
+          "~"
+        ],
+        [
+          "cognitive-skills-correlate-with-vibe-coding-and-predictors",
+          "+"
+        ],
+        [
+          "cluster-profiles-dominated-by-overall-ability",
+          "+"
+        ],
+        [
+          "lctsr-prescore-correlates-content-gains-theoretical-strongest",
+          "+"
+        ],
+        [
+          "few-adult-immigrants-match-child-range-gjt-verbal-analytical-ability",
+          "+"
+        ],
+        [
+          "teacher-reports-add-power-beyond-iq",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "learning-techniques-benefit-low-ability-not-high-ability-students",
+      "question": "Do structured techniques and guidance help lower-ability learners more than higher-ability ones, narrowing the gap?",
+      "members": [
+        [
+          "mastery-learning-effects-larger-for-lower-aptitude-students",
+          "+"
+        ],
+        [
+          "fluency-formula-fluency-effects-differ-by-initial-ability",
+          "+"
+        ],
+        [
+          "advance-organizers-improve-learning",
+          "-"
+        ],
+        [
+          "ability-moderates-hierarchical-organization-benefit",
+          "-"
+        ],
+        [
+          "high-structure-reduces-failure-intro-biology",
+          "~"
+        ],
+        [
+          "expertise-reversal-fits-ati-patterns",
+          "~"
+        ],
+        [
+          "circ-qed-subgroups-null",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "homogeneous-ability-grouping-negative-low-ability",
+      "question": "Does sorting learners into classes or groups by ability help them, and which learners gain or lose?",
+      "members": [
+        [
+          "sorting-opposite-effects-grades-vs-test-scores",
+          "~"
+        ],
+        [
+          "sorting-raises-test-scores-via-high-skill-gains",
+          "~"
+        ],
+        [
+          "sorting-puts-low-skilled-in-disruptive-classrooms",
+          "+"
+        ],
+        [
+          "double-dose-concentrated-behavioral-problems",
+          "+"
+        ],
+        [
+          "double-dose-failure-rates-divergent",
+          "~"
+        ],
+        [
+          "above-norm-score-gains-peer-ability-spillover",
+          "~"
+        ],
+        [
+          "below-norm-score-gains-composition-null-post-policy",
+          "~"
+        ],
+        [
+          "pre-policy-composition-test-scores-failure-opposite",
+          "~"
+        ],
+        [
+          "sorting-effect-comparable-to-curriculum-content",
+          "~"
+        ],
+        [
+          "hillsdale-detracking-enrollment-performance",
+          "+"
+        ],
+        [
+          "differentiating-above-grade-level-second-grade-achievement",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

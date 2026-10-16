@@ -60,8 +60,11 @@ Reflection stage of the same narrative inquiry. Both designers "were not very sa
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — the general claim this finding bears on, with the studies behind it
+
+- [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — the general claim this finding bears on, with the studies behind it
 - In one narrative inquiry, boundary crossing collaboration between a mathematics education researcher and an informal educator created a space for a new understanding of mathematics as normal human practice — related
 - Expanding the quilt task into an integrated STEM project was judged by its two designers to give students multiple entry points and to feel fun rather than too school-like — reports the opposite
 - [A dynamic geometry model of the quilt problem helped an informal educator understand its spatial relations](geometry-software-model-helped-informal-educator-understand-spatial-relations.md) — related

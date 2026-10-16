@@ -41,8 +41,9 @@ Outcome measures from the RCT comparing GPT-feedback-supported and traditional-f
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Meta-reviews reach contradictory conclusions on whether AI reliance harms or helps critical thinking, with substantial design limitations limiting generalizability](contradictory-meta-reviews-ai-critical-thinking.md) — the general claim this finding bears on, with the studies behind it
 - [GCLA use enhances higher-order thinking skills—critical thinking, problem-solving, and creativity—compared with traditional ChatGPT use](gcla-improves-hots.md) — related
 - [Gen-AI's effect on HOT is strongest for problem-solving ability (g = 0.745), followed by critical thinking (g = 0.691), with a smaller effect on creativity (g = 0.444)](genai-hot-dimension-effect-sizes.md) — possibly the same claim (merge candidate)
 - [The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills](ai-ibi-mainly-supports-creativity-and-affect.md) — reports the opposite

@@ -41,11 +41,12 @@ Session-level regression analysis (Table 2) on the 711-student iReady sample: to
 
 ## Discussion
 
-
 ## Learner Variables
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Thoughtfully designed expanded learning time and opportunities are associated with positive academic and nonacademic outcomes, with the best-designed studies showing the strongest effects](expanded-learning-time-positive-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Delayed start during math practice predicts standardized math test performance (β=-.07 SD, p=.02)](delayed-start-predicts-math-outcomes.md) — related
 - [Classroom-relativized delayed start shows stronger predictive power and model fit than raw minutes, especially for ELA outcomes](relative-delayed-start-stronger-fit.md) — related
 - [Delayed start during math practice predicts standardized ELA test performance (β=.10 SD, p<.001)](delayed-start-math-predicts-ela-outcomes.md) — related

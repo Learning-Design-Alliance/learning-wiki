@@ -42,6 +42,9 @@ Disaggregated PAI analysis (Figure 2, Table A.2): Asian/Pacific Islander young w
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Attainment indices vary sharply by race/ethnicity and gender: Black young men face a projected PAI of 12.6 percent versus 62.0 percent for Asian/Pacific Islander young women](cps-2019-attainment-indices-race-gender-disparities.md) — related
 - [If current rates hold, 27 percent of current CPS ninth-graders will complete any college credential within 10 years (2019 PAI)](cps-2019-pai-27-percent-any-credential.md) — related

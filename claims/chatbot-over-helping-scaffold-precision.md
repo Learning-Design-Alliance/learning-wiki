@@ -30,7 +30,7 @@ sources:
 # The chatbot often provided more scaffold types than requested, and supplying classified question scope to the chatbot raised scaffold precision above .60
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Study 1, scaffold precision was low: in approximately two-thirds of cases the chatbot provided more scaffold types than were asked. [→ Hyoungwook Jin 2026](#hyoungwook-jin-2026)

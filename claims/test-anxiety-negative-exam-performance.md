@@ -42,11 +42,11 @@ Multi-level model of exam grades with student and course as random factors and t
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does anxiety about the end-point test lower the scores it records, and do the test's conditions change that?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **6 distinct studies** (2 quant-synthesis, 2 causal, 1 associational, 1 review), `q2`–`q4`, 3 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does anxiety about the end-point test lower the scores it records, and do the test's conditions change that?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **6 distinct studies** (2 quant-synthesis, 2 causal, 1 associational, 1 review), `q2`–`q4`, 3 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Conijn 2022](https://doi.org/10.1111/jcal.12651) | q2 · associational · r2 | i? | this claim; [Online and proctored online exams increase students' test anxiety compared with on-campus ](proctored-online-exams-increase-test-anxiety.md) (qualifies) |
+| [Conijn 2022](https://doi.org/10.1111/jcal.12651) | q2 · associational · r2 | i? | this claim; [Online and proctored online exams increase students' test anxiety compared with on-campus ](proctored-online-exams-increase-test-anxiety.md) (qualifies); [Lack of study space and financial issues are associated with higher test anxiety in online](contextual-factors-increase-test-anxiety.md) (qualifies); [Proctored online exams show no effect on students' exam performance](proctoring-no-effect-exam-performance.md) (qualifies); [Familiarity with online and proctored exams, approximated by exam quartile, shows no effec](familiarity-no-effect-test-anxiety.md) (qualifies) |
 | [Barroso et al. 2021](https://doi.org/10.1037/bul0000307) | q3 · quant-synthesis · r2 | i2 · medium effect, r=-.28 | [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28)](math-anxiety-degrades-performance.md) (supports) |
 | [Ramirez and Beilock 2011](https://doi.org/10.1126/science.1199427) | q3 · causal · r2 | i2 · medium effect, d=0.57 | [Brief expressive writing before an exam can raise test-anxious students' scores, but acros](expressive-writing-improves-exam-performance.md) (qualifies) |
 | [O'Meara and Lovett 2026](https://doi.org/10.1080/10615806.2025.2552857) | q4 · quant-synthesis · r3 | i0 · negligible effect, r=.06 (n.s.) on performance after outlier removal; r=−.05/−.10 on anxiety | [Brief expressive writing before an exam can raise test-anxious students' scores, but acros](expressive-writing-improves-exam-performance.md) (qualifies) |
@@ -59,6 +59,7 @@ Multi-level model of exam grades with student and course as random factors and t
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — predictor: learners who differ on it differ in outcomes
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Online and proctored online exams increase students' test anxiety compared with on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — related

@@ -58,6 +58,19 @@ Study of 15 non-native English speaking EFL learners using AI dialogue systems f
 
 > "It reveals that the main difficulty arises from the lack of comprehensive explanations accompanying AI-generated paraphrases. This deficiency makes it challenging for learners to grasp the context and verify the accuracy of the reformulated content."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*When learners make decisions with AI support, does the support erode their own judgement, and do reflection prompts protect it?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **4 distinct studies** (1 review, 1 causal, 1 theoretical, 1 design), `q1`–`q3`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Chunpeng Zhai 2024](https://doi.org/10.1186/s40561-024-00316-7) | q2 · review · r2 | i? | this claim; [Over-reliance on AI dialogue systems reduces students' critical and analytical thinking sk](overreliance-ai-dialogue-reduces-critical-analytical-thinking.md) (supports) |
+| [Ren S 2026](https://doi.org/10.3389/fpsyg.2026.1926110) | q3 · causal · r2 | i2 | [Open ChatGPT support increases college students' final decision confidence relative to ind](chatgpt-support-increases-final-confidence.md) (supports) |
+| [Sander de Jong 2026](https://doi.org/10.48550/arxiv.2609.27726) | q1 · theoretical · r2 | i? | [Reflective strategies such as cognitive forcing, pre-commitment, and uncertainty communica](reflective-strategies-short-term-only-evidence.md) (qualifies) |
+| [Rajan Kadel 2026](https://doi.org/10.48550/arxiv.2609.03413) | q2 · design · r1 | i? | [Conflict with a machine-learning decision support system's output induces deeper reflectio](conflict-seed-induces-deeper-reflection.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

@@ -42,6 +42,9 @@ Experimental data with many groups and "links between individuals' attitudes and
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Deliberation produces a substantial gender gap in voice and authority](deliberation-substantial-gender-gap-voice-authority.md) — related
 - [Women's descriptive representation in deliberation interacts with decision rule rather than uniformly increasing voice and authority](descriptive-representation-conditional-voice-authority.md) — related

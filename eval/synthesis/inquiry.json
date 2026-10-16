@@ -12,22 +12,34 @@
         ],
         [
           "scripted-personal-inquiry-associated-with-inquiry-knowledge-gains",
-          "+"
-        ],
-        [
-          "ai-assisted-inquiry-largest-decision-making-gains-climate",
           "~"
         ],
         [
           "amsti-inquiry-science-higher-reading-achievement",
-          "~"
+          "+"
         ],
         [
           "deeper-learning-math-inquiry-reduces-disparities",
-          "~"
+          "+"
         ],
         [
           "inquiry-benefits-low-income-equity-tension",
+          "~"
+        ],
+        [
+          "ai-assisted-inquiry-largest-decision-making-gains-climate",
+          "+"
+        ],
+        [
+          "inquiry-based-stem-activities-enhance-problem-solving-reported",
+          "+"
+        ],
+        [
+          "chatgpt-steam-ibl-learner-advantages",
+          "+"
+        ],
+        [
+          "ai-ibi-mainly-supports-creativity-and-affect",
           "~"
         ],
         [
@@ -45,12 +57,8 @@
       "question": "Does adding guidance to inquiry improve what learners learn, and does the kind of guidance matter?",
       "members": [
         [
-          "simulation-guidance-moderate-effect-dangelo",
+          "hh-guidance-beats-ll-cvs-children",
           "+"
-        ],
-        [
-          "pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction",
-          "~"
         ],
         [
           "guidance-improves-inquiry-performance-success",
@@ -61,12 +69,56 @@
           "+"
         ],
         [
+          "unscaffolded-problem-solving-exploratory-hypotheses-versus-failures",
+          "~"
+        ],
+        [
+          "mercury-case-hypothesis-discarding-limit",
+          "~"
+        ],
+        [
+          "simulation-guidance-moderate-effect-dangelo",
+          "+"
+        ],
+        [
           "teacher-guided-inquiry-larger-effects",
           "+"
         ],
         [
           "teacher-guided-inquiry-outperforms-student-led",
           "+"
+        ],
+        [
+          "pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction",
+          "~"
+        ],
+        [
+          "mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning",
+          "+"
+        ],
+        [
+          "guided-discovery-outperformed-both-extremes",
+          "+"
+        ],
+        [
+          "minimal-guidance-inquiry-inferior-explicit-instruction",
+          "+"
+        ],
+        [
+          "enhanced-discovery-beats-other-instruction",
+          "+"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "~"
+        ],
+        [
+          "guided-inquiry-computational-model-overcomes-amplitude-misconception",
+          "~"
+        ],
+        [
+          "students-criticize-inquiry-worksheets-low-thinking",
+          "~"
         ]
       ]
     },
@@ -79,12 +131,8 @@
           "+"
         ],
         [
-          "age-moderates-discovery-effects",
-          "~"
-        ],
-        [
-          "guidance-advantage-recedes-with-high-prior-knowledge",
-          "~"
+          "guided-discovery-outperformed-both-extremes",
+          "+"
         ],
         [
           "minimal-guidance-inquiry-inferior-explicit-instruction",
@@ -95,8 +143,44 @@
           "+"
         ],
         [
-          "guided-discovery-outperformed-both-extremes",
+          "minimally-guided-instruction-less-effective-than-strong-guidance",
           "+"
+        ],
+        [
+          "minimally-guided-approaches-ignore-cognitive-architecture",
+          "+"
+        ],
+        [
+          "contingent-scaffolding-improves-learning",
+          "+"
+        ],
+        [
+          "taiwan-constructivist-math-reform-stopped-2003",
+          "+"
+        ],
+        [
+          "age-moderates-discovery-effects",
+          "~"
+        ],
+        [
+          "domain-moderates-unassisted-discovery-deficit",
+          "~"
+        ],
+        [
+          "dependent-measure-moderates-discovery-effects",
+          "~"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "~"
+        ],
+        [
+          "expertise-reversal-effect",
+          "~"
+        ],
+        [
+          "balance-active-learning-independent-practice-gateway-math",
+          "~"
         ],
         [
           "project-based-context-highest-scaffolding-effect",
@@ -115,36 +199,12 @@
           "~"
         ],
         [
-          "balance-active-learning-independent-practice-gateway-math",
-          "~"
-        ],
-        [
-          "minimally-guided-instruction-less-effective-than-strong-guidance",
-          "+"
-        ],
-        [
-          "minimally-guided-approaches-ignore-cognitive-architecture",
-          "+"
-        ],
-        [
           "worked-examples-reduce-novice-search",
-          "+"
-        ],
-        [
-          "contingent-scaffolding-improves-learning",
           "+"
         ],
         [
           "recent-design-models-support-guidance-during-instruction",
           "+"
-        ],
-        [
-          "domain-moderates-unassisted-discovery-deficit",
-          "~"
-        ],
-        [
-          "dependent-measure-moderates-discovery-effects",
-          "~"
         ],
         [
           "explicit-instruction-context-dependent-synthesis",
@@ -163,10 +223,6 @@
           "~"
         ],
         [
-          "expertise-reversal-effect",
-          "~"
-        ],
-        [
           "koku-qualitative-acceptability-themes",
           "+"
         ],
@@ -177,6 +233,34 @@
         [
           "community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object",
           "+"
+        ],
+        [
+          "worked-examples-with-practice-improve-transfer",
+          "+"
+        ],
+        [
+          "worked-examples-less-effective-with-expertise",
+          "~"
+        ],
+        [
+          "oet-outperforms-stt-ai-literacy-performance",
+          "~"
+        ],
+        [
+          "psi-effect-increases-with-grade-level",
+          "~"
+        ],
+        [
+          "simulation-guidance-moderate-effect-dangelo",
+          "+"
+        ],
+        [
+          "worked-example-problem-sequences",
+          "+"
+        ],
+        [
+          "agent-enacted-conflict-shifts-design-thinking",
+          "-"
         ]
       ]
     },

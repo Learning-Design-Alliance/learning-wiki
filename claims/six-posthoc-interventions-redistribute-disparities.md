@@ -41,8 +41,9 @@ The article's abstract reports the headline outcome of its comparative evaluatio
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Both prior performance flags and the machine learning algorithm are less accurate when predicting outcomes for students who are Black](ews-and-algorithm-less-accurate-black-students.md) — the general claim this finding bears on, with the studies behind it
 - [Two of six evaluated interventions directed corrections toward already-advantaged groups because disadvantage was operationalized using group size](group-size-disadvantage-favors-advantaged-groups.md) — related
 - [When demographic groups have different base rates, no method can satisfy calibration, equalized odds, and statistical parity simultaneously](impossibility-fairness-metrics-base-rates.md) — a broader claim this one bears on
 - [Preprocessing bias mitigation (DIR, RW, SUP) reduced subgroup disparities in TPR on OULAD, with effectiveness varying by demographic attribute](preprocessing-mitigation-reduces-disparities-oulad.md) — related

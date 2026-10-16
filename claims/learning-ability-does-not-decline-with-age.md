@@ -40,8 +40,25 @@ The digest reports, citing Ostwald and Williams, studies on aging showing that "
 
 > "Studies on aging have demonstrated that learning ability does not decline with age. If older people remain healthy, their intellectual abilities and skills do not decline"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Can older learners learn a new language as well as younger ones, and what teaching suits them?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **5 distinct studies** (4 review, 1 design), `q1`–`q2`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Schleppegrell 1987 | q2 · review · r1 | i? | this claim; [Adults learn languages more quickly than children in the early stages of second language a](adults-faster-early-stage-language-learning.md) (supports); [Common language teaching methods such as oral drills, memorization, and fast-paced competi](rote-drills-disadvantage-older-learners.md) (qualifies) |
+| Grognet 1997 | q1 · review · r1 | i? | [A practitioner digest asserts, without cited studies, that no research evidence suggests o](no-evidence-older-adults-cannot-learn-language.md) (supports) |
+| Florez 1998 | q2 · review · r2 | i? | [Adult learners generally find pronunciation more difficult than children and are unlikely ](adults-find-pronunciation-harder-than-children.md) (qualifies) |
+| [Roessingh 2006](https://doi.org/10.18806/tesl.v23i2.57) | q1 · review · r1 | i? | [Older-arriving ESL learners transfer L1 knowledge efficiently, but learning slows once the](l1-transfer-efficient-until-outgrown.md) (qualifies) |
+| [Weintraub 2025](https://doi.org/10.35847/lweintraub.7.1.37) | q1 · design · r2 | i? | [Federally-funded adult ESL programs and citizenship classes largely exclude older beginner](older-beginners-excluded-from-standard-adl-esl.md) (qualifies); [Instructional modifications that lower barriers are optional supports for younger resilien](modifications-essential-for-vulnerable-learners.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
+
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [A practitioner digest asserts, without cited studies, that no research evidence suggests older adults cannot succeed in learning another language](no-evidence-older-adults-cannot-learn-language.md) — possibly the same claim (merge candidate)

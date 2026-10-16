@@ -80,7 +80,7 @@ The authors apply Clark's and Levie & Dickie's critiques directly to early-2000s
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **9 distinct studies** (4 theoretical, 3 causal, 2 review), `q2`–`q3`, 1 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* This table gathers the studies behind this claim and the 15 narrower claims that bear on it: **15 distinct studies** (6 quant-synthesis, 4 theoretical, 3 causal, 2 review), `q2`–`q3`, 4 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -91,8 +91,14 @@ The authors apply Clark's and Levie & Dickie's critiques directly to early-2000s
 | Martin 2003 | q3 · causal · r2 | i? | [In one experiment with 256 undergraduates, computer-based lesson versions that included pr](practice-presence-raises-cbi-posttest-achievement.md) (supports) |
 | [Slezak 2011](https://doi.org/10.48550/arxiv.1110.0050) | q2 · causal · r2 | i? | [The computer-based implementation showed no significant difference from individual paper-b](computer-based-no-better-than-individual-paper.md) (supports); [A computer-based implementation of the tutorial yields the lowest post-test scores, statis](computer-based-tutorial-implementation-lowest-posttest.md) (qualifies) |
 | Gilbert 1999 | q2 · theoretical · r3 | i? | [A tool's effectiveness results from the whole configuration of events, activities, and con](tool-effectiveness-depends-on-context-configuration.md) (supports) |
-| Brewe 2007 | q2 · causal · r1 | i? | [The authors of one physics-course study attribute its technology-supported gains to the st](lab-technology-gains-depend-on-active-engagement-pedagogy.md) (supports) |
+| [Brewe 2007](https://doi.org/10.48550/arxiv.0709.2738) | q2 · causal · r1 | i? | [The authors of one physics-course study attribute its technology-supported gains to the st](lab-technology-gains-depend-on-active-engagement-pedagogy.md) (supports) |
 | [Jaeseok Yang 2013](https://doi.org/10.5539/elt.v6n7p19) | q2 · review · r2 | i? | [In one 30-student study of high-school English learners (Lu 2008, reported in a review), v](sms-vocabulary-learning-beats-paper-materials.md) (qualifies) |
+| [Dorris 2024](https://doi.org/10.1002/cl2.1417) | q2 · quant-synthesis · r3 | i? | [Prior syntheses of educational technology effects show inconsistent findings, with mobile ](prior-technology-meta-analyses-inconsistent-effects.md) (supports) |
+| [Mengjia Liu 2026](https://doi.org/10.1016/j.edurev.2026.100795) | q3 · quant-synthesis · r3 | i1 | [Emerging technologies show a small-to-moderate positive overall effect on TEFL outcomes (g](emerging-tech-tefl-pooled-effect-g038.md) (qualifies); [Technology effects on TEFL outcomes trend upward across educational levels (primary g = 0.](tefl-tech-effects-increase-by-educational-level.md) (qualifies) |
+| [Takacs 2015](https://doi.org/10.3102/0034654314566989) | q3 · quant-synthesis · r3 | i0; i1 | [Technology-enhanced stories yield a small but significant additional benefit over traditio](technology-enhanced-stories-small-benefit-comprehension-expressive-vocabulary.md) (qualifies); [Study design moderates the technology effect: between-subject studies yield a significantl](design-moderates-technology-story-effect.md) (supports) |
+| [Clark 2016](https://doi.org/10.3102/0034654315582065) | q3 · quant-synthesis · r3 | i1 | [Digital game conditions produce significantly better learning outcomes than nongame condit](digital-games-outperform-nongame-media-comparisons.md) (qualifies) |
+| [Deunk 2018](https://doi.org/10.1016/j.edurev.2018.02.002) | q3 · quant-synthesis · r2 | i? | [Using computerized systems as a differentiation tool has small to moderate positive effect](computerized-differentiation-systems-positive-effects-primary.md) (qualifies) |
+| [Dietrichson 2021](https://doi.org/10.1002/cl2.1152) | q3 · quant-synthesis · r3 | i? | [In adjusted meta-regressions, peer-assisted and small-group instruction outperform compute](peer-small-group-outperform-other-methods.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

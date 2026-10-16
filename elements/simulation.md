@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 35 claims (24 for, 9 mixed, 2 against) · 36 studies (11 review, 9 quant-synthesis, 7 causal, 6 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 7 of 36 report an effect size · 25 claims rest on one study
+> **Evidence** · 36 claims (25 for, 9 mixed, 2 against) · 38 studies (12 review, 10 quant-synthesis, 7 causal, 6 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 9 of 38 report an effect size · 26 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -134,6 +134,11 @@ Simulations support learning by making system dynamics explorable: learners buil
 - **Default:** students in a simulated clinical course named the weekly debriefing among its most beneficial parts — [Students perceive debriefing as among the most beneficial components of a simulated clinical course](../claims/debriefing-psychometric-instruction-valued.md) [+M]
 - **Tested with:** school writing-to-learn studies and a first-year engineering course (structured reflection); 10 SLP graduate students (debriefing, perception only).
 - **Not settled:** no wiki claim compares a simulation with and without a debrief; see [Debrief](debrief.md) for the debrief's own decisions.
+
+## The evidence by question
+- *Does practising in a simulation improve knowledge and skill more than no simulation or conventional training, and for which skills and horizons?* [Simulation Based Education Improves Outcomes](../claims/simulation-based-education-improves-outcomes.md) [+M]
+- *How much guidance should learners get while they explore a simulation, and does the answer change with what they already know?* [Supplementing simulation-based inquiry with learner guidance has a modest effect on learning outcomes (d = 0.49) and inquiry skills (d = 0.41), independent of guidance type (review attribution to D'Angelo et al., 2014)](../claims/simulation-guidance-moderate-effect-dangelo.md) [+M]
+- *Can a virtual simulation stand in for physical materials or authentic situations, and what does each format do better?* [Physical Experience Enhances Science Learning](../claims/physical-experience-enhances-science-learning.md) [~M]
 
 ## Related Elements
 - [Practice](practice.md) — simulation is a structured environment for deliberate practice with built-in consequences

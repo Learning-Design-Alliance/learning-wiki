@@ -30,7 +30,7 @@ sources:
 # In the CNN 5-bus power-flow surrogate, pairing model capacity with sufficient training length improves voltage accuracy, and line flows are the more demanding test
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The 200-epoch, 240-filter voltage model achieved test MAE below 10^-3 pu, while both 50-epoch models incurred more than an order-of-magnitude larger error. [→ Junjie Yin 2026](#junjie-yin-2026)

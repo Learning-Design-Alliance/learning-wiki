@@ -42,6 +42,9 @@ Experimental study with many deliberating groups, testing whether "men and women
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [The gender gap in deliberation disappears under unanimous rule with few women or majority rule with many women](gender-gap-disappears-rule-composition-interaction.md) — related
 - [Women's descriptive representation in deliberation interacts with decision rule rather than uniformly increasing voice and authority](descriptive-representation-conditional-voice-authority.md) — related

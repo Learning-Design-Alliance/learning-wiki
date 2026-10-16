@@ -41,10 +41,11 @@ Step 3 of the hierarchical regression on the same 303-student survey added digit
 
 ## Discussion
 
-
 ## Learner Variables
 - [Digital Literacy](../learner-variables/digital-literacy.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](digital-literacy-gaps-span-demographics.md) — the general claim this finding bears on, with the studies behind it
 - [Personal innovativeness, technology anxiety, and growth mindset in technology each significantly predict AI literacy after external resources and digital competence are controlled, adding 6% of variance](psychological-profile-predicts-ai-literacy-incrementally.md) — related
 - [Predictors operate selectively across AI literacy subdimensions: digital competence fails to predict technical proficiency or communication proficiency, and perceived resources predict only communication proficiency and creative application](determinants-selective-across-ai-literacy-subdimensions.md) — related

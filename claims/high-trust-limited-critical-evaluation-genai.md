@@ -41,8 +41,9 @@ Single-item retrospective trust ratings from all 12 students, supplemented by in
 
 ## Discussion
 
-
 ## Related Claims
+
+- [ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users](chatgpt-reduced-differentiation-verification.md) — the general claim this finding bears on, with the studies behind it
 - [Prior knowledge and trust calibration moderate GenAI learning effects: fluent output is most persuasive when learners least can challenge it](prior-knowledge-trust-calibration-moderators.md) — related
 - Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related

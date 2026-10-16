@@ -63,8 +63,11 @@ Youth focus group accounts in Section II.C; one student said breath to focus hel
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+- [Executive Function](../learner-variables/executive-function.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — the general claim this finding bears on, with the studies behind it
 
 - [The evidence base for school mindfulness interventions is promising but too variable for definitive practice recommendations](mbi-evidence-base-variability-limitation.md) — the general claim this finding bears on, with the studies behind it
 - [A non-peer-reviewed web essay asserts, citing an earlier source second-hand, that behaviorist reinforcement methods are very effective in creating positive behavior in almost any learning environment](behaviorist-reinforcement-effective-positive-behavior.md) — related

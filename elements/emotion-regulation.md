@@ -13,7 +13,7 @@ generated:
 # Emotion Regulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (6 for, 3 mixed) · 11 studies (3 causal, 2 quant-synthesis, 2 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 3 of 11 report an effect size · 6 claims rest on one study
+> **Evidence** · 12 claims (7 for, 5 mixed) · 16 studies (5 quant-synthesis, 4 causal, 3 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 7 of 16 report an effect size · 7 claims rest on one study
 
 ## Description
 Emotion regulation in learning design refers to the deliberate integration of strategies and supports that help learners recognize and manage their emotional responses to academic demands. Drawing on Gross's process model, regulation can target the situation (choosing or modifying tasks), attention (redirecting focus), cognition (reappraising the meaning of stress), or response (calming techniques) [Gross, 1998]. In instructional contexts, the designer's role is to build regulation opportunities into the learning environment rather than assuming learners arrive with these skills.
@@ -61,6 +61,11 @@ Emotions are not noise around learning — they shape attention, working memory 
 - [Affective reinforcement after a negative alert coincided with stabilization of an ongoing engagement structure, producing a brief affective shift from confusion to reassurance that returned to confusion](../claims/affective-reinforcement-stabilizes-engagement-structure.md) [~W]
 - [AI anxiety is negatively associated with emotion regulation among university students](../claims/ai-anxiety-negatively-associated-emotion-regulation.md) [~W]
 - [Micro-interventions work by targeting the cognitive appraisal sequence: altering primary appraisal of threat and bolstering secondary appraisal of coping resources](../claims/micro-intervention-targets-cognitive-appraisal-sequence.md) [+W]
+
+## The evidence by question
+- *Does a brief regulation exercise before an evaluation (writing about worries, relabelling the feeling) protect anxious learners' performance?* [Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible](../claims/expressive-writing-improves-exam-performance.md) [~S]
+- *Do school and youth mindfulness programmes improve students' regulation, wellbeing and academic outcomes?* [The evidence base for school mindfulness interventions is promising but too variable for definitive practice recommendations](../claims/mbi-evidence-base-variability-limitation.md) [~M]
+- *Do sustained, structured programmes produce social-emotional gains, and do they last?* [SEL programs improve social emotional skills](../claims/sel-programs-improve-social-emotional-skills.md) [+S]
 
 ## Related Elements
 - [Check-In](check-in.md) — a routine that surfaces emotional states so regulation strategies can be matched to them

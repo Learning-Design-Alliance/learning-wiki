@@ -30,7 +30,7 @@ sources:
 # In AQUALAB, estimated β is ordered across episode completion status (means 1.181, 1.506, 2.343; Kruskal–Wallis p = 8.62×10−29) and higher-β quintiles complete more content more efficiently
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Mean estimated β rises from incomplete to task-complete to job-complete episodes, with a highly significant Kruskal–Wallis group difference. [→ Wenqian Xu 2026](#wenqian-xu-2026)

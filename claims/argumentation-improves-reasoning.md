@@ -62,7 +62,7 @@ Over several years, two cohorts of young adolescents argued about social issues 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does structured argument with peers improve learners' individual argument and content learning?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **5 distinct studies** (2 quant-synthesis, 2 causal, 1 review), `q2`–`q4`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does structured argument with peers improve learners' individual argument and content learning?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **7 distinct studies** (2 quant-synthesis, 2 causal, 1 review, 1 design, 1 associational), `q1`–`q4`, 3 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -71,6 +71,8 @@ Over several years, two cohorts of young adolescents argued about social issues 
 | [prompt-1](https://doi.org/10.51388/20.500.12265/251) | q2 · review · r1 | i? | [Prompts and scaffolds for paraphrasing, criticizing, questioning, and synthesizing argumen](argumentation-prompts-scaffolds-knowledge-gains.md) (supports); [Collaborative argumentation benefits students' motivation, content learning, domain argume](collaborative-argumentation-benefits-summary.md) (supports) |
 | [Murphy et al. 2009](https://doi.org/10.1037/a0015576) | q4 · quant-synthesis · r? | i? | [Some classroom discussion approaches improve text comprehension, but gains are not uniform](structured-discussion-methods-improve-comprehension.md) (qualifies) |
 | [Murphy et al. 2018](https://doi.org/10.3102/0002831218771303) | q2 · causal · r1 | i3 · large effect on basic comprehension, d=1.25; small-to-medium on high-level comprehension, d=0.35 | [Some classroom discussion approaches improve text comprehension, but gains are not uniform](structured-discussion-methods-improve-comprehension.md) (qualifies) |
+| [Squire 2007](https://doi.org/10.1007/s10956-006-9037-z) | q1 / q2 · design · r? | i? | [A place-based augmented reality game (Mad City Mystery) engaged students in scientific arg](mad-city-mystery-ar-argumentation-cases.md) (supports); [Specific game features scaffold scientific thinking in ways the authors claim are non-exis](ar-game-features-scaffold-argumentation.md) (supports) |
+| [Omarchevska et al. 2022](https://doi.org/10.1080/10508406.2021.1966633) | q2 · associational · r1 | i2 | [Argumentation quality is associated with denser co-occurrence of scientific reasoning and ](argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

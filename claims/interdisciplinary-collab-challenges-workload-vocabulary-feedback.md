@@ -41,8 +41,9 @@ Interview findings: editing students finished early and had lighter loads, progr
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Interdisciplinary humanities units improve students' interdisciplinary competences](interdisciplinary-humanities-units-improve-interdisciplinary-competences.md) — the general claim this finding bears on, with the studies behind it
 - [Interdisciplinary studio collaboration deepened students' disciplinary skills while exposing them to cross-disciplinary skills](interdisciplinary-collab-deepens-disciplinary-and-cross-disciplinary-skills.md) — related
 - [Organization-simulation knowledge practices support interdisciplinary learning](organization-simulation-knowledge-practices-support-interdisciplinary-learning.md) — related
 - [Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams](epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams.md) — related

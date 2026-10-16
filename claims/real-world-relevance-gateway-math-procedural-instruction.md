@@ -41,8 +41,9 @@ Secondary qualitative finding from the gateway math study of faculty and student
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application](students-want-curricular-relevance-and-life-skills.md) — related
 - [Multiple representations and explanations of math concepts aid student understanding, but faculty lack time to source or develop them](multiple-representations-aid-understanding-faculty-time.md) — related
 - [Gateway math students benefit from a balance of social, active learning and independent practice, but faculty constraints limit active learning](balance-active-learning-independent-practice-gateway-math.md) — related

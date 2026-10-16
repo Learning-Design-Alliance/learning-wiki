@@ -1,0 +1,78 @@
+{
+  "principle": "theories/strength-and-retrieval-effort-account-of-retrieval-practice",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "retrieval-failure-reduces-benefit",
+      "question": "How much should retrieval succeed during practice, and how much support should it get?",
+      "members": [
+        [
+          "retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent",
+          "+"
+        ],
+        [
+          "less-initial-retrieval-support-produces-better-retention",
+          "~"
+        ],
+        [
+          "retrieval-effort-support-testing-effect",
+          "~"
+        ],
+        [
+          "moderators-congruency-elaborated-retrieval-initial-test-performance",
+          "+"
+        ],
+        [
+          "repeated-retrieval-success-predicts-final-recall",
+          "+"
+        ],
+        [
+          "recollecting-the-prior-study-episode-during-retrieval-enhances-retention",
+          "~"
+        ],
+        [
+          "unsuccessful-retrieval-smaller-benefit-than-successful",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "retention-interval-moderates-testing-effect",
+      "question": "How does the benefit depend on the delay before the final test?",
+      "members": [
+        [
+          "retention-interval-one-to-six-days-largest",
+          "~"
+        ],
+        [
+          "retrieval-practice-effects-larger-at-retention-intervals-over-one-day",
+          "~"
+        ],
+        [
+          "retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling",
+          "~"
+        ],
+        [
+          "retrieval-practice-benefits-persist-six-to-nine-months",
+          "+"
+        ],
+        [
+          "repeated-retrieval-alters-the-rate-of-forgetting",
+          "+"
+        ],
+        [
+          "spaced-retrieval-multiyear-vocabulary-retention",
+          "+"
+        ],
+        [
+          "retrieval-practice-reading-comprehension-no-significant-retention-interval-difference",
+          "~"
+        ],
+        [
+          "retrieval-format-by-retention-interval-interaction-not-significant",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

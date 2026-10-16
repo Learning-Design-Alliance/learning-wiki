@@ -13,7 +13,7 @@ generated:
 # Enhance retention and transfer
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 10 studies (2 causal, 2 quant-synthesis, 2 review, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 1 of 10 report an effect size · 2 claims rest on one study
+> **Evidence** · 9 claims (7 for, 2 mixed) · 18 studies (6 quant-synthesis, 4 causal, 4 review, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 7 of 18 report an effect size · 4 claims rest on one study
 
 ## Description
 "Enhance retention and transfer" is the culminating phase of instruction (Gagné's final event; Merrill's Integration principle) in which learners consolidate what they have learned and apply it to novel contexts. Rather than ending a lesson at recall, this element deliberately designs activities — reflection, extension problems, far-transfer tasks — that require learners to restructure and redeploy knowledge beyond the conditions in which it was acquired.
@@ -56,6 +56,13 @@ Transfer does not happen spontaneously; it must be prompted by tasks that differ
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Adult learners perceive AI as supporting consolidation-phase comparison, knowledge reorganization, and transfer](../claims/ai-supports-consolidation-comparison-reorganization-transfer.md) [+W]
+
+## The evidence by question
+
+- *Does instruction that raises near transfer also raise far transfer to a different domain or form?* [Learning techniques have much smaller effects on deep learning and far transfer than on surface learning and near transfer](../claims/learning-techniques-smaller-effects-on-deep-learning-and-far-transfer.md) [~M]
+- *Does learning across varied contexts or varied tasks of a type, rather than repeating one, produce transfer to new cases?* [Encoding variability across varied example contexts produces decontextualization supporting transfer (review reports DiVesta and Peverly)](../claims/encoding-variability-decontextualization-transfer.md) [+M]
+- *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
+- *Does the benefit carry to new questions, inferences and applications, or only to the items practised?* [Retrieval Practice Improves Transfer](../claims/retrieval-practice-improves-transfer.md) [+S]
 
 ## Related Elements
 - [Analogies](analogies.md) — explicit mapping between domains is a primary mechanism for cross-context transfer

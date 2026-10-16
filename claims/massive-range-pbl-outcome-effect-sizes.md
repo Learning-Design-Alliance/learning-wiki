@@ -41,8 +41,9 @@ Forest plot of content-novice-tutor outcomes from Leary et al. (2013) (Figure 5)
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Problem-based learning shows null or negative effects on basic knowledge acquisition but positive effects on conceptual understanding and transfer relative to direct instruction](pbl-null-basic-knowledge-positive-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [The overall effect of PBL in the tutor-background meta-analysis is modest (g = 0.27) with large, statistically significant heterogeneity](pbl-overall-effect-modest-large-heterogeneity.md) — related
 - [In a re-analysis of PBL tutor-background data, neither a meta-regression nor subgroup comparisons found that tutor expertise predicts student learning](tutor-background-meta-regression-not-predictive.md) — related
 - [Funnel plot and Egger's test indicate publication bias in the PBL tutor-background data, and trim-and-fill suggests the overall effect is overestimated](publication-bias-pbl-tutor-meta-analysis.md) — related

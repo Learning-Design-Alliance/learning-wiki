@@ -41,8 +41,9 @@ Survey-based comparison of online charter schools with conventional schools repo
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — the general claim this finding bears on, with the studies behind it
 - [The National Study of Online Charter Schools provides the first nationwide data and analysis of online charter schools' operations and instructional approaches, based on a survey of 127 principals](first-nationwide-online-charter-operations-survey-127-principals.md) — a broader claim this one bears on
 - [The report concludes there is reason for concern about whether the online charter school sector is likely to be effective in promoting student achievement](online-charters-effectiveness-concern.md) — a broader claim this one bears on
 - [Few studies of online instruction's operations and effects existed before the National Study of Online Charter Schools](few-prior-studies-online-instruction-operations-effects.md) — related

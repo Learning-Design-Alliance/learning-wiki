@@ -1,0 +1,32 @@
+{
+  "principle": "elements/small-group-instruction",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "small-group-instruction-outperforms-cai-incentives",
+      "question": "Does targeted instruction by an adult in a small group raise struggling learners' achievement more than whole-class delivery or other intervention components, and how small does the group need to be?",
+      "members": [
+        [
+          "peer-assisted-and-small-group-instruction-most-effective",
+          "+"
+        ],
+        [
+          "small-group-language-instruction-larger-effects",
+          "+"
+        ],
+        [
+          "small-group-intervention-literacy-eld-moderate-evidence",
+          "+"
+        ],
+        [
+          "saga-impacts-larger-fewer-staffing-challenges-small-groups",
+          "~"
+        ],
+        [
+          "gottlieb-1997-group-size-increase-lowered-reading-scores",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

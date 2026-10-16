@@ -42,6 +42,9 @@ Value-added analysis of Chicago Public Schools data estimating race-specific tea
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Experienced teachers and teachers with a master's degree are highly effective overall but much less effective for Black than non-Black students](experienced-masters-teachers-less-effective-black-students.md) — related
 - [Observation scores are modestly positively associated with individual value-added (adjusted correlation 0.349) but only weakly associated with performance tasks (0.108) and school-wide literacy value-added (0.119)](reach-observation-value-added-correlation-0349.md) — related

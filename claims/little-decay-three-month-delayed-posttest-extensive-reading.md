@@ -41,11 +41,12 @@ Delayed posttest of Term 1 target words administered three months after the imme
 
 ## Discussion
 
-
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — the general claim this finding bears on, with the studies behind it
 - [Extensive reading of graded readers produced substantial vocabulary learning gains for EFL learners across proficiency levels](extensive-reading-produces-vocabulary-gains-efl.md) — related
 - [Prior vocabulary knowledge moderates vocabulary learning gains in an extensive reading program, with high-level learners gaining more than intermediate and low-level learners](prior-vocabulary-knowledge-moderates-extensive-reading-gains.md) — related
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — related

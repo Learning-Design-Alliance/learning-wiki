@@ -60,8 +60,9 @@ Figure 3 descriptive analysis of average test scores by absence rate for sixth a
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Low attendance is linked with lower academic skills, grades, and high school graduation, and high attendance with higher ones](attendance-linked-academic-skills-grades-graduation.md) — the general claim this finding bears on, with the studies behind it
 - [Students with the same absence rates had higher GPAs (and in grades 7-8, higher test scores) in post-pandemic years than pre-pandemic years](higher-gpas-same-absence-post-pandemic.md) — related
 - [Multiple dimensions of school climate were associated with lower school absences, with stronger relationships after the pandemic than before](school-climate-associated-with-lower-absences-post-pandemic.md) — related
 - [Freshman attendance below 85 percent predicts non-graduation even among students with similar grades](freshman-attendance-predicts-graduation-independent-of-gpa.md) — related

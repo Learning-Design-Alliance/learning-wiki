@@ -41,8 +41,12 @@ Exploratory moderation analyses in the N = 132 field experiment with conscientio
 
 ## Discussion
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Adaptive versus non-adaptive ITS condition showed no significant differences in mental effort, subjective difficulty, or enjoyment](adaptive-its-no-difference-cognitive-load-enjoyment.md) — related
 - [Latent learner profiles did not moderate the effectiveness of the adaptive ITS](learner-profiles-no-moderation-adaptive-its.md) — reports the opposite
 - [Conscientiousness and tolerance for novelty show small negative associations with well-being decline; other uncertainty-tolerance facets do not](conscientiousness-novelty-tolerance-small-protective-associations.md) — related

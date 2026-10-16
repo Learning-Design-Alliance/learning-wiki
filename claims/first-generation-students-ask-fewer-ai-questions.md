@@ -41,9 +41,10 @@ Descriptive comparison of question counts by generation status across the two se
 
 ## Discussion
 
-
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](peerwise-student-questions-75-percent-high-quality.md) — the general claim this finding bears on, with the studies behind it
 - [Continuing-generation students showed higher usage of procedural and directive question types, while first-generation students leaned toward verification and expectational questions](generation-differences-in-question-type-usage.md) — related

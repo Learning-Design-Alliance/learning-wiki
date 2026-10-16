@@ -39,11 +39,24 @@ The summary reports, citing Gormley et al. (2011) and Weiland and Yoshikawa (201
 
 > "There are also small positive impacts on children’s social-emotional development,3 executive functioning, and emotion recognition if they attend pre-kindergarten."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does attending a pre-kindergarten programme raise children's executive function?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **3 distinct studies** (1 review, 1 associational, 1 causal), `q2`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| High-Quality Early Child Education is Associated With 2023 | q2 · review · r? | i? | this claim |
+| [Erik Ruzek 2020](https://doi.org/10.1037/dev0001115) | q3 · associational · r? | i? | [Pre-K graduates outperform nonattending peers in achievement and executive functioning at ](pre-k-graduates-outperform-nonattenders-end-of-kindergarten.md) (supports) |
+| Knechtel 2017 | q3 · causal · r? | i? | [KIPP Pre-K combined with KIPP early elementary school may also have a positive impact on s](kipp-prek-possible-executive-function-impact.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+- [Executive Function](../learner-variables/executive-function.md) — outcome: instruction changes it
 
 ## Related Claims
 - [KIPP Pre-K combined with KIPP early elementary school may also have a positive impact on students' executive function](kipp-prek-possible-executive-function-impact.md) — related

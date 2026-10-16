@@ -30,7 +30,7 @@ sources:
 # Students perceive prerequisites, core course requirements, and master schedule constraints as barriers to accessing courses that interest them
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students view prerequisites and core course requirements as barriers to accessing courses they are interested in, especially freshmen whose schedules are filled by requirements. [→ Viki M. Young 2026](#viki-m-young-2026)

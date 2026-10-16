@@ -39,6 +39,20 @@ Narrative review citing Pavlik et al.; the survey reports they "empirically veri
 
 > "Pavlik et al. [34] have also empirically verified that no single KT model was always the best, a specific better model must consider multiple student features and the learning context."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does extending a knowledge-tracing model with individual parameters, engagement signals, forgetting or other side information improve how well it predicts learners' answers?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **5 distinct studies** (3 design, 1 review, 1 associational), `q1`–`q3`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Shuanghong Shen 2021](https://doi.org/10.48550/arxiv.2105.15106) | q2 · review · r? | i? | this claim; [The survey reports, citing Lee and Brunskill, that individualized BKT in an intelligent tu](individualized-bkt-reduces-questions-needed-for-mastery.md) (supports); [The survey reports, citing Mongkhonvanit et al., that DKT achieved better performance when](engagement-covariates-improve-deep-knowledge-tracing.md) (supports); [The survey reports, citing Qiu et al., that BKT consistently overestimates the accuracy of](bkt-overestimates-accuracy-after-a-day-elapses.md) (supports); [The survey reports, citing Jung et al., that students' language proficiency as side inform](language-proficiency-side-information-improves-kt-models.md) (supports) |
+| [Pardos 2010](https://doi.org/10.1007/978-3-642-13470-8_24) | q1 / q2 · design · r2 | i? | [Individualizing the initial knowledge parameter reliably improves prediction of real-world](individualizing-initial-knowledge-improves-prediction.md) (supports); [Corbett and Anderson's original individualization attempts produced mixed results](corbett-anderson-individualization-mixed-results.md) (qualifies) |
+| [Reddy 2016](https://doi.org/10.1145/2939672.2939850) | q2 · associational · r2 | i? | [In Mnemosyne flashcard log data, adding a delay term improves the recall-prediction perfor](delay-term-improves-exponential-forgetting-curve-recall-prediction.md) (supports); [In Mnemosyne log data, exponential forgetting curve models that include a delay term perfo](exponential-forgetting-models-with-delay-perform-comparably-to-1pl-irt.md) (qualifies) |
+| [Yuhao Jia 2026](https://doi.org/10.48550/arxiv.2605.08697) | q2 · design · r2 | i? | [Injecting MBP-KT's global collaborative information consistently improves KT models across](mbp-kt-consistently-improves-kt-backbones.md) (supports); [MBP-KT yields significantly greater improvements for learners with fewer interaction recor](mbp-kt-greater-gains-sparse-learners.md) (qualifies) |
+| [Haotian Zhang 2026](https://doi.org/10.48550/arxiv.2608.24005) | q3 · design · r2 | i? | [Modeling knowledge transfer within and across domains alleviates the cold-start problem on](knowledge-transfer-alleviates-cold-start-kt.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

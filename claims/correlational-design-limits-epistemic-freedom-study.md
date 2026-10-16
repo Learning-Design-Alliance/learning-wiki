@@ -41,8 +41,9 @@ The authors' own limitations section for this correlational, cross-sectional stu
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The RCT is considered the gold standard of research evidence because randomization ensures only the intervention could cause treatment-control outcome differences](rct-gold-standard-randomization-logic.md) — the general claim this finding bears on, with the studies behind it
 - [Adults' perpetration of education-related epistemic violence on their own or relatives' children is low](adults-low-perpetration-epistemic-violence.md) — related
 - [Adults' past enjoyment of education-related epistemic freedom is between moderate and high, and their tendency toward it is high](adults-past-freedom-moderate-high-tendency-high.md) — related
 - [Block Play Predicts Math Achievement](block-play-predicts-math-achievement.md) — related

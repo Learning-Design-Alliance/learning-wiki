@@ -42,6 +42,9 @@ Granular analysis of per-study gap changes (Fig. 2) shows heterogeneous effects:
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Active learning reduces the examination-score achievement gap between minoritized-group and non-minoritized students in undergraduate STEM by 33% on average](active-learning-reduces-exam-achievement-gaps-33-percent.md) — related
 - [Active learning narrows the passing-rate gap between minoritized-group and non-minoritized students in undergraduate STEM by 45% on average](active-learning-narrows-passing-rate-gap-45-percent.md) — related

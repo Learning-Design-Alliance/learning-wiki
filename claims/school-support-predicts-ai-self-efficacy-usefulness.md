@@ -43,5 +43,8 @@ SEM analysis of two-wave survey data from 547 Chinese undergraduates testing the
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Perceived school support, AI learning self-efficacy, and AI perceived usefulness each show negative paths to AI learning anxiety](support-and-appraisals-negatively-predict-ai-learning-anxiety.md) — related

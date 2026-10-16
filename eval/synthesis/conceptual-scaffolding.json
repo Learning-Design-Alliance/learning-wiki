@@ -1,0 +1,182 @@
+{
+  "principle": "elements/conceptual-scaffolding",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "scaffolding-improves-learning",
+      "question": "Does support during an attempt improve later learning compared with attempting unsupported, and for which learners, contexts and outcomes?",
+      "members": [
+        [
+          "computer-based-scaffolding-positive-cognitive-outcomes-stem",
+          "+"
+        ],
+        [
+          "principles-level-assessment-highest-scaffolding-effect",
+          "~"
+        ],
+        [
+          "project-based-context-highest-scaffolding-effect",
+          "~"
+        ],
+        [
+          "education-population-moderates-scaffolding-effect",
+          "~"
+        ],
+        [
+          "scaffolding-effect-greatest-adult-learners",
+          "~"
+        ],
+        [
+          "tutoring-effectiveness-comes-from-scaffolding-and-feedback",
+          "+"
+        ],
+        [
+          "conceptual-map-scaffolding-reduces-novice-variance",
+          "+"
+        ],
+        [
+          "no-multiple-choice-difference-prompted-ai-learning",
+          "~"
+        ],
+        [
+          "repetition-translation-scaffolding-hinders-learning",
+          "-"
+        ],
+        [
+          "provide-context-rate-nonmonotonic",
+          "~"
+        ],
+        [
+          "scaffolding-little-incremental-exam-prediction",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "fading-support-promotes-transfer-of-responsibility",
+      "question": "Should support be withdrawn, and in what order?",
+      "members": [
+        [
+          "fading-worked-steps-facilitates-example-to-problem-transition",
+          "+"
+        ],
+        [
+          "fading-and-principle-prompts-improve-probability-transfer",
+          "+"
+        ],
+        [
+          "learners-learn-most-about-faded-principles",
+          "+"
+        ],
+        [
+          "fading-fewer-unproductive-learning-events",
+          "+"
+        ],
+        [
+          "faded-step-position-no-learning-outcome-effect",
+          "~"
+        ],
+        [
+          "ai-scaffold-fading-independent-justification",
+          "+"
+        ],
+        [
+          "fading-no-effect-productive-learning-events",
+          "~"
+        ],
+        [
+          "early-fading-steps-poor-cup-probes",
+          "~"
+        ],
+        [
+          "scaffolding-design-features-no-moderation",
+          "-"
+        ],
+        [
+          "worked-examples-less-effective-with-expertise",
+          "+"
+        ],
+        [
+          "lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples",
+          "~"
+        ],
+        [
+          "adaptive-fading-beats-fixed-and-linear-scaffolding",
+          "~"
+        ],
+        [
+          "worked-example-problem-sequences",
+          "+"
+        ],
+        [
+          "expertise-reversal-writing-journal-prompts-fading",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "multiple-representations-improve-learning",
+      "question": "Does adding a second representation of the same idea help, and when?",
+      "members": [
+        [
+          "video-narration-text-improves-immediate-macs-comprehension",
+          "+"
+        ],
+        [
+          "auditory-descriptions-plus-tactile-graphics-improve-bvi-assessment",
+          "+"
+        ],
+        [
+          "multimodal-valued-complex-visualizations-hinder",
+          "~"
+        ],
+        [
+          "more-representations-mathematical-ideas-higher-achievement",
+          "+"
+        ],
+        [
+          "multiple-representations-aid-understanding-faculty-time",
+          "+"
+        ],
+        [
+          "diverse-llm-explanations-higher-oe-accuracy-not-significant",
+          "~"
+        ],
+        [
+          "mcq-accuracy-no-significant-condition-difference",
+          "~"
+        ],
+        [
+          "diverse-explanations-no-perceived-information-overload",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "comparing-contrasting-cases-improves-learning",
+      "question": "Does comparing analogous cases improve transfer more than studying cases one at a time?",
+      "members": [
+        [
+          "cognitive-flexibility-theory-multiple-cases",
+          "~"
+        ],
+        [
+          "method-approach-effect-sizes-vary-analogy-largest",
+          "+"
+        ],
+        [
+          "encoding-variability-decontextualization-transfer",
+          "+"
+        ],
+        [
+          "multiple-examples-per-problem-type",
+          "+"
+        ],
+        [
+          "example-variability-interaction-with-cognitive-load",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

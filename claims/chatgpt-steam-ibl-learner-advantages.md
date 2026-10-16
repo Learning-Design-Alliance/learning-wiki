@@ -41,8 +41,9 @@ The review's synthesis of cross-phase advantages, mentioned in 104 instances acr
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [ChatGPT use in STEAM IBL is reported to improve teaching efficiency, student engagement, and flexible instructional design](chatgpt-steam-ibl-teaching-process-advantages.md) — related
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [Recurring benefits of GenAI in STEAM education include engagement, teacher productivity, and creativity when supported by sound pedagogy](genai-steam-benefits-engagement-productivity.md) — related

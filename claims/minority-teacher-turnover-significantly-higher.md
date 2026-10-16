@@ -43,6 +43,9 @@ Longitudinal analysis of Teacher Follow-Up Survey migration and attrition data a
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Less positive school organizational conditions account for the higher minority teacher turnover rate; once conditions are controlled, the minority-nonminority turnover difference becomes statistically insignificant](organizational-conditions-account-for-minority-turnover-gap.md) — related
 - [Turnover is about 70% higher in schools serving the most students of color, with even larger gaps for math/science, special education, and alternatively certified teachers](turnover-high-minority-schools-70-percent.md) — related

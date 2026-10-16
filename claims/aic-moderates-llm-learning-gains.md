@@ -30,7 +30,7 @@ sources:
 # AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The Treatment × AIC interaction was positive and significant, with high-AIC participants benefiting disproportionately. [→ Bharat Anand 2026](#bharat-anand-2026)

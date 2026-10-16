@@ -1,0 +1,144 @@
+{
+  "principle": "elements/debrief",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "analytics-feedback-reflection-strengthen-learning-gains",
+      "question": "Does a feedback and reflection step after a simulation or shared exercise add to what learners gain from the experience itself?",
+      "members": [
+        [
+          "simulation-based-education-with-deliberate-practice-improves-clinical-outcomes",
+          "+"
+        ],
+        [
+          "simulation-based-education-improves-outcomes",
+          "~"
+        ],
+        [
+          "reflective-practice-evidence-mixed-in-professional-education",
+          "~"
+        ],
+        [
+          "reflection-debriefing-time-underscheduled",
+          "+"
+        ],
+        [
+          "feedback-timing-post-session-debrief-preference",
+          "~"
+        ],
+        [
+          "debriefing-psychometric-instruction-valued",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "reflective-practice-improves-outcomes-when-structured",
+      "question": "Do specific, guided prompts produce better reflection and learning than generic or free reflection?",
+      "members": [
+        [
+          "guided-reflection-yields-more-higher-order-paragraphs-than-free",
+          "+"
+        ],
+        [
+          "guided-reflection-produces-longer-reflections",
+          "+"
+        ],
+        [
+          "public-vs-private-reflection-mixed",
+          "~"
+        ],
+        [
+          "visual-prompts-more-actionable-than-plain-text",
+          "+"
+        ],
+        [
+          "socratic-prompts-reflection-directive-overload-qualitative",
+          "+"
+        ],
+        [
+          "reflective-scaffolding-habituation-deskilling",
+          "~"
+        ],
+        [
+          "metacognitive-prompts-improve-learning",
+          "+"
+        ],
+        [
+          "constructive-conflict-guidance-increases-reconsideration",
+          "+"
+        ],
+        [
+          "constructive-conflict-increases-idea-editing",
+          "+"
+        ],
+        [
+          "idea-deletion-requires-stakeholder-friction",
+          "+"
+        ],
+        [
+          "agent-enacted-conflict-shifts-design-thinking",
+          "+"
+        ],
+        [
+          "elicit-agent-more-reflection-messages-lad",
+          "+"
+        ],
+        [
+          "prompted-journal-writing-medium-large-effect",
+          "+"
+        ],
+        [
+          "unsupported-journal-writing-low-strategy-use",
+          "+"
+        ],
+        [
+          "combine-cognitive-metacognitive-prompts",
+          "~"
+        ],
+        [
+          "metacognitive-first-prompt-sequence",
+          "~"
+        ],
+        [
+          "expertise-reversal-writing-journal-prompts-fading",
+          "~"
+        ],
+        [
+          "early-worked-examples-better-journal-quality",
+          "+"
+        ],
+        [
+          "worked-example-self-explanation-journal-transfer",
+          "+"
+        ],
+        [
+          "example-based-course-increases-journaling-intrinsic-motivation",
+          "+"
+        ],
+        [
+          "course-increases-perceived-competence-journaling",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "feedback-most-effective-at-task-and-process-levels",
+      "question": "What should the facilitator's feedback in a debrief be about: the task, the process, or the person?",
+      "members": [
+        [
+          "feedback-praise-reduces-learning",
+          "+"
+        ],
+        [
+          "usefulness-associated-actionability-accuracy",
+          "+"
+        ],
+        [
+          "self-analysis-knowledge-drives-teacher-change",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

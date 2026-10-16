@@ -59,6 +59,11 @@ Thirteen evaluations reported examination effects separately for students of dif
 
 Both groups gain, so mastery gating does not trade the stronger students' learning for the weaker students'. The aptitude difference itself is not significant in 13 studies, so the narrowing of score spread is the firmer of the two results.
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
+
+- [In the few studies that split by ability, learning techniques helped low-ability students and not high-ability students](learning-techniques-benefit-low-ability-not-high-ability-students.md) — the general claim this finding bears on, with the studies behind it
 
 - [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — the same synthesis, overall effect

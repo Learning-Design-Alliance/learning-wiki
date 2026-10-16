@@ -42,6 +42,9 @@ The report cites Buly's (2005) in-depth literacy assessment study of fourth-grad
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — related
 - One year of STARI significantly improves word recognition, basic reading comprehension efficiency, and morphological awareness in struggling middle school readers — related

@@ -42,6 +42,7 @@ Full-sample adjusted OLS regression (Table 4) predicting perceived usefulness fr
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — predictor: learners who differ on it differ in outcomes
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Risk perception is positively but more weakly associated with acceptance outcomes for AI-assisted English learning, with cautious interpretation warranted](risk-perception-weak-positive-ai-english-acceptance.md) — related

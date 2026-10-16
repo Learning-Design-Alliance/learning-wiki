@@ -1,0 +1,32 @@
+{
+  "principle": "theories/cultural-processes-identification-and-rationalization",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "cultural-processes-and-epistemic-injustice-explain-educational-inequality",
+      "question": "Do a school's routine evaluation and categorisation practices (ratings, risk labels, stereotypes, feedback) fall unequally on learners and teachers by race?",
+      "members": [
+        [
+          "stereotyping-operates-as-rationalization-producing-inequality-in-school",
+          "+"
+        ],
+        [
+          "gender-performance-grounds-exclusion-of-bussed-black-students-in-suburban-school",
+          "+"
+        ],
+        [
+          "race-prompts-cultural-stereotype-feedback",
+          "+"
+        ],
+        [
+          "biased-teacher-evaluations",
+          "+"
+        ],
+        [
+          "at-risk-identification-demographic-patterns",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

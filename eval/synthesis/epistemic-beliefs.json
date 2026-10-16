@@ -1,0 +1,70 @@
+{
+  "principle": "learner-variables/epistemic-beliefs",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "both-conditions-significant-prepost-gains-larger-experimental-effect-sizes",
+      "question": "Can instruction shift learners' views of how scientific knowledge is made and judged, and do the shifts last?",
+      "members": [
+        [
+          "formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks",
+          "+"
+        ],
+        [
+          "formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks",
+          "+"
+        ],
+        [
+          "no-significant-posttest-retention-decline-either-group",
+          "+"
+        ],
+        [
+          "collaborative-evidence-critique-shifts-students-toward-procedural-objectivity",
+          "+"
+        ],
+        [
+          "heterogeneity-seeking-curricula-surface-diverse-epistemic-commitments",
+          "~"
+        ],
+        [
+          "wise-agent-cognitive-maturity-decline",
+          "~"
+        ],
+        [
+          "four-contexts-influential-preservice-philosophy",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "reflective-thinking-correlates-epistemological-beliefs",
+      "question": "Do learners' beliefs about knowledge go with how they think and study, and with the kind of help they want?",
+      "members": [
+        [
+          "avoidant-style-higher-certainty-knowledge",
+          "+"
+        ],
+        [
+          "epistemological-beliefs-differ-by-learning-style",
+          "+"
+        ],
+        [
+          "combination-preferrers-higher-total-ebaps-than-answer-preferrers",
+          "+"
+        ],
+        [
+          "combination-preferrers-higher-axis4-axis5-scores",
+          "+"
+        ],
+        [
+          "chatbot-preference-ebaps-omnibus-kw-results",
+          "~"
+        ],
+        [
+          "no-ebaps-differences-axes-1-3-or-inquiry-vs-answer",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

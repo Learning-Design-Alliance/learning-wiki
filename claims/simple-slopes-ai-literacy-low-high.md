@@ -39,8 +39,9 @@ Simple slopes analysis (Table 3) of the AI environment → emotion paths by AI l
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Included studies suggest engagement increases when adaptive platform activities are tailored to learners' personal needs and emotional state](adaptivity-emotional-tailoring-increases-engagement.md) — the general claim this finding bears on, with the studies behind it
 - [Academic emotions—enjoyment, anxiety, and boredom—mediate the association between perceived AI-adaptive environments and SRL, accounting for 54.8% of the total effect](academic-emotions-mediate-ai-environment-srl.md) — related
 - [Perceived AI-adaptive learning environments are negatively associated with college students' self-regulated learning in a three-wave longitudinal survey](ai-adaptive-environment-negative-srl-longitudinal.md) — related
 - [AI literacy moderates the pathways from perceived AI-adaptive environments to academic emotions, attenuating negative emotional effects among students with higher AI literacy](ai-literacy-moderates-emotion-pathways.md) — possibly the same claim (merge candidate)

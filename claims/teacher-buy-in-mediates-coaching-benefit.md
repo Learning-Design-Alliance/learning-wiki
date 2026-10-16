@@ -42,8 +42,9 @@ Requisite Teacher Characteristics section of the focus group study: teachers saw
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Pairing coaching with group trainings is associated with larger effects on instruction and achievement; instructional materials with larger, and video libraries with smaller, effects on instruction](coaching-complementary-elements-moderators.md) — the general claim this finding bears on, with the studies behind it
 - Framework identifies teacher prerequisites: basic content knowledge, willingness to engage, and genuine concern for improving student learning — related
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — a broader claim this one bears on
 - [Students' application of teacher support predicts accurate answers in small-group work](student-uptake-of-support-predicts-small-group-answer-accuracy.md) — related

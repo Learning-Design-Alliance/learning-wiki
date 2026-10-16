@@ -42,6 +42,9 @@ Independent-samples t-tests in the quantitative phase (N = 302) compared percept
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related
 - [Primary school teachers report moderately positive overall perceptions of AI in mathematics instruction, with willingness and attitudes higher than personal experience](moderately-positive-teacher-ai-perceptions-primary-math.md) — related

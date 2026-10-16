@@ -39,8 +39,25 @@ Multi-state regression discontinuity analysis of assessment data from three stat
 
 > "Being a year older leads to higher initial achievement and higher kindergarten growth rates but lower growth rates during 1st and 2nd grades."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **5 distinct studies** (3 associational, 1 causal, 1 review), `q2`–`q3`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Angela Johnson 2020](https://doi.org/10.1080/19345747.2021.1894519) | q3 · causal · r? | i? | this claim; [Older entrants show higher kindergarten growth rates but lower growth rates in 1st and 2nd](entry-age-growth-rate-tradeoff.md) (qualifies) |
+| [Todd E. Elder and Darren H. Lubotsky 2009](https://doi.org/10.3368/jhr.44.3.641) | q3 · associational · r? | i? | [The positive relationship between kindergarten entrance age and achievement primarily refl](entrance-age-advantage-reflects-prior-skill-accumulation.md) (qualifies); [Having older classmates boosts a child’s test scores but increases the probability of grad](older-classmates-boost-scores-increase-repetition-and-disability-diagnoses.md) (qualifies) |
+| Kindergarten redshirting: What families should know 2026 | q2 · review · r? | i? | [Redshirted students' early-grade academic advantage over on-time peers fades as students m](redshirting-academic-advantage-short-lived.md) (qualifies) |
+| Malone 2006 | q3 · associational · r? | i? | [At the end of first grade, children whose kindergarten entry was delayed demonstrated slig](delayed-entrants-slightly-higher-reading-first-grade.md) (supports); [At the end of first grade, children whose kindergarten entry was delayed were behind their](delayed-entrants-behind-in-math-first-grade.md) (counts against) |
+| [Elizabeth Dhuey 2010](https://doi.org/10.1016/j.econedurev.2010.03.006) | q2 · associational · r2 | i? | [A relationship exists between students' relative age among their peers and their probabili](relative-age-relates-disability-classification.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
+
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Older entrants show higher kindergarten growth rates but lower growth rates in 1st and 2nd grades](entry-age-growth-rate-tradeoff.md) — related

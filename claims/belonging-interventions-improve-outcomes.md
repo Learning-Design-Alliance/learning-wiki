@@ -59,6 +59,22 @@ Walton, G. M., Murphy, M. C., Logel, C., Yeager, D. S., Goyer, J. P., Brady, S. 
 
 A team-science randomized experiment with 26,911 incoming students at 22 diverse institutions. The belonging intervention was delivered online before college and took under 30 minutes. It raised the rate at which students completed the first year as full-time students, especially students from groups that had historically progressed at lower rates. The context acted as a boundary condition: the intervention worked only where students' groups were afforded opportunities to belong. This qualifies the claim, because a belonging message does not help on its own in an environment that does not support belonging. An erratum was published in 2024 (doi:10.1126/science.ads9718). Only the abstract was read, so no effect size is recorded here.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does a brief intervention that frames doubts about belonging as common and temporary improve learners' persistence and grades, and for whom?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **7 distinct studies** (3 causal, 2 review, 2 design), `q2`–`q3`, 0 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Walton & Cohen 2011](https://doi.org/10.1126/science.1198364) | q3 · causal · r? | i? | this claim |
+| [Walton et al. 2023](https://doi.org/10.1126/science.ade4420) | q3 · causal · r3 | i? | this claim |
+| Jenny Nagaoka 2013 | q2 · review · r2 | i? | [Short belonging interventions in college settings can produce significant and lasting effe](brief-belonging-interventions-lasting-effects.md) (supports) |
+| [Hausmann 2007](https://doi.org/10.1007/s11162-007-9052-9) | q3 · causal · r? | i? | [A belonging-enhancing intervention produced a smaller decline in sense of belonging over t](belonging-intervention-smaller-decline.md) (supports); [Both sense of belonging and intentions to persist decline over the first academic year](belonging-and-persistence-intentions-decline-first-year.md) (qualifies) |
+| [Norberg 2025](https://doi.org/10.1007/978-3-031-98465-5_24) | q2 · design · r2 | i? | [A single 30-minute session co-authoring math word problems with AMPT significantly increas](ampt-session-increased-math-belonging.md) (supports); [After the AMPT co-authoring session, attitudes towards mathematics other than sense of bel](ampt-other-attitudes-unchanged.md) (qualifies) |
+| Harris 2023 | q2 · design · r3 | i? | [Instructional practices aligned to the Belonging MDP were associated with significant decl](belonging-mdp-reduces-effort-and-threat-perceptions.md) (supports) |
+| Hernández 2024 | q2 · review · r1 | i? | [Getting-to-know-you surveys that surface student-teacher commonalities improved relationsh](getting-to-know-you-surveys-commonalities-gap-closure.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 Belonging interventions are typically brief "wise interventions": they reframe common worries about belonging as normal and temporary rather than as evidence of not fitting in, often by presenting survey evidence that senior students' belonging concerns faded over time and asking students to write about their own experience in that light. The mechanism is motivational rather than cognitive — the intervention targets the interpretation of adversity, not skills or content, which is why effects tend to be strongest when students face a transition (e.g., entry to middle school, high school, or college) and when the environment is genuinely ambiguous about whether one belongs. The design element this claim operationalizes is described in [Belonging](../elements/belonging.md).

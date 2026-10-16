@@ -13,7 +13,7 @@ generated:
 # Generative Processing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (5 for, 4 mixed) · 16 studies (5 causal, 5 review, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 3 of 16 report an effect size · 5 claims rest on one study
+> **Evidence** · 11 claims (7 for, 4 mixed) · 19 studies (6 causal, 5 quant-synthesis, 5 review, 3 theoretical), `q1`–`q4` · 4 of 19 report an effect size · 6 claims rest on one study
 
 ## Description
 Generative processing is the cognitive work learners do to actively construct meaning from instructional material — summarizing, self-explaining, drawing, mapping, questioning, or teaching — rather than passively receiving it. It originates in generative learning theory (Wittrock), which holds that learning occurs when learners generate relations between new content and their prior knowledge and between different parts of the material. In Mayer's cognitive theory of multimedia learning, generative processing is one of three demands on working memory, alongside extraneous processing and essential processing; instruction must manage the first two to leave capacity for the third.
@@ -57,6 +57,10 @@ Learning improves when learners are prompted to generate content-relevant cognit
 - [Immediate LLM explanations risk bypassing the generative processes required for durable understanding](../claims/genai-offloading-bypasses-desirable-difficulties.md) [~W]
 - [Students' generative AI use may function either as a scaffold supporting thinking or as a shortcut bypassing essential cognitive processes](../claims/ai-scaffold-or-shortcut-pathways.md) [~W]
 - [Generative learning involves mentally reorganizing and integrating to-be-learned information with prior knowledge, enabling application to new situations](../claims/generative-learning-reorganizing-integrating-prior-knowledge.md) [+W]
+
+## The evidence by question
+- *Does having learners generate their own elaborations improve learning, compared with no elaboration or with elaborations supplied to them?* [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](../claims/generative-processing-improves-learning.md) [+M]
+- *Does generating an answer or item, rather than reading it, improve later memory of it, and for which materials?* [Generation Effect Improves Retention](../claims/generation-effect-improves-retention.md) [+S]
 
 ## Related Elements
 - [Practice](practice.md) — retrieval practice is a generative act; generation and retrieval reinforce each other

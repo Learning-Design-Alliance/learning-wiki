@@ -13,7 +13,7 @@ generated:
 # In-Class Activities
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies (5 quant-synthesis, 1 causal, 1 review, 1 design, 1 theoretical), `q2`–`q4` · 6 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 12 studies (5 quant-synthesis, 2 causal, 2 theoretical, 1 review, 1 associational, 1 design), `q2`–`q4` · 6 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 In-class activities are structured tasks — problem solving, discussions, simulations, peer instruction, case analysis — that require learners to actively generate, apply, or critique content during class time rather than passively receive it. They shift class time from information transmission to supervised application, with the instructor acting as facilitator and feedback source.
@@ -55,6 +55,12 @@ Structured in-class activities improve exam performance and reduce failure rates
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Undergraduate physics students react highly positively to the IF-AT format](../claims/students-highly-positive-reaction-to-if-at.md) [+W]
+
+## The evidence by question
+
+- *Does replacing part of lecture with active learning raise exam scores and pass rates?* [Active Learning Improves Exam Performance](../claims/active-learning-improves-exam-performance.md) [+S]
+- *Which kind of activity: manipulating material, generating beyond it, or building on a partner's ideas?* [Constructive learning beats active and passive learning](../claims/constructive-learning-beats-active-passive.md) [+M]
+- *Will learners recognise that they learn more from in-class activities than from a fluent lecture?* [Students in active classrooms reported lower feeling of learning than students in passive lectures (0.56 SD lower, P < 0.001)](../claims/active-learning-lower-feeling-of-learning.md) [~M]
 
 ## Related Elements
 - [Peer Collaboration](peer-collaboration.md) — the social structure most in-class activities run on; peer explanation drives elaboration

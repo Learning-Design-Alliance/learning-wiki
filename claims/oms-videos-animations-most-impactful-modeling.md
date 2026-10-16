@@ -41,8 +41,9 @@ Interpretive case study of 42 students in the I-TEP Web-based course during summ
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Downloading large compressed video and animation files took students one to two hours, prompting growing requests for CD and DVD copies as the course progressed](oms-download-time-barrier.md) — related
 - [Integrating cognitive apprenticeship methods in a Web-based course required a significant and largely unbounded instructor time investment](web-based-ca-instructor-time-burden.md) — related
 - [Instructor access to students' individual Web folders enabled coaching on work-in-progress in the Web-based course](web-folders-enable-coaching.md) — related

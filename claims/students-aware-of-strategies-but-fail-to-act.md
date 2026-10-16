@@ -41,8 +41,9 @@ Narrative review section on taking action, reporting the synthesis by Winstone e
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Learners underuse effective learning strategies such as spacing and retrieval practice](learners-underuse-effective-learning-strategies.md) — the general claim this finding bears on, with the studies behind it
 - [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — related
 - [Business Writing students valued AI feedback for higher-order and sentence-level comments but found it sometimes too general, while appreciating peers' contextual knowledge](business-writing-students-value-ai-feedback-but-find-it-general.md) — related
 - [Student reflections identify speed and scaffolding as the dominant theme, with verification burden, overreliance worries, and prompt precision also prevalent](reflection-themes-copilot-comment-workflow.md) — related

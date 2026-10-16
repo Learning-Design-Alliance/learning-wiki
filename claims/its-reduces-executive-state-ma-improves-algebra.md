@@ -65,6 +65,7 @@ Pre/posttest of conceptual and procedural knowledge of linear systems (six items
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
 
 ## Related Claims
 - [The mindfulness interventions did not significantly change anticipatory or executive state-MA relative to cognitive support alone](no-condition-difference-state-ma.md) — related

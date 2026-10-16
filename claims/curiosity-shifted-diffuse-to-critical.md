@@ -40,6 +40,9 @@ Descriptive pre/post comparison of emotional responses in the session surveys. T
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+
 ## Related Claims
 - [After the co-designed AI session, community members' concerns about AI persisted but became more specific, concrete, and actionable](ai-concerns-persisted-but-became-specific.md) — a broader claim this one bears on
 - [Positioning personal experience as an epistemic resource supports expansion from inward to outward critical orientations](positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md) — related

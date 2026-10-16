@@ -42,6 +42,9 @@ Descriptive/latent-growth results for the district cohort shown in Figure 1, bas
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Self-efficacy declines steadily for all students between 5th and 8th grade even while math and reading achievement grow](self-efficacy-declines-middle-school-achievement-grows.md) — related
 - [Self-management and self-efficacy show highly collinear growth during middle school, with slopes correlated .95 and intercepts .74](sel-growth-construct-collinearity.md) — related

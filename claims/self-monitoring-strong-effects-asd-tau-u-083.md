@@ -41,10 +41,13 @@ Meta-analysis of 16 single-subject studies with 28 unique participants; the arti
 
 ## Discussion
 
-
 ## Learner Variables
 - [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Outcomes of students with disabilities improve when they receive specially designed instruction responsive to assessment data](specially-designed-instruction-responsive-to-assessment-data-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
+
+- [Self Monitoring Improves On Task Behavior](self-monitoring-improves-on-task-behavior.md) — the general claim this finding bears on, with the studies behind it
 - [Self-monitoring intervention effects rest on four key components: selecting a target behavior, defining it, self-assessment, and self-recording](self-monitoring-four-key-components.md) — related
 - [Academic self-management interventions for students with emotional and behavioral disorders show a large overall mean effect size of 1.80 across 22 studies](self-management-ebd-overall-es-1-80.md) — related

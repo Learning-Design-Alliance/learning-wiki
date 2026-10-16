@@ -30,7 +30,7 @@ sources:
 # In-context learning with few-shot examples and explanations does not unlock Beyond-K-5 reasoning for the 5B LittleLearner
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Few-shot prompting with three manually authored chain-of-thought examples per CCSS standard yields modest K-5 gains but no gain at all in Beyond-K-5 on MathCAMPS. [→ Fanfei Li 2026](#fanfei-li-2026)

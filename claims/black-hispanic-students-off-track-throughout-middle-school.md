@@ -42,6 +42,9 @@ Abstract contrast between named groups in the national longitudinal analysis: "h
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Being male, Black, or Hispanic and changing schools predict lower odds of moving on-track; the reading findings are qualitatively similar](demographics-predict-moving-on-track.md) — related
 - [Always on-track and always off-track students attend schools with systematically different demographic compositions](trajectory-groups-differ-school-demographics.md) — related

@@ -42,6 +42,9 @@ Subgroup comparison from the survey's military-use concern question; the article
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Students' variation in concern across ethical issues corresponds with topic coverage on typical CS ethics syllabi, which rarely address military applications](syllabus-coverage-matches-concern-variation.md) — related
 - [Respondents overestimate apathy in their field: for most ethical issues, students' own concern exceeds the concern they perceive among CS peers](field-apathy-overestimation-ethical-concerns.md) — related

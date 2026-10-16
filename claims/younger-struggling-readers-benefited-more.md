@@ -42,6 +42,9 @@ Across Tables 2 and 3, several fifth-grade impacts carry the report's marker for
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [The interventions narrowed some reading gaps, reducing the Word Attack gap by about two-thirds for third graders and one-half for fifth graders](interventions-narrowed-reading-gap-word-attack.md) — related
 - [Failure Free Reading, the only word-level-plus-comprehension program, showed impacts for third graders but no impacts for fifth graders](failure-free-reading-impacts-third-grade-only.md) — a narrower finding that bears on this claim

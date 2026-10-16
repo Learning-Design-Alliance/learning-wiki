@@ -41,8 +41,9 @@ Qualitative think-aloud study of ten German teenage learners composing an Englis
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Review-reported experiment found output performed noticing and hypothesis-testing functions but no apparent metalinguistic function in L2 writing](zhao-ping-output-functions-writing-experiment.md) — the general claim this finding bears on, with the studies behind it
 - [While producing L2 paragraphs, an EFL learner's self-noticed problems were overwhelmingly lexical (about 79%) rather than grammatical (about 21%)](output-noticing-predominantly-lexical.md) — related
 - [Notetaking as a feedback tool facilitates resolution of lexical problems but leaves grammatical problems unresolved, suggesting reformulation as an alternative](notetaking-feedback-limits-grammar-resolution.md) — related
 - [Comparing original texts to model paragraphs prompted noticing that was again focused on lexical features](model-comparison-noticing-lexical.md) — related

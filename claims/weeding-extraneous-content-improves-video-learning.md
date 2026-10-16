@@ -41,8 +41,9 @@ The essay reports, citing Ibrahim et al. (2012), that weeding "can improve reten
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Segmenting video into short pieces or click-forward pauses supports student engagement and learning from video](segmenting-supports-video-engagement-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Coherence Principle Irrelevant Material Hurts Learning](coherence-principle-irrelevant-material-hurts-learning.md) — possibly the same claim (merge candidate)
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — a broader claim this one bears on
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — possibly the same claim (merge candidate)

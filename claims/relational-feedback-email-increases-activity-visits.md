@@ -41,6 +41,7 @@ Pre–post behavioural engagement analysis comparing at-risk students' visits to
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI-powered predictive analytics improves academic performance by enabling early identification of at-risk students and timely intervention](ai-predictive-analytics-improves-academic-performance.md) — the general claim this finding bears on, with the studies behind it
 - [At-risk students reported general satisfaction with the relational feedback intervention, and most respondents preferred it more frequently than twice per semester](at-risk-students-satisfied-prefer-frequent-feedback.md) — related

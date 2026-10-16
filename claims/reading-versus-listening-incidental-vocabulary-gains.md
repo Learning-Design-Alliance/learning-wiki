@@ -64,12 +64,14 @@ This meta-analysis (open-access full text read) pooled 24 studies of second-lang
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does a learner who listens to a text, or reads while listening, lose anything against reading it?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **3 distinct studies** (2 review, 1 quant-synthesis), `q2`–`q3`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does a learner who listens to a text, or reads while listening, lose anything against reading it?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **5 distinct studies** (3 quant-synthesis, 2 review), `q2`–`q3`, 3 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Restrepo Ramos 2015](https://doi.org/10.15446/profile.v17n1.43957) | q3 · review · r2 | i? | this claim |
 | [Webb et al. 2023](https://doi.org/10.1017/s0261444822000507) | q3 · quant-synthesis · r3 | i3 · large effect, g = 1.14 on first posttests | this claim |
+| [de Vos 2018](https://doi.org/10.1111/lang.12296) | q3 · quant-synthesis · r3 | i3 | [Meaning-focused exposure to spoken L2 input yields large vocabulary gains (g = 1.05) in in](spoken-input-incidental-l2-word-learning-large-gains.md) (supports) |
+| [Adesope 2012](https://doi.org/10.1037/a0026147) | q3 · quant-synthesis · r3 | i1 | [Spoken–written presentations do not outperform written-only presentations but do outperfor](spoken-written-beats-spoken-only-not-written-only.md) (qualifies) |
 | Salarvand 2022 | q2 · review · r1 | i? | [Repeated listening improves oral reading fluency in second-grade students, with Listening ](repeated-listening-improves-oral-reading-fluency.md) (qualifies) |
 <!-- synthesis:end -->
 

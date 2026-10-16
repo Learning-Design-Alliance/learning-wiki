@@ -1,0 +1,40 @@
+{
+  "principle": "elements/scientific-reasoning",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "explicit-reasoning-instruction-preliminary-large-gains",
+      "question": "Does teaching reasoning patterns explicitly develop learners' scientific reasoning more than content instruction or unguided inquiry does?",
+      "members": [
+        [
+          "reformed-pedagogy-content-gains-but-no-reasoning-gains",
+          "+"
+        ],
+        [
+          "hh-guidance-beats-ll-cvs-children",
+          "+"
+        ],
+        [
+          "no-advantage-low-before-high-guidance",
+          "+"
+        ],
+        [
+          "minimal-guidance-less-effective-for-novices",
+          "+"
+        ],
+        [
+          "direct-instruction-advantages-vanish-long-term",
+          "~"
+        ],
+        [
+          "argumentation-improves-reasoning",
+          "~"
+        ],
+        [
+          "discourse-practices-correlate-reasoning-tests",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

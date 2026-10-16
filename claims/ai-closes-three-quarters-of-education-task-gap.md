@@ -30,7 +30,7 @@ sources:
 # AI assistance closes about three-quarters of the baseline education-based task-performance gap, though a 0.139 SD gap remains among treated participants
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r3` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Without AI, high-education participants outperform low-education participants by 0.548 SD on the overall task score. [→ Guillermo Cruces 2026](#guillermo-cruces-2026)

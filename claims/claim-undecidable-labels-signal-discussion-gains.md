@@ -30,7 +30,7 @@ sources:
 # Undecidable labels before discussion predict accuracy gains from AI agent discussions, but persistent undecidable labels after discussion signal smaller gains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2` · `i1` small
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` A higher number of 'Undecidable' labels in initial coding predicts greater accuracy improvement through discussions (effect size 0.123, p<0.01). [→ Jeongyeon Kim and John Mitchell 2026](#jeongyeon-kim-and-john-mitchell-2026)

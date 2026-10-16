@@ -42,6 +42,9 @@ Observational analysis of MAP Growth scores from 2.1 million BIPOC students in g
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Black, AIAN, and Latinx students made 55-68% of typical math gains and 73-86% of typical reading gains during the pandemic, while Asian American students made 88-100%](bipoc-fraction-of-typical-gains-pandemic.md) — related
 - [Fall 2020 math achievement was 5 to 10 percentile points lower than pre-COVID-19 performance by same-grade students](fall-2020-math-achievement-5-10-percentile-points-lower.md) — a broader claim this one bears on

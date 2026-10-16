@@ -61,6 +61,9 @@ An eighth-grade NAEP mathematics data study with teacher and student surveys (Ak
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [African American teacher candidates are less likely to receive job offers than white candidates despite similar or better qualifications.](discriminatory-teacher-hiring.md) — related
 - [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — related

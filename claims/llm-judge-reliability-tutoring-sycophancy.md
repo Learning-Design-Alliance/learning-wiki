@@ -30,7 +30,7 @@ sources:
 # LLM-judge evaluation of tutoring sycophancy shows systematic self-judge blind spots and missed sycophancy even under judge consensus
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` GPT-5.2 as Judge A flagged none of its own tutor outputs as sycophantic, and a human audit overturned 10 of 98 consensus-PASS cases, so disagreement is a lower-bound reliability warning. [→ Enkelejda Kasneci and Gjergji Kasneci 2026](#enkelejda-kasneci-and-gjergji-kasneci-2026)

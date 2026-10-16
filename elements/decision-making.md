@@ -13,7 +13,7 @@ generated:
 # Decision-Making
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (5 for, 3 mixed) · 14 studies (5 causal, 4 theoretical, 2 quant-synthesis, 2 review, 1 associational), `q1`–`q4` · 1 of 14 report an effect size · 4 claims rest on one study
+> **Evidence** · 9 claims (5 for, 4 mixed) · 15 studies (5 causal, 4 theoretical, 3 review, 2 quant-synthesis, 1 associational), `q1`–`q4` · 1 of 15 report an effect size · 5 claims rest on one study
 
 ## Description
 Decision-making as an instructional element places learners at a genuine choice point within a structured activity: they must weigh options, justify a selection, and experience the consequences of that selection. Rather than being told the correct course of action, learners construct the reasoning that connects evidence, constraints, and goals to a commitment — making the quality of reasoning, not just the choice itself, the object of instruction.
@@ -57,6 +57,10 @@ Decision-making tasks support learning because they require learners to actively
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [All three instructional groups began at comparable, mostly low decision-making levels and all improved over the intervention](../claims/all-groups-improved-from-low-baseline.md) [+W]
 - [Reflective strategies such as cognitive forcing, pre-commitment, and uncertainty communication reduce overreliance on AI and improve decision quality, but have been evaluated only as short-term single-session interventions](../claims/reflective-strategies-short-term-only-evidence.md) [~W]
+
+## The evidence by question
+- *Does instruction built around making and justifying decisions improve learners' decision-making, and which form of it does most?* [All three instructional groups began at comparable, mostly low decision-making levels and all improved over the intervention](../claims/all-groups-improved-from-low-baseline.md) [+M]
+- *When learners make decisions with AI support, does the support erode their own judgement, and do reflection prompts protect it?* [Over-reliance on AI dialogue systems fosters complacency and dependency that impairs students' decision-making abilities](../claims/ai-overreliance-impairs-decision-making.md) [~M]
 
 ## Related Elements
 - [Collaborative Decision-Making](collaborative-decision-making.md) — the group variant; negotiation of criteria is the added learning mechanism

@@ -30,7 +30,7 @@ sources:
 # Different LLMs rely on different subsets of rubric traits when assigning essay scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Trait mentions in LLM feedback are not uniformly distributed, with praise concentrated on a few traits and criticism spread more broadly, varying across models and rubric structures. [→ Jerin George Mathew 2026](#jerin-george-mathew-2026)
@@ -60,6 +60,9 @@ Average absolute SHAP values from the proxy XGBoost models for GPT models on ASA
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades](prompt-rubric-quality-drives-llm-grading.md) — the general claim this finding bears on, with the studies behind it
+
+- [LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks](llm-grading-mixed-against-human-raters.md) — the general claim this finding bears on, with the studies behind it
 - [LLM feedback sentiment tracks assigned scores: low scores come with more criticism, high scores with more praise](llm-feedback-sentiment-tracks-scores.md) — related

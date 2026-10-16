@@ -13,7 +13,7 @@ generated:
 # Midterm Exam
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 6 studies (3 review, 1 causal, 1 associational, 1 theoretical), `q2`–`q3` · 1 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (3 for, 4 mixed) · 8 studies (3 review, 2 associational, 1 causal, 1 quant-synthesis, 1 theoretical), `q2`–`q4` · 3 of 8 report an effect size · 5 claims rest on one study
 
 ## Description
 A midterm exam is a formal, summative assessment administered at the midpoint of a course to measure student understanding and retention of material covered so far. Beyond certification of progress, it functions as a high-stakes retrieval event: preparing for and taking the exam forces learners to reconstruct and consolidate course content.
@@ -55,6 +55,11 @@ Midterms leverage the testing effect — the act of retrieving information stren
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Students who used LLMs on assignments scored significantly lower than non-users on the first midterm (large effect size), but this gap narrowed and was non-significant on the later midterms](../claims/llm-users-lower-midterm1-score-gap-narrowed.md) [~W]
 - [Evaluating GenAI-generated solutions produced no significant differences on midterm scores, final exam scores, course percentages, or normalized exam change relative to solving problems directly](../claims/genai-evaluation-null-summative-algorithms.md) [~W]
+
+## The evidence by question
+- *In real courses, do quizzes raise achievement, and when, how often and with what questions should they be given?* [Classroom testing (quizzing) significantly boosts student academic achievement to a medium extent (g = 0.499).](../claims/classroom-quizzing-medium-effect-achievement.md) [+M]
+- *Does anxiety about the end-point test lower the scores it records, and do the test's conditions change that?* [Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation](../claims/test-anxiety-negative-exam-performance.md) [~M]
+- *Do gains learners make with generative AI on coursework show up on midterm and final exams taken without it?* [Students received significantly higher homework scores during GenAI-evaluation periods, but this advantage did not transfer to downstream exams](../claims/genai-homework-advantage-no-transfer.md) [+M]
 
 ## Related Elements
 - [Assessment](assessment.md) — the parent element; a midterm is a summative instance positioned mid-course

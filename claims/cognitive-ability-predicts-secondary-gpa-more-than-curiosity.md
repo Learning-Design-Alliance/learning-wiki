@@ -39,10 +39,30 @@ Bivariate correlations with self-reported, degree-corrected secondary GPA (N = 4
 
 > "Secondary academic performance obtained at T3 was signiﬁcantly predicted by both cognitive ability and curiosity, with a larger correlation coefﬁcient for the former compared to the latter (r = 0.39 vs. 0.20 for T1)."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **6 distinct studies** (6 associational), `q2`–`q3`, 2 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Mussel 2022](https://doi.org/10.3390/jintelligence10020023) | q3 · associational · r2 | i1; i? | this claim; [Neither cognitive ability, curiosity, nor epistemic behavior significantly predicts tertia](no-significant-predictors-tertiary-gpa.md) (qualifies) |
+| [cog-corr](https://doi.org/10.1145/3772318.3791666) | q3 · associational · r2 | i? | [Domain-general cognitive skills correlate positively with vibe-coding performance, CS achi](cognitive-skills-correlate-with-vibe-coding-and-predictors.md) (supports) |
+| [Benjamin Mawdsley 2026](https://doi.org/10.48550/arxiv.2607.26063) | q2 · associational · r2 | i? | [Cluster profiles of student mathematics performance are dominated by overall ability, with](cluster-profiles-dominated-by-overall-ability.md) (supports) |
+| [Moore 2011](https://doi.org/10.48550/arxiv.1110.2764) | q2 · associational · r1 | i1 | [Pre-instruction LCTSR scores correlate with normalized learning gains, most strongly for t](lctsr-prescore-correlates-content-gains-theoretical-strongest.md) (supports) |
+| [Robert M. DeKeyser 2000](https://doi.org/10.1017/s0272263100004022) | q3 · associational · r? | i? | [Very few adult immigrants score within the range of child arrivals on a grammaticality jud](few-adult-immigrants-match-child-range-gjt-verbal-analytical-ability.md) (supports) |
+| Shuaizhang Feng 2022 | q3 · associational · r? | i? | [Teacher reports of noncognitive skills add predictive power beyond baseline IQ for most sc](teacher-reports-add-power-beyond-iq.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — predictor: learners who differ on it differ in outcomes
+- [Interest](../learner-variables/interest.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — the general claim this finding bears on, with the studies behind it
 
 - [Cognitive ability and curiosity are positively correlated in young adults](cognitive-ability-curiosity-positive-correlation.md) — related
 - [Neither cognitive ability, curiosity, nor epistemic behavior significantly predicts tertiary academic performance in the heterogeneous sample](no-significant-predictors-tertiary-gpa.md) — related

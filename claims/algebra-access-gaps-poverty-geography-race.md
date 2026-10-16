@@ -42,6 +42,9 @@ The brief reports that its analysis of eighth-grade students "point[s] to signif
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Access to 8th-grade Algebra remains highly inequitable across the United States](8th-grade-algebra-access-inequitable-nationwide.md) — a broader claim this one bears on
 - [Observation scores have a stronger relationship with school poverty than value-added scores](observation-scores-stronger-school-poverty-relationship-than-value-added.md) — related

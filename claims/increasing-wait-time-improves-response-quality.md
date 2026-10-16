@@ -69,9 +69,9 @@ Rowe's review distinguishes wait time 1 (the pause after asking a question) and 
 |---|---|---|---|
 | [Tobin 1987](https://doi.org/10.3102/00346543057001069) | q3 · review · r? | i? | this claim; [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) (supports) |
 | [Rowe 1986](https://doi.org/10.1177/002248718603700110) | q2 · review · r? | i? | this claim |
+| Knight 1985 | q2 · theoretical · r2 | i? | [Teachers give disinvited students less wait time than invited students when they cannot an](wait-time-invited-disinvited-students.md) (qualifies) |
 | [Redfield & Rousseau 1981](https://doi.org/10.3102/00346543051002237) | q3 · quant-synthesis · r? | i? | [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) (supports) |
 | [Rosenshine et al 1996](https://doi.org/10.3102/00346543066002181) | q3 · quant-synthesis · r? | i1 · small–medium effect, median d=0.36 (standardized tests) | [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) (supports) |
-| Knight 1985 | q2 · theoretical · r2 | i? | [Teachers give disinvited students less wait time than invited students when they cannot an](wait-time-invited-disinvited-students.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -83,6 +83,8 @@ Rowe's review distinguishes wait time 1 (the pause after asking a question) and 
 **Open questions.** Most of the classic evidence base is observational or small-scale, and effects on durable learning outcomes (as opposed to immediate response quality) are less well established [~W]. Whether wait-time benefits compound in [discussion-based learning](../principles/collaborative-learning.md) formats, where student-to-student uptake matters most, is an open empirical question. Both reviews recorded above were read as abstracts and report no effect sizes.
 
 ## Related Claims
+
+- [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — the general claim this finding bears on, with the studies behind it
 
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 

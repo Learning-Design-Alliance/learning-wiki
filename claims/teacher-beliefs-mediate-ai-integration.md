@@ -37,6 +37,26 @@ Narrative review attribution: the article reports, citing Kazmaci et al. (2025) 
 
 > "Knowledge alone was insufficient; what determined integration was whether teachers believed AI to be valuable and felt confident deploying it."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Which teacher knowledge predicts integrating AI into teaching: technology knowledge alone, or knowledge integrated with pedagogy and content, together with beliefs?* This table gathers the studies behind this claim and the 18 narrower claims that bear on it: **11 distinct studies** (7 associational, 2 theoretical, 1 design, 1 review), `q1`–`q3`, 4 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Lin J and Al-Hada NM 2026](https://doi.org/10.3389/fpsyg.2026.1906070) | q2 · theoretical · r2 | i? | this claim |
+| [Meijuan Xie 2025](https://doi.org/10.48550/arxiv.2503.13533) | q2 · associational · r? | i3; i1 | [AI-TK contributes to AI-TPACK only indirectly through AI-TPK and AI-TCK, which positively ](ai-tk-indirect-path-aick.md) (supports); [Teaching beliefs are negatively associated with AI-TCK and AI-TPK and show no significant ](teaching-beliefs-negative-aick.md) (qualifies) |
+| [Zou J 2026](https://doi.org/10.3389/fpsyg.2026.1911909) | q2 · associational · r2 | i3; i? | [AI literacy positively predicts AI-TPACK among Chinese pre-service science teachers](ai-literacy-predicts-ai-tpack-preservice-science-teachers.md) (supports); [AI literacy relates to AI integration intention through a serial indirect pathway via AI-T](serial-mediation-ai-literacy-tpack-efficacy-intention.md) (supports); [AI-TPACK positively predicts science teaching self-efficacy among Chinese pre-service scie](ai-tpack-predicts-science-teaching-self-efficacy.md) (supports) |
+| [Bai X and Hsieh T-S 2026](https://doi.org/10.3389/fpsyg.2026.1834827) | q2 · associational · r2 | i? | [Among AI-TPACK dimensions, all except AI technological knowledge and integrative AI-TPACK ](ai-tpack-dimensions-associated-with-ai-teaching-innovation-behavior.md) (qualifies); [Professional identity and AI literacy partially mediate AI-TPACK associations with innovat](mediation-of-ai-tpack-effects-on-innovation-behavior.md) (qualifies) |
+| [Riandi Riandi 2026](https://doi.org/10.1038/s41598-025-34422-4) | q3 · associational · r1 | i?; i3 | [AI knowledge and attitudes toward AI did not significantly predict teachers' AI integratio](ai-knowledge-attitudes-not-significant-predictors.md) (supports); [Teachers' practical use of AI in science and green energy learning significantly predicts ](ai-use-in-green-energy-teaching-predicts-integration-ability.md) (qualifies) |
+| [Feng 2026](https://doi.org/10.1016/j.chbah.2026.100402) | q2 · associational · r2 | i? | [Pedagogical AI competence is positively associated with teachers' AI use](pedagogical-ai-competence-associated-with-ai-use.md) (supports) |
+| [Sutedjo A 2026](https://doi.org/10.3389/feduc.2026.1913310) | q2 · associational · r2 | i3; i? | [Technological knowledge of GenAI is strongly associated with self-perceived knowledge in t](tk-strongly-associated-technology-integrated-domains.md) (qualifies); [Content knowledge is not significantly associated with self-perceived knowledge in any tec](content-knowledge-not-associated-genai-integration.md) (qualifies) |
+| [Sun 2025](https://doi.org/10.48550/arxiv.2605.13906) | q2 · associational · r1 | i? | [AI-TPACK integration quality differs across behavioral clusters: Optimizers achieve cohesi](ai-tpack-integration-differs-by-cluster.md) (supports); [Behavioral patterns alone insufficiently predict AI-TPACK capacity because Cluster 3 is po](behavior-alone-insufficient-predict-ai-tpack.md) (qualifies); [Interview data link cluster differences in AI-TPACK integration to distinct profiles of AI](cognitive-affective-profiles-explain-design-behaviors.md) (supports) |
+| [Mnguni L 2026](https://doi.org/10.3389/feduc.2026.1897632) | q1 · theoretical · r3 | i? | [Additive TPACK–belief integrations produce construct overlap, causal ambiguity, and weak i](additive-tpack-belief-models-weak-intervention-guidance.md) (qualifies) |
+| [Zijing Wu and Qiang Li 2026](https://doi.org/10.1186/s41239-026-00604-x) | q2 · design · r2 | i? | [Expert perceptions reveal a developmental asymmetry in which content knowledge outweighs i](developmental-asymmetry-ck-over-tpack.md) (qualifies) |
+| [Ó Ceallaigh 2026](https://doi.org/10.1016/j.caeo.2026.100367) | q2 · review · r2 | i? | [Teacher educators show shallow understanding of GenAI tools and gaps in aligning AI use wi](teacher-educators-shallow-genai-understanding-gaps.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

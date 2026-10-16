@@ -30,7 +30,7 @@ sources:
 # Teachers used Forms to support social-emotional learning through daily well-being check-ins and anonymous voice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` One elementary teacher sent a daily open-text well-being question via Forms and credited peer anonymity with students feeling safe sharing feelings. [→ Digital Promise 2018](#digital-promise-2018)

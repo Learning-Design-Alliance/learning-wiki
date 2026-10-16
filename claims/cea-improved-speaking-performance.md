@@ -41,7 +41,8 @@ Univariate post-hoc analysis from the quasi-experiment's post-test. The article 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Compared with non-ePortfolio peers, students in courses requiring ePortfolios were generally more engaged, earned higher grades, and were more likely to complete and persist, per the 26-institution project evidence](epportfolio-courses-engagement-grades-persistence.md) — the general claim this finding bears on, with the studies behind it
 - [Experimental-group students outperformed control-group students on post-test feedback literacy after CEA implementation](cea-improved-feedback-literacy.md) — related
 - [The CEA learning model has a significant simultaneous effect on EFL students' speaking performance and feedback literacy](cea-simultaneous-effect-speaking-feedback-literacy.md) — a broader claim this one bears on

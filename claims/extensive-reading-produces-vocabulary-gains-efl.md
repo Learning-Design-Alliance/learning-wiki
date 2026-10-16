@@ -41,11 +41,14 @@ In the 60-participant extensive reading study over 37 weeks, even the low-level 
 
 ## Discussion
 
-
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — the general claim this finding bears on, with the studies behind it
+
+- [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — the general claim this finding bears on, with the studies behind it
 - [Prior vocabulary knowledge moderates vocabulary learning gains in an extensive reading program, with high-level learners gaining more than intermediate and low-level learners](prior-vocabulary-knowledge-moderates-extensive-reading-gains.md) — related
 - [Vocabulary knowledge gained through extensive reading showed little decay on a three-month delayed posttest, with relative gains ranging from 21.05% (low-level) to 59.01% (high-level)](little-decay-three-month-delayed-posttest-extensive-reading.md) — related
 - [Vocabulary learning gains in Term 2 of the extensive reading program were consistent with those from Term 1](term2-gains-consistent-with-term1.md) — related

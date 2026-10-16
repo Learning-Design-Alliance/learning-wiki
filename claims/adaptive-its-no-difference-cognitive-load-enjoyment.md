@@ -41,7 +41,12 @@ Linear regressions with condition as independent variable and the three self-rep
 
 ## Discussion
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+
 ## Related Claims
+
+- [Included studies suggest engagement increases when adaptive platform activities are tailored to learners' personal needs and emotional state](adaptivity-emotional-tailoring-increases-engagement.md) — the general claim this finding bears on, with the studies behind it
 
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Latent learner profiles did not moderate the effectiveness of the adaptive ITS](learner-profiles-no-moderation-adaptive-its.md) — related

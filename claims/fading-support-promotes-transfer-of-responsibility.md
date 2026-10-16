@@ -62,7 +62,7 @@ Across a field experiment and two laboratory experiments, the authors compared a
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should support be withdrawn, and in what order?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **10 distinct studies** (5 causal, 2 review, 1 qualitative, 1 quant-synthesis, 1 theoretical), `q2`–`q3`, 1 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should support be withdrawn, and in what order?* This table gathers the studies behind this claim and the 14 narrower claims that bear on it: **13 distinct studies** (7 causal, 3 review, 1 qualitative, 1 quant-synthesis, 1 theoretical), `q2`–`q3`, 1 of 13 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -76,12 +76,17 @@ Across a field experiment and two laboratory experiments, the authors compared a
 | [Kalyuga et al. 2003](https://doi.org/10.1207/s15326985ep3801_4) | q3 · review · r? | i? | [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md) (supports) |
 | [Renkl & Atkinson 2003](https://doi.org/10.1207/s15326985ep3801_3) | q3 · theoretical · r? | i? | [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md) (supports) |
 | [Gupta 2020](https://doi.org/10.20897/ejsteme/9252) | q3 · causal · r2 | i? | [Lower-prior-knowledge learners scored higher on an algebra posttest after full-worked than](lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples.md) (qualifies) |
+| [Ye 2026](https://doi.org/10.1186/s41239-026-00606-9) | q2 · causal · r? | i? | [Adaptive fading with periodic reinforcement yields higher independence than fixed-high or ](adaptive-fading-beats-fixed-and-linear-scaffolding.md) (qualifies) |
+| [van Gog et al. 2011](https://doi.org/10.1016/j.cedpsych.2010.10.004) | q3 · causal · r? | i? | [Example-first conditions outperformed problem-first conditions on an immediate circuit tes](worked-example-problem-sequences.md) (supports) |
+| [Slava Kalyuga 2010](https://doi.org/10.1007/s11251-009-9102-0) | q3 · review · r2 | i? | [Cognitive and metacognitive prompts in learning journals helped early in a term but became](expertise-reversal-writing-journal-prompts-fading.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
 This is sometimes called the "completion effect" in cognitive load literature. However, fading must be carefully timed; removing support too early can cause cognitive overload.
 
 ## Related Claims
+
+- [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](practice-presence-raises-cbi-posttest-achievement.md) — the general claim this finding bears on, with the studies behind it
 
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — the general claim this finding bears on, with the studies behind it
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md)

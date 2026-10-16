@@ -30,7 +30,7 @@ sources:
 # Replacing natural books with synthetic textbooks improves the 28-benchmark mean by +1.09, with gains spanning all four categories
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Full improves 19 of 28 benchmarks over Natural Books with a +1.09 overall mean, improving all four category means. [→ Jiawen Tao 2026](#jiawen-tao-2026)

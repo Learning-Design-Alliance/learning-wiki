@@ -56,8 +56,9 @@ Interview and journal data from experimental-group focal students showed critica
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Diagnostic Review revisions contained larger shares of meaning-change, organization, and content/argument work, while Control revisions remained more dependent on surface-level editing](revision-architecture-meaning-change-versus-surface.md) — the general claim this finding bears on, with the studies behind it
 - [In one quasi-experiment in EFL writing classes, students given AI-peer integrated feedback reported higher posttest cognitive engagement than students given conventional peer feedback](ai-peer-feedback-higher-cognitive-engagement.md) — related
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — related
 - [The teacher was the principal provider of oral corrective feedback, with peer and self-correction rarely proactively promoted](teacher-is-principal-ocf-provider.md) — related

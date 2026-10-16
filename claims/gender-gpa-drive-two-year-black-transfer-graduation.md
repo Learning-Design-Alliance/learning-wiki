@@ -30,7 +30,7 @@ sources:
 # For two-year black transfer students, gender and engineering GPA—not transfer status—drive graduation outcomes, with black women outperforming black men
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` For two-year black transfer students, gender and academic achievement (engineering GPA), not transfer status, are driving graduation outcomes. [→ C. Cosentino 2014](#c-cosentino-2014)

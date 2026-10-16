@@ -30,7 +30,7 @@ sources:
 # Purpose-trained single-pass generation completes a slide in a median of 17 seconds and an interactive page in 59 seconds over 220k production requests, and delivers artifacts at 15–22× lower per-artifact API cost than flagship models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Over a seven-day live-traffic window the production models completed 180k slide generations at a median of 17s and 40k interactive pages at 59s. [→ CogEvol Team 2026](#cogevol-team-2026)

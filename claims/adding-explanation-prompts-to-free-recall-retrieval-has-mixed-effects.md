@@ -62,6 +62,8 @@ The chapter reports Smith et al. (2016), in which "prompting students to describ
 
 ## Related Claims
 
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — the general claim this finding bears on, with the studies behind it
+
 - [Elaborative Encoding Improves Retention](generative-processing-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Retrieval practice enhances performance on final inference and transfer questions relative to restudying, although a single-word fill-in-the-blank task did not](retrieval-practice-improves-final-inference-and-transfer-questions.md) — related
 - [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](less-initial-retrieval-support-produces-better-retention.md) — related

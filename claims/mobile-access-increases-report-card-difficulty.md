@@ -41,11 +41,12 @@ Design-comparison study of the DC school report card. The summary states that "p
 
 ## Discussion
 
-
 ## Learner Variables
 - [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [During spring 2020 remote instruction, internet connectivity and hardware/software problems interfered with course participation for large shares of undergraduates](remote-covid-technology-access-problems-widespread.md) — the general claim this finding bears on, with the studies behind it
 - [AAC users report device useability difficulties, high cognitive load when learning communication systems, and poor physical and sensory access](aac-user-barriers-cognitive-load-access.md) — related
 - [Moving the link to the STAR framework from the top of the page to beneath the STAR score improved the school report card site's usability](star-link-beneath-score-improves-usability.md) — related
 - [Making year-over-year change salient helped users identify which schools improved most but lowered usability and satisfaction ratings](year-over-year-salience-mixed-effects.md) — related

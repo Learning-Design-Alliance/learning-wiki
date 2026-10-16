@@ -58,6 +58,22 @@ A cited study contrasting principal time uses: coaching, feedback, and program d
 
 > "Another study found that while principal time spent on teacher coaching, feedback, and developing the school’s educational program predicted positive achievement gains, time spent on informal classroom walk-throughs was negatively associated with performance outcomes"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does principal leadership raise student outcomes, and by what route?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **7 distinct studies** (5 associational, 1 review, 1 design), `q2`–`q3`, 1 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Darling-Hammond 2026](https://doi.org/10.54300/644.197) | q2 · review · r2 | i? | this claim; [In a large California study, principals' preparation quality and professional development ](california-principal-preparation-pd-outcomes.md) (supports); [Principal turnover is associated with lower student achievement, worse climate, and higher](principal-turnover-harms-achievement-climate-retention.md) (supports) |
+| [James Sebastian and Elaine Allensworth 2012](https://doi.org/10.1177/0013161x11436273) | q2 · associational · r2 | i? | [Between schools, principal leadership has small positive indirect relationships with test-](leadership-achievement-between-schools-via-climate.md) (supports); [Within schools, principal leadership relates to individual teachers' instruction through m](leadership-instruction-within-schools-program-quality.md) (supports); [Within schools, principal leadership shows a negative direct relationship with classroom a](within-school-direct-negative-leadership-academic-demand.md) (qualifies) |
+| UChicago Consortium on School Research 2025 | q2 · design · r1 | i? | [Effective principals have positive effects on student outcomes including grades, test scor](effective-principals-positive-student-outcomes.md) (supports) |
+| Rivkin 2023 | q2 · associational · r3 | i? | [Middle grades principals have lasting effects on students' high school outcomes and young-](middle-grades-principals-lasting-effects-student-outcomes.md) (supports) |
+| [Campoli 2022](https://doi.org/10.54300/438.376) | q3 · associational · r2 | i0; i? | [Principals' access to professional development is positively related to student gains in b](principal-pd-access-student-achievement.md) (qualifies); [As principals' professional development in instructional leadership increases, mathematics](instructional-leadership-pd-underserved-students.md) (qualifies) |
+| [Tan 2026](https://doi.org/10.54300/248.479) | q2 · associational · r2 | i? | [Teachers reporting higher leadership effectiveness and supports have lower predicted turno](school-leadership-associated-with-lower-turnover.md) (supports) |
+| Stuart Luppescu and Holly Hart 2005 | q2 · associational · r2 | i? | [Teachers rate principal instructional leadership highly even in many bottom-quartile schoo](principal-instructional-leadership-ratings-distribution.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

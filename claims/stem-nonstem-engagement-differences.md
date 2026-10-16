@@ -30,7 +30,7 @@ sources:
 # STEM students adopt the GenAI Tutor less and use it differently than non-STEM students, with more shallow and routine-learning engagement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` STEM students were 20 percentage points less likely to adopt the tutor (51% vs. 71%) and STEM courses showed higher shallow engagement (15.41% vs. 8.56%). [→ Youjie Chen 2026](#youjie-chen-2026)

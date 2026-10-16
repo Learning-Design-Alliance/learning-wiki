@@ -41,8 +41,9 @@ Implementation evaluation across Pilot Year 1 (2018/19), Pilot Year 2 (2019/20),
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](effective-pd-seven-features.md) — the general claim this finding bears on, with the studies behind it
 - [Most study teachers received all ERWC materials and sufficient professional learning: 82.1 percent met professional-learning thresholds and all 56 received materials](erwc-high-materials-professional-learning-fidelity.md) — related
 - [Only 17.9 percent of study ERWC teachers taught at least 8 modules with fidelity under the strand criterion, versus 62.5 percent under an activity-count criterion](erwc-low-fidelity-strand-criterion.md) — related
 - [Teachers reported that insufficient instructional minutes during the school year prevented them from teaching all required ERWC modules with fidelity](insufficient-instructional-minutes-blocked-full-erwc-coverage.md) — related

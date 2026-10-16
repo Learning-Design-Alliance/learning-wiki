@@ -30,7 +30,7 @@ sources:
 # LLM coders replicate many human discursive moves but lack questioning, adaptive responsiveness, and emotional expressiveness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` LLMs emulate basic human interaction patterns including stance maintenance, acknowledgment, evidence reassessment, contrast, tentative stances, and alternative proposals. [→ Jeongyeon Kim and John Mitchell 2026](#jeongyeon-kim-and-john-mitchell-2026)

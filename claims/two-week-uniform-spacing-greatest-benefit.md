@@ -30,7 +30,7 @@ sources:
 # Uniform two-week spacing between distillations yielded the greatest benefit among the tested schedules, ranking Standard, Mixed, Frontloaded, then Baseline
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Pairwise comparison confirmed the Standard treatment's benefit over the other treatments, with two-week spacing showing nearly twice the improvement of not using the GoldList Notebook Method. [→ John Duplice 2022](#john-duplice-2022)

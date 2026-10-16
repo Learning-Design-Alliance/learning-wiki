@@ -30,7 +30,7 @@ sources:
 # Structured prompting raises perceived interaction clarity and dependability but reduces perceived novelty of AI-supported learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The prompted condition scored highest on pragmatic UEQ dimensions, particularly Perspicuity (1.59 vs 0.77 control) and Dependability (1.23). [→ Xiaoyu Hou 2026](#xiaoyu-hou-2026)

@@ -39,7 +39,8 @@ Follow-up mediation analysis using the Baron and Kenny method and Sobel test on 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — the general claim this finding bears on, with the studies behind it
 - [Teacher confidence strongly predicts favorable attitudes toward AI adoption, while the direct effect of support on attitudes is not significant](confidence-predicts-ai-attitudes-support-direct-effect-null.md) — possibly the same claim (merge candidate)
 - [Teacher concerns do not significantly moderate the support-confidence relationship nor directly predict confidence or attitudes](teacher-concerns-do-not-moderate-support-effects.md) — related

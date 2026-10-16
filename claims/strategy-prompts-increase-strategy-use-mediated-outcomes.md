@@ -60,11 +60,14 @@ Mediation analyses across several studies: in Berthold et al. (2007) cognitive s
 
 ## Discussion
 
-
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
+
+- [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Combining cognitive and metacognitive prompts optimizes germane processing; metacognitive prompts alone help only when remedial planning is prompted and remediation is possible](combine-cognitive-metacognitive-prompts.md) — related
 - [A personal utility prompt in journal writing improves learning motivation and comprehension](personal-utility-prompt-motivation-comprehension.md) — related
 - [Self-explaining a worked example of a learning journal entry enhances strategy use and transfer of journal-writing benefits to a new topic](worked-example-self-explanation-journal-transfer.md) — related

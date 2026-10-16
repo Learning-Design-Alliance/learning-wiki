@@ -30,7 +30,7 @@ sources:
 # Decision quality collapses toward the majority action in severely imbalanced settings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Under severe imbalance with an X-learner, the mentee recommends treatment for every harmed student (UnsafeTreat = 1.000), where the mentor already recommends treatment for 0.926 of them. [→ Chenguang Pan 2026](#chenguang-pan-2026)

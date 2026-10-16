@@ -41,8 +41,9 @@ Held-out evaluation (Table 3) on the identical 492,633-attempt test partition; B
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The survey states that deep learning knowledge tracing models exhibit superior performance to Bayesian and logistic models but have significant room for improvement in interpretability.](deep-learning-knowledge-tracing-outperforms-but-lacks-interpretability.md) — the general claim this finding bears on, with the studies behind it
 - [A one-parameter IRT model outperforms global and per-pitch baselines on AUC, BCE and Brier score but not on threshold accuracy for held-out singing attempts](irt-outperforms-baselines-discrimination-not-accuracy.md) — related
 - [BKT is the most efficient knowledge tracing approach overall in simulated online mastery learning, though DKT is more efficient for AS and M problems](bkt-most-efficient-online-mastery-learning.md) — related
 - [Low-register pitches are sung more accurately than high-register pitches in Chinese classrooms, reproducing register compression at scale](register-compression-singing-accuracy-chinese-classrooms.md) — related

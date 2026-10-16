@@ -41,8 +41,11 @@ Cross-site finding from focus groups, surveys, and School C observations; the in
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — the general claim this finding bears on, with the studies behind it
+
+- [Scaffolded assistant support marks richer constructive participation at the conversation level across all six task settings](scaffolded-support-constructive-participation.md) — the general claim this finding bears on, with the studies behind it
 - [Learner-side gains from curiosity modulation persist even when tutor-side instructional quality remains unchanged or degrades, suggesting curiosity operates as a partially independent interaction-level mechanism](learner-gains-persist-despite-tutor-quality-degradation.md) — related
 - [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — related
 - [Attitudes toward AI improved after direct experience, and satisfaction was predicted by within-turn production fluency rather than linguistic uptake](satisfaction-predicted-by-production-fluency-not-uptake.md) — related

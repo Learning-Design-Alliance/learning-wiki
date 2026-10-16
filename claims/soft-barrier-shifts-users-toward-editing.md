@@ -39,8 +39,9 @@ Exploratory behavioral pilot with 18 participants using GPT-5.2 in a browser-bas
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Diagnostic Review revisions contained larger shares of meaning-change, organization, and content/argument work, while Control revisions remained more dependent on surface-level editing](revision-architecture-meaning-change-versus-surface.md) — the general claim this finding bears on, with the studies behind it
 - [Automatically updating the flowchart and injecting generated code into editors drew participants away from explanations and toward direct code editing](auto-updates-drew-users-from-explanations.md) — related
 - [Step-by-step explanations revealed one at a time, plus removed code auto-insertion and copy buttons, encouraged deeper engagement with generated explanations](step-by-step-friction-deeper-engagement.md) — related
 - [Output-level Unicode soft barriers can achieve high copy-paste resistance, but effectiveness is highly model- and task-dependent](soft-barriers-cpr-model-task-dependent.md) — a broader claim this one bears on

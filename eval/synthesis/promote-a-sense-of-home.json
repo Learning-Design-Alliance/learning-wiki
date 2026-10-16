@@ -1,0 +1,140 @@
+{
+  "principle": "elements/promote-a-sense-of-home",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "belonging-interventions-improve-outcomes",
+      "question": "Does a brief intervention that frames doubts about belonging as common and temporary improve learners' persistence and grades, and for whom?",
+      "members": [
+        [
+          "brief-belonging-interventions-lasting-effects",
+          "+"
+        ],
+        [
+          "belonging-intervention-smaller-decline",
+          "+"
+        ],
+        [
+          "ampt-session-increased-math-belonging",
+          "+"
+        ],
+        [
+          "belonging-mdp-reduces-effort-and-threat-perceptions",
+          "+"
+        ],
+        [
+          "belonging-and-persistence-intentions-decline-first-year",
+          "~"
+        ],
+        [
+          "getting-to-know-you-surveys-commonalities-gap-closure",
+          "+"
+        ],
+        [
+          "ampt-other-attitudes-unchanged",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "teacher-support-strongest-predictor-school-belonging",
+      "question": "What in a learning setting builds learners' sense of belonging?",
+      "members": [
+        [
+          "teacher-support-predicts-student-belonging",
+          "+"
+        ],
+        [
+          "student-educator-relationship-builds-self-efficacy-and-belonging",
+          "+"
+        ],
+        [
+          "social-support-themes-school-belonging",
+          "+"
+        ],
+        [
+          "contextual-themes-school-belonging",
+          "~"
+        ],
+        [
+          "individual-difference-themes-school-belonging",
+          "~"
+        ],
+        [
+          "personal-characteristics-strong-predictor-school-belonging",
+          "~"
+        ],
+        [
+          "belonging-effects-stronger-rural-than-urban",
+          "~"
+        ],
+        [
+          "collaboration-interest-belonging-worse-online",
+          "~"
+        ],
+        [
+          "tutoring-may-improve-math-confidence-and-belonging",
+          "+"
+        ],
+        [
+          "strong-student-tutor-relationships-key-to-tutoring-success",
+          "+"
+        ],
+        [
+          "blueprint-confidence-belonging-modest-increase",
+          "~"
+        ],
+        [
+          "breakthrough-tutoring-favorable-relationships-belonging",
+          "+"
+        ],
+        [
+          "supports-safety-account-transgender-disparities",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "belongingness-strongly-affects-motivation-achievement",
+      "question": "Does a stronger sense of belonging go with more engagement, achievement and persistence?",
+      "members": [
+        [
+          "sense-of-belonging-predicts-persistence-intentions",
+          "+"
+        ],
+        [
+          "mathematics-belonging-predicts-algebra-learning",
+          "+"
+        ],
+        [
+          "belonging-predicts-knowledge-building-contributions",
+          "+"
+        ],
+        [
+          "stronger-belonging-linked-engagement-achievement",
+          "+"
+        ],
+        [
+          "belonging-reduces-cognitive-barriers",
+          "+"
+        ],
+        [
+          "belonging-and-persistence-intentions-decline-first-year",
+          "~"
+        ],
+        [
+          "teacher-student-relationships-improve-engagement",
+          "+"
+        ],
+        [
+          "relationships-pathways-self-efficacy-motivation-identity",
+          "+"
+        ],
+        [
+          "four-academic-mindsets-increase-perseverance-and-behaviors",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

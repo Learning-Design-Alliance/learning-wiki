@@ -13,7 +13,7 @@ generated:
 # Spaced Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (6 for) · 9 studies (4 quant-synthesis, 3 review, 2 causal), `q2`–`q4` · 3 of 9 report an effect size · 5 claims rest on one study
+> **Evidence** · 9 claims (9 for) · 12 studies (5 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 3 of 12 report an effect size · 7 claims rest on one study
 
 ## Description
 Spaced learning is the element in which practice or review is distributed over time rather than massed together.
@@ -30,6 +30,12 @@ Spaced learning is the element in which practice or review is distributed over t
 - [Spacing out retrieval practice produces better long-term retention than massing it](../claims/spaced-retrieval-outperforms-restudy.md) [+M]
 - [Spacing content over time and interweaving different content strengthens learning and retention](../claims/spacing-interleaving-improve-retention.md) [+W]
 - [Learners underuse effective learning strategies such as spacing and retrieval practice](../claims/learners-underuse-effective-learning-strategies.md) [+W]
+
+## The evidence by question
+- *Does spreading study or practice over sessions improve later retention more than massing the same amount of it?* [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S]
+- *How long should the gap between sessions be, given when the knowledge is needed?* [The optimal interstudy interval increases as the retention interval increases](../claims/optimal-isi-increases-with-retention-interval.md) [+M]
+- *Should the gaps expand, stay equal, or contract?* [Total retrieval spacing improved one-week vocabulary recall while relative schedules were not distinguished](../claims/total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md) [+M]
+- *Will learners space their study on their own?* [Learners Misjudge Spacing Benefits](../claims/learners-misjudge-spacing-benefits.md) [+S]
 
 ## Related Elements
 - [Spaced Repetition](spaced-repetition.md)

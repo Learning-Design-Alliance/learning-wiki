@@ -42,8 +42,9 @@ Univariate mixed-effects meta-regression across 16 productivity effect sizes com
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Variation in meta-analytic effect sizes stems from synthesists' methodological choices (inclusion criteria, data extraction, formulas, outlier handling) and from study quality](meta-analysis-variation-from-methodological-choices.md) — the general claim this finding bears on, with the studies behind it
 - [Exam environment critically moderates GenAI learning effects: significant large gains when GenAI is permitted during assessment (g = 0.76) versus non-significant slightly negative effects when it is not (g = -0.06).](exam-environment-moderates-genai-learning-effects.md) — related
 - [GenAI coding assistance produces a statistically significant moderate positive effect on developer productivity (g = 0.33), with substantial heterogeneity across settings.](genai-coding-assistance-moderate-positive-productivity-effect.md) — related
 - [Instructional model shows a significant subgroup difference (traditional classroom g = 1.19 vs. AI teaching g = 0.69) that does not remain robust in multivariate meta-regression](instructional-model-subgroup-nonrobust.md) — related

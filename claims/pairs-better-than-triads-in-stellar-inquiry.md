@@ -43,6 +43,8 @@ This is the authors' experiential observation from teaching the inquiry twice (U
 
 ## Related Claims
 
+- [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — the general claim this finding bears on, with the studies behind it
+
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — a broader claim this one bears on
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related

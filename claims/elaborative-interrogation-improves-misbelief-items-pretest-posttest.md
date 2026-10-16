@@ -44,6 +44,8 @@ Experiment 2 pretest-posttest analysis: 132 students completed a 90-item pretest
 
 ## Related Claims
 
+- [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Elaborative-interrogation students are less confident in their incorrect recognition selections than reading controls, who express great confidence in erroneous answers](elaborative-interrogation-reduces-confidence-in-errors.md) — related
 - [Elaborative interrogation produced lower posttest accuracy than reading the lesson twice in a written lesson on posterior probability](elaborative-interrogation-lower-posttest-than-read-twice-posterior-probability.md) — reports the opposite

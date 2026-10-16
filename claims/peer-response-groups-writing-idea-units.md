@@ -62,6 +62,8 @@ In the same RCT, Appendix A3 reports effect sizes of 0.15 for composition qualit
 
 ## Related Claims
 
+- [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — the general claim this finding bears on, with the studies behind it
+
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — the general claim this finding bears on, with the studies behind it
 - [Peer pairing increases English learners' peer-directed language behavior but shows no significant effect on listening comprehension or teacher-directed language (Jun-Aust, 1985)](peer-pairing-language-behavior-jun-aust.md) — related
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related

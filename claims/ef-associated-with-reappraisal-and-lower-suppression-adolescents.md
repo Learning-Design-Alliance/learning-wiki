@@ -41,10 +41,11 @@ Structural equation modeling in a cross-sectional study of 368 adolescents aged 
 
 ## Discussion
 
-
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Emotion regulation is positively associated with academic motivation among university students](emotion-regulation-positively-associated-academic-motivation.md) — the general claim this finding bears on, with the studies behind it
 - [Emotion regulation is concurrently associated with executive performance in the reverse direction, with habitual suppression linked to diminished EF](reappraisal-and-suppression-reverse-linked-to-ef.md) — related
 - [Inhibitory control is the strongest concurrent correlate of cognitive reappraisal among EF components](inhibitory-control-strongest-reappraisal-correlate.md) — a narrower finding that bears on this claim

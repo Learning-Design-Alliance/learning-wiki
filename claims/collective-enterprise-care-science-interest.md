@@ -45,6 +45,7 @@ The review reports, citing Singleton et al. (2024), survey responses from 847 mi
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
 
 ## Related Claims
 - [OpenSciEd materials equitably support student participation and engagement across racial, gender, and linguistic groups, per field-test SEET and teacher-report data](openscied-equitable-participation-engagement.md) — related

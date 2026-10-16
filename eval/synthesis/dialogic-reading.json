@@ -1,0 +1,62 @@
+{
+  "principle": "elements/dialogic-reading",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "dialogic-reading-improves-language-outcomes",
+      "question": "Does interactive, dialogic shared reading raise young children's oral language more than ordinary shared reading or no extra reading?",
+      "members": [
+        [
+          "dialogic-reading-positive-oral-language-effects",
+          "+"
+        ],
+        [
+          "dialogic-reading-oral-language-improvement-index",
+          "+"
+        ],
+        [
+          "dale-1996-significant-lexical-diversity-play-total-utterances-book-reading",
+          "+"
+        ],
+        [
+          "dialogic-reading-potentially-positive-communication-language-disabilities",
+          "+"
+        ],
+        [
+          "crain-thoreson-dale-1999-parent-led-null-effects",
+          "-"
+        ],
+        [
+          "implementation-level-moderates-dialogic-reading-effects",
+          "~"
+        ],
+        [
+          "dialogic-reading-no-phonological-processing-effects",
+          "~"
+        ],
+        [
+          "dialogic-reading-sound-foundations-combined-outcomes",
+          "~"
+        ],
+        [
+          "dialogic-reading-small-evidence-base-disabilities",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "joint-book-reading-predicts-literacy-success",
+      "question": "Does reading books together with young children predict their later language and reading?",
+      "members": [
+        [
+          "parent-involvement-improves-early-reading",
+          "+"
+        ],
+        [
+          "conversational-turns-predict-language-development",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

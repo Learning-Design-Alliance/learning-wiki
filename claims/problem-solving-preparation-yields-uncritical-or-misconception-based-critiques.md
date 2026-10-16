@@ -41,11 +41,12 @@ Qualitative analysis of Solution-condition responses identified three patterns: 
 
 ## Discussion
 
-
 ## Learner Variables
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — the general claim this finding bears on, with the studies behind it
 - [MAPS-guided critique preparation led students to identify more expert-aligned weaknesses in an AI solution than independent problem-solving preparation](maps-guided-critique-supports-expert-aligned-evaluation-of-ai-solutions.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
 - [Cluster analysis identifies three stable learner profiles: Engaged and Literate, Uncritical Reliant, and Skeptical Minimal users](three-genai-learner-profiles.md) — related

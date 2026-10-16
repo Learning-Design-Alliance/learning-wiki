@@ -61,8 +61,9 @@ edge outcome in this study."
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Dialogic Reading shows no discernible effects on phonological processing](dialogic-reading-no-phonological-processing-effects.md) — related
 - [Dialogic Reading has positive effects on preschool children's oral language, per WWC synthesis of five studies](dialogic-reading-positive-oral-language-effects.md) — related
 - [Level of implementation moderates Dialogic Reading's effects on children's oral language](implementation-level-moderates-dialogic-reading-effects.md) — related

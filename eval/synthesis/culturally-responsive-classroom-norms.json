@@ -7,12 +7,12 @@
       "question": "Does a longer pause after a question, before anyone answers, improve the responses that follow?",
       "members": [
         [
-          "questioning-strategies-improve-learning",
-          "+"
-        ],
-        [
           "wait-time-invited-disinvited-students",
           "~"
+        ],
+        [
+          "questioning-strategies-improve-learning",
+          "+"
         ]
       ]
     },

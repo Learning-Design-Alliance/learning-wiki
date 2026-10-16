@@ -17,7 +17,7 @@ sources:
 # Teacher Incentive Fund (TIF) educator evaluation and compensation strategies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (3 for, 4 mixed, 1 against) · 4 studies (4 causal), `q2`–`q3` · 0 of 4 report an effect size · 8 claims rest on one study
+> **Evidence** · 8 claims (3 for, 4 mixed, 1 against) · 5 studies (5 causal), `q2`–`q3` · 0 of 5 report an effect size · 7 claims rest on one study
 
 ## Description
 This element comprises the two educator-effectiveness strategies examined in the brief's underlying IES studies: performance feedback, in which "research-based performance measures" are used "to evaluate educators and provide them with feedback," and pay-for-performance, which offered "bonuses to educators based on their performance ratings." The brief evaluates each strategy's effects on student achievement and educator satisfaction over multi-year implementations.

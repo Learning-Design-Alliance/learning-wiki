@@ -30,7 +30,7 @@ sources:
 # Pattern-based KC similarity retrieves bundle-aligned programming learning items better than code-embedding and other KC baselines in both retrieval directions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` For worked-example retrieval, the pattern-based KC approach achieved Top-5 accuracy of 0.89, MRR 0.81, and mAP 0.82, outperforming code2vec, ontology-based KCs, and remaining baselines. [→ Muntasir Hoq 2026](#muntasir-hoq-2026)

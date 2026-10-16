@@ -43,6 +43,7 @@ The brief reports three attributed academic outcomes: reduced test anxiety, incr
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
 
 ## Related Claims
 

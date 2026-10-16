@@ -23,7 +23,7 @@ sources:
 # Supplemental Educational Services
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (1 for, 3 against) · 2 studies (2 causal), `q2`–`q3` · 1 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 A No Child Left Behind programme administered through states and approved public or private providers to offer free out-of-school tutoring and academic support to eligible students in low-performing schools.

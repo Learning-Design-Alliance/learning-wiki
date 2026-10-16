@@ -60,8 +60,14 @@ The models included treatment-by-covariate and covariate interactions; the artic
 
 ## Discussion
 
+## Learner Variables
+- [Executive Function](../learner-variables/executive-function.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Executive function performance significantly predicts semantic fluency in preschool children](ef-significant-effect-semantic-fluency-preschool.md) — the general claim this finding bears on, with the studies behind it
+
+- [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](ef-predicts-preschool-math-growth.md) — the general claim this finding bears on, with the studies behind it
 - [Pretest, attendance, and EB status showed distinct covariate effects on specific literacy outcomes](covariate-effects-pretest-attendance-eb-gains.md) — related
 - [Embedded cognitive flexibility practice showed no overall advantage over phonics alone on growth in decoding, encoding, or cognitive flexibility](embedded-cognitive-flexibility-no-overall-advantage-winter-kindergarten.md) — related
 - [For students with full week-6 attendance, Flex showed significantly greater gains than Plain on taught-letter alphabetics, decoding, and word reading](week6-attendance-interaction-favors-flex.md) — related

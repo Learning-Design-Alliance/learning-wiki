@@ -41,9 +41,10 @@ The meta-analysis reports "preliminary evidence shows that higher levels of stud
 
 ## Discussion
 
-
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 -

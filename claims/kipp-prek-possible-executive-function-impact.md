@@ -44,6 +44,7 @@ Listed among the report's key findings as a possible, hedged impact on executive
 
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+- [Executive Function](../learner-variables/executive-function.md) — outcome: instruction changes it
 
 ## Related Claims
 - [KIPP Pre-K may provide an additional benefit for reading achievement above and beyond KIPP elementary school](kipp-prek-added-reading-benefit-beyond-elementary.md) — related

@@ -41,11 +41,15 @@ Descriptive comparison of risk identification rates by student background charac
 
 ## Discussion
 
-
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Students from low income, English learner, special education, and several racial/ethnic groups are more likely to be repeatedly identified as significantly below benchmark, with low income students 2.5 times as likely](massachusetts-k3-risk-inequities-student-groups.md) — the general claim this finding bears on, with the studies behind it
+
+- [School test score averages are strongly related to the income of the families a school serves](school-test-scores-strongly-related-to-family-income.md) — the general claim this finding bears on, with the studies behind it
 - [Students from low income backgrounds, English learners, students receiving special education services, and Black and Hispanic students were more often identified as at significant risk](disparities-in-early-literacy-risk-identification-massachusetts.md) — related
 - [Economically disadvantaged, English learner, special education, Black, and Hispanic students were more likely than peers to be ever below benchmark](student-group-early-literacy-disparities.md) — related
 - [Low income, English learner, special education, Black, and Hispanic students were more likely to be classified significantly below benchmark at each time period and more than once](student-group-risk-disparities.md) — related

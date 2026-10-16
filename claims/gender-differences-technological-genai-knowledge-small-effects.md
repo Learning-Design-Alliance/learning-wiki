@@ -39,8 +39,14 @@ One-way ANOVAs by gender across the seven TPACK domains in the 127-faculty surve
 
 ## Discussion
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Teaching experience does not significantly enhance MTES AI-TPACK proficiency, though experienced MTES scored slightly higher on every variable](teaching-experience-no-aick-gain.md) — the general claim this finding bears on, with the studies behind it
+
+- [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — the general claim this finding bears on, with the studies behind it
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [Learning engagement, PsyCap, and commitment differ by gender, student-leader status, and grade level](demographic-differences-engagement-psycap-commitment.md) — related
 - [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related

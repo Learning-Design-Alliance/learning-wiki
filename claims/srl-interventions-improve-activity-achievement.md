@@ -41,8 +41,9 @@ Meta-analysis of intervention studies in higher education (Cohen's d effect size
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](srl-interventions-moderate-effect-online-blended.md) — the general claim this finding bears on, with the studies behind it
 - [Most study, measurement, and intervention moderators did not explain significant variance in SRL intervention effect sizes](srl-intervention-moderators-most-nonsignificant.md) — related
 - [SRL activity only partially mediates the effect of SRL interventions on achievement in higher education](srl-partial-mediation-achievement-higher-ed.md) — related
 - [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — related

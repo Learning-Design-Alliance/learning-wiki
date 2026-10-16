@@ -42,6 +42,9 @@ Engagement-depth analysis (§5.1) across 270 conversations reported in Table 2: 
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Curiosity-oriented linguistic interventions via CURIOBOT consistently improve all learner-side exploratory dimensions relative to baseline LLM tutoring across model families](curiosity-interventions-increase-exploratory-learner-behaviors.md) — related
 - [Learner-side gains from curiosity modulation generalize across model families, academic domains, and topic complexity levels](curiosity-gains-generalize-across-models-domains-complexity.md) — related

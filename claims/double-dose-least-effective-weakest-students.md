@@ -41,8 +41,9 @@ The CCSR study found the policy's weakest outcomes among very low-skill students
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Outcomes of students with disabilities improve when they receive specially designed instruction responsive to assessment data](specially-designed-instruction-responsive-to-assessment-data-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Double-dose algebra improved algebra test scores for targeted students just below the cutoff, with a larger post-policy gain than for students just above the cutoff](double-dose-algebra-test-score-gains-targeted-students.md) — related
 - [Policy effects on grades and failure rates differed by incoming ability: most below-norm students' grades improved slightly, but the very lowest-ability students' algebra grades declined](double-dose-effects-vary-by-initial-ability.md) — possibly the same claim (merge candidate)
 - [For targeted students overall, the policy produced only negligible changes in algebra grades and failure rates despite test-score gains](double-dose-algebra-improved-test-scores-modest-grades-effects.md) — related

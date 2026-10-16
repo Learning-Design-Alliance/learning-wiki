@@ -13,7 +13,7 @@ generated:
 # Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 30 claims (17 for, 10 mixed, 3 against) · 38 studies (15 causal, 11 quant-synthesis, 6 review, 5 theoretical, 1 qualitative), `q1`–`q4` · 11 of 38 report an effect size · 17 claims rest on one study
+> **Evidence** · 30 claims (17 for, 10 mixed, 3 against) · 39 studies (16 causal, 11 quant-synthesis, 6 review, 5 theoretical, 1 qualitative), `q1`–`q4` · 11 of 39 report an effect size · 16 claims rest on one study
 
 ## Description
 Practice asks learners to actively apply new knowledge or skills through structured activities rather than passively receiving information. It converts exposure into fluency and retention by requiring learners to generate responses, solve problems, or perform procedures under conditions that gradually approximate the target performance.
@@ -144,6 +144,13 @@ Practice is one of the most consistently supported instructional elements: activ
 - **Changes when:** the practice is purely mechanical drill → argued to be of limited use, because it does not require learners to form a meaning and express it; automatization is argued to need extensive practice in communicative tasks in a consistent environment — [Purely mechanical drills are of limited use because they do not train learners to conceptualize a meaning and express it linguistically](../claims/mechanical-drills-limited-use-meaning-form.md) [-W], [Automatization of L2 skills requires extensive practice in a consistent environment, not repetition of grammar rules as in traditional exercises](../claims/automatization-requires-practice-consistent-environment.md) [+W]
 - **Tested with:** second-language learners, all reported second-hand through reviews and position papers (DeKeyser 1997 and Bygate 2001 are the primary studies behind them). **Population-specific** to L2; the same-structure limit on algebra examples above is the nearest evidence for mathematics.
 - **Not settled:** a controlled comparison of drill against meaningful practice; no claim here has one.
+
+## The evidence by question
+
+- *After a model, does practice with support and feedback produce better unaided performance than no practice or unguided practice?* [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](../claims/practice-presence-raises-cbi-posttest-achievement.md) [+M]
+- *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
+- *Does spreading study or practice over sessions improve later retention more than massing the same amount of it?* [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S]
+- *Does training built around deliberate practice (mastery standards, feedback on each attempt, repetition) beat ordinary training?* [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]
 
 ## Related Elements
 - [Demonstration](demonstration.md) — the typical precursor; observation without follow-on practice rarely transfers

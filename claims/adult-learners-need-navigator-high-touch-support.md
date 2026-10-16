@@ -42,6 +42,9 @@ Key finding stated in this brief about strategies states with Adult Promise gran
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [The brief reports that adult learners' priorities differ from traditional-age students', making appropriate messages critical to engaging them](adult-learner-priorities-tailored-messages-critical.md) — related
 - [The brief reports that online tools can engage prospective adult learners and make enrollment convenient given work and family demands](online-tools-convenient-enrollment-adult-learners.md) — related

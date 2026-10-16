@@ -30,7 +30,7 @@ sources:
 # Cluster profiles of student mathematics performance are dominated by overall ability, with most clusters being linear rescalings of average exam performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Most BMM clusters are strongly linearly correlated with each other and with average exam score, indicating overall ability rather than distinct skill profiles drives cluster shape. [→ Benjamin Mawdsley 2026](#benjamin-mawdsley-2026)
@@ -60,8 +60,12 @@ In the same cluster-correlation analysis of BMM outputs, the authors report that
 
 ## Discussion
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) — the general claim this finding bears on, with the studies behind it
 - [Bernoulli Mixture Model fits select around 10-12 clusters per question, with no runs finding high cluster counts optimal, indicating specialised skill sets do not generally exist](bmm-selects-ten-to-twelve-clusters.md) — related
 - [Explainable models including logistic regression, kNN and a Bernoulli Mixture Model all reach around 78% accuracy in predicting question-level pass/fail, with well-calibrated probabilities](explainable-models-78-percent-accuracy-calibrated.md) — related
 - [Using performance on each individual question as features yields only a small improvement over a single-ability logistic regression model](small-gain-from-question-level-features.md) — related

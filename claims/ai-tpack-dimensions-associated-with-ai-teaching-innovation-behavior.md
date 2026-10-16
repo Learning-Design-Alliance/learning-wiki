@@ -40,6 +40,9 @@ PLS-SEM path analysis of survey data from 898 Chinese university teachers, contr
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Professional identity and AI literacy partially mediate AI-TPACK associations with innovation behavior, while AI-TK and AI-TPACK show indirect-only mediation and TSE mediation is only partially supported](mediation-of-ai-tpack-effects-on-innovation-behavior.md) — related
 - [Teaching self-efficacy, professional identity, and AI literacy are each significantly associated with AI teaching innovation behavior, with additional links among the mediators](mediators-associated-with-ai-teaching-innovation-behavior.md) — related

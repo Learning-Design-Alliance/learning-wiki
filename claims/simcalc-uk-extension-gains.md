@@ -41,11 +41,12 @@ UK analysis of gain scores by free-school-meal poverty and prior achievement; hi
 
 ## Discussion
 
-
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students](assistments-school-composition-moderators.md) — the general claim this finding bears on, with the studies behind it
 - [SimCalc treatment effects were not sensitive to school socioeconomic status or percentage of Hispanic students, and 91% of 7th-grade treatment classrooms exceeded the control-group mean gain](simcalc-effects-insensitive-demographics.md) — related
 - [An adapted SimCalc intervention in Florida produced strong learning gains (ES = 1.09), significantly higher posttests than predicted from the Texas control group](simcalc-florida-extension-gains.md) — related
 - [SimCalc replacement units produced statistically significant pretest-to-posttest gains in conceptual understanding with student-level effect sizes of .63, .50, and .56 in three Texas experiments](simcalc-texas-experiments-effect-sizes.md) — related

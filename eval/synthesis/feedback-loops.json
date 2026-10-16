@@ -45,6 +45,94 @@
         [
           "feedback-quality-predicts-revision-only-in-teacher-condition",
           "~"
+        ],
+        [
+          "feedback-levels-task-process-self-regulation-effective",
+          "~"
+        ],
+        [
+          "fi-negative-effects-robust-not-sampling-error",
+          "+"
+        ],
+        [
+          "outcome-feedback-impedes-complex-task-learning-mcpl",
+          "~"
+        ],
+        [
+          "subtle-cueing-feedback-higher-impact",
+          "~"
+        ],
+        [
+          "layered-feedback-negative-total-effect",
+          "-"
+        ],
+        [
+          "hattie-high-effect-size-instructional-factors",
+          "+"
+        ],
+        [
+          "gpt4-feedback-66-percent-targeted-35-percent-flawed",
+          "~"
+        ],
+        [
+          "human-feedback-rated-superior-to-ai-feedback",
+          "~"
+        ],
+        [
+          "educator-feedback-trusted-more-than-ai-feedback",
+          "~"
+        ],
+        [
+          "teacher-feedback-more-items-first-task-vocabulary-technical",
+          "~"
+        ],
+        [
+          "students-need-guidance-ecree-feedback-advanced-writers",
+          "~"
+        ],
+        [
+          "feedback-medium-overall-effect-d048-heterogeneous",
+          "+"
+        ],
+        [
+          "feedback-addressing-task-improves-learning",
+          "+"
+        ],
+        [
+          "feedback-improves-learning-when-it-addresses-task-goals",
+          "+"
+        ],
+        [
+          "feedback-answers-three-questions-improves-learning",
+          "+"
+        ],
+        [
+          "feedback-outcome-measure-moderator-cognitive-physical",
+          "~"
+        ],
+        [
+          "feedback-channel-non-significant-moderator",
+          "~"
+        ],
+        [
+          "meta-analysis-lower-feedback-effect-than-visible-learning-synthesis",
+          "~"
+        ],
+        [
+          "knowledge-of-results-no-effect-achievement-test-dimensionality",
+          "~"
+        ],
+        [
+          "feedback-type-no-effect-solution-rates",
+          "~"
+        ],
+        [
+          "immediate-elaborated-feedback-improves-programming-learning",
+          "+"
+        ],
+        [
+          "simucase-feedback-insufficient",
+          "+"
         ]
       ]
     },
@@ -135,6 +223,30 @@
         [
           "expertise-reversal-effect",
           "~"
+        ],
+        [
+          "fading-support-promotes-transfer-of-responsibility",
+          "+"
+        ],
+        [
+          "coach-guided-relearning-beats-static",
+          "+"
+        ],
+        [
+          "genai-hints-effective-but-require-validation",
+          "~"
+        ],
+        [
+          "scaffolded-coach-no-assignment-performance-advantage",
+          "~"
+        ],
+        [
+          "context-effect-depends-on-guidance-style",
+          "~"
+        ],
+        [
+          "chatgpt-hint-error-rate-self-consistency",
+          "~"
         ]
       ]
     },
@@ -164,6 +276,10 @@
         ],
         [
           "training-increases-feedback-corrective-loop-time",
+          "~"
+        ],
+        [
+          "mastery-learning-effects-larger-for-lower-aptitude-students",
           "~"
         ]
       ]

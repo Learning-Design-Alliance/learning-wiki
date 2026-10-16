@@ -79,8 +79,9 @@ The review reports a set of studies (e.g., Siegler & Chen 2008 on water displace
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Self-explanation beats unguided studying for equal time, but instructional explanations, problem solving and retrieval practice can be equally or more effective](instructional-explanations-sometimes-equal-or-better-than-self-explanation.md) — the general claim this finding bears on, with the studies behind it
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — related
 - [Students who self-explain worked examples learn more effectively than those who do not, and the quality of self-explanations relates to explaining deep structure](self-explanation-effect-worked-examples.md) — related
 - [A brief metacognitive reflection prompt reduces acceptance of incorrect AI advice compared with open ChatGPT support alone](reflection-reduces-incorrect-ai-advice-acceptance.md) — related

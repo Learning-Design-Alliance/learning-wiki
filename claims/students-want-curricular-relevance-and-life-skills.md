@@ -30,7 +30,7 @@ sources:
 # Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On the whole, students find the majority of the high school curriculum missing application to the real world and want more opportunities to learn about potential future careers. [→ Viki M. Young 2026](#viki-m-young-2026)
@@ -60,11 +60,12 @@ Same overview: students recognize durable skills like time management, collabora
 
 ## Discussion
 
-
 ## Learner Variables
 - [Domain Context](../learner-variables/domain-context.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](personalized-problem-contexts-boost-engagement-grades-4-8.md) — the general claim this finding bears on, with the studies behind it
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](students-report-hands-on-learning-most-effective.md) — related
 - [A substantial fraction of students reported increased interest in physics and ability to connect physics to their life science majors and careers](life-science-examples-increase-interest-and-relevance.md) — a narrower finding that bears on this claim
 - [Students report low motivation for English writing due to lack of real-life application and formulaic compositions](low-motivation-formulaic-writing.md) — a narrower finding that bears on this claim

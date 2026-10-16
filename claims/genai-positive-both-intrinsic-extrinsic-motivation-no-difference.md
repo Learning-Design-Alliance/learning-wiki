@@ -41,11 +41,12 @@ Subgroup analysis of motivation type within the meta-analysis (intrinsic k = 36,
 
 ## Discussion
 
-
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [GenAI-assisted education produces significantly higher learning motivation than non-GenAI approaches (g = 0.81)](genai-learning-motivation-g081.md) — the general claim this finding bears on, with the studies behind it
 - [GenAI's motivational effect is larger in collectivistic than individualistic cultural contexts (exploratory)](genai-motivation-effect-larger-collectivist-contexts.md) — related
 - [GenAI used on mobile devices shows a larger motivational effect than GenAI used on computers (exploratory)](genai-motivation-effect-larger-mobile-devices.md) — related
 - [The motivational effect of GenAI is larger in higher education than in primary and secondary education (exploratory)](genai-motivation-effect-larger-university-than-school.md) — related

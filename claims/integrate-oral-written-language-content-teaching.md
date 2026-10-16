@@ -39,6 +39,19 @@ The guide's evidence summary for Recommendation 2 reports "Five randomized contr
 
 > "Five randomized controlled trials met WWC standards Positive impacts on content-area acquisition measures developed by the researchers"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does teaching oral and written academic language within content lessons improve English learners' content learning?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **4 distinct studies** (2 design, 1 review, 1 qualitative), `q1`–`q2`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Baker 2014 | q2 · review · r? | i? | this claim; [A WWC practice guide rests its recommendation to teach academic vocabulary intensively acr](academic-vocabulary-intensive-instruction-strong-evidence.md) (supports); [Structured opportunities to develop written language skills carry only minimal evidence, r](structured-writing-opportunities-minimal-evidence.md) (qualifies) |
+| Practitioner's guide to integrating literacy and science 2025 | q1 · design · r1 | i? | [Integrating literacy and science within authentic real-world experiences can produce great](integrated-literacy-science-greater-learning-than-separate.md) (supports) |
+| Haiwen Chu 2025 | q2 · design · r2 | i? | [Language development functions as a consequence of, not a prerequisite for, deep conceptua](language-consequence-not-prerequisite-math-el.md) (qualifies) |
+| Suarez 2008 | q2 · qualitative · r2 | i? | [ELLs attempted academic terminology from prior lessons, with experience mediating their co](experience-mediate-connection-academic-language-vibration.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

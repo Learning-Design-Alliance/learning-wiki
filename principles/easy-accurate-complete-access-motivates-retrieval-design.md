@@ -43,6 +43,10 @@ The article motivates Entrez by the explosive growth of information molecular bi
 - [Some users prefer a single-form Boolean query interface to the original Entrez interface](../claims/single-form-boolean-query-preferred-by-some-users.md) [+W]
 - [Post-deployment diagnostics attributed many remaining retrieval misses to query formulation, with bounded expansion recovering eleven of 24 original queries without lowering the relevance floor](../claims/retrieval-misses-attributed-to-query-formulation.md) [~W]
 
+## The evidence by question
+
+- *Do retrieval tools that help users who cannot state the exact query (term browsing, query expansion, result summaries) improve what they find?* [Browsing term lists (selection mode) helps searchers who do not know the exact query term](../claims/selection-mode-browsing-helps-uncertain-searchers.md) [+W]
+
 ## Related Principles
 
 - [Offer multiple delivery modes of a retrieval resource to complement different user needs](complementary-delivery-modes-for-retrieval-tools.md)

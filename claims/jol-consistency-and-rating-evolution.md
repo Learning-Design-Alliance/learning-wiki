@@ -60,8 +60,9 @@ Figure 3b and Table 1 distribution analysis of JoL-minus-system-rating discrepan
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — the general claim this finding bears on, with the studies behind it
 - [JoL–mastery accuracy trajectories over the five weeks rose in the elicit condition, declined in the none condition, and were mixed in the tell condition](jol-accuracy-trajectories-by-condition.md) — related
 - [Students using the eliciting agent showed JoL ratings correlated with system learning metrics, strongest for mastery](elicit-condition-jol-accuracy-correlations.md) — related
 - [Most students submitted JoLs out of curiosity about the system rating, often without attending to the LA graphs, and reported behaviour change more from JoL than from the agent](self-reported-jol-motivation-and-behaviour-change.md) — related

@@ -39,6 +39,19 @@ Theoretical/methodological argument about sources of variation in secondary rese
 
 > "Simply when deciding what studies to include, many meta-analyses are deliberately limited to control/experimental designs published in English in high-ranking journals in particular time periods for example, and so inevitably miss much of the field"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does a study's design (between- or within-subject, laboratory or field, more or less rigorous) change the size of the effect it reports?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **4 distinct studies** (3 quant-synthesis, 1 theoretical), `q1`–`q4`, 2 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Boulton 2016](https://doi.org/10.14705/rpnet.2016.eurocall2016.538) | q1 · theoretical · r3 | i? | this claim |
+| [Takacs 2015](https://doi.org/10.3102/0034654314566989) | q3 · quant-synthesis · r3 | i1 | [Study design moderates the technology effect: between-subject studies yield a significantl](design-moderates-technology-story-effect.md) (supports) |
+| [Maier 2026](https://doi.org/10.48550/arxiv.2605.04779) | q3 · quant-synthesis · r3 | i2 | [Study setting significantly moderates GenAI productivity effects: laboratory experiments s](study-setting-moderates-genai-productivity-gains.md) (supports) |
+| [Freeman S 2014](https://doi.org/10.1073/pnas.1319030111) | q4 · quant-synthesis · r3 | i? | [The active-learning advantage is robust to publication bias and to variation in methodolog](active-learning-effect-robust-bias-and-rigor.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

@@ -41,10 +41,11 @@ Generalized mixed model interactions from the same classroom action study. The a
 
 ## Discussion
 
-
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Generation Effect Improves Retention](generation-effect-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Generation tasks show no significant overall treatment effect on L2 vocabulary Knowledge scores compared with baseline non-generative tasks](generation-no-overall-knowledge-effect-l2-vocabulary.md) — related
 - [Generation as the sole desirable difficulty produced no detrimental effect on L2 vocabulary recall, in contrast to prior short-term findings](generation-no-detriment-l2-recall.md) — reports the opposite

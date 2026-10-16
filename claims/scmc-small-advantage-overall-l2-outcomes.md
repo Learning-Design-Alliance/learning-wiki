@@ -39,6 +39,17 @@ Meta-analysis (k = 14) of comparative SCMC–FTF studies. The review reports "a 
 
 > "There was also a small advantage for interaction in SCMC on measures of overall L2 learning outcomes"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does the channel learners interact through (face to face, video, text chat, discussion board) change the interaction and what language learners gain from it?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **2 distinct studies** (1 quant-synthesis, 1 causal), `q2`–`q3`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Nicole Ziegler 2016](https://doi.org/10.1017/s027226311500025x) | q3 · quant-synthesis · r? | i? | this claim; [No significant differences between SCMC and FTF interaction on L2 development overall](no-significant-scmc-ftf-differences-l2-development.md) (qualifies); [Interaction in both SCMC and FTF contexts has a significant impact on L2 development (meta](scmc-ftf-interaction-significant-l2-development.md) (supports) |
+| [Sarré 2011](https://doi.org/10.14705/rpnet.2011.9781908416001) | q2 · causal · r1 | i? | [Videoconferencing was conducive to more negotiation of meaning than text chat and discussi](videoconferencing-more-negotiated-turns-than-chat-and-board.md) (qualifies); [Discussion board interactions generated no negative feedback at all, suggesting synchrony ](discussion-board-no-negative-feedback-synchrony-required.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

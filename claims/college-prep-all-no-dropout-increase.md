@@ -65,6 +65,9 @@ Authors' interpretation in the Discussion of the null graduation finding from th
 
 
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Chicago's college-prep-for-all policy nearly universalized enrollment in Algebra I and English I and narrowed course-taking gaps by race, ability, and special education status](college-prep-all-increased-ninth-grade-enrollment-equity.md) — related

@@ -30,7 +30,7 @@ sources:
 # Students reported recognizing writing improvements after revising in response to AI feedback, with observed rubric-score gains on resubmission
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Students described learning advanced writing practices such as strengthening conclusions and improving coherence through AI feedback. [→ Raigul Zheldibayeva 2025](#raigul-zheldibayeva-2025)
@@ -60,8 +60,9 @@ Classroom observation at School A during implementation; one student's rubric "C
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — the general claim this finding bears on, with the studies behind it
 - EFL students perceive AI-generated writing feedback as a competent source that improves vocabulary, grammar, structure, coherence, and values its immediacy — related
 - Students in initial deployment perceived AI-assisted feedback as highly coherent and useful, with excellent usability acceptance — related
 - Empirical gains from AI tools in Arab EL2 classrooms are most consistent for surface-level outcomes, while higher-order writing quality and speaking proficiency show mixed results contingent on teacher mediation — related

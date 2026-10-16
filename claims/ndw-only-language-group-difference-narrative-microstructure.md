@@ -43,6 +43,9 @@ Hayes, R. L., and Kan, P. F. (2026). Shared and divergent patterns in narrative 
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Language × Age interactions show bilingual preschoolers had the lowest MLUm, NDW, and SI scores, while bilingual school-age children produced the most fragments](bilingual-preschoolers-lowest-microstructure-interactions.md) — related
 - [All children retold MAIN episode one with the most complexity and episode two with the least, regardless of age or language group](episode-one-most-complex-retell-pattern.md) — related

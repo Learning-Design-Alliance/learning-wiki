@@ -30,7 +30,7 @@ sources:
 # Instructors use more first-person and second-person pronouns and more questions than LLMs in feedback comments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Human feedback has a higher density of first-person pronouns (1.26 vs. 0.03 per 100 words) and second-person pronouns (5.19 vs. 3.75 per 100 words) than LLM feedback. [→ Yijun Liu 2026](#yijun-liu-2026)

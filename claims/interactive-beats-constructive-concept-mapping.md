@@ -46,6 +46,10 @@ The only entry is Chi et al.'s (2018) one-sentence summary of a prior study they
 
 ## Related Claims
 
+- [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](learner-constructed-graphic-organizers-outperform-provided.md) — the general claim this finding bears on, with the studies behind it
+
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — the general claim this finding bears on, with the studies behind it
+
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — related

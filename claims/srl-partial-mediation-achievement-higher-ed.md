@@ -41,8 +41,9 @@ MASEM analysis pooling correlations across studies of SRL interventions, SRL act
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [SRL interventions are effective in improving both SRL activity and achievement in higher education](srl-interventions-improve-activity-achievement.md) — related
 - [Most study, measurement, and intervention moderators did not explain significant variance in SRL intervention effect sizes](srl-intervention-moderators-most-nonsignificant.md) — related
 - [Task motivation and time on task are proposed as factors potentially influencing SRL intervention effectiveness](task-motivation-time-on-task-moderators-hypothesis.md) — related

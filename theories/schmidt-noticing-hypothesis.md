@@ -12,7 +12,7 @@ generated:
 # Schmidt's noticing hypothesis
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 13 claims (5 for, 6 mixed, 2 against) · 9 studies (3 review, 2 qualitative, 2 theoretical, 1 causal, 1 design), `q1`–`q2` · 0 of 9 report an effect size · 13 claims rest on one study
+> **Evidence** · 16 claims (8 for, 6 mixed, 2 against) · 16 studies (5 quant-synthesis, 4 review, 3 qualitative, 2 theoretical, 1 causal, 1 design), `q1`–`q3` · 1 of 16 report an effect size · 14 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ed338037, eric-ej1155586, eric-ej930155, eric-ej1412014, eric-ej1361438, eric-ej1117239, eric-ed507438. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -52,6 +52,11 @@ The articles also mark the hypothesis's weak points. Barnawi (eric-ej930155) not
 - [Successes of form-focused manipulation of input in adult L2 are illusory with respect to linguistic competence, affecting only performance](../claims/form-focused-input-manipulation-illusory-for-competence.md) [-M]
 - [A 1999 conference paper reports, citing White (1991) and Schwartz and Gubala-Ryzak (1992), that explicit negative evidence on English adverb placement produced only superficial change in French learners](../claims/white-adverb-placement-negative-evidence-failed.md) [-M]
 - [Children's drawings suggested they noticed the robot's embedded integration elements and shifted attention from the robot to peer communication](../claims/children-drawings-notice-integration-elements.md) [+W]
+
+## The evidence by question
+- *In second-language grammar, does explicit instruction about a form help more than leaving it to implicit exposure?* [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](../claims/explicit-l2-grammar-instruction-superior-to-implicit.md) [+S]
+- *Does corrective feedback on second-language errors improve accuracy, and which form of correction (recast, prompt, metalinguistic clue, explicit correction with or without a rule) works for which target and learner?* [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](../claims/corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) [+S]
+- *Does writing in the second language make learners notice gaps in their own language, which gaps do they notice, and does comparing with a model help them close them?* [Review-reported experiment found output performed noticing and hypothesis-testing functions but no apparent metalinguistic function in L2 writing](../claims/zhao-ping-output-functions-writing-experiment.md) [+W]
 
 ## Related Theories
 

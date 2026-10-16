@@ -41,11 +41,12 @@ Descriptive scatterplots of mean RIT scores by test administration and subject (
 
 ## Discussion
 
-
 ## Learner Variables
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Summer learning loss is common but not inevitable among K-12 students](summer-slide-common-but-not-inevitable.md) — the general claim this finding bears on, with the studies behind it
 - [The proposed seasonal growth model combines polynomial terms for year-to-year growth with piecewise terms for within-year gains and losses](seasonal-model-combines-polynomial-and-piecewise-features.md) — related
 - [The CP model fits seasonal achievement data better than a traditional polynomial growth model on RMSE, AIC, and BIC while reducing residual autocorrelation](cp-model-fits-seasonal-growth-better-than-polynomial.md) — related
 - [The rural–nonrural achievement divergence is driven by larger summer losses for rural students](rural-achievement-divergence-driven-by-summer-loss.md) — a narrower finding that bears on this claim

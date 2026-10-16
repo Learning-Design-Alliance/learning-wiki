@@ -41,8 +41,15 @@ Experiment with high school students who read a journal-writing introduction, th
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Instructionally supported (prompted) journal writing outperforms unsupported journal writing on learning outcomes (Hedges's g = 0.78)](prompted-journal-writing-medium-large-effect.md) — the general claim this finding bears on, with the studies behind it
+
+- [Students who self-explain worked examples learn more effectively than those who do not, and the quality of self-explanations relates to explaining deep structure](self-explanation-effect-worked-examples.md) — the general claim this finding bears on, with the studies behind it
+
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — the general claim this finding bears on, with the studies behind it
+
+- [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — the general claim this finding bears on, with the studies behind it
 - [Strategy prompts strongly increase learners' use of the prompted strategies, and the effect on comprehension is mediated by strategy use](strategy-prompts-increase-strategy-use-mediated-outcomes.md) — related
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — a broader claim this one bears on
 - [Writing-to-learn activities improve content learning in Grades 1–12, with effects in mathematics indistinguishable from those in science and social studies, in one meta-analysis](writing-improves-mathematical-understanding.md) — related

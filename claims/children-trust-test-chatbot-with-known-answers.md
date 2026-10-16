@@ -41,8 +41,9 @@ Qualitative analysis of conversation transcripts and observations from the explo
 
 ## Discussion
 
-
 ## Related Claims
+
+- [ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users](chatgpt-reduced-differentiation-verification.md) — the general claim this finding bears on, with the studies behind it
 - [Most students posed one to three questions to the chatbot, with a minority showing substantially higher engagement](ama-engagement-question-counts.md) — related
 - [Students generally trusted the chatbot's responses, often rating them like responses from teachers or friends](students-trusted-ama-responses.md) — related
 - [Students anthropomorphized the chatbot and built relationships with it through personal and social questions](children-anthropomorphize-educational-chatbot.md) — related

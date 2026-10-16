@@ -60,8 +60,9 @@ Student-level analyses reported in the implications section, stating within-scho
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Shifting to restorative practices reduced exclusionary discipline and its racial disparities while improving climate and achievement](restorative-practices-reduce-exclusionary-discipline.md) — the general claim this finding bears on, with the studies behind it
 - [Districts serving higher shares of Black, Hispanic/Latino, and economically disadvantaged students had significantly lower teacher certification rates](demographic-disparities-certification-rates.md) — related
 - [TRP teachers who changed schools within their district tended to move to schools with similar low-income shares, a lower percentage of black students, and higher achievement](trp-movers-join-higher-achievement-schools.md) — related
 - [Schools that increased restorative practice utilization saw declines in misbehavior, gang membership, victimization, depressive symptoms, and substance abuse, and improvements in GPA and climate](school-level-restorative-utilization-improves-behavior-climate.md) — related

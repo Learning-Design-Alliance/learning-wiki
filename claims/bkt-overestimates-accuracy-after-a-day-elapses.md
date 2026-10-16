@@ -41,7 +41,10 @@ Narrative review attributing this to Qiu et al., who "discover that BKT consiste
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The survey reports, citing Pavlik et al., that no single knowledge tracing model was always the best, and that a better model must consider multiple student features and the learning context.](no-single-knowledge-tracing-model-is-always-best.md) — the general claim this finding bears on, with the studies behind it
+
+- [The survey states that deep learning knowledge tracing models exhibit superior performance to Bayesian and logistic models but have significant room for improvement in interpretability.](deep-learning-knowledge-tracing-outperforms-but-lacks-interpretability.md) — the general claim this finding bears on, with the studies behind it
 - MS-BKT mastery estimates fluctuate less than classic BKT and avoid over-high estimates after long incorrect runs, in fictitious-student comparisons — related
 - [The survey reports, citing Lee and Brunskill, that individualized BKT in an intelligent tutoring system reduced by about half the questions required for 20% of students to achieve mastery.](individualized-bkt-reduces-questions-needed-for-mastery.md) — related

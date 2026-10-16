@@ -41,10 +41,11 @@ Bivariate Pearson correlations (Table 1) in the cross-sectional survey of 1,484 
 
 ## Discussion
 
-
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [GenAI-assisted education produces significantly higher learning motivation than non-GenAI approaches (g = 0.81)](genai-learning-motivation-g081.md) — the general claim this finding bears on, with the studies behind it
 - [AI anxiety is negatively associated with academic motivation among university students, in both bivariate and regression analyses](ai-anxiety-negatively-associated-academic-motivation.md) — related
 - [Emotion regulation is positively associated with academic motivation among university students](emotion-regulation-positively-associated-academic-motivation.md) — related

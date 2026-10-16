@@ -13,7 +13,7 @@ generated:
 # Peer Interaction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 8 studies (2 causal, 2 quant-synthesis, 2 review, 1 associational, 1 qualitative), `q2`–`q4` · 1 of 8 report an effect size · 5 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 mixed) · 12 studies (4 review, 3 causal, 2 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 1 of 12 report an effect size · 6 claims rest on one study
 
 ## Description
 Peer interaction places learners in direct engagement with one another through discussion, debate, peer teaching, or collaborative task work. It functions as a social engine for learning: learners articulate ideas, encounter alternative perspectives, and negotiate shared understanding rather than receiving instruction passively.
@@ -58,6 +58,10 @@ Peer interaction supports learning when it requires learners to actively constru
 - [Seeding student groups with alternative ideas improves learning more than randomly assigning students to groups](../claims/seeding-groups-alternative-ideas-improves-learning.md) [+W]
 - [Conversational interaction facilitates second language grammatical development in adult ESL learners](../claims/interaction-facilitates-l2-grammatical-development.md) [+W] — attached 2026-10-14 from Alison Mackey (1999), which proposed "Task-based interaction treatment for ESL question formation development"; tests this page's relationship.
 - [Active participation in interaction matters for second language developmental outcomes](../claims/active-participation-in-interaction-drives-development.md) [~W] — attached 2026-10-14 from Alison Mackey (1999), which proposed "Task-based interaction treatment for ESL question formation development"; tests this page's relationship.
+
+## The evidence by question
+- *Does class time spent with learners talking, explaining and discussing, rather than listening, change what they think about and understand, and does more talk alone do it?* [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [+S]
+- *What makes joint work fail: the task, group size and composition, or how members take part?* [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](../claims/collaborative-situations-often-fail-productive.md) [~W]
 
 ## Related Elements
 - [Peer Teaching](peer-teaching.md) — the strongest form of peer interaction; explaining to a peer forces the elaboration that produces learning

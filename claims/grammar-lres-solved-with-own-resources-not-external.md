@@ -60,7 +60,8 @@ Comparing the study's strategy classification with Cumming (1989) and Swain and 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Review-reported experiment found output performed noticing and hypothesis-testing functions but no apparent metalinguistic function in L2 writing](zhao-ping-output-functions-writing-experiment.md) — the general claim this finding bears on, with the studies behind it
 - [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](explicit-teaching-complex-rules-only-advantage.md) — related
 - [Learners' grammar noticing centers more on syntax than morphology, with syntax issues encountered by all participants](syntax-outweighs-morphology-in-grammar-noticing.md) — related

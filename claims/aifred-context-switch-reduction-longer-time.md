@@ -30,7 +30,7 @@ sources:
 # AIfred reduces observed physical-digital context switches by 98% relative to screen-based assistance, while task completion time is longer
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Participants averaged 1 context switch with AIfred versus 63 with ChatGPT, a 98% reduction. [→ Gregorio Orlando 2026](#gregorio-orlando-2026)

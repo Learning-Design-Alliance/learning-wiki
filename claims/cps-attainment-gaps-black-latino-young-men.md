@@ -42,6 +42,9 @@ Descriptive subgroup analysis from the 2018 snapshot comparing DAI projections f
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Bachelor's DAI varies sharply by race/ethnicity and gender: Black and Latino young men are projected at 10 and 13 percent versus a 19 percent district average](cps-dai-gaps-race-gender.md) — related
 - The percent of CPS ninth-graders projected to earn a bachelor's degree within six years of high school graduation nearly doubled from 11 percent in 2006 to 20 percent in 2018 — related

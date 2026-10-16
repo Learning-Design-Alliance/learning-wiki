@@ -44,8 +44,9 @@ Descriptive/theoretical statement from the Workbook G (Teacher Responses) sectio
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) — related

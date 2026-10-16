@@ -41,8 +41,9 @@ The review's synthesis of included studies (RQ1 findings section) reports that i
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Meta-reviews reach contradictory conclusions on whether AI reliance harms or helps critical thinking, with substantial design limitations limiting generalizability](contradictory-meta-reviews-ai-critical-thinking.md) — the general claim this finding bears on, with the studies behind it
 - [Working with imperfect AI outputs under mentor supervision was followed by students developing skepticism and independent debugging skills](ai-error-debugging-builds-student-skepticism.md) — a narrower finding that bears on this claim
 - [Students remained cautious about relying on GenAI throughout the creative process, citing imperfect outputs and perceived loss of ownership](student-cautions-genai-ownership-and-output-quality.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — reports the opposite

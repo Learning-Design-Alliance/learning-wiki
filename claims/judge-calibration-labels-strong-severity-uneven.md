@@ -30,7 +30,7 @@ sources:
 # The LLM judge agrees with human annotators at 87.7% (κ = 0.842) on consensus pairs, but severity-rating agreement is uneven and medium-tier boundaries are uncertain
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On the 146 pairs where both annotators agree, judge agreement is 87.7% (κ = 0.842; macro-F1 0.841). [→ Yubo Li 2026](#yubo-li-2026)

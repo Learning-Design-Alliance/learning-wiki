@@ -78,6 +78,33 @@ Tobin, K. (1987). The Role of Wait Time in Higher Cognitive Level Learning. *Rev
 
 Reviewed studies of "wait time" — the duration of pauses separating utterances during teacher–student verbal interaction — across a range of subject areas and grade levels. When average wait time exceeded a threshold of about 3 seconds, both teacher and student discourse changed and higher-cognitive-level achievement gains were observed in elementary, middle, and high school science, and in middle school mathematics. The abstract frames wait time as facilitating higher-cognitive learning by giving teachers and students more time to think. Only the publisher abstract was available (paywalled full text; not found via Unpaywall or Semantic Scholar), so no standardized effect size could be confirmed from what was read.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do teacher questions that press learners past a first answer, for explanation, justification or higher-level thinking, improve learning?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **18 distinct studies** (5 quant-synthesis, 5 causal, 4 review, 2 associational, 2 design), `q1`–`q4`, 4 of 18 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Redfield & Rousseau 1981](https://doi.org/10.3102/00346543051002237) | q3 · quant-synthesis · r? | i? | this claim |
+| [Rosenshine et al 1996](https://doi.org/10.3102/00346543066002181) | q3 · quant-synthesis · r? | i1 · small–medium effect, median d=0.36 (standardized tests) | this claim |
+| [Tobin 1987](https://doi.org/10.3102/00346543057001069) | q3 · review · r? | i? | this claim |
+| [Hamaker 1986](https://doi.org/10.3102/00346543056002212) | q3 · quant-synthesis · r? | i? | [Question prompts improve learning](question-prompts-improve-learning.md) (supports) |
+| [Hattie & Donoghue 2016](https://doi.org/10.1038/npjscilearn.2016.13) | q3 · review · r? | i2 · medium effect, d=0.42 | [Question prompts improve learning](question-prompts-improve-learning.md) (supports) |
+| [Dunlosky et al. 2013](https://doi.org/10.1177/1529100612453266) | q3 · review · r? | i? | [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md) (supports) |
+| [Seifert 1993](https://doi.org/10.1037/0022-0663.85.4.642) | q3 · causal · r? | i? | [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md) (supports) |
+| [Kühl and Bertrams 2019](https://doi.org/10.3389/fpsyg.2019.00707) | q3 · causal · r2 | i? | [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md) (supports) |
+| [Chi et al. 1989](https://doi.org/10.1207/s15516709cog1302_1) | q2 · associational · r1 | i? | [Prompting learners to self-explain improves understanding and problem solving on immediate](self-explanation-improves-conceptual-understanding.md) (supports) |
+| [Rittle-Johnson 2017](https://doi.org/10.1007/s11858-017-0834-z) | q3 · quant-synthesis · r? | i? | [Prompting learners to self-explain improves understanding and problem solving on immediate](self-explanation-improves-conceptual-understanding.md) (supports) |
+| [Bisra et al. 2018](https://doi.org/10.1007/s10648-018-9434-x) | q4 · quant-synthesis · r? | i2 · medium effect, g=.55 | [Prompting learners to self-explain improves understanding and problem solving on immediate](self-explanation-improves-conceptual-understanding.md) (supports) |
+| [Chi et al. 1994](https://doi.org/10.1207/s15516709cog1803_3) | q2 · causal · r1 | i? | [Prompting learners to self-explain improves understanding and problem solving on immediate](self-explanation-improves-conceptual-understanding.md) (supports) |
+| Star 2015 | q2 · review · r3 | i? | [Teaching reflective questioning or using graphical representations improves procedural and](reflective-questioning-graphical-representations-improve-algebra-outcomes.md) (supports) |
+| [Han Xue 2026](https://doi.org/10.3390/bs16071069) | q3 · causal · r? | i3; i2 | [Socratic feedback is associated with higher task orientation and comprehension monitoring ](socratic-feedback-comprehension-monitoring-task-orientation.md) (supports) |
+| [Ahtisham 2026](https://doi.org/10.48550/arxiv.2609.38346) | q3 · associational · r2 | i? | [The association between tutor questioning and impasse recovery decays as impasses persist,](questioning-benefit-decays-with-impasse-depth.md) (qualifies) |
+| [Alexandre Clin Deffarges 2026](https://doi.org/10.48550/arxiv.2609.00584) | q2 · causal · r2 | i? | [Socratic-mode participants progressively disengaged from the chatbot: message counts decli](socratic-mode-progressive-disengagement.md) (qualifies) |
+| [Janis 2025](https://doi.org/10.69772/jes.8.3.1) | q1 · design · r3 | i? | [In a case analysis, probing instructor feedback with required revise-and-resubmit moved on](probing-feedback-revise-resubmit-evidence.md) (qualifies) |
+| Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview 1970 | q1 · design · r1 | i? | [A 1970 teacher self-analysis programme asserts, without data, that teacher responses inclu](teacher-responses-can-close-off-pupil-thinking.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanisms.** Questions are commonly hypothesized to work through several routes: they trigger retrieval practice (strengthening memory traces), they direct attention to to-be-learned content, and they can induce the cognitive disequilibrium that motivates conceptual change — see [Cognitive disequilibrium motivates conceptual change.](../claims/cognitive-disequilibrium-motivates-conceptual-change.md). Pre-questions may also function as advance organizers, activating relevant prior knowledge — see [Activation improves learning.](../claims/activation-improves-learning.md) and [Activating prior knowledge](../strategies/activating-prior-knowledge.md).

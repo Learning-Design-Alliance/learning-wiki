@@ -41,8 +41,9 @@ Per-dimension consistency analysis from the pilot scoring session reported in th
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Rubrics with parallel sentence structure, unambiguous wording and well-specified dimensions have lower grading variance, and revising rubrics decreased median grading error from 12.4% to 9.9%](rubric-wording-lower-grading-variance.md) — the general claim this finding bears on, with the studies behind it
 - [Trained scorers applied the historical thinking skills rubrics with good overall inter-rater consistency](hts-rubrics-good-inter-rater-consistency.md) — related
 - [Scorers found all rubric dimensions important, with feedback bearing mainly on the scoring and training process rather than rubric design](scorer-feedback-dimensions-important-process-implications.md) — related
 - [World History Project assignments scored higher on most learning opportunity rubric dimensions than other assignments](whp-assignments-scored-higher-opportunity-rubrics.md) — related

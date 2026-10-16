@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 26 claims (9 for, 9 mixed, 8 against) · 23 studies (9 review, 5 associational, 4 theoretical, 3 qualitative, 2 design), `q1`–`q3` · 1 of 23 report an effect size · 25 claims rest on one study
+> **Evidence** · 29 claims (11 for, 10 mixed, 8 against) · 25 studies (10 review, 6 associational, 4 theoretical, 3 qualitative, 2 design), `q1`–`q2` · 1 of 25 report an effect size · 28 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available (Baker & Inventado, 2016). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -75,6 +75,12 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [The agent's predictions show a performance gap versus a regression reference that uses real students' post-test data](../claims/agent-gap-versus-regression-reference.md) [~W]
 - [Random-forest models trained on a prior semester showed significantly lower AUC when tested on a new semester's data without retraining](../claims/cross-semester-auc-decline-without-retraining.md) [-W]
 - [The approach offers a large real-time intervention window, with a median of 176.2-196.1 hours between the prediction point and the final problem deadline](../claims/large-prediction-window-real-time-intervention.md) [+W]
+
+## The evidence by question
+
+- *Does flagging at-risk learners from their data and intervening on the flag improve grades, retention or completion?* [AI-powered predictive analytics improves academic performance by enabling early identification of at-risk students and timely intervention](../claims/ai-predictive-analytics-improves-academic-performance.md) [+M]
+- *Can models built from attendance, grades and interaction data tell which learners are at risk, early enough to act, and do they hold up in a new term or institution?* [Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out](../claims/abc-early-warning-indicators-predict-dropout.md) [+M]
+- *Are at-risk predictions equally accurate for every student group, and do fairness fixes close the gap?* [Both prior performance flags and the machine learning algorithm are less accurate when predicting outcomes for students who are Black](../claims/ews-and-algorithm-less-accurate-black-students.md) [~M]
 
 ## Related Elements
 

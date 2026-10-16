@@ -61,6 +61,9 @@ The same ITBS trend analysis reports that "Positive trends in ITBS reading score
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [All six CPS age cohorts saw a slight 2001 decline in math scores of less than one month, which a Rasch-score re-analysis suggests reflects an actual drop in learning rather than test-form effects](2001-math-decline-confirmed-by-rasch-analysis.md) — related
 - [CPS elementary ITBS scores improved across the 1990s in both reading and math for all age groups, but trend gains flattened after 1998](cps-itbs-decade-gains-flattened-after-1998.md) — related

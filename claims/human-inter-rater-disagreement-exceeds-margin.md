@@ -41,7 +41,8 @@ Baseline inter-rater reliability analysis (Table 2): four subject-matter special
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Raters differed significantly in severity/leniency in the MFRM analysis](raters-differed-severity-mfrm.md) — the general claim this finding bears on, with the studies behind it
 - [When applied by human evaluators, all four AI-generated rubrics met pooled scoring equivalence with a human-created baseline within a ±5-point margin](ai-rubrics-pooled-equivalence-human-evaluators.md) — related
 - [Equivalence failures under human evaluators were confined to five assignment-by-question-type cells, four of them on code questions](five-cells-exceeded-equivalence-margin.md) — related

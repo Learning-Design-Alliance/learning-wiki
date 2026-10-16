@@ -17,7 +17,7 @@ sources:
 # Modelo de evaluación formativa para cursos virtuales de matemáticas integrado con analítica de aprendizaje
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The thesis presents "un modelo para la puesta en marcha de cursos virtuales de matemáticas, el cual está basado en un proceso de evaluación formativa e integrado con analíticas de aprendizaje, este sigue las cinco fases del diseño instruccional ADDIE". The model was defined from a conceptual framework and a systematic literature review, then instantiated in a virtual learning environment for validation through a case study comparing three teaching methodologies.

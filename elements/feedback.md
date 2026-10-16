@@ -229,6 +229,12 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - **Tested with:** physicians, nurses and other health professionals on procedural skills (simulation); 8th-graders with college tutors, 11 dyads per study (tutoring).
 - **Not settled:** debriefing as a feedback format; no claim here isolates it, and none tests medication-safety scenarios specifically.
 
+## The evidence by question
+- *What should the feedback after a check say, and who or what should give it?* [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](../claims/feedback-improves-learning.md) [+S]
+- *Does confirming or correcting each response add to learning from making the response?* [Feedback Enhances Retrieval Practice](../claims/feedback-enhances-retrieval-practice.md) [+S]
+- *Does corrective feedback on second-language errors improve accuracy, and which form of correction (recast, prompt, metalinguistic clue, explicit correction with or without a rule) works for which target and learner?* [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](../claims/corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) [+S]
+- *Can peers give the feedback, and how does peer feedback compare with none and with a teacher's?* [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]
+
 ## Related Elements
 - [Formative Assessment](formative-assessment.md) — the assessment structure that generates feedback while learning is still underway
 - [Coaching](coaching.md) — the delivery mode in which feedback is embedded in ongoing, situated guidance

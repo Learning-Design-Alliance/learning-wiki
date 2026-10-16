@@ -1,0 +1,28 @@
+{
+  "principle": "elements/communication-channels",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "scmc-small-advantage-overall-l2-outcomes",
+      "question": "Does the channel learners interact through (face to face, video, text chat, discussion board) change the interaction and what language learners gain from it?",
+      "members": [
+        [
+          "no-significant-scmc-ftf-differences-l2-development",
+          "~"
+        ],
+        [
+          "scmc-ftf-interaction-significant-l2-development",
+          "+"
+        ],
+        [
+          "videoconferencing-more-negotiated-turns-than-chat-and-board",
+          "~"
+        ],
+        [
+          "discussion-board-no-negative-feedback-synchrony-required",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

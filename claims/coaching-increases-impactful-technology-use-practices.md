@@ -42,8 +42,9 @@ Year 2 teacher post-survey from the DLP, comparing coached and non-coached teach
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](coaching-pooled-instruction-effect-0-49-sd.md) — the general claim this finding bears on, with the studies behind it
 - [DLP teachers reported higher rates of impactful student technology use and greater perceived positive impact on student engagement and learning than non-DLP teachers](dlp-student-engagement-impactful-technology-use.md) — related
 - [Coached teachers report greater impact of their technology use on student engagement and learning](coaching-increases-perceived-itu-impact-engagement-learning.md) — related
 - [Coached teachers report increases in how often students and teachers use technology, compared to non-coached peers](coaching-increases-technology-use-frequency.md) — related

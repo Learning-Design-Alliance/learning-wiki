@@ -42,5 +42,9 @@ Descriptive analysis of the 2019–20 CPS ninth-grade cohort (Figure 4) disaggre
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [CPS high school graduation rates show large gaps by race/ethnicity and gender, with young men graduating at lower rates than young women within every race/ethnicity group](cps-graduation-gaps-race-gender.md) — possibly the same claim (merge candidate)

@@ -43,5 +43,7 @@ The review attributes this to Kalyuga, Chandler, Tuovinen, and Sweller (2001), e
 
 ## Related Claims
 
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — the general claim this finding bears on, with the studies behind it
+
 - [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md) — the general claim this finding bears on, with the studies behind it
 -

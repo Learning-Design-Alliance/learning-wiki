@@ -60,8 +60,12 @@ Survey analysis compared frequencies of connectivity and hardware/software probl
 
 ## Discussion
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Children from low-SES families were more negatively affected by COVID-19 school closures than children from high-SES families](covid-closures-low-ses-students-more-affected.md) — the general claim this finding bears on, with the studies behind it
 - [The number of challenges a student experienced was strongly associated with post-COVID course satisfaction: 81 percent satisfaction with no challenges versus 32 percent with four or more](challenge-count-associated-satisfaction.md) — related
 - Nearly half of STEM students experienced internet connectivity problems that interfered with course participation after the COVID shift to remote instruction — related
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — possibly the same claim (merge candidate)

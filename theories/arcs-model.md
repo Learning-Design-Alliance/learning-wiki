@@ -12,7 +12,7 @@ generated:
 # ARCS Model of Motivational Design
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 2 studies (1 associational, 1 qualitative), `q1`–`q2` · 1 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 3 studies (1 review, 1 associational, 1 qualitative), `q1`–`q2` · 1 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 The ARCS model (Keller, 1987, 2010) is the most widely used motivational-design framework within instructional design and technology. It names four conditions that must all be met for motivation to be sustained — **Attention**, **Relevance**, **Confidence**, **Satisfaction** — and treats designing for motivation as a systematic process, structurally parallel to the traditional instructional design process, rather than an afterthought bolted onto content that was designed for other reasons (Park, 2018).
@@ -61,6 +61,10 @@ ARCS is explicitly integrative: Keller built it by synthesizing constructs from 
 - [ARCS motivation did not significantly moderate any of the tested UTAUT3 acceptance pathways](../claims/arcs-moderation-effects-null.md) [-W]
 - [Participants identified assessment redesign approaches for helping all students feel successful, centering relevance, lowered stakes, choice, emotional support, and preparation](../claims/assessment-redesign-insights-tlc-convening.md) [+W]
 - [The ten-construct instrument showed strong psychometric quality, with the four ARCS dimensions forming a psychometrically sound higher-order motivation construct](../claims/utaut3-arcs-instrument-psychometric-validity.md) [+W]
+
+## The evidence by question
+
+- *Does motivation as ARCS defines it (attention, relevance, confidence, satisfaction) go with learners' effort and use, and do design choices raise it?* [Instruction should present the learning task as engaging and meaningful and promote positive expectations of success, because effort requires that learners value the task and believe they can succeed](../claims/effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) [+W]
 
 ## Related Theories
 

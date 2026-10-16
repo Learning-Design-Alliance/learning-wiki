@@ -42,6 +42,9 @@ Bivariate correlations from the German Personality Panel longitudinal study (N =
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) — related
 - [Epistemic behavior relates to curiosity but not to cognitive ability](epistemic-behavior-relates-curiosity-not-cognitive-ability.md) — related

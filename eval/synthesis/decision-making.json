@@ -1,0 +1,58 @@
+{
+  "principle": "elements/decision-making",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "all-groups-improved-from-low-baseline",
+      "question": "Does instruction built around making and justifying decisions improve learners' decision-making, and which form of it does most?",
+      "members": [
+        [
+          "ai-assisted-inquiry-largest-decision-making-gains-climate",
+          "+"
+        ],
+        [
+          "ai-assisted-effect-sizes-large-vs-traditional",
+          "+"
+        ],
+        [
+          "checking-ai-claims-predicts-gains",
+          "~"
+        ],
+        [
+          "bds-service-learning-potentially-positive-kav",
+          "+"
+        ],
+        [
+          "bds-improves-ethical-perspective",
+          "+"
+        ],
+        [
+          "bds-null-self-esteem-general-responsibility",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "ai-overreliance-impairs-decision-making",
+      "question": "When learners make decisions with AI support, does the support erode their own judgement, and do reflection prompts protect it?",
+      "members": [
+        [
+          "overreliance-ai-dialogue-reduces-critical-analytical-thinking",
+          "+"
+        ],
+        [
+          "chatgpt-support-increases-final-confidence",
+          "+"
+        ],
+        [
+          "reflective-strategies-short-term-only-evidence",
+          "~"
+        ],
+        [
+          "conflict-seed-induces-deeper-reflection",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

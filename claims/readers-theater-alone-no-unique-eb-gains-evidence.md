@@ -39,7 +39,11 @@ The review's own synthesis of the three RT studies (Tsou 2011; Young & Rasinski 
 
 ## Discussion
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [The review reports that role-playing exercises significantly enhanced students' 21st-century skills including communication, collaboration, and critical thinking](role-play-enhances-21st-century-skills.md) — the general claim this finding bears on, with the studies behind it
 - Reader's Theater improves oral reading fluency and motivation among Thai EFL university students — reports the opposite
 - Chinese EFL learners hold positive perceptions of Reader's Theater for spoken English improvement — related

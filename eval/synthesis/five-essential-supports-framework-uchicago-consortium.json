@@ -1,0 +1,126 @@
+{
+  "principle": "theories/five-essential-supports-framework-uchicago-consortium",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "schools-strong-three-plus-supports-ten-times-more-likely-improve",
+      "question": "Are schools strong on several of the five essential supports more likely to improve student learning than schools weak on them?",
+      "members": [
+        [
+          "strong-essential-supports-ten-times-more-likely-substantial-gains",
+          "+"
+        ],
+        [
+          "weak-essential-supports-four-to-five-times-stagnation",
+          "+"
+        ],
+        [
+          "five-essential-elements-three-of-five-improvement-odds",
+          "+"
+        ],
+        [
+          "supports-matter-in-combined-clusters",
+          "+"
+        ],
+        [
+          "sustained-weakness-one-support-few-improve",
+          "+"
+        ],
+        [
+          "essential-supports-strong-schools-improve-learning",
+          "+"
+        ],
+        [
+          "essential-supports-mutual-trust-reinforce-each-other",
+          "+"
+        ],
+        [
+          "elementary-gpa-strong-5essentials-measures",
+          "+"
+        ],
+        [
+          "freshman-ontrack-strong-5essentials-measures",
+          "+"
+        ],
+        [
+          "school-climate-setting-level-indicator-five-supports",
+          "+"
+        ],
+        [
+          "organizational-gains-without-instructional-gains",
+          "~"
+        ],
+        [
+          "5essentials-measures-positively-associated-improvement",
+          "~"
+        ],
+        [
+          "elementary-attendance-improves-strong-5essentials-measures",
+          "+"
+        ],
+        [
+          "high-school-attendance-strong-5essentials-measures",
+          "+"
+        ],
+        [
+          "essential-supports-strength-linked-academic-improvement",
+          "+"
+        ],
+        [
+          "multiple-related-essential-supports-improve-learning-most",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "5essentials-measures-positively-associated-improvement",
+      "question": "Do schools that score strong on the 5Essentials Survey go on to improve more on attendance, grades and on-track rates, and in which schools?",
+      "members": [
+        [
+          "elementary-attendance-improves-strong-5essentials-measures",
+          "+"
+        ],
+        [
+          "high-school-attendance-strong-5essentials-measures",
+          "+"
+        ],
+        [
+          "elementary-gpa-strong-5essentials-measures",
+          "+"
+        ],
+        [
+          "freshman-ontrack-strong-5essentials-measures",
+          "+"
+        ],
+        [
+          "base-strength-predicts-improvement-better-than-growth",
+          "~"
+        ],
+        [
+          "student-survey-measures-negative-gpa-prediction",
+          "~"
+        ],
+        [
+          "5essentials-predicts-improvement-high-low-poverty",
+          "+"
+        ],
+        [
+          "high-poverty-strong-schools-improved-more",
+          "~"
+        ],
+        [
+          "5essentials-scores-predict-student-success-measures",
+          "+"
+        ],
+        [
+          "student-experience-survey-reports-predict-school-outcomes",
+          "+"
+        ],
+        [
+          "student-reports-safe-supported-challenged-growth",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

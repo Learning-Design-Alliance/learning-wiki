@@ -42,6 +42,9 @@ Descriptive adoption analysis from platform logs across 39 classrooms and 77 imp
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+
 ## Related Claims
 - In a voluntary pilot of a GenAI practice platform, 34 of 95 registrants attempted at least one question, generating 230 submissions with highly uneven engagement — related
 - [In a voluntary group survey, all 12 module-activity items had a median of 4, with M5 implementation items rated highest](survey-positive-learning-value-m5-highest.md) — related

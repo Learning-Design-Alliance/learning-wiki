@@ -41,11 +41,12 @@ Treatment-by-status interaction analysis in the same intention-to-treat framewor
 
 ## Discussion
 
-
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students](assistments-school-composition-moderators.md) — the general claim this finding bears on, with the studies behind it
 - [Allocation to Medly improved post-test GCSE science attainment relative to business-as-usual self-directed revision (Hedges' g = 0.33)](medly-micro-rct-improves-gcse-science-attainment.md) — related
 - [Progressively larger treatment estimates among intervention students crossing engagement thresholds are hypothesis-generating only](medly-engagement-threshold-estimates-hypothesis-generating.md) — related
 - [Positive subject-specific effects of Medly in Physics, Chemistry and Biology, with no evidence the effect differed across subjects](medly-positive-effects-all-three-science-subjects.md) — related

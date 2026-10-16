@@ -18,7 +18,7 @@ sources:
 # Learning Goals
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies (4 quant-synthesis, 2 causal, 2 review, 1 design), `q1`–`q3` · 4 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (6 for) · 13 studies (6 quant-synthesis, 3 causal, 2 review, 1 design, 1 theoretical), `q1`–`q4` · 6 of 13 report an effect size · 1 claim rests on one study
 
 ## Description
 Learning goals are explicit statements of the intended outcomes of instruction — what learners should know, understand, or be able to do. They function as the anchor for [Constructive Alignment](../patterns/constructive-alignment.md): activities, materials, and assessments are all designed backward from them, and learners use them to monitor their own progress.
@@ -61,6 +61,12 @@ Well-specified goals improve achievement by directing learner attention to what 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Developing a common understanding of expected learning helps all students succeed, not only those with school-aligned prior knowledge](../claims/shared-understanding-expected-learning-helps-all-students.md) [+W]
+
+## The evidence by question
+
+- *Does a specific, challenging goal raise performance over no goal or a vague 'do your best'?* [Goal setting improves performance](../claims/goal-setting-improves-performance.md) [+S]
+- *For a learner new to the task, should the goal name the process or the result, and how near should it be?* [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+S]
+- *Does making the intended learning explicit to learners help them, and do learners register when it is missing?* [Developing a common understanding of expected learning helps all students succeed, not only those with school-aligned prior knowledge](../claims/shared-understanding-expected-learning-helps-all-students.md) [+W]
 
 ## Related Elements
 

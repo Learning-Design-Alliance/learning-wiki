@@ -38,7 +38,7 @@ sources:
 # Feedback type shifts engagement by question type: educator feedback yields more MCQ submissions while AI feedback trends toward more open-ended revisions, with no overall difference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 causal `r2` · `q3` · `i0` negligible
+> **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i?` Overall active-learning actions did not differ significantly between conditions (U = 4075.5, p = 0.0738). [→ Chloe Qianhui Zhao 2026](#chloe-qianhui-zhao-2026)

@@ -41,8 +41,9 @@ Same multiple regression (N = 478). The MSLQ help-seeking subscale measures gene
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](genai-overreliance-harms-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
 - [The four profiles differ in academic self-efficacy, time/study management, and effort regulation, with HL highest, but not in help seeking](profiles-differ-in-self-regulatory-resources-except-help-seeking.md) — related
 - [Peer-related help-seeking and learner-learner engagement strategies appear less often in profiles of students with lower digital distraction](peer-help-seeking-inversely-associated-lower-distraction.md) — related
 - [In association-rule mining of survey data from 530 college students in online courses, goal setting, environment structuring and time management were the strategies most often associated with lower digital distraction](srl-strategies-associated-lower-digital-distraction.md) — related

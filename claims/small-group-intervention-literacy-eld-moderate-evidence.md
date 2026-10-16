@@ -41,8 +41,9 @@ The guide's evidence summary for Recommendation 4 reports "Six randomized contro
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Small group instruction is associated with significantly larger effect sizes than CAI and incentive components in targeted secondary interventions](small-group-instruction-outperforms-cai-incentives.md) — the general claim this finding bears on, with the studies behind it
 - [A WWC practice guide rests its recommendation to teach academic vocabulary intensively across several days on six studies meeting WWC standards (five RCTs, one quasi-experiment)](academic-vocabulary-intensive-instruction-strong-evidence.md) — related
 - [Integrating oral and written English language instruction into content-area teaching shows positive impacts on content-area acquisition in five RCTs](integrate-oral-written-language-content-teaching.md) — related
 - [The evidence base for Read Well® with English language learners is small, resting on one randomized controlled trial of 34 students in one school](read-well-ell-evidence-base-small-one-rct.md) — related

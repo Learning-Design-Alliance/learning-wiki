@@ -30,7 +30,7 @@ sources:
 # Post-deployment diagnostics attributed many remaining retrieval misses to query formulation, with bounded expansion recovering eleven of 24 original queries without lowering the relevance floor
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2`–`r3` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` The five-course run still contained 93 no-match turns, of which twelve were intentional locked-module refusals and fifteen were quiz follow-ups whose wording did not retrieve a qualifying passage. [→ Sidney Shapiro and Joshua Lindemann 2026](#sidney-shapiro-and-joshua-lindemann-2026)
@@ -60,8 +60,9 @@ Retrieval diagnostic on the affected topics: the section reports that "a bounded
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Browsing term lists (selection mode) helps searchers who do not know the exact query term](selection-mode-browsing-helps-uncertain-searchers.md) — the general claim this finding bears on, with the studies behind it
 
 - [In a ten-request live textbook audit, citation integrity coexisted with substantive error: every citation resolved to its source, yet answers included retrieval misses and contradictions](citation-integrity-coexists-with-error.md)
 - [DysLexLens is moderately robust to paraphrased queries (Answer Relevancy 0.58) but sensitive to keyword-perturbed queries (0.34)](query-robustness-paraphrase-keyword-perturbation.md)

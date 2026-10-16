@@ -1,0 +1,124 @@
+{
+  "principle": "elements/self-explanation",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "self-explanation-improves-conceptual-understanding",
+      "question": "Does prompting learners to explain what they study or solve improve their understanding, and on which outcomes?",
+      "members": [
+        [
+          "self-explanation-effective-across-instructional-conditions",
+          "+"
+        ],
+        [
+          "self-explanation-improves-abstract-transfer",
+          "+"
+        ],
+        [
+          "self-explanation-far-transfer-geometry-classroom",
+          "~"
+        ],
+        [
+          "self-explanation-time-on-task-cost",
+          "~"
+        ],
+        [
+          "erroneous-examples-build-conceptual-knowledge",
+          "+"
+        ],
+        [
+          "constructive-learning-beats-active-passive",
+          "~"
+        ],
+        [
+          "model-comparison-noticing-lexical",
+          "~"
+        ],
+        [
+          "generative-processing-improves-learning",
+          "+"
+        ],
+        [
+          "self-explanation-effect-worked-examples",
+          "+"
+        ],
+        [
+          "worked-example-self-explanation-journal-transfer",
+          "+"
+        ],
+        [
+          "assisting-self-explanation-prompt-effect",
+          "+"
+        ],
+        [
+          "assisting-prompts-foster-conceptual-knowledge",
+          "+"
+        ],
+        [
+          "self-explanation-prompts-foster-procedural-knowledge",
+          "+"
+        ],
+        [
+          "fading-and-principle-prompts-improve-probability-transfer",
+          "+"
+        ],
+        [
+          "explanation-prompts-redirect-attention-with-hidden-costs",
+          "~"
+        ],
+        [
+          "adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "instructional-explanations-sometimes-equal-or-better-than-self-explanation",
+      "question": "When is self-explaining worth its extra time, and what can it cost compared with being given an explanation or practising retrieval?",
+      "members": [
+        [
+          "self-explanation-time-on-task-cost",
+          "+"
+        ],
+        [
+          "self-explanation-improves-transfer-reduces-detail-recall",
+          "~"
+        ],
+        [
+          "explaining-own-incorrect-ideas-reduces-learning",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "assisting-self-explanation-prompt-effect",
+      "question": "Which kinds of self-explanation prompt produce the best explanations and learning?",
+      "members": [
+        [
+          "assisting-prompts-foster-conceptual-knowledge",
+          "+"
+        ],
+        [
+          "self-explanation-prompts-foster-procedural-knowledge",
+          "~"
+        ],
+        [
+          "explanation-prompts-redirect-attention-with-hidden-costs",
+          "~"
+        ],
+        [
+          "computer-generated-self-explanation-prompts-recommendation",
+          "~"
+        ],
+        [
+          "faded-steps-hypothesized-trigger-self-explanations",
+          "~"
+        ],
+        [
+          "fading-no-effect-productive-learning-events",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

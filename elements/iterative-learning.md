@@ -13,7 +13,7 @@ generated:
 # Iterative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (8 for, 1 mixed, 1 against) · 10 studies (3 design, 2 causal, 2 quant-synthesis, 2 qualitative, 1 review), `q1`–`q4` · 2 of 10 report an effect size · 9 claims rest on one study
+> **Evidence** · 11 claims (9 for, 1 mixed, 1 against) · 11 studies (3 causal, 3 design, 2 quant-synthesis, 2 qualitative, 1 review), `q1`–`q4` · 3 of 11 report an effect size · 10 claims rest on one study
 
 ## Description
 Iterative learning is the element in which learners improve through repeated cycles of attempt, feedback, revision, and retry. It is useful when quality emerges through refinement rather than one-shot performance.
@@ -48,6 +48,10 @@ Iterative learning is the element in which learners improve through repeated cyc
 - [Refinement gains stabilize or decline beyond three iterations, and beam-size gains become negligible beyond two samples](../claims/refinement-iterations-and-beam-size-tuning-results.md) [~W]
 - [Most models struggle to engage with a student's prior debugging attempts even when the iteration history is provided](../claims/models-struggle-acknowledging-debugging-progression.md) [-W]
 - [AI-supported design iteration consists of generation, selection, evaluation, and revision rather than one-off generation](../claims/ai-iteration-generation-selection-evaluation-revision.md) [+W]
+
+## The evidence by question
+
+- *Does working through cycles of attempt, feedback and revision improve the quality of learners' work?* [Students' argumentative essay quality improves substantially from initial to revised drafts regardless of feedback source](../claims/essay-quality-improves-from-initial-to-revised.md) [+M]
 
 ## Related Elements
 - [Revision](revision.md)

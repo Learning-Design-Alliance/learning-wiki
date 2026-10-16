@@ -30,7 +30,7 @@ sources:
 # After training, analysts' free-text detection reasoning shifted away from physics-violation and anatomical cues toward functional and stylistic artifacts and became more specific
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` References to physics violations in analysts' comments decreased from 20.0% pre-training to 7.0% post-training, the only between-phase difference with non-overlapping 95% Wilson confidence intervals. [→ Negar Kamali 2026](#negar-kamali-2026)

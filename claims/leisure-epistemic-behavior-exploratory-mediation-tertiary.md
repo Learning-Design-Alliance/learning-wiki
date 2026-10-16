@@ -42,6 +42,10 @@ Exploratory post hoc mediation analyses repeated separately for each of the four
 ## Discussion
 
 
+## Learner Variables
+- [Epistemic Beliefs](../learner-variables/epistemic-beliefs.md) — predictor: learners who differ on it differ in outcomes
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Epistemic behavior does not mediate the relation of cognitive ability or curiosity with academic performance](epistemic-behavior-fails-to-mediate-academic-performance.md) — reports the opposite

@@ -39,6 +39,18 @@ Authors' interpretation from the case-study audit addressing their first researc
 
 > "We found the Framework to be very effective in this regard as it provided a codified and objective way of assessing the level of active learning required for the activities in the audited course."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Can a course's activities and learners' talk be coded reliably into ICAP modes, so a designer can audit a design?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **3 distinct studies** (2 design, 1 associational), `q2`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Pollard 2025](https://doi.org/10.24059/olj.v29i3.4555) | q2 · design · r2 | i? | this claim; [Engagement modes were unevenly distributed across units, with some units rated Interactive](uneven-icap-mode-distribution-across-units.md) (supports) |
+| [Lan Anh Do 2026](https://doi.org/10.48550/arxiv.2607.28651) | q2 · design · r3 | i? | [Human and agent framework revisions concentrate on the mid-level engagement categories (Le](mid-level-icap-categories-most-ambiguous.md) (qualifies) |
+| [Chen 2026](https://doi.org/10.48550/arxiv.2607.17643) | q2 · associational · r2 | i? | [Learning-oriented engagement is recurrent but selective in everyday human–LLM conversation](everyday-llm-use-engagement-prevalence.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

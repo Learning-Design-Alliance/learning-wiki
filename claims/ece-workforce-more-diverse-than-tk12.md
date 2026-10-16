@@ -42,6 +42,9 @@ Descriptive demographic comparison reported in the Executive Summary and the Dem
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - In California (2018-19), 77.4% of K-12 public school students are people of color but only 39.1% of classroom teachers are — related
 - [Teacher residency programs enroll a more diverse candidate pool than traditional preparation programs, per a national comparison for 2016–17.](residencies-enroll-more-candidates-of-color.md) — related

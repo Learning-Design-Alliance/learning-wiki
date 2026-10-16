@@ -42,6 +42,9 @@ Observational analysis of units earned by race/ethnicity within QR placement (Fi
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Average first-year baccalaureate units earned decreased with each lower QR placement category, from about 27 units in Category I to about 20 in Category IV](eo1110-credit-accumulation-declines-by-placement.md) — related
 - [Black/African American and Hispanic/Latino students earned fewer first-year baccalaureate units than White and Asian students in every QR placement category in both cohorts](eo1110-credit-gaps-by-ethnicity-persist.md) — possibly the same claim (merge candidate)

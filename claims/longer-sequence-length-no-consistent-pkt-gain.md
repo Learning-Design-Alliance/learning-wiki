@@ -30,7 +30,7 @@ sources:
 # Extending maximum sequence length from 50 to 100 does not lead to consistent knowledge-tracing performance improvements; negative changes appear more frequently across models and datasets
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across DKT, Code-DKT, and ECKT, most assignments show marginal changes or clear degradation when Lmax is increased to 100. [→ Jaewook Kim 2026](#jaewook-kim-2026)

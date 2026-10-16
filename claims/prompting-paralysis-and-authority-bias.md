@@ -42,6 +42,9 @@ Thematic analysis of students’ reflective essays from Week 3 identified prompt
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Motivational Disengagement, reported by 270 participants, captures reduced initiative and eroding confidence linked to AI reliance](motivational-disengagement-ai-reliance.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — a broader claim this one bears on

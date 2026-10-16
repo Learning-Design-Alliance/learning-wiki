@@ -42,6 +42,9 @@ Interpretive statement closing the Self-Efficacy scale description in the studen
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Positive academic mindsets increase perseverance and academic behaviors, yielding higher grades; negative mindsets produce a self-defeating cycle](mindsets-increase-perseverance-behaviors-grades.md) — related

@@ -41,10 +41,11 @@ A nonlinear interaction term added to the test-of-learning regression model in t
 
 ## Discussion
 
-
 ## Learner Variables
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — the general claim this finding bears on, with the studies behind it
 - [AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains](aic-moderates-llm-learning-gains.md) — related
 - [Prior knowledge and worked-example type (full vs completion) interact significantly on self-reported germane cognitive load, but not on intrinsic or extraneous load](prior-knowledge-by-worked-example-type-interaction-on-germane-load.md) — related

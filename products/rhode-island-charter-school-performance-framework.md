@@ -19,7 +19,7 @@ sources:
 # Rhode Island Charter School Performance Framework
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 8 claims (8 for) · 3 studies (2 causal, 1 qualitative), `q2`–`q3` · 0 of 3 report an effect size · 8 claims rest on one study
 
 ## Description
 A performance-accountability framework created and administered by the Rhode Island Department of Education to evaluate charter schools from initial application through renewal.

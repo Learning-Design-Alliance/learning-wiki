@@ -42,6 +42,9 @@ The brief states this as an evidence-based expectation ("would likely increase")
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Many English-only students would fail locally determined cutoff scores often applied to English Learner students under California's Criterion 4 basic-skills requirement](criterion4-barrier-reclassification.md) — related
 - [ELPAC overall Performance Level 4 is the most robust indicator that language is no longer the primary driver of academic achievement differences among California's reclassification criteria](elpac-pl4-sweet-spot-reclassification.md) — related

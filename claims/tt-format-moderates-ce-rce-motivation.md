@@ -42,8 +42,9 @@ Linear mixed-effects model analysis of ARCS motivation from 222 first-year high 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Instruction should present the learning task as engaging and meaningful and promote positive expectations of success, because effort requires that learners value the task and believe they can succeed](effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) — the general claim this finding bears on, with the studies behind it
 - [Critical thinking disposition showed significant positive main effects on motivation and learning outcomes across all dialogue formats, with no format interaction](critical-thinking-disposition-main-effects.md) — reports the opposite
 - [Interactions between learner characteristics and dialogue format for learning outcomes showed only trends toward significance, not significant effects](learning-outcome-interactions-trend-only.md) — related
 - [Student–student and teacher–teacher dialogue formats elicited significantly higher ARCS motivation than the teacher–student format](ss-tt-higher-motivation-than-ts.md) — related

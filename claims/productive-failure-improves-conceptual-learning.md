@@ -105,7 +105,7 @@ The article reports a randomized-controlled experiment comparing problem solving
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should learners attempt a problem before the idea is taught, and what must the teaching afterwards do?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **8 distinct studies** (4 causal, 2 theoretical, 1 quant-synthesis, 1 review), `q2`–`q4`, 2 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should learners attempt a problem before the idea is taught, and what must the teaching afterwards do?* This table gathers the studies behind this claim and the 14 narrower claims that bear on it: **8 distinct studies** (4 causal, 2 theoretical, 1 quant-synthesis, 1 review), `q2`–`q4`, 2 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -115,8 +115,8 @@ The article reports a randomized-controlled experiment comparing problem solving
 | [Manu Kapur 2016](https://doi.org/10.1080/00461520.2016.1155457) | q3 · theoretical · r3 | i? | this claim; [Guidance during initial problem solving does not translate into better learning from subse](initial-guidance-does-not-improve-learning-from-instruction.md) (supports) |
 | [Schwartz & Martin 2004](https://doi.org/10.1207/s1532690xci2202_1) | q3 · causal · r2 | i? | [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) (supports) |
 | [Loibl 2017](https://doi.org/10.1007/s10648-016-9379-x) | q3 · review · r? | i? | [PS-I fosters learning only if specific design features (contrasting cases or building inst](ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions.md) (qualifies) |
-| [van Gog et al. 2011](https://doi.org/10.1016/j.cedpsych.2010.10.004) | q3 · causal · r? | i? | [Example-first conditions outperformed problem-first conditions on an immediate circuit tes](worked-example-problem-sequences.md) (qualifies) |
-| [van Gog 2011](https://doi.org/10.1016/j.compedu.2011.03.019) | q3 · causal · r? | i? | [Identical example–problem pairs showed an early order advantage but no detected final-test](identical-example-problem-order-advantage-not-detected-at-final-test.md) (qualifies) |
+| [van Gog et al. 2011](https://doi.org/10.1016/j.cedpsych.2010.10.004) | q3 · causal · r? | i? | [Example-first conditions outperformed problem-first conditions on an immediate circuit tes](worked-example-problem-sequences.md) (qualifies); [Identical example–problem pairs showed an early order advantage but no detected final-test](identical-example-problem-order-advantage-not-detected-at-final-test.md) (qualifies) |
+| [Kapur 2011](https://doi.org/10.1007/s11251-010-9144-3) | q3 · causal · r? | i? | [Productive failure students significantly outperformed lecture-practice and facilitated co](pf-outperformed-lp-fcps-post-test-problems.md) (supports); [Differences between the facilitated complex problem solving and lecture-practice condition](fcps-lp-difference-not-significant.md) (qualifies); [Productive failure students demonstrated greater representation flexibility in working wit](pf-greater-representation-flexibility-graphical.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -139,6 +139,8 @@ The article reports a randomized-controlled experiment comparing problem solving
 **Open questions.** Evidence entries are still needed to establish the effect's size, its durability on delayed and transfer tests, and the domains in which it holds. Until studies are added, this page should be treated as a placeholder rather than an actionable recommendation. In particular, the literature would need to distinguish effects on delayed post-tests and transfer (where preparatory effects are typically claimed to be strongest) from effects on immediate performance during instruction (where instruction-first approaches often look better) before this claim can be rated for strength. Designers evaluating this pattern should therefore plan assessments at a delay and include transfer items, not just immediate post-tests.
 
 ## Related Claims
+
+- [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — the general claim this finding bears on, with the studies behind it
 
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](worked-example-problem-sequences.md) — the opposing sequencing recommendation for novices; productive failure claims the reverse order
 - [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — proposed mechanism: failure creates the impasse that instruction resolves

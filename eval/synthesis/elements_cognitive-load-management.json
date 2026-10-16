@@ -1,0 +1,144 @@
+{
+  "principle": "elements/cognitive-load-management",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "cognitive-overload-degrades-learning",
+      "question": "Does removing avoidable processing from a presentation improve learning?",
+      "members": [
+        [
+          "part-task-practice-reduces-load-for-novices",
+          "+"
+        ],
+        [
+          "cognitive-load-management",
+          "+"
+        ],
+        [
+          "design-principles-improve-cognitive-load-management",
+          "~"
+        ],
+        [
+          "clt-instructional-design-raises-retention-transfer-thermodynamics",
+          "+"
+        ],
+        [
+          "clt-design-effective-learning-retention-transfer",
+          "+"
+        ],
+        [
+          "no-group-difference-tat-posttest-cls",
+          "~"
+        ],
+        [
+          "extraneous-load-predicts-lower-post-test",
+          "+"
+        ],
+        [
+          "extraneous-load-eliminates-germane-load-learning-gains",
+          "+"
+        ],
+        [
+          "voice-media-outperform-picture-text-overall",
+          "+"
+        ],
+        [
+          "worked-examples-reduce-novice-search",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "cognitive-load-reduction-improves-learning",
+      "question": "Should related text and pictures be integrated rather than separated?",
+      "members": [
+        [
+          "split-attention-effect-degrades-learning",
+          "+"
+        ],
+        [
+          "contiguity-spatial-temporal-large-learning-benefits",
+          "+"
+        ],
+        [
+          "spatial-temporal-contiguity-equivalent-magnitudes",
+          "~"
+        ],
+        [
+          "temporal-contiguity-lower-cognitive-load",
+          "+"
+        ],
+        [
+          "integration-of-related-elements-large-mean-effect",
+          "+"
+        ],
+        [
+          "element-interactivity-moderates-contiguity-effect",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "segmenting-improves-multimedia-learning",
+      "question": "Does breaking a continuous presentation into segments improve learning over presenting it whole?",
+      "members": [
+        [
+          "segmenting-principle-mayer-2008",
+          "+"
+        ],
+        [
+          "segmenting-reduces-cognitive-load",
+          "+"
+        ],
+        [
+          "segmentation-reduces-hesitations-adhd-participants",
+          "+"
+        ],
+        [
+          "long-recorded-lectures-impeded-focus",
+          "+"
+        ],
+        [
+          "segmenting-effects-confirmed-system-paced",
+          "+"
+        ],
+        [
+          "segmenting-increases-learning-time",
+          "~"
+        ],
+        [
+          "prior-knowledge-moderates-segmenting-retention",
+          "~"
+        ],
+        [
+          "segmentation-benefits-shrink-with-expertise",
+          "~"
+        ],
+        [
+          "flow-control-unused-no-learning-correlation",
+          "~"
+        ],
+        [
+          "animations-pacify-learners-navigation-imbalance",
+          "~"
+        ],
+        [
+          "segmentation-benefit-larger-for-adhd-group",
+          "~"
+        ],
+        [
+          "mooc-engagement-declines-with-video-length",
+          "+"
+        ],
+        [
+          "interpolated-questions-improve-video-learning",
+          "+"
+        ],
+        [
+          "segmentation-improves-learning-dynamic-visualizations",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

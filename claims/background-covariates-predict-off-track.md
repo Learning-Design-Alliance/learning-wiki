@@ -42,6 +42,9 @@ Logistic regressions of each off-track indicator on background covariates withou
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Among students initially on-track, being male, Black, or Hispanic and attending higher-FRPL schools predict higher odds of falling off track in math](demographics-predict-falling-off-track.md) — related
 - [Being male, Black, or Hispanic and changing schools predict lower odds of moving on-track; the reading findings are qualitatively similar](demographics-predict-moving-on-track.md) — related

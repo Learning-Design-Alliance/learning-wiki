@@ -1,0 +1,152 @@
+{
+  "principle": "theories/self-determination-theory",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "autonomy-supports-intrinsic-motivation",
+      "question": "Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?",
+      "members": [
+        [
+          "autonomy-support-training-effective-d63",
+          "+"
+        ],
+        [
+          "multiple-elements-moderator-autonomy-training",
+          "~"
+        ],
+        [
+          "recipient-moderators-teachers-trainees-autonomy-orientation",
+          "~"
+        ],
+        [
+          "interest-autonomy-purpose-boost-motivation",
+          "+"
+        ],
+        [
+          "differentiated-mediation-autonomy-competence",
+          "+"
+        ],
+        [
+          "teacher-support-benefits-conditional-on-autonomy-balance",
+          "~"
+        ],
+        [
+          "educator-buy-in-engagement-fidelity-edtech-pilots",
+          "+"
+        ],
+        [
+          "formative-assessment-fosters-motivation-autonomy-competence-relatedness",
+          "+"
+        ],
+        [
+          "autonomy-support-versus-controlling-teaching",
+          "+"
+        ],
+        [
+          "external-mandate-no-direct-effect-deep-revision",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "need-satisfaction-strongly-associated-learning-engagement",
+      "question": "Do learners whose needs for autonomy, competence and relatedness are met engage, persist and perform better, and which need matters most?",
+      "members": [
+        [
+          "sdt-needs-positive-learning-motivation-agentic-ai",
+          "+"
+        ],
+        [
+          "competence-strongest-predictor-relatedness-null",
+          "~"
+        ],
+        [
+          "comprehensive-need-satisfaction-configuration-principal",
+          "+"
+        ],
+        [
+          "gai-engagement-direct-null-indirect-small",
+          "~"
+        ],
+        [
+          "need-satisfaction-predicts-willingness-beyond-capacity",
+          "+"
+        ],
+        [
+          "retention-programs-meeting-all-three-needs-higher-persistence",
+          "+"
+        ],
+        [
+          "sdt-path-strengths-effort",
+          "+"
+        ],
+        [
+          "perceived-autonomy-predicts-autonomy-support-and-autonomous-motivation-genai",
+          "+"
+        ],
+        [
+          "competence-predicts-autonomous-motivation-not-autonomy-support",
+          "~"
+        ],
+        [
+          "school-side-support-genai-engagement",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "rewards-undermine-intrinsic-motivation",
+      "question": "Do rewards and praise undermine voluntary engagement?",
+      "members": [
+        [
+          "extrinsic-rewards-undermine-intrinsic-motivation-argument",
+          "+"
+        ],
+        [
+          "grading-harms-maker-education-outcomes",
+          "+"
+        ],
+        [
+          "incentives-no-intrinsic-motivation-harm",
+          "-"
+        ],
+        [
+          "concrete-reward-increases-mean-ideational-fluency",
+          "~"
+        ],
+        [
+          "feedback-praise-reduces-learning",
+          "~"
+        ],
+        [
+          "gamification-has-small-positive-effects-on-learning-outcomes",
+          "~"
+        ],
+        [
+          "gamification-engagement-mixed-evidence",
+          "~"
+        ],
+        [
+          "praise-positive-criticism-negative-learning",
+          "+"
+        ],
+        [
+          "annevelink-personalised-instruction-path-test",
+          "+"
+        ],
+        [
+          "teacher-responses-can-close-off-pupil-thinking",
+          "~"
+        ],
+        [
+          "reward-effects-hold-across-individual-tasks",
+          "~"
+        ],
+        [
+          "good-idea-reward-no-incentive-effect",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

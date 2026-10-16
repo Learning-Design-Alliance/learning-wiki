@@ -42,6 +42,9 @@ The report attributes this to Digital Promise's prior "Dynamic Learning Project 
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [After one year of DLP coaching, coached teachers reported more frequent and more powerful technology use than non-participating colleagues](dlp-teachers-more-frequent-powerful-technology-use.md) — related
 - [DLP teachers reported significant increases in using technology for both content and pedagogy, but no significant difference from non-DLP teachers in basic technology skills](dlp-content-pedagogy-gains-not-basic-skills.md) — related

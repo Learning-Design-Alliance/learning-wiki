@@ -40,8 +40,9 @@ Structural model analysis (PLS-SEM, bootstrapping with 5,000 resamples) of surve
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Basic psychological need satisfaction is strongly associated with learning engagement among medical undergraduates](need-satisfaction-strongly-associated-learning-engagement.md) — the general claim this finding bears on, with the studies behind it
 - [Perceived competence predicts autonomous motivation for AI use but not autonomy support for AI use](competence-predicts-autonomous-motivation-not-autonomy-support.md) — related
 - [Dependent versus autonomous cognitive offloading to GenAI shows opposite motivational and cognitive outcome patterns](dependent-autonomous-offloading-genai.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related

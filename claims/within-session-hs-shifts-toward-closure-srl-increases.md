@@ -60,11 +60,13 @@ Same mixed-effects analysis of within-session position for SRL functions. The au
 
 ## Discussion
 
-
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+- [Executive Function](../learner-variables/executive-function.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](genai-overreliance-harms-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Guest-mode usage dominates lightweight help-seeking, raising an equity concern that students without metacognitive support stay at shallow answer lookup](guest-mode-equity-metacognitive-labor.md) — related
 - [Within-session help-seeking development predicts unaided post-test performance beyond pre-test performance and static AI-use features](hs-trajectory-predicts-unaided-posttest.md) — related
 - [Grade-9 students' LLM-supported mathematical interactions are strongly request-dominated, with little explicit planning, monitoring, or evaluation](llm-math-interactions-request-dominated-grade9.md) — related

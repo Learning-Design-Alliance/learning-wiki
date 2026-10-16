@@ -30,7 +30,7 @@ sources:
 # Code-augmented interaction consistently increases median and tail latency, and costs per correct answer typically increase, with Gemini 2.5 Pro a notable outlier
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The code-augmented condition consistently increases both median latency and tail latency relative to the baseline condition. [→ Sagnik Nath 2026](#sagnik-nath-2026)

@@ -12,7 +12,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 88 claims (60 for, 22 mixed, 6 against) · 82 studies (30 causal, 17 associational, 15 review, 9 quant-synthesis, 5 design, 4 qualitative, 2 theoretical), `q1`–`q4` · 16 of 82 report an effect size · 85 claims rest on one study
+> **Evidence** · 89 claims (61 for, 22 mixed, 6 against) · 82 studies (30 causal, 17 associational, 15 review, 9 quant-synthesis, 5 design, 4 qualitative, 2 theoretical), `q1`–`q4` · 16 of 82 report an effect size · 86 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -145,6 +145,13 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation](../claims/chatbot-enhances-learning-experience-self-paced.md) [+M] — instruction changes it
 - [In continuous recognition memory, the lag function is inverted U-shaped after a short retention interval and monotonically increasing after a long retention interval](../claims/spacing-lag-function-shape-depends-on-cue-bias-and-retention-interval.md) [~M] — learners who differ on it differ in outcomes
 - [Low-guidance set-ups took longer than high-guidance set-ups in the CVS instruction sessions](../claims/low-guidance-longer-time-on-task.md) [+M] — instruction changes it
+
+## The evidence by question
+
+- *Does spreading study or practice over sessions improve later retention more than massing the same amount of it?* [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S]
+- *Do learners who miss more school days learn less, earn lower grades and graduate less often?* [Low attendance is linked with lower academic skills, grades, and high school graduation, and high attendance with higher ones](../claims/attendance-linked-academic-skills-grades-graduation.md) [+M]
+- *Do learners lose ground over a long break such as the summer, and which learners lose most?* [Summer learning loss is common but not inevitable among K-12 students](../claims/summer-slide-common-but-not-inevitable.md) [+M]
+- *Does giving learners more learning time (longer days or years, more sessions, a higher dose) improve outcomes?* [Thoughtfully designed expanded learning time and opportunities are associated with positive academic and nonacademic outcomes, with the best-designed studies showing the strongest effects](../claims/expanded-learning-time-positive-outcomes.md) [+M]
 
 ## Related Learner Variables
 - Self-regulation — a learner who cannot pace themselves needs the schedule imposed.

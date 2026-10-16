@@ -42,6 +42,9 @@ Trend analysis of student computer use at home and at school by school racial co
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [School improvement rates varied by community type: Latino, racially diverse, and integrated schools improved disproportionately, while stagnation concentrated in predominantly African-American low-income communities](improvement-rates-vary-community-racial-composition.md) — reports the opposite
 - [NBCTs are more likely than other teachers to work in magnet schools and less likely to work in the poorest and predominantly African American schools](nbcts-disproportionately-magnet-schools.md) — related

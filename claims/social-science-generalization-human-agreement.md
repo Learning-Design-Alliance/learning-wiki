@@ -56,8 +56,9 @@ Small-scale human validation of the automated metrics against expert annotations
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Supervised ML/DL Bloom question classifiers trained on one dataset drop substantially in weighted F1 when tested on unseen datasets](supervised-bloom-classifiers-degrade-cross-dataset.md) — the general claim this finding bears on, with the studies behind it
 - [Cognitive leap is the most prevalent deviation pattern of LLM-generated questions, and fine-grained prompting amplifies upward shifts while suppressing cognitive regression](cogleap-dominant-fgp-suppresses-regression.md) — related
 - [Fine-grained prompting improves Bloom-level category consistency and knowledge coverage of generated questions in the computer science domain](fgp-improves-catcons-knowcov.md) — related
 - [Fine-grained prompting substantially improves question uniqueness and usability of LLM-generated educational questions compared with Chain-of-Thought prompting](fgp-improves-question-uniqueness-usability.md) — related

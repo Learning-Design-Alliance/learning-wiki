@@ -63,6 +63,8 @@ immersion context, not foreign-language study abroad. Self-report, cross-section
 
 ## Related Claims
 
+- [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — the general claim this finding bears on, with the studies behind it
+
 - [Strategy instruction is more effective when contextualized in authentic tasks](learning-strategy-instruction-contextualized-more-effective.md) — the instructional response to what this measures
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — the same argument against leaving acquisition to the learner's own initiative
 - [Learners of Italian report ideal-self motivation rather than instrumental motivation, while their teachers assume the reverse](italian-l2-motivation-is-ideal-self-not-instrumental.md) — the other learner-side variable in this set

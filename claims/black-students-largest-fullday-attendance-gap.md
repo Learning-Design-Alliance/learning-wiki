@@ -42,6 +42,9 @@ Descriptive comparison from the district-wide CPS study (Figure 2 footnote). The
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [District-wide pre-k attendance rates increased modestly (1.5 percentage points) as full-day enrollment expanded, with Black students gaining 3 percentage points](district-prek-attendance-increased-with-fullday-expansion.md) — related
 - [Four schools that converted half-day pre-k to full-day showed attendance about 4 percentage points higher than matched comparison schools after expansion](nlci-fullday-conversion-attendance-gains.md) — related

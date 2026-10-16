@@ -39,11 +39,12 @@ Theoretical analysis in the review's Pathway 1 section, drawing on reviews of ge
 
 ## Discussion
 
-
 ## Learner Variables
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — the general claim this finding bears on, with the studies behind it
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — a narrower finding that bears on this claim
 - [Epistemic and society-related AI knowledge were negatively associated with trust in GenAI](epistemic-knowledge-negatively-associated-with-genai-trust.md) — related
 - [Prior knowledge and trust calibration moderate GenAI learning effects: fluent output is most persuasive when learners least can challenge it](prior-knowledge-trust-calibration-moderators.md) — possibly the same claim (merge candidate)

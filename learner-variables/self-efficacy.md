@@ -1,0 +1,143 @@
+---
+type: learner-variable
+id: self-efficacy
+title: Self-Efficacy
+description: "A learner's belief in their own ability to carry out the actions needed to succeed at a particular task or in a particular subject."
+status: review
+generated:
+  by: claude/unspecified
+  at: 2026-10-15
+---
+
+# Self-Efficacy
+
+> **Learner Variable** · [All learner variables](index.md)
+> **Evidence** · 100 claims (79 for, 13 mixed, 8 against) · 86 studies (37 associational, 12 causal, 12 review, 12 qualitative, 8 design, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 12 of 86 report an effect size · 97 claims rest on one study
+
+## Description
+Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
+
+## Implications
+
+### Context
+- Raised by mastery experiences, so tasks sequenced for early success and feedback that names what the learner did well matter.
+- Self-report scales are sensitive to wording and timing; a gain in confidence is not a gain in skill.
+
+### Target Learners
+- Learners with low confidence in a subject, such as students who have struggled with mathematics or writing before.
+
+### Target Learning Objectives
+- Persistence, choice of further study in the subject, and achievement.
+
+## Claims
+<!-- Claims reporting findings about this variable, with evidence tags -->
+- [88% of AI-assisted students reported increased self-efficacy and confidence during independent practicals](../claims/ai-feedback-88-percent-self-efficacy-increase.md) [+M] — instruction changes it
+- [A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors](../claims/four-academic-mindsets-increase-perseverance-and-behaviors.md) [+M] — learners who differ on it differ in outcomes
+- [Academic self-efficacy does not significantly predict academic stress, and social influence does not directly predict AI dependence](../claims/ase-stress-and-si-dependence-null-paths.md) [-W] — learners who differ on it differ in outcomes
+- [Academic self-efficacy is associated with high school graduation rates and mathematics achievement](../claims/self-efficacy-associated-graduation-and-math.md) [+W] — learners who differ on it differ in outcomes
+- [Academic self-efficacy is negatively associated with AI dependency among university students](../claims/self-efficacy-negatively-associated-ai-dependency.md) [-M] — learners who differ on it differ in outcomes
+- [Admiral Squad participation increased Black male educators' confidence, sense of belonging, and sense of purpose](../claims/admiral-squad-confidence-beloning-impact.md) [+M] — instruction changes it
+- [Agriculture teachers' self-efficacy is positively related to career persistence indicators such as career commitment and job satisfaction](../claims/self-efficacy-positive-career-persistence-agriculture-teachers.md) [+M] — learners who differ on it differ in outcomes
+- [AI dependency mediates the relationship between academic self-efficacy and learning burnout](../claims/ai-dependency-mediates-self-efficacy-burnout.md) [+W] — learners who differ on it differ in outcomes
+- [AI literacy instruction widened a confidence-knowledge gap: students' perceived understanding of AI tools increased significantly after instruction while actual knowledge improved minimally](../claims/ai-literacy-confidence-knowledge-gap.md) [+M] — instruction changes it
+- [AI Prompting Literacy is indirectly and significantly associated with Deep Revision Engagement through Perceived Competence, Intrinsic Motivation, and Psychological Safety](../claims/apl-parallel-mediation-deep-revision.md) [+M] — learners who differ on it differ in outcomes
+- [AI Prompting Literacy significantly positively predicts Perceived Competence, Intrinsic Motivation, and Psychological Safety among Chinese university EFL learners](../claims/apl-predicts-psychological-needs-satisfaction.md) [+M] — instruction changes it
+- [AI self-efficacy and self-regulated learning mediate the support–competence associations in opposite patterns for the two supports](../claims/dual-mediation-ai-efficacy-srl-opposite-patterns.md) [~M] — learners who differ on it differ in outcomes
+- [AI-generated responses positively influenced the self-efficacy of secondary students in solving mathematics problems](../claims/ai-generated-responses-positive-self-efficacy.md) [+M] — instruction changes it
+- [AI-supported lab manual design increased students' confidence in troubleshooting and data analysis](../claims/ai-lab-manual-design-increased-confidence-troubleshooting.md) [+M] — instruction changes it
+- [AI-TPACK positively predicts science teaching self-efficacy among Chinese pre-service science teachers](../claims/ai-tpack-predicts-science-teaching-self-efficacy.md) [+M] — instruction changes it
+- [AIGC feedback quality predicts satisfaction but not self-efficacy, and satisfaction does not predict self-regulated learning](../claims/feedback-quality-satisfaction-not-srl.md) [-M] — instruction changes it
+- [Among AI-TPACK dimensions, all except AI technological knowledge and integrative AI-TPACK are significantly and positively associated with college teachers' AI teaching innovation behavior](../claims/ai-tpack-dimensions-associated-with-ai-teaching-innovation-behavior.md) [+M] — learners who differ on it differ in outcomes
+- [Assessment design, perceived assessment value, self-confidence, and fear of wrongful plagiarism accusations were the most frequently cited reasons for students' GenAI adoption decisions](../claims/reasons-students-cite-genai-assessment-decisions.md) [+M] — learners who differ on it differ in outcomes
+- [Authentic, challenging projects in the Learning Studio developed students' self-efficacy for future careers](../claims/authentic-projects-build-career-self-efficacy.md) [+M] — instruction changes it
+- [Both academic self-efficacy and AI self-efficacy are negatively associated with reported AI dependency, supporting a unified compensatory mechanism](../claims/self-efficacy-negatively-predicts-ai-dependency.md) [+M] — learners who differ on it differ in outcomes
+- [Cheating tendency mediates the effects of procrastination, learned helplessness, and self-efficacy on AI-assisted dishonesty, with indirect effects stronger at higher AI use](../claims/cheating-tendency-mediated-indirect-effects-stronger-high-ai-use.md) [~W] — learners who differ on it differ in outcomes
+- [Chinese EFL learners' positive perceptions of GenAI-based pronunciation feedback are positively associated with their English pronunciation self-efficacy](../claims/genai-pronunciation-feedback-associated-with-pronunciation-self-efficacy.md) [+M] — instruction changes it
+- [Coaches reported significantly greater confidence in their coaching skills by year end, rising from 62 to 89 percent rating themselves high or extremely high](../claims/dlp-coach-confidence-growth.md) [+M] — instruction changes it
+- [Comparing their own analyses with LLM outputs empowered students' sense of competence and reduced concerns about LLMs replacing human expertise](../claims/llm-comparison-empowers-competence.md) [+W] — instruction changes it
+- [Criterion measures, attitudes towards learning English, instrumentality promotion, and ideal L2 self are the strongest predictors of L2 self-efficacy](../claims/strongest-motivation-predictors-of-self-efficacy.md) [+M] — instruction changes it
+- [Dynamic Learning Project research found teachers who worked with edtech coaches used technology more frequently and felt more confident than peers who did not](../claims/dlp-coaching-technology-use-confidence.md) [+M] — instruction changes it
+- [Early math exposure in young children is linked to development, math confidence, and later math use (authors' assertion)](../claims/early-math-exposure-supports-development-confidence-later-use.md) [+W] — instruction changes it
+- [Educational cross-sectional studies link stronger AI reliance or dependence scores with lower academic self-efficacy, higher academic stress, and stronger performance expectations](../claims/academic-reliance-linked-stress-low-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
+- [Faculty confidence in guiding student AI use rose markedly after the six-week institute, with high-confidence responses increasing from 0% to 60%](../claims/ubridge-confidence-gains-pre-post.md) [+M] — instruction changes it
+- [Feedback quality influences SRL only indirectly through learning motivation, not through self-efficacy or satisfaction](../claims/feedback-quality-motivation-mediated-srl-path.md) [-W] — learners who differ on it differ in outcomes
+- [Female students show stronger academic self-confidence, more positive attitudes, higher achievement, and fewer absences, but this advantage diminishes almost completely under mastery learning](../claims/sex-advantage-diminishes-under-mastery-learning.md) [~M] — instruction changes it
+- [Fifth-grade self-efficacy is associated with later math and reading growth (.15 and .19 standardized units per SD), mediating ELL status's indirect negative association with growth](../claims/self-efficacy-intercept-predicts-achievement-growth-mediation.md) [+M] — learners who differ on it differ in outcomes
+- [Frequent generative AI use enhances perceived confidence and efficiency but increases technological dependence among university students](../claims/genai-self-efficacy-paradox-technological-dependence.md) [+M] — instruction changes it
+- [Gamified security training showed stronger confidence and format-preference effects among female students than male students](../claims/gender-differences-gamified-security-training.md) [+M] — an instructional effect differs with it
+- [GCLA use improves cognitive and behavioral engagement and self-efficacy compared with traditional ChatGPT use in blended learning](../claims/gcla-improves-engagement-and-self-efficacy.md) [+M] — instruction changes it
+- [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](../claims/girls-confidence-interest-gap-self-concept-predicts-choices.md) [+M] — learners who differ on it differ in outcomes
+- [Growth in academic self-efficacy is significantly associated with growth in mathematics achievement when modeled jointly](../claims/self-efficacy-growth-associated-with-math-growth.md) [+W] — learners who differ on it differ in outcomes
+- [Guided reflection embedded in self-assessment supports commencing students to engage responsibly and confidently with GenAI while maintaining academic integrity](../claims/guided-reflection-self-assessment-responsible-genai-engagement.md) [+M] — instruction changes it
+- [In agentic AI-supported online learning, perceived autonomy, competence, and relatedness are each positively associated with learning motivation](../claims/sdt-needs-positive-learning-motivation-agentic-ai.md) [+W] — learners who differ on it differ in outcomes
+- [In one flipped calculus study, teaching method (peer-teaching versus conventional flipped classroom) and prior achievement level interact on self-efficacy](../claims/method-achievement-interaction-self-efficacy.md) [~M] — instruction changes it
+- [In the pooled OLS model of current AI-use intensity, perceived usefulness (β = 0.322) and competence (β = 0.268) are the strongest positive associations, while institutional policy clarity shows no association after adjustment](../claims/policy-clarity-not-associated-with-use-intensity.md) [+M] — learners who differ on it differ in outcomes
+- [Interpersonal audio discussions with feedback and self-assessment elicit a statistically significant increase in introductory L2 learners' perceived pronunciation ability](../claims/audio-discussions-increase-perceived-pronunciation-ability.md) [+W] — instruction changes it
+- [Iterative testing engagement during AI agent creation predicts CT self-efficacy gains after controlling for initial self-efficacy](../claims/iterative-testing-predicts-self-efficacy-gains.md) [+M] — instruction changes it
+- [ITS-based practice did not improve post-training self-efficacy relative to paper-based practice; baseline self-efficacy was the primary determinant](../claims/its-practice-no-self-efficacy-gain.md) [-M] — instruction changes it
+- [Journal club activities are reported to enhance critical appraisal skills and confidence among pharmacy students](../claims/journal-clubs-enhance-critical-appraisal-pharmacy-students.md) [+W] — instruction changes it
+- [Lack of confidence and inappropriate language use were observed obstacles to students' mathematical communication during the experiment](../claims/confidence-obstacles-math-communication.md) [+M] — learners who differ on it differ in outcomes
+- [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](../claims/self-efficacy-predicts-academic-persistence.md) [+M] — learners who differ on it differ in outcomes
+- [Low-proficiency EFL undergraduates report feeling more competent in English tasks through ChatGPT-assisted writing feedback, conversational practice, and translation support](../claims/chatgpt-competence-experience-efl-undergraduates.md) [+W] — instruction changes it
+- [Math tutoring programs may improve students' math confidence and sense of belonging](../claims/tutoring-may-improve-math-confidence-and-belonging.md) [+M] — instruction changes it
+- [Metacognitive confidence about credit correlates with financial behaviors and advice giving, but knowledge performance does not correlate with behavior](../claims/confidence-correlates-with-financial-behaviors-not-knowledge.md) [+M] — learners who differ on it differ in outcomes
+- [Middle school SEL shows normative decline in self-efficacy and self-management but an increase in growth mindset](../claims/sel-trajectory-trends-middle-school.md) [+M] — instruction changes it
+- [More frequent media consumption is associated with greater perceived ability to manage and critically analyze information](../claims/consumption-frequency-confidence-association.md) [+M] — instruction changes it
+- [Motivational Disengagement, reported by 270 participants, captures reduced initiative and eroding confidence linked to AI reliance](../claims/motivational-disengagement-ai-reliance.md) [+M] — instruction changes it
+- [Multi-tool GenAI users report higher support, reliance, and benefit than single-tool users, but lower confidence working without GenAI](../claims/multi-tool-users-benefits-lower-independent-confidence.md) [~M] — instruction changes it
+- [Peer-teaching flipped classroom students show higher calculus self-efficacy than conventional flipped classroom students after controlling for pretest](../claims/ptfc-beats-cfc-self-efficacy.md) [+M] — instruction changes it
+- [Perceived competence predicts autonomous motivation for AI use but not autonomy support for AI use](../claims/competence-predicts-autonomous-motivation-not-autonomy-support.md) [~W] — learners who differ on it differ in outcomes
+- [Perceived Competence, Intrinsic Motivation, and Psychological Safety each significantly positively predict Deep Revision Engagement](../claims/psychological-mediators-predict-deep-revision.md) [+M] — learners who differ on it differ in outcomes
+- [Perceived school support positively predicts AI learning self-efficacy and AI perceived usefulness among Chinese undergraduates](../claims/school-support-predicts-ai-self-efficacy-usefulness.md) [+M] — instruction changes it
+- [Perceived social support positively predicts both AI literacy and technological self-efficacy among university faculty](../claims/social-support-predicts-ai-literacy-and-self-efficacy-faculty.md) [+M] — instruction changes it
+- [Positive teacher–student relationships relate to math outcomes through self-efficacy, intrinsic motivation, belonging, engagement, and mathematics identity](../claims/relationships-pathways-self-efficacy-motivation-identity.md) [+M] — learners who differ on it differ in outcomes
+- [Practice condition did not significantly affect learners' subjective confidence about credit knowledge or ability to manage credit](../claims/practice-condition-no-effect-financial-metacognition.md) [-W] — instruction changes it
+- [Pre-service primary teachers' science teaching self-efficacy beliefs correlate weakly but positively with their ability to determine suitable taxonomy, strategy, and method-techniques](../claims/self-efficacy-weakly-correlates-objective-aligned-instructional-planning.md) [+M] — learners who differ on it differ in outcomes
+- [Primary studies report possible benefits of GenAI for children's divergent thinking, narrative creativity and creative self-efficacy, without confirmed efficacy](../claims/genai-possible-benefits-children-creative-thinking.md) [~M] — instruction changes it
+- [Project-based and experiential learning approaches are reported as most effective for AI literacy education, and early exposure enhances learners' self-efficacy](../claims/early-exposure-enhances-ai-self-efficacy.md) [+W] — instruction changes it
+- [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](../claims/proximal-goals-feedback-peer-models-build-learning-efficacy.md) [+M] — instruction changes it
+- [PTFC and CFC differ on general and future self-efficacy dimensions but not on grade-anxiety, in-class, or assignment dimensions](../claims/self-efficacy-dimension-differences-ptfc-cfc.md) [~M] — instruction changes it
+- [Qualitative findings: ease of use supports engagement and confidence, but challenge must be tailored to ability and content must be culturally relatable](../claims/koku-qualitative-acceptability-themes.md) [~W] — instruction changes it
+- [Self-efficacy and learning motivation serially mediate the link from AIGC affordance to self-regulated learning](../claims/serial-mediation-affordance-efficacy-motivation-srl.md) [+M] — learners who differ on it differ in outcomes
+- [Self-efficacy correlates positively with conceptual understanding in both flipped classroom methods](../claims/self-efficacy-correlates-conceptual-understanding.md) [+M] — learners who differ on it differ in outcomes
+- [Self-efficacy is related to the achievement gap for English Language Learners](../claims/self-efficacy-related-ell-achievement-gap.md) [+W] — learners who differ on it differ in outcomes
+- [Self-efficacy is related to the persistence of achievement gaps for English Language Learners](../claims/self-efficacy-related-to-persistence-of-ell-achievement-gaps.md) [+W] — learners who differ on it differ in outcomes
+- [Self-efficacy negatively correlates with cheating, but actual ability does not inversely correlate with dishonesty](../claims/self-efficacy-negative-ability-not-correlated-cheating.md) [+M] — learners who differ on it differ in outcomes
+- [Self-efficacy predicts cluster membership, with the article concluding self-efficacy may play a foundational role in the cluster difference](../claims/self-efficacy-predicts-cluster-membership.md) [+W] — learners who differ on it differ in outcomes
+- [Social-emotional factors, including low academic self-efficacy and self-management, are related to rapid guessing behavior](../claims/sel-factors-related-to-rapid-guessing.md) [+W] — learners who differ on it differ in outcomes
+- [Sociocultural factors, learner motivation, self-efficacy and perceptions of the classroom environment influence FLCA learning outcomes and oral performance](../claims/flca-influences-outcomes-four-factors.md) [+W] — learners who differ on it differ in outcomes
+- [Some students described confidence in programming that depended on AI being available](../claims/ai-dependent-confidence-expectancy.md) [~W] — instruction changes it
+- [Students attributed initial passive reliance on GenAI to prompting paralysis and an authority bias compounded by low academic self-efficacy](../claims/prompting-paralysis-and-authority-bias.md) [+M] — learners who differ on it differ in outcomes
+- [Students reported increased personal responsibility and described the reflective self-assessment process as confidence-building during their transition to university](../claims/reflection-builds-responsibility-and-confidence-transition.md) [+M] — instruction changes it
+- [Students with a better understanding of how AI systems work show higher academic self-efficacy](../claims/ai-understanding-higher-self-efficacy.md) [+M] — instruction changes it
+- [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](../claims/stronger-belonging-linked-engagement-achievement.md) [+W] — instruction changes it
+- [Students with lower baseline self-efficacy achieved greater learning gains regardless of practice format](../claims/lower-baseline-self-efficacy-greater-learning-gains.md) [+M] — learners who differ on it differ in outcomes
+- [Students' self-efficacy for using generative AI increased over the semester, with current self-efficacy significantly higher after the fifth assignment than after the first](../claims/self-efficacy-growth-generative-ai-semester.md) [+M] — instruction changes it
+- [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](../claims/program-completion-increased-confidence-autonomy-settlement.md) [+M] — instruction changes it
+- [Successful use of mastery learning has powerful but mixed effects on teacher variables, including more positive attitudes, altered attributions, and reduced teaching confidence](../claims/mastery-mixed-teacher-variable-effects.md) [~M] — instruction changes it
+- [Teacher emotional support buffers the negative association between low math self-efficacy and low engagement](../claims/teacher-emotional-support-buffers-low-efficacy-engagement.md) [+M] — learners who differ on it differ in outcomes
+- [Teacher self-efficacy has its largest effect on perceived enjoyment of GenAI tools](../claims/self-efficacy-drives-perceived-enjoyment-genai.md) [+M] — learners who differ on it differ in outcomes
+- [Teachers commonly attribute increased student engagement—active involvement, multiple solution approaches, perseverance, and confidence—to ILC-influenced instruction](../claims/ilc-attributed-increases-student-engagement.md) [+M] — instruction changes it
+- [Teachers report very high self-perceived competence and efficacy that are virtually unrelated to their schools' prior achievement levels](../claims/teacher-competency-efficacy-unrelated-achievement.md) [-W] — learners who differ on it differ in outcomes
+- [Teachers reported student gains in motivation and confidence to engage in literacy and mathematics learning activities](../claims/tec-summer-teacher-reported-motivation-gains.md) [+M] — instruction changes it
+- [Teachers who report coaching as a voluntary, non-evaluative partnership report more improvement in classroom challenges and higher technology-use confidence](../claims/coaching-partnership-voluntary-non-evaluative.md) [+M] — instruction changes it
+- [Technological self-efficacy significantly but modestly predicts faculty AI well-being](../claims/technological-self-efficacy-modest-predictor-ai-well-being.md) [+M] — learners who differ on it differ in outcomes
+- [The effect of practice condition on learning gains was moderated by a three-way interaction of condition, baseline self-efficacy, and favorability](../claims/three-way-interaction-condition-self-efficacy-favorability-learning.md) [~M] — an instructional effect differs with it
+- [The example-based course increases perceived competence, but neither feature affects perceived choice or pressure](../claims/course-increases-perceived-competence-journaling.md) [+M] — instruction changes it
+- [The most cited barriers to adult learning are situational, but adults also face internal barriers such as low confidence in their ability to learn](../claims/adult-learner-barriers-situational-and-internal.md) [+M] — learners who differ on it differ in outcomes
+- [The Skill-Application Paradox: stopped competitive programmers self-report higher theoretical confidence than active peers yet show significantly weaker practice habits and peer support](../claims/skill-application-paradox-cp-attrition.md) [+M] — learners who differ on it differ in outcomes
+- [The SWELL logic model posits that participating teachers will increase self-efficacy in literacy instruction and in supporting English learner students](../claims/swell-teacher-self-efficacy-short-term-outcomes.md) [+W] — instruction changes it
+- [Trust in AI and academic self-efficacy serially mediate the literacy-to-continued-use association (literacy → trust → self-efficacy → use)](../claims/serial-mediation-literacy-trust-efficacy-use.md) [+M] — learners who differ on it differ in outcomes
+- [When a strong sense of self-efficacy is accompanied by sustained student effort, better academic achievement is likely](../claims/self-efficacy-with-sustained-effort-better-achievement.md) [~W] — learners who differ on it differ in outcomes
+- [Workplace harassment did not significantly degrade teacher self-efficacy, plausibly due to a ceiling effect](../claims/harassment-no-significant-effect-teacher-self-efficacy.md) [-W] — instruction changes it
+
+## The evidence by question
+
+- *Does a learner's belief that they can succeed at a task predict whether they start and persist, and which goals and feedback raise it?* [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
+- *Which instruction raises learners' self-efficacy: close goals, feedback on progress, guided practice?* [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](../claims/proximal-goals-feedback-peer-models-build-learning-efficacy.md) [+M]
+- *Does a gain in reported confidence mean a gain in skill?* [Self-efficacy judgments correspond less well to behavior in learning settings than in performance settings](../claims/self-efficacy-accuracy-lower-in-learning-settings.md) [+M]
+
+## Related Learner Variables
+- [Motivation](motivation.md)
+- [Academic Anxiety](academic-anxiety.md)
+- [Mindset](mindset.md)

@@ -30,7 +30,7 @@ sources:
 # Expert former math teachers rated GPT-4o's dialogue annotations very highly for student correctness and moderate-to-high for knowledge components, with volatile inter-rater reliability.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Three former math teachers rating 166 turn pairs from 30 CoMTA dialogues gave GPT-4o very high scores for correctness and moderate-to-high scores for KCs. [→ Alexander Scarlatos 2024](#alexander-scarlatos-2024)
@@ -57,6 +57,17 @@ Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge 
 Inter-rater reliability from the same human evaluation, using exact overlap and Krippendorff's alpha: "IRR is volatile, with high overlap and lowα on correctness, and low overlap but moderateα on KCs".
 
 > "IRR is volatile, with high overlap and lowα on correctness, and low overlap but moderateα on KCs."
+
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Can an LLM label the turns of a tutoring dialogue (correctness, knowledge components) about as well as human experts?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **2 distinct studies** (2 design), `q1`–`q2`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Alexander Scarlatos 2024](https://doi.org/10.48550/arxiv.2409.16490) | q1 / q2 · design · r2 | i? | this claim; [GPT-4o's final-turn correctness labeling on CoMTA is only slightly less accurate than expe](gpt-4o-final-turn-correctness-labeling-is-close-to-human-level.md) (supports); [GPT-4o's correctness-labeling errors concentrate on final turns requiring numerical calcul](gpt-4o-annotation-errors-concentrate-on-final-turns-and-too-few-kcs.md) (qualifies) |
+| [Menggian Wu 2026](https://doi.org/10.48550/arxiv.2607.00211) | q2 · design · r2 | i? | [Adding regex-based rules to few-shot LLM labeling improves agreement with human annotation](regex-rules-improve-fewshot-llm-labeling-accuracy.md) (qualifies) |
+<!-- synthesis:end -->
 
 ## Discussion
 

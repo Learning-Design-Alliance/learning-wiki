@@ -30,7 +30,7 @@ sources:
 # Syntactic rather than semantic processing of input is essential for correcting incomprehensible output
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r2` · `q1`
+> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Correcting incomprehensible output required grammatical analysis of input structure, as when journal review revealed the need for "have the telephone installed" instead of "install the telephone". [→ Yu Liming 1990](#yu-liming-1990)
@@ -60,8 +60,9 @@ Diary self-study enumerating four situations for eliminating incomprehensible ou
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Producing modified output involving developmentally advanced question forms in response to negative feedback is the only significant predictor of ESL question development](modified-output-advanced-forms-predicts-question-development.md) — the general claim this finding bears on, with the studies behind it
 - There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested — related
 - [Pushing for comprehensible output drives understanding and assimilation of comprehensible input](pushing-output-drives-input-assimilation.md) — related
 - Combined semantic and syntactic contextual information expedites word recognition compared with syntactic information alone — related

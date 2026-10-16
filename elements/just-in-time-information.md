@@ -13,7 +13,7 @@ generated:
 # Just-in-Time Information
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 5 studies (2 causal, 2 theoretical, 1 review), `q2`–`q3` · 0 of 5 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 7 studies (3 causal, 2 review, 2 theoretical), `q2`–`q3` · 0 of 7 report an effect size · 5 claims rest on one study
 
 ## Description
 Just-in-time information presents explanatory content — procedures, concepts, feedback — at the moment the learner needs it to perform the current task step, rather than as a block of upfront instruction. The task comes first; information is delivered on demand or automatically triggered when the learner reaches a point where it is required.
@@ -54,6 +54,10 @@ Delivering information at the point of need reduces the burden of holding unappl
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - 
+
+## The evidence by question
+- *Do hints given on demand at the step where the learner is stuck improve learning over working without them?* [Learners receiving ChatGPT-generated hints showed statistically significant learning gains compared to a no-hint control in an online mathematics tutoring experiment](../claims/chatgpt-hints-significant-gains-versus-control.md) [+M]
+- *Do learners ask for on-demand help when they need it, and can that be taught?* [Effective AI help-seeking is itself a skill unevenly distributed among students, and access to an assistant is not equivalent to effective help-seeking](../claims/ai-help-seeking-is-a-skill.md) [~M]
 
 ## Related Elements
 - [Scaffolding](scaffolding.md) — just-in-time information is the informational form of scaffolding; both require fading

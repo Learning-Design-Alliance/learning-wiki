@@ -13,7 +13,7 @@ generated:
 # Quizzes
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 10 studies (4 causal, 4 quant-synthesis, 1 review, 1 design), `q2`–`q4` · 4 of 10 report an effect size · 4 claims rest on one study
+> **Evidence** · 9 claims (5 for, 4 mixed) · 15 studies (6 causal, 6 quant-synthesis, 2 review, 1 design), `q2`–`q4` · 8 of 15 report an effect size · 5 claims rest on one study
 
 ## Description
 Quizzes are short, low-stakes assessments used during learning rather than at its end. Their primary function is not measurement but learning: answering questions forces retrieval from memory, and the feedback that follows corrects and consolidates what was retrieved.
@@ -58,6 +58,13 @@ Quizzes are one of the most robustly supported instructional elements: testing i
 - [Both preclass (g = 0.186) and postclass (g = 0.536) quizzes enhance learning, with postclass quizzes more effective; benefits increase with treatment duration.](../claims/postclass-quizzes-and-longer-duration-larger-gains.md) [+W]
 - [Detailed written answer keys at checkpoints significantly improved momentum post-test scores over brief answers, but not kinetic energy scores](../claims/detailed-answer-keys-improve-momentum-only.md) [~W]
 - [Quiz mode's course-blind Python question generation was the only cross-course failure requiring a code change during onboarding](../claims/course-blind-code-question-generation-failure.md) [~W]
+
+## The evidence by question
+
+- *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
+- *In real courses, do quizzes raise achievement, and when, how often and with what questions should they be given?* [Classroom testing (quizzing) significantly boosts student academic achievement to a medium extent (g = 0.499).](../claims/classroom-quizzing-medium-effect-achievement.md) [+M]
+- *Does feedback after retrieval add to the benefit?* [Feedback Enhances Retrieval Practice](../claims/feedback-enhances-retrieval-practice.md) [+S]
+- *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]
 
 ## Related Elements
 - [Retrieval Practice](retrieval-practice.md) — the underlying mechanism; a quiz is retrieval practice with assessment structure

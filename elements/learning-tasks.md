@@ -13,7 +13,7 @@ generated:
 # Learning Tasks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 12 studies (5 causal, 3 quant-synthesis, 2 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 2 of 12 report an effect size · 1 claim rests on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 16 studies (6 causal, 4 quant-synthesis, 3 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 3 of 16 report an effect size · 2 claims rest on one study
 
 ## Description
 A learning task is the integrated unit of work around which instruction is organized: a problem to solve, a case to analyze, a project to complete, or a performance to produce. Rather than decomposing content into isolated topics presented before application, task-centered design places learners in a meaningful, whole task from the start, with supporting information and part-task practice organized around it [Merrill's first principles identify task-centeredness as the core condition for effective instruction.](https://doi.org/10.1109/MTS.2002.1024043) [+M].
@@ -54,6 +54,10 @@ Learning tasks drive learning because they force learners to *use* knowledge rat
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
+
+## The evidence by question
+- *Does organising training around whole tasks (4C/ID) produce better learning and transfer than lectures or part- and topic-centred instruction?* [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+W]
+- *How much guidance do novices need inside a problem-centred design?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
 
 ## Related Elements
 - [Practice](practice.md) — tasks provide the meaningful context; distributed practice within and across tasks builds fluency

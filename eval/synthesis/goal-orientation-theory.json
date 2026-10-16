@@ -1,0 +1,24 @@
+{
+  "principle": "theories/goal-orientation-theory",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "goal-orientations-predict-engagement-ai-efl",
+      "question": "Do learners' achievement goal orientations (mastery or performance, approach or avoidance) predict their engagement and academic outcomes?",
+      "members": [
+        [
+          "approach-goals-mediate-support-engagement-ai",
+          "+"
+        ],
+        [
+          "high-epistemic-engagement-111-percent-mastery-justification",
+          "+"
+        ],
+        [
+          "mindset-behavior-predict-on-track-performance-avoidance-does-not",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -30,7 +30,7 @@ sources:
 # LIS users recognize Pepper's isolated signs far better than its full signed sentences in an exploratory evaluation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Performance on open-ended signed-sentence interpretation was notably lower than on single-choice isolated-sign recognition among 12 LIS-proficient participants. [→ Giulia Boaa 2025](#giulia-boaa-2025)

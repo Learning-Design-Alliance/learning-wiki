@@ -42,6 +42,9 @@ Observational analysis of placement status for the 59,790-student 2018 cohort (F
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Black/African American and Hispanic/Latino students earned fewer first-year baccalaureate units than White and Asian students in every QR placement category in both cohorts](eo1110-credit-gaps-by-ethnicity-persist.md) — related
 - [Under EO 1110's first year, the majority of CSU entering first-year students were placed in Category II in both Written Communication (74 percent) and Mathematics/Quantitative Reasoning (63 percent)](eo1110-majority-placed-category-ii.md) — related

@@ -42,8 +42,12 @@ Community-context analysis of Chicago elementary schools' 1990-1996 achievement 
 
 ## Discussion
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Schools with strong essential supports were more likely to sit in communities with strong social capital, low crime, and low density of abused or neglected children](strong-supports-linked-community-social-capital-low-crime.md) — the general claim this finding bears on, with the studies behind it
 - [The home digital divide narrowed by 2003 and schools partially compensated, with predominantly African-American elementary students using school computers more than integrated-school students](digital-divide-narrowed-schools-partially-compensating.md) — reports the opposite
 - [School climate improved in predominantly Black schools but declined in predominantly Latino and racially diverse schools as suspension use for severe infractions fell](cps-suspension-reduction-school-climate.md) — related
 - [Perceived safety changes under reduced suspension use varied by school racial composition: a small decline in predominantly Latino schools and a similar-sized but non-significant improvement in predominantly Black schools](cps-suspension-reduction-perceived-safety.md) — related

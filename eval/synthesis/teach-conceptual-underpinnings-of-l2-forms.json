@@ -41,6 +41,62 @@
         [
           "efl-students-positive-views-explicit-strategy-instruction",
           "~"
+        ],
+        [
+          "comprehensible-input-insufficient-grammar-acquisition",
+          "+"
+        ],
+        [
+          "unpressured-within-task-planning-form-focused-accuracy",
+          "+"
+        ],
+        [
+          "noticing-errors-decreases-errors-preserves-quality",
+          "+"
+        ],
+        [
+          "proactive-fof-advantage-both-proficiency-levels",
+          "+"
+        ],
+        [
+          "explicit-instruction-facilitates-l2-grammar-acquisition",
+          "+"
+        ],
+        [
+          "ffi-noun-endings-improves-gender-attribution",
+          "+"
+        ],
+        [
+          "ffi-contributes-to-implicit-l2-knowledge",
+          "+"
+        ],
+        [
+          "ffi-success-moderators-structure-and-extent",
+          "~"
+        ],
+        [
+          "form-and-meaning-focus-beats-form-only",
+          "~"
+        ],
+        [
+          "form-focused-input-manipulation-illusory-for-competence",
+          "-"
+        ],
+        [
+          "white-adverb-placement-negative-evidence-failed",
+          "-"
+        ],
+        [
+          "correction-no-learned-generalizations-novel-stimuli",
+          "-"
+        ],
+        [
+          "untaught-syntax-acquired-taught-agreement-not",
+          "-"
+        ],
+        [
+          "grammar-as-skill-is-a-conflation",
+          "-"
         ]
       ]
     }

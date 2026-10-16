@@ -42,6 +42,9 @@ ANOVA comparing six Grasha-Riechmann learning style groups (n=410) on the seven-
 ## Discussion
 
 
+## Learner Variables
+- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Collaborative-style preservice teachers score higher on continuous and intentional thinking than avoidant and dependent styles](collaborative-style-higher-continuous-thinking.md) — a narrower finding that bears on this claim
 - [Preservice teachers' epistemological beliefs differ significantly by learning style in all four dimensions](epistemological-beliefs-differ-by-learning-style.md) — related

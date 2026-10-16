@@ -42,8 +42,9 @@ Classification accuracy analysis of the weighted linking sample (Tables 3.9 and 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Literacy screener benchmarks predict which grade 3 students will not meet MCAS ELA expectations, but not necessarily who will meet them](screeners-predict-mcas-failure-not-success.md) — the general claim this finding bears on, with the studies behind it
 - [MAP Reading Fluency SWCPM scores correlate highly with Amira Reading Mastery scores (r = 0.90–0.96) across grades 1–5 in fall and winter](swcpm-arm-high-correlation-grades-1-5.md) — related
 - [SWCPM score ranges corresponding to ARM performance levels show monotonic progression across terms within grades, except in first grade](swcpm-arm-range-monotonic-except-grade-1.md) — related
 - [The KEI threshold was accurate for the cohort despite large individual-level prediction errors (53% of proficient and 73% of non-proficient students correctly classified)](kei-threshold-individual-prediction-errors-large.md) — related

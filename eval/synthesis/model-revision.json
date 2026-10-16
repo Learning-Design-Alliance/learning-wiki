@@ -1,0 +1,68 @@
+{
+  "principle": "elements/model-revision",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "misconceptions-interfere-with-new-learning",
+      "question": "Does instruction that names and confronts a science misconception change learners' conceptions more than standard exposition?",
+      "members": [
+        [
+          "refutational-text-order-enhances-retention",
+          "+"
+        ],
+        [
+          "elaborative-interrogation-improves-misbelief-items-pretest-posttest",
+          "+"
+        ],
+        [
+          "cooperative-conceptual-change-chemistry-misconceptions",
+          "+"
+        ],
+        [
+          "guided-inquiry-computational-model-overcomes-amplitude-misconception",
+          "~"
+        ],
+        [
+          "cognitive-disequilibrium-motivates-conceptual-change",
+          "+"
+        ],
+        [
+          "cscl-simulation-conceptual-change-cognitive-engagement",
+          "~"
+        ],
+        [
+          "prediction-graphing-reveals-classification-thinking",
+          "+"
+        ],
+        [
+          "force-motion-conceptions-difficult-to-change",
+          "~"
+        ],
+        [
+          "automated-annotations-accelerate-misconception-correction",
+          "+"
+        ],
+        [
+          "fci-gain-increased-peer-instruction-harvard",
+          "+"
+        ],
+        [
+          "peer-conflicts-conditional-on-reflection",
+          "~"
+        ],
+        [
+          "personal-construction-required-stable-conceptual-change",
+          "~"
+        ],
+        [
+          "high-equality-mutuality-not-sufficient-conceptual-change",
+          "~"
+        ],
+        [
+          "belief-consistent-facts-better-recognized",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

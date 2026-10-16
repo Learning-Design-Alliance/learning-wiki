@@ -41,11 +41,12 @@ Theoretical argument in a position paper. The author endorses Lightbown's formul
 
 ## Discussion
 
-
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Automatization of L2 skills requires extensive practice in a consistent environment, not repetition of grammar rules as in traditional exercises](automatization-requires-practice-consistent-environment.md) — the general claim this finding bears on, with the studies behind it
 - [Dialogue journals inherently meet conditions deemed necessary for second language acquisition](dialogue-journals-meet-sla-conditions.md) — related
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](student-centered-environments-lower-anxiety-increase-confidence.md) — related
 - [Extramural English gaming relates to better L2 proficiency, but effects vary by activity type and strategy](extramural-gaming-vocabulary-effects-mixed.md) — related

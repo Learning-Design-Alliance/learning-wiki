@@ -18,7 +18,7 @@ sources:
 # Full and completion worked examples for simultaneous-equation algebra
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies (3 causal), `q2`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 6 studies (4 causal, 1 review, 1 theoretical), `q2`–`q3` · 0 of 6 report an effect size · 4 claims rest on one study
 
 ## Description
 Two versions of the same worked algebra problems used in the study. "The full- worked examples provided complete solution steps at every level; the completion -worked examples provided partial solution steps by withholding information in the problem solving process". The 12 problems were adapted from a middle school algebra textbook on systems of equations and studied on a computer before practice in a booklet.
@@ -48,6 +48,11 @@ Two versions of the same worked algebra problems used in the study. "The full- w
 - [Prior knowledge, worked-example type (full vs completion) and task difficulty show a significant three-way interaction on an algebra posttest, but not on self-reported cognitive load](../claims/prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) [+W]
 - [Prior knowledge and worked-example type (full vs completion) interact significantly on self-reported germane cognitive load, but not on intrinsic or extraneous load](../claims/prior-knowledge-by-worked-example-type-interaction-on-germane-load.md) [+W]
 - [Studying worked examples improves novices' algebra performance on problems with the same structure as the examples](../claims/worked-examples-improve-math-performance.md) [+M]
+
+## The evidence by question
+
+- *For whom: how does the benefit change with prior knowledge?* [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [+S]
+- *How should learners move from studying examples to solving problems alone?* [Successively fading out worked solution steps is effective for facilitating the transition from learning from worked examples to problem solving, compared to example-problem pairs](../claims/fading-worked-steps-facilitates-example-to-problem-transition.md) [+M]
 
 ## Related Elements
 - [Worked Examples](worked-examples.md)

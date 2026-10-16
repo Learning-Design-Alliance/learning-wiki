@@ -103,6 +103,23 @@ The guide reports, citing the Swanborn and de Glopper meta-analysis, that "the p
 
 > "However, according to a meta-analysis of the literature, the probability that they will learn new words while reading is relatively low—about 15 percent."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do learners acquire second-language vocabulary from reading and other meaning-focused input without deliberate study, and how much?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **8 distinct studies** (3 quant-synthesis, 2 review, 2 associational, 1 causal), `q2`–`q3`, 2 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Swanborn & de Glopper 1999](https://doi.org/10.3102/00346543069003261) | q3 · quant-synthesis · r? | i? | this claim; [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) (supports) |
+| [Uchihara et al. 2019](https://doi.org/10.1111/lang.12343) | q3 · quant-synthesis · r? | i2 · medium effect, r=.34 | this claim; [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) (supports); [The more often learners meet a word while reading, the more likely they are to learn it in](exposure-frequency-predicts-incidental-gains.md) (supports) |
+| [Webb et al. 2023](https://doi.org/10.1017/s0261444822000507) | q3 · quant-synthesis · r2 | i3 · large effect, g = 1.14 on first posttests | this claim |
+| Kamil 2008 | q2 · review · r2 | i? | this claim |
+| [Zou 2019](https://doi.org/10.5539/elt.v12n12p39) | q2 · review · r2 | i? | [The more often learners meet a word while reading, the more likely they are to learn it in](exposure-frequency-predicts-incidental-gains.md) (supports) |
+| [Zhao 2016](https://doi.org/10.64152/10125/66903) | q2 · associational · r2 | i? | [Participants incidentally acquired an average of 3.19 of 20 target words after reading two](incidental-acquisition-rate-3-of-20-words.md) (supports) |
+| [T. Sima Paribakht and Marjorie Wesche 1996](https://doi.org/10.1017/cbo9781139524643.013) | q2 · causal · r? | i? | [Incidental vocabulary acquisition through reading is slow and unpredictable: there is no w](incidental-reading-vocabulary-acquisition-slow-unpredictable.md) (supports); [Available second language research indicates extensive reading programs are generally more](l2-extensive-reading-beats-decontextualized-vocabulary-exercises.md) (supports) |
+| [Stuart Webb and Anna C.-S. Chang 2015](https://doi.org/10.1017/s0272263114000606) | q3 · associational · r1 | i? | [Extensive reading of graded readers produced substantial vocabulary learning gains for EFL](extensive-reading-produces-vocabulary-gains-efl.md) (supports); [Vocabulary knowledge gained through extensive reading showed little decay on a three-month](little-decay-three-month-delayed-posttest-extensive-reading.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **The mechanism.** Incidental learning from context depends on the learner noticing an unknown word, inferring meaning from surrounding text, and retaining that inference. Each step is unreliable: readers frequently skip unknown words, context often supports only a vague meaning hypothesis, and a single encounter rarely produces durable retention. The widely cited estimate that word meanings are acquired after roughly 8–10 meaningful encounters reflects the rarity of strong single-exposure gains, not their absence.

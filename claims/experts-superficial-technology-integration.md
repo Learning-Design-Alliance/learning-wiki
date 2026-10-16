@@ -40,8 +40,9 @@ Qualitative analysis (NVIVO-coded) of seven semi-structured interviews with lead
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Most AI implementations in undergraduate higher education sit at the SAMR Substitution or Augmentation levels, with fewer Modification cases and one Redefinition](ai-integration-mostly-substitution-augmentation.md) — the general claim this finding bears on, with the studies behind it
 - Professional development texts on data use provide few opportunities for educators to learn statistics, treating statistical concepts superficially — related
 - [Current district privacy and security approaches foster superficial compliance over rigorous safeguards and provide minimal visibility into how student data are used](privacy-compliance-over-rigorous-safeguards.md) — related
 - [SWOT in educational settings is typically applied superficially, episodically, and detached from improvement cycles](swot-applied-superficially-episodically-in-schools.md) — related

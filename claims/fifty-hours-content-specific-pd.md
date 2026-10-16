@@ -41,6 +41,20 @@ The paper cites Darling-Hammond et al. (2009), a nationwide survey finding 59% o
 
 > "Darling-Hammond, Wei, Andree, Richardson, & Orphanos (2009) suggest that in order for professional development to have an impact on teaching and learning, it must consist of roughly 50 hours in a specific area ."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*How much professional development, over how long, before teaching and student results change?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **5 distinct studies** (3 associational, 1 review, 1 causal), `q2`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Tina Ehsanipour & Florencia Gomez Zaccarelli 2017 | q2 · review · r3 | i? | this claim |
+| Julia A. Gwynne and Sarah Cashdollar 2018 | q2 · causal · r2 | i? | [In elementary grades, students in schools with extensive standards-related professional de](extensive-pd-larger-instructional-improvements-elementary.md) (supports); [Math course passing rates improved significantly more in elementary schools with extensive](pass-rates-improved-extensive-pd-elementary.md) (supports) |
+| [Peters 2018](https://doi.org/10.51388/20.500.12265/53) | q2 · associational · r2 | i? | [Students whose teachers attended one or two PLI professional learning courses gained more ](pli-pd-dose-associated-with-student-gains.md) (supports) |
+| Mark A. Smylie 2001 | q2 · associational · r3 | i? | [Professional development frequency shows no significant relationship to didactic teaching,](pd-frequency-null-didactic-quality-content-positive.md) (qualifies) |
+| [belief-shift](https://doi.org/10.51388/20.500.12265/171) | q2 · associational · r2 | i? | [Professional learning experiences shift teachers' beliefs away from traditional views towa](openscied-pd-shifts-teacher-beliefs-confidence.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 ## Related Claims

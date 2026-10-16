@@ -41,7 +41,8 @@ The review reports, citing Ford et al. (2012) and Hopwood et al. (2016), "extrem
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The RCT is considered the gold standard of research evidence because randomization ensures only the intervention could cause treatment-control outcome differences](rct-gold-standard-randomization-logic.md) — the general claim this finding bears on, with the studies behind it
 - [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](deliberate-practice-improves-performance.md) — related
 - [Amount of accumulated deliberate practice distinguishes more from less accomplished musicians](deliberate-practice-hours-differentiate-musicians.md) — related

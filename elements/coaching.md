@@ -13,7 +13,7 @@ generated:
 # Coaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (9 for, 5 mixed, 1 unmarked) · 24 studies (9 review, 5 causal, 4 qualitative, 2 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q2`–`q4` · 0 of 24 report an effect size · 8 claims rest on one study
+> **Evidence** · 18 claims (12 for, 5 mixed, 1 unmarked) · 25 studies (9 review, 5 causal, 4 qualitative, 3 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q2`–`q4` · 1 of 25 report an effect size · 10 claims rest on one study
 
 ## Description
 Coaching is the provision of individualized support and guidance while learners actively perform a task. The coach observes performance, diagnoses gaps between current and target performance, and intervenes with hints, questions, modeling, or [Feedback](feedback.md) calibrated to what the learner needs at that moment. Unlike one-time instruction, coaching is sustained and adaptive — support rises and falls with learner performance.
@@ -62,6 +62,12 @@ Coaching accelerates skill development by keeping learners in a productive strug
 - [In five scaled early learning coaching systems, coach-to-site ratios averaged about 1 coach per 22 sites, dosage varied widely, and participants perceived benefits in educator satisfaction, practice, and program quality](../claims/scaled-coaching-systems-case-study-findings.md) [~W]
 - [Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing larger gains in a randomized trial](../claims/pd-coaching-expert-support-gains.md) [+W]
 - [Real-time in-session feedback remains rare among presentation-coaching systems](../claims/real-time-feedback-rare-in-coaching-systems.md) [~W]
+
+## The evidence by question
+- *Must support be contingent on the learner's last response, rather than fixed?* [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S]
+- *Does coaching teachers on their classroom practice change their observed instruction?* [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](../claims/coaching-pooled-instruction-effect-0-49-sd.md) [+S]
+- *Does coaching or sustained professional development raise the achievement of the teachers' students?* [Teacher coaching raises student achievement on standardized tests by a pooled 0.18 SD across 31 causal studies](../claims/coaching-pooled-achievement-effect-0-18-sd.md) [+M]
+- *Which features of a coaching programme go with larger effects: what it is paired with, its dose, its scale, its target or its mode?* [Pairing coaching with group trainings is associated with larger effects on instruction and achievement; instructional materials with larger, and video libraries with smaller, effects on instruction](../claims/coaching-complementary-elements-moderators.md) [+M]
 
 ## Related Elements
 - [Scaffolding](scaffolding.md) — the structural principle coaching operationalizes; coaching is scaffolding delivered interactively

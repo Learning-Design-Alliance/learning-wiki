@@ -30,7 +30,7 @@ sources:
 # Audiovisual attention decomposition via forward encoding and variance partitioning yields VAC, AAC, and SAC as surrogate indicators, not direct measures of attention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Attentional resource allocation across visual and auditory channels is computed via forward encoding and variance partitioning, separating explained variance into Visual, Auditory, and Shared Audiovisual Attention Contributions. [→ Shixian Zhou 2026](#shixian-zhou-2026)

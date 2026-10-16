@@ -40,10 +40,34 @@ The review reports, citing Hammerly (1987), Swain (1985), and Spada and Lightbow
 
 > "Hammerly (1987) reviewed six studies of French immersion,all of which showed that although the learners developed good listening and reading skills,they remained far from 'linguistically competent'."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Is exposure to meaningful input enough for learners to acquire L2 grammar, or do some forms need explicit instruction and practice?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **12 distinct studies** (3 review, 3 theoretical, 3 quant-synthesis, 2 causal, 1 qualitative), `q1`–`q3`, 1 of 12 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Ellis 1991 | q2 · review · r2 | i? | this claim |
+| [Robert DeKeyser 2010](https://doi.org/10.6018/ijes/2010/1/114021) | q1 · theoretical · r3 | i? | [Low-frequency or low-salience L2 elements are hard or impossible to learn through mere exp](low-salience-elements-need-extensive-practice.md) (supports) |
+| [Yu Liming 1990](https://doi.org/10.18806/tesl.v8i1.575) | q1 · qualitative · r2 | i? | [Mere exposure to the target language does not automatically lead to native-like communicat](mere-exposure-insufficient-advanced-l2-communicative-competence.md) (supports) |
+| [Bill VanPatten and Teresa Cadierno 1993](https://doi.org/10.1017/s0272263100011979) | q3 · causal · r? | i? | [Processing instruction produces significant gains in both sentence-level comprehension and](processing-instruction-gains-comprehension-and-production.md) (supports) |
+| Sáez 2014 | q2 · theoretical · r2 | i? | [Advanced L2 learners taught the core senses of to, for and at with diagrams show pre- to p](cl-core-sense-preposition-instruction-improves-use.md) (supports) |
+| [Aydinbek C 2022](https://doi.org/10.5897/err2022.4230) | q2 · review · r2 | i? | [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction](explicit-l2-grammar-instruction-superior-to-implicit.md) (supports) |
+| [Norris & Ortega 2000](https://doi.org/10.1111/0023-8333.00136) | q3 · quant-synthesis · r2 | i? | [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction](explicit-l2-grammar-instruction-superior-to-implicit.md) (supports) |
+| [Goo et al. 2015](https://doi.org/10.1075/sibil.48.18goo) | q3 · quant-synthesis · r? | i? | [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction](explicit-l2-grammar-instruction-superior-to-implicit.md) (supports) |
+| [Spada & Tomita 2010](https://doi.org/10.1111/j.1467-9922.2010.00562.x) | q3 · quant-synthesis · r? | i? | [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction](explicit-l2-grammar-instruction-superior-to-implicit.md) (supports) |
+| Calderon 1982 | q2 · theoretical · r1 | i? | [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitiv](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) (counts against) |
+| Young-Scholten 1999 | q2 · review · r1 | i? | [Successes of form-focused manipulation of input in adult L2 are illusory with respect to l](form-focused-input-manipulation-illusory-for-competence.md) (counts against) |
+| Adamson 1983 | q2 · causal · r1 | i0 | [Monitoring significantly improves a second language learner's accuracy on learnable rules ](monitoring-improves-learnable-rule-accuracy.md) (qualifies); [Monitoring lowers accuracy for unlearnable rules: preposition usage was significantly less](monitoring-lowers-preposition-accuracy.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
-
 ## Related Claims
+
+- [Producing modified output involving developmentally advanced question forms in response to negative feedback is the only significant predictor of ESL question development](modified-output-advanced-forms-predicts-question-development.md) — the general claim this finding bears on, with the studies behind it
+
+- [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — the general claim this finding bears on, with the studies behind it
 - Adult ESL learners in a planned informal total-immersion program made significantly greater communication-skill progress than a control group, with structural-skill progress not significantly different — a narrower finding that bears on this claim
 - Extensive reading improves grammatical knowledge and writing style — reports the opposite
 - [Grammatical skill is not the focus of Second Language Acquisition, per the study's synthesis of SLA theories and methods](grammar-not-focus-of-sla-synthesis.md) — reports the opposite

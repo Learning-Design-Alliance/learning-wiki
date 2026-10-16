@@ -41,8 +41,9 @@ The playbook reports, citing Grissom, Egalite, & Lindsay's systematic synthesis 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers](instructional-leadership-linked-student-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [After three years with a new principal, the average DCPS student's reading achievement increased by 4 percentile points (0.09 standard deviations) relative to retained-principal comparison schools](dcps-new-principals-reading-gain-4-percentile-points.md) — a narrower finding that bears on this claim
 - [School median student growth percentiles were stable year to year even when the school changed principals](school-mgp-stable-despite-principal-change.md) — related
 - The report attributes to Grissom et al. (2021) that principals of color are especially likely to have positive impacts on students and teachers of color — related

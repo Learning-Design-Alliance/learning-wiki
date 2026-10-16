@@ -43,6 +43,20 @@ Peppler, K., & Thompson, N. (2024). Tools and materials as non-neutral actors in
 
 Youth were assigned across five circuitry toolkit conditions (including e-textiles using conductive thread and unidirectional LEDs, and a traditional battery-clip-and-bulb kit) and completed matched pre/post assessments on current flow, polarity, and connections. The e-textiles condition produced the largest overall gain and the largest transfer gain to novel materials; the traditional kit showed a slight decline on polarity, plausibly because incandescent bulbs (unlike LEDs) work regardless of orientation, so they never force students to debug a polarity error. In a separate phase, youth sorted the five kits by perceived gender coding and explained their reasoning; e-textiles were rated most feminine-coded, primarily due to association with sewing as a practice rather than visual design, and this femininity rating correlated positively with the kit's actual measured learning gains.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does the choice of physical materials for a hands-on task change what learners come to understand and who takes part?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **5 distinct studies** (4 qualitative, 1 causal), `q2`–`q3`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Peppler & Thompson 2024](https://doi.org/10.1080/10508406.2024.2380694) | q3 · causal · r2 | i2 · e-textiles kit produced an 18.7 percentage-point overall gain versus 9.0 for the traditional kit, with a positive correlation between perceived femininity and learning gain | this claim |
+| [Peppler et al. 2025](https://doi.org/10.1080/07370008.2025.2485070) | q2 · qualitative · r? | i? | [Fiber crafting develops proportional reasoning through nested, personally-defined units](fiber-crafting-develops-proportional-reasoning-through-unitizing.md) (supports) |
+| [Frank 2012](https://doi.org/10.1103/physrevstper.8.020101) | q2 · qualitative · r2 | i? | [The physical stability of material artifacts such as stacked tickertape strips and workshe](material-artifact-stability-stabilizes-thinking.md) (supports) |
+| Frank 2009 | q2 · qualitative · r2 | i? | [Material arrangement of artifacts (strips centered and ordered by length, worksheets held ](material-arrangement-affords-stability.md) (supports) |
+| [Tofel-Grehl et al. 2024](https://doi.org/10.1080/10508406.2024.2409101) | q2 · qualitative · r2 | i? | [Identity-centered making supports simultaneous STEM engagement and identity affirmation fo](identity-centered-making-supports-stem-engagement-and-identity-affirmation.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 This is the strongest-evidence study in this ingest batch: a randomized comparison across toolkit conditions with a real quantified outcome measure and transfer assessment (q3, i2), giving reasonably confident causal grounds for the material-choice claim specifically within circuitry/electronics instruction. The gender-perception finding (subclaim 3) is more exploratory — a smaller sample (n=49), a forced-choice gender-sorting task that may reinforce a gender binary rather than allow more fluid responses, and a single after-school program population, limiting how far the "femininity ratings predict learning gains" correlation should be generalized. The sample for the main comparison was drawn from one Midwestern school and was demographically mixed but not necessarily representative nationally.
 

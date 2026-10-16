@@ -41,8 +41,13 @@ The paper reports AP exam statistics: girls were 23 percent and underrepresented
 
 ## Discussion
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — the general claim this finding bears on, with the studies behind it
 
 - [AP Computer Science participation is disproportionately low among girls and students of color](ap-cs-participation-gaps-gender-race.md) — related
 - Participating districts report large enrollment gaps in CS courses by income and gender — related

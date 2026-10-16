@@ -41,8 +41,9 @@ Comparison of individual 8th grade indicators in table 1 (sample size = 22,355 a
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Low attendance is linked with lower academic skills, grades, and high school graduation, and high attendance with higher ones](attendance-linked-academic-skills-grades-graduation.md) — the general claim this finding bears on, with the studies behind it
 - [Composite 8th grade indicators identified 75 to 77 percent of eventual off-track students but raised false-positive rates to about 30 percent](composite-indicators-identify-more-with-false-positive-tradeoff.md) — related
 - [By the end of sophomore year, 84 percent of eventual non-graduates showed at least one warning indicator](sophomore-warning-indicators-flag-84-percent-nongraduates.md) — related
 - [Three freshman warning indicators—off-track status, any course failure, and attendance below 85 percent—identify 70 percent of eventual non-graduates](freshman-warning-indicators-identify-70-percent-nongraduates.md) — related

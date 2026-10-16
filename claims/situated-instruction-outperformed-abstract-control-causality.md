@@ -42,6 +42,7 @@ A review the author describes as a systematic review of secondary qualitative da
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments](authentic-assignments-greater-itbs-gains.md) — the general claim this finding bears on, with the studies behind it
 - [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](practice-presence-raises-cbi-posttest-achievement.md) — related

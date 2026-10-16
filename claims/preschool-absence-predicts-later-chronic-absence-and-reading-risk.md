@@ -79,8 +79,9 @@ Analysis of second-grade reading outcomes by cumulative years of chronic absente
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Low attendance is linked with lower academic skills, grades, and high school graduation, and high attendance with higher ones](attendance-linked-academic-skills-grades-graduation.md) — the general claim this finding bears on, with the studies behind it
 - Students chronically absent in preschool are five times more likely to be chronically absent in second grade than their non-chronically absent preschool peers — related
 - Students chronically absent for multiple years between preschool and second grade have significantly lower second-grade reading outcomes, approaching the threshold for needing intensive reading intervention — related
 - Students chronically absent for multiple years exhibit need for significant intervention to read at grade level by third grade — related

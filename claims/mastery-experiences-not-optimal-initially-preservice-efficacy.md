@@ -59,8 +59,9 @@ The review reports Wolf et al. (2010) found "teaching additional courses during 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — the general claim this finding bears on, with the studies behind it
 - [Student teachers' teaching efficacy follows a dip trajectory: it rises during on-campus preparation, falls to its lowest point at the midpoint of student teaching, and rebounds by the end](efficacy-dips-midpoint-student-teaching.md) — related
 - [Vicarious experiences are positively related to agriculture teachers' general teaching efficacy, with observing a first year teacher explaining 11% of variance](vicarious-experiences-positive-teaching-efficacy.md) — related
 - [The effect of social persuasion on student teacher efficacy depends on its form: verbal feedback from cooperating teachers is positive while structured communication tools and peer pairing show no benefit](social-persuasion-form-moderates-efficacy-effect.md) — related

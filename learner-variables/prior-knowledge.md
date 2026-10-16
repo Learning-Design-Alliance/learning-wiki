@@ -12,7 +12,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 94 claims (54 for, 30 mixed, 10 against) · 82 studies (25 causal, 18 review, 13 theoretical, 9 associational, 7 qualitative, 6 quant-synthesis, 4 design), `q1`–`q4` · 10 of 82 report an effect size · 84 claims rest on one study
+> **Evidence** · 95 claims (56 for, 29 mixed, 10 against) · 85 studies (25 causal, 18 review, 13 theoretical, 10 associational, 8 quant-synthesis, 7 qualitative, 4 design), `q1`–`q4` · 12 of 85 report an effect size · 83 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -136,6 +136,11 @@ A learner's existing domain knowledge in the subject area before instruction beg
 - [Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while prior knowledge did not affect post-test performance in the PF condition](../claims/prior-knowledge-moderates-vf-process-vs-pf.md) [~M] — an instructional effect differs with it
 - [The expertise reversal effect relies on changes in relative levels of element interactivity due to changes in relative levels of expertise](../claims/expertise-reversal-changes-from-expertise-levels.md) [+W] — an instructional effect differs with it
 - [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](../claims/expertise-reversal-effect-definition.md) [+M] — an instructional effect differs with it
+
+## The evidence by question
+- *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]
+- *For whom: does support that helps novices stop helping as task-specific expertise grows?* [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~S]
+- *Can learners with less prior knowledge judge their own learning, and the accuracy of what a source or an AI tells them?* [Prior Knowledge Needed For Accurate Self Assessment](../claims/prior-knowledge-needed-for-accurate-self-assessment.md) [+S]
 
 ## Related Learner Variables
 - Working memory capacity — interacts with prior knowledge: high prior knowledge compensates for limited working memory by enabling chunking.

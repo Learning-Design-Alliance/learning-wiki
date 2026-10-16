@@ -30,7 +30,7 @@ sources:
 # Ablations show the semi-Markov controller is the primary driver of behavioral fidelity (removal pushes DKL to 6.81) and Strategist/Executor separation is essential for epistemic fidelity and realism
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Removing the semi-Markov controller causes catastrophic divergence from real student distributions (DKL rises to 6.81, versus ≤0.32 for all other ablations). [→ Hanchen David Wang 2026](#hanchen-david-wang-2026)

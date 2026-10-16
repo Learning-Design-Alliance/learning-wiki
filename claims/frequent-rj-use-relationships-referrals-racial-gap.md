@@ -61,6 +61,9 @@ The review characterizes the racial-gap finding as "preliminary indications" onl
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Frequent RJ use by teachers shows preliminary indications of reducing the racial discipline gap, though disparities persist](rj-reduces-racial-discipline-gap-preliminary.md) — possibly the same claim (merge candidate)
 - [Schools implementing restorative justice report decreases in exclusionary discipline such as suspensions and expulsions](rj-implementation-associated-with-lower-exclusionary-discipline.md) — related

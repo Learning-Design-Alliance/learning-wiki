@@ -41,8 +41,9 @@ Qualitative interview finding from application readers, reported in the portfoli
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The authors assert that innovative assessment measures capture POG competencies more fully than traditional standardized tests](innovative-assessments-capture-pog-competencies.md) — the general claim this finding bears on, with the studies behind it
 - [The Business Case Discussion gives admissions readers evidence of applicants' business mindsets, defined as cognitive and intrapersonal skills rather than business expertise](business-case-discussion-reveals-business-mindsets.md) — related
 - [Assessment of young multilingual learners is hampered by a dearth of valid, linguistically appropriate measures and by English-only administration](assessment-barriers-young-multilingual-learners.md) — a broader claim this one bears on
 - [Requiring an admissions portfolio coincided with a large drop in BBA applications, consistent with filtering for intentional applicants, with volumes recovering after outreach](ross-portfolio-coincided-application-volume-drop.md) — related

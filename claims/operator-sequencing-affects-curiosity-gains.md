@@ -42,6 +42,9 @@ Sequential operator dynamics analysis (§5.2) of average curiosity score changes
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+
 ## Related Claims
 - [CONFLICT operator achieves the highest downstream success rate among Berlyne-inspired curiosity operators, while NOVELTY is selected most frequently with a substantially lower success rate](conflict-operator-highest-success-rate.md) — related
 - [Learner-side gains from curiosity modulation persist even when tutor-side instructional quality remains unchanged or degrades, suggesting curiosity operates as a partially independent interaction-level mechanism](learner-gains-persist-despite-tutor-quality-degradation.md) — related

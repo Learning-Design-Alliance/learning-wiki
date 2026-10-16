@@ -39,8 +39,9 @@ Direct constituent paths in the PLS-SEM model of 412 Omani business students; f2
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Meta-reviews reach contradictory conclusions on whether AI reliance harms or helps critical thinking, with substantial design limitations limiting generalizability](contradictory-meta-reviews-ai-critical-thinking.md) — the general claim this finding bears on, with the studies behind it
 - [Self-reported critical-thinking disposition is positively associated with self-perceived employability among business students](ct-disposition-positive-employability.md) — related
 - [GenAI dependence weakens the positive association between GenAI use and both student outcomes, attenuating it to statistical non-significance at high dependence](genai-dependence-moderates-use-outcome-links.md) — related
 - [GenAI use is positively associated with GenAI dependence among business students](genai-use-positive-dependence.md) — related

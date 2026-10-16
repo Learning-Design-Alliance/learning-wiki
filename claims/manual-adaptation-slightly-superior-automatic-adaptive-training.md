@@ -41,8 +41,9 @@ Experimental comparison of eight independent groups of eight subjects each under
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Gain-effective time constant product is slightly superior to forcing function amplitude as an adaptive variable](gain-time-constant-product-superior-forcing-function-amplitude.md) — related
 - [Transfer task performance is the critical measure of what adaptive training accomplishes](transfer-task-measures-adaptive-training-effectiveness.md) — related
 - [System compensation as implemented is not a satisfactory adaptive variable](system-compensation-unsatisfactory-adaptive-variable.md) — related

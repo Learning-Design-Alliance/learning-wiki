@@ -43,6 +43,9 @@ The abstract reports a language-group moderation: "EL status led to under-identi
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [EL status had either a null effect or led to slight under-identification in SPED placement](el-status-null-or-underidentification-sped.md) — a broader claim this one bears on
 - [Under-identification of SPED placement occurred two years after EL classification](underidentification-two-years-after-el-classification.md) — related

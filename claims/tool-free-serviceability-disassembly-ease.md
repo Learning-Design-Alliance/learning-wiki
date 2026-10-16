@@ -30,7 +30,7 @@ sources:
 # The v4.1 redesign achieved tool-free serviceability, with disassembly workload reduction consistent across all measures and disassembly rated near-perfectly easy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2`–`r3` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Print-in-place latches gave tool-free access to the SD card and USB ports, tasks deemed impossible on v4 without full disassembly. [→ Farnaz Baksh 2026](#farnaz-baksh-2026)

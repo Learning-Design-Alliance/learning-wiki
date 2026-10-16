@@ -30,7 +30,7 @@ sources:
 # UCI/SEDET's 122 technical reports in 2025 yielded 286 formal recommendations and concerned cases and matters totaling US$ 94.8 million, with an August peak of US$ 19.1 million absorbed without bottlenecks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The 122 technical reports consolidated in the signed 2025 management report resulted in 286 formal recommendations to public managers, which the authors read as deepened analysis per case. [→ Vinicius Santana Gomes 2026](#vinicius-santana-gomes-2026)

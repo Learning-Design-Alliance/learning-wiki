@@ -55,6 +55,9 @@ Summarization is one of the most consistently supported study strategies, but on
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest](../claims/ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) [-M]
 
+## The evidence by question
+- *Does writing summaries improve learning more than rereading or other study activities, and does training learners to summarize matter?* [Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading](../claims/summarization-improves-learning.md) [~M]
+
 ## Related Elements
 - [Note-Taking](note-taking.md) — notes are the intermediate record; summarizing converts notes into organized knowledge
 - [Concept Mapping](concept-mapping.md) — a visual form of synthesis that makes relational structure explicit

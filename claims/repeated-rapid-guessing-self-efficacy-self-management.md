@@ -63,9 +63,11 @@ Longitudinal study relating repeated rapid guessing across multiple test adminis
 
 ## Discussion
 
-
-
 ## Related Claims
+
+- [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — the general claim this finding bears on, with the studies behind it
+
+- [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — the general claim this finding bears on, with the studies behind it
 
 - [The study examines whether rapid guessing over several tests is associated with background variables such as English learner status](rapid-guessing-background-variables-examined.md) — related
 - [Rapid guessing on achievement tests tends to be fairly state-like rather than a stable trait-like behavior, compared to academic achievement scores which are fairly stable](rapid-guessing-state-like-not-trait.md) — related

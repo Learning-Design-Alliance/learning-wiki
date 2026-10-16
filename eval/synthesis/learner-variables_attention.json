@@ -1,0 +1,146 @@
+{
+  "principle": "learner-variables/attention",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "seductive-details-effect",
+      "question": "Does making material more interesting with details that do not carry the target cost learning?",
+      "members": [
+        [
+          "coherence-principle-irrelevant-material-hurts-learning",
+          "+"
+        ],
+        [
+          "decorative-images-distract-from-math-problems",
+          "+"
+        ],
+        [
+          "weeding-extraneous-content-improves-video-learning",
+          "+"
+        ],
+        [
+          "unfamiliar-contexts-distract-from-mathematics",
+          "+"
+        ],
+        [
+          "auto-updates-drew-users-from-explanations",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "segmenting-improves-multimedia-learning",
+      "question": "Does breaking a continuous presentation into segments improve learning over presenting it whole?",
+      "members": [
+        [
+          "segmenting-principle-mayer-2008",
+          "+"
+        ],
+        [
+          "segmenting-reduces-cognitive-load",
+          "+"
+        ],
+        [
+          "segmentation-reduces-hesitations-adhd-participants",
+          "+"
+        ],
+        [
+          "long-recorded-lectures-impeded-focus",
+          "+"
+        ],
+        [
+          "segmenting-effects-confirmed-system-paced",
+          "+"
+        ],
+        [
+          "segmenting-increases-learning-time",
+          "~"
+        ],
+        [
+          "prior-knowledge-moderates-segmenting-retention",
+          "~"
+        ],
+        [
+          "segmentation-benefits-shrink-with-expertise",
+          "~"
+        ],
+        [
+          "flow-control-unused-no-learning-correlation",
+          "~"
+        ],
+        [
+          "animations-pacify-learners-navigation-imbalance",
+          "~"
+        ],
+        [
+          "segmentation-benefit-larger-for-adhd-group",
+          "~"
+        ],
+        [
+          "mooc-engagement-declines-with-video-length",
+          "+"
+        ],
+        [
+          "interpolated-questions-improve-video-learning",
+          "+"
+        ],
+        [
+          "segmentation-improves-learning-dynamic-visualizations",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "classroom-physical-activity-improves-attention",
+      "question": "Does physical activity during the school day (movement breaks, active lessons, organised active recess) improve children's on-task behavior and readiness for class?",
+      "members": [
+        [
+          "energizers-improved-on-task-behavior",
+          "+"
+        ],
+        [
+          "energizers-least-on-task-students-largest-gain",
+          "+"
+        ],
+        [
+          "playworks-students-reported-better-behavior-attention-after-play",
+          "+"
+        ],
+        [
+          "playworks-better-recess-behavior-and-class-readiness",
+          "+"
+        ],
+        [
+          "playworks-easier-recess-to-classroom-transitions",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "mbis-small-positive-effects-all-rcts-youth",
+      "question": "Can a mindfulness or cognitive-training programme improve learners' attention itself?",
+      "members": [
+        [
+          "active-control-rcts-benefits-restricted",
+          "~"
+        ],
+        [
+          "control-group-type-moderates-mbi-effects",
+          "~"
+        ],
+        [
+          "age-moderates-mbi-outcomes",
+          "~"
+        ],
+        [
+          "mindfulness-domain-effects-cognitive-stress-resilience",
+          "+"
+        ],
+        [
+          "cct-no-effect-executive-attention",
+          "-"
+        ]
+      ]
+    }
+  ]
+}

@@ -42,8 +42,9 @@ The CCSR report compares Chicago Public Schools reforms that sorted algebra stud
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Between- or within-class homogeneous ability grouping has a small negative effect on low-ability primary students but no effect on other students](homogeneous-ability-grouping-negative-low-ability.md) — the general claim this finding bears on, with the studies behind it
 - [How students are sorted into classrooms by skill level can affect their achievement as much as the content they are taught](sorting-effect-comparable-to-curriculum-content.md) — related
 - [Sorting by ability affects grades and pass rates differently from test scores: high-skilled students' grades and pass rates decline while low-skilled students' grades improve](sorting-opposite-effects-grades-vs-test-scores.md) — related
 - [Fish pond effects: above-norm students became more likely to fail algebra when their skills were low relative to classroom peers after sorting](fish-pond-effects-increase-failure-above-norm.md) — related

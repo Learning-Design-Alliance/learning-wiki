@@ -39,11 +39,12 @@ PLS-SEM structural model with the three psychological needs predicting objective
 
 ## Discussion
 
-
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Basic psychological need satisfaction is strongly associated with learning engagement among medical undergraduates](need-satisfaction-strongly-associated-learning-engagement.md) — the general claim this finding bears on, with the studies behind it
 - [In agentic AI-supported online learning, perceived autonomy, competence, and relatedness are each positively associated with learning motivation](sdt-needs-positive-learning-motivation-agentic-ai.md) — related
 - [Instructional approach operates indirectly through autonomy and competence, while task type operates primarily through autonomy](differentiated-mediation-autonomy-competence.md) — related
 - [Perceived Competence, Intrinsic Motivation, and Psychological Safety each significantly positively predict Deep Revision Engagement](psychological-mediators-predict-deep-revision.md) — related

@@ -41,8 +41,12 @@ The review reports Swan (2005) found "17% of the variance in career intent could
 
 ## Discussion
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — the general claim this finding bears on, with the studies behind it
 - [Student teachers' teaching efficacy follows a dip trajectory: it rises during on-campus preparation, falls to its lowest point at the midpoint of student teaching, and rebounds by the end](efficacy-dips-midpoint-student-teaching.md) — related
 - Posttest self-efficacy accounts for a significant increment in posttest skill variability, but its relation to persistence is mixed in learning settings — related
 - [Servant leadership shows the strongest effect on teacher self-efficacy, which in turn predicts life satisfaction](servant-leadership-strongest-effect-self-efficacy-predicts-satisfaction.md) — related

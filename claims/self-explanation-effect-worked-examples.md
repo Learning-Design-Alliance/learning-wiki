@@ -61,13 +61,20 @@ The review reports, citing Renkl, a study of qualitative differences in college 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*What should learners do while studying an example, and which examples should they see?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **3 distinct studies** (1 review, 1 quant-synthesis, 1 causal), `q2`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*What should learners do while studying an example, and which examples should they see?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **10 distinct studies** (4 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4`, 2 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Atkinson 2000](https://doi.org/10.3102/00346543070002181) | q2 · review · r3 | i? | this claim; [Structuring worked examples to emphasize subgoals, via labels or visual segmentation, enha](subgoal-labels-worked-examples-transfer.md) (supports) |
-| [Rittle-Johnson 2017](https://doi.org/10.1007/s11858-017-0834-z) | q3 · quant-synthesis · r? | i? | [Erroneous examples improve conceptual understanding by forcing comparison with correct mod](erroneous-examples-build-conceptual-knowledge.md) (supports) |
+| [Atkinson 2000](https://doi.org/10.3102/00346543070002181) | q2 · review · r3 | i? | this claim; [Structuring worked examples to emphasize subgoals, via labels or visual segmentation, enha](subgoal-labels-worked-examples-transfer.md) (supports); [Providing both a simple and a complex example facilitates transfer better than a single ex](multiple-examples-per-problem-type.md) (supports) |
+| [Rittle-Johnson 2017](https://doi.org/10.1007/s11858-017-0834-z) | q3 · quant-synthesis · r? | i? | [Erroneous examples improve conceptual understanding by forcing comparison with correct mod](erroneous-examples-build-conceptual-knowledge.md) (supports); [Prompting learners to self-explain improves understanding and problem solving on immediate](self-explanation-improves-conceptual-understanding.md) (supports) |
 | [Durkin & Rittle-Johnson 2012](https://doi.org/10.1016/j.learninstruc.2011.11.001) | q3 · causal · r? | i? | [Erroneous examples improve conceptual understanding by forcing comparison with correct mod](erroneous-examples-build-conceptual-knowledge.md) (supports) |
+| [Chi et al. 1989](https://doi.org/10.1207/s15516709cog1302_1) | q2 · associational · r1 | i? | [Prompting learners to self-explain improves understanding and problem solving on immediate](self-explanation-improves-conceptual-understanding.md) (supports) |
+| [Bisra et al. 2018](https://doi.org/10.1007/s10648-018-9434-x) | q4 · quant-synthesis · r? | i2 · medium effect, g=.55 | [Prompting learners to self-explain improves understanding and problem solving on immediate](self-explanation-improves-conceptual-understanding.md) (supports) |
+| [Chi et al. 1994](https://doi.org/10.1207/s15516709cog1803_3) | q2 · causal · r1 | i? | [Prompting learners to self-explain improves understanding and problem solving on immediate](self-explanation-improves-conceptual-understanding.md) (supports) |
+| [Nückles 2020](https://doi.org/10.1007/s10648-020-09541-1) | q3 · review · r2 | i? | [Self-explaining a worked example of a learning journal entry enhances strategy use and tra](worked-example-self-explanation-journal-transfer.md) (supports) |
+| [Alfieri et al. 2013](https://doi.org/10.1080/00461520.2013.775712) | q4 · quant-synthesis · r? | i2 · medium effect, d=0.50, 95% CI [.44, .56] | [Comparing cases side by side improves learning and transfer by a moderate average amount, ](comparing-contrasting-cases-improves-learning.md) (supports) |
+| [Gentner et al. 2003](https://doi.org/10.1037/0022-0663.95.2.393) | q3 · causal · r? | i? | [Comparing cases side by side improves learning and transfer by a moderate average amount, ](comparing-contrasting-cases-improves-learning.md) (supports) |
+| [Rittle-Johnson & Star 2007](https://doi.org/10.1037/0022-0663.99.3.561) | q3 · causal · r? | i? | [Comparing cases side by side improves learning and transfer by a moderate average amount, ](comparing-contrasting-cases-improves-learning.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

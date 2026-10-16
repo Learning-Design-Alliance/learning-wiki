@@ -41,8 +41,13 @@ Two longitudinal field studies in developmental psychology courses: Experiment 1
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Instructionally supported (prompted) journal writing outperforms unsupported journal writing on learning outcomes (Hedges's g = 0.78)](prompted-journal-writing-medium-large-effect.md) — the general claim this finding bears on, with the studies behind it
+
+- [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — the general claim this finding bears on, with the studies behind it
+
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Combining cognitive and metacognitive prompts optimizes germane processing; metacognitive prompts alone help only when remedial planning is prompted and remediation is possible](combine-cognitive-metacognitive-prompts.md) — related
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — related
 - [Adaptive fading with periodic reinforcement yields higher independence than fixed-high or linear-decay scaffolding in simulation](adaptive-fading-beats-fixed-and-linear-scaffolding.md) — related

@@ -61,6 +61,38 @@
         [
           "worked-examples-improve-problem-solving-strategy-retention-in-a-puzzle-game",
           "+"
+        ],
+        [
+          "oms-videos-animations-most-impactful-modeling",
+          "+"
+        ],
+        [
+          "skill-training-effective-techniques",
+          "+"
+        ],
+        [
+          "direct-ct-instruction-outperforms-implicit-strategies",
+          "+"
+        ],
+        [
+          "viewing-ai-example-as-effective-as-ai-practice",
+          "+"
+        ],
+        [
+          "productive-failure-improves-conceptual-learning",
+          "~"
+        ],
+        [
+          "minimal-guidance-less-effective-for-novices",
+          "+"
+        ],
+        [
+          "minimally-guided-instruction-less-effective-than-strong-guidance",
+          "+"
+        ],
+        [
+          "split-attention-effect-in-worked-examples",
+          "~"
         ]
       ]
     },
@@ -94,6 +126,42 @@
         ],
         [
           "model-comparison-noticing-lexical",
+          "~"
+        ],
+        [
+          "generative-processing-improves-learning",
+          "+"
+        ],
+        [
+          "self-explanation-effect-worked-examples",
+          "+"
+        ],
+        [
+          "worked-example-self-explanation-journal-transfer",
+          "+"
+        ],
+        [
+          "assisting-self-explanation-prompt-effect",
+          "+"
+        ],
+        [
+          "assisting-prompts-foster-conceptual-knowledge",
+          "+"
+        ],
+        [
+          "self-explanation-prompts-foster-procedural-knowledge",
+          "+"
+        ],
+        [
+          "fading-and-principle-prompts-improve-probability-transfer",
+          "+"
+        ],
+        [
+          "explanation-prompts-redirect-attention-with-hidden-costs",
+          "~"
+        ],
+        [
+          "adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects",
           "~"
         ]
       ]

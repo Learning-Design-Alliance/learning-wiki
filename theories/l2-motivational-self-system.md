@@ -48,6 +48,10 @@ The articles disagree about how well the system works. Roshandel et al. (2018) s
 - [Ideal L2 self positively and significantly predicts student self-efficacy, generalizing prior qualitative findings quantitatively](../claims/ideal-l2-self-predicts-self-efficacy.md) [+M]
 - [All ten sub-factors of the L2 motivational self-system correlate significantly and positively with L2 self-efficacy](../claims/ten-motivation-subfactors-correlate-self-efficacy.md) [+M]
 
+## The evidence by question
+
+- *Which part of the L2 motivational self system (the ideal L2 self, the ought-to L2 self or the learning experience) best predicts learners' effort, self-efficacy and proficiency?* [In the L2MSS, the L2 learning experience predicts intended effort most strongly, while the ideal L2 self is weaker than the theory argues](../claims/l2-learning-experience-beats-ideal-l2-self.md) [~M]
+
 ## Related Theories
 
 - [Dörnyei's L2 Motivational Self System as a three-component framework for L2 learning motivation](l2-motivational-self-system-framework.md) — source-framed variant (Roshandel et al., 2018)

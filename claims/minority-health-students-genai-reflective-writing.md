@@ -41,7 +41,8 @@ The review reports this survey of undergraduate health science students' self-re
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Question-driven AI journaling increases intrinsic motivation and acting confidence among actors](question-driven-ai-journaling-raises-motivation-confidence.md) — the general claim this finding bears on, with the studies behind it
 - [Educators struggled to reliably differentiate student-written from GenAI-generated reflections](educators-cannot-reliably-detect-genai-reflections.md) — related
 - [GenAI-era assessment reform should move beyond defensive approaches focused primarily on preventing misconduct or detecting AI use](beyond-defensive-assessment-genai-era.md) — related

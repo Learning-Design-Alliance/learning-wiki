@@ -42,6 +42,9 @@ Authors' interpretation of the concordance results in Table 3.8, which lists ARM
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [MAP Reading Fluency SWCPM scores correlate highly with Amira Reading Mastery scores (r = 0.90–0.96) across grades 1–5 in fall and winter](swcpm-arm-high-correlation-grades-1-5.md) — related
 - [MAP Reading Fluency SWCPM scores classify students into ARM proficiency categories with exact match rates of 74.6–90.8%, kappa 0.60–0.85, and overall accuracy 0.81–0.96](swcpm-classification-accuracy-arm-proficiency.md) — related

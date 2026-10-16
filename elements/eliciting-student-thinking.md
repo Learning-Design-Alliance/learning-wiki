@@ -13,7 +13,7 @@ generated:
 # Eliciting Student Thinking
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 1 against, 1 unmarked) · 11 studies (4 causal, 3 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 1 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (3 for, 1 against, 1 unmarked) · 14 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 2 of 14 report an effect size · 2 claims rest on one study
 
 ## Description
 Eliciting student thinking is the practice of prompting learners to externalize their ideas, reasoning, and problem-solving approaches — through questioning, discussion, or explanation — so that both instructor and learner can examine them. It functions as a diagnostic and generative move: the instructor gains access to partial or faulty conceptions, and the learner deepens understanding by articulating it.
@@ -56,6 +56,12 @@ Eliciting thinking converts passive reception into generative processing; verbal
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Intervention families used the talk moves asks-a-question and checks-for-understanding more frequently than comparison families, especially after viewing](../claims/app-promotes-question-and-check-talk-moves.md) [+W]
 - [A 1970 teacher self-analysis programme asserts, without data, that teacher responses including verbal rewards can close off pupil thinking](../claims/teacher-responses-can-close-off-pupil-thinking.md) [-W]
+
+## The evidence by question
+
+- *Does prompting learners to explain what they study or solve improve their understanding, and on which outcomes?* [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- *Do teacher questions that press learners past a first answer, for explanation, justification or higher-level thinking, improve learning?* [Questioning Strategies Improve Learning](../claims/questioning-strategies-improve-learning.md) [+S]
+- *Does adjusting instruction to each response help, and what do teachers do with the evidence?* [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
 
 ## Related Elements
 

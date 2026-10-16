@@ -30,7 +30,7 @@ sources:
 # After PET normalization, no statistically significant performance differences remain between user cohorts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The statistically significant baseline disparity between Low Literacy and Prompt Engineer cohorts is reduced by half after PET, and no pairwise comparison remains statistically significant. [→ Lier Jin 2026](#lier-jin-2026)

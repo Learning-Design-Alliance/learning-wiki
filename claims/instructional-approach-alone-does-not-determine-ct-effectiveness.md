@@ -41,8 +41,9 @@ The review's descriptive categorization of 33 studies by approach reports 80% of
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Direct CT instruction combined with modeling, coaching, and discussion yields more consistent CT improvement than implicit teaching strategies](direct-ct-instruction-outperforms-implicit-strategies.md) — the general claim this finding bears on, with the studies behind it
 - [Effectiveness of CT instruction varies with year level: first-year students benefited most under general or infusion approaches](year-level-moderates-ct-instruction-effectiveness.md) — related
 - [Immersive technologies are rarely adopted in robotics GBL/gamification but studies using them report heightened engagement, improved spatial reasoning, and enhanced perceived realism](immersive-tech-underused-positive-outcomes-robotics.md) — related
 - [Critical thinking improvement differed by proficiency level: high-level students gained 18%, intermediate 12%, and low-level 8%, with asymmetric feedback adaptation](wise-agent-differential-proficiency-trajectories.md) — related

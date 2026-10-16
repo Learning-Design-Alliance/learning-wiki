@@ -41,11 +41,12 @@ The article reports, citing Droop and Verhoeven (2003), that bilingual Turkish-D
 
 ## Discussion
 
-
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](oral-language-predicts-reading-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related
 - [Automatization of the phonological component through pronunciation practice improves ESP students' reading comprehension more than traditional translation-based instruction](phonological-automatization-improves-esp-reading-comprehension.md) — reports the opposite
 - [Cross-linguistic transfer is skill-specific: phonological awareness and print concepts transfer across languages, vocabulary and comprehension do not](cross-linguistic-transfer-skill-specific.md) — related

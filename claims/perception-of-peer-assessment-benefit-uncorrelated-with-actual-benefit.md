@@ -39,8 +39,9 @@ Student survey on a 1 to 5 helpfulness scale in the same crossover study; the ar
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Teachers' self-reported AI literacy correlates only weakly with their objectively measured performance (r = 0.07–0.24)](weak-sr-ob-correlation-ai-literacy.md) — a broader claim this one bears on
 - [Learning gains were uncorrelated with prior self-reported AI literacy and database literacy, suggesting AI integration benefited students irrespective of prior perceptions](gains-uncorrelated-with-prior-literacy.md) — related
 - [Professional commitment is essentially uncorrelated with AI literacy and shows no significant bivariate correlation with learning engagement](professional-commitment-null-bivariate-correlations.md) — related

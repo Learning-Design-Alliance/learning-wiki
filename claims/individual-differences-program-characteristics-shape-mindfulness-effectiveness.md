@@ -41,8 +41,9 @@ Authors' interpretation of the meta-analytic moderator findings (age, activity c
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The evidence base for school mindfulness interventions is promising but too variable for definitive practice recommendations](mbi-evidence-base-variability-limitation.md) — the general claim this finding bears on, with the studies behind it
 - [Effects of school-based mindfulness interventions differ according to whether delivery is by an outside facilitator or by trained educators/teachers](mindfulness-facilitator-type-moderates-effects.md) — a narrower finding that bears on this claim
 - [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md) — related
 - [The impact of FAST did not differ significantly by student subgroups or school characteristics in the RCT](fast-no-subgroup-differential-impact.md) — related

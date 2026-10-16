@@ -58,6 +58,8 @@ A meta-analysis of 52 studies (125 effects) of whole-classroom reading-strategy 
 
 ## Related Claims
 
+- [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — the general claim this finding bears on, with the studies behind it
+
 - [Activation improves learning.](activation-improves-learning.md) — contextualized tasks give learners something to activate.
 - [Cognitive load management](cognitive-load-management.md) — authentic contexts add load that scaffolding must offset.
 - [Active learning improves exam performance.](active-learning-improves-exam-performance.md) — contextualized strategy practice is a form of active learning.

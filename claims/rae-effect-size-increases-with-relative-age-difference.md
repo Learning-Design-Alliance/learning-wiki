@@ -42,6 +42,9 @@ Follow-up analysis of the pooled odds-ratio estimates from the 253 independent s
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [RAEs are consistently prevalent across sports but with small effect sizes](rae-consistent-prevalence-small-effect-sizes.md) — related
 - [Age category, skill level and sport context moderate RAE magnitude](rae-moderators-age-skill-sport-context.md) — related

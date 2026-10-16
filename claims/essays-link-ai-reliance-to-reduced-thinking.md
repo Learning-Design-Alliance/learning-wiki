@@ -41,8 +41,9 @@ Exploratory deductive coding of 49 first, unaided IB argumentative essays (media
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Higher reliance on AI tools is correlated with lower critical-thinking performance, mediated by cognitive offloading](ai-reliance-correlated-lower-critical-thinking-offloading.md) — the general claim this finding bears on, with the studies behind it
 - [53% of student essays named at least one AI behavior that supports rather than replaces thinking](students-name-scaffolding-ai-behaviors.md) — related
 - [Students framed AI as replacement rather than scaffolding in 48 of 49 essays](replacement-frame-near-universal-in-essays.md) — related
 - [Agency erosion appeared in 88% of student essays, most often as erosion of independent effort](agency-erosion-in-88-percent-of-essays.md) — related

@@ -60,12 +60,13 @@ Theoretical argument in the review's abstract, concluding that "concreteness fad
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does moving from concrete to iconic to abstract, with explicit links, beat starting abstract or staying concrete?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **2 distinct studies** (1 review, 1 theoretical), `q2`–`q3`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does moving from concrete to iconic to abstract, with explicit links, beat starting abstract or staying concrete?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **3 distinct studies** (1 review, 1 theoretical, 1 qualitative), `q1`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Fyfe et al. 2014](https://doi.org/10.1007/s10648-014-9249-3) | q3 · review · r? | i? | this claim |
 | Joseph Antonides 2022 | q2 · theoretical · r2 | i? | [A conference paper reports that, in McNeil and Fyfe (2012), undergraduates taught with con](fading-condition-outperformed-generic-and-concrete.md) (supports); [A cube-tower instructional sequence instantiated concreteness fading in an elaborated form](cube-tower-sequence-elaborated-cf-instantiation.md) (supports); [Students transferred cube-based permutation reasoning to permutation tasks not involving c](cube-reasoning-transfers-to-non-cube-permutation-tasks.md) (supports) |
+| Lili Zhou 2023 | q1 · qualitative · r2 | i? | [When a real-life quilt problem was turned into a contextualized mathematics task, its cont](contextualized-real-life-task-reverted-to-pure-mathematics-and-felt-too-school.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

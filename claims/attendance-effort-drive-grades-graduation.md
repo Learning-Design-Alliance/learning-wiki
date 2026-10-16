@@ -60,8 +60,9 @@ The review reports national chronic absenteeism prevalence, citing U.S. Departme
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Low attendance is linked with lower academic skills, grades, and high school graduation, and high attendance with higher ones](attendance-linked-academic-skills-grades-graduation.md) — the general claim this finding bears on, with the studies behind it
 - [Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students](ninth-grade-gpa-predicts-graduation.md) — related
 - [Academic and behavioral classroom factors, not student demographics, drive the effect of composition on evaluator ratings](academic-behavioral-factors-drive-rating-effect.md) — related
 - [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — related

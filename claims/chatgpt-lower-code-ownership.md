@@ -60,8 +60,9 @@ Four-item Psychological Ownership Scale (Cronbach's alpha = 0.94) with the targe
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI severs the correlation between artefact quality and cognitive engagement, breaking the artefact-as-proxy for learning](ai-breaks-artefact-as-proxy.md) — the general claim this finding bears on, with the studies behind it
 - [ChatGPT-assisted students scored substantially higher on the coding assessment than No AI students (89% vs 69%)](chatgpt-assisted-higher-coding-performance.md) — related
 - [AI support during drafting lowers ownership substantially more than support during planning or revision, and planning support preserves more ownership than revision support.](drafting-support-largest-ownership-decrease.md) — related
 - [Essay quality was highest for AI-generated drafts and lowest with no AI, negatively correlated with ownership, suggesting an ownership-quality tradeoff.](ai-draft-quality-ownership-tradeoff.md) — related

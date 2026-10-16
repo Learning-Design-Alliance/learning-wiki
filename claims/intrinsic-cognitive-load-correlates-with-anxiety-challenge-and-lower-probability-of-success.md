@@ -42,6 +42,9 @@ Correlational analysis of CLM and QCM subscales in the same algebra study: "intr
 ## Discussion
 
 
+## Learner Variables
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Self-reported extraneous cognitive load correlates negatively with germane load and with expected probability of success in an algebra task](extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success.md) — related
 - [Self-reported germane cognitive load correlates positively with interest (QCM) among college students solving algebra problems](germane-cognitive-load-correlates-positively-with-interest.md) — related

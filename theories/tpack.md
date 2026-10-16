@@ -18,7 +18,7 @@ sources:
 # TPACK (Technological Pedagogical Content Knowledge)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 22 claims (11 for, 11 mixed) · 12 studies (5 associational, 3 theoretical, 2 design, 1 causal, 1 review), `q1`–`q2` · 4 of 12 report an effect size · 22 claims rest on one study
+> **Evidence** · 26 claims (13 for, 13 mixed) · 14 studies (5 associational, 3 theoretical, 2 causal, 2 design, 1 review, 1 qualitative), `q1`–`q3` · 4 of 14 report an effect size · 26 claims rest on one study
 
 ## Description
 TPACK (Koehler & Mishra, 2009) extends Shulman's concept of Pedagogical Content Knowledge (PCK) — the specialized knowledge of how to teach a particular subject — by adding technology as a third interacting knowledge domain. Teaching with technology is treated as an ill-structured problem: there is no single best way to integrate a given technology into a curriculum, because content, pedagogy, and technology constrain and reshape one another differently in every classroom context.
@@ -78,6 +78,13 @@ TPACK is not additive — a teacher cannot be TPACK-competent by separately mast
 - [Male faculty report modestly higher self-perceived GenAI knowledge than female faculty in TK and TPK, with small effect sizes](../claims/gender-differences-technological-genai-knowledge-small-effects.md) [~W]
 - [Online Tpack Program Shift Student Centered Strategies](../claims/online-tpack-program-shift-student-centered-strategies.md) [+M]
 - [Teachers reported that students needed dedicated time to learn and explore technologies before being expected to gain mathematics understanding from them](../claims/students-need-time-learn-technology-first.md) [~W]
+
+## The evidence by question
+
+- *Does a TPACK-based course or programme build teachers' capacity to design technology-integrated instruction, and does the gain last?* [A 13-week TPACK-based course significantly improves pre-service preschool teachers' instructional design competence compared with traditional instruction](../claims/tpack-course-improves-preservice-preschool-idc.md) [+M]
+- *Which teacher knowledge predicts integrating AI into teaching: technology knowledge alone, or knowledge integrated with pedagogy and content, together with beliefs?* [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](../claims/teacher-beliefs-mediate-ai-integration.md) [+M]
+- *Does teachers' technology-integration knowledge rise with teaching experience, grade or age, or differ by gender?* [Teaching experience does not significantly enhance MTES AI-TPACK proficiency, though experienced MTES scored slightly higher on every variable](../claims/teaching-experience-no-aick-gain.md) [~M]
+- *Does a technology's benefit come from the technology or from the pedagogy it is used within?* [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](../claims/gai-value-contingent-on-pedagogical-integration.md) [+M]
 
 ## Related Theories
 

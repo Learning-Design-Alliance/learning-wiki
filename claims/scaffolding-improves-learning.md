@@ -64,7 +64,7 @@ A systematic review of scaffolding research in primary/secondary teacher–stude
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does support during an attempt improve later learning compared with attempting unsupported, and for which learners, contexts and outcomes?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **8 distinct studies** (4 causal, 2 quant-synthesis, 2 review), `q2`–`q4`, 2 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does support during an attempt improve later learning compared with attempting unsupported, and for which learners, contexts and outcomes?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **8 distinct studies** (3 causal, 2 quant-synthesis, 2 review, 1 associational), `q2`–`q4`, 2 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -73,9 +73,9 @@ A systematic review of scaffolding research in primary/secondary teacher–stude
 | [Chi et al. 2001](https://doi.org/10.1207/s15516709cog2504_1) | q2 · causal · r1 | i? | [Human tutoring has a medium effect over no tutoring, and in one small study students learn](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) (supports) |
 | [VanLehn 2011](https://doi.org/10.1080/00461520.2011.611369) | q3 · quant-synthesis · r? | i2 · medium effect, d=0.79 (human tutoring vs. no tutoring) | [Human tutoring has a medium effect over no tutoring, and in one small study students learn](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) (supports) |
 | [Bharat Anand 2026](https://doi.org/10.48550/arxiv.2605.18143) | q3 · causal · r2 | i? | [In one randomized working-paper experiment, conceptual-map scaffolding gave LLM-using novi](conceptual-map-scaffolding-reduces-novice-variance.md) (supports) |
-| Bharat Anand 2026 (2) | q3 · causal · r2 | i? | [In one randomized working-paper experiment, conceptual-map scaffolding gave LLM-using novi](conceptual-map-scaffolding-reduces-novice-variance.md) (supports) |
 | [Xiaoyu Hou 2026](https://doi.org/10.48550/arxiv.2606.05509) | q3 · causal · r2 | i? | [Prompted, unprompted, and slide-based learning conditions yield statistically comparable m](no-multiple-choice-difference-prompted-ai-learning.md) (qualifies) |
 | Dean 2014 | q2 · review · r2 | i? | [Teacher repetition and translation as unplanned scaffolding can hinder rather than facilit](repetition-translation-scaffolding-hinders-learning.md) (counts against) |
+| [Suhyeon Lee 2026](https://doi.org/10.48550/arxiv.2608.22993) | q2 · associational · r2 | i? | [The relationship between scaffolding level and students' subsequent provide-context turns ](provide-context-rate-nonmonotonic.md) (qualifies); [Scaffolding level provides no consistent additional predictive information about subsequen](scaffolding-little-incremental-exam-prediction.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

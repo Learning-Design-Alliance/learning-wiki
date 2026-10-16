@@ -42,6 +42,9 @@ Authors' interpretation of the ordered-median gradient panels (Figure 2) in the 
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The cohort's baseline perception profile shows high endorsement of critical-thinking risk and training interest and substantially more cautious trust for complex-task use than for accuracy](baseline-perception-profile-graduate-trainees.md) — related
 - [Self-reported LLM usage frequency shows Holm-corrected associations with all five baseline AI perception outcomes, strongest for complex-task trust, accuracy trust, and critical-thinking risk](usage-frequency-associates-all-five-baseline-ai-perceptions.md) — related

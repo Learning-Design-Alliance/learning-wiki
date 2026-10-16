@@ -41,8 +41,9 @@ Qualitative analysis of the five top-rated lessons on this connected component. 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Lessons highly rated for both the mathematics and access to mathematics used varied participation structures, but none of the 14 was also highly rated on agency, authority, and identity](participation-structures-access-challenging-math.md) — related
 - [The four lessons rated highest on both student explanations and agency, authority, and identity featured Math Talks, but their strongest features often ended when the Math Talks did](math-talks-support-explanations-agency.md) — related
 - [Mathematical sense-making received High ratings most frequently among the MQI dimensions, while linking representations and multiple solutions/procedures were most often rated Not Present](dimension-rating-distributions-vary.md) — related

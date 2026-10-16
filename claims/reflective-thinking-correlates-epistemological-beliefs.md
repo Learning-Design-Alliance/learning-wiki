@@ -58,8 +58,22 @@ Correlation analysis (Table 6, n=410) for the looking professional dimension; al
 
 > "Moreover, looking professional dimension was significantly and positively correlated with learning process/expert knowledge (r=0,278;  p<0,01) and learning effort (r=0,161; p<0,0 1) while it significantly and negatively correlated with innate/fixed ability (r= -0,179; p<0,0 1) and certainty of knowledge (r=-0,165; p<0,01)."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do learners' beliefs about knowledge go with how they think and study, and with the kind of help they want?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **2 distinct studies** (2 associational), `q2`–`q3`, 2 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Balta 2018](https://doi.org/10.5430/ijhe.v7n6p106) | q3 · associational · r2 | i1; i? | this claim; [Avoidant-style preservice teachers hold stronger certainty-of-knowledge beliefs than parti](avoidant-style-higher-certainty-knowledge.md) (supports); [Preservice teachers' epistemological beliefs differ significantly by learning style in all](epistemological-beliefs-differ-by-learning-style.md) (supports) |
+| [Amogh Sirnoorkar and Omkar Mamidpalliwar 2026](https://doi.org/10.48550/arxiv.2607.29385) | q2 · associational · r2 | i?; i0 | [Students preferring combination-style chatbots had higher total EBAPS scores than students](combination-preferrers-higher-total-ebaps-than-answer-preferrers.md) (supports); [Combination-preferring students scored higher than answer-preferring students on evolving-](combination-preferrers-higher-axis4-axis5-scores.md) (supports); [Chatbot preference groups differed in total EBAPS and Axis 4/5 scores at the nominal level](chatbot-preference-ebaps-omnibus-kw-results.md) (qualifies); [No statistically significant EBAPS differences were observed for Axes 1–3 or between guide](no-ebaps-differences-axes-1-3-or-inquiry-vs-answer.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
+
+## Learner Variables
+- [Epistemic Beliefs](../learner-variables/epistemic-beliefs.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Preservice teachers' epistemological beliefs differ significantly by learning style in all four dimensions](epistemological-beliefs-differ-by-learning-style.md) — related

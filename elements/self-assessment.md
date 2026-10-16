@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (6 for, 3 mixed, 1 against) · 9 studies (3 causal, 2 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 3 of 9 report an effect size · 9 claims rest on one study
+> **Evidence** · 11 claims (6 for, 4 mixed, 1 against) · 11 studies (4 causal, 3 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 4 of 11 report an effect size · 9 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -61,6 +61,11 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Workflow condition is associated with students' self-assessment confidence](../claims/workflow-condition-self-assessment-confidence-effect.md) [~W]
 - [Students' JoL ratings became more consistent over time and evolved from under-rating to over-rating to accurate judgement](../claims/jol-consistency-and-rating-evolution.md) [~W]
 - [Students using the eliciting agent showed JoL ratings correlated with system learning metrics, strongest for mastery](../claims/elicit-condition-jol-accuracy-correlations.md) [+W]
+
+## The evidence by question
+
+- *Should learners assess their own work, and can their self-ratings be trusted?* [Self Assessment Improves Self Regulated Learning](../claims/self-assessment-improves-self-regulated-learning.md) [+M]
+- *Can learners' own monitoring be trusted, and can it be trained?* [Self Assessment Accuracy Is Low Without Training](../claims/self-assessment-accuracy-is-low-without-training.md) [~S]
 
 ## Related Elements
 - [Reflection](reflection.md)

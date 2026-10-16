@@ -18,7 +18,7 @@ sources:
 # Self-Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (9 for) · 13 studies (5 causal, 4 quant-synthesis, 4 review), `q2`–`q4` · 9 of 13 report an effect size · 5 claims rest on one study
+> **Evidence** · 10 claims (10 for) · 14 studies (5 causal, 5 review, 4 quant-synthesis), `q2`–`q4` · 9 of 14 report an effect size · 6 claims rest on one study
 
 ## Description
 Self-testing is the element in which learners quiz themselves or otherwise attempt to retrieve knowledge without immediate external prompting. It is useful when the goal is to strengthen retention and help learners gauge what they actually know.
@@ -50,6 +50,12 @@ Self-testing is the element in which learners quiz themselves or otherwise attem
 - [Rereading is less effective than retrieval practice](../claims/rereading-less-effective-than-retrieval-practice.md) [+S]
 - [Retrieval Failure Reduces Benefit](../claims/retrieval-failure-reduces-benefit.md) [+M]
 - [Both preclass (g = 0.186) and postclass (g = 0.536) quizzes enhance learning, with postclass quizzes more effective; benefits increase with treatment duration.](../claims/postclass-quizzes-and-longer-duration-larger-gains.md) [+W]
+
+## The evidence by question
+
+- *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
+- *Does feedback after retrieval add to the benefit?* [Feedback Enhances Retrieval Practice](../claims/feedback-enhances-retrieval-practice.md) [+S]
+- *Will learners choose to test themselves on their own, and can they be taught to?* [Learners underuse effective learning strategies such as spacing and retrieval practice](../claims/learners-underuse-effective-learning-strategies.md) [+M]
 
 ## Related Elements
 - [Retrieval Practice](retrieval-practice.md)

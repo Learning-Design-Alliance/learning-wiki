@@ -26,7 +26,7 @@ sources:
 # Improve Classroom Air Quality
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 unmarked) · 7 studies (3 quant-synthesis, 2 causal, 1 review, 1 associational), `q1`–`q4` · 2 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 Improving classroom air quality means ensuring adequate ventilation, controlling indoor pollutants (CO₂, particulates, volatile organic compounds), and maintaining thermal comfort so that students' physical environment supports rather than undermines cognition and attendance. It is carried out through upgraded ventilation systems, air filtration, low-emission building materials, and continuous monitoring of CO₂ and particulate levels.

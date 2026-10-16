@@ -41,7 +41,8 @@ Authors' interpretation of the interaction plots in Figure 2 (mean ratings by co
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Students rate the Socratic + Full Context AI TA significantly lowest for perceived support of task completion](socratic-full-context-ai-ta-lowest-task-completion-rating.md) — related
 - [AI TA condition shows no statistically significant differences in perceived task-comprehension support, correctness, or interaction stress](ai-ta-condition-no-effect-other-perceptions.md) — related

@@ -30,7 +30,7 @@ sources:
 # Only about a third of design students report reduced creativity or project ownership from GenAI use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Only 31% of respondents reported a perceived loss of ownership or creative agency when using GenAI tools. [→ Stefana Broadbent 2026](#stefana-broadbent-2026)

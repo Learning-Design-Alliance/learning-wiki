@@ -42,8 +42,9 @@ Participant-observer analysis of a first-year composition course for internation
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - Contradictions surrounding the OLR drove students to appropriate it, transforming it from an object of confusion into an instrument of critical reflection — related
 - Participation in composing the Midterm OLR moved students from appropriating labels and surface features toward conceptual underpinnings — related
 - Past and present sociohistorical influences led two similar students in the same class to work toward different grades — related

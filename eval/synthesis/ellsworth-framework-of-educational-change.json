@@ -1,0 +1,92 @@
+{
+  "principle": "theories/ellsworth-framework-of-educational-change",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "isolated-innovations-are-rejected-by-the-system-they-enter",
+      "question": "Is an educational innovation more likely to be adopted and kept when it fits the system it enters and adopters perceive it as compatible and advantageous?",
+      "members": [
+        [
+          "resolving-participation-double-bind-requires-redesigned-activity-structures",
+          "+"
+        ],
+        [
+          "learning-space-redesign-alone-insufficient",
+          "+"
+        ],
+        [
+          "tool-effectiveness-depends-on-context-configuration",
+          "+"
+        ],
+        [
+          "type2-contradictions-thwart-sdt-needs",
+          "+"
+        ],
+        [
+          "sdt-driven-redesign-capacity-willingness-gains",
+          "+"
+        ],
+        [
+          "compact-activities-small-scale-improvements-not-systemic-change",
+          "+"
+        ],
+        [
+          "tool-change-most-disruption-online-teaching",
+          "~"
+        ],
+        [
+          "innovation-attributes-drive-intention-and-adoption",
+          "+"
+        ],
+        [
+          "compatibility-relative-advantage-enhance-innovation-attributes",
+          "+"
+        ],
+        [
+          "inclusive-innovation-sustainability-factors",
+          "+"
+        ],
+        [
+          "committee-structure-sustains-change-despite-turnover",
+          "+"
+        ],
+        [
+          "inclusive-innovation-implementation-barriers",
+          "~"
+        ],
+        [
+          "follow-up-contact-strongest-adoption-success-factor",
+          "~"
+        ],
+        [
+          "aida-induction-pilot-then-stalled-upscaling",
+          "~"
+        ],
+        [
+          "adaptive-shift-precedes-technical-restorative-success",
+          "+"
+        ],
+        [
+          "relational-elements-precede-technical-restorative-results",
+          "+"
+        ],
+        [
+          "inquiry-environments-ambitious-systems-hard-to-scale",
+          "+"
+        ],
+        [
+          "reform-progress-depends-on-teacher-and-school-capacity",
+          "+"
+        ],
+        [
+          "instruction-delivery-depends-on-school-context",
+          "+"
+        ],
+        [
+          "digital-education-innovation-four-dimension-interplay",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

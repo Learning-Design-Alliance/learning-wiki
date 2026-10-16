@@ -45,6 +45,11 @@ Problem-solving followed by instruction (PS-I, closely related to "productive fa
 - [Students exposed to failure-driven scaffolding demonstrated higher quality of constructive reasoning](../claims/failure-driven-scaffolding-higher-quality-constructive-reasoning.md) [+W] — attached 2026-10-15 from Sinha et al. (2021), which proposed "Explicit failure-driven scaffolding via problematizing to facilitate problem-space exploration".
 - [Failure-driven and success-driven scaffolding before instruction produce similar posttest conceptual understanding](../claims/failure-and-success-scaffolding-similar-posttest-conceptual-understanding.md) [~W] — attached 2026-10-15 from Sinha et al. (2021), which proposed "Explicit success-driven scaffolding via structuring with low-specificity heuristics".
 
+## The evidence by question
+
+- *Should learners attempt a problem before the idea is taught, and what must the teaching afterwards do?* [Productive Failure Improves Conceptual Learning](../claims/productive-failure-improves-conceptual-learning.md) [+S]
+- *Which features of the attempt and of the instruction after it, and how much time, go with a larger advantage for attempting first?* [PF design fidelity predicts larger PS-I effects, with four fidelity criteria showing significant subgroup differences](../claims/pf-fidelity-predicts-psi-effect-size.md) [+M]
+
 ## Related Theories
 - [Self-Regulated Learning](self-regulated-learning.md) — PS-I's pre-instruction attempt phase is a context in which monitoring and affect regulation become consequential for later learning
 

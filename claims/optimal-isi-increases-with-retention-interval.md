@@ -42,15 +42,17 @@ Meta-analytic lag analyses binning accuracy differences and absolute accuracy by
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*How long should the gap between sessions be, given when the knowledge is needed?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **5 distinct studies** (2 quant-synthesis, 2 causal, 1 review), `q1`–`q3`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*How long should the gap between sessions be, given when the knowledge is needed?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **7 distinct studies** (3 causal, 2 quant-synthesis, 2 review), `q1`–`q3`, 0 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Cepeda 2006](https://doi.org/10.1037/0033-2909.132.3.354) | q1 / q2 · quant-synthesis · r2 | i? | this claim; [ISI effects on recall are nonmonotonic and depend jointly on retention interval](isi-effect-nonmonotonic-joint-retention-interval.md) (qualifies); [Relearning-to-criterion designs confound distribution of practice with amount of second-se](relearning-confound-distributed-practice-designs.md) (qualifies) |
+| [Cepeda 2006](https://doi.org/10.1037/0033-2909.132.3.354) | q1 / q2 · quant-synthesis · r2 | i? | this claim; [ISI effects on recall are nonmonotonic and depend jointly on retention interval](isi-effect-nonmonotonic-joint-retention-interval.md) (supports); [Relearning-to-criterion designs confound distribution of practice with amount of second-se](relearning-confound-distributed-practice-designs.md) (qualifies) |
 | Robert DeKeyser 2010 | q2 · review · r2 | i? | [Distributed practice benefits L2 learning, and one review argues that spreading it over ye](distributed-practice-limits-l2.md) (qualifies) |
 | [Kim and Webb 2022](https://doi.org/10.1111/lang.12479) | q3 · quant-synthesis · r? | i? | [Distributed practice benefits L2 learning, and one review argues that spreading it over ye](distributed-practice-limits-l2.md) (qualifies) |
 | [Kapler et al. 2015](https://doi.org/10.1016/j.learninstruc.2014.11.001) | q3 · causal · r? | i? | [Eight-day review improved a five-week science test versus one-day review in a simulated un](eight-day-review-improves-five-week-science-test-versus-one-day-review.md) (supports) |
-| [Kang 2023](https://doi.org/10.1891/jfcp-2021-0032) | q3 · causal · r2 | i? | [The authors attribute the spaced-practice knowledge benefit to deeper learning or transfer](spaced-practice-benefit-reflects-transfer-not-item-memorization.md) (supports) |
+| [Kang 2023](https://doi.org/10.1891/jfcp-2021-0032) | q3 · causal · r2 | i? | [The authors attribute the spaced-practice knowledge benefit to deeper learning or transfer](spaced-practice-benefit-reflects-transfer-not-item-memorization.md) (qualifies) |
+| [Carpenter 2012](https://doi.org/10.1007/s10648-012-9205-z) | q2 · review · r? | i? | [Recent research identifies time intervals during which spaced study should occur to maximi](optimal-spacing-intervals-maximize-retention.md) (supports) |
+| [Glenberg 1979](https://doi.org/10.3758/bf03197590) | q2 · causal · r? | i? | [In continuous recognition memory, the lag function is inverted U-shaped after a short rete](spacing-lag-function-shape-depends-on-cue-bias-and-retention-interval.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

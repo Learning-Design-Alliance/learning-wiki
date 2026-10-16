@@ -13,7 +13,7 @@ generated:
 # Practice Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 25 claims (17 for, 8 mixed) · 17 studies (6 quant-synthesis, 5 causal, 4 review, 1 associational, 1 qualitative), `q1`–`q4` · 11 of 17 report an effect size · 22 claims rest on one study
+> **Evidence** · 27 claims (19 for, 8 mixed) · 18 studies (6 causal, 6 quant-synthesis, 4 review, 1 associational, 1 qualitative), `q1`–`q4` · 11 of 18 report an effect size · 23 claims rest on one study
 
 ## Description
 Practice testing (retrieval practice) asks learners to recall or apply information from memory — via low- or no-stakes quizzes, flashcards, free recall, or problem-solving — before or instead of restudying. The act of successful retrieval itself strengthens memory and reveals gaps, making testing a learning event rather than merely an assessment event.
@@ -78,6 +78,12 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Effects of pre-instruction testing on untested but studied materials are highly inconsistent across experiments and materials](../claims/pretesting-untested-materials-inconsistent.md) [~W]
 - [Transfer of test-enhanced learning is weakest to rearranged stimulus-response items, to untested materials seen during initial study, and to problems involving worked examples](../claims/transfer-weakest-rearranged-untested-materials-worked-examples.md) [~W]
 - [Effects of instructions on some measures were inconsistent across experiments, and instructed students did not recall all items to criterion](../claims/mixed-effects-across-experiments-criterion-failures.md) [~W]
+
+## The evidence by question
+- *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
+- *Does the benefit carry to new questions, inferences and applications, or only to the items practised?* [Retrieval Practice Improves Transfer](../claims/retrieval-practice-improves-transfer.md) [+S]
+- *Does testing learners before instruction, when they cannot yet answer, improve what they learn from it?* [Pretesting enhances learning](../claims/pretesting-enhances-learning.md) [+S]
+- *Will learners choose to test themselves on their own, and can they be taught to?* [Learners underuse effective learning strategies such as spacing and retrieval practice](../claims/learners-underuse-effective-learning-strategies.md) [+M]
 
 ## Related Elements
 - [Practice](practice.md) — practice testing is the memory-focused subset of practice; both depend on active production rather than review

@@ -30,7 +30,7 @@ sources:
 # Prior knowledge and trust calibration moderate GenAI learning effects: fluent output is most persuasive when learners least can challenge it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 review `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Better-calibrated novices could ignore poor AI suggestions while struggling students could be pulled further off course. [→ Qusay H. Mahmoud 2026](#qusay-h-mahmoud-2026)

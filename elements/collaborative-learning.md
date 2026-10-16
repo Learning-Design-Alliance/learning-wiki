@@ -13,7 +13,7 @@ generated:
 # Collaborative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 8 studies (2 quant-synthesis, 2 associational, 1 causal, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 1 of 8 report an effect size · 4 claims rest on one study
+> **Evidence** · 8 claims (5 for, 3 mixed) · 14 studies (5 quant-synthesis, 2 causal, 2 associational, 2 theoretical, 1 review, 1 qualitative, 1 design), `q1`–`q4` · 4 of 14 report an effect size · 5 claims rest on one study
 
 ## Description
 Collaborative learning organizes learners into structured teams that jointly solve problems, complete tasks, and construct shared understanding. The structure matters as much as the grouping: effective designs assign roles, interdependence, and individual accountability rather than simply seating learners together.
@@ -58,6 +58,11 @@ Collaboration supports learning when it forces learners to articulate, defend, a
 - [District improvement teams valued CALLI for peer learning, expert access, and structure that built capacity for continuous improvement](../claims/calli-districts-valued-peer-learning-experts-structure.md) [+W]
 - [The Delegated Reasoning group significantly outperformed the Concerted Interpretation group on collaborative problem-solving task performance](../claims/dr-outperforms-ci-task-performance.md) [~W]
 - [In Pilot District 4, student-led Small Writing Groups showed growing attendance and increased writing confidence among participating students, per Core Team reflections](../claims/small-writing-groups-attendance-confidence-growth.md) [~W]
+
+## The evidence by question
+- *Does working jointly on a task raise achievement over working alone or instruction without group work?* [Collaborative Learning Improves Outcomes](../claims/collaborative-learning-improves-outcomes.md) [+S]
+- *What makes joint work fail: the task, group size and composition, or how members take part?* [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](../claims/collaborative-situations-often-fail-productive.md) [~W]
+- *Which structure matters: group rewards tied to each member's learning, assigned roles, or interdependence of any kind?* [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+S]
 
 ## Related Elements
 

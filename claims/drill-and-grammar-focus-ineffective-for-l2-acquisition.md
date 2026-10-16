@@ -59,9 +59,9 @@ The packet's rationale section asserts, citing Krashen (1981a), that "repetitive
 
 ## Discussion
 
-
-
 ## Related Claims
+
+- [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — the general claim this finding bears on, with the studies behind it
 
 - Comprehensible input in natural language contexts is presented as essential to second language acquisition — related
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](student-centered-environments-lower-anxiety-increase-confidence.md) — related

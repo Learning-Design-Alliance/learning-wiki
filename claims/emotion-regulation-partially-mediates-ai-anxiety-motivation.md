@@ -63,6 +63,7 @@ Authors' conclusion from the mediation models (Table 2, Figure 1): the direct as
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — predictor: learners who differ on it differ in outcomes
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [AI anxiety is negatively associated with academic motivation among university students, in both bivariate and regression analyses](ai-anxiety-negatively-associated-academic-motivation.md) — related

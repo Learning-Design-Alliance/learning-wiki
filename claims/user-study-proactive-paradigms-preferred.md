@@ -30,7 +30,7 @@ sources:
 # In a 30-participant user study, proactive paradigms are preferred over user-initiated interaction, with lower workload, fewer window switches, shorter editing time, and higher acceptance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Proactive paradigms (L1-L3) are preferred over user-initiated interaction (L0), with stateful and adaptive settings (L2, L3) achieving the lowest perceived workload, highest usefulness, and strongest adaptability. [→ Youqing Fang 2026](#youqing-fang-2026)

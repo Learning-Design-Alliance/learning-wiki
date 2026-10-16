@@ -41,10 +41,11 @@ In the same four-course comparison with pre–post measures, the diary-only cond
 
 ## Discussion
 
-
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — the general claim this finding bears on, with the studies behind it
 - [Keeping a structured learning diary without further intervention did not improve university students' self-regulation](learning-diary-alone-no-self-regulation-gain.md) — related
 - [A daily learning diary alone (Group D) did not produce statistically significant pre-post gains on any measured outcome in an online mathematics preparation course](learning-diary-alone-no-significant-srl-gains-online-math-prep-course.md) — related

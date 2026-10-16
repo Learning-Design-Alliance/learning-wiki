@@ -89,6 +89,30 @@
         [
           "expertise-reversal-effect",
           "~"
+        ],
+        [
+          "fading-support-promotes-transfer-of-responsibility",
+          "+"
+        ],
+        [
+          "coach-guided-relearning-beats-static",
+          "+"
+        ],
+        [
+          "genai-hints-effective-but-require-validation",
+          "~"
+        ],
+        [
+          "scaffolded-coach-no-assignment-performance-advantage",
+          "~"
+        ],
+        [
+          "context-effect-depends-on-guidance-style",
+          "~"
+        ],
+        [
+          "chatgpt-hint-error-rate-self-consistency",
+          "~"
         ]
       ]
     },
@@ -139,6 +163,18 @@
         [
           "lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples",
           "~"
+        ],
+        [
+          "adaptive-fading-beats-fixed-and-linear-scaffolding",
+          "~"
+        ],
+        [
+          "worked-example-problem-sequences",
+          "+"
+        ],
+        [
+          "expertise-reversal-writing-journal-prompts-fading",
+          "+"
         ]
       ]
     },
@@ -204,6 +240,26 @@
         ],
         [
           "gpt-output-effect-depends-on-prior-knowledge-and-domain",
+          "~"
+        ],
+        [
+          "ai-assistance-persistence-costs-direct-solutions",
+          "+"
+        ],
+        [
+          "learners-prefer-incremental-hints-over-solutions",
+          "+"
+        ],
+        [
+          "hint-not-solution-most-challenging-dimension",
+          "~"
+        ],
+        [
+          "hint-budget-mismanaged-two-patterns",
+          "~"
+        ],
+        [
+          "hint-avoidance-related-greater-wheel-spinning",
           "~"
         ]
       ]

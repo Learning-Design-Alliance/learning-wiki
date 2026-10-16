@@ -1,0 +1,62 @@
+{
+  "principle": "elements/structured-questioning",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "questioning-strategies-improve-learning",
+      "question": "Do teacher questions that press learners past a first answer, for explanation, justification or higher-level thinking, improve learning?",
+      "members": [
+        [
+          "question-prompts-improve-learning",
+          "+"
+        ],
+        [
+          "elaborative-interrogation-improves-learning",
+          "+"
+        ],
+        [
+          "self-explanation-improves-conceptual-understanding",
+          "+"
+        ],
+        [
+          "reflective-questioning-graphical-representations-improve-algebra-outcomes",
+          "+"
+        ],
+        [
+          "socratic-feedback-comprehension-monitoring-task-orientation",
+          "+"
+        ],
+        [
+          "questioning-benefit-decays-with-impasse-depth",
+          "~"
+        ],
+        [
+          "socratic-mode-progressive-disengagement",
+          "~"
+        ],
+        [
+          "probing-feedback-revise-resubmit-evidence",
+          "~"
+        ],
+        [
+          "teacher-responses-can-close-off-pupil-thinking",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "increasing-wait-time-improves-response-quality",
+      "question": "Does a longer pause after a question, before anyone answers, improve the responses that follow?",
+      "members": [
+        [
+          "wait-time-invited-disinvited-students",
+          "~"
+        ],
+        [
+          "questioning-strategies-improve-learning",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

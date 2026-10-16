@@ -30,7 +30,7 @@ sources:
 # Journal analysis shows heavy GenAI reliance in secondary research and transcription but student autonomy in planning and interpretation of primary research
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q1`
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q1`
 
 ## Subclaims
 `q1 i?` Students reported heavy GenAI use for finding and organising information in secondary research, and for transcribing and summarising interviews, while planning, execution and analysis of primary research were mostly conducted with limited GenAI support. [→ Stefana Broadbent 2026](#stefana-broadbent-2026)

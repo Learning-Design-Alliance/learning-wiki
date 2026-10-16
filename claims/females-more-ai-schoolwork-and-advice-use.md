@@ -42,6 +42,9 @@ Pre-workshop logistic regression controlling for year level and school on the ba
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Male secondary students report significantly higher STEM career interest than female students across AI, computer science, and engineering at baseline](baseline-male-higher-stem-career-interest-ai-literacy.md) — related
 - [Both male and female students show statistically significant medium-sized gains in AI knowledge and confidence after a one-day AI literacy workshop](both-genders-gain-ai-knowledge-confidence-workshop.md) — related

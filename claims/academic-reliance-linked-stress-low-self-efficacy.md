@@ -42,6 +42,9 @@ Synthesis of cross-sectional higher-education studies (Section 3.4.2) reporting 
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Academic self-efficacy is negatively associated with AI dependency among university students](self-efficacy-negatively-associated-ai-dependency.md) — related
 - [Perceived usefulness negatively moderates the relationship between academic self-efficacy and academic stress](perceived-usefulness-moderates-efficacy-stress.md) — related

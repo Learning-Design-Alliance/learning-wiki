@@ -41,8 +41,9 @@ SCR comparison across the three conditions of the 123-participant experiment; co
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — the general claim this finding bears on, with the studies behind it
 - [Students exposed to the biased LLM showed no awareness of its influence, reporting lower perceived AI influence than neutral-condition participants despite larger bias effects](bias-transfer-without-awareness-llm-writing.md) — related
 - [Biased LLM assistance increases students' gender-stereotypic occupational recommendations: 71.4% of biased-condition essays recommended a gender-stereotypic occupation versus 45.0% (control) and 39.0% (neutral)](biased-llm-assistance-raises-stereotype-congruence-career-choices.md) — related
 - [Students assisted by a gender-biased LLM produce career-plan essays with a significantly larger male-female agentic gap than students in neutral-LLM and no-AI control conditions](biased-llm-assistance-increases-agentic-gap-student-essays.md) — related

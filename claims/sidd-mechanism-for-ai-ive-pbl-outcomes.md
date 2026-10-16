@@ -41,8 +41,9 @@ The article's stated mechanism for the quasi-experimental outcome differences: t
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — the general claim this finding bears on, with the studies behind it
 - [Relative to traditional PBL, the AI-IVE-PBL model improves vocational students' design ability and creative ability](ai-ive-pbl-improves-design-creativity.md) — related
 - [Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to fostering self-regulated AI interaction](ai-scaffolding-fading-learned-helplessness.md) — related
 - [AI-driven PBL environments enhance educator and student collaboration via real-time feedback, intelligent scaffolding, and data-informed instructional decisions](ai-pbl-enhances-educator-student-collaboration.md) — related

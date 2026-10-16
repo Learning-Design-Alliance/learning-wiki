@@ -41,8 +41,12 @@ Meta-analytic moderator analysis across the 24 included studies. The article rep
 
 ## Discussion
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [The evidence base for school mindfulness interventions is promising but too variable for definitive practice recommendations](mbi-evidence-base-variability-limitation.md) — the general claim this finding bears on, with the studies behind it
 - [Mindfulness interventions consisting of combinations of various mindfulness activities show the largest effects on youth mental health and well-being](mindfulness-activity-combinations-largest-effects.md) — related
 - [School-based mindfulness interventions produce small-to-moderate significant pre-post improvements in youth mental health and well-being compared to control groups](school-mindfulness-small-moderate-effect-youth-mental-health.md) — a broader claim this one bears on
 - [Age significantly moderates MBI effects on executive functions across all RCTs (larger benefits with older age) and on negative behaviour in active-control RCTs (larger benefits with younger age)](age-moderates-mbi-outcomes.md) — related

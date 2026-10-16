@@ -41,8 +41,9 @@ A theoretical proposition from the conceptual framework's validation agenda, off
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — the general claim this finding bears on, with the studies behind it
 - [AI introduced without pedagogical scaffolding can replace rather than reinforce learners' self-regulatory processes](unscaffolded-ai-replaces-self-regulation.md) — related
 - [AI intuition emphasizes epistemic judgment rather than output optimization, distinguishing it from prompt engineering](ai-intuition-epistemic-judgment-not-prompt-engineering.md) — related
 - [Agentivism generates six empirically testable propositions linking delegation structure, verification, reconstruction, and reduced-support transfer to learning outcomes](agentivism-six-testable-propositions.md) — related

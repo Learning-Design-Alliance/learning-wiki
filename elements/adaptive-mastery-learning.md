@@ -13,7 +13,7 @@ generated:
 # Adaptive Mastery Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (9 for, 5 mixed, 1 against) · 21 studies (8 review, 5 causal, 3 quant-synthesis, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 4 of 21 report an effect size · 12 claims rest on one study
+> **Evidence** · 18 claims (12 for, 5 mixed, 1 against) · 25 studies (8 review, 6 causal, 6 quant-synthesis, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 25 report an effect size · 14 claims rest on one study
 
 ## Description
 Adaptive mastery learning combines Bloom's mastery learning model — requiring demonstrated proficiency before advancing — with adaptive systems that adjust task difficulty, sequencing, and feedback to individual performance. The system continuously estimates what each learner knows and serves the next challenge at the frontier of their competence, advancing only when mastery criteria are met.
@@ -67,6 +67,12 @@ Adaptive mastery systems ensure that foundational gaps are closed before higher-
 - [AI is implemented in SRL research primarily as an intervention, most often through adaptive systems and personalization](../claims/ai-implemented-as-intervention-adaptive-systems-personalization.md) [~W]
 - [Teachers in the formative study agreed lesson plans need adjustment when student ability diverges, with STEM subjects more amenable to difficulty scaling than humanities subjects](../claims/stem-more-amenable-difficulty-scaling.md) [~W]
 - [A multi-site randomized controlled trial found Woot Math's adaptivity contributed significant effects in learning and retention](../claims/woot-math-rct-adaptivity-significant-effects.md) [+W]
+
+## The evidence by question
+
+- *Does making progress depend on reaching a unit criterion, with correction and a recheck, raise examination performance over conventional pacing?* [Mastery Learning Improves Outcomes](../claims/mastery-learning-improves-outcomes.md) [+M]
+- *Does adaptive instruction raise achievement over non-individualised instruction or the same content in a fixed sequence?* [Intelligent tutoring systems improve achievement over non-individualised instruction](../claims/adaptive-learning-improves-outcomes.md) [+S]
+- *What does it cost in time and coverage, and what happens when learners do not reach the criterion?* [Mastery learning implementation did not reduce material covered or instructional pace, contradicting the Robin Hood contention](../claims/mastery-learning-did-not-slow-pace-or-scope.md) [+M]
 
 ## Related Elements
 - [Mastery Learning](mastery-learning.md) — the underlying model; adaptive systems automate its pacing and remediation decisions

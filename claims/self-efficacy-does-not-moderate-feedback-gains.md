@@ -41,7 +41,8 @@ Exploratory moderation analysis announced in the introduction of the preregister
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — the general claim this finding bears on, with the studies behind it
 - [Children's plan quality improves substantially after receiving LLM-generated adaptive feedback](plan-quality-improves-after-llm-adaptive-feedback.md) — related
 - [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md) — related

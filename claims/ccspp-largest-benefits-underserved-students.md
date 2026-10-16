@@ -41,8 +41,11 @@ Statewide matched difference-in-differences analyses across attendance, suspensi
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students](assistments-school-composition-moderators.md) — the general claim this finding bears on, with the studies behind it
+
+- [Spoken–written advantages are larger for second-language and nonfluent first-language readers and for low prior knowledge learners](reader-fluency-prior-knowledge-moderate-redundancy.md) — the general claim this finding bears on, with the studies behind it
 - [Schools with the greatest chronic absence reductions showed the largest achievement gains, with attendance improvement associated with a near doubling of the math effect](ccspp-attendance-gains-linked-achievement.md) — related
 - [ELA gains in CCSPP schools (0.05 SD) were not statistically significant overall but were significant for English learners and, at p < 0.10, for socioeconomically disadvantaged and Black students](ccspp-ela-gains-subgroup-significant-only.md) — a narrower finding that bears on this claim
 - [LAUSD CCSPP community schools reduced chronic absence by approximately 9% more and improved math proficiency by approximately 10% more than comparable non-CCSPP high-need schools](ccspp-lausd-chronic-absence-math-gains.md) — related

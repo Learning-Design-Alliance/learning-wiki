@@ -30,7 +30,7 @@ sources:
 # AI literacy negatively moderates the trust–appropriate reliance relationship, with the trust slope becoming more negative as AI literacy increases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The trust × AI literacy interaction was negative (b = -1.03, p = .014). [→ Griffin Pitts 2026](#griffin-pitts-2026)

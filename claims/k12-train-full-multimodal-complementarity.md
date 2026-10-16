@@ -30,7 +30,7 @@ sources:
 # K12-Train-Full achieves the best overall performance on three multimodal educational benchmarks, and textual and visual supervision are complementary
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` K12-Train-Full achieves the best overall result on Gaokao-MM, MDK12-Bench, and K12Vista, consistently outperforming both Text-Only and MM-Only configurations, indicating the two supervision sources are complementary. [→ Hao Liang 2026](#hao-liang-2026)

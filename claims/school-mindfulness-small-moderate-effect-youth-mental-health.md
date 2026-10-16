@@ -41,8 +41,9 @@ Systematic meta-analysis of studies from PsycINFO, ERIC, Social Work Abstracts, 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The evidence base for school mindfulness interventions is promising but too variable for definitive practice recommendations](mbi-evidence-base-variability-limitation.md) — the general claim this finding bears on, with the studies behind it
 - [Mindfulness interventions consisting of combinations of various mindfulness activities show the largest effects on youth mental health and well-being](mindfulness-activity-combinations-largest-effects.md) — a narrower finding that bears on this claim
 - [Mindfulness interventions delivered during late adolescence (15–18) show the largest effects on youth mental health and well-being outcomes](mindfulness-late-adolescence-largest-effects.md) — a narrower finding that bears on this claim
 - [School-based mindfulness interventions show overall effect sizes of g = 0.40 between groups and g = 0.41 within groups](mindfulness-schools-overall-effect-g-040.md) — related

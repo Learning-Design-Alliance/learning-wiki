@@ -41,11 +41,12 @@ Transcripts of ChatGPT conversations from both AI groups were coded for collabor
 
 ## Discussion
 
-
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](genai-overreliance-harms-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Collaborative prompt use mediated the regulated-AI group's advantage over the general-AI group in independent originality](collaborative-prompts-mediate-independent-originality.md) — related
 - [Free ChatGPT use boosts originality on the assisted creative task but the advantage disappears when assistance is removed](chatgpt-free-use-originality-gains-vanish-unassisted.md) — related
 - [The regulated 'think first, ChatGPT later' group outperformed both other groups in independent originality on the unassisted task despite no assisted-task advantage](regulated-ai-outperforms-independent-originality.md) — related

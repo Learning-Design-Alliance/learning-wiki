@@ -87,6 +87,8 @@ This is the source paper that introduces conditional knowledge as one of three c
 
 ## Related Claims
 
+- [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — the general claim this finding bears on, with the studies behind it
+
 - [Activation improves learning.](activation-improves-learning.md) — activating relevant prior knowledge helps learners judge when a strategy applies
 - [Advance organizers improve learning.](advance-organizers-improve-learning.md) — organizers can frame the conditions under which strategies are useful
 - [Annotating improves learning.](annotating-improves-learning.md) — a strategy whose value depends on task conditions, illustrating the conditional-knowledge requirement

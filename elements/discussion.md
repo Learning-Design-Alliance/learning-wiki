@@ -13,7 +13,7 @@ generated:
 # Discussion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 17 studies (9 quant-synthesis, 6 causal, 1 associational, 1 theoretical), `q2`–`q4` · 6 of 17 report an effect size
+> **Evidence** · 8 claims (7 for, 1 mixed) · 22 studies (9 causal, 9 quant-synthesis, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 6 of 22 report an effect size
 
 ## Description
 Discussion is a structured verbal exchange — whole-class, small-group, or online — in which learners articulate their thinking, respond to peers, and negotiate meaning under facilitation. It functions as both an assessment surface (making reasoning visible to the instructor) and a learning mechanism (eliciting explanation, elaboration, and cognitive conflict).
@@ -56,6 +56,11 @@ Discussion improves achievement when it is structured around a clear goal and re
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - 
+
+## The evidence by question
+- *Does class time spent with learners talking, explaining and discussing, rather than listening, change what they think about and understand, and does more talk alone do it?* [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [+M]
+- *Which discussion structures and facilitation make open discussion produce learning, rather than just more talk?* [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](../claims/structured-discussion-methods-improve-comprehension.md) [+S]
+- *Does discussing a committed answer with peers improve a later individual answer on a new question?* [Peer Discussion Improves Conceptual Understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M]
 
 ## Related Elements
 - [Argumentation](argumentation.md) — the claim-evidence-reasoning structure that raises discussion quality

@@ -30,7 +30,7 @@ sources:
 # Overall quality was similar across durations and across the 21-lecture held-out set unused during system development
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Medium (5–15 minute) and long videos scored similarly on global quality (3.36 vs. 3.53; Mann–Whitney U p = 0.60), and videos from the 21 held-out lectures scored G = 3.36 versus 3.51 on the 10 development lectures. [→ Romain Puech 2026](#romain-puech-2026)

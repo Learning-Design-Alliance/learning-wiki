@@ -1,0 +1,102 @@
+{
+  "principle": "elements/optional-quizzes-or-discussion-sections",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "classroom-quizzing-medium-effect-achievement",
+      "question": "In real courses, do quizzes raise achievement, and when, how often and with what questions should they be given?",
+      "members": [
+        [
+          "classroom-quizzing-improves-exam-performance-across-grades-and-content",
+          "+"
+        ],
+        [
+          "postclass-quizzes-and-longer-duration-larger-gains",
+          "~"
+        ],
+        [
+          "test-repetitions-positive-relationship-classroom",
+          "+"
+        ],
+        [
+          "classroom-pretesting-exam-gains",
+          "+"
+        ],
+        [
+          "hocs-clickers-improve-locs-exam-performance",
+          "~"
+        ],
+        [
+          "any-clicker-pattern-beats-absence-except-lowest-quartile",
+          "~"
+        ],
+        [
+          "quizizz-gamification-better-memorization",
+          "+"
+        ],
+        [
+          "testing-effect-generalizes-education-levels",
+          "+"
+        ],
+        [
+          "format-consistency-moderates-classroom-testing-effect",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "learners-underuse-effective-learning-strategies",
+      "question": "Will learners choose to retrieve on their own, and can they be taught to?",
+      "members": [
+        [
+          "learners-misjudge-effective-learning-strategies",
+          "+"
+        ],
+        [
+          "instructions-increase-self-testing-cumulative-learning",
+          "~"
+        ],
+        [
+          "instructions-promote-three-recall-criterion",
+          "~"
+        ],
+        [
+          "retrieval-instructions-improve-final-recall-exp1",
+          "~"
+        ],
+        [
+          "spontaneous-strategy-transfer-one-week-delay",
+          "~"
+        ],
+        [
+          "mixed-effects-across-experiments-criterion-failures",
+          "~"
+        ],
+        [
+          "students-report-classroom-retrieval-practice-helps-learning-and-reduces-exam-nervousness",
+          "~"
+        ],
+        [
+          "learners-misjudge-spacing-benefits",
+          "+"
+        ],
+        [
+          "underuse-stems-from-false-beliefs-and-counterintuition",
+          "+"
+        ],
+        [
+          "rereading-is-a-low-utility-study-strategy",
+          "+"
+        ],
+        [
+          "students-aware-of-strategies-but-fail-to-act",
+          "~"
+        ],
+        [
+          "instructions-increase-learning-time-allocation",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

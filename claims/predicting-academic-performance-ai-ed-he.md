@@ -41,8 +41,9 @@ Grounded coding of AI use across the 138 studies. The review reports "21 studies
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out](abc-early-warning-indicators-predict-dropout.md) — the general claim this finding bears on, with the studies behind it
 - [AI-powered predictive analytics improves academic performance by enabling early identification of at-risk students and timely intervention](ai-predictive-analytics-improves-academic-performance.md) — related
 - [Prediction algorithms forecast student achievement from small windows of data, more accurately when data are enriched with instructional design and learning-process detail](enriched-data-improve-achievement-prediction.md) — related
 - [Reviewed studies indicate AI predictive analytics can project student progress, group learners by risk, and enable early intervention](ai-predictive-analytics-early-intervention.md) — possibly the same claim (merge candidate)

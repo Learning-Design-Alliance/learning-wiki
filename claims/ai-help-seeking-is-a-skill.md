@@ -30,7 +30,7 @@ sources:
 # Effective AI help-seeking is itself a skill unevenly distributed among students, and access to an assistant is not equivalent to effective help-seeking
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 review `r2`, 1 associational `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In an ACE 2024 survey of 47 computing students with eight interviews, GenAI had not displaced traditional help resources; preferences varied with task, quality, latency, and trustworthiness. [→ Qusay H. Mahmoud 2026](#qusay-h-mahmoud-2026)
@@ -57,6 +57,20 @@ Qusay H. Mahmoud. (2026). Judgment-Centred Software Engineering Education: A Pos
 The review reports Sheese et al.'s 12-week deployment with 52 students and more than 2,500 queries: most sought immediate assignment help, fewer pursued conceptual understanding, and "students often supplied minimal contextual information".
 
 > "A complementary 12-week deployment of an LLM-powered programming assistant with 52 students captured more than 2,500 queries: most sought immediate help with programming assignments, fewer pursued broader conceptual understanding, and students often supplied minimal contextual information"
+
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do learners ask for on-demand help when they need it, and can that be taught?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **5 distinct studies** (2 associational, 2 causal, 1 review), `q2`–`q3`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Qusay H. Mahmoud 2026](https://doi.org/10.48550/arxiv.2609.29473) | q2 · review · r2 | i? | this claim |
+| [Andy Gray 2026](https://doi.org/10.48550/arxiv.2609.21600) | q2 · associational · r1 | i? | [Undergraduate computing students report help-seeking avoidance and anxiety, with 62.5% som](students-avoid-help-seeking-despite-need.md) (supports) |
+| Kai 2018 | q2 · associational · r2 | i? | [Not requesting any hints in at least one problem is related to greater wheel-spinning, con](hint-avoidance-related-greater-wheel-spinning.md) (supports) |
+| [Azimi 2026](https://doi.org/10.48550/arxiv.2609.16784) | q2 · causal · r1 | i? | [The Coach's hint budget was managed poorly: students split into early-spenders and savers,](hint-budget-mismanaged-two-patterns.md) (supports) |
+| [Hyoungwook Jin 2026](https://doi.org/10.48550/arxiv.2609.28918) | q3 · causal · r2 | i3 | [HelpCoach led to greater knowledge retention one week later than pre-task help-seeking tra](helpcoach-greater-knowledge-retention-one-week.md) (qualifies) |
+<!-- synthesis:end -->
 
 ## Discussion
 

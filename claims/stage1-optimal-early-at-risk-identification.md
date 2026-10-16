@@ -60,8 +60,9 @@ Comparison of model performance across stages on the imbalanced dataset showed S
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out](abc-early-warning-indicators-predict-dropout.md) — the general claim this finding bears on, with the studies behind it
 - [Balancing the dataset significantly improved model predictive performance but increased bias under demographic parity](data-balancing-improves-accuracy-increases-bias.md) — related
 - [Adding more learning activity data beyond Stage 1 did not significantly improve predictive performance of at-risk identification models](no-significant-performance-gain-later-stages.md) — related
 - [Removing the sensitive race feature caused little impact on predictive performance at Stage 1 and no significant fairness differences, with mixed fairness effects](removing-race-feature-little-performance-impact.md) — related

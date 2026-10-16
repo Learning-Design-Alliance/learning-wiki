@@ -43,6 +43,8 @@ Experiment 1 randomized 78 university students in a 2×2 design. Tasks taught pr
 
 ## Related Claims
 
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — the general claim this finding bears on, with the studies behind it
+
 - [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md) — the general claim this finding bears on, with the studies behind it
 
 - [Four-arm novice circuit contrast](worked-example-problem-sequences.md)

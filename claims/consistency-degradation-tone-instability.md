@@ -30,7 +30,7 @@ sources:
 # Consistency degrades under multi-strategy evaluation for all personas, driven mainly by tone instability rather than logical contradiction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Under multi-strategy evaluation, consistency scores declined to 0.614 (Healthcare Assistant), 0.667 (Customer Support Agent), and 0.638 (Financial Advisor), from baseline values above 0.80. [→ Saqib Shouqi 2026](#saqib-shouqi-2026)

@@ -39,6 +39,20 @@ The evidence summary for Recommendation 2 reports a strong evidence level "based
 
 > "based on 33 studies of the effectiveness of fluency-building activities."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does practice to build reading fluency improve fluency and comprehension for struggling readers?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **5 distinct studies** (2 review, 2 causal, 1 quant-synthesis), `q2`–`q3`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Vaughn 2022 | q3 · quant-synthesis · r3 | i? | this claim; [Fluency-building activities improve effortless reading for students in grades 4–9, with st](fluency-building-activities-strong-evidence-grades-4-9.md) (supports) |
+| [ev-1](https://doi.org/10.51388/20.500.12265/316) | q3 · review · r2 | i? | [Interventions combining repeated reading, modeled/assisted reading, and explicit feedback ](repeated-reading-modeling-feedback-outperform-control-eb-fluency.md) (supports); [The HELPS one-to-one fluency program significantly outperformed control on GORT Fluency an](helps-one-to-one-gort-fluency-comprehension-gains.md) (supports); [Two years of multicomponent fluency intervention produced greater word-reading and fluency](two-year-fluency-intervention-greater-word-reading-growth.md) (qualifies) |
+| Salarvand 2022 | q2 · review · r1 | i? | [Repeated listening improves oral reading fluency in second-grade students, with Listening ](repeated-listening-improves-oral-reading-fluency.md) (supports) |
+| What Works Clearinghouse 2014 | q3 · causal · r3 | i? | [Repeated reading shows no discernible effects on reading fluency for students with learnin](repeated-reading-no-discernible-fluency-effects.md) (counts against); [Repeated reading has potentially positive effects on reading comprehension for students wi](repeated-reading-potentially-positive-comprehension-learning-disabilities.md) (qualifies); [Repeated reading shows no discernible effects on general reading achievement for students ](repeated-reading-no-discernible-general-reading-achievement.md) (qualifies) |
+| Fluency Formula™ WWC Intervention Report 2007 | q3 · causal · r? | i? | [Fluency effects of Fluency Formula™ differ by initial ability: positive for low-ability st](fluency-formula-fluency-effects-differ-by-initial-ability.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

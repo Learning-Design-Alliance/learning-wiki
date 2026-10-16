@@ -5,6 +5,43 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-16 — citation chase, no drafts, duplicate folds, twelve learner variables, study tables for 249 pages
+
+- **Citation chase** (`chase_citations.py`): works cited by two or more of the wiki's strongest studies. 134 were
+  extracted; 83 pages were removed again: a retracted article ("RETRACTED ARTICLE: The effect of ChatGPT on
+  students' learning performance..."), methods papers (P-curves, SEM validity, crowdsourcing platforms),
+  prejudice-reduction studies, and seven fetches whose open-copy fallback returned another document (a GPT
+  preprint, 2007 NAEP results, two Spanish theses). Guards: `fetch_article.matches_title` refuses a web or
+  open-access document whose opening lacks most of its queued title's words (6 of the 7 caught, none of 127 good
+  ones refused); the chase drops retracted works and more of the methods literature; `--open-only` queues only
+  works with a legal open copy (Unpaywall), since the first run lost 369 of 500 to paywalls. A second queue of
+  258 open works (19 syntheses, 12 trials) is in `eval/runs/queues/citation-chase-oa.ndjson`.
+- **No drafts** (maintainer: "we've moved past that stage"): 24,380 pages promoted to `review`; new pages are
+  written as `review`. Lint's DOI check now covers every claim: 22 failures, of which two got Crossref-confirmed
+  DOIs, one an LPI URL, five uncited claims were removed and four principle-cited ones keep their
+  `> **Evidence quality** ·` line, which lint now accepts as a stated gap.
+- **Duplicates:** two models agreed on 53 page folds (10 strategies, 17 products, 14 elements, 11 theories, 1
+  research method) and 12 claim merges; `judge_claim_merges.py --titles` adds title near-duplicates. Slugs in
+  several folders (71) were left: they are mostly different objects of different kinds.
+- **Learner variables:** 12 new pages (race and ethnicity, English-learner status, gender, age and
+  developmental stage, self-efficacy, academic anxiety, interest, epistemic beliefs, mindset, learning-style
+  preferences, general cognitive ability, executive function), 858 links to 811 claims.
+- **Study tables:** 43 agents wrote specs for 249 canonical elements and theories, learner variables and
+  unconverted principles and patterns (`eval/synthesis/`, now 456 specs); 501 general claims carry a table of
+  the distinct studies behind them, and each page has `## The evidence by question`. Pages with no question
+  reaching two studies got none (sentence starters, learning objectives, heritage-language listening, WIL
+  talent framework, patient acceptability, self-controlled feedback, Mnemosyne logs).
+- **Counting:** a study is now one study wherever it is cited with and without its DOI
+  (`add_evidence_summary.study_groups`, 520 headers corrected) and in the tables
+  (`synthesize_claim.study_key`/`author_year`).
+- **Citations and links:** Kuhfeld et al. (2020) cited as the Educational Researcher article; nine Google Scholar
+  links replaced with verified DOIs; 429 Examples bullets linked to the page they name.
+- **For a cleanup pass** (the agents' reports, `specpass2/reports/` in the session scratch, not committed):
+  mislabelled links whose text names a different claim; claims whose slug contradicts the title
+  (`peer-assessment-structured-criteria-improve-learning`, `reflective-practice-evidence-mixed-...`); one study
+  split into many claims (Tao 1997, Gousopoulos 2026, Reddy 2016); a few `i` codes without a printed d-family
+  effect; datasets filed as elements (Mnemosyne logs, CoMTA/MathDial) that belong in products.
+
 ## 2026-10-15 — load-bearing failures triaged: 92 open to 1
 
 The judge's report after the synthesis batch listed 92 failing entries on 84 load-bearing claims. Ten agents read

@@ -30,7 +30,7 @@ sources:
 # Under the initial rubric with direct evaluation, machine raters systematically underestimate openness while relevance and clarity align near-perfectly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Openness showed the largest human–machine discrepancy under the initial rubric with direct evaluation, with positive bias indicating systematic machine underestimation and 55.7% exact agreement. [→ Pei-Yu Tseng 2026](#pei-yu-tseng-2026)

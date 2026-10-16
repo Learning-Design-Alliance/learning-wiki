@@ -13,7 +13,7 @@ generated:
 # Retrieval Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (10 for, 1 mixed) · 10 studies (5 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 8 of 10 report an effect size · 8 claims rest on one study
+> **Evidence** · 12 claims (11 for, 1 mixed) · 11 studies (5 causal, 4 quant-synthesis, 2 review), `q2`–`q4` · 9 of 11 report an effect size · 9 claims rest on one study
 
 ## Description
 Retrieval practice is the element in which learners recall information from memory rather than only re-exposing themselves to it.
@@ -47,6 +47,12 @@ Retrieval practice is the element in which learners recall information from memo
 - [Learners fail to recognize the benefits of pre-instruction testing, ranking it as least effective despite benefiting from it](../claims/metacognitive-illusion-pretesting-underrated.md) [+W]
 - [Retrieval practice instructions improved final recall of translations in Experiment 1](../claims/retrieval-instructions-improve-final-recall-exp1.md) [+W]
 - [Practice testing yields transferrable learning relative to a nontesting reexposure control condition (d = 0.40)](../claims/testing-yields-transfer-versus-reexposure-control-d-040.md) [+W]
+
+## The evidence by question
+- *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
+- *Does the benefit carry to new questions, inferences and applications, or only to the items practised?* [Retrieval Practice Improves Transfer](../claims/retrieval-practice-improves-transfer.md) [+S]
+- *How much should retrieval succeed during practice, and how much support should it get?* [Retrieval Failure Reduces Benefit](../claims/retrieval-failure-reduces-benefit.md) [+M]
+- *How many practice tests, and how should they be scheduled?* [Spaced Retrieval Improves Retention](../claims/spaced-retrieval-improves-retention.md) [+M]
 
 ## Related Elements
 - [Self-Testing](self-testing.md)

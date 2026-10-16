@@ -66,7 +66,7 @@ The report's literature review attributes this to a recent meta-analysis of "60 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does coaching teachers on their classroom practice change their observed instruction?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **8 distinct studies** (3 review, 2 causal, 1 quant-synthesis, 1 qualitative, 1 associational), `q2`–`q4`, 2 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does coaching teachers on their classroom practice change their observed instruction?* This table gathers the studies behind this claim and the 17 narrower claims that bear on it: **14 distinct studies** (4 review, 4 causal, 3 associational, 2 qualitative, 1 quant-synthesis), `q2`–`q4`, 2 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -78,6 +78,12 @@ The report's literature review attributes this to a recent meta-analysis of "60 
 | [Philip Oreopoulos 2024](https://doi.org/10.3386/w32388) | q3 · causal · r2 | i1 | [A teacher-coaching CAL program produces significant intent-to-treat gains in elementary an](cal-teacher-coaching-itt-math-gains-012-022-sd.md) (supports) |
 | District supports for teachers' standards-aligned instructional practices in the Chicago Public Schools 2015 | q2 · associational · r? | i? | [Collaboration with colleagues around instruction has consistently positive relationships w](colleague-collaboration-consistently-positive-practices.md) (supports) |
 | Tina Ehsanipour & Florencia Gomez Zaccarelli 2017 | q3 · review · r2 | i? | [Meta-analytic evidence finds large positive effects of coaching on teachers' instructional](coaching-meta-analysis-positive-effects-instruction-achievement.md) (supports) |
+| [Darling-Hammond 2026](https://doi.org/10.54300/644.197) | q2 / q3 · review · r2 | i? | [Mentoring and coaching programs are associated with stronger principal practices, higher t](principal-mentoring-coaching-improves-practice.md) (supports) |
+| Mahsa Bakhshaei 2020 | q2 · associational · r1 | i? | [Coached teachers report increases in how often students and teachers use technology, compa](coaching-increases-technology-use-frequency.md) (supports); [Coached teachers report more frequent impactful technology use practices developing studen](coaching-increases-impactful-technology-use-practices.md) (supports) |
+| Gordon 2018 | q2 · associational · r2 | i? | [Student teachers who perceived their mentors modeled effective instruction and provided co](cps-mentor-coaching-and-modeling-associated-with-preparedness-and-effectiveness.md) (supports) |
+| Steven Glazerman 2008 | q3 · causal · r? | i? | [Comprehensive teacher induction generated no significant improvements in novice teachers' ](comprehensive-induction-no-classroom-practice-gains-first-year.md) (counts against) |
+| Steven Glazerman 2009 | q3 · causal · r? | i? | [Comprehensive teacher induction generated no significant improvements in novice teachers' ](comprehensive-induction-no-classroom-practice-gains-first-year.md) (counts against) |
+| Sartain 2011 | q2 · qualitative · r2 | i? | [Principal-teacher conferences were perceived as more reflective and objective than past ev](conferences-reflective-but-coaching-skills-lacking.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

@@ -1,0 +1,90 @@
+{
+  "principle": "elements/justification-argumentation",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "argumentation-improves-reasoning",
+      "question": "Does structured argument with peers improve learners' individual argument and content learning?",
+      "members": [
+        [
+          "argumentation-prompts-scaffolds-knowledge-gains",
+          "+"
+        ],
+        [
+          "collaborative-argumentation-benefits-summary",
+          "+"
+        ],
+        [
+          "structured-discussion-methods-improve-comprehension",
+          "~"
+        ],
+        [
+          "mad-city-mystery-ar-argumentation-cases",
+          "+"
+        ],
+        [
+          "ar-game-features-scaffold-argumentation",
+          "+"
+        ],
+        [
+          "argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "genai-feedback-design-argument-quality-gain",
+      "question": "Does AI feedback or AI support improve learners' arguments and justifications, and in which designs?",
+      "members": [
+        [
+          "genai-peer-feedback-raises-argument-quality",
+          "+"
+        ],
+        [
+          "genai-peer-feedback-raises-argument-structural-complexity",
+          "+"
+        ],
+        [
+          "null-results-argument-dimensions-genai-peer-feedback",
+          "~"
+        ],
+        [
+          "argumentative-writing-gains-scaffolded-llm-assignments",
+          "+"
+        ],
+        [
+          "argument-gains-without-llm-support",
+          "~"
+        ],
+        [
+          "adaptive-feedback-improves-diagnosis-justification",
+          "+"
+        ],
+        [
+          "ai-scaffold-fading-independent-justification",
+          "+"
+        ],
+        [
+          "web-search-higher-quality-justifications-than-llm",
+          "-"
+        ],
+        [
+          "germane-load-mediates-tool-effect-on-justification-quality",
+          "~"
+        ],
+        [
+          "hybridization-of-authorship-argumentation",
+          "-"
+        ],
+        [
+          "ps-genai-pf-improves-rebuttals-and-opposing-view",
+          "+"
+        ],
+        [
+          "unstructured-llm-use-cognitive-offloading",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

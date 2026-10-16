@@ -43,6 +43,8 @@ From interviews with the study's 10 teachers about district-level supports and c
 
 ## Related Claims
 
+- [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — the general claim this finding bears on, with the studies behind it
+
 - [Mastery learning implementation did not reduce material covered or instructional pace, contradicting the Robin Hood contention](mastery-learning-did-not-slow-pace-or-scope.md) — the general claim this finding bears on, with the studies behind it
 - [Students value knowing class routines and report that rushed pacing, especially in Advanced Placement courses, is a barrier to mastering content](students-report-routines-help-and-rushed-pacing-hurts.md) — related
 - [The authors interpret the null result as partly reflecting a tension between adaptive mastery learning and curricular coverage: students who master early topics slowly may not reach later topics tested by the state assessment](adaptive-mastery-versus-coverage-tension-null-result.md) — related

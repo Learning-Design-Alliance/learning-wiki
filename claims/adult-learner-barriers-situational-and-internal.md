@@ -43,6 +43,10 @@ The first design principle, citing Darkenwald and Valentine (1985), reports that
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Dietitians' barriers and enablers to pro-environmental action fall into three themes: personal, social and professional, and contextual and environmental factors](three-themes-barriers-enablers-pro-environmental-dietitians.md) — related
 - [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](program-completion-increased-confidence-autonomy-settlement.md) — related

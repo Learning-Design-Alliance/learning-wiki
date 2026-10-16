@@ -22,7 +22,7 @@ sources:
 # Four elementary math curricula compared in the study
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (2 causal), `q2`–`q3` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 3 studies (3 causal), `q2`–`q3` · 0 of 3 report an effect size · 7 claims rest on one study
 
 ## Description
 The study compared four published elementary mathematics curricula, enumerated by the brief as "(1) Investigations in Number, Data, and Space; (2) Math Expressions; (3) Saxon Math; and (4) Scott Foresman-Addison Wesley Mathematics". These four curricula constitute the treatments whose effects on grade 1-2 achievement the evaluation estimated over two years. The brief identifies them as the complete set of curricula under study.

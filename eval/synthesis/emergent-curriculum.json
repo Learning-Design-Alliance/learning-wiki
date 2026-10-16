@@ -7,11 +7,35 @@
       "question": "Does seeing a task as interesting, important or useful raise the effort learners invest in it?",
       "members": [
         [
-          "effort-requires-task-value-and-expectation-of-success-arcs-rationale",
+          "interest-autonomy-purpose-boost-motivation",
           "+"
         ],
         [
           "sdt-path-strengths-effort",
+          "+"
+        ],
+        [
+          "actual-genai-use-tied-to-interest-and-usefulness",
+          "+"
+        ],
+        [
+          "germane-cognitive-load-correlates-positively-with-interest",
+          "+"
+        ],
+        [
+          "interest-alignment-vs-economic-motivations-persistence",
+          "~"
+        ],
+        [
+          "cognitive-ability-predicts-secondary-gpa-more-than-curiosity",
+          "~"
+        ],
+        [
+          "no-significant-predictors-tertiary-gpa",
+          "~"
+        ],
+        [
+          "effort-requires-task-value-and-expectation-of-success-arcs-rationale",
           "+"
         ],
         [
@@ -21,6 +45,18 @@
         [
           "choice-rich-infrastructure-supports-productive-deviation-and-learning",
           "+"
+        ],
+        [
+          "collective-ai-intervention-improves-relevance-identification-math",
+          "+"
+        ],
+        [
+          "ai-relevance-intervention-no-interest-effect",
+          "~"
+        ],
+        [
+          "usf-chemistry-mindset-utility-value-mixed-subgroup-effects",
+          "~"
         ]
       ]
     },
@@ -33,12 +69,8 @@
           "+"
         ],
         [
-          "age-moderates-discovery-effects",
-          "~"
-        ],
-        [
-          "guidance-advantage-recedes-with-high-prior-knowledge",
-          "~"
+          "guided-discovery-outperformed-both-extremes",
+          "+"
         ],
         [
           "minimal-guidance-inquiry-inferior-explicit-instruction",
@@ -49,8 +81,44 @@
           "+"
         ],
         [
-          "guided-discovery-outperformed-both-extremes",
+          "minimally-guided-instruction-less-effective-than-strong-guidance",
           "+"
+        ],
+        [
+          "minimally-guided-approaches-ignore-cognitive-architecture",
+          "+"
+        ],
+        [
+          "contingent-scaffolding-improves-learning",
+          "+"
+        ],
+        [
+          "taiwan-constructivist-math-reform-stopped-2003",
+          "+"
+        ],
+        [
+          "age-moderates-discovery-effects",
+          "~"
+        ],
+        [
+          "domain-moderates-unassisted-discovery-deficit",
+          "~"
+        ],
+        [
+          "dependent-measure-moderates-discovery-effects",
+          "~"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "~"
+        ],
+        [
+          "expertise-reversal-effect",
+          "~"
+        ],
+        [
+          "balance-active-learning-independent-practice-gateway-math",
+          "~"
         ],
         [
           "project-based-context-highest-scaffolding-effect",
@@ -69,36 +137,12 @@
           "~"
         ],
         [
-          "balance-active-learning-independent-practice-gateway-math",
-          "~"
-        ],
-        [
-          "minimally-guided-instruction-less-effective-than-strong-guidance",
-          "+"
-        ],
-        [
-          "minimally-guided-approaches-ignore-cognitive-architecture",
-          "+"
-        ],
-        [
           "worked-examples-reduce-novice-search",
-          "+"
-        ],
-        [
-          "contingent-scaffolding-improves-learning",
           "+"
         ],
         [
           "recent-design-models-support-guidance-during-instruction",
           "+"
-        ],
-        [
-          "domain-moderates-unassisted-discovery-deficit",
-          "~"
-        ],
-        [
-          "dependent-measure-moderates-discovery-effects",
-          "~"
         ],
         [
           "explicit-instruction-context-dependent-synthesis",
@@ -117,10 +161,6 @@
           "~"
         ],
         [
-          "expertise-reversal-effect",
-          "~"
-        ],
-        [
           "koku-qualitative-acceptability-themes",
           "+"
         ],
@@ -131,6 +171,34 @@
         [
           "community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object",
           "+"
+        ],
+        [
+          "worked-examples-with-practice-improve-transfer",
+          "+"
+        ],
+        [
+          "worked-examples-less-effective-with-expertise",
+          "~"
+        ],
+        [
+          "oet-outperforms-stt-ai-literacy-performance",
+          "~"
+        ],
+        [
+          "psi-effect-increases-with-grade-level",
+          "~"
+        ],
+        [
+          "simulation-guidance-moderate-effect-dangelo",
+          "+"
+        ],
+        [
+          "worked-example-problem-sequences",
+          "+"
+        ],
+        [
+          "agent-enacted-conflict-shifts-design-thinking",
+          "-"
         ]
       ]
     }

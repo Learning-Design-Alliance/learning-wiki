@@ -41,8 +41,9 @@ Bootstrapped path coefficient from the PLS-SEM structural model (Table 6). The S
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — the general claim this finding bears on, with the studies behind it
 - [The effects of thoughtless GenAI use on motivation, self-efficacy, and self-directed learning differ significantly by gender](gender-moderates-tuga-effects.md) — related
 - [Self-efficacy and motivation partially mediate the negative relationship between thoughtless GenAI use and self-directed learning, including a sequential SE→MOV pathway](se-mov-partial-mediation-tuga-sdl.md) — related
 - [Self-efficacy and motivation positively predict self-directed learning, with motivation the strongest direct predictor](se-mov-positive-predict-sdl.md) — related

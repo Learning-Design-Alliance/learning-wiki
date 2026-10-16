@@ -13,7 +13,7 @@ generated:
 # Transfer Tasks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (5 for, 3 mixed, 1 against) · 12 studies (6 causal, 2 quant-synthesis, 1 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 2 of 12 report an effect size · 5 claims rest on one study
+> **Evidence** · 11 claims (6 for, 4 mixed, 1 against) · 14 studies (6 causal, 3 quant-synthesis, 2 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 3 of 14 report an effect size · 7 claims rest on one study
 
 ## Description
 A transfer task asks learners to apply what they have learned to a new problem, context, or situation that differs in surface features from the original instruction. It functions both as an assessment of whether learning is flexible rather than rote and as an instructional event that itself deepens abstraction of the underlying principle.
@@ -58,6 +58,11 @@ Transfer tasks are the primary way to verify and build far transfer, since perfo
 - [Transfer task performance is the critical measure of what adaptive training accomplishes](../claims/transfer-task-measures-adaptive-training-effectiveness.md) [+W]
 - [Teachers designed tasks with dilemmas, unfamiliar scenarios, and differentiation intended to support transfer, without assessing capability](../claims/capability-oriented-design-dimension.md) [~W]
 - [Proposition 4: evidence gathered through distinct demands supports capability claims better than multiple records of the same performance](../claims/proposition-4-distinct-evidence-demands.md) [~W]
+
+## The evidence by question
+
+- *Does learning across varied contexts or varied tasks of a type, rather than repeating one, produce transfer to new cases?* [Encoding variability across varied example contexts produces decontextualization supporting transfer (review reports DiVesta and Peverly)](../claims/encoding-variability-decontextualization-transfer.md) [+M]
+- *Does instruction that raises near transfer also raise far transfer to a different domain or form?* [Learning techniques have much smaller effects on deep learning and far transfer than on surface learning and near transfer](../claims/learning-techniques-smaller-effects-on-deep-learning-and-far-transfer.md) [~M]
 
 ## Related Elements
 - [Practice](practice.md) — transfer tasks are the most demanding form of practice; they follow, not replace, skill-building practice

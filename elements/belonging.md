@@ -17,7 +17,7 @@ sources:
 # Belonging
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (8 for, 1 mixed) · 12 studies (3 qualitative, 3 theoretical, 2 causal, 2 review, 1 quant-synthesis, 1 design), `q1`–`q4` · 1 of 12 report an effect size · 7 claims rest on one study
+> **Evidence** · 11 claims (10 for, 1 mixed) · 14 studies (3 review, 3 qualitative, 3 theoretical, 2 causal, 2 quant-synthesis, 1 design), `q1`–`q4` · 1 of 14 report an effect size · 9 claims rest on one study
 
 ## Description
 Belonging is a learner's subjective sense of being a valued member of a learning community — accepted by peers and instructors, and confident that they fit there. It is not an activity but a psychological state that instructional designs can foster or undermine. Because belonging shapes persistence, engagement, and interpretation of difficulty, it functions as a motivational foundation on which other elements depend.
@@ -69,6 +69,11 @@ Belonging uncertainty — doubt about whether one fits in a setting — dispropo
 - Inclusion Alone Cannot Bring Substantial Change [+M]
 - [Inclusion of students with disabilities often falls short because efforts start from a place of exclusion, making students guests who must earn access](../claims/disability-inclusion-starts-from-exclusion.md) [+W]
 - [Subgroup score differences largely reflect differing opportunities to learn, not inherent group traits](../claims/subgroup-differences-reflect-opportunities-to-learn.md) [~W]
+
+## The evidence by question
+- *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]
+- *Does a learner's sense of belonging predict motivation, engagement, persistence and achievement?* [Belongingness is among the factors that most strongly and reliably affect learners' academic motivation and achievement](../claims/belongingness-strongly-affects-motivation-achievement.md) [+M]
+- *What in a school or course goes with a stronger sense of belonging?* [Teacher support is the strongest predictor of school belonging](../claims/teacher-support-strongest-predictor-school-belonging.md) [+M]
 
 ## Related Elements
 - [Check-In](check-in.md) — routine social-emotional temperature-taking that surfaces belonging problems early

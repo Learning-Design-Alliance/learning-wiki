@@ -60,10 +60,13 @@ Per-indicator comparison plotted in Figure 4 (evaluation, monitoring, planning, 
 
 ## Discussion
 
-
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
+
+- [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [The TEFA-T model produces significantly higher learning achievement than teacher-based instruction in automotive vocational courses](tefa-t-higher-achievement-than-teacher-based.md) — related
 - [The TEFA-T model improves students' critical thinking skills on all measured indicators compared with conventional instruction](tefa-t-improves-critical-thinking-skills.md) — related

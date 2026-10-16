@@ -13,7 +13,7 @@ generated:
 # Information Literacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (2 for, 2 mixed, 1 against) · 7 studies (3 causal, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 1 of 7 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (2 for, 3 mixed, 1 against) · 8 studies (4 causal, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 1 of 8 report an effect size · 5 claims rest on one study
 
 ## Description
 Information literacy is the element in which learners identify information needs, locate sources, evaluate credibility, and use information responsibly. It is useful when tasks require judgment about evidence rather than mere retrieval.
@@ -42,6 +42,10 @@ Information literacy is the element in which learners identify information needs
 - [Automation bias toward fluent LLM output surrenders learners' epistemic agency](../claims/automation-bias-surrenders-epistemic-agency.md) [~W]
 - [Technology anxiety's positive association with AI literacy is confined to critical evaluation and ethical competence and absent from the three performance-oriented subdimensions](../claims/anxiety-effect-localized-to-evaluative-subdimensions.md) [~W]
 - [Students exhibited high trust in GenAI but limited critical evaluation of its outputs](../claims/high-trust-limited-critical-evaluation-genai.md) [-W]
+
+## The evidence by question
+- *Does teaching learners how to check a source improve their judgments of unfamiliar sources, and how much can one session do?* [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]
+- *Do learners check information from a generative AI the way they check sources found by search?* [ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users](../claims/chatgpt-reduced-differentiation-verification.md) [~M]
 
 ## Related Elements
 - [Resource Evaluation](resource-evaluation.md)

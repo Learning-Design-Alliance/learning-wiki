@@ -26,7 +26,7 @@ Page counts are regenerated with every index rebuild.
 | [Design Methods](methods/) | 38 | The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom. |
 | [Research Methods](research-methods/) | 449 | Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed. |
 | [Theories](theories/) | 1,361 | Explanatory frameworks that ground principles and claims. |
-| [Learner Variables](learner-variables/) | 14 | Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags. |
+| [Learner Variables](learner-variables/) | 26 | Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags. |
 | [Claims](claims/) | 15,844 | Empirical claims with evidence ratings, sources, and competing views. |
 
 <!-- page-counts:end -->

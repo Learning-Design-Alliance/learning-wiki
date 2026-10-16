@@ -59,6 +59,21 @@ Theoretical argument in the same section, offered as an example with no data: th
 
 > "teachers' past experiences, knowledge and skills in using technology, professional development opportunities, and a supportive school environment can shape their expectations about using AI technologies."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do teachers who are more confident they can use AI well (expectancy) hold more favourable attitudes towards it and use it more?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **6 distinct studies** (4 associational, 1 theoretical, 1 review), `q1`–`q3`, 1 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Yurt 2024 | q1 · theoretical · r2 | i? | this claim |
+| [mmr-model2](https://doi.org/10.1145/3761843.3761881) | q2 · associational · r2 | i? | [Teacher confidence strongly predicts favorable attitudes toward AI adoption, while the dir](confidence-predicts-ai-attitudes-support-direct-effect-null.md) (supports); [Teacher confidence fully mediates the relationship between institutional support and attit](confidence-fully-mediate-support-attitude-relationship.md) (supports); [Institutional support significantly and positively predicts teacher confidence in adopting](institutional-support-predicts-teacher-ai-confidence.md) (qualifies) |
+| [Guillén-Gámez 2026](https://doi.org/10.1007/s11423-026-10647-6) | q2 · associational · r2 | i3 | [Teacher self-efficacy significantly predicts perceived usefulness and perceived ease of us](self-efficacy-predicts-usefulness-ease-genai.md) (supports); [Teacher self-efficacy has its largest effect on perceived enjoyment of GenAI tools](self-efficacy-drives-perceived-enjoyment-genai.md) (supports) |
+| [Feng 2026](https://doi.org/10.1016/j.chbah.2026.100402) | q2 · associational · r2 | i? | [Pedagogical AI competence is positively associated with teachers' AI use](pedagogical-ai-competence-associated-with-ai-use.md) (supports) |
+| [Gerasimos Kalogeratos 2026](https://doi.org/10.62225/2583049x.2026.6.3.6209) | q2 · review · r? | i? | [Teachers' digital competence is a critical factor influencing both AI tool adoption and it](teacher-digital-competence-critical-ai-adoption.md) (supports) |
+| [Riandi Riandi 2026](https://doi.org/10.1038/s41598-025-34422-4) | q3 · associational · r1 | i? | [AI knowledge and attitudes toward AI did not significantly predict teachers' AI integratio](ai-knowledge-attitudes-not-significant-predictors.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

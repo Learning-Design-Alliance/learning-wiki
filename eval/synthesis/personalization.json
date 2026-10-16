@@ -7,11 +7,11 @@
       "question": "Does setting problems in contexts drawn from learners' interests raise engagement and performance?",
       "members": [
         [
-          "personalization-improves-hard-kc-accuracy-algebra-its",
+          "personalization-improves-easy-kc-accuracy-algebra-its",
           "+"
         ],
         [
-          "personalization-improves-easy-kc-accuracy-algebra-its",
+          "personalization-improves-hard-kc-accuracy-algebra-its",
           "+"
         ],
         [
@@ -27,20 +27,52 @@
           "~"
         ],
         [
-          "personalized-analogies-more-engaging-memorable",
-          "+"
-        ],
-        [
           "localized-names-personalization-subgroup-performance",
           "~"
+        ],
+        [
+          "personalized-analogies-more-engaging-memorable",
+          "+"
         ],
         [
           "students-report-topic-mismatch-interests",
           "~"
         ],
         [
+          "students-critique-grain-size-personalization-resistance",
+          "~"
+        ],
+        [
           "ai-relevance-intervention-no-interest-effect",
           "-"
+        ],
+        [
+          "life-science-examples-increase-interest-and-relevance",
+          "+"
+        ],
+        [
+          "collective-ai-intervention-improves-relevance-identification-math",
+          "+"
+        ],
+        [
+          "individual-ai-condition-no-significant-relevance-effect",
+          "~"
+        ],
+        [
+          "irrelevant-story-larger-effects-than-relevant",
+          "-"
+        ],
+        [
+          "employer-relevant-training-improves-adult-outcomes",
+          "+"
+        ],
+        [
+          "students-want-curricular-relevance-and-life-skills",
+          "+"
+        ],
+        [
+          "low-motivation-formulaic-writing",
+          "+"
         ]
       ]
     },

@@ -30,7 +30,7 @@ sources:
 # Multimodal input consistently improves accuracy but not F1, model size correlates moderately with performance, and reasoning models show mixed results
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 associational `r1`, 1 design `r2` · `q2` · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i?` Image-input models consistently outperformed their text-only counterparts in accuracy, but F1 improvements were inconsistent. [→ Yoonsu Kim 2026](#yoonsu-kim-2026)

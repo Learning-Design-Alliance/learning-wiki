@@ -1,0 +1,98 @@
+{
+  "principle": "theories/problem-solving-followed-by-instruction",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "productive-failure-improves-conceptual-learning",
+      "question": "Should learners attempt a problem before the idea is taught, and what must the teaching afterwards do?",
+      "members": [
+        [
+          "invention-tasks-prepare-future-learning",
+          "+"
+        ],
+        [
+          "ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions",
+          "~"
+        ],
+        [
+          "domain-general-skills-favor-ips",
+          "~"
+        ],
+        [
+          "initial-guidance-does-not-improve-learning-from-instruction",
+          "+"
+        ],
+        [
+          "publication-bias-corrected-psi-effect-strong",
+          "+"
+        ],
+        [
+          "psi-procedural-knowledge-null-pooled-effect",
+          "~"
+        ],
+        [
+          "psi-effect-increases-with-grade-level",
+          "~"
+        ],
+        [
+          "pf-fidelity-predicts-psi-effect-size",
+          "~"
+        ],
+        [
+          "psi-fidelity-time-span-interaction",
+          "~"
+        ],
+        [
+          "worked-example-problem-sequences",
+          "~"
+        ],
+        [
+          "identical-example-problem-order-advantage-not-detected-at-final-test",
+          "~"
+        ],
+        [
+          "pf-outperformed-lp-fcps-post-test-problems",
+          "+"
+        ],
+        [
+          "fcps-lp-difference-not-significant",
+          "~"
+        ],
+        [
+          "pf-greater-representation-flexibility-graphical",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "pf-fidelity-predicts-psi-effect-size",
+      "question": "Which features of the attempt and of the instruction after it, and how much time, go with a larger advantage for attempting first?",
+      "members": [
+        [
+          "ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions",
+          "+"
+        ],
+        [
+          "initial-guidance-does-not-improve-learning-from-instruction",
+          "~"
+        ],
+        [
+          "psi-fidelity-time-span-interaction",
+          "~"
+        ],
+        [
+          "emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently",
+          "~"
+        ],
+        [
+          "failure-and-success-scaffolding-similar-posttest-conceptual-understanding",
+          "~"
+        ],
+        [
+          "failure-driven-scaffolding-higher-quality-constructive-reasoning",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

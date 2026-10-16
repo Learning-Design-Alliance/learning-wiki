@@ -43,6 +43,9 @@ The essay attributes to Knowles (1998, p. 66) the point that adult learner group
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Different types of handwriting interventions produce equivalent gains in handwriting legibility and fluency](handwriting-intervention-type-equivalence.md) — related
 - [Individually analyzed method and approach studies show widely varying effects, with analogy-enhanced teaching rated most effective and two studies insignificant](method-approach-effect-sizes-vary-analogy-largest.md) — related

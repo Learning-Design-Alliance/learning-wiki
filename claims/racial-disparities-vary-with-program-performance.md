@@ -42,6 +42,9 @@ Subset analysis of program completers whose records could be linked to demograph
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Elementary candidates have lower TPA passing rates than secondary and special education candidates, possibly due to added assessment complexity](elementary-candidates-lower-tpa-passing-rates.md) — related
 - [African American and Latinx teacher candidates fail state certification assessments (Praxis I and II) at much higher rates than white candidates, while performance assessments show smaller disparities.](certification-test-racial-disparities.md) — related

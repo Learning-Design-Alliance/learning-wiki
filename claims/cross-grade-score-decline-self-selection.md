@@ -42,5 +42,8 @@ Descriptive analysis of summary statistics (Table 3.1) for the norming sample of
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Cross-grade score patterns show self-selection: lower-grade students taking a course-specific test tend to outperform students at the grade the course targets, and upper-grade students tend to underperform them.](course-specific-norms-cross-grade-self-selection.md) — possibly the same claim (merge candidate)

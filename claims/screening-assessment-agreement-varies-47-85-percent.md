@@ -41,8 +41,9 @@ Analysis of 2023/24 screening records, in which about 3 to 4 percent of students
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Literacy screener benchmarks predict which grade 3 students will not meet MCAS ELA expectations, but not necessarily who will meet them](screeners-predict-mcas-failure-not-success.md) — the general claim this finding bears on, with the studies behind it
 - [Agreement between screening assessments on which students are at risk varies from 47 to 85 percent depending on assessment combination](massachusetts-screener-agreement-rates-vary-47-85.md) — possibly the same claim (merge candidate)
 - [MAP Reading Fluency SWCPM scores classify students into ARM proficiency categories with exact match rates of 74.6–90.8%, kappa 0.60–0.85, and overall accuracy 0.81–0.96](swcpm-classification-accuracy-arm-proficiency.md) — related
 - [The predictive value of grade 3 screening benchmarks for MCAS ELA proficiency varies widely: 15 to 69 percent of students classified as on track did not reach MCAS proficiency, and students flagged at risk rarely met proficiency](screening-predictive-value-varies-15-69-percent.md) — related

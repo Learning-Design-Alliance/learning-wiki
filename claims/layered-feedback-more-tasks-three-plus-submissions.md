@@ -41,11 +41,12 @@ Behavioral log analysis during learning-by-doing in the randomized experiment; t
 
 ## Discussion
 
-
 ## Learner Variables
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve](probing-feedback-revise-resubmit-evidence.md) — the general claim this finding bears on, with the studies behind it
 - [Feedback type shifts engagement by question type: educator feedback yields more MCQ submissions while AI feedback trends toward more open-ended revisions, with no overall difference](feedback-type-shifts-engagement-by-question-type.md) — related
 - [A negative behavioral path through frequent resubmissions counteracted the affective benefit of layered feedback](negative-behavioral-path-submissions-mediation.md) — a narrower finding that bears on this claim
 - [The total effect of layered feedback on learning outcomes was significantly negative, with an unmediated negative direct effect](layered-feedback-negative-total-effect.md) — related

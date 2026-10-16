@@ -39,10 +39,29 @@ The expert panel's synthesis statement in Recommendation 1, grounded in the pane
 
 > "Three key indicators—(1) attendance, (2) behavior, and (3) course performance—are reliable predictors of which students are at risk for dropping out."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Can models built from attendance, grades and interaction data tell which learners are at risk, early enough to act, and do they hold up in a new term or institution?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **9 distinct studies** (4 associational, 3 design, 1 review, 1 quant-synthesis), `q2`, 1 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Rumberger 2017 | q2 · review · r3 | i? | this claim |
+| [Wei Dai 2025](https://doi.org/10.18608/jla.2025.8735) | q2 · design · r2 | i?; i3 | [Predictive models trained on one semester's offering of a course identified at-risk studen](cross-semester-at-risk-prediction-high-accuracy.md) (supports); [Random-forest models trained on a prior semester showed significantly lower AUC when teste](cross-semester-auc-decline-without-retraining.md) (qualifies) |
+| [Alice Xu 2026](https://doi.org/10.18608/jla.2026.9099) | q2 · design · r2 | i? | [Predictive models built in a modelable ecosystem generalize across institutions](cross-institutional-generalizability-coursekata-models.md) (supports); [Behavioral-only metrics from an instrumented online textbook support early prediction of f](behavioral-only-early-prediction-flipped-statistics.md) (supports) |
+| Gwynne 2024 | q2 · associational · r2 | i? | [Attendance and online platform participation remained predictive of students' course grade](attendance-predictive-of-grades-remote-learning.md) (supports) |
+| Lindsay Cattell 2021 | q2 · associational · r? | i? | [A prior performance early warning system and a machine learning algorithm with same-percen](prior-performance-ews-similarly-accurate-same-percentage-cutoffs.md) (supports) |
+| [Alison Cheng 2025](https://doi.org/10.18608/jla.2025.8761) | q2 · design · r2 | i? | [Stage 1 (after the first unit review assignment) is the optimal point for identifying at-r](stage1-optimal-early-at-risk-identification.md) (supports) |
+| [Vincent Zhang 2025](https://doi.org/10.1007/s40593-025-00510-9) | q2 · associational · r2 | i? | [The approach offers a large real-time intervention window, with a median of 176.2-196.1 ho](large-prediction-window-real-time-intervention.md) (supports); [Exploratory heat maps reveal three student groups, including disengaged-but-successful stu](interaction-patterns-three-student-groups-heatmaps.md) (qualifies) |
+| [Shihao Wang 2026](https://doi.org/10.48550/arxiv.2609.29874) | q2 · associational · r2 | i? | [Secondary outcomes differed in predictability: near-term related-task performance was hard](secondary-outcomes-varied-predictability.md) (qualifies) |
+| [Crompton 2023](https://doi.org/10.1186/s41239-023-00392-8) | q2 · quant-synthesis · r2 | i? | [Predicting student outcomes was a common AIEd use in higher education, with ten studies pr](predicting-academic-performance-ai-ed-he.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
-
 ## Related Claims
+
+- [Low attendance is linked with lower academic skills, grades, and high school graduation, and high attendance with higher ones](attendance-linked-academic-skills-grades-graduation.md) — the general claim this finding bears on, with the studies behind it
 - In descriptive logit models, demographic variables predict dropout at enrollment (e.g., males have a 60% higher chance of dropping out than females), but most lose significance once first-semester performance data is controlled — related
 - [Students show signs of dropout risk early in high school, and schools that reach out in the ninth-grade year can keep them on track to graduate](ninth-grade-early-outreach-keeps-students-on-track.md) — related
 - [Freshman on-track status is an early indicator correlated with later graduation, and being off track correlates with dropping out](on-track-early-indicator-graduation.md) — related

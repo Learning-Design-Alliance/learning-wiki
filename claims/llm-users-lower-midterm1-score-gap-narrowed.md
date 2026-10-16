@@ -30,7 +30,7 @@ sources:
 # Students who used LLMs on assignments scored significantly lower than non-users on the first midterm (large effect size), but this gap narrowed and was non-significant on the later midterms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q2` · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` No-LLM students significantly outperformed LLM users on Midterm 1 with a large effect size; the difference decreased across the subsequent two midterms, and LLM users improved by about 10% from first to last midterm. [→ Minju Park 2026](#minju-park-2026)
@@ -60,8 +60,9 @@ Follow-up comparison across the three midterms in the same course dataset. The g
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Students received significantly higher homework scores during GenAI-evaluation periods, but this advantage did not transfer to downstream exams](genai-homework-advantage-no-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Midterm self-efficacy (comfort and confidence) did not differ between conditions after three assignments, though both varied significantly across algorithmic topics](genai-condition-no-self-efficacy-difference.md) — related
 - [Learning-by-teaching an LLM improved assignment and project performance versus historical cohorts, but not exam performance, in an undergraduate CS course](learning-by-teaching-llm-improves-assignments-projects.md) — related
 - [Students whose LLM use was mostly student-driven support scored higher on Midterm 1 than LLM-driven users (about 10%), but the two groups converged on later midterms](student-driven-support-better-early-midterms.md) — related

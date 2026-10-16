@@ -41,8 +41,9 @@ From the interview analysis in the Results and discussion section: some particip
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Educators report ASR features can be inaccurate for learners' diverse accents, dialects, and speech patterns](asr-inaccuracy-diverse-accents.md) — the general claim this finding bears on, with the studies behind it
 - [Through Chapelle's CALL evaluation criteria, participants experienced ASR writing as useful, authentic, meaning-focused, and matched to their proficiency level](chapelle-criteria-asr-writing-affordances.md) — reports the opposite
 - [Adult ESL learners report above-neutral perceptions of ASR as a writing tool on usefulness, ease of use, and intention to use](esl-learners-positive-perceptions-asr-writing.md) — related
 - [Interviews reveal ESL learners valued ASR for bypassing orthography and grammar concerns, pronunciation practice, self-efficacy, and user-friendly voice commands](interviews-asr-ease-and-speaking-benefits.md) — related

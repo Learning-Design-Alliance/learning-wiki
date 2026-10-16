@@ -30,7 +30,7 @@ sources:
 # LLM usage varied across assignments and tasks, increasing for later assignments (especially discussion points), while Low-Reliance students concentrated use early and reduced it after Midterm 2
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` LLM usage increased for later assignments, particularly discussion points, suggesting students grew more comfortable integrating LLMs into their workflow. [→ Minju Park 2026](#minju-park-2026)

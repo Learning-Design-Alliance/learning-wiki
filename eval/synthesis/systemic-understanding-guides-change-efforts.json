@@ -2,23 +2,117 @@
   "principle": "principles/systemic-understanding-guides-change-efforts",
   "note": "Wave 9 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries, each claim read in full. All members are q1-q3 single-source claims; none tests a systemic plan against a non-systemic one.",
   "findings": [
-    {"hub": "isolated-innovations-are-rejected-by-the-system-they-enter",
-     "question": "Does an innovation's adoption and effect depend on the rest of the system it enters, beyond the innovation itself?",
-     "members": [
-       ["tool-effectiveness-depends-on-context-configuration", "+"],
-       ["adaptive-shift-precedes-technical-restorative-success", "+"],
-       ["relational-elements-precede-technical-restorative-results", "+"],
-       ["inquiry-environments-ambitious-systems-hard-to-scale", "+"],
-       ["reform-progress-depends-on-teacher-and-school-capacity", "+"],
-       ["instruction-delivery-depends-on-school-context", "+"],
-       ["digital-education-innovation-four-dimension-interplay", "+"]]},
-    {"hub": "magic-bullet-risk-selection-without-needs-assessment",
-     "question": "Does choosing an innovation with good average evidence secure results locally, or do implementation and support decide them?",
-     "members": [
-       ["educator-buy-in-engagement-fidelity-edtech-pilots", "+"],
-       ["follow-up-contact-strongest-adoption-success-factor", "+"],
-       ["compact-activities-small-scale-improvements-not-systemic-change", "~"],
-       ["ci-compliance-activity-undermines-equity", "~"],
-       ["pbis-later-implementers-greatest-gains", "~"]]}
+    {
+      "hub": "isolated-innovations-are-rejected-by-the-system-they-enter",
+      "question": "Does an innovation's adoption and effect depend on the rest of the system it enters, beyond the innovation itself?",
+      "members": [
+        [
+          "resolving-participation-double-bind-requires-redesigned-activity-structures",
+          "+"
+        ],
+        [
+          "learning-space-redesign-alone-insufficient",
+          "+"
+        ],
+        [
+          "tool-effectiveness-depends-on-context-configuration",
+          "+"
+        ],
+        [
+          "type2-contradictions-thwart-sdt-needs",
+          "+"
+        ],
+        [
+          "sdt-driven-redesign-capacity-willingness-gains",
+          "+"
+        ],
+        [
+          "compact-activities-small-scale-improvements-not-systemic-change",
+          "+"
+        ],
+        [
+          "tool-change-most-disruption-online-teaching",
+          "~"
+        ],
+        [
+          "innovation-attributes-drive-intention-and-adoption",
+          "+"
+        ],
+        [
+          "compatibility-relative-advantage-enhance-innovation-attributes",
+          "+"
+        ],
+        [
+          "inclusive-innovation-sustainability-factors",
+          "+"
+        ],
+        [
+          "committee-structure-sustains-change-despite-turnover",
+          "+"
+        ],
+        [
+          "inclusive-innovation-implementation-barriers",
+          "~"
+        ],
+        [
+          "follow-up-contact-strongest-adoption-success-factor",
+          "~"
+        ],
+        [
+          "aida-induction-pilot-then-stalled-upscaling",
+          "~"
+        ],
+        [
+          "adaptive-shift-precedes-technical-restorative-success",
+          "+"
+        ],
+        [
+          "relational-elements-precede-technical-restorative-results",
+          "+"
+        ],
+        [
+          "inquiry-environments-ambitious-systems-hard-to-scale",
+          "+"
+        ],
+        [
+          "reform-progress-depends-on-teacher-and-school-capacity",
+          "+"
+        ],
+        [
+          "instruction-delivery-depends-on-school-context",
+          "+"
+        ],
+        [
+          "digital-education-innovation-four-dimension-interplay",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "magic-bullet-risk-selection-without-needs-assessment",
+      "question": "Does choosing an innovation with good average evidence secure results locally, or do implementation and support decide them?",
+      "members": [
+        [
+          "educator-buy-in-engagement-fidelity-edtech-pilots",
+          "+"
+        ],
+        [
+          "follow-up-contact-strongest-adoption-success-factor",
+          "+"
+        ],
+        [
+          "compact-activities-small-scale-improvements-not-systemic-change",
+          "~"
+        ],
+        [
+          "ci-compliance-activity-undermines-equity",
+          "~"
+        ],
+        [
+          "pbis-later-implementers-greatest-gains",
+          "~"
+        ]
+      ]
+    }
   ]
 }

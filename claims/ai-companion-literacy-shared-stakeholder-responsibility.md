@@ -30,7 +30,7 @@ sources:
 # Teachers envision AI companion literacy as shared work across stakeholders, starting early and spiraling across grade levels, but disagree on which level owns it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Nearly every teacher named several parties beyond teachers and assigned each a distinct part, with counselors handling relational depth, parents informed and equipped, platforms making concerning patterns visible, and policymakers supplying protocols and training. [→ Qing Xiao 2026](#qing-xiao-2026)

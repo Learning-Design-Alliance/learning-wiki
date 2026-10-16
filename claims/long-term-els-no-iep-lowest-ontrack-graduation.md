@@ -41,8 +41,9 @@ Descriptive analysis of CPS cohorts. This group (4% of ninth-graders) had the lo
 
 ## Discussion
 
-
 ## Related Claims
+
+- [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](el-lag-limited-academic-content-exposure.md) — the general claim this finding bears on, with the studies behind it
 - [Long-term and late-arriving English Learners were considerably less likely to enroll in four-year colleges than their peers](active-els-underrepresented-four-year-colleges.md) — related
 - [Former English Learners had higher Freshman OnTrack and graduation rates than the district average in Chicago Public Schools](former-els-outperform-district-average-high-school.md) — related
 - [Long-term English Learners with IEPs were on-track in ninth grade at near district-average rates but graduated at substantially lower rates, similar to non-English Learners with IEPs](long-term-els-ieps-ontrack-then-fall-behind.md) — related

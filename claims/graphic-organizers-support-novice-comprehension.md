@@ -64,7 +64,7 @@ A random-effects meta-analysis of 142 independent effect sizes on learning with 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does studying a provided organizer improve comprehension and retention over the text alone, and for whom?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **6 distinct studies** (4 causal, 2 quant-synthesis), `q1`–`q4`, 3 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does studying a provided organizer improve comprehension and retention over the text alone, and for whom?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **9 distinct studies** (4 quant-synthesis, 4 causal, 1 review), `q1`–`q4`, 4 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -74,6 +74,9 @@ A random-effects meta-analysis of 142 independent effect sizes on learning with 
 | [Boulineau et al. 2004](https://doi.org/10.2307/1593645) | q1 · causal · r1 | i? | [Story Mapping Improves Comprehension](story-mapping-improves-comprehension.md) (supports) |
 | [Schnotz & Baadte 2015](https://doi.org/10.3758/s13421-014-0490-2) | q3 · causal · r? | i2 · medium effect on schema-interference contrasts, d=0.51–0.54; smaller format-match interaction, η²=.03–.04 | [Recall from bar graphs is more accurate when the recall format matches the studied graph f](mismatched-graphic-organizers-increase-extraneous-load.md) (qualifies) |
 | Eylon 1979 | q2 · causal · r2 | i? | [A hierarchical organization facilitates tasks only when matched to the task domain: organi](organization-task-match-determines-benefit.md) (qualifies) |
+| [Luiten et al. 1980](https://doi.org/10.3102/00028312017002211) | q3 · quant-synthesis · r? | i1 · small effect, mean ES=0.21 on learning | [Advance organizers produce a small average learning benefit, larger for high-ability than ](advance-organizers-improve-learning.md) (qualifies) |
+| [Stone 1983](https://doi.org/10.1080/00220973.1983.11011862) | q3 · quant-synthesis · r? | i? | [Advance organizers produce a small average learning benefit, larger for high-ability than ](advance-organizers-improve-learning.md) (qualifies) |
+| [Mayer 1979](https://doi.org/10.3102/00346543049002371) | q2 · review · r? | i? | [Advance organizers produce a small average learning benefit, larger for high-ability than ](advance-organizers-improve-learning.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

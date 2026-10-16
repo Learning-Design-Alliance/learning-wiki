@@ -39,6 +39,23 @@ Post-hoc coding of a representative sample of 602 questions from four introducto
 
 > "Combining all sampled questions together ( N = 602), our classiﬁcation yielded that overall 453 questions (75%) met all the criteria outlined in Table III."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Can learners write good questions of their own, and what support do they need to?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **8 distinct studies** (4 design, 3 causal, 1 associational), `q1`–`q3`, 0 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Bates 2013](https://doi.org/10.48550/arxiv.1308.2202) | q3 · design · r2 | i? | this claim; [Student-authored physics questions mostly require application or analysis, with under 5% a](student-questions-majority-above-recall-bloom.md) (supports) |
+| [Iwatani 2020](https://doi.org/10.51388/20.500.12265/93) | q2 · design · r3 | i? | [Teachers reported that trusting students to generate and pursue their own questions worked](teachers-surprised-by-student-questioning-capability.md) (supports) |
+| [Fischer 2021](https://doi.org/10.14434/josotl.v21i1.30564) | q1 · design · r2 | i? | [Students who generate their own research question are apt to be more invested and more eng](ur-student-generated-question-engagement.md) (supports) |
+| [Sora Kang 2026](https://doi.org/10.48550/arxiv.2607.24751) | q3 · causal · r2 | i? | [Actors internalized the AI's questioning style, self-generating similar questions after th](questioning-habits-internalized-after-ai-removal.md) (supports) |
+| [Huang 2026](https://doi.org/10.1186/s40594-026-00652-9) | q3 · causal · r2 | i? | [Trained students use more diverse higher-order prompting strategies, including generating ](trained-students-higher-order-prompting-strategies.md) (qualifies) |
+| [Hyoungwook Jin 2026](https://doi.org/10.48550/arxiv.2609.28918) | q2 · causal · r2 | i? | [Students rarely formulated questions specifying both knowledge component and scaffold type](students-rarely-ask-specific-questions.md) (counts against) |
+| [Arifani 2016](https://doi.org/10.5539/ies.v9n2p111) | q2 · design · r3 | i? | [First-cycle underperformance was attributed to low-quality student-generated questions tha](question-quality-limited-first-cycle-outcomes.md) (counts against) |
+| [Matin Amoozadeh and Amin Alipour 2026](https://doi.org/10.48550/arxiv.2608.17919) | q2 · associational · r1 | i? | [First-generation students asked fewer questions overall than continuing-generation student](first-generation-students-ask-fewer-ai-questions.md) (qualifies); [Continuing-generation students showed higher usage of procedural and directive question ty](generation-differences-in-question-type-usage.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

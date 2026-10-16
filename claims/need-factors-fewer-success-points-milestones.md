@@ -44,6 +44,8 @@ Needs analysis of institution-level data for 50 Texas community colleges, 2014/1
 
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Larger adequacy gaps between projected adequate cost and actual spending were associated with fewer success points milestones per FTE student](adequacy-gap-associated-outcomes.md) — related

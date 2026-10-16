@@ -42,5 +42,8 @@ Exploratory gender comparison across all 8 rubric dimensions using Mann-Whitney 
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - Female physical education teachers endorse progressivism and existentialist education more, and male teachers endorse perennialism and essentialism more, with no significant gender difference for reconstructivism — related

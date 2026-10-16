@@ -42,7 +42,7 @@ The paper's 'Need for a Data Base' section argues, as a theoretical position, th
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does a pass on the check mean what the criterion says: are the items, cut scores and raters dependable?* This table gathers the studies behind this claim and the 17 narrower claims that bear on it: **15 distinct studies** (6 design, 3 theoretical, 3 associational, 2 causal, 1 qualitative), `q1`–`q3`, 0 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does a pass on the check mean what the criterion says: are the items, cut scores and raters dependable?* This table gathers the studies behind this claim and the 17 narrower claims that bear on it: **14 distinct studies** (6 design, 3 theoretical, 3 associational, 1 causal, 1 qualitative), `q1`–`q3`, 0 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -54,7 +54,6 @@ The paper's 'Need for a Data Base' section argues, as a theoretical position, th
 | [Ilhan 2018](https://doi.org/10.14689/ejer.2018.75.6) | q3 · associational · r2 | i? | [Raters differed significantly in severity/leniency in the MFRM analysis](raters-differed-severity-mfrm.md) (supports) |
 | [Morzinski 2010](https://doi.org/10.48550/arxiv.1009.3296) | q2 · design · r2 | i? | [In one community-college lab class, six scorers rating six teams with an engineering rubri](engineering-rubric-low-scoring-reliability.md) (supports) |
 | [Praveen Pathak 2026](https://doi.org/10.48550/arxiv.2608.20521) | q2 · causal · r1 | i? | [Focused rubric refinement that made required physics and scoring conditions explicit reduc](explicit-rubric-conditions-reduce-ai-disagreement.md) (qualifies) |
-| Praveen Pathak 2026 (2) | q2 · causal · r1 | i? | [Focused rubric refinement that made required physics and scoring conditions explicit reduc](explicit-rubric-conditions-reduce-ai-disagreement.md) (qualifies) |
 | Weiss 1980 | q2 · design · r? | i? | [An adaptive mastery testing strategy reduces test length by 30% to 81% while reaching the ](adaptive-mastery-testing-reduces-length-preserves-decisions.md) (qualifies) |
 | Shannon 2026 | q2 · associational · r2 | i? | [The ELA placement test was most precise for students whose scores would place them into de](cmi-ela-test-precision-declines-above-40th-percentile.md) (supports) |
 | [Jiayi Wang 2025](https://doi.org/10.48550/arxiv.2508.16659) | q3 · design · r2 | i? | [Inter-rater agreement among the 20 expert teachers was low, at or below chance across QM c](low-inter-rater-agreement-qm-criteria.md) (supports) |

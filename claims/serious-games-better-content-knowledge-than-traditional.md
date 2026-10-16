@@ -42,12 +42,11 @@ The review reports, citing Wouters et al. (2013) and Clark et al. (2016), that s
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does learning through a full game raise capability on a measure outside the game more than non-game instruction?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **5 distinct studies** (3 review, 1 causal, 1 quant-synthesis), `q2`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does learning through a full game raise capability on a measure outside the game more than non-game instruction?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **4 distinct studies** (2 review, 1 causal, 1 quant-synthesis), `q2`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| Kelly McNeil 2026 | q2 · review · r2 | i? | this claim |
-| [Kelly McNeil 2026](https://doi.org/10.51388/20.500.12265/284) | q2 · review · r2 | i? | [The review reports that participants in simulation-game conditions had significantly highe](simulation-games-higher-skill-based-knowledge.md) (supports) |
+| Kelly McNeil 2026 | q2 · review · r2 | i? | this claim; [The review reports that participants in simulation-game conditions had significantly highe](simulation-games-higher-skill-based-knowledge.md) (supports) |
 | [Frolli et al. 2023](https://doi.org/10.3390/pediatric15030046) | q2 · causal · r1 | i? | [Game-based vocabulary practice produced larger gains than traditional instruction for newl](game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md) (supports) |
 | [A. Pradheepa 2025](https://doi.org/10.29140/ajal.v8n1.2073) | q2 · quant-synthesis · r2 | i? | [Digital game-based learning supports long-term retention of second-language vocabulary](dgbl-long-term-vocabulary-retention.md) (supports); [Adventure video games with supplementary vocabulary material outperform control conditions](adventure-games-supplementary-material-vocabulary.md) (supports) |
 | [Shuanghong Shen 2021](https://doi.org/10.48550/arxiv.2105.15106) | q2 · review · r2 | i? | [The survey reports, citing Long and Aleven, that students who used DragonBox enjoyed the e](intelligent-tutor-lynnette-outperformed-dragonbox-on-test.md) (counts against) |

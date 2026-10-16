@@ -42,6 +42,9 @@ The abstract states that "The paper illustrates the impact of LS on teachers, pe
 ## Discussion
 
 
+## Learner Variables
+- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [The literature contains a gap regarding the development of assessments based on learning styles](learning-styles-assessment-development-gap.md) — related
 - [Embodied dance improvisation supports physics engagement and sense-making](embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md) — related

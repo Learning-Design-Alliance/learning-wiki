@@ -7,6 +7,26 @@
       "question": "Does handing learners control over pace, path, help or feedback improve learning, and when?",
       "members": [
         [
+          "self-paced-mastery-programs-reduce-college-course-completion",
+          "~"
+        ],
+        [
+          "online-charters-effectiveness-concern",
+          "-"
+        ],
+        [
+          "online-charters-low-live-teacher-contact-time",
+          "~"
+        ],
+        [
+          "online-charters-engagement-greatest-challenge",
+          "~"
+        ],
+        [
+          "online-charters-dominant-independent-study-mode",
+          "~"
+        ],
+        [
           "segmenting-effects-confirmed-system-paced",
           "~"
         ],
@@ -47,10 +67,6 @@
           "~"
         ],
         [
-          "self-paced-mastery-programs-reduce-college-course-completion",
-          "-"
-        ],
-        [
           "learner-characteristics-moderate-hypermedia-effectiveness",
           "~"
         ],
@@ -65,6 +81,14 @@
         [
           "hint-avoidance-related-greater-wheel-spinning",
           "~"
+        ],
+        [
+          "students-report-routines-help-and-rushed-pacing-hurts",
+          "+"
+        ],
+        [
+          "pacing-calendars-standardized-assessments-impediments",
+          "+"
         ]
       ]
     },

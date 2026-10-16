@@ -39,7 +39,10 @@ Application of self-consistency (10 samples per question, modal answer kept) eva
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Learners receiving ChatGPT-generated hints showed statistically significant learning gains compared to a no-hint control in an online mathematics tutoring experiment](chatgpt-hints-significant-gains-versus-control.md) — the general claim this finding bears on, with the studies behind it
+
+- [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Learning gains from ChatGPT-generated hints were not statistically significantly different from human tutor-authored hints, though ChatGPT gains were numerically higher in all subjects](chatgpt-gains-equivalent-human-tutor-hints.md) — related
 - [The same learner context supplied to an AI tutor produces qualitatively different, persona-aligned explanations of the same problem](learner-context-personalizes-ai-tutor-explanations.md) — related

@@ -17,7 +17,7 @@ sources:
 # Research contest method for experimentally comparing interventions with revision rules between studies
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A crowdsourced research contest in which teams submitted candidate interventions that were then experimentally compared head-to-head. Teams "submitted 17 interventions that were tested an average of 3.70 times each in 4 studies (total N ! 17,021), with rules for revising interventions between studies." The method enables relative-effectiveness comparisons among many interventions under a common protocol, addressing the gap that "little is known about their relative effectiveness."

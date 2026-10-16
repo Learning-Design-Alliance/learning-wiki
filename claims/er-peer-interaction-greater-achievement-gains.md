@@ -45,6 +45,8 @@ The article reports, citing Manning and Manning (1984), a pretest-posttest study
 
 ## Related Claims
 
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — the general claim this finding bears on, with the studies behind it
+
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [The article cautions that CL-structured group activities are only a potential part of the solution for ER motivation, not a guarantee](cl-not-magic-wand-for-er-motivation.md) — related
 - [Teacher-student interactive semantic mapping produced higher EFL reading comprehension posttest scores than teacher-initiated and student-mediated semantic mapping](interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated.md) — related

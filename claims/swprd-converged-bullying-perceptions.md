@@ -41,8 +41,9 @@ The review reports Vincent et al.'s (2016) study of student opinion shifts after
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Shifting to restorative practices reduced exclusionary discipline and its racial disparities while improving climate and achievement](restorative-practices-reduce-exclusionary-discipline.md) — the general claim this finding bears on, with the studies behind it
 - [A two-year quasi-experimental study in Hong Kong found full-implementation restorative whole-school approach students reported significantly less bullying and larger empathy and self-esteem gains than control students](rwsa-hong-kong-less-bullying-empathy-gains.md) — related
 - [Disparities are not uniform: some gender- and sexual-minority groups report equal or better school experiences than majority peers (e.g., Black transgender students, Cambodian gay/lesbian students)](lgbtq-disparities-vary-with-exceptions-by-group.md) — related
 - [Transgender students are more than twice as likely as non-transgender peers to report bullying, harassment, and fear of physical violence](transgender-students-twice-likely-bullying-fear.md) — related

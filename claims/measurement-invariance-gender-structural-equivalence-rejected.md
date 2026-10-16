@@ -42,6 +42,9 @@ Three-stage WLSMV multigroup invariance sequence (Nmen=251, Nwomen=255) followed
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Transformational leadership's protective effect against harassment operates among women but not men, while its self-efficacy effect operates among men but not women (exploratory)](transformational-leadership-gender-specific-pathways.md) — related
 - [Both transformational and servant leadership are negatively associated with workplace harassment among university teachers](transformational-servant-leadership-negatively-associated-workplace-harassment.md) — related

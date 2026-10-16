@@ -42,6 +42,9 @@ Authors' interpretation of the survey ranking (Table 1: lack of practice, 65%, r
 ## Discussion
 
 
+## Learner Variables
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Fear of making mistakes is the most significant cause of foreign language speaking anxiety among Iranian EFL learners (81%)](fear-of-mistakes-top-speaking-anxiety-iranian-efl.md) — related
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related

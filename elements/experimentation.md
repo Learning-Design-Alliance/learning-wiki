@@ -13,7 +13,7 @@ generated:
 # Experimentation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 2 against) · 17 studies (8 quant-synthesis, 5 causal, 2 review, 2 theoretical), `q1`–`q4` · 7 of 17 report an effect size
+> **Evidence** · 7 claims (5 for, 2 against) · 18 studies (9 quant-synthesis, 5 causal, 2 review, 2 theoretical), `q1`–`q4` · 8 of 18 report an effect size · 1 claim rests on one study
 
 ## Description
 Experimentation asks learners to pose a question or prediction, systematically vary conditions, observe outcomes, and revise their understanding based on evidence. It functions as both a learning activity and a model of scientific reasoning: the learner generates a hypothesis, gathers data, and confronts discrepancies between expectation and result.
@@ -54,6 +54,11 @@ Experimentation supports learning by making learners active generators and teste
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - 
+
+## The evidence by question
+- *Does adding guidance to inquiry improve what learners learn, and does the kind of guidance matter?* [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](../claims/guidance-improves-inquiry-learning-outcomes.md) [+M]
+- *Should novices be left to discover the target content without support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [-S]
+- *Does conflict-based instruction improve conceptual learning more than standard exposition?* [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+S]
 
 ## Related Elements
 - [Application](application-of-knowledge.md) — experimentation is application with a hypothesis-testing structure layered on top

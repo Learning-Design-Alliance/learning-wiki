@@ -14,7 +14,7 @@ generated:
 # Massachusetts DESE early literacy screening assessment dataset
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A multi-year dataset of K–3 early literacy screener results collected and maintained by the Massachusetts Department of Elementary and Secondary Education from participating grantee schools and districts.

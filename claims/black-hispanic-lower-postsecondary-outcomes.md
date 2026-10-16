@@ -42,6 +42,9 @@ Descriptive analysis of postsecondary readiness (ACT 19+) for 37,930 students an
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Substantial differences in attaining academic indicators of postsecondary readiness occurred for most student groups, with the largest number between Black and White students, NSLP-eligible and ineligible students, and students entering grade 6 after age 13](academic-indicator-attainment-varies-by-student-group.md) — related
 - [Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent)](cps-graduation-race-gender-gaps.md) — related

@@ -41,8 +41,9 @@ Observational analysis of 128,569 naturalistic conversations from WildChat, LMSY
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The ICAP Framework was found effective for assessing potential for active learning in an asynchronous online environment and identifying where design improvements are needed](icap-effective-audit-tool-asynchronous-online.md) — the general claim this finding bears on, with the studies behind it
 - [Constructive engagement is ecologically organized: amplified by explicit learning-oriented framing, higher in coding than writing, and more visible in sustained exchanges](constructive-engagement-contextual-organization.md) — related
 - [Coding-oriented conversations show higher cognitive and constructive engagement than writing-oriented conversations across all three corpora](coding-vs-writing-constructive-engagement.md) — related
 - [Adjacent-turn support–engagement coupling is state- and form-dependent: explaining predicts constructive follow-up after all prior states, while feedback's positive association concentrates after prior passive turns](adjacent-turn-support-engagement-coupling.md) — related

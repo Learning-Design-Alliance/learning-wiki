@@ -41,8 +41,9 @@ Self-reported perceived impact on time management across both exams. Only "a sma
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Cheat sheet type was not significantly associated with exam performance on either exam, though a moderate non-significant trend favoured self-created sheets on the final](cheatsheet-type-no-significant-performance-difference.md) — the general claim this finding bears on, with the studies behind it
 - [Most students used cheat sheets as an occasional backup or continuous aid rather than a one-time reference](cheatsheet-continuous-reference-dominant-usage.md) — related
 - [Students using self-created cheat sheets reported greater perceived coverage of needed final exam content than instructor-provided users](self-created-sheets-greater-perceived-final-coverage.md) — related
 - [Self-created cheat sheet users reported significantly longer midterm preparation time than instructor-provided users, but the difference was not significant for the final exam](self-created-cheatsheets-longer-midterm-prep-time-only.md) — related

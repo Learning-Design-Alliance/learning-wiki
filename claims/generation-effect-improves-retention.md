@@ -59,6 +59,18 @@ Bertsch, S., Pesta, B. J., Wiscott, R., & McDaniel, M. A. (2007). The generation
 
 A meta-analytic review of the generation-effect literature. The pooled effect was positive and reliable, and the moderator analysis is the more useful result for design: effects varied substantially with material type and generation task, and the conditions producing the largest effects were not the ones most like authentic instruction.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does generating an answer or item, rather than reading it, improve later memory of it, and for which materials?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 quant-synthesis), `q2`–`q4`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Slamecka & Graf 1978](https://doi.org/10.1037/0278-7393.4.6.592) | q3 · causal · r? | i? | this claim |
+| [Bertsch et al. 2007](https://doi.org/10.3758/bf03193441) | q4 · quant-synthesis · r? | i? | this claim |
+| [John Duplice 2025](https://doi.org/10.29140/vli.v14n1.102482) | q2 · causal · r1 | i? | [Treatment-by-test-type interactions in Knowledge scores significantly favor the generation](generation-knowledge-interaction-advantage.md) (supports); [Generation tasks show no significant overall treatment effect on L2 vocabulary Knowledge s](generation-no-overall-knowledge-effect-l2-vocabulary.md) (counts against); [Bonferroni-corrected pairwise comparisons show no significant generation-versus-baseline d](generation-no-pairwise-differences-knowledge.md) (counts against); [Generation as the sole desirable difficulty produced no detrimental effect on L2 vocabular](generation-no-detriment-l2-recall.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 The generation effect is typically explained as a consequence of deeper processing: producing an answer forces the learner to activate prior knowledge and elaborate the target item, creating richer retrieval routes than reading provides. A key boundary condition is that generation imposes working-memory demands, so the benefit depends on the learner having sufficient knowledge to generate a plausible response — for complete novices, unguided generation can overload working memory and degrade learning, consistent with [cognitive overload degrades learning](cognitive-overload-degrades-learning.md) [~M]. This makes the effect closely related to the expertise-reversal pattern described in [expertise reversal effect](../theories/expertise-reversal-effect.md): generation tasks that help knowledgeable learners may hinder novices, and scaffolds such as partial cues or worked examples can restore the benefit by reducing the generation burden (see [chunking reduces working memory load](chunking-reduces-working-memory-load.md)) [~W].

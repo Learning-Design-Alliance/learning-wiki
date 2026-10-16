@@ -30,7 +30,7 @@ sources:
 # How a user engages with AI matters more than whether: structured, deliberate engagement can mitigate or reverse offloading effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r1` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Structured prompting, verification, alternation, and diverse outputs can mitigate or reverse offloading effects; a tutoring chatbot prompting students to explain reasoning beat traditional instruction. [→ Mahbub Ul Alam 2026](#mahbub-ul-alam-2026)

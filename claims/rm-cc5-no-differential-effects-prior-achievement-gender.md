@@ -41,8 +41,12 @@ Confirmatory RQ2 subgroup analyses of the MCIS RCT: students divided into four G
 
 ## Discussion
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [GenAI function, intervention duration, publication year, and gender were not significant moderators of GenAI's motivational effect](genai-motivation-null-moderators-function-duration-year-gender.md) — the general claim this finding bears on, with the studies behind it
 - [Assigning schools to use RM-CC5 as their core Grade 5 mathematics curriculum for a full year did not significantly change state assessment achievement compared with business-as-usual schools](rm-cc5-core-curriculum-null-achievement-effect.md) — related
 - [Fort Worth charter school male students significantly outgrew district-school male students in reading, while female students showed no significant sector difference](fort-worth-gender-subgroups-charter-district-growth.md) — related
 - [RM-CC5 usage metrics correlated positively with achievement, and together accounted for an additional 7.3% of variance in Grade 5 scores beyond prior achievement, though causality and relative contributions could not be inferred](rm-cc5-usage-metrics-achievement-correlation.md) — related

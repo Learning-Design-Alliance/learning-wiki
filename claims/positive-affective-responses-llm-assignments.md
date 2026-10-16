@@ -61,6 +61,9 @@ After the fifth assignment, ratings remained positive: useful (x̄ = 2.48), chal
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Students in a scaffolded LLM-collaboration course improved significantly on initial argument quality, prompt engineering, and response to AI feedback from the first to the fifth assignment](argumentative-writing-gains-scaffolded-llm-assignments.md) — related
 - [Students' self-efficacy for using generative AI increased over the semester, with current self-efficacy significantly higher after the fifth assignment than after the first](self-efficacy-growth-generative-ai-semester.md) — related

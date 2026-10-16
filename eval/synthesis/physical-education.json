@@ -1,0 +1,28 @@
+{
+  "principle": "elements/physical-education",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "feedback-outcome-measure-moderator-cognitive-physical",
+      "question": "Does feedback improve physical and motor skill outcomes, and does letting learners decide when they receive it help?",
+      "members": [
+        [
+          "self-controlled-kr-decided-after-trial-improves-motor-retention",
+          "+"
+        ],
+        [
+          "self-controlled-kr-decided-after-trial-improves-motor-transfer",
+          "+"
+        ],
+        [
+          "motor-practice-accuracy-improves-across-blocks-and-favors-after-decision-groups",
+          "+"
+        ],
+        [
+          "self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

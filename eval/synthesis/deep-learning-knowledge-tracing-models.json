@@ -1,0 +1,84 @@
+{
+  "principle": "theories/deep-learning-knowledge-tracing-models",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "deep-learning-knowledge-tracing-outperforms-but-lacks-interpretability",
+      "question": "How accurately does BKT predict a learner's next answers, compared with other knowledge-tracing models, and do its assumptions and fitted parameters hold up?",
+      "members": [
+        [
+          "no-single-knowledge-tracing-model-is-always-best",
+          "~"
+        ],
+        [
+          "task-specific-hyperparameter-tuning-raises-dkt-baseline",
+          "~"
+        ],
+        [
+          "dkt-comparable-to-complex-kt-architectures",
+          "~"
+        ],
+        [
+          "responsible-dkt-outperforms-baselines-predictive-accuracy",
+          "+"
+        ],
+        [
+          "responsible-dkt-temporal-reliability",
+          "~"
+        ],
+        [
+          "transformer-kt-first-place-edm-cup-2023",
+          "+"
+        ],
+        [
+          "lt-mkt-outperforms-kt-baselines-four-datasets",
+          "+"
+        ],
+        [
+          "dkt-sem-outperforms-existing-kt-methods-most-with-little-training-data",
+          "+"
+        ],
+        [
+          "existing-kt-methods-fail-on-small-comta-but-improve-with-more-data-on-mathdial",
+          "~"
+        ],
+        [
+          "attentive-knowledge-tracing-benefits-from-repeated-interactions",
+          "~"
+        ],
+        [
+          "xai-interpretation-of-dkt-enhances-trust",
+          "~"
+        ],
+        [
+          "bkt-overestimates-accuracy-after-a-day-elapses",
+          "+"
+        ],
+        [
+          "individualizing-initial-knowledge-improves-prediction",
+          "~"
+        ],
+        [
+          "bkt-highest-accuracy-lower-auc-than-irt",
+          "~"
+        ],
+        [
+          "stanbkt-methods-comparable-predictive-performance-assistments-2020",
+          "~"
+        ],
+        [
+          "bkt-hmm-exponential-form-questions-fitting-practice",
+          "~"
+        ],
+        [
+          "bkt-identifiability-explained-by-parameter-a",
+          "~"
+        ],
+        [
+          "bkt-hmm-form-is-three-parameter-exponential",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

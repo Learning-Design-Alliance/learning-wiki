@@ -30,7 +30,7 @@ sources:
 # Evaluating GenAI-generated solutions produced no significant differences on midterm scores, final exam scores, course percentages, or normalized exam change relative to solving problems directly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In a randomized crossover algorithms course (N=220), midterm scores did not differ significantly between the solving and GenAI-evaluation groups (t(218)=-0.58, p=.56, d=-0.08). [→ Ethan Dickey 2026](#ethan-dickey-2026)

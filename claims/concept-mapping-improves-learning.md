@@ -83,18 +83,20 @@ In Experiment 1, 80 undergraduates studied a science text in one of four ways: s
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does having learners build an organization of the content as a concept map help, and against what comparison?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **8 distinct studies** (3 quant-synthesis, 2 causal, 1 review, 1 design, 1 theoretical), `q1`–`q4`, 4 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does having learners build an organization of the content as a concept map help, and against what comparison?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **10 distinct studies** (4 causal, 3 quant-synthesis, 1 review, 1 design, 1 theoretical), `q1`–`q4`, 5 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Schroeder et al. 2018](https://doi.org/10.1007/s10648-017-9403-9) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.58; i2 · medium effect for constructing, g=0.72; studying g=0.43 | this claim; [Learner-constructed graphic organizers are not shown to outperform provided ones: the one ](learner-constructed-graphic-organizers-outperform-provided.md) (qualifies) |
-| [Nesbit & Adesope 2006](https://doi.org/10.3102/00346543076003413) | q4 · quant-synthesis · r? | i? | this claim |
+| [Schroeder et al. 2018](https://doi.org/10.1007/s10648-017-9403-9) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.58; i2 · medium effect for constructing, g=0.72; studying g=0.43 | this claim; [Learner-constructed graphic organizers are not shown to outperform provided ones: the one ](learner-constructed-graphic-organizers-outperform-provided.md) (qualifies); [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) (supports) |
+| [Nesbit & Adesope 2006](https://doi.org/10.3102/00346543076003413) | q4 · quant-synthesis · r? | i?; i2 · medium effect, g=0.60 overall (0.37 for studying maps) | this claim; [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) (supports) |
 | [Karpicke & Blunt 2011](https://doi.org/10.1126/science.1199327) | q3 · causal · r2 | i3 · large effect favoring retrieval practice over concept mapping, d=1.50 | this claim |
 | [Zhang et al. 2021](https://doi.org/10.1109/eitt53287.2021.00025) | q3 · quant-synthesis · r? | i1 · small effect vs. not drawing, g=0.362 | [Drawing improves STEM learning by a small-to-moderate amount over not drawing and over oth](drawing-improves-learning.md) (supports) |
 | [Stull & Mayer 2007](https://doi.org/10.1037/0022-0663.99.4.808) | q3 · causal · r? | i2 · transfer favoured provided organizers, d=0.24 (ns), 0.43, 0.84 | [Learner-constructed graphic organizers are not shown to outperform provided ones: the one ](learner-constructed-graphic-organizers-outperform-provided.md) (qualifies) |
 | [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r3 | i? | [The same quizzing or concept-mapping activity produces more learning when done without vie](closed-book-versions-of-quizzes-and-concept-maps-outperform-open-book-versions.md) (qualifies); [A review chapter (Karpicke 2017) reports, second-hand, experiments in which retrieval prac](retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration.md) (counts against) |
 | [Chi 2018](https://doi.org/10.1111/cogs.12626) | q2 · design · r2 | i? | [An ICAP theory article reports, second-hand and without describing the design, a study in ](interactive-beats-constructive-concept-mapping.md) (qualifies) |
 | Jonassen 1984 | q1 · theoretical · r? | i? | [Placing heavier cognitive demands on learners can be counterproductive in mapping tasks](heavy-cognitive-demands-of-mapping-can-be-counterproductive.md) (qualifies) |
+| [Bharat Anand 2026](https://doi.org/10.48550/arxiv.2605.18143) | q3 · causal · r2 | i? | [In one randomized working-paper experiment, conceptual-map scaffolding gave LLM-using novi](conceptual-map-scaffolding-reduces-novice-variance.md) (supports) |
+| El-Koumy 1999 | q3 · causal · r2 | i? | [Teacher-student interactive semantic mapping produced higher EFL reading comprehension pos](interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated.md) (qualifies); [Teacher-initiated and student-mediated semantic mapping did not differ significantly in th](teacher-initiated-and-student-mediated-mapping-no-difference.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -120,6 +122,8 @@ In Experiment 1, 80 undergraduates studied a science text in one of four ways: s
 **Open questions.** <!-- deprecated (2026-10-05, stale): The evidence base for this page has not yet been populated; effect sizes, moderator findings, and study quality assessments still need to be added before this claim can be rated. Until then, treat the claim as plausible but unrated rather than established. --> The pooled effects and the time-matched comparison are recorded above; the moderators named in this paragraph (learner expertise, domain structure, feedback on map quality) are not tested by any entry here.
 
 ## Related Claims
+
+- [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 
 - [Constructive learning activities produce better learning than active or passive ones.](constructive-learning-beats-active-passive.md) — mapping is a paradigmatic constructive activity
 - [Retrieval practice improves long-term retention.](retrieval-practice-improves-retention.md) — mapping from memory combines generation with retrieval

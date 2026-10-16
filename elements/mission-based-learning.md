@@ -13,7 +13,7 @@ generated:
 # Mission-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 16 studies (5 review, 4 causal, 4 theoretical, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 1 of 16 report an effect size · 2 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 mixed) · 18 studies (5 review, 4 causal, 4 quant-synthesis, 4 theoretical, 1 qualitative), `q1`–`q4` · 3 of 18 report an effect size · 2 claims rest on one study
 
 ## Description
 Mission-based learning places learners inside a structured, goal-oriented challenge — a "mission" with a defined objective, operating constraints, and observable success criteria. Unlike open-ended projects, missions are bounded: learners know what must be accomplished, under what conditions, and how completion will be judged, and they must plan and execute actions to reach the goal.
@@ -56,6 +56,10 @@ Mission-based learning drives engagement by giving learners a compelling goal wh
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - 
+
+## The evidence by question
+
+- *Does a specific, challenging goal raise performance over no goal or a vague 'do your best'?* [Goal setting improves performance](../claims/goal-setting-improves-performance.md) [+S]
 
 ## Related Elements
 - [Problem-Based Learning](problem-based-learning.md) — the problem-driven cousin; missions add explicit goal framing and success criteria to an open problem

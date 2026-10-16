@@ -17,7 +17,7 @@ sources:
 # Five Essential Supports framework for improving student learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 9 claims (7 for, 2 mixed) · 5 studies (2 associational, 1 review, 1 design, 1 theoretical), `q2` · 0 of 5 report an effect size · 9 claims rest on one study
+> **Evidence** · 11 claims (9 for, 2 mixed) · 7 studies (3 associational, 2 design, 1 review, 1 theoretical), `q2` · 0 of 7 report an effect size · 10 claims rest on one study
 
 ## Description
 The agenda describes the Consortium's Five Essential Supports framework, in which five dimensions of school organization are "known to be linked to improving student outcomes". Involved families is one of the five essential supports, documented for more than 20 years as linked to advances in student outcomes; supportive environment and ambitious instruction are measured by the annual 5Essentials Survey, whose re-validation showed its measures continue to predict improvement in outcomes. The framework structures both the agenda's research strands and CPS's accountability use of survey results.
@@ -49,6 +49,10 @@ The agenda describes the Consortium's Five Essential Supports framework, in whic
 - [Family engagement is connected to stronger social-emotional development, higher attendance, and better academic outcomes](../claims/family-engagement-linked-better-outcomes.md) [+W]
 - [Family engagement in schools is closely linked to improved student academic achievement, social skills, and fewer behavior issues](../claims/family-engagement-linked-student-outcomes.md) [+W]
 - [Freshman OnTrack rates improved by as much as 3.25 percentage points more in high schools with strong 5Essentials Survey measures](../claims/freshman-ontrack-strong-5essentials-measures.md) [+W]
+
+## The evidence by question
+- *Are schools strong on several of the five essential supports more likely to improve student learning than schools weak on them?* [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+M]
+- *Do schools that score strong on the 5Essentials Survey go on to improve more on attendance, grades and on-track rates, and in which schools?* [5Essentials Survey measures predict school improvement in elementary and high schools, but not all measures relate to all outcomes](../claims/5essentials-measures-positively-associated-improvement.md) [+M]
 
 ## Related Theories
 

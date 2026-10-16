@@ -13,7 +13,7 @@ generated:
 # Probing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 17 studies (8 quant-synthesis, 4 causal, 2 review, 2 associational, 1 design), `q1`–`q4` · 8 of 17 report an effect size · 2 claims rest on one study
+> **Evidence** · 9 claims (7 for, 1 mixed, 1 against) · 21 studies (10 quant-synthesis, 4 causal, 4 review, 2 associational, 1 design), `q1`–`q4` · 9 of 21 report an effect size · 2 claims rest on one study
 
 ## Description
 Probing is the instructional element of asking follow-up questions that press past a learner's first response — asking for justification, elaboration, counterexamples, or connections to prior knowledge. It functions as a form of [Assessment for Learning](../principles/assessment-for-learning.md): the probe diagnoses the learner's current understanding while simultaneously prompting the learner to reconstruct and extend it.
@@ -56,6 +56,11 @@ Probing converts a surface-level answer into an act of retrieval and elaboration
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Follow-up support shows low initiation but reliable completion: the bottleneck is noticing and composing the question, not the AI's ability to answer](../claims/followup-low-initiation-high-completion.md) [~W]
 - [Interaction traces cannot establish answerability or justificatory dispossession because StudyChat does not elicit reconstruction and defense of reasoning](../claims/interaction-traces-cannot-establish-answerability.md) [+W]
+
+## The evidence by question
+
+- *Do teacher questions that press learners past a first answer, for explanation, justification or higher-level thinking, improve learning?* [Questioning Strategies Improve Learning](../claims/questioning-strategies-improve-learning.md) [+M]
+- *Does a longer pause after a question, before anyone answers, improve the responses that follow?* [Reviews of classroom studies, read from their abstracts, associate longer teacher wait time with longer, higher-cognitive-level student responses, with no effect size recorded](../claims/increasing-wait-time-improves-response-quality.md) [+M]
 
 ## Related Elements
 - [Articulation](articulation.md) — probing is the elicitation side; articulation is the learner's response side of the same exchange

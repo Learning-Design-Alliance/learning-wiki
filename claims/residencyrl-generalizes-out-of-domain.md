@@ -30,7 +30,7 @@ sources:
 # Procedural competencies from simulation-based RL training generalize to out-of-domain benchmarks including AMIE Mx, AgentClinic, and CRAFT-MD
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On the AMIE Mx multi-visit benchmark, the agent outperforms the base model across all six evaluation categories, with the largest gains in management reasoning (80.1% to 88.4%) and patient communication (83.7% to 92.2%). [→ Liévin 2026](#lievin-2026)

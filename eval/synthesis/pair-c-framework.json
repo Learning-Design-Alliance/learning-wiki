@@ -7,12 +7,8 @@
       "question": "Does adding guidance to inquiry and simulation work improve what learners learn?",
       "members": [
         [
-          "simulation-guidance-moderate-effect-dangelo",
+          "hh-guidance-beats-ll-cvs-children",
           "+"
-        ],
-        [
-          "pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction",
-          "~"
         ],
         [
           "guidance-improves-inquiry-performance-success",
@@ -23,12 +19,56 @@
           "+"
         ],
         [
+          "unscaffolded-problem-solving-exploratory-hypotheses-versus-failures",
+          "~"
+        ],
+        [
+          "mercury-case-hypothesis-discarding-limit",
+          "~"
+        ],
+        [
+          "simulation-guidance-moderate-effect-dangelo",
+          "+"
+        ],
+        [
           "teacher-guided-inquiry-larger-effects",
           "+"
         ],
         [
           "teacher-guided-inquiry-outperforms-student-led",
           "+"
+        ],
+        [
+          "pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction",
+          "~"
+        ],
+        [
+          "mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning",
+          "+"
+        ],
+        [
+          "guided-discovery-outperformed-both-extremes",
+          "+"
+        ],
+        [
+          "minimal-guidance-inquiry-inferior-explicit-instruction",
+          "+"
+        ],
+        [
+          "enhanced-discovery-beats-other-instruction",
+          "+"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "~"
+        ],
+        [
+          "guided-inquiry-computational-model-overcomes-amplitude-misconception",
+          "~"
+        ],
+        [
+          "students-criticize-inquiry-worksheets-low-thinking",
+          "~"
         ]
       ]
     },
@@ -58,6 +98,38 @@
         ],
         [
           "cscl-simulation-conceptual-change-cognitive-engagement",
+          "~"
+        ],
+        [
+          "prediction-graphing-reveals-classification-thinking",
+          "+"
+        ],
+        [
+          "force-motion-conceptions-difficult-to-change",
+          "~"
+        ],
+        [
+          "automated-annotations-accelerate-misconception-correction",
+          "+"
+        ],
+        [
+          "fci-gain-increased-peer-instruction-harvard",
+          "+"
+        ],
+        [
+          "peer-conflicts-conditional-on-reflection",
+          "~"
+        ],
+        [
+          "personal-construction-required-stable-conceptual-change",
+          "~"
+        ],
+        [
+          "high-equality-mutuality-not-sufficient-conceptual-change",
+          "~"
+        ],
+        [
+          "belief-consistent-facts-better-recognized",
           "~"
         ]
       ]

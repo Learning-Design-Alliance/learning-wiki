@@ -30,7 +30,7 @@ sources:
 # Flagged Spring 2026 students scored lower on all three exams than non-flagged peers, with performance declining as flagged assignments increased
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Flagged students averaged 61.9% across the three exams versus 73.5% for non-flagged students, and means declined from 69.4% with one flagged assignment to 53.5% with six. [→ David Racovan 2026](#david-racovan-2026)
@@ -60,7 +60,8 @@ Per-exam breakdown in the Spring 2026 case study (Figure 7); the Midterm 2 contr
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Students received significantly higher homework scores during GenAI-evaluation periods, but this advantage did not transfer to downstream exams](genai-homework-advantage-no-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [In Spring 2026, 45.7% of students in a large CS2 course were flagged as LLM-assisted following structured manual review](argus-45-percent-flagged-spring-2026.md) — related
 - [MOSS detected far fewer suspicious cases in Spring 2026 than in prior offerings, as LLM-assisted submissions lack similarity signals](moss-detection-declined-spring-2026.md) — related

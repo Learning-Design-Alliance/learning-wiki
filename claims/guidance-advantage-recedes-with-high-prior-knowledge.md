@@ -41,11 +41,14 @@ The abstract states this boundary condition on the guidance advantage: it "begin
 
 ## Discussion
 
-
 ## Learner Variables
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md) — the general claim this finding bears on, with the studies behind it
+
+- [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](guidance-improves-inquiry-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — possibly the same claim (merge candidate)
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related

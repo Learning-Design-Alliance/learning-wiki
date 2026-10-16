@@ -42,6 +42,9 @@ Descriptive year-to-year comparison of school-level chronic absenteeism rates fo
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Schools in which chronic absenteeism decreased implemented phone calls, mentorship programs, and text messaging with moderate or high fidelity more frequently than schools in which it increased](decreased-absenteeism-schools-fidelity-phone-mentorship-texting.md) — related
 - [During 2018/19, attendance-related text messaging increased more quickly in schools where chronic absenteeism decreased than in schools where it increased, where use remained flat](texting-increased-faster-in-decreased-absenteeism-schools.md) — related

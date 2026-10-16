@@ -30,7 +30,7 @@ sources:
 # Bias transfer is asymmetric: prompt condition affects agency in female-target essays but not male-target essays, suppressing female agency while male writing remains stable
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2` · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` A significant Gender×Condition interaction (F=4.41, p=.014, η²p=.070) confirms the biased prompt widened the gender gap selectively rather than depressing agency uniformly. [→ Ariyan Hossain 2026](#ariyan-hossain-2026)
@@ -60,8 +60,12 @@ Simple-effects analysis within the 123-participant experiment. Female agency was
 
 ## Discussion
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — the general claim this finding bears on, with the studies behind it
 - [Students assisted by a gender-biased LLM produce career-plan essays with a significantly larger male-female agentic gap than students in neutral-LLM and no-AI control conditions](biased-llm-assistance-increases-agentic-gap-student-essays.md) — related
 - [A gender-biased system prompt induces large gender-differentiated language in LLM-generated career essays, while a neutral prompt does not](biased-prompt-induces-gender-differentiated-llm-essays.md) — related
 - [Students exposed to the biased LLM showed no awareness of its influence, reporting lower perceived AI influence than neutral-condition participants despite larger bias effects](bias-transfer-without-awareness-llm-writing.md) — related

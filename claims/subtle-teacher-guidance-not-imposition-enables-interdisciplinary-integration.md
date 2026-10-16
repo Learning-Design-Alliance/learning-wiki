@@ -47,6 +47,8 @@ Students who had completed disciplinary preparation sessions (mathematics, scien
 The mechanism is illustrated through two carefully transcribed, representative episodes rather than a systematic count of how often each pattern occurred across all 150 discussions, so the claim that the hindrance pattern was "more frequent" rests on the authors' qualitative impression across their full corpus rather than a reported statistic — this is noted explicitly by the authors themselves. There is no comparison condition (e.g., an intervention specifically training teachers in this guiding-question skill vs. not), so while the mechanism is well-illustrated, its magnitude and how trainable it is remain open questions; the source study's own professional-development program did not, by the authors' account, sufficiently prepare most teachers for this specific skill.
 
 ## Related Claims
+
+- [Interdisciplinary humanities units improve students' interdisciplinary competences](interdisciplinary-humanities-units-improve-interdisciplinary-competences.md) — the general claim this finding bears on, with the studies behind it
 - (none yet linked)
 - [Dialogic teacher support cultivates all four aspects of statistical modeling practice over a multi-week unit](dialogic-teacher-support-cultivates-statistical-modeling-practice.md) — related
 - [Mixed-disciplinary teacher making supports transdisciplinary epistemic liberation](mixed-disciplinary-teacher-making-supports-transdisciplinary-epistemic-liberation.md) — related

@@ -30,7 +30,7 @@ sources:
 # College aspirations doubled between 1980 and 2002 while readiness and completion gaps by race, ethnicity, and income persisted or widened
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 review `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The share of tenth graders hoping to earn a bachelor's degree or higher doubled, from 40 percent in 1980 to 80 percent in 2002, with the greatest increases among low-income students. [→ Melissa Roderick 2009](#melissa-roderick-2009)

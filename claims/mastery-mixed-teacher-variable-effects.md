@@ -42,6 +42,9 @@ Large-scale study by Guskey (1984) involving 117 junior and high school level te
 
 ## Discussion
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Mastery learning improves students' attitudes toward the instruction and toward the subject](mastery-learning-improves-attitudes-toward-instruction.md) — the general claim this finding bears on, with the studies behind it

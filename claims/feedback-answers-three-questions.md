@@ -56,6 +56,8 @@ Open questions this page should eventually resolve with cited evidence: (1) the 
 
 ## Related Claims
 
+- [Developing a common understanding of expected learning helps all students succeed, not only those with school-aligned prior knowledge](shared-understanding-expected-learning-helps-all-students.md) — the general claim this finding bears on, with the studies behind it
+
 - [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md) — feedback answering the three questions is the core mechanism of assessment-for-learning cycles.
 - [Checklist evaluation ineffective online.](checklist-evaluation-ineffective-online.md) — a boundary case where automated feedback answers "how am I going?" but fails to direct the learner's next step.
 - [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — possibly the same claim (merge candidate)

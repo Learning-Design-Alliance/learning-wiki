@@ -41,8 +41,9 @@ Qualitative casebook finding from the Lessons Learned chapter, based on intervie
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](effective-pd-seven-features.md) — the general claim this finding bears on, with the studies behind it
 - [Creating and leading professional learning for colleagues enhances teacher leaders' sense of professionalism and efficacy](ilc-membership-enhances-teacher-leader-efficacy.md) — related
 - [Most ILC workshop participants report that the experience influenced their curriculum, instruction, assessments, engagement, and student learning to a great extent](ilc-participants-report-practice-influence.md) — related
 - [Over four years, more than 250 ILC leaders provided multi-session professional learning to more than 32,000 California educators across more than 2,000 schools and at least 495 districts](ilc-reach-32000-educators-495-districts.md) — related

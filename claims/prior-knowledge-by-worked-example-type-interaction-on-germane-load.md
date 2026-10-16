@@ -60,11 +60,12 @@ Same experiment and CLM measure: "No significant differences were observed betwe
 
 ## Discussion
 
-
 ## Learner Variables
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Worked Examples Expertise Reversal](worked-examples-less-effective-with-expertise.md)
 - [Self-reported germane cognitive load correlates positively with interest (QCM) among college students solving algebra problems](germane-cognitive-load-correlates-positively-with-interest.md) — related
 - [High- and low-prior-knowledge learners differ significantly on an algebra posttest and on intrinsic and germane cognitive load, but not on extraneous load](high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load.md) — related

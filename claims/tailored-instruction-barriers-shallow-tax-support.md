@@ -30,7 +30,7 @@ sources:
 # Support for tax-funded tailored instruction is wide but shallow, with paying for adequate staff seen as the major barrier, cited by 86 percent of teachers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 66 to 74 percent would support raising taxes to fund tailored instruction programs, but strong support falls to 15 to 23 percent. [→ Digital Promise Global 2019](#digital-promise-global-2019)

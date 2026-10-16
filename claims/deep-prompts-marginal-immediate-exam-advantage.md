@@ -41,6 +41,7 @@ Quasi-experiment in a mandatory psychology course: 125 students studied a prompt
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [The immediate advantage of deep-processing prompts does not persist at a 5-month follow-up, with a Bayesian test confirming the null](deep-prompt-advantage-fades-at-follow-up.md) — related

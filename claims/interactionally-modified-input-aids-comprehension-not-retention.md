@@ -44,6 +44,8 @@ The review reports Loschky's (1989) three-group study of L2 Japanese beginner le
 
 ## Related Claims
 
+- [Conversational interaction facilitates second language grammatical development in adult ESL learners](interaction-facilitates-l2-grammatical-development.md) — the general claim this finding bears on, with the studies behind it
+
 - [Linguistic simplification of math word problems can improve performance, particularly among English language learners and students from low-socioeconomic backgrounds](linguistic-simplification-improves-math-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Interactionally adjusted and premodified input yield statistically comparable comprehension overall, with negotiation benefiting lower-ability learners](negotiation-benefit-limited-lower-ability-learners.md) — related
 - There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested — related

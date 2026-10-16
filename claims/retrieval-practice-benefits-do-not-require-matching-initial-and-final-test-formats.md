@@ -79,8 +79,9 @@ The chapter reports Rohrer et al. (2010), where "this retrieval practice activit
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The classroom testing effect transfers to mismatched test formats, but consistent quiz–exam formats yield a significantly larger effect (g = 0.531 vs. g = 0.399).](format-consistency-moderates-classroom-testing-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md)
 - [Initial multiple-choice tests with plausible, competitive alternatives outperformed initial short-answer tests on final questions that were related to but not directly tested initially](competitive-multiple-choice-alternatives-benefit-related-untested-questions.md) — a narrower finding that bears on this claim
 - [Retrieval practice effects on mediator-cued final tests have been positive, but Coppens et al. (2016) concluded the true effect may be only about 0.10 to 0.20](mediator-cued-final-test-effects-of-retrieval-practice-may-be-small.md) — related

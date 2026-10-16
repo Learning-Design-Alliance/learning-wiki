@@ -30,7 +30,7 @@ sources:
 # Post-study attitudes and self-reports align with annotated behavior patterns: limited-engagement users show rising overreliance concern and less selective AI use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Concerns about overreliance increased more among limited engagement participants than among proactive and critical participants, and inaccurate-response concerns declined among experimental participants. [→ Jingwei Yi 2026](#jingwei-yi-2026)

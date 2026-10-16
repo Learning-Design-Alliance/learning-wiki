@@ -104,7 +104,7 @@ A meta-analysis of 22 studies (17 universal, 5 targeted programs; 2011–2021) o
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do SEL programmes also improve conduct, distress and academic achievement, and by how much?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **6 distinct studies** (3 quant-synthesis, 3 review), `q2`–`q4`, 3 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do SEL programmes also improve conduct, distress and academic achievement, and by how much?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **8 distinct studies** (4 review, 3 quant-synthesis, 1 design), `q2`–`q4`, 3 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -114,6 +114,8 @@ A meta-analysis of 22 studies (17 universal, 5 targeted programs; 2011–2021) o
 | [Greenberg 2023](https://doi.org/10.54300/928.269) | q3 · review · r2 | i1; i? | [SEL programs reduce disruptive behavior problems and emotional distress and foster prosoci](sel-programs-reduce-behavior-problems-distress.md) (supports); [SEL programs improve students' engagement and academic performance, with an 11-percentile-](sel-programs-improve-academic-performance.md) (supports) |
 | Melnick 2017 | q3 · review · r2 | i? | [SEL programs improve students' engagement and academic performance, with an 11-percentile-](sel-programs-improve-academic-performance.md) (supports) |
 | National Charter School Resource Center 2022 | q2 · review · r1 | i? | [Schoolwide SEL programs are associated with long-term achievement gains, with multiple met](schoolwide-sel-meta-analytic-11-percentile-achievement-gain.md) (supports) |
+| Murray 2017 | q2 · review · r2 | i? | [A practice brief reviewing self-regulation interventions reports substantial benefits of m](mindfulness-programs-benefit-adolescent-regulation.md) (qualifies) |
+| Learning Policy Institute & Turnaround for Children 2021 | q2 · design · r1 | i? | [Cognitive, emotional, and social skills should be taught alongside content because learnin](integrated-skills-habits-mindsets-instruction.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

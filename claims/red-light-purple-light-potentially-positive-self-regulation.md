@@ -60,11 +60,12 @@ WWC findings summary across five self-regulation measures from the two qualifyin
 
 ## Discussion
 
-
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Red Light, Purple Light shows uncertain effects on preschool language outcomes](red-light-purple-light-uncertain-language.md) — related
 - [Red Light, Purple Light shows uncertain effects on reading and literacy related achievement](red-light-purple-light-uncertain-reading-literacy.md) — related
 - [Pre-K Mathematics shows uncertain effects on preschool self-regulation skills](pre-k-mathematics-uncertain-self-regulation-effects.md) — related

@@ -163,6 +163,11 @@ A learner's economic and social position: family income or poverty (often measur
 - [Children from low-SES families were more negatively affected by COVID-19 school closures than children from high-SES families](../claims/covid-closures-low-ses-students-more-affected.md) [-M] — an instructional effect differs with it
 - [The entrance-age achievement association is especially pronounced among children from upper-income families](../claims/entrance-age-gap-largest-upper-income-families.md) [+M] — an instructional effect differs with it
 
+## The evidence by question
+- *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]
+- *Do instructional programmes help learners from low-income families as much as, or more than, their better-off peers?* [Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students](../claims/assistments-school-composition-moderators.md) [+M]
+- *Does remote or disrupted schooling widen the gap for learners from low-income families?* [Children from low-SES families were more negatively affected by COVID-19 school closures than children from high-SES families](../claims/covid-closures-low-ses-students-more-affected.md) [+M]
+
 ## Related Learner Variables
 - [Access](access.md) — devices and bandwidth, often constrained by income
 - [Time and Continuity](time-and-continuity.md) — attendance and time for study, often constrained by work and caring

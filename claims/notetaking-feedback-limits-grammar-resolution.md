@@ -41,8 +41,9 @@ Authors' interpretive conclusion from the single-participant case study; it offe
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Review-reported experiment found output performed noticing and hypothesis-testing functions but no apparent metalinguistic function in L2 writing](zhao-ping-output-functions-writing-experiment.md) — the general claim this finding bears on, with the studies behind it
 - [Lexical LREs dominate grammar-related LREs in young learners' L2 writing noticing](lexical-lres-dominate-grammar-lres-l2-writing.md) — related
 - Conversational interaction may facilitate acquisition of some grammatical structures but not others — related
 - [Rewriting after noticing gaps and comparing to models produced modified output that solved more lexical gaps than grammatical problems](rewriting-solves-more-lexical-gaps.md) — related

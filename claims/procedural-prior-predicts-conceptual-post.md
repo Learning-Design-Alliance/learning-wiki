@@ -41,11 +41,12 @@ Path analysis regression coefficient from the classroom study; the article state
 
 ## Discussion
 
-
 ## Learner Variables
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Tutors' proportion of knowledge-building responses to an agent's adaptive follow-up questions predicts conceptual and procedural post-test scores](kbr-predicts-tutor-posttest-conceptual-procedural.md) — related
 - [Prior conceptual and procedural knowledge did not significantly predict tutors' proportion of knowledge-building responses](prior-knowledge-does-not-predict-kbr.md) — related
 - [Tutors showed significant pre-to-post gains in both conceptual knowledge and procedural skill after teaching with adaptive follow-up questioning](significant-prepost-gains-ckt-pst.md) — related

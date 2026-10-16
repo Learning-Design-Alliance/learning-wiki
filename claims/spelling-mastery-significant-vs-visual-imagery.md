@@ -39,7 +39,8 @@ Randomized controlled trial of 28 fourth-grade students with learning disabiliti
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Concreteness, imagery, and verbal associative processes play major roles across multiple educational domains](concreteness-imagery-associative-roles-educational-domains.md) — the general claim this finding bears on, with the studies behind it
 - [Spelling Mastery has potentially positive effects on writing for students with learning disabilities, based on two RCTs with a small extent of evidence](spelling-mastery-potentially-positive-writing-ld.md) — a broader claim this one bears on
 - [Spelling Mastery showed substantively important but not statistically significant positive effects on all four writing measures in a grades 2–4 RCT against basal spelling instruction](spelling-mastery-substantive-vs-basal.md) — related

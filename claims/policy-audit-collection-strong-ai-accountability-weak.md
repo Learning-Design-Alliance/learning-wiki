@@ -38,7 +38,7 @@ sources:
 # In a 48-platform policy audit, data-collection disclosure was strongest while AI and accountability disclosures were weak
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies (3 entries) · 2 qualitative `r3` · `q2`
+> **Evidence** · 1 study (3 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Thirty-three percent of platforms (16/48) made no meaningful AI disclosure despite visible AI features. [→ Meghna Manoj Nair 2026](#meghna-manoj-nair-2026)

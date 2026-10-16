@@ -44,6 +44,10 @@ Finding from the J48 decision tree analysis of ASSISTments Skill Builder log dat
 
 ## Related Claims
 
+- [Effective AI help-seeking is itself a skill unevenly distributed among students, and access to an assistant is not equivalent to effective help-seeking](ai-help-seeking-is-a-skill.md) — the general claim this finding bears on, with the studies behind it
+
+- [Persistence and performance costs concentrate among participants who used the AI to obtain direct solutions, while hint-users resemble controls](persistence-costs-concentrated-among-direct-solution-users.md) — the general claim this finding bears on, with the studies behind it
+
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — the general claim this finding bears on, with the studies behind it
 - Adaptive students request significantly fewer on-demand hints and spend longer on a step before requesting help than Control students — related
 - The relationship between bottom-out hint use and wheel-spinning is nuanced, depending on whether students avoid hints entirely — related

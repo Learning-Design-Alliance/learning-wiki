@@ -30,7 +30,7 @@ sources:
 # Participants required GSR context-knowledge of learning materials, educational strategies, and course information, with optional physical-environment perception
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Most participants wanted the robot grounded in official lecturer-provided learning materials such as slides, exercises, podcasts, and literature. [→ S. Vonschallen 2026](#s-vonschallen-2026)

@@ -41,8 +41,9 @@ The review's theoretical interpretation, drawing on constructivism and experient
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — the general claim this finding bears on, with the studies behind it
 - [The framework's broader relevance rests on a shared learning structure of embodied skill, expert feedback, and self-monitoring, not direct equivalence across domains](shared-learning-structure-performance-domains.md) — related
 - [The review reports that real-world experiential simulations offer affordances beyond virtual-only formats, including heightened presence through embodiment, place, and face-to-face social immersion](real-world-simulations-embodiment-affordances.md) — related
 - [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — related

@@ -41,8 +41,12 @@ Correlational analysis within the same algebra study, relating Leppink et al.'s 
 
 ## Discussion
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — the general claim this finding bears on, with the studies behind it
 - [Self-reported extraneous cognitive load correlates negatively with germane load and with expected probability of success in an algebra task](extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success.md) — related
 - [Self-reported intrinsic and germane cognitive load correlate positively among college students solving algebra problems](intrinsic-and-germane-cognitive-load-correlate-positively-in-algebra.md) — related
 - [Self-reported intrinsic cognitive load correlates positively with anxiety and challenge and negatively with probability of success in an algebra task](intrinsic-cognitive-load-correlates-with-anxiety-challenge-and-lower-probability-of-success.md) — related

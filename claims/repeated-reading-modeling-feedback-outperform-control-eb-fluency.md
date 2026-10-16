@@ -39,10 +39,11 @@ The review's synthesis of the Al-Bogami & Alahmadi (2025) and Begeny et al. (201
 
 ## Discussion
 
-
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Fluency-building activities for struggling readers in grades 4–9 have strong evidence, based on 33 studies](strong-evidence-fluency-building-activities-grades-4-9.md) — the general claim this finding bears on, with the studies behind it
 - [The HELPS one-to-one fluency program significantly outperformed control on GORT Fluency and GORT-Comprehension for grade 2 Spanish-speaking ELLs](helps-one-to-one-gort-fluency-comprehension-gains.md) — a narrower finding that bears on this claim
 - [Two years of multicomponent fluency intervention produced greater word-reading and fluency growth than one year or control, with no comprehension differences](two-year-fluency-intervention-greater-word-reading-growth.md) — related

@@ -30,7 +30,7 @@ sources:
 # CLARA annotations align with blinded educator judgments, with 0.81 pairwise agreement and highest-rated educational interpretability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In blinded human evaluation, average pairwise annotation agreement across three educators per story reaches 0.81, and educational interpretability receives the highest average criterion score. [→ Sijing Yin 2026](#sijing-yin-2026)

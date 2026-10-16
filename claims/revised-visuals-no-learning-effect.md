@@ -47,6 +47,8 @@ ANOVA on post-lesson test scores (maximum 27 points) using data from all 62 part
 
 ## Related Claims
 
+- [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Presentation condition does not differentially affect microstructure comprehension over five weeks, though VNT and NT groups improved while the text-only group did not](mics-pre-post-no-group-differential-effect.md) — related
 - [Revised visuals reduce cognitive load while reading lesson text for low prior knowledge students but increase it for middle prior knowledge students](revised-visuals-cognitive-load-text-prior-knowledge-interaction.md) — related

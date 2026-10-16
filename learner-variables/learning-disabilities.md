@@ -92,6 +92,11 @@ Identified differences in how a learner learns: specific learning disabilities s
 - [Youth with an IEP lag their peers in planning and taking steps to obtain postsecondary education and jobs](../claims/iep-youth-lag-postsecondary-planning.md) [+W] — learners who differ on it differ in outcomes
 - [Self-monitoring interventions produce strong effects for students with ASD across behavioral targets and school settings (overall Tau-U = .83)](../claims/self-monitoring-strong-effects-asd-tau-u-083.md) [+M] — an instructional effect differs with it
 
+## The evidence by question
+- *Do learners with disabilities reach lower achievement, graduation and postsecondary outcomes than their peers, by how much, and does it differ by disability type?* [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](../claims/disability-largest-postsecondary-outcome-gap.md) [+M]
+- *Which instructional approaches improve outcomes for learners with learning, developmental or intellectual disabilities?* [Outcomes of students with disabilities improve when they receive specially designed instruction responsive to assessment data](../claims/specially-designed-instruction-responsive-to-assessment-data-improves-outcomes.md) [+M]
+- *Are learners with disabilities excluded from school by discipline more often than their peers?* [Students with disabilities are suspended at more than twice the rate of students without disabilities, and Black students with disabilities face the highest risk at 19%](../claims/disability-suspension-disparity.md) [+M]
+
 ## Related Learner Variables
 - [Access](access.md) — sensory and motor impairments, assistive technology
 - [Attention](attention.md) — ADHD and attentional control

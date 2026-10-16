@@ -13,7 +13,7 @@ generated:
 # Prediction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 7 studies (3 causal, 2 review, 1 quant-synthesis, 1 qualitative), `q2`–`q3` · 1 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 10 studies (6 causal, 2 review, 1 quant-synthesis, 1 qualitative), `q2`–`q3` · 3 of 10 report an effect size · 4 claims rest on one study
 
 ## Description
 A prediction asks learners to commit to an answer, outcome, or explanation *before* receiving instruction — guessing the result of an experiment, the next step in a demonstration, or the answer to a question about material not yet taught. The act of committing, even incorrectly, prepares learners to encode the corrective information that follows.
@@ -56,6 +56,10 @@ Predictions leverage the pretesting effect: attempting to answer before instruct
 - [A prediction graphing activity revealed preschool children's classification thinking and misconceptions, which class discussion and pictures corrected](../claims/prediction-graphing-reveals-classification-thinking.md) [+W]
 - [Pre-instruction testing enhances memory for directly tested video content, with benefits shown for videos from 5 to 30 minutes](../claims/pretesting-enhances-memory-tested-video.md) [+W]
 - [Classroom pretesting improves high-stakes exam performance on pretested content by 8–9% over a multi-week course](../claims/classroom-pretesting-exam-gains.md) [+W]
+
+## The evidence by question
+- *Does attempting questions on material before studying it improve later memory of the questioned content, and under what conditions on the answer and the material?* [Pretesting enhances learning](../claims/pretesting-enhances-learning.md) [+S]
+- *What does failing first cost the learner: persistence, belief in the method, the effect of confusion?* [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](../claims/pretesting-can-harm-motivation.md) [~M]
 
 ## Related Elements
 - [Activation](activation.md) — prediction is a specific, commitment-forcing form of prior-knowledge activation

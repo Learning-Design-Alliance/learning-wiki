@@ -55,6 +55,11 @@ Dialogic reading reliably improves expressive vocabulary and oral language in yo
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Back-and-forth conversational turns with adults are more critical to children's language development and brain physiology than sheer quantity of words heard](../claims/conversational-turns-predict-language-development.md) [+W]
 
+## The evidence by question
+
+- *Does interactive, dialogic shared reading raise young children's oral language more than ordinary shared reading or no extra reading?* [Dialogic Reading Improves Language Outcomes](../claims/dialogic-reading-improves-language-outcomes.md) [+S]
+- *Does reading books together with young children predict their later language and reading?* [Joint Book Reading Predicts Literacy Success](../claims/joint-book-reading-predicts-literacy-success.md) [+M]
+
 ## Related Elements
 
 - [Coaching](coaching.md) — the in-the-moment prompting and feedback that constitutes the adult role

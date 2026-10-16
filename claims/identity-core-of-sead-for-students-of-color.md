@@ -43,6 +43,9 @@ Focus group participants responded with factors related to racial, ethnic, and c
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - Teacher-student racial and cultural match is associated with benefits for students of color and all P-12 students — related
 - Most focus group participants responded with a resounding \"no\" when asked whether they trust the education system to teach social-emotional skills to students of color — related

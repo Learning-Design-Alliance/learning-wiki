@@ -41,11 +41,12 @@ Classroom action study: generalized linear mixed model (binomial) of Knowledge s
 
 ## Discussion
 
-
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Generation Effect Improves Retention](generation-effect-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Treatment-by-test-type interactions in Knowledge scores significantly favor the generation condition's improvement from pre-test to post-tests](generation-knowledge-interaction-advantage.md) — related
 - [Generation as the sole desirable difficulty produced no detrimental effect on L2 vocabulary recall, in contrast to prior short-term findings](generation-no-detriment-l2-recall.md) — a broader claim this one bears on
 - [Bonferroni-corrected pairwise comparisons show no significant generation-versus-baseline differences at any test point for Knowledge scores](generation-no-pairwise-differences-knowledge.md) — possibly the same claim (merge candidate)

@@ -41,8 +41,12 @@ Dunn's post-hoc test with Bonferroni correction following the significant omnibu
 
 ## Discussion
 
+## Learner Variables
+- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge](reflective-thinking-correlates-epistemological-beliefs.md) — the general claim this finding bears on, with the studies behind it
 - [Chatbot preference groups differed in total EBAPS and Axis 4/5 scores at the nominal level, with small effect sizes, but not after Bonferroni adjustment](chatbot-preference-ebaps-omnibus-kw-results.md) — a broader claim this one bears on
 - [Combination-preferring students scored higher than answer-preferring students on evolving-knowledge (Axis 4) and source-of-ability (Axis 5) EBAPS dimensions](combination-preferrers-higher-axis4-axis5-scores.md) — possibly the same claim (merge candidate)
 - [No statistically significant EBAPS differences were observed for Axes 1–3 or between guided-inquiry and answer-oriented chatbot preferrers](no-ebaps-differences-axes-1-3-or-inquiry-vs-answer.md) — related

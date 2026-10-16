@@ -43,6 +43,8 @@ Micro-ethnographic episode analysis comparing a first-week "brief me on the expe
 
 ## Related Claims
 
+- [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — the general claim this finding bears on, with the studies behind it
+
 - [Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time](plc-norms-three-categories-trust-prerequisite.md) — the general claim this finding bears on, with the studies behind it
 - [Well-defined tasks and accessible materials support shared creative influence in group work](well-defined-tasks-and-accessible-materials-support-shared-creative-influence.md) — related
 - [Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams](epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams.md) — related

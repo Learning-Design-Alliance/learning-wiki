@@ -41,8 +41,9 @@ Cross-year analysis of 855 students with BOY scores in 2020/21 and EOY scores in
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Most students identified as significantly below benchmark on early literacy screeners remain significantly below benchmark 1 and 2 years later](significantly-below-benchmark-persists-across-years.md) — the general claim this finding bears on, with the studies behind it
 - [Students at later grade levels were more likely to remain at risk across school years than students at earlier grade levels](cross-grade-risk-persistence.md) — possibly the same claim (merge candidate)
 - [Risk status tends to persist: 75 percent of students significantly below benchmark at BOY remained so at EOY, and earlier grades showed lower year-to-year persistence](early-literacy-risk-persistence-within-and-across-years.md) — related
 - [About 60 percent of students significantly below benchmark at BOY remained so at EOY, and improving to benchmark by MOY predicted meeting benchmark at EOY](within-year-risk-persistence.md) — related

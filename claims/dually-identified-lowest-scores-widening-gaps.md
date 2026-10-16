@@ -41,11 +41,12 @@ Achievement trajectories plotted in Figure 2 for the kindergarten cohort show du
 
 ## Discussion
 
-
 ## Learner Variables
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Summer learning loss is common but not inevitable among K-12 students](summer-slide-common-but-not-inevitable.md) — the general claim this finding bears on, with the studies behind it
 - [In math, EL groups grew more than never-ELs during academic years but lost more during summers](el-math-faster-year-growth-higher-summer-loss.md) — related
 - [All three EL subgroups scored lower than never-ELs in math and reading throughout kindergarten to 4th grade](el-groups-lower-achievement-than-never-els-k4.md) — related
 - [The reality of summer learning loss is more complex than the long-standing gap-widening account](summer-loss-more-complex-than-gap-account.md) — related

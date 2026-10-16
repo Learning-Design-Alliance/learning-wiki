@@ -57,7 +57,12 @@ Testimony of Phyllis Rosser, a consultant on sex bias in testing, at the April 2
 
 ## Discussion
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
+
+- [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](race-gender-grade-differences-persist.md) — the general claim this finding bears on, with the studies behind it
 
 - [Traditional gifted identification tests cannot fully determine learning potential and omit classroom-learning components](traditional-identification-tests-fail-learning-potential.md) — the general claim this finding bears on, with the studies behind it
 - [Congressional hearing testimony reports, citing a 1979 ETS study second-hand, that females tend to do better on test items with female or neutral figures than on items with male figures](male-oriented-item-content-biases-test-scores.md) — related

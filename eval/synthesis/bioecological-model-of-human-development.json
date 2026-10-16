@@ -1,0 +1,44 @@
+{
+  "principle": "theories/bioecological-model-of-human-development",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "parent-involvement-improves-achievement",
+      "question": "Is closer parent involvement in a child's schooling associated with better student outcomes, and does the form of involvement matter?",
+      "members": [
+        [
+          "parental-involvement-meta-analyses-effect-sizes",
+          "+"
+        ],
+        [
+          "family-engagement-linked-student-outcomes",
+          "+"
+        ],
+        [
+          "parent-compliance-versus-process-support",
+          "~"
+        ],
+        [
+          "parental-involvement-small-to-moderate-achievement-relationship",
+          "+"
+        ],
+        [
+          "involvement-stronger-with-global-achievement-indicators",
+          "~"
+        ],
+        [
+          "parent-involvement-improves-early-reading",
+          "+"
+        ],
+        [
+          "parental-involvement-literature-largely-qualitative-inconsistent",
+          "~"
+        ],
+        [
+          "fast-rct-no-meaningful-enduring-effects",
+          "-"
+        ]
+      ]
+    }
+  ]
+}

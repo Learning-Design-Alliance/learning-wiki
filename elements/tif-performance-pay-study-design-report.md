@@ -17,7 +17,7 @@ sources:
 # Teacher Incentive Fund (TIF) performance pay evaluation study design report
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (8 for) · 4 studies (3 causal, 1 design), `q1`–`q3` · 0 of 4 report an effect size · 8 claims rest on one study
+> **Evidence** · 8 claims (8 for) · 5 studies (4 causal, 1 design), `q1`–`q3` · 0 of 5 report an effect size · 7 claims rest on one study
 
 ## Description
 A study design report prepared by Mathematica Policy Research for the U.S. Department of Education, National Center for Education Evaluation, as part of the Pay-for-Performance: Evaluating the Teacher Incentive Fund project (2009-2017). The article states it "provides contextual background on performance pay programs, characteristics of participating TIF grantee schools, and details on the TIF evaluation study design." It is a planning artifact for a rigorous evaluation rather than a report of results.

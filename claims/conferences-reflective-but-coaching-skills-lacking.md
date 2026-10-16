@@ -41,8 +41,9 @@ Qualitative findings from principal interviews, focus groups, and case studies i
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](coaching-pooled-instruction-effect-0-49-sd.md) — the general claim this finding bears on, with the studies behind it
 - [In one case-study school, a principal's lack of Framework knowledge and inability to rate practice led teachers to perceive the new evaluation as subjective, undermining buy-in](principal-framework-knowledge-subjectivity-perception.md) — related
 - [Fifty-seven percent of principals were highly enthusiastic about the Framework-based evaluation process while 43 percent held mixed to negative attitudes](principal-attitudes-toward-framework-evaluation.md) — related
 - [Teachers and principals report REACH is changing teaching practice and improving communication and collaboration](reach-changing-practice-communication-collaboration.md) — related

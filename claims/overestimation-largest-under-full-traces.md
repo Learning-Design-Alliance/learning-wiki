@@ -60,8 +60,9 @@ Omnibus ANOVA on overestimation (perceived minus achieved) was significant with 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong](ai-access-inflates-confidence.md) — the general claim this finding bears on, with the studies behind it
 - [Full reasoning traces impaired task performance relative to both answer-only and summary-trace conditions in AI-assisted LSAT reasoning](full-traces-impair-ai-assisted-reasoning-performance.md) — related
 - [Full reasoning traces worsened calibration bias and Brier scores relative to both other conditions](full-traces-worsen-calibration-and-brier-scores.md) — related
 - [Hedonic appeal, not trust, carries the indirect path from trace exposure to performance overestimation, consistent with a processing-fluency account](hedonic-appeal-mediates-overestimation.md) — related

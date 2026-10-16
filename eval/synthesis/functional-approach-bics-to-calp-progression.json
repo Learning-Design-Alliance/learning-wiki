@@ -1,0 +1,62 @@
+{
+  "principle": "patterns/functional-approach-bics-to-calp-progression",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "bics-acquired-faster-than-calc-immigrant-children",
+      "question": "How long do second-language learners take to reach conversational fluency compared with academic language proficiency, and is conversation always first?",
+      "members": [
+        [
+          "bics-acquired-two-years-all-ages",
+          "+"
+        ],
+        [
+          "conversational-fluency-misleading-proficiency-indicator",
+          "+"
+        ],
+        [
+          "bics-calp-intersect-not-identical",
+          "~"
+        ],
+        [
+          "calp-can-precede-bics-in-certain-situations",
+          "~"
+        ],
+        [
+          "arrival-age-15-16-ge5-good-immigration-age",
+          "~"
+        ],
+        [
+          "young-arrivals-risk-losing-both-l1-and-l2",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "integrate-oral-written-language-content-teaching",
+      "question": "Does teaching oral and written academic language within content lessons improve English learners' content learning?",
+      "members": [
+        [
+          "academic-vocabulary-intensive-instruction-strong-evidence",
+          "+"
+        ],
+        [
+          "structured-writing-opportunities-minimal-evidence",
+          "~"
+        ],
+        [
+          "integrated-literacy-science-greater-learning-than-separate",
+          "+"
+        ],
+        [
+          "language-consequence-not-prerequisite-math-el",
+          "~"
+        ],
+        [
+          "experience-mediate-connection-academic-language-vibration",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

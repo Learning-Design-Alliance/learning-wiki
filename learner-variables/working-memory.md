@@ -12,7 +12,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 33 claims (20 for, 9 mixed, 4 against) · 34 studies (13 causal, 8 review, 6 quant-synthesis, 4 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 5 of 34 report an effect size · 30 claims rest on one study
+> **Evidence** · 33 claims (20 for, 9 mixed, 4 against) · 35 studies (13 causal, 9 review, 6 quant-synthesis, 4 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 5 of 35 report an effect size · 29 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -71,6 +71,11 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Reduction of cognitive load can sometimes impair learning rather than enhance it](../claims/load-reduction-can-impair-learning.md) [~W] — learners who differ on it differ in outcomes
 - [Students using ChatGPT 3.5 experience lower extraneous cognitive load than students using Google during a web research task](../claims/llm-search-lower-extraneous-cognitive-load.md) [+M] — instruction changes it
 - [Students using ChatGPT 3.5 experience lower intrinsic cognitive load than students using Google during a web research task](../claims/llm-search-lower-intrinsic-cognitive-load.md) [+M] — instruction changes it
+
+## The evidence by question
+
+- *Do learners with lower working memory capacity gain more, or less, from retrieval practice, interleaving and other desirable difficulties?* [Studies disagree on whether low or high working memory learners benefit more from retrieval practice, and several find no relationship](../claims/relation-between-working-memory-and-retrieval-practice-benefit-is-inconsistent.md) [~M]
+- *Can training or practice raise working memory itself, and by how much?* [CCT yields small significant gains in nonverbal memory, working memory, and visuospatial skills, but only weak evidence for verbal memory](../claims/cct-domain-gains-nonverbal-wm-visuospatial-verbal-weak.md) [+M]
 
 ## Related Learner Variables
 - Prior knowledge — supplies the schemas that raise effective capacity; the two are inseparable in practice.

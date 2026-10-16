@@ -30,7 +30,7 @@ sources:
 # Both stepwise constructive-conflict guidance and the antagonistic agent led novice designers to reconsider what makes a design effective more than unsupported self-reflection
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` On the reconsideration item, both the Stepwise Guidance and Interactive Engagement groups scored significantly higher than Self Reflection, with a large omnibus effect (ε² = .19). [→ Howard Ziyu Han 2026 (2)](#howard-ziyu-han-2026-2)
@@ -59,8 +59,11 @@ Post-hoc pairwise contrasts from the same experiment: both guided groups scored 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — the general claim this finding bears on, with the studies behind it
+
+- [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — the general claim this finding bears on, with the studies behind it
 - [Only the interactive antagonistic agent, not stepwise guidance, significantly shifted novice designers' design thinking relative to self-reflection](agent-enacted-conflict-shifts-design-thinking.md) — related
 - [Both constructive-conflict conditions produced substantially more idea editing between design iterations than unsupported self-reflection](constructive-conflict-increases-idea-editing.md) — related
 - [Novice designers deleted ideas only when confronted with stakeholder friction; unsupported self-reflection produced no deletions](idea-deletion-requires-stakeholder-friction.md) — related

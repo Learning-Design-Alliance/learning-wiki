@@ -60,7 +60,8 @@ The essay reports, citing Zhang et al. (2006), a comparison of interactive and n
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Segmenting video into short pieces or click-forward pauses supports student engagement and learning from video](segmenting-supports-video-engagement-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Video-watching sequences involving pausing and rewinding are negatively correlated with math task performance in a flipped precalculus lesson](video-pause-rewind-sequences-negative-performance.md) — reports the opposite
 - [Learners who could decide after a trial whether to receive knowledge of results estimated their own movement outcomes more accurately in retention than Self-Before learners and their yoked counterparts.](self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy.md) — related

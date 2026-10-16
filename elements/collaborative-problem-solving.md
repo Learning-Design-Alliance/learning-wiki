@@ -13,7 +13,7 @@ generated:
 # Collaborative Problem-Solving
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 10 studies (2 causal, 2 quant-synthesis, 2 theoretical, 1 review, 1 associational, 1 qualitative, 1 design), `q2`–`q4` · 1 of 10 report an effect size · 6 claims rest on one study
+> **Evidence** · 10 claims (8 for, 2 mixed) · 14 studies (4 quant-synthesis, 3 causal, 3 theoretical, 1 review, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 3 of 14 report an effect size · 8 claims rest on one study
 
 ## Description
 Collaborative problem-solving (CPS) places a small group of learners around a problem that no single member can solve alone, requiring them to pool knowledge, divide cognitive labor, negotiate approaches, and converge on a shared solution. It functions simultaneously as a content-learning activity and as practice in the social-cognitive skills — perspective-taking, task regulation, and joint reasoning — that the OECD treats as a distinct competency domain.
@@ -61,6 +61,12 @@ CPS improves learning when the group's discussion forces learners to externalize
 - [GenAI students collaboratively phrased and troubleshooted questions, with collaborative problem-solving varying substantially between the two genAI groups](../claims/genai-collaborative-troubleshooting-varied-by-group.md) [~W]
 - [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](../claims/active-collaborative-approaches-higher-order-thinking.md) [+W]
 - [Groups of high-performing students often fail problem-solving tasks when they do not collaborate, showing why collaborative skills need assessment and feedback](../claims/high-performing-groups-fail-without-collaboration.md) [+W]
+
+## The evidence by question
+
+- *Does working jointly on a task raise achievement over working alone or instruction without group work?* [Collaborative Learning Improves Outcomes](../claims/collaborative-learning-improves-outcomes.md) [+S]
+- *What makes joint work fail: the task, group size and composition, or how members take part?* [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](../claims/collaborative-situations-often-fail-productive.md) [~W]
+- *Do AI tools in a group's workspace improve its collaborative problem solving, and how does the way a group works with the AI change the result?* [GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students](../claims/gai-assisted-dst-improves-cps-skills.md) [+M]
 
 ## Related Elements
 - [Collaboration](collaboration.md) — the general group-work element; CPS is its problem-anchored form

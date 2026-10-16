@@ -1,0 +1,28 @@
+{
+  "principle": "elements/gpt-4o-dialogue-annotation-correctness-and-common-core-kcs",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "gpt-4o-final-turn-correctness-labeling-is-close-to-human-level",
+      "question": "Can a large language model label whether students' responses are correct, and which skills they show, accurately enough to stand in for human annotators?",
+      "members": [
+        [
+          "expert-teachers-rate-gpt-4o-dialogue-annotations-as-largely-accurate",
+          "+"
+        ],
+        [
+          "gpt-4o-annotation-errors-concentrate-on-final-turns-and-too-few-kcs",
+          "~"
+        ],
+        [
+          "binary-correctness-judgments-near-chance",
+          "-"
+        ],
+        [
+          "applying-vs-knowing-skill-diagnosis-gap",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

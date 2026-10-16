@@ -61,8 +61,9 @@ The guidance states that coaching promotes retention and that "Early career teac
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Mentoring strongly influences new teachers' decisions to stay in or leave teaching (review attribution)](mentoring-influences-new-teacher-retention.md) — the general claim this finding bears on, with the studies behind it
 - [New teachers who receive little mentoring are twice as likely to leave the classroom as well-mentored beginners](mentoring-halves-new-teacher-attrition.md) — possibly the same claim (merge candidate)
 - [Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years](teacher-preparation-mentoring-retention.md) — related
 - [Comprehensive induction supports keep new teachers in teaching at more than twice the rate of unsupported novices](comprehensive-induction-doubles-novice-retention.md) — related

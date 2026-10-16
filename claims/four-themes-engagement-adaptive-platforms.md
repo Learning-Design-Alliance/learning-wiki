@@ -41,8 +41,9 @@ Systematic review of 44 peer-reviewed studies (2012–2022) using hybrid inducti
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Included studies suggest engagement increases when adaptive platform activities are tailored to learners' personal needs and emotional state](adaptivity-emotional-tailoring-increases-engagement.md) — the general claim this finding bears on, with the studies behind it
 - [Adaptive AI feedback provides tailored scaffolding and AI simulates authentic interaction scenarios (Contextual Affordance Pathway)](ai-contextual-affordances-scaffolding-simulation.md) — a narrower finding that bears on this claim
 - [The test platform detects rapid guessing in real time and attempts to re-engage disengaged students to protect score validity](map-growth-real-time-engagement-detection-re-engagement.md) — related
 - [Interviewed teachers attributed disengagement to technical, institutional, and social-relational environmental constraints rather than capability deficits](environmental-constraints-attributed-disengagement.md) — related

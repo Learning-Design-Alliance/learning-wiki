@@ -41,8 +41,12 @@ Final step of the hierarchical regression added personal innovativeness, technol
 
 ## Discussion
 
+## Learner Variables
+- [Mindset](../learner-variables/mindset.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](growth-mindset-achievement-correlation-weak.md) — the general claim this finding bears on, with the studies behind it
 - [Prior digital competence significantly predicts AI literacy after external resources are controlled, adding 3% of variance](digital-competence-predicts-ai-literacy-incrementally.md) — related
 - [Technology anxiety's positive association with AI literacy is confined to critical evaluation and ethical competence and absent from the three performance-oriented subdimensions](anxiety-effect-localized-to-evaluative-subdimensions.md) — related
 - [Predictors operate selectively across AI literacy subdimensions: digital competence fails to predict technical proficiency or communication proficiency, and perceived resources predict only communication proficiency and creative application](determinants-selective-across-ai-literacy-subdimensions.md) — related

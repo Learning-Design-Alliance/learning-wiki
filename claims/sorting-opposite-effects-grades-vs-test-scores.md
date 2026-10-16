@@ -60,7 +60,12 @@ The report identifies a middle group harmed by sorting: "students with slightly 
 
 ## Discussion
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
+
+- [Between- or within-class homogeneous ability grouping has a small negative effect on low-ability primary students but no effect on other students](homogeneous-ability-grouping-negative-low-ability.md) — the general claim this finding bears on, with the studies behind it
 
 - [A narrative review reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested](streaming-impacts-negatively-on-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [How students are sorted into classrooms by skill level can affect their achievement as much as the content they are taught](sorting-effect-comparable-to-curriculum-content.md) — related

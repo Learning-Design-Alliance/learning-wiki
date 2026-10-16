@@ -45,6 +45,7 @@ Multi-level model M3 (Table 4) on test anxiety in online exams; contextual facto
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Large shares of students faced technology problems serious enough to impede course participation: 44 percent internet connectivity and 23 percent hardware/software issues](remote-covid-technology-access-problems-widespread.md) — related

@@ -39,11 +39,30 @@ Random-effects meta-analysis of 273 effect sizes from 162 independent samples (N
 
 > "The meta-analytic average correlation (i.e., the average of various population effects) between growth mind-set and academic achievement is r = .10, 95% confidence interval (CI) = [.08, .13], p < .001."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do learners who hold more of a growth mindset achieve more, and for whom is the link stronger or weaker?* This table gathers the studies behind this claim and the 14 narrower claims that bear on it: **9 distinct studies** (4 associational, 3 review, 1 quant-synthesis, 1 theoretical), `q2`–`q3`, 1 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Victoria F. Sisk 2018](https://doi.org/10.1177/0956797617739704) | q3 · quant-synthesis · r3 | i1; i? | this claim; [Effect sizes linking growth mind-set to achievement are highly heterogeneous and often non](mindset-achievement-heterogeneity-high.md) (qualifies); [Developmental stage moderates the mind-set–achievement correlation, which is nonsignifican](developmental-stage-moderates-mindset-correlation.md) (qualifies); [Academic risk status does not significantly moderate the mind-set–achievement correlation](academic-risk-not-moderator-mindset-correlation.md) (qualifies); [Socioeconomic status does not significantly moderate the mind-set–achievement correlation](ses-not-moderator-mindset-correlation.md) (qualifies); [Type of achievement measure moderates the correlation only when laboratory measures are ex](achievement-measure-moderator-lab-exclusion.md) (qualifies) |
+| Snipes 2016 | q2 · associational · r2 | i? | [8th grade growth mindset and academic behavior self-reports positively predicted 9th grade](mindset-behavior-predict-on-track-performance-avoidance-does-not.md) (supports); [Predicted probability of 9th grade on-track status varied substantially across the growth-](predicted-on-track-probability-varies-with-mindset-behavior-scores.md) (supports) |
+| Allensworth 2018 | q2 · review · r? | i? | [Students with more positively oriented academic mindsets show better academic behaviors an](positive-mindsets-better-behaviors-grades.md) (supports) |
+| Farrington 2012 | q2 · review · r2 | i? | [Positive academic mindsets increase perseverance and academic behaviors, yielding higher g](mindsets-increase-perseverance-behaviors-grades.md) (supports) |
+| Nagaoka 2014 | q2 · theoretical · r? | i? | [The framework's literature review reports students' academic mindsets, learning strategies](noncognitive-factors-related-to-school-performance-farrington-2012.md) (supports) |
+| Jenny Nagaoka 2013 | q2 · review · r2 | i? | [A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, s](four-academic-mindsets-increase-perseverance-and-behaviors.md) (supports) |
+| Soland 2019 | q2 · associational · r2 | i? | [In a pooled multivariate model, the combined self-efficacy/self-management growth predicts](pooled-model-suspension-growth-mindset-paradox.md) (qualifies) |
+| [Chow Tak Sang 2026](https://doi.org/10.3390/bs16081448) | q2 · associational · r2 | i? | [Personal innovativeness, technology anxiety, and growth mindset in technology each signifi](psychological-profile-predicts-ai-literacy-incrementally.md) (supports) |
+| [Chen H 2026](https://doi.org/10.3389/fpsyg.2026.1933842) | q2 · associational · r2 | i? | [Growth mindset moderates the negative effect of AI employment threat perception on perceiv](growth-mindset-moderates-ai-threat-employability-link.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+- [Mindset](../learner-variables/mindset.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related

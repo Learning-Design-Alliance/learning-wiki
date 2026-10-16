@@ -133,7 +133,7 @@ Seventy seventh-grade students learning to solve algebra equations were randomly
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does comparing analogous cases improve transfer more than studying cases one at a time?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **5 distinct studies** (3 causal, 2 quant-synthesis), `q2`–`q4`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does comparing analogous cases improve transfer more than studying cases one at a time?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **7 distinct studies** (3 causal, 2 quant-synthesis, 2 review), `q2`–`q4`, 1 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -142,6 +142,8 @@ Seventy seventh-grade students learning to solve algebra equations were randomly
 | [Rittle-Johnson & Star 2007](https://doi.org/10.1037/0022-0663.99.3.561) | q3 · causal · r? | i? | this claim |
 | [Jacobson & Spiro 1995](https://doi.org/10.2190/4t1b-hbp0-3f7e-j4pn) | q3 · causal · r2 | i? | [Presenting multiple cases from different perspectives supports transfer in ill-structured ](cognitive-flexibility-theory-multiple-cases.md) (qualifies) |
 | [Şenel Elaldı 2016](https://doi.org/10.11114/jets.v4i1.1097) | q2 · quant-synthesis · r2 | i? | [Individually analyzed method and approach studies show widely varying effects, with analog](method-approach-effect-sizes-vary-analogy-largest.md) (supports) |
+| Shavelson 1986 | q2 · review · r2 | i? | [Encoding variability across varied example contexts produces decontextualization supportin](encoding-variability-decontextualization-transfer.md) (supports) |
+| [Atkinson 2000](https://doi.org/10.3102/00346543070002181) | q2 · review · r3 | i? | [Providing both a simple and a complex example facilitates transfer better than a single ex](multiple-examples-per-problem-type.md) (supports); [Lesson variability benefits transfer only in combination with worked-example instruction, ](example-variability-interaction-with-cognitive-load.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -189,7 +191,12 @@ Seventy seventh-grade students learning to solve algebra equations were randomly
 
 **Open questions.** Two sources are recorded: the Alfieri et al. (2013) meta-analysis of case comparison (d = .50, larger with immediate testing) and Gentner et al. (2003)'s randomised experiments with novice undergraduates learning negotiation. Key moderators still to document: learner expertise, degree of surface vs. structural similarity between cases, whether the analog is provided or self-generated, and domain (well-structured domains such as mathematics vs. ill-structured ones).
 
+## Learner Variables
+- [Executive Function](../learner-variables/executive-function.md) — outcome: instruction changes it
+
 ## Related Claims
+
+- [Students who self-explain worked examples learn more effectively than those who do not, and the quality of self-explanations relates to explaining deep structure](self-explanation-effect-worked-examples.md) — the general claim this finding bears on, with the studies behind it
 
 - [Strategy Instruction Needs Conditional Knowledge](strategy-instruction-needs-conditional-knowledge.md) — the general claim this finding bears on, with the studies behind it
 

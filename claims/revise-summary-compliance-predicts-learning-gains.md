@@ -44,6 +44,10 @@ Multiple linear regression on data from a user study with 28 college students le
 
 ## Related Claims
 
+- [Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading](summarization-improves-learning.md) — the general claim this finding bears on, with the studies behind it
+
+- [Students' argumentative essay quality improves substantially from initial to revised drafts regardless of feedback source](essay-quality-improves-from-initial-to-revised.md) — the general claim this finding bears on, with the studies behind it
+
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [No behavioral measure of compliance with MetaTutor's stay-on-page and move-to-next-page prompts relates to learning gains](no-learning-effect-for-metacognitive-monitoring-prompts.md) — related
 - [Higher compliance with MetaTutor's review-notes prompt is associated with larger proportional learning gains](review-notes-compliance-predicts-learning-gains.md) — related

@@ -30,7 +30,7 @@ sources:
 # Explicitly mentioned education and SES cues lead most models to produce less readable responses for higher-education users, showing partial readability adaptation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` When education levels are explicitly mentioned, users with higher educational level receive less readable responses, indicating models can partially adapt readability. [→ Donya Rooein 2026](#donya-rooein-2026)

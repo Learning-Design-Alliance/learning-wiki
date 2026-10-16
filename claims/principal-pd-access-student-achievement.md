@@ -42,8 +42,9 @@ Linear regression on the full professional development sample of principals repo
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers](instructional-leadership-linked-student-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [As principals' professional development in instructional leadership increases, mathematics gains are significantly more pronounced for historically underserved students of color than for white and Asian students](instructional-leadership-pd-underserved-students.md) — a narrower finding that bears on this claim
 - [Professional development is associated with larger mathematics gains for students of early-career principals than for students of mid-career and veteran principals](pd-benefits-early-career-principals.md) — a narrower finding that bears on this claim
 - [Principals' professional development access is positively but not significantly related to teacher retention](principal-pd-teacher-retention-null.md) — related

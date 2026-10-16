@@ -30,7 +30,7 @@ sources:
 # Optimal RAG configuration differs by discipline: STEM subjects perform best with 512-character chunks and temperature 0.3 (faithfulness 0.97), while humanities require 1000-character chunks and temperature 0.1 (context recall 1.00, faithfulness 0.98)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` For STEM subjects the optimal chunk size was 512 characters with model temperature 0.3, achieving RAGAS faithfulness of 0.97. [→ Anna Ostrowska 2026](#anna-ostrowska-2026)

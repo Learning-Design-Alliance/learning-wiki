@@ -42,6 +42,9 @@ Analysis of administrative records for first-time third, sixth, and eighth grade
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [CPS sharply reduced the number of non-graded (grade 20) special education students of grades 3-8 age, from 6,180 in 1992 to 773 in 1999](cps-grade-20-special-education-reclassification-1992-1999.md) — related
 - [Waivers promoted about one-third of third graders and 40% of sixth and eighth graders who failed the 1997 promotional criteria, keeping retention rates well below failure rates](waivers-promoted-failing-students-1997.md) — related

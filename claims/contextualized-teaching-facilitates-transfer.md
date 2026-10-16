@@ -42,22 +42,33 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does making the assessed task closer to real practice help learners carry the capability into that practice?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **3 distinct studies** (2 qualitative, 1 review), `q1`–`q2`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does making the assessed task closer to real practice help learners carry the capability into that practice?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **9 distinct studies** (6 qualitative, 1 theoretical, 1 review, 1 causal), `q1`–`q3`, 0 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Liang 2026](https://doi.org/10.3389/fneur.2026.1915268) | q2 · qualitative · r3 | i? | this claim |
-| [Elliott 2021](https://doi.org/10.30707/tlcsd5.1.1624982519.538001) | q1 · qualitative · r3 | i? | [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the ](simucase-lacks-behavioral-authenticity.md) (qualifies) |
+| Sebring 2021 | q2 · theoretical · r2 | i? | [Instruction organized to promote authentic intellectual work was associated with more comp](authentic-intellectual-work-complex-thinking-gains.md) (supports) |
 | [Faramarz Samifanni 2020](https://doi.org/10.5539/elt.v13n3p100) | q1 · review · r2 | i? | [Meaningful L2 learning is achieved through a conducive environment and authentic tasks and](authentic-tasks-meaningful-l2-learning.md) (supports) |
+| Chu 2019 | q2 · qualitative · r2 | i? | [Among the five lessons rated highly for both mathematical sense-making and student questio](contextualized-story-problems-sense-making.md) (supports) |
+| [Viki M. Young 2026](https://doi.org/10.51388/20.500.12265/286) | q2 · qualitative · r2 | i? | [High school students report they learn best through interactive, hands-on projects, real-w](students-report-hands-on-learning-most-effective.md) (supports) |
+| Newell 2008 | q3 · causal · r2 | i? | [The participatory simulation group achieved significantly larger application gains than th](simulation-larger-application-gains.md) (supports) |
+| Lili Zhou 2023 | q1 · qualitative · r2 | i? | [When a real-life quilt problem was turned into a contextualized mathematics task, its cont](contextualized-real-life-task-reverted-to-pure-mathematics-and-felt-too-school.md) (qualifies) |
+| Higgin 2025 | q2 · qualitative · r2 | i? | [Students and faculty value real-world examples in gateway math, but limited resources and ](real-world-relevance-gateway-math-procedural-instruction.md) (qualifies) |
+| [Elliott 2021](https://doi.org/10.30707/tlcsd5.1.1624982519.538001) | q1 · qualitative · r3 | i? | [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the ](simucase-lacks-behavioral-authenticity.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
-
 
 ## Learner Variables
 - [Domain Context](../learner-variables/domain-context.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments](authentic-assignments-greater-itbs-gains.md) — the general claim this finding bears on, with the studies behind it
+
+- [Problem-based learning shows null or negative effects on basic knowledge acquisition but positive effects on conceptual understanding and transfer relative to direct instruction](pbl-null-basic-knowledge-positive-transfer.md) — the general claim this finding bears on, with the studies behind it
+
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](whole-task-performance-improves-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Basic perioperative care competencies transfer most smoothly to clinical practice after neurosurgical specialty nurse training](basic-perioperative-competencies-transfer-readily-neurosurgical-nurses.md) — related
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — related

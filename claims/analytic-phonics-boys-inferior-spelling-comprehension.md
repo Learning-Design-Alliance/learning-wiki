@@ -41,11 +41,15 @@ The article's gender comparison under analytic phonics reports that "the boys pe
 
 ## Discussion
 
-
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Systematic phonics outperforms unsystematic or no-phonics instruction on children's reading overall, but its advantage over whole-word teaching on novel words is untested in children and contested](phonics-instruction-outperforms-whole-word-for-generalization.md) — the general claim this finding bears on, with the studies behind it
+
+- [GenAI function, intervention duration, publication year, and gender were not significant moderators of GenAI's motivational effect](genai-motivation-null-moderators-function-duration-year-gender.md) — the general claim this finding bears on, with the studies behind it
 - [Gender differences in reading outcomes at age 10 depend on the type of phonics teaching received in early literacy programmes](gender-reading-outcomes-depend-on-phonics-method.md) — a broader claim this one bears on
 - [Boys taught by synthetic phonics showed better word reading than girls in their classes, with spelling and reading comprehension as good as the girls'](synthetic-phonics-boys-better-word-reading.md) — related
 - [The group taught by synthetic phonics showed better word reading, spelling, and reading comprehension overall than the analytic phonics group](synthetic-phonics-group-better-overall-outcomes.md) — related

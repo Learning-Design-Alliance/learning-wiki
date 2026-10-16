@@ -39,8 +39,9 @@ Final exam analysis in the same crossover RCT, 320 students analyzed, with blind
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — related
 - [The peer assessment effect size is comparable in magnitude to a substantial fraction of measured achievement gaps in the course](peer-assessment-effect-size-versus-achievement-gaps.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related

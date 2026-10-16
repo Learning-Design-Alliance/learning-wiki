@@ -13,7 +13,7 @@ generated:
 # Review
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 7 studies (2 causal, 2 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (4 for, 3 mixed) · 10 studies (3 quant-synthesis, 3 associational, 2 causal, 1 review, 1 theoretical), `q2`–`q4` · 2 of 10 report an effect size · 4 claims rest on one study
 
 ## Description
 Review places learners in the role of evaluator: they examine their own or peers' work against criteria before a final version is produced. The act of judging work — identifying strengths, diagnosing weaknesses, and articulating improvements — converts evaluation from an instructor-only function into a learning activity in its own right.
@@ -56,6 +56,10 @@ Review supports learning because evaluating work requires comparing it against a
 - [A formative assessment script increases the quantity and quality of peer feedback vocational students generate on a peer's draft](../claims/fas-improves-peer-feedback-generation.md) [+W] — attached 2026-10-15 from Peters et al. (2018), which proposed "Formative Assessment Script (FAS) for generating formative peer and internal feedback".
 - [FAS support partially improves internal feedback: more comments on and fewer ignored erroneous elements in students' own drafts](../claims/fas-partially-improves-internal-feedback.md) [~W] — attached 2026-10-15 from Peters et al. (2018), which proposed "Formative Assessment Script (FAS) for generating formative peer and internal feedback".
 - [FAS support does not increase detection of missing information or improvement suggestions in students' internal feedback on their own drafts](../claims/fas-no-gain-missing-info-suggestions-own-draft.md) [~W] — attached 2026-10-15 from Peters et al. (2018), which proposed "Formative Assessment Script (FAS) for generating formative peer and internal feedback".
+
+## The evidence by question
+- *Should learners assess each other's work, and does it need a rubric or script?* [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]
+- *How accurately do learners judge work, and what does the accuracy of their judgments depend on?* [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](../claims/peer-feedback-accuracy-depends-on-expertise.md) [~M]
 
 ## Related Elements
 - Peer Review — the social form of review; peers exchange work and apply criteria to each other's drafts

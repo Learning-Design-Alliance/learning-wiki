@@ -44,6 +44,8 @@ The review reports Pica's (1989) follow-up comparing interactionally generated i
 
 ## Related Claims
 
+- [Conversational interaction facilitates second language grammatical development in adult ESL learners](interaction-facilitates-l2-grammatical-development.md) — the general claim this finding bears on, with the studies behind it
+
 - [Linguistic simplification of math word problems can improve performance, particularly among English language learners and students from low-socioeconomic backgrounds](linguistic-simplification-improves-math-performance.md) — the general claim this finding bears on, with the studies behind it
 - The quality rather than the quantity of interactional modifications predicts comprehensible input — related
 - [Interactionally modified input aids comprehension but shows no advantage for retention among beginner learners](interactionally-modified-input-aids-comprehension-not-retention.md) — related

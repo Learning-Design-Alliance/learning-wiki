@@ -44,6 +44,7 @@ The authors' online survey of students at four colleges and universities found "
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+- [Interest](../learner-variables/interest.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Undergraduate researchers' disciplinary identity differs by demographic characteristics](disciplinary-identity-differs-by-demographics.md) — related

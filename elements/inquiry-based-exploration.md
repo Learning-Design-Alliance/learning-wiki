@@ -13,7 +13,7 @@ generated:
 # Inquiry-Based Exploration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 11 studies (4 causal, 3 review, 2 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 11 report an effect size · 5 claims rest on one study
+> **Evidence** · 10 claims (8 for, 1 mixed, 1 against) · 18 studies (6 review, 5 causal, 5 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 5 of 18 report an effect size · 6 claims rest on one study
 
 ## Description
 Inquiry-based exploration places learners in front of an open-ended problem, question, or phenomenon and asks them to investigate it — gathering information, forming hypotheses, testing ideas, and generating solutions — rather than first receiving a fully worked explanation. The instructor's role shifts from transmitter to designer of the problem and facilitator of the investigation.
@@ -58,6 +58,11 @@ Inquiry can build deep conceptual understanding and durable engagement because l
 - [Open-ended tasks produce higher AI literacy performance than structured tasks](../claims/oet-outperforms-stt-ai-literacy-performance.md) [+M]
 - [The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills](../claims/ai-ibi-mainly-supports-creativity-and-affect.md) [-W]
 - [ChatGPT use in STEAM IBL is reported to enhance learner outcomes including motivation, critical thinking, engagement, and problem-solving](../claims/chatgpt-steam-ibl-learner-advantages.md) [+W]
+
+## The evidence by question
+- *Does inquiry-based teaching raise science achievement over the usual instruction?* [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+S]
+- *Does adding guidance to inquiry improve what learners learn, and does the kind of guidance matter?* [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](../claims/guidance-improves-inquiry-learning-outcomes.md) [+M]
+- *Should novices be left to discover the target content without support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
 
 ## Related Elements
 - [Problem Scenario](problem-scenario.md) — the designed problem that anchors and bounds the investigation

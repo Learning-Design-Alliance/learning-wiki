@@ -12,7 +12,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 113 claims (69 for, 16 mixed, 28 against) · 93 studies (30 causal, 18 quant-synthesis, 18 review, 14 associational, 7 theoretical, 4 design, 2 qualitative), `q1`–`q4` · 21 of 93 report an effect size · 105 claims rest on one study
+> **Evidence** · 114 claims (70 for, 16 mixed, 28 against) · 95 studies (30 causal, 20 review, 18 quant-synthesis, 14 associational, 7 theoretical, 4 design, 2 qualitative), `q1`–`q4` · 21 of 95 report an effect size · 105 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -160,6 +160,12 @@ What a learner can read without effort, and whether the language of instruction 
 - [Vocabulary knowledge gained from eight encounters persisted over two weeks, with no significant immediate-to-delayed test differences](../claims/vocabulary-gains-persist-two-weeks.md) [+M] — instruction changes it
 - [Vocabulary knowledge gained through extensive reading showed little decay on a three-month delayed posttest, with relative gains ranging from 21.05% (low-level) to 59.01% (high-level)](../claims/little-decay-three-month-delayed-posttest-extensive-reading.md) [+M] — instruction changes it
 - [Vocabulary learning gains in Term 2 of the extensive reading program were consistent with those from Term 1](../claims/term2-gains-consistent-with-term1.md) [+M] — instruction changes it
+
+## The evidence by question
+- *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]
+- *Does systematic phonics teaching improve reading more than unsystematic, no or other phonics-light teaching, and for which readers?* [Systematic phonics outperforms unsystematic or no-phonics instruction on children's reading overall, but its advantage over whole-word teaching on novel words is untested in children and contested](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]
+- *How much do repeated encounters add, and do words met in input last without review?* [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](../claims/vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) [+S]
+- *Does teaching through the learner's home language (dual language or mother-tongue instruction), rather than early transfer to the school language, improve school-language and subject learning?* [Teaching students in a language they understand benefits both language learning and broader learning](../claims/cl-teaching-in-language-students-understand-improves-learning.md) [+M]
 
 ## Related Learner Variables
 - Working memory — effortful decoding consumes it before comprehension begins.

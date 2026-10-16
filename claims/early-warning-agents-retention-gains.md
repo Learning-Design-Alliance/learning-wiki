@@ -41,8 +41,9 @@ The review reports the Ivy Tech Community College predictive analytics case, in 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI-powered predictive analytics improves academic performance by enabling early identification of at-risk students and timely intervention](ai-predictive-analytics-improves-academic-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Monitoring all students and proactively intervening on early warning signs has minimal-level evidence of improving dropout-related outcomes](proactive-monitoring-minimal-evidence.md) — a broader claim this one bears on
 - [Strong early-warning monitoring systems paired with strong norms and routines help students recover emotionally and engage academically](early-warning-systems-norms-routines-support-recovery.md) — related
 - [An agentic AI instructor sustained and deepened student engagement across successive course modules in a field deployment](agentic-instructor-sustained-engagement-iisc.md) — related

@@ -13,7 +13,7 @@ generated:
 # Writing Prompts
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (4 for, 3 mixed) · 13 studies (4 causal, 4 quant-synthesis, 2 associational, 1 review, 1 design, 1 theoretical), `q1`–`q4` · 4 of 13 report an effect size · 3 claims rest on one study
+> **Evidence** · 9 claims (6 for, 3 mixed) · 16 studies (6 quant-synthesis, 5 causal, 2 associational, 1 review, 1 design, 1 theoretical), `q1`–`q4` · 6 of 16 report an effect size · 4 claims rest on one study
 
 ## Description
 A writing prompt specifies a task that requires learners to generate written text — an explanation, argument, reflection, or summary — rather than select or recognize a response. Prompts function both as learning activities (writing to consolidate understanding) and as assessment instruments (writing to reveal it), and their design determines which of these functions dominates.
@@ -57,6 +57,11 @@ Writing prompts leverage the "generation effect": producing explanations and arg
 - [In an OLS regression, explicit finish lines in teacher prompts were associated with smaller DOK gaps, while explain-reasoning epistemic framing was associated with larger gaps](../claims/prompt-features-predict-dok-gap.md) [~W]
 - [Teachers' belief that their students were ready for argumentative writing significantly predicted student growth within the first prompt](../claims/teacher-readiness-belief-predicts-first-prompt-growth.md) [~W]
 - [Assessment shifts from the quality of AI-generated text to articulating tasks, justifying prompt choices, and reflexively evaluating AI behaviour](../claims/assessment-shift-task-articulation-over-text-quality.md) [+W]
+
+## The evidence by question
+
+- *Does writing about content during instruction improve learning of that content, compared with instruction without the writing?* [Writing To Learn Improves Understanding](../claims/writing-to-learn-improves-understanding.md) [+S]
+- *Does the design of a writing prompt (cognitive and metacognitive prompts, a model entry, a stated purpose) change what learners write and learn, compared with an open invitation to write?* [Instructionally supported (prompted) journal writing outperforms unsupported journal writing on learning outcomes (Hedges's g = 0.78)](../claims/prompted-journal-writing-medium-large-effect.md) [+M]
 
 ## Related Elements
 - [Practice](practice.md) — prompts are a form of generative practice; the same fading logic applies (framed → scaffolded → open)

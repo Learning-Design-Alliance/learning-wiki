@@ -60,8 +60,9 @@ Descriptive analysis of the same five groups' scored plans across all rounds: de
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Students' argumentative essay quality improves substantially from initial to revised drafts regardless of feedback source](essay-quality-improves-from-initial-to-revised.md) — the general claim this finding bears on, with the studies behind it
 - [Early-stage IDC growth shows simplification, linearity, and dogmatism, with focal points shifting from format to content to technology across rounds](novice-idc-growth-simplification-linearity-dogmatism.md) — related
 - [In a qualitative case study of three social-studies teacher candidates, pedagogical judgment appeared to grow over a clinical semester of structured, iterative support aligned to rubric competencies](structured-iterative-support-improves-pedagogical-judgment.md) — related
 - [A 13-week TPACK-based course significantly improves pre-service preschool teachers' instructional design competence compared with traditional instruction](tpack-course-improves-preservice-preschool-idc.md) — related

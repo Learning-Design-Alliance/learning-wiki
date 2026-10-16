@@ -42,6 +42,7 @@ The review reports that across prior reviews and recent studies, "students and t
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Nature exposure relieves stress in learners, including experimentally demonstrated reductions in heart rate and self-reported stress](nature-exposure-reduces-learner-stress.md) — related

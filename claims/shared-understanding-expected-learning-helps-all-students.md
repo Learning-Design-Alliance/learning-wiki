@@ -39,6 +39,18 @@ The brief asserts, citing prior research (Pryor & Crossouard, 2008, in an endnot
 
 > "Research has found that teachers' intentional effort to develop a common understanding of the expected learning, e.g., the learning goals, success criteria, and elements of student tasks, helps all students to be successful"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does making the intended learning explicit to learners help them, and do learners register when it is missing?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **3 distinct studies** (1 design, 1 causal, 1 review), `q1`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Jones 2024 | q1 · design · r1 | i? | this claim |
+| Martin 2003 | q3 · causal · r2 | i? | [Students may be unaware of the absence of objectives: the no-objectives group gave the hig](no-objectives-group-most-positive-attitudes.md) (qualifies); [Individually removing objectives, examples, or review from a well-designed computer-based ](single-event-removal-no-achievement-effect.md) (counts against) |
+| [Hattie Timperley 2007](https://doi.org/10.3102/003465430298487) | q2 · review · r? | i? | [Feedback Answers Three Questions](feedback-answers-three-questions.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

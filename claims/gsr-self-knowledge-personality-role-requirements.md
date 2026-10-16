@@ -30,7 +30,7 @@ sources:
 # Participants required GSR self-knowledge of an assertive, conscientious, friendly personality with a customizable role
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 qualitative `r3` · `q2`
+> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Participants unanimously wanted some level of assertiveness, but the desired degree varied from person to person and by urgency. [→ S. Vonschallen 2026](#s-vonschallen-2026)

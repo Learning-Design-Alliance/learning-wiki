@@ -56,9 +56,10 @@ Pearson correlations between the four SRL dimensions and value-added scores foun
 
 ## Discussion
 
-
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Interviews show students used scores to trigger action but reflected shallowly, derived planning from previous scores, and diverged emotionally](interviews-shallow-reflection-score-derived-planning.md) — related

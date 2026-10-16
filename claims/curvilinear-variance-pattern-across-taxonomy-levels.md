@@ -42,8 +42,9 @@ Pattern observed in Tables 2-4 and Figure 3 summarizing proportions of variance 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Students perform better overall on LOCS exam questions than on HOCS exam questions](locs-exam-questions-outperform-hocs.md) — the general claim this finding bears on, with the studies behind it
 - Causal model analysis of taxonomy test data suggests a Y-shaped structure rather than Bloom's cumulative hierarchy — related
 - The g-factor's relationship to the higher taxonomy levels declines across grade levels — related
 - [Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels](higher-hierarchy-levels-recalled-better.md) — related

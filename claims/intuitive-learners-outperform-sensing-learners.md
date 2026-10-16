@@ -54,6 +54,9 @@ In an extended student-class experiment comparing text-only, voice, diagram, and
 
 **Single-source limitation.** Both subclaims rest on one conference-report series of classroom experiments by a single author, with sample sizes and effect magnitudes not fully specified. Replication in independent labs and with modern multimedia would be needed before treating the intuitive advantage as robust.
 
+## Learner Variables
+- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — the general claim this finding bears on, with the studies behind it

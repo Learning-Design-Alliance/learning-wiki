@@ -30,7 +30,7 @@ sources:
 # Supervised ML/DL Bloom question classifiers trained on one dataset drop substantially in weighted F1 when tested on unseen datasets
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r2`, 1 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` TFPOSIDF+SVM cross-dataset weighted F1 drops by an average of 0.25 relative to within-dataset test scores. [→ Abdolali Faraji 2026](#abdolali-faraji-2026)
@@ -57,6 +57,18 @@ Abdolali Faraji, Mohammadreza Molavi, Zohreh Rasoulkhani, Mohammadreza Tavakoli,
 Same cross-dataset evaluation protocol (RQ1); the fine-tuned BERT reference model's weighted F1 fell from 0.76–0.91 within-dataset to 0.31–0.76 on unseen datasets, an average drop of 0.28.
 
 > "Similarly, fine-tuned BERT achieves test scores between 0.76 and 0.91, which drop on average by 0.28 when evaluated on other datasets, ranging from 0.31 to 0.76."
+
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Can a model tag questions by Bloom level reliably enough to use the tags in a course?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 design), `q2`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Abdolali Faraji 2026](https://doi.org/10.48550/arxiv.2606.13684) | q2 · causal · r2 | i? | this claim; [LLMs are more stable than supervised models across dataset shifts, though they do not surp](llms-more-stable-cross-dataset-than-supervised.md) (qualifies); [In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting ou](in-context-examples-improve-bloom-classification.md) (qualifies) |
+| [Michael Lawrence Castanares 2026](https://doi.org/10.48550/arxiv.2609.27749) | q2 · design · r2 | i? | [Feature-based ML Bloom classifiers trained on IID data degrade sharply on out-of-distribut](ml-bloom-classifiers-degrade-ood-aeq.md) (supports); [Model accuracy on Bloom classification drops with question text length, with LLMs degradin](bloom-signal-dilution-with-text-length.md) (supports); [LLMs show robust zero- and few-shot Bloom classification of OOD AI-assisted questions comp](llms-robust-ood-bloom-classification.md) (qualifies); [Model retraining on labeled OOD data provides the largest improvement in Bloom classificat](model-retraining-largest-ood-improvement.md) (qualifies) |
+| [social-fgp](https://doi.org/10.1145/3770854.3785686) | q2 · causal · r1 | i? | [The Bloom-driven framework generalizes to social-science questions, with automated rubrics](social-science-generalization-human-agreement.md) (supports) |
+<!-- synthesis:end -->
 
 ## Discussion
 

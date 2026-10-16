@@ -41,11 +41,12 @@ Moderator analysis in the three-level meta-analysis testing five regions. Europe
 
 ## Discussion
 
-
 ## Learner Variables
 - [Digital Literacy](../learner-variables/digital-literacy.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [AI literacy interventions show a large, statistically significant overall positive effect on student AI literacy outcomes (g = 0.837)](ai-literacy-interventions-large-overall-effect.md) — the general claim this finding bears on, with the studies behind it
 - STEAM AI literacy research is geographically concentrated in North America, Europe and East Asia, led by the United States (23.5%) — related
 - Geographic distribution of the selected sample shows Asia (18 studies) and North America strongly represented, with Europe, Africa, and South America underrepresented — related
 - Included AI-in-higher-education studies were geographically concentrated in North America and Asia, with medicine, computer science, and engineering as leading disciplines — related

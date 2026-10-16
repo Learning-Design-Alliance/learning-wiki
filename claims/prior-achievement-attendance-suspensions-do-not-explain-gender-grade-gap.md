@@ -60,6 +60,9 @@ The report states that after these comparisons "the difference after these compa
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Gender differences in points earned remained statistically significant when comparing students in the same courses with the same weightings](gender-gap-persists-controlling-course-enrollment.md) — related
 - [Gender differences in ninth-grade math grades were similar across racial/ethnic groups, with young men earning fewer points in every group](gender-grade-gap-similar-across-race-ethnicity-ninth-grade-math.md) — related

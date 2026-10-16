@@ -30,7 +30,7 @@ sources:
 # LoRA fine-tuning makes the Solution-Method-Teaching Points instructional format more stable, with Solution and Method coverage reaching 1.00 at r=8 and r=16 for the 3B model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` LoRA fine-tuning substantially increased coverage of the Solution and Method structural markers relative to base models. [→ Shaowen Lu 2026](#shaowen-lu-2026)

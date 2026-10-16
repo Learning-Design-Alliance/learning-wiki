@@ -60,7 +60,8 @@ The same study's final exam analysis included 54 intervention and 20 comparison 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [OLI has mixed effects on academic achievement among postsecondary students](oli-mixed-effects-academic-achievement.md) — related
 - [OLI has potentially positive effects on credit accumulation and persistence among postsecondary students](oli-potentially-positive-credit-accumulation-persistence.md) — related

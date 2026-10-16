@@ -41,8 +41,9 @@ Cluster analysis of proportion vectors of SEDA-adapted dialogue codes from 173 s
 
 ## Discussion
 
-
 ## Related Claims
+
+- [GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students](gai-assisted-dst-improves-cps-skills.md) — the general claim this finding bears on, with the studies behind it
 - [The Concerted Interpretation group reported significantly higher self-regulation than Delegated Reasoning, with no profile differences in co-regulation or socially-shared regulation](ci-higher-self-regulation-no-coreg-differences.md) — a narrower finding that bears on this claim
 - [Semantic similarity between human and AI discourse is highest in the Delegated Reasoning profile and significantly lower in Concerted Interpretation](dr-highest-semantic-similarity-ci-lower.md) — a narrower finding that bears on this claim
 - [The Delegated Reasoning group significantly outperformed the Concerted Interpretation group on collaborative problem-solving task performance](dr-outperforms-ci-task-performance.md) — related

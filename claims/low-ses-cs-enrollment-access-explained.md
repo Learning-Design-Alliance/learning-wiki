@@ -41,11 +41,12 @@ Analysis of CS enrollment by neighborhood SES with and without adjustment for sc
 
 ## Discussion
 
-
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [School test score averages are strongly related to the income of the families a school serves](school-test-scores-strongly-related-to-family-income.md) — the general claim this finding bears on, with the studies behind it
 - [Black students were least likely to enroll in CS overall but most likely to enroll once school-level access to CS is accounted for](black-students-cs-enrollment-access-adjusted.md) — related
 - [Students earned higher average grades in CS courses than in core courses, with few failing CS](cs-grades-higher-than-core.md) — related
 - [Larger CPS high schools were consistently more likely to offer CS courses than smaller schools in both 2012 and 2018](school-size-cs-offering-gap.md) — related

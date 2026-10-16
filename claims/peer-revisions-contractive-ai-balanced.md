@@ -39,8 +39,9 @@ Linear mixed model comparing Contract and Expand across draft types found a sign
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Diagnostic Review revisions contained larger shares of meaning-change, organization, and content/argument work, while Control revisions remained more dependent on surface-level editing](revision-architecture-meaning-change-versus-surface.md) — the general claim this finding bears on, with the studies behind it
 - [AI-generated revisions employ significantly more appraisal resources than peer-feedback revisions, which exceed first drafts](ai-revisions-most-appraisal-resources.md) — related
 - [Revision-driven increases in appraisal resources are driven by Attitude and Graduation, while Engagement frequency remains stable across draft types](attitude-graduation-drive-increase-engagement-stable.md) — related
 - [Entertain is the most frequently used heteroglossic subcategory across all draft types, decreasing in peer-feedback revisions but remaining relatively high in AI revisions](entertain-most-frequent-subcategory.md) — related

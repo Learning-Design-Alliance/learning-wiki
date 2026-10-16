@@ -42,7 +42,13 @@ Testimony of Phyllis Rosser citing MIT's admissions experience as evidence again
 
 ## Discussion
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
+
+- [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](race-gender-grade-differences-persist.md) — the general claim this finding bears on, with the studies behind it
 
 - [Traditional gifted identification tests cannot fully determine learning potential and omit classroom-learning components](traditional-identification-tests-fail-learning-potential.md) — the general claim this finding bears on, with the studies behind it
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — a broader claim this one bears on

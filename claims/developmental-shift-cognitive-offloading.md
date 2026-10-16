@@ -40,6 +40,9 @@ Narrative review attribution: the article reports a word-pair memory task study 
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Individuals systematically overuse reminders relative to the optimal offloading level, and reminder bias correlates with confidence and metacognitive bias](reminder-bias-overuse-external-aids.md) — related
 - [Cognitive offloading to AI during early learning can stifle development of stable knowledge and skills](ai-offloading-stifles-early-development.md) — related

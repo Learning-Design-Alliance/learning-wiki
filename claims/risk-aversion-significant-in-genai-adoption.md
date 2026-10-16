@@ -41,8 +41,9 @@ Structural equation modelling of survey data from 287 teachers across 27 countri
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).](teacher-perceived-cost-reduces-motivation-to-use-ai.md) — the general claim this finding bears on, with the studies behind it
 - [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](genai-overreliance-harms-self-regulated-learning.md) — related
 - Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - K-12 education respondents rate research and evidence as playing a moderate to highly important role in program adoption and procurement decisions — related

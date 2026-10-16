@@ -41,8 +41,9 @@ In the same PLS-SEM survey of 122 teachers, both paths were non-significant; the
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — the general claim this finding bears on, with the studies behind it
 - [The four-predictor model explains approximately 55.4% of variance in teachers' AI integration ability](plssem-model-explains-55-percent-variance-ai-integration.md) — related
 - [Teacher involvement in developing ESD-based teaching materials significantly predicts AI integration ability (β = 0.236, p < 0.05, f² = 0.127)](esd-material-development-predicts-ai-integration.md) — related
 - [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) — related

@@ -62,6 +62,8 @@ Item-level WWC calculations in Appendix A4 for the ethical perspective scale: Di
 
 ## Related Claims
 
+- [All three instructional groups began at comparable, mostly low decision-making levels and all improved over the intervention](all-groups-improved-from-low-baseline.md) — the general claim this finding bears on, with the studies behind it
+
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — the general claim this finding bears on, with the studies behind it
 - [Effects favoring the curriculum-plus-service-learning condition over service-learning alone appeared only for ethical awareness and ethical perspective](bds-curriculum-adds-beyond-service-learning-alone.md) — related
 - [Building Decision Skills combined with service learning has potentially positive effects on high school students' knowledge, attitudes, and values](bds-service-learning-potentially-positive-kav.md) — a broader claim this one bears on

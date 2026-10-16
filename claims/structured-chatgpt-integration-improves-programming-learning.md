@@ -62,8 +62,9 @@ The chapter reports, citing Bernik et al. (2025), a comparative study of large l
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](ai-instruction-stem-moderate-positive-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Unstructured ChatGPT use in programming education is linked to overreliance, reduced persistence, unreliable outputs, and academic integrity risks](unstructured-chatgpt-use-risks-programming-education.md) — reports the opposite
 - Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts — related
 - [Overreliance on AWE may lower learners' critical thinking and creativity](awe-overreliance-lowers-critical-thinking-creativity.md) — related

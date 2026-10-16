@@ -42,6 +42,7 @@ Summary matrix of domain-by-moderator subgroup meta-analyses (Figure 12) showed 
 
 ## Learner Variables
 - [Working Memory](../learner-variables/working-memory.md) — outcome: instruction changes it
+- [Executive Function](../learner-variables/executive-function.md) — outcome: instruction changes it
 
 ## Related Claims
 - [CCT shows no significant effects on executive functions or attention in healthy older adults](cct-no-effect-executive-attention.md) — related

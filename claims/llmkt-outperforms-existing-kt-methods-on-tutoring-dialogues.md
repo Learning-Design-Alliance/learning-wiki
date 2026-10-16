@@ -30,7 +30,7 @@ sources:
 # LLMKT outperforms existing knowledge tracing methods at predicting student turn correctness in the CoMTA and MathDial tutoring dialogue datasets, and generally outperforms DKT-Sem.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` LLMKT significantly outperforms all existing KT methods (BKT, DKT, DKVMN, AKT, SAINT, simpleKT) and generally outperforms DKT-Sem on both datasets. [→ Alexander Scarlatos 2024](#alexander-scarlatos-2024)
@@ -57,6 +57,19 @@ Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge 
 MathDial results from the same benchmark comparison, where existing methods improve with more data: "LLMKT still maintains a large advantage over all other KT methods". No test statistic or effect size is printed in this sentence.
 
 > "However, LLMKT still maintains a large advantage over all other KT methods."
+
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Can an LLM-based knowledge tracing model estimate what a student knows from a tutoring dialogue more accurately than standard knowledge tracing, and how accurate is it in absolute terms?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **4 distinct studies** (3 design, 1 theoretical), `q1`–`q2`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Alexander Scarlatos 2024](https://doi.org/10.48550/arxiv.2409.16490) | q1 / q2 · design · r2 | i? | this claim; [DKT-Sem, a DKT variant using semantic text embeddings, performs better than existing KT me](dkt-sem-outperforms-existing-kt-methods-most-with-little-training-data.md) (qualifies); [Existing KT methods fail to beat a majority-class baseline on the small CoMTA dialogue dat](existing-kt-methods-fail-on-small-comta-but-improve-with-more-data-on-mathdial.md) (supports); [Knowledge tracing performance on tutoring dialogues is relatively low, with a maximum of a](dialogue-kt-performance-is-relatively-low-compared-to-standard-kt.md) (qualifies); [LLMKT's predicted knowledge change curves on CoMTA are mixed across the 15 most frequent K](llmkt-knowledge-change-curves-show-mixed-trends-resembling-power-law-of-practice.md) (qualifies) |
+| [Shuyan Huang 2026](https://doi.org/10.48550/arxiv.2605.01097) | q2 · design · r2 | i? | [An IRT-based difficulty-aware conversational KT framework improves AUC over the LLMKT base](irt-difficulty-aware-kt-beats-llmkt-auc.md) (counts against); [Among deep learning KT models, simpler DKT performs comparably to complex architectures un](dkt-comparable-to-complex-kt-architectures.md) (qualifies) |
+| [Eamon Worden 2026](https://doi.org/10.48550/arxiv.2602.00070) | q2 · design · r2 | i? | [Frontier LLMs barely exceed a trivial baseline on knowledge tracing, with the best model s](llms-barely-exceed-trivial-baseline-kt.md) (qualifies); [LLMs show a systematic optimism bias in knowledge tracing, predicting far more accurately ](llm-optimism-bias-knowledge-tracing.md) (qualifies); [Longer student histories do not improve LLM knowledge tracing: FKT AUC-ROC stays near 0.5-](context-length-no-effect-fkt.md) (qualifies) |
+| [Khosravi 2026](https://doi.org/10.48550/arxiv.2605.04816) | q2 · theoretical · r3 | i? | [Hybrid approaches combining LLMs with traditional knowledge-tracing algorithms outperform ](hybrid-llm-knowledge-tracing-outperforms-either-alone.md) (qualifies) |
+<!-- synthesis:end -->
 
 ## Discussion
 

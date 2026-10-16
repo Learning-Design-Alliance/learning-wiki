@@ -43,6 +43,8 @@ Pre-experiment questionnaire administered to the fifteen main-study participants
 
 ## Related Claims
 
+- [Effective AI help-seeking is itself a skill unevenly distributed among students, and access to an assistant is not equivalent to effective help-seeking](ai-help-seeking-is-a-skill.md) — the general claim this finding bears on, with the studies behind it
+
 - [Drop-in one-to-one tutorial attendees improved P1X-to-P1Y marks while the class average declined](drop-in-tutorials-improve-p1y-marks.md) — the general claim this finding bears on, with the studies behind it
 - [Most students (87.6%) prefer attempting to solve problems independently before seeking support, managing uncertainty privately before engaging formal support](students-prefer-independent-problem-solving-first.md) — related
 - [A warning message about potential AI mistakes increases seventh-graders' hint requests in a math intelligent tutoring system](ai-fallibility-warning-increases-help-seeking.md) — related

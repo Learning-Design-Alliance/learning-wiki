@@ -65,6 +65,9 @@ Narrative review attribution: the review reports, citing L. Zhang and Xu (2025),
 
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Qualitative themes: efficiency and peer influence drive AI use, while confidence and rule ambiguity shape students' perceptions of dependence](qualitative-themes-ai-writing-motivation-dependence.md) — possibly the same claim (merge candidate)

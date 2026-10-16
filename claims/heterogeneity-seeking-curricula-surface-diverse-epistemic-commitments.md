@@ -46,7 +46,12 @@ Thirty-three focal sixth-grade students, drawn from six iterations of a 9-week h
 ## Discussion
 This is a qualitative, non-experimental design study without a comparison condition (e.g., a matched convergence-seeking curriculum), so the claim that heterogeneity-seeking design specifically causes commitments to surface (rather than merely making them visible) cannot be isolated here. Commitment frequencies are based on self-report interviews conducted at the end of the unit, which may not fully capture commitments that shaped earlier decisions but were not salient enough to mention retrospectively. The claim is about which values students expressed and how they used them, not about a measured content-learning outcome from the curriculum.
 
+## Learner Variables
+- [Epistemic Beliefs](../learner-variables/epistemic-beliefs.md) — outcome: instruction changes it
+
 ## Related Claims
+
+- [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) — the general claim this finding bears on, with the studies behind it
 - [Creating computational literature develops computational literacy even when code modification is minor](creating-computational-literature-develops-computational-literacy.md) — related
 - [Dialogic teacher support cultivates all four aspects of statistical modeling practice over a multi-week unit](dialogic-teacher-support-cultivates-statistical-modeling-practice.md) — related
 - [Agentic engagement with lively data supports epistemically just crisis sensemaking](lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking.md) — related

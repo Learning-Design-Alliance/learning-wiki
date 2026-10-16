@@ -13,7 +13,7 @@ generated:
 # Application of Knowledge
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (7 for, 2 mixed, 2 against) · 22 studies (7 causal, 6 quant-synthesis, 3 review, 2 qualitative, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 4 of 22 report an effect size · 5 claims rest on one study
+> **Evidence** · 14 claims (10 for, 2 mixed, 2 against) · 27 studies (8 causal, 7 quant-synthesis, 5 review, 3 qualitative, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 5 of 27 report an effect size · 7 claims rest on one study
 
 ## Description
 Application of Knowledge asks learners to use newly acquired concepts, procedures, or principles to solve real-world problems, analyze case studies, or complete authentic tasks. Rather than ending instruction at recall or explanation, it requires learners to act on content — deciding, diagnosing, designing, or performing — which consolidates understanding and reveals gaps that passive study conceals.
@@ -57,6 +57,12 @@ Application is where learning consolidates: retrieving and using knowledge in va
 - [Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction](../claims/real-world-relevance-gateway-math-procedural-instruction.md) [~W]
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](../claims/students-report-hands-on-learning-most-effective.md) [+W]
 - [A persistent theory-practice gap: students may develop conceptual AI understanding but lack opportunities to apply it in authentic contexts](../claims/ail-theory-practice-gap-he-programs.md) [-W]
+
+## The evidence by question
+
+- *Does making the assessed task closer to real practice help learners carry the capability into that practice?* [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](../claims/contextualized-teaching-facilitates-transfer.md) [+W]
+- *How much guidance do novices need inside a problem-centred design?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
+- *Does learning across varied contexts or varied tasks of a type, rather than repeating one, produce transfer to new cases?* [Encoding variability across varied example contexts produces decontextualization supporting transfer (review reports DiVesta and Peverly)](../claims/encoding-variability-decontextualization-transfer.md) [+M]
 
 ## Related Elements
 - [Hands-on Learning](hands-on-learning.md) — the physical-manipulation form of application

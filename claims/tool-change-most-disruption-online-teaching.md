@@ -41,8 +41,9 @@ In the Discussion, the authors state "the change in tools that caused the most d
 
 ## Discussion
 
-
 ## Related Claims
+
+- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — the general claim this finding bears on, with the studies behind it
 - [In web-based high-school distance education, e-teachers widened the object of their teaching activity toward more independent and engaged forms of learning](e-teachers-widen-object-toward-independent-learning.md) — related
 - [The authors argue formative feedback is critical for making student behaviour 'seen' in asynchronous online learning where the teacher is not physically present](feedback-makes-behaviour-seen-asynchronous.md) — related
 - [Creating community and interacting with students online required deliberate, planned effort unlike spontaneous face-to-face co-presence](online-community-requires-conscious-effort.md) — related

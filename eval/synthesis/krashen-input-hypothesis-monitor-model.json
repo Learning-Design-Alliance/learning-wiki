@@ -1,0 +1,82 @@
+{
+  "principle": "theories/krashen-input-hypothesis-monitor-model",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "comprehensible-input-insufficient-grammar-acquisition",
+      "question": "Is exposure to meaningful input enough for learners to acquire L2 grammar, or do some forms need explicit instruction and practice?",
+      "members": [
+        [
+          "low-salience-elements-need-extensive-practice",
+          "+"
+        ],
+        [
+          "mere-exposure-insufficient-advanced-l2-communicative-competence",
+          "+"
+        ],
+        [
+          "processing-instruction-gains-comprehension-and-production",
+          "+"
+        ],
+        [
+          "cl-core-sense-preposition-instruction-improves-use",
+          "+"
+        ],
+        [
+          "explicit-l2-grammar-instruction-superior-to-implicit",
+          "+"
+        ],
+        [
+          "drill-and-grammar-focus-ineffective-for-l2-acquisition",
+          "-"
+        ],
+        [
+          "form-focused-input-manipulation-illusory-for-competence",
+          "-"
+        ],
+        [
+          "monitoring-improves-learnable-rule-accuracy",
+          "~"
+        ],
+        [
+          "monitoring-lowers-preposition-accuracy",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "incidental-vocabulary-exposure-limited",
+      "question": "Do learners acquire second-language vocabulary from reading and other meaning-focused input without deliberate study, and how much?",
+      "members": [
+        [
+          "vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts",
+          "+"
+        ],
+        [
+          "exposure-frequency-predicts-incidental-gains",
+          "+"
+        ],
+        [
+          "incidental-acquisition-rate-3-of-20-words",
+          "+"
+        ],
+        [
+          "incidental-reading-vocabulary-acquisition-slow-unpredictable",
+          "+"
+        ],
+        [
+          "l2-extensive-reading-beats-decontextualized-vocabulary-exercises",
+          "+"
+        ],
+        [
+          "extensive-reading-produces-vocabulary-gains-efl",
+          "+"
+        ],
+        [
+          "little-decay-three-month-delayed-posttest-extensive-reading",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

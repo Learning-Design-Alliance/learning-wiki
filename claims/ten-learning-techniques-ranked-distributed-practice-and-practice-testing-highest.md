@@ -49,6 +49,8 @@ Even the lowest techniques average d = 0.44, but the outcomes were mostly surfac
 
 ## Related Claims
 
+- [Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading](summarization-improves-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Mnemonic Instruction Improves Recall For Students With Disabilities](mnemonic-instruction-improves-recall-for-students-with-disabilities.md) — the general claim this finding bears on, with the studies behind it
 
 - [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — the general claim this finding bears on, with the studies behind it

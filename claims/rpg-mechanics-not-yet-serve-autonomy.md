@@ -42,6 +42,9 @@ Authors' interpretation of the questionnaire data: the lowest-ranked items were 
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Vocabulary performance shifted from B1–B2 CEFR levels at pre-test to B2–C1 at post-test after four weeks of Mangomon play](cefr-band-shift-business-vocabulary-mangomon.md) — related
 - [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](gamification-raises-motivation-satisfaction.md) — related

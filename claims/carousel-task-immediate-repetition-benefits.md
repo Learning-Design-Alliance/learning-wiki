@@ -41,7 +41,8 @@ The article summarises Lynch and Maclean's (2000) ESP-course carousel study: pai
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](skill-specificity-l2-grammar-practice.md) — the general claim this finding bears on, with the studies behind it
 - [Immediate task repetition benefits oral performance, including fluency, self-correction and reduced anxiety](immediate-repetition-benefits-oral-performance.md) — a broader claim this one bears on
 - Speaking gains were significant for fluency, pronunciation and vocabulary but not for grammar — related

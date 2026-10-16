@@ -43,6 +43,9 @@ Pre-survey logistic regression (Table 2) controlling for year level and school o
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Female students are significantly more likely than male students to use AI for schoolwork and to seek advice from AI tools](females-more-ai-schoolwork-and-advice-use.md) — related
 - [Male secondary students report significantly higher STEM career interest than female students across AI, computer science, and engineering at baseline](baseline-male-higher-stem-career-interest-ai-literacy.md) — related

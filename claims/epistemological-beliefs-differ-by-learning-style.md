@@ -42,6 +42,9 @@ ANOVA comparing six learning style groups (n=410) on the four-dimension Epistemo
 ## Discussion
 
 
+## Learner Variables
+- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Avoidant-style preservice teachers hold stronger certainty-of-knowledge beliefs than participant-style peers](avoidant-style-higher-certainty-knowledge.md) — a narrower finding that bears on this claim
 - [Collaborative-style preservice teachers score higher on continuous and intentional thinking than avoidant and dependent styles](collaborative-style-higher-continuous-thinking.md) — a narrower finding that bears on this claim

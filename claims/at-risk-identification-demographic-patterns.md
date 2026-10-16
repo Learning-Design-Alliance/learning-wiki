@@ -41,8 +41,14 @@ Descriptive analysis of 2023/24 statewide data, reported in text and Figure 1, o
 
 ## Discussion
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Both prior performance flags and the machine learning algorithm are less accurate when predicting outcomes for students who are Black](ews-and-algorithm-less-accurate-black-students.md) — the general claim this finding bears on, with the studies behind it
+
+- [Cultural processes and forms of epistemic injustice should be taken into account in understanding how inequalities in education are produced and maintained](cultural-processes-and-epistemic-injustice-explain-educational-inequality.md) — the general claim this finding bears on, with the studies behind it
 - [Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year](sophomore-gains-unequal-by-race-gender.md) — related
 - [Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent)](cps-graduation-race-gender-gaps.md) — related
 - [On-Track gains were largest in the lowest-performing schools and among African American and Latino males](on-track-gains-largest-bottom-quartile-and-minority-males.md) — related

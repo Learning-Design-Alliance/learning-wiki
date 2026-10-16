@@ -30,7 +30,7 @@ sources:
 # Stepwise constructive-conflict guidance reduced new idea generation, while the antagonistic agent played a more balanced role
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Stepwise Guidance participants added significantly fewer new ideas in the second iteration than Self Reflection participants (g = −1.03). [→ Howard Ziyu Han 2026](#howard-ziyu-han-2026)
@@ -60,8 +60,9 @@ Same idea-addition analysis: the agent condition's mean fell between the other g
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — the general claim this finding bears on, with the studies behind it
 - [Only the interactive antagonistic agent, not stepwise guidance, significantly shifted novice designers' design thinking relative to self-reflection](agent-enacted-conflict-shifts-design-thinking.md) — related
 - [Both constructive-conflict conditions produced substantially more idea editing between design iterations than unsupported self-reflection](constructive-conflict-increases-idea-editing.md) — related
 - [Both stepwise constructive-conflict guidance and the antagonistic agent led novice designers to reconsider what makes a design effective more than unsupported self-reflection](constructive-conflict-guidance-increases-reconsideration.md) — related

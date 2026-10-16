@@ -30,7 +30,7 @@ sources:
 # Prompting-based student simulators maintain artificially high pass rates (~80%) from the first submission step, while fine-tuned models track real students' low-start, sharp-increase trajectories
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Real students start with low pass rates and improve sharply near final steps; prompting-based models maintain high pass rates from the beginning, whereas fine-tuned models closely track this trajectory. [→ Rose Niousha 2026](#rose-niousha-2026)

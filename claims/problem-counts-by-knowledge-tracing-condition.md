@@ -40,8 +40,9 @@ Simulation results shown in Figure 1 report problems administered per condition 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Adaptive scaffolding policies (BKT and DRL) significantly improve posttest performance over a non-adaptive control in a logic ITS](adaptive-icap-scaffolding-improves-posttest-logic-tutor.md) — the general claim this finding bears on, with the studies behind it
 - [BKT is the most efficient knowledge tracing approach overall in simulated online mastery learning, though DKT is more efficient for AS and M problems](bkt-most-efficient-online-mastery-learning.md) — related
 - Deep Knowledge Tracing has a fundamental limitation that prevents it from supporting mastery learning on multi-step problems — related
 - Simulated students (Apprentice agents) can successfully evaluate online knowledge tracing models, exposing errors before costly classroom testing — a broader claim this one bears on

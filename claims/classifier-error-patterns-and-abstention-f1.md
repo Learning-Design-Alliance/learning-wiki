@@ -30,7 +30,7 @@ sources:
 # Classifier errors cluster into three interpretable patterns, and the unknown abstention class is well classified (F1 = 0.93), reliably filtering off-topic chat
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` The 14 misclassified gold items cluster into surface-keyword traps (7/14), adjacent reasoning topics (5/14), and vague questions or abstention misfires (2/14). [→ Youssef Medhat 2026](#youssef-medhat-2026)

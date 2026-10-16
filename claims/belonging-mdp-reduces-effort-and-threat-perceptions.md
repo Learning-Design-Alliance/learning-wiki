@@ -41,8 +41,9 @@ Development-phase analyses of student survey data from M-PLANS classrooms; the r
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Video analysis showed teachers enacted the same MDP in different ways and situations, while perceiving barriers to consistent implementation](m-plans-enactment-variation-and-implementation-barriers.md) — related
 - [Cooperation compared with individualistic efforts typically results in higher achievement, greater retention, and greater social competence and self-esteem](cooperation-versus-individualistic-effort-outcomes.md) — related
 - [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](self-affirmation-improves-outcomes.md) — related

@@ -30,7 +30,7 @@ sources:
 # Planning effects on performance in test contexts are mixed, appearing for high-proficiency learners and high-load tasks but not overall
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 review `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Wigglesworth (1997) found planned/unplanned performance differences especially for high-proficiency learners and high cognitive load tasks. [→ Yingli Wang 2008](#yingli-wang-2008)

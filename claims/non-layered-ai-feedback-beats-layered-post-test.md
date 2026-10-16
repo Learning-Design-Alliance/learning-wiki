@@ -30,7 +30,7 @@ sources:
 # Non-layered AI feedback produced significantly higher post-test performance than layered AI feedback after controlling for pre-test
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Students receiving non-layered elaborated AI feedback scored significantly higher on the post-test than students receiving layered feedback (adjusted means 11.24 vs 10.40). [→ Jie Cao 2026](#jie-cao-2026)

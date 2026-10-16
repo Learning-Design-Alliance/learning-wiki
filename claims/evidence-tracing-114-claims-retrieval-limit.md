@@ -30,7 +30,7 @@ sources:
 # Evidence tracing links 96 of 114 generated claims to source chunks, but three claims with retrieval scores of 0.50 or below show retrieval similarity alone is insufficient
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 design `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Of 114 unique claims across 30 responses, 96 link to at least one source-chunk identifier, and three claims with average retrieval scores of 0.50 or below show retrieval similarity alone does not guarantee claim-level evidential support. [→ Dana Rezazadegan 2026](#dana-rezazadegan-2026)

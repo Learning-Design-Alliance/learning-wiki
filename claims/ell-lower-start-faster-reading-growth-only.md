@@ -30,7 +30,7 @@ sources:
 # ELLs start middle school roughly .6 SD lower in math and .65 SD lower in reading, with faster reading growth (.13 SD) but no faster math or self-efficacy growth
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Being an ELL is associated with reading growth between 5th and 8th grade that is .13 standard deviations higher than among peers, while initial reading scores are .65 standard deviations lower; these are standardized SEM coefficients, so no effect-size impact is coded. [→ Soland 2019](#soland-2019)
@@ -60,8 +60,12 @@ Self-efficacy growth results from the same SEMs (Question 2, Figure 3). The arti
 
 ## Discussion
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](el-lag-limited-academic-content-exposure.md) — the general claim this finding bears on, with the studies behind it
 - [Self-efficacy declines steadily for all students between 5th and 8th grade even while math and reading achievement grow](self-efficacy-declines-middle-school-achievement-grows.md) — related
 - [Fifth-grade self-efficacy is associated with later math and reading growth (.15 and .19 standardized units per SD), mediating ELL status's indirect negative association with growth](self-efficacy-intercept-predicts-achievement-growth-mediation.md) — related
 - [Non-ELLs outscore ELLs in math, reading, and self-efficacy at every timepoint, with a 2015 self-efficacy gap exceeding .35 standard deviations](ell-non-ell-gaps-math-reading-self-efficacy.md) — related

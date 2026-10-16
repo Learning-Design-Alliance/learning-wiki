@@ -42,6 +42,9 @@ Authors' interpretation of the seasonal analysis results, stated in the abstract
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Black-White achievement gaps widen during school periods and shrink during summers among kindergarten through eighth-grade students](black-white-gaps-widen-school-shrink-summer.md) — related
 - [Racial/ethnic disparities observed among older students are largely already in place among kindergartners](older-student-disparities-present-at-kindergarten.md) — related

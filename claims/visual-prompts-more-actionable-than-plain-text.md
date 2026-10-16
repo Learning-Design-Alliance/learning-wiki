@@ -41,8 +41,9 @@ Qualitative card-sorting activity in three of four first-cycle courses, analyzed
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — the general claim this finding bears on, with the studies behind it
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [LO assessment supported by CA tools prompted faculty toward more authentic, participatory, and reflective teaching practices](ca-assessment-prompts-authentic-reflective-teaching.md) — related
 - [Perceived ease-of-use based on simplicity and familiarity with common chart types heavily influenced teachers' visualization preferences](simplicity-familiarity-drive-dashboard-preference.md) — related

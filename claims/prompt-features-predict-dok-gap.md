@@ -30,7 +30,7 @@ sources:
 # In an OLS regression, explicit finish lines in teacher prompts were associated with smaller DOK gaps, while explain-reasoning epistemic framing was associated with larger gaps
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Prompts specifying explicit task endpoints (β=−0.22, p<.001) were associated with smaller DOK gaps. [→ Alex Liu 2026](#alex-liu-2026)
@@ -60,7 +60,8 @@ Same OLS model (Table 5). The article reports the explain-reasoning coefficient 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Instructionally supported (prompted) journal writing outperforms unsupported journal writing on learning outcomes (Hedges's g = 0.78)](prompted-journal-writing-medium-large-effect.md) — the general claim this finding bears on, with the studies behind it
 - [A design-enactment gap in cognitive demand: 37.7% of conversations under-reached the teacher-targeted DOK level, and under-targeting increased with target ambition](dok-under-targeting-gap-ai-dialogue.md) — related
 - [Teachers authoring student-AI dialogue prompts predominantly write highly specific tasks targeting higher-order thinking (92% at DOK 2–3)](teachers-author-specific-higher-order-ai-prompts.md) — related
