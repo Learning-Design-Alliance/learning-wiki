@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":15844,
+"claim":15826,
 "design":758,
 "element":1066,
 "learner-variable":26,
@@ -3979,12 +3979,12 @@
 "type":"claim"
 },
 {
-"description":"Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong",
+"description":"Access to AI advice roughly doubled reported confidence in answers in one experiment",
 "evidence_strength":"moderate",
 "id":"ai-access-inflates-confidence",
 "path":"claims/ai-access-inflates-confidence.md",
 "status":"review",
-"title":"Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong",
+"title":"Access to AI advice roughly doubled reported confidence in answers in one experiment",
 "type":"claim"
 },
 {
@@ -4519,12 +4519,12 @@
 "type":"claim"
 },
 {
-"description":"AI-assistant mode inflates self-reported mathematics self-efficacy and suppresses reported anxiety",
+"description":"LLMs simulating survey respondents under AI-assistant instructions report higher mathematics self-efficacy and lower anxiety than under human-shadow conditioning",
 "evidence_strength":"moderate",
 "id":"ai-assistant-mode-inflates-math-self-efficacy",
 "path":"claims/ai-assistant-mode-inflates-math-self-efficacy.md",
 "status":"review",
-"title":"AI-assistant mode inflates self-reported mathematics self-efficacy and suppresses reported anxiety",
+"title":"LLMs simulating survey respondents under AI-assistant instructions report higher mathematics self-efficacy and lower anxiety than under human-shadow conditioning",
 "type":"claim"
 },
 {
@@ -7210,12 +7210,12 @@
 "type":"claim"
 },
 {
-"description":"AI-enabled personalized STEM education yields a small but statistically significant overall effect (g = 0.455) compared with traditional non-AI instruction in K-12 schools",
+"description":"AI-enabled personalized STEM education yields a medium-sized, statistically significant overall effect (g = 0.455) compared with traditional non-AI instruction in K-12 schools",
 "evidence_strength":"moderate",
 "id":"ai-personalized-stem-overall-effect-g0455",
 "path":"claims/ai-personalized-stem-overall-effect-g0455.md",
 "status":"review",
-"title":"AI-enabled personalized STEM education yields a small but statistically significant overall effect (g = 0.455) compared with traditional non-AI instruction in K-12 schools",
+"title":"AI-enabled personalized STEM education yields a medium-sized, statistically significant overall effect (g = 0.455) compared with traditional non-AI instruction in K-12 schools",
 "type":"claim"
 },
 {
@@ -16083,15 +16083,6 @@
 "type":"claim"
 },
 {
-"description":"Both GAI-assisted and traditional DST groups improved in CPS skills over the 20-week program, with larger gains in the GAI group",
-"evidence_strength":"moderate",
-"id":"both-groups-improved-cps-gai-larger-gains",
-"path":"claims/both-groups-improved-cps-gai-larger-gains.md",
-"status":"review",
-"title":"Both GAI-assisted and traditional DST groups improved in CPS skills over the 20-week program, with larger gains in the GAI group",
-"type":"claim"
-},
-{
 "description":"Both institutional and course-level guidance emphasize transparency and acknowledging or citing GenAI use, with 83% of syllabi providing explicit citation guidance",
 "evidence_strength":"moderate",
 "id":"both-levels-emphasize-citation-transparency",
@@ -24180,12 +24171,12 @@
 "type":"claim"
 },
 {
-"description":"Meta-analytic evidence finds large positive effects of coaching on teachers' instructional practice and a meaningful positive impact on student achievement, with mixed results on model features",
+"description":"A practitioner review reports a meta-analysis of causal coaching studies as finding positive effects of coaching on teachers' instructional practice and student achievement, though one contrasting study found coached teachers no more effective",
 "evidence_strength":"mixed",
 "id":"coaching-meta-analysis-positive-effects-instruction-achievement",
 "path":"claims/coaching-meta-analysis-positive-effects-instruction-achievement.md",
 "status":"review",
-"title":"Meta-analytic evidence finds large positive effects of coaching on teachers' instructional practice and a meaningful positive impact on student achievement, with mixed results on model features",
+"title":"A practitioner review reports a meta-analysis of causal coaching studies as finding positive effects of coaching on teachers' instructional practice and student achievement, though one contrasting study found coached teachers no more effective",
 "type":"claim"
 },
 {
@@ -25188,12 +25179,12 @@
 "type":"claim"
 },
 {
-"description":"Research at primary and secondary levels indicates students learn more through non-competitive collaborative group work than in individualized competitive classrooms",
+"description":"A 1994 adult-literacy practice guide asserts, citing no specific study, that primary and secondary students learn more through non-competitive collaborative group work than in individualized competitive classrooms",
 "evidence_strength":"weak",
 "id":"collaborative-group-work-beats-competitive-classrooms-k12",
 "path":"claims/collaborative-group-work-beats-competitive-classrooms-k12.md",
 "status":"review",
-"title":"Research at primary and secondary levels indicates students learn more through non-competitive collaborative group work than in individualized competitive classrooms",
+"title":"A 1994 adult-literacy practice guide asserts, citing no specific study, that primary and secondary students learn more through non-competitive collaborative group work than in individualized competitive classrooms",
 "type":"claim"
 },
 {
@@ -29210,21 +29201,13 @@
 "type":"claim"
 },
 {
+"aliases":["course-signals-selection-effect-caution"],
 "description":"Confounding may explain the large retention effects reported for the Course Signals early warning system",
 "evidence_strength":"weak",
 "id":"course-signals-confounding-number-of-classes",
 "path":"claims/course-signals-confounding-number-of-classes.md",
 "status":"review",
 "title":"Confounding may explain the large retention effects reported for the Course Signals early warning system",
-"type":"claim"
-},
-{
-"description":"Course Signals at Purdue reported retention and DFW gains that were later questioned as a selection effect, cautioning that correlation is not causal evidence",
-"evidence_strength":"weak",
-"id":"course-signals-selection-effect-caution",
-"path":"claims/course-signals-selection-effect-caution.md",
-"status":"review",
-"title":"Course Signals at Purdue reported retention and DFW gains that were later questioned as a selection effect, cautioning that correlation is not causal evidence",
 "type":"claim"
 },
 {
@@ -35907,12 +35890,12 @@
 "type":"claim"
 },
 {
-"description":"Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings",
+"description":"A review reports that digital skills gaps span demographic groups and are associated with e-learning acceptance, job performance, and earnings",
 "evidence_strength":"weak",
 "id":"digital-literacy-gaps-span-demographics",
 "path":"claims/digital-literacy-gaps-span-demographics.md",
 "status":"review",
-"title":"Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings",
+"title":"A review reports that digital skills gaps span demographic groups and are associated with e-learning acceptance, job performance, and earnings",
 "type":"claim"
 },
 {
@@ -36275,7 +36258,7 @@
 "type":"claim"
 },
 {
-"aliases":["disadvantaged-students-less-effective-teaching"],
+"aliases":["disadvantaged-students-less-effective-teaching","teaching-disparity-weeks-of-learning"],
 "description":"Disadvantaged students in grades 4-8 receive less-effective teaching on average than other students in the same grades",
 "evidence_strength":"moderate",
 "id":"disadvantaged-students-receive-less-effective-teaching",
@@ -37691,12 +37674,12 @@
 "type":"claim"
 },
 {
-"description":"For domain-general skills, effect sizes favor I-PS over PS-I",
+"description":"For domain-general skills, one meta-analysis finds a negligible effect (g = −0.17) in favour of I-PS over PS-I",
 "evidence_strength":"moderate",
 "id":"domain-general-skills-favor-ips",
 "path":"claims/domain-general-skills-favor-ips.md",
 "status":"review",
-"title":"For domain-general skills, effect sizes favor I-PS over PS-I",
+"title":"For domain-general skills, one meta-analysis finds a negligible effect (g = −0.17) in favour of I-PS over PS-I",
 "type":"claim"
 },
 {
@@ -41800,12 +41783,12 @@
 "type":"claim"
 },
 {
-"description":"ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content",
+"description":"English learners lag behind their peers in achievement and attainment; limited exposure to academic content is offered as a partial explanation, not tested",
 "evidence_strength":"weak",
 "id":"el-lag-limited-academic-content-exposure",
 "path":"claims/el-lag-limited-academic-content-exposure.md",
 "status":"review",
-"title":"ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content",
+"title":"English learners lag behind their peers in achievement and attainment; limited exposure to academic content is offered as a partial explanation, not tested",
 "type":"claim"
 },
 {
@@ -46952,12 +46935,12 @@
 "type":"claim"
 },
 {
-"description":"Preliminary explicit instruction in scientific reasoning patterns (e.g., IAT statement construction) produced much larger LCTSR gains (g = 0.68) than courses without such intervention (g = 0.11)",
+"description":"In one class of 14 non-science majors, preliminary explicit instruction in scientific reasoning patterns (e.g., IAT statement construction) was followed by a larger average normalized LCTSR gain (68%) than in earlier courses without it (11%, n=42)",
 "evidence_strength":"weak",
 "id":"explicit-reasoning-instruction-preliminary-large-gains",
 "path":"claims/explicit-reasoning-instruction-preliminary-large-gains.md",
 "status":"review",
-"title":"Preliminary explicit instruction in scientific reasoning patterns (e.g., IAT statement construction) produced much larger LCTSR gains (g = 0.68) than courses without such intervention (g = 0.11)",
+"title":"In one class of 14 non-science majors, preliminary explicit instruction in scientific reasoning patterns (e.g., IAT statement construction) was followed by a larger average normalized LCTSR gain (68%) than in earlier courses without it (11%, n=42)",
 "type":"claim"
 },
 {
@@ -48860,15 +48843,6 @@
 "type":"claim"
 },
 {
-"description":"",
-"evidence_strength":"pending",
-"id":"feedback-addressing-task-improves-learning",
-"path":"claims/feedback-addressing-task-improves-learning.md",
-"status":"review",
-"title":"Feedback Addressing Task Improves Learning",
-"type":"claim"
-},
-{
 "description":"Providing feedback after initial multiple-choice tests cut lure intrusions on final short-answer tests roughly in half, with immediate and delayed feedback equally effective",
 "evidence_strength":"weak",
 "id":"feedback-after-multiple-choice-tests-halves-lure-intrusions",
@@ -48878,14 +48852,7 @@
 "type":"claim"
 },
 {
-"description":"",
-"id":"feedback-answers-three-questions",
-"path":"claims/feedback-answers-three-questions.md",
-"status":"review",
-"title":"Feedback Answers Three Questions",
-"type":"claim"
-},
-{
+"aliases":["feedback-answers-three-questions"],
 "description":"",
 "id":"feedback-answers-three-questions-improves-learning",
 "path":"claims/feedback-answers-three-questions-improves-learning.md",
@@ -48977,14 +48944,6 @@
 "type":"claim"
 },
 {
-"description":"",
-"id":"feedback-improves-learning-when-it-addresses-task-goals",
-"path":"claims/feedback-improves-learning-when-it-addresses-task-goals.md",
-"status":"review",
-"title":"Feedback Improves Learning When It Addresses Task Goals",
-"type":"claim"
-},
-{
 "description":"Feedback quality in LLM-generated lessons improved with three or more segments compared to one- or two-segment prompting",
 "evidence_strength":"weak",
 "id":"feedback-improves-three-or-more-segments",
@@ -49021,7 +48980,7 @@
 "type":"claim"
 },
 {
-"aliases":["high-information-feedback-d099-versus-reinforcement-d024"],
+"aliases":["high-information-feedback-d099-versus-reinforcement-d024","feedback-addressing-task-improves-learning","feedback-improves-learning-when-it-addresses-task-goals"],
 "description":"",
 "id":"feedback-most-effective-at-task-and-process-levels",
 "path":"claims/feedback-most-effective-at-task-and-process-levels.md",
@@ -50684,15 +50643,6 @@
 "type":"claim"
 },
 {
-"description":"Elementary schools strong on at least three of five essential organizational elements were 10 times more likely to improve and 30 times less likely to stagnate",
-"evidence_strength":"weak",
-"id":"five-essential-elements-three-of-five-improvement-odds",
-"path":"claims/five-essential-elements-three-of-five-improvement-odds.md",
-"status":"review",
-"title":"Elementary schools strong on at least three of five essential organizational elements were 10 times more likely to improve and 30 times less likely to stagnate",
-"type":"claim"
-},
-{
 "description":"Most attributes and practices of the five-factor mentoring model (30 of 34) provided input into a first-practicum mentee's classroom management, with no overt evidence on aims, curriculum, timetabling or assessment",
 "evidence_strength":"weak",
 "id":"five-factor-mentoring-30-of-34-practices-classroom-management",
@@ -51104,15 +51054,6 @@
 "path":"claims/flowchart-supports-code-orientation-navigation.md",
 "status":"review",
 "title":"An LLM-generated flowchart linking semantic feature descriptions to code across HTML, CSS, and JS files supports novice creative coders' orientation, navigation, and code understanding",
-"type":"claim"
-},
-{
-"description":"Fluency-building activities improve effortless reading for students in grades 4–9, with strong supporting evidence",
-"evidence_strength":"strong",
-"id":"fluency-building-activities-strong-evidence-grades-4-9",
-"path":"claims/fluency-building-activities-strong-evidence-grades-4-9.md",
-"status":"review",
-"title":"Fluency-building activities improve effortless reading for students in grades 4–9, with strong supporting evidence",
 "type":"claim"
 },
 {
@@ -53613,6 +53554,7 @@
 "type":"claim"
 },
 {
+"aliases":["both-groups-improved-cps-gai-larger-gains"],
 "description":"GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students",
 "evidence_strength":"moderate",
 "id":"gai-assisted-dst-improves-cps-skills",
@@ -57926,12 +57868,12 @@
 "type":"claim"
 },
 {
-"description":"A 1997 New York City report found that increasing resource room instructional group sizes from 5 to at most 8 students per teacher led to decreases in reading achievement",
+"description":"A later review reports that a 1997 New York City report found lower reading achievement after resource room group sizes rose from 5 to at most 8 students per teacher",
 "evidence_strength":"weak",
 "id":"gottlieb-1997-group-size-increase-lowered-reading-scores",
 "path":"claims/gottlieb-1997-group-size-increase-lowered-reading-scores.md",
 "status":"review",
-"title":"A 1997 New York City report found that increasing resource room instructional group sizes from 5 to at most 8 students per teacher led to decreases in reading achievement",
+"title":"A later review reports that a 1997 New York City report found lower reading achievement after resource room group sizes rose from 5 to at most 8 students per teacher",
 "type":"claim"
 },
 {
@@ -58342,12 +58284,12 @@
 },
 {
 "aliases":["gpt4-practice-gains-exam-loss-cognitive-debt","unrestricted-chatgpt-worse-exam-scores","guarded-ai-placement-prevents-unaided-exam-harm","gpt-access-supported-practice-poorer-unaided-test","offloading-to-ai-costs-learning","unrestricted-gpt4-practice-gains-exam-decline-guardrail-mitigates","ai-performance-mastery-decoupling-review-report","ai-assistant-short-term-gains-harm-durable-learning","learning-performance-paradox-ai"],
-"description":"Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal",
+"description":"Reviews citing one randomised trial (Bastani et al. 2025) report that unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal",
 "evidence_strength":"weak",
 "id":"gpt4-access-harms-learning-after-withdrawal",
 "path":"claims/gpt4-access-harms-learning-after-withdrawal.md",
 "status":"review",
-"title":"Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal",
+"title":"Reviews citing one randomised trial (Bastani et al. 2025) report that unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal",
 "type":"claim"
 },
 {
@@ -58976,7 +58918,7 @@
 "id":"graphic-organizers-support-novice-comprehension",
 "path":"claims/graphic-organizers-support-novice-comprehension.md",
 "status":"review",
-"title":"Graphic Organizers Support Novice Comprehension",
+"title":"Graphic organizers such as concept maps improve comprehension and retention with a medium average effect; that novices benefit more rests on a few small subgroups",
 "type":"claim"
 },
 {
@@ -59693,6 +59635,7 @@
 "type":"claim"
 },
 {
+"aliases":["simulation-guidance-moderate-effect-dangelo"],
 "description":"Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)",
 "evidence_strength":"moderate",
 "id":"guidance-improves-inquiry-learning-outcomes",
@@ -64585,15 +64528,6 @@
 "type":"claim"
 },
 {
-"description":"Forming implementation intentions produces a medium-to-large positive effect (d = .65) on goal attainment across 94 independent tests",
-"evidence_strength":"moderate",
-"id":"implementation-intentions-d65-goal-attainment-meta-analysis",
-"path":"claims/implementation-intentions-d65-goal-attainment-meta-analysis.md",
-"status":"review",
-"title":"Forming implementation intentions produces a medium-to-large positive effect (d = .65) on goal attainment across 94 independent tests",
-"type":"claim"
-},
-{
 "description":"Implementation intentions promote initiation of goal striving, shielding of ongoing pursuit, disengagement from failing courses of action, and conservation of capability",
 "evidence_strength":"moderate",
 "id":"implementation-intentions-four-self-regulatory-benefits",
@@ -64603,6 +64537,7 @@
 "type":"claim"
 },
 {
+"aliases":["implementation-intentions-d65-goal-attainment-meta-analysis"],
 "description":"Adding an if-then plan that says when, where and how to act to a goal intention raises goal attainment, with a medium-to-large pooled effect across 94 tests; in online courses a brief planning activity raised completion only for some learners.",
 "id":"implementation-intentions-improve-goal-attainment",
 "path":"claims/implementation-intentions-improve-goal-attainment.md",
@@ -67304,12 +67239,12 @@
 "type":"claim"
 },
 {
-"description":"Interest alignment is highest among course completers while economic motivations (higher pay, better benefits, increased stability) are highest among non-completers",
+"description":"Interest alignment was rated highest by course completers and lowest by apprenticeship completers, while economic motivations (higher pay, better benefits, increased stability) were rated highest by non-completers",
 "evidence_strength":"moderate",
 "id":"interest-alignment-vs-economic-motivations-persistence",
 "path":"claims/interest-alignment-vs-economic-motivations-persistence.md",
 "status":"review",
-"title":"Interest alignment is highest among course completers while economic motivations (higher pay, better benefits, increased stability) are highest among non-completers",
+"title":"Interest alignment was rated highest by course completers and lowest by apprenticeship completers, while economic motivations (higher pay, better benefits, increased stability) were rated highest by non-completers",
 "type":"claim"
 },
 {
@@ -68387,12 +68322,12 @@
 "type":"claim"
 },
 {
-"description":"Two independent university studies find learners of Italian motivated by an imagined future self who speaks the language and barely at all by expected usefulness — with the mismatch running the other way for their teachers.",
+"description":"Two university surveys find learners of Italian motivated mainly by an imagined future self who speaks the language and little by expected usefulness; the claim that their teachers stress usefulness instead could not be checked against the abstract available.",
 "evidence_strength":"moderate",
 "id":"italian-l2-motivation-is-ideal-self-not-instrumental",
 "path":"claims/italian-l2-motivation-is-ideal-self-not-instrumental.md",
 "status":"review",
-"title":"Learners of Italian report ideal-self motivation rather than instrumental motivation, while their teachers assume the reverse.",
+"title":"University learners of Italian in two surveys report ideal-self motivation rather than instrumental motivation; a contrast with their teachers' view is reported but not confirmed in the text read.",
 "type":"claim"
 },
 {
@@ -70176,15 +70111,6 @@
 "path":"claims/kindergarten-entry-racial-ethnic-gaps-narrowed-2010-2017.md",
 "status":"review",
 "title":"Inequalities at kindergarten entry by race/ethnicity decreased between 2010 and 2017",
-"type":"claim"
-},
-{
-"description":"Inequalities at kindergarten entry by school poverty level decreased between 2010 and 2017",
-"evidence_strength":"moderate",
-"id":"kindergarten-entry-school-poverty-gaps-narrowed-2010-2017",
-"path":"claims/kindergarten-entry-school-poverty-gaps-narrowed-2010-2017.md",
-"status":"review",
-"title":"Inequalities at kindergarten entry by school poverty level decreased between 2010 and 2017",
 "type":"claim"
 },
 {
@@ -79751,15 +79677,6 @@
 "path":"claims/massachusetts-school-segregation-risk-identification.md",
 "status":"review",
 "title":"School and district factors relate to risk identification: low income concentration correlates with repeated risk identification, and segregation modestly increases it, though some schools outperform model predictions",
-"type":"claim"
-},
-{
-"description":"Agreement between screening assessments on which students are at risk varies from 47 to 85 percent depending on assessment combination",
-"evidence_strength":"moderate",
-"id":"massachusetts-screener-agreement-rates-vary-47-85",
-"path":"claims/massachusetts-screener-agreement-rates-vary-47-85.md",
-"status":"review",
-"title":"Agreement between screening assessments on which students are at risk varies from 47 to 85 percent depending on assessment combination",
 "type":"claim"
 },
 {
@@ -89690,12 +89607,12 @@
 "type":"claim"
 },
 {
-"description":"Novice clinical learners show pervasive metacognitive calibration deficits, with overestimated performance and confidence exceeding accuracy",
+"description":"A theoretical article, citing two simulation studies, reports that novice clinical learners overestimated their performance and that their confidence exceeded their accuracy",
 "evidence_strength":"weak",
 "id":"novice-metacognitive-calibration-deficits",
 "path":"claims/novice-metacognitive-calibration-deficits.md",
 "status":"review",
-"title":"Novice clinical learners show pervasive metacognitive calibration deficits, with overestimated performance and confidence exceeding accuracy",
+"title":"A theoretical article, citing two simulation studies, reports that novice clinical learners overestimated their performance and that their confidence exceeded their accuracy",
 "type":"claim"
 },
 {
@@ -94910,12 +94827,12 @@
 "type":"claim"
 },
 {
-"description":"The achievement benefit of peer assessment persists to a later comprehensive final exam",
+"description":"A significant but negligible benefit of peer assessment (d = .122) persisted to the final exam in one college statistics course",
 "evidence_strength":"moderate",
 "id":"peer-assessment-gains-persist-to-final-exam",
 "path":"claims/peer-assessment-gains-persist-to-final-exam.md",
 "status":"review",
-"title":"The achievement benefit of peer assessment persists to a later comprehensive final exam",
+"title":"A significant but negligible benefit of peer assessment (d = .122) persisted to the final exam in one college statistics course",
 "type":"claim"
 },
 {
@@ -94956,12 +94873,12 @@
 "type":"claim"
 },
 {
-"description":"Participating in peer assessment causes a small but significant improvement in short-term achievement on unit quizzes in a college statistics course",
+"description":"Participating in peer assessment produced a statistically significant but negligible improvement (d = .115) in short-term achievement on unit quizzes in a college statistics course",
 "evidence_strength":"moderate",
 "id":"peer-assessment-improves-unit-quiz-achievement",
 "path":"claims/peer-assessment-improves-unit-quiz-achievement.md",
 "status":"review",
-"title":"Participating in peer assessment causes a small but significant improvement in short-term achievement on unit quizzes in a college statistics course",
+"title":"Participating in peer assessment produced a statistically significant but negligible improvement (d = .115) in short-term achievement on unit quizzes in a college statistics course",
 "type":"claim"
 },
 {
@@ -94974,12 +94891,12 @@
 "type":"claim"
 },
 {
-"description":"Peer-assisted instruction and small-group instruction by adults have large, robust short-term effect sizes for K-6 struggling students",
+"description":"Peer-assisted instruction and small-group instruction by adults have statistically significant, robust short-term effects (ES about 0.35–0.45) for K-6 struggling students",
 "evidence_strength":"moderate",
 "id":"peer-assisted-and-small-group-instruction-most-effective",
 "path":"claims/peer-assisted-and-small-group-instruction-most-effective.md",
 "status":"review",
-"title":"Peer-assisted instruction and small-group instruction by adults have large, robust short-term effect sizes for K-6 struggling students",
+"title":"Peer-assisted instruction and small-group instruction by adults have statistically significant, robust short-term effects (ES about 0.35–0.45) for K-6 struggling students",
 "type":"claim"
 },
 {
@@ -101770,12 +101687,12 @@
 "type":"claim"
 },
 {
-"description":"Online and proctored online exams increase students' test anxiety compared with on-campus exams and non-proctored online exams",
+"description":"Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams",
 "evidence_strength":"moderate",
 "id":"proctored-online-exams-increase-test-anxiety",
 "path":"claims/proctored-online-exams-increase-test-anxiety.md",
 "status":"review",
-"title":"Online and proctored online exams increase students' test anxiety compared with on-campus exams and non-proctored online exams",
+"title":"Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams",
 "type":"claim"
 },
 {
@@ -107247,12 +107164,12 @@
 "type":"claim"
 },
 {
-"description":"Timing of English learner reclassification influences later outcomes such as high school graduation",
+"description":"Timing of English learner reclassification is associated with later outcomes such as high school graduation",
 "evidence_strength":"weak",
 "id":"reclassification-timing-influences-later-outcomes",
 "path":"claims/reclassification-timing-influences-later-outcomes.md",
 "status":"review",
-"title":"Timing of English learner reclassification influences later outcomes such as high school graduation",
+"title":"Timing of English learner reclassification is associated with later outcomes such as high school graduation",
 "type":"claim"
 },
 {
@@ -113468,6 +113385,7 @@
 "type":"claim"
 },
 {
+"aliases":["kindergarten-entry-school-poverty-gaps-narrowed-2010-2017"],
 "description":"Achievement gaps between high-poverty and low-poverty schools at kindergarten entry narrowed modestly but significantly between 2010 and 2017",
 "evidence_strength":"moderate",
 "id":"school-poverty-entry-gaps-narrowed-2010-2017",
@@ -113712,7 +113630,7 @@
 "type":"claim"
 },
 {
-"aliases":["strong-supports-cluster-ten-times-more-likely-to-improve"],
+"aliases":["strong-supports-cluster-ten-times-more-likely-to-improve","strong-essential-supports-ten-times-more-likely-substantial-gains","five-essential-elements-three-of-five-improvement-odds"],
 "description":"Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)",
 "evidence_strength":"weak",
 "id":"schools-strong-three-plus-supports-ten-times-more-likely-improve",
@@ -113839,12 +113757,12 @@
 "type":"claim"
 },
 {
-"description":"SCMC interaction shows a small advantage over FTF on overall L2 learning outcomes",
+"description":"SCMC interaction shows a small, non-significant advantage over FTF on overall L2 learning outcomes",
 "evidence_strength":"moderate",
 "id":"scmc-small-advantage-overall-l2-outcomes",
 "path":"claims/scmc-small-advantage-overall-l2-outcomes.md",
 "status":"review",
-"title":"SCMC interaction shows a small advantage over FTF on overall L2 learning outcomes",
+"title":"SCMC interaction shows a small, non-significant advantage over FTF on overall L2 learning outcomes",
 "type":"claim"
 },
 {
@@ -114010,6 +113928,7 @@
 "type":"claim"
 },
 {
+"aliases":["massachusetts-screener-agreement-rates-vary-47-85"],
 "description":"Agreement between K–3 screening assessments on risk classification varied from 47 percent to 85 percent depending on the assessment combination",
 "evidence_strength":"moderate",
 "id":"screening-assessment-agreement-varies-47-85-percent",
@@ -115752,15 +115671,7 @@
 "type":"claim"
 },
 {
-"description":"Self-efficacy is related to the achievement gap for English Language Learners",
-"evidence_strength":"weak",
-"id":"self-efficacy-related-ell-achievement-gap",
-"path":"claims/self-efficacy-related-ell-achievement-gap.md",
-"status":"review",
-"title":"Self-efficacy is related to the achievement gap for English Language Learners",
-"type":"claim"
-},
-{
+"aliases":["self-efficacy-related-ell-achievement-gap"],
 "description":"Self-efficacy is related to the persistence of achievement gaps for English Language Learners",
 "evidence_strength":"weak",
 "id":"self-efficacy-related-to-persistence-of-ell-achievement-gaps",
@@ -117948,15 +117859,6 @@
 "path":"claims/simulation-games-higher-skill-based-knowledge.md",
 "status":"review",
 "title":"The review reports that participants in simulation-game conditions had significantly higher skill-based knowledge outcomes than those in non-game conditions",
-"type":"claim"
-},
-{
-"description":"Supplementing simulation-based inquiry with learner guidance has a modest effect on learning outcomes (d = 0.49) and inquiry skills (d = 0.41), independent of guidance type (review attribution to D'Angelo et al., 2014)",
-"evidence_strength":"weak",
-"id":"simulation-guidance-moderate-effect-dangelo",
-"path":"claims/simulation-guidance-moderate-effect-dangelo.md",
-"status":"review",
-"title":"Supplementing simulation-based inquiry with learner guidance has a modest effect on learning outcomes (d = 0.49) and inquiry skills (d = 0.41), independent of guidance type (review attribution to D'Angelo et al., 2014)",
 "type":"claim"
 },
 {
@@ -120648,21 +120550,13 @@
 "type":"claim"
 },
 {
+"aliases":["speedup-illusion-ai-time-savings"],
 "description":"People significantly underestimate AI-assisted completion times even though actual AI-assisted and independent completion times do not differ (the speedup illusion)",
 "evidence_strength":"moderate",
 "id":"speedup-illusion-ai-assisted-time-underestimation",
 "path":"claims/speedup-illusion-ai-assisted-time-underestimation.md",
 "status":"review",
 "title":"People significantly underestimate AI-assisted completion times even though actual AI-assisted and independent completion times do not differ (the speedup illusion)",
-"type":"claim"
-},
-{
-"description":"People overestimate how much time AI assistance saves (speedup illusion), driven by miscalibration about AI-assisted completion time while independent completion time is well calibrated",
-"evidence_strength":"moderate",
-"id":"speedup-illusion-ai-time-savings",
-"path":"claims/speedup-illusion-ai-time-savings.md",
-"status":"review",
-"title":"People overestimate how much time AI assistance saves (speedup illusion), driven by miscalibration about AI-assisted completion time while independent completion time is well calibrated",
 "type":"claim"
 },
 {
@@ -123385,15 +123279,6 @@
 "type":"claim"
 },
 {
-"description":"Chicago elementary schools strong in most essential supports were at least ten times more likely than weak-support schools to show substantial gains in both reading and mathematics",
-"evidence_strength":"moderate",
-"id":"strong-essential-supports-ten-times-more-likely-substantial-gains",
-"path":"claims/strong-essential-supports-ten-times-more-likely-substantial-gains.md",
-"status":"review",
-"title":"Chicago elementary schools strong in most essential supports were at least ten times more likely than weak-support schools to show substantial gains in both reading and mathematics",
-"type":"claim"
-},
-{
 "description":"Programs with strong essential supports are more likely to have higher teacher-child interactions and better child attendance than programs with very weak supports",
 "evidence_strength":"moderate",
 "id":"strong-essentials-linked-class-and-attendance",
@@ -123421,6 +123306,7 @@
 "type":"claim"
 },
 {
+"aliases":["fluency-building-activities-strong-evidence-grades-4-9"],
 "description":"Fluency-building activities for struggling readers in grades 4–9 have strong evidence, based on 33 studies",
 "evidence_strength":"moderate",
 "id":"strong-evidence-fluency-building-activities-grades-4-9",
@@ -123638,12 +123524,12 @@
 "type":"claim"
 },
 {
-"description":"Structured integration of AI can enhance students' digital literacy, content retention, and critical thinking skills in the academic context",
+"description":"The authors of one course-based design study conclude, without printed measures, that structured AI integration can enhance students' digital literacy, content retention and critical thinking",
 "evidence_strength":"weak",
 "id":"structured-ai-integration-enhances-literacy-retention-critical-thinking",
 "path":"claims/structured-ai-integration-enhances-literacy-retention-critical-thinking.md",
 "status":"review",
-"title":"Structured integration of AI can enhance students' digital literacy, content retention, and critical thinking skills in the academic context",
+"title":"The authors of one course-based design study conclude, without printed measures, that structured AI integration can enhance students' digital literacy, content retention and critical thinking",
 "type":"claim"
 },
 {
@@ -128429,12 +128315,12 @@
 "type":"claim"
 },
 {
-"description":"Taiwan's constructivist mathematics reform, introduced in 1993, was stopped in 2003 after students taught under it underperformed traditionally educated peers in high school",
+"description":"A review's historical account reports that Taiwan's constructivist mathematics reform, introduced in 1993, was stopped in 2003 amid debate over its students underperforming traditionally taught peers in high school",
 "evidence_strength":"weak",
 "id":"taiwan-constructivist-math-reform-stopped-2003",
 "path":"claims/taiwan-constructivist-math-reform-stopped-2003.md",
 "status":"review",
-"title":"Taiwan's constructivist mathematics reform, introduced in 1993, was stopped in 2003 after students taught under it underperformed traditionally educated peers in high school",
+"title":"A review's historical account reports that Taiwan's constructivist mathematics reform, introduced in 1993, was stopped in 2003 amid debate over its students underperforming traditionally taught peers in high school",
 "type":"claim"
 },
 {
@@ -129806,12 +129692,12 @@
 "type":"claim"
 },
 {
-"description":"More teacher guidance within inquiry is associated with larger advantages over traditional instruction, though magnitude estimates vary across meta-analyses",
+"description":"One review reports that more teacher guidance within inquiry is associated with larger advantages over traditional instruction, though the two meta-analyses it cites differ in magnitude",
 "evidence_strength":"mixed",
 "id":"teacher-guided-inquiry-larger-effects",
 "path":"claims/teacher-guided-inquiry-larger-effects.md",
 "status":"review",
-"title":"More teacher guidance within inquiry is associated with larger advantages over traditional instruction, though magnitude estimates vary across meta-analyses",
+"title":"One review reports that more teacher guidance within inquiry is associated with larger advantages over traditional instruction, though the two meta-analyses it cites differ in magnitude",
 "type":"claim"
 },
 {
@@ -130463,15 +130349,7 @@
 "type":"claim"
 },
 {
-"description":"Teacher support is one of the strongest predictors of student belonging",
-"evidence_strength":"weak",
-"id":"teacher-support-predicts-student-belonging",
-"path":"claims/teacher-support-predicts-student-belonging.md",
-"status":"review",
-"title":"Teacher support is one of the strongest predictors of student belonging",
-"type":"claim"
-},
-{
+"aliases":["teacher-support-predicts-student-belonging"],
 "description":"Teacher support is the strongest predictor of school belonging",
 "evidence_strength":"moderate",
 "id":"teacher-support-strongest-predictor-school-belonging",
@@ -131400,24 +131278,7 @@
 "type":"claim"
 },
 {
-"description":"One year of teaching-effectiveness differences is estimated to represent 4 percent of the existing reading achievement gap and 2 to 3 percent of the math gap",
-"evidence_strength":"weak",
-"id":"teaching-disparity-share-of-achievement-gap",
-"path":"claims/teaching-disparity-share-of-achievement-gap.md",
-"status":"review",
-"title":"One year of teaching-effectiveness differences is estimated to represent 4 percent of the existing reading achievement gap and 2 to 3 percent of the math gap",
-"type":"claim"
-},
-{
-"description":"The average teaching-effectiveness disparity for disadvantaged students equals about four weeks of learning in reading and two weeks in math",
-"evidence_strength":"moderate",
-"id":"teaching-disparity-weeks-of-learning",
-"path":"claims/teaching-disparity-weeks-of-learning.md",
-"status":"review",
-"title":"The average teaching-effectiveness disparity for disadvantaged students equals about four weeks of learning in reading and two weeks in math",
-"type":"claim"
-},
-{
+"aliases":["teaching-disparity-share-of-achievement-gap"],
 "description":"The teaching-effectiveness disparity represents a small share of the overall achievement gap for disadvantaged students",
 "evidence_strength":"moderate",
 "id":"teaching-effectiveness-disparity-small-share-of-achievement-gap",
@@ -141765,15 +141626,6 @@
 "type":"claim"
 },
 {
-"description":"Working memory is limited in capacity and includes partially independent subcomponents for auditory/verbal and visual/2- or 3-dimensional information",
-"evidence_strength":"weak",
-"id":"working-memory-limited-with-partially-independent-subcomponents",
-"path":"claims/working-memory-limited-with-partially-independent-subcomponents.md",
-"status":"review",
-"title":"Working memory is limited in capacity and includes partially independent subcomponents for auditory/verbal and visual/2- or 3-dimensional information",
-"type":"claim"
-},
-{
 "description":"Evidence on working memory capacity as a moderator of the interleaving effect is mixed, but WM does not appear to be a major barrier to classroom use",
 "evidence_strength":"mixed",
 "id":"working-memory-mixed-moderator-interleaving",
@@ -141783,6 +141635,7 @@
 "type":"claim"
 },
 {
+"aliases":["working-memory-limited-with-partially-independent-subcomponents"],
 "description":"Working memory includes partially independent subcomponents for auditory/verbal and visual/2- or 3-dimensional information",
 "evidence_strength":"weak",
 "id":"working-memory-partially-independent-modality-subcomponents",
@@ -236148,7 +236001,7 @@
 "both-feedback-modalities-prompt-hard-evaluative-judgement":"both-feedback-modalities-prompt-hard-evaluative-judgement",
 "both-feedback-types-perceived-positively":"both-feedback-types-perceived-positively",
 "both-genders-gain-ai-knowledge-confidence-workshop":"both-genders-gain-ai-knowledge-confidence-workshop",
-"both-groups-improved-cps-gai-larger-gains":"both-groups-improved-cps-gai-larger-gains",
+"both-groups-improved-cps-gai-larger-gains":"gai-assisted-dst-improves-cps-skills",
 "both-levels-emphasize-citation-transparency":"both-levels-emphasize-citation-transparency",
 "bottom-anchored-threshold-strongest-training-interest-accuracy-trust":"bottom-anchored-threshold-strongest-training-interest-accuracy-trust",
 "bottom-line-comparison-group-near-universal-application":"bottom-line-comparison-group-near-universal-application",
@@ -237633,7 +237486,7 @@
 "course-shutouts-increase-transfer-to-nearby-two-year-colleges":"course-shutouts-increase-transfer-to-nearby-two-year-colleges",
 "course-shutouts-increase-zero-course-enrollment":"course-shutouts-increase-zero-course-enrollment",
 "course-signals-confounding-number-of-classes":"course-signals-confounding-number-of-classes",
-"course-signals-selection-effect-caution":"course-signals-selection-effect-caution",
+"course-signals-selection-effect-caution":"course-signals-confounding-number-of-classes",
 "course-specific-norms-cross-grade-self-selection":"course-specific-norms-cross-grade-self-selection",
 "course-specific-norms-normality-supported":"course-specific-norms-normality-supported",
 "course-specific-term-score-correlations-above-090":"true-score-correlations-above-090",
@@ -239856,9 +239709,9 @@
 "federated-aggregation-primary-performance-driver":"federated-aggregation-primary-performance-driver",
 "fee-schedule-revenue-varies-across-shcs":"fee-schedule-revenue-varies-across-shcs",
 "feedback-abstract-constraints-overgeneral-rule-objective":"feedback-abstract-constraints-overgeneral-rule-objective",
-"feedback-addressing-task-improves-learning":"feedback-addressing-task-improves-learning",
+"feedback-addressing-task-improves-learning":"feedback-most-effective-at-task-and-process-levels",
 "feedback-after-multiple-choice-tests-halves-lure-intrusions":"feedback-after-multiple-choice-tests-halves-lure-intrusions",
-"feedback-answers-three-questions":"feedback-answers-three-questions",
+"feedback-answers-three-questions":"feedback-answers-three-questions-improves-learning",
 "feedback-answers-three-questions-improves-learning":"feedback-answers-three-questions-improves-learning",
 "feedback-channel-non-significant-moderator":"feedback-channel-non-significant-moderator",
 "feedback-codes-co-occurrence-patterns":"feedback-codes-co-occurrence-patterns",
@@ -239870,7 +239723,7 @@
 "feedback-improves-confidence-calibration":"feedback-improves-confidence-calibration",
 "feedback-improves-learning":"feedback-improves-learning",
 "feedback-improves-learning-outcomes":"feedback-improves-learning",
-"feedback-improves-learning-when-it-addresses-task-goals":"feedback-improves-learning-when-it-addresses-task-goals",
+"feedback-improves-learning-when-it-addresses-task-goals":"feedback-most-effective-at-task-and-process-levels",
 "feedback-improves-three-or-more-segments":"feedback-improves-three-or-more-segments",
 "feedback-levels-task-process-self-regulation-effective":"feedback-levels-task-process-self-regulation-effective",
 "feedback-makes-behaviour-seen-asynchronous":"feedback-makes-behaviour-seen-asynchronous",
@@ -240069,7 +239922,7 @@
 "five-determinant-types-across-eight-frameworks":"five-determinant-types-across-eight-frameworks",
 "five-disability-groups-most-at-risk-transition-preparation":"five-disability-groups-most-at-risk-transition-preparation",
 "five-error-types-llm-diagnosis-vague-evidence":"five-error-types-llm-diagnosis-vague-evidence",
-"five-essential-elements-three-of-five-improvement-odds":"five-essential-elements-three-of-five-improvement-odds",
+"five-essential-elements-three-of-five-improvement-odds":"schools-strong-three-plus-supports-ten-times-more-likely-improve",
 "five-factor-mentoring-30-of-34-practices-classroom-management":"five-factor-mentoring-30-of-34-practices-classroom-management",
 "five-faulty-assumptions-aied-dependence":"five-faulty-assumptions-aied-dependence",
 "five-functional-domains-genai-literacy-graduate":"five-functional-domains-genai-literacy-graduate",
@@ -240116,7 +239969,7 @@
 "florida-experience-effects-no-high-school-returns":"florida-experience-effects-no-high-school-returns",
 "flow-control-unused-no-learning-correlation":"flow-control-unused-no-learning-correlation",
 "flowchart-supports-code-orientation-navigation":"flowchart-supports-code-orientation-navigation",
-"fluency-building-activities-strong-evidence-grades-4-9":"fluency-building-activities-strong-evidence-grades-4-9",
+"fluency-building-activities-strong-evidence-grades-4-9":"strong-evidence-fluency-building-activities-grades-4-9",
 "fluency-formula-evidence-base-single-small-rct":"fluency-formula-evidence-base-single-small-rct",
 "fluency-formula-fluency-effects-differ-by-initial-ability":"fluency-formula-fluency-effects-differ-by-initial-ability",
 "fluency-formula-negative-nonsignificant-comprehension-effect":"fluency-formula-negative-nonsignificant-comprehension-effect",
@@ -241648,7 +241501,7 @@
 "implementation-duration-community-moderators":"implementation-duration-community-moderators",
 "implementation-fidelity-grade-residuals":"implementation-fidelity-grade-residuals",
 "implementation-intentions-component-processes-accessibility-automation":"implementation-intentions-component-processes-accessibility-automation",
-"implementation-intentions-d65-goal-attainment-meta-analysis":"implementation-intentions-d65-goal-attainment-meta-analysis",
+"implementation-intentions-d65-goal-attainment-meta-analysis":"implementation-intentions-improve-goal-attainment",
 "implementation-intentions-four-self-regulatory-benefits":"implementation-intentions-four-self-regulatory-benefits",
 "implementation-intentions-improve-goal-attainment":"implementation-intentions-improve-goal-attainment",
 "implementation-level-moderates-dialogic-reading-effects":"implementation-level-moderates-dialogic-reading-effects",
@@ -242281,7 +242134,7 @@
 "kimi-reasonable-human-grading-agreement":"kimi-reasonable-human-grading-agreement",
 "kindergarten-early-algebra-intervention-shifts-equal-sign-understanding":"kindergarten-early-algebra-intervention-shifts-equal-sign-understanding",
 "kindergarten-entry-racial-ethnic-gaps-narrowed-2010-2017":"kindergarten-entry-racial-ethnic-gaps-narrowed-2010-2017",
-"kindergarten-entry-school-poverty-gaps-narrowed-2010-2017":"kindergarten-entry-school-poverty-gaps-narrowed-2010-2017",
+"kindergarten-entry-school-poverty-gaps-narrowed-2010-2017":"school-poverty-entry-gaps-narrowed-2010-2017",
 "kindergarten-entry-scores-declined-2010-2017":"kindergarten-entry-scores-declined-2010-2017",
 "kindergarten-entry-skills-higher-2010-than-1998":"kindergarten-entry-skills-higher-2010-than-1998",
 "kindergarten-entry-skills-lower-2017-than-2010":"kindergarten-entry-skills-lower-2017-than-2010",
@@ -243373,7 +243226,7 @@
 "massachusetts-k3-persistent-significant-risk-rates":"massachusetts-k3-persistent-significant-risk-rates",
 "massachusetts-k3-risk-inequities-student-groups":"massachusetts-k3-risk-inequities-student-groups",
 "massachusetts-school-segregation-risk-identification":"massachusetts-school-segregation-risk-identification",
-"massachusetts-screener-agreement-rates-vary-47-85":"massachusetts-screener-agreement-rates-vary-47-85",
+"massachusetts-screener-agreement-rates-vary-47-85":"screening-assessment-agreement-varies-47-85-percent",
 "massachusetts-threshold-adjacent-students-no-mcas-difference":"massachusetts-threshold-adjacent-students-no-mcas-difference",
 "massive-range-pbl-outcome-effect-sizes":"massive-range-pbl-outcome-effect-sizes",
 "mastery-control-no-entry-differences":"mastery-control-no-entry-differences",
@@ -247471,7 +247324,7 @@
 "self-efficacy-predicts-cluster-membership":"self-efficacy-predicts-cluster-membership",
 "self-efficacy-predicts-usefulness-ease-genai":"self-efficacy-predicts-usefulness-ease-genai",
 "self-efficacy-profile-distribution-102-students":"self-efficacy-profile-distribution-102-students",
-"self-efficacy-related-ell-achievement-gap":"self-efficacy-related-ell-achievement-gap",
+"self-efficacy-related-ell-achievement-gap":"self-efficacy-related-to-persistence-of-ell-achievement-gaps",
 "self-efficacy-related-to-persistence-of-ell-achievement-gaps":"self-efficacy-related-to-persistence-of-ell-achievement-gaps",
 "self-efficacy-survey-partial-longitudinal-invariance":"self-efficacy-survey-partial-longitudinal-invariance",
 "self-efficacy-weakly-correlates-objective-aligned-instructional-planning":"self-efficacy-weakly-correlates-objective-aligned-instructional-planning",
@@ -247732,7 +247585,7 @@
 "simulation-comparability-60-items-1200-simulees":"simulation-comparability-60-items-1200-simulees",
 "simulation-content-shifts-curiosity-categories":"simulation-content-shifts-curiosity-categories",
 "simulation-games-higher-skill-based-knowledge":"simulation-games-higher-skill-based-knowledge",
-"simulation-guidance-moderate-effect-dangelo":"simulation-guidance-moderate-effect-dangelo",
+"simulation-guidance-moderate-effect-dangelo":"guidance-improves-inquiry-learning-outcomes",
 "simulation-larger-application-gains":"simulation-larger-application-gains",
 "simulation-larger-overall-il-gains":"simulation-larger-overall-il-gains",
 "simulation-near-transfer-robust-far-transfer-weak":"simulation-near-transfer-robust-far-transfer-weak",
@@ -248048,7 +247901,7 @@
 "sped-training-no-ood-knowledge-cost":"sped-training-no-ood-knowledge-cost",
 "speech-detection-preliminary-success-noisy-settings":"speech-detection-preliminary-success-noisy-settings",
 "speedup-illusion-ai-assisted-time-underestimation":"speedup-illusion-ai-assisted-time-underestimation",
-"speedup-illusion-ai-time-savings":"speedup-illusion-ai-time-savings",
+"speedup-illusion-ai-time-savings":"speedup-illusion-ai-assisted-time-underestimation",
 "spelling-mastery-potentially-positive-writing-ld":"spelling-mastery-potentially-positive-writing-ld",
 "spelling-mastery-significant-vs-visual-imagery":"spelling-mastery-significant-vs-visual-imagery",
 "spelling-mastery-substantive-vs-basal":"spelling-mastery-substantive-vs-basal",
@@ -248355,7 +248208,7 @@
 "strict-preamble-policy-sentence-attribution":"strict-preamble-policy-sentence-attribution",
 "strong-acquisition-tasks-improve-internalization":"strong-acquisition-tasks-improve-internalization",
 "strong-coherence-uncommon-chicago-schools":"strong-coherence-uncommon-chicago-schools",
-"strong-essential-supports-ten-times-more-likely-substantial-gains":"strong-essential-supports-ten-times-more-likely-substantial-gains",
+"strong-essential-supports-ten-times-more-likely-substantial-gains":"schools-strong-three-plus-supports-ten-times-more-likely-improve",
 "strong-essentials-linked-class-and-attendance":"strong-essentials-linked-class-and-attendance",
 "strong-essentials-programs-more-supportive-contexts":"strong-essentials-programs-more-supportive-contexts",
 "strong-evidence-comprehension-building-practices-grades-4-9":"strong-evidence-comprehension-building-practices-grades-4-9",
@@ -249158,7 +249011,7 @@
 "teacher-support-direct-effect-engagement-ai":"teacher-support-direct-effect-engagement-ai",
 "teacher-support-negatively-associated-ai-dependency":"teacher-support-negatively-associated-ai-dependency",
 "teacher-support-predicts-approach-goals-ai-efl":"teacher-support-predicts-approach-goals-ai-efl",
-"teacher-support-predicts-student-belonging":"teacher-support-predicts-student-belonging",
+"teacher-support-predicts-student-belonging":"teacher-support-strongest-predictor-school-belonging",
 "teacher-support-strongest-predictor-school-belonging":"teacher-support-strongest-predictor-school-belonging",
 "teacher-survey-domains-differentiate-among-schools":"teacher-survey-domains-differentiate-among-schools",
 "teacher-survey-pilot-reliability-19-of-27":"teacher-survey-pilot-reliability-19-of-27",
@@ -249263,8 +249116,8 @@
 "teachers-viewed-erwc-3-engaging-and-growth-supporting":"teachers-viewed-erwc-3-engaging-and-growth-supporting",
 "teaching-about-emotions-associated-with-space-and-furnishings":"teaching-about-emotions-associated-with-space-and-furnishings",
 "teaching-beliefs-negative-aick":"teaching-beliefs-negative-aick",
-"teaching-disparity-share-of-achievement-gap":"teaching-disparity-share-of-achievement-gap",
-"teaching-disparity-weeks-of-learning":"teaching-disparity-weeks-of-learning",
+"teaching-disparity-share-of-achievement-gap":"teaching-effectiveness-disparity-small-share-of-achievement-gap",
+"teaching-disparity-weeks-of-learning":"disadvantaged-students-receive-less-effective-teaching",
 "teaching-effectiveness-disparity-small-share-of-achievement-gap":"teaching-effectiveness-disparity-small-share-of-achievement-gap",
 "teaching-experience-no-aick-gain":"teaching-experience-no-aick-gain",
 "teaching-experience-positive-achievement-gains-review":"teaching-experience-positive-achievement-gains-review",
@@ -250446,7 +250299,7 @@
 "workforce-micro-credential-success-practices":"workforce-micro-credential-success-practices",
 "working-conditions-drive-teacher-exit-decisions":"working-conditions-drive-teacher-exit-decisions",
 "working-conditions-shape-retention-and-recruitment":"working-conditions-shape-retention-and-recruitment",
-"working-memory-limited-with-partially-independent-subcomponents":"working-memory-limited-with-partially-independent-subcomponents",
+"working-memory-limited-with-partially-independent-subcomponents":"working-memory-partially-independent-modality-subcomponents",
 "working-memory-mixed-moderator-interleaving":"working-memory-mixed-moderator-interleaving",
 "working-memory-partially-independent-modality-subcomponents":"working-memory-partially-independent-modality-subcomponents",
 "working-memory-strongest-component-association-ecls-k":"working-memory-strongest-component-association-ecls-k",
