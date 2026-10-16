@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>INSIDE fine-tuning achieves the highest alignment between generated internal dialogue and ground-truth student code edits, up to 57.9% - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-favicon.png">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="inside-fine-tuning-achieves-the-highest-alignment-between-generated-internal-dialogue-and-ground-truth-student-code-edits-up-to-579">INSIDE fine-tuning achieves the highest alignment between generated internal dialogue and ground-truth student code edits, up to 57.9%<a class="headerlink" href="#inside-fine-tuning-achieves-the-highest-alignment-between-generated-internal-dialogue-and-ground-truth-student-code-edits-up-to-579" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 2 studies · 2 design <code>r2</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> On test_NP, Qwen3-8B-INSIDE reaches 57.9% alignment versus 56.0% for the strongest BloomCoT prompting model; on test_OP, Qwen2.5-7B-INSIDE reaches 51.8% versus 49.6% for the best prompting baseline. <a href="#rose-niousha-2026">→ Rose Niousha 2026</a>
+<code>q2 i?</code> The LLM-judge alignment metric was validated against human annotations, achieving 88.0% agreement (kappa = 0.754). <a href="#rose-niousha-2026-2">→ Rose Niousha 2026 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="rose-niousha-2026">Rose Niousha 2026<a class="headerlink" href="#rose-niousha-2026" title="Permanent link">&para;</a></h3>
+<p>Rose Niousha, Minwoo Kang, Narges Norouzi. (2026). INSIDE the Student's Mind: Jointly Modeling Latent Reasoning and Action in LLM Student Simulators. Published as a conference paper at COLM 2026. https://arxiv.org/abs/2608.10492 <a href="https://doi.org/10.48550/arxiv.2608.10492">doi:10.48550/arxiv.2608.10492</a></p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Evaluation of Experiment 2 models on test_NP (1,054 submissions) using an LLM judge that decomposes generated internal dialogue into atomic claims checked against ground-truth code diffs. The article reports Qwen3-8B-INSIDE "achieves 57.9% compared to 56.0% for the strongest BloomCoT model"; test_NP has larger standard errors (~2.0-2.3).</p>
+<blockquote>
+<p>"Ontest_NP, Qwen3-8B-INSIDE achieves 57.9% compared to 56.0% for the strongest BloomCoT model."</p>
+</blockquote>
+<h3 id="rose-niousha-2026-2">Rose Niousha 2026 (2)<a class="headerlink" href="#rose-niousha-2026-2" title="Permanent link">&para;</a></h3>
+<p>Rose Niousha, Minwoo Kang, Narges Norouzi. (2026). INSIDE the Student's Mind: Jointly Modeling Latent Reasoning and Action in LLM Student Simulators. Published as a conference paper at COLM 2026. https://arxiv.org/abs/2608.10492</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Validation study of the alignment metric: 25 generated internal dialogues were manually annotated for whether each extracted claim was reflected in the corresponding code edit. The article reports "88.0% agreement with the LLM judge labels ( κ= 0.754)"; a separate teacher-trace check (n=209) yielded 95.2% average alignment.</p>
+<blockquote>
+<p>"The manual annotations achieved 88.0% agreement with the LLM judge labels ( κ= 0.754), indicating substantial agreement between the LLM judge and human annotations."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../prompted-simulators-artificially-high-pass-rates/">Prompting-based student simulators maintain artificially high pass rates (~80%) from the first submission step, while fine-tuned models track real students' low-start, sharp-increase trajectories</a> — related</li>
+<li><a href="../inside-lowest-wasserstein-action-fidelity-test-op/">Fine-tuning with INSIDE internal dialogue achieves the lowest Wasserstein distances to real student code distributions on test_OP across all action-fidelity metrics</a> — related</li>
+<li><a href="../self-consistency-does-not-imply-student-alignment/">High self-consistency between a simulator's reasoning and its own generated code does not imply alignment with real student reasoning or behavior</a> — related</li>
+<li><a href="../pass-rate-distribution-explains-split-gap/">Differences in student pass-rate distributions between test splits explain the smaller INSIDE-over-SFT improvement on test_NP</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>inside-highest-reasoning-alignment-57-9</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>INSIDE fine-tuning achieves the highest alignment between generated internal dialogue and ground-truth student code edits, up to 57.9%</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>INSIDE fine-tuning achieves the highest alignment between generated internal dialogue and ground-truth student code edits, up to 57.9%</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-11</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>rose-niousha-2026</code>, <code>rose-niousha-2026-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

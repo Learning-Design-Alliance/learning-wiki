@@ -1,0 +1,346 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Spaced Retrieval Practice - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-favicon.png">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../strategies/">Strategies</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Strategy">
+<h1 id="spaced-retrieval-practice">Spaced Retrieval Practice<a class="headerlink" href="#spaced-retrieval-practice" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a>
+<strong>Evidence</strong> · 4 claims (2 for, 2 against) · 11 studies (5 causal, 5 quant-synthesis, 1 review), <code>q3</code>–<code>q4</code> · 6 of 11 report an effect size · 1 claim rests on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>Spaced retrieval practice combines two of the most robust findings in learning science: <em>retrieval practice</em> — actively recalling information from memory rather than rereading it — and <em>spacing</em> — distributing those recall attempts across time rather than massing them together. In practice, learners answer questions, solve problems, or summarize material from memory at intervals that grow progressively longer (e.g., one day, then three days, then a week), with feedback provided after each attempt.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Retrieval attempts strengthen memory more than restudying, and spacing those attempts multiplies the benefit by forcing effortful reconstruction each time <a href="../../claims/retrieval-practice-improves-retention/">Testing effect improves long-term retention.</a> [+S]. The combination outperforms either technique alone: spaced <em>rereading</em> is weaker than spaced <em>retrieval</em>, because the difficulty of successful recall is what drives durable learning. Optimal spacing expands as retention intervals lengthen — the gap between sessions should be roughly 10–20% of the desired retention period.</p>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>A bank of retrieval prompts (questions, problems, prompts to summarize) mapped to learning objectives</li>
+<li>A schedule that revisits material at expanding intervals (<a href="../../elements/spaced-repetition/">Spaced Repetition</a>)</li>
+<li>Feedback after each attempt, especially for incorrect or incomplete recalls</li>
+<li>Learners must actually attempt recall before seeing answers — the prompt must come first</li>
+<li>A bank of recall prompts (questions, flashcards, problems) targeting the material</li>
+<li>A schedule that revisits material at expanding intervals (e.g., 1 day → 3 days → 1 week → 3 weeks)</li>
+<li>Feedback or answer-checking so errors are corrected, not rehearsed (<a href="../../elements/feedback/">Feedback</a>)</li>
+<li>Enough curricular time for multiple brief sessions rather than one long one</li>
+<li>Identifiable core content worth retaining long-term (facts, definitions, procedures, formulas)</li>
+<li>A schedule that revisits material at expanding intervals, not a single review</li>
+<li>Feedback or answer-checking after each retrieval attempt</li>
+<li>Low-stakes framing so retrieval functions as learning, not evaluation (<a href="../../elements/assessment/">Assessment</a> for learning rather than of learning)</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Retrieval attempts that consistently fail (success rate well below ~80%) can encode errors and frustrate learners <a href="../../claims/retrieval-failure-reduces-benefit/">Retrieval practice benefits diminish when retrieval repeatedly fails.</a> [-M] — calibrate difficulty or provide partial cues</li>
+<li>Learners judge spaced retrieval as harder and less effective than massed rereading, and disengage if the design does not explain why difficulty is desirable <a href="../../claims/learners-misjudge-spacing-benefits/">Learners misjudge spaced practice as less effective than massed practice.</a> [-M]</li>
+<li>Spacing gains shrink for highly complex, integrated skills where "forgetting" between sessions costs more than the spacing buys [~W]</li>
+<li>Requires sustained engagement over days or weeks; single-session implementations cannot realize the spacing effect</li>
+<li>Learners experience retrieval as harder and less productive than rereading, and often abandon it <a href="https://doi.org/10.1111/j.1467-9280.2006.01693.x">Learners misjudge their own learning, preferring massed rereading despite worse retention.</a> [-M] — illusions of fluency from massed study drive poor self-regulation of study choices</li>
+<li>Spacing gains shrink or reverse when the material is highly complex or when intervals exceed the retention horizon of the assessment [~M]</li>
+<li>Retrieval of partially learned material without feedback can entrench errors [-M]</li>
+<li>Very short intervals collapse spacing into massing; very long intervals produce failed retrievals with little benefit [~S]</li>
+<li>Learners experience retrieval as harder and less productive than rereading, and often abandon spaced systems prematurely [~S] — perceived fluency from rereading masquerades as learning</li>
+<li>Spacing benefits shrink for highly complex or rapidly changing material where the underlying schema, not the memory trace, is the bottleneck</li>
+<li>Retrieval of partially learned or never-encoded material yields little benefit and can reinforce guessing if feedback is delayed or absent</li>
+<li>Expanding schedules require tracking; without a system (software or instructor-managed review), spacing collapses into cramming</li>
+</ul>
+<h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Expanding vs. equal intervals:</strong> expanding schedules (1 day → 3 days → 1 week) generally match or beat fixed intervals for retention</li>
+<li><strong>In-class vs. technology-mediated:</strong> tools like <a href="https://apps.ankiweb.net">Anki</a> and <a href="https://quizlet.com">Quizlet Learn</a> automate scheduling with spaced-repetition algorithms; teachers can approximate with cumulative weekly quizzes</li>
+<li><strong>Cumulative quizzing:</strong> rather than unit-by-unit tests, each quiz samples from all prior material — a low-tech, high-yield variant</li>
+<li><strong>Retrieval formats:</strong> free recall, cued recall, application problems, and brief summaries all work; varied formats support transfer better than a single repeated format</li>
+<li><strong>Expanding vs. equal intervals:</strong> expanding schedules (doubling gaps) are generally as good or better than fixed ones and are easier to schedule [~M]</li>
+<li><strong>Cumulative quizzing:</strong> rather than unit-by-unit tests, each quiz samples from all prior content — a low-tech way to enforce spacing at course scale</li>
+<li><strong>Adaptive flashcard systems:</strong> algorithms (e.g., Leitner boxes, SM-2) select items for review based on individual recall success</li>
+<li><strong>Interleaving:</strong> mixing problem <em>types</em> within spaced sessions adds discrimination practice, especially valuable in mathematics [~S]</li>
+<li><strong>Expanding vs. fixed intervals:</strong> expanding schedules (1 day → 3 days → 1 week) are generally efficient; fixed short intervals work well for very new material</li>
+<li><strong>Cumulative quizzing:</strong> each assessment includes items from prior units, embedding spacing without a separate review system</li>
+<li><strong>Flashcard scheduling:</strong> algorithms such as those in Anki or SuperMemo automate interval selection</li>
+<li><strong>Interleaved retrieval:</strong> mixing item types within a session adds discrimination practice on top of spacing</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>All age groups benefit, including young children and older adults <a href="../../claims/spaced-practice-improves-retention/">Spaced practice improves long-term retention across ages.</a> [+S]</li>
+<li>Learners preparing for cumulative or delayed assessments (licensing exams, end-of-year tests)</li>
+<li>Learners with weaker metacognition need explicit framing, since they are most likely to abandon the strategy when it feels difficult</li>
+<li>All age groups benefit, from early readers to medical residents; effects are among the most age-general in the literature [+S]</li>
+<li>Learners preparing for cumulative or high-stakes assessments, where retention over weeks matters more than momentary fluency</li>
+<li>Struggling learners need shorter initial intervals and more feedback; the schedule, not the technique, must adapt [~M]</li>
+<li>Less suited to learners who need only momentary performance (e.g., a presentation tomorrow) — cramming wins for immediate but not delayed tests [~S]</li>
+<li>Learners of all ages; spacing benefits appear from early childhood through adulthood and across subject domains [~S]</li>
+<li>Learners preparing for cumulative or delayed assessments (licensing exams, end-of-course tests)</li>
+<li>Struggling learners benefit, but need more frequent initial retrieval and tighter intervals before expansion</li>
+<li>Less useful for learners who already retrieve the material effortlessly — successful, easy recall adds little; difficulty must be calibrated</li>
+</ul>
+<h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Long-term retention of declarative knowledge: facts, definitions, vocabulary, formulas</li>
+<li>Fluency and automaticity of foundational skills that later learning depends on</li>
+<li>Cumulative course structures where earlier material must remain accessible</li>
+<li>Long-term retention of factual and conceptual knowledge</li>
+<li>Fluency and automaticity in foundational skills (<a href="../../elements/automaticity/">Automaticity</a>)</li>
+<li>Cumulative course mastery where later content builds on earlier content</li>
+<li>Long-term retention of declarative knowledge: vocabulary, facts, definitions, formulas</li>
+<li>Automaticity of foundational procedures so working memory is freed for higher-order tasks</li>
+<li>Maintenance of previously mastered skills over months and years</li>
+</ul>
+<h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Identify the core knowledge and skills that must remain retrievable over time, and write retrieval prompts for each (<a href="../../elements/learning-objectives/">Learning Objectives</a>).</li>
+<li>Schedule the first retrieval shortly after initial instruction, then at expanding intervals (<a href="../../elements/spaced-repetition/">Spaced Repetition</a>).</li>
+<li>Present prompts <em>before</em> any review material; require an actual attempt (<a href="../../elements/practice/">Practice</a>).</li>
+<li>Provide immediate corrective feedback after each attempt (<a href="../../elements/feedback/">Feedback</a>).</li>
+<li>Explain the strategy to learners — why effortful recall and spacing feel harder but work better — to sustain buy-in.</li>
+<li>Track performance and re-insert items that were recalled incorrectly at shorter intervals (<a href="../../elements/adaptive-difficulty/">Adaptive Difficulty</a>).</li>
+</ol>
+<h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../interleaved-practice/">Interleaved Practice</a> — mixes problem types within sessions; combines naturally with spacing</li>
+<li><a href="../cumulative-quizzing/">Cumulative Quizzing</a> — a classroom implementation of spaced retrieval</li>
+<li><a href="../elaborative-interrogation/">Elaborative Interrogation</a> — "why" questions add depth to what is retrieved</li>
+<li>Cumulative quizzing — the classroom-scale implementation of spaced retrieval across a course</li>
+<li>Interleaved practice — combines spacing with discrimination between problem types</li>
+<li>Rereading and highlighting — the common alternatives that spaced retrieval replaces; less effective at equal time</li>
+<li><a href="../generation-as-post-encoding-consolidation-strategy/">Sequence simpler desirable difficulties (retrieval, spacing, interleaving) during initial L2 vocabulary encoding, reserving generation for post-encoding consolidation</a></li>
+<li><a href="../retrieval-practice-three-classroom-strategies/">Implement retrieval practice in class through everything-you-know recall, multi-representation flashcards, and practice test questions that differ from the actual test</a></li>
+<li><a href="../sequence-practice-easy-to-difficult-item-types/">Sequence retrieval practice from less effortful item types (multiple choice, factual) to more effortful ones (short answer, applied) as learners reach mastery</a></li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong><a href="https://apps.ankiweb.net">Anki</a></strong> — open-source spaced-repetition flashcard software using the SM-2 expanding-interval algorithm; widely used in medical education.</li>
+<li><strong><a href="https://quizlet.com">Quizlet Learn</a></strong> — adapts question scheduling based on items a learner has missed, spacing review of weak items.</li>
+<li><strong>Cumulative low-stakes quizzing</strong> — courses that begin each class with a short quiz sampling all prior units show large gains on final exams relative to unit-only testing.</li>
+<li><strong><a href="https://www.duolingo.com">DuoLingo</a></strong> — schedules review of previously learned vocabulary at expanding intervals interleaved with new material.</li>
+<li><strong><a href="https://apps.ankiweb.net">Anki</a></strong> — open-source spaced-repetition flashcard system using the SM-2 algorithm to schedule expanding review intervals per item.</li>
+<li><strong><a href="https://www.duolingo.com">Duolingo</a></strong> — schedules review of previously learned vocabulary and grammar just before predicted forgetting, interleaved with new content.</li>
+<li><strong><a href="https://www.khanacademy.org">Khan Academy</a></strong> — mastery system re-surfaces earlier skills in later exercises, requiring spaced retrieval across units.</li>
+<li><strong>Medical education "spaced curricula"</strong> — pharmacology and anatomy content revisited across clerkships rather than taught once, a structure adopted by several medical schools following retention research.</li>
+<li><strong><a href="https://apps.ankiweb.net">Anki</a></strong> — spaced-repetition flashcard software using the SM-2 expanding-interval algorithm; widely used in medical education for high-volume factual retention.</li>
+<li><strong>Cumulative midterm/final design</strong> — courses where each quiz includes 20–30% items from prior units, converting assessment into spaced retrieval without extra study time.</li>
+<li><strong>Retrieval warm-ups</strong> — opening a class with two or three recall questions from the previous week before introducing new content.</li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Roediger, H. L., &amp; Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. <em>Psychological Science, 17</em>(3), 249–255. <a href="https://doi.org/10.1111/j.1467-9280.2006.01693.x">doi:10.1111/j.1467-9280.2006.01693.x</a></li>
+<li>Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., &amp; Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. <em>Psychological Bulletin, 132</em>(3), 354–380. <a href="https://doi.org/10.1037/0033-2909.132.3.354">doi:10.1037/0033-2909.132.3.354</a></li>
+<li>Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., &amp; Willingham, D. T. (2013). Improving students' learning with effective learning techniques. <em>Psychological Science in the Public Interest, 14</em>(1), 4–58. <a href="https://doi.org/10.1177/1529100612453266">doi:10.1177/1529100612453266</a></li>
+<li>Karpicke, J. D., &amp; Roediger, H. L. (2008). The critical importance of retrieval for learning. <em>Science, 319</em>(5865), 966–968. <a href="https://doi.org/10.1126/science.1152408">doi:10.1126/science.1152408</a></li>
+<li>Kang, S. H. K. (2016). Spaced repetition promotes efficient and effective learning: Policy implications of innovations in teaching and learning. <em>Policy Insights from the Behavioral and Brain Sciences, 3</em>(1), 12–19. <a href="https://doi.org/10.1177/2372732215624708">doi:10.1177/2372732215624708</a></li>
+<li>Bjork, R. A., &amp; Bjork, E. L. (2020). Desirable difficulties in theory and practice. <em>Journal of Applied Research in Memory and Cognition, 9</em>(4), 475–479. <a href="https://doi.org/10.1016/j.jarmac.2020.09.003">doi:10.1016/j.jarmac.2020.09.003</a></li>
+</ul>
+<!-- merged 2026-10-09 from strategies/spaced_retrieval_practice ("Spaced Retrieval Practice"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Spaced Retrieval Practice
+
+> **Strategy** · [All strategies](../)
+> **Evidence** · no claims cited
+
+## Description
+Spaced retrieval practice combines two of the most robust findings in learning science: *spacing* (distributing study or practice across multiple sessions separated in time) and *retrieval practice* (actively recalling information from memory rather than rereading it). Learners attempt to recall material, receive feedback, and then revisit the material after a delay — with intervals that grow progressively longer as mastery stabilizes.
+
+## Design Implications
+
+Retrieval attempts strengthen memory more than restudying of equivalent duration, and spaced schedules dramatically improve long-term retention relative to massed study [Dunlosky et al. rated practice testing and distributed practice among the highest-utility techniques.](https://doi.org/10.1177/1529100612453266) [+S]. The two mechanisms are complementary: spacing forces effortful reconstruction at each encounter, while retrieval makes each spaced encounter a memory-strengthening event rather than a passive review. Effective implementations schedule review *just* as forgetting begins — the desirable difficulty that maximizes encoding benefit [~S].
+
+### Context
+#### Requirements
+- A bank of recall prompts (questions, flashcards, problems) targeting the material
+- A schedule that revisits material at expanding intervals (e.g., 1 day → 3 days → 1 week → 3 weeks)
+- Feedback or answer-checking so errors are corrected, not rehearsed ([Feedback](../../elements/feedback/))
+- Enough curricular time for multiple brief sessions rather than one long one
+
+#### Constraints
+- Learners experience retrieval as harder and less productive than rereading, and often abandon it [Learners misjudge their own learning, preferring massed rereading despite worse retention.](https://doi.org/10.1111/j.1467-9280.2006.01693.x) [-M] — illusions of fluency from massed study drive poor self-regulation of study choices
+- Spacing gains shrink or reverse when the material is highly complex or when intervals exceed the retention horizon of the assessment [~M]
+- Retrieval of partially learned material without feedback can entrench errors [-M]
+- Very short intervals collapse spacing into massing; very long intervals produce failed retrievals with little benefit [~S]
+
+#### Implementation Variability
+- **Expanding vs. equal intervals:** expanding schedules (doubling gaps) are generally as good or better than fixed ones and are easier to schedule [~M]
+- **Cumulative quizzing:** rather than unit-by-unit tests, each quiz samples from all prior content — a low-tech way to enforce spacing at course scale
+- **Adaptive flashcard systems:** algorithms (e.g., Leitner boxes, SM-2) select items for review based on individual recall success
+- **Interleaving:** mixing problem *types* within spaced sessions adds discrimination practice, especially valuable in mathematics [~S]
+
+### Target Learners
+- All age groups benefit, from early readers to medical residents; effects are among the most age-general in the literature [+S]
+- Learners preparing for cumulative or high-stakes assessments, where retention over weeks matters more than momentary fluency
+- Struggling learners need shorter initial intervals and more feedback; the schedule, not the technique, must adapt [~M]
+- Less suited to learners who need only momentary performance (e.g., a presentation tomorrow) — cramming wins for immediate but not delayed tests [~S]
+
+### Target Learning Goals
+- Long-term retention of factual and conceptual knowledge
+- Fluency and automaticity in foundational skills ([Automaticity](../../elements/automaticity/))
+- Cumulative course mastery where later content builds on earlier content
+
+### Instructions
+1. Break target knowledge into discrete, testable items or problems.
+2. Schedule the first retrieval shortly after initial instruction ([Practice](../../elements/practice/)), then at expanding intervals.
+3. Require actual recall — writing, answering, or solving — before revealing answers; rereading does not substitute.
+4. Provide immediate corrective feedback ([Feedback](../../elements/feedback/)) and re-schedule missed items at shorter intervals.
+5. Lengthen intervals as items are consistently recalled; drop or archive mastered items.
+6. Use cumulative low-stakes quizzes to institutionalize spacing across the course ([Assessment](../../elements/assessment/)).
+
+## Related Strategies
+- [Interleaved Practice](../interleaved-practice/) — mixing problem types within sessions; combines with spacing for stronger discrimination learning
+- [Cumulative Quizzing](../cumulative-quizzing/) — course-level mechanism for enforcing spaced retrieval
+- [Elaborative Interrogation](../elaborative-interrogation/) — "why" questions that can be embedded in retrieval prompts
+
+## Examples
+- **[Anki](https://apps.ankiweb.net)** — open-source spaced-repetition flashcard system using the SM-2 algorithm to schedule expanding review intervals per item.
+- **[Duolingo](https://www.duolingo.com)** — schedules review of previously learned vocabulary and grammar just before predicted forgetting, interleaved with new content.
+- **[Khan Academy](https://www.khanacademy.org)** — mastery system re-surfaces earlier skills in later exercises, requiring spaced retrieval across units.
+- **Medical education "spaced curricula"** — pharmacology and anatomy content revisited across clerkships rather than taught once, a structure adopted by several medical schools following retention research.
+
+## Key Sources
+- Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380. [doi:10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)
+- Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)
+- Karpicke, J. D., & Roediger, H. L. (2008). The critical importance of retrieval for learning. *Science, 319*(5865), 966–968. [doi:10.1126/science.1152408](https://doi.org/10.1126/science.1152408)
+- Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
+- Kang, S. H. K. (2016). Spaced repetition promotes efficient and effective learning: Policy implications of innovations in teaching and learning. *Policy Insights from the Behavioral and Brain Sciences, 3*(1), 12–19. [doi:10.1177/2372732215624708](https://doi.org/10.1177/2372732215624708)
+-->
+
+<!-- merged 2026-10-13 from strategies/spaced-retrieval ("Spaced Retrieval"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Spaced Retrieval
+
+> **Strategy** · [All strategies](../)
+> **Evidence** · no claims cited
+
+## Description
+Spaced retrieval combines two of the most robust findings in learning science: *spacing* (distributing study across time rather than massing it) and *retrieval practice* (actively recalling information instead of rereading it). Learners attempt to recall material, receive feedback, and then revisit it after a delay — with intervals expanding as memory strengthens (e.g., one day, three days, one week). The strategy is carried out through low-stakes quizzes, flashcards, cumulative review, or prompts embedded in later lessons.
+
+## Design Implications
+
+Retrieval attempts strengthen memory more than restudying of equivalent duration, and the advantage grows when retrieval is spaced over time rather than immediately repeated [~S]. The two effects are complementary: spacing introduces *desirable difficulty* by partially weakening memory, forcing effortful reconstruction at each recall attempt. Success depends on feedback — retrieval without correction can entrench errors, so every recall attempt should be followed by verification.
+
+### Context
+#### Requirements
+- Identifiable core content worth retaining long-term (facts, definitions, procedures, formulas)
+- A schedule that revisits material at expanding intervals, not a single review
+- Feedback or answer-checking after each retrieval attempt
+- Low-stakes framing so retrieval functions as learning, not evaluation ([Assessment](../../elements/assessment/) for learning rather than of learning)
+
+#### Constraints
+- Learners experience retrieval as harder and less productive than rereading, and often abandon spaced systems prematurely [~S] — perceived fluency from rereading masquerades as learning
+- Spacing benefits shrink for highly complex or rapidly changing material where the underlying schema, not the memory trace, is the bottleneck
+- Retrieval of partially learned or never-encoded material yields little benefit and can reinforce guessing if feedback is delayed or absent
+- Expanding schedules require tracking; without a system (software or instructor-managed review), spacing collapses into cramming
+
+#### Implementation Variability
+- **Expanding vs. fixed intervals:** expanding schedules (1 day → 3 days → 1 week) are generally efficient; fixed short intervals work well for very new material
+- **Cumulative quizzing:** each assessment includes items from prior units, embedding spacing without a separate review system
+- **Flashcard scheduling:** algorithms such as those in Anki or SuperMemo automate interval selection
+- **Interleaved retrieval:** mixing item types within a session adds discrimination practice on top of spacing
+
+### Target Learners
+- Learners of all ages; spacing benefits appear from early childhood through adulthood and across subject domains [~S]
+- Learners preparing for cumulative or delayed assessments (licensing exams, end-of-course tests)
+- Struggling learners benefit, but need more frequent initial retrieval and tighter intervals before expansion
+- Less useful for learners who already retrieve the material effortlessly — successful, easy recall adds little; difficulty must be calibrated
+
+### Target Learning Goals
+- Long-term retention of declarative knowledge: vocabulary, facts, definitions, formulas
+- Automaticity of foundational procedures so working memory is freed for higher-order tasks
+- Maintenance of previously mastered skills over months and years
+
+### Instructions
+1. Identify the small set of high-value items that must be retained (not everything deserves spacing).
+2. Ensure material is initially understood and encoded — retrieval does not substitute for first teaching ([Chunking](../../principles/chunking/) reduces initial load).
+3. Schedule the first retrieval within 24–48 hours of initial learning.
+4. Present a retrieval prompt ([Practice](../../elements/practice/), quiz item, or flashcard) and require an actual recall attempt — written or spoken, not a recognition glance.
+5. Provide immediate feedback and re-study for missed items, then shorten that item's next interval.
+6. Expand intervals for successfully recalled items (e.g., 1 day → 3 days → 1 week → 1 month).
+7. Make the schedule visible and explain the rationale to learners, since the effort of retrieval is otherwise misread as ineffectiveness.
+
+## Related Strategies
+
+- Cumulative quizzing — the classroom-scale implementation of spaced retrieval across a course
+- Interleaved practice — combines spacing with discrimination between problem types
+- Rereading and highlighting — the common alternatives that spaced retrieval replaces; less effective at equal time
+- [Sequence simpler desirable difficulties (retrieval, spacing, interleaving) during initial L2 vocabulary encoding, reserving generation for post-encoding consolidation](../generation-as-post-encoding-consolidation-strategy/)
+- [Implement retrieval practice in class through everything-you-know recall, multi-representation flashcards, and practice test questions that differ from the actual test](../retrieval-practice-three-classroom-strategies/)
+
+## Examples
+- **[Anki](https://apps.ankiweb.net)** — spaced-repetition flashcard software using the SM-2 expanding-interval algorithm; widely used in medical education for high-volume factual retention.
+- **[Duolingo](https://www.duolingo.com)** — schedules review of previously learned vocabulary at expanding intervals interleaved with new material.
+- **Cumulative midterm/final design** — courses where each quiz includes 20–30% items from prior units, converting assessment into spaced retrieval without extra study time.
+- **Retrieval warm-ups** — opening a class with two or three recall questions from the previous week before introducing new content.
+
+## Key Sources
+- Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)
+- Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380. [doi:10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)
+- Karpicke, J. D., & Roediger, H. L. (2008). The critical importance of retrieval for learning. *Science, 319*(5865), 966–968. [doi:10.1126/science.1152408](https://doi.org/10.1126/science.1152408)
+- Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
+- Bjork, R. A., & Bjork, E. L. (2020). Desirable difficulties in theory and practice. *Journal of Applied Research in Memory and Cognition, 9*(4), 475–479. [doi:10.1016/j.jarmac.2020.09.003](https://doi.org/10.1016/j.jarmac.2020.09.003)
+-->
+
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>strategy</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>spaced-retrieval-practice</code></td>
+</tr>
+<tr>
+<td><code>aliases</code></td>
+<td><code>spaced_retrieval_practice</code>, <code>spaced-retrieval</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Spaced Retrieval Practice</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Scheduling recall attempts across increasing intervals of time so that learners must reconstruct knowledge from memory rather than re-expose themselves to it.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-08-29</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>
