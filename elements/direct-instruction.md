@@ -55,6 +55,11 @@ Direct instruction reduces unguided search during initial learning, which is whe
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Recent developments in instructional research and instructional design models support guidance during instruction](../claims/recent-design-models-support-guidance-during-instruction.md) [+W]
 
+## The evidence by question
+- *Does explaining and modelling a new method beat leaving learners to discover it with little support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
+- *Does the advantage of explicit instruction last beyond the end of instruction?* [Direct instruction's advantages do not persist over the longer term](../claims/direct-instruction-advantages-vanish-long-term.md) [~M]
+- *Does adopting a scripted Direct Instruction programme raise achievement in schools, and what does it depend on?* [Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling](../claims/direct-instruction-improves-outcomes.md) [+M]
+
 ## Related Elements
 - [Explicit Teaching](explicit-teaching.md) — the closely aligned element emphasizing teacher-led explanation and modeling
 - [Worked Examples](worked-examples.md) — the example-based form of direct instruction for problem solving

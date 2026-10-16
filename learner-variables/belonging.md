@@ -94,6 +94,11 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Both sense of belonging and intentions to persist decline over the first academic year](../claims/belonging-and-persistence-intentions-decline-first-year.md) [+M] — instruction changes it
 - [First-year students' sense of belonging to their university predicts intentions to persist, controlling for background variables and other persistence predictors](../claims/sense-of-belonging-predicts-persistence-intentions.md) [+M] — learners who differ on it differ in outcomes
 
+## The evidence by question
+- *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]
+- *Does a learner's sense of belonging predict motivation, engagement, persistence and achievement?* [Belongingness is among the factors that most strongly and reliably affect learners' academic motivation and achievement](../claims/belongingness-strongly-affects-motivation-achievement.md) [+M]
+- *What in a school or course goes with a stronger sense of belonging?* [Teacher support is the strongest predictor of school belonging](../claims/teacher-support-strongest-predictor-school-belonging.md) [+M]
+
 ## Related Learner Variables
 - Affect regulation — belonging shapes how a setback is felt before any regulation strategy is applied.
 - Motivation — related but distinct: belonging is about standing, motivation about wanting.

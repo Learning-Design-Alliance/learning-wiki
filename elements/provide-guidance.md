@@ -59,6 +59,12 @@ Guidance reduces the working-memory burden of early learning by narrowing the sp
 - [ChatGPT 3.5 produced low-quality hints for 32% of problems, reducible to near 0% for algebra and 13% for statistics via the self-consistency technique](../claims/chatgpt-hint-error-rate-self-consistency.md) [~W]
 - [The effect of context awareness on perceived task-completion support depends on the pedagogical guidance style it is paired with](../claims/context-effect-depends-on-guidance-style.md) [~W]
 
+## The evidence by question
+- *Does explaining and modelling a new method beat leaving learners to discover it with little support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
+- *Must support be contingent on the learner's last response, rather than fixed?* [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S]
+- *Should support be withdrawn, and in what order?* [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S]
+- *For whom: does support that helps novices stop helping as task-specific expertise grows?* [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~S]
+
 ## Related Elements
 - [Worked Examples](worked-examples.md) — the most heavily researched form of guidance; complete solution models for study
 - [Guided Discovery](guided-discovery.md) — inquiry with built-in prompts and hints, balancing exploration and support

@@ -48,6 +48,9 @@ Proposed by Carpenter (2009), this account holds that "semantic elaboration occu
 - [Pretesting benefits for paired associates depend on semantic association between pair members, with cued-recall benefits absent for unrelated pairs](../claims/semantic-association-moderates-pretesting.md) [+W]
 - [Whether initial retrieval practice enhances semantic organization in final free recall is unclear, with results that may depend on how retrieval practice is implemented](../claims/effects-of-retrieval-practice-on-semantic-organization-are-unclear.md) [~W]
 
+## The evidence by question
+- *Does retrieving improve later recall because learners elaborate the material semantically while retrieving, as this account holds?* [Existing theoretical accounts attributing the testing effect to enhanced semantic elaboration receive limited support](../claims/limited-support-semantic-elaboration-testing-accounts.md) [-M]
+
 ## Related Theories
 - [Elaborative Encoding Improves Retention](../claims/generative-processing-improves-learning.md)
 

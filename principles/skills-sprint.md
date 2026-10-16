@@ -110,6 +110,9 @@ No claim in the wiki compares a skills sprint with another way of spending the s
 
 The earlier page tagged the whole-task and specific-goals claims `[~S]`; each rests on one study coded q2, so they are capped at M here.
 
+## The evidence by question
+- *Who should control the pace: the system or the learner?* [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](../claims/learner-paced-beats-system-paced-complex-material.md) [~M]
+
 ## Further evidence, not yet read against this model
 
 Claims that mention sprints. None measures an outcome, so none tests the relationship.

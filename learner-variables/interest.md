@@ -105,6 +105,12 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Voluntary classroom uptake of teacher-assigned AI discussions was high on average (85.0% classroom participation) but heterogeneous across teachers and discussions](../claims/high-but-heterogeneous-voluntary-ai-discussion-uptake.md) [~M] — instruction changes it
 - [YOUmedia cultivates a sense of community among participating teens that drives engagement with digital media](../claims/youmedia-sense-of-community-drives-digital-media-engagement.md) [+M] — instruction changes it
 
+## The evidence by question
+- *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]
+- *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]
+- *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]
+- *Do rewards and praise undermine voluntary engagement?* [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](../claims/rewards-undermine-intrinsic-motivation.md) [+S]
+
 ## Related Learner Variables
 - [Motivation](motivation.md)
 - [Self-Efficacy](self-efficacy.md)
