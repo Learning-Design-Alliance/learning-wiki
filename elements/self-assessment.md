@@ -62,6 +62,11 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Students' JoL ratings became more consistent over time and evolved from under-rating to over-rating to accurate judgement](../claims/jol-consistency-and-rating-evolution.md) [~W]
 - [Students using the eliciting agent showed JoL ratings correlated with system learning metrics, strongest for mastery](../claims/elicit-condition-jol-accuracy-correlations.md) [+W]
 
+## The evidence by question
+
+- *Should learners assess their own work, and can their self-ratings be trusted?* [Self Assessment Improves Self Regulated Learning](../claims/self-assessment-improves-self-regulated-learning.md) [+M]
+- *Can learners' own monitoring be trusted, and can it be trained?* [Self Assessment Accuracy Is Low Without Training](../claims/self-assessment-accuracy-is-low-without-training.md) [~S]
+
 ## Related Elements
 - [Reflection](reflection.md)
 - [Feedback](feedback.md)

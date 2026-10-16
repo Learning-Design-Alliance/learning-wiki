@@ -48,6 +48,9 @@ A daily online learning diary with two sections per learning day. "Before learni
 - [Keeping a structured learning diary without further intervention did not improve university students' self-regulation](../claims/learning-diary-alone-no-self-regulation-gain.md) [-W] — attached 2026-10-15 from Fabriz et al. (2014), which proposed "Standardized learning journal (structured learning diary) for fostering self-monitoring in university courses"; tests this page's relationship.
 - [Combining a structured learning diary with instruction on self-regulated learning increased students' strategy use and self-efficacy](../claims/diary-plus-srl-instruction-raises-strategy-use-self-efficacy.md) [~W] — attached 2026-10-15 from Fabriz et al. (2014), which proposed "Standardized learning journal (structured learning diary) for fostering self-monitoring in university courses"; tests this page's relationship.
 
+## The evidence by question
+- *Does keeping a learning diary by itself improve learners' self-regulation, or only when it comes with self-regulation training or prompts?* [Keeping a structured learning diary without further intervention did not improve university students' self-regulation](../claims/learning-diary-alone-no-self-regulation-gain.md) [-M]
+
 ## Related Elements
 - [Journal_Reflections](../strategies/journal_reflections.md)
 - [Goal Setting](goal-setting.md)

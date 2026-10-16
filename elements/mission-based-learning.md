@@ -57,6 +57,10 @@ Mission-based learning drives engagement by giving learners a compelling goal wh
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - 
 
+## The evidence by question
+
+- *Does a specific, challenging goal raise performance over no goal or a vague 'do your best'?* [Goal setting improves performance](../claims/goal-setting-improves-performance.md) [+S]
+
 ## Related Elements
 - [Problem-Based Learning](problem-based-learning.md) — the problem-driven cousin; missions add explicit goal framing and success criteria to an open problem
 - [Scenario-Based Learning](scenario-based-learning.md) — supplies the narrative context in which a mission is situated

@@ -57,6 +57,10 @@ Low-stakes retrieval opportunities strengthen retention more than rereading or p
 - [Voluntary classroom uptake of teacher-assigned AI discussions was high on average (85.0% classroom participation) but heterogeneous across teachers and discussions](../claims/high-but-heterogeneous-voluntary-ai-discussion-uptake.md) [~W]
 - [The dominant qualitative criticism of AI-generated educational IF is the artificial in-fiction motivation for quiz prompts](../claims/artificial-in-fiction-quiz-motivation-dominant-criticism.md) [-W]
 
+## The evidence by question
+- *In real courses, do quizzes raise achievement, and when, how often and with what questions should they be given?* [Classroom testing (quizzing) significantly boosts student academic achievement to a medium extent (g = 0.499).](../claims/classroom-quizzing-medium-effect-achievement.md) [+M]
+- *Will learners choose to retrieve on their own, and can they be taught to?* [Learners underuse effective learning strategies such as spacing and retrieval practice](../claims/learners-underuse-effective-learning-strategies.md) [~M]
+
 ## Related Elements
 - [Formative Assessment](formative-assessment.md) — the feedback function these activities serve; without feedback they are practice without correction
 - [Self-Testing](self-testing.md) — the individual, self-directed form of the quiz component

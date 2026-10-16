@@ -45,6 +45,10 @@ The survey reviews deep learning KT in four sub-categories: deep knowledge traci
 - Deep Knowledge Tracing substantially outperforms Bayesian Knowledge Tracing on knowledge tracing benchmarks [+W] — attached 2026-10-14 from Chris Piech et al. (2015), which proposed "Deep Knowledge Tracing: modeling latent student knowledge with recurrent neural networks"; tests this page's relationship.
 - DKT matches an oracle on simulated data without concept labels, while BKT degrades as hidden concepts increase [+W] — attached 2026-10-14 from Chris Piech et al. (2015), which proposed "Deep Knowledge Tracing: modeling latent student knowledge with recurrent neural networks"; tests this page's relationship.
 
+## The evidence by question
+
+- *How accurately does BKT predict a learner's next answers, compared with other knowledge-tracing models, and do its assumptions and fitted parameters hold up?* [The survey states that deep learning knowledge tracing models exhibit superior performance to Bayesian and logistic models but have significant room for improvement in interpretability.](../claims/deep-learning-knowledge-tracing-outperforms-but-lacks-interpretability.md) [~M]
+
 ## Related Theories
 
 - [Knowledge Tracing Model Taxonomy](knowledge-tracing-model-taxonomy.md)

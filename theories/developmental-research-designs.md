@@ -47,6 +47,9 @@ Research design is the strategy or blueprint for deciding how to collect and ana
 - [Perceived gains in creativity, independent thinking and motivation rise sharply among students with more than three years of GenAI experience, though the comparison is cross-sectional](../claims/genai-duration-related-cognitive-gains.md) [~W]
 - [Sensitivity analyses restricting to students assessed in all 15 terms reproduced the full-sample between-group comparisons](../claims/sensitivity-15-term-subsample-same-comparisons.md) [~W]
 
+## The evidence by question
+- *When a study follows learners over time and some drop out or stop being tested, can the results for those who remain be read as results for the whole group?* [Systematic attrition differences mean COVID-19 impacts on student achievement are likely underestimated in fall 2020 MAP Growth results](../claims/covid-achievement-impacts-likely-underestimated-attrition.md) [+M]
+
 ## Related Theories
 - [Research Design Taxonomy — Quantitative/Qualitative and Descriptive/Correlational/Experimental](research-design-taxonomy.md) — the general research-design taxonomy this specializes for studying change over time
 

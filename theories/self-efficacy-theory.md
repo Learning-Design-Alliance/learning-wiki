@@ -76,6 +76,11 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Agriculture teachers' self-efficacy is positively related to career persistence indicators such as career commitment and job satisfaction](../claims/self-efficacy-positive-career-persistence-agriculture-teachers.md) [+W]
 - Los estudiantes que mejoraron sus niveles de autoeficacia presentaron avances significativos y menor carga cognitiva extrínseca. [+W] — attached 2026-10-15 from Ramírez Ruiz (2018), which proposed "Teoría social cognitiva de la autoeficacia y la agencia humana (Bandura) como marco del andamiaje motivacional"; tests this page's relationship.
 
+## The evidence by question
+
+- *Does a learner's belief that they can succeed at a task predict whether they start and persist, and which goals and feedback raise it?* [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
+- *Which instruction raises learners' self-efficacy: close goals, feedback on progress, guided practice?* [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](../claims/proximal-goals-feedback-peer-models-build-learning-efficacy.md) [+M]
+
 ## Related Theories
 
 - [Social Learning Theory](social-learning-theory.md) — self-efficacy is Bandura's own theoretical extension, adding a cognitive, belief-based mediator to observational learning

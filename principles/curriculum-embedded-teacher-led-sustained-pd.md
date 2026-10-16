@@ -47,6 +47,11 @@ MISE's core guiding principles for professional development remained constant ac
 - [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](../claims/effective-pd-seven-features.md) [+W]
 - [Content-focused, job-embedded PD linked to student gains: 31 of 35 reviewed studies featured a specific content focus](../claims/pd-content-focus-prevalence.md) [+W]
 
+## The evidence by question
+
+- *Does professional development tied to the curriculum teachers teach, modelled by accomplished teachers and sustained with on-site support change teaching and students' results?* [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](../claims/effective-pd-seven-features.md) [+M]
+- *How much professional development, over how long, before teaching and student results change?* [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](../claims/fifty-hours-content-specific-pd.md) [+M]
+
 ## Related Principles
 - 
 
