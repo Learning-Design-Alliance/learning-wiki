@@ -55,6 +55,9 @@ Check ins make learner status visible early enough to act on, converting assumpt
 - [Attendees correctly identified AI-generated images in 82% of polling responses, and polling served as a scaffold for discussion rather than a measurement tool](../claims/polling-image-identification-82-percent.md) [~W]
 - [Students' self-assessments of social well-being and work habits provide valuable information about their development](../claims/student-self-assessments-valuable-development-information.md) [+W]
 
+## The evidence by question
+- *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S]
+
 ## Related Elements
 - [Assessment](assessment.md) — check ins are ungraded, low-stakes cousins of assessment; both gather evidence of learner state
 - [Coaching](coaching.md) — one-on-one check ins are the entry point of a coaching cycle

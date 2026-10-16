@@ -77,6 +77,11 @@ The articles disagree about how far interaction explains acquisition. Ellis foun
 - [Conversational interaction facilitates second language grammatical development in adult ESL learners](../claims/interaction-facilitates-l2-grammatical-development.md) [+W] — attached 2026-10-14 from Alison Mackey (1999), which proposed "Long's (1996) updated interactionist hypothesis: implicit negative feedback obtained through negotiated interaction facilitates SLA"; tests this page's relationship.
 - [Negotiated interaction yields higher moment-to-moment comprehension of L2 input than either noninteraction condition, which do not differ from each other](../claims/negotiated-interaction-highest-momentary-comprehension.md) [+W] — attached 2026-10-15 from Lester Loschky (1994), which proposed "Input hypothesis and its interactionist modification as competing accounts of the comprehension-acquisition relationship"; tests this page's relationship.
 
+## The evidence by question
+- *Does negotiated interaction help learners acquire the second language, beyond helping them understand the input at the moment?* [Conversational interaction facilitates second language grammatical development in adult ESL learners](../claims/interaction-facilitates-l2-grammatical-development.md) [+M]
+- *Does corrective feedback on second-language errors improve accuracy, and which form of correction (recast, prompt, metalinguistic clue, explicit correction with or without a rule) works for which target and learner?* [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](../claims/corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) [+S]
+- *In meaning-focused second-language tasks done through text chat and other computer-mediated modes, which task and mode features produce negotiation of meaning and corrective feedback?* [Completing meaning-focused tasks through CMC fosters negotiated interactions in all three modes (discussion board, text chat, videoconferencing)](../claims/cmc-meaning-focused-tasks-foster-negotiated-interactions.md) [+M]
+
 ## Related Theories
 
 - [Ellis's revised interaction hypothesis: noticing, comparison, and integration as the basic acquisitional procedures](noticing-comparison-integration-revised-hypothesis.md) — Ellis's revision of this hypothesis
