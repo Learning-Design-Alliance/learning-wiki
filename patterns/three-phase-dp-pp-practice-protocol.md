@@ -44,6 +44,11 @@ The framework organizes practice into three phases, summarized in Table 1 as cri
 - [Quality out-of-class language learning combines focus on meaning and form and correlates with higher grades](../claims/quality-ocll-meaning-form-synergy-higher-grades.md) [+W]
 - [Structured repetition gains in fluency depend on repeating the same task](../claims/structured-repetition-fluency-task-specific.md) [+W]
 
+## The evidence by question
+
+- *How much of performance does accumulated deliberate practice account for, and in which domains?* [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](../claims/deliberate-practice-improves-performance.md) [+M]
+- *Does second-language practice carry over to skills and tasks other than the one practised?* [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](../claims/skill-specificity-l2-grammar-practice.md) [+M]
+
 ## Related Patterns
 - 
 

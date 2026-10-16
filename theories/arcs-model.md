@@ -62,6 +62,10 @@ ARCS is explicitly integrative: Keller built it by synthesizing constructs from 
 - [Participants identified assessment redesign approaches for helping all students feel successful, centering relevance, lowered stakes, choice, emotional support, and preparation](../claims/assessment-redesign-insights-tlc-convening.md) [+W]
 - [The ten-construct instrument showed strong psychometric quality, with the four ARCS dimensions forming a psychometrically sound higher-order motivation construct](../claims/utaut3-arcs-instrument-psychometric-validity.md) [+W]
 
+## The evidence by question
+
+- *Does motivation as ARCS defines it (attention, relevance, confidence, satisfaction) go with learners' effort and use, and do design choices raise it?* [Instruction should present the learning task as engaging and meaningful and promote positive expectations of success, because effort requires that learners value the task and believe they can succeed](../claims/effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) [+W]
+
 ## Related Theories
 
 - [Expectancy-Value Theory](expectancy-value-theory.md) — ARCS's Relevance and Confidence categories are a direct practitioner-facing operationalization of task value and expectancy for success

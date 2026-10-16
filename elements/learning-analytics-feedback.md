@@ -76,6 +76,12 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [Random-forest models trained on a prior semester showed significantly lower AUC when tested on a new semester's data without retraining](../claims/cross-semester-auc-decline-without-retraining.md) [-W]
 - [The approach offers a large real-time intervention window, with a median of 176.2-196.1 hours between the prediction point and the final problem deadline](../claims/large-prediction-window-real-time-intervention.md) [+W]
 
+## The evidence by question
+
+- *Does flagging at-risk learners from their data and intervening on the flag improve grades, retention or completion?* [AI-powered predictive analytics improves academic performance by enabling early identification of at-risk students and timely intervention](../claims/ai-predictive-analytics-improves-academic-performance.md) [+M]
+- *Can models built from attendance, grades and interaction data tell which learners are at risk, early enough to act, and do they hold up in a new term or institution?* [Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out](../claims/abc-early-warning-indicators-predict-dropout.md) [+M]
+- *Are at-risk predictions equally accurate for every student group, and do fairness fixes close the gap?* [Both prior performance flags and the machine learning algorithm are less accurate when predicting outcomes for students who are Black](../claims/ews-and-algorithm-less-accurate-black-students.md) [~M]
+
 ## Related Elements
 
 - [Feedback](feedback.md)

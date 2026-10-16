@@ -80,6 +80,12 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Openness and need for relatedness are associated with teachers' AI use indirectly through pedagogical AI competence, with relatedness negatively associated with competence](../claims/openness-relatedness-indirect-via-competence.md) [~W]
 - [Autonomy-supportive training programs are overall effective, with a weighted effect size of 0.63 across 19 studies](../claims/autonomy-support-training-effective-d63.md) [+W] — attached 2026-10-15 from Su et al. (2011), which proposed "Autonomy-supportive training programs as a class of interventions grounded in self-determination theory".
 
+## The evidence by question
+
+- *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+S]
+- *Do learners whose needs for autonomy, competence and relatedness are met engage, persist and perform better, and which need matters most?* [Basic psychological need satisfaction is strongly associated with learning engagement among medical undergraduates](../claims/need-satisfaction-strongly-associated-learning-engagement.md) [+M]
+- *Do rewards and praise undermine voluntary engagement?* [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](../claims/rewards-undermine-intrinsic-motivation.md) [+S]
+
 ## Related Theories
 
 - [Self-Regulated Learning](self-regulated-learning.md) — SDT helps explain why learners may or may not take up the self-regulatory behaviors SRL describes

@@ -49,6 +49,10 @@ Iterative learning is the element in which learners improve through repeated cyc
 - [Most models struggle to engage with a student's prior debugging attempts even when the iteration history is provided](../claims/models-struggle-acknowledging-debugging-progression.md) [-W]
 - [AI-supported design iteration consists of generation, selection, evaluation, and revision rather than one-off generation](../claims/ai-iteration-generation-selection-evaluation-revision.md) [+W]
 
+## The evidence by question
+
+- *Does working through cycles of attempt, feedback and revision improve the quality of learners' work?* [Students' argumentative essay quality improves substantially from initial to revised drafts regardless of feedback source](../claims/essay-quality-improves-from-initial-to-revised.md) [+M]
+
 ## Related Elements
 - [Revision](revision.md)
 - [Feedback](feedback.md)

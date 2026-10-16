@@ -49,6 +49,12 @@ Journaling is the element in which learners record reflections, observations, qu
 - [Educators struggled to reliably differentiate student-written from GenAI-generated reflections](../claims/educators-cannot-reliably-detect-genai-reflections.md) [-W]
 - [Minority of undergraduate health science students reported using GenAI for reflective writing, mostly to support rather than replace reflection](../claims/minority-health-students-genai-reflective-writing.md) [~W]
 
+## The evidence by question
+
+- *Does keeping a reflective journal or doing regular written reflection improve learning over instruction without it?* [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [+M]
+- *Do task-specific reflection prompts produce better learning or reflection than an open invitation to write?* [Reflective Practice Improves Outcomes When Structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+S]
+- *Does an AI journaling assistant help learners keep a journal, and should it ask questions rather than write for them?* [Question-driven AI journaling increases intrinsic motivation and acting confidence among actors](../claims/question-driven-ai-journaling-raises-motivation-confidence.md) [+M]
+
 ## Related Elements
 - [Individual Reflection](individual-reflection.md)
 - [Self-Assessment](self-assessment.md)

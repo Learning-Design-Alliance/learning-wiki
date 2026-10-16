@@ -54,6 +54,11 @@ Imagery-based encoding improves recall and comprehension because information sto
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Concreteness fading enables learners to build a store of memorable images usable when abstract symbols lose meaning](../claims/fading-builds-memorable-images.md) [+W]
 
+## The evidence by question
+
+- *Does having learners form mental images of the material (imagery for text, the keyword mnemonic) improve learning, for whom, and how does it compare with other study techniques?* [Concreteness, imagery, and verbal associative processes play major roles across multiple educational domains](../claims/concreteness-imagery-associative-roles-educational-domains.md) [+M]
+- *Does pairing the words with a relevant visual of the same idea improve learning over the words alone, and for whom?* [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](../claims/dual-coding-improves-learning.md) [+S]
+
 ## Related Elements
 
 - [Analogies](analogies.md) — a verbal counterpart to imagery; both map new content onto a familiar structure

@@ -56,6 +56,11 @@ Cognitive conflict supports learning by making naive or partial conceptions visi
 - [Both constructive-conflict conditions produced substantially more idea editing between design iterations than unsupported self-reflection](../claims/constructive-conflict-increases-idea-editing.md) [+M]
 - [Conflict with a machine-learning decision support system's output induces deeper reflection than confirmation](../claims/conflict-seed-induces-deeper-reflection.md) [+W]
 
+## The evidence by question
+
+- *Does conflict-based instruction improve conceptual learning more than standard exposition?* [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+S]
+- *When does a conflict fail to change the learner's model?* [Peer conflicts did not always produce conceptual change; they appeared to work only for students prepared to reflect on and reconstruct their conceptions](../claims/peer-conflicts-conditional-on-reflection.md) [~M]
+
 ## Related Elements
 - [Discrepant Events](discrepant-events.md) — the demonstration-based form: an observed outcome that violates prediction
 - [Debate](debate.md) — a social structure for sustained cognitive conflict between positions

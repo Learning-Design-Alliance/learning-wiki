@@ -69,6 +69,11 @@ Strategy instruction improves learning most when strategies are taught explicitl
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Students given retrieval practice instructions spontaneously used a repeated retrieval strategy on new materials one week later without further instructions](../claims/spontaneous-strategy-transfer-one-week-delay.md) [+W]
 
+## The evidence by question
+
+- *Does explicitly teaching learners cognitive and self-regulatory strategies (elaboration, organisation, monitoring) improve their achievement, and what kind of training works best?* [Strategy Instruction Improves Academic Performance](../claims/strategy-instruction-improves-academic-performance.md) [+S]
+- *When learners choose their own study strategies, do they choose the ones that work?* [Learners underuse effective learning strategies such as spacing and retrieval practice](../claims/learners-underuse-effective-learning-strategies.md) [+M]
+
 ## Related Elements
 - [Think-Aloud](think-aloud.md) — the primary method for making strategies visible during instruction
 - [Advance Organizers](advance-organizers.md) — organizational support delivered before content
