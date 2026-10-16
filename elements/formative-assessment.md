@@ -56,6 +56,11 @@ Formative assessment closes the gap between current and desired performance by m
 - [Students want ongoing targeted formative feedback, but faculty time constraints and large class sizes limit providing it](../claims/formative-feedback-constraints-gateway-math.md) [~W]
 - [Teacher and student feedback indicates LLM-based formative assessment can reduce grading burden, surface misconceptions, and build student trust without replacing teacher judgment](../claims/stakeholder-feedback-llm-formative-assessment.md) [+W]
 
+## The evidence by question
+- *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S]
+- *What should the feedback after a check say, and who or what should give it?* [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](../claims/feedback-improves-learning.md) [+S]
+- *What stops formative assessment working in practice: stakes, grading, time and class size?* [Effective implementation of formative assessment is hindered by its complexity, summative-assessment pressure, and teachers' negative early experiences](../claims/formative-assessment-implementation-barriers.md) [~M]
+
 ## Related Elements
 - [Quizzes](quizzes.md) — the most common low-stakes instrument; frequent quizzing doubles as retrieval practice
 - [Self-Assessment](self-assessment.md) — shifts evaluative judgment to the learner, a long-term goal of formative practice

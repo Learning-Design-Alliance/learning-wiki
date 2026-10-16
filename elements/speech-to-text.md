@@ -80,6 +80,11 @@ Speech-to-text is most useful when transcription effort, not idea generation, is
 - [ASR recognition accuracy enhances learning motivation but does not significantly predict reflective behavior](../claims/asr-accuracy-motivation-not-reflection.md) [~M]
 - [Successful transcriptions of videos using Dirac notation, eigenstate derivations, and vector calculus indicate generalized capability beyond introductory physics](../claims/transcription-capability-beyond-introductory-physics.md) [~W]
 
+## The evidence by question
+
+- *Is speech recognition accurate enough for learners to rely on, including non-native, accented and low-proficiency speakers?* [Educators report ASR features can be inaccurate for learners' diverse accents, dialects, and speech patterns](../claims/asr-inaccuracy-diverse-accents.md) [-M]
+- *Does dictating help learners get text written, compared with typing it?* [Adult ESL learners report above-neutral perceptions of ASR as a writing tool on usefulness, ease of use, and intention to use](../claims/esl-learners-positive-perceptions-asr-writing.md) [+M]
+
 ## Related Principles
 - [Process-Based Writing](../principles/process-based-writing.md) — speech-to-text is often most useful in drafting and revision cycles.
 - [Instructor Accessibility](../principles/instructor-accessibility.md) — providing multiple pathways for expression is part of accessible teaching.

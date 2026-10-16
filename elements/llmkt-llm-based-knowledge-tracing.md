@@ -49,6 +49,9 @@ LLMKT is the article's knowledge tracing method: "a novel LLM-based KT method, L
 - [LLMKT's predicted knowledge change curves on CoMTA are mixed across the 15 most frequent KCs, though overall they mostly resemble the power law of practice when dialogues have sufficient turns.](../claims/llmkt-knowledge-change-curves-show-mixed-trends-resembling-power-law-of-practice.md) [+W]
 - [In the fine-tuning experiments, increasing base model size up to 32B parameters improved performance, and larger LLMs consistently outperformed smaller MLMs](../claims/model-size-and-llm-vs-mlm-performance-vocabulary-difficulty.md) [~W]
 
+## The evidence by question
+- *Can an LLM-based knowledge tracing model estimate what a student knows from a tutoring dialogue more accurately than standard knowledge tracing, and how accurate is it in absolute terms?* [LLMKT outperforms existing knowledge tracing methods at predicting student turn correctness in the CoMTA and MathDial tutoring dialogue datasets, and generally outperforms DKT-Sem.](../claims/llmkt-outperforms-existing-kt-methods-on-tutoring-dialogues.md) [+W]
+
 ## Related Elements
 - [Adaptive Learning](adaptive-learning.md)
 

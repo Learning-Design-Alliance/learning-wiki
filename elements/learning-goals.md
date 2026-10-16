@@ -62,6 +62,12 @@ Well-specified goals improve achievement by directing learner attention to what 
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Developing a common understanding of expected learning helps all students succeed, not only those with school-aligned prior knowledge](../claims/shared-understanding-expected-learning-helps-all-students.md) [+W]
 
+## The evidence by question
+
+- *Does a specific, challenging goal raise performance over no goal or a vague 'do your best'?* [Goal setting improves performance](../claims/goal-setting-improves-performance.md) [+S]
+- *For a learner new to the task, should the goal name the process or the result, and how near should it be?* [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+S]
+- *Does making the intended learning explicit to learners help them, and do learners register when it is missing?* [Developing a common understanding of expected learning helps all students succeed, not only those with school-aligned prior knowledge](../claims/shared-understanding-expected-learning-helps-all-students.md) [+W]
+
 ## Related Elements
 
 - [Assessment](assessment.md) — the instrument that verifies whether goals were met; misalignment here invalidates the goal structure

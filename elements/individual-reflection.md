@@ -57,6 +57,10 @@ Reflection works because it forces self-explanation: articulating one's reasonin
 - [Graduate seminars with hands-on generative AI use and reflection increased students' comfort with AI and ability to critically assess AI outputs](../claims/hands-on-genai-seminars-raise-critical-assessment.md) [+W]
 - [Minority of undergraduate health science students reported using GenAI for reflective writing, mostly to support rather than replace reflection](../claims/minority-health-students-genai-reflective-writing.md) [~W]
 
+## The evidence by question
+- *Does reflecting on a performance improve later learning over no reflection or ordinary instruction?* [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [+M]
+- *Do specific, guided prompts produce better reflection and learning than generic or free reflection?* [Reflective Practice Improves Outcomes When Structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+S]
+
 ## Related Elements
 - [Journaling](journaling.md) — the most common vehicle for individual reflection; sustained written reflection over time
 - [Self-Assessment](self-assessment.md) — reflection directed at evaluating one's own work against criteria

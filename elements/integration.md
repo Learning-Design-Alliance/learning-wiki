@@ -57,6 +57,10 @@ Integration activities convert learning from an isolated instructional event int
 - [Generative learning involves mentally reorganizing and integrating to-be-learned information with prior knowledge, enabling application to new situations](../claims/generative-learning-reorganizing-integrating-prior-knowledge.md) [+W]
 - [Educators rarely facilitated connections between playlist activities or to students' lives; introductions and debriefings focused on logistics rather than science content](../claims/educators-rarely-facilitated-connections-between-playlists.md) [-W]
 
+## The evidence by question
+- *Do specific, guided prompts produce better reflection and learning than generic or free reflection?* [Reflective Practice Improves Outcomes When Structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+S]
+- *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]
+
 ## Related Elements
 - [Reflection Activities](reflection-activities.md) — the primary vehicle for integration; structured prompts turn experience into learning
 - [Case-Based Learning](case-based-learning.md) — cases give learners concrete situations to connect new knowledge to

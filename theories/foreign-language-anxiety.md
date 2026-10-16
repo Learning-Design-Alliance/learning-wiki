@@ -49,6 +49,10 @@ Most researchers, as Zhao et al. (2016) put it, agree that FLA "negatively influ
 - [L2 anxiety is negatively correlated with L2 achievement, with a mean correlation of r = −.36 across 216 effect sizes](../claims/l2-anxiety-negative-correlation-achievement-meta-analysis.md) [+M] — attached 2026-10-15 from Yasser Teimouri et al. (2019), which proposed "L2 anxiety as a negatively acting affective variable in L2 learning with (non)linguistic moderators"; tests this page's relationship.
 - [The anxiety–achievement correlation varies across educational levels, target languages, and anxiety types](../claims/anxiety-achievement-moderators-levels-languages-anxiety-types.md) [~M] — attached 2026-10-15 from Yasser Teimouri et al. (2019), which proposed "L2 anxiety as a negatively acting affective variable in L2 learning with (non)linguistic moderators".
 
+## The evidence by question
+- *Do learners who are more anxious about a foreign language achieve less in it, and for which kinds of anxiety, outcome and learner?* [L2 anxiety is negatively correlated with L2 achievement, with a mean correlation of r = −.36 across 216 effect sizes](../claims/l2-anxiety-negative-correlation-achievement-meta-analysis.md) [+M]
+- *Does private, low-pressure and repeated practice lower learners' anxiety about using a second language?* [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](../claims/ai-reduces-fl-anxiety-private-practice.md) [+M]
+
 ## Related Theories
 
 - [Social-psychological construct framework for Foreign Language Classroom Anxiety](social-psychological-constructs-flca-framework.md) — source-framed variant (Leichsenring, 2010)

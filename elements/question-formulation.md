@@ -57,6 +57,10 @@ Generating questions forces learners to surface gaps in their own understanding,
 - [Students rarely formulated questions specifying both knowledge component and scaffold type during chatbot problem-solving](../claims/students-rarely-ask-specific-questions.md) [~W]
 - [First-cycle underperformance was attributed to low-quality student-generated questions that failed to represent journal article patterns](../claims/question-quality-limited-first-cycle-outcomes.md) [~W]
 
+## The evidence by question
+- *Do annotations that make the reader generate questions, explanations or summaries improve comprehension?* [Self-questioning improves comprehension](../claims/self-questioning-improves-comprehension.md) [+S]
+- *Can learners write good questions of their own, and what support do they need to?* [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](../claims/peerwise-student-questions-75-percent-high-quality.md) [+M]
+
 ## Related Elements
 - [Socratic Questioning](socratic-questioning.md) — the instructor-led counterpart; Socratic sequences can model the question forms learners then generate themselves
 - [Research](research.md) — the typical downstream activity that learner-generated questions drive

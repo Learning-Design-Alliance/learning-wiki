@@ -55,6 +55,10 @@ Delivering information at the point of need reduces the burden of holding unappl
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - 
 
+## The evidence by question
+- *Do hints given on demand at the step where the learner is stuck improve learning over working without them?* [Learners receiving ChatGPT-generated hints showed statistically significant learning gains compared to a no-hint control in an online mathematics tutoring experiment](../claims/chatgpt-hints-significant-gains-versus-control.md) [+M]
+- *Do learners ask for on-demand help when they need it, and can that be taught?* [Effective AI help-seeking is itself a skill unevenly distributed among students, and access to an assistant is not equivalent to effective help-seeking](../claims/ai-help-seeking-is-a-skill.md) [~M]
+
 ## Related Elements
 - [Scaffolding](scaffolding.md) — just-in-time information is the informational form of scaffolding; both require fading
 - [Procedural Information](procedural-information.md) — the content type most suited to just-in-time delivery

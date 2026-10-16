@@ -59,6 +59,10 @@ Peer interaction supports learning when it requires learners to actively constru
 - [Conversational interaction facilitates second language grammatical development in adult ESL learners](../claims/interaction-facilitates-l2-grammatical-development.md) [+W] — attached 2026-10-14 from Alison Mackey (1999), which proposed "Task-based interaction treatment for ESL question formation development"; tests this page's relationship.
 - [Active participation in interaction matters for second language developmental outcomes](../claims/active-participation-in-interaction-drives-development.md) [~W] — attached 2026-10-14 from Alison Mackey (1999), which proposed "Task-based interaction treatment for ESL question formation development"; tests this page's relationship.
 
+## The evidence by question
+- *Does class time spent with learners talking, explaining and discussing, rather than listening, change what they think about and understand, and does more talk alone do it?* [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [+S]
+- *What makes joint work fail: the task, group size and composition, or how members take part?* [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](../claims/collaborative-situations-often-fail-productive.md) [~W]
+
 ## Related Elements
 - [Peer Teaching](peer-teaching.md) — the strongest form of peer interaction; explaining to a peer forces the elaboration that produces learning
 - [Group Work](group-work.md) — the task-structured container for peer interaction

@@ -57,6 +57,9 @@ Defining the product up front gives learners a clear performance goal and gives 
 - [Visual media assessments (posters, presentations) were not passable because ChatGPT could not produce complete slides or poster content](../claims/visual-media-assessments-not-passable-by-chatgpt.md) [~W]
 - [Participants report AI-generated database diagrams were less accurate than what students had previously produced, cautioning against assuming AI artifacts are better](../claims/ai-database-diagrams-less-accurate.md) [~W]
 
+## The evidence by question
+- *When generative AI helps make a learner's product, does the product's quality still show what the learner has learned and can do on their own?* [AI severs the correlation between artefact quality and cognitive engagement, breaking the artefact-as-proxy for learning](../claims/ai-breaks-artefact-as-proxy.md) [+W]
+
 ## Related Elements
 - [Assessment](assessment.md) — the product is the primary evidence assessment evaluates
 - [Practice](practice.md) — the supported activity that builds toward independent product creation

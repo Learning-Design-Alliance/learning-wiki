@@ -74,6 +74,12 @@ Other common item-writing mistakes cut across formats: unclear wording (leaving 
 - [Judging learning-objective alignment of generated MCQs is more subjective than answering them, with only moderate human agreement](../claims/lo-alignment-judgment-more-subjective-than-answering.md) [~M]
 - [MCQ accuracy was high (above 87%) across all conditions with no significant difference between diverse and generic explanations](../claims/mcq-accuracy-no-significant-condition-difference.md) [~W]
 
+## The evidence by question
+- *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]
+- *Can taking a multiple-choice test teach learners the wrong answers it shows them, and does feedback prevent that?* [Taking initial multiple-choice tests without feedback can lead students to later produce the incorrect lure answers they selected, even when an overall retrieval practice benefit occurs](../claims/multiple-choice-lures-can-be-learned-as-false-knowledge.md) [~M]
+- *Can selected-response items measure higher-order skills and specific domains, or mainly overall recognition-level knowledge?* [Multiple-choice state tests are prone to ceiling and floor effects and do not measure higher-order skills well](../claims/multiple-choice-state-tests-limits-high-low-performers.md) [+M]
+- *Can a language model write usable multiple-choice items and distractors, or do its drafts need human review?* [AI-generated assessment items frequently need faculty correction, supporting AI as a draft generator within quality assurance](../claims/genai-assessment-items-draft-generator-quality-assurance.md) [+M]
+
 ## Related Elements
 
 - [Constructed-Response Assessment Items](constructed-response-assessment-items.md) — the complementary item family for goals selected-response can't reach

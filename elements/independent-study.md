@@ -55,6 +55,11 @@ Independent study builds self-regulatory capacity and can be efficient for well-
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Faculty and student workshops diverged on pedagogical structure for project-based learning: instructor-driven formats versus student autonomy](../claims/divergence-structure-versus-autonomy-in-projects.md) [~W]
 
+## The evidence by question
+- *Should novices be left to discover the target content without support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [-S]
+- *Does handing control to learners (pace, feedback, sequence) improve learning, and when?* [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](../claims/learner-paced-beats-system-paced-complex-material.md) [~M]
+- *Does independent practice outside class (homework) raise achievement, and what makes it work?* [Timely feedback on homework increases learning, and computer platforms providing immediate feedback help teachers adapt](../claims/timely-feedback-improves-homework-learning.md) [+M]
+
 ## Related Elements
 - [Check-In](check-in.md) — the checkpoint that keeps independent work from drifting off course
 - [Coaching](coaching.md) — the instructor role during independent work: observing, questioning, and prompting rather than telling

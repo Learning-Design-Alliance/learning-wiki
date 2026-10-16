@@ -61,6 +61,10 @@ The survey describes Bayesian Knowledge Tracing (BKT), introduced by Corbett and
 - [Individualizing the initial knowledge parameter reliably improves prediction of real-world data](../claims/individualizing-initial-knowledge-improves-prediction.md) [+W] — attached 2026-10-14 from Pardos et al. (2010), which proposed "Individualized Bayesian knowledge tracing framework".
 - [The exponential functional form of the BKT HMM calls into question the popular practice of fitting that model form to student data](../claims/bkt-hmm-exponential-form-questions-fitting-practice.md) [-W]
 
+## The evidence by question
+- *Does choosing practice or scaffolding by BKT's mastery estimate improve learning or reduce the practice needed, compared with fixed or random sequencing, and for whom?* [Adaptive scaffolding policies (BKT and DRL) significantly improve posttest performance over a non-adaptive control in a logic ITS](../claims/adaptive-icap-scaffolding-improves-posttest-logic-tutor.md) [+M]
+- *How accurately does BKT predict a learner's next answers, compared with other knowledge-tracing models, and do its assumptions and fitted parameters hold up?* [The survey states that deep learning knowledge tracing models exhibit superior performance to Bayesian and logistic models but have significant room for improvement in interpretability.](../claims/deep-learning-knowledge-tracing-outperforms-but-lacks-interpretability.md) [~M]
+
 ## Related Theories
 
 - [Knowledge Tracing Model Taxonomy](knowledge-tracing-model-taxonomy.md)

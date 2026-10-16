@@ -100,6 +100,13 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Self-monitoring intervention effects rest on four key components: selecting a target behavior, defining it, self-assessment, and self-recording](../claims/self-monitoring-four-key-components.md) [~W] — attached 2026-10-15 from Davis et al. (2016), which proposed "Self-monitoring intervention framework for students with ASD organized around student, intervention, and setting variables".
 - [SRL activity only partially mediates the effect of SRL interventions on achievement in higher education](../claims/srl-partial-mediation-achievement-higher-ed.md) [~W] — attached 2026-10-15 from Jansen et al. (2019), which proposed "Three-relations mediation framework linking SRL interventions, SRL activity, and achievement".
 
+## The evidence by question
+
+- *Does teaching and prompting self-regulation improve achievement over ordinary instruction?* [Self-regulated learning improves achievement](../claims/self-regulated-learning-improves-achievement.md) [+S]
+- *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]
+- *Does the forethought phase pay off: do specific goals and if-then plans improve performance, and which goals suit novices?* [Goal setting improves performance](../claims/goal-setting-improves-performance.md) [+S]
+- *What happens to regulation when learners have a generative AI assistant, and what counteracts offloading?* [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](../claims/genai-overreliance-harms-self-regulated-learning.md) [+M]
+
 ## Related Theories
 
 - [Self-Determination Theory](self-determination-theory.md) — motivation and autonomy shape whether learners engage in self-regulatory behaviors

@@ -56,6 +56,11 @@ Inquiry supports deep conceptual understanding and transfer when learners have e
 - [Meta-analysis of 37 inquiry-based instruction studies found an overall positive effect moderated by epistemic focus and teacher leadership](../claims/inquiry-based-teaching-improves-science-achievement.md) [~W]
 - [Inquiry-based learning strategies in laboratory courses are reported to significantly improve critical thinking skills](../claims/inquiry-based-lab-learning-improves-ct.md) [+W]
 
+## The evidence by question
+- *Does inquiry-based teaching raise science achievement over the usual instruction?* [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+S]
+- *Does adding guidance to inquiry improve what learners learn, and does the kind of guidance matter?* [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](../claims/guidance-improves-inquiry-learning-outcomes.md) [+M]
+- *Should novices be left to discover the target content without support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~M]
+
 ## Related Elements
 - [Inquiry-Based Exploration](inquiry-based-exploration.md) — the exploratory phase; inquiry and research adds systematic evidence gathering and evaluation
 - [Knowledge-Building](knowledge-building.md) — the collaborative construction of explanations that inquiry findings feed into

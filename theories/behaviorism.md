@@ -69,6 +69,10 @@ Behaviorism is criticized as overly deterministic and as denying free will; by t
 - [Behavioral skills training produced near-complete skill mastery of lockdown steps among young students, per studies the brief summarizes](../claims/behavioral-skills-training-mastery-lockdown-steps.md) [+W]
 - [In time-series field studies of behavior modification, all 17 quasi-d feedback effects were positive with a mean quasi-d of 1.69](../claims/fi-time-series-field-studies-all-positive.md) [+W]
 
+## The evidence by question
+- *Does reinforcing a target behaviour with rewards, praise or planned consequences raise learners' performance?* [Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children](../claims/contingency-reinforcement-raises-achievement.md) [+M]
+- *Do rewards and praise undermine voluntary engagement?* [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](../claims/rewards-undermine-intrinsic-motivation.md) [-M]
+
 ## Related Theories
 
 - [Cognitivism](cognitivism.md) — arose partly in reaction to behaviorism's neglect of internal cognitive processes

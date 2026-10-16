@@ -68,6 +68,10 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 - [Middle school teachers envisioned AI chatbots as adaptive instructional scaffolds providing differentiated support responsive to students' varying needs](../claims/teachers-envision-chatbots-adaptive-scaffolds-differentiated-support.md) [+W]
 - [Adaptive courseware in a corequisite statistics course was associated with improved course outcomes, particularly for Pell-eligible and corequisite students, but effects are confounded with instructor practices](../claims/wileyplus-adaptive-courseware-statistics-outcomes.md) [~W]
 
+## The evidence by question
+- *Does adaptive instruction raise achievement over non-individualised instruction or the same content in a fixed sequence?* [Intelligent tutoring systems improve achievement over non-individualised instruction](../claims/adaptive-learning-improves-outcomes.md) [+S]
+- *Does adapting to the learner raise engagement and motivation, and when does it backfire?* [Included studies suggest engagement increases when adaptive platform activities are tailored to learners' personal needs and emotional state](../claims/adaptivity-emotional-tailoring-increases-engagement.md) [+M]
+
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)
 - [Adaptive Mastery Learning](adaptive-mastery-learning.md)

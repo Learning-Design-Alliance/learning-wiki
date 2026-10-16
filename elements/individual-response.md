@@ -53,6 +53,11 @@ Requiring an independent answer before discussion converts passive listening int
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [The regulated 'think first, ChatGPT later' group outperformed both other groups in independent originality on the unassisted task despite no assisted-task advantage](../claims/regulated-ai-outperforms-independent-originality.md) [+W]
 
+## The evidence by question
+
+- *How much comes from answering the question at all, before any discussion?* [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](../claims/classroom-quizzing-improves-exam-performance-across-grades-and-content.md) [+M]
+- *Does discussing a committed answer with peers improve a later individual answer on a new question?* [Peer Discussion Improves Conceptual Understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M]
+
 ## Related Elements
 - [Peer Instruction](peer-instruction.md) — individual response is the mandatory first phase; without it, peer discussion degenerates into answer-sharing
 - [Retrieval Practice](retrieval-practice.md) — the cognitive mechanism the individual response enacts

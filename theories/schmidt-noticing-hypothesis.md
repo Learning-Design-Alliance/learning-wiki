@@ -53,6 +53,11 @@ The articles also mark the hypothesis's weak points. Barnawi (eric-ej930155) not
 - [A 1999 conference paper reports, citing White (1991) and Schwartz and Gubala-Ryzak (1992), that explicit negative evidence on English adverb placement produced only superficial change in French learners](../claims/white-adverb-placement-negative-evidence-failed.md) [-M]
 - [Children's drawings suggested they noticed the robot's embedded integration elements and shifted attention from the robot to peer communication](../claims/children-drawings-notice-integration-elements.md) [+W]
 
+## The evidence by question
+- *In second-language grammar, does explicit instruction about a form help more than leaving it to implicit exposure?* [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](../claims/explicit-l2-grammar-instruction-superior-to-implicit.md) [+S]
+- *Does corrective feedback on second-language errors improve accuracy, and which form of correction (recast, prompt, metalinguistic clue, explicit correction with or without a rule) works for which target and learner?* [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](../claims/corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) [+S]
+- *Does writing in the second language make learners notice gaps in their own language, which gaps do they notice, and does comparing with a model help them close them?* [Review-reported experiment found output performed noticing and hypothesis-testing functions but no apparent metalinguistic function in L2 writing](../claims/zhao-ping-output-functions-writing-experiment.md) [+W]
+
 ## Related Theories
 
 - [Ellis's revised interaction hypothesis: noticing, comparison, and integration as the basic acquisitional procedures](noticing-comparison-integration-revised-hypothesis.md)

@@ -106,6 +106,12 @@ The CCSR framework holds that five in-school supports are all essential for impr
 - [Fewer than 10 percent of elementary schools with a sustained weakness in one essential support showed improvements in student outcomes (attributed to Bryk et al., 2010)](../claims/sustained-weakness-one-support-few-improve.md) [+W]
 - [Teachers reporting higher leadership effectiveness and supports have lower predicted turnover (9.0% vs. 18.7% for low-leadership teachers)](../claims/school-leadership-associated-with-lower-turnover.md) [+W]
 
+## The evidence by question
+- *Are schools strong on several of the five essential supports more likely to improve student learning than schools weak on them?* [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+M]
+- *Does principal leadership raise student outcomes, and by what route?* [Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers](../claims/instructional-leadership-linked-student-outcomes.md) [+M]
+- *Is a school's learning climate associated with achievement and attendance beyond the students it serves?* [A more positive school climate is related to improved academic achievement beyond socioeconomic status](../claims/positive-school-climate-linked-achievement.md) [+M]
+- *Do community context and relational trust condition whether a school builds the supports and improves?* [Schools with strong essential supports were more likely to sit in communities with strong social capital, low crime, and low density of abused or neglected children](../claims/strong-supports-linked-community-social-capital-low-crime.md) [+M]
+
 ## Related Theories
 
 - [Five essential organizational supports for improving student learning](../products/5essentials.md)

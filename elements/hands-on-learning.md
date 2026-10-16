@@ -46,6 +46,10 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 - [Embodied hands-on practices remain important learning activities in AI-era design education](../claims/embodied-hands-on-remains-present.md) [+W]
 - [Teachers found Hero Elementary playlist hands-on activities easy to implement because materials were supplied and prepped.](../claims/hero-elementary-hands-on-activities-easy-implementation-prepped-materials.md) [+W]
 
+## The evidence by question
+- *Does a concrete stage help at all over abstract symbols alone?* [Manipulatives Improve Math Learning](../claims/manipulatives-improve-math-learning.md) [+M]
+- *Does the choice of physical materials for a hands-on task change what learners come to understand and who takes part?* [Material choice shapes conceptual learning and who feels invited to learn](../claims/material-choice-shapes-conceptual-learning-and-participation.md) [+M]
+
 ## Related Elements
 - [Application](application.md)
 - [Simulations](simulation.md)

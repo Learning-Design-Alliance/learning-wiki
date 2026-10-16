@@ -57,6 +57,11 @@ Open-ended discussion supports learning by requiring learners to articulate, def
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Voice modality roughly doubled dialogue turns and question-asking on equal engaged time within the same students](../claims/voice-doubles-turns-and-questions-equal-engaged-time.md) [+W]
 
+## The evidence by question
+
+- *Does class time spent with learners talking, explaining and discussing, rather than listening, change what they think about and understand, and does more talk alone do it?* [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [+S]
+- *Which discussion structures and facilitation make open discussion produce learning, rather than just more talk?* [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](../claims/structured-discussion-methods-improve-comprehension.md) [~S]
+
 ## Related Elements
 - [Class Discussion](class-discussion.md) — the broader element; open-ended discussion is its most learner-directed form
 - [Peer Discussion](peer-discussion.md) — the small-group variant that distributes participation before whole-group synthesis

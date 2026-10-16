@@ -64,6 +64,10 @@ Peer review is the element in which learners examine and respond to one another'
 - [A peer assessment-based game development approach promotes elementary students' learning achievement, learning motivation and problem-solving skills more than conventional game development](../claims/peer-assessment-game-development-improves-achievement-motivation-problem-solving.md) [~W] — attached 2026-10-15 from Hwang et al. (2014), which proposed "Peer assessment-based game development approach for elementary science".
 - [Peer Feedback Improves Writing](../claims/peer-feedback-improves-writing.md) [+M]
 
+## The evidence by question
+- *Should learners assess each other's work, and does it need a rubric or script?* [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]
+- *How accurately do learners judge work, and what does the accuracy of their judgments depend on?* [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](../claims/peer-feedback-accuracy-depends-on-expertise.md) [+M]
+
 ## Related Elements
 - [Feedback](feedback.md)
 - [Revision](revision.md)

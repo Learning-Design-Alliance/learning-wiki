@@ -64,6 +64,10 @@ Audience analysis improves learning primarily by aligning instruction with learn
 - [AI-generated diagnostic information is inherently incomplete, focusing on performance data and omitting contextual and motivational information](../claims/ai-diagnostic-information-incomplete-contextual-knowledge-needed.md) [+W]
 - [A review of four major CALL journals found 50% of articles targeting 'advanced' proficiency levels had learner populations of only B1 level](../claims/call-journals-advanced-claim-b1-populations.md) [~W]
 
+## The evidence by question
+
+- *For whom: does support that helps novices stop helping as task-specific expertise grows?* [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [+S]
+
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — the bridge built from what analysis reveals about prior knowledge to new content
 - [Analogies](analogies.md) — effective only when the source domain is genuinely familiar to the analyzed audience

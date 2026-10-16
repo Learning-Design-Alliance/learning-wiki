@@ -62,6 +62,12 @@ Reigeluth (2011) elaborates the roles that shift under this paradigm. **Teachers
 - [Sorting by ability affects grades and pass rates differently from test scores: high-skilled students' grades and pass rates decline while low-skilled students' grades improve](../claims/sorting-opposite-effects-grades-vs-test-scores.md) [~W]
 - [Four high-poverty case study schools sustained rising achievement for all subgroups for 5 to 10 years while pursuing personalization](../claims/four-equity-schools-rising-achievement-all-subgroups.md) [+W]
 
+## The evidence by question
+
+- *Does handing control to learners (pace, feedback, sequence) improve learning, and when?* [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](../claims/learner-paced-beats-system-paced-complex-material.md) [~S]
+- *Does adaptive instruction raise achievement over non-individualised instruction or the same content in a fixed sequence?* [Intelligent tutoring systems improve achievement over non-individualised instruction](../claims/adaptive-learning-improves-outcomes.md) [+S]
+- *Does sorting learners into classes or groups by ability help them, and which learners gain or lose?* [Between- or within-class homogeneous ability grouping has a small negative effect on low-ability primary students but no effect on other students](../claims/homogeneous-ability-grouping-negative-low-ability.md) [~M]
+
 ## Related Theories
 
 - [Competency-based education measures learning rather than class time, letting students progress at a flexible pace upon demonstrating mastery](competency-based-education-flexible-pace-mastery.md)
