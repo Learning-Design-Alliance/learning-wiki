@@ -1,0 +1,39 @@
+---
+type: claim
+title: The report attributes to Glaser et al. (1985) that skilled and less skilled avionics technicians generated plans equally often but differed in plan quality, with experts deploying domain-particularized strong methods
+description: The report attributes to Glaser et al.
+id: weak-methods-shared-strong-methods-expert-only
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+evidence_strength: weak
+sources:
+  - id: ellen-p-hall-1995
+    resource: "https://doi.org/10.21236/ada303654"
+    title: "Ellen P. Hall, Sherrie P. Gott, Robert A. Pokorny. (1995). A Procedural Guide to Cognitive Task Analysis: The PARI Methodology. Armstrong Laboratory, Human Resources Directorate, Brooks AFB, Texas. AL/HR-TR-1995-0108. https://doi.org/10.21236/ada303654"
+    author: Ellen P. Hall, Sherrie P. Gott, Robert A. Pokorny
+---
+
+# The report attributes to Glaser et al. (1985) that skilled and less skilled avionics technicians generated plans equally often but differed in plan quality, with experts deploying domain-particularized strong methods
+
+## Subclaims
+`q2 i?` Higher and lower skill subjects were equally planful in a verbal troubleshooting task; differences emerged only in the utility of plans, with less skilled subjects lacking domain-particularized strong methods. [→ Ellen P. Hall 1995](#ellen-p-hall-1995)
+
+## Evidence
+
+### Ellen P. Hall 1995
+
+Ellen P. Hall, Sherrie P. Gott, Robert A. Pokorny. (1995). A Procedural Guide to Cognitive Task Analysis: The PARI Methodology. Armstrong Laboratory, Human Resources Directorate, Brooks AFB, Texas. AL/HR-TR-1995-0108. https://doi.org/10.21236/ada303654
+
+`q2 · i?`
+
+The report attributes this to Glaser et al. (1985), who examined plan generation by skilled and less skilled avionics technicians in a verbal troubleshooting task and found the two groups "did not differ with respect to the frequency of plan generation." The report quotes that less skilled subjects "are way behind on stronger problem-solving methods, methods particularized to the specific technical domain." No effect sizes are printed.
+
+> "Both higher and lower skill subjects were planful. The differences arise only when the utility of the plan for solving the problem is considered."
+
+## Discussion
+
+
+## Related Claims
+-

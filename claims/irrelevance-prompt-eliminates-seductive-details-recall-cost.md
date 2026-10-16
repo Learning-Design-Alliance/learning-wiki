@@ -1,0 +1,54 @@
+---
+type: claim
+title: An irrelevance prompt eliminates the recall cost of seductive details, supporting the diversion explanation
+description: An irrelevance prompt eliminates the recall cost of seductive details, supporting the diversion explanation
+id: irrelevance-prompt-eliminates-seductive-details-recall-cost
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+evidence_strength: moderate
+sources:
+  - id: kienitz-2023
+    resource: "https://doi.org/10.1007/s11251-023-09632-w"
+    title: "Kienitz, A., Krebs, M.-C., & Eitel, A. (2023). Seductive details hamper learning even when they do not disrupt. Instructional Science. https://doi.org/10.1007/s11251-023-09632-w"
+    author: "Kienitz, A., Krebs, M.-C., & Eitel, A"
+  - id: kienitz-2023-2
+    resource: "https://doi.org/10.1007/s11251-023-09632-w"
+    title: "Kienitz, A., Krebs, M.-C., & Eitel, A. (2023). Seductive details hamper learning even when they do not disrupt. Instructional Science. https://doi.org/10.1007/s11251-023-09632-w"
+    author: "Kienitz, A., Krebs, M.-C., & Eitel, A"
+---
+
+# An irrelevance prompt eliminates the recall cost of seductive details, supporting the diversion explanation
+
+## Subclaims
+`q3 i2` Control and irrelevance-prompt participants outperformed no-prompt participants on recall, per the focal contrast. [→ Kienitz 2023](#kienitz-2023)
+`q3 i?` Perceived relevance and relative processing time on seductive details mediated the prompt's benefit for recall. [→ Kienitz 2023 (2)](#kienitz-2023-2)
+
+## Evidence
+
+### Kienitz 2023
+
+Kienitz, A., Krebs, M.-C., & Eitel, A. (2023). Seductive details hamper learning even when they do not disrupt. Instructional Science. https://doi.org/10.1007/s11251-023-09632-w
+
+`q3 · i2`
+
+Orthogonal contrast analysis (+1, +1, −2) in ANCOVA reached significance for recall, F(1,177) = 11.580, p = .001, ηp2 = 0.061, but not for transfer, F(1,168) = 0.907, p = .342. The residual contrast was not significant for either outcome.
+
+> "The focal contrast thus revealed that participants in the control condition and the irrelevance-prompt condition outperformed participants in the no-prompt condition regarding recall but not transfer."
+
+### Kienitz 2023 (2)
+
+Kienitz, A., Krebs, M.-C., & Eitel, A. (2023). Seductive details hamper learning even when they do not disrupt. Instructional Science. https://doi.org/10.1007/s11251-023-09632-w
+
+`q3 · i?`
+
+Two-step mediation (prompt → perceived relevance → relative processing time → recall) was significant for recall; a one-step mediation via perceived relevance also reached significance (b = -0.12, 95% BootCI [-0.26, -0.01]). The transfer mediation was not significant (b = -0.01, 95% BootCI [-0.03, +0.01]).
+
+> "For recall, this mediation model was significant (b = -0.04, 95% BootCI [-0.09, -0.01]), supporting the diversion hypothesis (see also Fig. 3)."
+
+## Discussion
+
+
+## Related Claims
+-

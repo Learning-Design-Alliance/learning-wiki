@@ -1,0 +1,39 @@
+---
+type: claim
+title: "More accurate assessment of self-explanation significantly improves the model's assessment of student learning through exploration"
+description: "More accurate assessment of self-explanation significantly improves the model's assessment of student learning through exploration"
+id: se-assessment-improves-exploration-assessment
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+evidence_strength: moderate
+sources:
+  - id: christina-merten-and-cristina-conati-2005
+    resource: "https://www.cs.ubc.ca"
+    title: "Christina Merten and Cristina Conati. (2005). Eye-Tracking to Model and Adapt to User Meta-cognition in Intelligent Learning Environments. https://www.cs.ubc.ca"
+    author: Christina Merten and Cristina Conati
+---
+
+# More accurate assessment of self-explanation significantly improves the model's assessment of student learning through exploration
+
+## Subclaims
+`q2 i?` Each successive model version (no self-explanation, time-only, time plus gaze shifts) increased accuracy of exploration-node assessment, with both ROC-area increases statistically significant at the z > 1.96 level. [→ Christina Merten and Cristina Conati 2005](#christina-merten-and-cristina-conati-2005)
+
+## Evidence
+
+### Christina Merten and Cristina Conati 2005
+
+Christina Merten and Cristina Conati. (2005). Eye-Tracking to Model and Adapt to User Meta-cognition in Intelligent Learning Environments. https://www.cs.ubc.ca
+
+`q2 · i?`
+
+Exploration-node accuracy was evaluated by comparing final exploration-of-categories probabilities against post-test scores on the corresponding concepts. Table 4 shows combined accuracy rising from 59.0% (model 1) to 71.0% (model 2) to 75.1% (model 3).
+
+> "the area under the curve increased with the inclusion of self-explanation to the student model. The addition of gaze shift data also caused an increase. Both of these increases were found to be statistically significant at the z > 1.96 level"
+
+## Discussion
+
+
+## Related Claims
+-

@@ -1,0 +1,39 @@
+---
+type: claim
+title: "Recording and listening to his own read-alouds helped the student read more accurately and comprehend more than following a teacher's read-aloud"
+description: "Recording and listening to his own read-alouds helped the student read more accurately and comprehend more than following a teacher's read-aloud"
+id: self-recorded-reading-playback-improved-accuracy-case
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+evidence_strength: weak
+sources:
+  - id: mcclanahan-2012
+    resource: "https://link.springer.com/journal/11528"
+    title: "McClanahan, B., Williams, K., Kennedy, E., & Tate, S. (2012). A Breakthrough for Josh: How Use of an iPad Facilitated Reading Improvement. TechTrends, 56(3). https://link.springer.com/journal/11528"
+    author: "McClanahan, B., Williams, K., Kennedy, E., & Tate, S"
+---
+
+# Recording and listening to his own read-alouds helped the student read more accurately and comprehend more than following a teacher's read-aloud
+
+## Subclaims
+`q1 i?` When the student recorded and listened to his own reading, he made significantly fewer mistakes and seemed to comprehend more than when following the teacher's reading. [→ McClanahan 2012](#mcclanahan-2012)
+
+## Evidence
+
+### McClanahan 2012
+
+McClanahan, B., Williams, K., Kennedy, E., & Tate, S. (2012). A Breakthrough for Josh: How Use of an iPad Facilitated Reading Improvement. TechTrends, 56(3). https://link.springer.com/journal/11528
+
+`q1 · i?`
+
+Tutor observation during the case-study sessions: after recording his reading of The Tortoise and the Hare on the iPad and playing it back, the student slowed down and made fewer mistakes. When the tutor read the same story from the iPad screen, he had more difficulty following along.
+
+> "By slowing down he made significantly fewer mistakes than in the first session, and seemed to comprehend more of the story. He listened to his reading of the story and followed along with his finger accurately."
+
+## Discussion
+
+
+## Related Claims
+-

@@ -1,0 +1,39 @@
+---
+type: claim
+title: Twenty participants aged 3 to 14 with varying disabilities all demonstrated literacy gains through shared story reading
+description: Twenty participants aged 3 to 14 with varying disabilities all demonstrated literacy gains through shared story reading
+id: twenty-participants-literacy-gains-shared-story-reading
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+evidence_strength: moderate
+sources:
+  - id: melissa-e-hudson-and-david-w-test-2011
+    resource: "http://www.education.uncc.edu/access/"
+    title: "Melissa E. Hudson and David W. Test. (2011). Evaluating the Evidence Base of Shared Story Reading to Promote Literacy for Students With Extensive Support Needs. Research & Practice for Persons with Severe Disabilities, 36(1-2), 34-45. http://www.education.uncc.edu/access/"
+    author: Melissa E. Hudson and David W. Test
+---
+
+# Twenty participants aged 3 to 14 with varying disabilities all demonstrated literacy gains through shared story reading
+
+## Subclaims
+`q2 i?` Across the six reviewed studies, 20 participants ranging in age from 3 to 14 years with varying disabilities all demonstrated gains in literacy through shared story reading. [→ Melissa E. Hudson and David W. Test 2011](#melissa-e-hudson-and-david-w-test-2011)
+
+## Evidence
+
+### Melissa E. Hudson and David W. Test 2011
+
+Melissa E. Hudson and David W. Test. (2011). Evaluating the Evidence Base of Shared Story Reading to Promote Literacy for Students With Extensive Support Needs. Research & Practice for Persons with Severe Disabilities, 36(1-2), 34-45. http://www.education.uncc.edu/access/
+
+`q2 · i?`
+
+Summary of participant outcomes across the six included single-subject studies, reported in the implications section of the review. The review reports "20 participants" aged "3 to 14 years" with varying disabilities, and that "all demonstrated gains in literacy through shared story reading."
+
+> "There were 20 participants involved in the studies reviewed that ranged in age from 3 to 14 years with varying disabilities (e.g., moderate, severe, profound intellectual disability, physical impairments, vi- sual impairments, and autism), yet all demonstrated gains in literacy through shared story reading."
+
+## Discussion
+
+
+## Related Claims
+-
