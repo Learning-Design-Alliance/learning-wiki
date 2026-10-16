@@ -43,7 +43,7 @@ Analysis of 2013 California State Test results in OUSD, a district where nearly 
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - A district equity study found a lack of clear and consistent focus on delivering high-quality instructional support to all students — related

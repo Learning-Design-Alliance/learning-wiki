@@ -74,7 +74,7 @@ Null moderator analyses within the meta-analysis: intervention duration and moti
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — moderator: an instructional effect differs with it
-- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 

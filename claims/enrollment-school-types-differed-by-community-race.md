@@ -43,7 +43,7 @@ Descriptive analysis in Chapter 1 (Table 4) of 2018–19 ninth-grade enrollment 
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [2018–19 CPS ninth-graders were residentially segregated by race/ethnicity: one racial/ethnic group comprised over 50 percent of ninth-graders in 65 of 77 community areas](ninth-graders-segregated-across-community-areas.md) — related

@@ -43,7 +43,7 @@ Observational comparison of 2006 ISAT scores disaggregated by race/ethnicity (Af
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - The eighth-grade reading gap between Chicago and rest-of-state African-American students disappears and reverses in Chicago's favor — a narrower finding that bears on this claim

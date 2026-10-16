@@ -43,7 +43,7 @@ The fact sheet asserts, with no cited study, data, or effect size, that "childre
 
 
 ## Learner Variables
-- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [Students from poor families lag behind more affluent peers in early elementary math performance](poor-families-lag-affluent-peers-early-math.md) — related

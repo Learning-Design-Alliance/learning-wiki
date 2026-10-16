@@ -43,7 +43,7 @@ Qualitative focus groups led by Teach Plus Policy Fellows with 88 teachers who i
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - Teacher-student racial and cultural match is associated with benefits for students of color and all P-12 students — related

@@ -43,7 +43,7 @@ Descriptive analysis in Chapter 1 using a school dispersion ratio measuring the 
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [Ninth-grade enrollment in school types differed by community-area racial/ethnic makeup: 22 of 30 majority-Black areas had at least 25 percent of ninth-graders in charter schools, and no majority-Latinx area had a quarter in selective enrollment](enrollment-school-types-differed-by-community-race.md) — related

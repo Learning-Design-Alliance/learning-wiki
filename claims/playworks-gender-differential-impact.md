@@ -42,7 +42,7 @@ Summary finding of the 29-school randomized evaluation, in which impacts were es
 ## Discussion
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 

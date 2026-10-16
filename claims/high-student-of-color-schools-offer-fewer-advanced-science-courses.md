@@ -43,7 +43,7 @@ Analysis of 2017-18 CRDC data on Chemistry and Physics offerings by school quint
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [U.S. high schools with high enrollments of students from low-income families are less likely to offer advanced mathematics courses than low-poverty schools](high-poverty-schools-offer-fewer-advanced-math-courses.md) — related

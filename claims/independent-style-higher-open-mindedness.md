@@ -43,7 +43,7 @@ Games Howell post hoc comparison from Table 4 (independent n=108, avoidant n=33,
 
 
 ## Learner Variables
-- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — predictor: learners who differ on it differ in outcomes
+- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — predictor: learners reporting different styles differed here; not a test of matching instruction to style
 
 ## Related Claims
 - [Collaborative-style preservice teachers score higher on continuous and intentional thinking than avoidant and dependent styles](collaborative-style-higher-continuous-thinking.md) — related

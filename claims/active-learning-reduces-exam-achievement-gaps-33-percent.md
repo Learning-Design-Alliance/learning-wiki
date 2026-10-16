@@ -42,7 +42,7 @@ Individual-participant-data meta-analysis of examination scores from 15 studies 
 ## Discussion
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 

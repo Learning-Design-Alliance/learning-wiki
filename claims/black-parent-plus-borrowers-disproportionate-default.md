@@ -43,7 +43,7 @@ The brief attributes this comparison to an Urban Institute report on reshaping P
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - As of May 2025, 5.3 million borrowers were in default and another 4 million were in severe delinquency — related

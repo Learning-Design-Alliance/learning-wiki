@@ -42,7 +42,7 @@ Randomized field experiment within the XPRIZE Digital Learning Challenge, conduc
 ## Discussion
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 

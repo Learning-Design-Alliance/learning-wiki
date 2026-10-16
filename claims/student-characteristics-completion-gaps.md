@@ -43,7 +43,7 @@ Disaggregated analysis of 2012–14 CPS immediate enrollees by GPA, ACT score, r
 
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - Across nearly all CPS high schools, six-year completion rates exceeded four-year rates, including at selective enrollment high schools where gaps reached 30 percentage points — related

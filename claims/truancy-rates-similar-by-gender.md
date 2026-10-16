@@ -43,7 +43,7 @@ Comparison of second-semester truancy rates by gender in the CPS ninth grade coh
 
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [Students who fail Algebra I show far more signs of ninth-grade disengagement, including higher absenteeism and suspension rates](algebra-failure-linked-to-ninth-grade-disengagement.md) — related

@@ -63,7 +63,7 @@ Case-study profile of Western Oregon University's Western Tuition Promise Progra
 
 
 ## Learner Variables
-- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 - Institutions serving similar students produce widely different Pell graduation rates, indicating outcomes are not fixed by entering-class characteristics — a broader claim this one bears on

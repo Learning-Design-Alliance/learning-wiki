@@ -80,7 +80,7 @@ Hillsborough RCT (Weiss et al., 2010; 1,071 students). The report states this "d
 ## Discussion
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 

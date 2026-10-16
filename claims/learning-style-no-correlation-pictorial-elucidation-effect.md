@@ -42,7 +42,7 @@ Pearson correlations using the validated Index of Learning Styles visual-verbal 
 ## Discussion
 
 ## Learner Variables
-- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — moderator: an instructional effect differs with it
+- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — moderator: an effect differed by reported style in this study; matching to style is not supported overall
 
 ## Related Claims
 

@@ -43,7 +43,7 @@ Trend analysis of CPS administrative data on in-school suspensions by race and g
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - Arrest rates for CPS students declined after 2009-10, with African American boys arrested at twice the district average rate — related

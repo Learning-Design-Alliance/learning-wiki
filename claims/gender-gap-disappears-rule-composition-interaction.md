@@ -43,7 +43,7 @@ Experimental data with many groups and "links between individuals' attitudes and
 
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 - [Deliberation produces a substantial gender gap in voice and authority](deliberation-substantial-gender-gap-voice-authority.md) — related

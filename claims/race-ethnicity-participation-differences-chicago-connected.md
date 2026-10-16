@@ -62,7 +62,7 @@ Multilevel model results (Table A.1). The appendix states the inclusion of the n
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [The full-day vs. half-day attendance gap was largest for Black students, at about 4-5 percentage points](black-students-largest-fullday-attendance-gap.md) — related

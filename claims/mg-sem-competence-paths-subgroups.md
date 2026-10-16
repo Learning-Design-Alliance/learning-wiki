@@ -41,7 +41,7 @@ Exploratory multi-group SEM by educational level (undergraduate vs graduate subg
 
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 - [The competence paradox: creative competence positively supports intention but shows a significant negative direct effect on actual use behavior](competence-paradox-cc-negative-ub.md) — a broader claim this one bears on

@@ -42,7 +42,7 @@ Confirmatory RQ2 subgroup analyses of the MCIS RCT: students divided into four G
 ## Discussion
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 

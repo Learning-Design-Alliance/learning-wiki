@@ -43,7 +43,7 @@ The report cites the late-2020 Common Sense Media and Boston Consulting Group do
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [Black Americans comprise only 8% of the 5.3 million tech occupation jobs in the U.S.](black-americans-8-percent-tech-occupation-jobs.md) — related

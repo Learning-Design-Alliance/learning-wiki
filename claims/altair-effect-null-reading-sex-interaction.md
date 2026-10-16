@@ -61,7 +61,7 @@ Likelihood-ratio test comparing Models 3 and 4 in the same nested mixed-effect a
 ## Discussion
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 

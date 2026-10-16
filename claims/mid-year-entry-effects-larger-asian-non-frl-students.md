@@ -43,7 +43,7 @@ The study explores the moderating influence of stable students' characteristics 
 
 
 ## Learner Variables
-- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 - [Mid-year entry effects on stable students are not driven by mid-year entrants' characteristics](mid-year-entry-effects-not-driven-by-entrant-characteristics.md) — related

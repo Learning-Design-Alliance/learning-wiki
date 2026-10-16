@@ -62,7 +62,7 @@ Moderation test reported in the results text for the same sample; the report pri
 
 
 ## Learner Variables
-- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 - [Improvements in learning conditions between October and February predict higher likelihood of a B or better in math the following term](condition-improvement-predicts-grade-improvement.md) — related

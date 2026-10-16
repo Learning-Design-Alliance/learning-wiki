@@ -61,7 +61,7 @@ The review reports that meta-analyses find benefits concentrated among "economic
 ## Discussion
 
 ## Learner Variables
-- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+- [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs by group
 - [Mindset](../learner-variables/mindset.md) — moderator: an instructional effect differs with it
 
 ## Related Claims

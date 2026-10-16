@@ -43,7 +43,7 @@ Predictive validation using teacher moves across schools or grades within Chicag
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 - [Experienced teachers and teachers with a master's degree are highly effective overall but much less effective for Black than non-Black students](experienced-masters-teachers-less-effective-black-students.md) — related

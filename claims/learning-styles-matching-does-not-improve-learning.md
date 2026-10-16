@@ -121,7 +121,7 @@ The review attributes this to Stahl (1999), a reading researcher, and notes Will
 **Open questions.** Some researchers argue that *preferences* are real and measurable even if matching them does not aid learning; whether preference data could serve motivational or metacognitive purposes remains underexplored. The core claim here — that matching yields no learning benefit — is not in dispute in the experimental literature.
 
 ## Learner Variables
-- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — moderator: an instructional effect differs with it
+- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — moderator: an effect differed by reported style in this study; matching to style is not supported overall
 
 ## Related Claims
 

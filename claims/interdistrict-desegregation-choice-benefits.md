@@ -43,7 +43,7 @@ The report's interdistrict choice section cites a recent review of metropolitan 
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — outcome: instruction changes it
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — outcome: instruction changes the gap
 
 ## Related Claims
 - [Interdistrict desegregation choice programs show achievement and graduation benefits for disadvantaged students, with stronger outcomes the longer students remain](interdistrict-desegregation-benefits.md) — possibly the same claim (merge candidate)

@@ -43,7 +43,7 @@ Pre-policy multilevel logistic regression results for full-day enrollment by dis
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [The number of pre-k classrooms near a student's home was positively related to enrollment, more strongly for full-day classrooms](classrooms-near-home-positive-enrollment-association.md) — related

@@ -81,7 +81,7 @@ The author's argument: a "systematic absence of knowledge about the speaker’s 
 
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [Teacher Identity Prejudice And Curriculum Can Enact Epistemic Injustice Toward Students](teacher-identity-prejudice-and-curriculum-can-enact-epistemic-injustice-toward-students.md)

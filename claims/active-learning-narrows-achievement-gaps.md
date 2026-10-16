@@ -76,7 +76,7 @@ Comparing introductory physics courses with varying levels of active-engagement 
 Both studies share a structure worth noting for design purposes: the achievement gap wasn't closed by disadvantaged/underrepresented students catching up on their own, but by a course-wide structural change (more structure, more active engagement) that helped everyone while helping the previously-lower-performing group more. This means the intervention did not require identifying or singling out at-risk students — a uniformly applied, well-structured active-learning redesign was sufficient to narrow the gap as a side effect of raising the whole course's instructional quality. This strengthens the case for [Active Learning](../principles/active-learning.md) beyond its general performance benefits (Freeman et al., 2014): in STEM gateway courses specifically, it functions as an equity intervention, not just an average-performance one.
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — a related body of evidence on why moving away from pure lecture format changes learning outcomes

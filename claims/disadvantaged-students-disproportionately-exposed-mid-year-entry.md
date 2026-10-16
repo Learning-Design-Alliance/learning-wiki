@@ -43,7 +43,7 @@ The article states as motivation that "poor, minority, and low-achieving student
 
 
 ## Learner Variables
-- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [Exposure to mid-year entrants has small negative short-run effects on stable students' math and ELA test scores in NYC](mid-year-entry-small-negative-short-run-effects-stable-students.md) — related

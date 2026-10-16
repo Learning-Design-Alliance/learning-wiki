@@ -61,7 +61,7 @@ PLS-MGA path difference tests (Table 12: H10 difference −0.21, p = .005; H12 d
 ## Discussion
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 

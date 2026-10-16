@@ -43,7 +43,7 @@ The comparative analysis of the updated longitudinal dataset reports that the tw
 
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
 - [Black students in engineering are more likely to transfer from other four-year institutions than from two-year institutions](black-engineering-students-transfer-more-from-four-year.md) — related

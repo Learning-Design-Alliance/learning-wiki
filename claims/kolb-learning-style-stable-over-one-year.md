@@ -44,7 +44,7 @@ The review reports Cahill and Madigan's pretest–posttest study in an occupatio
 
 
 ## Learner Variables
-- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — outcome: instruction changes it
+- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — outcome: instruction changes reported style
 
 ## Related Claims
 - [A four-quadrant FEA-supported experiential module was implemented across three heat transfer topics without formal assessment](elt-fea-module-implemented-three-topics-unassessed.md) — related

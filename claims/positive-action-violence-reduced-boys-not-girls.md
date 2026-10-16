@@ -42,7 +42,7 @@ In the randomized controlled trial of 20 Hawaii schools, grade 5 boys in Positiv
 ## Discussion
 
 ## Learner Variables
-- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 
