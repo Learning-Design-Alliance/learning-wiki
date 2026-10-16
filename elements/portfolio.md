@@ -20,7 +20,7 @@ A portfolio is a purposeful collection of learner work — artifacts, drafts, an
 
 ## Design Implications
 
-Portfolios support learning primarily by requiring learners to review, evaluate, and justify their own work, which promotes self-regulation and metacognitive monitoring [Self-regulated learning](../theories/self-regulated-learning.md) [+M]. Their assessment value depends on clear criteria: without explicit rubrics and defined purposes, portfolio evaluation becomes unreliable and the collection becomes an archive rather than an argument [Portfolio assessment shows weaker reliability than structured assessments when scoring criteria are vague.](../claims/feedback-most-effective-at-task-and-process-levels.md) [~M]. Reflection prompts attached to each artifact are what convert a folder of work into a learning event.
+Portfolios support learning primarily by requiring learners to review, evaluate, and justify their own work, which promotes self-regulation and metacognitive monitoring [Self-regulated learning](../theories/self-regulated-learning.md) [+M]. Their assessment value depends on clear criteria: without explicit rubrics and defined purposes, portfolio evaluation becomes unreliable and the collection becomes an archive rather than an argument. Reflection prompts attached to each artifact are what convert a folder of work into a learning event.
 
 ### Context
 #### Requirements

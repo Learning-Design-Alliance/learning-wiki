@@ -70,17 +70,6 @@ Two random-effects meta-analyses drew on 164 studies. The first pooled 580 compa
 
 Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? *Journal of Educational Psychology, 103*(1), 1–18. [doi:10.1037/a0021017](https://doi.org/10.1037/a0021017)
 
-`q4 · meta-analysis` · `i1 · small effect, d=0.38 favouring explicit instruction over unassisted discovery` · `n=164 studies` · `quant-synthesis · r?`
-
-Two random-effects meta-analyses drew on 164 studies. The first pooled 580 comparisons of unassisted discovery learning against explicit instruction, and outcomes favoured explicit instruction under most conditions (d = −0.38, negative meaning discovery did worse; the abstract prints the 95% CI as [–.44, .31], and the upper bound's missing minus sign is almost certainly a typesetting slip). The second pooled 360 comparisons of enhanced or assisted discovery against other instruction, and found that enhanced discovery came out ahead (d = 0.30, 95% CI [.23, .36]). Together these support the claim for *unguided* discovery. They also qualify it: guided forms of discovery ([feedback](../elements/feedback.md), [worked examples](../elements/demonstration.md), scaffolding, elicited explanations) were beneficial. The abstract does not break results down by learners' prior knowledge.
-- ->
--->
-
-<!-- merged 2026-10-15 from guided-discovery-outperforms-pure-discovery: that page's entry for this study, which differed from the one above, kept verbatim.
-### Alfieri et al. 2011
-
-Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? *Journal of Educational Psychology, 103*(1), 1–18. [doi:10.1037/a0021017](https://doi.org/10.1037/a0021017)
-
 `q4 · meta-analysis` · `i1 · small effect, d=0.38 favouring explicit instruction over unassisted discovery` · `n=164 studies` · `quant-synthesis · r2`
 
 Two random-effects meta-analyses drew on 164 studies. The first pooled 580 comparisons of unassisted discovery learning against explicit instruction, and outcomes favoured explicit instruction under most conditions (d = −0.38, negative meaning discovery did worse; the abstract prints the 95% CI as [–.44, .31], and the upper bound's missing minus sign is almost certainly a typesetting slip). The second pooled 360 comparisons of enhanced or assisted discovery against other instruction, and found that enhanced discovery came out ahead (d = 0.30, 95% CI [.23, .36]). Together these support the claim for *unguided* discovery. They also qualify it: guided forms of discovery ([feedback](../elements/feedback.md), [worked examples](../elements/demonstration.md), scaffolding, elicited explanations) were beneficial. The abstract does not break results down by learners' prior knowledge.
@@ -117,18 +106,6 @@ Klahr, D., & Nigam, M. (2004). The equivalence of learning paths in early scienc
 
 In this experiment, 112 third- and fourth-grade children, who were novices at the control-of-variables strategy for experimental design, learned it either by discovery or by [direct instruction](../patterns/direct-instruction.md). Many more children mastered the procedure under direct instruction. On a later transfer task that asked them to evaluate science-fair posters, children taught directly performed as well as the few who had discovered the method on their own. This challenges the assumption that self-discovered knowledge transfers better. The study compares direct instruction, the fully guided end of the continuum, with discovery; it does not test guided inquiry itself, so it bears on this claim as evidence that guidance beats unguided discovery, not that guided inquiry does.
 - ->
--->
-
-<!-- merged 2026-10-15 from guided-discovery-outperforms-pure-discovery: that page's entry for this study, which differed from the one above, kept verbatim.
-### Klahr & Nigam 2004
-
-Klahr, D., & Nigam, M. (2004). The equivalence of learning paths in early science instruction. *Psychological Science, 15*(10), 661–667. [doi:10.1111/j.0956-7976.2004.00737.x](https://doi.org/10.1111/j.0956-7976.2004.00737.x)
-
-`q3 · peer-reviewed experiment` · `i? · no effect size in the abstract read` · `n=112 children` · `causal · r?`
-
-In this experiment, 112 third- and fourth-grade children, who were novices at the control-of-variables strategy for experimental design, learned it either by discovery or by [direct instruction](../patterns/direct-instruction.md). Many more children mastered the procedure under direct instruction. On a later transfer task that asked them to evaluate science-fair posters, children taught directly performed as well as the few who had discovered the method on their own. This challenges the assumption that self-discovered knowledge transfers better.
-
-<!- - merged 2026-10-05 from guided-inquiry-outperforms-pure-discovery: that page's entry for this study, which differed from the one above and was dropped when the pages were merged; restored verbatim.
 -->
 
 ### Kirschner et al. 2006

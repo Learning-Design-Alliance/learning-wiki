@@ -63,11 +63,11 @@ Kayaalp, F., Meral, E., & Başcı Namlı, Z. (2022). An analysis of the effect o
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does writing about content during instruction improve learning of that content, compared with instruction without the writing?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (2 quant-synthesis, 1 causal, 1 review), `q1`–`q4`, 3 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does writing about content during instruction improve learning of that content, compared with instruction without the writing?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (2 quant-synthesis, 1 causal, 1 review), `q1`–`q4`, 2 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Bangert-Drowns Hurley Wilkinson 2004](https://doi.org/10.3102/00346543074001029) | q4 · quant-synthesis · r? | i1 | this claim |
+| [Bangert-Drowns Hurley Wilkinson 2004](https://doi.org/10.3102/00346543074001029) | q4 · quant-synthesis · r? | i? | this claim |
 | [Kayaalp et al. 2022](https://doi.org/10.17275/per.22.18.9.1) | q2 · causal · r1 | i2 · medium effect, d=0.61 | this claim |
 | [Graham et al. 2020](https://doi.org/10.3102/0034654320914744) | q3 · quant-synthesis · r? | i1 · small effect, effect size = 0.30 | [Writing-to-learn activities improve content learning in Grades 1–12, with effects in mathe](writing-improves-mathematical-understanding.md) (supports) |
 | Diaz 1988 | q1 · review · r1 | i? | [Writing is presented as uniquely corresponding to the features of successful learning](writing-uniquely-corresponds-features-successful-learning.md) (supports) |

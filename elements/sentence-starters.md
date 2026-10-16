@@ -43,7 +43,7 @@ Sentence starters lower the barrier to productive academic language, particularl
 
 ### Target Learning Goals
 - Academic language development: rehearsing discipline-specific syntax and vocabulary
-- Argumentation quality: frames like "The evidence shows… therefore…" structure claims, evidence, and reasoning [Argumentation benefits from structured support for claim-evidence-reasoning moves.](../claims/erroneous-examples-build-conceptual-knowledge.md) [~W]
+- Argumentation quality: frames like "The evidence shows… therefore…" structure claims, evidence, and reasoning [Prompts and scaffolds for paraphrasing, criticizing, questioning, and synthesizing arguments produce significantly more domain-specific and domain-general knowledge](../claims/argumentation-prompts-scaffolds-knowledge-gains.md) [~W]
 - Participation equity: lowering the production barrier so more learners contribute to discussion [+W]
 
 ### Affordances
