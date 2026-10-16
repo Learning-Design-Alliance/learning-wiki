@@ -52,6 +52,11 @@ A web-based training on self-regulated learning that "can be attended by virtual
 - [With peer feedback groups added to web-based SRL training (Group TDP), students showed statistically significant gains in self-motivation, volition and reflection, beyond the planning and metacognition gains also seen in Group TD; goal-setting and elaboration gains stayed non-significant](../claims/peer-feedback-groups-add-self-motivation-volition-reflection-gains-to-web-based-srl-training.md) [+W]
 - [Rural students overall did not show a significant effect, but low-performing rural students did](../claims/vplc-assistments-rural-subgroup-effects.md) [~W]
 
+## The evidence by question
+
+- *Which components (training, diary, peer feedback, goals), and which outcomes move?* [In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains](../claims/srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep.md) [+M]
+- *Does building self-regulation support (planning, if-then plans, self-checks) into an online course improve learning and completion?* [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](../claims/srl-interventions-moderate-effect-online-blended.md) [+M]
+
 ## Related Elements
 - [Self Regulated Learning Instruction](../strategies/self-regulated-learning-instruction.md)
 

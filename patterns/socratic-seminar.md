@@ -96,6 +96,9 @@ The pattern works best when the prompt is open enough to sustain interpretation 
 - Preparation supports can include annotation guides, evidence stems, or pre-seminar quickwrites.
 - Facilitation can be tighter for novice groups and lighter for experienced seminar participants.
 
+## The evidence by question
+- *Which discussion structures and facilitation make open discussion produce learning, rather than just more talk?* [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](../claims/structured-discussion-methods-improve-comprehension.md) [+M]
+
 ## Related Patterns
 
 - [Discussion Group](../principles/collaborative-learning.md)

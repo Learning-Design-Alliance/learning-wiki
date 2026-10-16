@@ -71,6 +71,10 @@ Because mastery-approach goals reliably support the more sustained, thoughtful l
 - [Female student teachers score significantly higher on performance goal orientation than male students, with no gender differences on the other dimensions](../claims/gender-performance-goal-orientation-females-higher.md) [+W]
 - [Turkish student teachers score higher on entity theory than incremental theory and on performance goal orientation than learning goal orientation](../claims/turkish-student-teachers-entity-performance-higher.md) [~W]
 
+## The evidence by question
+
+- *Do learners' achievement goal orientations (mastery or performance, approach or avoidance) predict their engagement and academic outcomes?* [Mastery-approach, performance-approach, and performance-avoidance goals positively predict engagement, while mastery-avoidance goals do not, in AI-assisted English learning](../claims/goal-orientations-predict-engagement-ai-efl.md) [~M]
+
 ## Related Theories
 - [Expectancy-Value Theory](expectancy-value-theory.md) — task value and goal orientation both address why a learner engages, though EVT frames it as a value judgment while goal orientation frames it as the purpose behind pursuing a goal
 - [Self-Determination Theory](self-determination-theory.md) — mastery goals are intrinsically motivated in SDT's sense, while performance goals are extrinsically motivated; both theories treat this distinction as consequential for depth of learning

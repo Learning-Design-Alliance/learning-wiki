@@ -56,6 +56,11 @@ Automaticity of component skills is a precondition for complex performance: read
 - [Fluency-building activities improve effortless reading for students in grades 4–9, with strong supporting evidence](../claims/fluency-building-activities-strong-evidence-grades-4-9.md) [+W]
 - [In Spanish, decoding rate rather than decoding accuracy is the better predictor of passage comprehension](../claims/spanish-decoding-rate-better-predictor-than-accuracy.md) [+W]
 
+## The evidence by question
+
+- *Does practice to build reading fluency improve fluency and comprehension for struggling readers?* [Fluency-building activities for struggling readers in grades 4–9 have strong evidence, based on 33 studies](../claims/strong-evidence-fluency-building-activities-grades-4-9.md) [+M]
+- *Does fast, automatic word recognition, rather than accuracy alone, predict reading comprehension?* [Automatic word recognition frees resources for comprehension](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
+
 ## Related Elements
 - [Practice](practice.md) — the mechanism by which automaticity develops; automaticity is the *goal state* of well-designed practice
 - [Fading](fading.md) — support can be withdrawn as component skills become automatic
