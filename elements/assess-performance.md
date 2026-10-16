@@ -56,6 +56,11 @@ Performance assessment is most effective when criteria are transparent and feedb
 - [Case-study states use performance-based assessments to provide more opportunities for students to demonstrate mastery of skills and content](../claims/performance-assessments-expand-mastery-demonstration-opportunities.md) [+W]
 - [Early numeracy mastery is measurable at 54 months across three competencies in a large longitudinal sample](../claims/numeracy-measurable-54-months-three-competencies.md) [~W]
 
+## The evidence by question
+
+- *Can methods scored by judgement be scored reliably, or do they add rater variation?* [Performance assessments can be reliably scored when designed appropriately and used with other measures](../claims/performance-assessments-reliably-scoreable.md) [+W]
+- *Do extended performance tasks give learners more and better chances to show what they can do than tests alone?* [Case-study states use performance-based assessments to provide more opportunities for students to demonstrate mastery of skills and content](../claims/performance-assessments-expand-mastery-demonstration-opportunities.md) [+M]
+
 ## Related Elements
 - [Formative Assessment](formative-assessment.md) — the low-stakes, feedback-oriented counterpart; performance assessment without formative predecessors measures failure rather than preventing it
 - [Summative Assessment](summative-assessment.md) — the certification-oriented use of the same event

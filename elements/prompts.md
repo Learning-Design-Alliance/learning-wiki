@@ -60,6 +60,12 @@ Prompts work by triggering self-explanations and strategic processing that learn
 - [Collaborative prompt use mediated the regulated-AI group's advantage over the general-AI group in independent originality](../claims/collaborative-prompts-mediate-independent-originality.md) [+W]
 - [Prompting is a major source of AI-assisted cognitive effort: copying prompts reduces effort but not time, and verbose model responses can make AI-assisted completion slower than predicted](../claims/prompting-effort-and-verbose-response-costs.md) [~W]
 
+## The evidence by question
+
+- *Does prompting learners to explain what they study or solve improve their understanding, and on which outcomes?* [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- *Do planning, monitoring and evaluation prompts help, and which ones?* [Metacognitive prompts improve learning](../claims/metacognitive-prompts-improve-learning.md) [+S]
+- *Should support be withdrawn, and in what order?* [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S]
+
 ## Related Elements
 - [Think-Aloud](think-aloud.md) — prompts can elicit think-aloud behavior; the two together make reasoning visible and rehearsed
 - [Fading](fading.md) — the mechanism for withdrawing prompts as strategies become internalized

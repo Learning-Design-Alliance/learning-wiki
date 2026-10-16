@@ -44,6 +44,11 @@ This account holds that effortful retrieval strengthens knowledge and that "The 
 - [Retention interval moderates the testing effect, with effects often smaller, null, or reversed at short intervals](../claims/retention-interval-moderates-testing-effect.md) [+W] — attached 2026-10-13 from The effect of testing versus restudy on retention: A meta-analytic review of the testing e, which proposed "The bifurcation model of the testing effect".
 - [The meta-analysis supports retrieval effort as a contributor to the testing effect](../claims/retrieval-effort-support-testing-effect.md) [+M]
 
+## The evidence by question
+
+- *How much should retrieval succeed during practice, and how much support should it get?* [Retrieval Failure Reduces Benefit](../claims/retrieval-failure-reduces-benefit.md) [~M]
+- *How does the benefit depend on the delay before the final test?* [Retention interval moderates the testing effect, with effects often smaller, null, or reversed at short intervals](../claims/retention-interval-moderates-testing-effect.md) [+M]
+
 ## Related Theories
 - [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](../claims/desirable-difficulties-enhance-learning.md)
 

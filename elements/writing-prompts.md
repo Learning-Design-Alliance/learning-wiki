@@ -58,6 +58,11 @@ Writing prompts leverage the "generation effect": producing explanations and arg
 - [Teachers' belief that their students were ready for argumentative writing significantly predicted student growth within the first prompt](../claims/teacher-readiness-belief-predicts-first-prompt-growth.md) [~W]
 - [Assessment shifts from the quality of AI-generated text to articulating tasks, justifying prompt choices, and reflexively evaluating AI behaviour](../claims/assessment-shift-task-articulation-over-text-quality.md) [+W]
 
+## The evidence by question
+
+- *Does writing about content during instruction improve learning of that content, compared with instruction without the writing?* [Writing To Learn Improves Understanding](../claims/writing-to-learn-improves-understanding.md) [+S]
+- *Does the design of a writing prompt (cognitive and metacognitive prompts, a model entry, a stated purpose) change what learners write and learn, compared with an open invitation to write?* [Instructionally supported (prompted) journal writing outperforms unsupported journal writing on learning outcomes (Hedges's g = 0.78)](../claims/prompted-journal-writing-medium-large-effect.md) [+M]
+
 ## Related Elements
 - [Practice](practice.md) — prompts are a form of generative practice; the same fading logic applies (framed → scaffolded → open)
 - [Think-Aloud](think-aloud.md) — prompts can ask learners to write their reasoning, a written analogue of think-aloud protocols

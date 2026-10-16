@@ -49,6 +49,11 @@ Two versions of the same worked algebra problems used in the study. "The full- w
 - [Prior knowledge and worked-example type (full vs completion) interact significantly on self-reported germane cognitive load, but not on intrinsic or extraneous load](../claims/prior-knowledge-by-worked-example-type-interaction-on-germane-load.md) [+W]
 - [Studying worked examples improves novices' algebra performance on problems with the same structure as the examples](../claims/worked-examples-improve-math-performance.md) [+M]
 
+## The evidence by question
+
+- *For whom: how does the benefit change with prior knowledge?* [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [+S]
+- *How should learners move from studying examples to solving problems alone?* [Successively fading out worked solution steps is effective for facilitating the transition from learning from worked examples to problem solving, compared to example-problem pairs](../claims/fading-worked-steps-facilitates-example-to-problem-transition.md) [+M]
+
 ## Related Elements
 - [Worked Examples](worked-examples.md)
 - [Completion Problems](../strategies/completion-problems-first.md)

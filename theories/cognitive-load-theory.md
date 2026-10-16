@@ -107,6 +107,13 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Reduction of cognitive load can sometimes impair learning rather than enhance it](../claims/load-reduction-can-impair-learning.md) [~W] — attached 2026-10-15 from Schnotz et al. (2007), which proposed "Zone of proximal development perspective on cognitive load theory".
 - [Germane cognitive load fully mediates the effect of information-search tool on justification quality (exploratory analysis)](../claims/germane-load-mediates-tool-effect-on-justification-quality.md) [+W] — attached 2026-10-15 from Matthias Stadler et al. (2024), which proposed "Cognitive load–self-regulation tradeoff account of information-search tool effects on learning quality"; tests this page's relationship.
 
+## The evidence by question
+
+- *Should related text and pictures be integrated rather than separated?* [Cognitive Load Reduction Improves Learning](../claims/cognitive-load-reduction-improves-learning.md) [+S]
+- *Do novices learn more from studying worked examples than from solving the same problems unaided?* [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
+- *For whom: does support that helps novices stop helping as task-specific expertise grows?* [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~S]
+- *Does breaking transient material (animation, video, narration) into segments improve learning over a continuous presentation?* [Segmenting Improves Multimedia Learning](../claims/segmenting-improves-multimedia-learning.md) [+M]
+
 ## Related Theories
 
 - [Situated Learning](situated-learning.md) — CLT treats working memory as an individual cognitive limit; situated learning argues that cognition is distributed across tools, people, and environment, which can extend effective working memory capacity

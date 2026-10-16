@@ -50,6 +50,9 @@ Scientific reasoning is the element in which learners generate explanations, eva
 - [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](../claims/argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) [+W]
 - [Holt Earth Science inquiry tasks emphasize making multiple observations and developing theories about mechanisms but omit several authentic scientific inquiry features](../claims/holt-earth-science-missing-authentic-inquiry-features.md) [~W]
 
+## The evidence by question
+- *Does teaching reasoning patterns explicitly develop learners' scientific reasoning more than content instruction or unguided inquiry does?* [Preliminary explicit instruction in scientific reasoning patterns (e.g., IAT statement construction) produced much larger LCTSR gains (g = 0.68) than courses without such intervention (g = 0.11)](../claims/explicit-reasoning-instruction-preliminary-large-gains.md) [+W]
+
 ## Related Elements
 - [Model Revision](model-revision.md)
 - [Justification](justification.md)
