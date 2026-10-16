@@ -42,11 +42,12 @@ Authors' analysis of California Longitudinal Pupil Achievement Data System (CALP
 
 ## Discussion
 
-
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [School test score averages are strongly related to the income of the families a school serves](school-test-scores-strongly-related-to-family-income.md) — the general claim this finding bears on, with the studies behind it
 - [OUSD's open-access dual enrollment program maintains an 82 percent course pass rate among predominantly first-generation, low-income students and students of color](ousd-open-access-dual-enrollment-high-pass-rates.md) — related
 - [Dual enrollment programs have positive effects on college degree attainment, with an average improvement index of +25 percentile points](dual-enrollment-positive-degree-attainment.md) — related
 - [Removing Criterion 4 would likely increase reclassification rates for ready students, particularly those with disabilities or from lower socioeconomic backgrounds, without harming academic performance](removing-criterion4-increases-reclassification.md) — related

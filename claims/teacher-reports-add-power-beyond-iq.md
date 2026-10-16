@@ -41,8 +41,9 @@ The longitudinal study reports that "teacher reports add predictive power beyond
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) — the general claim this finding bears on, with the studies behind it
 - [Child and guardian reports add minimal predictive power beyond teacher reports of noncognitive skills](child-guardian-reports-minimal-power-beyond-teacher.md) — related
 - [Teacher reports of noncognitive skills are the most predictive of children's later cognitive outcomes and school behavior](teacher-reports-most-predictive-later-outcomes.md) — related
 - [Teacher reports of children's noncognitive skills have the highest internal consistency among child, guardian, and teacher reports](teacher-reports-highest-internal-consistency-noncognitive.md) — related

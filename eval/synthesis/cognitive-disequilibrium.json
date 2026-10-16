@@ -11,8 +11,36 @@
           "+"
         ],
         [
+          "guided-inquiry-computational-model-overcomes-amplitude-misconception",
+          "~"
+        ],
+        [
+          "cscl-simulation-conceptual-change-cognitive-engagement",
+          "~"
+        ],
+        [
           "force-motion-conceptions-difficult-to-change",
           "~"
+        ],
+        [
+          "constructive-conflict-increases-idea-editing",
+          "+"
+        ],
+        [
+          "constructive-conflict-guidance-increases-reconsideration",
+          "+"
+        ],
+        [
+          "agent-enacted-conflict-shifts-design-thinking",
+          "~"
+        ],
+        [
+          "stepwise-conflict-guidance-reduces-idea-addition",
+          "~"
+        ],
+        [
+          "conflict-seed-induces-deeper-reflection",
+          "+"
         ]
       ]
     },
@@ -43,6 +71,38 @@
         [
           "cscl-simulation-conceptual-change-cognitive-engagement",
           "~"
+        ],
+        [
+          "prediction-graphing-reveals-classification-thinking",
+          "+"
+        ],
+        [
+          "force-motion-conceptions-difficult-to-change",
+          "~"
+        ],
+        [
+          "automated-annotations-accelerate-misconception-correction",
+          "+"
+        ],
+        [
+          "fci-gain-increased-peer-instruction-harvard",
+          "+"
+        ],
+        [
+          "peer-conflicts-conditional-on-reflection",
+          "~"
+        ],
+        [
+          "personal-construction-required-stable-conceptual-change",
+          "~"
+        ],
+        [
+          "high-equality-mutuality-not-sufficient-conceptual-change",
+          "~"
+        ],
+        [
+          "belief-consistent-facts-better-recognized",
+          "~"
         ]
       ]
     },
@@ -63,7 +123,7 @@
           "~"
         ],
         [
-          "emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently",
+          "force-motion-conceptions-difficult-to-change",
           "~"
         ],
         [
@@ -72,6 +132,10 @@
         ],
         [
           "scaffolding-balance-confusion-versus-critical-thinking",
+          "~"
+        ],
+        [
+          "emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently",
           "~"
         ]
       ]

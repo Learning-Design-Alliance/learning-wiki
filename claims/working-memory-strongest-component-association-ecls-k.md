@@ -41,12 +41,13 @@ Path estimates from Model 2 estimated on ECLS-K raw data at three waves (Table 6
 
 ## Discussion
 
-
 ## Learner Variables
 - [Working Memory](../learner-variables/working-memory.md) — predictor: learners who differ on it differ in outcomes
 - [Executive Function](../learner-variables/executive-function.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](ef-predicts-preschool-math-growth.md) — the general claim this finding bears on, with the studies behind it
 - [In the ECLS-K: 2010 dataset, a single latent EF factor model fits EF–math associations better than a specific-components model at all three time points](latent-ef-factor-preferred-ecls-k-math.md) — related
 - [Math achievement correlates more strongly with EF components than EF components correlate with each other in early childhood](math-correlates-more-with-ef-than-ef-internally.md) — related
 - [In a meta-analytic database of ten studies, the latent EF factor model was preferred in seven samples, with two favoring the components model and one equal](meta-analytic-replication-latent-ef-model.md) — related

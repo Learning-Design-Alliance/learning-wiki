@@ -7,16 +7,28 @@
       "question": "Does discussing a committed answer with peers improve a later individual answer on a new question?",
       "members": [
         [
+          "fci-gain-increased-peer-instruction-harvard",
+          "+"
+        ],
+        [
+          "learning-attributed-to-process-not-technology",
+          "+"
+        ],
+        [
           "correct-correct-clicker-pattern-higher-exam-performance",
+          "~"
+        ],
+        [
+          "any-clicker-pattern-beats-absence-except-lowest-quartile",
+          "~"
+        ],
+        [
+          "clicker-vote-patterns-null-on-homework-explanations",
           "~"
         ],
         [
           "clicker-participation-and-homework-completion-predict-exam-performance",
           "~"
-        ],
-        [
-          "learning-attributed-to-process-not-technology",
-          "+"
         ]
       ]
     },
@@ -26,6 +38,26 @@
       "members": [
         [
           "any-clicker-pattern-beats-absence-except-lowest-quartile",
+          "~"
+        ],
+        [
+          "clicker-participation-and-homework-completion-predict-exam-performance",
+          "+"
+        ],
+        [
+          "clicker-presence-predicts-homework-explanation-quality",
+          "+"
+        ],
+        [
+          "classroom-pretesting-exam-gains",
+          "+"
+        ],
+        [
+          "format-consistency-moderates-classroom-testing-effect",
+          "~"
+        ],
+        [
+          "hocs-clickers-improve-locs-exam-performance",
           "~"
         ]
       ]
@@ -93,6 +125,38 @@
       "question": "Does small-group work beat working alone, and how should groups be set up?",
       "members": [
         [
+          "peer-discussion-improves-conceptual-understanding",
+          "+"
+        ],
+        [
+          "interactive-beats-constructive-concept-mapping",
+          "+"
+        ],
+        [
+          "social-connection-and-collaboration-drive-learning",
+          "+"
+        ],
+        [
+          "discussion-promotes-more-active-thought-than-lecture",
+          "~"
+        ],
+        [
+          "ai-fosters-collaborative-social-construction",
+          "~"
+        ],
+        [
+          "small-group-learning-improves-stem-achievement",
+          "+"
+        ],
+        [
+          "cooperative-learning-improves-achievement",
+          "+"
+        ],
+        [
+          "active-collaborative-approaches-higher-order-thinking",
+          "+"
+        ],
+        [
           "collaborative-writing-improves-text-quality",
           "+"
         ],
@@ -101,11 +165,15 @@
           "+"
         ],
         [
-          "cooperative-learning-group-rewards-and-individual-accountability",
+          "collaborative-group-work-beats-competitive-classrooms-k12",
+          "+"
+        ],
+        [
+          "students-report-peer-collaboration-supports-learning",
           "~"
         ],
         [
-          "discussion-promotes-more-active-thought-than-lecture",
+          "cooperative-learning-group-rewards-and-individual-accountability",
           "~"
         ],
         [
@@ -117,27 +185,19 @@
           "~"
         ],
         [
-          "small-group-learning-improves-stem-achievement",
-          "+"
-        ],
-        [
-          "interactive-beats-constructive-concept-mapping",
-          "+"
-        ],
-        [
-          "collaborative-group-work-beats-competitive-classrooms-k12",
-          "+"
-        ],
-        [
-          "active-collaborative-approaches-higher-order-thinking",
-          "+"
-        ],
-        [
           "collaborative-argumentation-benefits-summary",
           "+"
         ],
         [
-          "students-report-peer-collaboration-supports-learning",
+          "embodied-collaborative-construction-can-build-shared-geometric-reasoning",
+          "~"
+        ],
+        [
+          "el-collaborative-discussion-sociocultural-benefit",
+          "+"
+        ],
+        [
+          "prior-practices-mediate-class-interaction-appropriation",
           "~"
         ]
       ]

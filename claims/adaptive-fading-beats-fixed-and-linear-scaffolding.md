@@ -43,6 +43,8 @@ Scaffolding strategy effectiveness analysis comparing Fixed High (constant σt =
 
 ## Related Claims
 
+- [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md) — the general claim this finding bears on, with the studies behind it
+
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — the general claim this finding bears on, with the studies behind it
 - [ARPG+ shifts cognitive load composition toward productive effort and reduces overload frequency in simulation](arpg-plus-load-composition-shift-and-overload-reduction.md) — related
 - [ARPG+ reaches quality milestones faster than comparison conditions in simulation](arpg-plus-faster-time-to-proficiency.md) — related

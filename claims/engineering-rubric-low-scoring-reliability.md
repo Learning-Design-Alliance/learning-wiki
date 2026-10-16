@@ -46,6 +46,8 @@ The one entry is a single class at Maui Community College: six scorers, six team
 
 ## Related Claims
 
+- [Rubrics with parallel sentence structure, unambiguous wording and well-specified dimensions have lower grading variance, and revising rubrics decreased median grading error from 12.4% to 9.9%](rubric-wording-lower-grading-variance.md) — the general claim this finding bears on, with the studies behind it
+
 - [Raters differed significantly in severity/leniency in the MFRM analysis](raters-differed-severity-mfrm.md) — the general claim this finding bears on, with the studies behind it
 
 - [Performance assessments can be reliably scored when designed appropriately and used with other measures](performance-assessments-reliably-scoreable.md) — the general claim this finding bears on, with the studies behind it

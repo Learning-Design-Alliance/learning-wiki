@@ -41,8 +41,9 @@ Inductive thematic analysis of open-ended survey responses from 163 students. Ap
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](guo-video-style-engagement-findings.md) — the general claim this finding bears on, with the studies behind it
 - [Only half of students could clearly tell the AI-generated videos were AI-generated, the item with the highest variance](half-students-could-not-detect-ai-videos.md) — related
 - [Students' primary concerns about AI videos are inaccurate information, reduced interaction with educators, and diminished educational value](student-concerns-ai-videos-quality-interaction-value.md) — related
 - [Most U.S. colleges had adopted written generative AI policies by late 2024, with 69% defining appropriate versus inappropriate AI use in coursework](review-69-percent-colleges-genai-policies.md) — related

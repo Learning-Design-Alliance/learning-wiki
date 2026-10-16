@@ -39,8 +39,9 @@ Pearson correlation matrix (Table 8) among the seven TPACK domain scores in the 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) — the general claim this finding bears on, with the studies behind it
 - [Content knowledge is not significantly associated with self-perceived knowledge in any technology-integrated GenAI domain](content-knowledge-not-associated-genai-integration.md) — related
 - [Faculty report high self-perceived knowledge in traditional TPACK domains but substantially lower self-perceived knowledge in technology-integrated GenAI domains](faculty-high-traditional-low-technology-integrated-genai-knowledge.md) — related
 - The three technology-integrated TPACK domains intercorrelate so strongly (r = .81–.91) that they may function as a single factor in this faculty population — related

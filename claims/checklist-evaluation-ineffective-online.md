@@ -95,6 +95,8 @@ First-term nursing students in 12 lab sections had one 110-minute library sessio
 
 ## Related Claims
 
+- [AI literacy interventions show a large, statistically significant overall positive effect on student AI literacy outcomes (g = 0.837)](ai-literacy-interventions-large-overall-effect.md) — the general claim this finding bears on, with the studies behind it
+
 - [Civic online reasoning instruction improves evaluation](civic-online-reasoning-instruction-improves-evaluation.md) — the strategy-based alternative that replaces checklists with lateral reading and fact-checker techniques
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — checklists add procedural overhead without adding evaluative power, a load cost with no payoff
 - [Coherence principle: irrelevant material hurts learning](coherence-principle-irrelevant-material-hurts-learning.md) — surface features like professional design are irrelevant cues that checklists mistakenly treat as diagnostic

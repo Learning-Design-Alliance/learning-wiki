@@ -41,8 +41,9 @@ In the same four-condition experiment with third graders, the article reports th
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Preliminary explicit instruction in scientific reasoning patterns (e.g., IAT statement construction) produced much larger LCTSR gains (g = 0.68) than courses without such intervention (g = 0.11)](explicit-reasoning-instruction-preliminary-large-gains.md) — the general claim this finding bears on, with the studies behind it
 - [High-then-high guidance produced stronger understanding of CVS than low-then-low guidance in third graders, including on a 5-month post-test](hh-guidance-beats-ll-cvs-children.md) — related
 - [Phase 4 low-guidance procedure was truncated for children who already demonstrated unconfounded designs](phase4-truncation-mastered-variables.md) — related
 - [Low-guidance set-ups took longer than high-guidance set-ups in the CVS instruction sessions](low-guidance-longer-time-on-task.md) — related

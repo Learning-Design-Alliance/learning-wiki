@@ -60,8 +60,9 @@ The report's student progress analysis compares EOY outcomes for students at ben
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Most students identified as significantly below benchmark on early literacy screeners remain significantly below benchmark 1 and 2 years later](significantly-below-benchmark-persists-across-years.md) — the general claim this finding bears on, with the studies behind it
 - [Screening assessment benchmarks indicating significant risk shift up and down on the MCAS scale within and across grades, so students with the same skills may be classified differently at different times](benchmark-cut-scores-shift-on-mcas-scale.md) — related
 - [Risk status is largely stable within the year, but 40 percent of students at risk at beginning of year met benchmark by end of year, and students on track by middle of year were significantly more likely to meet the end-of-year benchmark](boy-risk-40-percent-recover-by-eoy.md) — related
 - [Across school years, students identified as at risk in earlier grades were more likely to get on track by the end of the next grade than students in later grades](cross-year-recovery-higher-earlier-grades.md) — related

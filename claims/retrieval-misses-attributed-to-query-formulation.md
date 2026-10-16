@@ -60,8 +60,9 @@ Retrieval diagnostic on the affected topics: the section reports that "a bounded
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Browsing term lists (selection mode) helps searchers who do not know the exact query term](selection-mode-browsing-helps-uncertain-searchers.md) — the general claim this finding bears on, with the studies behind it
 
 - [In a ten-request live textbook audit, citation integrity coexisted with substantive error: every citation resolved to its source, yet answers included retrieval misses and contradictions](citation-integrity-coexists-with-error.md)
 - [DysLexLens is moderately robust to paraphrased queries (Answer Relevancy 0.58) but sensitive to keyword-perturbed queries (0.34)](query-robustness-paraphrase-keyword-perturbation.md)

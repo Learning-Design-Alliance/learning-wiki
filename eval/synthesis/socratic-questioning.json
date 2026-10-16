@@ -1,0 +1,72 @@
+{
+  "principle": "elements/socratic-questioning",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "unrestricted-chatbot-higher-learning-delta-than-socratic-and-adaptive",
+      "question": "Does a tutor that answers with guiding questions, rather than giving answers or explanations, produce more learning?",
+      "members": [
+        [
+          "socratic-more-attempts-many-never-reach-mastery",
+          "+"
+        ],
+        [
+          "socratic-mode-progressive-disengagement",
+          "+"
+        ],
+        [
+          "direct-conditions-higher-full-comprehension",
+          "+"
+        ],
+        [
+          "socratic-full-context-ai-ta-lowest-task-completion-rating",
+          "+"
+        ],
+        [
+          "external-llm-use-inadequate-guidance",
+          "+"
+        ],
+        [
+          "ai-ta-query-volume-and-message-length",
+          "~"
+        ],
+        [
+          "agent-type-outcome-advantage-only-under-directive-feedback",
+          "-"
+        ],
+        [
+          "socratic-feedback-comprehension-monitoring-task-orientation",
+          "-"
+        ],
+        [
+          "directive-feedback-higher-cognitive-load",
+          "-"
+        ],
+        [
+          "socratic-prompts-reflection-directive-overload-qualitative",
+          "-"
+        ],
+        [
+          "contingent-tutor-metacognitive-demand-matches-withholding-tutor",
+          "~"
+        ],
+        [
+          "contingent-tutor-frustration-between-baselines",
+          "~"
+        ],
+        [
+          "contingent-scaffolding-surrenders-full-answer-least",
+          "~"
+        ],
+        [
+          "instructor-quality-matters-with-prior-knowledge",
+          "-"
+        ],
+        [
+          "socratic-dialogue-needs-efficiency-and-summaries",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

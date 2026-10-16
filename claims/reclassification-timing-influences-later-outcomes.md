@@ -39,6 +39,20 @@ The report asserts, citing Carlson & Knowles (2016), Hill et al. (2014), and Joh
 
 > "Numerous studies have illustrated that the timing of reclassification influences later outcomes, including high school graduation (Carlson & Knowles, 2016; Hill et al., 2014; Johnson, 2019)."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does when a learner exits English-learner status (reclassification) change their later achievement and attainment?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **5 distinct studies** (3 associational, 1 design, 1 causal), `q2`–`q3`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Strengthening English Learner Reclassification in California 2024 | q2 · design · r2 | i? | this claim |
+| Angela Johnson 2020 | q3 · causal · r2 | i? | [Eighth grade EL reclassification has statistically insignificant effects on 9th–11th grade](el-reclassification-null-ela-effects-high-school.md) (qualifies); [Eighth grade EL reclassification shows a fairly large negative effect on SAT reading, with](el-reclassification-negative-sat-reading.md) (qualifies); [Eighth grade EL reclassification shows positive but imprecise estimates for on-track-to-gr](el-reclassification-on-track-positive-imprecise.md) (qualifies) |
+| Faulkner-Bond 2026 | q2 · associational · r2 | i? | [Students who meet Criterion 1 achieve at the same level whether they remain in EL status o](retained-versus-exited-equivalent-achievement.md) (qualifies); [ELPAC overall PL 4 students who exit EL status show minimal or no achievement differences ](no-achievement-benefit-remaining-el-status-pl4.md) (qualifies); [English Learner students at ELPAC PL 4 perform as well as, or better than, matched English](pl4-el-students-comparable-to-peers.md) (qualifies) |
+| Ninth Grade Course Performance Found to Be the Strongest Predictor of High School Graduation for Chicago English Language Learners 2012 | q2 · associational · r? | i? | [Hispanic ELLs proficient before sixth grade performed better in ninth-grade courses than o](early-proficiency-better-ninth-grade-performance.md) (supports) |
+| de la Torre 2019 | q2 · associational · r2 | i? | [Students who began as ELs and demonstrated proficiency by eighth grade had academic outcom](proficient-by-eighth-grade-els-strong-outcomes.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

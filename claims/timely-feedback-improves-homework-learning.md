@@ -59,6 +59,20 @@ The authors describe their own rigorous study of the ASSISTments platform, which
 
 > "In a rigorous study (Roschelle et al., 2016), we found that using computer-collected information can also help teachers to adapt, and helps students to learn much more."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does independent practice outside class (homework) raise achievement, and what makes it work?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **5 distinct studies** (2 causal, 2 associational, 1 review), `q2`–`q3`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Roschelle 2020 | q2 / q3 · review · r2 | i? | this claim; [Preparation-purpose homework benefits students more than same-day extra-time homework](preparation-homework-beats-same-day-homework.md) (supports); [Spaced and interleaved homework practice improves learning and retention](spaced-interleaved-homework-practice.md) (supports) |
+| Feng 2023 | q3 · causal · r3 | i1 | [ASSISTments use in grade 7 math homework produces a statistically significant long-term po](assistments-long-term-math-impact-grade-8.md) (supports) |
+| [Dana L. Kirkwood-Watts 2022](https://doi.org/10.1128/jmbe.00038-22) | q3 · associational · r2 | i? | [Completing the follow-up homework assignment modestly boosted exam question performance](follow-up-homework-modestly-boosts-exam-performance.md) (supports) |
+| [Ethan Dickey 2026](https://doi.org/10.48550/arxiv.2607.27586) | q3 · causal · r2 | i1 | [Students received significantly higher homework scores during GenAI-evaluation periods, bu](genai-homework-advantage-no-transfer.md) (qualifies) |
+| [Hasnain Heickal and Andrew Lan 2026](https://doi.org/10.48550/arxiv.2606.08807) | q2 · associational · r1 | i? | [Valid test case feedback improves correctness without reducing subsequent submission count](valid-test-cases-not-fewer-submissions.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 ## Related Claims

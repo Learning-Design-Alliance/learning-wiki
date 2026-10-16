@@ -14,7 +14,7 @@ generated:
 # Rubrics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (3 for, 3 mixed, 2 against) · 14 studies (7 causal, 2 quant-synthesis, 2 review, 2 associational, 1 qualitative), `q2`–`q3` · 3 of 14 report an effect size · 4 claims rest on one study
+> **Evidence** · 9 claims (4 for, 3 mixed, 2 against) · 15 studies (7 causal, 3 review, 2 quant-synthesis, 2 associational, 1 qualitative), `q2`–`q3` · 3 of 15 report an effect size · 5 claims rest on one study
 
 ## Description
 Rubrics are the element in which criteria and performance levels are made explicit to guide quality work and evaluation.

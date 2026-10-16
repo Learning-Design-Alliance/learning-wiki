@@ -41,8 +41,9 @@ Meta-analysis of journal articles and dissertations from 1990 to 2012 (k = 14) c
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Conversational interaction facilitates second language grammatical development in adult ESL learners](interaction-facilitates-l2-grammatical-development.md) — the general claim this finding bears on, with the studies behind it
 - [Mode-specific advantages: SCMC favors productive and written L2 outcomes; FTF favors receptive and oral outcomes](mode-specific-advantages-productive-written-vs-receptive-oral.md) — related
 - [No significant differences between SCMC and FTF interaction on L2 development overall](no-significant-scmc-ftf-differences-l2-development.md) — related
 - [SCMC interaction shows a small advantage over FTF on overall L2 learning outcomes](scmc-small-advantage-overall-l2-outcomes.md) — related

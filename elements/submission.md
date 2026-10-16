@@ -13,7 +13,7 @@ generated:
 # Submission
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (3 for, 4 mixed, 1 against) · 11 studies (3 review, 3 theoretical, 2 causal, 2 associational, 1 qualitative), `q1`–`q3` · 0 of 11 report an effect size · 5 claims rest on one study
+> **Evidence** · 10 claims (4 for, 5 mixed, 1 against) · 13 studies (4 review, 3 theoretical, 2 causal, 2 associational, 1 qualitative, 1 design), `q1`–`q3` · 0 of 13 report an effect size · 7 claims rest on one study
 
 ## Description
 Submission is the act of learners delivering completed or in-progress work for evaluation, feedback, or peer review. It functions as a structured checkpoint that makes learning visible to instructors and to learners themselves, converting private effort into an assessable artifact.

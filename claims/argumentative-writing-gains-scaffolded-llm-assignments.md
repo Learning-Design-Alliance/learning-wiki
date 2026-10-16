@@ -41,8 +41,9 @@ Paired-sample t-tests comparing each student's Assignment 1 and Assignment 5 sco
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Direct GenAI-supported feedback improves immediate argument-quality gain over peer feedback, while reflective and hybrid designs outperform direct GenAI feedback](genai-feedback-design-argument-quality-gain.md) — the general claim this finding bears on, with the studies behind it
 - [Students became better able to develop arguments even prior to interacting with LLMs, per the authors' interpretation of initial-draft gains](argument-gains-without-llm-support.md) — related
 - [Students’ prompt self-efficacy increased significantly after the scaffolded GenAI course (t = 3.729, p < .001)](prompt-self-efficacy-significant-increase.md) — related
 - [Students rated the LLM-based assignments as useful, challenging, engaging, and enjoyable at both the first and fifth iterations, with no significant change across the semester](positive-affective-responses-llm-assignments.md) — related

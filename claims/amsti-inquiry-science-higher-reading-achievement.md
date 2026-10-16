@@ -43,6 +43,8 @@ The report cites the IES evaluation of Alabama's Math, Science, and Technology I
 
 ## Related Claims
 
+- [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — the general claim this finding bears on, with the studies behind it
 - Teachers participating in AMSTI reported more engaged students, greater content knowledge, and increased use of active learning strategies — related
 - AMSTI schools scored significantly higher than control schools on math problem solving at the student level, with an average effect size of +0.05 — related

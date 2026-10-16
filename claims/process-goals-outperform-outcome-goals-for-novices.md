@@ -62,13 +62,14 @@ Zimmerman provides a robust theoretical framework for self-regulated learning (S
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*For a learner new to the task, should the goal name the process or the result, and how near should it be?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **3 distinct studies** (1 causal, 1 theoretical, 1 review), `q2`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*For a learner new to the task, should the goal name the process or the result, and how near should it be?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (1 causal, 1 theoretical, 1 review, 1 associational), `q2`–`q3`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Zimmerman & Kitsantas 1999](https://doi.org/10.1037/0022-0663.91.2.241) | q3 · causal · r? | i? | this claim |
 | [Zimmerman 2000](https://doi.org/10.1016/b978-012109890-2/50031-7) | q3 · theoretical · r? | i? | this claim |
 | Schunk 1996 | q2 · review · r2 | i? | [Proximal goals and ability attributional feedback for early learning raise self-efficacy m](proximal-goals-feedback-peer-models-build-learning-efficacy.md) (supports) |
+| [Yongliang Wang & Yaobo Wang 2026](https://doi.org/10.1057/s41599-026-07636-8) | q2 · associational · r2 | i? | [Mastery-approach, performance-approach, and performance-avoidance goals positively predict](goal-orientations-predict-engagement-ai-efl.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

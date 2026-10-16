@@ -59,6 +59,19 @@ Perfetti, C. (2007). Reading ability: Lexical quality to comprehension. *Scienti
 
 A review advancing the lexical quality hypothesis: comprehension difficulty traces to the quality of word representations — orthographic, phonological and semantic — rather than to decoding speed considered alone. Useful here because it constrains the claim: it predicts that practice which sharpens representations helps, and that practice which only accelerates retrieval of imprecise ones may not.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does fast, automatic word recognition, rather than accuracy alone, predict reading comprehension?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (2 review, 1 theoretical, 1 design), `q1`–`q2`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [LaBerge & Samuels 1974](<https://doi.org/10.1016/0010-0285(74)90015-2>) | q1 · theoretical · r? | i? | this claim |
+| [Perfetti 2007](https://doi.org/10.1080/10888430701530730) | q2 · review · r? | i? | this claim |
+| NWEA 2025 | q2 · design · r1 | i? | [In Spanish, decoding rate rather than decoding accuracy is the better predictor of passage](spanish-decoding-rate-better-predictor-than-accuracy.md) (supports) |
+| MAP Reading Fluency with Coach Evidence Base 2024 | q2 · review · r1 | i? | [Word recognition fluency significantly predicted reading comprehension in grades 1-3, with](word-recognition-fluency-predicts-comprehension-grades-1-3.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 The claim rests on the limited-capacity assumption of [Cognitive Load Theory](../theories/cognitive-load-theory.md): reading comprehension depends on working memory, and effortful decoding competes directly with meaning-making processes for those resources [+M]. As decoding becomes automatic through practice, it shifts from controlled to automatic processing, imposing little or no conscious load [+M] — the mechanism described in [Automaticity](../elements/automaticity.md). This is why reading fluency — speed and accuracy of word recognition — consistently correlates with comprehension, and why fluency deficits are a hallmark of struggling readers [+M].
@@ -74,6 +87,8 @@ claim needs — train recognition to automaticity, observe a comprehension gain 
 either. Any design that rests on this claim is resting on a mechanism, and should say so.
 
 ## Related Claims
+
+- [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](oral-language-predicts-reading-achievement.md) — the general claim this finding bears on, with the studies behind it
 
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — same limited-capacity mechanism applied to larger units of information
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — explains why effortful decoding harms comprehension under load

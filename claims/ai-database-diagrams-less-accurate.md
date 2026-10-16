@@ -41,7 +41,8 @@ Rubric & Grading Redesign room discussion of redesigning assignments and rubrics
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI severs the correlation between artefact quality and cognitive engagement, breaking the artefact-as-proxy for learning](ai-breaks-artefact-as-proxy.md) — the general claim this finding bears on, with the studies behind it
 - Coaches cautioned that AI-generated feedback should be used formatively rather than for summative assessment because of AI's probabilistic nature — related
 - [Generative AI weakens the evidentiary relation between assessment artifacts and learner capacity, so institutions must assess the learner's accountable relation to AI-mediated work](generative-ai-weakens-artifact-evidentiary-relation.md) — related

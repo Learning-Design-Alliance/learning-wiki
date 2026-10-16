@@ -79,8 +79,9 @@ The California study found early-career principals with extensive professional d
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers](instructional-leadership-linked-student-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Principals' overall preparation quality is positively and significantly related to teacher retention, with significant components for developing people and meeting needs of diverse learners](principal-preparation-quality-teacher-retention.md) — possibly the same claim (merge candidate)
 - [Principals' professional development access is positively but not significantly related to teacher retention](principal-pd-teacher-retention-null.md) — reports the opposite
 - [Principals' access to professional development is significantly associated with teacher retention and student achievement, with gains greatest for historically underserved students](principal-pd-associated-retention-achievement.md) — possibly the same claim (merge candidate)

@@ -61,11 +61,25 @@ Controlled experiment in an artificial language: all subjects received identical
 
 > "All subjects were taught the same rules and then practiced them, and all subjects had the same amount of comprehension and production practice, but which ruleswere practiced in comprehension and which in production varied between groups. Results showthat the learning of morphosyntactic rules is highly skill-specific"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does second-language practice carry over to skills and tasks other than the one practised?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **5 distinct studies** (2 review, 1 causal, 1 theoretical, 1 design), `q2`–`q3`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Aydinbek C 2022](https://doi.org/10.5897/err2022.4230) | q2 · review · r2 | i? | this claim; [Automatization of L2 skills requires extensive practice in a consistent environment, not r](automatization-requires-practice-consistent-environment.md) (supports) |
+| [Robert M. DeKeyser 1997](https://doi.org/10.1017/s0272263197002040) | q3 · causal · r? | i? | this claim |
+| [Yingli Wang 2008](https://doi.org/10.5539/elt.v1n1p83) | q2 · review · r2 | i? | [Task rehearsal improves fluency and complexity on the repeated task but does not transfer ](task-repetition-fluency-complexity-same-task-only.md) (supports) |
+| [Joshua Wedlock & Christopher Binnie 2025](https://doi.org/10.55593/ej.29115a5) | q2 · theoretical · r2 | i? | [Structured repetition gains in fluency depend on repeating the same task](structured-repetition-fluency-task-specific.md) (supports) |
+| [Rafael Zaccaron 2019](https://doi.org/10.15448/2178-3640.2019.2.32988) | q2 · design · r1 | i? | [Immediate task repetition benefits oral performance, including fluency, self-correction an](immediate-repetition-benefits-oral-performance.md) (qualifies); [Lynch and Maclean's carousel task showed immediate repetition benefits in pronunciation, v](carousel-task-immediate-repetition-benefits.md) (qualifies); [Across repetition cycles, attention can shift from message meaning to linguistic form, ena](attention-shift-meaning-to-form-over-cycles.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
-
-
 ## Related Claims
+
+- [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](practice-presence-raises-cbi-posttest-achievement.md) — the general claim this finding bears on, with the studies behind it
 
 - [Automatization of L2 skills requires extensive practice in a consistent environment, not repetition of grammar rules as in traditional exercises](automatization-requires-practice-consistent-environment.md) — related
 - [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — related

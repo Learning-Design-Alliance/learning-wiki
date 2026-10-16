@@ -13,7 +13,7 @@ generated:
 # Iterative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (8 for, 1 mixed, 1 against) · 10 studies (3 design, 2 causal, 2 quant-synthesis, 2 qualitative, 1 review), `q1`–`q4` · 2 of 10 report an effect size · 9 claims rest on one study
+> **Evidence** · 11 claims (9 for, 1 mixed, 1 against) · 11 studies (3 causal, 3 design, 2 quant-synthesis, 2 qualitative, 1 review), `q1`–`q4` · 3 of 11 report an effect size · 10 claims rest on one study
 
 ## Description
 Iterative learning is the element in which learners improve through repeated cycles of attempt, feedback, revision, and retry. It is useful when quality emerges through refinement rather than one-shot performance.

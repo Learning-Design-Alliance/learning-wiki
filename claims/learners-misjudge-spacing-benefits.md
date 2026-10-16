@@ -63,14 +63,17 @@ Participants used a web-based programme to learn GRE-type vocabulary word pairs,
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Will learners space their study on their own?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **4 distinct studies** (2 causal, 2 design), `q2`–`q3`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Will learners space their study on their own?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **7 distinct studies** (2 causal, 2 review, 2 design, 1 associational), `q2`–`q3`, 0 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Kornell & Bjork 2008](https://doi.org/10.1111/j.1467-9280.2008.02127.x) | q3 · causal · r? | i? | this claim |
 | [Kornell 2009](https://doi.org/10.1002/acp.1537) | q3 · causal · r? | i? | this claim |
+| [Karpicke Butler Roediger 2009](https://doi.org/10.1080/09658210802647009) | q2 · associational · r1 | i? | [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) (supports) |
+| [Bjork Dunlosky Kornell 2013](https://doi.org/10.1146/annurev-psych-113011-143823) | q2 · review · r? | i? | [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) (supports) |
 | [transfer-funnel](https://doi.org/10.48550/arxiv.2607.01692) | q2 · design · r2 | i? | [Students rarely open transfer-practice cards immediately after solving; they want such pro](transfer-practice-timing-mismatch-delayed-review.md) (qualifies) |
 | transfer-funnel (2) | q2 · design · r3 | i? | [Students rarely open transfer-practice cards immediately after solving; they want such pro](transfer-practice-timing-mismatch-delayed-review.md) (qualifies) |
+| [Carpenter 2022](https://doi.org/10.1038/s44159-022-00089-1) | q2 · review · r2 | i? | [Learners underuse effective learning strategies such as spacing and retrieval practice](learners-underuse-effective-learning-strategies.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

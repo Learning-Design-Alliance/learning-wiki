@@ -41,8 +41,9 @@ Classroom deployment collecting chatbot interaction logs from 44 undergraduates 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](peerwise-student-questions-75-percent-high-quality.md) — the general claim this finding bears on, with the studies behind it
 - [The chatbot often provided more scaffold types than requested, and supplying classified question scope to the chatbot raised scaffold precision above .60](chatbot-over-helping-scaffold-precision.md) — related
 - [HelpCoach increased spontaneous question specificity during chatbot problem-solving compared with pre-task training alone](helpcoach-increased-spontaneous-question-specificity.md) — related
 - [Survey scores show directional consistency with dialogue behavior: students with higher knowledge-based survey scores tended to have above-average question specificity and higher expected grades](survey-dialogue-directional-consistency-chatbot.md) — related

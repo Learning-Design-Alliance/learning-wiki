@@ -39,6 +39,26 @@ The abstract states this as framing: ELs "lag behind their peers in academic ach
 
 > "English learners (ELs) lag behind their peers in academic achievement and attainment, partly due to limited exposure to academic content."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do learners classified as English learners reach lower achievement and attainment than their peers, and does the gap hold for those who reach proficiency?* This table gathers the studies behind this claim and the 16 narrower claims that bear on it: **11 distinct studies** (9 associational, 2 review), `q2`–`q3`, 0 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Angela Johnson 2019](https://doi.org/10.3102/0162373719867087) | q2 / q3 · associational · r2 | i? | this claim; [Years-as-EL course-taking differences disappear once eighth-grade test scores are consider](el-course-taking-gaps-explained-by-prior-achievement.md) (qualifies) |
+| [Soland 2019](https://doi.org/10.1080/10824669.2020.1787171) | q2 · associational · r3 | i? | [Non-ELLs outscore ELLs in math, reading, and self-efficacy at every timepoint, with a 2015](ell-non-ell-gaps-math-reading-self-efficacy.md) (supports); [ELLs start middle school roughly .6 SD lower in math and .65 SD lower in reading, with fas](ell-lower-start-faster-reading-growth-only.md) (qualifies) |
+| [Johnson 2022](https://doi.org/10.1177/08959048211049419) | q2 · associational · r2 | i? | [All three EL subgroups scored lower than never-ELs in math and reading throughout kinderga](el-groups-lower-achievement-than-never-els-k4.md) (supports); [Ever-ELs closed in on the national average by end of 4th grade, with Asian and White ever-](ever-els-closing-national-average-gap.md) (qualifies) |
+| Perry 2019 | q2 · associational · r3 | i? | [Statewide mathematics achievement gaps between English learners and English speakers incre](el-english-speaker-gap-increasing-statewide.md) (supports) |
+| [Griffith 2025](https://doi.org/10.54300/471.440) | q2 · review · r2 | i? | [On 2022 NAEP 8th- and 12th-grade reading and math exams, students who were both English le](naep-dual-el-low-income-lowest-2022.md) (supports) |
+| Ninth Grade Course Performance Found to Be the Strongest Predictor of High School Graduation for Chicago English Language Learners 2012 | q2 · associational · r? | i? | [Long-term Hispanic ELLs had the worst course performance and graduation rates, with only 5](long-term-ell-52-percent-graduation.md) (supports) |
+| [Price 2024](https://doi.org/10.54300/496.998) | q2 · associational · r2 | i? | [Graduation disparities: 69% of 12th-grade LTEL7 students attained a high school diploma co](ltel7-graduation-disparities.md) (supports) |
+| de la Torre 2024 | q2 · associational · r3 | i? | [Long-term English Learners without IEPs had the lowest Freshman OnTrack rate and substanti](long-term-els-no-iep-lowest-ontrack-graduation.md) (supports) |
+| Usher 2023 | q2 · associational · r2 | i? | [Former English Learners graduated from CPS high school at a higher rate than never-English](cps-graduation-english-learner-status.md) (qualifies); [Former English Learners graduated from CPS high school at a higher rate (89.0%) than stude](cps-former-els-graduate-higher-than-never-els.md) (qualifies) |
+| de la Torre 2019 | q2 · associational · r? | i? | [Students who began kindergarten as English Learners had similar achievement and growth, an](began-as-els-similar-achievement-higher-attendance.md) (qualifies); [GPAs were very similar for students who did and did not enter CPS as ELs, with a reading-g](el-gpas-reading-grades-ontrack-similar.md) (qualifies); [Publicly reported statistics based only on active ELs give a biased picture of EL performa](active-el-reporting-bias.md) (qualifies) |
+| Gersten 2007 | q2 · review · r2 | i? | [English learners can learn to read in English at the same rate as their monolingual peers ](english-learners-read-same-rate-primary-grades.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

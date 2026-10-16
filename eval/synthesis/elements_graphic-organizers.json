@@ -1,0 +1,74 @@
+{
+  "principle": "elements/graphic-organizers",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "graphic-organizers-support-novice-comprehension",
+      "question": "Does studying a provided organizer improve comprehension and retention over the text alone, and for whom?",
+      "members": [
+        [
+          "story-mapping-improves-comprehension",
+          "+"
+        ],
+        [
+          "mismatched-graphic-organizers-increase-extraneous-load",
+          "~"
+        ],
+        [
+          "organization-task-match-determines-benefit",
+          "~"
+        ],
+        [
+          "advance-organizers-improve-learning",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "concept-mapping-improves-learning",
+      "question": "Should learners build the visual themselves, and does building it beat studying a provided one or recalling from memory?",
+      "members": [
+        [
+          "drawing-improves-learning",
+          "+"
+        ],
+        [
+          "learner-constructed-graphic-organizers-outperform-provided",
+          "~"
+        ],
+        [
+          "closed-book-versions-of-quizzes-and-concept-maps-outperform-open-book-versions",
+          "~"
+        ],
+        [
+          "interactive-beats-constructive-concept-mapping",
+          "~"
+        ],
+        [
+          "retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration",
+          "-"
+        ],
+        [
+          "heavy-cognitive-demands-of-mapping-can-be-counterproductive",
+          "~"
+        ],
+        [
+          "graphic-organizers-support-novice-comprehension",
+          "+"
+        ],
+        [
+          "conceptual-map-scaffolding-reduces-novice-variance",
+          "+"
+        ],
+        [
+          "interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated",
+          "~"
+        ],
+        [
+          "teacher-initiated-and-student-mediated-mapping-no-difference",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

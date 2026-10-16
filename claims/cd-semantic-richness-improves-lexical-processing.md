@@ -39,6 +39,17 @@ The chapter's narrative review of multiple studies reports that in naming and le
 
 > "In semantic tasks, such as naming and lexical decision, words that score higher on measures of CD and semantic richness are responded to more accurately and efficiently (Adelman & Brown, 2008;Jones et al., 2012; McDonald & Shillcock, 2001; Pexman, Hargreaves, Siakaluk, Bodner, & Pope, 2008 ), a result that has been replicated using different language materials and lexical data"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does meeting a word in more varied contexts, rather than only more often, make it better known?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **2 distinct studies** (1 review, 1 causal), `q2`–`q3`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Jones 2017](https://doi.org/10.1016/bs.plm.2017.03.008) | q2 · review · r3 | i? | this claim; [Contextual diversity facilitates episodic recall but impairs recognition](cd-facilitates-recall-impairs-recognition.md) (qualifies) |
+| [Johns 2016](https://doi.org/10.3758/s13423-015-0980-7) | q3 · causal · r2 | i? | [Words encountered in diverse contexts are recognized more accurately in a pseudolexical de](diverse-contexts-improve-pseudoword-recognition-accuracy.md) (supports); [Words encountered in diverse contexts are identified faster, with a mean 26-ms advantage](diverse-contexts-speed-word-identification.md) (supports); [Uniform (redundant) contexts yield higher semantic similarity ratings than diverse context](redundant-contexts-improve-semantic-representations.md) (counts against) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

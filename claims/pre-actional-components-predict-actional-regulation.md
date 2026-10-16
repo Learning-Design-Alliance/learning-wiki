@@ -42,12 +42,13 @@ Longitudinal multilevel analysis (HLM) of weekly self-reports from 194 universit
 
 ## Discussion
 
-
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
 - [Academic Anxiety](../learner-variables/academic-anxiety.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Emotion regulation is positively associated with academic motivation among university students](emotion-regulation-positively-associated-academic-motivation.md) — the general claim this finding bears on, with the studies behind it
 - [Different forms of feedback within a single ALT play distinct, phase-specific roles in SRL, with directive feedback appearing helpful before but not after task engagement](phase-specific-roles-of-feedback-forms.md) — related
 - [Transformative feedback attenuated the positive association between joy and regulatory behavior, and adaptive feedback moderation was otherwise limited, not supporting H2](transformative-feedback-attenuates-joy-regulation-link.md) — related
 - [Low- and high-proficiency EFL learners differ significantly in self-efficacy, intrinsic goal orientation, and test anxiety](proficiency-groups-differ-motivational-factors.md) — related

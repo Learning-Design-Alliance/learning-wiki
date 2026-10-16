@@ -41,11 +41,12 @@ Gender gap models estimated within each year and subject on the weighted MAP Gro
 
 ## Discussion
 
-
 ## Learner Variables
 - [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](pisa-sex-differences-math-small-reading-three-times-larger.md) — the general claim this finding bears on, with the studies behind it
 - [Black-White and Hispanic-White achievement gaps at kindergarten entry narrowed significantly between 2010 and 2017 in both math and reading](racial-ethnic-entry-gaps-narrowed-2010-2017.md) — related
 - Early female-favored mean math differences reverse to male-favored differences that widen across elementary grades — related
 - [Achievement gaps between high-poverty and low-poverty schools at kindergarten entry narrowed modestly but significantly between 2010 and 2017](school-poverty-entry-gaps-narrowed-2010-2017.md) — related

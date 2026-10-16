@@ -41,6 +41,7 @@ The article's operational definition of the constructive mode. The authors illus
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — the general claim this finding bears on, with the studies behind it
 -

@@ -41,10 +41,13 @@ A within-subjects user study in a social science academic search engine compared
 
 ## Discussion
 
-
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Students using Google produce higher-quality justifications in their final recommendations than students using ChatGPT 3.5](web-search-higher-quality-justifications-than-llm.md) — the general claim this finding bears on, with the studies behind it
+
+- [Browsing term lists (selection mode) helps searchers who do not know the exact query term](selection-mode-browsing-helps-uncertain-searchers.md) — the general claim this finding bears on, with the studies behind it
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
 - [Transparency features are shown but seldom consulted: cited sources in AI summaries were clicked in only 1% of visits](passive-transparency-seldom-consulted.md) — related

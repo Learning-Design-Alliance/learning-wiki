@@ -39,8 +39,9 @@ Bootstrapped specific indirect effects (5,000 samples) in the PLS-SEM model of 5
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) — the general claim this finding bears on, with the studies behind it
 - [AI literacy positively predicts AI-TPACK among Chinese pre-service science teachers](ai-literacy-predicts-ai-tpack-preservice-science-teachers.md) — related
 - [AI-TPACK positively predicts science teaching self-efficacy among Chinese pre-service science teachers](ai-tpack-predicts-science-teaching-self-efficacy.md) — related
 - [Focal paths are robust to background controls, which did not directly predict AI integration intention](focal-paths-robust-to-background-controls.md) — related

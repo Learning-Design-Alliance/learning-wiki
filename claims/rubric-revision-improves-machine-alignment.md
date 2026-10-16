@@ -41,8 +41,9 @@ Experiment 2 (revised rubric, direct evaluation) re-scored machine-generated que
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades](prompt-rubric-quality-drives-llm-grading.md) — the general claim this finding bears on, with the studies behind it
 - [Combining the revised rubric with rationale-first evaluation yields the highest human–machine alignment, with dimension-specific gains](combined-rubric-rationale-highest-alignment.md) — related
 - [Under the initial rubric with direct evaluation, machine raters systematically underestimate openness while relevance and clarity align near-perfectly](initial-rubric-openness-systematic-underestimation.md) — related
 - [Rationale-first evaluation improves depth alignment under the initial rubric but yields only limited gains for openness](rationale-first-limited-gains-openness.md) — related

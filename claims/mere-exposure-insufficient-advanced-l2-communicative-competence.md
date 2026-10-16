@@ -41,8 +41,11 @@ Diary-based self-study: the author, an advanced learner with 1.5 years in Englis
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Producing modified output involving developmentally advanced question forms in response to negative feedback is the only significant predictor of ESL question development](modified-output-advanced-forms-predicts-question-development.md) — the general claim this finding bears on, with the studies behind it
+
+- [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — the general claim this finding bears on, with the studies behind it
 - [Adult learners generally find pronunciation more difficult than children and are unlikely to achieve native-like pronunciation, though experience and self-monitoring offset this somewhat](adults-find-pronunciation-harder-than-children.md) — related
 - [A 2010 narrative review reports that even very advanced L2 learners read more slowly than native speakers and miss subtle anaphoric interpretation distinctions](l2-skill-never-fully-native-like.md) — related
 - Spanish business professionals develop English outside work mainly through reading in English, watching original-version television and films, and speaking with native English speaking friends — related

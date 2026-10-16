@@ -41,6 +41,9 @@ Theoretical argument by analogy in this conceptual paper: guided Thermomix cooki
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](gai-value-contingent-on-pedagogical-integration.md) — the general claim this finding bears on, with the studies behind it
+
+- [Scaffolded assistant support marks richer constructive participation at the conversation level across all six task settings](scaffolded-support-constructive-participation.md) — the general claim this finding bears on, with the studies behind it
 -

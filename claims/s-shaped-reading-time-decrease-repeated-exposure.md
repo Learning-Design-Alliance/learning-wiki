@@ -41,8 +41,9 @@ Growth curve analysis of eye-tracking data from native and non-native English sp
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — the general claim this finding bears on, with the studies behind it
 - [Reading times for unknown words decrease significantly after three to four encounters, and by eight encounters unknown words are read like known words](reading-times-drop-three-four-encounters.md) — a narrower finding that bears on this claim
 - [Number of exposures was the strongest predictor of incidental vocabulary learning of both word form and meaning](exposure-frequency-strongest-predictor-vocabulary-learning.md) — related
 - [Total reading time independently contributed to the learning of word meaning](total-reading-time-predicts-word-meaning.md) — related

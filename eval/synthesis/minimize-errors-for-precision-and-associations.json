@@ -33,6 +33,34 @@
         [
           "overt-error-correction-speeds-young-children-learning",
           "+"
+        ],
+        [
+          "feedback-reduces-lure-intrusions",
+          "+"
+        ],
+        [
+          "feedback-neutralizes-prior-study-effects",
+          "+"
+        ],
+        [
+          "feedback-after-multiple-choice-tests-halves-lure-intrusions",
+          "+"
+        ],
+        [
+          "repeated-recall-without-feedback-beats-repeated-study-at-one-week-but-not-five-minutes",
+          "~"
+        ],
+        [
+          "immediate-feedback-limits-downstream-error-learning",
+          "~"
+        ],
+        [
+          "detailed-answer-keys-improve-momentum-only",
+          "~"
+        ],
+        [
+          "mc-testing-effect-and-net-harm-boundary",
+          "+"
         ]
       ]
     }

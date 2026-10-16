@@ -12,7 +12,7 @@ generated:
 # Swain's output hypothesis
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 11 claims (5 for, 6 mixed) · 5 studies (4 qualitative, 1 review), `q1`–`q2` · 0 of 5 report an effect size · 11 claims rest on one study
+> **Evidence** · 12 claims (6 for, 6 mixed) · 6 studies (4 qualitative, 1 causal, 1 review), `q1`–`q3` · 0 of 6 report an effect size · 12 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ej1095572, eric-ej1195386, eric-ej420159, eric-ed338037, eric-ej1155586, eric-ej1208383, eric-ej1144345, eric-ej1071042, eric-ej912912. The primary works in Key Sources were verified against Crossref but not read. -->
 

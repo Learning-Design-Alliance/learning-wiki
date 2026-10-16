@@ -26,7 +26,7 @@ sources:
 # Speech-to-text
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (7 mixed, 1 against) · 16 studies (4 associational, 4 qualitative, 2 causal, 2 review, 2 design, 1 quant-synthesis, 1 theoretical), `q2`–`q4` · 0 of 16 report an effect size · 4 claims rest on one study
+> **Evidence** · 10 claims (1 for, 7 mixed, 2 against) · 18 studies (5 associational, 5 qualitative, 2 causal, 2 review, 2 design, 1 quant-synthesis, 1 theoretical), `q2`–`q4` · 0 of 18 report an effect size · 6 claims rest on one study
 
 ## Description
 Speech-to-text converts spoken language into written text, giving learners another route for composing, capturing ideas, and participating in text-based environments. Its instructional value is not just accommodation, although that is often essential. It can reduce transcription barriers, help learners externalize ideas more quickly, and support drafting when handwriting or keyboarding would otherwise consume too much effort.

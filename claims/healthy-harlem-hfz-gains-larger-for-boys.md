@@ -41,11 +41,12 @@ Moderator finding from the Healthy Harlem evaluation brief: among students in th
 
 ## Discussion
 
-
 ## Learner Variables
 - [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [GenAI function, intervention duration, publication year, and gender were not significant moderators of GenAI's motivational effect](genai-motivation-null-moderators-function-duration-year-gender.md) — the general claim this finding bears on, with the studies behind it
 - [Healthy Harlem generally increased students' fitness levels, with variation by gender](healthy-harlem-fitness-gains-vary-by-gender.md) — a broader claim this one bears on
 - [The percentage of students in the targeted Harlem Fitness Zone was significantly greater after two and three years of participation than at baseline](healthy-harlem-hfz-percentage-greater-than-baseline.md) — related
 - [Healthy Harlem had some positive impacts on other measures of student self-efficacy and social support](healthy-harlem-self-efficacy-social-support-impacts.md) — related

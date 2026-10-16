@@ -39,6 +39,20 @@ ANCOVA with pretest CPS as covariate compared 30 experimental (GAI tools) vs 30 
 
 > "there was a significant difference between the two groups in students' overall CPS scores (F = 10.69, p < 0.01) with a large effect size (η2 = 0.16)"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do AI tools in a group's workspace improve its collaborative problem solving, and how does the way a group works with the AI change the result?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **5 distinct studies** (2 causal, 1 qualitative, 1 design, 1 associational), `q2`–`q3`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Wei 2025](https://doi.org/10.1186/s41239-025-00526-0) | q3 · causal · r2 | i3; i2 | this claim; [GAI-assisted DST creation significantly enhanced all five CPS sub-dimensions compared to t](gai-assisted-dst-improves-cps-subdimensions.md) (supports); [Both GAI-assisted and traditional DST groups improved in CPS skills over the 20-week progr](both-groups-improved-cps-gai-larger-gains.md) (supports); [GAI-assisted DST creation produced significantly better team creativity performance than t](gai-assisted-dst-improves-team-creativity.md) (supports) |
+| [Jinhee Kim 2026](https://doi.org/10.1007/s11423-026-10655-6) | q2 · qualitative · r? | i? | [Adult learners perceive AI collaborative workspaces as fostering equitable participation a](ai-workspaces-equitable-collaborative-problem-solving.md) (supports); [Adult learners view AI as a collaborative learning agent for solving complex problems, sha](ai-as-collaborative-learning-agent.md) (supports) |
+| [Kostopoulos 2025](https://doi.org/10.1109/access.2025.3620473) | q2 · design · r? | i? | [Embodied GenAI agents in mixed reality raised engagement and lowered cognitive load for 26](embodied-mr-agents-engagement-cognitive-load-26-learners.md) (qualifies) |
+| [Zhanxin Hao 2025](https://doi.org/10.48550/arxiv.2603.21288) | q2 · associational · r1 | i? | [The Delegated Reasoning group significantly outperformed the Concerted Interpretation grou](dr-outperforms-ci-task-performance.md) (qualifies); [Cluster analysis of student-AI dialogue identifies three distinct collaboration profiles: ](three-human-ai-cps-profiles-dr-ci-de.md) (qualifies); [The Concerted Interpretation group reported significantly higher self-regulation than Dele](ci-higher-self-regulation-no-coreg-differences.md) (qualifies) |
+| [Allison Mool · Jacob Schmid · Thomas Johnston · Kodi J. Smith McCoy · Zachary Patterson · Hannah Feldt · William Thomas · Emma Fenner · Kevin Lu · Raya Gandhi · Adam Western · Brendan Seabold · Daniel Vollmer · Roshan Nallaveettil · Anthony Fanelli · Logan Schmillen · Shelley Tischkau · Anna T. Cianciolo · Pinckney Benedict · Richard Selinfreund 2026](https://doi.org/10.1007/s10758-025-09929-4) | q2 · causal · r1 | i? | [GenAI students collaboratively phrased and troubleshooted questions, with collaborative pr](genai-collaborative-troubleshooting-varied-by-group.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

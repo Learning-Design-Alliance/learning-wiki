@@ -58,6 +58,19 @@ The review reports, citing Beal & Rosenblum (2018), that BVI students felt motiv
 
 > "In contrast, students felt motivated to use an iPad app to solve pre-algebra word problems (Beal & Rosenblum, 2018), and even performed slightly better with the app than with their traditional methods."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Which routes into the content work for learners with visual or hearing impairments?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (2 qualitative, 1 review, 1 theoretical), `q1`–`q2`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Steinbach 2022 | q2 · review · r2 | i? | this claim |
+| [score-1](https://doi.org/10.48550/arxiv.2607.18598) | q2 · qualitative · r3 | i? | [Score-access barriers push musicians with BLV toward memorization and listening-based lear](blv-score-access-memorization-default.md) (qualifies) |
+| score-2 | q2 · qualitative · r3 | i? | [Score-access barriers push musicians with BLV toward memorization and listening-based lear](blv-score-access-memorization-default.md) (qualifies) |
+| Carder 1996 | q1 · theoretical · r1 | i? | [Hearing-impaired students learn library skills quickly via the \"showand do\" demonstratio](show-and-do-method-hearing-impaired-students.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

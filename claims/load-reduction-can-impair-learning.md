@@ -41,11 +41,12 @@ Theoretical argument in the article's abstract: the authors analyze the conceptu
 
 ## Discussion
 
-
 ## Learner Variables
 - [Working Memory](../learner-variables/working-memory.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — reports the opposite
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — related
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related

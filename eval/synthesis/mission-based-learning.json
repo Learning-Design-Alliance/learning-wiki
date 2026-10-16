@@ -1,0 +1,40 @@
+{
+  "principle": "elements/mission-based-learning",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "goal-setting-improves-performance",
+      "question": "Does a specific, challenging goal raise performance over no goal or a vague 'do your best'?",
+      "members": [
+        [
+          "specific-difficult-goals-lead-to-higher-performance",
+          "+"
+        ],
+        [
+          "implementation-intentions-improve-goal-attainment",
+          "+"
+        ],
+        [
+          "implementation-intentions-d65-goal-attainment-meta-analysis",
+          "+"
+        ],
+        [
+          "process-goals-outperform-outcome-goals-for-novices",
+          "~"
+        ],
+        [
+          "goal-intention-alone-insufficient-for-achievement",
+          "~"
+        ],
+        [
+          "young-children-set-goals-sdlmi-achieve",
+          "+"
+        ],
+        [
+          "proximal-goals-feedback-peer-models-build-learning-efficacy",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

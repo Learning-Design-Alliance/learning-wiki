@@ -42,8 +42,9 @@ Repeated-measures Wilcoxon signed-rank analysis of Part 2 self-assessment WTC sc
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Studies directly measuring WTC consistently report positive effects of AI on EFL learners' WTC across tool types, contexts, and age groups](ai-directly-enhances-efl-wtc.md) — the general claim this finding bears on, with the studies behind it
 - [Interpersonal audio discussions with feedback and self-assessment elicit a statistically significant increase in introductory L2 learners' perceived pronunciation ability](audio-discussions-increase-perceived-pronunciation-ability.md) — related
 - Individual WTC variables (confidence, motivation, perceived performance, anxiety) correlate positively with overall WTC throughout interpersonal audio discussion activities — related
 - [Students reported significantly less difficulty with comprehensibility and accuracy of pronunciation between the first and final audio discussion activity](decreased-perceived-pronunciation-difficulty.md) — related

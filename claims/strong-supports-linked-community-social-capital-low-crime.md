@@ -40,6 +40,20 @@ Community-context analysis using social capital measures from PHDCN surveys, Chi
 
 > "Schools with strong supports also were found more often in communities with a low crime rate, and they were far more likely to exist in school communities with a low density of abused or neglected children."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do community context and relational trust condition whether a school builds the supports and improves?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **5 distinct studies** (4 associational, 1 qualitative), `q2`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Sebring 2006 | q2 · associational · r2 | i? | this claim; [School improvement rates varied by community type: Latino, racially diverse, and integrate](improvement-rates-vary-community-racial-composition.md) (supports) |
+| Easton 1991 | q2 · associational · r2 | i? | [Racial composition, student mobility, limited-English percentage, and low-income concentra](demographics-not-independent-reform-predictors.md) (qualifies) |
+| Stuart Luppescu and Holly Hart 2005 | q2 · associational · r2 | i? | [Teacher-principal trust is far more prevalent in top-quartile schools than bottom-quartile](teacher-principal-trust-top-vs-bottom-quartile.md) (supports) |
+| Sebring 1995 | q2 · associational · r1 | i? | [Parental support for student learning is substantially higher in top-quartile schools than](parental-support-higher-top-quartile-schools.md) (supports) |
+| Rural Turnaround: Challenges and Opportunities 2014 | q2 · qualitative · r1 | i? | [Strong local community connections and commitment can provide one of the biggest boosts to](rural-community-commitment-boosts-turnaround.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

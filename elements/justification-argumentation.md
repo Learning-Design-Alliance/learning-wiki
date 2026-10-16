@@ -18,7 +18,7 @@ sources:
 # Justification & Argumentation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 8 studies (2 quant-synthesis, 2 associational, 1 causal, 1 review, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 8 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 11 studies (3 causal, 3 quant-synthesis, 2 associational, 1 review, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 11 report an effect size · 5 claims rest on one study
 
 ## Description
 Justification and argumentation require learners to support a claim with evidence and explicit reasoning, and often to respond to counterarguments and rebuttals. Rather than receiving conclusions, learners must construct, defend, and critique them — making the epistemic work of a discipline (what counts as evidence, what makes reasoning valid) visible and practiced.

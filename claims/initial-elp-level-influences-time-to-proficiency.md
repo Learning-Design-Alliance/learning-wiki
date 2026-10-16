@@ -41,10 +41,11 @@ The executive summary describes Chapter III, where a descriptive approach and an
 
 ## Discussion
 
-
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
 - [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](oral-language-predicts-reading-achievement.md) — the general claim this finding bears on, with the studies behind it
 - There is a conceptual disconnect between meeting the Title III English proficient standard and exiting EL status under Title I — related

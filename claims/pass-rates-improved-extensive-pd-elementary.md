@@ -60,7 +60,8 @@ Analysis of math course grades from hierarchical linear models across the three 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](fifty-hours-content-specific-pd.md) — the general claim this finding bears on, with the studies behind it
 - In Chicago middle grades, schools with more extensive CCSS-M professional learning showed significantly greater post-implementation improvements in instructional practices, math grades, pass rates, and test scores — related
 - [In elementary grades, students in schools with extensive standards-related professional development reported significantly larger improvements in academic demand, rigor, instructional clarity, and teacher support than students in schools with limited professional development](extensive-pd-larger-instructional-improvements-elementary.md) — related

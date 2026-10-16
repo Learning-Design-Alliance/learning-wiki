@@ -82,18 +82,21 @@ Stefanou and colleagues propose that classroom autonomy support takes at least t
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **8 distinct studies** (3 review, 2 theoretical, 1 quant-synthesis, 1 causal, 1 associational), `q1`–`q4`, 1 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **11 distinct studies** (4 review, 2 quant-synthesis, 2 theoretical, 1 causal, 1 design, 1 associational), `q1`–`q4`, 2 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Ryan Deci 2000](https://doi.org/10.1037/0003-066x.55.1.68) | q2 · review · r? | i? | this claim |
 | [Deci Koestner Ryan 1999](https://doi.org/10.1037/0033-2909.125.6.627) | q4 · quant-synthesis · r2 | i2 · medium effect, d = -0.4 | this claim |
 | [Stefanou et al 2004](https://doi.org/10.1207/s15326985ep3902_2) | q1 · theoretical · r2 | i? | this claim |
-| Jennifer D. Moss 2017 | q1 · theoretical · r2 | i? | [Autonomy-supportive teaching contrasts with controlling teaching, and controlled students ](autonomy-support-versus-controlling-teaching.md) (supports) |
+| [Su 2011](https://doi.org/10.1007/s10648-010-9142-7) | q2 / q3 · quant-synthesis · r2 | i2; i? | [Autonomy-supportive training programs are overall effective, with a weighted effect size o](autonomy-support-training-effective-d63.md) (supports); [More effective autonomy-support training programs trained multiple elements of autonomy su](multiple-elements-moderator-autonomy-training.md) (qualifies); [More effective programs targeted teachers, trainees, and individuals with an autonomy caus](recipient-moderators-teachers-trainees-autonomy-orientation.md) (qualifies) |
 | Digital Promise and the Institute for Applied Neuroscience 2019 | q2 · review · r1 | i? | [Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper process](interest-autonomy-purpose-boost-motivation.md) (supports) |
 | [Yu S 2026](https://doi.org/10.3389/fpsyg.2026.1937845) | q3 · causal · r3 | i? | [Instructional approach operates indirectly through autonomy and competence, while task typ](differentiated-mediation-autonomy-competence.md) (supports) |
-| [Li 2026](https://doi.org/10.3389/fpsyg.2026.1871022) | q3 · associational · r2 | i? | [External Mandate shows no significant direct relationship with Deep Revision Engagement](external-mandate-no-direct-effect-deep-revision.md) (qualifies) |
 | [Hansol Lee 2026](https://doi.org/10.1186/s40561-026-00461-1) | q2 · review · r3 | i? | [Teacher support in AI-based instruction is effective only when balanced with students' aut](teacher-support-benefits-conditional-on-autonomy-balance.md) (qualifies) |
+| Luke 2016 | q2 · design · r2 | i? | [Educator involvement in choosing a pilot tool is associated with higher engagement and imp](educator-buy-in-engagement-fidelity-edtech-pilots.md) (supports) |
+| [Fusco 2025](https://doi.org/10.51388/20.500.12265/252) | q2 · review · r2 | i? | [Formative assessment is theorized to foster motivation by supporting autonomy, competence,](formative-assessment-fosters-motivation-autonomy-competence-relatedness.md) (supports) |
+| Jennifer D. Moss 2017 | q1 · theoretical · r2 | i? | [Autonomy-supportive teaching contrasts with controlling teaching, and controlled students ](autonomy-support-versus-controlling-teaching.md) (supports) |
+| [Li 2026](https://doi.org/10.3389/fpsyg.2026.1871022) | q3 · associational · r2 | i? | [External Mandate shows no significant direct relationship with Deep Revision Engagement](external-mandate-no-direct-effect-deep-revision.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

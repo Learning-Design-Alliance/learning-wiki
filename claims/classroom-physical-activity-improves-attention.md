@@ -63,13 +63,14 @@ A registered systematic review of single (acute) bouts of classroom movement bre
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does physical activity during the school day (movement breaks, active lessons, organised active recess) improve children's on-task behavior and readiness for class?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **3 distinct studies** (1 quant-synthesis, 1 review, 1 causal), `q3`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does physical activity during the school day (movement breaks, active lessons, organised active recess) improve children's on-task behavior and readiness for class?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **4 distinct studies** (2 causal, 1 quant-synthesis, 1 review), `q3`, 2 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Watson et al. 2017](https://doi.org/10.1186/s12966-017-0569-9) | q3 · quant-synthesis · r2 | i2 · medium effect on classroom behaviour, SMD=0.60 (95% CI 0.20–1.00) | this claim |
 | [Daly-Smith et al. 2018](https://doi.org/10.1136/bmjsem-2018-000341) | q3 · review · r2 | i? | this claim |
-| Martha Bleeker 2012 | q3 · causal · r2 | i? | [Teachers in Playworks schools reported significantly better student behavior at recess and](playworks-better-recess-behavior-and-class-readiness.md) (supports); [Playworks made transitions from recess to classroom learning less difficult, per teacher r](playworks-easier-recess-to-classroom-transitions.md) (supports); [Students in Playworks schools reported better behavior and attention in class after sports](playworks-students-reported-better-behavior-attention-after-play.md) (supports) |
+| [Mahar 2006](https://doi.org/10.1249/01.mss.0000235359.16685.a3) | q3 · causal · r2 | i1; i3 | [Systematic implementation of Energizers improves on-task behavior during academic instruct](energizers-improved-on-task-behavior.md) (supports); [The least on-task students show the largest improvement after Energizers activities, impro](energizers-least-on-task-students-largest-gain.md) (supports) |
+| Martha Bleeker 2012 | q3 · causal · r? | i? | [Students in Playworks schools reported better behavior and attention in class after sports](playworks-students-reported-better-behavior-attention-after-play.md) (supports); [Teachers in Playworks schools reported significantly better student behavior at recess and](playworks-better-recess-behavior-and-class-readiness.md) (supports); [Playworks made transitions from recess to classroom learning less difficult, per teacher r](playworks-easier-recess-to-classroom-transitions.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -88,6 +89,8 @@ A registered systematic review of single (acute) bouts of classroom movement bre
 - [Executive Function](../learner-variables/executive-function.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [CCT shows no significant effects on executive functions or attention in healthy older adults](cct-no-effect-executive-attention.md) — the general claim this finding bears on, with the studies behind it
 
 - [Acute exercise timing affects memory](acute-exercise-timing-memory.md) — when activity occurs relative to learning changes whether it helps encoding or consolidation
 - [Active learning improves exam performance](active-learning-improves-exam-performance.md) — movement-based active learning pairs attentional benefits with deeper processing

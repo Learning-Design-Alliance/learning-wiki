@@ -63,11 +63,12 @@ The review reports that across three Kornell (2014) experiments with trivia fact
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should corrective feedback come immediately after a response, or can it wait?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **7 distinct studies** (5 review, 1 causal, 1 theoretical), `q2`–`q3`, 0 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should corrective feedback come immediately after a response, or can it wait?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **8 distinct studies** (6 review, 1 causal, 1 theoretical), `q1`–`q3`, 0 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Steven C. Pan 2023](https://doi.org/10.1007/s10648-023-09814-5) | q2 · review · r3 | i? | this claim |
+| [Kenneth R. Koedinger 2007](https://doi.org/10.1007/s10648-007-9049-0) | q1 · review · r? | i? | [Immediate-feedback tutors allow learning from errors but deny learning from their downstre](immediate-feedback-limits-downstream-error-learning.md) (qualifies) |
 | [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r3 | i? | [Providing feedback after initial multiple-choice tests cut lure intrusions on final short-](feedback-after-multiple-choice-tests-halves-lure-intrusions.md) (qualifies) |
 | [Zou 2019](https://doi.org/10.5539/elt.v12n12p39) | q2 · review · r? | i? | [Incidental vocabulary gains show retention problems, with losses over time moderated by fe](incidental-vocabulary-retention-problems.md) (qualifies) |
 | Weiss 1980 | q2 · causal · r? | i? | [Immediate knowledge of results during computerized achievement testing produces essentiall](knowledge-of-results-no-effect-achievement-test-dimensionality.md) (qualifies) |

@@ -39,6 +39,21 @@ Theoretical assertion in the discussion, attributed by the article to Coeckelber
 
 > "AI systems are never neutral tools (Coeckelberg, 2023); they embed cultural assumptions, economic and political interests, and power relations (Crawford, 2021), mediating human activity in distinctive ways (Hopwood, 2023)."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do the assumptions built into an AI tool carry into what learners write and the feedback they get, and does configuring the tool change that?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **6 distinct studies** (2 causal, 2 qualitative, 1 theoretical, 1 review), `q1`–`q2`, 1 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Juliana Elisa Raffaghelli 2026](https://doi.org/10.1016/j.caeo.2026.100368) | q1 · theoretical · r2 | i? | this claim |
+| [Ariyan Hossain 2026](https://doi.org/10.48550/arxiv.2606.15914) | q2 · causal · r2 | i3; i2; i? | [Students assisted by a gender-biased LLM produce career-plan essays with a significantly l](biased-llm-assistance-increases-agentic-gap-student-essays.md) (supports); [Biased LLM assistance increases students' gender-stereotypic occupational recommendations:](biased-llm-assistance-raises-stereotype-congruence-career-choices.md) (supports); [Students exposed to the biased LLM showed no awareness of its influence, reporting lower p](bias-transfer-without-awareness-llm-writing.md) (supports); [Bias transfer is asymmetric: prompt condition affects agency in female-target essays but n](asymmetric-female-agency-suppression-bias-transfer.md) (qualifies); [A neutrally configured LLM assistant produced the lowest rate of gender-stereotypic occupa](neutral-llm-assistant-attenuates-baseline-stereotyping.md) (qualifies) |
+| [Tan et al. 2026](https://doi.org/10.1145/3785022.3785113) | q2 · causal · r2 | i? | [Race prompts elicit culturally stereotyped feedback: Black, Hispanic, and Asian students a](race-prompts-cultural-stereotype-feedback.md) (supports) |
+| [Jean-Pierre Briot 2026](https://doi.org/10.48550/arxiv.2608.05176) | q2 · review · r1 | i? | [AI-assisted outputs are more similar to each other than purely human-authored ones, indica](ai-assisted-outputs-homogenization-risk.md) (supports) |
+| [Zhaozhe Wang 2025](https://doi.org/10.1016/j.compcom.2025.102933) | q2 · qualitative · r2 | i? | [Despite a student's claims of purely human authorial agency, posthumanist analysis of his ](zhimo-revision-meaning-negotiation.md) (supports) |
+| [Raigul Zheldibayeva 2025](https://doi.org/10.48550/arxiv.2605.17055) | q2 · qualitative · r3 | i? | [Interactive dialogue with the AI tool, available only in some sites, promoted deeper engag](interactive-genai-dialogue-promotes-engagement.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

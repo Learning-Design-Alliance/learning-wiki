@@ -13,7 +13,7 @@ generated:
 # Direct instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 8 studies (3 causal, 3 review, 2 theoretical), `q1`–`q3` · 0 of 8 report an effect size · 2 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 mixed) · 12 studies (4 causal, 4 review, 2 quant-synthesis, 2 theoretical), `q1`–`q4` · 1 of 12 report an effect size · 4 claims rest on one study
 
 ## Description
 Direct instruction presents new content through explicit explanations, lectures, or demonstrations, with the instructor structuring the sequence of examples, practice, and feedback. It makes the target knowledge and procedures overt rather than leaving learners to discover them, and typically follows a model–guide–test progression from full support to independent performance.

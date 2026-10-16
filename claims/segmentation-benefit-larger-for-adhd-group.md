@@ -67,6 +67,8 @@ Simple-effects table (Table 8) of segmentation benefit by group on hesitations: 
 
 ## Related Claims
 
+- [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Learners with high prior knowledge benefit more from segmenting in retention performance than learners with no or low prior knowledge](prior-knowledge-moderates-segmenting-retention.md) — the general claim this finding bears on, with the studies behind it
 
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — the general claim this finding bears on, with the studies behind it

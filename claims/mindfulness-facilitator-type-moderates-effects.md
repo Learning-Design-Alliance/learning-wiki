@@ -41,7 +41,8 @@ Meta-analytic moderator analysis of delivery-agent characteristics across the 24
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The evidence base for school mindfulness interventions is promising but too variable for definitive practice recommendations](mbi-evidence-base-variability-limitation.md) — the general claim this finding bears on, with the studies behind it
 - [Individual differences and program characteristics impact receptivity and effectiveness of school-based mindfulness training](individual-differences-program-characteristics-shape-mindfulness-effectiveness.md) — a broader claim this one bears on
 - [School-based mindfulness interventions produce small-to-moderate significant pre-post improvements in youth mental health and well-being compared to control groups](school-mindfulness-small-moderate-effect-youth-mental-health.md) — related

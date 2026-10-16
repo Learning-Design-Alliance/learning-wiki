@@ -58,6 +58,17 @@ The final-exam t-test did not reach significance, but the article reports a prin
 
 > "For the final exam, while not statistically significant, a trend emerged showing higher average scores for self-created cheat sheet users (mean = 69.5) compared to those who used instructor-provided cheat sheets (mean = 61.8), where𝑡=− 1.65,𝑝= 0.13,𝐶𝑜ℎ𝑒𝑛′𝑠𝑑=− 0.63."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Should learners take a cheat sheet or notes into the final, and does making their own sheet help?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **2 distinct studies** (1 associational, 1 review), `q2`–`q3`, 1 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Helen Weixu Chen 2026](https://doi.org/10.1145/3834566) | q3 · associational · r1 | i1; i2; i? | this claim; [Most participants reported that cheat sheets boosted their confidence and efficiency durin](cheatsheets-boost-confidence-efficiency.md) (qualifies); [Self-created cheat sheet users reported significantly longer midterm preparation time than](self-created-cheatsheets-longer-midterm-prep-time-only.md) (qualifies); [Most students used cheat sheets as an occasional backup or continuous aid rather than a on](cheatsheet-continuous-reference-dominant-usage.md) (qualifies) |
+| [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r3 | i? | [The same quizzing or concept-mapping activity produces more learning when done without vie](closed-book-versions-of-quizzes-and-concept-maps-outperform-open-book-versions.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

@@ -41,8 +41,9 @@ The review's cross-study synthesis identifies moderator variables of FFI success
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — the general claim this finding bears on, with the studies behind it
 - [FFI involving extensive instruction directed at simple structures was more likely to succeed in developing implicit knowledge](extensive-ffi-simple-structures-more-likely-to-succeed.md) — a narrower finding that bears on this claim
 - [Form-focused instruction can contribute to the acquisition of second language implicit knowledge, as shown in studies measuring learners' free production](ffi-contributes-to-implicit-l2-knowledge.md) — a broader claim this one bears on
 - [Limited instruction directed at complex structures also proved effective, provided the target structures are readily available in noninstructional input](limited-ffi-complex-structures-effective-with-input-availability.md) — a narrower finding that bears on this claim

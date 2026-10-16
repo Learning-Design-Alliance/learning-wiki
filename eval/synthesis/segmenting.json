@@ -45,6 +45,22 @@
         [
           "animations-pacify-learners-navigation-imbalance",
           "~"
+        ],
+        [
+          "segmentation-benefit-larger-for-adhd-group",
+          "~"
+        ],
+        [
+          "mooc-engagement-declines-with-video-length",
+          "+"
+        ],
+        [
+          "interpolated-questions-improve-video-learning",
+          "+"
+        ],
+        [
+          "segmentation-improves-learning-dynamic-visualizations",
+          "+"
         ]
       ]
     },
@@ -52,6 +68,26 @@
       "hub": "learner-paced-beats-system-paced-complex-material",
       "question": "Who should set the pauses, and do pause controls do the same job as designed segments?",
       "members": [
+        [
+          "self-paced-mastery-programs-reduce-college-course-completion",
+          "~"
+        ],
+        [
+          "online-charters-effectiveness-concern",
+          "-"
+        ],
+        [
+          "online-charters-low-live-teacher-contact-time",
+          "~"
+        ],
+        [
+          "online-charters-engagement-greatest-challenge",
+          "~"
+        ],
+        [
+          "online-charters-dominant-independent-study-mode",
+          "~"
+        ],
         [
           "segmenting-effects-confirmed-system-paced",
           "~"
@@ -93,10 +129,6 @@
           "~"
         ],
         [
-          "self-paced-mastery-programs-reduce-college-course-completion",
-          "-"
-        ],
-        [
           "learner-characteristics-moderate-hypermedia-effectiveness",
           "~"
         ],
@@ -111,6 +143,14 @@
         [
           "hint-avoidance-related-greater-wheel-spinning",
           "~"
+        ],
+        [
+          "students-report-routines-help-and-rushed-pacing-hurts",
+          "+"
+        ],
+        [
+          "pacing-calendars-standardized-assessments-impediments",
+          "+"
         ]
       ]
     },

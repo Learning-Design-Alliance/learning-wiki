@@ -107,11 +107,12 @@ Key finding comparing credential completion between CBE participants and nonpart
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does a competency-based programme, taken as a whole, raise completion and achievement over a time-based one?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **3 distinct studies** (3 causal), `q2`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does a competency-based programme, taken as a whole, raise completion and achievement over a time-based one?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **4 distinct studies** (3 causal, 1 associational), `q2`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | Person 2016 | q2 · causal · r1 | i? | this claim; [Consortium-wide, 35 percent of participants completed a grant-funded program of study, wit](cbe-participants-completion-employment-wages.md) (qualifies); [CBE participants completed programs quickly, averaging less than two terms to a first indu](cbe-fast-completion-two-terms-certification-four-terms-credentials.md) (qualifies) |
+| Ann Person 2016 | q2 · associational · r? | i? | this claim; [Consortium-wide, 35 percent of participants completed a grant-funded program of study, wit](cbe-participants-completion-employment-wages.md) (qualifies); [CBE participants completed programs quickly, averaging less than two terms to a first indu](cbe-fast-completion-two-terms-certification-four-terms-credentials.md) (qualifies) |
 | [Pane et al. 2017](https://doi.org/10.7249/rr2042) | q2 · causal · r2 | i0 · negligible-to-small, overall effect size 0.09 SD (math, sig.) / 0.07 SD (reading, n.s.) | [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) (qualifies) |
 | [John F. Pane 2015](https://doi.org/10.7249/rr1365) | q2 · causal · r2 | i? | [Implementation of competency-based progression was limited by a perceived need to emphasiz](competency-progression-limited-grade-level-emphasis.md) (qualifies) |
 <!-- synthesis:end -->

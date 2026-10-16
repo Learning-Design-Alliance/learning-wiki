@@ -1,0 +1,96 @@
+{
+  "principle": "principles/skills-sprint",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "learner-paced-beats-system-paced-complex-material",
+      "question": "Who should control the pace: the system or the learner?",
+      "members": [
+        [
+          "self-paced-mastery-programs-reduce-college-course-completion",
+          "~"
+        ],
+        [
+          "online-charters-effectiveness-concern",
+          "-"
+        ],
+        [
+          "online-charters-low-live-teacher-contact-time",
+          "~"
+        ],
+        [
+          "online-charters-engagement-greatest-challenge",
+          "~"
+        ],
+        [
+          "online-charters-dominant-independent-study-mode",
+          "~"
+        ],
+        [
+          "segmenting-effects-confirmed-system-paced",
+          "~"
+        ],
+        [
+          "design-principle-effects-moderated-by-pacing-and-complexity",
+          "~"
+        ],
+        [
+          "flow-control-unused-no-learning-correlation",
+          "~"
+        ],
+        [
+          "animations-pacify-learners-navigation-imbalance",
+          "~"
+        ],
+        [
+          "students-pause-video-to-view-segment-menu",
+          "~"
+        ],
+        [
+          "forced-pacing-eliminates-aiding-transfer",
+          "~"
+        ],
+        [
+          "self-controlled-kr-decided-after-trial-improves-motor-retention",
+          "~"
+        ],
+        [
+          "self-controlled-kr-decided-after-trial-improves-motor-transfer",
+          "~"
+        ],
+        [
+          "self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked",
+          "~"
+        ],
+        [
+          "self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy",
+          "~"
+        ],
+        [
+          "learner-characteristics-moderate-hypermedia-effectiveness",
+          "~"
+        ],
+        [
+          "hint-budget-mismanaged-two-patterns",
+          "~"
+        ],
+        [
+          "annotated-videodisc-beats-videotape-retention-recall",
+          "+"
+        ],
+        [
+          "hint-avoidance-related-greater-wheel-spinning",
+          "~"
+        ],
+        [
+          "students-report-routines-help-and-rushed-pacing-hurts",
+          "+"
+        ],
+        [
+          "pacing-calendars-standardized-assessments-impediments",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

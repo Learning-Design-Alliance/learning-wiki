@@ -43,5 +43,7 @@ Moderator analyses across the 192-effect-size dataset examined conditions under 
 
 ## Related Claims
 
+- [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — the general claim this finding bears on, with the studies behind it
+
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — the general claim this finding bears on, with the studies behind it
 -

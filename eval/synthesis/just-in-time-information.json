@@ -1,0 +1,74 @@
+{
+  "principle": "elements/just-in-time-information",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read. No claim in the wiki tests the timing of information presentation itself (Kester et al. 2004 has no claim page); both findings are about on-demand hints.",
+  "findings": [
+    {
+      "hub": "chatgpt-hints-significant-gains-versus-control",
+      "question": "Do hints given on demand at the step where the learner is stuck improve learning over working without them?",
+      "members": [
+        [
+          "chatgpt-gains-equivalent-human-tutor-hints",
+          "+"
+        ],
+        [
+          "condition-subject-main-effects-no-interaction",
+          "~"
+        ],
+        [
+          "hint-conditions-time-on-task",
+          "~"
+        ],
+        [
+          "genai-hints-effective-but-require-validation",
+          "+"
+        ],
+        [
+          "chatgpt-hint-error-rate-self-consistency",
+          "~"
+        ],
+        [
+          "gpt4-feedback-66-percent-targeted-35-percent-flawed",
+          "~"
+        ],
+        [
+          "ai-hints-aligned-exam-performance-only",
+          "~"
+        ],
+        [
+          "gpt-tutor-improves-practice-more-than-gpt-base",
+          "+"
+        ],
+        [
+          "advanced-students-attempt-reduction-novices-not",
+          "~"
+        ],
+        [
+          "learners-prefer-incremental-hints-over-solutions",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "ai-help-seeking-is-a-skill",
+      "question": "Do learners ask for on-demand help when they need it, and can that be taught?",
+      "members": [
+        [
+          "students-avoid-help-seeking-despite-need",
+          "+"
+        ],
+        [
+          "hint-avoidance-related-greater-wheel-spinning",
+          "+"
+        ],
+        [
+          "hint-budget-mismanaged-two-patterns",
+          "+"
+        ],
+        [
+          "helpcoach-greater-knowledge-retention-one-week",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -39,6 +39,7 @@ Narrative review of TAP evidence: the article reports compatible results (e.g., 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The classroom testing effect transfers to mismatched test formats, but consistent quiz–exam formats yield a significantly larger effect (g = 0.531 vs. g = 0.399).](format-consistency-moderates-classroom-testing-effect.md) — the general claim this finding bears on, with the studies behind it
 -

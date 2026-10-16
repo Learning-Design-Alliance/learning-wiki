@@ -41,11 +41,12 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 
 ## Discussion
 
-
 ## Learner Variables
 - [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — the general claim this finding bears on, with the studies behind it
 - [Secondary students report near-maximum confidence in passive digital tasks but sharply lower confidence in active creation and algorithmic logic](confidence-competence-divide-passive-vs-active-creation.md) — related
 - [The technological gender gap emerges only within Technology-oriented pathways, with parity in Arts and Sciences](gender-gap-emerges-only-in-technology-pathway.md) — a narrower finding that bears on this claim
 - Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples — related

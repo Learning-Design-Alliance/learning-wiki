@@ -43,6 +43,26 @@ Barroso, C., Ganley, C. M., McGraw, A. L., Geer, E. A., Hart, S. A., & Daucourt,
 
 Multilevel meta-analysis of 223 studies published 1992–2018, modeling 747 correlation coefficients from 332 independent samples (~385,441 participants) to account for non-independence among effect sizes from the same sample. The pooled correlation between math anxiety and math achievement was r = −.28 (small-to-moderate, negative, statistically significant), and the relation held for nearly every moderator subgroup tested (grade level, math-ability level, adolescent/adult anxiety scales, math topic of the anxiety scale, and assessment type), with the sole exception of anxiety and approximate-number-system tasks. Grade level, ability level, and scale/assessment type were significant moderators of the size of the relation, and effect sizes were somewhat weaker in grades 3–5 and postsecondary samples than at other ages.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do learners with higher anxiety about a subject or a test achieve less in it?* This table gathers the studies behind this claim and the 13 narrower claims that bear on it: **11 distinct studies** (3 review, 2 quant-synthesis, 2 associational, 2 causal, 1 qualitative, 1 theoretical), `q1`–`q4`, 4 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Barroso et al. 2021](https://doi.org/10.1037/bul0000307) | q3 · quant-synthesis · r2 | i2 · medium effect, r=-.28 | this claim |
+| [Yasser Teimouri 2019](https://doi.org/10.1017/s0272263118000311) | q3 / q4 · quant-synthesis · r2 | i2; i? | [L2 anxiety is negatively correlated with L2 achievement, with a mean correlation of r = −.](l2-anxiety-negative-correlation-achievement-meta-analysis.md) (supports); [The anxiety–achievement correlation varies across educational levels, target languages, an](anxiety-achievement-moderators-levels-languages-anxiety-types.md) (qualifies); [The anxiety–achievement correlation varies across types of language achievement measures](anxiety-achievement-varies-by-achievement-measure-type.md) (qualifies) |
+| [Conijn 2022](https://doi.org/10.1111/jcal.12651) | q2 · associational · r2 | i? | [Test anxiety is negatively related to exam performance, and proctoring does not moderate t](test-anxiety-negative-exam-performance.md) (supports) |
+| [Fan 2025](https://doi.org/10.1186/s40594-025-00537-3) | q3 · causal · r2 | i3 | [At semester end, intrinsic motivation was positively correlated and programming anxiety ne](motivation-anxiety-correlate-with-programming-performance.md) (supports) |
+| Andrew Leichsenring 2010 | q1 · qualitative · r2 | i? | [Anxiety in foreign language classroom learning experiences is linked with oral performance](flca-linked-with-oral-performance-japanese-efl.md) (supports) |
+| [Zhao 2016](https://doi.org/10.64152/10125/66903) | q2 · associational · r2 | i2; i? | [Incidental vocabulary learning anxiety positively predicts L2 incidental vocabulary acquis](incidental-vocabulary-anxiety-positive-predictor.md) (counts against); [L2 proficiency, anxiety, and mastery of strategies jointly explain 18% of variance in inci](learner-factors-model-18-percent-variance.md) (qualifies) |
+| [Elaine K. Horwitz 2010](https://doi.org/10.1017/s026144480999036x) | q1 · theoretical · r? | i? | [Early studies of the relationship between anxiety and achievement produced mixed and confu](early-anxiety-achievement-studies-mixed-results.md) (qualifies) |
+| Maass 2016 | q2 · causal · r2 | i? | [No significant impact of frustration or boredom (or anxiousness, discouragement, distracte](frustration-boredom-no-significant-impact.md) (counts against) |
+| Learning Policy Institute & Turnaround for Children 2021 | q2 · review · r2 | i? | [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede lea](toxic-stress-impedes-learning.md) (supports) |
+| [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r3 | i? | [Retrieval practice benefits learners regardless of trait anxiety level, but higher trait o](higher-anxiety-is-associated-with-smaller-testing-effects.md) (qualifies) |
+| Murray 2017 | q2 · review · r? | i? | [Prolonged or overwhelming stress disrupts self-regulation development by physically changi](toxic-stress-disrupts-self-regulation-development.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Mechanism.** The dominant account is processing-efficiency: anxious thoughts (worry, rumination) act as a secondary task that occupies the same working memory resources mathematics demands, so performance drops most on problems with high working memory demands. This places math anxiety in the same family as other load-inducing impairments — see [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) and [Chunking reduces working memory load](chunking-reduces-working-memory-load.md). Within [Cognitive load theory](../theories/cognitive-load-theory.md), anxiety functions as an additional source of extraneous load rather than a separate affective phenomenon.

@@ -41,10 +41,11 @@ Descriptive analysis of 2000 high school transcript data (Figure 2) reported in 
 
 ## Discussion
 
-
 ## Learner Variables
 - [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — the general claim this finding bears on, with the studies behind it
 - [Women earn substantial shares of bachelor's degrees in most math and science fields but remain underrepresented in computer sciences, physics, and engineering](women-underrepresented-physics-engineering-computer-science-degrees.md) — related
 - [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related

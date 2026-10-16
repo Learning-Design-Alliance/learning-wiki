@@ -41,6 +41,7 @@ The authors' characterization of the research base motivating the meta-analysis:
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Parental involvement has a small to moderate, practically meaningful relationship with students' academic achievement](parental-involvement-small-to-moderate-achievement-relationship.md) — related

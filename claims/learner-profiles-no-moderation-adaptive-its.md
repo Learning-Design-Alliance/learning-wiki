@@ -43,6 +43,8 @@ Exploratory latent profile analysis (BIC-supported five-profile solution) follow
 
 ## Related Claims
 
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
+
 - [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Adaptive versus non-adaptive ITS condition showed no significant differences in mental effort, subjective difficulty, or enjoyment](adaptive-its-no-difference-cognitive-load-enjoyment.md) — related
 - [Conscientiousness exploratorily moderated the effect of ITS condition on subjective difficulty and enjoyment](conscientiousness-moderates-difficulty-enjoyment-adaptive-its.md) — reports the opposite

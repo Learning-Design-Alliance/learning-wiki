@@ -41,8 +41,9 @@ WWC synthesis of six studies meeting version 4.0 standards, five contributing to
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Growth Mindset interventions have no discernible effects on college enrollment and progressing in college](growth-mindset-no-discernible-enrollment-progressing.md) — related
 - [The WWC rates Project CRISS® as having potentially positive effects on comprehension for adolescent learners, with an average improvement index of +20 percentile points](project-criss-potentially-positive-comprehension-rating.md) — related
 - [Positive Action has positive effects on elementary school students' academic achievement, with a WWC domain average effect size of 0.37 and an improvement index of +14 percentile points](positive-action-positive-effects-academic-achievement.md) — related

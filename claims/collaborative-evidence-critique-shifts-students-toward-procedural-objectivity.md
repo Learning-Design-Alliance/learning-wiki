@@ -53,6 +53,8 @@ The absence of a control group is a real limitation the authors acknowledge (for
 
 ## Related Claims
 
+- [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) — the general claim this finding bears on, with the studies behind it
+
 - [Civic Online Reasoning Instruction Improves Evaluation](civic-online-reasoning-instruction-improves-evaluation.md) — the general claim this finding bears on, with the studies behind it
 - (none yet linked)
 - [Course-based emphasis on reframing and stakeholder inquiry shifts pre-service teachers toward informed-designer stances](course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances.md) — related

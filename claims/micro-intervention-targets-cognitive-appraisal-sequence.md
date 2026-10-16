@@ -41,7 +41,8 @@ Theoretical argument in Part 2.1 applying Lazarus and Folkman's cognitive reappr
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible](expressive-writing-improves-exam-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Emotional micro-interventions perform three simultaneous functions: validate the emotion, reframe the cognitive appraisal, and connect struggle to a larger narrative](micro-intervention-triple-function-validate-reframe-connect.md) — related
 - [Affective reinforcement after a negative alert coincided with stabilization of an ongoing engagement structure, producing a brief affective shift from confusion to reassurance that returned to confusion](affective-reinforcement-stabilizes-engagement-structure.md) — related

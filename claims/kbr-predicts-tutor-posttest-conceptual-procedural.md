@@ -58,6 +58,17 @@ The authors' summary of the path analysis model (CFI 1.0, TLI 1.0, RMSEA 0.0, SR
 
 > "Path analysis revealed that the percentage of knowledge-building responses to follow-up questions significantly predicts conceptual and procedural post-test scores."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Who contributes to knowledge building, and do a learner's knowledge-building contributions predict what that learner learns?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **2 distinct studies** (1 associational, 1 review), `q2`–`q3`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Fathima Ameen 2026](https://doi.org/10.1007/s41237-026-00294-9) | q2 · associational · r1 | i? | this claim; [Prior conceptual and procedural knowledge did not significantly predict tutors' proportion](prior-knowledge-does-not-predict-kbr.md) (qualifies) |
+| [McElhaney 2024](https://doi.org/10.51388/20.500.12265/231) | q3 · review · r2 | i? | [Students' sense of belonging predicts their contributions to classroom knowledge building ](belonging-predicts-knowledge-building-contributions.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 ## Related Claims

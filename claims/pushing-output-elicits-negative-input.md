@@ -41,8 +41,9 @@ Diary self-study, journal entry of Oct. 27: an officemate's visitor says "Since 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Producing modified output involving developmentally advanced question forms in response to negative feedback is the only significant predictor of ESL question development](modified-output-advanced-forms-predicts-question-development.md) — the general claim this finding bears on, with the studies behind it
 - [Pushing for comprehensible output drives understanding and assimilation of comprehensible input](pushing-output-drives-input-assimilation.md) — related
 - [Mere exposure to the target language does not automatically lead to native-like communicative competence in adult learners](mere-exposure-insufficient-advanced-l2-communicative-competence.md) — related
 - [Limited instruction directed at complex structures also proved effective, provided the target structures are readily available in noninstructional input](limited-ffi-complex-structures-effective-with-input-availability.md) — related

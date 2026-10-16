@@ -63,6 +63,8 @@ Discussion section example: Highline teachers who reviewed and recommended Ratio
 
 ## Related Claims
 
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — the general claim this finding bears on, with the studies behind it
+
 - [The guide argues that overfocusing on intervention selection alone risks a 'magic bullet' view because average positive outcomes do not guarantee local success](magic-bullet-risk-selection-without-needs-assessment.md) — the general claim this finding bears on, with the studies behind it
 - In the Onslow Mathspace pilot, student benchmark scores decreased over the pilot period, a change that was not statistically significant — related
 - [Parental factors including emotional unreadiness, feeling overwhelmed, and unrealistic expectations can contribute to AAC device abandonment](parent-factors-aac-abandonment.md) — related

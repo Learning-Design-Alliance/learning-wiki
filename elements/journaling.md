@@ -13,7 +13,7 @@ generated:
 # Journaling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (3 for, 3 mixed, 1 against) · 2 studies (1 causal, 1 design), `q2`–`q3` · 1 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 10 claims (6 for, 3 mixed, 1 against) · 7 studies (3 causal, 2 quant-synthesis, 1 review, 1 design), `q2`–`q4` · 4 of 7 report an effect size · 9 claims rest on one study
 
 ## Description
 Journaling is the element in which learners record reflections, observations, questions, or progress over time in written form. It is useful when learning benefits from continuity, introspection, and visible documentation of change.

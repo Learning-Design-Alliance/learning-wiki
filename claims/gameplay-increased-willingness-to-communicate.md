@@ -41,8 +41,9 @@ Interview-based study of five students' willingness to communicate (WTC) in Engl
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Studies directly measuring WTC consistently report positive effects of AI on EFL learners' WTC across tool types, contexts, and age groups](ai-directly-enhances-efl-wtc.md) — the general claim this finding bears on, with the studies behind it
 - [Gameplay changed students' perceptions of themselves as learners and their learning practice](gameplay-changed-learner-self-perceptions.md) — related
 - [Gameplay lowered participants' affective barriers to learning English in a fifteen-week game-based program](gameplay-lowered-affective-barriers-learning.md) — related
 - Individual WTC variables (confidence, motivation, perceived performance, anxiety) correlate positively with overall WTC throughout interpersonal audio discussion activities — related

@@ -41,8 +41,9 @@ Observational analysis of the top-20 category list from the 2,874-turn corpus. T
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — the general claim this finding bears on, with the studies behind it
 - [Student discourse with a Socratic AI physics tutor concentrates sharply: of 357 consolidated categories, the top 25 cover roughly half of all student turns](ai-tutor-discourse-concentrates-top-categories.md) — a broader claim this one bears on
 - [Equation-handling and symbolic execution dominate the head of the student-discourse distribution, with roughly a third of top-20 turns involving equation work](equation-handling-dominates-ai-tutor-discourse.md) — related
 - [Students showed bounded trust and uneven verification behavior: 23 of 837 student turns (about 2.7%) contained explicit risk-aware moves](bounded-trust-uneven-verification-behaviors.md) — related

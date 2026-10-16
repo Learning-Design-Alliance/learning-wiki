@@ -41,8 +41,9 @@ Descriptive analysis of mean answers per question by taxonomic category for the 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Students perform better overall on LOCS exam questions than on HOCS exam questions](locs-exam-questions-outperform-hocs.md) — the general claim this finding bears on, with the studies behind it
 - Question cognitive-level distributions differed significantly between years for Physics 1B but not Physics 1A — related
 - [Student-authored physics questions mostly require application or analysis, with under 5% at the lowest recall level](student-questions-majority-above-recall-bloom.md) — related
 - [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](peerwise-student-questions-75-percent-high-quality.md) — related

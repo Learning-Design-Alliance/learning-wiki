@@ -13,7 +13,7 @@ generated:
 # Visual Imagery
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 16 studies (8 causal, 5 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 16 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 17 studies (8 causal, 6 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 17 report an effect size · 2 claims rest on one study
 
 ## Description
 Visual imagery is the deliberate formation of mental pictures to represent verbal or abstract content — scenes, spatial layouts, processes, or relationships. As an instructional element, it either prompts learners to generate their own images or supplies carefully chosen visuals that learners connect to the material, engaging both verbal and pictorial processing channels.

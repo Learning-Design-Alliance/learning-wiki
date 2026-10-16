@@ -11,6 +11,10 @@
           "+"
         ],
         [
+          "dialogic-reading-oral-language-improvement-index",
+          "+"
+        ],
+        [
           "dale-1996-significant-lexical-diversity-play-total-utterances-book-reading",
           "+"
         ],
@@ -28,6 +32,14 @@
         ],
         [
           "dialogic-reading-no-phonological-processing-effects",
+          "~"
+        ],
+        [
+          "dialogic-reading-sound-foundations-combined-outcomes",
+          "~"
+        ],
+        [
+          "dialogic-reading-small-evidence-base-disabilities",
           "~"
         ]
       ]

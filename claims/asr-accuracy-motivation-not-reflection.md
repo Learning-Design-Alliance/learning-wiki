@@ -56,7 +56,8 @@ Same SEM path analysis predicting learning motivation. Accuracy was a significan
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Educators report ASR features can be inaccurate for learners' diverse accents, dialects, and speech patterns](asr-inaccuracy-diverse-accents.md) — the general claim this finding bears on, with the studies behind it
 - [ASR usage frequency moderately predicts reflective behavior but does not significantly predict learning motivation](asr-usage-frequency-reflection-not-motivation.md) — related
 - [In ASR-assisted college English speaking instruction, corrective feedback and reflection tasks each significantly predict reflective behavior](asr-feedback-and-reflection-tasks-reflective-behavior.md) — related

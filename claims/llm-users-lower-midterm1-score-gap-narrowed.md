@@ -60,8 +60,9 @@ Follow-up comparison across the three midterms in the same course dataset. The g
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Students received significantly higher homework scores during GenAI-evaluation periods, but this advantage did not transfer to downstream exams](genai-homework-advantage-no-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Midterm self-efficacy (comfort and confidence) did not differ between conditions after three assignments, though both varied significantly across algorithmic topics](genai-condition-no-self-efficacy-difference.md) — related
 - [Learning-by-teaching an LLM improved assignment and project performance versus historical cohorts, but not exam performance, in an undergraduate CS course](learning-by-teaching-llm-improves-assignments-projects.md) — related
 - [Students whose LLM use was mostly student-driven support scored higher on Midterm 1 than LLM-driven users (about 10%), but the two groups converged on later midterms](student-driven-support-better-early-midterms.md) — related

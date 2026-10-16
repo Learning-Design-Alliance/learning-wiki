@@ -1,0 +1,40 @@
+{
+  "principle": "theories/developmental-research-designs",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "covid-achievement-impacts-likely-underestimated-attrition",
+      "question": "When a study follows learners over time and some drop out or stop being tested, can the results for those who remain be read as results for the whole group?",
+      "members": [
+        [
+          "map-growth-attrition-demographic-differences-2020",
+          "+"
+        ],
+        [
+          "covid-impact-vulnerable-students-may-be-underestimated",
+          "+"
+        ],
+        [
+          "missing-fall-2020-testers-understate-impacts",
+          "+"
+        ],
+        [
+          "cohort-view-consistent-testers-positive-bias",
+          "+"
+        ],
+        [
+          "cross-sectional-view-full-sample-attrition-caveat",
+          "~"
+        ],
+        [
+          "el-exit-censorship-underestimates-growth",
+          "+"
+        ],
+        [
+          "sensitivity-15-term-subsample-same-comparisons",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

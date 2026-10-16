@@ -1,0 +1,78 @@
+{
+  "principle": "elements/text-underlining-and-annotating",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "annotating-improves-learning",
+      "question": "Does asking learners to highlight or underline while reading improve learning over reading alone, and for which outcomes?",
+      "members": [
+        [
+          "highlighting-low-utility",
+          "-"
+        ],
+        [
+          "five-techniques-low-utility",
+          "-"
+        ],
+        [
+          "ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest",
+          "~"
+        ],
+        [
+          "underlining-adjunct-questions-hinder-young-readers-comprehension-deficit",
+          "-"
+        ],
+        [
+          "underlining-plus-postquestions-most-depress-detail-recall",
+          "-"
+        ]
+      ]
+    },
+    {
+      "hub": "relevancy-of-emphasis-directs-attention",
+      "question": "Does it matter what is marked, and who marks it (learner or instructor)?",
+      "members": [
+        [
+          "signalled-and-cued-object-change-most-detected",
+          "+"
+        ],
+        [
+          "cueing-outcompetes-signalling-alone-for-attention",
+          "+"
+        ],
+        [
+          "central-object-change-detection-low-without-cueing",
+          "+"
+        ],
+        [
+          "signalling-focuses-attention-reduces-change-detection-elsewhere",
+          "~"
+        ],
+        [
+          "enhancing-features-direct-attention-dual-language-e-books",
+          "+"
+        ],
+        [
+          "animation-phase-dependent-attention-to-print",
+          "~"
+        ],
+        [
+          "experimenter-underlining-effective-as-student-underlining",
+          "~"
+        ],
+        [
+          "highlighting-low-utility",
+          "-"
+        ],
+        [
+          "signaling-principle-mayer-2008",
+          "+"
+        ],
+        [
+          "children-underline-subordinate-details-not-superordinate-material",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -13,7 +13,7 @@ generated:
 # Individual Response
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 14 studies (6 causal, 5 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 14 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 mixed) · 17 studies (8 causal, 5 quant-synthesis, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 17 report an effect size · 4 claims rest on one study
 
 ## Description
 Individual Response asks learners to commit to an answer or solution on their own before any group discussion or peer comparison occurs. It functions as the private, first-draft phase of interactive instruction — the moment when each learner must retrieve, reason, and take a position without being able to defer to others.

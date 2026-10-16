@@ -13,7 +13,7 @@ generated:
 # Inquiry and Research
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (2 for, 2 mixed, 1 against) · 11 studies (4 review, 3 quant-synthesis, 2 causal, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (3 for, 3 mixed, 1 against) · 15 studies (5 quant-synthesis, 5 review, 3 causal, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 15 report an effect size · 3 claims rest on one study
 
 ## Description
 Inquiry and research place learners in the role of investigator: they pose or refine questions, gather and evaluate evidence, and build explanations from what they find. The element shifts the locus of knowledge construction from instructor to learner, with the instructor designing the question space, providing tools and [Scaffolding](scaffolding.md), and [Coaching](coaching.md) during the investigation.

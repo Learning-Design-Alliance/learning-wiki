@@ -44,6 +44,8 @@ Qualitative finding from the authors' three-year coaching research: teacher-coac
 
 ## Related Claims
 
+- [Pairing coaching with group trainings is associated with larger effects on instruction and achievement; instructional materials with larger, and video libraries with smaller, effects on instruction](coaching-complementary-elements-moderators.md) — the general claim this finding bears on, with the studies behind it
+
 - [Coaching dosage shows precisely estimated null effects: more coaching hours are not associated with larger program effects](coaching-dosage-null-effect.md) — the general claim this finding bears on, with the studies behind it
 - Literature review identifies 182 candidate coaching components organized into coach, teacher, and interaction factors — related
 - [Coaching time focused on instructional delivery improves coached teachers' practices, while time focused on behavioral management is associated with a significant decrease in practice quality](coaching-focus-instructional-delivery-versus-behavior-management.md) — a narrower finding that bears on this claim

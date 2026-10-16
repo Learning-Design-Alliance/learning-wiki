@@ -42,9 +42,10 @@ Practitioner assertion in the paper's section on hearing-impaired patrons, illus
 
 ## Discussion
 
-
 ## Learner Variables
 - [Access](../learner-variables/access.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Auditory math access works best when the technology is familiar: Math Speak aided expression identification, and BVI students performed similarly to or slightly better than traditional methods with familiar apps](auditory-access-familiar-technology-bvi-math.md) — the general claim this finding bears on, with the studies behind it
 -

@@ -59,6 +59,28 @@ Dent, A. L., & Koenka, A. C. (2016). The relation between self-regulated learnin
 
 Two meta-analyses of elementary and secondary school students related achievement to (1) metacognitive processes of self-regulated learning and (2) use of cognitive strategies. Both overall correlations were small: r = 0.20 for metacognitive processes and r = 0.11 for cognitive strategies. The correlations differed significantly by the specific process or strategy, academic subject, grade level, type of SRL measure and type of achievement measure. This is the correlational arm of the claim. It supports a real but modest association, not a causal effect. The number of studies was not in the abstract. Read as abstract only.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does explicitly teaching learners cognitive and self-regulatory strategies (elaboration, organisation, monitoring) improve their achievement, and what kind of training works best?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **13 distinct studies** (6 quant-synthesis, 3 review, 3 causal, 1 theoretical), `q1`–`q4`, 5 of 13 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Dignath & Büttner 2008](https://doi.org/10.1007/s11409-008-9029-x) | q4 · quant-synthesis · r? | i2 · medium-to-large effect, average ES = 0.69 | this claim |
+| [Dent & Koenka 2016](https://doi.org/10.1007/s10648-015-9320-8) | q3 · quant-synthesis · r? | i1 · small correlation, r = 0.20 (metacognitive processes), r = 0.11 (cognitive strategies) | this claim |
+| [Ergen 2017](https://doi.org/10.14689/ejer.2017.69.4) | q3 · quant-synthesis · r2 | i3; i? | [Self-regulated learning strategies have a large pooled effect (d = 0.859) on academic achi](srl-strategies-large-effect-academic-achievement.md) (supports); [The pooled effect of self-regulated learning does not differ significantly by strategy typ](srl-effect-no-strategy-type-difference.md) (qualifies) |
+| [Guntur 2024](https://doi.org/10.24059/olj.v28i3.4025) | q3 · quant-synthesis · r1 | i? | [SRL interventions combining metacognitive, cognitive, and motivational components were mos](mixed-srl-strategy-interventions-greatest-impact.md) (qualifies) |
+| Kamil 2008 | q2 · review · r2 | i? | [Multiple-strategy comprehension training appears to produce better comprehension than sing](multiple-strategy-training-better-comprehension-than-single-strategy.md) (qualifies) |
+| [Okkinga et al. 2018](https://doi.org/10.1007/s10648-018-9445-7) | q3 · quant-synthesis · r? | i1 · small effect for content-area classes, d=0.293, against d=0.820 for language-arts classes; i0 · negligible effect on standardized tests, d=.186 | [Whether strategy instruction works better in authentic content-area tasks is untested, and](learning-strategy-instruction-contextualized-more-effective.md) (qualifies); [Reading Strategy Instruction Improves Comprehension](reading-strategy-instruction-improves-comprehension.md) (supports) |
+| [Nückles 2020](https://doi.org/10.1007/s10648-020-09541-1) | q3 · review · r2 | i? | [Strategy prompts strongly increase learners' use of the prompted strategies, and the effec](strategy-prompts-increase-strategy-use-mediated-outcomes.md) (supports) |
+| [Xiong 2014](https://doi.org/10.5539/jel.v3n4p1) | q2 · causal · r2 | i? | [Cognitive elaboration strategy significantly affects overall posttest performance, with se](elaboration-strategy-affects-posttest-performance.md) (supports) |
+| Abdul Gafoor. K. 2016 | q2 · review · r1 | i? | [Short-term self-regulatory strategy training, including within regular mathematics lessons](short-srl-strategy-training-enhances-math-performance.md) (supports) |
+| [Fabriz 2014](https://doi.org/10.1007/s10212-013-0196-z) | q2 · causal · r1 | i? | [Combining a structured learning diary with instruction on self-regulated learning increase](diary-plus-srl-instruction-raises-strategy-use-self-efficacy.md) (supports) |
+| [Duffy et al. 1987](https://doi.org/10.2307/747973) | q2 · causal · r? | i? | [Strategy Instruction Needs Conditional Knowledge](strategy-instruction-needs-conditional-knowledge.md) (qualifies) |
+| [Paris et al. 1983](<https://doi.org/10.1016/0361-476x(83)90018-8>) | q1 · theoretical · r? | i? | [Strategy Instruction Needs Conditional Knowledge](strategy-instruction-needs-conditional-knowledge.md) (qualifies) |
+| [Ueno et al. 2025](https://doi.org/10.64152/10125/67505) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.72 | [Reading Strategy Instruction Improves Comprehension](reading-strategy-instruction-improves-comprehension.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Scope of the claim.** "Strategy instruction" here covers explicit teaching of domain strategies (e.g., summarization, self-questioning, graphic organization) and metacognitive routines (planning, monitoring, evaluating). The claim is deliberately broad; the strength of the effect almost certainly varies by strategy type, domain, and learner age; the training meta-analysis recorded above reports larger effects when researchers rather than regular teachers delivered the training.

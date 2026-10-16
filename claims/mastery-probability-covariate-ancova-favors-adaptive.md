@@ -41,8 +41,9 @@ Exploratory ANCOVA of posttest on condition with prior knowledge and mastery pro
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Objective learning gains did not differ significantly by condition in the primary ANCOVA, but KBD showed a significant positive effect on learning gains in exploratory regressions accounting for learner covariates](kbd-objective-learning-gains-ancova-null-exploratory-positive.md) — related
 - [Adaptive spaced retrieval practice produced higher end-of-semester posttest performance than learner-directed AI study, but fixed spaced retrieval did not significantly outperform learner-directed study](adaptive-retrieval-posttest-retention-advantage.md) — related
 - [Students in the non-adaptive condition reached significantly higher average mastery probabilities than students in the adaptive condition](non-adaptive-condition-higher-mastery-probabilities.md) — related

@@ -41,8 +41,9 @@ Correlational analysis of the survey data from 210 EFL learners (Table 4) found 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [In the L2MSS, the L2 learning experience predicts intended effort most strongly, while the ideal L2 self is weaker than the theory argues](l2-learning-experience-beats-ideal-l2-self.md) — the general claim this finding bears on, with the studies behind it
 - [Ideal L2 self positively and significantly predicts student self-efficacy, generalizing prior qualitative findings quantitatively](ideal-l2-self-predicts-self-efficacy.md) — a narrower finding that bears on this claim
 - [In the motivational profile of Iranian EFL learners, instrumentality-promotion received the highest mean, followed by ideal L2 self](iranian-efl-motivation-profile-inspro-highest.md) — related
 - [Overall L2 motivation is a significant positive predictor of L2 self-efficacy among Iranian EFL learners](l2-motivation-predicts-self-efficacy.md) — related

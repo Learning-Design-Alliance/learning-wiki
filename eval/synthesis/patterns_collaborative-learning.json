@@ -7,6 +7,38 @@
       "question": "Does working jointly on a task raise achievement over working alone or instruction without group work?",
       "members": [
         [
+          "peer-discussion-improves-conceptual-understanding",
+          "+"
+        ],
+        [
+          "interactive-beats-constructive-concept-mapping",
+          "+"
+        ],
+        [
+          "social-connection-and-collaboration-drive-learning",
+          "+"
+        ],
+        [
+          "discussion-promotes-more-active-thought-than-lecture",
+          "~"
+        ],
+        [
+          "ai-fosters-collaborative-social-construction",
+          "~"
+        ],
+        [
+          "small-group-learning-improves-stem-achievement",
+          "+"
+        ],
+        [
+          "cooperative-learning-improves-achievement",
+          "+"
+        ],
+        [
+          "active-collaborative-approaches-higher-order-thinking",
+          "+"
+        ],
+        [
           "collaborative-writing-improves-text-quality",
           "+"
         ],
@@ -15,11 +47,15 @@
           "+"
         ],
         [
-          "cooperative-learning-group-rewards-and-individual-accountability",
+          "collaborative-group-work-beats-competitive-classrooms-k12",
+          "+"
+        ],
+        [
+          "students-report-peer-collaboration-supports-learning",
           "~"
         ],
         [
-          "discussion-promotes-more-active-thought-than-lecture",
+          "cooperative-learning-group-rewards-and-individual-accountability",
           "~"
         ],
         [
@@ -31,27 +67,19 @@
           "~"
         ],
         [
-          "small-group-learning-improves-stem-achievement",
-          "+"
-        ],
-        [
-          "interactive-beats-constructive-concept-mapping",
-          "+"
-        ],
-        [
-          "collaborative-group-work-beats-competitive-classrooms-k12",
-          "+"
-        ],
-        [
-          "active-collaborative-approaches-higher-order-thinking",
-          "+"
-        ],
-        [
           "collaborative-argumentation-benefits-summary",
           "+"
         ],
         [
-          "students-report-peer-collaboration-supports-learning",
+          "embodied-collaborative-construction-can-build-shared-geometric-reasoning",
+          "~"
+        ],
+        [
+          "el-collaborative-discussion-sociocultural-benefit",
+          "+"
+        ],
+        [
+          "prior-practices-mediate-class-interaction-appropriation",
           "~"
         ]
       ]
@@ -91,24 +119,12 @@
           "+"
         ],
         [
-          "cooperative-conceptual-change-chemistry-misconceptions",
+          "collective-working-memory-effect-task-complexity",
           "~"
         ],
         [
           "large-group-size-limited-participation-confidence",
           "+"
-        ],
-        [
-          "nd-prefer-teams-of-3-to-5-nt-prefer-pairs",
-          "~"
-        ],
-        [
-          "collective-working-memory-effect-task-complexity",
-          "~"
-        ],
-        [
-          "well-defined-tasks-and-accessible-materials-support-shared-creative-influence",
-          "~"
         ],
         [
           "role-design-enhances-collaborative-knowledge-construction-quality",
@@ -123,6 +139,26 @@
           "+"
         ],
         [
+          "pairs-better-than-triads-in-stellar-inquiry",
+          "+"
+        ],
+        [
+          "cooperative-conceptual-change-chemistry-misconceptions",
+          "~"
+        ],
+        [
+          "mixed-homogeneous-heterogeneous-grouping",
+          "~"
+        ],
+        [
+          "nd-prefer-teams-of-3-to-5-nt-prefer-pairs",
+          "~"
+        ],
+        [
+          "well-defined-tasks-and-accessible-materials-support-shared-creative-influence",
+          "~"
+        ],
+        [
           "belonging-prerequisite-for-collaborative-learning",
           "~"
         ],
@@ -131,12 +167,28 @@
           "+"
         ],
         [
-          "mixed-homogeneous-heterogeneous-grouping",
+          "collaboration-interest-belonging-worse-online",
+          "+"
+        ],
+        [
+          "plc-norms-three-categories-trust-prerequisite",
           "~"
         ],
         [
-          "collaboration-interest-belonging-worse-online",
-          "+"
+          "dr-outperforms-ci-task-performance",
+          "~"
+        ],
+        [
+          "genai-collaborative-troubleshooting-varied-by-group",
+          "~"
+        ],
+        [
+          "seeding-groups-alternative-ideas-improves-learning",
+          "~"
+        ],
+        [
+          "structured-peer-tutoring-outperforms-unstructured",
+          "~"
         ]
       ]
     }

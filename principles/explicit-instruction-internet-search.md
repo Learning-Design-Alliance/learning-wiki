@@ -18,7 +18,7 @@ sources:
 # Explicit Instruction: Internet Search
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 11 claims (6 for, 5 mixed) · 27 studies (12 causal, 5 review, 3 quant-synthesis, 3 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 1 of 27 report an effect size · 4 claims rest on one study
+> **Evidence** · 12 claims (7 for, 5 mixed) · 28 studies (13 causal, 5 review, 3 quant-synthesis, 3 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 2 of 28 report an effect size · 5 claims rest on one study
 
 ## Conditional relationship
 

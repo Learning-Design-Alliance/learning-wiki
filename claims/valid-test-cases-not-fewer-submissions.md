@@ -41,8 +41,9 @@ Analysis of submission behavior in the classroom dataset. The authors believe th
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Timely feedback on homework increases learning, and computer platforms providing immediate feedback help teachers adapt](timely-feedback-improves-homework-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Effects of AI-generated test case feedback depend critically on feedback validity](test-case-feedback-effects-depend-on-validity.md) — related
 - [Failing test case feedback shows no significant association with eventual success](test-case-feedback-no-success-association.md) — related
 - [Immediate post-feedback improvement is near zero on average and does not differ significantly across feedback conditions](baseline-post-feedback-gains-near-zero-no-condition-differences.md) — related

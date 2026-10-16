@@ -39,8 +39,9 @@ Second moderated regression model on the 260-teacher survey, controlling for con
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — the general claim this finding bears on, with the studies behind it
 - [Teacher confidence fully mediates the relationship between institutional support and attitudes toward AI adoption](confidence-fully-mediate-support-attitude-relationship.md) — possibly the same claim (merge candidate)
 - [Institutional support significantly and positively predicts teacher confidence in adopting AI among Philippine teachers](institutional-support-predicts-teacher-ai-confidence.md) — related
 - [Teachers report strongly positive attitudes toward AI, low concern, high confidence in using AI tools, and strong but uneven institutional support](descriptive-profile-teacher-ai-attitudes-concerns-confidence.md) — related

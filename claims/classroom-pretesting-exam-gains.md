@@ -41,7 +41,8 @@ Narrative review of Soderstrom and Bjork (2023), a 10-week undergraduate researc
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Classroom testing (quizzing) significantly boosts student academic achievement to a medium extent (g = 0.499).](classroom-quizzing-medium-effect-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — a broader claim this one bears on
 - [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — related

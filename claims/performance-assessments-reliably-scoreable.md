@@ -42,11 +42,13 @@ This is the report's own summary assertion, supported by its description of scor
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Can methods scored by judgement be scored reliably, or do they add rater variation?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **3 distinct studies** (1 review, 1 associational, 1 design), `q1`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Can methods scored by judgement be scored reliably, or do they add rater variation?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **5 distinct studies** (2 qualitative, 1 review, 1 associational, 1 design), `q1`–`q3`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Badrinarayan 2025](https://doi.org/10.54300/411.469) | q1 · review · r2 | i? | this claim |
+| Jenna Howard Terrell 2023 | q2 · qualitative · r2 | i? | [State interviewees raised three equity concerns about performance-based assessments: perce](equity-concerns-performance-based-assessments.md) (qualifies) |
+| [Kyle Dunbar 2025](https://doi.org/10.51388/20.500.12265/266) | q2 · qualitative · r? | i? | [Districts face validity, reliability, comparability, and accountability-tension challenges](pog-assessment-validity-reliability-challenges.md) (qualifies) |
 | [Ilhan 2018](https://doi.org/10.14689/ejer.2018.75.6) | q3 · associational · r2 | i? | [Raters differed significantly in severity/leniency in the MFRM analysis](raters-differed-severity-mfrm.md) (qualifies) |
 | [Morzinski 2010](https://doi.org/10.48550/arxiv.1009.3296) | q2 · design · r2 | i? | [In one community-college lab class, six scorers rating six teams with an engineering rubri](engineering-rubric-low-scoring-reliability.md) (qualifies) |
 <!-- synthesis:end -->

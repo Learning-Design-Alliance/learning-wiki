@@ -41,11 +41,14 @@ In the randomized winter-kindergarten cohort (Flex n = 29, Plain n = 28), multil
 
 ## Discussion
 
-
 ## Learner Variables
 - [Executive Function](../learner-variables/executive-function.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [False-belief training improves preschoolers' theory of mind scores but the review reports it has no effect on language skills](false-belief-training-no-language-effect.md) — the general claim this finding bears on, with the studies behind it
+
+- [CCT shows no significant effects on executive functions or attention in healthy older adults](cct-no-effect-executive-attention.md) — the general claim this finding bears on, with the studies behind it
 - Cognitive flexibility training added to phonemic awareness training produces significantly greater growth in cognitive flexibility than phonemic awareness training alone in kindergarten and first-grade students — reports the opposite
 - [For students with full week-6 attendance, Flex showed significantly greater gains than Plain on taught-letter alphabetics, decoding, and word reading](week6-attendance-interaction-favors-flex.md) — related
 - [Higher pretest cognitive flexibility predicted greater decoding gains and compensated for lower pretest alphabet knowledge](pretest-cognitive-flexibility-predicts-decoding-gains-compensates-alphabet.md) — related

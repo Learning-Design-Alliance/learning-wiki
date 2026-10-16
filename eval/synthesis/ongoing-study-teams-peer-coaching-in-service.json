@@ -49,6 +49,30 @@
         [
           "coaching-scale-up-diminishing-effects",
           "~"
+        ],
+        [
+          "principal-mentoring-coaching-improves-practice",
+          "+"
+        ],
+        [
+          "coaching-increases-technology-use-frequency",
+          "+"
+        ],
+        [
+          "coaching-increases-impactful-technology-use-practices",
+          "+"
+        ],
+        [
+          "cps-mentor-coaching-and-modeling-associated-with-preparedness-and-effectiveness",
+          "+"
+        ],
+        [
+          "comprehensive-induction-no-classroom-practice-gains-first-year",
+          "-"
+        ],
+        [
+          "conferences-reflective-but-coaching-skills-lacking",
+          "~"
         ]
       ]
     },

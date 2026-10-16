@@ -41,12 +41,13 @@ Hierarchical regression on N=80 students using Days 4-5 platform behavioral logs
 
 ## Discussion
 
-
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
 - [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Students' argumentative essay quality improves substantially from initial to revised drafts regardless of feedback source](essay-quality-improves-from-initial-to-revised.md) — the general claim this finding bears on, with the studies behind it
 - [Five-day no-code AI agent creation improves students' CT self-perception, with large gains in abstract and algorithmic thinking and a medium gain in pattern recognition and generalization](ai-agent-creation-ct-self-perception-gains.md) — related
 - [Markov transition analysis shows the three clusters differ in workflow dynamics: iterative optimization loops, rapid prototyping flows, and browsing-anchored exploration](markov-workflow-dynamics-three-clusters.md) — related
 - [Teacher-AI learning task design objectives cluster into cognitive gains and thinking skills, behavioral changes and design efficiency, and adaptivity, engagement, self-efficacy, and inclusivity](teacher-ai-design-objectives-three-clusters.md) — related

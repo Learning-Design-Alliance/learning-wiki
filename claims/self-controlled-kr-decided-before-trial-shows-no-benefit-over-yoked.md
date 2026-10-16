@@ -62,6 +62,8 @@ Post hoc comparison on transfer absolute error in the same experiment: "the Self
 
 ## Related Claims
 
+- [Feedback is more effective for cognitive and physical outcomes than for motivational and behavioral outcomes](feedback-outcome-measure-moderator-cognitive-physical.md) — the general claim this finding bears on, with the studies behind it
+
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — the general claim this finding bears on, with the studies behind it
 - [Self Controlled Kr Decided After Trial Improves Motor Retention](self-controlled-kr-decided-after-trial-improves-motor-retention.md)
 - [Self Controlled Kr Decided After Trial Improves Motor Transfer](self-controlled-kr-decided-after-trial-improves-motor-transfer.md)

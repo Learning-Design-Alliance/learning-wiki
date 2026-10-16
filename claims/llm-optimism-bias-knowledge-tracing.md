@@ -41,8 +41,9 @@ Breakdown of knowledge tracing accuracy by actual correctness (Table 7), reporte
 
 ## Discussion
 
-
 ## Related Claims
+
+- [LLMKT outperforms existing knowledge tracing methods at predicting student turn correctness in the CoMTA and MathDial tutoring dialogue datasets, and generally outperforms DKT-Sem.](llmkt-outperforms-existing-kt-methods-on-tutoring-dialogues.md) — the general claim this finding bears on, with the studies behind it
 - CLST's predicted mastery levels track response correctness and move similarly for related knowledge components — related
 - DKT's input/output representation significantly affects performance, with KC inputs and item outputs working best on most datasets — related
 - [Stealth assessment in AI-GBL achieves accurate prediction of learner states, with bias auditing demonstrated without accuracy loss](stealth-assessment-accuracy-and-bias-audits.md) — related

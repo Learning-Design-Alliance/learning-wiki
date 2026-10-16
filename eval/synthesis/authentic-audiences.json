@@ -125,6 +125,22 @@
         [
           "spontaneous-sentence-production-in-synthetic-planning-increases-understanding",
           "~"
+        ],
+        [
+          "students-recognize-writing-improvement-ai-feedback",
+          "+"
+        ],
+        [
+          "feedback-source-no-effect-on-revision-outcomes",
+          "~"
+        ],
+        [
+          "feedback-quality-predicts-revision-only-in-teacher-condition",
+          "~"
+        ],
+        [
+          "probing-feedback-revise-resubmit-evidence",
+          "~"
         ]
       ]
     }

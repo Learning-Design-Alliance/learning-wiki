@@ -41,8 +41,9 @@ Theoretical argument in the brief's introduction, citing Vygotsky. The brief ass
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Sociocultural SLA literature portrays learners who resist mainstream social interaction negatively, as 'nonparticipating' or having 'negative attitude'](sociocultural-sla-demonizes-socially-resistant-learners.md) — related
 - [Tutoring benefits both tutors and tutees](peer-tutoring-improves-achievement.md) — related
 - [BICS and CALP intersect developmentally but are not identical or reducible one to the other](bics-calp-intersect-not-identical.md) — related

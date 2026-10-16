@@ -41,8 +41,9 @@ Seasonal decomposition of K-4 growth for ELs versus never-ELs; the math results 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Summer learning loss is common but not inevitable among K-12 students](summer-slide-common-but-not-inevitable.md) — the general claim this finding bears on, with the studies behind it
 - [In math, EL groups grew more than never-ELs during academic years but lost more during summers](el-math-faster-year-growth-higher-summer-loss.md) — related
 - [In math, ELs grew more than never-ELs during academic years but lost more during summers](el-math-academic-year-growth-greater-summer-loss.md) — related
 - [Dually-identified EL/SPED students had the lowest scores with gaps widening over time, driven by larger summer loss](dually-identified-lowest-scores-widening-gaps.md) — related

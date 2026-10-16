@@ -41,8 +41,9 @@ Explanatory-power analysis in the structural model evaluation section reports R2
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Instruction should present the learning task as engaging and meaningful and promote positive expectations of success, because effort requires that learners value the task and believe they can succeed](effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) — the general claim this finding bears on, with the studies behind it
 - [ARCS motivation did not significantly moderate any of the tested UTAUT3 acceptance pathways](arcs-moderation-effects-null.md) — related
 - [ARCS motivation showed the strongest correlations in the matrix with both behavioral intention and use behavior](arcs-strongest-correlations-intention-use.md) — related
 - [Behavioral intention translates only weakly into self-reported use behavior, and the extended UTAUT model explains intention formation better than enactment](intention-use-gap-t2i-creative-education.md) — related

@@ -116,6 +116,8 @@ A key boundary condition is that the misjudgment is strongest for judgments made
 
 ## Related Claims
 
+- [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — the general claim this finding bears on, with the studies behind it
+
 - [Learners underuse effective learning strategies such as spacing and retrieval practice](learners-underuse-effective-learning-strategies.md) — the general claim this finding bears on, with the studies behind it
 
 - [Retrieval practice improves long-term retention.](retrieval-practice-improves-retention.md) — the generative strategy learners most often underestimate

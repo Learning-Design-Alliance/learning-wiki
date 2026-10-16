@@ -60,8 +60,9 @@ Replication RCT with 144 ninth-graders with emotional or behavioral disabilities
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Outcomes of students with disabilities improve when they receive specially designed instruction responsive to assessment data](specially-designed-instruction-responsive-to-assessment-data-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Check & Connect shows no significant effect on completion by one year after expected graduation (supplemental fifth-year finding)](check-and-connect-fifth-year-completion-null.md) — related
 - [Check & Connect increases credits accrued (progressing in school) in one RCT](check-and-connect-increases-credits-progressing.md) — related
 - [Check & Connect shows no discernible effect on on-time high school completion](check-and-connect-no-effect-on-time-completion.md) — related

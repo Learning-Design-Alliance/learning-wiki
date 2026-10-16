@@ -41,9 +41,10 @@ Regression discontinuity estimate from the same large California district admini
 
 ## Discussion
 
-
 ## Learner Variables
 - [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Timing of English learner reclassification influences later outcomes such as high school graduation](reclassification-timing-influences-later-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Eighth grade EL reclassification has statistically insignificant effects on 9th–11th grade ELA test scores, with effects bounded between −0.17 and 0.09 SDs](el-reclassification-null-ela-effects-high-school.md) — related

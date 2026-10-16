@@ -33,6 +33,10 @@
         [
           "district-provided-tools-single-tool-training",
           "~"
+        ],
+        [
+          "online-tpack-program-shift-student-centered-strategies",
+          "+"
         ]
       ]
     }

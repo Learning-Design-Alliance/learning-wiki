@@ -41,7 +41,8 @@ Descriptive comparison of solved percentages per feedback type (Table 8): No Fee
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [All three LLM-generated feedback types are associated with faster time to solution than a compiler-errors-only baseline, with Single-Issue Feedback showing the largest reduction](llm-feedback-faster-time-to-solution.md) — related
 - MAB assignment yields higher average rewards (student outcomes) than uniform random assignment during experiments — related

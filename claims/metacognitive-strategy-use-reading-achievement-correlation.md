@@ -41,10 +41,13 @@ Correlation test on questionnaire and reading-test data from the same 76 partici
 
 ## Discussion
 
-
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — the general claim this finding bears on, with the studies behind it
+
+- [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Vietnamese EFL grade-11 learners report above-average overall metacognitive strategy use in reading](efl-learners-above-average-metacognitive-strategy-use.md) — related
 - [High-proficiency EFL learners use more metacognitive strategies, effort regulation, and coping with problems than low-proficiency learners](high-proficiency-learners-use-more-strategies.md) — related

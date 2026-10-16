@@ -39,10 +39,11 @@ Rodriguez et al. (2012) compared two computer-based Lexia intervention groups ov
 
 ## Discussion
 
-
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Teaching students in a language they understand benefits both language learning and broader learning](cl-teaching-in-language-students-understand-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [English learners can learn to read in English at the same rate as their monolingual peers in the primary grades](english-learners-read-same-rate-primary-grades.md) — related
 - [The HELPS one-to-one fluency program significantly outperformed control on GORT Fluency and GORT-Comprehension for grade 2 Spanish-speaking ELLs](helps-one-to-one-gort-fluency-comprehension-gains.md) — related

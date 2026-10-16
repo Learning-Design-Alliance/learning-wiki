@@ -63,9 +63,9 @@ First-year impact findings from a large-scale randomized controlled study of two
 
 ## Discussion
 
-
-
 ## Related Claims
+
+- [Mentoring strongly influences new teachers' decisions to stay in or leave teaching (review attribution)](mentoring-influences-new-teacher-retention.md) — the general claim this finding bears on, with the studies behind it
 
 - [Comprehensive teacher induction generated no significant improvements in novice teachers' classroom practices in the first year](comprehensive-induction-no-classroom-practice-gains-first-year.md) — related
 - [Comprehensive teacher induction generated no significant improvements in student achievement in the first year](comprehensive-induction-no-student-achievement-gains-first-year.md) — related

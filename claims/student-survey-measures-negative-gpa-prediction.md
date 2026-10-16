@@ -60,8 +60,9 @@ Results overview on the rarity of negative associations beyond the GPA pattern: 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [5Essentials Survey measures predict school improvement in elementary and high schools, but not all measures relate to all outcomes](5essentials-measures-positively-associated-improvement.md) — the general claim this finding bears on, with the studies behind it
 - Work-avoidant orientation correlates negatively with GPA in the project-based course — a narrower finding that bears on this claim
 - [Neither cognitive ability, curiosity, nor epistemic behavior significantly predicts tertiary academic performance in the heterogeneous sample](no-significant-predictors-tertiary-gpa.md) — related
 - [Strong scores and growth on the 5Essentials Survey predict student success measures including GPA, attendance, test scores, and college enrollment](5essentials-scores-predict-student-success-measures.md) — related

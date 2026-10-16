@@ -41,12 +41,13 @@ Exploratory subgroup analysis across education stage within the meta-analysis. T
 
 ## Discussion
 
-
 ## Learner Variables
 - [Domain Context](../learner-variables/domain-context.md) — moderator: an instructional effect differs with it
 - [Motivation](../learner-variables/motivation.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [GenAI-assisted education produces significantly higher learning motivation than non-GenAI approaches (g = 0.81)](genai-learning-motivation-g081.md) — the general claim this finding bears on, with the studies behind it
 - [GenAI used on mobile devices shows a larger motivational effect than GenAI used on computers (exploratory)](genai-motivation-effect-larger-mobile-devices.md) — related
 - [GenAI's motivational effect is larger in collectivistic than individualistic cultural contexts (exploratory)](genai-motivation-effect-larger-collectivist-contexts.md) — related
 - [GenAI's motivational effect varies by subject domain, largest for language learning and smallest for science (exploratory)](genai-motivation-effect-varies-subject-domain-language-largest.md) — related

@@ -41,8 +41,9 @@ Statewide 2023/24 screening analysis examining school and district context. The 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Students from low income, English learner, special education, and several racial/ethnic groups are more likely to be repeatedly identified as significantly below benchmark, with low income students 2.5 times as likely](massachusetts-k3-risk-inequities-student-groups.md) — the general claim this finding bears on, with the studies behind it
 - [School and district factors relate to risk identification: low income concentration correlates with repeated risk identification, and segregation modestly increases it, though some schools outperform model predictions](massachusetts-school-segregation-risk-identification.md) — possibly the same claim (merge candidate)
 - [School characteristics—percentage of low income students, teacher retention, and attendance—affect students' likelihood of being identified as at significant risk in early literacy screening](school-characteristics-affect-literacy-risk.md) — related
 - [The likelihood of being identified as at risk increases as historically underserved background characteristics intersect, with variation by gender and race/ethnicity, and school characteristics also matter](intersectional-risk-likelihood.md) — related

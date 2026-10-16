@@ -112,7 +112,7 @@ Eighth graders learned from a digital multimedia textbook in one of two versions
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do cues that highlight the essential material and its organisation improve learning, and by how much?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **7 distinct studies** (3 causal, 2 quant-synthesis, 2 review), `q2`–`q4`, 4 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do cues that highlight the essential material and its organisation improve learning, and by how much?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **9 distinct studies** (4 causal, 3 review, 2 quant-synthesis), `q2`–`q4`, 4 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -123,6 +123,8 @@ Eighth graders learned from a digital multimedia textbook in one of two versions
 | Ceballos & Nutta 2022 | q2 · review · r1 | i? | [A narrative review reports that the signaling studies it cites found higher learning outco](signaling-principle-increased-learning-outcomes.md) (supports) |
 | [Lorch & Lorch 1996](https://doi.org/10.1037/0022-0663.88.1.38) | q3 · causal · r? | i? | [Clear Structure Improves Learning](clear-structure-improves-learning.md) (supports) |
 | Kutbay 2020 | q2 · causal · r2 | i1; i? | [The signaling effect holds only for abstract animation representations: signaling signific](signaling-effect-abstract-only.md) (qualifies); [Spoken text modality does not significantly differ from signaled written text modality, or](spoken-versus-signaled-written-null.md) (qualifies) |
+| [Brame Cynthia J 2016](https://doi.org/10.1187/cbe.16-03-0125) | q2 · review · r2 | i? | [Signaling with on-screen text, color, contrast, or symbols improves retention and transfer](signaling-improves-retention-transfer-video.md) (supports) |
+| Mutlu-Bayraktar 2018 | q2 · causal · r1 | i? | [Among two objects with the same signalling, participants focused more on the arrow-cued ob](cueing-outcompetes-signalling-alone-for-attention.md) (qualifies); [In a multimedia animation, participants focused more on signalled objects and detected few](signalling-focuses-attention-reduces-change-detection-elsewhere.md) (qualifies); [The change on the object being verbally described was the most detected change, seen by 10](signalled-and-cued-object-change-most-detected.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

@@ -43,6 +43,10 @@ The article cites Kittel's (1957) three-condition experiment on logic problems, 
 
 ## Related Claims
 
+- [Enhanced discovery learning produces greater learning than other forms of instruction](enhanced-discovery-beats-other-instruction.md) — the general claim this finding bears on, with the studies behind it
+
+- [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](guidance-improves-inquiry-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it
+
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — the general claim this finding bears on, with the studies behind it
 
 - [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](minimal-guidance-less-effective-for-novices.md) — the general claim this finding bears on, with the studies behind it

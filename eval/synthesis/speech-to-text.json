@@ -1,0 +1,62 @@
+{
+  "principle": "elements/speech-to-text",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "asr-inaccuracy-diverse-accents",
+      "question": "Is speech recognition accurate enough for learners to rely on, including non-native, accented and low-proficiency speakers?",
+      "members": [
+        [
+          "asr-accuracy-drop-non-native-learner-speech",
+          "+"
+        ],
+        [
+          "low-proficiency-intelligibility-barrier-asr",
+          "+"
+        ],
+        [
+          "speech-detection-preliminary-success-noisy-settings",
+          "+"
+        ],
+        [
+          "text-perceived-accuracy-control-editability",
+          "+"
+        ],
+        [
+          "asr-accuracy-motivation-not-reflection",
+          "~"
+        ],
+        [
+          "ai-multilingual-disability-speech-tool-gaps",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "esl-learners-positive-perceptions-asr-writing",
+      "question": "Does dictating help learners get text written, compared with typing it?",
+      "members": [
+        [
+          "interviews-asr-ease-and-speaking-benefits",
+          "+"
+        ],
+        [
+          "chapelle-criteria-asr-writing-affordances",
+          "+"
+        ],
+        [
+          "tam-construct-means-asr-writing-study",
+          "+"
+        ],
+        [
+          "edited-voice-no-significant-difference",
+          "~"
+        ],
+        [
+          "mixed-efficiency-speed-perceptions",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -60,8 +60,9 @@ A second MANOVA replaced the overall score with a focus score on ten chapters ea
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Keeping a structured learning diary without further intervention did not improve university students' self-regulation](learning-diary-alone-no-self-regulation-gain.md) — the general claim this finding bears on, with the studies behind it
 - [Peer Feedback Groups Added To Web Based Srl Training Raise Srl Self Efficacy And Math Focus Score](peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score.md)
 - [A four-phase teaching process for congruent triangles significantly improves grade 8 students' test scores](four-phase-process-improves-congruent-triangle-scores.md) — related
 - [A daily learning diary alone (Group D) did not produce statistically significant pre-post gains on any measured outcome in an online mathematics preparation course](learning-diary-alone-no-significant-srl-gains-online-math-prep-course.md) — related

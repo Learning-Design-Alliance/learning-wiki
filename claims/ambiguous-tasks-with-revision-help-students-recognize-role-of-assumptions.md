@@ -49,6 +49,8 @@ Students in two analyzed classrooms — one secondary (functions), one elementar
 This is design-based research across a small number of intensively-analyzed classes (2 detailed episodes from 5 total classes), not a large-sample or controlled study; effects are documented through direct quotation and coding of classroom discourse and written reflections, not standardized assessment. The one report of a possible lasting effect beyond the single lesson is explicitly anecdotal (a single teacher's informal comparison, not part of the systematic data collection) and should be weighted accordingly. The authors also note a boundary condition: too much prior knowledge of related mathematical variability (e.g., familiarity with many function types) could cause students to conclude a task is simply unanswerable rather than productively comparing specific interpretations, so task design must be calibrated to students' existing knowledge.
 
 ## Related Claims
+
+- [Students' argumentative essay quality improves substantially from initial to revised drafts regardless of feedback source](essay-quality-improves-from-initial-to-revised.md) — the general claim this finding bears on, with the studies behind it
 - (none yet linked)
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Before the intervention, most students could not write assumptions and conclusions, and only one student achieved the maximum pre-test score](pretest-assumption-conclusion-difficulties.md) — related

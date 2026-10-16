@@ -59,6 +59,19 @@ McDougall, D., Ornelles, C., Mersberg, K., & Amona, K. (2015). A meta-analytic r
 
 The review evaluated nine single-case studies (1995–2013) in which K-12 students used tactile-cued devices (vibrating pagers/watches) to self-monitor on-task, engaged, or disruptive behavior, academic productivity, or math fluency. Because only 2 of a possible 34 effect sizes were originally reported by study authors, the reviewers calculated Phi coefficients themselves from the graphed data. Across the 27 comparisons of an initial or reinstated baseline against the subsequent tactile-cued self-monitoring phase, Phi ranged from 0.18 to 0.89 (Md = 0.74), which the authors classify as a large effect using Cohen's (1988) 0.10/0.30/0.50 small/medium/large thresholds for Phi; comparisons of removing the intervention showed smaller, more mixed effects (Md = 0.32). The authors note tactile-cued self-monitoring had not yet reached the evidence-based-practice status of audio- or visual-cued self-monitoring at time of writing.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does having learners record their own on-task behaviour at set intervals improve that behaviour, and for whom?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (4 quant-synthesis), `q3`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Scheibel et al. 2023](https://doi.org/10.1177/01626434221085554) | q3 · quant-synthesis · r1 | i? | this claim |
+| [McDougall et al. 2015](https://doi.org/10.64546/jaasep.289) | q3 · quant-synthesis · r? | i? | this claim |
+| [Davis 2016](https://doi.org/10.1007/s40489-016-0076-y) | q3 · quant-synthesis · r? | i? | [Self-monitoring interventions produce strong effects for students with ASD across behavior](self-monitoring-strong-effects-asd-tau-u-083.md) (supports) |
+| [Briesch 2019](https://doi.org/10.1007/s10864-018-9303-1) | q3 · quant-synthesis · r2 | i? | [Prompted self-monitoring is the most frequently used self-management configuration in scho](prompted-self-monitoring-most-frequent-configuration.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 Self-monitoring is a core self-regulation strategy: making learners aware of their own attention or behavior creates a feedback loop that typically shifts behavior toward the monitored target. In classroom applications, students are often cued (e.g., by an audible tone or teacher signal) to record whether they were on task at that moment; the act of recording itself appears to produce much of the effect, independent of any incentive attached to the record.

@@ -41,8 +41,9 @@ The article's meta-analysis of 94 independent tests reports that "implementation
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Goal setting improves performance](goal-setting-improves-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Forming implementation intentions (if-then plans) improves goal attainment](implementation-intentions-improve-goal-attainment.md) — possibly the same claim (merge candidate)
 - [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](srl-interventions-moderate-effect-online-blended.md) — related
 - [Achievement effects of group-based mastery learning are larger for elementary students than for high school or college students](mastery-effects-larger-elementary.md) — related

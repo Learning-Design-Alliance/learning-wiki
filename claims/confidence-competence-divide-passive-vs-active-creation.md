@@ -41,8 +41,9 @@ Cross-sectional multicenter survey (N=243) of students in Spain and Ireland usin
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Self-efficacy judgments correspond less well to behavior in learning settings than in performance settings](self-efficacy-accuracy-lower-in-learning-settings.md) — the general claim this finding bears on, with the studies behind it
 - [Technology-pathway students report higher active-creation self-efficacy than Arts and Humanities students (p < 0.001)](pathway-difference-active-creation-confidence.md) — related
 - [The technological gender gap emerges only within Technology-oriented pathways, with parity in Arts and Sciences](gender-gap-emerges-only-in-technology-pathway.md) — related
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related

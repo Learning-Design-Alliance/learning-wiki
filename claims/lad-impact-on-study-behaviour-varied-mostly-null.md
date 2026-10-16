@@ -41,7 +41,8 @@ Interview findings at Kirkpatrick Level 3 show "Study behaviour was impacted to 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI-powered predictive analytics improves academic performance by enabling early identification of at-risk students and timely intervention](ai-predictive-analytics-improves-academic-performance.md) — the general claim this finding bears on, with the studies behind it
 - [The LAD was mostly perceived to support student appraisal of study behaviour by providing new insights or awareness](thermos-lad-supported-appraisal-phase.md) — related
 - [The LAD did not support the preparatory phase because most participants did not use the actionable feedback despite perceiving it as potentially useful](thermos-lad-preparatory-phase-not-supported.md) — related

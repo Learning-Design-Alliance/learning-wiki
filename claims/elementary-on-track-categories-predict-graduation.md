@@ -41,8 +41,9 @@ Consortium Elementary On-Track analysis (Seeskin, Massion, & Usher, 2022) of 93,
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Low attendance is linked with lower academic skills, grades, and high school graduation, and high attendance with higher ones](attendance-linked-academic-skills-grades-graduation.md) — the general claim this finding bears on, with the studies behind it
 - [Students in higher CPS EOT categories had progressively higher rates of high school graduation and college enrollment](cps-eot-five-category-progressive-outcomes.md) — a broader claim this one bears on
 - [Elementary students in the On-Track category graduated high school at more than twice the rate and enrolled in college at more than four times the rate of students in the Intensive Support category](condensed-eot-ontrack-versus-intensive-support-outcomes.md) — possibly the same claim (merge candidate)
 - [Attendance Support students maintained a 3.0 GPA despite low attendance but graduated high school at 71 percent, below the district average, and fewer than half attended college](condensed-eot-attendance-support-below-average-graduation.md) — related

@@ -13,7 +13,7 @@ generated:
 # In-Class Activities
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 9 studies (5 quant-synthesis, 1 causal, 1 review, 1 design, 1 theoretical), `q2`–`q4` · 6 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 12 studies (5 quant-synthesis, 2 causal, 2 theoretical, 1 review, 1 associational, 1 design), `q2`–`q4` · 6 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 In-class activities are structured tasks — problem solving, discussions, simulations, peer instruction, case analysis — that require learners to actively generate, apply, or critique content during class time rather than passively receive it. They shift class time from information transmission to supervised application, with the instructor acting as facilitator and feedback source.

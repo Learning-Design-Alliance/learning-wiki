@@ -41,8 +41,9 @@ Independent samples T-tests (Table 3): high school vocabulary score T=9.172, col
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Conversational interaction facilitates second language grammatical development in adult ESL learners](interaction-facilitates-l2-grammatical-development.md) — the general claim this finding bears on, with the studies behind it
 - [Learner age/level moderates the benefit of negotiation of meaning: high school learners relied on it more than college learners](age-moderates-negotiation-benefit.md) — related
 - [In high school groups, frequency of negotiation of meaning correlates positively with vocabulary score (r = 0.761) and with comprehensible input (r = 0.310)](negotiation-frequency-correlates-vocabulary-high-school.md) — related
 - [In college groups, no correlation was found between frequency of negotiation of meaning and vocabulary score](college-no-negotiation-vocabulary-correlation.md) — related

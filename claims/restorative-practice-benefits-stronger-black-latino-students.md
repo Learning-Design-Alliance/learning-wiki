@@ -41,10 +41,11 @@ Same observational analysis of 485 middle schools; the report reports subgroup a
 
 ## Discussion
 
-
 ## Learner Variables
 - [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Shifting to restorative practices reduced exclusionary discipline and its racial disparities while improving climate and achievement](restorative-practices-reduce-exclusionary-discipline.md) — the general claim this finding bears on, with the studies behind it
 - [Restorative practices reduce exclusionary discipline and misbehavior and improve school climate, safety, and achievement, though implementation requires sustained investment](restorative-practices-improve-safety-climate-achievement.md) — a broader claim this one bears on
 - [Student exposure to restorative practices improves standardized test performance and reduces suspension probability and duration](restorative-practice-exposure-improves-achievement-reduces-suspension.md) — a broader claim this one bears on

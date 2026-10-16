@@ -41,7 +41,8 @@ Linear mixed-effects model for conceptual learning (discipline-specific pre/post
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Reflection improves correspondence between perceived and behavioral reliance on ChatGPT](reflection-improves-awareness-calibration.md) — the general claim this finding bears on, with the studies behind it
 - [Reflective and hybrid feedback outperform direct GenAI feedback on delayed AI-free transfer](agentic-designs-delayed-ai-free-transfer.md) — related
 - [Direct GenAI-supported feedback improves immediate argument-quality gain over peer feedback, while reflective and hybrid designs outperform direct GenAI feedback](genai-feedback-design-argument-quality-gain.md) — related

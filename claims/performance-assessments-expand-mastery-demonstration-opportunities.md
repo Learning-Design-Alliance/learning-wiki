@@ -39,6 +39,17 @@ Qualitative case study of seven states based on interviews and focus groups with
 
 > "Despite the case study states taking different approaches to implementing performance-based assessments, a common theme shared by the states was that performance-based assessments are used to provide more opportunities for students to demonstrate mastery of skills and content."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do extended performance tasks give learners more and better chances to show what they can do than tests alone?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **2 distinct studies** (2 qualitative), `q2`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Jenna Howard Terrell 2023 | q2 · qualitative · r2 | i? | this claim; [States integrate performance-based assessments as a complement or alternative to tradition](performance-assessments-complement-multiple-choice-tests.md) (qualifies) |
+| [Viki M. Young 2026](https://doi.org/10.51388/20.500.12265/286) | q2 · qualitative · r2 | i? | [Students report that tests dominate assessment, carry too much weight, and create stress, ](students-report-tests-dominate-and-overweight-grades.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

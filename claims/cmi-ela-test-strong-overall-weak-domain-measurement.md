@@ -41,7 +41,8 @@ Bifactor item response theory analysis of placement test item responses (N = 1,0
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Multiple-choice state tests are prone to ceiling and floor effects and do not measure higher-order skills well](multiple-choice-state-tests-limits-high-low-performers.md) — the general claim this finding bears on, with the studies behind it
 - [The ELA placement test was most precise for students whose scores would place them into developmental courses, with precision declining above the 40th percentile](cmi-ela-test-precision-declines-above-40th-percentile.md) — related
 - [The multiple-choice placement test component and high school GPA similarly predicted passing credit-bearing ELA courses, while the writing component did not predict any outcomes](cmi-gpa-and-multiple-choice-similarly-predict-ela-passing.md) — related

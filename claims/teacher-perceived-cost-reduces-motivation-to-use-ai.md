@@ -78,6 +78,20 @@ Theoretical argument about risk and uncertainty in the cost section, with no dat
 
 > "teachers may be concerned about the reliability and effectiveness of AI technologies, which can increase their cost perceptions."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do perceived costs and risks of AI (effort, output quality, threats to students' thinking) hold teachers back from using it?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **5 distinct studies** (3 associational, 2 theoretical), `q1`–`q2`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Yurt 2024 | q1 · theoretical · r2 | i? | this claim |
+| [Dai 2026](https://doi.org/10.14742/ajet.11301) | q2 · associational · r? | i? | [Risk aversion plays a significant role in teachers' GenAI adoption decisions](risk-aversion-significant-in-genai-adoption.md) (supports) |
+| [Zagami 2026](https://doi.org/10.1080/07294360.2026.2694409) | q2 · theoretical · r3 | i? | [Faculty opt-out of generative AI is more substantial than student non-use, with value-, id](faculty-ai-optout-shata-2025.md) (supports) |
+| [Nikolai Maurer 2026](https://doi.org/10.1016/j.caeo.2026.100376) | q2 · associational · r2 | i? | [Interviewed teachers cite poor AI output quality and risks to students' cognitive engageme](teacher-interviews-obstacles-and-pd-needs.md) (supports) |
+| [mmr-model1-moderation](https://doi.org/10.1145/3761843.3761881) | q2 · associational · r2 | i? | [Teacher concerns do not significantly moderate the support-confidence relationship nor dir](teacher-concerns-do-not-moderate-support-effects.md) (counts against) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

@@ -41,12 +41,13 @@ Cohort study comparing Hispanic ELL subgroups in CPS. The report states "Only 52
 
 ## Discussion
 
-
 ## Learner Variables
 - [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
 - [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](el-lag-limited-academic-content-exposure.md) — the general claim this finding bears on, with the studies behind it
 - [Course performance indicators predict ELL graduation better than ELL-specific indicators such as proficiency level or education interruptions](course-performance-more-predictive-than-ell-indicators.md) — related
 - [Hispanic ELLs proficient before sixth grade performed better in ninth-grade courses than other Hispanic subgroups](early-proficiency-better-ninth-grade-performance.md) — related
 - [ELL newcomers entering CPS after age 12 graduated at lower rates than students with the same grades and attendance, with school quality the key associated factor](ell-newcomers-after-age-12-lower-graduation.md) — related

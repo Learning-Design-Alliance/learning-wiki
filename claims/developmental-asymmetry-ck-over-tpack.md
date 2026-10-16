@@ -41,8 +41,9 @@ Theoretical interpretation built on the study's AHP weight results from 18 exper
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) — the general claim this finding bears on, with the studies behind it
 - [Experts rank Curriculum System and Content Design as the highest-priority dimension for AI certificate program evaluation, with Cross-Cultural Adaptability lowest](expert-priority-hierarchy-ai-certificate-dimensions.md) — possibly the same claim (merge candidate)
 - [Faculty Professional Competence shows the largest gap between perceived importance and current satisfaction among the five dimensions](faculty-competence-largest-importance-performance-gap.md) — related
 - [Content knowledge is not significantly associated with self-perceived knowledge in any technology-integrated GenAI domain](content-knowledge-not-associated-genai-integration.md) — reports the opposite

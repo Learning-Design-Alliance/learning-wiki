@@ -41,8 +41,9 @@ Findings of the qualitative meta-synthesis of meta-analyses on PBL effectiveness
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Problem-based learning shows null or negative effects on basic knowledge acquisition but positive effects on conceptual understanding and transfer relative to direct instruction](pbl-null-basic-knowledge-positive-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [PBL is superior to conventional instruction for long-term retention, according to a meta-synthesis of meta-analyses](pbl-superior-long-term-retention.md) — related
 - [Traditional instruction is more effective than PBL for short-term retention as measured by standardized board exams](traditional-instruction-short-term-retention-board-exams.md) — related
 - Discovery method in motor skill learning was superior to teacher-directed approach in children's attitudes and social interaction — related

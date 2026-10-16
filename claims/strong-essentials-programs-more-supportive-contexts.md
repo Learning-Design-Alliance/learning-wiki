@@ -39,6 +39,17 @@ Qualitative component of the 2017 validation study: researchers blind to survey 
 
 > "Simply put, strongly organized programs created contexts far more supportive of teaching, learning and family engagement than the contexts created by weakly organized programs."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do early education programs that are strong on the essential supports have better classroom interactions and child attendance than weakly organized programs?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **2 distinct studies** (1 qualitative, 1 associational), `q2`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Pacchiano 2018 | q2 · qualitative · r2 | i? | this claim; [Programs with strong essential supports are more likely to have higher teacher-child inter](strong-essentials-linked-class-and-attendance.md) (supports) |
+| Early Education Essentials: Testing Measurement Validity of an Organizational Conditions and Practices Tool for Early Childhood Education Settings 2018 | q2 · associational · r2 | i? | [Some, but not all, measured organizational conditions are associated in expected direction](some-essentials-associated-with-site-quality-metrics.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

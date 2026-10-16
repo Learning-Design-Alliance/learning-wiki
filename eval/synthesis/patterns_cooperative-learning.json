@@ -45,6 +45,18 @@
         [
           "small-group-learning-improves-stem-achievement",
           "+"
+        ],
+        [
+          "collaborative-group-work-beats-competitive-classrooms-k12",
+          "+"
+        ],
+        [
+          "social-connection-and-collaboration-drive-learning",
+          "+"
+        ],
+        [
+          "collaborative-writing-improves-text-quality",
+          "+"
         ]
       ]
     },
@@ -82,6 +94,34 @@
         ],
         [
           "secondary-cooperative-learning-newmann-thompson",
+          "~"
+        ],
+        [
+          "structured-peer-tutoring-outperforms-unstructured",
+          "+"
+        ],
+        [
+          "role-rotation-perspective-taking-and-challenges",
+          "~"
+        ],
+        [
+          "role-rotation-distributes-professional-engagement-ai-cases",
+          "~"
+        ],
+        [
+          "nd-prefer-defined-team-roles",
+          "~"
+        ],
+        [
+          "nd-coping-self-selected-roles-self-disclosure",
+          "~"
+        ],
+        [
+          "role-design-enhances-collaborative-knowledge-construction-quality",
+          "~"
+        ],
+        [
+          "role-design-facilitates-higher-order-behavior-transitions",
           "~"
         ]
       ]

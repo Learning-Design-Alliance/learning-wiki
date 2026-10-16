@@ -97,13 +97,15 @@ This systematic review re-examines 12 meta-analyses of systematic phonics and th
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does systematic phonics teaching improve reading more than unsystematic, no or other phonics-light teaching, and for which readers?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **5 distinct studies** (3 quant-synthesis, 1 causal, 1 review), `q3`–`q4`, 4 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does systematic phonics teaching improve reading more than unsystematic, no or other phonics-light teaching, and for which readers?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **7 distinct studies** (3 quant-synthesis, 3 causal, 1 review), `q2`–`q4`, 4 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Ehri et al. 2001](https://doi.org/10.3102/00346543071003393) | q4 · quant-synthesis · r? | i2 · medium effect, d=0.41 | this claim |
 | [Taylor et al. 2017](https://doi.org/10.1037/xge0000301) | q3 · causal · r? | i? | this claim |
 | [Bowers 2020](https://doi.org/10.1007/s10648-019-09515-y) | q3 · review · r3 | i1 · small effect, d=0.31 (NRP phonics vs whole-language subanalysis) | this claim |
+| [Johnston 2012](https://doi.org/10.1007/s11145-011-9323-x) | q2 · causal · r? | i? | [The group taught by synthetic phonics showed better word reading, spelling, and reading co](synthetic-phonics-group-better-overall-outcomes.md) (supports); [Boys taught by synthetic phonics showed better word reading than girls in their classes, w](synthetic-phonics-boys-better-word-reading.md) (qualifies); [Under analytic phonics teaching, boys matched girls in word reading but had inferior spell](analytic-phonics-boys-inferior-spelling-comprehension.md) (qualifies) |
+| What Works Clearinghouse 2007 | q3 · causal · r2 | i? | [The Wilson Reading System shows no discernible effects on reading comprehension](wilson-reading-system-no-discernible-comprehension-effects.md) (qualifies) |
 | [Galuschka et al. 2014](https://doi.org/10.1371/journal.pone.0089900) | q4 · quant-synthesis · r2 | i0 · publication-bias-adjusted g'=0.198 (95% CI 0.039–0.357), which the authors call small; unadjusted phonics effect on reading g'=0.322 | [Phonics instruction has a small but statistically confirmed effect for children with readi](structured-literacy-interventions-help-struggling-readers.md) (qualifies) |
 | [Stevens et al. 2021](https://doi.org/10.1177/0014402921993406) | q3 · quant-synthesis · r? | i1 · small, non-significant effects, ES=0.22 (foundational skills, 95% CI −0.33 to 0.77) and 0.14 (vocabulary/comprehension) | [Phonics instruction has a small but statistically confirmed effect for children with readi](structured-literacy-interventions-help-struggling-readers.md) (qualifies) |
 <!-- synthesis:end -->

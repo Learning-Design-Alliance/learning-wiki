@@ -41,8 +41,9 @@ Fixed-effects models on the same pooled district cohorts show moderate absentees
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Low attendance is linked with lower academic skills, grades, and high school graduation, and high attendance with higher ones](attendance-linked-academic-skills-grades-graduation.md) — the general claim this finding bears on, with the studies behind it
 - [Descriptively, prior-year chronically absent students achieved over half a standard deviation below their peers at the start of the following year](descriptive-half-sd-chronic-absent-gap.md) — related
 - [Students highly absent (5-9.9% of days) in the prior year, below the chronic threshold, start the next year .14 to .22 SDs lower in mathematics than no-absence peers](highly-absent-below-threshold-lower-starting-math.md) — related
 - [Students chronically absent (10%+) in the prior year start the following school year 0.22 to 0.47 SDs lower in mathematics than peers with no prior-year absences](prior-year-chronic-absence-lower-fall-math-achievement.md) — related

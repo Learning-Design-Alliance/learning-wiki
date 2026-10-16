@@ -7,12 +7,36 @@
       "question": "Does making the assessed task closer to real practice help learners carry the capability into that practice?",
       "members": [
         [
-          "simucase-lacks-behavioral-authenticity",
-          "~"
+          "authentic-intellectual-work-complex-thinking-gains",
+          "+"
         ],
         [
           "authentic-tasks-meaningful-l2-learning",
           "+"
+        ],
+        [
+          "contextualized-story-problems-sense-making",
+          "+"
+        ],
+        [
+          "students-report-hands-on-learning-most-effective",
+          "+"
+        ],
+        [
+          "simulation-larger-application-gains",
+          "+"
+        ],
+        [
+          "contextualized-real-life-task-reverted-to-pure-mathematics-and-felt-too-school",
+          "~"
+        ],
+        [
+          "real-world-relevance-gateway-math-procedural-instruction",
+          "~"
+        ],
+        [
+          "simucase-lacks-behavioral-authenticity",
+          "~"
         ]
       ]
     },
@@ -50,6 +74,18 @@
         ],
         [
           "aa-students-passive-users-of-rubrics",
+          "~"
+        ],
+        [
+          "reflection-builds-responsibility-and-confidence-transition",
+          "+"
+        ],
+        [
+          "guided-reflection-self-assessment-responsible-genai-engagement",
+          "+"
+        ],
+        [
+          "workflow-condition-self-assessment-confidence-effect",
           "~"
         ]
       ]

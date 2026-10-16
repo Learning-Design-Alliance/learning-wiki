@@ -41,11 +41,12 @@ Qualitative interview finding from the study's semi-structured interviews with s
 
 ## Discussion
 
-
 ## Learner Variables
 - [Domain Context](../learner-variables/domain-context.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](personalized-problem-contexts-boost-engagement-grades-4-8.md) — the general claim this finding bears on, with the studies behind it
 - [Students report teacher feedback on writing is insufficient, and they value scores over feedback](insufficient-writing-feedback-scores-over-feedback.md) — related
 - [English-major seniors report writing classes receive inadequate attention and are tied to test preparation](writing-class-inadequate-attention-tem-driven.md) — related
 - [Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application](students-want-curricular-relevance-and-life-skills.md) — a broader claim this one bears on

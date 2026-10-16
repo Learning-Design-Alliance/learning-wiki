@@ -43,7 +43,7 @@ A systematic review and meta-analysis (search through May 2011 across MEDLINE, E
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does practising in a simulation improve knowledge and skill more than no simulation or conventional training, and for which skills and horizons?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **9 distinct studies** (5 review, 2 quant-synthesis, 2 qualitative), `q2`–`q4`, 2 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does practising in a simulation improve knowledge and skill more than no simulation or conventional training, and for which skills and horizons?* This table gathers the studies behind this claim and the 12 narrower claims that bear on it: **10 distinct studies** (5 review, 2 quant-synthesis, 2 qualitative, 1 causal), `q2`–`q4`, 2 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -56,6 +56,7 @@ A systematic review and meta-analysis (search through May 2011 across MEDLINE, E
 | [Malikova Z 2026](https://doi.org/10.3389/feduc.2026.1964629) | q2 · review · r3 | i? | [AI-generated and prebuilt simulations produced higher immediate conceptual-assessment scor](simulation-advantage-immediate-not-sustained.md) (qualifies) |
 | [Liang 2026](https://doi.org/10.3389/fneur.2026.1915268) | q2 · qualitative · r3 | i? | [The closer training content is to authentic clinical scenarios, the smoother its translati](contextualized-teaching-facilitates-transfer.md) (supports) |
 | [Muukkonen & Kajamaa 2024](https://doi.org/10.1080/10508406.2024.2344794) | q2 · qualitative · r3 | i? | [Organization-simulation knowledge practices support interdisciplinary learning](organization-simulation-knowledge-practices-support-interdisciplinary-learning.md) (qualifies) |
+| Newell 2008 | q3 · causal · r2 | i? | [The participatory simulation group achieved significantly larger application gains than th](simulation-larger-application-gains.md) (supports); [The participatory simulation group showed significantly larger overall (combined knowledge](simulation-larger-overall-il-gains.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

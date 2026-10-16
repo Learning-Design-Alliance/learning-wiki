@@ -60,7 +60,8 @@ The same district-wide record analysis found the effort and grade decline was un
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Low attendance is linked with lower academic skills, grades, and high school graduation, and high attendance with higher ones](attendance-linked-academic-skills-grades-graduation.md) — the general claim this finding bears on, with the studies behind it
 - [Higher absence rates are the most important factor explaining why students with disabilities fail more courses and earn lower GPAs than students without identified disabilities](absences-explain-course-performance-gaps-disabilities.md) — related
 - [Schools vary widely in attendance and cutting; in the ten worst-attendance schools the average ninth grader is an extreme truant in at least one major subject by second semester](schools-vary-extreme-truancy-worst-ten.md) — related

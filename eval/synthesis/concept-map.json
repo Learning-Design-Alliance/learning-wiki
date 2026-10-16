@@ -1,0 +1,78 @@
+{
+  "principle": "elements/concept-map",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "concept-mapping-improves-learning",
+      "question": "Does having learners build an organization of the content as a concept map help, and against what comparison?",
+      "members": [
+        [
+          "drawing-improves-learning",
+          "+"
+        ],
+        [
+          "learner-constructed-graphic-organizers-outperform-provided",
+          "~"
+        ],
+        [
+          "closed-book-versions-of-quizzes-and-concept-maps-outperform-open-book-versions",
+          "~"
+        ],
+        [
+          "interactive-beats-constructive-concept-mapping",
+          "~"
+        ],
+        [
+          "retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration",
+          "-"
+        ],
+        [
+          "heavy-cognitive-demands-of-mapping-can-be-counterproductive",
+          "~"
+        ],
+        [
+          "graphic-organizers-support-novice-comprehension",
+          "+"
+        ],
+        [
+          "conceptual-map-scaffolding-reduces-novice-variance",
+          "+"
+        ],
+        [
+          "interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated",
+          "~"
+        ],
+        [
+          "teacher-initiated-and-student-mediated-mapping-no-difference",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "learner-constructed-graphic-organizers-outperform-provided",
+      "question": "Should learners construct the map themselves, study a provided one, or build it with the teacher or a peer?",
+      "members": [
+        [
+          "concept-mapping-improves-learning",
+          "~"
+        ],
+        [
+          "drawing-improves-learning",
+          "~"
+        ],
+        [
+          "teacher-initiated-and-student-mediated-mapping-no-difference",
+          "+"
+        ],
+        [
+          "interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated",
+          "~"
+        ],
+        [
+          "interactive-beats-constructive-concept-mapping",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

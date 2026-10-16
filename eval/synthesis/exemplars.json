@@ -1,0 +1,84 @@
+{
+  "principle": "elements/exemplars",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "lms-exemplar-access-associated-with-higher-grades",
+      "question": "Does giving learners exemplars of finished work, analysed against the criteria, improve their own work and their judgement of quality?",
+      "members": [
+        [
+          "trainer-calibration-expected-align-rater-judgments",
+          "+"
+        ],
+        [
+          "rubrics-improve-student-work",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "comparing-contrasting-cases-improves-learning",
+      "question": "Does comparing analogous cases improve transfer more than studying cases one at a time?",
+      "members": [
+        [
+          "cognitive-flexibility-theory-multiple-cases",
+          "~"
+        ],
+        [
+          "method-approach-effect-sizes-vary-analogy-largest",
+          "+"
+        ],
+        [
+          "encoding-variability-decontextualization-transfer",
+          "+"
+        ],
+        [
+          "multiple-examples-per-problem-type",
+          "+"
+        ],
+        [
+          "example-variability-interaction-with-cognitive-load",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "worked-examples-less-effective-with-expertise",
+      "question": "For whom: how does the benefit change with prior knowledge?",
+      "members": [
+        [
+          "expertise-reversal-worked-examples-review",
+          "+"
+        ],
+        [
+          "lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples",
+          "+"
+        ],
+        [
+          "prior-knowledge-by-worked-example-type-interaction-on-germane-load",
+          "~"
+        ],
+        [
+          "prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest",
+          "~"
+        ],
+        [
+          "no-prior-knowledge-by-task-difficulty-interaction-in-algebra-worked-examples",
+          "~"
+        ],
+        [
+          "expertise-reversal-effect",
+          "+"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "+"
+        ],
+        [
+          "worked-examples-reduce-novice-search",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

@@ -39,8 +39,9 @@ Structural equation modeling in AMOS 24 with a second-order GenAI dependence con
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Meta-reviews reach contradictory conclusions on whether AI reliance harms or helps critical thinking, with substantial design limitations limiting generalizability](contradictory-meta-reviews-ai-critical-thinking.md) — the general claim this finding bears on, with the studies behind it
 - [Both functional and existential GenAI dependence are positively associated with research creativity, each with significant direct and total effects](both-dependence-forms-positively-associated-creativity.md) — related
 - [Functional dependence shows a substantially stronger positive association with graduate students' research creativity than existential dependence (β = 0.457 vs β = 0.147)](functional-dependence-stronger-association-research-creativity.md) — related
 - [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — related

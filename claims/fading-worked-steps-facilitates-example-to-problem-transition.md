@@ -42,12 +42,15 @@ The article's abstract states the central finding of the two computer-based expe
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*How should learners move from studying examples to solving problems alone?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **2 distinct studies** (2 causal), `q2`–`q3`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*How should learners move from studying examples to solving problems alone?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **5 distinct studies** (3 causal, 2 review), `q2`–`q3`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Renkl 2004](https://doi.org/10.1023/b:truc.0000021815.74806.f6) | q2 · causal · r? | i? | this claim; [Learners learned most about those principles that were faded](learners-learn-most-about-faded-principles.md) (supports); [The position of faded worked solution steps did not influence learning outcomes in Experim](faded-step-position-no-learning-outcome-effect.md) (qualifies); [Faded steps were hypothesized to trigger specific self-explanation activities, tested via ](faded-steps-hypothesized-trigger-self-explanations.md) (qualifies) |
 | [Atkinson, Renkl & Merrill 2003](https://doi.org/10.1037/0022-0663.95.4.774) | q3 · causal · r? | i? | [Backward fading and principle prompts supported transfer in probability learning](fading-and-principle-prompts-improve-probability-transfer.md) (supports) |
+| [van de Pol et al. 2010](https://doi.org/10.1007/s10648-010-9127-6) | q3 · review · r2 | i? | [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md) (supports) |
+| [Renkl et al. 2002](https://doi.org/10.1080/00220970209599510) | q3 · causal · r? | i? | [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md) (supports) |
+| [Slava Kalyuga 2010](https://doi.org/10.1007/s11251-009-9102-0) | q3 · review · r1 | i? | [Adaptive fading of worked examples based on current skill level produced better learning o](adaptive-fading-worked-examples-benefits.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

@@ -42,7 +42,7 @@ Meta-regression within the three-level meta-analytic model on 166 comparisons, u
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Which features of the attempt and of the instruction after it, and how much time, go with a larger advantage for attempting first?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **4 distinct studies** (1 quant-synthesis, 1 review, 1 theoretical, 1 causal), `q3`–`q4`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Which features of the attempt and of the instruction after it, and how much time, go with a larger advantage for attempting first?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **5 distinct studies** (2 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q3`–`q4`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -50,6 +50,7 @@ Meta-regression within the three-level meta-analytic model on 166 comparisons, u
 | [Loibl 2017](https://doi.org/10.1007/s10648-016-9379-x) | q3 · review · r? | i? | [PS-I fosters learning only if specific design features (contrasting cases or building inst](ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions.md) (supports) |
 | [Manu Kapur 2016](https://doi.org/10.1080/00461520.2016.1155457) | q3 · theoretical · r3 | i? | [Guidance during initial problem solving does not translate into better learning from subse](initial-guidance-does-not-improve-learning-from-instruction.md) (qualifies) |
 | [Sinha 2022](https://doi.org/10.1080/10508406.2021.1964506) | q3 · causal · r? | i1 | [Emotion dynamics during problem-solving predict learning outcomes in a manner that depends](emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently.md) (qualifies) |
+| [Sinha 2021](https://doi.org/10.1037/edu0000483) | q3 · causal · r? | i? | [Failure-driven and success-driven scaffolding before instruction produce similar posttest ](failure-and-success-scaffolding-similar-posttest-conceptual-understanding.md) (qualifies); [Students exposed to failure-driven scaffolding demonstrated higher quality of constructive](failure-driven-scaffolding-higher-quality-constructive-reasoning.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

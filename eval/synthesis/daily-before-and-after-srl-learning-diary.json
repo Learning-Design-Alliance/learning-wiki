@@ -1,0 +1,48 @@
+{
+  "principle": "elements/daily-before-and-after-srl-learning-diary",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "learning-diary-alone-no-self-regulation-gain",
+      "question": "Does keeping a learning diary by itself improve learners' self-regulation, or only when it comes with self-regulation training or prompts?",
+      "members": [
+        [
+          "learning-diary-alone-no-significant-srl-gains-online-math-prep-course",
+          "+"
+        ],
+        [
+          "diary-only-motivation-decrease",
+          "+"
+        ],
+        [
+          "unsupported-journal-writing-low-strategy-use",
+          "+"
+        ],
+        [
+          "diary-plus-srl-instruction-raises-strategy-use-self-efficacy",
+          "~"
+        ],
+        [
+          "web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math",
+          "~"
+        ],
+        [
+          "combined-srl-training-with-app-diaries-improved-more",
+          "~"
+        ],
+        [
+          "prompted-journal-writing-medium-large-effect",
+          "~"
+        ],
+        [
+          "srl-interventions-math-overall-score-marginal-focus-score-significant-online-prep-course",
+          "~"
+        ],
+        [
+          "journaling-system-improves-srl-all-groups",
+          "-"
+        ]
+      ]
+    }
+  ]
+}

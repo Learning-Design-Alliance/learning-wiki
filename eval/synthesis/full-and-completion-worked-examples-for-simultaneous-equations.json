@@ -1,0 +1,74 @@
+{
+  "principle": "elements/full-and-completion-worked-examples-for-simultaneous-equations",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "worked-examples-less-effective-with-expertise",
+      "question": "For whom: how does the benefit change with prior knowledge?",
+      "members": [
+        [
+          "expertise-reversal-worked-examples-review",
+          "+"
+        ],
+        [
+          "lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples",
+          "+"
+        ],
+        [
+          "prior-knowledge-by-worked-example-type-interaction-on-germane-load",
+          "~"
+        ],
+        [
+          "prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest",
+          "~"
+        ],
+        [
+          "no-prior-knowledge-by-task-difficulty-interaction-in-algebra-worked-examples",
+          "~"
+        ],
+        [
+          "expertise-reversal-effect",
+          "+"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "+"
+        ],
+        [
+          "worked-examples-reduce-novice-search",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "fading-worked-steps-facilitates-example-to-problem-transition",
+      "question": "How should learners move from studying examples to solving problems alone?",
+      "members": [
+        [
+          "fading-and-principle-prompts-improve-probability-transfer",
+          "+"
+        ],
+        [
+          "learners-learn-most-about-faded-principles",
+          "+"
+        ],
+        [
+          "faded-step-position-no-learning-outcome-effect",
+          "~"
+        ],
+        [
+          "faded-steps-hypothesized-trigger-self-explanations",
+          "~"
+        ],
+        [
+          "fading-support-promotes-transfer-of-responsibility",
+          "+"
+        ],
+        [
+          "adaptive-fading-worked-examples-benefits",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

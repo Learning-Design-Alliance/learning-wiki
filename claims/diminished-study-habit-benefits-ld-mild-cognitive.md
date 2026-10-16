@@ -60,12 +60,13 @@ Chapter 5 null finding for the mild cognitive disability group: the expected rel
 
 ## Discussion
 
-
 ## Learner Variables
 - [Access](../learner-variables/access.md) — moderator: an instructional effect differs with it
 - [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Outcomes of students with disabilities improve when they receive specially designed instruction responsive to assessment data](specially-designed-instruction-responsive-to-assessment-data-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Freshman-year performance of Chicago ninth-graders falls into three tiers, with students two or more years below grade level and students with emotional disturbances performing worst across GPA, course failures, absences, and on-track status](freshman-performance-three-tiers-disability-categories.md) — related
 - [At each level of freshman course performance, students with disabilities and students two or more years below grade level are less likely to graduate than their non-disabled peers](on-track-disabled-students-still-at-risk.md) — related
 - [Higher absence rates are the most important factor explaining why students with disabilities fail more courses and earn lower GPAs than students without identified disabilities](absences-explain-course-performance-gaps-disabilities.md) — related

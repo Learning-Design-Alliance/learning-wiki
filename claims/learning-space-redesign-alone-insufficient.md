@@ -52,6 +52,8 @@ At an Australian secondary school, three grade-7 mathematics classes (C1, C2, C3
 
 ## Related Claims
 
+- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — the general claim this finding bears on, with the studies behind it
+
 - [Classroom design affects learning progress.](classroom-design-affects-learning-progress.md) — the positive claim this page bounds: design matters only under conditions
 - [Active learning improves exam performance.](active-learning-improves-exam-performance.md) — the pedagogical change that redesigned spaces are meant to enable
 - [Coherence principle: irrelevant material hurts learning.](coherence-principle-irrelevant-material-hurts-learning.md) — over-stimulating decor and novelty can impose extraneous load

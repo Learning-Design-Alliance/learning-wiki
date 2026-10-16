@@ -39,8 +39,9 @@ Cross-sectional correlational survey of 1,045 undergraduates from multiple disci
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — the general claim this finding bears on, with the studies behind it
 - [Cheating tendency mediates the effects of procrastination, learned helplessness, and self-efficacy on AI-assisted dishonesty, with indirect effects stronger at higher AI use](cheating-tendency-mediated-indirect-effects-stronger-high-ai-use.md) — a broader claim this one bears on
 - [Cheating tendency significantly predicts AI-assisted academic dishonesty, and the association is stronger at higher levels of AI use](cheating-tendency-predicts-ai-dishonesty-moderated-by-ai-use.md) — related
 - [Self-efficacy negatively correlates with cheating, but actual ability does not inversely correlate with dishonesty](self-efficacy-negative-ability-not-correlated-cheating.md) — related

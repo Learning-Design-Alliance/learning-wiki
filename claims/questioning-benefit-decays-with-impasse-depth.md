@@ -43,6 +43,8 @@ Discrete-time event model (Model 3) on N=6,163 impasse turns with session-cluste
 
 ## Related Claims
 
+- [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Student impasses in LLM chemistry tutoring concentrate in the relevant-concepts planning phase, and impasse type depends strongly on problem-solving practice](impasses-concentrate-relevant-concepts-practice.md) — related
 - [Prompt specificity changes AI tutor pedagogy: a no-direct-answer guardrail alone produces uniform questioning, while a detailed guided protocol produces varied, impasse-sensitive responses](prompt-specificity-shapes-tutor-pedagogy.md) — related

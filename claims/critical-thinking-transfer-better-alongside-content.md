@@ -41,6 +41,7 @@ Narrative review attribution: the review reports Nickerson's (1988) conclusion o
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Direct CT instruction combined with modeling, coaching, and discussion yields more consistent CT improvement than implicit teaching strategies](direct-ct-instruction-outperforms-implicit-strategies.md) — the general claim this finding bears on, with the studies behind it
 - In a qualitative study of 32 EFL teacher-education students, participants described deeper, more reflective thinking after metacognitive and critical-thinking instruction, and one reported applying it in other disciplines — related

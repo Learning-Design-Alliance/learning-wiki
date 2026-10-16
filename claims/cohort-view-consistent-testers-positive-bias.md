@@ -41,8 +41,9 @@ The guide's cohort-view section explains that this view shows students who teste
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Systematic attrition differences mean COVID-19 impacts on student achievement are likely underestimated in fall 2020 MAP Growth results](covid-achievement-impacts-likely-underestimated-attrition.md) — the general claim this finding bears on, with the studies behind it
 - [The dashboard's cross-sectional view compares same-grade students across terms using the full sample of testers, but attrition is not random](cross-sectional-view-full-sample-attrition-caveat.md) — related
 - [The study's invariance findings may be biased by excluding students who missed a test and by sample heterogeneity](map-invariance-study-sample-bias-limitations.md) — related
 - [State-level dashboard results are reported only when at least 20% of students were tested across most grades and the sample contains at least 10 students](dashboard-state-inclusion-thresholds-20-percent-10-students.md) — related

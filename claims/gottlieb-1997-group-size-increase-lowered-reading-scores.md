@@ -41,6 +41,7 @@ The review attributes this to a 1997 research report evaluating increases in res
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Small group instruction is associated with significantly larger effect sizes than CAI and incentive components in targeted secondary interventions](small-group-instruction-outperforms-cai-incentives.md) — the general claim this finding bears on, with the studies behind it
 - [TEP's student population was similar to other neighborhood schools: high poverty, mostly Hispanic, with similar rates of special education services](tep-student-population-comparable-to-neighborhood-schools.md) — related

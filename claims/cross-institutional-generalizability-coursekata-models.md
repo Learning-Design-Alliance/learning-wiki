@@ -60,7 +60,8 @@ Case study design: models were developed on one introductory statistics course a
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out](abc-early-warning-indicators-predict-dropout.md) — the general claim this finding bears on, with the studies behind it
 - [Behavioral-only metrics from an instrumented online textbook support early prediction of final course grades in flipped statistics courses](behavioral-only-early-prediction-flipped-statistics.md) — related
 - [A predictive model built from school and child welfare data identifies students at risk of near-term academic problems](school-child-welfare-data-predict-near-term-academic-risks.md) — related

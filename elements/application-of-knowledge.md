@@ -13,7 +13,7 @@ generated:
 # Application of Knowledge
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (7 for, 2 mixed, 2 against) · 22 studies (7 causal, 6 quant-synthesis, 3 review, 2 qualitative, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 4 of 22 report an effect size · 5 claims rest on one study
+> **Evidence** · 14 claims (10 for, 2 mixed, 2 against) · 27 studies (8 causal, 7 quant-synthesis, 5 review, 3 qualitative, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 5 of 27 report an effect size · 7 claims rest on one study
 
 ## Description
 Application of Knowledge asks learners to use newly acquired concepts, procedures, or principles to solve real-world problems, analyze case studies, or complete authentic tasks. Rather than ending instruction at recall or explanation, it requires learners to act on content — deciding, diagnosing, designing, or performing — which consolidates understanding and reveals gaps that passive study conceals.

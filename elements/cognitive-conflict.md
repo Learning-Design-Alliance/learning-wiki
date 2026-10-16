@@ -13,7 +13,7 @@ generated:
 # Cognitive Conflict
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 7 studies (3 causal, 2 quant-synthesis, 1 associational, 1 design), `q2`–`q4` · 1 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 11 studies (4 causal, 4 quant-synthesis, 1 associational, 1 qualitative, 1 design), `q2`–`q4` · 2 of 11 report an effect size · 3 claims rest on one study
 
 ## Description
 Cognitive conflict is the deliberate introduction of evidence, questions, or situations that contradict learners' existing conceptions, creating a state of [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md) that motivates accommodation. Rooted in Piaget's equilibration model, it functions as the trigger for conceptual change: learners must notice the conflict, experience dissatisfaction with their current conception, and construct a replacement that resolves it.

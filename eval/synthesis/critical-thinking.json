@@ -1,0 +1,126 @@
+{
+  "principle": "theories/critical-thinking",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "direct-ct-instruction-outperforms-implicit-strategies",
+      "question": "Does teaching critical thinking explicitly, rather than expecting it to emerge from other activities, improve learners' critical thinking, and does it transfer beyond the subject it was taught in?",
+      "members": [
+        [
+          "implicit-strategies-inconclusive-domain-specific-only",
+          "+"
+        ],
+        [
+          "instructional-approach-alone-does-not-determine-ct-effectiveness",
+          "~"
+        ],
+        [
+          "year-level-moderates-ct-instruction-effectiveness",
+          "~"
+        ],
+        [
+          "ct-measure-type-influences-effectiveness-evaluation",
+          "~"
+        ],
+        [
+          "pbl-consistently-improves-critical-thinking",
+          "~"
+        ],
+        [
+          "hots-teaching-enhances-critical-thinking",
+          "+"
+        ],
+        [
+          "hots-teaching-improves-ct-dispositions",
+          "+"
+        ],
+        [
+          "tefa-t-improves-critical-thinking-skills",
+          "+"
+        ],
+        [
+          "critical-thinking-transfer-better-alongside-content",
+          "~"
+        ],
+        [
+          "disciplinary-perspective-critical-thinking",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "contradictory-meta-reviews-ai-critical-thinking",
+      "question": "Does using generative AI help or harm learners' critical thinking, and what decides which?",
+      "members": [
+        [
+          "genai-moderate-positive-effect-hot",
+          "~"
+        ],
+        [
+          "genai-hot-dimension-effect-sizes",
+          "~"
+        ],
+        [
+          "genai-higher-order-thinking-g072",
+          "~"
+        ],
+        [
+          "gpt-feedback-hots-problem-solving-critical-thinking-limited-creativity",
+          "~"
+        ],
+        [
+          "unscaffolded-genai-no-critical-thinking-difference",
+          "~"
+        ],
+        [
+          "wise-agent-no-aggregate-ct-gain",
+          "~"
+        ],
+        [
+          "structured-ai-integration-enhances-literacy-retention-critical-thinking",
+          "~"
+        ],
+        [
+          "ai-reliance-correlated-lower-critical-thinking-offloading",
+          "~"
+        ],
+        [
+          "overreliance-ai-dialogue-reduces-critical-analytical-thinking",
+          "~"
+        ],
+        [
+          "overreliance-reduced-critical-thinking-ai-efl",
+          "~"
+        ],
+        [
+          "awe-overreliance-lowers-critical-thinking-creativity",
+          "~"
+        ],
+        [
+          "genai-dependence-negative-both-outcomes",
+          "~"
+        ],
+        [
+          "genai-use-adjusted-positive-ct-disposition",
+          "~"
+        ],
+        [
+          "sem-genai-dependence-positive-paths-creativity",
+          "~"
+        ],
+        [
+          "genai-use-positive-association-critical-thinking-total-effect",
+          "~"
+        ],
+        [
+          "ai-use-positively-associated-critical-thinking-medical-students",
+          "~"
+        ],
+        [
+          "llm-errors-prompt-validation-cycles-critical-thinking",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

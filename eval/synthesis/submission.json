@@ -1,0 +1,50 @@
+{
+  "principle": "elements/submission",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "timely-feedback-improves-homework-learning",
+      "question": "Does independent practice outside class (homework) raise achievement, and what makes it work?",
+      "members": [
+        [
+          "preparation-homework-beats-same-day-homework",
+          "+"
+        ],
+        [
+          "spaced-interleaved-homework-practice",
+          "+"
+        ],
+        [
+          "assistments-long-term-math-impact-grade-8",
+          "+"
+        ],
+        [
+          "follow-up-homework-modestly-boosts-exam-performance",
+          "+"
+        ],
+        [
+          "genai-homework-advantage-no-transfer",
+          "~"
+        ],
+        [
+          "valid-test-cases-not-fewer-submissions",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "probing-feedback-revise-resubmit-evidence",
+      "question": "Does requiring learners to revise and resubmit after feedback improve the work, and when do repeated resubmissions stop helping?",
+      "members": [
+        [
+          "layered-feedback-more-tasks-three-plus-submissions",
+          "~"
+        ],
+        [
+          "negative-behavioral-path-submissions-mediation",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

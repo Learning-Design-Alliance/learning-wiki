@@ -53,6 +53,8 @@ A meta-analysis of STEM-learning studies published 2005–2020 (35 articles, 160
 
 ## Related Claims
 
+- [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](learner-constructed-graphic-organizers-outperform-provided.md) — the general claim this finding bears on, with the studies behind it
 
 - [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) — drawing must fit within the same working-memory limits it is meant to exploit

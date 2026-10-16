@@ -42,8 +42,9 @@ Multinomial logistic regression analysis of scoring deviations (AI score minus e
 
 ## Discussion
 
-
 ## Related Claims
+
+- [LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks](llm-grading-mixed-against-human-raters.md) — the general claim this finding bears on, with the studies behind it
 - [Higher linguistic quality shows no consistent association with overestimation of conceptual understanding by AI-based scoring](no-consistent-linguistic-overestimation-ai-scoring.md) — related
 - ML-based scoring approaches more often overestimated expert-assigned scores, whereas LLM-based approaches more often underestimated them — related
 - Expert-assigned conceptual understanding and linguistic quality scores are moderately correlated (r = .50) in the student explanation dataset — related

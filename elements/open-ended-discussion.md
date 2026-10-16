@@ -13,7 +13,7 @@ generated:
 # Open-Ended Discussion
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies (3 quant-synthesis, 3 review, 2 causal, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 15 studies (5 review, 4 causal, 4 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 3 of 15 report an effect size · 1 claim rests on one study
 
 ## Description
 Open-ended discussion is facilitated dialogue in which learners collectively explore a question, text, or problem that has no single predetermined answer. The instructor's role shifts from transmitting content to structuring and steering talk — posing probing questions, requiring justification, and distributing participation — so that learners construct and test ideas against one another.

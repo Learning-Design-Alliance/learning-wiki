@@ -39,6 +39,19 @@ Narrative review section on analysing exemplars, reporting a second-hand finding
 
 > "In a study by Scoles, Huxham, and McArthur (2013), it was found that students who accessed exemplar examination answers posted on the LMS achieved higher grades than those who did not."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does giving learners exemplars of finished work, analysed against the criteria, improve their own work and their judgement of quality?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (2 causal, 1 review, 1 theoretical), `q1`–`q2`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [David Carless & David Boud 2018](https://doi.org/10.1080/02602938.2018.1463354) | q2 · review · r2 | i? | this claim |
+| [Bradley Irwin and Theron Muller 2026](https://doi.org/10.3390/educsci16040544) | q1 · theoretical · r2 | i? | [Exemplar-based calibration is expected to align student ratings with expert ratings at the](trainer-calibration-expected-align-rater-judgments.md) (supports) |
+| [Andrade et al. 2010](https://doi.org/10.1080/09695941003696172) | q2 · causal · r? | i? | [Self-assessing against a rubric improved the quality of student work in two non-randomised](rubrics-improve-student-work.md) (supports) |
+| [Panadero & Romero 2014](https://doi.org/10.1080/0969594x.2013.877872) | q2 · causal · r? | i? | [Self-assessing against a rubric improved the quality of student work in two non-randomised](rubrics-improve-student-work.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

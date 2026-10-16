@@ -41,8 +41,9 @@ The essay reports, citing Guo et al. (2014), an observational analysis of video-
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Segmenting video into short pieces or click-forward pauses supports student engagement and learning from video](segmenting-supports-video-engagement-learning.md) — the general claim this finding bears on, with the studies behind it
 - [No dose-response effect: video benefits do not systematically increase with intervention length](no-dose-response-video-duration.md) — related
 - [MOOC video engagement declines with video length, with median engagement under half the duration for videos longer than nine minutes](mooc-engagement-declines-with-video-length.md) — possibly the same claim (merge candidate)
 - [A University of Pennsylvania study found only about half of MOOC registrants viewed a lecture and only about four percent finished a course entirely](mooc-completion-four-percent.md) — related

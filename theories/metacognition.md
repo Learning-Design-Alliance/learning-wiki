@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 47 claims (25 for, 19 mixed, 3 against) · 40 studies (17 causal, 7 review, 7 theoretical, 5 qualitative, 2 associational, 2 design), `q1`–`q4` · 6 of 40 report an effect size · 45 claims rest on one study
+> **Evidence** · 48 claims (26 for, 19 mixed, 3 against) · 42 studies (18 causal, 7 review, 7 theoretical, 5 qualitative, 2 associational, 2 design, 1 quant-synthesis), `q1`–`q4` · 7 of 42 report an effect size · 45 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.

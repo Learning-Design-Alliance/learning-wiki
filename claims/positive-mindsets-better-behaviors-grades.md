@@ -41,12 +41,13 @@ The review reports, citing Farrington et al. (2012), a consistent correlational 
 
 ## Discussion
 
-
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
 - [Mindset](../learner-variables/mindset.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](growth-mindset-achievement-correlation-weak.md) — the general claim this finding bears on, with the studies behind it
 - [The same student can hold different mindsets in different classrooms, and grades rise or fall across classrooms as mindsets change, with differences traceable to teachers' practices](mindsets-vary-across-classrooms-with-teacher-practices.md) — a narrower finding that bears on this claim
 - [Positive academic mindsets increase perseverance and academic behaviors, yielding higher grades; negative mindsets produce a self-defeating cycle](mindsets-increase-perseverance-behaviors-grades.md) — possibly the same claim (merge candidate)
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related

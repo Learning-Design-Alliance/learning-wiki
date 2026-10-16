@@ -58,10 +58,25 @@ Results overview across the elementary and high school outcomes. The report stat
 
 > "Notably, all measures were not associated with all outcomes. But nearly all outcomes were positively related to at least one-half the 5Essentials Survey measures."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do schools that score strong on the 5Essentials Survey go on to improve more on attendance, grades and on-track rates, and in which schools?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **5 distinct studies** (3 associational, 1 design, 1 theoretical), `q2`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Hart 2020 | q2 · associational · r3 | i? | this claim; [Elementary attendance improved more in schools that were strong or growing on 5Essentials ](elementary-attendance-improves-strong-5essentials-measures.md) (supports); [Yearly high school attendance grew up to 3.55 percentage points more in schools with stron](high-school-attendance-strong-5essentials-measures.md) (supports); [Elementary GPA improved more in schools with strong 5Essentials Survey scores, a new outco](elementary-gpa-strong-5essentials-measures.md) (supports); [Freshman OnTrack rates improved by as much as 3.25 percentage points more in high schools ](freshman-ontrack-strong-5essentials-measures.md) (supports); [Base strength predicted outcome improvement better than growth in aggregate, and pooled re](base-strength-predicts-improvement-better-than-growth.md) (qualifies); [Multiple student survey measures negatively predicted GPA; significant negative associatio](student-survey-measures-negative-gpa-prediction.md) (qualifies) |
+| Title as printed 2021 | q2 · associational · r? | i? | [5Essentials Survey measures predicted school improvement in both high- and low-poverty sch](5essentials-predicts-improvement-high-low-poverty.md) (supports); [Among elementary schools with strong 5Essentials results, high-poverty schools improved mo](high-poverty-strong-schools-improved-more.md) (qualifies) |
+| 5Essentials Survey: New insights for school leaders 2026 | q2 · associational · r? | i? | [Strong scores and growth on the 5Essentials Survey predict student success measures includ](5essentials-scores-predict-student-success-measures.md) (supports) |
+| UChicago Consortium on School Research 2026 | q2 · design · r2 | i? | [Students' survey reports of their school experiences predict later academic and well-being](student-experience-survey-reports-predict-school-outcomes.md) (supports) |
+| Sebring 2021 | q2 · theoretical · r2 | i? | [Schools where students report feeling more safe, supported, and challenged show stronger a](student-reports-safe-supported-challenged-growth.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
-
 ## Related Claims
+
+- [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](schools-strong-three-plus-supports-ten-times-more-likely-improve.md) — the general claim this finding bears on, with the studies behind it
 - [Elementary GPA improved more in schools with strong 5Essentials Survey scores, a new outcome beyond the original validation](elementary-gpa-strong-5essentials-measures.md) — related
 - [Strong scores and growth on the 5Essentials Survey predict student success measures including GPA, attendance, test scores, and college enrollment](5essentials-scores-predict-student-success-measures.md) — a broader claim this one bears on
 - [5Essentials Survey measures predicted school improvement in both high- and low-poverty schools at elementary and high school levels](5essentials-predicts-improvement-high-low-poverty.md) — possibly the same claim (merge candidate)

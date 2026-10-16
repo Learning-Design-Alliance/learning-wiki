@@ -97,6 +97,18 @@
         [
           "pretesting-can-harm-motivation",
           "~"
+        ],
+        [
+          "unsuccessful-retrieval-smaller-benefit-than-successful",
+          "~"
+        ],
+        [
+          "high-confidence-errors-improve-retention",
+          "~"
+        ],
+        [
+          "condition-multivariate-effect-posttest-effort",
+          "+"
         ]
       ]
     },
@@ -127,6 +139,38 @@
         [
           "cscl-simulation-conceptual-change-cognitive-engagement",
           "~"
+        ],
+        [
+          "prediction-graphing-reveals-classification-thinking",
+          "+"
+        ],
+        [
+          "force-motion-conceptions-difficult-to-change",
+          "~"
+        ],
+        [
+          "automated-annotations-accelerate-misconception-correction",
+          "+"
+        ],
+        [
+          "fci-gain-increased-peer-instruction-harvard",
+          "+"
+        ],
+        [
+          "peer-conflicts-conditional-on-reflection",
+          "~"
+        ],
+        [
+          "personal-construction-required-stable-conceptual-change",
+          "~"
+        ],
+        [
+          "high-equality-mutuality-not-sufficient-conceptual-change",
+          "~"
+        ],
+        [
+          "belief-consistent-facts-better-recognized",
+          "~"
         ]
       ]
     },
@@ -149,6 +193,50 @@
         [
           "cohesion-no-effect-delayed-recall",
           "~"
+        ],
+        [
+          "prior-knowledge-impacts-text-understanding",
+          "+"
+        ],
+        [
+          "prior-achievement-affects-conceptual-understanding",
+          "+"
+        ],
+        [
+          "revised-visuals-no-learning-effect",
+          "+"
+        ],
+        [
+          "high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load",
+          "+"
+        ],
+        [
+          "viewing-vocabulary-learning-affected-by-frequency-prior-knowledge-cognateness",
+          "+"
+        ],
+        [
+          "procedural-prior-predicts-conceptual-post",
+          "~"
+        ],
+        [
+          "prior-biology-predicts-ai-lessons-one-two-not-three-four",
+          "~"
+        ],
+        [
+          "entrance-age-advantage-reflects-prior-skill-accumulation",
+          "+"
+        ],
+        [
+          "hake-ie-gains-two-sd-greater",
+          "~"
+        ],
+        [
+          "gamma-process-positive-gain-pretest-correlation",
+          "~"
+        ],
+        [
+          "prior-knowledge-not-related-to-performance",
+          "-"
         ]
       ]
     }

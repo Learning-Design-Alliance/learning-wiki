@@ -59,8 +59,9 @@ Descriptive correlation analysis (Table 1, N = 421). The article reports the fou
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Meta-reviews reach contradictory conclusions on whether AI reliance harms or helps critical thinking, with substantial design limitations limiting generalizability](contradictory-meta-reviews-ai-critical-thinking.md) — the general claim this finding bears on, with the studies behind it
 - [AI literacy significantly enhances students' critical AI evaluation in generative-AI-supported learning](ai-literacy-enhances-critical-ai-evaluation.md) — related
 - [GenAI feedback literacy mediates the association between GenAI use and critical thinking, with near-complete mediation](genai-feedback-literacy-mediation-critical-thinking.md) — related
 - [Reflective thinking moderates the direct GenAI use–critical thinking path: positive at low reflectivity, non-significant at high reflectivity](reflective-thinking-moderates-direct-genai-critical-thinking-path.md) — related

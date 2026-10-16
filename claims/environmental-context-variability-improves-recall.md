@@ -41,6 +41,7 @@ The review reports S. M. Smith et al. (1978): the same list was studied in two s
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Encoding variability across varied example contexts produces decontextualization supporting transfer (review reports DiVesta and Peverly)](encoding-variability-decontextualization-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Eliminating differential storage of structural components reduces the free-recall spacing effect at moderate to long lags](free-recall-lag-effect-structural-components.md) — related

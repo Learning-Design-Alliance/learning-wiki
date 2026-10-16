@@ -41,8 +41,9 @@ New exploratory analysis this year comparing students just above and below signi
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Literacy screener benchmarks predict which grade 3 students will not meet MCAS ELA expectations, but not necessarily who will meet them](screeners-predict-mcas-failure-not-success.md) — the general claim this finding bears on, with the studies behind it
 - [Early screening benchmark status predicts later performance: most beginning-of-year at-risk students stay at risk, and meeting benchmarks by end of grade 1 is associated with much higher grade 3 MCAS odds](massachusetts-early-benchmark-status-predicts-later-mcas.md) — related
 - [Few students identified as significantly below benchmark in grades 1–3 met MCAS expectations 1 or 2 years later, with higher rates for earlier identification](significant-risk-low-mcas-meeting-rates.md) — related
 - [Among students below benchmark at the start of grade 1, meeting screening benchmarks earlier is associated with higher grade 3 MCAS proficiency rates](earlier-benchmark-attainment-higher-mcas.md) — related

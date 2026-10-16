@@ -41,11 +41,12 @@ Case-study analysis drawing on Cooney's (1994) five suggested contexts, of which
 
 ## Discussion
 
-
 ## Learner Variables
 - [Epistemic Beliefs](../learner-variables/epistemic-beliefs.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) — the general claim this finding bears on, with the studies behind it
 - [A preservice secondary mathematics teacher's philosophy evolved subtly over a year, appending a 'deeper understanding' view to his original absolutist theory of mathematics](preservice-philosophy-evolved-by-appending-deeper-understanding.md) — related
 - [Perturbation or dissatisfaction with current beliefs, stimulated by reflecting on experiences through the NCTM Standards, was an important stimulus for change in a preservice teacher's philosophy](perturbation-stimulates-philosophy-change.md) — related
 - [A preservice teacher's self-perceived confidence and success with traditional mathematics inhibited reinterpreting his understanding of mathematics](math-confidence-inhibits-philosophy-reinterpretation.md) — related

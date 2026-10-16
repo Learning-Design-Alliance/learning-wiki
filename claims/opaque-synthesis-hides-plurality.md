@@ -39,6 +39,7 @@ Conceptual analysis in the review's Pathway 3 section, contrasting conventional 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users](chatgpt-reduced-differentiation-verification.md) — the general claim this finding bears on, with the studies behind it
 - [Civic Online Reasoning Instruction Improves Evaluation](civic-online-reasoning-instruction-improves-evaluation.md) — related

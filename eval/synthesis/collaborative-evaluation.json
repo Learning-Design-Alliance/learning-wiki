@@ -29,6 +29,46 @@
         [
           "peer-feedback-improves-writing",
           "+"
+        ],
+        [
+          "fas-improves-peer-feedback-generation",
+          "+"
+        ],
+        [
+          "feedback-direction-moderator-student-student-highest",
+          "+"
+        ],
+        [
+          "peer-assessment-improves-unit-quiz-achievement",
+          "+"
+        ],
+        [
+          "peer-assessment-gains-persist-to-final-exam",
+          "+"
+        ],
+        [
+          "perception-of-peer-assessment-benefit-uncorrelated-with-actual-benefit",
+          "~"
+        ],
+        [
+          "peers-better-problem-identification-feedback",
+          "~"
+        ],
+        [
+          "coached-peer-review-improves-comment-quality-and-uptake",
+          "~"
+        ],
+        [
+          "peer-assessment-game-development-improves-achievement-motivation-problem-solving",
+          "+"
+        ],
+        [
+          "peer-response-groups-writing-idea-units",
+          "~"
+        ],
+        [
+          "peer-assessment-effect-size-versus-achievement-gaps",
+          "+"
         ]
       ]
     },
@@ -43,6 +83,46 @@
         [
           "prior-knowledge-needed-for-accurate-self-assessment",
           "~"
+        ],
+        [
+          "fas-partially-improves-internal-feedback",
+          "~"
+        ],
+        [
+          "fas-no-gain-missing-info-suggestions-own-draft",
+          "~"
+        ],
+        [
+          "rubrics-improve-peer-feedback-quality",
+          "~"
+        ],
+        [
+          "prompt-revision-increased-feedback-specificity",
+          "~"
+        ],
+        [
+          "coached-peer-review-improves-comment-quality-and-uptake",
+          "~"
+        ],
+        [
+          "peers-better-problem-identification-feedback",
+          "~"
+        ],
+        [
+          "peer-grades-correlate-highly-with-staff-grades-mooc",
+          "~"
+        ],
+        [
+          "median-aggregation-improves-peer-grade-agreement",
+          "~"
+        ],
+        [
+          "in-group-favoritism-peer-grading-country",
+          "~"
+        ],
+        [
+          "peer-feedback-soft-evaluative-judgement-statistics",
+          "~"
         ]
       ]
     },
@@ -51,12 +131,28 @@
       "question": "When the objects are online sources, which criteria should learners be taught to judge them by?",
       "members": [
         [
-          "checklist-evaluation-ineffective-online",
-          "~"
+          "course-embedded-modules-improve-credibility-scores",
+          "+"
+        ],
+        [
+          "lateral-reading-increased-post-intervention",
+          "+"
+        ],
+        [
+          "surface-strategies-declined-after-modules",
+          "+"
+        ],
+        [
+          "gains-robust-to-test-form-order",
+          "+"
         ],
         [
           "ai-media-literacy-program-large-posttest-gains",
           "+"
+        ],
+        [
+          "checklist-evaluation-ineffective-online",
+          "~"
         ],
         [
           "collaborative-evidence-critique-shifts-students-toward-procedural-objectivity",

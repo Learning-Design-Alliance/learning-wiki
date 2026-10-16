@@ -17,7 +17,7 @@ sources:
 # Situated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (2 for, 2 mixed, 1 against) · 9 studies (3 causal, 2 qualitative, 1 quant-synthesis, 1 review, 1 design, 1 theoretical), `q1`–`q4` · 0 of 9 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 11 studies (3 causal, 2 qualitative, 2 theoretical, 1 quant-synthesis, 1 review, 1 associational, 1 design), `q1`–`q4` · 0 of 11 report an effect size · 4 claims rest on one study
 
 ## Description
 Situated learning holds that knowledge is inseparable from the social, material, and cultural contexts in which it is used. Learning is strengthened when it happens through participation in authentic practices rather than only through abstract decontextualized instruction.

@@ -1,0 +1,110 @@
+{
+  "principle": "elements/cognitive-strategies",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "strategy-instruction-improves-academic-performance",
+      "question": "Does explicitly teaching learners cognitive and self-regulatory strategies (elaboration, organisation, monitoring) improve their achievement, and what kind of training works best?",
+      "members": [
+        [
+          "srl-strategies-large-effect-academic-achievement",
+          "+"
+        ],
+        [
+          "srl-effect-no-strategy-type-difference",
+          "~"
+        ],
+        [
+          "mixed-srl-strategy-interventions-greatest-impact",
+          "~"
+        ],
+        [
+          "multiple-strategy-training-better-comprehension-than-single-strategy",
+          "~"
+        ],
+        [
+          "learning-strategy-instruction-contextualized-more-effective",
+          "~"
+        ],
+        [
+          "strategy-prompts-increase-strategy-use-mediated-outcomes",
+          "+"
+        ],
+        [
+          "elaboration-strategy-affects-posttest-performance",
+          "+"
+        ],
+        [
+          "short-srl-strategy-training-enhances-math-performance",
+          "+"
+        ],
+        [
+          "diary-plus-srl-instruction-raises-strategy-use-self-efficacy",
+          "+"
+        ],
+        [
+          "strategy-instruction-needs-conditional-knowledge",
+          "~"
+        ],
+        [
+          "reading-strategy-instruction-improves-comprehension",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "learners-underuse-effective-learning-strategies",
+      "question": "When learners choose their own study strategies, do they choose the ones that work?",
+      "members": [
+        [
+          "learners-misjudge-effective-learning-strategies",
+          "+"
+        ],
+        [
+          "instructions-increase-self-testing-cumulative-learning",
+          "~"
+        ],
+        [
+          "instructions-promote-three-recall-criterion",
+          "~"
+        ],
+        [
+          "retrieval-instructions-improve-final-recall-exp1",
+          "~"
+        ],
+        [
+          "spontaneous-strategy-transfer-one-week-delay",
+          "~"
+        ],
+        [
+          "mixed-effects-across-experiments-criterion-failures",
+          "~"
+        ],
+        [
+          "students-report-classroom-retrieval-practice-helps-learning-and-reduces-exam-nervousness",
+          "~"
+        ],
+        [
+          "learners-misjudge-spacing-benefits",
+          "+"
+        ],
+        [
+          "underuse-stems-from-false-beliefs-and-counterintuition",
+          "+"
+        ],
+        [
+          "rereading-is-a-low-utility-study-strategy",
+          "+"
+        ],
+        [
+          "students-aware-of-strategies-but-fail-to-act",
+          "~"
+        ],
+        [
+          "instructions-increase-learning-time-allocation",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

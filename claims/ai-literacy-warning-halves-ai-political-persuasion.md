@@ -41,8 +41,9 @@ Multilevel random-effects meta-analysis pooling 32 warning-by-cell estimates fro
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI literacy interventions show a large, statistically significant overall positive effect on student AI literacy outcomes (g = 0.837)](ai-literacy-interventions-large-overall-effect.md) — the general claim this finding bears on, with the studies behind it
 - [In Study 1, the general warning significantly reduced persuasive effects on housing-policy attitudes (b=−1.81, p= 0.001)](study1-warning-reduces-housing-persuasion.md) — a narrower finding that bears on this claim
 - [In Study 2, both general and specific warnings at least marginally reduce attitude change, with no significant difference between them](study2-general-specific-warnings-reduce-change.md) — a narrower finding that bears on this claim
 - [Warning effect size shows no significant heterogeneity across topics and studies](warning-effect-no-heterogeneity-across-topics.md) — related

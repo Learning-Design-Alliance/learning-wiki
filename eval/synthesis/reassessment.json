@@ -1,0 +1,41 @@
+{
+  "principle": "elements/reassessment",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "peer-discussion-improves-conceptual-understanding",
+      "question": "Does discussing a committed answer with peers improve a later individual answer on a new question?",
+      "members": [
+        [
+          "fci-gain-increased-peer-instruction-harvard",
+          "+"
+        ],
+        [
+          "learning-attributed-to-process-not-technology",
+          "+"
+        ],
+        [
+          "correct-correct-clicker-pattern-higher-exam-performance",
+          "~"
+        ],
+        [
+          "any-clicker-pattern-beats-absence-except-lowest-quartile",
+          "~"
+        ],
+        [
+          "clicker-vote-patterns-null-on-homework-explanations",
+          "~"
+        ],
+        [
+          "clicker-participation-and-homework-completion-predict-exam-performance",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "high-confidence-errors-improve-retention",
+      "question": "Which errors to correct first: are errors made with high confidence corrected more durably than low-confidence ones?",
+      "members": []
+    }
+  ]
+}

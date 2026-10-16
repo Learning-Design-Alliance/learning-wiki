@@ -65,6 +65,36 @@ A year-long study of 35 fourth-graders across two classrooms implementing Qualit
 
 <!-- merged duplicate entry 2026-10-14: two further copies of this entry (one restored 2026-10-05 from discussion-quality-drives-comprehension, one from structured-discussion-approaches-improve-comprehension) were identical to the one above except for the codes line, which read: `q2 · single-group, time-series design (no control group)` · `i3 · large effect on basic comprehension, d=1.25; small-to-medium on high-level comprehension, d=0.35` · `n=35 students (2 fourth-grade classrooms)` · `design · r2` -->
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Which discussion structures and facilitation make open discussion produce learning, rather than just more talk?* This table gathers the studies behind this claim and the 21 narrower claims that bear on it: **21 distinct studies** (6 causal, 4 quant-synthesis, 4 review, 4 qualitative, 1 theoretical, 1 design, 1 associational), `q1`–`q4`, 5 of 21 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Murphy et al. 2009](https://doi.org/10.1037/a0015576) | q4 · quant-synthesis · r? | i? | this claim |
+| [Murphy et al. 2018](https://doi.org/10.3102/0002831218771303) | q2 · causal · r1 | i3 · large effect on basic comprehension, d=1.25; small-to-medium on high-level comprehension, d=0.35 | this claim |
+| [Michelene T. H. Chi & Ruth Wylie 2014](https://doi.org/10.1080/00461520.2014.965823) | q2 · theoretical · r3 | i? | [Interactive engagement requires both partners' utterances to be primarily constructive and](interactive-requires-constructive-turn-taking.md) (supports); [In individual dialogue patterns, the dominant speaker learns more than the listening partn](individual-dialogue-dominant-speaker-learns-more.md) (qualifies) |
+| Blosser 1993 | q2 / q3 · review · r3 | i? | [Conceptual change strategies in cooperative groups reduced misconceptions in community col](cooperative-conceptual-change-chemistry-misconceptions.md) (qualifies) |
+| [Zhou 2023](https://doi.org/10.1080/10494820.2023.2205904) | q3 · quant-synthesis · r? | i2 · medium effect, g=0.603 (learn to argue), g=0.596 (argue to learn) | [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) (supports) |
+| [Kuhn & Crowell 2011](https://doi.org/10.1177/0956797611402512) | q2 · causal · r? | i? | [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) (supports) |
+| [benefits-1](https://doi.org/10.51388/20.500.12265/251) | q1 / q2 · review · r2 | i? | [Collaborative argumentation benefits students' motivation, content learning, domain argume](collaborative-argumentation-benefits-summary.md) (supports); [Productive discourse practices correlate with improved performance on standardized tests o](discourse-practices-correlate-reasoning-tests.md) (supports); [Shifting away from traditional IRE recitation toward student participation in discussion i](ire-shift-toward-discussion-improves-learning.md) (supports) |
+| [Marques 2026](https://doi.org/10.48550/arxiv.2610.07205) | q2 · qualitative · r3 | i? | [Transition network analysis shows the chatbot's prompts and explanations structured the in](tna-chatbot-prompts-structure-user-interpretation.md) (qualifies) |
+| [Tobin 1987](https://doi.org/10.3102/00346543057001069) | q3 · review · r? | i? | [Reviews of classroom studies, read from their abstracts, associate longer teacher wait tim](increasing-wait-time-improves-response-quality.md) (supports) |
+| [Rowe 1986](https://doi.org/10.1177/002248718603700110) | q2 · review · r? | i? | [Reviews of classroom studies, read from their abstracts, associate longer teacher wait tim](increasing-wait-time-improves-response-quality.md) (supports) |
+| [Pittaway 2014](https://doi.org/10.14221/ajte.2014v39n7.10) | q2 · design · r2 | i? | [A student-led small-group discussion assessment sustained online participation and produce](student-led-discussion-task-sustains-online-participation.md) (supports) |
+| [Furberg & Silseth 2022](https://doi.org/10.1080/10508406.2021.1954521) | q2 · qualitative · r3 | i? | [Positioning students as sources increases productive participation in science discourse](positioning-students-as-sources-increases-productive-participation-in-science-discourse.md) (supports) |
+| [Irving 2013](https://doi.org/10.48550/arxiv.1312.1953) | q2 · qualitative · r3 | i? | [The quality of inter-group interactions shifted from brief, superficial exchanges to long,](adlab-interaction-quality-shifted-from-superficial-to-collaborative.md) (qualifies) |
+| [Jin 2026](https://doi.org/10.58459/rptel.2027.22029) | q2 · causal · r? | i? | [The AI-IVE-PBL model's learning-outcome advantages are attributed to fostering sustained i](sidd-mechanism-for-ai-ive-pbl-outcomes.md) (supports) |
+| [Syed Furqan Abbas Hashmi and N. Sanjay Rebello 2026](https://doi.org/10.48550/arxiv.2608.07373) | q2 · qualitative · r2 | i? | [The top of the student-discourse distribution contains essentially no categories of explic](conceptual-reasoning-absent-from-discourse-head.md) (qualifies) |
+| What Works Clearinghouse 2006 | q2 / q3 · causal · r2 | i2; i? | [Instructional Conversations and Literature Logs produce statistically significant positive](ic-ll-significant-story-comprehension-rct.md) (supports); [In a five-year quasi-experimental study, the intervention program showed a statistically s](ic-ll-longitudinal-reading-quasi-experiment.md) (supports); [The WWC rates Instructional Conversations and Literature Logs as having potentially positi](ic-ll-potentially-positive-wwc-rating.md) (supports); [When implemented alone, neither Literature Logs nor Instructional Conversations produced s](ic-ll-single-component-effects-nonsignificant.md) (qualifies) |
+| [Slezak 2011](https://doi.org/10.48550/arxiv.1110.0050) | q2 · causal · r2 | i1 | [Socratic dialogue by a skilled but inefficient teaching assistant underperformed: lengthy,](socratic-dialogue-needs-efficiency-and-summaries.md) (qualifies) |
+| [Hampton 2025](https://doi.org/10.51388/20.500.12265/249) | q2 · associational · r? | i? | [Teacher control over small-group dialogue is inversely related to groups' socially shared ](teacher-control-inverse-ssrl-physics.md) (qualifies) |
+| [Pacaci et al. 2024](https://doi.org/10.1002/tea.21887) | q4 · quant-synthesis · r? | i3 · large effect, g=1.10 (adjusted g=0.93) | [Conflict-based instruction improves science conceptual learning, though staged contradicti](cognitive-disequilibrium-motivates-conceptual-change.md) (qualifies) |
+| [Guzzetti et al. 1993](https://doi.org/10.2307/747886) | q3 · quant-synthesis · r? | i? | [Conflict-based instruction improves science conceptual learning, though staged contradicti](cognitive-disequilibrium-motivates-conceptual-change.md) (qualifies) |
+| [Lehman et al. 2013](https://doi.org/10.3233/jai-130025) | q3 · causal · r1 | i? | [Conflict-based instruction improves science conceptual learning, though staged contradicti](cognitive-disequilibrium-motivates-conceptual-change.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **What "structured" means here.** The claim is about discussion formats that impose explicit participation structures — turn-taking protocols, role assignments, talk moves, or accountability prompts — rather than open, unstructured class discussion. Unstructured discussion frequently allows a small number of students to dominate while others remain passive, which is the condition structured methods are designed to correct. See [Discussion-based learning](../principles/collaborative-learning.md) for implementation-level guidance.
@@ -97,6 +127,8 @@ A year-long study of 35 fourth-graders across two classrooms implementing Qualit
 **Open questions.** The two studies recorded above include no controlled comparison. The claim needs experimental or quasi-experimental studies comparing structured discussion conditions against unstructured or lecture-only controls, with comprehension measures, across age groups and subject areas.
 
 ## Related Claims
+
+- [Reciprocal Teaching Improves Reading Comprehension](reciprocal-teaching-improves-reading-comprehension.md) — the general claim this finding bears on, with the studies behind it
 
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — the general claim this finding bears on, with the studies behind it
 

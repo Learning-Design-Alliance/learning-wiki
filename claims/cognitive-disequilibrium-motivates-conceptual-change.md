@@ -84,7 +84,7 @@ Thirty-two undergraduates took part in eight computer-based "trialogues" about r
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does conflict-based instruction improve conceptual learning more than standard exposition?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **5 distinct studies** (2 quant-synthesis, 1 causal, 1 review, 1 design), `q2`–`q4`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does conflict-based instruction improve conceptual learning more than standard exposition?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **8 distinct studies** (2 quant-synthesis, 2 causal, 2 design, 1 review, 1 qualitative), `q2`–`q4`, 2 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -92,7 +92,10 @@ Thirty-two undergraduates took part in eight computer-based "trialogues" about r
 | [Guzzetti et al. 1993](https://doi.org/10.2307/747886) | q3 · quant-synthesis · r? | i? | this claim |
 | [Lehman et al. 2013](https://doi.org/10.3233/jai-130025) | q3 · causal · r1 | i? | this claim |
 | Blosser 1993 | q2 / q3 · review · r3 | i? | [Conceptual change strategies in cooperative groups reduced misconceptions in community col](cooperative-conceptual-change-chemistry-misconceptions.md) (supports) |
-| Tao 1997 | q2 · design · r2 | i? | [Alternative conceptions in force and motion were very difficult to change: of 14 students,](force-motion-conceptions-difficult-to-change.md) (qualifies) |
+| [Farr 2012](https://doi.org/10.48550/arxiv.1109.3720) | q2 · design · r2 | i? | [A demonstration-plus-guided-inquiry-plus-computational-model sequence helped most students](guided-inquiry-computational-model-overcomes-amplitude-misconception.md) (qualifies) |
+| Tao 1997 | q2 · qualitative · r2 | i? | [Computer-supported collaborative learning with simulation programs fostered conceptual cha](cscl-simulation-conceptual-change-cognitive-engagement.md) (qualifies); [Alternative conceptions in force and motion were very difficult to change: of 14 students,](force-motion-conceptions-difficult-to-change.md) (qualifies) |
+| [Howard Ziyu Han 2026](https://doi.org/10.48550/arxiv.2608.04166) | q3 · causal · r2 | i?; i3 | [Both constructive-conflict conditions produced substantially more idea editing between des](constructive-conflict-increases-idea-editing.md) (supports); [Both stepwise constructive-conflict guidance and the antagonistic agent led novice designe](constructive-conflict-guidance-increases-reconsideration.md) (supports); [Only the interactive antagonistic agent, not stepwise guidance, significantly shifted novi](agent-enacted-conflict-shifts-design-thinking.md) (qualifies); [Stepwise constructive-conflict guidance reduced new idea generation, while the antagonisti](stepwise-conflict-guidance-reduces-idea-addition.md) (qualifies) |
+| [Rajan Kadel 2026](https://doi.org/10.48550/arxiv.2609.03413) | q2 · design · r1 | i? | [Conflict with a machine-learning decision support system's output induces deeper reflectio](conflict-seed-induces-deeper-reflection.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -106,6 +109,8 @@ Thirty-two undergraduates took part in eight computer-based "trialogues" about r
 **Open questions.** The strength of this claim depends on how "conceptual change" is measured: self-reported satisfaction of curiosity, post-test performance, and durable restructuring of misconceptions are different outcomes, and evidence supporting the claim in one does not automatically support it in others. <!-- deprecated (2026-10-05, stale): Studies still need to be added to establish the evidence base for this page. --> Three studies are recorded above: two meta-analyses of conflict-based instruction (Pacaci et al. 2024 and Guzzetti et al. 1993, both read from abstracts), which measure learning outcomes rather than disequilibrium itself, and one small within-subjects experiment (Lehman et al. 2013) in which staged contradictions helped only when learners reported being confused. None measures durable restructuring of misconceptions, and none isolates disequilibrium as the mechanism.
 
 ## Related Claims
+
+- [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — the general claim this finding bears on, with the studies behind it
 
 - [Conceptual change strategies in cooperative groups reduced misconceptions in community college chemistry, but poor group leadership undermined discussion](cooperative-conceptual-change-chemistry-misconceptions.md) — the general claim this finding bears on, with the studies behind it
 

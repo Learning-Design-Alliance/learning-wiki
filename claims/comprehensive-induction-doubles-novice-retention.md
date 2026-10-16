@@ -41,8 +41,9 @@ The report's induction section reviews research on induction program components 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Mentoring strongly influences new teachers' decisions to stay in or leave teaching (review attribution)](mentoring-influences-new-teacher-retention.md) — the general claim this finding bears on, with the studies behind it
 - [High school novices receiving strong levels of broader induction supports were 50 percentage points more likely to plan to remain in their school than those with weak support](strong-supports-50-point-retention-plan-high-school.md) — related
 - [Combining intensive mentoring with other supports is associated with the largest retention-plan gaps: 48 percentage points for elementary and 55 for high school novices](combined-mentoring-supports-largest-retention-gain.md) — related
 - [Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years](teacher-preparation-mentoring-retention.md) — related

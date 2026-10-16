@@ -42,8 +42,9 @@ Thematic synthesis of the 50 included studies in this systematic review; the rev
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Included studies suggest engagement increases when adaptive platform activities are tailored to learners' personal needs and emotional state](adaptivity-emotional-tailoring-increases-engagement.md) — the general claim this finding bears on, with the studies behind it
 - A systematic review of 14 studies (8,305 participants) found AI-based tools enhanced comprehension, engagement, problem-solving, and critical thinking by personalizing learning experiences — possibly the same claim (merge candidate)
 - [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](gpt4-access-harms-learning-after-withdrawal.md) — reports the opposite
 - The review found AI was effective for improving basic problem-solving but required teacher mediation to handle more complex mathematical tasks — related

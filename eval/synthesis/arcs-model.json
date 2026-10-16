@@ -1,0 +1,36 @@
+{
+  "principle": "theories/arcs-model",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "effort-requires-task-value-and-expectation-of-success-arcs-rationale",
+      "question": "Does motivation as ARCS defines it (attention, relevance, confidence, satisfaction) go with learners' effort and use, and do design choices raise it?",
+      "members": [
+        [
+          "arcs-strongest-correlations-intention-use",
+          "+"
+        ],
+        [
+          "arcs-motivation-drives-use-behavior-not-intention",
+          "+"
+        ],
+        [
+          "arcs-moderation-effects-null",
+          "~"
+        ],
+        [
+          "ss-tt-higher-motivation-than-ts",
+          "~"
+        ],
+        [
+          "tt-format-moderates-ce-rce-motivation",
+          "~"
+        ],
+        [
+          "assessment-redesign-insights-tlc-convening",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

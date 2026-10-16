@@ -41,7 +41,8 @@ Null finding from the quasi-experimental comparison of FAS-supported vs. unsuppo
 
 ## Discussion
 
-
 ## Related Claims
+
+- [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — the general claim this finding bears on, with the studies behind it
 - [A formative assessment script increases the quantity and quality of peer feedback vocational students generate on a peer's draft](fas-improves-peer-feedback-generation.md) — related
 - [FAS support partially improves internal feedback: more comments on and fewer ignored erroneous elements in students' own drafts](fas-partially-improves-internal-feedback.md) — related

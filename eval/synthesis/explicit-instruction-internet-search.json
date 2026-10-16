@@ -1,0 +1,36 @@
+{
+  "principle": "principles/explicit-instruction-internet-search",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "web-search-higher-quality-justifications-than-llm",
+      "question": "When learners research a question, does searching with a web search engine lead to deeper learning than asking a generative AI chatbot or reading an AI summary?",
+      "members": [
+        [
+          "germane-load-mediates-tool-effect-on-justification-quality",
+          "+"
+        ],
+        [
+          "llm-search-lower-germane-cognitive-load",
+          "+"
+        ],
+        [
+          "llm-search-lower-intrinsic-cognitive-load",
+          "~"
+        ],
+        [
+          "chatgpt-worse-informal-learning-outcome-trend",
+          "+"
+        ],
+        [
+          "chatgpt-narrow-starting-queries",
+          "~"
+        ],
+        [
+          "ai-overviews-mixed-effects-academic-search",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

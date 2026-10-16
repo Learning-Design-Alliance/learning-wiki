@@ -12,7 +12,7 @@ generated:
 # Sociocultural Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (5 for, 2 mixed, 1 against) · 11 studies (4 review, 2 quant-synthesis, 2 associational, 1 causal, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 11 report an effect size · 6 claims rest on one study
+> **Evidence** · 11 claims (8 for, 2 mixed, 1 against) · 16 studies (6 review, 5 quant-synthesis, 2 associational, 1 causal, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 16 report an effect size · 7 claims rest on one study
 
 ## Description
 Sociocultural theory originates in the work of Russian psychologist Lev Vygotsky (1924–1934) and holds that human development and higher-order thinking originate in social, historical, and cultural interaction rather than inside an isolated individual mind. Vygotsky summarized this as a developmental law: "Every function in the child's cultural development appears twice: first, on the social level, and later, on the individual level; first between people (interpsychological) and then inside the child (intrapsychological)" (Vygotsky, 1978, p. 57). Development is a transformation of participation in shared social activity, not a transmission of discrete facts or skills (Polly et al., 2018).

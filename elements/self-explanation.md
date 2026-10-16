@@ -18,7 +18,7 @@ sources:
 # Self-Explanation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 6 studies (3 causal, 2 quant-synthesis, 1 associational), `q2`–`q4` · 1 of 6 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 7 studies (3 causal, 2 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 1 of 7 report an effect size · 5 claims rest on one study
 
 ## Description
 Self-explanation is the element in which learners explain to themselves why something is true, why a step works, or how a solution fits the problem. It is useful when the goal is to deepen understanding beyond surface completion.

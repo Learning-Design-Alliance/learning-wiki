@@ -54,6 +54,17 @@ Descriptive analysis of the motivational-outcome subset of the meta-analysis. Th
 
 > "Twenty one percent of the eﬀect sizes related to motivational outcomes in our data were negative, with 86% of the feedback interventions leading to these negative eﬀects being uninformative (rewards or punishments)."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does feedback improve physical and motor skill outcomes, and does letting learners decide when they receive it help?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **2 distinct studies** (1 quant-synthesis, 1 causal), `q3`, 1 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Wisniewski B 2020](https://doi.org/10.3389/fpsyg.2019.03087) | q3 · quant-synthesis · r3 | i? | this claim |
+| [Carter 2014](https://doi.org/10.3389/fpsyg.2014.01325) | q3 · causal · r1 | i?; i3 | [Learners who could decide after a trial whether to receive knowledge of results (Self-Afte](self-controlled-kr-decided-after-trial-improves-motor-retention.md) (supports); [Learners who could decide after a trial whether to receive knowledge of results (Self-Afte](self-controlled-kr-decided-after-trial-improves-motor-transfer.md) (supports); [During motor practice with knowledge of results, all groups reduced absolute error across ](motor-practice-accuracy-improves-across-blocks-and-favors-after-decision-groups.md) (supports); [Having control over the knowledge-of-results decision only before a motor trial (Self-Befo](self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

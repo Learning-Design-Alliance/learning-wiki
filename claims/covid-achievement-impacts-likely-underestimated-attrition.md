@@ -39,6 +39,21 @@ The authors' inference from the attrition analysis: since lower-achieving and mi
 
 > "The systematic differences between attriters and students who were tested in fall 2020 mean that the impacts of COVID-19 on student achievement are likely underestimated."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*When a study follows learners over time and some drop out or stop being tested, can the results for those who remain be read as results for the whole group?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **6 distinct studies** (6 associational), `q2`–`q3`, 0 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Angela Johnson 2020 | q2 / q3 · associational · r? | i? | this claim; [Students who did not retest in fall 2020 were disproportionately minoritized and lower-ach](map-growth-attrition-demographic-differences-2020.md) (supports) |
+| Megan Kuhfeld 2020 | q2 · associational · r2 | i? | [Systematic demographic differences in available fall 2020 assessment data suggest COVID-19](covid-impact-vulnerable-students-may-be-underestimated.md) (supports) |
+| Megan Kuhfeld 2021 | q2 · associational · r2 | i? | [Approximately one in four students who tested the prior year were missing from fall 2020 d](missing-fall-2020-testers-understate-impacts.md) (supports) |
+| User guide for interpreting the NWEA state dashboard: Exploring the educational impacts of COVID-19 2021 | q2 · associational · r1 | i? | [The dashboard's cohort view restricts results to students who consistently tested across s](cohort-view-consistent-testers-positive-bias.md) (supports); [The dashboard's cross-sectional view compares same-grade students across terms using the f](cross-sectional-view-full-sample-attrition-caveat.md) (qualifies) |
+| Cook 2012 | q2 · associational · r2 | i? | [Longitudinal growth observed for current ELs likely underestimates total-cohort growth bec](el-exit-censorship-underestimates-growth.md) (supports) |
+| [Johnson 2022](https://doi.org/10.1177/08959048211049419) | q2 · associational · r2 | i? | [Sensitivity analyses restricting to students assessed in all 15 terms reproduced the full-](sensitivity-15-term-subsample-same-comparisons.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

@@ -41,8 +41,9 @@ The study's discussion synthesizes its two level-specific t-test comparisons (be
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — the general claim this finding bears on, with the studies behind it
 - [Upper-intermediate EFL learners taught with proactive FOF scored significantly higher on a grammar posttest than learners taught with reactive FOF](proactive-fof-beats-reactive-upper-intermediate-grammar.md) — a narrower finding that bears on this claim
 - [Beginner EFL learners taught with proactive FOF scored significantly higher on a grammar posttest than learners taught with reactive FOF](proactive-fof-beats-reactive-beginners-grammar.md) — a narrower finding that bears on this claim
 - [Preselection of grammar points in proactive FOF reduced learners' repetition and fossilization of erroneous forms](proactive-fof-reduces-error-fossilization.md) — related

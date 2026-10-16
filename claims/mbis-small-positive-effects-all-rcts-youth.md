@@ -39,14 +39,27 @@ Random effects meta-analysis of 33 RCTs including 3,666 children and adolescents
 
 > "Across all RCTs we found significant positive effects of MBIs, relative to controls, for the outcome categories of Mindfulness, Executive Functioning, Attention, Depression, Anxiety/Stress and Negative Behaviours, with small effect sizes (Cohen’s d), ranging from .16 to .30."
 
-## Discussion
+## Studies bearing on this claim
 
+<!-- synthesis:start -->
+*Can a mindfulness or cognitive-training programme improve learners' attention itself?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **3 distinct studies** (3 quant-synthesis), `q3`–`q4`, 2 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Dunning 2019](https://doi.org/10.1111/jcpp.12980) | q3 · quant-synthesis · r3 | i?; i2 | this claim; [When only RCTs with active control groups are analysed, MBI benefits are restricted to Min](active-control-rcts-benefits-restricted.md) (qualifies); [Effect sizes vary by control group type, with wait-list controls yielding the largest mean](control-group-type-moderates-mbi-effects.md) (qualifies); [Age significantly moderates MBI effects on executive functions across all RCTs (larger ben](age-moderates-mbi-outcomes.md) (qualifies) |
+| [Charlotte Zenner 2014](https://doi.org/10.3389/fpsyg.2014.00603) | q3 · quant-synthesis · r3 | i3 | [Mindfulness interventions in schools show the largest between-group effects for cognitive ](mindfulness-domain-effects-cognitive-stress-resilience.md) (supports) |
+| [Lampit A 2014](https://doi.org/10.1371/journal.pmed.1001756) | q4 · quant-synthesis · r3 | i? | [CCT shows no significant effects on executive functions or attention in healthy older adul](cct-no-effect-executive-attention.md) (counts against) |
+<!-- synthesis:end -->
+
+## Discussion
 
 ## Learner Variables
 - [Attention](../learner-variables/attention.md) — outcome: instruction changes it
 - [Executive Function](../learner-variables/executive-function.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [CCT shows no significant effects on executive functions or attention in healthy older adults](cct-no-effect-executive-attention.md) — the general claim this finding bears on, with the studies behind it
 - [Age significantly moderates MBI effects on executive functions across all RCTs (larger benefits with older age) and on negative behaviour in active-control RCTs (larger benefits with younger age)](age-moderates-mbi-outcomes.md) — related
 - [Effect sizes vary by control group type, with wait-list controls yielding the largest mean effect and no-contact controls the smallest](control-group-type-moderates-mbi-effects.md) — related
 - [When only RCTs with active control groups are analysed, MBI benefits are restricted to Mindfulness (d = .42), Depression (d = .47) and Anxiety/Stress (d = .18)](active-control-rcts-benefits-restricted.md) — a narrower finding that bears on this claim

@@ -13,7 +13,7 @@ generated:
 # Final Exam
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 6 studies (3 review, 1 associational, 1 design, 1 theoretical), `q1`–`q3` · 1 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (2 for, 2 mixed, 1 against) · 7 studies (3 review, 2 associational, 1 design, 1 theoretical), `q1`–`q3` · 1 of 7 report an effect size · 3 claims rest on one study
 
 ## Description
 A final exam is a high-stakes, cumulative assessment administered at the end of a course or program, covering material from the entire instructional period. It functions primarily as a [Summative Assessment](summative-assessment.md) — certifying proficiency rather than guiding ongoing instruction — though its cumulative design also gives it a powerful secondary learning function.

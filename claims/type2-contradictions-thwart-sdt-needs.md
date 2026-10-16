@@ -41,8 +41,9 @@ CHAT contradiction analysis mapping interview-identified barriers onto activity 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — the general claim this finding bears on, with the studies behind it
 - [87% of K-12 teachers ceased meaningful AI agent creation within three weeks of completing a two-day professional development workshop](87-percent-teachers-cease-ai-agent-creation-three-weeks.md) — related
 - Contradictions within and across activity systems are vital forces for change and provide a rationale for CSL — related
 - CHAT is an interventionist research method aimed at transformation, but tensions persist between adaptive and transformative orientations — related

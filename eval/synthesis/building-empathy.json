@@ -33,6 +33,14 @@
       "question": "Do sustained, structured programmes produce social-emotional gains, and do they last?",
       "members": [
         [
+          "swpbis-improves-emotion-regulation",
+          "~"
+        ],
+        [
+          "co-regulation-supports-climate-and-youth-emotion-regulation",
+          "+"
+        ],
+        [
           "sel-benefits-persist-follow-up",
           "+"
         ],

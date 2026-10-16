@@ -41,6 +41,7 @@ Likert-scale information-quantity ratings (1 = Not Enough Information to 5 = Too
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Multiple representations improve learning](multiple-representations-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Students perceived diverse and generic explanations as similarly helpful, with no statistically significant difference across explanation-sequence groups](no-significant-difference-perceived-helpfulness.md) — related

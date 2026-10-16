@@ -42,12 +42,17 @@ The article synthesizes meta-analytic comparisons of PBL with traditional direct
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*For which outcomes: basic knowledge, application and transfer, or professional skills?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **3 distinct studies** (1 theoretical, 1 causal, 1 review), `q2`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*For which outcomes: basic knowledge, application and transfer, or professional skills?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **8 distinct studies** (2 causal, 2 qualitative, 2 quant-synthesis, 1 theoretical, 1 review), `q2`–`q3`, 1 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Manu Kapur 2016](https://doi.org/10.1080/00461520.2016.1155457) | q3 · theoretical · r3 | i? | this claim |
 | Newell 2008 | q3 · causal · r2 | i? | [The problem-based group achieved significantly larger content-knowledge gains, while the s](problem-based-larger-knowledge-gains.md) (qualifies); [The participatory simulation group achieved significantly larger application gains than th](simulation-larger-application-gains.md) (qualifies); [The participatory simulation group showed significantly larger overall (combined knowledge](simulation-larger-overall-il-gains.md) (qualifies) |
+| [Strobel 2009](https://doi.org/10.7771/1541-5015.1046) | q2 · qualitative · r? | i? | [PBL is superior to conventional instruction for long-term retention, according to a meta-s](pbl-superior-long-term-retention.md) (supports); [PBL is superior to conventional instruction for skill development and for satisfaction of ](pbl-superior-skill-development-satisfaction.md) (supports) |
+| [Şenel Elaldı 2016](https://doi.org/10.11114/jets.v4i1.1097) | q3 · quant-synthesis · r2 | i2 | [Problem-based learning shows a large positive pooled effect on academic achievement (REM E](pbl-large-positive-effect-academic-achievement.md) (qualifies) |
+| [Walker 2023](https://doi.org/10.14434/ijpbl.v17i2.35844) | q2 · quant-synthesis · r2 | i? | [The overall effect of PBL in the tutor-background meta-analysis is modest (g = 0.27) with ](pbl-overall-effect-modest-large-heterogeneity.md) (qualifies); [Individual PBL outcome effect sizes in the tutor-background meta-analysis span a massive r](massive-range-pbl-outcome-effect-sizes.md) (qualifies) |
+| [Liang 2026](https://doi.org/10.3389/fneur.2026.1915268) | q2 · qualitative · r3 | i? | [The closer training content is to authentic clinical scenarios, the smoother its translati](contextualized-teaching-facilitates-transfer.md) (supports) |
+| [Thomas 2026](https://doi.org/10.48550/arxiv.2606.18617) | q3 · causal · r1 | i? | [Scenario-based tutor lessons produced a significant pooled 7.4% learning gain, driven by t](scenario-lessons-pooled-74-percent-gain.md) (qualifies) |
 | Sutcher 2017 | q2 · review · r2 | i? | [Problem-based learning connecting coursework and practice is associated with stronger cand](problem-based-principal-preparation-self-efficacy.md) (supports) |
 <!-- synthesis:end -->
 

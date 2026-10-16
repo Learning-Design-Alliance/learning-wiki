@@ -39,6 +39,19 @@ The authors' concluding interpretation of the three-condition experiment (open p
 
 > "We call this the assisting self-explanation prompt effect which refers to the elicitation of high-quality self-explanations and the acquisition of deep understanding."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Which kinds of self-explanation prompt produce the best explanations and learning?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **4 distinct studies** (2 causal, 1 review, 1 quant-synthesis), `q1`–`q2`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Berthold 2009](https://doi.org/10.1007/s11251-008-9051-z) | q2 · causal · r? | i? | this claim; [Assisting self-explanation prompts particularly foster conceptual knowledge, an effect med](assisting-prompts-foster-conceptual-knowledge.md) (supports); [Both open and assisting self-explanation prompts foster procedural knowledge when learning](self-explanation-prompts-foster-procedural-knowledge.md) (qualifies) |
+| [Bethany Rittle-Johnson & Abbey M. Loehr 2017](https://doi.org/10.3758/s13423-016-1079-5) | q2 · review · r2 | i? | [Explanation prompts direct attention to targeted information and can reduce attention to o](explanation-prompts-redirect-attention-with-hidden-costs.md) (qualifies) |
+| [Bisra 2018](https://doi.org/10.1007/s10648-018-9434-x) | q1 · quant-synthesis · r? | i? | [Instructor-scripted self-explanation prompts have limitations, motivating computer-generat](computer-generated-self-explanation-prompts-recommendation.md) (qualifies) |
+| [Renkl 2004](https://doi.org/10.1023/b:truc.0000021815.74806.f6) | q2 · causal · r? | i? | [Faded steps were hypothesized to trigger specific self-explanation activities, tested via ](faded-steps-hypothesized-trigger-self-explanations.md) (qualifies); [No effect of fading on productive learning events including self-explanations was found in](fading-no-effect-productive-learning-events.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

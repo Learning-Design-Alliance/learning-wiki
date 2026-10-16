@@ -1,0 +1,156 @@
+{
+  "principle": "learner-variables/learning-disabilities",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "disability-largest-postsecondary-outcome-gap",
+      "question": "Do learners with disabilities reach lower achievement, graduation and postsecondary outcomes than their peers, by how much, and does it differ by disability type?",
+      "members": [
+        [
+          "naep-2022-disability-gap-40-reading-28-math",
+          "+"
+        ],
+        [
+          "iep-youth-academic-struggle-less-support",
+          "+"
+        ],
+        [
+          "iep-youth-lag-postsecondary-planning",
+          "+"
+        ],
+        [
+          "on-track-disabled-students-still-at-risk",
+          "+"
+        ],
+        [
+          "elswd-more-academic-struggle-less-activity-participation",
+          "+"
+        ],
+        [
+          "swd-summer-loss-widens-disparities",
+          "+"
+        ],
+        [
+          "absences-explain-course-performance-gaps-disabilities",
+          "~"
+        ],
+        [
+          "swd-school-year-growth-matches-or-exceeds-peers",
+          "~"
+        ],
+        [
+          "cps-graduation-disability-status",
+          "~"
+        ],
+        [
+          "cps-graduation-disability-gaps",
+          "~"
+        ],
+        [
+          "cps-disability-six-year-graduation-trends-2009-2019",
+          "~"
+        ],
+        [
+          "five-disability-groups-most-at-risk-transition-preparation",
+          "~"
+        ],
+        [
+          "el-college-persistence-varies-by-subgroup",
+          "~"
+        ],
+        [
+          "on-track-predicts-graduation-students-with-disabilities",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "specially-designed-instruction-responsive-to-assessment-data-improves-outcomes",
+      "question": "Which instructional approaches improve outcomes for learners with learning, developmental or intellectual disabilities?",
+      "members": [
+        [
+          "mnemonic-instruction-improves-recall-for-students-with-disabilities",
+          "+"
+        ],
+        [
+          "repeated-reading-potentially-positive-comprehension-learning-disabilities",
+          "+"
+        ],
+        [
+          "srsd-potentially-positive-writing-achievement-sld",
+          "+"
+        ],
+        [
+          "concept-model-beats-definition-model-vocabulary-ld",
+          "+"
+        ],
+        [
+          "self-monitoring-strong-effects-asd-tau-u-083",
+          "+"
+        ],
+        [
+          "sm-effects-moderated-race-special-education",
+          "+"
+        ],
+        [
+          "aided-aac-large-effects-asd-single-case-meta-analysis",
+          "+"
+        ],
+        [
+          "aac-positive-all-outcomes-communication-skills-greater",
+          "+"
+        ],
+        [
+          "dialogic-reading-potentially-positive-communication-language-disabilities",
+          "+"
+        ],
+        [
+          "check-and-connect-reduces-dropout-staying-in-school",
+          "+"
+        ],
+        [
+          "functional-life-skills-independent-living-potentially-positive",
+          "+"
+        ],
+        [
+          "community-based-work-programs-postsecondary-potentially-positive",
+          "+"
+        ],
+        [
+          "double-dose-least-effective-weakest-students",
+          "~"
+        ],
+        [
+          "diminished-study-habit-benefits-ld-mild-cognitive",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "disability-suspension-disparity",
+      "question": "Are learners with disabilities excluded from school by discipline more often than their peers?",
+      "members": [
+        [
+          "disability-discipline-overrepresentation-suspension-expulsion",
+          "+"
+        ],
+        [
+          "disproportionate-discipline-students-of-color-disabilities",
+          "+"
+        ],
+        [
+          "bta-referral-disparities-black-students-disabilities",
+          "+"
+        ],
+        [
+          "iep-youth-bullying-suspension-engagement",
+          "+"
+        ],
+        [
+          "iep-youth-discipline-retention-little-change-decade",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

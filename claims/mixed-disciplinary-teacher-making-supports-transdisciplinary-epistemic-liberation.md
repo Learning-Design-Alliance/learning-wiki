@@ -52,6 +52,8 @@ This is a small, purposively-sampled design-based research study (6 core teacher
 - [Epistemic Beliefs](../learner-variables/epistemic-beliefs.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Interdisciplinary humanities units improve students' interdisciplinary competences](interdisciplinary-humanities-units-improve-interdisciplinary-competences.md) — the general claim this finding bears on, with the studies behind it
 - (none yet linked)
 - [Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams](epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams.md) — related
 - Expanding the quilt task into an integrated STEM project was judged by its two designers to give students multiple entry points and to feel fun rather than too school-like — related

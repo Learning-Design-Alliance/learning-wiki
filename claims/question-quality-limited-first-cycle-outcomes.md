@@ -41,8 +41,9 @@ Authors' reflection on the first cycle of the action research, where only three 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](peerwise-student-questions-75-percent-high-quality.md) — the general claim this finding bears on, with the studies behind it
 - [Individual writing-test scores improved for all thirty students between cycles, with gains ranging from 6.3% to 30.8% and no student declining](individual-score-gains-range-6-3-to-30-8-percent.md) — related
 - [PDSA testing of instructional routines provided a durable structure for teachers to reflect on and improve instruction over time](pdsa-testing-routines-structure-teacher-reflection.md) — related
 - [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — related

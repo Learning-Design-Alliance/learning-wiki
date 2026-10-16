@@ -41,7 +41,8 @@ Revision-depth distribution across the four groups (Figure 7), coded from initia
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Diagnostic Review revisions contained larger shares of meaning-change, organization, and content/argument work, while Control revisions remained more dependent on surface-level editing](revision-architecture-meaning-change-versus-surface.md) — the general claim this finding bears on, with the studies behind it
 - [In AI-assisted writing, the combined FRAC+APCA intervention produced the highest writing quality gains, with FRAC alone exceeding APCA alone, across T1–T3](frac-combined-highest-writing-quality-gains.md) — related
 - [All three intervention groups converted AI feedback into effective revisions more successfully than regular AI use, with the combined group highest in effective adoption rate](interventions-raise-effective-adoption-rate.md) — related

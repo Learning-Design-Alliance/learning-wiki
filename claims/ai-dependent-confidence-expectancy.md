@@ -39,11 +39,12 @@ In the expectancy findings of this interview study, five students tied confidenc
 
 ## Discussion
 
-
 ## Learner Variables
 - [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Self-efficacy judgments correspond less well to behavior in learning settings than in performance settings](self-efficacy-accuracy-lower-in-learning-settings.md) — the general claim this finding bears on, with the studies behind it
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — a broader claim this one bears on
 - [Peer AI use diminished some students' sense of their own effort's value through social comparison, independent of their own AI use](peer-ai-use-social-comparison-devalues-effort.md) — related
 - [AI availability led some students to question the long-term value of programming skills, while others saw programming as equally or more valuable](ai-availability-questions-programming-skill-utility.md) — related

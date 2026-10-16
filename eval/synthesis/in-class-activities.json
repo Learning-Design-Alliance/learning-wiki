@@ -1,0 +1,140 @@
+{
+  "principle": "elements/in-class-activities",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "active-learning-improves-exam-performance",
+      "question": "Does replacing part of lecture with active learning raise exam scores and pass rates?",
+      "members": [
+        [
+          "lecturing-increases-stem-failure-rates",
+          "+"
+        ],
+        [
+          "active-learning-effect-robust-bias-and-rigor",
+          "+"
+        ],
+        [
+          "active-learning-benefits-hold-across-stem-disciplines",
+          "+"
+        ],
+        [
+          "active-learning-higher-test-scores-than-lecture",
+          "+"
+        ],
+        [
+          "ccct-outperformed-lecture-achievement",
+          "+"
+        ],
+        [
+          "interactive-instruction-positive-achievement-gains-chicago",
+          "+"
+        ],
+        [
+          "active-learning-courses-retain-lecture-component",
+          "~"
+        ],
+        [
+          "active-learning-conditions-more-other-pedagogical-features",
+          "~"
+        ],
+        [
+          "ai-tutor-beats-active-learning-post-test",
+          "~"
+        ],
+        [
+          "fci-gain-increased-peer-instruction-harvard",
+          "+"
+        ],
+        [
+          "jitt-larger-fci-gains-than-lecture",
+          "+"
+        ],
+        [
+          "clt-instructional-design-raises-retention-transfer-thermodynamics",
+          "+"
+        ],
+        [
+          "no-group-difference-tat-posttest-cls",
+          "~"
+        ],
+        [
+          "experiential-beats-instructional-immediate-aie-mkc",
+          "+"
+        ],
+        [
+          "instructional-no-immediate-mkc-mrc-change",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "constructive-learning-beats-active-passive",
+      "question": "Which kind of activity: manipulating material, generating beyond it, or building on a partner's ideas?",
+      "members": [
+        [
+          "icap-hypothesis-learning-increases-i-cap",
+          "+"
+        ],
+        [
+          "students-learned-more-constructive-than-active",
+          "+"
+        ],
+        [
+          "constructive-beats-passive-young-children",
+          "+"
+        ],
+        [
+          "interactive-beats-constructive-concept-mapping",
+          "+"
+        ],
+        [
+          "self-explanation-improves-conceptual-understanding",
+          "+"
+        ],
+        [
+          "interactive-requires-constructive-turn-taking",
+          "~"
+        ],
+        [
+          "constructive-generates-beyond-information-given",
+          "~"
+        ],
+        [
+          "interactive-tasks-beat-noninteractive-spoken-word-learning",
+          "+"
+        ],
+        [
+          "interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "active-learning-lower-feeling-of-learning",
+      "question": "Will learners recognise that they learn more from in-class activities than from a fluent lecture?",
+      "members": [
+        [
+          "interviews-active-classrooms-disjointed-frustrating",
+          "+"
+        ],
+        [
+          "perceived-instructor-fluency-predicts-feeling-of-learning",
+          "+"
+        ],
+        [
+          "active-learning-felt-learning-paradox",
+          "+"
+        ],
+        [
+          "fluent-illusions-mislead-self-assessment",
+          "+"
+        ],
+        [
+          "students-highly-positive-reaction-to-if-at",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

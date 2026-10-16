@@ -1,0 +1,36 @@
+{
+  "principle": "elements/act-it-out",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "role-play-enhances-21st-century-skills",
+      "question": "Does acting out content (role-play, or embodying a concept with movement) improve understanding and skill more than describing or discussing it?",
+      "members": [
+        [
+          "kinesthetic-experience-enhances-understanding-physics-of-dance",
+          "+"
+        ],
+        [
+          "embodied-dance-improvisation-supports-physics-engagement-and-sensemaking",
+          "+"
+        ],
+        [
+          "owl-game-body-based-experience-needed-for-solids",
+          "+"
+        ],
+        [
+          "embodied-collaborative-construction-can-build-shared-geometric-reasoning",
+          "+"
+        ],
+        [
+          "role-play-transformative-consent-clarity-confidence",
+          "+"
+        ],
+        [
+          "readers-theater-alone-no-unique-eb-gains-evidence",
+          "-"
+        ]
+      ]
+    }
+  ]
+}

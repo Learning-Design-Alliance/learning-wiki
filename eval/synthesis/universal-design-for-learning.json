@@ -1,0 +1,78 @@
+{
+  "principle": "principles/universal-design-for-learning",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "multiple-representations-improve-learning",
+      "question": "Does adding a second representation of the same idea help, and when?",
+      "members": [
+        [
+          "video-narration-text-improves-immediate-macs-comprehension",
+          "+"
+        ],
+        [
+          "auditory-descriptions-plus-tactile-graphics-improve-bvi-assessment",
+          "+"
+        ],
+        [
+          "multimodal-valued-complex-visualizations-hinder",
+          "~"
+        ],
+        [
+          "more-representations-mathematical-ideas-higher-achievement",
+          "+"
+        ],
+        [
+          "multiple-representations-aid-understanding-faculty-time",
+          "+"
+        ],
+        [
+          "diverse-llm-explanations-higher-oe-accuracy-not-significant",
+          "~"
+        ],
+        [
+          "mcq-accuracy-no-significant-condition-difference",
+          "~"
+        ],
+        [
+          "diverse-explanations-no-perceived-information-overload",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "learning-styles-matching-does-not-improve-learning",
+      "question": "Does assigning tasks or formats to match a learner's measured style improve learning more than giving every learner the same well-chosen task?",
+      "members": [
+        [
+          "intuitive-learners-outperform-sensing-learners",
+          "~"
+        ],
+        [
+          "no-mode-by-style-interaction-vr-gains",
+          "+"
+        ],
+        [
+          "guided-vr-no-learning-style-difference",
+          "+"
+        ],
+        [
+          "assimilators-gain-most-vr-guided-exploration",
+          "+"
+        ],
+        [
+          "accommodators-gain-most-vr-guided-exploration",
+          "+"
+        ],
+        [
+          "learning-style-no-correlation-pictorial-elucidation-effect",
+          "+"
+        ],
+        [
+          "learner-profiles-no-moderation-adaptive-its",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

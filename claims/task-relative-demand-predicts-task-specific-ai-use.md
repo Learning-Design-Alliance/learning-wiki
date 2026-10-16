@@ -60,8 +60,9 @@ Between-teacher term from the same allocation model among AI users. The article 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teachers who believe AI will help them reach professional goals and improve students' learning outcomes (utility value) may be more motivated to use it (theoretical argument).](teacher-utility-value-increases-motivation-to-use-ai.md) — the general claim this finding bears on, with the studies behind it
 - [Teachers experiencing higher average demand across lesson planning, assessment/marking, and special-education adaptation report higher odds of AI adoption](focal-task-demand-associated-teacher-ai-adoption.md) — related
 - [Special-education support/adaptation shows the strongest demand–AI-use alignment, with a 16.32-percentage-point increase in predicted use across a two-point relative-demand contrast](special-education-strongest-demand-ai-alignment.md) — a narrower finding that bears on this claim
 - [Assessment/marking shows an inverse demand–AI-use association in the primary system-average analysis, with predicted use falling 3.47 percentage points across a two-point relative-demand contrast](assessment-marking-inverse-demand-ai-association.md) — related

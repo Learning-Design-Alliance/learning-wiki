@@ -41,8 +41,9 @@ Difference-in-difference analysis of My Voice, My School student survey response
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](fifty-hours-content-specific-pd.md) — the general claim this finding bears on, with the studies behind it
 - [Deep Support schools showed significantly larger test-score improvements but smaller improvements in academic demand, teacher support, and elementary grades than non-Deep-Support schools](deep-support-schools-mixed-effects.md) — related
 - [In high schools, extensive-PD schools started with significantly lower rigor and teacher support but closed the gap by early implementation, while academic demand and clarity improved at rates comparable to limited-PD schools](hs-extensive-pd-closed-rigor-support-gap.md) — related
 - [Math course passing rates improved significantly more in elementary schools with extensive professional development, while course grades improved at similar rates across PD levels](pass-rates-improved-extensive-pd-elementary.md) — related

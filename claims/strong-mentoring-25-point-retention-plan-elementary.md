@@ -42,8 +42,9 @@ Survey-based analysis of new CPS teachers in the 2004-05 school year comparing s
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Mentoring strongly influences new teachers' decisions to stay in or leave teaching (review attribution)](mentoring-influences-new-teacher-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Classroom behavior problems are linked to worse novice-teacher outcomes, while a welcoming staff and strong school leadership are linked to more positive outcomes](classroom-behavior-problems-school-climate-novice-outcomes.md) — related
 - [Combining intensive mentoring with other supports is associated with the largest retention-plan gaps: 48 percentage points for elementary and 55 for high school novices](combined-mentoring-supports-largest-retention-gain.md) — related
 - [High school novices receiving strong levels of broader induction supports were 50 percentage points more likely to plan to remain in their school than those with weak support](strong-supports-50-point-retention-plan-high-school.md) — related

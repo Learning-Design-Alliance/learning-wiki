@@ -39,6 +39,26 @@ Three-level random-effects meta-analysis of 59 (quasi-)experimental studies with
 
 > "the three-level random-effects model yielded a large and statistically significant average effect of educational interventions on AI literacy, g = 0.837 (SE = 0.073, 95% CI [0.692, 0.982], t = 11.393, p < .001)"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does explicit instruction raise learners' AI and digital literacy, and for whom?* This table gathers the studies behind this claim and the 14 narrower claims that bear on it: **11 distinct studies** (8 causal, 1 quant-synthesis, 1 review, 1 qualitative), `q2`–`q3`, 5 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Suya Liu 2026](https://doi.org/10.1016/j.edurev.2026.100813) | q3 · quant-synthesis · r2 | i3; i? | this claim; [Effects of AI literacy interventions vary considerably across contexts, with most variance](ai-literacy-intervention-effects-highly-heterogeneous.md) (qualifies); [Instructional approach, AI technology type, assessment instrument, educational level, and ](five-moderators-non-significant-ai-literacy.md) (qualifies); [Geographical region significantly moderates AI literacy intervention effects, with Europe ](geographic-region-moderates-ai-literacy-effects.md) (qualifies) |
+| [Digital Promise 2025](https://doi.org/10.51388/20.500.12265/269) | q2 · review · r2 | i? | [The MIT DAILy curriculum significantly improved middle and early high school learners' AI ](daily-curriculum-improves-ai-literacy.md) (supports) |
+| [Jake Renzella 2026](https://doi.org/10.48550/arxiv.2606.14718) | q3 · causal · r1 | i2; i? | [Both male and female students show statistically significant medium-sized gains in AI know](both-genders-gain-ai-knowledge-confidence-workshop.md) (supports); [Both genders improve in recognising AI's role in entertainment platforms after the worksho](platform-recognition-gains-netflix-spotify.md) (supports) |
+| [Negar Kamali 2026](https://doi.org/10.48550/arxiv.2606.28510) | q3 · causal · r2 | i? | [A 30-minute generative AI literacy training increased intelligence analysts' overall accur](brief-generative-ai-literacy-training-raises-analyst-image-discrimination-accuracy.md) (supports); [Training improved accuracy across all digital-forensics experience and generative-AI famil](training-gains-across-experience-levels-largest-for-novices.md) (qualifies) |
+| [Demir 2025](https://doi.org/10.21203/rs.3.rs-6786882/v1) | q2 · causal · r2 | i3 | [Fourth-graders receiving AI-enhanced media literacy instruction outperformed control-group](ai-media-literacy-program-large-posttest-gains.md) (supports) |
+| [Alshehri OAO 2026](https://doi.org/10.3389/fpsyg.2026.1830103) | q2 · causal · r2 | i3; i? | [Structured AI-supported writing instruction produced a very large posttest advantage in di](structured-ai-workflow-dcts-gains-efl.md) (supports) |
+| [Reed Orchinik 2026](https://doi.org/10.48550/arxiv.2609.16432) | q3 · causal · r3 | i? | [AI literacy warnings reduce LLM political persuasion by roughly one-half (meta-analytic -4](ai-literacy-warning-halves-ai-political-persuasion.md) (supports) |
+| [Yu S 2026](https://doi.org/10.3389/fpsyg.2026.1937845) | q3 · causal · r3 | i2 | [Thinking-based instruction produces higher AI literacy performance than skills-based instr](tbi-outperforms-sbi-ai-literacy-performance.md) (qualifies); [Open-ended tasks produce higher AI literacy performance than structured tasks](oet-outperforms-stt-ai-literacy-performance.md) (qualifies) |
+| [Wineburg and McGrew 2019](https://doi.org/10.1177/016146811912101102) | q2 · qualitative · r? | i? | [One-session checklist (CRAAP) instruction in source evaluation did no better than the alte](checklist-evaluation-ineffective-online.md) (qualifies) |
+| [Lowe et al. 2021](https://doi.org/10.14434/josotl.v21i3.30744) | q2 · causal · r1 | i? | [One-session checklist (CRAAP) instruction in source evaluation did no better than the alte](checklist-evaluation-ineffective-online.md) (qualifies) |
+| [Ratcliffe 2026](https://doi.org/10.5860/crl.87.5.555) | q2 · causal · r? | i? | [One-session checklist (CRAAP) instruction in source evaluation did no better than the alte](checklist-evaluation-ineffective-online.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

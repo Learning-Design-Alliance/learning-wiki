@@ -41,7 +41,8 @@ Descriptive institutional data reported in the case study's findings section: ap
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The authors assert that innovative assessment measures capture POG competencies more fully than traditional standardized tests](innovative-assessments-capture-pog-competencies.md) — the general claim this finding bears on, with the studies behind it
 - [The portfolio adds context to holistic review that readers say helps level the playing field for applicants from under-resourced high schools](portfolio-adds-equity-context-holistic-review.md) — related
 - [The Business Case Discussion gives admissions readers evidence of applicants' business mindsets, defined as cognitive and intrapersonal skills rather than business expertise](business-case-discussion-reveals-business-mindsets.md) — related

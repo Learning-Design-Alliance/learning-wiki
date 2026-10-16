@@ -42,18 +42,23 @@ Meta-analytic moderator analysis of quiz–exam format consistency; the review r
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should practice before the assessment match the assessed task's format and level?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **2 distinct studies** (1 quant-synthesis, 1 causal), `q3`–`q4`, 2 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should practice before the assessment match the assessed task's format and level?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **6 distinct studies** (3 quant-synthesis, 2 causal, 1 review), `q2`–`q4`, 3 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Yang 2020](https://doi.org/10.1037/bul0000309) | q4 · quant-synthesis · r? | i2 | this claim |
 | [Deborah K. Anderson 2023](https://doi.org/10.1128/jmbe.00151-22) | q3 · causal · r2 | i2 | [HOCS clicker questions during learning improve performance on LOCS exam questions more tha](hocs-clickers-improve-locs-exam-performance.md) (qualifies); [Semester 2 students outperformed semester 1 students on HOCS exam questions regardless of ](semester-cohort-difference-hocs-exams.md) (qualifies) |
+| [Adesope 2017](https://doi.org/10.3102/0034654316689306) | q4 · quant-synthesis · r3 | i2 | [Testing effects are stronger when practice and final test formats are identical (g = 0.63)](tap-identical-formats-stronger-effect.md) (supports); [Practice test format moderates the testing effect: mixed-format (g = 0.80) and multiple-ch](practice-test-format-moderates-effect.md) (qualifies) |
+| [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r3 | i? | [The benefits of retrieval practice do not depend on an exact match between initial retriev](retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats.md) (counts against); [Initial retrieval conditions that provide less cue support, such as free recall rather tha](less-initial-retrieval-support-produces-better-retention.md) (counts against) |
+| [tap-1](https://doi.org/10.1037/a0037559) | q2 · quant-synthesis · r? | i? | [TAP theory has received mixed empirical support as an account of the testing effect](tap-theory-mixed-empirical-support.md) (qualifies) |
+| [Nero 2021](https://doi.org/10.24191/ajue.v17i4.16222) | q3 · causal · r2 | i? | [Short-answer (production) and multiple-choice (recognition) retrieval practice produce no ](production-vs-recognition-retrieval-practice-no-significant-difference-reading-comprehension.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — the general claim this finding bears on, with the studies behind it
 - [Classroom testing (quizzing) significantly boosts student academic achievement to a medium extent (g = 0.499).](classroom-quizzing-medium-effect-achievement.md) — related
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — a broader claim this one bears on
 - [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) — related

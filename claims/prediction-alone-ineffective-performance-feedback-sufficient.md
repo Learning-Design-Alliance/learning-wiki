@@ -41,10 +41,11 @@ Pairwise one-tailed t-tests across the additive four-group design in Experiment 
 
 ## Discussion
 
-
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — the general claim this finding bears on, with the studies behind it
 - [In Experiment 2, absolute metacognitive bias decreased linearly across the four additive intervention groups, and the full intervention group was significantly less biased than control](exp2-linear-reduction-absolute-metacognitive-bias.md) — related
 - [In Experiment 1, the feedback group showed significantly lower absolute (unsigned) metacognitive bias than the no-feedback group at both pre-task and post-task](feedback-reduces-absolute-metacognitive-bias-exp1.md) — related

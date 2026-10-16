@@ -15,6 +15,30 @@
           "+"
         ],
         [
+          "writing-to-learn-improves-understanding",
+          "+"
+        ],
+        [
+          "reflective-practice-deeper-understanding-effectiveness",
+          "+"
+        ],
+        [
+          "journaling-system-improves-srl-all-groups",
+          "+"
+        ],
+        [
+          "web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math",
+          "~"
+        ],
+        [
+          "learning-diary-alone-no-significant-srl-gains-online-math-prep-course",
+          "-"
+        ],
+        [
+          "reflective-methods-overanalysis-limits",
+          "~"
+        ],
+        [
           "formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks",
           "~"
         ],
@@ -27,19 +51,23 @@
           "+"
         ],
         [
-          "writing-to-learn-improves-understanding",
+          "reflective-uptake-fewer-misunderstandings",
           "+"
         ],
         [
-          "learning-diary-alone-no-significant-srl-gains-online-math-prep-course",
+          "learning-diary-alone-no-self-regulation-gain",
           "-"
         ],
         [
-          "web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math",
+          "diary-only-motivation-decrease",
+          "-"
+        ],
+        [
+          "diary-plus-srl-instruction-raises-strategy-use-self-efficacy",
           "~"
         ],
         [
-          "journaling-system-improves-srl-all-groups",
+          "combined-srl-training-with-app-diaries-improved-more",
           "~"
         ]
       ]
@@ -54,11 +82,83 @@
         ],
         [
           "guided-reflection-produces-longer-reflections",
-          "~"
+          "+"
         ],
         [
           "public-vs-private-reflection-mixed",
           "~"
+        ],
+        [
+          "visual-prompts-more-actionable-than-plain-text",
+          "+"
+        ],
+        [
+          "socratic-prompts-reflection-directive-overload-qualitative",
+          "+"
+        ],
+        [
+          "reflective-scaffolding-habituation-deskilling",
+          "~"
+        ],
+        [
+          "metacognitive-prompts-improve-learning",
+          "+"
+        ],
+        [
+          "constructive-conflict-guidance-increases-reconsideration",
+          "+"
+        ],
+        [
+          "constructive-conflict-increases-idea-editing",
+          "+"
+        ],
+        [
+          "idea-deletion-requires-stakeholder-friction",
+          "+"
+        ],
+        [
+          "agent-enacted-conflict-shifts-design-thinking",
+          "+"
+        ],
+        [
+          "elicit-agent-more-reflection-messages-lad",
+          "+"
+        ],
+        [
+          "prompted-journal-writing-medium-large-effect",
+          "+"
+        ],
+        [
+          "unsupported-journal-writing-low-strategy-use",
+          "+"
+        ],
+        [
+          "combine-cognitive-metacognitive-prompts",
+          "~"
+        ],
+        [
+          "metacognitive-first-prompt-sequence",
+          "~"
+        ],
+        [
+          "expertise-reversal-writing-journal-prompts-fading",
+          "~"
+        ],
+        [
+          "early-worked-examples-better-journal-quality",
+          "+"
+        ],
+        [
+          "worked-example-self-explanation-journal-transfer",
+          "+"
+        ],
+        [
+          "example-based-course-increases-journaling-intrinsic-motivation",
+          "+"
+        ],
+        [
+          "course-increases-perceived-competence-journaling",
+          "+"
         ]
       ]
     }

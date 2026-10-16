@@ -62,6 +62,10 @@ A later, larger, and more socioeconically and racially representative replicatio
 The Watts, Duncan, and Quan (2018) replication is an important corrective to the marshmallow test's popular-press legacy as proof that a single early measure of self-control determines a person's life trajectory. The more defensible reading is that early delay-of-gratification ability correlates with, but does not straightforwardly cause, later outcomes — much of the apparent effect likely reflects shared underlying factors (cognitive capacity, family socioeconomic context, home environment) that independently shape both a child's ability to wait and their later achievement. This claim should be read alongside [Self-Regulated Learning](../theories/self-regulated-learning.md) and [Executive Function Development](../theories/executive-function-development.md), both of which treat self-regulation as a skill shaped substantially by environment and support rather than a fixed early-childhood trait.
 
 ## Related Claims
+
+- [Executive function performance significantly predicts semantic fluency in preschool children](ef-significant-effect-semantic-fluency-preschool.md) — the general claim this finding bears on, with the studies behind it
+
+- [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](ef-predicts-preschool-math-growth.md) — the general claim this finding bears on, with the studies behind it
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md)
 - [During early and mid-adolescence, brain reward and emotion systems are more developed than cognitive control systems, leaving self-regulation developmentally out of balance](adolescent-brain-imbalance-reward-versus-control.md) — related
 - Baseline performance differed by later treatment group for two tasks, with the delayed-reward group giving fewer baseline responses, while no sex or order effects emerged — related

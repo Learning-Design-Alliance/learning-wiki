@@ -60,6 +60,33 @@ Empirical evidence section reporting Schunk (1984) on attributional feedback. Th
 
 > "Ability anributional feedback given for rapid or early learning enhances self-efficacy and skillful performance more than does effort feedback (Schunk, 1984)"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Which instruction raises learners' self-efficacy: close goals, feedback on progress, guided practice?* This table gathers the studies behind this claim and the 21 narrower claims that bear on it: **18 distinct studies** (11 causal, 3 review, 2 qualitative, 2 design), `q1`–`q3`, 3 of 18 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Schunk 1996 | q2 · review · r2 | i? | this claim |
+| [Keith Tran 2026](https://doi.org/10.48550/arxiv.2606.30547) | q3 · causal · r2 | i? | [The 45-minute prompting lesson significantly increased prompting self-efficacy relative to](prompting-lesson-raises-self-efficacy.md) (supports) |
+| [Lee 2024](https://doi.org/10.1186/s41239-024-00447-4) | q3 · causal · r2 | i3 | [GCLA use improves cognitive and behavioral engagement and self-efficacy compared with trad](gcla-improves-engagement-and-self-efficacy.md) (supports) |
+| [Ramadoni 2022](https://doi.org/10.47750/pegegog.12.03.17) | q2 · causal · r2 | i? | [Peer-teaching flipped classroom students show higher calculus self-efficacy than conventio](ptfc-beats-cfc-self-efficacy.md) (supports); [Prior achievement level did not significantly affect self-efficacy overall in either flipp](prior-achievement-null-self-efficacy.md) (qualifies) |
+| [Fabriz 2014](https://doi.org/10.1007/s10212-013-0196-z) | q2 · causal · r1 | i? | [Combining a structured learning diary with instruction on self-regulated learning increase](diary-plus-srl-instruction-raises-strategy-use-self-efficacy.md) (supports) |
+| [Oladayo 2026](https://doi.org/10.70232/jrmste.v3i4.72) | q2 · causal · r1 | i? | [AI-generated responses positively influenced the self-efficacy of secondary students in so](ai-generated-responses-positive-self-efficacy.md) (supports) |
+| Andrew Leichsenring 2010 | q1 · qualitative · r2 | i? | [Speaking practice opportunities and teacher support reduced classroom anxiety and increase](speaking-practice-reduced-flca-increased-self-efficacy.md) (supports) |
+| [Xinfei Cen 2026](https://doi.org/10.48550/arxiv.2606.17470) | q2 · causal · r2 | i? | [ITS-based practice did not improve post-training self-efficacy relative to paper-based pra](its-practice-no-self-efficacy-gain.md) (counts against) |
+| [Ethan Dickey 2026](https://doi.org/10.48550/arxiv.2607.27586) | q3 · causal · r2 | i? | [Midterm self-efficacy (comfort and confidence) did not differ between conditions after thr](genai-condition-no-self-efficacy-difference.md) (qualifies) |
+| [McKim 2016](https://doi.org/10.5032/jae.2016.01073) | q2 · review · r2 | i? | [Vicarious experiences are positively related to agriculture teachers' general teaching eff](vicarious-experiences-positive-teaching-efficacy.md) (supports); [Mastery experiences may not be the optimal method for initially increasing preservice agri](mastery-experiences-not-optimal-initially-preservice-efficacy.md) (qualifies); [The effect of social persuasion on student teacher efficacy depends on its form: verbal fe](social-persuasion-form-moderates-efficacy-effect.md) (qualifies) |
+| [Sung 2026](https://doi.org/10.19173/irrodl.v27i2.9140) | q2 · causal · r1 | i? | [An online PD program using unplugged explainable machine-learning activities increased K–1](unplugged-ml-pd-raises-teacher-ai-self-efficacy.md) (supports) |
+| Sutcher 2017 | q2 · review · r2 | i? | [Problem-based learning connecting coursework and practice is associated with stronger cand](problem-based-principal-preparation-self-efficacy.md) (supports) |
+| [selfefficacy-yahaira](https://doi.org/10.51388/20.500.12265/217) | q2 · qualitative · r? | i? | [Authentic, challenging projects in the Learning Studio developed students' self-efficacy f](authentic-projects-build-career-self-efficacy.md) (supports) |
+| [Babineau 2025](https://doi.org/10.51388/20.500.12265/263) | q1 · design · r2 | i? | [Early exposure to career pathways in high school is reported to enhance students' self-eff](early-career-pathway-exposure-enhances-self-efficacy.md) (supports) |
+| [Daniel M. Oppenheimer 2025](https://doi.org/10.1007/s40593-025-00521-6) | q2 · causal · r1 | i? | [Students' self-efficacy for using generative AI increased over the semester, with current ](self-efficacy-growth-generative-ai-semester.md) (supports) |
+| [Bellhäuser 2022](https://doi.org/10.3389/fpsyg.2022.813381) | q3 · causal · r2 | i? | [Adding small peer feedback groups to web-based SRL training and a diary (Group TDP) produc](peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score.md) (supports) |
+| [Elaheh Sanoubari 2026](https://doi.org/10.48550/arxiv.2604.00300) | q2 · design · r2 | i2 | [Playing REMind significantly increased children's perceived self-efficacy for defending pe](remind-increased-self-efficacy-for-defending.md) (supports) |
+| [Zain Naboulsi 2026](https://doi.org/10.48550/arxiv.2604.17460) | q2 · causal · r? | i3; i? | [A within-subjects pilot with 27 professional software engineers found statistically signif](cc-self-train-pilot-self-efficacy-gains.md) (supports); [Pilot self-efficacy gains decreased with self-reported expertise: beginners gained most (+](cc-self-train-gains-by-expertise-level.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 Both entries come from one narrative review (Schunk 1996), which reports the findings of Bandura & Schunk (1981) on proximal goals and Schunk (1984) on attributional feedback; neither primary study has been read here, and the review prints no effect sizes. No recorded entry covers peer versus teacher models, so that part of the original title is untested on this page.

@@ -41,9 +41,10 @@ Survey data across all four cities using the Intrinsic Motivation Inventory (Rya
 
 ## Discussion
 
-
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — the general claim this finding bears on, with the studies behind it
 - [Financial incentives for reading books produce negative achievement effects for Spanish-speaking students in Dallas, consistent with a crowd-out hypothesis](dallas-spanish-speakers-negative-effects.md) — related

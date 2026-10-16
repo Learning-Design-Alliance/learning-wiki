@@ -41,10 +41,11 @@ Background statement in the report's introduction asserting the participation ga
 
 ## Discussion
 
-
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [School test score averages are strongly related to the income of the families a school serves](school-test-scores-strongly-related-to-family-income.md) — the general claim this finding bears on, with the studies behind it
 - [In 2012, youth with disabilities were more socioeconomically disadvantaged than their peers, more likely to live in low-income households and with parents receiving federal food benefits](youth-disabilities-more-socioeconomically-disadvantaged-2012.md) — related
 - Students of color receive disparaging signals about belonging and ability that their White upper-middle-class peers are far less likely to receive — related

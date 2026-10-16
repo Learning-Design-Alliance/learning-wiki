@@ -41,8 +41,9 @@ Survey-weighted teacher-level logistic regression of TALIS 2024 adoption data fo
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Teachers who believe AI will help them reach professional goals and improve students' learning outcomes (utility value) may be more motivated to use it (theoretical argument).](teacher-utility-value-increases-motivation-to-use-ai.md) — the general claim this finding bears on, with the studies behind it
 - [Assessment/marking shows an inverse demand–AI-use association in the primary system-average analysis, with predicted use falling 3.47 percentage points across a two-point relative-demand contrast](assessment-marking-inverse-demand-ai-association.md) — related
 - [Among AI-using teachers, tasks experienced as relatively more demanding are more likely to be AI-supported overall](task-relative-demand-predicts-task-specific-ai-use.md) — related
 - [Special-education support/adaptation shows the strongest demand–AI-use alignment, with a 16.32-percentage-point increase in predicted use across a two-point relative-demand contrast](special-education-strongest-demand-ai-alignment.md) — related

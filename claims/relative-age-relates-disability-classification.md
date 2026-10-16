@@ -41,10 +41,11 @@ The study positions itself as extending "recent findings of a relationship betwe
 
 ## Discussion
 
-
 ## Learner Variables
 - [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Being a year older at kindergarten entry leads to higher initial achievement](older-entry-higher-initial-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [An additional month of relative age among peers decreases the likelihood of receiving special education services by 2-5 percent](relative-age-month-decreases-special-education-likelihood.md) — a narrower finding that bears on this claim
 - [Having older classmates boosts a child’s test scores but increases the probability of grade repetition and diagnoses of learning disabilities such as ADHD](older-classmates-boost-scores-increase-repetition-and-disability-diagnoses.md) — related

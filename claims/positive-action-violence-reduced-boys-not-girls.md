@@ -46,6 +46,8 @@ In the randomized controlled trial of 20 Hawaii schools, grade 5 boys in Positiv
 
 ## Related Claims
 
+- [GenAI function, intervention duration, publication year, and gender were not significant moderators of GenAI's motivational effect](genai-motivation-null-moderators-function-duration-year-gender.md) — the general claim this finding bears on, with the studies behind it
+
 - [Positive Action has positive effects on elementary school students' behavior, with a WWC domain average effect size of 0.51 and an improvement index of +19 percentile points](positive-action-positive-effects-behavior.md) — the general claim this finding bears on, with the studies behind it
 - [In the Hawaii randomized trial, Positive Action showed no statistically significant effects on state standardized test scores in reading and math](positive-action-no-significant-effect-state-test-scores.md) — related
 - [In the Hawaii randomized trial, Positive Action significantly reduced grade retention, with an effect size of 1.09 and an improvement index of +36](positive-action-reduces-grade-retention.md) — related

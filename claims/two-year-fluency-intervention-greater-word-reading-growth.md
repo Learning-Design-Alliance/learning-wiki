@@ -39,11 +39,12 @@ Miciak et al. (2018) randomly assigned 484 fourth graders to one year (n=161), t
 
 ## Discussion
 
-
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Fluency-building activities for struggling readers in grades 4–9 have strong evidence, based on 33 studies](strong-evidence-fluency-building-activities-grades-4-9.md) — the general claim this finding bears on, with the studies behind it
 - [Interventions combining repeated reading, modeled/assisted reading, and explicit feedback outperformed control groups in English reading fluency for emergent bilinguals](repeated-reading-modeling-feedback-outperform-control-eb-fluency.md) — related
 - [SMART® tutoring produced a statistically significant positive effect on first-graders' word identification after two years of intervention](smart-significant-word-identification-effect.md) — related
 - [Repeated reading shows no discernible effects on alphabetics for students with learning disabilities](repeated-reading-no-discernible-alphabetics-effects.md) — related

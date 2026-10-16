@@ -12,7 +12,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 88 claims (60 for, 22 mixed, 6 against) · 82 studies (30 causal, 17 associational, 15 review, 9 quant-synthesis, 5 design, 4 qualitative, 2 theoretical), `q1`–`q4` · 16 of 82 report an effect size · 85 claims rest on one study
+> **Evidence** · 89 claims (61 for, 22 mixed, 6 against) · 82 studies (30 causal, 17 associational, 15 review, 9 quant-synthesis, 5 design, 4 qualitative, 2 theoretical), `q1`–`q4` · 16 of 82 report an effect size · 86 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.

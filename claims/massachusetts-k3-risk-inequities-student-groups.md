@@ -39,14 +39,30 @@ Report's key findings summary of statewide screening benchmark analysis by stude
 
 > "students from low income backgrounds were 2.5 times as likely to be repeatedly classified as at significant risk than were students without low income backgrounds"
 
-## Discussion
+## Studies bearing on this claim
 
+<!-- synthesis:start -->
+*Which groups of students does universal screening flag most often, and does that pattern hold across years and school contexts?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **6 distinct studies** (6 associational), `q2`, 0 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Lemke 2025 | q2 · associational · r2 | i? | this claim |
+| Mariann Lemke 2024 | q2 · associational · r2 | i? | [Low income, English learner, special education, Black, and Hispanic students were more lik](student-group-risk-disparities.md) (supports); [The likelihood of being identified as at risk increases as historically underserved backgr](intersectional-risk-likelihood.md) (supports); [Formal early childhood experience reduces the likelihood of being identified as significan](formal-early-childhood-experience-reduces-risk.md) (qualifies) |
+| Early Literacy Performance in Massachusetts: Key Findings From 2023/24 School Year Data 2025 | q2 · associational · r2 | i? | [Students from low income backgrounds, English learners, students receiving special educati](disparities-in-early-literacy-risk-identification-massachusetts.md) (supports); [School-level concentration of low income students and racial isolation are associated with](school-segregation-associated-higher-literacy-risk.md) (qualifies) |
+| Lemke 2023 | q2 · associational · r2 | i? | [Economically disadvantaged, English learner, special education, Black, and Hispanic studen](student-group-early-literacy-disparities.md) (supports); [Most students below benchmark at the beginning of the year remained below at the end, with](early-literacy-persistence-below-benchmark.md) (supports) |
+| Mariann Lemke 2023 | q2 · associational · r2 | i? | [Risk identification varies by grade and student group: kindergarten and grade 3 students w](risk-varies-by-grade-and-student-group.md) (supports); [English learner students were more often identified at risk overall, but those with low En](el-low-access-proficiency-not-always-below-benchmark.md) (qualifies) |
+| Lemke 2024 | q2 · associational · r2 | i? | [The likelihood of being identified as significantly below benchmark in early literacy scre](intersecting-backgrounds-increase-literacy-risk.md) (supports); [Formal early childhood experience reduces the likelihood of being identified as significan](formal-early-childhood-experience-reduces-risk.md) (qualifies) |
+<!-- synthesis:end -->
+
+## Discussion
 
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
 - [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [School test score averages are strongly related to the income of the families a school serves](school-test-scores-strongly-related-to-family-income.md) — the general claim this finding bears on, with the studies behind it
 - [Students from low income backgrounds, English learners, students receiving special education services, and Black and Hispanic students were more often identified as at significant risk](disparities-in-early-literacy-risk-identification-massachusetts.md) — related
 - [Formal early childhood experience reduces the likelihood of being identified as significantly below benchmark, most pronounced among English learner students and Black English learner students](formal-early-childhood-experience-reduces-risk.md) — related
 - [The likelihood of being identified as significantly below benchmark in early literacy screening increases as historically underserved background characteristics intersect](intersecting-backgrounds-increase-literacy-risk.md) — related

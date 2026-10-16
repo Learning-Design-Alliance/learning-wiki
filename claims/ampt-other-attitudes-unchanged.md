@@ -41,8 +41,9 @@ Same pre/post attitude study of AMPT interaction. The article reports that "othe
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [A single 30-minute session co-authoring math word problems with AMPT significantly increased students' sense of belonging in mathematics](ampt-session-increased-math-belonging.md) — related
 - [AMPT gave students the opportunity to express themselves and see their interests reflected in the math domain](ampt-interests-reflected-in-math.md) — related
 - [Math tutoring programs may improve students' math confidence and sense of belonging](tutoring-may-improve-math-confidence-and-belonging.md) — related

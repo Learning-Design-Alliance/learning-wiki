@@ -44,6 +44,8 @@ WWC synthesis of one quasi-experimental study (Leming, 2001) comparing 283 twelf
 
 ## Related Claims
 
+- [All three instructional groups began at comparable, mostly low decision-making levels and all improved over the intervention](all-groups-improved-from-low-baseline.md) — the general claim this finding bears on, with the studies behind it
+
 - [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](service-learning-improves-civic-and-personal-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Building Decision Skills plus service learning significantly improved twelfth-graders' ethical perspective relative to a no-character-education comparison](bds-improves-ethical-perspective.md) — a narrower finding that bears on this claim
 - [The WWC rated Too Good for Drugs and Violence as having positive effects on knowledge, attitudes, and values, with a cross-study domain-average effect size of 0.42](tgfdv-positive-effects-rating.md) — related

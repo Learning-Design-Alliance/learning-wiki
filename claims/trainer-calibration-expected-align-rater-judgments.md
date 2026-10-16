@@ -41,8 +41,9 @@ Theoretical expectation (Expectation 3) grounded in cited evidence that rater tr
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Students who accessed exemplar examination answers on the LMS achieved higher grades than those who did not](lms-exemplar-access-associated-with-higher-grades.md) — the general claim this finding bears on, with the studies behind it
 - [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](rubrics-improve-student-work.md) — related
 - [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related
 - [A Gemini-based creativity autorater scores real students' complex multimedia creativity tasks on par with human experts (item Kappa 0.66; total-score Pearson r = 0.88)](gemini-autorater-creativity-real-students.md) — related

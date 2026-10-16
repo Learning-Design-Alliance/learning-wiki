@@ -1,0 +1,56 @@
+{
+  "principle": "theories/knowledge-tracing-variants-learning-phases",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "no-single-knowledge-tracing-model-is-always-best",
+      "question": "Does extending a knowledge-tracing model with individual parameters, engagement signals, forgetting or other side information improve how well it predicts learners' answers?",
+      "members": [
+        [
+          "individualized-bkt-reduces-questions-needed-for-mastery",
+          "+"
+        ],
+        [
+          "engagement-covariates-improve-deep-knowledge-tracing",
+          "+"
+        ],
+        [
+          "bkt-overestimates-accuracy-after-a-day-elapses",
+          "+"
+        ],
+        [
+          "language-proficiency-side-information-improves-kt-models",
+          "+"
+        ],
+        [
+          "individualizing-initial-knowledge-improves-prediction",
+          "+"
+        ],
+        [
+          "corbett-anderson-individualization-mixed-results",
+          "~"
+        ],
+        [
+          "delay-term-improves-exponential-forgetting-curve-recall-prediction",
+          "+"
+        ],
+        [
+          "exponential-forgetting-models-with-delay-perform-comparably-to-1pl-irt",
+          "~"
+        ],
+        [
+          "mbp-kt-consistently-improves-kt-backbones",
+          "+"
+        ],
+        [
+          "mbp-kt-greater-gains-sparse-learners",
+          "~"
+        ],
+        [
+          "knowledge-transfer-alleviates-cold-start-kt",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

@@ -41,8 +41,9 @@ Summary comparison of Principal Instructional Leadership ratings across systemwi
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers](instructional-leadership-linked-student-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Teacher-reported trust and influence vary sharply between top- and bottom-quartile schools on leadership measures](teacher-trust-influence-quartile-differences.md) — related
 - [Teacher-principal trust is far more prevalent in top-quartile schools than bottom-quartile schools](teacher-principal-trust-top-vs-bottom-quartile.md) — related
 - [Elementary principals in low-achieving schools spend more time on instruction while those in high-achieving schools spend more on external management](elementary-quartile-time-allocation-differences.md) — related

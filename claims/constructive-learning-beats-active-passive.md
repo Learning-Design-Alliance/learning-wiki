@@ -62,17 +62,19 @@ Wekerle, C., Daumiller, M., Janke, S., Dickhäuser, O., Dresel, M., & Kollar, I.
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Which kind of activity: manipulating material, generating beyond it, or building on a partner's ideas?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **7 distinct studies** (2 associational, 2 quant-synthesis, 1 theoretical, 1 design, 1 causal), `q2`–`q4`, 1 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Which kind of activity: manipulating material, generating beyond it, or building on a partner's ideas?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **9 distinct studies** (3 quant-synthesis, 2 associational, 2 causal, 1 theoretical, 1 design), `q2`–`q4`, 2 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Chi and Wylie 2014](https://doi.org/10.1080/00461520.2014.965823) | q2 / q3 · theoretical · r3 | i? | this claim; [The ICAP hypothesis predicts that learning increases as engagement moves from passive to a](icap-hypothesis-learning-increases-i-cap.md) (supports); [Interactive engagement requires both partners' utterances to be primarily constructive and](interactive-requires-constructive-turn-taking.md) (qualifies) |
+| [Chi and Wylie 2014](https://doi.org/10.1080/00461520.2014.965823) | q2 / q3 · theoretical · r3 | i? | this claim; [The ICAP hypothesis predicts that learning increases as engagement moves from passive to a](icap-hypothesis-learning-increases-i-cap.md) (supports); [Interactive engagement requires both partners' utterances to be primarily constructive and](interactive-requires-constructive-turn-taking.md) (qualifies); [Constructive behaviors are defined by generating outputs containing new ideas that go beyo](constructive-generates-beyond-information-given.md) (qualifies) |
 | [Wekerle et al. 2024](https://doi.org/10.1038/s41598-024-66069-y) | q2 · associational · r2 | i? | this claim |
-| [Chi 2018](https://doi.org/10.1111/cogs.12626) | q2 / q3 · design · r2 | i? | [An ICAP theory article reports, second-hand and without describing the design, a study in ](interactive-beats-constructive-concept-mapping.md) (supports); [In the 5-year translation project, students learned significantly more in Constructive tha](students-learned-more-constructive-than-active.md) (supports); [Generative (Constructive) engagement by young children produces better learning than atten](constructive-beats-passive-young-children.md) (supports) |
+| [Chi 2018](https://doi.org/10.1111/cogs.12626) | q2 / q3 · design · r3 | i? | [In the 5-year translation project, students learned significantly more in Constructive tha](students-learned-more-constructive-than-active.md) (supports); [Generative (Constructive) engagement by young children produces better learning than atten](constructive-beats-passive-young-children.md) (supports); [An ICAP theory article reports, second-hand and without describing the design, a study in ](interactive-beats-constructive-concept-mapping.md) (supports) |
 | [Chi et al. 1989](https://doi.org/10.1207/s15516709cog1302_1) | q2 · associational · r1 | i? | [Prompting learners to self-explain improves understanding and problem solving on immediate](self-explanation-improves-conceptual-understanding.md) (supports) |
 | [Rittle-Johnson 2017](https://doi.org/10.1007/s11858-017-0834-z) | q3 · quant-synthesis · r? | i? | [Prompting learners to self-explain improves understanding and problem solving on immediate](self-explanation-improves-conceptual-understanding.md) (supports) |
 | [Bisra et al. 2018](https://doi.org/10.1007/s10648-018-9434-x) | q4 · quant-synthesis · r? | i2 · medium effect, g=.55 | [Prompting learners to self-explain improves understanding and problem solving on immediate](self-explanation-improves-conceptual-understanding.md) (supports) |
 | [Chi et al. 1994](https://doi.org/10.1207/s15516709cog1803_3) | q2 · causal · r1 | i? | [Prompting learners to self-explain improves understanding and problem solving on immediate](self-explanation-improves-conceptual-understanding.md) (supports) |
+| [de Vos 2018](https://doi.org/10.1111/lang.12296) | q3 · quant-synthesis · r3 | i3 | [Interactive learning tasks produce larger incidental spoken word-learning gains than nonin](interactive-tasks-beat-noninteractive-spoken-word-learning.md) (supports) |
+| El-Koumy 1999 | q3 · causal · r2 | i? | [Teacher-student interactive semantic mapping produced higher EFL reading comprehension pos](interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -90,6 +92,8 @@ A fourth moderator is collaboration. Constructive engagement can be distributed:
 Open questions include how much scaffolding converts a failing constructive attempt into a productive one, and whether the passive–active–constructive ordering holds uniformly across domains or mainly in conceptually demanding ones. Empirical entries supporting the specific effect sizes still need to be added to this page.
 
 ## Related Claims
+
+- [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 
 - [Active learning improves exam performance.](active-learning-improves-exam-performance.md) — the broader active-vs-passive contrast this claim refines
 - [Collaborative learning improves outcomes.](collaborative-learning-improves-outcomes.md) — collaborative modes are a constructive mode in engagement hierarchies

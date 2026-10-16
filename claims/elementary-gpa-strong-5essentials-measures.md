@@ -41,8 +41,9 @@ First-phase results for the newly added elementary outcome of GPA. The report de
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](schools-strong-three-plus-supports-ten-times-more-likely-improve.md) — the general claim this finding bears on, with the studies behind it
 - [5Essentials Survey measures predict school improvement in elementary and high schools, but not all measures relate to all outcomes](5essentials-measures-positively-associated-improvement.md) — related
 - [Strong scores and growth on the 5Essentials Survey predict student success measures including GPA, attendance, test scores, and college enrollment](5essentials-scores-predict-student-success-measures.md) — a broader claim this one bears on
 - [5Essentials Survey measures predicted school improvement in both high- and low-poverty schools at elementary and high school levels](5essentials-predicts-improvement-high-low-poverty.md) — a broader claim this one bears on

@@ -37,6 +37,17 @@ Direct path estimated in the same CB-SEM path analysis with bias-corrected boots
 
 > "the path from EPSE to WTC was positive and statisti -cally significant, B = 0.665, β = 0.661, 95% CI [0.610, 0.724], p < 0.001, indicating a strong association between EPSE and WTC."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do learners' L2 self-confidence and motivation predict their willingness to communicate, as the model holds?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **2 distinct studies** (2 associational), `q2`, 1 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Lu Y 2026](https://doi.org/10.3389/fpsyg.2026.1918980) | q2 · associational · r2 | i3; i? | this claim; [GenAI feedback perceptions, pronunciation self-efficacy, and WTC are all positively interc](genai-epse-wtc-positive-correlations-descriptives.md) (supports) |
+| [Altiner 2018](https://doi.org/10.11114/jets.v6i11a.3815) | q2 · associational · r1 | i? | [Motivation correlates positively and significantly with L2 willingness to communicate amon](motivation-correlates-with-l2-wtc-turkish-efl.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

@@ -41,8 +41,9 @@ The agenda summarizes prior Consortium research (citing Allensworth, Gwynne, Hea
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI-powered predictive analytics improves academic performance by enabling early identification of at-risk students and timely intervention](ai-predictive-analytics-improves-academic-performance.md) — the general claim this finding bears on, with the studies behind it
 - EWIMS significantly reduces chronic absenteeism among grade 9 and 10 students after one year of implementation — related
 - BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study — related
 - [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related

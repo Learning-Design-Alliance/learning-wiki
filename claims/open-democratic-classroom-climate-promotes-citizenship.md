@@ -41,6 +41,7 @@ The review's synthesis of empirical citizenship education studies from 2003-2009
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — the general claim this finding bears on, with the studies behind it
 - [A formal curriculum that includes citizenship projects and courses also appears to be an effective type of citizenship education](formal-curriculum-citizenship-projects-courses-effective.md) — related

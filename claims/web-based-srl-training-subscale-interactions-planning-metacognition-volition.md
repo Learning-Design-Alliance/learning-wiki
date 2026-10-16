@@ -60,11 +60,12 @@ Same univariate ANOVAs: "For the subscales goal-setting and reflection, the inte
 
 ## Discussion
 
-
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Srl Web Training Peer Feedback Group By Time Interaction Online Math Prep](srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep.md)
 - [With peer feedback groups added to web-based SRL training (Group TDP), students showed statistically significant gains in self-motivation, volition and reflection, beyond the planning and metacognition gains also seen in Group TD; goal-setting and elaboration gains stayed non-significant](peer-feedback-groups-add-self-motivation-volition-reflection-gains-to-web-based-srl-training.md) — related
 - [Logged time investment on an online mathematics preparation platform differed significantly across SRL intervention groups, rising from control through diary and training + diary to training + diary + peer feedback groups](srl-interventions-increase-logged-time-investment-online-math-prep-course.md) — related

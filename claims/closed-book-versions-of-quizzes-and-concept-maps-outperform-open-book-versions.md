@@ -62,6 +62,8 @@ The chapter reports Blunt and Karpicke (2014): on a 1-week short-answer assessme
 
 ## Related Claims
 
+- [Cheat sheet type was not significantly associated with exam performance on either exam, though a moderate non-significant trend favoured self-created sheets on the final](cheatsheet-type-no-significant-performance-difference.md) — the general claim this finding bears on, with the studies behind it
+
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Concept Maps Improve Learning](concept-mapping-improves-learning.md)
 - [A review chapter (Karpicke 2017) reports, second-hand, experiments in which retrieval practice produced more learning than concept mapping (Karpicke & Blunt 2011) and than imagery strategies such as the keyword mnemonic (Karpicke & Smith 2012)](retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration.md) — related

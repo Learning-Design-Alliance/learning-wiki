@@ -43,6 +43,8 @@ Qualitative evaluation of the VCP rubric used for developmental purposes only fr
 
 ## Related Claims
 
+- [Rubrics with parallel sentence structure, unambiguous wording and well-specified dimensions have lower grading variance, and revising rubrics decreased median grading error from 12.4% to 9.9%](rubric-wording-lower-grading-variance.md) — the general claim this finding bears on, with the studies behind it
+
 - [Criterion-referenced tests require empirically-based construct validation studies](criterion-referenced-tests-need-construct-validation.md) — the general claim this finding bears on, with the studies behind it
 - [Nevada's refined instructional materials review process addresses prior problems of unclear, non-standard, and inequitable review, including rural districts' obstacles to participation](nevada-refined-im-review-process-addresses-clarity-and-rural-equity.md) — related
 - [Districts face validity, reliability, comparability, and accountability-tension challenges in assessing future-ready skills](pog-assessment-validity-reliability-challenges.md) — a broader claim this one bears on

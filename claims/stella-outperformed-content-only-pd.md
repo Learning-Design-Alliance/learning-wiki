@@ -41,8 +41,9 @@ Comparison study by Roth et al. (2011) of STeLLA teachers versus teachers receiv
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](effective-pd-seven-features.md) — the general claim this finding bears on, with the studies behind it
 - [STeLLA® has potentially positive effects on science achievement, with a statistically significant effect size of 0.68 and an improvement index of +25 percentile points](stella-potentially-positive-science-achievement.md) — possibly the same claim (merge candidate)
 - [An external implementation study rated the STeLLA® and comparison professional development programs similarly on provider effectiveness, pacing, engagement, and collaboration](stella-comparison-pd-equivalent-implementation-ratings.md) — related
 - [Classroom observations suggested increases in desired pedagogical practices after PD, but differences were not statistically significant](rwanda-literacy-boost-observed-practices-null.md) — related

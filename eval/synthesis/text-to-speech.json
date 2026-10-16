@@ -65,6 +65,14 @@
       "question": "Does a learner who listens to a text, or reads while listening, lose anything against reading it?",
       "members": [
         [
+          "spoken-input-incidental-l2-word-learning-large-gains",
+          "+"
+        ],
+        [
+          "spoken-written-beats-spoken-only-not-written-only",
+          "~"
+        ],
+        [
           "repeated-listening-improves-oral-reading-fluency",
           "~"
         ]

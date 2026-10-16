@@ -41,6 +41,7 @@ WWC review covering seven outcome domains; Appendix A5 records two studies, six 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Dialogic reading has potentially positive effects on communication and language competencies for children with disabilities](dialogic-reading-potentially-positive-communication-language-disabilities.md) — related

@@ -56,14 +56,20 @@ A systematic search identified 55 studies comparing mathematics instruction usin
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does a concrete stage help at all over abstract symbols alone?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (3 causal, 1 quant-synthesis), `q2`–`q4`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does a concrete stage help at all over abstract symbols alone?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **10 distinct studies** (4 causal, 3 review, 1 quant-synthesis, 1 qualitative, 1 design), `q2`–`q4`, 1 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Carbonneau et al. 2013](https://doi.org/10.1037/a0031084) | q4 · quant-synthesis · r2 | i? | this claim |
-| [Kontra et al. 2015](https://doi.org/10.1177/0956797615569355) | q3 · causal · r? | i? | [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) (qualifies) |
-| [Zacharia & Olympiou 2011](https://doi.org/10.1016/j.learninstruc.2010.03.001) | q2 · causal · r? | i? | [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) (qualifies) |
+| [Kontra et al. 2015](https://doi.org/10.1177/0956797615569355) | q3 · causal · r? | i? | [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) (supports) |
+| [Zacharia & Olympiou 2011](https://doi.org/10.1016/j.learninstruc.2010.03.001) | q2 · causal · r? | i? | [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) (supports) |
 | Kutbay 2020 | q2 · causal · r2 | i? | [Abstract and concrete animation representations do not differ significantly in middle scho](abstract-concrete-representation-no-difference.md) (qualifies) |
+| [Malikova Z 2026](https://doi.org/10.3389/feduc.2026.1964629) | q2 · review · r3 | i? | [AI-generated and prebuilt simulations produced higher immediate conceptual-assessment scor](simulation-advantage-immediate-not-sustained.md) (qualifies) |
+| [Yu J 2026](https://doi.org/10.3389/fpsyg.2026.1897168) | q2 · review · r2 | i? | [Embodied and cognitive hands-on rely on different feedback sources and are not educational](hands-on-forms-different-feedback-sources.md) (qualifies) |
+| [Ahlquist 2020](https://doi.org/10.17161/jomr.v6i1.12051) | q2 · qualitative · r2 | i? | [In the owl game, being shown the solids and working with pictures and labels did not help ](owl-game-body-based-experience-needed-for-solids.md) (supports) |
+| [Kelly McNeil 2026](https://doi.org/10.51388/20.500.12265/284) | q2 · review · r2 | i? | [The review reports that real-world experiential simulations offer affordances beyond virtu](real-world-simulations-embodiment-affordances.md) (supports) |
+| Equal Access to Content Instruction for English Learners: An Example from Science 2012 | q2 · design · r1 | i? | [Hands-on, inquiry-based science and math instruction with higher-order thinking was associ](amsti-inquiry-science-higher-reading-achievement.md) (supports) |
+| [Yannier et al. 2022](https://doi.org/10.1080/10508406.2022.2032071) | q3 · causal · r2 | i3 · large, statistically reliable quantified effects on both concept learning (d=1.45) and engineering transfer (d=0.96), plus a 4x engagement-time difference | [AI-mediated feedback in hands-on exhibits improves learning and engagement](ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

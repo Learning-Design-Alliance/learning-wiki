@@ -58,6 +58,17 @@ The chapter reports Marsh et al. (2009), with college students answering SAT II 
 
 > "However, taking the initial multiple-choice tests increased the likelihood that students would intrude incorrect items on the ﬁnal short-answer test, relative to the no-test control condition."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Can taking a multiple-choice test teach learners the wrong answers it shows them, and does feedback prevent that?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **2 distinct studies** (1 review, 1 causal), `q2`–`q3`, 1 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r3 | i? | this claim; [Providing feedback after initial multiple-choice tests cut lure intrusions on final short-](feedback-after-multiple-choice-tests-halves-lure-intrusions.md) (qualifies) |
+| [Andrew C. Butler and Henry L. Roediger III 2008](https://doi.org/10.3758/mc.36.3.604) | q3 · causal · r2 | i3; i?; i2 | [Taking a multiple-choice test produces a testing effect on later cued recall, but testing ](mc-testing-effect-and-net-harm-boundary.md) (supports); [Feedback on a multiple-choice test sharply reduces lure intrusions on a later cued recall ](feedback-reduces-lure-intrusions.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 ## Related Claims

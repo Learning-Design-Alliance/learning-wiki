@@ -39,8 +39,9 @@ The meta-analysis's summary of its own key results states "support for the role 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Existing theoretical accounts attributing the testing effect to enhanced semantic elaboration receive limited support](limited-support-semantic-elaboration-testing-accounts.md) — the general claim this finding bears on, with the studies behind it
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
 - [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — a broader claim this one bears on
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related

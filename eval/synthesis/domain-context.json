@@ -1,0 +1,80 @@
+{
+  "principle": "learner-variables/domain-context",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "personalized-problem-contexts-boost-engagement-grades-4-8",
+      "question": "Does setting problems in contexts drawn from learners' interests raise engagement and performance?",
+      "members": [
+        [
+          "personalization-improves-easy-kc-accuracy-algebra-its",
+          "+"
+        ],
+        [
+          "personalization-improves-hard-kc-accuracy-algebra-its",
+          "+"
+        ],
+        [
+          "personalization-reduces-gaming-behavior",
+          "+"
+        ],
+        [
+          "personalization-reduces-solution-time-efficiency",
+          "+"
+        ],
+        [
+          "personalization-struggling-students-moderation",
+          "~"
+        ],
+        [
+          "localized-names-personalization-subgroup-performance",
+          "~"
+        ],
+        [
+          "personalized-analogies-more-engaging-memorable",
+          "+"
+        ],
+        [
+          "students-report-topic-mismatch-interests",
+          "~"
+        ],
+        [
+          "students-critique-grain-size-personalization-resistance",
+          "~"
+        ],
+        [
+          "ai-relevance-intervention-no-interest-effect",
+          "-"
+        ],
+        [
+          "life-science-examples-increase-interest-and-relevance",
+          "+"
+        ],
+        [
+          "collective-ai-intervention-improves-relevance-identification-math",
+          "+"
+        ],
+        [
+          "individual-ai-condition-no-significant-relevance-effect",
+          "~"
+        ],
+        [
+          "irrelevant-story-larger-effects-than-relevant",
+          "-"
+        ],
+        [
+          "employer-relevant-training-improves-adult-outcomes",
+          "+"
+        ],
+        [
+          "students-want-curricular-relevance-and-life-skills",
+          "+"
+        ],
+        [
+          "low-motivation-formulaic-writing",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

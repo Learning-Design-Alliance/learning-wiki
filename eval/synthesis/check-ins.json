@@ -33,6 +33,78 @@
         [
           "rubrics-improve-student-work",
           "+"
+        ],
+        [
+          "learners-misjudge-effective-learning-strategies",
+          "+"
+        ],
+        [
+          "metacognitive-illusion-blocking-interleaving",
+          "+"
+        ],
+        [
+          "metacognitive-illusion-pretesting-underrated",
+          "+"
+        ],
+        [
+          "novice-metacognitive-calibration-deficits",
+          "+"
+        ],
+        [
+          "feedback-improves-confidence-calibration",
+          "+"
+        ],
+        [
+          "feedback-reduces-absolute-metacognitive-bias-exp1",
+          "+"
+        ],
+        [
+          "sketching-most-accurate-monitoring-absolute-error",
+          "+"
+        ],
+        [
+          "self-assessment-inflation-seven-percent",
+          "+"
+        ],
+        [
+          "jol-consistency-and-rating-evolution",
+          "~"
+        ],
+        [
+          "elicit-condition-jol-accuracy-correlations",
+          "~"
+        ],
+        [
+          "underuse-stems-from-false-beliefs-and-counterintuition",
+          "+"
+        ],
+        [
+          "overconfidence-all-conditions-except-sketching",
+          "+"
+        ],
+        [
+          "students-miscalibrate-question-specificity",
+          "+"
+        ],
+        [
+          "reflection-improves-awareness-calibration",
+          "~"
+        ],
+        [
+          "exp2-linear-reduction-absolute-metacognitive-bias",
+          "+"
+        ],
+        [
+          "metacognitive-feedback-reduces-reminder-bias",
+          "+"
+        ],
+        [
+          "prediction-alone-ineffective-performance-feedback-sufficient",
+          "~"
+        ],
+        [
+          "exp2-signed-metacognitive-bias-not-replicated",
+          "~"
         ]
       ]
     },
@@ -122,6 +194,30 @@
         ],
         [
           "expertise-reversal-effect",
+          "~"
+        ],
+        [
+          "fading-support-promotes-transfer-of-responsibility",
+          "+"
+        ],
+        [
+          "coach-guided-relearning-beats-static",
+          "+"
+        ],
+        [
+          "genai-hints-effective-but-require-validation",
+          "~"
+        ],
+        [
+          "scaffolded-coach-no-assignment-performance-advantage",
+          "~"
+        ],
+        [
+          "context-effect-depends-on-guidance-style",
+          "~"
+        ],
+        [
+          "chatgpt-hint-error-rate-self-consistency",
           "~"
         ]
       ]

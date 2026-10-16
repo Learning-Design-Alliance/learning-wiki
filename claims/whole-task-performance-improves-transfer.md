@@ -47,15 +47,17 @@ This article presents a training-design approach rather than a new study. Drawin
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does organising training around whole tasks (4C/ID) produce better learning and transfer than lectures or part- and topic-centred instruction?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **5 distinct studies** (3 theoretical, 2 causal), `q1`–`q3`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does organising training around whole tasks (4C/ID) produce better learning and transfer than lectures or part- and topic-centred instruction?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **7 distinct studies** (3 theoretical, 2 causal, 1 review, 1 qualitative), `q1`–`q3`, 0 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [van Merriënboer et al. 2006](https://doi.org/10.1002/acp.1250) | q2 · theoretical · r? | i? | this claim |
 | [Khan Abdus Salam 2025](https://doi.org/10.7759/cureus.94133) | q2 · causal · r1 | i? | [The 4C/ID group scored higher on consent-taking OSCEs than the lecture group, but the diff](osce-advantage-4cid-not-significant.md) (qualifies); [Lecture-based and 4C/ID-based training produced comparable knowledge retention among emerg](no-knowledge-difference-lecture-vs-4cid-consent-training.md) (qualifies) |
-| M. David Merrill 2007 | q1 · theoretical · r3 | i? | [In one trial, task-centered Entrepreneur course students analyzed a new business as well a](entrepreneur-course-trial-matches-business-majors.md) (supports) |
 | [Pollock et al. 2002](<https://doi.org/10.1016/s0959-4752(01)00016-0>) | q3 · causal · r? | i? | [Part-task practice reduces cognitive load for absolute novices during initial skill acquis](part-task-practice-reduces-load-for-novices.md) (qualifies) |
 | [Bill VanPatten 2010](https://doi.org/10.6018/ijes/2010/1/113951) | q1 · theoretical · r3 | i? | [Skill develops through engaging in the target activity itself, not through mechanistic dri](skill-develops-through-engagement-not-drill.md) (supports) |
+| M. David Merrill 2007 | q1 · theoretical · r3 | i? | [In one trial, task-centered Entrepreneur course students analyzed a new business as well a](entrepreneur-course-trial-matches-business-majors.md) (supports) |
+| [Faramarz Samifanni 2020](https://doi.org/10.5539/elt.v13n3p100) | q1 · review · r2 | i? | [Meaningful L2 learning is achieved through a conducive environment and authentic tasks and](authentic-tasks-meaningful-l2-learning.md) (supports) |
+| [Liang 2026](https://doi.org/10.3389/fneur.2026.1915268) | q2 · qualitative · r3 | i? | [The closer training content is to authentic clinical scenarios, the smoother its translati](contextualized-teaching-facilitates-transfer.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -63,6 +65,10 @@ This article presents a training-design approach rather than a new study. Drawin
 The source proposes lowering intrinsic load early in training for novices, for example by reducing the element interactivity of the tasks; whether that makes whole-task practice work better is not tested by any study recorded here. An experiment comparing whole-task with part-task practice on a transfer measure is what this page still lacks.
 
 ## Related Claims
+
+- [Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments](authentic-assignments-greater-itbs-gains.md) — the general claim this finding bears on, with the studies behind it
+
+- [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](practice-presence-raises-cbi-posttest-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](part-task-practice-reduces-load-for-novices.md)
 - [Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies](pretraining-improves-transfer.md) — related
 - [Skill develops through engaging in the target activity itself, not through mechanistic drill of isolated components](skill-develops-through-engagement-not-drill.md) — related

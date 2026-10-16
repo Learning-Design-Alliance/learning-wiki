@@ -39,6 +39,20 @@ Coefficients from Model 5a on the CPS grade dataset show these differences exist
 
 > "On average, Black and Latino students get lower grades than White students (by 0.26 and 0.12 GPA points, respectively), while Asian students get higher grades (by 0.26 points)."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do girls and boys with the same test scores earn the same grades, and does a test score predict each group's later performance equally well?* This table gathers the studies behind this claim and the 14 narrower claims that bear on it: **5 distinct studies** (4 associational, 1 theoretical), `q2`–`q3`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Elaine M. Allensworth and Stuart Luppescu 2016 | q3 · associational · r3 | i? | this claim |
+| Sex and Race Differences on Standardized Tests: Oversight Hearings before the Subcommittee on Civil and Constitutional Rights of the Committee on the Judiciary 1989 | q2 · theoretical · r1 | i? | [SAT scores underpredict the academic performance of high school girls, who average lower s](sat-underpredicts-girls-performance.md) (supports); [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math c](mit-lower-sat-math-scores-equal-performance.md) (supports); [PSAT-based National Merit scholarship selection distributes awards disproportionately to b](psat-national-merit-awards-skew-male.md) (supports) |
+| Halpern 2007 | q2 · associational · r? | i? | [Girls score lower than boys on timed standardized math and science tests at the same cours](timed-test-gender-gap-underpredicts-college-performance.md) (supports) |
+| [Howard Wainer 1992](https://doi.org/10.17763/haer.62.3.1p1555011301r133) | q3 · associational · r2 | i? | [Women scored about 33 SAT-M points lower than men who took the same math course and receiv](women-33-sat-points-lower-matched-course-grade.md) (supports); [The score gaps constitute evidence of sex differences in the validity of the SAT-M as a pr](sex-differences-sat-m-predictive-validity.md) (supports); [Prospective regression analysis of the same data found somewhat larger sex differences in ](prospective-regression-larger-sex-differences-sat-m.md) (supports) |
+| Easton 2023 | q2 · associational · r2 | i? | [Gender differences in points earned remained statistically significant when comparing stud](gender-gap-persists-controlling-course-enrollment.md) (supports); [Prior achievement, attendance, and suspensions do not explain the gender difference in nin](prior-achievement-attendance-suspensions-do-not-explain-gender-grade-gap.md) (supports); [Student self-reports of effort, social well-being, and math instruction do not explain the](survey-self-reports-do-not-explain-gender-grade-gap.md) (supports); [Gender differences in ninth-grade math grades were similar across racial/ethnic groups, wi](gender-grade-gap-similar-across-race-ethnicity-ninth-grade-math.md) (supports); [Young women outperformed young men in every grading category family in unweighted points, ](gender-gap-varies-by-grading-category-family.md) (qualifies); [Higher weights on assessments shrank, but did not eliminate, the gender difference in fina](assessment-weights-shrank-gender-grade-gap.md) (qualifies); [Differential course placement gave young men and women different grading category weights,](differential-course-placement-created-different-category-weights.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

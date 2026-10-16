@@ -79,8 +79,11 @@ School fixed effects model comparing schools to themselves across years; for all
 
 ## Discussion
 
-
 ## Related Claims
+
+- [5Essentials Survey measures predict school improvement in elementary and high schools, but not all measures relate to all outcomes](5essentials-measures-positively-associated-improvement.md) — the general claim this finding bears on, with the studies behind it
+
+- [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](schools-strong-three-plus-supports-ten-times-more-likely-improve.md) — the general claim this finding bears on, with the studies behind it
 - [Base strength predicted outcome improvement better than growth in aggregate, and pooled regression estimates exceeded school fixed effects estimates](base-strength-predicts-improvement-better-than-growth.md) — related
 - [Yearly high school attendance grew up to 3.55 percentage points more in schools with strong 5Essentials Survey measures than in schools with average scores](high-school-attendance-strong-5essentials-measures.md) — related
 - [Strong scores and growth on the 5Essentials Survey predict student success measures including GPA, attendance, test scores, and college enrollment](5essentials-scores-predict-student-success-measures.md) — a broader claim this one bears on

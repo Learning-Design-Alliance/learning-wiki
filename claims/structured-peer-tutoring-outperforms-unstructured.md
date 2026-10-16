@@ -73,6 +73,10 @@ A meta-analysis of 36 elementary-school peer-assisted-learning studies examined 
 
 ## Related Claims
 
+- [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — the general claim this finding bears on, with the studies behind it
+
+- [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — the general claim this finding bears on, with the studies behind it
+
 - [Collaborative learning improves outcomes.](collaborative-learning-improves-outcomes.md) — peer tutoring is a structured form of collaborative learning; conditions for effective collaboration apply here
 - [Active learning improves exam performance.](active-learning-improves-exam-performance.md) — peer tutoring is one active-learning structure whose benefits depend on how interaction is organized
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — explains why novice tutors need scaffolds and protocols to avoid overload

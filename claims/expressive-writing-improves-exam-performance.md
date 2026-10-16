@@ -61,6 +61,21 @@ O'Meara, P., & Lovett, B. J. (2026). Single-session expressive writing intervent
 
 A meta-analysis of the single-session expressive-writing literature (the paradigm Ramirez and Beilock's classroom studies exemplify) found only a negligible, nonsignificant effect on test anxiety (r=−.05, p=.57; r=−.10, p=.08 after removing an extreme outlier) and an effect on test performance that was significant before outlier removal (r=.09, p=.02) but shrank to nonsignificance after it (r=.06, p=.06). Heterogeneity across studies was substantial and the moderators tested did not explain it robustly. The authors conclude the broader literature "fails to support single sessions of expressive writing as a treatment for test anxiety," which qualifies rather than confirms the original classroom finding as a general effect.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does a brief regulation exercise before an evaluation (writing about worries, relabelling the feeling) protect anxious learners' performance?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **6 distinct studies** (2 causal, 2 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4`, 4 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Ramirez and Beilock 2011](https://doi.org/10.1126/science.1199427) | q3 · causal · r2 | i2 · medium effect, d=0.57 | this claim |
+| [O'Meara and Lovett 2026](https://doi.org/10.1080/10615806.2025.2552857) | q4 · quant-synthesis · r3 | i0 · negligible effect, r=.06 (n.s.) on performance after outlier removal; r=−.05/−.10 on anxiety | this claim |
+| [Conijn 2022](https://doi.org/10.1111/jcal.12651) | q2 · associational · r2 | i? | [Test anxiety is negatively related to exam performance, and proctoring does not moderate t](test-anxiety-negative-exam-performance.md) (qualifies) |
+| [Barroso et al. 2021](https://doi.org/10.1037/bul0000307) | q3 · quant-synthesis · r2 | i2 · medium effect, r=-.28 | [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28)](math-anxiety-degrades-performance.md) (qualifies) |
+| [Kircanski et al. 2012](https://doi.org/10.1177/0956797612443830) | q3 · causal · r2 | i2 · medium-to-large effect, d=0.64–0.85 at 1-week follow-up | [Emotion Labeling Improves Regulation](emotion-labeling-improves-regulation.md) (supports) |
+| [François PARLANT 2025](https://doi.org/10.35542/osf.io/bmh7k_v1) | q1 · theoretical · r2 | i? | [Micro-interventions work by targeting the cognitive appraisal sequence: altering primary a](micro-intervention-targets-cognitive-appraisal-sequence.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **Proposed mechanism.** The claim rests on a working-memory account: test anxiety consumes working-memory capacity with intrusive, ruminative worry, and writing those worries down externalizes them so they no longer compete with task-relevant processing. This aligns with the broader finding that cognitive overload degrades learning and performance — see [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — and with evidence that reducing unnecessary load frees capacity for the target task, as in [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md).
@@ -75,6 +90,8 @@ A meta-analysis of the single-session expressive-writing literature (the paradig
 - [Academic Anxiety](../learner-variables/academic-anxiety.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Online and proctored online exams increase students' test anxiety compared with on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — the general claim this finding bears on, with the studies behind it
 
 - [Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation](test-anxiety-negative-exam-performance.md) — the general claim this finding bears on, with the studies behind it
 

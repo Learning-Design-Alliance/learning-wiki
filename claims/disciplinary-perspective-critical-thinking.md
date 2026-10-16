@@ -42,8 +42,9 @@ Summary of Weinstein's plenary paper 'Critical Thinking Across the Disciplines' 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Direct CT instruction combined with modeling, coaching, and discussion yields more consistent CT improvement than implicit teaching strategies](direct-ct-instruction-outperforms-implicit-strategies.md) — the general claim this finding bears on, with the studies behind it
 - [Critical science education requires explicit attention to philosophy of science and rival theories](critical-science-education-philosophy-of-science.md) — related
 - [Principles of reason assessment are both subject-neutral and subject-specific](reason-assessment-principles-both-neutral-and-specific.md) — a broader claim this one bears on
 - In the fully regulative context, critique proceeds by methodological correctness or paradigmatic positioning — related

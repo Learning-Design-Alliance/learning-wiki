@@ -44,7 +44,7 @@ The authors meta-analyzed 29 experimental and quasi-experimental studies of stud
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does teaching writing as a staged process with feedback on drafts raise writing quality, and what has to be inside it for the gain to appear?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **12 distinct studies** (6 causal, 4 quant-synthesis, 2 theoretical), `q2`–`q4`, 5 of 12 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does teaching writing as a staged process with feedback on drafts raise writing quality, and what has to be inside it for the gain to appear?* This table gathers the studies behind this claim and the 13 narrower claims that bear on it: **14 distinct studies** (6 causal, 4 quant-synthesis, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4`, 5 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -57,9 +57,11 @@ The authors meta-analyzed 29 experimental and quasi-experimental studies of stud
 | [Panadero & Romero 2014](https://doi.org/10.1080/0969594x.2013.877872) | q2 · causal · r? | i? | [Self-assessing against a rubric improved the quality of student work in two non-randomised](rubrics-improve-student-work.md) (supports) |
 | [Zimmerman & Kitsantas 1999](https://doi.org/10.1037/0022-0663.91.2.241) | q3 · causal · r? | i? | [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md) (qualifies) |
 | [Zimmerman 2000](https://doi.org/10.1016/b978-012109890-2/50031-7) | q3 · theoretical · r? | i? | [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md) (qualifies) |
-| [Farrokhnia 2026](https://doi.org/10.1186/s41239-026-00579-9) | q3 · causal · r2 | i3 | [Students' argumentative essay quality improves substantially from initial to revised draft](essay-quality-improves-from-initial-to-revised.md) (supports) |
+| [Farrokhnia 2026](https://doi.org/10.1186/s41239-026-00579-9) | q3 · causal · r2 | i3; i1; i? | [Students' argumentative essay quality improves substantially from initial to revised draft](essay-quality-improves-from-initial-to-revised.md) (supports); [Feedback source does not significantly affect revised essay quality once initial draft qua](feedback-source-no-effect-on-revision-outcomes.md) (qualifies); [In one study, feedback quality significantly predicts revised essay quality under teacher ](feedback-quality-predicts-revision-only-in-teacher-condition.md) (qualifies) |
 | Barnawi 2010 | q2 · theoretical · r3 | i? | [Review reports that asking students to notice particular errors decreased errors in a subs](noticing-errors-decreases-errors-preserves-quality.md) (supports) |
 | [Baaijen & Galbraith 2018](https://doi.org/10.1080/07370008.2018.1456431) | q3 · causal · r2 | i? | [In one keystroke-logging study, spontaneous sentence production under minimal planning is ](spontaneous-sentence-production-in-synthetic-planning-increases-understanding.md) (qualifies) |
+| [Raigul Zheldibayeva 2025](https://doi.org/10.48550/arxiv.2605.17055) | q2 · qualitative · r3 | i? | [Students reported recognizing writing improvements after revising in response to AI feedba](students-recognize-writing-improvement-ai-feedback.md) (supports) |
+| [Janis 2025](https://doi.org/10.69772/jes.8.3.1) | q1 · design · r3 | i? | [In a case analysis, probing instructor feedback with required revise-and-resubmit moved on](probing-feedback-revise-resubmit-evidence.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

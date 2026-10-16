@@ -7,12 +7,28 @@
       "question": "Does teaching learners how to check a source improve their judgments of unfamiliar sources, and how much can one session do?",
       "members": [
         [
-          "checklist-evaluation-ineffective-online",
-          "~"
+          "course-embedded-modules-improve-credibility-scores",
+          "+"
+        ],
+        [
+          "lateral-reading-increased-post-intervention",
+          "+"
+        ],
+        [
+          "surface-strategies-declined-after-modules",
+          "+"
+        ],
+        [
+          "gains-robust-to-test-form-order",
+          "+"
         ],
         [
           "ai-media-literacy-program-large-posttest-gains",
           "+"
+        ],
+        [
+          "checklist-evaluation-ineffective-online",
+          "~"
         ],
         [
           "collaborative-evidence-critique-shifts-students-toward-procedural-objectivity",
@@ -34,6 +50,18 @@
         ],
         [
           "structured-discussion-methods-improve-comprehension",
+          "~"
+        ],
+        [
+          "mad-city-mystery-ar-argumentation-cases",
+          "+"
+        ],
+        [
+          "ar-game-features-scaffold-argumentation",
+          "+"
+        ],
+        [
+          "argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence",
           "~"
         ]
       ]

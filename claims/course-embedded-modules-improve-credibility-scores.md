@@ -41,8 +41,9 @@ Single-group pretest–posttest study of 87 undergraduates in two sections of an
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Civic Online Reasoning Instruction Improves Evaluation](civic-online-reasoning-instruction-improves-evaluation.md) — the general claim this finding bears on, with the studies behind it
 - [Students in the AI-integrated database course showed large, statistically significant pre/post gains on seven identical database assessment questions](ai-integrated-course-large-prepost-db-gains.md) — related
 - [Gains in source evaluation held regardless of the order in which students took the two assessment forms](gains-robust-to-test-form-order.md) — possibly the same claim (merge candidate)
 - [After the modules, students engaged in lateral reading far more often, rising from 3 of 87 students at pretest to 67 of 87 at posttest](lateral-reading-increased-post-intervention.md) — related

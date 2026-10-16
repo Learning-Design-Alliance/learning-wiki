@@ -42,8 +42,9 @@ Experiment Five with 48 first-semester trainees in a two-year FAA certificate pr
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](gpt4-access-harms-learning-after-withdrawal.md) — the general claim this finding bears on, with the studies behind it
 - Computer aiding produces positive transfer of training: aided-trained subjects maintain performance on unaided fault-diagnosis displays — related
 - Context-free diagnostic training transfers to context-specific performance: aided Task One training reduced cost to solution on two of three FAULT powerplants — related
 - [Forced pacing eliminates positive transfer from computer aiding and leads subjects to use strategies requiring many more tests than necessary](forced-pacing-eliminates-aiding-transfer.md) — related

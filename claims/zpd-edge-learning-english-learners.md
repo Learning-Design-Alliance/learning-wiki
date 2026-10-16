@@ -41,8 +41,9 @@ Definitional/argumentative statement in the brief's introduction, citing the lit
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Instruction must be challenging for learning gains, but raising challenge without classroom control and student support harms grades and engagement](challenge-requires-control-and-support.md) — the general claim this finding bears on, with the studies behind it
 - Productive difficulty at the edge of mastery, with high expectations, fosters deeper learning — possibly the same claim (merge candidate)
 - [Static individual assessment misses developing functions; ZPD-based assessment reveals potential competencies](static-assessment-misses-emerging-functions.md) — related
 - Deep thinking and making connections help students build strong memories and learn more deeply — related

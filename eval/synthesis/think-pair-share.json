@@ -7,16 +7,28 @@
       "question": "Does discussing a committed answer with peers improve a later individual answer on a new question?",
       "members": [
         [
+          "fci-gain-increased-peer-instruction-harvard",
+          "+"
+        ],
+        [
+          "learning-attributed-to-process-not-technology",
+          "+"
+        ],
+        [
           "correct-correct-clicker-pattern-higher-exam-performance",
+          "~"
+        ],
+        [
+          "any-clicker-pattern-beats-absence-except-lowest-quartile",
+          "~"
+        ],
+        [
+          "clicker-vote-patterns-null-on-homework-explanations",
           "~"
         ],
         [
           "clicker-participation-and-homework-completion-predict-exam-performance",
           "~"
-        ],
-        [
-          "learning-attributed-to-process-not-technology",
-          "+"
         ]
       ]
     },
@@ -25,12 +37,12 @@
       "question": "Does a longer pause after a question, before anyone answers, improve the responses that follow?",
       "members": [
         [
-          "questioning-strategies-improve-learning",
-          "+"
-        ],
-        [
           "wait-time-invited-disinvited-students",
           "~"
+        ],
+        [
+          "questioning-strategies-improve-learning",
+          "+"
         ]
       ]
     },
@@ -73,6 +85,54 @@
         [
           "lecturing-on-values-does-not-transact-values-effectively",
           "+"
+        ],
+        [
+          "active-learning-lower-feeling-of-learning",
+          "~"
+        ],
+        [
+          "interviews-active-classrooms-disjointed-frustrating",
+          "~"
+        ],
+        [
+          "ire-shift-toward-discussion-improves-learning",
+          "+"
+        ],
+        [
+          "open-democratic-classroom-climate-promotes-citizenship",
+          "+"
+        ],
+        [
+          "dilemma-discussion-meta-analysis-moderate-effect",
+          "+"
+        ],
+        [
+          "collaborative-argumentation-benefits-summary",
+          "+"
+        ],
+        [
+          "implicit-strategies-inconclusive-domain-specific-only",
+          "~"
+        ],
+        [
+          "peer-discussion-improves-conceptual-understanding",
+          "+"
+        ],
+        [
+          "er-peer-interaction-greater-achievement-gains",
+          "+"
+        ],
+        [
+          "interactive-beats-constructive-concept-mapping",
+          "+"
+        ],
+        [
+          "interaction-facilitates-l2-grammatical-development",
+          "+"
+        ],
+        [
+          "active-participation-in-interaction-drives-development",
+          "~"
         ]
       ]
     }

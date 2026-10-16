@@ -7,6 +7,14 @@
       "question": "Do sustained, structured programmes produce social-emotional gains, and do they last?",
       "members": [
         [
+          "swpbis-improves-emotion-regulation",
+          "~"
+        ],
+        [
+          "co-regulation-supports-climate-and-youth-emotion-regulation",
+          "+"
+        ],
+        [
           "sel-benefits-persist-follow-up",
           "+"
         ],
@@ -62,6 +70,14 @@
         ],
         [
           "schoolwide-sel-meta-analytic-11-percentile-achievement-gain",
+          "+"
+        ],
+        [
+          "mindfulness-programs-benefit-adolescent-regulation",
+          "~"
+        ],
+        [
+          "integrated-skills-habits-mindsets-instruction",
           "+"
         ]
       ]

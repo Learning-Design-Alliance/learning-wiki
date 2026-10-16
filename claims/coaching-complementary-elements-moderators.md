@@ -63,14 +63,17 @@ Same exploratory meta-analytic regression of design features on pooled effect si
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Which features of a coaching programme go with larger effects: what it is paired with, its dose, its scale, its target or its mode?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **4 distinct studies** (2 review, 1 quant-synthesis, 1 qualitative), `q2`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Which features of a coaching programme go with larger effects: what it is paired with, its dose, its scale, its target or its mode?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **7 distinct studies** (3 review, 3 qualitative, 1 quant-synthesis), `q2`, 0 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Kraft 2018](https://doi.org/10.3102/0034654318759268) | q2 · quant-synthesis · r2 | i? | this claim; [Coaching dosage shows precisely estimated null effects: more coaching hours are not associ](coaching-dosage-null-effect.md) (qualifies); [Coaching program effects shrink substantially at scale: effectiveness trials of larger pro](coaching-scale-up-diminishing-effects.md) (qualifies) |
 | Carmouche 2018 | q2 · review · r3 | i? | [Research quality and outcome durability were highest when coaching targeted fidelity of sp](coaching-academic-task-fidelity-higher-quality.md) (qualifies) |
-| [Schachner 2024](https://doi.org/10.54300/984.909) | q2 · qualitative · r2 | i? | [Coaching can be effective in all delivery modes: face-to-face, distance, and a combination](coaching-effective-all-delivery-modes.md) (qualifies) |
+| [Schachner 2024](https://doi.org/10.54300/984.909) | q2 · qualitative · r2 | i? | [Coaching can be effective in all delivery modes: face-to-face, distance, and a combination](coaching-effective-all-delivery-modes.md) (qualifies); [No specific coaching dosage is established as necessary; coaching outcomes appear more sen](coaching-dosage-quality-over-quantity.md) (qualifies); [In five scaled early learning coaching systems, coach-to-site ratios averaged about 1 coac](scaled-coaching-systems-case-study-findings.md) (qualifies) |
 | Tina Ehsanipour & Florencia Gomez Zaccarelli 2017 | q2 · review · r3 | i? | [Professional development needs roughly 50 hours in a specific area, and long-term content-](fifty-hours-content-specific-pd.md) (qualifies) |
+| Gall 1994 | q2 · review · r2 | i? | [Effective skill training combines theory presentation, demonstration, practice with feedba](skill-training-effective-techniques.md) (supports) |
+| White 2015 | q2 · qualitative · r2 | i? | [Video-based self-observation of teaching was among the most powerful parts of the coaching](video-self-observation-powerful-coaching-component.md) (supports); [Teacher buy-in and willingness to engage are viewed as strong mediators of coaching benefi](teacher-buy-in-mediates-coaching-benefit.md) (supports) |
+| Hardy 2021 | q2 · qualitative · r1 | i? | [Time spent between teachers and coaches is one of the most important factors in a successf](coach-teacher-time-key-success-factor.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

@@ -42,12 +42,13 @@ The article reports peer-age effects with offsetting signs: older classmates “
 
 ## Discussion
 
-
 ## Learner Variables
 - [Attention](../learner-variables/attention.md) — outcome: instruction changes it
 - [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Being a year older at kindergarten entry leads to higher initial achievement](older-entry-higher-initial-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [A relationship exists between students' relative age among their peers and their probability of disability classification](relative-age-relates-disability-classification.md) — related
 - [An additional month of relative age among peers decreases the likelihood of receiving special education services by 2-5 percent](relative-age-month-decreases-special-education-likelihood.md) — related
 - [LCFF-induced spending increases reduced the probability of grade repetition, particularly in elementary school](lcff-spending-reduces-grade-repetition-elementary.md) — related

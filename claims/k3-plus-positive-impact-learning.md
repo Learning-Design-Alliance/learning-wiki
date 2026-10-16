@@ -41,6 +41,7 @@ The report cites its analysis of the state's K–3 Plus expanded learning time p
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Thoughtfully designed expanded learning time and opportunities are associated with positive academic and nonacademic outcomes, with the best-designed studies showing the strongest effects](expanded-learning-time-positive-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [New Mexico's K–3 Plus evaluation found faithful implementation raised proficiency, with the largest gains for low-income students](k3-plus-fidelity-proficiency-gains.md) — possibly the same claim (merge candidate)

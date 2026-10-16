@@ -61,6 +61,25 @@ Newmann, Bryk, and Nagaoka analyzed about 2,000 assignments and standardized tes
 
 > "Controlling for student race, socioeconomic status, gender, and prior achievement, this study found that in classrooms with authentic assignments, one-year student gains on the ITBS were 20 percent greater than the national average in both reading and mathematics."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does instruction built around authentic tasks and contexts produce better learning and transfer than abstract, decontextualized instruction?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **10 distinct studies** (5 theoretical, 2 associational, 1 qualitative, 1 review, 1 causal), `q1`–`q3`, 1 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Fred M. Newmann 2001 | q2 · associational · r2 | i?; i2 | this claim; [Exposure to high-quality assignments predicted substantially higher IGAP reading, mathemat](authentic-assignments-igap-value-added.md) (supports); [Both high- and low-prior-achieving students benefited from high-quality assignments, with ](high-and-low-achievers-benefit-authentic-assignments.md) (supports) |
+| Smylie 2006 | q3 · theoretical · r2 | i? | this claim |
+| Sebring 2021 | q2 · theoretical · r2 | i? | [Instruction organized to promote authentic intellectual work was associated with more comp](authentic-intellectual-work-complex-thinking-gains.md) (supports) |
+| Newmann 1998 | q1 · associational · r1 | i? | [The report cites research evidence that students exposed to authentic intellectual challen](authentic-challenges-increase-engagement.md) (supports) |
+| Emmanuel Imiere 2019 | q2 · theoretical · r2 | i? | [The review reports that students receiving situated instruction outperformed a lecture-bas](situated-instruction-outperformed-abstract-control-causality.md) (supports) |
+| [Liang 2026](https://doi.org/10.3389/fneur.2026.1915268) | q2 · qualitative · r3 | i? | [The closer training content is to authentic clinical scenarios, the smoother its translati](contextualized-teaching-facilitates-transfer.md) (supports) |
+| [van Merriënboer et al. 2006](https://doi.org/10.1002/acp.1250) | q2 · theoretical · r? | i? | [A training-design argument, not tested by any study recorded here, holds that practising w](whole-task-performance-improves-transfer.md) (supports) |
+| Shavelson 1986 | q2 · review · r2 | i? | [Encoding variability across varied example contexts produces decontextualization supportin](encoding-variability-decontextualization-transfer.md) (qualifies) |
+| Collins 1988 | q1 · theoretical · r2 | i? | [Learning in multiple contexts and generalizing across them makes knowledge both specific a](multiple-contexts-generalization-transfer.md) (qualifies) |
+| [Pollock et al. 2002](<https://doi.org/10.1016/s0959-4752(01)00016-0>) | q3 · causal · r? | i? | [Part-task practice reduces cognitive load for absolute novices during initial skill acquis](part-task-practice-reduces-load-for-novices.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

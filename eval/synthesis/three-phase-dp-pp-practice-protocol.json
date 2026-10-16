@@ -1,0 +1,54 @@
+{
+  "principle": "patterns/three-phase-dp-pp-practice-protocol",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "deliberate-practice-improves-performance",
+      "question": "How much of performance does accumulated deliberate practice account for, and in which domains?",
+      "members": [
+        [
+          "deliberate-practice-hours-differentiate-musicians",
+          "+"
+        ],
+        [
+          "deliberate-practice-correlational-limits",
+          "~"
+        ],
+        [
+          "deliberate-practice-raises-licensing-pass-rate",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "skill-specificity-l2-grammar-practice",
+      "question": "Does second-language practice carry over to skills and tasks other than the one practised?",
+      "members": [
+        [
+          "task-repetition-fluency-complexity-same-task-only",
+          "+"
+        ],
+        [
+          "structured-repetition-fluency-task-specific",
+          "+"
+        ],
+        [
+          "immediate-repetition-benefits-oral-performance",
+          "~"
+        ],
+        [
+          "carousel-task-immediate-repetition-benefits",
+          "~"
+        ],
+        [
+          "attention-shift-meaning-to-form-over-cycles",
+          "~"
+        ],
+        [
+          "automatization-requires-practice-consistent-environment",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

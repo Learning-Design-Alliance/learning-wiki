@@ -1,0 +1,152 @@
+{
+  "principle": "elements/emotion-regulation",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "expressive-writing-improves-exam-performance",
+      "question": "Does a brief regulation exercise before an evaluation (writing about worries, relabelling the feeling) protect anxious learners' performance?",
+      "members": [
+        [
+          "test-anxiety-negative-exam-performance",
+          "~"
+        ],
+        [
+          "math-anxiety-degrades-performance",
+          "~"
+        ],
+        [
+          "emotion-labeling-improves-regulation",
+          "+"
+        ],
+        [
+          "micro-intervention-targets-cognitive-appraisal-sequence",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "mbi-evidence-base-variability-limitation",
+      "question": "Do school and youth mindfulness programmes improve students' regulation, wellbeing and academic outcomes?",
+      "members": [
+        [
+          "mindfulness-programs-benefit-adolescent-regulation",
+          "+"
+        ],
+        [
+          "mindfulness-positive-school-climate-outcomes",
+          "+"
+        ],
+        [
+          "mindfulness-academic-improvement-links",
+          "+"
+        ],
+        [
+          "mindfulness-conflict-resolution-transfer-out-of-school",
+          "+"
+        ],
+        [
+          "co-regulation-supports-climate-and-youth-emotion-regulation",
+          "+"
+        ],
+        [
+          "mindfulness-schools-overall-effect-g-040",
+          "+"
+        ],
+        [
+          "school-mindfulness-small-moderate-effect-youth-mental-health",
+          "+"
+        ],
+        [
+          "mindfulness-domain-effects-cognitive-stress-resilience",
+          "+"
+        ],
+        [
+          "mindfulness-schools-heterogeneous-underpowered",
+          "+"
+        ],
+        [
+          "risk-of-bias-inflates-mindfulness-effects",
+          "+"
+        ],
+        [
+          "mindfulness-late-adolescence-largest-effects",
+          "~"
+        ],
+        [
+          "mindfulness-activity-combinations-largest-effects",
+          "~"
+        ],
+        [
+          "mindfulness-facilitator-type-moderates-effects",
+          "~"
+        ],
+        [
+          "individual-differences-program-characteristics-shape-mindfulness-effectiveness",
+          "~"
+        ],
+        [
+          "active-control-rcts-benefits-restricted",
+          "~"
+        ],
+        [
+          "no-condition-difference-state-ma",
+          "-"
+        ]
+      ]
+    },
+    {
+      "hub": "sel-programs-improve-social-emotional-skills",
+      "question": "Do sustained, structured programmes produce social-emotional gains, and do they last?",
+      "members": [
+        [
+          "swpbis-improves-emotion-regulation",
+          "~"
+        ],
+        [
+          "co-regulation-supports-climate-and-youth-emotion-regulation",
+          "+"
+        ],
+        [
+          "sel-benefits-persist-follow-up",
+          "+"
+        ],
+        [
+          "sel-programs-promote-social-emotional-competencies",
+          "+"
+        ],
+        [
+          "sel-programs-improve-behavior-engagement-achievement",
+          "+"
+        ],
+        [
+          "strong-evidence-social-emotional-instruction-preschool",
+          "+"
+        ],
+        [
+          "social-skills-training-positive-social-emotional-effects-preschool-disabilities",
+          "+"
+        ],
+        [
+          "sel-meta-analysis-graduation-increases",
+          "+"
+        ],
+        [
+          "sel-effects-moderators-implementation-delivery",
+          "~"
+        ],
+        [
+          "rwsa-hong-kong-less-bullying-empathy-gains",
+          "+"
+        ],
+        [
+          "bds-improves-ethical-perspective",
+          "+"
+        ],
+        [
+          "pretend-play-facilitates-perspective-taking-abstract-thought",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

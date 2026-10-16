@@ -60,12 +60,13 @@ The review reports that meta-analyses find benefits concentrated among "economic
 
 ## Discussion
 
-
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
 - [Mindset](../learner-variables/mindset.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students](assistments-school-composition-moderators.md) — the general claim this finding bears on, with the studies behind it
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related
 - [Aronson et al. (2002) pen-pal growth mindset intervention produced a statistically significant positive effect on quarter GPA (effect size 0.85)](aronson-2002-significant-gpa-effect.md) — related
 - [Teachers who are effective at improving academic behaviors and mindsets are often not the same teachers who raise math test scores](teacher-effectiveness-noncognitive-uncorrelated-test-scores.md) — related

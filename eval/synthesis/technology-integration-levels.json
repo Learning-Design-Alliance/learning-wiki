@@ -1,0 +1,50 @@
+{
+  "principle": "theories/technology-integration-levels",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "ai-integration-mostly-substitution-augmentation",
+      "question": "Where on the substitution-to-redefinition range does educational technology use actually sit?",
+      "members": [
+        [
+          "its-applications-augment-not-transform",
+          "+"
+        ],
+        [
+          "experts-superficial-technology-integration",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "gai-value-contingent-on-pedagogical-integration",
+      "question": "Does using technology to transform a task, rather than substitute for it, change what learners learn?",
+      "members": [
+        [
+          "chatgpt-free-use-originality-gains-vanish-unassisted",
+          "~"
+        ],
+        [
+          "full-ai-offloading-forgoes-engagement-and-skills",
+          "+"
+        ],
+        [
+          "ai-substitution-inclusion-and-time-tradeoffs",
+          "~"
+        ],
+        [
+          "vr-reinforcement-not-substitute",
+          "+"
+        ],
+        [
+          "lab-technology-gains-depend-on-active-engagement-pedagogy",
+          "+"
+        ],
+        [
+          "edtech-software-null-average-test-score-effects-year-one",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -13,7 +13,7 @@ generated:
 # Knowledge-Building Discourse
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 7 studies (3 causal, 2 quant-synthesis, 1 associational, 1 qualitative), `q2`–`q4` · 1 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 against) · 12 studies (5 causal, 4 quant-synthesis, 2 associational, 1 qualitative), `q2`–`q4` · 3 of 12 report an effect size · 4 claims rest on one study
 
 ## Description
 Knowledge-building discourse is structured, sustained discussion in which learners collectively work to improve ideas rather than merely exchange opinions. Talk is treated as a medium for advancing community understanding — questioning, elaborating, and revising explanations — in the tradition of Scardamalia and Bereiter's knowledge-building pedagogy.

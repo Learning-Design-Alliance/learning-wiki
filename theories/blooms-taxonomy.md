@@ -12,7 +12,7 @@ generated:
 # Bloom's Taxonomy
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (3 for, 1 mixed, 2 against) · 5 studies (3 design, 2 associational), `q1`–`q2` · 0 of 5 report an effect size · 6 claims rest on one study
+> **Evidence** · 9 claims (4 for, 3 mixed, 2 against) · 8 studies (3 causal, 3 design, 2 associational), `q1`–`q3` · 0 of 8 report an effect size · 9 claims rest on one study
 
 ## Description
 Benjamin Bloom (1913-1999), working with his mentor Ralph W. Tyler at the University of Chicago and with collaborators Engelhart, Furst, Hill, and Krathwohl, published *Taxonomy of Educational Objectives: Handbook I, The Cognitive Domain* in 1956, followed by a second handbook on the affective domain in 1964 (Krathwohl, Bloom, & Masia, 1973). Bloom et al. (1956) identified three domains of educational goals — often summarized as **KSA**:

@@ -41,8 +41,9 @@ Qualitative synthesis of collaborative small focus groups with approximately 70 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — the general claim this finding bears on, with the studies behind it
 - Real-world and racially diverse examples in courseware content helped students retain, comprehend, and relate to statistics — related
 - [Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application](students-want-curricular-relevance-and-life-skills.md) — related
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — reports the opposite

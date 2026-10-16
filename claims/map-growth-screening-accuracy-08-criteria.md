@@ -41,8 +41,9 @@ Classification accuracy results in Tables 2.9 and 2.10 for the primary and secon
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Literacy screener benchmarks predict which grade 3 students will not meet MCAS ELA expectations, but not necessarily who will meet them](screeners-predict-mcas-failure-not-success.md) — the general claim this finding bears on, with the studies behind it
 - [Cross-validation in an independent Indiana sample was consistent with the primary-sample classification accuracy results](map-growth-cut-scores-cross-validation-indiana.md) — related
 - [Classification accuracy of the screening cut scores is lower for Grades K-2 than Grades 3-8, attributed to a 12-36 month lapse between MAP Growth and criterion measures](map-growth-screening-accuracy-lower-grades-k-2.md) — related
 - [MAP Growth cut scores at the 30th percentile of national norms best identify Grade K-8 students in need of intensive intervention in reading and mathematics](map-growth-30th-percentile-screening-cut-scores.md) — related

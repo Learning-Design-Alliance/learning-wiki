@@ -26,7 +26,7 @@ sources:
 # Model Revision
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies (3 causal, 2 quant-synthesis, 1 review, 1 associational, 1 design), `q2`–`q4` · 1 of 8 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 10 studies (3 causal, 3 quant-synthesis, 2 review, 1 associational, 1 design), `q2`–`q4` · 1 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Model revision asks learners to articulate a working conceptual model, confront it with evidence and feedback, and deliberately revise it. The element treats the learner's initial understanding as a draft to be evaluated and improved rather than a fixed starting point, making the *process* of conceptual change visible and iterative.

@@ -7,10 +7,6 @@
       "question": "Does teaching and prompting self-regulation improve achievement over ordinary instruction?",
       "members": [
         [
-          "metacognitive-strategies-improve-learning",
-          "+"
-        ],
-        [
           "srl-strategies-large-effect-academic-achievement",
           "+"
         ],
@@ -19,11 +15,35 @@
           "+"
         ],
         [
-          "self-monitoring-comprehension-improves-learning",
+          "zimmerman-cyclical-model-empirical-support",
           "+"
         ],
         [
           "self-monitoring-improves-self-regulation",
+          "+"
+        ],
+        [
+          "combined-condition-improved-specific-srl-components",
+          "~"
+        ],
+        [
+          "srl-partial-mediation-achievement-higher-ed",
+          "~"
+        ],
+        [
+          "srl-effect-no-school-level-difference",
+          "~"
+        ],
+        [
+          "self-monitoring-four-key-components",
+          "~"
+        ],
+        [
+          "metacognitive-strategies-improve-learning",
+          "+"
+        ],
+        [
+          "self-monitoring-comprehension-improves-learning",
           "+"
         ],
         [
@@ -57,6 +77,42 @@
         [
           "self-determination-instruction-improves-outcomes",
           "+"
+        ],
+        [
+          "strategy-prompts-increase-strategy-use-mediated-outcomes",
+          "+"
+        ],
+        [
+          "student-involvement-stronger-effects",
+          "+"
+        ],
+        [
+          "tefa-t-improves-metacognitive-skills",
+          "+"
+        ],
+        [
+          "strategy-instruction-increases-metacognitive-strategy-use",
+          "+"
+        ],
+        [
+          "red-light-purple-light-potentially-positive-self-regulation",
+          "+"
+        ],
+        [
+          "young-children-set-goals-sdlmi-achieve",
+          "+"
+        ],
+        [
+          "web-based-srl-training-subscale-interactions-planning-metacognition-volition",
+          "~"
+        ],
+        [
+          "web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math",
+          "~"
+        ],
+        [
+          "learning-diary-alone-no-self-regulation-gain",
+          "-"
         ]
       ]
     },
@@ -109,6 +165,30 @@
         [
           "reflective-scaffolding-habituation-deskilling",
           "~"
+        ],
+        [
+          "combine-cognitive-metacognitive-prompts",
+          "~"
+        ],
+        [
+          "metacognitive-first-prompt-sequence",
+          "+"
+        ],
+        [
+          "strategy-prompts-increase-strategy-use-mediated-outcomes",
+          "+"
+        ],
+        [
+          "add-subgoal-prompt-compliance-may-not-help-learning",
+          "~"
+        ],
+        [
+          "deep-prompts-marginal-immediate-exam-advantage",
+          "~"
+        ],
+        [
+          "deep-prompt-advantage-fades-at-follow-up",
+          "~"
         ]
       ]
     },
@@ -143,6 +223,78 @@
         [
           "rubrics-improve-student-work",
           "+"
+        ],
+        [
+          "learners-misjudge-effective-learning-strategies",
+          "+"
+        ],
+        [
+          "metacognitive-illusion-blocking-interleaving",
+          "+"
+        ],
+        [
+          "metacognitive-illusion-pretesting-underrated",
+          "+"
+        ],
+        [
+          "novice-metacognitive-calibration-deficits",
+          "+"
+        ],
+        [
+          "feedback-improves-confidence-calibration",
+          "+"
+        ],
+        [
+          "feedback-reduces-absolute-metacognitive-bias-exp1",
+          "+"
+        ],
+        [
+          "sketching-most-accurate-monitoring-absolute-error",
+          "+"
+        ],
+        [
+          "self-assessment-inflation-seven-percent",
+          "+"
+        ],
+        [
+          "jol-consistency-and-rating-evolution",
+          "~"
+        ],
+        [
+          "elicit-condition-jol-accuracy-correlations",
+          "~"
+        ],
+        [
+          "underuse-stems-from-false-beliefs-and-counterintuition",
+          "+"
+        ],
+        [
+          "overconfidence-all-conditions-except-sketching",
+          "+"
+        ],
+        [
+          "students-miscalibrate-question-specificity",
+          "+"
+        ],
+        [
+          "reflection-improves-awareness-calibration",
+          "~"
+        ],
+        [
+          "exp2-linear-reduction-absolute-metacognitive-bias",
+          "+"
+        ],
+        [
+          "metacognitive-feedback-reduces-reminder-bias",
+          "+"
+        ],
+        [
+          "prediction-alone-ineffective-performance-feedback-sufficient",
+          "~"
+        ],
+        [
+          "exp2-signed-metacognitive-bias-not-replicated",
+          "~"
         ]
       ]
     },
@@ -189,6 +341,26 @@
         [
           "process-goals-outperform-outcome-goals-for-novices",
           "+"
+        ],
+        [
+          "web-based-srl-training-subscale-interactions-planning-metacognition-volition",
+          "+"
+        ],
+        [
+          "combined-srl-training-with-app-diaries-improved-more",
+          "+"
+        ],
+        [
+          "combined-condition-improved-specific-srl-components",
+          "+"
+        ],
+        [
+          "diary-plus-srl-instruction-raises-strategy-use-self-efficacy",
+          "+"
+        ],
+        [
+          "no-academic-performance-improvement",
+          "~"
         ]
       ]
     },
@@ -196,6 +368,54 @@
       "hub": "genai-overreliance-harms-self-regulated-learning",
       "question": "What happens to regulation when learners have a generative AI assistant, and what counteracts offloading?",
       "members": [
+        [
+          "request-dominance-monitoring-evaluate-absent",
+          "+"
+        ],
+        [
+          "genai-weakens-effort-adjustment-to-incentives",
+          "+"
+        ],
+        [
+          "genai-qualitative-shift-requires-meta-level-interventions",
+          "+"
+        ],
+        [
+          "msr-mediation-ai-interaction-outcomes",
+          "~"
+        ],
+        [
+          "within-session-hs-shifts-toward-closure-srl-increases",
+          "~"
+        ],
+        [
+          "hs-trajectory-predicts-unaided-posttest",
+          "~"
+        ],
+        [
+          "srl-change-no-posttest-association",
+          "~"
+        ],
+        [
+          "within-group-gains-design-and-ai-readiness-only",
+          "~"
+        ],
+        [
+          "effort-regulation-buffers-help-seeking-predicts-ai-dependency",
+          "~"
+        ],
+        [
+          "agentic-designs-delayed-ai-free-transfer",
+          "~"
+        ],
+        [
+          "reflective-engagement-predicts-independent-outcomes",
+          "~"
+        ],
+        [
+          "genai-srl-moderator",
+          "~"
+        ],
         [
           "unscaffolded-genai-no-srl-change",
           "~"
@@ -214,10 +434,6 @@
         ],
         [
           "unguided-genai-benefits-advantaged-students",
-          "+"
-        ],
-        [
-          "genai-qualitative-shift-requires-meta-level-interventions",
           "+"
         ],
         [
@@ -241,10 +457,6 @@
           "~"
         ],
         [
-          "msr-mediation-ai-interaction-outcomes",
-          "~"
-        ],
-        [
           "confidence-predicts-offloading-no-feedback-only",
           "~"
         ],
@@ -254,6 +466,50 @@
         ],
         [
           "agentic-srl-coaching-rct-86-significant-strategy-gain",
+          "~"
+        ],
+        [
+          "genai-metacognitive-laziness",
+          "+"
+        ],
+        [
+          "genai-metacognitive-laziness-and-autonomy",
+          "+"
+        ],
+        [
+          "chatgpt-metacognitive-laziness-fan-2025",
+          "+"
+        ],
+        [
+          "genai-collapses-srl-cycle-transitions",
+          "+"
+        ],
+        [
+          "llm-math-interactions-request-dominated-grade9",
+          "+"
+        ],
+        [
+          "cognitive-offloading-negative-higher-order-outcomes",
+          "+"
+        ],
+        [
+          "genai-self-scaffold-versus-outsourcing",
+          "~"
+        ],
+        [
+          "prompt-type-differences-general-vs-regulated",
+          "~"
+        ],
+        [
+          "metacognitive-feedback-disrupts-repeated-answer-offloading",
+          "~"
+        ],
+        [
+          "subjective-expectations-drive-offloading",
+          "~"
+        ],
+        [
+          "helpcoach-no-self-regulation-gain",
           "~"
         ]
       ]

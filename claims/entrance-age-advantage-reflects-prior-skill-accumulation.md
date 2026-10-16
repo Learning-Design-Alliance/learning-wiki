@@ -41,12 +41,15 @@ The article’s stated central finding, presented in the abstract as evidence on
 
 ## Discussion
 
-
 ## Learner Variables
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
 - [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Being a year older at kindergarten entry leads to higher initial achievement](older-entry-higher-initial-achievement.md) — the general claim this finding bears on, with the studies behind it
+
+- [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — the general claim this finding bears on, with the studies behind it
 - [The entrance-age achievement association appears in the first months of kindergarten and declines sharply in subsequent years](entrance-age-gap-declines-after-kindergarten-entry.md) — related
 - [The entrance-age achievement association is especially pronounced among children from upper-income families](entrance-age-gap-largest-upper-income-families.md) — related
 - [Test scores measure accumulated knowledge at a moment in time, not innate student ability](test-scores-measure-opportunity-not-innate-ability.md) — a broader claim this one bears on

@@ -58,6 +58,19 @@ Theoretical argument stated in the introduction: the literature on education "sh
 
 > "Taking into account cultural processes and epistemic injustice, this article argues that the literature on education should include diverse epistemic approaches to problematize the ways of the transmission of structural inequalities in society to education and how these inequality forms are complementary to current practices."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do a school's routine evaluation and categorisation practices (ratings, risk labels, stereotypes, feedback) fall unequally on learners and teachers by race?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **4 distinct studies** (2 associational, 1 theoretical, 1 causal), `q1`–`q2`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Göktürk 2021](https://doi.org/10.24106/kefdergi.732138) | q1 / q2 · theoretical · r2 | i? | this claim; [In the analyzed school ethnography, stereotyping operates as a rationalization process tha](stereotyping-operates-as-rationalization-producing-inequality-in-school.md) (supports); [In the ethnography the article analyzes, black girls bussed to an affluent suburban school](gender-performance-grounds-exclusion-of-bussed-black-students-in-suburban-school.md) (supports) |
+| [Tan et al. 2026](https://doi.org/10.1145/3785022.3785113) | q2 · causal · r2 | i? | [Race prompts elicit culturally stereotyped feedback: Black, Hispanic, and Asian students a](race-prompts-cultural-stereotype-feedback.md) (supports) |
+| [Gold 2020](https://doi.org/10.51388/20.500.12265/96) | q2 · associational · r? | i? | [Teachers of color are judged more harshly in evaluations: within the same schools, Black t](biased-teacher-evaluations.md) (supports) |
+| Tanner 2025 | q2 · associational · r2 | i? | [At-risk identification is demographically patterned, with Black, Hispanic, and male studen](at-risk-identification-demographic-patterns.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

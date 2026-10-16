@@ -20,7 +20,7 @@ grain_size: unit
 # Goal-Based Scenarios
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 9 studies (3 causal, 2 review, 2 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q4` · 0 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (2 for, 3 mixed) · 12 studies (4 causal, 3 review, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 1 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 Goal-Based Scenarios organize learning around a mission or role-based objective pursued inside a realistic scenario. This page serves as the canonical short-form pattern target for references that point to the GBS family without the explicit acronym.
@@ -92,6 +92,11 @@ Goal-Based Scenarios organize learning around a mission or role-based objective 
 - [Experiential Learning](../principles/experiential-learning.md)
 - [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md)
+
+## The evidence by question
+
+- *Does organising training around whole tasks (4C/ID) produce better learning and transfer than lectures or part- and topic-centred instruction?* [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+M]
+- *How much guidance do novices need inside a problem-centred design?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

@@ -62,18 +62,20 @@ The founding cognitive load paper. It argues that conventional problem solving b
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does removing avoidable processing from a presentation improve learning?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **8 distinct studies** (4 causal, 3 quant-synthesis, 1 associational), `q2`–`q4`, 4 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does removing avoidable processing from a presentation improve learning?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **10 distinct studies** (6 causal, 3 quant-synthesis, 1 associational), `q2`–`q4`, 4 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Noetel et al. 2022](https://doi.org/10.3102/00346543211052329) | q2 / q3 / q4 · quant-synthesis · r2 | i1 · small-to-moderate average effect, g=0.38 (g=0.70 for complex materials); i1; i2 | this claim; [Multimedia design interventions yield small average improvements in cognitive load managem](design-principles-improve-cognitive-load-management.md) (qualifies) |
 | [Sweller 1988](https://doi.org/10.1207/s15516709cog1202_4) | q3 · causal · r? | i? | this claim |
+| [Pollock et al. 2002](<https://doi.org/10.1016/s0959-4752(01)00016-0>) | q3 · causal · r? | i? | [Part-task practice reduces cognitive load for absolute novices during initial skill acquis](part-task-practice-reduces-load-for-novices.md) (supports) |
 | [Rey et al. 2019](https://doi.org/10.1007/s10648-018-9456-4) | q4 · quant-synthesis · r? | i? | [Cognitive Load Management](cognitive-load-management.md) (supports) |
 | [Barbieri et al. 2023](https://doi.org/10.1007/s10648-023-09745-1) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.48 | [Cognitive Load Management](cognitive-load-management.md) (supports) |
 | [Kala 2023](https://doi.org/10.36681/tused.2023.027) | q3 · causal · r1 | i?; i2 | [In one study of 37 thermodynamics freshmen, a CLT-based instructional design yields higher](clt-instructional-design-raises-retention-transfer-thermodynamics.md) (supports); [The CLT-based design produced higher effective learning scores at retention and transfer, ](clt-design-effective-learning-retention-transfer.md) (supports); [No significant difference between groups on the thermodynamics achievement post-test or co](no-group-difference-tat-posttest-cls.md) (qualifies) |
 | [Rania Abdelghani 2026](https://doi.org/10.48550/arxiv.2606.08568) | q2 · associational · r2 | i? | [Higher extraneous cognitive load predicted lower post-test scores after controlling for pr](extraneous-load-predicts-lower-post-test.md) (supports) |
 | Miwa et al. 2017 | q2 · causal · r1 | i0 | [Under high extraneous load (hint presentation and L and rL condition), no test-score incre](extraneous-load-eliminates-germane-load-learning-gains.md) (supports) |
 | [Guttormsen Schär 2007](https://doi.org/10.1080/15391523.2007.10782497) | q2 · causal · r2 | i? | [Voice-based multimedia settings (animation+voice and picture+voice) produce better learnin](voice-media-outperform-picture-text-overall.md) (supports) |
+| [Sweller & Cooper 1985](https://doi.org/10.1207/s1532690xci0201_3) | q3 · causal · r? | i? | [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

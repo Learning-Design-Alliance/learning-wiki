@@ -41,8 +41,9 @@ Qualitative observation from the pilot workshop (n=7). The article also reports 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Step-by-step explanations revealed one at a time, plus removed code auto-insertion and copy buttons, encouraged deeper engagement with generated explanations](step-by-step-friction-deeper-engagement.md) — related
 - [An LLM-generated flowchart linking semantic feature descriptions to code across HTML, CSS, and JS files supports novice creative coders' orientation, navigation, and code understanding](flowchart-supports-code-orientation-navigation.md) — related
 - [Participants used the Flowcode LLM across all stages of their design process, most frequently asking for code explanations](llm-use-across-design-stages.md) — related

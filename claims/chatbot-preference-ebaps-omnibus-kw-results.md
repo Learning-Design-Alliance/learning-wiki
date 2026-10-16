@@ -60,11 +60,12 @@ Robustness check applying a Bonferroni-adjusted significance level (α=0.0083) a
 
 ## Discussion
 
-
 ## Learner Variables
 - [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge](reflective-thinking-correlates-epistemological-beliefs.md) — the general claim this finding bears on, with the studies behind it
 - [Students preferring combination-style chatbots had higher total EBAPS scores than students preferring direct-answer chatbots (nominal significance only)](combination-preferrers-higher-total-ebaps-than-answer-preferrers.md) — a narrower finding that bears on this claim
 - [No statistically significant EBAPS differences were observed for Axes 1–3 or between guided-inquiry and answer-oriented chatbot preferrers](no-ebaps-differences-axes-1-3-or-inquiry-vs-answer.md) — related
 - [Combination-preferring students scored higher than answer-preferring students on evolving-knowledge (Axis 4) and source-of-ability (Axis 5) EBAPS dimensions](combination-preferrers-higher-axis4-axis5-scores.md) — a narrower finding that bears on this claim

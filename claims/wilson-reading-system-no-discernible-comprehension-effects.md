@@ -41,9 +41,10 @@ The comprehension findings table reports GRADE passage comprehension effect size
 
 ## Discussion
 
-
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Systematic phonics outperforms unsystematic or no-phonics instruction on children's reading overall, but its advantage over whole-word teaching on novel words is untested in children and contested](phonics-instruction-outperforms-whole-word-for-generalization.md) — the general claim this finding bears on, with the studies behind it
 - [The Wilson Reading System shows potentially positive effects on alphabetics for beginning readers, based on a single randomized controlled trial](wilson-reading-system-potentially-positive-alphabetics.md) — related

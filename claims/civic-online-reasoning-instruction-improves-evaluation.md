@@ -82,17 +82,18 @@ Sixty-eight 11th-grade students took eight lessons on strategies for evaluating 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does teaching fact-checkers' off-page moves over several lessons improve learners' judgments of unfamiliar online sources, and how far does it reach?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **8 distinct studies** (6 causal, 1 qualitative, 1 design), `q2`–`q3`, 1 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does teaching learners how to check a source improve their judgments of unfamiliar sources, and how much can one session do?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **9 distinct studies** (7 causal, 1 qualitative, 1 design), `q2`–`q3`, 1 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Wineburg et al. 2022](https://doi.org/10.1037/edu0000740) | q2 · causal · r? | i? | this claim |
 | [McGrew et al. 2019](https://doi.org/10.1111/bjep.12279) | q3 · causal · r2 | i? | this claim |
 | [McGrew 2020](https://doi.org/10.1016/j.compedu.2019.103711) | q2 · causal · r? | i? | this claim |
+| [Breakstone 2021](https://doi.org/10.37016/mr-2020-56) | q2 · causal · r1 | i? | [College students' scores on an online source credibility assessment improved significantly](course-embedded-modules-improve-credibility-scores.md) (supports); [After the modules, students engaged in lateral reading far more often, rising from 3 of 87](lateral-reading-increased-post-intervention.md) (supports); [Students' reliance on surface-level evaluation strategies declined after the modules, incl](surface-strategies-declined-after-modules.md) (supports); [Gains in source evaluation held regardless of the order in which students took the two ass](gains-robust-to-test-form-order.md) (supports) |
+| [Demir 2025](https://doi.org/10.21203/rs.3.rs-6786882/v1) | q2 · causal · r2 | i3 | [Fourth-graders receiving AI-enhanced media literacy instruction outperformed control-group](ai-media-literacy-program-large-posttest-gains.md) (supports) |
 | [Wineburg and McGrew 2019](https://doi.org/10.1177/016146811912101102) | q2 · qualitative · r? | i? | [One-session checklist (CRAAP) instruction in source evaluation did no better than the alte](checklist-evaluation-ineffective-online.md) (qualifies) |
 | [Lowe et al. 2021](https://doi.org/10.14434/josotl.v21i3.30744) | q2 · causal · r1 | i? | [One-session checklist (CRAAP) instruction in source evaluation did no better than the alte](checklist-evaluation-ineffective-online.md) (qualifies) |
 | [Ratcliffe 2026](https://doi.org/10.5860/crl.87.5.555) | q2 · causal · r? | i? | [One-session checklist (CRAAP) instruction in source evaluation did no better than the alte](checklist-evaluation-ineffective-online.md) (qualifies) |
-| [Demir 2025](https://doi.org/10.21203/rs.3.rs-6786882/v1) | q2 · causal · r2 | i3 | [Fourth-graders receiving AI-enhanced media literacy instruction outperformed control-group](ai-media-literacy-program-large-posttest-gains.md) (supports) |
 | [Dishon et al. 2024](https://doi.org/10.1080/07370008.2023.2248641) | q3 · design · r2 | i? | [Collaborative critique-and-redesign instruction shifts students from a value-free view of ](collaborative-evidence-critique-shifts-students-toward-procedural-objectivity.md) (qualifies) |
 <!-- synthesis:end -->
 

@@ -1,0 +1,36 @@
+{
+  "principle": "theories/ecological-paradigm-of-interdisciplinary-learning",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "interdisciplinary-humanities-units-improve-interdisciplinary-competences",
+      "question": "Do designs that have groups integrate disciplinary perspectives together (themed units, simulations, guided deliberation) develop interdisciplinary competences and practices?",
+      "members": [
+        [
+          "organization-simulation-knowledge-practices-support-interdisciplinary-learning",
+          "+"
+        ],
+        [
+          "mixed-disciplinary-teacher-making-supports-transdisciplinary-epistemic-liberation",
+          "+"
+        ],
+        [
+          "interdisciplinary-collab-deepens-disciplinary-and-cross-disciplinary-skills",
+          "+"
+        ],
+        [
+          "subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration",
+          "~"
+        ],
+        [
+          "interdisciplinary-collab-challenges-workload-vocabulary-feedback",
+          "~"
+        ],
+        [
+          "collaboration-fundamentally-relational",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

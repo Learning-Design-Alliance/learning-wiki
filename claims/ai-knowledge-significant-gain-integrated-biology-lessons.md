@@ -41,8 +41,9 @@ Paired sample t-tests on pre/post-test scores of 29 students who submitted both 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](ai-instruction-stem-moderate-positive-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Post-test biology knowledge and pre-test AI knowledge significantly predicted post-test AI knowledge](biology-and-prior-ai-predict-post-ai-knowledge.md) — related
 - [Students' overall biology knowledge showed only a slight, statistically non-significant increase](biology-knowledge-non-significant-slight-increase.md) — related
 - [Both male and female students show statistically significant medium-sized gains in AI knowledge and confidence after a one-day AI literacy workshop](both-genders-gain-ai-knowledge-confidence-workshop.md) — related

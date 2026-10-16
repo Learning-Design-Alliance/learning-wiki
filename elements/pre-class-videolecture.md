@@ -13,7 +13,7 @@ generated:
 # Pre-Class Video/Lecture
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (6 for, 4 mixed, 1 against) · 18 studies (5 review, 4 causal, 3 associational, 2 quant-synthesis, 2 qualitative, 2 theoretical), `q1`–`q4` · 1 of 18 report an effect size · 6 claims rest on one study
+> **Evidence** · 14 claims (9 for, 4 mixed, 1 against) · 21 studies (6 review, 4 causal, 4 quant-synthesis, 3 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 3 of 21 report an effect size · 9 claims rest on one study
 
 ## Description
 Instructional content — exposition, worked demonstrations, or recorded lectures — is delivered via video before class, so that synchronous time can be spent on application, discussion, and feedback rather than first exposure. The video functions as the initial-instruction component of a [Flipped Classroom](../principles/flipped-learning.md), shifting information transmission outside the group learning space.

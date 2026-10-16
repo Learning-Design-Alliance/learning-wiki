@@ -43,6 +43,8 @@ Among 11 studies assessing knowledge or skills outcomes, the review reports that
 
 ## Related Claims
 
+- [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [AI-driven case simulations in ambulatory settings support diagnostic reasoning and anticipatory thinking in nursing education](ai-ambulatory-case-simulations-diagnostic-reasoning.md) — reports the opposite
 - [AI simulation induced higher state anxiety than standardized patient simulation in one RCT, while qualitative studies reported reduced anxiety](ai-simulation-anxiety-divergent.md) — related

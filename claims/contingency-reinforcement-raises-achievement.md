@@ -39,6 +39,21 @@ Narrative survey of reinforcement studies (Baer and Wolf; Martin et al.; Staats 
 
 > "There is empirical evidence that a planned design of contingency reinforcement can lead to higher achievement than would normally occur in the classroom."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does reinforcing a target behaviour with rewards, praise or planned consequences raise learners' performance?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **6 distinct studies** (3 review, 1 theoretical, 1 quant-synthesis, 1 causal), `q1`–`q3`, 1 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Spilerman 1970](https://doi.org/10.2307/2111965) | q2 · review · r1 | i? | this claim |
+| Qais Faryadi 2007 | q1 · review · r1 | i? | [A non-peer-reviewed web essay asserts, citing an earlier source second-hand, that behavior](behaviorist-reinforcement-effective-positive-behavior.md) (supports) |
+| Knight 1985 | q2 · theoretical · r2 | i? | [Positive reinforcement and praise correlate positively with learning while criticism corre](praise-positive-criticism-negative-learning.md) (supports) |
+| [Kluger 1996](https://doi.org/10.1037/0033-2909.119.2.254) | q2 · quant-synthesis · r2 | i3 | [In time-series field studies of behavior modification, all 17 quasi-d feedback effects wer](fi-time-series-field-studies-all-positive.md) (supports) |
+| Schildkraut 2020 | q2 · review · r2 | i? | [Behavioral skills training produced near-complete skill mastery of lockdown steps among yo](behavioral-skills-training-mastery-lockdown-steps.md) (supports) |
+| Ward 1970 | q2 / q3 · causal · r2 | i? | [Concrete reward increases children's mean ideational fluency on creativity tasks relative ](concrete-reward-increases-mean-ideational-fluency.md) (supports); [Reward effects hold across individual creativity tasks, with immediate reward significant ](reward-effects-hold-across-individual-tasks.md) (supports); [Rewarding only 'good' ideas in a final task produced no incentive effect, but this conditi](good-idea-reward-no-incentive-effect.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

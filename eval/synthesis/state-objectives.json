@@ -1,0 +1,24 @@
+{
+  "principle": "elements/state-objectives",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "shared-understanding-expected-learning-helps-all-students",
+      "question": "Does making the intended learning explicit to learners help them, and do learners register when it is missing?",
+      "members": [
+        [
+          "no-objectives-group-most-positive-attitudes",
+          "~"
+        ],
+        [
+          "feedback-answers-three-questions",
+          "+"
+        ],
+        [
+          "single-event-removal-no-achievement-effect",
+          "-"
+        ]
+      ]
+    }
+  ]
+}

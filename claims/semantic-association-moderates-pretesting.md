@@ -41,8 +41,9 @@ The review's synthesis of multiple studies (Grimaldi & Karpicke; Huelser & Metca
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Existing theoretical accounts attributing the testing effect to enhanced semantic elaboration receive limited support](limited-support-semantic-elaboration-testing-accounts.md) — the general claim this finding bears on, with the studies behind it
 - [A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](feedback-timing-moderates-pretesting.md) — related
 - [Learners fail to recognize the benefits of pre-instruction testing, ranking it as least effective despite benefiting from it](metacognitive-illusion-pretesting-underrated.md) — related
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — a broader claim this one bears on

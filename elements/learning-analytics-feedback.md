@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 26 claims (9 for, 9 mixed, 8 against) · 23 studies (9 review, 5 associational, 4 theoretical, 3 qualitative, 2 design), `q1`–`q3` · 1 of 23 report an effect size · 25 claims rest on one study
+> **Evidence** · 29 claims (11 for, 10 mixed, 8 against) · 25 studies (10 review, 6 associational, 4 theoretical, 3 qualitative, 2 design), `q1`–`q2` · 1 of 25 report an effect size · 28 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available (Baker & Inventado, 2016). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.

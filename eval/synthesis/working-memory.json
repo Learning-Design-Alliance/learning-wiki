@@ -1,0 +1,34 @@
+{
+  "principle": "learner-variables/working-memory",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "relation-between-working-memory-and-retrieval-practice-benefit-is-inconsistent",
+      "question": "Do learners with lower working memory capacity gain more, or less, from retrieval practice, interleaving and other desirable difficulties?",
+      "members": [
+        [
+          "working-memory-mixed-moderator-interleaving",
+          "+"
+        ],
+        [
+          "offloading-attenuates-individual-differences",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "cct-domain-gains-nonverbal-wm-visuospatial-verbal-weak",
+      "question": "Can training or practice raise working memory itself, and by how much?",
+      "members": [
+        [
+          "wm-only-training-ineffective-older-adults",
+          "~"
+        ],
+        [
+          "deliberate-practice-expands-memory-capacity",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

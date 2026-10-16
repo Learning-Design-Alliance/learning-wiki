@@ -37,12 +37,32 @@
       "question": "Does teaching through the learner's home language (dual language or mother-tongue instruction), rather than early transfer to the school language, improve school-language and subject learning?",
       "members": [
         [
-          "dual-language-programs-improve-literacy-achievement",
+          "primary-language-support-higher-english-comprehension",
+          "+"
+        ],
+        [
+          "bilinguals-better-math-tested-in-spanish",
+          "+"
+        ],
+        [
+          "dual-language-learners-benefit-from-immersion-programs",
           "+"
         ],
         [
           "dual-language-literacy-null-for-english-learners",
           "~"
+        ],
+        [
+          "dominant-language-attention-bias-dual-language-e-books",
+          "~"
+        ],
+        [
+          "no-language-preference-single-language-silent-reading",
+          "~"
+        ],
+        [
+          "dual-language-programs-improve-literacy-achievement",
+          "+"
         ],
         [
           "dual-language-evidence-base-thin-two-of-122",
@@ -58,6 +78,18 @@
         ],
         [
           "rizal-experiment-local-language-faster-literacy",
+          "+"
+        ],
+        [
+          "dual-language-math-no-long-run-advantage-gap-not-closing",
+          "~"
+        ],
+        [
+          "bilingual-services-higher-el-outcomes-than-refusal",
+          "+"
+        ],
+        [
+          "bcirc-potentially-positive-reading-achievement",
           "+"
         ]
       ]

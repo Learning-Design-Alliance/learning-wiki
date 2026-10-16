@@ -41,8 +41,9 @@ Table 3 shows both college groups (n=38 control, n=42 experimental) scored a con
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Conversational interaction facilitates second language grammatical development in adult ESL learners](interaction-facilitates-l2-grammatical-development.md) — the general claim this finding bears on, with the studies behind it
 - [Learner age/level moderates the benefit of negotiation of meaning: high school learners relied on it more than college learners](age-moderates-negotiation-benefit.md) — related
 - [In high school groups, learners with negotiation of meaning obtained more comprehensible input in the match task than learners with pre-modified input only](negotiation-meaning-raises-comprehensible-input-high-school.md) — related
 - [Interactionally adjusted and premodified input yield statistically comparable comprehension overall, with negotiation benefiting lower-ability learners](negotiation-benefit-limited-lower-ability-learners.md) — related

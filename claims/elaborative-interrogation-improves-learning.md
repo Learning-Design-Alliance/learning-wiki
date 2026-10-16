@@ -81,14 +81,14 @@ Kühl, T., & Bertrams, A. (2019). Is Learning With Elaborative Interrogation Les
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does answering 'why is this true?' about each statement improve memory and understanding of it over reading it, and when does it not?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **5 distinct studies** (4 causal, 1 review), `q2`–`q3`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does answering 'why is this true?' about each statement improve memory and understanding of it over reading it, and when does it not?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **5 distinct studies** (4 causal, 1 review), `q2`–`q3`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Dunlosky et al. 2013](https://doi.org/10.1177/1529100612453266) | q2 / q3 · review · r? | i? | this claim; [Elaborative interrogation improved true/false test performance in an introductory biology ](elaborative-interrogation-biology-course-context.md) (supports); [Elaborative interrogation benefits increase as learners' prior knowledge increases](elaborative-interrogation-prior-knowledge-moderator.md) (qualifies) |
 | [Seifert 1993](https://doi.org/10.1037/0022-0663.85.4.642) | q3 · causal · r? | i? | this claim |
 | [Kühl and Bertrams 2019](https://doi.org/10.3389/fpsyg.2019.00707) | q3 · causal · r2 | i? | this claim |
-| Woloshyn 1992 | q3 · causal · r2 | i?; i2; i1 | [Elaborative interrogation instructions produce better recall and recognition of science fa](elaborative-interrogation-improves-science-fact-learning.md) (supports); [Elaborative-interrogation learning gains are durable, with performance maintained up to si](durable-elaborative-interrogation-gains-six-months.md) (supports); [Elaborative-interrogation students are less confident in their incorrect recognition selec](elaborative-interrogation-reduces-confidence-in-errors.md) (supports); [The quality of elaborative-interrogation answers had little effect on retention; even fail](response-quality-little-effect-on-elaborative-interrogation-retention.md) (qualifies) |
+| Woloshyn 1992 | q3 · causal · r2 | i?; i2; i1 | [Elaborative interrogation instructions produce better recall and recognition of science fa](elaborative-interrogation-improves-science-fact-learning.md) (supports); [Elaborative-interrogation learning gains are durable, with performance maintained up to si](durable-elaborative-interrogation-gains-six-months.md) (supports); [Elaborative-interrogation students are less confident in their incorrect recognition selec](elaborative-interrogation-reduces-confidence-in-errors.md) (supports); [The quality of elaborative-interrogation answers had little effect on retention; even fail](response-quality-little-effect-on-elaborative-interrogation-retention.md) (qualifies); [Elaborative interrogation produced greater pretest-to-posttest gains on items about common](elaborative-interrogation-improves-misbelief-items-pretest-posttest.md) (supports) |
 | [Clinton 2016](https://doi.org/10.1080/00220973.2015.1048847) | q3 · causal · r2 | i?; i1; i3 | [Answers to elaborative interrogation questions were mostly poor in quality, and answer qua](elaborative-interrogation-answer-quality-poor-correlates-with-posttest.md) (qualifies); [Elaborative interrogation increased perceived difficulty and time spent with the lesson](elaborative-interrogation-increases-difficulty-and-time-on-lesson.md) (qualifies); [Elaborative interrogation produced lower posttest accuracy than reading the lesson twice i](elaborative-interrogation-lower-posttest-than-read-twice-posterior-probability.md) (counts against) |
 <!-- synthesis:end -->
 
@@ -105,6 +105,10 @@ A further design consideration is response quality: because learners generate th
 Open questions for future enrichment: effect sizes relative to other learning techniques, durability of gains over delay, and whether prompted interrogation transfers to spontaneous questioning during self-study. Until evidence entries are added, this page should be treated as a mechanism-level claim awaiting empirical grounding.
 
 ## Related Claims
+
+- [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — the general claim this finding bears on, with the studies behind it
+
+- [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 
 - [Activation improves learning](activation-improves-learning.md) — elaborative interrogation depends on accessible prior knowledge to generate answers.
 - [Analogical reasoning improves transfer](comparing-contrasting-cases-improves-learning.md) — both techniques build understanding by relating new material to known structures.

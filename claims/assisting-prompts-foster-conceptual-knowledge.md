@@ -41,7 +41,8 @@ In the same N = 62 experiment on probability learning with multiple representati
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The assisting self-explanation prompt effect: assisting prompts elicit high-quality self-explanations and deep understanding](assisting-self-explanation-prompt-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Both open and assisting self-explanation prompts foster procedural knowledge when learning with multiple representations, an effect mediated by self-explanations directed to domain principles](self-explanation-prompts-foster-procedural-knowledge.md) — related
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — a broader claim this one bears on

@@ -7,8 +7,16 @@
       "question": "Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?",
       "members": [
         [
-          "autonomy-support-versus-controlling-teaching",
+          "autonomy-support-training-effective-d63",
           "+"
+        ],
+        [
+          "multiple-elements-moderator-autonomy-training",
+          "~"
+        ],
+        [
+          "recipient-moderators-teachers-trainees-autonomy-orientation",
+          "~"
         ],
         [
           "interest-autonomy-purpose-boost-motivation",
@@ -19,11 +27,23 @@
           "+"
         ],
         [
-          "external-mandate-no-direct-effect-deep-revision",
+          "teacher-support-benefits-conditional-on-autonomy-balance",
           "~"
         ],
         [
-          "teacher-support-benefits-conditional-on-autonomy-balance",
+          "educator-buy-in-engagement-fidelity-edtech-pilots",
+          "+"
+        ],
+        [
+          "formative-assessment-fosters-motivation-autonomy-competence-relatedness",
+          "+"
+        ],
+        [
+          "autonomy-support-versus-controlling-teaching",
+          "+"
+        ],
+        [
+          "external-mandate-no-direct-effect-deep-revision",
           "~"
         ]
       ]
@@ -33,15 +53,31 @@
       "question": "Do rewards and praise undermine voluntary engagement?",
       "members": [
         [
+          "extrinsic-rewards-undermine-intrinsic-motivation-argument",
+          "+"
+        ],
+        [
+          "grading-harms-maker-education-outcomes",
+          "+"
+        ],
+        [
+          "incentives-no-intrinsic-motivation-harm",
+          "-"
+        ],
+        [
+          "concrete-reward-increases-mean-ideational-fluency",
+          "~"
+        ],
+        [
+          "feedback-praise-reduces-learning",
+          "~"
+        ],
+        [
           "gamification-has-small-positive-effects-on-learning-outcomes",
           "~"
         ],
         [
           "gamification-engagement-mixed-evidence",
-          "~"
-        ],
-        [
-          "feedback-praise-reduces-learning",
           "~"
         ],
         [
@@ -57,20 +93,12 @@
           "~"
         ],
         [
-          "concrete-reward-increases-mean-ideational-fluency",
-          "~"
-        ],
-        [
           "reward-effects-hold-across-individual-tasks",
           "~"
         ],
         [
           "good-idea-reward-no-incentive-effect",
           "~"
-        ],
-        [
-          "grading-harms-maker-education-outcomes",
-          "+"
         ]
       ]
     },
@@ -78,6 +106,26 @@
       "hub": "learner-paced-beats-system-paced-complex-material",
       "question": "Does handing control to learners (pace, feedback, sequence) improve learning, and when?",
       "members": [
+        [
+          "self-paced-mastery-programs-reduce-college-course-completion",
+          "~"
+        ],
+        [
+          "online-charters-effectiveness-concern",
+          "-"
+        ],
+        [
+          "online-charters-low-live-teacher-contact-time",
+          "~"
+        ],
+        [
+          "online-charters-engagement-greatest-challenge",
+          "~"
+        ],
+        [
+          "online-charters-dominant-independent-study-mode",
+          "~"
+        ],
         [
           "segmenting-effects-confirmed-system-paced",
           "~"
@@ -119,10 +167,6 @@
           "~"
         ],
         [
-          "self-paced-mastery-programs-reduce-college-course-completion",
-          "-"
-        ],
-        [
           "learner-characteristics-moderate-hypermedia-effectiveness",
           "~"
         ],
@@ -137,6 +181,14 @@
         [
           "hint-avoidance-related-greater-wheel-spinning",
           "~"
+        ],
+        [
+          "students-report-routines-help-and-rushed-pacing-hurts",
+          "+"
+        ],
+        [
+          "pacing-calendars-standardized-assessments-impediments",
+          "+"
         ]
       ]
     },

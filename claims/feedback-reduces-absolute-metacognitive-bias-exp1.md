@@ -41,10 +41,11 @@ Additional non-pre-registered ANOVA on absolute metacognitive bias in Experiment
 
 ## Discussion
 
-
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — the general claim this finding bears on, with the studies behind it
 - [In Experiment 1, the feedback intervention reduced pre-task signed metacognitive bias (underconfidence) but the group difference did not persist at post-task](feedback-reduces-pretask-metacognitive-bias.md) — related
 - [In Experiment 2, making metacognitive predictions alone did not improve calibration, performance feedback was sufficient, and explicit metacognitive feedback added no significant benefit](prediction-alone-ineffective-performance-feedback-sufficient.md) — related

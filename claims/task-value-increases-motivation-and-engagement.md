@@ -64,16 +64,23 @@ Wigfield and Cambria synthesize research on achievement values, goal orientation
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does seeing a task as interesting, important or useful raise the effort learners invest in it?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **6 distinct studies** (3 review, 2 qualitative, 1 associational), `q1`–`q3`, 0 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does seeing a task as interesting, important or useful raise the effort learners invest in it?* This table gathers the studies behind this claim and the 13 narrower claims that bear on it: **13 distinct studies** (4 review, 4 associational, 2 causal, 2 qualitative, 1 design), `q1`–`q3`, 4 of 13 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Eccles Wigfield 2002](https://doi.org/10.1146/annurev.psych.53.100901.135153) | q2 · review · r? | i? | this claim |
 | [Wigfield Cambria 2010](https://doi.org/10.1016/j.dr.2009.12.001) | q3 · review · r? | i? | this claim |
-| Small 1997 | q1 · review · r2 | i? | [Instruction should present the learning task as engaging and meaningful and promote positi](effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) (supports) |
+| Digital Promise and the Institute for Applied Neuroscience 2019 | q2 · review · r1 | i? | [Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper process](interest-autonomy-purpose-boost-motivation.md) (supports) |
 | [Takahashi 2020](https://doi.org/10.14746/ssllt.2020.10.4.2) | q2 · associational · r2 | i? | [Within SDT, intrinsic motivation predicts intended effort most strongly, followed by ident](sdt-path-strengths-effort.md) (supports) |
+| [Markus H. Hefter 2026](https://doi.org/10.3390/aieduc2030027) | q2 · associational · r2 | i3 | [Students’ actual genAI use correlates with interest and perceived usefulness of genAI but ](actual-genai-use-tied-to-interest-and-usefulness.md) (supports) |
+| [Gupta 2020](https://doi.org/10.20897/ejsteme/9252) | q2 · causal · r2 | i1 | [Self-reported germane cognitive load correlates positively with interest (QCM) among colle](germane-cognitive-load-correlates-positively-with-interest.md) (supports) |
+| Huang 2025 | q2 · associational · r2 | i? | [Interest alignment is highest among course completers while economic motivations (higher p](interest-alignment-vs-economic-motivations-persistence.md) (qualifies) |
+| [Mussel 2022](https://doi.org/10.3390/jintelligence10020023) | q3 · associational · r2 | i1; i? | [Secondary academic performance is predicted by cognitive ability more strongly than by cur](cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) (qualifies); [Neither cognitive ability, curiosity, nor epistemic behavior significantly predicts tertia](no-significant-predictors-tertiary-gpa.md) (qualifies) |
+| Small 1997 | q1 · review · r2 | i? | [Instruction should present the learning task as engaging and meaningful and promote positi](effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) (supports) |
 | [Miller & Li 2026](https://doi.org/10.1080/10508406.2025.2557896) | q2 · qualitative · r2 | i? | [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) (supports) |
 | [Hilppö & Stevens 2024](https://doi.org/10.1080/07370008.2024.2386956) | q2 · qualitative · r3 | i? | [In one extreme case, two sixth-graders with a choice-rich, ungraded STEAM infrastructure e](choice-rich-infrastructure-supports-productive-deviation-and-learning.md) (supports) |
+| [Guo 2025](https://doi.org/10.31234/osf.io/srxga_v1) | q3 · causal · r1 | i2; i? | [A collective generative AI relevance intervention significantly improved high school stude](collective-ai-intervention-improves-relevance-identification-math.md) (supports); [The generative AI relevance intervention did not significantly increase students' interest](ai-relevance-intervention-no-interest-effect.md) (qualifies) |
+| [Peters 2022](https://doi.org/10.51388/20.500.12265/162) | q3 · design · r2 | i? | [A general chemistry utility-value and growth mindset intervention showed statistically sig](usf-chemistry-mindset-utility-value-mixed-subgroup-effects.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

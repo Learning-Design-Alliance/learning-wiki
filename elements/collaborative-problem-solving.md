@@ -13,7 +13,7 @@ generated:
 # Collaborative Problem-Solving
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 10 studies (2 causal, 2 quant-synthesis, 2 theoretical, 1 review, 1 associational, 1 qualitative, 1 design), `q2`–`q4` · 1 of 10 report an effect size · 6 claims rest on one study
+> **Evidence** · 10 claims (8 for, 2 mixed) · 14 studies (4 quant-synthesis, 3 causal, 3 theoretical, 1 review, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 3 of 14 report an effect size · 8 claims rest on one study
 
 ## Description
 Collaborative problem-solving (CPS) places a small group of learners around a problem that no single member can solve alone, requiring them to pool knowledge, divide cognitive labor, negotiate approaches, and converge on a shared solution. It functions simultaneously as a content-learning activity and as practice in the social-cognitive skills — perspective-taking, task regulation, and joint reasoning — that the OECD treats as a distinct competency domain.

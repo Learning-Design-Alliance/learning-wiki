@@ -17,7 +17,7 @@ sources:
 # Transfer-Appropriate Processing Account of Retrieval Practice
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 9 claims (4 for, 2 mixed, 3 against) · 5 studies (3 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 1 of 5 report an effect size · 9 claims rest on one study
+> **Evidence** · 10 claims (4 for, 3 mixed, 3 against) · 6 studies (3 quant-synthesis, 1 causal, 1 review, 1 qualitative), `q2`–`q4` · 2 of 6 report an effect size · 9 claims rest on one study
 
 ## Description
 Transfer-appropriate processing holds that performance is best when initial learning processing matches the processing required on a later final assessment. The chapter says it "provides a useful heuristic for explaining why practicing retrieval during learning should bolster long-term retention", illustrated by the need to practice a skill such as playing the violin.

@@ -41,8 +41,9 @@ Per-mode analysis (Table 10) shows videoconferencing with 3.4% of turns as trigg
 
 ## Discussion
 
-
 ## Related Claims
+
+- [SCMC interaction shows a small advantage over FTF on overall L2 learning outcomes](scmc-small-advantage-overall-l2-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Completing meaning-focused tasks through CMC fosters negotiated interactions in all three modes (discussion board, text chat, videoconferencing)](cmc-meaning-focused-tasks-foster-negotiated-interactions.md) — related
 - [Content-related problems trigger most negotiation routines, and syntactic triggers are absent from text chat where turns are short](content-triggers-dominate-syntactic-triggers-absent-text-chat.md) — related
 - [Discussion board interactions generated no negative feedback at all, suggesting synchrony is required to foster corrective feedback](discussion-board-no-negative-feedback-synchrony-required.md) — related

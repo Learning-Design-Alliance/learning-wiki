@@ -41,7 +41,8 @@ Across three experiments, college students read a text explaining how lightning 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Presenting related material contiguously in space and time yields large learning benefits](contiguity-spatial-temporal-large-learning-benefits.md) — the general claim this finding bears on, with the studies behind it
 - [The positive effect of integrated illustrations depends on incorporating annotations (captions and labels) into the illustrations rather than on placing illustrations close to corresponding paragraphs](annotations-not-proximity-drive-illustration-benefit.md) — possibly the same claim (merge candidate)
 - [The positive effect of integrated illustrations on transfer is stronger for students who lack experience in the text's domain (meteorology) than for high-experience students](illustration-integration-effect-stronger-for-low-experience-learners.md) — related

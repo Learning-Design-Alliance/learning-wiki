@@ -41,8 +41,9 @@ National experimental study mandated by the No Child Left Behind Act in which "v
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](gai-value-contingent-on-pedagogical-integration.md) — the general claim this finding bears on, with the studies behind it
 - [In the 2005-2006 school year, only one of 10 computer-based reading and math software products had statistically significant positive effects on student outcomes](one-of-ten-software-products-significant-positive-effects.md) — a narrower finding that bears on this claim
 - [Software product effects changed between the first and second year of the study, warranting cohort-level comparison of effectiveness](software-effects-changed-between-cohorts.md) — related
 - [Effects of reading software products were correlated with student-teacher ratio in first-grade classrooms and with amount of product use in fourth-grade classrooms](reading-software-effects-correlated-classroom-characteristics.md) — related

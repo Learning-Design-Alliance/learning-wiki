@@ -41,8 +41,9 @@ Analysis of SBAC ELA and math gains by number of teacher-completed PLI PD classe
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](fifty-hours-content-specific-pd.md) — the general claim this finding bears on, with the studies behind it
 - [Achievement gains were highest for PLI Exemplar teachers, while PLI Partner school teachers' gains were not higher than non-PLI teachers districtwide](exemplar-teachers-highest-gains-partner-schools-not.md) — related
 - [HMH Personal Math Trainer use was associated with math gains in grades 4, 5, and 8 but negatively associated in grade 7, and teacher-created assignments showed the strongest association](hmh-usage-grade-pattern-teacher-created-strongest.md) — related
 - [PLI students digitally collaborated significantly more than non-PLI students with the same technology access, and digital collaboration had a small significant association with SBAC scores](pli-digital-collaboration-associated-with-scores.md) — related

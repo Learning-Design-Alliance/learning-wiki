@@ -41,10 +41,11 @@ The brief reports, citing Robinson (2010), that "Spanish–English bilinguals pe
 
 ## Discussion
 
-
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Teaching students in a language they understand benefits both language learning and broader learning](cl-teaching-in-language-students-understand-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Spanish use at home does not limit English learning: young Spanish–English bilinguals with more Spanish at school entry show higher English skills by year's end](spanish-home-use-does-not-limit-english-learning.md) — related
 - [English and Spanish MAP Growth Reading scales were statistically linked via a bilingual group design despite measuring similar but not identical constructs](spanish-english-reading-scale-linking-bilingual-group-design.md) — related

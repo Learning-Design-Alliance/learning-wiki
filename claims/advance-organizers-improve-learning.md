@@ -129,6 +129,8 @@ Open questions: most of the evidence base predates modern multimedia learning re
 
 ## Related Claims
 
+- [In the few studies that split by ability, learning techniques helped low-ability students and not high-ability students](learning-techniques-benefit-low-ability-not-high-ability-students.md) — the general claim this finding bears on, with the studies behind it
+
 - [Activation improves learning.](activation-improves-learning.md) — organizers are a designer-led way of activating relevant prior knowledge before instruction
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — organizers impose an initial structure that chunks incoming information
 - [Analogical reasoning improves transfer.](comparing-contrasting-cases-improves-learning.md) — comparative organizers work by mapping new content onto familiar structures

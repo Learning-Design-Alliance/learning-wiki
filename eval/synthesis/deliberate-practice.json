@@ -13,6 +13,18 @@
         [
           "deliberate-practice-raises-licensing-pass-rate",
           "+"
+        ],
+        [
+          "mastery-learning-improves-outcomes",
+          "+"
+        ],
+        [
+          "deliberate-practice-improves-performance",
+          "~"
+        ],
+        [
+          "no-dose-response-asr-practice-time",
+          "~"
         ]
       ]
     },
@@ -27,6 +39,10 @@
         [
           "deliberate-practice-correlational-limits",
           "~"
+        ],
+        [
+          "deliberate-practice-raises-licensing-pass-rate",
+          "+"
         ]
       ]
     }

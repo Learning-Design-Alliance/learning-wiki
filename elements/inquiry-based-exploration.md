@@ -13,7 +13,7 @@ generated:
 # Inquiry-Based Exploration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 11 studies (4 causal, 3 review, 2 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 11 report an effect size · 5 claims rest on one study
+> **Evidence** · 10 claims (8 for, 1 mixed, 1 against) · 18 studies (6 review, 5 causal, 5 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 5 of 18 report an effect size · 6 claims rest on one study
 
 ## Description
 Inquiry-based exploration places learners in front of an open-ended problem, question, or phenomenon and asks them to investigate it — gathering information, forming hypotheses, testing ideas, and generating solutions — rather than first receiving a fully worked explanation. The instructor's role shifts from transmitter to designer of the problem and facilitator of the investigation.

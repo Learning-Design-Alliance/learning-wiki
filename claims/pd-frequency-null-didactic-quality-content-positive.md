@@ -42,7 +42,8 @@ Cross-sectional survey analysis of elementary teachers (1997 and 1999 Consortium
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](fifty-hours-content-specific-pd.md) — the general claim this finding bears on, with the studies behind it
 - [Frequency, content, and quality of professional development are each positively related to elementary teachers' use of interactive instruction](pd-elements-related-interactive-instruction.md) — related
 - [Increased participation in professional development was not significantly related to later gains in school orientation toward innovation](pd-frequency-null-innovation-growth.md) — related

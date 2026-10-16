@@ -17,7 +17,7 @@ sources:
 # Social Constructivism
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 6 claims (2 for, 1 mixed, 3 unmarked) · 14 studies (3 causal, 3 quant-synthesis, 3 review, 3 qualitative, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 14 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (3 for, 2 mixed, 3 unmarked) · 18 studies (6 quant-synthesis, 4 causal, 3 review, 3 qualitative, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 18 report an effect size · 3 claims rest on one study
 
 ## Description
 Social constructivism is the principle that learners build understanding through interaction with other people, language, and shared activity. It emphasizes that knowledge formation is not only individual but also social, mediated by dialogue, tools, and participation.

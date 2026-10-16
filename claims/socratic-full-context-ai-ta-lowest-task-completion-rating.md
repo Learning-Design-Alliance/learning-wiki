@@ -41,8 +41,9 @@ Post-survey perception data from the 2x2 randomized controlled experiment in an 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [In an immediate post-test design, participants with an unrestricted chatbot achieved significantly higher learning deltas than participants with a Socratic chatbot (d = 0.80) or an EEG-adaptive exercise system (d = 0.85)](unrestricted-chatbot-higher-learning-delta-than-socratic-and-adaptive.md) — the general claim this finding bears on, with the studies behind it
 - [AI TA condition shows no statistically significant differences in perceived task-comprehension support, correctness, or interaction stress](ai-ta-condition-no-effect-other-perceptions.md) — related
 - [The effect of context awareness on perceived task-completion support depends on the pedagogical guidance style it is paired with](context-effect-depends-on-guidance-style.md) — related
 - [Direct conditions descriptively show higher post-task full comprehension than Socratic conditions, with Direct + Full Context highest and Socratic + Full Context lowest](direct-conditions-higher-full-comprehension.md) — related

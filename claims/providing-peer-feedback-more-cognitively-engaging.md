@@ -41,6 +41,7 @@ Narrative review section on composing and receiving peer feedback, attributing t
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — the general claim this finding bears on, with the studies behind it
 - [Coached peer review improves the specificity of reviewer comments and receivers' uptake of feedback](coached-peer-review-improves-comment-quality-and-uptake.md) — related

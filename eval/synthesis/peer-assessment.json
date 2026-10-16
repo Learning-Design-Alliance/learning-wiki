@@ -1,0 +1,144 @@
+{
+  "principle": "elements/peer-assessment",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "peer-assessment-improves-performance",
+      "question": "Should learners assess each other's work, and does it need a rubric or script?",
+      "members": [
+        [
+          "peer-assessment-structured-criteria-improve-learning",
+          "~"
+        ],
+        [
+          "peer-self-assessment-improve-performance-equally",
+          "+"
+        ],
+        [
+          "rubrics-improve-peer-feedback-quality",
+          "~"
+        ],
+        [
+          "peer-feedback-accuracy-depends-on-expertise",
+          "~"
+        ],
+        [
+          "peer-assessment-benefits-assessor",
+          "+"
+        ],
+        [
+          "peer-feedback-improves-writing",
+          "+"
+        ],
+        [
+          "fas-improves-peer-feedback-generation",
+          "+"
+        ],
+        [
+          "feedback-direction-moderator-student-student-highest",
+          "+"
+        ],
+        [
+          "peer-assessment-improves-unit-quiz-achievement",
+          "+"
+        ],
+        [
+          "peer-assessment-gains-persist-to-final-exam",
+          "+"
+        ],
+        [
+          "perception-of-peer-assessment-benefit-uncorrelated-with-actual-benefit",
+          "~"
+        ],
+        [
+          "peers-better-problem-identification-feedback",
+          "~"
+        ],
+        [
+          "coached-peer-review-improves-comment-quality-and-uptake",
+          "~"
+        ],
+        [
+          "peer-assessment-game-development-improves-achievement-motivation-problem-solving",
+          "+"
+        ],
+        [
+          "peer-response-groups-writing-idea-units",
+          "~"
+        ],
+        [
+          "peer-assessment-effect-size-versus-achievement-gaps",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "peer-feedback-accuracy-depends-on-expertise",
+      "question": "How accurately do learners judge work, and what does the accuracy of their judgments depend on?",
+      "members": [
+        [
+          "self-assessment-accuracy-is-low-without-training",
+          "~"
+        ],
+        [
+          "prior-knowledge-needed-for-accurate-self-assessment",
+          "~"
+        ],
+        [
+          "fas-partially-improves-internal-feedback",
+          "~"
+        ],
+        [
+          "fas-no-gain-missing-info-suggestions-own-draft",
+          "~"
+        ],
+        [
+          "rubrics-improve-peer-feedback-quality",
+          "~"
+        ],
+        [
+          "prompt-revision-increased-feedback-specificity",
+          "~"
+        ],
+        [
+          "coached-peer-review-improves-comment-quality-and-uptake",
+          "~"
+        ],
+        [
+          "peers-better-problem-identification-feedback",
+          "~"
+        ],
+        [
+          "peer-grades-correlate-highly-with-staff-grades-mooc",
+          "~"
+        ],
+        [
+          "median-aggregation-improves-peer-grade-agreement",
+          "~"
+        ],
+        [
+          "in-group-favoritism-peer-grading-country",
+          "~"
+        ],
+        [
+          "peer-feedback-soft-evaluative-judgement-statistics",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "peer-assessment-benefits-assessor",
+      "question": "Does the learner doing the assessing learn from it, as well as the learner being assessed?",
+      "members": [
+        [
+          "providing-peer-feedback-more-cognitively-engaging",
+          "+"
+        ],
+        [
+          "proposition-2-mutual-evaluation-improves-judgment",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

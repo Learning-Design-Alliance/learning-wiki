@@ -1,0 +1,82 @@
+{
+  "principle": "elements/cognitive-conflict",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "cognitive-disequilibrium-motivates-conceptual-change",
+      "question": "Does conflict-based instruction improve conceptual learning more than standard exposition?",
+      "members": [
+        [
+          "cooperative-conceptual-change-chemistry-misconceptions",
+          "+"
+        ],
+        [
+          "guided-inquiry-computational-model-overcomes-amplitude-misconception",
+          "~"
+        ],
+        [
+          "cscl-simulation-conceptual-change-cognitive-engagement",
+          "~"
+        ],
+        [
+          "force-motion-conceptions-difficult-to-change",
+          "~"
+        ],
+        [
+          "constructive-conflict-increases-idea-editing",
+          "+"
+        ],
+        [
+          "constructive-conflict-guidance-increases-reconsideration",
+          "+"
+        ],
+        [
+          "agent-enacted-conflict-shifts-design-thinking",
+          "~"
+        ],
+        [
+          "stepwise-conflict-guidance-reduces-idea-addition",
+          "~"
+        ],
+        [
+          "conflict-seed-induces-deeper-reflection",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "peer-conflicts-conditional-on-reflection",
+      "question": "When does a conflict fail to change the learner's model?",
+      "members": [
+        [
+          "cscl-simulation-conceptual-change-cognitive-engagement",
+          "~"
+        ],
+        [
+          "high-equality-mutuality-not-sufficient-conceptual-change",
+          "~"
+        ],
+        [
+          "personal-construction-required-stable-conceptual-change",
+          "~"
+        ],
+        [
+          "force-motion-conceptions-difficult-to-change",
+          "~"
+        ],
+        [
+          "confusion-amplifies-negative-effect-of-incorrect-trials",
+          "~"
+        ],
+        [
+          "scaffolding-balance-confusion-versus-critical-thinking",
+          "~"
+        ],
+        [
+          "emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

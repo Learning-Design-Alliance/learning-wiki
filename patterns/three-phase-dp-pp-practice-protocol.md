@@ -17,7 +17,7 @@ sources:
 # Three-phase DP/PP practice protocol pattern
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 5 claims (5 for) · 2 studies (1 quant-synthesis, 1 theoretical), `q2`–`q3` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 4 studies (1 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q2`–`q3` · 0 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 The framework organizes practice into three phases, summarized in Table 1 as criteria for deliberate, purposeful, and naive practice for language learning: (1) individualized design of effective practice, (2) actively engaging in a task with an explicit goal, immediate feedback, and repetition, and (3) individualized assessment of skill to inform the design of future practice. The article instructs that "Teachers should implement DP protocols that require students to “repeatedly perform the same or similar tasks” as a way of either promoting or consolidating task -specific language proficiency." The pattern applies to both teacher-led classroom DP and learner-managed out-of-class PP, with teacher involvement gradually reduced in PP.

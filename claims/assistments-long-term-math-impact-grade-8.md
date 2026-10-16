@@ -41,8 +41,9 @@ Intent-to-treat analysis of 5,991 students (2,961 intervention, 3,030 comparison
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Timely feedback on homework increases learning, and computer platforms providing immediate feedback help teachers adapt](timely-feedback-improves-homework-learning.md) — the general claim this finding bears on, with the studies behind it
 - [ASSISTments use in seventh grade produces a statistically significant long-term math achievement effect of 0.10 SD one year after implementation ends](assistments-long-term-eog-effect-0-10.md) — possibly the same claim (merge candidate)
 - ASSISTments use for 7th-grade math homework significantly raises TerraNova mathematics scores in Maine (effect size +0.18) — related
 - [ASSISTments achieved a long-term effect comparable to high-dosage tutoring at a small fraction of the cost](assistments-cost-comparison-saga-tutoring.md) — related

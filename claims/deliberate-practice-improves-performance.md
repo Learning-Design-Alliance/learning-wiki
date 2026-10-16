@@ -67,7 +67,7 @@ The article reports that the meta-analysis by Macnamara et al. (2014), echoed by
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*How much of performance does accumulated deliberate practice account for, and in which domains?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **4 distinct studies** (2 review, 1 quant-synthesis, 1 theoretical), `q2`–`q3`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*How much of performance does accumulated deliberate practice account for, and in which domains?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **5 distinct studies** (2 review, 1 quant-synthesis, 1 theoretical, 1 causal), `q2`–`q3`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -75,6 +75,7 @@ The article reports that the meta-analysis by Macnamara et al. (2014), echoed by
 | [Joshua Wedlock & Christopher Binnie 2025](https://doi.org/10.55593/ej.29115a5) | q2 · theoretical · r3 | i? | this claim |
 | Ericsson 2005 | q2 · review · r2 | i? | [Amount of accumulated deliberate practice distinguishes more from less accomplished musici](deliberate-practice-hours-differentiate-musicians.md) (supports) |
 | [Williams 2017](https://doi.org/10.14786/flr.v5i3.267) | q2 · review · r2 | i? | [Deliberate practice research is largely correlational with large unexplained variability i](deliberate-practice-correlational-limits.md) (qualifies) |
+| Do 2024 | q2 · causal · r1 | i? | [Deliberate practice interventions produce higher real estate licensing exam pass rates tha](deliberate-practice-raises-licensing-pass-rate.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -96,6 +97,8 @@ The article reports that the meta-analysis by Macnamara et al. (2014), echoed by
 <!-- deprecated (2026-10-05): before the bare markers were removed, this Discussion carried unsourced tags at these points: practice structure vs ordinary experience [+M] twice; domain dependence [~M] twice; prior ability [~M]; diminishing returns of practice time alone [~M]; session length [~W]; ill-structured domains, too-hard and too-easy practice [-M] three times. -->
 
 ## Related Claims
+
+- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — the general claim this finding bears on, with the studies behind it
 
 - [Feedback improves learning outcomes](feedback-improves-learning.md) — immediate informative feedback is a defining component of deliberate practice
 - [Testing effect: retrieval practice improves retention](retrieval-practice-improves-retention.md) — retrieval-based practice is one of the most robust ways to structure deliberate practice

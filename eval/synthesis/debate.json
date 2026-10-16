@@ -17,6 +17,18 @@
         [
           "structured-discussion-methods-improve-comprehension",
           "~"
+        ],
+        [
+          "mad-city-mystery-ar-argumentation-cases",
+          "+"
+        ],
+        [
+          "ar-game-features-scaffold-argumentation",
+          "+"
+        ],
+        [
+          "argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence",
+          "~"
         ]
       ]
     }

@@ -60,7 +60,8 @@ Same predictive analysis of the 1,715-school sample, contrasting the climate eff
 
 ## Discussion
 
-
 ## Related Claims
+
+- [A more positive school climate is related to improved academic achievement beyond socioeconomic status](positive-school-climate-linked-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [School climate differences between BTO and other schools remain large and significant after adjusting for student demographics and personnel resources](climate-advantage-robust-to-controls.md) — related
 - [School climate is more strongly associated with the likelihood of beating the odds than student demographics or personnel resources](climate-stronger-association-than-resources.md) — a broader claim this one bears on

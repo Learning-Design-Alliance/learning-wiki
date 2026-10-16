@@ -41,7 +41,8 @@ Grading-bias analysis of peer assessment data from the online class, comparing r
 
 ## Discussion
 
-
 ## Related Claims
+
+- [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — the general claim this finding bears on, with the studies behind it
 - [The effect of cooperative learning differs by the location of the meta-analysis studies, with single-country studies showing higher effects than mixed-country studies](cooperative-learning-location-moderator.md) — related
 - [Students assessed their own work on average 7% higher than staff did](self-assessment-inflation-seven-percent.md) — related

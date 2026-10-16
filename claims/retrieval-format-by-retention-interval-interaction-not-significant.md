@@ -43,6 +43,8 @@ Classroom experiment with 100 first-year Cognitive Psychology undergraduates in 
 
 ## Related Claims
 
+- [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) — the general claim this finding bears on, with the studies behind it
+
 - [Retention interval moderates the testing effect, with effects often smaller, null, or reversed at short intervals](retention-interval-moderates-testing-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Short-answer (production) and multiple-choice (recognition) retrieval practice produce no statistically significant difference in undergraduates' reading comprehension on a final MCQ test](production-vs-recognition-retrieval-practice-no-significant-difference-reading-comprehension.md) — related
 - [The effect of retrieval practice format on reading comprehension does not differ significantly between lower-order and higher-order thinking questions](retrieval-format-by-levels-of-thinking-interaction-not-significant.md) — related

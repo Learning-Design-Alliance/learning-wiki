@@ -49,6 +49,18 @@
         [
           "identical-example-problem-order-advantage-not-detected-at-final-test",
           "~"
+        ],
+        [
+          "pf-outperformed-lp-fcps-post-test-problems",
+          "+"
+        ],
+        [
+          "fcps-lp-difference-not-significant",
+          "~"
+        ],
+        [
+          "pf-greater-representation-flexibility-graphical",
+          "+"
         ]
       ]
     },
@@ -62,22 +74,34 @@
         ],
         [
           "scripted-personal-inquiry-associated-with-inquiry-knowledge-gains",
-          "+"
-        ],
-        [
-          "ai-assisted-inquiry-largest-decision-making-gains-climate",
           "~"
         ],
         [
           "amsti-inquiry-science-higher-reading-achievement",
-          "~"
+          "+"
         ],
         [
           "deeper-learning-math-inquiry-reduces-disparities",
-          "~"
+          "+"
         ],
         [
           "inquiry-benefits-low-income-equity-tension",
+          "~"
+        ],
+        [
+          "ai-assisted-inquiry-largest-decision-making-gains-climate",
+          "+"
+        ],
+        [
+          "inquiry-based-stem-activities-enhance-problem-solving-reported",
+          "+"
+        ],
+        [
+          "chatgpt-steam-ibl-learner-advantages",
+          "+"
+        ],
+        [
+          "ai-ibi-mainly-supports-creativity-and-affect",
           "~"
         ],
         [

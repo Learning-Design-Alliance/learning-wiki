@@ -61,7 +61,7 @@ The survey reports, citing Mackness and Bell (2015) via Gonçalves and Osório (
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*How much choice, for whom: what happens when self-direction is wide open?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **9 distinct studies** (2 review, 2 theoretical, 2 qualitative, 2 design, 1 causal), `q1`–`q3`, 1 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*How much choice, for whom: what happens when self-direction is wide open?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **8 distinct studies** (2 review, 2 theoretical, 2 qualitative, 1 causal, 1 design), `q1`–`q3`, 1 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -71,7 +71,6 @@ The survey reports, citing Mackness and Bell (2015) via Gonçalves and Osório (
 | Gitari 2016 | q2 · qualitative · r2 | i? | [Youth motivation to persist in everyday problem-solving is minimal, costing them collabora](minimal-persistence-everyday-problem-solving-youth.md) (supports); [Youth engaged free-choice learning heuristics in everyday problem-solving but typically sk](youth-skip-assess-phase-free-choice-heuristics.md) (supports) |
 | [Hilppö & Stevens 2024](https://doi.org/10.1080/07370008.2024.2386956) | q2 · qualitative · r3 | i? | [In one extreme case, two sixth-graders with a choice-rich, ungraded STEAM infrastructure e](choice-rich-infrastructure-supports-productive-deviation-and-learning.md) (qualifies) |
 | [Kexin Bella Yang 2026](https://doi.org/10.1145/3816902) | q2 · design · r2 | i? | [During pairing, both teachers and students favored shared decision-making over full studen](claim-shared-control-roles-and-content.md) (supports); [Both teachers and students preferred collaboration to begin when students signaled readine](claim-collab-starts-when-students-ready.md) (supports) |
-| Kexin Bella Yang 2026 (2) | q2 · design · r2 | i? | [During pairing, both teachers and students favored shared decision-making over full studen](claim-shared-control-roles-and-content.md) (supports) |
 | Zak-Moskal 2020 | q2 · review · r2 | i? | [Choice in retention programs is linked to retention gains, but autonomy is rarely a tested](choice-autonomy-rarely-tested-in-retention-programs.md) (qualifies) |
 | Dombey 1999 | q1 · theoretical · r2 | i? | [Exercise of autonomy at one level may inhibit its development at another in early literacy](autonomy-at-one-level-may-inhibit-another.md) (qualifies) |
 <!-- synthesis:end -->

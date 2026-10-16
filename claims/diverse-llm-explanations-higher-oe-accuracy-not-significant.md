@@ -41,7 +41,8 @@ Between-subjects randomized study of 971 first-year computing students assigned 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Multiple representations improve learning](multiple-representations-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Residual analysis of perception themes showed DD students more likely to report Engaged Understanding and less likely to report Overload/Frustration, though chi-square tests were not significant](engaged-understanding-residuals-diverse-explanations.md) — related
 - [MCQ accuracy was high (above 87%) across all conditions with no significant difference between diverse and generic explanations](mcq-accuracy-no-significant-condition-difference.md) — related

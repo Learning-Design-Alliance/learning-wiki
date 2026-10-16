@@ -39,8 +39,9 @@ Two-way ANOVA in a randomized 2×2 between-subjects experiment with 320 undergra
 
 ## Discussion
 
-
 ## Related Claims
+
+- [AI literacy interventions show a large, statistically significant overall positive effect on student AI literacy outcomes (g = 0.837)](ai-literacy-interventions-large-overall-effect.md) — the general claim this finding bears on, with the studies behind it
 - [The instructional manipulation check confirmed that TBI and SBI videos were perceived as intended](manipulation-check-tbi-sbi-differentiation.md) — related
 - [The TBI advantage over SBI is larger under open-ended tasks than under structured tasks](tbi-advantage-larger-under-oet-interaction.md) — related
 - [Instructional approach operates indirectly through autonomy and competence, while task type operates primarily through autonomy](differentiated-mediation-autonomy-competence.md) — related

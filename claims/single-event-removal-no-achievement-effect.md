@@ -42,8 +42,9 @@ Posttest means from the same six-version experiment: the three single-deletion t
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Developing a common understanding of expected learning helps all students succeed, not only those with school-aligned prior knowledge](shared-understanding-expected-learning-helps-all-students.md) — the general claim this finding bears on, with the studies behind it
 - [Students may be unaware of the absence of objectives: the no-objectives group gave the highest ratings on objective-related attitude items](no-objectives-group-most-positive-attitudes.md) — related
 - [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](practice-presence-raises-cbi-posttest-achievement.md) — related
 - [Studying worked examples between two rounds of a computer puzzle game produced significantly greater knowledge map improvement than no worked examples for adult players](worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game.md) — related

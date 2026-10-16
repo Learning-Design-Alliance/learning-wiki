@@ -40,6 +40,21 @@ A definitional/interpretive statement in the report's introduction explaining th
 
 > "The RCT is considered the “gold standard” of research evidence because randomization ensures that the only thing that could cause a difference in outcomes between the treatment and control groups is the intervention program."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Can a correlational or other non-randomised result be read as evidence that a design choice causes the outcome?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **6 distinct studies** (2 associational, 1 theoretical, 1 review, 1 quant-synthesis, 1 causal), `q1`–`q4`, 0 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| John Deke 2018 | q2 · theoretical · r? | i? | this claim; [Not all intervention programs can be evaluated using an RCT, so non-experimental study des](not-all-programs-rct-evaluable-nonexperimental-needed.md) (qualifies) |
+| [Shuang Geng 2026](https://doi.org/10.48550/arxiv.2607.28710) | q2 · associational · r1 | i? | [At baseline, mechanics-specific AI use was inversely related to course performance, but th](baseline-mechanics-ai-use-inversely-related-performance.md) (supports) |
+| [Kartal 2018](https://doi.org/10.5539/ies.v11n10p96) | q1 · associational · r1 | i? | [The study's correlational, cross-sectional design limits internal validity and causal inte](correlational-design-limits-epistemic-freedom-study.md) (supports) |
+| [Williams 2017](https://doi.org/10.14786/flr.v5i3.267) | q2 · review · r2 | i? | [Deliberate practice research is largely correlational with large unexplained variability i](deliberate-practice-correlational-limits.md) (supports) |
+| [Rotton & Kelly 1985](https://doi.org/10.1037/0033-2909.97.2.286) | q4 · quant-synthesis · r? | i? | [Illusory correlations, like the belief that a full moon affects behavior, persist through ](illusory-correlations-persist-through-confirmation-bias.md) (supports) |
+| [Manyee Wong 2015](https://doi.org/10.1080/19345747.2013.878011) | q1 · causal · r? | i? | [Adding multiple design elements to the basic ITS structure promotes causal inference by li](adding-design-elements-to-its-promotes-causal-inference.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

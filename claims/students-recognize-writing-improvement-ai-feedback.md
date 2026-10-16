@@ -60,8 +60,9 @@ Classroom observation at School A during implementation; one student's rubric "C
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — the general claim this finding bears on, with the studies behind it
 - EFL students perceive AI-generated writing feedback as a competent source that improves vocabulary, grammar, structure, coherence, and values its immediacy — related
 - Students in initial deployment perceived AI-assisted feedback as highly coherent and useful, with excellent usability acceptance — related
 - Empirical gains from AI tools in Arab EL2 classrooms are most consistent for surface-level outcomes, while higher-order writing quality and speaking proficiency show mixed results contingent on teacher mediation — related

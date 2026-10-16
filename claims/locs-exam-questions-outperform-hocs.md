@@ -39,6 +39,20 @@ Main effect from the 2 (clicker type) × 2 (exam question type) × 2 (semester) 
 
 > "performance on LOCS exam questions was overall significantly better than performance on HOCS exam questions, as indicated by a large effect size"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Are questions at higher Bloom levels harder for learners, as the taxonomy's hierarchy assumes?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **5 distinct studies** (3 associational, 2 causal), `q2`–`q3`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Deborah K. Anderson 2023](https://doi.org/10.1128/jmbe.00151-22) | q3 · causal · r2 | i? | this claim |
+| [Nero 2021](https://doi.org/10.24191/ajue.v17i4.16222) | q3 · causal · r2 | i? | [After retrieval practice, undergraduates score significantly higher on lower-order thinkin](retrieval-practice-lower-order-questions-outscore-higher-order-questions.md) (supports) |
+| [Bates 2013](https://doi.org/10.48550/arxiv.1308.2202) | q2 · associational · r1 | i? | [Students answer lower-taxonomy-category questions more frequently, but only by a factor of](lower-taxonomy-questions-answered-more.md) (qualifies) |
+| Madaus 1971 | q2 · associational · r2 | i? | [Proportions of variance explained follow a curvilinear pattern across the six taxonomy lev](curvilinear-variance-pattern-across-taxonomy-levels.md) (qualifies) |
+| [Yuan An 2026](https://doi.org/10.48550/arxiv.2609.27063) | q2 · associational · r2 | i? | [LLM-assigned difficulty labels fail to predict empirical item difficulty in classroom retr](llm-difficulty-labels-fail-to-predict-empirical-item-difficulty.md) (counts against) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 ## Related Claims

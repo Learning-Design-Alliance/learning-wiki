@@ -41,11 +41,12 @@ LDA on standardized country-level PISA 2022 indicators, evaluated with stratifie
 
 ## Discussion
 
-
 ## Learner Variables
 - [Digital Literacy](../learner-variables/digital-literacy.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](digital-literacy-gaps-span-demographics.md) — the general claim this finding bears on, with the studies behind it
 - [Simulated one-standard-deviation increases in autonomy yield only modest predicted changes in ICT career aspirations](counterfactual-autonomy-increase-modest-ict-aspiration-effect.md) — related
 - [Digital skills are the only consistently positive predictor of ICT career aspiration growth, while teacher support and autonomy show negative standardized associations](digital-skills-only-consistent-positive-predictor-ict-aspirations.md) — related
 - [Changes in ICT career aspirations are not systematically linked to contemporaneous changes in other occupational domains](ict-aspirations-independent-of-other-career-domains.md) — related

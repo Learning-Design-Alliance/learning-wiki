@@ -48,15 +48,18 @@ Learners studied and retrieved pairs to one correct recall, then items were assi
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should the gaps expand, stay equal, or contract?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **5 distinct studies** (3 causal, 2 quant-synthesis), `q2`–`q4`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should the gaps expand, stay equal, or contract?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **8 distinct studies** (4 causal, 3 quant-synthesis, 1 review), `q1`–`q4`, 1 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Karpicke & Bauernschmidt 2011](https://doi.org/10.1037/a0023436) | q3 · causal · r? | i? | this claim |
+| [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r3 | i? | [Expanding retrieval schedules have not shown consistent advantages over equally spaced or ](expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules.md) (supports) |
+| [Kim and Webb 2022](https://doi.org/10.1111/lang.12479) | q3 · quant-synthesis · r? | i? | [Expanding retrieval schedules have not shown consistent advantages over equally spaced or ](expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules.md) (supports) |
+| [Nakata 2015](https://doi.org/10.1017/s0272263114000825) | q3 · causal · r? | i? | [Expanding retrieval schedules have not shown consistent advantages over equally spaced or ](expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules.md) (supports) |
 | [Latimier 2021](https://doi.org/10.1007/s10648-020-09572-8) | q4 · quant-synthesis · r2 | i0; i? | [Expanding and uniform spacing schedules of retrieval practice do not differ significantly ](expanding-versus-uniform-retrieval-no-difference.md) (supports); [Number of retrieval exposures moderates the expanding-versus-uniform schedule benefit: mor](exposures-moderate-expanding-schedule-benefit.md) (qualifies) |
-| [Cepeda 2006](https://doi.org/10.1037/0033-2909.132.3.354) | q2 · quant-synthesis · r2 | i? | [Expanding interstudy intervals led to better recall than fixed intervals, but conclusions ](expanding-isis-better-than-fixed-tentative.md) (qualifies) |
-| [John Duplice 2022](https://doi.org/10.22492/ije.10.1.05) | q2 · causal · r2 | i? | [Uniform two-week spacing between distillations yielded the greatest benefit among the test](two-week-uniform-spacing-greatest-benefit.md) (qualifies); [Only the Standard two-week-interval treatment showed a statistically significant improveme](standard-two-week-spacing-significant-over-baseline.md) (qualifies) |
-| John Duplice 2022 (2) | q2 · causal · r1 | i? | [Uniform two-week spacing between distillations yielded the greatest benefit among the test](two-week-uniform-spacing-greatest-benefit.md) (qualifies) |
+| [Cepeda 2006](https://doi.org/10.1037/0033-2909.132.3.354) | q2 · quant-synthesis · r2 | i? | [Expanding interstudy intervals led to better recall than fixed intervals, but conclusions ](expanding-isis-better-than-fixed-tentative.md) (counts against) |
+| [John Duplice 2022](https://doi.org/10.22492/ije.10.1.05) | q2 · causal · r2 | i? | [Uniform two-week spacing between distillations yielded the greatest benefit among the test](two-week-uniform-spacing-greatest-benefit.md) (supports); [Only the Standard two-week-interval treatment showed a statistically significant improveme](standard-two-week-spacing-significant-over-baseline.md) (supports) |
+| [Reddy 2016](https://doi.org/10.1145/2939672.2939850) | q1 · causal · r2 | i? | [Under the mean-recall approximation, the optimal Leitner Queue Network schedule increases ](optimal-leitner-schedule-expands-intervals-between-reviews.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Related Claims

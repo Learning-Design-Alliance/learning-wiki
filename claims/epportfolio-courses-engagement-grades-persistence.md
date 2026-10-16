@@ -38,6 +38,17 @@ Second-hand summary: the paper quotes Kuh's foreword to Eynon and Gambino's book
 
 > "compared with their counterparts who did not use ePortfolios, students taking courses requiring ePortfolios were generally more engaged in educationally purposeful activities, earned higher grades, and were more likely to complete courses and persist."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does building a portfolio in a course raise learners' engagement, achievement and persistence?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **2 distinct studies** (1 design, 1 causal), `q1`–`q3`, 1 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| kuh-foreword | q1 / q2 · design · r2 | i? | this claim; [Students in ePortfolio-based Personal Development Plan sections had significantly higher f](epdp-pilot-gpa-retention-gains-not-sustained.md) (qualifies); [ePortfolio produced more powerful outcomes when faculty and staff received extended intens](intensive-professional-development-stronger-epportfolio-outcomes.md) (qualifies); [Public capstone ePortfolio showcases gave students an authentic audience and renewed energ](public-capstone-epportfolio-showcase-audience-effect.md) (supports) |
+| [I Putu Yoga Laksana 2026](https://doi.org/10.29140/tltl.2026.103616) | q3 · causal · r1 | i3 | [Experimental-group students outperformed control-group students on post-test speaking perf](cea-improved-speaking-performance.md) (supports); [Experimental-group students outperformed control-group students on post-test feedback lite](cea-improved-feedback-literacy.md) (supports); [The CEA learning model has a significant simultaneous effect on EFL students' speaking per](cea-simultaneous-effect-speaking-feedback-literacy.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

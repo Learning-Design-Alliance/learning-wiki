@@ -58,6 +58,18 @@ Paired-sample test of the experimental class (n=21) comparing pre-test (3.795) a
 
 > "The paired-sample test significance for the experimental group was 0.000, which was extremely significant."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does a TPACK-based course or programme build teachers' capacity to design technology-integrated instruction, and does the gain last?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **3 distinct studies** (1 causal, 1 qualitative, 1 design), `q2`–`q3`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Ren 2025](https://doi.org/10.5539/hes.v15n2p37) | q2 / q3 · causal · r1 | i? | this claim; [Lesson-plan quality grows steadily across three iterative design rounds, but no product re](iterative-design-steady-growth-no-excellent.md) (qualifies); [Early-stage IDC growth shows simplification, linearity, and dogmatism, with focal points s](novice-idc-growth-simplification-linearity-dogmatism.md) (qualifies) |
+| Niess 2018 | q2 · qualitative · r1 | i? | [In-service mathematics teachers in the online TPACK program shifted from teacher-centered ](online-tpack-program-shift-student-centered-strategies.md) (supports); [Teachers reported that students needed dedicated time to learn and explore technologies be](students-need-time-learn-technology-first.md) (qualifies) |
+| [Haiyang Xin 2026](https://doi.org/10.48550/arxiv.2605.12934) | q2 · design · r3 | i3; i? | [SDT-driven activity system redesign in Cycle 2 produced significant pre-post gains in AI-T](sdt-driven-redesign-capacity-willingness-gains.md) (supports); [SDT need satisfaction predicted post-intervention willingness beyond baseline capacity, wh](need-satisfaction-predicts-willingness-beyond-capacity.md) (qualifies); [87% of K-12 teachers ceased meaningful AI agent creation within three weeks of completing ](87-percent-teachers-cease-ai-agent-creation-three-weeks.md) (counts against) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

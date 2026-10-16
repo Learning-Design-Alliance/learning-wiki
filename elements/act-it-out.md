@@ -13,7 +13,7 @@ generated:
 # Act It Out
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 15 studies (8 causal, 4 quant-synthesis, 2 theoretical, 1 review), `q1`–`q4` · 3 of 15 report an effect size
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 16 studies (8 causal, 4 quant-synthesis, 2 review, 2 theoretical), `q1`–`q4` · 3 of 16 report an effect size · 1 claim rests on one study
 
 ## Description
 Act It Out asks learners to physically perform a concept, process, historical event, social interaction, or procedure rather than only describe or discuss it. Learners take on roles, gesture abstract relationships, or simulate a system's behavior with their bodies, producing an enactive representation of the content that complements verbal and visual encoding.
@@ -54,6 +54,10 @@ Enactment leverages the self-performed, embodied encoding of content: motor enga
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - 
+
+## The evidence by question
+
+- *Does acting out content (role-play, or embodying a concept with movement) improve understanding and skill more than describing or discussing it?* [The review reports that role-playing exercises significantly enhanced students' 21st-century skills including communication, collaboration, and critical thinking](../claims/role-play-enhances-21st-century-skills.md) [+W]
 
 ## Related Elements
 - [Role-Play](../strategies/role-play.md) — the sustained, scripted or semi-scripted form of enactment with assigned roles

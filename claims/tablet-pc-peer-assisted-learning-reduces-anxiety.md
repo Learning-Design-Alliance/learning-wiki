@@ -60,11 +60,12 @@ The review reports Chen's (2013) examination of Tablet PC use for informal Engli
 
 ## Discussion
 
-
 ## Learner Variables
 - [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — the general claim this finding bears on, with the studies behind it
 - Independent work on personal mobile devices mobilized attention, improved perception, and turned students into initiative actors and controllers of their own learning — related
 - [Microblogging and mobile blogging promote target-language interaction, cultural understanding, and a sense of community among language learners](microblogging-promotes-interaction-community-language-learners.md) — related
 - [SMS use improved both vocabulary retention and reading comprehension among Iranian EFL learners relative to a control group](sms-vocabulary-retention-reading-comprehension-efl.md) — related

@@ -41,8 +41,9 @@ Logistic regression analyses on subsamples enrolled in English 105 (n = 381) and
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Multiple-choice state tests are prone to ceiling and floor effects and do not measure higher-order skills well](multiple-choice-state-tests-limits-high-low-performers.md) — the general claim this finding bears on, with the studies behind it
 - [Only 11 percent of first-time CMI students between spring 2022 and spring 2024 placed into credit-bearing ELA courses, down from 22 percent under the prior placement system](cmi-ela-credit-bearing-placement-declined-to-11-percent.md) — related
 - [The multiple-choice component of the revised ELA placement test strongly measured overall ELA performance, but few items strongly measured the three specific ELA domains](cmi-ela-test-strong-overall-weak-domain-measurement.md) — related
 - [The ELA placement test was most precise for students whose scores would place them into developmental courses, with precision declining above the 40th percentile](cmi-ela-test-precision-declines-above-40th-percentile.md) — related

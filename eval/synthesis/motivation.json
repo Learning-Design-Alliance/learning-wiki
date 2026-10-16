@@ -7,15 +7,31 @@
       "question": "Do rewards and praise undermine voluntary engagement?",
       "members": [
         [
+          "extrinsic-rewards-undermine-intrinsic-motivation-argument",
+          "+"
+        ],
+        [
+          "grading-harms-maker-education-outcomes",
+          "+"
+        ],
+        [
+          "incentives-no-intrinsic-motivation-harm",
+          "-"
+        ],
+        [
+          "concrete-reward-increases-mean-ideational-fluency",
+          "~"
+        ],
+        [
+          "feedback-praise-reduces-learning",
+          "~"
+        ],
+        [
           "gamification-has-small-positive-effects-on-learning-outcomes",
           "~"
         ],
         [
           "gamification-engagement-mixed-evidence",
-          "~"
-        ],
-        [
-          "feedback-praise-reduces-learning",
           "~"
         ],
         [
@@ -31,20 +47,12 @@
           "~"
         ],
         [
-          "concrete-reward-increases-mean-ideational-fluency",
-          "~"
-        ],
-        [
           "reward-effects-hold-across-individual-tasks",
           "~"
         ],
         [
           "good-idea-reward-no-incentive-effect",
           "~"
-        ],
-        [
-          "grading-harms-maker-education-outcomes",
-          "+"
         ]
       ]
     },
@@ -52,6 +60,78 @@
       "hub": "self-efficacy-predicts-academic-persistence",
       "question": "Does a learner's belief that they can succeed at a task predict whether they start and persist, and which goals and feedback raise it?",
       "members": [
+        [
+          "self-efficacy-intercept-predicts-achievement-growth-mediation",
+          "+"
+        ],
+        [
+          "self-efficacy-growth-associated-with-math-growth",
+          "+"
+        ],
+        [
+          "self-efficacy-correlates-conceptual-understanding",
+          "+"
+        ],
+        [
+          "four-academic-mindsets-increase-perseverance-and-behaviors",
+          "+"
+        ],
+        [
+          "girls-confidence-interest-gap-self-concept-predicts-choices",
+          "+"
+        ],
+        [
+          "self-efficacy-with-sustained-effort-better-achievement",
+          "~"
+        ],
+        [
+          "lower-baseline-self-efficacy-greater-learning-gains",
+          "~"
+        ],
+        [
+          "teacher-emotional-support-buffers-low-efficacy-engagement",
+          "~"
+        ],
+        [
+          "self-efficacy-declines-middle-school-achievement-grows",
+          "~"
+        ],
+        [
+          "self-efficacy-does-not-moderate-feedback-gains",
+          "~"
+        ],
+        [
+          "self-efficacy-associated-graduation-and-math",
+          "+"
+        ],
+        [
+          "self-confidence-and-value-clustering-motivational-basis",
+          "+"
+        ],
+        [
+          "se-positive-effect-mov",
+          "+"
+        ],
+        [
+          "psychological-antecedents-predict-cheating-tendency",
+          "+"
+        ],
+        [
+          "self-efficacy-negative-ability-not-correlated-cheating",
+          "+"
+        ],
+        [
+          "self-efficacy-positive-career-persistence-agriculture-teachers",
+          "+"
+        ],
+        [
+          "student-confidence-readiness-self-efficacy-collaboration",
+          "+"
+        ],
+        [
+          "repeated-rapid-guessing-self-efficacy-self-management",
+          "~"
+        ],
         [
           "process-goals-outperform-outcome-goals-for-novices",
           "+"
@@ -71,11 +151,35 @@
       "question": "Does seeing a task as interesting, important or useful raise the effort learners invest in it?",
       "members": [
         [
-          "effort-requires-task-value-and-expectation-of-success-arcs-rationale",
+          "interest-autonomy-purpose-boost-motivation",
           "+"
         ],
         [
           "sdt-path-strengths-effort",
+          "+"
+        ],
+        [
+          "actual-genai-use-tied-to-interest-and-usefulness",
+          "+"
+        ],
+        [
+          "germane-cognitive-load-correlates-positively-with-interest",
+          "+"
+        ],
+        [
+          "interest-alignment-vs-economic-motivations-persistence",
+          "~"
+        ],
+        [
+          "cognitive-ability-predicts-secondary-gpa-more-than-curiosity",
+          "~"
+        ],
+        [
+          "no-significant-predictors-tertiary-gpa",
+          "~"
+        ],
+        [
+          "effort-requires-task-value-and-expectation-of-success-arcs-rationale",
           "+"
         ],
         [
@@ -85,6 +189,18 @@
         [
           "choice-rich-infrastructure-supports-productive-deviation-and-learning",
           "+"
+        ],
+        [
+          "collective-ai-intervention-improves-relevance-identification-math",
+          "+"
+        ],
+        [
+          "ai-relevance-intervention-no-interest-effect",
+          "~"
+        ],
+        [
+          "usf-chemistry-mindset-utility-value-mixed-subgroup-effects",
+          "~"
         ]
       ]
     }

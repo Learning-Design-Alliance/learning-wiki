@@ -58,6 +58,22 @@ A moderator statement from the same synthesis finding: the review reports that s
 
 > "Notably, the best-designed studies show the strongest positive effects."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does giving learners more learning time (longer days or years, more sessions, a higher dose) improve outcomes?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **7 distinct studies** (2 review, 2 causal, 1 qualitative, 1 associational, 1 quant-synthesis), `q2`–`q3`, 1 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Maier 2017 | q2 · review · r3 | i? | this claim |
+| Oakes 2020 | q2 · review · r1 | i? | [K–3 Plus expanded learning time program showed positive impact on student learning](k3-plus-positive-impact-learning.md) (supports) |
+| [Fitz 2025](https://doi.org/10.54300/910.329) | q2 · qualitative · r2 | i? | [Well-implemented, well-attended summer programs show positive outcomes in academic, social](well-attended-summer-programs-positive-outcomes.md) (supports) |
+| [Jordan Gutterman 2026](https://doi.org/10.48550/arxiv.2606.25308) | q2 · associational · r2 | i? | [Total time on task in the DLP positively predicts both math and ELA outcomes](total-time-on-task-predicts-outcomes.md) (supports) |
+| [Edpuzzle evidence summary 2025](https://doi.org/10.2139/ssrn.5265891) | q2 · causal · r? | i? | [Dosage relationship: more assigned Edpuzzle videos associated with larger gains](edpuzzle-dosage-more-videos-larger-gains.md) (supports) |
+| [Dowdall 2020](https://doi.org/10.1111/cdev.13225) | q3 · quant-synthesis · r3 | i2 | [Intervention dosage moderates child language outcomes: brief interventions under 60 minute](book-sharing-dosage-moderates-language-outcomes.md) (qualifies) |
+| [Bharat Anand 2026](https://doi.org/10.48550/arxiv.2605.18143) | q3 · causal · r2 | i? | [Extending mandated daily study time from three to four hours produces no significant perfo](extra-time-on-task-no-gain-novices.md) (counts against) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

@@ -1,0 +1,44 @@
+{
+  "principle": "elements/performance-support",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "gpt4-access-harms-learning-after-withdrawal",
+      "question": "Does performing with an aid at hand leave learners able to do the task once the aid is removed?",
+      "members": [
+        [
+          "immediate-performance-not-evidence-of-independent-learning",
+          "+"
+        ],
+        [
+          "answer-offloading-associated-lower-unaided-performance-exploratory",
+          "+"
+        ],
+        [
+          "ai-assistance-lower-comprehension-17-percent",
+          "+"
+        ],
+        [
+          "trainee-experience-moderates-aiding-transfer",
+          "~"
+        ],
+        [
+          "llm-access-no-significant-lower-unaided-performance",
+          "-"
+        ],
+        [
+          "ai-gains-carry-over-followup-not-pure-delegation",
+          "-"
+        ],
+        [
+          "genai-access-raises-immediate-test-scores",
+          "-"
+        ],
+        [
+          "ai-practice-improved-writing-skill-persisted-one-day",
+          "-"
+        ]
+      ]
+    }
+  ]
+}

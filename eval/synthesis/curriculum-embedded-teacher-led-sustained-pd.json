@@ -1,0 +1,86 @@
+{
+  "principle": "principles/curriculum-embedded-teacher-led-sustained-pd",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "effective-pd-seven-features",
+      "question": "Does professional development tied to the curriculum teachers teach, modelled by accomplished teachers and sustained with on-site support change teaching and students' results?",
+      "members": [
+        [
+          "pd-content-focus-prevalence",
+          "+"
+        ],
+        [
+          "pd-models-and-curriculum-support",
+          "+"
+        ],
+        [
+          "pd-collaboration-prevalence-and-gains",
+          "+"
+        ],
+        [
+          "pd-active-learning-prevalence",
+          "+"
+        ],
+        [
+          "stella-outperformed-content-only-pd",
+          "+"
+        ],
+        [
+          "experimental-staff-development-raises-student-achievement",
+          "+"
+        ],
+        [
+          "leader-teacher-diffusion-uneven",
+          "~"
+        ],
+        [
+          "instruction-ready-resources-tied-to-professional-learning",
+          "+"
+        ],
+        [
+          "clear-expectations-learning-walks-reinforce-hqim-use",
+          "+"
+        ],
+        [
+          "erwc-high-pd-fidelity-low-curriculum-fidelity",
+          "~"
+        ],
+        [
+          "teachers-prefer-colleague-led-professional-learning",
+          "+"
+        ],
+        [
+          "nonparticipant-barriers-professional-development",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "fifty-hours-content-specific-pd",
+      "question": "How much professional development, over how long, before teaching and student results change?",
+      "members": [
+        [
+          "extensive-pd-larger-instructional-improvements-elementary",
+          "+"
+        ],
+        [
+          "pass-rates-improved-extensive-pd-elementary",
+          "+"
+        ],
+        [
+          "pli-pd-dose-associated-with-student-gains",
+          "+"
+        ],
+        [
+          "pd-frequency-null-didactic-quality-content-positive",
+          "~"
+        ],
+        [
+          "openscied-pd-shifts-teacher-beliefs-confidence",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

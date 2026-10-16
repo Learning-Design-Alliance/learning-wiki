@@ -42,11 +42,12 @@ In its classroom practices section, the digest states that oral drills and memor
 
 ## Discussion
 
-
 ## Learner Variables
 - [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Learning ability does not decline with age in healthy older adults](learning-ability-does-not-decline-with-age.md) — the general claim this finding bears on, with the studies behind it
 - [Federally-funded adult ESL programs and citizenship classes largely exclude older beginner immigrants because instruction is designed for workforce-bound younger adults](older-beginners-excluded-from-standard-adl-esl.md) — related
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — related
 - A disadvantaged-child program with heavy oral language emphasis led all compared programs in cognitive gains — related

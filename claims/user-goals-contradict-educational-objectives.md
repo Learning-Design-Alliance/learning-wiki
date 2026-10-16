@@ -61,8 +61,9 @@ The paper reports, citing Perkins (1985), that many student users' individual go
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — the general claim this finding bears on, with the studies behind it
 - Contradictions within and across activity systems are vital forces for change and provide a rationale for CSL — a broader claim this one bears on
 - Contradictions surrounding the OLR drove students to appropriate it, transforming it from an object of confusion into an instrument of critical reflection — a narrower finding that bears on this claim
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — related

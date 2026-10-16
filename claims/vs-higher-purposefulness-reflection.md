@@ -41,8 +41,9 @@ Paired comparison of questionnaire purposefulness scores from the 34-student cor
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Authentic video enhanced self-reported acuity for detail, though the non-parametric check was marginal](av-higher-acuity-detail-sensitivity.md) — related
 - [In the initial skill acquisition phase, authentic video yielded higher overall observation assignment scores than virtual simulation](av-outperforms-vs-total-observation-score.md) — related
 - [Authentic video outperformed virtual simulation on the higher-order analysis and support dimensions of observation assignments](av-advantage-analysis-support-dimensions.md) — related

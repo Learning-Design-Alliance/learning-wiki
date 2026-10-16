@@ -41,7 +41,8 @@ Moderation analysis by outcome assessment type within the replacement meta-analy
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Replacing existing teaching with video produces small improvements in student learning in higher education (g = 0.28)](video-replacement-small-learning-benefit.md) — the general claim this finding bears on, with the studies behind it
 - [Video replacing static media (e.g., text) benefits learning more than video replacing a teacher](video-vs-static-media-stronger-than-vs-teacher.md) — related
 - [In the initial skill acquisition phase, authentic video yielded higher overall observation assignment scores than virtual simulation](av-outperforms-vs-total-observation-score.md) — related

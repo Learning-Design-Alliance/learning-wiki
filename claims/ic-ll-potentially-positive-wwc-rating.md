@@ -41,8 +41,9 @@ Systematic WWC synthesis of two studies (one randomized controlled trial, one qu
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — the general claim this finding bears on, with the studies behind it
 - [The WWC improvement index is +31 percentile points for English language development and +3 percentile points for reading achievement](fast-forword-improvement-index-eld-reading.md) — related
 - [The WWC rates Reading Mastery as having potentially positive effects on the reading achievement of English language learners](reading-mastery-potentially-positive-effects-ell-reading.md) — related
 - [Instructional Conversations and Literature Logs produce statistically significant positive effects on factual and interpretive story comprehension in a short-term randomized trial with English language learners](ic-ll-significant-story-comprehension-rct.md) — related

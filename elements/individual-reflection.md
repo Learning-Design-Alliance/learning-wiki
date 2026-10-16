@@ -13,7 +13,7 @@ generated:
 # Individual Reflection
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 11 studies (4 review, 2 quant-synthesis, 2 theoretical, 1 causal, 1 associational, 1 design), `q1`–`q4` · 1 of 11 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (5 for, 3 mixed) · 15 studies (5 review, 4 quant-synthesis, 2 causal, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 3 of 15 report an effect size · 4 claims rest on one study
 
 ## Description
 Individual reflection asks learners to step back from a task or experience and deliberately analyze their own thinking, decisions, and learning progress. It converts experience into articulated insight — learners examine *what* they did, *why* it worked or failed, and *what* to change next time — rather than simply moving on to the next activity.

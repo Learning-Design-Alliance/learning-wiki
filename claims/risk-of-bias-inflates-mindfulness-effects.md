@@ -41,7 +41,8 @@ Meta-regression within the 17 active-control RCTs using a Cochrane Risk of Bias 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [The evidence base for school mindfulness interventions is promising but too variable for definitive practice recommendations](mbi-evidence-base-variability-limitation.md) — the general claim this finding bears on, with the studies behind it
 - [Publication bias is evident for Negative Behaviour and Anxiety/Stress across all RCTs and for Mindfulness in active-control RCTs, suggesting overestimation of MBI effects](publication-bias-mbi-youth-rcts.md) — related
 - [Risk of bias was high or unclear in all included trials, but no criterion significantly moderated effects](risk-of-bias-high-unclear-all-trials.md) — related

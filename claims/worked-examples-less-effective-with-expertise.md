@@ -69,13 +69,17 @@ The paper argues that effective instruction must manage the transition away from
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*For whom: how does the benefit change with prior knowledge?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **3 distinct studies** (1 review, 1 theoretical, 1 causal), `q2`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*For whom: how does the benefit change with prior knowledge?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **7 distinct studies** (3 causal, 2 review, 2 theoretical), `q1`–`q3`, 0 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Kalyuga et al. 2003](https://doi.org/10.1207/s15326985ep3801_4) | q2 / q3 · review · r? | i? | this claim; [The review reports that worked examples benefit inexperienced learners but become redundan](expertise-reversal-worked-examples-review.md) (supports) |
+| [Kalyuga et al. 2003](https://doi.org/10.1207/s15326985ep3801_4) | q2 / q3 · review · r? | i? | this claim; [The review reports that worked examples benefit inexperienced learners but become redundan](expertise-reversal-worked-examples-review.md) (supports); [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (supports) |
 | [Renkl & Atkinson 2003](https://doi.org/10.1207/s15326985ep3801_3) | q3 · theoretical · r? | i? | this claim |
 | [Gupta 2020](https://doi.org/10.20897/ejsteme/9252) | q3 · causal · r2 | i? | [Lower-prior-knowledge learners scored higher on an algebra posttest after full-worked than](lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples.md) (supports); [Prior knowledge and worked-example type (full vs completion) interact significantly on sel](prior-knowledge-by-worked-example-type-interaction-on-germane-load.md) (qualifies); [Prior knowledge, worked-example type (full vs completion) and task difficulty show a signi](prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) (qualifies); [No significant interaction between prior knowledge and task difficulty was observed in a w](no-prior-knowledge-by-task-difficulty-interaction-in-algebra-worked-examples.md) (qualifies) |
+| [Kalyuga et al. 1998](https://doi.org/10.1518/001872098779480587) | q3 · causal · r? | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (supports) |
+| Obikwelu 2013 | q1 · theoretical · r2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (supports) |
+| [Kirschner 2006](https://doi.org/10.1207/s15326985ep4102_1) | q2 · review · r? | i? | [The advantage of guidance begins to recede only when learners have sufficiently high prior](guidance-advantage-recedes-with-high-prior-knowledge.md) (supports) |
+| [Sweller & Cooper 1985](https://doi.org/10.1207/s1532690xci0201_3) | q3 · causal · r? | i? | [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -88,6 +92,10 @@ The design implication is not to remove structure abruptly. It is to fade it as 
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](practice-presence-raises-cbi-posttest-achievement.md) — the general claim this finding bears on, with the studies behind it
+
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — the general claim this finding bears on, with the studies behind it
 
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md)
 - [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md)

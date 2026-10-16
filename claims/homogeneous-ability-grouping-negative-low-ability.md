@@ -39,6 +39,21 @@ Meta-analysis of studies on differentiation practices in primary education. The 
 
 > "Between- or within-class homogeneous ability grouping had a small negative effect on low-ability students, but no effect on others."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does sorting learners into classes or groups by ability help them, and which learners gain or lose?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **6 distinct studies** (3 causal, 1 quant-synthesis, 1 review, 1 associational), `q2`–`q3`, 0 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Deunk 2018](https://doi.org/10.1016/j.edurev.2018.02.002) | q3 · quant-synthesis · r? | i? | this claim |
+| Elaine Allensworth and Takako Nomi 2014 | q2 · causal · r? | i? | [Sorting by ability affects grades and pass rates differently from test scores: high-skille](sorting-opposite-effects-grades-vs-test-scores.md) (qualifies); [Average test scores are higher when classes are sorted by skill, driven by large learning ](sorting-raises-test-scores-via-high-skill-gains.md) (qualifies); [When classes are sorted by skill level, low-skilled students are at higher risk of being i](sorting-puts-low-skilled-in-disruptive-classrooms.md) (supports); [How students are sorted into classrooms by skill level can affect their achievement as muc](sorting-effect-comparable-to-curriculum-content.md) (qualifies) |
+| Takako Nomi 2010 | q3 · causal · r2 | i? | [Tracking intensified concentration of behavioral and absentee problems in double-dose alge](double-dose-concentrated-behavioral-problems.md) (supports); [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but ](double-dose-failure-rates-divergent.md) (qualifies); [In one Chicago study, above-norm students' post-policy algebra test gains were partly expl](above-norm-score-gains-peer-ability-spillover.md) (qualifies); [Below-norm students' test scores improved post-policy (0.88 points total), and classroom a](below-norm-score-gains-composition-null-post-policy.md) (qualifies); [Pre-policy, classroom average ability related positively to test scores but positively to ](pre-policy-composition-test-scores-failure-opposite.md) (qualifies) |
+| [Takako Nomi and Elaine M. Allensworth 2013](https://doi.org/10.3102/0002831212469997) | q3 · causal · r2 | i? | [In one Chicago study, above-norm students' post-policy algebra test gains were partly expl](above-norm-score-gains-peer-ability-spillover.md) (qualifies) |
+| Hernández 2024 | q2 · review · r1 | i? | [After Hillsdale High School detracked into heterogeneous small learning communities, 100% ](hillsdale-detracking-enrollment-performance.md) (supports) |
+| Douglas H. Clements 2013 | q2 · associational · r? | i? | [Differentiating curriculum for students above grade level is associated with higher math a](differentiating-above-grade-level-second-grade-achievement.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

@@ -13,7 +13,7 @@ generated:
 # Selected-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (1 for, 11 mixed, 1 against) · 11 studies (4 associational, 3 design, 2 causal, 1 review, 1 qualitative), `q1`–`q3` · 1 of 11 report an effect size · 12 claims rest on one study
+> **Evidence** · 15 claims (3 for, 11 mixed, 1 against) · 13 studies (4 associational, 3 review, 3 design, 2 causal, 1 qualitative), `q1`–`q3` · 1 of 13 report an effect size · 14 claims rest on one study
 
 ## Description
 In selected-response items — multiple-choice, true-false, and matching — students select a response the teacher or test developer provides rather than constructing one in their own words, so the item measures recognition rather than recall. Because results don't depend on a scorer's judgment (and so are often machine-scored), these items are called "objective," and their elimination of scoring error increases reliability. But teachers who rely on objective items exclusively risk reducing the validity of their overall assessment, since objective items aren't appropriate for every learning goal — effective assessment depends on aligning the technique to the actual goal (if the goal is for students to conduct an experiment, they should be asked to conduct one, not asked about conducting one).

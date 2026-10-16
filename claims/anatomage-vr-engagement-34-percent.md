@@ -41,6 +41,7 @@ The review reports, citing Koney et al. (2024), a 34% engagement increase for vi
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Novice clinical learners show pervasive metacognitive calibration deficits, with overestimated performance and confidence exceeding accuracy](novice-metacognitive-calibration-deficits.md) — related

@@ -13,7 +13,7 @@ generated:
 # Formative Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 7 studies (2 review, 2 qualitative, 1 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 0 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 mixed) · 13 studies (5 quant-synthesis, 4 review, 2 qualitative, 1 causal, 1 theoretical), `q1`–`q4` · 4 of 13 report an effect size · 4 claims rest on one study
 
 ## Description
 Formative assessment is the ongoing, low-stakes gathering of evidence about learner understanding, used to provide feedback to learners and to adjust instruction in real time. Its defining feature is not the instrument (quiz, discussion, draft) but the *use* of the information: assessment becomes formative only when it changes what happens next for the learner or the teacher.

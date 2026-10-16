@@ -41,8 +41,9 @@ Authors' summary of the preregistered SOLO depth co-primary outcomes (mean SOLO 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Multiple-choice state tests are prone to ceiling and floor effects and do not measure higher-order skills well](multiple-choice-state-tests-limits-high-low-performers.md) — the general claim this finding bears on, with the studies behind it
 - [Access to a structured conversational AI tutor increased post-test content scores over a no-AI holdout with ambient consumer AI available](structured-ai-tutor-raises-post-test-scores-field-experiment.md) — a broader claim this one bears on
 - Multiple choice practice items produce significantly higher performance during retrieval practice than short answer items, with applied short answer the most difficult condition — related
 - Successful retrieval practice of more difficult items (short answer, applied) yields greater future predicted success than successful retrieval of easier items (multiple choice, factual) — related

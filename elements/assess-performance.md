@@ -13,7 +13,7 @@ generated:
 # Assess performance
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 7 studies (3 theoretical, 1 causal, 1 review, 1 associational, 1 qualitative), `q2`–`q3` · 0 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 8 studies (3 theoretical, 2 review, 1 causal, 1 associational, 1 qualitative), `q1`–`q3` · 0 of 8 report an effect size · 4 claims rest on one study
 
 ## Description
 Assessing performance is the instructional event in which learners demonstrate what they can do and the instructor or system evaluates that demonstration against criteria. It functions both as a measurement of mastery and as a learning event in its own right — the act of retrieving and producing performance strengthens memory and reveals gaps that instruction has not closed.

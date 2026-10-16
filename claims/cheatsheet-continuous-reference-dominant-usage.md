@@ -60,7 +60,8 @@ Self-reported usage strategies for the final exam; continuous referral (73%) far
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Cheat sheet type was not significantly associated with exam performance on either exam, though a moderate non-significant trend favoured self-created sheets on the final](cheatsheet-type-no-significant-performance-difference.md) — the general claim this finding bears on, with the studies behind it
 - [Most participants reported that cheat sheets boosted their confidence and efficiency during exams](cheatsheets-boost-confidence-efficiency.md) — related
 - [Self-created cheat sheet users reported significantly longer midterm preparation time than instructor-provided users, but the difference was not significant for the final exam](self-created-cheatsheets-longer-midterm-prep-time-only.md) — related

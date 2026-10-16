@@ -46,7 +46,7 @@ The authors coded each outcome for depth (surface, content-specific, against dee
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does instruction that raises near transfer also raise far transfer to a different domain or form?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **5 distinct studies** (3 causal, 1 quant-synthesis, 1 review), `q2`–`q3`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does instruction that raises near transfer also raise far transfer to a different domain or form?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **6 distinct studies** (3 causal, 2 quant-synthesis, 1 review), `q2`–`q4`, 1 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -55,6 +55,7 @@ The authors coded each outcome for depth (surface, content-specific, against dee
 | Miwa et al. 2017 | q2 · causal · r1 | i? | [Test-score increases occurred only for identical and near-transfer problems; no increases ](germane-load-gains-limited-to-identical-and-near-transfer-problems.md) (supports) |
 | [Kelly McNeil 2026](https://doi.org/10.51388/20.500.12265/284) | q2 · review · r2 | i? | [The review reports that simulation games support near transfer of knowledge but evidence f](simulation-near-transfer-robust-far-transfer-weak.md) (supports) |
 | [Dunlosky 2013](https://doi.org/10.1177/1529100612453266) | q2 · causal · r? | i? | [Self-explanation effects hold on far-transfer but not near-transfer questions in a geometr](self-explanation-far-transfer-geometry-classroom.md) (counts against) |
+| [Steven C. Pan and Timothy C. Rickard 2018](https://doi.org/10.1037/bul0000151) | q4 · quant-synthesis · r3 | i? | [Transfer of test-enhanced learning is greatest across test formats, to application and inf](transfer-greatest-test-formats-application-inference-medical-mediator-cues.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

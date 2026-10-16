@@ -57,9 +57,9 @@ In the Findings (Object section), one e-teacher's interview statement describes 
 
 ## Discussion
 
-
-
 ## Related Claims
+
+- [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — the general claim this finding bears on, with the studies behind it
 
 - [Creating community and interacting with students online required deliberate, planned effort unlike spontaneous face-to-face co-presence](online-community-requires-conscious-effort.md) — related
 - [The change in tools caused the most disruption in e-teachers' activity system, replacing body language and visual cues with text and voice mediation](tool-change-most-disruption-online-teaching.md) — related

@@ -44,6 +44,8 @@ Single-state standard setting study with five or six raters per panel and fiftee
 
 ## Related Claims
 
+- [The authors assert that innovative assessment measures capture POG competencies more fully than traditional standardized tests](innovative-assessments-capture-pog-competencies.md) — the general claim this finding bears on, with the studies behind it
+
 - [Criterion-referenced tests require empirically-based construct validation studies](criterion-referenced-tests-need-construct-validation.md) — the general claim this finding bears on, with the studies behind it
 - Performance classifications varied considerably across grades in both literacy and mathematics for the alternate portfolio assessment — related
 - Presenting ordered portfolios led panelists to shift toward a bookmarking-like mental process, contaminating independent classification — related

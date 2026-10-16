@@ -13,7 +13,7 @@ generated:
 # Peer Collaboration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 8 studies (2 causal, 2 quant-synthesis, 2 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 8 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (5 for, 2 mixed) · 11 studies (4 quant-synthesis, 2 causal, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 2 of 11 report an effect size · 5 claims rest on one study
 
 ## Description
 Peer collaboration places two or more learners in joint work on a shared task, requiring them to explain, question, negotiate, and build on each other's thinking. It functions as a social engine for learning: the value comes not from proximity but from the elaboration, conflict, and mutual regulation that genuine joint work provokes.

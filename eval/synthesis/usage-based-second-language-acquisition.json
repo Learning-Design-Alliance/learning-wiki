@@ -1,0 +1,174 @@
+{
+  "principle": "theories/usage-based-second-language-acquisition",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts",
+      "question": "How much do repeated encounters add, and do words met in input last without review?",
+      "members": [
+        [
+          "l1-extensive-reading-drives-vocabulary-growth",
+          "+"
+        ],
+        [
+          "l2-extensive-reading-beats-decontextualized-vocabulary-exercises",
+          "+"
+        ],
+        [
+          "extensive-reading-produces-vocabulary-gains-efl",
+          "+"
+        ],
+        [
+          "little-decay-three-month-delayed-posttest-extensive-reading",
+          "+"
+        ],
+        [
+          "prior-vocabulary-knowledge-moderates-extensive-reading-gains",
+          "~"
+        ],
+        [
+          "informative-contexts-produce-higher-word-meaning-retention",
+          "~"
+        ],
+        [
+          "viewing-vocabulary-learning-affected-by-frequency-prior-knowledge-cognateness",
+          "~"
+        ],
+        [
+          "incidental-vocabulary-exposure-limited",
+          "~"
+        ],
+        [
+          "exposure-frequency-predicts-incidental-gains",
+          "+"
+        ],
+        [
+          "reading-times-drop-three-four-encounters",
+          "+"
+        ],
+        [
+          "s-shaped-reading-time-decrease-repeated-exposure",
+          "+"
+        ],
+        [
+          "incidental-reading-vocabulary-acquisition-slow-unpredictable",
+          "~"
+        ],
+        [
+          "incidental-acquisition-rate-3-of-20-words",
+          "~"
+        ],
+        [
+          "incidental-vocabulary-retention-problems",
+          "~"
+        ],
+        [
+          "spaced-repetition-supplement-triples-vocabulary-retention",
+          "+"
+        ],
+        [
+          "spaced-retrieval-multiyear-vocabulary-retention",
+          "+"
+        ],
+        [
+          "task-essentialness-goal-directed-vocabulary-retention",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "cd-semantic-richness-improves-lexical-processing",
+      "question": "Does meeting a word in more varied contexts, rather than only more often, make it better known?",
+      "members": [
+        [
+          "diverse-contexts-improve-pseudoword-recognition-accuracy",
+          "+"
+        ],
+        [
+          "diverse-contexts-speed-word-identification",
+          "+"
+        ],
+        [
+          "cd-facilitates-recall-impairs-recognition",
+          "~"
+        ],
+        [
+          "redundant-contexts-improve-semantic-representations",
+          "-"
+        ]
+      ]
+    },
+    {
+      "hub": "construction-based-sorting-increases-with-grade-level",
+      "question": "Do learners move from item-based, verb-bound patterns to abstract constructions as their language experience grows?",
+      "members": [
+        [
+          "proficiency-correlates-with-sorting-and-translation",
+          "+"
+        ],
+        [
+          "light-verbs-modulate-intermediate-sorting",
+          "~"
+        ],
+        [
+          "transitive-earliest-resultative-hardest",
+          "~"
+        ],
+        [
+          "translation-accuracy-varies-by-construction",
+          "~"
+        ],
+        [
+          "emergence-route-formula-low-scope-pattern-construction",
+          "+"
+        ],
+        [
+          "frequency-tuning-across-language-processing-domains",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "comprehensible-input-insufficient-grammar-acquisition",
+      "question": "Is exposure to meaningful input enough for learners to acquire L2 grammar, or do some forms need explicit instruction and practice?",
+      "members": [
+        [
+          "low-salience-elements-need-extensive-practice",
+          "+"
+        ],
+        [
+          "mere-exposure-insufficient-advanced-l2-communicative-competence",
+          "+"
+        ],
+        [
+          "processing-instruction-gains-comprehension-and-production",
+          "+"
+        ],
+        [
+          "cl-core-sense-preposition-instruction-improves-use",
+          "+"
+        ],
+        [
+          "explicit-l2-grammar-instruction-superior-to-implicit",
+          "+"
+        ],
+        [
+          "drill-and-grammar-focus-ineffective-for-l2-acquisition",
+          "-"
+        ],
+        [
+          "form-focused-input-manipulation-illusory-for-competence",
+          "-"
+        ],
+        [
+          "monitoring-improves-learnable-rule-accuracy",
+          "~"
+        ],
+        [
+          "monitoring-lowers-preposition-accuracy",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

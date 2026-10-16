@@ -41,8 +41,9 @@ Findings from the same pretest-posttest experiment (N = 34) comparing developmen
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — the general claim this finding bears on, with the studies behind it
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — a broader claim this one bears on
 - [The learner's developmental level conditions the outcomes of interactional input](developmental-level-conditions-interaction-outcomes.md) — related
 - [Conversational interaction facilitates second language grammatical development in adult ESL learners](interaction-facilitates-l2-grammatical-development.md) — related

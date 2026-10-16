@@ -13,7 +13,7 @@ generated:
 # Constructed-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (4 for, 10 mixed, 2 against) · 13 studies (5 design, 3 associational, 2 causal, 1 review, 1 qualitative, 1 theoretical), `q1`–`q3` · 1 of 13 report an effect size · 16 claims rest on one study
+> **Evidence** · 19 claims (5 for, 12 mixed, 2 against) · 15 studies (5 design, 4 associational, 2 causal, 2 review, 1 qualitative, 1 theoretical), `q1`–`q3` · 2 of 15 report an effect size · 19 claims rest on one study
 
 ## Description
 Constructed-response items ask students to recall information and produce their own answer rather than recognize a provided one, which reduces guessing compared with [selected-response items](selected-response-assessment-items.md). Two major kinds are used: **completion/short-answer** items (answerable in a word, phrase, number, or symbol — the same underlying format whether phrased as a statement to complete or a question to answer) and **extended-response** items (answers ranging from a paragraph to several pages, often called essay questions when they run long).

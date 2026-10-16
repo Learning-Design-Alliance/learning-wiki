@@ -42,8 +42,11 @@ The monograph reports an extensive review by Showers, Joyce, and Bennett (1987) 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — the general claim this finding bears on, with the studies behind it
+
+- [Pairing coaching with group trainings is associated with larger effects on instruction and achievement; instructional materials with larger, and video libraries with smaller, effects on instruction](coaching-complementary-elements-moderators.md) — the general claim this finding bears on, with the studies behind it
 - [Experimental staff development programs mostly raised student achievement relative to control teachers (review attribution)](experimental-staff-development-raises-student-achievement.md) — related
 - [Widely implemented staff development (Madeline Hunter's ITIP) lacks empirical evidence of improved student achievement](itip-lacks-empirical-evidence-achievement.md) — related
 - Reflective coaching and technical coaching rest on different relationships, goals and epistemologies of practice despite sharing the coaching label — related

@@ -41,9 +41,10 @@ Conceptual argument (§4.2), drawing the physical/epistemological access distinc
 
 ## Discussion
 
-
 ## Learner Variables
 - [Access](../learner-variables/access.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Among eligible students, Chicago Connected participation increased remote learning engagement for high pre-pandemic GPA students but decreased it for low pre-pandemic GPA students](chicago-connected-participation-heterogeneous-engagement-effects.md) — the general claim this finding bears on, with the studies behind it
 -

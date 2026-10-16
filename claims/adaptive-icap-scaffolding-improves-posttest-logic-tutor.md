@@ -39,6 +39,18 @@ Controlled between-subjects classroom study (N=113 undergraduates in a discrete 
 
 > "As shown in Table 2, both adaptive conditions significantly outperformed theControl(mean = 65.7) on posttest score. TheBKTgroup (mean= 72.3) showed significant improvement overControl(A=.58, 95% CI [.52, .63],p=.005)"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does choosing practice or scaffolding by BKT's mastery estimate improve learning or reduce the practice needed, compared with fixed or random sequencing, and for whom?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 review), `q2`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Tithi 2026](https://doi.org/10.48550/arxiv.2602.07308) | q3 · causal · r2 | i? | this claim; [BKT scaffolding significantly benefits low prior knowledge students, who outperformed low ](bkt-benefits-low-prior-knowledge-students.md) (supports); [All training policies narrowed the prior-knowledge achievement gap from pretest to posttes](bkt-largest-achievement-gap-reduction.md) (supports); [BKT students completed posttest problems significantly faster than Control students, with ](bkt-faster-posttest-completion.md) (supports); [DRL scaffolding significantly benefits high prior knowledge students while BKT does not, a](drl-benefits-high-prior-knowledge-students.md) (qualifies) |
+| [Shuanghong Shen 2021](https://doi.org/10.48550/arxiv.2105.15106) | q2 · review · r2 | i? | [The survey reports, citing Lee and Brunskill, that individualized BKT in an intelligent tu](individualized-bkt-reduces-questions-needed-for-mastery.md) (supports); [The survey reports, citing Desmarais and Baker, that students using the BKT-sequence recom](bkt-sequence-recommendation-students-solved-harder-exercises.md) (supports) |
+| eff-1 | q2 · causal · r1 | i? | [BKT is the most efficient knowledge tracing approach overall in simulated online mastery l](bkt-most-efficient-online-mastery-learning.md) (supports); [In simulated online mastery learning, BKT gave the fewest problems, Streak the second fewe](problem-counts-by-knowledge-tracing-condition.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

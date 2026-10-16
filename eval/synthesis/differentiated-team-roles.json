@@ -1,0 +1,72 @@
+{
+  "principle": "elements/differentiated-team-roles",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "cooperative-learning-group-rewards-and-individual-accountability",
+      "question": "Which structure matters: group rewards tied to each member's learning, assigned roles, or interdependence of any kind?",
+      "members": [
+        [
+          "interdependence-type-no-achievement-effect-asynchronous",
+          "~"
+        ],
+        [
+          "interdependence-type-shifts-interaction-nature",
+          "~"
+        ],
+        [
+          "accountability-effects-depend-on-type-context-task",
+          "~"
+        ],
+        [
+          "reward-interdependence-benefit-attitudes",
+          "~"
+        ],
+        [
+          "structured-interdependence-contribution-obligation-attitude",
+          "~"
+        ],
+        [
+          "interaction-quantity-correlates-posttest-online-groups",
+          "~"
+        ],
+        [
+          "classroom-research-supports-motivational-perspective",
+          "+"
+        ],
+        [
+          "secondary-cooperative-learning-newmann-thompson",
+          "~"
+        ],
+        [
+          "structured-peer-tutoring-outperforms-unstructured",
+          "+"
+        ],
+        [
+          "role-rotation-perspective-taking-and-challenges",
+          "~"
+        ],
+        [
+          "role-rotation-distributes-professional-engagement-ai-cases",
+          "~"
+        ],
+        [
+          "nd-prefer-defined-team-roles",
+          "~"
+        ],
+        [
+          "nd-coping-self-selected-roles-self-disclosure",
+          "~"
+        ],
+        [
+          "role-design-enhances-collaborative-knowledge-construction-quality",
+          "~"
+        ],
+        [
+          "role-design-facilitates-higher-order-behavior-transitions",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -19,7 +19,7 @@ sources:
 # Problem Scenario
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (7 for) · 11 studies (3 review, 2 quant-synthesis, 2 theoretical, 1 causal, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 2 of 11 report an effect size · 5 claims rest on one study
+> **Evidence** · 9 claims (7 for, 2 mixed) · 15 studies (4 review, 3 quant-synthesis, 3 theoretical, 2 causal, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 3 of 15 report an effect size · 6 claims rest on one study
 
 ## Description
 A problem scenario places learners inside a structured, realistic situation — a business decision, a patient case, a design brief — that cannot be resolved without applying target knowledge. Unlike a [Case Study](case-study.md), which typically presents how a situation unfolded, a problem scenario is deliberately incomplete: learners must define the problem, gather or request information, and commit to decisions with consequences.

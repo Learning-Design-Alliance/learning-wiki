@@ -82,10 +82,14 @@
       "members": [
         [
           "rubrics-improve-peer-feedback-quality",
-          "~"
+          "+"
         ],
         [
           "peer-assessment-structured-criteria-improve-learning",
+          "~"
+        ],
+        [
+          "aa-students-passive-users-of-rubrics",
           "~"
         ]
       ]

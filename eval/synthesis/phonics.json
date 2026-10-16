@@ -7,6 +7,22 @@
       "question": "Does systematic phonics teaching improve reading more than unsystematic, no or other phonics-light teaching, and for which readers?",
       "members": [
         [
+          "synthetic-phonics-group-better-overall-outcomes",
+          "+"
+        ],
+        [
+          "synthetic-phonics-boys-better-word-reading",
+          "~"
+        ],
+        [
+          "analytic-phonics-boys-inferior-spelling-comprehension",
+          "~"
+        ],
+        [
+          "wilson-reading-system-no-discernible-comprehension-effects",
+          "~"
+        ],
+        [
           "structured-literacy-interventions-help-struggling-readers",
           "~"
         ]

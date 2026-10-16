@@ -1,0 +1,70 @@
+{
+  "principle": "elements/final-exam",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "test-anxiety-negative-exam-performance",
+      "question": "Does anxiety about the end-point test lower the scores it records, and do the test's conditions change that?",
+      "members": [
+        [
+          "math-anxiety-degrades-performance",
+          "+"
+        ],
+        [
+          "proctored-online-exams-increase-test-anxiety",
+          "~"
+        ],
+        [
+          "expressive-writing-improves-exam-performance",
+          "~"
+        ],
+        [
+          "higher-anxiety-is-associated-with-smaller-testing-effects",
+          "~"
+        ],
+        [
+          "low-stress-tbl-higher-isat-scores",
+          "~"
+        ],
+        [
+          "low-stress-tbl-lower-stress-frustration",
+          "~"
+        ],
+        [
+          "contextual-factors-increase-test-anxiety",
+          "~"
+        ],
+        [
+          "proctoring-no-effect-exam-performance",
+          "~"
+        ],
+        [
+          "familiarity-no-effect-test-anxiety",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "cheatsheet-type-no-significant-performance-difference",
+      "question": "Should learners take a cheat sheet or notes into the final, and does making their own sheet help?",
+      "members": [
+        [
+          "cheatsheets-boost-confidence-efficiency",
+          "~"
+        ],
+        [
+          "self-created-cheatsheets-longer-midterm-prep-time-only",
+          "~"
+        ],
+        [
+          "cheatsheet-continuous-reference-dominant-usage",
+          "~"
+        ],
+        [
+          "closed-book-versions-of-quizzes-and-concept-maps-outperform-open-book-versions",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

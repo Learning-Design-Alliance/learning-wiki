@@ -13,7 +13,7 @@ generated:
 # Performance Support
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 12 studies (4 review, 3 causal, 2 quant-synthesis, 2 theoretical, 1 associational), `q1`–`q4` · 2 of 12 report an effect size · 2 claims rest on one study
+> **Evidence** · 7 claims (5 for, 2 mixed) · 16 studies (5 review, 4 theoretical, 3 causal, 2 quant-synthesis, 1 associational, 1 qualitative), `q1`–`q4` · 2 of 16 report an effect size · 2 claims rest on one study
 
 ## Description
 Performance support delivers just-in-time, task-specific guidance — job aids, checklists, embedded wizards, tooltips, decision trees — at the moment a learner attempts a task, rather than requiring the task to be recalled from memory. It functions as externalized knowledge: the system or artifact carries procedural detail so the performer can act competently before full mastery is achieved.

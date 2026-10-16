@@ -62,14 +62,15 @@ Using the same isomorphic-question-pair clicker technique, this study compared t
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does discussing a committed answer with peers improve a later individual answer on a new question?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **4 distinct studies** (2 causal, 1 associational, 1 design), `q2`–`q3`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does discussing a committed answer with peers improve a later individual answer on a new question?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **5 distinct studies** (3 causal, 1 design, 1 associational), `q2`–`q3`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Smith et al. 2009](https://doi.org/10.1126/science.1165919) | q2 · causal · r? | i? | this claim |
 | [Smith et al. 2011](https://doi.org/10.1187/cbe.10-08-0101) | q2 · causal · r? | i? | this claim |
-| [Dana L. Kirkwood-Watts 2022](https://doi.org/10.1128/jmbe.00038-22) | q3 · associational · r2 | i? | [Students answering both clicker votes correctly score significantly higher on isomorphic e](correct-correct-clicker-pattern-higher-exam-performance.md) (qualifies); [Clicker participation and homework completion each significantly predict performance on is](clicker-participation-and-homework-completion-predict-exam-performance.md) (qualifies) |
+| Crouch 2003 | q2 · causal · r1 | i? | [Switching introductory physics lectures from traditional instruction to Peer Instruction d](fci-gain-increased-peer-instruction-harvard.md) (supports) |
 | Miller 2013 | q2 · design · r2 | i? | [Students attributed improved understanding to the discussion process of the implementation](learning-attributed-to-process-not-technology.md) (supports) |
+| [Dana L. Kirkwood-Watts 2022](https://doi.org/10.1128/jmbe.00038-22) | q3 · associational · r2 | i? | [Students answering both clicker votes correctly score significantly higher on isomorphic e](correct-correct-clicker-pattern-higher-exam-performance.md) (qualifies); [Any clicker participation outperforms absence on exam questions, but the lowest quartile s](any-clicker-pattern-beats-absence-except-lowest-quartile.md) (qualifies); [Clicker vote patterns show no significant effect on homework explanation quality, though c](clicker-vote-patterns-null-on-homework-explanations.md) (qualifies); [Clicker participation and homework completion each significantly predict performance on is](clicker-participation-and-homework-completion-predict-exam-performance.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

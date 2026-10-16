@@ -41,11 +41,12 @@ The review reports Ball et al. (2022), showing that permitting offloading remove
 
 ## Discussion
 
-
 ## Learner Variables
 - [Working Memory](../learner-variables/working-memory.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [Studies disagree on whether low or high working memory learners benefit more from retrieval practice, and several find no relationship](relation-between-working-memory-and-retrieval-practice-benefit-is-inconsistent.md) — the general claim this finding bears on, with the studies behind it
 - [Strategy perseveration: prior offloading experience biases later offloading choices](strategy-perseveration-offloading.md) — related
 - [Metacognitive confidence triggers intention offloading independently of objective memory need](metacognition-triggers-offloading.md) — related
 - [Developmental change in offloading reflects metacognitive control, not knowledge](child-development-offloading-selectivity.md) — related

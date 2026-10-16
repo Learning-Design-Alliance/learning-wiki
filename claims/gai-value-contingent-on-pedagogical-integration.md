@@ -39,6 +39,22 @@ Narrative synthesis of prior GAI-in-education literature in the introduction. Th
 
 > "Across both experimental and review-based studies, there is broad agreement that GAI can enhance learning when embedded within appropriate pedagogical designs. However, without explicit instructional and assessment structures, the use of GAI may undermine effortful cognitive processing and reflective engagement."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does a technology's benefit come from the technology or from the pedagogy it is used within?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **7 distinct studies** (3 theoretical, 3 causal, 1 review), `q1`–`q3`, 1 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Lorna Uden · Gwo-Jen Hwang 2026](https://doi.org/10.1007/s40692-026-00398-x) | q2 · theoretical · r2 | i? | this claim |
+| [Wong 2026](https://doi.org/10.1007/s10648-026-10118-7) | q3 · causal · r3 | i0 · negligible difference on the unassisted task, d = 0.04 (the assisted-task d = 0.79 is not what this code reads) | [Free ChatGPT use boosts originality on the assisted creative task but the advantage disapp](chatgpt-free-use-originality-gains-vanish-unassisted.md) (qualifies) |
+| [Halani 2026](https://doi.org/10.35542/osf.io/t4cd2_v1) | q2 · theoretical · r2 | i? | [Free ChatGPT use boosts originality on the assisted creative task but the advantage disapp](chatgpt-free-use-originality-gains-vanish-unassisted.md) (qualifies) |
+| [Rummel 2026](https://doi.org/10.48550/arxiv.2609.09856) | q1 · theoretical · r2 | i? | [Fully offloading schoolwork to generative AI without personal input forgoes meaningful eng](full-ai-offloading-forgoes-engagement-and-skills.md) (supports); [Substituting tasks with generative AI may promote inclusion and free time for more demandi](ai-substitution-inclusion-and-time-tradeoffs.md) (qualifies) |
+| Vargas 2024 | q2 · review · r2 | i? | [Immersive technologies such as virtual reality should reinforce, not substitute, the origi](vr-reinforcement-not-substitute.md) (supports) |
+| [Brewe 2007](https://doi.org/10.48550/arxiv.0709.2738) | q2 · causal · r1 | i? | [The authors of one physics-course study attribute its technology-supported gains to the st](lab-technology-gains-depend-on-active-engagement-pedagogy.md) (supports) |
+| Dynarski 2007 | q3 · causal · r? | i? | [After one year, reading and mathematics software products did not increase or decrease tes](edtech-software-null-average-test-score-effects-year-one.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

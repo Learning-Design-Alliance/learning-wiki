@@ -1,0 +1,108 @@
+{
+  "principle": "theories/expectancy-value-framework-for-teacher-ai-use-motivation",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "teacher-expectancy-beliefs-shape-motivation-to-use-ai",
+      "question": "Do teachers who are more confident they can use AI well (expectancy) hold more favourable attitudes towards it and use it more?",
+      "members": [
+        [
+          "confidence-predicts-ai-attitudes-support-direct-effect-null",
+          "+"
+        ],
+        [
+          "confidence-fully-mediate-support-attitude-relationship",
+          "+"
+        ],
+        [
+          "institutional-support-predicts-teacher-ai-confidence",
+          "~"
+        ],
+        [
+          "self-efficacy-predicts-usefulness-ease-genai",
+          "+"
+        ],
+        [
+          "self-efficacy-drives-perceived-enjoyment-genai",
+          "+"
+        ],
+        [
+          "pedagogical-ai-competence-associated-with-ai-use",
+          "+"
+        ],
+        [
+          "teacher-digital-competence-critical-ai-adoption",
+          "+"
+        ],
+        [
+          "ai-knowledge-attitudes-not-significant-predictors",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "teacher-utility-value-increases-motivation-to-use-ai",
+      "question": "Do teachers who see AI as useful, enjoyable or important to their work intend to use it more, and does that intention become use?",
+      "members": [
+        [
+          "teacher-attainment-value-increases-motivation-to-use-ai",
+          "+"
+        ],
+        [
+          "teacher-intrinsic-interest-value-increases-motivation-to-use-ai",
+          "+"
+        ],
+        [
+          "enjoyment-predicts-attitude-ease-intention-genai",
+          "+"
+        ],
+        [
+          "attitude-predicts-intention-genai",
+          "+"
+        ],
+        [
+          "focal-task-demand-associated-teacher-ai-adoption",
+          "+"
+        ],
+        [
+          "task-relative-demand-predicts-task-specific-ai-use",
+          "+"
+        ],
+        [
+          "positive-attitudes-pbc-intentions-ai-pre-service-teachers",
+          "+"
+        ],
+        [
+          "intention-practice-gap-ai-use-ghanaian-pre-service-teachers",
+          "~"
+        ],
+        [
+          "insight-training-increases-perceived-usefulness-ai",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "teacher-perceived-cost-reduces-motivation-to-use-ai",
+      "question": "Do perceived costs and risks of AI (effort, output quality, threats to students' thinking) hold teachers back from using it?",
+      "members": [
+        [
+          "risk-aversion-significant-in-genai-adoption",
+          "+"
+        ],
+        [
+          "faculty-ai-optout-shata-2025",
+          "+"
+        ],
+        [
+          "teacher-interviews-obstacles-and-pd-needs",
+          "+"
+        ],
+        [
+          "teacher-concerns-do-not-moderate-support-effects",
+          "-"
+        ]
+      ]
+    }
+  ]
+}

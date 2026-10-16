@@ -1,0 +1,48 @@
+{
+  "principle": "theories/exponential-forgetting-curve-with-item-difficulty",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "memory-features-improve-fit-for-fact-learning-datasets",
+      "question": "Does a learner model that tracks memory decay since the last review predict recall better than one that ignores it, and for which kinds of material?",
+      "members": [
+        [
+          "delay-term-improves-exponential-forgetting-curve-recall-prediction",
+          "+"
+        ],
+        [
+          "exponential-forgetting-models-with-delay-perform-comparably-to-1pl-irt",
+          "~"
+        ],
+        [
+          "leitner-deck-position-predicts-recall-better-than-review-count",
+          "~"
+        ],
+        [
+          "item-specific-difficulty-helps-only-at-low-and-high-leitner-decks",
+          "~"
+        ],
+        [
+          "ppe-best-fitting-andes-physics",
+          "+"
+        ],
+        [
+          "recency-weighting-models-better-assistments-kdd",
+          "~"
+        ],
+        [
+          "simpler-models-sufficient-for-tone-learning",
+          "-"
+        ],
+        [
+          "no-single-learner-model-best-across-datasets",
+          "~"
+        ],
+        [
+          "no-single-knowledge-tracing-model-is-always-best",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

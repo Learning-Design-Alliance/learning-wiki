@@ -63,7 +63,7 @@ Low-achieving Nigerian senior-secondary students (n=127, two intact classes) wer
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does teaching learners to check their own work during a task improve their performance on it?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **9 distinct studies** (4 quant-synthesis, 2 causal, 2 review, 1 theoretical), `q2`–`q4`, 2 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does teaching learners to check their own work during a task improve their performance on it?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **10 distinct studies** (4 quant-synthesis, 2 causal, 2 review, 1 theoretical, 1 associational), `q2`–`q4`, 2 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -76,6 +76,7 @@ Low-achieving Nigerian senior-secondary students (n=127, two intact classes) wer
 | [Scheibel et al. 2023](https://doi.org/10.1177/01626434221085554) | q3 · quant-synthesis · r1 | i? | [Self Monitoring Improves On Task Behavior](self-monitoring-improves-on-task-behavior.md) (qualifies) |
 | [McDougall et al. 2015](https://doi.org/10.64546/jaasep.289) | q3 · quant-synthesis · r? | i? | [Self Monitoring Improves On Task Behavior](self-monitoring-improves-on-task-behavior.md) (qualifies) |
 | [Bellhäuser 2022](https://doi.org/10.3389/fpsyg.2022.813381) | q3 · causal · r2 | i? | [A daily learning diary alone (Group D) did not produce statistically significant pre-post ](learning-diary-alone-no-significant-srl-gains-online-math-prep-course.md) (qualifies) |
+| Lallé 2017 | q2 · associational · r1 | i? | [No behavioral measure of compliance with MetaTutor's stay-on-page and move-to-next-page pr](no-learning-effect-for-metacognitive-monitoring-prompts.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

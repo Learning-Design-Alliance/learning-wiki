@@ -7,6 +7,22 @@
       "question": "Does spreading study or practice over sessions improve later retention more than massing the same amount of it?",
       "members": [
         [
+          "larger-spacing-better-interleaved-induction",
+          "+"
+        ],
+        [
+          "spacing-interleaving-subadditive-interaction",
+          "~"
+        ],
+        [
+          "spacing-lag-function-shape-depends-on-cue-bias-and-retention-interval",
+          "~"
+        ],
+        [
+          "spaced-retrieval-improves-retention",
+          "+"
+        ],
+        [
           "spaced-retrieval-outperforms-restudy",
           "+"
         ],
@@ -41,6 +57,38 @@
         [
           "spaced-interleaved-homework-practice",
           "+"
+        ],
+        [
+          "spaced-retrieval-multiyear-vocabulary-retention",
+          "+"
+        ],
+        [
+          "retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent",
+          "~"
+        ],
+        [
+          "spaced-beats-massed-and-control-financial-knowledge",
+          "+"
+        ],
+        [
+          "spacing-improves-final-test-performance",
+          "+"
+        ],
+        [
+          "spacing-benefits-diverse-learning-educational-settings",
+          "+"
+        ],
+        [
+          "contextual-spacing-effect-survives-orienting-tasks",
+          "+"
+        ],
+        [
+          "expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules",
+          "~"
+        ],
+        [
+          "distributed-practice-limits-l2",
+          "~"
         ]
       ]
     },
@@ -50,7 +98,7 @@
       "members": [
         [
           "isi-effect-nonmonotonic-joint-retention-interval",
-          "~"
+          "+"
         ],
         [
           "distributed-practice-limits-l2",
@@ -62,10 +110,18 @@
         ],
         [
           "spaced-practice-benefit-reflects-transfer-not-item-memorization",
-          "+"
+          "~"
         ],
         [
           "relearning-confound-distributed-practice-designs",
+          "~"
+        ],
+        [
+          "optimal-spacing-intervals-maximize-retention",
+          "+"
+        ],
+        [
+          "spacing-lag-function-shape-depends-on-cue-bias-and-retention-interval",
           "~"
         ]
       ]
@@ -74,6 +130,10 @@
       "hub": "total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished",
       "question": "Should the gaps expand, stay equal, or contract?",
       "members": [
+        [
+          "expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules",
+          "+"
+        ],
         [
           "expanding-versus-uniform-retrieval-no-difference",
           "+"
@@ -84,14 +144,18 @@
         ],
         [
           "expanding-isis-better-than-fixed-tentative",
-          "~"
+          "-"
         ],
         [
           "two-week-uniform-spacing-greatest-benefit",
-          "~"
+          "+"
         ],
         [
           "standard-two-week-spacing-significant-over-baseline",
+          "+"
+        ],
+        [
+          "optimal-leitner-schedule-expands-intervals-between-reviews",
           "~"
         ]
       ]
@@ -135,8 +199,16 @@
       "question": "Will learners space their study on their own?",
       "members": [
         [
+          "learners-misjudge-effective-learning-strategies",
+          "+"
+        ],
+        [
           "transfer-practice-timing-mismatch-delayed-review",
           "~"
+        ],
+        [
+          "learners-underuse-effective-learning-strategies",
+          "+"
         ]
       ]
     }

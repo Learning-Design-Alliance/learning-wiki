@@ -41,10 +41,11 @@ ANOVA with Tukey's HSD on post-task Intrinsic Motivation Inventory responses fro
 
 ## Discussion
 
-
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [GenAI-assisted education produces significantly higher learning motivation than non-GenAI approaches (g = 0.81)](genai-learning-motivation-g081.md) — the general claim this finding bears on, with the studies behind it
 - [Checklist tool use significantly increases Evaluation processes, an effect not observed in the ChatGPT and human-expert groups](checklist-tools-increase-evaluation-processes.md) — related
 - [No significant group differences in knowledge gain or knowledge transfer despite ChatGPT's task-performance advantage](no-knowledge-gain-transfer-difference-genai.md) — related

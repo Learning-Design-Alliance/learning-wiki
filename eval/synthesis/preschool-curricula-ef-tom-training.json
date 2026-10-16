@@ -1,0 +1,50 @@
+{
+  "principle": "principles/preschool-curricula-ef-tom-training",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "ef-significant-effect-semantic-fluency-preschool",
+      "question": "Do young children's executive functions (and theory of mind) predict their language and early academic skills?",
+      "members": [
+        [
+          "pass-both-ef-tom-higher-semantic-fluency",
+          "+"
+        ],
+        [
+          "tom-marginal-non-significant-semantic-fluency",
+          "~"
+        ],
+        [
+          "no-ef-tom-interaction-semantic-fluency",
+          "~"
+        ],
+        [
+          "ef-predicts-preschool-math-growth",
+          "+"
+        ],
+        [
+          "task-orientation-partially-mediates-ef-math",
+          "+"
+        ],
+        [
+          "pretest-cognitive-flexibility-predicts-decoding-gains-compensates-alphabet",
+          "+"
+        ],
+        [
+          "early-delay-of-gratification-predicts-later-outcomes",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "false-belief-training-no-language-effect",
+      "question": "Does training executive function or theory of mind in early childhood improve language and literacy?",
+      "members": [
+        [
+          "embedded-cognitive-flexibility-no-overall-advantage-winter-kindergarten",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

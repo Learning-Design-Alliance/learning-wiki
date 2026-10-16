@@ -59,12 +59,30 @@ The same case analysis notes non-linear progress: Marcus sometimes "reverted to 
 
 > "It is important to note that Marcus’ progress was not linear; some of his responses were enhanced following feedback from the clinical instructor."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does requiring learners to revise and resubmit after feedback improve the work, and when do repeated resubmissions stop helping?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **2 distinct studies** (1 design, 1 causal), `q1`–`q3`, 1 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Janis 2025](https://doi.org/10.69772/jes.8.3.1) | q1 · design · r3 | i? | this claim |
+| [Jie Cao 2026](https://doi.org/10.48550/arxiv.2604.07469) | q3 · causal · r2 | i1; i? | [Layered AI feedback led to significantly more tasks requiring three or more submissions, w](layered-feedback-more-tasks-three-plus-submissions.md) (qualifies); [A negative behavioral path through frequent resubmissions counteracted the affective benef](negative-behavioral-path-submissions-mediation.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 Both entries are one qualitative case analysis (Janis et al. 2025) of individual teacher candidates' weekly submissions, with no comparison condition. The improvement is shown for one candidate (Marcus), and was partial and non-linear; another candidate (Alice) did not improve on attending to individual students. The page is therefore an illustration of how the feedback worked in one clinical course, not evidence that it moves candidates in general.
 
-
 ## Related Claims
+
+- [Students' argumentative essay quality improves substantially from initial to revised drafts regardless of feedback source](essay-quality-improves-from-initial-to-revised.md) — the general claim this finding bears on, with the studies behind it
+
+- [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — the general claim this finding bears on, with the studies behind it
+
+- [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — the general claim this finding bears on, with the studies behind it
+
+- [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [In a qualitative case study of three social-studies teacher candidates, pedagogical judgment appeared to grow over a clinical semester of structured, iterative support aligned to rubric competencies](structured-iterative-support-improves-pedagogical-judgment.md) — a broader claim this one bears on
 - [Revised post-teaching prompts (RPTAA) advanced candidates' capacity for more sophisticated analysis compared with the original prompts (PTAA)](revised-prompts-advance-sophisticated-analysis.md) — related
 - [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — a broader claim this one bears on

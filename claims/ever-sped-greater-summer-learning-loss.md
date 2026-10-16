@@ -41,8 +41,9 @@ Seasonal growth analysis of the 4,228-student cohort, assessed up to three times
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Summer learning loss is common but not inevitable among K-12 students](summer-slide-common-but-not-inevitable.md) — the general claim this finding bears on, with the studies behind it
 - [Ever-SPED students grew more than never-SPED students during the 1st and 2nd grade school years in math and the 1st, 3rd, and 4th grade school years in reading](ever-sped-faster-school-year-growth-later-grades.md) — related
 - [Test score disparities between ever-SPED and never-SPED students grew from under 0.4 standard deviations in kindergarten to 0.9 standard deviations in 4th grade](sped-score-gap-grows-04-to-09-sd.md) — related
 - [Ever-SPED students started kindergarten with lower math and reading scores and grew less than never-SPED students during the kindergarten school year](ever-sped-lower-kindergarten-start-less-growth.md) — related

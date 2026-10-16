@@ -41,11 +41,12 @@ Planned comparisons following the MANCOVA in the quasi-experiment of 218 student
 
 ## Discussion
 
-
 ## Learner Variables
 - [Domain Context](../learner-variables/domain-context.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](personalized-problem-contexts-boost-engagement-grades-4-8.md) — the general claim this finding bears on, with the studies behind it
 - [The generative AI relevance intervention did not significantly increase students' interest in the math class](ai-relevance-intervention-no-interest-effect.md) — related
 - [Interviews indicate individualized AI-generated identity-based relevance was perceived as overly abstract, while collective AI dialogue connected math to current concerns and cross-domain applications](ai-relevance-perceptions-abstract-versus-proximal.md) — related
 - [A collective generative AI relevance intervention significantly improved high school students' relevance as identification with math immediately after the intervention compared with a control group](collective-ai-intervention-improves-relevance-identification-math.md) — related

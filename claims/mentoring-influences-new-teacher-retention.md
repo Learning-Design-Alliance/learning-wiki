@@ -40,6 +40,25 @@ The monograph describes mentoring as a variant of clinical supervision involving
 
 > "Research studies (reviewed by Kling and Brookhart 1991) have found that mentoring has a strong influence on new teachers' decision to stay in or leave the profession."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does mentoring and induction support for new teachers keep them in teaching?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **10 distinct studies** (4 review, 3 causal, 2 associational, 1 design), `q1`–`q3`, 0 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Gall 1994 | q2 · review · r2 | i? | this claim |
+| [Darling-Hammond 2023](https://doi.org/10.54300/649.892) | q2 · review · r2 | i? | [New teachers who receive little mentoring are twice as likely to leave the classroom as we](mentoring-halves-new-teacher-attrition.md) (supports) |
+| Equitable & Inclusive Hiring Practices: A Reference Guide of Strategies to Grow & Diversify the Educator Workforce 2023 | q1 · design · r1 | i? | [High-quality induction and mentoring programs are reported to reduce new-teacher attrition](mentoring-coaching-reduce-teacher-attrition.md) (supports) |
+| [Podolsky 2016](https://doi.org/10.54300/262.960) | q2 · review · r2 | i? | [Comprehensive induction supports keep new teachers in teaching at more than twice the rate](comprehensive-induction-doubles-novice-retention.md) (supports) |
+| Cook-Harvey 2016 | q2 · review · r1 | i? | [Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of u](teacher-preparation-mentoring-retention.md) (supports) |
+| Lura Forcum and William Harms 2005 | q2 · associational · r? | i? | [Strong mentoring is linked to novice elementary teachers being 25 percentage points more l](strong-mentoring-25-point-retention-plan-elementary.md) (supports); [Combining intensive mentoring with other supports is associated with the largest retention](combined-mentoring-supports-largest-retention-gain.md) (supports) |
+| Steven Glazerman 2008 | q3 · causal · r? | i? | [Comprehensive teacher induction did not increase teacher retention during the first year o](comprehensive-induction-no-retention-gain-first-year.md) (counts against) |
+| Steven Glazerman 2009 | q2 / q3 · causal · r? | i? | [Comprehensive teacher induction did not increase teacher retention during the first year o](comprehensive-induction-no-retention-gain-first-year.md) (counts against); [TAP teachers were five percentage points more likely to return to their schools than non-T](tap-raises-teacher-retention-five-points.md) (qualifies) |
+| Eric Isenberg 2009 | q3 · causal · r? | i? | [Comprehensive teacher induction did not measurably increase the percentage of teachers rem](comprehensive-induction-no-retention-gains-year-two.md) (counts against) |
+| Brodersen 2025 | q2 · associational · r2 | i? | [No statistically significant mentoring–retention relationships emerged in districts with a](no-mentoring-retention-relationships-by-district-subgroups.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

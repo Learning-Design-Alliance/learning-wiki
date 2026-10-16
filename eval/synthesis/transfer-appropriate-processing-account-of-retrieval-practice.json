@@ -1,0 +1,94 @@
+{
+  "principle": "theories/transfer-appropriate-processing-account-of-retrieval-practice",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "format-consistency-moderates-classroom-testing-effect",
+      "question": "Should practice before the assessment match the assessed task's format and level?",
+      "members": [
+        [
+          "hocs-clickers-improve-locs-exam-performance",
+          "~"
+        ],
+        [
+          "semester-cohort-difference-hocs-exams",
+          "~"
+        ],
+        [
+          "tap-identical-formats-stronger-effect",
+          "+"
+        ],
+        [
+          "practice-test-format-moderates-effect",
+          "~"
+        ],
+        [
+          "retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats",
+          "-"
+        ],
+        [
+          "less-initial-retrieval-support-produces-better-retention",
+          "-"
+        ],
+        [
+          "tap-theory-mixed-empirical-support",
+          "~"
+        ],
+        [
+          "production-vs-recognition-retrieval-practice-no-significant-difference-reading-comprehension",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "retrieval-practice-improves-transfer",
+      "question": "Does the benefit carry to new questions, inferences and applications, or only to the items practised?",
+      "members": [
+        [
+          "practice-tests-aid-retention-and-transfer",
+          "+"
+        ],
+        [
+          "testing-yields-transfer-versus-reexposure-control-d-040",
+          "+"
+        ],
+        [
+          "transfer-greatest-test-formats-application-inference-medical-mediator-cues",
+          "+"
+        ],
+        [
+          "transfer-weakest-rearranged-untested-materials-worked-examples",
+          "~"
+        ],
+        [
+          "retrieval-practice-improves-final-inference-and-transfer-questions",
+          "+"
+        ],
+        [
+          "retrieval-induced-facilitation-of-nontested-text-material-requires-relational-encoding",
+          "~"
+        ],
+        [
+          "mediator-cued-final-test-effects-of-retrieval-practice-may-be-small",
+          "~"
+        ],
+        [
+          "retrieval-practice-lower-order-questions-outscore-higher-order-questions",
+          "~"
+        ],
+        [
+          "retrieval-format-by-levels-of-thinking-interaction-not-significant",
+          "~"
+        ],
+        [
+          "learning-techniques-smaller-effects-on-deep-learning-and-far-transfer",
+          "~"
+        ],
+        [
+          "moderators-congruency-elaborated-retrieval-initial-test-performance",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

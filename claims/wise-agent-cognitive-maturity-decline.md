@@ -41,11 +41,12 @@ Paired-sample t-test on the cohort's Cognitive Maturity sub-dimension scores pre
 
 ## Discussion
 
-
 ## Learner Variables
 - [Epistemic Beliefs](../learner-variables/epistemic-beliefs.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) — the general claim this finding bears on, with the studies behind it
 - [WISE Agent feedback significantly increased Truth-seeking and CT Self-confidence disposition scores](wise-agent-truth-seeking-self-confidence-gains.md) — related
 - [A three-month WISE Agent intervention did not significantly increase sixth-graders' aggregate critical thinking disposition scores](wise-agent-no-aggregate-ct-gain.md) — related
 - [HOTS-oriented teaching improves disposition towards critical thinking subscales including truth-seeking, open-mindedness, self-confidence, and maturity](hots-teaching-improves-ct-dispositions.md) — reports the opposite

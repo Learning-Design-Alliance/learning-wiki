@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 10 studies (5 quant-synthesis, 2 review, 2 associational, 1 causal), `q2`–`q4` · 5 of 10 report an effect size
+> **Evidence** · 6 claims (5 for, 1 mixed) · 12 studies (6 quant-synthesis, 2 causal, 2 review, 2 associational), `q2`–`q4` · 6 of 12 report an effect size
 
 ## Description
 Metacognition is the element in which learners monitor, explain, and regulate their own thinking.

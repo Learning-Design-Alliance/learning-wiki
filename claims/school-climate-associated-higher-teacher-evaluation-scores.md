@@ -41,8 +41,9 @@ Observational finding from the REACH Students report: "teachers in schools with 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [A more positive school climate is related to improved academic achievement beyond socioeconomic status](positive-school-climate-linked-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Schools with higher suspension rates have worse climates for learning, even compared to schools serving similar student populations](high-suspension-rates-worse-school-climate.md) — related
 - [Teachers with the lowest value-added and observation scores are overrepresented in schools serving the most disadvantaged students](lowest-scoring-teachers-overrepresented-in-highest-poverty-schools.md) — related
 - [Insight survey domain averages are more stable across years when a school keeps the same leader, suggesting principals affect these measures](insight-domain-stability-same-leader.md) — related

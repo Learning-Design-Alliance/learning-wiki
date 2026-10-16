@@ -25,6 +25,10 @@
         [
           "feedback-timing-post-session-debrief-preference",
           "~"
+        ],
+        [
+          "debriefing-psychometric-instruction-valued",
+          "+"
         ]
       ]
     }

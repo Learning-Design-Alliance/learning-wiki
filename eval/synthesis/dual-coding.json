@@ -7,6 +7,18 @@
       "question": "Does pairing the words with a relevant visual of the same idea improve learning over the words alone, and for whom?",
       "members": [
         [
+          "multimedia-principle-improves-learning",
+          "+"
+        ],
+        [
+          "seductive-details-effect",
+          "~"
+        ],
+        [
+          "expertise-reversal-iconic-scaffolds-development",
+          "~"
+        ],
+        [
           "media-combinations-affect-recall-and-retention",
           "+"
         ],
@@ -20,10 +32,6 @@
         ],
         [
           "graphic-organizers-support-novice-comprehension",
-          "~"
-        ],
-        [
-          "seductive-details-effect",
           "~"
         ]
       ]
@@ -54,6 +62,22 @@
         ],
         [
           "heavy-cognitive-demands-of-mapping-can-be-counterproductive",
+          "~"
+        ],
+        [
+          "graphic-organizers-support-novice-comprehension",
+          "+"
+        ],
+        [
+          "conceptual-map-scaffolding-reduces-novice-variance",
+          "+"
+        ],
+        [
+          "interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated",
+          "~"
+        ],
+        [
+          "teacher-initiated-and-student-mediated-mapping-no-difference",
           "~"
         ]
       ]

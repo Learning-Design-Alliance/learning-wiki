@@ -60,11 +60,14 @@ Omnibus MANCOVA on post relevance as identification and post math class interest
 
 ## Discussion
 
-
 ## Learner Variables
 - [Domain Context](../learner-variables/domain-context.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — the general claim this finding bears on, with the studies behind it
+
+- [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](personalized-problem-contexts-boost-engagement-grades-4-8.md) — the general claim this finding bears on, with the studies behind it
 - [The generative AI relevance intervention did not significantly increase students' interest in the math class](ai-relevance-intervention-no-interest-effect.md) — related
 - [The individualized generative AI condition showed no significant effect on relevance as identification with math compared with the control group or the collective condition](individual-ai-condition-no-significant-relevance-effect.md) — related
 - [The collective generative AI intervention's effect on relevance as identification with math persisted one week later through its immediate effect](collective-ai-relevance-effect-sustained-one-week.md) — related

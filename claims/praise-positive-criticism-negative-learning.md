@@ -44,4 +44,6 @@ The paper cites Rosenshine and Furst's research on teacher performance criteria,
 
 ## Related Claims
 
+- [Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children](contingency-reinforcement-raises-achievement.md) — the general claim this finding bears on, with the studies behind it
+
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — the general claim this finding bears on, with the studies behind it

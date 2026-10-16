@@ -41,11 +41,12 @@ Exploratory subgroup analysis of device type (mobile device k = 15; personal com
 
 ## Discussion
 
-
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [GenAI-assisted education produces significantly higher learning motivation than non-GenAI approaches (g = 0.81)](genai-learning-motivation-g081.md) — the general claim this finding bears on, with the studies behind it
 - [The motivational effect of GenAI is larger in higher education than in primary and secondary education (exploratory)](genai-motivation-effect-larger-university-than-school.md) — related
 - [GenAI's motivational effect is larger in collectivistic than individualistic cultural contexts (exploratory)](genai-motivation-effect-larger-collectivist-contexts.md) — related
 - [GenAI function, intervention duration, publication year, and gender were not significant moderators of GenAI's motivational effect](genai-motivation-null-moderators-function-duration-year-gender.md) — related

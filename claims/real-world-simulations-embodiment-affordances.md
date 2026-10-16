@@ -41,8 +41,11 @@ The review reports, citing Dunleavy et al. (2009) and Klopfer and Squire (2008),
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — the general claim this finding bears on, with the studies behind it
+
+- [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related
 - Interactive LRE methods engage students, who value LRE classes as relevant and interesting — related
 - [Embodied and cognitive hands-on rely on different feedback sources and are not educationally equivalent](hands-on-forms-different-feedback-sources.md) — related

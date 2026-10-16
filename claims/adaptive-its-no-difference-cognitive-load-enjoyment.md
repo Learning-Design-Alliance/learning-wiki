@@ -46,6 +46,8 @@ Linear regressions with condition as independent variable and the three self-rep
 
 ## Related Claims
 
+- [Included studies suggest engagement increases when adaptive platform activities are tailored to learners' personal needs and emotional state](adaptivity-emotional-tailoring-increases-engagement.md) — the general claim this finding bears on, with the studies behind it
+
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Latent learner profiles did not moderate the effectiveness of the adaptive ITS](learner-profiles-no-moderation-adaptive-its.md) — related
 - [Conscientiousness exploratorily moderated the effect of ITS condition on subjective difficulty and enjoyment](conscientiousness-moderates-difficulty-enjoyment-adaptive-its.md) — related

@@ -1,0 +1,118 @@
+{
+  "principle": "learner-variables/digital-literacy",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "digital-literacy-gaps-span-demographics",
+      "question": "Do learners who differ in digital literacy differ in learning, engagement and later outcomes?",
+      "members": [
+        [
+          "digital-skill-gaps-earners-nsc",
+          "+"
+        ],
+        [
+          "home-broadband-digital-skill-gap",
+          "+"
+        ],
+        [
+          "racial-digital-skill-gaps-workforce",
+          "+"
+        ],
+        [
+          "technical-competency-associated-lower-distraction",
+          "+"
+        ],
+        [
+          "internet-literacy-lower-test-anxiety",
+          "+"
+        ],
+        [
+          "digital-skills-only-consistent-positive-predictor-ict-aspirations",
+          "+"
+        ],
+        [
+          "lda-moderate-discrimination-ict-aspiration-growth",
+          "+"
+        ],
+        [
+          "digital-competence-predicts-ai-literacy-incrementally",
+          "+"
+        ],
+        [
+          "determinants-selective-across-ai-literacy-subdimensions",
+          "~"
+        ],
+        [
+          "prior-ai-exposure-predicts-chatbot-uptake",
+          "-"
+        ],
+        [
+          "no-perception-differences-by-digital-familiarity-ai-comfort-prior-use",
+          "-"
+        ]
+      ]
+    },
+    {
+      "hub": "ai-literacy-interventions-large-overall-effect",
+      "question": "Does explicit instruction raise learners' AI and digital literacy, and for whom?",
+      "members": [
+        [
+          "ai-literacy-intervention-effects-highly-heterogeneous",
+          "~"
+        ],
+        [
+          "five-moderators-non-significant-ai-literacy",
+          "~"
+        ],
+        [
+          "geographic-region-moderates-ai-literacy-effects",
+          "~"
+        ],
+        [
+          "daily-curriculum-improves-ai-literacy",
+          "+"
+        ],
+        [
+          "both-genders-gain-ai-knowledge-confidence-workshop",
+          "+"
+        ],
+        [
+          "platform-recognition-gains-netflix-spotify",
+          "+"
+        ],
+        [
+          "brief-generative-ai-literacy-training-raises-analyst-image-discrimination-accuracy",
+          "+"
+        ],
+        [
+          "training-gains-across-experience-levels-largest-for-novices",
+          "~"
+        ],
+        [
+          "ai-media-literacy-program-large-posttest-gains",
+          "+"
+        ],
+        [
+          "structured-ai-workflow-dcts-gains-efl",
+          "+"
+        ],
+        [
+          "ai-literacy-warning-halves-ai-political-persuasion",
+          "+"
+        ],
+        [
+          "tbi-outperforms-sbi-ai-literacy-performance",
+          "~"
+        ],
+        [
+          "oet-outperforms-stt-ai-literacy-performance",
+          "~"
+        ],
+        [
+          "checklist-evaluation-ineffective-online",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

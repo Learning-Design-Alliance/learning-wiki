@@ -1,0 +1,92 @@
+{
+  "principle": "elements/check-in",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "assessment-for-learning-improves-achievement",
+      "question": "Does using assessment evidence during instruction raise achievement compared with the usual teaching?",
+      "members": [
+        [
+          "teacher-feedback-moves-learning-forward",
+          "+"
+        ],
+        [
+          "hattie-high-effect-size-instructional-factors",
+          "+"
+        ],
+        [
+          "retention-and-downtracking-undermine-achievement",
+          "+"
+        ],
+        [
+          "formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks",
+          "+"
+        ],
+        [
+          "formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks",
+          "+"
+        ],
+        [
+          "formative-assessment-la-positive-effects",
+          "+"
+        ],
+        [
+          "diagnostic-review-larger-writing-gains",
+          "+"
+        ],
+        [
+          "diagnostic-review-higher-process-indicators",
+          "+"
+        ],
+        [
+          "group-cycle-interactions-formative-outcomes",
+          "~"
+        ],
+        [
+          "tefa-formative-information-changed-lessons",
+          "+"
+        ],
+        [
+          "forms-realtime-formative-assessment-uses",
+          "+"
+        ],
+        [
+          "curricular-knowledge-enables-responsive-instructional-moves",
+          "~"
+        ],
+        [
+          "teacher-customizations-storyline-curriculum",
+          "~"
+        ],
+        [
+          "stem-more-amenable-difficulty-scaling",
+          "~"
+        ],
+        [
+          "clicker-participation-and-homework-completion-predict-exam-performance",
+          "+"
+        ],
+        [
+          "any-clicker-pattern-beats-absence-except-lowest-quartile",
+          "~"
+        ],
+        [
+          "clicker-presence-predicts-homework-explanation-quality",
+          "+"
+        ],
+        [
+          "learning-attributed-to-process-not-technology",
+          "~"
+        ],
+        [
+          "polling-image-identification-82-percent",
+          "~"
+        ],
+        [
+          "probing-feedback-revise-resubmit-evidence",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

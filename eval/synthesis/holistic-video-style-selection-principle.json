@@ -1,0 +1,52 @@
+{
+  "principle": "principles/holistic-video-style-selection-principle",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "guo-video-style-engagement-findings",
+      "question": "Does an instructional video's production style (presenter on screen, drawing or slides, human-recorded or AI-generated, length) change learners' engagement and preferences?",
+      "members": [
+        [
+          "human-embodiment-video-presence-effects",
+          "~"
+        ],
+        [
+          "mooc-video-styles-discipline-clusters",
+          "~"
+        ],
+        [
+          "video-length-mooc-engagement-declines",
+          "+"
+        ],
+        [
+          "mooc-engagement-declines-with-video-length",
+          "+"
+        ],
+        [
+          "human-presence-preference-smaller-than-personalization",
+          "~"
+        ],
+        [
+          "ai-personalized-videos-preferred-over-human-non-personalized",
+          "~"
+        ],
+        [
+          "stable-mean-rank-ordering-four-video-types",
+          "~"
+        ],
+        [
+          "personalized-video-top-choice-88-percent",
+          "~"
+        ],
+        [
+          "students-oppose-ai-videos-replacing-instructors",
+          "+"
+        ],
+        [
+          "students-contextualize-ai-video-appropriateness",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

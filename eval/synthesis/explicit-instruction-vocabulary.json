@@ -71,8 +71,56 @@
       "question": "Does a taught word need repeated, spaced encounters before it is known and kept?",
       "members": [
         [
+          "l1-extensive-reading-drives-vocabulary-growth",
+          "+"
+        ],
+        [
+          "l2-extensive-reading-beats-decontextualized-vocabulary-exercises",
+          "+"
+        ],
+        [
+          "extensive-reading-produces-vocabulary-gains-efl",
+          "+"
+        ],
+        [
+          "little-decay-three-month-delayed-posttest-extensive-reading",
+          "+"
+        ],
+        [
+          "prior-vocabulary-knowledge-moderates-extensive-reading-gains",
+          "~"
+        ],
+        [
+          "informative-contexts-produce-higher-word-meaning-retention",
+          "~"
+        ],
+        [
+          "viewing-vocabulary-learning-affected-by-frequency-prior-knowledge-cognateness",
+          "~"
+        ],
+        [
+          "incidental-vocabulary-exposure-limited",
+          "~"
+        ],
+        [
           "exposure-frequency-predicts-incidental-gains",
           "+"
+        ],
+        [
+          "reading-times-drop-three-four-encounters",
+          "+"
+        ],
+        [
+          "s-shaped-reading-time-decrease-repeated-exposure",
+          "+"
+        ],
+        [
+          "incidental-reading-vocabulary-acquisition-slow-unpredictable",
+          "~"
+        ],
+        [
+          "incidental-acquisition-rate-3-of-20-words",
+          "~"
         ],
         [
           "incidental-vocabulary-retention-problems",

@@ -12,7 +12,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 174 claims (146 for, 23 mixed, 5 against) · 128 studies (78 associational, 20 review, 12 causal, 7 qualitative, 6 theoretical, 3 design, 2 quant-synthesis), `q1`–`q3` · 2 of 128 report an effect size · 172 claims rest on one study
+> **Evidence** · 175 claims (147 for, 23 mixed, 5 against) · 129 studies (78 associational, 21 review, 12 causal, 7 qualitative, 6 theoretical, 3 design, 2 quant-synthesis), `q1`–`q3` · 2 of 129 report an effect size · 173 claims rest on one study
 
 ## Description
 Race and ethnicity are social categories, recorded in most education research from school and census records or from learners' own reports. In the research they appear as a predictor (gaps in achievement, attainment, discipline and access to advanced courses), as a moderator (a programme whose effect differs across groups) and as the population a programme serves. A gap by race or ethnicity describes unequal circumstances and treatment, such as school funding, teacher assignment, tracking and discrimination; it does not describe an ability of the learners. Categories also differ across countries and datasets, so findings rarely transfer unchanged.

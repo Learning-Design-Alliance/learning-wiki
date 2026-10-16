@@ -41,12 +41,13 @@ The two-way ANOVA's interaction term (EF * TOM, df=1) printed in Table 2 shows F
 
 ## Discussion
 
-
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — moderator: an instructional effect differs with it
 - [Executive Function](../learner-variables/executive-function.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](ef-predicts-preschool-math-growth.md) — the general claim this finding bears on, with the studies behind it
 - [Executive function performance significantly predicts semantic fluency in preschool children](ef-significant-effect-semantic-fluency-preschool.md) — related
 - [Preschool children who pass both EF and TOM tests score significantly higher on semantic fluency than children who fail both](pass-both-ef-tom-higher-semantic-fluency.md) — related
 - [Theory of mind effect on semantic fluency in preschool children is statistically non-significant but approaches significance](tom-marginal-non-significant-semantic-fluency.md) — related

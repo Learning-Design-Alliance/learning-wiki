@@ -41,8 +41,9 @@ Analysis of 2020/21 and 2021/22 district-provided screening assessment data from
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Most students identified as significantly below benchmark on early literacy screeners remain significantly below benchmark 1 and 2 years later](significantly-below-benchmark-persists-across-years.md) — the general claim this finding bears on, with the studies behind it
 - [Students at later grade levels were more likely to remain at risk across school years than students at earlier grade levels](cross-grade-risk-persistence.md) — related
 - [Kindergarten students showed the largest BOY-to-EOY decline in significant risk identification, dropping 21 percentage points](kindergarten-largest-risk-decline.md) — possibly the same claim (merge candidate)
 - [The percentage of Massachusetts K–3 students identified as significantly below benchmark decreased from 36 percent at BOY to 29 percent at EOY in 2022/23](ma-literacy-risk-declines-boy-to-eoy.md) — a broader claim this one bears on

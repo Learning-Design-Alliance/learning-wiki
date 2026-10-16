@@ -1,0 +1,32 @@
+{
+  "principle": "elements/summarization-and-synthesis",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "summarization-improves-learning",
+      "question": "Does writing summaries improve learning more than rereading or other study activities, and does training learners to summarize matter?",
+      "members": [
+        [
+          "ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest",
+          "+"
+        ],
+        [
+          "five-techniques-low-utility",
+          "+"
+        ],
+        [
+          "strong-acquisition-tasks-improve-internalization",
+          "+"
+        ],
+        [
+          "no-learning-effect-for-four-explicit-srl-prompts",
+          "+"
+        ],
+        [
+          "revise-summary-compliance-predicts-learning-gains",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

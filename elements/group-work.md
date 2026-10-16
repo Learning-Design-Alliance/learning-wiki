@@ -13,7 +13,7 @@ generated:
 # Group Work
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 6 studies (3 quant-synthesis, 2 qualitative, 1 causal), `q2`–`q4` · 2 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 10 studies (4 quant-synthesis, 2 causal, 2 qualitative, 1 review, 1 theoretical), `q1`–`q4` · 4 of 10 report an effect size · 3 claims rest on one study
 
 ## Description
 Group work is the element in which learners work together on a shared task, product, or problem. It is useful when the task benefits from distributed reasoning, division of labor, or collaborative sensemaking.

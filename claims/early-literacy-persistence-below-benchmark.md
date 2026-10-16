@@ -41,8 +41,9 @@ Descriptive analysis of within-year benchmark trajectories in 2020/21 and 2021/2
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Students from low income, English learner, special education, and several racial/ethnic groups are more likely to be repeatedly identified as significantly below benchmark, with low income students 2.5 times as likely](massachusetts-k3-risk-inequities-student-groups.md) — the general claim this finding bears on, with the studies behind it
 - [K–3 students in Massachusetts grantee schools with the highest percentages of historically marginalized student groups were more likely to be below literacy benchmark at least once and to stay below across the year](marginalized-group-schools-early-literacy-benchmark-gaps.md) — related
 - [Most students identified as significantly below benchmark on early literacy screeners remain significantly below benchmark 1 and 2 years later](significantly-below-benchmark-persists-across-years.md) — related
 - [Economically disadvantaged, English learner, special education, Black, and Hispanic students were more likely than peers to be ever below benchmark](student-group-early-literacy-disparities.md) — related

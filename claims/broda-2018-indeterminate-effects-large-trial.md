@@ -41,8 +41,9 @@ RCT at a public university in Michigan with incoming first-year students blocked
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Aronson et al. (2002) pen-pal growth mindset intervention produced a statistically significant positive effect on quarter GPA (effect size 0.85)](aronson-2002-significant-gpa-effect.md) — related
 - [Yeager et al. (2016) and Fink et al. (2018) found indeterminate effects on enrollment, credit completion, and chemistry final exam scores](yeager-fink-indeterminate-effects.md) — related
 - [DCMP's effect on overall college credits earned was not statistically significant in the RCT](dcmp-college-credits-null-rutschow.md) — related

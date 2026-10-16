@@ -41,11 +41,12 @@ The authors' longitudinal comparison with a nationally normed group reports that
 
 ## Discussion
 
-
 ## Learner Variables
 - [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Math achievement of BVI students lags sighted peers and the gap widens with age](bvi-math-achievement-lags-and-gap-widens.md) — the general claim this finding bears on, with the studies behind it
 - [Little is known about growth in reading for students with visual impairments as they progress through school](reading-growth-visual-impairments-understudied.md) — related
 - [The study compared reading growth for students with visual impairments with a nationally normed group of students from the general population](vi-reading-growth-compared-national-norm-group.md) — related
 - [Students with visual impairments show accelerated reading growth between 9th and 10th grade while the nationally normed group tends to drop](vi-students-accelerated-growth-ninth-tenth-grade.md) — related

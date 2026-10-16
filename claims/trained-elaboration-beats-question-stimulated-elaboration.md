@@ -42,7 +42,8 @@ In the training study, some seventh graders were trained in elaborative processi
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Low reading-group first graders read far fewer words than high-group peers, limiting elaboration](low-group-first-graders-read-few-words.md) — related
 - [Elaborative processing of prose enhances later retrievability, accounting for roughly 30% of variance in one-month recall when original learning is controlled](elaborative-processing-enhances-retrieval.md) — related

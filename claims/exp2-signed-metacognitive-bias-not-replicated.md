@@ -41,11 +41,12 @@ Pre-registered one-way ANOVA with linear contrast on signed metacognitive bias i
 
 ## Discussion
 
-
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — the general claim this finding bears on, with the studies behind it
 - [In Experiment 2, absolute metacognitive bias decreased linearly across the four additive intervention groups, and the full intervention group was significantly less biased than control](exp2-linear-reduction-absolute-metacognitive-bias.md) — related
 - [In Experiment 1, the feedback intervention reduced pre-task signed metacognitive bias (underconfidence) but the group difference did not persist at post-task](feedback-reduces-pretask-metacognitive-bias.md) — related
 - [In Experiment 1, a five-trial metacognitive prediction-plus-feedback intervention significantly reduced reminder bias, producing more optimal reminder-setting behaviour](metacognitive-feedback-reduces-reminder-bias.md) — related

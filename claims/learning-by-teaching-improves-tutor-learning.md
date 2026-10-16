@@ -63,7 +63,7 @@ This meta-analysis synthesised 65 independent evaluations of school tutoring pro
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does preparing to teach a part, and then teaching it, improve the teaching learner's own understanding?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **6 distinct studies** (3 causal, 2 quant-synthesis, 1 associational), `q2`–`q3`, 2 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does preparing to teach a part, and then teaching it, improve the teaching learner's own understanding?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **5 distinct studies** (2 quant-synthesis, 2 causal, 1 associational), `q2`–`q3`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -71,7 +71,6 @@ This meta-analysis synthesised 65 independent evaluations of school tutoring pro
 | [Cohen et al. 1982](https://doi.org/10.3102/00028312019002237) | q3 · quant-synthesis · r? | i? | this claim |
 | [Angxuan Chen 2024](https://doi.org/10.48550/arxiv.2412.15226) | q2 · causal · r1 | i3 | [Students who teach a ChatGPT teachable agent in natural language achieve greater knowledge](chatgpt-teachable-agent-knowledge-gains.md) (supports) |
 | [Xinming Yang 2025](https://doi.org/10.48550/arxiv.2508.05979) | q2 · causal · r1 | i? | [Learning-by-teaching an LLM improved assignment and project performance versus historical ](learning-by-teaching-llm-improves-assignments-projects.md) (qualifies) |
-| Xinming Yang 2025 (2) | q2 · causal · r1 | i? | [Learning-by-teaching an LLM improved assignment and project performance versus historical ](learning-by-teaching-llm-improves-assignments-projects.md) (qualifies) |
 | [Fathima Ameen 2026](https://doi.org/10.1007/s41237-026-00294-9) | q2 · associational · r1 | i? | [Tutors' proportion of knowledge-building responses to an agent's adaptive follow-up questi](kbr-predicts-tutor-posttest-conceptual-procedural.md) (qualifies) |
 <!-- synthesis:end -->
 

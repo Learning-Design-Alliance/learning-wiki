@@ -39,6 +39,26 @@ Narrative review summary of the fundamental models section, with no pooled compa
 
 > "It is crucial to emphasize that, despite deep learning models exhibiting superior performance compared to Bayesian mod- els and logistic models, there remains significant room for improvement in their interpretability and explainability."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*How accurately does BKT predict a learner's next answers, compared with other knowledge-tracing models, and do its assumptions and fitted parameters hold up?* This table gathers the studies behind this claim and the 18 narrower claims that bear on it: **11 distinct studies** (7 design, 1 review, 1 causal, 1 associational, 1 theoretical), `q1`–`q3`, 1 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Shuanghong Shen 2021](https://doi.org/10.48550/arxiv.2105.15106) | q2 · review · r2 | i? | this claim; [The survey reports, citing Pavlik et al., that no single knowledge tracing model was alway](no-single-knowledge-tracing-model-is-always-best.md) (qualifies); [The survey reports, citing Pu and Becker, that removing students' repeated interactions on](attentive-knowledge-tracing-benefits-from-repeated-interactions.md) (qualifies); [The survey reports, citing Lu et al., that xAI-based interpretations of deep knowledge tra](xai-interpretation-of-dkt-enhances-trust.md) (qualifies); [The survey reports, citing Qiu et al., that BKT consistently overestimates the accuracy of](bkt-overestimates-accuracy-after-a-day-elapses.md) (supports) |
+| [Jaewook Kim 2026](https://doi.org/10.48550/arxiv.2605.04727) | q2 · causal · r2 | i? | [Task-specific hyperparameter optimization substantially raises baseline DKT performance, i](task-specific-hyperparameter-tuning-raises-dkt-baseline.md) (qualifies) |
+| [Shuyan Huang 2026](https://doi.org/10.48550/arxiv.2605.01097) | q2 · design · r2 | i? | [Among deep learning KT models, simpler DKT performs comparably to complex architectures un](dkt-comparable-to-complex-kt-architectures.md) (qualifies) |
+| [Hooshyar 2026](https://doi.org/10.48550/arxiv.2604.08263) | q2 · design · r2 | i? | [Responsible-DKT outperforms a neural-symbolic baseline without knowledge injection and a f](responsible-dkt-outperforms-baselines-predictive-accuracy.md) (supports); [Symbolic knowledge injection improves temporal reliability of predictions, yielding lower ](responsible-dkt-temporal-reliability.md) (qualifies) |
+| [Lu 2024](https://doi.org/10.31219/osf.io/3k7z2) | q3 · design · r2 | i2 | [The proposed Transformer-based framework achieved first place in the EDM Cup 2023 with an ](transformer-kt-first-place-edm-cup-2023.md) (supports) |
+| [Haotian Zhang 2026](https://doi.org/10.48550/arxiv.2608.24005) | q3 · design · r2 | i? | [LT-MKT achieves the best performance across all four datasets and all three evaluation met](lt-mkt-outperforms-kt-baselines-four-datasets.md) (supports) |
+| [Alexander Scarlatos 2024](https://doi.org/10.48550/arxiv.2409.16490) | q2 · design · r2 | i? | [DKT-Sem, a DKT variant using semantic text embeddings, performs better than existing KT me](dkt-sem-outperforms-existing-kt-methods-most-with-little-training-data.md) (supports); [Existing KT methods fail to beat a majority-class baseline on the small CoMTA dialogue dat](existing-kt-methods-fail-on-small-comta-but-improve-with-more-data-on-mathdial.md) (qualifies) |
+| [Pardos 2010](https://doi.org/10.1007/978-3-642-13470-8_24) | q2 · design · r2 | i? | [Individualizing the initial knowledge parameter reliably improves prediction of real-world](individualizing-initial-knowledge-improves-prediction.md) (qualifies) |
+| [Wei 2026](https://doi.org/10.3389/fpsyg.2026.1905847) | q2 · associational · r2 | i? | [Per-pitch BKT attains the highest accuracy, lowest BCE and lowest Brier score of the four ](bkt-highest-accuracy-lower-auc-than-irt.md) (qualifies) |
+| [Siddhartha Pradhan 2026](https://doi.org/10.48550/arxiv.2605.23048) | q2 · design · r2 | i? | [On the ASSISTments 2020 dataset, StanBKT inference methods achieve nearly identical predic](stanbkt-methods-comparable-predictive-performance-assistments-2020.md) (qualifies) |
+| [Brett Van de Sande 2013](https://doi.org/10.5281/zenodo.3554629) | q1 / q2 · theoretical · r3 | i? | [The exponential functional form of the BKT HMM calls into question the popular practice of](bkt-hmm-exponential-form-questions-fitting-practice.md) (qualifies); [The identifiability problem of the BKT HMM arises because combinations of P(G) and P(L0) w](bkt-identifiability-explained-by-parameter-a.md) (qualifies); [The HMM form of BKT, solved analytically, is a three-parameter exponential in opportunity ](bkt-hmm-form-is-three-parameter-exponential.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

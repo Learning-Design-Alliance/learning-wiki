@@ -1,0 +1,88 @@
+{
+  "principle": "theories/blooms-taxonomy",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "locs-exam-questions-outperform-hocs",
+      "question": "Are questions at higher Bloom levels harder for learners, as the taxonomy's hierarchy assumes?",
+      "members": [
+        [
+          "retrieval-practice-lower-order-questions-outscore-higher-order-questions",
+          "+"
+        ],
+        [
+          "lower-taxonomy-questions-answered-more",
+          "~"
+        ],
+        [
+          "curvilinear-variance-pattern-across-taxonomy-levels",
+          "~"
+        ],
+        [
+          "llm-difficulty-labels-fail-to-predict-empirical-item-difficulty",
+          "-"
+        ]
+      ]
+    },
+    {
+      "hub": "supervised-bloom-classifiers-degrade-cross-dataset",
+      "question": "Can a model tag questions by Bloom level reliably enough to use the tags in a course?",
+      "members": [
+        [
+          "ml-bloom-classifiers-degrade-ood-aeq",
+          "+"
+        ],
+        [
+          "bloom-signal-dilution-with-text-length",
+          "+"
+        ],
+        [
+          "social-science-generalization-human-agreement",
+          "+"
+        ],
+        [
+          "llms-more-stable-cross-dataset-than-supervised",
+          "~"
+        ],
+        [
+          "in-context-examples-improve-bloom-classification",
+          "~"
+        ],
+        [
+          "llms-robust-ood-bloom-classification",
+          "~"
+        ],
+        [
+          "model-retraining-largest-ood-improvement",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "llm-upward-cognitive-shift-asymmetry",
+      "question": "Can a language model write or rewrite questions at a targeted Bloom level?",
+      "members": [
+        [
+          "tza-higher-versus-lower-bloom-targets",
+          "+"
+        ],
+        [
+          "llm-abstraction-bias-higher-order-overproduction",
+          "+"
+        ],
+        [
+          "cogleap-dominant-fgp-suppresses-regression",
+          "+"
+        ],
+        [
+          "downward-shift-benchmark-dependence",
+          "~"
+        ],
+        [
+          "fgp-improves-catcons-knowcov",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

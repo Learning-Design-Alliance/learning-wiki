@@ -15,15 +15,23 @@
           "~"
         ],
         [
-          "entrepreneur-course-trial-matches-business-majors",
-          "+"
-        ],
-        [
           "part-task-practice-reduces-load-for-novices",
           "~"
         ],
         [
           "skill-develops-through-engagement-not-drill",
+          "+"
+        ],
+        [
+          "entrepreneur-course-trial-matches-business-majors",
+          "+"
+        ],
+        [
+          "authentic-tasks-meaningful-l2-learning",
+          "+"
+        ],
+        [
+          "contextualized-teaching-facilitates-transfer",
           "+"
         ]
       ]
@@ -75,6 +83,18 @@
         [
           "lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples",
           "~"
+        ],
+        [
+          "adaptive-fading-beats-fixed-and-linear-scaffolding",
+          "~"
+        ],
+        [
+          "worked-example-problem-sequences",
+          "+"
+        ],
+        [
+          "expertise-reversal-writing-journal-prompts-fading",
+          "+"
         ]
       ]
     }

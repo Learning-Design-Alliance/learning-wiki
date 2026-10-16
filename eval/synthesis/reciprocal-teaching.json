@@ -1,0 +1,28 @@
+{
+  "principle": "elements/reciprocal-teaching",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "reciprocal-teaching-improves-reading-comprehension",
+      "question": "Does modelling strategies and handing the lead to learners improve reading comprehension, and on which measures?",
+      "members": [
+        [
+          "reciprocal-teaching-raises-reading-comprehension-poor-readers",
+          "+"
+        ],
+        [
+          "self-questioning-improves-comprehension",
+          "+"
+        ],
+        [
+          "multiple-strategy-training-better-comprehension-than-single-strategy",
+          "+"
+        ],
+        [
+          "structured-discussion-methods-improve-comprehension",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

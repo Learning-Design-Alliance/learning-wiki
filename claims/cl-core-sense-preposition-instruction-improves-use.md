@@ -44,6 +44,7 @@ The article reports the experimental study by Tyler, Mueller and Ho (2011), in w
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — the general claim this finding bears on, with the studies behind it
 - [Morphological noticing focuses mainly on verb forms, especially modals, and on preposition choice](morphological-noticing-verb-forms-modals-prepositions.md) — related

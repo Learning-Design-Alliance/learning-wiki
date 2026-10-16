@@ -41,8 +41,9 @@ Report's key findings summary of 2023/24 screening benchmark analysis covering 3
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Most students identified as significantly below benchmark on early literacy screeners remain significantly below benchmark 1 and 2 years later](significantly-below-benchmark-persists-across-years.md) — the general claim this finding bears on, with the studies behind it
 - [Across beginning, middle, and end of year time periods, 52 percent of Massachusetts K–3 grantees' students were ever classified as at any level of reading risk, about 27 percent at the highest risk levels, and 12 to 18 percent as potentially at risk of dyslexia](massachusetts-k3-52-percent-ever-at-risk.md) — related
 - [About one third of Massachusetts K–3 students were identified as significantly below benchmark at least once in 2023/24, with 19 percent identified in all three periods](one-third-k3-significantly-below-benchmark-massachusetts.md) — possibly the same claim (merge candidate)
 - [The percentage of Massachusetts K–3 students identified as significantly below benchmark decreased from 36 percent at BOY to 29 percent at EOY in 2022/23](ma-literacy-risk-declines-boy-to-eoy.md) — related

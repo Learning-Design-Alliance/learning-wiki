@@ -49,6 +49,82 @@
         [
           "adaptive-its-no-difference-cognitive-load-enjoyment",
           "~"
+        ],
+        [
+          "ai-personalized-stem-overall-effect-g0455",
+          "+"
+        ],
+        [
+          "its-mature-implementation-personalized-learning",
+          "+"
+        ],
+        [
+          "personalized-learning-outperforms-standardized-settings",
+          "+"
+        ],
+        [
+          "wileyplus-adaptive-courseware-statistics-outcomes",
+          "+"
+        ],
+        [
+          "adaptive-learning-effect-learning-skills-not-factual-knowledge",
+          "~"
+        ],
+        [
+          "mastery-probability-covariate-ancova-favors-adaptive",
+          "~"
+        ],
+        [
+          "adaptive-mode-per-question-delta-increase-warm-up",
+          "~"
+        ],
+        [
+          "manual-adaptation-slightly-superior-automatic-adaptive-training",
+          "~"
+        ],
+        [
+          "adaptive-mastery-versus-coverage-tension-null-result",
+          "-"
+        ],
+        [
+          "unrestricted-chatbot-higher-learning-delta-than-socratic-and-adaptive",
+          "-"
+        ],
+        [
+          "real-time-feedback-its-solo-progression-advantage",
+          "+"
+        ],
+        [
+          "dda-adaptation-direction-determines-outcomes",
+          "~"
+        ],
+        [
+          "ai-tutor-pace-adaptation-strengthened-engagement",
+          "~"
+        ],
+        [
+          "rl-sequencing-beats-fixed-oral-curriculum",
+          "+"
+        ],
+        [
+          "ai-personalization-benefits-performance-motivation",
+          "+"
+        ],
+        [
+          "mastery-learning-improves-outcomes",
+          "+"
+        ],
+        [
+          "personalized-learning-effects-vary-with-fidelity",
+          "~"
+        ],
+        [
+          "learner-profiles-no-moderation-adaptive-its",
+          "~"
+        ],
+        [
+          "conscientiousness-moderates-difficulty-enjoyment-adaptive-its",
+          "~"
         ]
       ]
     },
@@ -139,6 +215,30 @@
         [
           "expertise-reversal-effect",
           "~"
+        ],
+        [
+          "fading-support-promotes-transfer-of-responsibility",
+          "+"
+        ],
+        [
+          "coach-guided-relearning-beats-static",
+          "+"
+        ],
+        [
+          "genai-hints-effective-but-require-validation",
+          "~"
+        ],
+        [
+          "scaffolded-coach-no-assignment-performance-advantage",
+          "~"
+        ],
+        [
+          "context-effect-depends-on-guidance-style",
+          "~"
+        ],
+        [
+          "chatgpt-hint-error-rate-self-consistency",
+          "~"
         ]
       ]
     },
@@ -217,6 +317,90 @@
         [
           "cognitive-load-management",
           "-"
+        ],
+        [
+          "expertise-reversal-effect-definition",
+          "+"
+        ],
+        [
+          "expertise-reversal-fits-ati-patterns",
+          "+"
+        ],
+        [
+          "expertise-reversal-shakespearean-explanatory-notes",
+          "+"
+        ],
+        [
+          "expertise-reversal-iconic-scaffolds-development",
+          "+"
+        ],
+        [
+          "segmentation-benefits-shrink-with-expertise",
+          "+"
+        ],
+        [
+          "prior-knowledge-moderates-segmenting-retention",
+          "-"
+        ],
+        [
+          "elaborative-interrogation-prior-knowledge-moderator",
+          "~"
+        ],
+        [
+          "lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples",
+          "+"
+        ],
+        [
+          "prior-knowledge-by-worked-example-type-interaction-on-germane-load",
+          "+"
+        ],
+        [
+          "no-prior-knowledge-by-task-difficulty-interaction-in-algebra-worked-examples",
+          "~"
+        ],
+        [
+          "minimal-guidance-less-effective-for-novices",
+          "+"
+        ],
+        [
+          "adaptive-fading-worked-examples-benefits",
+          "+"
+        ],
+        [
+          "bkt-benefits-low-prior-knowledge-students",
+          "+"
+        ],
+        [
+          "drl-benefits-high-prior-knowledge-students",
+          "~"
+        ],
+        [
+          "gpt-output-effect-depends-on-prior-knowledge-and-domain",
+          "+"
+        ],
+        [
+          "prior-knowledge-moderates-vf-process-vs-pf",
+          "~"
+        ],
+        [
+          "expertise-reversal-worked-examples-review",
+          "+"
+        ],
+        [
+          "expertise-reversal-writing-journal-prompts-fading",
+          "+"
+        ],
+        [
+          "expertise-reversal-changes-from-expertise-levels",
+          "+"
+        ],
+        [
+          "load-reduction-can-impair-learning",
+          "~"
+        ],
+        [
+          "audience-prior-knowledge-determines-information-density",
+          "+"
         ]
       ]
     },

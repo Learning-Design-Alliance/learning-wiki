@@ -41,8 +41,9 @@ One-way ANCOVA on critical thinking (six-item scale) with pretest as covariate i
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Meta-reviews reach contradictory conclusions on whether AI reliance harms or helps critical thinking, with substantial design limitations limiting generalizability](contradictory-meta-reviews-ai-critical-thinking.md) — the general claim this finding bears on, with the studies behind it
 - [In an unscaffolded GenAI-permitted instructional design course, the control group outperformed the experimental group on posttest instructional design performance](unscaffolded-genai-lower-instructional-design-performance.md) — related
 - [Unscaffolded GenAI access produced no significant advantage in pre-service teachers' AI readiness compared with traditional learning](unscaffolded-genai-no-ai-readiness-advantage.md) — related
 - [Unscaffolded GenAI access did not significantly change pre-service teachers' self-regulated learning relative to traditional learning](unscaffolded-genai-no-srl-change.md) — related

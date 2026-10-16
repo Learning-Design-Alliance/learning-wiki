@@ -41,8 +41,9 @@ The piecewise multilevel growth model of district administrative data found that
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Summer learning loss is common but not inevitable among K-12 students](summer-slide-common-but-not-inevitable.md) — the general claim this finding bears on, with the studies behind it
 - [Despite faster early math growth, dual language students did not learn more than their peers in the long run and the gap to the national average was not closing](dual-language-math-no-long-run-advantage-gap-not-closing.md) — related
 - [Dual language participants grew faster than nonparticipants in math during each school year in grades 2 to 5 but lost more learning during subsequent summers](dual-language-math-faster-school-year-growth-greater-summer-loss.md) — related
 - [In math, EL groups grew more than never-ELs during academic years but lost more during summers](el-math-faster-year-growth-higher-summer-loss.md) — related

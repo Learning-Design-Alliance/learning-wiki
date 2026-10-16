@@ -73,6 +73,8 @@ Undergraduates read educational texts (textbook chapters or a Scientific America
 
 ## Related Claims
 
+- [Learners underuse effective learning strategies such as spacing and retrieval practice](learners-underuse-effective-learning-strategies.md) — the general claim this finding bears on, with the studies behind it
+
 - [Annotating improves learning.](annotating-improves-learning.md) — active annotation during reading is a higher-utility alternative to passive restudy
 - [Active learning improves exam performance.](active-learning-improves-exam-performance.md) — active engagement during study generally outperforms passive exposure
 - [Retrieval practice improves retention.](retrieval-practice-improves-retention.md) — self-testing is the best-documented high-utility replacement for rereading

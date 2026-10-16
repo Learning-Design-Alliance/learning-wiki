@@ -74,6 +74,22 @@ Kluger, A. N., & DeNisi, A. (1996). The effects of feedback interventions on per
 
 A meta-analysis of 607 effect sizes (23,663 observations) of feedback interventions on performance across settings, not limited to classrooms. Feedback improved performance on average (d = .41), but more than a third of interventions made performance worse, which sampling error and feedback sign could not explain. The authors' feedback intervention theory holds that feedback shifts attention among task-learning, task-motivation and self-related (meta-task) processes, and their moderator analyses found that effectiveness declined as feedback moved attention toward the self. Their levels are not the same as Hattie and Timperley's four, and the abstract reports no effect size for the level moderator itself.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*What should the facilitator's feedback in a debrief be about: the task, the process, or the person?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **7 distinct studies** (2 quant-synthesis, 2 review, 1 causal, 1 associational, 1 design), `q1`–`q4`, 2 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Wisniewski et al. 2020](https://doi.org/10.3389/fpsyg.2019.03087) | q4 · quant-synthesis · r? | i3 · very large effect for high-information feedback, d=0.99 | this claim |
+| [Kluger & DeNisi 1996](https://doi.org/10.1037/0033-2909.119.2.254) | q4 · quant-synthesis · r? | i2 · medium average effect, d=.41 | this claim |
+| [Mueller & Dweck 1998](https://doi.org/10.1037/0022-3514.75.1.33) | q3 · causal · r? | i? | [Praise for intelligence, rather than for effort, after success undermines children's motiv](feedback-praise-reduces-learning.md) (supports) |
+| [Henderlong & Lepper 2002](https://doi.org/10.1037/0033-2909.128.5.774) | q3 · review · r? | i? | [Praise for intelligence, rather than for effort, after success undermines children's motiv](feedback-praise-reduces-learning.md) (supports) |
+| Halpern 2007 | q3 · review · r2 | i? | [Praise for intelligence, rather than for effort, after success undermines children's motiv](feedback-praise-reduces-learning.md) (supports) |
+| [Mendonça PC 2026](https://doi.org/10.3389/feduc.2026.1934069) | q3 · associational · r1 | i? | [Perceived usefulness of response-level LLM feedback is most strongly associated with actio](usefulness-associated-actionability-accuracy.md) (supports) |
+| Guided Self-Analyses Early Childhood Education Program: Teaching Young Children. Overview 1970 | q1 · design · r1 | i? | [Knowledge gained by self-analysis is more likely to produce constructive change in teachin](self-analysis-knowledge-drives-teacher-change.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 The task/process distinction implies a hierarchy of feedback value: process-level feedback is often the most powerful because it gives learners transferable strategy information, while task-level feedback tells them whether the current work meets the criteria and where it falls short. Feedback about the person — praise such as "good job" or trait-level judgments — carries little instructional information and can even undermine performance by directing attention to the self rather than the work.

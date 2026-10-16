@@ -41,8 +41,9 @@ The review reports, citing Nguyen et al., a Design Science Research study in whi
 
 ## Discussion
 
-
 ## Related Claims
+
+- [GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students](gai-assisted-dst-improves-cps-skills.md) — the general claim this finding bears on, with the studies behind it
 - [GenAI training leaves total cognitive load comparable while marginally raising intrinsic cognitive load](genai-training-comparable-load-marginal-intrinsic-increase.md) — related
 - [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — related
 - [Adult learners view AI as a collaborative learning agent for solving complex problems, sharing knowledge, and honing higher-order thinking](ai-as-collaborative-learning-agent.md) — related

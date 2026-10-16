@@ -41,8 +41,9 @@ Pre/post study of an online PD program with ten K–12 educators who created exp
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — the general claim this finding bears on, with the studies behind it
 - [Thematic analysis identified three outcomes: AI concepts became explainable and learnable, participants gained enhanced understanding of classification processes, and participants valued the practical applicability of unplugged approaches](thematic-outcomes-unplugged-ai-literacy-pd.md) — related
 - [Sentiment toward AI in education shifted from negative to positive, with negative descriptors falling from 30% of participants to 0% after the intervention](sentiment-shift-negative-to-positive-ai-education.md) — related
 - [Students’ prompt self-efficacy increased significantly after the scaffolded GenAI course (t = 3.729, p < .001)](prompt-self-efficacy-significant-increase.md) — related

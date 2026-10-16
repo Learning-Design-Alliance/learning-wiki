@@ -43,8 +43,9 @@ The paper reports, citing White (1991) and Schwartz and Gubala-Ryzak (1992), tha
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — the general claim this finding bears on, with the studies behind it
 - [Successes of form-focused manipulation of input in adult L2 are illusory with respect to linguistic competence, affecting only performance](form-focused-input-manipulation-illusory-for-competence.md) — a broader claim this one bears on
 - [Mental representation is not amenable to direct explicit instruction because UG and parsers operate only on input data](mental-representation-not-directly-instructable.md) — a broader claim this one bears on
 - The article concludes adult learners acquire two things about English adverbs: their general syntactic positions and their scope — related

@@ -79,8 +79,9 @@ Same models; related measures are teacher-parent trust, parent involvement in sc
 
 ## Discussion
 
-
 ## Related Claims
+
+- [A more positive school climate is related to improved academic achievement beyond socioeconomic status](positive-school-climate-linked-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [Absences remained as strongly related to test scores and GPAs in post-pandemic years as pre-pandemic years](absence-achievement-link-persists-post-pandemic.md) — related
 - [Schools serving similar students from similar neighborhoods had substantially different absence rates, with over half of school variation unexplained by student backgrounds or prior absences](school-absence-variation-net-of-students-neighborhoods.md) — related
 - Teachers are more likely to stay in schools where parents support their work and where students feel safe and peers behave appropriately — related

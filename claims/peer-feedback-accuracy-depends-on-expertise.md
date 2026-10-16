@@ -65,7 +65,7 @@ Schunn, C., Godley, A., & DeMartino, S. (2016). The reliability and validity of 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*How accurately do learners judge work, and what does the accuracy of their judgments depend on?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **6 distinct studies** (3 associational, 2 quant-synthesis, 1 causal), `q2`–`q4`, 2 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*How accurately do learners judge work, and what does the accuracy of their judgments depend on?* This table gathers the studies behind this claim and the 12 narrower claims that bear on it: **14 distinct studies** (5 associational, 5 causal, 2 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4`, 3 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -75,6 +75,14 @@ Schunn, C., Godley, A., & DeMartino, S. (2016). The reliability and validity of 
 | [Falchikov & Boud 1989](https://doi.org/10.2307/1170205) | q4 · quant-synthesis · r? | i? | [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) (qualifies) |
 | [Zell & Krizan 2014](https://doi.org/10.1177/1745691613518075) | q4 · quant-synthesis · r? | i2 · medium, mean r=.29 (SD=.11), individual meta-analytic effects .09–.63 | [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) (qualifies) |
 | [Hacker et al. 2000](https://doi.org/10.1037/0022-0663.92.1.160) | q2 · associational · r? | i? | [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) (qualifies) |
+| [Peters 2018](https://doi.org/10.1007/s10212-017-0344-y) | q2 · causal · r? | i? | [FAS support partially improves internal feedback: more comments on and fewer ignored erron](fas-partially-improves-internal-feedback.md) (qualifies); [FAS support does not increase detection of missing information or improvement suggestions ](fas-no-gain-missing-info-suggestions-own-draft.md) (qualifies) |
+| [Li et al. 2022](https://doi.org/10.1145/3543321.3543344) | q2 · causal · r1 | i? | [In two online comparisons, a rubric changed what peer reviewers commented on (one study) a](rubrics-improve-peer-feedback-quality.md) (qualifies) |
+| [Ashton And Davies 2015](https://doi.org/10.1080/01587919.2015.1081733) | q2 · causal · r? | i? | [In two online comparisons, a rubric changed what peer reviewers commented on (one study) a](rubrics-improve-peer-feedback-quality.md) (qualifies) |
+| [Andres Karjus 2026](https://doi.org/10.48550/arxiv.2607.16115) | q2 · associational · r2 | i? | [Revising the feedback prompt toward essay-grounded guidance increased feedback specificity](prompt-revision-increased-feedback-specificity.md) (qualifies) |
+| [David Carless & David Boud 2018](https://doi.org/10.1080/02602938.2018.1463354) | q2 · review · r2 | i? | [Coached peer review improves the specificity of reviewer comments and receivers' uptake of](coached-peer-review-improves-comment-quality-and-uptake.md) (qualifies) |
+| [Banihashem 2024](https://doi.org/10.1186/s41239-024-00455-4) | q2 · associational · r2 | i1 | [Peers outperformed ChatGPT in identifying problems within essays](peers-better-problem-identification-feedback.md) (qualifies) |
+| [Kulkarni 2015](https://doi.org/10.1007/978-3-319-06823-7_9) | q2 · causal · r1 | i? | [In a large online class, peer grades correlated highly with staff-assigned grades, with me](peer-grades-correlate-highly-with-staff-grades-mooc.md) (qualifies); [Aggregating peer grades with the median improves agreement with staff grades compared with](median-aggregation-improves-peer-grade-agreement.md) (qualifies); [Students rated peers' work from their own country 3.6% higher than work from elsewhere](in-group-favoritism-peer-grading-country.md) (qualifies) |
+| [Xie 2025](https://doi.org/10.3390/bs15070884) | q2 · qualitative · r2 | i? | [Peer feedback promoted critical reflection, collaboration and engagement, but students dou](peer-feedback-soft-evaluative-judgement-statistics.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

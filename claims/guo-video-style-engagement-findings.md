@@ -40,10 +40,25 @@ Narrative review attributing these findings to Guo, Kim, and Rubin (2014), descr
 
 > "students prefer short videos, slides should include a talking head, the Khan drawing style is more engaging than slides or coding sessions, and the direct classroom recording does not work well online"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does an instructional video's production style (presenter on screen, drawing or slides, human-recorded or AI-generated, length) change learners' engagement and preferences?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **5 distinct studies** (3 associational, 2 review), `q2`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Chorianopoulos 2018 | q2 · review · r2 | i? | this claim; [Human embodiment in video: perceived social presence benefits learning ratings, but instru](human-embodiment-video-presence-effects.md) (qualifies); [MOOC video styles cluster by discipline: humanities/arts favor speaker-centric, science/en](mooc-video-styles-discipline-clusters.md) (qualifies) |
+| [Brame Cynthia J 2016](https://doi.org/10.1187/cbe.16-03-0125) | q2 · review · r2 | i? | [Median student engagement with MOOC videos falls sharply as video length increases beyond ](video-length-mooc-engagement-declines.md) (supports) |
+| [Kazuki Kawamura 2025](https://doi.org/10.48550/arxiv.2608.08990) | q2 · associational · r? | i? | [MOOC video engagement declines with video length, with median engagement under half the du](mooc-engagement-declines-with-video-length.md) (supports) |
+| [Tomlinson 2026](https://doi.org/10.1038/s41598-026-52798-9) | q2 · associational · r1 | i? | [Students preferred human-recorded over AI-generated videos when personalization was held c](human-presence-preference-smaller-than-personalization.md) (qualifies); [Students preferred AI-generated personalized videos over human-recorded non-personalized v](ai-personalized-videos-preferred-over-human-non-personalized.md) (qualifies); [Mean rank ordering of the four video types was stable across both course offerings, with h](stable-mean-rank-ordering-four-video-types.md) (qualifies); [Nearly nine in ten students ranked a personalized video as their top choice](personalized-video-top-choice-88-percent.md) (qualifies) |
+| [Esse Ciego 2026](https://doi.org/10.48550/arxiv.2607.28203) | q2 · associational · r1 | i? | [Students oppose preferring AI videos over instructor-recorded videos and distrust AI video](students-oppose-ai-videos-replacing-instructors.md) (supports); [Students view AI videos as appropriate for simple, visualizable, and supplemental learning](students-contextualize-ai-video-appropriateness.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
-
 ## Related Claims
+
+- [Segmenting video into short pieces or click-forward pauses supports student engagement and learning from video](segmenting-supports-video-engagement-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Human embodiment in video: perceived social presence benefits learning ratings, but instructor-face inclusion shows no significant learning-performance difference, and learners prefer human over robot presenters with mixed recall](human-embodiment-video-presence-effects.md) — related
 - [Previous instructional-video research lacks a consistent taxonomy, hindering comparison and meta-analysis](video-style-research-lacks-consistent-taxonomy.md) — related
 - [MOOC video styles cluster by discipline: humanities/arts favor speaker-centric, science/engineering favor board-centric](mooc-video-styles-discipline-clusters.md) — related

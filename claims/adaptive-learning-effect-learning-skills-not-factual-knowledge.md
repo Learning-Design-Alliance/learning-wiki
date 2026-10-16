@@ -41,6 +41,7 @@ The tertiary review reports, citing Fontaine et al. (2019), a meta-analysis of 2
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](srl-interventions-moderate-effect-online-blended.md) — related

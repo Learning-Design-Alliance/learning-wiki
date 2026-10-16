@@ -1,0 +1,98 @@
+{
+  "principle": "theories/swain-output-hypothesis",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "zhao-ping-output-functions-writing-experiment",
+      "question": "Does writing in the second language make learners notice gaps in their own language, which gaps do they notice, and does comparing with a model help them close them?",
+      "members": [
+        [
+          "output-noticing-predominantly-lexical",
+          "+"
+        ],
+        [
+          "model-comparison-noticing-lexical",
+          "~"
+        ],
+        [
+          "rewriting-solves-more-lexical-gaps",
+          "~"
+        ],
+        [
+          "notetaking-feedback-limits-grammar-resolution",
+          "~"
+        ],
+        [
+          "lexical-lres-dominate-grammar-lres-l2-writing",
+          "~"
+        ],
+        [
+          "syntax-outweighs-morphology-in-grammar-noticing",
+          "~"
+        ],
+        [
+          "grammar-lres-solved-with-own-resources-not-external",
+          "~"
+        ],
+        [
+          "morphological-noticing-verb-forms-modals-prepositions",
+          "~"
+        ],
+        [
+          "syntactical-noticing-sentence-length-connecting-clauses",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "modified-output-advanced-forms-predicts-question-development",
+      "question": "Does pushing learners to produce output, and to modify it after feedback, develop their second-language grammar more than input or a supplied correction alone?",
+      "members": [
+        [
+          "negative-feedback-alone-not-significant-predictor",
+          "+"
+        ],
+        [
+          "prompts-more-effective-than-recasts-overall",
+          "+"
+        ],
+        [
+          "low-proficiency-learners-benefit-more-from-prompts",
+          "~"
+        ],
+        [
+          "high-proficiency-learners-benefit-equally-from-both",
+          "~"
+        ],
+        [
+          "ffi-with-prompts-beats-recasts-for-gender",
+          "+"
+        ],
+        [
+          "repair-patterns-vary-by-feedback-type-and-setting",
+          "~"
+        ],
+        [
+          "comprehensible-input-insufficient-grammar-acquisition",
+          "+"
+        ],
+        [
+          "mere-exposure-insufficient-advanced-l2-communicative-competence",
+          "+"
+        ],
+        [
+          "pushing-output-drives-input-assimilation",
+          "+"
+        ],
+        [
+          "pushing-output-elicits-negative-input",
+          "+"
+        ],
+        [
+          "syntactic-processing-corrects-incomprehensible-output",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

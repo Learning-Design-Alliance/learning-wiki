@@ -13,7 +13,7 @@ generated:
 # Decision-Making
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (5 for, 3 mixed) · 14 studies (5 causal, 4 theoretical, 2 quant-synthesis, 2 review, 1 associational), `q1`–`q4` · 1 of 14 report an effect size · 4 claims rest on one study
+> **Evidence** · 9 claims (5 for, 4 mixed) · 15 studies (5 causal, 4 theoretical, 3 review, 2 quant-synthesis, 1 associational), `q1`–`q4` · 1 of 15 report an effect size · 5 claims rest on one study
 
 ## Description
 Decision-making as an instructional element places learners at a genuine choice point within a structured activity: they must weigh options, justify a selection, and experience the consequences of that selection. Rather than being told the correct course of action, learners construct the reasoning that connects evidence, constraints, and goals to a commitment — making the quality of reasoning, not just the choice itself, the object of instruction.

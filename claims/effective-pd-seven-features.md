@@ -39,6 +39,23 @@ The report's synthesis of research on professional development lists these seven
 
 > "Effective professional development models that support educators' practice share several features. These approaches: are content focused, incorporate active learning, support collaboration and space for teachers to learn together, use modeling of effective practice, provide coaching and expert support, offer opportunities for feedback and reflection, and are sustained over time."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does professional development tied to the curriculum teachers teach, modelled by accomplished teachers and sustained with on-site support change teaching and students' results?* This table gathers the studies behind this claim and the 12 narrower claims that bear on it: **8 distinct studies** (3 review, 2 qualitative, 1 design, 1 associational, 1 causal), `q2`–`q3`, 0 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Darling-Hammond 2021](https://doi.org/10.54300/859.776) | q2 · review · r? | i? | this claim |
+| [Darling-Hammond 2017](https://doi.org/10.54300/122.311) | q2 / q3 · review · r2 | i? | [Content-focused, job-embedded PD linked to student gains: 31 of 35 reviewed studies featur](pd-content-focus-prevalence.md) (supports); [All 35 reviewed studies used models or modeling, and curriculum without PD support yielded](pd-models-and-curriculum-support.md) (supports); [Collaboration appeared in 32 of 35 reviewed studies, and collaborative PD models showed st](pd-collaboration-prevalence-and-gains.md) (supports); [Active learning was incorporated in 34 of 35 reviewed effective PD studies](pd-active-learning-prevalence.md) (supports); [STeLLA content-plus-pedagogy PD produced greater student science gains than content-only t](stella-outperformed-content-only-pd.md) (supports) |
+| Gall 1994 | q2 · review · r2 | i? | [Experimental staff development programs mostly raised student achievement relative to cont](experimental-staff-development-raises-student-achievement.md) (supports) |
+| [Corcoran 2003](https://doi.org/10.1037/e383112004-001) | q2 · design · r3 | i? | [Intensive three-year professional development changed Leader Teachers' practice dramatical](leader-teacher-diffusion-uneven.md) (qualifies); [Non-participation in intensive professional development reflected enjoyment, preparation, ](nonparticipant-barriers-professional-development.md) (qualifies) |
+| New research: Chicago showed instructional improvements under standards reform 2022 | q2 · associational · r? | i? | [District-provided instructional resources supported strong practices only when instruction](instruction-ready-resources-tied-to-professional-learning.md) (supports) |
+| Hannan 2026 | q2 · qualitative · r2 | i? | [District leaders use learning walks and ongoing professional learning to reinforce clear, ](clear-expectations-learning-walks-reinforce-hqim-use.md) (supports) |
+| Fong 2022 | q2 · causal · r2 | i? | [Most ERWC teachers completed required professional learning (82-99 percent), but only 0-3 ](erwc-high-pd-fidelity-low-curriculum-fidelity.md) (qualifies) |
+| Lotan 2019 | q2 · qualitative · r? | i? | [Teachers prefer professional learning led by their colleagues over training from outside c](teachers-prefer-colleague-led-professional-learning.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

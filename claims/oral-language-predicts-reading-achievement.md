@@ -42,6 +42,24 @@ The article reports, citing Sticht's paper "Listening and Reading," that written
 
 > "He shows that there is a positive correlation between preschool and oral language skills and subsequent achievement in reading."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **9 distinct studies** (4 review, 2 theoretical, 2 associational, 1 causal), `q1`–`q3`, 0 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Neiburg 1997 | q1 · theoretical · r1 | i? | this claim |
+| [Khatib 2011](https://doi.org/10.5539/ies.v4n4p192) | q2 · causal · r2 | i? | [L2 oral language proficiency predicts reading comprehension more strongly than decoding sk](oral-proficiency-predicts-l2-reading-comprehension.md) (supports) |
+| [Kim 2013](https://doi.org/10.1007/s11145-013-9440-9) | q3 · associational · r2 | i? | [Vocabulary is uniquely and positively related to word reading and spelling in kindergartne](vocabulary-uniquely-related-word-reading-spelling-kindergarten.md) (supports) |
+| Rolla 2024 | q2 · review · r2 | i? | [Teachers' ratings on 16 English-readiness KEA items at kindergarten entry predicted Hispan](kea-english-readiness-ratings-predict-literacy-six-years.md) (supports) |
+| [Restrepo Ramos 2015](https://doi.org/10.15446/profile.v17n1.43957) | q2 · review · r2 | i? | [Correct word inference in reading requires knowing roughly 95-98% of surrounding words, co](vocabulary-coverage-thresholds-for-inference.md) (supports) |
+| Cook 2012 | q2 · associational · r2 | i? | [English Learners' initial ELP level influences the expected time frame for attaining the E](initial-elp-level-influences-time-to-proficiency.md) (supports) |
+| Gersten 2007 | q2 · review · r2 | i? | [Oral language measures of syntax, listening comprehension, and oral vocabulary do not pred](oral-language-measures-do-not-predict-reading-struggle.md) (qualifies) |
+| [LaBerge & Samuels 1974](<https://doi.org/10.1016/0010-0285(74)90015-2>) | q1 · theoretical · r? | i? | [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) (qualifies) |
+| [Perfetti 2007](https://doi.org/10.1080/10888430701530730) | q2 · review · r? | i? | [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

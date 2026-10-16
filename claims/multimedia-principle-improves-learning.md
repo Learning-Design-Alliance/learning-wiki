@@ -63,7 +63,7 @@ Adults (Experiment 1, N=207) and youth (Experiment 2, N=193) were each randomly 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do words with a relevant picture beat words alone?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **8 distinct studies** (5 causal, 2 review, 1 theoretical), `q2`–`q3`, 5 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do words with a relevant picture beat words alone?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **15 distinct studies** (7 causal, 4 review, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4`, 6 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -75,6 +75,13 @@ Adults (Experiment 1, N=207) and youth (Experiment 2, N=193) were each randomly 
 | [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · theoretical · r3 | i3 | [Generative processing principles: words with pictures and conversational-style words impro](generative-processing-principles-mayer-2008.md) (supports) |
 | Alty 2002 | q3 · causal · r? | i? | [In one 37-student classroom experiment, recall and retention differ across media combinati](media-combinations-affect-recall-and-retention.md) (supports) |
 | Kutbay 2020 | q2 · causal · r2 | i3 | [All ten multimedia treatment conditions produced significant pre-to-post achievement gains](all-treatments-produced-significant-gains.md) (supports) |
+| [Guo et al. 2020](https://doi.org/10.1177/2332858420901696) | q4 · quant-synthesis · r2 | i1 · small-to-moderate effect, g=0.39 | [Adding relevant pictures or graphics to text improves learning from it, with a small poole](dual-coding-improves-learning.md) (supports) |
+| [Carney and Levin 2002](https://doi.org/10.1023/a:1013176309260) | q2 · review · r? | i? | [Adding relevant pictures or graphics to text improves learning from it, with a small poole](dual-coding-improves-learning.md) (supports) |
+| [Higdon et al. 2025](https://doi.org/10.1177/17470218241235520) | q3 · causal · r? | i? | [Adding relevant pictures or graphics to text improves learning from it, with a small poole](dual-coding-improves-learning.md) (supports) |
+| [Siddhanth Sridhar 2026](https://doi.org/10.48550/arxiv.2609.14408) | q1 · design · r1 | i? | [Students and teachers responded positively to automatically generated textbook videos, fin](generated-textbook-videos-easier-to-follow-than-plain-text.md) (supports) |
+| [Kalyuga et al. 2003](https://doi.org/10.1207/s15326985ep3801_4) | q2 · review · r2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
+| [Kalyuga et al. 1998](https://doi.org/10.1518/001872098779480587) | q3 · causal · r? | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
+| Obikwelu 2013 | q1 · theoretical · r2 | i? | [Instructional guidance that helps novices can become redundant or counterproductive as exp](expertise-reversal-effect.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

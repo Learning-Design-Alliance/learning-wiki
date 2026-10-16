@@ -62,7 +62,7 @@ This random-effects meta-analysis covers 57 laboratory and classroom experiments
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does revisiting concepts across varied, compared cases improve transfer to a new case?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **6 distinct studies** (4 causal, 1 quant-synthesis, 1 review), `q2`–`q4`, 1 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does revisiting concepts across varied, compared cases improve transfer to a new case?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **6 distinct studies** (4 causal, 1 quant-synthesis, 1 review), `q2`–`q4`, 1 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -71,7 +71,7 @@ This random-effects meta-analysis covers 57 laboratory and classroom experiments
 | [Gentner et al. 2003](https://doi.org/10.1037/0022-0663.95.2.393) | q3 · causal · r? | i? | [Comparing cases side by side improves learning and transfer by a moderate average amount, ](comparing-contrasting-cases-improves-learning.md) (qualifies) |
 | [Rittle-Johnson & Star 2007](https://doi.org/10.1037/0022-0663.99.3.561) | q3 · causal · r? | i? | [Comparing cases side by side improves learning and transfer by a moderate average amount, ](comparing-contrasting-cases-improves-learning.md) (qualifies) |
 | Shavelson 1986 | q2 · review · r2 | i? | [Encoding variability across varied example contexts produces decontextualization supportin](encoding-variability-decontextualization-transfer.md) (supports) |
-| [Chokri Barhoumi; Pier Giuseppe Rossi 2013](https://doi.org/10.30935/cedtech/6109) | q2 · causal · r1 | i? | [A flexible hypertext course group averaged 76% on achievement tests against 59% for a dire](cft-hypertext-design-higher-achievement-scores.md) (qualifies) |
+| [Chokri Barhoumi; Pier Giuseppe Rossi 2013](https://doi.org/10.30935/cedtech/6109) | q2 · causal · r1 | i? | [A flexible hypertext course group averaged 76% on achievement tests against 59% for a dire](cft-hypertext-design-higher-achievement-scores.md) (qualifies); [More experimental-group answers achieved 100% accuracy on achievement tests (23) than cont](cft-hypertext-design-more-perfect-scores.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

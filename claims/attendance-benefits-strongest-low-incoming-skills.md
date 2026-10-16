@@ -44,6 +44,8 @@ Moderation analysis within the Preschool Longitudinal Study sample examining whe
 
 ## Related Claims
 
+- [Low attendance is linked with lower academic skills, grades, and high school graduation, and high attendance with higher ones](attendance-linked-academic-skills-grades-graduation.md) — the general claim this finding bears on, with the studies behind it
+
 - [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](prek-attendance-kindergarten-readiness.md) — the general claim this finding bears on, with the studies behind it
 - [Preschool students who miss more school have lower kindergarten readiness scores on math, letter recognition, and social-emotional measures, controlling for incoming skills](preschool-absence-lower-kindergarten-readiness-scores.md) — related
 - Pre-kindergarten absence is widespread in a large urban district, particularly among African American students and those entering with the lowest skills — related

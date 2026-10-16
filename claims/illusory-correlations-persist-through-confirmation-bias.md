@@ -44,4 +44,6 @@ Rotton and Kelly pooled the results of nearly 40 published studies that had test
 This is a specific, well-documented case of a more general vulnerability described in [Evidence-Based Teaching and Scientific Reasoning](../principles/evidence-based-teaching-and-scientific-reasoning.md): confirmation bias leads people to notice and remember confirming instances of a belief while the (much larger) set of disconfirming instances goes unnoticed. The consequence is not merely a harmless folk belief — Fiedler (2004) notes that illusory correlations of this kind are implicated in the formation of prejudicial attitudes toward particular groups, where a few salient, remembered instances of a stereotyped behavior get mistaken for a genuine group-level pattern.
 
 ## Related Claims
+
+- [The RCT is considered the gold standard of research evidence because randomization ensures only the intervention could cause treatment-control outcome differences](rct-gold-standard-randomization-logic.md) — the general claim this finding bears on, with the studies behind it
 - [Teacher effectiveness compounds over consecutive years](teacher-effectiveness-compounds-over-consecutive-years.md) — an example of a correlational finding with strong enough design (tracked cohorts, contrasted assignment patterns) to support a causal-adjacent policy conclusion, unlike an illusory correlation

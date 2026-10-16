@@ -41,11 +41,14 @@ The guide's summary, in Recommendation 1's carry-out section, of studies contras
 
 ## Discussion
 
-
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Literacy screener benchmarks predict which grade 3 students will not meet MCAS ELA expectations, but not necessarily who will meet them](screeners-predict-mcas-failure-not-success.md) — the general claim this finding bears on, with the studies behind it
+
+- [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](oral-language-predicts-reading-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [English-language measures of phonological processing, letter knowledge, and word and text reading validly identify which English learners need additional reading support](english-early-reading-measures-valid-screen-english-learners.md) — possibly the same claim (merge candidate)
 - [L2 oral language proficiency predicts reading comprehension more strongly than decoding skills](oral-proficiency-predicts-l2-reading-comprehension.md) — reports the opposite
 - Listening proficiency transfers to other language skills, including reading and writing, in second language learners — reports the opposite

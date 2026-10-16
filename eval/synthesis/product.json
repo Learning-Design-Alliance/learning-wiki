@@ -1,0 +1,52 @@
+{
+  "principle": "elements/product",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "ai-breaks-artefact-as-proxy",
+      "question": "When generative AI helps make a learner's product, does the product's quality still show what the learner has learned and can do on their own?",
+      "members": [
+        [
+          "ai-draft-quality-ownership-tradeoff",
+          "+"
+        ],
+        [
+          "ai-support-any-stage-decreases-ownership",
+          "+"
+        ],
+        [
+          "chatgpt-lower-code-ownership",
+          "+"
+        ],
+        [
+          "genai-meta-analysis-g-0-7-performance-not-learning",
+          "+"
+        ],
+        [
+          "chatgpt-free-use-originality-gains-vanish-unassisted",
+          "+"
+        ],
+        [
+          "learning-by-teaching-llm-improves-assignments-projects",
+          "~"
+        ],
+        [
+          "proposition-1-ownership-predicts-transfer",
+          "~"
+        ],
+        [
+          "visual-media-assessments-not-passable-by-chatgpt",
+          "~"
+        ],
+        [
+          "ai-database-diagrams-less-accurate",
+          "~"
+        ],
+        [
+          "cgpt-co-creation-enhances-student-agency-ownership",
+          "-"
+        ]
+      ]
+    }
+  ]
+}

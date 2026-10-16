@@ -69,14 +69,14 @@ The review reports Spanjers et al.'s (2010) experiment on probability calculatio
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*For whom: does the benefit depend on prior knowledge or learner characteristics?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **4 distinct studies** (3 causal, 1 quant-synthesis), `q3`, 2 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*For whom: does the benefit depend on prior knowledge or learner characteristics?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **4 distinct studies** (2 causal, 1 review, 1 quant-synthesis), `q3`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Spanjers et al. 2011](https://doi.org/10.1016/j.chb.2010.05.011) | q3 · causal · r? | i? | this claim |
+| [Spanjers 2010](https://doi.org/10.1007/s10648-010-9135-6) | q3 · review · r2 | i? | this claim |
 | [Rey 2019](https://doi.org/10.1007/s10648-018-9456-4) | q3 · quant-synthesis · r? | i? | [Learners with high prior knowledge benefit more from segmenting in retention performance t](prior-knowledge-moderates-segmenting-retention.md) (counts against) |
 | [Veronica Pimenova 2026](https://doi.org/10.48550/arxiv.2607.24612) | q3 · causal · r1 | i3; i? | [Segmentation reduces errors and hesitations for participants with and without ADHD, with l](segmentation-benefit-larger-for-adhd-group.md) (qualifies); [ADHD medication status shows no significant interaction with segmentation, though medicate](medication-status-segmentation-interaction-null.md) (qualifies) |
-| Veronica Pimenova 2026 (2) | q3 · causal · r2 | i3 | [Segmentation reduces errors and hesitations for participants with and without ADHD, with l](segmentation-benefit-larger-for-adhd-group.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

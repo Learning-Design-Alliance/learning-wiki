@@ -39,6 +39,7 @@ The primer states, citing Clark et al. (2009), that "seeding student groups with
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — the general claim this finding bears on, with the studies behind it
 - [Affordance resonance can be documented at scale through AI-generated logs identifying seed contributions and cascading uptake](ai-resonance-logs-catalytic-contributions.md) — related

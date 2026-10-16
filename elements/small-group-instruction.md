@@ -13,7 +13,7 @@ generated:
 # Small-Group Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 4 studies (2 qualitative, 1 causal, 1 quant-synthesis), `q2`–`q3` · 2 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 5 studies (2 quant-synthesis, 2 qualitative, 1 causal), `q2`–`q3` · 3 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 Small-group instruction is the element in which learners work with an instructor or facilitator in a reduced-size group for targeted teaching, discussion, or support. It is useful when instruction benefits from more responsiveness than whole-class delivery allows.

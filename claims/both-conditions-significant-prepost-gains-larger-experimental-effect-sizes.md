@@ -58,6 +58,20 @@ Paired samples t-tests within the control group (n = 33) comparing pre-test and 
 
 > "It has been found that control group has a significant increase in post -test results (t NOSS = 4.196; p < 0.05; t SKS = 2.009; p < 0.05) and the effect sizes (r NOSS = .41; r SKS = .24) of this increase are in high level."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Can instruction shift learners' views of how scientific knowledge is made and judged, and do the shifts last?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **5 distinct studies** (3 design, 1 causal, 1 qualitative), `q1`–`q3`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Mustafa Metin 2022](https://doi.org/10.17509/jsl.v5i1.33190) | q2 · causal · r2 | i? | this claim; [In one nonequivalent-groups study of pre-school prospective teachers, the group taught wit](formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks.md) (supports); [The formative-assessment-embedded group retained higher NOS and SK scores than the control](formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks.md) (supports); [Neither group showed a significant decline from post-test to retention test on NOS or SK m](no-significant-posttest-retention-decline-either-group.md) (supports) |
+| [Dishon et al. 2024](https://doi.org/10.1080/07370008.2023.2248641) | q3 · design · r2 | i? | [Collaborative critique-and-redesign instruction shifts students from a value-free view of ](collaborative-evidence-critique-shifts-students-toward-procedural-objectivity.md) (supports) |
+| [Pierson et al. 2023](https://doi.org/10.1080/07370008.2022.2111431) | q2 · design · r3 | i? | [Heterogeneity-seeking modeling curricula surface epistemic commitments in most students, i](heterogeneity-seeking-curricula-surface-diverse-epistemic-commitments.md) (qualifies) |
+| [Qi Zhu 2026](https://doi.org/10.1007/978-3-032-29788-4_37) | q2 · design · r2 | i? | [Cognitive Maturity disposition scores significantly declined during the WISE Agent interve](wise-agent-cognitive-maturity-decline.md) (qualifies) |
+| Eggleton 1995 | q1 · qualitative · r3 | i? | [Four contexts of mathematics teacher education described the experiences most influential ](four-contexts-influential-preservice-philosophy.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

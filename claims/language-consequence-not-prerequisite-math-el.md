@@ -41,7 +41,8 @@ Observational field trials of the RAMPUP summer bridge program over two summers,
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Integrating oral and written English language instruction into content-area teaching shows positive impacts on content-area acquisition in five RCTs](integrate-oral-written-language-content-teaching.md) — the general claim this finding bears on, with the studies behind it
 - [In RAMPUP field trials, English Learners' mathematical language became more monologic, authoritative, and technical within a single 40-minute jigsaw activity](el-language-monologic-authoritative-technical-growth.md) — a narrower finding that bears on this claim
 - [BICS and CALP intersect developmentally but are not identical or reducible one to the other](bics-calp-intersect-not-identical.md) — related

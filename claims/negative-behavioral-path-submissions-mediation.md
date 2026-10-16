@@ -60,8 +60,9 @@ Same mediation model; mental effort did not significantly predict post-test (B =
 
 ## Discussion
 
-
 ## Related Claims
+
+- [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve](probing-feedback-revise-resubmit-evidence.md) — the general claim this finding bears on, with the studies behind it
 - [Layered AI feedback was perceived as more encouraging and independence-supporting but imposed higher mental effort](layered-ai-feedback-perceptions-mental-effort.md) — related
 - [Layered AI feedback led to significantly more tasks requiring three or more submissions, while total submissions, learning time and edit distance did not differ](layered-feedback-more-tasks-three-plus-submissions.md) — a broader claim this one bears on
 - [The total effect of layered feedback on learning outcomes was significantly negative, with an unmediated negative direct effect](layered-feedback-negative-total-effect.md) — related

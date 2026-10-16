@@ -39,6 +39,18 @@ OLS multivariate models on 77,056 CPS students in grades 5-8 predicted a three-c
 
 > "Among eligible students, participation was associated with an increase in remote learning engagement for students with high pre-pandemic GPAs (by 0.06 SD) and a decrease in remote learning engagement for students with low pre-pandemic GPAs (by 0.11 SD)."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does supplying the missing connectivity or devices close the gap for learners without access?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **3 distinct studies** (2 associational, 1 theoretical), `q1`–`q2`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Schachner 2025 | q2 · associational · r2 | i? | this claim; [Chicago Connected eligibility was associated with higher fall 2020 engagement for high pre](chicago-connected-eligibility-heterogeneous-engagement-effects.md) (supports); [Chicago Connected eligibility was associated with a slightly lower fall 2020 GPA in the fu](chicago-connected-eligibility-lower-gpa-full-sample.md) (qualifies); [Differences in engagement and achievement between high- and low-GPA students grew more sha](chicago-connected-participants-widening-gpa-disparities.md) (supports) |
+| Feng 2025 | q2 · associational · r1 | i? | [Implementation data show teachers shifted independent practice toward in-class ASSISTments](assistments-classwork-shift-rural-equity.md) (supports) |
+| [Michael Rowe 2026](https://doi.org/10.35542/osf.io/haet3_v1) | q1 · theoretical · r3 | i? | [Physical access to AI-provided material does not automatically produce epistemological acc](facilitation-converts-physical-to-epistemological-access.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

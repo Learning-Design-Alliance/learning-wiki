@@ -44,7 +44,7 @@ The report cites survey statistics on teacher training and technology reliance i
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does professional development that shows teachers how to use digital tools in their own teaching go with more classroom use of those tools?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **9 distinct studies** (4 associational, 3 qualitative, 1 theoretical, 1 review), `q2`, 0 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does professional development that shows teachers how to use digital tools in their own teaching go with more classroom use of those tools?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **9 distinct studies** (4 associational, 3 qualitative, 1 theoretical, 1 review), `q2`, 0 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -56,7 +56,7 @@ The report cites survey statistics on teacher training and technology reliance i
 | Isabel Callaway 2023 | q2 · qualitative · r? | i? | [Teachers need tailored technical support and time to understand how to use Ecree and integ](teachers-need-tailored-support-time-ecree-integration.md) (supports) |
 | Tareena Musaddiq 2023 | q2 · associational · r? | i? | [Teachers used Ecree less than intended, and some reported they did not have enough time to](teachers-used-ecree-less-than-intended-lacking-time.md) (qualifies) |
 | [Digital Promise 2018](https://doi.org/10.51388/20.500.12265/52) | q2 · qualitative · r2 | i? | [Teachers tended to adopt district-provided tools, and single-application step-by-step trai](district-provided-tools-single-tool-training.md) (qualifies) |
-| Digital Promise 2018 (2) | q2 · qualitative · r2 | i? | [Teachers tended to adopt district-provided tools, and single-application step-by-step trai](district-provided-tools-single-tool-training.md) (qualifies) |
+| Niess 2018 | q2 · qualitative · r1 | i? | [In-service mathematics teachers in the online TPACK program shifted from teacher-centered ](online-tpack-program-shift-student-centered-strategies.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

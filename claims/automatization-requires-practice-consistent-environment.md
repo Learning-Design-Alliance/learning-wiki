@@ -39,10 +39,25 @@ In the Conclusion the review draws this as the second of three conclusions from 
 
 > "a consistent environment is necessary for practice to be effective, because automatic processing will occur only after practice in a consistent environment"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*What kind and amount of practice makes second-language use fast and automatic: extended meaningful practice or mechanical drill?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **5 distinct studies** (2 causal, 2 theoretical, 1 review), `q1`–`q3`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Aydinbek C 2022](https://doi.org/10.5897/err2022.4230) | q2 · review · r2 | i? | this claim |
+| [Robert M. DeKeyser 1997](https://doi.org/10.1017/s0272263197002040) | q3 · causal · r? | i? | [Automatized L2 morphosyntactic skills develop very gradually over time, following a power ](l2-skill-development-power-function-curve.md) (supports) |
+| [Robert DeKeyser 2010](https://doi.org/10.6018/ijes/2010/1/114021) | q1 · theoretical · r3 | i? | [Low-frequency or low-salience L2 elements are hard or impossible to learn through mere exp](low-salience-elements-need-extensive-practice.md) (supports); [Practice defined as meaningful language use plus effortful practice of difficult features ](meaningful-effortful-practice-beneficial-essential-l2.md) (supports); [Purely mechanical drills are of limited use because they do not train learners to conceptu](mechanical-drills-limited-use-meaning-form.md) (supports) |
+| [Bill VanPatten 2010](https://doi.org/10.6018/ijes/2010/1/113951) | q1 · theoretical · r3 | i? | [Skill develops through engaging in the target activity itself, not through mechanistic dri](skill-develops-through-engagement-not-drill.md) (supports) |
+| [Khatib 2011](https://doi.org/10.5539/ies.v4n4p192) | q3 · causal · r2 | i? | [Automatization of the phonological component through pronunciation practice improves ESP s](phonological-automatization-improves-esp-reading-comprehension.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
-
 ## Related Claims
+
+- [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](practice-presence-raises-cbi-posttest-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — reports the opposite
 - [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](skill-specificity-l2-grammar-practice.md) — related
 - [Mere exposure to the target language does not automatically lead to native-like communicative competence in adult learners](mere-exposure-insufficient-advanced-l2-communicative-competence.md) — related

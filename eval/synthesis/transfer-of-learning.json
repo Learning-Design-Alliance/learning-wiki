@@ -21,6 +21,10 @@
         [
           "self-explanation-far-transfer-geometry-classroom",
           "-"
+        ],
+        [
+          "transfer-greatest-test-formats-application-inference-medical-mediator-cues",
+          "~"
         ]
       ]
     },
@@ -28,6 +32,14 @@
       "hub": "encoding-variability-decontextualization-transfer",
       "question": "Does learning across varied contexts or varied tasks of a type, rather than repeating one, produce transfer to new cases?",
       "members": [
+        [
+          "comparing-contrasting-cases-improves-learning",
+          "+"
+        ],
+        [
+          "cognitive-flexibility-theory-multiple-cases",
+          "+"
+        ],
         [
           "task-variety-enables-transfer-same-task-type",
           "+"
@@ -38,6 +50,22 @@
         ],
         [
           "task-repetition-fluency-complexity-same-task-only",
+          "+"
+        ],
+        [
+          "interleaving-transfer-benefit-meta-analysis",
+          "+"
+        ],
+        [
+          "example-variability-interaction-with-cognitive-load",
+          "~"
+        ],
+        [
+          "variability-effect-format-interaction",
+          "~"
+        ],
+        [
+          "environmental-context-variability-improves-recall",
           "+"
         ]
       ]

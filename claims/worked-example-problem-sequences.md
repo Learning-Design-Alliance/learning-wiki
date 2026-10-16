@@ -77,12 +77,11 @@ Van Gog, T., Kester, L., & Paas, F. (2011). Effects of worked examples, example-
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should the example come before or after the practice problem?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 review), `q2`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should the example come before or after the practice problem?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **2 distinct studies** (1 causal, 1 review), `q2`–`q3`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [van Gog et al. 2011](https://doi.org/10.1016/j.cedpsych.2010.10.004) | q3 · causal · r? | i? | this claim |
-| [van Gog 2011](https://doi.org/10.1016/j.compedu.2011.03.019) | q3 · causal · r? | i? | [Identical example–problem pairs showed an early order advantage but no detected final-test](identical-example-problem-order-advantage-not-detected-at-final-test.md) (qualifies) |
+| [van Gog et al. 2011](https://doi.org/10.1016/j.cedpsych.2010.10.004) | q3 · causal · r? | i? | this claim; [Identical example–problem pairs showed an early order advantage but no detected final-test](identical-example-problem-order-advantage-not-detected-at-final-test.md) (qualifies) |
 | [Atkinson 2000](https://doi.org/10.3102/00346543070002181) | q2 · review · r3 | i? | [Alternating example-practice pairs produce faster and more accurate near-transfer solution](alternating-example-problem-pairs.md) (supports) |
 <!-- synthesis:end -->
 
@@ -93,8 +92,6 @@ The comparison supports a bounded example-first choice for similar initial tasks
 Do not conflate example→problem pairs with completion problems: the latter omit solution steps within a task. Do not substitute this study's task count, timing or test threshold as universal requirements. A short diagnostic attempt before instruction is also distinct from a sustained problem-first learning design.
 
 *Merged from “Example-problem sequences reduce cognitive load and improve learning outcomes.” (example-problem-sequences-reduce-cognitive-load):* This page combines two earlier pages on the same claim, `worked-examples-example-problem-sequences` and `example-problem-sequences-reduce-cognitive-load-and-improve-learning-outcomes`, which now resolve to it as aliases.
-
-
 
 *Merged from “Example–problem sequences reduce cognitive load and improve learning outcomes” (example-problem-sequences-reduce-cognitive-load-and-improve-learning-outcomes):* **Mechanism.** The claim sits within [Cognitive Load Theory](../theories/cognitive-load-theory.md): problem-only practice forces novices to search solution paths, consuming working memory that could otherwise build schemas. Studying worked examples first or interleaved with problems offloads that search, consistent with the broader finding that [cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) and that [chunking reduces working memory load](chunking-reduces-working-memory-load.md).
 
@@ -107,6 +104,12 @@ Do not conflate example→problem pairs with completion problems: the latter omi
 **Single-study limitation.** Both subclaims currently rest on one experiment with 96 analyzed participants in electrical-circuits troubleshooting. Replication in other domains and with larger samples would strengthen confidence; do not generalize this ordering contrast to delayed or far-transfer outcomes without further evidence.
 
 ## Related Claims
+
+- [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](practice-presence-raises-cbi-posttest-achievement.md) — the general claim this finding bears on, with the studies behind it
+
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — the general claim this finding bears on, with the studies behind it
+
+- [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md) — the general claim this finding bears on, with the studies behind it
 
 - [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — the general claim this finding bears on, with the studies behind it
 

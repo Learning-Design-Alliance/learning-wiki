@@ -12,7 +12,7 @@ generated:
 # Schmidt's noticing hypothesis
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 13 claims (5 for, 6 mixed, 2 against) · 9 studies (3 review, 2 qualitative, 2 theoretical, 1 causal, 1 design), `q1`–`q2` · 0 of 9 report an effect size · 13 claims rest on one study
+> **Evidence** · 16 claims (8 for, 6 mixed, 2 against) · 16 studies (5 quant-synthesis, 4 review, 3 qualitative, 2 theoretical, 1 causal, 1 design), `q1`–`q3` · 1 of 16 report an effect size · 14 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ed338037, eric-ej1155586, eric-ej930155, eric-ej1412014, eric-ej1361438, eric-ej1117239, eric-ed507438. The primary works in Key Sources were verified against Crossref but not read. -->
 

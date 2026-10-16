@@ -13,6 +13,18 @@
         [
           "method-approach-effect-sizes-vary-analogy-largest",
           "+"
+        ],
+        [
+          "encoding-variability-decontextualization-transfer",
+          "+"
+        ],
+        [
+          "multiple-examples-per-problem-type",
+          "+"
+        ],
+        [
+          "example-variability-interaction-with-cognitive-load",
+          "~"
         ]
       ]
     },

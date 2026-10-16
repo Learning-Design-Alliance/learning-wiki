@@ -44,17 +44,22 @@ Narrative review of language-of-instruction evidence. The brief states the "evid
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does teaching through the learner's home language (dual language or mother-tongue instruction), rather than early transfer to the school language, improve school-language and subject learning?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **7 distinct studies** (3 quant-synthesis, 2 review, 2 theoretical), `q1`–`q3`, 1 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does teaching through the learner's home language (dual language or mother-tongue instruction), rather than early transfer to the school language, improve school-language and subject learning?* This table gathers the studies behind this claim and the 14 narrower claims that bear on it: **12 distinct studies** (4 review, 2 causal, 2 theoretical, 2 associational, 1 qualitative, 1 quant-synthesis), `q1`–`q3`, 3 of 12 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | Foundational Learning 2023 | q2 · review · r? | i? | this claim |
-| lit-1 | q3 · quant-synthesis · r1 | i1 | [Dual language programs improved English literacy achievement, with a potentially positive ](dual-language-programs-improve-literacy-achievement.md) (supports) |
-| el-1 | q3 · quant-synthesis · r1 | i? | [Literacy benefits of dual language programs did not extend to the English learner subsampl](dual-language-literacy-null-for-english-learners.md) (qualifies) |
-| review-1 | q2 · quant-synthesis · r2 | i? | [The evidence base on dual language programs is thin: only two of 122 identified studies me](dual-language-evidence-base-thin-two-of-122.md) (qualifies) |
+| [ev-4](https://doi.org/10.51388/20.500.12265/316) | q3 · review · r2 | i? | [Primary-language (Spanish) oral instructions yielded significantly higher English reading ](primary-language-support-higher-english-comprehension.md) (supports) |
+| Rolla 2024 | q2 · review · r2 | i? | [Spanish–English bilinguals performed better on kindergarten mathematics assessments when t](bilinguals-better-math-tested-in-spanish.md) (supports) |
+| Carrie Gillispie 2021 | q2 · qualitative · r2 | i? | [Dual language learners especially benefit from high-quality early care and dual language i](dual-language-learners-benefit-from-immersion-programs.md) (supports) |
+| el-1 | q2 / q3 · quant-synthesis · r1 | i?; i1 | [Literacy benefits of dual language programs did not extend to the English learner subsampl](dual-language-literacy-null-for-english-learners.md) (qualifies); [Dual language programs improved English literacy achievement, with a potentially positive ](dual-language-programs-improve-literacy-achievement.md) (supports); [The evidence base on dual language programs is thin: only two of 122 identified studies me](dual-language-evidence-base-thin-two-of-122.md) (qualifies) |
+| [Yow 2019](https://doi.org/10.1177/2332858419878126) | q3 · causal · r1 | i2; i0 | [Bilingual preschoolers silently reading dual-language e-books attend more to their dominan](dominant-language-attention-bias-dual-language-e-books.md) (qualifies); [Without a competing language, bilingual preschoolers show no preference between English-on](no-language-preference-single-language-silent-reading.md) (qualifies) |
 | Ceballos & Nutta 2022 | q2 · theoretical · r2 | i? | [Dual language programs are associated with higher achievement and with EB/non-EB achieveme](dual-language-programs-gap-closure-longitudinal.md) (supports) |
 | Cummins 1999 | q1 · theoretical · r2 | i? | [Early-exit transitional bilingual programs that provide minimal early-grade English litera](early-exit-transitional-transition-unsupported-inappropriate.md) (supports) |
 | Doronila 1997 | q2 · review · r1 | i? | [Rizal Experiment showed literacy achieved more quickly in local and national languages but](rizal-experiment-local-language-faster-literacy.md) (supports) |
+| Angela Johnson 2020 | q2 · associational · r2 | i? | [Despite faster early math growth, dual language students did not learn more than their pee](dual-language-math-no-long-run-advantage-gap-not-closing.md) (qualifies) |
+| de la Torre 2021 | q2 · associational · r? | i? | [ELs who received bilingual education services had higher long-run attendance and academic ](bilingual-services-higher-el-outcomes-than-refusal.md) (supports) |
+| Bilingual Cooperative Integrated Reading and Composition 2007 | q2 · causal · r2 | i2 | [BCIRC has potentially positive effects on reading achievement for Spanish-speaking English](bcirc-potentially-positive-reading-achievement.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

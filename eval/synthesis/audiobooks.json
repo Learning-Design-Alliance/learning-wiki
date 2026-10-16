@@ -1,0 +1,24 @@
+{
+  "principle": "elements/audiobooks",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "reading-versus-listening-incidental-vocabulary-gains",
+      "question": "Does a learner who listens to a text, or reads while listening, lose anything against reading it?",
+      "members": [
+        [
+          "spoken-input-incidental-l2-word-learning-large-gains",
+          "+"
+        ],
+        [
+          "spoken-written-beats-spoken-only-not-written-only",
+          "~"
+        ],
+        [
+          "repeated-listening-improves-oral-reading-fluency",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

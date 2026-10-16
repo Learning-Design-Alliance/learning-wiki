@@ -41,11 +41,12 @@ A generalized linear mixed-model analysis across six quarters of Biology 180, wi
 
 ## Discussion
 
-
 ## Learner Variables
 - [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
+- [In the few studies that split by ability, learning techniques helped low-ability students and not high-ability students](learning-techniques-benefit-low-ability-not-high-ability-students.md) — the general claim this finding bears on, with the studies behind it
 - [Raw failure rates in the introductory biology course declined from 18.2% to 6.3% as course structure increased across quarters](failure-rate-declined-18-to-6-percent.md) — a narrower finding that bears on this claim
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — related
 - [Student academic ability varied across quarters but not systematically with changes in course structure](student-ability-varied-not-with-structure.md) — related

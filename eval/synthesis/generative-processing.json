@@ -1,0 +1,94 @@
+{
+  "principle": "elements/generative-processing",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "generative-processing-improves-learning",
+      "question": "Does having learners generate their own elaborations improve learning, compared with no elaboration or with elaborations supplied to them?",
+      "members": [
+        [
+          "self-generated-elaboration-improves-procedural-knowledge-accounting",
+          "+"
+        ],
+        [
+          "self-generated-elaboration-improves-intellectual-skills",
+          "+"
+        ],
+        [
+          "elaboration-strategy-affects-posttest-performance",
+          "+"
+        ],
+        [
+          "elaboration-strategy-no-attitude-effect",
+          "~"
+        ],
+        [
+          "gpa-pretest-elaboration-interaction-intellectual-skills",
+          "~"
+        ],
+        [
+          "elaborative-processing-enhances-retrieval",
+          "+"
+        ],
+        [
+          "adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects",
+          "~"
+        ],
+        [
+          "trained-elaboration-beats-question-stimulated-elaboration",
+          "+"
+        ],
+        [
+          "drawing-improves-learning",
+          "+"
+        ],
+        [
+          "elaborative-interrogation-improves-learning",
+          "+"
+        ],
+        [
+          "constructive-learning-beats-active-passive",
+          "+"
+        ],
+        [
+          "constructive-beats-passive-young-children",
+          "+"
+        ],
+        [
+          "generative-learning-reorganizing-integrating-prior-knowledge",
+          "+"
+        ],
+        [
+          "concept-mapping-improves-learning",
+          "~"
+        ],
+        [
+          "generative-strategies-boundary-conditions",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "generation-effect-improves-retention",
+      "question": "Does generating an answer or item, rather than reading it, improve later memory of it, and for which materials?",
+      "members": [
+        [
+          "generation-knowledge-interaction-advantage",
+          "+"
+        ],
+        [
+          "generation-no-overall-knowledge-effect-l2-vocabulary",
+          "-"
+        ],
+        [
+          "generation-no-pairwise-differences-knowledge",
+          "-"
+        ],
+        [
+          "generation-no-detriment-l2-recall",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

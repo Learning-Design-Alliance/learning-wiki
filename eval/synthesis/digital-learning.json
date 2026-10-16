@@ -33,6 +33,38 @@
         [
           "sms-vocabulary-learning-beats-paper-materials",
           "~"
+        ],
+        [
+          "prior-technology-meta-analyses-inconsistent-effects",
+          "+"
+        ],
+        [
+          "emerging-tech-tefl-pooled-effect-g038",
+          "~"
+        ],
+        [
+          "tefl-tech-effects-increase-by-educational-level",
+          "~"
+        ],
+        [
+          "technology-enhanced-stories-small-benefit-comprehension-expressive-vocabulary",
+          "~"
+        ],
+        [
+          "design-moderates-technology-story-effect",
+          "+"
+        ],
+        [
+          "digital-games-outperform-nongame-media-comparisons",
+          "~"
+        ],
+        [
+          "computerized-differentiation-systems-positive-effects-primary",
+          "~"
+        ],
+        [
+          "peer-small-group-outperform-other-methods",
+          "~"
         ]
       ]
     },

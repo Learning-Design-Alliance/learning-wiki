@@ -19,7 +19,7 @@ grain_size: lesson
 # Socratic Seminar
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 4 claims (4 mixed) · 13 studies (3 causal, 3 quant-synthesis, 3 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 1 of 13 report an effect size
+> **Evidence** · 5 claims (1 for, 4 mixed) · 15 studies (4 causal, 4 quant-synthesis, 3 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 2 of 15 report an effect size
 
 ## Description
 Socratic Seminar is a structured, text-centered discussion pattern in which learners explore a complex question through dialogue, evidence, and follow-up questioning rather than through debate aimed at victory. The goal is disciplined interpretation: learners listen closely, build on one another's ideas, test assumptions, and return to the text or shared source as they refine understanding.

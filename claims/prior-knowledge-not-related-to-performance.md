@@ -52,6 +52,8 @@ In an analysis of correlations, the authors found that "prior knowledge was not 
 
 ## Related Claims
 
+- [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — the general claim this finding bears on, with the studies behind it
+
 - [Prior knowledge activation improves learning.](activation-improves-learning.md) — the positive general finding this null result must be read against
 - [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) — prior knowledge as a moderator of strategy effectiveness
 - [Analogical reasoning improves transfer.](comparing-contrasting-cases-improves-learning.md) — transfer depends on relevant prior knowledge being available

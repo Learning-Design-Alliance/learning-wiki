@@ -1,0 +1,84 @@
+{
+  "principle": "learner-variables/age-and-developmental-stage",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "older-entry-higher-initial-achievement",
+      "question": "Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?",
+      "members": [
+        [
+          "entrance-age-advantage-reflects-prior-skill-accumulation",
+          "~"
+        ],
+        [
+          "entry-age-growth-rate-tradeoff",
+          "~"
+        ],
+        [
+          "redshirting-academic-advantage-short-lived",
+          "~"
+        ],
+        [
+          "delayed-entrants-slightly-higher-reading-first-grade",
+          "+"
+        ],
+        [
+          "delayed-entrants-behind-in-math-first-grade",
+          "-"
+        ],
+        [
+          "older-classmates-boost-scores-increase-repetition-and-disability-diagnoses",
+          "~"
+        ],
+        [
+          "relative-age-relates-disability-classification",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "age-moderates-mbi-outcomes",
+      "question": "Does the effect of school mindfulness programmes depend on the learner's age?",
+      "members": [
+        [
+          "mindfulness-late-adolescence-largest-effects",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "learning-ability-does-not-decline-with-age",
+      "question": "Can older learners learn a new language as well as younger ones, and what teaching suits them?",
+      "members": [
+        [
+          "no-evidence-older-adults-cannot-learn-language",
+          "+"
+        ],
+        [
+          "adults-faster-early-stage-language-learning",
+          "+"
+        ],
+        [
+          "adults-find-pronunciation-harder-than-children",
+          "~"
+        ],
+        [
+          "rote-drills-disadvantage-older-learners",
+          "~"
+        ],
+        [
+          "l1-transfer-efficient-until-outgrown",
+          "~"
+        ],
+        [
+          "older-beginners-excluded-from-standard-adl-esl",
+          "~"
+        ],
+        [
+          "modifications-essential-for-vulnerable-learners",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

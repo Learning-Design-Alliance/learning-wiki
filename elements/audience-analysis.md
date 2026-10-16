@@ -13,7 +13,7 @@ generated:
 # Audience Analysis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (9 for, 4 mixed) · 19 studies (5 causal, 5 associational, 4 theoretical, 2 quant-synthesis, 2 review, 1 qualitative), `q1`–`q4` · 2 of 19 report an effect size · 9 claims rest on one study
+> **Evidence** · 14 claims (10 for, 4 mixed) · 22 studies (6 causal, 5 associational, 5 theoretical, 3 review, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 2 of 22 report an effect size · 9 claims rest on one study
 
 ## Description
 Audience analysis (often called learner analysis) is the systematic investigation of who the learners are — their prior knowledge, skills, motivations, language proficiency, demographics, and learning context — conducted before designing instruction. It functions as the evidence base for decisions about sequencing, vocabulary, examples, pacing, and support, replacing designer assumptions with data about the actual audience.

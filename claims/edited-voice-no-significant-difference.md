@@ -39,8 +39,9 @@ The same logistic regression models across P1 and P2 found edited voice prompts 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Adult ESL learners report above-neutral perceptions of ASR as a writing tool on usefulness, ease of use, and intention to use](esl-learners-positive-perceptions-asr-writing.md) — the general claim this finding bears on, with the studies behind it
 - [Unedited voice prompts have lower odds of first-attempt success than text prompts on two of three Prompt Problems](unedited-voice-lower-first-attempt-success.md) — related
 - [Students perceived text input as superior for accuracy, control, and editability, with transcription errors a key voice drawback](text-perceived-accuracy-control-editability.md) — related
 - [Initial prompting method did not explain immediate success on the third problem (P3)](p3-modality-no-effect.md) — related

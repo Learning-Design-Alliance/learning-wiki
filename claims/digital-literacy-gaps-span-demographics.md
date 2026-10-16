@@ -40,6 +40,24 @@ Landscape review section on Technology Access and Adoption, citing Bergson-Shilc
 
 > "Digital literacy skills critically impact e-learning acceptance, job performance, earnings, and economic prospects"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do learners who differ in digital literacy differ in learning, engagement and later outcomes?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **9 distinct studies** (6 associational, 2 review, 1 theoretical), `q2`–`q3`, 0 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Zohal Shah 2024](https://doi.org/10.51388/20.500.12265/224) | q2 · review · r? | i? | this claim |
+| [Weaver 2022](https://doi.org/10.51388/20.500.12265/166) | q2 / q3 · review · r1 | i? | [Digital skill gaps are large and racialized among U.S. earners, and digital skill level co](digital-skill-gaps-earners-nsc.md) (supports); [Students without home broadband or who rely only on a cell phone show a digital skill gap ](home-broadband-digital-skill-gap.md) (supports) |
+| [nsc-1](https://doi.org/10.51388/20.500.12265/223) | q2 · theoretical · r2 | i? | [Digital skill gaps among U.S. workers are pronounced by race, while over 90 percent of job](racial-digital-skill-gaps-workforce.md) (supports) |
+| [Shi 2025](https://doi.org/10.17605/osf.io/p85s3) | q2 · associational · r2 | i? | [Technical confidence using digital learning tools is positively associated with lower dist](technical-competency-associated-lower-distraction.md) (supports) |
+| [Conijn 2022](https://doi.org/10.1111/jcal.12651) | q2 · associational · r2 | i? | [Higher internet literacy is associated with lower test anxiety in online exams](internet-literacy-lower-test-anxiety.md) (supports) |
+| [Popa 2022](https://doi.org/10.48550/arxiv.2605.27391) | q2 · associational · r2 | i? | [Digital skills are the only consistently positive predictor of ICT career aspiration growt](digital-skills-only-consistent-positive-predictor-ict-aspirations.md) (supports); [Learning environment indicators only moderately discriminate between countries with high v](lda-moderate-discrimination-ict-aspiration-growth.md) (supports) |
+| [Chow Tak Sang 2026](https://doi.org/10.3390/bs16081448) | q2 · associational · r1 | i? | [Prior digital competence significantly predicts AI literacy after external resources are c](digital-competence-predicts-ai-literacy-incrementally.md) (supports); [Predictors operate selectively across AI literacy subdimensions: digital competence fails ](determinants-selective-across-ai-literacy-subdimensions.md) (qualifies) |
+| [Stephen Colbran 2026](https://doi.org/10.1186/s41239-026-00605-w) | q3 · associational · r1 | i? | [Prior chatbot exposure rather than general technological literacy is associated with willi](prior-ai-exposure-predicts-chatbot-uptake.md) (counts against) |
+| [Abderrahim Agnaou; Hayat El Asri 2025](https://doi.org/10.5590/jerap.2025.15.2120) | q2 · associational · r? | i? | [Student perceptions of LLM influence on collaboration and creativity do not differ signifi](no-perception-differences-by-digital-familiarity-ai-comfort-prior-use.md) (counts against) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

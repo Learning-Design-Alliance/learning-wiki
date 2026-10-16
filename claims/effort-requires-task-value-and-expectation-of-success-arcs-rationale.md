@@ -40,6 +40,19 @@ Theoretical argument in the digest, not a tested result. It states that in expec
 
 > "Therefore, in an instructional situation, the learning task needs to be presented in a way that is engaging and meaningful to the student, and in a way that promotes positive expectations for the successful achievement of learning objectives."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does motivation as ARCS defines it (attention, relevance, confidence, satisfaction) go with learners' effort and use, and do design choices raise it?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **4 distinct studies** (1 review, 1 associational, 1 causal, 1 qualitative), `q1`–`q2`, 2 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Small 1997 | q1 · review · r2 | i? | this claim |
+| [Xin Tian 2026](https://doi.org/10.1186/s41239-026-00613-w) | q2 · associational · r2 | i3; i? | [ARCS motivation showed the strongest correlations in the matrix with both behavioral inten](arcs-strongest-correlations-intention-use.md) (supports); [ARCS motivation did not significantly predict behavioral intention but exerted a strong di](arcs-motivation-drives-use-behavior-not-intention.md) (supports); [ARCS motivation did not significantly moderate any of the tested UTAUT3 acceptance pathway](arcs-moderation-effects-null.md) (qualifies) |
+| [Fumie Watanabe 2026](https://doi.org/10.48550/arxiv.2608.20822) | q2 · causal · r1 | i?; i1 | [Student–student and teacher–teacher dialogue formats elicited significantly higher ARCS mo](ss-tt-higher-motivation-than-ts.md) (qualifies); [In TTS dialogue-based lessons, the teacher–teacher format significantly moderates the moti](tt-format-moderates-ce-rce-motivation.md) (qualifies) |
+| Iwatani 2023 | q1 · qualitative · r1 | i? | [Participants identified assessment redesign approaches for helping all students feel succe](assessment-redesign-insights-tlc-convening.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

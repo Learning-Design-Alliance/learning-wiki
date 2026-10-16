@@ -61,8 +61,9 @@ The chapter cites Carpenter and DeLosh (2006) and Karpicke and Roediger (2007a) 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md)
 - [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](less-initial-retrieval-support-produces-better-retention.md) — reports the opposite
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related

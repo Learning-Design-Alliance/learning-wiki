@@ -7,12 +7,28 @@
       "question": "Does teaching fact-checkers' off-page moves over several lessons improve learners' judgments of unfamiliar online sources, and how far does it reach?",
       "members": [
         [
-          "checklist-evaluation-ineffective-online",
-          "~"
+          "course-embedded-modules-improve-credibility-scores",
+          "+"
+        ],
+        [
+          "lateral-reading-increased-post-intervention",
+          "+"
+        ],
+        [
+          "surface-strategies-declined-after-modules",
+          "+"
+        ],
+        [
+          "gains-robust-to-test-form-order",
+          "+"
         ],
         [
           "ai-media-literacy-program-large-posttest-gains",
           "+"
+        ],
+        [
+          "checklist-evaluation-ineffective-online",
+          "~"
         ],
         [
           "collaborative-evidence-critique-shifts-students-toward-procedural-objectivity",

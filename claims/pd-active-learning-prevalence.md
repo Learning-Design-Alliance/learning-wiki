@@ -41,8 +41,9 @@ Coding result across the report's 35 reviewed studies. Active learning is descri
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](effective-pd-seven-features.md) — the general claim this finding bears on, with the studies behind it
 - [Micro-credentials incorporate prominent features of effective professional development: they are content-focused, job-embedded, and incorporate active learning](micro-credentials-features-of-effective-professional-development.md) — related
 - [Content-focused, job-embedded PD linked to student gains: 31 of 35 reviewed studies featured a specific content focus](pd-content-focus-prevalence.md) — related
 - [Collaboration appeared in 32 of 35 reviewed studies, and collaborative PD models showed student achievement gains](pd-collaboration-prevalence-and-gains.md) — related

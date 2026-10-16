@@ -41,7 +41,8 @@ Within-school SEM result: the direct path from principal leadership to academic 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers](instructional-leadership-linked-student-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Within schools, principal leadership relates to individual teachers' instruction through multiple pathways, with the strongest via program quality (professional development and coherence)](leadership-instruction-within-schools-program-quality.md) — related
 - Principals' direct involvement with classroom instruction showed no benefits and some detriments for instructional quality in high schools — possibly the same claim (merge candidate)

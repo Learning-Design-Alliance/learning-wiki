@@ -13,7 +13,7 @@ generated:
 # Misconception Probes
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 9 studies (3 causal, 3 quant-synthesis, 2 qualitative, 1 design), `q1`–`q4` · 2 of 9 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 10 studies (3 causal, 3 quant-synthesis, 2 qualitative, 1 review, 1 design), `q1`–`q4` · 2 of 10 report an effect size · 3 claims rest on one study
 
 ## Description
 A misconception probe is a carefully constructed question, scenario, or two-tier item (answer plus reasoning) that targets a known, documented misconception. Learners commit to an answer *before* instruction, making their intuitive model visible to themselves and the instructor. The probe functions as diagnosis, not assessment — its purpose is to activate the faulty schema so that subsequent instruction can directly challenge it.

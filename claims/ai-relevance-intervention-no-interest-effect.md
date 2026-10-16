@@ -47,6 +47,10 @@ Univariate ANCOVA follow-up to the MANCOVA on post math class interest; the arti
 
 ## Related Claims
 
+- [GenAI-assisted education produces significantly higher learning motivation than non-GenAI approaches (g = 0.81)](genai-learning-motivation-g081.md) — the general claim this finding bears on, with the studies behind it
+
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — the general claim this finding bears on, with the studies behind it
+
 - [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](personalized-problem-contexts-boost-engagement-grades-4-8.md) — the general claim this finding bears on, with the studies behind it
 - [A collective generative AI relevance intervention significantly improved high school students' relevance as identification with math immediately after the intervention compared with a control group](collective-ai-intervention-improves-relevance-identification-math.md) — related
 - [The individualized generative AI condition showed no significant effect on relevance as identification with math compared with the control group or the collective condition](individual-ai-condition-no-significant-relevance-effect.md) — related

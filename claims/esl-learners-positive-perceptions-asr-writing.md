@@ -39,6 +39,17 @@ Mixed-methods one-shot study: 17 ESL students in a university EAP class trained 
 
 > "an analysis of the TAM survey showed positive perceptions, as the means of the items for each category were above the level of neutrality (i.e . four), indicating that the users saw the technology as useful, easy to use, and consequently, they intend to use it again"
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does dictating help learners get text written, compared with typing it?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **2 distinct studies** (2 associational), `q2`–`q3`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Johnson 2021](https://doi.org/10.14705/rpnet.2021.54.1327) | q2 · associational · r1 | i? | this claim; [Interviews reveal ESL learners valued ASR for bypassing orthography and grammar concerns, ](interviews-asr-ease-and-speaking-benefits.md) (supports); [Through Chapelle's CALL evaluation criteria, participants experienced ASR writing as usefu](chapelle-criteria-asr-writing-affordances.md) (supports); [Among TAM constructs, result demonstrability, intention to use, and ease of use received t](tam-construct-means-asr-writing-study.md) (supports) |
+| [edited-voice](https://doi.org/10.1145/3803400.3809397) | q2 / q3 · associational · r1 | i? | [Edited voice prompts did not significantly differ from text prompts in first-attempt succe](edited-voice-no-significant-difference.md) (qualifies); [Students reported mixed, task-dependent perceptions of the efficiency and speed of voice v](mixed-efficiency-speed-perceptions.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

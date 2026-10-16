@@ -19,7 +19,7 @@
           "+"
         ],
         [
-          "classroom-quizzing-improves-exam-performance-across-grades",
+          "classroom-quizzing-improves-exam-performance-across-grades-and-content",
           "+"
         ],
         [
@@ -35,7 +35,7 @@
           "+"
         ],
         [
-          "ten-learning-techniques-ranked-distributed-practice",
+          "ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest",
           "+"
         ],
         [
@@ -47,12 +47,76 @@
           "+"
         ],
         [
-          "closed-book-versions-of-quizzes-and-concept-maps",
+          "closed-book-versions-of-quizzes-and-concept-maps-outperform-open-book-versions",
           "+"
         ],
         [
-          "retrieval-practice-produces-more-learning-than-concept-mapping",
+          "retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration",
           "+"
+        ],
+        [
+          "repeated-recall-without-feedback-beats-repeated-study-at-one-week-but-not-five-minutes",
+          "~"
+        ],
+        [
+          "retrieval-practice-benefits-persist-six-to-nine-months",
+          "+"
+        ],
+        [
+          "retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling",
+          "~"
+        ],
+        [
+          "spaced-retrieval-multiyear-vocabulary-retention",
+          "+"
+        ],
+        [
+          "repeated-retrieval-success-predicts-final-recall",
+          "~"
+        ],
+        [
+          "retrieval-practice-implementation-case-newell",
+          "+"
+        ],
+        [
+          "testing-effect-generalizes-education-levels",
+          "+"
+        ],
+        [
+          "retrieval-practice-benefits-generalize-to-children-older-adults-and-memory-impaired-patients",
+          "+"
+        ],
+        [
+          "retrieval-practice-enhances-final-context-memory-and-memory-search-efficiency",
+          "+"
+        ],
+        [
+          "recollecting-the-prior-study-episode-during-retrieval-enhances-retention",
+          "+"
+        ],
+        [
+          "repeated-retrieval-alters-the-rate-of-forgetting",
+          "+"
+        ],
+        [
+          "retrieval-practice-disrupts-within-list-order-reconstruction",
+          "~"
+        ],
+        [
+          "effects-of-retrieval-practice-on-semantic-organization-are-unclear",
+          "~"
+        ],
+        [
+          "retrieval-practice-improves-transfer",
+          "~"
+        ],
+        [
+          "retrieval-failure-reduces-benefit",
+          "~"
+        ],
+        [
+          "retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent",
+          "~"
         ]
       ]
     },
@@ -69,7 +133,7 @@
           "~"
         ],
         [
-          "retrieval-practice-effects-occur-at-short-delays",
+          "retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling",
           "~"
         ],
         [
@@ -85,7 +149,7 @@
           "+"
         ],
         [
-          "retrieval-practice-reading-comprehension-no-significant-retention",
+          "retrieval-practice-reading-comprehension-no-significant-retention-interval-difference",
           "~"
         ],
         [
@@ -107,7 +171,7 @@
           "+"
         ],
         [
-          "transfer-greatest-test-formats-application-inference",
+          "transfer-greatest-test-formats-application-inference-medical-mediator-cues",
           "+"
         ],
         [
@@ -119,7 +183,7 @@
           "+"
         ],
         [
-          "retrieval-induced-facilitation-of-nontested-text-material",
+          "retrieval-induced-facilitation-of-nontested-text-material-requires-relational-encoding",
           "~"
         ],
         [
@@ -127,7 +191,7 @@
           "~"
         ],
         [
-          "retrieval-practice-lower-order-questions-outscore-higher-order",
+          "retrieval-practice-lower-order-questions-outscore-higher-order-questions",
           "~"
         ],
         [
@@ -136,6 +200,10 @@
         ],
         [
           "learning-techniques-smaller-effects-on-deep-learning-and-far-transfer",
+          "~"
+        ],
+        [
+          "moderators-congruency-elaborated-retrieval-initial-test-performance",
           "~"
         ]
       ]
@@ -171,6 +239,34 @@
         [
           "overt-error-correction-speeds-young-children-learning",
           "+"
+        ],
+        [
+          "feedback-reduces-lure-intrusions",
+          "+"
+        ],
+        [
+          "feedback-neutralizes-prior-study-effects",
+          "+"
+        ],
+        [
+          "feedback-after-multiple-choice-tests-halves-lure-intrusions",
+          "+"
+        ],
+        [
+          "repeated-recall-without-feedback-beats-repeated-study-at-one-week-but-not-five-minutes",
+          "~"
+        ],
+        [
+          "immediate-feedback-limits-downstream-error-learning",
+          "~"
+        ],
+        [
+          "detailed-answer-keys-improve-momentum-only",
+          "~"
+        ],
+        [
+          "mc-testing-effect-and-net-harm-boundary",
+          "+"
         ]
       ]
     },
@@ -183,11 +279,11 @@
           "~"
         ],
         [
-          "production-vs-recognition-retrieval-practice-no-significant-difference",
+          "production-vs-recognition-retrieval-practice-no-significant-difference-reading-comprehension",
           "~"
         ],
         [
-          "effect-of-more-multiple-choice-alternatives-depends",
+          "effect-of-more-multiple-choice-alternatives-depends-on-initial-retrieval-success",
           "~"
         ],
         [
@@ -199,11 +295,27 @@
           "~"
         ],
         [
-          "retrieval-practice-benefits-do-not-require-matching",
+          "retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats",
           "~"
         ],
         [
-          "retrieval-format-levels-of-thinking-retention-interval-three-way",
+          "retrieval-format-levels-of-thinking-retention-interval-three-way-interaction-not-significant",
+          "~"
+        ],
+        [
+          "retrieval-format-by-levels-of-thinking-interaction-not-significant",
+          "~"
+        ],
+        [
+          "retrieval-format-by-retention-interval-interaction-not-significant",
+          "~"
+        ],
+        [
+          "competitive-multiple-choice-alternatives-benefit-related-untested-questions",
+          "~"
+        ],
+        [
+          "feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice",
           "~"
         ]
       ]
@@ -213,7 +325,7 @@
       "question": "How much should retrieval succeed during practice, and how much support should it get?",
       "members": [
         [
-          "retrieval-practice-effects-more-robust-when-initial-retrieval-success",
+          "retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent",
           "+"
         ],
         [
@@ -233,8 +345,12 @@
           "+"
         ],
         [
-          "recollecting-the-prior-study-episode-during-retrieval",
+          "recollecting-the-prior-study-episode-during-retrieval-enhances-retention",
           "~"
+        ],
+        [
+          "unsuccessful-retrieval-smaller-benefit-than-successful",
+          "+"
         ]
       ]
     },
@@ -243,7 +359,7 @@
       "question": "How many practice tests, and how should they be scheduled?",
       "members": [
         [
-          "spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial",
+          "spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall",
           "+"
         ],
         [
@@ -255,7 +371,7 @@
           "~"
         ],
         [
-          "expanding-retrieval-schedules-are-not-superior",
+          "expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules",
           "~"
         ],
         [
@@ -345,6 +461,18 @@
         [
           "underuse-stems-from-false-beliefs-and-counterintuition",
           "+"
+        ],
+        [
+          "rereading-is-a-low-utility-study-strategy",
+          "+"
+        ],
+        [
+          "students-aware-of-strategies-but-fail-to-act",
+          "~"
+        ],
+        [
+          "instructions-increase-learning-time-allocation",
+          "~"
         ]
       ]
     }

@@ -140,7 +140,7 @@ This study found that the seductive details effect was not uniform: readers with
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does making material more interesting with details that do not carry the target cost learning?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **9 distinct studies** (6 causal, 2 quant-synthesis, 1 theoretical), `q2`–`q4`, 2 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does making material more interesting with details that do not carry the target cost learning?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **13 distinct studies** (6 causal, 2 quant-synthesis, 2 theoretical, 2 design, 1 review), `q1`–`q4`, 2 of 13 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -153,6 +153,10 @@ This study found that the seductive details effect was not uniform: readers with
 | [Mayer et al. 2001](https://doi.org/10.1037/0022-0663.93.1.187) | q3 · causal · r? | i? | [Coherence Principle Irrelevant Material Hurts Learning](coherence-principle-irrelevant-material-hurts-learning.md) (supports) |
 | [Rey 2012](https://doi.org/10.1016/j.edurev.2012.05.003) | q4 · quant-synthesis · r? | i? | [Coherence Principle Irrelevant Material Hurts Learning](coherence-principle-irrelevant-material-hurts-learning.md) (supports) |
 | [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · theoretical · r3 | i3 | [Coherence Principle Irrelevant Material Hurts Learning](coherence-principle-irrelevant-material-hurts-learning.md) (supports) |
+| Merging Cognitive Science and Curriculum to Strengthen Middle School Math 2014 | q1 · design · r1 | i? | [A WestEd research bulletin reports a curriculum revision that replaced a decorative photog](decorative-images-distract-from-math-problems.md) (supports) |
+| [Brame Cynthia J 2016](https://doi.org/10.1187/cbe.16-03-0125) | q2 · review · r2 | i? | [Weeding extraneous information such as music and complex backgrounds improves retention an](weeding-extraneous-content-improves-video-learning.md) (supports) |
+| Preparing Problems for Classroom Instruction 2012 | q1 · theoretical · r1 | i? | [Unfamiliar problem contexts and vocabulary distract students from the mathematics and reas](unfamiliar-contexts-distract-from-mathematics.md) (supports) |
+| [Tseng 2026](https://doi.org/10.48550/arxiv.2607.06721) | q2 · design · r3 | i? | [Automatically updating the flowchart and injecting generated code into editors drew partic](auto-updates-drew-users-from-explanations.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

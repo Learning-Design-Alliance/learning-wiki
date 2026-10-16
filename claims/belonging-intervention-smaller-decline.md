@@ -41,11 +41,12 @@ In this randomized intervention study, students "were randomly assigned to a gro
 
 ## Discussion
 
-
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
 
 ## Related Claims
+
+- [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Both sense of belonging and intentions to persist decline over the first academic year](belonging-and-persistence-intentions-decline-first-year.md) — related
 - [Localizing word-problem character names improved MATHia performance only for specific subgroup-majority schools, with no improvement in sense of belonging overall](localized-names-personalization-subgroup-performance.md) — related
 - [First-year students' sense of belonging to their university predicts intentions to persist, controlling for background variables and other persistence predictors](sense-of-belonging-predicts-persistence-intentions.md) — related

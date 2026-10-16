@@ -12,7 +12,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 73 claims (61 for, 7 mixed, 5 against) · 66 studies (22 causal, 14 associational, 11 design, 10 review, 4 qualitative, 3 quant-synthesis, 2 theoretical), `q1`–`q4` · 11 of 66 report an effect size · 69 claims rest on one study
+> **Evidence** · 74 claims (62 for, 7 mixed, 5 against) · 72 studies (27 causal, 14 associational, 11 design, 10 review, 4 quant-synthesis, 4 qualitative, 2 theoretical), `q1`–`q4` · 12 of 72 report an effect size · 69 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).

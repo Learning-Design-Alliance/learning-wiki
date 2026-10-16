@@ -1,0 +1,42 @@
+{
+  "principle": "elements/assess-performance",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "performance-assessments-reliably-scoreable",
+      "question": "Can methods scored by judgement be scored reliably, or do they add rater variation?",
+      "members": [
+        [
+          "equity-concerns-performance-based-assessments",
+          "~"
+        ],
+        [
+          "pog-assessment-validity-reliability-challenges",
+          "~"
+        ],
+        [
+          "raters-differed-severity-mfrm",
+          "~"
+        ],
+        [
+          "engineering-rubric-low-scoring-reliability",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "performance-assessments-expand-mastery-demonstration-opportunities",
+      "question": "Do extended performance tasks give learners more and better chances to show what they can do than tests alone?",
+      "members": [
+        [
+          "students-report-tests-dominate-and-overweight-grades",
+          "+"
+        ],
+        [
+          "performance-assessments-complement-multiple-choice-tests",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

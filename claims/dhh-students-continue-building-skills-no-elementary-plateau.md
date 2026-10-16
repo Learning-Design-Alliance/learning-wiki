@@ -42,11 +42,12 @@ Longitudinal analysis of NWEA MAP Growth data from grades 2 to 8 across seven re
 
 ## Discussion
 
-
 ## Learner Variables
 - [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Math achievement of BVI students lags sighted peers and the gap widens with age](bvi-math-achievement-lags-and-gap-widens.md) — the general claim this finding bears on, with the studies behind it
 - [DHH students often experience systemic barriers to academic success, especially low expectations of what they know and can do](dhh-systemic-barriers-low-expectations.md) — related
 - Deaf students plateau at fourth-grade reading skill despite prolonged schooling — reports the opposite
 - [New research tracked academic growth trajectories of students who are deaf or hard of hearing across grades 2-8](dhh-growth-trajectories-grades-2-8-study.md) — related

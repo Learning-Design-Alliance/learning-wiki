@@ -41,8 +41,9 @@ Longitudinal performance-progression analysis of grantees' screening benchmark s
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Most students identified as significantly below benchmark on early literacy screeners remain significantly below benchmark 1 and 2 years later](significantly-below-benchmark-persists-across-years.md) — the general claim this finding bears on, with the studies behind it
 - [About 60 percent of students significantly below benchmark at BOY remained so at EOY, and improving to benchmark by MOY predicted meeting benchmark at EOY](within-year-risk-persistence.md) — related
 - [Most students at risk at BOY remain at risk later, but students who meet benchmark by midyear tend to stay on track](midyear-ontrack-students-stay-ontrack.md) — possibly the same claim (merge candidate)
 - [Risk status tends to persist: 75 percent of students significantly below benchmark at BOY remained so at EOY, and earlier grades showed lower year-to-year persistence](early-literacy-risk-persistence-within-and-across-years.md) — related

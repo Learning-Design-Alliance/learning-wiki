@@ -41,6 +41,7 @@ Consortium research on Chicago public schools, reported as the rationale for gro
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](schools-strong-three-plus-supports-ten-times-more-likely-improve.md) — the general claim this finding bears on, with the studies behind it
 - [Elementary schools with clusters of three or more NBCTs demonstrate greater strength on 7 of 12 essential supports measures](nbct-clusters-elementary-stronger-essential-supports.md) — related

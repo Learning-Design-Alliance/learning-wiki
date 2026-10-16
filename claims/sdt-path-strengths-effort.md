@@ -46,6 +46,8 @@ SEM results for the SDT model (n = 511) show standardized path coefficients to i
 
 ## Related Claims
 
+- [Basic psychological need satisfaction is strongly associated with learning engagement among medical undergraduates](need-satisfaction-strongly-associated-learning-engagement.md) — the general claim this finding bears on, with the studies behind it
+
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — the general claim this finding bears on, with the studies behind it
 - [Intended learning effort predicts L2 proficiency with a modest standardized coefficient of .20 in all three models](effort-predicts-proficiency-modestly.md) — related
 - [In the L2MSS, the L2 learning experience predicts intended effort most strongly, while the ideal L2 self is weaker than the theory argues](l2-learning-experience-beats-ideal-l2-self.md) — related

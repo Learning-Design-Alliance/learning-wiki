@@ -73,8 +73,9 @@ A post-hoc analysis of all 890 comment pieces using keyword search, LLM categori
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Educators report ASR features can be inaccurate for learners' diverse accents, dialects, and speech patterns](asr-inaccuracy-diverse-accents.md) — the general claim this finding bears on, with the studies behind it
 - [Edited voice prompts did not significantly differ from text prompts in first-attempt success](edited-voice-no-significant-difference.md) — related
 - [Students reported mixed, task-dependent perceptions of the efficiency and speed of voice versus text input](mixed-efficiency-speed-perceptions.md) — related
 - [Greater proportion of voice prompts used correlates moderately with greater stated preference for voice](voice-usage-preference-correlation.md) — related

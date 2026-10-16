@@ -74,6 +74,8 @@ Experiments in this study confirmed that feedback is more effectively processed 
 The effect is dependent on receiving immediate, non-punitive, and clear corrective feedback; without feedback, errors can be reinforced as misconceptions.
 
 ## Related Claims
+
+- [Pretesting enhances learning](pretesting-enhances-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](erroneous-examples-build-conceptual-knowledge.md)
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md)
 - [Emotion dynamics during problem-solving predict learning outcomes in a manner that depends on scaffolding design](emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently.md) — related

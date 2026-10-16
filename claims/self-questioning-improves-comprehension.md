@@ -62,11 +62,11 @@ This review examined 35 experimental research studies that taught self-questioni
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do annotations that make the reader generate questions, explanations or summaries improve comprehension?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **10 distinct studies** (4 quant-synthesis, 4 causal, 1 review, 1 associational), `q2`–`q4`, 3 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do annotations that make the reader generate questions, explanations or summaries improve comprehension?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **12 distinct studies** (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4`, 3 of 12 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Rosenshine et al 1996](https://doi.org/10.3102/00346543066002181) | q3 · quant-synthesis · r? | i1 · small–medium effect, median d=0.36 (standardized tests) | this claim |
+| [Rosenshine et al 1996](https://doi.org/10.3102/00346543066002181) | q3 · quant-synthesis · r? | i1 · small–medium effect, median d=0.36 (standardized tests) | this claim; [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) (supports) |
 | [Joseph et al. 2016](https://doi.org/10.1080/10573569.2014.891449) | q3 · review · r? | i? | this claim |
 | [Chi et al. 1989](https://doi.org/10.1207/s15516709cog1302_1) | q2 · associational · r1 | i? | [Prompting learners to self-explain improves understanding and problem solving on immediate](self-explanation-improves-conceptual-understanding.md) (supports) |
 | [Rittle-Johnson 2017](https://doi.org/10.1007/s11858-017-0834-z) | q3 · quant-synthesis · r? | i? | [Prompting learners to self-explain improves understanding and problem solving on immediate](self-explanation-improves-conceptual-understanding.md) (supports) |
@@ -76,6 +76,8 @@ This review examined 35 experimental research studies that taught self-questioni
 | [Edmonds et al. 2009](https://doi.org/10.3102/0034654308325998) | q3 · quant-synthesis · r2 | i2 · medium effect for struggling-readers-only subsample, d=0.45 (large, d=0.89, across all 13 studies) | [Scaffolded Close Reading Improves Comprehension For Struggling Readers](scaffolded-close-reading-improves-comprehension-for-struggling-readers.md) (supports) |
 | Selinger et al. 1993 | q2 · causal · r? | i? | [Training in text structure improves college students' summaries, but summarizing has not b](summarization-improves-learning.md) (qualifies) |
 | [McNamara et al. 2024](https://doi.org/10.1016/j.cedpsych.2023.102238) | q3 · causal · r? | i? | [Training in text structure improves college students' summaries, but summarizing has not b](summarization-improves-learning.md) (qualifies) |
+| [Redfield & Rousseau 1981](https://doi.org/10.3102/00346543051002237) | q3 · quant-synthesis · r? | i? | [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) (supports) |
+| [Tobin 1987](https://doi.org/10.3102/00346543057001069) | q3 · review · r? | i? | [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

@@ -18,7 +18,7 @@ sources:
 # Conceptual Scaffolding
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 7 studies (5 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 2 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (6 for) · 10 studies (6 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 3 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Conceptual scaffolding is the element in which learners are given temporary structures, prompts, or representations that help them understand the underlying ideas of a domain before handling them independently. It is useful when the challenge is conceptual complexity rather than only procedural execution.

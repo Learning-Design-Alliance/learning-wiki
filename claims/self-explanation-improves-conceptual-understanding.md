@@ -115,19 +115,25 @@ Fourteen eighth-grade students were asked, with no extensive training, to self-e
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does prompting learners to explain what they study or solve improve their understanding, and on which outcomes?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **9 distinct studies** (3 causal, 2 associational, 2 quant-synthesis, 1 theoretical, 1 qualitative), `q2`–`q4`, 1 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does prompting learners to explain what they study or solve improve their understanding, and on which outcomes?* This table gathers the studies behind this claim and the 16 narrower claims that bear on it: **15 distinct studies** (5 causal, 4 review, 2 associational, 2 quant-synthesis, 1 theoretical, 1 qualitative), `q2`–`q4`, 1 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Chi et al. 1989](https://doi.org/10.1207/s15516709cog1302_1) | q2 · associational · r1 | i? | this claim |
 | [Rittle-Johnson 2017](https://doi.org/10.1007/s11858-017-0834-z) | q3 · quant-synthesis · r? | i? | this claim; [Erroneous examples improve conceptual understanding by forcing comparison with correct mod](erroneous-examples-build-conceptual-knowledge.md) (supports) |
-| [Bisra et al. 2018](https://doi.org/10.1007/s10648-018-9434-x) | q4 · quant-synthesis · r? | i2 · medium effect, g=.55; i? | this claim; [Self-explanation prompting is potentially effective across a range of instructional condit](self-explanation-effective-across-instructional-conditions.md) (supports) |
+| [Bisra et al. 2018](https://doi.org/10.1007/s10648-018-9434-x) | q4 · quant-synthesis · r? | i2 · medium effect, g=.55; i?; i2 · medium effect, g=0.55 | this claim; [Self-explanation prompting is potentially effective across a range of instructional condit](self-explanation-effective-across-instructional-conditions.md) (supports); [Prompting learners to self-explain, one generative strategy, improves learning by a modera](generative-processing-improves-learning.md) (supports) |
 | [Chi et al. 1994](https://doi.org/10.1207/s15516709cog1803_3) | q2 · causal · r1 | i? | this claim |
 | [Dunlosky 2013](https://doi.org/10.1177/1529100612453266) | q2 · causal · r? | i? | [Self-explanation improves abstract transfer of logical rules relative to no self-explanati](self-explanation-improves-abstract-transfer.md) (supports); [Self-explanation effects hold on far-transfer but not near-transfer questions in a geometr](self-explanation-far-transfer-geometry-classroom.md) (qualifies); [Self-explanation substantially increases time on task, raising questions about its efficie](self-explanation-time-on-task-cost.md) (qualifies) |
 | [Durkin & Rittle-Johnson 2012](https://doi.org/10.1016/j.learninstruc.2011.11.001) | q3 · causal · r? | i? | [Erroneous examples improve conceptual understanding by forcing comparison with correct mod](erroneous-examples-build-conceptual-knowledge.md) (supports) |
 | [Chi and Wylie 2014](https://doi.org/10.1080/00461520.2014.965823) | q2 · theoretical · r3 | i? | [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) (qualifies) |
 | [Wekerle et al. 2024](https://doi.org/10.1038/s41598-024-66069-y) | q2 · associational · r2 | i? | [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) (qualifies) |
 | [Sumayyah Qaed Alsulami 2016](https://doi.org/10.5539/elt.v9n2p136) | q2 · qualitative · r2 | i? | [Comparing original texts to model paragraphs prompted noticing that was again focused on l](model-comparison-noticing-lexical.md) (qualifies) |
+| [Atkinson 2000](https://doi.org/10.3102/00346543070002181) | q2 · review · r3 | i? | [Students who self-explain worked examples learn more effectively than those who do not, an](self-explanation-effect-worked-examples.md) (supports) |
+| [Nückles 2020](https://doi.org/10.1007/s10648-020-09541-1) | q3 · review · r2 | i? | [Self-explaining a worked example of a learning journal entry enhances strategy use and tra](worked-example-self-explanation-journal-transfer.md) (supports) |
+| [Berthold 2009](https://doi.org/10.1007/s11251-008-9051-z) | q2 · causal · r? | i? | [The assisting self-explanation prompt effect: assisting prompts elicit high-quality self-e](assisting-self-explanation-prompt-effect.md) (supports); [Assisting self-explanation prompts particularly foster conceptual knowledge, an effect med](assisting-prompts-foster-conceptual-knowledge.md) (supports); [Both open and assisting self-explanation prompts foster procedural knowledge when learning](self-explanation-prompts-foster-procedural-knowledge.md) (supports) |
+| [Atkinson, Renkl & Merrill 2003](https://doi.org/10.1037/0022-0663.95.4.774) | q3 · causal · r? | i? | [Backward fading and principle prompts supported transfer in probability learning](fading-and-principle-prompts-improve-probability-transfer.md) (supports) |
+| [Bethany Rittle-Johnson & Abbey M. Loehr 2017](https://doi.org/10.3758/s13423-016-1079-5) | q2 · review · r2 | i? | [Explanation prompts direct attention to targeted information and can reduce attention to o](explanation-prompts-redirect-attention-with-hidden-costs.md) (qualifies) |
+| [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r3 | i? | [Whether prompting students to construct explanations during retrieval adds benefit beyond ](adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -167,6 +173,8 @@ The effectiveness of self-explanation can be limited by a learner's prior knowle
 **Open questions.** Optimal prompt formats and the durability of gains across domains are not settled by the evidence recorded above, which concerns self-explanation in general rather than worked examples specifically.
 
 ## Related Claims
+
+- [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 
 - [Self-questioning improves comprehension](self-questioning-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it
 

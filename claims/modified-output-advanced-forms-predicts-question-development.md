@@ -39,6 +39,21 @@ Analysis of treatment and test data from a study of 60 Thai EFL learners perform
 
 > "Logistic regression indicated that the only significant predictor of ESL question development was the production of modified output involving developmentally advanced question forms in response to negative feedback."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does pushing learners to produce output, and to modify it after feedback, develop their second-language grammar more than input or a supplied correction alone?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **6 distinct studies** (3 causal, 1 associational, 1 review, 1 qualitative), `q1`–`q3`, 0 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Kim McDonough 2005](https://doi.org/10.1017/s0272263105050047) | q3 · causal · r? | i? | this claim; [The provision of negative feedback alone did not significantly predict ESL question develo](negative-feedback-alone-not-significant-predictor.md) (supports) |
+| [Ahlem Ammar and Nina Spada 2006](https://doi.org/10.1017/s0272263106060268) | q3 · causal · r1 | i? | [Prompts were overall more effective than recasts as corrective feedback for L2 grammar lea](prompts-more-effective-than-recasts-overall.md) (supports); [Low-proficiency L2 learners benefited significantly more from prompts than from recasts](low-proficiency-learners-benefit-more-from-prompts.md) (qualifies); [High-proficiency L2 learners benefited equally from prompts and recasts](high-proficiency-learners-benefit-equally-from-both.md) (qualifies) |
+| [Roy Lyster 2004](https://doi.org/10.1017/s0272263104263021) | q3 · causal · r1 | i? | [Form-focused instruction combined with prompts is more effective than FFI combined with re](ffi-with-prompts-beats-recasts-for-gender.md) (supports) |
+| [Roy Lyster and Hirohide Mori 2006](https://doi.org/10.1017/s0272263106060128) | q2 · associational · r? | i? | [Learner repair following feedback differed by setting: prompts yielded the largest proport](repair-patterns-vary-by-feedback-type-and-setting.md) (qualifies) |
+| Ellis 1991 | q2 · review · r2 | i? | [Comprehensible input alone is insufficient for acquisition of high levels of grammatical p](comprehensible-input-insufficient-grammar-acquisition.md) (supports) |
+| [Yu Liming 1990](https://doi.org/10.18806/tesl.v8i1.575) | q1 · qualitative · r2 | i? | [Mere exposure to the target language does not automatically lead to native-like communicat](mere-exposure-insufficient-advanced-l2-communicative-competence.md) (supports); [Pushing for comprehensible output drives understanding and assimilation of comprehensible ](pushing-output-drives-input-assimilation.md) (supports); [Native speakers rarely supply negative input, so learners must infer or actively seek it b](pushing-output-elicits-negative-input.md) (supports); [Syntactic rather than semantic processing of input is essential for correcting incomprehen](syntactic-processing-corrects-incomprehensible-output.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 

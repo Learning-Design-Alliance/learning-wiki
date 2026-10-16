@@ -7,6 +7,26 @@
       "question": "Does handing learners control over pace, path or tasks improve learning, and when?",
       "members": [
         [
+          "self-paced-mastery-programs-reduce-college-course-completion",
+          "~"
+        ],
+        [
+          "online-charters-effectiveness-concern",
+          "-"
+        ],
+        [
+          "online-charters-low-live-teacher-contact-time",
+          "~"
+        ],
+        [
+          "online-charters-engagement-greatest-challenge",
+          "~"
+        ],
+        [
+          "online-charters-dominant-independent-study-mode",
+          "~"
+        ],
+        [
           "segmenting-effects-confirmed-system-paced",
           "~"
         ],
@@ -47,10 +67,6 @@
           "~"
         ],
         [
-          "self-paced-mastery-programs-reduce-college-course-completion",
-          "-"
-        ],
-        [
           "learner-characteristics-moderate-hypermedia-effectiveness",
           "~"
         ],
@@ -65,6 +81,14 @@
         [
           "hint-avoidance-related-greater-wheel-spinning",
           "~"
+        ],
+        [
+          "students-report-routines-help-and-rushed-pacing-hurts",
+          "+"
+        ],
+        [
+          "pacing-calendars-standardized-assessments-impediments",
+          "+"
         ]
       ]
     },
@@ -72,10 +96,6 @@
       "hub": "self-regulated-learning-improves-achievement",
       "question": "Can the skills of directing one's own learning (goals, plans, monitoring, self-evaluation) be taught, and does teaching them raise outcomes?",
       "members": [
-        [
-          "metacognitive-strategies-improve-learning",
-          "+"
-        ],
         [
           "srl-strategies-large-effect-academic-achievement",
           "+"
@@ -85,11 +105,35 @@
           "+"
         ],
         [
-          "self-monitoring-comprehension-improves-learning",
+          "zimmerman-cyclical-model-empirical-support",
           "+"
         ],
         [
           "self-monitoring-improves-self-regulation",
+          "+"
+        ],
+        [
+          "combined-condition-improved-specific-srl-components",
+          "~"
+        ],
+        [
+          "srl-partial-mediation-achievement-higher-ed",
+          "~"
+        ],
+        [
+          "srl-effect-no-school-level-difference",
+          "~"
+        ],
+        [
+          "self-monitoring-four-key-components",
+          "~"
+        ],
+        [
+          "metacognitive-strategies-improve-learning",
+          "+"
+        ],
+        [
+          "self-monitoring-comprehension-improves-learning",
           "+"
         ],
         [
@@ -123,6 +167,42 @@
         [
           "self-determination-instruction-improves-outcomes",
           "+"
+        ],
+        [
+          "strategy-prompts-increase-strategy-use-mediated-outcomes",
+          "+"
+        ],
+        [
+          "student-involvement-stronger-effects",
+          "+"
+        ],
+        [
+          "tefa-t-improves-metacognitive-skills",
+          "+"
+        ],
+        [
+          "strategy-instruction-increases-metacognitive-strategy-use",
+          "+"
+        ],
+        [
+          "red-light-purple-light-potentially-positive-self-regulation",
+          "+"
+        ],
+        [
+          "young-children-set-goals-sdlmi-achieve",
+          "+"
+        ],
+        [
+          "web-based-srl-training-subscale-interactions-planning-metacognition-volition",
+          "~"
+        ],
+        [
+          "web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math",
+          "~"
+        ],
+        [
+          "learning-diary-alone-no-self-regulation-gain",
+          "-"
         ]
       ]
     }

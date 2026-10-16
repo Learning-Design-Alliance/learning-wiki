@@ -41,11 +41,12 @@ Country-level multivariate linear regression of ΔICT on standardized autonomy, 
 
 ## Discussion
 
-
 ## Learner Variables
 - [Digital Literacy](../learner-variables/digital-literacy.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
+- [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](digital-literacy-gaps-span-demographics.md) — the general claim this finding bears on, with the studies behind it
 - [Simulated one-standard-deviation increases in autonomy yield only modest predicted changes in ICT career aspirations](counterfactual-autonomy-increase-modest-ict-aspiration-effect.md) — related
 - [Learning environment indicators only moderately discriminate between countries with high versus low ICT aspiration growth, with digital skills the strongest discriminant](lda-moderate-discrimination-ict-aspiration-growth.md) — related
 - [Country-level ICT career aspirations increased globally but unevenly between PISA 2018 and 2022, with most systems showing moderate gains and a minority declining](uneven-global-increase-ict-career-aspirations-2018-2022.md) — related

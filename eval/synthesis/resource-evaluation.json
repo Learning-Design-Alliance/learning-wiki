@@ -1,0 +1,66 @@
+{
+  "principle": "elements/resource-evaluation",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "civic-online-reasoning-instruction-improves-evaluation",
+      "question": "Does teaching learners how to check a source improve their judgments of unfamiliar sources, and how much can one session do?",
+      "members": [
+        [
+          "course-embedded-modules-improve-credibility-scores",
+          "+"
+        ],
+        [
+          "lateral-reading-increased-post-intervention",
+          "+"
+        ],
+        [
+          "surface-strategies-declined-after-modules",
+          "+"
+        ],
+        [
+          "gains-robust-to-test-form-order",
+          "+"
+        ],
+        [
+          "ai-media-literacy-program-large-posttest-gains",
+          "+"
+        ],
+        [
+          "checklist-evaluation-ineffective-online",
+          "~"
+        ],
+        [
+          "collaborative-evidence-critique-shifts-students-toward-procedural-objectivity",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "chatgpt-reduced-differentiation-verification",
+      "question": "Do learners check information from a generative AI the way they check sources found by search?",
+      "members": [
+        [
+          "high-trust-limited-critical-evaluation-genai",
+          "+"
+        ],
+        [
+          "distributed-epistemic-agency-machine-authority",
+          "+"
+        ],
+        [
+          "automation-bias-surrenders-epistemic-agency",
+          "+"
+        ],
+        [
+          "opaque-synthesis-hides-plurality",
+          "+"
+        ],
+        [
+          "children-trust-test-chatbot-with-known-answers",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

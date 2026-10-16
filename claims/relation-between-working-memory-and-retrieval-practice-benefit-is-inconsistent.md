@@ -77,6 +77,18 @@ The chapter reports Brewer and Unsworth (2012): working memory and attentional c
 
 > "Brewer and Unsworth (2012) found that measures of working memory and attentional control were not related to the bene ﬁts of retrieval practice, but a separate measure of episodic memory ability was related, with low episodic memory subjects exhibiting larger retrieval practice effects."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Do learners with lower working memory capacity gain more, or less, from retrieval practice, interleaving and other desirable difficulties?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **3 distinct studies** (2 review, 1 quant-synthesis), `q2`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r3 | i? | this claim |
+| [Jonathan Firth 2021](https://doi.org/10.1002/rev3.3266) | q2 · quant-synthesis · r? | i? | [Evidence on working memory capacity as a moderator of the interleaving effect is mixed, bu](working-memory-mixed-moderator-interleaving.md) (supports) |
+| [Gilbert 2023](https://doi.org/10.3758/s13423-022-02139-4) | q2 · review · r2 | i? | [Offloading attenuates individual differences linked to unaided ability](offloading-attenuates-individual-differences.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 ## Learner Variables

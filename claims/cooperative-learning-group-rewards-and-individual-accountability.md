@@ -84,7 +84,7 @@ Sixty-four 4th and 5th graders at high risk of academic failure were randomly se
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*How should team work be graded so every member is accountable?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **7 distinct studies** (3 review, 2 causal, 1 quant-synthesis, 1 theoretical), `q2`–`q3`, 2 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*How should team work be graded so every member is accountable?* This table gathers the studies behind this claim and the 15 narrower claims that bear on it: **12 distinct studies** (3 review, 3 quant-synthesis, 3 causal, 1 theoretical, 1 design, 1 associational), `q1`–`q3`, 2 of 12 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -95,6 +95,11 @@ Sixty-four 4th and 5th graders at high risk of academic failure were randomly se
 | Brian P. Gill 2015 | q2 · theoretical · r2 | i? | [Accountability can produce positive or negative effects depending on type, decision contex](accountability-effects-depend-on-type-context-task.md) (qualifies) |
 | [Slavin 2014](https://doi.org/10.6018/analesps.30.3.201201) | q2 · review · r? | i? | [Classroom research primarily supports the motivational perspective on cooperative learning](classroom-research-supports-motivational-perspective.md) (supports) |
 | Blosser 1993 | q3 · review · r3 | i? | [In secondary-school research, cooperative learning beat frontal teaching in 68% of compari](secondary-cooperative-learning-newmann-thompson.md) (qualifies) |
+| [Cohen et al. 1982](https://doi.org/10.3102/00028312019002237) | q3 · quant-synthesis · r? | i? | [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) (supports) |
+| [Ginsburg-Block et al. 2006](https://doi.org/10.1037/0022-0663.98.4.732) | q3 · quant-synthesis · r? | i? | [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) (supports) |
+| [Kenzhebayeva Z 2026](https://doi.org/10.3389/feduc.2026.1905781) | q2 · design · r3 | i? | [Role rotation created opportunities for perspective-taking and collaborative accountabilit](role-rotation-perspective-taking-and-challenges.md) (qualifies); [Systematic role rotation structured pre-service educational psychologists' engagement in A](role-rotation-distributes-professional-engagement-ai-cases.md) (qualifies) |
+| [Cynthia Zastudil 2026](https://doi.org/10.1145/3803400.3809386) | q1 / q2 · associational · r1 | i? | [Neurodivergent students feel most comfortable in teams with defined roles rather than no s](nd-prefer-defined-team-roles.md) (qualifies); [Neurodivergent students cope with collaborative active learning discomfort by self-selecti](nd-coping-self-selected-roles-self-disclosure.md) (qualifies) |
+| [Cheng 2026](https://doi.org/10.19173/irrodl.v27i2.9189) | q3 · causal · r? | i? | [Symbiosis theory-based role design significantly enhances the quality of collaborative kno](role-design-enhances-collaborative-knowledge-construction-quality.md) (qualifies); [Role design facilitates transitions among higher-order collaborative behaviors in human-GA](role-design-facilitates-higher-order-behavior-transitions.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

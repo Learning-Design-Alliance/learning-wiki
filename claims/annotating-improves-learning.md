@@ -65,13 +65,14 @@ A long review that asks, for each of ten study techniques, whether its benefits 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does asking learners to highlight or underline while reading improve learning over reading alone, and for which outcomes?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **3 distinct studies** (2 quant-synthesis, 1 review), `q2`–`q4`, 2 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does asking learners to highlight or underline while reading improve learning over reading alone, and for which outcomes?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **4 distinct studies** (2 quant-synthesis, 1 review, 1 causal), `q2`–`q4`, 2 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Ponce et al. 2022](https://doi.org/10.1007/s10648-021-09654-1) | q4 · quant-synthesis · r? | i1 · small effect, 0.36 on memory; 0.20 on comprehension | this claim |
 | [Dunlosky et al. 2013](https://doi.org/10.1177/1529100612453266) | q2 / q3 · review · r2 | i? | this claim; [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) (counts against); [Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive](five-techniques-low-utility.md) (counts against) |
 | [Donoghue & Hattie 2021](https://doi.org/10.3389/feduc.2021.581216) | q3 · quant-synthesis · r? | i2 · medium effect, overall d = 0.56; 0.85 distributed practice, 0.74 practice testing | [Across ten learning techniques, distributed practice and practice testing have the largest](ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) (qualifies) |
+| [Rickards 1979](https://doi.org/10.1007/bf00054983) | q3 · causal · r? | i? | [Underlining and adjunct questions may hinder rather than help recall in young readers, ref](underlining-adjunct-questions-hinder-young-readers-comprehension-deficit.md) (counts against); [Recall of passage details is most depressed when children receive both underlining and con](underlining-plus-postquestions-most-depress-detail-recall.md) (counts against) |
 <!-- synthesis:end -->
 
 ## Discussion

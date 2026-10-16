@@ -63,6 +63,21 @@ McNamara, D. S., Watanabe, M., Huynh, L., McCarthy, K. S., Allen, L. K., & Magli
 
 295 adult participants were randomly assigned to either summarize or reread five short texts on sun exposure and radiation, then wrote an integrated essay drawing on all five texts, which expert raters scored on holistic quality, argumentation, source use/inferencing, language sophistication and organization. A MANCOVA (controlling for topic/science prior knowledge and vocabulary) found a significant overall effect of condition, but in the direction opposite the claim: participants who reread scored higher than those who summarized on holistic essay score and on source use/inferencing, with no group difference on argumentation, language sophistication or organization. Within the summarizing group only, higher average summary quality (rated on inclusion of main points, details, cohesion, etc.) was a significant positive predictor of essay scores over and above prior-knowledge covariates. The authors explicitly frame this as consistent with prior work that summarization aids single-document comprehension but can hinder multi-document *integration* by biasing readers toward processing each source independently.
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*Does writing summaries improve learning more than rereading or other study activities, and does training learners to summarize matter?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **6 distinct studies** (3 causal, 1 quant-synthesis, 1 review, 1 associational), `q2`–`q3`, 1 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| Selinger et al. 1993 | q2 · causal · r? | i? | this claim |
+| [McNamara et al. 2024](https://doi.org/10.1016/j.cedpsych.2023.102238) | q3 · causal · r? | i? | this claim |
+| [Donoghue & Hattie 2021](https://doi.org/10.3389/feduc.2021.581216) | q3 · quant-synthesis · r? | i2 · medium effect, overall d = 0.56; 0.85 distributed practice, 0.74 practice testing | [Across ten learning techniques, distributed practice and practice testing have the largest](ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) (supports) |
+| [Dunlosky 2013](https://doi.org/10.1177/1529100612453266) | q2 · review · r3 | i? | [Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive](five-techniques-low-utility.md) (supports) |
+| Eylon 1979 | q2 · causal · r2 | i? | [Strong acquisition tasks explicating the organization produce better internalization than ](strong-acquisition-tasks-improve-internalization.md) (supports) |
+| Lallé 2017 | q3 · associational · r1 | i? | [Compliance with MetaTutor's summarize, stay-on-subgoal, move-to-next-subgoal, and open-dia](no-learning-effect-for-four-explicit-srl-prompts.md) (supports); [Higher compliance with MetaTutor's revise-summary prompt is associated with larger proport](revise-summary-compliance-predicts-learning-gains.md) (qualifies) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 **The recorded evidence qualifies the claim.** Training in text structure improved the quality of summaries (Selinger et al. 1993, an unpublished conference paper), but in a multi-document writing task, summarizing each source led to worse integrated essays than simply rereading (McNamara et al. 2024). The benefit depends on what learners are asked to do with the material afterwards.

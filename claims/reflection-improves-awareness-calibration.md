@@ -54,9 +54,24 @@ Directional signed-discrepancy analysis in the two AI-assisted conditions: "beha
 
 > "The open ChatGPT condition had a negative mean signed discrepancy ( M = −0.22,SD = 0.71), indicating that behavioral reliance tended to exceed perceived reliance, whereas the reﬂection condition was close to zero (M =− 0.02,SD = 0.66); the between-conditiondiﬀerencewasstatisticallysigniﬁcant, t(224.8) = 2.20,p = 0.029,d = 0.29."
 
+## Studies bearing on this claim
+
+<!-- synthesis:start -->
+*When learners work with generative AI, does adding a reflection step improve their judgement of the AI and what they learn, compared with using its output directly?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **2 distinct studies** (2 causal), `q3`–`q4`, 2 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+
+| Study | Design | Effect as recorded | Bears on this claim through |
+|---|---|---|---|
+| [Ren S 2026](https://doi.org/10.3389/fpsyg.2026.1926110) | q3 · causal · r2 | i3; i1; i?; i2 | this claim; [A brief metacognitive reflection prompt reduces acceptance of incorrect AI advice compared](reflection-reduces-incorrect-ai-advice-acceptance.md) (supports); [Reflection produced selective rather than blanket rejection of AI: alignment with correct ](reflection-selective-not-blanket-ai-rejection.md) (supports); [Open ChatGPT support produces stronger self-serving attribution bias than ChatGPT support ](chatgpt-support-attribution-bias.md) (supports); [Open ChatGPT support increases college students' final decision confidence relative to ind](chatgpt-support-increases-final-confidence.md) (supports) |
+| [Ates 2026](https://doi.org/10.1186/s41239-026-00614-9) | q4 · causal · r3 | i1 | [Reflective and hybrid feedback outperform direct GenAI feedback on delayed AI-free transfe](agentic-designs-delayed-ai-free-transfer.md) (supports); [Hybrid feedback outperforms direct GenAI feedback on conceptual learning; the reflective–d](hybrid-feedback-conceptual-learning-advantage.md) (qualifies); [Direct GenAI-supported feedback improves immediate argument-quality gain over peer feedbac](genai-feedback-design-argument-quality-gain.md) (supports) |
+<!-- synthesis:end -->
+
 ## Discussion
 
 ## Related Claims
+
+- [Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong](ai-access-inflates-confidence.md) — the general claim this finding bears on, with the studies behind it
+
+- [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — the general claim this finding bears on, with the studies behind it
 
 - [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](genai-overreliance-harms-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Better awareness calibration co-occurs with lower incorrect-advice acceptance and lower attribution bias, interpreted associationally only](calibration-negatively-associated-overreliance.md) — related

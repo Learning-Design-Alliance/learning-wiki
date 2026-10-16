@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (7 for, 3 against) · 22 studies (8 causal, 6 quant-synthesis, 5 review, 2 qualitative, 1 design), `q1`–`q4` · 5 of 22 report an effect size · 4 claims rest on one study
+> **Evidence** · 11 claims (8 for, 3 against) · 23 studies (8 causal, 7 quant-synthesis, 5 review, 2 qualitative, 1 design), `q1`–`q4` · 5 of 23 report an effect size · 5 claims rest on one study
 
 ## Description
 Attention is the gateway to learning: information that is not attended to is not encoded, regardless of its quality or presentation. As an instructional element, "attention" refers to the deliberate design moves — signaling, salience, segmentation, and distraction management — that direct learners' limited attentional resources toward the content and interactions that matter.

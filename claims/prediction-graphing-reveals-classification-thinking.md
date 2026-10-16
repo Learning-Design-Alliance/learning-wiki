@@ -41,6 +41,7 @@ Classroom graphing activity (Figure 2, "How Do Pumpkins Grow?") in which childre
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Preschool children demonstrate behavioral knowledge of classification, one-to-one correspondence, and seriation during everyday free play with everyday materials](free-play-reveals-behavioral-math-knowledge.md) — related

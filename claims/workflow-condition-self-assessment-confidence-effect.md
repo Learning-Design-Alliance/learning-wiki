@@ -41,6 +41,7 @@ Cumulative link mixed model on students' ordinal 1-5 self-assessment confidence 
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Practice condition showed no significant association with self-reported financial behaviors about credit](practice-condition-no-effect-financial-behaviors.md) — related

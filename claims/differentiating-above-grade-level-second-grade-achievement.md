@@ -41,7 +41,8 @@ Correlational finding from the math curricula study, reported as consistent with
 
 ## Discussion
 
-
 ## Related Claims
+
+- [Between- or within-class homogeneous ability grouping has a small negative effect on low-ability primary students but no effect on other students](homogeneous-ability-grouping-negative-low-ability.md) — the general claim this finding bears on, with the studies behind it
 - [Three student-centered practices were associated with lower 2nd-grade math achievement](student-centered-practices-lower-second-grade-achievement.md) — related
 - [Teachers suggesting specific practices in response to students' work is associated with higher math achievement in 1st grade only](suggesting-specific-practices-first-grade-higher-achievement.md) — related

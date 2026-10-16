@@ -62,6 +62,8 @@ The chapter reports Coppens et al. (2016) as a corrective: the effect "may be sm
 
 ## Related Claims
 
+- [Existing theoretical accounts attributing the testing effect to enhanced semantic elaboration receive limited support](limited-support-semantic-elaboration-testing-accounts.md) — the general claim this finding bears on, with the studies behind it
+
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Retrieval practice benefits have been observed in children, healthy older adults, and memory-impaired patient groups, not only college students](retrieval-practice-benefits-generalize-to-children-older-adults-and-memory-impaired-patients.md) — related
 - [The benefits of retrieval practice do not depend on an exact match between initial retrieval practice conditions and the final test format](retrieval-practice-benefits-do-not-require-matching-initial-and-final-test-formats.md) — related

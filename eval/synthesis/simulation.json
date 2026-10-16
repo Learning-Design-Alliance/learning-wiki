@@ -1,0 +1,124 @@
+{
+  "principle": "elements/simulation",
+  "note": "Spec pass 2026-10-16: groupings by an agent from the claims it read.",
+  "findings": [
+    {
+      "hub": "simulation-based-education-improves-outcomes",
+      "question": "Does practising in a simulation improve knowledge and skill more than no simulation or conventional training, and for which skills and horizons?",
+      "members": [
+        [
+          "simulation-based-education-with-deliberate-practice-improves-clinical-outcomes",
+          "+"
+        ],
+        [
+          "simulation-games-higher-skill-based-knowledge",
+          "+"
+        ],
+        [
+          "ixr-vet-positive-effects-procedural-motivation",
+          "+"
+        ],
+        [
+          "ai-simulation-short-term-gains-nursing",
+          "~"
+        ],
+        [
+          "genai-virtual-patient-short-term-gains-mixed",
+          "~"
+        ],
+        [
+          "simulation-advantage-immediate-not-sustained",
+          "~"
+        ],
+        [
+          "simulation-near-transfer-robust-far-transfer-weak",
+          "~"
+        ],
+        [
+          "ai-simulation-inferior-bse-skills",
+          "-"
+        ],
+        [
+          "contextualized-teaching-facilitates-transfer",
+          "+"
+        ],
+        [
+          "organization-simulation-knowledge-practices-support-interdisciplinary-learning",
+          "~"
+        ],
+        [
+          "simulation-larger-application-gains",
+          "+"
+        ],
+        [
+          "simulation-larger-overall-il-gains",
+          "+"
+        ]
+      ]
+    },
+    {
+      "hub": "simulation-guidance-moderate-effect-dangelo",
+      "question": "How much guidance should learners get while they explore a simulation, and does the answer change with what they already know?",
+      "members": [
+        [
+          "guidance-improves-inquiry-learning-outcomes",
+          "+"
+        ],
+        [
+          "minimal-guidance-less-effective-for-novices",
+          "+"
+        ],
+        [
+          "teacher-guided-inquiry-outperforms-student-led",
+          "+"
+        ],
+        [
+          "expertise-reversal-effect",
+          "~"
+        ],
+        [
+          "implicit-scaffolding-supports-immediate-exploration",
+          "~"
+        ],
+        [
+          "cscl-simulation-conceptual-change-cognitive-engagement",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "physical-experience-enhances-science-learning",
+      "question": "Can a virtual simulation stand in for physical materials or authentic situations, and what does each format do better?",
+      "members": [
+        [
+          "simulation-advantage-immediate-not-sustained",
+          "~"
+        ],
+        [
+          "ai-simulation-inferior-bse-skills",
+          "+"
+        ],
+        [
+          "real-world-simulations-embodiment-affordances",
+          "+"
+        ],
+        [
+          "vr-reinforcement-not-substitute",
+          "+"
+        ],
+        [
+          "vs-higher-purposefulness-reflection",
+          "-"
+        ],
+        [
+          "av-advantage-analysis-support-dimensions",
+          "+"
+        ],
+        [
+          "anatomage-vr-engagement-34-percent",
+          "~"
+        ]
+      ]
+    }
+  ]
+}
