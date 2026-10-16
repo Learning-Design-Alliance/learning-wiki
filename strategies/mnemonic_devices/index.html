@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Mnemonic Devices - Learning Design Wiki</title>
-<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="icon" href="../../branding/lda-favicon.png">
 <link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
 <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
 <link rel="stylesheet" href="../../branding/lazuli-theme.css">
@@ -13,15 +13,15 @@
 .lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
 .lt-header a:hover{text-decoration:underline}
 .lt-header form{display:inline;float:right}
-.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
 .lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
 </style>
 </head>
 <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
 <header class="lt-header">
 <a href="../../"><strong>Learning Design Wiki</strong></a>
 <a href="../../strategies/">Strategies</a>
-<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
 </header>
 <main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Strategy">
 <h1 id="mnemonic-devices">Mnemonic Devices<a class="headerlink" href="#mnemonic-devices" title="Permanent link">&para;</a></h1>
@@ -32,7 +32,7 @@
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>Mnemonic devices are memory aids that encode hard-to-remember material into more memorable forms — acronyms, acrostics, rhymes, keyword imagery, method-of-loci routes, or peg systems. They work by imposing organization and meaningful association on arbitrary content, converting it into cues that are easier to retrieve. Mnemonics serve as retrieval triggers, not as vehicles for teaching new content: learners must understand the material before a mnemonic can support its recall.</p>
 <h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
-<p>Mnemonic techniques reliably improve immediate and delayed recall of arbitrary associations, lists, and vocabulary, with keyword and imagery-based methods showing some of the largest effects in the memory literature <a href="https://doi.org/10.1037/0278-7393.1.2.126">Atkinson &amp; Raugh, 1975</a> [+S]. Their effectiveness depends on the learner actually generating or elaborating the association — a mnemonic handed over without engagement functions like any other passive exposure <a href="https://doi.org/10.1177/1529100612453266">Dunlosky et al., 2013</a> [~M]. Mnemonics pair naturally with <a href="../../principles/chunking/">Chunking</a>, since most techniques work by recoding many items into one retrievable unit <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+S], and with <a href="../spaced_repetition/">Spaced Repetition</a>, which converts a strong initial encoding into durable retention <a href="../../claims/spaced-practice-improves-retention/">Spaced repetition improves retention.</a> [+S].</p>
+<p>Mnemonic techniques reliably improve immediate and delayed recall of arbitrary associations, lists, and vocabulary, with keyword and imagery-based methods showing some of the largest effects in the memory literature <a href="https://doi.org/10.1037/0278-7393.1.2.126">Atkinson &amp; Raugh, 1975</a> [+S]. Their effectiveness depends on the learner actually generating or elaborating the association — a mnemonic handed over without engagement functions like any other passive exposure <a href="https://doi.org/10.1177/1529100612453266">Dunlosky et al., 2013</a> [~M]. Mnemonics pair naturally with <a href="../../principles/chunking/">Chunking</a>, since most techniques work by recoding many items into one retrievable unit <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+S], and with <a href="../spaced-repetition-scheduling/">Spaced Repetition</a>, which converts a strong initial encoding into durable retention <a href="../../claims/spaced-practice-improves-retention/">Spaced repetition improves retention.</a> [+S].</p>
 <h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
 <h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
 <ul>
@@ -72,13 +72,13 @@
 <li>Verify learners understand the content and its relationships before introducing any mnemonic (<a href="../../elements/supportive-information/">Supportive Information</a>)</li>
 <li>Present or co-construct the mnemonic, making the association vivid and interactive where imagery is used (<a href="../../elements/analogies/">Analogies</a>)</li>
 <li>Have learners practice retrieving the target content <em>from</em> the mnemonic and decoding it back (<a href="../../elements/practice/">Practice</a>)</li>
-<li>Space retrieval practice over days and weeks so the association consolidates (<a href="../spaced_repetition/">Spaced Repetition</a>)</li>
+<li>Space retrieval practice over days and weeks so the association consolidates (<a href="../spaced-repetition-scheduling/">Spaced Repetition</a>)</li>
 <li>Fade the mnemonic as fluency develops, so learners access knowledge directly rather than through the cue</li>
 </ol>
 <h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
 <ul>
 <li><a href="../acronyms_and_acrostics/">Acronyms and Acrostics</a> — the most common mnemonic family, applied to ordered lists</li>
-<li><a href="../spaced_repetition/">Spaced Repetition</a> — distributes practice of the mnemonic-to-content link over time</li>
+<li><a href="../spaced-repetition-scheduling/">Spaced Repetition</a> — distributes practice of the mnemonic-to-content link over time</li>
 <li><a href="../../principles/chunking/">Chunking</a> — the underlying mechanism: recoding many items into one retrievable unit</li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
