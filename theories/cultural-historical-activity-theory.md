@@ -50,6 +50,10 @@ Cultural-historical activity theory (CHAT) holds that human thinking and learnin
 - [CHAT analysis identified three Type 2 secondary contradictions whose operation through psychological need frustration explained motivational decline despite growing competence](../claims/type2-contradictions-thwart-sdt-needs.md) [+W] — attached 2026-10-10 from Haiyang Xin et al. (2026), which proposed "CHAT-SDT diagnostic framework for transformative teacher professional development".
 - [Uneven GenAI access across teams creates a two-speed culture pressuring teams without access despite equally demanding work](../claims/genai-two-speed-culture-uneven-team-access.md) [~W]
 
+## The evidence by question
+- *Does introducing a new tool, space or programme change practice on its own, or does lasting change need the activity's rules, roles and community redesigned with it?* [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](../claims/isolated-innovations-are-rejected-by-the-system-they-enter.md) [+M]
+- *When several groups act on a shared task, does the learning object stay what the design intended, and what keeps it from narrowing?* [Community projects need conceptual framing to avoid narrowing the learning object](../claims/community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) [+W]
+
 ## Related Theories
 
 - [Situated Learning](situated-learning.md) — shares the premise that cognition is inseparable from social and material context

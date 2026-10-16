@@ -55,6 +55,10 @@ Learning tasks drive learning because they force learners to *use* knowledge rat
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 
+## The evidence by question
+- *Does organising training around whole tasks (4C/ID) produce better learning and transfer than lectures or part- and topic-centred instruction?* [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+W]
+- *How much guidance do novices need inside a problem-centred design?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
+
 ## Related Elements
 - [Practice](practice.md) — tasks provide the meaningful context; distributed practice within and across tasks builds fluency
 - [Demonstration](demonstration.md) — models expert performance of the task type before learners attempt it

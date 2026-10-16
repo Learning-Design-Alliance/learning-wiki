@@ -66,6 +66,10 @@ Revision converts feedback into measurable learning gains only when learners act
 - [AI support during drafting lowers ownership substantially more than support during planning or revision, and planning support preserves more ownership than revision support.](../claims/drafting-support-largest-ownership-decrease.md) [+W]
 - [Comment revision effort concentrates on Multi-Step-Block and other procedural constructs, with the widest flows ending in Heavy Modification](../claims/revision-hotspots-multi-step-block-heavy-modification.md) [~W]
 
+## The evidence by question
+- *Does teaching writing as a staged process with feedback on drafts raise writing quality, and what has to be inside it for the gain to appear?* [Process Writing Improves Writing Quality](../claims/process-writing-improves-writing-quality.md) [+M]
+- *What leads learners to make deep, meaning-level revisions rather than surface edits?* [Diagnostic Review revisions contained larger shares of meaning-change, organization, and content/argument work, while Control revisions remained more dependent on surface-level editing](../claims/revision-architecture-meaning-change-versus-surface.md) [+M]
+
 ## Related Elements
 - [Feedback](feedback.md) — the input that drives revision; without it, revision is guesswork
 - [Self-Assessment](self-assessment.md) — the internal complement; learners must eventually generate their own feedback

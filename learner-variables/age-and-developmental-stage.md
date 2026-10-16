@@ -125,6 +125,11 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Younger children were more negatively affected by COVID-19 school closures than older children (−0.37 SD vs. −0.10 SD)](../claims/covid-closures-younger-students-more-affected.md) [+W] — an instructional effect differs with it
 - [Younger struggling readers benefited more: the interventions generally helped third-grade cohort students more than fifth-grade cohort students](../claims/younger-struggling-readers-benefited-more.md) [+M] — an instructional effect differs with it
 
+## The evidence by question
+- *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]
+- *Does the effect of school mindfulness programmes depend on the learner's age?* [Age significantly moderates MBI effects on executive functions across all RCTs (larger benefits with older age) and on negative behaviour in active-control RCTs (larger benefits with younger age)](../claims/age-moderates-mbi-outcomes.md) [+M]
+- *Can older learners learn a new language as well as younger ones, and what teaching suits them?* [Learning ability does not decline with age in healthy older adults](../claims/learning-ability-does-not-decline-with-age.md) [+M]
+
 ## Related Learner Variables
 - [Prior Knowledge](prior-knowledge.md)
 - [Self-Regulation](self-regulation.md)

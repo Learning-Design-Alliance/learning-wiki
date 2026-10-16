@@ -101,6 +101,10 @@ The pattern often relies on case collections, cross-linking, comparison, and rev
 - Instructors can increase or decrease structure by controlling the number of cases and comparison questions.
 - Advanced learners can handle more independent cross-case navigation than novices.
 
+## The evidence by question
+- *Does revisiting concepts across varied, compared cases improve transfer to a new case?* [Presenting multiple cases from different perspectives supports transfer in ill-structured domains](../claims/cognitive-flexibility-theory-multiple-cases.md) [+S]
+- *Does adding a second representation of the same idea help, and when?* [Multiple representations improve learning](../claims/multiple-representations-improve-learning.md) [+M]
+
 ## Related Patterns
 
 - [Case-Based Learning (Harvard Method)](../patterns/case-based-learning.md)

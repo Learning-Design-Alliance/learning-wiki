@@ -91,6 +91,12 @@ Worked examples are the element in which learners study complete or partial solu
 - **Tested with:** middle-school decimals and algebra; undergraduates learning negotiation; a meta-analysis of laboratory and classroom experiments.
 - **Not settled:** whether erroneous examples suit learners with no prior knowledge. The claim page says they work best with some prior knowledge, but cites no study for that, and neither entry reports an effect size.
 
+## The evidence by question
+- *Do novices learn more from studying worked examples than from solving the same problems unaided?* [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+M]
+- *For whom: how does the benefit change with prior knowledge?* [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~S]
+- *How should learners move from studying examples to solving problems alone?* [Successively fading out worked solution steps is effective for facilitating the transition from learning from worked examples to problem solving, compared to example-problem pairs](../claims/fading-worked-steps-facilitates-example-to-problem-transition.md) [+M]
+- *What should learners do while studying an example, and which examples should they see?* [Students who self-explain worked examples learn more effectively than those who do not, and the quality of self-explanations relates to explaining deep structure](../claims/self-explanation-effect-worked-examples.md) [+M]
+
 ## Related Elements
 - [Demonstration](demonstration.md)
 - [Fading](fading.md)

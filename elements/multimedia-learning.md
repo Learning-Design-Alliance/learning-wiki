@@ -52,6 +52,13 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [Animated videos were the easiest and most engaging Hero Elementary component to implement virtually, providing an accessible shared entry point for students with IEPs and English learners](../claims/animated-videos-easiest-engaging-virtual-component.md) [+W]
 - [Animations appear to pacify learners: static-picture groups navigated far more actively than the animation group](../claims/animations-pacify-learners-navigation-imbalance.md) [~W]
 
+## The evidence by question
+
+- *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]
+- *Should words sit next to, and arrive with, the picture they describe?* [Split Attention Effect Degrades Learning](../claims/split-attention-effect-degrades-learning.md) [+M]
+- *Should the words be spoken or printed?* [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](../claims/modality-effect-narration-over-text.md) [+S]
+- *Should continuous presentations be segmented, and does learner control of pace help?* [Segmenting Improves Multimedia Learning](../claims/segmenting-improves-multimedia-learning.md) [+M]
+
 ## Related Elements
 - [Digital Learning](digital-learning.md)
 - [Hypertext Navigation](hypertext-navigation.md)

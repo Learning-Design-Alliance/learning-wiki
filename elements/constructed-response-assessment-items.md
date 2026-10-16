@@ -64,6 +64,11 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - [Human inter-rater reliability with a single rubric exceeded the ±5-point equivalence margin used for rubric-source comparisons](../claims/human-inter-rater-disagreement-exceeds-margin.md) [+W]
 - [A page-by-page, rubric-guided multimodal LLM workflow graded an authentic handwritten exam in about three hours at roughly $100 in token costs, versus about $3,500 in TA time](../claims/ai-grading-workflow-feasibility-cost.md) [~W]
 
+## The evidence by question
+- *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]
+- *Do markers scoring the same responses agree, and do written criteria bring their judgements closer?* [Raters differed significantly in severity/leniency in the MFRM analysis](../claims/raters-differed-severity-mfrm.md) [+M]
+- *Can a language model score learners' written constructed responses as a trained human marker would, and on which tasks?* [LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks](../claims/llm-grading-mixed-against-human-raters.md) [~M]
+
 ## Related Elements
 
 - [Selected-Response Assessment Items](selected-response-assessment-items.md) — the complementary item family for recognition-level goals

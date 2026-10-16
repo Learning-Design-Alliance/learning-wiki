@@ -55,6 +55,10 @@ Reassessment leverages the testing effect a second time: the initial response fu
 - [Error correction supports learning when it requires substantive cognitive work such as explanation and reconstruction](../claims/error-correction-effort-supports-learning.md) [~W]
 - [Dialogue evidence shows coach feedback induces genuine conceptual change, shifting the agent from misconception to conceptually correct explanation rather than superficial answer alignment](../claims/dialogue-feedback-induces-conceptual-change.md) [+W]
 
+## The evidence by question
+- *Does discussing a committed answer with peers improve a later individual answer on a new question?* [Peer Discussion Improves Conceptual Understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M]
+- *Which errors to correct first: are errors made with high confidence corrected more durably than low-confidence ones?* [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+M]
+
 ## Related Elements
 - [Assessment](assessment.md) — the initial response is a low-stakes assessment event; reassessment is its second act
 - [Metacognitive Reflection](metacognitive-reflection.md) — the comparison between first and second answers is a reflection prompt in itself

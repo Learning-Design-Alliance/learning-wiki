@@ -56,6 +56,10 @@ A well-presented problem engages learners in authentic problem-solving by making
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [A reasoning-oriented LLM outperformed a standard LLM on scenario quality and feasibility of generated design problems, with no differences on alignment, cognitive complexity, or clarity](../claims/reasoning-llm-outperforms-standard-on-dp-quality.md) [+W]
 
+## The evidence by question
+- *Should learners attempt a problem before the idea is taught, and what must the teaching afterwards do?* [Productive Failure Improves Conceptual Learning](../claims/productive-failure-improves-conceptual-learning.md) [+S]
+- *How much guidance do novices need inside a problem-centred design?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~S]
+
 ## Related Elements
 - [Case Study](case-study.md) — a related element that presents an already-analyzed situation; problem presentation differs in that the resolution is unknown and learner-driven
 - [Inquiry-Based Learning](inquiry-based-learning.md) — the questioning process the presented problem is meant to trigger

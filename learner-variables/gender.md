@@ -183,6 +183,12 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Young women outperformed young men in every grading category family in unweighted points, with the largest gap in assignments and smallest in assessments; weighting reversed this ordering](../claims/gender-gap-varies-by-grading-category-family.md) [+M] — learners who differ on it differ in outcomes
 - [Young women were more likely than young men to both immediately enroll in and persist through college, in both four-year and two-year colleges](../claims/gender-gap-enrollment-persistence-cps.md) [+M] — learners who differ on it differ in outcomes
 
+## The evidence by question
+- *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]
+- *Do girls and boys with the same test scores earn the same grades, and does a test score predict each group's later performance equally well?* [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](../claims/race-gender-grade-differences-persist.md) [+M]
+- *Does an instructional programme or intervention work differently for girls and boys?* [GenAI function, intervention duration, publication year, and gender were not significant moderators of GenAI's motivational effect](../claims/genai-motivation-null-moderators-function-duration-year-gender.md) [~M]
+- *Do girls and boys differ in confidence, interest and participation in mathematics, science and computing?* [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](../claims/girls-confidence-interest-gap-self-concept-predicts-choices.md) [+M]
+
 ## Related Learner Variables
 - [Self-Efficacy](self-efficacy.md)
 - [Academic Anxiety](academic-anxiety.md)

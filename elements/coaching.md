@@ -63,6 +63,12 @@ Coaching accelerates skill development by keeping learners in a productive strug
 - [Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing larger gains in a randomized trial](../claims/pd-coaching-expert-support-gains.md) [+W]
 - [Real-time in-session feedback remains rare among presentation-coaching systems](../claims/real-time-feedback-rare-in-coaching-systems.md) [~W]
 
+## The evidence by question
+- *Must support be contingent on the learner's last response, rather than fixed?* [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S]
+- *Does coaching teachers on their classroom practice change their observed instruction?* [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](../claims/coaching-pooled-instruction-effect-0-49-sd.md) [+S]
+- *Does coaching or sustained professional development raise the achievement of the teachers' students?* [Teacher coaching raises student achievement on standardized tests by a pooled 0.18 SD across 31 causal studies](../claims/coaching-pooled-achievement-effect-0-18-sd.md) [+M]
+- *Which features of a coaching programme go with larger effects: what it is paired with, its dose, its scale, its target or its mode?* [Pairing coaching with group trainings is associated with larger effects on instruction and achievement; instructional materials with larger, and video libraries with smaller, effects on instruction](../claims/coaching-complementary-elements-moderators.md) [+M]
+
 ## Related Elements
 - [Scaffolding](scaffolding.md) — the structural principle coaching operationalizes; coaching is scaffolding delivered interactively
 - [Feedback](feedback.md) — the core intervention a coach delivers; coaching wraps feedback in diagnosis and relationship

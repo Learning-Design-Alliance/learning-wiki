@@ -47,6 +47,10 @@ Epistemic (or epistemological) beliefs are what a learner takes knowledge and kn
 - [The formative-assessment-embedded group retained higher NOS and SK scores than the control group on a retention test four weeks after the intervention](../claims/formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks.md) [+M] — instruction changes it
 - [Underuse of effective strategies may stem from false beliefs, lack of awareness, and the counter-intuitive nature of the strategies](../claims/underuse-stems-from-false-beliefs-and-counterintuition.md) [+W] — learners who differ on it differ in outcomes
 
+## The evidence by question
+- *Can instruction shift learners' views of how scientific knowledge is made and judged, and do the shifts last?* [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](../claims/both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) [+M]
+- *Do learners' beliefs about knowledge go with how they think and study, and with the kind of help they want?* [Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge](../claims/reflective-thinking-correlates-epistemological-beliefs.md) [+M]
+
 ## Related Learner Variables
 - [Self-Regulation](self-regulation.md)
 - [Prior Knowledge](prior-knowledge.md)

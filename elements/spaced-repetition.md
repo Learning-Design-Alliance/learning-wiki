@@ -103,6 +103,12 @@ Spaced repetition is the element in which key material is revisited at strategic
 - **Tested with:** a scheduling model's optimisation only (Reddy et al. 2016); no learners.
 - **Not settled:** no wiki claim tests item-level allocation with learners, and none compares adaptive with fixed schedules.
 
+## The evidence by question
+- *Does spreading study or practice over sessions improve later retention more than massing the same amount of it?* [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S]
+- *How long should the gap between sessions be, given when the knowledge is needed?* [The optimal interstudy interval increases as the retention interval increases](../claims/optimal-isi-increases-with-retention-interval.md) [+M]
+- *Should the gaps expand, stay equal, or contract?* [Total retrieval spacing improved one-week vocabulary recall while relative schedules were not distinguished](../claims/total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md) [+M]
+- *Will learners space their study on their own?* [Learners Misjudge Spacing Benefits](../claims/learners-misjudge-spacing-benefits.md) [+S]
+
 ## Related Elements
 - [Continuous Review](continuous-review.md)
 - [Retrieval Practice](retrieval-practice.md)

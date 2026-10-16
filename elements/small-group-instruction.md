@@ -41,6 +41,9 @@ Small-group instruction is the element in which learners work with an instructor
 - [Reducing the number of children in a presentation and letting them describe similarities and differences made children's knowledge visible to the teacher](../claims/small-presentation-groups-make-learning-visible.md) [+W]
 - [Among language-only interventions, instructional practices and one-on-one or small-group delivery produced significantly larger language gains than curricula and large-group or whole-class delivery](../claims/small-group-language-instruction-larger-effects.md) [+W]
 
+## The evidence by question
+- *Does targeted instruction by an adult in a small group raise struggling learners' achievement more than whole-class delivery or other intervention components, and how small does the group need to be?* [Small group instruction is associated with significantly larger effect sizes than CAI and incentive components in targeted secondary interventions](../claims/small-group-instruction-outperforms-cai-incentives.md) [+M]
+
 ## Related Elements
 - [Group Work](group-work.md)
 - [Peer Collaboration](peer-collaboration.md)

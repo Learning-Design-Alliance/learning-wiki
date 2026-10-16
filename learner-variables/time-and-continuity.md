@@ -146,6 +146,13 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [In continuous recognition memory, the lag function is inverted U-shaped after a short retention interval and monotonically increasing after a long retention interval](../claims/spacing-lag-function-shape-depends-on-cue-bias-and-retention-interval.md) [~M] — learners who differ on it differ in outcomes
 - [Low-guidance set-ups took longer than high-guidance set-ups in the CVS instruction sessions](../claims/low-guidance-longer-time-on-task.md) [+M] — instruction changes it
 
+## The evidence by question
+
+- *Does spreading study or practice over sessions improve later retention more than massing the same amount of it?* [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S]
+- *Do learners who miss more school days learn less, earn lower grades and graduate less often?* [Low attendance is linked with lower academic skills, grades, and high school graduation, and high attendance with higher ones](../claims/attendance-linked-academic-skills-grades-graduation.md) [+M]
+- *Do learners lose ground over a long break such as the summer, and which learners lose most?* [Summer learning loss is common but not inevitable among K-12 students](../claims/summer-slide-common-but-not-inevitable.md) [+M]
+- *Does giving learners more learning time (longer days or years, more sessions, a higher dose) improve outcomes?* [Thoughtfully designed expanded learning time and opportunities are associated with positive academic and nonacademic outcomes, with the best-designed studies showing the strongest effects](../claims/expanded-learning-time-positive-outcomes.md) [+M]
+
 ## Related Learner Variables
 - Self-regulation — a learner who cannot pace themselves needs the schedule imposed.
 - Attention — decides how much can be done inside a session; this decides how sessions relate.

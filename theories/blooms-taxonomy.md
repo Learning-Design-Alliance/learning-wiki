@@ -90,6 +90,11 @@ As Morshead (1965) pointed out on publication of the affective-domain handbook, 
 - [Dual-Lens attention aligns with expert pedagogical focus, allocating most weight to Bloom's taxonomy verbs and problem-solving steps](../claims/dual-lens-attention-aligns-expert-pedagogical-focus.md) [+W]
 - [Higher self-assessment, verbosity, reflective processing, and technical abstraction are associated with greater response complexity, and Evaluation and Analysis questions tend to yield more complex responses](../claims/ols-complexity-predictors.md) [+W]
 
+## The evidence by question
+- *Are questions at higher Bloom levels harder for learners, as the taxonomy's hierarchy assumes?* [Students perform better overall on LOCS exam questions than on HOCS exam questions](../claims/locs-exam-questions-outperform-hocs.md) [+M]
+- *Can a model tag questions by Bloom level reliably enough to use the tags in a course?* [Supervised ML/DL Bloom question classifiers trained on one dataset drop substantially in weighted F1 when tested on unseen datasets](../claims/supervised-bloom-classifiers-degrade-cross-dataset.md) [~M]
+- *Can a language model write or rewrite questions at a targeted Bloom level?* [LLMs show a directional asymmetry in educational control: they reliably increase cognitive demand but struggle to lower it](../claims/llm-upward-cognitive-shift-asymmetry.md) [~M]
+
 ## Related Theories
 
 - [Stages of Cognitive Development](stages-of-cognitive-development.md) — Bloom's cognitive domain describes levels of instructional objective, distinct from Piaget's account of the learner's underlying developmental stage

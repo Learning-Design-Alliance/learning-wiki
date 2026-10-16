@@ -29,3 +29,8 @@ Promote a sense of home is the element of creating belonging, familiarity, and s
 - [Strengthening the student-educator relationship can contribute positively to marginalised students' self-efficacy and sense of belonging in higher education](../claims/student-educator-relationship-builds-self-efficacy-and-belonging.md) [+W]
 - [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]
 - [Social engagement in gateway math courses builds confidence and deepens understanding, dependent on faculty fostering a supportive learning environment](../claims/social-engagement-builds-confidence-gateway-math.md) [~W]
+
+## The evidence by question
+- *Does a brief intervention that frames doubts about belonging as common and temporary improve learners' persistence and grades, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]
+- *What in a learning setting builds learners' sense of belonging?* [Teacher support is the strongest predictor of school belonging](../claims/teacher-support-strongest-predictor-school-belonging.md) [+M]
+- *Does a stronger sense of belonging go with more engagement, achievement and persistence?* [Belongingness is among the factors that most strongly and reliably affect learners' academic motivation and achievement](../claims/belongingness-strongly-affects-motivation-achievement.md) [+M]

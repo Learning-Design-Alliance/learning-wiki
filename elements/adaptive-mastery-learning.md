@@ -68,6 +68,12 @@ Adaptive mastery systems ensure that foundational gaps are closed before higher-
 - [Teachers in the formative study agreed lesson plans need adjustment when student ability diverges, with STEM subjects more amenable to difficulty scaling than humanities subjects](../claims/stem-more-amenable-difficulty-scaling.md) [~W]
 - [A multi-site randomized controlled trial found Woot Math's adaptivity contributed significant effects in learning and retention](../claims/woot-math-rct-adaptivity-significant-effects.md) [+W]
 
+## The evidence by question
+
+- *Does making progress depend on reaching a unit criterion, with correction and a recheck, raise examination performance over conventional pacing?* [Mastery Learning Improves Outcomes](../claims/mastery-learning-improves-outcomes.md) [+M]
+- *Does adaptive instruction raise achievement over non-individualised instruction or the same content in a fixed sequence?* [Intelligent tutoring systems improve achievement over non-individualised instruction](../claims/adaptive-learning-improves-outcomes.md) [+S]
+- *What does it cost in time and coverage, and what happens when learners do not reach the criterion?* [Mastery learning implementation did not reduce material covered or instructional pace, contradicting the Robin Hood contention](../claims/mastery-learning-did-not-slow-pace-or-scope.md) [+M]
+
 ## Related Elements
 - [Mastery Learning](mastery-learning.md) — the underlying model; adaptive systems automate its pacing and remediation decisions
 - [Spaced Repetition](spaced-repetition.md) — the scheduling mechanism for retention; adaptive systems decide *when* to resurface material

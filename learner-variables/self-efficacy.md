@@ -131,6 +131,12 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [When a strong sense of self-efficacy is accompanied by sustained student effort, better academic achievement is likely](../claims/self-efficacy-with-sustained-effort-better-achievement.md) [~W] — learners who differ on it differ in outcomes
 - [Workplace harassment did not significantly degrade teacher self-efficacy, plausibly due to a ceiling effect](../claims/harassment-no-significant-effect-teacher-self-efficacy.md) [-W] — instruction changes it
 
+## The evidence by question
+
+- *Does a learner's belief that they can succeed at a task predict whether they start and persist, and which goals and feedback raise it?* [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
+- *Which instruction raises learners' self-efficacy: close goals, feedback on progress, guided practice?* [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](../claims/proximal-goals-feedback-peer-models-build-learning-efficacy.md) [+M]
+- *Does a gain in reported confidence mean a gain in skill?* [Self-efficacy judgments correspond less well to behavior in learning settings than in performance settings](../claims/self-efficacy-accuracy-lower-in-learning-settings.md) [+M]
+
 ## Related Learner Variables
 - [Motivation](motivation.md)
 - [Academic Anxiety](academic-anxiety.md)

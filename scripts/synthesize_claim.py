@@ -89,8 +89,17 @@ def entries(slug: str) -> list:
 
 
 def study_key(e: dict) -> str:
+    """A study is its DOI; else the citation's URL; else its first author and year, read from the
+    citation and then the heading. A heading that is not "Author Year" (kuh-foreword, a slug) used to
+    be the key, so one report cited under several anchors counted as several studies (2026-10-16)."""
     if e["doi"]:
         return "doi:" + e["doi"]
+    url = re.search(r"https?://[^\s)\]>]+", e.get("citation") or "")
+    if url and not re.search(r"scholar\.google|\.(?:org|com|edu|gov)/?$", url.group(0)):
+        return "url:" + url.group(0).rstrip(".,;/").lower()
+    c = re.match(r"\s*([A-Z][^\s,.(]+)[^()]*?\((\d{4})", e.get("citation") or "")
+    if c:
+        return f"{c.group(1).lower()}-{c.group(2)}"
     m = re.match(r"([^\d(]+?)\s*(?:et al\.?|and [^\d]+|& [^\d]+)?\s*\(?(\d{4})", e["heading"])
     if m:
         return f"{m.group(1).strip().lower().split()[-1]}-{m.group(2)}"

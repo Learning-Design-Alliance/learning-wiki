@@ -59,6 +59,11 @@ Inquiry-based learning is the element in which learners investigate questions, e
 - [Hands-on, inquiry-based science and math instruction with higher-order thinking was associated with higher English reading achievement on the Stanford Achievement Test in the AMSTI evaluation](../claims/amsti-inquiry-science-higher-reading-achievement.md) [+W]
 - [Unguided or minimally guided instructional approaches are popular and intuitively appealing but ignore human cognitive architecture and the empirical evidence](../claims/minimally-guided-approaches-ignore-cognitive-architecture.md) [-W]
 
+## The evidence by question
+- *Does inquiry-based teaching raise science achievement over the usual instruction?* [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+S]
+- *Does adding guidance to inquiry improve what learners learn, and does the kind of guidance matter?* [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](../claims/guidance-improves-inquiry-learning-outcomes.md) [+M]
+- *Should novices be left to discover the target content without support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
+
 ## Related Elements
 - [Guided Inquiry](guided-inquiry.md)
 - [Problem-Based Learning](problem-based-learning.md)

@@ -56,6 +56,10 @@ Portfolios support learning primarily by requiring learners to review, evaluate,
 - [The authors assert that innovative assessment measures capture POG competencies more fully than traditional standardized tests](../claims/innovative-assessments-capture-pog-competencies.md) [+W]
 - [Skill portfolio measures stratify by demographics: men, younger cohorts, and more educated workers show higher specialisation](../claims/specialisation-demographic-stratification-linkedin.md) [~W]
 
+## The evidence by question
+- *Does building a portfolio in a course raise learners' engagement, achievement and persistence?* [Compared with non-ePortfolio peers, students in courses requiring ePortfolios were generally more engaged, earned higher grades, and were more likely to complete and persist, per the 26-institution project evidence](../claims/epportfolio-courses-engagement-grades-persistence.md) [+W]
+- *What does portfolio evidence add to assessment and selection decisions over a test, and can it be judged consistently?* [The authors assert that innovative assessment measures capture POG competencies more fully than traditional standardized tests](../claims/innovative-assessments-capture-pog-competencies.md) [+W]
+
 ## Related Elements
 - [Assessment](assessment.md) — portfolios are one assessment format; they need rubrics and scoring procedures to function as evaluation
 - [Coaching](coaching.md) — instructor or mentor feedback on portfolio drafts sustains the iterative improvement the format is designed to capture

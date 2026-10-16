@@ -45,6 +45,9 @@ A framework the article adopts from Lamont, Beljean and Clair (2014) in which in
 - [At-risk identification is demographically patterned, with Black, Hispanic, and male students more likely to be identified](../claims/at-risk-identification-demographic-patterns.md) [+W]
 - [Teachers of color are judged more harshly in evaluations: within the same schools, Black teachers were 50 percent more likely than white teachers to receive a low rating.](../claims/biased-teacher-evaluations.md) [+W]
 
+## The evidence by question
+- *Do a school's routine evaluation and categorisation practices (ratings, risk labels, stereotypes, feedback) fall unequally on learners and teachers by race?* [Cultural processes and forms of epistemic injustice should be taken into account in understanding how inequalities in education are produced and maintained](../claims/cultural-processes-and-epistemic-injustice-explain-educational-inequality.md) [+W]
+
 ## Related Theories
 - [Sociocultural Theory](sociocultural-theory.md)
 - [Epistemic Injustice](epistemic-injustice.md)

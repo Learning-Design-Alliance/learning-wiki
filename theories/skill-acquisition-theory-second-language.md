@@ -62,6 +62,11 @@ The articles do not agree. VanPatten (eric-ej912912) argues that applying skill 
 - [Automatized L2 morphosyntactic skills develop very gradually over time, following a power function learning curve like other cognitive skills](../claims/l2-skill-development-power-function-curve.md) [+W] — attached 2026-10-15 from Robert M. DeKeyser (1997), which proposed "Skill acquisition theory accounts for L2 morphosyntactic automatization"; tests this page's relationship.
 - [Learning of second language morphosyntactic rules is highly skill-specific: comprehension practice yields comprehension skill and production practice yields production skill](../claims/skill-specificity-l2-grammar-practice.md) [+W] — attached 2026-10-15 from Robert M. DeKeyser (1997), which proposed "Skill acquisition theory accounts for L2 morphosyntactic automatization".
 
+## The evidence by question
+- *In second-language grammar, does explicit instruction about a form help more than leaving it to implicit exposure?* [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](../claims/explicit-l2-grammar-instruction-superior-to-implicit.md) [+S]
+- *Does second-language practice carry over to skills and tasks other than the one practised?* [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](../claims/skill-specificity-l2-grammar-practice.md) [+S]
+- *What kind and amount of practice makes second-language use fast and automatic: extended meaningful practice or mechanical drill?* [Automatization of L2 skills requires extensive practice in a consistent environment, not repetition of grammar rules as in traditional exercises](../claims/automatization-requires-practice-consistent-environment.md) [+M]
+
 ## Related Theories
 
 - [Skill acquisition theory applied to second language learning: declarative knowledge first, then proceduralization and partial automatization](skill-acquisition-theory-l2-practice.md) — DeKeyser (2010), the source-framed version of this page

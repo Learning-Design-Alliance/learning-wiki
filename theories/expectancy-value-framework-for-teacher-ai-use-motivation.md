@@ -46,6 +46,11 @@ A theoretical application of Expectancy-Value Theory to why teachers do or do no
 - [Teacher Perceived Cost Reduces Motivation To Use Ai](../claims/teacher-perceived-cost-reduces-motivation-to-use-ai.md) [+W]
 - [Educators report affective costs of AI-related grading, including derealisation, exhaustion, and burnout](../claims/educator-affective-toll-ai-grading.md) [-W]
 
+## The evidence by question
+- *Do teachers who are more confident they can use AI well (expectancy) hold more favourable attitudes towards it and use it more?* [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](../claims/teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) [+W]
+- *Do teachers who see AI as useful, enjoyable or important to their work intend to use it more, and does that intention become use?* [Teachers who believe AI will help them reach professional goals and improve students' learning outcomes (utility value) may be more motivated to use it (theoretical argument).](../claims/teacher-utility-value-increases-motivation-to-use-ai.md) [+W]
+- *Do perceived costs and risks of AI (effort, output quality, threats to students' thinking) hold teachers back from using it?* [Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).](../claims/teacher-perceived-cost-reduces-motivation-to-use-ai.md) [+W]
+
 ## Related Theories
 - [Expectancy Value Theory](expectancy-value-theory.md)
 - Motivation

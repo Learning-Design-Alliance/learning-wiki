@@ -57,6 +57,10 @@ Predictions leverage the pretesting effect: attempting to answer before instruct
 - [Pre-instruction testing enhances memory for directly tested video content, with benefits shown for videos from 5 to 30 minutes](../claims/pretesting-enhances-memory-tested-video.md) [+W]
 - [Classroom pretesting improves high-stakes exam performance on pretested content by 8–9% over a multi-week course](../claims/classroom-pretesting-exam-gains.md) [+W]
 
+## The evidence by question
+- *Does attempting questions on material before studying it improve later memory of the questioned content, and under what conditions on the answer and the material?* [Pretesting enhances learning](../claims/pretesting-enhances-learning.md) [+S]
+- *What does failing first cost the learner: persistence, belief in the method, the effect of confusion?* [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](../claims/pretesting-can-harm-motivation.md) [~M]
+
 ## Related Elements
 - [Activation](activation.md) — prediction is a specific, commitment-forcing form of prior-knowledge activation
 - [Demonstration](demonstration.md) — pausing a demonstration to ask "what happens next?" interleaves prediction with modeling

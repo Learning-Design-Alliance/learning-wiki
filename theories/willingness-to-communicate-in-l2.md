@@ -48,6 +48,11 @@ The articles call the model heuristic. They report that different studies find d
 - [English pronunciation self-efficacy partially mediates the association between GenAI-based pronunciation feedback perceptions and willingness to communicate, with the indirect effect accounting for 69.9% of the total effect](../claims/epse-partially-mediate-genai-feedback-wtc.md) [+M]
 - [Gameplay increased participants' willingness to communicate in English](../claims/gameplay-increased-willingness-to-communicate.md) [+W] — attached 2026-10-15 from Hayo Reinders et al. (2015), which proposed "Willingness to communicate (WTC) as a framework for studying affect in digital game-based language learning".
 
+## The evidence by question
+
+- *Does low-pressure practice with AI tools and other digital media raise learners' willingness to communicate in the L2?* [Studies directly measuring WTC consistently report positive effects of AI on EFL learners' WTC across tool types, contexts, and age groups](../claims/ai-directly-enhances-efl-wtc.md) [+M]
+- *Do learners' L2 self-confidence and motivation predict their willingness to communicate, as the model holds?* [English pronunciation self-efficacy is strongly and positively associated with willingness to communicate in English among Chinese EFL learners](../claims/pronunciation-self-efficacy-associated-with-wtc.md) [+M]
+
 ## Related Theories
 
 - [MacIntyre et al.'s (1998) heuristic pyramid model of willingness to communicate in L2](macintyre-heuristic-pyramid-model-l2-wtc.md) — source-framed variant (Altiner, 2018)

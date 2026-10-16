@@ -70,6 +70,11 @@ Belonging uncertainty — doubt about whether one fits in a setting — dispropo
 - [Inclusion of students with disabilities often falls short because efforts start from a place of exclusion, making students guests who must earn access](../claims/disability-inclusion-starts-from-exclusion.md) [+W]
 - [Subgroup score differences largely reflect differing opportunities to learn, not inherent group traits](../claims/subgroup-differences-reflect-opportunities-to-learn.md) [~W]
 
+## The evidence by question
+- *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]
+- *Does a learner's sense of belonging predict motivation, engagement, persistence and achievement?* [Belongingness is among the factors that most strongly and reliably affect learners' academic motivation and achievement](../claims/belongingness-strongly-affects-motivation-achievement.md) [+M]
+- *What in a school or course goes with a stronger sense of belonging?* [Teacher support is the strongest predictor of school belonging](../claims/teacher-support-strongest-predictor-school-belonging.md) [+M]
+
 ## Related Elements
 - [Check-In](check-in.md) — routine social-emotional temperature-taking that surfaces belonging problems early
 - [Class Discussion](class-discussion.md) — structured participation gives every learner a legitimate voice, a daily signal of membership

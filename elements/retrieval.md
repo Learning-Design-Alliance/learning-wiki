@@ -58,6 +58,12 @@ Retrieval is one of the most robust findings in learning science: testing as a l
 - [Retrieval practice instructions led students to recall items to a criterion of about three correct retrievals before dropping them](../claims/instructions-promote-three-recall-criterion.md) [+W]
 - [In simulated learners with forgetting, study-practice yields higher skill gains while practice-only yields higher fact gains, mirroring the human pattern](../claims/al-simple-effects-mirror-human-pattern.md) [~W]
 
+## The evidence by question
+- *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
+- *Does feedback after retrieval add to the benefit?* [Feedback Enhances Retrieval Practice](../claims/feedback-enhances-retrieval-practice.md) [+S]
+- *How much should retrieval succeed during practice, and how much support should it get?* [Retrieval Failure Reduces Benefit](../claims/retrieval-failure-reduces-benefit.md) [+M]
+- *How many practice tests, and how should they be scheduled?* [Spaced Retrieval Improves Retention](../claims/spaced-retrieval-improves-retention.md) [+M]
+
 ## Related Elements
 - [Practice](practice.md) — retrieval is the memory-consolidation component of practice; application tasks embed retrieval in use
 - [Feedback](feedback.md) — necessary follow-on so retrieval errors are corrected, not rehearsed

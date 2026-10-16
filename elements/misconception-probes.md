@@ -57,6 +57,10 @@ Probes work because learners cannot revise a belief they do not realize they hol
 - [A prediction graphing activity revealed preschool children's classification thinking and misconceptions, which class discussion and pictures corrected](../claims/prediction-graphing-reveals-classification-thinking.md) [+W]
 - [Mined misconception labels match personas' assigned misconceptions at F1 ≈ 0.56, a score that does not test whether generated questions elicit the named misconception](../claims/collearn-misconception-mining-f1.md) [~W]
 
+## The evidence by question
+
+- *Does instruction that names and confronts a science misconception change learners' conceptions more than standard exposition?* [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](../claims/misconceptions-interfere-with-new-learning.md) [+S]
+
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — the complementary move: probes surface faulty structure, organizers supply correct structure
 - [Analogies](analogies.md) — a common corrective move after a probe reveals a misconception; the analogy provides the replacement model

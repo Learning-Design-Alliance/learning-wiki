@@ -65,6 +65,10 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Students rate human-generated feedback as superior to AI-generated feedback in quality, helpfulness, and clarity, and as more likely to be acted upon](../claims/human-feedback-rated-superior-to-ai-feedback.md) [+W]
 - [Students need clear guidance so they are not overwhelmed by Ecree's feedback, which may be most useful for advanced writers](../claims/students-need-guidance-ecree-feedback-advanced-writers.md) [~W]
 
+## The evidence by question
+- *What should the feedback after a check say, and who or what should give it?* [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](../claims/feedback-improves-learning.md) [+S]
+- *Should corrective feedback come immediately after a response, or can it wait?* [A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](../claims/feedback-timing-moderates-pretesting.md) [~M]
+
 ## Related Elements
 - [Assess Performance](assess-performance.md) — assessment generates the information that feedback translates into guidance
 - [Coaching](coaching.md) — the ongoing delivery mode for feedback within guided practice

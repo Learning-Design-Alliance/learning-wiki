@@ -57,6 +57,10 @@ Review supports learning because evaluating work requires comparing it against a
 - [FAS support partially improves internal feedback: more comments on and fewer ignored erroneous elements in students' own drafts](../claims/fas-partially-improves-internal-feedback.md) [~W] — attached 2026-10-15 from Peters et al. (2018), which proposed "Formative Assessment Script (FAS) for generating formative peer and internal feedback".
 - [FAS support does not increase detection of missing information or improvement suggestions in students' internal feedback on their own drafts](../claims/fas-no-gain-missing-info-suggestions-own-draft.md) [~W] — attached 2026-10-15 from Peters et al. (2018), which proposed "Formative Assessment Script (FAS) for generating formative peer and internal feedback".
 
+## The evidence by question
+- *Should learners assess each other's work, and does it need a rubric or script?* [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]
+- *How accurately do learners judge work, and what does the accuracy of their judgments depend on?* [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](../claims/peer-feedback-accuracy-depends-on-expertise.md) [~M]
+
 ## Related Elements
 - Peer Review — the social form of review; peers exchange work and apply criteria to each other's drafts
 - Self-Assessment — the internal form; learners judge their own work against the same criteria

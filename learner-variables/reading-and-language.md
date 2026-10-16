@@ -161,6 +161,12 @@ What a learner can read without effort, and whether the language of instruction 
 - [Vocabulary knowledge gained through extensive reading showed little decay on a three-month delayed posttest, with relative gains ranging from 21.05% (low-level) to 59.01% (high-level)](../claims/little-decay-three-month-delayed-posttest-extensive-reading.md) [+M] — instruction changes it
 - [Vocabulary learning gains in Term 2 of the extensive reading program were consistent with those from Term 1](../claims/term2-gains-consistent-with-term1.md) [+M] — instruction changes it
 
+## The evidence by question
+- *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]
+- *Does systematic phonics teaching improve reading more than unsystematic, no or other phonics-light teaching, and for which readers?* [Systematic phonics outperforms unsystematic or no-phonics instruction on children's reading overall, but its advantage over whole-word teaching on novel words is untested in children and contested](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]
+- *How much do repeated encounters add, and do words met in input last without review?* [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](../claims/vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) [+S]
+- *Does teaching through the learner's home language (dual language or mother-tongue instruction), rather than early transfer to the school language, improve school-language and subject learning?* [Teaching students in a language they understand benefits both language learning and broader learning](../claims/cl-teaching-in-language-students-understand-improves-learning.md) [+M]
+
 ## Related Learner Variables
 - Working memory — effortful decoding consumes it before comprehension begins.
 - Prior knowledge — vocabulary is partly a knowledge measure, which is why the two correlate so strongly.

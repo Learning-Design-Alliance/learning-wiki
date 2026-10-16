@@ -55,6 +55,11 @@ Integrating text with corresponding graphics reduces extraneous cognitive load i
 - [The authors of one robot-projection study interpret co-located AI guidance as most useful when instructions and task share a spatial frame, as in drawing](../claims/spatial-colocation-benefit-task-dependent.md) [~W]
 - [College students who study integrated annotated illustrations alongside science text generate approximately 50% more creative solutions on transfer problems than students who view the same illustrations separately after reading](../claims/integrated-illustrations-increase-creative-transfer-solutions.md) [+W] — attached 2026-10-15 from Mayer et al. (1995), which proposed "Annotated lightning-formation illustrations integrated with explanatory text"; tests this page's relationship.
 
+## The evidence by question
+
+- *Does placing words with the pictures they describe, in space and in time, improve learning, and by how much?* [Presenting related material contiguously in space and time yields large learning benefits](../claims/contiguity-spatial-temporal-large-learning-benefits.md) [+M]
+- *For which material, media and testing conditions is integration worth most?* [The learning benefit of increasing integration is substantially larger for high element interactivity (complex) materials than for low element interactivity materials](../claims/element-interactivity-moderates-contiguity-effect.md) [~M]
+
 ## Related Elements
 - [Modality](../strategies/modality.md) — the temporal companion: narrating graphics rather than separating text from them
 - [Segmenting](../strategies/segmenting.md) — controls pacing of integrated multimedia so learners can process each unit

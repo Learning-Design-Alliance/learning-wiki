@@ -56,6 +56,9 @@ Instruction is more durable when it helps learners construct a coherent causal m
 - [Boys and girls do not differ in the type of mental models of the day and night cycle they hold](../claims/no-gender-difference-day-night-mental-models.md) [~W]
 - [Children described the chatbot in five themes — knowledge, utility, fun, smart, and limitations — and showed varied, partial understanding of how it works](../claims/children-describe-chatbot-five-themes.md) [+W]
 
+## The evidence by question
+- *Does instruction that names and confronts a science misconception change learners' conceptions more than standard exposition?* [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](../claims/misconceptions-interfere-with-new-learning.md) [+S]
+
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — provide the skeletal model before detailed content fills it in
 - [Analogies](analogies.md) — the mapping mechanism by which new models are built from known ones

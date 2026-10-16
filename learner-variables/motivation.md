@@ -194,6 +194,12 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Students who only kept learning diaries showed a decrease in their motivation](../claims/diary-only-motivation-decrease.md) [+M] — instruction changes it
 - [Well-designed games can promote persistence in practice and high-quality engagement, and when basic needs of autonomy, competence, and relatedness are met, learning becomes its own reward, reducing the temptation to outsource cognitive effort to LLMs.](../claims/well-designed-games-foster-practice-and-intrinsic-motivation.md) [+W] — instruction changes it
 
+## The evidence by question
+- *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]
+- *Do rewards and praise undermine voluntary engagement?* [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](../claims/rewards-undermine-intrinsic-motivation.md) [~S]
+- *Do growth-mindset interventions raise achievement, and for which learners and in which settings?* [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [~S]
+- *Does learning with generative AI raise learners' motivation compared with learning without it, and where?* [GenAI-assisted education produces significantly higher learning motivation than non-GenAI approaches (g = 0.81)](../claims/genai-learning-motivation-g081.md) [+M]
+
 ## Related Learner Variables
 - Belonging — related but distinct: belonging is about standing, motivation about wanting.
 - Self-regulation — motivation starts the effort, self-regulation sustains it past the first obstacle.

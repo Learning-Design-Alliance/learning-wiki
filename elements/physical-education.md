@@ -55,6 +55,9 @@ Effective PE instruction sequences observation, guided practice, and application
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 
+## The evidence by question
+- *Does feedback improve physical and motor skill outcomes, and does letting learners decide when they receive it help?* [Feedback is more effective for cognitive and physical outcomes than for motivational and behavioral outcomes](../claims/feedback-outcome-measure-moderator-cognitive-physical.md) [+M]
+
 ## Related Elements
 - [Demonstration](demonstration.md) — the primary means of conveying a movement model; silent or over-verbalized demonstrations are less effective
 - [Practice](practice.md) — distributed, high-volume trials with feedback are the engine of motor learning

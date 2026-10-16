@@ -64,6 +64,11 @@ Social constructivism is strongest when learning depends on language, comparison
 - [Transition network analysis shows the chatbot's prompts and explanations structured the interaction while participants generated their own interpretations](../claims/tna-chatbot-prompts-structure-user-interpretation.md) [~W]
 - [Positive learning communities and collaborative social interaction drive learning](../claims/social-connection-and-collaboration-drive-learning.md) [+W]
 
+## The evidence by question
+
+- *Does working jointly on a task raise achievement over working alone or instruction without group work?* [Collaborative Learning Improves Outcomes](../claims/collaborative-learning-improves-outcomes.md) [+S]
+- *Does talk with others build understanding by itself, or only when tasks, prompts and roles make the talk constructive?* [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](../claims/structured-discussion-methods-improve-comprehension.md) [~S]
+
 ## Related Principles
 - [Social Learning](../theories/sociocultural-theory.md) — the broader principle that learning can happen through interaction with others
 - [Peer Discussion](peer-discussion.md) — one of the clearest operational forms of social constructivist learning

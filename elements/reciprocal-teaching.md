@@ -55,6 +55,10 @@ Reciprocal Teaching improves comprehension by making strategic reading processes
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [The RT propensity–learning relationship is strongest early in the class session and attenuates later](../claims/rt-learning-relationship-strongest-early-session.md) [~M]
 
+## The evidence by question
+
+- *Does modelling strategies and handing the lead to learners improve reading comprehension, and on which measures?* [Reciprocal Teaching Improves Reading Comprehension](../claims/reciprocal-teaching-improves-reading-comprehension.md) [+M]
+
 ## Related Elements
 
 - [Peer Teaching](peer-teaching.md) — the rotating leader role is a structured form of peer teaching with built-in expert modeling

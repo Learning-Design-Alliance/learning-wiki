@@ -58,6 +58,10 @@ Learning improves when learners are prompted to generate content-relevant cognit
 - [Students' generative AI use may function either as a scaffold supporting thinking or as a shortcut bypassing essential cognitive processes](../claims/ai-scaffold-or-shortcut-pathways.md) [~W]
 - [Generative learning involves mentally reorganizing and integrating to-be-learned information with prior knowledge, enabling application to new situations](../claims/generative-learning-reorganizing-integrating-prior-knowledge.md) [+W]
 
+## The evidence by question
+- *Does having learners generate their own elaborations improve learning, compared with no elaboration or with elaborations supplied to them?* [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](../claims/generative-processing-improves-learning.md) [+M]
+- *Does generating an answer or item, rather than reading it, improve later memory of it, and for which materials?* [Generation Effect Improves Retention](../claims/generation-effect-improves-retention.md) [+S]
+
 ## Related Elements
 - [Practice](practice.md) — retrieval practice is a generative act; generation and retrieval reinforce each other
 - [Advance Organizers](advance-organizers.md) — provide the prior-knowledge scaffold that generative prompts connect to

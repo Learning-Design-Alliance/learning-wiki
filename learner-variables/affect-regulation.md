@@ -135,6 +135,13 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [At semester end, intrinsic motivation was positively correlated and programming anxiety negatively correlated with programming performance](../claims/motivation-anxiety-correlate-with-programming-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation](../claims/chatbot-enhances-learning-experience-self-paced.md) [+M] — instruction changes it
 
+## The evidence by question
+
+- *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]
+- *Does the format and setting of an assessment change how anxious learners are about it?* [Online and proctored online exams increase students' test anxiety compared with on-campus exams and non-proctored online exams](../claims/proctored-online-exams-increase-test-anxiety.md) [+M]
+- *Do school and youth mindfulness programmes improve students' regulation, wellbeing and academic outcomes?* [The evidence base for school mindfulness interventions is promising but too variable for definitive practice recommendations](../claims/mbi-evidence-base-variability-limitation.md) [~M]
+- *Do learners who regulate their emotions better show more motivation and stronger executive control?* [Emotion regulation is positively associated with academic motivation among university students](../claims/emotion-regulation-positively-associated-academic-motivation.md) [+M]
+
 ## Related Learner Variables
 - Belonging — decides whether a setback reads as difficulty or as evidence of not belonging.
 - Attention — anxiety competes for it directly, so the two compound.

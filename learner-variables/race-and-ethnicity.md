@@ -206,6 +206,10 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Within QR placement categories, White and Asian students earned significantly more first-year units than Black/African American and Hispanic/Latino students, with gaps most pronounced in Category IV](../claims/eo1110-units-earned-racial-gaps-within-placement.md) [+M] — learners who differ on it differ in outcomes
 - [YOUmedia attracts between 350 and 500 teens weekly, with African American males the largest single demographic group](../claims/youmedia-attracts-350-500-teens-weekly.md) [+M] — learners who differ on it differ in outcomes
 
+## The evidence by question
+- *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]
+- *Do restorative practices narrow racial and ethnic gaps in discipline and achievement?* [Shifting to restorative practices reduced exclusionary discipline and its racial disparities while improving climate and achievement](../claims/restorative-practices-reduce-exclusionary-discipline.md) [+M]
+
 ## Related Learner Variables
 - [Socioeconomic Status](socioeconomic-status.md)
 - [Belonging](belonging.md)

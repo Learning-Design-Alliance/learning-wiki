@@ -58,6 +58,11 @@ Collaboration supports learning when it forces learners to articulate reasoning 
 - [GenAI students collaboratively phrased and troubleshooted questions, with collaborative problem-solving varying substantially between the two genAI groups](../claims/genai-collaborative-troubleshooting-varied-by-group.md) [+W]
 - [Students report that peer collaboration and group work support their learning, and many want teachers to offer more group work](../claims/students-report-peer-collaboration-supports-learning.md) [+W]
 
+## The evidence by question
+
+- *Does working jointly on a task raise achievement over working alone or instruction without group work?* [Collaborative Learning Improves Outcomes](../claims/collaborative-learning-improves-outcomes.md) [+S]
+- *What makes joint work fail: the task, group size and composition, or how members take part?* [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](../claims/collaborative-situations-often-fail-productive.md) [~W]
+
 ## Related Elements
 - [Collaboration](collaboration.md) — the broader element; peer collaboration specifies the peer-to-peer (rather than learner–instructor) configuration
 - [Class Discussion](class-discussion.md) — whole-group counterpart; collaboration scales this to small groups where every voice must participate

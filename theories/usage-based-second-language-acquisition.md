@@ -49,6 +49,13 @@ The fetched sources do not agree on what "experience" should count. Usage-based 
 - [Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks](../claims/cd-semantic-richness-improves-lexical-processing.md) [~M]
 - [Advanced L2 learners taught the core senses of to, for and at with diagrams show pre- to post-test gains in knowing when to use them, in one uncontrolled study reported second-hand](../claims/cl-core-sense-preposition-instruction-improves-use.md) [~M]
 
+## The evidence by question
+
+- *How much do repeated encounters add, and do words met in input last without review?* [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](../claims/vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) [+S]
+- *Does meeting a word in more varied contexts, rather than only more often, make it better known?* [Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks](../claims/cd-semantic-richness-improves-lexical-processing.md) [~M]
+- *Do learners move from item-based, verb-bound patterns to abstract constructions as their language experience grows?* [Korean EFL learners sort sentences increasingly by construction rather than by verb as grade level increases](../claims/construction-based-sorting-increases-with-grade-level.md) [+M]
+- *Is exposure to meaningful input enough for learners to acquire L2 grammar, or do some forms need explicit instruction and practice?* [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [~M]
+
 ## Related Theories
 
 - [Usage-based account of constructional development: from item-based learning to abstract constructions via language experience](usage-based-constructional-development.md) — source-framed variant (Kim et al., 2020)

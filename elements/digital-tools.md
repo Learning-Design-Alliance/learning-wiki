@@ -46,6 +46,9 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [ChatGPT was the most widely adopted AI platform in undergraduate higher education studies, with applications clustering around assessment automation and personalized learning support](../claims/chatgpt-dominant-platform-assessment-personalization.md) [+W]
 - [Technology effects on TEFL outcomes trend upward across educational levels (primary g = 0.29, secondary g = 0.35, tertiary g = 0.44), though between-level differences are not statistically significant](../claims/tefl-tech-effects-increase-by-educational-level.md) [~W]
 
+## The evidence by question
+- *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]
+
 ## Related Elements
 
 - [Digital Learning](digital-learning.md)

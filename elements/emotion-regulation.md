@@ -62,6 +62,11 @@ Emotions are not noise around learning — they shape attention, working memory 
 - [AI anxiety is negatively associated with emotion regulation among university students](../claims/ai-anxiety-negatively-associated-emotion-regulation.md) [~W]
 - [Micro-interventions work by targeting the cognitive appraisal sequence: altering primary appraisal of threat and bolstering secondary appraisal of coping resources](../claims/micro-intervention-targets-cognitive-appraisal-sequence.md) [+W]
 
+## The evidence by question
+- *Does a brief regulation exercise before an evaluation (writing about worries, relabelling the feeling) protect anxious learners' performance?* [Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible](../claims/expressive-writing-improves-exam-performance.md) [~S]
+- *Do school and youth mindfulness programmes improve students' regulation, wellbeing and academic outcomes?* [The evidence base for school mindfulness interventions is promising but too variable for definitive practice recommendations](../claims/mbi-evidence-base-variability-limitation.md) [~M]
+- *Do sustained, structured programmes produce social-emotional gains, and do they last?* [SEL programs improve social emotional skills](../claims/sel-programs-improve-social-emotional-skills.md) [+S]
+
 ## Related Elements
 - [Check-In](check-in.md) — a routine that surfaces emotional states so regulation strategies can be matched to them
 - [Belonging](../elements/belonging.md) — addresses the social-evaluative concerns that drive much academic anxiety
