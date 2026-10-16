@@ -46,6 +46,12 @@ Conceptual scaffolding is the element in which learners are given temporary stru
 - [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - [Presenting multiple cases from different perspectives supports transfer in ill-structured domains](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]
 
+## The evidence by question
+- *Does support during an attempt improve later learning compared with attempting unsupported, and for which learners, contexts and outcomes?* [Scaffolding improves learning](../claims/scaffolding-improves-learning.md) [+S]
+- *Should support be withdrawn, and in what order?* [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S]
+- *Does adding a second representation of the same idea help, and when?* [Multiple representations improve learning](../claims/multiple-representations-improve-learning.md) [+M]
+- *Does comparing analogous cases improve transfer more than studying cases one at a time?* [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](../claims/comparing-contrasting-cases-improves-learning.md) [+S]
+
 ## Related Elements
 - [Conceptual Overviews](conceptual-overviews.md)
 - [Simple-to-Complex Sequencing](simple-to-complex-sequencing.md)

@@ -58,6 +58,11 @@ Executive function covers inhibitory control, updating working memory, and shift
 - [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](../claims/within-session-hs-shifts-toward-closure-srl-increases.md) [+W] — instruction changes it
 - [Working-memory-only training shows no positive evidence of efficacy in healthy older adults](../claims/wm-only-training-ineffective-older-adults.md) [-W] — instruction changes it
 
+## The evidence by question
+- *Does a child's executive function predict achievement, and through what?* [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](../claims/ef-predicts-preschool-math-growth.md) [+M]
+- *Does training the processes directly (computerised, working-memory or mindfulness training) improve executive function itself?* [CCT shows no significant effects on executive functions or attention in healthy older adults](../claims/cct-no-effect-executive-attention.md) [-M]
+- *Does attending a pre-kindergarten programme raise children's executive function?* [Pre-kindergarten attendance yields small positive impacts on social-emotional development, executive functioning, and emotion recognition](../claims/prek-small-positive-social-emotional-executive-emotion.md) [+M]
+
 ## Related Learner Variables
 - [Working Memory](working-memory.md)
 - [Self-Regulation](self-regulation.md)

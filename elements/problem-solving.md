@@ -60,6 +60,10 @@ Problem solving is the element in which learners identify, analyze, and respond 
 - [Evaluating GenAI-generated solutions produced no significant differences on midterm scores, final exam scores, course percentages, or normalized exam change relative to solving problems directly](../claims/genai-evaluation-null-summative-algorithms.md) [~W]
 - [QR faculty on several CSU campuses are incorporating active-learning and problem-solving pedagogies into redesigned entry-level math courses](../claims/active-learning-pedagogies-qr-redesign.md) [+W]
 
+## The evidence by question
+- *How much guidance do novices need inside a problem-centred design?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
+- *Should learners attempt a problem before the idea is taught, and what must the teaching afterwards do?* [Productive Failure Improves Conceptual Learning](../claims/productive-failure-improves-conceptual-learning.md) [+M]
+
 ## Related Elements
 - [Solution Development](solution-development.md)
 - [Decision-Making](decision-making.md)

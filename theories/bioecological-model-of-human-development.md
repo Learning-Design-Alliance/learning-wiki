@@ -47,6 +47,9 @@ The model also emphasizes **experience**: "the scientifically relevant features 
 - [Positive developmental relationships are the active ingredient in effective child-serving systems, buffering stress and fueling learning](../claims/positive-developmental-relationships-active-ingredient.md) [+W]
 - [Neighborhood poverty concentration and parental press for academic achievement each had negative effects on students' civic commitments](../claims/poverty-concentration-and-parental-academic-press-negative-civic-effects.md) [~W]
 
+## The evidence by question
+- *Is closer parent involvement in a child's schooling associated with better student outcomes, and does the form of involvement matter?* [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](../claims/parent-involvement-improves-achievement.md) [+M]
+
 ## Related Theories
 
 - [Sociocultural Theory](sociocultural-theory.md) — both frame development as inseparable from social context; Vygotsky's Zone of Proximal Development operates within what Bronfenbrenner would call the microsystem

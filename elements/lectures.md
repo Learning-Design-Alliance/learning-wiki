@@ -73,6 +73,11 @@ Lectures can efficiently build foundational knowledge when content is well-organ
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Instructional lecture produced no immediate significant change in metacognitive knowledge or regulation of cognition](../claims/instructional-no-immediate-mkc-mrc-change.md) [-W]
 
+## The evidence by question
+- *Does replacing part of lecture with active learning raise exam scores and pass rates?* [Active Learning Improves Exam Performance](../claims/active-learning-improves-exam-performance.md) [+S]
+- *Does class time spent with learners talking, explaining and discussing, rather than listening, change what they think about and understand, and does more talk alone do it?* [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](../claims/discussion-promotes-more-active-thought-than-lecture.md) [~M]
+- *Does breaking a continuous presentation into segments improve learning over presenting it whole?* [Segmenting Improves Multimedia Learning](../claims/segmenting-improves-multimedia-learning.md) [+M]
+
 ## Related Elements
 - [Assigned Readings](assigned-readings.md) — pre-lecture readings free lecture time for explanation and application rather than first exposure
 - [Advance Organizers](advance-organizers.md) — framing devices that make lecture content more assimilable
