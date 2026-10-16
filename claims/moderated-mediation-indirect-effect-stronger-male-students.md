@@ -63,6 +63,8 @@ Index of moderated mediation test from the same PROCESS Model 14 analysis. The i
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — predictor: learners who differ on it differ in outcomes
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — predictor: learners who differ on it differ in outcomes
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 - [AI anxiety is negatively associated with emotion regulation among university students](ai-anxiety-negatively-associated-emotion-regulation.md) — a broader claim this one bears on

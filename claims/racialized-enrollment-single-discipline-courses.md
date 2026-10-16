@@ -42,6 +42,9 @@ Descriptive analysis of enrollment by race/ethnicity in the subset of 318 school
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Black students were least likely to enroll in CS overall but most likely to enroll once school-level access to CS is accounted for](black-students-cs-enrollment-access-adjusted.md) — related

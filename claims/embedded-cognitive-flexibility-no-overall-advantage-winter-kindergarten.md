@@ -42,6 +42,9 @@ In the randomized winter-kindergarten cohort (Flex n = 29, Plain n = 28), multil
 ## Discussion
 
 
+## Learner Variables
+- [Executive Function](../learner-variables/executive-function.md) — outcome: instruction changes it
+
 ## Related Claims
 - Cognitive flexibility training added to phonemic awareness training produces significantly greater growth in cognitive flexibility than phonemic awareness training alone in kindergarten and first-grade students — reports the opposite
 - [For students with full week-6 attendance, Flex showed significantly greater gains than Plain on taught-letter alphabetics, decoding, and word reading](week6-attendance-interaction-favors-flex.md) — related

@@ -42,6 +42,9 @@ The study's headline finding, from comparing punishments within fight pairs: "Bl
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Black and poor students are suspended from US schools at higher rates than White and nonpoor students](black-poor-students-suspended-higher-rates.md) — possibly the same claim (merge candidate)
 - [Prior studies of discipline disparities were limited by a selection challenge that prevented identifying discrimination](selection-challenge-limited-prior-discipline-studies.md) — related

@@ -42,6 +42,9 @@ Descriptive analysis of the 2013–14 and 2015–16 Civil Rights Data Collection
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Teacher shortages fall disproportionately on high-poverty and high-minority schools, which had four times as many uncertified teachers in 2013–14](shortage-burden-high-poverty-high-minority-schools.md) — related
 - [State-level disparities in access to certified and experienced teachers vary greatly, with some states showing two to three times as many uncertified or inexperienced teachers in high-enrollment schools](state-variation-teacher-access-inequity.md) — a broader claim this one bears on

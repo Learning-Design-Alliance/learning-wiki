@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 27 claims (21 for, 5 mixed, 1 against) · 23 studies (13 associational, 4 causal, 4 review, 1 design, 1 theoretical), `q1`–`q3` · 2 of 23 report an effect size · 27 claims rest on one study
+> **Evidence** · 26 claims (20 for, 5 mixed, 1 against) · 22 studies (13 associational, 4 review, 3 causal, 1 design, 1 theoretical), `q1`–`q3` · 2 of 22 report an effect size · 26 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" (Bandura, 1977). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" (Seifert & Sutton, 2018). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).

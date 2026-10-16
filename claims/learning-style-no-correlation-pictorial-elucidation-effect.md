@@ -41,6 +41,9 @@ Pearson correlations using the validated Index of Learning Styles visual-verbal 
 
 ## Discussion
 
+## Learner Variables
+- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — the general claim this finding bears on, with the studies behind it

@@ -42,6 +42,9 @@ Descriptive analysis of usage rates by generational cohort (Pew Research Center 
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [A substantial proportion of distance students (44,035 of 76,485) used the AI-based learning assistant Syntea during one observation month](syntea-substantial-adoption-distance-students.md) — related
 - [Syntea usage concentrates on weekdays and daytime hours, with part-time students shifting use to weekends and evenings relative to full-time students](syntea-temporal-patterns-weekday-daytime.md) — related

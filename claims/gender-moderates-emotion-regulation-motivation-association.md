@@ -63,6 +63,7 @@ Simple slope analyses illustrated in Figure 2, from the same moderated regressio
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — predictor: learners who differ on it differ in outcomes
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 - [The indirect association between AI anxiety and academic motivation through emotion regulation is significant for both male and female students but stronger among male students](moderated-mediation-indirect-effect-stronger-male-students.md) — related

@@ -44,6 +44,9 @@ PLS-SEM path tests in the 689-student survey. The quote reports the significant 
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Perceived AIGC affordance enhances AIGC self-efficacy and directly predicts self-regulated learning in IEI undergraduates](aigc-affordance-boosts-self-efficacy-and-srl.md) — related
 - [Feedback quality influences SRL only indirectly through learning motivation, not through self-efficacy or satisfaction](feedback-quality-motivation-mediated-srl-path.md) — related

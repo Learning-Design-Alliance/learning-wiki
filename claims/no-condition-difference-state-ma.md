@@ -65,6 +65,7 @@ Summary of the state-MA mixed-effect models in the classroom experiment: the Min
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Using the ITS reduced executive state-math anxiety and improved algebra learning across conditions](its-reduces-executive-state-ma-improves-algebra.md) — related

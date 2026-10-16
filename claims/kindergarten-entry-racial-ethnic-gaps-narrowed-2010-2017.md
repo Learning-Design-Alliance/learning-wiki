@@ -42,6 +42,9 @@ The abstract of the national trend study of over 2 million kindergarten students
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Inequalities at kindergarten entry by school poverty level decreased between 2010 and 2017](kindergarten-entry-school-poverty-gaps-narrowed-2010-2017.md) — related
 - [Prior nationally representative studies found incoming kindergarteners' math and literacy skills were higher in 2010 than in 1998](kindergarten-entry-skills-higher-2010-than-1998.md) — related

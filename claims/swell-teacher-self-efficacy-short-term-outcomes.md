@@ -42,6 +42,9 @@ This is a planned-outcome statement in the SWELL partnership logic model for the
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The SWELL logic model posits long-term positive impacts on English learner English proficiency and on literacy achievement, including writing, for all students served](swell-long-term-student-literacy-outcomes.md) — related
 - [The SWELL logic model posits medium-term improvements in teachers' literacy instruction and ability to accommodate language learning and embed CLRI](swell-medium-term-teacher-instruction-outcomes.md) — related

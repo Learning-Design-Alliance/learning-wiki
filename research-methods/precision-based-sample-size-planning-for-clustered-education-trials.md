@@ -25,7 +25,7 @@ sources:
 # Precision-based sample-size planning for clustered education trials
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 17 claims (16 for, 1 mixed) · 7 studies (7 theoretical), `q1`–`q2` · 0 of 7 report an effect size · 17 claims rest on one study
+> **Evidence** · 16 claims (15 for, 1 mixed) · 7 studies (7 theoretical), `q1`–`q2` · 0 of 7 report an effect size · 15 claims rest on one study
 
 ## Description
 The article recommends that evaluators discuss "appropriate precision standards" and then determine, for each random-assignment design, "the required number of schools to achieve those standards" using empirical parameter values. This makes precision targets, rather than convenience, drive sample planning in education experiments. The principle applies the article's unified framework to practical evaluation design.

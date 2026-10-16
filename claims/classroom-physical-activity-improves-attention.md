@@ -84,6 +84,9 @@ A registered systematic review of single (acute) bouts of classroom movement bre
 
 **Open questions.** Whether repeated daily activity breaks produce cumulative gains in attention or achievement, and how effects vary by subject area and task type, remain under-studied. The two reviews recorded here cover mostly acute effects in primary-school children; neither establishes a gain on attention tests that generalises across doses.
 
+## Learner Variables
+- [Executive Function](../learner-variables/executive-function.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Acute exercise timing affects memory](acute-exercise-timing-memory.md) — when activity occurs relative to learning changes whether it helps encoding or consolidation

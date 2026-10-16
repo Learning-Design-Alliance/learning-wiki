@@ -44,6 +44,7 @@ Logistic regression analysis of predictive accuracy across student groups for th
 
 ## Learner Variables
 - [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — moderator: an instructional effect differs with it
+- [English-Learner Status](../learner-variables/english-learner-status.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 - [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](disability-largest-postsecondary-outcome-gap.md) — related

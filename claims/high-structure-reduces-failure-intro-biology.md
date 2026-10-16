@@ -42,6 +42,9 @@ A generalized linear mixed-model analysis across six quarters of Biology 180, wi
 ## Discussion
 
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Raw failure rates in the introductory biology course declined from 18.2% to 6.3% as course structure increased across quarters](failure-rate-declined-18-to-6-percent.md) — a narrower finding that bears on this claim
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — related

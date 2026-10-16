@@ -82,6 +82,7 @@ The review synthesises behavioural outcomes across three guiding-analytics studi
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Formative-assessment-based LA shows positive effects on achievement, motivation, and understanding, with personalized feedback reading time mattering](formative-assessment-la-positive-effects.md) — related

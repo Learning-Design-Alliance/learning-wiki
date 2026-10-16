@@ -40,6 +40,9 @@ The review's own synthesis of the three RT studies (Tsou 2011; Young & Rasinski 
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - Reader's Theater improves oral reading fluency and motivation among Thai EFL university students — reports the opposite
 - Chinese EFL learners hold positive perceptions of Reader's Theater for spoken English improvement — related

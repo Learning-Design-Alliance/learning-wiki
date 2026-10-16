@@ -44,6 +44,7 @@ Random-effects meta-analysis of 273 effect sizes from 162 independent samples (N
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+- [Mindset](../learner-variables/mindset.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related

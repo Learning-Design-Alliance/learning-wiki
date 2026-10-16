@@ -62,6 +62,7 @@ The chapter reports Hinze and Rapp (2014), who "found that inducing test anxiety
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — moderator: an instructional effect differs with it
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 

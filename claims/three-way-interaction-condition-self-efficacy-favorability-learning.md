@@ -44,6 +44,7 @@ Omnibus three-way interaction from the linear mixed-effects model of learning ga
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — moderator: an instructional effect differs with it
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 - [Among low baseline self-efficacy students, favorability toward a format moderated its benefit: tutor favorability favored tutor gains, paper unfavorability favored paper gains](favorability-moderates-format-benefit-low-self-efficacy.md) — possibly the same claim (merge candidate)

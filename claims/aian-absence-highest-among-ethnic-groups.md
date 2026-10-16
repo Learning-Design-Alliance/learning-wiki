@@ -42,6 +42,9 @@ Figure 1 of the brief reports percentages of chronically absent students by ethn
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Chronic absence rates among Native students vary widely across states, with Alaska highest at 60% Native versus 37% White in 2022/23](aian-chronic-absence-state-disparities.md) — related
 - [By 2021–22, 36 percent of English learners were chronically absent versus 30 percent of students overall, reversing a prepandemic attendance advantage](english-learners-36-percent-chronically-absent-2021-22.md) — related

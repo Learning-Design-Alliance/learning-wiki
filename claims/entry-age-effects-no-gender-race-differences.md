@@ -42,6 +42,9 @@ Moderator analysis within the multi-state regression discontinuity study. The ab
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [DIF analyses indicate the vast majority of MAP Growth items show negligible differential item functioning across gender and racial/ethnic groups](map-growth-negligible-dif-gender-race-ethnicity.md) — related
 - [Validity evidence for the IRLA is disaggregated across grade, program, and race/ethnicity](irla-validity-disaggregated-demographics.md) — related

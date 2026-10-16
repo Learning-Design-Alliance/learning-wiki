@@ -42,6 +42,9 @@ Exit-survey Likert results from the 59 completers of the two-session self-servic
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+
 ## Related Claims
 - [In the pilot, 93% of students found controlling the wave in the air natural and 86% reported feeling more engaged and focused than in regular learning](ar-gesture-control-felt-natural-and-increased-engagement-pilot.md) — related
 - [Expert evaluation found the virtual patient realistic and immediate ACT feedback increased therapists' awareness of intervention choices](expert-evaluation-realism-and-feedback-awareness.md) — related

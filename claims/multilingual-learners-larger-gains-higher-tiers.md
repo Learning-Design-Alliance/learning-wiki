@@ -44,6 +44,7 @@ Regression analysis by multilingual learner status across three DRDP domains; Ta
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — moderator: an instructional effect differs with it
+- [English-Learner Status](../learner-variables/english-learner-status.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 - [Children with disabilities showed larger gains in higher-tier programs than children without disabilities](children-with-disabilities-larger-gains-higher-tiers.md) — related

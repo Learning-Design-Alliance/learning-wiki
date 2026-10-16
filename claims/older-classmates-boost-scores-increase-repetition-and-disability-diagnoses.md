@@ -45,6 +45,7 @@ The article reports peer-age effects with offsetting signs: older classmates “
 
 ## Learner Variables
 - [Attention](../learner-variables/attention.md) — outcome: instruction changes it
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [A relationship exists between students' relative age among their peers and their probability of disability classification](relative-age-relates-disability-classification.md) — related

@@ -42,5 +42,8 @@ Sequential regression models on 28,517 students with 5Essentials Survey measures
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Prior achievement, attendance, and suspensions do not explain the gender difference in ninth-grade math grades](prior-achievement-attendance-suspensions-do-not-explain-gender-grade-gap.md) — related

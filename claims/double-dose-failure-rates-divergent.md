@@ -61,6 +61,9 @@ Model 2 of the failure regressions. Interactive pedagogy related to lower failur
 ## Discussion
 
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - Chicago's algebra-for-all policy led schools to create more mixed-ability math classrooms when eliminating remedial classes — related
 - [Below-norm students' pass rates improved post-policy because their skills relative to classroom peers improved under sorting](below-norm-pass-rates-improved-relative-skills.md) — related

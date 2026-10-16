@@ -42,6 +42,9 @@ SEM path estimate from Results §4.2 of the same 502-faculty survey. The article
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [AI literacy is the strongest predictor of faculty AI well-being in the structural model](ai-literacy-strongest-predictor-of-ai-well-being.md) — related
 - [Social and organizational support relate to AI well-being indirectly through AI literacy and technological self-efficacy](dual-mediation-support-to-ai-well-being.md) — related

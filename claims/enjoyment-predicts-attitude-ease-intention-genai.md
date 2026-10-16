@@ -42,6 +42,9 @@ PLS-SEM bootstrapped path analysis (5,000 subsamples) in the 434-teacher sample 
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Teachers' attitudes toward GenAI tools significantly predict their behavioural intention to integrate them](attitude-predicts-intention-genai.md) — related
 - [Behavioural intention to use GenAI tools significantly predicts in-service teachers' self-reported pedagogical digital competence for curriculum planning](bi-predicts-genai-digital-competence.md) — related

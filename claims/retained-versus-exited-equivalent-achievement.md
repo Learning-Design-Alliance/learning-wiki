@@ -42,6 +42,9 @@ The brief reports that students meeting Criterion 1 "appear to achieve at the sa
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Many English-only students would fail locally determined cutoff scores often applied to English Learner students under California's Criterion 4 basic-skills requirement](criterion4-barrier-reclassification.md) — related
 - [ELPAC overall PL 4 students who exit EL status show minimal or no achievement differences one year later compared with those who remain, after controlling for SES](no-achievement-benefit-remaining-el-status-pl4.md) — a narrower finding that bears on this claim

@@ -43,6 +43,9 @@ Cross-tabulation of 2011–12 SASS data by school type (Table 3, Figure 4). The 
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Teacher shortages fall disproportionately on high-poverty and high-minority schools, which had four times as many uncertified teachers in 2013–14](shortage-burden-high-poverty-high-minority-schools.md) — related
 - [In 2016, schools with high enrollment of students of color were four times as likely to employ uncertified teachers as schools with low enrollment of students of color](high-student-of-color-schools-four-times-uncertified-teachers.md) — related

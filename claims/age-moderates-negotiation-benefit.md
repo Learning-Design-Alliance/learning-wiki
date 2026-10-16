@@ -42,6 +42,9 @@ Cross-group comparison across the two samples in the Discussion: high school par
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [In both high school and college groups, learners with negotiation of meaning scored higher on the delayed post-vocabulary test than learners with pre-modified input only](negotiation-meaning-improves-vocabulary-scores-both-levels.md) — related
 - [In high school groups, learners with negotiation of meaning obtained more comprehensible input in the match task than learners with pre-modified input only](negotiation-meaning-raises-comprehensible-input-high-school.md) — related

@@ -44,6 +44,7 @@ Theoretical/historical statement in the article's opening extract: because psych
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — predictor: learners who differ on it differ in outcomes
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Anxiety is a multifaceted construct with several differentiated types](anxiety-multifaceted-types-taxonomy.md) — related

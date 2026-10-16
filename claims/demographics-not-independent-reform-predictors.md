@@ -42,6 +42,9 @@ Regression analyses controlling for school size, pre-reform achievement, student
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [School improvement rates varied by community type: Latino, racially diverse, and integrated schools improved disproportionately, while stagnation concentrated in predominantly African-American low-income communities](improvement-rates-vary-community-racial-composition.md) — related
 - [During Phase I reform, a subset of very disadvantaged, racially isolated African-American schools showed weak improvement](phase-one-weak-gains-disadvantaged-schools.md) — related

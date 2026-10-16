@@ -42,6 +42,9 @@ Exploratory CCU analyses in 12 schools; Exhibit E-2 prints grade 5 effect sizes 
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Grade 3 students showed small positive but statistically non-significant CCU impacts across all three study years](a4l-grade3-ccu-nonsignificant.md) — related
 - [Grade 4 students in treatment schools scored significantly higher than control students on the CCU Assessments in each of the three study years, with effect sizes from 0.30 to 0.36](a4l-grade4-ccu-significant-impact.md) — related

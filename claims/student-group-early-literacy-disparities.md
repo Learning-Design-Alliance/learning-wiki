@@ -44,6 +44,7 @@ Observational analysis of 2020/21 and 2021/22 screening data across all grantee 
 
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Most students below benchmark at the beginning of the year remained below at the end, with persistence highest for historically marginalized student groups (67–80 percent)](early-literacy-persistence-below-benchmark.md) — related

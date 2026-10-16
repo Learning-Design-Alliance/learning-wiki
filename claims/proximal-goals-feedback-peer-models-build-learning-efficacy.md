@@ -64,6 +64,9 @@ Empirical evidence section reporting Schunk (1984) on attributional feedback. Th
 
 Both entries come from one narrative review (Schunk 1996), which reports the findings of Bandura & Schunk (1981) on proximal goals and Schunk (1984) on attributional feedback; neither primary study has been read here, and the review prints no effect sizes. No recorded entry covers peer versus teacher models, so that part of the original title is untested on this page.
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md) — the general claim this finding bears on, with the studies behind it

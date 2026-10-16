@@ -43,6 +43,9 @@ Cohort analysis of the 2004-05 CPS ninth-grade ELL cohort. The report states new
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - Hispanic ELLs new to CPS in middle or high school performed as well or better than any group in ninth grade but graduated at lower rates than all groups except long-term ELLs — related
 - [Long-term Hispanic ELLs had the worst course performance and graduation rates, with only 52 percent graduating within four years](long-term-ell-52-percent-graduation.md) — related

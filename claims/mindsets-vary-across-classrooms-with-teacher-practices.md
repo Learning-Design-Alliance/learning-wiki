@@ -42,5 +42,8 @@ The review reports, citing Farrington, Porter, & Klugman (forthcoming), that "th
 ## Discussion
 
 
+## Learner Variables
+- [Mindset](../learner-variables/mindset.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Students with more positively oriented academic mindsets show better academic behaviors and earn better grades than students for whom the mindset beliefs do not feel true](positive-mindsets-better-behaviors-grades.md) — a broader claim this one bears on

@@ -42,6 +42,9 @@ Analysis of scored assignments shown in Figure 11 comparing subjects and grade l
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [A majority of writing and mathematics assignments in 12 Chicago Annenberg schools fell into the lowest two challenge categories](chicago-assignments-majority-low-challenge.md) — related
 - [More than 80 percent of sixth and eighth grade mathematics assignments in 1999 provided only minimal or no intellectual challenge](math-assignments-remained-low-challenge-1999.md) — related

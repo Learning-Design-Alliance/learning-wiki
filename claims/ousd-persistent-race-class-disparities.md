@@ -42,6 +42,9 @@ Analysis of 2013 California State Test results in OUSD, a district where nearly 
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - A district equity study found a lack of clear and consistent focus on delivering high-quality instructional support to all students — related
 - [Predominantly Hispanic and schools serving large numbers of African American and Hispanic students have lower standardized test scores than predominantly White schools even after adjusting for socioeconomic factors](school-level-achievement-gap-beyond-ses.md) — related

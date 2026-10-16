@@ -42,6 +42,10 @@ Descriptive disaggregation of 2015-16 CRDC lost-instruction rates by race with g
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Students in alternative schools experience extraordinarily high lost-instruction rates, with Black boys losing 235 days per 100 enrolled](alternative-schools-extreme-lost-instruction.md) — related
 - [Black secondary students lost 103 days of instruction per 100 enrolled, 82 more days than their White peers](black-secondary-students-82-more-days-lost.md) — related

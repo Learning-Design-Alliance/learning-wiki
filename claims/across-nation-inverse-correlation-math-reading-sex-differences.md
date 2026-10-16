@@ -40,6 +40,9 @@ Cross-national correlational analysis of sex differences in all four PISA assess
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [The mathematics sex difference favoring boys is more consistently found among higher-achieving nations, with considerable variability among lower-scoring countries](math-sex-difference-larger-in-higher-achieving-nations.md) — related
 - [The inverse relation between mathematics and reading sex differences also holds within nations across the performance continuum](within-nation-inverse-relation-performance-continuum.md) — related

@@ -42,6 +42,9 @@ Pre-policy multilevel logistic regression results for full-day enrollment by dis
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [The number of pre-k classrooms near a student's home was positively related to enrollment, more strongly for full-day classrooms](classrooms-near-home-positive-enrollment-association.md) — related
 - [Pre-policy, the negative distance-enrollment relationship was strongest for Black students](distance-enrollment-strongest-black-students.md) — related

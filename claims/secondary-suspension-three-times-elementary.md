@@ -42,6 +42,9 @@ CRDC trend analysis by school level (Figure 2). The report finds "more than thre
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Intersecting identities compound suspension risk: 0.1% of Asian girls without special education services in elementary schools were suspended versus 27% of Black boys with disabilities in secondary schools](intersectional-suspension-risk.md) — related
 - [Out-of-school suspension decreased in 48 states and Washington, DC between 2011–12 and 2017–18, but in five states the decline came with an even larger increase in in-school suspensions](suspension-declines-48-states-substitution.md) — related

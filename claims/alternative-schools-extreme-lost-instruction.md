@@ -42,6 +42,9 @@ First-of-its-kind descriptive analysis of 2015-16 CRDC data for alternative scho
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Race-by-gender disparities are more pronounced: Black boys lost 132 days per 100 enrolled and Black girls lost 77, seven times the rate of White girls](gender-disaggregated-lost-instruction-disparities.md) — related
 - [Secondary students lose instruction due to out-of-school suspensions at more than five times the rate of elementary students (37 vs. 7 days per 100 enrolled)](secondary-suspension-lost-instruction-five-times-elementary.md) — related

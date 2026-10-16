@@ -42,6 +42,9 @@ The brief states this as a documented research finding while reporting that raci
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Intergroup contact in diverse schools reduces prejudice and increases positive cross-racial relationships, alongside improved critical thinking and civic outcomes](diverse-schools-social-and-civic-benefits.md) — possibly the same claim (merge candidate)
 - [Magnet schools show positive effects on achievement, graduation, motivation, intergroup relationships, and satisfaction, and well-integrated magnets attract high parental demand](magnet-school-positive-effects.md) — related

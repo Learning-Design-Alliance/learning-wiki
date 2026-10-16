@@ -44,6 +44,9 @@ Observational finding reported from the Leading the Way research into teaching a
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — related
 - Children managed conflict between Indigenous and Western teachings by holding both belief systems side by side or switching by context — related

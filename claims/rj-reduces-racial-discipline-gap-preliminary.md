@@ -42,6 +42,9 @@ Narrative review reporting Gregory et al. (2014): teachers implementing RJ frequ
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Teachers who implemented restorative justice frequently had better student relationships and issued fewer referrals, with preliminary indications of reduced racial discipline gaps that were not fully eliminated](frequent-rj-use-relationships-referrals-racial-gap.md) — possibly the same claim (merge candidate)
 - [RJ serves a preventative purpose by building students' social and emotional skills, not only responding to offenses](rj-preventative-social-emotional-skill-building.md) — related

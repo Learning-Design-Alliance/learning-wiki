@@ -31,7 +31,7 @@ sources:
 # Chunking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (7 for, 6 mixed) · 12 studies (5 causal, 3 review, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q3` · 3 of 12 report an effect size · 11 claims rest on one study
+> **Evidence** · 13 claims (7 for, 6 mixed) · 13 studies (5 causal, 4 review, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q3` · 3 of 13 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 

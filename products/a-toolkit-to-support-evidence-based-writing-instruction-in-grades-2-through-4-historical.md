@@ -19,7 +19,7 @@ sources:
 # A Toolkit to Support Evidence-Based Writing Instruction in Grades 2 Through 4 (Historical)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A historical toolkit providing evidence-based writing-instruction guidance, tip sheets, and professional-development supports for grades 2–4 teachers and school leaders.

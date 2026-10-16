@@ -42,6 +42,9 @@ WWC calculations for the Calderón, Hertz-Lazarowitz, and Slavin (1998) quasi-ex
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [A larger percentage of BCIRC students met the bilingual education exit criterion in language (39% versus 21%), not statistically significant](bcirc-higher-language-exit-criterion-rate-not-significant.md) — related
 - [A larger percentage of BCIRC students met the bilingual education exit criterion in reading (32% versus 10%)](bcirc-higher-reading-exit-criterion-rate.md) — related

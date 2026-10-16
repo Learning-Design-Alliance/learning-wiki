@@ -62,6 +62,9 @@ The authors' comparison of achievement across gender groups in the same test fou
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [DIF was found for four items but could not be anticipated from differential response times between boys and girls alone](dif-not-predictable-from-differential-response-times.md) — related
 - The negative response time–likelihood trend holds for boys (R=-0.22) but not for girls (R=+0.04) — related

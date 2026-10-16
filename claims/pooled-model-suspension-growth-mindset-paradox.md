@@ -63,6 +63,7 @@ Same pooled-model analysis (Table 6, growth mindset intercept OR = 1.845, p = .0
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+- [Mindset](../learner-variables/mindset.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Self-management status and growth across middle school predict lower odds of having a GPA below a C and of being suspended in 9th grade, but not chronic absenteeism](self-management-status-growth-predict-off-track-9th-grade.md) — related

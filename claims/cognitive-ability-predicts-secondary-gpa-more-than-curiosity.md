@@ -42,6 +42,10 @@ Bivariate correlations with self-reported, degree-corrected secondary GPA (N = 4
 ## Discussion
 
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — predictor: learners who differ on it differ in outcomes
+- [Interest](../learner-variables/interest.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Cognitive ability and curiosity are positively correlated in young adults](cognitive-ability-curiosity-positive-correlation.md) — related

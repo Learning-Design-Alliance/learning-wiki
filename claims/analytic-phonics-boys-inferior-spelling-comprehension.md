@@ -44,6 +44,7 @@ The article's gender comparison under analytic phonics reports that "the boys pe
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 - [Gender differences in reading outcomes at age 10 depend on the type of phonics teaching received in early literacy programmes](gender-reading-outcomes-depend-on-phonics-method.md) — a broader claim this one bears on

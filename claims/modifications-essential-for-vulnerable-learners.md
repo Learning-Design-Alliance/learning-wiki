@@ -44,6 +44,7 @@ The author's practitioner distinction, drawn from experience teaching an older-b
 
 ## Learner Variables
 - [Access](../learner-variables/access.md) — moderator: an instructional effect differs with it
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 - [Federally-funded adult ESL programs and citizenship classes largely exclude older beginner immigrants because instruction is designed for workforce-bound younger adults](older-beginners-excluded-from-standard-adl-esl.md) — related

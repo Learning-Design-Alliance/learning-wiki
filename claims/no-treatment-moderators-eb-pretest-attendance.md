@@ -42,6 +42,9 @@ Two-way interactions between treatment condition and the three covariates were t
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Bilingual education evaluations have produced uninterpretable data by failing to model child-input by treatment interactions](bilingual-evaluations-ignore-interactions.md) — related
 - [Pretest, attendance, and EB status showed distinct covariate effects on specific literacy outcomes](covariate-effects-pretest-attendance-eb-gains.md) — related

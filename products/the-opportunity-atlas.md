@@ -13,7 +13,7 @@ generated:
 # The Opportunity Atlas
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A publicly available tract-level dataset and interactive mapping tool created by Raj Chetty and collaborators at Opportunity Insights, providing estimates of children's long-term outcomes across U.S. neighborhoods for researchers, policymakers, and families.

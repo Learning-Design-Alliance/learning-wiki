@@ -42,6 +42,9 @@ A 3 by 2 two-way ANCOVA of gain score by learning mode and learning style with p
 
 ## Discussion
 
+## Learner Variables
+- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — the general claim this finding bears on, with the studies behind it

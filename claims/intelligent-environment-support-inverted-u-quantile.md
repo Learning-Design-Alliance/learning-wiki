@@ -42,6 +42,9 @@ Quantile regression result from the same 3003-teacher survey, reported in the re
 ## Discussion
 
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [AI technological support is positively associated with innovative competence at all quantiles, with stronger associations at medium-to-high competence levels](ai-technological-support-rising-quantile-pattern.md) — related
 - [Pre-service teachers' innovative competence is at a medium-to-high level, with innovation practice the lowest subdimension](preservice-innovative-competence-medium-high-practice-lowest.md) — related

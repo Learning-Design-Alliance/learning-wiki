@@ -63,6 +63,7 @@ Same RQ2 model (Table 2): baseline self-efficacy was the only significant fixed 
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Adding small peer feedback groups to web-based SRL training and a diary (Group TDP) produced statistically significant gains in SRL knowledge, the SRL overall score, self-efficacy and the mathematics focus score, the last of which Group TD did not show](peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score.md) — related

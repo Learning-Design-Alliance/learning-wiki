@@ -43,6 +43,9 @@ Descriptive analysis of CPS administrative attendance records for roughly 26,000
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - Chronic absenteeism is extremely common among CPS preschoolers, with 45 percent of three-year-olds and 36 percent of four-year-olds missing at least 10 percent of enrolled days — related
 - [Chronically absent preschoolers are much more likely to stay chronically absent, and each successive year of chronic absenteeism compounds risk of low second-grade reading](preschool-absence-predicts-later-chronic-absence-and-reading-risk.md) — related

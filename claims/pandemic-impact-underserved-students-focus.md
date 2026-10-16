@@ -42,6 +42,9 @@ Framing statement on the webinar announcement page. It asserts the equity priori
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [The COVID-19 pandemic impacted historically underserved students more severely than their peers](covid-impacted-historically-underserved-students-more-severely.md) — related
 - [The webinar examines relationships between poverty and school performance](nwea-webinar-poverty-school-performance-relationships.md) — related

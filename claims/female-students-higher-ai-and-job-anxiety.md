@@ -61,6 +61,9 @@ Same gender t-test analysis; for positive AI attitudes the test was non-signific
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Negative AI attitudes correlate positively with job finding anxiety more strongly than positive AI attitudes](negative-ai-attitudes-correlate-job-finding-anxiety.md) — related
 - [Female students are significantly more likely than male students to use AI for schoolwork and to seek advice from AI tools](females-more-ai-schoolwork-and-advice-use.md) — related

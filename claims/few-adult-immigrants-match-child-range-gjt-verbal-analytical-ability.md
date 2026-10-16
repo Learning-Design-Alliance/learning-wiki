@@ -42,5 +42,8 @@ A study of 57 adult Hungarian-speaking immigrants used a grammaticality judgment
 ## Discussion
 
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Verbal analytical ability is not a significant predictor of second language success for childhood arrivals](verbal-analytical-ability-not-predictor-childhood-arrivals.md) — related

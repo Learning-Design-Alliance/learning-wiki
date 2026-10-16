@@ -61,6 +61,9 @@ Subgroup analysis of the same disciplinary outcome for Black students, the group
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Research on school finance reforms finds increased spending improves educational and life outcomes, with larger effects for students from low-income backgrounds, including causal evidence from California's Local Control Funding Formula](increased-funding-improves-outcomes-low-income.md) — a broader claim this one bears on
 - [A $1,000 per-pupil spending increase across high school raised graduation likelihood by 8.2 percentage points, and 3 consecutive years of increased high school spending raised college-readiness standards attainment in math and reading](lcff-spending-graduation-college-readiness-gains.md) — related

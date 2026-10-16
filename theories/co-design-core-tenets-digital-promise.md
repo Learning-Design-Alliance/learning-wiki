@@ -19,7 +19,7 @@ sources:
 # Co-design framework with core tenets of power sharing and inclusion, prioritizing relationships, and capability building
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 4 studies (4 qualitative), `q1`–`q2` · 0 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (4 for, 3 mixed) · 5 studies (4 qualitative, 1 design), `q1`–`q2` · 0 of 5 report an effect size · 7 claims rest on one study
 
 ## Description
 The report defines co-design as "a process in which different stakeholders come together to find a solution to a shared problem through inclusive research and development," bringing together school communities, edtech companies, and researchers so the people who will use the solution are involved in its design. Participants leverage three core tenets: ensure power sharing and inclusion (sharing power throughout research, ideation, design, implementation, monitoring, and evaluation); prioritize relationships (co-designers must share a meaningful relationship based on trust and respect); and focus on capability building (everyone teaches and learns, increasing collaboration and fostering better stakeholder relationships).

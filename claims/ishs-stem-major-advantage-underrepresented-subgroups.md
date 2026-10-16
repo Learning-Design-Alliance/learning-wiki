@@ -44,6 +44,7 @@ Subgroup propensity score-weighted HLM analyses of Texas records (Hispanic n = 5
 
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 - [The ISHS advantage in STEM career interest at the end of high school remains significant after controlling for prior middle school STEM interest and activity](ishs-impact-robust-to-prior-stem-interest-controls.md) — related

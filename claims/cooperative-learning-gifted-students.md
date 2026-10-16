@@ -61,6 +61,9 @@ Slavin's stated evidence gap in the controversy section on cooperative learning 
 
 ## Discussion
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [The effect of cooperative learning did not differ statistically by teaching style, outcome type, publication quality, bias status, or report type](cooperative-learning-nonsignificant-moderators.md) — the general claim this finding bears on, with the studies behind it

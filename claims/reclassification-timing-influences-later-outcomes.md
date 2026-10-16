@@ -42,6 +42,9 @@ The report asserts, citing Carlson & Knowles (2016), Hill et al. (2014), and Joh
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Eighth grade EL reclassification shows positive but imprecise estimates for on-track-to-graduate status in 10th and 11th grades](el-reclassification-on-track-positive-imprecise.md) — related
 - [Eighth grade EL reclassification has statistically insignificant effects on 9th–11th grade ELA test scores, with effects bounded between −0.17 and 0.09 SDs](el-reclassification-null-ela-effects-high-school.md) — related

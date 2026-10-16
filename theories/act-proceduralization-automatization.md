@@ -16,7 +16,7 @@ sources:
 # ACT* (Adaptive Control of Thought): automatization as proceduralization of declarative knowledge through practice
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 review), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Anderson's ACT* model, described in the review as the most widely accepted theory of how automaticity is brought about, holds that knowledge starts as explicit declarative information, "knowledge that," which is turned into specialized procedural rules, "knowledge how," through analogy with examples and general behavioural rules. This transformation is called proceduralization; forms produced by controlled processing become automatic through practice and repetition, are stored in long-term memory, and require little attention control. Learning thus involves a shift from controlled to automatic processing, releasing controlled processes for higher levels of processing.

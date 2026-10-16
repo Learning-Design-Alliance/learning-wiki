@@ -44,6 +44,7 @@ The paper's summary reports a dissociation between teacher effects on non-tested
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+- [Mindset](../learner-variables/mindset.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Non-tested outcomes are predicted by teaching practices most proximal to these measures, including teachers' emotional support and classroom organization](proximal-practices-predict-behaviors-mindsets.md) — related

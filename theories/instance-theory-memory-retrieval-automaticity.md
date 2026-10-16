@@ -16,7 +16,7 @@ sources:
 # Instance Theory of automaticity: automatization as a shift from algorithmic processing to single-step memory retrieval
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 review), `q2`–`q3` · 0 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 Logan's Instance Theory explains automaticity as a memory phenomenon rather than a resource limitation: a novice performs a task with a general algorithm, and after repetitions retrieves specific past solutions, so performance is automatic when based on "single-step direct-access retrieval of past solutions from memory instead of an algorithm". It rests on three assumptions: obligatory encoding, obligatory retrieval and instance representation, with retrieval conceived as a race between memory traces. Each experience lays down a separate memory trace, so the task-relevant knowledge base grows with practice trials.

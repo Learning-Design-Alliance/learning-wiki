@@ -42,6 +42,9 @@ Third macro-transformation reported in Section 4.3, drawing on distributed cogni
 ## Discussion
 
 
+## Learner Variables
+- [Epistemic Beliefs](../learner-variables/epistemic-beliefs.md) — outcome: instruction changes it
+
 ## Related Claims
 - [AI methodologies may redistribute epistemic agency, moving researchers from primary analyst to interpreter and validator of AI-generated outputs](ai-redistributes-researcher-epistemic-agency.md) — related
 - [LEARN reconceptualises scaffolding for GAI contexts as interactive, dialogic, and epistemically regulated interrogation of AI outputs](gai-scaffolding-reconceptualised-epistemic-regulation.md) — related

@@ -26,7 +26,7 @@ sources:
 # Compound Polynomial growth model
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 11 claims (9 for, 1 mixed, 1 against) · 4 studies (3 associational, 1 design), `q1`–`q2` · 1 of 4 report an effect size · 11 claims rest on one study
+> **Evidence** · 13 claims (11 for, 1 mixed, 1 against) · 5 studies (4 associational, 1 design), `q1`–`q2` · 1 of 5 report an effect size · 13 claims rest on one study
 
 ## Description
 The CP model, developed by Thum and Hauser (2015), is a flexible functional form for describing growth trends with marked seasonal patterns. It combines "a polynomial growth in performance (scores) that occurs within a segment" with "a second polynomial growth model for one or more within-segment growth components," so that the model "includes parameters capturing between- and within-year growth." In this article it is applied in a school evaluation context to estimate school contributions to student growth from fall and spring MAP Growth data across grades two through six, with three levels (time points within students within schools).

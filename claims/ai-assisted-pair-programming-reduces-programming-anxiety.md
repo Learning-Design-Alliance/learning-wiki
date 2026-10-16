@@ -44,6 +44,7 @@ Repeated-measures ANOVA on PAS scores across three time points in the 234-studen
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
 
 ## Related Claims
 - [AI-assisted pair programming significantly increased undergraduate intrinsic motivation compared to individual programming, with outcomes comparable to human–human pair programming](ai-assisted-pair-programming-increases-intrinsic-motivation.md) — related

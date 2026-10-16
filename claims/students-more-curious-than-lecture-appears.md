@@ -42,6 +42,9 @@ Observational classroom study in a junior-level electromagnetics engineering phy
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Every student present submitted at least one question response for each simulation, without external incentives](full-participation-question-submission.md) — related
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — related

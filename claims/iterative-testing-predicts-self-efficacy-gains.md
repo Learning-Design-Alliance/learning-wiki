@@ -44,6 +44,7 @@ Hierarchical regression on N=80 students using Days 4-5 platform behavioral logs
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Five-day no-code AI agent creation improves students' CT self-perception, with large gains in abstract and algorithmic thinking and a medium gain in pattern recognition and generalization](ai-agent-creation-ct-self-perception-gains.md) — related

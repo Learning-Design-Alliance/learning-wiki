@@ -43,6 +43,9 @@ The digest reports, citing Ostwald and Williams, studies on aging showing that "
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [A practitioner digest asserts, without cited studies, that no research evidence suggests older adults cannot succeed in learning another language](no-evidence-older-adults-cannot-learn-language.md) — possibly the same claim (merge candidate)
 - No age is optimal or critical for second language learning, and older learners can benefit more from cognitive approaches — related

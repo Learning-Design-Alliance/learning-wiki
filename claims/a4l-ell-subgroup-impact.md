@@ -42,6 +42,9 @@ Exploratory subgroup analyses using subgroup-by-treatment interaction terms in H
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Grade 4 students in treatment schools scored significantly higher than control students on the CCU Assessments in each of the three study years, with effect sizes from 0.30 to 0.36](a4l-grade4-ccu-significant-impact.md) — related
 - [Grade 5 students showed very small, non-significant CCU differences, indicating no reliable A4L impact at that grade level](a4l-grade5-ccu-no-impact.md) — related

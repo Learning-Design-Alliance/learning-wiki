@@ -17,7 +17,7 @@ sources:
 # Research-Based Early Mathematics Assessment (REMA)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (7 for) · 5 studies (4 causal, 1 quant-synthesis), `q3`–`q4` · 5 of 5 report an effect size · 7 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 5 studies (4 causal, 1 quant-synthesis), `q3`–`q4` · 5 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 The Research-Based Early Mathematics Assessment (REMA), developed by Clements and Sarama, is an early mathematics outcome measure used to assess preschool children's mathematical achievement.

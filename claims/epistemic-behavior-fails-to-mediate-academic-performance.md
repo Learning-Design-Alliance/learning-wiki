@@ -42,6 +42,10 @@ Hierarchical latent change score mediation model with robust maximum likelihood,
 ## Discussion
 
 
+## Learner Variables
+- [Epistemic Beliefs](../learner-variables/epistemic-beliefs.md) — predictor: learners who differ on it differ in outcomes
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Cognitive ability and curiosity are positively correlated in young adults](cognitive-ability-curiosity-positive-correlation.md) — related
 - [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) — related

@@ -43,6 +43,9 @@ In the authors' classroom data, 14-year-olds learning about fuses gave mostly me
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - Animistic and anthropomorphic explanations do not diminish with age but survive into adulthood, contrary to the Piagetian stage account — reports the opposite
 - Seven-year-olds' classroom talk shows animistic explanations linking flames, plants and floating objects to human needs and feelings — related

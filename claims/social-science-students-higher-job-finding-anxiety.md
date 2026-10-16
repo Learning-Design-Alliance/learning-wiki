@@ -61,6 +61,9 @@ Same field-of-study t-test analysis; the Learning subdimension (t=1.5, p=.135) a
 ## Discussion
 
 
+## Learner Variables
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Female students report higher job finding anxiety, AI anxiety, and negative AI attitudes than male students](female-students-higher-ai-and-job-anxiety.md) — related
 - [Second-year students report higher job finding anxiety and AI anxiety than students in other academic years](second-year-students-higher-job-finding-anxiety.md) — related

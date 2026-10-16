@@ -42,6 +42,9 @@ The report's interdistrict choice section cites a recent review of metropolitan 
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Interdistrict desegregation choice programs show achievement and graduation benefits for disadvantaged students, with stronger outcomes the longer students remain](interdistrict-desegregation-benefits.md) — possibly the same claim (merge candidate)
 - Voucher-participating private schools in DC have racial compositions closer to the surrounding metro area than public schools — related

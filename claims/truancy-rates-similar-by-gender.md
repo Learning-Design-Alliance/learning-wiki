@@ -42,6 +42,9 @@ Comparison of second-semester truancy rates by gender in the CPS ninth grade coh
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Students who fail Algebra I show far more signs of ninth-grade disengagement, including higher absenteeism and suspension rates](algebra-failure-linked-to-ninth-grade-disengagement.md) — related
 - [CPS has two distinct truancy problems—full-day absenteeism and class cutting—and about 40 percent of extreme truancy occurs through class cutting](two-truancy-problems-full-day-and-class-cutting.md) — related

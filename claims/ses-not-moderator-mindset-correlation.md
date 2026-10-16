@@ -44,6 +44,7 @@ SES moderator analysis in Meta-Analysis 1 using 95 effect sizes with reported st
 
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+- [Mindset](../learner-variables/mindset.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](growth-mindset-achievement-correlation-weak.md) — related

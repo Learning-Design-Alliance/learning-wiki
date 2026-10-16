@@ -42,6 +42,9 @@ Summary finding of the 29-school randomized evaluation, in which impacts were es
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [No significant accelerometer-based differences in physical activity were found for boys in Playworks schools compared with control schools](playworks-no-boys-accelerometer-effect.md) — a narrower finding that bears on this claim
 - [Girls in Playworks schools had significantly higher accelerometer intensity counts and spent more time in vigorous physical activity than girls in control schools](playworks-girls-higher-activity-counts-vigorous.md) — a narrower finding that bears on this claim

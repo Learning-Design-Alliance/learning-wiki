@@ -63,6 +63,7 @@ Null difference test from the same 3003-participant survey: no statistically sig
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+- [Interest](../learner-variables/interest.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [AI technological support is positively associated with innovative competence at all quantiles, with stronger associations at medium-to-high competence levels](ai-technological-support-rising-quantile-pattern.md) — related

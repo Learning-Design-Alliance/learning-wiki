@@ -44,6 +44,7 @@ Report's key findings summary of statewide screening benchmark analysis by stude
 
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: learners who differ on it differ in outcomes
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Students from low income backgrounds, English learners, students receiving special education services, and Black and Hispanic students were more often identified as at significant risk](disparities-in-early-literacy-risk-identification-massachusetts.md) — related

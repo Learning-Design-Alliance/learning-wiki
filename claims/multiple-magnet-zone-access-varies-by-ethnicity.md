@@ -42,6 +42,9 @@ Analysis of CPS student record files for fall 1999 cross-referenced with magnet 
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [African-American students travel farther to attend magnet elementary schools than students of other ethnicities](african-american-students-travel-farthest-to-magnets.md) — related
 - [About half of CPS students do not live within the neighborhood zone of any magnet elementary school](half-cps-students-outside-magnet-neighborhood-zones.md) — related

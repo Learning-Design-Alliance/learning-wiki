@@ -63,6 +63,7 @@ Youth focus group accounts in Section II.C; one student said breath to focus hel
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+- [Executive Function](../learner-variables/executive-function.md) — outcome: instruction changes it
 
 ## Related Claims
 

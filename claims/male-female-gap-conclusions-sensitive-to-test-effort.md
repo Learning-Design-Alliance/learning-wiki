@@ -42,6 +42,9 @@ Sensitivity analysis of achievement gap estimates with and without adjustment fo
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Differential student test effort may bias achievement gap estimates](differential-test-effort-may-bias-gap-estimates.md) — a broader claim this one bears on
 - [Differences in rapid guessing between subgroups generally do not impact substantive interpretations of achievement gaps](rapid-guessing-generally-does-not-change-gap-interpretations.md) — reports the opposite

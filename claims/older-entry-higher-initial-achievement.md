@@ -42,6 +42,9 @@ Multi-state regression discontinuity analysis of assessment data from three stat
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Older entrants show higher kindergarten growth rates but lower growth rates in 1st and 2nd grades](entry-age-growth-rate-tradeoff.md) — related
 - [The school-entry-age findings were produced with a multi-state regression discontinuity analysis covering academic growth through second grade](school-entry-age-multistate-regression-discontinuity-analysis.md) — related

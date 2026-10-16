@@ -43,6 +43,10 @@ The review reports that, unlike the three orientation tests, "a relatively high 
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - Academic achievement is significantly correlated with locus of control for normal adolescents but not for delinquent adolescents — related
 - A century of psychometric data consistently shows performances on intellectual tests are correlated, which MI must account for — a broader claim this one bears on

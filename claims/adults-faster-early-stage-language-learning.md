@@ -43,6 +43,9 @@ The digest reports, citing Krashen, Long, and Scarcella (1979), studies comparin
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Adult learners generally find pronunciation more difficult than children and are unlikely to achieve native-like pronunciation, though experience and self-monitoring offset this somewhat](adults-find-pronunciation-harder-than-children.md) — related
 - No age is optimal or critical for second language learning, and older learners can benefit more from cognitive approaches — related

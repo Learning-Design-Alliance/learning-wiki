@@ -63,6 +63,7 @@ The review reports that meta-analyses find benefits concentrated among "economic
 
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+- [Mindset](../learner-variables/mindset.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related

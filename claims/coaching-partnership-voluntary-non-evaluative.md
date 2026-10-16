@@ -75,6 +75,9 @@ Survey correlations from the DLP: voluntary participation with a printed "corr w
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - Most coached teachers report improvement across classroom challenge categories after working with a coach — related
 - [Coaching is more effective when support is personalized to teachers' needs and classroom contexts](personalized-coaching-coherence-fit.md) — related

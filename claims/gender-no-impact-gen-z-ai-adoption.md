@@ -42,6 +42,9 @@ Multigroup analysis in IBM Amos compared constrained and unconstrained models ac
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Course major moderates the predictive effects on Gen Z students' AI adoption](course-major-moderates-gen-z-ai-adoption.md) — related
 - [Self-efficacy, perceived trust and performance expectancy influence Gen Z students' behavioural intention to adopt AI](se-pt-pe-predict-bi-gen-z-ai.md) — related

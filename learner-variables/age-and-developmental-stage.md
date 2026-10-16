@@ -1,0 +1,131 @@
+---
+type: learner-variable
+id: age-and-developmental-stage
+title: Age and Developmental Stage
+description: "A learner's age, grade level or stage of development, from early childhood to adulthood, as it bears on what instruction suits them."
+status: review
+generated:
+  by: claude/unspecified
+  at: 2026-10-15
+---
+
+# Age and Developmental Stage
+
+> **Learner Variable** · [All learner variables](index.md)
+> **Evidence** · 93 claims (65 for, 17 mixed, 11 against) · 74 studies (30 associational, 12 review, 10 causal, 9 quant-synthesis, 8 theoretical, 5 design), `q1`–`q4` · 5 of 74 report an effect size · 93 claims rest on one study
+
+## Description
+Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
+
+## Implications
+
+### Context
+- Findings from undergraduates in a laboratory may not hold for young children, and findings from children may not hold for adults with work and family commitments.
+- Grade level sets what learners can be assumed to read, write and manage on their own.
+
+### Target Learners
+- Early-childhood, primary, secondary, undergraduate and adult learners, each a distinct population in the research.
+
+### Target Learning Objectives
+- Developmental milestones, achievement growth across grades, and readiness for more independent learning.
+
+## Claims
+<!-- Claims reporting findings about this variable, with evidence tags -->
+- [A practitioner digest asserts, without cited studies, that no research evidence suggests older adults cannot succeed in learning another language](../claims/no-evidence-older-adults-cannot-learn-language.md) [-W] — learners who differ on it differ in outcomes
+- [A relationship exists between students' relative age among their peers and their probability of disability classification](../claims/relative-age-relates-disability-classification.md) [+W] — learners who differ on it differ in outcomes
+- [Absenteeism severity varies by grade level, peaking in kindergarten, middle school, and 12th grade](../claims/absenteeism-severity-grade-level-pattern.md) [+M] — learners who differ on it differ in outcomes
+- [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](../claims/early-years-skills-foundational-longer-term-outcomes.md) [+W] — learners who differ on it differ in outcomes
+- [Achievement growth patterns between Catholic and public school students varied by age and subject](../claims/sector-growth-patterns-vary-age-and-subject.md) [~W] — an instructional effect differs with it
+- [Adult learner groups are more heterogeneous than child groups, calling for individualized instruction and varied learning strategies](../claims/adult-learner-groups-more-heterogeneous.md) [+W] — learners who differ on it differ in outcomes
+- [Adult learners generally find pronunciation more difficult than children and are unlikely to achieve native-like pronunciation, though experience and self-monitoring offset this somewhat](../claims/adults-find-pronunciation-harder-than-children.md) [~M] — learners who differ on it differ in outcomes
+- [Adults learn languages more quickly than children in the early stages of second language acquisition](../claims/adults-faster-early-stage-language-learning.md) [+W] — learners who differ on it differ in outcomes
+- [After accounting for other factors, colleges with higher shares of first-generation, older, English learner, and academically disadvantaged students still earned fewer milestones, while economic disadvantage and dual-credit shares were no longer significant](../claims/conditional-regression-need-factors-milestones.md) [+M] — learners who differ on it differ in outcomes
+- [Age category, skill level and sport context moderate RAE magnitude](../claims/rae-moderators-age-skill-sport-context.md) [+M] — an instructional effect differs with it
+- [Age significantly moderates MBI effects on executive functions across all RCTs (larger benefits with older age) and on negative behaviour in active-control RCTs (larger benefits with younger age)](../claims/age-moderates-mbi-outcomes.md) [~M] — an instructional effect differs with it
+- [Age, gender, class level and voluntary programme choice do not significantly predict job search anxiety in the adjusted model](../claims/demographics-null-predictors-job-search-anxiety.md) [-M] — learners who differ on it differ in outcomes
+- [AI-supported instruction is most effective at the high school level, with between-level differences statistically significant](../claims/ai-effect-highest-high-school-level.md) [+M] — an instructional effect differs with it
+- [All children retold MAIN episode one with the most complexity and episode two with the least, regardless of age or language group](../claims/episode-one-most-complex-retell-pattern.md) [-M] — learners who differ on it differ in outcomes
+- [All narrative microstructure measures increase with age group, but only lexical diversity (NDW) differs between Japanese–English bilingual and English monolingual children](../claims/ndw-only-language-group-difference-narrative-microstructure.md) [+W] — learners who differ on it differ in outcomes
+- [Anthropomorphic explanations appear in older children but less frequently, with only a minority of 14-year-olds' fuse explanations anthropomorphic](../claims/anthropomorphic-explanations-lessen-with-age.md) [+W] — learners who differ on it differ in outcomes
+- [At the end of first grade, children whose kindergarten entry was delayed demonstrated slightly higher reading knowledge and skills than those who started on time](../claims/delayed-entrants-slightly-higher-reading-first-grade.md) [+M] — learners who differ on it differ in outcomes
+- [At the end of first grade, children whose kindergarten entry was delayed were behind their classmates who began kindergarten on time in math](../claims/delayed-entrants-behind-in-math-first-grade.md) [+M] — learners who differ on it differ in outcomes
+- [Average course-specific test scores decrease as grade level increases, reflecting ability self-selection](../claims/cross-grade-score-decline-self-selection.md) [+M] — learners who differ on it differ in outcomes
+- [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Children's speech perception in noise is more impaired than adults', requiring higher signal-to-noise ratios for comparable performance](../claims/children-speech-perception-noise-more-impaired-than-adults.md) [+M] — learners who differ on it differ in outcomes
+- [Chronic absenteeism increased by more than 2 percentage points in 64 percent of elementary schools versus 35 percent of secondary schools between 2017/18 and 2018/19](../claims/elementary-schools-larger-absenteeism-increases.md) [+M] — learners who differ on it differ in outcomes
+- [Chronic absenteeism is extremely common among preschool students and declines substantially when children enter kindergarten](../claims/preschool-chronic-absenteeism-extremely-high-declines-in-kindergarten.md) [+M] — learners who differ on it differ in outcomes
+- [Colleges with higher percentages of first-generation, economically disadvantaged, academically disadvantaged, older, and English learner students earned fewer success points milestones per FTE student](../claims/need-factors-fewer-success-points-milestones.md) [+M] — learners who differ on it differ in outcomes
+- [Common language teaching methods such as oral drills, memorization, and fast-paced competitive activities disadvantage older learners](../claims/rote-drills-disadvantage-older-learners.md) [+W] — an instructional effect differs with it
+- [Cost function analysis indicates substantially higher spending is needed for equal opportunity: weights of 2.49 for first-generation and 2.63 for students older than 24](../claims/cost-function-weights-need-factors.md) [+M] — learners who differ on it differ in outcomes
+- [Developmental change in offloading reflects metacognitive control, not knowledge](../claims/child-development-offloading-selectivity.md) [+W] — learners who differ on it differ in outcomes
+- [Developmental stage moderates the mind-set–achievement correlation, which is nonsignificant for adults](../claims/developmental-stage-moderates-mindset-correlation.md) [-W] — an instructional effect differs with it
+- [During early and mid-adolescence, brain reward and emotion systems are more developed than cognitive control systems, leaving self-regulation developmentally out of balance](../claims/adolescent-brain-imbalance-reward-versus-control.md) [+M] — learners who differ on it differ in outcomes
+- [Elementary schools are predicted to have lower infection rates than secondary schools using the same operating strategies](../claims/elementary-lower-infection-rates-than-secondary-model.md) [+W] — learners who differ on it differ in outcomes
+- [Extraversion's protective effect on well-being declines with age, significant only for younger students](../claims/age-moderates-extraversion-wellbeing-effect.md) [~W] — an instructional effect differs with it
+- [Failure Free Reading, the only word-level-plus-comprehension program, showed impacts for third graders but no impacts for fifth graders](../claims/failure-free-reading-impacts-third-grade-only.md) [+M] — an instructional effect differs with it
+- [Families showed widespread variability in which Ocean Guide and Activities components they found most helpful, often citing child age and interest](../claims/splash-bubbles-app-section-variability-by-child-age-interest.md) [+W] — an instructional effect differs with it
+- [Federally-funded adult ESL programs and citizenship classes largely exclude older beginner immigrants because instruction is designed for workforce-bound younger adults](../claims/older-beginners-excluded-from-standard-adl-esl.md) [+W] — an instructional effect differs with it
+- [Five-year-olds struggle with memory-taxing serial motor tasks but perform nearly as well as nine-year-olds when the task is simple](../claims/serial-motor-task-complexity-age.md) [~M] — learners who differ on it differ in outcomes
+- [Game-oriented engagement declines with grade level while assessment-driven engagement peaks in Grade 8](../claims/game-orientation-declines-assessment-driven-peaks-grade-8.md) [+M] — learners who differ on it differ in outcomes
+- [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](../claims/gender-age-proficiency-chatbot-differences.md) [~M] — learners who differ on it differ in outcomes
+- [General AI literacy is not significantly related to in-service science educators' AI use or to their age, gender, or years of service](../claims/ai-literacy-unrelated-to-ai-use-and-demographics.md) [-M] — learners who differ on it differ in outcomes
+- [Grade 5 students showed very small, non-significant CCU differences, indicating no reliable A4L impact at that grade level](../claims/a4l-grade5-ccu-no-impact.md) [-M] — an instructional effect differs with it
+- [Having older classmates boosts a child’s test scores but increases the probability of grade repetition and diagnoses of learning disabilities such as ADHD](../claims/older-classmates-boost-scores-increase-repetition-and-disability-diagnoses.md) [~M] — learners who differ on it differ in outcomes
+- [Iconic visual scaffolds in chemistry visualizations helped low-prior-knowledge high-school students but not higher-prior-knowledge ones, with the effect eliminated for younger middle-school children](../claims/expertise-reversal-iconic-scaffolds-development.md) [~M] — an instructional effect differs with it
+- [Instructional modifications that lower barriers are optional supports for younger resilient learners but may be necessary for older beginners, pre-literate students, and learners dealing with trauma or disabilities](../claims/modifications-essential-for-vulnerable-learners.md) [+W] — an instructional effect differs with it
+- [Interactive instruction declines and didactic instruction increases across elementary grade levels](../claims/interactive-declines-didactic-increases-across-grades.md) [+M] — an instructional effect differs with it
+- [Intersecting identities compound suspension risk: 0.1% of Asian girls without special education services in elementary schools were suspended versus 27% of Black boys with disabilities in secondary schools](../claims/intersectional-suspension-risk.md) [+W] — learners who differ on it differ in outcomes
+- [KIPP Atlanta middle school impacts on proficiency generally increase across grade levels](../claims/kipp-atlanta-impacts-increase-across-grades.md) [+M] — an instructional effect differs with it
+- [Language × Age interactions show bilingual preschoolers had the lowest MLUm, NDW, and SI scores, while bilingual school-age children produced the most fragments](../claims/bilingual-preschoolers-lowest-microstructure-interactions.md) [~M] — an instructional effect differs with it
+- [Learner age/level moderates the benefit of negotiation of meaning: high school learners relied on it more than college learners](../claims/age-moderates-negotiation-benefit.md) [+M] — an instructional effect differs with it
+- [Learning ability does not decline with age in healthy older adults](../claims/learning-ability-does-not-decline-with-age.md) [-M] — learners who differ on it differ in outcomes
+- [Learning is effective when it builds on children's existing knowledge in real-world contexts, and early fraction foundations matter because many older children struggle with rational numbers](../claims/early-fraction-foundations-given-rational-number-difficulty.md) [+W] — learners who differ on it differ in outcomes
+- [Many practices in adult literacy programs violate principles of learning for adults, including short-timeframe funding, isolated individualized learning, ignored learner experience, and non-meaningful materials](../claims/adult-literacy-programs-violate-adult-learning-principles.md) [+W] — learners who differ on it differ in outcomes
+- [Meaningful engagement with AI as a co-regulatory partner is more likely from middle childhood onwards](../claims/ai-co-regulation-middle-childhood-onwards.md) [+W] — learners who differ on it differ in outcomes
+- [Mindfulness interventions delivered during late adolescence (15–18) show the largest effects on youth mental health and well-being outcomes](../claims/mindfulness-late-adolescence-largest-effects.md) [+M] — an instructional effect differs with it
+- [Never being expelled in high school was a substantially stronger predictor of college enrollment for Hispanic, English learner, older-entry, and town/rural students than for their counterparts](../claims/never-expelled-stronger-predictor-marginalized-groups.md) [+M] — an instructional effect differs with it
+- [No macrostructure measure differs significantly between bilingual and monolingual children, while age improves story structure, internal state terms, comprehension, and aggregate scores but not structural complexity](../claims/macrostructure-stable-across-language-groups.md) [+W] — learners who differ on it differ in outcomes
+- [No significant interaction between age group and treatment type in acceptability ratings](../claims/no-age-by-treatment-interaction-acceptability.md) [-W] — an instructional effect differs with it
+- [Older entrants show higher kindergarten growth rates but lower growth rates in 1st and 2nd grades](../claims/entry-age-growth-rate-tradeoff.md) [~W] — learners who differ on it differ in outcomes
+- [Older-arriving ESL learners transfer L1 knowledge efficiently, but learning slows once they outgrow their L1](../claims/l1-transfer-efficient-until-outgrown.md) [+W] — learners who differ on it differ in outcomes
+- [Prior research attributes growing male superiority in word problem solving to age, with onset debated between sixth grade and high school](../claims/gender-gap-word-problems-increases-with-age.md) [~M] — an instructional effect differs with it
+- [Prior work has elucidated factors contributing to middle and high school students' perceptions, but less is known about elementary students' perceptions](../claims/less-known-about-elementary-students-perceptions-of-teacher-interactions.md) [+W] — learners who differ on it differ in outcomes
+- [PS-I effects vary by grade level: negative for 2nd–5th graders and increasing with age](../claims/psi-effect-increases-with-grade-level.md) [+M] — an instructional effect differs with it
+- [Racial/ethnic disparities observed among older students are largely already in place among kindergartners](../claims/older-student-disparities-present-at-kindergarten.md) [+M] — learners who differ on it differ in outcomes
+- [RAE effect size increases linearly with relative age differences](../claims/rae-effect-size-increases-with-relative-age-difference.md) [+W] — learners who differ on it differ in outcomes
+- [Reading and math achievement gains in 2021-22 paralleled pre-pandemic trends in many grades, with stronger rebounding in math and among younger students](../claims/pandemic-rebound-2021-22-gains-paralleled-prepandemic.md) [+W] — an instructional effect differs with it
+- [Reading score trends flattened for ages 9-12 and declined at ages 9 and 12 in the grade equivalent metric by 2000](../claims/cps-reading-trends-flattened-declined-younger-ages.md) [+W] — learners who differ on it differ in outcomes
+- [Redshirted students' early-grade academic advantage over on-time peers fades as students move through school](../claims/redshirting-academic-advantage-short-lived.md) [~M] — learners who differ on it differ in outcomes
+- [Retrieval practice benefits have been observed in children, healthy older adults, and memory-impaired patient groups, not only college students](../claims/retrieval-practice-benefits-generalize-to-children-older-adults-and-memory-impaired-patients.md) [~M] — an instructional effect differs with it
+- [Review reports a developmental shift in cognitive offloading: children under-use external aids while adolescents over-rely on them](../claims/developmental-shift-cognitive-offloading.md) [+W] — learners who differ on it differ in outcomes
+- [Scaffolding's effect was greatest among adult learners, though based on a single outcome](../claims/scaffolding-effect-greatest-adult-learners.md) [+M] — an instructional effect differs with it
+- [Secondary school students are suspended at more than three times the rate of elementary school students, and recent declines were concentrated in secondary schools](../claims/secondary-suspension-three-times-elementary.md) [+W] — learners who differ on it differ in outcomes
+- [Secondary suspension risk declined and the racial gap narrowed slightly since 2009-10, while elementary rates did not decline and some districts saw large increases](../claims/suspension-trends-secondary-decline-elementary-flat.md) [~W] — learners who differ on it differ in outcomes
+- [Self-perceived TPACK-21 domain scores do not differ significantly by faculty age group or appointment type](../claims/no-age-or-career-type-differences-tpack-genai.md) [-M] — learners who differ on it differ in outcomes
+- [Student disengagement on an adaptive interim assessment gradually increased across grade level](../claims/disengagement-increased-across-grade-level-remote-testing.md) [+W] — learners who differ on it differ in outcomes
+- [Students at later grade levels were more likely to remain at risk across school years than students at earlier grade levels](../claims/cross-grade-risk-persistence.md) [+M] — learners who differ on it differ in outcomes
+- [Substantial differences in attaining academic indicators of postsecondary readiness occurred for most student groups, with the largest number between Black and White students, NSLP-eligible and ineligible students, and students entering grade 6 after age 13](../claims/academic-indicator-attainment-varies-by-student-group.md) [+W] — learners who differ on it differ in outcomes
+- [SWCPM score ranges corresponding to ARM performance levels show monotonic progression across terms within grades, except in first grade](../claims/swcpm-arm-range-monotonic-except-grade-1.md) [~M] — learners who differ on it differ in outcomes
+- [SWPBIS effects on peer rejection appeared strongest for children first exposed in earlier grades, the one significant grade-cohort interaction among those tested](../claims/swpbis-earlier-exposure-stronger-rejection-effect.md) [+M] — an instructional effect differs with it
+- [Syntea adoption is highest among Gen Z students (63.66%) and declines across older generational cohorts](../claims/syntea-usage-declines-older-cohorts.md) [+M] — learners who differ on it differ in outcomes
+- [Test-enhanced learning generalizes across education levels, from elementary school (g = 0.328) through university/college (g = 0.486).](../claims/testing-effect-generalizes-education-levels.md) [+M] — an instructional effect differs with it
+- [The brief reports that adult learners often need high-touch support such as navigators through enrollment and financial aid](../claims/adult-learners-need-navigator-high-touch-support.md) [+W] — learners who differ on it differ in outcomes
+- [The brief reports that adult learners' priorities differ from traditional-age students', making appropriate messages critical to engaging them](../claims/adult-learner-priorities-tailored-messages-critical.md) [+W] — learners who differ on it differ in outcomes
+- [The brief reports that online tools can engage prospective adult learners and make enrollment convenient given work and family demands](../claims/online-tools-convenient-enrollment-adult-learners.md) [+W] — learners who differ on it differ in outcomes
+- [The impact of AI on learning, motivation, and meaning differs by life stage: AI functions as a supplement for those with established skills but risks bypassing foundational experiences for younger learners](../claims/ai-benefits-differ-by-developmental-stage.md) [~W] — an instructional effect differs with it
+- [The interventions narrowed some reading gaps, reducing the Word Attack gap by about two-thirds for third graders and one-half for fifth graders](../claims/interventions-narrowed-reading-gap-word-attack.md) [+M] — an instructional effect differs with it
+- [The most cited barriers to adult learning are situational, but adults also face internal barriers such as low confidence in their ability to learn](../claims/adult-learner-barriers-situational-and-internal.md) [+M] — learners who differ on it differ in outcomes
+- [The percentage of students who stay at risk across time periods increases across grade levels K–3](../claims/staying-at-risk-increases-with-grade-level.md) [+M] — learners who differ on it differ in outcomes
+- [The positive relationship between kindergarten entrance age and achievement primarily reflects skill accumulation prior to kindergarten rather than heightened in-school learning ability](../claims/entrance-age-advantage-reflects-prior-skill-accumulation.md) [+W] — learners who differ on it differ in outcomes
+- [The usefulness of app components varied by child's age: conversation starters were too advanced for some younger children but helpful for older children](../claims/component-usefulness-varies-by-child-age.md) [+W] — an instructional effect differs with it
+- [Third grade is the notable exception where retained students did not make smaller gains, likely due to the ITBS Level 8 to Level 9 test format change](../claims/third-grade-gain-dip-test-format-exception.md) [-M] — an instructional effect differs with it
+- [Whether teachers knew their students before Summer Bridge predicted test-score increases and teacher practice, most strongly for older students](../claims/teacher-familiarity-predicts-summer-bridge-gains.md) [+W] — an instructional effect differs with it
+- [Writing assignments made more challenging demands than mathematics assignments across all three grades, with grade-level patterns differing by subject](../claims/writing-more-challenging-than-math-assignments.md) [~M] — an instructional effect differs with it
+- [Younger and older adults do not differ in treatment acceptability ratings for GAD with Parkinson's disease](../claims/no-age-cohort-difference-treatment-acceptability.md) [-M] — learners who differ on it differ in outcomes
+- [Younger children were more negatively affected by COVID-19 school closures than older children (−0.37 SD vs. −0.10 SD)](../claims/covid-closures-younger-students-more-affected.md) [+W] — an instructional effect differs with it
+- [Younger struggling readers benefited more: the interventions generally helped third-grade cohort students more than fifth-grade cohort students](../claims/younger-struggling-readers-benefited-more.md) [+M] — an instructional effect differs with it
+
+## Related Learner Variables
+- [Prior Knowledge](prior-knowledge.md)
+- [Self-Regulation](self-regulation.md)
+- [Executive Function](executive-function.md)

@@ -60,6 +60,9 @@ The omnibus main effect of time across all four attitude variables was not signi
 ## Discussion
 
 
+## Learner Variables
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [A 15-week extensive reading course increased Japanese EFL learners' feelings of comfort with foreign-language reading (r = .54)](er-increased-comfort-efl-reading-attitude.md) — related
 - [Extensive reading increased the Intellectual Value Japanese EFL learners attached to foreign-language reading (r = .26)](er-increased-intellectual-value-reading-attitude.md) — related

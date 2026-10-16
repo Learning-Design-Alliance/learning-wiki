@@ -61,6 +61,9 @@ Pre-policy bottom panel of Table 3. The article links this pattern to a frog pon
 ## Discussion
 
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - Academic composition of algebra classrooms affects math achievement among high-skill students — related
 - [Below-norm students' test scores improved post-policy (0.88 points total), and classroom average ability no longer predicted their scores post-policy](below-norm-score-gains-composition-null-post-policy.md) — related

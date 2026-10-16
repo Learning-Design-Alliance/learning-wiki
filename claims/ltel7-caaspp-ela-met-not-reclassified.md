@@ -42,6 +42,9 @@ Analysis of CAASPP ELA performance data for 2022–23. The report states "some s
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - Policy adherence is high across states (96-98 percent of eligible students reclassified) but is relatively lower in the state mandating end-of-grade assessment proficiency — related
 - Despite improvements in English proficiency, only about half of K-cohort ELs were reclassified by the end of elementary school, revealing a gap between proficiency and reclassification — related

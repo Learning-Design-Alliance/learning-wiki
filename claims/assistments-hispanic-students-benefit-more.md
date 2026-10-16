@@ -42,6 +42,9 @@ One of a series of subgroup analyses on the follow-up ITT sample examining wheth
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [ASSISTments benefited students of color significantly more than White students, narrowing the ethnic achievement gap](assistments-close-ethnic-achievement-gaps.md) — related
 - [Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students](assistments-school-composition-moderators.md) — related

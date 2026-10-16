@@ -62,6 +62,9 @@ In the same ZINB count model of StatBot use, prior knowledge carried a negative 
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Growing Achievers used StatBot significantly more than Declining Performers, driven mainly by initiating new inquiries](growing-achievers-out-use-declining-performers.md) — related
 - [Higher-achieving graduate students were less likely to abstain entirely from StatBot use](higher-final-grades-less-likely-zero-use.md) — related

@@ -42,6 +42,9 @@ Survey-based analysis using perceived safety measures constructed from My Voice,
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Reduced suspension use was associated with increased attendance of roughly one additional day per year per student, rising to about three days in schools serving predominantly Black students](cps-suspension-reduction-attendance.md) — related
 - [School climate improved in predominantly Black schools but declined in predominantly Latino and racially diverse schools as suspension use for severe infractions fell](cps-suspension-reduction-school-climate.md) — related

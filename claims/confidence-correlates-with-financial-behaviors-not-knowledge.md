@@ -42,6 +42,9 @@ Pearson bivariate correlational analyses among the outcome variables (Table 3) i
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Practice condition did not significantly affect learners' subjective confidence about credit knowledge or ability to manage credit](practice-condition-no-effect-financial-metacognition.md) — related
 - [Practice condition showed no significant association with self-reported financial behaviors about credit](practice-condition-no-effect-financial-behaviors.md) — related

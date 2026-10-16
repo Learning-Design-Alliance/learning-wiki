@@ -63,6 +63,7 @@ Descriptive analysis among four-year college enrollees. Other students with IEPs
 
 ## Learner Variables
 - [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Long-term and late-arriving English Learners were considerably less likely to enroll in four-year colleges than their peers](active-els-underrepresented-four-year-colleges.md) — related

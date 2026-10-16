@@ -42,6 +42,9 @@ The article reports, citing Collier and Thomas (2017), that "all student groups 
 
 ## Discussion
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Teaching students in a language they understand benefits both language learning and broader learning](cl-teaching-in-language-students-understand-improves-learning.md) — the general claim this finding bears on, with the studies behind it

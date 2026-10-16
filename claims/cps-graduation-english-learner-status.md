@@ -44,6 +44,7 @@ Descriptive comparison of four-year graduation rates by English Learner status i
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - Students who began as English Learners graduated from CPS high school at a slightly higher rate (83.1%) than students never classified as English Learners (81.2%) — related

@@ -54,6 +54,9 @@ Meta-analytic moderator analysis across education levels; the review reports gen
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — related
 - [Benefits of retrieval practice have persisted for 6 months in medical students and 9 months in middle-school students](retrieval-practice-benefits-persist-six-to-nine-months.md) — related

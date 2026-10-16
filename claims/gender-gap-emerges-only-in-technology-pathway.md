@@ -42,6 +42,9 @@ Intra-pathway analysis using independent t-tests with Welch's correction compare
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Secondary students report near-maximum confidence in passive digital tasks but sharply lower confidence in active creation and algorithmic logic](confidence-competence-divide-passive-vs-active-creation.md) — related
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — a broader claim this one bears on

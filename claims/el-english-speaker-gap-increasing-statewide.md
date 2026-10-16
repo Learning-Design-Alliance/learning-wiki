@@ -44,6 +44,7 @@ Slope analysis of student-level cohort data (Table 6) shows the statewide gap sl
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [English learners in nearly all MiC districts showed stronger annual CAASPP mathematics gains than their statewide peers from 2015 to 2017 despite remaining mostly at the lowest achievement level](mic-english-learners-stronger-gains.md) — related

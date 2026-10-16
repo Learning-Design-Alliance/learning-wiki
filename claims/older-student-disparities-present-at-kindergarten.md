@@ -42,6 +42,10 @@ Cross-grade comparison of racial/ethnic achievement gaps in the K-8 test-score d
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Schools play less of a role in widening racial/ethnic achievement gaps than children's prekindergarten environments](schools-less-role-than-prekindergarten-environments.md) — related
 - [The study frames schooling as a candidate explanation for the development of racial and ethnic inequalities in academic skills](schooling-role-racial-ethnic-inequality-development.md) — related

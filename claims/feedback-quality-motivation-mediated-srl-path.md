@@ -43,6 +43,9 @@ Bootstrapped indirect-effect tests (Table 9) in the 689-student survey: QAF→LM
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Perceived AIGC affordance enhances AIGC self-efficacy and directly predicts self-regulated learning in IEI undergraduates](aigc-affordance-boosts-self-efficacy-and-srl.md) — related
 - [AIGC feedback quality predicts satisfaction but not self-efficacy, and satisfaction does not predict self-regulated learning](feedback-quality-satisfaction-not-srl.md) — related

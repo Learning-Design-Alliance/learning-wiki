@@ -42,6 +42,7 @@ The review reports this finding, citing Haraldsrud and Odden (2025), as qualitat
 
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — moderator: an instructional effect differs with it
+- [Executive Function](../learner-variables/executive-function.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 - [AI-assisted ideation was conditionally acceptable when researchers retained decision-making authority, but problematic when it displaced conceptual labour](conditional-ideation-dialogic-aid-vs-outsourcing.md) — related

@@ -43,5 +43,8 @@ Descriptive participation rates by programmatic indicators (Figure 4). The repor
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Students with greater economic need participated at higher rates in Chicago Connected](economic-need-higher-chicago-connected-participation.md) — related

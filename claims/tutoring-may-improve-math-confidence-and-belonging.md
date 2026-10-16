@@ -44,6 +44,7 @@ Description of the evaluation design across the eight programs: the studies asse
 
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Multiple math tutoring approaches, including group and virtual tutoring, can boost students' math knowledge in grades 4–10](group-and-virtual-tutoring-boost-math-knowledge.md) — related

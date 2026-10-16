@@ -62,6 +62,9 @@ Experiment 3 correlational observation: the two subjects whose retrieval paths c
 ## Discussion
 
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [A hierarchical internal knowledge organization facilitates performance on complex recall and problem-solving tasks more than a single-level organization of the same knowledge](hierarchical-organization-improves-complex-task-performance.md) — related
 - [Hierarchical versus single-level organization does not significantly affect performance on local tasks relying only on individual detailed steps](no-organization-effect-on-local-tasks.md) — related

@@ -44,5 +44,8 @@ Post hoc cross-level interaction from the same HLM models (grade cohort × SWPBI
 
 The title follows the article's abstract, which reads the interaction as "suggesting that the effects of SWPBIS on rejection were strongest among children who were first exposed to SWPBIS at a younger age". The entry records the result itself, in the article's results wording: children in higher grades in comparison schools showed greater increases in rejection than their age-mates in SWPBIS schools. The page records both; it does not settle how the second supports the first.
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 -

@@ -42,6 +42,9 @@ Trend analysis shown in Figure 3 of CDE summative ELPAC results. The report stat
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [ELPAC overall PL 4 remains the appropriate Criterion 1 reclassification threshold, with 2017-18 and 2022-23 data converging on the same level](elpac-pl4-threshold-validated-replication.md) — related
 - [English Learner students at ELPAC PL 4 perform as well as, or better than, matched English-only peers on the state English language arts achievement test](pl4-el-students-comparable-to-peers.md) — related

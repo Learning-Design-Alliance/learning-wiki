@@ -63,6 +63,7 @@ Simple-slope probing at one SD below/above the mean of anxiety in the same model
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — moderator: an instructional effect differs with it
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 - [AI literacy is directly and positively associated with continued ChatGPT use among existing users](ai-literacy-direct-continued-chatgpt-use.md) — related

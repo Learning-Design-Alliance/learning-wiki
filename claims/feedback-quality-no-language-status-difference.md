@@ -42,6 +42,9 @@ Scheffe-corrected ANOVAs on coded feedback ratings for the blocked sample (50 EL
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Differences between human and ChatGPT feedback quality were small, with means within one point and partial eta-squared ranging from .01 to .12](small-effect-sizes-human-ai-feedback-differences.md) — related
 - [Zero-shot GenAI feedback quality is statistically comparable to teacher feedback quality](zero-shot-feedback-quality-comparable-to-teacher.md) — related

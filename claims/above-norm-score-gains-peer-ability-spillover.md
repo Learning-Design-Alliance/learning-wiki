@@ -100,6 +100,9 @@ Regression models on the population of ninth-grade students in 55 Chicago school
 
 
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [A narrative review reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested](streaming-impacts-negatively-on-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it

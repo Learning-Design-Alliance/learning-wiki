@@ -42,6 +42,9 @@ Descriptive analysis in Chapter 1 using a school dispersion ratio measuring the 
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Ninth-grade enrollment in school types differed by community-area racial/ethnic makeup: 22 of 30 majority-Black areas had at least 25 percent of ninth-graders in charter schools, and no majority-Latinx area had a quarter in selective enrollment](enrollment-school-types-differed-by-community-race.md) — related
 - [Black students and students from the lowest-SES neighborhoods ranked more programs but were less likely to rank a high-accountability school first](gocps-subgroup-ranking-and-accountability-differences.md) — related

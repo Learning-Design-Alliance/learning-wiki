@@ -42,5 +42,8 @@ Authors' interpretive account offered as possible causes, hedged with "could ste
 ## Discussion
 
 
+## Learner Variables
+- [Epistemic Beliefs](../learner-variables/epistemic-beliefs.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Learners underuse effective learning strategies such as spacing and retrieval practice](learners-underuse-effective-learning-strategies.md) — possibly the same claim (merge candidate)

@@ -44,6 +44,7 @@ Exploratory correlation analysis of the 19-item usage/use-value measure (α = 0.
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+- [Interest](../learner-variables/interest.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Need for cognition correlates positively with critical genAI use and negatively with perceived usefulness of genAI](nfc-correlates-critical-use-and-skeptical-usefulness.md) — related

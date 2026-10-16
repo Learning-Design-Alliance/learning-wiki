@@ -42,6 +42,9 @@ Authors' interpretation of case-study observations in Sec. 7.2, where some parti
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [SupplyNet was rated significantly more immersive, motivating, and enjoyable than the baseline, with engagement showing the most pronounced difference.](supplynet-higher-engagement-than-baseline.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on

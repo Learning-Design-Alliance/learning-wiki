@@ -42,6 +42,9 @@ Gender gap models estimated within each year and subject on the weighted MAP Gro
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Black-White and Hispanic-White achievement gaps at kindergarten entry narrowed significantly between 2010 and 2017 in both math and reading](racial-ethnic-entry-gaps-narrowed-2010-2017.md) — related
 - Early female-favored mean math differences reverse to male-favored differences that widen across elementary grades — related

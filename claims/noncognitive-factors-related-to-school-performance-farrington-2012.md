@@ -42,6 +42,9 @@ This white paper reports, citing its predecessor critical review by Farrington e
 ## Discussion
 
 
+## Learner Variables
+- [Mindset](../learner-variables/mindset.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Noncognitive factors have a direct positive relationship to students' school performance and future outcomes](noncognitive-factors-positive-relationship-school-performance.md) — possibly the same claim (merge candidate)
 - [Positive academic mindsets increase perseverance and academic behaviors, yielding higher grades; negative mindsets produce a self-defeating cycle](mindsets-increase-perseverance-behaviors-grades.md) — related

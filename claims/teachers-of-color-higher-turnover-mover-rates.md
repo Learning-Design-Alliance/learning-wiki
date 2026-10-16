@@ -61,6 +61,9 @@ The report states this moderation in the retention section: the overall turnover
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Overall U.S. teacher turnover is about 16% annually, with about 8% leaving the profession and about 8% moving schools](teacher-turnover-16-percent-annual.md) — related
 - [Teachers of color leave the teaching profession at higher rates than white teachers (about 19 percent vs. 15 percent turnover).](toc-higher-turnover-than-white-teachers.md) — possibly the same claim (merge candidate)

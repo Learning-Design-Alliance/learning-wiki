@@ -71,6 +71,9 @@ A meta-analysis of the single-session expressive-writing literature (the paradig
 
 **Open questions.** The recorded evidence is mixed: the original classroom experiments found a medium effect for highly test-anxious students, and a later meta-analysis of 21 studies found a negligible effect on test performance. Open issues include dosage (how long a writing session must be), durability across repeated exams, and whether effects hold in low-stakes or online assessment contexts. Replication across age groups and subject domains is also needed before the claim can be generalized beyond the populations in which it was first tested.
 
+## Learner Variables
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation](test-anxiety-negative-exam-performance.md) — the general claim this finding bears on, with the studies behind it

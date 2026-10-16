@@ -42,6 +42,9 @@ Outcome results from the randomised control study of 73 university students, in 
 ## Discussion
 
 
+## Learner Variables
+- [Executive Function](../learner-variables/executive-function.md) — outcome: instruction changes it
+
 ## Related Claims
 - [With peer feedback groups added to web-based SRL training (Group TDP), students showed statistically significant gains in self-motivation, volition and reflection, beyond the planning and metacognition gains also seen in Group TD; goal-setting and elaboration gains stayed non-significant](peer-feedback-groups-add-self-motivation-volition-reflection-gains-to-web-based-srl-training.md) — related
 - [Web-based SRL training combined with a learning diary (Group TD) produced statistically significant pre-post gains in SRL knowledge, the SRL overall score and self-efficacy, but not in mathematics scores, among prospective university students in an online preparation course](web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math.md) — related

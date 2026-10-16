@@ -61,6 +61,9 @@ In the Thursday activity, where both classes did storytelling with words in chil
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+
 ## Related Claims
 - Students' preferred activity diverged between classes: Year 2-1 most often chose the primary-language activity, Year 2-2 the teacher-controlled storytelling session — related
 - [Children's drawings suggested they noticed the robot's embedded integration elements and shifted attention from the robot to peer communication](children-drawings-notice-integration-elements.md) — related

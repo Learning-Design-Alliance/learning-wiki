@@ -42,6 +42,9 @@ In the results section of the interview study with 46 kindergartners, "The resul
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [The majority (63%) of kindergartners hold naïve mental models of the day and night cycle, with the distance model the most common](kindergartners-majority-naive-day-night-models.md) — related
 - [Few kindergartners hold synthetic (18%) or scientific (13%) models of the day and night cycle despite no formal instruction](few-kindergartners-synthetic-scientific-models.md) — related

@@ -61,6 +61,9 @@ The article's comparison under analytic phonics reports boys "performed as well 
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Under analytic phonics teaching, boys matched girls in word reading but had inferior spelling and reading comprehension](analytic-phonics-boys-inferior-spelling-comprehension.md) — a narrower finding that bears on this claim
 - [Boys taught by synthetic phonics showed better word reading than girls in their classes, with spelling and reading comprehension as good as the girls'](synthetic-phonics-boys-better-word-reading.md) — a narrower finding that bears on this claim

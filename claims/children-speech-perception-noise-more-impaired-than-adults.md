@@ -41,6 +41,9 @@ The review reports psychoacoustic studies showing children's speech identificati
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Noise impairs children's performance in complex listening tasks beyond simple identification, with children affected more than adults](noise-impairs-children-listening-comprehension.md) — related
 - [Children with language or attention disorders and second-language learners are more impaired by noise in speech perception than age-matched controls](vulnerable-children-more-noise-impaired-speech-perception.md) — related

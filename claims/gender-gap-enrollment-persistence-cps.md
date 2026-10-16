@@ -42,6 +42,9 @@ Observational finding from the six-year tracking of CPS graduates in the classes
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [College completion among immediate enrollees in the CPS class of 2015 shows large race/ethnicity and gender gaps, with fewer than a third of Black and Latino young men completing a bachelor's degree](cps-college-completion-race-gender-gaps.md) — related
 - [For two-year black transfer students, gender and engineering GPA—not transfer status—drive graduation outcomes, with black women outperforming black men](gender-gpa-drive-two-year-black-transfer-graduation.md) — related

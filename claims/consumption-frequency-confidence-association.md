@@ -40,6 +40,9 @@ Cross-tabulation of survey data from 141 students relating consumption frequency
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Students consume news frequently, primarily through social media and television, with a preference for digital over traditional media](student-news-consumption-digital-preference.md) — related
 - [Students hold a generally critical stance toward media influence on their opinions, with traditional formats inspiring more trust than digital platforms](media-influence-perception-trust-formats.md) — related

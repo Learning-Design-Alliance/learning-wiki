@@ -159,7 +159,7 @@ sources:
 # MAP Growth
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 78 claims (75 for, 3 mixed) · 33 studies (24 associational, 4 theoretical, 3 design, 2 causal), `q1`–`q3` · 2 of 33 report an effect size · 75 claims rest on one study
+> **Evidence** · 104 claims (100 for, 4 mixed) · 47 studies (35 associational, 6 design, 4 theoretical, 2 causal), `q1`–`q3` · 2 of 47 report an effect size · 100 claims rest on one study
 
 ## Description
 MAP Growth is NWEA's computer-adaptive assessment system, with national achievement and growth norms and reporting tools such as the MAP Growth National Dashboard.

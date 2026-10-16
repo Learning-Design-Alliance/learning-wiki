@@ -46,6 +46,9 @@ Rosser's written testimony attributes this finding to a 1979 ETS study by Ekstro
 The evidence is second-hand: Rosser's written testimony to a congressional hearing quotes the finding from Ekstrom, Lockheed and Donlon (1979), which has not been read here, and the hearing record prints no data or effect size for it. Rosser's own count of men and women named in 24 SAT reading passages describes item content, not a score difference, so it does not by itself show that male-oriented content biases scores.
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Prior research attributes growing male superiority in word problem solving to age, with onset debated between sixth grade and high school](gender-gap-word-problems-increases-with-age.md) — related
 - [Testimony at a 1987 congressional hearing reported 1985 SAT averages in which Black women scored 43 points below Black men and 264 points below white men, which the witness called a double penalty for minority females](minority-females-doubly-penalized-on-tests.md) — related

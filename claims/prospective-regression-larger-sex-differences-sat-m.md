@@ -42,6 +42,9 @@ Prospective regression analysis of the same dataset as the matched comparison. T
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Women scored about 33 SAT-M points lower than men who took the same math course and received the same grade](women-33-sat-points-lower-matched-course-grade.md) — related
 - [The score gaps constitute evidence of sex differences in the validity of the SAT-M as a predictor of college math performance, though not of their cause](sex-differences-sat-m-predictive-validity.md) — related

@@ -42,6 +42,9 @@ The article states it "builds on prior research showing that greater linguistic 
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Some 2003 MCAS fourth-grade math word problems exhibited differential item functioning for English-language learners versus non-ELLs](mcas-math-word-problems-dif-for-ells.md) — related
 - [Textual analysis identifies specific linguistic features of MCAS word problems that posed disproportionate difficulty for ELLs](linguistic-features-of-dif-mcas-word-problems.md) — related

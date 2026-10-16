@@ -42,6 +42,9 @@ Between-subjects experiment with 123 undergraduates writing career-plan essays u
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Bias transfer is asymmetric: prompt condition affects agency in female-target essays but not male-target essays, suppressing female agency while male writing remains stable](asymmetric-female-agency-suppression-bias-transfer.md) — related
 - [Students exposed to the biased LLM showed no awareness of its influence, reporting lower perceived AI influence than neutral-condition participants despite larger bias effects](bias-transfer-without-awareness-llm-writing.md) — related

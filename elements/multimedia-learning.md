@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (12 for, 2 mixed) · 18 studies (10 causal, 4 quant-synthesis, 3 review, 1 qualitative), `q2`–`q4` · 9 of 18 report an effect size · 11 claims rest on one study
+> **Evidence** · 14 claims (12 for, 2 mixed) · 19 studies (10 causal, 4 quant-synthesis, 4 review, 1 qualitative), `q2`–`q4` · 9 of 19 report an effect size · 10 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.

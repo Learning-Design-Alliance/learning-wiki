@@ -42,6 +42,9 @@ The review reports Swan (2005) found "17% of the variance in career intent could
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Student teachers' teaching efficacy follows a dip trajectory: it rises during on-campus preparation, falls to its lowest point at the midpoint of student teaching, and rebounds by the end](efficacy-dips-midpoint-student-teaching.md) — related
 - Posttest self-efficacy accounts for a significant increment in posttest skill variability, but its relation to persistence is mixed in learning settings — related

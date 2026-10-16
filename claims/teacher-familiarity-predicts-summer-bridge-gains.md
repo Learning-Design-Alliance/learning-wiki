@@ -42,6 +42,9 @@ Teacher surveys from the 1999 Summer Bridge program showed eighth-grade teachers
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Most Chicago teachers and principals reported that Summer Bridge and Lighthouse had positive effects on participating students](cps-educators-positive-on-summer-bridge-lighthouse.md) — related
 - [Mandatory summer curricula are not teacher proof: individualizing instruction and quality of teacher-student interactions were associated with larger gains](summer-curricula-not-teacher-proof.md) — related

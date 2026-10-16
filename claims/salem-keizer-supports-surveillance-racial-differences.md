@@ -42,5 +42,8 @@ The only published Salem-Keizer study examined 5 years of threat assessment reco
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Black students and students with disabilities are disproportionately referred for behavioral threat assessments](bta-referral-disparities-black-students-disabilities.md) — related

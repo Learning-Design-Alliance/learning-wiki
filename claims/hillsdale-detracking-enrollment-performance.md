@@ -42,5 +42,8 @@ Single-school case example reported in the brief's 'Structures That Build Safety
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Gateway students graduate at high rates, including 100% of African American, Latina/o, and students with disabilities](gateway-98-percent-four-year-graduation-rate.md) — related

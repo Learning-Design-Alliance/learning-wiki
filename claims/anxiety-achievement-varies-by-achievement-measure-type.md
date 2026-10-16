@@ -44,6 +44,7 @@ Meta-analytic moderator analyses of the 216 correlations found heterogeneity "ac
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — predictor: learners who differ on it differ in outcomes
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 - [The anxiety–achievement correlation varies across educational levels, target languages, and anxiety types](anxiety-achievement-moderators-levels-languages-anxiety-types.md) — related

@@ -61,6 +61,9 @@ The Group × Gender row for Post_Academic_Achievement in the ANCOVA summary tabl
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [AI-PBL students achieve high normalized learning gains (g = 0.73) in computational thinking and academic achievement while control students record low gains (g ≤ 0.20)](ai-pbl-high-ngain-versus-control-low.md) — related
 - [AI-supported PBL students obtain significantly higher posttest computational thinking scores than traditional-lecture students when controlling pretest scores](ai-pbl-higher-posttest-computational-thinking.md) — related

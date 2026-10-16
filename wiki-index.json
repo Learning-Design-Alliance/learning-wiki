@@ -3,7 +3,7 @@
 "claim":15844,
 "design":758,
 "element":1066,
-"learner-variable":14,
+"learner-variable":26,
 "method":38,
 "pattern":65,
 "principle":213,
@@ -157805,6 +157805,14 @@
 "type":"element"
 },
 {
+"description":"Anxiety tied to learning and assessment in a subject, such as mathematics anxiety, test anxiety and foreign-language anxiety.",
+"id":"academic-anxiety",
+"path":"learner-variables/academic-anxiety.md",
+"status":"review",
+"title":"Academic Anxiety",
+"type":"learner-variable"
+},
+{
 "description":"Whether a learner can perceive and operate the material at all — device, bandwidth, sensory and motor.",
 "id":"access",
 "path":"learner-variables/access.md",
@@ -157818,6 +157826,14 @@
 "path":"learner-variables/affect-regulation.md",
 "status":"review",
 "title":"Affect Regulation",
+"type":"learner-variable"
+},
+{
+"description":"A learner's age, grade level or stage of development, from early childhood to adulthood, as it bears on what instruction suits them.",
+"id":"age-and-developmental-stage",
+"path":"learner-variables/age-and-developmental-stage.md",
+"status":"review",
+"title":"Age and Developmental Stage",
 "type":"learner-variable"
 },
 {
@@ -157853,11 +157869,75 @@
 "type":"learner-variable"
 },
 {
+"description":"Whether a learner is still acquiring the language of instruction (an English learner, multilingual learner or second-language learner), as classified by a school system or measured by proficiency tests.",
+"id":"english-learner-status",
+"path":"learner-variables/english-learner-status.md",
+"status":"review",
+"title":"English-Learner Status",
+"type":"learner-variable"
+},
+{
+"description":"A learner's beliefs about the nature of knowledge and knowing: whether knowledge is certain or tentative, simple or complex, handed down by authority or built from evidence.",
+"id":"epistemic-beliefs",
+"path":"learner-variables/epistemic-beliefs.md",
+"status":"review",
+"title":"Epistemic Beliefs",
+"type":"learner-variable"
+},
+{
+"description":"The set of control processes, inhibition, working-memory updating and cognitive flexibility, that let a learner direct attention and behaviour toward a goal.",
+"id":"executive-function",
+"path":"learner-variables/executive-function.md",
+"status":"review",
+"title":"Executive Function",
+"type":"learner-variable"
+},
+{
+"description":"A learner's gender as recorded in research data, used to describe differences in participation, attitudes and outcomes and to test whether an instructional effect differs between groups.",
+"id":"gender",
+"path":"learner-variables/gender.md",
+"status":"review",
+"title":"Gender",
+"type":"learner-variable"
+},
+{
+"description":"A learner's general reasoning and problem-solving capacity, measured by intelligence or general ability tests, as it bears on learning and on how instruction works.",
+"id":"general-cognitive-ability",
+"path":"learner-variables/general-cognitive-ability.md",
+"status":"review",
+"title":"General Cognitive Ability",
+"type":"learner-variable"
+},
+{
+"description":"A learner's engagement with and liking for a topic, whether a lasting personal interest or interest sparked in the moment by the situation.",
+"id":"interest",
+"path":"learner-variables/interest.md",
+"status":"review",
+"title":"Interest",
+"type":"learner-variable"
+},
+{
 "description":"Identified learning, developmental and intellectual disabilities (dyslexia and other specific learning disabilities, autism, intellectual disability), and the special educational needs that follow from them.",
 "id":"learning-disabilities",
 "path":"learner-variables/learning-disabilities.md",
 "status":"review",
 "title":"Learning Disabilities and Developmental Differences",
+"type":"learner-variable"
+},
+{
+"description":"A learner's stated preference for receiving information in one form (such as visual, auditory or kinaesthetic), and the claim that matching instruction to it improves learning.",
+"id":"learning-style-preferences",
+"path":"learner-variables/learning-style-preferences.md",
+"status":"review",
+"title":"Learning-Style Preferences",
+"type":"learner-variable"
+},
+{
+"description":"A learner's belief about whether ability or intelligence is fixed or can grow with effort and good strategies (implicit theories of intelligence).",
+"id":"mindset",
+"path":"learner-variables/mindset.md",
+"status":"review",
+"title":"Mindset",
 "type":"learner-variable"
 },
 {
@@ -157877,11 +157957,27 @@
 "type":"learner-variable"
 },
 {
+"description":"A learner's racial or ethnic group as recorded in research and administrative data, used to describe gaps in opportunity and outcomes and to test whether an instructional effect differs across groups.",
+"id":"race-and-ethnicity",
+"path":"learner-variables/race-and-ethnicity.md",
+"status":"review",
+"title":"Race and Ethnicity",
+"type":"learner-variable"
+},
+{
 "description":"What a learner can read fluently, and whether the language of instruction is the one they think in.",
 "id":"reading-and-language",
 "path":"learner-variables/reading-and-language.md",
 "status":"review",
 "title":"Reading and Language",
+"type":"learner-variable"
+},
+{
+"description":"A learner's belief in their own ability to carry out the actions needed to succeed at a particular task or in a particular subject.",
+"id":"self-efficacy",
+"path":"learner-variables/self-efficacy.md",
+"status":"review",
+"title":"Self-Efficacy",
 "type":"learner-variable"
 },
 {
@@ -252324,16 +252420,28 @@
 "zone-of-intervention":"zone-of-intervention"
 },
 "learner-variable":{
+"academic-anxiety":"academic-anxiety",
 "access":"access",
 "affect-regulation":"affect-regulation",
+"age-and-developmental-stage":"age-and-developmental-stage",
 "attention":"attention",
 "belonging":"belonging",
 "digital-literacy":"digital-literacy",
 "domain-context":"domain-context",
+"english-learner-status":"english-learner-status",
+"epistemic-beliefs":"epistemic-beliefs",
+"executive-function":"executive-function",
+"gender":"gender",
+"general-cognitive-ability":"general-cognitive-ability",
+"interest":"interest",
 "learning-disabilities":"learning-disabilities",
+"learning-style-preferences":"learning-style-preferences",
+"mindset":"mindset",
 "motivation":"motivation",
 "prior-knowledge":"prior-knowledge",
+"race-and-ethnicity":"race-and-ethnicity",
 "reading-and-language":"reading-and-language",
+"self-efficacy":"self-efficacy",
 "self-regulation":"self-regulation",
 "socioeconomic-status":"socioeconomic-status",
 "time-and-continuity":"time-and-continuity",

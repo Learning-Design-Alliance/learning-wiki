@@ -14,7 +14,7 @@ generated:
 # Inquiry-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (6 for) · 9 studies (3 quant-synthesis, 2 review, 2 design, 1 causal, 1 qualitative), `q1`–`q4` · 2 of 9 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 against) · 12 studies (3 quant-synthesis, 3 review, 2 causal, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 2 of 12 report an effect size · 4 claims rest on one study
 
 ## Description
 Inquiry-based learning is the element in which learners investigate questions, evidence, or problems in order to build understanding through guided exploration.

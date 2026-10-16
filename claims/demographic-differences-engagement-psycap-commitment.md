@@ -42,6 +42,9 @@ Independent-samples t-tests and one-way ANOVA on demographic differences in the 
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - Female Korean immigrants showed better psychosocial adjustment than males on diffusion, isolation, and intimacy resolution — related
 - [Professional commitment is essentially uncorrelated with AI literacy and shows no significant bivariate correlation with learning engagement](professional-commitment-null-bivariate-correlations.md) — related

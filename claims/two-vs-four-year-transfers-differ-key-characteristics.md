@@ -42,6 +42,9 @@ The comparative analysis of the updated longitudinal dataset reports that the tw
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Black students in engineering are more likely to transfer from other four-year institutions than from two-year institutions](black-engineering-students-transfer-more-from-four-year.md) — related
 - [Each tenth of a grade point increase in engineering GPA raises the odds of six-year engineering graduation for black students by 13.7 percent](engineering-gpa-tenth-point-raises-graduation-odds-13-7.md) — related

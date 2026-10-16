@@ -61,6 +61,9 @@ Descriptive analysis of clinical pathway by preliminary credential type among co
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Across CPS preparation pathways, traditional and residency student teachers completed more methods coursework, had lengthier programs, and planned more years in teaching than alternative-pathway student teachers](cps-pathway-differences-coursework-length-and-career-plans.md) — related
 - [Residencies recruit a more diverse teacher workforce than typical entry pathways](residencies-diversify-teacher-workforce.md) — related

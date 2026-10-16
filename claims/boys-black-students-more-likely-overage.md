@@ -42,6 +42,9 @@ Findings section of the brief, from the observational CPS analysis: within-censu
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Students in census tracts with unaffordable housing, low home ownership, or little green space have higher odds of grade retention, even with similar achievement](neighborhood-disadvantage-higher-retention-odds.md) — related
 - [Overage students at high schools with great racial equity climate are twice as likely to graduate in four years as those at schools with poor racial equity climate](racial-equity-climate-doubles-overage-graduation.md) — related

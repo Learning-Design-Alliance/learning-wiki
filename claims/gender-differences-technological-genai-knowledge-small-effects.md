@@ -40,6 +40,9 @@ One-way ANOVAs by gender across the seven TPACK domains in the 127-faculty surve
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [Learning engagement, PsyCap, and commitment differ by gender, student-leader status, and grade level](demographic-differences-engagement-psycap-commitment.md) — related

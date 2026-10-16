@@ -43,6 +43,9 @@ The article's concluding synthesis, an authors' interpretation connecting proces
 ## Discussion
 
 
+## Learner Variables
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
+
 ## Related Claims
 - Low anxiety, high self-confidence, and motivation are presented as affective variables facilitating L2 acquisition — related
 - Comprehensible input in natural language contexts is presented as essential to second language acquisition — related

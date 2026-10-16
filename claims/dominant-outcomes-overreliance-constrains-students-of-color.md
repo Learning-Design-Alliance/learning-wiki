@@ -42,6 +42,9 @@ Theoretical argument in the brief's opening section, citing prior literature (Ar
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Research suggests that using culturally responsive and sustaining education practices in mathematics can enhance learning and academic success](crse-math-enhances-learning-and-success.md) — related
 - [Analyzing practical-measure data across student groups helps teachers tailor CRSE instruction](practical-measure-data-tailors-crse-instruction.md) — related

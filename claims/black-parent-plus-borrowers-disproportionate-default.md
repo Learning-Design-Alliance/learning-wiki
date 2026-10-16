@@ -42,6 +42,9 @@ The brief attributes this comparison to an Urban Institute report on reshaping P
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - As of May 2025, 5.3 million borrowers were in default and another 4 million were in severe delinquency — related
 - Black parent borrowers struggle more with repayment and sacrifice retirement savings more than White parent borrowers — related

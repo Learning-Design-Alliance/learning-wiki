@@ -58,6 +58,9 @@ The guide's practice recommendation asserts, without cited studies or effect siz
 
 ## Discussion
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [A 1993 case-study paper on culturally aware teachers asserts, without data of its own, that instruction incorporating students' life experiences, language and skills improves academic performance](incorporating-home-culture-improves-academic-performance.md) — the general claim this finding bears on, with the studies behind it

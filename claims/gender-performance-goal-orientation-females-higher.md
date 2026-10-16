@@ -42,6 +42,9 @@ MANOVA by gender (831 female, 578 male). Table 9 shows PGO F=5,76, p=,01, while 
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Incremental theory and performance goal orientation differ across university departments, but entity and learning goal orientation do not](department-differences-mindset-goal-orientation.md) — related
 - Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples — related

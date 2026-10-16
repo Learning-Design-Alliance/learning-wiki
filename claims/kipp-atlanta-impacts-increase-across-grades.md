@@ -42,6 +42,9 @@ School-level impact analyses across middle school grade levels; the report descr
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [KIPP Atlanta middle schools substantially improve student proficiency on Georgia statewide assessments](kipp-atlanta-middle-schools-improve-proficiency.md) — related
 - [In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial](kipp-middle-schools-positive-significant-math-reading-impacts.md) — a broader claim this one bears on

@@ -40,6 +40,9 @@ Correlational analysis (Table 3) of sex differences in mathematics and reading a
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Sex differences in mathematics and reading are strongly and inversely correlated across nations in all four PISA assessments](across-nation-inverse-correlation-math-reading-sex-differences.md) — related
 - [The mathematics sex difference favoring boys is more consistently found among higher-achieving nations, with considerable variability among lower-scoring countries](math-sex-difference-larger-in-higher-achieving-nations.md) — reports the opposite

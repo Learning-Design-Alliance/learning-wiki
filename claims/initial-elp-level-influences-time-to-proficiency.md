@@ -44,6 +44,7 @@ The executive summary describes Chapter III, where a descriptive approach and an
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - There is a conceptual disconnect between meeting the Title III English proficient standard and exiting EL status under Title I — related

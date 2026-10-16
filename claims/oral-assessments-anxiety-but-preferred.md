@@ -44,6 +44,7 @@ The review reports, citing Huxham et al. (2012), a comparison of student anxiety
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
 
 ## Related Claims
 - [No evidence found that particular student groups are disadvantaged in oral versus written assessments](no-group-disadvantage-oral-assessments.md) — related

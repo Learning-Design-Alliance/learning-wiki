@@ -42,6 +42,9 @@ Confirmatory RQ2 subgroup analyses of the MCIS RCT: students divided into four G
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Assigning schools to use RM-CC5 as their core Grade 5 mathematics curriculum for a full year did not significantly change state assessment achievement compared with business-as-usual schools](rm-cc5-core-curriculum-null-achievement-effect.md) — related
 - [Fort Worth charter school male students significantly outgrew district-school male students in reading, while female students showed no significant sector difference](fort-worth-gender-subgroups-charter-district-growth.md) — related

@@ -43,5 +43,8 @@ The review reports Blagg's comparison of the Hidden Figures Test, the Canfield L
 ## Discussion
 
 
+## Learner Variables
+- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - Self-regulated learning strategies account for up to 51% of the variance in academic performance, with metacognitive regulation strategies the strongest predictors — related

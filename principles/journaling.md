@@ -26,7 +26,7 @@ sources:
 # Journaling
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (8 for, 7 mixed, 1 against) · 22 studies (9 causal, 9 quant-synthesis, 2 theoretical, 1 review, 1 associational), `q1`–`q4` · 9 of 22 report an effect size · 9 claims rest on one study
+> **Evidence** · 16 claims (8 for, 7 mixed, 1 against) · 23 studies (9 causal, 9 quant-synthesis, 2 review, 2 theoretical, 1 associational), `q1`–`q4` · 10 of 23 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 

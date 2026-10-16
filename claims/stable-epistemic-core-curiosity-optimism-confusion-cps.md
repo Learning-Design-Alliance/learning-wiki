@@ -42,6 +42,9 @@ ONA of retrospective cued-recall affect reports from 9 groups completing a situa
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Curious, optimistic, and confused are the most frequently reported affective states, and self-caught reports are more evenly distributed than probe-caught reports](affect-frequency-distributions-reporting-methods.md) — related
 - [Faster CPS groups show stronger transitions among curiosity and optimism, while slower groups show stronger transitions among confusion, conflict, and frustration](faster-slower-groups-affective-transition-differences.md) — related

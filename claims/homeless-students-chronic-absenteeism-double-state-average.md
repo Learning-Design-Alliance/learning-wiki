@@ -42,5 +42,8 @@ Analysis of California Department of Education administrative data for 2018–19
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [AI/AN students experienced chronic absence rates among the highest of any ethnic group before and after the pandemic](aian-absence-highest-among-ethnic-groups.md) — related

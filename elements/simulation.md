@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 35 claims (24 for, 9 mixed, 2 against) · 36 studies (11 review, 9 quant-synthesis, 7 causal, 6 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 7 of 36 report an effect size · 25 claims rest on one study
+> **Evidence** · 35 claims (24 for, 9 mixed, 2 against) · 37 studies (12 review, 9 quant-synthesis, 7 causal, 6 design, 2 qualitative, 1 theoretical), `q1`–`q4` · 8 of 37 report an effect size · 25 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.

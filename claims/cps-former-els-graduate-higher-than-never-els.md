@@ -42,6 +42,9 @@ Descriptive comparison of four-year graduation rates by EL status among 2019–2
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Former English Learners graduated from CPS high school at a higher rate than never-English Learners, while active English Learners graduated at a slightly lower rate](cps-graduation-english-learner-status.md) — possibly the same claim (merge candidate)
 - [Students who began as English Learners graduated from high school at a slightly higher rate than never-classified EL students and enrolled in college at about the same rate, with more two-year enrollment](cps-english-learner-attainment-2020.md) — related

@@ -44,6 +44,7 @@ The same moderator analyses found the anxiety–achievement relationship varied 
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — predictor: learners who differ on it differ in outcomes
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [The anxiety–achievement correlation varies across types of language achievement measures](anxiety-achievement-varies-by-achievement-measure-type.md) — related

@@ -61,6 +61,9 @@ Survey analysis compared frequencies of connectivity and hardware/software probl
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [The number of challenges a student experienced was strongly associated with post-COVID course satisfaction: 81 percent satisfaction with no challenges versus 32 percent with four or more](challenge-count-associated-satisfaction.md) — related
 - Nearly half of STEM students experienced internet connectivity problems that interfered with course participation after the COVID shift to remote instruction — related

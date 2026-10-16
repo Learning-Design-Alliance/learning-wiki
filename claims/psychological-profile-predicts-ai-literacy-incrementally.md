@@ -42,6 +42,9 @@ Final step of the hierarchical regression added personal innovativeness, technol
 ## Discussion
 
 
+## Learner Variables
+- [Mindset](../learner-variables/mindset.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Prior digital competence significantly predicts AI literacy after external resources are controlled, adding 3% of variance](digital-competence-predicts-ai-literacy-incrementally.md) — related
 - [Technology anxiety's positive association with AI literacy is confined to critical evaluation and ethical competence and absent from the three performance-oriented subdimensions](anxiety-effect-localized-to-evaluative-subdimensions.md) — related

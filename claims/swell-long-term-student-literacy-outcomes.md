@@ -42,6 +42,9 @@ A long-term outcome statement in the SWELL partnership logic model, targeting st
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The SWELL logic model posits medium-term improvements in teachers' literacy instruction and ability to accommodate language learning and embed CLRI](swell-medium-term-teacher-instruction-outcomes.md) — related
 - [The SWELL logic model posits that participating teachers will increase self-efficacy in literacy instruction and in supporting English learner students](swell-teacher-self-efficacy-short-term-outcomes.md) — related

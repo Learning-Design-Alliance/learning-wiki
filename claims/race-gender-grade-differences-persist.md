@@ -42,6 +42,10 @@ Coefficients from Model 5a on the CPS grade dataset show these differences exist
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [A very demanding course schedule lowers core-course GPA by about 0.40 points relative to an undemanding one](demanding-schedule-gpa-penalty.md) — related
 - [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related

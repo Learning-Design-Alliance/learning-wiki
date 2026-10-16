@@ -46,6 +46,9 @@ Fifteen youth from marginalized groups participated in a 4-week, 8-hour after-sc
 ## Discussion
 This is a single revelatory case (q1); it demonstrates that the restorying mechanism *can* produce documented identity and narrative work in at least one participant, not that it reliably does so across a class or population. There is no comparison condition, no quantified measure, and no longitudinal follow-up on whether the reported aspirational shift persisted or translated into later computing engagement. The contrast with two peers' negative exit-ticket affect in the same workshop is suggestive but based on a small, uncontrolled sample.
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - (none yet linked)
 - [Critical speculative design pedagogy supports critical consciousness and justice-oriented sensemaking in science](critical-speculative-design-supports-critical-consciousness-in-science.md) — related

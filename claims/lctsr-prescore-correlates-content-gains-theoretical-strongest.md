@@ -42,6 +42,9 @@ Correlational analysis over two years of conceptual physics courses relating pre
 ## Discussion
 
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Preliminary explicit instruction in scientific reasoning patterns (e.g., IAT statement construction) produced much larger LCTSR gains (g = 0.68) than courses without such intervention (g = 0.11)](explicit-reasoning-instruction-preliminary-large-gains.md) — related
 - [Random measurement noise in pretest scores produces a negative contribution to the correlation between normalized gain and pretest score](measurement-noise-negative-gain-pretest-correlation.md) — related

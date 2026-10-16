@@ -42,6 +42,7 @@ Random-effects meta-analysis of 29 studies reporting executive function outcomes
 
 ## Learner Variables
 - [Attention](../learner-variables/attention.md) — outcome: instruction changes it
+- [Executive Function](../learner-variables/executive-function.md) — outcome: instruction changes it
 
 ## Related Claims
 - [CCT yields small significant gains in nonverbal memory, working memory, and visuospatial skills, but only weak evidence for verbal memory](cct-domain-gains-nonverbal-wm-visuospatial-verbal-weak.md) — related

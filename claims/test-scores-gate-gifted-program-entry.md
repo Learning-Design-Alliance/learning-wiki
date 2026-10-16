@@ -45,6 +45,9 @@ Rosser's written testimony on the Johns Hopkins Center for the Advancement of Ac
 
 The evidence is one witness's written testimony reporting invitation counts for one programme in one summer, with the witness's argument that girls' lower SAT scores kept them from qualifying for it and for programmes like the New Jersey Governor's School. It does not compare admission routes or show that a different criterion would have admitted more girls.
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Culturally and linguistically diverse students are underrepresented in gifted identification nationwide](gifted-underrepresentation-diverse-students.md) — the general claim this finding bears on, with the studies behind it

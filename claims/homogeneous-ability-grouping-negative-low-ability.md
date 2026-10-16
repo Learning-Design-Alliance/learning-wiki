@@ -42,6 +42,9 @@ Meta-analysis of studies on differentiation practices in primary education. The 
 ## Discussion
 
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Differentiation embedded in a broader program or reform has small to moderate positive effects on primary students' performance](differentiation-within-broader-program-positive-effects.md) — related
 - [The double-dose policy led schools to track algebra classes by entering math skills, making classrooms more homogeneous in ability](double-dose-induced-algebra-tracking.md) — related

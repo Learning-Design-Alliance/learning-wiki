@@ -44,6 +44,7 @@ Normative argument in the introduction: the risk is structural rather than behav
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — moderator: an instructional effect differs with it
+- [English-Learner Status](../learner-variables/english-learner-status.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 - [Indirect discrimination logic applies to facially neutral integrity rules with cohort-skewed burdens](indirect-discrimination-logic-applied-to-integrity-rules.md) — a broader claim this one bears on

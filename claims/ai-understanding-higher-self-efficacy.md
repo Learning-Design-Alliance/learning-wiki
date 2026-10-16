@@ -42,6 +42,9 @@ The paper attributes to Bećirović et al. the finding that students with better
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Students with the best self-taught understanding of how language models work used AI tools most deliberately and achieved the highest assignment scores](self-taught-model-understanding-highest-scores.md) — related

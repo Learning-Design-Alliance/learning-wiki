@@ -55,6 +55,9 @@ Multilevel meta-analysis of 223 studies published 1992–2018, modeling 747 corr
 
 **Open questions.** Effect sizes vary widely across age groups and task types; whether anxiety specifically harms arithmetic retrieval, procedural execution, or novel problem-solving to different degrees remains contested. The field also lacks strong causal identification for the working-memory account in classroom settings, where most evidence is correlational.
 
+## Learner Variables
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation](test-anxiety-negative-exam-performance.md) — the general claim this finding bears on, with the studies behind it

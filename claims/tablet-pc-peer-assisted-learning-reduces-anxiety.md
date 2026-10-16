@@ -61,6 +61,9 @@ The review reports Chen's (2013) examination of Tablet PC use for informal Engli
 ## Discussion
 
 
+## Learner Variables
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
+
 ## Related Claims
 - Independent work on personal mobile devices mobilized attention, improved perception, and turned students into initiative actors and controllers of their own learning — related
 - [Microblogging and mobile blogging promote target-language interaction, cultural understanding, and a sense of community among language learners](microblogging-promotes-interaction-community-language-learners.md) — related

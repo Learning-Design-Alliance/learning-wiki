@@ -42,6 +42,9 @@ The report's North Carolina case study summary states that research found NC Pre
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Convergence is attributed to nonattenders making greater gains in kindergarten than pre-K graduates](nonattenders-greater-kindergarten-gains-drive-convergence.md) — related
 - [Dual language participants grew faster than nonparticipants in math during each school year in grades 2 to 5 but lost more learning during subsequent summers](dual-language-math-faster-school-year-growth-greater-summer-loss.md) — related

@@ -42,6 +42,9 @@ Table 1 of the brief, based on 2020/21 and 2021/22 district-provided screening d
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Kindergarten students showed the largest BOY-to-EOY decline in significant risk identification, dropping 21 percentage points](kindergarten-largest-risk-decline.md) — related
 - [Most students at risk at BOY remain at risk later, but students who meet benchmark by midyear tend to stay on track](midyear-ontrack-students-stay-ontrack.md) — related

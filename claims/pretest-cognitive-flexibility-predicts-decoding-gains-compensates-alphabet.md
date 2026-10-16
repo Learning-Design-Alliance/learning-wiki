@@ -61,6 +61,9 @@ The models included treatment-by-covariate and covariate interactions; the artic
 ## Discussion
 
 
+## Learner Variables
+- [Executive Function](../learner-variables/executive-function.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Pretest, attendance, and EB status showed distinct covariate effects on specific literacy outcomes](covariate-effects-pretest-attendance-eb-gains.md) — related
 - [Embedded cognitive flexibility practice showed no overall advantage over phonics alone on growth in decoding, encoding, or cognitive flexibility](embedded-cognitive-flexibility-no-overall-advantage-winter-kindergarten.md) — related

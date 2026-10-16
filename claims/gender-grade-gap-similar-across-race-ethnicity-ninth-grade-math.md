@@ -42,6 +42,10 @@ Observational analysis of CPS administrative records for 29,229 first-time ninth
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Gender differences in points earned remained statistically significant when comparing students in the same courses with the same weightings](gender-gap-persists-controlling-course-enrollment.md) — related
 - [Prior achievement, attendance, and suspensions do not explain the gender difference in ninth-grade math grades](prior-achievement-attendance-suspensions-do-not-explain-gender-grade-gap.md) — related

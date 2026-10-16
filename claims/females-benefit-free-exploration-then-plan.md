@@ -63,6 +63,9 @@ Descriptive result from Table 1 (female formatted-to-unformatted group: posttest
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [No significant gender difference in word-problem performance on either formatted or unformatted test forms](no-gender-difference-either-test-form.md) — related
 - [Repeated measures ANOVA shows significant time-of-testing effect and significant time-by-group interaction on word-problem scores](time-by-group-interaction-problem-solving-plan.md) — related

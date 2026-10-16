@@ -42,6 +42,9 @@ Figure 2 disaggregates MAP Growth percentile rank changes from 2019 to 2022 by r
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Black, AIAN, and Latinx students made 55-68% of typical math gains and 73-86% of typical reading gains during the pandemic, while Asian American students made 88-100%](bipoc-fraction-of-typical-gains-pandemic.md) — related
 - [American Indian and Alaska Native, Black, and Latinx students and students in high-poverty schools were disproportionately impacted by pandemic-era achievement declines, particularly in elementary grades](covid-2020-21-disproportionate-impacts-racialized-high-poverty.md) — related

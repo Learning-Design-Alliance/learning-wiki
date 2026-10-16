@@ -48,6 +48,9 @@ Six K-12 teachers (art, science, computing/math) and two engineers spent a 5-day
 ## Discussion
 This is a small, purposively-sampled design-based research study (6 core teachers) at one workshop, not a generalizable or controlled comparison; the finding that all teachers raised cross-disciplinary criteria is a within-group pattern, not evidence about how common this is across other teacher populations or workshop designs. The "critical surrender" pattern that the authors treat as evidence of the deepest (transdisciplinary) integration is illustrated through a small number of detailed discourse examples rather than a separately quantified count across all groups. Institutional constraints (standards coverage, a school's Problem-Based-Learning framework) are documented as real barriers that prevented full transdisciplinary implementation for at least two of the six teachers, showing this pattern's success is contingent on institutional support, not guaranteed by the workshop design alone.
 
+## Learner Variables
+- [Epistemic Beliefs](../learner-variables/epistemic-beliefs.md) — outcome: instruction changes it
+
 ## Related Claims
 - (none yet linked)
 - [Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams](epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams.md) — related

@@ -42,6 +42,9 @@ Within the difference-in-differences-in-differences analysis of the large urban 
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Effects of summer credit recovery on 4- and 5-year graduation rates for newcomer ELs were imprecisely estimated](credit-recovery-graduation-effects-imprecise.md) — related
 - [The program's impact was estimated with a difference-in-differences-in-differences approach on student-level data from a large urban California district](ddd-design-credit-recovery-newcomer-els.md) — related

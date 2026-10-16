@@ -44,6 +44,7 @@ Five-point Likert perception ratings after each lesson in the crossover RCT (Fig
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Students learn more with a research-based AI tutor than with in-class active learning on identical content (post-test scores)](ai-tutor-beats-active-learning-post-test.md) — related

@@ -42,6 +42,9 @@ State-by-state analysis (Appendix B, Table B1) of 2017-18 CRDC data sorting each
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Florida shows more equitable advanced course offerings between high- and low-poverty schools, attributed by others to statewide opportunity efforts begun in the early 2000s](florida-equitable-advanced-course-offerings.md) — related
 - [U.S. high schools with high enrollments of students from low-income families are less likely to offer advanced mathematics courses than low-poverty schools](high-poverty-schools-offer-fewer-advanced-math-courses.md) — related

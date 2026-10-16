@@ -45,6 +45,7 @@ Correlation analysis at T3 in the quasi-experiment (Table 6); "intrinsic motivat
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — predictor: learners who differ on it differ in outcomes
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [AI-assisted pair programming significantly increased undergraduate intrinsic motivation compared to individual programming, with outcomes comparable to human–human pair programming](ai-assisted-pair-programming-increases-intrinsic-motivation.md) — related

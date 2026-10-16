@@ -178,6 +178,7 @@ Responding directly to Cameron and Pierce's (1994) conclusion that the undermini
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
 
 ## Related Claims
 

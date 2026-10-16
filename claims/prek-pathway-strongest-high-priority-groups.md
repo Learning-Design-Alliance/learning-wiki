@@ -42,6 +42,9 @@ The key-findings section states the pre-k-to-second-grade pathway "proved especi
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Chicago pre-k policy changes expanding full-day pre-k access were related to more favorable second-grade math test scores and academic grades for most student groups](chicago-prek-policy-favorable-second-grade-math.md) — related
 - [Full-day pre-k enrollment grew substantially after the policy changes, tripling for Black, lowest-income, and mostly-Black-neighborhood students](full-day-enrollment-tripled-high-priority-groups.md) — related

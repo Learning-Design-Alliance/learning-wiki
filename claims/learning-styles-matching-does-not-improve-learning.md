@@ -120,6 +120,9 @@ The review attributes this to Stahl (1999), a reading researcher, and notes Will
 
 **Open questions.** Some researchers argue that *preferences* are real and measurable even if matching them does not aid learning; whether preference data could serve motivational or metacognitive purposes remains underexplored. The core claim here — that matching yields no learning benefit — is not in dispute in the experimental literature.
 
+## Learner Variables
+- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Coherence principle: irrelevant material hurts learning.](coherence-principle-irrelevant-material-hurts-learning.md) — like styles matching, adding material to suit perceived preferences can degrade learning

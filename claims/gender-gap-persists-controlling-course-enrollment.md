@@ -42,6 +42,9 @@ Regression models with a male indicator controlling for algebra/geometry and hon
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Higher weights on assessments shrank, but did not eliminate, the gender difference in final grades, because young women were more often in classes weighting assessments heavily](assessment-weights-shrank-gender-grade-gap.md) — related
 - [Students earned higher average grades in CS courses than in core courses, with few failing CS](cs-grades-higher-than-core.md) — related

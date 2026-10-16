@@ -41,6 +41,9 @@ The chapter reports a self-report survey by Agarwal et al. (2014) of 1408 middle
 
 ## Discussion
 
+## Learner Variables
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Learners underuse effective learning strategies such as spacing and retrieval practice](learners-underuse-effective-learning-strategies.md) — the general claim this finding bears on, with the studies behind it

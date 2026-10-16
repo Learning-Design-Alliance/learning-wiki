@@ -42,6 +42,9 @@ The article reviews prior task-repetition research (Bygate 2001; Ahmadian and Ta
 ## Discussion
 
 
+## Learner Variables
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Lynch and Maclean's carousel task showed immediate repetition benefits in pronunciation, vocabulary and grammar](carousel-task-immediate-repetition-benefits.md) — a narrower finding that bears on this claim
 - [Speaking practice opportunities and teacher support reduced classroom anxiety and increased self-efficacy for one learner](speaking-practice-reduced-flca-increased-self-efficacy.md) — related

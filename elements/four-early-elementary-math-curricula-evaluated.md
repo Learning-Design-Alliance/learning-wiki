@@ -22,7 +22,7 @@ sources:
 # Four early elementary math curricula evaluated: Investigations, Math Expressions, Saxon Math, and Scott Foresman-Addison Wesley Mathematics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (6 for) · 5 studies (4 causal, 1 qualitative), `q2`–`q3` · 0 of 5 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (8 for) · 5 studies (4 causal, 1 qualitative), `q2`–`q3` · 0 of 5 report an effect size · 8 claims rest on one study
 
 ## Description
 The Evaluation of Mathematics Curricula project (time frame 2005-2013) examined four early elementary math programs. As the page lists them: "(1) Investigations in Number, Data, and Space (Investigations), (2) Math Expressions, (3) Saxon Math (Saxon), and (4) Scott Foresman-Addison Wesley Mathematics (SFAW)." These four curricula are the treatments compared in the study's achievement findings for first and second graders.

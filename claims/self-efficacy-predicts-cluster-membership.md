@@ -44,6 +44,7 @@ Binary logistic regression on the survey of 236 participants with GSE score pred
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Computing students show high objective cybersecurity knowledge, with over 75% answering five or more of seven Pew questions correctly](computing-students-high-objective-cybersecurity-knowledge.md) — related

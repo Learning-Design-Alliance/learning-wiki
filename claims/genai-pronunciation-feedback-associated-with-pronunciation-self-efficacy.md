@@ -40,6 +40,9 @@ Path analysis within the study's covariance-based SEM of 1,701 Chinese universit
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [English pronunciation self-efficacy partially mediates the association between GenAI-based pronunciation feedback perceptions and willingness to communicate, with the indirect effect accounting for 69.9% of the total effect](epse-partially-mediate-genai-feedback-wtc.md) — related
 - [GenAI feedback perceptions, pronunciation self-efficacy, and WTC are all positively intercorrelated, and learners report positive feedback perceptions and moderate self-efficacy and WTC](genai-epse-wtc-positive-correlations-descriptives.md) — a broader claim this one bears on

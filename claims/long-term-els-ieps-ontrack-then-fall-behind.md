@@ -61,6 +61,9 @@ Six-year graduation analysis found 77% of this group graduated, similar to other
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Former English Learners had higher Freshman OnTrack and graduation rates than the district average in Chicago Public Schools](former-els-outperform-district-average-high-school.md) — related
 - [Long-term English Learners without IEPs had the lowest Freshman OnTrack rate and substantially lower graduation rates than district average](long-term-els-no-iep-lowest-ontrack-graduation.md) — related

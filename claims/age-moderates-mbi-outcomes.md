@@ -63,6 +63,8 @@ Meta-regression within the 17 active-control RCTs. The review reports that "age 
 
 ## Learner Variables
 - [Attention](../learner-variables/attention.md) — moderator: an instructional effect differs with it
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+- [Executive Function](../learner-variables/executive-function.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Across all RCTs, mindfulness-based interventions significantly improve mindfulness, executive functioning, attention, depression, anxiety/stress and negative behaviours in youth, with small effect sizes](mbis-small-positive-effects-all-rcts-youth.md) — related

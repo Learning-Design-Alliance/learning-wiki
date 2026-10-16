@@ -42,6 +42,9 @@ Preliminary disaggregated course outcome data from Spring 2021 (all n=196; Latin
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [School climate improved in predominantly Black schools but declined in predominantly Latino and racially diverse schools as suspension use for severe infractions fell](cps-suspension-reduction-school-climate.md) — related
 - [Data dives with disaggregated course success data surfaced equity gaps previously invisible to faculty](disaggregated-data-dives-surface-equity-gaps.md) — a broader claim this one bears on

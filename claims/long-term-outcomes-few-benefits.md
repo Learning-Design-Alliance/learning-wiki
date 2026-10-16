@@ -61,6 +61,9 @@ Longer-term outcomes from the same enrollment-effect models: the article reports
 ## Discussion
 
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Taking Algebra I instead of remedial math raised Algebra credit attainment but increased failure rates and lowered math grades, with no test-score benefit](algebra-enrollment-raises-credit-and-failure.md) — related
 - [Universal college-prep coursework did not prepare more students for college: upper-level math credits and four-year college entrance showed no overall gains](college-prep-all-no-college-gains.md) — related

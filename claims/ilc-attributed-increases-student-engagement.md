@@ -42,6 +42,9 @@ Cross-case findings from interviews and classroom observations at four sites. Du
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Teachers commonly attribute increased student engagement to ILC-influenced instruction](ilc-attributed-student-engagement-gains.md) — possibly the same claim (merge candidate)
 - [Large majorities of ILC workshop participants report their ILC experiences influenced curriculum, instruction, assessment, engagement, and learning to a great extent](ilc-participants-report-practice-influence.md) — related

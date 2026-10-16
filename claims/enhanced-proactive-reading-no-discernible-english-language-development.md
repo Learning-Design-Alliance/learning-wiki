@@ -62,6 +62,7 @@ Domain-level WWC calculations for English language development across both studi
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [English-Learner Status](../learner-variables/english-learner-status.md) — outcome: instruction changes it
 
 ## Related Claims
 - [In the Vaughn, Cirino, et al. (2006) trial, no reading measure reached statistical significance, but five of seven effect sizes were substantively important](enhanced-proactive-reading-cirino-substantively-important-nonsignificant.md) — related

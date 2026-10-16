@@ -42,6 +42,9 @@ The WWC review of the quasi-experimental study reports no statistically signific
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — outcome: instruction changes it
+
 ## Related Claims
 - [A larger percentage of BCIRC students met the bilingual education exit criterion in language (39% versus 21%), not statistically significant](bcirc-higher-language-exit-criterion-rate-not-significant.md) — related
 - [BCIRC has potentially positive effects on reading achievement for Spanish-speaking English language learners (effect size 0.61, not statistically significant after clustering correction)](bcirc-potentially-positive-reading-achievement.md) — related

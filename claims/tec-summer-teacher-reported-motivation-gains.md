@@ -45,6 +45,7 @@ Teacher exit survey and interview data from the 16 participating teachers; the r
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Teachers rated Session 1 DVD episodes and Prankster Planet as the most appealing TEC elements and worksheets as least appealing](tec-element-appeal-rankings.md) — related

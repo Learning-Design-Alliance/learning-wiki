@@ -42,6 +42,9 @@ Two virtual listening sessions in winter 2023-24 convened by the CDE for county,
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — outcome: instruction changes it
+
 ## Related Claims
 - [As of 2023-24, California was the only state using four criteria for exiting EL classification](california-only-state-four-exit-criteria.md) — related
 - [Many English-only students would fail locally determined cutoff scores often applied to English Learner students under California's Criterion 4 basic-skills requirement](criterion4-barrier-reclassification.md) — possibly the same claim (merge candidate)

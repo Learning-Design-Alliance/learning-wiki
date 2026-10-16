@@ -42,6 +42,9 @@ Review synthesis in Chapter 2 of psychological evidence on mindsets. The review 
 ## Discussion
 
 
+## Learner Variables
+- [Mindset](../learner-variables/mindset.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Academic behaviors have the most immediate effect on course grades; directly targeting grit is not an evidenced lever](academic-behaviors-most-immediate-effect-grades.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related

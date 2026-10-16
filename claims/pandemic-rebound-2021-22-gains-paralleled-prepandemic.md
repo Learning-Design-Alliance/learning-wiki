@@ -42,6 +42,9 @@ Large-scale observational analysis of MAP Growth assessment data from 8.3 millio
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math](fall-2021-achievement-lagged-pre-pandemic-norms-especially-math.md) — related
 - [First graders in 2021–22 grew less in math and reading than a typical prepandemic year, by 6–7%](first-graders-2021-22-growth-below-typical-year.md) — related

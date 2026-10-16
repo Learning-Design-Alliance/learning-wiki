@@ -47,6 +47,9 @@ Only 6 of the 242 studies examined high-ability students and 13 low-ability stud
 
 This rests on 19 studies and is consistent with expertise-reversal accounts, where support that helps novices is redundant or harmful for more knowledgeable learners. It is a reason to adapt technique prompts to prior knowledge rather than a verdict on any one technique.
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest](ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) — related

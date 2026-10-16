@@ -44,6 +44,7 @@ The sample was divided into four categories by EF and TOM pass/fail (Table 3 mea
 
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — predictor: learners who differ on it differ in outcomes
+- [Executive Function](../learner-variables/executive-function.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Executive function performance significantly predicts semantic fluency in preschool children](ef-significant-effect-semantic-fluency-preschool.md) — related

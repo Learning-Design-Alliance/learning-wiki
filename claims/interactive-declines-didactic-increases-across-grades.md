@@ -42,6 +42,9 @@ Survey-based analysis of instructional approach frequency by classroom grade lev
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Didactic instruction is negatively associated with one-year achievement gains in reading and mathematics](didactic-instruction-negative-achievement-gains.md) — related
 - [Interactive instruction is more common in classrooms with higher prior achievement; didactic and review are more common in lower-achieving classrooms](instruction-varies-by-class-achievement-composition.md) — related

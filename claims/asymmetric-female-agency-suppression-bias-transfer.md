@@ -61,6 +61,9 @@ Simple-effects analysis within the 123-participant experiment. Female agency was
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Students assisted by a gender-biased LLM produce career-plan essays with a significantly larger male-female agentic gap than students in neutral-LLM and no-AI control conditions](biased-llm-assistance-increases-agentic-gap-student-essays.md) — related
 - [A gender-biased system prompt induces large gender-differentiated language in LLM-generated career essays, while a neutral prompt does not](biased-prompt-induces-gender-differentiated-llm-essays.md) — related

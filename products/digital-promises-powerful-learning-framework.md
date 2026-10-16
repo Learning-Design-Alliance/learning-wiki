@@ -22,7 +22,7 @@ sources:
 # Digital Promise's Powerful Learning framework
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 theoretical), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (3 theoretical), `q1` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 A framework developed by Digital Promise that describes powerful teaching and learning through agency, purpose, curiosity, and connection.

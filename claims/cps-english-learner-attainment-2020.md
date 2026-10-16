@@ -61,6 +61,9 @@ Descriptive comparison of immediate college enrollment by EL status for spring 2
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - Students who began as English Learners graduated from CPS high school at a slightly higher rate (83.1%) than students never classified as English Learners (81.2%) — possibly the same claim (merge candidate)
 - [Students who began as ELs and demonstrated proficiency by eighth grade had academic outcomes similar to or higher than students never classified as ELs](proficient-by-eighth-grade-els-strong-outcomes.md) — related

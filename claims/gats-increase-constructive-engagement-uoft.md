@@ -42,6 +42,7 @@ Post-survey analysis at UofT (N=398) using CAP engagement instruments and MSLQ e
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Engagement profiles significantly moderated GATs' immediate performance effects: low- and high-engagement profiles benefited while the mid-engagement profile showed a small decrement](engagement-profiles-moderate-gat-effects.md) — related

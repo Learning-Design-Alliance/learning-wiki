@@ -41,6 +41,9 @@ In the randomized controlled trial of 20 Hawaii schools, grade 5 boys in Positiv
 
 ## Discussion
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Positive Action has positive effects on elementary school students' behavior, with a WWC domain average effect size of 0.51 and an improvement index of +19 percentile points](positive-action-positive-effects-behavior.md) — the general claim this finding bears on, with the studies behind it

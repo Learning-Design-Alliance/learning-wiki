@@ -45,6 +45,7 @@ Post-semester interviews conducted by a co-author with no course association; in
 
 ## Learner Variables
 - [Domain Context](../learner-variables/domain-context.md) — outcome: instruction changes it
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
 
 ## Related Claims
 

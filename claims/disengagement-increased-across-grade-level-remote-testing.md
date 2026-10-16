@@ -42,6 +42,9 @@ The study compared disengagement of students remotely administered an adaptive i
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [American Indian/Alaska Native students showed higher disengagement under remote testing than in-school testing](american-indian-alaska-native-higher-disengagement-remote.md) — related
 - [The grade-level disengagement pattern was not meaningfully different between remote and in-school testing](disengagement-pattern-similar-remote-versus-in-school.md) — related

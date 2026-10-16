@@ -42,6 +42,9 @@ Three-time-point CLMM on the Repeated Reasoning dataset with polynomial contrast
 ## Discussion
 
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Ability to Reason (SMP 2) benchmark levels improved linearly across all three time points (d ≈ 0.78) with no significant quadratic trend](mindsets-smp2-linear-trend.md) — related
 - [Students showed a large, statistically significant pre-to-post improvement in ability to reason (SMP 2) in the Mindsets program (d ≈ 1.20)](mindsets-smp2-pre-post-improvement.md) — related

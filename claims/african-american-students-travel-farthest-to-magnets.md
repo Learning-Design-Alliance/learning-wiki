@@ -42,6 +42,9 @@ Analysis of CPS student record files, fall semester 1999 (Figure 15), computing 
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [African-American and Asian students are more likely than Latino and white students to live within multiple magnet neighborhood zones](multiple-magnet-zone-access-varies-by-ethnicity.md) — related
 - [Magnet elementary schools enroll larger percentages of white and Asian students and smaller percentages of Latino and African-American students than non-magnet schools](magnet-elementary-composition-differs-from-cps.md) — related

@@ -43,6 +43,9 @@ The study compared rates of rapid guessing, a behavioral proxy for test effort, 
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Differential student test effort may bias achievement gap estimates](differential-test-effort-may-bias-gap-estimates.md) — a broader claim this one bears on
 - [Disengaged test-taking rates varied greatly by subgroup, grade, and term in this sample](disengagement-rates-vary-subgroup-grade-term.md) — related

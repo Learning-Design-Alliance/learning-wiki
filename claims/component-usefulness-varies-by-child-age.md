@@ -42,6 +42,9 @@ Station study (38 families). The report states "The usefulness of the different 
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Families showed widespread variability in which Ocean Guide and Activities components they found most helpful, often citing child age and interest](splash-bubbles-app-section-variability-by-child-age-interest.md) — a broader claim this one bears on
 - [Families used multiple sections of the Splash and Bubbles for Parents app, with Dive In the most used and Let's Talk About It conversation starters rated most helpful within it](splash-bubbles-app-section-use-dive-in-conversation-starters.md) — related

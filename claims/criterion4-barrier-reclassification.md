@@ -42,6 +42,9 @@ The brief reports research indicating that "many English-only students would fai
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Educators in 2023-24 listening sessions repeatedly identified Criterion 4 as a barrier to reclassification that many English-only students could not meet](field-perceptions-criterion4-barrier.md) — possibly the same claim (merge candidate)
 - [Removing Criterion 4 would likely increase reclassification rates for ready students, particularly those with disabilities or from lower socioeconomic backgrounds, without harming academic performance](removing-criterion4-increases-reclassification.md) — related

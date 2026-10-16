@@ -44,6 +44,7 @@ Subgroup analysis of the randomized controlled trial (Appendix A4): low-ability 
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — moderator: an instructional effect differs with it
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 - [The evidence base for Fluency Formula™ consists of a single small randomized controlled trial, with no studies addressing alphabetics or general reading achievement](fluency-formula-evidence-base-single-small-rct.md) — a broader claim this one bears on

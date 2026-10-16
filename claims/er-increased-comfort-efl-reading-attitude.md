@@ -60,6 +60,9 @@ Table 1 reports Comfort mean scores rising from 2.25 (SD 0.63) at pretest to 2.6
 ## Discussion
 
 
+## Learner Variables
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Extensive reading reduced Japanese EFL learners' anxiety about foreign-language reading (r = .34)](er-reduced-anxiety-efl-reading-attitude.md) — related
 - [Extensive reading increased the Intellectual Value Japanese EFL learners attached to foreign-language reading (r = .26)](er-increased-intellectual-value-reading-attitude.md) — related

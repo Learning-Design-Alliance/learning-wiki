@@ -44,6 +44,7 @@ The two-way ANOVA's interaction term (EF * TOM, df=1) printed in Table 2 shows F
 
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — moderator: an instructional effect differs with it
+- [Executive Function](../learner-variables/executive-function.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Executive function performance significantly predicts semantic fluency in preschool children](ef-significant-effect-semantic-fluency-preschool.md) — related

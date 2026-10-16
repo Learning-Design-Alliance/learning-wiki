@@ -61,6 +61,9 @@ Subgroup comparison of female students in Fort Worth charter versus other distri
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Fort Worth charter school students outgrew Fort Worth district school students in reading by a significant 38 days, with a non-significant 26-day math advantage](fort-worth-charter-beats-district-reading-growth.md) — a broader claim this one bears on
 - [Fort Worth CMO-affiliated charter schools significantly outperformed independent charter schools in reading growth, while independent charters lagged the state](fort-worth-cmo-outperforms-independent-charters.md) — related

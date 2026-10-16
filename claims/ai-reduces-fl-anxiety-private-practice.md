@@ -57,6 +57,9 @@ Thematic synthesis codes 31 studies to self-efficacy and self-confidence enhance
 ## Discussion
 
 
+## Learner Variables
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [AI-powered corrective feedback and repeated practice enhance oral language skills (Communicative Capacity Pathway)](ai-improves-speaking-proficiency-feedback-practice.md) — related
 - [Speaking practice opportunities and teacher support reduced classroom anxiety and increased self-efficacy for one learner](speaking-practice-reduced-flca-increased-self-efficacy.md) — related

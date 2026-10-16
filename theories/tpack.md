@@ -18,7 +18,7 @@ sources:
 # TPACK (Technological Pedagogical Content Knowledge)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 22 claims (11 for, 11 mixed) · 12 studies (5 associational, 3 theoretical, 2 design, 1 causal, 1 review), `q1`–`q2` · 4 of 12 report an effect size · 22 claims rest on one study
+> **Evidence** · 24 claims (12 for, 12 mixed) · 13 studies (5 associational, 3 theoretical, 2 design, 1 causal, 1 review, 1 qualitative), `q1`–`q2` · 4 of 13 report an effect size · 24 claims rest on one study
 
 ## Description
 TPACK (Koehler & Mishra, 2009) extends Shulman's concept of Pedagogical Content Knowledge (PCK) — the specialized knowledge of how to teach a particular subject — by adding technology as a third interacting knowledge domain. Teaching with technology is treated as an ill-structured problem: there is no single best way to integrate a given technology into a curriculum, because content, pedagogy, and technology constrain and reshape one another differently in every classroom context.

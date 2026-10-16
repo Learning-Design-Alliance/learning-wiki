@@ -80,6 +80,9 @@ The article's summary of Ispa-Landa's (2013) findings: "Boys are classified as i
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [In the analyzed school setting, black girls experience testimonial injustice as direct discrimination and hermeneutical injustice as indirect, structural discrimination that personal effort cannot erode](black-girls-face-testimonial-and-structural-hermeneutical-injustice-in-school.md) — a broader claim this one bears on
 - [Cultural processes and forms of epistemic injustice should be taken into account in understanding how inequalities in education are produced and maintained](cultural-processes-and-epistemic-injustice-explain-educational-inequality.md) — a broader claim this one bears on

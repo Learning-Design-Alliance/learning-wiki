@@ -61,6 +61,9 @@ Main-effect t-tests of gender on pretest and posttest scores; both non-significa
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Fourth-graders perform substantially better on computation tests than on word problems using the same numbers](computation-outperforms-word-problems-same-numbers.md) — related
 - [In one word-problem study, females gained significantly when the formatted procedural plan came after an unformatted test, and scored lower when the formatted test came first](females-benefit-free-exploration-then-plan.md) — related

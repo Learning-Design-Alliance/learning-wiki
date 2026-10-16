@@ -61,6 +61,9 @@ The review reports Bulley et al. (2020), a short-term retrospective memory task 
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Older adults show reduced reminder bias relative to objective need despite setting more reminders](ageing-reminder-bias-reduced.md) — related
 - [Review reports a developmental shift in cognitive offloading: children under-use external aids while adolescents over-rely on them](developmental-shift-cognitive-offloading.md) — related

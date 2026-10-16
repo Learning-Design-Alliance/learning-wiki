@@ -80,6 +80,9 @@ Hillsborough RCT (Weiss et al., 2010; 1,071 students). The report states this "d
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Linked learning communities produced no statistically significant or substantively important effects on academic achievement](linked-learning-communities-academic-achievement-no-effect.md) — related
 - [Linked learning communities produced no statistically significant or substantively important effect on degree attainment](linked-learning-communities-degree-attainment-no-effect.md) — related

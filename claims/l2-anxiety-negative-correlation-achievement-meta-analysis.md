@@ -44,6 +44,7 @@ Meta-analysis of 97 reports contributing 105 independent samples (N = 19,933) fr
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — predictor: learners who differ on it differ in outcomes
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [The anxiety–achievement correlation varies across educational levels, target languages, and anxiety types](anxiety-achievement-moderators-levels-languages-anxiety-types.md) — related

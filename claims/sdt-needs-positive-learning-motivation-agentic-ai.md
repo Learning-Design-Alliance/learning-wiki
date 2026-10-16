@@ -44,6 +44,7 @@ Cross-sectional perception-based survey of 398 business-school students in India
 
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — predictor: learners who differ on it differ in outcomes
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Learner engagement is positively associated with perceived learner performance in agentic AI-supported online learning](engagement-positive-perceived-performance-agentic-ai.md) — related

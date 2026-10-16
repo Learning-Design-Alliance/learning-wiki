@@ -12,7 +12,7 @@ generated:
 # Developmental Research Designs — Cross-Sectional, Longitudinal, and Sequential
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (1 for, 4 mixed) · 5 studies (5 associational), `q1`–`q2` · 0 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (1 for, 3 mixed) · 4 studies (4 associational), `q1`–`q2` · 0 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 Research design is the strategy or blueprint for deciding how to collect and analyze information, distinct from the specific methods used to gather it; when the goal is examining change over time, three designs are available, each with a different cost and a different vulnerability.

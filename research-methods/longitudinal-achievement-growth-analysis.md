@@ -33,7 +33,7 @@ sources:
 # Longitudinal achievement growth analysis
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 23 claims (20 for, 3 mixed) · 11 studies (10 associational, 1 theoretical), `q1`–`q2` · 0 of 11 report an effect size · 23 claims rest on one study
+> **Evidence** · 21 claims (18 for, 3 mixed) · 10 studies (9 associational, 1 theoretical), `q1`–`q2` · 0 of 10 report an effect size · 21 claims rest on one study
 
 ## Description
 This principle holds that educators and researchers should use longitudinal data analysis to track how academic achievement for DHH students progresses over time. The article argues that "Longitudinal data analysis is critical to understanding how academic achievement for DHH students progresses over time and where they may need additional support on their academic journey to achieve at the level of their hearing peers." It grounds support decisions in multi-year growth evidence rather than single snapshots.

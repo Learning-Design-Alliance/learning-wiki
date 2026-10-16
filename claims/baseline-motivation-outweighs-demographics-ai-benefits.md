@@ -61,6 +61,9 @@ Discussion of the SEM: "The only significant evidence of demographic influence i
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Engineering students perceive AI chatbot benefits as strongest for relief from competence frustration, moderate for autonomy, and weakest for relatedness](ai-chatbot-need-specific-benefits-engineering-students.md) — related
 - [Higher baseline autonomy and higher baseline competence frustration predict greater perceived relief from competence frustration after AI chatbot use, while higher baseline personal agency predicts less](baseline-needs-predict-competence-relief-ai.md) — a broader claim this one bears on

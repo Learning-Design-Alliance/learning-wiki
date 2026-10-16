@@ -80,6 +80,9 @@ Girls' section of Table 2, fifth-year row, printed verbatim: "Fifth Year 1997–
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - Among Barton's class of 1993, more girls than boys graduated within five years (25 of 46 versus 19 of 35) — related
 - Of Kenwood's class of 1997 (429 entering ninth graders in 1993), 269 graduated within five years while 77 dropped out and 73 left CPS — related

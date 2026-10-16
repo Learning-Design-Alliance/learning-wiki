@@ -61,6 +61,9 @@ Comparison of competency and efficacy self-reports across schools grouped by 198
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Teachers reported feeling more familiar with and more prepared to teach the CCSS in 2016 than in 2015, with elementary and ELA-group teachers higher than high school and math-group teachers](ccss-preparedness-increased-2016.md) — related
 - [Most teachers and administrators report that the REACH observation process supports teacher professional growth and improved instructional conversations](reach-observation-process-supports-growth.md) — related

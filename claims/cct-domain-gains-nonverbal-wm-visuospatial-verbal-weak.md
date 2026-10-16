@@ -42,6 +42,7 @@ Domain-specific meta-analyses: nonverbal memory g = 0.24 (13 studies), WM g = 0.
 
 ## Learner Variables
 - [Working Memory](../learner-variables/working-memory.md) — outcome: instruction changes it
+- [Executive Function](../learner-variables/executive-function.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Computerized cognitive training produces a small but statistically significant improvement in cognitive performance in healthy older adults](cct-small-significant-overall-effect-healthy-older-adults.md) — a broader claim this one bears on

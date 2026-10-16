@@ -43,6 +43,7 @@ Univariate ANCOVA follow-up to the MANCOVA on post math class interest; the arti
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
 
 ## Related Claims
 

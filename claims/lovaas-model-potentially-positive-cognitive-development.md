@@ -42,6 +42,9 @@ WWC review of the Smith et al. (2000) randomized controlled trial with severe at
 ## Discussion
 
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The Lovaas Model has no discernible effects on communication/language competencies for children with disabilities](lovaas-model-no-discernible-communication-effects.md) — related
 - [The Lovaas Model has no discernible effects on functional abilities for children with disabilities](lovaas-model-no-discernible-functional-abilities-effects.md) — related

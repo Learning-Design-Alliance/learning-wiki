@@ -80,6 +80,9 @@ Self-efficacy is learnable: it is not fixed ability. The four sources Bandura id
 
 The key constraint is specificity: telling learners they are "smart" or "good at learning" does not reliably build task-level efficacy and can backfire by creating fragility when difficulty arises (see Dweck's work on fixed vs. growth mindsets, which partially overlaps with this literature). Efficacy-building feedback must be tied to specific, recent performance on specific tasks.
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — SDT's competence need is closely related: autonomy works motivationally when learners believe they can succeed
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — expectancy-value theory explicitly pairs self-efficacy (expectancy component) with task value; both are needed to predict effort investment

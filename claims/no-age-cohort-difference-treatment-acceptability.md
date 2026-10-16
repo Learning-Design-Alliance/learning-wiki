@@ -43,6 +43,9 @@ The same mixed factorial ANOVA tested age cohort as the between-subjects factor.
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Behavioral Relaxation Training is rated more acceptable than medication for GAD comorbid with Parkinson's disease by both younger and older adults](brt-more-acceptable-than-medication-gad-pd.md) — related

@@ -42,6 +42,9 @@ A study of publicly funded preschool programs reviewed by the report found that 
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [ECE programs are on average more racially segregated than elementary and high schools](ece-more-segregated-than-k12.md) — related
 - [Always on-track and always off-track students attend schools with systematically different demographic compositions](trajectory-groups-differ-school-demographics.md) — related

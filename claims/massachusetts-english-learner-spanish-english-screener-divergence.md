@@ -42,6 +42,9 @@ Analysis of English learners taking Star screening assessments in both English a
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [English-only screening is the norm for English learners in Massachusetts: 90 percent were assessed only in English across all three screening periods in 2023/24](english-only-screening-norm-massachusetts-els.md) — related
 - [Early screening benchmark status predicts later performance: most beginning-of-year at-risk students stay at risk, and meeting benchmarks by end of grade 1 is associated with much higher grade 3 MCAS odds](massachusetts-early-benchmark-status-predicts-later-mcas.md) — a broader claim this one bears on

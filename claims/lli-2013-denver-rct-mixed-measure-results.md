@@ -44,6 +44,9 @@ Randomized controlled trial of LLI in 13 urban elementary and K–8 schools in D
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [In the 2010 RCT, LLI produced a statistically significant positive effect on reading fluency for grades 1–2 (effect size 0.27, improvement index +11)](lli-2010-positive-reading-fluency.md) — related
 - [In a 2010 RCT in Georgia and New York, LLI produced a statistically significant positive effect on general reading achievement (effect size 0.35, improvement index +14)](lli-2010-rct-positive-general-reading-achievement.md) — related

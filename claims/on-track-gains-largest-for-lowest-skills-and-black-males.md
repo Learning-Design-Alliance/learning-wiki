@@ -43,6 +43,9 @@ Subgroup analysis in Table 1 of 2005 versus 2013 on-track rates by EXPLORE categ
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Ninth graders who fail Algebra I are demographically similar to those who pass, but are more likely to be male and African American](algebra-i-failers-more-likely-male-african-american.md) — related
 - [Districtwide ninth-grade on-track rates rose 25 percentage points between 2007 and 2013 across racial, gender, and achievement subgroups](cps-on-track-rate-rose-25-points-districtwide.md) — related

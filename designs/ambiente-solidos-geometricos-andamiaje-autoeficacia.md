@@ -17,7 +17,7 @@ sources:
 # Ambiente computacional "sólidos geométricos" con andamiaje de autoeficacia (metas, autoevaluación y mensajes motivacionales)
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Ambiente de aprendizaje computacional para geometría en educación básica primaria, compuesto por tres módulos de aprendizaje con información textual y gráfica, actividades y evaluación final de diez preguntas. La versión con andamiaje incluye una estrategia para "promover las experiencias de éxito" y hacer consciente al estudiante de sus capacidades: "El andamiaje permitió a los estudiantes elegir metas, autoevaluarse y encontrar mensajes motivacionales". La versión sin andamiaje conserva la misma estructura conceptual, interfaz, actividades y evaluación, pero carece de la estrategia motivacional.

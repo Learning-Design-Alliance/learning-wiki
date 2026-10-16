@@ -1,0 +1,59 @@
+---
+type: learner-variable
+id: learning-style-preferences
+title: Learning-Style Preferences
+description: "A learner's stated preference for receiving information in one form (such as visual, auditory or kinaesthetic), and the claim that matching instruction to it improves learning."
+status: review
+generated:
+  by: claude/unspecified
+  at: 2026-10-15
+---
+
+# Learning-Style Preferences
+
+> **Learner Variable** · [All learner variables](index.md)
+> **Evidence** · 21 claims (12 for, 3 mixed, 6 against) · 12 studies (4 causal, 3 review, 3 associational, 2 theoretical), `q1`–`q3` · 5 of 12 report an effect size · 20 claims rest on one study
+
+## Description
+Learning-style preferences are learners' reported preferences for one mode or format of instruction, often classified with instruments such as VARK. The preferences are real in the sense that learners report them, but the meshing hypothesis, that teaching in a learner's preferred style improves learning, has repeatedly failed when tested properly: studies that cross style with matched and mismatched instruction find no interaction. The page records the evidence so a design can account for what learners prefer without building on the matching claim. Matching the format to the content (a diagram for spatial relations) is supported; matching it to the learner's style is not.
+
+## Implications
+
+### Context
+- Preferences can inform choice and comfort, but not the expectation of better learning from matching.
+- Time spent assessing styles is time not spent on practices with evidence.
+
+### Target Learners
+- All learners: the evidence does not support sorting learners by style.
+
+### Target Learning Objectives
+- Achievement, which matching to style has not been shown to improve.
+
+## Claims
+<!-- Claims reporting findings about this variable, with evidence tags -->
+- [Accommodator learners gained significantly more in the VR (guided exploration) mode than in VR (non-guided exploration) or Non VR modes](../claims/accommodators-gain-most-vr-guided-exploration.md) [+M] — an instructional effect differs with it
+- [Assimilator learners gained significantly more in the VR (guided exploration) mode than in VR (non-guided exploration) or Non VR modes](../claims/assimilators-gain-most-vr-guided-exploration.md) [+M] — an instructional effect differs with it
+- [Avoidant-style preservice teachers hold stronger certainty-of-knowledge beliefs than participant-style peers](../claims/avoidant-style-higher-certainty-knowledge.md) [+W] — learners who differ on it differ in outcomes
+- [Canfield's learning style variables predicted academic success where cognitive style did not](../claims/canfield-learning-style-predicts-academic-success.md) [+W] — learners who differ on it differ in outcomes
+- [Chatbot preference groups differed in total EBAPS and Axis 4/5 scores at the nominal level, with small effect sizes, but not after Bonferroni adjustment](../claims/chatbot-preference-ebaps-omnibus-kw-results.md) [~M] — learners who differ on it differ in outcomes
+- [Collaborative-style preservice teachers score higher on continuous and intentional thinking than avoidant and dependent styles](../claims/collaborative-style-higher-continuous-thinking.md) [+W] — learners who differ on it differ in outcomes
+- [Combination-preferring students scored higher than answer-preferring students on evolving-knowledge (Axis 4) and source-of-ability (Axis 5) EBAPS dimensions](../claims/combination-preferrers-higher-axis4-axis5-scores.md) [+W] — learners who differ on it differ in outcomes
+- [Greater proportion of voice prompts used correlates moderately with greater stated preference for voice](../claims/voice-usage-preference-correlation.md) [+W] — learners who differ on it differ in outcomes
+- [In one author's classroom media experiments, intuitive learners tended to score above sensing learners, though not in every format comparison](../claims/intuitive-learners-outperform-sensing-learners.md) [~W] — learners who differ on it differ in outcomes
+- [In the VR (guided exploration) mode, assimilator and accommodator learners did not differ significantly in gain score](../claims/guided-vr-no-learning-style-difference.md) [-W] — learners who differ on it differ in outcomes
+- [Independent-style preservice teachers score higher on open-mindedness than avoidant, collaborative, and competitive styles](../claims/independent-style-higher-open-mindedness.md) [+M] — learners who differ on it differ in outcomes
+- [Intellectual styles are partly socialized and therefore modifiable to some degree](../claims/styles-socialized-and-modifiable.md) [~W] — instruction changes it
+- [Learning style (visual-verbal) shows no significant correlation with the effectiveness of pictorial elucidation for adolescent EFL learners](../claims/learning-style-no-correlation-pictorial-elucidation-effect.md) [-W] — an instructional effect differs with it
+- [Learning styles impact teachers, pedagogy, student engagement, and assessment in K-12 education](../claims/learning-styles-impact-teachers-pedagogy-engagement-assessment.md) [+W] — learners who differ on it differ in outcomes
+- [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [-S] — an instructional effect differs with it
+- [Learning styles measured by Kolb's inventory showed no significant change over one year of varied instruction](../claims/kolb-learning-style-stable-over-one-year.md) [-M] — instruction changes it
+- [No significant interaction between learning mode and learning style on gain scores, while the learning-mode main effect was significant](../claims/no-mode-by-style-interaction-vr-gains.md) [-W] — an instructional effect differs with it
+- [No statistically significant EBAPS differences were observed for Axes 1–3 or between guided-inquiry and answer-oriented chatbot preferrers](../claims/no-ebaps-differences-axes-1-3-or-inquiry-vs-answer.md) [-W] — learners who differ on it differ in outcomes
+- [Preservice teachers' epistemological beliefs differ significantly by learning style in all four dimensions](../claims/epistemological-beliefs-differ-by-learning-style.md) [+M] — learners who differ on it differ in outcomes
+- [Preservice teachers' reflective thinking tendencies differ statistically by learning style in all seven dimensions](../claims/reflective-thinking-differs-by-learning-style.md) [+W] — learners who differ on it differ in outcomes
+- [Students preferring combination-style chatbots had higher total EBAPS scores than students preferring direct-answer chatbots (nominal significance only)](../claims/combination-preferrers-higher-total-ebaps-than-answer-preferrers.md) [+M] — learners who differ on it differ in outcomes
+
+## Related Learner Variables
+- [Prior Knowledge](prior-knowledge.md)
+- [Motivation](motivation.md)
+- [Working Memory](working-memory.md)

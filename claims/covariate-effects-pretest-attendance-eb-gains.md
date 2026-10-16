@@ -61,6 +61,9 @@ Treatment attendance uniquely predicted word-level skill gains: "for each standa
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Treatment effects were not moderated by emergent bilingual status, pretest levels, or tutoring attendance](no-treatment-moderators-eb-pretest-attendance.md) — related
 - [Higher pretest cognitive flexibility predicted greater decoding gains and compensated for lower pretest alphabet knowledge](pretest-cognitive-flexibility-predicts-decoding-gains-compensates-alphabet.md) — related

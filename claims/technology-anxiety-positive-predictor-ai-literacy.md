@@ -44,6 +44,7 @@ Hierarchical regression Model 4 on the 303-student survey. The sign reversal is 
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — predictor: learners who differ on it differ in outcomes
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Personal innovativeness, technology anxiety, and growth mindset in technology each significantly predict AI literacy after external resources and digital competence are controlled, adding 6% of variance](psychological-profile-predicts-ai-literacy-incrementally.md) — related

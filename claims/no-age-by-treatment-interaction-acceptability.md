@@ -43,6 +43,9 @@ The omnibus two (age) × two (treatment) mixed factorial ANOVA tested the intera
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Behavioral Relaxation Training is rated more acceptable than medication for GAD comorbid with Parkinson's disease by both younger and older adults](brt-more-acceptable-than-medication-gad-pd.md) — related
 - [Demographic and psychiatric-history variables are largely unrelated to treatment acceptability, with counseling history the exception](demographics-unrelated-to-acceptability-ratings.md) — related

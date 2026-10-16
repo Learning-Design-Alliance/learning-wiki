@@ -42,6 +42,9 @@ The authors' interpretive conclusion from the bidirectional validity analysis: m
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Prospective regression analysis of the same data found somewhat larger sex differences in the same direction](prospective-regression-larger-sex-differences-sat-m.md) — related
 - [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](mit-lower-sat-math-scores-equal-performance.md) — reports the opposite

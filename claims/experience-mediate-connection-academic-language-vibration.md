@@ -43,6 +43,9 @@ Discourse analysis of the episode shows Brian said the shortest string goes "tin
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Third-grade ELLs recruit familiar everyday language, including onomatopoeic labels, to talk productively about the sounds produced by strings](ells-recruit-everyday-language-sound-discussion.md) — related
 - [Students reported greater engagement, motivation and language use after MLE-mediated English lessons](students-report-engagement-after-mle-lessons.md) — related

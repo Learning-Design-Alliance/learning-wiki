@@ -44,6 +44,7 @@ Hierarchical regression predicting ER strategies from the three EF indices after
 
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — predictor: learners who differ on it differ in outcomes
+- [Executive Function](../learner-variables/executive-function.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Stronger executive function is concurrently associated with greater cognitive reappraisal and less expressive suppression in adolescents](ef-associated-with-reappraisal-and-lower-suppression-adolescents.md) — a broader claim this one bears on

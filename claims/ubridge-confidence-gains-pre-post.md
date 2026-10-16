@@ -42,6 +42,9 @@ Pre/post survey comparison of ten institute participants. The article reports th
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Entering faculty were characterized by uncertainty rather than opposition: mean AI perception was 3.22 on a five-point scale and mean self-rated fluency was 1.89 on a six-point scale](faculty-starting-points-uncertainty-low-fluency.md) — related
 - [Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%)](faculty-ai-concerns-integrity-ethics-training-demand.md) — related

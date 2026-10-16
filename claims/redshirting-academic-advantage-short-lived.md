@@ -55,6 +55,9 @@ The fact sheet summarizes multiple studies comparing redshirted students with st
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Following the 2021-22 kindergarten cohort through third grade tested whether redshirted students showed academic advantages](redshirted-cohort-third-grade-outcomes.md) — related
 - [Redshirting kindergartners likely carries costs that outweigh its academic benefits](redshirting-costs-outweigh-academic-benefits.md) — related

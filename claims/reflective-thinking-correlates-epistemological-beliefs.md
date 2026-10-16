@@ -61,6 +61,9 @@ Correlation analysis (Table 6, n=410) for the looking professional dimension; al
 ## Discussion
 
 
+## Learner Variables
+- [Epistemic Beliefs](../learner-variables/epistemic-beliefs.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Preservice teachers' epistemological beliefs differ significantly by learning style in all four dimensions](epistemological-beliefs-differ-by-learning-style.md) — related
 - [Historical increases in peak performance contradict fixed innate upper limits](historical-improvements-reject-immutable-limits.md) — related

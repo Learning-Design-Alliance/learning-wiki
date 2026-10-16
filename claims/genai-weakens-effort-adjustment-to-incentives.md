@@ -61,6 +61,9 @@ Exploratory linear mixed-effects regression of Stage 2 per-question completion t
 ## Discussion
 
 
+## Learner Variables
+- [Executive Function](../learner-variables/executive-function.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Participants deprived of relevant relational knowledge in Stage 1 take longer on the subsequent network-reasoning task](control-condition-slower-network-reasoning.md) — related
 - [Prior genAI use and incentives show no clear effects on later memory retention](genai-no-clear-memory-effect.md) — related

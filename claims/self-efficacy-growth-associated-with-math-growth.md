@@ -44,6 +44,7 @@ Latent curve modeling of repeated measures of math achievement and self-efficacy
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Prior longitudinal studies of math and self-efficacy tend to fit models assuming the constructs lack unique developmental trajectories and do not examine within-person relations](prior-studies-assume-no-unique-trajectories.md) — related

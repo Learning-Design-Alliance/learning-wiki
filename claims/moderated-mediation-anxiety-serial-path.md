@@ -44,6 +44,7 @@ Index of moderated mediation with Monte Carlo confidence intervals (20,000 draws
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — moderator: an instructional effect differs with it
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 - [AI literacy is directly and positively associated with continued ChatGPT use among existing users](ai-literacy-direct-continued-chatgpt-use.md) — related

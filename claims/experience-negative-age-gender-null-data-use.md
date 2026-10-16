@@ -43,6 +43,9 @@ From the same multilevel regression model (Model 1, N = 2,225 after exclusions, 
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Teacher characteristics from the will-skill-tool model — data literacy, availability of data technologies, and positive beliefs — predict teachers' pedagogical use of digital data, with data literacy the strongest predictor](wst-characteristics-predict-teacher-digital-data-use.md) — related
 - [Demographic variables (gender, year of study, fields of study, age) have trivial effects on prospective teachers' conception values and practices](demographics-trivial-effects-conceptions.md) — related

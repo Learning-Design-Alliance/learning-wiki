@@ -42,6 +42,9 @@ Summary of measures by student type from the 2007 CPS AVID survey, comparing sta
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Students in high and highest rated AVID schools are overwhelmingly positive about the program's impact on them](avid-high-schools-students-overwhelmingly-positive.md) — related
 - [Even students in lowest-rated AVID schools are fairly positive, though only half would recommend AVID to friends](avid-lowest-schools-students-fairly-positive.md) — related

@@ -42,6 +42,9 @@ After each of 16 lessons, both groups rated the introductory activity on 5-point
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Positive motivational assessments of introductory activities correlate weakly with learning outcomes on near-in-time tests but not with distant exam results](motivational-assessments-correlate-weakly-near-tests.md) — related
 - [Multimedia introductory activities are rated as more interesting and instructive than fun, while traditional activities are rated similarly on all three features](multimedia-activities-less-fun-than-instructive.md) — related

@@ -42,6 +42,9 @@ The abstract reports that "[t]hrough textual analyses, Martiniello describes the
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Greater linguistic complexity increases the difficulty of English-language math items for ELLs compared to non-ELLs of equivalent math proficiency](linguistic-complexity-increases-ell-math-item-difficulty.md) — related
 - [Some 2003 MCAS fourth-grade math word problems exhibited differential item functioning for English-language learners versus non-ELLs](mcas-math-word-problems-dif-for-ells.md) — related

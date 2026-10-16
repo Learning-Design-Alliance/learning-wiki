@@ -42,6 +42,9 @@ The abstract states the study's headline result: "the effect of EL status on SPE
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Under-identification of SPED placement occurred two years after EL classification](underidentification-two-years-after-el-classification.md) — a narrower finding that bears on this claim
 - [EL status led to under-identification for Spanish speakers but proportionate representation for Mandarin/Cantonese and other-language speakers](el-underidentification-varies-by-language-group.md) — a narrower finding that bears on this claim

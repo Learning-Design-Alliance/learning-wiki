@@ -63,6 +63,9 @@ Meta-analysis restricted to 15 classroom-based quasi-experimental studies of ora
 
 Lyster and Saito (2010), a meta-analysis of 15 classroom studies, supports recasts as effective (d = 0.53 against controls) but qualifies "supportive of recasts": prompts had larger effects, significantly so in within-group contrasts, so in classrooms the case for recasts is that they work, not that they are the best choice. The claim's point that effectiveness varies by learner is borne out for age, though for corrective feedback as a whole rather than recasts alone: younger learners benefited more than older ones.
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — the general claim this finding bears on, with the studies behind it

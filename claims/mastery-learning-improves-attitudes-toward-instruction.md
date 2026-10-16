@@ -58,6 +58,9 @@ Eighteen evaluations measured students' ratings of the instructional method: 16 
 
 Attitude scales were self-report and the studies were mostly college PSI courses, so this says students like the method, not that it raises motivation more broadly. It sits alongside a small cost in instructional time: in six of eight studies mastery students needed more, a median 4% more.
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — the same synthesis, overall effect

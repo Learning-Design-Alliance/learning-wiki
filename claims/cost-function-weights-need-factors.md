@@ -44,6 +44,7 @@ Cost function analysis using an instrumental variables approach on the 50-colleg
 
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Larger adequacy gaps between projected adequate cost and actual spending were associated with fewer success points milestones per FTE student](adequacy-gap-associated-outcomes.md) — related

@@ -44,6 +44,7 @@ Random effects meta-analysis of 33 RCTs including 3,666 children and adolescents
 
 ## Learner Variables
 - [Attention](../learner-variables/attention.md) — outcome: instruction changes it
+- [Executive Function](../learner-variables/executive-function.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Age significantly moderates MBI effects on executive functions across all RCTs (larger benefits with older age) and on negative behaviour in active-control RCTs (larger benefits with younger age)](age-moderates-mbi-outcomes.md) — related

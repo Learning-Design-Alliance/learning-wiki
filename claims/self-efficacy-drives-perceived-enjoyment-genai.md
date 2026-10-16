@@ -60,6 +60,10 @@ Effect-size evaluation of the structural model in the 434-teacher PLS-SEM study,
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Teacher self-efficacy significantly predicts perceived usefulness and perceived ease of use of GenAI tools](self-efficacy-predicts-usefulness-ease-genai.md) — related
 - [Perceived enjoyment of GenAI tools positively influences teachers' attitudes, perceived ease of use and behavioural intention](enjoyment-predicts-attitude-ease-intention-genai.md) — related

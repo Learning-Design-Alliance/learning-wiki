@@ -42,6 +42,9 @@ Logistic regression method estimating probability of reaching Level 3 (Standard 
 ## Discussion
 
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Decision consistency between the ELPAC and SBAC ELA is highest at ELPAC overall PL 4 in all grades and both analysis years](decision-consistency-highest-pl4.md) — related
 - [ELPAC overall Performance Level 4 is the most robust indicator that language is no longer the primary driver of academic achievement differences among California's reclassification criteria](elpac-pl4-sweet-spot-reclassification.md) — a broader claim this one bears on

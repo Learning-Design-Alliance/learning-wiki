@@ -44,6 +44,7 @@ Subgroup analysis within the same New York City school-fixed-effects study of fi
 
 ## Learner Variables
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs with it
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 - [Exposure to field trips to informal science institutions produces small positive effects on middle school students' standardized science test scores](field-trips-small-positive-science-score-effects.md) — a broader claim this one bears on

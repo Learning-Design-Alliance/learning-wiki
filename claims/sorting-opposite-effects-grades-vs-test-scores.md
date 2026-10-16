@@ -60,6 +60,9 @@ The report identifies a middle group harmed by sorting: "students with slightly 
 
 ## Discussion
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [A narrative review reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested](streaming-impacts-negatively-on-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it

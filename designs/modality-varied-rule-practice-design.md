@@ -17,7 +17,7 @@ sources:
 # Modality-varied practice design: equal comprehension and production practice with rule-to-modality assignment varied between groups
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 2 studies (1 causal, 1 review), `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 This design pattern holds total practice constant while varying which rules are practiced in which modality. All subjects were taught the same rules and received the same amount of comprehension and production practice, but "which ruleswere practiced in comprehension and which in production varied between groups." Comprehension practice consisted of choosing between pictures to match a sentence; production practice consisted of typing the correct sentence corresponding to a picture. This allows skill-specificity of practice to be assessed.

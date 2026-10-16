@@ -17,7 +17,7 @@ sources:
 # Segment dynamic visualizations with pauses between meaningful segments for novice learners, choosing segment length deliberately
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 3 studies (1 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 0 of 3 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 3 studies (1 causal, 1 quant-synthesis, 1 review), `q2`–`q4` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The review supports showing complex dynamic visualizations in segments with pauses between them, since studies show benefits at least for novices. Segments should be meaningful pieces with identifiable begin and end points. The review notes there are "no clear guidelines on how to determine the length of a segment"; researchers have based length on theories of cognitive functioning or consulted experts to identify meaningful pieces. It also suggests learners with more prior knowledge might benefit from larger segments, and that having students segment visualizations themselves may benefit only higher prior knowledge learners.

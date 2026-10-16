@@ -84,6 +84,9 @@ Utility value is actionable through explicit framing: studies show that simply a
 
 Intrinsic interest is less reliably shapeable in the short term than utility value, but situational interest — triggered by novelty, social context, or surprising information — can serve as a bridge to deeper individual interest over time. See Hidi & Renninger's four-phase model of interest development.
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — intrinsic value and autonomous motivation often co-occur: tasks learners find interesting are also those they pursue for internal reasons
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — expectancy-value theory explicitly pairs expectancy (self-efficacy) with task value; both are needed to predict effort investment

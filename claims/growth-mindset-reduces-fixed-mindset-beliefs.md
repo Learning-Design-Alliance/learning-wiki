@@ -44,6 +44,7 @@ Self-reported fixed mindset measured at the end of the second session in the nat
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+- [Mindset](../learner-variables/mindset.md) — outcome: instruction changes it
 
 ## Related Claims
 -

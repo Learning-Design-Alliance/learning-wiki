@@ -42,6 +42,9 @@ Paired t-tests averaged across both study parts showed experimental-group studen
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Positive motivational assessments of introductory activities correlate weakly with learning outcomes on near-in-time tests but not with distant exam results](motivational-assessments-correlate-weakly-near-tests.md) — related
 - [Students rate multimedia introductory activities as more instructive, interesting and fun than traditional introductory activities](multimedia-introductory-activities-rated-more-motivating.md) — related

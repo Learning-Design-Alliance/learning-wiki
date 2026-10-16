@@ -47,6 +47,7 @@ Bootstrapping mediation analysis (10,000 subsamples, bias-corrected 95% CIs) in 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Perceived AIGC affordance enhances AIGC self-efficacy and directly predicts self-regulated learning in IEI undergraduates](aigc-affordance-boosts-self-efficacy-and-srl.md) — related

@@ -43,6 +43,9 @@ Community-context analysis of Chicago elementary schools' 1990-1996 achievement 
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [The home digital divide narrowed by 2003 and schools partially compensated, with predominantly African-American elementary students using school computers more than integrated-school students](digital-divide-narrowed-schools-partially-compensating.md) — reports the opposite
 - [School climate improved in predominantly Black schools but declined in predominantly Latino and racially diverse schools as suspension use for severe infractions fell](cps-suspension-reduction-school-climate.md) — related

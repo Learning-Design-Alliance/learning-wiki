@@ -41,6 +41,9 @@ Subgroup analysis of the meta-analysis by learner grade level (2nd–5th graders
 
 ## Discussion
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — the general claim this finding bears on, with the studies behind it

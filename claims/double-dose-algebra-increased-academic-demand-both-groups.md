@@ -61,6 +61,9 @@ Cross-cohort discontinuity analysis at the 50th-percentile ITBS cutoff. Below-no
 ## Discussion
 
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [In one Chicago study, above-norm students' post-policy algebra test gains were partly explained by higher peer ability and by having classmates who took support algebra](above-norm-score-gains-peer-ability-spillover.md) — related
 - Academic composition of algebra classrooms affects math achievement among high-skill students — related

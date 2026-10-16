@@ -42,6 +42,9 @@ The abstract frames teacher-effect heterogeneity across students of different ap
 ## Discussion
 
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [The volume addresses criteria for evaluating growth models and how outputs from growth models should be utilized](growth-model-evaluation-criteria-questions.md) — related
 - [The study's invariance findings may be biased by excluding students who missed a test and by sample heterogeneity](map-invariance-study-sample-bias-limitations.md) — related

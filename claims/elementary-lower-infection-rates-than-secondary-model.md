@@ -42,6 +42,9 @@ Model-based comparison across school levels from the Key Findings; the compariso
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Hybrid approaches with smaller masked groups attending part-time dramatically reduce total likely infections, and most outside infections produce zero additional in-school infections](hybrid-attendance-dramatically-reduces-infections-model.md) — related
 - [Requiring masks measurably reduces infection spread in schools, according to simulation models of school operating strategies](masks-reduce-infection-spread-in-schools-model.md) — related

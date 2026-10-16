@@ -63,6 +63,7 @@ Same logistic regression analysis of 13,578 students. The null finding for perfo
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+- [Mindset](../learner-variables/mindset.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [71 percent of CCSD 8th graders were on track for graduation at the end of 9th grade in 2015/16](ccsd-71-percent-on-track-end-of-9th-grade.md) — related

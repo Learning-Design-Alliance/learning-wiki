@@ -42,6 +42,9 @@ Figure 2 of the brief reports state-level chronic absence rates for Native and W
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [AI/AN students experienced chronic absence rates among the highest of any ethnic group before and after the pandemic](aian-absence-highest-among-ethnic-groups.md) — related
 - [Roughly 30 percent of U.S. students (15 to 16 million) lacked adequate internet or device access in late 2020, with rural, Native American, Black, and Latino students disproportionately affected](homework-gap-scale-2020.md) — related

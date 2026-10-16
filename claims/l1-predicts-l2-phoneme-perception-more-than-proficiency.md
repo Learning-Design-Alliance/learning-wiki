@@ -65,6 +65,9 @@ effect size holds for grammatical rather than phonological contrasts is untested
 [~M] finds a related conditionality in morphology, where a typologically closer L1 helps only in
 some configurations.
 
+## Learner Variables
+- [English-Learner Status](../learner-variables/english-learner-status.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Italian grammatical gender stays incomplete for L2 and heritage speakers alike](italian-gender-stays-incomplete-for-l2-and-heritage-speakers.md) — the same "L1 helps, but conditionally" shape, in morphology rather than phonology

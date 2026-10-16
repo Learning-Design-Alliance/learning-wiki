@@ -61,6 +61,9 @@ Same symmetric SEM. The reverse-pathway interaction was only marginally signific
 ## Discussion
 
 
+## Learner Variables
+- [Executive Function](../learner-variables/executive-function.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Exploratory analyses suggest the digital moderation of the EF–reappraisal link is concentrated in social media and short-form video, not gaming or educational use](category-specific-moderation-social-media-short-video.md) — a narrower finding that bears on this claim
 - [High-intensity digital users show lower EF and reappraisal than moderate and low users, suggesting a threshold rather than linear dose-response pattern](digital-use-threshold-pattern-ef-er.md) — related

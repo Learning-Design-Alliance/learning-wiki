@@ -80,6 +80,9 @@ Descriptive trend comparison by race/ethnicity, 1992-1999 (Part 2). The brief re
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [The CPS test score gap between African-American students and other ethnic groups widened over the decade because Asian, white, and Latino scores improved at faster rates](cps-african-american-test-score-gap-widened-1990s.md) — related
 - [Racial achievement gaps in Chicago increased in all three eras, with African American students falling behind all other groups, especially in Era 3](cps-racial-gaps-increased-african-american-students.md) — related

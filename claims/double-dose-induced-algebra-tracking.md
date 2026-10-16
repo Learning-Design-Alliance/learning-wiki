@@ -59,6 +59,9 @@ Evaluation of the Chicago double-dose algebra policy reports an organizational s
 
 
 
+## Learner Variables
+- [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - Chicago's algebra-for-all policy led schools to create more mixed-ability math classrooms when eliminating remedial classes — reports the opposite

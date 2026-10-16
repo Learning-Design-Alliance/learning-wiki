@@ -22,7 +22,7 @@ sources:
 # Building Blocks for Math
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 mixed) · 5 studies (4 causal, 1 quant-synthesis), `q3`–`q4` · 5 of 5 report an effect size · 7 claims rest on one study
 
 ## Description
 A preschool mathematics curriculum from SRA Real Math that sequences instruction and software tasks along empirically based learning trajectories linking children's informal mathematical knowledge to formal concepts.

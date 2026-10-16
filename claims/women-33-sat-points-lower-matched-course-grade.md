@@ -42,6 +42,9 @@ Retrospective matched-sample analysis of first-year college math students, match
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Prospective regression analysis of the same data found somewhat larger sex differences in the same direction](prospective-regression-larger-sex-differences-sat-m.md) — related
 - [The score gaps constitute evidence of sex differences in the validity of the SAT-M as a predictor of college math performance, though not of their cause](sex-differences-sat-m-predictive-validity.md) — related

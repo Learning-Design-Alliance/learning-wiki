@@ -19,7 +19,7 @@ sources:
 # Foundations for Young Adult Success
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A UChicago Consortium framework that organizes developmental conditions and experiences supporting young people's successful transition to adulthood.

@@ -61,6 +61,9 @@ Conditional LTA with demographic predictors of transition paths (Table 8). The q
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Students who transitioned into or remained in the Self-Determined profile showed the greatest improvements in AI literacy](self-determined-profile-transitions-ai-literacy-gains.md) — related
 - [Secondary students in AI learning fall into three distinct SDT-based motivational profiles — Disengaged, Developing, and Self-Determined — at both pre- and post-test](three-sdt-motivational-profiles-ai-learning.md) — related

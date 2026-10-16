@@ -42,6 +42,9 @@ The brief reports, citing Herring et al. (2022), Virginia evidence that EL-label
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Students who began kindergarten as English Learners had similar achievement and growth, and higher attendance, compared to students never classified as ELs](began-as-els-similar-achievement-higher-attendance.md) — related
 - [Students who began as ELs and demonstrated proficiency by eighth grade had academic outcomes similar to or higher than students never classified as ELs](proficient-by-eighth-grade-els-strong-outcomes.md) — related

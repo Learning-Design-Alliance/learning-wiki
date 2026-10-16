@@ -61,6 +61,9 @@ Spring 2021 Partnership Team survey (68% response rate): "financial barriers wer
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [A majority of teacher residency candidates report financial hardship during their residency year, including food and housing insecurity](residents-report-financial-hardship-during-residency-year.md) — related
 - [Black jobseekers report biased applicant tracking systems, lengthy hiring processes, and entry-level postings requiring years of experience](tech-hiring-process-barriers-ats-experience-mismatch.md) — related

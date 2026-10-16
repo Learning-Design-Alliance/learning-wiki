@@ -42,6 +42,9 @@ Regression analysis of district-level TEA and federal data (2023–24 and 2024�
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Access to restorative practices is inequitable: schools with more Black and economically disadvantaged students show lower restorative practice utilization](inequitable-access-restorative-practices.md) — related
 - Charter school districts in Texas averaged a 52% teacher certification rate in 2024–25, far below the 87% average in traditional public school districts — related

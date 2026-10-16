@@ -42,6 +42,9 @@ In the comparison of remote spring 2020 and in-school fall 2019 administrations,
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [The grade-level disengagement pattern was not meaningfully different between remote and in-school testing](disengagement-pattern-similar-remote-versus-in-school.md) — a broader claim this one bears on
 - [Student test-taking disengagement on remotely administered adaptive interim assessments differs from disengagement on the same assessment administered in school](remote-interim-testing-disengagement-differs-from-in-school.md) — a broader claim this one bears on

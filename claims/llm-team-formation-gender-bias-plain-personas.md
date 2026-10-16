@@ -42,6 +42,9 @@ Controlled experiment in which GPT-4.1, GPT-5.2, and DeepSeek V3.2 assigned 1400
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [In LLM-assisted team formation, class standing strongly drives assignments: seniors are far less likely than freshmen to be assigned to Interface Design relative to Core Development](llm-team-formation-class-standing-effect.md) — related
 - [Even with skill-based qualifications, LLM team assignment remains gender-biased: when two teams are equally valid, models favor Core Development for male personas over Interface Design](llm-team-formation-gender-bias-skill-based.md) — related

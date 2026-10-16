@@ -42,6 +42,9 @@ Descriptive analysis of mobility indicators by race/ethnicity in Chapter 2 (Figu
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Residential mobility explains 55-61 percent of the school-year race gap in mobility, school average achievement an additional 16 percent, and access to school choice options increasingly explains the summer gap](race-gap-explained-by-residential-achievement-choice.md) — related
 - [Elementary student mobility in CPS is predominantly a within-district phenomenon, with CPS-to-CPS transfers accounting for 50-60 percent of school-year transfers and two-thirds of summer transfers](elementary-mobility-within-district.md) — related

@@ -45,6 +45,7 @@ Longitudinal multilevel analysis (HLM) of weekly self-reports from 194 universit
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+- [Academic Anxiety](../learner-variables/academic-anxiety.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Different forms of feedback within a single ALT play distinct, phase-specific roles in SRL, with directive feedback appearing helpful before but not after task engagement](phase-specific-roles-of-feedback-forms.md) — related

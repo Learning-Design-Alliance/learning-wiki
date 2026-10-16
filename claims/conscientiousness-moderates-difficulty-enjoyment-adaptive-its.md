@@ -42,6 +42,9 @@ Exploratory moderation analyses in the N = 132 field experiment with conscientio
 ## Discussion
 
 
+## Learner Variables
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Adaptive versus non-adaptive ITS condition showed no significant differences in mental effort, subjective difficulty, or enjoyment](adaptive-its-no-difference-cognitive-load-enjoyment.md) — related
 - [Latent learner profiles did not moderate the effectiveness of the adaptive ITS](learner-profiles-no-moderation-adaptive-its.md) — reports the opposite

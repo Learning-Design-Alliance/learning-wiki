@@ -44,6 +44,8 @@ Mixed-effects moderator analysis of developmental stage in Meta-Analysis 1 was s
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+- [Mindset](../learner-variables/mindset.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 - [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](growth-mindset-achievement-correlation-weak.md) — related

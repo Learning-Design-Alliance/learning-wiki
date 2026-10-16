@@ -23,7 +23,7 @@ sources:
 # Peer Review
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 7 studies (4 associational, 2 quant-synthesis, 1 causal), `q2`–`q4` · 2 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 8 studies (4 associational, 3 quant-synthesis, 1 causal), `q2`–`q4` · 3 of 8 report an effect size · 4 claims rest on one study
 
 ## Description
 Peer review is the element in which learners examine and respond to one another's work using shared criteria, prompts, or examples. It can improve drafts directly, but it is also valuable because evaluating peer work often sharpens learners' own judgment about quality.

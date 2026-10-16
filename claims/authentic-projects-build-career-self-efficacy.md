@@ -57,6 +57,9 @@ The authors describe Mr. Duarte's final project, in which students find communit
 ## Discussion
 
 
+## Learner Variables
+- [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Students believed interdisciplinary studio experiences would ease their transition into the workforce](studio-experience-prepares-students-for-workforce.md) — related

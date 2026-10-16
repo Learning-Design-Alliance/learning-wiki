@@ -44,6 +44,7 @@ Two-way ANOVA in a correlational study of 116 preschool children (mean age 58.8 
 
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — predictor: learners who differ on it differ in outcomes
+- [Executive Function](../learner-variables/executive-function.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Preschool children who pass both EF and TOM tests score significantly higher on semantic fluency than children who fail both](pass-both-ef-tom-higher-semantic-fluency.md) — related

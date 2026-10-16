@@ -42,6 +42,9 @@ Table 4 and Figures 1-12 report relative gap reduction (RGR), defined as the imp
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Failure Free Reading, the only word-level-plus-comprehension program, showed impacts for third graders but no impacts for fifth graders](failure-free-reading-impacts-third-grade-only.md) — related
 - [The four reading interventions did not improve state assessment (PSSA) scores; for fifth graders they lowered reading and mathematics scores](interventions-did-not-improve-pssa-scores.md) — related

@@ -44,6 +44,7 @@ Engagement results of the same within-subjects user study (N=14). The article st
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+- [Interest](../learner-variables/interest.md) — outcome: instruction changes it
 
 ## Related Claims
 - [SupplyNet fostered a reciprocal relationship between engagement and learning support operating through two pathways: engagement leading to learning and learning itself becoming engaging.](reciprocal-engagement-learning-dual-pathway.md) — related

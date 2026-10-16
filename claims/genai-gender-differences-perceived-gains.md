@@ -42,6 +42,9 @@ Gender comparison (Figure 4a) in a sample that was 80.44% female. The article st
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Perceived GenAI gains differ by discipline: arts and economics/management students report stronger cognitive and motivational gains than education and law students](genai-disciplinary-differences-hss.md) — related
 - [Perceived effects of GenAI on independent thinking and creativity are polarized among Chinese HSS students, with substantial minorities reporting declines](genai-mixed-independent-thinking-creativity.md) — related

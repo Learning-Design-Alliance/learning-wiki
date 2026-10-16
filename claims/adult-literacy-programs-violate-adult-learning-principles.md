@@ -43,6 +43,9 @@ This is the handbook's research-review section on problems of adult literacy pro
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - Adults learn better when learning content and methods link to their previous experience — related
 - Philippine basic literacy is 89.8% and functional literacy 73.2%, yet BNFE serves only 1.07% of estimated adult education clientele — related

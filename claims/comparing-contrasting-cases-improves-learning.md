@@ -189,6 +189,9 @@ Seventy seventh-grade students learning to solve algebra equations were randomly
 
 **Open questions.** Two sources are recorded: the Alfieri et al. (2013) meta-analysis of case comparison (d = .50, larger with immediate testing) and Gentner et al. (2003)'s randomised experiments with novice undergraduates learning negotiation. Key moderators still to document: learner expertise, degree of surface vs. structural similarity between cases, whether the analog is provided or self-generated, and domain (well-structured domains such as mathematics vs. ill-structured ones).
 
+## Learner Variables
+- [Executive Function](../learner-variables/executive-function.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Strategy Instruction Needs Conditional Knowledge](strategy-instruction-needs-conditional-knowledge.md) — the general claim this finding bears on, with the studies behind it

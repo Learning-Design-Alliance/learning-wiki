@@ -42,6 +42,9 @@ Descriptive analysis of 2014 and 2016 CRDC data on first- and second-year teache
 ## Discussion
 
 
+## Learner Variables
+- [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [In 2016, schools with high enrollment of students of color were four times as likely to employ uncertified teachers as schools with low enrollment of students of color](high-student-of-color-schools-four-times-uncertified-teachers.md) — related
 - [Regardless of location, schools with high student of color enrollment have a greater percentage of inexperienced teachers than low-enrollment schools, with urban schools most affected](inexperienced-teacher-inequity-by-location.md) — a broader claim this one bears on

@@ -42,6 +42,9 @@ Descriptive analysis of statewide administrative data for 63,679 Arkansas grade 
 ## Discussion
 
 
+## Learner Variables
+- [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Fewer substantial differences between student groups occurred for behavioral indicators than for academic indicators of postsecondary readiness and success](fewer-behavioral-than-academic-indicator-differences.md) — related
 - [Black and Hispanic students attained postsecondary readiness and success outcomes at substantially lower rates than White students](black-hispanic-lower-postsecondary-outcomes.md) — related

@@ -45,6 +45,7 @@ The report asserts, citing research without detail, that "Dual language learners
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — moderator: an instructional effect differs with it
+- [English-Learner Status](../learner-variables/english-learner-status.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 - [High-quality early care is associated with school readiness, math and language gains, and reduced grade repetition and special education placement](high-quality-early-care-school-readiness-benefits.md) — related

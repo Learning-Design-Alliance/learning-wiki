@@ -42,6 +42,9 @@ Descriptive analysis of CALPADS enrollment data for 330,733 students designated 
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Special education needs are much more prevalent among California students designated as LTEL7 (28%) than other ever-EL peers (11%)](special-education-needs-more-prevalent-ltel7.md) — related
 - [Socioeconomic disadvantage is more prevalent among California students designated as LTEL7 (89%) than other ever-ELs (80%)](ses-disadvantage-more-prevalent-ltel7.md) — related

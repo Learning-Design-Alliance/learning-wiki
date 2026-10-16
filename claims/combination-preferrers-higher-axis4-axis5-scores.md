@@ -42,6 +42,9 @@ Dunn's post-hoc tests on the two axes with significant omnibus results; Table II
 ## Discussion
 
 
+## Learner Variables
+- [Learning-Style Preferences](../learner-variables/learning-style-preferences.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Chatbot preference groups differed in total EBAPS and Axis 4/5 scores at the nominal level, with small effect sizes, but not after Bonferroni adjustment](chatbot-preference-ebaps-omnibus-kw-results.md) — a broader claim this one bears on
 - [No statistically significant EBAPS differences were observed for Axes 1–3 or between guided-inquiry and answer-oriented chatbot preferrers](no-ebaps-differences-axes-1-3-or-inquiry-vs-answer.md) — related

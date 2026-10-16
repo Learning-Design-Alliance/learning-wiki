@@ -42,6 +42,9 @@ Interpretive synthesis in the RQ2d section of the Gradebook weighting analyses, 
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Differential course placement gave young men and women different grading category weights, with young women more often in honors and geometry](differential-course-placement-created-different-category-weights.md) — related
 - [Gender differences in points earned remained statistically significant when comparing students in the same courses with the same weightings](gender-gap-persists-controlling-course-enrollment.md) — related

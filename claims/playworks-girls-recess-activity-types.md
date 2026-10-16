@@ -42,6 +42,9 @@ Observational recess data collected alongside accelerometer measurement in the 2
 ## Discussion
 
 
+## Learner Variables
+- [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Playworks showed significant impact on some measures of girls' physical activity but no significant impact on measures of boys' physical activity](playworks-gender-differential-impact.md) — a broader claim this one bears on
 - [Girls in Playworks schools had significantly higher accelerometer intensity counts and spent more time in vigorous physical activity than girls in control schools](playworks-girls-higher-activity-counts-vigorous.md) — a broader claim this one bears on

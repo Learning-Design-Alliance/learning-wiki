@@ -44,6 +44,7 @@ Quasi-experimental study of 84 fifth-grade English language learners. Appendix A
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [English-Learner Status](../learner-variables/english-learner-status.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Greenwood et al. (1993) reported a statistically significant CWPT effect on CTBS-Reading, but the WWC-corrected analysis was not statistically significant](cwpt-ctbs-effect-significance-discrepancy.md) — related
