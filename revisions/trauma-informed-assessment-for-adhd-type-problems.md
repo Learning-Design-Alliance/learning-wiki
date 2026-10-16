@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../strategies/trauma-informed-assessment-for-adhd-type-problems.md
+---
+
+# Revision history: [strategies/trauma-informed-assessment-for-adhd-type-problems](../strategies/trauma-informed-assessment-for-adhd-type-problems.md)
+
+### 2026-10-16 · ingest · process:wiki-ingest
+Ingested from lvn-sanderud-2016-child-maltreatment-and-adhd-symptoms-in-a-sample-of-youn (Child maltreatment and ADHD symptoms in a sample of young adults) via eval_harness.py + ingest_extractions.py

@@ -1,0 +1,39 @@
+---
+type: claim
+title: When previous academic achievement is controlled, intelligence predicts only later reading comprehension and age-10 mathematics, and WMC predicts nothing additionally
+description: When previous academic achievement is controlled, intelligence predicts only later reading comprehension and age-10 mathematics, and WMC predicts nothing additionally
+id: precursors-reduce-iq-wmc-prediction
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+evidence_strength: moderate
+sources:
+  - id: schneider-wolfgang-2017
+    resource: "https://doi.org/10.3390/jintelligence5020026"
+    title: "Schneider Wolfgang, Niklas Frank. (2017). Intelligence and Verbal Short-Term Memory/Working Memory: Their Interrelationships from Childhood to Young Adulthood and Their Impact on Academic Achievement. Journal of Intelligence. https://doi.org/10.3390/jintelligence5020026"
+    author: Schneider Wolfgang, Niklas Frank
+---
+
+# When previous academic achievement is controlled, intelligence predicts only later reading comprehension and age-10 mathematics, and WMC predicts nothing additionally
+
+## Subclaims
+`q2 i?` With preceding academic achievement included as a precursor, intelligence remained significant only for reading comprehension at t5 and mathematics at t3, while WMC was not a significant predictor at all. [→ Schneider Wolfgang 2017](#schneider-wolfgang-2017)
+
+## Evidence
+
+### Schneider Wolfgang 2017
+
+Schneider Wolfgang, Niklas Frank. (2017). Intelligence and Verbal Short-Term Memory/Working Memory: Their Interrelationships from Childhood to Young Adulthood and Their Impact on Academic Achievement. Journal of Intelligence. https://doi.org/10.3390/jintelligence5020026
+
+`q2 · i?`
+
+Regression analyses from the LOGIC reanalysis predicting later achievement with precursors entered first. The article reports intelligence explained "14% of additional variance" for reading comprehension at t5 and "19% of additional variance" for mathematics at t3; WMC was not significant.
+
+> "However, when previous academic achievement was included in the models to predict later academic achievement, intelligence was only a significant predictor for reading comprehension at t5 (explaining 14% of additional variance) and for mathematics at t3 (explaining 19% of additional variance), and WMC was not a significant predictor at all."
+
+## Discussion
+
+
+## Related Claims
+-

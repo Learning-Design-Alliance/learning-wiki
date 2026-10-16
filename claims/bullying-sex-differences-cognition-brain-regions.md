@@ -1,0 +1,54 @@
+---
+type: claim
+title: Sex moderates bullying-related cognitive and brain differences, with effects in boys and girls appearing in different regions and tasks
+description: Sex moderates bullying-related cognitive and brain differences, with effects in boys and girls appearing in different regions and tasks
+id: bullying-sex-differences-cognition-brain-regions
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+evidence_strength: weak
+sources:
+  - id: menken-miriam-s-2023
+    resource: "https://doi.org/10.1016/j.dcn.2023.101247"
+    title: "Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda. (2023). Longitudinal alterations in brain morphometry mediated the effects of bullying victimization on cognitive development in preadolescents. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2023.101247"
+    author: Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda
+  - id: menken-miriam-s-2023-2
+    resource: "https://doi.org/10.1016/j.dcn.2023.101247"
+    title: "Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda. (2023). Longitudinal alterations in brain morphometry mediated the effects of bullying victimization on cognitive development in preadolescents. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2023.101247"
+    author: Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda
+---
+
+# Sex moderates bullying-related cognitive and brain differences, with effects in boys and girls appearing in different regions and tasks
+
+## Subclaims
+`q3 i?` Bullied girls performed worse than non-bullied girls on the processing speed task, while boys performed similarly regardless of bullying status; no bullying-by-sex interaction was significant. [→ Menken Miriam S. 2023](#menken-miriam-s-2023)
+`q3 i?` Bullied boys had larger right hippocampal volumes than non-bullied boys, but girls were similar regardless of bullying status; no sex-by-bullying interaction was significant. [→ Menken Miriam S. 2023 (2)](#menken-miriam-s-2023-2)
+
+## Evidence
+
+### Menken Miriam S. 2023
+
+Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda. (2023). Longitudinal alterations in brain morphometry mediated the effects of bullying victimization on cognitive development in preadolescents. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2023.101247
+
+`q3 · i?`
+
+Sex-stratified LMM contrasts on NIH Toolbox processing speed in the matched ABCD sample. The article reports the group difference only among girls with the printed p-values and a non-significant bullying-by-sex interaction.
+
+> "bullied girls performed worse than non-bullied girls on the processing speed task (P = 0.030), but the boys performed similarly regardless of bullying status (P = 0.47). However, no interaction was found between bullying and sex on processing speed (interaction-P = 0.21; Table S6)."
+
+### Menken Miriam S. 2023 (2)
+
+Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda. (2023). Longitudinal alterations in brain morphometry mediated the effects of bullying victimization on cognitive development in preadolescents. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2023.101247
+
+`q3 · i?`
+
+Sex-stratified LMM contrasts on subcortical volumes in the matched ABCD sample. The article reports the hippocampal group difference only among boys with the printed p-values and a non-significant interaction.
+
+> "bullied boys had larger right hippocampal volumes than non-bullied boys (P = 0.022), but the girls were similar regardless of bullying status (P = 0.46) (Table S11). However, no sex-specific effects for bullying were observed (interaction-P = 0.85)."
+
+## Discussion
+
+
+## Related Claims
+-

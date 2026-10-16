@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/gender-interest-stereotypes-predict-girls-lower-interest.md
+---
+
+# Revision history: [claims/gender-interest-stereotypes-predict-girls-lower-interest](../claims/gender-interest-stereotypes-predict-girls-lower-interest.md)
+
+### 2026-10-16 · ingest · process:wiki-ingest
+Ingested from lvn-master-2021-gender-stereotypes-about-interests-start-early-and-cause-g (Gender stereotypes about interests start early and cause gender disparities in computer science and engineering) via eval_harness.py + ingest_extractions.py

@@ -1,0 +1,39 @@
+---
+type: claim
+title: "As cumulative ACEs increase, children's probability of flourishing (learning interest, task completion, self-regulation) and family resilience decrease across race/ethnicity and income groups"
+description: "As cumulative ACEs increase, children's probability of flourishing (learning interest, task completion, self-regulation) and family resilience decrease across race/ethnicity and income groups"
+id: aces-decrease-flourishing-and-family-resilience-all-groups
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+evidence_strength: moderate
+sources:
+  - id: goldstein-2021
+    resource: "https://doi.org/10.1038/s41390-020-01188-6"
+    title: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L. (2021). Influence of race/ethnicity and income on the link between adverse childhood experiences and child flourishing. Pediatric Research. https://doi.org/10.1038/s41390-020-01188-6"
+    author: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L"
+---
+
+# As cumulative ACEs increase, children's probability of flourishing (learning interest, task completion, self-regulation) and family resilience decrease across race/ethnicity and income groups
+
+## Subclaims
+`q2 i?` As ACEs increased, the estimated probability of all three flourishing indicators and family resilience decreased across race/ethnicity and FPL groups. [→ Goldstein 2021](#goldstein-2021)
+
+## Evidence
+
+### Goldstein 2021
+
+Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L. (2021). Influence of race/ethnicity and income on the link between adverse childhood experiences and child flourishing. Pediatric Research. https://doi.org/10.1038/s41390-020-01188-6
+
+`q2 · i?`
+
+Cross-sectional secondary analysis of the 2016-17 NSCH (n = 44,686 children ages 6-17) using a moderated-mediation probit model with weighted least squares estimates. The article reports that "ACEs are consequential for all children regardless of their background"; no standardized effect size is printed.
+
+> "As ACEs increased, the estimated probability of all indicators of ﬂourishing outcomes and family resilience decreased across race/ ethnicity and FPL, reinforcing the notion that ACEs are consequential for all children regardless of their background."
+
+## Discussion
+
+
+## Related Claims
+-

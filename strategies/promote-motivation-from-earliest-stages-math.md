@@ -1,0 +1,44 @@
+---
+type: strategy
+id: promote-motivation-from-earliest-stages-math
+title: Promote motivation alongside executive functioning and early numeracy development from the earliest stages of mathematics education
+description: "Based on the finding that motivation exerts an indirect effect on later mathematical performance, the authors recommend that educators and parents enhance children's motivation as a basic driver of learning from the e..."
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+sources:
+  - id: mercader-j-2018
+    resource: "https://doi.org/10.3389/fpsyg.2017.02375"
+    title: "Mercader J, Miranda A, Presentación MJ, Siegenthaler R and Rosel JF (2018) Contributions of Motivation, Early Numeracy Skills, and Executive Functioning to Mathematical Performance. A Longitudinal Study. Front. Psychol. 8:2375. https://doi.org/10.3389/fpsyg.2017.02375"
+    author: Mercader J, Miranda A, Presentación MJ, Siegenthaler R and Rosel JF
+---
+
+# Promote motivation alongside executive functioning and early numeracy development from the earliest stages of mathematics education
+
+## Description
+Based on the finding that motivation exerts an indirect effect on later mathematical performance, the authors recommend that educators and parents enhance children's motivation as a basic driver of learning from the earliest stages. They recommend "interesting mathematical tasks such as projects that emerge from student's interests," "activities focused on highe r-order thinking," and "avoiding anxiety by promoting cooperative work rather than competitive," while warning against defining success as fast, correct responses and rote, repetitive learning.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Educators and parents acting in both home and school settings to enhance motivation
+- Connection of mathematics to students' lives and cultures to create a sense of belonging
+#### Constraints
+- The article notes some educators worry structured math activities will negatively influence children's motivation, and states it knows of no research supporting this concern
+
+### Target Learners
+- children in early childhood and early primary education
+
+### Target Learning Goals
+- sustained motivation toward mathematics and later mathematical performance
+
+## Related Strategies
+- 
+
+## Examples
+-
+
+## Key Sources
+- Mercader J, Miranda A, Presentación MJ, Siegenthaler R and Rosel JF (2018) Contributions of Motivation, Early Numeracy Skills, and Executive Functioning to Mathematical Performance. A Longitudinal Study. Front. Psychol. 8:2375. https://doi.org/10.3389/fpsyg.2017.02375

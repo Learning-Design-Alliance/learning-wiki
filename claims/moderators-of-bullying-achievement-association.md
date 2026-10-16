@@ -1,0 +1,38 @@
+---
+type: claim
+title: The bullying-achievement and mediation associations are moderated by design, assessment method, country, age and bullying type
+description: The bullying-achievement and mediation associations are moderated by design, assessment method, country, age and bullying type
+id: moderators-of-bullying-achievement-association
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+evidence_strength: moderate
+sources:
+  - id: muthanna-2021
+    title: "Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health."
+    author: Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil
+---
+
+# The bullying-achievement and mediation associations are moderated by design, assessment method, country, age and bullying type
+
+## Subclaims
+`q3 i?` The bullying-achievement relationship was stronger in longitudinal (OR = 0.43) than cross-sectional (OR = 0.85) studies, and moderated by age, bullying assessment method, country and bullying type (all Qb significant). [→ Muthanna 2021](#muthanna-2021)
+
+## Evidence
+
+### Muthanna 2021
+
+Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health.
+
+`q3 · i?`
+
+Meta-ANOVA moderator analysis for the bullying-achievement relationship. Design was a significant moderator (Qb = 11.26, p = 0.001), with longitudinal studies showing a stronger effect (OR = 0.43) than cross-sectional studies (OR = 0.85); age, assessment method, country and bullying type were also significant moderators.
+
+> "The heterogeneity assessment indicated that the relationship was also significantly moderated by study design (Qb = 11.26, p = 0.001). This indicated that bullying involvement had a stronger effect on academic achievement in longitudinal studies (k = 7, OR = 0.43, p = 0.000) compared with cross-sectional studies (k = 7, OR = 0.85, p = 0.006)."
+
+## Discussion
+
+
+## Related Claims
+-

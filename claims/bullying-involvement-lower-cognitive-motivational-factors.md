@@ -1,0 +1,80 @@
+---
+type: claim
+title: Bullying involvement is associated with lower cognitive-motivational factors, especially engagement, motivation and self-esteem
+description: Bullying involvement is associated with lower cognitive-motivational factors, especially engagement, motivation and self-esteem
+id: bullying-involvement-lower-cognitive-motivational-factors
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+evidence_strength: moderate
+sources:
+  - id: muthanna-2021
+    title: "Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health."
+    author: Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil
+  - id: muthanna-2021-2
+    title: "Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health."
+    author: Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil
+  - id: muthanna-2021-3
+    title: "Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health."
+    author: Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil
+  - id: muthanna-2021-4
+    title: "Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health."
+    author: Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil
+---
+
+# Bullying involvement is associated with lower cognitive-motivational factors, especially engagement, motivation and self-esteem
+
+## Subclaims
+`q3 i1` Bullying-involved children are less likely to be academically engaged (k = 4, OR = 0.571, p = 0.000), less motivated (k = 7, OR = 0.82, p = 0.021) and have lower self-esteem (k = 1, OR = 0.12, p = 0.000). [→ Muthanna 2021](#muthanna-2021)
+`q3 i?` Self-concept and self-efficacy were not significantly associated with bullying involvement. [→ Muthanna 2021 (2)](#muthanna-2021-2)
+`q3 i1` Victims only were significantly less likely to be motivated (k = 4, OR = 0.74, p = 0.002). [→ Muthanna 2021 (3)](#muthanna-2021-3)
+`q3 i?` Bullies only showed no significant association with motivation (OR = 1.03, p = 0.762). [→ Muthanna 2021 (4)](#muthanna-2021-4)
+
+## Evidence
+
+### Muthanna 2021
+
+Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health.
+
+`q3 · i1`
+
+Random-effects meta-analysis of the bullying-motivational factor association across the included studies. Engagement, motivation and self-esteem were each significantly lower among bullying-involved children, with the printed ORs and CIs as quoted.
+
+> "children who are involved in any bullying behaviour were significantly less likely to be academically engaged (k = 4) (OR = 0.571, 95% CI (0.43, 0.77), p = 0.000), to have less motivation (k = 7) (OR = 0.82, 95% CI (0.69, 0.97), p = 0.021), and to have lower self-esteem (k = 1) (OR = 0.12, 95% CI (0.07, 0.20), p = 0.000)"
+
+### Muthanna 2021 (2)
+
+Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health.
+
+`q3 · i?`
+
+Null meta-analytic results for self-concept (k = 3, p = 0.072) and self-efficacy (k = 2, p = 0.264); no statistically significant association was detected and equivalence was not tested.
+
+> "However, neither self-concept (k = 3) (OR = 0.74, 95% CI (0.53, 1.03), p = 0.072) nor self-efficacy (k = 2) (OR = 0.73, 95% CI (0.41, 1.27), p = 0.264) were significantly associated with bullying involvement."
+
+### Muthanna 2021 (3)
+
+Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health.
+
+`q3 · i1`
+
+Subgroup meta-analysis restricted to victims only. Victims were "significantly less likely to be motivated" (OR = 0.74, p = 0.002); the pooled overall cognitive-motivational effect for victims was OR = 0.63 (k = 13).
+
+> "As for victims only, they were also significantly less likely to be motivated (k = 4) (OR = 0.74, 95% CI (0.61, 0.89), p = 0.002)."
+
+### Muthanna 2021 (4)
+
+Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health.
+
+`q3 · i?`
+
+Subgroup meta-analysis restricted to bullies only (k = 2). No statistically significant association between bully-only involvement and motivation was detected; equivalence was not tested.
+
+> "On the other hand, the results for bullies only were not significant in relation to motivation (k = 2) (OR = 1.03, 95% CI (0.84, 1.27), p = 0.762)."
+
+## Discussion
+
+
+## Related Claims
+-

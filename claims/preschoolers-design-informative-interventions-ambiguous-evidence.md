@@ -1,0 +1,39 @@
+---
+type: claim
+title: Given ambiguous evidence, preschoolers design informative interventions in their exploratory play (Experiment 2)
+description: Given ambiguous evidence, preschoolers design informative interventions in their exploratory play (Experiment 2)
+id: preschoolers-design-informative-interventions-ambiguous-evidence
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+evidence_strength: moderate
+sources:
+  - id: cook-2011
+    resource: "https://doi.org/10.1016/j.cognition.2011.03.003"
+    title: "Cook, Claire, Noah D. Goodman, and Laura E. Schulz. (2011). Where Science Starts: Spontaneous Experiments in Preschoolers' Exploratory Play. Cognition. https://doi.org/10.1016/j.cognition.2011.03.003"
+    author: Cook, Claire, Noah D. Goodman, and Laura E. Schulz
+---
+
+# Given ambiguous evidence, preschoolers design informative interventions in their exploratory play (Experiment 2)
+
+## Subclaims
+`q3 i?` When evidence was ambiguous, preschoolers designed informative interventions during exploratory play. [→ Cook 2011](#cook-2011)
+
+## Evidence
+
+### Cook 2011
+
+Cook, Claire, Noah D. Goodman, and Laura E. Schulz. (2011). Where Science Starts: Spontaneous Experiments in Preschoolers' Exploratory Play. Cognition. https://doi.org/10.1016/j.cognition.2011.03.003
+
+`q3 · i?`
+
+The article reports Experiment 2 with preschoolers (mean: 54 months), in which children "designed (Experiment 2) informative interventions" when evidence was ambiguous. No effect size is printed in the available text.
+
+> "given ambiguous evidence, children both selected (Experiment 1) and designed (Experiment 2) informative interventions"
+
+## Discussion
+
+
+## Related Claims
+-

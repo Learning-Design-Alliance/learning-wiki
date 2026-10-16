@@ -1,0 +1,39 @@
+---
+type: claim
+title: Only the subjective (perceived) support dimension of social support mediates empathy and prosocial behavior
+description: Only the subjective (perceived) support dimension of social support mediates empathy and prosocial behavior
+id: subjective-support-dimension-mediation
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+evidence_strength: moderate
+sources:
+  - id: fu-w-2022
+    resource: "https://doi.org/10.1057/s41599-022-01296-0"
+    title: "Fu W, Wang C, Chai H, Xue R. (2022). Examining the relationship of empathy, social support, and prosocial behavior of adolescents in China: a structural equation modeling approach. Humanities and Social Sciences Communications. https://doi.org/10.1057/s41599-022-01296-0"
+    author: Fu W, Wang C, Chai H, Xue R
+---
+
+# Only the subjective (perceived) support dimension of social support mediates empathy and prosocial behavior
+
+## Subclaims
+`q3 i?` In a parallel mediation model, only the subjective support dimension significantly mediated the empathy–prosocial behavior path (95% CI [0.015, 0.051], mediating effect 0.030, 7.24%); objective support and utilization of support did not mediate. [→ Fu W 2022](#fu-w-2022)
+
+## Evidence
+
+### Fu W 2022
+
+Fu W, Wang C, Chai H, Xue R. (2022). Examining the relationship of empathy, social support, and prosocial behavior of adolescents in China: a structural equation modeling approach. Humanities and Social Sciences Communications. https://doi.org/10.1057/s41599-022-01296-0
+
+`q3 · i?`
+
+Parallel mediation SEM (Fig. 2) on the same sample; fit indexes acceptable (χ2/df = 2.932, RMSEA = 0.041). The article reports the "95% con ﬁdence interval of “empathy → subjective support → prosocial behavior ” path was [0.015, 0.051]" and a mediating effect of 0.030 accounting for 7.24%.
+
+> "among the three dimensions, only the subjective support dimension played a mediation role between empathy and prosocial behavior"
+
+## Discussion
+
+
+## Related Claims
+-

@@ -1,0 +1,39 @@
+---
+type: claim
+title: Dot Task accuracy decreased from congruent to incongruent to mixed trials, with condition accuracies positively correlated
+description: Dot Task accuracy decreased from congruent to incongruent to mixed trials, with condition accuracies positively correlated
+id: dot-task-accuracy-gradient-congruent-incongruent-mixed
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+evidence_strength: moderate
+sources:
+  - id: spiegler-o-and-leyendecker-b-2017
+    resource: "https://doi.org/10.3389/fpsyg.2017.01579"
+    title: "Spiegler O and Leyendecker B (2017) Balanced Cultural Identities Promote Cognitive Flexibility among Immigrant Children. Front. Psychol. 8:1579. https://doi.org/10.3389/fpsyg.2017.01579"
+    author: Spiegler O and Leyendecker B
+---
+
+# Dot Task accuracy decreased from congruent to incongruent to mixed trials, with condition accuracies positively correlated
+
+## Subclaims
+`q3 i?` Children's responses were most accurate in congruent trials (M = 98.52%), less accurate in incongruent trials (M = 94.52%), and least accurate in mixed trials (M = 75.63%), ps ≤ 0.001. [→ Spiegler O and Leyendecker B 2017](#spiegler-o-and-leyendecker-b-2017)
+
+## Evidence
+
+### Spiegler O and Leyendecker B 2017
+
+Spiegler O and Leyendecker B (2017) Balanced Cultural Identities Promote Cognitive Flexibility among Immigrant Children. Front. Psychol. 8:1579. https://doi.org/10.3389/fpsyg.2017.01579
+
+`q3 · i?`
+
+Paired-sample t-tests on the 225 children's Dot Task accuracy showed a significant gradient across the three conditions; accuracies across conditions were also positively correlated (r = 0.16 to 0.31). Accuracy rather than reaction time was reported as the more sensitive measure for young children.
+
+> "Results of three paired sample t-tests revealed that children's responses on the Dot Task were most accurate in the congruent trials (M= 98.52%, SD= 3.89%, range 78ñ100%), followed by the incongruent trials ( M= 94.52%, SD= 7.81%, range 60ñ100%), and least accurate in the mixed trials (M= 75.63%, SD= 14.22%, range 40ñ100%), ps≤ 0.001."
+
+## Discussion
+
+
+## Related Claims
+-

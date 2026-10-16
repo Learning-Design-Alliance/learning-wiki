@@ -1,0 +1,54 @@
+---
+type: claim
+title: Cool EF measures correlate with each other, but no association is found between cool and hot EF measures
+description: Cool EF measures correlate with each other, but no association is found between cool and hot EF measures
+id: cool-hot-ef-uncorrelated
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+evidence_strength: moderate
+sources:
+  - id: poon-k-2018
+    resource: "https://doi.org/10.3389/fpsyg.2017.02311"
+    title: "Poon K (2018) Hot and Cool Executive Functions in Adolescence: Development and Contributions to Important Developmental Outcomes. Front. Psychol. 8:2311. https://doi.org/10.3389/fpsyg.2017.02311"
+    author: Poon K
+  - id: poon-k-2018-2
+    resource: "https://doi.org/10.3389/fpsyg.2017.02311"
+    title: "Poon K (2018) Hot and Cool Executive Functions in Adolescence: Development and Contributions to Important Developmental Outcomes. Front. Psychol. 8:2311. https://doi.org/10.3389/fpsyg.2017.02311"
+    author: Poon K
+---
+
+# Cool EF measures correlate with each other, but no association is found between cool and hot EF measures
+
+## Subclaims
+`q2 i1` Backward digit span correlates positively with CNT attentional control after controlling age, IQ, and SES. [→ Poon K 2018](#poon-k-2018)
+`q2 i?` None of the hot EF measures correlate significantly or marginally with cool EF measures or with each other. [→ Poon K 2018 (2)](#poon-k-2018-2)
+
+## Evidence
+
+### Poon K 2018
+
+Poon K (2018) Hot and Cool Executive Functions in Adolescence: Development and Contributions to Important Developmental Outcomes. Front. Psychol. 8:2311. https://doi.org/10.3389/fpsyg.2017.02311
+
+`q2 · i1`
+
+Partial Pearson's correlations controlling age, general intellectual ability, and SES variables among EF measures. The article reports a significant positive correlation between Backward Digit Span and CNT attentional control, r = 0.180, p < 0.05, and a trend between Stroop and CNT attentional control (p = 0.07).
+
+> "Results revealed positive internal correlations among cool EF measures. Signiﬁcant positive correlation was found between Backward Digit Span and CNT attentional control ( r = 0.180, p < 0.05),"
+
+### Poon K 2018 (2)
+
+Poon K (2018) Hot and Cool Executive Functions in Adolescence: Development and Contributions to Important Developmental Outcomes. Front. Psychol. 8:2311. https://doi.org/10.3389/fpsyg.2017.02311
+
+`q2 · i?`
+
+Same partial correlation analysis (Table 4). The article reports that none of the hot EF measures were significantly or marginally inter-correlated or correlated with the cool measures, supporting the hypothesized separability of hot and cool EF domains.
+
+> "None of the hot EF measures were signiﬁcantly or marginally inter-correlated or correlated."
+
+## Discussion
+
+
+## Related Claims
+-

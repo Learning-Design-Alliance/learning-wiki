@@ -1,0 +1,39 @@
+---
+type: claim
+title: Visuo-spatial working memory and inhibition jointly predict mathematics performance in 9–10-year-old children
+description: Visuo-spatial working memory and inhibition jointly predict mathematics performance in 9–10-year-old children
+id: visuospatial-wm-inhibition-predict-maths
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+evidence_strength: moderate
+sources:
+  - id: szucs-denes-2013
+    resource: "https://doi.org/10.1016/j.cortex.2013.06.007"
+    title: "Szucs Denes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence. (2013). Developmental dyscalculia is related to visuo-spatial memory and inhibition impairment. Cortex, 49(10). https://doi.org/10.1016/j.cortex.2013.06.007"
+    author: Szucs Denes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence
+---
+
+# Visuo-spatial working memory and inhibition jointly predict mathematics performance in 9–10-year-old children
+
+## Subclaims
+`q3 i?` In simultaneous multiple regression, visuo-spatial WM was a significant predictor and inhibition a marginally significant predictor of maths performance. [→ Szucs Denes 2013](#szucs-denes-2013)
+
+## Evidence
+
+### Szucs Denes 2013
+
+Szucs Denes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence. (2013). Developmental dyscalculia is related to visuo-spatial memory and inhibition impairment. Cortex, 49(10). https://doi.org/10.1016/j.cortex.2013.06.007
+
+`q3 · i?`
+
+Simultaneous multiple regression on the 24-child sample using averaged visuo-spatial memory, inhibition and subitizing slope variables against maths scores; with verbal IQ, Raven and processing speed added, visuo-spatial WM (β = .61) and inhibition (β = .35) remained individually significant.
+
+> "The regression had a significant fit [R2 = .583, F(20,3) = 9.30, p < .0001]. Visuo-spatial WM [Standardized Beta (β) = .48, t(20) = 3.2, p = .0045] was a significant predictor and Inhibition [β = .36, t(20) = 2.06, p = .0522] was a marginally significant predictor."
+
+## Discussion
+
+
+## Related Claims
+-

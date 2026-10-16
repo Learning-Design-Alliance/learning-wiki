@@ -1,0 +1,39 @@
+---
+type: claim
+title: Adults with dyslexia are slower than controls on single-digit arithmetic, with a larger multiplication-minus-subtraction reaction-time difference, even after controlling digit identification speed
+description: Adults with dyslexia are slower than controls on single-digit arithmetic, with a larger multiplication-minus-subtraction reaction-time difference, even after controlling digit identification speed
+id: dyslexia-slower-single-digit-arithmetic-rt
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+evidence_strength: moderate
+sources:
+  - id: bert-de-smedt-2010
+    resource: "https://doi.org/10.1016/j.neuropsychologia.2010.10.018"
+    title: "Bert De Smedt, Bart Boets. (2010). Phonological processing and arithmetic fact retrieval: Evidence from developmental dyslexia. Neuropsychologia, 48, 3973–3981. https://doi.org/10.1016/j.neuropsychologia.2010.10.018"
+    author: Bert De Smedt, Bart Boets
+---
+
+# Adults with dyslexia are slower than controls on single-digit arithmetic, with a larger multiplication-minus-subtraction reaction-time difference, even after controlling digit identification speed
+
+## Subclaims
+`q3 i3` Individuals with dyslexia were slower than controls on single-digit arithmetic, and the difference between multiplication and subtraction was larger in the dyslexia group. [→ Bert De Smedt 2010](#bert-de-smedt-2010)
+
+## Evidence
+
+### Bert De Smedt 2010
+
+Bert De Smedt, Bart Boets. (2010). Phonological processing and arithmetic fact retrieval: Evidence from developmental dyslexia. Neuropsychologia, 48, 3973–3981. https://doi.org/10.1016/j.neuropsychologia.2010.10.018
+
+`q3 · i3`
+
+Repeated-measures ANOVA (operation within-subject, group between-subject) on reaction times in the 25 dyslexia vs 25 control study. The group main effect was also significant (F(1, 48) = 24.31, p < .01, ηp² = .34), and group differences remained when speed of digit identification was covaried (F(1, 47) = 9.46, p < .01, ηp² = .17).
+
+> "There was also a signiﬁcant Group× Operation interaction ( F(1, 48) = 10.55, p < .01, /DC1p2 = .18), suggesting that the difference between multiplication and subtraction was larger in participants with dyslexia than in controls."
+
+## Discussion
+
+
+## Related Claims
+-

@@ -1,0 +1,54 @@
+---
+type: claim
+title: Peer rejection incrementally predicts subsequent behavioral, emotional, and academic maladjustment in children with ADHD beyond ADHD status itself
+description: Peer rejection incrementally predicts subsequent behavioral, emotional, and academic maladjustment in children with ADHD beyond ADHD status itself
+id: peer-rejection-predicts-subsequent-maladjustment-adhd
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+evidence_strength: moderate
+sources:
+  - id: mikami-2015
+    resource: "https://doi.org/10.1007/s40474-014-0036-0"
+    title: "Mikami, A. Y., & Normand, S. (2015). The Importance of Social Contextual Factors in Peer Relationships of Children with ADHD. Curr Dev Disord Rep. https://doi.org/10.1007/s40474-014-0036-0"
+    author: "Mikami, A. Y., & Normand, S"
+  - id: mikami-2015-2
+    resource: "https://doi.org/10.1007/s40474-014-0036-0"
+    title: "Mikami, A. Y., & Normand, S. (2015). The Importance of Social Contextual Factors in Peer Relationships of Children with ADHD. Curr Dev Disord Rep. https://doi.org/10.1007/s40474-014-0036-0"
+    author: "Mikami, A. Y., & Normand, S"
+---
+
+# Peer rejection incrementally predicts subsequent behavioral, emotional, and academic maladjustment in children with ADHD beyond ADHD status itself
+
+## Subclaims
+`q3 i?` Peer rejection augments the risk associated with ADHD diagnostic status for depression, anxiety, delinquency, academic failure, eating pathology, and substance abuse in adolescence. [→ Mikami 2015](#mikami-2015)
+`q3 i?` Peer rejection and ADHD diagnostic status made independent contributions to academic achievement 5 years later, after controlling baseline achievement and IQ. [→ Mikami 2015 (2)](#mikami-2015-2)
+
+## Evidence
+
+### Mikami 2015
+
+Mikami, A. Y., & Normand, S. (2015). The Importance of Social Contextual Factors in Peer Relationships of Children with ADHD. Curr Dev Disord Rep. https://doi.org/10.1007/s40474-014-0036-0
+
+`q3 · i?`
+
+The review synthesizes prospective investigations showing peer rejection adds risk beyond ADHD diagnostic status for adolescent maladjustment outcomes, including "depression, anxiety, delinquency, academic failure, eating pathology, and substance abuse".
+
+> "if children with ADHD are rejected by peers, this augments the risk associated with ADHD diagnostic status for depression, anxiety, delinquency, academic failure, eating pathology, and substance abuse in adolescence"
+
+### Mikami 2015 (2)
+
+Mikami, A. Y., & Normand, S. (2015). The Importance of Social Contextual Factors in Peer Relationships of Children with ADHD. Curr Dev Disord Rep. https://doi.org/10.1007/s40474-014-0036-0
+
+`q3 · i?`
+
+One cited study found independent longitudinal contributions of peer rejection and ADHD status to later academic achievement controlling baseline achievement and IQ; another found classroom peer victimization predicted restricted growth in reading achievement.
+
+> "peer rejection and ADHD diagnostic status made independent contributions to academic achievement 5 years later, after statistical control of the baseline levels of achievement and IQ scores"
+
+## Discussion
+
+
+## Related Claims
+-

@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/selective-substrates-orthographic-ltm-versus-wm.md
+---
+
+# Revision history: [claims/selective-substrates-orthographic-ltm-versus-wm](../claims/selective-substrates-orthographic-ltm-versus-wm.md)
+
+### 2026-10-16 · ingest · process:wiki-ingest
+Ingested from lvn-rapp-2015-neural-bases-of-orthographic-long-term-memory-and-working-me (Neural bases of orthographic long-term memory and working memory in dysgraphia) via eval_harness.py + ingest_extractions.py

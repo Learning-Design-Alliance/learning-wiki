@@ -1,0 +1,39 @@
+---
+type: claim
+title: Frequent and longer screen-based media use, including Internet-related addictive behaviors, is related to a less efficient cognitive control system in adolescence
+description: Frequent and longer screen-based media use, including Internet-related addictive behaviors, is related to a less efficient cognitive control system in adolescence
+id: screen-time-less-efficient-cognitive-control-adolescence
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+evidence_strength: weak
+sources:
+  - id: marciano-laura-2021
+    resource: "https://doi.org/10.3389/fpsyg.2021.671817"
+    title: "Marciano Laura, Camerini Anne-Linda, Morese Rosalba. (2021). The Developing Brain in the Digital Era: A Scoping Review of Structural and Functional Correlates of Screen Time in Adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2021.671817"
+    author: Marciano Laura, Camerini Anne-Linda, Morese Rosalba
+---
+
+# Frequent and longer screen-based media use, including Internet-related addictive behaviors, is related to a less efficient cognitive control system in adolescence
+
+## Subclaims
+`q2 i?` Across the 16 neuroimaging studies reviewed, frequent and longer duration of screen-based media use, including Internet-related addictive behaviors, is related to reduced development of top-down cognitive control in adolescence. [→ Marciano Laura 2021](#marciano-laura-2021)
+
+## Evidence
+
+### Marciano Laura 2021
+
+Marciano Laura, Camerini Anne-Linda, Morese Rosalba. (2021). The Developing Brain in the Digital Era: A Scoping Review of Structural and Functional Correlates of Screen Time in Adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2021.671817
+
+`q2 · i?`
+
+A scoping review synthesizing 16 task-unrelated and task-related neuroimaging studies published 2010-2020 reports this as its first key message, stating that screen time and Internet addiction "is related to a less efficient cognitive control system in adolescence." No pooled effect size is printed.
+
+> "The first key message of this review is that frequent and longer duration of screen-based media use (including Internet-related addictive behaviors) is related to a less efficient cognitive control system in adolescence."
+
+## Discussion
+
+
+## Related Claims
+-

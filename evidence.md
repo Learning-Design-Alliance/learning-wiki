@@ -8,11 +8,11 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 16,128 |
+| Claims | 16,681 |
 | Evidence entries | 19,169 |
 | Distinct studies | 4,768 |
-| Claims resting on one study | 15,676 (97%) |
-| Claims with no coded evidence | 0 |
+| Claims resting on one study | 15,676 (94%) |
+| Claims with no coded evidence | 553 |
 | Studies reporting an effect size | 873 of 4,768 (18%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
@@ -33,7 +33,7 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 |---|---|---|---|
 | 701 (15%) | 2,963 (62%) | 986 (21%) | 118 (2%) |
 
-**Studies per claim:** 0: 0, 1: 15,676, 2: 372, 3: 64, 4 or more: 16.
+**Studies per claim:** 0: 553, 1: 15,676, 2: 372, 3: 64, 4 or more: 16.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -136,7 +136,7 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 213 | 208 | 22 | 0 |
 | [elements](elements/index.md) | 1,066 | 777 | 2 | 0 |
 | [patterns](patterns/index.md) | 65 | 61 | 23 | 0 |
-| [strategies](strategies/index.md) | 5,721 | 2,582 | 5 | 0 |
+| [strategies](strategies/index.md) | 5,770 | 2,582 | 5 | 0 |
 | [processes](processes/index.md) | 18 | 15 | 6 | 0 |
 | [methods](methods/index.md) | 38 | 22 | 1 | 0 |
 | [theories](theories/index.md) | 1,361 | 908 | 1 | 0 |
