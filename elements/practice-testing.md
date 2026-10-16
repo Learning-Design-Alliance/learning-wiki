@@ -79,6 +79,12 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Transfer of test-enhanced learning is weakest to rearranged stimulus-response items, to untested materials seen during initial study, and to problems involving worked examples](../claims/transfer-weakest-rearranged-untested-materials-worked-examples.md) [~W]
 - [Effects of instructions on some measures were inconsistent across experiments, and instructed students did not recall all items to criterion](../claims/mixed-effects-across-experiments-criterion-failures.md) [~W]
 
+## The evidence by question
+- *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
+- *Does the benefit carry to new questions, inferences and applications, or only to the items practised?* [Retrieval Practice Improves Transfer](../claims/retrieval-practice-improves-transfer.md) [+S]
+- *Does testing learners before instruction, when they cannot yet answer, improve what they learn from it?* [Pretesting enhances learning](../claims/pretesting-enhances-learning.md) [+S]
+- *Will learners choose to test themselves on their own, and can they be taught to?* [Learners underuse effective learning strategies such as spacing and retrieval practice](../claims/learners-underuse-effective-learning-strategies.md) [+M]
+
 ## Related Elements
 - [Practice](practice.md) — practice testing is the memory-focused subset of practice; both depend on active production rather than review
 - [Feedback](feedback.md) — corrects errors surfaced by retrieval; testing without feedback risks consolidating mistakes

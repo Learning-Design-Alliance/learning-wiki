@@ -53,6 +53,9 @@ Learning-style preferences are learners' reported preferences for one mode or fo
 - [Preservice teachers' reflective thinking tendencies differ statistically by learning style in all seven dimensions](../claims/reflective-thinking-differs-by-learning-style.md) [+W] — learners who differ on it differ in outcomes
 - [Students preferring combination-style chatbots had higher total EBAPS scores than students preferring direct-answer chatbots (nominal significance only)](../claims/combination-preferrers-higher-total-ebaps-than-answer-preferrers.md) [+M] — learners who differ on it differ in outcomes
 
+## The evidence by question
+- *What should the adaptation be based on: responses, or learner styles and preferences?* [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [+S]
+
 ## Related Learner Variables
 - [Prior Knowledge](prior-knowledge.md)
 - [Motivation](motivation.md)

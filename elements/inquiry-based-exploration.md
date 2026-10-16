@@ -59,6 +59,11 @@ Inquiry can build deep conceptual understanding and durable engagement because l
 - [The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills](../claims/ai-ibi-mainly-supports-creativity-and-affect.md) [-W]
 - [ChatGPT use in STEAM IBL is reported to enhance learner outcomes including motivation, critical thinking, engagement, and problem-solving](../claims/chatgpt-steam-ibl-learner-advantages.md) [+W]
 
+## The evidence by question
+- *Does inquiry-based teaching raise science achievement over the usual instruction?* [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+S]
+- *Does adding guidance to inquiry improve what learners learn, and does the kind of guidance matter?* [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](../claims/guidance-improves-inquiry-learning-outcomes.md) [+M]
+- *Should novices be left to discover the target content without support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]
+
 ## Related Elements
 - [Problem Scenario](problem-scenario.md) — the designed problem that anchors and bounds the investigation
 - [Collaborative Problem-Solving](collaborative-problem-solving.md) — the social mode through which much inquiry happens

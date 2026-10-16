@@ -62,6 +62,12 @@ CPS improves learning when the group's discussion forces learners to externalize
 - [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](../claims/active-collaborative-approaches-higher-order-thinking.md) [+W]
 - [Groups of high-performing students often fail problem-solving tasks when they do not collaborate, showing why collaborative skills need assessment and feedback](../claims/high-performing-groups-fail-without-collaboration.md) [+W]
 
+## The evidence by question
+
+- *Does working jointly on a task raise achievement over working alone or instruction without group work?* [Collaborative Learning Improves Outcomes](../claims/collaborative-learning-improves-outcomes.md) [+S]
+- *What makes joint work fail: the task, group size and composition, or how members take part?* [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](../claims/collaborative-situations-often-fail-productive.md) [~W]
+- *Do AI tools in a group's workspace improve its collaborative problem solving, and how does the way a group works with the AI change the result?* [GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students](../claims/gai-assisted-dst-improves-cps-skills.md) [+M]
+
 ## Related Elements
 - [Collaboration](collaboration.md) — the general group-work element; CPS is its problem-anchored form
 - [Collaborative Decision-Making](collaborative-decision-making.md) — the negotiation sub-process groups use to converge on an approach

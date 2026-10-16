@@ -47,6 +47,9 @@ The taxonomy identifies four attributes of high-impact ePortfolio practice: "1. 
 - [Philanthropic Studies case: ePortfolio moved from a capstone-only final project to full curricular integration across four required courses over a decade](../claims/philanthropic-studies-epportfolio-curricular-integration.md) [+W]
 - [Public capstone ePortfolio showcases gave students an authentic audience and renewed energy and focus for integrative work](../claims/public-capstone-epportfolio-showcase-audience-effect.md) [+W]
 
+## The evidence by question
+- *Does building a portfolio in a course raise learners' engagement, achievement and persistence?* [Compared with non-ePortfolio peers, students in courses requiring ePortfolios were generally more engaged, earned higher grades, and were more likely to complete and persist, per the 26-institution project evidence](../claims/epportfolio-courses-engagement-grades-persistence.md) [+M]
+
 ## Related Patterns
 - 
 

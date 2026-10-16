@@ -44,6 +44,11 @@ Larsen-Pusey's Functional Approach is a teaching model that bridges the gap betw
 - [The BICS-before-CALP sequence is typical for immigrant children but not universal: high L2 CALP can precede fluent L2 BICS in certain situations](../claims/calp-can-precede-bics-in-certain-situations.md) [~W]
 - [Integrating oral and written English language instruction into content-area teaching shows positive impacts on content-area acquisition in five RCTs](../claims/integrate-oral-written-language-content-teaching.md) [+M]
 
+## The evidence by question
+
+- *How long do second-language learners take to reach conversational fluency compared with academic language proficiency, and is conversation always first?* [Immigrant children acquire peer-appropriate conversational fluency in English within about 2 years but require considerably longer (5-10 years) to catch up academically in English](../claims/bics-acquired-faster-than-calc-immigrant-children.md) [+W]
+- *Does teaching oral and written academic language within content lessons improve English learners' content learning?* [Integrating oral and written English language instruction into content-area teaching shows positive impacts on content-area acquisition in five RCTs](../claims/integrate-oral-written-language-content-teaching.md) [+M]
+
 ## Related Patterns
 - 
 

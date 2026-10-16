@@ -79,6 +79,13 @@ TPACK is not additive — a teacher cannot be TPACK-competent by separately mast
 - [Online Tpack Program Shift Student Centered Strategies](../claims/online-tpack-program-shift-student-centered-strategies.md) [+M]
 - [Teachers reported that students needed dedicated time to learn and explore technologies before being expected to gain mathematics understanding from them](../claims/students-need-time-learn-technology-first.md) [~W]
 
+## The evidence by question
+
+- *Does a TPACK-based course or programme build teachers' capacity to design technology-integrated instruction, and does the gain last?* [A 13-week TPACK-based course significantly improves pre-service preschool teachers' instructional design competence compared with traditional instruction](../claims/tpack-course-improves-preservice-preschool-idc.md) [+M]
+- *Which teacher knowledge predicts integrating AI into teaching: technology knowledge alone, or knowledge integrated with pedagogy and content, together with beliefs?* [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](../claims/teacher-beliefs-mediate-ai-integration.md) [+M]
+- *Does teachers' technology-integration knowledge rise with teaching experience, grade or age, or differ by gender?* [Teaching experience does not significantly enhance MTES AI-TPACK proficiency, though experienced MTES scored slightly higher on every variable](../claims/teaching-experience-no-aick-gain.md) [~M]
+- *Does a technology's benefit come from the technology or from the pedagogy it is used within?* [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](../claims/gai-value-contingent-on-pedagogical-integration.md) [+M]
+
 ## Related Theories
 
 - [TPACK framework (Technological, Pedagogical and Content Knowledge) for teacher technology integration](tpack-framework-teacher-technology-integration.md)

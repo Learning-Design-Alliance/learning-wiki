@@ -50,6 +50,11 @@ Transfer-appropriate processing holds that performance is best when initial lear
 - [Teachers report changing high-quality instruction to match state and interim test formats, limiting deep learning opportunities](../claims/teachers-alter-instruction-to-match-test-formats.md) [~W]
 - [Transfer of test-enhanced learning is weakest to rearranged stimulus-response items, to untested materials seen during initial study, and to problems involving worked examples](../claims/transfer-weakest-rearranged-untested-materials-worked-examples.md) [+W]
 
+## The evidence by question
+
+- *Should practice before the assessment match the assessed task's format and level?* [The classroom testing effect transfers to mismatched test formats, but consistent quiz–exam formats yield a significantly larger effect (g = 0.531 vs. g = 0.399).](../claims/format-consistency-moderates-classroom-testing-effect.md) [+M]
+- *Does the benefit carry to new questions, inferences and applications, or only to the items practised?* [Retrieval Practice Improves Transfer](../claims/retrieval-practice-improves-transfer.md) [~S]
+
 ## Related Theories
 - 
 

@@ -57,6 +57,12 @@ Because working memory is severely limited and attention is selective, instructi
 - [Automatically updating the flowchart and injecting generated code into editors drew participants away from explanations and toward direct code editing](../claims/auto-updates-drew-users-from-explanations.md) [-W]
 - [Coordinating attention between whole-strip length and dot spacing does not disrupt and may stabilize the idea that shorter strips take less time](../claims/part-whole-coordination-preserves-initial-idea.md) [+W]
 
+## The evidence by question
+- *Do cues that highlight the essential material and its organisation improve learning, and by how much?* [Signaling Improves Learning](../claims/signaling-improves-learning.md) [+S]
+- *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]
+- *Does breaking a continuous presentation into segments improve learning over presenting it whole?* [Segmenting Improves Multimedia Learning](../claims/segmenting-improves-multimedia-learning.md) [+M]
+- *Does physical activity during the school day (movement breaks, active lessons, organised active recess) improve children's on-task behavior and readiness for class?* [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+S]
+
 ## Related Elements
 - [Chunking](../principles/chunking.md) — defines the unit of attention; attention management without chunking has nothing well-sized to point at
 - [Advance Organizers](advance-organizers.md) — orients attention before exposure begins

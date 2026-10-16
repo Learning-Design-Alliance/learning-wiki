@@ -43,6 +43,10 @@ The article recommends that preschool institutions modernize curricula to includ
 - [False Belief Training No Language Effect](../claims/false-belief-training-no-language-effect.md) [~M]
 - [Theory of mind effect on semantic fluency in preschool children is statistically non-significant but approaches significance](../claims/tom-marginal-non-significant-semantic-fluency.md) [-W]
 
+## The evidence by question
+- *Do young children's executive functions (and theory of mind) predict their language and early academic skills?* [Executive function performance significantly predicts semantic fluency in preschool children](../claims/ef-significant-effect-semantic-fluency-preschool.md) [+M]
+- *Does training executive function or theory of mind in early childhood improve language and literacy?* [False-belief training improves preschoolers' theory of mind scores but the review reports it has no effect on language skills](../claims/false-belief-training-no-language-effect.md) [-W]
+
 ## Related Principles
 - 
 

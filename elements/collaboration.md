@@ -41,6 +41,11 @@ Collaboration is the short-form canonical target for learners working together t
 - [Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time](../claims/plc-norms-three-categories-trust-prerequisite.md) [+M]
 - [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+S]
 
+## The evidence by question
+
+- *Does working jointly on a task raise achievement over working alone or instruction without group work?* [Collaborative Learning Improves Outcomes](../claims/collaborative-learning-improves-outcomes.md) [+S]
+- *What makes joint work fail: the task, group size and composition, or how members take part?* [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](../claims/collaborative-situations-often-fail-productive.md) [~W]
+
 ## Related Elements
 - [Peer Collaboration](peer-collaboration.md)
 - [Group Work](group-work.md)

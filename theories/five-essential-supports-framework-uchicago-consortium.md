@@ -50,6 +50,10 @@ The agenda describes the Consortium's Five Essential Supports framework, in whic
 - [Family engagement in schools is closely linked to improved student academic achievement, social skills, and fewer behavior issues](../claims/family-engagement-linked-student-outcomes.md) [+W]
 - [Freshman OnTrack rates improved by as much as 3.25 percentage points more in high schools with strong 5Essentials Survey measures](../claims/freshman-ontrack-strong-5essentials-measures.md) [+W]
 
+## The evidence by question
+- *Are schools strong on several of the five essential supports more likely to improve student learning than schools weak on them?* [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+M]
+- *Do schools that score strong on the 5Essentials Survey go on to improve more on attendance, grades and on-track rates, and in which schools?* [5Essentials Survey measures predict school improvement in elementary and high schools, but not all measures relate to all outcomes](../claims/5essentials-measures-positively-associated-improvement.md) [+M]
+
 ## Related Theories
 
 - [The Early Education Essentials framework: six organizational essential supports for ECE programs](early-education-essentials-six-essential-supports-framework.md)
