@@ -37,7 +37,7 @@ The article recommends that neurocognitive assessment of bullying roles can info
 - reducing bullying behavior and supporting students' behavioral regulation and resilience
 
 ### Affordances
-- [Hot Cold Executive Functions Bullying Roles](../theories/hot-cold-executive-functions-bullying-roles.md)
+- Hot Cold Executive Functions Bullying Roles
 
 ## Related Strategies
 - 

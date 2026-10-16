@@ -38,7 +38,7 @@ Given that reward prospect significantly improves IC, the authors propose using 
 - Strengthening self-control and health-related inhibitory behaviour change
 
 ### Affordances
-- [Inhibitory Control Transient Motivation Sensitive State](../theories/inhibitory-control-transient-motivation-sensitive-state.md)
+- Inhibitory Control Transient Motivation Sensitive State
 
 ## Related Strategies
 - 

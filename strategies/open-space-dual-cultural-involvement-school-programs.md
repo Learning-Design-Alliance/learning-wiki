@@ -40,7 +40,7 @@ Based on the finding that balanced bicultural identification relates to cognitiv
 - integration
 
 ### Affordances
-- [Acculturation Complexity Model](../theories/acculturation-complexity-model.md)
+- Acculturation Complexity Model
 
 ## Related Strategies
 - 

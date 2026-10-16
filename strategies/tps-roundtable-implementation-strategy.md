@@ -39,7 +39,7 @@ The article's procedure offers an implementable recipe: a teacher with over 10 y
 - Observation, interpretation, analysis (inferences), and argumentation
 
 ### Affordances
-- [Cooperative Learning Five Basic Elements](../theories/cooperative-learning-five-basic-elements.md)
+- [Cooperative Learning Five Basic Elements](../theories/five-basic-elements-of-cooperative-learning.md)
 
 ## Related Strategies
 - 

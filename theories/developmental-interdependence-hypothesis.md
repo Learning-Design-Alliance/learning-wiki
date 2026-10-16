@@ -39,8 +39,10 @@ The developmental interdependence hypothesis is the paper's central explanatory 
 - Academic achievement in bilingual education programs
 
 ### Claims
+
 - [L1 Maintenance Supports L2 Without Cost](../claims/l1-maintenance-supports-l2-without-cost.md) [+M]
 - [Mother Tongue Preservation Predicts L2 Achievement](../claims/mother-tongue-preservation-predicts-l2-achievement.md) [+M]
+- [Native signers of ASL show more proficient bilingual abilities than non-native signers](../claims/native-signers-higher-bilingual-abilities.md) [+M] — attached 2026-10-16 from Freel et al. (2011), which proposed "Linguistic Interdependence Theory applied to deaf bilingual education"; tests this page's relationship.
 
 ## Related Theories
 

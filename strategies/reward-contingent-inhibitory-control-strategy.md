@@ -39,7 +39,7 @@ The article's authors draw a direct applied implication: because reward improved
 - improving inhibitory control (cancellation and restraint of responses)
 
 ### Affordances
-- [Incentive Salience Account Of Reward Ic](../theories/incentive-salience-account-of-reward-ic.md)
+- Incentive Salience Account Of Reward Ic
 
 ## Related Strategies
 - 

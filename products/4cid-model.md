@@ -20,6 +20,7 @@ The Four-Component Instructional Design model is a framework developed by van Me
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **4C/ID model as a blueprint for complex learning**: The 4C/ID model, authored by the first author of this review, is cited in the article's reference list as "Blueprints for complex learning: The 4C/ID-model" (van Merriënboer, Clark, and de Croock, 2002a). It represents a blueprint approach to designing complex learning consistent with the review's real-life-task perspective on managing high intrinsic load in complex skill acquisition. (van Merriënboer et al. (2005))
 
 ### Claims
 - [Four interrelated components are essential in blueprints for complex learning](../claims/four-components-essential-complex-learning-blueprints.md) [+W]
@@ -29,3 +30,4 @@ The Four-Component Instructional Design model is a framework developed by van Me
 
 ## Key Sources
 - van Merriënboer, J.J.G., Clark, R.E. & de Croock, M.B.M. (2002). Blueprints for complex learning: The 4C/ID-model. ETR&D. https://doi.org/10.1007/BF02504993
+- van Merriënboer, J.J.G., Sweller, J. (2005). Cognitive Load Theory and Complex Learning: Recent Developments and Future Directions. Educ Psychol Rev 17, 147–177 (2005). https://doi.org/10.1007/s10648-005-3951-0

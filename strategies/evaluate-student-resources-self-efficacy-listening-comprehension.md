@@ -37,7 +37,7 @@ Based on the finding that vocabulary mediated the self-efficacy to listening com
 - Listening comprehension of oral texts
 
 ### Affordances
-- [Listening Comprehension Models Dominant Vocabulary Role](../theories/listening-comprehension-models-dominant-vocabulary-role.md)
+- Listening Comprehension Models Dominant Vocabulary Role
 
 ## Related Strategies
 - 

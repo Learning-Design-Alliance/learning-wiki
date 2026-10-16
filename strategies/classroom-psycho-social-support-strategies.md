@@ -40,7 +40,7 @@ The article recommends classroom interventions to develop secondary teachers' sk
 - sense of belonging
 
 ### Affordances
-- [Academic Mindset Four Component Construct](../theories/academic-mindset-four-component-construct.md)
+- Academic Mindset Four Component Construct
 
 ## Related Strategies
 - 

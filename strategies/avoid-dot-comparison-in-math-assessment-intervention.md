@@ -38,7 +38,7 @@ Because the dot comparison task's correlation with mathematics achievement appea
 - valid measurement of nonsymbolic number skills in mathematics assessment and intervention
 
 ### Affordances
-- [Inhibition Account Of Dot Comparison Performance](../theories/inhibition-account-of-dot-comparison-performance.md)
+- Inhibition Account Of Dot Comparison Performance
 
 ## Related Strategies
 - 

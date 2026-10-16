@@ -38,7 +38,7 @@ Based on the mediation findings, the authors recommend that interventions addres
 - academic engagement and achievement
 
 ### Affordances
-- [Sdt Framework Bullying Motivation Achievement](../theories/sdt-framework-bullying-motivation-achievement.md)
+- [Sdt Framework Bullying Motivation Achievement](../theories/self-determination-theory.md)
 
 ## Related Strategies
 - 

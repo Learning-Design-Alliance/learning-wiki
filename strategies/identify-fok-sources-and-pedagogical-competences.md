@@ -37,7 +37,7 @@ The article identifies sources of students' funds of knowledge/identity and disc
 - integrating students' family, community and peer-group knowledge into classroom teaching
 
 ### Affordances
-- [Funds Of Knowledge Identity Theory Superdiverse Primary](../theories/funds-of-knowledge-identity-theory-superdiverse-primary.md)
+- [Funds Of Knowledge Identity Theory Superdiverse Primary](../theories/funds-of-knowledge.md)
 
 ## Related Strategies
 - 

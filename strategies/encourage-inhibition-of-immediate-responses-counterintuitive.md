@@ -37,7 +37,7 @@ Based on the finding that inhibitory control is associated with counterintuitive
 - Overcoming science and maths misconceptions during counterintuitive reasoning
 
 ### Affordances
-- [Inhibition Suppression Account Counterintuitive Reasoning](../theories/inhibition-suppression-account-counterintuitive-reasoning.md)
+- [Inhibition Suppression Account Counterintuitive Reasoning](../theories/executive-function-development.md)
 
 ## Related Strategies
 - 

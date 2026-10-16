@@ -38,7 +38,7 @@ Based on their finding that flexibility uniquely predicted achievement only in G
 - mathematics achievement
 
 ### Affordances
-- [Ef Three Core Components Model](../theories/ef-three-core-components-model.md)
+- [Ef Three Core Components Model](../theories/executive-function-development.md)
 
 ## Related Strategies
 - 

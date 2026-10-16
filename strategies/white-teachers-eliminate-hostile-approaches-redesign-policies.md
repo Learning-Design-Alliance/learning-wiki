@@ -40,8 +40,8 @@ The review's discussion recommends that White teachers in schools upholding Whit
 - Positive racial adjustment
 
 ### Affordances
-- [Crt Framework Institutional Racism Schools](../theories/crt-framework-institutional-racism-schools.md)
-- [Racial Battle Fatigue Framework](../theories/racial-battle-fatigue-framework.md)
+- Crt Framework Institutional Racism Schools
+- Racial Battle Fatigue Framework
 
 ## Related Strategies
 - 

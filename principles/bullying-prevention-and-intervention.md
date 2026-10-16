@@ -110,6 +110,7 @@ Learners, outcomes and reporters differ across these claims (teacher ratings in 
 - [Four-day school weeks decrease per-pupil bullying incidents among high school students by approximately 39%](../claims/four-day-week-decreases-bullying-incidents.md) [+M] — a difference-in-differences study of Oklahoma districts; a schedule change, not a prevention programme, counted from incident records. It shows that school-level arrangements move recorded bullying; it is not a recommendation to cut a day.
 - [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear](../claims/toxic-stress-impedes-learning.md) [+W] — a narrative synthesis giving the mechanism behind step 8; no data printed.
 - [School shooters are rarely the bullied loners of popular stereotype, and bullying prevention alone will not eliminate shootings](../claims/shooters-not-bullied-loners.md) [~M] — a review brief; limits what bullying prevention is expected to prevent, used in the threat row.
+- [Role-plays and ensuing discussions fostered bullying vocabulary, knowledge, metacognition and empathy that the authors credit for the reduction](../claims/role-play-discussion-built-knowledge-empathy.md) [+W] — attached 2026-10-16 from Peadar Donohoe et al. (2015), which proposed "No name, no blame discussion of bullying incidents".
 
 ## Objective and learner-valued goal
 

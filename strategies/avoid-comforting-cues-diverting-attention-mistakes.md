@@ -37,7 +37,7 @@ Based on the finding that attention to mistakes is a crucial mechanism of post-e
 - learning from mistakes and post-error recovery during academic tasks
 
 ### Affordances
-- [Pe Attention Allocation Mindset Theory](../theories/pe-attention-allocation-mindset-theory.md)
+- Pe Attention Allocation Mindset Theory
 
 ## Related Strategies
 - 

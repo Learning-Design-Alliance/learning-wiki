@@ -37,7 +37,7 @@ The article's closing recommendation is to apply the reviewed neuroscience princ
 - selective attention skills relevant to academic foundations
 
 ### Affordances
-- [Neurobiological Framework Selective Attention Deployment Response Conflict](../theories/neurobiological-framework-selective-attention-deployment-response-conflict.md)
+- Neurobiological Framework Selective Attention Deployment Response Conflict
 
 ## Related Strategies
 - 

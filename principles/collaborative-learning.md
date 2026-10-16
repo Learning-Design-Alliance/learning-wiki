@@ -127,6 +127,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [The article cautions that CL-structured group activities are only a potential part of the solution for ER motivation, not a guarantee](../claims/cl-not-magic-wand-for-er-motivation.md) [~W]
 - [Extensive reading accompanied by peer interaction produced greater reading achievement gains than ER without peer interaction, no ER, or ER with teacher conferences](../claims/er-peer-interaction-greater-achievement-gains.md) [+M]
 - [The article advances a five-part rationale for benefits of adding a peer element to extensive reading](../claims/five-rationales-peer-element-er.md) [~W]
+- [Collaborative problem-solving significantly improves students' critical thinking overall (ES = 0.82)](../claims/collaborative-problem-solving-improves-critical-thinking-overall.md) [+M] — attached 2026-10-16 from Xu et al. (2023), which proposed "Design collaborative problem-solving for critical thinking around real problems, mixed courses, small groups, and teacher-supported scaffolds"; tests this page's relationship.
+- [Mixed courses show the largest effect among teaching types (ES = 1.34), and effects decline as group size increases beyond 2–3 members](../claims/mixed-courses-and-small-groups-strongest-cps-effects.md) [+M] — attached 2026-10-16 from Xu et al. (2023), which proposed "Design collaborative problem-solving for critical thinking around real problems, mixed courses, small groups, and teacher-supported scaffolds".
 
 ## Objective and learner-valued goal
 
