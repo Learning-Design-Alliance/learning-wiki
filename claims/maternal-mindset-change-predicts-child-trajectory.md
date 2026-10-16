@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.3389/fpsyg.2023.1110944"
     title: "Jiao Chen and Chunhui Liu. (2023). The longitudinal association between children’s growth mindset in senior primary school and their parents’ growth mindset. Front. Psychol. 14:1110944. https://doi.org/10.3389/fpsyg.2023.1110944"
     author: Jiao Chen and Chunhui Liu
+    q: 3
+    i: "?"
 ---
 
 # The rate of change in mothers' growth mindset predicted both children's later growth mindset level and children's own rate of change
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Mothers' growth mindset slope predicted children's intercept (β = 0.215, p = 0.008 conditional) and children's slope (β = 0.362, p = 0.006 conditional): when mothers' mindset declined more rapidly, children's declined more rapidly. [→ Jiao Chen and Chunhui Liu 2023](#jiao-chen-and-chunhui-liu-2023)

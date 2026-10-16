@@ -16,6 +16,9 @@ sources:
 
 # Tailor calibration interventions to whether a student is over- or under-confident
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The authors recommend that interventions to improve children's calibration be matched to the direction of the child's miscalibration. As they state, "different methods are likely to be required depending on whether a student is over- or under-confident in their ability": over-confident students need help developing a more realistic understanding of their ability, while under-confident students may benefit from interventions aimed at boosting their confidence. The Bias Index identifies the direction of miscalibration.
 

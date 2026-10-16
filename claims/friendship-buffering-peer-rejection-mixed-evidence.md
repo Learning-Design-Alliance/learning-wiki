@@ -12,10 +12,15 @@ sources:
   - id: mikami-2015
     resource: "https://doi.org/10.1007/s40474-014-0036-0"
     title: "Mikami, A. Y., & Normand, S. (2015). The Importance of Social Contextual Factors in Peer Relationships of Children with ADHD. Curr Dev Disord Rep. https://doi.org/10.1007/s40474-014-0036-0"
-    author: "Mikami, A. Y., & Normand, S"
+    author: "Mikami, A. Y., & Normand, S."
+    q: 2
+    i: "?"
 ---
 
 # Findings are mixed on whether friendship buffers the negative effects of peer rejection for children with ADHD
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Some studies found having at least one good friend buffers the negative effects of peer rejection on maladjustment and victimization, but an ADHD-sample study found only peer rejection, not friendship, contributed to later depression. [→ Mikami 2015](#mikami-2015)

@@ -10,20 +10,23 @@ generated:
 evidence_strength: moderate
 sources:
   - id: liu-s-2020
-    resource: "https://doi.org/10.3389/fpsyg.2020.554915"
-    title: "Liu S, Yu Q, Li Z, Cunha PM, Zhang Y, Kong Z, Lin W, Chen S and Cai Y (2020) Effects of Acute and Chronic Exercises on Executive Function in Children and Adolescents: A Systemic Review and Meta-Analysis. Front. Psychol. 11:554915. https://doi.org/10.3389/fpsyg.2020.554915"
-    author: Liu S, Yu Q, Li Z, Cunha PM, Zhang Y, Kong Z, Lin W, Chen S and Cai Y
+    title: Liu S 2020
+    q: 3
+    i: 2
   - id: liu-s-2020-2
-    resource: "https://doi.org/10.3389/fpsyg.2020.554915"
-    title: "Liu S, Yu Q, Li Z, Cunha PM, Zhang Y, Kong Z, Lin W, Chen S and Cai Y (2020) Effects of Acute and Chronic Exercises on Executive Function in Children and Adolescents: A Systemic Review and Meta-Analysis. Front. Psychol. 11:554915. https://doi.org/10.3389/fpsyg.2020.554915"
-    author: Liu S, Yu Q, Li Z, Cunha PM, Zhang Y, Kong Z, Lin W, Chen S and Cai Y
+    title: Liu S 2020 (2)
+    q: 3
+    i: 1
   - id: liu-s-2020-3
-    resource: "https://doi.org/10.3389/fpsyg.2020.554915"
-    title: "Liu S, Yu Q, Li Z, Cunha PM, Zhang Y, Kong Z, Lin W, Chen S and Cai Y (2020) Effects of Acute and Chronic Exercises on Executive Function in Children and Adolescents: A Systemic Review and Meta-Analysis. Front. Psychol. 11:554915. https://doi.org/10.3389/fpsyg.2020.554915"
-    author: Liu S, Yu Q, Li Z, Cunha PM, Zhang Y, Kong Z, Lin W, Chen S and Cai Y
+    title: Liu S 2020 (3)
+    q: 3
+    i: 1
 ---
 
 # Chronic exercise significantly improves working memory, inhibitory control, and cognitive flexibility in children and adolescents
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 3 studies · `q3` peer-reviewed experiment · `i1`–`i2`
 
 ## Subclaims
 `q3 i2` Chronic exercises significantly improve working memory (SMD = −0.54, a moderate effect). [→ Liu S 2020](#liu-s-2020)

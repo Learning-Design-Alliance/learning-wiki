@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1016/j.cortex.2013.06.007"
     title: "Szucs Denes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence. (2013). Developmental dyscalculia is related to visuo-spatial memory and inhibition impairment. Cortex, 49(10). https://doi.org/10.1016/j.cortex.2013.06.007"
     author: Szucs Denes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence
+    q: 2
+    i: "?"
 ---
 
 # Definitions of developmental dyscalculia vary widely across studies, with diagnostic cutoffs ranging from below the 3rd to below the 25th percentile
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` There is no agreed definition of DD and cutoff variation across studies may contribute to disagreeing findings. [→ Szucs Denes 2013](#szucs-denes-2013)

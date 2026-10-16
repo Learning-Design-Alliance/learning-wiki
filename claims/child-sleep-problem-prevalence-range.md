@@ -10,12 +10,15 @@ generated:
 evidence_strength: weak
 sources:
   - id: stormark-km-2019
-    resource: "https://doi.org/10.1371/journal.pone.0224139"
-    title: "Stormark KM, Fosse HE, Pallesen S, Hysing M (2019) The association between sleep problems and academic performance in primary school-aged children: Findings from a Norwegian longitudinal population-based study. PLoS ONE 14(11): e0224139. https://doi.org/10.1371/journal.pone.0224139"
-    author: Stormark KM, Fosse HE, Pallesen S, Hysing M
+    title: Stormark KM 2019
+    q: 2
+    i: "?"
 ---
 
 # Sleep problems are common in school-aged children, with prevalence estimates ranging widely depending on assessment mode and definition
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Estimated prevalence of sleep problems in children and adolescents ranges from 11% to 47% depending on sample, assessment mode and definition. [→ Stormark KM 2019](#stormark-km-2019)

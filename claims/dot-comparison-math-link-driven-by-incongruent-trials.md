@@ -12,10 +12,15 @@ sources:
   - id: gilmore-c-2013
     resource: "https://doi.org/10.1371/journal.pone.0067374"
     title: "Gilmore C, Attridge N, Clayton S, Cragg L, Johnson S, Marlow N, Simms V, Inglis M. (2013). Individual Differences in Inhibitory Control, Not Non-Verbal Number Acuity, Correlate with Mathematics Achievement. PLoS ONE 8(6): e67374. https://doi.org/10.1371/journal.pone.0067374"
-    author: Gilmore C, Attridge N, Clayton S, Cragg L, Johnson S, Marlow N, Simms V, Inglis M
+    author: Gilmore C, Attridge N, Clayton S, Cragg L, Johnson S, Marlow N, Simms V, Inglis M.
+    q: 3
+    i: 3
 ---
 
 # The correlation between dot comparison performance and children's mathematics achievement is driven by incongruent, not congruent, trials
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` In Experiment 1, performance on incongruent dot comparison trials correlated strongly with mathematics achievement (r = .55) while congruent trials did not (r = .03), and the two correlations differed significantly. [→ Gilmore C 2013](#gilmore-c-2013)

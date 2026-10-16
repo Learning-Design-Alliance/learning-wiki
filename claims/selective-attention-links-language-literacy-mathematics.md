@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1016/j.dcn.2011.11.001"
     title: "Stevens, Courtney; Bavelier, Daphné. (2012). The role of selective attention on academic foundations: A cognitive neuroscience perspective. Developmental cognitive neuroscience, vol. 2S, p. S30–S48. https://doi.org/10.1016/j.dcn.2011.11.001"
     author: Stevens, Courtney; Bavelier, Daphné
+    q: 2
+    i: "?"
 ---
 
 # Selective attention processes are hypothesized to relate to language, literacy, and mathematics, three domains important to early academic skills
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The review relates selective attention processes to three domains important to academic foundations: language, literacy, and mathematics. [→ Stevens 2012](#stevens-2012)

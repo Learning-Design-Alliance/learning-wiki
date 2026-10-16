@@ -12,14 +12,21 @@ sources:
   - id: goldstein-2021
     resource: "https://doi.org/10.1038/s41390-020-01188-6"
     title: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L. (2021). Influence of race/ethnicity and income on the link between adverse childhood experiences and child flourishing. Pediatric Research. https://doi.org/10.1038/s41390-020-01188-6"
-    author: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L"
+    author: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L."
+    q: 2
+    i: "?"
   - id: goldstein-2021-2
     resource: "https://doi.org/10.1038/s41390-020-01188-6"
     title: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L. (2021). Influence of race/ethnicity and income on the link between adverse childhood experiences and child flourishing. Pediatric Research. https://doi.org/10.1038/s41390-020-01188-6"
-    author: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L"
+    author: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L."
+    q: 2
+    i: "?"
 ---
 
 # Moderation by race/ethnicity: White children show significantly greater flourishing decrements as ACEs increase, while Black and Hispanic children show steeper declines in family resilience
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` White children experienced significantly greater decrements in flourishing compared to Black and Hispanic children as ACEs increased, including a steeper decline in interest and curiosity in learning. [→ Goldstein 2021](#goldstein-2021)

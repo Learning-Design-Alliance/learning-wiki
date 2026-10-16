@@ -12,10 +12,15 @@ sources:
   - id: sanderud-k-2016
     resource: "https://doi.org/10.3402/ejpt.v7.32061"
     title: "Sanderud K., Murphy S., Elklit A. (2016). Child maltreatment and ADHD symptoms in a sample of young adults. European Journal of Psychotraumatology. https://doi.org/10.3402/ejpt.v7.32061"
-    author: Sanderud K., Murphy S., Elklit A
+    author: Sanderud K., Murphy S., Elklit A.
+    q: 3
+    i: 3
 ---
 
 # In a national sample of young Danish adults, all three maltreatment latent classes showed significantly increased risk of probable ADHD relative to the non-abused class, strongest for the overall abuse class (OR=5.08), then emotional abuse (OR=3.09) and sexual abuse (OR=2.07)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` The overall abuse class showed over a fivefold increase in probable ADHD relative to the non-abused class (OR=5.08). [→ Sanderud K. 2016](#sanderud-k-2016)

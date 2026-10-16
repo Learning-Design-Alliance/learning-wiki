@@ -12,10 +12,15 @@ sources:
   - id: mikami-2015
     resource: "https://doi.org/10.1007/s40474-014-0036-0"
     title: "Mikami, A. Y., & Normand, S. (2015). The Importance of Social Contextual Factors in Peer Relationships of Children with ADHD. Curr Dev Disord Rep. https://doi.org/10.1007/s40474-014-0036-0"
-    author: "Mikami, A. Y., & Normand, S"
+    author: "Mikami, A. Y., & Normand, S."
+    q: 3
+    i: 2
 ---
 
 # Children with ADHD show medium-to-large peer problems relative to typically developing youth, with effect sizes from d=.72 (no comorbidities) to d=1.25 (comorbid conduct problems)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` A meta-analysis reported peer problem effect sizes of d=.72 for children with ADHD without comorbidities and d=1.25 for those with comorbid conduct problems, relative to typically developing youth. [→ Mikami 2015](#mikami-2015)

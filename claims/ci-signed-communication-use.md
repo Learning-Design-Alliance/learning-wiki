@@ -12,14 +12,21 @@ sources:
   - id: punch-2011
     resource: "https://doi.org/10.1155/2011/573280"
     title: "Punch, R., & Hyde, M. B. (2011). Communication, Psychosocial, and Educational Outcomes of Children with Cochlear Implants and Challenges Remaining for Professionals and Parents. International Journal of Otolaryngology. https://doi.org/10.1155/2011/573280"
-    author: "Punch, R., & Hyde, M. B"
+    author: "Punch, R., & Hyde, M. B."
+    q: 2
+    i: "?"
   - id: punch-2011-2
     resource: "https://doi.org/10.1155/2011/573280"
     title: "Punch, R., & Hyde, M. B. (2011). Communication, Psychosocial, and Educational Outcomes of Children with Cochlear Implants and Challenges Remaining for Professionals and Parents. International Journal of Otolaryngology. https://doi.org/10.1155/2011/573280"
-    author: "Punch, R., & Hyde, M. B"
+    author: "Punch, R., & Hyde, M. B."
+    q: 2
+    i: "?"
 ---
 
 # A substantial proportion of children with cochlear implants used some form of signed communication despite parents' initial expectations otherwise
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Between 20% and 30% of children were reported by both teachers and parents to use some form of signed communication, and 19 of the 27 interviewed parents used signed communication to some extent with their children. [→ Punch 2011](#punch-2011)

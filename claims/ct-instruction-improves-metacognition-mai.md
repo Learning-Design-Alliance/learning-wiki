@@ -10,12 +10,15 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rivas-sf-2022
-    resource: "https://doi.org/10.3389/fpsyg.2022.913219"
-    title: "Rivas SF, Saiz C and Ossa C (2022) Metacognitive Strategies and Development of Critical Thinking in Higher Education. Front. Psychol. 13:913219. https://doi.org/10.3389/fpsyg.2022.913219"
-    author: Rivas SF, Saiz C and Ossa C
+    title: Rivas SF 2022
+    q: 2
+    i: "?"
 ---
 
 # A critical thinking instruction program (ARDESOS-DIAPROVE) improved students' metacognition, with significant pre-post gains in the metaknowledge total and most MAI dimensions
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` After the 16-week ARDESOS-DIAPROVE intervention, first-year psychology students' total MAI metaknowledge scores rose significantly (t = -4.161, p = 0.000). [→ Rivas SF 2022](#rivas-sf-2022)

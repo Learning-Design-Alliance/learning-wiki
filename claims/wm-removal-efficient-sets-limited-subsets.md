@@ -12,10 +12,15 @@ sources:
   - id: oberauer-2019
     resource: "https://doi.org/10.5334/joc.58"
     title: "Oberauer, K. (2019). Working Memory and Attention – A Conceptual Analysis and Review. Journal of Cognition, 2(1): 36. https://doi.org/10.5334/joc.58"
-    author: Oberauer, K
+    author: Oberauer, K.
+    q: 2
+    i: "?"
 ---
 
 # People can selectively remove no-longer-relevant information from WM, but removal of an arbitrary subset of items is inefficient
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Removing an entire memory set is rapid and seamless, but people find it difficult to remove a random subset of several items from a memory set unless the subset was clearly marked at encoding. [→ Oberauer 2019](#oberauer-2019)

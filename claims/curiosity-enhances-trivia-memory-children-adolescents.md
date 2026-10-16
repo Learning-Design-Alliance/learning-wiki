@@ -12,10 +12,15 @@ sources:
   - id: fandakova-yana-2021
     resource: "https://doi.org/10.1111/desc.13005"
     title: "Fandakova Yana, Gruber Matthias J. (2021). States of curiosity and interest enhance memory differently in adolescents and in children. Developmental Science, 24(1), e13005. https://doi.org/10.1111/desc.13005"
-    author: Fandakova Yana, Gruber Matthias J
+    author: Fandakova Yana, Gruber Matthias J.
+    q: 3
+    i: 3
 ---
 
 # States of high pre-answer curiosity enhance memory for trivia answers similarly in children and adolescents
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` High-curiosity trivia questions were better recalled than low-curiosity questions, with no age-group difference in the effect. [→ Fandakova Yana 2021](#fandakova-yana-2021)

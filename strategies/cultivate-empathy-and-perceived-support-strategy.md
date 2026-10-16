@@ -16,6 +16,9 @@ sources:
 
 # Cultivate adolescent empathy and perceived social support to promote prosocial behavior
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article's practical implication is that education should focus on "cultivating the empathy ability of children and adolescents, especially for adolescents learning in boarding schools", using stories and learning content from Chinese culture, while school administrators strengthen the school's support system so students feel a positive psychological atmosphere. The strategy pairs empathy cultivation with building peer and teacher support environments.
 

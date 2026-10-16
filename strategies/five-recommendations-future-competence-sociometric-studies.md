@@ -16,6 +16,9 @@ sources:
 
 # Five-point research agenda for future studies of oral communicative competence and sociometric status
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The review closes with five recommendations for future research: combine multiple methods (mixed methods) given the construct's complexity; conduct studies in non-western countries to examine cross-cultural differences; include larger samples, since most prior work was small-scale and exploratory; adopt longitudinal and experimental designs to establish the direction of the relation; and take the interactional context, gender, and age into account as factors that might influence the relation.
 

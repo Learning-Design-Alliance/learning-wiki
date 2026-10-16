@@ -16,6 +16,9 @@ sources:
 
 # Prioritize dose-response sleep research with multiple time points and narrower age groups before refining early-years sleep recommendations
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The review's authors recommend a research programme to strengthen the evidence base behind sleep duration recommendations for children aged 0–4 years. They state "there is a clear need for dose-response curves with multiple time points of sleep duration that can provide a better idea of optimal sleep duration ranges", including experimental sleep restriction/extension interventions, observational comparisons of several sleep-duration categories, objective sleep measurement, and results reported for narrower age groups aligned with current recommendations.
 

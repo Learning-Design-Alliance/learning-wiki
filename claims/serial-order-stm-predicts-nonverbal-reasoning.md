@@ -12,14 +12,21 @@ sources:
   - id: leclercq-2010
     resource: "https://doi.org/10.1037/a0018540"
     title: "Leclercq, A.-L., & Majerus, S. (2010). Serial Order Short-Term Memory Predicts Vocabulary Development: Evidence from a Longitudinal Study. Developmental Psychology. https://doi.org/10.1037/a0018540"
-    author: "Leclercq, A.-L., & Majerus, S"
+    author: "Leclercq, A.-L., & Majerus, S."
+    q: 3
+    i: "?"
   - id: leclercq-2010-2
     resource: "https://doi.org/10.1037/a0018540"
     title: "Leclercq, A.-L., & Majerus, S. (2010). Serial Order Short-Term Memory Predicts Vocabulary Development: Evidence from a Longitudinal Study. Developmental Psychology. https://doi.org/10.1037/a0018540"
-    author: "Leclercq, A.-L., & Majerus, S"
+    author: "Leclercq, A.-L., & Majerus, S."
+    q: 3
+    i: 0
 ---
 
 # Serial order STM at Age 4 predicts later nonverbal reasoning, but serial order STM gain does not predict nonverbal reasoning gain
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i0` negligible
 
 ## Subclaims
 `q3 i?` Serial order reconstruction performance at Age 4 predicted 10% of independent variance in Raven's matrices scores at Age 5 after controls, while nonword repetition did not independently predict later Raven's scores. [→ Leclercq 2010](#leclercq-2010)

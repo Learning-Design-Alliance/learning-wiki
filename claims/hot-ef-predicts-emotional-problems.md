@@ -10,12 +10,15 @@ generated:
 evidence_strength: moderate
 sources:
   - id: poon-k-2018
-    resource: "https://doi.org/10.3389/fpsyg.2017.02311"
-    title: "Poon K (2018) Hot and Cool Executive Functions in Adolescence: Development and Contributions to Important Developmental Outcomes. Front. Psychol. 8:2311. https://doi.org/10.3389/fpsyg.2017.02311"
-    author: Poon K
+    title: Poon K 2018
+    q: 2
+    i: "?"
 ---
 
 # Hot EF (CGT risk adjustment) uniquely predicts parent-rated emotional problems, while no cool EF test does
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` CGT risk adjustment accounts for an additional 10% of variance in the SDQ emotional problems scale, controlling general intellectual ability. [→ Poon K 2018](#poon-k-2018)

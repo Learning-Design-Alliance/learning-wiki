@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.3390/ijerph15040800"
     title: "Bidzan-Bluma Ilona, Lipowska Małgorzata. (2018). Physical Activity and Cognitive Functioning of Children: A Systematic Review. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph15040800"
     author: Bidzan-Bluma Ilona, Lipowska Małgorzata
+    q: 2
+    i: "?"
   - id: bidzan-bluma-ilona-2018-2
     resource: "https://doi.org/10.3390/ijerph15040800"
     title: "Bidzan-Bluma Ilona, Lipowska Małgorzata. (2018). Physical Activity and Cognitive Functioning of Children: A Systematic Review. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph15040800"
     author: Bidzan-Bluma Ilona, Lipowska Małgorzata
+    q: 2
+    i: "?"
 ---
 
 # Physical activity, including brief aerobic exercise sessions, improves children's selective attention
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Even a 12 min session of aerobic exercise improved the selective attention of children. [→ Bidzan-Bluma Ilona 2018](#bidzan-bluma-ilona-2018)

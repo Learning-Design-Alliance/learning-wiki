@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1038/nn.4622"
     title: "Poletti Martina, Rucci Michele, Carrasco Marisa. (2017). Selective attention within the foveola. Nature Neuroscience. https://doi.org/10.1038/nn.4622"
     author: Poletti Martina, Rucci Michele, Carrasco Marisa
+    q: 3
+    i: "?"
 ---
 
 # Detection is slower for targets within the foveola than in the parafovea despite equal detectability
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Observers were slower to detect foveolar than parafoveal targets (p<0.0001), with an average reaction-time increment of 46 ± 3 ms, even though stimuli were equally detectable across experiments. [→ Poletti Martina 2017](#poletti-martina-2017)

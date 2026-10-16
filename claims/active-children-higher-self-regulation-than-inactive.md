@@ -12,18 +12,25 @@ sources:
   - id: lópez-gil-2020
     resource: "https://doi.org/10.3390/ijerph17165676"
     title: "López-Gil, J.F., Oriol-Granado, X., Izquierdo, M., Ramírez-Vélez, R., Fernández-Vergara, O., Olloquequi, J., & García-Hermoso, A. (2020). Healthy Lifestyle Behaviors and Their Association with Self-Regulation in Chilean Children. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph17165676"
-    author: "López-Gil, J.F., Oriol-Granado, X., Izquierdo, M., Ramírez-Vélez, R., Fernández-Vergara, O., Olloquequi, J., & García-Hermoso, A"
+    author: "López-Gil, J.F., Oriol-Granado, X., Izquierdo, M., Ramírez-Vélez, R., Fernández-Vergara, O., Olloquequi, J., & García-Hermoso, A."
+    q: 3
+    i: "?"
   - id: lópez-gil-2020-2
     resource: "https://doi.org/10.3390/ijerph17165676"
     title: "López-Gil, J.F., Oriol-Granado, X., Izquierdo, M., Ramírez-Vélez, R., Fernández-Vergara, O., Olloquequi, J., & García-Hermoso, A. (2020). Healthy Lifestyle Behaviors and Their Association with Self-Regulation in Chilean Children. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph17165676"
-    author: "López-Gil, J.F., Oriol-Granado, X., Izquierdo, M., Ramírez-Vélez, R., Fernández-Vergara, O., Olloquequi, J., & García-Hermoso, A"
+    author: "López-Gil, J.F., Oriol-Granado, X., Izquierdo, M., Ramírez-Vélez, R., Fernández-Vergara, O., Olloquequi, J., & García-Hermoso, A."
+    q: 3
+    i: "?"
 ---
 
 # Active children show higher self-regulation than inactive children, and children with under 2 h/day screen time show higher self-regulation than those with 2 h or more
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+
 ## Subclaims
-`q3 i?` Children classified as active had higher SR than inactive counterparts (p < 0.001). [→ López-Gil 2020](#lópez-gil-2020)
-`q3 i?` Children reporting less than 2 h/day of screen time had higher SR than counterparts with 2 h/day or more (p = 0.044). [→ López-Gil 2020 (2)](#lópez-gil-2020-2)
+`q3 i?` Children classified as active had higher SR than inactive counterparts (p < 0.001). [→ López-Gil 2020](#lopez-gil-2020)
+`q3 i?` Children reporting less than 2 h/day of screen time had higher SR than counterparts with 2 h/day or more (p = 0.044). [→ López-Gil 2020 (2)](#lopez-gil-2020-2)
 
 ## Evidence
 

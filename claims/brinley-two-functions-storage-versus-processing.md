@@ -12,10 +12,15 @@ sources:
   - id: jaroslawska-2019
     resource: "https://doi.org/10.1037/pag0000358"
     title: "Jaroslawska, A. J., & Rhodes, S. (2019). Adult Age Diﬀerences in the Eﬀects of Processing on Storage in Working Memory: A Meta-Analysis. Psychology & Aging. https://doi.org/10.1037/pag0000358"
-    author: "Jaroslawska, A. J., & Rhodes, S"
+    author: "Jaroslawska, A. J., & Rhodes, S."
+    q: 2
+    i: "?"
 ---
 
 # Brinley analysis of accuracy reveals two distinct functions differing in intercept for storage-only versus storage-plus-processing tasks, corroborating a disproportionate processing cost
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Model comparison favored a Brinley model with separate task intercepts over a single-function model, with an intercept difference of 0.125 between storage-only and storage+processing tasks. [→ Jaroslawska 2019](#jaroslawska-2019)

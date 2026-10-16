@@ -12,14 +12,21 @@ sources:
   - id: adolphus-2013
     resource: "https://doi.org/10.3389/fnhum.2013.00425"
     title: "Adolphus, K., Lawton, C. L., and Dye, L. (2013). The effects of breakfast on behavior and academic performance in children and adolescents. Frontiers in Human Neuroscience. https://doi.org/10.3389/fnhum.2013.00425"
-    author: Adolphus, K., Lawton, C. L., and Dye, L
+    author: Adolphus, K., Lawton, C. L., and Dye, L.
+    q: 3
+    i: "?"
   - id: adolphus-2013-2
     resource: "https://doi.org/10.3389/fnhum.2013.00425"
     title: "Adolphus, K., Lawton, C. L., and Dye, L. (2013). The effects of breakfast on behavior and academic performance in children and adolescents. Frontiers in Human Neuroscience. https://doi.org/10.3389/fnhum.2013.00425"
-    author: Adolphus, K., Lawton, C. L., and Dye, L
+    author: Adolphus, K., Lawton, C. L., and Dye, L.
+    q: 2
+    i: "?"
 ---
 
 # Robust RCTs of school breakfast programs failed to find behavioral benefits, with low and variable attendance and a shift from at-home to at-school consumption limiting impact
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` Three recent RCTs found no significant effect of a 1-year SBP on SDQ-measured school behavior compared with control. [→ Adolphus 2013](#adolphus-2013)

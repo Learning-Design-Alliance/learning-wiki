@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s10578-020-01042-0"
     title: "Sebastian Skalski, Grzegorz Pochwatko, Robert Balas. (2021). Impact of Motivation on Selected Aspects of Attention in Children with ADHD. Child Psychiatry & Human Development. https://doi.org/10.1007/s10578-020-01042-0"
     author: Sebastian Skalski, Grzegorz Pochwatko, Robert Balas
+    q: 3
+    i: 3
 ---
 
 # Under normal conditions children with ADHD show deficits in vigilance, visual search and divided attention relative to TD children
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` Group membership differentiated all controlled attention indicators under normal conditions, with medium-to-large effects. [→ Sebastian Skalski 2021](#sebastian-skalski-2021)

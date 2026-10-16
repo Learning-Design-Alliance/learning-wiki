@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s10648-021-09620-x"
     title: "Gemma Muncer, Philip A. Higham, Corentin J. Gosling, Samuele Cortese, Henry Wood-Downie, & Julie A. Hadwin. (2021). A Meta-Analysis Investigating the Association Between Metacognition and Math Performance in Adolescence. Educational Psychology Review. https://doi.org/10.1007/s10648-021-09620-x"
     author: "Gemma Muncer, Philip A. Higham, Corentin J. Gosling, Samuele Cortese, Henry Wood-Downie, & Julie A. Hadwin"
+    q: 4
+    i: "?"
 ---
 
 # Heterogeneity between studies of the metacognition–math association is significant and remains high in all moderator analyses
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic
 
 ## Subclaims
 `q4 i?` There was significant heterogeneity between studies in the metacognition–math correlation, and heterogeneity remained high for all moderator analyses. [→ Gemma Muncer 2021](#gemma-muncer-2021)

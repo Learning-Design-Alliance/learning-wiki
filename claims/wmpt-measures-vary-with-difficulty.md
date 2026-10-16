@@ -12,14 +12,21 @@ sources:
   - id: freeman-2017
     resource: "http://dx.doi.org/10.1016/j.lindif.2017.06.003"
     title: "Freeman, Emily E.; Karayanidis, Frini; Chalmers, Kerry A. (2017). Metacognitive monitoring of working memory performance and its relationship to academic achievement in Grade 4 children. Learning and Individual Differences, Vol. 57. http://dx.doi.org/10.1016/j.lindif.2017.06.003"
-    author: Freeman, Emily E.; Karayanidis, Frini; Chalmers, Kerry A
+    author: Freeman, Emily E.; Karayanidis, Frini; Chalmers, Kerry A.
+    q: 3
+    i: "?"
   - id: freeman-2017-2
     resource: "http://dx.doi.org/10.1016/j.lindif.2017.06.003"
     title: "Freeman, Emily E.; Karayanidis, Frini; Chalmers, Kerry A. (2017). Metacognitive monitoring of working memory performance and its relationship to academic achievement in Grade 4 children. Learning and Individual Differences, Vol. 57. http://dx.doi.org/10.1016/j.lindif.2017.06.003"
-    author: Freeman, Emily E.; Karayanidis, Frini; Chalmers, Kerry A
+    author: Freeman, Emily E.; Karayanidis, Frini; Chalmers, Kerry A.
+    q: 3
+    i: 2
 ---
 
 # WMPT accuracy, confidence, Bias Index and Absolute Accuracy Index all change significantly with task difficulty
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i?` Accuracy and confidence decreased significantly with WMPT difficulty, while Bias and Absolute Accuracy Indexes increased significantly, per repeated-measures ANOVAs. [→ Freeman 2017](#freeman-2017)

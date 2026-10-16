@@ -16,6 +16,9 @@ sources:
 
 # Assess childhood abuse history and use trauma-informed assessment when students show ADHD-type problems, and screen children with abuse histories for ADHD
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The authors recommend that education and health care professionals assessing students with ADHD-type problems also assess childhood abuse history, and conversely that practitioners working with maltreated children be informed about the high association between abuse and ADHD symptomatology. They suggest that for children with histories of abuse it may be helpful to screen for ADHD in order to improve the treatment process and reduce wrongful treatment or diagnoses.
 

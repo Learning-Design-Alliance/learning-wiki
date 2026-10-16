@@ -12,10 +12,15 @@ sources:
   - id: horn-2004
     resource: "https://doi.org/10.1016/j.ics.2004.07.048"
     title: "Horn, D. L., Davis, R. A. O., Pisoni, D. B., & Miyamoto, R. T. (2004). Visual attention, behavioral inhibition and speech/language outcomes in deaf children with cochlear implants. Int Congr Ser. https://doi.org/10.1016/j.ics.2004.07.048"
-    author: "Horn, D. L., Davis, R. A. O., Pisoni, D. B., & Miyamoto, R. T"
+    author: "Horn, D. L., Davis, R. A. O., Pisoni, D. B., & Miyamoto, R. T."
+    q: 2
+    i: "?"
 ---
 
 # Behavioral inhibition skills of prelingually deaf children are related to several audiological outcome measures after cochlear implantation
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The study concludes that behavioral inhibition skills of prelingually deaf children with CIs are related to several audiological outcome measures, including vocabulary knowledge, language skills, and speech intelligibility. [→ Horn 2004](#horn-2004)

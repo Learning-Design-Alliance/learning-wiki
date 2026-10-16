@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.3390/jintelligence5020026"
     title: "Schneider Wolfgang, Niklas Frank. (2017). Intelligence and Verbal Short-Term Memory/Working Memory: Their Interrelationships from Childhood to Young Adulthood and Their Impact on Academic Achievement. Journal of Intelligence. https://doi.org/10.3390/jintelligence5020026"
     author: Schneider Wolfgang, Niklas Frank
+    q: 2
+    i: "?"
 ---
 
 # Synchronous observed-variable correlations between WMC and intelligence are modest (r = 0.17 to 0.40), lower than latent-variable correlations
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In the LOGIC sample, synchronous correlations among observed WMC and intelligence variables ranged between r = 0.17 and 0.40, while latent IQ-WM correlations were considerably higher. [→ Schneider Wolfgang 2017](#schneider-wolfgang-2017)

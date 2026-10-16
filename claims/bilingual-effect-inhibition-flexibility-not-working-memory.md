@@ -10,12 +10,15 @@ generated:
 evidence_strength: weak
 sources:
   - id: giovannoli-j-2020
-    resource: "https://doi.org/10.3389/fpsyg.2020.574789"
-    title: "Giovannoli J, Martella D, Federico F, Pirchio S and Casagrande M (2020) The Impact of Bilingualism on Executive Functions in Children and Adolescents: A Systematic Review Based on the PRISMA Method. Front. Psychol. 11:574789. https://doi.org/10.3389/fpsyg.2020.574789"
-    author: Giovannoli J, Martella D, Federico F, Pirchio S and Casagrande M
+    title: Giovannoli J 2020
+    q: 2
+    i: "?"
 ---
 
 # Bilingual effect evidence appears for inhibition and cognitive flexibility but disappears for working memory in children and adolescents
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Across the 53 reviewed studies, evidence supporting the bilingual effect seems to appear for inhibition and cognitive flexibility but to disappear when working memory is considered. [→ Giovannoli J 2020](#giovannoli-j-2020)

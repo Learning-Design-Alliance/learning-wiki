@@ -16,6 +16,9 @@ sources:
 
 # Coach confident defending behaviours through the Confident Behaviours Exercise
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Because children who bully tend to pick on children with low status in the social group, and low-status behaviour may cue peers that a child is not confident (poor eye contact, fidgety gestures, poor posture), the BPP includes the Confident Behaviours Exercise. The class is split into a Group High Confidence and a Group Low Confidence that model assigned behaviours, the exercise is repeated so all children model confident behaviours, and role-plays then require the defender to employ confident behaviours.
 

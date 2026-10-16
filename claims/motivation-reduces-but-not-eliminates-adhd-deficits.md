@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1007/s10578-020-01042-0"
     title: "Sebastian Skalski, Grzegorz Pochwatko, Robert Balas. (2021). Impact of Motivation on Selected Aspects of Attention in Children with ADHD. Child Psychiatry & Human Development. https://doi.org/10.1007/s10578-020-01042-0"
     author: Sebastian Skalski, Grzegorz Pochwatko, Robert Balas
+    q: 3
+    i: "?"
   - id: sebastian-skalski-2021-2
     resource: "https://doi.org/10.1007/s10578-020-01042-0"
     title: "Sebastian Skalski, Grzegorz Pochwatko, Robert Balas. (2021). Impact of Motivation on Selected Aspects of Attention in Children with ADHD. Child Psychiatry & Human Development. https://doi.org/10.1007/s10578-020-01042-0"
     author: Sebastian Skalski, Grzegorz Pochwatko, Robert Balas
+    q: 3
+    i: 2
 ---
 
 # Increased motivation eliminated ADHD–TD differences on most attention measures but differences persisted in complex multitasking and commission errors
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i?` Under increased motivation, no significant ADHD–TD differences remained for omission errors, visual search RT, RT slope or single-tasking RT. [→ Sebastian Skalski 2021](#sebastian-skalski-2021)

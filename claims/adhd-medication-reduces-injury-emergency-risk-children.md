@@ -12,10 +12,15 @@ sources:
   - id: franke-2018
     resource: "https://doi.org/10.1016/j.euroneuro.2018.08.001"
     title: "Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A. (2018). Live fast, die young? A review on the developmental trajectories of ADHD across the lifespan. European Neuropsychopharmacology. https://doi.org/10.1016/j.euroneuro.2018.08.001"
-    author: Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A
+    author: Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A.
+    q: 2
+    i: "?"
 ---
 
 # Pharmaco-epidemiological register studies indicate ADHD medication treatment reduces risk of injuries and emergency ward visits in children with ADHD
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` A Danish register-based study showed that treatment with ADHD medication reduced the risk for injuries by up to 43% and emergency ward visits by up to 45% in children with ADHD. [→ Franke 2018](#franke-2018)

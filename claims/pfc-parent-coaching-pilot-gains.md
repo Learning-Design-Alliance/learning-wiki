@@ -12,10 +12,15 @@ sources:
   - id: mikami-2015
     resource: "https://doi.org/10.1007/s40474-014-0036-0"
     title: "Mikami, A. Y., & Normand, S. (2015). The Importance of Social Contextual Factors in Peer Relationships of Children with ADHD. Curr Dev Disord Rep. https://doi.org/10.1007/s40474-014-0036-0"
-    author: "Mikami, A. Y., & Normand, S"
+    author: "Mikami, A. Y., & Normand, S."
+    q: 2
+    i: "?"
 ---
 
 # In a pilot randomized trial, children whose parents received Parental Friendship Coaching were reported by parents and by blind teachers to show better social behaviors and greater peer acceptance than control children
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Children whose parents received PFC showed better social behaviors by parent report, and were reported by teachers unaware of assignment to be more accepted and less rejected by peers, relative to controls. [→ Mikami 2015](#mikami-2015)

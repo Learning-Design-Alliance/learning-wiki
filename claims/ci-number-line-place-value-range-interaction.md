@@ -12,10 +12,15 @@ sources:
   - id: pixner-2014
     resource: "https://doi.org/10.3389/fpsyg.2014.01479"
     title: "Pixner, S., Leyrer, M., and Moeller, K. (2014). Number processing and arithmetic skills in children with cochlear implants. Frontiers in Psychology 5:1479. https://doi.org/10.3389/fpsyg.2014.01479"
-    author: Pixner, S., Leyrer, M., and Moeller, K
+    author: Pixner, S., Leyrer, M., and Moeller, K.
+    q: 3
+    i: "?"
 ---
 
 # Number line estimation error increases more strongly for children with cochlear implants when the range extends from 0–100 to 0–1000
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` A significant number line range × group interaction showed estimation error increased more from the 0–100 to the 0–1000 range for children with CI (8.5% vs. 4.2% increase) than for controls, who also had larger overall errors (10.8% vs. 7.0%). [→ Pixner 2014](#pixner-2014)

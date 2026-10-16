@@ -12,14 +12,21 @@ sources:
   - id: oberauer-2019
     resource: "https://doi.org/10.5334/joc.58"
     title: "Oberauer, K. (2019). Working Memory and Attention – A Conceptual Analysis and Review. Journal of Cognition, 2(1): 36. https://doi.org/10.5334/joc.58"
-    author: Oberauer, K
+    author: Oberauer, K.
+    q: 2
+    i: "?"
   - id: oberauer-2019-2
     resource: "https://doi.org/10.5334/joc.58"
     title: "Oberauer, K. (2019). Working Memory and Attention – A Conceptual Analysis and Review. Journal of Cognition, 2(1): 36. https://doi.org/10.5334/joc.58"
-    author: Oberauer, K
+    author: Oberauer, K.
+    q: 2
+    i: "?"
 ---
 
 # A shared attentional resource for storage and processing is the best supported resource theory of WM capacity but faces empirical challenges
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Considerable evidence confirms that storage and processing compete for a shared content-general attentional resource, lending support to the notion that WM capacity is limited by an attentional resource. [→ Oberauer 2019](#oberauer-2019)

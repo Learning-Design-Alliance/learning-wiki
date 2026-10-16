@@ -10,12 +10,15 @@ generated:
 evidence_strength: moderate
 sources:
   - id: medeiros-w-2016
-    resource: "https://doi.org/10.3389/fpsyg.2016.01197"
-    title: "Medeiros W, Torro-Alves N, Malloy-Diniz LF and Minervino CM (2016) Executive Functions in Children Who Experience Bullying Situations. Front. Psychol. 7:1197. https://doi.org/10.3389/fpsyg.2016.01197"
-    author: Medeiros W, Torro-Alves N, Malloy-Diniz LF and Minervino CM
+    title: Medeiros W 2016
+    q: 2
+    i: 3
 ---
 
 # Victim group children score higher than bullies on the SDQ prosocial behavior subscale
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
 
 ## Subclaims
 `q2 i3` On the parent-reported SDQ, victims presented higher prosocial behavior scores than bullies (r = −0.59), but did not differ significantly from controls or bully-victims at the corrected alpha. [→ Medeiros W 2016](#medeiros-w-2016)

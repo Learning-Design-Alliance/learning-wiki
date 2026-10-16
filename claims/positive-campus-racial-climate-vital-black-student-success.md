@@ -13,9 +13,14 @@ sources:
     resource: "https://www.iastatedigitalpress.com/jctp/"
     title: "Evelyn Ezikwelu. (2020). Institutional Racism and Campus Racial Climate: Struggles for Sense of Belonging Among Black Students in K-12 Public Schools. Journal of Critical Thought and Praxis, 10(1). https://www.iastatedigitalpress.com/jctp/"
     author: Evelyn Ezikwelu
+    q: 2
+    i: "?"
 ---
 
 # Positive campus racial climate is vital for Black students' success, while negative climate remains detrimental to students of color in predominantly White schools
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Positive campus racial climate is vital for Black students' success, and negative campus racial climate is detrimental to the academic success of students of color in predominantly White schools. [→ Evelyn Ezikwelu 2020](#evelyn-ezikwelu-2020)

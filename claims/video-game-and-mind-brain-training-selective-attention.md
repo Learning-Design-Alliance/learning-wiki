@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1016/j.dcn.2011.11.001"
     title: "Stevens, Courtney; Bavelier, Daphné. (2012). The role of selective attention on academic foundations: A cognitive neuroscience perspective. Developmental cognitive neuroscience, vol. 2S, p. S30–S48. https://doi.org/10.1016/j.dcn.2011.11.001"
     author: Stevens, Courtney; Bavelier, Daphné
+    q: 2
+    i: "?"
 ---
 
 # Video-game play and mind-brain training literatures suggest the possibility of training selective attention
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Recent literatures on video-game play and mind-brain training are taken to support the possibility of training selective attention. [→ Stevens 2012](#stevens-2012)

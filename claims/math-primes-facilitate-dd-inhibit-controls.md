@@ -12,14 +12,21 @@ sources:
   - id: rubinsten-o-2010
     resource: "http://www.behavioralandbrainfunctions.com/content/6/1/46"
     title: "Rubinsten O, Tannock R. (2010). Mathematics anxiety in children with developmental dyscalculia. Behavioral and Brain Functions 6:46. http://www.behavioralandbrainfunctions.com/content/6/1/46"
-    author: Rubinsten O, Tannock R
+    author: Rubinsten O, Tannock R.
+    q: 3
+    i: "?"
   - id: rubinsten-o-2010-2
     resource: "http://www.behavioralandbrainfunctions.com/content/6/1/46"
     title: "Rubinsten O, Tannock R. (2010). Mathematics anxiety in children with developmental dyscalculia. Behavioral and Brain Functions 6:46. http://www.behavioralandbrainfunctions.com/content/6/1/46"
-    author: Rubinsten O, Tannock R
+    author: Rubinsten O, Tannock R.
+    q: 3
+    i: "?"
 ---
 
 # Math-related word primes facilitate arithmetic processing in children with DD but inhibit it in typically-developing controls
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In the DD group, math primes and negative primes did not differ significantly for addition and multiplication, and math primes facilitated processing in all four operations. [→ Rubinsten O 2010](#rubinsten-o-2010)

@@ -16,6 +16,9 @@ sources:
 
 # Identify the sources of students' FoK/I and develop the pedagogical competences needed to integrate them into teaching
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article identifies sources of students' funds of knowledge/identity and discusses the pedagogical competences teachers need to integrate FoK/I into their teaching. It states: "The authors also identify sources of FoK/I and discuss the pedagogical competences teachers need to integrate FoK/I into their teaching." This directs teachers to locate FoK/I sources and build the competences for integrating them.
 

@@ -12,14 +12,21 @@ sources:
   - id: pixner-2014
     resource: "https://doi.org/10.3389/fpsyg.2014.01479"
     title: "Pixner, S., Leyrer, M., and Moeller, K. (2014). Number processing and arithmetic skills in children with cochlear implants. Frontiers in Psychology 5:1479. https://doi.org/10.3389/fpsyg.2014.01479"
-    author: Pixner, S., Leyrer, M., and Moeller, K
+    author: Pixner, S., Leyrer, M., and Moeller, K.
+    q: 3
+    i: "?"
   - id: pixner-2014-2
     resource: "https://doi.org/10.3389/fpsyg.2014.01479"
     title: "Pixner, S., Leyrer, M., and Moeller, K. (2014). Number processing and arithmetic skills in children with cochlear implants. Frontiers in Psychology 5:1479. https://doi.org/10.3389/fpsyg.2014.01479"
-    author: Pixner, S., Leyrer, M., and Moeller, K
+    author: Pixner, S., Leyrer, M., and Moeller, K.
+    q: 3
+    i: "?"
 ---
 
 # Children with cochlear implants are generally slower than hearing peers in multiplication and subtraction but show comparable error profiles
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Children with CI had significantly longer response latencies than NH controls in the multiplication verification task (3516 ms vs. 2537 ms) with no group differences in error rates or error-type profiles. [→ Pixner 2014](#pixner-2014)

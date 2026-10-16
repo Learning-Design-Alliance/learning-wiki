@@ -12,14 +12,21 @@ sources:
   - id: den-heijer-2017
     resource: "https://doi.org/10.1007/s00702-016-1593-7"
     title: "Den Heijer, A. E., Groen, Y., Tucha, L., Fuermaier, A. B. M., Koerts, J., Lange, K. W., Thome, J., & Tucha, O. (2017). Sweat it out? The effects of physical exercise on cognition and behavior in children and adults with ADHD: a systematic literature review. J Neural Transm 124(Suppl 1):S3–S26. https://doi.org/10.1007/s00702-016-1593-7"
-    author: "Den Heijer, A. E., Groen, Y., Tucha, L., Fuermaier, A. B. M., Koerts, J., Lange, K. W., Thome, J., & Tucha, O"
+    author: "Den Heijer, A. E., Groen, Y., Tucha, L., Fuermaier, A. B. M., Koerts, J., Lange, K. W., Thome, J., & Tucha, O."
+    q: 2
+    i: "?"
   - id: den-heijer-2017-2
     resource: "https://doi.org/10.1007/s00702-016-1593-7"
     title: "Den Heijer, A. E., Groen, Y., Tucha, L., Fuermaier, A. B. M., Koerts, J., Lange, K. W., Thome, J., & Tucha, O. (2017). Sweat it out? The effects of physical exercise on cognition and behavior in children and adults with ADHD: a systematic literature review. J Neural Transm 124(Suppl 1):S3–S26. https://doi.org/10.1007/s00702-016-1593-7"
-    author: "Den Heijer, A. E., Groen, Y., Tucha, L., Fuermaier, A. B. M., Koerts, J., Lange, K. W., Thome, J., & Tucha, O"
+    author: "Den Heijer, A. E., Groen, Y., Tucha, L., Fuermaier, A. B. M., Koerts, J., Lange, K. W., Thome, J., & Tucha, O."
+    q: 2
+    i: 2
 ---
 
 # Non-cardio exercise (yoga, tai chi, walking) shows predominantly positive but questionable acute and chronic effects in children with ADHD
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
 
 ## Subclaims
 `q2 i?` Tai chi practice produced both acute and chronic behavioral effects: less anxiety, improved conduct, less daydreaming, less inappropriate emotions, and less hyperactivity, with asocial behavior unchanged. [→ Den Heijer 2017](#den-heijer-2017)

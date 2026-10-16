@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1038/nn.4622"
     title: "Poletti Martina, Rucci Michele, Carrasco Marisa. (2017). Selective attention within the foveola. Nature Neuroscience. https://doi.org/10.1038/nn.4622"
     author: Poletti Martina, Rucci Michele, Carrasco Marisa
+    q: 3
+    i: "?"
 ---
 
 # Fine foveolar attentional effects persist during normal, non-stabilized fixation with natural retinal image motion
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Without retinal stabilization, attention still produced higher and faster discrimination at the attended foveolar location and lower and slower discrimination at the unattended location. [→ Poletti Martina 2017](#poletti-martina-2017)

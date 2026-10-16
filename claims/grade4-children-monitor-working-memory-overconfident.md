@@ -12,10 +12,15 @@ sources:
   - id: freeman-2017
     resource: "http://dx.doi.org/10.1016/j.lindif.2017.06.003"
     title: "Freeman, Emily E.; Karayanidis, Frini; Chalmers, Kerry A. (2017). Metacognitive monitoring of working memory performance and its relationship to academic achievement in Grade 4 children. Learning and Individual Differences, Vol. 57. http://dx.doi.org/10.1016/j.lindif.2017.06.003"
-    author: Freeman, Emily E.; Karayanidis, Frini; Chalmers, Kerry A
+    author: Freeman, Emily E.; Karayanidis, Frini; Chalmers, Kerry A.
+    q: 3
+    i: "?"
 ---
 
 # Grade 4 children can metacognitively monitor their working memory performance, tending to be over-confident as task difficulty increases
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Grade 4 children's confidence in their working memory decisions decreases with task difficulty, but less than accuracy does, indicating over-confidence at higher loads. [→ Freeman 2017](#freeman-2017)

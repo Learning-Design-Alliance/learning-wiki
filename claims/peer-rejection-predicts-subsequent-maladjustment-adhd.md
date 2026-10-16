@@ -12,14 +12,21 @@ sources:
   - id: mikami-2015
     resource: "https://doi.org/10.1007/s40474-014-0036-0"
     title: "Mikami, A. Y., & Normand, S. (2015). The Importance of Social Contextual Factors in Peer Relationships of Children with ADHD. Curr Dev Disord Rep. https://doi.org/10.1007/s40474-014-0036-0"
-    author: "Mikami, A. Y., & Normand, S"
+    author: "Mikami, A. Y., & Normand, S."
+    q: 3
+    i: "?"
   - id: mikami-2015-2
     resource: "https://doi.org/10.1007/s40474-014-0036-0"
     title: "Mikami, A. Y., & Normand, S. (2015). The Importance of Social Contextual Factors in Peer Relationships of Children with ADHD. Curr Dev Disord Rep. https://doi.org/10.1007/s40474-014-0036-0"
-    author: "Mikami, A. Y., & Normand, S"
+    author: "Mikami, A. Y., & Normand, S."
+    q: 3
+    i: "?"
 ---
 
 # Peer rejection incrementally predicts subsequent behavioral, emotional, and academic maladjustment in children with ADHD beyond ADHD status itself
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Peer rejection augments the risk associated with ADHD diagnostic status for depression, anxiety, delinquency, academic failure, eating pathology, and substance abuse in adolescence. [→ Mikami 2015](#mikami-2015)

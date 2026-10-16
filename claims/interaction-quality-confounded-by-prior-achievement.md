@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.5539/jel.v9n5p45"
     title: "Donald E Grant Jr. & Jerell B. Hill. (2020). Activating Culturally Empathic Motivation in Diverse Students. Journal of Education and Learning, 9(5). https://doi.org/10.5539/jel.v9n5p45"
     author: "Donald E Grant Jr. & Jerell B. Hill"
+    q: 2
+    i: "?"
 ---
 
 # Teacher-student interaction quality may reflect pre-existing student characteristics rather than teacher skill unless prior achievement is accounted for
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Failure to account for previous test scores misattributes variance in student achievement to classroom interactions when it may reflect pre-existing student proficiencies, since students are tracked into higher and lower-achieving groups. [→ Donald E Grant Jr. & Jerell B. Hill 2020](#donald-e-grant-jr-jerell-b-hill-2020)

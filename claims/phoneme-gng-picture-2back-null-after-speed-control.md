@@ -10,16 +10,19 @@ generated:
 evidence_strength: weak
 sources:
   - id: doyle-c-2018
-    resource: "https://doi.org/10.3389/fpsyg.2018.00795"
-    title: "Doyle C, Smeaton AF, Roche RAP and Boran L (2018) Inhibition and Updating, but Not Switching, Predict Developmental Dyslexia and Individual Variation in Reading Ability. Front. Psychol. 9:795. https://doi.org/10.3389/fpsyg.2018.00795"
-    author: Doyle C, Smeaton AF, Roche RAP and Boran L
+    title: Doyle C 2018
+    q: 3
+    i: "?"
   - id: doyle-c-2018-2
-    resource: "https://doi.org/10.3389/fpsyg.2018.00795"
-    title: "Doyle C, Smeaton AF, Roche RAP and Boran L (2018) Inhibition and Updating, but Not Switching, Predict Developmental Dyslexia and Individual Variation in Reading Ability. Front. Psychol. 9:795. https://doi.org/10.3389/fpsyg.2018.00795"
-    author: Doyle C, Smeaton AF, Roche RAP and Boran L
+    title: Doyle C 2018 (2)
+    q: 3
+    i: "?"
 ---
 
 # Task-level executive function differences in dyslexia on the Phoneme Go No-Go and Picture 2-back tasks are no longer significant after controlling for processing speed
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Group differences in Phoneme Go No-Go commission errors and Picture 2-back errors were no longer significant after controlling for processing speed. [→ Doyle C 2018](#doyle-c-2018)

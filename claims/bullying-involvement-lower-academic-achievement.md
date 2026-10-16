@@ -10,14 +10,21 @@ generated:
 evidence_strength: moderate
 sources:
   - id: muthanna-2021
-    title: "Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health."
+    title: Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health.
     author: Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil
+    q: 3
+    i: 1
   - id: muthanna-2021-2
-    title: "Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health."
+    title: Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health.
     author: Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil
+    q: 3
+    i: 1
 ---
 
 # Bullying involvement is associated with lower academic achievement (pooled OR = 0.61)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` Children involved in bullying behaviour are significantly more likely to have low academic achievement (k = 14, OR = 0.61, 95% CI 0.47-0.79, p = 0.000). [→ Muthanna 2021](#muthanna-2021)

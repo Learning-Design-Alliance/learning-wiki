@@ -10,12 +10,15 @@ generated:
 evidence_strength: moderate
 sources:
   - id: poon-k-2018
-    resource: "https://doi.org/10.3389/fpsyg.2017.02311"
-    title: "Poon K (2018) Hot and Cool Executive Functions in Adolescence: Development and Contributions to Important Developmental Outcomes. Front. Psychol. 8:2311. https://doi.org/10.3389/fpsyg.2017.02311"
-    author: Poon K
+    title: Poon K 2018
+    q: 2
+    i: 2
 ---
 
 # Hot executive function (CGT risk adjustment) shows a bell-shaped developmental curve, peaking at age 14 and declining thereafter
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
 
 ## Subclaims
 `q2 i2` Risk adjustment on the Cambridge Gambling Task rises to a peak at age 14 and declines significantly by age 17. [→ Poon K 2018](#poon-k-2018)

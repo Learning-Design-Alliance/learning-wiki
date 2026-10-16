@@ -12,10 +12,15 @@ sources:
   - id: jaroslawska-2019
     resource: "https://doi.org/10.1037/pag0000358"
     title: "Jaroslawska, A. J., & Rhodes, S. (2019). Adult Age Diﬀerences in the Eﬀects of Processing on Storage in Working Memory: A Meta-Analysis. Psychology & Aging. https://doi.org/10.1037/pag0000358"
-    author: "Jaroslawska, A. J., & Rhodes, S"
+    author: "Jaroslawska, A. J., & Rhodes, S."
+    q: 3
+    i: 0
 ---
 
 # Older adults show a small but disproportionate age-related cost of concurrent processing on storage accuracy in working memory dual tasks
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
 
 ## Subclaims
 `q3 i0` The paired standardized mean difference (Hedges' g) in the single-versus-dual task cost is -0.182, indicating the single-dual difference is smaller for younger adults than older adults. [→ Jaroslawska 2019](#jaroslawska-2019)

@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.3389/fpsyg.2017.01040"
     title: "Buttelmann F and Karbach J (2017). Development and Plasticity of Cognitive Flexibility in Early and Middle Childhood. Front. Psychol. 8:1040. https://doi.org/10.3389/fpsyg.2017.01040"
     author: Buttelmann F and Karbach J
+    q: 2
+    i: "?"
 ---
 
 # Lower-baseline participants often benefit more from executive-function training (compensation effects), and individual differences moderate training gains
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` EF training often produced compensation effects, with participants with lower baseline performance benefiting more; age, fluid intelligence, motivation, and training gain amount also contributed to intervention success. [→ Buttelmann F and Karbach J 2017](#buttelmann-f-and-karbach-j-2017)

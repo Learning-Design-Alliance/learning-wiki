@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1016/j.neuropsychologia.2010.10.018"
     title: "Bert De Smedt, Bart Boets. (2010). Phonological processing and arithmetic fact retrieval: Evidence from developmental dyslexia. Neuropsychologia, 48, 3973–3981. https://doi.org/10.1016/j.neuropsychologia.2010.10.018"
     author: Bert De Smedt, Bart Boets
+    q: 3
+    i: 3
 ---
 
 # Adults with developmental dyslexia use arithmetic fact retrieval less frequently than matched controls during single-digit multiplication and subtraction
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` Adults with dyslexia showed significantly less frequent retrieval use than matched controls across single-digit multiplication and subtraction. [→ Bert De Smedt 2010](#bert-de-smedt-2010)

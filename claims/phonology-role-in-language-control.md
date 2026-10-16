@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.3758/s13423-015-0836-1"
     title: "Mathieu Declerck & Andrea M. Philipp. (2015). A review of control processes and their locus in language switching. Psychon Bull Rev. https://doi.org/10.3758/s13423-015-0836-1"
     author: "Mathieu Declerck & Andrea M. Philipp"
+    q: 2
+    i: "?"
   - id: mathieu-declerck-andrea-m-philipp-2015-2
     resource: "https://doi.org/10.3758/s13423-015-0836-1"
     title: "Mathieu Declerck & Andrea M. Philipp. (2015). A review of control processes and their locus in language switching. Psychon Bull Rev. https://doi.org/10.3758/s13423-015-0836-1"
     author: "Mathieu Declerck & Andrea M. Philipp"
+    q: 2
+    i: "?"
 ---
 
 # Phonological processing is affected by and affects language control in switching, though effects are not uniform across studies
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Switch trials produce a more pronounced non-target-language accent, indicating phonological processing is affected by language switching. [→ Mathieu Declerck & Andrea M. Philipp 2015](#mathieu-declerck-andrea-m-philipp-2015)

@@ -12,14 +12,21 @@ sources:
   - id: xu-2023
     resource: "https://doi.org/10.1057/s41599-023-01508-1"
     title: "Xu, E., Wang, W., & Wang, Q. (2023). The effectiveness of collaborative problem solving in promoting students' critical thinking: A meta-analysis based on empirical literature. Humanities and Social Sciences Communications. https://doi.org/10.1057/s41599-023-01508-1"
-    author: "Xu, E., Wang, W., & Wang, Q"
+    author: "Xu, E., Wang, W., & Wang, Q."
+    q: 3
+    i: 2
   - id: xu-2023-2
     resource: "https://doi.org/10.1057/s41599-023-01508-1"
     title: "Xu, E., Wang, W., & Wang, Q. (2023). The effectiveness of collaborative problem solving in promoting students' critical thinking: A meta-analysis based on empirical literature. Humanities and Social Sciences Communications. https://doi.org/10.1057/s41599-023-01508-1"
-    author: "Xu, E., Wang, W., & Wang, Q"
+    author: "Xu, E., Wang, W., & Wang, Q."
+    q: 3
+    i: 2
 ---
 
 # Teacher-supported learning scaffolds show the largest effect (ES = 0.92), and longer intervention durations yield larger effects
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Among learning scaffolds, the teacher-supported scaffold had the largest effect (ES = 0.92, P < 0.01), compared with resource-supported (ES = 0.69) and technique-supported (ES = 0.63). [→ Xu 2023](#xu-2023)

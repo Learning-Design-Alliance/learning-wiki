@@ -13,17 +13,26 @@ sources:
     resource: "https://doi.org/10.3389/fpsyg.2017.01040"
     title: "Buttelmann F and Karbach J (2017). Development and Plasticity of Cognitive Flexibility in Early and Middle Childhood. Front. Psychol. 8:1040. https://doi.org/10.3389/fpsyg.2017.01040"
     author: Buttelmann F and Karbach J
+    q: 2
+    i: "?"
   - id: buttelmann-f-and-karbach-j-2017-2
     resource: "https://doi.org/10.3389/fpsyg.2017.01040"
     title: "Buttelmann F and Karbach J (2017). Development and Plasticity of Cognitive Flexibility in Early and Middle Childhood. Front. Psychol. 8:1040. https://doi.org/10.3389/fpsyg.2017.01040"
     author: Buttelmann F and Karbach J
+    q: 2
+    i: "?"
   - id: buttelmann-f-and-karbach-j-2017-3
     resource: "https://doi.org/10.3389/fpsyg.2017.01040"
     title: "Buttelmann F and Karbach J (2017). Development and Plasticity of Cognitive Flexibility in Early and Middle Childhood. Front. Psychol. 8:1040. https://doi.org/10.3389/fpsyg.2017.01040"
     author: Buttelmann F and Karbach J
+    q: 2
+    i: 0
 ---
 
 # Task-switching training improves untrained switching and other executive functions in school-aged children, though transfer findings are heterogeneous
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment · `i0` negligible
 
 ## Subclaims
 `q2 i?` Four sessions of task-switching training improved performance in an untrained switching task, inhibition, verbal and visuo-spatial working memory, and fluid intelligence in 8- to 10-year-olds compared to single-task training controls. [→ Buttelmann F and Karbach J 2017](#buttelmann-f-and-karbach-j-2017)

@@ -16,6 +16,9 @@ sources:
 
 # Future bilingualism studies should measure and analyze language history, context, and methodological modulators
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The review's forward-looking recommendation is that further studies on the bilingual effect should consider the role of modulators on the observed results, naming language history and context and methodological differences. This means characterizing participants' language backgrounds, acquisition timing, home and school language contexts, and socioeconomic status, and reporting them consistently. The review presents this as necessary because inconsistent results currently preclude definite conclusions.
 

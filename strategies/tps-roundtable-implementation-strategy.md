@@ -16,6 +16,9 @@ sources:
 
 # Implement TPS and RoundTable with trained teachers across subject areas to target critical thinking skills
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article's procedure offers an implementable recipe: a teacher with over 10 years of experience received 20 hours of cooperative learning training, organized heterogeneous groups of four with rotating roles, and ran 21 activities using Think-Pair-Share and RoundTable with similar frequency across Language Arts, Environment Study and Mathematics. Activities were designed to promote the assessed skills through observation, reading, writing, discussion, and elaboration of Venn diagrams from images, texts and videos.
 

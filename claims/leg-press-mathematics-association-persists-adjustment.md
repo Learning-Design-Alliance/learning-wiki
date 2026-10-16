@@ -12,10 +12,15 @@ sources:
   - id: cadenas-sanchez-2020
     resource: "https://doi.org/10.1080/02640414.2020.1729516"
     title: "Cadenas-Sanchez, C., Migueles, J. H., Esteban-Cornejo, I., Mora-Gonzalez, J., Henriksson, P., Rodriguez-Ayllon, M., Molina-García, P., Löf, M., Labayen, I., Hillman, C. H., Catena, A., & Ortega, F. B. (2020). Fitness, physical activity, and academic achievement in overweight/obese children. Journal of Sports Sciences. https://doi.org/10.1080/02640414.2020.1729516"
-    author: "Cadenas-Sanchez, C., Migueles, J. H., Esteban-Cornejo, I., Mora-Gonzalez, J., Henriksson, P., Rodriguez-Ayllon, M., Molina-García, P., Löf, M., Labayen, I., Hillman, C. H., Catena, A., & Ortega, F. B"
+    author: "Cadenas-Sanchez, C., Migueles, J. H., Esteban-Cornejo, I., Mora-Gonzalez, J., Henriksson, P., Rodriguez-Ayllon, M., Molina-García, P., Löf, M., Labayen, I., Hillman, C. H., Catena, A., & Ortega, F. B."
+    q: 2
+    i: 2
 ---
 
 # Laboratory-based lower-limb muscular strength (1-RM leg press) is associated with mathematics skills and persists after adjustment for BMI and cardiorespiratory fitness
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
 
 ## Subclaims
 `q2 i2` 1-RM leg press was associated with mathematics (β=0.251) and calculation skills (β=0.306) in Model 1, and remained significant after additional adjustment for BMI and cardiorespiratory fitness (mathematics β=0.316; calculation skills β=0.383). [→ Cadenas-Sanchez 2020](#cadenas-sanchez-2020)

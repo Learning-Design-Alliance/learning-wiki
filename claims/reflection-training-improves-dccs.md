@@ -13,17 +13,26 @@ sources:
     resource: "https://doi.org/10.3389/fpsyg.2017.01040"
     title: "Buttelmann F and Karbach J (2017). Development and Plasticity of Cognitive Flexibility in Early and Middle Childhood. Front. Psychol. 8:1040. https://doi.org/10.3389/fpsyg.2017.01040"
     author: Buttelmann F and Karbach J
+    q: 2
+    i: "?"
   - id: buttelmann-f-and-karbach-j-2017-2
     resource: "https://doi.org/10.3389/fpsyg.2017.01040"
     title: "Buttelmann F and Karbach J (2017). Development and Plasticity of Cognitive Flexibility in Early and Middle Childhood. Front. Psychol. 8:1040. https://doi.org/10.3389/fpsyg.2017.01040"
     author: Buttelmann F and Karbach J
+    q: 2
+    i: "?"
   - id: buttelmann-f-and-karbach-j-2017-3
     resource: "https://doi.org/10.3389/fpsyg.2017.01040"
     title: "Buttelmann F and Karbach J (2017). Development and Plasticity of Cognitive Flexibility in Early and Middle Childhood. Front. Psychol. 8:1040. https://doi.org/10.3389/fpsyg.2017.01040"
     author: Buttelmann F and Karbach J
+    q: 2
+    i: "?"
 ---
 
 # Metacognitive reflection training improves young children's DCCS performance, with behavioral and neural changes
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Training with corrective feedback and instructions to reflect on the task led to substantial DCCS improvements in 2- to 4-year-olds, greater untrained-DCCS gains than controls, reduced N2 amplitude and increased reaction time. [→ Buttelmann F and Karbach J 2017](#buttelmann-f-and-karbach-j-2017)

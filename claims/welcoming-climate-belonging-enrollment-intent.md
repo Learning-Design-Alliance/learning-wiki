@@ -13,9 +13,14 @@ sources:
     resource: "https://www.iastatedigitalpress.com/jctp/"
     title: "Evelyn Ezikwelu. (2020). Institutional Racism and Campus Racial Climate: Struggles for Sense of Belonging Among Black Students in K-12 Public Schools. Journal of Critical Thought and Praxis, 10(1). https://www.iastatedigitalpress.com/jctp/"
     author: Evelyn Ezikwelu
+    q: 2
+    i: "?"
 ---
 
 # A welcoming campus racial climate fosters African American students' sense of belonging and intent to continue enrollment in mostly White schools
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` African Americans developed a sense of belonging and showed intent to continue enrollment in mostly White schools when the campus racial climate was welcoming. [→ Evelyn Ezikwelu 2020](#evelyn-ezikwelu-2020)

@@ -12,18 +12,25 @@ sources:
   - id: könen-2015
     resource: "https://doi.org/10.1111/jcpp.12296"
     title: "Könen, T., Dirk, J., & Schmiedek, F. (2015). Cognitive benefits of last night's sleep: daily variations in children's sleep behavior are related to working memory fluctuations. Journal of Child Psychology and Psychiatry, 56(2), 171–182. https://doi.org/10.1111/jcpp.12296"
-    author: "Könen, T., Dirk, J., & Schmiedek, F"
+    author: "Könen, T., Dirk, J., & Schmiedek, F."
+    q: 3
+    i: "?"
   - id: könen-2015-2
     resource: "https://doi.org/10.1111/jcpp.12296"
     title: "Könen, T., Dirk, J., & Schmiedek, F. (2015). Cognitive benefits of last night's sleep: daily variations in children's sleep behavior are related to working memory fluctuations. Journal of Child Psychology and Psychiatry, 56(2), 171–182. https://doi.org/10.1111/jcpp.12296"
-    author: "Könen, T., Dirk, J., & Schmiedek, F"
+    author: "Könen, T., Dirk, J., & Schmiedek, F."
+    q: 3
+    i: "?"
 ---
 
 # Previous night's sleep quality and time in bed predict children's morning working memory performance fluctuations
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+
 ## Subclaims
-`q3 i?` In the morning, sleep behavior dimensions accounted for 8% of children's daily working memory performance fluctuations, with time in bed and sleep quality reliably predicting performance over and above daily trends. [→ Könen 2015](#könen-2015)
-`q3 i?` Time in bed showed a significant positive linear and negative quadratic fixed effect on morning performance, an asymmetric inverted-U relationship in which performance after too little and after too much sleep was lowered. [→ Könen 2015 (2)](#könen-2015-2)
+`q3 i?` In the morning, sleep behavior dimensions accounted for 8% of children's daily working memory performance fluctuations, with time in bed and sleep quality reliably predicting performance over and above daily trends. [→ Könen 2015](#konen-2015)
+`q3 i?` Time in bed showed a significant positive linear and negative quadratic fixed effect on morning performance, an asymmetric inverted-U relationship in which performance after too little and after too much sleep was lowered. [→ Könen 2015 (2)](#konen-2015-2)
 
 ## Evidence
 

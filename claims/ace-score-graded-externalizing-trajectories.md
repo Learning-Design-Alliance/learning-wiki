@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1016/j.chiabu.2020.104890"
     title: "Leonardo Bevilacqua, Yvonne Kelly, Anja Heilmann, Naomi Priest, Rebecca E. Lacey. (2021). Adverse childhood experiences and trajectories of internalizing, externalizing, and prosocial behaviors from childhood to adolescence. Child Abuse & Neglect 112 (2021) 104890. https://doi.org/10.1016/j.chiabu.2020.104890"
     author: Leonardo Bevilacqua, Yvonne Kelly, Anja Heilmann, Naomi Priest, Rebecca E. Lacey
+    q: 3
+    i: "?"
 ---
 
 # ACE scores show a graded positive association with externalizing behavior trajectories, the strongest of the three outcomes
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Children with more ACEs showed higher externalizing scores at age 3, with adjusted coefficients of 0.142 (1 ACE), 0.299 (2 ACEs), and 0.415 (3+ ACEs), persisting through age 14. [→ Leonardo Bevilacqua 2021](#leonardo-bevilacqua-2021)

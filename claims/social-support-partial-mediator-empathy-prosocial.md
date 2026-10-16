@@ -12,10 +12,15 @@ sources:
   - id: fu-w-2022
     resource: "https://doi.org/10.1057/s41599-022-01296-0"
     title: "Fu W, Wang C, Chai H, Xue R. (2022). Examining the relationship of empathy, social support, and prosocial behavior of adolescents in China: a structural equation modeling approach. Humanities and Social Sciences Communications. https://doi.org/10.1057/s41599-022-01296-0"
-    author: Fu W, Wang C, Chai H, Xue R
+    author: Fu W, Wang C, Chai H, Xue R.
+    q: 3
+    i: "?"
 ---
 
 # Social support partially mediates the relationship between empathy and prosocial behavior
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In a structural equation model, social support significantly mediated the empathy–prosocial behavior link (95% CI [0.008, 0.130]), with the mediating effect accounting for 7.64% and the direct effect 92.36%. [→ Fu W 2022](#fu-w-2022)

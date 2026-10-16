@@ -12,10 +12,15 @@ sources:
   - id: ghanizadeh-a-2011
     resource: "https://doi.org/10.4306/pi.2011.8.2.89"
     title: "Ghanizadeh A. (2011). Sensory Processing Problems in Children with ADHD, a Systematic Review. Psychiatry Investig 2011;8:89-94. https://doi.org/10.4306/pi.2011.8.2.89"
-    author: Ghanizadeh A
+    author: Ghanizadeh A.
+    q: 2
+    i: "?"
 ---
 
 # Balance and vestibular functioning are impaired in children with ADHD, but evidence is sparse
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Balance performance and postural control are more impaired in children with ADHD combined type than typically developing children, and more than one third have poor balance and coordination. [→ Ghanizadeh A 2011](#ghanizadeh-a-2011)

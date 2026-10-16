@@ -16,6 +16,9 @@ sources:
 
 # Educate parents about sensory processing problems and minimize classroom background noise for children with ADHD and auditory processing problems
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The review recommends that, because parents of children with ADHD are already educated about ADHD symptoms, "they should also be educated about the symptoms and behavioral management of sensory processing problems". For children with ADHD and ODD co-morbidity who are more under-responsive to sounds, it states that background noise in their classroom should be minimized. It also notes treatment plans for children with ADHD and sensory oversensitivity should include management of co-morbid psychiatric problems, and reports occupational therapy as a promising intervention.
 

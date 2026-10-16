@@ -12,10 +12,15 @@ sources:
   - id: den-heijer-2017
     resource: "https://doi.org/10.1007/s00702-016-1593-7"
     title: "Den Heijer, A. E., Groen, Y., Tucha, L., Fuermaier, A. B. M., Koerts, J., Lange, K. W., Thome, J., & Tucha, O. (2017). Sweat it out? The effects of physical exercise on cognition and behavior in children and adults with ADHD: a systematic literature review. J Neural Transm 124(Suppl 1):S3–S26. https://doi.org/10.1007/s00702-016-1593-7"
-    author: "Den Heijer, A. E., Groen, Y., Tucha, L., Fuermaier, A. B. M., Koerts, J., Lange, K. W., Thome, J., & Tucha, O"
+    author: "Den Heijer, A. E., Groen, Y., Tucha, L., Fuermaier, A. B. M., Koerts, J., Lange, K. W., Thome, J., & Tucha, O."
+    q: 2
+    i: "?"
 ---
 
 # Adults with ADHD who frequently engage in physical exercise report healthier psychological well-being than those who do not
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In a correlational study, high physical activity adults with ADHD reported less meta-worrying, fewer problems with intrusive thoughts, and less behavioral impulsivity than low-activity peers. [→ Den Heijer 2017](#den-heijer-2017)

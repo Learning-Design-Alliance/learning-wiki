@@ -12,10 +12,15 @@ sources:
   - id: rouse-2006
     resource: "https://doi.org/10.1080/02796015.2006.12087971"
     title: "Rouse, H. L., & Fantuzzo, J. W. (2006). Validity of the Dynamic Indicators for Basic Early Literacy Skills as an Indicator of Early Literacy for Urban Kindergarten Children. School Psychology Review, 35(3), 341-355. https://doi.org/10.1080/02796015.2006.12087971"
-    author: "Rouse, H. L., & Fantuzzo, J. W"
+    author: "Rouse, H. L., & Fantuzzo, J. W."
+    q: 3
+    i: "?"
 ---
 
 # DIBELS subtests form a significant multivariate pair with peer-play and learning-behavior dimensions (Engaged Literacy Learning variate)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Canonical analysis yielded one significant variate pair, Engaged Literacy Learning (Rc = .26), with positive loadings for Play Interaction and negative loadings for Play Disconnection. [→ Rouse 2006](#rouse-2006)

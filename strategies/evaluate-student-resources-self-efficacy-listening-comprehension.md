@@ -16,6 +16,9 @@ sources:
 
 # Evaluate broader student-related resources such as academic self-efficacy when assessing or supporting listening comprehension
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Based on the finding that vocabulary mediated the self-efficacy to listening comprehension association, the authors suggest listening comprehension models and assessments could extend to broader student-related resources. They write that the findings "imply that the models could extend to evaluating broader student-related resources, such as academic self-efficacy," and that the results "motivate further research into contributors to listening comprehension throughout the elementary years."
 

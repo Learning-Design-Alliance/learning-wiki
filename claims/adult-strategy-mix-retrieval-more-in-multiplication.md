@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1016/j.neuropsychologia.2010.10.018"
     title: "Bert De Smedt, Bart Boets. (2010). Phonological processing and arithmetic fact retrieval: Evidence from developmental dyslexia. Neuropsychologia, 48, 3973–3981. https://doi.org/10.1016/j.neuropsychologia.2010.10.018"
     author: Bert De Smedt, Bart Boets
+    q: 3
+    i: 2
 ---
 
 # Adults use a mix of retrieval and procedural strategies in single-digit arithmetic, with retrieval more frequent in multiplication and procedures more frequent in subtraction
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Retrieval was used more frequently in multiplication than in subtraction, procedures were used more frequently in subtraction than in multiplication, and participants with dyslexia showed significantly less retrieval and more procedure use than controls. [→ Bert De Smedt 2010](#bert-de-smedt-2010)

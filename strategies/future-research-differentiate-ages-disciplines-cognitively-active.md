@@ -16,6 +16,9 @@ sources:
 
 # Research and training programs should differentiate age periods, sporting disciplines, and compare physically active with cognitively active groups
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The review's implications section recommends that future work conduct longitudinal studies across well-differentiated age groups (pre-school through late puberty), distinguish late childhood, pre-adolescence, early adolescence, and adolescence, and attend to "the types of physical activity one engages in, and how different activities may differently influence cognitive functioning". It further recommends comparing physically active groups with cognitively active groups, such as children playing musical instruments, rather than only against sedentary peers, and measuring all cognitive functions in one study. Such knowledge could guide training programs for pre-adolescents aimed at improving discipline-relevant cognitive functions.
 

@@ -12,10 +12,15 @@ sources:
   - id: burton-2021
     resource: "https://doi.org/10.1177/17470218211008895"
     title: "Burton, S., Knibb, G., & Jones, A. (2021). A meta-analytic investigation of the role of reward on inhibitory control. Quarterly Journal of Experimental Psychology. https://doi.org/10.1177/17470218211008895"
-    author: "Burton, S., Knibb, G., & Jones, A"
+    author: "Burton, S., Knibb, G., & Jones, A."
+    q: 4
+    i: "?"
 ---
 
 # The reward-on-inhibitory-control literature shows evidence of publication bias (significant Egger's test), though Trim and Fill imputed no missing studies
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic
 
 ## Subclaims
 `q4 i?` Egger's test of funnel plot asymmetry was significant, suggesting bias in the evidence base, while Trim and Fill analyses imputed no studies and p-curve analyses demonstrated evidential value. [→ Burton 2021](#burton-2021)

@@ -10,12 +10,15 @@ generated:
 evidence_strength: moderate
 sources:
   - id: medeiros-w-2016
-    resource: "https://doi.org/10.3389/fpsyg.2016.01197"
-    title: "Medeiros W, Torro-Alves N, Malloy-Diniz LF and Minervino CM (2016) Executive Functions in Children Who Experience Bullying Situations. Front. Psychol. 7:1197. https://doi.org/10.3389/fpsyg.2016.01197"
-    author: Medeiros W, Torro-Alves N, Malloy-Diniz LF and Minervino CM
+    title: Medeiros W 2016
+    q: 2
+    i: "?"
 ---
 
 # No significant group difference in working memory as measured by the Digit Span Backward subtest
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The four bullying-role groups showed similar working memory performance on the DSB subtest; no effect size was printed for this null result. [→ Medeiros W 2016](#medeiros-w-2016)

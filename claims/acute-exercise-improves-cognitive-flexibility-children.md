@@ -10,12 +10,15 @@ generated:
 evidence_strength: moderate
 sources:
   - id: liu-s-2020
-    resource: "https://doi.org/10.3389/fpsyg.2020.554915"
-    title: "Liu S, Yu Q, Li Z, Cunha PM, Zhang Y, Kong Z, Lin W, Chen S and Cai Y (2020) Effects of Acute and Chronic Exercises on Executive Function in Children and Adolescents: A Systemic Review and Meta-Analysis. Front. Psychol. 11:554915. https://doi.org/10.3389/fpsyg.2020.554915"
-    author: Liu S, Yu Q, Li Z, Cunha PM, Zhang Y, Kong Z, Lin W, Chen S and Cai Y
+    title: Liu S 2020
+    q: 3
+    i: 1
 ---
 
 # Acute exercise significantly improves cognitive flexibility in children and adolescents with a small effect size (SMD = −0.34)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` Acute exercises produce a significant small benefit for cognitive flexibility in children and adolescents (SMD = −0.34). [→ Liu S 2020](#liu-s-2020)

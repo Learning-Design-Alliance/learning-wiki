@@ -12,14 +12,21 @@ sources:
   - id: franke-2018
     resource: "https://doi.org/10.1016/j.euroneuro.2018.08.001"
     title: "Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A. (2018). Live fast, die young? A review on the developmental trajectories of ADHD across the lifespan. European Neuropsychopharmacology. https://doi.org/10.1016/j.euroneuro.2018.08.001"
-    author: Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A
+    author: Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A.
+    q: 2
+    i: "?"
   - id: franke-2018-2
     resource: "https://doi.org/10.1016/j.euroneuro.2018.08.001"
     title: "Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A. (2018). Live fast, die young? A review on the developmental trajectories of ADHD across the lifespan. European Neuropsychopharmacology. https://doi.org/10.1016/j.euroneuro.2018.08.001"
-    author: Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A
+    author: Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A.
+    q: 2
+    i: "?"
 ---
 
 # At least 15% of children with ADHD continue to meet full diagnostic criteria by age 25 and a further 50% meet criteria in partial remission, with European estimates of persistence up to 80%
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` A meta-analysis of longitudinal follow-up studies reported that at least 15% of children with ADHD meet full diagnostic criteria at age 25 and a further 50% meet criteria in partial remission with impairing subthreshold symptoms. [→ Franke 2018](#franke-2018)

@@ -12,10 +12,15 @@ sources:
   - id: jaroslawska-2019
     resource: "https://doi.org/10.1037/pag0000358"
     title: "Jaroslawska, A. J., & Rhodes, S. (2019). Adult Age Diﬀerences in the Eﬀects of Processing on Storage in Working Memory: A Meta-Analysis. Psychology & Aging. https://doi.org/10.1037/pag0000358"
-    author: "Jaroslawska, A. J., & Rhodes, S"
+    author: "Jaroslawska, A. J., & Rhodes, S."
+    q: 3
+    i: "?"
 ---
 
 # In a combined meta-regression, titration but not domain overlap reduces age differences in dual-task performance, with no interaction between the two factors
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` When titration and domain overlap are entered together with their interaction, titration significantly reduces the age difference in storage+processing performance (estimate -0.49, p = 0.039) while overlap does not (p = 0.173) and the interaction is not significant (p = 0.651). [→ Jaroslawska 2019](#jaroslawska-2019)

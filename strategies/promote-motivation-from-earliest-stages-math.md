@@ -16,6 +16,9 @@ sources:
 
 # Promote motivation alongside executive functioning and early numeracy development from the earliest stages of mathematics education
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Based on the finding that motivation exerts an indirect effect on later mathematical performance, the authors recommend that educators and parents enhance children's motivation as a basic driver of learning from the earliest stages. They recommend "interesting mathematical tasks such as projects that emerge from student's interests," "activities focused on highe r-order thinking," and "avoiding anxiety by promoting cooperative work rather than competitive," while warning against defining success as fast, correct responses and rote, repetitive learning.
 

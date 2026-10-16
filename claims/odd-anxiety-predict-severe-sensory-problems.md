@@ -12,10 +12,15 @@ sources:
   - id: ghanizadeh-a-2011
     resource: "https://doi.org/10.4306/pi.2011.8.2.89"
     title: "Ghanizadeh A. (2011). Sensory Processing Problems in Children with ADHD, a Systematic Review. Psychiatry Investig 2011;8:89-94. https://doi.org/10.4306/pi.2011.8.2.89"
-    author: Ghanizadeh A
+    author: Ghanizadeh A.
+    q: 2
+    i: "?"
 ---
 
 # ODD and anxiety co-morbidity predict more severe sensory processing problems in children with ADHD
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Co-morbidity with oppositional defiant disorder and anxiety predicts more severe sensory processing problems in children with ADHD. [→ Ghanizadeh A 2011](#ghanizadeh-a-2011)

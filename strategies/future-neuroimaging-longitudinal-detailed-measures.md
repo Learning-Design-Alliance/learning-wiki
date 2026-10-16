@@ -16,6 +16,9 @@ sources:
 
 # Prioritize longitudinal designs, detailed screen-time measures, and late-adolescent samples in future neuroimaging research
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 As a research-gap strategy, the review recommends that future studies address the field's methodological weaknesses. It states that "more longitudinal research is needed to identify structural changes related to Internet-related habits and use over time" and that such studies "should use more detailed measures of screen time (e.g., including smartphone and social media use)" and replicate results in late adolescent populations, since most current evidence is cross-sectional and covers early-to-mid adolescence.
 

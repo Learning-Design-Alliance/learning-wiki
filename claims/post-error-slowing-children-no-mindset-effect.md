@@ -12,10 +12,15 @@ sources:
   - id: schroder-hans-s-2017
     resource: "https://doi.org/10.1016/j.dcn.2017.01.004"
     title: "Schroder Hans S., Fisher Megan E., Lin Yanli, Lo Sharon L., Danovitch Judith H., Moser Jason S. (2017). Neural evidence for enhanced attention to mistakes among school-aged children with a growth mindset. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2017.01.004"
-    author: Schroder Hans S., Fisher Megan E., Lin Yanli, Lo Sharon L., Danovitch Judith H., Moser Jason S
+    author: Schroder Hans S., Fisher Megan E., Lin Yanli, Lo Sharon L., Danovitch Judith H., Moser Jason S.
+    q: 3
+    i: 3
 ---
 
 # Children showed post-error slowing, unaffected by growth mindset, and no baseline post-error accuracy effect
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` RTs on correct hits following false alarms were longer than those following correct hits (F(1, 122) = 55.81, p < 0.001, η2p = 0.31), with no Accuracy x Mindset interaction; post-error and post-correct accuracy did not differ without the covariate. [→ Schroder Hans S. 2017](#schroder-hans-s-2017)

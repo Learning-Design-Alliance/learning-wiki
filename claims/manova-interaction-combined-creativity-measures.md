@@ -12,10 +12,15 @@ sources:
   - id: van-dijk-2020
     resource: "https://doi.org/10.3390/jintelligence8040037"
     title: "van Dijk, M., Blom, E., Kroesbergen, E. H., & Leseman, P. P. M. (2020). The Influence of Situational Cues on Children’s Creativity in an Alternative Uses Task and the Moderating Effect of Selective Attention. Journal of Intelligence, 8(4), 37. https://doi.org/10.3390/jintelligence8040037"
-    author: "van Dijk, M., Blom, E., Kroesbergen, E. H., & Leseman, P. P. M"
+    author: "van Dijk, M., Blom, E., Kroesbergen, E. H., & Leseman, P. P. M."
+    q: 3
+    i: 2
 ---
 
 # The multivariate effect of stimulus condition and selective attention on the combined creativity measures showed a significant condition × selective attention interaction
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` The overall MANOVA returned a significant interaction effect between condition and selective attention on the combined creativity measures. [→ van Dijk 2020](#van-dijk-2020)

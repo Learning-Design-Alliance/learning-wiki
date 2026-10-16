@@ -10,12 +10,15 @@ generated:
 evidence_strength: moderate
 sources:
   - id: russell-ae-2015
-    resource: "https://doi.org/10.1371/journal.pone.0128248"
-    title: "Russell AE, Ford T, Russell G (2015) Socioeconomic Associations with ADHD: Findings from a Mediation Analysis. PLoS ONE 10(6): e0128248. https://doi.org/10.1371/journal.pone.0128248"
-    author: Russell AE, Ford T, Russell G
+    title: Russell AE 2015
+    q: 2
+    i: "?"
 ---
 
 # Parental education and occupational status showed no significant association with ADHD in this sample
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Despite higher ADHD prevalence in families with lower parental education and occupational status, these indicators were not significantly associated with ADHD. [→ Russell AE 2015](#russell-ae-2015)

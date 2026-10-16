@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1111/j.1467-9817.2012.01551.x"
     title: "Marie-Line Bosse, Nathalie Chaves, Pierre Largy, Sylviane Valdois. (2015). Orthographic learning during reading: the role of whole-word visual processing. Journal of Research in Reading, 38, pp.141-158. https://doi.org/10.1111/j.1467-9817.2012.01551.x"
     author: Marie-Line Bosse, Nathalie Chaves, Pierre Largy, Sylviane Valdois
+    q: 3
+    i: "?"
 ---
 
 # The whole-word presentation effect is independent of target reading accuracy and speed during learning.
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` The effect was affected neither by target reading accuracy nor by target reading speed during the learning phase. [→ Marie-Line Bosse 2015](#marie-line-bosse-2015)

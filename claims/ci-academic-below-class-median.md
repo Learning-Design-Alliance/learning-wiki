@@ -12,10 +12,15 @@ sources:
   - id: punch-2011
     resource: "https://doi.org/10.1155/2011/573280"
     title: "Punch, R., & Hyde, M. B. (2011). Communication, Psychosocial, and Educational Outcomes of Children with Cochlear Implants and Challenges Remaining for Professionals and Parents. International Journal of Otolaryngology. https://doi.org/10.1155/2011/573280"
-    author: "Punch, R., & Hyde, M. B"
+    author: "Punch, R., & Hyde, M. B."
+    q: 2
+    i: "?"
 ---
 
 # Teachers judged almost 70% of children with cochlear implants to be below their class median in academic performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Almost 70% of children in the teacher reports fell below the class median in academic performance, and between 50% and 60% of teachers disagreed that children were achieving high standards in reading, writing, and maths or at the expected level for their age. [→ Punch 2011](#punch-2011)

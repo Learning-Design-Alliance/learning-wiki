@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.3389/fpsyg.2021.671817"
     title: "Marciano Laura, Camerini Anne-Linda, Morese Rosalba. (2021). The Developing Brain in the Digital Era: A Scoping Review of Structural and Functional Correlates of Screen Time in Adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2021.671817"
     author: Marciano Laura, Camerini Anne-Linda, Morese Rosalba
+    q: 3
+    i: "?"
   - id: marciano-laura-2021-2
     resource: "https://doi.org/10.3389/fpsyg.2021.671817"
     title: "Marciano Laura, Camerini Anne-Linda, Morese Rosalba. (2021). The Developing Brain in the Digital Era: A Scoping Review of Structural and Functional Correlates of Screen Time in Adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2021.671817"
     author: Marciano Laura, Camerini Anne-Linda, Morese Rosalba
+    q: 3
+    i: "?"
 ---
 
 # Frequency of Internet use negatively predicts longitudinal change in gray and white matter volumes and in verbal IQ in early adolescents
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Longitudinal VBM analyses showed frequency of Internet use negatively predicted change (smaller volume increase) in regional gray and white matter volumes of a widespread anatomical cluster. [→ Marciano Laura 2021](#marciano-laura-2021)

@@ -12,10 +12,15 @@ sources:
   - id: adolphus-2013
     resource: "https://doi.org/10.3389/fnhum.2013.00425"
     title: "Adolphus, K., Lawton, C. L., and Dye, L. (2013). The effects of breakfast on behavior and academic performance in children and adolescents. Frontiers in Human Neuroscience. https://doi.org/10.3389/fnhum.2013.00425"
-    author: Adolphus, K., Lawton, C. L., and Dye, L
+    author: Adolphus, K., Lawton, C. L., and Dye, L.
+    q: 2
+    i: "?"
 ---
 
 # A mid-morning snack benefits on-task behavior only for children who consumed a small breakfast, correcting the energy deficiency
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Children who consumed a small breakfast (<150 Kcal) spent significantly more time on-task when a mid-morning snack was also eaten; this was not evident in children who consumed more energy at breakfast. [→ Adolphus 2013](#adolphus-2013)

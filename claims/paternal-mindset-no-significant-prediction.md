@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.3389/fpsyg.2023.1110944"
     title: "Jiao Chen and Chunhui Liu. (2023). The longitudinal association between children’s growth mindset in senior primary school and their parents’ growth mindset. Front. Psychol. 14:1110944. https://doi.org/10.3389/fpsyg.2023.1110944"
     author: Jiao Chen and Chunhui Liu
+    q: 3
+    i: "?"
 ---
 
 # Neither the initial level nor the decline of fathers' growth mindset significantly predicted children's growth mindset development
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Neither fathers' growth mindset intercept nor slope significantly predicted children's growth mindset intercept or slope in the parallel process models. [→ Jiao Chen and Chunhui Liu 2023](#jiao-chen-and-chunhui-liu-2023)

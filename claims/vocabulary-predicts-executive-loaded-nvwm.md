@@ -10,12 +10,15 @@ generated:
 evidence_strength: moderate
 sources:
   - id: marshall-c-2015
-    resource: "https://doi.org/10.3389/fpsyg.2015.00527"
-    title: "Marshall C, Jones A, Denmark T, Mason K, Atkinson J, Botting N and Morgan G (2015) Deaf children's non-verbal working memory is impacted by their language experience. Front. Psychol. 6:527. https://doi.org/10.3389/fpsyg.2015.00527"
-    author: Marshall C, Jones A, Denmark T, Mason K, Atkinson J, Botting N and Morgan G
+    title: Marshall C 2015
+    q: 3
+    i: "?"
 ---
 
 # Vocabulary scores predicted executive-loaded non-verbal working memory scores beyond age and non-verbal reasoning
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Expressive One Word Picture Vocabulary Test scores were a significant unique predictor of Spatial Span Backward and Odd One Out scores when age and WASI matrix reasoning were controlled. [→ Marshall C 2015](#marshall-c-2015)

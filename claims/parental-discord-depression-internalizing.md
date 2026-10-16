@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1016/j.chiabu.2020.104890"
     title: "Leonardo Bevilacqua, Yvonne Kelly, Anja Heilmann, Naomi Priest, Rebecca E. Lacey. (2021). Adverse childhood experiences and trajectories of internalizing, externalizing, and prosocial behaviors from childhood to adolescence. Child Abuse & Neglect 112 (2021) 104890. https://doi.org/10.1016/j.chiabu.2020.104890"
     author: Leonardo Bevilacqua, Yvonne Kelly, Anja Heilmann, Naomi Priest, Rebecca E. Lacey
+    q: 3
+    i: "?"
 ---
 
 # Parental discord and parental depression show the strongest individual-ACE associations with internalizing behavior
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Parental discord (β= 0.125) and parental depression (β= 0.113) were the individual ACEs most strongly associated with internalizing problems by age 3, with trajectories increasing over time for parental depression. [→ Leonardo Bevilacqua 2021](#leonardo-bevilacqua-2021)

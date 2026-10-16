@@ -10,16 +10,19 @@ generated:
 evidence_strength: moderate
 sources:
   - id: brookman-byrne-a-2018
-    resource: "https://doi.org/10.1371/journal.pone.0198973"
-    title: "Brookman-Byrne A, Mareschal D, Tolmie AK, Dumontheil I (2018) Inhibitory control and counterintuitive science and maths reasoning in adolescence. PLoS ONE 13(6): e0198973. https://doi.org/10.1371/journal.pone.0198973"
-    author: Brookman-Byrne A, Mareschal D, Tolmie AK, Dumontheil I
+    title: Brookman-Byrne A 2018
+    q: 3
+    i: 2
   - id: brookman-byrne-a-2018-2
-    resource: "https://doi.org/10.1371/journal.pone.0198973"
-    title: "Brookman-Byrne A, Mareschal D, Tolmie AK, Dumontheil I (2018) Inhibitory control and counterintuitive science and maths reasoning in adolescence. PLoS ONE 13(6): e0198973. https://doi.org/10.1371/journal.pone.0198973"
-    author: Brookman-Byrne A, Mareschal D, Tolmie AK, Dumontheil I
+    title: Brookman-Byrne A 2018 (2)
+    q: 3
+    i: 3
 ---
 
 # The true-versus-false statement accuracy difference is larger for misconception than control trials, and significant for science but not maths
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2`–`i3`
 
 ## Subclaims
 `q3 i2` Trial type × Statement type interaction: the true–false accuracy difference was smaller in control trials (ηp2 = .120) than misconception trials (ηp2 = .256). [→ Brookman-Byrne A 2018](#brookman-byrne-a-2018)

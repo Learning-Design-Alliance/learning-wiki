@@ -16,6 +16,9 @@ sources:
 
 # Cast a popular child in the defender role-play
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 In the onlooker role-play week, teachers were advised that the defender role should be played by a popular child, because research indicates popular children can be an influential resource in changing classroom attitudes to bullying. The article notes that ideas from students with higher peer social status are more likely to be valued, while ideas from lower-status students are likely to be ignored or rejected, so "awareness of the inﬂuence of the popular child as a defender was crucial to the overall success of class group endeavours to counteract and prevent bullying".
 

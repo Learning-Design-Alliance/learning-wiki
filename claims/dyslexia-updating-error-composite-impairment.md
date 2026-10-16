@@ -10,16 +10,19 @@ generated:
 evidence_strength: moderate
 sources:
   - id: doyle-c-2018
-    resource: "https://doi.org/10.3389/fpsyg.2018.00795"
-    title: "Doyle C, Smeaton AF, Roche RAP and Boran L (2018) Inhibition and Updating, but Not Switching, Predict Developmental Dyslexia and Individual Variation in Reading Ability. Front. Psychol. 9:795. https://doi.org/10.3389/fpsyg.2018.00795"
-    author: Doyle C, Smeaton AF, Roche RAP and Boran L
+    title: Doyle C 2018
+    q: 3
+    i: 3
   - id: doyle-c-2018-2
-    resource: "https://doi.org/10.3389/fpsyg.2018.00795"
-    title: "Doyle C, Smeaton AF, Roche RAP and Boran L (2018) Inhibition and Updating, but Not Switching, Predict Developmental Dyslexia and Individual Variation in Reading Ability. Front. Psychol. 9:795. https://doi.org/10.3389/fpsyg.2018.00795"
-    author: Doyle C, Smeaton AF, Roche RAP and Boran L
+    title: Doyle C 2018 (2)
+    q: 3
+    i: "?"
 ---
 
 # Children with developmental dyslexia show a significant updating impairment at the error z-mean composite level, which remains after controlling for processing speed
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` Dyslexia is associated with a significantly higher updating z-mean error composite score than controls (Cohen's d = 0.86). [→ Doyle C 2018](#doyle-c-2018)

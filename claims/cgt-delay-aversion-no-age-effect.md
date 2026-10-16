@@ -10,12 +10,15 @@ generated:
 evidence_strength: weak
 sources:
   - id: poon-k-2018
-    resource: "https://doi.org/10.3389/fpsyg.2017.02311"
-    title: "Poon K (2018) Hot and Cool Executive Functions in Adolescence: Development and Contributions to Important Developmental Outcomes. Front. Psychol. 8:2311. https://doi.org/10.3389/fpsyg.2017.02311"
-    author: Poon K
+    title: Poon K 2018
+    q: 2
+    i: "?"
 ---
 
 # CGT delay aversion shows a bell-shaped age pattern but no statistically significant age difference in adolescence
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Delay aversion peaked around age 15 in descriptive plots, but the age effect was not statistically significant. [→ Poon K 2018](#poon-k-2018)

@@ -16,6 +16,9 @@ sources:
 
 # Reduce math anxiety in children with DD by improving math achievement early through targeted interventions
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The authors recommend that as educators appreciate the role of math anxiety, interventions reducing it should become part of the math educational system, and suggest "one of the most effective ways to reduce math anxiety is to improve math achievement from an early age through interventions focused on children with DD". Such programs would help students cope with the frustrations inherent in learning mathematics and thereby improve math achievement, turning the failure-fear-failure cycle into success-confidence-success.
 

@@ -12,14 +12,21 @@ sources:
   - id: van-den-driessche-2019
     resource: "https://doi.org/10.1038/s41598-019-46761-0"
     title: "Van den Driessche, C., Chevrier, F., Cleeremans, A. & Sackur, J. (2019). Lower Attentional Skills predict increased exploratory foraging patterns. Scientific Reports 9:10948. https://doi.org/10.1038/s41598-019-46761-0"
-    author: "Van den Driessche, C., Chevrier, F., Cleeremans, A. & Sackur, J"
+    author: "Van den Driessche, C., Chevrier, F., Cleeremans, A. & Sackur, J."
+    q: 3
+    i: "?"
   - id: van-den-driessche-2019-2
     resource: "https://doi.org/10.1038/s41598-019-46761-0"
     title: "Van den Driessche, C., Chevrier, F., Cleeremans, A. & Sackur, J. (2019). Lower Attentional Skills predict increased exploratory foraging patterns. Scientific Reports 9:10948. https://doi.org/10.1038/s41598-019-46761-0"
-    author: "Van den Driessche, C., Chevrier, F., Cleeremans, A. & Sackur, J"
+    author: "Van den Driessche, C., Chevrier, F., Cleeremans, A. & Sackur, J."
+    q: 3
+    i: "?"
 ---
 
 # Higher ADHD rating-scale scores predict better semantic fluency performance and more immediate repetitions in children
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` ADHD-rs scores were positively correlated with total items produced and with the number of different animals named in a semantic fluency task. [→ Van den Driessche 2019](#van-den-driessche-2019)

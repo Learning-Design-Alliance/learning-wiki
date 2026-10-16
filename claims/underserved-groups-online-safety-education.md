@@ -12,10 +12,15 @@ sources:
   - id: walsh-2022
     resource: "https://doi.org/10.1016/j.ijcci.2022.100474"
     title: "Walsh, K., Pink, E., Ayling, N., Sondergeld, A., Dallaston, E., Tournas, P., Serry, E., Trotter, S., Spanos, T., & Rogic, N. (2022). Best Practice Framework for Online Safety Education: Results from a rapid review of the international literature, expert review, and stakeholder consultation. International Journal of Child-Computer Interaction, 33, Article number: 100474. https://doi.org/10.1016/j.ijcci.2022.100474"
-    author: "Walsh, K., Pink, E., Ayling, N., Sondergeld, A., Dallaston, E., Tournas, P., Serry, E., Trotter, S., Spanos, T., & Rogic, N"
+    author: "Walsh, K., Pink, E., Ayling, N., Sondergeld, A., Dallaston, E., Tournas, P., Serry, E., Trotter, S., Spanos, T., & Rogic, N."
+    q: 2
+    i: "?"
 ---
 
 # Stakeholders identified student groups underserved by online safety education, including children with disability and Aboriginal and Torres Strait Islander children
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Although the Framework was viewed as a universal intervention, stakeholders argued specific groups had been underserved in digital environments and online safety education, including children in early primary years, children with literacy-level challenges, culturally and linguistically diverse children, children with disability, and Aboriginal and Torres Strait Islander children. [→ Walsh 2022](#walsh-2022)

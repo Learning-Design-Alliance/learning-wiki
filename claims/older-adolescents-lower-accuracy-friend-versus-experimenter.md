@@ -12,10 +12,15 @@ sources:
   - id: wolf-lk-2015
     resource: "https://doi.org/10.1016/j.adolescence.2015.05.003"
     title: "Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J. (2015). The audience effect in adolescence depends on who's looking over your shoulder. Journal of Adolescence, 43, 5–14. https://doi.org/10.1016/j.adolescence.2015.05.003"
-    author: Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J
+    author: Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J.
+    q: 3
+    i: 3
 ---
 
 # Older adolescents (14.9–17.8 years) show lower relational reasoning accuracy when observed by a friend than by an experimenter, across task difficulty levels
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` In the older adolescent group there was a main effect of social condition on accuracy, driven by lower accuracy in the friend-present than the experimenter-present condition across task-levels. [→ Wolf L.K. 2015](#wolf-lk-2015)

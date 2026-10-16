@@ -12,10 +12,15 @@ sources:
   - id: freel-2011
     resource: "https://doi.org/10.4236/psych.2011.21003"
     title: "Freel, B. L., Clark, M. D., Anderson, M. L., Gilbert, G. L., Musyoka, M. M., & Hauser, P. C. (2011). Deaf Individuals’ Bilingual Abilities: American Sign Language Proficiency, Reading Skills, and Family Characteristics. Psychology, 2(1), 18-23. https://doi.org/10.4236/psych.2011.21003"
-    author: "Freel, B. L., Clark, M. D., Anderson, M. L., Gilbert, G. L., Musyoka, M. M., & Hauser, P. C"
+    author: "Freel, B. L., Clark, M. D., Anderson, M. L., Gilbert, G. L., Musyoka, M. M., & Hauser, P. C."
+    q: 3
+    i: "?"
 ---
 
 # Family communication mode and hearing status at birth were not significantly related to bilingual abilities
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Family communication mode and hearing status at birth did not reach significance at p = 0.05 and were dropped from the regression model. [→ Freel 2011](#freel-2011)

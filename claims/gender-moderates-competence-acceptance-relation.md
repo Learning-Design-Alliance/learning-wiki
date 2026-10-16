@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s10648-019-09479-z"
     title: "Femke van der Wilt, Chiel van der Veen, Claudia van Kruistum, Bert van Oers (2019). Why Do Children Become Rejected by Their Peers? A Review of Studies into the Relationship Between Oral Communicative Competence and Sociometric Status in Childhood. Educational Psychology Review (2019) 31:699–724. https://doi.org/10.1007/s10648-019-09479-z"
     author: Femke van der Wilt, Chiel van der Veen, Claudia van Kruistum, Bert van Oers
+    q: 2
+    i: "?"
 ---
 
 # Oral communicative competence relates to peer acceptance only for boys and not to peer rejection, indicating gender as a moderator
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In a study of 54 children, oral communicative competence was associated with peer acceptance only for boys, and was not associated with peer rejection. [→ Femke van der Wilt 2019](#femke-van-der-wilt-2019)

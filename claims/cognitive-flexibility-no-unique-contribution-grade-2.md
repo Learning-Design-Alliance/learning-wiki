@@ -13,17 +13,24 @@ sources:
     resource: "https://doi.org/10.1080/09297049.2020.1740188"
     title: "Sofia Magalhães, Luísa Carneiro, Teresa Limpo & Marisa Filipe (2020). Executive functions predict literacy and mathematics achievements: The unique contribution of cognitive flexibility in grades 2, 4, and 6. Child Neuropsychology, 26(7), 934-952. https://doi.org/10.1080/09297049.2020.1740188"
     author: "Sofia Magalhães, Luísa Carneiro, Teresa Limpo & Marisa Filipe"
+    q: 2
+    i: "?"
   - id: sofia-magalhães-2020-2
     resource: "https://doi.org/10.1080/09297049.2020.1740188"
     title: "Sofia Magalhães, Luísa Carneiro, Teresa Limpo & Marisa Filipe (2020). Executive functions predict literacy and mathematics achievements: The unique contribution of cognitive flexibility in grades 2, 4, and 6. Child Neuropsychology, 26(7), 934-952. https://doi.org/10.1080/09297049.2020.1740188"
     author: "Sofia Magalhães, Luísa Carneiro, Teresa Limpo & Marisa Filipe"
+    q: 2
+    i: "?"
 ---
 
 # Cognitive flexibility does not add unique explained variance to literacy or mathematics achievement in Grade 2
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+
 ## Subclaims
-`q2 i?` In Grade 2, entering cognitive flexibility at Step 2 did not significantly increase explained variance in literacy achievement (Fchange < 1). [→ Sofia Magalhães 2020](#sofia-magalhães-2020)
-`q2 i?` In Grade 2, entering cognitive flexibility at Step 2 produced no significant increase in explained variance in mathematics achievement (Fchange < 1). [→ Sofia Magalhães 2020 (2)](#sofia-magalhães-2020-2)
+`q2 i?` In Grade 2, entering cognitive flexibility at Step 2 did not significantly increase explained variance in literacy achievement (Fchange < 1). [→ Sofia Magalhães 2020](#sofia-magalhaes-2020)
+`q2 i?` In Grade 2, entering cognitive flexibility at Step 2 produced no significant increase in explained variance in mathematics achievement (Fchange < 1). [→ Sofia Magalhães 2020 (2)](#sofia-magalhaes-2020-2)
 
 ## Evidence
 

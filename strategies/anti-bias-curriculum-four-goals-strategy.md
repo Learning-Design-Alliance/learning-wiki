@@ -16,6 +16,9 @@ sources:
 
 # Implement anti-bias curricular models with four goals to build culturally relevant, strength-based classrooms
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends developing and implementing anti-bias curricular models, citing Derman-Sparks and colleagues (2015), as a method to create cultural relevance and improve intrinsic motivation. Anti-bias curricular tools ensure students experience pedagogical approaches with deliberate relevance to lived experiences. The four goals are self-awareness and positive social identities; comfort and joy with human diversity; recognizing and naming unfairness; and empowerment to act against prejudice and discrimination.
 

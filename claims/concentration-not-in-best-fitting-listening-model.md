@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1177/0142723720941680"
     title: "E. de Bree, M. Zee. (2021). The unique role of verbal memory, vocabulary, concentration and self-efficacy in children's listening comprehension in upper elementary grades. First Language. https://doi.org/10.1177/0142723720941680"
     author: E. de Bree, M. Zee
+    q: 3
+    i: "?"
 ---
 
 # Self-reported concentration was examined as a contributor to listening comprehension but did not emerge in the best-fitting model
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Self-reported concentration was assessed as a potential contributor but is not named among the positive associations in the best-fitting indirect model. [→ E. de Bree 2021](#e-de-bree-2021)

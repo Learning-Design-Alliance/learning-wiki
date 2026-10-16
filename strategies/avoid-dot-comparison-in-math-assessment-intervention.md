@@ -16,6 +16,9 @@ sources:
 
 # Avoid basing mathematics assessments and interventions on dot comparison tasks; prefer comparison formats without salient visual cues
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Because the dot comparison task's correlation with mathematics achievement appears to reflect inhibition demands, the authors conclude that "efforts to integrate dot comparison tasks into mathematical assessment and intervention may therefore be inappropriate". They point to alternative comparison formats that lessen the inhibition load, such as cross-modal tone-versus-dot comparison and second-order visual motion displays in which visual characteristics are unrelated to number, and suggest performance on such tasks "might be unrelated to mathematics skill".
 

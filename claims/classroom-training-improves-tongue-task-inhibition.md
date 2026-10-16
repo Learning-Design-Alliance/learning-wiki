@@ -10,15 +10,18 @@ generated:
 evidence_strength: moderate
 sources:
   - id: honoré-n-2020
-    resource: "https://doi.org/10.3389/fpsyg.2020.01974"
-    title: "Honoré N, Houssa M, Volckaert A, Noël M-P and Nader-Grosbois N (2020) Training Inhibition and Social Cognition in the Classrooms. Front. Psychol. 11:1974. https://doi.org/10.3389/fpsyg.2020.01974"
-    author: Honoré N, Houssa M, Volckaert A, Noël M-P and Nader-Grosbois N
+    title: Honoré N 2020
+    q: 3
+    i: 3
 ---
 
 # The classroom training improves inhibitory control as measured by the Tongue Task
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+
 ## Subclaims
-`q3 i3` Duration holding the candy increased more in the experimental group than in the control group (interaction η² = 0.160). [→ Honoré N 2020](#honoré-n-2020)
+`q3 i3` Duration holding the candy increased more in the experimental group than in the control group (interaction η² = 0.160). [→ Honoré N 2020](#honore-n-2020)
 
 ## Evidence
 

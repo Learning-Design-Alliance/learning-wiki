@@ -10,16 +10,19 @@ generated:
 evidence_strength: moderate
 sources:
   - id: brookman-byrne-a-2018
-    resource: "https://doi.org/10.1371/journal.pone.0198973"
-    title: "Brookman-Byrne A, Mareschal D, Tolmie AK, Dumontheil I (2018) Inhibitory control and counterintuitive science and maths reasoning in adolescence. PLoS ONE 13(6): e0198973. https://doi.org/10.1371/journal.pone.0198973"
-    author: Brookman-Byrne A, Mareschal D, Tolmie AK, Dumontheil I
+    title: Brookman-Byrne A 2018
+    q: 3
+    i: "?"
   - id: brookman-byrne-a-2018-2
-    resource: "https://doi.org/10.1371/journal.pone.0198973"
-    title: "Brookman-Byrne A, Mareschal D, Tolmie AK, Dumontheil I (2018) Inhibitory control and counterintuitive science and maths reasoning in adolescence. PLoS ONE 13(6): e0198973. https://doi.org/10.1371/journal.pone.0198973"
-    author: Brookman-Byrne A, Mareschal D, Tolmie AK, Dumontheil I
+    title: Brookman-Byrne A 2018 (2)
+    q: 3
+    i: "?"
 ---
 
 # Adolescents show lower accuracy and longer reaction times on counterintuitive misconception trials than on matched control trials in science and maths
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Accuracy was lower on misconception trials (54.7%) than control trials (82.2%) in the science and maths misconceptions task. [→ Brookman-Byrne A 2018](#brookman-byrne-a-2018)

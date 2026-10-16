@@ -12,10 +12,15 @@ sources:
   - id: wolf-lk-2015
     resource: "https://doi.org/10.1016/j.adolescence.2015.05.003"
     title: "Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J. (2015). The audience effect in adolescence depends on who's looking over your shoulder. Journal of Adolescence, 43, 5–14. https://doi.org/10.1016/j.adolescence.2015.05.003"
-    author: Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J
+    author: Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J.
+    q: 2
+    i: "?"
 ---
 
 # Individual differences in audience effects are not correlated with self-reported resistance to peer influence
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` None of the significant audience effects from the main analysis correlated with participants' RPI scores. [→ Wolf L.K. 2015](#wolf-lk-2015)

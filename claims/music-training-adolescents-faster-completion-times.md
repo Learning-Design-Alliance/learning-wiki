@@ -10,15 +10,18 @@ generated:
 evidence_strength: weak
 sources:
   - id: rodriguez-gomez-da-and-talero-gutiérrez-c-2022
-    resource: "https://doi.org/10.3389/fpsyg.2022.968144"
-    title: "Rodriguez-Gomez DA and Talero-Gutiérrez C (2022) Eﬀects of music training in executive function performance in children: A systematic review. Front. Psychol. 13:968144. https://doi.org/10.3389/fpsyg.2022.968144"
-    author: Rodriguez-Gomez DA and Talero-Gutiérrez C
+    title: Rodriguez-Gomez DA and Talero-Gutiérrez C 2022
+    q: 2
+    i: "?"
 ---
 
 # In adolescents, prior music training was associated with faster test completion times but no executive function performance differences
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
+
 ## Subclaims
-`q2 i?` Finnish adolescent case-control studies found no improvement in inhibitory control or WM measurements, but significantly faster completion times in music-trained groups. [→ Rodriguez-Gomez DA and Talero-Gutiérrez C 2022](#rodriguez-gomez-da-and-talero-gutiérrez-c-2022)
+`q2 i?` Finnish adolescent case-control studies found no improvement in inhibitory control or WM measurements, but significantly faster completion times in music-trained groups. [→ Rodriguez-Gomez DA and Talero-Gutiérrez C 2022](#rodriguez-gomez-da-and-talero-gutierrez-c-2022)
 
 ## Evidence
 

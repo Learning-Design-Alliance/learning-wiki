@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1080/87565641.2012.733786"
     title: "Vetter, Nora C.; Altgassen, Mareike; Phillips, Louise; Mahy, Caitlin; Kliegel, Matthias. (2013). Development of Affective Theory of Mind Across Adolescence: Disentangling the Role of Executive Functions. Developmental Neuropsychology. https://doi.org/10.1080/87565641.2012.733786"
     author: Vetter, Nora C.; Altgassen, Mareike; Phillips, Louise; Mahy, Caitlin; Kliegel, Matthias
+    q: 3
+    i: "?"
 ---
 
 # Inhibition explains the largest amount of variance in age-related differences in affective theory of mind
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Among inhibition, updating, and shifting, inhibition accounted for the largest share of variance in age-related differences in affective theory of mind. [→ Vetter 2013](#vetter-2013)

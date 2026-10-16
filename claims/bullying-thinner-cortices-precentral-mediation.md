@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1016/j.dcn.2023.101247"
     title: "Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda. (2023). Longitudinal alterations in brain morphometry mediated the effects of bullying victimization on cognitive development in preadolescents. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2023.101247"
     author: Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda
+    q: 3
+    i: 1
 ---
 
 # Bullied preadolescents show thinner cortices in left-hemisphere temporal, precentral, and right rostral middle frontal regions, and precentral thinning mediates 7% of the bullying effect on inhibitory control/attention
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` Bullied children had thinner cortices than non-bullied children in the left hemisphere, left banks of STS, left middle temporal gyrus, left precentral gyrus, and right rostral middle frontal regions. [→ Menken Miriam S. 2023](#menken-miriam-s-2023)

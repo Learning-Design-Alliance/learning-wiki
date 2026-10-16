@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1186/s12889-017-4850-2"
     title: "Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Aubert S, Sampson M, Tremblay MS. (2017). Systematic review of the relationships between sleep duration and health indicators in the early years (0–4 years). BMC Public Health 17(Suppl 5):855. https://doi.org/10.1186/s12889-017-4850-2"
     author: Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Aubert S, Sampson M, Tremblay MS
+    q: 2
+    i: "?"
   - id: chaput-jp-2017-2
     resource: "https://doi.org/10.1186/s12889-017-4850-2"
     title: "Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Aubert S, Sampson M, Tremblay MS. (2017). Systematic review of the relationships between sleep duration and health indicators in the early years (0–4 years). BMC Public Health 17(Suppl 5):855. https://doi.org/10.1186/s12889-017-4850-2"
     author: Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Aubert S, Sampson M, Tremblay MS
+    q: 2
+    i: "?"
 ---
 
 # Shorter sleep duration is associated with higher adiposity in children aged 0–4 years, though evidence quality is low
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Among 13 longitudinal studies, 10 reported shorter sleep duration associated with adiposity gain, 2 null, and 1 the reverse. [→ Chaput JP 2017](#chaput-jp-2017)

@@ -12,10 +12,15 @@ sources:
   - id: fu-w-2022
     resource: "https://doi.org/10.1057/s41599-022-01296-0"
     title: "Fu W, Wang C, Chai H, Xue R. (2022). Examining the relationship of empathy, social support, and prosocial behavior of adolescents in China: a structural equation modeling approach. Humanities and Social Sciences Communications. https://doi.org/10.1057/s41599-022-01296-0"
-    author: Fu W, Wang C, Chai H, Xue R
+    author: Fu W, Wang C, Chai H, Xue R.
+    q: 3
+    i: 1
 ---
 
 # Adolescents' empathy is significantly positively correlated with social support (r = 0.164)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` Empathy correlated significantly positively with social support (r = 0.164, p < 0.01) in Chinese adolescents. [→ Fu W 2022](#fu-w-2022)

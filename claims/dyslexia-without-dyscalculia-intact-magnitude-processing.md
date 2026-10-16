@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1016/j.neuropsychologia.2010.10.018"
     title: "Bert De Smedt, Bart Boets. (2010). Phonological processing and arithmetic fact retrieval: Evidence from developmental dyslexia. Neuropsychologia, 48, 3973–3981. https://doi.org/10.1016/j.neuropsychologia.2010.10.018"
     author: Bert De Smedt, Bart Boets
+    q: 3
+    i: 1
 ---
 
 # Adults with dyslexia without dyscalculia show no deficit in nonsymbolic numerical magnitude processing
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` The numerical distance effect did not differ between dyslexia and control groups, indicating no significant deficits in understanding numerical magnitudes. [→ Bert De Smedt 2010](#bert-de-smedt-2010)

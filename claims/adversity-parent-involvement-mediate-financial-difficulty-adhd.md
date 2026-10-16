@@ -10,16 +10,19 @@ generated:
 evidence_strength: moderate
 sources:
   - id: russell-ae-2015
-    resource: "https://doi.org/10.1371/journal.pone.0128248"
-    title: "Russell AE, Ford T, Russell G (2015) Socioeconomic Associations with ADHD: Findings from a Mediation Analysis. PLoS ONE 10(6): e0128248. https://doi.org/10.1371/journal.pone.0128248"
-    author: Russell AE, Ford T, Russell G
+    title: Russell AE 2015
+    q: 2
+    i: "?"
   - id: russell-ae-2015-2
-    resource: "https://doi.org/10.1371/journal.pone.0128248"
-    title: "Russell AE, Ford T, Russell G (2015) Socioeconomic Associations with ADHD: Findings from a Mediation Analysis. PLoS ONE 10(6): e0128248. https://doi.org/10.1371/journal.pone.0128248"
-    author: Russell AE, Ford T, Russell G
+    title: Russell AE 2015 (2)
+    q: 2
+    i: "?"
 ---
 
 # Family adversity and lower parental involvement mediate 27.8% of the association between early financial difficulty and ADHD at age 7
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In a multiple mediation model, presence of family adversity at age 2–4 was the largest mediator, with lower mother and partner involvement at age 6 also mediating the link. [→ Russell AE 2015](#russell-ae-2015)

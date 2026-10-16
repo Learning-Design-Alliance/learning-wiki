@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.3389/fpsyg.2021.671817"
     title: "Marciano Laura, Camerini Anne-Linda, Morese Rosalba. (2021). The Developing Brain in the Digital Era: A Scoping Review of Structural and Functional Correlates of Screen Time in Adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2021.671817"
     author: Marciano Laura, Camerini Anne-Linda, Morese Rosalba
+    q: 3
+    i: "?"
   - id: marciano-laura-2021-2
     resource: "https://doi.org/10.3389/fpsyg.2021.671817"
     title: "Marciano Laura, Camerini Anne-Linda, Morese Rosalba. (2021). The Developing Brain in the Digital Era: A Scoping Review of Structural and Functional Correlates of Screen Time in Adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2021.671817"
     author: Marciano Laura, Camerini Anne-Linda, Morese Rosalba
+    q: 3
+    i: "?"
 ---
 
 # Screen time is not significantly associated with white matter microstructure (FA, MD) in 10-year-olds, while sports participation is positively associated with FA
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In a large sample of 10-year-olds, screen time was not significantly associated with any global DTI metrics including FA and MD. [→ Marciano Laura 2021](#marciano-laura-2021)

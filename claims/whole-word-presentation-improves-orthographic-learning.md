@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1111/j.1467-9817.2012.01551.x"
     title: "Marie-Line Bosse, Nathalie Chaves, Pierre Largy, Sylviane Valdois. (2015). Orthographic learning during reading: the role of whole-word visual processing. Journal of Research in Reading, 38, pp.141-158. https://doi.org/10.1111/j.1467-9817.2012.01551.x"
     author: Marie-Line Bosse, Nathalie Chaves, Pierre Largy, Sylviane Valdois
+    q: 3
+    i: "?"
 ---
 
 # Children recognise the orthographic form of a pseudoword more often when its entire letter string was available at once during reading.
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Target orthographic forms were recognised more often when the pseudoword's entire orthographic sequence was available at once during the learning phase. [→ Marie-Line Bosse 2015](#marie-line-bosse-2015)

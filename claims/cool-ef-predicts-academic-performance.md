@@ -10,16 +10,19 @@ generated:
 evidence_strength: moderate
 sources:
   - id: poon-k-2018
-    resource: "https://doi.org/10.3389/fpsyg.2017.02311"
-    title: "Poon K (2018) Hot and Cool Executive Functions in Adolescence: Development and Contributions to Important Developmental Outcomes. Front. Psychol. 8:2311. https://doi.org/10.3389/fpsyg.2017.02311"
-    author: Poon K
+    title: Poon K 2018
+    q: 2
+    i: "?"
   - id: poon-k-2018-2
-    resource: "https://doi.org/10.3389/fpsyg.2017.02311"
-    title: "Poon K (2018) Hot and Cool Executive Functions in Adolescence: Development and Contributions to Important Developmental Outcomes. Front. Psychol. 8:2311. https://doi.org/10.3389/fpsyg.2017.02311"
-    author: Poon K
+    title: Poon K 2018 (2)
+    q: 2
+    i: "?"
 ---
 
 # Cool EF (Stroop inhibition and CNT cognitive flexibility) predicts academic performance, while no hot EF variable does
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Stroop interference and CNT cognitive flexibility account for an additional 15.2% of variance in average grade, controlling general intellectual ability. [→ Poon K 2018](#poon-k-2018)

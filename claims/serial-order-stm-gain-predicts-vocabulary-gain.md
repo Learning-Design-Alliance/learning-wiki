@@ -12,10 +12,15 @@ sources:
   - id: leclercq-2010
     resource: "https://doi.org/10.1037/a0018540"
     title: "Leclercq, A.-L., & Majerus, S. (2010). Serial Order Short-Term Memory Predicts Vocabulary Development: Evidence from a Longitudinal Study. Developmental Psychology. https://doi.org/10.1037/a0018540"
-    author: "Leclercq, A.-L., & Majerus, S"
+    author: "Leclercq, A.-L., & Majerus, S."
+    q: 3
+    i: 2
 ---
 
 # Growth in serial order STM from Age 4 to Age 5 predicts growth in vocabulary, whereas growth in item STM does not
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` The Age 4-to-Age 5 increase in serial order reconstruction performance predicted the increase in vocabulary knowledge after controlling for increase in Raven's matrices (r = .34, p<.05). [→ Leclercq 2010](#leclercq-2010)

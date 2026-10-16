@@ -12,14 +12,21 @@ sources:
   - id: ortega-2020
     resource: "https://doi.org/10.1038/s41598-020-64678-x"
     title: "Ortega, R., López, V., Carrasco, X., Escobar, M. J., García, A. M., Parra, M. A. & Aboitiz, F. (2020). Neurocognitive mechanisms underlying working memory encoding and retrieval in Attention-Deficit/Hyperactivity Disorder. Scientific Reports 10:7771. https://doi.org/10.1038/s41598-020-64678-x"
-    author: "Ortega, R., López, V., Carrasco, X., Escobar, M. J., García, A. M., Parra, M. A. & Aboitiz, F"
+    author: "Ortega, R., López, V., Carrasco, X., Escobar, M. J., García, A. M., Parra, M. A. & Aboitiz, F."
+    q: 3
+    i: 2
   - id: ortega-2020-2
     resource: "https://doi.org/10.1038/s41598-020-64678-x"
     title: "Ortega, R., López, V., Carrasco, X., Escobar, M. J., García, A. M., Parra, M. A. & Aboitiz, F. (2020). Neurocognitive mechanisms underlying working memory encoding and retrieval in Attention-Deficit/Hyperactivity Disorder. Scientific Reports 10:7771. https://doi.org/10.1038/s41598-020-64678-x"
-    author: "Ortega, R., López, V., Carrasco, X., Escobar, M. J., García, A. M., Parra, M. A. & Aboitiz, F"
+    author: "Ortega, R., López, V., Carrasco, X., Escobar, M. J., García, A. M., Parra, M. A. & Aboitiz, F."
+    q: 3
+    i: 2
 ---
 
 # Retrieval P3 discriminates Same from Different trials only in non-ADHD adolescents, indicating a failure of post-selection prioritization in ADHD
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` A significant Group x Trial Type interaction on retrieval P3 amplitude: P3 differentiated Same and Different trials in the non-ADHD group but not in the ADHD group. [→ Ortega 2020](#ortega-2020)

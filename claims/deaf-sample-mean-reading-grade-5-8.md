@@ -12,10 +12,15 @@ sources:
   - id: freel-2011
     resource: "https://doi.org/10.4236/psych.2011.21003"
     title: "Freel, B. L., Clark, M. D., Anderson, M. L., Gilbert, G. L., Musyoka, M. M., & Hauser, P. C. (2011). Deaf Individuals’ Bilingual Abilities: American Sign Language Proficiency, Reading Skills, and Family Characteristics. Psychology, 2(1), 18-23. https://doi.org/10.4236/psych.2011.21003"
-    author: "Freel, B. L., Clark, M. D., Anderson, M. L., Gilbert, G. L., Musyoka, M. M., & Hauser, P. C"
+    author: "Freel, B. L., Clark, M. D., Anderson, M. L., Gilbert, G. L., Musyoka, M. M., & Hauser, P. C."
+    q: 3
+    i: "?"
 ---
 
 # Deaf adults in this sample read on average at a 5.8 grade level, ranging from grade 1.7 to post-college
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Mean Passage Comprehension performance corresponded to a 5.8 grade reading level, with wide individual range. [→ Freel 2011](#freel-2011)

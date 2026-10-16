@@ -16,6 +16,9 @@ sources:
 
 # Harness curiosity and interest with developmentally different strategies in the classroom
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article concludes that states of pre-information curiosity and post-information interest "play a critical role in learning and can be effectively harnessed as a tool in educational settings", but that "different strategies to trigger curiosity and interest in the classroom may result in distinct memory benefits across child development". Because curiosity states are potentially more malleable than trait curiosity, understanding their effects across development can help tailor strategies and interventions to stimulate curiosity optimally across childhood and adolescence.
 

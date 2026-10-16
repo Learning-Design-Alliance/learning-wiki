@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1523/jneurosci.0634-15.2015"
     title: "Bedny, M., H. Richardson, and R. Saxe. (2015). \"Visual\" Cortex Responds to Spoken Language in Blind Children. Journal of Neuroscience. https://doi.org/10.1523/jneurosci.0634-15.2015"
     author: Bedny, M., H. Richardson, and R. Saxe
+    q: 3
+    i: "?"
 ---
 
 # Occipital responses to spoken language in blind children are maximal by age 4 and unrelated to Braille learning
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Occipital responses to spoken language in blind children are maximal by age 4 and not related to Braille learning. [→ Bedny 2015](#bedny-2015)

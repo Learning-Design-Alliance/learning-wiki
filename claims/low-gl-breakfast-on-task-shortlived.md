@@ -12,10 +12,15 @@ sources:
   - id: adolphus-2013
     resource: "https://doi.org/10.3389/fnhum.2013.00425"
     title: "Adolphus, K., Lawton, C. L., and Dye, L. (2013). The effects of breakfast on behavior and academic performance in children and adolescents. Frontiers in Human Neuroscience. https://doi.org/10.3389/fnhum.2013.00425"
-    author: Adolphus, K., Lawton, C. L., and Dye, L
+    author: Adolphus, K., Lawton, C. L., and Dye, L.
+    q: 2
+    i: "?"
 ---
 
 # A low glycaemic load breakfast increases time on-task in young children, but the effect is short-lived and specific to the first observation period
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Children spent significantly more time on-task following a low GL breakfast compared with medium and high GL breakfasts, an effect specific to the first 10 minutes of observation. [→ Adolphus 2013](#adolphus-2013)

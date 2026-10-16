@@ -16,6 +16,9 @@ sources:
 
 # Clinicians supporting children with ADHD should take a holistic approach and refer families to services addressing socioeconomic circumstances
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article's discussion recommends that because children presenting with ADHD symptoms are "likely to have complex and often difficult family circumstances", clinicians should take a holistic approach to treatment and refer on to other services that may support the families to cope with their socioeconomic situation. It frames home and family factors as small but modifiable contributors to ADHD risk, unlike genetic predisposition, making them "current targets for intervention". The strategy rests on the study's mediation findings linking financial difficulty, adversity and parental involvement to ADHD.
 

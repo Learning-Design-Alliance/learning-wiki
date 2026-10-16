@@ -16,6 +16,9 @@ sources:
 
 # Use external reinforcement contingent on successful inhibitory control to improve behavioural regulation
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article's authors draw a direct applied implication: because reward improved both cancellation and restraint inhibition in typically developing youths, "the efficiency of behavioral regulation can be ameliorated with external reinforcement." They argue this is especially relevant to youths with pathologically impaired inhibitory control such as ADHD, who may need higher levels of reinforcement, and suggest behavioral interventions involving rewarding stimuli may be useful in clinical populations.
 

@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s10648-021-09620-x"
     title: "Gemma Muncer, Philip A. Higham, Corentin J. Gosling, Samuele Cortese, Henry Wood-Downie, & Julie A. Hadwin. (2021). A Meta-Analysis Investigating the Association Between Metacognition and Math Performance in Adolescence. Educational Psychology Review. https://doi.org/10.1007/s10648-021-09620-x"
     author: "Gemma Muncer, Philip A. Higham, Corentin J. Gosling, Samuele Cortese, Henry Wood-Downie, & Julie A. Hadwin"
+    q: 3
+    i: "?"
 ---
 
 # Most included studies report a significant positive metacognition–math association, with some null and mixed findings
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Nineteen of 31 included studies reported statistically significant positive associations between metacognition and math performance; eight reported non-significant positive associations and four reported mixed findings. [→ Gemma Muncer 2021](#gemma-muncer-2021)

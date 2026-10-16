@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1186/s12889-017-4850-2"
     title: "Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Aubert S, Sampson M, Tremblay MS. (2017). Systematic review of the relationships between sleep duration and health indicators in the early years (0–4 years). BMC Public Health 17(Suppl 5):855. https://doi.org/10.1186/s12889-017-4850-2"
     author: Chaput JP, Gray CE, Poitras VJ, Carson V, Gruber R, Birken CS, MacLean JE, Aubert S, Sampson M, Tremblay MS
+    q: 2
+    i: "?"
 ---
 
 # Short sleep duration at age 3 was not associated with quality of life at about age 13
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` A single longitudinal study found short sleep at 3 years (<10 h vs >11 h) was not associated with poor quality of life at ~13 years. [→ Chaput JP 2017](#chaput-jp-2017)

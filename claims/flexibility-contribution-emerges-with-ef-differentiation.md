@@ -13,12 +13,17 @@ sources:
     resource: "https://doi.org/10.1080/09297049.2020.1740188"
     title: "Sofia Magalhães, Luísa Carneiro, Teresa Limpo & Marisa Filipe (2020). Executive functions predict literacy and mathematics achievements: The unique contribution of cognitive flexibility in grades 2, 4, and 6. Child Neuropsychology, 26(7), 934-952. https://doi.org/10.1080/09297049.2020.1740188"
     author: "Sofia Magalhães, Luísa Carneiro, Teresa Limpo & Marisa Filipe"
+    q: 1
+    i: "?"
 ---
 
 # Cognitive flexibility's unique contribution to academic marks emerges only once EF components become differentiated, around Grades 4–6
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
+
 ## Subclaims
-`q1 i?` The authors interpret their findings as confirming that cognitive flexibility gains a differentiable and unique value in Grades 4 and 6 that was not observed in Grade 2, consistent with EF differentiation by age 10–11. [→ Sofia Magalhães 2020](#sofia-magalhães-2020)
+`q1 i?` The authors interpret their findings as confirming that cognitive flexibility gains a differentiable and unique value in Grades 4 and 6 that was not observed in Grade 2, consistent with EF differentiation by age 10–11. [→ Sofia Magalhães 2020](#sofia-magalhaes-2020)
 
 ## Evidence
 

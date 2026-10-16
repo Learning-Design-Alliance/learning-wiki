@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1177/2331216517744675"
     title: "Dryden Adam, Allen Harriet A., Henshaw Helen, Heinrich Antje. (2017). The Association Between Cognitive Performance and Speech-in-Noise Perception for Adult Listeners: A Systematic Literature Review and Meta-Analysis. Trends in Hearing. https://doi.org/10.1177/2331216517744675"
     author: Dryden Adam, Allen Harriet A., Henshaw Helen, Heinrich Antje
+    q: 3
+    i: "?"
 ---
 
 # Degree of unaided hearing loss (normal-to-mild vs normal-to-moderate) does not moderate the cognition–SiN association
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Pooled associations were nearly identical for listeners with normal hearing to mild HL (r = .31) and normal hearing to moderate HL (r = .32), with overlapping confidence intervals. [→ Dryden Adam 2017](#dryden-adam-2017)

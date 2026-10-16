@@ -16,6 +16,9 @@ sources:
 
 # White teachers eliminate race-related hostile approaches and redesign school cultural policies to support Black students' belonging
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The review's discussion recommends that White teachers in schools upholding Whiteness make academic adjustments by eliminating race-related hostile approaches and re-assessing school cultural policies. Specifically, "White teachers should make necessary academic adjustments by cautiously eliminating some race-related approaches that promote hostility of campus racial climate against Black students, such as having negative perceptions and exhibiting negative behaviors against Black students." Teachers should also "re-assess and re-design school cultural policies and include diverse racial programs" supporting Black students' racial adjustment.
 

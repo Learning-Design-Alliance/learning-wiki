@@ -12,10 +12,15 @@ sources:
   - id: schroder-hans-s-2017
     resource: "https://doi.org/10.1016/j.dcn.2017.01.004"
     title: "Schroder Hans S., Fisher Megan E., Lin Yanli, Lo Sharon L., Danovitch Judith H., Moser Jason S. (2017). Neural evidence for enhanced attention to mistakes among school-aged children with a growth mindset. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2017.01.004"
-    author: Schroder Hans S., Fisher Megan E., Lin Yanli, Lo Sharon L., Danovitch Judith H., Moser Jason S
+    author: Schroder Hans S., Fisher Megan E., Lin Yanli, Lo Sharon L., Danovitch Judith H., Moser Jason S.
+    q: 3
+    i: 2
 ---
 
 # Growth mindset endorsement is associated with larger Pe amplitude (greater attention to errors) in school-aged children
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Higher growth mindset endorsement is associated with larger Pe difference amplitude (r = 0.20, p = 0.03) in children completing a go/no-go task. [→ Schroder Hans S. 2017](#schroder-hans-s-2017)

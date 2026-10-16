@@ -12,10 +12,15 @@ sources:
   - id: freeman-2017
     resource: "http://dx.doi.org/10.1016/j.lindif.2017.06.003"
     title: "Freeman, Emily E.; Karayanidis, Frini; Chalmers, Kerry A. (2017). Metacognitive monitoring of working memory performance and its relationship to academic achievement in Grade 4 children. Learning and Individual Differences, Vol. 57. http://dx.doi.org/10.1016/j.lindif.2017.06.003"
-    author: Freeman, Emily E.; Karayanidis, Frini; Chalmers, Kerry A
+    author: Freeman, Emily E.; Karayanidis, Frini; Chalmers, Kerry A.
+    q: 3
+    i: "?"
 ---
 
 # Confidence on the WMPT predicts numeracy but not reading or spelling
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Confidence on the WMPT was a significant predictor only of WIAT-II Numerical Operations, in a model accounting for 16% of the variance; it did not significantly predict Word Reading, Spelling or Composite Score. [→ Freeman 2017](#freeman-2017)

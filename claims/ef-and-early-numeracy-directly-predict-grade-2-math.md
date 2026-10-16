@@ -10,12 +10,15 @@ generated:
 evidence_strength: moderate
 sources:
   - id: mercader-j-2018
-    resource: "https://doi.org/10.3389/fpsyg.2017.02375"
-    title: "Mercader J, Miranda A, Presentación MJ, Siegenthaler R and Rosel JF (2018) Contributions of Motivation, Early Numeracy Skills, and Executive Functioning to Mathematical Performance. A Longitudinal Study. Front. Psychol. 8:2375. https://doi.org/10.3389/fpsyg.2017.02375"
-    author: Mercader J, Miranda A, Presentación MJ, Siegenthaler R and Rosel JF
+    title: Mercader J 2018
+    q: 3
+    i: "?"
 ---
 
 # Executive functioning and early numeracy skills assessed in kindergarten directly predict mathematical performance in second grade, jointly explaining 57.3% of its variance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In a longitudinal SEM, latent Executive Functioning and latent Early Numeracy Skills both exert significant direct effects on latent Mathematical Performance two years later, with the model explaining R2 = 0.573 of its variance. [→ Mercader J 2018](#mercader-j-2018)

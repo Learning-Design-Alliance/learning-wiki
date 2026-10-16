@@ -12,10 +12,15 @@ sources:
   - id: schroder-hans-s-2017
     resource: "https://doi.org/10.1016/j.dcn.2017.01.004"
     title: "Schroder Hans S., Fisher Megan E., Lin Yanli, Lo Sharon L., Danovitch Judith H., Moser Jason S. (2017). Neural evidence for enhanced attention to mistakes among school-aged children with a growth mindset. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2017.01.004"
-    author: Schroder Hans S., Fisher Megan E., Lin Yanli, Lo Sharon L., Danovitch Judith H., Moser Jason S
+    author: Schroder Hans S., Fisher Megan E., Lin Yanli, Lo Sharon L., Danovitch Judith H., Moser Jason S.
+    q: 3
+    i: 1
 ---
 
 # Growth mindset endorsement is associated with higher post-error accuracy but not post-correct accuracy in children
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` Higher growth mindset endorsement predicts higher post-error accuracy (r(120) = 0.23, p = 0.010), with no significant relation to post-correct accuracy. [→ Schroder Hans S. 2017](#schroder-hans-s-2017)

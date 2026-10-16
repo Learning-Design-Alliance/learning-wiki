@@ -13,9 +13,14 @@ sources:
     resource: "https://link.springer.com/journal/13421/29/1"
     title: "Robert Kail and Lynda K. Hall. (2001). Distinguishing short-term memory from working memory. Memory & Cognition, 29(1), 1-9. https://link.springer.com/journal/13421/29/1"
     author: Robert Kail and Lynda K. Hall
+    q: 3
+    i: "?"
 ---
 
 # Processing speed is linked to working memory in both studies, but its link to short-term memory is inconsistent across studies
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` PS was linked to WM in both studies; Study 1 showed equal links from PS to STM and WM, but Study 2 showed a link from PS only to WM. [→ Robert Kail and Lynda K. Hall 2001](#robert-kail-and-lynda-k-hall-2001)

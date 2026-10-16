@@ -12,10 +12,15 @@ sources:
   - id: vysniauske-2020
     resource: "https://doi.org/10.1177/1087054715627489"
     title: "Vysniauske, R., Verburgh, L., Oosterlaan, J., & Molendijk, M. L. (2020). The Effects of Physical Exercise on Functional Outcomes in the Treatment of ADHD: A Meta-Analysis. Journal of attention disorders, 24(5), 644-654. https://doi.org/10.1177/1087054715627489"
-    author: "Vysniauske, R., Verburgh, L., Oosterlaan, J., & Molendijk, M. L"
+    author: "Vysniauske, R., Verburgh, L., Oosterlaan, J., & Molendijk, M. L."
+    q: 3
+    i: "?"
 ---
 
 # Exercise effect sizes on ADHD functional outcomes are not related to exercise intensity, mean age of participants, or gender distribution
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Meta-analytic effect sizes were not related to exercise intensity, mean age of participants, or gender distribution. [→ Vysniauske 2020](#vysniauske-2020)

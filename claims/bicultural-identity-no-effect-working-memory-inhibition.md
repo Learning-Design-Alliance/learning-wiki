@@ -10,12 +10,15 @@ generated:
 evidence_strength: moderate
 sources:
   - id: spiegler-o-and-leyendecker-b-2017
-    resource: "https://doi.org/10.3389/fpsyg.2017.01579"
-    title: "Spiegler O and Leyendecker B (2017) Balanced Cultural Identities Promote Cognitive Flexibility among Immigrant Children. Front. Psychol. 8:1579. https://doi.org/10.3389/fpsyg.2017.01579"
-    author: Spiegler O and Leyendecker B
+    title: Spiegler O and Leyendecker B 2017
+    q: 3
+    i: "?"
 ---
 
 # Balanced bicultural identity showed no relation to working memory or inhibitory control performance in congruent and incongruent Dot Task trials
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Turkish and German identity were neither independently nor interactively related to accuracy in the congruent and incongruent trials. [→ Spiegler O and Leyendecker B 2017](#spiegler-o-and-leyendecker-b-2017)

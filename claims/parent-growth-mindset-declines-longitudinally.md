@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.3389/fpsyg.2023.1110944"
     title: "Jiao Chen and Chunhui Liu. (2023). The longitudinal association between children’s growth mindset in senior primary school and their parents’ growth mindset. Front. Psychol. 14:1110944. https://doi.org/10.3389/fpsyg.2023.1110944"
     author: Jiao Chen and Chunhui Liu
+    q: 3
+    i: "?"
 ---
 
 # Fathers' and mothers' growth mindset also declined significantly over the two-and-a-half-year period
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Parental growth mindset slopes were significant and negative for both fathers (b = −0.019, p < 0.01) and mothers (b = −0.016, p < 0.01), with significant individual differences. [→ Jiao Chen and Chunhui Liu 2023](#jiao-chen-and-chunhui-liu-2023)

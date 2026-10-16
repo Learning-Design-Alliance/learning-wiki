@@ -12,10 +12,15 @@ sources:
   - id: francis-2019
     resource: "https://doi.org/10.1016/j.cpr.2018.09.002"
     title: "Francis, D. A.; Caruana, N.; Hudson, J. L.; McArthur, G. M. (2019). The association between poor reading and internalising problems: A systematic review and meta-analysis. Clinical Psychology Review. https://doi.org/10.1016/j.cpr.2018.09.002"
-    author: Francis, D. A.; Caruana, N.; Hudson, J. L.; McArthur, G. M
+    author: Francis, D. A.; Caruana, N.; Hudson, J. L.; McArthur, G. M.
+    q: 3
+    i: 1
 ---
 
 # Poor readers show a small but significant elevation in depression compared to typical readers (d = 0.23)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` Poor readers show a very small but statistically significant elevation in depression relative to typical readers (d = 0.23), with high and significant heterogeneity between studies. [→ Francis 2019](#francis-2019)

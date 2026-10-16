@@ -15,6 +15,9 @@ sources:
 
 # Two-step bullying intervention: first reduce victimisation and rebuild motivational factors, then raise achievement and engagement
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Based on the mediation findings, the authors recommend that interventions address the motivational pathway rather than achievement alone. They state that "the first step of an intervention program should therefore be decreasing victimisation and particularly focusing on improving motivation, self-esteem, self-efficacy and self-concept", with the second step to "increase students' academic achievement and enhance their educational engagement". Interventions should include positive reinforcement, encouragement, and programs for enhancing academic engagement, and family, friend and teacher support can protect bullied students.
 

@@ -10,20 +10,23 @@ generated:
 evidence_strength: weak
 sources:
   - id: rodriguez-gomez-da-and-talero-gutiérrez-c-2022
-    resource: "https://doi.org/10.3389/fpsyg.2022.968144"
-    title: "Rodriguez-Gomez DA and Talero-Gutiérrez C (2022) Eﬀects of music training in executive function performance in children: A systematic review. Front. Psychol. 13:968144. https://doi.org/10.3389/fpsyg.2022.968144"
-    author: Rodriguez-Gomez DA and Talero-Gutiérrez C
+    title: Rodriguez-Gomez DA and Talero-Gutiérrez C 2022
+    q: 2
+    i: "?"
   - id: rodriguez-gomez-da-and-talero-gutiérrez-c-2022-2
-    resource: "https://doi.org/10.3389/fpsyg.2022.968144"
-    title: "Rodriguez-Gomez DA and Talero-Gutiérrez C (2022) Eﬀects of music training in executive function performance in children: A systematic review. Front. Psychol. 13:968144. https://doi.org/10.3389/fpsyg.2022.968144"
-    author: Rodriguez-Gomez DA and Talero-Gutiérrez C
+    title: Rodriguez-Gomez DA and Talero-Gutiérrez C 2022 (2)
+    q: 2
+    i: "?"
 ---
 
 # Music training RCTs show improved verbal working memory (backward digit span), but not visuospatial or forward-span tasks
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q2` quasi-experiment
+
 ## Subclaims
-`q2 i?` A 6-week harmonica training RCT showed a significant group × time interaction (p = 0.015) in digit span backward performance. [→ Rodriguez-Gomez DA and Talero-Gutiérrez C 2022](#rodriguez-gomez-da-and-talero-gutiérrez-c-2022)
-`q2 i?` Neither RCT observed improved performance in visuospatial WM or forward digit/word tasks. [→ Rodriguez-Gomez DA and Talero-Gutiérrez C 2022 (2)](#rodriguez-gomez-da-and-talero-gutiérrez-c-2022-2)
+`q2 i?` A 6-week harmonica training RCT showed a significant group × time interaction (p = 0.015) in digit span backward performance. [→ Rodriguez-Gomez DA and Talero-Gutiérrez C 2022](#rodriguez-gomez-da-and-talero-gutierrez-c-2022)
+`q2 i?` Neither RCT observed improved performance in visuospatial WM or forward digit/word tasks. [→ Rodriguez-Gomez DA and Talero-Gutiérrez C 2022 (2)](#rodriguez-gomez-da-and-talero-gutierrez-c-2022-2)
 
 ## Evidence
 

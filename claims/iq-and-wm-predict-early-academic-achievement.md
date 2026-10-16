@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.3390/jintelligence5020026"
     title: "Schneider Wolfgang, Niklas Frank. (2017). Intelligence and Verbal Short-Term Memory/Working Memory: Their Interrelationships from Childhood to Young Adulthood and Their Impact on Academic Achievement. Journal of Intelligence. https://doi.org/10.3390/jintelligence5020026"
     author: Schneider Wolfgang, Niklas Frank
+    q: 2
+    i: "?"
 ---
 
 # IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In hierarchical regression analyses, both WMC and intelligence explained a significant amount of additional variance in all measures of academic achievement at the very beginning of school, after controlling for age, sex, and SES. [→ Schneider Wolfgang 2017](#schneider-wolfgang-2017)

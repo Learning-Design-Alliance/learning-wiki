@@ -12,14 +12,21 @@ sources:
   - id: wolf-lk-2015
     resource: "https://doi.org/10.1016/j.adolescence.2015.05.003"
     title: "Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J. (2015). The audience effect in adolescence depends on who's looking over your shoulder. Journal of Adolescence, 43, 5–14. https://doi.org/10.1016/j.adolescence.2015.05.003"
-    author: Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J
+    author: Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J.
+    q: 3
+    i: 2
   - id: wolf-lk-2015-2
     resource: "https://doi.org/10.1016/j.adolescence.2015.05.003"
     title: "Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J. (2015). The audience effect in adolescence depends on who's looking over your shoulder. Journal of Adolescence, 43, 5–14. https://doi.org/10.1016/j.adolescence.2015.05.003"
-    author: Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J
+    author: Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J.
+    q: 3
+    i: 3
 ---
 
 # Older adolescents respond faster when observed by an experimenter than by a friend or when alone, while social condition does not affect younger adolescents' or adults' response times
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2`–`i3`
 
 ## Subclaims
 `q3 i3` A two-way interaction between social condition and age group on response time was followed up by within-group ANOVAs; only the older adolescent group showed a significant social condition effect on RT. [→ Wolf L.K. 2015](#wolf-lk-2015)

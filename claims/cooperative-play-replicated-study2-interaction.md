@@ -10,12 +10,15 @@ generated:
 evidence_strength: moderate
 sources:
   - id: yuill-n-2014
-    resource: "https://doi.org/10.3389/fpsyg.2014.00418"
-    title: "Yuill N, Hinske S, Williams SE and Leith G (2014) How getting noticed helps getting on: successful attention capture doubles children's cooperative play. Front. Psychol. 5:418. https://doi.org/10.3389/fpsyg.2014.00418"
-    author: Yuill N, Hinske S, Williams SE and Leith G
+    title: Yuill N 2014
+    q: 3
+    i: 3
 ---
 
 # The augmentation effect on cooperative play replicated in Study 2, with a large playset-by-behavior interaction and no overlap in confidence intervals
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` In Study 2 there was a significant interaction between playset and behavior, F(2, 18) = 33.82, p < 0.001, η2 = 0.79, with cooperative play more frequent in the AKC condition, F(1, 32) = 71.48, p < 0.001. [→ Yuill N 2014](#yuill-n-2014)

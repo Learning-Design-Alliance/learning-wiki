@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.3389/fpsyg.2017.01040"
     title: "Buttelmann F and Karbach J (2017). Development and Plasticity of Cognitive Flexibility in Early and Middle Childhood. Front. Psychol. 8:1040. https://doi.org/10.3389/fpsyg.2017.01040"
     author: Buttelmann F and Karbach J
+    q: 2
+    i: "?"
 ---
 
 # DCCS training in preschoolers transfers to false-belief understanding
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Children trained on the DCCS showed larger improvements on the DCCS and a false-belief task than control children, and outperformed controls on a novel DCCS version. [→ Buttelmann F and Karbach J 2017](#buttelmann-f-and-karbach-j-2017)

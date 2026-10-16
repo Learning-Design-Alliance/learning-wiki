@@ -12,10 +12,15 @@ sources:
   - id: freeman-2017
     resource: "http://dx.doi.org/10.1016/j.lindif.2017.06.003"
     title: "Freeman, Emily E.; Karayanidis, Frini; Chalmers, Kerry A. (2017). Metacognitive monitoring of working memory performance and its relationship to academic achievement in Grade 4 children. Learning and Individual Differences, Vol. 57. http://dx.doi.org/10.1016/j.lindif.2017.06.003"
-    author: Freeman, Emily E.; Karayanidis, Frini; Chalmers, Kerry A
+    author: Freeman, Emily E.; Karayanidis, Frini; Chalmers, Kerry A.
+    q: 3
+    i: "?"
 ---
 
 # The Bias Index significantly predicts all four WIAT-II achievement measures, with over-confidence associated with lower achievement
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In regression models explaining 12% to 18% of variance, the Bias Index was a significant predictor of Word Reading, Numerical Operations, Spelling and Composite Score, with higher (over-confident) scores associated with lower achievement. [→ Freeman 2017](#freeman-2017)

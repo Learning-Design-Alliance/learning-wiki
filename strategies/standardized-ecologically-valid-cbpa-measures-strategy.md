@@ -16,6 +16,9 @@ sources:
 
 # Future CB-PA research and practice should use standardized, ecologically valid outcome measures, objective activity parameters, and longitudinal designs
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The review's future-directions section recommends that "future research should use similar subjective measures and standardized objective tests, which will allow comparisons between studies," and that measuring tools be "not only ... valid and reliable, but also ecologically valid," since a significant effect on a cognitive test score does not necessarily indicate improved academic abilities. It further calls for longitudinal studies over extended periods, assessment of students' age, sex and motivation, objective CB-PA parameters to ensure intervention fidelity, and evaluation of student and teacher satisfaction.
 

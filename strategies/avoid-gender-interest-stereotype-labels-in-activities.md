@@ -16,6 +16,9 @@ sources:
 
 # Avoid labeling activities with gender-interest stereotypes; describe activities as equally interesting to girls and boys
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The experiments show that simply describing an activity as one "girls are less interested in this activity than boys" causally lowers girls' interest and choice, whereas the description "girls and boys are equally interested in this activity" does not. The authors conclude that cues of gender-interest stereotypes by teachers, parents, or peers may create or widen gender gaps "even when the stereotypes have no basis in reality", so educators should omit such interest-stereotype framing from activity descriptions.
 

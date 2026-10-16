@@ -16,6 +16,9 @@ sources:
 
 # Design physical activity interventions as continuous regular activity sustained over several weeks
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Based on its meta-analytic findings, the review recommends that interventions aim for sustained regular activity rather than single bouts: "Largest effects are expected for interventions that aim for continuous regular physical activity over several weeks." Longitudinal programs showed positive effects on executive functions, attention and academic performance, whereas acute activity showed a positive effect only on attention. Implementers should therefore schedule regular physical activity across multiple weeks when targeting cognitive and academic outcomes.
 

@@ -13,9 +13,14 @@ sources:
     resource: "https://dx.doi.org/10.1007/s11211-007-0047-7"
     title: "Spencer, B; Castano, E (2007). Social class is dead, long live social class! Stereotype threat among low-socioeconomic individuals. Social Justice Research. https://dx.doi.org/10.1007/s11211-007-0047-7"
     author: Spencer, B; Castano, E
+    q: 3
+    i: "?"
 ---
 
 # When threatening conditions converge, low-SES students' performance is at its worst level
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Performance of low-SES students is at its worst when the threatening conditions converge, relative to the other reported conditions. [→ Spencer 2007](#spencer-2007)

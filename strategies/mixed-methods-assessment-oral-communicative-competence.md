@@ -16,6 +16,9 @@ sources:
 
 # Combine standardized tests and naturalistic classroom observations (mixed methods) when assessing oral communicative competence
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The review recommends that future studies combine methods, because standardized tests and classroom observations have complementary strengths. Standardized tests offer "increased control over variables" and are less time-consuming, while observations analyze communicative behavior "in great detail, on multiple levels, and in a naturalistic context". The review states that a combination of both "could advance the assessment of oral communicative competence and increase its validity", noting that none of the 25 reviewed studies used such a combination.
 

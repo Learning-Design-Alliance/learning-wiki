@@ -12,10 +12,15 @@ sources:
   - id: rubinsten-o-2010
     resource: "http://www.behavioralandbrainfunctions.com/content/6/1/46"
     title: "Rubinsten O, Tannock R. (2010). Mathematics anxiety in children with developmental dyscalculia. Behavioral and Brain Functions 6:46. http://www.behavioralandbrainfunctions.com/content/6/1/46"
-    author: Rubinsten O, Tannock R
+    author: Rubinsten O, Tannock R.
+    q: 3
+    i: "?"
 ---
 
 # Typically-developing children show the standard affective priming pattern, responding faster to arithmetic targets after positive than negative primes
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In the control group, response latencies were significantly shorter after positive than negative affective primes for all four arithmetic operations. [→ Rubinsten O 2010](#rubinsten-o-2010)

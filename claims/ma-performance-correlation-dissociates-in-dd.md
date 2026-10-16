@@ -12,14 +12,21 @@ sources:
   - id: devine-2017
     resource: "https://doi.org/10.1037/edu0000222"
     title: "Devine, A., Hill, F., Carey, E., & Szűcs, D. (2017). Cognitive and Emotional Math Problems Largely Dissociate: Prevalence of Developmental Dyscalculia and Mathematics Anxiety. https://doi.org/10.1037/edu0000222"
-    author: "Devine, A., Hill, F., Carey, E., & Szűcs, D"
+    author: "Devine, A., Hill, F., Carey, E., & Szűcs, D."
+    q: 3
+    i: 2
   - id: devine-2017-2
     resource: "https://doi.org/10.1037/edu0000222"
     title: "Devine, A., Hill, F., Carey, E., & Szűcs, D. (2017). Cognitive and Emotional Math Problems Largely Dissociate: Prevalence of Developmental Dyscalculia and Mathematics Anxiety. https://doi.org/10.1037/edu0000222"
-    author: "Devine, A., Hill, F., Carey, E., & Szűcs, D"
+    author: "Devine, A., Hill, F., Carey, E., & Szűcs, D."
+    q: 3
+    i: "?"
 ---
 
 # MA correlates negatively with mathematics performance in the whole sample (rs = -.30) but not within the DD or DD+RD groups
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` In the whole sample MA was significantly negatively correlated with mathematics performance (rs = -.30). [→ Devine 2017](#devine-2017)

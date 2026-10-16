@@ -10,20 +10,23 @@ generated:
 evidence_strength: moderate
 sources:
   - id: honoré-n-2020
-    resource: "https://doi.org/10.3389/fpsyg.2020.01974"
-    title: "Honoré N, Houssa M, Volckaert A, Noël M-P and Nader-Grosbois N (2020) Training Inhibition and Social Cognition in the Classrooms. Front. Psychol. 11:1974. https://doi.org/10.3389/fpsyg.2020.01974"
-    author: Honoré N, Houssa M, Volckaert A, Noël M-P and Nader-Grosbois N
+    title: Honoré N 2020
+    q: 3
+    i: 3
   - id: honoré-n-2020-2
-    resource: "https://doi.org/10.3389/fpsyg.2020.01974"
-    title: "Honoré N, Houssa M, Volckaert A, Noël M-P and Nader-Grosbois N (2020) Training Inhibition and Social Cognition in the Classrooms. Front. Psychol. 11:1974. https://doi.org/10.3389/fpsyg.2020.01974"
-    author: Honoré N, Houssa M, Volckaert A, Noël M-P and Nader-Grosbois N
+    title: Honoré N 2020 (2)
+    q: 3
+    i: "?"
 ---
 
 # Children with lower pre-test executive function and social cognition skills improve more, while attendance, teacher involvement, age and school year do not predict gains
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i3` large
+
 ## Subclaims
-`q3 i3` Change in the EF factor correlated negatively with EF factor at pre-test (r = −0.457) and change in the social cognition factor with social cognition at pre-test (r = −0.535), both p < 0.001. [→ Honoré N 2020](#honoré-n-2020)
-`q3 i?` All other correlations with age, school year, attendance, teacher involvement, years of service and family characteristics were non-significant. [→ Honoré N 2020 (2)](#honoré-n-2020-2)
+`q3 i3` Change in the EF factor correlated negatively with EF factor at pre-test (r = −0.457) and change in the social cognition factor with social cognition at pre-test (r = −0.535), both p < 0.001. [→ Honoré N 2020](#honore-n-2020)
+`q3 i?` All other correlations with age, school year, attendance, teacher involvement, years of service and family characteristics were non-significant. [→ Honoré N 2020 (2)](#honore-n-2020-2)
 
 ## Evidence
 

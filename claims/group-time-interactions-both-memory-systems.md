@@ -12,14 +12,21 @@ sources:
   - id: holz-j-2012
     resource: "https://doi.org/10.1371/journal.pone.0040963"
     title: "Holz J, Piosczyk H, Landmann N, Feige B, Spiegelhalder K, Riemann D, Nissen C, Voderholzer U. (2012). The Timing of Learning before Night-Time Sleep Differentially Affects Declarative and Procedural Long-Term Memory Consolidation in Adolescents. PLoS ONE 7(7): e40963. https://doi.org/10.1371/journal.pone.0040963"
-    author: Holz J, Piosczyk H, Landmann N, Feige B, Spiegelhalder K, Riemann D, Nissen C, Voderholzer U
+    author: Holz J, Piosczyk H, Landmann N, Feige B, Spiegelhalder K, Riemann D, Nissen C, Voderholzer U.
+    q: 3
+    i: "?"
   - id: holz-j-2012-2
     resource: "https://doi.org/10.1371/journal.pone.0040963"
     title: "Holz J, Piosczyk H, Landmann N, Feige B, Spiegelhalder K, Riemann D, Nissen C, Voderholzer U. (2012). The Timing of Learning before Night-Time Sleep Differentially Affects Declarative and Procedural Long-Term Memory Consolidation in Adolescents. PLoS ONE 7(7): e40963. https://doi.org/10.1371/journal.pone.0040963"
-    author: Holz J, Piosczyk H, Landmann N, Feige B, Spiegelhalder K, Riemann D, Nissen C, Voderholzer U
+    author: Holz J, Piosczyk H, Landmann N, Feige B, Spiegelhalder K, Riemann D, Nissen C, Voderholzer U.
+    q: 3
+    i: "?"
 ---
 
 # Learning timing produces Group X Time interactions in both memory systems: declarative consolidation time courses differ between afternoon and evening groups, and finger-tapping speed and accuracy show highly significant Group X Time interactions
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` The declarative word-pair ANOVA showed a significant Time X Group interaction (F = 3.3, P = 0.040), indicating different consolidation time courses between groups. [→ Holz J 2012](#holz-j-2012)

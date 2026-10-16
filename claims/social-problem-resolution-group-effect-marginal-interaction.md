@@ -10,15 +10,18 @@ generated:
 evidence_strength: weak
 sources:
   - id: honoré-n-2020
-    resource: "https://doi.org/10.3389/fpsyg.2020.01974"
-    title: "Honoré N, Houssa M, Volckaert A, Noël M-P and Nader-Grosbois N (2020) Training Inhibition and Social Cognition in the Classrooms. Front. Psychol. 11:1974. https://doi.org/10.3389/fpsyg.2020.01974"
-    author: Honoré N, Houssa M, Volckaert A, Noël M-P and Nader-Grosbois N
+    title: Honoré N 2020
+    q: 3
+    i: 2
 ---
 
 # The training group outperforms controls on social problem resolution, with a significant group effect and a marginal interaction
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+
 ## Subclaims
-`q3 i2` Across testing times the experimental group scored higher on the RES (5.34 ± 0.76) than the control group (5.04 ± 0.87; group effect η² = 0.044), and the interaction was marginal (p = 0.069). [→ Honoré N 2020](#honoré-n-2020)
+`q3 i2` Across testing times the experimental group scored higher on the RES (5.34 ± 0.76) than the control group (5.04 ± 0.87; group effect η² = 0.044), and the interaction was marginal (p = 0.069). [→ Honoré N 2020](#honore-n-2020)
 
 ## Evidence
 

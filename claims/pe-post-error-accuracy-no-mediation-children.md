@@ -12,10 +12,15 @@ sources:
   - id: schroder-hans-s-2017
     resource: "https://doi.org/10.1016/j.dcn.2017.01.004"
     title: "Schroder Hans S., Fisher Megan E., Lin Yanli, Lo Sharon L., Danovitch Judith H., Moser Jason S. (2017). Neural evidence for enhanced attention to mistakes among school-aged children with a growth mindset. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2017.01.004"
-    author: Schroder Hans S., Fisher Megan E., Lin Yanli, Lo Sharon L., Danovitch Judith H., Moser Jason S
+    author: Schroder Hans S., Fisher Megan E., Lin Yanli, Lo Sharon L., Danovitch Judith H., Moser Jason S.
+    q: 3
+    i: "?"
 ---
 
 # Pe amplitude on error trials relates to post-error accuracy, but Pe does not mediate the mindset–post-error accuracy link in children
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Pe on error trials was significantly related to post-error accuracy (r = 0.27), but mediation of mindset's effect was not present in this child sample, unlike the adult study. [→ Schroder Hans S. 2017](#schroder-hans-s-2017)

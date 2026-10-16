@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1177/0022022115617031"
     title: "M.M. Chiu, B.W.Y. Chow, C. McBride, S.T. Mol. (2016). Students’ sense of belonging at school in 41 countries: cross-cultural variability. Journal of Cross-Cultural Psychology. https://doi.org/10.1177/0022022115617031"
     author: M.M. Chiu, B.W.Y. Chow, C. McBride, S.T. Mol
+    q: 3
+    i: "?"
 ---
 
 # The teacher-student relationship has the strongest link with students' sense of belonging at school and mediates the link between egalitarianism and SOBAS
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` The teacher-student relationship had the strongest link with SOBAS among the examined variables. [→ M.M. Chiu 2016](#mm-chiu-2016)

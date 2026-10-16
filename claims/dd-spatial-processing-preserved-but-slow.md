@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1016/j.cortex.2013.06.007"
     title: "Szucs Denes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence. (2013). Developmental dyscalculia is related to visuo-spatial memory and inhibition impairment. Cortex, 49(10). https://doi.org/10.1016/j.cortex.2013.06.007"
     author: Szucs Denes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence
+    q: 3
+    i: "?"
 ---
 
 # Spatial processing is preserved but slower in developmental dyscalculia, with slow trail-making and mental rotation speed attributed to WM/inhibition impairment
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` DD children matched controls on spatial symmetry and mental rotation accuracy but were slower on trail-making A and mental rotation. [→ Szucs Denes 2013](#szucs-denes-2013)

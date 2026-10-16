@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.5937/specedreh22-37415"
     title: "Iva I. Hrastinski, Ana M. Bonetti, Mladen A. Hedjever. (2023). Relationship between auditory processing skills and academic achievement of elementary school children. Specijalna edukacija i rehabilitacija, 22(2), 95-116. https://doi.org/10.5937/specedreh22-37415"
     author: Iva I. Hrastinski, Ana M. Bonetti, Mladen A. Hedjever
+    q: 3
+    i: "?"
 ---
 
 # PSP-1 performance increases with age across grades 1–4, with significant differences between adjacent age groups on total score
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Total PSP-1 scores differed significantly across the four age groups, with each older group performing significantly better than the previous one. [→ Iva I. Hrastinski 2023](#iva-i-hrastinski-2023)

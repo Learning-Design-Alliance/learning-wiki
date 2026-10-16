@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1080/0305764X.2021.1906845"
     title: "J. 't Gilde, M. Volman. (2021). Finding and using students’ funds of knowledge and identity in superdiverse primary schools: a collaborative action research project. Cambridge Journal of Education, 51(6), 673-692. https://doi.org/10.1080/0305764X.2021.1906845"
     author: "J. 't Gilde, M. Volman"
+    q: 1
+    i: "?"
 ---
 
 # Sociocultural classroom diversity can produce inequality when school-home discontinuities make children perform below their abilities
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q1` argument or single case
 
 ## Subclaims
 `q1 i?` Discontinuities between school and home in socioculturally diverse classrooms can make children perform below their abilities. [→ J. 't Gilde 2021](#j-t-gilde-2021)

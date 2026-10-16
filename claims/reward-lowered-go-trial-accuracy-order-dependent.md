@@ -12,10 +12,15 @@ sources:
   - id: sinopoli-2011
     resource: "https://doi.org/10.1037/a0024440"
     title: "Sinopoli, K.J., Schachar, R., & Dennis, M. (2011). Reward Improves Cancellation and Restraint Inhibition Across Childhood and Adolescence. Developmental Psychology, 47(5), 1479-89. https://doi.org/10.1037/a0024440"
-    author: "Sinopoli, K.J., Schachar, R., & Dennis, M"
+    author: "Sinopoli, K.J., Schachar, R., & Dennis, M."
+    q: 3
+    i: "?"
 ---
 
 # Go-trial accuracy was lower under reward conditions, an effect mediated by task version and administration order
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Accuracy on the go task was significantly affected by reward, with greater percent correct in the NO condition relative to LOW and HIGH, but the effect was mediated by task version and order of administration. [→ Sinopoli 2011](#sinopoli-2011)

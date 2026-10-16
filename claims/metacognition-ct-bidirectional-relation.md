@@ -10,12 +10,15 @@ generated:
 evidence_strength: weak
 sources:
   - id: rivas-sf-2022
-    resource: "https://doi.org/10.3389/fpsyg.2022.913219"
-    title: "Rivas SF, Saiz C and Ossa C (2022) Metacognitive Strategies and Development of Critical Thinking in Higher Education. Front. Psychol. 13:913219. https://doi.org/10.3389/fpsyg.2022.913219"
-    author: Rivas SF, Saiz C and Ossa C
+    title: Rivas SF 2022
+    q: 2
+    i: "?"
 ---
 
 # The relation between metacognition and critical thinking is bidirectional: metacognition improves thinking skills and vice versa
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The study's data showed that metacognition improves thinking skills and thinking skills improve metacognition, though the design could not separate the two factors. [→ Rivas SF 2022](#rivas-sf-2022)

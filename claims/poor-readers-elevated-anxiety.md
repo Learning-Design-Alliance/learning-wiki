@@ -12,10 +12,15 @@ sources:
   - id: francis-2019
     resource: "https://doi.org/10.1016/j.cpr.2018.09.002"
     title: "Francis, D. A.; Caruana, N.; Hudson, J. L.; McArthur, G. M. (2019). The association between poor reading and internalising problems: A systematic review and meta-analysis. Clinical Psychology Review. https://doi.org/10.1016/j.cpr.2018.09.002"
-    author: Francis, D. A.; Caruana, N.; Hudson, J. L.; McArthur, G. M
+    author: Francis, D. A.; Caruana, N.; Hudson, J. L.; McArthur, G. M.
+    q: 3
+    i: 2
 ---
 
 # Poor readers show moderately elevated anxiety compared to typical readers (d = 0.41)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Poor readers experience greater problems with anxiety than typical readers, with a moderate pooled effect size of d = 0.41 and moderate heterogeneity. [→ Francis 2019](#francis-2019)

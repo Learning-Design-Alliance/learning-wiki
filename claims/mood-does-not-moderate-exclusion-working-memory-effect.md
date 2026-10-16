@@ -12,10 +12,15 @@ sources:
   - id: fuhrmann-d-2019
     resource: "https://doi.org/10.1016/j.dcn.2019.100718"
     title: "Fuhrmann D., Casey C.S., Speekenbrink M., Blakemore S.-J. (2019). Social exclusion affects working memory performance in young adolescent girls. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2019.100718"
-    author: Fuhrmann D., Casey C.S., Speekenbrink M., Blakemore S.-J
+    author: Fuhrmann D., Casey C.S., Speekenbrink M., Blakemore S.-J.
+    q: 2
+    i: "?"
 ---
 
 # Mood changes do not moderate the effect of exclusion on working memory performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` An exploratory moderation analysis found no evidence that mood moderated Cyberball effects on any working memory outcome measure. [→ Fuhrmann D. 2019](#fuhrmann-d-2019)

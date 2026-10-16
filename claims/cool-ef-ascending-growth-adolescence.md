@@ -10,12 +10,15 @@ generated:
 evidence_strength: moderate
 sources:
   - id: poon-k-2018
-    resource: "https://doi.org/10.3389/fpsyg.2017.02311"
-    title: "Poon K (2018) Hot and Cool Executive Functions in Adolescence: Development and Contributions to Important Developmental Outcomes. Front. Psychol. 8:2311. https://doi.org/10.3389/fpsyg.2017.02311"
-    author: Poon K
+    title: Poon K 2018
+    q: 2
+    i: 3
 ---
 
 # Cool executive function measures show ascending age-related growth across adolescence, with a growth spurt around age 14–15
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
 
 ## Subclaims
 `q2 i3` Working memory (backward digit span) improves significantly with age in adolescents aged 12–17, with a developmental spurt around age 15. [→ Poon K 2018](#poon-k-2018)

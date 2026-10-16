@@ -12,10 +12,15 @@ sources:
   - id: van-dijk-2020
     resource: "https://doi.org/10.3390/jintelligence8040037"
     title: "van Dijk, M., Blom, E., Kroesbergen, E. H., & Leseman, P. P. M. (2020). The Influence of Situational Cues on Children’s Creativity in an Alternative Uses Task and the Moderating Effect of Selective Attention. Journal of Intelligence, 8(4), 37. https://doi.org/10.3390/jintelligence8040037"
-    author: "van Dijk, M., Blom, E., Kroesbergen, E. H., & Leseman, P. P. M"
+    author: "van Dijk, M., Blom, E., Kroesbergen, E. H., & Leseman, P. P. M."
+    q: 3
+    i: "?"
 ---
 
 # Fluency in the Alternative Uses Task was unaffected by stimulus condition and unrelated to selective attention
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` The ANOVA for fluency returned no significant main or interaction effects. [→ van Dijk 2020](#van-dijk-2020)

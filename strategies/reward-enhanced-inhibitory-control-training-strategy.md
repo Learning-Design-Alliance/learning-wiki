@@ -16,6 +16,9 @@ sources:
 
 # Incorporate reward prospect into inhibitory control training interventions to strengthen behaviour change effects
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Given that reward prospect significantly improves IC, the authors propose using rewards within inhibitory control training (ICT): "Reward may be used to increase the value of health-related cues (e.g., healthy foods) or devalue unhealthy behaviour-related cues". The opportunity to gain rewards for avoiding health risk may improve associative learning and strengthen intervention effects, offering a route to more prolonged behavioural change.
 

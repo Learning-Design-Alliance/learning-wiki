@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1016/j.cognition.2011.03.003"
     title: "Cook, Claire, Noah D. Goodman, and Laura E. Schulz. (2011). Where Science Starts: Spontaneous Experiments in Preschoolers' Exploratory Play. Cognition. https://doi.org/10.1016/j.cognition.2011.03.003"
     author: Cook, Claire, Noah D. Goodman, and Laura E. Schulz
+    q: 3
+    i: "?"
 ---
 
 # Given ambiguous evidence, preschoolers select informative interventions in their exploratory play (Experiment 1)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` When evidence was ambiguous, preschoolers selected informative interventions during exploratory play. [→ Cook 2011](#cook-2011)

@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1038/s41598-022-09989-x"
     title: "Jacqueline Phelps, Adam Attaheri & Mirjana Bozic. (2022). How bilingualism modulates selective attention in children. Scientific Reports 12:6381. https://doi.org/10.1038/s41598-022-09989-x"
     author: "Jacqueline Phelps, Adam Attaheri & Mirjana Bozic"
+    q: 3
+    i: "?"
 ---
 
 # The study found no evidence for enhanced attentional capacity in bilingual children, behaviourally or neurally
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Instead of overall enhancement, bilinguals showed a trend toward weaker neural encoding overall and significantly weaker reconstruction in low- or no-interference conditions. [→ Jacqueline Phelps 2022](#jacqueline-phelps-2022)

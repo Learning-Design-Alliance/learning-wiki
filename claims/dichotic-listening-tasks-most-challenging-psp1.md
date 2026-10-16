@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.5937/specedreh22-37415"
     title: "Iva I. Hrastinski, Ana M. Bonetti, Mladen A. Hedjever. (2023). Relationship between auditory processing skills and academic achievement of elementary school children. Specijalna edukacija i rehabilitacija, 22(2), 95-116. https://doi.org/10.5937/specedreh22-37415"
     author: Iva I. Hrastinski, Ana M. Bonetti, Mladen A. Hedjever
+    q: 3
+    i: "?"
 ---
 
 # Dichotic listening subtests were the most challenging PSP-1 tasks, especially for children with auditory processing difficulties
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Among children scoring ≤ 2 SD below the mean, the dichotic listening subtests (binaural separation and integration) were the most challenging PSP-1 tasks. [→ Iva I. Hrastinski 2023](#iva-i-hrastinski-2023)

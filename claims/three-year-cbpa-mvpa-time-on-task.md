@@ -12,10 +12,15 @@ sources:
   - id: ruhland-stefanie-2021
     resource: "https://doi.org/10.1016/j.smhs.2021.08.003"
     title: "Ruhland Stefanie, Lange Klaus W. (2021). Effect of classroom-based physical activity interventions on attention and on-task behavior in schoolchildren: A systematic review. Sports Medicine and Health Science. https://doi.org/10.1016/j.smhs.2021.08.003"
-    author: Ruhland Stefanie, Lange Klaus W
+    author: Ruhland Stefanie, Lange Klaus W.
+    q: 3
+    i: "?"
 ---
 
 # Over a three-year CB-PA intervention, the percent of time spent in MVPA was significantly associated with the percent of time on task (p < 0.01)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In Szabo-Reed et al. (2017), the intervention group spent significantly more time on task following PA than the control group, and percent of time in MVPA was significantly associated with percent of time on task (p < 0.01). [→ Ruhland Stefanie 2021](#ruhland-stefanie-2021)

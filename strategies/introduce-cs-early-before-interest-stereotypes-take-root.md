@@ -16,6 +16,9 @@ sources:
 
 # Introduce computer science to girls in elementary school, before gender-interest stereotypes take root
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The authors' developmental findings motivate a timing recommendation: because children endorse gender-interest stereotypes about engineering by first grade and about computer science by third grade, and these links to motivation persist through high school, they conclude that "elementary school may be a particularly opportune time to introduce computer science to young girls, before stereotype endorsements firmly take root". Educators should pair early CS exposure with activities designed to counteract interest stereotypes.
 

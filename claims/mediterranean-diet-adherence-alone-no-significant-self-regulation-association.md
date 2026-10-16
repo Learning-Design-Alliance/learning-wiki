@@ -12,18 +12,25 @@ sources:
   - id: lópez-gil-2020
     resource: "https://doi.org/10.3390/ijerph17165676"
     title: "López-Gil, J.F., Oriol-Granado, X., Izquierdo, M., Ramírez-Vélez, R., Fernández-Vergara, O., Olloquequi, J., & García-Hermoso, A. (2020). Healthy Lifestyle Behaviors and Their Association with Self-Regulation in Chilean Children. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph17165676"
-    author: "López-Gil, J.F., Oriol-Granado, X., Izquierdo, M., Ramírez-Vélez, R., Fernández-Vergara, O., Olloquequi, J., & García-Hermoso, A"
+    author: "López-Gil, J.F., Oriol-Granado, X., Izquierdo, M., Ramírez-Vélez, R., Fernández-Vergara, O., Olloquequi, J., & García-Hermoso, A."
+    q: 3
+    i: "?"
   - id: lópez-gil-2020-2
     resource: "https://doi.org/10.3390/ijerph17165676"
     title: "López-Gil, J.F., Oriol-Granado, X., Izquierdo, M., Ramírez-Vélez, R., Fernández-Vergara, O., Olloquequi, J., & García-Hermoso, A. (2020). Healthy Lifestyle Behaviors and Their Association with Self-Regulation in Chilean Children. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph17165676"
-    author: "López-Gil, J.F., Oriol-Granado, X., Izquierdo, M., Ramírez-Vélez, R., Fernández-Vergara, O., Olloquequi, J., & García-Hermoso, A"
+    author: "López-Gil, J.F., Oriol-Granado, X., Izquierdo, M., Ramírez-Vélez, R., Fernández-Vergara, O., Olloquequi, J., & García-Hermoso, A."
+    q: 3
+    i: "?"
 ---
 
 # Mediterranean Diet adherence alone shows no significant association with self-regulation, but helps in combination with other habits
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+
 ## Subclaims
-`q3 i?` The study found no statistically significant differences between MD adherence and SR score in the category comparison. [→ López-Gil 2020](#lópez-gil-2020)
-`q3 i?` When high MD adherence was combined with meeting PA guidelines, SR was higher than in inactive, non-adherence peers (p = 0.006). [→ López-Gil 2020 (2)](#lópez-gil-2020-2)
+`q3 i?` The study found no statistically significant differences between MD adherence and SR score in the category comparison. [→ López-Gil 2020](#lopez-gil-2020)
+`q3 i?` When high MD adherence was combined with meeting PA guidelines, SR was higher than in inactive, non-adherence peers (p = 0.006). [→ López-Gil 2020 (2)](#lopez-gil-2020-2)
 
 ## Evidence
 

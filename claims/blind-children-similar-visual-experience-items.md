@@ -12,10 +12,15 @@ sources:
   - id: richardson-h-2023
     resource: "https://doi.org/10.1016/j.dcn.2023.101285"
     title: "Richardson H., Saxe R., Bedny M. (2023). Neural correlates of theory of mind reasoning in congenitally blind children. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2023.101285"
-    author: Richardson H., Saxe R., Bedny M
+    author: Richardson H., Saxe R., Bedny M.
+    q: 3
+    i: "?"
 ---
 
 # Blind children reason about visually sourced mental states similarly to sighted children
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` On items requiring reasoning about characters' visual experiences, blind children did not perform significantly differently from sighted children (b=−0.15, t=−1.7, p=.09). [→ Richardson H. 2023](#richardson-h-2023)

@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.3389/fpsyg.2021.671817"
     title: "Marciano Laura, Camerini Anne-Linda, Morese Rosalba. (2021). The Developing Brain in the Digital Era: A Scoping Review of Structural and Functional Correlates of Screen Time in Adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2021.671817"
     author: Marciano Laura, Camerini Anne-Linda, Morese Rosalba
+    q: 2
+    i: "?"
 ---
 
 # Frequent and longer screen-based media use, including Internet-related addictive behaviors, is related to a less efficient cognitive control system in adolescence
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Across the 16 neuroimaging studies reviewed, frequent and longer duration of screen-based media use, including Internet-related addictive behaviors, is related to reduced development of top-down cognitive control in adolescence. [→ Marciano Laura 2021](#marciano-laura-2021)

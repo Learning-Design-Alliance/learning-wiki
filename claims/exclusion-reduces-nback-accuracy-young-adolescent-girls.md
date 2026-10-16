@@ -12,10 +12,15 @@ sources:
   - id: fuhrmann-d-2019
     resource: "https://doi.org/10.1016/j.dcn.2019.100718"
     title: "Fuhrmann D., Casey C.S., Speekenbrink M., Blakemore S.-J. (2019). Social exclusion affects working memory performance in young adolescent girls. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2019.100718"
-    author: Fuhrmann D., Casey C.S., Speekenbrink M., Blakemore S.-J
+    author: Fuhrmann D., Casey C.S., Speekenbrink M., Blakemore S.-J.
+    q: 3
+    i: "?"
 ---
 
 # Cyberball exclusion reduces n-back verbal working memory accuracy in young adolescent girls but not in mid-adolescents or adults
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Young adolescents were the only age group to show reduced n-back accuracy after exclusion compared to inclusion, in a 2x3 mixed-design experiment with 98 females. [→ Fuhrmann D. 2019](#fuhrmann-d-2019)

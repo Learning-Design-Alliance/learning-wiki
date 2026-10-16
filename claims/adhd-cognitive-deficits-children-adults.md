@@ -12,18 +12,27 @@ sources:
   - id: franke-2018
     resource: "https://doi.org/10.1016/j.euroneuro.2018.08.001"
     title: "Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A. (2018). Live fast, die young? A review on the developmental trajectories of ADHD across the lifespan. European Neuropsychopharmacology. https://doi.org/10.1016/j.euroneuro.2018.08.001"
-    author: Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A
+    author: Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A.
+    q: 2
+    i: "?"
   - id: franke-2018-2
     resource: "https://doi.org/10.1016/j.euroneuro.2018.08.001"
     title: "Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A. (2018). Live fast, die young? A review on the developmental trajectories of ADHD across the lifespan. European Neuropsychopharmacology. https://doi.org/10.1016/j.euroneuro.2018.08.001"
-    author: Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A
+    author: Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A.
+    q: 2
+    i: "?"
   - id: franke-2018-3
     resource: "https://doi.org/10.1016/j.euroneuro.2018.08.001"
     title: "Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A. (2018). Live fast, die young? A review on the developmental trajectories of ADHD across the lifespan. European Neuropsychopharmacology. https://doi.org/10.1016/j.euroneuro.2018.08.001"
-    author: Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A
+    author: Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A.
+    q: 2
+    i: "?"
 ---
 
 # Meta-analyses establish that ADHD is associated with poorer performance on tasks measuring inhibition, working memory, planning, and vigilance in children, with overall similar impairment patterns in adults and a strong association with reaction time variability
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Meta-analyses of cognitive studies in children establish ADHD to be associated with poorer performance on tasks measuring inhibition, working memory, planning, and vigilance. [→ Franke 2018](#franke-2018)

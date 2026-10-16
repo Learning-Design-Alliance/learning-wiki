@@ -16,6 +16,9 @@ sources:
 
 # Use metacognitive characters and teacher follow-up to support transfer of trained inhibition strategies
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Within the program, three characters symbolizing inhibition aspects (Mr. Stop for stopping a predominant response, the Detective for resisting distractors, the Statue for motor control) were invoked before each activity, and children were encouraged to analyze the mental processes involved. Teachers were invited to reuse the concepts and materials during the week, with suggested weekly activities, to promote transfer of knowledge to other situations.
 

@@ -12,10 +12,15 @@ sources:
   - id: xu-2023
     resource: "https://doi.org/10.1057/s41599-023-01508-1"
     title: "Xu, E., Wang, W., & Wang, Q. (2023). The effectiveness of collaborative problem solving in promoting students' critical thinking: A meta-analysis based on empirical literature. Humanities and Social Sciences Communications. https://doi.org/10.1057/s41599-023-01508-1"
-    author: "Xu, E., Wang, W., & Wang, Q"
+    author: "Xu, E., Wang, W., & Wang, Q."
+    q: 3
+    i: 2
 ---
 
 # Mixed courses show the largest effect among teaching types (ES = 1.34), and effects decline as group size increases beyond 2–3 members
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Group sizes of 2–3 persons had the biggest overall effect size (ES = 0.99), and improvement fell to a lower-middle level (ES < 0.5) when group size exceeded 7 people. [→ Xu 2023](#xu-2023)

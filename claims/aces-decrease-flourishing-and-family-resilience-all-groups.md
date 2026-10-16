@@ -12,10 +12,15 @@ sources:
   - id: goldstein-2021
     resource: "https://doi.org/10.1038/s41390-020-01188-6"
     title: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L. (2021). Influence of race/ethnicity and income on the link between adverse childhood experiences and child flourishing. Pediatric Research. https://doi.org/10.1038/s41390-020-01188-6"
-    author: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L"
+    author: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L."
+    q: 2
+    i: "?"
 ---
 
 # As cumulative ACEs increase, children's probability of flourishing (learning interest, task completion, self-regulation) and family resilience decrease across race/ethnicity and income groups
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` As ACEs increased, the estimated probability of all three flourishing indicators and family resilience decreased across race/ethnicity and FPL groups. [→ Goldstein 2021](#goldstein-2021)

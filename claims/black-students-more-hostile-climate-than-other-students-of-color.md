@@ -13,9 +13,14 @@ sources:
     resource: "https://www.iastatedigitalpress.com/jctp/"
     title: "Evelyn Ezikwelu. (2020). Institutional Racism and Campus Racial Climate: Struggles for Sense of Belonging Among Black Students in K-12 Public Schools. Journal of Critical Thought and Praxis, 10(1). https://www.iastatedigitalpress.com/jctp/"
     author: Evelyn Ezikwelu
+    q: 2
+    i: "?"
 ---
 
 # Black students experience a more hostile campus racial climate than other students of color in schools
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Research has demonstrated that Black students experienced a more hostile campus racial climate than other students of color in schools. [→ Evelyn Ezikwelu 2020](#evelyn-ezikwelu-2020)

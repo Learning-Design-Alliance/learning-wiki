@@ -16,6 +16,9 @@ sources:
 
 # Develop customized anti-bullying intervention strategies according to the neurocognitive profile of students in each school
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends that neurocognitive assessment of bullying roles can inform tailored responses: "This type of study may lead to the development of customized intervention strategies according to the profile of students in each school." Because bullies showed hot executive function impairment and victims showed comparatively lower cold executive function performance, interventions matched to each group's profile may be more appropriate than uniform approaches. The authors ground this in the observation that not all behavioral issues share the same cause and not every victim responds to aggression in the same manner.
 

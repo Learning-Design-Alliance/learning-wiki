@@ -16,6 +16,9 @@ sources:
 
 # Train elementary school teachers in APD symptomatology so they can identify suspected cases and serve on multidisciplinary teams
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends additional teacher training in auditory processing disorder symptomatology for grade 1–4 teachers, who deliver the curriculum and monitor pupils' academic performance. It concludes that "findings point to the need for additional training in APD symptomatology for elementary school (grade 1-4) teachers to become valued members of a multidisciplinary team supporting students with auditory processing disorder." Diagnosis and treatment should involve teachers, speech-language pathologists, psychologists and parents.
 

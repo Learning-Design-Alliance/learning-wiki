@@ -16,6 +16,9 @@ sources:
 
 # Prevent and intervene early against bullying in preadolescence to protect cognitive development
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article concludes that because bullying victimization is associated with altered brain morphometry and poorer cognition in preadolescents, and because affected regions play roles in emotional processing and regulation, "early intervention may be critical to prevent negative psychiatric outcomes." The strategy is to prioritize bullying prevention and early intervention during the preadolescent years, when the authors argue the brain is more stress-vulnerable. The authors state the results "allude to the importance of bullying prevention among preadolescent youth."
 

@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.3390/jintelligence5020026"
     title: "Schneider Wolfgang, Niklas Frank. (2017). Intelligence and Verbal Short-Term Memory/Working Memory: Their Interrelationships from Childhood to Young Adulthood and Their Impact on Academic Achievement. Journal of Intelligence. https://doi.org/10.3390/jintelligence5020026"
     author: Schneider Wolfgang, Niklas Frank
+    q: 2
+    i: "?"
   - id: schneider-wolfgang-2017-2
     resource: "https://doi.org/10.3390/jintelligence5020026"
     title: "Schneider Wolfgang, Niklas Frank. (2017). Intelligence and Verbal Short-Term Memory/Working Memory: Their Interrelationships from Childhood to Young Adulthood and Their Impact on Academic Achievement. Journal of Intelligence. https://doi.org/10.3390/jintelligence5020026"
     author: Schneider Wolfgang, Niklas Frank
+    q: 2
+    i: "?"
 ---
 
 # Previous domain knowledge accounts for most of the variance in later achievement, considerably reducing the predictive impact of IQ and WM
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In more comprehensive regression and SEM models, preceding domain knowledge accounted for most of the variance in achievement, reducing the impact of IQ and WM considerably. [→ Schneider Wolfgang 2017 (2)](#schneider-wolfgang-2017-2)

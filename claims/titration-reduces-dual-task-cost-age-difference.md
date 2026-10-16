@@ -12,10 +12,15 @@ sources:
   - id: jaroslawska-2019
     resource: "https://doi.org/10.1037/pag0000358"
     title: "Jaroslawska, A. J., & Rhodes, S. (2019). Adult Age Diﬀerences in the Eﬀects of Processing on Storage in Working Memory: A Meta-Analysis. Psychology & Aging. https://doi.org/10.1037/pag0000358"
-    author: "Jaroslawska, A. J., & Rhodes, S"
+    author: "Jaroslawska, A. J., & Rhodes, S."
+    q: 3
+    i: "?"
 ---
 
 # Titration of storage task difficulty reduces the age difference in dual task costs to a non-significant level
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` The age difference in the concurrence cost is significant in non-titrated studies (-0.246) but smaller and non-significant in titrated studies (-0.111), and the two effect sizes do not differ significantly. [→ Jaroslawska 2019](#jaroslawska-2019)

@@ -10,16 +10,19 @@ generated:
 evidence_strength: moderate
 sources:
   - id: poon-k-2018
-    resource: "https://doi.org/10.3389/fpsyg.2017.02311"
-    title: "Poon K (2018) Hot and Cool Executive Functions in Adolescence: Development and Contributions to Important Developmental Outcomes. Front. Psychol. 8:2311. https://doi.org/10.3389/fpsyg.2017.02311"
-    author: Poon K
+    title: Poon K 2018
+    q: 2
+    i: 1
   - id: poon-k-2018-2
-    resource: "https://doi.org/10.3389/fpsyg.2017.02311"
-    title: "Poon K (2018) Hot and Cool Executive Functions in Adolescence: Development and Contributions to Important Developmental Outcomes. Front. Psychol. 8:2311. https://doi.org/10.3389/fpsyg.2017.02311"
-    author: Poon K
+    title: Poon K 2018 (2)
+    q: 2
+    i: "?"
 ---
 
 # Cool EF measures correlate with each other, but no association is found between cool and hot EF measures
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q2` quasi-experiment · `i1` small
 
 ## Subclaims
 `q2 i1` Backward digit span correlates positively with CNT attentional control after controlling age, IQ, and SES. [→ Poon K 2018](#poon-k-2018)

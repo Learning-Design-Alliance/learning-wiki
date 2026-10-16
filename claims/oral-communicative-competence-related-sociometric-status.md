@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1007/s10648-019-09479-z"
     title: "Femke van der Wilt, Chiel van der Veen, Claudia van Kruistum, Bert van Oers (2019). Why Do Children Become Rejected by Their Peers? A Review of Studies into the Relationship Between Oral Communicative Competence and Sociometric Status in Childhood. Educational Psychology Review (2019) 31:699–724. https://doi.org/10.1007/s10648-019-09479-z"
     author: Femke van der Wilt, Chiel van der Veen, Claudia van Kruistum, Bert van Oers
+    q: 2
+    i: "?"
   - id: femke-van-der-wilt-2019-2
     resource: "https://doi.org/10.1007/s10648-019-09479-z"
     title: "Femke van der Wilt, Chiel van der Veen, Claudia van Kruistum, Bert van Oers (2019). Why Do Children Become Rejected by Their Peers? A Review of Studies into the Relationship Between Oral Communicative Competence and Sociometric Status in Childhood. Educational Psychology Review (2019) 31:699–724. https://doi.org/10.1007/s10648-019-09479-z"
     author: Femke van der Wilt, Chiel van der Veen, Claudia van Kruistum, Bert van Oers
+    q: 2
+    i: 2
 ---
 
 # Children's oral communicative competence is significantly related to their sociometric status in childhood
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i2` medium
 
 ## Subclaims
 `q2 i?` Across 25 reviewed studies of children aged 1–12, main outcomes pointed toward a significant relation between oral communicative competence and sociometric status. [→ Femke van der Wilt 2019](#femke-van-der-wilt-2019)

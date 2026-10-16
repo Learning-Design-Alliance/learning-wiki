@@ -12,10 +12,15 @@ sources:
   - id: franke-2018
     resource: "https://doi.org/10.1016/j.euroneuro.2018.08.001"
     title: "Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A. (2018). Live fast, die young? A review on the developmental trajectories of ADHD across the lifespan. European Neuropsychopharmacology. https://doi.org/10.1016/j.euroneuro.2018.08.001"
-    author: Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A
+    author: Franke, B.; Michelini, G.; Asherson, P.; Banaschewski, T.; Bilbow, A.; Buitelaar, J.K.; Cormand, B.; Faraone, S.V; Ginsberg, Y.; Haavik, J.; Kuntsi, J.; Larsson, H.; Lesch, K.P.; Ramos-Quiroga, J.A.; Réthelyi, J.M.; Ribases, M.; Reif, A.
+    q: 2
+    i: "?"
 ---
 
 # A third systematic review concluded ADHD medication reduced symptoms and impairments but found limited and inconsistent evidence for long-term medication effects on social functioning, academic achievement, employment status, and psychiatric comorbidity
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` A systematic review of placebo-controlled discontinuation studies and prospective long-term observational studies concluded that ADHD medication reduced ADHD symptoms and impairments, but there was limited and inconsistent evidence for long-term medication effects on improved social functioning, academic achievement, employment status, and psychiatric comorbidity. [→ Franke 2018](#franke-2018)

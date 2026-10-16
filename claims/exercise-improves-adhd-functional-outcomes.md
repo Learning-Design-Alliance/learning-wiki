@@ -12,10 +12,15 @@ sources:
   - id: vysniauske-2020
     resource: "https://doi.org/10.1177/1087054715627489"
     title: "Vysniauske, R., Verburgh, L., Oosterlaan, J., & Molendijk, M. L. (2020). The Effects of Physical Exercise on Functional Outcomes in the Treatment of ADHD: A Meta-Analysis. Journal of attention disorders, 24(5), 644-654. https://doi.org/10.1177/1087054715627489"
-    author: "Vysniauske, R., Verburgh, L., Oosterlaan, J., & Molendijk, M. L"
+    author: "Vysniauske, R., Verburgh, L., Oosterlaan, J., & Molendijk, M. L."
+    q: 3
+    i: 2
 ---
 
 # Physical exercise has a significant modest positive effect on functional outcomes (executive functions and motor skills) in children with ADHD
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Across ten studies, physical exercise significantly improved ADHD functional outcomes with a pooled effect size of g = 0.627. [→ Vysniauske 2020](#vysniauske-2020)

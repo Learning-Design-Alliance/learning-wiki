@@ -10,16 +10,19 @@ generated:
 evidence_strength: moderate
 sources:
   - id: liu-s-2020
-    resource: "https://doi.org/10.3389/fpsyg.2020.554915"
-    title: "Liu S, Yu Q, Li Z, Cunha PM, Zhang Y, Kong Z, Lin W, Chen S and Cai Y (2020) Effects of Acute and Chronic Exercises on Executive Function in Children and Adolescents: A Systemic Review and Meta-Analysis. Front. Psychol. 11:554915. https://doi.org/10.3389/fpsyg.2020.554915"
-    author: Liu S, Yu Q, Li Z, Cunha PM, Zhang Y, Kong Z, Lin W, Chen S and Cai Y
+    title: Liu S 2020
+    q: 3
+    i: 2
   - id: liu-s-2020-2
-    resource: "https://doi.org/10.3389/fpsyg.2020.554915"
-    title: "Liu S, Yu Q, Li Z, Cunha PM, Zhang Y, Kong Z, Lin W, Chen S and Cai Y (2020) Effects of Acute and Chronic Exercises on Executive Function in Children and Adolescents: A Systemic Review and Meta-Analysis. Front. Psychol. 11:554915. https://doi.org/10.3389/fpsyg.2020.554915"
-    author: Liu S, Yu Q, Li Z, Cunha PM, Zhang Y, Kong Z, Lin W, Chen S and Cai Y
+    title: Liu S 2020 (2)
+    q: 3
+    i: 2
 ---
 
 # Age moderates exercise effects in opposite directions: adolescents benefit more for inhibitory control, younger children more for working memory
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` For chronic exercise, adolescents aged 12–18 show a larger inhibitory control effect (SMD = −0.81) than children aged 5–12 (SMD = −0.19). [→ Liu S 2020](#liu-s-2020)

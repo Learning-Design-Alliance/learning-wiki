@@ -12,10 +12,15 @@ sources:
   - id: leclercq-2010
     resource: "https://doi.org/10.1037/a0018540"
     title: "Leclercq, A.-L., & Majerus, S. (2010). Serial Order Short-Term Memory Predicts Vocabulary Development: Evidence from a Longitudinal Study. Developmental Psychology. https://doi.org/10.1037/a0018540"
-    author: "Leclercq, A.-L., & Majerus, S"
+    author: "Leclercq, A.-L., & Majerus, S."
+    q: 3
+    i: "?"
 ---
 
 # Vocabulary knowledge at Age 4 does not predict serial order STM development at Age 5 once initial age, nonverbal reasoning and serial order STM are controlled
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Reverse-direction regressions predicting serial order STM at Age 5 from vocabulary at Age 4 were not significant after controls, supporting the directionality of the STM-to-vocabulary prediction. [→ Leclercq 2010](#leclercq-2010)

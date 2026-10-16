@@ -10,16 +10,19 @@ generated:
 evidence_strength: moderate
 sources:
   - id: russell-ae-2015
-    resource: "https://doi.org/10.1371/journal.pone.0128248"
-    title: "Russell AE, Ford T, Russell G (2015) Socioeconomic Associations with ADHD: Findings from a Mediation Analysis. PLoS ONE 10(6): e0128248. https://doi.org/10.1371/journal.pone.0128248"
-    author: Russell AE, Ford T, Russell G
+    title: Russell AE 2015
+    q: 2
+    i: 2
   - id: russell-ae-2015-2
-    resource: "https://doi.org/10.1371/journal.pone.0128248"
-    title: "Russell AE, Ford T, Russell G (2015) Socioeconomic Associations with ADHD: Findings from a Mediation Analysis. PLoS ONE 10(6): e0128248. https://doi.org/10.1371/journal.pone.0128248"
-    author: Russell AE, Ford T, Russell G
+    title: Russell AE 2015 (2)
+    q: 2
+    i: "?"
 ---
 
 # Perceived financial difficulty in early childhood is the socioeconomic indicator most strongly associated with a research diagnosis of ADHD at age 7
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q2` quasi-experiment · `i2` medium
 
 ## Subclaims
 `q2 i2` Children whose families reported financial difficulty when the child was an infant were over twice as likely to have an ADHD diagnosis at age 7 (OR = 2.23). [→ Russell AE 2015](#russell-ae-2015)

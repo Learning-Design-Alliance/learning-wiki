@@ -12,14 +12,21 @@ sources:
   - id: sinopoli-2011
     resource: "https://doi.org/10.1037/a0024440"
     title: "Sinopoli, K.J., Schachar, R., & Dennis, M. (2011). Reward Improves Cancellation and Restraint Inhibition Across Childhood and Adolescence. Developmental Psychology, 47(5), 1479-89. https://doi.org/10.1037/a0024440"
-    author: "Sinopoli, K.J., Schachar, R., & Dennis, M"
+    author: "Sinopoli, K.J., Schachar, R., & Dennis, M."
+    q: 3
+    i: 3
   - id: sinopoli-2011-2
     resource: "https://doi.org/10.1037/a0024440"
     title: "Sinopoli, K.J., Schachar, R., & Dennis, M. (2011). Reward Improves Cancellation and Restraint Inhibition Across Childhood and Adolescence. Developmental Psychology, 47(5), 1479-89. https://doi.org/10.1037/a0024440"
-    author: "Sinopoli, K.J., Schachar, R., & Dennis, M"
+    author: "Sinopoli, K.J., Schachar, R., & Dennis, M."
+    q: 3
+    i: 2
 ---
 
 # Adolescents showed faster, more accurate, and less variable performance than children, with reward effects on inhibition accuracy differing by age
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2`–`i3`
 
 ## Subclaims
 `q3 i3` The TEEN group exhibited faster SSRT than the CHILD group on both tasks. [→ Sinopoli 2011](#sinopoli-2011)

@@ -16,6 +16,9 @@ sources:
 
 # Maintain a regular sleep schedule for children so that every night counts for morning cognitive performance
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends that caregivers treat nightly sleep variability, not just average sleep behavior, as consequential for children's school-day cognition. Because single bad nights were associated with lower morning cognitive resources, the authors advise that "children might benefit from a regular sleep schedule to produce their best cognitive performance in the morning" and that caregivers observe how much time in bed an individual child needs and keep it as steady as possible.
 

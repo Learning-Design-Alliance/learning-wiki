@@ -12,14 +12,21 @@ sources:
   - id: davidse-2010
     resource: "https://doi.org/10.1007/s11145-010-9233-3"
     title: "Davidse, N. J., de Jong, M. T., Bus, A. G., Huijbregts, S. C. J., & Swaab, H. (2010). Cognitive and environmental predictors of early literacy skills. Read Writ 24, 395–412. https://doi.org/10.1007/s11145-010-9233-3"
-    author: "Davidse, N. J., de Jong, M. T., Bus, A. G., Huijbregts, S. C. J., & Swaab, H"
+    author: "Davidse, N. J., de Jong, M. T., Bus, A. G., Huijbregts, S. C. J., & Swaab, H."
+    q: 3
+    i: "?"
   - id: davidse-2010-2
     resource: "https://doi.org/10.1007/s11145-010-9233-3"
     title: "Davidse, N. J., de Jong, M. T., Bus, A. G., Huijbregts, S. C. J., & Swaab, H. (2010). Cognitive and environmental predictors of early literacy skills. Read Writ 24, 395–412. https://doi.org/10.1007/s11145-010-9233-3"
-    author: "Davidse, N. J., de Jong, M. T., Bus, A. G., Huijbregts, S. C. J., & Swaab, H"
+    author: "Davidse, N. J., de Jong, M. T., Bus, A. G., Huijbregts, S. C. J., & Swaab, H."
+    q: 3
+    i: "?"
 ---
 
 # Home literacy environment predicts early literacy outcomes, with parent print exposure predicting vocabulary and book-sharing frequency predicting letter knowledge
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` The parent print exposure checklist predicted vocabulary (β = .18, 3.24% of variance) while book-sharing frequency was not significant. [→ Davidse 2010](#davidse-2010)

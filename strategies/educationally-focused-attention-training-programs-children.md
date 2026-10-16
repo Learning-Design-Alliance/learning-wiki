@@ -16,6 +16,9 @@ sources:
 
 # Develop educationally-focused attention-training programs for children informed by the neuroscience of selective attention
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article's closing recommendation is to apply the reviewed neuroscience principles to the design of attention-training programs aimed at education. The abstract states: "The final section examines the application of these principles to educationally-focused attention-training programs for children." The strategy is to ground such programs in the neurobiology of selective attention, its developmental time course, and the training literatures reviewed.
 

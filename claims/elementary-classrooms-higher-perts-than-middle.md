@@ -12,10 +12,15 @@ sources:
   - id: hanson-2017
     resource: "https://doi.org/10.5296/jei.v3i1.10479"
     title: "Hanson, J. (2017). Testing the Difference between School Level and Academic Mindset in the Classroom: Implications for Developing Student Psycho-Social Skills in Secondary School Classrooms. Journal of Educational Issues, 3(1). https://doi.org/10.5296/jei.v3i1.10479"
-    author: Hanson, J
+    author: Hanson, J.
+    q: 2
+    i: "?"
 ---
 
 # Elementary classrooms score significantly higher on the PERTS academic mindset scale than middle school classrooms
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Classroom PERTS mean scores showed a significant decrease between elementary classrooms (n = 70) and secondary classrooms (n = 50), F(1, 118) = 11.819, eta2 = .014. [→ Hanson 2017](#hanson-2017)

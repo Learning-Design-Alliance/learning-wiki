@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.5539/jel.v9n5p45"
     title: "Donald E Grant Jr. & Jerell B. Hill. (2020). Activating Culturally Empathic Motivation in Diverse Students. Journal of Education and Learning, 9(5). https://doi.org/10.5539/jel.v9n5p45"
     author: "Donald E Grant Jr. & Jerell B. Hill"
+    q: 2
+    i: "?"
 ---
 
 # Stereotype threat compromises the test performance of learners whose group is the target of a negative stereotype
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` When presented with tests of cognitive ability, Black students performed dramatically worse than White students, but presenting the same test as problem-solving exercises removed the stereotype valence and improved outcomes. [→ Donald E Grant Jr. & Jerell B. Hill 2020](#donald-e-grant-jr-jerell-b-hill-2020)

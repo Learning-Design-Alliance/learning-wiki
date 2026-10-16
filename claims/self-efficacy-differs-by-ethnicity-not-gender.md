@@ -12,14 +12,21 @@ sources:
   - id: hanson-2017
     resource: "https://doi.org/10.5296/jei.v3i1.10479"
     title: "Hanson, J. (2017). Testing the Difference between School Level and Academic Mindset in the Classroom: Implications for Developing Student Psycho-Social Skills in Secondary School Classrooms. Journal of Educational Issues, 3(1). https://doi.org/10.5296/jei.v3i1.10479"
-    author: Hanson, J
+    author: Hanson, J.
+    q: 2
+    i: "?"
   - id: hanson-2017-2
     resource: "https://doi.org/10.5296/jei.v3i1.10479"
     title: "Hanson, J. (2017). Testing the Difference between School Level and Academic Mindset in the Classroom: Implications for Developing Student Psycho-Social Skills in Secondary School Classrooms. Journal of Educational Issues, 3(1). https://doi.org/10.5296/jei.v3i1.10479"
-    author: Hanson, J
+    author: Hanson, J.
+    q: 2
+    i: "?"
 ---
 
 # Self-efficacy scores differ by cultural identification, while gender shows no significant effect
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Students identifying as White and Asian self-scored significantly higher on self-efficacy for classroom tasks than other subcategories of students' culture. [→ Hanson 2017](#hanson-2017)

@@ -12,10 +12,15 @@ sources:
   - id: master-2021
     resource: "https://doi.org/10.1073/pnas.2100030118"
     title: "Master, A., Meltzoff, A. N., & Cheryan, S. (2021). Gender stereotypes about interests start early and cause gender disparities in computer science and engineering. Proceedings of the National Academy of Sciences, 118(48), e2100030118. https://doi.org/10.1073/pnas.2100030118"
-    author: "Master, A., Meltzoff, A. N., & Cheryan, S"
+    author: "Master, A., Meltzoff, A. N., & Cheryan, S."
+    q: 3
+    i: "?"
 ---
 
 # Girls' lower sense of belonging mediates the relation between gender-interest stereotypes and their lower interest in computer science, with the opposite mediation for boys
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` For girls, lower sense of belonging mediated the negative relation between stereotype endorsement and interest (Study 1 conditional indirect effect = −0.14, 95% CI [−0.24, −0.03]); for boys the mediation ran in the opposite direction (0.10, CI [0.02, 0.18]). [→ Master 2021](#master-2021)

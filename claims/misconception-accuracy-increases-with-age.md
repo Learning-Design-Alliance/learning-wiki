@@ -10,12 +10,15 @@ generated:
 evidence_strength: moderate
 sources:
   - id: brookman-byrne-a-2018
-    resource: "https://doi.org/10.1371/journal.pone.0198973"
-    title: "Brookman-Byrne A, Mareschal D, Tolmie AK, Dumontheil I (2018) Inhibitory control and counterintuitive science and maths reasoning in adolescence. PLoS ONE 13(6): e0198973. https://doi.org/10.1371/journal.pone.0198973"
-    author: Brookman-Byrne A, Mareschal D, Tolmie AK, Dumontheil I
+    title: Brookman-Byrne A 2018
+    q: 3
+    i: 3
 ---
 
 # Misconception-task accuracy increases with age between 12 and 15 years, with no age effect on reaction time
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` Accuracy increased with age across the four age groups, with a main effect of Age group (ηp2 = .169), while RT showed no main effect of Age group. [→ Brookman-Byrne A 2018](#brookman-byrne-a-2018)

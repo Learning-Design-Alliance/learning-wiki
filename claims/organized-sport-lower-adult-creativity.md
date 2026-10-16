@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.3390/ijerph15040800"
     title: "Bidzan-Bluma Ilona, Lipowska Małgorzata. (2018). Physical Activity and Cognitive Functioning of Children: A Systematic Review. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph15040800"
     author: Bidzan-Bluma Ilona, Lipowska Małgorzata
+    q: 2
+    i: "?"
 ---
 
 # Organized (vs. non-organized) youth sport participation is associated with lower adult creativity
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Children who participate in organized sport activities demonstrate a lower level of creativity as adults than individuals who participated in non-organized sport activities. [→ Bidzan-Bluma Ilona 2018](#bidzan-bluma-ilona-2018)

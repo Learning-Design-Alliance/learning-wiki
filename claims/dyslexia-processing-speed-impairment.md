@@ -10,12 +10,15 @@ generated:
 evidence_strength: moderate
 sources:
   - id: doyle-c-2018
-    resource: "https://doi.org/10.3389/fpsyg.2018.00795"
-    title: "Doyle C, Smeaton AF, Roche RAP and Boran L (2018) Inhibition and Updating, but Not Switching, Predict Developmental Dyslexia and Individual Variation in Reading Ability. Front. Psychol. 9:795. https://doi.org/10.3389/fpsyg.2018.00795"
-    author: Doyle C, Smeaton AF, Roche RAP and Boran L
+    title: Doyle C 2018
+    q: 3
+    i: 2
 ---
 
 # Children with developmental dyslexia show a processing speed impairment relative to controls
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` The dyslexia group was significantly slower than controls on the computerized coding task measure of processing speed (Cohen's d = 0.60). [→ Doyle C 2018](#doyle-c-2018)

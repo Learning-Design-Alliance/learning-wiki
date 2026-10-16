@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.33178/scenario.9.1.6"
     title: "Peadar Donohoe and Carmel O’Sullivan. (2015). The Bullying Prevention Pack: Fostering Vocabulary and Knowledge on the Topic of Bullying and Prevention using Role-Play and Discussion to Reduce Primary School Bullying. Scenario, Volume 2015 · Issue 1. https://doi.org/10.33178/scenario.9.1.6"
     author: Peadar Donohoe and Carmel O’Sullivan
+    q: 2
+    i: "?"
   - id: peadar-donohoe-and-carmel-osullivan-2015-2
     resource: "https://doi.org/10.33178/scenario.9.1.6"
     title: "Peadar Donohoe and Carmel O’Sullivan. (2015). The Bullying Prevention Pack: Fostering Vocabulary and Knowledge on the Topic of Bullying and Prevention using Role-Play and Discussion to Reduce Primary School Bullying. Scenario, Volume 2015 · Issue 1. https://doi.org/10.33178/scenario.9.1.6"
     author: Peadar Donohoe and Carmel O’Sullivan
+    q: 2
+    i: "?"
 ---
 
 # By the end of the study all learner focus groups understood bullying as repeated aggression and reported being confident defenders
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` All focus groups reported understanding bullying as repeated aggression, indicating the definitional knowledge had been successfully communicated. [→ Peadar Donohoe and Carmel O’Sullivan 2015](#peadar-donohoe-and-carmel-osullivan-2015)

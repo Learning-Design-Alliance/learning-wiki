@@ -12,14 +12,21 @@ sources:
   - id: mikami-2015
     resource: "https://doi.org/10.1007/s40474-014-0036-0"
     title: "Mikami, A. Y., & Normand, S. (2015). The Importance of Social Contextual Factors in Peer Relationships of Children with ADHD. Curr Dev Disord Rep. https://doi.org/10.1007/s40474-014-0036-0"
-    author: "Mikami, A. Y., & Normand, S"
+    author: "Mikami, A. Y., & Normand, S."
+    q: 3
+    i: "?"
   - id: mikami-2015-2
     resource: "https://doi.org/10.1007/s40474-014-0036-0"
     title: "Mikami, A. Y., & Normand, S. (2015). The Importance of Social Contextual Factors in Peer Relationships of Children with ADHD. Curr Dev Disord Rep. https://doi.org/10.1007/s40474-014-0036-0"
-    author: "Mikami, A. Y., & Normand, S"
+    author: "Mikami, A. Y., & Normand, S."
+    q: 3
+    i: "?"
 ---
 
 # Children with ADHD show marked peer rejection and friendship impairment: approximately four times more likely to be rejected, 52–82% scoring over 1 SD above the classroom mean in rejection, and nearly twice as likely to have no classroom friends
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Children with ADHD are approximately four times more likely to be rejected by peers than typical children, and 52–82% score greater than 1 SD above the classroom mean in peer rejection. [→ Mikami 2015](#mikami-2015)

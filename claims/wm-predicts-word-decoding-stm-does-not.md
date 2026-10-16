@@ -13,9 +13,14 @@ sources:
     resource: "https://link.springer.com/journal/13421/29/1"
     title: "Robert Kail and Lynda K. Hall. (2001). Distinguishing short-term memory from working memory. Memory & Cognition, 29(1), 1-9. https://link.springer.com/journal/13421/29/1"
     author: Robert Kail and Lynda K. Hall
+    q: 3
+    i: "?"
 ---
 
 # Working memory, but not short-term memory, predicts word decoding skill in children
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` With variance shared between WM and STM factored out, path coefficients from WM to decoding were significant (.41 and .53) while those from STM to decoding (.14 and .08) were not. [→ Robert Kail and Lynda K. Hall 2001](#robert-kail-and-lynda-k-hall-2001)

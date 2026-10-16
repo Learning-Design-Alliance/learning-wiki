@@ -12,14 +12,21 @@ sources:
   - id: fandakova-yana-2021
     resource: "https://doi.org/10.1111/desc.13005"
     title: "Fandakova Yana, Gruber Matthias J. (2021). States of curiosity and interest enhance memory differently in adolescents and in children. Developmental Science, 24(1), e13005. https://doi.org/10.1111/desc.13005"
-    author: Fandakova Yana, Gruber Matthias J
+    author: Fandakova Yana, Gruber Matthias J.
+    q: 3
+    i: 2
   - id: fandakova-yana-2021-2
     resource: "https://doi.org/10.1111/desc.13005"
     title: "Fandakova Yana, Gruber Matthias J. (2021). States of curiosity and interest enhance memory differently in adolescents and in children. Developmental Science, 24(1), e13005. https://doi.org/10.1111/desc.13005"
-    author: Fandakova Yana, Gruber Matthias J
+    author: Fandakova Yana, Gruber Matthias J.
+    q: 2
+    i: 2
 ---
 
 # Post-answer interest enhances trivia answer memory more strongly in adolescents than in children
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2`–`q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Recall did not differ significantly between high- and low post-answer interest in children, but adolescents recalled high-interest answers significantly more often, and the interest-driven memory advantage increased with age. [→ Fandakova Yana 2021](#fandakova-yana-2021)

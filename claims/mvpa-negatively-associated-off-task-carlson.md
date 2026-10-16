@@ -12,10 +12,15 @@ sources:
   - id: ruhland-stefanie-2021
     resource: "https://doi.org/10.1016/j.smhs.2021.08.003"
     title: "Ruhland Stefanie, Lange Klaus W. (2021). Effect of classroom-based physical activity interventions on attention and on-task behavior in schoolchildren: A systematic review. Sports Medicine and Health Science. https://doi.org/10.1016/j.smhs.2021.08.003"
-    author: Ruhland Stefanie, Lange Klaus W
+    author: Ruhland Stefanie, Lange Klaus W.
+    q: 3
+    i: "?"
 ---
 
 # In the highest-quality reviewed study, classroom MVPA was negatively associated with students being off task or inattentive (β = −0.17; p = 0.042)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In Carlson et al. (2015), the amount of MVPA was negatively associated with off-task or inattentive classroom behavior (β = −0.17; p = 0.042). [→ Ruhland Stefanie 2021](#ruhland-stefanie-2021)

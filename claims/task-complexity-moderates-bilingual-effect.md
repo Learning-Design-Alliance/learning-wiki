@@ -10,12 +10,15 @@ generated:
 evidence_strength: weak
 sources:
   - id: giovannoli-j-2020
-    resource: "https://doi.org/10.3389/fpsyg.2020.574789"
-    title: "Giovannoli J, Martella D, Federico F, Pirchio S and Casagrande M (2020) The Impact of Bilingualism on Executive Functions in Children and Adolescents: A Systematic Review Based on the PRISMA Method. Front. Psychol. 11:574789. https://doi.org/10.3389/fpsyg.2020.574789"
-    author: Giovannoli J, Martella D, Federico F, Pirchio S and Casagrande M
+    title: Giovannoli J 2020
+    q: 2
+    i: "?"
 ---
 
 # The bilingual effect tends to emerge in more complex experimental tasks with higher control demands
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Several reviewed studies agree the bilingual effect would emerge in more complex experimental tasks where there is a higher demand for control. [→ Giovannoli J 2020](#giovannoli-j-2020)

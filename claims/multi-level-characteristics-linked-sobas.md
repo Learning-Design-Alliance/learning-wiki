@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1177/0022022115617031"
     title: "M.M. Chiu, B.W.Y. Chow, C. McBride, S.T. Mol. (2016). Students’ sense of belonging at school in 41 countries: cross-cultural variability. Journal of Cross-Cultural Psychology. https://doi.org/10.1177/0022022115617031"
     author: M.M. Chiu, B.W.Y. Chow, C. McBride, S.T. Mol
+    q: 3
+    i: "?"
 ---
 
 # Family, schoolmate, teacher, and student characteristics are linked to SOBAS and account for most of its variance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Family characteristics (immigrant status, language spoken at home, SES, books at home, family wealth, family communication), schoolmates' characteristics (SES and social communication), teacher characteristics (teacher-student relationship, teacher support, disciplinary climate), and student characteristics (reading achievement, self-efficacy, self-concept) were linked to SOBAS. [→ M.M. Chiu 2016](#mm-chiu-2016)

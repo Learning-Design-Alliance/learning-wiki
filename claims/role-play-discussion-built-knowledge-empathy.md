@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.33178/scenario.9.1.6"
     title: "Peadar Donohoe and Carmel O’Sullivan. (2015). The Bullying Prevention Pack: Fostering Vocabulary and Knowledge on the Topic of Bullying and Prevention using Role-Play and Discussion to Reduce Primary School Bullying. Scenario, Volume 2015 · Issue 1. https://doi.org/10.33178/scenario.9.1.6"
     author: Peadar Donohoe and Carmel O’Sullivan
+    q: 2
+    i: "?"
   - id: peadar-donohoe-and-carmel-osullivan-2015-2
     resource: "https://doi.org/10.33178/scenario.9.1.6"
     title: "Peadar Donohoe and Carmel O’Sullivan. (2015). The Bullying Prevention Pack: Fostering Vocabulary and Knowledge on the Topic of Bullying and Prevention using Role-Play and Discussion to Reduce Primary School Bullying. Scenario, Volume 2015 · Issue 1. https://doi.org/10.33178/scenario.9.1.6"
     author: Peadar Donohoe and Carmel O’Sullivan
+    q: 2
+    i: "?"
 ---
 
 # Role-plays and ensuing discussions fostered bullying vocabulary, knowledge, metacognition and empathy that the authors credit for the reduction
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Teachers in both strands reported that discussions following the role-plays were a positive strategy for talking about feelings and fostering empathy. [→ Peadar Donohoe and Carmel O’Sullivan 2015](#peadar-donohoe-and-carmel-osullivan-2015)

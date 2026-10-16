@@ -10,12 +10,15 @@ generated:
 evidence_strength: moderate
 sources:
   - id: russell-ae-2015
-    resource: "https://doi.org/10.1371/journal.pone.0128248"
-    title: "Russell AE, Ford T, Russell G (2015) Socioeconomic Associations with ADHD: Findings from a Mediation Analysis. PLoS ONE 10(6): e0128248. https://doi.org/10.1371/journal.pone.0128248"
-    author: Russell AE, Ford T, Russell G
+    title: Russell AE 2015
+    q: 2
+    i: "?"
 ---
 
 # Children with ADHD in the cohort were disproportionately male and from families reporting financial difficulty or social housing
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Descriptively, the ADHD group contained more boys (83.9% vs 50.5%), more families in financial difficulty (27.78% vs 14.44%) and more council/housing-association tenancy (17.8% vs 10.1%). [→ Russell AE 2015](#russell-ae-2015)

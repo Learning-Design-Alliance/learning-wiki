@@ -12,10 +12,15 @@ sources:
   - id: horn-2004
     resource: "https://doi.org/10.1016/j.ics.2004.07.048"
     title: "Horn, D. L., Davis, R. A. O., Pisoni, D. B., & Miyamoto, R. T. (2004). Visual attention, behavioral inhibition and speech/language outcomes in deaf children with cochlear implants. Int Congr Ser. https://doi.org/10.1016/j.ics.2004.07.048"
-    author: "Horn, D. L., Davis, R. A. O., Pisoni, D. B., & Miyamoto, R. T"
+    author: "Horn, D. L., Davis, R. A. O., Pisoni, D. B., & Miyamoto, R. T."
+    q: 2
+    i: "?"
 ---
 
 # Sustained visual attention (vCPT) performance shows no significant relations with speech or language outcomes in deaf children with cochlear implants
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` No significant relations were found between the vCPT vigilance task and any of the audiological outcome measures at 1, 2, or 3 years of CI use. [→ Horn 2004](#horn-2004)

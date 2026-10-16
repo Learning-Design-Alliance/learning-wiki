@@ -12,10 +12,15 @@ sources:
   - id: gilmore-c-2013
     resource: "https://doi.org/10.1371/journal.pone.0067374"
     title: "Gilmore C, Attridge N, Clayton S, Cragg L, Johnson S, Marlow N, Simms V, Inglis M. (2013). Individual Differences in Inhibitory Control, Not Non-Verbal Number Acuity, Correlate with Mathematics Achievement. PLoS ONE 8(6): e67374. https://doi.org/10.1371/journal.pone.0067374"
-    author: Gilmore C, Attridge N, Clayton S, Cragg L, Johnson S, Marlow N, Simms V, Inglis M
+    author: Gilmore C, Attridge N, Clayton S, Cragg L, Johnson S, Marlow N, Simms V, Inglis M.
+    q: 3
+    i: "?"
 ---
 
 # Dot comparison performance no longer predicts mathematics achievement once inhibition skill is accounted for, but inhibition explains variance over and above dot comparison
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In hierarchical regressions, dot comparison w score did not significantly improve model fit when added after inhibition, while the inhibition score added significant variance over dot comparison performance. [→ Gilmore C 2013](#gilmore-c-2013)

@@ -12,10 +12,15 @@ sources:
   - id: holz-j-2012
     resource: "https://doi.org/10.1371/journal.pone.0040963"
     title: "Holz J, Piosczyk H, Landmann N, Feige B, Spiegelhalder K, Riemann D, Nissen C, Voderholzer U. (2012). The Timing of Learning before Night-Time Sleep Differentially Affects Declarative and Procedural Long-Term Memory Consolidation in Adolescents. PLoS ONE 7(7): e40963. https://doi.org/10.1371/journal.pone.0040963"
-    author: Holz J, Piosczyk H, Landmann N, Feige B, Spiegelhalder K, Riemann D, Nissen C, Voderholzer U
+    author: Holz J, Piosczyk H, Landmann N, Feige B, Spiegelhalder K, Riemann D, Nissen C, Voderholzer U.
+    q: 3
+    i: "?"
 ---
 
 # Evening-trained adolescents show greater gains in finger-tapping accuracy (reduced error rate) than afternoon-trained adolescents at both retention intervals
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Evening-group adolescents showed a greater improvement in tapping accuracy than afternoon-group adolescents across both retention intervals. [→ Holz J 2012](#holz-j-2012)

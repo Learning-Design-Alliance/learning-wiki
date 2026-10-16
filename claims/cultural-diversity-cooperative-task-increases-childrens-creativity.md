@@ -12,10 +12,15 @@ sources:
   - id: vezzali-2016
     resource: "http://creativecommons.org/licenses/by-nc-nd/4.0/"
     title: "Vezzali, L., Goclowska, M., Crisp, R. J., & Stathi, S. (2016). On the Relationship between Cultural Diversity and Creativity in Education: The Moderating Role of Communal versus Divisional Mindset. http://creativecommons.org/licenses/by-nc-nd/4.0/"
-    author: "Vezzali, L., Goclowska, M., Crisp, R. J., & Stathi, S"
+    author: "Vezzali, L., Goclowska, M., Crisp, R. J., & Stathi, S."
+    q: 3
+    i: 2
 ---
 
 # Working in culturally diverse groups on a cooperative task increases schoolchildren's creativity (originality) compared with homogeneous groups
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Italian elementary schoolchildren randomly assigned to diverse groups (with immigrant peers) showed higher originality than those in all-Italian groups, F(1, 50) = 5.84, p = .017, η2p = .04. [→ Vezzali 2016](#vezzali-2016)

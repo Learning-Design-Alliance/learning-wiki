@@ -12,10 +12,15 @@ sources:
   - id: richardson-h-2023
     resource: "https://doi.org/10.1016/j.dcn.2023.101285"
     title: "Richardson H., Saxe R., Bedny M. (2023). Neural correlates of theory of mind reasoning in congenitally blind children. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2023.101285"
-    author: Richardson H., Saxe R., Bedny M
+    author: Richardson H., Saxe R., Bedny M.
+    q: 3
+    i: "?"
 ---
 
 # Congenitally blind children perform slightly less accurately on a non-visual behavioral ToM task than sighted children, controlling for age
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Blind children aged 4–12 performed slightly less accurately than sighted children on the non-visual ToM task (group effect controlling for age: b=−0.53, t=−2.2, p=.04). [→ Richardson H. 2023](#richardson-h-2023)

@@ -12,10 +12,15 @@ sources:
   - id: ortega-2020
     resource: "https://doi.org/10.1038/s41598-020-64678-x"
     title: "Ortega, R., López, V., Carrasco, X., Escobar, M. J., García, A. M., Parra, M. A. & Aboitiz, F. (2020). Neurocognitive mechanisms underlying working memory encoding and retrieval in Attention-Deficit/Hyperactivity Disorder. Scientific Reports 10:7771. https://doi.org/10.1038/s41598-020-64678-x"
-    author: "Ortega, R., López, V., Carrasco, X., Escobar, M. J., García, A. M., Parra, M. A. & Aboitiz, F"
+    author: "Ortega, R., López, V., Carrasco, X., Escobar, M. J., García, A. M., Parra, M. A. & Aboitiz, F."
+    q: 3
+    i: 3
 ---
 
 # Encoding and retrieval P3 amplitudes are significantly correlated only in non-ADHD adolescents, though the between-group difference in correlations was not statistically discriminative
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` Encoding early-P3 amplitude correlated with retrieval P3 amplitude across trial types, with the significant correlations driven by the non-ADHD group (r = 0.51 Same; r = 0.50 Different); ADHD correlations were not significant. [→ Ortega 2020](#ortega-2020)

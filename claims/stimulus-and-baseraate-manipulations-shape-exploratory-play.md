@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1016/j.cognition.2011.03.003"
     title: "Cook, Claire, Noah D. Goodman, and Laura E. Schulz. (2011). Where Science Starts: Spontaneous Experiments in Preschoolers' Exploratory Play. Cognition. https://doi.org/10.1016/j.cognition.2011.03.003"
     author: Cook, Claire, Noah D. Goodman, and Laura E. Schulz
+    q: 3
+    i: "?"
 ---
 
 # Manipulating stimulus physical properties and base rates of candidate causes changes preschoolers' exploratory play
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Manipulating the physical properties of stimuli affected the degree to which candidate variables could be isolated, and manipulating the base rate of candidate causes affected the potential for information gain. [→ Cook 2011](#cook-2011)

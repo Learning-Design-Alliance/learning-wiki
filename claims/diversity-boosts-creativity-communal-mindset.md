@@ -12,10 +12,15 @@ sources:
   - id: vezzali-2016
     resource: "http://creativecommons.org/licenses/by-nc-nd/4.0/"
     title: "Vezzali, L., Goclowska, M., Crisp, R. J., & Stathi, S. (2016). On the Relationship between Cultural Diversity and Creativity in Education: The Moderating Role of Communal versus Divisional Mindset. http://creativecommons.org/licenses/by-nc-nd/4.0/"
-    author: "Vezzali, L., Goclowska, M., Crisp, R. J., & Stathi, S"
+    author: "Vezzali, L., Goclowska, M., Crisp, R. J., & Stathi, S."
+    q: 3
+    i: 2
 ---
 
 # Cultural diversity increases schoolchildren's creativity when a communal mindset is salient
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Under a communal mindset, the presence of diversity increased creativity, F(1, 145) = 10.06, p = .002, η2p = .06. [→ Vezzali 2016](#vezzali-2016)

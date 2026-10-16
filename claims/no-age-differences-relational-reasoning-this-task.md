@@ -12,10 +12,15 @@ sources:
   - id: wolf-lk-2015
     resource: "https://doi.org/10.1016/j.adolescence.2015.05.003"
     title: "Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J. (2015). The audience effect in adolescence depends on who's looking over your shoulder. Journal of Adolescence, 43, 5–14. https://doi.org/10.1016/j.adolescence.2015.05.003"
-    author: Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J
+    author: Wolf L.K., Bazargani N., Kilford E.J., Dumontheil I., Blakemore S.-J.
+    q: 3
+    i: "?"
 ---
 
 # The study found no evidence of age differences in relational reasoning performance, possibly due to design choices maximising sensitivity to audience effects
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` As a secondary aim, the study found no main effect of age group and no age group by task-level interaction on accuracy or RT. [→ Wolf L.K. 2015](#wolf-lk-2015)

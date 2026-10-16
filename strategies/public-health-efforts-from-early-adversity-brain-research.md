@@ -16,6 +16,9 @@ sources:
 
 # Translate findings on early adversity and brain development into public health efforts
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The review closes by arguing that its findings on early adversity and the developing brain should inform public health efforts. It states: "We conclude by discussing implications of this work for public health efforts and highlight important directions for the field." The strategy is to use evidence on how maltreatment and institutional deprivation affect neurodevelopment, and on the effectiveness of early intervention, to guide population-level prevention and policy, while also directing future research priorities.
 

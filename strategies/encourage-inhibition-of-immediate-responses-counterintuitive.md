@@ -16,6 +16,9 @@ sources:
 
 # Encourage learners to inhibit their immediate responses when reasoning about counterintuitive science and maths concepts
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Based on the finding that inhibitory control is associated with counterintuitive science and maths reasoning, the authors suggest that "encouraging learners to inhibit their immediate responses might lead to improved counterintuitive reasoning in science and maths". This strategy asks learners to pause before answering misconception-prone problems so that naïve beliefs or misleading perceptual cues can be suppressed rather than driving the first response. The authors also propose intervention studies, including inhibitory control training, to test whether the association is causal.
 

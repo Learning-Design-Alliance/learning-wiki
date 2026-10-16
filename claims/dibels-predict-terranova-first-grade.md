@@ -12,14 +12,21 @@ sources:
   - id: rouse-2006
     resource: "https://doi.org/10.1080/02796015.2006.12087971"
     title: "Rouse, H. L., & Fantuzzo, J. W. (2006). Validity of the Dynamic Indicators for Basic Early Literacy Skills as an Indicator of Early Literacy for Urban Kindergarten Children. School Psychology Review, 35(3), 341-355. https://doi.org/10.1080/02796015.2006.12087971"
-    author: "Rouse, H. L., & Fantuzzo, J. W"
+    author: "Rouse, H. L., & Fantuzzo, J. W."
+    q: 3
+    i: "?"
   - id: rouse-2006-2
     resource: "https://doi.org/10.1080/02796015.2006.12087971"
     title: "Rouse, H. L., & Fantuzzo, J. W. (2006). Validity of the Dynamic Indicators for Basic Early Literacy Skills as an Indicator of Early Literacy for Urban Kindergarten Children. School Psychology Review, 35(3), 341-355. https://doi.org/10.1080/02796015.2006.12087971"
-    author: "Rouse, H. L., & Fantuzzo, J. W"
+    author: "Rouse, H. L., & Fantuzzo, J. W."
+    q: 3
+    i: "?"
 ---
 
 # Kindergarten DIBELS subtests significantly predict first-grade TerraNova vocabulary, language, and reading outcomes
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Regressions predicted Vocabulary (45.1% of variance), Language (41%), and Reading (32%), with Letter Naming Fluency the strongest predictor on each. [→ Rouse 2006](#rouse-2006)

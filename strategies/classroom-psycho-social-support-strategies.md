@@ -16,6 +16,9 @@ sources:
 
 # Classroom strategies for developing student psycho-social supports and academic mindsets
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends classroom interventions to develop secondary teachers' skills at providing psycho-social supports: modeling and social persuasion, providing mastery experiences, explicitly teaching students to manage psychological and emotional states, developing teams so students build social identities and belonging, aligning students' personal interests and goals with classroom roles and task relevance, and framing failed attempts as necessary practice while providing social persuasion and explicit tasks for improvement. These target student choice to engage learning.
 

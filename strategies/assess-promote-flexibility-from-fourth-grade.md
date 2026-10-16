@@ -16,6 +16,9 @@ sources:
 
 # Assess and promote cognitive flexibility skills from fourth grade onward, when they become predictive of academic performance
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Based on their finding that flexibility uniquely predicted achievement only in Grades 4 and 6, the authors recommend that "cognitive ﬂexibility skills may be particularly important for older students, and it hints at the possibility that fourth grade may be an important period for promoting ﬂexibility skills". They state these results support practitioners and researchers in assessing EF skills, since flexibility "might be critical for assessing children's potential for academic performance", and provide a foundation for research examining opportunities for intervention.
 

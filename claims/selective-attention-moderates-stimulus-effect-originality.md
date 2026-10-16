@@ -12,14 +12,21 @@ sources:
   - id: van-dijk-2020
     resource: "https://doi.org/10.3390/jintelligence8040037"
     title: "van Dijk, M., Blom, E., Kroesbergen, E. H., & Leseman, P. P. M. (2020). The Influence of Situational Cues on Children’s Creativity in an Alternative Uses Task and the Moderating Effect of Selective Attention. Journal of Intelligence, 8(4), 37. https://doi.org/10.3390/jintelligence8040037"
-    author: "van Dijk, M., Blom, E., Kroesbergen, E. H., & Leseman, P. P. M"
+    author: "van Dijk, M., Blom, E., Kroesbergen, E. H., & Leseman, P. P. M."
+    q: 3
+    i: 2
   - id: van-dijk-2020-2
     resource: "https://doi.org/10.3390/jintelligence8040037"
     title: "van Dijk, M., Blom, E., Kroesbergen, E. H., & Leseman, P. P. M. (2020). The Influence of Situational Cues on Children’s Creativity in an Alternative Uses Task and the Moderating Effect of Selective Attention. Journal of Intelligence, 8(4), 37. https://doi.org/10.3390/jintelligence8040037"
-    author: "van Dijk, M., Blom, E., Kroesbergen, E. H., & Leseman, P. P. M"
+    author: "van Dijk, M., Blom, E., Kroesbergen, E. H., & Leseman, P. P. M."
+    q: 3
+    i: "?"
 ---
 
 # Selective attention moderated the effect of stimulus condition on children’s originality: better selective attention favoured the low stimulus environment, weaker selective attention the high stimulus environment
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` The interaction of stimulus condition and selective attention on decorrelated originality was significant with a medium-to-strong effect size. [→ van Dijk 2020](#van-dijk-2020)

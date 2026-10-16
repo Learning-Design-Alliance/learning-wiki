@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1038/nn.4622"
     title: "Poletti Martina, Rucci Michele, Carrasco Marisa. (2017). Selective attention within the foveola. Nature Neuroscience. https://doi.org/10.1038/nn.4622"
     author: Poletti Martina, Rucci Michele, Carrasco Marisa
+    q: 3
+    i: "?"
 ---
 
 # Covert attention facilitates detection within the foveola at locations only 20 arcminutes apart, with an effect similar in magnitude to the parafovea
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` With retinal stabilization, observers were faster at detecting targets at attended foveolar locations only 20′ (0.33°) from unattended ones, and the valid-invalid reaction-time difference did not differ from the parafoveal experiment (22 ms ± 5 ms vs 25 ms ± 10 ms, p=0.31). [→ Poletti Martina 2017](#poletti-martina-2017)

@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1016/j.dcn.2023.101247"
     title: "Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda. (2023). Longitudinal alterations in brain morphometry mediated the effects of bullying victimization on cognitive development in preadolescents. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2023.101247"
     author: Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda
+    q: 3
+    i: 2
   - id: menken-miriam-s-2023-2
     resource: "https://doi.org/10.1016/j.dcn.2023.101247"
     title: "Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda. (2023). Longitudinal alterations in brain morphometry mediated the effects of bullying victimization on cognitive development in preadolescents. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2023.101247"
     author: Menken Miriam S., Rodriguez Rivera Pedro J., Isaiah Amal, Ernst Thomas, Cloak Christine C., Chang Linda
+    q: 3
+    i: "?"
 ---
 
 # Bullied preadolescents have larger right hippocampal volumes than matched non-bullied peers, but this does not mediate cognition
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Bullied children had larger right hippocampal volumes than non-bullied children (d = 0.52), with no differences in other subcortical volumes. [→ Menken Miriam S. 2023](#menken-miriam-s-2023)

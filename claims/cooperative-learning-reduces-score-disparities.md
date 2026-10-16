@@ -12,10 +12,15 @@ sources:
   - id: silva-2022
     resource: "https://doi.org/10.26822/iejee.2022.274"
     title: "Silva, H., Lopes, J., Dominguez, C., & Morais, E. (2022). Think-Pair-Share and Roundtable: Two Cooperative Learning Structures to Enhance Critical Thinking Skills of 4th Graders. International Electronic Journal of Elementary Education, 15(1), 11-21. https://doi.org/10.26822/iejee.2022.274"
-    author: "Silva, H., Lopes, J., Dominguez, C., & Morais, E"
+    author: "Silva, H., Lopes, J., Dominguez, C., & Morais, E."
+    q: 2
+    i: "?"
 ---
 
 # Cooperative learning reduced disparities between students' critical thinking scores, with lower performers gaining most
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In the experimental class the spread of total CTTBE scores decreased from pretest to posttest, while in the control class individual differences increased; the authors attribute this to lower-performing students obtaining greater gains. [→ Silva 2022](#silva-2022)

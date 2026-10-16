@@ -10,12 +10,15 @@ generated:
 evidence_strength: weak
 sources:
   - id: spiegler-o-and-leyendecker-b-2017
-    resource: "https://doi.org/10.3389/fpsyg.2017.01579"
-    title: "Spiegler O and Leyendecker B (2017) Balanced Cultural Identities Promote Cognitive Flexibility among Immigrant Children. Front. Psychol. 8:1579. https://doi.org/10.3389/fpsyg.2017.01579"
-    author: Spiegler O and Leyendecker B
+    title: Spiegler O and Leyendecker B 2017
+    q: 2
+    i: "?"
 ---
 
 # The identity interaction on mixed-trial accuracy held marginally when controlling for language abilities, which themselves did not predict performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Among seventh graders, the Turkish × German identity interaction on mixed-trial accuracy remained marginally significant with language abilities controlled (β = 0.03, p = 0.081), while language abilities did not interactively predict accuracy controlling for identity (β = 0.00, p = 0.955). [→ Spiegler O and Leyendecker B 2017](#spiegler-o-and-leyendecker-b-2017)

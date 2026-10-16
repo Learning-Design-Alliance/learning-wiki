@@ -16,6 +16,9 @@ sources:
 
 # Schedule declarative learning (e.g., vocabulary) in the afternoon and procedural skill practice (e.g., music, sports) in the late evening for adolescents
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The authors translate their differential consolidation findings into a scheduling recommendation for adolescent learning: declarative material such as vocabulary should be studied in the afternoon, roughly 7.5 hours before night-time sleep, while motor skills such as soccer or piano should be trained in the late evening, directly before sleep. They state: "we propose that declarative memories, such as vocabulary words, should be studied in the afternoon and motor skills, like playing soccer or piano, should be trained in the late evening."
 

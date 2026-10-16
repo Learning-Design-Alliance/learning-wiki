@@ -12,10 +12,15 @@ sources:
   - id: oberauer-2019
     resource: "https://doi.org/10.5334/joc.58"
     title: "Oberauer, K. (2019). Working Memory and Attention – A Conceptual Analysis and Review. Journal of Cognition, 2(1): 36. https://doi.org/10.5334/joc.58"
-    author: Oberauer, K
+    author: Oberauer, K.
+    q: 2
+    i: "?"
 ---
 
 # Perceptual attention is probably necessary but not sufficient for encoding stimuli into working memory
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Stimuli can be attended to without being encoded into WM, as shown by surprise memory tests after attentional cueing and by to-be-forgotten words contributing no load to WM. [→ Oberauer 2019](#oberauer-2019)

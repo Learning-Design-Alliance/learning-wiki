@@ -10,25 +10,28 @@ generated:
 evidence_strength: mixed
 sources:
   - id: rodriguez-gomez-da-and-talero-gutiérrez-c-2022
-    resource: "https://doi.org/10.3389/fpsyg.2022.968144"
-    title: "Rodriguez-Gomez DA and Talero-Gutiérrez C (2022) Eﬀects of music training in executive function performance in children: A systematic review. Front. Psychol. 13:968144. https://doi.org/10.3389/fpsyg.2022.968144"
-    author: Rodriguez-Gomez DA and Talero-Gutiérrez C
+    title: Rodriguez-Gomez DA and Talero-Gutiérrez C 2022
+    q: 2
+    i: "?"
   - id: rodriguez-gomez-da-and-talero-gutiérrez-c-2022-2
-    resource: "https://doi.org/10.3389/fpsyg.2022.968144"
-    title: "Rodriguez-Gomez DA and Talero-Gutiérrez C (2022) Eﬀects of music training in executive function performance in children: A systematic review. Front. Psychol. 13:968144. https://doi.org/10.3389/fpsyg.2022.968144"
-    author: Rodriguez-Gomez DA and Talero-Gutiérrez C
+    title: Rodriguez-Gomez DA and Talero-Gutiérrez C 2022 (2)
+    q: 2
+    i: "?"
   - id: rodriguez-gomez-da-and-talero-gutiérrez-c-2022-3
-    resource: "https://doi.org/10.3389/fpsyg.2022.968144"
-    title: "Rodriguez-Gomez DA and Talero-Gutiérrez C (2022) Eﬀects of music training in executive function performance in children: A systematic review. Front. Psychol. 13:968144. https://doi.org/10.3389/fpsyg.2022.968144"
-    author: Rodriguez-Gomez DA and Talero-Gutiérrez C
+    title: Rodriguez-Gomez DA and Talero-Gutiérrez C 2022 (3)
+    q: 2
+    i: "?"
 ---
 
 # Music training is associated with improved inhibitory control in children, though the largest studies found no executive function differences
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 3 studies · `q2` quasi-experiment
+
 ## Subclaims
-`q2 i?` Six of nine studies on preschoolers identified a significant improvement in inhibitory control after music training. [→ Rodriguez-Gomez DA and Talero-Gutiérrez C 2022](#rodriguez-gomez-da-and-talero-gutiérrez-c-2022)
-`q2 i?` Six of twelve studies in school-age children observed significantly improved performance in inhibition tasks. [→ Rodriguez-Gomez DA and Talero-Gutiérrez C 2022 (2)](#rodriguez-gomez-da-and-talero-gutiérrez-c-2022-2)
-`q2 i?` The largest study (2,914 children, El Sistema Venezuela) failed to identify a significant difference in executive function testing between music and control groups. [→ Rodriguez-Gomez DA and Talero-Gutiérrez C 2022 (3)](#rodriguez-gomez-da-and-talero-gutiérrez-c-2022-3)
+`q2 i?` Six of nine studies on preschoolers identified a significant improvement in inhibitory control after music training. [→ Rodriguez-Gomez DA and Talero-Gutiérrez C 2022](#rodriguez-gomez-da-and-talero-gutierrez-c-2022)
+`q2 i?` Six of twelve studies in school-age children observed significantly improved performance in inhibition tasks. [→ Rodriguez-Gomez DA and Talero-Gutiérrez C 2022 (2)](#rodriguez-gomez-da-and-talero-gutierrez-c-2022-2)
+`q2 i?` The largest study (2,914 children, El Sistema Venezuela) failed to identify a significant difference in executive function testing between music and control groups. [→ Rodriguez-Gomez DA and Talero-Gutiérrez C 2022 (3)](#rodriguez-gomez-da-and-talero-gutierrez-c-2022-3)
 
 ## Evidence
 

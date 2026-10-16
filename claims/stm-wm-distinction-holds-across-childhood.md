@@ -13,9 +13,14 @@ sources:
     resource: "https://link.springer.com/journal/13421/29/1"
     title: "Robert Kail and Lynda K. Hall. (2001). Distinguishing short-term memory from working memory. Memory & Cognition, 29(1), 1-9. https://link.springer.com/journal/13421/29/1"
     author: Robert Kail and Lynda K. Hall
+    q: 3
+    i: "?"
 ---
 
 # The two-factor STM/WM structure holds for both younger (8-10) and older (11-13) children
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Exploratory and confirmatory factor analyses yielded the same two-factor solution in 8- to 10-year-olds and 11- to 13-year-olds, contradicting the hypothesis that the STM/WM distinction is blurred in children. [→ Robert Kail and Lynda K. Hall 2001](#robert-kail-and-lynda-k-hall-2001)

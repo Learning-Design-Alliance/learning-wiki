@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.1038/nn.4622"
     title: "Poletti Martina, Rucci Michele, Carrasco Marisa. (2017). Selective attention within the foveola. Nature Neuroscience. https://doi.org/10.1038/nn.4622"
     author: Poletti Martina, Rucci Michele, Carrasco Marisa
+    q: 3
+    i: "?"
   - id: poletti-martina-2017-2
     resource: "https://doi.org/10.1038/nn.4622"
     title: "Poletti Martina, Rucci Michele, Carrasco Marisa. (2017). Selective attention within the foveola. Nature Neuroscience. https://doi.org/10.1038/nn.4622"
     author: Poletti Martina, Rucci Michele, Carrasco Marisa
+    q: 3
+    i: "?"
 ---
 
 # Covert attention enhances fine spatial discrimination (orientation d′) within the foveola with high selectivity across 20′ separations
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In a foveolar orientation-discrimination cueing task, d′ was significantly higher in valid than neutral and invalid trials, and reaction times were faster in valid trials. [→ Poletti Martina 2017](#poletti-martina-2017)

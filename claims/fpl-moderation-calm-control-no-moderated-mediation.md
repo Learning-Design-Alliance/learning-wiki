@@ -12,14 +12,21 @@ sources:
   - id: goldstein-2021
     resource: "https://doi.org/10.1038/s41390-020-01188-6"
     title: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L. (2021). Influence of race/ethnicity and income on the link between adverse childhood experiences and child flourishing. Pediatric Research. https://doi.org/10.1038/s41390-020-01188-6"
-    author: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L"
+    author: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L."
+    q: 2
+    i: "?"
   - id: goldstein-2021-2
     resource: "https://doi.org/10.1038/s41390-020-01188-6"
     title: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L. (2021). Influence of race/ethnicity and income on the link between adverse childhood experiences and child flourishing. Pediatric Research. https://doi.org/10.1038/s41390-020-01188-6"
-    author: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L"
+    author: "Goldstein, E., Topitzes, J., Miller-Cribbs, J. & Brown, R. L."
+    q: 2
+    i: "?"
 ---
 
 # Above-FPL children improved more in staying calm and in control as family resilience increased, but no significant FPL moderated-mediation effects emerged
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Compared to below-FPL children, above-FPL children were more likely to improve in staying calm and in control as family resilience increased. [→ Goldstein 2021](#goldstein-2021)

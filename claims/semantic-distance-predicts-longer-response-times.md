@@ -12,10 +12,15 @@ sources:
   - id: van-den-driessche-2019
     resource: "https://doi.org/10.1038/s41598-019-46761-0"
     title: "Van den Driessche, C., Chevrier, F., Cleeremans, A. & Sackur, J. (2019). Lower Attentional Skills predict increased exploratory foraging patterns. Scientific Reports 9:10948. https://doi.org/10.1038/s41598-019-46761-0"
-    author: "Van den Driessche, C., Chevrier, F., Cleeremans, A. & Sackur, J"
+    author: "Van den Driessche, C., Chevrier, F., Cleeremans, A. & Sackur, J."
+    q: 3
+    i: "?"
 ---
 
 # Longer inter-item response times follow larger semantic distances in children's semantic search paths
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` More distant consecutive animals in word2vec semantic space yielded longer inter-item response times. [→ Van den Driessche 2019](#van-den-driessche-2019)

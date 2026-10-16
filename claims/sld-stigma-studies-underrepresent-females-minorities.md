@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1177/00222194221087383"
     title: "Haft Stephanie L., Greiner de Magalhães Caroline, Hoeft Fumiko. (2023). A Systematic Review of the Consequences of Stigma and Stereotype Threat for Individuals With Specific Learning Disabilities. Journal of Learning Disabilities. https://doi.org/10.1177/00222194221087383"
     author: Haft Stephanie L., Greiner de Magalhães Caroline, Hoeft Fumiko
+    q: 2
+    i: "?"
 ---
 
 # Underrepresentation of females and racial/ethnic minorities in the reviewed SLD stigma and stereotype threat studies may cause underestimation of detrimental effects
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Females were underrepresented and White participants comprised the majority of samples in the included studies; because these groups are most susceptible to stereotype threat effects, results may underestimate the detrimental influence of SLD stigma and stereotype threat. [→ Haft Stephanie L. 2023](#haft-stephanie-l-2023)

@@ -12,14 +12,21 @@ sources:
   - id: master-2021
     resource: "https://doi.org/10.1073/pnas.2100030118"
     title: "Master, A., Meltzoff, A. N., & Cheryan, S. (2021). Gender stereotypes about interests start early and cause gender disparities in computer science and engineering. Proceedings of the National Academy of Sciences, 118(48), e2100030118. https://doi.org/10.1073/pnas.2100030118"
-    author: "Master, A., Meltzoff, A. N., & Cheryan, S"
+    author: "Master, A., Meltzoff, A. N., & Cheryan, S."
+    q: 3
+    i: 2
   - id: master-2021-2
     resource: "https://doi.org/10.1073/pnas.2100030118"
     title: "Master, A., Meltzoff, A. N., & Cheryan, S. (2021). Gender stereotypes about interests start early and cause gender disparities in computer science and engineering. Proceedings of the National Academy of Sciences, 118(48), e2100030118. https://doi.org/10.1073/pnas.2100030118"
-    author: "Master, A., Meltzoff, A. N., & Cheryan, S"
+    author: "Master, A., Meltzoff, A. N., & Cheryan, S."
+    q: 3
+    i: "?"
 ---
 
 # Gender-interest stereotypes favoring boys in computer science and engineering are endorsed across grades 1–12 and across racial/ethnic groups in a diverse sample
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Students in grades 1–12 endorsed gender-interest stereotypes favoring boys in engineering (d = 0.73) and computer science (d = 0.44), including first graders for engineering (d = 0.71). [→ Master 2021](#master-2021)

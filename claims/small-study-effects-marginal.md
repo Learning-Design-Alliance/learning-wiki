@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1007/s10648-021-09620-x"
     title: "Gemma Muncer, Philip A. Higham, Corentin J. Gosling, Samuele Cortese, Henry Wood-Downie, & Julie A. Hadwin. (2021). A Meta-Analysis Investigating the Association Between Metacognition and Math Performance in Adolescence. Educational Psychology Review. https://doi.org/10.1007/s10648-021-09620-x"
     author: "Gemma Muncer, Philip A. Higham, Corentin J. Gosling, Samuele Cortese, Henry Wood-Downie, & Julie A. Hadwin"
+    q: 4
+    i: "?"
 ---
 
 # Small study effects are marginally evident in the metacognition–math literature (p = .052)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic
 
 ## Subclaims
 `q4 i?` A modified Egger's test showed some evidence of small study effects (p = .052). [→ Gemma Muncer 2021](#gemma-muncer-2021)

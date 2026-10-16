@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1016/j.cortex.2013.06.007"
     title: "Szucs Denes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence. (2013). Developmental dyscalculia is related to visuo-spatial memory and inhibition impairment. Cortex, 49(10). https://doi.org/10.1016/j.cortex.2013.06.007"
     author: Szucs Denes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence
+    q: 3
+    i: "?"
 ---
 
 # Visuo-spatial working memory and inhibition jointly predict mathematics performance in 9–10-year-old children
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In simultaneous multiple regression, visuo-spatial WM was a significant predictor and inhibition a marginally significant predictor of maths performance. [→ Szucs Denes 2013](#szucs-denes-2013)

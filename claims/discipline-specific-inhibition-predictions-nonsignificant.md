@@ -10,12 +10,15 @@ generated:
 evidence_strength: weak
 sources:
   - id: brookman-byrne-a-2018
-    resource: "https://doi.org/10.1371/journal.pone.0198973"
-    title: "Brookman-Byrne A, Mareschal D, Tolmie AK, Dumontheil I (2018) Inhibitory control and counterintuitive science and maths reasoning in adolescence. PLoS ONE 13(6): e0198973. https://doi.org/10.1371/journal.pone.0198973"
-    author: Brookman-Byrne A, Mareschal D, Tolmie AK, Dumontheil I
+    title: Brookman-Byrne A 2018
+    q: 3
+    i: "?"
 ---
 
 # In discipline-specific exploratory regressions, neither Stroop RT cost nor complex No-Go accuracy significantly predicted science or maths misconception measures separately
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Stroop RT cost was not a significant predictor of science or maths misconception accuracy separately (p-values at trend, coefficients in the same direction as combined analyses). [→ Brookman-Byrne A 2018](#brookman-byrne-a-2018)

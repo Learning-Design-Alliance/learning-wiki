@@ -13,9 +13,14 @@ sources:
     resource: "https://link.springer.com/journal/13421/29/1"
     title: "Robert Kail and Lynda K. Hall. (2001). Distinguishing short-term memory from working memory. Memory & Cognition, 29(1), 1-9. https://link.springer.com/journal/13421/29/1"
     author: Robert Kail and Lynda K. Hall
+    q: 3
+    i: "?"
 ---
 
 # Same-construct memory task correlations exceed different-construct correlations
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Correlations among tasks thought to measure the same memory construct (STM or WM) were larger than correlations between tasks measuring different constructs. [→ Robert Kail and Lynda K. Hall 2001](#robert-kail-and-lynda-k-hall-2001)

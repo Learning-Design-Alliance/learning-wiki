@@ -12,10 +12,15 @@ sources:
   - id: fandakova-yana-2021
     resource: "https://doi.org/10.1111/desc.13005"
     title: "Fandakova Yana, Gruber Matthias J. (2021). States of curiosity and interest enhance memory differently in adolescents and in children. Developmental Science, 24(1), e13005. https://doi.org/10.1111/desc.13005"
-    author: Fandakova Yana, Gruber Matthias J
+    author: Fandakova Yana, Gruber Matthias J.
+    q: 2
+    i: "?"
 ---
 
 # Positive information prediction errors enhance memory for low-curiosity answers increasingly with age
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Trial-level mixed models showed IPE and curiosity each enhanced recall; for low-curiosity questions, the IPE effect on recall grew more pronounced with older age, while for high-curiosity questions no strong IPE or IPE-by-age effect emerged. [→ Fandakova Yana 2021](#fandakova-yana-2021)

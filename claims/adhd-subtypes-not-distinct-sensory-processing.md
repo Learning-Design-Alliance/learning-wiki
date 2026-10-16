@@ -12,10 +12,15 @@ sources:
   - id: ghanizadeh-a-2011
     resource: "https://doi.org/10.4306/pi.2011.8.2.89"
     title: "Ghanizadeh A. (2011). Sensory Processing Problems in Children with ADHD, a Systematic Review. Psychiatry Investig 2011;8:89-94. https://doi.org/10.4306/pi.2011.8.2.89"
-    author: Ghanizadeh A
+    author: Ghanizadeh A.
+    q: 2
+    i: "?"
 ---
 
 # ADHD subtypes are not distinct disorders with regard to sensory processing problems
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Findings do not support that ADHD subtypes differ in sensory processing problems, including for tactile and auditory processing. [→ Ghanizadeh A 2011](#ghanizadeh-a-2011)

@@ -12,10 +12,15 @@ sources:
   - id: bick-2016
     resource: "https://doi.org/10.1038/npp.2015.252"
     title: "Bick, J., Nelson, C. (2016). Early Adverse Experiences and the Developing Brain. Neuropsychopharmacol. https://doi.org/10.1038/npp.2015.252"
-    author: Bick, J., Nelson, C
+    author: Bick, J., Nelson, C.
+    q: 2
+    i: "?"
 ---
 
 # Children exposed to early adversity are at increased risk for a broad range of developmental difficulties affecting both cognitive and emotional adjustment
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Early-life adversity exposure raises children's risk for developmental difficulties in both cognitive and emotional domains. [→ Bick 2016](#bick-2016)

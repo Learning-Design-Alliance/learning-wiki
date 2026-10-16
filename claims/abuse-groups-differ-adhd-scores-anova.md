@@ -12,10 +12,15 @@ sources:
   - id: sanderud-k-2016
     resource: "https://doi.org/10.3402/ejpt.v7.32061"
     title: "Sanderud K., Murphy S., Elklit A. (2016). Child maltreatment and ADHD symptoms in a sample of young adults. European Journal of Psychotraumatology. https://doi.org/10.3402/ejpt.v7.32061"
-    author: Sanderud K., Murphy S., Elklit A
+    author: Sanderud K., Murphy S., Elklit A.
+    q: 3
+    i: "?"
 ---
 
 # Abuse typology groups differed significantly on overall ADHD symptom scores, with only the non-abused group differing significantly from the three abuse groups in post hoc analysis
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` A one-way ANOVA found significant differences between abuse groups on ADHD scores, F(2, 2,939)=40.07, p<0.001; post hoc tests showed only the non-abused group differed significantly from the three abuse groups. [→ Sanderud K. 2016](#sanderud-k-2016)

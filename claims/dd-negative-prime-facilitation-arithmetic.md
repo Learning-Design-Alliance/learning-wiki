@@ -12,10 +12,15 @@ sources:
   - id: rubinsten-o-2010
     resource: "http://www.behavioralandbrainfunctions.com/content/6/1/46"
     title: "Rubinsten O, Tannock R. (2010). Mathematics anxiety in children with developmental dyscalculia. Behavioral and Brain Functions 6:46. http://www.behavioralandbrainfunctions.com/content/6/1/46"
-    author: Rubinsten O, Tannock R
+    author: Rubinsten O, Tannock R.
+    q: 3
+    i: "?"
 ---
 
 # Children with developmental dyscalculia respond faster to simple arithmetic targets after negative than positive affective primes, across all four arithmetic operations
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In the DD group, response latencies to arithmetic targets were significantly shorter after negative than positive affective primes for addition, multiplication, subtraction and division. [→ Rubinsten O 2010](#rubinsten-o-2010)

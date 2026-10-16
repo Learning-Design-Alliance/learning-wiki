@@ -12,14 +12,21 @@ sources:
   - id: rouse-2006
     resource: "https://doi.org/10.1080/02796015.2006.12087971"
     title: "Rouse, H. L., & Fantuzzo, J. W. (2006). Validity of the Dynamic Indicators for Basic Early Literacy Skills as an Indicator of Early Literacy for Urban Kindergarten Children. School Psychology Review, 35(3), 341-355. https://doi.org/10.1080/02796015.2006.12087971"
-    author: "Rouse, H. L., & Fantuzzo, J. W"
+    author: "Rouse, H. L., & Fantuzzo, J. W."
+    q: 3
+    i: "?"
   - id: rouse-2006-2
     resource: "https://doi.org/10.1080/02796015.2006.12087971"
     title: "Rouse, H. L., & Fantuzzo, J. W. (2006). Validity of the Dynamic Indicators for Basic Early Literacy Skills as an Indicator of Early Literacy for Urban Kindergarten Children. School Psychology Review, 35(3), 341-355. https://doi.org/10.1080/02796015.2006.12087971"
-    author: "Rouse, H. L., & Fantuzzo, J. W"
+    author: "Rouse, H. L., & Fantuzzo, J. W."
+    q: 3
+    i: "?"
 ---
 
 # Kindergarten DIBELS subtests correlate significantly with early mathematics ability and with behavioral approaches to learning
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Children's early mathematics ability was significantly related to all three DIBELS subtests, supporting convergent validity with other cognitive competencies. [→ Rouse 2006](#rouse-2006)

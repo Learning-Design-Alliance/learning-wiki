@@ -12,14 +12,21 @@ sources:
   - id: master-2021
     resource: "https://doi.org/10.1073/pnas.2100030118"
     title: "Master, A., Meltzoff, A. N., & Cheryan, S. (2021). Gender stereotypes about interests start early and cause gender disparities in computer science and engineering. Proceedings of the National Academy of Sciences, 118(48), e2100030118. https://doi.org/10.1073/pnas.2100030118"
-    author: "Master, A., Meltzoff, A. N., & Cheryan, S"
+    author: "Master, A., Meltzoff, A. N., & Cheryan, S."
+    q: 3
+    i: 2
   - id: master-2021-2
     resource: "https://doi.org/10.1073/pnas.2100030118"
     title: "Master, A., Meltzoff, A. N., & Cheryan, S. (2021). Gender stereotypes about interests start early and cause gender disparities in computer science and engineering. Proceedings of the National Academy of Sciences, 118(48), e2100030118. https://doi.org/10.1073/pnas.2100030118"
-    author: "Master, A., Meltzoff, A. N., & Cheryan, S"
+    author: "Master, A., Meltzoff, A. N., & Cheryan, S."
+    q: 3
+    i: 2
 ---
 
 # Gender-interest stereotypes create a gender gap in interest in a computer science activity: girls, but not boys, show lower interest when the stereotype is present
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` A 2 (stereotype presence) × 2 (gender) ANOVA on interest in a computer science activity showed a significant interaction, F(1,120) = 7.22, P = 0.008, ηp2 = 0.06. [→ Master 2021](#master-2021)

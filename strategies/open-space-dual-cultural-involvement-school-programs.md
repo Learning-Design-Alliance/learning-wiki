@@ -16,6 +16,9 @@ sources:
 
 # Provide immigrant children open space for involvement with both cultural groups and support cognitive flexibility through school programs
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Based on the finding that balanced bicultural identification relates to cognitive flexibility, the authors recommend that Turkish immigrant children be given room to engage with both cultural communities, and that schools leverage EF training. They write that "Turkish immigrant children seem to need an open space in which they can get involved with people and values from both cultural groups to ultimately succeed in the educational domain," and that school programs improving EF and specifically cognitive flexibility may have positive side-effects for integration.
 

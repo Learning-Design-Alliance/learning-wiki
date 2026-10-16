@@ -12,10 +12,15 @@ sources:
   - id: richardson-h-2023
     resource: "https://doi.org/10.1016/j.dcn.2023.101285"
     title: "Richardson H., Saxe R., Bedny M. (2023). Neural correlates of theory of mind reasoning in congenitally blind children. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2023.101285"
-    author: Richardson H., Saxe R., Bedny M
+    author: Richardson H., Saxe R., Bedny M.
+    q: 3
+    i: "?"
 ---
 
 # Blind and sighted children do not differ in performance on false-belief items of the non-visual ToM task
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` On false-belief items analyzed separately, blind and sighted children did not differ in performance (group effect controlling for age: b=−0.10, t=−1.5, p=.15). [→ Richardson H. 2023](#richardson-h-2023)

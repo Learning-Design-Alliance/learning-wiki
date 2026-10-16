@@ -12,10 +12,15 @@ sources:
   - id: devine-2017
     resource: "https://doi.org/10.1037/edu0000222"
     title: "Devine, A., Hill, F., Carey, E., & Szűcs, D. (2017). Cognitive and Emotional Math Problems Largely Dissociate: Prevalence of Developmental Dyscalculia and Mathematics Anxiety. https://doi.org/10.1037/edu0000222"
-    author: "Devine, A., Hill, F., Carey, E., & Szűcs, D"
+    author: "Devine, A., Hill, F., Carey, E., & Szűcs, D."
+    q: 3
+    i: "?"
 ---
 
 # The majority (77%) of children with high mathematics anxiety have average or above-average mathematics performance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Of students with high MA across the whole sample, only 11% fell in the DD group and 12% in the DD+RD group; 77% had average or above-average mathematics performance. [→ Devine 2017](#devine-2017)

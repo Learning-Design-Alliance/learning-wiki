@@ -12,10 +12,15 @@ sources:
   - id: richardson-h-2023
     resource: "https://doi.org/10.1016/j.dcn.2023.101285"
     title: "Richardson H., Saxe R., Bedny M. (2023). Neural correlates of theory of mind reasoning in congenitally blind children. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2023.101285"
-    author: Richardson H., Saxe R., Bedny M
+    author: Richardson H., Saxe R., Bedny M.
+    q: 3
+    i: "?"
 ---
 
 # RTPJ selectivity for mental state content does not differ between blind and sighted children
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Response selectivity for mental state content (Mental > Social) did not differ between blind and sighted children in RTPJ or across all ToM ROIs (individual-subject ROIs: b=−0.08, t=−0.41, p=.68). [→ Richardson H. 2023](#richardson-h-2023)

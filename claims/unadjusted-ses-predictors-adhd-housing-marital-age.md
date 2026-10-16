@@ -10,12 +10,15 @@ generated:
 evidence_strength: moderate
 sources:
   - id: russell-ae-2015
-    resource: "https://doi.org/10.1371/journal.pone.0128248"
-    title: "Russell AE, Ford T, Russell G (2015) Socioeconomic Associations with ADHD: Findings from a Mediation Analysis. PLoS ONE 10(6): e0128248. https://doi.org/10.1371/journal.pone.0128248"
-    author: Russell AE, Ford T, Russell G
+    title: Russell AE 2015
+    q: 2
+    i: "?"
 ---
 
 # Housing tenure, marital status, maternal age and financial difficulties are each significantly associated with ADHD at age 7 in unadjusted analysis
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Single-parent status, council/housing-association tenure, younger maternal age and financial difficulties each predicted ADHD in unadjusted logistic regression. [→ Russell AE 2015](#russell-ae-2015)

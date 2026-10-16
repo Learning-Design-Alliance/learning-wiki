@@ -12,10 +12,15 @@ sources:
   - id: davidse-2010
     resource: "https://doi.org/10.1007/s11145-010-9233-3"
     title: "Davidse, N. J., de Jong, M. T., Bus, A. G., Huijbregts, S. C. J., & Swaab, H. (2010). Cognitive and environmental predictors of early literacy skills. Read Writ 24, 395–412. https://doi.org/10.1007/s11145-010-9233-3"
-    author: "Davidse, N. J., de Jong, M. T., Bus, A. G., Huijbregts, S. C. J., & Swaab, H"
+    author: "Davidse, N. J., de Jong, M. T., Bus, A. G., Huijbregts, S. C. J., & Swaab, H."
+    q: 3
+    i: "?"
 ---
 
 # Short-term memory predicts vocabulary over and above book exposure and intelligence
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` KABC digit-span short-term memory added 4.84% of vocabulary variance beyond book-cover recognition and SON intelligence subtests. [→ Davidse 2010](#davidse-2010)

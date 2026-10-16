@@ -16,6 +16,9 @@ sources:
 
 # Avoid comforting cues that divert children's attention away from their mistakes
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 Based on the finding that attention to mistakes is a crucial mechanism of post-error recovery, the authors caution that adults' comforting responses to children's errors may backfire. They note that "subtle linguistic cues intended to comfort struggling students" can backfire in significant ways, and that adults may inadvertently distract children from learning from their errors. The strategy is to avoid comfort-oriented linguistic cues and instead support children in attending to and making sense of their mistakes.
 

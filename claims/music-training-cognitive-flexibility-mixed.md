@@ -10,20 +10,23 @@ generated:
 evidence_strength: mixed
 sources:
   - id: rodriguez-gomez-da-and-talero-gutiérrez-c-2022
-    resource: "https://doi.org/10.3389/fpsyg.2022.968144"
-    title: "Rodriguez-Gomez DA and Talero-Gutiérrez C (2022) Eﬀects of music training in executive function performance in children: A systematic review. Front. Psychol. 13:968144. https://doi.org/10.3389/fpsyg.2022.968144"
-    author: Rodriguez-Gomez DA and Talero-Gutiérrez C
+    title: Rodriguez-Gomez DA and Talero-Gutiérrez C 2022
+    q: 2
+    i: "?"
   - id: rodriguez-gomez-da-and-talero-gutiérrez-c-2022-2
-    resource: "https://doi.org/10.3389/fpsyg.2022.968144"
-    title: "Rodriguez-Gomez DA and Talero-Gutiérrez C (2022) Eﬀects of music training in executive function performance in children: A systematic review. Front. Psychol. 13:968144. https://doi.org/10.3389/fpsyg.2022.968144"
-    author: Rodriguez-Gomez DA and Talero-Gutiérrez C
+    title: Rodriguez-Gomez DA and Talero-Gutiérrez C 2022 (2)
+    q: 2
+    i: "?"
 ---
 
 # Music training shows mixed effects on cognitive flexibility: positive in some preschool DCCS studies, null in ten others
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q2` quasi-experiment
+
 ## Subclaims
-`q2 i?` Three preschool studies found statistically significant improvement in cognitive flexibility measured with the DCCS task. [→ Rodriguez-Gomez DA and Talero-Gutiérrez C 2022](#rodriguez-gomez-da-and-talero-gutiérrez-c-2022)
-`q2 i?` Ten studies did not identify a significant association between music training and card-sorting or NEPSY cognitive flexibility performance. [→ Rodriguez-Gomez DA and Talero-Gutiérrez C 2022 (2)](#rodriguez-gomez-da-and-talero-gutiérrez-c-2022-2)
+`q2 i?` Three preschool studies found statistically significant improvement in cognitive flexibility measured with the DCCS task. [→ Rodriguez-Gomez DA and Talero-Gutiérrez C 2022](#rodriguez-gomez-da-and-talero-gutierrez-c-2022)
+`q2 i?` Ten studies did not identify a significant association between music training and card-sorting or NEPSY cognitive flexibility performance. [→ Rodriguez-Gomez DA and Talero-Gutiérrez C 2022 (2)](#rodriguez-gomez-da-and-talero-gutierrez-c-2022-2)
 
 ## Evidence
 

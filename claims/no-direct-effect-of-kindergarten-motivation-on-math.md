@@ -10,12 +10,15 @@ generated:
 evidence_strength: moderate
 sources:
   - id: mercader-j-2018
-    resource: "https://doi.org/10.3389/fpsyg.2017.02375"
-    title: "Mercader J, Miranda A, Presentación MJ, Siegenthaler R and Rosel JF (2018) Contributions of Motivation, Early Numeracy Skills, and Executive Functioning to Mathematical Performance. A Longitudinal Study. Front. Psychol. 8:2375. https://doi.org/10.3389/fpsyg.2017.02375"
-    author: Mercader J, Miranda A, Presentación MJ, Siegenthaler R and Rosel JF
+    title: Mercader J 2018
+    q: 3
+    i: "?"
 ---
 
 # Initial motivation in kindergarten has no significant direct effect on mathematical performance two years later
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In the structural model, the direct path from latent Motivation (T1) to latent Mathematical Performance (T2) was the only non-significant relation among latent variables. [→ Mercader J 2018](#mercader-j-2018)

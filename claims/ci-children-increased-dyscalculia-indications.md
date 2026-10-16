@@ -12,10 +12,15 @@ sources:
   - id: pixner-2014
     resource: "https://doi.org/10.3389/fpsyg.2014.01479"
     title: "Pixner, S., Leyrer, M., and Moeller, K. (2014). Number processing and arithmetic skills in children with cochlear implants. Frontiers in Psychology 5:1479. https://doi.org/10.3389/fpsyg.2014.01479"
-    author: Pixner, S., Leyrer, M., and Moeller, K
+    author: Pixner, S., Leyrer, M., and Moeller, K.
+    q: 3
+    i: "?"
 ---
 
 # Children with cochlear implants show an increased rate of dyscalculia indications on a standardized arithmetic test
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` 15.6% of children with CI scored below the dyscalculia diagnostic threshold on the HRT basic arithmetic operations scale, though their mean T-scores did not differ from the standardization sample. [→ Pixner 2014](#pixner-2014)

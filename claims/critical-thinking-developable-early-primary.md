@@ -12,10 +12,15 @@ sources:
   - id: silva-2022
     resource: "https://doi.org/10.26822/iejee.2022.274"
     title: "Silva, H., Lopes, J., Dominguez, C., & Morais, E. (2022). Think-Pair-Share and Roundtable: Two Cooperative Learning Structures to Enhance Critical Thinking Skills of 4th Graders. International Electronic Journal of Elementary Education, 15(1), 11-21. https://doi.org/10.26822/iejee.2022.274"
-    author: "Silva, H., Lopes, J., Dominguez, C., & Morais, E"
+    author: "Silva, H., Lopes, J., Dominguez, C., & Morais, E."
+    q: 2
+    i: "?"
 ---
 
 # Critical thinking skills can be significantly developed in early primary (grades 1-4), a level where evidence was scarce
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The study confirms that at the elementary level it is possible to develop critical thinking skills, reinforcing the controversial idea that critical thinking can be developed with young children. [→ Silva 2022](#silva-2022)

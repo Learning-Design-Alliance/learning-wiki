@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1177/00222194221087383"
     title: "Haft Stephanie L., Greiner de Magalhães Caroline, Hoeft Fumiko. (2023). A Systematic Review of the Consequences of Stigma and Stereotype Threat for Individuals With Specific Learning Disabilities. Journal of Learning Disabilities. https://doi.org/10.1177/00222194221087383"
     author: Haft Stephanie L., Greiner de Magalhães Caroline, Hoeft Fumiko
+    q: 2
+    i: "?"
 ---
 
 # Experimental stereotype threat effects in SLD samples are heterogeneous (Hedges's g 0.06–1.16), with effects more robust for motivation-related psychological outcomes than for cognitive or academic performance outcomes
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Across six experimental studies (270 participants, eight effect sizes), all effect sizes favored the low-threat condition, but four of eight were non-significant; the largest effects were on academic self-efficacy (g = 1.16) and academic persistence (g = 1.05). [→ Haft Stephanie L. 2023](#haft-stephanie-l-2023)

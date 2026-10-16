@@ -12,10 +12,15 @@ sources:
   - id: schroder-hans-s-2017
     resource: "https://doi.org/10.1016/j.dcn.2017.01.004"
     title: "Schroder Hans S., Fisher Megan E., Lin Yanli, Lo Sharon L., Danovitch Judith H., Moser Jason S. (2017). Neural evidence for enhanced attention to mistakes among school-aged children with a growth mindset. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2017.01.004"
-    author: Schroder Hans S., Fisher Megan E., Lin Yanli, Lo Sharon L., Danovitch Judith H., Moser Jason S
+    author: Schroder Hans S., Fisher Megan E., Lin Yanli, Lo Sharon L., Danovitch Judith H., Moser Jason S.
+    q: 3
+    i: "?"
 ---
 
 # Growth mindset is unrelated to the ERN (early, automatic error-processing component) in children
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` No relation was found between mindset and the ERN: none of the Mindset interactions or the Mindset main effect was significant in the 0–100 ms window. [→ Schroder Hans S. 2017](#schroder-hans-s-2017)

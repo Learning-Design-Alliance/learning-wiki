@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1038/s41598-022-09989-x"
     title: "Jacqueline Phelps, Adam Attaheri & Mirjana Bozic. (2022). How bilingualism modulates selective attention in children. Scientific Reports 12:6381. https://doi.org/10.1038/s41598-022-09989-x"
     author: "Jacqueline Phelps, Adam Attaheri & Mirjana Bozic"
+    q: 3
+    i: "?"
 ---
 
 # Unattended Musical Rain streams were better reconstructed than unattended linguistic distractors in both groups, with stronger MuR encoding in monolinguals
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Both groups showed higher reconstruction accuracy for the unattended acoustic interference than for the two unattended linguistic distractors; monolinguals exceeded bilinguals only in the English–MuR condition. [→ Jacqueline Phelps 2022](#jacqueline-phelps-2022)

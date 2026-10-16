@@ -12,10 +12,15 @@ sources:
   - id: fuhrmann-d-2019
     resource: "https://doi.org/10.1016/j.dcn.2019.100718"
     title: "Fuhrmann D., Casey C.S., Speekenbrink M., Blakemore S.-J. (2019). Social exclusion affects working memory performance in young adolescent girls. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2019.100718"
-    author: Fuhrmann D., Casey C.S., Speekenbrink M., Blakemore S.-J
+    author: Fuhrmann D., Casey C.S., Speekenbrink M., Blakemore S.-J.
+    q: 3
+    i: "?"
 ---
 
 # Social exclusion shows no significant effect on n-back response times in any age group
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` There was no main effect of Cyberball condition and no condition-by-age interaction on n-back response times, and no significant within-group contrasts. [→ Fuhrmann D. 2019](#fuhrmann-d-2019)

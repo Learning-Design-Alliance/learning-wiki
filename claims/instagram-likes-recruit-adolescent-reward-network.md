@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.3389/fpsyg.2021.671817"
     title: "Marciano Laura, Camerini Anne-Linda, Morese Rosalba. (2021). The Developing Brain in the Digital Era: A Scoping Review of Structural and Functional Correlates of Screen Time in Adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2021.671817"
     author: Marciano Laura, Camerini Anne-Linda, Morese Rosalba
+    q: 2
+    i: "?"
   - id: marciano-laura-2021-2
     resource: "https://doi.org/10.3389/fpsyg.2021.671817"
     title: "Marciano Laura, Camerini Anne-Linda, Morese Rosalba. (2021). The Developing Brain in the Digital Era: A Scoping Review of Structural and Functional Correlates of Screen Time in Adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2021.671817"
     author: Marciano Laura, Camerini Anne-Linda, Morese Rosalba
+    q: 2
+    i: "?"
 ---
 
 # Viewing Instagram pictures with many Likes recruits the reward network and reduces cognitive-control activation in adolescents
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` In an fMRI experiment, adolescents showed increased brain activity for pictures with more Likes, with popular pictures recruiting the reward network (NAcc, caudate, ventral tegmental area). [→ Marciano Laura 2021](#marciano-laura-2021)

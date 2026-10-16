@@ -16,6 +16,9 @@ sources:
 
 # Assess sleep problems early in primary school and provide preventive intervention, including sleep hygiene education, to protect later academic performance
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The article recommends that schools and services attend to children's sleep difficulties because persistent problems predict later poor academic performance. It notes children's sleep problems "are often overlooked" yet carry identifiable medical, familial and psychological risk factors, making early intervention feasible. It points to trials of school-based sleep education programs showing benefits for sleep and academic performance, and to sleep hygiene practices such as "maintaining a consistent bedtime routine and sleep schedule".
 

@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1177/0142723720941680"
     title: "E. de Bree, M. Zee. (2021). The unique role of verbal memory, vocabulary, concentration and self-efficacy in children's listening comprehension in upper elementary grades. First Language. https://doi.org/10.1177/0142723720941680"
     author: E. de Bree, M. Zee
+    q: 3
+    i: "?"
 ---
 
 # The indirect association between verbal short-term memory and listening comprehension through vocabulary just missed significance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` The indirect path from verbal short-term memory to listening comprehension via vocabulary just missed statistical significance. [→ E. de Bree 2021](#e-de-bree-2021)

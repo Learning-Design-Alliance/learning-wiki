@@ -13,13 +13,20 @@ sources:
     resource: "https://doi.org/10.5937/specedreh22-37415"
     title: "Iva I. Hrastinski, Ana M. Bonetti, Mladen A. Hedjever. (2023). Relationship between auditory processing skills and academic achievement of elementary school children. Specijalna edukacija i rehabilitacija, 22(2), 95-116. https://doi.org/10.5937/specedreh22-37415"
     author: Iva I. Hrastinski, Ana M. Bonetti, Mladen A. Hedjever
+    q: 3
+    i: "?"
   - id: iva-i-hrastinski-2023-2
     resource: "https://doi.org/10.5937/specedreh22-37415"
     title: "Iva I. Hrastinski, Ana M. Bonetti, Mladen A. Hedjever. (2023). Relationship between auditory processing skills and academic achievement of elementary school children. Specijalna edukacija i rehabilitacija, 22(2), 95-116. https://doi.org/10.5937/specedreh22-37415"
     author: Iva I. Hrastinski, Ana M. Bonetti, Mladen A. Hedjever
+    q: 3
+    i: "?"
 ---
 
 # Teacher ratings of language and reading skills correlate significantly with PSP-1 total scores, whereas grade point average does not
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Teachers' ratings of students' language skills (0.305) and reading ability (0.239) were significantly correlated with the PSP-1 total score. [→ Iva I. Hrastinski 2023](#iva-i-hrastinski-2023)

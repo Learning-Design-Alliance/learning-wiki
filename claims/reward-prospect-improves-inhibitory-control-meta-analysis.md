@@ -12,10 +12,15 @@ sources:
   - id: burton-2021
     resource: "https://doi.org/10.1177/17470218211008895"
     title: "Burton, S., Knibb, G., & Jones, A. (2021). A meta-analytic investigation of the role of reward on inhibitory control. Quarterly Journal of Experimental Psychology. https://doi.org/10.1177/17470218211008895"
-    author: "Burton, S., Knibb, G., & Jones, A"
+    author: "Burton, S., Knibb, G., & Jones, A."
+    q: 4
+    i: 1
 ---
 
 # The prospect of reward for successful inhibition significantly improves inhibitory control (SMD = 0.429) compared with no-reward conditions
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i1` small
 
 ## Subclaims
 `q4 i1` Across 80 effect sizes from 73 articles, the prospect of reward for successful inhibition significantly improved inhibitory control compared with no-reward conditions (SMD = 0.429, 95% CI = 0.288, 0.570). [→ Burton 2021](#burton-2021)

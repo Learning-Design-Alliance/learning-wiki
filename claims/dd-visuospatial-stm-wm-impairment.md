@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1016/j.cortex.2013.06.007"
     title: "Szucs Denes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence. (2013). Developmental dyscalculia is related to visuo-spatial memory and inhibition impairment. Cortex, 49(10). https://doi.org/10.1016/j.cortex.2013.06.007"
     author: Szucs Denes, Devine Amy, Soltesz Fruzsina, Nobes Alison, Gabriel Florence
+    q: 3
+    i: "?"
 ---
 
 # Children with developmental dyscalculia show impaired visuo-spatial short-term and working memory relative to matched controls
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` DD children performed worse than controls on visuo-spatial STM (Dot Matrix) and visuo-spatial WM (OOO Recall, OOO Processing) measures. [→ Szucs Denes 2013](#szucs-denes-2013)

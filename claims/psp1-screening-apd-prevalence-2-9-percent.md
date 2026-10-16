@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.5937/specedreh22-37415"
     title: "Iva I. Hrastinski, Ana M. Bonetti, Mladen A. Hedjever. (2023). Relationship between auditory processing skills and academic achievement of elementary school children. Specijalna edukacija i rehabilitacija, 22(2), 95-116. https://doi.org/10.5937/specedreh22-37415"
     author: Iva I. Hrastinski, Ana M. Bonetti, Mladen A. Hedjever
+    q: 3
+    i: "?"
 ---
 
 # Approximately 2.9% of Croatian grade 1–4 pupils meet diagnostic criteria for auditory processing disorder on the PSP-1 screening battery
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Applying ASHA diagnostic criteria (results ≤ 2 SD on at least two PSP-1 subtests), 12 of 412 participants (approximately 2.9%) exhibited difficulties categorized as auditory processing disorder. [→ Iva I. Hrastinski 2023](#iva-i-hrastinski-2023)

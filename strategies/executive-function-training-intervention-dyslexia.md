@@ -16,6 +16,9 @@ sources:
 
 # Explore executive function training as an intervention for children with dyslexia
 
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
 ## Description
 The authors' forward-looking recommendation is that future work test executive function training with dyslexic children. They write that "Future studies should explore executive function training as an intervention for children with dyslexia as core executive functions appear to be modiﬁable with training and may transfer to improved reading ability." The strategy targets the inhibition and updating weaknesses this study identified, on the premise that trained core executive functions may transfer to reading. It is a recommendation for future research, not a tested intervention in this article.
 

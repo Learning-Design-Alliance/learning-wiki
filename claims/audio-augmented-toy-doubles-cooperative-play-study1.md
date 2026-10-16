@@ -10,12 +10,15 @@ generated:
 evidence_strength: moderate
 sources:
   - id: yuill-n-2014
-    resource: "https://doi.org/10.3389/fpsyg.2014.00418"
-    title: "Yuill N, Hinske S, Williams SE and Leith G (2014) How getting noticed helps getting on: successful attention capture doubles children's cooperative play. Front. Psychol. 5:418. https://doi.org/10.3389/fpsyg.2014.00418"
-    author: Yuill N, Hinske S, Williams SE and Leith G
+    title: Yuill N 2014
+    q: 3
+    i: 3
 ---
 
 # An audio-augmented toy produced significantly longer cooperative play than the same toy without augmentation in triads of 6- to 11-year-olds
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` Children playing with the augmented Knights' Castle spent significantly more time in cooperative play than those with the non-augmented version (planned comparison F(1, 14) = 4.47, p < 0.05, η2 = 0.24). [→ Yuill N 2014](#yuill-n-2014)

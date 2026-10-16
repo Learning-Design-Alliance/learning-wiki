@@ -12,10 +12,15 @@ sources:
   - id: vysniauske-2020
     resource: "https://doi.org/10.1177/1087054715627489"
     title: "Vysniauske, R., Verburgh, L., Oosterlaan, J., & Molendijk, M. L. (2020). The Effects of Physical Exercise on Functional Outcomes in the Treatment of ADHD: A Meta-Analysis. Journal of attention disorders, 24(5), 644-654. https://doi.org/10.1177/1087054715627489"
-    author: "Vysniauske, R., Verburgh, L., Oosterlaan, J., & Molendijk, M. L"
+    author: "Vysniauske, R., Verburgh, L., Oosterlaan, J., & Molendijk, M. L."
+    q: 3
+    i: "?"
 ---
 
 # Longer exercise intervention duration is consistently associated with larger effect sizes on ADHD functional outcomes
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` In the meta-analysis, longer exercise intervention duration was consistently associated with larger effect sizes. [→ Vysniauske 2020](#vysniauske-2020)

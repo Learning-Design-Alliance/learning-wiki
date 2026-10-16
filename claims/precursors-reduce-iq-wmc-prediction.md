@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.3390/jintelligence5020026"
     title: "Schneider Wolfgang, Niklas Frank. (2017). Intelligence and Verbal Short-Term Memory/Working Memory: Their Interrelationships from Childhood to Young Adulthood and Their Impact on Academic Achievement. Journal of Intelligence. https://doi.org/10.3390/jintelligence5020026"
     author: Schneider Wolfgang, Niklas Frank
+    q: 2
+    i: "?"
 ---
 
 # When previous academic achievement is controlled, intelligence predicts only later reading comprehension and age-10 mathematics, and WMC predicts nothing additionally
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` With preceding academic achievement included as a precursor, intelligence remained significant only for reading comprehension at t5 and mathematics at t3, while WMC was not a significant predictor at all. [→ Schneider Wolfgang 2017](#schneider-wolfgang-2017)

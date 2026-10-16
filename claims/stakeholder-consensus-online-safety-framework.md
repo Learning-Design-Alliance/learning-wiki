@@ -12,10 +12,15 @@ sources:
   - id: walsh-2022
     resource: "https://doi.org/10.1016/j.ijcci.2022.100474"
     title: "Walsh, K., Pink, E., Ayling, N., Sondergeld, A., Dallaston, E., Tournas, P., Serry, E., Trotter, S., Spanos, T., & Rogic, N. (2022). Best Practice Framework for Online Safety Education: Results from a rapid review of the international literature, expert review, and stakeholder consultation. International Journal of Child-Computer Interaction, 33, Article number: 100474. https://doi.org/10.1016/j.ijcci.2022.100474"
-    author: "Walsh, K., Pink, E., Ayling, N., Sondergeld, A., Dallaston, E., Tournas, P., Serry, E., Trotter, S., Spanos, T., & Rogic, N"
+    author: "Walsh, K., Pink, E., Ayling, N., Sondergeld, A., Dallaston, E., Tournas, P., Serry, E., Trotter, S., Spanos, T., & Rogic, N."
+    q: 2
+    i: "?"
 ---
 
 # Expert review and stakeholder consultation established strong consensus on the need for and acceptability of the Framework
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Consultation with 7 experts and 51 organisational representatives found the draft Framework acceptable as a high-level framework applicable to a broad range of school contexts and sufficiently flexible. [→ Walsh 2022](#walsh-2022)

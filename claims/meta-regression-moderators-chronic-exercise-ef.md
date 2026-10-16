@@ -10,16 +10,19 @@ generated:
 evidence_strength: weak
 sources:
   - id: liu-s-2020
-    resource: "https://doi.org/10.3389/fpsyg.2020.554915"
-    title: "Liu S, Yu Q, Li Z, Cunha PM, Zhang Y, Kong Z, Lin W, Chen S and Cai Y (2020) Effects of Acute and Chronic Exercises on Executive Function in Children and Adolescents: A Systemic Review and Meta-Analysis. Front. Psychol. 11:554915. https://doi.org/10.3389/fpsyg.2020.554915"
-    author: Liu S, Yu Q, Li Z, Cunha PM, Zhang Y, Kong Z, Lin W, Chen S and Cai Y
+    title: Liu S 2020
+    q: 2
+    i: "?"
   - id: liu-s-2020-2
-    resource: "https://doi.org/10.3389/fpsyg.2020.554915"
-    title: "Liu S, Yu Q, Li Z, Cunha PM, Zhang Y, Kong Z, Lin W, Chen S and Cai Y (2020) Effects of Acute and Chronic Exercises on Executive Function in Children and Adolescents: A Systemic Review and Meta-Analysis. Front. Psychol. 11:554915. https://doi.org/10.3389/fpsyg.2020.554915"
-    author: Liu S, Yu Q, Li Z, Cunha PM, Zhang Y, Kong Z, Lin W, Chen S and Cai Y
+    title: Liu S 2020 (2)
+    q: 2
+    i: "?"
 ---
 
 # Meta-regression identifies exercise type, age, and study quality as significant moderators of chronic exercise effects on executive function
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 2 studies · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Open motor skill interventions (β = 0.451645, p = 0.007) and age (β = −0.608123, p = 0.029) are significantly associated with inhibitory control effects. [→ Liu S 2020](#liu-s-2020)

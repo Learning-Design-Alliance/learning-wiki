@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1177/2331216517744675"
     title: "Dryden Adam, Allen Harriet A., Henshaw Helen, Heinrich Antje. (2017). The Association Between Cognitive Performance and Speech-in-Noise Perception for Adult Listeners: A Systematic Literature Review and Meta-Analysis. Trends in Hearing. https://doi.org/10.1177/2331216517744675"
     author: Dryden Adam, Allen Harriet A., Henshaw Helen, Heinrich Antje
+    q: 3
+    i: 2
 ---
 
 # Cognitive subdomains differ in association strength with SiN perception, from r = .18 (crystallized IQ, nonsignificant) to r = .39 (processing speed)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Pooled associations ranged between .18 and .39 and were significant for all subdomains except crystallized intelligence. [→ Dryden Adam 2017](#dryden-adam-2017)

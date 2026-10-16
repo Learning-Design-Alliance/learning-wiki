@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1093/brain/awv348"
     title: "Rapp, Brenda; Purcell, Jeremy; Hillis, Argye; Capasso, Rita; Miceli, Gabriele. (2016). Neural bases of orthographic long-term memory and working memory in dysgraphia. BRAIN. https://doi.org/10.1093/brain/awv348"
     author: Rapp, Brenda; Purcell, Jeremy; Hillis, Argye; Capasso, Rita; Miceli, Gabriele
+    q: 2
+    i: "?"
 ---
 
 # Distinct neural substrates selectively support orthographic long-term memory and orthographic working memory in spelling
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` The study reports the first clear evidence that orthographic long-term memory and working memory processes have selectively supporting neural substrates. [→ Rapp 2016](#rapp-2016)

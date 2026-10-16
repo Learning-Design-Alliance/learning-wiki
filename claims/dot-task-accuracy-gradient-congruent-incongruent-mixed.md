@@ -10,12 +10,15 @@ generated:
 evidence_strength: moderate
 sources:
   - id: spiegler-o-and-leyendecker-b-2017
-    resource: "https://doi.org/10.3389/fpsyg.2017.01579"
-    title: "Spiegler O and Leyendecker B (2017) Balanced Cultural Identities Promote Cognitive Flexibility among Immigrant Children. Front. Psychol. 8:1579. https://doi.org/10.3389/fpsyg.2017.01579"
-    author: Spiegler O and Leyendecker B
+    title: Spiegler O and Leyendecker B 2017
+    q: 3
+    i: "?"
 ---
 
 # Dot Task accuracy decreased from congruent to incongruent to mixed trials, with condition accuracies positively correlated
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Children's responses were most accurate in congruent trials (M = 98.52%), less accurate in incongruent trials (M = 94.52%), and least accurate in mixed trials (M = 75.63%), ps ≤ 0.001. [→ Spiegler O and Leyendecker B 2017](#spiegler-o-and-leyendecker-b-2017)

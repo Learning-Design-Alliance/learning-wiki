@@ -12,13 +12,18 @@ sources:
   - id: lópez-gil-2020
     resource: "https://doi.org/10.3390/ijerph17165676"
     title: "López-Gil, J.F., Oriol-Granado, X., Izquierdo, M., Ramírez-Vélez, R., Fernández-Vergara, O., Olloquequi, J., & García-Hermoso, A. (2020). Healthy Lifestyle Behaviors and Their Association with Self-Regulation in Chilean Children. International Journal of Environmental Research and Public Health. https://doi.org/10.3390/ijerph17165676"
-    author: "López-Gil, J.F., Oriol-Granado, X., Izquierdo, M., Ramírez-Vélez, R., Fernández-Vergara, O., Olloquequi, J., & García-Hermoso, A"
+    author: "López-Gil, J.F., Oriol-Granado, X., Izquierdo, M., Ramírez-Vélez, R., Fernández-Vergara, O., Olloquequi, J., & García-Hermoso, A."
+    q: 3
+    i: 2
 ---
 
 # Physical activity is positively correlated with self-regulation in Chilean children aged 8–12
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+
 ## Subclaims
-`q3 i2` After adjustment for age, sex, BMI z-score and sleep quality, physical activity positively correlated with self-regulation (r = 0.265). [→ López-Gil 2020](#lópez-gil-2020)
+`q3 i2` After adjustment for age, sex, BMI z-score and sleep quality, physical activity positively correlated with self-regulation (r = 0.265). [→ López-Gil 2020](#lopez-gil-2020)
 
 ## Evidence
 

@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.3758/s13423-015-0836-1"
     title: "Mathieu Declerck & Andrea M. Philipp. (2015). A review of control processes and their locus in language switching. Psychon Bull Rev. https://doi.org/10.3758/s13423-015-0836-1"
     author: "Mathieu Declerck & Andrea M. Philipp"
+    q: 2
+    i: "?"
 ---
 
 # Concept preparation reduces L1 switch costs, indicating language control can initiate at the concept level
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` When concepts could be prepared, smaller L1 switch costs were observed than when concepts could not be prepared, with a much smaller effect on L2 switch costs. [→ Mathieu Declerck & Andrea M. Philipp 2015](#mathieu-declerck-andrea-m-philipp-2015)

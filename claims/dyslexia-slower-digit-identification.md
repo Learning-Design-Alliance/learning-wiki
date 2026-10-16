@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1016/j.neuropsychologia.2010.10.018"
     title: "Bert De Smedt, Bart Boets. (2010). Phonological processing and arithmetic fact retrieval: Evidence from developmental dyslexia. Neuropsychologia, 48, 3973–3981. https://doi.org/10.1016/j.neuropsychologia.2010.10.018"
     author: Bert De Smedt, Bart Boets
+    q: 3
+    i: 3
 ---
 
 # Adults with developmental dyslexia are slower than controls at speeded digit identification
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` Participants with dyslexia were significantly slower in identifying digits than controls, with a large effect size. [→ Bert De Smedt 2010](#bert-de-smedt-2010)

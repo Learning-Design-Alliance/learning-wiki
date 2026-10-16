@@ -12,14 +12,21 @@ sources:
   - id: mikami-2015
     resource: "https://doi.org/10.1007/s40474-014-0036-0"
     title: "Mikami, A. Y., & Normand, S. (2015). The Importance of Social Contextual Factors in Peer Relationships of Children with ADHD. Curr Dev Disord Rep. https://doi.org/10.1007/s40474-014-0036-0"
-    author: "Mikami, A. Y., & Normand, S"
+    author: "Mikami, A. Y., & Normand, S."
+    q: 3
+    i: "?"
   - id: mikami-2015-2
     resource: "https://doi.org/10.1007/s40474-014-0036-0"
     title: "Mikami, A. Y., & Normand, S. (2015). The Importance of Social Contextual Factors in Peer Relationships of Children with ADHD. Curr Dev Disord Rep. https://doi.org/10.1007/s40474-014-0036-0"
-    author: "Mikami, A. Y., & Normand, S"
+    author: "Mikami, A. Y., & Normand, S."
+    q: 2
+    i: "?"
 ---
 
 # Existing child-focused treatments for ADHD, including the MTA's intensive behavioral management and medication, and clinic-based social skills training, have not improved peers' liking of children with ADHD
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` In the MTA, despite improved disruptive and prosocial behaviors after 14 months of intensive behavioral management and/or medication, children with ADHD did not improve in peer rejection and friendlessness by sociometric nomination. [→ Mikami 2015](#mikami-2015)

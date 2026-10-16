@@ -10,11 +10,16 @@ generated:
 evidence_strength: moderate
 sources:
   - id: muthanna-2021
-    title: "Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health."
+    title: Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health.
     author: Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil
+    q: 3
+    i: 1
 ---
 
 # Cognitive-motivational factors mediate the association between bullying victimisation and lower academic achievement (pooled OR = 0.74)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` The pooled indirect effect of victimisation on academic achievement through cognitive-motivational factors is significant (k = 8, OR = 0.74, 95% CI 0.72-0.77, p = 0.000). [→ Muthanna 2021](#muthanna-2021)

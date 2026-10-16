@@ -10,14 +10,21 @@ generated:
 evidence_strength: moderate
 sources:
   - id: muthanna-2021
-    title: "Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health."
+    title: Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health.
     author: Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil
+    q: 3
+    i: "?"
   - id: muthanna-2021-2
-    title: "Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health."
+    title: Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil. (2021). How Can Bullying Victimisation Lead to Lower Academic Achievement? A Systematic Review and Meta-Analysis of the Mediating Role of Cognitive-Motivational Factors. International Journal of Environmental Research and Public Health.
     author: Muthanna, Samara; Da Silva Nascimento, Bruna; El-Asam, Aiman; Hammuda, Sara; Khattab, Nabil
+    q: 3
+    i: "?"
 ---
 
 # Pooled results are robust to one-study removal and largely free of publication bias, with exceptions for bullies and bully/victims
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` One-study-removal analyses left all pooled effect sizes significant for achievement, motivational factors and mediation. [→ Muthanna 2021](#muthanna-2021)

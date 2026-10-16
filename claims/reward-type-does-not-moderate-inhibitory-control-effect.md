@@ -12,10 +12,15 @@ sources:
   - id: burton-2021
     resource: "https://doi.org/10.1177/17470218211008895"
     title: "Burton, S., Knibb, G., & Jones, A. (2021). A meta-analytic investigation of the role of reward on inhibitory control. Quarterly Journal of Experimental Psychology. https://doi.org/10.1177/17470218211008895"
-    author: "Burton, S., Knibb, G., & Jones, A"
+    author: "Burton, S., Knibb, G., & Jones, A."
+    q: 4
+    i: "?"
 ---
 
 # The effect of reward on inhibitory control is not moderated by reward type (monetary vs points vs other)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q4` pre-registered or meta-analytic
 
 ## Subclaims
 `q4 i?` Exploratory moderation found no evidence that reward type moderates the reward effect on IC across monetary (k = 62), points (k = 13), and other (k = 3) reward categories. [→ Burton 2021](#burton-2021)

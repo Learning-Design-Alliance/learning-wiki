@@ -12,14 +12,21 @@ sources:
   - id: xu-2023
     resource: "https://doi.org/10.1057/s41599-023-01508-1"
     title: "Xu, E., Wang, W., & Wang, Q. (2023). The effectiveness of collaborative problem solving in promoting students' critical thinking: A meta-analysis based on empirical literature. Humanities and Social Sciences Communications. https://doi.org/10.1057/s41599-023-01508-1"
-    author: "Xu, E., Wang, W., & Wang, Q"
+    author: "Xu, E., Wang, W., & Wang, Q."
+    q: 3
+    i: 3
   - id: xu-2023-2
     resource: "https://doi.org/10.1057/s41599-023-01508-1"
     title: "Xu, E., Wang, W., & Wang, Q. (2023). The effectiveness of collaborative problem solving in promoting students' critical thinking: A meta-analysis based on empirical literature. Humanities and Social Sciences Communications. https://doi.org/10.1057/s41599-023-01508-1"
-    author: "Xu, E., Wang, W., & Wang, Q"
+    author: "Xu, E., Wang, W., & Wang, Q."
+    q: 3
+    i: 2
 ---
 
 # Collaborative problem-solving improves attitudinal tendency (ES = 1.17) more than cognitive skills (ES = 0.70)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2`–`i3`
 
 ## Subclaims
 `q3 i3` Collaborative problem-solving significantly enhances students' attitudinal tendency toward critical thinking (ES = 1.17), with significant intergroup differences between the two dimensions (chi2 = 7.95, P < 0.01). [→ Xu 2023](#xu-2023)

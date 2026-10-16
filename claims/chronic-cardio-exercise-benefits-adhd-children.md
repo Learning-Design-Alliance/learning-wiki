@@ -12,14 +12,21 @@ sources:
   - id: den-heijer-2017
     resource: "https://doi.org/10.1007/s00702-016-1593-7"
     title: "Den Heijer, A. E., Groen, Y., Tucha, L., Fuermaier, A. B. M., Koerts, J., Lange, K. W., Thome, J., & Tucha, O. (2017). Sweat it out? The effects of physical exercise on cognition and behavior in children and adults with ADHD: a systematic literature review. J Neural Transm 124(Suppl 1):S3–S26. https://doi.org/10.1007/s00702-016-1593-7"
-    author: "Den Heijer, A. E., Groen, Y., Tucha, L., Fuermaier, A. B. M., Koerts, J., Lange, K. W., Thome, J., & Tucha, O"
+    author: "Den Heijer, A. E., Groen, Y., Tucha, L., Fuermaier, A. B. M., Koerts, J., Lange, K. W., Thome, J., & Tucha, O."
+    q: 2
+    i: 3
   - id: den-heijer-2017-2
     resource: "https://doi.org/10.1007/s00702-016-1593-7"
     title: "Den Heijer, A. E., Groen, Y., Tucha, L., Fuermaier, A. B. M., Koerts, J., Lange, K. W., Thome, J., & Tucha, O. (2017). Sweat it out? The effects of physical exercise on cognition and behavior in children and adults with ADHD: a systematic literature review. J Neural Transm 124(Suppl 1):S3–S26. https://doi.org/10.1007/s00702-016-1593-7"
-    author: "Den Heijer, A. E., Groen, Y., Tucha, L., Fuermaier, A. B. M., Koerts, J., Lange, K. W., Thome, J., & Tucha, O"
+    author: "Den Heijer, A. E., Groen, Y., Tucha, L., Fuermaier, A. B. M., Koerts, J., Lange, K. W., Thome, J., & Tucha, O."
+    q: 2
+    i: "?"
 ---
 
 # Chronic cardio exercise programs improve executive functions, attention, and behavior in children with ADHD
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
 
 ## Subclaims
 `q2 i3` After 8 weeks of water aerobic and perceptual-motor exercise, children with ADHD showed improved no-go accuracy (d = 0.9) on a Go/No-Go Task, while the wait-list control group did not improve (d = -0.04). [→ Den Heijer 2017](#den-heijer-2017)

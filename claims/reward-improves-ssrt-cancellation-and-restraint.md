@@ -12,10 +12,15 @@ sources:
   - id: sinopoli-2011
     resource: "https://doi.org/10.1037/a0024440"
     title: "Sinopoli, K.J., Schachar, R., & Dennis, M. (2011). Reward Improves Cancellation and Restraint Inhibition Across Childhood and Adolescence. Developmental Psychology, 47(5), 1479-89. https://doi.org/10.1037/a0024440"
-    author: "Sinopoli, K.J., Schachar, R., & Dennis, M"
+    author: "Sinopoli, K.J., Schachar, R., & Dennis, M."
+    q: 3
+    i: 3
 ---
 
 # Reward improves the speed of inhibitory control (SSRT) in both cancellation and restraint tasks in children and adolescents
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
 
 ## Subclaims
 `q3 i3` Across both stop signal tasks, latency to inhibit a response was faster under low- and high-reward conditions than under the neutral condition. [→ Sinopoli 2011](#sinopoli-2011)

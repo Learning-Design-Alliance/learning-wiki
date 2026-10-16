@@ -12,10 +12,15 @@ sources:
   - id: francis-2019
     resource: "https://doi.org/10.1016/j.cpr.2018.09.002"
     title: "Francis, D. A.; Caruana, N.; Hudson, J. L.; McArthur, G. M. (2019). The association between poor reading and internalising problems: A systematic review and meta-analysis. Clinical Psychology Review. https://doi.org/10.1016/j.cpr.2018.09.002"
-    author: Francis, D. A.; Caruana, N.; Hudson, J. L.; McArthur, G. M
+    author: Francis, D. A.; Caruana, N.; Hudson, J. L.; McArthur, G. M.
+    q: 3
+    i: "?"
 ---
 
 # No publication bias detected for the internalising, anxiety, or depression meta-analyses
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Funnel plots showed symmetry and Egger's tests were non-significant for all three outcomes, suggesting no systematic difference between studies finding stronger and weaker associations. [→ Francis 2019](#francis-2019)

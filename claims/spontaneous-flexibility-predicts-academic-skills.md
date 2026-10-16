@@ -13,12 +13,17 @@ sources:
     resource: "https://doi.org/10.1080/09297049.2019.1711034"
     title: "Arán Filippetti, Vanessa; Krumm, Gabriela Liliana (2020). A hierarchical model of cognitive flexibility in children: Extending the relationship between flexibility, creativity and academic achievement. Child Neuropsychology. https://doi.org/10.1080/09297049.2019.1711034"
     author: Arán Filippetti, Vanessa; Krumm, Gabriela Liliana
+    q: 3
+    i: "?"
 ---
 
 # Spontaneous flexibility, but not reactive flexibility, significantly predicts children's reading comprehension and writing
 
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
+
 ## Subclaims
-`q3 i?` Only spontaneous flexibility proved to be a significant predictor of writing and reading comprehension in a latent-variable structural equation model. [→ Arán Filippetti 2020](#arán-filippetti-2020)
+`q3 i?` Only spontaneous flexibility proved to be a significant predictor of writing and reading comprehension in a latent-variable structural equation model. [→ Arán Filippetti 2020](#aran-filippetti-2020)
 
 ## Evidence
 

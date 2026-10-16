@@ -12,14 +12,21 @@ sources:
   - id: den-heijer-2017
     resource: "https://doi.org/10.1007/s00702-016-1593-7"
     title: "Den Heijer, A. E., Groen, Y., Tucha, L., Fuermaier, A. B. M., Koerts, J., Lange, K. W., Thome, J., & Tucha, O. (2017). Sweat it out? The effects of physical exercise on cognition and behavior in children and adults with ADHD: a systematic literature review. J Neural Transm 124(Suppl 1):S3–S26. https://doi.org/10.1007/s00702-016-1593-7"
-    author: "Den Heijer, A. E., Groen, Y., Tucha, L., Fuermaier, A. B. M., Koerts, J., Lange, K. W., Thome, J., & Tucha, O"
+    author: "Den Heijer, A. E., Groen, Y., Tucha, L., Fuermaier, A. B. M., Koerts, J., Lange, K. W., Thome, J., & Tucha, O."
+    q: 2
+    i: "?"
   - id: den-heijer-2017-2
     resource: "https://doi.org/10.1007/s00702-016-1593-7"
     title: "Den Heijer, A. E., Groen, Y., Tucha, L., Fuermaier, A. B. M., Koerts, J., Lange, K. W., Thome, J., & Tucha, O. (2017). Sweat it out? The effects of physical exercise on cognition and behavior in children and adults with ADHD: a systematic literature review. J Neural Transm 124(Suppl 1):S3–S26. https://doi.org/10.1007/s00702-016-1593-7"
-    author: "Den Heijer, A. E., Groen, Y., Tucha, L., Fuermaier, A. B. M., Koerts, J., Lange, K. W., Thome, J., & Tucha, O"
+    author: "Den Heijer, A. E., Groen, Y., Tucha, L., Fuermaier, A. B. M., Koerts, J., Lange, K. W., Thome, J., & Tucha, O."
+    q: 2
+    i: "?"
 ---
 
 # In adults with ADHD, acute cardio exercise does not improve sustained attention but enhances mood and motivation
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
 
 ## Subclaims
 `q2 i?` Cycling at 65% VO2 peak produced no significant improvements in sustained attention or psychomotor speed compared with seated rest in adults with ADHD symptoms. [→ Den Heijer 2017](#den-heijer-2017)

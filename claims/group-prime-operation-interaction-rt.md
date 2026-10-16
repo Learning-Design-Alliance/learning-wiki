@@ -12,14 +12,21 @@ sources:
   - id: rubinsten-o-2010
     resource: "http://www.behavioralandbrainfunctions.com/content/6/1/46"
     title: "Rubinsten O, Tannock R. (2010). Mathematics anxiety in children with developmental dyscalculia. Behavioral and Brain Functions 6:46. http://www.behavioralandbrainfunctions.com/content/6/1/46"
-    author: Rubinsten O, Tannock R
+    author: Rubinsten O, Tannock R.
+    q: 3
+    i: "?"
   - id: rubinsten-o-2010-2
     resource: "http://www.behavioralandbrainfunctions.com/content/6/1/46"
     title: "Rubinsten O, Tannock R. (2010). Mathematics anxiety in children with developmental dyscalculia. Behavioral and Brain Functions 6:46. http://www.behavioralandbrainfunctions.com/content/6/1/46"
-    author: Rubinsten O, Tannock R
+    author: Rubinsten O, Tannock R.
+    q: 3
+    i: "?"
 ---
 
 # A significant three-way interaction of group, prime type and arithmetic operation governs arithmetic-affective priming, with DD children slower overall than controls
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` The group × prime type × arithmetic operation interaction on response latency was significant, F(9,189) = 10.4, p < 0.001. [→ Rubinsten O 2010](#rubinsten-o-2010)

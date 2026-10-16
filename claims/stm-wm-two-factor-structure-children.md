@@ -13,9 +13,14 @@ sources:
     resource: "https://link.springer.com/journal/13421/29/1"
     title: "Robert Kail and Lynda K. Hall. (2001). Distinguishing short-term memory from working memory. Memory & Cognition, 29(1), 1-9. https://link.springer.com/journal/13421/29/1"
     author: Robert Kail and Lynda K. Hall
+    q: 3
+    i: "?"
 ---
 
 # Simple span and complex span tasks define two distinct but correlated memory factors in 7- to 13-year-olds
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` A two-factor model separating STM tasks from WM tasks fits children's memory-task correlations significantly better than a one-factor model in both studies. [→ Robert Kail and Lynda K. Hall 2001](#robert-kail-and-lynda-k-hall-2001)

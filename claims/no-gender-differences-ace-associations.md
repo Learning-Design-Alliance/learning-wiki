@@ -13,9 +13,14 @@ sources:
     resource: "https://doi.org/10.1016/j.chiabu.2020.104890"
     title: "Leonardo Bevilacqua, Yvonne Kelly, Anja Heilmann, Naomi Priest, Rebecca E. Lacey. (2021). Adverse childhood experiences and trajectories of internalizing, externalizing, and prosocial behaviors from childhood to adolescence. Child Abuse & Neglect 112 (2021) 104890. https://doi.org/10.1016/j.chiabu.2020.104890"
     author: Leonardo Bevilacqua, Yvonne Kelly, Anja Heilmann, Naomi Priest, Rebecca E. Lacey
+    q: 3
+    i: "?"
 ---
 
 # ACE-outcome associations did not differ between girls and boys
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` None of the gender-by-ACE interactions were significant for any outcome, suggesting associations were similar for girls and boys in this sample. [→ Leonardo Bevilacqua 2021](#leonardo-bevilacqua-2021)

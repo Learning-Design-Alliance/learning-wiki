@@ -12,10 +12,15 @@ sources:
   - id: xu-2023
     resource: "https://doi.org/10.1057/s41599-023-01508-1"
     title: "Xu, E., Wang, W., & Wang, Q. (2023). The effectiveness of collaborative problem solving in promoting students' critical thinking: A meta-analysis based on empirical literature. Humanities and Social Sciences Communications. https://doi.org/10.1057/s41599-023-01508-1"
-    author: "Xu, E., Wang, W., & Wang, Q"
+    author: "Xu, E., Wang, W., & Wang, Q."
+    q: 3
+    i: 2
 ---
 
 # Collaborative problem-solving significantly improves students' critical thinking overall (ES = 0.82)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
 
 ## Subclaims
 `q3 i2` Across 79 effect quantities from 36 studies, collaborative problem-solving has a statistically significant positive overall effect on students' critical thinking (ES = 0.82, 95% CI [0.69, 0.95]). [→ Xu 2023](#xu-2023)

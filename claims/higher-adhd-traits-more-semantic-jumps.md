@@ -12,10 +12,15 @@ sources:
   - id: van-den-driessche-2019
     resource: "https://doi.org/10.1038/s41598-019-46761-0"
     title: "Van den Driessche, C., Chevrier, F., Cleeremans, A. & Sackur, J. (2019). Lower Attentional Skills predict increased exploratory foraging patterns. Scientific Reports 9:10948. https://doi.org/10.1038/s41598-019-46761-0"
-    author: "Van den Driessche, C., Chevrier, F., Cleeremans, A. & Sackur, J"
+    author: "Van den Driessche, C., Chevrier, F., Cleeremans, A. & Sackur, J."
+    q: 3
+    i: "?"
 ---
 
 # Higher ADHD scores increase the variability of semantic search paths via more long-distance jumps, but not mean semantic distance
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment
 
 ## Subclaims
 `q3 i?` Mean semantic distance did not depend on ADHD traits, but the standard deviation of distances increased significantly with ADHD score. [→ Van den Driessche 2019](#van-den-driessche-2019)

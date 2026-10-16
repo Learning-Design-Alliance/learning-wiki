@@ -12,10 +12,15 @@ sources:
   - id: sanderud-k-2016
     resource: "https://doi.org/10.3402/ejpt.v7.32061"
     title: "Sanderud K., Murphy S., Elklit A. (2016). Child maltreatment and ADHD symptoms in a sample of young adults. European Journal of Psychotraumatology. https://doi.org/10.3402/ejpt.v7.32061"
-    author: Sanderud K., Murphy S., Elklit A
+    author: Sanderud K., Murphy S., Elklit A.
+    q: 3
+    i: 1
 ---
 
 # Males were significantly more likely than females to report probable ADHD in the young adult sample (OR=1.56)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
 
 ## Subclaims
 `q3 i1` In the binary logistic regression, males were significantly more likely than females to report probable ADHD (OR=1.56, CI 1.23–1.96). [→ Sanderud K. 2016](#sanderud-k-2016)
