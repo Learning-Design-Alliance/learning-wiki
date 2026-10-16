@@ -268,7 +268,12 @@ def _fetch_pmc_via_aws(entry: dict) -> str:
             f"{pmcid} has no PMC AWS metadata object (metadata/{pmcid}.1.json not found) — "
             f"not available via the PMC Article Datasets on AWS. Replace this manifest entry."
         )
-    if not aws_meta.get("is_pmc_openaccess"):
+    # The PMC Author Manuscript Dataset (NIH and other funders' accepted manuscripts) is
+    # published in the same bucket under license_code "TDM": cleared for text and data
+    # mining, which is what extraction is. 66 of 80 PMC rows sampled from the Learner
+    # Variability Navigator's references were these, and 4 were open access (2026-10-16).
+    is_tdm_manuscript = aws_meta.get("is_manuscript") and aws_meta.get("license_code") == "TDM"
+    if not (aws_meta.get("is_pmc_openaccess") or is_tdm_manuscript):
         raise FetchError(
             f"{pmcid} is not marked is_pmc_openaccess in its PMC AWS metadata — not cleared "
             f"for automated bulk retrieval. Replace this manifest entry rather than scraping "

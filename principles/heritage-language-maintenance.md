@@ -13,7 +13,7 @@ generated:
 # Preserve Heritage Language While Acquiring an Additional Language
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (16 for, 5 mixed) · 19 studies (5 review, 5 theoretical, 3 quant-synthesis, 3 qualitative, 2 causal, 1 associational), `q1`–`q3` · 1 of 19 report an effect size · 19 claims rest on one study
+> **Evidence** · 22 claims (17 for, 5 mixed) · 20 studies (5 review, 5 theoretical, 3 quant-synthesis, 3 qualitative, 2 causal, 2 associational), `q1`–`q3` · 2 of 20 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -122,6 +122,7 @@ Claims this page cited before, or found while rewriting it, that bear on it less
 - [Dual language learners especially benefit from high-quality early care and dual language immersion programs](../claims/dual-language-learners-benefit-from-immersion-programs.md) [+W]: an advocacy report citing research without detail.
 - [Fluent bilingualism is linked to metalinguistic awareness of how the two languages relate](../claims/bilingual-fluency-enhances-metalinguistic-awareness.md) [+M]: case studies and a synthesis; used above for the cross-language comparison step. Its benefit is for fluent, balanced bilinguals.
 - [Mead argued that treating the mother tongue as inferior impedes movement between home and school language structures](../claims/mead-mother-tongue-status-affects-bilingual-learning.md) [+W]: an anthropological argument, no data; used above for the family-attitudes row.
+- [ASL proficiency correlates positively with English reading comprehension among deaf adults](../claims/asl-proficiency-correlates-reading-comprehension-deaf.md) [+W] — attached 2026-10-16 from Freel et al. (2011), which proposed "Use well-developed ASL as a bridge when teaching English literacy to deaf learners"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

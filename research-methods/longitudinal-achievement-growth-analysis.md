@@ -33,7 +33,7 @@ sources:
 # Longitudinal achievement growth analysis
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 21 claims (18 for, 3 mixed) · 10 studies (9 associational, 1 theoretical), `q1`–`q2` · 0 of 10 report an effect size · 21 claims rest on one study
+> **Evidence** · 22 claims (19 for, 3 mixed) · 11 studies (10 associational, 1 theoretical), `q1`–`q2` · 0 of 11 report an effect size · 22 claims rest on one study
 
 ## Description
 This principle holds that educators and researchers should use longitudinal data analysis to track how academic achievement for DHH students progresses over time. The article argues that "Longitudinal data analysis is critical to understanding how academic achievement for DHH students progresses over time and where they may need additional support on their academic journey to achieve at the level of their hearing peers." It grounds support decisions in multi-year growth evidence rather than single snapshots.
@@ -48,6 +48,7 @@ This principle holds that educators and researchers should use longitudinal data
 - **Value-added academic productivity indicator estimating each school's contribution to student learning from longitudinal test scores**: The Consortium's academic productivity research uses a value-added approach in which, "Using Iowa Tests of Basic Skills (ITBS) data, the productivity indicator estimates each school's contribution, or value-added, to the learning of students enrolled at that school." A more refined statistical model developed with Steve Raudenbush assumes each student has an academic growth trajectory shaped by latent growth parameters and exposure to instruction in a given class and school, permitting estimation of student growth curves and time trends for classroom and school effects. The agenda proposes extending this to classroom-level analysis and comparing it against NCLB adequate-yearly-progress bench (Sebring (2003))
 - **Track English learners as kindergarten-entry cohorts over time rather than as a point-in-time snapshot to avoid selection bias from reclassification**: The report argues that studying only current ELs distorts the picture of EL progress, because the highest-achieving ELs are reclassified out of the EL pool and newcomers enter it later. It instead follows "all California public school students who began receiving EL services starting in kindergarten" through all subsequent years, including years after reclassification. The authors state that "We can more clearly gauge the progress of EL students using this longitudinal, tracking-over-years approach." (Novicoff et al. (2024))
 - **Do not assume linear within-year growth when estimating learning from achievement data**: Analyses that estimate how much students learn during the school year — for school-year-length policy, summer-loss studies, or gap research — should test rather than assume that within-year growth is linear. The article's own finding is that "assuming linear within-year growth is often not justified, particularly in reading," so linear-growth assumptions can distort such estimates, especially in reading. (Megan Kuhfeld (2020))
+- **Studies of cognitive predictors of achievement should include domain-knowledge indicators at every measurement point**: The article concludes that IQ and WM may matter mainly in early schooling when domain knowledge is not yet developed, and that their impact fades once prior domain knowledge is estimated. It therefore recommends that "future research on the topic should be based on longitudinal designs" that "include relevant indicators of domain knowledge at each time point in order to estimate the size of specific IQ and WM effects and their changes over time." This is a methodological design principle for research on cognitive predictors of learning. (Schneider Wolfgang (2017))
 
 ### Claims
 - [DHH students in grades 2–8 continue to build reading and mathematics skills and do not necessarily plateau in the elementary grades](../claims/dhh-students-continue-building-skills-no-elementary-plateau.md) [+M]
@@ -71,6 +72,7 @@ This principle holds that educators and researchers should use longitudinal data
 - [CPS elementary ITBS scores improved across the 1990s in both reading and math for all age groups, but trend gains flattened after 1998](../claims/cps-itbs-decade-gains-flattened-after-1998.md) [~W]
 - [All six CPS age cohorts saw a slight 2001 decline in math scores of less than one month, which a Rasch-score re-analysis suggests reflects an actual drop in learning rather than test-form effects](../claims/2001-math-decline-confirmed-by-rasch-analysis.md) [~W]
 - [Within-school-year achievement growth is often not linear, particularly in reading](../claims/linear-within-year-growth-assumption-unjustified-reading.md) [+M]
+- [Previous domain knowledge accounts for most of the variance in later achievement, considerably reducing the predictive impact of IQ and WM](../claims/domain-knowledge-dominates-later-achievement.md) [+M]
 
 ## Related Research Methods
 -
@@ -89,6 +91,7 @@ This principle holds that educators and researchers should use longitudinal data
 - Sebring, Penny Bender. (2003). Research Agenda 2004-2008. Consortium on Chicago School Research. https://www.consortium-chicago.org/publications
 - Novicoff, S., Reardon, S. F., & Johnson, R. C. (2024). California's English learners and their long-term learning outcomes. Learning Policy Institute.
 - Megan Kuhfeld, James Soland. (2020). The learning curve: Revisiting the assumption of linear growth across the school year. NWEA Research working paper. https://www.tandfonline.com/doi/full/10.1080/19345747.2020.1839990
+- Schneider Wolfgang, Niklas Frank. (2017). Intelligence and Verbal Short-Term Memory/Working Memory: Their Interrelationships from Childhood to Young Adulthood and Their Impact on Academic Achievement. Journal of Intelligence. https://doi.org/10.3390/jintelligence5020026
 
 # Mathematica's value-added analysis approach for Oklahoma's Teacher and Leader Effectiveness Evaluation System
 

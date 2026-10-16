@@ -24,6 +24,7 @@ Everything is kept; only settled research-practice and context-local claims are 
 maintainer to remove.
 
     python3 scripts/sort_claims.py --uncited            # claims no concept page cites
+    python3 scripts/sort_claims.py --all               # every claim not yet sorted
     python3 scripts/sort_claims.py --summary
 """
 import argparse
@@ -129,11 +130,14 @@ def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     g = ap.add_mutually_exclusive_group(required=True)
     g.add_argument("--uncited", action="store_true", help="claims no page outside claims/ cites")
+    g.add_argument("--all", action="store_true", help="every claim not yet sorted")
     g.add_argument("--summary", action="store_true")
     ap.add_argument("--workers", type=int, default=16)
     args = ap.parse_args()
     if args.summary:
         summary()
+    elif args.all:
+        run(sorted(p.stem for p in (WIKI_ROOT / "claims").glob("*.md") if p.stem != "index"), args.workers)
     else:
         run(uncited_claims(), args.workers)
 

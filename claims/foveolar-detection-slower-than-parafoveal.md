@@ -1,0 +1,46 @@
+---
+type: claim
+title: Detection is slower for targets within the foveola than in the parafovea despite equal detectability
+description: Detection is slower for targets within the foveola than in the parafovea despite equal detectability
+id: foveolar-detection-slower-than-parafoveal
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+evidence_strength: moderate
+sources:
+  - id: poletti-martina-2017
+    resource: "https://doi.org/10.1038/nn.4622"
+    title: "Poletti Martina, Rucci Michele, Carrasco Marisa. (2017). Selective attention within the foveola. Nature Neuroscience. https://doi.org/10.1038/nn.4622"
+    author: Poletti Martina, Rucci Michele, Carrasco Marisa
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# Detection is slower for targets within the foveola than in the parafovea despite equal detectability
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q3`
+
+## Subclaims
+`q3 i?` Observers were slower to detect foveolar than parafoveal targets (p<0.0001), with an average reaction-time increment of 46 ± 3 ms, even though stimuli were equally detectable across experiments. [→ Poletti Martina 2017](#poletti-martina-2017)
+
+## Evidence
+
+### Poletti Martina 2017
+
+Poletti Martina, Rucci Michele, Carrasco Marisa. (2017). Selective attention within the foveola. Nature Neuroscience. https://doi.org/10.1038/nn.4622
+
+`q3 · i?` · `causal · r1`
+
+Cross-experiment comparison of Experiments 1 and 2 reaction times in five observers; the article reports "the increment in reaction time was 46 ± 3 ms" and links the pattern to eccentricity-dependent processing differences reported outside the fovea.
+
+> "observers were slower at detecting targets presented within the foveola than in the parafovea (p<0.0001, two-tailed paired t-test; compare reaction times in Fig. 1C and in Fig. 2E), even though the stimuli were equally detectable in both experiments (p>0.77 in all three trial types, two-tailed paired t-tests)"
+
+## Discussion
+
+
+## Related Claims
+-

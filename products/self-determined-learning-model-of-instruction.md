@@ -32,4 +32,4 @@ A teacher-implemented instructional model developed by Palmer et al. that guides
 
 ## Key Sources
 - Palmer, S.B., & Wehmeyer, M.L. (2003). Promoting self-determination in early elementary school: Teaching self-regulated problem-solving and goal-setting skills. Remedial and Special Education, 24, 115-126. http://dx.doi.org/10.1177/07419325030240020601
-- Agran, M., Blanchard, C., Wehmeyer, M., & Hughes, C. (2002). Increasing the Problem-Solving Skills of Students with Developmental Disabilities Participating in General Education. Remedial and Special Education, 23(5), 279-288. https://journals.sagepub.com
+- Agran, M., Blanchard, C., Wehmeyer, M., & Hughes, C. (2002). Increasing the Problem-Solving Skills of Students with Developmental Disabilities Participating in General Education. Remedial and Special Education, 23(5), 279-288. https://journals.sagepub.com. [doi:10.1177/07419325020230050301](https://doi.org/10.1177/07419325020230050301)

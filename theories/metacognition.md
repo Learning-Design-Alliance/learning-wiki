@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 53 claims (30 for, 20 mixed, 3 against) · 44 studies (20 causal, 7 review, 7 theoretical, 5 qualitative, 2 associational, 2 design, 1 quant-synthesis), `q1`–`q4` · 7 of 44 report an effect size · 49 claims rest on one study
+> **Evidence** · 56 claims (33 for, 20 mixed, 3 against) · 46 studies (21 causal, 7 review, 7 theoretical, 5 qualitative, 3 associational, 2 design, 1 quant-synthesis), `q1`–`q4` · 7 of 46 report an effect size · 52 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -95,6 +95,9 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [A self-explanation instruction during rereading improves monitoring accuracy for all readers above mere rereading (Experiment 2)](../claims/self-explanation-improves-metacomprehension-accuracy.md) [+W] — attached 2026-10-16 from Griffin et al. (2008), which proposed "Concurrent-processing and cue-validity account of metacomprehension accuracy".
 - [Perceived usefulness of ChatGPT, an invalid cue, is associated with overestimation of performance](../claims/perceived-usefulness-invalid-metacognitive-cue.md) [+M] — attached 2026-10-16 from Urban et al. (2024), which proposed "Hybrid human-AI regulation (HHAIR) theory as applied to metacognitive demands of ChatGPT-assisted problem-solving"; tests this page's relationship.
 - [ChatGPT use does not change absolute self-evaluation accuracy, but self-evaluation judgments fail to correlate with performance under ChatGPT assistance](../claims/chatgpt-no-accuracy-difference-poor-calibration.md) [~M] — attached 2026-10-16 from Urban et al. (2024), which proposed "Hybrid human-AI regulation (HHAIR) theory as applied to metacognitive demands of ChatGPT-assisted problem-solving"; tests this page's relationship.
+- [Metacognitive reflection training improves young children's DCCS performance, with behavioral and neural changes](../claims/reflection-training-improves-dccs.md) [+W] — attached 2026-10-16 from Buttelmann F et al. (2017), which proposed "Metacognitive EF training: qualitatively changing how children engage executive functions to support flexible adaptation and transfer".
+- [Metacognitive ability increases with age during adolescence and plateaus in adulthood when task performance is held constant](../claims/metacognitive-ability-improves-across-adolescence-plateaus-adulthood.md) [+W] — attached 2026-10-16 from Weil L.G. et al. (2013), which proposed "Metacognitive ability as a dissociable monitoring component measured by type II signal detection theory".
+- [The adolescent improvement in metacognitive ability is independent of perceptual task performance, which was clamped and uncorrelated with age](../claims/metacognitive-development-independent-of-task-performance.md) [+W] — attached 2026-10-16 from Weil L.G. et al. (2013), which proposed "Metacognitive ability as a dissociable monitoring component measured by type II signal detection theory".
 
 ## The evidence by question
 

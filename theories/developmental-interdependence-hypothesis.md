@@ -17,7 +17,7 @@ sources:
 # The developmental interdependence hypothesis: L2 competence depends partly on L1 competence at the onset of intensive L2 exposure
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 associational, 1 theoretical), `q2`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The developmental interdependence hypothesis is the paper's central explanatory account of how first-language (L1) and second-language (L2) skills relate across development. It proposes that "the development of competence in a second language (L2) is partially a function of the type of competence already developed in Ll at the time when intensive exposure to L2 begins." When a child's L1 is well developed before intensive L2 exposure, high L2 competence can develop at no cost to L1; when L1 is less developed, early intensive L2 exposure impedes continued L1 growth, which in turn limits L2 development. The hypothesis underpins the paper's argument that instruction through the minority child's L1 supports, rather than hinders, L2 acquisition.
@@ -39,8 +39,10 @@ The developmental interdependence hypothesis is the paper's central explanatory 
 - Academic achievement in bilingual education programs
 
 ### Claims
+
 - [L1 Maintenance Supports L2 Without Cost](../claims/l1-maintenance-supports-l2-without-cost.md) [+M]
 - [Mother Tongue Preservation Predicts L2 Achievement](../claims/mother-tongue-preservation-predicts-l2-achievement.md) [+M]
+- [Native signers of ASL show more proficient bilingual abilities than non-native signers](../claims/native-signers-higher-bilingual-abilities.md) [+M] — attached 2026-10-16 from Freel et al. (2011), which proposed "Linguistic Interdependence Theory applied to deaf bilingual education"; tests this page's relationship.
 
 ## Related Theories
 

@@ -1,0 +1,84 @@
+---
+type: claim
+title: Adolescents with Internet addiction show structural and resting-state functional brain alterations, including reduced gray matter density, reduced white matter FA, and decreased connectivity in DMN and CEN
+description: Adolescents with Internet addiction show structural and resting-state functional brain alterations, including reduced gray matter density, reduced white matter FA, and decreased connectivity in DMN and CEN
+id: internet-addiction-adolescent-brain-alterations
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+evidence_strength: weak
+sources:
+  - id: marciano-laura-2021
+    resource: "https://doi.org/10.3389/fpsyg.2021.671817"
+    title: "Marciano Laura, Camerini Anne-Linda, Morese Rosalba. (2021). The Developing Brain in the Digital Era: A Scoping Review of Structural and Functional Correlates of Screen Time in Adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2021.671817"
+    author: Marciano Laura, Camerini Anne-Linda, Morese Rosalba
+    q: 3
+    i: "?"
+    kind: review
+    rigour: 3
+  - id: marciano-laura-2021-2
+    resource: "https://doi.org/10.3389/fpsyg.2021.671817"
+    title: "Marciano Laura, Camerini Anne-Linda, Morese Rosalba. (2021). The Developing Brain in the Digital Era: A Scoping Review of Structural and Functional Correlates of Screen Time in Adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2021.671817"
+    author: Marciano Laura, Camerini Anne-Linda, Morese Rosalba
+    q: 3
+    i: "?"
+    kind: review
+    rigour: 3
+  - id: marciano-laura-2021-3
+    resource: "https://doi.org/10.3389/fpsyg.2021.671817"
+    title: "Marciano Laura, Camerini Anne-Linda, Morese Rosalba. (2021). The Developing Brain in the Digital Era: A Scoping Review of Structural and Functional Correlates of Screen Time in Adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2021.671817"
+    author: Marciano Laura, Camerini Anne-Linda, Morese Rosalba
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: "?"
+---
+
+# Adolescents with Internet addiction show structural and resting-state functional brain alterations, including reduced gray matter density, reduced white matter FA, and decreased connectivity in DMN and CEN
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (3 entries) · review `r3` · `q3`
+
+## Subclaims
+`q3 i?` Internet-addicted adolescents had lower gray matter density in the left ACC and PCC, left insula, and left CG, with no white matter integrity differences. [→ Marciano Laura 2021](#marciano-laura-2021)
+`q3 i?` Internet-addicted adolescents had significantly reduced FA in many white matter tracts, mainly due to increased radial diffusivity. [→ Marciano Laura 2021 (2)](#marciano-laura-2021-2)
+`q3 i?` Internet-addicted adolescents showed reduced functional connectivity in the DMN and a diminished interaction between the DMN and the SN. [→ Marciano Laura 2021 (3)](#marciano-laura-2021-3)
+
+## Evidence
+
+### Marciano Laura 2021
+
+Marciano Laura, Camerini Anne-Linda, Morese Rosalba. (2021). The Developing Brain in the Digital Era: A Scoping Review of Structural and Functional Correlates of Screen Time in Adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2021.671817
+
+`q3 · i?` · `review · r3`
+
+VBM comparison of gray matter density between 18 Internet-addicted and 15 control 17-year-olds; reduced-density regions are linked by the review to emotional and behavioral problems. No effect size printed.
+
+> "The authors found that the Internet-addicted group had lower gray matter density in the left ACC and PCC, left insula, and left CG. However, no differences were found with regards to white matter integrity."
+
+### Marciano Laura 2021 (2)
+
+Marciano Laura, Camerini Anne-Linda, Morese Rosalba. (2021). The Developing Brain in the Digital Era: A Scoping Review of Structural and Functional Correlates of Screen Time in Adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2021.671817
+
+`q3 · i?` · `review · r3`
+
+DTI study of 17 adolescents with Internet addiction and 16 controls aged 17; VOI analyses showed decreased FA was mainly due to increased radial diffusivity, reflecting destructed axons myelination. No effect size printed.
+
+> "Compared to the latter group, Internet addicts had significantly reduced FA in many white matter tracts, such as orbitofrontal tracts, corpus callosum, front-occipital fasciculus, anterior cingulum, corona radiata, internal and external capsule, and tracts of the precentral gyrus."
+
+### Marciano Laura 2021 (3)
+
+Marciano Laura, Camerini Anne-Linda, Morese Rosalba. (2021). The Developing Brain in the Digital Era: A Scoping Review of Structural and Functional Correlates of Screen Time in Adolescence. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2021.671817
+
+`q3 · i?` · `associational · r?`
+
+Resting-state fMRI study of 26 15-year-olds with Internet addiction symptoms and 43 controls focusing on DMN, CEN, and SN; the group also showed reduced inter-hemispheric connectivity of the right CEN. No effect size printed.
+
+> "The group of Internet-addicted adolescents showed reduced functional connectivity in the DMN and a diminished interaction between the DMN and the SN."
+
+## Discussion
+
+
+## Related Claims
+-

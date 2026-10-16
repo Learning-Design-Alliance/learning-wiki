@@ -17,6 +17,8 @@ generated:
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
 
+The Learner Variability Navigator's Core Academic Literacies factor belongs here: fluency across the foundational subjects (mathematical and scientific reasoning, language and literacy, the arts, social studies, technology) and how they connect, which learners build from play and experience in early childhood and then subject by subject.
+
 ## How strongly it relates to achievement
 
 **Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
@@ -162,6 +164,7 @@ A learner's existing domain knowledge in the subject area before instruction beg
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — explains why novice/expert differences reverse the effectiveness of guidance and example formats.
 
 ## Key Sources
+- Digital Promise. *Learner Variability Navigator*: Core Academic Literacies (Portrait of a Learner 4-8, Portrait of a Learner 9-12, Portrait of a Learner PK-3). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/portrait-of-a-learner-4-8/factors/core-academic-literacies-portrait-of-a-learner-4-8/summary). Licensed CC BY-NC 4.0.
 - Dochy, F., Segers, M., & Buehl, M. M. (1999). The relation between assessment practices and outcomes of studies: The case of research on prior knowledge. *Review of Educational Research, 69*(2), 145–186. https://doi.org/10.3102/00346543069002145
 - Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal effect. *Educational Psychologist, 38*(1), 23–31. https://doi.org/10.1207/S15326985EP3801_4
 - Ausubel, D. P. (1968). *Educational psychology: A cognitive view*. Holt, Rinehart & Winston.

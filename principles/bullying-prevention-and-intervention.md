@@ -13,7 +13,7 @@ generated:
 # Bullying Prevention and Intervention
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (20 for, 6 mixed) · 15 studies (5 causal, 5 review, 3 associational, 1 design, 1 theoretical), `q1`–`q3` · 3 of 15 report an effect size · 26 claims rest on one study
+> **Evidence** · 27 claims (21 for, 6 mixed) · 16 studies (6 causal, 5 review, 3 associational, 1 design, 1 theoretical), `q1`–`q3` · 3 of 16 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -110,6 +110,7 @@ Learners, outcomes and reporters differ across these claims (teacher ratings in 
 - [Four-day school weeks decrease per-pupil bullying incidents among high school students by approximately 39%](../claims/four-day-week-decreases-bullying-incidents.md) [+M] — a difference-in-differences study of Oklahoma districts; a schedule change, not a prevention programme, counted from incident records. It shows that school-level arrangements move recorded bullying; it is not a recommendation to cut a day.
 - [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear](../claims/toxic-stress-impedes-learning.md) [+W] — a narrative synthesis giving the mechanism behind step 8; no data printed.
 - [School shooters are rarely the bullied loners of popular stereotype, and bullying prevention alone will not eliminate shootings](../claims/shooters-not-bullied-loners.md) [~M] — a review brief; limits what bullying prevention is expected to prevent, used in the threat row.
+- [Role-plays and ensuing discussions fostered bullying vocabulary, knowledge, metacognition and empathy that the authors credit for the reduction](../claims/role-play-discussion-built-knowledge-empathy.md) [+W] — attached 2026-10-16 from Peadar Donohoe et al. (2015), which proposed "No name, no blame discussion of bullying incidents".
 
 ## Objective and learner-valued goal
 

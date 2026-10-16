@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 9 claims (5 for, 4 mixed) · 8 studies (6 associational, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 3 of 8 report an effect size · 8 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -39,6 +39,14 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 ## Claims
 
 - [AI introduced without pedagogical scaffolding can replace rather than reinforce learners' self-regulatory processes](../claims/unscaffolded-ai-replaces-self-regulation.md) [~W]
+- [Better semantic inhibition (smaller Stroop RT cost) is associated with higher accuracy on counterintuitive science and maths misconception trials](../claims/semantic-inhibition-predicts-misconception-accuracy.md) [+W] — attached 2026-10-16 from Brookman-Byrne A et al. (2018), which proposed "Inhibitory control account of counterintuitive reasoning: naïve theories and misleading cues persist and must be suppressed".
+- [Better response inhibition (complex No-Go accuracy) is associated with longer reaction times on counterintuitive misconception trials, not better performance](../claims/response-inhibition-predicts-longer-misconception-rt.md) [~W] — attached 2026-10-16 from Brookman-Byrne A et al. (2018), which proposed "Inhibitory control account of counterintuitive reasoning: naïve theories and misleading cues persist and must be suppressed".
+- [Bilingually educated high-school students show smaller switching costs (greater cognitive flexibility) than regularly educated peers](../claims/bilingual-education-smaller-switching-costs.md) [+W] — attached 2026-10-16 from I.K. Christoffels et al. (2015), which proposed "Bilingual language use requires and trains a flexible mindset for rapid switching between languages".
+- [Children with developmental dyslexia show a significant inhibition impairment at the error z-mean composite level, which remains after controlling for processing speed](../claims/dyslexia-inhibition-error-composite-impairment.md) [+M] — attached 2026-10-16 from Doyle C et al. (2018), which proposed "Miyake and Friedman's 3-factor model of core executive functions (inhibition, updating, switching)".
+- [Acute exercise significantly improves working memory in children and adolescents with a moderate effect size (SMD = −0.72)](../claims/acute-exercise-improves-working-memory-children.md) [+M] — attached 2026-10-16 from Liu S et al. (2020), which proposed "Diamond's three-factor model of executive functions (inhibitory control, working memory, cognitive flexibility)".
+- [Cognitive flexibility uniquely predicts literacy achievement in Grades 4 and 6, above and beyond fluid intelligence, attention, inhibitory control, working memory, and planning](../claims/cognitive-flexibility-unique-predictor-literacy-grades-4-6.md) [~W] — attached 2026-10-16 from Sofia Magalhães et al. (2020), which proposed "Three-core-component model of executive functions with higher-order components built on top".
+- [Cognitive flexibility uniquely predicts mathematics achievement in Grades 4 and 6, with a larger effect in Grade 6 than in Grade 4](../claims/cognitive-flexibility-unique-predictor-math-grades-4-6.md) [~W] — attached 2026-10-16 from Sofia Magalhães et al. (2020), which proposed "Three-core-component model of executive functions with higher-order components built on top".
+- [Hot executive function (CGT risk adjustment) shows a bell-shaped developmental curve, peaking at age 14 and declining thereafter](../claims/hot-ef-bell-shaped-development.md) [+M] — attached 2026-10-16 from Poon K (2018), which proposed "Hot/cool distinction in executive function: cool EF as logic-driven and hot EF as emotion-driven processes underlying goal-directed behavior"; tests this page's relationship.
 
 ## Related Theories
 

@@ -42,10 +42,6 @@ Narrative review attribution: the review reports, citing Barger et al. and Jones
 ## Discussion
 
 
-## Learner Variables
-- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — predictor: learners who differ on it differ in outcomes
-- [Sleep](../learner-variables/sleep.md) — predictor: learners who differ on it differ in outcomes
-
 ## Related Claims
 - [Extra honours workload causes stress, less free time and reported grade decreases in the main phase](honours-extra-workload-stress-and-grade-decreases.md) — related
 - [Prolonged or overwhelming stress disrupts self-regulation development by physically changing brain wiring toward emotional reactivity](toxic-stress-disrupts-self-regulation-development.md) — related
