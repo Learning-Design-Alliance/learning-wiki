@@ -91,7 +91,7 @@ A meta-analysis of the single-session expressive-writing literature (the paradig
 
 ## Related Claims
 
-- [Online and proctored online exams increase students' test anxiety compared with on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — the general claim this finding bears on, with the studies behind it
+- [Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — the general claim this finding bears on, with the studies behind it
 
 - [Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation](test-anxiety-negative-exam-performance.md) — the general claim this finding bears on, with the studies behind it
 

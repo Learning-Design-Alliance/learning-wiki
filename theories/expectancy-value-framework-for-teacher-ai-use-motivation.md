@@ -44,7 +44,6 @@ A theoretical application of Expectancy-Value Theory to why teachers do or do no
 - [Teacher Utility Value Increases Motivation To Use Ai](../claims/teacher-utility-value-increases-motivation-to-use-ai.md) [+W]
 - [Teacher Intrinsic Interest Value Increases Motivation To Use Ai](../claims/teacher-intrinsic-interest-value-increases-motivation-to-use-ai.md) [+W]
 - [Teacher Perceived Cost Reduces Motivation To Use Ai](../claims/teacher-perceived-cost-reduces-motivation-to-use-ai.md) [+W]
-- [Educators report affective costs of AI-related grading, including derealisation, exhaustion, and burnout](../claims/educator-affective-toll-ai-grading.md) [-W]
 
 ## The evidence by question
 - *Do teachers who are more confident they can use AI well (expectancy) hold more favourable attitudes towards it and use it more?* [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](../claims/teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) [+W]

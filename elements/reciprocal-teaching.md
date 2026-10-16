@@ -53,7 +53,6 @@ Reciprocal Teaching improves comprehension by making strategic reading processes
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [The RT propensity–learning relationship is strongest early in the class session and attenuates later](../claims/rt-learning-relationship-strongest-early-session.md) [~M]
 
 ## The evidence by question
 
@@ -75,7 +74,7 @@ Reciprocal Teaching improves comprehension by making strategic reading processes
 
 ## Examples
 
-**[Palincsar & Brown's original intervention](https://doi.org/10.1207/s1532690xci0202_1)** — Seventh-grade poor comprehenders improved from ~30% to 70–80% on comprehension assessments after 20 days of daily reciprocal teaching sessions; the benchmark design for all later implementations.
+**[Palincsar & Brown's original intervention](https://doi.org/10.1207/s1532690xci0102_1)** — Seventh-grade poor comprehenders improved from ~30% to 70–80% on comprehension assessments after 20 days of daily reciprocal teaching sessions; the benchmark design for all later implementations.
 
 **[Reciprocal Teaching in Reading Rockets](https://www.readingrockets.org/topics/comprehension/articles/reciprocal-teaching-comprehension-strategy)** — Widely used practitioner guide with classroom routines, role cards, and fading schedules for elementary and middle school.
 

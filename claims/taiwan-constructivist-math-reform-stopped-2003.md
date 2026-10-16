@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Taiwan's constructivist mathematics reform, introduced in 1993, was stopped in 2003 after students taught under it underperformed traditionally educated peers in high school"
-description: "Taiwan's constructivist mathematics reform, introduced in 1993, was stopped in 2003 after students taught under it underperformed traditionally educated peers in high school"
+title: "A review's historical account reports that Taiwan's constructivist mathematics reform, introduced in 1993, was stopped in 2003 amid debate over its students underperforming traditionally taught peers in high school"
+description: "A review's historical account reports that Taiwan's constructivist mathematics reform, introduced in 1993, was stopped in 2003 amid debate over its students underperforming traditionally taught peers in high school"
 id: taiwan-constructivist-math-reform-stopped-2003
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 1
 ---
 
-# Taiwan's constructivist mathematics reform, introduced in 1993, was stopped in 2003 after students taught under it underperformed traditionally educated peers in high school
+# A review's historical account reports that Taiwan's constructivist mathematics reform, introduced in 1993, was stopped in 2003 amid debate over its students underperforming traditionally taught peers in high school
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`

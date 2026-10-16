@@ -43,7 +43,7 @@ Task 2 analysis comparing summed psychometric score distributions between human-
 
 
 ## Related Claims
-- [AI-assistant mode inflates self-reported mathematics self-efficacy and suppresses reported anxiety](ai-assistant-mode-inflates-math-self-efficacy.md) — related
+- [LLMs simulating survey respondents under AI-assistant instructions report higher mathematics self-efficacy and lower anxiety than under human-shadow conditioning](ai-assistant-mode-inflates-math-self-efficacy.md) — related
 - Interview-containing prompts increased response diversity for Claude and GPT, while Gemini diversified with demographic-only prompts — related
 - LLM-generated BREQ responses capture overall item-mean patterns but are more extreme and less variable than human responses — a broader claim this one bears on
 - [Priming human shadows as math lovers or haters shifts LLM emotional tone about mathematics](persona-priming-shifts-llm-math-sentiment.md) — related

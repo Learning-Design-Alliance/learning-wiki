@@ -58,7 +58,7 @@ Actively recalling information from memory (rather than rereading or reviewing i
 
 `q3 i3` With prose passages, students who recalled the material outperformed students who restudied it on tests two days and one week later. On a test five minutes later, restudying was ahead. [→ Roediger and Karpicke 2006](#roediger-and-karpicke-2006)
 
-`q3 i?` Repeated testing beat repeated study at a one-week delay, 61% against 40% recall, after both groups had spent the same time with the passage. [→ Roediger & Karpicke 2006](#roediger-and-karpicke-2006)
+`q3 i3` Repeated testing beat repeated study at a one-week delay, 61% against 40% recall, after both groups had spent the same time with the passage. [→ Roediger & Karpicke 2006](#roediger-and-karpicke-2006)
 
 `q3 i?` The ordering reverses at a short delay: on a test taken five minutes after study, repeated study scored *higher* than repeated testing. The benefit is a property of the retention interval, not of the encoding session. [→ Roediger & Karpicke 2006](#roediger-and-karpicke-2006)
 

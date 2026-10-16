@@ -99,7 +99,7 @@ The CCSR framework holds that five in-school supports are all essential for impr
 - [Mistrust between teachers and parents remained a low-level roadblock in 2017, while lack of parental support had grown as a top roadblock for almost one-third of administrators](../claims/parent-support-roadblock-grew-trust-low.md) [~W]
 - [Teacher-principal trust is far more prevalent in top-quartile schools than bottom-quartile schools](../claims/teacher-principal-trust-top-vs-bottom-quartile.md) [~W]
 - [Teachers in top-quartile schools hold their principals in high regard as facilitative, inclusive, committed leaders](../claims/top-quartile-schools-facilitative-principal-leadership.md) [+W]
-- [Strong Supports Cluster Ten Times More Likely To Improve](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+S]
+- [Strong Supports Cluster Ten Times More Likely To Improve](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+M]
 - [Elementary GPA improved more in schools with strong 5Essentials Survey scores, a new outcome beyond the original validation](../claims/elementary-gpa-strong-5essentials-measures.md) [+W]
 - [District-provided instructional resources supported strong practices only when instruction-ready and tied to professional learning; other resources showed a null or negative relationship](../claims/instruction-ready-resources-tied-to-professional-learning.md) [~W]
 - [Freshman OnTrack rates improved by as much as 3.25 percentage points more in high schools with strong 5Essentials Survey measures](../claims/freshman-ontrack-strong-5essentials-measures.md) [+W]
@@ -167,7 +167,7 @@ The UChicago Consortium's framework identifies five organizational domains that 
 
 ### Claims
 
-- [Strong Supports Cluster Ten Times More Likely To Improve](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+S]
+- [Strong Supports Cluster Ten Times More Likely To Improve](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+M]
 - [The five essential supports matter in combination: strength on clusters of supports, not isolated domains, predicts improvement](../claims/supports-matter-in-combined-clusters.md) [+M]
 - [The five essential supports reinforce each other and depend on a school environment infused with mutual trust](../claims/essential-supports-mutual-trust-reinforce-each-other.md) [+W]
 - [Schools strong in the essential supports are more likely to improve student learning over time](../claims/essential-supports-strong-schools-improve-learning.md) [+W]

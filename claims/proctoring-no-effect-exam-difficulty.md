@@ -43,5 +43,5 @@ Multi-level regression with a random intercept for course (18% of variance at co
 
 
 ## Related Claims
-- [Online and proctored online exams increase students' test anxiety compared with on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — related
+- [Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — related
 - [Proctored online exams show no effect on students' exam performance](proctoring-no-effect-exam-performance.md) — related

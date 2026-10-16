@@ -57,8 +57,6 @@ Spaced repetition is the element in which key material is revisited at strategic
 - [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](../claims/spaced-retrieval-multiyear-vocabulary-retention.md) [+W]
 - [The spacing benefit holds even at very short retention intervals, contradicting the Peterson paradox](../claims/spacing-benefit-short-retention-no-peterson-paradox.md) [+W]
 - [Spacing content over time and interweaving different content strengthens learning and retention](../claims/spacing-interleaving-improve-retention.md) [+W]
-- [The training-by-content interaction did not vary with retention interval duration in the human experiment](../claims/no-training-retention-interval-interaction.md) [~W]
-- [Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration](../claims/ai-effect-duration-one-to-two-months-peak.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

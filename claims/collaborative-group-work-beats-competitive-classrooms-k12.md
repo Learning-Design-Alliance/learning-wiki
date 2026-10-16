@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Research at primary and secondary levels indicates students learn more through non-competitive collaborative group work than in individualized competitive classrooms
-description: Research at primary and secondary levels indicates students learn more through non-competitive collaborative group work than in individualized competitive classrooms
+title: A 1994 adult-literacy practice guide asserts, citing no specific study, that primary and secondary students learn more through non-competitive collaborative group work than in individualized competitive classrooms
+description: A 1994 adult-literacy practice guide asserts, citing no specific study, that primary and secondary students learn more through non-competitive collaborative group work than in individualized competitive classrooms
 id: collaborative-group-work-beats-competitive-classrooms-k12
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 1
 ---
 
-# Research at primary and secondary levels indicates students learn more through non-competitive collaborative group work than in individualized competitive classrooms
+# A 1994 adult-literacy practice guide asserts, citing no specific study, that primary and secondary students learn more through non-competitive collaborative group work than in individualized competitive classrooms
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`

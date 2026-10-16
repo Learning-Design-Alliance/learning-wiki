@@ -24,7 +24,7 @@ Transfer does not happen spontaneously; it must be prompted by tasks that differ
 
 ### Context
 #### Requirements
-- Novel problems or scenarios that share deep structure with, but differ in surface features from, instruction [Whole-task performance improves transfer.](../claims/whole-task-performance-improves-transfer.md) [+M]
+- Novel problems or scenarios that share deep structure with, but differ in surface features from, instruction [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+W]
 - Structured reflection prompts (e.g., "Where else does this apply?") rather than unguided "think about it" instructions
 - Sufficient initial learning; transfer activities amplify gaps rather than repair absent knowledge
 - Feedback on transfer attempts, since learners cannot reliably judge the appropriateness of their own generalizations

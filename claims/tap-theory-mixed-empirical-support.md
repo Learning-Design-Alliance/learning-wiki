@@ -9,8 +9,9 @@ generated:
   at: 2026-10-13
 evidence_strength: weak
 sources:
-  - id: tap-1
-    title: tap-1
+  - id: rowland-2014
+    resource: "https://doi.org/10.1037/a0037559"
+    title: Rowland 2014
     q: 2
     i: "?"
     kind: quant-synthesis
@@ -23,13 +24,13 @@ sources:
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2`
 
 ## Subclaims
-`q2 i?` Empirical support for TAP theory is mixed: some studies fit its predictions while others produced results problematic for it. [→ tap-1](#tap-1)
+`q2 i?` Empirical support for TAP theory is mixed: some studies fit its predictions while others produced results problematic for it. [→ Rowland 2014](#rowland-2014)
 
 ## Evidence
 
-### tap-1
+### Rowland 2014
 
-Rowland, C. A. (2014, August 25). The Effect of Testing Versus Restudy on Retention: A Meta-Analytic Review of the Testing Effect. Psychological Bulletin. http://dx.doi.org/10.1037/a0037559
+Rowland, C. A. (2014, August 25). The Effect of Testing Versus Restudy on Retention: A Meta-Analytic Review of the Testing Effect. *Psychological Bulletin, 140*(6), 1432–1463. [doi:10.1037/a0037559](https://doi.org/10.1037/a0037559)
 
 `q2 · i?` · `quant-synthesis · r?`
 

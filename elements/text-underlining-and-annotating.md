@@ -18,7 +18,7 @@ sources:
     title: "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques. *Psychological Science in the Public Interest, 14*(1), 4–58"
     author: "Dunlosky, J., et al."
   - id: chi-2014
-    resource: "https://doi.org/10.1037/a0033173"
+    resource: "https://doi.org/10.1080/00461520.2014.965823"
     title: "Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243"
     author: "Chi, M. T. H., & Wylie, R"
 ---
@@ -33,7 +33,7 @@ A study aid involving marking text to indicate importance. Underlining (or highl
 
 ## Design Implications
 
-Underlining alone is one of the weakest studied techniques for durable learning; Dunlosky et al. rate it low utility because it rarely improves performance relative to simply reading [Highlighting and underlining show minimal benefit over reading alone across most studies.](../claims/experimenter-underlining-effective-as-student-underlining.md) [~M]. Its value depends on *what* gets marked: learners who underline high-relevant content perform better than those who mark low-relevant content, and many students — especially novices — select poorly [Nist & Hogrebe, 1985](https://eric.ed.gov/?id=ED265520) [~M]. Annotating, which requires learners to paraphrase, question, or connect ideas, engages generative processing and produces stronger comprehension than passive marking [Chi & Wylie, 2014](https://doi.org/10.1037/a0033173) [+M].
+Underlining alone is one of the weakest studied techniques for durable learning; Dunlosky et al. rate it low utility because it rarely improves performance relative to simply reading [Highlighting and underlining show minimal benefit over reading alone across most studies.](../claims/highlighting-low-utility.md) [~M]. Its value depends on *what* gets marked: learners who underline high-relevant content perform better than those who mark low-relevant content, and many students — especially novices — select poorly [Nist & Hogrebe, 1985](https://eric.ed.gov/?id=ED265520) [~M]. Annotating, which requires learners to paraphrase, question, or connect ideas, engages generative processing and produces stronger comprehension than passive marking [Chi & Wylie, 2014](https://doi.org/10.1080/00461520.2014.965823) [+M].
 
 ### Context
 #### Requirements
@@ -61,7 +61,7 @@ Underlining alone is one of the weakest studied techniques for durable learning;
 
 ### Affordances
 - [Annotating](../principles/annotating.md) — this element is the concrete enactment of the annotating principle; marginal notes convert reading from passive reception into generative processing
-- [Active Learning](../principles/active-learning.md) — annotation is a low-cost active-reading move; per the ICAP framework, generative marking (constructive) outperforms passive reading [Chi & Wylie, 2014](https://doi.org/10.1037/a0033173)
+- [Active Learning](../principles/active-learning.md) — annotation is a low-cost active-reading move; per the ICAP framework, generative marking (constructive) outperforms passive reading [Chi & Wylie, 2014](https://doi.org/10.1080/00461520.2014.965823)
 - [Chunking](../principles/chunking.md) — marking boundaries between ideas segments text into reviewable units, reducing the load of re-reading long passages
 - [Clear Structure](../principles/clear-structure.md) — consistent marking conventions (e.g., underline = claim, margin note = question) make a text's argumentative structure visible on re-reading
 

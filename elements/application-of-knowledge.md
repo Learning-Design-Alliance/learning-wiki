@@ -20,7 +20,7 @@ Application of Knowledge asks learners to use newly acquired concepts, procedure
 
 ## Design Implications
 
-Application is where learning consolidates: retrieving and using knowledge in varied contexts strengthens retention and supports transfer far better than restudy alone [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. Application tasks should present the whole problem, not isolated fragments, because whole-task practice builds the integrated schemas needed for real performance [Whole-task practice supports transfer better than part-task practice alone.](../claims/whole-task-performance-improves-transfer.md) [+M]. Prompting learners to explain their reasoning during application further deepens conceptual understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
+Application is where learning consolidates: retrieving and using knowledge in varied contexts strengthens retention and supports transfer far better than restudy alone [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. Application tasks should present the whole problem, not isolated fragments, because whole-task practice builds the integrated schemas needed for real performance [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+W]. Prompting learners to explain their reasoning during application further deepens conceptual understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Application is where learning consolidates: retrieving and using knowledge in va
 - Novices benefit only when application is heavily scaffolded or preceded by worked examples [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]
 
 ### Target Learning Goals
-- Transfer: using concepts in novel, real-world situations [Whole-task practice supports transfer better than part-task practice alone.](../claims/whole-task-performance-improves-transfer.md) [+M]
+- Transfer: using concepts in novel, real-world situations [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+W]
 - Integration: connecting declarative knowledge to procedural skill
 - Diagnosis and judgment: recognizing which concept applies in a messy, ill-structured situation
 - Retention: strengthening memory through retrieval and use [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]

@@ -66,7 +66,7 @@ Same assessment findings section: students advocate diverse assessment options i
 
 ## Related Claims
 
-- [Online and proctored online exams increase students' test anxiety compared with on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — the general claim this finding bears on, with the studies behind it
+- [Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — the general claim this finding bears on, with the studies behind it
 - [In CPS ninth-grade math sections using mastery-based or weekly grading, those categories determined nearly all of the final grade; otherwise assessments carried the highest weight, with a median of 60 percent exceeding the CPS/CTU 50 percent recommendation](cps-gradebook-category-weights-assessments-dominate.md) — related
 - [Ninth-grade math teachers on average weighted assessments most heavily (57%), assignments next (36%), and behavior little (7%)](teacher-grading-category-weights-assessments-dominant.md) — related
 - [Most teachers believe their REACH evaluation relies too heavily on student growth and question the fairness of the growth assessments](reach-teachers-question-student-growth-weight-fairness.md) — related

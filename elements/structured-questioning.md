@@ -56,7 +56,7 @@ Structured questioning promotes deeper processing by requiring learners to gener
 ### Target Learning Goals
 - Conceptual understanding: explaining why, not just what
 - Metacognition: monitoring one's own reasoning in response to probing questions
-- Inquiry skills: eventually generating one's own questions [Teaching students to generate questions improves comprehension.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
+- Inquiry skills: eventually generating one's own questions [Teaching students to generate questions improves comprehension.](../claims/self-questioning-improves-comprehension.md) [+M]
 
 ### Affordances
 - [Constructivism](../principles/cognitive-activation.md) — structured questioning enacts this principle by making learners actively construct explanations rather than receive transmitted content, while the structure prevents the failure modes of unguided discovery

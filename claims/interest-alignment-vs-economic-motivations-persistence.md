@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Interest alignment is highest among course completers while economic motivations (higher pay, better benefits, increased stability) are highest among non-completers
-description: Interest alignment is highest among course completers while economic motivations (higher pay, better benefits, increased stability) are highest among non-completers
+title: Interest alignment was rated highest by course completers and lowest by apprenticeship completers, while economic motivations (higher pay, better benefits, increased stability) were rated highest by non-completers
+description: Interest alignment was rated highest by course completers and lowest by apprenticeship completers, while economic motivations (higher pay, better benefits, increased stability) were rated highest by non-completers
 id: interest-alignment-vs-economic-motivations-persistence
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Interest alignment is highest among course completers while economic motivations (higher pay, better benefits, increased stability) are highest among non-completers
+# Interest alignment was rated highest by course completers and lowest by apprenticeship completers, while economic motivations (higher pay, better benefits, increased stability) were rated highest by non-completers
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`

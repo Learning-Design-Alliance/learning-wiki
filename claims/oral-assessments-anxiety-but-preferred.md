@@ -47,7 +47,7 @@ The review reports, citing Huxham et al. (2012), a comparison of student anxiety
 
 ## Related Claims
 
-- [Online and proctored online exams increase students' test anxiety compared with on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — the general claim this finding bears on, with the studies behind it
+- [Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — the general claim this finding bears on, with the studies behind it
 - [No evidence found that particular student groups are disadvantaged in oral versus written assessments](no-group-disadvantage-oral-assessments.md) — related
 - [Retrieval practice benefits learners regardless of trait anxiety level, but higher trait or induced anxiety is associated with smaller testing effects](higher-anxiety-is-associated-with-smaller-testing-effects.md) — related
 - [Students performed better on oral measures than written measures in comparison studies](students-perform-better-oral-than-written.md) — related

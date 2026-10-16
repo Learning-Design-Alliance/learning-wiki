@@ -35,7 +35,7 @@ Drawing on new materialist and posthumanist theory (Barad's concept of intra-act
 
 ## Claims
 
-- [Material choice, not just instruction, shapes conceptual learning and who feels invited to learn](../claims/material-choice-shapes-conceptual-learning-and-participation.md) [+S]
+- [Material choice, not just instruction, shapes conceptual learning and who feels invited to learn](../claims/material-choice-shapes-conceptual-learning-and-participation.md) [+M]
 - [Despite a student's claims of purely human authorial agency, posthumanist analysis of his AI-mediated revision shows meaning co-produced through human-AI entanglement](../claims/zhimo-revision-meaning-negotiation.md) [+W] — attached 2026-10-12 from Zhaozhe Wang (2025), which proposed "Assemblage and rhizomaticity as posthumanist concepts for AI-mediated literacy".
 - [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](../claims/ai-non-neutral-embeds-power-relations.md) [+W]
 - [Interactive dialogue with the AI tool, available only in some sites, promoted deeper engagement and student agency during revision](../claims/interactive-genai-dialogue-promotes-engagement.md) [~W]

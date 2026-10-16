@@ -9,6 +9,7 @@ generated:
 evidence_strength: mixed
 sources:
   - id: mischel-ebbesen-and-raskoff-zeiss-1972
+    resource: "https://doi.org/10.1037/h0032198"
     title: "Mischel, W., Ebbesen, E. B., & Raskoff Zeiss, A. (1972). Cognitive and attentional mechanisms in delay of gratification. *Journal of Personality and Social Psychology, 21*(2), 204-218."
     author: "Mischel, W., Ebbesen, E. B., & Raskoff Zeiss, A."
     q: 3
@@ -44,7 +45,7 @@ Walter Mischel's "marshmallow test" is one of the best-known studies in developm
 
 ### Mischel, Ebbesen, and Raskoff Zeiss 1972
 
-Mischel, W., Ebbesen, E. B., & Raskoff Zeiss, A. (1972). Cognitive and attentional mechanisms in delay of gratification. *Journal of Personality and Social Psychology, 21*(2), 204-218.
+Mischel, W., Ebbesen, E. B., & Raskoff Zeiss, A. (1972). Cognitive and attentional mechanisms in delay of gratification. *Journal of Personality and Social Psychology, 21*(2), 204-218. [doi:10.1037/h0032198](https://doi.org/10.1037/h0032198)
 
 `q3 · original experimental study, later extended into a longitudinal follow-up (Mischel, Shoda, & Rodriguez, 1989)` · `i? · no source text available to check; the entry prints no effect size` · `n=hundreds of preschoolers in the original series` · `causal · r?`
 

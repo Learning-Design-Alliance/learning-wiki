@@ -47,4 +47,4 @@ Distributional comparison of originality scores by item response prompting strat
 - [Human-shadow prompting generates broad psychometric variance while AI-assistant responses are uniform](human-shadow-prompting-generates-psychometric-variance.md) — related
 - Interview-containing prompts increased response diversity for Claude and GPT, while Gemini diversified with demographic-only prompts — related
 - LLM-generated BREQ responses capture overall item-mean patterns but are more extreme and less variable than human responses — related
-- [AI-assistant mode inflates self-reported mathematics self-efficacy and suppresses reported anxiety](ai-assistant-mode-inflates-math-self-efficacy.md) — related
+- [LLMs simulating survey respondents under AI-assistant instructions report higher mathematics self-efficacy and lower anxiety than under human-shadow conditioning](ai-assistant-mode-inflates-math-self-efficacy.md) — related

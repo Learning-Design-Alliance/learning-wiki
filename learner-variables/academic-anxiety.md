@@ -37,7 +37,6 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [AI anxiety is negatively associated with academic motivation among university students, in both bivariate and regression analyses](../claims/ai-anxiety-negatively-associated-academic-motivation.md) [+W] — learners who differ on it differ in outcomes
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](../claims/ai-reduces-fl-anxiety-private-practice.md) [+M] — instruction changes it
 - [AI simulation induced higher state anxiety than standardized patient simulation in one RCT, while qualitative studies reported reduced anxiety](../claims/ai-simulation-anxiety-divergent.md) [~M] — instruction changes it
-- [AI-assistant mode inflates self-reported mathematics self-efficacy and suppresses reported anxiety](../claims/ai-assistant-mode-inflates-math-self-efficacy.md) [+M] — instruction changes it
 - [AI-assisted pair programming significantly reduced programming anxiety compared to individual programming](../claims/ai-assisted-pair-programming-reduces-programming-anxiety.md) [+M] — instruction changes it
 - [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear](../claims/toxic-stress-impedes-learning.md) [+M] — learners who differ on it differ in outcomes
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](../claims/flca-linked-with-oral-performance-japanese-efl.md) [+W] — learners who differ on it differ in outcomes
@@ -66,7 +65,7 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Mindfulness practices are linked to academic improvements including reduced test anxiety, focus, and reading competence](../claims/mindfulness-academic-improvement-links.md) [+W] — instruction changes it
 - [Most middle and high school students surveyed after classroom retrieval practice programs viewed them positively and said frequent retrieval practice helped them feel less nervous about exams](../claims/students-report-classroom-retrieval-practice-helps-learning-and-reduces-exam-nervousness.md) [+W] — instruction changes it
-- [Online and proctored online exams increase students' test anxiety compared with on-campus exams and non-proctored online exams](../claims/proctored-online-exams-increase-test-anxiety.md) [+M] — instruction changes it
+- [Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams](../claims/proctored-online-exams-increase-test-anxiety.md) [+M] — instruction changes it
 - [Oral assessments can induce more anxiety than written ones, yet many students still prefer them](../claims/oral-assessments-anxiety-but-preferred.md) [+W] — instruction changes it
 - [Perceived school support, AI learning self-efficacy, and AI perceived usefulness each show negative paths to AI learning anxiety](../claims/support-and-appraisals-negatively-predict-ai-learning-anxiety.md) [+M] — instruction changes it
 - [Poorly designed or misused assessment practices can harm students through increased anxiety, lost learning time, and deficit-based messages](../claims/poor-assessment-practices-harm-students-anxiety-lost-time.md) [+W] — instruction changes it
@@ -98,7 +97,7 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]
-- *Does the format and setting of an assessment change how anxious learners are about it?* [Online and proctored online exams increase students' test anxiety compared with on-campus exams and non-proctored online exams](../claims/proctored-online-exams-increase-test-anxiety.md) [+M]
+- *Does the format and setting of an assessment change how anxious learners are about it?* [Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams](../claims/proctored-online-exams-increase-test-anxiety.md) [+M]
 - *Does private, low-pressure and repeated practice lower learners' anxiety about using a second language?* [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](../claims/ai-reduces-fl-anxiety-private-practice.md) [+M]
 
 ## Related Learner Variables

@@ -20,7 +20,7 @@ Audience analysis (often called learner analysis) is the systematic investigatio
 
 ## Design Implications
 
-Audience analysis improves learning primarily by aligning instruction with learners' prior knowledge: what learners already know is the strongest single predictor of how much they benefit from a given treatment [Activation of prior knowledge improves learning outcomes.](../claims/activation-improves-learning.md) [+M]. It also prevents two opposite failure modes — instruction pitched above the audience, which overloads working memory [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S], and instruction pitched below it, which wastes time and disengages. Analysis should cover cognitive characteristics (prior knowledge, misconceptions), affective characteristics (motivation, anxiety, perceived belonging), and contextual constraints (time, technology, language).
+Audience analysis improves learning primarily by aligning instruction with learners' prior knowledge: what learners already know is the strongest single predictor of how much they benefit from a given treatment [Prior knowledge determines new learning](../claims/prior-knowledge-determines-new-learning.md) [+M]. It also prevents two opposite failure modes — instruction pitched above the audience, which overloads working memory [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S], and instruction pitched below it, which wastes time and disengages. Analysis should cover cognitive characteristics (prior knowledge, misconceptions), affective characteristics (motivation, anxiety, perceived belonging), and contextual constraints (time, technology, language).
 
 ### Context
 #### Requirements
@@ -36,7 +36,7 @@ Audience analysis improves learning primarily by aligning instruction with learn
 - In large-scale or open courses (MOOCs), the audience is heterogeneous and unknowable in advance; a single analysis cannot serve all learners [~S]
 
 ### Target Learners
-- Novices, whose learning depends heavily on how well instruction activates and builds on what they already know [Activation of prior knowledge improves learning outcomes.](../claims/activation-improves-learning.md) [+M]
+- Novices, whose learning depends heavily on how well instruction activates and builds on what they already know [Prior knowledge determines new learning](../claims/prior-knowledge-determines-new-learning.md) [+M]
 - Learners with limited proficiency in the language of instruction, for whom vocabulary and syntax decisions are decisive
 - Less critical for expert audiences, who adapt flexibly to mismatched instruction — though the [expertise reversal effect](../theories/expertise-reversal-effect.md) means misaligned support can still actively harm experts [~M]
 

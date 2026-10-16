@@ -20,7 +20,7 @@ Scaffolded inquiry sequences learning tasks so that learners begin with heavily 
 
 ## Design Implications
 
-Scaffolded inquiry resolves the central tension of inquiry learning: open exploration benefits motivation and transfer, but unguided discovery overloads novice working memory and often fails [Minimal guidance is less effective for novices than guided instruction.](../claims/expertise-reversal-effect.md) [-S]. Embedding scaffolds — question templates, evidence-checklists, [Coaching](coaching.md) prompts — preserves the epistemic experience of inquiry while preventing unproductive search [Inquiry teaching with scaffolds outperforms both pure discovery and pure direct instruction.](../claims/contingent-scaffolding-improves-learning.md) [+M]. The defining design decision is the fading schedule: supports must be withdrawn as competence grows, or learners remain dependent on external structure [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
+Scaffolded inquiry resolves the central tension of inquiry learning: open exploration benefits motivation and transfer, but unguided discovery overloads novice working memory and often fails [Minimal guidance is less effective for novices than guided instruction.](../claims/minimal-guidance-less-effective-for-novices.md) [-S]. Embedding scaffolds — question templates, evidence-checklists, [Coaching](coaching.md) prompts — preserves the epistemic experience of inquiry while preventing unproductive search [Inquiry teaching with scaffolds outperforms both pure discovery and pure direct instruction.](../claims/contingent-scaffolding-improves-learning.md) [+M]. The defining design decision is the fading schedule: supports must be withdrawn as competence grows, or learners remain dependent on external structure [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Scaffolded inquiry resolves the central tension of inquiry learning: open explor
 - Opportunities for learners to articulate and justify their reasoning ([Self-Explanation](self-explanation.md) prompts, group argumentation)
 
 #### Constraints
-- Unguided or minimally guided inquiry produces weaker outcomes for novices than scaffolded or explicit approaches [Minimal guidance is less effective for novices than guided instruction.](../claims/expertise-reversal-effect.md) [-S] — pure discovery wastes working memory on unproductive search
+- Unguided or minimally guided inquiry produces weaker outcomes for novices than scaffolded or explicit approaches [Minimal guidance is less effective for novices than guided instruction.](../claims/minimal-guidance-less-effective-for-novices.md) [-S] — pure discovery wastes working memory on unproductive search
 - Scaffolds that are never faded create learned dependence; learners fail to develop independent inquiry routines [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [-M]
 - Fading too early — before learners have usable schemas — causes frustration and abandonment of inquiry strategies [Inquiry teaching with scaffolds outperforms both pure discovery and pure direct instruction.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 - Requires substantial instructor time for diagnosis and responsive coaching; poorly resourced implementations often default to either full direction or full abandonment

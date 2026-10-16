@@ -40,7 +40,7 @@ The article recommends that preschool institutions modernize curricula to includ
 
 - [Ef Significant Effect Semantic Fluency Preschool](../claims/ef-significant-effect-semantic-fluency-preschool.md) [+M]
 - [Pass Both Ef Tom Higher Semantic Fluency](../claims/pass-both-ef-tom-higher-semantic-fluency.md) [+M]
-- [False Belief Training No Language Effect](../claims/false-belief-training-no-language-effect.md) [~M]
+- [False Belief Training No Language Effect](../claims/false-belief-training-no-language-effect.md) [~W]
 - [Theory of mind effect on semantic fluency in preschool children is statistically non-significant but approaches significance](../claims/tom-marginal-non-significant-semantic-fluency.md) [-W]
 
 ## The evidence by question

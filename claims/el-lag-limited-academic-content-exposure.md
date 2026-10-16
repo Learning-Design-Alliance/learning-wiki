@@ -1,7 +1,7 @@
 ---
 type: claim
-title: ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content
-description: ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content
+title: English learners lag behind their peers in achievement and attainment; limited exposure to academic content is offered as a partial explanation, not tested
+description: English learners lag behind their peers in achievement and attainment; limited exposure to academic content is offered as a partial explanation, not tested
 id: el-lag-limited-academic-content-exposure
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content
+# English learners lag behind their peers in achievement and attainment; limited exposure to academic content is offered as a partial explanation, not tested
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`

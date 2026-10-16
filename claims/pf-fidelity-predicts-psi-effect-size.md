@@ -58,5 +58,5 @@ Meta-regression within the three-level meta-analytic model on 166 comparisons, u
 ## Related Claims
 
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — the general claim this finding bears on, with the studies behind it
-- [For domain-general skills, effect sizes favor I-PS over PS-I](domain-general-skills-favor-ips.md) — related
+- [For domain-general skills, one meta-analysis finds a negligible effect (g = −0.17) in favour of I-PS over PS-I](domain-general-skills-favor-ips.md) — related
 - [In one meta-regression, the PS-I fidelity benefit tended to shrink for interventions spanning only a few hours, a marginal interaction (p = .055)](psi-fidelity-time-span-interaction.md) — related

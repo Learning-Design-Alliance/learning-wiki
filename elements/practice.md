@@ -42,7 +42,7 @@ Practice is one of the most consistently supported instructional elements: activ
 
 ### Target Learning Goals
 - Procedural fluency: automating steps so working memory is freed for higher-order reasoning
-- Retention: strengthening memory through retrieval rather than review [Retrieval practice improves long-term retention.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
+- Retention: strengthening memory through retrieval rather than review [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
 - Transfer: whole-task practice under varied conditions supports application to new problems [Whole-task performance improves transfer.](../claims/whole-task-performance-improves-transfer.md) [+M]
 
 ### Affordances

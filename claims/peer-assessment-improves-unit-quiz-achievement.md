@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Participating in peer assessment causes a small but significant improvement in short-term achievement on unit quizzes in a college statistics course
-description: Participating in peer assessment causes a small but significant improvement in short-term achievement on unit quizzes in a college statistics course
+title: Participating in peer assessment produced a statistically significant but negligible improvement (d = .115) in short-term achievement on unit quizzes in a college statistics course
+description: Participating in peer assessment produced a statistically significant but negligible improvement (d = .115) in short-term achievement on unit quizzes in a college statistics course
 id: peer-assessment-improves-unit-quiz-achievement
 status: review
 generated:
@@ -17,7 +17,7 @@ sources:
     rigour: 2
 ---
 
-# Participating in peer assessment causes a small but significant improvement in short-term achievement on unit quizzes in a college statistics course
+# Participating in peer assessment produced a statistically significant but negligible improvement (d = .115) in short-term achievement on unit quizzes in a college statistics course
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible

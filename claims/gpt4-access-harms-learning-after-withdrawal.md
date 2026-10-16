@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal
-description: Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal
+title: Reviews citing one randomised trial (Bastani et al. 2025) report that unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal
+description: Reviews citing one randomised trial (Bastani et al. 2025) report that unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal
 id: gpt4-access-harms-learning-after-withdrawal
 aliases: [gpt4-practice-gains-exam-loss-cognitive-debt, unrestricted-chatgpt-worse-exam-scores, guarded-ai-placement-prevents-unaided-exam-harm, gpt-access-supported-practice-poorer-unaided-test, offloading-to-ai-costs-learning, unrestricted-gpt4-practice-gains-exam-decline-guardrail-mitigates, ai-performance-mastery-decoupling-review-report, ai-assistant-short-term-gains-harm-durable-learning, learning-performance-paradox-ai]
 status: review
@@ -44,7 +44,7 @@ sources:
     rigour: 3
 ---
 
-# Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal
+# Reviews citing one randomised trial (Bastani et al. 2025) report that unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 4 studies · 2 theoretical `r3`, 1 review `r2`, 1 qualitative `r1` · `q1`–`q2`

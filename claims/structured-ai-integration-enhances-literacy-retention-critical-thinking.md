@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Structured integration of AI can enhance students' digital literacy, content retention, and critical thinking skills in the academic context"
-description: "Structured integration of AI can enhance students' digital literacy, content retention, and critical thinking skills in the academic context"
+title: "The authors of one course-based design study conclude, without printed measures, that structured AI integration can enhance students' digital literacy, content retention and critical thinking"
+description: "The authors of one course-based design study conclude, without printed measures, that structured AI integration can enhance students' digital literacy, content retention and critical thinking"
 id: structured-ai-integration-enhances-literacy-retention-critical-thinking
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: "?"
 ---
 
-# Structured integration of AI can enhance students' digital literacy, content retention, and critical thinking skills in the academic context
+# The authors of one course-based design study conclude, without printed measures, that structured AI integration can enhance students' digital literacy, content retention and critical thinking
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`

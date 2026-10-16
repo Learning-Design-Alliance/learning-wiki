@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 
 ## Subclaims
-`q3 i2` Across five studies analyzed under a fixed-effect model, creativity-based learning environments yielded a pooled effect size of 0.850 on academic achievement, interpreted as large under Thalheimer and Cook's classification. [→ Şenel Elaldı 2016](#senel-elald-2016)
+`q3 i3` Across five studies analyzed under a fixed-effect model, creativity-based learning environments yielded a pooled effect size of 0.850 on academic achievement, interpreted as large under Thalheimer and Cook's classification. [→ Şenel Elaldı 2016](#senel-elald-2016)
 
 ## Evidence
 
@@ -33,7 +33,7 @@ sources:
 
 Şenel Elaldı, Veli Batdı. (2016). The Effects of Different Applications on Creativity Regarding Academic Achievement: A Meta-Analysis. Journal of Education and Training Studies. http://dx.doi.org/10.11114/jets.v4i1.1097
 
-`q3 · i2` · `quant-synthesis · r2`
+`q3 · i3` · `quant-synthesis · r2`
 
 Meta-analysis of five CBL studies using Hedges' d under a fixed-effect model; the pooled ES was 0.850 with a 95% CI of 0.612 to 1.088, described as "positive and significant" and large per Thalheimer and Cook (2002).
 

@@ -29,7 +29,7 @@ sources:
 # Automatic word recognition frees resources for comprehension
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 sources · `q1`–`q2` theoretical model and review · `i2` · mechanism, not outcome
+> **Evidence** · 2 sources · `q1`–`q2` theoretical model and review · `i?` · mechanism, not outcome
 
 When word-level decoding becomes automatic, working-memory resources that would otherwise be consumed by decoding are released for higher-level comprehension processes such as integrating ideas and building a situation model.
 

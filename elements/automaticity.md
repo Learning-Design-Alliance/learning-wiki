@@ -20,7 +20,7 @@ Automaticity is the state in which a component skill — decoding words, retriev
 
 ## Design Implications
 
-Automaticity of component skills is a precondition for complex performance: readers who decode laboriously cannot also construct meaning, and students retrieving arithmetic facts effortfully cannot also reason about problem structure [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Instruction should therefore identify the component skills a complex task depends on and drive those components to fluency *before or alongside* instruction on the complex task itself. Practice aimed at automaticity must be distributed over time and continued past the first correct performance — accuracy is not fluency [Chunking reduces working-memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
+Automaticity of component skills is a precondition for complex performance: readers who decode laboriously cannot also construct meaning, and students retrieving arithmetic facts effortfully cannot also reason about problem structure [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Instruction should therefore identify the component skills a complex task depends on and drive those components to fluency *before or alongside* instruction on the complex task itself. Practice aimed at automaticity must be distributed over time and continued past the first correct performance — accuracy is not fluency [Chunking reduces working-memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements
@@ -36,7 +36,7 @@ Automaticity of component skills is a precondition for complex performance: read
 - For skills that remain genuinely effortful even with practice (e.g., first-language reading comprehension of novel text), expecting automaticity misallocates instructional time [~W]
 
 ### Target Learners
-- Novices in any symbol-based domain: beginning readers, early arithmetic learners, music students, novice programmers [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Novices in any symbol-based domain: beginning readers, early arithmetic learners, music students, novice programmers [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Struggling learners whose slow component processing consumes the working memory they need for comprehension — this group benefits most from targeted fluency building
 - Learners who are already fluent in a component gain nothing from further automatization; instruction should move on
 

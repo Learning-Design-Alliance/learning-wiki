@@ -20,7 +20,7 @@ Inquiry and research place learners in the role of investigator: they pose or re
 
 ## Design Implications
 
-Inquiry supports deep conceptual understanding and transfer when learners have enough structure to avoid unproductive search, but pure discovery without guidance is consistently less effective than guided inquiry [Minimal guidance during inquiry produces poor learning outcomes for novices.](../claims/worked-examples-reduce-novice-search.md) [-S]. Structured prompts — question frameworks, data-organization templates, [Advance Organizers](advance-organizers.md) — preserve the motivational and epistemic benefits of investigation while preventing cognitive overload [Guided inquiry outperforms unguided discovery.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Requiring learners to explain and justify their findings converts investigation into durable understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
+Inquiry supports deep conceptual understanding and transfer when learners have enough structure to avoid unproductive search, but pure discovery without guidance is consistently less effective than guided inquiry [Minimal guidance during inquiry produces poor learning outcomes for novices.](../claims/minimal-guidance-less-effective-for-novices.md) [-S]. Structured prompts — question frameworks, data-organization templates, [Advance Organizers](advance-organizers.md) — preserve the motivational and epistemic benefits of investigation while preventing cognitive overload [Guided inquiry outperforms unguided discovery.](../claims/minimal-guidance-less-effective-for-novices.md) [+M]. Requiring learners to explain and justify their findings converts investigation into durable understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ### Context
 #### Requirements
@@ -30,9 +30,9 @@ Inquiry supports deep conceptual understanding and transfer when learners have e
 - Opportunities to articulate, defend, and revise findings ([Argumentation](argumentation.md), [Class Discussion](class-discussion.md))
 
 #### Constraints
-- Unguided discovery with novices produces minimal learning and can entrench misconceptions [Minimal guidance during inquiry produces poor learning outcomes for novices.](../claims/worked-examples-reduce-novice-search.md) [-S]
+- Unguided discovery with novices produces minimal learning and can entrench misconceptions [Minimal guidance during inquiry produces poor learning outcomes for novices.](../claims/minimal-guidance-less-effective-for-novices.md) [-S]
 - Effectiveness declines sharply when learners lack domain knowledge to recognize relevant evidence [Guidance becomes more necessary as learner expertise decreases.](../claims/worked-examples-less-effective-with-expertise.md) [~S]
-- Open-ended research tasks can overload working memory when learners must simultaneously manage the question, the search process, and the content [Guided inquiry outperforms unguided discovery.](../claims/self-explanation-improves-conceptual-understanding.md) [-M]
+- Open-ended research tasks can overload working memory when learners must simultaneously manage the question, the search process, and the content [Guided inquiry outperforms unguided discovery.](../claims/minimal-guidance-less-effective-for-novices.md) [-M]
 - Time-intensive; poorly suited when learning goals require broad content coverage in limited time
 
 ### Target Learners

@@ -56,7 +56,6 @@ Adaptive difficulty adjusts task challenge in response to learner performance so
 - [Imbalanced challenge and support causes novice library learners to give up or remain dependent (authors' asserted relationship)](../claims/challenge-support-imbalance-effects-novice-learners.md) [~W]
 - [Case study shows tutor scaffolding lowers estimated task difficulty after errors while student ability rises steadily](../claims/case-study-scaffolding-lowers-difficulty-ability-rises.md) [+W]
 - [A proposed effort-guided adaptive test alleviates item difficulty mistargeting caused by unmotivated test taking, as shown by simulation](../claims/effort-guided-adaptive-test-alleviates-mistargeting.md) [~W]
-- [Performance is best at moderate difficulty granularity and a limited recent window for domain transitions](../claims/moderate-difficulty-granularity-window-optimal.md) [~W]
 
 ## The evidence by question
 

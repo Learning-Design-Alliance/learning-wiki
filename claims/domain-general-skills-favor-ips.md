@@ -1,7 +1,7 @@
 ---
 type: claim
-title: For domain-general skills, effect sizes favor I-PS over PS-I
-description: For domain-general skills, effect sizes favor I-PS over PS-I
+title: For domain-general skills, one meta-analysis finds a negligible effect (g = −0.17) in favour of I-PS over PS-I
+description: For domain-general skills, one meta-analysis finds a negligible effect (g = −0.17) in favour of I-PS over PS-I
 id: domain-general-skills-favor-ips
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 3
 ---
 
-# For domain-general skills, effect sizes favor I-PS over PS-I
+# For domain-general skills, one meta-analysis finds a negligible effect (g = −0.17) in favour of I-PS over PS-I
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i0` negligible

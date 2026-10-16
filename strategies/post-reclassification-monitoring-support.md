@@ -9,8 +9,8 @@ generated:
   at: 2026-10-09
 sources:
   - id: faulkner-bond-2026
-    resource: "https://www.wested.org/resource/finding-the-sweet-spot-for-english-learner-reclassification/"
-    title: "Faulkner-Bond, M. (2026). Rethinking English Learner reclassification in California: What research says about the state's criteria. WestEd. https://www.wested.org/resource/finding-the-sweet-spot-for-english-learner-reclassification/"
+    resource: "https://eric.ed.gov/?id=ED681358"
+    title: "Faulkner-Bond, M. (2026). Rethinking English Learner reclassification in California: What research says about the state's criteria. WestEd. https://eric.ed.gov/?id=ED681358"
     author: Faulkner-Bond, M
 ---
 
@@ -46,4 +46,4 @@ The brief recommends integrating post-reclassification monitoring more meaningfu
 -
 
 ## Key Sources
-- Faulkner-Bond, M. (2026). Rethinking English Learner reclassification in California: What research says about the state's criteria. WestEd. https://www.wested.org/resource/finding-the-sweet-spot-for-english-learner-reclassification/
+- Faulkner-Bond, M. (2026). Rethinking English Learner reclassification in California: What research says about the state's criteria. WestEd. https://eric.ed.gov/?id=ED681358
