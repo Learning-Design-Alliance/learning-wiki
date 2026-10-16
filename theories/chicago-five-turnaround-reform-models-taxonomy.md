@@ -16,7 +16,7 @@ sources:
 # Five Chicago school turnaround reform models mapped to four federal intervention models
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 4 studies (2 associational, 1 causal, 1 design), `q2`–`q3` · 0 of 4 report an effect size · 6 claims rest on one study
 
 ## Description
 The report organizes Chicago's 1997-2010 district-mandated interventions into five models—Reconstitution, School Closure and Restart, the School Turnaround Specialist Program, Academy for Urban School Leadership, and the Office of School Improvement—classified by three levers of change: staff replacement, leadership replacement, and governance replacement, plus changes in attendance rules. It maps these onto the four federal models, noting that "The AUSL model, the OSI model, and the earlier Reconstitution efforts, contain the elements of the federal turnaround model," STSP corresponds to the transformational model, and Closure and Restart is "analogous to the federal restart model."
@@ -41,7 +41,7 @@ The report organizes Chicago's 1997-2010 district-mandated interventions into fi
 
 - [Reformed elementary schools made significant test-score improvements versus matched comparison schools, with gains growing gradually over four years](../claims/chicago-turnaround-elementary-test-score-gains-gradual.md) [+M]
 - [High schools that underwent reform showed no significant improvement in absence rates or ninth-grade on-track rates compared with matched schools](../claims/chicago-turnaround-high-schools-no-significant-gains.md) [-M]
-- [Elementary schools strong on at least three of five essential organizational elements were 10 times more likely to improve and 30 times less likely to stagnate](../claims/five-essential-elements-three-of-five-improvement-odds.md) [+W]
+- [Elementary schools strong on at least three of five essential organizational elements were 10 times more likely to improve and 30 times less likely to stagnate](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+W]
 - [Six of seven recently reformed high schools showed first-year on-track improvements above comparison schools, though evidence is limited](../claims/recent-high-school-turnarounds-on-track-improvement.md) [+W]
 - [School turnaround is a gradual process rather than an immediate event triggered by replacing staff or leadership](../claims/turnaround-is-a-process-not-an-event.md) [+W]
 - [Turnaround schools generally served the same students after reform, except Closure and Restart schools, which shifted toward more advantaged, higher-achieving students](../claims/turnaround-student-composition-stable-except-restart.md) [~M]

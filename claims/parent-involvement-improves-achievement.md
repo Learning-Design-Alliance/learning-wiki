@@ -122,6 +122,9 @@ Meta-analysis of 41 studies on parental involvement and academic achievement in 
 
 **Open questions.** How digital communication tools change the cost–benefit of school-based involvement, and how involvement effects interact with teacher-side practices such as [assessment for learning](assessment-for-learning-improves-achievement.md), remain under-specified. Whether involvement benefits persist into adolescence, or are largely displaced by academic socialization at that stage, is unresolved.
 
+## Learner Variables
+- [Home Learning Environment](../learner-variables/home-learning-environment.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Autonomy supports intrinsic motivation](autonomy-supports-intrinsic-motivation.md) — controlling parental help can undermine the autonomous effort that involvement is meant to support

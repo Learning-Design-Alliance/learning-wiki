@@ -60,6 +60,11 @@ Interview response from Viki, a peer feedback participant, coded under limited c
 
 ## Discussion
 
+## Learner Variables
+- [Collaboration](../learner-variables/collaboration.md) — outcome: instruction changes it
+- [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
+- [Metacognition](../learner-variables/metacognition.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — the general claim this finding bears on, with the studies behind it

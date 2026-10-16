@@ -42,6 +42,10 @@ The playbook's opening research summary states that "family engagement in school
 ## Discussion
 
 
+## Learner Variables
+- [Home Learning Environment](../learner-variables/home-learning-environment.md) — predictor: learners who differ on it differ in outcomes
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Offering FAST produced no meaningful, enduring effects on family functioning, family-school relationships, academic learning, or social-behavioral outcomes in a 60-school cluster RCT](fast-rct-no-meaningful-enduring-effects.md) — reports the opposite
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related

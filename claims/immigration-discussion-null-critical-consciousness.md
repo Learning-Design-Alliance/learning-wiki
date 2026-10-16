@@ -41,6 +41,9 @@ Null results from Model 1 of the multilevel SEM of the two-wave GSA survey. The 
 
 ## Discussion
 
+## Learner Variables
+- [Civic Mindedness](../learner-variables/civic-mindedness.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [One adult educator's first-person reflection reports that facilitated class discussions left her feeling empowered as an individual contributor](facilitated-self-directed-learning-empowers-adults.md) — the general claim this finding bears on, with the studies behind it

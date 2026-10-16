@@ -46,6 +46,7 @@ The synthesis reports that autonomy and meaningful goals improve intrinsic motiv
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
 - [Interest](../learner-variables/interest.md) — predictor: learners who differ on it differ in outcomes
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - Students found personal meaning and pride in their films, which appeared to fuel intrinsic motivation and persistence — a narrower finding that bears on this claim
@@ -55,3 +56,4 @@ The synthesis reports that autonomy and meaningful goals improve intrinsic motiv
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [Adding friction to objectively meaningless tasks increases their appraised sense of purpose and meaning](added-friction-increases-appraised-purpose.md) — related
 - [Student motivation, enjoyment, and engagement are higher in natural learning settings, including spillover to subsequent indoor lessons](nature-settings-boost-motivation-engagement.md) — related
+- [Meaningful choice about learning tasks increases interest, but only under boundary conditions](meaningful-choice-increases-interest-limited.md) — related

@@ -19,7 +19,7 @@ Rereading asks learners to revisit text they have already read — a sentence, a
 
 ## Design Implications
 
-Rereading works because repetition drives words toward automatic recognition, which frees working-memory resources for comprehension rather than decoding [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. It is most effective when each pass has a purpose — reading for accuracy first, then for expression, then for meaning — rather than as undirected repetition. Rereading also functions as a spacing mechanism: revisiting a text after intervening activity strengthens retention more than a single massed reading [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
+Rereading works because repetition drives words toward automatic recognition, which frees working-memory resources for comprehension rather than decoding [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. It is most effective when each pass has a purpose — reading for accuracy first, then for expression, then for meaning — rather than as undirected repetition. Rereading also functions as a spacing mechanism: revisiting a text after intervening activity strengthens retention more than a single massed reading [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements
@@ -42,7 +42,7 @@ Rereading works because repetition drives words toward automatic recognition, wh
 - **Audio-assisted rereading**: recorded models ([Audiobooks](../elements/audiobooks.md)) let learners reread independently with accurate prosody support
 
 ### Target Learners
-- Beginning and struggling readers building decoding accuracy and automaticity [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Beginning and struggling readers building decoding accuracy and automaticity [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - English language learners, who benefit from repeated exposure to vocabulary and syntax in context
 - Older learners rereading dense academic passages benefit when each pass targets a distinct comprehension goal; whole-text rereading as a generic study tactic is weak [~M]
 

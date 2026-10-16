@@ -43,6 +43,9 @@ The guide's summary, in Recommendation 1's carry-out section, of studies contras
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
+- [Communication Skills](../learner-variables/communication-skills.md) — predictor: learners who differ on it differ in outcomes
+- [Oral Language](../learner-variables/oral-language.md) — predictor: learners who differ on it differ in outcomes
+- [Syntax](../learner-variables/syntax.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 

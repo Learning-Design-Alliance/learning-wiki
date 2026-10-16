@@ -41,6 +41,10 @@ Synthesis of the Montero Perez et al. (2013) meta-analysis, which the authors ra
 
 ## Discussion
 
+## Learner Variables
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](redundancy-hurts-learning.md) — the general claim this finding bears on, with the studies behind it

@@ -56,7 +56,7 @@ Two design consequences follow. The eliciting move has to be diagnostic rather t
 - Frequent low-stakes checks become high-stakes if results are recorded and graded, at which point students optimize for the display rather than reveal what they do not know [-M]
 - Overhead is real: cycles cost instructional minutes, and short cycles run constantly can crowd out the sustained work they were meant to protect [~M]
 - Interpreting evidence in real time is a genuine expertise; novice teachers reliably see that students are struggling but not what they are struggling with [~M]
-- Feedback that is only evaluative (grades, praise) yields near-zero gains and can reduce performance [Feedback improves learning when it addresses the task, not the self.](../claims/feedback-addressing-task-improves-learning.md) [-M]
+- Feedback that is only evaluative (grades, praise) yields near-zero gains and can reduce performance [Feedback improves learning when it addresses the task, not the self.](../claims/feedback-most-effective-at-task-and-process-levels.md) [-M]
 - Frequent low-stakes quizzing without instructional response adds workload and anxiety without benefit [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [~M]
 - Public elicitation can expose struggling learners; anonymous response systems mitigate this
 - Over-reliance on self-assessment without training produces inaccurate self-ratings, especially in novices [~M]
@@ -143,7 +143,7 @@ Formative assessment is the process of gathering evidence about learner understa
 
 ## Design Implications
 
-Formative assessment operationalizes [Assessment for Learning](../principles/assessment-for-learning.md): assessment tasks become instructional events rather than measurement events. Its effect sizes are among the largest in education, but only when the information produced actually feeds forward into modified teaching or study behavior — assessment without consequential adjustment produces little gain [Assessment used formatively improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S]. Feedback is the primary mechanism, and it works best when it answers "Where am I going? How am I doing? Where to next?" rather than grading the person [Feedback improves learning when it addresses the task, not the self.](../claims/feedback-addressing-task-improves-learning.md) [+S].
+Formative assessment operationalizes [Assessment for Learning](../principles/assessment-for-learning.md): assessment tasks become instructional events rather than measurement events. Its effect sizes are among the largest in education, but only when the information produced actually feeds forward into modified teaching or study behavior — assessment without consequential adjustment produces little gain [Assessment used formatively improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S]. Feedback is the primary mechanism, and it works best when it answers "Where am I going? How am I doing? Where to next?" rather than grading the person [Feedback improves learning when it addresses the task, not the self.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ### Context
 #### Requirements
@@ -153,7 +153,7 @@ Formative assessment operationalizes [Assessment for Learning](../principles/ass
 - Feedback that specifies the gap between current and target performance and gives actionable next steps
 
 #### Constraints
-- Feedback that is only evaluative (grades, praise) yields near-zero gains and can reduce performance [Feedback improves learning when it addresses the task, not the self.](../claims/feedback-addressing-task-improves-learning.md) [-M]
+- Feedback that is only evaluative (grades, praise) yields near-zero gains and can reduce performance [Feedback improves learning when it addresses the task, not the self.](../claims/feedback-most-effective-at-task-and-process-levels.md) [-M]
 - Frequent low-stakes quizzing without instructional response adds workload and anxiety without benefit [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [~M]
 - Public elicitation can expose struggling learners; anonymous response systems mitigate this
 - Over-reliance on self-assessment without training produces inaccurate self-ratings, especially in novices [~M]

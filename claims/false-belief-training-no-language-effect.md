@@ -53,6 +53,9 @@ This is a second-hand citation narrated in the article's discussion of whether T
 ## Discussion
 
 
+## Learner Variables
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [High-quality pretend play is an important facilitator of perspective taking and later abstract thought](pretend-play-facilitates-perspective-taking-abstract-thought.md) — related
 - [Reading fiction gives at most a very small gain on theory-of-mind and social-cognition tasks, and the single-passage literary-fiction effect did not replicate](reading-literary-fiction-improves-theory-of-mind.md) — related

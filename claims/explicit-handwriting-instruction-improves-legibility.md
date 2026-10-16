@@ -50,6 +50,9 @@ This meta-analysis pooled true- and quasi-experimental studies of handwriting in
 
 **Open questions.** Key unresolved issues include how long legibility gains persist without continued practice, whether gains transfer to writing speed and composition, and whether explicit instruction outperforms simply increasing writing volume. Studies must be added to Evidence before any of these questions can be answered from this wiki's sources.
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Automatic word recognition frees resources for comprehension.](automatic-word-recognition-frees-resources-for-comprehension.md) — the same automaticity logic applies to handwriting: automatic letter formation should free working memory for composing

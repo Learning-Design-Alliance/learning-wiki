@@ -46,6 +46,9 @@ Longitudinal survey study of 3,805 students in 47 Chicago Public Schools high sc
 ## Discussion
 
 
+## Learner Variables
+- [Civic Mindedness](../learner-variables/civic-mindedness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Student demographics were not significantly related to civic commitment among Chicago public high school students](demographics-not-destiny-civic-commitment.md) — related
 - [Students who witnessed concern for community and current events at home, in the neighborhood or at school were more likely to be committed to civic participation](experiencing-civic-community-fosters-commitment.md) — related

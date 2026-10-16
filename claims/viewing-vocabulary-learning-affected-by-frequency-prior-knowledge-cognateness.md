@@ -44,6 +44,7 @@ Across the two experiments with Dutch-speaking EFL learners, the article states 
 ## Learner Variables
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
 - [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
+- [Vocabulary](../learner-variables/vocabulary.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 

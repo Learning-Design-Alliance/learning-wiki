@@ -62,6 +62,9 @@ A further predicted benefit stated in the conclusion, with no data and no argume
 ## Discussion
 
 
+## Learner Variables
+- [Collaboration](../learner-variables/collaboration.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md)
 - Students' writing is argued, citing Bruffee, to be only as good as their conversation about writing — related

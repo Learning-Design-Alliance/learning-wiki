@@ -19,7 +19,7 @@ Using proprioceptive input, also known as "heavy work," involves engaging muscle
 
 ## Design Implications
 
-Proprioceptive input is best understood as a regulatory support that prepares learners for instruction, not as an instructional technique itself. The strongest rationale comes from occupational therapy practice rather than controlled learning research: systematic reviews find the evidence base for sensory-based interventions to be limited and inconsistent [The evidence for sensory integration therapy as a learning intervention is weak and inconsistent.](../claims/classroom-physical-activity-improves-attention.md) [~W]. Effects, where observed, are typically short-lived and individualized, so input should be scheduled around instructional demands rather than delivered indiscriminately.
+Proprioceptive input is best understood as a regulatory support that prepares learners for instruction, not as an instructional technique itself. The strongest rationale comes from occupational therapy practice rather than controlled learning research: systematic reviews find the evidence base for sensory-based interventions to be limited and inconsistent [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [~W]. Effects, where observed, are typically short-lived and individualized, so input should be scheduled around instructional demands rather than delivered indiscriminately.
 
 ### Context
 #### Requirements
@@ -28,8 +28,8 @@ Proprioceptive input is best understood as a regulatory support that prepares le
 - Clear expectations that heavy work is a tool for readiness, embedded in routines rather than used as a reward or escape
 
 #### Constraints
-- Evidence for sensory-based interventions as academic or behavioral treatments is weak; gains are often not distinguishable from attention or novelty effects [The evidence for sensory integration therapy as a learning intervention is weak and inconsistent.](../claims/classroom-physical-activity-improves-attention.md) [-W]
-- Effects are transient — a few minutes of calming does not substitute for instruction in self-regulation skills [The evidence for sensory integration therapy as a learning intervention is weak and inconsistent.](../claims/classroom-physical-activity-improves-attention.md) [-W]
+- Evidence for sensory-based interventions as academic or behavioral treatments is weak; gains are often not distinguishable from attention or novelty effects [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [-W]
+- Effects are transient — a few minutes of calming does not substitute for instruction in self-regulation skills [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [-W]
 - Whole-class delivery can reduce instructional time and may distract learners who do not need it; benefits appear specific to learners with identified sensory regulation needs
 - Activities must be safe, age-appropriate, and supervised; chewing items require hygiene protocols
 
@@ -39,7 +39,7 @@ Proprioceptive input is best understood as a regulatory support that prepares le
 - Scheduled "movement breaks" before high-demand tasks (testing, sustained writing) versus on-demand access when a learner shows escalation
 
 ### Target Learners
-- Children with sensory processing difficulties or autism spectrum conditions, for whom practitioners most often recommend heavy work [The evidence for sensory integration therapy as a learning intervention is weak and inconsistent.](../claims/classroom-physical-activity-improves-attention.md) [~W]
+- Children with sensory processing difficulties or autism spectrum conditions, for whom practitioners most often recommend heavy work [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [~W]
 - Learners who show escalation, fidgeting, or withdrawal before demanding tasks — input may serve as a transition ritual
 - Not indicated as a general intervention for typically regulating learners; unnecessary input consumes time without benefit
 

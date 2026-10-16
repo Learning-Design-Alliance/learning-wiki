@@ -72,6 +72,9 @@ A meta-analysis of 24 identified studies (16 with sufficient data for pooling; 1
 
 **Open questions.** Optimal dosage and intensity, the durability of gains after intervention ends, and how much comprehension benefit follows once decoding is secured all require stronger evidence than this page currently carries. The evidence recorded above finds small effects: phonics instruction was the only approach with a confirmed effect for reading disabilities (g′ = 0.198), and Orton-Gillingham programs showed non-significant effects.
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Automatic word recognition frees resources for comprehension.](automatic-word-recognition-frees-resources-for-comprehension.md) — the mechanism by which decoding gains translate into comprehension gains

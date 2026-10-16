@@ -61,5 +61,8 @@ Same randomized trial, second outcome measured by direct observation in three 20
 ## Discussion
 
 
+## Learner Variables
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Social skills training has positive effects on social-emotional development and behavior for preschool children with disabilities in early education settings](social-skills-training-positive-social-emotional-effects-preschool-disabilities.md) — a broader claim this one bears on

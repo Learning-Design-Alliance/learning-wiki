@@ -42,6 +42,9 @@ Findings section reports the phonics outcome (Exhibit 14 phonics items from the 
 ## Discussion
 
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Teachers reported student gains in motivation and confidence to engage in literacy and mathematics learning activities](tec-summer-teacher-reported-motivation-gains.md) — related
 - [Students reported statistically significant pre-post improvements in attitudes about learning after the summer ed-tech programs](summer-edtech-attitude-gains-significant.md) — related

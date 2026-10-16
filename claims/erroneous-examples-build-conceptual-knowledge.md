@@ -91,3 +91,6 @@ Fourth- and fifth-grade students (N=74) learned decimal magnitude in a brief tut
 - [Studying worked examples improves novices' algebra performance on problems with the same structure as the examples](worked-examples-improve-math-performance.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [Providing worked examples of journal entries early (rather than delayed) yields better early journal quality and more conceptual knowledge](early-worked-examples-better-journal-quality.md) — related
+- [Erroneous examples produce significantly higher delayed-test learning gains than problem solving for decimal learning](erroneous-examples-delayed-learning-gain-decimals.md) — a narrower finding that bears on this claim
+- [Erroneous examples benefit learners with more prior knowledge, while correct-only solutions better serve low-prior-knowledge learners](erroneous-examples-prior-knowledge-interaction.md) — related
+- [Low prior knowledge students learned most conceptual understanding from worked-out examples, and least from questions plus arguments](low-prior-knowledge-worked-examples-best-conceptual-understanding.md) — related

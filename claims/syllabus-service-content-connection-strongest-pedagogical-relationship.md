@@ -55,6 +55,9 @@ Pearson correlation analysis of pedagogical items with civic competence outcome 
 
 One correlational analysis of a five-year course-evaluation dataset is recorded. "Strongest" means strongest among the pedagogical items in that dataset, and only narrowly: exploration of diversity correlated at r = .552 against the syllabus item's .569. A correlation does not show that writing such a syllabus raises civic competence. (Impact code corrected 2026-10-05 from `i2`: r = .569 is i3 under r bins.)
 
+## Learner Variables
+- [Civic Mindedness](../learner-variables/civic-mindedness.md) — outcome: instruction changes it
+
 ## Related Claims
 - Civic competence items cluster into four epistemological components (knowledge, skills, attitudes, actions) in community-based learning course surveys — related
 - [A specific civic education subject provides valuable knowledge but is insufficient on its own to develop civic competence](civic-subject-alone-insufficient.md) — related

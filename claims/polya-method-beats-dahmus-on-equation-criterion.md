@@ -42,6 +42,9 @@ Three-factor ANOVA (treatment x ability x test occasion, repeated measures on oc
 
 ## Discussion
 
+## Learner Variables
+- [Algebraic Thinking](../learner-variables/algebraic-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Three weeks of explicit language-focused strategy instruction produced no significant word-problem gain in this study](explicit-strategy-instruction-no-significant-gain.md) — the general claim this finding bears on, with the studies behind it

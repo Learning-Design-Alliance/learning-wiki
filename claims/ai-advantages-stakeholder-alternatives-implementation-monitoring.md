@@ -42,6 +42,9 @@ Step-level results from the three-group experiment (270 students); the article r
 ## Discussion
 
 
+## Learner Variables
+- [Problem Solving](../learner-variables/problem-solving.md) — outcome: instruction changes it
+
 ## Related Claims
 - [AI-assisted inquiry produced larger decision-making gains than inquiry-only and traditional instruction in secondary climate-change education](ai-assisted-inquiry-largest-decision-making-gains-climate.md) — a broader claim this one bears on
 - [Between-group effect sizes on decision-making gains were large for AI-assisted versus traditional instruction and moderate-to-large for AI-assisted versus inquiry-only](ai-assisted-effect-sizes-large-vs-traditional.md) — related

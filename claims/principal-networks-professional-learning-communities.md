@@ -41,6 +41,9 @@ The report's narrative review of in-service learning describes networks and prof
 
 ## Discussion
 
+## Learner Variables
+- [Social Supports](../learner-variables/social-supports.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Participation in mathematics PLC changed teachers' collaboration norms, understanding of mathematics and its teaching, and ability to design and carry out teaching](plc-participation-changes-teacher-norms-understanding-practice.md) — the general claim this finding bears on, with the studies behind it

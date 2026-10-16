@@ -67,3 +67,4 @@ Correlational analysis of 1999 CPS freshmen by subject of the failed course. The
 - [Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students](ninth-grade-gpa-predicts-graduation.md) — related
 - More Barton freshmen failed math than English, and many failing students failed both subjects — related
 - [Freshman failures clustered in math more than English, and many students failed both core subjects](kenwood-freshman-fs-english-math.md) — related
+- [Gap analysis comparing observed to predicted DFW rates recasts course rankings, revealing courses that exceed or fall below expectations in a way raw DFW ranking does not](gap-analysis-predicted-versus-observed-dfw-recasts-rankings.md) — related

@@ -43,6 +43,7 @@ WWC review of the Wexler et al. (2010) trial assessing four fluency measures —
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [Reading Fluency](../learner-variables/reading-fluency.md) — outcome: instruction changes it
 
 ## Related Claims
 

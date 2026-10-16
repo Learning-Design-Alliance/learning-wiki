@@ -42,6 +42,9 @@ Qualitative findings from the confirmatory study with 11 educators, several of w
 ## Discussion
 
 
+## Learner Variables
+- [Collaboration](../learner-variables/collaboration.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Educators perceived FH2T as strongly connected to Common Core Standards for Mathematical Content and uniquely integrating the Standards for Mathematical Practice](fh2t-common-core-standards-alignment-perception.md) — related
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — related

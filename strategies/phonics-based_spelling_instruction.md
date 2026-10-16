@@ -19,7 +19,7 @@ Phonics-based spelling instruction teaches learners to spell by segmenting words
 
 ## Design Implications
 
-Spelling instruction grounded in phoneme segmentation produces more durable word knowledge than visual copying or rote memorization, because encoding each sound–letter mapping requires active retrieval rather than passive reproduction [Graham & Santangelo's meta-analysis found explicit spelling instruction improves spelling and writing quality.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Instruction should follow a planned scope and sequence of grapheme–phoneme correspondences, moving from simple to complex patterns, and should pair segmentation practice with immediate feedback so that partial phonetic spellings are refined toward conventional forms.
+Spelling instruction grounded in phoneme segmentation produces more durable word knowledge than visual copying or rote memorization, because encoding each sound–letter mapping requires active retrieval rather than passive reproduction [Graham & Santangelo's meta-analysis found explicit spelling instruction improves spelling and writing quality.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Instruction should follow a planned scope and sequence of grapheme–phoneme correspondences, moving from simple to complex patterns, and should pair segmentation practice with immediate feedback so that partial phonetic spellings are refined toward conventional forms.
 
 ### Context
 #### Requirements

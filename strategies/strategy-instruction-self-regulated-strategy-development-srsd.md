@@ -19,7 +19,7 @@ Strategy instruction explicitly teaches learners cognitive and metacognitive str
 
 ## Design Implications
 
-SRSD is among the best-supported interventions in writing research: meta-analyses show large effects on writing quality, with effects maintained over time and generalized to new tasks [Strategy instruction produces large, durable gains in writing quality.](../claims/strategy-instruction-improves-writing-quality.md) [+S]. Its power comes from combining explicit strategy teaching with self-regulation training — the self-regulation components, not just the strategy steps, drive transfer and maintenance. Instruction must be sustained and reinforced across lessons; one-off strategy workshops do not produce durable change.
+SRSD is among the best-supported interventions in writing research: meta-analyses show large effects on writing quality, with effects maintained over time and generalized to new tasks [Strategy instruction produces large, durable gains in writing quality.](../claims/strategy-instruction-improves-writing-quality.md) [+M]. Its power comes from combining explicit strategy teaching with self-regulation training — the self-regulation components, not just the strategy steps, drive transfer and maintenance. Instruction must be sustained and reinforced across lessons; one-off strategy workshops do not produce durable change.
 
 ### Context
 #### Requirements

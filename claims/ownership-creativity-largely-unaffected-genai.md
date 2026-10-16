@@ -61,6 +61,9 @@ Ownership-retention item (n=218). Majorities agreed they retain ownership when u
 ## Discussion
 
 
+## Learner Variables
+- [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
+
 ## Related Claims
 - Most design students at Politecnico di Milano use GenAI tools daily or weekly for academic purposes — related
 - [Students remained cautious about relying on GenAI throughout the creative process, citing imperfect outputs and perceived loss of ownership](student-cautions-genai-ownership-and-output-quality.md) — related

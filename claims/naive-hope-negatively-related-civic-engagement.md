@@ -42,6 +42,9 @@ Narrative review attribution: the article reports, citing Ojala (2017), that nai
 ## Discussion
 
 
+## Learner Variables
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Existing cognitive hope theories presuppose predictability and control, an assumption that breaks down under radical uncertainty](hope-theories-presuppose-predictability.md) — related
 - [Ikeda positions hope as an essential component of global citizenship education, with value creation starting from hope](hope-essential-component-gced.md) — related

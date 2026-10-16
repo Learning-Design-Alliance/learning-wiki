@@ -12,13 +12,13 @@ sources:
   - id: lu-y-2026
     title: Lu Y 2026
     q: 2
-    i: 3
+    i: "?"
     kind: associational
     rigour: 2
   - id: lu-y-2026-2
     title: Lu Y 2026 (2)
     q: 2
-    i: 3
+    i: "?"
     kind: associational
     rigour: 2
 ---
@@ -26,11 +26,11 @@ sources:
 # English pronunciation self-efficacy partially mediates the association between GenAI-based pronunciation feedback perceptions and willingness to communicate, with the indirect effect accounting for 69.9% of the total effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2` · `i3` large
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
-`q2 i3` The indirect effect of GenAI feedback on WTC through EPSE is statistically significant (β = 0.401). [→ Lu Y 2026](#lu-y-2026)
-`q2 i3` The indirect effect accounts for about 69.9% of the total effect of GenAI feedback on WTC, while the direct effect remains significant. [→ Lu Y 2026 (2)](#lu-y-2026-2)
+`q2 i?` The indirect effect of GenAI feedback on WTC through EPSE is statistically significant (β = 0.401). [→ Lu Y 2026](#lu-y-2026)
+`q2 i?` The indirect effect accounts for about 69.9% of the total effect of GenAI feedback on WTC, while the direct effect remains significant. [→ Lu Y 2026 (2)](#lu-y-2026-2)
 
 ## Evidence
 
@@ -38,7 +38,7 @@ sources:
 
 Lu Y, Yang Y, Cui T, Yang Z, Cai Y and Jing B (2026) Associations between generative AI–based pronunciation feedback and willingness to communicate in English: the mediating role of English pronunciation self-efficacy. Front. Psychol. 17:1918980. https://doi.org/10.3389/fpsyg.2026.1918980
 
-`q2 · i3` · `associational · r2`
+`q2 · i?` · `associational · r2`
 
 Mediation analysis using bootstrapped path analysis with 5,000 resamples in the study's SEM on 1,701 respondents. The indirect effect through EPSE was significant, "β = 0.401", with a bias-corrected 95% CI excluding zero.
 
@@ -48,7 +48,7 @@ Mediation analysis using bootstrapped path analysis with 5,000 resamples in the 
 
 Lu Y, Yang Y, Cui T, Yang Z, Cai Y and Jing B (2026) Associations between generative AI–based pronunciation feedback and willingness to communicate in English: the mediating role of English pronunciation self-efficacy. Front. Psychol. 17:1918980. https://doi.org/10.3389/fpsyg.2026.1918980
 
-`q2 · i3` · `associational · r2`
+`q2 · i?` · `associational · r2`
 
 Total-effect analysis reported alongside the mediation results: the total effect of GenAI feedback on WTC was significant (B = 0.624, β = 0.574), and "the indirect effect is 0.401, accounting for about 69.9% of the total effect".
 

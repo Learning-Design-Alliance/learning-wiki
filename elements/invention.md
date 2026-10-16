@@ -16,11 +16,11 @@ generated:
 > **Evidence** · 2 claims (2 for) · 5 studies (2 causal, 2 theoretical, 1 quant-synthesis), `q2`–`q4` · 2 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
-An invention task presents learners with a novel problem and asks them to create their own solution procedure, formula, or representation — typically before any direct instruction on the canonical method. The goal is not to produce the correct answer but to surface gaps in prior knowledge and build readiness for the instruction that follows. This is the core move of "inventing to prepare for future learning" [Invention tasks before instruction improve later learning from that instruction.](../claims/invention-tasks-prepare-future-learning.md) [+S].
+An invention task presents learners with a novel problem and asks them to create their own solution procedure, formula, or representation — typically before any direct instruction on the canonical method. The goal is not to produce the correct answer but to surface gaps in prior knowledge and build readiness for the instruction that follows. This is the core move of "inventing to prepare for future learning" [Invention tasks before instruction improve later learning from that instruction.](../claims/invention-tasks-prepare-future-learning.md) [+M].
 
 ## Design Implications
 
-Invention tasks work by activating relevant prior knowledge and making learners aware of the deep features of a problem — the *reason* a canonical method exists — rather than just its surface procedure [Invention tasks before instruction improve later learning from that instruction.](../claims/invention-tasks-prepare-future-learning.md) [+S]. Learners should be given contrasting cases that make the critical features visible, and the task must be followed by explicit instruction that connects their invented methods to the canonical one. The value lies in the preparation, not the invention itself: learners who invent poorly but then receive instruction often outperform those who received instruction alone [Struggling before instruction improves subsequent learning.](../claims/productive-failure-improves-conceptual-learning.md) [+S].
+Invention tasks work by activating relevant prior knowledge and making learners aware of the deep features of a problem — the *reason* a canonical method exists — rather than just its surface procedure [Invention tasks before instruction improve later learning from that instruction.](../claims/invention-tasks-prepare-future-learning.md) [+M]. Learners should be given contrasting cases that make the critical features visible, and the task must be followed by explicit instruction that connects their invented methods to the canonical one. The value lies in the preparation, not the invention itself: learners who invent poorly but then receive instruction often outperform those who received instruction alone [Struggling before instruction improves subsequent learning.](../claims/productive-failure-improves-conceptual-learning.md) [+S].
 
 ### Context
 #### Requirements
@@ -36,13 +36,13 @@ Invention tasks work by activating relevant prior knowledge and making learners 
 - Can entrench misconceptions if the follow-up instruction does not explicitly confront and resolve learners' invented methods
 
 ### Target Learners
-- Learners with moderate prior knowledge who can partially engage with the problem [Invention tasks before instruction improve later learning from that instruction.](../claims/invention-tasks-prepare-future-learning.md) [+S]
+- Learners with moderate prior knowledge who can partially engage with the problem [Invention tasks before instruction improve later learning from that instruction.](../claims/invention-tasks-prepare-future-learning.md) [+M]
 - Novices benefit from the contrasting-case structure more than from open invention; pure unguided invention suits them poorly [Struggling before instruction improves subsequent learning.](../claims/productive-failure-improves-conceptual-learning.md) [~M]
 - Less effective for complete novices with no relevant knowledge to activate
 
 ### Target Learning Goals
 - Conceptual understanding: grasping *why* a method or representation works, not just how
-- Transfer and adaptive expertise: preparing learners to apply knowledge to novel problems [Invention tasks before instruction improve later learning from that instruction.](../claims/invention-tasks-prepare-future-learning.md) [+S]
+- Transfer and adaptive expertise: preparing learners to apply knowledge to novel problems [Invention tasks before instruction improve later learning from that instruction.](../claims/invention-tasks-prepare-future-learning.md) [+M]
 - Knowledge integration: connecting informal intuitions to formal representations
 
 ### Affordances

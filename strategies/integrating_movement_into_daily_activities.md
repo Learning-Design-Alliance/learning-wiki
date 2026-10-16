@@ -19,7 +19,7 @@ Integrating movement into daily activities means embedding physical activity int
 
 ## Design Implications
 
-Movement integrated into instruction supports attention and on-task behavior, particularly in classroom settings [Classroom physical activity improves attention and on-task behavior.](../claims/classroom-physical-activity-improves-attention.md) [+M]. Acute bouts of moderate activity immediately before or during learning tasks can also benefit memory encoding, though timing matters [Acute exercise timing affects memory outcomes.](../claims/acute-exercise-timing-memory.md) [~M]. The design principle is to attach movement to an existing instructional function — responding, transitioning, retrieving, or demonstrating — rather than adding movement as a disconnected break.
+Movement integrated into instruction supports attention and on-task behavior, particularly in classroom settings [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]. Acute bouts of moderate activity immediately before or during learning tasks can also benefit memory encoding, though timing matters [Acute exercise timing affects memory outcomes.](../claims/acute-exercise-timing-memory.md) [~M]. The design principle is to attach movement to an existing instructional function — responding, transitioning, retrieving, or demonstrating — rather than adding movement as a disconnected break.
 
 ### Context
 #### Requirements
@@ -28,7 +28,7 @@ Movement integrated into instruction supports attention and on-task behavior, pa
 - Clear start/stop signals so activity does not consume instructional time or leave learners dysregulated
 
 #### Constraints
-- Vigorous or socially exciting activity immediately before seatwork can leave some learners over-aroused and slower to settle [Classroom physical activity improves attention and on-task behavior.](../claims/classroom-physical-activity-improves-attention.md) [~M] — intensity and cool-down need management
+- Vigorous or socially exciting activity immediately before seatwork can leave some learners over-aroused and slower to settle [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [~M] — intensity and cool-down need management
 - Very short or low-intensity bouts show weak or inconsistent effects on learning outcomes; dose matters
 - Learners with mobility limitations, chronic pain, or body-image concerns may experience integrated movement as exclusionary unless alternatives are offered
 - Movement that competes for the same cognitive resources as the content (e.g., complex choreography during verbal instruction) can degrade encoding [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-M]
@@ -40,7 +40,7 @@ Movement integrated into instruction supports attention and on-task behavior, pa
 - **Timing-based**: brief activity bursts placed before encoding-heavy tasks, per timing evidence [Acute exercise timing affects memory outcomes.](../claims/acute-exercise-timing-memory.md) [~M]
 
 ### Target Learners
-- Children and adolescents, whose attention and self-regulation benefit measurably from classroom activity breaks [Classroom physical activity improves attention and on-task behavior.](../claims/classroom-physical-activity-improves-attention.md) [+M]
+- Children and adolescents, whose attention and self-regulation benefit measurably from classroom activity breaks [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
 - Learners with high movement needs (e.g., ADHD) who struggle with prolonged sedentary instruction
 - Adults in sedentary study or work contexts seeking sustained energy and attention across long sessions
 

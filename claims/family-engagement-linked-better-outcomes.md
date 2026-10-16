@@ -42,6 +42,9 @@ The playbook asserts, citing background research, that family engagement is "con
 ## Discussion
 
 
+## Learner Variables
+- [Home Learning Environment](../learner-variables/home-learning-environment.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - Schools with strong social-emotional value-added help ninth-grade students stay on track and miss school less often — related
 - [A replication trial with 267 preschoolers found greater gains in social skills and stronger teacher-child and parent-teacher relationships than controls](getting-ready-replication-relationships.md) — related

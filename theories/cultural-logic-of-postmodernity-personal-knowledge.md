@@ -36,7 +36,7 @@ The article locates narrative and storying genres within emergent cultural patte
 - critical understanding of the social and political context of narrative inquiry in educational research
 
 ### Claims
-- [Storying Privileges Some Storylines Silences Others](../claims/storying-privileges-some-storylines-silences-others.md) [+M]
+- [Storying Privileges Some Storylines Silences Others](../claims/storying-privileges-some-storylines-silences-others.md) [+W]
 
 ## Related Theories
 - 

@@ -130,6 +130,9 @@ Meta-analysis of 41 studies of explicit and implicit instruction on the acquisit
 ## Discussion
 
 
+## Learner Variables
+- [Syntax](../learner-variables/syntax.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](explicit-instruction-context-dependent-synthesis.md) — a broader claim this one bears on
 - [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](explicit-teaching-complex-rules-only-advantage.md) — related

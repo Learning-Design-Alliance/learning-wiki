@@ -48,3 +48,4 @@ Narrative synthesis in the review's background section: the review attributes th
 - [A randomized controlled trial found TFA secondary math teachers outperformed non-TFA comparison teachers in mathematics achievement](clark-2013-tfa-secondary-math-rct-positive.md) — a narrower finding that bears on this claim
 - [TFA teachers in their first two years of teaching are more effective than more experienced non-TFA teachers in the same schools](tfa-first-two-years-beat-experienced-non-tfa.md) — a narrower finding that bears on this claim
 - [Students with alternatively certified teachers did no worse on achievement tests than students with traditionally certified teachers](alt-cert-teachers-no-worse-student-achievement.md) — related
+- [Students of certified teachers outperformed students of under-certified teachers, including TFA teachers, on all three SAT-9 subtests in low-income districts](certified-outperform-undercertified-sat9.md) — reports the opposite

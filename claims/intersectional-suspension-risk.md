@@ -45,6 +45,7 @@ CRDC analysis of intersecting identities and suspension risk. The report contras
 ## Learner Variables
 - [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
 - [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Identity](../learner-variables/identity.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Black students are suspended at the highest rate of any racial group, at 12% in 2017–18, with persistent disparities across all years analyzed](black-students-highest-suspension-rate-persistent.md) — related

@@ -19,7 +19,7 @@ Communicating positive expectations means deliberately signaling to every learne
 
 ## Design Implications
 
-Expectation communication works primarily through learner self-efficacy: expressed belief in a learner's capability raises the learner's own belief, which in turn predicts persistence and achievement [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]. The mechanism is bidirectional — teachers act on expectations (calling on some students more, waiting longer for others), and learners read these cues as information about their ability. The design task is therefore as much about auditing one's own behavior as about adding encouragement.
+Expectation communication works primarily through learner self-efficacy: expressed belief in a learner's capability raises the learner's own belief, which in turn predicts persistence and achievement [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]. The mechanism is bidirectional — teachers act on expectations (calling on some students more, waiting longer for others), and learners read these cues as information about their ability. The design task is therefore as much about auditing one's own behavior as about adding encouragement.
 
 ### Context
 #### Requirements
@@ -43,7 +43,7 @@ Expectation communication works primarily through learner self-efficacy: express
 - Learners with low prior achievement or a history of underperformance, who are most likely to receive low-expectation treatment by default [~M]
 - Learners from stigmatized or stereotyped groups, where expectation cues interact with stereotype threat [~W]
 - Younger learners, who are more susceptible to teacher expectation effects than adolescents and adults [~M]
-- Learners with fragile self-efficacy, for whom expressed belief directly supports persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]
+- Learners with fragile self-efficacy, for whom expressed belief directly supports persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 
 ### Target Learning Goals
 - Motivational outcomes: self-efficacy, task engagement, and persistence [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

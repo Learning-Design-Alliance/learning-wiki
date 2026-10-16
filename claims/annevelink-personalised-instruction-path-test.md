@@ -50,4 +50,3 @@ Test of Anderson's knowledge-of-students path on Grade 1 students in 46 Dutch sc
 - [Feedback Most Effective At Task And Process Levels](feedback-most-effective-at-task-and-process-levels.md) — related
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
-- [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — related

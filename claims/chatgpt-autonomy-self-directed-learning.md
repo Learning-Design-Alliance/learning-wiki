@@ -42,6 +42,7 @@ Interview thematic analysis: students reported learning independently from ChatG
 
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+- [Metacognition](../learner-variables/metacognition.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on

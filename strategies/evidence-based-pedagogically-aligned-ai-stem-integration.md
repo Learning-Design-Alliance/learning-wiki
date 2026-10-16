@@ -41,7 +41,7 @@ The article advocates an "evidence-based and pedagogically aligned integration o
 
 ## Claims
 
-- [AI-enabled personalized STEM education yields a small but statistically significant overall effect (g = 0.455) compared with traditional non-AI instruction in K-12 schools](../claims/ai-personalized-stem-overall-effect-g0455.md) [+W]
+- [AI-enabled personalized STEM education yields a medium-sized, statistically significant overall effect (g = 0.455) compared with traditional non-AI instruction in K-12 schools](../claims/ai-personalized-stem-overall-effect-g0455.md) [+W]
 - [AR/VR tools show the largest effect among AI application types (g = 1.765), while ITS and personalized educational games show small effects](../claims/arvr-largest-effect-ai-application-type.md) [~W]
 - [Subject significantly moderates effects, with AI-enabled personalized STEM education most effective in comprehensive courses (g = 2.161)](../claims/comprehensive-courses-largest-subject-effect.md) [~W]
 - [Personalized learning models combining classroom use with student-centered pedagogies (Model C) exert larger effects than fully automated platforms (Model A)](../claims/hybrid-learning-models-outperform-fully-automated.md) [+W]

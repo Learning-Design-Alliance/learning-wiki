@@ -89,3 +89,4 @@ Sherman (1989) compared Group Investigation with individual work in two approxim
 - [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — related
 - Cooperative biology instruction raised achievement and improved perceived classroom atmosphere in Israeli junior high studies — reports the opposite
 - [The playlist intervention showed no significant difference in post-implementation science attitudes on the Emerging STEM Learning Activation Survey](hero-elementary-playlists-no-significant-science-attitude-effect.md) — related
+- [Cooperative concept mapping produces better meaningful learning than individualistic concept mapping](cooperative-concept-mapping-better-than-individual.md) — reports the opposite

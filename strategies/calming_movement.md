@@ -20,7 +20,7 @@ Calming movement uses slow, repetitive, rhythmic movement — rocking, swaying, 
 
 ## Design Implications
 
-Calming movement is best understood as an arousal-regulation support that prepares a learner for instruction, not as an instructional strategy itself; its classroom value lies in reclaiming attention and reducing time lost to dysregulation [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]. Evidence specifically for rhythmic vestibular input as a calming mechanism is weaker and largely observational, drawn from occupational therapy literature rather than controlled experiments [~W]. Because arousal state gates learning, a brief calming routine can be a precondition for [Practice](../elements/practice.md) and other demanding activities, but it should not replace them.
+Calming movement is best understood as an arousal-regulation support that prepares a learner for instruction, not as an instructional strategy itself; its classroom value lies in reclaiming attention and reducing time lost to dysregulation [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]. Evidence specifically for rhythmic vestibular input as a calming mechanism is weaker and largely observational, drawn from occupational therapy literature rather than controlled experiments [~W]. Because arousal state gates learning, a brief calming routine can be a precondition for [Practice](../elements/practice.md) and other demanding activities, but it should not replace them.
 
 ### Context
 #### Requirements

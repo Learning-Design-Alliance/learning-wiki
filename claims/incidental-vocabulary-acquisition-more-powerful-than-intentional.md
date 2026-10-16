@@ -41,6 +41,10 @@ Narrative review of incidental vocabulary acquisition research (Krashen 2004; Le
 
 ## Discussion
 
+## Learner Variables
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — the general claim this finding bears on, with the studies behind it

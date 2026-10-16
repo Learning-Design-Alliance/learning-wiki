@@ -44,6 +44,7 @@ The Priority 5 section opens by citing research comparing relationship-centered 
 
 ## Learner Variables
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — predictor: learners who differ on it differ in outcomes
+- [Social Supports](../learner-variables/social-supports.md) — outcome: instruction changes it
 
 ## Related Claims
 - [High implementation of trauma-engaged practices was associated with higher elementary students' caring-others perceptions](implementation-associated-elementary-caring-others.md) — related

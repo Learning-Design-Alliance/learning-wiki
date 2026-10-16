@@ -79,6 +79,9 @@ The chapter reports Lehman et al. (2014), who used cumulative recall curves: "in
 
 ## Discussion
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it

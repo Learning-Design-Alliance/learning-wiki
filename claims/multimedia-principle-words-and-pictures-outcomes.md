@@ -44,6 +44,9 @@ A practice-to-theory article (the authors' own term), not a review of its own: i
 ## Discussion
 
 
+## Learner Variables
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related

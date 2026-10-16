@@ -42,6 +42,9 @@ The research brief poses this as its central question about middle school SEL sk
 ## Discussion
 
 
+## Learner Variables
+- [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Successful transition from intermediate to secondary school depends on both academic preparation and social-emotional learning skills suited to a more independent environment](transition-depends-on-academic-and-sel-preparation.md) — related
 - [Students' 6th-grade SEL level and SEL growth from 6th to 8th grade relate to successful transition to secondary school](sel-trajectories-relate-secondary-school-transition.md) — related

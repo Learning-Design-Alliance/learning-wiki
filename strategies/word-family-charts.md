@@ -19,7 +19,7 @@ A word family chart displays collections of words that share a common letter pat
 
 ## Design Implications
 
-Word family charts exploit the consistency of English rime units, letting learners map one spelling pattern onto many words rather than memorizing each word separately [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. Reading words within a structured set builds automatic recognition of recurring orthographic patterns, which frees attentional resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. The chart functions as a [Chunking](../principles/chunking.md) device: the rime is the chunk, and the chart makes the chunk visible and reusable.
+Word family charts exploit the consistency of English rime units, letting learners map one spelling pattern onto many words rather than memorizing each word separately [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. Reading words within a structured set builds automatic recognition of recurring orthographic patterns, which frees attentional resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. The chart functions as a [Chunking](../principles/chunking.md) device: the rime is the chunk, and the chart makes the chunk visible and reusable.
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Word family charts exploit the consistency of English rime units, letting learne
 - **Digital versions**: interactive whiteboard or slide decks where words are revealed incrementally
 
 ### Target Learners
-- Beginning readers in the partial alphabetic phase who know some letter-sound links but not full decoding [Ehri et al. meta-analysis of systematic phonics.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Beginning readers in the partial alphabetic phase who know some letter-sound links but not full decoding [Ehri et al. meta-analysis of systematic phonics.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Struggling readers in upper grades who need consolidated orthographic patterns for fluency
 - English learners, for whom the chart makes the spelling-sound regularities of English explicit and visible
 - Less valuable for fluent readers who have already established full orthographic mapping [~M]

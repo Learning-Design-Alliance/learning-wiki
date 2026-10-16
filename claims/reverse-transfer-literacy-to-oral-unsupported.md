@@ -45,6 +45,10 @@ The author reports a personal literature search: "I cannot find any research tha
 ## Discussion
 
 
+## Learner Variables
+- [Communication Skills](../learner-variables/communication-skills.md) — predictor: learners who differ on it differ in outcomes
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Japanese schools teach English literacy before oral-aural competency, inverting the natural sequence](japanese-english-instruction-inverts-stage-sequence.md) — related
 - [Sticht's Law holds that reading skill cannot exceed listening skill](sticht-law-reading-cannot-exceed-listening.md) — related

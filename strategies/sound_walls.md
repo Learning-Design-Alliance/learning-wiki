@@ -19,7 +19,7 @@ A sound wall is a classroom display organized by phonemes — typically arranged
 
 ## Design Implications
 
-Sound walls operationalize explicit, systematic phonics instruction by making the phoneme — not the letter — the organizing unit, which aligns with how skilled reading develops: readers map spellings onto speech sounds to build orthographic representations [Systematic phonics instruction outperforms whole-word approaches for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Including articulatory cues (photos of mouth positions, voiced/unvoiced markers) supports phonemic awareness by giving learners a concrete, observable anchor for an abstract mental category [+M]. As automatic word recognition develops, freed attentional resources support comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
+Sound walls operationalize explicit, systematic phonics instruction by making the phoneme — not the letter — the organizing unit, which aligns with how skilled reading develops: readers map spellings onto speech sounds to build orthographic representations [Systematic phonics instruction outperforms whole-word approaches for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Including articulatory cues (photos of mouth positions, voiced/unvoiced markers) supports phonemic awareness by giving learners a concrete, observable anchor for an abstract mental category [+M]. As automatic word recognition develops, freed attentional resources support comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
 
 ### Context
 #### Requirements
@@ -49,7 +49,7 @@ Sound walls operationalize explicit, systematic phonics instruction by making th
 - Phonemic awareness: perceiving, segmenting, and manipulating speech sounds
 - Phonics: grapheme–phoneme correspondence for decoding and encoding
 - Spelling: selecting plausible graphemes for sounds in writing
-- Automatic word recognition as a foundation for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Automatic word recognition as a foundation for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 
 ### Instructions
 1. Introduce the target phoneme with articulation: students observe and feel mouth position (mirrors help), and the teacher posts the phoneme card on the wall.

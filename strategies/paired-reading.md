@@ -20,7 +20,7 @@ Paired Reading is a structured oral reading technique in which a learner and a m
 
 ## Design Implications
 
-Paired Reading works because unison reading supplies a fluent model at the moment of decoding, keeping the learner inside the text rather than stalled on individual words, while the read-along reduces the working-memory burden of simultaneous decoding and comprehension [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Repeated successful oral reading builds automatic word recognition, which frees attentional resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. The technique deliberately pairs modeling with supported practice and immediate, low-stakes correction — a combination consistent with [Social Learning Theory](../theories/social-learning-theory.md) and the modeling-to-practice arc of [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md).
+Paired Reading works because unison reading supplies a fluent model at the moment of decoding, keeping the learner inside the text rather than stalled on individual words, while the read-along reduces the working-memory burden of simultaneous decoding and comprehension [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Repeated successful oral reading builds automatic word recognition, which frees attentional resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. The technique deliberately pairs modeling with supported practice and immediate, low-stakes correction — a combination consistent with [Social Learning Theory](../theories/social-learning-theory.md) and the modeling-to-practice arc of [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md).
 
 ### Context
 #### Requirements
@@ -54,7 +54,7 @@ Paired Reading works because unison reading supplies a fluent model at the momen
 - **Partner reading in class**: two students of similar ability alternate pages, with fluency modeling from a recorded or teacher-read first pass
 
 ### Target Learners
-- Beginning and struggling readers in K–3 who have some decoding skill but lack fluency [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Beginning and struggling readers in K–3 who have some decoding skill but lack fluency [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Older struggling readers and English learners, provided texts match their comprehension level even when decoding lags
 - Less appropriate for learners still mastering letter–sound correspondence, who need explicit phonics instruction first [~M]
 - Struggling readers and learners with reading difficulties, who benefit from hearing prosodic models they cannot yet produce alone [+M]
@@ -117,7 +117,7 @@ Paired reading is a dyadic reading routine in which a more proficient reader (te
 
 ## Design Implications
 
-Paired reading works because it combines [Modeling](../elements/modeling.md) with supported [Practice](../elements/practice.md): the learner hears fluent prosody while tracking text, then rehearses the same passage with decreasing support. Fluent, automatic word recognition is a prerequisite for comprehension, because decoding effort consumes working memory that would otherwise be devoted to meaning [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. The simultaneous-read phase also keeps the learner's eyes on text at a fluent pace, avoiding the word-by-word, expressionless reading that develops when struggling readers always practice alone.
+Paired reading works because it combines [Modeling](../elements/modeling.md) with supported [Practice](../elements/practice.md): the learner hears fluent prosody while tracking text, then rehearses the same passage with decreasing support. Fluent, automatic word recognition is a prerequisite for comprehension, because decoding effort consumes working memory that would otherwise be devoted to meaning [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. The simultaneous-read phase also keeps the learner's eyes on text at a fluent pace, avoiding the word-by-word, expressionless reading that develops when struggling readers always practice alone.
 
 ### Context
 #### Requirements
@@ -139,7 +139,7 @@ Paired reading works because it combines [Modeling](../elements/modeling.md) wit
 - **Partner reading in class**: two students of similar ability alternate pages, with fluency modeling from a recorded or teacher-read first pass
 
 ### Target Learners
-- Developing readers in the early fluency stage (roughly ages 6–9) who decode but read haltingly [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Developing readers in the early fluency stage (roughly ages 6–9) who decode but read haltingly [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Struggling readers and learners with reading difficulties, who benefit from hearing prosodic models they cannot yet produce alone [+M]
 - English learners, for whom simultaneous reading couples pronunciation modeling with meaning-making [+M]
 - Less appropriate for fluent readers, for whom oral paired reading adds little beyond what silent reading provides [~W]

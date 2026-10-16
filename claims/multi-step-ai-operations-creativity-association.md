@@ -42,6 +42,9 @@ The review reports, citing Zhu et al. (2025a), a study categorising students' pr
 ## Discussion
 
 
+## Learner Variables
+- [Creativity](../learner-variables/creativity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - A bespoke GenAI image workflow most robustly expanded architecture students' creative search space, while less uniformly supporting refinement of final design decisions — related
 - [Embedded AI assistance enabled a novice student to troubleshoot in real time and stay in creative flow](copilot-embedded-support-real-time-troubleshooting.md) — related

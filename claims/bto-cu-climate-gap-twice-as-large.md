@@ -42,6 +42,9 @@ Observational analysis of the same 1,715-school California sample, comparing Sch
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [School climate differences between BTO and chronically underperforming schools are twice as large as differences between BTO and other schools](climate-gap-bto-versus-cu-schools.md) — possibly the same claim (merge candidate)
 - [Beating-the-odds schools have substantially more positive school climate than other California middle and high schools](bto-schools-higher-school-climate-percentile.md) — related

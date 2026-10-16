@@ -12,10 +12,16 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 106 claims (75 show a difference, 23 mixed, 8 no difference) · 81 studies (19 causal, 19 associational, 18 review, 10 quant-synthesis, 7 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 15 of 81 report an effect size · 98 claims rest on one study
+> **Evidence** · 108 claims (75 show a difference, 23 mixed, 8 no difference, 2 unmarked) · 82 studies (19 causal, 19 review, 19 associational, 10 quant-synthesis, 7 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 16 of 82 report an effect size · 100 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
+
+## How strongly it relates to achievement
+
+**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
+
+- Self-regulation **r = .42** (children, stronger in younger samples) and metacognition **.37** (adolescents). [Claim](../claims/self-regulation-and-metacognition-correlate-strongly-with-math-achievement.md)
 
 ## Implications
 

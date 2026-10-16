@@ -42,6 +42,9 @@ HLM analysis of student Safety measures from the My Voice, My School survey (200
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Student reports of academic personalism increased dramatically in Culture of Calm schools relative to non-CoC schools (d = 1.1), though the substantive meaning is uncertain](coc-academic-personalism-increased.md) — related
 - [Teacher-Principal Trust improved only marginally significantly, and Student-Teacher Trust, Program Coherence, Quality Professional Development, and Teacher-Parent Trust showed no significant differential change](coc-other-climate-measures-null.md) — related

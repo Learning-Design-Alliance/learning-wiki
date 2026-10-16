@@ -43,6 +43,10 @@ Second cluster randomized trial in publicly funded Nebraska preschool programs w
 ## Discussion
 
 
+## Learner Variables
+- [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [In a rural randomized trial, TAPP strengthens both teacher-reported and parent-reported family-school relationships](tapp-strengthens-parent-teacher-relationships.md) — related
 - TAPP improves teacher-reported student adaptive behavior and social skills in K–3 students with disruptive behaviors (RCT, 21 elementary schools) — related

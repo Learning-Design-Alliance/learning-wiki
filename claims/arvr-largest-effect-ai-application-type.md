@@ -47,3 +47,4 @@ Subgroup analysis of AI application types (AR/VR k = 8, ITS k = 61, games k = 23
 - [Subject significantly moderates effects, with AI-enabled personalized STEM education most effective in comprehensive courses (g = 2.161)](comprehensive-courses-largest-subject-effect.md) — related
 - [GAI-related and GAI-unrelated AI tools show no significant difference in their moderating effects on K-12 STEM learning outcomes](gai-usage-no-moderating-effect.md) — related
 - [School level significantly moderates effects: AI-enabled personalized STEM education is more effective in junior and senior high school than in kindergarten](school-level-moderates-ai-stem-effects.md) — related
+- [Most VR/AR-supported K-12 STEM studies targeted elementary students and used quantitative methods, with most samples under 100 participants](elementary-focus-quantitative-methods-small-samples.md) — related

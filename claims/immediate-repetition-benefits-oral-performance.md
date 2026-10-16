@@ -43,6 +43,7 @@ The article reviews prior task-repetition research (Bygate 2001; Ahmadian and Ta
 
 ## Learner Variables
 - [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
+- [Communication Skills](../learner-variables/communication-skills.md) — outcome: instruction changes it
 
 ## Related Claims
 

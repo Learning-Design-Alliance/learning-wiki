@@ -93,6 +93,9 @@ First-term nursing students in 12 lab sections had one 110-minute library sessio
 
 **Boundary conditions and open questions.** Most of the supporting research base comes from civic online reasoning contexts (news, websites, social media) with secondary and post-secondary learners; how checklist training interacts with domain expertise, younger learners, or curated (non-open-web) source sets remains underexplored. In curated collections where on-page metadata *is* reliable (e.g., a library database), checklist-style criteria may do less harm. Checklists may also retain limited value as a *post-hoc* reflection aid after lateral investigation, rather than as the primary evaluation procedure — a role closer to structured reflection tools such as [3-2-1 reflection](../strategies/3-2-1_reflection.md) than to a decision procedure.
 
+## Learner Variables
+- [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [AI literacy interventions show a large, statistically significant overall positive effect on student AI literacy outcomes (g = 0.837)](ai-literacy-interventions-large-overall-effect.md) — the general claim this finding bears on, with the studies behind it

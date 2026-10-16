@@ -44,3 +44,4 @@ Systematic review of 138 articles published 2016–2022, with years coded a prio
 
 ## Related Claims
 - [Publication counts in the selected sample increased in 2023 and 2024, coinciding with growing attention to large language models and generative AI](ai-math-publications-growth-2023-2024-llm-shift.md) — related
+- [Publication of empirical AI-STEM studies increased over the decade, with most articles published 2018–2021](ai-stem-publications-increasing-trend-2018-2021.md) — related

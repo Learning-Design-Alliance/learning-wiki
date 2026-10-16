@@ -41,6 +41,9 @@ Thematic analysis of semi-structured interviews with 17 volunteering experimenta
 
 ## Discussion
 
+## Learner Variables
+- [Collaboration](../learner-variables/collaboration.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [The effect of cooperative learning did not differ statistically by teaching style, outcome type, publication quality, bias status, or report type](cooperative-learning-nonsignificant-moderators.md) — the general claim this finding bears on, with the studies behind it

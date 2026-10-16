@@ -65,8 +65,8 @@ The article presents a framework in which a multidimensional IRT model is repres
 
 ### Claims
 
-- [Mml Bifactor Two Dimensional Integrals General Conditions](../claims/mml-bifactor-two-dimensional-integrals-general-conditions.md) [+S]
-- [Mml Complexity Scales With Clique State Spaces](../claims/mml-complexity-scales-with-clique-state-spaces.md) [+S]
+- [Mml Bifactor Two Dimensional Integrals General Conditions](../claims/mml-bifactor-two-dimensional-integrals-general-conditions.md) [+M]
+- [Mml Complexity Scales With Clique State Spaces](../claims/mml-complexity-scales-with-clique-state-spaces.md) [+M]
 - [Full information MML estimation of a multidimensional IRT model with a second-order dimension also requires only two-dimensional integrals](../claims/mml-second-order-dimension-two-dimensional-integrals.md) [+W]
 
 ## Related Theories

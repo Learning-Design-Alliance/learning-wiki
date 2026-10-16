@@ -438,7 +438,7 @@ Word sorting asks learners to classify a set of words into categories based on s
 
 ## Design Implications
 
-Word sorting is a form of guided induction: by contrasting exemplars, learners discover orthographic regularities, which supports decoding and automatic word recognition [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. The comparison structure is the active ingredient — sorting works because it forces attention to similarities and differences among cases, not because words are handled physically [Comparing and contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Sorts should be followed by reading and writing the sorted words in context so patterns transfer to authentic text.
+Word sorting is a form of guided induction: by contrasting exemplars, learners discover orthographic regularities, which supports decoding and automatic word recognition [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. The comparison structure is the active ingredient — sorting works because it forces attention to similarities and differences among cases, not because words are handled physically [Comparing and contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. Sorts should be followed by reading and writing the sorted words in context so patterns transfer to authentic text.
 
 ### Context
 #### Requirements
@@ -461,7 +461,7 @@ Word sorting is a form of guided induction: by contrasting exemplars, learners d
 - **Concept sorts** — semantic rather than orthographic categories (e.g., by topic), useful for vocabulary before learners can sort by spelling
 
 ### Target Learners
-- Beginning readers in the alphabetic and within-word-pattern stages, who are consolidating sound–spellings [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Beginning readers in the alphabetic and within-word-pattern stages, who are consolidating sound–spellings [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Struggling readers and spellers who need many contrasting exemplars to discriminate confusable patterns
 - English learners, for whom sorting makes the orthographic system of English explicit and comparable to their first language's system [~M]
 - Less appropriate for learners already reading fluently, for whom pattern study adds little to automaticity

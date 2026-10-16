@@ -75,6 +75,9 @@ Zimmerman provides a robust theoretical framework for self-regulated learning (S
 ## Discussion
 This suggests that instructional design for novices should prioritize "how-to" goals before transitioning to achievement-oriented targets.
 
+## Learner Variables
+- [Achievement Goal Orientation](../learner-variables/achievement-goal-orientation.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — the general claim this finding bears on, with the studies behind it

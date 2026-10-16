@@ -42,8 +42,11 @@ Qualitative findings from interviews, surveys, and a diary study with 76 faculty
 ## Discussion
 
 
+## Learner Variables
+- [Social Supports](../learner-variables/social-supports.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Gateway math students benefit from a balance of social, active learning and independent practice, but faculty constraints limit active learning](balance-active-learning-independent-practice-gateway-math.md) — related
 - [Participants reported that the trust-building collaborative environment enabled open and vulnerable sharing](trust-climate-enabled-open-sharing.md) — related
-- [Teacher support is one of the strongest predictors of student belonging](teacher-support-predicts-student-belonging.md) — a broader claim this one bears on
+- [Teacher support is one of the strongest predictors of student belonging](teacher-support-strongest-predictor-school-belonging.md) — a broader claim this one bears on
 - [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — related

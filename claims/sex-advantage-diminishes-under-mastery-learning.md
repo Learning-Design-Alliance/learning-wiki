@@ -64,6 +64,7 @@ Authors' interpretation of the treatment-group correlation comparisons (Table 4)
 ## Learner Variables
 - [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
 - [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+- [Academic Self-Concept](../learner-variables/academic-self-concept.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 

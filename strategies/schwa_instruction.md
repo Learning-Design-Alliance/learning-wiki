@@ -19,7 +19,7 @@ Schwa instruction teaches learners that any vowel letter (a, e, i, o, u) can rep
 
 ## Design Implications
 
-Schwa instruction is a form of structured literacy teaching that connects phonology to orthography: it converts what looks like an arbitrary spelling exception into a predictable consequence of stress [Explicit and systematic phonics instruction improves word reading.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. It works best when embedded in a systematic sequence after learners can read and spell single-syllable words with common vowel patterns, since schwa only makes sense once students expect vowels to "say their sounds" [Explicit and systematic phonics instruction improves word reading.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+M]. Instruction should pair perception (hearing the reduced vowel) with production (spelling and marking it), because orthographic mapping — linking phonemes to letter patterns — is what builds automatic word recognition [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
+Schwa instruction is a form of structured literacy teaching that connects phonology to orthography: it converts what looks like an arbitrary spelling exception into a predictable consequence of stress [Explicit and systematic phonics instruction improves word reading.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. It works best when embedded in a systematic sequence after learners can read and spell single-syllable words with common vowel patterns, since schwa only makes sense once students expect vowels to "say their sounds" [Explicit and systematic phonics instruction improves word reading.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+M]. Instruction should pair perception (hearing the reduced vowel) with production (spelling and marking it), because orthographic mapping — linking phonemes to letter patterns — is what builds automatic word recognition [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
 
 ### Context
 #### Requirements
@@ -46,7 +46,7 @@ Schwa instruction is a form of structured literacy teaching that connects phonol
 ### Target Learning Goals
 - Spelling accuracy in multisyllabic words, especially unstressed vowels
 - Phonological awareness at the level of syllable stress and vowel reduction
-- Orthographic mapping: explaining why words are spelled as they are rather than memorizing them as exceptions [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Orthographic mapping: explaining why words are spelled as they are rather than memorizing them as exceptions [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 
 ### Instructions
 1. Review syllable division and accent in familiar two-syllable words ([Direct Instruction](../elements/direct-instruction.md)).

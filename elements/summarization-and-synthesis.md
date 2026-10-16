@@ -13,14 +13,14 @@ generated:
 # Summarization and Synthesis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 6 studies (3 causal, 3 quant-synthesis), `q2`–`q4` · 3 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (1 for, 2 mixed, 1 against) · 6 studies (3 causal, 3 quant-synthesis), `q2`–`q4` · 3 of 6 report an effect size · 2 claims rest on one study
 
 ## Description
 Summarization asks learners to condense material into their own words, selecting and restating the most important ideas. Synthesis goes further: learners integrate ideas across multiple sources or experiences into a new, coherent account. Both are generative activities — the learner must construct meaning rather than recognize it.
 
 ## Design Implications
 
-Summarization is one of the most consistently supported study strategies, but only when learners are taught *how* to summarize; untrained summarizing produces weak effects [Summarization is effective when learners receive training in summarization strategy use.](../claims/summarization-improves-learning.md) [+S]. Because it requires retrieval from memory and reorganization of ideas, it functions simultaneously as [Retrieval Practice](../principles/retrieval-practice.md) and knowledge-structuring activity. Synthesis across sources supports higher-order goals but imposes heavy working-memory and comprehension demands, so it benefits from supports such as [Chunking](../principles/chunking.md) and graphic organizers [Graphic organizers support comprehension for novices.](../claims/graphic-organizers-support-novice-comprehension.md) [+M].
+Summarization is one of the most consistently supported study strategies, but only when learners are taught *how* to summarize; untrained summarizing produces weak effects [Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading](../claims/summarization-improves-learning.md) [~M]. Because it requires retrieval from memory and reorganization of ideas, it functions simultaneously as [Retrieval Practice](../principles/retrieval-practice.md) and knowledge-structuring activity. Synthesis across sources supports higher-order goals but imposes heavy working-memory and comprehension demands, so it benefits from supports such as [Chunking](../principles/chunking.md) and graphic organizers [Graphic organizers support comprehension for novices.](../claims/graphic-organizers-support-novice-comprehension.md) [+M].
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Summarization is one of the most consistently supported study strategies, but on
 - For synthesis: multiple sources or perspectives, plus a framing question that forces integration
 
 #### Constraints
-- Untrained learners tend to summarize by deleting or copying verbatim rather than selecting and reorganizing, yielding little benefit [Summarization is effective when learners receive training in summarization strategy use.](../claims/summarization-improves-learning.md) [-M]
+- Untrained learners tend to summarize by deleting or copying verbatim rather than selecting and reorganizing, yielding little benefit [Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading](../claims/summarization-improves-learning.md) [-M]
 - Summarizing during initial reading can overload working memory for learners with low prior knowledge; it is more effective after or between readings [~M]
 - Verbatim copying and underlining produce far weaker learning than generative restatement [Experimenter-provided underlining can aid review, but student-generated underlining is unreliable.](../claims/experimenter-underlining-effective-as-student-underlining.md) [~W]
 - Synthesis across many sources can exceed novice capacity without [Cognitive Load Reduction](../principles/cognitive-load-management.md) supports
@@ -38,10 +38,10 @@ Summarization is one of the most consistently supported study strategies, but on
 ### Target Learners
 - Intermediate learners who already have enough prior knowledge to judge idea importance; complete novices struggle to distinguish central from peripheral ideas [~M]
 - Students in research-heavy disciplines and the humanities, where integrating multiple sources is the core task
-- General study-skills populations — summarization is among the most broadly applicable learning techniques [Summarization is effective when learners receive training in summarization strategy use.](../claims/summarization-improves-learning.md) [+S]
+- General study-skills populations — summarization is among the most broadly applicable learning techniques [Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading](../claims/summarization-improves-learning.md) [~M]
 
 ### Target Learning Goals
-- Retention: summarizing from memory strengthens recall of key ideas [Summarization is effective when learners receive training in summarization strategy use.](../claims/summarization-improves-learning.md) [+S]
+- Retention: summarizing from memory strengthens recall of key ideas [Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading](../claims/summarization-improves-learning.md) [~M]
 - Comprehension monitoring: producing a summary exposes gaps in understanding
 - Higher-order integration: synthesizing across sources builds relational, organized knowledge structures
 

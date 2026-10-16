@@ -42,6 +42,9 @@ Randomized effectiveness study in two neighborhood family centers and 10 element
 ## Discussion
 
 
+## Learner Variables
+- [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Early Risers shows no discernible effects on external behavior for children at risk of emotional disturbance classification](early-risers-no-effect-external-behavior.md) — related
 - [FBA-based interventions show potentially positive effects on school engagement for children identified with or at risk for an emotional disturbance](fba-potentially-positive-school-engagement.md) — related
@@ -51,3 +54,4 @@ Randomized effectiveness study in two neighborhood family centers and 10 element
 - [After two years of implementation, Early Risers showed a statistically significant positive effect on the Academic Competence Composite in the 2001 supplemental findings](early-risers-two-year-academic-competence-significant.md) — related
 - [First Step to Success shows potentially positive but not statistically significant effects on emotional/internal behavior (effect size 0.26)](first-step-success-internal-behavior-substantive-nonsig.md) — related
 - [Prospective longitudinal studies of high-risk children found that a greater percentage became healthy, competent young adults than developed problems](high-risk-children-majority-resilient-longitudinal.md) — related
+- [Internalizing behaviors are not related to academic achievement in students with E/BD](internalizing-behaviors-not-related-to-achievement.md) — related

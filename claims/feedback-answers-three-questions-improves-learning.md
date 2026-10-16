@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: feedback-answers-three-questions-improves-learning
+aliases: [feedback-answers-three-questions]
 evidence_strength:
 sources:
   - id: hattie-timperley-2007
@@ -50,6 +51,18 @@ This is the paper's origin: Hattie and Timperley propose a model in which effect
 
 **Open questions.** Whether the three questions must be answered explicitly by the teacher or can be partially answered by learners through self-assessment; how the framework interacts with grading (grades appended to comments may wash out the benefit of the comments); whether "where to next" must be immediately actionable or can be a longer-term learning intention; and whether the three questions operate as a package or whether the third question carries most of the effect on its own.
 
+*Merged from “Feedback Answers Three Questions” (feedback-answers-three-questions):* The three-question framing treats feedback as information about the gap between a current state and a target state, not as praise, blame, or a verdict. Each question implies a different design decision:
+
+- **Where am I going?** requires that goals and success criteria be visible to learners before performance, connecting feedback to [assessment for learning](../principles/assessment-for-learning.md) and to [clear structure](../principles/clear-structure.md). Feedback against unclear or unshared goals tends to be interpreted idiosyncratically.
+- **How am I going?** requires evidence of current performance relative to the goal — which is why feedback is tightly coupled with [assessment](../elements/assessment.md) and with [check-ins](../principles/check-ins.md) that surface progress during, not after, learning.
+- **Where to next?** is the action-oriented component: feedback must suggest a next step the learner can take. This aligns with [action-oriented feedback](../strategies/action-oriented-feedback.md) and supports [self-regulated learning](../theories/self-regulated-learning.md), since learners who know the next move can begin managing their own progress.
+
+A key boundary condition in the feedback literature is the *level* at which feedback is directed. Feedback about the task and about the processes used to do the task is generally more useful than feedback directed at the person ("you're so smart"), which can steer attention toward self-protection rather than strategy adjustment. This interacts with learner expertise: novices typically need task-level feedback, while more advanced learners benefit more from process and self-regulation levels — a moderation consistent with the [expertise reversal effect](../theories/expertise-reversal-effect.md).
+
+Constraints on the model follow from these boundary conditions. Feedback loses effectiveness when it directs attention to the self rather than the task, when goals are unshared or ambiguous so that "how am I going?" has no stable reference point, and when learners lack the prerequisite knowledge to act on "where to next?" guidance — in that case, next-step advice becomes noise rather than direction. Automated or rubric-driven feedback environments often answer "how am I going?" adequately but fail at "where to next?", producing evaluation without direction — see [Checklist evaluation ineffective online](checklist-evaluation-ineffective-online.md) for a related boundary case.
+
+Open questions this page should eventually resolve with cited evidence: (1) the relative effect sizes of the three questions when manipulated independently; (2) whether "where to next?" feedback loses its advantage when learners lack the prerequisite knowledge to act on it; and (3) how the model plays out in digital environments, where automated feedback can answer "how am I going?" well but struggles with "where to next?"
+
 ## Related Claims
 
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — shares the goal–gap–next-step loop in formative assessment practice
@@ -57,9 +70,7 @@ This is the paper's origin: Hattie and Timperley propose a model in which effect
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — detailed feedback may lose value as proficiency grows
 - [Self-regulated learning](../theories/self-regulated-learning.md) — the three questions map onto goal setting, self-monitoring, and strategy adjustment
 - [Action-oriented feedback](../strategies/action-oriented-feedback.md) — a strategy built around the "where to next" step
-- [Feedback Answers Three Questions](feedback-answers-three-questions.md) — possibly the same claim (merge candidate)
-- [Feedback Improves Learning When It Addresses Task Goals](feedback-improves-learning-when-it-addresses-task-goals.md) — related
-- [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — related
+- [Feedback Improves Learning When It Addresses Task Goals](feedback-most-effective-at-task-and-process-levels.md) — related
 - [Feedback improves learning, with a medium average effect that varies widely by feedback type](feedback-improves-learning.md) — a broader claim this one bears on
 - [Goal setting is widely believed to improve individual performance, and this belief is being tested in schools](goal-setting-belief-tested-in-schools.md) — related
 - [Feedback about self as a person is the least effective feedback level; task, process, and self-regulation feedback support learning and combine for greater impact](feedback-levels-task-process-self-regulation-effective.md) — related
@@ -69,3 +80,7 @@ This is the paper's origin: Hattie and Timperley propose a model in which effect
 - [Formative feedback dominates authentic assessment designs while sustainable feedback is rare](aa-formative-feedback-dominates-sustainable-rare.md) — related
 - [Established feedback frameworks do not address the epistemic status of feedback tasks relevant to automation decisions](existing-feedback-frameworks-silent-on-epistemic-status.md) — related
 - [Students report awareness of feedback-acting strategies but experience difficulty carrying them out](students-aware-of-strategies-but-fail-to-act.md) — related
+- [Developing a common understanding of expected learning helps all students succeed, not only those with school-aligned prior knowledge](shared-understanding-expected-learning-helps-all-students.md) — the general claim this finding bears on, with the studies behind it
+- [Checklist evaluation ineffective online.](checklist-evaluation-ineffective-online.md) — a boundary case where automated feedback answers "how am I going?" but fails to direct the learner's next step.
+- [Students endorsed descriptive, predictive, and prescriptive data points driven by a desire to understand study progress and act on it](students-endorse-descriptive-predictive-prescriptive-data-points.md) — a narrower finding that bears on this claim
+- [Progress monitoring is needed to guide next steps in planning and providing instruction and interventions](progress-monitoring-guides-next-steps-instruction.md) — related

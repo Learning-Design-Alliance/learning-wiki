@@ -1,0 +1,65 @@
+---
+type: learner-variable
+id: proportional-reasoning
+title: Proportional Reasoning
+description: "A learner's understanding of ratios and the relationships between them, as expressed in fractions, percentages and rates."
+status: review
+generated:
+  by: claude/unspecified
+  at: 2026-10-16
+---
+
+# Proportional Reasoning
+
+> **Learner Variable** · [All learner variables](index.md)
+> **Evidence** · 5 claims (5 show a difference) · 5 studies (2 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 1 of 5 report an effect size · 5 claims rest on one study
+
+## Description
+Proportional reasoning is understanding ratio and how ratios relate to one another. The Learner Variability Navigator describes a ratio as a relationship between parts and wholes that can be written as a fraction, a percentage or a rate. It is assessed with tasks that ask learners to rank fractions shown in different forms (shaded shapes, numerals, decimals) by size, and with missing-value problems in which one quantity in a pair of equivalent ratios must be found.
+
+LVN treats it as an essential part of arithmetic proficiency in primary school and as the entry point to algebra, geometry, and probability and statistics; it follows it from grade 3 to grade 10. Fraction understanding is central, and LVN connects it to difficulties with multiplication and division, to [working memory](working-memory.md), and to [arithmetic fact retrieval](arithmetic-fact-retrieval.md). It extends [number sense](number-sense.md) to rational numbers and supports [algebraic thinking](algebraic-thinking.md), [geometric reasoning](geometric-reasoning.md) (similarity) and [measurement](measurement.md) (units).
+
+## Implications
+
+### Context
+- Representing fractions in several ways, and connecting them, supports fraction problem solving.
+- Comparing fractions can require suppressing the habit of judging by the larger number.
+
+### Target Learners
+- Upper-primary and lower-secondary learners learning fractions, ratios, percentages and rates.
+- Learners with weak multiplication and division or slow fact retrieval.
+
+### Target Learning Objectives
+- Fraction magnitude, ratio equivalence and rate problems.
+- Readiness for algebra, similarity and probability.
+
+## Claims
+<!-- Claims reporting findings about this variable, with evidence tags -->
+- [Fiber crafting develops proportional reasoning through nested, personally-defined units](../claims/fiber-crafting-develops-proportional-reasoning-through-unitizing.md) [+W] — instruction changes it
+- [Learning is effective when it builds on children's existing knowledge in real-world contexts, and early fraction foundations matter because many older children struggle with rational numbers](../claims/early-fraction-foundations-given-rational-number-difficulty.md) [+W] — learners who differ on it differ in outcomes
+- [Spontaneous break-apart-make-ten strategy use is associated with stronger multiplicative double-counting reasoning](../claims/spontaneous-additive-strategy-relates-to-multiplicative-reasoning.md) [+W] — learners who differ on it differ in outcomes
+- [Student errors on underestimated fraction items reflect systematic misconception patterns rather than random error](../claims/fraction-errors-systematic-misconception-patterns.md) [+M] — learners who differ on it differ in outcomes
+- [The partnership's long-term goal is that students can solve fraction computation and ratio and rate problems](../claims/tft-student-long-term-outcome-goal.md) [+W] — instruction changes it
+
+## Measures
+- **Ranking Proportions Task** (e.g., Mazzocco & Devlin, 2008): Magnitude comparison for fractions and rational numbers where students rank order different representations of fractions including shaded circles, numerical fractions, and decimals.
+- **Missing value problems** (e.g., Lamon, 2007): Students are asked to determine which value is missing in a ratio equivalence context (e.g., how many sugars do you need to add to 6 lemons so your lemonade is the same sweetness as my lemonade with 2 sugars and 3 lemons?).
+
+## Related Learner Variables
+- [Algebraic Thinking](algebraic-thinking.md): fraction knowledge relates to equation knowledge and predicts improvement in solving equations.
+- [Communication Skills](communication-skills.md): verbal reasoning, which LVN files under math communication, relates to accuracy on fraction problems.
+- [Mathematical Flexibility](mathematical-flexibility.md): representing fractions in several ways supports fraction problem solving.
+- [Measurement](measurement.md): the multiplicative relationship between quantities underpins understanding of a unit.
+- [Operations and Place Value](operations-and-place-value.md): difficulty with multiplication and division often goes with difficulty understanding fractions.
+- [Self-Efficacy](self-efficacy.md): students with higher mathematics self-efficacy, which LVN files under math mindset, did better on fraction tests.
+- [Attention](attention.md): attention in mathematics class predicts fraction problem solving and its improvement.
+- [Working Memory](working-memory.md): higher working memory goes with greater growth in fraction problem solving.
+- [Arithmetic Fact Retrieval](arithmetic-fact-retrieval.md): better fact retrieval goes with greater improvement in fraction problem solving.
+- [Number Sense](number-sense.md): proportional reasoning reveals the multiplicative relationships inside place value.
+- [Geometric Reasoning](geometric-reasoning.md): similarity problems are solved with proportional reasoning.
+- [Executive Function](executive-function.md): inhibition helps when comparing fractions with the same numerator, against the pull of the larger denominator.
+
+## Examples
+
+## Key Sources
+- Digital Promise. *Learner Variability Navigator*: Proportional Reasoning (Building Math 3-6, Building Math 7-10). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/math-3-6/factors/proportional-reasoning-math-3-6/summary). Licensed CC BY-NC 4.0.

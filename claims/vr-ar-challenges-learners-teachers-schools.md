@@ -1,0 +1,48 @@
+---
+type: claim
+title: "VR/AR implementation challenges fall on three fronts: learner distraction and discomfort, teacher classroom-management and design burdens, and school cost and infrastructure limits"
+description: "VR/AR implementation challenges fall on three fronts: learner distraction and discomfort, teacher classroom-management and design burdens, and school cost and infrastructure limits"
+id: vr-ar-challenges-learners-teachers-schools
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+evidence_strength: moderate
+sources:
+  - id: haozhe-jiang-2025
+    resource: "https://doi.org/10.1007/s10639-024-13210-z"
+    title: "Haozhe Jiang, Deqi Zhu, Ritesh Chugh, Darren Turnbull, Wu Jin. (2025). Virtual reality and augmented reality-supported K-12 STEM learning: trends, advantages and challenges. Education and Information Technologies. https://doi.org/10.1007/s10639-024-13210-z"
+    author: Haozhe Jiang, Deqi Zhu, Ritesh Chugh, Darren Turnbull, Wu Jin
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
+---
+
+# VR/AR implementation challenges fall on three fronts: learner distraction and discomfort, teacher classroom-management and design burdens, and school cost and infrastructure limits
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q2`
+
+## Subclaims
+`q2 i?` Eight reviewed articles reported VR/AR-induced distraction among learners; teachers faced loss of classroom control, difficulty designing activities and lack of technical competence; schools faced costs, inadequate infrastructure, lack of private virtual space and privacy concerns. [→ Haozhe Jiang 2025](#haozhe-jiang-2025)
+
+## Evidence
+
+### Haozhe Jiang 2025
+
+Haozhe Jiang, Deqi Zhu, Ritesh Chugh, Darren Turnbull, Wu Jin. (2025). Virtual reality and augmented reality-supported K-12 STEM learning: trends, advantages and challenges. Education and Information Technologies. https://doi.org/10.1007/s10639-024-13210-z
+
+`q2 · i?` · `review · r2`
+
+The review's challenges synthesis (RQ2, Table 2) codes challenges to learners (distraction in eight articles, operational problems in five, reduced imagination, discomfort), to teachers (loss of classroom control, activity design difficulty, technical competence, new facilitation role), and to schools (costs, infrastructure, virtual space, privacy).
+
+> "the immersive nature of VR/AR could trigger discomfort (e.g., dizziness), potentially hindering students' learning process (Holly et al., 2021). Teachers also encountered classroom management dilemmas when using VR/AR devices (Ketelhut & Nelson, 2010)."
+
+## Discussion
+
+
+## Related Claims
+- [Non-immersive devices, especially smartphone/tablet-based AR, dominated VR/AR-supported K-12 STEM studies; immersive AR was rarely used](smartphone-tablet-ar-dominates-k12-stem-devices.md) — related
+- [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
+- [Ethical, financial, and infrastructural barriers significantly constrain the long-term sustainability of AI-driven educational transformation in higher education](ethical-financial-infrastructural-barriers-constrain-ai-sustainability.md) — related

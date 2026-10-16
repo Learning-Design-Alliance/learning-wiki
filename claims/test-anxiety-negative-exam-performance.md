@@ -62,7 +62,7 @@ Multi-level model of exam grades with student and course as random factors and t
 - [Academic Anxiety](../learner-variables/academic-anxiety.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Online and proctored online exams increase students' test anxiety compared with on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — related
+- [Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — related
 - [Proctored online exams show no effect on students' exam performance](proctoring-no-effect-exam-performance.md) — related
 - [Familiarity with online and proctored exams, approximated by exam quartile, shows no effect on test anxiety](familiarity-no-effect-test-anxiety.md) — related
 - [Higher internet literacy is associated with lower test anxiety in online exams](internet-literacy-lower-test-anxiety.md) — related

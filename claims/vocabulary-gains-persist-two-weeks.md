@@ -44,6 +44,8 @@ Delayed posttest administered 2 weeks after the first session to 14 of the initi
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
 
 ## Related Claims
 - [L2 learners report higher certainty for meaning recognition than for meaning recall or form recognition of newly encountered words](certainty-higher-meaning-recognition-than-recall.md) — related

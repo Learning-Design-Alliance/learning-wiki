@@ -50,6 +50,9 @@ Sendur, K. A., van Drie, J., & van Boxtel, C. (2021). Historical contextualizati
 ## Discussion
 This is a genuine, informative null result on the paper's primary target and should not be overstated into a general endorsement of the instructional pattern. The unexpected claim-writing transfer effect and the descriptive placement/connection patterns are plausible but weaker-tier evidence (q1-q2, no inferential statistics for the qualitative codes) that the intervention changed *how* students write even when the primary rubric score didn't move — a genuine dissociation between procedural/discourse-level change and holistic rubric scoring that is itself worth documenting, but which the study cannot explain mechanistically. Findings are specific to L2 learners at B2 English proficiency; generalization to L1 history students is untested.
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Disciplinary Literacy Instruction Improves Comprehension](disciplinary-literacy-instruction-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it

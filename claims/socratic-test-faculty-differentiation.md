@@ -42,6 +42,9 @@ Qualitative instructor report from the Spring 2026 pilot (Section 6.1). The inst
 ## Discussion
 
 
+## Learner Variables
+- [Processing Speed](../learner-variables/processing-speed.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — a broader claim this one bears on
 - [Immersive learning tools should surface misconceptions and track learner difficulties so instructors can adapt teaching and assessment](tools-should-surface-misconceptions-track-difficulties.md) — related

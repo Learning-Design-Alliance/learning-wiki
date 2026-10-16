@@ -54,3 +54,6 @@ The authors define the expertise reversal effect, noting it has been replicated 
 - [Cognitive Load Management](cognitive-load-management.md) — related
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Example-first conditions outperformed problem-first conditions on an immediate circuit test](worked-example-problem-sequences.md) — related
+- [Instructional method and prior knowledge interact on conceptual understanding of statistics (expertise reversal effect)](expertise-reversal-conceptual-understanding-statistics.md) — a narrower finding that bears on this claim
+- [Expertise reversal: high-guidance worked examples become ineffective or detrimental once learners have developed cognitive schemata](expertise-reversal-worked-examples.md) — possibly the same claim (merge candidate)
+- [The imagination effect (cognitive rehearsal of example procedures) enhances learning only for learners with prior knowledge](imagination-effect-expertise-reversal.md) — a narrower finding that bears on this claim

@@ -60,6 +60,9 @@ The brief's key findings state that "Ecree likely improved the quality of studen
 
 
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Teachers and students found Ecree easy to use and helpful for improving writing](ecree-easy-to-use-and-helpful-per-teachers-and-students.md) — related

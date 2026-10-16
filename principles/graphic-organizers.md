@@ -35,7 +35,7 @@ sources:
 # Graphic Organizers
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (10 for, 8 mixed, 1 against) · 32 studies (13 causal, 8 quant-synthesis, 7 review, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 10 of 32 report an effect size · 8 claims rest on one study
+> **Evidence** · 20 claims (11 for, 8 mixed, 1 against) · 33 studies (14 causal, 8 quant-synthesis, 7 review, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 10 of 33 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -131,6 +131,7 @@ Claims on neighbouring questions, found while rewriting this page. Each is cited
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](../claims/dual-coding-improves-learning.md) [+M]: graphics added to text improved reading comprehension (g = 0.39, 39 experiments, elementary to adult), with pictures, pictorial diagrams and flow diagrams not differing; it does not isolate graphic organizers.
 - [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](../claims/activation-improves-learning.md) [~W]
 - [Vocabulary Instruction Improves Comprehension](../claims/vocabulary-instruction-improves-comprehension.md) [+M]
+- [ESL students taught concept mapping show significantly greater pretest-to-posttest achievement gains than students taught an alternative learning strategy](../claims/concept-mapping-greater-achievement-gains-esl.md) [+W] — attached 2026-10-16 from Pasana Chularut (2001), which proposed "Provide explicit learning-strategy training and sustained practice when introducing concept mapping to language learners"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

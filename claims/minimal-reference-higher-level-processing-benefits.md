@@ -42,6 +42,9 @@ Discussion-section observation from the qualitative analysis of 122 students' wr
 
 ## Discussion
 
+## Learner Variables
+- [Metacognition](../learner-variables/metacognition.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Teacher education students in PBL identified valuing others' perspectives, interdependence, and learning about self as attitudes necessary for collaborative learning](pbl-attitudes-valuing-interdependence-self.md) — the general claim this finding bears on, with the studies behind it

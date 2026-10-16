@@ -42,6 +42,10 @@ WWC improvement-index computation across the nine alphabetics findings in Hecht 
 ## Discussion
 
 
+## Learner Variables
+- [Alphabet Knowledge and Print Awareness](../learner-variables/alphabet-knowledge-and-print-awareness.md) — outcome: instruction changes it
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The WWC rated Waterford Early Reading Program™ as having potentially positive effects on alphabetics, based on a substantively important average effect size with no statistically significant individual outcomes](werp-potentially-positive-alphabetics.md) — related
 - [Phonemic segmentation training favored over rhyme/alliteration training on print knowledge, phonological processing, and early reading/writing (Yeh 2003), with substantively important but non-significant differences](phonemic-segmentation-favored-over-rhyme-alliteration-yeh.md) — related

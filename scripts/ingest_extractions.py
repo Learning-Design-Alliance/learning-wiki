@@ -77,7 +77,10 @@ TYPE_TO_FOLDER = {
 }
 
 # Matches okf_lib's own citation-year convention: "(2020)" or "(2020a)".
-_YEAR_RE = re.compile(r"\((\d{4}[a-z]?)\)")
+_YEAR_RE = re.compile(r"\((\d{4}[a-z]?)(?:,[^)]*)?\)")
+# Chicago author-date: "Stadler, Matthias, and Frank Fischer. 2021. Title."
+_YEAR_CHICAGO_RE = re.compile(r"(?<=\.)\s(\d{4}[a-z]?)\.(?=\s)")
+_YEAR_ANY_RE = re.compile(r"\b((?:19|20)\d{2})\b")
 _URL_RE = re.compile(r"(https?://(?:[^\s()<>]|\([^\s()]*\)|<[^\s()<>]*>)+)")  # balanced parens are part of a DOI; see okf_lib.LINK_URL
 
 
@@ -111,9 +114,19 @@ def _citation_id_author_year(citation: str) -> tuple[str, str | None, str | None
     citation = (citation or "").strip()
     if not citation:
         return "source", None, None
-    ym = _YEAR_RE.search(citation)
+    ym = _YEAR_RE.search(citation) or _YEAR_CHICAGO_RE.search(citation)
     if not ym:
-        return ok.slugify(" ".join(citation.split()[:5])) or "source", None, None
+        # IEEE style puts the authors before a quoted title and the year near the end:
+        # M. Author and E. Other, "Title," Journal, 2021.
+        q = re.search(r"[\"\u201c]", citation)
+        yq = [m for m in _YEAR_ANY_RE.finditer(citation) if q and m.start() > q.start()]
+        if not (q and yq):
+            return ok.slugify(" ".join(citation.split()[:5])) or "source", None, None
+        year = yq[-1].group(1)
+        names = citation[: q.start()].strip().rstrip(",")
+        lead = re.split(r",| and ", names)[0].strip().split()[-1] if names else None
+        sid = ok.slugify(f"{lead}-{year}") if lead else ok.slugify(f"source-{year}")
+        return sid or "source", (lead or None), year
     year = ym.group(1)
     prefix = citation[: ym.start()].strip().rstrip(".")
     lead_author = prefix.split(",")[0].strip() if prefix else None

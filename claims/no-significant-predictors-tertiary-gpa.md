@@ -42,7 +42,6 @@ Bivariate correlation analysis in the Results section (tertiary GPA, N = 143). T
 ## Discussion
 
 ## Learner Variables
-- [Epistemic Beliefs](../learner-variables/epistemic-beliefs.md) — predictor: learners who differ on it differ in outcomes
 - [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — predictor: learners who differ on it differ in outcomes
 - [Interest](../learner-variables/interest.md) — predictor: learners who differ on it differ in outcomes
 

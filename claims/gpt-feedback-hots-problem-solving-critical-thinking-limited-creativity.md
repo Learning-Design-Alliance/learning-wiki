@@ -41,6 +41,11 @@ Outcome measures from the RCT comparing GPT-feedback-supported and traditional-f
 
 ## Discussion
 
+## Learner Variables
+- [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
+- [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
+- [Problem Solving](../learner-variables/problem-solving.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Meta-reviews reach contradictory conclusions on whether AI reliance harms or helps critical thinking, with substantial design limitations limiting generalizability](contradictory-meta-reviews-ai-critical-thinking.md) — the general claim this finding bears on, with the studies behind it
@@ -50,3 +55,4 @@ Outcome measures from the RCT comparing GPT-feedback-supported and traditional-f
 - [AI-supported inquiry-based learning did not produce a statistically significant improvement in students' critical problem-solving skills](ai-ibi-no-significant-gain-critical-problem-solving.md) — reports the opposite
 - [Self-regulated learning abilities improved significantly in the GPT-feedback VR group, supporting self-reflection, goal setting, and strategy adjustment](gpt-feedback-vr-improves-srl.md) — related
 - [Undergraduates learning IoT tasks in VR with ChatGPT-integrated feedback reached significantly higher cognitive levels on memory, understanding, and application tasks than peers receiving traditional VR feedback](gpt-feedback-vr-higher-cognitive-levels.md) — related
+- [AI applications contributed to STEM students' higher-order thinking, including problem-solving, computational thinking, and self-regulated learning](ai-stem-higher-order-thinking-effects.md) — a broader claim this one bears on

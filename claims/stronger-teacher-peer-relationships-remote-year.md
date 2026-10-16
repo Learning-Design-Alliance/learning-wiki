@@ -43,6 +43,9 @@ Gwynne, J.A., Allensworth, E.M., Young, C., & Hart, H. (2024). Student experienc
 ## Discussion
 
 
+## Learner Variables
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Middle-grade students' reports of parent support declined during the remote/hybrid year and continued declining through 2022-23, ending 0.17 s.d. below 2011 levels](parent-support-declined-middle-grades.md) — related
 - [Student reports of social skills and perseverance were declining before the pandemic, fell further during remote learning in the middle grades, and remained below 2011 levels through 2022-23](social-skills-perseverance-declined-pandemic.md) — related

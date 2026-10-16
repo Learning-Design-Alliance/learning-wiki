@@ -46,6 +46,7 @@ The article recommends concrete levers: staged submissions (proposal, outline, a
 - [Teach AI-mediated judgement and make process, judgement and transfer visible in assessment](teach-ai-mediated-judgement-assessment.md)
 - [Provide explicit instructional boundary cues, process-oriented assessment, and peer modeling of verification to frame responsible GenAI use](boundary-cues-and-peer-modeling-for-genai-use.md)
 - [Require process transparency artefacts: process logs, prompt records, reflective commentaries and oral defences](process-transparency-artefacts-strategy.md)
+- [Prevent AI-assisted plagiarism through student education, signed declarations, draft submissions, clear guidelines, and close monitoring](educate-and-monitor-to-prevent-ai-plagiarism.md)
 
 ## Examples
 -

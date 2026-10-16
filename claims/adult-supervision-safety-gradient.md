@@ -42,6 +42,9 @@ Survey of CPS students in grades 6-12 (spring 2009) across 310 elementary and 62
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Quality of staff-student and staff-parent relationships most strongly defines safe schools, with disadvantaged high-relationship schools feeling safer than advantaged low-relationship schools](relationship-quality-defines-safe-schools.md) — related
 - [Schools where students report feeling more safe, supported, and challenged show stronger academic and social-emotional growth, and student reports predict future school improvement](student-reports-safe-supported-challenged-growth.md) — related

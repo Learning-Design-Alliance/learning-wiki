@@ -42,6 +42,10 @@ In the DHHS ACF (2010) randomized controlled trial, three social-emotional outco
 ## Discussion
 
 
+## Learner Variables
+- [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The evidence base for Head Start's school-readiness effects is small: only one of 40 eligible studies met WWC group design standards](head-start-evidence-base-single-rct.md) — related
 - [Head Start shows no discernible effects on mathematics achievement for 4-year-old children](head-start-no-discernible-mathematics-effects.md) — related

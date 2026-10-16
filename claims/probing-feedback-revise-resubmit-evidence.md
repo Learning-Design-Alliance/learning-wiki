@@ -85,7 +85,7 @@ Both entries are one qualitative case analysis (Janis et al. 2025) of individual
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [In a qualitative case study of three social-studies teacher candidates, pedagogical judgment appeared to grow over a clinical semester of structured, iterative support aligned to rubric competencies](structured-iterative-support-improves-pedagogical-judgment.md) — a broader claim this one bears on
 - [Revised post-teaching prompts (RPTAA) advanced candidates' capacity for more sophisticated analysis compared with the original prompts (PTAA)](revised-prompts-advance-sophisticated-analysis.md) — related
-- [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — a broader claim this one bears on
+- [Feedback Addressing Task Improves Learning](feedback-most-effective-at-task-and-process-levels.md) — a broader claim this one bears on
 - [Research on clinical supervision's effectiveness is inconclusive, partly because practice is diluted and tied to evaluation](clinical-supervision-effectiveness-inconclusive.md) — related
 - [Students perceived online lab exercises as more effective when instructors were present online and used scaffolds and probes directing attention to key procedure aspects](online-labs-better-with-instructor-scaffolds.md) — related
 - [Actionable and descriptive feedback moves student learning forward, and effective feedback differs from less-effective feedback on identifiable qualities](actionable-descriptive-feedback-moves-learning-forward.md) — related

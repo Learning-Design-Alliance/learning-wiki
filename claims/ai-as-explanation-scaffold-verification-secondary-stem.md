@@ -48,3 +48,4 @@ Survey item B4 on task types in the n = 416 sample. Students reported a "strong 
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Students used visualizations to verify their own reasoning rather than as primary explanation tools, valuing control over their cognitive effort (agency)](agency-control-over-cognitive-effort.md) — related
 - [EAI effectiveness was reported across all educational stages, with most studies in secondary education and university](eai-effective-all-educational-stages.md) — related
+- [Collaborative evaluation of chatbot solutions in groups supported problem-solving: students verified the chatbot's step-by-step photoelectric-effect calculation together](collaborative-chatbot-answer-verification-problem-solving.md) — related

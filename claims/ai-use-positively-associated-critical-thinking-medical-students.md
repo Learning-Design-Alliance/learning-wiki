@@ -39,6 +39,9 @@ Correlational survey of 480 undergraduate medical students with prior AI experie
 
 ## Discussion
 
+## Learner Variables
+- [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Higher reliance on AI tools is correlated with lower critical-thinking performance, mediated by cognitive offloading](ai-reliance-correlated-lower-critical-thinking-offloading.md) — the general claim this finding bears on, with the studies behind it

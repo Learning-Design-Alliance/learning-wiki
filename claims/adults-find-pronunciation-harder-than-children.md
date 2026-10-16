@@ -45,6 +45,7 @@ Narrative review of research on age effects in pronunciation acquisition, citing
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — predictor: learners who differ on it differ in outcomes
 - [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
+- [Metacognition](../learner-variables/metacognition.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 

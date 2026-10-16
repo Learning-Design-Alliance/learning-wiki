@@ -12,7 +12,7 @@ sources:
   - id: sutedjo-a-2026
     title: Sutedjo A 2026
     q: 2
-    i: 2
+    i: "?"
     kind: associational
     rigour: 2
 ---
@@ -20,10 +20,10 @@ sources:
 # Male faculty report modestly higher self-perceived GenAI knowledge than female faculty in TK and TPK, with small effect sizes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i2` One-way ANOVA showed statistically significant gender differences favoring male faculty for TK (F(1,123) = 4.80, p = .03, η² = .04) and TPK (F(1,123) = 4.81, p = .03, η² = .04), with TCK at the conventional threshold (F(1,123) = 3.85, p = .05, η² = .03); no significant differences for PK, CK, PCK, or overall TPACK. [→ Sutedjo A 2026](#sutedjo-a-2026)
+`q2 i?` One-way ANOVA showed statistically significant gender differences favoring male faculty for TK (F(1,123) = 4.80, p = .03, η² = .04) and TPK (F(1,123) = 4.81, p = .03, η² = .04), with TCK at the conventional threshold (F(1,123) = 3.85, p = .05, η² = .03); no significant differences for PK, CK, PCK, or overall TPACK. [→ Sutedjo A 2026](#sutedjo-a-2026)
 
 ## Evidence
 
@@ -31,7 +31,7 @@ sources:
 
 Sutedjo A, Chowdhury M and Liu SP (2026) Assessing faculty self-perceived knowledge in using generative AI to teach 21st-century skills. Front. Educ. 11:1913310. https://doi.org/10.3389/feduc.2026.1913310
 
-`q2 · i2` · `associational · r2`
+`q2 · i?` · `associational · r2`
 
 One-way ANOVAs by gender across the seven TPACK domains in the 127-faculty survey. Male faculty reported higher TK (M = 3.99 vs 3.46) and TPK (M = 2.92 vs 2.38); "Effect sizes for these differences were small."
 

@@ -19,7 +19,7 @@ Cloze passage worksheets present short, grade-level texts in which selected Dolc
 
 ## Design Implications
 
-Cloze practice targets the automaticity of high-frequency word recognition, which is a prerequisite for fluent reading: when word identification is effortful, comprehension suffers because working memory is consumed by decoding [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Unlike flashcard drill, the cloze format forces learners to process each sight word within sentence context, supporting both recognition and meaning-making [~M]. The format also functions as a formative assessment: which blanks a student misses reveals which sight words are not yet automatic [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+M].
+Cloze practice targets the automaticity of high-frequency word recognition, which is a prerequisite for fluent reading: when word identification is effortful, comprehension suffers because working memory is consumed by decoding [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Unlike flashcard drill, the cloze format forces learners to process each sight word within sentence context, supporting both recognition and meaning-making [~M]. The format also functions as a formative assessment: which blanks a student misses reveals which sight words are not yet automatic [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+M].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Cloze practice targets the automaticity of high-frequency word recognition, whic
 
 ### Target Learners
 - Early elementary students (pre-K through grade 3) building a sight vocabulary
-- Struggling readers who need high-frequency words to become automatic before fluency work [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Struggling readers who need high-frequency words to become automatic before fluency work [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - ESL/EFL learners, for whom the most frequent English function words carry little semantic salience and need contextual exposure [~M]
 
 ### Target Learning Goals

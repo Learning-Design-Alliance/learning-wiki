@@ -44,6 +44,7 @@ Findings from the developmental evaluation's triangulated survey, interview, foc
 
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
+- [Social Supports](../learner-variables/social-supports.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Inclusive, family-focused co-curricular events deepened relationships between educators and parents](family-focused-co-curricular-events-relationships.md) — related

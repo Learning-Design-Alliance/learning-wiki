@@ -52,3 +52,4 @@ The article's abstract reports the psychometric outcome across the validation sa
 - Teacher-belief and competence/value scales show high internal consistency (alphas .92 and .89), while the social-activity and excellence scales are weaker (.65 and .69) — related
 - [The GenAI-SRL scale shows satisfactory reliability, convergent validity, and discriminant validity across its six dimensions](genai-srl-scale-reliability-validity.md) — related
 - [The post-interaction reflection instrument showed satisfactory internal consistency (Cronbach's α = .863)](ai-reflection-instrument-alpha-863.md) — related
+- [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](high-alpha-indicates-domain-knowledge-test-failure.md) — related

@@ -43,6 +43,7 @@ In the randomized winter-kindergarten cohort (Flex n = 29, Plain n = 28), multil
 
 ## Learner Variables
 - [Executive Function](../learner-variables/executive-function.md) — outcome: instruction changes it
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
 
 ## Related Claims
 

@@ -34,7 +34,7 @@ An honest account of this strategy has to separate those components, because the
 
 ## Design Implications
 
-The systematic-phonics core is strongly supported: explicit, sequenced instruction in letter–sound correspondences improves word reading substantially, and more so than approaches that leave the code to be inferred [Systematic Phonics Improves Word Reading](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S] [Systematic phonics outperforms unsystematic or no-phonics instruction on children's reading overall, but its advantage over whole-word teaching on novel words is untested in children and contested](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. The gains are largest for beginning readers and for those at risk of difficulty, and they run through decoding to comprehension, because accurate automatic word recognition frees capacity for meaning [Automatic word recognition frees resources for comprehension](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Phonemic awareness training is the companion piece [Phonemic Awareness Training Improves Reading](../claims/phonemic-awareness-training-improves-reading.md) [+S].
+The systematic-phonics core is strongly supported: explicit, sequenced instruction in letter–sound correspondences improves word reading substantially, and more so than approaches that leave the code to be inferred [Systematic Phonics Improves Word Reading](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S] [Systematic phonics outperforms unsystematic or no-phonics instruction on children's reading overall, but its advantage over whole-word teaching on novel words is untested in children and contested](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. The gains are largest for beginning readers and for those at risk of difficulty, and they run through decoding to comprehension, because accurate automatic word recognition frees capacity for meaning [Automatic word recognition frees resources for comprehension](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Phonemic awareness training is the companion piece [Phonemic Awareness Training Improves Reading](../claims/phonemic-awareness-training-improves-reading.md) [+M].
 
 What has not been isolated is the contribution of the multisensory element itself. Reviews of Orton-Gillingham-based programmes find that the studies almost never separate the multisensory component from the explicit, systematic, cumulative structure it travels with, so the effects attributed to "multisensory" are as consistent with the structure doing the work [~W]. This matters practically: a school choosing between a multisensory programme and a systematic non-multisensory one is choosing between a strongly supported thing and the same strongly supported thing with an unevaluated addition — not between an enhanced and a basic version.
 
@@ -89,9 +89,9 @@ The addition is also frequently justified by an appeal to visual, auditory, and 
 
 ### Target Learning Goals
 - Accurate decoding of unfamiliar words through grapheme–phoneme mapping
-- Phonemic awareness: segmenting, blending, and manipulating sounds [Phonological Awareness Training Improves Reading](../claims/phonemic-awareness-training-improves-reading.md) [+S]
+- Phonemic awareness: segmenting, blending, and manipulating sounds [Phonological Awareness Training Improves Reading](../claims/phonemic-awareness-training-improves-reading.md) [+M]
 - Encoding — spelling, which the same correspondences serve in reverse
-- Automatic word recognition, and through it, reading comprehension [Automatic word recognition frees resources for comprehension](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Automatic word recognition, and through it, reading comprehension [Automatic word recognition frees resources for comprehension](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Alphabetic principle: mapping phonemes to graphemes
 - Encoding (spelling) of taught patterns
 
@@ -150,7 +150,7 @@ Multisensory phonics instruction teaches grapheme–phoneme correspondences by e
 
 ## Design Implications
 
-The core mechanism is not the number of senses engaged but the explicit, systematic linking of phonemes to graphemes with immediate production practice. The strongest evidence supports the explicit, systematic phonics component rather than the multisensory packaging itself [~M]; dual-coding accounts suggest that pairing verbal and visual/kinesthetic traces can support recall [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]. Automatic word recognition is the proximate goal, because it frees working-memory resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Because tracing and manipulation tasks add processing demands, they must be kept brief and tightly linked to the target correspondence to avoid overload [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [~M].
+The core mechanism is not the number of senses engaged but the explicit, systematic linking of phonemes to graphemes with immediate production practice. The strongest evidence supports the explicit, systematic phonics component rather than the multisensory packaging itself [~M]; dual-coding accounts suggest that pairing verbal and visual/kinesthetic traces can support recall [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+M]. Automatic word recognition is the proximate goal, because it frees working-memory resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Because tracing and manipulation tasks add processing demands, they must be kept brief and tightly linked to the target correspondence to avoid overload [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [~M].
 
 ### Context
 #### Requirements
@@ -178,7 +178,7 @@ The core mechanism is not the number of senses engaged but the explicit, systema
 
 ### Target Learning Goals
 - Alphabetic principle: mapping phonemes to graphemes
-- Decoding automaticity, which underpins comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Decoding automaticity, which underpins comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Encoding (spelling) of taught patterns
 
 ### Instructions

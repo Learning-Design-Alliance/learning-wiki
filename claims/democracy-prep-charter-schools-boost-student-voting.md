@@ -42,6 +42,9 @@ The article's title states its central finding: Democracy Prep charter schools b
 ## Discussion
 
 
+## Learner Variables
+- [Civic Mindedness](../learner-variables/civic-mindedness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [There is a 98 percent probability that enrolling in Democracy Prep produced positive impacts on both voter registration and voting](democracy-prep-98-percent-probability-positive-civic-impacts.md) — a narrower finding that bears on this claim
 - [Democracy Prep charter schools increase students' voting rates by about 12 percentage points in the 2016 election](democracy-prep-increases-voting-rates-12-points.md) — possibly the same claim (merge candidate)

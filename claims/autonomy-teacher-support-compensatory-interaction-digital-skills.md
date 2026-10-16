@@ -44,6 +44,7 @@ Interaction analysis of school autonomy and teacher support in shaping digital s
 
 ## Learner Variables
 - [Digital Literacy](../learner-variables/digital-literacy.md) — outcome: instruction changes it
+- [Social Supports](../learner-variables/social-supports.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 - [Group-level marginal inferences identify population propensity and autonomy but are nearly vacuous for higher algorithmic skill levels](group-marginal-inferences-cat-skills-propensity.md) — related

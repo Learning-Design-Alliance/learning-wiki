@@ -42,6 +42,9 @@ RCT analysis using the Child-Parent Relationship Scale Conflict subscale found a
 ## Discussion
 
 
+## Learner Variables
+- [Social Supports](../learner-variables/social-supports.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Offering FAST produced no meaningful, enduring effects on family functioning, family-school relationships, academic learning, or social-behavioral outcomes in a 60-school cluster RCT](fast-rct-no-meaningful-enduring-effects.md) — a broader claim this one bears on
 - [Students who attended FAST three or more times showed strong positive effects on Grade 1 reading and more modest effects on mathematics, but a strong negative effect on kindergarten attendance](fast-qed-dose-effects-reading-math-attendance.md) — related

@@ -77,6 +77,9 @@ Open questions for future evidence entries include the durability of effects aft
 
 **Open questions.** Most evidence comes from K–12 settings and structured genres (narrative, persuasive, expository); less is known about effects in higher education and open-ended or digital composing contexts. The meta-analysis recorded above covers explicit strategy instruction for planning, revising and editing in grades 4–10.
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Self Talk Improves Learning And Performance](self-talk-improves-learning-and-performance.md) — the general claim this finding bears on, with the studies behind it

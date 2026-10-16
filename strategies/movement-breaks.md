@@ -20,7 +20,7 @@ Movement breaks are brief, structured physical activities — stretching, dancin
 
 ## Design Implications
 
-Movement breaks leverage the link between physical arousal and cognitive readiness: acute bouts of physical activity produce small but reliable improvements in attention and on-task behavior [Classroom-based physical activity improves attention and on-task behavior.](../claims/classroom-physical-activity-improves-attention.md) [+M]. Their effect is on *readiness to learn* rather than on learning content directly — breaks work best as preparation for focused instruction, not as a substitute for it. Integrating academic content into the movement (e.g., spelling while stretching) can combine the attentional benefit with [Practice](../elements/practice.md) [+W].
+Movement breaks leverage the link between physical arousal and cognitive readiness: acute bouts of physical activity produce small but reliable improvements in attention and on-task behavior [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]. Their effect is on *readiness to learn* rather than on learning content directly — breaks work best as preparation for focused instruction, not as a substitute for it. Integrating academic content into the movement (e.g., spelling while stretching) can combine the attentional benefit with [Practice](../elements/practice.md) [+W].
 
 ### Context
 #### Requirements

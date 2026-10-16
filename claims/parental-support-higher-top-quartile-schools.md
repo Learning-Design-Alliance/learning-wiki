@@ -41,6 +41,9 @@ Survey report summary of the eleven-item Parents' Involvement in Students' Learn
 
 ## Discussion
 
+## Learner Variables
+- [Social Supports](../learner-variables/social-supports.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Schools with strong essential supports were more likely to sit in communities with strong social capital, low crime, and low density of abused or neglected children](strong-supports-linked-community-social-capital-low-crime.md) — the general claim this finding bears on, with the studies behind it

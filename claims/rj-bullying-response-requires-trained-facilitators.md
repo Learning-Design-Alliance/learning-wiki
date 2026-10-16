@@ -42,6 +42,9 @@ Narrative review, attributed to Molnar-Main (2014) drawing on limited evidence: 
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Teachers' perceived severity of bullying predicts their likelihood of reacting to incidents of aggression](perceived-severity-predicts-teacher-reaction.md) — related
 - Victimized students reported negative school conditions at higher rates than nonvictims — related

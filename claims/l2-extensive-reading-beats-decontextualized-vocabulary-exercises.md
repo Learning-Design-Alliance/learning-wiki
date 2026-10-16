@@ -43,6 +43,7 @@ The chapter's introduction reviews prior second language research, citing Elley 
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
 
 ## Related Claims
 

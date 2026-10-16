@@ -61,6 +61,9 @@ Interview data from the MAIC pilot: several students 'noted a lack of deep think
 ## Discussion
 
 
+## Learner Variables
+- [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Five-day no-code AI agent creation improves students' CT self-perception, with large gains in abstract and algorithmic thinking and a medium gain in pattern recognition and generalization](ai-agent-creation-ct-self-perception-gains.md) — related
 - Ideation discussion activities in Design Thinking significantly improved EFL students' overall critical thinking test scores from pre-test to post-test — related

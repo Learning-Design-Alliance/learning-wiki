@@ -42,6 +42,7 @@ In the same interview study of 25 students, participants imbued interactions wit
 
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
+- [Social Supports](../learner-variables/social-supports.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Low-proficiency EFL undergraduates report feeling more competent in English tasks through ChatGPT-assisted writing feedback, conversational practice, and translation support](chatgpt-competence-experience-efl-undergraduates.md) — related

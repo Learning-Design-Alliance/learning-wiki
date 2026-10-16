@@ -90,6 +90,9 @@ The persistence question parallels findings from adjacent literatures. Brief soc
 
 Open questions: how large effects remain beyond the typical 1–2 year follow-up window (the two entries reach 17–18 years but report direction more than size), whether booster sessions are needed for maintenance, and whether effects persist equally across demographic groups and school contexts.
 
+## Learner Variables
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Belonging interventions improve outcomes.](belonging-interventions-improve-outcomes.md) — brief social-psychological interventions with documented lasting effects

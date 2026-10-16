@@ -116,6 +116,9 @@ A multilevel meta-analysis comparing interleaved with blocked presentation of it
 
 **Open questions.** The dose–response relationship (how much difficulty is optimal), the interaction between different difficulty types (e.g., spacing combined with interleaving), and the durability of effects across domains and age groups all remain to be established with evidence on this page. Until evidence entries are added, this page should be treated as a framing claim whose subclaims (e.g., for retrieval practice, spacing, and interleaving individually) will each carry their own evidence.
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — difficulty beyond working-memory capacity is undesirable, not desirable

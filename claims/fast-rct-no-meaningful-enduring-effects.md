@@ -41,6 +41,9 @@ Cluster RCT with 60 Philadelphia elementary schools randomized to FAST or contro
 
 ## Discussion
 
+## Learner Variables
+- [Social Supports](../learner-variables/social-supports.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — the general claim this finding bears on, with the studies behind it

@@ -74,6 +74,9 @@ Study of 15 non-native English speaking EFL learners using AI dialogue systems f
 ## Discussion
 
 
+## Learner Variables
+- [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Over-reliance on AI dialogue systems reduces students' critical and analytical thinking skills, especially when they become overly dependent on AI-generated content](overreliance-ai-dialogue-reduces-critical-analytical-thinking.md) — related
 - [Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to fostering self-regulated AI interaction](ai-scaffolding-fading-learned-helplessness.md) — related

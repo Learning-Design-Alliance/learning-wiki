@@ -100,6 +100,7 @@ The chapter reports that "Several recent studies have shown promising results us
 
 ## Learner Variables
 - [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
 
 ## Related Claims
 

@@ -61,6 +61,9 @@ The review attributes countervailing findings to the same cited studies: explana
 ## Discussion
 
 
+## Learner Variables
+- [Processing Speed](../learner-variables/processing-speed.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Manipulating anthropomorphism shows no clear causal effect on trust in controlled post-generative-AI studies, though long-term use and cue type condition its effects](anthropomorphism-no-clear-causal-effect-on-trust.md) — related
 - Nine interaction design factors recur in post-2023 research on trust in AI-enabled systems, with explainability the most studied — related

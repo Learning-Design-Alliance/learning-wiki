@@ -42,6 +42,9 @@ Follow-up mean comparisons after a significant coding × time interaction, F(1,1
 ## Discussion
 
 
+## Learner Variables
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Dual coding elucidation raises adolescent EFL learners' awareness of lexical errors and correct usage more than verbal-only elucidation](dual-coding-elucidation-improves-lexical-error-awareness.md) — related
 - [Learning style (visual-verbal) shows no significant correlation with the effectiveness of pictorial elucidation for adolescent EFL learners](learning-style-no-correlation-pictorial-elucidation-effect.md) — related

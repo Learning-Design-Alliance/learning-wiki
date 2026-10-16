@@ -42,6 +42,9 @@ Observational analysis of NELS student and teacher surveys relating competency i
 ## Discussion
 
 
+## Learner Variables
+- [Collaboration](../learner-variables/collaboration.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Multiple non-academic competencies (leadership, sports-related skills, work habits, prosocial behavior, locus of control) appear to predict students' later success in higher education and the labor market](non-academic-competencies-predict-later-success.md) — possibly the same claim (merge candidate)
 - [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — related

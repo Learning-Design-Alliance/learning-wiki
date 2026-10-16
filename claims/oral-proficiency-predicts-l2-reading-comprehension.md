@@ -43,6 +43,9 @@ The article reports, citing Droop and Verhoeven (2003), that bilingual Turkish-D
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
+- [Communication Skills](../learner-variables/communication-skills.md) — predictor: learners who differ on it differ in outcomes
+- [Decoding](../learner-variables/decoding.md) — predictor: learners who differ on it differ in outcomes
+- [Oral Language](../learner-variables/oral-language.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 

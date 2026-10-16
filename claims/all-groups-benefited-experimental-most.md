@@ -51,3 +51,4 @@ Quasi-experimental study with recast, prompt, and control groups tested before, 
 - [Metalinguistic feedback and recasts, but not clarification requests, significantly improve Iranian EFL learners' wh-question performance on an immediate post-test](metalinguistic-recasts-effective-immediate-wh-questions.md) — related
 - [Prompts were overall more effective than recasts as corrective feedback for L2 grammar learning](prompts-more-effective-than-recasts-overall.md) — related
 - [Child EFL learners receiving recasts in task-based lessons improve their production of third person singular -s from pretest to posttest, in a study with no no-recast comparison group](recasts-facilitate-child-efl-third-person-s-development.md) — related
+- [AI-mediated language instruction produces significantly greater English learning achievement gains than traditional instruction among EFL learners](ai-instruction-greater-efl-achievement-gains.md) — related

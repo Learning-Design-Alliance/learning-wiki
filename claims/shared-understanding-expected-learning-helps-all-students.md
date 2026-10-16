@@ -48,7 +48,7 @@ The brief asserts, citing prior research (Pryor & Crossouard, 2008, in an endnot
 |---|---|---|---|
 | Jones 2024 | q1 · design · r1 | i? | this claim |
 | Martin 2003 | q3 · causal · r2 | i? | [Students may be unaware of the absence of objectives: the no-objectives group gave the hig](no-objectives-group-most-positive-attitudes.md) (qualifies); [Individually removing objectives, examples, or review from a well-designed computer-based ](single-event-removal-no-achievement-effect.md) (counts against) |
-| [Hattie Timperley 2007](https://doi.org/10.3102/003465430298487) | q2 · review · r? | i? | [Feedback Answers Three Questions](feedback-answers-three-questions.md) (supports) |
+| [Hattie Timperley 2007](https://doi.org/10.3102/003465430298487) | q2 · review · r? | i? | [Feedback Answers Three Questions](feedback-answers-three-questions-improves-learning.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

@@ -78,6 +78,9 @@ The paper reports this secondhand, citing Wong and Qiu (2026): university studen
 
 ## Discussion
 
+## Learner Variables
+- [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](gai-value-contingent-on-pedagogical-integration.md) — the general claim this finding bears on, with the studies behind it
@@ -91,3 +94,5 @@ The paper reports this secondhand, citing Wong and Qiu (2026): university studen
 - [AI-assisted peer feedback enhanced lexical diversity only in the first writing task, with the group advantage disappearing by the second task](lexical-diversity-advantage-first-task-only.md) — related
 - [The general-AI group most often dictated ChatGPT to directly generate solutions while the regulated-AI group more frequently collaborated to improve self-generated ideas](prompt-type-differences-general-vs-regulated.md) — related
 - [ChatGPT sustains coherent, human-like multi-topic conversation and produces convincing creative content, as shown by the authors' own prompting test](chatgpt-interactive-conversational-capability.md) — related
+- [ChatGPT use improves the quality, elaboration, and originality of university students' solutions to a complex ill-defined problem-solving task](chatgpt-improves-quality-elaboration-originality-pit.md) — related
+- [ChatGPT use does not change absolute self-evaluation accuracy, but self-evaluation judgments fail to correlate with performance under ChatGPT assistance](chatgpt-no-accuracy-difference-poor-calibration.md) — related

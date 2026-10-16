@@ -44,6 +44,7 @@ Selecting a School section finding: students found the color-coded acceptances a
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Students found the GoCPS application platform logistically easy to use, but applications to schools with additional requirements caused difficulties](gocps-platform-easy-but-extra-requirements-hard.md) — related

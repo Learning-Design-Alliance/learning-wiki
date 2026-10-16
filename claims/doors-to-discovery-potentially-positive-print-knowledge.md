@@ -43,6 +43,9 @@ WWC synthesis of two studies: the Christie et al. (2003) RCT (37 children) and t
 ## Discussion
 
 
+## Learner Variables
+- [Alphabet Knowledge and Print Awareness](../learner-variables/alphabet-knowledge-and-print-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Doors to Discovery™ shows no discernible effects on preschool math (domain-average effect size 0.01)](doors-to-discovery-no-discernible-math-effects.md) — related
 - [Doors to Discovery™ shows potentially positive effects on preschool oral language (PPVT-III effect size 0.27, not statistically significant)](doors-to-discovery-potentially-positive-oral-language.md) — related

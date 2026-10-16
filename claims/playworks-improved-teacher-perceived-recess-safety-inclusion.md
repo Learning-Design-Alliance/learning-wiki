@@ -42,6 +42,9 @@ Random-assignment evaluation of Playworks across 25 schools, first cohort of sch
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Teachers in Playworks schools reported less bullying and exclusionary behavior during recess than control-school teachers](playworks-reduced-teacher-reported-recess-bullying.md) — related
 - [Teachers in Playworks schools reported significantly better student behavior at recess and readiness for class](playworks-better-recess-behavior-and-class-readiness.md) — related

@@ -42,6 +42,9 @@ Within-group paired-samples t-test analysis (Table 3) of the control group (n = 
 ## Discussion
 
 
+## Learner Variables
+- [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Fourth-graders receiving AI-enhanced media literacy instruction outperformed control-group peers on post-test critical media reading, writing, and total literacy with large effect sizes](ai-media-literacy-program-large-posttest-gains.md) — related
 - [Within the experimental group, AI-supported instruction produced statistically significant pre-to-post gains on media reading, media writing, and total media literacy](experimental-group-within-group-gains-all-subscales.md) — related

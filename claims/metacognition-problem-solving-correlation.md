@@ -60,6 +60,10 @@ Correlational analysis of Qualtrics trace data and task scores. The article repo
 
 ## Discussion
 
+## Learner Variables
+- [Metacognition](../learner-variables/metacognition.md) — predictor: learners who differ on it differ in outcomes
+- [Problem Solving](../learner-variables/problem-solving.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — the general claim this finding bears on, with the studies behind it
@@ -71,3 +75,4 @@ Correlational analysis of Qualtrics trace data and task scores. The article repo
 - Puzzlets gameplay showed problem-solving progress on debugging tasks, and collaboration improved after the teacher introduced driver-passenger role strategies — related
 - Introducing CT as a problem-solving approach that often involves digital technology helped teachers — related
 - [AI task scaffolding is positively associated with critical thinking and technical problem-solving among AI-using university students](ai-task-scaffolding-positive-higher-order-outcomes.md) — related
+- [AI applications contributed to STEM students' higher-order thinking, including problem-solving, computational thinking, and self-regulated learning](ai-stem-higher-order-thinking-effects.md) — related

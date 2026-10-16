@@ -42,6 +42,9 @@ Comparative climate analysis contrasting 40 BTO schools with 20 chronically unde
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [The school climate gap between beating-the-odds and chronically underperforming schools is more than twice as large as the gap between BTO and other schools](bto-cu-climate-gap-twice-as-large.md) — possibly the same claim (merge candidate)
 - [Beating-the-odds schools have substantially more positive school climate than other California middle and high schools](bto-schools-higher-school-climate-percentile.md) — related

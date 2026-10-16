@@ -37,7 +37,7 @@ The article's organizing architecture is a multi-pass generative pipeline: a Win
 - deck-level pedagogical scaffolding of comprehension questions across a full presentation
 
 ### Claims
-- [Reconciliation Zero Budgets Structural Slides](../claims/reconciliation-zero-budgets-structural-slides.md) [+M]
+- [Reconciliation Zero Budgets Structural Slides](../claims/reconciliation-zero-budgets-structural-slides.md) [+W]
 
 ## Related Designs
 - 

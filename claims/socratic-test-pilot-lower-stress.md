@@ -46,5 +46,5 @@ Survey of the Spring 2026 pilot deployment across three university courses (Figu
 
 ## Related Claims
 
-- [Online and proctored online exams increase students' test anxiety compared with on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — the general claim this finding bears on, with the studies behind it
+- [Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — the general claim this finding bears on, with the studies behind it
 - [Dental students in a revised low-stress TBL format scored higher on the individual summative assessment (iSAT) than medical students in the original high-stakes format, in a non-randomised comparison of two cohorts](low-stress-tbl-higher-isat-scores.md) — related

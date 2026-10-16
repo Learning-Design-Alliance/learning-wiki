@@ -44,6 +44,7 @@ Narrative review attribution: the paper reports, citing Bucinca et al., that cog
 
 ## Learner Variables
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
+- [Need for Cognition](../learner-variables/need-for-cognition.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 - [Reflective strategies such as cognitive forcing, pre-commitment, and uncertainty communication reduce overreliance on AI and improve decision quality, but have been evaluated only as short-term single-session interventions](reflective-strategies-short-term-only-evidence.md) — related

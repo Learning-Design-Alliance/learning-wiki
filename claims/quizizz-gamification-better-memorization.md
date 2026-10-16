@@ -41,6 +41,9 @@ The review reports, citing Mirzoyeva and Gurbanova (2021), a study of an online 
 
 ## Discussion
 
+## Learner Variables
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Classroom testing (quizzing) significantly boosts student academic achievement to a medium extent (g = 0.499).](classroom-quizzing-medium-effect-achievement.md) — the general claim this finding bears on, with the studies behind it

@@ -43,6 +43,7 @@ After-task frustration self-report (1–5) from the within-subjects comparison (
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — outcome: instruction changes it
 
 ## Related Claims
 

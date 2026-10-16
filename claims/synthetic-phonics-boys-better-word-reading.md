@@ -44,6 +44,7 @@ The article's comparison of 10-year-olds taught by analytic or synthetic phonics
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
 - [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
 
 ## Related Claims
 

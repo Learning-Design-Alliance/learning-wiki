@@ -42,6 +42,9 @@ Multiple-baseline-across-participants study of six seventh-grade students with L
 
 ## Discussion
 
+## Learner Variables
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Outcomes of students with disabilities improve when they receive specially designed instruction responsive to assessment data](specially-designed-instruction-responsive-to-assessment-data-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it

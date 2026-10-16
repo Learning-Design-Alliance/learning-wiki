@@ -42,6 +42,9 @@ The article's summary of its own combined PLDT and similarity-rating results: "T
 ## Discussion
 
 
+## Learner Variables
+- [Processing Speed](../learner-variables/processing-speed.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Words encountered in diverse contexts are recognized more accurately in a pseudolexical decision task](diverse-contexts-improve-pseudoword-recognition-accuracy.md) — related
 - [Uniform (redundant) contexts yield higher semantic similarity ratings than diverse contexts](redundant-contexts-improve-semantic-representations.md) — a narrower finding that bears on this claim

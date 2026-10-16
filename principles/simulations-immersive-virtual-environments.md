@@ -31,7 +31,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (18 for, 18 mixed, 1 against) · 30 studies (10 review, 7 causal, 5 quant-synthesis, 3 qualitative, 3 theoretical, 2 design), `q1`–`q4` · 5 of 30 report an effect size · 35 claims rest on one study
+> **Evidence** · 38 claims (18 for, 19 mixed, 1 against) · 31 studies (11 review, 7 causal, 5 quant-synthesis, 3 qualitative, 3 theoretical, 2 design), `q1`–`q4` · 5 of 31 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +139,7 @@ Read against this model on 2026-10-15; the claims below do not bear on the relat
 - [Prior Knowledge Impacts Text Understanding](../claims/prior-knowledge-impacts-text-understanding.md) [+M]
 - [Undergraduates learning IoT tasks in VR with ChatGPT-integrated feedback reached significantly higher cognitive levels on memory, understanding, and application tasks than peers receiving traditional VR feedback](../claims/gpt-feedback-vr-higher-cognitive-levels.md) [+W] — attached 2026-10-15 from Wang et al. (2025), which proposed "Integrate generative AI feedback into VR learning environments to provide targeted, real-time feedback that addresses limitations of traditional VR feedback"; tests this page's relationship.
 - [GPT feedback in VR markedly improved problem-solving and critical thinking but had limited impact on creativity](../claims/gpt-feedback-hots-problem-solving-critical-thinking-limited-creativity.md) [~W] — attached 2026-10-15 from Wang et al. (2025), which proposed "Integrate generative AI feedback into VR learning environments to provide targeted, real-time feedback that addresses limitations of traditional VR feedback"; tests this page's relationship.
+- [Multiple-hypothesis strategies improve performance only when simulation complexity is low](../claims/multiple-hypothesis-strategy-low-complexity.md) [~W] — attached 2026-10-16 from Ton de Jong (1998), which proposed "Embed assignments, questions, or games in simulations to support learning outcomes".
 
 ## Objective and learner-valued goal
 
@@ -189,7 +190,7 @@ Simulations and immersive virtual environments let learners practice decisions, 
 These environments can support motivation and transfer because learners are doing something closer to the eventual task, not merely hearing about it. At the same time, simulation quality varies widely. If the interface is confusing, the scenario is unrealistic, or the task lacks debriefing and feedback, the medium can add distraction without improving learning.
 
 ## Implications
-Simulations and immersive environments work when they let learners rehearse meaningful whole performances under conditions that are safer, cheaper, or more repeatable than real life [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~S]. They are especially useful for novices when complexity is staged and support is available [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M], and when coaching or debriefing responds to how the learner actually performed [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]. High fidelity alone is not enough: if the interface is confusing or the scenario misrepresents the real task, the medium adds distraction rather than transfer.
+Simulations and immersive environments work when they let learners rehearse meaningful whole performances under conditions that are safer, cheaper, or more repeatable than real life [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M]. They are especially useful for novices when complexity is staged and support is available [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M], and when coaching or debriefing responds to how the learner actually performed [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]. High fidelity alone is not enough: if the interface is confusing or the scenario misrepresents the real task, the medium adds distraction rather than transfer.
 
 ### Context
 #### Requirements
@@ -226,7 +227,7 @@ Simulations and immersive environments work when they let learners rehearse mean
 
 ### Claims
 
-- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~S] — realistic, integrated task rehearsal can prepare learners for later application better than abstract explanation alone
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M] — realistic, integrated task rehearsal can prepare learners for later application better than abstract explanation alone
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — simulations are stronger when facilitation targets the learner’s actual decision or performance breakdowns
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M] — novices often need simplified or staged practice before full simulation complexity becomes productive
 - [The review reports that simulation games support near transfer of knowledge but evidence for long-term or far transfer is less robust](../claims/simulation-near-transfer-robust-far-transfer-weak.md) [+W] — attached 2026-10-09 from Kelly McNeil et al. (2026), which proposed "Implementation grains for simulations: single lesson, multi-week unit, and schoolwide event, with larger doses producing deeper learning when well-supported"; tests this page's relationship.

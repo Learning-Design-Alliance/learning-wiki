@@ -61,6 +61,9 @@ Randomized controlled trial of 72 four- and five-year-olds in two Midwestern com
 ## Discussion
 
 
+## Learner Variables
+- [Alphabet Knowledge and Print Awareness](../learner-variables/alphabet-knowledge-and-print-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Phonological awareness training plus letter knowledge training has potentially positive effects on preschoolers' phonological processing](pat-lk-potentially-positive-phonological-processing.md) — related
 - [Phonological awareness training plus letter knowledge training has potentially positive effects on preschoolers' early reading/writing](pat-lk-potentially-positive-early-reading-writing.md) — related

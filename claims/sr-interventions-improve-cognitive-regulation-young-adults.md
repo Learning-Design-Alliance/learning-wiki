@@ -43,6 +43,9 @@ The brief summarizes its OPRE comprehensive review of self-regulation interventi
 ## Discussion
 
 
+## Learner Variables
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — outcome: instruction changes it
+
 ## Related Claims
 - [A practice brief reviewing self-regulation interventions reports substantial benefits of mindfulness programs for cognitive and emotional regulation, stress and mental health in adolescents and young adults](mindfulness-programs-benefit-adolescent-regulation.md) — a narrower finding that bears on this claim
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — a broader claim this one bears on

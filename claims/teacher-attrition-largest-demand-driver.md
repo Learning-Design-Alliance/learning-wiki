@@ -74,3 +74,4 @@ International comparison reported in the report: U.S. attrition "hovering near 8
 - [District leaders report pandemic-era teacher workloads have at least doubled, contributing to burnout concerns and earlier-than-planned retirements](pandemic-teacher-workload-increase-burnout-retirement.md) — related
 - [Texas teacher attrition has exceeded the national average by about 25% over the past decade, reaching nearly 12% in 2021–22](texas-attrition-above-national-average.md) — related
 - [In 2021–22, 99.7% of Texas teacher hires replaced teachers who had left the prior year, making attrition the dominant driver of demand](texas-attrition-drives-99-7-percent-of-hires.md) — a narrower finding that bears on this claim
+- [Retirement accounts for only a small portion of total teacher turnover](retirement-small-portion-of-teacher-turnover.md) — related

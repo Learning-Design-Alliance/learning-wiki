@@ -1,7 +1,7 @@
 ---
 type: claim
-title: AI-enabled personalized STEM education yields a small but statistically significant overall effect (g = 0.455) compared with traditional non-AI instruction in K-12 schools
-description: AI-enabled personalized STEM education yields a small but statistically significant overall effect (g = 0.455) compared with traditional non-AI instruction in K-12 schools
+title: AI-enabled personalized STEM education yields a medium-sized, statistically significant overall effect (g = 0.455) compared with traditional non-AI instruction in K-12 schools
+description: AI-enabled personalized STEM education yields a medium-sized, statistically significant overall effect (g = 0.455) compared with traditional non-AI instruction in K-12 schools
 id: ai-personalized-stem-overall-effect-g0455
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# AI-enabled personalized STEM education yields a small but statistically significant overall effect (g = 0.455) compared with traditional non-AI instruction in K-12 schools
+# AI-enabled personalized STEM education yields a medium-sized, statistically significant overall effect (g = 0.455) compared with traditional non-AI instruction in K-12 schools
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i2` medium

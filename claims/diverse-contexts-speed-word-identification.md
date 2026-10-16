@@ -41,6 +41,9 @@ Response time measure of the same pseudolexical decision task: "Subjects were si
 
 ## Discussion
 
+## Learner Variables
+- [Processing Speed](../learner-variables/processing-speed.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks](cd-semantic-richness-improves-lexical-processing.md) — the general claim this finding bears on, with the studies behind it

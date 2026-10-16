@@ -45,4 +45,4 @@ In six focus groups, 20 students sorted and rated data points by usefulness; fre
 ## Related Claims
 - [Comparative dashboard features found less support among online students than recommendations and contact features](comparative-features-less-support-online-students.md) — related
 - [Students reported that the dashboard boosted learning motivation and that predictive and prescriptive insights were beneficial to their learning](sensenablr-boosted-motivation-perceptions.md) — related
-- [Feedback Answers Three Questions](feedback-answers-three-questions.md) — a broader claim this one bears on
+- [Feedback Answers Three Questions](feedback-answers-three-questions-improves-learning.md) — a broader claim this one bears on

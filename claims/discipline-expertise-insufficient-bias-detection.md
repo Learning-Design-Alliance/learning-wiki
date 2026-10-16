@@ -43,6 +43,7 @@ The review reports, citing Feldman-Maggor et al. (2025), that disciplinary exper
 
 ## Learner Variables
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
+- [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 

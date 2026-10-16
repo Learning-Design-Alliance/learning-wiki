@@ -62,3 +62,4 @@ Experiment 1: 36 paid volunteers from an introductory college physics course, bl
 - [Hierarchical versus single-level organization does not significantly affect performance on local tasks relying only on individual detailed steps](no-organization-effect-on-local-tasks.md) — related
 - [A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks](organization-task-match-determines-benefit.md) — related
 - [Strong acquisition tasks explicating the organization produce better internalization than weak tasks asking only for a structured summary](strong-acquisition-tasks-improve-internalization.md) — related
+- [Kit+TA students spontaneously transferred the TA's hierarchical spatial organization to open-ended post-test answers, unlike Kit-Only students](ta-transfer-spatial-hierarchy-organization.md) — a narrower finding that bears on this claim

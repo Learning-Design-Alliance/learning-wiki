@@ -40,6 +40,9 @@ Structural path estimates from the CB-SEM of 980 students; the article reports s
 ## Discussion
 
 
+## Learner Variables
+- [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [All six predictor constructs correlate positively and significantly with ethical GenAI use, ranging from r = 0.370 to r = 0.507](bivariate-correlations-ethical-genai-predictors.md) — related
 - [GenAI literacy dimensions predict critical monitoring beyond traits, use frequency, and perceptions, with critical-ethical awareness the strongest predictor](genai-literacy-predicts-critical-monitoring.md) — related

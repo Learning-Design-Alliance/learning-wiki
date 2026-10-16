@@ -44,6 +44,7 @@ Interview data from the single-participant case study. Daniel agreed the assista
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Speaking practice opportunities and teacher support reduced classroom anxiety and increased self-efficacy for one learner](speaking-practice-reduced-flca-increased-self-efficacy.md) — a broader claim this one bears on

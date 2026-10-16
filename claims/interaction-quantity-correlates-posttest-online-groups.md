@@ -42,6 +42,9 @@ Correlational analysis within the same experiment relating observed interaction 
 
 ## Discussion
 
+## Learner Variables
+- [Collaboration](../learner-variables/collaboration.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Social presence shows the strongest association with metacognition in an online case-based course, while teaching presence shows no significant relationship](social-presence-strongest-metacognition-association-cbi.md) — the general claim this finding bears on, with the studies behind it

@@ -43,6 +43,7 @@ WWC synthesis computing improvement indices (difference in percentile rank betwe
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
 
 ## Related Claims
 

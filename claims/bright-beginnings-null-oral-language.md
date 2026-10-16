@@ -40,6 +40,9 @@ The PCER Consortium (2008) randomized trial assessed oral language with the PPVT
 ## Discussion
 
 
+## Learner Variables
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The Bright Beginnings preschool curriculum shows no discernible effects on preschool children's school readiness across oral language, print knowledge, phonological processing, and math domains](bright-beginnings-no-discernible-effects-preschool.md) — a broader claim this one bears on
 - [Bright Beginnings shows no discernible effects on preschool math (domain average effect size 0.07, not statistically significant)](bright-beginnings-null-math.md) — related

@@ -69,7 +69,7 @@ Directional signed-discrepancy analysis in the two AI-assisted conditions: "beha
 
 ## Related Claims
 
-- [Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong](ai-access-inflates-confidence.md) — the general claim this finding bears on, with the studies behind it
+- [Access to AI advice roughly doubled reported confidence in answers in one experiment](ai-access-inflates-confidence.md) — the general claim this finding bears on, with the studies behind it
 
 - [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — the general claim this finding bears on, with the studies behind it
 

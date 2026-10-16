@@ -115,7 +115,7 @@ The page lists an associated NWEA research output, "A cessation of measurement: 
 
 ### Claims
 
-- [Rapid Guessing Differs From Solution Behavior](../claims/rapid-guessing-differs-from-solution-behavior.md) [+M]
+- [Rapid Guessing Differs From Solution Behavior](../claims/rapid-guessing-differs-from-solution-behavior.md) [+W]
 - [Test takers generally disengage during only a portion of their items, and these disengaged responses reflect a momentary cessation of measurement](../claims/disengagement-portion-of-items-momentary-cessation.md) [+W]
 - [Rapid guesses on computer-based tests reflect a construct-irrelevant response process rather than the tested knowledge, skills, and abilities](../claims/rapid-guessing-construct-irrelevant-response-process.md) [+W]
 - [Including rapid guesses in scoring introduces systematic measurement errors that can seriously distort test scores](../claims/rapid-guessing-distorts-test-scores-and-measurement.md) [+W]

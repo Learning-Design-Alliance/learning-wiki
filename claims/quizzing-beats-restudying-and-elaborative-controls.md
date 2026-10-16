@@ -61,3 +61,4 @@ Meta-analytic moderator analysis of control-condition strategy across classroom 
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
 - [Practice testing yields transferrable learning relative to a nontesting reexposure control condition (d = 0.40)](testing-yields-transfer-versus-reexposure-control-d-040.md) — related
 - [Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive low utility assessments](five-techniques-low-utility.md) — related
+- [Offering a monetary incentive in both test and study conditions strengthens the case that testing has a true learning advantage over motivated restudy](monetary-incentive-rules-out-motivation-confound.md) — a narrower finding that bears on this claim

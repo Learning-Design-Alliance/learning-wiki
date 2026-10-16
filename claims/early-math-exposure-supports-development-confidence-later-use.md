@@ -44,6 +44,7 @@ An untested framing assertion opening the brief: the authors state that early ma
 
 ## Learner Variables
 - [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+- [Academic Self-Concept](../learner-variables/academic-self-concept.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Attendance in preschool and kindergarten is framed as important to young learners' school success](prek-kindergarten-attendance-spells-success.md) — related

@@ -259,7 +259,7 @@ The principle holds that explanations in history and social studies textbooks sh
 
 ### Claims
 
-- [History Textbooks Lack Explanatory Structure](../claims/history-textbooks-lack-explanatory-structure.md) [+M]
+- [History Textbooks Lack Explanatory Structure](../claims/history-textbooks-lack-explanatory-structure.md) [+W]
 - [Narrative memory is superior when content follows stereotypical story grammar structure, and goal information is critical to comprehension](../claims/story-grammar-structure-aids-narrative-memory.md) [+M]
 - [Answering history explanation questions often requires causal inferences because causal relationships are frequently left implicit in textbooks](../claims/causal-links-implicit-in-history-textbooks.md) [+W]
 

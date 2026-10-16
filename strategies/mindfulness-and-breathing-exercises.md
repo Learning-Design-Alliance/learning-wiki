@@ -38,7 +38,7 @@ Brief mindfulness and slow-breathing practices reliably reduce physiological aro
 - **Box breathing / paced breathing** (e.g., 4-4-4-4 counts, or ~6 breaths/min slow breathing) — targets physiological downregulation; most evidence for acute anxiety reduction
 - **Focused-attention practice** — anchor attention on breath or sound; targets attentional control and mind-wandering reduction
 - **Body scan** — brief systematic attention to bodily sensation; useful before high-stakes tasks or after transitions
-- **Movement-integrated variants** — pairing breathing with stretching or brief physical activity, which independently improves attention [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]
+- **Movement-integrated variants** — pairing breathing with stretching or brief physical activity, which independently improves attention [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
 
 ### Target Learners
 - Learners experiencing test anxiety or high arousal before assessments — brief breathing protocols reduce state anxiety acutely [+M]

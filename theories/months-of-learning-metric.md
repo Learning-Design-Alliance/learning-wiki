@@ -36,8 +36,8 @@ Months of learning is a translation of test scores into an intuitive time-based 
 - Communicating student achievement and learning loss in accessible units
 
 ### Claims
-- [Test Scores Translated To Months Of Learning](../claims/test-scores-translated-to-months-of-learning.md) [+M]
-- [Months Of Learning Translation Major Downsides](../claims/months-of-learning-translation-major-downsides.md) [+M]
+- [Test Scores Translated To Months Of Learning](../claims/test-scores-translated-to-months-of-learning.md) [+W]
+- [Months Of Learning Translation Major Downsides](../claims/months-of-learning-translation-major-downsides.md) [+W]
 
 ## Related Theories
 - 

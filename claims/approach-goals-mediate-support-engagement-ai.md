@@ -42,6 +42,9 @@ Mediation analysis used bootstrapping with 5000 resamples and 95% bias-corrected
 ## Discussion
 
 
+## Learner Variables
+- [Achievement Goal Orientation](../learner-variables/achievement-goal-orientation.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [AI dependency mediates the relationship between teacher support and learning burnout](ai-dependency-mediates-teacher-support-burnout.md) — related
 - [Mastery-approach, performance-approach, and performance-avoidance goals positively predict engagement, while mastery-avoidance goals do not, in AI-assisted English learning](goal-orientations-predict-engagement-ai-efl.md) — related

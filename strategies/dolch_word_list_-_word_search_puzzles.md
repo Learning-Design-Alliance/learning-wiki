@@ -19,7 +19,7 @@ This strategy uses word search puzzles whose target words are drawn from the Dol
 
 ## Design Implications
 
-The rationale is that automatic recognition of high-frequency words frees working memory and attention for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Word searches supply repeated visual exposure, but exposure alone is weak for building orthographic representations; recognition is strengthened when visual scanning is paired with reading, writing, and spelling the same words [~M]. Because the Dolch list is fixed and finite, puzzles can be sequenced by frequency and revisited over time, which aligns with spaced practice [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
+The rationale is that automatic recognition of high-frequency words frees working memory and attention for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Word searches supply repeated visual exposure, but exposure alone is weak for building orthographic representations; recognition is strengthened when visual scanning is paired with reading, writing, and spelling the same words [~M]. Because the Dolch list is fixed and finite, puzzles can be sequenced by frequency and revisited over time, which aligns with spaced practice [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements

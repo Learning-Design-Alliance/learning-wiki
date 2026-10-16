@@ -74,3 +74,4 @@ Same experiment and CLM measure: "No significant differences were observed betwe
 - [Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load](germane-load-redistributive-function-reformulation.md) — related
 - [Prior physics knowledge moderated the correlation between feeling of learning and actual test performance (positive interaction, P < 0.05)](prior-knowledge-moderates-feeling-of-learning-accuracy.md) — related
 - [In its traditional treatment, germane cognitive load is essentially indistinguishable from intrinsic load and may be a redundant concept](germane-load-indistinguishable-from-intrinsic-load.md) — reports the opposite
+- [Cognitive load when studying depended on instructional method (highest in the worked-out examples condition), but no prior knowledge or test-phase effects emerged](cognitive-load-method-effect-studying.md) — related

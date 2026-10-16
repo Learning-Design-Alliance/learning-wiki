@@ -41,6 +41,7 @@ The review's synthesis of the Al-Bogami & Alahmadi (2025) and Begeny et al. (201
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [Reading Fluency](../learner-variables/reading-fluency.md) — outcome: instruction changes it
 
 ## Related Claims
 

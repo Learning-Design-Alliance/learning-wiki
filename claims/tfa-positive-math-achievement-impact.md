@@ -50,3 +50,4 @@ Randomized experiment studying the impact of Teach For America on student achiev
 - [A randomized controlled trial found TFA secondary math teachers outperformed non-TFA comparison teachers in mathematics achievement](clark-2013-tfa-secondary-math-rct-positive.md) — possibly the same claim (merge candidate)
 - [Teach For America teachers had no impacts on other outcomes such as attendance, promotion, or disciplinary incidents](tfa-no-impacts-attendance-promotion-discipline.md) — related
 - [Secondary math students taught by Teach For America teachers outperformed peers taught by traditional-route teachers by 0.06 standard deviations](tfa-secondary-math-outperforms-traditional-006-sd.md) — related
+- [Students of certified teachers outperformed students of under-certified teachers, including TFA teachers, on all three SAT-9 subtests in low-income districts](certified-outperform-undercertified-sat9.md) — reports the opposite

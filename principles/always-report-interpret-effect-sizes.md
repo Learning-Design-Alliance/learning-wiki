@@ -23,7 +23,7 @@ sources:
 # Always report and interpret effect sizes alongside p values for primary outcomes
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (12 for, 8 mixed) · 21 studies (7 quant-synthesis, 6 causal, 5 theoretical, 3 review), `q1`–`q4` · 5 of 21 report an effect size · 19 claims rest on one study
+> **Evidence** · 22 claims (14 for, 8 mixed) · 22 studies (7 quant-synthesis, 6 causal, 6 theoretical, 3 review), `q1`–`q4` · 5 of 22 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -131,6 +131,8 @@ None of these claims measures what a reader does differently with an effect size
 - [The type of CT measure employed (standardized vs. non-standardized; item format) influences evaluation of intervention effectiveness](../claims/ct-measure-type-influences-effectiveness-evaluation.md) [+M]: a systematic review of 33 critical-thinking intervention studies in higher education; 93% of studies with non-standardized measures reported significant improvement against 55% with standardized ones. Bears on the measure question (it counts significant results, not sizes); member of the first question above.
 - [Training effects were larger on outcome measures aligned with the trained skill (blending, segmenting) than on less aligned measures](../claims/alignment-trained-skill-larger-effects-phonological-awareness.md) [+M]: a WWC footnote on phonological awareness training studies. Bears on the measure question; no figures.
 - [Type of achievement measure moderates the correlation only when laboratory measures are excluded; course-exam correlation drops to r = .04](../claims/achievement-measure-moderator-lab-exclusion.md) [+M]: a growth-mindset meta-analysis's sensitivity analysis; a correlational outcome, so it bears on the measure question only indirectly.
+- [For within-subjects designs, the author recommends reporting Cohen's d_rm or Cohen's d_av rather than Cohen's dz](../claims/recommend-drm-or-dav-for-within-designs.md) [+W] — attached 2026-10-16 from Lakens (2013), which proposed "Always report effect sizes, specify the standardizer used, report generalized eta squared for ANOVAs, and interpret effect sizes rather than relying on Cohen's benchmarks".
+- [Cohen's small, medium, and large effect size benchmarks are arbitrary and should not be interpreted rigidly](../claims/cohen-benchmarks-arbitrary.md) [+W] — attached 2026-10-16 from Lakens (2013), which proposed "Always report effect sizes, specify the standardizer used, report generalized eta squared for ANOVAs, and interpret effect sizes rather than relying on Cohen's benchmarks".
 
 ## Objective and learner-valued goal
 

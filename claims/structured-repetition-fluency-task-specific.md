@@ -60,6 +60,9 @@ The article reports, citing Taguchi et al. (2004), a study of Japanese universit
 
 ## Discussion
 
+## Learner Variables
+- [Reading Fluency](../learner-variables/reading-fluency.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](skill-specificity-l2-grammar-practice.md) — the general claim this finding bears on, with the studies behind it

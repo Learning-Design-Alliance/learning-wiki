@@ -62,6 +62,8 @@ The models included treatment-by-covariate and covariate interactions; the artic
 
 ## Learner Variables
 - [Executive Function](../learner-variables/executive-function.md) — predictor: learners who differ on it differ in outcomes
+- [Alphabet Knowledge and Print Awareness](../learner-variables/alphabet-knowledge-and-print-awareness.md) — moderator: an instructional effect differs with it
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
 
 ## Related Claims
 

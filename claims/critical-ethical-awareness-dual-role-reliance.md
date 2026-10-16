@@ -57,6 +57,9 @@ Hierarchical regression predicting GenAI shortcut reliance (N = 819; R2 = .078),
 ## Discussion
 
 
+## Learner Variables
+- [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Profiles differ in immediate usage behaviors: Engaged and Literate users verify most, while Skeptical Minimal users report the highest shortcut reliance](profile-differences-usage-behaviors.md) — related
 - [GenAI literacy dimensions predict critical monitoring beyond traits, use frequency, and perceptions, with critical-ethical awareness the strongest predictor](genai-literacy-predicts-critical-monitoring.md) — related

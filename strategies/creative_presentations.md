@@ -32,7 +32,7 @@ Creative presentations apply visual design principles — color, imagery, layout
 
 ## Design Implications
 
-Well-designed visuals exploit the dual channels of working memory — pairing words with relevant images improves learning over words alone [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+S]. But the effect is conditional: seductive details, decorative images, and gratuitous animation reliably depress retention and transfer by diverting limited attentional resources [~S]. Design for signal, not spectacle.
+Well-designed visuals exploit the dual channels of working memory — pairing words with relevant images improves learning over words alone [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M]. But the effect is conditional: seductive details, decorative images, and gratuitous animation reliably depress retention and transfer by diverting limited attentional resources [~S]. Design for signal, not spectacle.
 
 ### Context
 #### Requirements
@@ -53,7 +53,7 @@ Well-designed visuals exploit the dual channels of working memory — pairing wo
 - Learner-controlled pacing (click-through slides) substitutes for segmenting when pre-programmed pacing is impossible
 
 ### Target Learners
-- Novices benefit most from relevant visuals and from the *removal* of extraneous decoration [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+S]
+- Novices benefit most from relevant visuals and from the *removal* of extraneous decoration [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M]
 - Low-prior-knowledge learners are most vulnerable to seductive details, which they cannot yet distinguish from core content [-M]
 - Experts need less visual support and may find integrated guidance redundant [~M]
 

@@ -45,4 +45,4 @@ Appendix C of the guide reports "domain-level effect sizes across the 15 studies
 ## Related Claims
 - [Comprehension-building practices for struggling readers in grades 4–9 have strong evidence, based on 34 studies](strong-evidence-comprehension-building-practices-grades-4-9.md) — related
 - [Multisyllabic word-reading instruction improves reading for students in grades 4–9 with reading difficulties, with strong supporting evidence](strong-evidence-multisyllabic-word-reading-instruction-grades-4-9.md) — related
-- [Fluency-building activities improve effortless reading for students in grades 4–9, with strong supporting evidence](fluency-building-activities-strong-evidence-grades-4-9.md) — related
+- [Fluency-building activities improve effortless reading for students in grades 4–9, with strong supporting evidence](strong-evidence-fluency-building-activities-grades-4-9.md) — related

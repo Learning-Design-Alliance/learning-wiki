@@ -59,6 +59,9 @@ Correlational analysis under RQ3 in the survey of 47 graduate students in the on
 ## Discussion
 
 
+## Learner Variables
+- [Metacognition](../learner-variables/metacognition.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Co-regulation shows stronger relationships with the three CoI presences than self-regulation in an online case-based course](co-regulation-stronger-presence-relationships-than-self-regulation.md) — related
 - [In an online case-based course, students perceive cognitive presence as highest and least variable, and teaching presence as the most variable, among the CoI presences and metacognition dimensions](cognitive-presence-highest-least-variable-online-cbi.md) — related

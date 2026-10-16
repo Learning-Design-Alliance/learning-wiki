@@ -41,7 +41,7 @@ A game-playing agent for Camelot Jr. implemented as 'a recursive backtracking pr
 - pathfinding from start to goal
 
 ### Claims
-- [Camelot Jr Solver Solves Arbitrary Configurations](../claims/camelot-jr-solver-solves-arbitrary-configurations.md) [+M]
+- [Camelot Jr Solver Solves Arbitrary Configurations](../claims/camelot-jr-solver-solves-arbitrary-configurations.md) [+W]
 
 ## Related Designs
 - 

@@ -61,6 +61,9 @@ WWC review reporting the Jewell (1994) quasi-experiment (15 CIRC vs. 15 comparis
 ## Discussion
 
 
+## Learner Variables
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
+
 ## Related Claims
 - [CIRC showed a statistically significant positive effect on CAT Language Expression but not CAT Language Mechanics in Stevens and Slavin (1995), and no significant effect on the Bass Academic Skills Sample Reading Proficiency subtest in Jewell (1994)](circ-general-literacy-findings-mixed-across-subtests.md) — related
 - [WWC finds CIRC has potentially positive effects on general literacy achievement for adolescent learners (average improvement index +2 percentile points)](circ-potentially-positive-general-literacy-achievement.md) — related

@@ -51,3 +51,4 @@ Qualitative constant comparative analysis of GPT-4's reasoning chains during the
 - [LLM-based assessment can replace similarity-based methods because it needs no ground-truth response and no correctness threshold](llm-assessment-needs-no-ground-truth-or-threshold.md) — related
 - [GPT-4 generated detailed per-response feedback that was useful for identifying scoring errors and could support personalized student feedback](gpt4-feedback-useful-for-error-identification.md) — related
 - [Accurate LLM solution diagnosis does not reliably produce pedagogically actionable feedback, with lowest rubric scores on error identification and actionability](accurate-diagnosis-not-actionable-feedback.md) — related
+- [Systematic prompting of an LLM can generate cognitively activating formative feedback aligned with research-based scaffold types (demonstrated, not yet empirically validated)](leap-prompt-design-generates-cognitively-activating-feedback.md) — related

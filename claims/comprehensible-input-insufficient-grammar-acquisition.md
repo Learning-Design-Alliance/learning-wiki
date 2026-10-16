@@ -63,6 +63,10 @@ The review reports, citing Hammerly (1987), Swain (1985), and Spada and Lightbow
 
 ## Discussion
 
+## Learner Variables
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+- [Syntax](../learner-variables/syntax.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Producing modified output involving developmentally advanced question forms in response to negative feedback is the only significant predictor of ESL question development](modified-output-advanced-forms-predicts-question-development.md) — the general claim this finding bears on, with the studies behind it

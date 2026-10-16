@@ -40,6 +40,9 @@ Cluster randomized controlled trial (meets WWC standards without reservations) o
 ## Discussion
 
 
+## Learner Variables
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
+
 ## Related Claims
 - [World of Words produced a statistically significant medium effect on a comprehension composite measure (effect size 0.54) after 12 weeks](world-of-words-comprehension-composite-significant.md) — related
 - [World of Words showed no statistically significant effects on the Woodcock-Johnson Picture Vocabulary Subtest or the PPVT-IV](world-of-words-null-standardized-vocabulary-measures.md) — related

@@ -49,3 +49,4 @@ Study of non-expert students interacting with LLM-based AI systems through promp
 - [LLM responses that are incomplete or incorrect prompt students to question, verify and improve the information, fostering critical thinking through cycles of validation and correction](llm-errors-prompt-validation-cycles-critical-thinking.md) — related
 - [Within prompt–response AI interfaces, students without guidance rarely move beyond prompt tuning, yielding interactions of limited educational value and increased reliance on outputs](prompt-response-interface-limits-learning-value.md) — related
 - [Non-expert students exhibit intuitive behaviors towards LLM-based AI systems when prompt engineering](student-intuitive-prompting-behaviors.md) — related
+- [More complex prompts tend to elicit superior results with advanced LLM versions (authors' observation)](complex-prompts-elicit-better-llm-results.md) — related

@@ -42,6 +42,10 @@ Quasi-experimental study (Chambers et al., 2001) analyzing MSEL Expressive and R
 ## Discussion
 
 
+## Learner Variables
+- [Communication Skills](../learner-variables/communication-skills.md) — outcome: instruction changes it
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Curiosity Corner shows no discernible effects on cognition in the Chambers et al. quasi-experimental study](curiosity-corner-no-discernible-cognition-effects.md) — related
 - [Curiosity Corner shows no discernible effects on preschool oral language outcomes across two studies meeting WWC standards](curiosity-corner-no-discernible-oral-language-effects.md) — related

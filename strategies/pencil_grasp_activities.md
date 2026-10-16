@@ -44,7 +44,7 @@ Grasp development is a motor learning problem: it requires repeated, correctly-f
 - Older learners with established inefficient grasps only when fatigue, pain, or illegibility is present — not for cosmetic correction
 
 ### Target Learning Goals
-- Procedural skill acquisition: automatic, low-effort pencil control that frees attention for composing [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S] — the same logic applies to transcription fluency
+- Procedural skill acquisition: automatic, low-effort pencil control that frees attention for composing [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M] — the same logic applies to transcription fluency
 - Endurance and legibility in sustained writing tasks
 
 ### Instructions

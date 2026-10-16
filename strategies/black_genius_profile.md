@@ -19,7 +19,7 @@ The Black Genius Profile is a structured instrument through which parents, careg
 
 ## Design Implications
 
-The profile operationalizes a strengths-based, culturally responsive stance: instruction that connects to learners' cultural knowledge and identities produces stronger engagement and achievement than deficit-framed approaches (Ladson-Billings, 1995) [+M]. Because the child co-authors the profile, the process itself builds self-efficacy — learners see their own interests and identities treated as instructional assets rather than obstacles [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]. Identity-affirming environments also counteract the performance costs of stereotype threat, which depresses achievement when intellectual identity is under threat (Steele, 1997) [+S].
+The profile operationalizes a strengths-based, culturally responsive stance: instruction that connects to learners' cultural knowledge and identities produces stronger engagement and achievement than deficit-framed approaches (Ladson-Billings, 1995) [+M]. Because the child co-authors the profile, the process itself builds self-efficacy — learners see their own interests and identities treated as instructional assets rather than obstacles [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]. Identity-affirming environments also counteract the performance costs of stereotype threat, which depresses achievement when intellectual identity is under threat (Steele, 1997) [+S].
 
 ### Context
 #### Requirements

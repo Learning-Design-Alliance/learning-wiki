@@ -39,7 +39,7 @@ The strategy converts passive reading into generative processing: selecting key 
 - Without skilled facilitation, pair discussion can collapse into agreement-seeking rather than genuine comparison of interpretations
 - Highlighting as a standalone behavior is weak — if the heading and justification phases are skipped, the routine degrades to the low-utility marking students would do anyway [-S] (Dunlosky et al., 2013)
 - Students with weak vocabulary or decoding skills may spend the unfamiliar-vocabulary phase on too many words, stalling the routine
-- Highlighting without the heading task adds little: students who highlight indiscriminately or verbatim show minimal comprehension gains [Highlighting and underlining as typically practiced show low utility for learning outcomes.](../claims/highlighting-low-utility.md) [-S]
+- Highlighting without the heading task adds little: students who highlight indiscriminately or verbatim show minimal comprehension gains [Highlighting and underlining as typically practiced show low utility for learning outcomes.](../claims/highlighting-low-utility.md) [-M]
 - The full routine consumes substantial instructional time; truncating the consensus and justification phases removes the elaboration that drives the effect [Generative activities that require learners to select, organize, and integrate material outperform passive reception.](../claims/generative-processing-improves-learning.md) [~M]
 - Groups dominated by one strong reader can short-circuit negotiation; assigned roles or individual pre-writing of headings before discussion mitigates this
 - Very dense or unfamiliar-vocabulary texts can overload working memory during the heading task; pre-teaching key vocabulary or [chunking](../principles/chunking.md) the text into shorter sections helps [Chunking reduces working memory load during learning.](../claims/chunking-reduces-working-memory-load.md) [+S]
@@ -60,7 +60,7 @@ The strategy converts passive reading into generative processing: selecting key 
 - Less beneficial for advanced readers reading easy text, for whom the routine adds little beyond what they do automatically [~W]
 - Middle school, high school, and adult learners building reading comprehension and analysis skills with challenging disciplinary texts
 - Emergent multilingual learners benefit from the explicit vocabulary-identification phase, provided headings may be drafted in multiple languages before negotiation
-- Less suitable for beginning readers still decoding; the strategy assumes fluent word recognition so attention can go to meaning [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Less suitable for beginning readers still decoding; the strategy assumes fluent word recognition so attention can go to meaning [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 
 ### Target Learning Goals
 - Reading comprehension: identifying main ideas and supporting evidence in expository text
@@ -115,7 +115,7 @@ Students read an excerpt of a difficult article in Google Docs. First, they high
 
 ## Design Implications
 
-The strategy works because it converts passive reading into generative processing: selecting ideas (highlighting), organizing them (heading construction), and elaborating through justification and consensus [Generative activities that require learners to select, organize, and integrate material outperform passive reception.](../claims/generative-processing-improves-learning.md) [+S]. The four-word constraint is the critical design move — it forces abstraction beyond what highlighting alone achieves, since unstructured highlighting is among the weakest studied learning techniques [Highlighting and underlining as typically practiced show low utility for learning outcomes.](../claims/highlighting-low-utility.md) [-S]. Collaborative negotiation of headings adds peer explanation and error detection, which deepens comprehension beyond solitary summarizing [Collaborative writing and joint text construction improve text quality and comprehension.](../claims/collaborative-writing-improves-text-quality.md) [+M].
+The strategy works because it converts passive reading into generative processing: selecting ideas (highlighting), organizing them (heading construction), and elaborating through justification and consensus [Generative activities that require learners to select, organize, and integrate material outperform passive reception.](../claims/generative-processing-improves-learning.md) [+M]. The four-word constraint is the critical design move — it forces abstraction beyond what highlighting alone achieves, since unstructured highlighting is among the weakest studied learning techniques [Highlighting and underlining as typically practiced show low utility for learning outcomes.](../claims/highlighting-low-utility.md) [-M]. Collaborative negotiation of headings adds peer explanation and error detection, which deepens comprehension beyond solitary summarizing [Collaborative writing and joint text construction improve text quality and comprehension.](../claims/collaborative-writing-improves-text-quality.md) [+M].
 
 ### Context
 #### Requirements
@@ -125,7 +125,7 @@ The strategy works because it converts passive reading into generative processin
 - A driving question or unit purpose to anchor the final reflection
 
 #### Constraints
-- Highlighting without the heading task adds little: students who highlight indiscriminately or verbatim show minimal comprehension gains [Highlighting and underlining as typically practiced show low utility for learning outcomes.](../claims/highlighting-low-utility.md) [-S]
+- Highlighting without the heading task adds little: students who highlight indiscriminately or verbatim show minimal comprehension gains [Highlighting and underlining as typically practiced show low utility for learning outcomes.](../claims/highlighting-low-utility.md) [-M]
 - The full routine consumes substantial instructional time; truncating the consensus and justification phases removes the elaboration that drives the effect [Generative activities that require learners to select, organize, and integrate material outperform passive reception.](../claims/generative-processing-improves-learning.md) [~M]
 - Groups dominated by one strong reader can short-circuit negotiation; assigned roles or individual pre-writing of headings before discussion mitigates this
 - Very dense or unfamiliar-vocabulary texts can overload working memory during the heading task; pre-teaching key vocabulary or [chunking](../principles/chunking.md) the text into shorter sections helps [Chunking reduces working memory load during learning.](../claims/chunking-reduces-working-memory-load.md) [+S]
@@ -139,7 +139,7 @@ The strategy works because it converts passive reading into generative processin
 ### Target Learners
 - Middle school, high school, and adult learners building reading comprehension and analysis skills with challenging disciplinary texts
 - Emergent multilingual learners benefit from the explicit vocabulary-identification phase, provided headings may be drafted in multiple languages before negotiation
-- Less suitable for beginning readers still decoding; the strategy assumes fluent word recognition so attention can go to meaning [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Less suitable for beginning readers still decoding; the strategy assumes fluent word recognition so attention can go to meaning [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 
 ### Target Learning Goals
 - Identifying and prioritizing main ideas in expository text

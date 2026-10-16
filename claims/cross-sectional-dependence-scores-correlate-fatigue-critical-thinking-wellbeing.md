@@ -42,6 +42,9 @@ Narrative synthesis of cross-sectional studies (Section 3.5.1) reporting that de
 ## Discussion
 
 
+## Learner Variables
+- [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Dependent versus autonomous cognitive offloading to GenAI shows opposite motivational and cognitive outcome patterns](dependent-autonomous-offloading-genai.md) — related
 - [Educational cross-sectional studies link stronger AI reliance or dependence scores with lower academic self-efficacy, higher academic stress, and stronger performance expectations](academic-reliance-linked-stress-low-self-efficacy.md) — related

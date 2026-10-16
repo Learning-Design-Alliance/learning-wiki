@@ -10,7 +10,7 @@ generated:
   at: 2026-08-30
 sources:
   - id: milani-2010
-    resource: "https://doi.org/10.1002/dys.419"
+    resource: "https://doi.org/10.1002/dys.397"
     title: "Milani, A., Lorusso, M. L., & Molteni, M. (2010). The effects of audiobooks on the psychosocial adjustment of pre-adolescents and adolescents with dyslexia. *Dyslexia, 16*(1), 87-97"
     author: "Milani, A., Lorusso, M. L., & Molteni, M"
   - id: wood-2018

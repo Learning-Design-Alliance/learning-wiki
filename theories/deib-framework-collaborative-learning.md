@@ -15,7 +15,7 @@ sources:
 # DEIB framework: diversity, equity, inclusion and belonging as interdependent foundations of collaborative learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 4 studies (4 review), `q1`–`q2` · 0 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 5 studies (4 review, 1 quant-synthesis), `q1`–`q3` · 0 of 5 report an effect size · 3 claims rest on one study
 
 ## Description
 The primer organizes inclusive collaborative learning around four defined terms. Diversity refers to "the identities, experiences, and perspectives that make us different from one another"; equity ensures learners have what they need to succeed by centering the whole learner; inclusion facilitates access to and participation in high-quality learning opportunities; and belonging is "a student's emotional need to feel personally valued, included, and supported by their learning community." Each term is paired with its relevance for collaborative learning, e.g., integrating diverse voices in discussions "often leads to better outcomes," and feelings of belonging are associated with trust, motivation, engagement, and emotional safety.
@@ -38,10 +38,10 @@ The primer organizes inclusive collaborative learning around four defined terms.
 
 ### Claims
 
-- [Belonging Prerequisite For Collaborative Learning](../claims/belonging-prerequisite-for-collaborative-learning.md) [+M]
+- [Belonging Prerequisite For Collaborative Learning](../claims/belonging-prerequisite-for-collaborative-learning.md) [+W]
 - [Belongingness is among the factors that most strongly and reliably affect learners' academic motivation and achievement](../claims/belongingness-strongly-affects-motivation-achievement.md) [+W]
 - [Stereotype threat in collaborative contexts can interfere with working memory and reduce meaningful contribution](../claims/stereotype-threat-undermines-collaborative-contribution.md) [+W]
-- [Teacher support is one of the strongest predictors of student belonging](../claims/teacher-support-predicts-student-belonging.md) [+W]
+- [Teacher support is one of the strongest predictors of student belonging](../claims/teacher-support-strongest-predictor-school-belonging.md) [+W]
 
 ## Related Theories
 

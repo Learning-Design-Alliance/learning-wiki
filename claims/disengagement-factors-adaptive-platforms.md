@@ -41,6 +41,9 @@ The review reports, citing included studies, that W-Pal lesson activity "decreas
 
 ## Discussion
 
+## Learner Variables
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Included studies suggest engagement increases when adaptive platform activities are tailored to learners' personal needs and emotional state](adaptivity-emotional-tailoring-increases-engagement.md) — the general claim this finding bears on, with the studies behind it

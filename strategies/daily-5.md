@@ -48,7 +48,7 @@ Daily 5 converts the literacy block from whole-class seatwork into structured in
 
 ### Target Learning Goals
 - Reading fluency and stamina through daily sustained reading practice
-- Word recognition and spelling through structured Word Work [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Word recognition and spelling through structured Word Work [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Writing fluency through frequent low-stakes composing
 - Self-regulated learning behaviors: goal-setting, independence, and task management
 

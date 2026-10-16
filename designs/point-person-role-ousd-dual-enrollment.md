@@ -38,7 +38,7 @@ The point person is an OUSD staff member—typically a classroom teacher, occasi
 
 ### Claims
 - [Ousd Open Access Dual Enrollment High Pass Rates](../claims/ousd-open-access-dual-enrollment-high-pass-rates.md) [+M]
-- [Students Identify Point Person Main Support](../claims/students-identify-point-person-main-support.md) [+M]
+- [Students Identify Point Person Main Support](../claims/students-identify-point-person-main-support.md) [+W]
 
 ## Related Designs
 - 

@@ -43,6 +43,9 @@ Authors' observational report on end-of-semester final projects, which replaced 
 ## Discussion
 
 
+## Learner Variables
+- [Problem Solving](../learner-variables/problem-solving.md) — outcome: instruction changes it
+
 ## Related Claims
 - Students report significantly higher accountability, preference for TBL, satisfaction, and total scores than neutral after the TBL module — related
 - [Students perform significantly higher on the team portion of the Readiness Assessment Test than on the individual portion in a TBL laboratory module](team-rat-scores-higher-than-individual-rat.md) — related

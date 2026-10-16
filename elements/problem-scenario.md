@@ -26,7 +26,7 @@ A problem scenario places learners inside a structured, realistic situation — 
 
 ## Design Implications
 
-Problem scenarios support learning by giving knowledge a purpose and a context of use, which improves both engagement and transfer to real performance [Whole-task practice supports transfer better than part-task drill alone.](../claims/whole-task-performance-improves-transfer.md) [+M]. Their power depends on structure: scenarios must be authentic enough to demand real reasoning but scaffolded enough that novices are not overwhelmed by unguided search. Requiring learners to articulate and justify their decisions deepens processing [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
+Problem scenarios support learning by giving knowledge a purpose and a context of use, which improves both engagement and transfer to real performance [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+W]. Their power depends on structure: scenarios must be authentic enough to demand real reasoning but scaffolded enough that novices are not overwhelmed by unguided search. Requiring learners to articulate and justify their decisions deepens processing [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ### Context
 #### Requirements
@@ -51,7 +51,7 @@ Problem scenarios support learning by giving knowledge a purpose and a context o
 
 ### Target Learning Goals
 - Critical thinking and diagnostic reasoning: defining and decomposing ill-structured problems
-- Transfer: applying concepts to novel, realistic situations [Whole-task practice supports transfer better than part-task drill alone.](../claims/whole-task-performance-improves-transfer.md) [+M]
+- Transfer: applying concepts to novel, realistic situations [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+W]
 - Decision-making under uncertainty: weighing trade-offs and justifying commitments
 - Collaboration and communication when scenarios are tackled in teams
 - Support situated problem analysis and authentic application.
@@ -104,7 +104,6 @@ Problem scenarios support learning by giving knowledge a purpose and a context o
 - Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. *Educational Psychologist, 41*(2), 75–86. [doi:10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1)
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43–59. [doi:10.1007/BF02505024](https://doi.org/10.1007/BF02505024)
 - Hmelo-Silver, C. E. (2004). Problem-based learning: What and how do students learn? *Educational Psychology Review, 16*(3), 235–266. [doi:10.1023/B:EDPR.0000034022.16470.f3](https://doi.org/10.1023/B:EDPR.0000034022.16470.f3)
-- Hmelo-Silver, C. E. (2004). Problem-based learning: What and how do students learn? *Educational Psychology Review, 16*(3), 235-266. [https://doi.org/10.1023/B:EDPR.0000034022.16470.f3](https://doi.org/10.1023/B:EDPR.0000034022.16470.f3)
 
 <!-- merged 2026-10-09 from elements/problem-scenarios ("Problem Scenarios"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 

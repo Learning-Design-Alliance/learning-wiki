@@ -42,6 +42,9 @@ Systematic review under WWC 5.0 standards reports that Literacy First, a K–2 t
 ## Discussion
 
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
+
 ## Related Claims
 - [No individual alphabetics outcome reached statistical significance in the WWC analysis](voyager-alphabetics-null-significance.md) — related
 - [Interventions targeting different reading and skill content domains show mostly small differences, with average effect sizes of 0.14–0.22 all statistically significant](content-domain-effects-similar-range.md) — related

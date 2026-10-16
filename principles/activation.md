@@ -208,7 +208,7 @@ The article recommends that teaching start from what learners already know: "tea
 
 ### Claims
 
-- [Learning Is Initiative Construction Old New Knowledge](../claims/learning-is-initiative-construction-old-new-knowledge.md) [+M]
+- [Learning Is Initiative Construction Old New Knowledge](../claims/learning-is-initiative-construction-old-new-knowledge.md) [+W]
 - [Students' appropriation of class interaction practices was mediated by prior sociohistorical educational experiences](../claims/prior-practices-mediate-class-interaction-appropriation.md) [~W]
 - [ELLs attempted academic terminology from prior lessons, with experience mediating their connection to the concept of vibration](../claims/experience-mediate-connection-academic-language-vibration.md) [+W]
 

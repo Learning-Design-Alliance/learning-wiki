@@ -49,3 +49,4 @@ Primary outcome domains B and E in the within-participants comparison of 20 stud
 - [VR-based training with radiation field visualization received significantly higher ratings for radiation understanding and visualization than conventional training (r=0.878)](vr-radiation-visualization-higher-understanding-ratings.md) — related
 - [VR-based training received significantly higher ratings for medical safety awareness and radiation protection than conventional training (r=0.856)](vr-training-higher-safety-awareness-ratings.md) — related
 - [VR-based training received significantly higher ratings for learning satisfaction and self-evaluation than conventional training](vr-training-higher-satisfaction-self-evaluation.md) — related
+- [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) — related

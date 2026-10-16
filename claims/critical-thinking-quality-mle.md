@@ -42,6 +42,9 @@ Interview with Professor Roberto Farné (November 2011), one of the three consul
 ## Discussion
 
 
+## Learner Variables
+- [Critical Thinking](../learner-variables/critical-thinking.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Critics argue experiential learning's weaknesses lie in the reflective observation phase; the authors counter that trainers can develop observation skills](critics-weak-reflective-observation-phase.md) — related
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related

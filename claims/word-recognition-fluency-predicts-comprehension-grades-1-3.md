@@ -61,6 +61,10 @@ The paper reports, citing LRRC (2015), a grade-level moderator: accuracy predict
 ## Discussion
 
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — predictor: learners who differ on it differ in outcomes
+- [Reading Fluency](../learner-variables/reading-fluency.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [In Spanish, decoding accuracy is typically established earlier, after which rate becomes a more sensitive predictor of passage comprehension](spanish-transparent-orthography-rate-predictor.md) — related
 - [In Spanish, decoding rate rather than decoding accuracy is the better predictor of passage comprehension](spanish-decoding-rate-better-predictor-than-accuracy.md) — related

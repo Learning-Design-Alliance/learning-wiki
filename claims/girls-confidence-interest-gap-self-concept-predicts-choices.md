@@ -83,6 +83,7 @@ Correlational evidence cited in the overview (Simpkins and Davis-Kean 2005; Upde
 ## Learner Variables
 - [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
+- [Academic Self-Concept](../learner-variables/academic-self-concept.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 

@@ -42,6 +42,9 @@ Randomized controlled trial (Huffstetter, 2005) reviewed by the WWC: 62 four-yea
 ## Discussion
 
 
+## Learner Variables
+- [Alphabet Knowledge and Print Awareness](../learner-variables/alphabet-knowledge-and-print-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Headsprout Early Reading has a statistically significant positive effect on the oral language of at-risk preschool children](headsprout-positive-oral-language-preschool.md) — related
 - [Bright Beginnings shows a substantively important positive effect on the TERA-3 print knowledge measure (effect size 0.32) but no discernible effect on the print knowledge domain overall](bright-beginnings-print-knowledge-tera3-mixed.md) — related

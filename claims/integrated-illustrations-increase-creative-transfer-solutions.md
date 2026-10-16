@@ -41,6 +41,9 @@ Across three experiments, college students read a text explaining how lightning 
 
 ## Discussion
 
+## Learner Variables
+- [Problem Solving](../learner-variables/problem-solving.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Presenting related material contiguously in space and time yields large learning benefits](contiguity-spatial-temporal-large-learning-benefits.md) — the general claim this finding bears on, with the studies behind it

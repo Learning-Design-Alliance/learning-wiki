@@ -39,9 +39,9 @@ The Comprehensible Output Hypothesis, advanced by Swain in deliberate contrast t
 
 ### Claims
 
-- [Pushing Output Elicits Negative Input](../claims/pushing-output-elicits-negative-input.md) [+M]
-- [Syntactic Processing Corrects Incomprehensible Output](../claims/syntactic-processing-corrects-incomprehensible-output.md) [+M]
-- [Pushing Output Drives Input Assimilation](../claims/pushing-output-drives-input-assimilation.md) [+M]
+- [Pushing Output Elicits Negative Input](../claims/pushing-output-elicits-negative-input.md) [+W]
+- [Syntactic Processing Corrects Incomprehensible Output](../claims/syntactic-processing-corrects-incomprehensible-output.md) [+W]
+- [Pushing Output Drives Input Assimilation](../claims/pushing-output-drives-input-assimilation.md) [+W]
 - [Mere exposure to the target language does not automatically lead to native-like communicative competence in adult learners](../claims/mere-exposure-insufficient-advanced-l2-communicative-competence.md) [+W]
 
 ## Related Theories

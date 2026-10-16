@@ -42,6 +42,10 @@ Moderator analysis within the meta-analysis (k = 14) splitting outcome measures 
 ## Discussion
 
 
+## Learner Variables
+- [Communication Skills](../learner-variables/communication-skills.md) — outcome: instruction changes it
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [SCMC interaction shows a small advantage over FTF on overall L2 learning outcomes](scmc-small-advantage-overall-l2-outcomes.md) — related
 - [No significant differences between SCMC and FTF interaction on L2 development overall](no-significant-scmc-ftf-differences-l2-development.md) — related

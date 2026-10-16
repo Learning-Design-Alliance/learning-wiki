@@ -43,6 +43,10 @@ The synthesis reports neuroscience findings that "aerobic exercise can transient
 ## Discussion
 
 
+## Learner Variables
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — predictor: learners who differ on it differ in outcomes
+- [Sleep](../learner-variables/sleep.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Exercise Increases Hippocampal Volume](exercise-increases-hippocampal-volume.md) — a narrower finding that bears on this claim
 - [Daily physiological changes in non-experimental situations influence measures of brain structure and function](daily-physiological-changes-influence-brain-measures.md) — related

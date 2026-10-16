@@ -44,6 +44,7 @@ The report's synthesis finding for Pillar 3, based on 29 studies including 13 re
 
 ## Learner Variables
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — outcome: instruction changes it
+- [Home Learning Environment](../learner-variables/home-learning-environment.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Community schools are associated with positive student outcomes including reduced absenteeism, improved academics, and more positive school climates](community-schools-positive-outcomes.md) — related

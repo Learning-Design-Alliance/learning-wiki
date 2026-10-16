@@ -44,6 +44,7 @@ Same eye-tracking experiment; analyses of average fixation length on math-releva
 
 ## Learner Variables
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
+- [Visual Processing](../learner-variables/visual-processing.md) — outcome: instruction changes it
 
 ## Related Claims
 

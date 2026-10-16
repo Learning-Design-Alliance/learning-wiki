@@ -42,6 +42,9 @@ Fisher's exact test on Q7 correctness in the field experiment. The article attri
 ## Discussion
 
 
+## Learner Variables
+- [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 - [ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users](chatgpt-reduced-differentiation-verification.md) — related
 - [ChatGPT users showed a non-significant trend toward worse overall informal learning outcomes than Google Search users over 8 days](chatgpt-worse-informal-learning-outcome-trend.md) — related

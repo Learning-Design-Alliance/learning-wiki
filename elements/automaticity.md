@@ -13,14 +13,14 @@ generated:
 # Automaticity
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 7 studies (3 review, 1 causal, 1 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 0 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 7 studies (3 review, 1 causal, 1 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 0 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 Automaticity is the state in which a component skill — decoding words, retrieving math facts, typing, parsing syntax — executes quickly, accurately, and with little conscious effort. It develops through repeated, spaced, and increasingly varied practice after initial accuracy is achieved. Its instructional significance lies in what it *releases*: when lower-level processes run without deliberate attention, working memory is available for comprehension, problem-solving, and composition.
 
 ## Design Implications
 
-Automaticity of component skills is a precondition for complex performance: readers who decode laboriously cannot also construct meaning, and students retrieving arithmetic facts effortfully cannot also reason about problem structure [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Instruction should therefore identify the component skills a complex task depends on and drive those components to fluency *before or alongside* instruction on the complex task itself. Practice aimed at automaticity must be distributed over time and continued past the first correct performance — accuracy is not fluency [Chunking reduces working-memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
+Automaticity of component skills is a precondition for complex performance: readers who decode laboriously cannot also construct meaning, and students retrieving arithmetic facts effortfully cannot also reason about problem structure [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Instruction should therefore identify the component skills a complex task depends on and drive those components to fluency *before or alongside* instruction on the complex task itself. Practice aimed at automaticity must be distributed over time and continued past the first correct performance — accuracy is not fluency [Chunking reduces working-memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements
@@ -36,7 +36,7 @@ Automaticity of component skills is a precondition for complex performance: read
 - For skills that remain genuinely effortful even with practice (e.g., first-language reading comprehension of novel text), expecting automaticity misallocates instructional time [~W]
 
 ### Target Learners
-- Novices in any symbol-based domain: beginning readers, early arithmetic learners, music students, novice programmers [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Novices in any symbol-based domain: beginning readers, early arithmetic learners, music students, novice programmers [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Struggling learners whose slow component processing consumes the working memory they need for comprehension — this group benefits most from targeted fluency building
 - Learners who are already fluent in a component gain nothing from further automatization; instruction should move on
 
@@ -53,7 +53,7 @@ Automaticity of component skills is a precondition for complex performance: read
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Fluency-building activities improve effortless reading for students in grades 4–9, with strong supporting evidence](../claims/fluency-building-activities-strong-evidence-grades-4-9.md) [+W]
+- [Fluency-building activities improve effortless reading for students in grades 4–9, with strong supporting evidence](../claims/strong-evidence-fluency-building-activities-grades-4-9.md) [+W]
 - [In Spanish, decoding rate rather than decoding accuracy is the better predictor of passage comprehension](../claims/spanish-decoding-rate-better-predictor-than-accuracy.md) [+W]
 
 ## The evidence by question

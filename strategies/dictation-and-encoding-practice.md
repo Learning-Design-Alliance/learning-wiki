@@ -19,7 +19,7 @@ Dictation asks learners to transcribe spoken words, phrases, or sentences into w
 
 ## Design Implications
 
-Dictation is effective because production demands retrieval: recognizing a word in print requires far less memory strength than spelling it from sound, and the act of generating the letter sequence strengthens the orthographic representation that supports later automatic reading [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Encoding practice works best when the dictated material is decodable given the phonics patterns already taught, so learners apply rather than guess [Systematic phonics instruction outperforms whole-word approaches for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Dictation of longer units (phrases, sentences) also builds working-memory span for language by requiring learners to hold and reconstruct sequences [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
+Dictation is effective because production demands retrieval: recognizing a word in print requires far less memory strength than spelling it from sound, and the act of generating the letter sequence strengthens the orthographic representation that supports later automatic reading [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Encoding practice works best when the dictated material is decodable given the phonics patterns already taught, so learners apply rather than guess [Systematic phonics instruction outperforms whole-word approaches for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Dictation of longer units (phrases, sentences) also builds working-memory span for language by requiring learners to hold and reconstruct sequences [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements
@@ -44,7 +44,7 @@ Dictation is effective because production demands retrieval: recognizing a word 
 
 ### Target Learning Goals
 - Orthographic mapping: securing sound–letter correspondences into long-term memory
-- Automatic word recognition and spelling fluency [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Automatic word recognition and spelling fluency [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Sentence-level transcription skills: punctuation, capitalization, and holding language in memory while writing
 
 ### Instructions

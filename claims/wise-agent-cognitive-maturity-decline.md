@@ -43,6 +43,7 @@ Paired-sample t-test on the cohort's Cognitive Maturity sub-dimension scores pre
 
 ## Learner Variables
 - [Epistemic Beliefs](../learner-variables/epistemic-beliefs.md) — outcome: instruction changes it
+- [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
 
 ## Related Claims
 

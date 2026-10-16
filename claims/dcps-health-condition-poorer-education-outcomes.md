@@ -42,6 +42,9 @@ Comparative descriptive analysis of education outcomes for DCPS students with an
 ## Discussion
 
 
+## Learner Variables
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - About 27 percent of DCPS students had a reported health condition in 2018/19, which may be an undercount — related
 - [Among DCPS students with a reported health condition, 28 percent receive support through a Section 504 plan or an individualized education program](dcps-28-percent-health-condition-504-iep-support.md) — related

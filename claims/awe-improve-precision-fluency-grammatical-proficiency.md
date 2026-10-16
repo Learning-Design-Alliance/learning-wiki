@@ -42,6 +42,9 @@ Systematic literature review synthesizing 50 empirical studies published 2019–
 ## Discussion
 
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [A review of 50 studies reports that AWE tools can improve the organization and overall quality of writing and encourage self-directed learning](awe-enhance-organization-quality-self-directed-learning.md) — related
 - [Overreliance on AWE may lower learners' critical thinking and creativity](awe-overreliance-lowers-critical-thinking-creativity.md) — related

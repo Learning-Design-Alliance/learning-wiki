@@ -39,7 +39,7 @@ In instruction, constructivism is less a single method than a family resemblance
 ## Claims
 
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
-- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~S]
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 - [A constructivist, process-oriented syllabus was suggested to be more effective than a knowledge-based approach for cross-cultural learning (Wright, 2000, as reported)](../claims/constructivist-syllabus-beats-knowledge-based-culture-teaching.md) [+W]
 - [Constructivism is the major learning theory reflected in Iranian Pre-University ELT textbooks](../claims/constructivism-dominates-iranian-pre-university-elt-textbooks.md) [+W]

@@ -42,6 +42,9 @@ Large field experiment (megastudy) with 61,293 fitness-chain members comparing 5
 ## Discussion
 
 
+## Learner Variables
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Forecasts by impartial judges failed to predict which interventions would be most effective](expert-forecasts-failed-to-predict-effective-interventions.md) — related
 - [The top-performing exercise intervention offered microrewards for returning to the gym after a missed workout](microrewards-after-missed-workout-top-intervention.md) — related

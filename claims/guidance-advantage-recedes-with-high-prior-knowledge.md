@@ -53,3 +53,4 @@ The abstract states this boundary condition on the guidance advantage: it "begin
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — possibly the same claim (merge candidate)
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related
 - [Recent developments in instructional research and instructional design models support guidance during instruction](recent-design-models-support-guidance-during-instruction.md) — a broader claim this one bears on
+- [Expertise reversal: high-guidance worked examples become ineffective or detrimental once learners have developed cognitive schemata](expertise-reversal-worked-examples.md) — related

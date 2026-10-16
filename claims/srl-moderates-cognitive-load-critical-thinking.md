@@ -42,6 +42,7 @@ Moderated mediation analysis (PROCESS Model 14) in the 480-student survey. At lo
 
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — moderator: an instructional effect differs with it
+- [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Cognitive load is negatively associated with critical thinking and with self-regulated learning](cognitive-load-negatively-associated-critical-thinking.md) — related

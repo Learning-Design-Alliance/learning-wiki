@@ -44,6 +44,7 @@ The review reports this randomized controlled trial (21 student groups) in Secti
 
 ## Learner Variables
 - [Attention](../learner-variables/attention.md) — outcome: instruction changes it
+- [Visual Processing](../learner-variables/visual-processing.md) — outcome: instruction changes it
 
 ## Related Claims
 - [AI-mediated feedback in hands-on exhibits improves learning and engagement](ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement.md) — related

@@ -45,6 +45,9 @@ The report's narrative synthesis of values affirmation research, citing Cohen et
 
 The only entry here is a policy report's narrative summary of Cohen et al. (2009) and Goyer et al. (2017); it prints no effect size and does not mention null replications. A large same-district replication of the values-affirmation exercise, Hanselman et al. (2017), found no effect on grades; see [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](self-affirmation-improves-outcomes.md).
 
+## Learner Variables
+- [Stereotype Threat](../learner-variables/stereotype-threat.md) — outcome: instruction changes it
+
 ## Related Claims
 - [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](self-affirmation-improves-outcomes.md) — related
 - [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — related

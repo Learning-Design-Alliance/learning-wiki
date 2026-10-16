@@ -42,6 +42,9 @@ Randomized evaluation in which 29 schools were assigned to Playworks or control 
 ## Discussion
 
 
+## Learner Variables
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Playworks showed significant impact on some measures of girls' physical activity but no significant impact on measures of boys' physical activity](playworks-gender-differential-impact.md) — a broader claim this one bears on
 - [In a randomized controlled trial, children in Playworks schools spent more time in vigorous physical activity at recess than students at non-Playworks schools, and more teachers in Playworks schools reported students engaged in intense recess activity](playworks-rct-more-vigorous-recess-activity.md) — a broader claim this one bears on

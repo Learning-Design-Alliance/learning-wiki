@@ -42,6 +42,9 @@ Analysis of pre/post parent interviews and case examples of two bilingual famili
 ## Discussion
 
 
+## Learner Variables
+- [Home Learning Environment](../learner-variables/home-learning-environment.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Nearly all participating families reported using the Splash and Bubbles for Parents app and found it helpful for supporting children's science learning](splash-bubbles-app-high-uptake-perceived-learning-support.md) — related
 - [Most families used the Activities section and rated it highly helpful, with many completing two or more activities](splash-bubbles-activities-section-high-ratings-multiple-completion.md) — related

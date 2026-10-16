@@ -89,6 +89,9 @@ Two meta-analyses of elementary and secondary school students related achievemen
 
 **Open questions.** How durable are metacognitive gains after instruction ends? Do strategies transfer across domains, or must they be taught domain by domain? How much metacognitive instruction can be embedded in content teaching before it competes with content time? These questions remain actively debated and should temper strong versions of the claim.
 
+## Learner Variables
+- [Metacognition](../learner-variables/metacognition.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Assessment for Learning improves achievement.](assessment-for-learning-improves-achievement.md) — feedback and formative assessment give learners the accurate information metacognitive monitoring depends on
@@ -112,3 +115,4 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Some GenAI tools can inhibit productive struggle by reducing cognitive effort (metacognitive laziness)](genai-metacognitive-laziness.md) — related
 - [Multiple-strategy comprehension training appears to produce better comprehension than single-strategy training](multiple-strategy-training-better-comprehension-than-single-strategy.md) — related
 - [Without instructional support, learners show low cognitive strategy use and almost absent metacognitive strategies in journal writing, and realized strategy use correlates with learning outcomes](unsupported-journal-writing-low-strategy-use.md) — a narrower finding that bears on this claim
+- [SRL training effects vary by outcome category, largest for metacognitive strategies (g = .40) and smallest for cognitive strategies (g = .32)](srl-training-effects-by-outcome-category.md) — related

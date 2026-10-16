@@ -40,6 +40,9 @@ Supplemental findings from the same Waite (2000) quasi-experiment (18 schools, 3
 ## Discussion
 
 
+## Learner Variables
+- [Problem Solving](../learner-variables/problem-solving.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The evidence base for Everyday Mathematics® on primary mathematics achievement is small: one study of 3,436 students met WWC standards, and 33 of 34 eligible studies did not meet group design standards](everyday-mathematics-small-evidence-base-one-qualifying-study.md) — related
 - [Everyday Mathematics® has potentially positive effects on mathematics achievement for primary students, with a substantively important but statistically non-significant effect size of 0.27](everyday-mathematics-potentially-positive-primary-math-achievement.md) — a broader claim this one bears on

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: AI-assistant mode inflates self-reported mathematics self-efficacy and suppresses reported anxiety
-description: AI-assistant mode inflates self-reported mathematics self-efficacy and suppresses reported anxiety
+title: LLMs simulating survey respondents under AI-assistant instructions report higher mathematics self-efficacy and lower anxiety than under human-shadow conditioning
+description: LLMs simulating survey respondents under AI-assistant instructions report higher mathematics self-efficacy and lower anxiety than under human-shadow conditioning
 id: ai-assistant-mode-inflates-math-self-efficacy
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# AI-assistant mode inflates self-reported mathematics self-efficacy and suppresses reported anxiety
+# LLMs simulating survey respondents under AI-assistant instructions report higher mathematics self-efficacy and lower anxiety than under human-shadow conditioning
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
@@ -40,10 +40,6 @@ Task 2 distributional analysis of psychometric scores by prompting mode. The art
 > "This divergence is particularly evident in the MSES distributions, where the AI-assistant peaks are markedly shifted to the right relative to the human-shadow data, indicating systematically higher self-efficacy."
 
 ## Discussion
-
-## Learner Variables
-- [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
-- [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
 
 ## Related Claims
 

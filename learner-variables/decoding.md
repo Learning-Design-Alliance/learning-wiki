@@ -1,0 +1,111 @@
+---
+type: learner-variable
+id: decoding
+title: Decoding
+description: "A learner's ability to turn written words into spoken words and meanings, by applying letter-sound knowledge to unfamiliar words and by recognising familiar words at sight."
+status: review
+generated:
+  by: claude/unspecified
+  at: 2026-10-16
+---
+
+# Decoding
+
+> **Learner Variable** · [All learner variables](index.md)
+> **Evidence** · 42 claims (31 show a difference, 4 mixed, 7 no difference) · 38 studies (11 causal, 9 quant-synthesis, 7 associational, 6 review, 3 design, 2 theoretical), `q1`–`q4` · 12 of 38 report an effect size · 37 claims rest on one study
+
+## Description
+Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
+
+Strong decoding lets learners read longer and more complicated words and makes reading smoother; readers who must work out many words lose track of meaning. As orthographic knowledge grows, word recognition becomes faster and more automatic, supporting fluent reading and writing. For adults, weak foundational reading skills can make complex text hard to understand and can limit access to careers, further learning and public services.
+
+It builds on [phonological awareness](phonological-awareness.md) and [alphabet knowledge](alphabet-knowledge-and-print-awareness.md), leads into [reading fluency](reading-fluency.md), and is part of the wiki's broader [reading and language](reading-and-language.md) page. Persistent decoding difficulty is characteristic of dyslexia (see [learning disabilities](learning-disabilities.md)).
+
+## Implications
+
+### Context
+- Matters wherever learners must read text independently, at any age.
+- Print exposure, including everyday reading and texting, is associated with stronger word recognition.
+- Learners reading in a language that is not their first may initially recognise fewer words by sight.
+
+### Target Learners
+- Early-elementary children learning to read, and upper-elementary learners building orthographic knowledge.
+- Adults with low literacy, including adults with dyslexia, who may carry negative experiences of school.
+- Learners with attention difficulties or auditory-processing difficulties.
+
+### Target Learning Objectives
+- Accurate and automatic word reading.
+- Reading comprehension.
+- Spelling.
+
+## Claims
+<!-- Claims reporting findings about this variable, with evidence tags -->
+- [A critical mass of roughly 10,000-12,000 words is needed for fluent reading, from which ESL strategies can begin](../claims/vocabulary-critical-mass-10000-12000-words.md) [+W] — instruction changes it
+- [Automated speech recognition tutoring supports early reading in three areas: word identification, attention to meaning, and motivation](../claims/asr-tutoring-supports-word-identification-attention-motivation.md) [+W] — instruction changes it
+- [Automatic word recognition frees resources for comprehension](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+W] — learners who differ on it differ in outcomes
+- [Boys taught by synthetic phonics showed better word reading than girls in their classes, with spelling and reading comprehension as good as the girls'](../claims/synthetic-phonics-boys-better-word-reading.md) [+M] — instruction changes it
+- [Corrective Reading showed statistically significant positive effects on two of four alphabetics outcomes, but the alphabetics domain average effect was neither significant nor substantively important](../claims/corrective-reading-alphabetics-mixed-outcomes.md) [~M] — instruction changes it
+- [DaisyQuest outperformed math-oriented control software on phonological awareness and phonics measures](../claims/daisyquest-beats-math-software-alphabetics.md) [+M] — instruction changes it
+- [Early failure in phonetic recoding and decoding widens the acquisition gap between false beginners and successful learners over time](../claims/early-decoding-failure-widens-acquisition-gap.md) [+W] — learners who differ on it differ in outcomes
+- [Early synthetic phonics teaching that emphasises blending letter sounds showed no evidence of impairing reading of irregular words](../claims/synthetic-phonics-no-irregular-word-impairment.md) [-M] — instruction changes it
+- [Embedded cognitive flexibility practice showed no overall advantage over phonics alone on growth in decoding, encoding, or cognitive flexibility](../claims/embedded-cognitive-flexibility-no-overall-advantage-winter-kindergarten.md) [-M] — instruction changes it
+- [Failure Free Reading shows no discernible effects on alphabetics outcomes for beginning readers](../claims/failure-free-reading-no-discernible-effects-alphabetics.md) [-M] — instruction changes it
+- [For fifth-grade struggling readers, the four interventions combined improved phonemic decoding on one measure but produced a small reduction in oral reading fluency one year after the interventions](../claims/fifth-grade-cohort-small-fluency-reduction.md) [~M] — instruction changes it
+- [For students with full week-6 attendance, Flex showed significantly greater gains than Plain on taught-letter alphabetics, decoding, and word reading](../claims/week6-attendance-interaction-favors-flex.md) [+M] — instruction changes it
+- [Foundational Skills test scores generally increased across terms and grades, with less growth observed at higher grades](../claims/foundational-skills-scores-increase-across-terms-and-grades.md) [+M] — instruction changes it
+- [Four remedial reading interventions combined improved phonemic decoding, word reading accuracy and fluency, and reading comprehension for third-grade struggling readers one year after the interventions ended, though not on all measures](../claims/four-reading-interventions-improved-third-grade-reading-one-year-later.md) [~M] — instruction changes it
+- [Higher pretest cognitive flexibility predicted greater decoding gains and compensated for lower pretest alphabet knowledge](../claims/pretest-cognitive-flexibility-predicts-decoding-gains-compensates-alphabet.md) [+M] — instruction changes it
+- [In a Los Angeles RCT, Earobics® plus Open Court improved phonological awareness but not letter knowledge, phonics, or fluency](../claims/earobics-cognitive-concepts-2003-phonological-awareness-gains.md) [-M] — instruction changes it
+- [In Gunn (1996), LiPS effects on word accuracy/fluency and phonemic decoding were negative and substantively important but not statistically significant](../claims/gunn-1996-negative-nonsignificant-alphabetics.md) [-W] — instruction changes it
+- [In Spanish, decoding accuracy is typically established earlier, after which rate becomes a more sensitive predictor of passage comprehension](../claims/spanish-transparent-orthography-rate-predictor.md) [+W] — learners who differ on it differ in outcomes
+- [In Spanish, decoding rate rather than decoding accuracy is the better predictor of passage comprehension](../claims/spanish-decoding-rate-better-predictor-than-accuracy.md) [+W] — learners who differ on it differ in outcomes
+- [In the Rashotte, MacPhee, and Torgesen (2001) RCT, SpellRead™ produced statistically significant positive effects on alphabetics and reading fluency for fifth- and sixth-grade struggling readers after eight weeks](../claims/rashotte-2001-spellread-significant-gains.md) [+S] — instruction changes it
+- [In Torgesen et al. (2010), LiPS produced statistically significant positive effects on word accuracy/fluency, phonemic decoding, phonological awareness, and spelling versus a basal reading program](../claims/torgesen-2010-positive-alphabetics-effects.md) [+M] — instruction changes it
+- [L2 oral language proficiency predicts reading comprehension more strongly than decoding skills](../claims/oral-proficiency-predicts-l2-reading-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [Literacy First shows strong ESSA evidence of positive effects in phonics and related alphabetics, reading fluency, and reading comprehension for grades K–2](../claims/literacy-first-strong-evidence-phonics-fluency-comprehension.md) [+M] — instruction changes it
+- [Low reading-group first graders read far fewer words than high-group peers, limiting elaboration](../claims/low-group-first-graders-read-few-words.md) [+W] — learners who differ on it differ in outcomes
+- [Lower-level phonological processing efficiency contributes significantly to individual differences in adult ESL reading measures](../claims/phonological-orthographic-efficiency-predicts-esl-reading.md) [+M] — learners who differ on it differ in outcomes
+- [Mean foundational-skills scores rise from fall to spring with the largest gains in kindergarten and grade 1, and growth flattens by grades 2-3](../claims/spanish-foundational-skills-fall-to-spring-gain-pattern.md) [+M] — instruction changes it
+- [Morphological awareness contributes to pseudoword reading and reading comprehension beyond phonological awareness](../claims/morphological-awareness-contributes-reading-development.md) [+M] — instruction changes it
+- [Morphological instruction improves word-level literacy outcomes (decoding, spelling, vocabulary, morphological knowledge) but shows no reliable effect on reading comprehension](../claims/morphological-instruction-improves-literacy.md) [+M] — instruction changes it
+- [Multisyllabic word-reading instruction for struggling readers in grades 4–9 has strong evidence, based on 32 studies](../claims/strong-evidence-multisyllabic-word-reading-instruction-grades-4-9.md) [+M] — instruction changes it
+- [One year after the intervention, Reading Mastery showed a statistically significant effect on word attack for English language learners, with positive but non-significant differences on other reading measures](../claims/reading-mastery-followup-word-attack-significant-ell.md) [+M] — instruction changes it
+- [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](../claims/phoneme-awareness-stronger-predictor-than-rhyme.md) [+M] — instruction changes it
+- [Phonemic Awareness Training Improves Reading](../claims/phonemic-awareness-training-improves-reading.md) [+M] — instruction changes it
+- [Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects](../claims/structured-literacy-interventions-help-struggling-readers.md) [~M] — instruction changes it
+- [Reading times for unknown words decrease significantly after three to four encounters, and by eight encounters unknown words are read like known words](../claims/reading-times-drop-three-four-encounters.md) [+M] — instruction changes it
+- [Reading times on unfamiliar words decrease non-linearly, following an S-shaped curve, as exposures accumulate during natural reading](../claims/s-shaped-reading-time-decrease-repeated-exposure.md) [+W] — instruction changes it
+- [Students in the TEC Summer Learning Program showed a 17% pre-to-post gain in phonics skills](../claims/tec-summer-17-percent-phonics-gain.md) [+W] — instruction changes it
+- [Teaching phonological awareness and print knowledge improved decoding performance even without decoding instruction, and adding decoding instruction more than doubled the weighted effect size](../claims/pa-pk-improve-decoding-without-decoding-instruction.md) [+M] — instruction changes it
+- [Technology-enhanced stories show no significant additional effect on code-related literacy skills](../claims/technology-stories-no-code-related-literacy-effect.md) [-M] — instruction changes it
+- [The group taught by synthetic phonics showed better word reading, spelling, and reading comprehension overall than the analytic phonics group](../claims/synthetic-phonics-group-better-overall-outcomes.md) [+M] — instruction changes it
+- [Two years of multicomponent fluency intervention produced greater word-reading and fluency growth than one year or control, with no comprehension differences](../claims/two-year-fluency-intervention-greater-word-reading-growth.md) [+M] — instruction changes it
+- [Under analytic phonics teaching, boys matched girls in word reading but had inferior spelling and reading comprehension](../claims/analytic-phonics-boys-inferior-spelling-comprehension.md) [-M] — instruction changes it
+- [Word recognition fluency significantly predicted reading comprehension in grades 1-3, with rate becoming the stronger predictor by third grade](../claims/word-recognition-fluency-predicts-comprehension-grades-1-3.md) [+W] — learners who differ on it differ in outcomes
+
+## Measures
+- **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.
+- **The Kaufman Test of Educational Achievement, Third Edition (KTEA-3)** (Kaufman & Kaufman, 2014): word recognition fluency, spelling and letter-naming subtests for orthographic processing, grades 1 to 12.
+- **Fry 1000 Instant Words List** (Fry & Kress, 2006): sight recognition of the most frequent English words in written material.
+
+## Related Learner Variables
+- [Writing Skills](writing-skills.md): orthographic knowledge predicts spelling, and adults with writing difficulties often show weaker word reading.
+- [Executive Function](executive-function.md): inhibition may help suppress similar-looking words while decoding.
+- [Long-Term Memory](long-term-memory.md): the written forms of words are stored in long-term memory and retrieved for reading and spelling.
+- [Working Memory](working-memory.md): working memory supports comprehension in struggling adult readers, and adults with dyslexia may have shorter memory spans.
+- [Access](access.md): limited early access to language for learners with hearing loss can lead to weaker reading, though orthographic processing is often unaffected.
+- [Home Learning Environment](home-learning-environment.md): more print exposure goes with stronger word recognition and foundational reading in children and adults.
+- [Attention](attention.md): weaker attention in preschool contributes to weaker decoding in kindergarten.
+- [Processing Speed](processing-speed.md): faster processing makes decoding more efficient.
+- [English-Learner Status](english-learner-status.md): learners reading in a new language may at first know fewer sight words, and differences between languages can affect reading.
+- [Morphological Awareness](morphological-awareness.md): knowing word parts helps learners decode long, morphologically complex words.
+- [Phonological Awareness](phonological-awareness.md): decoding rests on being able to pick out the sounds in spoken words.
+- [Visual Processing](visual-processing.md): visual processing helps map written forms onto speech sounds and build orthographic knowledge.
+
+## Examples
+
+## Key Sources
+- Digital Promise. *Learner Variability Navigator*: Decoding (Building Literacy PK-3). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/literacy-pk-3/factors/decoding-literacy-pk-3/summary). Licensed CC BY-NC 4.0.
+- Digital Promise. *Learner Variability Navigator*: Sight Recognition (Building Literacy PK-3). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/literacy-pk-3/factors/sight-recognition-literacy-pk-3/summary). Licensed CC BY-NC 4.0.
+- Digital Promise. *Learner Variability Navigator*: Orthographic Processing (Building Literacy 4-6). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/literacy-4-6/factors/orthographic-processing-literacy-4-6/summary). Licensed CC BY-NC 4.0.
+- Digital Promise. *Learner Variability Navigator*: Foundational Reading Skills (Adult Learner). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/adult-learner/factors/foundational-reading-skills-adult-learner/summary). Licensed CC BY-NC 4.0.

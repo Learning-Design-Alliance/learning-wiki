@@ -19,7 +19,7 @@ Irregular Anglo-Saxon words (e.g., *said*, *was*, *one*, *two*, *who*, *come*) c
 
 ## Design Implications
 
-Irregular-word instruction works best when it leverages, rather than bypasses, alphabetic knowledge: most letters in an "irregular" word map regularly onto sounds, and only the truly irregular part needs rote attention [~S]. This approach — sometimes called "spotlighting" the tricky part — produces stronger word learning than whole-word memorization, which treats the word as an arbitrary visual unit [Phonics instruction outperforms whole-word methods for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Repeated, spaced encounters with the word build the orthographic memory that supports automatic recognition [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S], and automatic word recognition in turn frees working memory for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
+Irregular-word instruction works best when it leverages, rather than bypasses, alphabetic knowledge: most letters in an "irregular" word map regularly onto sounds, and only the truly irregular part needs rote attention [~S]. This approach — sometimes called "spotlighting" the tricky part — produces stronger word learning than whole-word memorization, which treats the word as an arbitrary visual unit [Phonics instruction outperforms whole-word methods for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Repeated, spaced encounters with the word build the orthographic memory that supports automatic recognition [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S], and automatic word recognition in turn frees working memory for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
 
 ### Context
 #### Requirements
@@ -46,7 +46,7 @@ Irregular-word instruction works best when it leverages, rather than bypasses, a
 - Learners with dyslexia, for whom multisensory, structured routines are a standard component of remedial programs [~M]
 
 ### Target Learning Goals
-- Sight-word recognition: instant, effortless reading of high-frequency irregular words [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Sight-word recognition: instant, effortless reading of high-frequency irregular words [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Spelling accuracy of exception words
 - Development of self-teaching memory strategies (visualization, self-testing) that generalize to later vocabulary
 

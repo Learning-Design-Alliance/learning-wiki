@@ -13,14 +13,14 @@ generated:
 # Inquiry and Research
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (3 for, 3 mixed, 1 against) · 15 studies (5 quant-synthesis, 5 review, 3 causal, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 15 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 14 studies (5 quant-synthesis, 5 review, 2 causal, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 14 report an effect size · 2 claims rest on one study
 
 ## Description
 Inquiry and research place learners in the role of investigator: they pose or refine questions, gather and evaluate evidence, and build explanations from what they find. The element shifts the locus of knowledge construction from instructor to learner, with the instructor designing the question space, providing tools and [Scaffolding](scaffolding.md), and [Coaching](coaching.md) during the investigation.
 
 ## Design Implications
 
-Inquiry supports deep conceptual understanding and transfer when learners have enough structure to avoid unproductive search, but pure discovery without guidance is consistently less effective than guided inquiry [Minimal guidance during inquiry produces poor learning outcomes for novices.](../claims/worked-examples-reduce-novice-search.md) [-S]. Structured prompts — question frameworks, data-organization templates, [Advance Organizers](advance-organizers.md) — preserve the motivational and epistemic benefits of investigation while preventing cognitive overload [Guided inquiry outperforms unguided discovery.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]. Requiring learners to explain and justify their findings converts investigation into durable understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
+Inquiry supports deep conceptual understanding and transfer when learners have enough structure to avoid unproductive search, but pure discovery without guidance is consistently less effective than guided inquiry [Minimal guidance during inquiry produces poor learning outcomes for novices.](../claims/minimal-guidance-less-effective-for-novices.md) [-S]. Structured prompts — question frameworks, data-organization templates, [Advance Organizers](advance-organizers.md) — preserve the motivational and epistemic benefits of investigation while preventing cognitive overload [Guided inquiry outperforms unguided discovery.](../claims/minimal-guidance-less-effective-for-novices.md) [+M]. Requiring learners to explain and justify their findings converts investigation into durable understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ### Context
 #### Requirements
@@ -30,9 +30,9 @@ Inquiry supports deep conceptual understanding and transfer when learners have e
 - Opportunities to articulate, defend, and revise findings ([Argumentation](argumentation.md), [Class Discussion](class-discussion.md))
 
 #### Constraints
-- Unguided discovery with novices produces minimal learning and can entrench misconceptions [Minimal guidance during inquiry produces poor learning outcomes for novices.](../claims/worked-examples-reduce-novice-search.md) [-S]
+- Unguided discovery with novices produces minimal learning and can entrench misconceptions [Minimal guidance during inquiry produces poor learning outcomes for novices.](../claims/minimal-guidance-less-effective-for-novices.md) [-S]
 - Effectiveness declines sharply when learners lack domain knowledge to recognize relevant evidence [Guidance becomes more necessary as learner expertise decreases.](../claims/worked-examples-less-effective-with-expertise.md) [~S]
-- Open-ended research tasks can overload working memory when learners must simultaneously manage the question, the search process, and the content [Guided inquiry outperforms unguided discovery.](../claims/self-explanation-improves-conceptual-understanding.md) [-M]
+- Open-ended research tasks can overload working memory when learners must simultaneously manage the question, the search process, and the content [Guided inquiry outperforms unguided discovery.](../claims/minimal-guidance-less-effective-for-novices.md) [-M]
 - Time-intensive; poorly suited when learning goals require broad content coverage in limited time
 
 ### Target Learners

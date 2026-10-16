@@ -44,7 +44,7 @@ Documentary review of the risk-level and cut-score definitions of the 11 assessm
 ## Related Claims
 
 - [Literacy screener benchmarks predict which grade 3 students will not meet MCAS ELA expectations, but not necessarily who will meet them](screeners-predict-mcas-failure-not-success.md) — the general claim this finding bears on, with the studies behind it
-- [Agreement between screening assessments on which students are at risk varies from 47 to 85 percent depending on assessment combination](massachusetts-screener-agreement-rates-vary-47-85.md) — related
+- [Agreement between screening assessments on which students are at risk varies from 47 to 85 percent depending on assessment combination](screening-assessment-agreement-varies-47-85-percent.md) — related
 - [Early literacy screening assessments provide multiple benchmarks or performance levels defined in different ways, with no common definition of 'at risk'](no-common-definition-at-risk-literacy-screeners.md) — possibly the same claim (merge candidate)
 - [Equipercentile linking shows grade 3 screening benchmark cut scores identifying at-risk students cluster in the MCAS Partially Meeting Expectations performance level, with variation among assessments](risk-cut-scores-cluster-mcas-partially-meeting.md) — related
 - [Screening assessment benchmarks indicating significant risk shift up and down on the MCAS scale within and across grades, so students with the same skills may be classified differently at different times](benchmark-cut-scores-shift-on-mcas-scale.md) — related

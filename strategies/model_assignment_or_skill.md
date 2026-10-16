@@ -98,6 +98,7 @@ Modeling works because it converts tacit expert knowledge into explicit, observa
 - [activating-prior-knowledge](activating-prior-knowledge.md) — front-loads the knowledge that makes a model comprehensible
 - Gradual release of responsibility ("I do, we do, you do") — the instructional frame that sequences modeling, guided practice, and independence [Fisher & Frey, 2011]
 - [Gradual-release coaching model (I do, we do, you do) for building turnaround capacity](gradual-release-turnaround-coaching-model.md)
+- [Teach a four-step verbalized problem-solving strategy (identify problem, propose solution, implement, evaluate)](four-step-self-regulated-problem-solving-strategy.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — the observable-performance component; modeling adds the reasoning narration

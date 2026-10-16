@@ -60,6 +60,9 @@ The review states that Chicago schools receive setting-level indicator data from
 
 ## Discussion
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](schools-strong-three-plus-supports-ten-times-more-likely-improve.md) — the general claim this finding bears on, with the studies behind it

@@ -94,6 +94,10 @@ A systematic review of experimental and quasi-experimental studies of universal 
 
 **Open questions.** Effects for adolescents appear weaker than for elementary students in much of the literature, and long-term maintenance of skill gains after program end is under-studied. Cultural fit and linguistic accessibility of curricula are also open design questions; see [Accessible vocabulary and syntax](../principles/accessible-vocabulary-syntax.md) for the broader accessibility concern.
 
+## Learner Variables
+- [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Belonging interventions improve outcomes](belonging-interventions-improve-outcomes.md) — social-emotional context and belonging jointly shape engagement and achievement
@@ -121,3 +125,4 @@ A systematic review of experimental and quasi-experimental studies of universal 
 - [SEL programs reduce disruptive behavior problems and emotional distress and foster prosocial behavior](sel-programs-reduce-behavior-problems-distress.md) — related
 - [Programs focusing on students' social-emotional development contribute most to classroom management intervention effectiveness, especially on social-emotional outcomes](social-emotional-focus-largest-contribution.md) — related
 - [Non-cognitive-behavioral counseling, social work, and other therapeutic interventions show consistently negative effects, whereas self-control or social competency promotion instruction using cognitive-behavioral and behavioral instructional methods shows consistently positive effects](cognitive-behavioral-prevention-positive-therapeutic-negative.md) — related
+- [Student and teacher social validation feedback supported the strategy, with students reporting improved social lives, class engagement, and goal completion](social-validation-feedback-positive-problem-solving.md) — related

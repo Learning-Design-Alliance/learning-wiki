@@ -60,6 +60,9 @@ Behavior data tracked as office discipline referrals for grades 6–8 from five 
 
 ## Discussion
 
+## Learner Variables
+- [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Most students identified as significantly below benchmark on early literacy screeners remain significantly below benchmark 1 and 2 years later](significantly-below-benchmark-persists-across-years.md) — the general claim this finding bears on, with the studies behind it

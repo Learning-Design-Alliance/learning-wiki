@@ -36,7 +36,7 @@ The report recommends that the Department of Research and Evaluation be "organiz
 - Improved instruction and student performance through informed, research- and information-based decision-making
 
 ### Claims
-- [Cps Lacks Capacity To Use Data For Improvement](../claims/cps-lacks-capacity-to-use-data-for-improvement.md) [+M]
+- [Cps Lacks Capacity To Use Data For Improvement](../claims/cps-lacks-capacity-to-use-data-for-improvement.md) [+W]
 
 ## Related Theories
 

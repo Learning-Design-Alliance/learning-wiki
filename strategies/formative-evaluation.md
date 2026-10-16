@@ -19,7 +19,7 @@ Formative evaluation is the systematic collection of evidence about learner unde
 
 ## Design Implications
 
-Formative evaluation is among the highest-yield interventions in education; reviews of classroom formative practice report substantial achievement gains when feedback is acted upon rather than merely delivered [Formative assessment practices improve achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S]. The critical mechanism is not the measurement itself but the instructional response — feedback must indicate how to close the gap between current and target performance [Feedback improves learning when it answers where am I going, how am I doing, and where to next.](../claims/feedback-answers-three-questions-improves-learning.md) [+S].
+Formative evaluation is among the highest-yield interventions in education; reviews of classroom formative practice report substantial achievement gains when feedback is acted upon rather than merely delivered [Formative assessment practices improve achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S]. The critical mechanism is not the measurement itself but the instructional response — feedback must indicate how to close the gap between current and target performance [Feedback improves learning when it answers where am I going, how am I doing, and where to next.](../claims/feedback-answers-three-questions-improves-learning.md) [+M].
 
 ### Context
 #### Requirements

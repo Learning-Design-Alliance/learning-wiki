@@ -42,6 +42,9 @@ In the thematic analysis of interviews (§5.1.3), participants valued suggestion
 ## Discussion
 
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The agentic cursor evoked feelings of surveillance, judgment and eeriness, and its anticipation effects distracted writers](agentic-cursor-evokes-surveillance-and-eeriness.md) — related
 - [Synchronous collaboration with an artificial agent amplifies contextual misalignment because the agent only sees ongoing output, not the writer's planning process](synchronous-ai-contextual-misalignment.md) — related

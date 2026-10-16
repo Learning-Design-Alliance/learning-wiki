@@ -61,5 +61,8 @@ The review reports a literature review identifying only two studies, both survey
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [There is no evidence that arming school staff improves school safety, and one study found an armed guard present was associated with more deaths in school shootings](arming-staff-no-evidence-of-safety-benefit.md) — related

@@ -31,7 +31,7 @@ Problem solving is the element in which learners identify, analyze, and respond 
 - A debrief or [Self-Explanation](self-explanation.md) prompt that helps learners abstract the underlying principle from their solution path
 #### Constraints
 - **Ill-structured problems may require stronger scaffolding for novices**
-- Pure discovery with minimal guidance is less effective than guided problem solving, especially for novices [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [-S] — unguided search overloads working memory and can reinforce errors
+- Pure discovery with minimal guidance is less effective than guided problem solving, especially for novices [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [-M] — unguided search overloads working memory and can reinforce errors
 - Ill-structured problems without success criteria leave learners unable to evaluate their own solutions; provide rubrics or exemplars
 - High-difficulty problems can demotivate learners who lack self-efficacy; scaffold early success before increasing challenge
 - Experts gain little from structured problems and may benefit more from open or novel variants [Guidance that helps novices can hinder experts.](../claims/expertise-reversal-effect.md) [~M]
@@ -112,7 +112,7 @@ Well-designed problem-solving tasks sit at the right point on the guidance spect
 - A debrief or [Self-Explanation](self-explanation.md) prompt that helps learners abstract the underlying principle from their solution path
 
 #### Constraints
-- Pure discovery with minimal guidance is less effective than guided problem solving, especially for novices [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [-S] — unguided search overloads working memory and can reinforce errors
+- Pure discovery with minimal guidance is less effective than guided problem solving, especially for novices [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [-M] — unguided search overloads working memory and can reinforce errors
 - Ill-structured problems without success criteria leave learners unable to evaluate their own solutions; provide rubrics or exemplars
 - High-difficulty problems can demotivate learners who lack self-efficacy; scaffold early success before increasing challenge
 - Experts gain little from structured problems and may benefit more from open or novel variants [Guidance that helps novices can hinder experts.](../claims/expertise-reversal-effect.md) [~M]

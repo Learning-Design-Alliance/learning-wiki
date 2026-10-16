@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: learning-policy-institute-turnaround-for-children-2021
-    resource: "https://creativecommons.org/licenses/by-nc/4.0/"
-    title: "Learning Policy Institute & Turnaround for Children. (2021). Design principles for schools: Putting the science of learning and development into action. https://creativecommons.org/licenses/by-nc/4.0/"
+    resource: "https://learningpolicyinstitute.org/product/sold-design-principles-report"
+    title: "Learning Policy Institute & Turnaround for Children. (2021). Design principles for schools: Putting the science of learning and development into action. https://learningpolicyinstitute.org/product/sold-design-principles-report"
     author: "Learning Policy Institute & Turnaround for Children"
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Learning Policy Institute & Turnaround for Children 2021
 
-Learning Policy Institute & Turnaround for Children. (2021). Design principles for schools: Putting the science of learning and development into action. https://creativecommons.org/licenses/by-nc/4.0/
+Learning Policy Institute & Turnaround for Children. (2021). Design principles for schools: Putting the science of learning and development into action. https://learningpolicyinstitute.org/product/sold-design-principles-report
 
 `q2 · i?` · `review · r2`
 
@@ -44,6 +44,9 @@ Narrative synthesis in the "Environments Filled With Safety and Belonging" scien
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — predictor: learners who differ on it differ in outcomes
 - [Academic Anxiety](../learner-variables/academic-anxiety.md) — predictor: learners who differ on it differ in outcomes
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — predictor: learners who differ on it differ in outcomes
+- [Adverse Experiences](../learner-variables/adverse-experiences.md) — predictor: learners who differ on it differ in outcomes
+- [Stereotype Threat](../learner-variables/stereotype-threat.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 

@@ -44,6 +44,7 @@ WWC calculations across the Uchikoshi randomized controlled trial's three outcom
 
 ## Learner Variables
 - [English-Learner Status](../learner-variables/english-learner-status.md) — outcome: instruction changes it
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Peer Tutoring and Response Groups has positive effects on English language development for English language learners, with an average improvement index of +17 percentile points](peer-tutoring-response-groups-positive-eld-effects.md) — related

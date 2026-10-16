@@ -321,7 +321,7 @@ The workbook instructs planners to run a trial of the plan on a small sample of 
 - apply managerial and evaluation techniques for implementing a staff development plan
 
 ### Claims
-- [Sequential Field Testing Go No Go](../claims/sequential-field-testing-go-no-go.md) [+M]
+- [Sequential Field Testing Go No Go](../claims/sequential-field-testing-go-no-go.md) [+W]
 
 ## Related Principles
 - 

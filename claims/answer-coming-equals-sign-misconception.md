@@ -42,6 +42,10 @@ The brief describes this documented misconception, citing Carpenter et al. (2003
 ## Discussion
 
 
+## Learner Variables
+- [Algebraic Thinking](../learner-variables/algebraic-thinking.md) — predictor: learners who differ on it differ in outcomes
+- [Operations and Place Value](../learner-variables/operations-and-place-value.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [After an early algebra intervention, the number of kindergarteners giving a relational definition of the equal sign went from one to nine, and acceptance of non-standard equation forms rose, as reported from the authors' earlier study](kindergarten-early-algebra-intervention-shifts-equal-sign-understanding.md) — related
 - Reliance on trial-and-error or substitution for one-step equations undermines later learning of multi-step equations where those methods become infeasible — a broader claim this one bears on

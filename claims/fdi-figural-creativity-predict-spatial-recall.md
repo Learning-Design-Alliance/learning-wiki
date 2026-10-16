@@ -43,6 +43,9 @@ Forward stepwise multiple regression on the high school sample (n=64) entered Fi
 ## Discussion
 
 
+## Learner Variables
+- [Creativity](../learner-variables/creativity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - Verbal ability predicts spatial recall only for the less verbal, more heterogeneous high school sample, not for college students — related
 - [Field-independent subjects more accurately reconstruct spatial arrays than field-dependent subjects](field-independent-better-map-feature-placement.md) — related

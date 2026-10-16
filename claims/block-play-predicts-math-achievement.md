@@ -73,6 +73,9 @@ An intact group of 37 four-year-olds at a play-oriented preschool was rated on b
 
 **Design implications.** For early-childhood settings, the practical guidance is low-cost and low-risk: provide ample block materials and open construction time, then layer in structured challenges (copy a model, build a bridge to span a gap, replicate a symmetrical structure) with adult talk that surfaces spatial language — "above," "between," "rotate," "symmetrical." Spatial language during construction is a plausible mechanism for strengthening the block-play-to-math pathway, though its independent contribution has not been isolated. Because the causal base is thin, block play should complement, not replace, explicit mathematics instruction.
 
+## Learner Variables
+- [Home Learning Environment](../learner-variables/home-learning-environment.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Spatial training improves mathematics performance](spatial-training-improves-math-performance.md) — spatial skill is the proposed mediator between block play and math achievement

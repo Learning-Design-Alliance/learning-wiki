@@ -13,14 +13,14 @@ generated:
 # Audience Analysis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (10 for, 4 mixed) · 22 studies (6 causal, 5 associational, 5 theoretical, 3 review, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 2 of 22 report an effect size · 9 claims rest on one study
+> **Evidence** · 14 claims (10 for, 4 mixed) · 20 studies (5 associational, 5 theoretical, 4 causal, 3 review, 2 quant-synthesis, 1 qualitative), `q1`–`q4` · 2 of 20 report an effect size · 10 claims rest on one study
 
 ## Description
 Audience analysis (often called learner analysis) is the systematic investigation of who the learners are — their prior knowledge, skills, motivations, language proficiency, demographics, and learning context — conducted before designing instruction. It functions as the evidence base for decisions about sequencing, vocabulary, examples, pacing, and support, replacing designer assumptions with data about the actual audience.
 
 ## Design Implications
 
-Audience analysis improves learning primarily by aligning instruction with learners' prior knowledge: what learners already know is the strongest single predictor of how much they benefit from a given treatment [Activation of prior knowledge improves learning outcomes.](../claims/activation-improves-learning.md) [+M]. It also prevents two opposite failure modes — instruction pitched above the audience, which overloads working memory [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S], and instruction pitched below it, which wastes time and disengages. Analysis should cover cognitive characteristics (prior knowledge, misconceptions), affective characteristics (motivation, anxiety, perceived belonging), and contextual constraints (time, technology, language).
+Audience analysis improves learning primarily by aligning instruction with learners' prior knowledge: what learners already know is the strongest single predictor of how much they benefit from a given treatment [Prior knowledge determines new learning](../claims/prior-knowledge-determines-new-learning.md) [+M]. It also prevents two opposite failure modes — instruction pitched above the audience, which overloads working memory [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S], and instruction pitched below it, which wastes time and disengages. Analysis should cover cognitive characteristics (prior knowledge, misconceptions), affective characteristics (motivation, anxiety, perceived belonging), and contextual constraints (time, technology, language).
 
 ### Context
 #### Requirements
@@ -36,7 +36,7 @@ Audience analysis improves learning primarily by aligning instruction with learn
 - In large-scale or open courses (MOOCs), the audience is heterogeneous and unknowable in advance; a single analysis cannot serve all learners [~S]
 
 ### Target Learners
-- Novices, whose learning depends heavily on how well instruction activates and builds on what they already know [Activation of prior knowledge improves learning outcomes.](../claims/activation-improves-learning.md) [+M]
+- Novices, whose learning depends heavily on how well instruction activates and builds on what they already know [Prior knowledge determines new learning](../claims/prior-knowledge-determines-new-learning.md) [+M]
 - Learners with limited proficiency in the language of instruction, for whom vocabulary and syntax decisions are decisive
 - Less critical for expert audiences, who adapt flexibly to mismatched instruction — though the [expertise reversal effect](../theories/expertise-reversal-effect.md) means misaligned support can still actively harm experts [~M]
 

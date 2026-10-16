@@ -42,6 +42,7 @@ Descriptive webcam gaze analysis (WebGazer.js) of 19 undergraduates' dwell time 
 
 ## Learner Variables
 - [Attention](../learner-variables/attention.md) — outcome: instruction changes it
+- [Visual Processing](../learner-variables/visual-processing.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Students without prior programming experience anchor more heavily in code and engage minimally with metaphor views compared to students with prior experience](prior-experience-shapes-view-engagement.md) — related

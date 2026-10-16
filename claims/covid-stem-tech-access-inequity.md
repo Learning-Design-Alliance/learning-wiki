@@ -88,3 +88,4 @@ Same national student survey (n = 1,008, weighted sample 23% Hispanic, 15% Black
 - [Individual internet penetration in rural Bangladesh (36.5%) is about half the urban rate (71.4%), which one case-study preprint argues puts cloud-dependent AI tools out of reach for rural learners](rural-urban-connectivity-exclusion-bangladesh.md) — related
 - [Global inclusion gaps persist despite large EdTech investment](inclusion-gap-persists-despite-edtech-investment.md) — related
 - [San Diego regional data show STEM access and pay remain inequitable by race, socioeconomic status, and gender](san-diego-stem-access-inequities.md) — related
+- [Children with poorer parents suffer more, and children of high school educated parents experience the largest welfare losses](ses-heterogeneity-welfare-losses-closures.md) — related

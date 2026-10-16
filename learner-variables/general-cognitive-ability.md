@@ -12,10 +12,16 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 42 claims (23 show a difference, 11 mixed, 8 no difference) · 35 studies (14 causal, 6 quant-synthesis, 6 review, 6 associational, 3 theoretical), `q1`–`q4` · 9 of 35 report an effect size · 39 claims rest on one study
+> **Evidence** · 44 claims (23 show a difference, 11 mixed, 8 no difference, 2 unmarked) · 36 studies (14 causal, 7 review, 6 quant-synthesis, 6 associational, 3 theoretical), `q1`–`q4` · 10 of 36 report an effect size · 41 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
+
+## How strongly it relates to achievement
+
+**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
+
+- General intelligence **r = .49** (k = 100), fluid intelligence **.41** (k = 1,129), a PASS composite **.62**; the fluid-intelligence correlation is larger in older samples. [Claim](../claims/intelligence-correlates-strongly-with-math-achievement.md)
 
 ## Implications
 
@@ -50,7 +56,7 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [High course structure significantly reduces failure rates in introductory biology independent of student ability, while moderate structure has a marginal effect](../claims/high-structure-reduces-failure-intro-biology.md) [-M] — an instructional effect differs with it
 - [High L2 achievers in immersion programs show IQ gains, consistent with a higher threshold of bilingual competence](../claims/high-l2-achievers-show-iq-gains-in-immersion.md) [+M] — instruction changes it
 - [High-ability students' learning behaves as a dominant α-process even at low pretest scores, while average-ability students show more γ-process behavior](../claims/high-ability-alpha-dominant-low-pretest.md) [+M] — an instructional effect differs with it
-- [In one Chicago study, above-norm students' post-policy algebra test gains were partly explained by higher peer ability and by having classmates who took support algebra](../claims/above-norm-score-gains-peer-ability-spillover.md) [+S] — learners who differ on it differ in outcomes
+- [In one Chicago study, above-norm students' post-policy algebra test gains were partly explained by higher peer ability and by having classmates who took support algebra](../claims/above-norm-score-gains-peer-ability-spillover.md) [+M] — learners who differ on it differ in outcomes
 - [In the Bramlett quasi-experiment, no comprehension subtest or ability-level subgroup showed a statistically significant CIRC effect after WWC adjustments](../claims/circ-qed-subgroups-null.md) [-W] — an instructional effect differs with it
 - [In the few studies that split by ability, learning techniques helped low-ability students and not high-ability students](../claims/learning-techniques-benefit-low-ability-not-high-ability-students.md) [~M] — an instructional effect differs with it
 - [Long-term outcomes showed few benefits: slight increases in upper-level math credits for low-ability students but slightly lower final GPAs and reduced 4-year college enrollment for others](../claims/long-term-outcomes-few-benefits.md) [~W] — an instructional effect differs with it

@@ -37,7 +37,7 @@ The article analyzes and synthesizes Krashen's SLA Theory, Larsen-Freeman's Comp
 
 ### Claims
 
-- [Grammar Not Focus Of Sla Synthesis](../claims/grammar-not-focus-of-sla-synthesis.md) [+M]
+- [Grammar Not Focus Of Sla Synthesis](../claims/grammar-not-focus-of-sla-synthesis.md) [+W]
 - [Meaningful L2 learning is achieved through a conducive environment and authentic tasks and materials](../claims/authentic-tasks-meaningful-l2-learning.md) [+W]
 - [Fluency can have a high effect on accuracy, whereas accuracy will not lead to fluency](../claims/fluency-precedes-accuracy-oral-l2.md) [+W]
 - [Learner-centeredness is a universal theme across SLA theories and language teaching methods](../claims/learner-centeredness-universal-theme-sla.md) [+W]

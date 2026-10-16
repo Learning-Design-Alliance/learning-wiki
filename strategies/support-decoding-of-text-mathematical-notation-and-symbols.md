@@ -20,7 +20,7 @@ This strategy ensures that the surface code of instruction — printed words, ma
 
 ## Design Implications
 
-Decoding is a prerequisite skill: until word or symbol recognition is automatic, learners spend limited working-memory resources on transcription rather than comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. This is the core rationale from [Cognitive Load Theory](../theories/cognitive-load-theory.md): every unit of effort spent parsing notation is unavailable for reasoning [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. The design goal is therefore twofold — build automaticity where decoding is itself a goal (e.g., early reading), and offload or simplify decoding where it is not (e.g., a physics student struggling with notation rather than Newtonian concepts).
+Decoding is a prerequisite skill: until word or symbol recognition is automatic, learners spend limited working-memory resources on transcription rather than comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. This is the core rationale from [Cognitive Load Theory](../theories/cognitive-load-theory.md): every unit of effort spent parsing notation is unavailable for reasoning [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. The design goal is therefore twofold — build automaticity where decoding is itself a goal (e.g., early reading), and offload or simplify decoding where it is not (e.g., a physics student struggling with notation rather than Newtonian concepts).
 
 ### Context
 #### Requirements
@@ -51,7 +51,7 @@ Decoding is a prerequisite skill: until word or symbol recognition is automatic,
 - **Digital environments:** hover definitions, toggleable notation layers, adjustable reading level
 
 ### Target Learners
-- Beginning readers and learners with dyslexia or other decoding disabilities, for whom automaticity support is essential [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Beginning readers and learners with dyslexia or other decoding disabilities, for whom automaticity support is essential [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Novices in symbol-heavy domains (algebra, chemistry, music, programming) who must learn notation conventions alongside concepts
 - Multilingual learners managing new vocabulary simultaneously with new content
 - Less beneficial for fluent readers and domain experts, for whom decoding supports add redundancy [Guidance becomes less effective as learner expertise increases.](../claims/expertise-reversal-effect.md) [~M]
@@ -117,7 +117,7 @@ This strategy reduces the decoding burden of written text, mathematical notation
 
 ## Design Implications
 
-Decoding is a resource-consuming process: until word recognition and symbol interpretation are automatic, comprehension of the deeper content is degraded because working memory is occupied by surface parsing [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. The same logic applies to mathematical and scientific notation — unfamiliar symbols act as high-load surface features that can mask the conceptual structure a lesson intends to teach [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. The design goal is therefore to make decoding either automatic (through instruction and practice) or unnecessary (through accessible representations), while keeping the learning goal visible.
+Decoding is a resource-consuming process: until word recognition and symbol interpretation are automatic, comprehension of the deeper content is degraded because working memory is occupied by surface parsing [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. The same logic applies to mathematical and scientific notation — unfamiliar symbols act as high-load surface features that can mask the conceptual structure a lesson intends to teach [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. The design goal is therefore to make decoding either automatic (through instruction and practice) or unnecessary (through accessible representations), while keeping the learning goal visible.
 
 ### Context
 #### Requirements
@@ -138,7 +138,7 @@ Decoding is a resource-consuming process: until word recognition and symbol inte
 - **Digital environments:** hover definitions, toggleable notation layers, adjustable reading level
 
 ### Target Learners
-- Early readers and learners with decoding difficulties (e.g., dyslexia), for whom reduced decoding load measurably improves comprehension of grade-level content [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Early readers and learners with decoding difficulties (e.g., dyslexia), for whom reduced decoding load measurably improves comprehension of grade-level content [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Novices in notation-heavy domains (algebra, chemistry, statistics), who otherwise conflate symbol manipulation with understanding
 - Multilingual learners, who may know the concept but not the English label; supports should connect to [Prior knowledge activation](../principles/activation.md) in the first language where possible
 - Less needed for fluent readers and symbol-fluent learners, where heavy decoding scaffolds add redundancy and can reduce engagement

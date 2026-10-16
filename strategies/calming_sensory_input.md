@@ -38,7 +38,7 @@ Sensory regulation supports learning indirectly: by lowering anxiety and arousal
 #### Implementation Variability
 - Whole-class access (a calm corner or sensory shelf) vs. individualized tool kits specified in an [Accommodations](../elements/accommodations.md) plan
 - Scheduled sensory breaks vs. on-demand access chosen by the learner
-- Passive input (weighted lap pad during seatwork) vs. active input (brief movement or tactile break between tasks) — active breaks have stronger attention evidence [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]
+- Passive input (weighted lap pad during seatwork) vs. active input (brief movement or tactile break between tasks) — active breaks have stronger attention evidence [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
 
 ### Target Learners
 - Learners with sensory sensitivities, autism, ADHD, or anxiety who show elevated arousal that interferes with participation [~M]

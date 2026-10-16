@@ -41,6 +41,8 @@ Miciak et al. (2018) randomly assigned 484 fourth graders to one year (n=161), t
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
+- [Reading Fluency](../learner-variables/reading-fluency.md) — outcome: instruction changes it
 
 ## Related Claims
 

@@ -39,7 +39,7 @@ The article proposes a data-driven item-deletion procedure: identify candidate i
 
 ### Claims
 - [K0 Intersection Item Deletion Criterion](../claims/k0-intersection-item-deletion-criterion.md) [+M]
-- [Point Biserial Negative Test Discrimination Relation](../claims/point-biserial-negative-test-discrimination-relation.md) [+M]
+- [Point Biserial Negative Test Discrimination Relation](../claims/point-biserial-negative-test-discrimination-relation.md) [+W]
 
 ## Related Principles
 - 

@@ -31,7 +31,7 @@ sources:
 The TPRI is an individually administered screening and diagnostic inventory of early reading development, used in kindergarten through grade 3. It consists of a brief Screening section identifying students at risk, followed by an Inventory section that assesses specific domains — phonological awareness, graphophonemic knowledge, word reading, fluency, and comprehension — so instruction can be targeted to each child's profile. Teachers administer it at the beginning, middle, and end of the year, using results to group students and select interventions.
 
 ## Design Implications
-The TPRI operationalizes [Assessment for Learning](../principles/assessment-for-learning.md): its purpose is not grading but locating each learner on a developmental trajectory so instruction can be adjusted. Early screening matters because reading difficulties compound — students who fall behind in phonemic awareness and decoding tend to fall further behind without targeted intervention [Early identification and intensive intervention prevent entrenched reading failure.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Diagnostic profiles are actionable only when teachers translate them into differentiated instruction; assessment data without instructional follow-through yields little benefit [Foorman & Moats, 2004](https://doi.org/10.1177/07419325040250050401) [~M].
+The TPRI operationalizes [Assessment for Learning](../principles/assessment-for-learning.md): its purpose is not grading but locating each learner on a developmental trajectory so instruction can be adjusted. Early screening matters because reading difficulties compound — students who fall behind in phonemic awareness and decoding tend to fall further behind without targeted intervention [Early identification and intensive intervention prevent entrenched reading failure.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Diagnostic profiles are actionable only when teachers translate them into differentiated instruction; assessment data without instructional follow-through yields little benefit [Foorman & Moats, 2004](https://doi.org/10.1177/07419325040250050401) [~M].
 
 ### Context
 #### Requirements
@@ -51,13 +51,13 @@ The TPRI operationalizes [Assessment for Learning](../principles/assessment-for-
 - Paper-and-pencil administration versus the TPRI's electronic support tools for scoring and data management
 
 ### Target Learners
-- Kindergarten through grade 3 students, particularly those at risk of reading difficulty [Early identification and intensive intervention prevent entrenched reading failure.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Kindergarten through grade 3 students, particularly those at risk of reading difficulty [Early identification and intensive intervention prevent entrenched reading failure.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Struggling readers whose profile of strengths and weaknesses can guide remediation; responsiveness to early intervention distinguishes readily remediated from difficult-to-remediate poor readers [Vellutino et al., 1996](https://doi.org/10.1037/0022-0663.88.4.601) [+S]
 - Less informative for fluent readers beyond grade-level benchmarks, for whom the inventory adds little beyond confirming mastery
 
 ### Target Learning Goals
 - Phonological and phonemic awareness
-- Decoding and word recognition ([Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S])
+- Decoding and word recognition ([Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M])
 - Reading fluency and listening/reading comprehension
 
 ### Instructions

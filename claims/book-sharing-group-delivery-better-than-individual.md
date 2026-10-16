@@ -42,6 +42,9 @@ Subgroup meta-regression restricted to face-to-face interventions (video- and ph
 ## Discussion
 
 
+## Learner Variables
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Child age, caregiver education and country income level do not moderate book-sharing intervention effects on child language](book-sharing-effects-invariant-age-education-income.md) — related
 - [Improvements in caregiver book-sharing behaviour mediate the intervention's impact on child language (one mediation analysis)](caregiver-book-sharing-competence-mediation.md) — related

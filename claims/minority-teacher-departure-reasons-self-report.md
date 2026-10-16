@@ -66,3 +66,4 @@ Same TFS self-report data (Figure 5): dissatisfaction and job/career pursuits to
 - [Dissatisfaction is the most-cited reason for leaving, cited by 55% of profession-leavers and 66% of school-movers](dissatisfaction-top-reason-for-turnover.md) — a broader claim this one bears on
 - [Working conditions, especially accountability pressures and administrative support, shape teachers' decisions to leave or stay](working-conditions-drive-teacher-exit-decisions.md) — related
 - Louisiana teachers of color report working conditions, not salary, as primary reasons for leaving high-need schools — related
+- [Retirement accounts for only a small portion of total teacher turnover](retirement-small-portion-of-teacher-turnover.md) — related

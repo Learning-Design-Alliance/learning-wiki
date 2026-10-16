@@ -38,7 +38,7 @@ Students as Researchers is presented as a radical alternative to conventional st
 - democratic agency in education
 
 ### Claims
-- [Student Consultation Embeds Unwitting Manipulation](../claims/student-consultation-embeds-unwitting-manipulation.md) [+M]
+- [Student Consultation Embeds Unwitting Manipulation](../claims/student-consultation-embeds-unwitting-manipulation.md) [+W]
 
 ## Related Designs
 - 

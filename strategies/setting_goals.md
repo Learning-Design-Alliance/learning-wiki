@@ -18,7 +18,7 @@ generated:
 Lessons have clear learning intentions with goals that clarify what success looks like. Lesson goals always explain what students need to understand and what they must be able to do. Clear goals help the teacher plan learning activities and help students understand what is required, providing a reference point against which progress can be monitored and [Assessment](../elements/assessment.md) interpreted.
 
 ## Design Implications
-Goal-setting theory shows that specific, challenging goals reliably produce higher performance than vague "do your best" goals [Specific, difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]. For novices, however, the *type* of goal matters: goals framed around learning processes and strategies outperform outcome-framed goals, which can depress performance and increase anxiety when learners lack the skills to reach the outcome [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]. Goals also serve a self-regulatory function — learners who know the target can self-monitor and adjust, which is a core mechanism of [Self-Regulated Learning](../theories/self-regulated-learning.md).
+Goal-setting theory shows that specific, challenging goals reliably produce higher performance than vague "do your best" goals [Specific, difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M]. For novices, however, the *type* of goal matters: goals framed around learning processes and strategies outperform outcome-framed goals, which can depress performance and increase anxiety when learners lack the skills to reach the outcome [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]. Goals also serve a self-regulatory function — learners who know the target can self-monitor and adjust, which is a core mechanism of [Self-Regulated Learning](../theories/self-regulated-learning.md).
 
 ### Context
 #### Requirements
@@ -45,7 +45,7 @@ Goal-setting theory shows that specific, challenging goals reliably produce high
 ### Target Learning Goals
 - Clarifying learning intentions and success criteria for students
 - Supporting metacognition: goals are the standard against which self-assessment and [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) operate
-- Motivation and persistence: specific goals sustain effort on difficult tasks [Specific, difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]
+- Motivation and persistence: specific goals sustain effort on difficult tasks [Specific, difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M]
 
 ### Instructions
 1. Define the learning intention in terms of what students will understand or be able to do — not what activity they will complete

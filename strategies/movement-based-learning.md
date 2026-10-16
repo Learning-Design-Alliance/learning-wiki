@@ -19,7 +19,7 @@ Movement based learning embeds physical activity into instruction so that learne
 
 ## Design Implications
 
-Movement supports learning through two complementary routes: embodied encoding, where gesture and action create additional motoric memory traces that enrich retrieval [~M], and transient physiological arousal, where acute exercise before or shortly after encoding improves subsequent memory [Acute exercise timed near encoding improves memory performance.](../claims/acute-exercise-timing-memory.md) [+M]. Classroom physical activity also improves on-task attention, which indirectly supports learning [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]. The movement must be meaningfully connected to the content; arbitrary movement that competes for attention can impair encoding [~M].
+Movement supports learning through two complementary routes: embodied encoding, where gesture and action create additional motoric memory traces that enrich retrieval [~M], and transient physiological arousal, where acute exercise before or shortly after encoding improves subsequent memory [Acute exercise timed near encoding improves memory performance.](../claims/acute-exercise-timing-memory.md) [+M]. Classroom physical activity also improves on-task attention, which indirectly supports learning [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]. The movement must be meaningfully connected to the content; arbitrary movement that competes for attention can impair encoding [~M].
 
 ### Context
 #### Requirements
@@ -40,7 +40,7 @@ Movement supports learning through two complementary routes: embodied encoding, 
 - **Movement-based response**: learners answer by moving (walking to corners, holding up body positions), combining formative assessment with action
 
 ### Target Learners
-- Elementary and middle school learners, who show the largest attention gains from classroom activity breaks [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]
+- Elementary and middle school learners, who show the largest attention gains from classroom activity breaks [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
 - Learners who struggle with purely verbal or symbolic representation, including many English learners
 - Less necessary for learners who already encode the content efficiently through abstract symbols [~W]
 

@@ -37,7 +37,7 @@ OUSD delivers college courses on high school campuses during the school day, tau
 - Engagement with college-level instruction and development of student agency and confidence
 
 ### Claims
-- [Students Identify Point Person Main Support](../claims/students-identify-point-person-main-support.md) [+M]
+- [Students Identify Point Person Main Support](../claims/students-identify-point-person-main-support.md) [+W]
 
 ## Related Designs
 - 

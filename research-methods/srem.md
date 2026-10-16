@@ -63,7 +63,7 @@ The article develops a shared random effects model (SREM) to estimate English pr
 
 ### Claims
 
-- [Srem Outperforms Discrete Time Hazard Accuracy](../claims/srem-outperforms-discrete-time-hazard-accuracy.md) [+S]
+- [Srem Outperforms Discrete Time Hazard Accuracy](../claims/srem-outperforms-discrete-time-hazard-accuracy.md) [+M]
 - [Information about English-language development is critical for accurately predicting the grade an EL will reclassify](../claims/english-development-information-critical-reclassification-prediction.md) [+W]
 
 ## Related Theories

@@ -12,7 +12,7 @@ sources:
   - id: lampit-a-2014
     title: Lampit A 2014
     q: 4
-    i: "?"
+    i: 0
     kind: quant-synthesis
     rigour: 3
 ---
@@ -20,10 +20,10 @@ sources:
 # CCT shows no significant effects on executive functions or attention in healthy older adults
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i0` negligible
 
 ## Subclaims
-`q4 i?` Executive functions (g = 0.09, p = 0.096) and attention (g = 0.24, p = 0.06) showed non-significant effects despite adequately powered analyses. [→ Lampit A 2014](#lampit-a-2014)
+`q4 i0` Executive functions (g = 0.09, p = 0.096) and attention (g = 0.24, p = 0.06) showed non-significant effects despite adequately powered analyses. [→ Lampit A 2014](#lampit-a-2014)
 
 ## Evidence
 
@@ -31,7 +31,7 @@ sources:
 
 Lampit A, Hallock H, Valenzuela M (2014) Computerized Cognitive Training in Cognitively Healthy Older Adults: A Systematic Review and Meta-Analysis of Effect Modifiers. PLoS Med 11(11): e1001756. https://doi.org/10.1371/journal.pmed.1001756
 
-`q4 · i?` · `quant-synthesis · r3`
+`q4 · i0` · `quant-synthesis · r3`
 
 Random-effects meta-analysis of 29 studies reporting executive function outcomes found a negligible, statistically non-significant effect. Attention (11 studies) was also non-significant (g = 0.24, 95% CI 20.01 to 0.50, p = 0.06). No effect sizes indicate meaningful benefit.
 

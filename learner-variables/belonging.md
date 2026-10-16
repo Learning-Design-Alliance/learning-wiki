@@ -12,7 +12,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 57 claims (49 show a difference, 7 mixed, 1 no difference) · 50 studies (14 review, 11 qualitative, 10 causal, 5 associational, 5 design, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 1 of 50 report an effect size · 53 claims rest on one study
+> **Evidence** · 56 claims (48 show a difference, 7 mixed, 1 no difference) · 50 studies (14 review, 11 qualitative, 10 causal, 5 associational, 5 design, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 1 of 50 report an effect size · 51 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -55,7 +55,7 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](../claims/stronger-belonging-linked-engagement-achievement.md) [+W] — learners who differ on it differ in outcomes
 - [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](../claims/sel-skills-plus-academics-full-potential.md) [+W] — learners who differ on it differ in outcomes
 - [Students' sense of belonging predicts their contributions to classroom knowledge building at both student and teacher levels](../claims/belonging-predicts-knowledge-building-contributions.md) [+M] — learners who differ on it differ in outcomes
-- [Teacher support is one of the strongest predictors of student belonging](../claims/teacher-support-predicts-student-belonging.md) [+M] — instruction changes it
+- [Teacher support is one of the strongest predictors of student belonging](../claims/teacher-support-strongest-predictor-school-belonging.md) [+M] — instruction changes it
 - [The percentage of secondary students reporting high school connectedness on the CHKS increased from 32 percent to 36 percent](../claims/cal-well-dnusd-student-school-connectedness-increase.md) [+W] — instruction changes it
 - [Virtual and in-person parent-to-parent forums deepened caregivers' sense of community and support](../claims/parent-to-parent-forums-community-support.md) [+W] — instruction changes it
 - [YOUmedia cultivates a sense of community among participating teens that drives engagement with digital media](../claims/youmedia-sense-of-community-drives-digital-media-engagement.md) [+W] — instruction changes it
@@ -89,7 +89,6 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Individual-difference themes (academic motivation, emotional stability, gender, race and ethnicity) are associated with school belonging](../claims/individual-difference-themes-school-belonging.md) [+M] — instruction changes it
 - [Positive personal characteristics are among the strongest predictors of school belonging](../claims/personal-characteristics-strong-predictor-school-belonging.md) [+M] — instruction changes it
 - [Social support factors (parent, peer, teacher) are among the themes associated with adolescent school belonging](../claims/social-support-themes-school-belonging.md) [+M] — instruction changes it
-- [Teacher support is the strongest predictor of school belonging](../claims/teacher-support-strongest-predictor-school-belonging.md) [+M] — instruction changes it
 - [A belonging-enhancing intervention produced a smaller decline in sense of belonging over the first year than the control groups](../claims/belonging-intervention-smaller-decline.md) [+M] — instruction changes it
 - [Both sense of belonging and intentions to persist decline over the first academic year](../claims/belonging-and-persistence-intentions-decline-first-year.md) [+M] — instruction changes it
 - [First-year students' sense of belonging to their university predicts intentions to persist, controlling for background variables and other persistence predictors](../claims/sense-of-belonging-predicts-persistence-intentions.md) [+M] — learners who differ on it differ in outcomes

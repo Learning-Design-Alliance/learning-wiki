@@ -43,6 +43,6 @@ Task 3 behavioural forma mentis network analysis of semantic associations and va
 
 
 ## Related Claims
-- [AI-assistant mode inflates self-reported mathematics self-efficacy and suppresses reported anxiety](ai-assistant-mode-inflates-math-self-efficacy.md) — related
+- [LLMs simulating survey respondents under AI-assistant instructions report higher mathematics self-efficacy and lower anxiety than under human-shadow conditioning](ai-assistant-mode-inflates-math-self-efficacy.md) — related
 - [Censoring appears to affect negative-valence ratings of mathematics-related cues between model variants](censoring-affects-llm-math-valence-ratings.md) — related
 - [Priming human shadows as math lovers or haters shifts LLM emotional tone about mathematics](persona-priming-shifts-llm-math-sentiment.md) — related

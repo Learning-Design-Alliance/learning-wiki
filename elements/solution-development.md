@@ -10,7 +10,7 @@ generated:
   at: 2026-08-29
 sources:
   - id: hmelo-silver-2004
-    resource: "https://doi.org/10.1207/s15326985ep3901_3"
+    resource: "https://doi.org/10.1023/b:edpr.0000034022.16470.f3"
     title: "Hmelo-Silver, C. E. (2004). Problem-based learning: What and how do students learn? *Educational Psychology Review, 16*(3), 235–266"
     author: "Hmelo-Silver, C. E"
   - id: kirschner-2006
@@ -18,7 +18,7 @@ sources:
     title: "Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work. *Educational Psychologist, 41*(2), 75–86"
     author: "Kirschner, P. A., Sweller, J., & Clark, R. E"
   - id: kolodner-2003
-    resource: "https://doi.org/10.1007/s11251-003-3392-6"
+    resource: "https://doi.org/10.1207/s15327809jls1204_2"
     title: "Kolodner, J. L. et al. (2003). Problem-based learning meets case-based reasoning in the middle-school science classroom. *Journal of the Learning Sciences, 12*(4), 495–547"
     author: "Kolodner, J. L. et al"
 ---
@@ -26,14 +26,14 @@ sources:
 # Solution Development
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 15 studies (5 causal, 4 quant-synthesis, 3 theoretical, 2 review, 1 associational), `q2`–`q4` · 4 of 15 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 14 studies (4 causal, 4 quant-synthesis, 3 theoretical, 2 review, 1 associational), `q2`–`q4` · 4 of 14 report an effect size · 1 claim rests on one study
 
 ## Description
 Solution development asks learners to synthesize information from multiple sources into a proposed solution to an authentic problem, then test, evaluate, and revise that solution against evidence or feedback. It functions as the productive phase of problem-centered instruction — the point where analysis converts into a concrete, defensible artifact or decision.
 
 ## Design Implications
 
-Solution development strengthens analytical reasoning by requiring learners to integrate knowledge rather than recall it, and to justify choices against alternatives [Whole-task practice supports transfer better than isolated part practice.](../claims/whole-task-performance-improves-transfer.md) [+M]. Its effectiveness depends on structure: learners need access to relevant information, criteria for evaluating candidate solutions, and opportunities to test proposals and receive feedback. Requiring learners to explain and defend their proposed solution deepens the reasoning the activity is meant to build [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
+Solution development strengthens analytical reasoning by requiring learners to integrate knowledge rather than recall it, and to justify choices against alternatives [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+W]. Its effectiveness depends on structure: learners need access to relevant information, criteria for evaluating candidate solutions, and opportunities to test proposals and receive feedback. Requiring learners to explain and defend their proposed solution deepens the reasoning the activity is meant to build [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ### Context
 #### Requirements
@@ -43,7 +43,7 @@ Solution development strengthens analytical reasoning by requiring learners to i
 - A revision cycle — proposals should be tested and improved, not submitted once
 
 #### Constraints
-- Minimal guidance during solution development overloads novices and can leave them flailing [Minimal guidance is less effective for novices than structured instruction.](../claims/worked-examples-reduce-novice-search.md) [-S] — novices need scaffolds, worked examples, or [Coaching](coaching.md) alongside open-ended work
+- Minimal guidance during solution development overloads novices and can leave them flailing [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [-S] — novices need scaffolds, worked examples, or [Coaching](coaching.md) alongside open-ended work
 - Without clear evaluation criteria, learners may settle on the first plausible solution and stop reasoning
 - Time-intensive; poorly suited when curricular coverage demands leave no room for iteration
 - Group solution development can allow one member to do the synthesis while others coast
@@ -51,13 +51,13 @@ Solution development strengthens analytical reasoning by requiring learners to i
 ### Target Learners
 - Intermediate learners who have enough domain knowledge to evaluate alternatives but are still building integration skill [Case-based learning improves exam performance when learners have relevant prior knowledge.](../claims/case-based-learning-improves-exam-performance.md) [~M]
 - Students in STEM, business, and social sciences, where problems are ill-structured and solutions must be justified
-- Less appropriate for complete novices, who lack the schemas to judge candidate solutions [Minimal guidance is less effective for novices than structured instruction.](../claims/worked-examples-reduce-novice-search.md) [-S]
+- Less appropriate for complete novices, who lack the schemas to judge candidate solutions [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [-S]
 
 ### Target Learning Goals
 - Analytical reasoning: weighing evidence and trade-offs among alternatives
 - Problem-solving strategy: planning, testing, and revising an approach
 - Argumentation: justifying a proposed solution against criteria and counterarguments
-- Transfer: applying concepts to novel, authentic situations [Whole-task practice supports transfer better than isolated part practice.](../claims/whole-task-performance-improves-transfer.md) [+M]
+- Transfer: applying concepts to novel, authentic situations [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+W]
 
 ### Affordances
 - [Constructivism](../principles/cognitive-activation.md) — solution development enacts this principle by making learners generate and test their own knowledge structures rather than receive finished solutions

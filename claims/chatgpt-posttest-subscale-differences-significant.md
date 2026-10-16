@@ -42,5 +42,9 @@ MANCOVA results reported in Table 4 for the two-group comparison. The article re
 ## Discussion
 
 
+## Learner Variables
+- [Statistical Reasoning](../learner-variables/statistical-reasoning.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Eleventh-grade students with ChatGPT access scored significantly higher than traditionally taught controls on the electronic magnetism post-test, with large effect sizes](chatgpt-access-improved-electronic-magnetism-achievement.md) — possibly the same claim (merge candidate)
+- [ChatGPT-enhanced instruction improved Knowing, Applying and Reasoning sub-skills significantly, each with a large printed effect size](chatgpt-gains-knowing-applying-reasoning-subskills.md) — possibly the same claim (merge candidate)

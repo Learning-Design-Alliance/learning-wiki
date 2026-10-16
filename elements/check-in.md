@@ -13,14 +13,14 @@ generated:
 # Check In
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 16 studies (6 quant-synthesis, 3 review, 2 causal, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 16 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 14 studies (4 quant-synthesis, 3 review, 2 causal, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 14 report an effect size · 1 claim rests on one study
 
 ## Description
 A check in is a short, deliberate touchpoint — a question, poll, one-minute paper, or brief conference — through which an instructor or system elicits learners' current state: their understanding, misconceptions, progress, or emotional readiness. It functions as a diagnostic and relational mechanism, feeding information forward so instruction can be adjusted rather than delivered blind.
 
 ## Design Implications
 
-Check ins make learner status visible early enough to act on, converting assumptions about comprehension into evidence [Formative feedback improves learning when it is used to adjust instruction.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. They also serve a relational function: regular, low-stakes check ins signal that the instructor is attending to individuals, which supports belonging and motivation [Autonomy-supportive teaching contexts raise intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]. The value of a check in depends almost entirely on what happens next — data gathered and ignored erodes trust and adds no learning benefit.
+Check ins make learner status visible early enough to act on, converting assumptions about comprehension into evidence [Formative feedback improves learning when it is used to adjust instruction.](../claims/assessment-for-learning-improves-achievement.md) [+S]. They also serve a relational function: regular, low-stakes check ins signal that the instructor is attending to individuals, which supports belonging and motivation [Autonomy-supportive teaching contexts raise intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]. The value of a check in depends almost entirely on what happens next — data gathered and ignored erodes trust and adds no learning benefit.
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Check ins make learner status visible early enough to act on, converting assumpt
 - A visible response loop: the instructor adjusts, re-teaches, or acknowledges what was heard ([Formative Assessment](../patterns/formative-assessment.md))
 
 #### Constraints
-- Check ins that collect data but produce no instructional change waste time and teach learners that responses don't matter [Formative assessment benefits depend on instructional adjustment, not data collection.](../claims/feedback-most-effective-at-task-and-process-levels.md) [-M]
+- Check ins that collect data but produce no instructional change waste time and teach learners that responses don't matter
 - Public or graded check ins suppress honest reporting of confusion, especially for anxious or low-status learners
 - Frequent interruption of task flow for check ins can fragment attention and add extraneous load [~W]
 - In large asynchronous settings, check ins without rapid response loops decay into unread surveys

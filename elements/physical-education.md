@@ -13,14 +13,14 @@ generated:
 # Physical Education
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 11 studies (5 quant-synthesis, 3 causal, 3 review), `q2`–`q4` · 3 of 11 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 10 studies (5 quant-synthesis, 3 review, 2 causal), `q2`–`q4` · 3 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Physical Education is a curricular domain in which the primary content is movement itself: motor skills, game tactics, physical fitness, and health-related dispositions. Because performance is embodied and immediate, PE relies on instructional elements — demonstration, practice, feedback, and game play — that operate in real time and in shared physical space, making it a distinctive context for applying learning design principles.
 
 ## Design Implications
 
-Effective PE instruction sequences observation, guided practice, and application in authentic game or performance contexts, rather than treating skills in isolation [Skill-focused drills transfer poorly to game play unless instruction is situated in modified game contexts.](../claims/worked-example-problem-sequences.md) [~M]. Models such as Teaching Games for Understanding (TGfU) and Sport Education show that tactical understanding and skill acquisition improve when learners grapple with modified games first and receive skill instruction as needed within them [~M]. Because working memory during movement is heavily taxed, instruction must be chunked into a few cues at a time [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S], and feedback should target the task or process rather than the person [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
+Effective PE instruction sequences observation, guided practice, and application in authentic game or performance contexts, rather than treating skills in isolation [Teaching Games for Understanding improves tactical decision-making more than traditional physical education instruction.](../claims/teaching-games-for-understanding-improves-tactical-decision-making.md) [+M]. Models such as Teaching Games for Understanding (TGfU) and Sport Education show that tactical understanding and skill acquisition improve when learners grapple with modified games first and receive skill instruction as needed within them [~M]. Because working memory during movement is heavily taxed, instruction must be chunked into a few cues at a time [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S], and feedback should target the task or process rather than the person [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ### Context
 #### Requirements

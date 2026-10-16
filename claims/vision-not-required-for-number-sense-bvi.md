@@ -44,6 +44,7 @@ The review attributes to Ahlberg & Csocsán (1999), a study of 25 Hungarian chil
 
 ## Learner Variables
 - [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+- [Number Sense](../learner-variables/number-sense.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Math achievement of BVI students lags sighted peers and the gap widens with age](bvi-math-achievement-lags-and-gap-widens.md) — reports the opposite

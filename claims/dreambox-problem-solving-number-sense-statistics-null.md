@@ -40,6 +40,9 @@ Supplemental subscale findings from the same RCT: Number Sense (n = 553) effect 
 ## Discussion
 
 
+## Learner Variables
+- [Number Sense](../learner-variables/number-sense.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The DreamBox effect on the MAP Computation subtest was not statistically significant after WWC multiple-comparison correction](dreambox-computation-subtest-not-significant-after-correction.md) — related
 - [The DreamBox effect on the MAP Measurement and Geometry subtest was not statistically significant after WWC multiple-comparison correction](dreambox-measurement-geometry-subtest-not-significant-after-correction.md) — related

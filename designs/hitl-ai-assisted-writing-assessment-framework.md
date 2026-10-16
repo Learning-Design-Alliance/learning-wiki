@@ -38,7 +38,7 @@ A decision-oriented operational framework integrating LLM-based scoring of the W
 
 ### Claims
 - [Ai Scoring Systematic Under Grading Bias Pass Fail](../claims/ai-scoring-systematic-under-grading-bias-pass-fail.md) [+M]
-- [Hitl Workflow Reduces Human Scoring Workload 50 Percent](../claims/hitl-workflow-reduces-human-scoring-workload-50-percent.md) [+M]
+- [Hitl Workflow Reduces Human Scoring Workload 50 Percent](../claims/hitl-workflow-reduces-human-scoring-workload-50-percent.md) [+W]
 
 ## Related Designs
 

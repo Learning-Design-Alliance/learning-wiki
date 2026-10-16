@@ -41,6 +41,9 @@ KJ-method qualitative descriptive analysis of open-ended responses from all 20 p
 
 ## Discussion
 
+## Learner Variables
+- [Visual Processing](../learner-variables/visual-processing.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — the general claim this finding bears on, with the studies behind it

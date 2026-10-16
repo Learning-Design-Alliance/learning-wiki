@@ -42,6 +42,9 @@ Descriptive statistics from the unannounced 20-item vocabulary test administered
 ## Discussion
 
 
+## Learner Variables
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — a broader claim this one bears on
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — a broader claim this one bears on

@@ -32,12 +32,12 @@ Because working memory is severely limited and attention is selective, instructi
 #### Constraints
 - Novelty and salience can backfire: emotionally interesting but irrelevant material draws attention away from the learning goal [Seductive details interfere with learning.](../claims/seductive-details-effect.md) [-S]
 - Sustained attention degrades over time; long unbroken expositions lose learners regardless of quality, so attention must be re-engaged periodically rather than assumed
-- Learners cannot attend to two demanding streams simultaneously — redundant on-screen text read while listening to narration splits attention [Redundant on-screen text with narration harms learning.](../claims/redundancy-principle.md) [-S]
+- Learners cannot attend to two demanding streams simultaneously — redundant on-screen text read while listening to narration splits attention [Redundant on-screen text with narration harms learning.](../claims/redundancy-principle.md) [-M]
 - Attention captured by extrinsic rewards or gamified cues can displace attention from the content itself when the reward becomes the focus [~M]
 
 ### Target Learners
 - Novices, who lack the knowledge to distinguish essential from incidental features and therefore benefit most from explicit cueing [Signaling essential information improves learning outcomes.](../claims/signaling-improves-learning.md) [+S]
-- Young learners and learners with attention difficulties, who need environmental structure and shorter segments; physical activity breaks can improve subsequent attention in children [Classroom physical activity improves children's attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]
+- Young learners and learners with attention difficulties, who need environmental structure and shorter segments; physical activity breaks can improve subsequent attention in children [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
 - Experts need less external cueing and may find heavy signaling redundant or intrusive [~M]
 
 ### Target Learning Goals

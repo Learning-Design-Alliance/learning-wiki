@@ -55,6 +55,9 @@ A single-classroom pre-test/post-test comparison of 10-item word problem tests f
 ## Discussion
 
 
+## Learner Variables
+- [Algebraic Thinking](../learner-variables/algebraic-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [GBSRI significantly improved Thai undergraduates' overall English paragraph writing scores after eight weeks](gbsri-improves-thai-undergraduate-writing-scores.md) — related

@@ -42,6 +42,10 @@ This is the article's headline experimental result: the expected SCT pattern (po
 ## Discussion
 
 
+## Learner Variables
+- [Number Sense](../learner-variables/number-sense.md) — predictor: learners who differ on it differ in outcomes
+- [Inferencing](../learner-variables/inferencing.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Subjects highest in numeracy draw valid causal inferences from data better than less numerate subjects when the data are politically uncharged (skin rash treatment framing)](numerate-subjects-better-skin-rash-inference.md) — related
 - [Politically charged framing (gun control ban) makes responses to the same data politically polarized and less accurate](gun-control-framing-polarizes-and-reduces-accuracy.md) — related

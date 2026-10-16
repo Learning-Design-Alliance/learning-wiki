@@ -61,6 +61,10 @@ The review reports this meta-analysis of longer-term SEL effects as evidence of 
 ## Discussion
 
 
+## Learner Variables
+- [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [SEL program effects are sustained over long-term follow-up periods](sel-benefits-persist-follow-up.md) — possibly the same claim (merge candidate)
 - [SEL programs improve students' engagement and academic performance, with an 11-percentile-point achievement gain in the Durlak meta-analysis](sel-programs-improve-academic-performance.md) — a narrower finding that bears on this claim

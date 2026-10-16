@@ -19,7 +19,7 @@ Regular PE classes provide scheduled, structured periods of physical activity an
 
 ## Design Implications
 
-Consistent PE supports cognition and classroom behavior, with effects strongest for attention and executive function in school-age learners [Physical activity during school improves attention and on-task behavior.](../claims/classroom-physical-activity-improves-attention.md) [+M]. Single bouts of exercise produce acute, short-lived cognitive benefits, so the *regularity* of PE — not occasional sessions — is what sustains effects [Timing of acute exercise relative to learning affects memory consolidation.](../claims/acute-exercise-timing-memory.md) [~M]. PE should complement, not replace, classroom learning time; cutting PE to increase academic instruction typically does not improve achievement and removes a proven attention support [School-based physical activity does not harm and may help academic performance.](../claims/classroom-physical-activity-improves-attention.md) [+M].
+Consistent PE supports cognition and classroom behavior, with effects strongest for attention and executive function in school-age learners [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]. Single bouts of exercise produce acute, short-lived cognitive benefits, so the *regularity* of PE — not occasional sessions — is what sustains effects [Timing of acute exercise relative to learning affects memory consolidation.](../claims/acute-exercise-timing-memory.md) [~M]. PE should complement, not replace, classroom learning time; cutting PE to increase academic instruction typically does not improve achievement and removes a proven attention support [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M].
 
 ### Context
 #### Requirements
@@ -41,13 +41,13 @@ Consistent PE supports cognition and classroom behavior, with effects strongest 
 - Integrated approaches pairing PE with classroom [active-learning](../principles/active-learning.md) or movement-based lessons
 
 ### Target Learners
-- School-age children and adolescents, where evidence for attention and executive-function benefits is strongest [Physical activity during school improves attention and on-task behavior.](../claims/classroom-physical-activity-improves-attention.md) [+M]
+- School-age children and adolescents, where evidence for attention and executive-function benefits is strongest [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
 - Learners with ADHD or high activity needs, who show disproportionate on-task gains after physical activity [+M]
 - Less effective as a standalone intervention for older adults or purely sedentary adult learners without adaptation
 
 ### Target Learning Goals
 - Psychomotor: fundamental motor skills, sport skills, and lifelong fitness competence
-- Cognitive support: improved attention, working memory, and on-task behavior that indirectly serve academic goals [Physical activity during school improves attention and on-task behavior.](../claims/classroom-physical-activity-improves-attention.md) [+M]
+- Cognitive support: improved attention, working memory, and on-task behavior that indirectly serve academic goals [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
 - Social-affective: cooperation, sportsmanship, and self-regulation through structured group activity
 
 ### Instructions

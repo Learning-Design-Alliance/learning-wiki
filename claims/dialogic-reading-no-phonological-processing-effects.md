@@ -41,6 +41,9 @@ Randomized controlled trial by Lonigan et al. (1999) with 66 children in the Dia
 
 ## Discussion
 
+## Learner Variables
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — the general claim this finding bears on, with the studies behind it

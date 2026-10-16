@@ -42,6 +42,9 @@ Posttest analysis from the same randomized double-blind study comparing set-L un
 ## Discussion
 
 
+## Learner Variables
+- [Vocabulary](../learner-variables/vocabulary.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Double-blind experimental design can be successfully implemented in CALL-based pedagogical intervention research](double-blind-design-feasible-in-call-research.md) — related
 - [Posttest scores increase monotonically across the tutoring algorithm's acquisition stages, supporting its stage criteria, though control-group items did not differ from items still in active acquisition](tutoring-stage-thresholds-validated-by-posttest.md) — related

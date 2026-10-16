@@ -40,6 +40,9 @@ Mixed repeated-measures ANOVA on Coh-Metrix 3.0 syntactic complexity indicators 
 ## Discussion
 
 
+## Learner Variables
+- [Syntax](../learner-variables/syntax.md) — outcome: instruction changes it
+
 ## Related Claims
 - [AI-assisted peer feedback enhanced lexical diversity only in the first writing task, with the group advantage disappearing by the second task](lexical-diversity-advantage-first-task-only.md) — related
 - [Teacher feedback produced larger first-task score gains that dropped 32.8% by the second task, while AI-assisted peer feedback gains remained stable (a learning-curve effect)](writing-score-trajectories-feedback-modes.md) — related

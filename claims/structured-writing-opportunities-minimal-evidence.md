@@ -42,5 +42,9 @@ The guide's evidence summary for Recommendation 3 states "Only two studies met W
 ## Discussion
 
 
+## Learner Variables
+- [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — outcome: instruction changes it
+- [Communication Skills](../learner-variables/communication-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Integrating oral and written English language instruction into content-area teaching shows positive impacts on content-area acquisition in five RCTs](integrate-oral-written-language-content-teaching.md) — related

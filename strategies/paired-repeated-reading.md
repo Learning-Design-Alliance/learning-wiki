@@ -19,7 +19,7 @@ Paired repeated reading is a fluency-building technique in which two learners ta
 
 ## Design Implications
 
-Repeated reading works because rereading familiar text reduces word-recognition effort, freeing attention for comprehension and prosody [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. The pairing structure adds accountability and immediate error correction that silent rereading lacks, and peer feedback keeps accuracy practice from drifting into practicing errors.
+Repeated reading works because rereading familiar text reduces word-recognition effort, freeing attention for comprehension and prosody [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. The pairing structure adds accountability and immediate error correction that silent rereading lacks, and peer feedback keeps accuracy practice from drifting into practicing errors.
 
 ### Context
 #### Requirements
@@ -46,7 +46,7 @@ Repeated reading works because rereading familiar text reduces word-recognition 
 - Less appropriate for readers with very low decoding accuracy, who need explicit phonics first; rereading text they cannot decode does not build the needed skill [-M]
 
 ### Target Learning Goals
-- Oral reading fluency: rate, accuracy, and prosody [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Oral reading fluency: rate, accuracy, and prosody [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Automaticity at the word level as a precondition for comprehension ([Automaticity](../elements/automaticity.md))
 - Reading confidence and stamina for longer texts
 

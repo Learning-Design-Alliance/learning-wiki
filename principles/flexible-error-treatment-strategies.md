@@ -181,8 +181,8 @@ The article proposes that "teachers should employ different and flexible error t
 
 ### Claims
 
-- [Global Versus Local Errors Correction](../claims/global-versus-local-errors-correction.md) [+M]
-- [Errors As Feedback Fossilization Risk](../claims/errors-as-feedback-fossilization-risk.md) [+M]
+- [Global Versus Local Errors Correction](../claims/global-versus-local-errors-correction.md) [+W]
+- [Errors As Feedback Fossilization Risk](../claims/errors-as-feedback-fossilization-risk.md) [+W]
 - [Metalinguistic feedback and recasts, but not clarification requests, significantly improve Iranian EFL learners' wh-question performance on an immediate post-test](../claims/metalinguistic-recasts-effective-immediate-wh-questions.md) [+W] — attached 2026-10-07 from Ehsan Rassaei (2011), which proposed "Integrate explicit error correction with meaningful activities when developing both accuracy and fluency"; tests this page's relationship.
 - [Metalinguistic feedback outperforms recasts on the immediate post-test, but the two do not differ significantly on the delayed post-test](../claims/metalinguistic-beats-recasts-immediate-not-delayed.md) [~W] — attached 2026-10-07 from Ehsan Rassaei (2011), which proposed "Integrate explicit error correction with meaningful activities when developing both accuracy and fluency"; tests this page's relationship.
 - [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different](../claims/recasts-more-enduring-than-metalinguistic-feedback.md) [~M] — attached 2026-10-07 from Ehsan Rassaei (2011), which proposed "Integrate explicit error correction with meaningful activities when developing both accuracy and fluency"; tests this page's relationship.

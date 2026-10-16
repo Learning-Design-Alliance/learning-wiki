@@ -51,3 +51,4 @@ The summary reports, citing Watts et al. (2023) on heterogeneity in public presc
 - [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
 - [Pre-kindergarten attendance predicts college enrollment across racial and ethnic groups, most strongly four-year enrollment among Black and Hispanic students](prek-predicts-college-enrollment.md)
+- [Children with poorer parents suffer more, and children of high school educated parents experience the largest welfare losses](ses-heterogeneity-welfare-losses-closures.md) — related

@@ -37,7 +37,7 @@ The brief's organizing account is that an observed difference between program an
 
 ### Claims
 
-- [Effect Defined As Statistically Significant Group Difference](../claims/effect-defined-as-statistically-significant-group-difference.md) [+M]
+- [Effect Defined As Statistically Significant Group Difference](../claims/effect-defined-as-statistically-significant-group-difference.md) [+W]
 - [Author-reported statistically significant program effects did not remain significant after WWC corrections for clustering and multiple comparisons](../claims/wwc-corrections-eliminate-author-reported-significance.md) [+W]
 - [Head Start shows no discernible effects on mathematics achievement for 4-year-old children](../claims/head-start-no-discernible-mathematics-effects.md) [+W]
 - [BCIRC has potentially positive effects on English language development (effect size 0.29, not statistically significant)](../claims/bcirc-potentially-positive-english-language-development.md) [+W]

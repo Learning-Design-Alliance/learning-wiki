@@ -47,7 +47,7 @@ Portfolio creation functions as sustained self-assessment: students must evaluat
 
 ### Target Learning Goals
 - Metacognition and self-assessment: evaluating one's own work against criteria [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]
-- Goal setting: identifying gaps and setting specific improvement targets [Specific difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]
+- Goal setting: identifying gaps and setting specific improvement targets [Specific difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M]
 - Communication: articulating growth to teachers, parents, or authentic audiences
 - Long-term documentation of competency development in standards-based or [Competency-Based Learning](../patterns/competency-based-learning.md) contexts
 

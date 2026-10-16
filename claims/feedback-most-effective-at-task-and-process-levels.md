@@ -6,7 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: feedback-most-effective-at-task-and-process-levels
-aliases: [high-information-feedback-d099-versus-reinforcement-d024]
+aliases: [high-information-feedback-d099-versus-reinforcement-d024, feedback-addressing-task-improves-learning, feedback-improves-learning-when-it-addresses-task-goals]
 evidence_strength:
 sources:
   - id: wisniewski-et-al-2020
@@ -44,6 +44,8 @@ Feedback directed at the task (how well the work meets the goal) and at the proc
 
 `q3 i3` Type of feedback is a statistically significant moderator: high-information feedback (k = 42, d = 0.99) outperforms corrective feedback (k = 238, d = 0.46) and reinforcement/punishment (k = 39, d = 0.24). [→ Wisniewski B 2020](#wisniewski-et-al-2020)
 
+`q4 i3` Across 435 educational studies, feedback carrying high information (task, process and sometimes self-regulation level) had a very large effect (d = 0.99, k = 42), far above simple reinforcement or punishment (d = 0.24, k = 39); the meta-analysis coded information content, not the four levels directly, so it supports the claim indirectly. [→ Wisniewski et al. 2020](#wisniewski-b-2020)
+
 ## Evidence
 
 ### Wisniewski et al. 2020
@@ -64,6 +66,26 @@ Wisniewski B, Zierer K and Hattie J (2020) The Power of Feedback Revisited: A Me
 Mixed-effects moderator analysis (Table 3) of 994 effect sizes coded by feedback type. High-information feedback, containing task, process and sometimes self-regulation information, shows d = 0.99 [0.82–1.15]; reinforcement/punishment shows d = 0.24 [0.06–0.43].
 
 > "Reinforcement or punishment 39 0.24 [0.06 – 0.43] 123.54 69.2% Corrective feedback 238 0.46 [0.39 – 0.55] 1260.41 81.2% High-information feedback 42 0.99 [0.82 – 1.15] 157.12 73.9%"
+-->
+
+<!-- merged 2026-10-16 from feedback-addressing-task-improves-learning: that page's entry for this study, which differed from the one above, kept verbatim.
+### Wisniewski et al. 2020
+
+Wisniewski, B., Zierer, K., & Hattie, J. (2020). The power of feedback revisited: A meta-analysis of educational feedback research. *Frontiers in Psychology, 10*, 3087. [doi:10.3389/fpsyg.2019.03087](https://doi.org/10.3389/fpsyg.2019.03087)
+
+`q4 · meta-analysis (random effects, not pre-registered)` · `i3 · very large effect for high-information feedback, d=0.99` · `n=435 studies` · `quant-synthesis · r2`
+
+A random-effects meta-analysis of 435 studies (994 effect sizes, more than 61,000 learners) of feedback on student learning, set up to test the Hattie and Timperley (2007) model. The overall effect was medium (d = 0.48 after removing outliers) with very high heterogeneity (I² about 83%). Studies were coded by the type of information feedback carried: reinforcement or punishment (d = 0.24), corrective feedback (d = 0.46), and high-information feedback that addresses the task, the process and sometimes self-regulation (d = 0.99). Motivational outcomes showed smaller effects (d = 0.33) than cognitive ones (d = 0.51). The authors did not code self-level praise as its own category, so the self-level contrast here rests on the reinforcement/punishment group and on their summary of Hattie and Timperley.
+-->
+
+<!-- merged 2026-10-16 from feedback-improves-learning-when-it-addresses-task-goals: that page's entry for this study, which differed from the one above, kept verbatim.
+### Wisniewski et al. 2020
+
+Wisniewski, B., Zierer, K., & Hattie, J. (2020). The power of feedback revisited: A meta-analysis of educational feedback research. *Frontiers in Psychology, 10*, 3087. [doi:10.3389/fpsyg.2019.03087](https://doi.org/10.3389/fpsyg.2019.03087)
+
+`q4 · meta-analysis (random effects, not pre-registered)` · `i3 · very large effect for high-information feedback, d=0.99` · `n=435 studies` · `quant-synthesis · r2`
+
+A random-effects meta-analysis of 435 studies (994 effect sizes, more than 61,000 learners) of feedback on student learning, set up to test the Hattie and Timperley (2007) model. The overall effect was medium (d = 0.48 after removing outliers) with very high heterogeneity (I² about 83%). Studies were coded by the type of information feedback carried: reinforcement or punishment (d = 0.24), corrective feedback (d = 0.46), and high-information feedback that addresses the task, the process and sometimes self-regulation (d = 0.99). Motivational outcomes showed smaller effects (d = 0.33) than cognitive ones (d = 0.51). The authors did not code self-level praise as its own category, so the self-level contrast here rests on the reinforcement/punishment group and on their summary of Hattie and Timperley.
 -->
 
 ### Kluger & DeNisi 1996
@@ -102,6 +124,24 @@ Feedback at the task and process levels is also a core mechanism of [Assessment 
 
 Open questions: how the four levels interact in real classrooms (e.g., whether process feedback presupposes accurate task feedback), and how the effectiveness of each level varies by learner expertise and subject domain. <!-- deprecated (2026-10-05, stale: entries had been added): Studies still need to be added to substantiate the subclaims. --> Two meta-analyses are recorded (Wisniewski et al. 2020 in education; Kluger & DeNisi 1996 across settings), and both support the claim only indirectly: one coded the information content of feedback rather than the four levels, and the other used its own attention levels, with no effect size for the level moderator in the abstract. No recorded study compares task-level with process-level feedback directly, so the ordering between those two in the paragraphs above is untested here.
 
+*Merged from “Feedback Addressing Task Improves Learning” (feedback-addressing-task-improves-learning):* The task-level (sometimes called "task process" or "information") focus of feedback is widely treated in the feedback literature as the most reliably productive level of Hattie and Timperley's (2007) task–process–self-regulation–self framework, but the specific studies supporting this claim still need to be added to the Evidence section before the strength of this page can be assessed.
+
+**Mechanism.** Task-focused feedback works by making the gap between current and desired performance visible and actionable, which reduces unproductive search during revision — consistent with the load-reduction account in [Cognitive Load Theory](../theories/cognitive-load-theory.md). Feedback about the self (e.g., "good job," "you're smart") tends to be least effective because it gives the learner no actionable information about the task [~W].
+
+**Boundary conditions.** Task-focused feedback is most useful when the learner has a clear goal against which performance can be compared, and when the feedback specifies the gap rather than merely confirming success or failure. When learners are novices, task-level feedback may need to be paired with process-level guidance (strategies for closing the gap); when learners are proficient, purely task-level feedback can become redundant and attention may shift productively to self-regulation. Praise can still serve motivational functions, but it should accompany rather than replace task information.
+
+**Constraints on effectiveness.** Task-level feedback loses its advantage when the feedback is so detailed or voluminous that learners cannot act on it within available time or working-memory capacity [~M]. It can also backfire when learners interpret gap information as evidence of low ability rather than as actionable direction, particularly for learners with fragile self-efficacy [~W]. And when the "task" feedback is really person-evaluation in disguise (e.g., grades or normative comparisons attached to task comments), the self-directed component can dominate and erode the informational value [~M].
+
+**Open questions.** The framework's levels (task, process, self-regulation, self) are not cleanly separable in practice — a single comment often operates at multiple levels simultaneously — and the field lacks strong evidence on the optimal *mix* of levels for a given learner and task. Whether task-level feedback delivered by automated systems carries the same weight as teacher-delivered feedback remains under-studied.
+
+*Merged from “Feedback Improves Learning When It Addresses Task Goals” (feedback-improves-learning-when-it-addresses-task-goals):* **Why task-focused feedback works.** Feedback serves a regulatory function: it closes the gap between current performance and the task's goal. When feedback addresses the task and the processes used to perform it, learners can act on it directly — revising a strategy, correcting a misconception, or re-attempting with better aim. Feedback directed at the self ("good job!", "you're not good at this") gives the learner no actionable information and can divert attention to the ego, sometimes lowering performance. This is consistent with the broader claim that [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md), where feedback is the central mechanism.
+
+**Boundary conditions.** Task-goal feedback is not uniformly beneficial. If the task goals are unclear to learners, feedback about the task cannot be interpreted — goal clarity is a precondition. Feedback that simply supplies the answer can short-circuit the retrieval effort that produces learning, so timing and completeness matter. And as with scaffolding generally, the value of feedback diminishes with expertise: highly skilled performers may find process-level feedback redundant, echoing the [expertise reversal effect](../theories/expertise-reversal-effect.md). Feedback also adds information to working memory; poorly timed or excessive feedback can contribute to [cognitive overload degrading learning](cognitive-overload-degrades-learning.md).
+
+**Design implications.** Make the task goal visible before performance begins, so feedback has a referent. Frame comments as answers to "where am I going, how am I doing, and where to next?" rather than evaluations of the learner. Prefer process- and task-level comments over praise or personal judgments, and withhold full solutions when the goal is to strengthen retrieval — see [Action-oriented feedback](../strategies/action-oriented-feedback.md) for a concrete implementation.
+
+**Open questions.** The relative effectiveness of process-level versus task-level feedback across domains, and the optimal timing of feedback (immediate versus delayed) for different task types, remain actively debated. Confidence in this claim should be calibrated once specific studies are added to the Evidence section.
+
 ## Related Claims
 
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
@@ -112,9 +152,7 @@ Open questions: how the four levels interact in real classrooms (e.g., whether p
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — the optimal feedback level shifts as learner expertise grows.
 - [Action-oriented feedback](../strategies/action-oriented-feedback.md) — a practical strategy for making task- and process-level feedback usable by learners.
 - [Errors serve as valuable feedback for teachers and learners, but unhandled errors risk fossilization](errors-as-feedback-fossilization-risk.md) — a narrower finding that bears on this claim
-- [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — possibly the same claim (merge candidate)
 - [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — related
-- [Feedback Improves Learning When It Addresses Task Goals](feedback-improves-learning-when-it-addresses-task-goals.md) — possibly the same claim (merge candidate)
 - [Smaller classes related to more interactions; task-directed and praising interactions linked to more time on task and higher achievement, but organisational and personal interactions rose contrary to expectations](annevelink-personalised-instruction-path-test.md) — related
 - [Feedback about self as a person is the least effective feedback level; task, process, and self-regulation feedback support learning and combine for greater impact](feedback-levels-task-process-self-regulation-effective.md) — related
 - [Established feedback frameworks do not address the epistemic status of feedback tasks relevant to automation decisions](existing-feedback-frameworks-silent-on-epistemic-status.md) — related
@@ -122,3 +160,10 @@ Open questions: how the four levels interact in real classrooms (e.g., whether p
 - [On the immediate posttest of explicit L2 knowledge, direct CF and metalinguistic CF with rule explanations outperformed the control group while metalinguistic code CF did not.](cf-type-explicit-short-term-differences.md) — related
 - [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — related
 - [Theoretical perspectives support corrective feedback while contentious issues remain about uptake, instruction, and CF's purpose](theoretical-perspectives-cf-uptake-instruction-purpose.md) — related
+- [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — feedback is a core mechanism through which assessment for learning operates.
+- [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — related
+- [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
+- [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve](probing-feedback-revise-resubmit-evidence.md) — a narrower finding that bears on this claim
+- [Districts report more success with future-ready skill assessment focused on student growth than on proficiency](growth-over-proficiency-pog-assessment.md) — related
+- [Feedback has a medium overall effect on student learning (d = 0.48 after outlier removal) with substantial heterogeneity](feedback-medium-overall-effect-d048-heterogeneous.md) — related
+- [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — feedback adds information; excess or mistimed feedback can overload working memory.

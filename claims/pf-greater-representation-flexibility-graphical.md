@@ -42,6 +42,9 @@ Post-test measure from the same three-condition study of 109 seventh-grade stude
 ## Discussion
 
 
+## Learner Variables
+- [Mathematical Flexibility](../learner-variables/mathematical-flexibility.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Differences between the facilitated complex problem solving and lecture-practice conditions did not reach significance on post-test outcomes](fcps-lp-difference-not-significant.md) — related
 - [Productive failure students significantly outperformed lecture-practice and facilitated complex problem solving students on well-structured and higher-order application post-test problems](pf-outperformed-lp-fcps-post-test-problems.md) — related

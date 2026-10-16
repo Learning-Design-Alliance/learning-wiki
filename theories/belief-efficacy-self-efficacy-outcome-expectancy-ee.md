@@ -38,7 +38,7 @@ The article applies Bandura's (1977) self-efficacy construct to teaching environ
 ### Claims
 
 - Preservice Teachers Negative Ee Self Efficacy [+M]
-- [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]
+- [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 
 ## Related Theories
 

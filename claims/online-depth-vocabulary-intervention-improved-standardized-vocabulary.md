@@ -44,6 +44,7 @@ Quasi-experimental intervention study with 240 fifth graders, 49% Spanish–Engl
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
 
 ## Related Claims
 - [The intervention produced significant effects on researcher-developed measures of vocabulary depth but not vocabulary breadth](intervention-vocabulary-depth-significant-breadth-not.md) — related

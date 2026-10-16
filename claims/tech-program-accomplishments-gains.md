@@ -41,6 +41,9 @@ Thematic analysis across seven accomplishment themes: career transition and expe
 
 ## Discussion
 
+## Learner Variables
+- [Social Supports](../learner-variables/social-supports.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [An adult-education market report, citing a 2014 Department of Labor synthesis, states that cohort membership contributes to adult learners' skill development and persistence](cohort-support-improves-adult-persistence.md) — the general claim this finding bears on, with the studies behind it

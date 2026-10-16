@@ -59,7 +59,7 @@ Role play is a form of situated, active practice: it requires learners to *perfo
 ### Target Learners
 - Employees in customer-facing, management, or conflict-resolution roles where interpersonal performance is the job
 - Novices who need a safe first encounter with high-stakes interactions before doing them for real
-- Learners low in confidence: successful rehearsal builds self-efficacy, which predicts persistence in challenging tasks [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]
+- Learners low in confidence: successful rehearsal builds self-efficacy, which predicts persistence in challenging tasks [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 - Less suitable, without adaptation, for learners with high social anxiety or very low trust in the group
 - Professionals in interpersonal roles — customer service, management, sales, healthcare, teaching — who must perform under social pressure
 - Novices preparing for high-stakes interactions (e.g., medical students practicing difficult conversations with standardized patients [+S])
@@ -123,7 +123,7 @@ Role play places learners inside a simulated scenario where they adopt a defined
 
 ## Design Implications
 
-Role play is a form of [Active Learning](../principles/active-learning.md) that situates practice in a social, contextualized setting rather than an abstract one [Active learning improves exam performance relative to lecture.](../claims/active-learning-improves-exam-performance.md) [+S]. Its distinctive value is practicing *interactive* skills — negotiation, empathy, de-escalation — that cannot be rehearsed on paper, and perspective-taking through role assignment can improve intergroup attitudes [Building empathy improves intergroup attitudes.](../claims/building-empathy-improves-intergroup-attitudes.md) [+M]. The debrief, not the enactment itself, carries most of the learning: simulation research consistently finds that outcomes depend on structured post-hoc reflection and feedback [Simulation-based education with deliberate practice improves clinical outcomes.](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+S].
+Role play is a form of [Active Learning](../principles/active-learning.md) that situates practice in a social, contextualized setting rather than an abstract one [Active learning improves exam performance relative to lecture.](../claims/active-learning-improves-exam-performance.md) [+S]. Its distinctive value is practicing *interactive* skills — negotiation, empathy, de-escalation — that cannot be rehearsed on paper, and perspective-taking through role assignment can improve intergroup attitudes [Building empathy improves intergroup attitudes.](../claims/building-empathy-improves-intergroup-attitudes.md) [+M]. The debrief, not the enactment itself, carries most of the learning: simulation research consistently finds that outcomes depend on structured post-hoc reflection and feedback [Simulation-based education with deliberate practice improves clinical outcomes.](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M].
 
 ### Context
 #### Requirements

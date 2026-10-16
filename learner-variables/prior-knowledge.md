@@ -12,10 +12,17 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 95 claims (56 show a difference, 29 mixed, 10 no difference) · 85 studies (25 causal, 18 review, 13 theoretical, 10 associational, 8 quant-synthesis, 7 qualitative, 4 design), `q1`–`q4` · 12 of 85 report an effect size · 83 claims rest on one study
+> **Evidence** · 98 claims (56 show a difference, 29 mixed, 10 no difference, 3 unmarked) · 86 studies (25 causal, 19 review, 13 theoretical, 10 associational, 8 quant-synthesis, 7 qualitative, 4 design), `q1`–`q4` · 13 of 86 report an effect size · 86 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
+
+## How strongly it relates to achievement
+
+**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
+
+- Prior mathematical knowledge and later mathematics achievement: **r = .63** (k = 950), the second-largest of 66 correlates. Most studies relate earlier to later achievement rather than to growth, so this mostly shows how stable achievement is. [Claim](../claims/prior-knowledge-correlates-very-strongly-with-later-math-achievement.md)
+- Mathematics vocabulary **r = .49**, number line estimation **.44**. [Claim](../claims/number-sense-tasks-correlate-with-math-achievement.md)
 
 ## Implications
 

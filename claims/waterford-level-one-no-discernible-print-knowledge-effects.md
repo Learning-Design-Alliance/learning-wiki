@@ -61,6 +61,9 @@ For the Get Ready to Read! Screen (19 classrooms/268 children), the study author
 ## Discussion
 
 
+## Learner Variables
+- [Alphabet Knowledge and Print Awareness](../learner-variables/alphabet-knowledge-and-print-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Waterford Early Reading Level One™ shows no discernible effects on preschool children's oral language](waterford-level-one-no-discernible-oral-language-effects.md) — related
 - [Waterford Early Reading Program™ showed no discernible effects on comprehension, with a small non-significant effect size on vocabulary](werp-no-discernible-comprehension.md) — related

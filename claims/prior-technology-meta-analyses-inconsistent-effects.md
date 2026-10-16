@@ -41,8 +41,12 @@ The review reports, citing Talan (2020), a meta-analysis of mobile learning acro
 
 ## Discussion
 
+## Learner Variables
+- [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md) — the general claim this finding bears on, with the studies behind it
 - [Mobile device use in primary classrooms produces a small, statistically significant positive pooled effect on literacy and numeracy outcomes compared with alternative devices or no device](mobile-devices-small-positive-effect-literacy-numeracy.md) — reports the opposite
 - Math shows slower recovery than reading in the full meta-analysis — related
+- [Teachers reported spending more time on literacy and numeracy instruction in 2020 than in 2019, particularly after return to schooling](covid19-increased-instructional-volume-2020.md) — related

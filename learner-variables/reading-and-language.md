@@ -12,10 +12,16 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 114 claims (70 show a difference, 16 mixed, 28 no difference) · 95 studies (30 causal, 20 review, 18 quant-synthesis, 14 associational, 7 theoretical, 4 design, 2 qualitative), `q1`–`q4` · 21 of 95 report an effect size · 105 claims rest on one study
+> **Evidence** · 116 claims (70 show a difference, 16 mixed, 28 no difference, 2 unmarked) · 96 studies (30 causal, 21 review, 18 quant-synthesis, 14 associational, 7 theoretical, 4 design, 2 qualitative), `q1`–`q4` · 21 of 96 report an effect size · 107 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
+
+## How strongly it relates to achievement
+
+**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
+
+- Verbal achievement **r = .67**, reading **.52**, comprehensive language **.51**, mathematics vocabulary **.49**, language **.42**: the strongest group of correlates of mathematics achievement. [Claim](../claims/verbal-and-reading-skills-correlate-strongly-with-math-achievement.md)
 
 ## Implications
 
@@ -33,14 +39,14 @@ What a learner can read without effort, and whether the language of instruction 
 - Directly targeted where literacy itself is the goal.
 
 ## Claims
-- [Automatic word recognition frees resources for comprehension](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S] — the mechanism linking decoding to everything downstream
+- [Automatic word recognition frees resources for comprehension](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M] — the mechanism linking decoding to everything downstream
 - [Systematic phonics improves word reading](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S] — the best-evidenced instructional response for decoding
 - [Vocabulary instruction improves comprehension](../claims/vocabulary-instruction-improves-comprehension.md) [+M] — the second lever, acting on meaning rather than decoding
 - [Morphological instruction improves literacy](../claims/morphological-instruction-improves-literacy.md) [+M] — teaches word structure so unfamiliar words are partly decodable
 - [Reciprocal teaching improves reading comprehension](../claims/reciprocal-teaching-improves-reading-comprehension.md) [+M] — a strategy-level rather than a code-level intervention
 - [Incidental vocabulary exposure limited](../claims/incidental-vocabulary-exposure-limited.md) [-M] — why 'they will pick it up from reading' is not a plan
 - [Fluent bilingualism is linked to metalinguistic awareness of how the two languages relate](../claims/bilingual-fluency-enhances-metalinguistic-awareness.md) [+W] — a reminder that this dimension is not only a deficit axis
-- [A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does](../claims/l1-predicts-l2-phoneme-perception-more-than-proficiency.md) [+S] — which language a learner brings is a sharper predictor than their level, so this dimension is not one scale
+- [A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does](../claims/l1-predicts-l2-phoneme-perception-more-than-proficiency.md) [+M] — which language a learner brings is a sharper predictor than their level, so this dimension is not one scale
 - [Italian grammatical gender stays incompletely mastered by L2 learners and heritage speakers alike, and a gendered first language helps only conditionally](../claims/italian-gender-stays-incomplete-for-l2-and-heritage-speakers.md) [~M] — heritage and second-language speakers come apart, so one mastery number over both describes neither
 - [A learner's mother language affects second language acquisition, particularly in production of absent sounds](../claims/mother-tongue-affects-sla-production.md) [+W] — learners who differ on it differ in outcomes
 - [Bilingual children showed a nonsignificant advantage on the hardest theory-of-mind comprehension question, and MAIN comprehension questions may be too easy for the age range](../claims/tom2-bilingual-advantage-nonsignificant-comprehension-ceiling.md) [-W] — learners who differ on it differ in outcomes

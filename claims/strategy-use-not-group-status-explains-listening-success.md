@@ -49,3 +49,4 @@ Authors' interpretation in the Discussion, drawing on their combined quantitativ
 - [Heritage learners of Portuguese perceive listening as the easiest of the four skills, while non-heritage learners find it as challenging as other skills](hlls-rate-listening-easiest-nhlls-challenging.md) — related
 - [Both learner groups were more successful on listening tasks requiring local understanding than on tasks requiring integration of information or inference](local-understanding-easier-than-integration-inference.md) — related
 - [All participants believed heritage learners perform better in classroom listening, but dialectal differences posed difficulties for HLLs that NHLLs did not notice](perceived-hll-advantage-and-dialect-difficulty.md) — related
+- [Successful discoverers regulate learning more systematically, planning experiments and monitoring progress, while unsuccessful learners work unsystematically](regulation-distinguishes-successful-discoverers.md) — related

@@ -36,8 +36,8 @@ The brief organizes its content around a landscape of teacher factors that drive
 - improved writing outcomes
 
 ### Claims
-- [Teachers Key Role Secondary Writing Outcomes](../claims/teachers-key-role-secondary-writing-outcomes.md) [+M]
-- [Teacher Practices Support Feedback Shape Writing](../claims/teacher-practices-support-feedback-shape-writing.md) [+M]
+- [Teachers Key Role Secondary Writing Outcomes](../claims/teachers-key-role-secondary-writing-outcomes.md) [+W]
+- [Teacher Practices Support Feedback Shape Writing](../claims/teacher-practices-support-feedback-shape-writing.md) [+W]
 
 ## Related Theories
 - 

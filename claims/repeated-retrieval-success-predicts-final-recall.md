@@ -69,3 +69,6 @@ Separate multilevel logistic regression models for each Experiment 2 session; th
 - [Students given retrieval practice instructions spontaneously used a repeated retrieval strategy on new materials one week later without further instructions](spontaneous-strategy-transfer-one-week-delay.md) — related
 - [Retrieval practice instructions improved final recall of translations in Experiment 1](retrieval-instructions-improve-final-recall-exp1.md) — related
 - Successful retrieval practice of more difficult items (short answer, applied) yields greater future predicted success than successful retrieval of easier items (multiple choice, factual) — related
+- [Map B was self-scored as easier to learn than Map A during the test/study phase](map-b-easier-than-map-a-self-scored.md) — related
+- [When total learning time is fixed, permitting learners to skip feedback after retrieval improves delayed final recall compared with mandatory feedback](skipping-feedback-fixed-time-improves-recall.md) — related
+- [Permitting feedback skipping increases the number of retrieval attempts completed within a fixed learning time](skipping-permits-more-retrieval-attempts.md) — related

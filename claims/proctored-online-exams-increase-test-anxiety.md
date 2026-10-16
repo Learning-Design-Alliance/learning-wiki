@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Online and proctored online exams increase students' test anxiety compared with on-campus exams and non-proctored online exams"
-description: "Online and proctored online exams increase students' test anxiety compared with on-campus exams and non-proctored online exams"
+title: "Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams"
+description: "Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams"
 id: proctored-online-exams-increase-test-anxiety
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 2
 ---
 
-# Online and proctored online exams increase students' test anxiety compared with on-campus exams and non-proctored online exams
+# Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`

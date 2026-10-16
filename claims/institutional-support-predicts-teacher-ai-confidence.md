@@ -39,6 +39,9 @@ Cross-sectional survey of 260 teachers in Pampanga, Philippines (52 elementary, 
 
 ## Discussion
 
+## Learner Variables
+- [Social Supports](../learner-variables/social-supports.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — the general claim this finding bears on, with the studies behind it

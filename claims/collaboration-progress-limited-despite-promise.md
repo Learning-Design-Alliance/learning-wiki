@@ -42,6 +42,9 @@ Headline finding of the implementation analysis of grantee activities from Decem
 ## Discussion
 
 
+## Learner Variables
+- [Collaboration](../learner-variables/collaboration.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Several collaboration activities show promise in spreading effective practices across schools and staff, but overall progress in increasing collaboration has been limited](district-charter-collaboration-progress-limited-despite-promising-activities.md) — possibly the same claim (merge candidate)
 - [Collaboration spread outside formal grant activities via the observational effect of collaboration in three grantee sites but did not extend beyond the grant in other sites](observational-effect-spread-collaboration-three-sites.md) — a narrower finding that bears on this claim

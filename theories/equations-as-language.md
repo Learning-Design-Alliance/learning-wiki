@@ -42,7 +42,7 @@ A companion idea, anticipating mathematical formalisms through intuitive sensema
 - Building the capacity to use an equation as a tool for further inquiry, not just as an answer to a solved problem
 
 ## Claims
-- [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](../claims/mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) [~M]
+- [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](../claims/mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) [~W]
 
 ## Related Theories
 - (none yet linked)

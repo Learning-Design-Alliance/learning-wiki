@@ -42,6 +42,10 @@ The article reports, citing Deacon and Kirby (2004), a four-year longitudinal st
 ## Discussion
 
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
+- [Morphological Awareness](../learner-variables/morphological-awareness.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Morphological instruction improves word-level literacy outcomes (decoding, spelling, vocabulary, morphological knowledge) but shows no reliable effect on reading comprehension](morphological-instruction-improves-literacy.md) — related
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related

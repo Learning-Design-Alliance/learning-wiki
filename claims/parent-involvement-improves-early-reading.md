@@ -94,3 +94,4 @@ This meta-analysis isolates the "added value" of dialogic (interactive) shared r
 - [Children who engaged in the program at both home and school made significantly more improvement in science learning than children who implemented at school only](home-and-school-engagement-greater-science-improvement.md) — related
 - ParentCorps improves parent involvement in early learning by teacher report but shows a smaller, non-significant effect by parent report — related
 - [Child age, caregiver education and country income level do not moderate book-sharing intervention effects on child language](book-sharing-effects-invariant-age-education-income.md) — related
+- [The parental summer education gap is largely college-educated parents spending more time facilitating children's summer activities](college-parents-facilitate-summer-activities.md) — related

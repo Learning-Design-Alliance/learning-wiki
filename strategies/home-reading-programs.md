@@ -19,7 +19,7 @@ Home reading programs organize reading practice outside school by supplying chil
 
 ## Design Implications
 
-The core mechanism is volume of successful reading practice: programs that ensure children read texts they can decode accurately build the fluency and word-recognition automaticity that frees attention for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Program impact depends heavily on text difficulty matching — books that are too hard convert practice into frustration, while too-easy texts limit growth [~M]. Guidance quality matters as much as book provision: unstructured "read for 20 minutes" mandates produce weaker effects than coaching families in specific interactional moves such as questioning, pausing, and prompting during shared reading [~S].
+The core mechanism is volume of successful reading practice: programs that ensure children read texts they can decode accurately build the fluency and word-recognition automaticity that frees attention for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Program impact depends heavily on text difficulty matching — books that are too hard convert practice into frustration, while too-easy texts limit growth [~M]. Guidance quality matters as much as book provision: unstructured "read for 20 minutes" mandates produce weaker effects than coaching families in specific interactional moves such as questioning, pausing, and prompting during shared reading [~S].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ The core mechanism is volume of successful reading practice: programs that ensur
 - **Summer reading programs** target the seasonal decline in reading skill experienced disproportionately by lower-income students
 
 ### Target Learners
-- Beginning readers building decoding accuracy and fluency through high-volume successful practice [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Beginning readers building decoding accuracy and fluency through high-volume successful practice [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Preschool and early-elementary children in dialogic reading programs, where caregiver interaction quality drives vocabulary growth [~S]
 - Struggling readers, provided texts are tightly matched to independent level; mismatched texts are actively harmful [-S]
 - Less effective for fluent adolescent readers, whose needs shift to text quality, discussion, and motivation rather than volume of easy practice [~W]
@@ -58,9 +58,11 @@ The core mechanism is volume of successful reading practice: programs that ensur
 4. Adjust text levels based on check-in data and connect home reading to classroom instruction so practice reinforces taught skills ([Assessment for Learning](../principles/assessment-for-learning.md)).
 
 ## Related Strategies
+
 - [Dialogic Reading](../elements/dialogic-reading.md) — the caregiver-interaction core of many home reading programs
 - [Sustained Silent Reading](sustained-silent-reading.md) — the in-school complement for building voluntary reading volume
 - [Repeated Reading](repeated-reading.md) — a fluency technique families can be coached to use at home
+- [Summer reading programs should provide books matched to students' reading levels, encourage oral reading practice, and include scaffolding](scaffolded-summer-reading-programs.md)
 
 ## Examples
 - **Reading Is Fundamental (RIF)** — book distribution and family engagement programs ([https://www.rif.org](https://www.rif.org))

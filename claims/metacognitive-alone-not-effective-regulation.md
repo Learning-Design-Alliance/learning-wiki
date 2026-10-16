@@ -44,6 +44,7 @@ The authors' interpretation of process-mining findings: TFA groups showed high m
 
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — predictor: learners who differ on it differ in outcomes
+- [Metacognition](../learner-variables/metacognition.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [PIA groups follow a strategic generate-options-to-implement cycle with fewer random idea attempts, while TFA groups loop through repeated metacognitive interactions and unproductive idea testing](pia-strategic-cycle-tfa-random-ideas.md) — related

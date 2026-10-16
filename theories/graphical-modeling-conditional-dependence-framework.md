@@ -37,7 +37,7 @@ The article frames graphical modeling as a framework for characterizing multivar
 
 ### Claims
 
-- [Ggmnonreg Designed For Low Dimensional Data](../claims/ggmnonreg-designed-for-low-dimensional-data.md) [+M]
+- [Ggmnonreg Designed For Low Dimensional Data](../claims/ggmnonreg-designed-for-low-dimensional-data.md) [+W]
 - [Regularization-based graphical modeling has key drawbacks, including difficulty obtaining valid parameter uncertainty and inflated false positive rates](../claims/regularization-drawbacks-uncertainty-false-positives.md) [+W]
 
 ## Related Theories

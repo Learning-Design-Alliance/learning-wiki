@@ -44,6 +44,7 @@ The WWC summary of the Torgesen et al. (2006) randomized controlled trial report
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [Reading Fluency](../learner-variables/reading-fluency.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Failure Free Reading shows no discernible effects on alphabetics outcomes for beginning readers](failure-free-reading-no-discernible-effects-alphabetics.md) — related

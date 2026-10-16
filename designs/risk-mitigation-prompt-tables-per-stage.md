@@ -39,7 +39,7 @@ The taxonomy is instantiated as four tables (Tables 2-5), one per workflow stage
 - human oversight of AI-assisted workflows
 
 ### Claims
-- [Four Stage News Workflow Organisation](../claims/four-stage-news-workflow-organisation.md) [+M]
+- [Four Stage News Workflow Organisation](../claims/four-stage-news-workflow-organisation.md) [+W]
 
 ## Related Designs
 - 

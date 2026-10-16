@@ -48,3 +48,4 @@ Descriptive analysis of statewide attrition data in the Teacher Attrition sectio
 - [In 2021–22, 99.7% of Texas teacher hires replaced teachers who had left the prior year, making attrition the dominant driver of demand](texas-attrition-drives-99-7-percent-of-hires.md) — related
 - [High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages](teacher-attrition-largest-demand-driver.md) — related
 - [A statewide cohort analysis found 8% of new Texas teachers left after year 1, 26% by year 5, and 46% by year 8](texas-early-career-attrition-cohort-analysis.md) — related
+- [Teaching has a relatively high turnover rate compared to nursing and national employee turnover benchmarks](teaching-turnover-high-versus-other-occupations.md) — a broader claim this one bears on

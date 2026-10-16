@@ -18,7 +18,7 @@ sources:
 # Combine intentional and incidental vocabulary learning rather than relying on incidental learning alone
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (16 for, 3 mixed, 1 against) · 12 studies (5 quant-synthesis, 5 review, 2 causal), `q2`–`q3` · 2 of 12 report an effect size · 15 claims rest on one study
+> **Evidence** · 21 claims (16 for, 4 mixed, 1 against) · 13 studies (5 quant-synthesis, 5 review, 3 causal), `q2`–`q3` · 2 of 13 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -122,6 +122,7 @@ Every claim the earlier page cited is used in the model above. Claims found whil
 - [Reading with marginal glosses is the most beneficial task condition for incidental vocabulary acquisition gains](../claims/marginal-glosses-most-beneficial-task.md) [+M]: Xu's (2010) study of 125 ESL freshmen, four reading tasks, reported second-hand through a different review; no external aid was least efficient and marginal glosses most beneficial. It appears to be the same study as the involvement-load claim used in step 4, described with a different set of four tasks, so it is not counted as a second study.
 - [Reading and listening yield similar proportions of incidental vocabulary learning, with reading ahead only on some immediate posttests](../claims/reading-versus-listening-incidental-vocabulary-gains.md) [+S]: proportions of words learned were similar for reading and listening (17% and 15% immediately); reading had the larger effect size on first posttests only. It bears on the low-literacy row (listening as the input mode).
 - [Extensive reading improves vocabulary acquisition and spelling through repeated meaningful exposure](../claims/extensive-reading-improves-vocabulary-and-spelling.md) [+W]: a curriculum review (rigour r1) with no effect sizes; bears on step 8 in direction only.
+- [After eight encounters in reading, L2 learners recognize the form and meaning of unknown words better than they can recall their meaning](../claims/eight-encounters-form-meaning-recognition-exceed-recall.md) [~M] — attached 2026-10-16 from Pellicer-Sánchez (2016), which proposed "Design extensive reading materials so that unknown vocabulary items recur about eight times for substantial incidental learning".
 
 ## Objective and learner-valued goal
 

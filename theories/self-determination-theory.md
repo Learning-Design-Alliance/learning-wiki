@@ -17,7 +17,7 @@ sources:
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 25 claims (16 for, 9 mixed) · 27 studies (7 review, 6 associational, 4 causal, 4 theoretical, 3 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 5 of 27 report an effect size · 19 claims rest on one study
+> **Evidence** · 25 claims (16 for, 9 mixed) · 27 studies (7 review, 6 associational, 4 causal, 4 theoretical, 3 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 4 of 27 report an effect size · 19 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -56,7 +56,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 
 ## Claims
 
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S]
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M]
 - [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M]
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — process goals can support competence for novices more effectively than pressure to hit outcomes immediately
 - [Low-proficiency EFL undergraduates report feeling more competent in English tasks through ChatGPT-assisted writing feedback, conversational practice, and translation support](../claims/chatgpt-competence-experience-efl-undergraduates.md) [+W] — attached 2026-10-10 from Annamalai N et al. (2026), which proposed "AI-mediated motivational ecology: an extension of Self-Determination Theory in which basic psychological needs are partly met through AI interaction".
@@ -172,7 +172,7 @@ Self-determination theory is most useful in learning design when motivation, per
 - [Explicit Instruction](../principles/direct-instruction.md) — qualifies that structure is not the opposite of autonomy; clear guidance can support competence when it is not controlling
 
 ### Claims
-- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~S] — competence grows when goals are clear and challenging, but the motivational effect depends on learner commitment and support
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M] — competence grows when goals are clear and challenging, but the motivational effect depends on learner commitment and support
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — visible progress strengthens competence and helps learners act on goals
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — process goals can support competence for novices more effectively than pressure to hit outcomes immediately
 

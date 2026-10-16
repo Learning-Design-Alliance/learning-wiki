@@ -42,6 +42,10 @@ Conditional indirect effects from 5,000 bootstrap resamples (N = 421). Index = a
 ## Discussion
 
 
+## Learner Variables
+- [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — outcome: instruction changes it
+- [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 - [GenAI use is positively associated with university students' self-reported critical analytical skills (total effect)](genai-use-positive-association-critical-thinking-total-effect.md) — related
 - [GenAI feedback literacy mediates the association between GenAI use and critical thinking, with near-complete mediation](genai-feedback-literacy-mediation-critical-thinking.md) — related

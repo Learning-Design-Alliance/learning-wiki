@@ -60,6 +60,9 @@ One-day follow-up subsample (n=633 of n=800 recontacted). Both AI conditions "co
 
 ## Discussion
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — the general claim this finding bears on, with the studies behind it

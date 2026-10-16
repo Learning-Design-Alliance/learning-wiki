@@ -60,6 +60,9 @@ In the same RCT, Appendix A3 reports effect sizes of 0.15 for composition qualit
 
 ## Discussion
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — the general claim this finding bears on, with the studies behind it

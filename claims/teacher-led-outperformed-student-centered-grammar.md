@@ -42,5 +42,8 @@ Narrative review attribution: the article describes Zohrabi et al.'s study inves
 ## Discussion
 
 
+## Learner Variables
+- [Syntax](../learner-variables/syntax.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related

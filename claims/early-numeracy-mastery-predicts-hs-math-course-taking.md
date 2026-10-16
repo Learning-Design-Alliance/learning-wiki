@@ -42,6 +42,9 @@ The article's title and abstract state the study's central longitudinal finding:
 ## Discussion
 
 
+## Learner Variables
+- [Number Sense](../learner-variables/number-sense.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Early numeracy mastery at 54 months predicts college attendance](early-numeracy-mastery-predicts-college-attendance.md) — related
 - [Early numeracy mastery is measurable at 54 months across three competencies in a large longitudinal sample](numeracy-measurable-54-months-three-competencies.md) — related

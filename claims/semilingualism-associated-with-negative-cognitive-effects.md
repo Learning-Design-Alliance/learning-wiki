@@ -41,6 +41,9 @@ The review cites Skutnabb-Kangas and Toukomaa (1976) on semilingualism among min
 
 ## Discussion
 
+## Learner Variables
+- [Oral Language](../learner-variables/oral-language.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — the general claim this finding bears on, with the studies behind it

@@ -42,6 +42,9 @@ The article opens by establishing the well-documented discipline disparity: "Bla
 ## Discussion
 
 
+## Learner Variables
+- [Identity](../learner-variables/identity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [At racially/ethnically diverse schools, African American boys are suspended at about 13 percentage points higher rates than other students in the same school](african-american-boys-suspended-13-points-higher.md) — a narrower finding that bears on this claim
 - [Black students and students with disabilities in Maryland were suspended and expelled at more than twice the rates of other students](maryland-black-disabilities-twice-discipline-rates.md) — related

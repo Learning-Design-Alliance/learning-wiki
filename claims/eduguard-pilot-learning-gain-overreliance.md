@@ -42,6 +42,9 @@ Small controlled pilot with "a counterbalanced within-subject design"; each of 1
 ## Discussion
 
 
+## Learner Variables
+- [Metacognition](../learner-variables/metacognition.md) — outcome: instruction changes it
+
 ## Related Claims
 - [On the MathDial problem set with SymPy access, o3-mini(high) and Claude 3.5 Sonnet achieved the highest problem-solving accuracy at 90.00%](o3-mini-highest-mathdial-accuracy.md) — related
 - [A pedagogically informed Tutor Prompt yields higher Success@N and lower Telling@N than MathDial's Base Prompt in simulated tutor-student dialogues](tutor-prompt-outperforms-base-prompt-mathdial.md) — related

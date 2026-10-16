@@ -3,7 +3,7 @@ type: claim
 title: Disadvantaged students in grades 4-8 receive less-effective teaching on average than other students in the same grades
 description: Disadvantaged students in grades 4-8 receive less-effective teaching on average than other students in the same grades
 id: disadvantaged-students-receive-less-effective-teaching
-aliases: [disadvantaged-students-less-effective-teaching]
+aliases: [disadvantaged-students-less-effective-teaching, teaching-disparity-weeks-of-learning]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -32,6 +32,8 @@ sources:
 
 `q2 i?` Based on data from 29 districts and two states, disadvantaged students received less-effective teaching in a given year than other students in the same grades. [→ Jeffrey Max 2014](#jeffrey-max-2014)
 
+`q2 i?` The average disparity in teaching effectiveness was equivalent to about four weeks of learning for reading and two weeks for math. [→ Jeffrey Max 2014](#jeffrey-max-2014)
+
 ## Evidence
 
 ### Jeffrey Max 2014
@@ -56,18 +58,31 @@ The brief summarizes recent IES studies using value-added measures of teacher ef
 > "Based on data from 29 districts in grades 4-8 and two states in grades 4 and 5, disadvantaged students received less-effective teaching in a given year than other students in those grades."
 -->
 
+<!-- merged 2026-10-16 from teaching-disparity-weeks-of-learning: that page's entry for this study, which differed from the one above, kept verbatim.
+### Jeffrey Max 2014
+
+Jeffrey Max, Steven Glazerman. (2014). Do Disadvantaged Students Get Less Effective Teaching? Key Findings from Recent Institute of Education Sciences Studies (Evaluation Brief). Washington, DC: Institute of Education Sciences. https://ies.ed.gov/ncee/
+
+`q2 · i?` · `review · r?`
+
+The brief translates the value-added disparity into weeks of learning, reporting it was "equivalent to about four weeks of learning for reading and two weeks for math." These are descriptive magnitudes; no standardized effect size is printed.
+
+> "The average disparity in teaching effectiveness was equivalent to about four weeks of learning for reading and two weeks for math."
+-->
+
 ## Discussion
 
 
 
 ## Learner Variables
+
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
 
 - [Disparities in access to effective teaching between disadvantaged and non-disadvantaged students varied widely across the 29 districts studied](access-effective-teaching-varies-across-districts.md) — a narrower finding that bears on this claim
 - [Disadvantaged students in 29 study districts receive poorer-quality instruction, on average, compared with other students](disadvantaged-students-poorer-access-effective-teachers.md) — possibly the same claim (merge candidate)
-- [The average teaching-effectiveness disparity for disadvantaged students equals about four weeks of learning in reading and two weeks in math](teaching-disparity-weeks-of-learning.md) — a narrower finding that bears on this claim
 - [Teachers in districts with large fractions of disadvantaged students receive lower value-added ratings when student background characteristics are omitted](vam-omitting-background-lowers-disadvantaged-district-ratings.md) — related
 - [Effective teachers compound their advantage over consecutive years, and low-achieving students are disproportionately assigned to ineffective ones](teacher-effectiveness-compounds-over-consecutive-years.md) — related
 - [Teacher value-added estimates are highly correlated across model specifications that differ in student and peer control variables](vam-estimates-highly-correlated-across-specifications.md) — related
+- [One year of teaching-effectiveness differences is estimated to represent 4 percent of the existing reading achievement gap and 2 to 3 percent of the math gap](teaching-effectiveness-disparity-small-share-of-achievement-gap.md) — related

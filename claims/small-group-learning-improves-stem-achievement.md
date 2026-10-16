@@ -83,3 +83,5 @@ A meta-analysis of research on undergraduate science, mathematics, engineering, 
 - [Groups of high-performing students often fail problem-solving tasks when they do not collaborate, showing why collaborative skills need assessment and feedback](high-performing-groups-fail-without-collaboration.md) — a narrower finding that bears on this claim
 - Meta-analytic studies show moderate to large effect sizes for collaborative learning on both achievement and attitudes — related
 - [Large group size (4-5 members) limited individual participation and may have inflated self-assessed confidence](large-group-size-limited-participation-confidence.md) — a narrower finding that bears on this claim
+- [Cooperative concept mapping produces better meaningful learning than individualistic concept mapping](cooperative-concept-mapping-better-than-individual.md) — a narrower finding that bears on this claim
+- [Perceived collaboration among peers positively predicts academic engagement, but competitive climates can undercut collaboration](peer-collaboration-predicts-engagement.md) — related

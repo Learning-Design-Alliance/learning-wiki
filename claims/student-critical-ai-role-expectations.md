@@ -90,3 +90,4 @@ Critical-reflection items of the post-course questionnaire (n=29 respondents). S
 - [Reflection with AI as a cognitive partner demands time and cognitive effort, countering concerns that students use AI merely to outsource cognitive tasks](ai-reflection-demands-effort-counters-outsourcing.md) — related
 - [Teachers use ChatGPT for personal and professional learning and resource generation, while students use it as a personal tutor for various learning purposes.](chatgpt-teacher-resource-generation-student-personal-tutor.md) — related
 - [Most students favour allowing ChatGPT in assessments if tasks require original thinking or guidance is provided](students-favor-guided-chatgpt-allowed-assessments.md) — related
+- [Students reported that ChatGPT enhanced engagement, comprehension, problem-solving, and perceived relevance in Quantum Theory](chatgpt-qualitative-engagement-comprehension-quantum.md) — related

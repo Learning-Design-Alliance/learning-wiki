@@ -19,7 +19,7 @@ This strategy reframes screen time from a competing sedentary activity into a ve
 
 ## Design Implications
 
-The strategy rests on two findings: physical activity supports attention and readiness to learn [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M], and active video games (exergames) reliably increase light-to-moderate energy expenditure compared with sedentary play, though they typically do not replace the intensity of real sport [+M]. Because displacement — screens crowding out sleep and activity — is the main risk, the design problem is scheduling and substitution, not prohibition.
+The strategy rests on two findings: physical activity supports attention and readiness to learn [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M], and active video games (exergames) reliably increase light-to-moderate energy expenditure compared with sedentary play, though they typically do not replace the intensity of real sport [+M]. Because displacement — screens crowding out sleep and activity — is the main risk, the design problem is scheduling and substitution, not prohibition.
 
 ### Context
 #### Requirements

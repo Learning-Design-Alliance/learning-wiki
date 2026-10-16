@@ -127,3 +127,4 @@ Do not conflate example→problem pairs with completion problems: the latter omi
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [Alternating example-practice pairs produce faster and more accurate near-transfer solutions than blocked presentation of examples followed by practice](alternating-example-problem-pairs.md) — related
 - [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](expertise-reversal-effect-definition.md) — related
+- [Example–problem pairs and examples-only are more effective than problem–example pairs for novices, with no significant difference between the first two](example-problem-ordering-novices.md) — possibly the same claim (merge candidate)

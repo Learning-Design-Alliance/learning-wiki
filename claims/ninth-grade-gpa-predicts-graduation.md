@@ -67,3 +67,4 @@ Observational analysis of CPS administrative data (2009-11 cohorts) using models
 - [Course grades are more predictive than standardized test scores of high school and college success](grades-more-predictive-than-test-scores.md) — related
 - Attending a high school with higher social-emotional value-added increases students' likelihood of graduating and enrolling in a four-year college — related
 - [Prediction and intervention are different problems: highly predictive features such as prior GPA are often ones an institution cannot change](prediction-versus-causal-intervention-distinction.md) — related
+- [A course whose DFW grades produced no expected persistence drop suggests some courses may act as guardrails associated with retained persistence after failure](guardrail-courses-attenuate-persistence-drop-after-dfw.md) — related

@@ -128,3 +128,4 @@ Open questions include how effects scale in online and hybrid settings, where in
 - Meta-analytic studies show moderate to large effect sizes for collaborative learning on both achievement and attitudes — related
 - [The LI(A)RA project produced competitive, scholarly, and educational outcomes that validated the framework's practices](liara-outcomes-validate-framework.md) — related
 - [Classroom research primarily supports the motivational perspective on cooperative learning effects](classroom-research-supports-motivational-perspective.md) — related
+- [Cooperative concept mapping produces better meaningful learning than individualistic concept mapping](cooperative-concept-mapping-better-than-individual.md) — a narrower finding that bears on this claim

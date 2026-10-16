@@ -12,7 +12,7 @@ sources:
   - id: lu-y-2026
     title: Lu Y 2026
     q: 2
-    i: 3
+    i: "?"
     kind: associational
     rigour: 2
   - id: lu-y-2026-2
@@ -26,10 +26,10 @@ sources:
 # GenAI feedback perceptions, pronunciation self-efficacy, and WTC are all positively intercorrelated, and learners report positive feedback perceptions and moderate self-efficacy and WTC
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 associational `r2` · `q2` · `i3` large
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
-`q2 i3` Pearson correlations among the three constructs are significant and positive (r = 0.562–0.739). [→ Lu Y 2026](#lu-y-2026)
+`q2 i?` Pearson correlations among the three constructs are significant and positive (r = 0.562–0.739). [→ Lu Y 2026](#lu-y-2026)
 `q2 i?` Participants reported positive perceptions of GenAI feedback (M = 4.13) and moderate EPSE (M = 3.75) and WTC (M = 3.77). [→ Lu Y 2026 (2)](#lu-y-2026-2)
 
 ## Evidence
@@ -38,7 +38,7 @@ sources:
 
 Lu Y, Yang Y, Cui T, Yang Z, Cai Y and Jing B (2026) Associations between generative AI–based pronunciation feedback and willingness to communicate in English: the mediating role of English pronunciation self-efficacy. Front. Psychol. 17:1918980. https://doi.org/10.3389/fpsyg.2026.1918980
 
-`q2 · i3` · `associational · r2`
+`q2 · i?` · `associational · r2`
 
 Preliminary Pearson product–moment correlation analysis in the same survey of 1,701 Chinese EFL learners. All bivariate associations among GenAI feedback, EPSE, and WTC were significant, "r = 0.562–0.739, p < 0.01".
 

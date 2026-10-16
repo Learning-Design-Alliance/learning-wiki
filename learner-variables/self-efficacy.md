@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 100 claims (79 show a difference, 13 mixed, 8 no difference) · 86 studies (37 associational, 12 causal, 12 review, 12 qualitative, 8 design, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 12 of 86 report an effect size · 97 claims rest on one study
+> **Evidence** · 99 claims (78 show a difference, 13 mixed, 8 no difference) · 85 studies (36 associational, 12 causal, 12 review, 12 qualitative, 8 design, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 10 of 85 report an effect size · 96 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -100,8 +100,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Qualitative findings: ease of use supports engagement and confidence, but challenge must be tailored to ability and content must be culturally relatable](../claims/koku-qualitative-acceptability-themes.md) [~W] — instruction changes it
 - [Self-efficacy and learning motivation serially mediate the link from AIGC affordance to self-regulated learning](../claims/serial-mediation-affordance-efficacy-motivation-srl.md) [+M] — learners who differ on it differ in outcomes
 - [Self-efficacy correlates positively with conceptual understanding in both flipped classroom methods](../claims/self-efficacy-correlates-conceptual-understanding.md) [+M] — learners who differ on it differ in outcomes
-- [Self-efficacy is related to the achievement gap for English Language Learners](../claims/self-efficacy-related-ell-achievement-gap.md) [+W] — learners who differ on it differ in outcomes
-- [Self-efficacy is related to the persistence of achievement gaps for English Language Learners](../claims/self-efficacy-related-to-persistence-of-ell-achievement-gaps.md) [+W] — learners who differ on it differ in outcomes
+- [Self-efficacy is related to the achievement gap for English Language Learners](../claims/self-efficacy-related-to-persistence-of-ell-achievement-gaps.md) [+W] — learners who differ on it differ in outcomes
 - [Self-efficacy negatively correlates with cheating, but actual ability does not inversely correlate with dishonesty](../claims/self-efficacy-negative-ability-not-correlated-cheating.md) [+M] — learners who differ on it differ in outcomes
 - [Self-efficacy predicts cluster membership, with the article concluding self-efficacy may play a foundational role in the cluster difference](../claims/self-efficacy-predicts-cluster-membership.md) [+W] — learners who differ on it differ in outcomes
 - [Social-emotional factors, including low academic self-efficacy and self-management, are related to rapid guessing behavior](../claims/sel-factors-related-to-rapid-guessing.md) [+W] — learners who differ on it differ in outcomes

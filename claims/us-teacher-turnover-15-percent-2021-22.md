@@ -74,3 +74,4 @@ Historical descriptive comparison of NCES turnover rates over time (Figure 3). T
 - [Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover](alternative-certification-pathway-turnover-teachers-of-color.md) — related
 - Louisiana teachers of color report working conditions, not salary, as primary reasons for leaving high-need schools — related
 - [Texas teacher attrition has exceeded the national average by about 25% over the past decade, reaching nearly 12% in 2021–22](texas-attrition-above-national-average.md) — related
+- [Teaching has a relatively high turnover rate compared to nursing and national employee turnover benchmarks](teaching-turnover-high-versus-other-occupations.md) — related

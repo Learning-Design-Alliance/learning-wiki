@@ -42,6 +42,9 @@ The report's synthesis of two research reviews covering more than 400 studies co
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [A more positive school climate is related to improved academic achievement beyond socioeconomic status](positive-school-climate-linked-achievement.md) — a narrower finding that bears on this claim
 - [Community schools are associated with positive student outcomes including reduced absenteeism, improved academics, and more positive school climates](community-schools-positive-outcomes.md) — related

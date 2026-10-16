@@ -19,7 +19,7 @@ Reader's Theater is a strategy that combines reading practice and performing by 
 
 ## Design Implications
 
-Reader's Theater converts repeated oral reading — one of the best-supported fluency interventions — into a motivating, authentic performance task [Repetitive oral reading practice improves fluency outcomes.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. The performance purpose gives rereading a genuine audience and goal, which sustains engagement across the multiple passes a script requires, and expressive interpretation forces attention to syntax, punctuation, and meaning rather than word-calling alone.
+Reader's Theater converts repeated oral reading — one of the best-supported fluency interventions — into a motivating, authentic performance task [Repetitive oral reading practice improves fluency outcomes.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. The performance purpose gives rereading a genuine audience and goal, which sustains engagement across the multiple passes a script requires, and expressive interpretation forces attention to syntax, punctuation, and meaning rather than word-calling alone.
 
 ### Context
 #### Requirements
@@ -40,7 +40,7 @@ Reader's Theater converts repeated oral reading — one of the best-supported fl
 - Variants include radio reading (voices only), whole-class choral sections, and small-group stations; in second-language contexts it doubles as prosody and listening practice
 
 ### Target Learners
-- Developing readers in grades 2–6 who have decoding in place but read word-by-word without expression [Repetitive oral reading practice improves fluency outcomes.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Developing readers in grades 2–6 who have decoding in place but read word-by-word without expression [Repetitive oral reading practice improves fluency outcomes.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Reluctant readers, who benefit from the purpose and social energy of performance rather than isolated drill
 - Struggling readers and students with reading difficulties, when scripts are adapted to their levels and participation is structured for safety
 - English learners, for whom expressive oral reading builds prosody and listening comprehension [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-language-outcomes.md) [+M]

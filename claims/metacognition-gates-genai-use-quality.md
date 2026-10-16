@@ -44,6 +44,7 @@ Narrative review attribution within the metacognition construct cluster: the rev
 
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+- [Metacognition](../learner-variables/metacognition.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — related

@@ -187,7 +187,7 @@ Morphological analysis converts vocabulary learning from item-by-item memorizati
 
 ### Target Learning Goals
 - Vocabulary breadth and depth: inferring meanings of unfamiliar words independently
-- Word recognition fluency: faster recognition of polymorphemic words frees resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Word recognition fluency: faster recognition of polymorphemic words frees resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Spelling and encoding: morphological spelling patterns (*hoping* vs. *hopping*)
 - Disciplinary literacy: decoding the Greek/Latin register of science and technical texts
 

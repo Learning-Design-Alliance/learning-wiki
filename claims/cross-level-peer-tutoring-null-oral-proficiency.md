@@ -42,6 +42,9 @@ Randomized controlled trial of 42 Spanish-speaking migrant students in grades 3�
 ## Discussion
 
 
+## Learner Variables
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md) — a broader claim this one bears on
 - [Peer pairing increases English learners' peer-directed language behavior but shows no significant effect on listening comprehension or teacher-directed language (Jun-Aust, 1985)](peer-pairing-language-behavior-jun-aust.md) — related

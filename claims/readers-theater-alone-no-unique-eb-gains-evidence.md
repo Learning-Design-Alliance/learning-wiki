@@ -41,6 +41,7 @@ The review's own synthesis of the three RT studies (Tsou 2011; Young & Rasinski 
 
 ## Learner Variables
 - [English-Learner Status](../learner-variables/english-learner-status.md) — moderator: an instructional effect differs with it
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
 
 ## Related Claims
 

@@ -42,6 +42,9 @@ HLM analysis of 1997 Consortium survey and ITBS data from 28,318 sixth and eight
 ## Discussion
 
 
+## Learner Variables
+- [Social Supports](../learner-variables/social-supports.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [School academic press is positively related to school-average reading and math achievement gains in Chicago middle grades](academic-press-positive-achievement-gains-chicago.md) — related
 - [Chicago students gain most in achievement when strong academic press and strong social support occur together, and learn less when either is strong and the other weak](press-plus-support-combined-gains.md) — related

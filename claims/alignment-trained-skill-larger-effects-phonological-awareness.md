@@ -41,6 +41,9 @@ A footnote observation by the WWC across the O'Connor et al. and Slocum et al. s
 
 ## Discussion
 
+## Learner Variables
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [ITS evaluation results depend strongly on test type: effects are large on locally developed tests (ES = 0.73) and small on standardized tests (ES = 0.13)](test-type-moderates-its-effects.md) — the general claim this finding bears on, with the studies behind it

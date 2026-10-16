@@ -42,6 +42,10 @@ Structural equation modeling of survey data from 533 Ghanaian university student
 ## Discussion
 
 
+## Learner Variables
+- [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — outcome: instruction changes it
+- [Problem Solving](../learner-variables/problem-solving.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Cognitive offloading tendency is negatively associated with critical thinking, technical problem-solving, and metacognitive self-regulation](cognitive-offloading-negative-higher-order-outcomes.md) — related
 - [AI verification literacy does not directly predict critical thinking or technical problem-solving](ai-verification-literacy-no-direct-effect.md) — related

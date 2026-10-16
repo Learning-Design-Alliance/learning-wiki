@@ -42,6 +42,9 @@ Descriptive statistics of test scores in the norming sample by school year, grad
 ## Discussion
 
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
+
 ## Related Claims
 - [MAP Reading Fluency administered at scale, with 407,964 students receiving Foundational Skills scores and 277,920 receiving Oral Reading Fluency scores in 2020–2021](map-rf-2020-21-operational-scale.md) — related
 - [EISA-based MAP Growth testing produced slightly lower fall Mathematics scores but higher winter and spring Mathematics scores than traditional MAP Growth, and equipercentile linking was used to align the two versions for norming](eisa-fall-math-dip-winter-spring-higher-equipercentile-linking.md) — related

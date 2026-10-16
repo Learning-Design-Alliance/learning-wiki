@@ -42,6 +42,9 @@ Randomized controlled trial (Huffstetter, 2005) reviewed by the WWC: 62 four-yea
 ## Discussion
 
 
+## Learner Variables
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Headsprout Early Reading has a statistically significant positive effect on the print knowledge of at-risk preschool children](headsprout-positive-print-knowledge-preschool.md) — related
 - [Literacy Express has positive effects on oral language for preschool children, with significant effects in two of three studies](literacy-express-positive-oral-language.md) — related

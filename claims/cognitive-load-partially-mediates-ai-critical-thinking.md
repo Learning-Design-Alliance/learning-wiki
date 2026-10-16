@@ -40,6 +40,9 @@ PROCESS Model 14 mediation analysis with bias-corrected bootstrap confidence int
 ## Discussion
 
 
+## Learner Variables
+- [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 - [AI-based educational technology use is positively associated with critical thinking among undergraduate medical students](ai-use-positively-associated-critical-thinking-medical-students.md) — related
 - [Cognitive load is negatively associated with critical thinking and with self-regulated learning](cognitive-load-negatively-associated-critical-thinking.md) — related

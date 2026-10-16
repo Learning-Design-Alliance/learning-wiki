@@ -37,7 +37,7 @@ Socio-stylistics of writing is Donald Rubin's concept, introduced in Composing S
 - rhetorical versatility across academic and professional settings
 
 ### Claims
-- [Style Teaching Reclaimed For Critical Pedagogy](../claims/style-teaching-reclaimed-for-critical-pedagogy.md) [+M]
+- [Style Teaching Reclaimed For Critical Pedagogy](../claims/style-teaching-reclaimed-for-critical-pedagogy.md) [+W]
 
 ## Related Theories
 

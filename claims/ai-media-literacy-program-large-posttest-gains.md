@@ -41,6 +41,9 @@ Between-group post-test comparison (Table 5) of the quasi-experimental pre-test�
 
 ## Discussion
 
+## Learner Variables
+- [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [AI literacy interventions show a large, statistically significant overall positive effect on student AI literacy outcomes (g = 0.837)](ai-literacy-interventions-large-overall-effect.md) — the general claim this finding bears on, with the studies behind it
@@ -51,3 +54,4 @@ Between-group post-test comparison (Table 5) of the quasi-experimental pre-test�
 - [Structured AI-supported writing instruction produced a large posttest writing proficiency advantage over traditional instruction in Saudi EFL undergraduates](structured-ai-workflow-writing-gains-efl.md) — related
 - [Structured AI-supported writing instruction produced a very large posttest advantage in digital critical thinking/AI literacy (DCTS) over traditional instruction](structured-ai-workflow-dcts-gains-efl.md) — related
 - Students using Imagine Language & Literacy in Texas grades 4-5 showed significantly greater improvement in reading skills than non-using students (ES +0.18) — related
+- [AI-mediated language instruction produces significantly greater English learning achievement gains than traditional instruction among EFL learners](ai-instruction-greater-efl-achievement-gains.md) — related

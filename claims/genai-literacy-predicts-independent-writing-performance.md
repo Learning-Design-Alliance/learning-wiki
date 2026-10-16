@@ -42,6 +42,9 @@ Ordinal logistic regression on 79 participants' AI-removal task scores, controll
 ## Discussion
 
 
+## Learner Variables
+- [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Performance during the AI-supported task consistently predicted performance on the subsequent AI-removal task across all writing dimensions](ai-support-performance-continuity-to-independent-performance.md) — related
 - [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](gpt4-access-harms-learning-after-withdrawal.md) — related

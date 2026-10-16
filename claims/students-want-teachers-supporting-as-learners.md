@@ -61,6 +61,9 @@ The brief reports that monitoring and support decline in the high school transit
 ## Discussion
 
 
+## Learner Variables
+- [Social Supports](../learner-variables/social-supports.md) — outcome: instruction changes it
+
 ## Related Claims
 - [At Foxglove, the principal and coaches give teachers feedback on every assignment they share, alongside regular five-week progress reviews](foxglove-assignment-feedback-and-progress-reviews.md) — related
 - [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — related

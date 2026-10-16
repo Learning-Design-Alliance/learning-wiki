@@ -67,6 +67,9 @@ Twenty-eight 10- and 11-year-olds in one mixed-ability class were all trained in
 
 **Open questions.** Whether quality gains persist when students subsequently write alone (transfer of collaborative skills to independent writing) rests here on one small randomised study in a single class (Yarrow and Topping 2001), and the relative contribution of co-planning versus co-revising is not established. The meta-analytic result pools only seven comparisons, so more studies would strengthen the claim.
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it

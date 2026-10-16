@@ -65,6 +65,8 @@ Lyster and Saito (2010), a meta-analysis of 15 classroom studies, supports recas
 
 ## Learner Variables
 - [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — moderator: an instructional effect differs with it
+- [Oral Language](../learner-variables/oral-language.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 

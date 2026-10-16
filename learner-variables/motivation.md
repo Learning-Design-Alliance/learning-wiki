@@ -12,10 +12,16 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 148 claims (103 show a difference, 30 mixed, 15 no difference) · 127 studies (38 associational, 35 causal, 20 review, 10 qualitative, 10 theoretical, 8 quant-synthesis, 6 design), `q1`–`q4` · 27 of 127 report an effect size · 139 claims rest on one study
+> **Evidence** · 150 claims (103 show a difference, 30 mixed, 15 no difference, 2 unmarked) · 128 studies (38 associational, 35 causal, 21 review, 10 qualitative, 10 theoretical, 8 quant-synthesis, 6 design), `q1`–`q4` · 26 of 128 report an effect size · 141 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
+
+## How strongly it relates to achievement
+
+**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
+
+- Mastery goals **r = .17**, performance-avoidance goals **−.17**, enjoyment **.31**, need for cognition **.25** (see [achievement goal orientation](achievement-goal-orientation.md)). [Claim](../claims/mastery-goals-correlate-positively-and-avoidance-goals-negatively-with-math-achievement.md)
 
 ## Implications
 

@@ -42,6 +42,9 @@ Null regression finding for irregular past tense: SRT coefficients were non-sign
 ## Discussion
 
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Declarative memory shows no association with regular past tense learning under any CF type](declarative-memory-null-regular-past-tense.md) — related
 - [Declarative memory predicts immediate UGJT posttest gains for irregular past tense only under recasts](declarative-memory-predicts-irregular-past-ugjt-recasts.md) — related

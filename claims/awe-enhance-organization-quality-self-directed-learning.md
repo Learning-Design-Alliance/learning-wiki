@@ -43,6 +43,9 @@ Thematic synthesis within the same systematic review of 50 empirical studies (20
 ## Discussion
 
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [AWE tools such as Grammarly, Quillbot and DeepL Write significantly improve writing precision, fluency and grammatical proficiency through immediate and customized feedback](awe-improve-precision-fluency-grammatical-proficiency.md) — related
 - [AWE feedback has limited depth and questionable accuracy for evaluating complex writing aspects](awe-limited-feedback-depth-accuracy-complex-writing.md) — related

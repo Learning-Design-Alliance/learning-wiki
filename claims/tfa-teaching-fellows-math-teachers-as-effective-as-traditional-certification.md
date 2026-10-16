@@ -56,3 +56,4 @@ A large-scale random assignment study of secondary school math teachers compared
 - [Secondary math students taught by Teaching Fellows teachers had test scores similar to peers taught by traditional-route teachers](teaching-fellows-secondary-math-similar-traditional.md) — possibly the same claim (merge candidate)
 - Within-school random assignment studies such as the TFA evaluation are challenging but may be feasible and generate useful evidence — related
 - The authors propose creating America's Teacher Corps through federal legislation to recognize highly effective K-12 public school teachers — related
+- [Students of TFA teachers did not perform significantly differently from students of other under-certified teachers](tfa-no-different-other-undercertified.md) — related

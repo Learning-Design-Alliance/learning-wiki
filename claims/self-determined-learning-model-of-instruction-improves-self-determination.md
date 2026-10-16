@@ -66,3 +66,6 @@ A further measurement caveat: self-determination is typically assessed via self-
 - Three options exist for setting IEP goals: end-of-year benchmarks, intra-individual framework, and national norms — related
 - [More effective programs targeted teachers, trainees, and individuals with an autonomy causality orientation](recipient-moderators-teachers-trainees-autonomy-orientation.md) — related
 - [Young children ages 5-6 can set learning goals and use the Self-Determined Learning Model of Instruction to achieve them](young-children-set-goals-sdlmi-achieve.md) — related
+- [Middle school students with intellectual disabilities taught problem-solving or study planning skills showed significantly more capacity on the targeted skill than students in the alternating control group](self-determination-instruction-increased-targeted-skill-capacity.md) — related
+- [All students in the self-determination skill intervention achieved their goals at better than average levels](students-achieved-goals-better-than-average.md) — related
+- [All four students achieved above the performance levels teachers expected on the Goal Attainment Scale, exceeding their personal goals by 10% to 20%](students-exceeded-teacher-gas-expectations.md) — related

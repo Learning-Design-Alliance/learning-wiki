@@ -13,7 +13,7 @@ generated:
 # Reciprocal Teaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 11 studies (3 quant-synthesis, 3 associational, 2 causal, 2 review, 1 theoretical), `q2`–`q4` · 2 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies (3 quant-synthesis, 2 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 2 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Reciprocal Teaching is a structured small-group procedure in which learners take turns acting as the discussion leader, applying four comprehension strategies — predicting, questioning, clarifying, and summarizing — to shared text or content. The teacher initially models the strategies, then gradually hands the "teacher" role to students, who guide the dialogue while peers respond and contribute.
@@ -53,7 +53,6 @@ Reciprocal Teaching improves comprehension by making strategic reading processes
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [The RT propensity–learning relationship is strongest early in the class session and attenuates later](../claims/rt-learning-relationship-strongest-early-session.md) [~M]
 
 ## The evidence by question
 
@@ -75,7 +74,7 @@ Reciprocal Teaching improves comprehension by making strategic reading processes
 
 ## Examples
 
-**[Palincsar & Brown's original intervention](https://doi.org/10.1207/s1532690xci0202_1)** — Seventh-grade poor comprehenders improved from ~30% to 70–80% on comprehension assessments after 20 days of daily reciprocal teaching sessions; the benchmark design for all later implementations.
+**[Palincsar & Brown's original intervention](https://doi.org/10.1207/s1532690xci0102_1)** — Seventh-grade poor comprehenders improved from ~30% to 70–80% on comprehension assessments after 20 days of daily reciprocal teaching sessions; the benchmark design for all later implementations.
 
 **[Reciprocal Teaching in Reading Rockets](https://www.readingrockets.org/topics/comprehension/articles/reciprocal-teaching-comprehension-strategy)** — Widely used practitioner guide with classroom routines, role cards, and fading schedules for elementary and middle school.
 

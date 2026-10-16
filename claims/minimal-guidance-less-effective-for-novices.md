@@ -70,17 +70,6 @@ Two random-effects meta-analyses drew on 164 studies. The first pooled 580 compa
 
 Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? *Journal of Educational Psychology, 103*(1), 1–18. [doi:10.1037/a0021017](https://doi.org/10.1037/a0021017)
 
-`q4 · meta-analysis` · `i1 · small effect, d=0.38 favouring explicit instruction over unassisted discovery` · `n=164 studies` · `quant-synthesis · r?`
-
-Two random-effects meta-analyses drew on 164 studies. The first pooled 580 comparisons of unassisted discovery learning against explicit instruction, and outcomes favoured explicit instruction under most conditions (d = −0.38, negative meaning discovery did worse; the abstract prints the 95% CI as [–.44, .31], and the upper bound's missing minus sign is almost certainly a typesetting slip). The second pooled 360 comparisons of enhanced or assisted discovery against other instruction, and found that enhanced discovery came out ahead (d = 0.30, 95% CI [.23, .36]). Together these support the claim for *unguided* discovery. They also qualify it: guided forms of discovery ([feedback](../elements/feedback.md), [worked examples](../elements/demonstration.md), scaffolding, elicited explanations) were beneficial. The abstract does not break results down by learners' prior knowledge.
-- ->
--->
-
-<!-- merged 2026-10-15 from guided-discovery-outperforms-pure-discovery: that page's entry for this study, which differed from the one above, kept verbatim.
-### Alfieri et al. 2011
-
-Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? *Journal of Educational Psychology, 103*(1), 1–18. [doi:10.1037/a0021017](https://doi.org/10.1037/a0021017)
-
 `q4 · meta-analysis` · `i1 · small effect, d=0.38 favouring explicit instruction over unassisted discovery` · `n=164 studies` · `quant-synthesis · r2`
 
 Two random-effects meta-analyses drew on 164 studies. The first pooled 580 comparisons of unassisted discovery learning against explicit instruction, and outcomes favoured explicit instruction under most conditions (d = −0.38, negative meaning discovery did worse; the abstract prints the 95% CI as [–.44, .31], and the upper bound's missing minus sign is almost certainly a typesetting slip). The second pooled 360 comparisons of enhanced or assisted discovery against other instruction, and found that enhanced discovery came out ahead (d = 0.30, 95% CI [.23, .36]). Together these support the claim for *unguided* discovery. They also qualify it: guided forms of discovery ([feedback](../elements/feedback.md), [worked examples](../elements/demonstration.md), scaffolding, elicited explanations) were beneficial. The abstract does not break results down by learners' prior knowledge.
@@ -119,18 +108,6 @@ In this experiment, 112 third- and fourth-grade children, who were novices at th
 - ->
 -->
 
-<!-- merged 2026-10-15 from guided-discovery-outperforms-pure-discovery: that page's entry for this study, which differed from the one above, kept verbatim.
-### Klahr & Nigam 2004
-
-Klahr, D., & Nigam, M. (2004). The equivalence of learning paths in early science instruction. *Psychological Science, 15*(10), 661–667. [doi:10.1111/j.0956-7976.2004.00737.x](https://doi.org/10.1111/j.0956-7976.2004.00737.x)
-
-`q3 · peer-reviewed experiment` · `i? · no effect size in the abstract read` · `n=112 children` · `causal · r?`
-
-In this experiment, 112 third- and fourth-grade children, who were novices at the control-of-variables strategy for experimental design, learned it either by discovery or by [direct instruction](../patterns/direct-instruction.md). Many more children mastered the procedure under direct instruction. On a later transfer task that asked them to evaluate science-fair posters, children taught directly performed as well as the few who had discovered the method on their own. This challenges the assumption that self-discovered knowledge transfers better.
-
-<!- - merged 2026-10-05 from guided-inquiry-outperforms-pure-discovery: that page's entry for this study, which differed from the one above and was dropped when the pages were merged; restored verbatim.
--->
-
 ### Kirschner et al. 2006
 
 Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. *Educational Psychologist, 41*(2), 75–86. [doi:10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1)
@@ -150,7 +127,7 @@ This narrative review builds its case on human cognitive architecture, expert–
 | [Klahr & Nigam 2004](https://doi.org/10.1111/j.0956-7976.2004.00737.x) | q3 · causal · r? | i? | this claim |
 | [Kirschner et al. 2006](https://doi.org/10.1207/s15326985ep4102_1) | q1 / q2 · review · r? | i? | this claim; [Minimally guided instruction is less effective and less efficient than instruction that pl](minimally-guided-instruction-less-effective-than-strong-guidance.md) (supports); [Unguided or minimally guided instructional approaches are popular and intuitively appealin](minimally-guided-approaches-ignore-cognitive-architecture.md) (supports); [The advantage of guidance begins to recede only when learners have sufficiently high prior](guidance-advantage-recedes-with-high-prior-knowledge.md) (qualifies); [Recent developments in instructional research and instructional design models support guid](recent-design-models-support-guidance-during-instruction.md) (supports) |
 | [Manu Kapur 2016](https://doi.org/10.1080/00461520.2016.1155457) | q2 / q3 · theoretical · r3 | i? | [Guided discovery outperformed both unguided discovery and direct instruction in classic st](guided-discovery-outperformed-both-extremes.md) (supports); [Guidance during initial problem solving does not translate into better learning from subse](initial-guidance-does-not-improve-learning-from-instruction.md) (qualifies) |
-| [Lazonder 2016](https://doi.org/10.3102/0034654315627366) | q2 · quant-synthesis · r3 | i1; i2 | [Minimally guided or unguided inquiry is less effective than explicit instruction, while ad](minimal-guidance-inquiry-inferior-explicit-instruction.md) (supports); [Supplementing simulation-based inquiry with learner guidance has a modest effect on learni](simulation-guidance-moderate-effect-dangelo.md) (supports) |
+| [Lazonder 2016](https://doi.org/10.3102/0034654315627366) | q2 · quant-synthesis · r3 | i1; i2 | [Minimally guided or unguided inquiry is less effective than explicit instruction, while ad](minimal-guidance-inquiry-inferior-explicit-instruction.md) (supports); [Supplementing simulation-based inquiry with learner guidance has a modest effect on learni](guidance-improves-inquiry-learning-outcomes.md) (supports) |
 | [Pratt and Savoy-Levine 1998](<https://doi.org/10.1016/s0193-3973(99)80041-0>) | q3 · causal · r? | i? | [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) (supports) |
 | [Chi et al. 2001](https://doi.org/10.1207/s15516709cog2504_1) | q2 · causal · r1 | i? | [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) (supports) |
 | [Swanson and Lussier 2001](https://doi.org/10.3102/00346543071002321) | q4 · quant-synthesis · r? | i? | [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) (supports) |
@@ -318,3 +295,7 @@ This claim does not imply that pure discovery is useless or that direct telling 
 - [Formal theory offers advantages over common sense for guiding implementation, but empirical evidence of effectiveness is lacking](formal-theory-advantages-over-common-sense.md) — related
 - [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](expertise-reversal-effect-definition.md) — related
 - [Self-explanation beats unguided studying for equal time, but instructional explanations, problem solving and retrieval practice can be equally or more effective](instructional-explanations-sometimes-equal-or-better-than-self-explanation.md) — related
+- [For circle geometry problems, guidance in the form of subgoals or worked examples increased cognitive load during problem processing (Experiments 1-3)](guidance-subgoals-worked-examples-increase-cognitive-load-geometry.md) — related
+- [Studies comparing pure simulation-based discovery learning with expository teaching show no clear and univocal outcome in favor of simulations](no-clear-simulation-advantage-over-expository.md) — related
+- [Structuring the discovery process can outperform unstructured environments, but effects depend on learner characteristics and the knowledge test used](structuring-discovery-process-effects.md) — a narrower finding that bears on this claim
+- [Studying worked examples is more effective and more efficient than problem solving for novice learners (the worked example effect)](worked-example-effect-novices-review.md) — a narrower finding that bears on this claim

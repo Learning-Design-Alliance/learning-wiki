@@ -42,6 +42,9 @@ Descriptive CHKS tabulations of school safety measures by gender identity and sc
 ## Discussion
 
 
+## Learner Variables
+- [Identity](../learner-variables/identity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Disparities are not uniform: some gender- and sexual-minority groups report equal or better school experiences than majority peers (e.g., Black transgender students, Cambodian gay/lesbian students)](lgbtq-disparities-vary-with-exceptions-by-group.md) — related
 - [Transgender, gay/lesbian, bisexual, and 'something else' students report significantly poorer outcomes than non-transgender and straight peers on all 14 measures](lgbtq-subgroups-poorer-all-14-measures.md) — a broader claim this one bears on

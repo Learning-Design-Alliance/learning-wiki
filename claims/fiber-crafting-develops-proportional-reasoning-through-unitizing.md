@@ -46,6 +46,9 @@ Seventeen youth (ages 9-12) attended a 3-day, 4-hours-per-day summer camp in whi
 ## Discussion
 This is a small, purposive case study (3 focal youth from a 17-participant camp) with no pre/post assessment and no control condition; the authors explicitly frame it as demonstrating feasibility and mechanism ("possibilities for engaging deeply... in preparation for future work") rather than a tested intervention. All three examples come from a single camp implementation designed collaboratively with adult crafters and mathematicians specifically to elicit these mathematical relationships, so the craft activities themselves were engineered for this outcome — not naturally-occurring fiber-craft instruction. Generalization to typical craft instruction, larger cohorts, or different demographic contexts (the camp population and setting are not detailed in demographic terms) is untested.
 
+## Learner Variables
+- [Proportional Reasoning](../learner-variables/proportional-reasoning.md) — outcome: instruction changes it
+
 ## Related Claims
 - (none yet linked)
 - Teachers adapt TEFA to their own terms and contexts, with learning trajectories that are personal and idiosyncratic — related

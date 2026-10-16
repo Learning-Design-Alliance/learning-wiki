@@ -1,0 +1,57 @@
+---
+type: learner-variable
+id: personality-traits
+title: Personality Traits
+description: "A learner's characteristic patterns of thinking, feeling and behaving, usually described by the Big Five: conscientiousness, openness, agreeableness, extraversion and neuroticism."
+status: review
+generated:
+  by: claude/unspecified
+  at: 2026-10-16
+---
+
+# Personality Traits
+
+> **Learner Variable** · [All learner variables](index.md)
+> **Evidence** · 14 claims (6 show a difference, 2 mixed, 4 no difference, 2 unmarked) · 7 studies (3 review, 2 causal, 2 associational), `q2`–`q3` · 3 of 7 report an effect size · 14 claims rest on one study
+
+## Description
+Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
+
+## How strongly it relates to achievement
+
+**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
+
+- Conscientiousness **r = .22**, openness **.13**, agreeableness **.01**, extraversion **−.02**, neuroticism **−.09**. [Claim](../claims/big-five-traits-correlate-weakly-with-math-achievement.md)
+
+## Implications
+
+### Context
+- Self-paced and online formats place more weight on conscientiousness-related behaviour, such as planning and keeping to a schedule.
+
+### Target Learners
+- Learners who struggle with planning and persistence.
+
+### Target Learning Objectives
+- Achievement, persistence and completion.
+
+## Claims
+<!-- Claims reporting findings about this variable, with evidence tags -->
+- [Academic behaviors have the most immediate effect on course grades; directly targeting grit is not an evidenced lever](../claims/academic-behaviors-most-immediate-effect-grades.md) [-M] — learners who differ on it differ in outcomes
+- [Agreeableness is unexpectedly a weak risk factor for well-being decline in wartime students](../claims/agreeableness-risk-factor-wartime-wellbeing.md) [+W] — learners who differ on it differ in outcomes
+- [Chance-level identity discrimination is uniform across participants and not associated with AI literacy, personality, or demographics](../claims/detection-failure-uniform-not-tied-to-individual-differences.md) [-M] — learners who differ on it differ in outcomes
+- [Conscientiousness and tolerance for novelty show small negative associations with well-being decline; other uncertainty-tolerance facets do not](../claims/conscientiousness-novelty-tolerance-small-protective-associations.md) [+W] — learners who differ on it differ in outcomes
+- [Conscientiousness exploratorily moderated the effect of ITS condition on subjective difficulty and enjoyment](../claims/conscientiousness-moderates-difficulty-enjoyment-adaptive-its.md) [+W] — an instructional effect differs with it
+- [Emotional stability shows the strongest negative association with decline in students' subjective well-being under martial law](../claims/emotional-stability-strongest-protective-wellbeing-wartime.md) [+M] — learners who differ on it differ in outcomes
+- [Extraversion correlates negatively with well-being decline in wartime students, though less strongly than emotional stability](../claims/extraversion-protective-wellbeing-wartime.md) [+W] — learners who differ on it differ in outcomes
+- [Extraversion's protective effect on well-being declines with age, significant only for younger students](../claims/age-moderates-extraversion-wellbeing-effect.md) [~M] — learners who differ on it differ in outcomes
+- [In a Chicago middle-grades study, the combination of grades and attendance provided the best prediction of high school on-track rates, and adding test scores and grit measures did not further improve prediction](../claims/middle-grades-grades-attendance-best-prediction.md) [-M] — learners who differ on it differ in outcomes
+- [On study habits, grit, and promotion to tenth grade, charter students performed similarly to or slightly below comparable non-charter students, with the promotion gap possibly reflecting charters' higher promotion requirements](../claims/cps-charter-similar-or-lower-behaviors-promotion.md) [-W] — instruction changes it
+- [Openness partially mediates effects of extraversion and novelty tolerance, and fully mediates general uncertainty tolerance, on well-being decline](../claims/openness-mediates-personality-wellbeing-pathways.md) [+M] — learners who differ on it differ in outcomes
+- [Openness protects against well-being decline only when emotional stability is average or high](../claims/openness-protects-only-with-emotional-stability.md) [~M] — learners who differ on it differ in outcomes
+
+## Related Learner Variables
+
+## Examples
+
+## Key Sources
+- Breit, M., Schneider, M., & Preckel, F. (2025). Mathematics achievement and learner characteristics: A systematic review of meta-analyses. *Learning and Individual Differences, 118*, 102621. [doi:10.1016/j.lindif.2024.102621](https://doi.org/10.1016/j.lindif.2024.102621)

@@ -37,7 +37,7 @@ The monograph recommends that teacher educators design or select courses describ
 - understanding of man at work and the human side of enterprise
 
 ### Claims
-- [Industrial Arts Teacher Education Technical And Human Sides](../claims/industrial-arts-teacher-education-technical-and-human-sides.md) [+M]
+- [Industrial Arts Teacher Education Technical And Human Sides](../claims/industrial-arts-teacher-education-technical-and-human-sides.md) [+W]
 
 ## Related Principles
 - 

@@ -46,3 +46,4 @@ Analysis of SASS 2011–12 and TFS 2012–13 comparing Title I and non-Title I s
 - [Turnover is highest in ESL/bilingual education (19.0%), foreign languages (18.3%), CTE (17.5%), and special education (16.4%)](high-need-field-teachers-higher-turnover.md) — related
 - [Turnover is about 70% higher in schools serving the most students of color, with even larger gaps for math/science, special education, and alternatively certified teachers](turnover-high-minority-schools-70-percent.md) — related
 - [After accounting for teacher and school characteristics, each $1,000 increase in cost-of-living-adjusted salary is associated with about a 0.34 percentage-point decrease in turnover probability](salary-associated-with-lower-turnover.md) — related
+- [Teaching has a relatively high turnover rate compared to nursing and national employee turnover benchmarks](teaching-turnover-high-versus-other-occupations.md) — a broader claim this one bears on

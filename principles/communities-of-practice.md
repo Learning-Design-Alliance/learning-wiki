@@ -179,7 +179,7 @@ Changed participation norms, changed understanding, changed practice and a membe
 Communities of practice are groups that deepen learning through sustained participation around a shared domain, problem space, or profession. Members do not just exchange information; they build shared language, norms, tools, and standards of practice over time. Learning happens through contribution, observation, feedback, and increasingly central participation in the work of the community.
 
 ## Implications
-Communities of practice support learning because people often learn complex work by participating with others who are already doing it, not by studying rules in isolation. Newcomers gain access to tacit knowledge, language, tools, and standards through recurring contribution, explanation, and feedback, and communities become more educative when members articulate and compare reasoning rather than only exchange resources [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. They also become more capable as responsibility gradually shifts toward fuller participation [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S], ideally through authentic shared work that stays tied to integrated performance rather than isolated drills [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S]. The design challenge is that communities can easily become exclusionary or vague, so entry points, contribution norms, and authentic shared work have to be deliberately structured, with responsive guidance for newcomers as they enter the practice [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M].
+Communities of practice support learning because people often learn complex work by participating with others who are already doing it, not by studying rules in isolation. Newcomers gain access to tacit knowledge, language, tools, and standards through recurring contribution, explanation, and feedback, and communities become more educative when members articulate and compare reasoning rather than only exchange resources [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. They also become more capable as responsibility gradually shifts toward fuller participation [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S], ideally through authentic shared work that stays tied to integrated performance rather than isolated drills [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+M]. The design challenge is that communities can easily become exclusionary or vague, so entry points, contribution norms, and authentic shared work have to be deliberately structured, with responsive guidance for newcomers as they enter the practice [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -224,7 +224,7 @@ Communities of practice support learning because people often learn complex work
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — communities become more educative when members articulate and compare reasoning, not just exchange resources
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — newcomers benefit when experienced members provide responsive prompts, hints, and mediation
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — strong communities shift responsibility from experts to broader member participation over time
-- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+S] — communities of practice are especially useful when learning remains tied to authentic, integrated work rather than isolated drills
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [+M] — communities of practice are especially useful when learning remains tied to authentic, integrated work rather than isolated drills
 
 -->
 - [A facilitated Community of Practice helped isolated state American Indian Education Directors build relationships that broke down silos and combated professional isolation](../claims/cop-relationships-combat-aie-director-isolation.md) [+W]
@@ -301,8 +301,8 @@ The paper proposes a practice-based focus for PLCs: "professional learning in sc
 - exercise of teacher agency
 
 ### Claims
-- [Plc Literature Trivializes Teacher Practice](../claims/plc-literature-trivializes-teacher-practice.md) [+M]
-- [Teacher Resistance Agency Challenges Plc](../claims/teacher-resistance-agency-challenges-plc.md) [+M]
+- [Plc Literature Trivializes Teacher Practice](../claims/plc-literature-trivializes-teacher-practice.md) [+W]
+- [Teacher Resistance Agency Challenges Plc](../claims/teacher-resistance-agency-challenges-plc.md) [+W]
 
 ## Related Principles
 - 

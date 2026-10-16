@@ -37,8 +37,8 @@ The paper proposes a process, protocols and tools for school teams to define pro
 
 ### Claims
 
-- [No Detailed Root Cause Methodology Guidance](../claims/no-detailed-root-cause-methodology-guidance.md) [+M]
-- [Sips Address Symptoms Not Causes](../claims/sips-do-not-guide-root-cause-efforts.md) [+M]
+- [No Detailed Root Cause Methodology Guidance](../claims/no-detailed-root-cause-methodology-guidance.md) [+W]
+- [Sips Address Symptoms Not Causes](../claims/sips-do-not-guide-root-cause-efforts.md) [+W]
 - [Most schools laid CI groundwork (72 percent root cause analysis), but fewer than two-thirds tied change ideas to their theory of practice improvement, and equity attention centered on achievement rather than access, identity, or agency](../claims/ci-groundwork-strong-theory-link-and-equity-depth-limited.md) [+W]
 
 ## Related Theories

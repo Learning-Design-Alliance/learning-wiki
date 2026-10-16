@@ -36,7 +36,7 @@ Womanist restorying (Baker-Bell, 2017; Thomas & Stornaiuolo, 2016) combines Blac
 - Constructing an alternative, self-authored narrative of belonging and possibility within the domain
 
 ## Claims
-- [Restorying supports Black girls' identification of and resistance to dominant narratives in computing](../claims/restorying-supports-computing-identity-reconstruction.md) [~M]
+- [Restorying supports Black girls' identification of and resistance to dominant narratives in computing](../claims/restorying-supports-computing-identity-reconstruction.md) [~W]
 
 ## Related Theories
 

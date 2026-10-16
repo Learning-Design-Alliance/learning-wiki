@@ -64,6 +64,7 @@ Pairing words with relevant images supports recall better than words alone, cons
 - Total Physical Response — shares the principle of anchoring meaning in non-verbal channels
 - Pre-teaching vocabulary — picture dictionaries supply the visual support during that pre-teaching
 - [Small-group student-constructed reference products such as a Philosophy Dictionary](small-group-philosophy-dictionary-activity.md)
+- [Open language lessons with a brief incidental multimodal activity pairing foreign word forms with pictures for concrete, depictable vocabulary](brief-incidental-multimodal-lesson-opener.md)
 
 ## Examples
 - **[Oxford Picture Dictionary](https://elt.oup.com/catalogue/items/global/adult_courses/oxford_picture_dictionary/)** — thematically organized second-language picture dictionary with workbooks and audio; widely used in adult ESL programs.

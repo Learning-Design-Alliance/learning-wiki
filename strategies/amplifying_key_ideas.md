@@ -19,7 +19,7 @@ Amplifying involves deliberately drawing learner attention to the most important
 
 ## Design Implications
 
-Amplification works because learners cannot attend to everything; cues that signal relevance direct attention and, when well designed, improve selection, organization, and integration of content [Signaling cues improve learning by guiding attention to relevant information.](../claims/relevancy-of-emphasis-directs-attention.md) [+S]. However, the technique is easily overused: when everything is emphasized, nothing is, and learner-generated highlighting is far less effective than experimenter- or instructor-placed emphasis [Experimenter-placed underlining is more effective than student underlining.](../claims/experimenter-underlining-effective-as-student-underlining.md) [+M].
+Amplification works because learners cannot attend to everything; cues that signal relevance direct attention and, when well designed, improve selection, organization, and integration of content [Signaling cues improve learning by guiding attention to relevant information.](../claims/relevancy-of-emphasis-directs-attention.md) [+M]. However, the technique is easily overused: when everything is emphasized, nothing is, and learner-generated highlighting is far less effective than experimenter- or instructor-placed emphasis [Experimenter-placed underlining is more effective than student underlining.](../claims/experimenter-underlining-effective-as-student-underlining.md) [+M].
 
 ### Context
 #### Requirements

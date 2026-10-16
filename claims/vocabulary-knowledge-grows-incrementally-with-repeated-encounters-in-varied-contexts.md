@@ -96,6 +96,7 @@ This meta-analysis synthesised 45 correlations from 26 second-language studies (
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
 
 ## Related Claims
 
@@ -118,3 +119,4 @@ This meta-analysis synthesised 45 correlations from 26 second-language studies (
 - [Reading a single authentic novel yields incidental vocabulary gains, with more gains for words occurring more than five times](single-novel-reading-incidental-vocabulary-gains.md) — a narrower finding that bears on this claim
 - [First language evidence shows extensive reading for meaning leads to vocabulary acquisition over time, probably accounting for most L1 vocabulary growth beyond the first few thousand common words](l1-extensive-reading-drives-vocabulary-growth.md) — related
 - [Available second language research indicates extensive reading programs are generally more effective than systematic vocabulary instruction using decontextualized exercises](l2-extensive-reading-beats-decontextualized-vocabulary-exercises.md) — related
+- [Incidental multimodal exposure produces better explicit translation-recognition performance on previously exposed words than on new words in beginner FL learners](incidental-multimodal-exposure-benefits-explicit-learning.md) — a narrower finding that bears on this claim

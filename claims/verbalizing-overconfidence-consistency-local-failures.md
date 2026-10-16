@@ -45,6 +45,6 @@ Reliability analysis (Fig. 2, Table 1) on the SciEntsBank Test_UD split. Verbali
 ## Related Claims
 - [The hybrid confidence measure with aleatoric uncertainty yields the best calibration (Brier 0.138, ECE 0.044, MCE 0.100) among compared methods](hybrid-aleatoric-best-calibration-asag.md) — related
 - [Latent (token-probability) confidence is the weakest single-source confidence signal for LLM-based ASAG, with the lowest AUROC and worst calibration](latent-confidence-weakest-asag.md) — related
-- [Novice clinical learners show pervasive metacognitive calibration deficits, with overestimated performance and confidence exceeding accuracy](novice-metacognitive-calibration-deficits.md) — related
+- [A theoretical article, citing two simulation studies, reports that novice clinical learners overestimated their performance and that their confidence exceeded their accuracy](novice-metacognitive-calibration-deficits.md) — related
 - [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — related
 - [Feedback improves confidence calibration, and prior lure exposure inflates confidence in intrusions](feedback-improves-confidence-calibration.md) — related

@@ -42,6 +42,9 @@ Correlational analyses across all 125 participants examined professor-student NR
 ## Discussion
 
 
+## Learner Variables
+- [Civic Mindedness](../learner-variables/civic-mindedness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Conflict and antagonism with community partners negatively correlate with social justice and diversity attitudes](community-partner-conflict-negatively-correlates-social-justice.md) — possibly the same claim (merge candidate)
 - [Exploration of diversity is associated with all civic competence outcomes in community-based learning courses](diversity-enhances-all-civic-competence-outcomes.md) — related

@@ -44,6 +44,7 @@ WWC synthesis of four studies meeting standards without reservations in the read
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [Reading Fluency](../learner-variables/reading-fluency.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Read Naturally® shows no discernible effects on comprehension for beginning readers](read-naturally-no-discernible-effects-comprehension.md) — related

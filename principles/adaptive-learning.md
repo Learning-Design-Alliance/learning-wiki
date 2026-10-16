@@ -274,7 +274,7 @@ Adaptive designs operationalize the zone of proximal development: tasks are matc
 - [Guidance becomes less effective as learner expertise increases.](../claims/expertise-reversal-effect.md) [~M] — adaptive systems must fade support as competence grows, or adaptation backfires
 - [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S] — adaptation should progressively withdraw scaffolding, not just adjust difficulty
 - [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S] — the diagnostic information driving adaptation should feed task- and process-level feedback
-- [Example–problem sequences reduce cognitive load.](../claims/worked-example-problem-sequences.md) [+S] — adaptive sequencing can interleave worked examples with problems based on performance
+- [Example–problem sequences reduce cognitive load.](../claims/worked-example-problem-sequences.md) [+M] — adaptive sequencing can interleave worked examples with problems based on performance
 
 -->
 
@@ -529,7 +529,7 @@ The article argues that representing latent learner states probabilistically, ra
 - reliable estimation of evolving learner competency to guide adaptive item selection and inference
 
 ### Claims
-- [Kt Encoders Entity Isolated Deterministic Limits](../claims/kt-encoders-entity-isolated-deterministic-limits.md) [+M]
+- [Kt Encoders Entity Isolated Deterministic Limits](../claims/kt-encoders-entity-isolated-deterministic-limits.md) [+W]
 - [Adaptive G Ukt Competitive Performance Sparse Regimes](../claims/adaptive-g-ukt-competitive-performance-sparse-regimes.md) [+M]
 
 ## Related Principles

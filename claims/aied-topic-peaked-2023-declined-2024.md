@@ -67,3 +67,4 @@ Numerical temporal trend analysis shown in Figure 4 of yearly topic volumes 2019
 - Research on generative AI-powered agentic AI in education expanded rapidly from 2025 onward, with 58.6% of the 474 reviewed studies published in 2025 — related
 - Publication output on metacognition in STEM education increased steadily since 2005, with notable growth after 2015 — related
 - [The K-12 AI literacy literature grew slowly until 2016 and increased sharply in 2020, with most contributions published as conference papers](k12-ai-literacy-bibliometric-growth.md) — related
+- [Google Trends data show ChatGPT search interest surged globally within weeks of its November 2022 public release, with plagiarism among the top related queries](google-trends-chatgpt-plagiarism-queries.md) — related

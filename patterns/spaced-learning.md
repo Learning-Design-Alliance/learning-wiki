@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 20 claims (10 for, 9 mixed, 1 unmarked) · 18 studies (7 causal, 5 quant-synthesis, 3 review, 2 design, 1 theoretical), `q1`–`q4` · 5 of 18 report an effect size · 16 claims rest on one study
+> **Evidence** · 23 claims (13 for, 9 mixed, 1 unmarked) · 19 studies (8 causal, 5 quant-synthesis, 3 review, 2 design, 1 theoretical), `q1`–`q4` · 5 of 19 report an effect size · 19 claims rest on one study
 
 ## Description
 
@@ -89,6 +89,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Under the mean-recall approximation, the optimal Leitner Queue Network review schedule spends more time on lower decks than on higher decks.](../claims/optimal-leitner-schedule-reviews-lower-decks-more-often.md) [+W] — attached 2026-10-07 from Reddy et al. (2016), which proposed "Maximize Learning Rate When Calibrating Leitner Review Schedules".
 - [Expanding and uniform spacing schedules of retrieval practice do not differ significantly in final retention (g = 0.034)](../claims/expanding-versus-uniform-retrieval-no-difference.md) [~M] — attached 2026-10-13 from Latimier et al. (2021), which proposed "Space out retrieval practice episodes on the same content, but do not assume intervals must progressively expand".
 - [Number of retrieval exposures moderates the expanding-versus-uniform schedule benefit: more tests favour the expanding schedule](../claims/exposures-moderate-expanding-schedule-benefit.md) [~M] — attached 2026-10-13 from Latimier et al. (2021), which proposed "Space out retrieval practice episodes on the same content, but do not assume intervals must progressively expand".
+- [A 23-item-ISI dropout schedule achieved final cued-recall performance similar to conventional schedules while using significantly fewer test-restudy trials in two experiments](../claims/dropout-long-isi-similar-performance-fewer-trials.md) [+W] — attached 2026-10-16 from Pyc et al. (2007), which proposed "Discontinue practice with items once they are correctly recalled, but only after a sufficiently long initial interval between study and first practice test"; tests this page's relationship.
+- [The effectiveness of dropout schedules depends critically on the length of the interval between presentations of an item](../claims/dropout-effectiveness-depends-on-interval.md) [+W] — attached 2026-10-16 from Pyc et al. (2007), which proposed "Discontinue practice with items once they are correctly recalled, but only after a sufficiently long initial interval between study and first practice test"; tests this page's relationship.
+- [A short-ISI dropout schedule (5-drop) used significantly fewer trials but yielded lower final test performance than conventional schedules in Experiment 1](../claims/short-isi-dropout-lower-performance.md) [+W] — attached 2026-10-16 from Pyc et al. (2007), which proposed "Discontinue practice with items once they are correctly recalled, but only after a sufficiently long initial interval between study and first practice test"; tests this page's relationship.
 
 ## Elements
 

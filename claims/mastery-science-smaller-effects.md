@@ -49,3 +49,4 @@ Moderator analysis grouping studies by subject area in the meta-analysis; the pr
 - [Achievement effects of group-based mastery learning are larger for elementary students than for high school or college students](mastery-effects-larger-elementary.md) — related
 - Up to about 35 IE sessions moderated the decline of report card marks in language-based subjects, but IE did not affect mathematics grades — related
 - IE participation correlated with improved Mathematics Computation NCE scores but lower Reading and Mathematics Concepts NCE scores on city-wide tests — related
+- [Teachers account for large effects on student growth: effect sizes of .77–.88 in reading and .72–.85 in mathematics across years](teacher-effects-on-growth-rowan.md) — related

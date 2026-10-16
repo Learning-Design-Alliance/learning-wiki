@@ -48,7 +48,7 @@ Free play supports holistic development — physical, social, cognitive, and cre
 - **Indoor/outdoor and physical play:** rough-and-tumble and physical activity play contribute to motor development and social skill
 - **Sociodramatic play:** pretend play with peers is a particularly rich context for self-regulation and language; adults can enrich it by adding props or roles without taking over
 - **Accessibility adaptations:** adapt storage and presentation so all children, including those with disabilities, can initiate and access play independently
-- **Indoor/outdoor balance** — outdoor free play adds gross-motor and risk-assessment opportunities; physical activity during play improves attention in class [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]
+- **Indoor/outdoor balance** — outdoor free play adds gross-motor and risk-assessment opportunities; physical activity during play improves attention in class [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
 - **Free vs. guided play** — adults can move along a continuum from full child direction to lightly seeded provocations (adding a prop, posing a question) without seizing control
 - **Socio-dramatic vs. constructive vs. physical play** — each form targets different developmental outcomes; a program should offer all three
 

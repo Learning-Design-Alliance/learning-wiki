@@ -77,3 +77,4 @@ Among the 63 subjects, "All subjects advancingin.Modal Level after treatmentdid 
 - [External disequilibrium level systematically influences subsequent changes in internal disequilibrium: discrepant conditions increase mixture among low mix subjects and decrease it among high mix subjects](external-disequilibrium-shapes-internal-mixture-changes.md) — related
 - Higher internal disequilibrium (Level Mixture) predicts Modal Level advance but not Map Drawing Mean improvement — related
 - Discrepant training conditions (+1/+2) provided limited evidence of greater transfer to related spatial reasoning tasks than own-level training — related
+- [Map drawing after 30 min is more accurate for maps learned through covert-retrieval tests than for maps learned through equal conventional study time](covert-retrieval-tests-improve-map-learning.md) — related

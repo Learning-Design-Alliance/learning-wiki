@@ -19,7 +19,7 @@ This strategy deliberately anchors new academic content in students' existing ex
 
 ## Design Implications
 
-Relevance raises situational and individual interest, which supports attention, persistence, and value beliefs [Personal relevance of content increases engagement and value appraisals.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]. Utility-value interventions — having students themselves articulate how content connects to their lives — improve outcomes especially for students with low initial expectations of success [Hulleman & Harackiewicz found relevance writing boosted interest and grades for low-expectancy students.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]. Connections work best when they activate relevant prior knowledge rather than merely entertain; a hook that triggers interesting-but-irrelevant associations can divert attention from the target content [Relevancy of emphasis directs attention.](../claims/relevancy-of-emphasis-directs-attention.md) [~M].
+Relevance raises situational and individual interest, which supports attention, persistence, and value beliefs [Personal relevance of content increases engagement and value appraisals.](../claims/autonomy-supports-intrinsic-motivation.md) [+M]. Utility-value interventions — having students themselves articulate how content connects to their lives — improve outcomes especially for students with low initial expectations of success [Hulleman & Harackiewicz found relevance writing boosted interest and grades for low-expectancy students.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]. Connections work best when they activate relevant prior knowledge rather than merely entertain; a hook that triggers interesting-but-irrelevant associations can divert attention from the target content [Relevancy of emphasis directs attention.](../claims/relevancy-of-emphasis-directs-attention.md) [~M].
 
 ### Context
 #### Requirements
@@ -40,7 +40,7 @@ Relevance raises situational and individual interest, which supports attention, 
 - **Choice of context**: offer a [Choice Board](../elements/choice-boards.md) of problem contexts so students select the one closest to their experience
 
 ### Target Learners
-- Students with low initial value or expectancy beliefs benefit most from relevance and utility-value framing [Utility-value interventions disproportionately help low-expectancy students.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]
+- Students with low initial value or expectancy beliefs benefit most from relevance and utility-value framing [Utility-value interventions disproportionately help low-expectancy students.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 - Students whose home or community knowledge differs from school-typical contexts (culturally and linguistically diverse learners)
 - Less necessary — and occasionally distracting — for learners already high in domain interest [Interest effects attenuate once individual interest is well developed.](../claims/autonomy-supports-intrinsic-motivation.md) [~M]
 

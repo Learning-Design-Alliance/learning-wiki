@@ -42,6 +42,9 @@ Authors' interpretation in the Implications section (type e). The article argues
 ## Discussion
 
 
+## Learner Variables
+- [Problem Solving](../learner-variables/problem-solving.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Open questions for learnity graphs include validation, legitimacy, grading avoidance, algorithmic guidance balance, and privacy](learnity-graph-open-questions.md) — related
 - Stakeholders report that edtech vendors' profit focus incentivizes broad tools designed for a mythical average learner rather than unique learner needs — related

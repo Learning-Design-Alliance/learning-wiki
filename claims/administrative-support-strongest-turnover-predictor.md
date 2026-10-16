@@ -45,3 +45,4 @@ Multivariate logistic regression on SASS/TFS data (Table A-2 odds ratios) contro
 ## Related Claims
 - [Teachers who find their administrators unsupportive are more than twice as likely to leave as those who feel well-supported](administrative-support-double-attrition-odds.md) — possibly the same claim (merge candidate)
 - [Teachers view classroom observations as a fair way to evaluate their performance but largely reject student growth measures as unfair](reach-teachers-fair-observations-unfair-student-growth.md) — related
+- [Administrative support, student discipline, and faculty influence are associated with teacher turnover after controlling for teacher and school characteristics](organizational-conditions-predict-teacher-turnover.md) — related

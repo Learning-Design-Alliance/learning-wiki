@@ -53,7 +53,6 @@ Indirect-effect decomposition in the math model (Question 3), significant at the
 - [A companion working paper examines the relationship between academic and social-emotional growth for English Language Learners](ell-working-paper-academic-and-social-emotional-growth.md) — related
 - [Self-efficacy declines steadily for all students between 5th and 8th grade even while math and reading achievement grow](self-efficacy-declines-middle-school-achievement-grows.md) — related
 - [Growth in academic self-efficacy is significantly associated with growth in mathematics achievement when modeled jointly](self-efficacy-growth-associated-with-math-growth.md) — related
-- [Self-efficacy is related to the achievement gap for English Language Learners](self-efficacy-related-ell-achievement-gap.md) — a broader claim this one bears on
-- [Self-efficacy is related to the persistence of achievement gaps for English Language Learners](self-efficacy-related-to-persistence-of-ell-achievement-gaps.md) — a broader claim this one bears on
+- [Self-efficacy is related to the achievement gap for English Language Learners](self-efficacy-related-to-persistence-of-ell-achievement-gaps.md) — a broader claim this one bears on
 - [Within-person deviations from math and self-efficacy growth trajectories at a given time point are not related across constructs](within-person-deviations-unrelated-across-constructs.md) — related
 - [Teacher emotional support buffers the negative association between low math self-efficacy and low engagement](teacher-emotional-support-buffers-low-efficacy-engagement.md) — related

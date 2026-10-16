@@ -53,7 +53,7 @@ Critical service-learning is a model that adopts a social justice framework, as 
 - [Slam Relationship Quality Correlates Civic Action](../claims/slam-relationship-quality-correlates-civic-action.md) [+M]
 - [Professor Relationship Quality Civic Engagement Bidirectional](../claims/professor-relationship-quality-civic-engagement-bidirectional.md) [+M]
 - [Community Partner Conflict Negatively Correlates Social Justice](../claims/community-partner-conflict-negatively-correlates-social-justice.md) [+M]
-- [Csl Co Planning Gives Community Partners Voice In Project](../claims/csl-co-planning-gives-community-partners-voice-in-project.md) [+M]
+- [Csl Co Planning Gives Community Partners Voice In Project](../claims/csl-co-planning-gives-community-partners-voice-in-project.md) [+W]
 
 ## Related Theories
 
@@ -97,7 +97,7 @@ The article presents Mitchell's (2008) critical service-learning model as a demo
 - community-engaged learning
 
 ### Claims
-- [Csl Co Planning Gives Community Partners Voice In Project](../claims/csl-co-planning-gives-community-partners-voice-in-project.md) [+M]
+- [Csl Co Planning Gives Community Partners Voice In Project](../claims/csl-co-planning-gives-community-partners-voice-in-project.md) [+W]
 
 ## Related Theories
 

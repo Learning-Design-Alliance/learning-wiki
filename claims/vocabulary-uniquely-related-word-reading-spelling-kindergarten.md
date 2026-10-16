@@ -43,6 +43,8 @@ Structural equation modeling with 242 kindergartners tested unique relations of 
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
+- [Vocabulary](../learner-variables/vocabulary.md) — predictor: learners who differ on it differ in outcomes
+- [Writing Skills](../learner-variables/writing-skills.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 

@@ -42,6 +42,9 @@ The study analyzes recent national data on U.S. public school students from the 
 ## Discussion
 
 
+## Learner Variables
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Schooling does not show a compensatory effect on math skill inequality](no-compensatory-effect-math-inequality.md) — related
 - [Seasonal comparisons can test whether schooling exacerbates, reduces, or reproduces overall skill inequality](seasonal-comparisons-test-schooling-inequality-mechanism.md) — a broader claim this one bears on

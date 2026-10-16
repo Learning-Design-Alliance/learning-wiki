@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: learning-policy-institute-turnaround-for-children-2021
-    resource: "https://creativecommons.org/licenses/by-nc/4.0/"
-    title: "Learning Policy Institute & Turnaround for Children. (2021). Design principles for schools: Putting the science of learning and development into action. https://creativecommons.org/licenses/by-nc/4.0/"
+    resource: "https://learningpolicyinstitute.org/product/sold-design-principles-report"
+    title: "Learning Policy Institute & Turnaround for Children. (2021). Design principles for schools: Putting the science of learning and development into action. https://learningpolicyinstitute.org/product/sold-design-principles-report"
     author: "Learning Policy Institute & Turnaround for Children"
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Learning Policy Institute & Turnaround for Children 2021
 
-Learning Policy Institute & Turnaround for Children. (2021). Design principles for schools: Putting the science of learning and development into action. https://creativecommons.org/licenses/by-nc/4.0/
+Learning Policy Institute & Turnaround for Children. (2021). Design principles for schools: Putting the science of learning and development into action. https://learningpolicyinstitute.org/product/sold-design-principles-report
 
 `q2 · i?` · `design · r1`
 

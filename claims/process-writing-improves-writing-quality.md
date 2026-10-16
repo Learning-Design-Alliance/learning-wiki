@@ -84,6 +84,9 @@ The authors meta-analyzed 29 experimental and quasi-experimental studies of stud
 
 **Open questions.** Most supporting studies measure essay quality with researcher-designed rubrics over relatively short horizons; evidence on long-term retention of writing skill and transfer to unstudied genres is thinner. The relative contribution of individual components (peer response vs. teacher conferencing vs. explicit strategy instruction) remains unsettled.
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Authentic audiences improve student work](authentic-audiences-improve-student-work.md) — writing for real readers raises quality and motivation, complementing process cycles

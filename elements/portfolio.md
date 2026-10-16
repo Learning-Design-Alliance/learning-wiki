@@ -13,14 +13,14 @@ generated:
 # Portfolio
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (2 for, 3 mixed) · 6 studies (2 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 2 of 6 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 4 studies (1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q2` · 0 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 A portfolio is a purposeful collection of learner work — artifacts, drafts, and reflections — assembled over time to document progress, demonstrate competence, and support self-evaluation. Unlike point-in-time [assessment](assessment.md), it captures process as well as product, and the learner typically participates in selecting and annotating what is included.
 
 ## Design Implications
 
-Portfolios support learning primarily by requiring learners to review, evaluate, and justify their own work, which promotes self-regulation and metacognitive monitoring [Self-regulated learning](../theories/self-regulated-learning.md) [+M]. Their assessment value depends on clear criteria: without explicit rubrics and defined purposes, portfolio evaluation becomes unreliable and the collection becomes an archive rather than an argument [Portfolio assessment shows weaker reliability than structured assessments when scoring criteria are vague.](../claims/feedback-most-effective-at-task-and-process-levels.md) [~M]. Reflection prompts attached to each artifact are what convert a folder of work into a learning event.
+Portfolios support learning primarily by requiring learners to review, evaluate, and justify their own work, which promotes self-regulation and metacognitive monitoring [Self-regulated learning](../theories/self-regulated-learning.md) [+M]. Their assessment value depends on clear criteria: without explicit rubrics and defined purposes, portfolio evaluation becomes unreliable and the collection becomes an archive rather than an argument. Reflection prompts attached to each artifact are what convert a folder of work into a learning event.
 
 ### Context
 #### Requirements

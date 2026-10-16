@@ -42,6 +42,9 @@ Theoretical argument in this essay, not an empirical test: the author contends c
 
 ## Discussion
 
+## Learner Variables
+- [Collaboration](../learner-variables/collaboration.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Criterion-referenced tests indicate whether a particular skill or objective has been achieved rather than comparing performance to other test takers](criterion-referenced-tests-measure-mastery-not-relative-standing.md) — the general claim this finding bears on, with the studies behind it

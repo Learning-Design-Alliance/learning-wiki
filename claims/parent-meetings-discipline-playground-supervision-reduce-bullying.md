@@ -42,6 +42,9 @@ Program-element moderator analysis in the meta-analysis, drawing on "feedback fr
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [More intensive anti-bullying programs are more effective](more-intensive-anti-bullying-programs-more-effective.md) — related
 - [School-based anti-bullying programs decrease victimization by 17-20% on average](anti-bullying-programs-reduce-victimization-17-20-percent.md) — a broader claim this one bears on

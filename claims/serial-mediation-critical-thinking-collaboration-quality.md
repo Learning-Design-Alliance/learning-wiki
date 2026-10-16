@@ -57,6 +57,9 @@ Bootstrap result for the existential dependence model's serial pathway. The arti
 ## Discussion
 
 
+## Learner Variables
+- [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Both functional and existential GenAI dependence are positively associated with research creativity, each with significant direct and total effects](both-dependence-forms-positively-associated-creativity.md) — related
 - [Critical thinking is the dominant indirect pathway linking functional GenAI dependence with research creativity, accounting for approximately 85% of its total indirect effect](critical-thinking-dominant-indirect-pathway-functional-dependence.md) — related

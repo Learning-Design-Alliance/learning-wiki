@@ -63,6 +63,7 @@ First conclusion of the study: across all three cases, diversity of metacognitiv
 
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+- [Metacognition](../learner-variables/metacognition.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Strategy variety for drawing attention was higher in the no-instruction and peer tutoring groups, while frequency was higher in the instruction groups](drawing-attention-variety-no-instruction-peer-tutoring.md) — related

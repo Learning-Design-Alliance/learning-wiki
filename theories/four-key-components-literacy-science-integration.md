@@ -37,7 +37,7 @@ The guide organizes effective integration of literacy and science instruction at
 - Reading, writing, and speaking skills
 
 ### Claims
-- [Integrated Literacy Science Greater Learning Than Separate](../claims/integrated-literacy-science-greater-learning-than-separate.md) [+M]
+- [Integrated Literacy Science Greater Learning Than Separate](../claims/integrated-literacy-science-greater-learning-than-separate.md) [+W]
 
 ## Related Theories
 

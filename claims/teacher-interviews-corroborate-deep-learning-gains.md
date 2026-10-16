@@ -42,6 +42,9 @@ Qualitative component of the concurrent mixed-methods design: semi-structured in
 ## Discussion
 
 
+## Learner Variables
+- [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [An adaptive AI-based STEM instructional program produced statistically significant differences favoring the experimental group across all deep learning dimensions in sixth-grade science](adaptive-ai-stem-deep-learning-gains-sixth-grade.md) — related
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — a broader claim this one bears on

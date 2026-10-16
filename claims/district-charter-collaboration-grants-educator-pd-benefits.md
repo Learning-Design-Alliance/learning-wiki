@@ -42,6 +42,9 @@ Summary of Mathematica's evaluation of the seven District-Charter Collaboration 
 ## Discussion
 
 
+## Learner Variables
+- [Collaboration](../learner-variables/collaboration.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [School co-locations or partnerships, aspiring-leader programs, and shared Common Core preparation are the most promising avenues for cross-sector collaboration](district-charter-promising-collaboration-avenues.md) — related
 - [Cross-sector leadership programs were widely viewed as the most successful collaboration grant activities, while limited grant time period and scope and lack of goal clarity hindered implementation](leadership-programs-most-successful-grant-activities.md) — related

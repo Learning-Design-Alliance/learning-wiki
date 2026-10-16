@@ -42,6 +42,9 @@ In the Torgesen et al. (2003) randomized controlled trial, passage comprehension
 ## Discussion
 
 
+## Learner Variables
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
+
 ## Related Claims
 - [One-year follow-up and LiPS-vs-RWT supplemental comparisons showed mostly non-significant differences, with some follow-up alphabetics effects remaining significant](lips-supplemental-followup-mixed-findings.md) — related
 - [Read, Write & Type!™ shows no statistically significant alphabetics advantages over the Auditory Discrimination in Depth® comparison](rwt-no-advantage-over-auditory-discrimination-in-depth.md) — related

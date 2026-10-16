@@ -42,6 +42,9 @@ Logistic regression with MDTP topic mastery indicators and grade 6 CST scale sco
 ## Discussion
 
 
+## Learner Variables
+- [Algebraic Thinking](../learner-variables/algebraic-thinking.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - The Elevate Math summer program significantly increased algebra readiness, raising the share of students mastering at least three MDTP topic areas from 12 to 29 percent — related
 - [Grade 6 math CST proficiency alone is not an effective indicator of algebra readiness: students need a scale score of 367, about 0.27 SD above the cutpoint, to reach a 50 percent probability of grade 8 algebra I proficiency](grade6-proficiency-insufficient-algebra-readiness-indicator.md) — related

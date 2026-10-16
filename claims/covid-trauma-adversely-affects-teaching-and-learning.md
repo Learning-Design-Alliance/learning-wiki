@@ -42,6 +42,9 @@ The fact sheet asserts, without presenting data or citations, that returning stu
 ## Discussion
 
 
+## Learner Variables
+- [Adverse Experiences](../learner-variables/adverse-experiences.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Trauma exposure is widespread among school students and is associated with adverse cognitive, academic, behavioral, and socioemotional outcomes](trauma-exposure-adverse-school-outcomes.md) — a broader claim this one bears on
 - [School social workers perceive immigration enforcement as a daily macro-level force producing fear and trauma among immigrant students and families](ssws-perceive-enforcement-daily-macro-force.md) — related

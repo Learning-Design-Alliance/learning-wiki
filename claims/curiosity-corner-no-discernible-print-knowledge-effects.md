@@ -42,6 +42,9 @@ Randomized controlled trial (PCER Consortium, 2008) with 18 preschools; print kn
 ## Discussion
 
 
+## Learner Variables
+- [Alphabet Knowledge and Print Awareness](../learner-variables/alphabet-knowledge-and-print-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Bright Beginnings shows a substantively important positive effect on the TERA-3 print knowledge measure (effect size 0.32) but no discernible effect on the print knowledge domain overall](bright-beginnings-print-knowledge-tera3-mixed.md) — related
 - [Kindergarten follow-up shows statistically significant positive effects of Curiosity Corner on two print knowledge measures, not included in the effectiveness rating](curiosity-corner-kindergarten-followup-print-gains.md) — related

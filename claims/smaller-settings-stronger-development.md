@@ -42,5 +42,8 @@ The brief's narrative synthesis of the science of learning and development repor
 ## Discussion
 
 
+## Learner Variables
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Schools where students report feeling more safe, supported, and challenged show stronger academic and social-emotional growth, and student reports predict future school improvement](student-reports-safe-supported-challenged-growth.md) — related

@@ -42,6 +42,9 @@ A moderator analysis of achievement-measure type in the meta-analysis found the 
 ## Discussion
 
 
+## Learner Variables
+- [Home Learning Environment](../learner-variables/home-learning-environment.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — a broader claim this one bears on
 - [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — related

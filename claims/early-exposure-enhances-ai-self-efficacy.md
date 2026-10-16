@@ -46,6 +46,7 @@ The brief asserts in its learner section that "Evidence shows that learners can 
 ## Learner Variables
 - [Digital Literacy](../learner-variables/digital-literacy.md) — outcome: instruction changes it
 - [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+- [Academic Self-Concept](../learner-variables/academic-self-concept.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — a broader claim this one bears on

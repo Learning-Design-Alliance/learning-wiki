@@ -42,6 +42,9 @@ The article's experiment presented subjects a difficult problem requiring valid 
 ## Discussion
 
 
+## Learner Variables
+- [Inferencing](../learner-variables/inferencing.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Politically charged framing (gun control ban) makes responses to the same data politically polarized and less accurate](gun-control-framing-polarizes-and-reduces-accuracy.md) — related
 - [Numeracy is defined and used as a measure of the ability and disposition to make use of quantitative information in causal-inference tasks](numeracy-quantitative-reasoning-measure.md) — related

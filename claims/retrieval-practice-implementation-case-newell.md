@@ -43,6 +43,9 @@ Case study of research use in practice: a former NMSA math teacher, motivated by
 ## Discussion
 
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Repeatedly recalling a text without feedback or rereading produces the best one-week retention, while repeated studying leads on a final test at the end of the session](repeated-recall-without-feedback-beats-repeated-study-at-one-week-but-not-five-minutes.md) — a broader claim this one bears on
 - [Retrieval Practice Improves Long Term Retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on

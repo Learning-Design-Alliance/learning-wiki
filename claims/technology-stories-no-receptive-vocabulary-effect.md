@@ -42,6 +42,9 @@ Meta-analytic results section: seven contrasts used book-based receptive vocabul
 ## Discussion
 
 
+## Learner Variables
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Multimedia-enhanced stories significantly improve expressive vocabulary for children disadvantaged by environmental factors such as low parental education](multimedia-expressive-vocabulary-environmentally-disadvantaged.md) — related
 - [Technology-enhanced stories yield a small but significant additional benefit over traditional story presentations for story comprehension and expressive vocabulary in young children](technology-enhanced-stories-small-benefit-comprehension-expressive-vocabulary.md) — related

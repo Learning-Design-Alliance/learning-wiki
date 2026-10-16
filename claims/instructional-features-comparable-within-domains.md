@@ -42,6 +42,9 @@ Weighted effect size comparison in table B8 between language interventions using
 ## Discussion
 
 
+## Learner Variables
+- [Alphabet Knowledge and Print Awareness](../learner-variables/alphabet-knowledge-and-print-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — a broader claim this one bears on
 - [Dialogic Reading Improves Expressive Language](dialogic-reading-improves-language-outcomes.md) — related

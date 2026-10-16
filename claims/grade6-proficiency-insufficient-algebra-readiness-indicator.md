@@ -42,6 +42,9 @@ Cross-tabulation of grade 6 math CST scale scores against grade 8 algebra I CST 
 ## Discussion
 
 
+## Learner Variables
+- [Algebraic Thinking](../learner-variables/algebraic-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Using grade 6 math CST scale scores rather than proficiency status increases the accuracy of grade 8 algebra I placement decisions from 69 to 75 percent](grade6-cst-scale-scores-improve-algebra-placement-accuracy.md) — related
 - [When scale scores are used, prediction accuracy of grade 8 algebra I proficiency does not vary substantially across grade 6 CST, grade 7 CST, and MDTP assessments (75–78 percent)](scale-score-prediction-accuracy-75-78-percent.md) — related

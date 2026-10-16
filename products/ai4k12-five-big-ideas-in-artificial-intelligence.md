@@ -28,4 +28,4 @@ A framework developed by the AI for K-12 working group that organizes K–12 art
 -
 
 ## Key Sources
-- Touretzky, D.; Gardner-McCune, C.; Martin, F.; and Seehorn, D. (2019). Envisioning AI for K-12: What Should Every Child Know about AI? The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19). https://www.aaai.org
+- Touretzky, D.; Gardner-McCune, C.; Martin, F.; and Seehorn, D. (2019). Envisioning AI for K-12: What Should Every Child Know about AI? The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19). https://www.aaai.org. [doi:10.1609/aaai.v33i01.33019795](https://doi.org/10.1609/aaai.v33i01.33019795)

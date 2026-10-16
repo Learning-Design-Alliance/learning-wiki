@@ -42,6 +42,9 @@ Pearson correlation in the 147-student wartime sample (Table 2). The authors rep
 ## Discussion
 
 
+## Learner Variables
+- [Personality Traits](../learner-variables/personality-traits.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Extraversion's protective effect on well-being declines with age, significant only for younger students](age-moderates-extraversion-wellbeing-effect.md) — related
 - [Agreeableness is unexpectedly a weak risk factor for well-being decline in wartime students](agreeableness-risk-factor-wartime-wellbeing.md) — related

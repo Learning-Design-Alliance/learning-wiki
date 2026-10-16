@@ -44,6 +44,7 @@ In its snapshot of key concepts, the paper states that all four approaches are r
 
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — predictor: learners who differ on it differ in outcomes
+- [Metacognition](../learner-variables/metacognition.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — a narrower finding that bears on this claim

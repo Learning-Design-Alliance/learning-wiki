@@ -44,4 +44,4 @@ Secondary benchmarking analysis in the crossover study comparing the peer assess
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](race-gender-grade-differences-persist.md) — related
 - [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related
-- [The achievement benefit of peer assessment persists to a later comprehensive final exam](peer-assessment-gains-persist-to-final-exam.md) — related
+- [A significant but negligible benefit of peer assessment (d = .122) persisted to the final exam in one college statistics course](peer-assessment-gains-persist-to-final-exam.md) — related

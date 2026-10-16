@@ -358,7 +358,7 @@ The storyline instructional model centers on coherence from the students' perspe
 
 ### Claims
 
-- [Openscied Rich Participatory Discussions](../claims/openscied-rich-participatory-discussions.md) [+M]
+- [Openscied Rich Participatory Discussions](../claims/openscied-rich-participatory-discussions.md) [+W]
 - [Openscied Student Relevance Coherence](../claims/openscied-student-relevance-coherence.md) [+M]
 - [OpenSciEd materials equitably support student participation and engagement across racial, gender, and linguistic groups, per field-test SEET and teacher-report data](../claims/openscied-equitable-participation-engagement.md) [+M]
 - [OpenSciEd enactment faces key challenges: project fatigue, unit length and pacing, pseudoagency, and gaps in student sensemaking practices](../claims/openscied-enactment-challenges-fatigue-pacing-pseudoagency.md) [~M]

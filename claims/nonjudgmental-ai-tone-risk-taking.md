@@ -42,6 +42,9 @@ Interview and log data across cases; teachers described the adaptive prompting s
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [In an AI-guided PD program, rural teachers engaged with mathematical creativity, content knowledge, and PCK as interconnected forms of reasoning rather than isolated domains](ai-guided-pd-integrated-mc-ck-pck-engagement.md) — related
 - Attributing repeated failure to lack of ability fosters learned helplessness, while external, unstable, specific attributions are adaptive — related

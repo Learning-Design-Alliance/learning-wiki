@@ -42,6 +42,9 @@ Primary linear mixed-effects model (TotalScore ~ Timepoint + Centre + Timepoint�
 ## Discussion
 
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 - [AI-generated revision podcasts produce statistically significant immediate learning gains in medical students at both study centres](ai-revision-podcasts-immediate-learning-gains-medical-students.md) — related
 - [Podcast gains extend beyond recall to higher-order application and analysis items at both centres](podcast-gains-higher-order-domains.md) — related

@@ -61,6 +61,10 @@ The chapter reports, citing Deen (1991), that cooperative learning "encouraged s
 
 ## Discussion
 
+## Learner Variables
+- [Collaboration](../learner-variables/collaboration.md) — outcome: instruction changes it
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it

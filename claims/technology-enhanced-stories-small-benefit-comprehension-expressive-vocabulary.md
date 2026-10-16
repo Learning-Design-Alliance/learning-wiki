@@ -60,6 +60,9 @@ Same meta-analytic synthesis (43 studies, 2,147 children, random effects model).
 
 ## Discussion
 
+## Learner Variables
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md) — the general claim this finding bears on, with the studies behind it

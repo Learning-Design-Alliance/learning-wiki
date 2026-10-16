@@ -61,6 +61,9 @@ In Experiment 3 of the prior-knowledge article, familiarity and rated imageabili
 
 ## Discussion
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — the general claim this finding bears on, with the studies behind it

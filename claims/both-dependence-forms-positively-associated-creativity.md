@@ -40,6 +40,9 @@ The same PROCESS Model 6 analysis run with existential dependence as the indepen
 ## Discussion
 
 
+## Learner Variables
+- [Creativity](../learner-variables/creativity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Functional dependence shows a substantially stronger positive association with graduate students' research creativity than existential dependence (β = 0.457 vs β = 0.147)](functional-dependence-stronger-association-research-creativity.md) — related
 - [Critical thinking and human–AI collaboration quality jointly form a significant serial indirect pathway from GenAI dependence to research creativity, larger for functional than existential dependence](serial-mediation-critical-thinking-collaboration-quality.md) — related

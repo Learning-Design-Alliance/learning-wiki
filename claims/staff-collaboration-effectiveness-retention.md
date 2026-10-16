@@ -42,8 +42,12 @@ The brief's narrative review section on supporting relationships among staff rep
 ## Discussion
 
 
+## Learner Variables
+- [Collaboration](../learner-variables/collaboration.md) — predictor: learners who differ on it differ in outcomes
+- [Social Supports](../learner-variables/social-supports.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration](principal-role-expanded-beyond-administrative-oversight.md) — related
 - [Ivy's principal identifies building culture and relationships as his foremost leadership responsibility for student learning](ivy-principal-culture-relationships-priority.md) — related
 - [Strong relational trust and cooperative adult effort distinguish improving schools from schools with flat or declining test scores](relational-trust-linked-school-improvement.md) — possibly the same claim (merge candidate)
-- [Teacher support is one of the strongest predictors of student belonging](teacher-support-predicts-student-belonging.md) — related
+- [Teacher support is one of the strongest predictors of student belonging](teacher-support-strongest-predictor-school-belonging.md) — related

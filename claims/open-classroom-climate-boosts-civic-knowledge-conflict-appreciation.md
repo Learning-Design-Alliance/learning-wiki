@@ -42,6 +42,10 @@ Observational analysis of the CIVED 1999 civic education study data. The article
 ## Discussion
 
 
+## Learner Variables
+- [Civic Mindedness](../learner-variables/civic-mindedness.md) — outcome: instruction changes it
+- [Safety](../learner-variables/safety.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [An open classroom climate fosters adolescents' intention to be an informed voter](open-classroom-climate-fosters-informed-voter-intention.md) — related
 - [An open classroom climate at school can partially compensate for the disadvantages of young people with low socioeconomic status](open-classroom-climate-compensates-low-ses.md) — related

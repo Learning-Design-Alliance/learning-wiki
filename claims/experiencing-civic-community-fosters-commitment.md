@@ -43,6 +43,9 @@ The longitudinal survey analysis examined neighborhood social capital, school se
 
 ## Discussion
 
+## Learner Variables
+- [Civic Mindedness](../learner-variables/civic-mindedness.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](service-learning-improves-civic-and-personal-outcomes.md) — the general claim this finding bears on, with the studies behind it

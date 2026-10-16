@@ -44,6 +44,7 @@ These are supplemental findings from the DHHS ACF (2010) randomized controlled t
 
 ## Learner Variables
 - [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs by group
+- [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
 
 ## Related Claims
 - [The evidence base for Head Start's school-readiness effects is small: only one of 40 eligible studies met WWC group design standards](head-start-evidence-base-single-rct.md) — related

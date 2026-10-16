@@ -79,6 +79,9 @@ This meta-analysis (open-access full text read) pooled 24 studies of second-lang
 
 **The meta-analytic picture is narrower than one study's.** Webb et al. (2023) support reading's advantage over listening as an effect size on immediate posttests, but not as a clear advantage in words learned or retained: proportions were similar across the two modes, and mode did not moderate follow-up effects. The study this claim was first drawn from, Vidal (2011), was excluded from that meta-analysis as an outlier. The page's earlier title, "greater gains and retention", therefore overstated what the pooled evidence shows for retention, and the title now follows the meta-analysis; Vidal's single study, reported through Restrepo Ramos (2015), is the dissenting entry.
 
+## Learner Variables
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Incidental vocabulary gains show retention problems, with losses over time moderated by feedback timing and topic interest](incidental-vocabulary-retention-problems.md) — related
 - [Higher L2 reading proficiency, motivation, and involvement load are associated with larger incidental vocabulary gains](proficiency-motivation-involvement-gains.md) — related

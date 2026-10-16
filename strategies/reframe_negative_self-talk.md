@@ -58,7 +58,7 @@ Reframing works because negative self-talk consumes working memory and attention
 - Adolescents and adults benefit most; younger children need more scaffolding and concrete language
 - Learners experiencing stereotype threat or belonging uncertainty may gain from reframes that normalize difficulty [Brief belonging interventions improve outcomes for marginalized students.](../claims/belonging-interventions-improve-outcomes.md) [+M]
 - K–12 students learning to manage negative thoughts and build a more positive self-perception
-- Learners with low academic self-efficacy, for whom negative appraisals predict disengagement and dropout [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]
+- Learners with low academic self-efficacy, for whom negative appraisals predict disengagement and dropout [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 - Students facing repeated failure experiences (e.g., struggling readers, students retaking assessments) who have accumulated a stock of negative self-statements
 - Less appropriate as a standalone intervention for learners whose negative self-talk reflects untreated anxiety or depression
 
@@ -148,7 +148,7 @@ Reframing works by interrupting automatic negative appraisals and replacing them
 
 ### Target Learners
 - K–12 students learning to manage negative thoughts and build a more positive self-perception
-- Learners with low academic self-efficacy, for whom negative appraisals predict disengagement and dropout [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]
+- Learners with low academic self-efficacy, for whom negative appraisals predict disengagement and dropout [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 - Students facing repeated failure experiences (e.g., struggling readers, students retaking assessments) who have accumulated a stock of negative self-statements
 - Less appropriate as a standalone intervention for learners whose negative self-talk reflects untreated anxiety or depression
 

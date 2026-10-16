@@ -38,7 +38,7 @@ The paper argues that research questions like 'What does feature x teach?' are v
 
 ### Claims
 
-- [Affordance Does Not Guarantee Cognitive Effect](../claims/affordance-does-not-guarantee-cognitive-effect.md) [+M]
+- [Affordance Does Not Guarantee Cognitive Effect](../claims/affordance-does-not-guarantee-cognitive-effect.md) [+W]
 
 ## Related Principles
 - 

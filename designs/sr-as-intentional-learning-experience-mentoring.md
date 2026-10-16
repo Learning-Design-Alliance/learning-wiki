@@ -39,7 +39,7 @@ The article frames systematic reviews "as intentional learning experiences that 
 - confidence in handling ambiguity and evaluative judgment
 
 ### Claims
-- [Hands On Engagement Mentoring Peer Discussion Central](../claims/hands-on-engagement-mentoring-peer-discussion-central.md) [+M]
+- [Hands On Engagement Mentoring Peer Discussion Central](../claims/hands-on-engagement-mentoring-peer-discussion-central.md) [+W]
 
 ## Related Designs
 - 

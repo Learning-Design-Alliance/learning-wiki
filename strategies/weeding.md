@@ -51,7 +51,7 @@ Weeding enacts the coherence principle: extraneous material competes for limited
 ### Instructions
 1. Write the learning objective in observable terms; list every element currently in the material ([Clear Structure](../principles/clear-structure.md)).
 2. For each element, ask: does it support the objective, or only interest, decoration, or completeness? Delete or move anything in the latter category.
-3. Remove redundant channels — e.g., narrating text that is also displayed verbatim [Redundant on-screen text with narration impairs learning.](../claims/redundancy-principle.md) [+S].
+3. Remove redundant channels — e.g., narrating text that is also displayed verbatim [Redundant on-screen text with narration impairs learning.](../claims/redundancy-principle.md) [+M].
 4. Strip decorative graphics and background audio that do not explain content [Irrelevant material hurts learning by diverting attention and working memory.](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [+S].
 5. Check the result against learner prior knowledge: restore supportive elements ([Analogies](analogies.md), advance organizers) that novices need but experts would not.
 6. Pilot with target learners and verify that comprehension of essential content is intact before full release.

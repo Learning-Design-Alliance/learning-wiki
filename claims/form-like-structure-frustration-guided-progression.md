@@ -44,6 +44,7 @@ Think-aloud task evaluation with five new university participants creating an in
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Low-fidelity prototype evaluation found initial UI options overwhelming and checkbox selections unintuitive](paper-prototype-overwhelming-options-feedback.md) — related

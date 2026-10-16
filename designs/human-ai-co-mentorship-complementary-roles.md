@@ -42,8 +42,8 @@ The article proposes a co-mentorship model in which AI tools and human mentors p
 - critical evaluation of AI outputs
 
 ### Claims
-- [Ai Error Debugging Builds Student Skepticism](../claims/ai-error-debugging-builds-student-skepticism.md) [+M]
-- [Three Ai Failure Modes Project Based Learning](../claims/three-ai-failure-modes-project-based-learning.md) [+M]
+- [Ai Error Debugging Builds Student Skepticism](../claims/ai-error-debugging-builds-student-skepticism.md) [+W]
+- [Three Ai Failure Modes Project Based Learning](../claims/three-ai-failure-modes-project-based-learning.md) [+W]
 
 ## Related Designs
 - 

@@ -43,8 +43,8 @@ The article's organizing framework splits the grading scale by what earns the gr
 - processes such as revision and peer review
 
 ### Claims
-- [Contract Guarantees B For Completion Not Quality](../claims/contract-guarantees-b-for-completion-not-quality.md) [+S]
-- [Hybrid Contract Resists Grade Inflation](../claims/hybrid-contract-resists-grade-inflation.md) [+M]
+- [Contract Guarantees B For Completion Not Quality](../claims/contract-guarantees-b-for-completion-not-quality.md) [+W]
+- [Hybrid Contract Resists Grade Inflation](../claims/hybrid-contract-resists-grade-inflation.md) [+W]
 
 ## Related Designs
 - 

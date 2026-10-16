@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1586 entries** · 0 stable · 1586 in review · 0 drafts
+**1595 entries** · 0 stable · 1595 in review · 0 drafts
 
 ---
 
@@ -64,6 +64,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [ALAS dropout prevention program](alas-dropout-prevention-program.md) - ALAS is a multi-component dropout-prevention programme for middle- and high-school students that combines counselor mentoring, attendance and performance monitoring, resilience and self-control instruction, parent training, recognition activities, and community-service coordination.
 * [Alder's high-touch, whole adult support approach](alders-high-touch-whole-adult-support-approach.md) - Alder's framework for proactively coordinating academic, financial, social, health, housing, and career supports for teacher-residency candidates facing barriers to completing graduate-level preparation.
 * [ALEKS and ALEKS PPL behavioral trace datasets for studying AI-era learning behavior](aleks-and-aleks-ppl-behavioral-trace-datasets-for-studying-ai-era-learning-behavior.md) - Large-scale datasets made available by ALEKS containing learning interactions, placement-assessment responses, response times, and retention-item outcomes for studying mathematics learning behavior.
+* [Alelo VCAT Virtual Cultural Awareness Trainers with multi-role Virtual Coach](alelo-vcat-virtual-cultural-awareness-trainers-with-multi-role-virtual-coach.md) - Alelo's VCAT software systems teach cultural knowledge and intercultural interaction through simulated encounters with virtual role-players supported by a fading virtual coach.
 * [ALF (Augmented Lectures Feedback System)](alf-augmented-lectures-feedback-system.md) - ALF is an augmented-reality classroom feedback system developed by Zarraonandia and colleagues that displays students' reported understanding and responses to teachers wearing AR glasses.
 * [Algebra Toolkit](algebra-toolkit.md) - The Algebra Toolkit is a Regional Educational Laboratory Central at Mathematica professional development programme that supports middle and high school algebra educators through facilitated PLC sessions, preparation, classroom implementation, and school-leader guidance.
 * [AlgoRAG](algorag.md) - A retrieval-augmented generation software system developed by Sushan Adhikari for providing context-grounded assistance in theoretical computer science education.
@@ -596,6 +597,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Good Behavior Game](good-behavior-game.md) - A classroom behavior-management programme originally developed at Johns Hopkins University in which students work in teams and receive recognition for meeting classroom behavior expectations, with implementations including PAX and AIR versions.
 * [Google Expeditions](google-expeditions.md) - A Google programme that supplied schools with virtual-reality field-trip kits, content, equipment, and teacher training for conducting virtual expeditions.
 * [GPT Tutor](gpt-tutor.md) - GPT Tutor is a GPT-4 chat-based mathematics tutoring interface developed and studied by Bastani Hamsa et al.
+* [GPT-2 Output Detector Demo](gpt-2-output-detector-demo.md) - A language-analysis tool developed by OpenAI that estimates whether submitted text resembles AI-generated writing, particularly GPT-2-style output.
 * [GRAD Partnership Student Success Systems](grad-partnership-student-success-systems.md) - A framework developed by the GRAD Partnership for organizing secondary-school supports around relationships, holistic data, strategic improvement actions, and student-centered mindsets.
 * [GradeOpt](gradeopt.md) - GradeOpt is a multi-agent LLM coding framework developed by Copur-Gencturk et al.
 * [Graph4Learn (G4L) intelligent tutoring system](graph4learn-g4l-intelligent-tutoring-system.md) - A Python-based intelligent tutoring web application developed by Csépányi-Fürjes et al.
@@ -757,6 +759,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [LEAD Partnership](lead-partnership.md) - The LEAD Partnership is an Oklahoma State Department of Education-supported professional-development and implementation-support programme for early-childhood school leaders and prekindergarten and kindergarten teachers, focused on research-based early-learning practices.
 * [LEAGUE framework](league-framework.md) - A six-pillar institutional review framework developed by S.
 * [League of Innovative Schools](league-of-innovative-schools.md) - A Digital Promise membership network that brings together school districts for cross-district collaboration, partnerships, professional learning, and sharing of innovative practices.
+* [LEAP (Learning with AI about Physics)](leap-learning-with-ai-about-physics.md) - LEAP is a web platform developed for teachers to author physics tasks with tailored LLM instructions and deliver automated formative feedback to students.
 * [Learn.Plan.Succeed.](learnplansucceed.md) - Learn.Plan.Succeed.
 * [LearnAdapt Praxis](learnadapt-praxis.md) - LearnAdapt Praxis is a LearnAdapt web application that structures adult workplace-learning projects through the stages Frame, Learn, Build, Validate, and Transfer.
 * [LearnAI Framework](learnai-framework.md) - A university-developed two-layer framework combining wide-scale AI-readiness exposure with customized co-creation support for mixed-ability learners.
@@ -1158,6 +1161,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Quality Counts California (QCC)](quality-counts-california-qcc.md) - A statewide quality rating and improvement framework run through a collaboration among First 5 California, the California Department of Education, and the California Department of Social Services to assess and support early-learning and care sites.
 * [Quality Teaching for English Learners (QTEL)](quality-teaching-for-english-learners-qtel.md) - QTEL is a professional-development and instructional programme that supports educators in teaching rigorous academic content and academic English simultaneously to secondary English Learners.
 * [Quantum Randi Challenge (QRC)](quantum-randi-challenge-qrc.md) - The QRC is a modifiable computer game created by Vongehr for teaching quantum mechanics through challenges involving quantum and hidden-variable simulations.
+* [Quantum Theory Test](quantum-theory-test.md) - A 30-item quantum-theory achievement test developed by Saif Alneyadi et al.
 * [Quantway College with Corequisite and Statway College with Corequisite one-term course sets](quantway-college-with-corequisite-and-statway-college-with-corequisite-one-term-course-set.md) - Carnegie Math Pathways developed these one-term college-level quantitative-reasoning and statistics course sets with embedded developmental corequisite support for colleges serving students placed into developmental mathematics.
 * [Question Pot](question-pot.md) - Question Pot is a custom generative-AI chatbot agent built and deployed by Dai et al.
 
@@ -1401,9 +1405,11 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Superkids Reading Program](superkids-reading-program.md) - The Superkids Reading Program is a K–2 beginning-reading curriculum developed and provided by the Rowland Reading Foundation, covering phonemic awareness, phonics, vocabulary, comprehension, writing, and spelling.
 * [Supplemental Educational Services](supplemental-educational-services.md) - A No Child Left Behind programme administered through states and approved public or private providers to offer free out-of-school tutoring and academic support to eligible students in low-performing schools.
 * [Supplemental matrix of intervention strategies for 18 Tier 2 literacy interventions](supplemental-matrix-of-intervention-strategies-for-18-tier-2-literacy-interventions.md) - A study-developed matrix that organizes implementation strategies from 18 Tier 2 literacy interventions to help CNMI PSS staff assess feasibility and inform intervention selection or local design.
+* [Supplementary spreadsheet for effect size calculations](supplementary-spreadsheet-for-effect-size-calculations.md) - A spreadsheet accompanying Lakens (2013) that calculates and recommends effect sizes for t-test and ANOVA results from user-entered study statistics.
 * [SupplyNet](supplynet.md) - SupplyNet is a gamified visual simulation system developed by Yanjia Li et al.
 * [Supporting Effective Educator Development](supporting-effective-educator-development.md) - A U.S.
 * [Survey dataset and analysis code for digital distraction strategy mining](survey-dataset-and-analysis-code-for-digital-distraction-strategy-mining.md) - An OSF-hosted dataset of self-reported college-student survey responses and accompanying R analysis code for mining associations between online-learning strategies and digital distraction, released by Shi et al.
+* [Survey of Learning Behaviors](survey-of-learning-behaviors.md) - A self-report assessment used to measure students' self-regulation, including self-monitoring and knowledge-acquisition strategies, administered before and after instruction.
 * [SVLAT: Scientific Visualization Literacy Assessment Test](svlat-scientific-visualization-literacy-assessment-test.md) - SVLAT is a standardized test developed by Patrick Phuoc Do et al.
 * [Symphony Math](symphony-math.md) - Symphony Math is a web-browser and iPad technology intervention program that provides individualized mathematics practice for K–8 students, developed and distributed as the Symphony Math program.
 * [Syntea](syntea.md) - Syntea is IU International University of Applied Sciences' AI-based learning-assistant software for question answering, interactive tutoring, personalized feedback, progress tracking, and exam preparation.
@@ -1424,6 +1430,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [TalkingPoints](talkingpoints.md) - TalkingPoints is an education technology nonprofit's platform that provides universally designed, auto-translated two-way communication and guidance for family-school partnerships.
 * [TAP System](tap-system.md) - A whole-school teacher evaluation, compensation, career-ladder, mentoring, and professional-development programme developed and operated by the National Institute for Excellence in Teaching.
 * [Targeted Reading Instruction](targeted-reading-instruction.md) - Targeted Reading Instruction (TRI) is a one-to-one tutoring programme for struggling kindergarten and first-grade readers that provides brief daily instruction in foundational literacy skills with webcam-supported teacher coaching.
+* [Taxonomy Betty (Betty's Brain variant)](taxonomy-betty-bettys-brain-variant.md) - A Betty's Brain teachable-agent software variant developed by Doris B.
 * [TCLAS High-Quality, Sustainable Residency Program grant](tclas-high-quality-sustainable-residency-program-grant.md) - A Texas Education Agency grant initiative that funded paid teacher-residency placements and technical assistance for districts and state-approved educator-preparation providers.
 * [Teach For America](teach-for-america.md) - Teach For America runs a nationwide alternate-route teacher-preparation and teacher-placement programme that recruits and prepares corps members to teach in low-income K–12 schools.
 * [Teach For America Investing in Innovation scale-up program](teach-for-america-investing-in-innovation-scale-up-program.md) - A Teach For America program that recruited, trained, and placed new corps-member teachers in high-poverty schools.
@@ -1469,6 +1476,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [The 3E framework](the-3e-framework.md) - The 3E framework is a rubric-based assessment developed by Masum Hasan et al.
 * [The AI Assessment Scale (AIAS)](the-ai-assessment-scale-aias.md) - A scale-based framework developed by Perkins et al.
 * [The AI House](the-ai-house.md) - A four-layer pedagogical framework developed by Vinicius Santana Gomes for training public-sector employees to use generative AI safely, practically, and in compliance with legal and governance requirements.
+* [The Arc's Self-Determination Scale](the-arcs-self-determination-scale.md) - A 72-item self-report assessment developed by Michael Wehmeyer for measuring global self-determination and its autonomy, self-regulation, psychological empowerment, and self-realization dimensions in adolescents with cognitive disabilities.
 * [The Collaborative](the-collaborative.md) - The Collaborative is a branded initiative run by its organizing collaborative to support state leaders through participatory design, relationship-building, collaboration, and leadership development.
 * [the design helper](the-design-helper.md) - Michael Eckersley's design-helper computer programs generate graphical concepts and patterns that students use to complete images related to specific design questions.
 * [The Electric Company Summer Learning Program](the-electric-company-summer-learning-program.md) - The Electric Company Summer Learning Program is a Sesame Workshop transmedia summer curriculum package combining Electric Company video episodes, scripted group activities, and the Prankster Planet online game for children ages 6 to 8.
@@ -1666,6 +1674,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [38-item GenAI motivation and engagement survey instrument (nine constructs)](38-item-genai-motivation-and-engagement-survey-instrument-nine-constructs.md) - A 38-item, five-point Likert survey developed by Ahmed et al.
 * [398-item evaluation dataset of teacher-requested geometric diagrams from Coteach](398-item-evaluation-dataset-of-teacher-requested-geometric-diagrams-from-coteach.md) - A dataset released by Vishal Kumar et al.
 * [44-item ethical GenAI use questionnaire](44-item-ethical-genai-use-questionnaire.md) - A self-administered five-point Likert questionnaire developed by Tabares-Cruz et al.
+* [4C/ID-model](4cid-model.md) - The Four-Component Instructional Design model is a framework developed by van Merriënboer and colleagues for designing training programs that support complex skill acquisition and transfer.
 * [53-study PRISMA-screened evidence corpus on GenAI and educational outcomes](53-study-prisma-screened-evidence-corpus-on-genai-and-educational-outcomes.md) - A corpus of 53 screened studies on GenAI effects on academic achievement, higher-order thinking, and writing, assembled and quality-rated by Ying Dong through a PRISMA-based review.
 * [585-command expert-annotated Linux/bash dataset with balanced four-level representation](585-command-expert-annotated-linuxbash-dataset-with-balanced-four-level-representation.md) - A dataset created by Alonso-Carracedo et al.
 * [5Essentials](5essentials.md) - A school-improvement measurement framework developed by the University of Chicago Consortium on School Research that organizes school survey profiles around five domains and their related measures.

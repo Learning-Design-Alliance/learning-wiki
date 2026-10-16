@@ -89,7 +89,7 @@ No claim in the wiki tests an anchored unit against another format, so these row
 | The debrief is planned as a retelling of the story | Make step 5 an explicit mapping: name the concept and show which parts of the anchor correspond to it | [Concrete materials help only when connected to the concept](../claims/manipulatives-require-connection-to-concept.md) [~W] (manipulatives; carried to anchors by analogy) |
 | The anchor's problem needs several new interacting ideas at once and learners are complete beginners | Isolate one component first, then return to the whole anchor | [Part-task practice reduces load for absolute novices](../claims/part-task-practice-reduces-load-for-novices.md) [~W] |
 | Small groups work in the anchor with a facilitator | Raise support when a group is stuck and lower it when it progresses, recording each intervention | [Contingent scaffolding improves learning](../claims/contingent-scaffolding-improves-learning.md) [+M] (one-to-one tutoring) |
-| The anchor is a simulation or video that learners work through alone (`online-self-paced`) | Build prompts and feedback into the environment instead of leaving the anchor open | [Guidance added to simulation inquiry modestly improves outcomes](../claims/simulation-guidance-moderate-effect-dangelo.md) [+W] |
+| The anchor is a simulation or video that learners work through alone (`online-self-paced`) | Build prompts and feedback into the environment instead of leaving the anchor open | [Guidance added to simulation inquiry modestly improves outcomes](../claims/guidance-improves-inquiry-learning-outcomes.md) [+W] |
 | Learners are in the early primary years and the plan has them attempt the anchor's problem before any teaching | Teach the concept first and use the anchor as application | [PS-I effects are negative for 2nd–5th graders](../claims/psi-effect-increases-with-grade-level.md) [-M] |
 | Only one session is available | Use one short anchor, connect it explicitly to the concept within the session, and end with one individual item on a new situation | untested proposal |
 | The assessment asks about the anchor's own story | Score recall of the anchor separately from use of the concept on a new problem; only the second shows the concept travelled | untested proposal |
@@ -189,7 +189,7 @@ The pattern is useful when learners need to reason through messy situations rath
 
 ### Claims
 #### Supporting
-- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~S]
+- [Whole-task performance improves transfer of complex skills to real-world settings.](../claims/whole-task-performance-improves-transfer.md) [~M]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [~S]
 #### Contradicting

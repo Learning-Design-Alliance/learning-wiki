@@ -44,6 +44,7 @@ The brief asserts, citing background literature on trauma and adverse childhood 
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+- [Adverse Experiences](../learner-variables/adverse-experiences.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 - [Instructional modifications that lower barriers are optional supports for younger resilient learners but may be necessary for older beginners, pre-literate students, and learners dealing with trauma or disabilities](modifications-essential-for-vulnerable-learners.md) — related

@@ -42,6 +42,9 @@ Difference-in-differences analyses across the pre–post survey instruments in t
 ## Discussion
 
 
+## Learner Variables
+- [Collaboration](../learner-variables/collaboration.md) — outcome: instruction changes it
+
 ## Related Claims
 - [GenARch use was associated with a positive relative pre–post change in the Team-Q conflict-management subscale](genarch-positive-conflict-management-did.md) — related
 - [CCCT participation improved prospective teachers' attitudes towards cooperativeness (g = 0.751)](ccct-improved-cooperativeness-attitudes.md) — related

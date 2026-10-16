@@ -40,13 +40,13 @@ Word study treats spelling as a problem-solving activity in which learners disco
 - Digital adaptations (e.g., [Words Their Way Online](https://www.pearson.com), [Spelling City](https://www.spellingcity.com) custom lists) that preserve sorting mechanics
 
 ### Target Learners
-- Beginning readers in the letter-name and within-word pattern stages, who are consolidating [automatic word recognition](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Beginning readers in the letter-name and within-word pattern stages, who are consolidating [automatic word recognition](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Struggling spellers in upper grades, provided instruction is placed at their actual developmental stage rather than grade level
 - Less appropriate for learners already in the derivational-relations stage, who benefit more from morphology and etymology than from phonetic sorts [~M]
 
 ### Target Learning Goals
 - Orthographic pattern knowledge: generalizations about vowel patterns, consonant blends, syllable juncture
-- Word recognition automaticity, which frees working memory for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Word recognition automaticity, which frees working memory for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Vocabulary and morphology: meaning-based features (prefixes, suffixes, Latin/Greek roots) in later stages
 
 ### Instructions

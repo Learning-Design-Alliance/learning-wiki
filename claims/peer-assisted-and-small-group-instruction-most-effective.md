@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Peer-assisted instruction and small-group instruction by adults have large, robust short-term effect sizes for K-6 struggling students
-description: Peer-assisted instruction and small-group instruction by adults have large, robust short-term effect sizes for K-6 struggling students
+title: Peer-assisted instruction and small-group instruction by adults have statistically significant, robust short-term effects (ES about 0.35–0.45) for K-6 struggling students
+description: Peer-assisted instruction and small-group instruction by adults have statistically significant, robust short-term effects (ES about 0.35–0.45) for K-6 struggling students
 id: peer-assisted-and-small-group-instruction-most-effective
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 3
 ---
 
-# Peer-assisted instruction and small-group instruction by adults have large, robust short-term effect sizes for K-6 struggling students
+# Peer-assisted instruction and small-group instruction by adults have statistically significant, robust short-term effects (ES about 0.35–0.45) for K-6 struggling students
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`

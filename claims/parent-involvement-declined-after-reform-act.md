@@ -42,6 +42,9 @@ Stakeholder testimony gathered through the Consortium's consultation interviews 
 ## Discussion
 
 
+## Learner Variables
+- [Home Learning Environment](../learner-variables/home-learning-environment.md) — outcome: instruction changes it
+
 ## Related Claims
 - [LSC parent and community members make a substantial time commitment to their schools, beyond formal council duties](lsc-members-substantial-time-commitment.md) — related
 - [Chicago school organizational supports (leadership, professional capacity, parent involvement) improved across eras, but instructional quality did not, and student-reported teacher support declined after 2005](organizational-gains-without-instructional-gains.md) — related

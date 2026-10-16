@@ -57,6 +57,9 @@ The review reports this simulated-classroom study found "signiﬁcant impairment
 ## Discussion
 
 
+## Learner Variables
+- [Auditory Processing](../learner-variables/auditory-processing.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Children's speech perception in noise is more impaired than adults', requiring higher signal-to-noise ratios for comparable performance](children-speech-perception-noise-more-impaired-than-adults.md) — related
 - [Chronic exposure to indoor noise and reverberation at school is associated with poorer children's reading and prereading skills](chronic-indoor-classroom-noise-reading-prereading.md) — related

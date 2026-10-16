@@ -39,8 +39,8 @@ Collingwood's methodological approach treats primary source documents and relics
 
 ### Claims
 
-- [Collingwood Outside Inside Historical Events](../claims/collingwood-outside-inside-historical-events.md) [+M]
-- [Historical Imagination Evidence Constrained Reconstruction](../claims/historical-imagination-evidence-constrained-reconstruction.md) [+M]
+- [Collingwood Outside Inside Historical Events](../claims/collingwood-outside-inside-historical-events.md) [+W]
+- [Historical Imagination Evidence Constrained Reconstruction](../claims/historical-imagination-evidence-constrained-reconstruction.md) [+W]
 - [Collingwood's ideas about how historical knowledge is produced offer teachers sound reasons for using constructivist approaches in their classrooms](../claims/collingwood-supports-constructivist-history-teaching.md) [+W]
 
 ## Related Theories

@@ -42,6 +42,9 @@ Randomized controlled trial (randomized block design stratified by age and class
 ## Discussion
 
 
+## Learner Variables
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Training effects were larger on outcome measures aligned with the trained skill (blending, segmenting) than on less aligned measures](alignment-trained-skill-larger-effects-phonological-awareness.md) — a broader claim this one bears on
 - [Blending outcomes showed no statistically significant effects of DaisyQuest in the Lonigan et al. (2003) trial](daisyquest-blending-outcomes-not-significant.md) — related

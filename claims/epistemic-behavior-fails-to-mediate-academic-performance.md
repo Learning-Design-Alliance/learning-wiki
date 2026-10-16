@@ -43,7 +43,6 @@ Hierarchical latent change score mediation model with robust maximum likelihood,
 
 
 ## Learner Variables
-- [Epistemic Beliefs](../learner-variables/epistemic-beliefs.md) — predictor: learners who differ on it differ in outcomes
 - [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims

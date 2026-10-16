@@ -20,7 +20,7 @@ An example problem pair pairs a fully worked example with a structurally identic
 
 ## Design Implications
 
-Example problem pairs reduce unguided search during early skill acquisition while guaranteeing that every example is followed by active application [Example–problem pairs lower cognitive load compared with solving all problems independently.](../claims/worked-example-problem-sequences.md) [+S]. The pairing is the critical design feature: examples alone produce passive study and illusions of competence, while problems alone impose search costs on novices; the alternation captures the benefit of both [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. Pairs should be structurally similar but superficially varied so learners abstract the underlying procedure rather than surface features.
+Example problem pairs reduce unguided search during early skill acquisition while guaranteeing that every example is followed by active application [Example–problem pairs lower cognitive load compared with solving all problems independently.](../claims/worked-example-problem-sequences.md) [+M]. The pairing is the critical design feature: examples alone produce passive study and illusions of competence, while problems alone impose search costs on novices; the alternation captures the benefit of both [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]. Pairs should be structurally similar but superficially varied so learners abstract the underlying procedure rather than surface features.
 
 ### Context
 #### Requirements
@@ -36,7 +36,7 @@ Example problem pairs reduce unguided search during early skill acquisition whil
 - Less suited to ill-structured domains where no single solution procedure transfers across problems
 
 ### Target Learners
-- Novices in a structured domain (algebra, physics, programming, statistics) who lack schemas for the task type [Example–problem pairs lower cognitive load compared with solving all problems independently.](../claims/worked-example-problem-sequences.md) [+S]
+- Novices in a structured domain (algebra, physics, programming, statistics) who lack schemas for the task type [Example–problem pairs lower cognitive load compared with solving all problems independently.](../claims/worked-example-problem-sequences.md) [+M]
 - Learners prone to ineffective trial-and-error strategies under conventional problem sets
 - Less beneficial for advanced learners, who should receive faded or problem-only sequences [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 

@@ -63,6 +63,7 @@ The paper proposes a concrete process-oriented assessment model in which "Studen
 - [Require process transparency artefacts: process logs, prompt records, reflective commentaries and oral defences](process-transparency-artefacts-strategy.md)
 - [Provide AI-free proctored spaces so some take-home work is verifiably unassisted](ai-free-study-halls-verifiable-unassisted-work.md)
 - [Apply four operational criteria—fidelity, non-augmentation, traceability, attestation—to identify transcription-only AI use](four-operational-criteria-transcription-only-use.md)
+- [Prevent AI-assisted plagiarism through student education, signed declarations, draft submissions, clear guidelines, and close monitoring](educate-and-monitor-to-prevent-ai-plagiarism.md)
 
 ## Examples
 -

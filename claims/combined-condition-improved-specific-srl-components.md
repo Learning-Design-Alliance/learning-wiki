@@ -43,6 +43,7 @@ Outcome results from the randomised control study of 73 university students, in 
 
 ## Learner Variables
 - [Executive Function](../learner-variables/executive-function.md) — outcome: instruction changes it
+- [Metacognition](../learner-variables/metacognition.md) — outcome: instruction changes it
 
 ## Related Claims
 
@@ -53,3 +54,4 @@ Outcome results from the randomised control study of 73 university students, in 
 - [A daily learning diary alone (Group D) did not produce statistically significant pre-post gains on any measured outcome in an online mathematics preparation course](learning-diary-alone-no-significant-srl-gains-online-math-prep-course.md) — related
 - [In a randomised control study, university students in the combined condition (online SRL training with mobile-app diaries) improved more than participants in the other conditions](combined-srl-training-with-app-diaries-improved-more.md) — a broader claim this one bears on
 - [Neither diary-keeping nor diary-plus-instruction improved university students' academic performance](no-academic-performance-improvement.md) — related
+- [SRL training effects vary by outcome category, largest for metacognitive strategies (g = .40) and smallest for cognitive strategies (g = .32)](srl-training-effects-by-outcome-category.md) — related

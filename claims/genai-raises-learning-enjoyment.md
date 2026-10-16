@@ -63,6 +63,7 @@ Null result on the self-assessed knowledge outcome (0–10 scale) from Session O
 
 ## Learner Variables
 - [Interest](../learner-variables/interest.md) — outcome: instruction changes it
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Mastery learning has overall positive effects on student affect, with the exception of slightly lower grade expectations](mastery-positive-affective-effects.md) — related
@@ -71,3 +72,4 @@ Null result on the self-assessed knowledge outcome (0–10 scale) from Session O
 - [Access to a generative-AI assistant raises task performance for both lower- and higher-education adults, with significantly larger gains for lower-education participants](ai-assistance-raises-task-performance-larger-gains-lower-education.md) — related
 - [Students report higher engagement and motivation with the AI tutor, with comparable enjoyment and growth mindset](ai-tutor-engagement-motivation-higher.md) — related
 - [SupplyNet was rated significantly more immersive, motivating, and enjoyable than the baseline, with engagement showing the most pronounced difference.](supplynet-higher-engagement-than-baseline.md) — related
+- [Most reviewed studies reported significantly positive AI effects on STEM learning performance, with two null results](ai-positive-learning-performance-effects-two-nulls.md) — related

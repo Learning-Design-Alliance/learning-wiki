@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The achievement benefit of peer assessment persists to a later comprehensive final exam
-description: The achievement benefit of peer assessment persists to a later comprehensive final exam
+title: A significant but negligible benefit of peer assessment (d = .122) persisted to the final exam in one college statistics course
+description: A significant but negligible benefit of peer assessment (d = .122) persisted to the final exam in one college statistics course
 id: peer-assessment-gains-persist-to-final-exam
 status: review
 generated:
@@ -17,7 +17,7 @@ sources:
     rigour: 2
 ---
 
-# The achievement benefit of peer assessment persists to a later comprehensive final exam
+# A significant but negligible benefit of peer assessment (d = .122) persisted to the final exam in one college statistics course
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible

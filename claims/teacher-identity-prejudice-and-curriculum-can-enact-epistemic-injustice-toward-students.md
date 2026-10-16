@@ -61,6 +61,9 @@ Theoretical argument the article attributes to Kotzee (2017): the curriculum "ha
 ## Discussion
 
 
+## Learner Variables
+- [Identity](../learner-variables/identity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Positioning Personal Experience As Epistemic Resource Supports Critical Orientation Expansion](positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md)
 - [In the analyzed school setting, black girls experience testimonial injustice as direct discrimination and hermeneutical injustice as indirect, structural discrimination that personal effort cannot erode](black-girls-face-testimonial-and-structural-hermeneutical-injustice-in-school.md) — a narrower finding that bears on this claim

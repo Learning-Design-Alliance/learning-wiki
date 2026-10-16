@@ -42,6 +42,9 @@ Spring 2026 pilot perception survey (Figure 1, N=98); the printed agree/positive
 ## Discussion
 
 
+## Learner Variables
+- [Communication Skills](../learner-variables/communication-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Over 80% of pilot students agreed the AI proctor accurately understood their responses and scaffolded them appropriately](socratic-test-pilot-scaffolding-acceptance.md) — related
 - [Tutor Mode's adaptive responsiveness was overestimated by simulation: only 3/8 pilot participants agreed LEA adapted appropriately when they expressed uncertainty](simulation-overestimated-tutor-adaptiveness.md) — related

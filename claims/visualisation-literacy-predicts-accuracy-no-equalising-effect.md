@@ -42,6 +42,9 @@ Linear regression (RQ3) with correct rate as dependent variable and VL correct r
 ## Discussion
 
 
+## Learner Variables
+- [Statistical Reasoning](../learner-variables/statistical-reasoning.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [University students achieved a significantly higher correct rate answering data questions with data comics than with conventional visualisations](data-comics-higher-correct-rate-than-conventional-visualisations.md) — related
 - [Data comics outperformed conventional visualisations on both information retrieval and comprehension tasks, with the largest gains in comprehension, particularly multiple-insight questions](data-comics-largest-gains-comprehension-tasks.md) — related

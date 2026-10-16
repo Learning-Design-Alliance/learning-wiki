@@ -19,7 +19,7 @@ Word Of The Week is a classroom routine in which a single academically useful wo
 
 ## Design Implications
 
-Vocabulary research consistently shows that word knowledge develops through multiple, varied encounters with a word in meaningful contexts, not through single definitions [Stahl & Fairbanks found vocabulary instruction produces reliable comprehension gains when words are taught deeply rather than merely defined.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. A weekly cycle structures those encounters: initial explicit explanation, elaborative processing (examples, connections, morphology), and spaced retrieval across days. Selecting words from Beck, McKeown, and Kucan's "Tier Two" category — high-frequency academic words used across domains (e.g., *analyze*, *reluctant*, *significant*) — maximizes return on instructional time.
+Vocabulary research consistently shows that word knowledge develops through multiple, varied encounters with a word in meaningful contexts, not through single definitions [Stahl & Fairbanks found vocabulary instruction produces reliable comprehension gains when words are taught deeply rather than merely defined.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. A weekly cycle structures those encounters: initial explicit explanation, elaborative processing (examples, connections, morphology), and spaced retrieval across days. Selecting words from Beck, McKeown, and Kucan's "Tier Two" category — high-frequency academic words used across domains (e.g., *analyze*, *reluctant*, *significant*) — maximizes return on instructional time.
 
 ### Context
 #### Requirements

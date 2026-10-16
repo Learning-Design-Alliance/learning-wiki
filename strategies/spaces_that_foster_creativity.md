@@ -30,7 +30,7 @@ Physical environment is not a neutral backdrop: classroom design features accoun
 - Norms and routines for using the space; a flexible room without procedural clarity becomes noise
 
 #### Constraints
-- Highly stimulating or playful environments can distract learners with weaker attention regulation, degrading learning [Classroom physical activity and movement can improve attention, but unstructured stimulation can also compete with it.](../claims/classroom-physical-activity-improves-attention.md) [~M]
+- Highly stimulating or playful environments can distract learners with weaker attention regulation, degrading learning [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [~M]
 - Open, flexible layouts increase ambient noise and visual distraction; poorly managed, they reduce task focus [Cognitive overload degrades learning when extraneous load exceeds working memory capacity.](../claims/cognitive-overload-degrades-learning.md) [-M]
 - Space redesign without pedagogical change shows weak or null effects — furniture alone does not change teaching [Learning-space interventions show mixed effects when not paired with changed pedagogy.](../claims/learning-space-redesign-alone-insufficient.md) [~M]
 - Resource-intensive; inequitable access to well-designed spaces can widen rather than narrow gaps

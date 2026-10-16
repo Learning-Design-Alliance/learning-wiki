@@ -42,6 +42,10 @@ Bootstrap mediation test (5,000 bias-corrected resamples) in the PLS-SEM model o
 ## Discussion
 
 
+## Learner Variables
+- [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — predictor: learners who differ on it differ in outcomes
+- [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Critical thinking and human–AI collaboration quality jointly form a significant serial indirect pathway from GenAI dependence to research creativity, larger for functional than existential dependence](serial-mediation-critical-thinking-collaboration-quality.md) — related
 - [The indirect effect of AI literacy on engagement via psychological capital strengthens as professional commitment rises (moderated mediation)](moderated-mediation-conditional-indirect-effect.md) — related

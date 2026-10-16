@@ -37,8 +37,8 @@ The article concludes that neither acknowledging choices among culturally establ
 - examining and evolving one's philosophy of mathematics and mathematics teaching
 
 ### Claims
-- [Perturbation Stimulates Philosophy Change](../claims/perturbation-stimulates-philosophy-change.md) [+M]
-- [Four Contexts Influential Preservice Philosophy](../claims/four-contexts-influential-preservice-philosophy.md) [+M]
+- [Perturbation Stimulates Philosophy Change](../claims/perturbation-stimulates-philosophy-change.md) [+W]
+- [Four Contexts Influential Preservice Philosophy](../claims/four-contexts-influential-preservice-philosophy.md) [+W]
 
 ## Related Principles
 - 

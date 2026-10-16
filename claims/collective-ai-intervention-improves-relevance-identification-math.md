@@ -11,7 +11,7 @@ evidence_strength: moderate
 sources:
   - id: guo-2025
     resource: "https://doi.org/10.31234/osf.io/srxga_v1"
-    title: "Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. https://www.google.com/search?q=%22Utilizing+generative+AI+to+promote+high+school+students%27+personal+relevance+to+math+and+interest+in+the+math+class%22 [doi:10.31234/osf.io/srxga_v1](https://doi.org/10.31234/osf.io/srxga_v1)"
+    title: "Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. [doi:10.31234/osf.io/srxga_v1](https://doi.org/10.31234/osf.io/srxga_v1)"
     author: "Guo, Z., Fryer, L. K., & Shum, A."
     q: 3
     i: 2
@@ -19,7 +19,7 @@ sources:
     rigour: 1
   - id: guo-2025-2
     resource: "https://doi.org/10.31234/osf.io/srxga_v1"
-    title: "Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. https://www.google.com/search?q=%22Utilizing+generative+AI+to+promote+high+school+students%27+personal+relevance+to+math+and+interest+in+the+math+class%22. [doi:10.31234/osf.io/srxga_v1](https://doi.org/10.31234/osf.io/srxga_v1)"
+    title: "Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. [doi:10.31234/osf.io/srxga_v1](https://doi.org/10.31234/osf.io/srxga_v1)"
     author: "Guo, Z., Fryer, L. K., & Shum, A."
     q: 3
     i: "?"
@@ -40,7 +40,7 @@ sources:
 
 ### Guo 2025
 
-Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. https://www.google.com/search?q=%22Utilizing+generative+AI+to+promote+high+school+students%27+personal+relevance+to+math+and+interest+in+the+math+class%22 [doi:10.31234/osf.io/srxga_v1](https://doi.org/10.31234/osf.io/srxga_v1)
+Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. [doi:10.31234/osf.io/srxga_v1](https://doi.org/10.31234/osf.io/srxga_v1)
 
 `q3 · i2` · `causal · r1`
 
@@ -50,7 +50,7 @@ Quasi-experimental MANCOVA with 218 Chinese high school students in three intact
 
 ### Guo 2025 (2)
 
-Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. https://www.google.com/search?q=%22Utilizing+generative+AI+to+promote+high+school+students%27+personal+relevance+to+math+and+interest+in+the+math+class%22. [doi:10.31234/osf.io/srxga_v1](https://doi.org/10.31234/osf.io/srxga_v1)
+Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. [doi:10.31234/osf.io/srxga_v1](https://doi.org/10.31234/osf.io/srxga_v1)
 
 `q3 · i?` · `causal · r1`
 

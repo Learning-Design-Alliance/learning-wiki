@@ -56,6 +56,9 @@ Group randomized controlled effectiveness trial in 37 elementary schools; 3-leve
 ## Discussion
 
 
+## Learner Variables
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [SWPBIS produces a very small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)](swpbis-reduces-concentration-problems.md) — related
 - [SWPBIS produces a very small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)](swpbis-improves-prosocial-behavior.md) — related

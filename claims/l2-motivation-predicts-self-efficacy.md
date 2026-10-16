@@ -14,7 +14,7 @@ sources:
     title: "Roshandel, J., Ghonsooly, B., & Ghanizadeh, A. (2018). L2 Motivational Self-System and Self-Efficacy: A Quantitative Survey-Based Study. International Journal of Instruction, 11(1), 329-344. https://doi.org/10.12973/iji.2018.11123a"
     author: "Roshandel, J., Ghonsooly, B., & Ghanizadeh, A."
     q: 2
-    i: 3
+    i: "?"
     kind: associational
     rigour: 1
 ---
@@ -22,10 +22,10 @@ sources:
 # Overall L2 motivation is a significant positive predictor of L2 self-efficacy among Iranian EFL learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
-`q2 i3` Total L2 motivation significantly and positively predicts L2 self-efficacy, accounting for about 20% of its variance (r = 0.43). [→ Roshandel 2018](#roshandel-2018)
+`q2 i?` Total L2 motivation significantly and positively predicts L2 self-efficacy, accounting for about 20% of its variance (r = 0.43). [→ Roshandel 2018](#roshandel-2018)
 
 ## Evidence
 
@@ -33,7 +33,7 @@ sources:
 
 Roshandel, J., Ghonsooly, B., & Ghanizadeh, A. (2018). L2 Motivational Self-System and Self-Efficacy: A Quantitative Survey-Based Study. International Journal of Instruction, 11(1), 329-344. https://doi.org/10.12973/iji.2018.11123a
 
-`q2 · i3` · `associational · r1`
+`q2 · i?` · `associational · r1`
 
 Stepwise regression on survey data from 210 Iranian EFL learners (convenience sample from language institutes and universities in Mashhad), with self-efficacy as dependent variable and total motivation as predictor; the ANOVA table shows F = 49.21, Sig. .000, and the model summary reports "The R value is 0.43" (r = 0.43) with R square 0.187.
 

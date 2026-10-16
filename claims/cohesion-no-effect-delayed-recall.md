@@ -42,6 +42,9 @@ In the study on text familiarity and cohesion, cohesion was defined as the degre
 
 ## Discussion
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — the general claim this finding bears on, with the studies behind it

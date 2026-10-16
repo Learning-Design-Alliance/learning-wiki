@@ -98,6 +98,7 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 
 ## Learner Variables
 - [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
+- [Academic Self-Concept](../learner-variables/academic-self-concept.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — SDT's competence need is closely related: autonomy works motivationally when learners believe they can succeed

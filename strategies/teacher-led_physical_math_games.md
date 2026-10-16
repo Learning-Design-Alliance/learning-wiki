@@ -26,7 +26,7 @@ Teacher-led physical games embed mathematical practice inside brief whole-body m
 
 ## Design Implications
 
-These games pair [Active Learning](../principles/active-learning.md) with brief bouts of physical activity. Classroom-based physical activity reliably improves on-task attention and behavior [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+S], and acute exercise immediately before or during learning can enhance subsequent memory encoding [Acute exercise timing affects memory.](../claims/acute-exercise-timing-memory.md) [+W]. The math content itself must be carried by the response rules — the movement is the answer format, not decoration — so each game functions as rapid, repeated [Practice](../elements/practice.md) with immediate feedback from the teacher and visible peer responses.
+These games pair [Active Learning](../principles/active-learning.md) with brief bouts of physical activity. Classroom-based physical activity reliably improves on-task attention and behavior [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+S], and acute exercise immediately before or during learning can enhance subsequent memory encoding [Acute exercise timing affects memory.](../claims/acute-exercise-timing-memory.md) [+W]. The math content itself must be carried by the response rules — the movement is the answer format, not decoration — so each game functions as rapid, repeated [Practice](../elements/practice.md) with immediate feedback from the teacher and visible peer responses.
 
 ### Context
 #### Requirements
@@ -49,13 +49,13 @@ These games pair [Active Learning](../principles/active-learning.md) with brief 
 
 ### Target Learners
 - K–4 students building counting, magnitude, and fact fluency; movement-based number games align with the strong link between early spatial-motor play and mathematics achievement [Block play predicts math achievement.](../claims/block-play-predicts-math-achievement.md) [+M]
-- Students who benefit from frequent attention resets; brief activity bouts improve subsequent on-task behavior [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+S]
+- Students who benefit from frequent attention resets; brief activity bouts improve subsequent on-task behavior [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+S]
 - Adaptable to older grades by shifting content to integers, factors, or fraction comparison; less suited to learners who already have automatic fluency in the targeted content
 
 ### Target Learning Goals
 - Fluency with counting sequences, skip counting, and basic facts through rapid repeated responding
 - Number sense: magnitude comparison, subitizing, and part-whole relationships
-- Behavioral goals: attention, engagement, and smooth transitions [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+S]
+- Behavioral goals: attention, engagement, and smooth transitions [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+S]
 
 ### Instructions
 1. **Name the rule.** Briefly state and model the math condition and the matching movement ([Direct Instruction](../elements/direct-instruction.md)).

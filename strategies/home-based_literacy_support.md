@@ -41,7 +41,7 @@ The strongest evidence favors programs that go beyond supplying books or asking 
 - **Family literacy workshops with coaching cycles** — modeling, observed practice, and feedback rather than one-time information sessions
 
 ### Target Learners
-- Beginning readers (K–2) still developing decoding; home practice builds fluency through volume [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Beginning readers (K–2) still developing decoding; home practice builds fluency through volume [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Children from homes with limited print resources, where school-supplied materials meaningfully change the home literacy environment [+M]
 - Struggling readers needing additional practice minutes beyond what the school day allows [+M]
 - Less effective as a substitute for explicit classroom instruction in phonics; home support supplements but cannot replace systematic teaching [Phonics instruction outperforms whole-word approaches for generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [~M]
@@ -72,6 +72,7 @@ The strongest evidence favors programs that go beyond supplying books or asking 
 - [Provide accessible caregiver resources to reinforce phonics at home](family-support-hub-home-literacy-reinforcement.md)
 - [Provide accessible caregiver resources and QR-code video lessons to strengthen the school-home literacy connection](family-support-hub-caregiver-literacy-resources.md)
 - [Parents support elementary writing skills at home through everyday writing activities like writing stories, reviewing movies, and describing things around them](parent-home-writing-activities-tip-sheet.md)
+- [Summer reading programs should provide books matched to students' reading levels, encourage oral reading practice, and include scaffolding](scaffolded-summer-reading-programs.md)
 
 ## Examples
 - **Dialogic reading interventions** (Whitehurst et al., 1988) — parents of preschoolers trained in interactive questioning produced significant gains in expressive language compared with controls.

@@ -44,6 +44,7 @@ WWC synthesis of fluency findings from Gale (2006), the only study contributing 
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [Reading Fluency](../learner-variables/reading-fluency.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Read Naturally® shows mixed effects on reading fluency for beginning readers (average improvement index +7 percentile points)](read-naturally-mixed-effects-reading-fluency.md) — related

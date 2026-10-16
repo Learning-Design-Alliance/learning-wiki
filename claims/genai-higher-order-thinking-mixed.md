@@ -61,6 +61,9 @@ The review reports Scala et al.'s (2025) randomised experiment comparing human-o
 ## Discussion
 
 
+## Learner Variables
+- [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Dependent versus autonomous cognitive offloading to GenAI shows opposite motivational and cognitive outcome patterns](dependent-autonomous-offloading-genai.md) — a narrower finding that bears on this claim
 - [AI tool use is negatively correlated with critical thinking, mediated by cognitive offloading and strongest in younger users (review attribution to Gerlich)](ai-reliance-correlated-lower-critical-thinking-offloading.md) — a narrower finding that bears on this claim

@@ -41,6 +41,9 @@ Coded strategy analysis of pretest and posttest responses to the climate-change 
 
 ## Discussion
 
+## Learner Variables
+- [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Civic Online Reasoning Instruction Improves Evaluation](civic-online-reasoning-instruction-improves-evaluation.md) — the general claim this finding bears on, with the studies behind it

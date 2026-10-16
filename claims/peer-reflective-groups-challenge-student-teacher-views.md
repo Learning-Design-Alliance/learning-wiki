@@ -43,6 +43,9 @@ The digest reports a 1996 study of third-year teaching students in which researc
 ## Discussion
 
 
+## Learner Variables
+- [Collaboration](../learner-variables/collaboration.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Reflective practice yields deeper understanding of teachers' own teaching style and greater classroom effectiveness](reflective-practice-deeper-understanding-effectiveness.md) — related
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — related

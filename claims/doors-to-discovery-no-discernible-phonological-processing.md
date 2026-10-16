@@ -42,6 +42,9 @@ PCER Consortium (2008, Chapter 6) randomized study with high child-level attriti
 ## Discussion
 
 
+## Learner Variables
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Doors to Discovery™ shows no discernible effects on preschool math (domain-average effect size 0.01)](doors-to-discovery-no-discernible-math-effects.md) — related
 - [Doors to Discovery™ shows potentially positive effects on preschool oral language (PPVT-III effect size 0.27, not statistically significant)](doors-to-discovery-potentially-positive-oral-language.md) — related

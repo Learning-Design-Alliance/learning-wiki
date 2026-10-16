@@ -49,3 +49,4 @@ Descriptive comparison of charter and non-charter administrators' 2017 survey re
 - [High school, new, and low-achieving-school principals perceive significantly more difficulty recruiting and hiring the right teachers](teacher-hiring-difficulty-subgroup-differences.md) — related
 - [Teachers with high job and workplace satisfaction have less than half the predicted turnover of teachers with low satisfaction (8.0% vs. 22.0%)](job-satisfaction-associated-with-lower-turnover.md) — related
 - [Turnover is higher in charter schools (17.8%) than traditional public schools (14.9%) and higher in city schools (17.7%) than other locales](school-type-locale-turnover-differences.md) — related
+- [Schools reporting hiring difficulties are almost twice as likely to have above-average teacher turnover rates](hiring-difficulties-correlated-with-high-turnover.md) — related

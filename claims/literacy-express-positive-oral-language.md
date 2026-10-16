@@ -80,6 +80,10 @@ Randomized controlled trial in 12 Florida full-day preschools (188 children anal
 ## Discussion
 
 
+## Learner Variables
+- [Communication Skills](../learner-variables/communication-skills.md) — outcome: instruction changes it
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Literacy Express shows no discernible effects on cognition and math for preschool children](literacy-express-no-effects-cognition-math.md) — related
 - [Literacy Express has positive effects on phonological processing for preschool children, with significant effects in two of three studies](literacy-express-positive-phonological-processing.md) — related

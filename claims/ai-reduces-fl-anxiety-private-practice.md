@@ -92,3 +92,4 @@ Thematic synthesis codes 31 studies to self-efficacy and self-confidence enhance
 - [For some students, AI-generated feedback reduces the perceived personal risk of exposing weaknesses, functioning as a psychologically safe space for feedback seeking](ai-feedback-reduces-perceived-personal-risk.md) — a narrower finding that bears on this claim
 - [A 15-week extensive reading course increased Japanese EFL learners' feelings of comfort with foreign-language reading (r = .54)](er-increased-comfort-efl-reading-attitude.md) — related
 - [Extensive reading reduced Japanese EFL learners' anxiety about foreign-language reading (r = .34)](er-reduced-anxiety-efl-reading-attitude.md) — related
+- [EFL learners perceive AI-mediated instruction as engaging, personalized, anxiety-reducing, and empowering for autonomous learning](learner-perceptions-ai-engagement-personalization.md) — related

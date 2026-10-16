@@ -43,6 +43,6 @@ Sentiment analysis of Task 1 interview responses using VADER compound scores, av
 
 
 ## Related Claims
-- [AI-assistant mode inflates self-reported mathematics self-efficacy and suppresses reported anxiety](ai-assistant-mode-inflates-math-self-efficacy.md) — related
+- [LLMs simulating survey respondents under AI-assistant instructions report higher mathematics self-efficacy and lower anxiety than under human-shadow conditioning](ai-assistant-mode-inflates-math-self-efficacy.md) — related
 - [Human-shadow prompting generates broad psychometric variance while AI-assistant responses are uniform](human-shadow-prompting-generates-psychometric-variance.md) — related
 - [LLM digital shadows reproduce the human pattern of positive science perceptions anchored in negative mathematics associations](llm-shadows-reproduce-negative-math-semantic-bias.md) — related

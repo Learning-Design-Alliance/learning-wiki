@@ -40,6 +40,9 @@ Paired-samples t-test within the experimental group in the quasi-experimental st
 ## Discussion
 
 
+## Learner Variables
+- [Geometric Reasoning](../learner-variables/geometric-reasoning.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The post-test advantage of generative AI-supported instruction persists after controlling for pre-test performance (ANCOVA)](genai-geometry-ancova-group-effect.md) — related
 - [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) — possibly the same claim (merge candidate)
@@ -47,4 +50,4 @@ Paired-samples t-test within the experimental group in the quasi-experimental st
 - [Access to a generative-AI assistant raises task performance for both lower- and higher-education adults, with significantly larger gains for lower-education participants](ai-assistance-raises-task-performance-larger-gains-lower-education.md) — related
 - [Structured GenAI scaffolding training raises sophomore STEM students' posttest CSEM electromagnetism scores over problem-solving training (d = 0.81)](genai-scaffolding-training-improves-revision-performance.md) — related
 - [Within the experimental group, AI-supported instruction produced statistically significant pre-to-post gains on media reading, media writing, and total media literacy](experimental-group-within-group-gains-all-subscales.md) — related
-- [Both GAI-assisted and traditional DST groups improved in CPS skills over the 20-week program, with larger gains in the GAI group](both-groups-improved-cps-gai-larger-gains.md) — related
+- [Both GAI-assisted and traditional DST groups improved in CPS skills over the 20-week program, with larger gains in the GAI group](gai-assisted-dst-improves-cps-skills.md) — related

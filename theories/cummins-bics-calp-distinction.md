@@ -44,7 +44,7 @@ The packet explains that "Cummins divides language proficiency into two dimensio
 
 - [BICS and CALP intersect developmentally but are not identical or reducible one to the other](../claims/bics-calp-intersect-not-identical.md) [+W]
 - [The BICS-before-CALP sequence is typical for immigrant children but not universal: high L2 CALP can precede fluent L2 BICS in certain situations](../claims/calp-can-precede-bics-in-certain-situations.md) [+W]
-- [Immigrant children acquire peer-appropriate conversational fluency in English within about 2 years but require considerably longer (5-10 years) to catch up academically in English](../claims/bics-acquired-faster-than-calc-immigrant-children.md) [+M]
+- [Immigrant children acquire peer-appropriate conversational fluency in English within about 2 years but require considerably longer (5-10 years) to catch up academically in English](../claims/bics-acquired-faster-than-calc-immigrant-children.md) [+W]
 - [Assuming conversational fluency indicates English proficiency has led to bilingual children being misdiagnosed as learning disabled or retarded and to premature exit from support programs](../claims/conversational-fluency-misleading-proficiency-indicator.md) [+W]
 
 ## Related Theories

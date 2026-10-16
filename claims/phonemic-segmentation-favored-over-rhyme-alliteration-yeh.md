@@ -61,6 +61,10 @@ Yeh (2003) print knowledge finding from a letter-sound matching measure; the ear
 ## Discussion
 
 
+## Learner Variables
+- [Alphabet Knowledge and Print Awareness](../learner-variables/alphabet-knowledge-and-print-awareness.md) — outcome: instruction changes it
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Phonological awareness training plus letter knowledge training has potentially positive effects on preschoolers' early reading/writing](pat-lk-potentially-positive-early-reading-writing.md) — related
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — a broader claim this one bears on

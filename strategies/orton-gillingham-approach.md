@@ -19,7 +19,7 @@ The Orton Gillingham (OG) Approach is an explicit, sequential, and multisensory 
 
 ## Design Implications
 
-OG operationalizes several well-supported principles: systematic [explicit instruction](../patterns/direct-instruction.md) of grapheme–phoneme correspondences, cumulative review to build [automaticity](../elements/automaticity.md), and multisensory pairing that gives learners redundant encoding channels [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Its emphasis on decoding to automaticity is grounded in the finding that labored word recognition consumes working memory needed for comprehension [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. The multisensory component itself has weaker independent evidence than the explicit, systematic phonics core; the approach's effectiveness appears driven primarily by its structured literacy content and pacing rather than the sensory pairing per se [~M].
+OG operationalizes several well-supported principles: systematic [explicit instruction](../patterns/direct-instruction.md) of grapheme–phoneme correspondences, cumulative review to build [automaticity](../elements/automaticity.md), and multisensory pairing that gives learners redundant encoding channels [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Its emphasis on decoding to automaticity is grounded in the finding that labored word recognition consumes working memory needed for comprehension [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. The multisensory component itself has weaker independent evidence than the explicit, systematic phonics core; the approach's effectiveness appears driven primarily by its structured literacy content and pacing rather than the sensory pairing per se [~M].
 
 ### Context
 #### Requirements
@@ -46,7 +46,7 @@ OG operationalizes several well-supported principles: systematic [explicit instr
 
 ### Target Learning Goals
 - Phonemic awareness and alphabetic principle
-- Accurate, automatic word recognition and spelling [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Accurate, automatic word recognition and spelling [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Fluency as a foundation for reading comprehension
 
 ### Instructions

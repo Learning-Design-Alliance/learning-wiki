@@ -40,6 +40,9 @@ Literature synthesis in the processing-feedback section. The paper cites Essien 
 ## Discussion
 
 
+## Learner Variables
+- [Metacognition](../learner-variables/metacognition.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related

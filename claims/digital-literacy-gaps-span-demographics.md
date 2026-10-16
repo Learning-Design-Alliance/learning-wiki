@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings
-description: Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings
+title: A review reports that digital skills gaps span demographic groups and are associated with e-learning acceptance, job performance, and earnings
+description: A review reports that digital skills gaps span demographic groups and are associated with e-learning acceptance, job performance, and earnings
 id: digital-literacy-gaps-span-demographics
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: "?"
 ---
 
-# Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings
+# A review reports that digital skills gaps span demographic groups and are associated with e-learning acceptance, job performance, and earnings
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`

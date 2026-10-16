@@ -13,14 +13,14 @@ generated:
 # Prediction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 10 studies (6 causal, 2 review, 1 quant-synthesis, 1 qualitative), `q2`–`q3` · 3 of 10 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (4 for, 3 mixed) · 8 studies (5 causal, 1 quant-synthesis, 1 review, 1 qualitative), `q2`–`q3` · 3 of 8 report an effect size · 5 claims rest on one study
 
 ## Description
 A prediction asks learners to commit to an answer, outcome, or explanation *before* receiving instruction — guessing the result of an experiment, the next step in a demonstration, or the answer to a question about material not yet taught. The act of committing, even incorrectly, prepares learners to encode the corrective information that follows.
 
 ## Design Implications
 
-Predictions leverage the pretesting effect: attempting to answer before instruction improves retention of the correct answer relative to studying without a prior attempt, even when the initial guess is wrong [Unsuccessful retrieval attempts enhance subsequent learning.](../claims/high-confidence-errors-improve-retention.md) [+S]. Predictions work by activating relevant prior knowledge and creating a state of curiosity or disequilibrium that makes the eventual answer more memorable [Activation improves learning outcomes.](../claims/activation-improves-learning.md) [+M]. They are most effective when followed promptly by feedback or instruction that resolves the uncertainty — a prediction left unresolved yields little benefit [Prequestions improve learning from video when followed by relevant instruction.](../claims/activation-improves-learning.md) [+M].
+Predictions leverage the pretesting effect: attempting to answer before instruction improves retention of the correct answer relative to studying without a prior attempt, even when the initial guess is wrong [Pretesting enhances learning](../claims/pretesting-enhances-learning.md) [+S]. Predictions work by activating relevant prior knowledge and creating a state of curiosity or disequilibrium that makes the eventual answer more memorable [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](../claims/activation-improves-learning.md) [~M]. They are most effective when followed promptly by feedback or instruction that resolves the uncertainty — a prediction left unresolved yields little benefit [Pre-instruction testing enhances memory for directly tested video content, with benefits shown for videos from 5 to 30 minutes](../claims/pretesting-enhances-memory-tested-video.md) [+M].
 
 ### Context
 #### Requirements
@@ -30,13 +30,13 @@ Predictions leverage the pretesting effect: attempting to answer before instruct
 - Low stakes — learners must feel safe guessing wrong, since errors are the mechanism, not a failure ([Assessment](assessment.md) for learning, not of it)
 
 #### Constraints
-- Predictions about content unrelated to subsequent instruction can divert attention and *impair* learning of the material actually presented [Prequestions can impair learning of material not targeted by the question.](../claims/activation-improves-learning.md) [-S] — the "prequestioning penalty" for incidental content
+- Predictions about content unrelated to subsequent instruction can divert attention and *impair* learning of the material actually presented [Effects of pre-instruction testing on untested but studied materials are highly inconsistent across experiments and materials](../claims/pretesting-untested-materials-inconsistent.md) [~M] — the "prequestioning penalty" for incidental content
 - If learners lack any relevant prior knowledge, guesses are random and the activation benefit shrinks [~M]
 - High-stakes grading of predictions suppresses the willingness to commit, eliminating the effect
 - Overly difficult predictions that produce frustration rather than curiosity can disengage learners [~W]
 
 ### Target Learners
-- Novices with some, but incomplete, prior knowledge — enough to generate a plausible guess [Unsuccessful retrieval attempts enhance subsequent learning.](../claims/high-confidence-errors-improve-retention.md) [+S]
+- Novices with some, but incomplete, prior knowledge — enough to generate a plausible guess [Pretesting enhances learning](../claims/pretesting-enhances-learning.md) [+S]
 - Learners prone to illusions of knowing; a failed prediction exposes gaps that passive reading conceals
 - Less effective for complete novices with no relevant schema to activate, or for advanced learners who already know the answer and gain no new uncertainty
 

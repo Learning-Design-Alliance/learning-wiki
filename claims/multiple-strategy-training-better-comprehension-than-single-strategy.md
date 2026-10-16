@@ -41,6 +41,9 @@ Panel synthesis of the experimental studies meeting WWC standards behind Recomme
 
 ## Discussion
 
+## Learner Variables
+- [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — the general claim this finding bears on, with the studies behind it

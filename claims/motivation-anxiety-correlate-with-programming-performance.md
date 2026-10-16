@@ -14,7 +14,7 @@ sources:
     title: "Fan, G., Liu, D., Zhang, R., & Pan, L. (2025). The impact of AI-assisted pair programming on student motivation, programming anxiety, collaborative learning, and programming performance: a comparative study with traditional pair programming and individual approaches. International Journal of STEM Education. https://doi.org/10.1186/s40594-025-00537-3"
     author: "Fan, G., Liu, D., Zhang, R., & Pan, L."
     q: 3
-    i: 3
+    i: "?"
     kind: causal
     rigour: 2
 ---
@@ -22,10 +22,10 @@ sources:
 # At semester end, intrinsic motivation was positively correlated and programming anxiety negatively correlated with programming performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
-`q3 i3` Intrinsic motivation correlated positively with performance (r = 0.523) and anxiety negatively (r = -0.487), both p < 0.01. [→ Fan 2025](#fan-2025)
+`q3 i?` Intrinsic motivation correlated positively with performance (r = 0.523) and anxiety negatively (r = -0.487), both p < 0.01. [→ Fan 2025](#fan-2025)
 
 ## Evidence
 
@@ -33,7 +33,7 @@ sources:
 
 Fan, G., Liu, D., Zhang, R., & Pan, L. (2025). The impact of AI-assisted pair programming on student motivation, programming anxiety, collaborative learning, and programming performance: a comparative study with traditional pair programming and individual approaches. International Journal of STEM Education. https://doi.org/10.1186/s40594-025-00537-3
 
-`q3 · i3` · `causal · r2`
+`q3 · i?` · `causal · r2`
 
 Correlation analysis at T3 in the quasi-experiment (Table 6); "intrinsic motivation was positively correlated with performance (r = 0.523)" and anxiety negatively (r = -0.487), suggesting higher motivation and lower anxiety are associated with better performance.
 

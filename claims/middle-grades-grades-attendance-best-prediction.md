@@ -42,6 +42,9 @@ The review reports, citing Allensworth et al. (2014), a Chicago study of middle 
 ## Discussion
 
 
+## Learner Variables
+- [Personality Traits](../learner-variables/personality-traits.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Combining GPA or course failure rates with attendance provides the best prediction of high school graduation for most EL groups, while GPA plus test scores best predicts college degree attainment](indicator-combinations-best-prediction-el.md) — related
 - [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related

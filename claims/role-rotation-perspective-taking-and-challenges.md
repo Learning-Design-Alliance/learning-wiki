@@ -56,6 +56,9 @@ Reflective journal excerpt (RJ-P23) from the intervention, illustrating particip
 
 ## Discussion
 
+## Learner Variables
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — the general claim this finding bears on, with the studies behind it

@@ -51,3 +51,4 @@ Shahrokni's (2009) empirical study assigned 90 Iranian EFL learners to three gro
 - [Tasks with higher involvement load, involving search and evaluation, are conducive to better word retention, with marginal glosses efficient for incidental learning](involvement-load-tasks-improve-word-retention.md) — related
 - [Textual prompts yield significantly stronger continuing motivation than pictorial prompts](textual-prompts-stronger-continuing-motivation.md) — related
 - [Captioning second-language videos produces large benefits for comprehension and vocabulary acquisition](captioning-second-language-videos-large-benefits.md) — related
+- [In Chun and Plass's CyberBuch studies, the text + picture annotation group significantly outperformed text-definition and text + video groups on a vocabulary test](chun-plass-text-picture-outperformed-text-video.md) — related

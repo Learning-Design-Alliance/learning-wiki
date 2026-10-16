@@ -42,6 +42,9 @@ Observation from the same two-student teaching experiment: in later sessions bot
 
 ## Discussion
 
+## Learner Variables
+- [Algebraic Thinking](../learner-variables/algebraic-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — the general claim this finding bears on, with the studies behind it

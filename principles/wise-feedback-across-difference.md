@@ -13,7 +13,7 @@ generated:
 # Wise Feedback Across Racial and Ethnic Difference
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 12 claims (5 for, 6 mixed, 1 against) · 22 studies (8 causal, 8 quant-synthesis, 5 review, 1 associational), `q2`–`q4` · 7 of 22 report an effect size · 2 claims rest on one study
+> **Evidence** · 11 claims (5 for, 5 mixed, 1 against) · 22 studies (8 causal, 8 quant-synthesis, 5 review, 1 associational), `q2`–`q4` · 7 of 22 report an effect size · 2 claims rest on one study
 
 ## Conditional relationship
 
@@ -110,7 +110,7 @@ The earlier page cited no claims. These were found while converting it and bear 
 
 - [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](../claims/feedback-answers-three-questions-improves-learning.md) [+W]: a review's model of feedback (goal, status, next step), abstract only; used in the default design's first step for the shape of the critique.
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](../claims/parent-involvement-improves-achievement.md) [+W]: three meta-analyses of correlational studies; high parental expectations and communication about school go with achievement. Bears only on the parent conversation, and only by carrying.
-- [Feedback Addressing Task Improves Learning](../claims/feedback-addressing-task-improves-learning.md) [~S]: carries the same two meta-analytic entries as the task-and-process claim above, and appears to duplicate it.
+- [Feedback Addressing Task Improves Learning](../claims/feedback-most-effective-at-task-and-process-levels.md) [~S]: carries the same two meta-analytic entries as the task-and-process claim above, and appears to duplicate it.
 
 ## Objective and learner-valued goal
 

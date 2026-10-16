@@ -42,6 +42,10 @@ Synthesis across the 12 meta-analyses reviewed in the report's evidence section,
 ## Discussion
 
 
+## Learner Variables
+- [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — outcome: instruction changes it
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Schools fostering high self-esteem and social and scholastic success reduce the likelihood of emotional and behavioral disturbance](rutter-school-ethos-high-expectations-protective.md) — related
 - [SEL program effects are sustained over long-term follow-up periods](sel-benefits-persist-follow-up.md) — related

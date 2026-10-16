@@ -42,6 +42,9 @@ Synthesis in the RQ1 findings section of the review: LLMs can "simulate evaluati
 ## Discussion
 
 
+## Learner Variables
+- [Collaboration](../learner-variables/collaboration.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Tablet-PC-supported peer-assisted learning reduced EFL learners' anxiety and promoted motivation and confidence in collaborative reading](tablet-pc-peer-assisted-learning-reduces-anxiety.md) — related
 - [LLM-based everyday learning is predominantly an individual activity, with 89% learning alone](llm-learning-predominantly-individual.md) — related

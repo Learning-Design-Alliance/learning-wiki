@@ -46,6 +46,7 @@ The authors' motivating premise, stated without cited evidence on this page: dis
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
 - [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Vocabulary](../learner-variables/vocabulary.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Single exposures yield partial word knowledge, and repeated encounters in varied contexts build complete word meaning (fast mapping then full mapping)](fast-mapping-full-mapping-word-learning.md) — related

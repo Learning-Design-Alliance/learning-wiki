@@ -41,6 +41,9 @@ Experimental design with N = 51 first-year Ukrainian ESL students randomly assig
 
 ## Discussion
 
+## Learner Variables
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — the general claim this finding bears on, with the studies behind it

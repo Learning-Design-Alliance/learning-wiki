@@ -61,6 +61,9 @@ Retention-rate analysis from the same delayed recall task, printed effect size r
 ## Discussion
 
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 - [VeriForge raises perceived creativity support and lowers workload relative to a same-retrieval baseline, with mixed survival after correction](veriforge-creativity-support-workload.md) — related
 - [Retention trajectories diverged by centre: Centre 1 retained gains at 30 days while Centre 2 showed significant post-to-delayed decay](podcast-retention-divergence-massed-vs-distributed.md) — related

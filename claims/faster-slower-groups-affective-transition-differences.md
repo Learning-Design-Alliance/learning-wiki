@@ -45,6 +45,7 @@ ONA difference network comparing groups split by median task duration shows "fas
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — predictor: learners who differ on it differ in outcomes
 - [Interest](../learner-variables/interest.md) — predictor: learners who differ on it differ in outcomes
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Affective experience during situated collaborative problem solving is organized around a stable epistemic core linking curiosity, optimism, and confusion with short-range persistence](stable-epistemic-core-curiosity-optimism-confusion-cps.md) — related

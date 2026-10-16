@@ -42,6 +42,9 @@ Meta-analysis pooling effect sizes from 44 of 53 program evaluations identified 
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [School-based anti-bullying programs decrease victimization by 17-20% on average](anti-bullying-programs-reduce-victimization-17-20-percent.md) — related
 - [School-based anti-bullying programs reduce bullying perpetration and victimization globally](anti-bullying-programs-reduce-perpetration-and-victimization-globally.md) — a broader claim this one bears on

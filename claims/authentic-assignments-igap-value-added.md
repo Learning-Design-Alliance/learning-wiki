@@ -42,6 +42,9 @@ Value-added analysis of IGAP reading, mathematics, and writing outcomes for clas
 ## Discussion
 
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments](authentic-assignments-greater-itbs-gains.md) — related
 - [Both high- and low-prior-achieving students benefited from high-quality assignments, with math favoring low achievers and reading favoring high achievers](high-and-low-achievers-benefit-authentic-assignments.md) — related

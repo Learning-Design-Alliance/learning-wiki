@@ -12,7 +12,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 47 claims (35 show a difference, 7 mixed, 5 no difference) · 49 studies (14 causal, 11 review, 10 quant-synthesis, 4 associational, 4 qualitative, 4 design, 2 theoretical), `q1`–`q4` · 10 of 49 report an effect size · 42 claims rest on one study
+> **Evidence** · 47 claims (35 show a difference, 7 mixed, 5 no difference) · 49 studies (14 causal, 11 review, 10 quant-synthesis, 4 associational, 4 qualitative, 4 design, 2 theoretical), `q1`–`q4` · 11 of 49 report an effect size · 42 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -36,7 +36,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Interesting but irrelevant details can distract from learning](../claims/seductive-details-effect.md) [-M] — the effect that makes 'engaging' and 'effective' come apart
 - [Signaling improves learning](../claims/signaling-improves-learning.md) [+M] — cueing what matters directs attention rather than competing for it
 - [Segmenting improves multimedia learning](../claims/segmenting-improves-multimedia-learning.md) [+M] — learner-paced segments let attention reset at a boundary the learner chooses
-- [Classroom physical activity improves attention](../claims/classroom-physical-activity-improves-attention.md) [+M] — a scheduling rather than a presentation remedy
+- [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M] — a scheduling rather than a presentation remedy
 - [Across repetition cycles, attention can shift from message meaning to linguistic form, enabling recycled language and self-correction](../claims/attention-shift-meaning-to-form-over-cycles.md) [+M] — instruction changes it
 - [Attention plays a major role in L2 learning because a task-relevant knowledge base is built in memory through attention](../claims/attention-builds-task-relevant-knowledge-base.md) [+M] — learners who differ on it differ in outcomes
 - [Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement](../claims/co-construction-scribe-teacher-fosters-composition-autonomy.md) [+W] — instruction changes it

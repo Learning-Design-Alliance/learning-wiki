@@ -62,6 +62,7 @@ Model 2 of the failure regressions. Interactive pedagogy related to lower failur
 
 ## Learner Variables
 - [General Cognitive Ability](../learner-variables/general-cognitive-ability.md) — moderator: an instructional effect differs with it
+- [Algebraic Thinking](../learner-variables/algebraic-thinking.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 

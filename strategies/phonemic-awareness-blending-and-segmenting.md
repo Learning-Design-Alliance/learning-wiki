@@ -19,7 +19,7 @@ Blending is the ability to merge a sequence of isolated phonemes (/k/ /a/ /t/) i
 
 ## Design Implications
 
-Blending and segmenting are the two phonemic awareness skills with the strongest causal link to later reading achievement; instruction in them outperforms instruction in rhyme, alliteration, or syllable-level manipulation [Ehri's review found blending and segmenting instruction produced stronger reading and spelling gains than other PA skills.](https://doi.org/10.1598/RRQ.36.3.2) [+S]. Because phonemes are abstract and invisible, effective lessons make them perceptually salient — through articulatory cues (what the mouth does), manipulatives (counters, Elkonin boxes), or letters — reducing the working-memory burden of holding an abstract sound sequence [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Once taught, the skills must reach automaticity through brief, distributed practice, because effortful phonological manipulation competes with the decoding and comprehension work it is meant to support [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
+Blending and segmenting are the two phonemic awareness skills with the strongest causal link to later reading achievement; instruction in them outperforms instruction in rhyme, alliteration, or syllable-level manipulation [Ehri's review found blending and segmenting instruction produced stronger reading and spelling gains than other PA skills.](https://doi.org/10.1598/RRQ.36.3.2) [+S]. Because phonemes are abstract and invisible, effective lessons make them perceptually salient — through articulatory cues (what the mouth does), manipulatives (counters, Elkonin boxes), or letters — reducing the working-memory burden of holding an abstract sound sequence [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Once taught, the skills must reach automaticity through brief, distributed practice, because effortful phonological manipulation competes with the decoding and comprehension work it is meant to support [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
 
 ### Context
 #### Requirements
@@ -48,14 +48,14 @@ Blending and segmenting are the two phonemic awareness skills with the strongest
 ### Target Learning Goals
 - Decoding: blending is the oral analogue of sounding out printed words [Ehri's review found blending and segmenting instruction produced stronger reading and spelling gains than other PA skills.](https://doi.org/10.1598/RRQ.36.3.2) [+S]
 - Encoding/spelling: segmenting underlies mapping sounds to letters when writing
-- Phonological automaticity: freeing attention for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Phonological automaticity: freeing attention for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 
 ### Instructions
 1. **Model**: pronounce a word, then demonstrate the operation aloud ("*cat*. I hear /k/ /a/ /t/ — three sounds"), using [Act It Out](../elements/act-it-out.md) gestures or counters to make each phoneme visible.
 2. **Guide**: lead choral and individual responses with the same word set, providing immediate corrective feedback on distorted phonemes.
 3. **Practice with letters**: repeat the operation with graphemes shown, connecting oral manipulation to print.
 4. **Fade support**: remove counters and letters, increase word length, and mix blending and segmenting within a set.
-5. **Distribute and assess**: run brief daily sessions and monitor with a 1-minute segmenting probe until learners perform accurately and rapidly [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
+5. **Distribute and assess**: run brief daily sessions and monitor with a 1-minute segmenting probe until learners perform accurately and rapidly [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M].
 
 ## Related Strategies
 

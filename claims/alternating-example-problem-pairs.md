@@ -48,3 +48,4 @@ The review reports, citing Trafton and Reiser, an experiment using a LISP progra
 - [Example-first conditions outperformed problem-first conditions on an immediate circuit test](worked-example-problem-sequences.md) — the general claim this finding bears on, with the studies behind it
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — a broader claim this one bears on
 - [Interleaved practice produces higher mathematics test scores than blocked practice in a classroom experiment](interleaved-practice-higher-math-test-scores.md) — related
+- [Categorization accuracy was significantly higher for infrequently alternated categories than for frequently alternated categories](infrequent-alternation-higher-accuracy.md) — reports the opposite

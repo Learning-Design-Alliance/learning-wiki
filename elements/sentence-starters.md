@@ -13,7 +13,7 @@ generated:
 # Sentence Starters
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 14 studies (5 causal, 4 quant-synthesis, 3 review, 2 qualitative), `q1`–`q4` · 2 of 14 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 13 studies (4 causal, 4 review, 3 quant-synthesis, 2 qualitative), `q1`–`q4` · 2 of 13 report an effect size · 2 claims rest on one study
 
 ## Description
 Sentence starters are partial openings — "The evidence suggests that…", "One difference between X and Y is…", "I disagree because…" — that learners complete when speaking or writing. They function as a linguistic scaffold: the rhetorical and syntactic structure is supplied, so working memory and attention can go to the ideas being expressed.
@@ -43,7 +43,7 @@ Sentence starters lower the barrier to productive academic language, particularl
 
 ### Target Learning Goals
 - Academic language development: rehearsing discipline-specific syntax and vocabulary
-- Argumentation quality: frames like "The evidence shows… therefore…" structure claims, evidence, and reasoning [Argumentation benefits from structured support for claim-evidence-reasoning moves.](../claims/erroneous-examples-build-conceptual-knowledge.md) [~W]
+- Argumentation quality: frames like "The evidence shows… therefore…" structure claims, evidence, and reasoning [Prompts and scaffolds for paraphrasing, criticizing, questioning, and synthesizing arguments produce significantly more domain-specific and domain-general knowledge](../claims/argumentation-prompts-scaffolds-knowledge-gains.md) [~W]
 - Participation equity: lowering the production barrier so more learners contribute to discussion [+W]
 
 ### Affordances

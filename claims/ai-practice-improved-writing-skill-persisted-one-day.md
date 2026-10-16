@@ -60,6 +60,9 @@ One-day follow-up with 87% retention; attrition did not differ by condition (χ�
 
 ## Discussion
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](gpt4-access-harms-learning-after-withdrawal.md) — the general claim this finding bears on, with the studies behind it

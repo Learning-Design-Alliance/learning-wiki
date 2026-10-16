@@ -41,6 +41,9 @@ Independent t-test comparing posttest scores of the two test-sequence groups (n=
 
 ## Discussion
 
+## Learner Variables
+- [Problem Solving](../learner-variables/problem-solving.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Three weeks of explicit language-focused strategy instruction produced no significant word-problem gain in this study](explicit-strategy-instruction-no-significant-gain.md) — the general claim this finding bears on, with the studies behind it

@@ -42,6 +42,9 @@ Key finding from the Mathematica evaluation of TPP on student-level engagement w
 ## Discussion
 
 
+## Learner Variables
+- [Communication Skills](../learner-variables/communication-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Significantly more TPP teachers asked students to cite evidence from texts in discussions and writing](tpp-teachers-asked-students-cite-text-evidence.md) — related
 - [Significantly more TPP teachers encouraged students' higher-order thinking skills than district-supported comparison teachers](tpp-teachers-encouraged-higher-order-thinking.md) — related

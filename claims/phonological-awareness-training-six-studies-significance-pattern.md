@@ -42,6 +42,9 @@ The WWC's findings summary for the phonological processing domain across the six
 ## Discussion
 
 
+## Learner Variables
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The Bright Beginnings preschool curriculum shows no discernible effects on preschool children's school readiness across oral language, print knowledge, phonological processing, and math domains](bright-beginnings-no-discernible-effects-preschool.md) — related
 - [In the Torgesen et al. (2006) RCT, SpellRead™ showed indeterminate effects for fifth graders, with no statistically significant or substantively important effects in any domain after six months](torgesen-2006-spellread-indeterminate.md) — related

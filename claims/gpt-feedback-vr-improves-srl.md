@@ -48,3 +48,4 @@ Self-regulated learning outcome from the RCT with 81 undergraduates assigned to 
 ## Related Claims
 - [GPT feedback in VR markedly improved problem-solving and critical thinking but had limited impact on creativity](gpt-feedback-hots-problem-solving-critical-thinking-limited-creativity.md) — related
 - [Undergraduates learning IoT tasks in VR with ChatGPT-integrated feedback reached significantly higher cognitive levels on memory, understanding, and application tasks than peers receiving traditional VR feedback](gpt-feedback-vr-higher-cognitive-levels.md) — related
+- [AI applications contributed to STEM students' higher-order thinking, including problem-solving, computational thinking, and self-regulated learning](ai-stem-higher-order-thinking-effects.md) — a broader claim this one bears on

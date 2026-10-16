@@ -67,7 +67,7 @@ This practice guide organizes school-readiness instruction into seven recommenda
 
 ### Claims
 
-- [Strong Evidence Social Emotional Instruction Preschool](../claims/strong-evidence-social-emotional-instruction-preschool.md) [+S]
+- [Strong Evidence Social Emotional Instruction Preschool](../claims/strong-evidence-social-emotional-instruction-preschool.md) [+M]
 - [A WWC expert panel distilled recent research into seven recommendations for preschool educators on preparing young children for school](../claims/wwc-seven-recommendations-preschool-school-readiness.md) [+W]
 - [No reviewed study directly compared developmental-progression-guided math instruction with instruction not guided by a progression](../claims/no-direct-evidence-developmental-progression-versus-unguided.md) [~W]
 - [Developing and using clear behavior expectations for students is supported by strong evidence from 14 studies meeting WWC standards](../claims/clear-behavior-expectations-strong-evidence-14-studies.md) [+M]

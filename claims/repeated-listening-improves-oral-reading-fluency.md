@@ -61,6 +61,9 @@ Same Jablonski (2019) experiment, EasyCBM comprehension posttest. The review rep
 
 ## Discussion
 
+## Learner Variables
+- [Reading Fluency](../learner-variables/reading-fluency.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Fluency-building activities for struggling readers in grades 4–9 have strong evidence, based on 33 studies](strong-evidence-fluency-building-activities-grades-4-9.md) — the general claim this finding bears on, with the studies behind it

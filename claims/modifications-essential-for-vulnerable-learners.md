@@ -44,6 +44,7 @@ The author's practitioner distinction, drawn from experience teaching an older-b
 ## Learner Variables
 - [Access](../learner-variables/access.md) — moderator: an instructional effect differs with it
 - [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+- [Adverse Experiences](../learner-variables/adverse-experiences.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 

@@ -19,7 +19,7 @@ Worked example types form a guidance continuum rather than a single technique. A
 
 ## Design Implications
 
-The choice of worked example type should track learner expertise: high guidance early, fading as competence grows. Alternating examples with problems (example–problem pairs) consistently outperforms either examples alone or problem solving alone for novices [Example-problem sequences reduce cognitive load and improve learning for novices.](../claims/worked-example-problem-sequences.md) [+S]. As expertise develops, the same guidance becomes redundant and can even impose extraneous load [Guidance that helps novices becomes less effective or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~S].
+The choice of worked example type should track learner expertise: high guidance early, fading as competence grows. Alternating examples with problems (example–problem pairs) consistently outperforms either examples alone or problem solving alone for novices [Example-problem sequences reduce cognitive load and improve learning for novices.](../claims/worked-example-problem-sequences.md) [+M]. As expertise develops, the same guidance becomes redundant and can even impose extraneous load [Guidance that helps novices becomes less effective or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~S].
 
 ### Context
 #### Requirements
@@ -39,10 +39,10 @@ The choice of worked example type should track learner expertise: high guidance 
 - **Completion problems**: intermediate support; the learner completes the final steps, then progressively earlier steps are removed — the standard fading sequence
 - **Erroneous examples**: learners find and fix a planted error; effective for building conceptual understanding and error detection once basic procedures are known [Erroneous examples build conceptual knowledge when learners can engage the error productively.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]
 - **Case-based examples**: the worked solution is embedded in a narrative or professional scenario; adds context but also added load, so reserve for learners who can handle the extra processing
-- **Example–problem pairs**: each example is immediately followed by an isomorphic problem; the most robustly supported arrangement [Example-problem sequences reduce cognitive load and improve learning for novices.](../claims/worked-example-problem-sequences.md) [+S]
+- **Example–problem pairs**: each example is immediately followed by an isomorphic problem; the most robustly supported arrangement [Example-problem sequences reduce cognitive load and improve learning for novices.](../claims/worked-example-problem-sequences.md) [+M]
 
 ### Target Learners
-- Novices in a structured domain (algebra, programming, physics, grammar), for whom worked examples substitute for effortful, error-prone search [Example-problem sequences reduce cognitive load and improve learning for novices.](../claims/worked-example-problem-sequences.md) [+S]
+- Novices in a structured domain (algebra, programming, physics, grammar), for whom worked examples substitute for effortful, error-prone search [Example-problem sequences reduce cognitive load and improve learning for novices.](../claims/worked-example-problem-sequences.md) [+M]
 - Learners with low prior knowledge benefit most; for them, unguided problem solving imposes search-related extraneous load
 - More advanced learners should shift toward completion problems and then independent problems, since full examples become redundant [Guidance that helps novices becomes less effective or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~S]
 
@@ -54,7 +54,7 @@ The choice of worked example type should track learner expertise: high guidance 
 ### Instructions
 1. Identify the problem category and write a complete, correct solution with each step annotated for its rationale (subgoal labeling).
 2. Present the fully worked example first, integrated with the problem statement to avoid split attention; chunk steps so each is processed as a unit [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
-3. Follow immediately with an isomorphic problem the learner solves alone (example–problem pairing) [Example-problem sequences reduce cognitive load and improve learning for novices.](../claims/worked-example-problem-sequences.md) [+S].
+3. Follow immediately with an isomorphic problem the learner solves alone (example–problem pairing) [Example-problem sequences reduce cognitive load and improve learning for novices.](../claims/worked-example-problem-sequences.md) [+M].
 4. Fade support across the sequence: move from full examples to completion problems, removing progressively more of the solution ([Fading](../elements/fading.md)) [Fading support promotes transfer of responsibility to the learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 5. Once procedures are secure, introduce erroneous examples for learners to diagnose, deepening conceptual understanding [Erroneous examples build conceptual knowledge when learners can engage the error productively.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M].
 6. Monitor expertise and drop example support as soon as learners solve problems efficiently — continuing examples past this point wastes time [Guidance that helps novices becomes less effective or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~S].

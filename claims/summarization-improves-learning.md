@@ -103,6 +103,9 @@ Open questions include how summarization compares with other generative strategi
 
 **Open questions.** The optimal amount, timing, and format of summarization training (e.g., written vs. oral, individual vs. collaborative, summary length constraints) remain under-specified. The page records two studies, one an unpublished conference paper and one a peer-reviewed experiment whose result runs against summarizing; a synthesis of summarization studies, and studies with recall or comprehension outcomes, are still missing. <!-- deprecated (2026-10-05, stale): remain under-specified, and this page needs evidence entries before the claim's strength can be rated. -->
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Self-questioning improves comprehension](self-questioning-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it

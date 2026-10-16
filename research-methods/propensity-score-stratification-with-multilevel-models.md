@@ -66,7 +66,7 @@ The article employs a combined methodological framework: propensity score strati
 
 ### Claims
 
-- [Propensity Stratification Multilevel Reduces Selection Bias](../claims/propensity-stratification-multilevel-reduces-selection-bias.md) [+M]
+- [Propensity Stratification Multilevel Reduces Selection Bias](../claims/propensity-stratification-multilevel-reduces-selection-bias.md) [+W]
 - [Using baseline data strongly predictive of outcome measures considerably reduces bias in nonexperimental estimates of charter school achievement effects](../claims/predictive-baseline-data-reduce-nonexperimental-bias.md) [+W]
 - [Nonexperimental methods incorporating pre-treatment outcome measures can replicate experimental ITT impact estimates when control-group crossover occurs](../claims/nonexperimental-pre-treatment-methods-replicate-itt-under-crossover.md) [+W]
 

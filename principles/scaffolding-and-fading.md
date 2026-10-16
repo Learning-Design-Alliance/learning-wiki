@@ -512,7 +512,7 @@ The paper recommends that librarians provide support while consistently presenti
 
 ### Claims
 
-- [Challenge Support Imbalance Effects Novice Learners](../claims/challenge-support-imbalance-effects-novice-learners.md) [+M]
+- [Challenge Support Imbalance Effects Novice Learners](../claims/challenge-support-imbalance-effects-novice-learners.md) [+W]
 - [Qualitative findings: ease of use supports engagement and confidence, but challenge must be tailored to ability and content must be culturally relatable](../claims/koku-qualitative-acceptability-themes.md) [+W]
 - [Teacher support in AI-based instruction is effective only when balanced with students' autonomy and independent thinking](../claims/teacher-support-benefits-conditional-on-autonomy-balance.md) [~W]
 

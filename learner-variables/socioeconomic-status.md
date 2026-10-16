@@ -12,7 +12,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 82 claims (50 show a difference, 19 mixed, 13 no difference) · 68 studies (37 associational, 16 causal, 8 review, 3 theoretical, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q3` · 6 of 68 report an effect size · 81 claims rest on one study
+> **Evidence** · 81 claims (49 show a difference, 19 mixed, 13 no difference) · 68 studies (37 associational, 16 causal, 8 review, 3 theoretical, 2 quant-synthesis, 1 qualitative, 1 design), `q1`–`q3` · 6 of 68 report an effect size · 80 claims rest on one study
 
 ## How to read this page
 
@@ -147,7 +147,6 @@ A learner's economic and social position: family income or poverty (often measur
 - [Teacher mediation interacts with SES: the SES gap in elaborated utterances appears only in the low-mediating classroom](../claims/mediation-ses-interaction-elaborated-utterances.md) [~M] — an instructional effect differs by group
 - [The A4L impact on grade 4 CCU outcomes did not differ significantly between free/reduced-price lunch and non-FRL students](../claims/a4l-frl-subgroup-no-difference.md) [-W] — an instructional effect differs by group
 - [The article reviews evidence that aspects of the learning environment most closely associated with successful development of early academic competence differ by socioeconomic background](../claims/ses-differences-access-academically-auspicious-environments.md) [~W] — an instructional effect differs by group
-- [The average teaching-effectiveness disparity for disadvantaged students equals about four weeks of learning in reading and two weeks in math](../claims/teaching-disparity-weeks-of-learning.md) [+M] — an instructional effect differs by group
 - The average within-institution Pell/non-Pell completion gap is only 5.7 percentage points, far smaller than the 14-point national gap [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - The creativity dimension appears strongly in lower-SES urban black fifth-grade children and shows little relation to IQ [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The four-year college STEM major advantage of inclusive STEM high schools holds for Hispanic, female, and economically disadvantaged students, with odds ratios above three](../claims/ishs-stem-major-advantage-underrepresented-subgroups.md) [~M] — an instructional effect differs by group

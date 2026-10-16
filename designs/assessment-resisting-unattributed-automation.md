@@ -41,7 +41,7 @@ This pattern rebuilds grading around tasks a language model cannot quietly ghost
 - reflective practice
 
 ### Claims
-- [Students Reinvented Exams In Ai Course Grading Design](../claims/students-reinvented-exams-in-ai-course-grading-design.md) [~M]
+- [Students Reinvented Exams In Ai Course Grading Design](../claims/students-reinvented-exams-in-ai-course-grading-design.md) [~W]
 
 ## Related Designs
 - 

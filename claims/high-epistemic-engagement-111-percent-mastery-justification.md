@@ -60,6 +60,9 @@ The phi correlation matrix among the seven binary labels (Figure 3a) shows gener
 
 ## Discussion
 
+## Learner Variables
+- [Achievement Goal Orientation](../learner-variables/achievement-goal-orientation.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Mastery-approach, performance-approach, and performance-avoidance goals positively predict engagement, while mastery-avoidance goals do not, in AI-assisted English learning](goal-orientations-predict-engagement-ai-efl.md) — the general claim this finding bears on, with the studies behind it

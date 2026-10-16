@@ -197,7 +197,7 @@ For tasks where precise responding must be gradually brought under subject-matte
 
 ### Claims
 
-- [Task Type Moderates Induction Error Usefulness](../claims/task-type-moderates-induction-error-usefulness.md) [+M]
+- [Task Type Moderates Induction Error Usefulness](../claims/task-type-moderates-induction-error-usefulness.md) [+W]
 - [Errorless discrimination training avoids emotional responses and yields more effective transfer than errorful training (Terrace's pigeon studies)](../claims/errorless-discrimination-learning-transfer-advantage.md) [+W]
 - [Overt correction of errors speeds young children's learning compared with knowledge of correctness alone](../claims/overt-error-correction-speeds-young-children-learning.md) [~W]
 - [Self-discovery through errorful exploration is basically incompatible with error minimization in instruction](../claims/self-discovery-incompatible-with-error-minimization.md) [~W]

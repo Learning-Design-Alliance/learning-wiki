@@ -37,8 +37,8 @@ The article presents collaborative grounded theory as a methodological approach 
 - deeper understanding of the impact, both positive and negative, of an education program or policy
 
 ### Claims
-- [Dual Researcher Positional Reflexivity Strength Theory Generation](../claims/dual-researcher-positional-reflexivity-strength-theory-generation.md) [+M]
-- [Thirteen Education Leaders Interviews Two States Teacher Evaluation](../claims/thirteen-education-leaders-interviews-two-states-teacher-evaluation.md) [+M]
+- [Dual Researcher Positional Reflexivity Strength Theory Generation](../claims/dual-researcher-positional-reflexivity-strength-theory-generation.md) [+W]
+- [Thirteen Education Leaders Interviews Two States Teacher Evaluation](../claims/thirteen-education-leaders-interviews-two-states-teacher-evaluation.md) [+W]
 
 ## Related Theories
 - 

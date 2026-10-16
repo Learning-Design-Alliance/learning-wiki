@@ -37,8 +37,8 @@ The will-skill-tool (WST) model conceptualizes technology integration through th
 
 ### Claims
 
-- [Wst Characteristics Predict Teacher Digital Data Use](../claims/wst-characteristics-predict-teacher-digital-data-use.md) [+S]
-- [School Factors Mediated By Teacher Characteristics](../claims/school-factors-mediated-by-teacher-characteristics.md) [+S]
+- [Wst Characteristics Predict Teacher Digital Data Use](../claims/wst-characteristics-predict-teacher-digital-data-use.md) [+M]
+- [School Factors Mediated By Teacher Characteristics](../claims/school-factors-mediated-by-teacher-characteristics.md) [+M]
 - [About half of teachers report access to data technologies, but roughly half lack confidence in their data skills and do not use digital data to plan and adjust teaching](../claims/teachers-access-but-low-skill-and-use.md) [+M]
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](../claims/teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) [+W]
 

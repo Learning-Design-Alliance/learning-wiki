@@ -42,6 +42,9 @@ Narrative review statement in section 2.3.2 attributing the finding to cited Spa
 ## Discussion
 
 
+## Learner Variables
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Rhyme sensitivity plays a limited role in Spanish reading development and does not reliably distinguish stronger from weaker readers beyond early stages](rhyme-sensitivity-limited-role-spanish.md) — related
 - [In Spanish, decoding accuracy is typically established earlier, after which rate becomes a more sensitive predictor of passage comprehension](spanish-transparent-orthography-rate-predictor.md) — related

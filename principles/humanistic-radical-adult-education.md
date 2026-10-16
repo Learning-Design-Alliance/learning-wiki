@@ -191,7 +191,7 @@ The article presents two further approaches within the pragmatic progressive sta
 - [Critical speculative design pedagogy supports critical consciousness and justice-oriented sensemaking in science](../claims/critical-speculative-design-supports-critical-consciousness-in-science.md) [+M]
 - [Renewable assignments such as student-created quiz questions transcend classroom boundaries and can ameliorate economic injustice](../claims/renewable-assignments-economic-justice.md) [+W]
 - [Teachers perceived AI-supported futures as increasingly imaginable and linked to present actions](../claims/approaching-markers-future-attainability.md) [+W]
-- [Species Eulogy Fosters More Than Human Recognition](../claims/species-eulogy-fosters-more-than-human-recognition.md) [+M]
+- [Species Eulogy Fosters More Than Human Recognition](../claims/species-eulogy-fosters-more-than-human-recognition.md) [+W]
 
 ## Related Principles
 
@@ -283,7 +283,7 @@ This principle holds that critical communication pedagogy, alongside emancipatin
 - widening grievability and ecological relationality
 
 ### Claims
-- [Species Eulogy Fosters More Than Human Recognition](../claims/species-eulogy-fosters-more-than-human-recognition.md) [+M]
+- [Species Eulogy Fosters More Than Human Recognition](../claims/species-eulogy-fosters-more-than-human-recognition.md) [+W]
 
 ## Related Principles
 

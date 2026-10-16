@@ -99,6 +99,9 @@ Review synthesis of high-quality impact studies across the 112 interventions wit
 ## Discussion
 
 
+## Learner Variables
+- [Alphabet Knowledge and Print Awareness](../learner-variables/alphabet-knowledge-and-print-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Of 132 early literacy interventions evaluated by high-quality impact studies, 38 demonstrated effectiveness in at least one language or literacy outcome domain and 93 showed inconclusive effects](38-of-132-early-literacy-interventions-effective.md) — a broader claim this one bears on
 - [Teaching phonological awareness and print knowledge improved decoding performance even without decoding instruction, and adding decoding instruction more than doubled the weighted effect size](pa-pk-improve-decoding-without-decoding-instruction.md) — related

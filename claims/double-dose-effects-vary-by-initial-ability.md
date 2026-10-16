@@ -42,6 +42,9 @@ Percentile-rank-group cohort comparison (equations 3 and 4) contrasting post-pol
 ## Discussion
 
 
+## Learner Variables
+- [Algebraic Thinking](../learner-variables/algebraic-thinking.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [The double-dose algebra policy adversely affected non-targeted above-norm students: their algebra grades declined and failure rates increased post-policy](double-dose-policy-harmed-above-norm-grades.md) — related
 - [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points), largely explained by classroom environment and peer ability](double-dose-failure-rates-divergent.md) — related

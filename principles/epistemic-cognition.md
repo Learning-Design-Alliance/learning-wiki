@@ -351,7 +351,7 @@ The article argues, citing McQuillan, that "Datafication itself is a rhetorical 
 - epistemic responsibility toward algorithmic knowledge production
 
 ### Claims
-- [Data Construction Embeds Privilege In Data](../claims/data-construction-embeds-privilege-in-data.md) [+M]
+- [Data Construction Embeds Privilege In Data](../claims/data-construction-embeds-privilege-in-data.md) [+W]
 
 ## Related Principles
 - 

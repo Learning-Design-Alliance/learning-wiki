@@ -13,14 +13,14 @@ generated:
 # Assess performance
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 8 studies (3 theoretical, 2 review, 1 causal, 1 associational, 1 qualitative), `q1`–`q3` · 0 of 8 report an effect size · 4 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 mixed) · 14 studies (4 quant-synthesis, 3 review, 3 theoretical, 2 causal, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 14 report an effect size · 4 claims rest on one study
 
 ## Description
 Assessing performance is the instructional event in which learners demonstrate what they can do and the instructor or system evaluates that demonstration against criteria. It functions both as a measurement of mastery and as a learning event in its own right — the act of retrieving and producing performance strengthens memory and reveals gaps that instruction has not closed.
 
 ## Design Implications
 
-Performance assessment is most effective when criteria are transparent and feedback follows quickly, so learners can connect evaluation to the specific actions that produced it [Feedback that specifies the gap between current and desired performance improves achievement.](../principles/assessment-for-learning.md) [+S]. Assessments that require learners to *generate* performance — solving, writing, producing — produce stronger retention than recognition-based formats, because retrieval practice strengthens memory more than re-exposure [Testing produces stronger retention than restudying.](../principles/active-learning.md) [+S]. Rubrics and criterion-referenced scoring make judgments interpretable and support learner self-assessment.
+Performance assessment is most effective when criteria are transparent and feedback follows quickly, so learners can connect evaluation to the specific actions that produced it [Feedback that specifies the gap between current and desired performance improves achievement.](../claims/feedback-improves-learning.md) [+S]. Assessments that require learners to *generate* performance — solving, writing, producing — produce stronger retention than recognition-based formats, because retrieval practice strengthens memory more than re-exposure [Testing produces stronger retention than restudying.](../claims/retrieval-practice-improves-retention.md) [+S]. Rubrics and criterion-referenced scoring make judgments interpretable and support learner self-assessment.
 
 ### Context
 #### Requirements

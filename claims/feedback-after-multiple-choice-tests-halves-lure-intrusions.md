@@ -54,3 +54,8 @@ The chapter reports studies where students restudied correct answers after multi
 - [A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](feedback-timing-moderates-pretesting.md) — related
 - [Feedback neutralizes the effect of prior study on final cued recall performance](feedback-neutralizes-prior-study-effects.md) — related
 - [Feedback on a multiple-choice test sharply reduces lure intrusions on a later cued recall test, with immediate and delayed schedules equally effective](feedback-reduces-lure-intrusions.md) — possibly the same claim (merge candidate)
+- [Immediate feedback reduces multiple-choice lure production on later tests, and the overall positive effect of testing outweighs negative consequences](feedback-reduces-lure-production.md) — related
+- [Persistence of multiple-choice errors is driven by faulty reasoning that integrates the error into knowledge rather than by mere familiarity of lures](lure-persistence-reasoning-not-familiarity.md) — related
+- [Multiple-choice testing increases the later production of multiple-choice lures as answers on cued recall tests, even under warning against guessing](mc-testing-increases-lure-production.md) — related
+- [Multiple-choice testing improves later cued recall of prose facts, a benefit that persists though reduced after a one-week delay](mc-testing-prose-cued-recall-benefit.md) — related
+- [Positive and negative testing effects occur for questions tapping higher levels of Bloom's taxonomy, and question level does not change the memorial consequences of testing](testing-effects-bloom-higher-levels.md) — related

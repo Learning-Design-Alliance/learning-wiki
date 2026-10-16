@@ -42,6 +42,9 @@ Randomized trial of 69 kindergarteners assigned to DaisyQuest or regular kinderg
 ## Discussion
 
 
+## Learner Variables
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [DaisyQuest outperformed math-oriented control software on phonological awareness and phonics measures](daisyquest-beats-math-software-alphabetics.md) — related
 - [DaisyQuest outperformed alternative reading software on phonological awareness in at-risk first graders](daisyquest-beats-reading-software-phonological-awareness.md) — related

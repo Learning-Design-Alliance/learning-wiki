@@ -40,6 +40,9 @@ Qualitative and lexical analysis (Table 4, words with |z| > 1.96 shared across m
 
 ## Discussion
 
+## Learner Variables
+- [Identity](../learner-variables/identity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — the general claim this finding bears on, with the studies behind it

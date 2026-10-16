@@ -42,6 +42,9 @@ Systematic review using WWC 5.0 standards reports Reading Recovery, a one-on-one
 ## Discussion
 
 
+## Learner Variables
+- [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Reading Recovery has positive effects on general reading achievement for beginning readers, based on three randomized controlled trials](reading-recovery-positive-general-reading-achievement.md) — related
 - [Reading Recovery positively impacts grade 1 literacy achievement immediately after the intervention, with moderate evidence from one randomized controlled trial](reading-recovery-improves-grade1-literacy.md) — related

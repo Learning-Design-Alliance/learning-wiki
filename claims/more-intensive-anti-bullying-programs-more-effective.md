@@ -42,6 +42,9 @@ Moderator analysis across the 44 evaluated programs, based on researcher feedbac
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Effectiveness of anti-bullying programs varies significantly across evaluations (heterogeneity)](anti-bullying-program-effectiveness-heterogeneous.md) — a broader claim this one bears on
 - [School-based anti-bullying programs reduce bullying perpetration and victimization globally](anti-bullying-programs-reduce-perpetration-and-victimization-globally.md) — a broader claim this one bears on

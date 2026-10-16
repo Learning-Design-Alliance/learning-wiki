@@ -40,6 +40,9 @@ Four dimension-level ANOVAs on pre/post sub-scores found significant interaction
 ## Discussion
 
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The automated scoring system's agreement with human raters varied widely by dimension, with information fidelity showing a weak, non-significant correlation](yunyi-human-agreement-varies-by-dimension.md) — related
 - Empirical gains from AI tools in Arab EL2 classrooms are most consistent for surface-level outcomes, while higher-order writing quality and speaking proficiency show mixed results contingent on teacher mediation — a broader claim this one bears on

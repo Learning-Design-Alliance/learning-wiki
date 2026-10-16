@@ -42,6 +42,9 @@ Benchmark evaluation on GeoVAD-Bench comparing final-answer accuracy under three
 ## Discussion
 
 
+## Learner Variables
+- [Geometric Reasoning](../learner-variables/geometric-reasoning.md) — outcome: instruction changes it
+
 ## Related Claims
 - [GeoWeave-8B achieves the highest open-source final-answer accuracy and process average on GeoVAD-Bench, gaining 25.3 and 30.4 percentage points over its base model](geoweave-8b-gains-over-basemodel.md) — related
 - [Step-level credit assignment added to Interleave-RL raises the reasoning score from 46.3% to 66.3% on GeoVAD-Bench](step-level-credit-assignment-boosts-reasoning.md) — related

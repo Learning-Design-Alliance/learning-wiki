@@ -42,7 +42,7 @@ Naming the negative voice works through self-distancing: referring to one's nega
 
 ### Target Learners
 - K–12 students who struggle with negative self-perception, fixed-mindset statements, or performance anxiety
-- Students low in academic self-efficacy benefit most, since the technique directly targets the beliefs that undermine persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]
+- Students low in academic self-efficacy benefit most, since the technique directly targets the beliefs that undermine persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 - Less suitable for students who experience the activity as infantilizing; offer the private journaling variant instead [~W]
 
 ### Target Learning Goals

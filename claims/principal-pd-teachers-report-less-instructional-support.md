@@ -42,6 +42,9 @@ In the randomized comparison of the 100 elementary schools, teacher survey repor
 ## Discussion
 
 
+## Learner Variables
+- [Social Supports](../learner-variables/social-supports.md) — outcome: instruction changes it
+
 ## Related Claims
 - [An intensive principal professional development program did not change principals' practices in the ways intended by the program](principal-pd-instructional-leadership-no-practice-change.md) — a broader claim this one bears on
 - [Teachers whose principals received the program were no more likely to report positive perceptions of the usefulness of the feedback provided](principal-pd-no-change-feedback-usefulness-perceptions.md) — related

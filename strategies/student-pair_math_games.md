@@ -23,7 +23,7 @@ Pair-based games facilitate active learning through friendly competition, requir
 
 ## Design Implications
 
-Pair games convert drill into a fast-paced social activity, increasing time-on-task and response frequency compared with worksheet practice [active, game-based formats can improve engagement and outcomes over passive practice](../claims/active-learning-improves-exam-performance.md) [+M]. The physical, movement-based format adds an embodied component that supports attention and engagement, particularly for young learners [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]. Effectiveness depends on the game requiring genuine computation on every turn — games where a few students dominate or where guessing is cheaper than calculating lose the practice benefit.
+Pair games convert drill into a fast-paced social activity, increasing time-on-task and response frequency compared with worksheet practice [active, game-based formats can improve engagement and outcomes over passive practice](../claims/active-learning-improves-exam-performance.md) [+M]. The physical, movement-based format adds an embodied component that supports attention and engagement, particularly for young learners [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]. Effectiveness depends on the game requiring genuine computation on every turn — games where a few students dominate or where guessing is cheaper than calculating lose the practice benefit.
 
 ### Context
 #### Requirements
@@ -44,7 +44,7 @@ Pair games convert drill into a fast-paced social activity, increasing time-on-t
 - Rotate partners across rounds to vary peer interaction and equalize pairing strength
 
 ### Target Learners
-- Elementary students building fluency with basic number combinations; low-income and lower-achieving students benefit especially from structured number games [Number board game play produced broad, stable gains in low-income children's numerical knowledge.](../claims/number-board-games-improve-numerical-knowledge.md) [+S]
+- Elementary students building fluency with basic number combinations; low-income and lower-achieving students benefit especially from structured number games [Number board game play produced broad, stable gains in low-income children's numerical knowledge.](../claims/number-board-games-improve-numerical-knowledge.md) [+M]
 - Learners who need high-repetition practice but respond poorly to worksheets
 - Less suitable as an introduction to a *new* concept — games consolidate and strengthen existing skills rather than build initial understanding
 

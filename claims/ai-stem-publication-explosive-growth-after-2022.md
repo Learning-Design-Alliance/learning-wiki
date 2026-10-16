@@ -50,3 +50,4 @@ Bibliometric trend analysis of annual publication counts (Figure 2) over the 201
 - Publication of review-automation papers grew at an estimated 4.7% monthly rate from January 2020 through June 2025 — related
 - Publication output on metacognition in STEM education increased steadily since 2005, with notable growth after 2015 — related
 - [The K-12 AI literacy literature grew slowly until 2016 and increased sharply in 2020, with most contributions published as conference papers](k12-ai-literacy-bibliometric-growth.md) — related
+- [Publication of empirical AI-STEM studies increased over the decade, with most articles published 2018–2021](ai-stem-publications-increasing-trend-2018-2021.md) — related

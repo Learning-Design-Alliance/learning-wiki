@@ -42,6 +42,9 @@ Meta-analytic results for code-related literacy skills: 11 of 14 contrasts combi
 ## Discussion
 
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
+
 ## Related Claims
 - [In a Los Angeles RCT, Earobics® plus Open Court improved phonological awareness but not letter knowledge, phonics, or fluency](earobics-cognitive-concepts-2003-phonological-awareness-gains.md) — related
 - [Phonological awareness training plus letter knowledge training has potentially positive effects on preschoolers' early reading/writing](pat-lk-potentially-positive-early-reading-writing.md) — related

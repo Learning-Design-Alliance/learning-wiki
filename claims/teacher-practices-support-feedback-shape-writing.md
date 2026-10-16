@@ -42,6 +42,9 @@ The brief distinguishes overt channels (instructional practices) from less obvio
 ## Discussion
 
 
+## Learner Variables
+- [Social Supports](../learner-variables/social-supports.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Teachers play a key role in engaging students in writing and improving writing outcomes in grades 6-12](teachers-key-role-secondary-writing-outcomes.md) — possibly the same claim (merge candidate)
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related

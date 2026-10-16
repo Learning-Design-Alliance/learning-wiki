@@ -36,7 +36,7 @@ The article adopts Littlewood's model of advanced language learners' development
 - sociolinguistic and pragmatic appropriateness in the target language
 
 ### Claims
-- [Mere Exposure Insufficient Advanced L2 Communicative Competence](../claims/mere-exposure-insufficient-advanced-l2-communicative-competence.md) [+M]
+- [Mere Exposure Insufficient Advanced L2 Communicative Competence](../claims/mere-exposure-insufficient-advanced-l2-communicative-competence.md) [+W]
 
 ## Related Theories
 

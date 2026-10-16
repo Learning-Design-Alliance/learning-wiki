@@ -63,7 +63,7 @@ A systematic review identified 4,398 articles, of which 14 controlled trials (73
 
 **Scope and mechanism.** This claim concerns structural brain change — increased hippocampal volume from aerobic exercise — rather than direct measurement of learning gains. The proposed pathway is that exercise-induced increases in hippocampal volume (and associated neurotrophic factors such as BDNF) support memory function, which in turn could benefit learning. Any implication for instructional design is therefore indirect: physical activity is a physiological precondition that may modulate the memory system, not a teaching strategy in itself.
 
-**Boundary conditions.** Effects are expected to depend on exercise modality (aerobic vs. resistance), intensity, duration, and the age of participants; older adults are the population in which hippocampal atrophy and its reversal have been most studied. Whether exercise produces meaningful hippocampal volume change in school-age learners, and whether such change translates into measurable academic gains, remains an open question. For related but distinct claims about timing and attention effects, see [Acute exercise timing affects memory](acute-exercise-timing-memory.md) and [Classroom physical activity improves attention](classroom-physical-activity-improves-attention.md).
+**Boundary conditions.** Effects are expected to depend on exercise modality (aerobic vs. resistance), intensity, duration, and the age of participants; older adults are the population in which hippocampal atrophy and its reversal have been most studied. Whether exercise produces meaningful hippocampal volume change in school-age learners, and whether such change translates into measurable academic gains, remains an open question. For related but distinct claims about timing and attention effects, see [Acute exercise timing affects memory](acute-exercise-timing-memory.md) and [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md).
 
 **Structural change ≠ learning gain.** Even where hippocampal volume increases are demonstrated, the link to improved encoding, retention, or academic performance is a further inferential step. A volume increase is a plausible substrate for better memory function, but instructional designers should not treat exercise as a substitute for sound memory-supporting design such as [Chunking reduces working memory load](chunking-reduces-working-memory-load.md); the two operate at entirely different levels of the system.
 
@@ -71,10 +71,13 @@ A systematic review identified 4,398 articles, of which 14 controlled trials (73
 
 **Single-claim limitation.** The evidence recorded above qualifies the title: one year-long trial found a 2% increase in anterior hippocampal volume against a declining control group, but a meta-analysis of 14 trials found no significant effect on total hippocampal volume and a positive effect only on the left hippocampus, largely from preventing the decline seen in controls.
 
+## Learner Variables
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Acute exercise timing affects memory](acute-exercise-timing-memory.md) — when exercise is scheduled relative to learning changes its memory effects
-- [Classroom physical activity improves attention](classroom-physical-activity-improves-attention.md) — physical activity's proximal effects on attention during learning
+- [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — physical activity's proximal effects on attention during learning
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — a complementary way to ease demands on the memory system during instruction
 - [Daily physiological changes in non-experimental situations influence measures of brain structure and function](daily-physiological-changes-influence-brain-measures.md) — a broader claim this one bears on
 - Intensive navigational practice is associated with larger posterior hippocampus gray matter in taxi drivers — related

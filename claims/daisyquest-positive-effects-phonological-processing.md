@@ -42,6 +42,9 @@ WWC synthesis of two randomized controlled trials (Foster et al., 1994; Lonigan 
 ## Discussion
 
 
+## Learner Variables
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Blending outcomes showed no statistically significant effects of DaisyQuest in the Lonigan et al. (2003) trial](daisyquest-blending-outcomes-not-significant.md) — a narrower finding that bears on this claim
 - [DaisyQuest improved phonological awareness over regular schooling in a child-care facility randomized trial](daisyquest-child-care-significant-gains.md) — a narrower finding that bears on this claim

@@ -59,6 +59,9 @@ Repeated-measures ANOVA across the three conditions (total N = 70) showed a sign
 
 ## Discussion
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — the general claim this finding bears on, with the studies behind it

@@ -42,6 +42,9 @@ Carry-over analysis in the fitness-chain megastudy: the article states that "Con
 ## Discussion
 
 
+## Learner Variables
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Forecasts by impartial judges failed to predict which interventions would be most effective](expert-forecasts-failed-to-predict-effective-interventions.md) — related
 - [45% of the 54 exercise interventions significantly increased weekly gym visits by 9% to 27% during the four-week intervention](megastudy-45-percent-interventions-increased-gym-visits.md) — related

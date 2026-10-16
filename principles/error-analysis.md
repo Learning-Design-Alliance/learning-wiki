@@ -26,7 +26,7 @@ sources:
 # Error Analysis
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (10 for, 4 mixed) · 21 studies (7 causal, 5 theoretical, 4 quant-synthesis, 2 review, 2 associational, 1 qualitative), `q1`–`q4` · 4 of 21 report an effect size · 9 claims rest on one study
+> **Evidence** · 15 claims (11 for, 4 mixed) · 22 studies (8 causal, 5 theoretical, 4 quant-synthesis, 2 review, 2 associational, 1 qualitative), `q1`–`q4` · 5 of 22 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -117,6 +117,7 @@ Claims this page cited before it was rewritten as a conditional model. Both are 
 
 The earlier page also cited the erroneous-examples claim `[-M]` for novice overload and the high-confidence claim `[~M]` for low-confidence errors; both readings are kept in the model above, with the first marked as not supported by the claim's own entries.
 - [Students report code understanding, debugging, and AI-limitation awareness as primary learning benefits of buggy GenAI programming tasks](../claims/student-reflections-buggy-genai-learning-benefits.md) [+M] — attached 2026-10-10 from When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code, which proposed "Deliberate bug injection into correct GenAI code to create code review opportunities".
+- [Erroneous examples produce significantly higher delayed-test learning gains than problem solving for decimal learning](../claims/erroneous-examples-delayed-learning-gain-decimals.md) [+W] — attached 2026-10-16 from Bruce M. McLaren et al. (2015), which proposed "Pair erroneous examples with correctness feedback so students cannot proceed with incorrect solutions"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -42,6 +42,9 @@ The review reports, citing Lew et al. (2016), an analysis of one lecture's proof
 ## Discussion
 
 
+## Learner Variables
+- [Algebraic Thinking](../learner-variables/algebraic-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Commognitive analysis of lecturing offers micro-level insights into lecturer-student communication that non-commognitive approaches miss](commognition-offers-micro-level-insights-into-lecturing.md) — a broader claim this one bears on
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related

@@ -57,6 +57,9 @@ First-person case reflection from the author's adult education classroom experie
 ## Discussion
 
 
+## Learner Variables
+- [Civic Mindedness](../learner-variables/civic-mindedness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Blended teaching shifted the teacher's self-identity from facilitator to co-facilitator and co-designer with students](blended-teaching-shifts-identity-to-co-facilitator.md) — related
 - [Narrative and storying genres in educational inquiry risk disempowering the very people they claim to empower](narrative-genres-may-disempower-while-claiming-empowerment.md) — reports the opposite

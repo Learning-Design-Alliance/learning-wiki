@@ -19,7 +19,7 @@ Block play involves using blocks to create structures and designs, either indepe
 
 ## Design Implications
 
-Block play is a form of [Active Learning](../principles/active-learning.md) in which learners manipulate concrete materials and receive immediate physical feedback — a tower that falls is a visible hypothesis test. Its learning value is well documented for spatial skill development: structured block-building interventions produce measurable gains in spatial ability in young children [Spatial skills improve through block-building interventions.](../claims/spatial-skills-improve-through-block-building.md) [+S], and the quality and complexity of preschool block play predicts later mathematics achievement [Block play complexity predicts later math achievement.](../claims/block-play-predicts-math-achievement.md) [+M]. Adult interaction matters: open-ended questioning during building ("What will happen if…?", "How could you make it more stable?") converts manipulation into reflection, consistent with evidence that self-explanation improves conceptual understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
+Block play is a form of [Active Learning](../principles/active-learning.md) in which learners manipulate concrete materials and receive immediate physical feedback — a tower that falls is a visible hypothesis test. Its learning value is well documented for spatial skill development: structured block-building interventions produce measurable gains in spatial ability in young children [Spatial skills improve through block-building interventions.](../claims/spatial-skills-improve-through-block-building.md) [+M], and the quality and complexity of preschool block play predicts later mathematics achievement [Block play complexity predicts later math achievement.](../claims/block-play-predicts-math-achievement.md) [+M]. Adult interaction matters: open-ended questioning during building ("What will happen if…?", "How could you make it more stable?") converts manipulation into reflection, consistent with evidence that self-explanation improves conceptual understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ### Context
 #### Requirements
@@ -33,13 +33,13 @@ Block play is a form of [Active Learning](../principles/active-learning.md) in w
 - Time pressure undermines the iterative test-and-revise cycle where most learning occurs [-M]
 
 #### Implementation Variability
-- Guided challenges (build a bridge that spans X; replicate a photograph of a structure) versus fully free building — guided versions show stronger spatial gains in intervention studies [Spatial skills improve through block-building interventions.](../claims/spatial-skills-improve-through-block-building.md) [+S]
+- Guided challenges (build a bridge that spans X; replicate a photograph of a structure) versus fully free building — guided versions show stronger spatial gains in intervention studies [Spatial skills improve through block-building interventions.](../claims/spatial-skills-improve-through-block-building.md) [+M]
 - Collaborative builds add negotiation, role division, and shared planning; solo builds allow deeper individual focus
 - Story-based or prop-enhanced builds (adding figures, vehicles) connect construction to narrative and dramatic play
 
 ### Target Learners
 - Early childhood learners through primary grades; benefits are strongest in preschool and kindergarten [Block play complexity predicts later math achievement.](../claims/block-play-predicts-math-achievement.md) [+M]
-- Children with weak spatial or early numeracy skills, who gain the most from structured block interventions [Spatial skills improve through block-building interventions.](../claims/spatial-skills-improve-through-block-building.md) [+S]
+- Children with weak spatial or early numeracy skills, who gain the most from structured block interventions [Spatial skills improve through block-building interventions.](../claims/spatial-skills-improve-through-block-building.md) [+M]
 - Benefits persist across gender, with structured interventions narrowing early spatial-skill gaps
 
 ### Target Learning Goals

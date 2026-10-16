@@ -19,7 +19,7 @@ This strategy pairs two moves that are ineffective in isolation: setting explici
 
 ## Design Implications
 
-High expectations raise performance when learners believe the expectations are achievable and when support is contingent on their current competence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]. Specific, difficult goals outperform vague "do your best" exhortations, but only when learners receive feedback on progress toward them [Specific difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]. Support must be responsive: help that is too heavy undermines the message of confidence, while help that is too thin turns high expectations into discouragement [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M].
+High expectations raise performance when learners believe the expectations are achievable and when support is contingent on their current competence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]. Specific, difficult goals outperform vague "do your best" exhortations, but only when learners receive feedback on progress toward them [Specific difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M]. Support must be responsive: help that is too heavy undermines the message of confidence, while help that is too thin turns high expectations into discouragement [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
@@ -45,7 +45,7 @@ High expectations raise performance when learners believe the expectations are a
 - Advanced learners, who disengage when standards are undemanding; for them, expectations can rise while support fades [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
 
 ### Target Learning Goals
-- Motivational outcomes: self-efficacy, persistence, and ownership of learning [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]
+- Motivational outcomes: self-efficacy, persistence, and ownership of learning [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 - Quality standards: producing work that meets explicit criteria rather than "done" criteria
 - Self-regulation: internalizing high standards as learners take over monitoring of their own performance [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]
 

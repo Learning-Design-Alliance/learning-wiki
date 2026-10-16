@@ -36,7 +36,7 @@ The article uses Ernest's (1991a) framework of mathematics-related belief system
 - evolution of beliefs about the nature of mathematics, its teaching, learning, and assessment
 
 ### Claims
-- [Preservice Philosophy Evolved By Appending Deeper Understanding](../claims/preservice-philosophy-evolved-by-appending-deeper-understanding.md) [+M]
+- [Preservice Philosophy Evolved By Appending Deeper Understanding](../claims/preservice-philosophy-evolved-by-appending-deeper-understanding.md) [+W]
 
 ## Related Theories
 - 

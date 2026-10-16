@@ -42,6 +42,9 @@ This interpretation comes from the netnographic analysis reported in the discuss
 ## Discussion
 
 
+## Learner Variables
+- [Social Supports](../learner-variables/social-supports.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Social-emotional support was the most frequent code in COVID-19-related Duolingo discussion posts, followed by gratitude and pandemic](socio-emotional-support-most-frequent-code.md) — related
 - [Duolingo users sought COVID-19 vocabulary in foreign languages and shared their own translations, with 17 users requesting pandemic-related lesson content](users-sought-covid-language-content.md) — related

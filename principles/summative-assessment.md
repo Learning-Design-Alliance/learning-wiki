@@ -19,7 +19,7 @@ sources:
 # Summative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 64 claims (16 for, 36 mixed, 12 against) · 52 studies (15 associational, 12 theoretical, 7 review, 6 causal, 6 qualitative, 4 design, 2 quant-synthesis), `q1`–`q4` · 5 of 52 report an effect size · 63 claims rest on one study
+> **Evidence** · 64 claims (16 for, 36 mixed, 12 against) · 52 studies (15 associational, 12 theoretical, 7 review, 6 causal, 6 qualitative, 4 design, 2 quant-synthesis), `q1`–`q4` · 4 of 52 report an effect size · 63 claims rest on one study
 
 ## Conditional relationship
 
@@ -214,7 +214,7 @@ A summative score at the end of a course, retention months later, transfer to a 
 Summative assessment is the principle of evaluating learner performance at the end of an instructional sequence in order to judge the level of competence, understanding, or achievement reached. Its value depends on whether the assessment samples the learning goals credibly rather than merely being comprehensive or difficult.
 
 ## Implications
-Summative assessment is most useful when end-point judgments are based on evidence that actually reflects the learning goals. For complex outcomes, integrated performances often provide stronger evidence of competence and transfer than recall-only tasks [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~S]. The instructional challenge is validity under pressure: one-shot high-stakes tasks can distort performance, and narrow formats can underrepresent what learners actually know. Strong summative assessment therefore depends on alignment, criteria, and defensible sampling of the intended competence.
+Summative assessment is most useful when end-point judgments are based on evidence that actually reflects the learning goals. For complex outcomes, integrated performances often provide stronger evidence of competence and transfer than recall-only tasks [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M]. The instructional challenge is validity under pressure: one-shot high-stakes tasks can distort performance, and narrow formats can underrepresent what learners actually know. Strong summative assessment therefore depends on alignment, criteria, and defensible sampling of the intended competence.
 
 ### Context
 #### Requirements
@@ -239,7 +239,7 @@ Summative assessment is most useful when end-point judgments are based on eviden
 
 ### Claims
 
-- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~S] — end-point judgments are often stronger when they sample meaningful whole-task performance rather than isolated recall alone
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M] — end-point judgments are often stronger when they sample meaningful whole-task performance rather than isolated recall alone
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md)

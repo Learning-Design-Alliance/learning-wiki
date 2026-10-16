@@ -85,6 +85,9 @@ A systematic review evaluating ten learning techniques against generalisability,
 
 **Design implications.** Designers should replace restudy opportunities with low-stakes quizzing, free recall prompts, or flashcard-style practice — see [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) for the related load considerations. Retrieval demands should be calibrated so learners can succeed with effort, feedback should follow each attempt, and retrieval events should be distributed across time rather than massed into a single session. Where rereading is retained — for example, as a first pass over dense or unfamiliar text — it should be positioned as preparation for retrieval, not a substitute for it.
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it

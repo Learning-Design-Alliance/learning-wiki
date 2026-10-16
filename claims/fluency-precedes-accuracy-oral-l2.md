@@ -42,5 +42,8 @@ The author's interpretation in the section on the functional method for oral Eng
 ## Discussion
 
 
+## Learner Variables
+- [Communication Skills](../learner-variables/communication-skills.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Unpressured within-task planning improves accuracy only when attention is guided to form](unpressured-within-task-planning-form-focused-accuracy.md) — related

@@ -43,6 +43,9 @@ Key findings from the lottery-based randomized experimental analysis. The report
 ## Discussion
 
 
+## Learner Variables
+- [Civic Mindedness](../learner-variables/civic-mindedness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Enrolling in Democracy Prep increases student voter registration rates by about 16 percentage points](democracy-prep-increases-voter-registration-16-points.md) — related
 - [Democracy Prep charter schools increase students' voting rates by about 12 percentage points in the 2016 election](democracy-prep-increases-voting-rates-12-points.md) — related

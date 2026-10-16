@@ -283,7 +283,7 @@ The article recommends explicitly designing task-based formative feedback into a
 - use of feedback
 
 ### Claims
-- [Feedback Makes Behaviour Seen Asynchronous](../claims/feedback-makes-behaviour-seen-asynchronous.md) [+M]
+- [Feedback Makes Behaviour Seen Asynchronous](../claims/feedback-makes-behaviour-seen-asynchronous.md) [+W]
 - Audit Most Activities Passive Active Icap [+M]
 
 ## Related Principles
@@ -322,7 +322,7 @@ The report argues that while simple feedback systems such as surveys are valuabl
 
 ### Claims
 
-- [Lvn Generator Feedback Loop Case](../claims/lvn-generator-feedback-loop-case.md) [+M]
+- [Lvn Generator Feedback Loop Case](../claims/lvn-generator-feedback-loop-case.md) [+W]
 - [In the Maker Learning @ Home cohort, feedback loops with cohort members redefined the initiative's outputs and goals](../claims/maker-cohort-amplifier-case.md) [+W]
 
 ## Related Principles

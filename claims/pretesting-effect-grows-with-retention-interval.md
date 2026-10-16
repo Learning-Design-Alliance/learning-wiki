@@ -41,6 +41,9 @@ The review's account of Kliegl et al. (2022), which tested text-passage pretesti
 
 ## Discussion
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — the general claim this finding bears on, with the studies behind it

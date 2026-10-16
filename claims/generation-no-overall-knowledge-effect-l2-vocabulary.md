@@ -43,6 +43,7 @@ Classroom action study: generalized linear mixed model (binomial) of Knowledge s
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
 
 ## Related Claims
 

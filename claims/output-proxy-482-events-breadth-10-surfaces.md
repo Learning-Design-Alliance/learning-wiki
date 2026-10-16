@@ -64,3 +64,4 @@ Workspace file-inventory classification into stable artifact-surface categories 
 ## Related Claims
 - [The memory layer recorded 889 failure, verification, correction, or protocol-proxy events (9.26 per active day), making governance part of the operating environment](governance-889-events-ger-9-26.md) — related
 - [A persistent agentic research environment sustained near-daily use over 115 days, with 75,671 de-duplicated telemetry records across 96 active days (active-day fraction 0.835)](persistent-agent-96-active-days-75671-records.md) — related
+- [Empirical ILE papers show a strong increase in breadth of content and time of use](aied-breadth-increase-topics-time.md) — related

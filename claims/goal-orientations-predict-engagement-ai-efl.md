@@ -53,6 +53,9 @@ SEM results (Table 3) show supported paths from mastery-approach (β = 0.312), p
 
 ## Discussion
 
+## Learner Variables
+- [Achievement Goal Orientation](../learner-variables/achievement-goal-orientation.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md) — the general claim this finding bears on, with the studies behind it

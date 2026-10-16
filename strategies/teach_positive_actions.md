@@ -19,7 +19,7 @@ Teaching positive actions means directly instructing learners in the concrete be
 
 ## Design Implications
 
-Positive actions function like any other learnable skill: they benefit from explicit modeling, guided practice, and feedback rather than exhortation. Meta-analytic evidence shows that social-emotional learning programs that teach skills explicitly improve both behavior and academic achievement [Durlak et al.'s SEL meta-analysis.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]. The strategy's core mechanism is a self-concept loop — learners observe that positive actions lead to positive feelings about themselves, which motivates further positive actions — consistent with social-cognitive accounts of reciprocal determinism between behavior, cognition, and environment [Social learning theory.](../theories/social-learning-theory.md) [+M].
+Positive actions function like any other learnable skill: they benefit from explicit modeling, guided practice, and feedback rather than exhortation. Meta-analytic evidence shows that social-emotional learning programs that teach skills explicitly improve both behavior and academic achievement [Durlak et al.'s SEL meta-analysis.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]. The strategy's core mechanism is a self-concept loop — learners observe that positive actions lead to positive feelings about themselves, which motivates further positive actions — consistent with social-cognitive accounts of reciprocal determinism between behavior, cognition, and environment [Social learning theory.](../theories/social-learning-theory.md) [+M].
 
 ### Context
 #### Requirements

@@ -174,7 +174,7 @@ Open questions include how finely expertise must be measured (domain-specific vs
 
 ## Related Claims
 
-- [Supplementing simulation-based inquiry with learner guidance has a modest effect on learning outcomes (d = 0.49) and inquiry skills (d = 0.41), independent of guidance type (review attribution to D'Angelo et al., 2014)](simulation-guidance-moderate-effect-dangelo.md) — the general claim this finding bears on, with the studies behind it
+- [Supplementing simulation-based inquiry with learner guidance has a modest effect on learning outcomes (d = 0.49) and inquiry skills (d = 0.41), independent of guidance type (review attribution to D'Angelo et al., 2014)](guidance-improves-inquiry-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it
 
 - [In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice](practice-presence-raises-cbi-posttest-achievement.md) — the general claim this finding bears on, with the studies behind it
 
@@ -218,3 +218,5 @@ Open questions include how finely expertise must be measured (domain-specific vs
 - [Embedded explanatory notes improved Shakespearean text comprehension for novice readers but reversed for experts](expertise-reversal-shakespearean-explanatory-notes.md) — a narrower finding that bears on this claim
 - [The positive effect of integrated illustrations on transfer is stronger for students who lack experience in the text's domain (meteorology) than for high-experience students](illustration-integration-effect-stronger-for-low-experience-learners.md) — a narrower finding that bears on this claim
 - [Phase 4 low-guidance procedure was truncated for children who already demonstrated unconfounded designs](phase4-truncation-mastered-variables.md) — a narrower finding that bears on this claim
+- [Expertise reversal: high-guidance worked examples become ineffective or detrimental once learners have developed cognitive schemata](expertise-reversal-worked-examples.md) — possibly the same claim (merge candidate)
+- [The imagination effect (cognitive rehearsal of example procedures) enhances learning only for learners with prior knowledge](imagination-effect-expertise-reversal.md) — a narrower finding that bears on this claim

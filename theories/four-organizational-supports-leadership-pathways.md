@@ -16,7 +16,7 @@ sources:
 # Four organizational supports mediating leadership effects on instruction and learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 4 studies (2 associational, 1 causal, 1 design), `q2` · 0 of 4 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 4 studies (2 associational, 1 causal, 1 design), `q2` · 0 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 The article organizes school leadership effects through the Bryk et al. (2010) conceptual model, in which leadership works primarily to develop four organizational supports that mediate effects on classroom instruction and student outcomes. As the article states, school processes were "classified school processes into four broad areas—instructional guidance, the professional capacity of staff members, family and community involvement, and the learning climate of the school." Principal leadership operates by focusing mission and goals, actively supporting instruction, and supporting trust and collaboration; teacher leadership contributes influence in decision-making. The model also includes school context as an input.
@@ -40,7 +40,6 @@ The article organizes school leadership effects through the Bryk et al. (2010) c
 - [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+W]
 - [Fewer than 10 percent of elementary schools with a sustained weakness in one essential support showed improvements in student outcomes (attributed to Bryk et al., 2010)](../claims/sustained-weakness-one-support-few-improve.md) [+W]
 - [Schools weak in most essential supports were four to five times more likely to stagnate than schools with strong overall organizational capacity](../claims/weak-essential-supports-four-to-five-times-stagnation.md) [+W]
-- [Elementary schools strong on at least three of five essential organizational elements were 10 times more likely to improve and 30 times less likely to stagnate](../claims/five-essential-elements-three-of-five-improvement-odds.md) [+W]
 
 ## Related Theories
 

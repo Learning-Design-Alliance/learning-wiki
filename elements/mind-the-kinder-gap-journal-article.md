@@ -17,7 +17,7 @@ sources:
 # Companion journal article: Mind the kinder-gap — new data on children's math and reading skills at kindergarten entry
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (6 for) · 2 studies (2 associational), `q2`–`q3` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 A journal article listed on the page as associated research for the school-entry trends study. Its title, as printed, is "Mind the kinder-gap: New data on children's math and reading skills as they enter kindergarten", indicating it reports new data on children's math and reading skills at kindergarten entry. It serves as the peer-reviewed companion output to the 2019 research brief and working paper on the same topic.
@@ -42,7 +42,7 @@ A journal article listed on the page as associated research for the school-entry
 - [Children's academic achievement at kindergarten entry has declined, per the article's abstract](../claims/declining-achievement-kindergarten-entry.md) [+W]
 - [Kindergarteners in 2017 had moderately lower math and reading skills at school entry than kindergarteners in 2010](../claims/kindergarten-entry-skills-lower-2017-than-2010.md) [+M]
 - [Prior nationally representative studies found incoming kindergarteners' math and literacy skills were higher in 2010 than in 1998](../claims/kindergarten-entry-skills-higher-2010-than-1998.md) [+W]
-- [Inequalities at kindergarten entry by school poverty level decreased between 2010 and 2017](../claims/kindergarten-entry-school-poverty-gaps-narrowed-2010-2017.md) [+W]
+- [Inequalities at kindergarten entry by school poverty level decreased between 2010 and 2017](../claims/school-poverty-entry-gaps-narrowed-2010-2017.md) [+W]
 - [Inequalities at kindergarten entry by race/ethnicity decreased between 2010 and 2017](../claims/kindergarten-entry-racial-ethnic-gaps-narrowed-2010-2017.md) [+W]
 
 ## Related Elements

@@ -17,7 +17,7 @@ sources:
 # Four-level feedback framework (task, processing, self-regulation, self-as-person) for supporting group learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies (2 quant-synthesis, 1 review), `q2`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 3 studies (2 quant-synthesis, 1 review), `q2`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 The primer's appendix presents Hattie and Timperley's (2007) four levels of feedback: about the task, about the processes involved in the task, about self-regulation, and about the self as a person. "Of the four levels, feedback about 'self as a person' is the least effective for helping further learning, as it contains no information related to the task." Feedback about self-regulation can help learners create their own internal feedback routines, and the primer recommends combining the first three levels for increased positive impact.
@@ -39,10 +39,8 @@ The primer's appendix presents Hattie and Timperley's (2007) four levels of feed
 
 ## Claims
 
-- [Feedback Addressing Task Improves Learning](../claims/feedback-addressing-task-improves-learning.md) [+W]
-- [Feedback Most Effective At Task And Process Levels](../claims/feedback-most-effective-at-task-and-process-levels.md) [+W]
+- [Feedback Addressing Task Improves Learning](../claims/feedback-most-effective-at-task-and-process-levels.md) [+W]
 - [Feedback about self as a person is the least effective feedback level; task, process, and self-regulation feedback support learning and combine for greater impact](../claims/feedback-levels-task-process-self-regulation-effective.md) [+W]
-- [Feedback Improves Learning When It Addresses Task Goals](../claims/feedback-improves-learning-when-it-addresses-task-goals.md) [+W]
 
 ## Related Elements
 - 

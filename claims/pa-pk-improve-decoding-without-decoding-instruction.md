@@ -60,6 +60,9 @@ Figure 7 comparison across the 4 interventions teaching all three domains versus
 
 ## Discussion
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — the general claim this finding bears on, with the studies behind it

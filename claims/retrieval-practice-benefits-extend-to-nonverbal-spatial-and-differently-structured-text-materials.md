@@ -79,6 +79,9 @@ The chapter reports Karpicke and Blunt (2011, Experiment 2), which compared enum
 
 ## Discussion
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Existing theoretical accounts attributing the testing effect to enhanced semantic elaboration receive limited support](limited-support-semantic-elaboration-testing-accounts.md) — the general claim this finding bears on, with the studies behind it
@@ -88,3 +91,4 @@ The chapter reports Karpicke and Blunt (2011, Experiment 2), which compared enum
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related
 - [Retrieval practice enhances performance on final inference and transfer questions relative to restudying, although a single-word fill-in-the-blank task did not](retrieval-practice-improves-final-inference-and-transfer-questions.md) — related
 - Neuroimaging and stimulation evidence supports shared mechanisms: primary visual cortex activation during imagery — related
+- [The testing benefit for map learning holds under both quadrant-based and relative-position-based scoring, liberal and stringent](testing-benefit-all-four-scoring-procedures.md) — a narrower finding that bears on this claim

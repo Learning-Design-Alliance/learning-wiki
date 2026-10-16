@@ -38,7 +38,7 @@ The authors enumerate three design considerations for AMA: "(1) to encourage eng
 - Safe, engaging, age-appropriate interaction with conversational AI
 
 ### Claims
-- [Gpt35 Turbo Off Topic Prompting Insufficient](../claims/gpt35-turbo-off-topic-prompting-insufficient.md) [+M]
+- [Gpt35 Turbo Off Topic Prompting Insufficient](../claims/gpt35-turbo-off-topic-prompting-insufficient.md) [+W]
 
 ## Related Designs
 - 

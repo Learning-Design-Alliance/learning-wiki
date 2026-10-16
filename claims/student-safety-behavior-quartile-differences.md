@@ -80,6 +80,9 @@ Summary comparison of the Student Classroom Behavior scale, which asked students
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Students feel safest in classrooms and least safe in areas just outside the school, with safety tracking the level of adult supervision](adult-supervision-safety-gradient.md) — related
 - [Most students, even in bottom quartile schools, report feeling mostly safe at school](student-safety-high-even-bottom-quartile-schools.md) — related

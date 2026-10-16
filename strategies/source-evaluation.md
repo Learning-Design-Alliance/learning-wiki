@@ -19,7 +19,7 @@ Source evaluation is the practice of deliberately assessing where information co
 
 ## Design Implications
 
-Explicit instruction in evaluation techniques substantially improves learners' ability to judge online and print sources [Explicit civic online reasoning instruction improves students' source evaluation.](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]. The most effective approaches teach *lateral* moves — leaving a source to check what others say about it — rather than relying on internal features like design quality or tone, which novices over-weight and manipulators exploit. Evaluation should be embedded in authentic tasks where the judgment matters (building an argument, answering a research question), not taught as an isolated checklist [Checklist-based evaluation is ineffective in online contexts.](../claims/checklist-evaluation-ineffective-online.md) [-S].
+Explicit instruction in evaluation techniques substantially improves learners' ability to judge online and print sources [Explicit civic online reasoning instruction improves students' source evaluation.](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]. The most effective approaches teach *lateral* moves — leaving a source to check what others say about it — rather than relying on internal features like design quality or tone, which novices over-weight and manipulators exploit. Evaluation should be embedded in authentic tasks where the judgment matters (building an argument, answering a research question), not taught as an isolated checklist [Checklist-based evaluation is ineffective in online contexts.](../claims/checklist-evaluation-ineffective-online.md) [-M].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Explicit instruction in evaluation techniques substantially improves learners' a
 - Opportunities to compare sources making competing claims ([Comparing Cases](../elements/comparing-cases.md))
 
 #### Constraints
-- Checklist approaches (CRAAP test and similar) transfer poorly to real web contexts, where professional-looking sites routinely masquerade as credible [Checklist-based evaluation is ineffective in online contexts.](../claims/checklist-evaluation-ineffective-online.md) [-S]
+- Checklist approaches (CRAAP test and similar) transfer poorly to real web contexts, where professional-looking sites routinely masquerade as credible [Checklist-based evaluation is ineffective in online contexts.](../claims/checklist-evaluation-ineffective-online.md) [-M]
 - Novices judge credibility by surface features (design polish, .org domains, confident tone), so instruction that does not directly confront these heuristics leaves them unchanged
 - Evaluation skills are domain-sensitive; training in one topic area does not automatically generalize without varied practice contexts
 - High working-memory demand when learners must evaluate while also comprehending; scaffold by separating the two phases [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [~M]

@@ -18,7 +18,7 @@ sources:
 # Adaptive Difficulty
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 7 studies (3 design, 2 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 7 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 6 studies (2 quant-synthesis, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 6 report an effect size · 4 claims rest on one study
 
 ## Description
 Adaptive difficulty adjusts task challenge in response to learner performance so work remains demanding enough to promote growth without becoming discouraging or trivial.
@@ -56,7 +56,6 @@ Adaptive difficulty adjusts task challenge in response to learner performance so
 - [Imbalanced challenge and support causes novice library learners to give up or remain dependent (authors' asserted relationship)](../claims/challenge-support-imbalance-effects-novice-learners.md) [~W]
 - [Case study shows tutor scaffolding lowers estimated task difficulty after errors while student ability rises steadily](../claims/case-study-scaffolding-lowers-difficulty-ability-rises.md) [+W]
 - [A proposed effort-guided adaptive test alleviates item difficulty mistargeting caused by unmotivated test taking, as shown by simulation](../claims/effort-guided-adaptive-test-alleviates-mistargeting.md) [~W]
-- [Performance is best at moderate difficulty granularity and a limited recent window for domain transitions](../claims/moderate-difficulty-granularity-window-optimal.md) [~W]
 
 ## The evidence by question
 

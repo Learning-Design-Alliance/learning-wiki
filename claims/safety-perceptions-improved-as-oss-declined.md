@@ -42,6 +42,9 @@ Trend analysis of My Voice, My School survey responses from spring 2007 and 2009
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
+
 ## Related Claims
 - Arrest rates for CPS students declined after 2009-10, with African American boys arrested at twice the district average rate — related
 - [Out-of-school suspension rates in CPS high schools declined each year from 24 percent in 2009-10 to 16 percent in 2013-14](cps-high-school-oss-rates-declined-2009-2014.md) — related

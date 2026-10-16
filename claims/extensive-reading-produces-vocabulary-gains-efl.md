@@ -43,6 +43,7 @@ In the 60-participant extensive reading study over 37 weeks, even the low-level 
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
 
 ## Related Claims
 

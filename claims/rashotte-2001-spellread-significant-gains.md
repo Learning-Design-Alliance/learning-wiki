@@ -57,6 +57,9 @@ Same randomized trial, comprehension domain: GORT-3 Comprehension (effect size 0
 ## Discussion
 
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Corrective Reading produced statistically significant positive effects on oral reading fluency in a randomized controlled trial of third-grade struggling readers](corrective-reading-significant-fluency-effect.md) — related
 - [SpellRead™ shows potentially positive effects on alphabetics for adolescent readers, with an average improvement index of +23 across two studies](spellread-potentially-positive-alphabetics.md) — a broader claim this one bears on

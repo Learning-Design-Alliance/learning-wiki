@@ -41,7 +41,7 @@ Simplifying language reduces extraneous cognitive load imposed by dense syntax a
 - **Simplification of directions only**: leave content texts intact but simplify task instructions and rubrics
 
 ### Target Learners
-- Beginning readers, language learners, and learners with reading-related disabilities, for whom decoding costs otherwise crowd out comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Beginning readers, language learners, and learners with reading-related disabilities, for whom decoding costs otherwise crowd out comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Novices in a technical domain who lack the vocabulary to parse dense source material
 - Less beneficial — and sometimes harmful — for advanced learners, for whom simplified text is redundant and reduces productive struggle [~M]
 

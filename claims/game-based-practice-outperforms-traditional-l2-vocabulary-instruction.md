@@ -78,6 +78,9 @@ between practice and nothing. Read alongside
 either alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md)
 [+M], which is the better-evidenced statement about vocabulary instruction generally.
 
+## Learner Variables
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it

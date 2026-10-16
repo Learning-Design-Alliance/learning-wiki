@@ -20,7 +20,7 @@ An interactive read aloud is a whole-class or small-group activity in which the 
 
 ## Design Implications
 
-Interactive read alouds work because listening comprehension draws on the same language-comprehension resources as reading comprehension, so oral exposure to rich text builds the knowledge and vocabulary that later support independent reading [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. The "interactive" component is what distinguishes it from passive storytime: teacher prompts and student talk during reading produce larger vocabulary and comprehension gains than uninterrupted reading [Dialogic reading with analytic talk improves vocabulary and comprehension outcomes.](../claims/activation-improves-learning.md) [+S]. The teacher's think-alouds function as expert modeling of otherwise invisible comprehension processes.
+Interactive read alouds work because listening comprehension draws on the same language-comprehension resources as reading comprehension, so oral exposure to rich text builds the knowledge and vocabulary that later support independent reading [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. The "interactive" component is what distinguishes it from passive storytime: teacher prompts and student talk during reading produce larger vocabulary and comprehension gains than uninterrupted reading [Dialogic reading with analytic talk improves vocabulary and comprehension outcomes.](../claims/activation-improves-learning.md) [+S]. The teacher's think-alouds function as expert modeling of otherwise invisible comprehension processes.
 
 ### Context
 #### Requirements
@@ -65,7 +65,7 @@ Interactive read alouds work because listening comprehension draws on the same l
 - **Digital variants**: e-book platforms with embedded prompts; effectiveness depends on whether prompts are dialogic or merely animated distractions [~W]
 
 ### Target Learners
-- Emergent and early readers (preK–3), for whom listening comprehension outpaces decoding [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Emergent and early readers (preK–3), for whom listening comprehension outpaces decoding [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Multilingual learners, who can build vocabulary and discourse knowledge orally before print
 - Older striving readers, who can access age-appropriate ideas through read alouds without being confined to decodable texts
 - Students with limited background knowledge, when the read aloud is paired with [activating prior knowledge](activating-prior-knowledge.md) [Activation improves learning.](../claims/activation-improves-learning.md) [+M]

@@ -42,6 +42,10 @@ Correlational analyses of CASQ and NRI-SPV scores among mentored students (MG, n
 ## Discussion
 
 
+## Learner Variables
+- [Civic Mindedness](../learner-variables/civic-mindedness.md) — outcome: instruction changes it
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Conflict and antagonism with community partners negatively correlate with social justice and diversity attitudes](community-partner-conflict-negatively-correlates-social-justice.md) — related
 - [Learner-centered teacher–student relationships are associated with better student outcomes](teacher-student-relationships-improve-engagement.md) — related

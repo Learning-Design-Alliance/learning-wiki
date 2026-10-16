@@ -60,6 +60,9 @@ Supplementary t test against the no-test control condition, in which no lures ha
 
 ## Discussion
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — the general claim this finding bears on, with the studies behind it
@@ -68,3 +71,7 @@ Supplementary t test against the no-test control condition, in which no lures ha
 - [Providing feedback after initial multiple-choice tests cut lure intrusions on final short-answer tests roughly in half, with immediate and delayed feedback equally effective](feedback-after-multiple-choice-tests-halves-lure-intrusions.md) — possibly the same claim (merge candidate)
 - [Taking initial multiple-choice tests without feedback can lead students to later produce the incorrect lure answers they selected, even when an overall retrieval practice benefit occurs](multiple-choice-lures-can-be-learned-as-false-knowledge.md) — related
 - [Taking a multiple-choice test produces a testing effect on later cued recall, but testing without study or feedback can be net harmful](mc-testing-effect-and-net-harm-boundary.md) — related
+- [Immediate feedback reduces multiple-choice lure production on later tests, and the overall positive effect of testing outweighs negative consequences](feedback-reduces-lure-production.md) — related
+- [Multiple-choice testing increases the later production of multiple-choice lures as answers on cued recall tests, even under warning against guessing](mc-testing-increases-lure-production.md) — related
+- [Multiple-choice testing improves later cued recall of prose facts, a benefit that persists though reduced after a one-week delay](mc-testing-prose-cued-recall-benefit.md) — related
+- [Positive and negative testing effects occur for questions tapping higher levels of Bloom's taxonomy, and question level does not change the memorial consequences of testing](testing-effects-bloom-higher-levels.md) — related

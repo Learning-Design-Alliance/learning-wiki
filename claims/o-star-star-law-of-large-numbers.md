@@ -42,6 +42,9 @@ Qualitative coding of die-task responses. The article reports o** thinkers 'expr
 ## Discussion
 
 
+## Learner Variables
+- [Statistical Reasoning](../learner-variables/statistical-reasoning.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Mathematically oriented PSMTs exhibit equiprobability and insensitivity-to-prior-probability biases](m-thinkers-equiprobability-insensitivity-biases.md) — related

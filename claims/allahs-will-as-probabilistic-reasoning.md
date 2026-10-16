@@ -42,6 +42,9 @@ Qualitative coding of giving-birth responses; two PSMTs gave 50% yet added that 
 ## Discussion
 
 
+## Learner Variables
+- [Statistical Reasoning](../learner-variables/statistical-reasoning.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Outcome-oriented PSMTs conflate causality with conditionality and predict single-trial outcomes](outcome-oriented-causal-conception.md) — related
 - [Mathematically oriented PSMTs exhibit equiprobability and insensitivity-to-prior-probability biases](m-thinkers-equiprobability-insensitivity-biases.md) — related

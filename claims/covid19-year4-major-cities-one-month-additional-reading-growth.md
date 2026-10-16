@@ -1,0 +1,50 @@
+---
+type: claim
+title: "Year 4 students in major cities demonstrated one month's additional reading growth in 2020 compared with 2019"
+description: "Year 4 students in major cities demonstrated one month's additional reading growth in 2020 compared with 2019"
+id: covid19-year4-major-cities-one-month-additional-reading-growth
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-16
+evidence_strength: moderate
+sources:
+  - id: gore-2021
+    resource: "https://doi.org/10.1007/s13384-021-00436-w"
+    title: "Gore, J., Miller, A., Fray, L., Harris, J., & Prieto, E. (2021). The impact of COVID-19 on student learning in New South Wales primary schools: an empirical study. The Australian Educational Researcher, 48, 605-637. https://doi.org/10.1007/s13384-021-00436-w"
+    author: "Gore, J., Miller, A., Fray, L., Harris, J., & Prieto, E."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# Year 4 students in major cities demonstrated one month's additional reading growth in 2020 compared with 2019
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
+
+## Subclaims
+`q3 i?` Year 4 students in major cities demonstrated one month's additional growth in reading in 2020 (d = 0.08, p = 0.0472), with no significant differences in mathematics. [→ Gore 2021](#gore-2021)
+
+## Evidence
+
+### Gore 2021
+
+Gore, J., Miller, A., Fray, L., Harris, J., & Prieto, E. (2021). The impact of COVID-19 on student learning in New South Wales primary schools: an empirical study. The Australian Educational Researcher, 48, 605-637. https://doi.org/10.1007/s13384-021-00436-w
+
+`q3 · i?` · `causal · r2`
+
+Linear mixed models by location found Year 4 major-city students' 2020 reading growth exceeded 2019 (d = 0.08, 95% CI = 0.00, 0.17, p = 0.0472). The study reports "one month's additional growth" using EEF standards, with no significant mathematics differences.
+
+> "Students in major cities demonstrated one month's additional growth (d = 0.08; 95% CI = 0.00, 0.17; p = 0.0472) in reading"
+
+## Discussion
+
+
+## Related Claims
+- [Year 3 and Year 4 student achievement growth in mathematics and reading showed no significant differences between 2019 and 2020 cohorts in NSW primary schools](covid19-no-significant-achievement-growth-difference-nsw-primary.md) — related
+- [Year 3 regional students in mid-ICSEA schools demonstrated three months additional reading growth in 2020 compared with 2019](covid19-year3-regional-mid-icsea-three-months-additional-reading-growth.md) — related
+- [Year 3 students in mid-ICSEA schools achieved two months additional mathematics growth in 2020 compared with 2019](covid19-year3-mid-icsea-two-months-additional-math-growth.md) — related
+- [By spring 2021 students remained behind typical prepandemic achievement averages in both math and reading](spring-2021-students-behind-prepandemic-averages.md) — related
+- [Year 3 students in low-ICSEA schools achieved significantly less mathematics growth in 2020, equivalent to two months less than the 2019 cohort](covid19-year3-low-icsea-two-months-less-math-growth.md) — related

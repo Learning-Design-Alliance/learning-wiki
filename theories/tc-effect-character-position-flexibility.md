@@ -43,9 +43,9 @@ The article frames the transposed-character (TC) effect as a behavioral index of
 - [Tc Effect Exp1 Chinese Only](../claims/tc-effect-exp1-chinese-only.md) [+M]
 - [Tc Effect Both Groups Masked Priming](../claims/tc-effect-both-groups-masked-priming.md) [+M]
 - [Tc Effect Larger For Chinese Supplementary](../claims/tc-effect-larger-for-chinese-supplementary.md) [+M]
-- [Word frequency does not modulate the transposed-character effect in either experiment](../claims/frequency-does-not-modulate-tc-effect.md) [+S]
+- [Word frequency does not modulate the transposed-character effect in either experiment](../claims/frequency-does-not-modulate-tc-effect.md) [+M]
 - [In Experiment 2, the native language × frequency interaction is significant, with both groups responding faster to high-frequency items](../claims/language-frequency-interaction-exp2.md) [~M]
-- [The TC effect grows with prime time: it is significantly larger at 300 ms than at 60 ms and 150 ms, and does not decrease with longer prime time](../claims/tc-effect-increases-with-prime-time.md) [+S]
+- [The TC effect grows with prime time: it is significantly larger at 300 ms than at 60 ms and 150 ms, and does not decrease with longer prime time](../claims/tc-effect-increases-with-prime-time.md) [+M]
 
 ## Related Theories
 - 

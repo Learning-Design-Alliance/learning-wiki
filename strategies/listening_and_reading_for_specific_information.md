@@ -29,7 +29,7 @@ Selective attention to a stated purpose reduces the processing burden of full co
 - Guided practice with graduated task difficulty, followed by feedback on accuracy of extraction
 
 #### Constraints
-- Learners with limited vocabulary or decoding fluency cannot allocate attention to selective search; automatic word recognition is a prerequisite for higher-level comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Learners with limited vocabulary or decoding fluency cannot allocate attention to selective search; automatic word recognition is a prerequisite for higher-level comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Over-reliance on scanning for details can displace global comprehension — learners may extract facts without building a coherent mental model of the whole text [~M]
 - Fast, unsegmented authentic audio can exceed processing capacity for lower-proficiency learners, causing them to lose the thread entirely [-M]
 - Tasks that name the target too precisely (e.g., "listen for the word *tariff*") encourage word-matching rather than meaning-based comprehension [-W]
@@ -42,7 +42,7 @@ Selective attention to a stated purpose reduces the processing burden of full co
 
 ### Target Learners
 - Adult second-language learners transitioning to academic study or workplace training, where lecture and document comprehension are high-stakes [+M]
-- Intermediate learners who have basic decoding fluency but lack strategic processing habits; beginners need vocabulary and fluency support first [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Intermediate learners who have basic decoding fluency but lack strategic processing habits; beginners need vocabulary and fluency support first [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Exam candidates (e.g., IELTS, TOEFL) who must locate answers under time pressure
 
 ### Target Learning Goals

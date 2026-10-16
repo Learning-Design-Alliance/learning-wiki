@@ -43,6 +43,9 @@ The authors' theoretical argument, citing Seidman (1983), that assuming unique f
 ## Discussion
 
 
+## Learner Variables
+- [Algebraic Thinking](../learner-variables/algebraic-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 - [One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments](checklist-evaluation-ineffective-online.md) — related
 - Learners' beliefs about a medium and its processing demands influence the mental effort they invest in processing it — related

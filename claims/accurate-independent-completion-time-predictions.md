@@ -43,10 +43,9 @@ In the same mixed-effects calibration analysis, the independent condition showed
 
 ## Related Claims
 
-- [Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong](ai-access-inflates-confidence.md) — the general claim this finding bears on, with the studies behind it
+- [Access to AI advice roughly doubled reported confidence in answers in one experiment](ai-access-inflates-confidence.md) — the general claim this finding bears on, with the studies behind it
 - [People significantly underestimate AI-assisted completion times even though actual AI-assisted and independent completion times do not differ (the speedup illusion)](speedup-illusion-ai-assisted-time-underestimation.md) — related
 - [Participants more averse to thinking are more susceptible to the speedup illusion; AI familiarity measures do not predict calibration error](thinking-aversion-predicts-speedup-illusion.md) — related
 - [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — a broader claim this one bears on
 - [People expect AI assistance to save far more time than assistance from another highly intelligent human participant](ai-expected-faster-than-human-help.md) — related
 - [People overestimate how much mental effort AI assistance alleviates (offloading illusion), driven by overestimating the effort of independent completion while AI-assisted effort is accurately estimated](offloading-illusion-ai-effort-savings.md) — related
-- [People overestimate how much time AI assistance saves (speedup illusion), driven by miscalibration about AI-assisted completion time while independent completion time is well calibrated](speedup-illusion-ai-time-savings.md) — a broader claim this one bears on

@@ -43,6 +43,7 @@ Study 2 thematic analysis of twelve student interviews produced Global Theme 1 f
 
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
 
 ## Related Claims
 

@@ -165,3 +165,4 @@ Open questions: how durable the recall advantage is over long retention interval
 - [Concreteness, imagery, and verbal associative processes play major roles across multiple educational domains](concreteness-imagery-associative-roles-educational-domains.md) — a broader claim this one bears on
 - [Basic DCT mechanisms can be used to model diverse educational phenomena](dct-mechanisms-model-educational-phenomena.md) — a broader claim this one bears on
 - [Learning from visual displays often yields disappointing outcomes because displays pose substantial demands on learners](visual-displays-pose-demands-disappointing-outcomes.md) — related
+- [Low-WMC readers recall fewer correct causes when text contains seductive illustrations compared with nonillustrated text](low-wmc-seductive-essay-detriment.md) — related

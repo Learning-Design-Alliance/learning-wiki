@@ -19,7 +19,7 @@ Setting clear objectives means specifying, in advance and in learner-accessible 
 
 ## Design Implications
 
-Clear objectives function as advance organizers, giving learners a schema for incoming instruction, and as goal-setting devices that improve performance relative to vague "do your best" intentions [Specific, difficult goals lead to higher performance than vague or easy goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]. Objectives also make feedback meaningful: feedback is most effective when it addresses the task and process relative to a known goal [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. The alignment discipline — objectives, activities, and assessments all pointing at the same performance — is the core of constructive alignment [~S].
+Clear objectives function as advance organizers, giving learners a schema for incoming instruction, and as goal-setting devices that improve performance relative to vague "do your best" intentions [Specific, difficult goals lead to higher performance than vague or easy goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M]. Objectives also make feedback meaningful: feedback is most effective when it addresses the task and process relative to a known goal [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. The alignment discipline — objectives, activities, and assessments all pointing at the same performance — is the core of constructive alignment [~S].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Clear objectives function as advance organizers, giving learners a schema for in
 - **Competency-based granularity:** objectives decomposed into fine-grained competencies with mastery thresholds, as in [Competency-Based Learning](../patterns/competency-based-learning.md)
 
 ### Target Learners
-- Novices benefit most, because clear objectives reduce unguided search and clarify what matters [Specific, difficult goals lead to higher performance than vague or easy goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]
+- Novices benefit most, because clear objectives reduce unguided search and clarify what matters [Specific, difficult goals lead to higher performance than vague or easy goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M]
 - Novices additionally benefit when objectives are framed as process goals rather than outcome goals [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M]
 - Advanced learners may need objectives less; excessive goal specification can constrain their exploration [~W]
 

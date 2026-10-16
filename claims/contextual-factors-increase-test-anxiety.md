@@ -53,5 +53,5 @@ Multi-level model M3 (Table 4) on test anxiety in online exams; contextual facto
 - In informal virtual programs, technology access was the first and most significant barrier to participating in Hero Elementary — related
 - [Infrastructure inequities — chronic bandwidth limitations, power outages, and device incompatibility — severely disrupt proctored assessments and exacerbate educational disadvantages in low-resource settings](infrastructure-inequities-disrupt-proctored-assessments.md) — related
 - [Higher internet literacy is associated with lower test anxiety in online exams](internet-literacy-lower-test-anxiety.md) — related
-- [Online and proctored online exams increase students' test anxiety compared with on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — related
+- [Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — related
 - [Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation](test-anxiety-negative-exam-performance.md) — related

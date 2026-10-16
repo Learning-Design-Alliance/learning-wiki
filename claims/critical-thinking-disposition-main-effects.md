@@ -42,6 +42,9 @@ Summary of main effects from the linear mixed-effects models (N = 222). Correlat
 ## Discussion
 
 
+## Learner Variables
+- [Critical Thinking](../learner-variables/critical-thinking.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [In TTS dialogue-based lessons, the teacher–teacher format significantly moderates the motivation effects of both the CE factor (positive) and the RCE factor (negative)](tt-format-moderates-ce-rce-motivation.md) — reports the opposite
 - [Interactions between learner characteristics and dialogue format for learning outcomes showed only trends toward significance, not significant effects](learning-outcome-interactions-trend-only.md) — related

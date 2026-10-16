@@ -19,7 +19,7 @@ This strategy begins with the educator gathering evidence about an individual st
 
 ## Design Implications
 
-Strengths-based framing builds on evidence that perceived competence drives persistence: students who believe they can succeed at a task sustain effort longer and recover from failure faster [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]. Leading with a strength raises that sense of competence before the student confronts a weaker area, which is especially important for learners whose histories are dominated by deficit framing. Because many self-awareness challenges are actually self-regulation challenges in disguise, the strategy works best when the strength is paired with explicit support for monitoring and evaluation [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M].
+Strengths-based framing builds on evidence that perceived competence drives persistence: students who believe they can succeed at a task sustain effort longer and recover from failure faster [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]. Leading with a strength raises that sense of competence before the student confronts a weaker area, which is especially important for learners whose histories are dominated by deficit framing. Because many self-awareness challenges are actually self-regulation challenges in disguise, the strategy works best when the strength is paired with explicit support for monitoring and evaluation [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M].
 
 ### Context
 #### Requirements
@@ -48,7 +48,7 @@ Strengths-based framing builds on evidence that perceived competence drives pers
 ### Target Learning Goals
 - Self-awareness and accurate self-assessment: recognizing what one does well and where one struggles
 - Self-regulation: using knowledge of one's own profile to select strategies [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]
-- Motivation and persistence: building task value and efficacy through demonstrated competence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+S]
+- Motivation and persistence: building task value and efficacy through demonstrated competence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 
 ### Instructions
 1. **Gather evidence.** Use work samples, observation, student interviews, and [Assessment](../elements/assessment.md) results to identify two or three specific strengths and one or two self-awareness challenges. Verify with the student.

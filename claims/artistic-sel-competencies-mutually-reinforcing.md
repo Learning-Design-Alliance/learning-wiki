@@ -42,6 +42,9 @@ A theoretical argument within the report's theory of action, illustrated by exam
 ## Discussion
 
 
+## Learner Variables
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Students' success in school and beyond is inextricably linked to healthy social and emotional development](school-success-linked-social-emotional-development.md) — a broader claim this one bears on
 - [Existing arts-SEL research lacks the rigor to support strong empirical claims of direct causal contribution](arts-sel-evidence-base-rigor-gap.md) — related

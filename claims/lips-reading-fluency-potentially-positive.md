@@ -43,6 +43,9 @@ Posttest findings from the Torgesen et al. (2001) RCT (n = 50). Both GORT–III 
 ## Discussion
 
 
+## Learner Variables
+- [Reading Fluency](../learner-variables/reading-fluency.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The evidence base for LiPS with students with learning disabilities is small: one RCT met WWC standards out of 31 reviewed studies](lips-evidence-base-small-one-rct.md) — related
 - [LiPS has no discernible effects on reading comprehension for students with learning disabilities](lips-no-discernible-reading-comprehension-effects.md) — related

@@ -18,7 +18,7 @@ sources:
 # Duolingo
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (1 causal, 1 qualitative), `q2`–`q3` · 1 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 Duolingo is a language-learning software platform operated by Duolingo, Inc., offering courses, practice activities, and community discussion boards across many languages.
@@ -26,19 +26,21 @@ Duolingo is a language-learning software platform operated by Duolingo, Inc., of
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Duolingo asynchronous discussion boards**: Duolingo connects learners through asynchronous discussion boards attached to each lesson in each of over 38 language courses, where users "can come together to problem-solve vocabulary and grammar issues, troubleshoot technical aspects of the program, and discuss additional resources for language content." A single board may stay active for years, and users include average users, plus users, and volunteer moderators who answer questions more reliably. During the pandemic the boards also carried social-emotional exchanges such as gifting lingots to healthcare workers. (Neuschafer (2022))
+- **Duolingo AI-mediated language learning platform used to deliver personalized EFL instruction**: Duolingo served as the AI-mediated instructional platform for the experimental group over a 10-week intervention. Learners had access to "interactive exercises, online quizzes, language games, and real-time feedback tailored to their individual performance on the platform", with at least 2 hours per week of supplementary out-of-class use. The control group received traditional instruction with textbooks, lectures, grammar drills, and writing exercises for the same duration. Interview participants described the platform as engaging, adaptive to their pace, and convenient for practice anywhere. (Wei L (2023))
 
 ### Claims
 - [Duolingo discussion boards provided emotional support — social encouragement and community — beyond the instrumental and informational support previously documented](../claims/boards-provided-emotional-support.md) [+W]
 - [Social-emotional support was the most frequent code in COVID-19-related Duolingo discussion posts, followed by gratitude and pandemic](../claims/socio-emotional-support-most-frequent-code.md) [+W]
 - [Duolingo users sought COVID-19 vocabulary in foreign languages and shared their own translations, with 17 users requesting pandemic-related lesson content](../claims/users-sought-covid-language-content.md) [+W]
+- [AI-mediated language instruction produces significantly greater English learning achievement gains than traditional instruction among EFL learners](../claims/ai-instruction-greater-efl-achievement-gains.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Neuschafer, T. (2022). Understanding Duolingo discussion boards as social-emotional support during the COVID-19 pandemic. Journal of Educators Online. https://eric.ed.gov/?id=EJ1393729. [doi:10.9743/jeo.2023.20.2.8](https://doi.org/10.9743/jeo.2023.20.2.8)
-
 <!-- merged 2026-10-10 from elements/duolingo-asynchronous-discussion-boards ("Duolingo asynchronous discussion boards"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Wei L (2023) Artificial intelligence in language instruction: impact on English learning achievement, L2 motivation, and self-regulated learning. Front. Psychol. 14:1261955. https://doi.org/10.3389/fpsyg.2023.1261955
 
 # Duolingo asynchronous discussion boards
 

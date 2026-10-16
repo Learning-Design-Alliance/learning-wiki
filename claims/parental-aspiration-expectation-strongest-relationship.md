@@ -42,6 +42,9 @@ The meta-analysis's moderator analysis compared involvement components; it found
 ## Discussion
 
 
+## Learner Variables
+- [Home Learning Environment](../learner-variables/home-learning-environment.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Parental home supervision has the weakest relationship with students' academic achievement among involvement components](parental-home-supervision-weakest-relationship.md) — related
 - [Parental involvement has a small to moderate, practically meaningful relationship with students' academic achievement](parental-involvement-small-to-moderate-achievement-relationship.md) — a broader claim this one bears on

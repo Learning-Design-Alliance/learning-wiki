@@ -42,6 +42,9 @@ Same meta-analysis of 44 evaluations from the systematic review; the pooled esti
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Effectiveness of anti-bullying programs varies significantly across evaluations (heterogeneity)](anti-bullying-program-effectiveness-heterogeneous.md) — related
 - [School-based anti-bullying programs are effective overall, decreasing bullying by 20-23% on average](anti-bullying-programs-reduce-bullying-20-23-percent.md) — related

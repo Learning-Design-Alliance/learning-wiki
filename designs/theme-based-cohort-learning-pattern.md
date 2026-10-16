@@ -37,7 +37,7 @@ The toolkit's design pattern is a learning cohort of participants organized arou
 - Equity-centered strategic learning
 
 ### Claims
-- [Cbsl Pilot Capacity Building Approach](../claims/cbsl-pilot-capacity-building-approach.md) [+M]
+- [Cbsl Pilot Capacity Building Approach](../claims/cbsl-pilot-capacity-building-approach.md) [+W]
 
 ## Related Designs
 - 

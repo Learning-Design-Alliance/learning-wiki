@@ -61,6 +61,11 @@ Same RCT analysis sample of 74 students. Appendix A3.1 shows effect sizes of 0.0
 ## Discussion
 
 
+## Learner Variables
+- [Alphabet Knowledge and Print Awareness](../learner-variables/alphabet-knowledge-and-print-awareness.md) — outcome: instruction changes it
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [In a Chicago quasi-experiment, Earobics®'s overall effect was not significant, but the CTOPP Sound Matching subtest showed a significant positive effect](earobics-valliath-2002-sound-matching-significant.md) — related
 - [In an Anchorage RCT with severe differential attrition, Earobics® effects on alphabetics were not statistically significant and one subtest showed a substantively important negative effect](earobics-rehmann-2005-null-and-negative-effects.md) — related

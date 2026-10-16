@@ -38,7 +38,7 @@ Computerized adaptive test (CAT) designs are treated in the article as a test-de
 
 ### Claims
 
-- [Cat Design And Bank Distribution Affect Coverage And Efficiency](../claims/cat-design-and-bank-distribution-affect-coverage-and-efficiency.md) [+M]
+- [Cat Design And Bank Distribution Affect Coverage And Efficiency](../claims/cat-design-and-bank-distribution-affect-coverage-and-efficiency.md) [+W]
 - [Adaptivity and score reliability of both engines depend on item-pool depth; the CBE often performed better than COLO for extreme low or high achievers when item banks were shallow](../claims/cbe-better-adaptivity-extreme-achievers-shallow-banks.md) [+W]
 - [On-grade mathematics item pools yield larger SEMs and lower efficiency than all-grade pools for on-grade students, especially at the low end of the scale](../claims/on-grade-math-pools-larger-sem-low-end.md) [+W]
 

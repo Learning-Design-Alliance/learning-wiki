@@ -61,6 +61,9 @@ The chapter reports the other half of this pattern: "when initial retrieval succ
 ## Discussion
 
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Initial multiple-choice tests with plausible, competitive alternatives outperformed initial short-answer tests on final questions that were related to but not directly tested initially](competitive-multiple-choice-alternatives-benefit-related-untested-questions.md) — related

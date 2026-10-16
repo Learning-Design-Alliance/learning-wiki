@@ -42,6 +42,9 @@ Within Study 3, the AI tool was used to rewrite each letter assigned to the edit
 ## Discussion
 
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Practicing with AI improved unassisted writing skill more than practicing with Google Search for cover letter examples and tips](ai-practice-beat-editor-feedback-and-google-search.md) — related
 - [AI language polishing alone can flip human-authored scholarly texts from human-classified to AI-classified](polishing-flips-detector-classification.md) — related

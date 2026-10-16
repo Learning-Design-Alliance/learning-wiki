@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (6 for, 4 mixed, 1 against) · 11 studies (4 causal, 3 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 4 of 11 report an effect size · 9 claims rest on one study
+> **Evidence** · 10 claims (6 for, 3 mixed, 1 against) · 10 studies (4 causal, 3 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 10 report an effect size · 8 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -56,8 +56,7 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Students reported increased personal responsibility and described the reflective self-assessment process as confidence-building during their transition to university](../claims/reflection-builds-responsibility-and-confidence-transition.md) [+W] — attached 2026-10-11 from Pedlow et al. (2026), which proposed "GenAI-focused reflective self-assessment instrument for commencing university students".
 - [In one 2×2 experiment with 120 undergraduates, an Assessment-Performance Calibration Activity (APCA) gave the most accurate self-assessment and least overconfidence, and adding a feedback-literacy script did not improve calibration further](../claims/apca-improves-self-assessment-accuracy-overconfidence.md) [+W] — attached 2026-10-11 from Dai (2026), which proposed "APCA Assessment-Performance Calibration Activity"; tests this page's relationship.
 - [Guided reflection embedded in self-assessment supports commencing students to engage responsibly and confidently with GenAI while maintaining academic integrity](../claims/guided-reflection-self-assessment-responsible-genai-engagement.md) [+W]
-- [Verbalized self-reported confidence is overconfident in the mid-confidence range, while consistency-based confidence shows good average calibration but localized failure regions](../claims/verbalizing-overconfidence-consistency-local-failures.md) [~W]
-- [Novice clinical learners show pervasive metacognitive calibration deficits, with overestimated performance and confidence exceeding accuracy](../claims/novice-metacognitive-calibration-deficits.md) [-W]
+- [A theoretical article, citing two simulation studies, reports that novice clinical learners overestimated their performance and that their confidence exceeded their accuracy](../claims/novice-metacognitive-calibration-deficits.md) [-W]
 - [Workflow condition is associated with students' self-assessment confidence](../claims/workflow-condition-self-assessment-confidence-effect.md) [~W]
 - [Students' JoL ratings became more consistent over time and evolved from under-rating to over-rating to accurate judgement](../claims/jol-consistency-and-rating-evolution.md) [~W]
 - [Students using the eliciting agent showed JoL ratings correlated with system learning metrics, strongest for mastery](../claims/elicit-condition-jol-accuracy-correlations.md) [+W]

@@ -42,6 +42,9 @@ The article's meta-analysis of the quantitative literature on parental involveme
 ## Discussion
 
 
+## Learner Variables
+- [Home Learning Environment](../learner-variables/home-learning-environment.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Parental aspiration/expectation for children's educational achievement has the strongest relationship with academic achievement among involvement components](parental-aspiration-expectation-strongest-relationship.md) — a narrower finding that bears on this claim
 - [Parental home supervision has the weakest relationship with students' academic achievement among involvement components](parental-home-supervision-weakest-relationship.md) — a narrower finding that bears on this claim

@@ -42,6 +42,9 @@ A qualitative meta-synthesis of prior meta-analyses comparing PBL with tradition
 ## Discussion
 
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Traditional instruction is more effective than PBL for short-term retention as measured by standardized board exams](traditional-instruction-short-term-retention-board-exams.md) — related
 - [PBL is superior to conventional instruction for skill development and for satisfaction of students and teachers](pbl-superior-skill-development-satisfaction.md) — related

@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Graphic Organizers Support Novice Comprehension
+title: "Graphic organizers such as concept maps improve comprehension and retention with a medium average effect; that novices benefit more rests on a few small subgroups"
 status: review
 generated:
   by: claude/unspecified
@@ -28,7 +28,7 @@ sources:
     rigour: "?"
 ---
 
-# Graphic Organizers Support Novice Comprehension
+# Graphic organizers such as concept maps improve comprehension and retention with a medium average effect; that novices benefit more rests on a few small subgroups
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q4` · `i2` medium

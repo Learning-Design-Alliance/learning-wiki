@@ -44,6 +44,7 @@ Final-assessment metacognition questions (0–10 scale) in the same field experi
 
 ## Learner Variables
 - [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+- [Metacognition](../learner-variables/metacognition.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Metacognitive confidence about credit correlates with financial behaviors and advice giving, but knowledge performance does not correlate with behavior](confidence-correlates-with-financial-behaviors-not-knowledge.md) — related

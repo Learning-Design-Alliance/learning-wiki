@@ -43,6 +43,7 @@ Study of 60 EFL learners divided into high-, intermediate-, and low-level groups
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — moderator: an instructional effect differs with it
+- [Vocabulary](../learner-variables/vocabulary.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 

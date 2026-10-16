@@ -35,7 +35,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 155 claims (67 for, 75 mixed, 13 against) · 118 studies (40 associational, 29 design, 17 review, 15 theoretical, 12 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 8 of 118 report an effect size · 150 claims rest on one study
+> **Evidence** · 159 claims (71 for, 75 mixed, 13 against) · 121 studies (40 associational, 29 design, 18 theoretical, 17 review, 12 causal, 3 qualitative, 2 quant-synthesis), `q1`–`q3` · 8 of 121 report an effect size · 154 claims rest on one study
 
 ## Conditional relationship
 
@@ -166,6 +166,10 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Linguist review of draft items revealed communication problems with terminology and imprecisely reasoned attitude statements](../claims/linguist-review-revealed-item-communication-problems.md) [+W]
 - [Some 2003 MCAS fourth-grade math word problems exhibited differential item functioning for English-language learners versus non-ELLs](../claims/mcas-math-word-problems-dif-for-ells.md) [+M] — attached 2026-10-15 from Maria Martiniello (2008), which proposed "Scrutinize the appropriateness of inferences about ELLs' math knowledge drawn from linguistically complex test items"; tests this page's relationship.
 - [Textual analysis identifies specific linguistic features of MCAS word problems that posed disproportionate difficulty for ELLs](../claims/linguistic-features-of-dif-mcas-word-problems.md) [+M] — attached 2026-10-15 from Maria Martiniello (2008), which proposed "Scrutinize the appropriateness of inferences about ELLs' math knowledge drawn from linguistically complex test items"; tests this page's relationship.
+- [Cohen's kappa exceeds Scott's pi when coders show unequal marginal category preferences, counting those disagreements as agreement](../claims/kappa-exceeds-pi-unequal-margins.md) [+W] — attached 2026-10-16 from Klaus Krippendorff (2004), which proposed "Use only chance-corrected agreement coefficients satisfying interchangeability and population-reference conditions; reject %-agreement, correlation, and association measures as reliability indices".
+- [Lombard et al.'s fallback criterion (alpha below .700, accept if %-agreement above .900) accepts data whose chance-corrected coefficients indicate near-zero reliability](../claims/percent-agreement-fallback-accepts-unreliable-data.md) [+W] — attached 2026-10-16 from Klaus Krippendorff (2004), which proposed "Use only chance-corrected agreement coefficients satisfying interchangeability and population-reference conditions; reject %-agreement, correlation, and association measures as reliability indices".
+- [Reflective modeling of formative knowledge constructs risks misrepresenting domain knowledge as a general factor such as intelligence](../claims/reflective-model-misrepresents-domain-knowledge.md) [+W] — attached 2026-10-16 from Knowledge as a formative construct: A good alpha is not always better, which proposed "Match a knowledge assessment's measurement model to the construct's theoretical conceptualization before applying scale-quality criteria"; tests this page's relationship.
+- [Off-line self-reports of strategy use may not correspond to actual learner behavior due to memory-reconstruction problems](../claims/off-line-self-reports-memory-reconstruction-problem.md) [+W] — attached 2026-10-16 from Marcel V. J. Veenman (2011), which proposed "Treat off-line self-report assessments of strategy use as prone to memory-reconstruction and prompting threats, and pursue more validation work".
 
 ## Objective and learner-valued goal
 

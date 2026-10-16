@@ -61,6 +61,9 @@ Same trial's second comparison against mathematics and drawing software controls
 ## Discussion
 
 
+## Learner Variables
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [DaisyQuest outperformed alternative reading software on phonological awareness in at-risk first graders](daisyquest-beats-reading-software-phonological-awareness.md) — related
 - [DaisyQuest improved phonological awareness over regular schooling in a child-care facility randomized trial](daisyquest-child-care-significant-gains.md) — related

@@ -42,6 +42,9 @@ Randomized controlled trial (PCER Consortium, 2008); phonological processing ass
 ## Discussion
 
 
+## Learner Variables
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Bright Beginnings shows no discernible effects on preschool phonological processing (effect size -0.08, not statistically significant)](bright-beginnings-null-phonological-processing.md) — related
 - [Curiosity Corner shows no discernible effects on preschool math outcomes in the PCER randomized trial](curiosity-corner-no-discernible-math-effects.md) — related

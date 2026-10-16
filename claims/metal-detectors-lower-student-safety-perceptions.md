@@ -61,6 +61,9 @@ The brief reports, citing Mayer and Leone (1999), that "students are more likely
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Metal detectors impose substantial equipment, personnel, training and time costs on schools](metal-detector-costs-equipment-personnel-time.md) — related
 - [Metal detector use disproportionately affects students of color, who are more likely to pass through detectors daily](metal-detectors-disproportionate-students-of-color.md) — related

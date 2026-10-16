@@ -42,6 +42,9 @@ In the WWC summary of study findings from the randomized controlled trial (n = 1
 ## Discussion
 
 
+## Learner Variables
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The average improvement index for Arthur in English language development is +11 percentile points, ranging from –5 to +17 across findings](arthur-improvement-index-plus-11.md) — related
 - [Watching Arthur improves English narrative skill development in kindergarten English language learners more than an alternative educational program (potentially positive effects)](arthur-potentially-positive-narrative-skill-effects.md) — related

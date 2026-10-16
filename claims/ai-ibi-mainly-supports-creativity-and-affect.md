@@ -39,6 +39,10 @@ Authors' overall interpretation of the quasi-experimental results, not a separat
 
 ## Discussion
 
+## Learner Variables
+- [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
+- [Problem Solving](../learner-variables/problem-solving.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — the general claim this finding bears on, with the studies behind it

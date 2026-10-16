@@ -42,6 +42,9 @@ Two-group quasi-experiment in a Public Space Interior Design course at a vocatio
 ## Discussion
 
 
+## Learner Variables
+- [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The AI-IVE-PBL model's learning-outcome advantages are attributed to fostering sustained idea-developing discourse (SIDD)](sidd-mechanism-for-ai-ive-pbl-outcomes.md) — related
 - [Both flipped and AI-enhanced flipped classrooms achieve higher in-class question accuracy than the traditional classroom](flipped-models-higher-question-accuracy.md) — related

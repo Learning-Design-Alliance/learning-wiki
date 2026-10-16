@@ -17,7 +17,7 @@ sources:
 # The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 24 claims (23 for, 1 against) · 15 studies (6 associational, 4 qualitative, 2 review, 2 design, 1 theoretical), `q2`–`q3` · 0 of 15 report an effect size · 23 claims rest on one study
+> **Evidence** · 24 claims (23 for, 1 against) · 17 studies (7 associational, 4 qualitative, 2 review, 2 design, 1 causal, 1 theoretical), `q2`–`q3` · 0 of 17 report an effect size · 23 claims rest on one study
 
 ## Description
 The five essential supports framework specifies five school- or center-level organizational subsystems—effective leaders, collaborative teachers, involved families, supportive environment, and ambitious instruction—that operate in strong cooperation to enable or inhibit improvement in classroom practices. The article states that "when one of the essential supports is strengthened, it buttresses the development of the other supports," and that school leadership is theorized to be the catalyst that strengthens the other four. The authors adapt this framework, originally developed for elementary schools by Bryk et al. (2010), to early education settings with revised definitions such as "Effective Instructional Leaders."

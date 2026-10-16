@@ -316,8 +316,8 @@ Drawing on MLE theory, the article recommends that teachers reconceive their rol
 - [Successful AI integration in Arab EL2 classrooms consistently depends on teacher mediation, institutional support, and responsible-use practices](../claims/teacher-mediation-institutional-support-ai-integration.md) [+W]
 - [Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use](../claims/teacher-role-shift-facilitator-ethical-supervisor.md) [+W]
 - [Learning Is Initiative Construction Old New Knowledge](../claims/learning-is-initiative-construction-old-new-knowledge.md) [+W]
-- [Mental Representation Not Directly Instructable](../claims/mental-representation-not-directly-instructable.md) [+M]
-- [Skill Develops Through Engagement Not Drill](../claims/skill-develops-through-engagement-not-drill.md) [+M]
+- [Mental Representation Not Directly Instructable](../claims/mental-representation-not-directly-instructable.md) [+W]
+- [Skill Develops Through Engagement Not Drill](../claims/skill-develops-through-engagement-not-drill.md) [+W]
 - [Applying skill theory to grammar conflates constructs: pedagogical rules are not what exists in learners' mental representation](../claims/grammar-as-skill-is-a-conflation.md) [+W]
 - [L2 learners never develop fully native-like skill: they read consistently slower and miss subtle anaphoric interpretation distinctions](../claims/l2-skill-never-fully-native-like.md) [+W]
 - [Structured input alone, without explicit information, is sufficient to cause changes in learner knowledge](../claims/structured-input-alone-sufficient-for-acquisition.md) [+W]
@@ -623,8 +623,8 @@ The article concludes that teachers and materials cannot directly intervene in t
 
 ### Claims
 
-- [Mental Representation Not Directly Instructable](../claims/mental-representation-not-directly-instructable.md) [+M]
-- [Skill Develops Through Engagement Not Drill](../claims/skill-develops-through-engagement-not-drill.md) [+M]
+- [Mental Representation Not Directly Instructable](../claims/mental-representation-not-directly-instructable.md) [+W]
+- [Skill Develops Through Engagement Not Drill](../claims/skill-develops-through-engagement-not-drill.md) [+W]
 - [Applying skill theory to grammar conflates constructs: pedagogical rules are not what exists in learners' mental representation](../claims/grammar-as-skill-is-a-conflation.md) [+W]
 - [L2 learners never develop fully native-like skill: they read consistently slower and miss subtle anaphoric interpretation distinctions](../claims/l2-skill-never-fully-native-like.md) [+W]
 - [Structured input alone, without explicit information, is sufficient to cause changes in learner knowledge](../claims/structured-input-alone-sufficient-for-acquisition.md) [+W]

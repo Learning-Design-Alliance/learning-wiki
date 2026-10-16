@@ -44,6 +44,7 @@ The summary reports, citing Gormley, Gayer, Phillips, and Dawson (2005) on unive
 
 ## Learner Variables
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — predictor: learners who differ on it differ in outcomes
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Early childhood education attendance is associated with higher high school completion, college attendance, and employment](ece-higher-completion-college-employment.md) — related

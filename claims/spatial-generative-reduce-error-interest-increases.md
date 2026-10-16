@@ -45,6 +45,8 @@ Second regression in the same study testing the subsidiary hypotheses: "all thre
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
 - [Interest](../learner-variables/interest.md) — predictor: learners who differ on it differ in outcomes
+- [Spatial Ability](../learner-variables/spatial-ability.md) — predictor: learners who differ on it differ in outcomes
+- [Metacognition](../learner-variables/metacognition.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Interest ratings were the only significant predictor of readers' predictive judgments of understanding](interest-predicts-judgments-of-understanding.md) — related

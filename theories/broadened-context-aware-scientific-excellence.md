@@ -38,8 +38,8 @@ The editorial proposes an alternative view of excellence that goes beyond narrow
 
 ### Claims
 
-- [Resource Constraints Sharpen Thinking Evaluation Risk](../claims/resource-constraints-sharpen-thinking-evaluation-risk.md) [+M]
-- [Mentorship Gap Barrier First Generation Chemists](../claims/mentorship-gap-barrier-first-generation-chemists.md) [+M]
+- [Resource Constraints Sharpen Thinking Evaluation Risk](../claims/resource-constraints-sharpen-thinking-evaluation-risk.md) [+W]
+- [Mentorship Gap Barrier First Generation Chemists](../claims/mentorship-gap-barrier-first-generation-chemists.md) [+W]
 - [Financial and economic constraints shape first-generation chemists' career decisions, sometimes deterring advanced training altogether](../claims/financial-constraints-shape-first-generation-career-decisions.md) [+W]
 - [Psychological barriers, including imposter syndrome and feelings of not belonging, hinder first-generation chemists' visibility and opportunity-seeking](../claims/psychological-belonging-barrier-first-generation-chemists.md) [+W]
 - [The editorial's insights derive from reflections of 13 first-generation chemists and cannot represent all first-generation scientists](../claims/thirteen-first-generation-chemists-scope-limit.md) [~W]

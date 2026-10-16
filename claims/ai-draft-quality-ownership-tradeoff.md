@@ -39,6 +39,9 @@ RQ3 results (Figure 6) for the n=253 experiment: quality_overall, a 0–9 compos
 
 ## Discussion
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [AI severs the correlation between artefact quality and cognitive engagement, breaking the artefact-as-proxy for learning](ai-breaks-artefact-as-proxy.md) — the general claim this finding bears on, with the studies behind it

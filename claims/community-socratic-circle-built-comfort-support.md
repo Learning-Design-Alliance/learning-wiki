@@ -42,6 +42,9 @@ Findings from the Community Post-Implementation Survey administered after the fi
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Post-implementation survey responses after each Socratic Circles implementation cycle trended affirmative toward the team-defined outcomes](socratic-circles-surveys-trended-affirmative-outcomes.md) — related
 - [The RCS Core Team's root cause analysis identified fear and political influence, lack of comprehensive and inclusive curriculum, and lack of awareness as central causes of the discourse challenge](rcs-root-causes-fear-curriculum-awareness.md) — related

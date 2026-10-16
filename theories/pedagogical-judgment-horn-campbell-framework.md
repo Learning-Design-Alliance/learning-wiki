@@ -37,7 +37,7 @@ The study builds on Horn and Campbell's (2015) conception of pedagogical judgmen
 
 ### Claims
 
-- [Structured Iterative Support Improves Pedagogical Judgment](../claims/structured-iterative-support-improves-pedagogical-judgment.md) [+M]
+- [Structured Iterative Support Improves Pedagogical Judgment](../claims/structured-iterative-support-improves-pedagogical-judgment.md) [+W]
 - [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve](../claims/probing-feedback-revise-resubmit-evidence.md) [+W]
 - [Revised post-teaching prompts (RPTAA) advanced candidates' capacity for more sophisticated analysis compared with the original prompts (PTAA)](../claims/revised-prompts-advance-sophisticated-analysis.md) [+W]
 

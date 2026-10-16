@@ -13,14 +13,14 @@ generated:
 # Just-in-Time Information
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 7 studies (3 causal, 2 review, 2 theoretical), `q2`–`q3` · 0 of 7 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 6 studies (2 causal, 2 review, 2 theoretical), `q2`–`q3` · 0 of 6 report an effect size · 4 claims rest on one study
 
 ## Description
 Just-in-time information presents explanatory content — procedures, concepts, feedback — at the moment the learner needs it to perform the current task step, rather than as a block of upfront instruction. The task comes first; information is delivered on demand or automatically triggered when the learner reaches a point where it is required.
 
 ## Design Implications
 
-Delivering information at the point of need reduces the burden of holding unapplied content in working memory and improves the relevance and retrievability of what is learned [Presenting prerequisite information just before it is needed improves learning efficiency compared with presenting it upfront.](../claims/worked-example-problem-sequences.md) [+M]. In whole-task designs, supportive information is offered before the task while procedural information is embedded within it, appearing precisely at the step where it applies [Whole-task sequencing improves transfer compared with part-task sequencing.](../claims/whole-task-performance-improves-transfer.md) [+M]. The design decision is *when* to present: information given too early is forgotten or ignored; information given too late forces unproductive trial-and-error search.
+Delivering information at the point of need reduces the burden of holding unapplied content in working memory and improves the relevance and retrievability of what is learned. In whole-task designs, supportive information is offered before the task while procedural information is embedded within it, appearing precisely at the step where it applies [Whole-task sequencing improves transfer compared with part-task sequencing.](../claims/whole-task-performance-improves-transfer.md) [+M]. The design decision is *when* to present: information given too early is forgotten or ignored; information given too late forces unproductive trial-and-error search.
 
 ### Context
 #### Requirements
@@ -36,7 +36,6 @@ Delivering information at the point of need reduces the burden of holding unappl
 - In self-paced e-learning, poorly timed pop-ups can split attention between the information and the task itself [~M]
 
 ### Target Learners
-- Novices in complex, multi-step domains (STEM, software, statistics) where upfront instruction would exceed working memory capacity [Presenting prerequisite information just before it is needed improves learning efficiency compared with presenting it upfront.](../claims/worked-example-problem-sequences.md) [+M]
 - Self-paced learners who can control when they request support
 - Less beneficial for advanced learners, who can integrate upfront material efficiently and may find step-by-step prompting redundant [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 

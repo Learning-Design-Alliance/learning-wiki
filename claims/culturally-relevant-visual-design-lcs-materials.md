@@ -44,6 +44,7 @@ Theme 4 of the focus-group analysis. Participants said colorful, culturally fami
 
 ## Learner Variables
 - [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Identity](../learner-variables/identity.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Hispanic adults preferred clear, friendly, direct, and nonjudgmental communication for lung cancer screening shared decision-making](hispanic-adults-prefer-clear-friendly-sdm-communication.md) — related

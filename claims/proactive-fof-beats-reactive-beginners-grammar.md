@@ -42,6 +42,9 @@ Quasi-experimental pretest-posttest nonequivalent-groups study of 42 beginner Ir
 ## Discussion
 
 
+## Learner Variables
+- [Syntax](../learner-variables/syntax.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Proactive FOF improved grammar more than reactive FOF at both beginner and upper-intermediate proficiency levels](proactive-fof-advantage-both-proficiency-levels.md) — a broader claim this one bears on
 - [Upper-intermediate EFL learners taught with proactive FOF scored significantly higher on a grammar posttest than learners taught with reactive FOF](proactive-fof-beats-reactive-upper-intermediate-grammar.md) — related

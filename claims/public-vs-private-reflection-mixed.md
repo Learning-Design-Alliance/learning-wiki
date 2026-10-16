@@ -41,6 +41,9 @@ Comparison of public blog paragraphs (one section) with private journal paragrap
 
 ## Discussion
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — the general claim this finding bears on, with the studies behind it

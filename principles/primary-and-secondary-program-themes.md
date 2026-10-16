@@ -39,7 +39,7 @@ The paper recommends that all programs have at least two themes: a primary theme
 
 ### Claims
 
-- [Adventure Programs Teach Empowerment Process](../claims/adventure-programs-teach-empowerment-process.md) [+M]
+- [Adventure Programs Teach Empowerment Process](../claims/adventure-programs-teach-empowerment-process.md) [+W]
 - [Conscientization, grounded in Freire's consciousness-raising, is argued to fit adventure therapy's experiential learning methodology as the first empowerment level](../claims/conscientization-fits-adventure-therapy.md) [+W]
 
 ## Related Principles

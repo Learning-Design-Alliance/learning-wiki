@@ -42,6 +42,9 @@ In the survey-predictor models, the readiness-belief item significantly predicte
 ## Discussion
 
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Middle school students with the lowest baseline argumentative-writing scores showed the largest growth across essay attempts on an AES platform, while mid- and high-baseline students showed limited or no significant change](aes-lowest-baseline-students-gain-most.md) — related
 - [Teachers' confidence in teaching students to order reasons and evidence logically significantly predicted student writing growth within the first and second prompts](teacher-confidence-reasons-evidence-predicts-growth.md) — related

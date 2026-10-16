@@ -43,6 +43,7 @@ Summary finding of the 29-school randomized evaluation, in which impacts were es
 
 ## Learner Variables
 - [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — outcome: instruction changes it
 
 ## Related Claims
 

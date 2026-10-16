@@ -19,7 +19,7 @@ Retrieval practice warm ups are brief activities at the start of a lesson in whi
 
 ## Design Implications
 
-Warm ups exploit the testing effect: recalling information strengthens its memory trace more than rereading or restudying it [Retrieval practice produces durable, transferable learning.](../claims/retrieval-practice-improves-retention.md) [+S]. Because warm ups recur at the start of each lesson, they naturally implement spaced retrieval, which amplifies the retention benefit over single-session practice [Spaced retrieval outperforms massed retrieval for long-term retention.](../claims/spaced-retrieval-improves-retention.md) [+S]. They also serve an activation function, bringing prior knowledge into working memory so new instruction can connect to it [Activation of prior knowledge improves learning from new instruction.](../claims/activation-improves-learning.md) [+M].
+Warm ups exploit the testing effect: recalling information strengthens its memory trace more than rereading or restudying it [Retrieval practice produces durable, transferable learning.](../claims/retrieval-practice-improves-retention.md) [+S]. Because warm ups recur at the start of each lesson, they naturally implement spaced retrieval, which amplifies the retention benefit over single-session practice [Spaced retrieval outperforms massed retrieval for long-term retention.](../claims/spaced-retrieval-improves-retention.md) [+M]. They also serve an activation function, bringing prior knowledge into working memory so new instruction can connect to it [Activation of prior knowledge improves learning from new instruction.](../claims/activation-improves-learning.md) [+M].
 
 ### Context
 #### Requirements

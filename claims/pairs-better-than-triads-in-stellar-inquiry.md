@@ -41,6 +41,9 @@ This is the authors' experiential observation from teaching the inquiry twice (U
 
 ## Discussion
 
+## Learner Variables
+- [Collaboration](../learner-variables/collaboration.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — the general claim this finding bears on, with the studies behind it

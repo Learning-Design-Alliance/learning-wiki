@@ -42,6 +42,9 @@ Regression adjustment analysis of CHKS data by sexual orientation, parallel to t
 ## Discussion
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Bisexual students in every race/ethnicity group report chronic sadness at more than twice the rate of straight students](bisexual-students-chronic-sadness-double-straight.md) — related
 - [Disparities are not uniform: some gender- and sexual-minority groups report equal or better school experiences than majority peers (e.g., Black transgender students, Cambodian gay/lesbian students)](lgbtq-disparities-vary-with-exceptions-by-group.md) — related

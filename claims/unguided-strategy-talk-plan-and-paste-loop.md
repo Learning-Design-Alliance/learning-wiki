@@ -42,6 +42,9 @@ Epistemic network analysis of group chat logs from the Week 2 unguided task (13 
 ## Discussion
 
 
+## Learner Variables
+- [Identity](../learner-variables/identity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [After scaffolding, strategy talk reconfigured around summarizing, critical evaluation, and co-construction, indicating repurposing toward critical scrutiny of AI outputs](scaffolded-strategy-talk-repurposed-critical-evaluation.md) — related
 - [Students attributed initial passive reliance on GenAI to prompting paralysis and an authority bias compounded by low academic self-efficacy](prompting-paralysis-and-authority-bias.md) — related

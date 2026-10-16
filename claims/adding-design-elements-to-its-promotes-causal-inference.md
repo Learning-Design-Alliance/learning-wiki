@@ -41,6 +41,9 @@ The article's central methodological demonstration, using the No Child Left Behi
 
 ## Discussion
 
+## Learner Variables
+- [Inferencing](../learner-variables/inferencing.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [The RCT is considered the gold standard of research evidence because randomization ensures only the intervention could cause treatment-control outcome differences](rct-gold-standard-randomization-logic.md) — the general claim this finding bears on, with the studies behind it

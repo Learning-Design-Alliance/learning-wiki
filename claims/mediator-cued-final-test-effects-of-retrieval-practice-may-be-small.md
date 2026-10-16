@@ -60,6 +60,9 @@ The chapter reports Coppens et al. (2016) as a corrective: the effect "may be sm
 
 ## Discussion
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Existing theoretical accounts attributing the testing effect to enhanced semantic elaboration receive limited support](limited-support-semantic-elaboration-testing-accounts.md) — the general claim this finding bears on, with the studies behind it

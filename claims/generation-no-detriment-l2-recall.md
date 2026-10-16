@@ -43,6 +43,7 @@ Authors' interpretation of the full pre/post dataset (Confidence and Knowledge s
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
 
 ## Related Claims
 

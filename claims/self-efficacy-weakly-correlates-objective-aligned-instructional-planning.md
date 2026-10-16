@@ -44,6 +44,7 @@ Pearson product-moment correlation analysis of STEBI and TSMTDF scores from 101 
 
 ## Learner Variables
 - [Self-Efficacy](../learner-variables/self-efficacy.md) — predictor: learners who differ on it differ in outcomes
+- [Academic Self-Concept](../learner-variables/academic-self-concept.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Integrated instructional hours correlate more positively with technology integration ability than stand-alone technology courses](integrated-hours-beat-standalone-tech-courses.md) — related

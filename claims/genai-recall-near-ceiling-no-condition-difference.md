@@ -42,6 +42,9 @@ Linear regression of the 11-item Patient History Information Quiz (immediate and
 ## Discussion
 
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 - [GenAI-condition students rated their PBL tutorial significantly higher after the tutorial than they rated their previous ePBLM-based experiences, especially clinical accuracy](genai-virtual-patient-higher-perceived-tutorial-quality.md) — related
 - [GenAI tutorials took longer than ePBLM tutorials, with approximately 10 additional minutes spent on history-taking](genai-history-taking-longer-tutorial-time.md) — related

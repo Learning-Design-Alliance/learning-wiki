@@ -142,3 +142,4 @@ The chapter reports laboratory experiments by Smith and Karpicke (2014), includi
 - [Having more multiple-choice alternatives benefits later retention when initial retrieval success is high but hurts learning when it is low](effect-of-more-multiple-choice-alternatives-depends-on-initial-retrieval-success.md) — related
 - [The classroom testing effect transfers to mismatched test formats, but consistent quiz–exam formats yield a significantly larger effect (g = 0.531 vs. g = 0.399).](format-consistency-moderates-classroom-testing-effect.md) — related
 - [Practice test format moderates the testing effect: mixed-format (g = 0.80) and multiple-choice (g = 0.70) practice tests produced larger effects than short-answer tests (g = 0.48)](practice-test-format-moderates-effect.md) — reports the opposite
+- [Adopting mastery goals rather than performance goals during initial learning promotes transfer](mastery-goals-promote-transfer.md) — related

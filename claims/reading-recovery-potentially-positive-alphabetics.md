@@ -60,6 +60,9 @@ The effectiveness summary reports that across phonemic awareness, letter knowled
 ## Discussion
 
 
+## Learner Variables
+- [Alphabet Knowledge and Print Awareness](../learner-variables/alphabet-knowledge-and-print-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Phonemic awareness effects of Reading Recovery were positive and substantively important but not statistically significant in one trial](reading-recovery-phonemic-awareness-null-significance.md) — related
 - [Reading Recovery has potentially positive effects on comprehension, with mixed findings across two trials](reading-recovery-potentially-positive-comprehension.md) — related

@@ -12,10 +12,16 @@ generated:
 # Executive Function
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 26 claims (15 show a difference, 6 mixed, 5 no difference) · 20 studies (6 causal, 6 associational, 4 quant-synthesis, 3 review, 1 design), `q2`–`q4` · 5 of 20 report an effect size · 24 claims rest on one study
+> **Evidence** · 28 claims (15 show a difference, 6 mixed, 5 no difference, 2 unmarked) · 21 studies (6 causal, 6 associational, 4 quant-synthesis, 4 review, 1 design), `q2`–`q4` · 6 of 21 report an effect size · 26 claims rest on one study
 
 ## Description
 Executive function covers inhibitory control, updating working memory, and shifting between tasks or rules. It is measured by performance tasks (such as the Stroop, Flanker and dimensional card-sort tasks) and by teacher or parent ratings. It develops through childhood and adolescence, predicts school readiness and achievement, moderates designs that load self-direction on learners, and is the target of training programmes, whose effects rarely transfer beyond the trained tasks. It underlies [self-regulation](self-regulation.md) and [attention](attention.md) and overlaps with [working memory](working-memory.md).
+
+## How strongly it relates to achievement
+
+**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
+
+- Executive-function composites **r = .40** in preschool and **.36** in elementary school; cognitive flexibility **.35**, more closely related in younger children; inhibition **.29–.30**, shifting **.28–.32**. [Claim](../claims/executive-functions-and-working-memory-correlate-with-math-achievement.md)
 
 ## Implications
 

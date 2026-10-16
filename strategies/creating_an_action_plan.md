@@ -22,7 +22,7 @@ Action planning operationalizes the forethought and performance phases of [Self-
 
 ### Context
 #### Requirements
-- A goal that is specific and challenging but attainable; vague or easy goals do not reliably raise performance [Specific, difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]
+- A goal that is specific and challenging but attainable; vague or easy goals do not reliably raise performance [Specific, difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M]
 - Sub-goals small enough to be completed within days or weeks, so progress feeds self-efficacy [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 - A monitoring mechanism — a log, checklist, or scheduled [Check-In](../elements/check-in.md) — that surfaces progress and slippage [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]
 - Time to revise the plan when monitoring reveals it is not working; a plan treated as fixed becomes a liability
@@ -52,7 +52,7 @@ Action planning operationalizes the forethought and performance phases of [Self-
 - Metacognitive awareness: learning what one's own realistic capacity and failure points are
 
 ### Instructions
-1. **Set the goal.** Learners state a specific, challenging but attainable goal; help them reframe outcome goals as process goals [Specific, difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+S]
+1. **Set the goal.** Learners state a specific, challenging but attainable goal; help them reframe outcome goals as process goals [Specific, difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M]
 2. **Break it down.** Decompose the goal into sub-tasks of manageable size, sequencing them ([Chunking](../principles/chunking.md))
 3. **Attach cues.** For each step, specify when, where, and how it will be done — an if-then commitment rather than a vague intention
 4. **Define evidence.** For each step, state what completion looks like, so progress is checkable rather than felt

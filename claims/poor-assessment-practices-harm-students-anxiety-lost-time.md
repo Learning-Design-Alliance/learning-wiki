@@ -47,5 +47,5 @@ The brief states, citing Heissel et al. (2021) and Zeidner (1998), that "poor as
 
 ## Related Claims
 
-- [Online and proctored online exams increase students' test anxiety compared with on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — the general claim this finding bears on, with the studies behind it
+- [Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — the general claim this finding bears on, with the studies behind it
 - [Guiding analytics for learners can improve mathematics achievement, retention, learning strategies, and reduce math anxiety](guiding-analytics-improves-achievement-and-strategies.md) — related

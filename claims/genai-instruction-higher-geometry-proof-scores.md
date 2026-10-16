@@ -40,6 +40,9 @@ Independent-samples t-test on post-test scores in a quasi-experimental pre-test-
 ## Discussion
 
 
+## Learner Variables
+- [Geometric Reasoning](../learner-variables/geometric-reasoning.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The post-test advantage of generative AI-supported instruction persists after controlling for pre-test performance (ANCOVA)](genai-geometry-ancova-group-effect.md) — possibly the same claim (merge candidate)
 - [Both instructional groups improved significantly from pre-test to post-test, with larger gains in the generative AI-supported group](genai-geometry-within-group-gains.md) — related

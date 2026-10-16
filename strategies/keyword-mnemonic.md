@@ -61,9 +61,11 @@ The strategy works by converting abstract verbal material into concrete, interac
 5. Follow with spaced retrieval practice in both directions ([Practice](../elements/practice.md)), and connect terms to semantic networks so knowledge outlasts the mnemonic.
 
 ## Related Strategies
+
 - [Acronyms and Acrostics](acronyms_and_acrostics.md) — the other major verbal mnemonic family; better suited to ordered lists than paired associates
 - [Act It Out](act_it_out.md) — embodiment as an alternative elaborative encoding route
 - [Spaced Retrieval Practice](spaced-retrieval-practice.md) — the necessary follow-through for durable retention
+- [Open language lessons with a brief incidental multimodal activity pairing foreign word forms with pictures for concrete, depictable vocabulary](brief-incidental-multimodal-lesson-opener.md)
 
 ## Examples
 - **Raugh & Atkinson's Russian vocabulary studies** — the original classroom implementation: Stanford students learned 120 Russian words with keyword imagery, roughly doubling vocabulary-test performance over rote control conditions.

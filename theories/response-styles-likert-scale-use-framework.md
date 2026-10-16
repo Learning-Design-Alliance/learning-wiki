@@ -38,7 +38,7 @@ The article frames response styles as differences in how respondents use the cat
 
 ### Claims
 
-- [Response Styles Construct Irrelevant Bias Survey](../claims/response-styles-construct-irrelevant-bias.md) [+M]
+- [Response Styles Construct Irrelevant Bias Survey](../claims/response-styles-construct-irrelevant-bias.md) [+W]
 - [The effect of response styles on growth estimates varies by psychological construct, response style, and IRT model used](../claims/response-style-growth-effects-vary-by-construct-and-model.md) [+W]
 
 ## Related Theories

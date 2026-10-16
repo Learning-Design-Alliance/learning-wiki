@@ -46,7 +46,7 @@ Multi-level model M4 (Table 4) on test anxiety in online exams, using exam quart
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Online and proctored online exams increase students' test anxiety compared with on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — related
+- [Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — related
 - [Higher internet literacy is associated with lower test anxiety in online exams](internet-literacy-lower-test-anxiety.md) — related
 - [Learning strategies relate to test anxiety: persistence positively, environmental structuring negatively, time management not significantly, and women report higher test anxiety](learning-strategies-test-anxiety-effects.md) — related
 - [Proctored online exams show no effect on students' exam performance](proctoring-no-effect-exam-performance.md) — related

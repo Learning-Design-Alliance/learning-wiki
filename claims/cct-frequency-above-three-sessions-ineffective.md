@@ -40,6 +40,9 @@ Mixed-effects subgroup analysis of session frequency across all outcomes. Effect
 ## Discussion
 
 
+## Learner Variables
+- [Processing Speed](../learner-variables/processing-speed.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Group-based CCT is effective while home-based CCT is not](cct-group-based-effective-home-based-not.md) — related
 - [CCT yields small significant gains in nonverbal memory, working memory, and visuospatial skills, but only weak evidence for verbal memory](cct-domain-gains-nonverbal-wm-visuospatial-verbal-weak.md) — related

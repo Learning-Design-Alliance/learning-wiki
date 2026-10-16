@@ -19,7 +19,7 @@ Word Detective is a strategy in which learners actively search for target words 
 
 ## Design Implications
 
-Repeated, varied encounters with a word in meaningful contexts build the flexible word knowledge that single-context drill does not — word learning is incremental and context-dependent, requiring multiple exposures across different settings [~S]. Active searching also converts passive recognition into an attention-demanding task, which supports the orthographic and semantic mapping that underlies automatic word recognition [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. The strategy works best when contexts are genuinely varied and when learners must justify their identification, not merely circle the word.
+Repeated, varied encounters with a word in meaningful contexts build the flexible word knowledge that single-context drill does not — word learning is incremental and context-dependent, requiring multiple exposures across different settings [~S]. Active searching also converts passive recognition into an attention-demanding task, which supports the orthographic and semantic mapping that underlies automatic word recognition [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. The strategy works best when contexts are genuinely varied and when learners must justify their identification, not merely circle the word.
 
 ### Context
 #### Requirements
@@ -32,7 +32,7 @@ Repeated, varied encounters with a word in meaningful contexts build the flexibl
 - Words encountered in only one context produce fragile, inflexible knowledge — a single sighting teaches little [~S]
 - If contexts are too predictable, learners pattern-match on surface features (e.g., first letter) rather than processing the word fully [-M]
 - Low-frequency words may not appear naturally in available texts, forcing contrived contexts that undermine authenticity [-W]
-- Learners with very weak decoding skills may be unable to detect words at all without substantial scaffolding; the strategy presupposes partial [automatic word recognition](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Learners with very weak decoding skills may be unable to detect words at all without substantial scaffolding; the strategy presupposes partial [automatic word recognition](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 
 #### Implementation Variability
 - **Song lyric hunt**: play a familiar song, learners raise hands or mark lyrics when the target word occurs
@@ -42,7 +42,7 @@ Repeated, varied encounters with a word in meaningful contexts build the flexibl
 - **Student-authored contexts**: learners write their own sentences or mini-texts containing the word, reversing the detective role
 
 ### Target Learners
-- Early and emergent readers building sight vocabulary and orthographic mapping [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Early and emergent readers building sight vocabulary and orthographic mapping [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - English language learners, who benefit from seeing a word function across registers and contexts before producing it [~M]
 - Learners with limited background knowledge, for whom contextual encounters supply the semantic scaffolding that definitions alone do not [Graphic organizers support novice comprehension.](../claims/graphic-organizers-support-novice-comprehension.md) [+M]
 - Less suitable for advanced readers who already recognize target words automatically — searching becomes busywork with no processing payoff [~M]

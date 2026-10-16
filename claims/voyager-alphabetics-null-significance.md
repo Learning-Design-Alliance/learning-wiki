@@ -42,6 +42,11 @@ WWC re-analysis of findings from both studies; corrections for clustering and mu
 ## Discussion
 
 
+## Learner Variables
+- [Alphabet Knowledge and Print Awareness](../learner-variables/alphabet-knowledge-and-print-awareness.md) — outcome: instruction changes it
+- [Auditory Processing](../learner-variables/auditory-processing.md) — outcome: instruction changes it
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [In the Nelson, Stage, Epstein, & Pierce (2005) RCT, SSL produced statistically significant positive effects on all four alphabetics outcomes](ssl-nelson-stage-2005-significant-outcomes.md) — reports the opposite
 - [The WWC rated Waterford Early Reading Program™ as having potentially positive effects on alphabetics, based on a substantively important average effect size with no statistically significant individual outcomes](werp-potentially-positive-alphabetics.md) — possibly the same claim (merge candidate)

@@ -20,7 +20,7 @@ Problem presentation is the instructional element in which learners are confront
 
 ## Design Implications
 
-A well-presented problem engages learners in authentic problem-solving by making the task feel consequential and by requiring them to identify what they need to learn rather than applying a pre-taught procedure [Whole-task practice supports transfer better than part-task sequencing for complex skills.](../claims/whole-task-performance-improves-transfer.md) [+M]. The presentation should specify the problem context, constraints, and success criteria while deliberately withholding the solution path. Because learners must analyze the situation before acting, prompting them to articulate their reasoning during analysis strengthens conceptual understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
+A well-presented problem engages learners in authentic problem-solving by making the task feel consequential and by requiring them to identify what they need to learn rather than applying a pre-taught procedure [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+W]. The presentation should specify the problem context, constraints, and success criteria while deliberately withholding the solution path. Because learners must analyze the situation before acting, prompting them to articulate their reasoning during analysis strengthens conceptual understanding [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ### Context
 #### Requirements
@@ -30,15 +30,15 @@ A well-presented problem engages learners in authentic problem-solving by making
 - A mechanism for learners to surface learning needs — e.g., structured discussion or [Check-Ins](../principles/check-ins.md)
 
 #### Constraints
-- Ill-structured problems impose heavy extraneous load on novices; without scaffolding, unguided problem presentation produces minimal learning compared with guided instruction [Whole-task practice supports transfer better than part-task sequencing for complex skills.](../claims/whole-task-performance-improves-transfer.md) [~M] — the whole-task advantage holds mainly when support is embedded
-- Problems that are authentic but far outside learners' experience can frustrate rather than motivate; the expertise-reversal pattern means guidance must increase as prior knowledge decreases [Guidance becomes more effective as learner expertise decreases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
+- Ill-structured problems impose heavy extraneous load on novices; without scaffolding, unguided problem presentation produces minimal learning compared with guided instruction [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~M]
+- Problems that are authentic but far outside learners' experience can frustrate rather than motivate; the expertise-reversal pattern means guidance must increase as prior knowledge decreases [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 - If the problem is presented without follow-up instruction or debriefing, learners may entrench misconceptions [-M]
 - Time-intensive: problem design, facilitation, and assessment all cost more than expository presentation
 
 ### Target Learners
 - Advanced learners in professional fields (business, law, medicine, engineering, STEM) who have enough domain knowledge to analyze a problem productively
 - Learners preparing for transfer to real practice, where problems arrive without labels or pre-taught procedures
-- Less suitable for complete novices, who lack the knowledge base to benefit from unstructured problem analysis [Guidance becomes more effective as learner expertise decreases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
+- Less suitable for complete novices, who lack the knowledge base to benefit from unstructured problem analysis [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 
 ### Target Learning Goals
 - Problem-solving and diagnostic reasoning: analyzing ambiguous situations and formulating solution strategies

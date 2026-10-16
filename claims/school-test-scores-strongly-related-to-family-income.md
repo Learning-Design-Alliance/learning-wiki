@@ -49,7 +49,7 @@ Observational analysis of 2019 data for Illinois schools plotted in Figure 1, re
 | Elaine M. Allensworth and Andrew Zou 2020 | q2 · causal · r2 | i3 | this claim |
 | Ehrlich 2016 | q2 · design · r2 | i? | [Children from low-income families enter kindergarten one full standard deviation (15 stand](ecls-kindergarten-literacy-math-gap-one-sd.md) (supports) |
 | Roberto Agodini 2008 | q2 · design · r2 | i? | [Early socioeconomic math performance gaps grow over time, producing substantial difference](early-math-gaps-grow-by-fourth-grade.md) (supports) |
-| [Kuhfeld 2019](https://doi.org/10.3102/0013189x20931078) | q2 / q3 · associational · r2 | i? | [Achievement gaps between high-poverty and low-poverty schools at kindergarten entry narrow](school-poverty-entry-gaps-narrowed-2010-2017.md) (qualifies); [Inequalities at kindergarten entry by school poverty level decreased between 2010 and 2017](kindergarten-entry-school-poverty-gaps-narrowed-2010-2017.md) (qualifies) |
+| [Kuhfeld 2019](https://doi.org/10.3102/0013189x20931078) | q2 / q3 · associational · r2 | i? | [Achievement gaps between high-poverty and low-poverty schools at kindergarten entry narrow](school-poverty-entry-gaps-narrowed-2010-2017.md) (qualifies); [Inequalities at kindergarten entry by school poverty level decreased between 2010 and 2017](school-poverty-entry-gaps-narrowed-2010-2017.md) (qualifies) |
 | Lemke 2023 | q2 · associational · r2 | i? | [Economically disadvantaged, English learner, special education, Black, and Hispanic studen](student-group-early-literacy-disparities.md) (supports) |
 | Mariann Lemke 2023 | q2 · associational · r2 | i? | [Risk identification varies by grade and student group: kindergarten and grade 3 students w](risk-varies-by-grade-and-student-group.md) (supports) |
 | Lemke 2025 | q2 · associational · r2 | i? | [Students from low income, English learner, special education, and several racial/ethnic gr](massachusetts-k3-risk-inequities-student-groups.md) (supports) |
@@ -79,3 +79,4 @@ Observational analysis of 2019 data for Illinois schools plotted in Figure 1, re
 - In 2003, eighth-grade public school students in Puerto Rico averaged 212 in NAEP mathematics, 64 points lower than the national average of 276. — related
 - On the current path the U.S. will miss its 2020 graduation rate target by 310,000 students, most from low-income families — related
 - [The Berea College Promise Neighborhood serves counties with per capita income significantly lower than state and national averages](berea-pn-economically-distressed-counties.md) — related
+- [State-level percentage of uncertified teachers correlates negatively with NAEP state assessment performance (r from –.40 to –.63)](uncertified-rate-negative-naep-correlation.md) — related

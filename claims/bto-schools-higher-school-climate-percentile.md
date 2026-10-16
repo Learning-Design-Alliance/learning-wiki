@@ -59,6 +59,9 @@ Observational analysis of 1,715 California middle and high schools administering
 
 
 
+## Learner Variables
+- [Safety](../learner-variables/safety.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [The school climate gap between beating-the-odds and chronically underperforming schools is more than twice as large as the gap between BTO and other schools](bto-cu-climate-gap-twice-as-large.md) — related

@@ -20,7 +20,7 @@ Decodable texts are passages in which the majority of words are restricted to gr
 
 ## Design Implications
 
-Decodable practice closes the loop between phonics instruction and actual reading: systematic phonics improves word reading, but the gains depend on learners applying new correspondences in connected text [Systematic phonics instruction improves word reading and comprehension.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Because each word is decodable, learners build [Automaticity](../elements/automaticity.md) in word recognition, which frees working-memory resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Text difficulty must track the instructional sequence — a text is only "decodable" relative to what a particular learner has been taught.
+Decodable practice closes the loop between phonics instruction and actual reading: systematic phonics improves word reading, but the gains depend on learners applying new correspondences in connected text [Systematic phonics instruction improves word reading and comprehension.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Because each word is decodable, learners build [Automaticity](../elements/automaticity.md) in word recognition, which frees working-memory resources for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Text difficulty must track the instructional sequence — a text is only "decodable" relative to what a particular learner has been taught.
 
 ### Context
 #### Requirements
@@ -75,7 +75,7 @@ Decodable practice closes the loop between phonics instruction and actual readin
 ### Target Learning Goals
 - Orthographic mapping: bonding spellings to pronunciations and meanings in memory
 - Transfer of taught phonics patterns from isolated words to connected text
-- Reading fluency and automaticity as a precondition for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Reading fluency and automaticity as a precondition for comprehension [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Phonics application: transferring taught sound–spelling correspondences from isolation to connected text
 - Foundational accuracy before fluency and comprehension work
 - Phonics application: transferring taught letter–sound correspondences to connected text
@@ -135,7 +135,7 @@ Decodable texts are connected texts in which the majority of words can be sounde
 
 ## Design Implications
 
-Decodable text enforces the alignment between what is taught and what is practiced: every word read is an opportunity to consolidate grapheme–phoneme mappings, building the automatic word recognition that frees attention for comprehension [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. This follows from [Cognitive Load Management](../principles/cognitive-load-management.md): untaught patterns force beginning readers into effortful guessing that consumes working memory and can entrench ineffective word-reading habits. The texts are a practice vehicle, not a comprehension curriculum — meaning-making discussion should still accompany reading.
+Decodable text enforces the alignment between what is taught and what is practiced: every word read is an opportunity to consolidate grapheme–phoneme mappings, building the automatic word recognition that frees attention for comprehension [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. This follows from [Cognitive Load Management](../principles/cognitive-load-management.md): untaught patterns force beginning readers into effortful guessing that consumes working memory and can entrench ineffective word-reading habits. The texts are a practice vehicle, not a comprehension curriculum — meaning-making discussion should still accompany reading.
 
 ### Context
 #### Requirements
@@ -175,7 +175,7 @@ Decodable text enforces the alignment between what is taught and what is practic
 
 ### Target Learning Goals
 - Phonics application: transferring taught sound–spelling correspondences from isolation to connected text
-- Automaticity in word recognition [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Automaticity in word recognition [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Foundational accuracy before fluency and comprehension work
 - Phonics application: transferring taught letter–sound correspondences to connected text
 - Word-recognition automaticity and orthographic mapping
@@ -226,7 +226,7 @@ Decodable text reading places beginning readers in connected text deliberately r
 
 ## Design Implications
 
-Decodable text operationalizes the alphabetic principle: it forces learners to practice mapping letters to sounds in context, which builds the orthographic representations that underpin automatic word recognition [Automatic word recognition frees attentional resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Because every word is decodable with known patterns, the text stays within the learner's working-memory and knowledge limits, enacting [Cognitive Load Management](../principles/cognitive-load-management.md) at the text level [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S]. The approach presupposes systematic, explicit phonics instruction — decodable text is the practice vehicle, not the instructional core [Ehri et al. systematic phonics meta-analysis.](https://doi.org/10.1598/RRQ.36.3.1) [+S].
+Decodable text operationalizes the alphabetic principle: it forces learners to practice mapping letters to sounds in context, which builds the orthographic representations that underpin automatic word recognition [Automatic word recognition frees attentional resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Because every word is decodable with known patterns, the text stays within the learner's working-memory and knowledge limits, enacting [Cognitive Load Management](../principles/cognitive-load-management.md) at the text level [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S]. The approach presupposes systematic, explicit phonics instruction — decodable text is the practice vehicle, not the instructional core [Ehri et al. systematic phonics meta-analysis.](https://doi.org/10.1598/RRQ.36.3.1) [+S].
 
 ### Context
 #### Requirements
@@ -247,7 +247,7 @@ Decodable text operationalizes the alphabetic principle: it forces learners to p
 - Take-home decodables for re-reading, paired with in-class instruction
 
 ### Target Learners
-- Beginning readers (typically K–2) still building grapheme–phoneme mappings [Automatic word recognition frees attentional resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Beginning readers (typically K–2) still building grapheme–phoneme mappings [Automatic word recognition frees attentional resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Struggling readers and students with dyslexia, who need high-density practice on taught patterns and are most prone to compensatory guessing [~S]
 - Not appropriate for readers who have moved to automatic word recognition; they need authentic, rich text
 

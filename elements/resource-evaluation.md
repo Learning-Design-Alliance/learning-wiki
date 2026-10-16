@@ -85,9 +85,10 @@ Resource evaluation works when learners actively apply criteria to real, contras
 **CRAAP Test (Meriam Library, CSU Chico)** — Widely used currency/relevance/authority/accuracy/purpose checklist; useful as a starting scaffold but should be paired with lateral reading to avoid surface-cue errors.
 
 **Annotated bibliography assignments** — Learners summarize, evaluate, and justify the role of each source in an emerging argument, making evaluative reasoning assessable.
+- [Integrate ChatGPT into Quantum Theory (and similar STEM) courses as a supplement to traditional teaching, with students verifying chatbot answers collaboratively](../strategies/integrate-chatgpt-supplement-traditional-quantum-teaching.md)
 
 ## Key Sources
-- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Training college students to evaluate online sources. *Harvard Kennedy School Misinformation Review, 121*(11), 1.
+- Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40. [doi:10.1177/016146811912101102](https://doi.org/10.1177/016146811912101102)
 - Braasch, J. L. G., Bråten, I., Strømsø, H. I., Anmarkrud, Ø., & Ferguson, L. E. (2013). Promoting secondary school students' evaluation of source features of multiple documents. *Contemporary Educational Psychology, 38*(3), 180–195. [doi:10.1016/j.cedpsych.2013.03.003](https://doi.org/10.1016/j.cedpsych.2013.03.003)
 - Britt, M. A., & Aglinskas, C. (2002). Improving students' ability to identify and use source information. *Cognition and Instruction, 20*(4), 485–522. [doi:10.1207/S1532690XCI2004_2](https://doi.org/10.1207/S1532690XCI2004_2)
 - McGrew, S., Ortega, T., Breakstone, J., & Wineburg, S. (2017). The challenge that's bigger than fake news: Civic reasoning in a social media environment. *American Educator, 41*(3), 4–9.

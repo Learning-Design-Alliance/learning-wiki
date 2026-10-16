@@ -79,6 +79,9 @@ The WWC-computed domain average effect size for alphabetics was 0.22 across the 
 ## Discussion
 
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Corrective Reading showed no statistically significant effects on reading comprehension outcomes](corrective-reading-no-comprehension-effects.md) — related
 - [Effects of Corrective Reading varied by student subgroup: positive for students with high pretest vocabulary scores and for students not eligible for free/reduced lunch, but not for their counterparts](corrective-reading-subgroup-moderators.md) — related

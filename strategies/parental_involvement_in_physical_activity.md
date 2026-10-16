@@ -44,7 +44,7 @@ Family- and parent-focused components reliably strengthen school-based physical 
 ### Target Learning Goals
 - Increase daily physical activity and reduce sedentary time
 - Build durable habits and positive attitudes toward movement
-- Improve attention and readiness to learn, since classroom physical activity improves attention [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]
+- Improve attention and readiness to learn, since classroom physical activity improves attention [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
 
 ### Instructions
 1. Communicate the *why* and the *how*: share benefits information alongside concrete, ready-to-use family activity ideas ([Supportive Information](../elements/supportive-information.md)).

@@ -61,7 +61,7 @@ The article describes an evidence-review approach in which a research organizati
 - Characterizing academic progress students missed because of the pandemic
 
 ### Claims
-- [Pandemic Academic Miss Evidence Review Series](../claims/pandemic-academic-miss-evidence-review-series.md) [+M]
+- [Pandemic Academic Miss Evidence Review Series](../claims/pandemic-academic-miss-evidence-review-series.md) [+W]
 
 ## Related Theories
 - 

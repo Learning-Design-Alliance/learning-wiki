@@ -43,7 +43,7 @@ The paper reports, citing Shaw and Nave's experimental work, that 'AI assistance
 
 
 ## Related Claims
-- [Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong](ai-access-inflates-confidence.md) — related
+- [Access to AI advice roughly doubled reported confidence in answers in one experiment](ai-access-inflates-confidence.md) — related
 - [Monetary incentives for accuracy improve answer correctness specifically when AI advice is available, by reducing reliance on that advice](stakes-improve-accuracy-specifically-with-ai.md) — related
 - [Monetary stakes for accuracy act independently of AI availability on judgment suspension, with no significant AI × stakes interaction](stakes-independent-of-ai-on-suspension.md) — related
 - [Participants seek AI advice less frequently when accuracy carries monetary stakes](stakes-reduce-ai-advice-seeking.md) — related

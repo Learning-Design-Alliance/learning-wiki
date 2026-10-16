@@ -19,7 +19,7 @@ GoNoodle ([gonoodle.com](https://www.gonoodle.com)) is a free digital platform o
 
 ## Design Implications
 
-Brief bouts of moderate-to-vigorous physical activity acutely improve attention and executive function in children [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M], and single exercise sessions can transiently enhance memory and cognitive performance [Acute exercise timing affects memory.](../claims/acute-exercise-timing-memory.md) [~M]. GoNoodle operationalizes this by making movement breaks fast, low-preparation, and repeatable — the design goal is not fitness but a cognitive reset that restores attention for subsequent instruction.
+Brief bouts of moderate-to-vigorous physical activity acutely improve attention and executive function in children [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M], and single exercise sessions can transiently enhance memory and cognitive performance [Acute exercise timing affects memory.](../claims/acute-exercise-timing-memory.md) [~M]. GoNoodle operationalizes this by making movement breaks fast, low-preparation, and repeatable — the design goal is not fitness but a cognitive reset that restores attention for subsequent instruction.
 
 ### Context
 #### Requirements
@@ -40,7 +40,7 @@ Brief bouts of moderate-to-vigorous physical activity acutely improve attention 
 - **Product design**: the same pattern — short, guided, movement-based interludes — can be built into learning apps as attention resets between tasks
 
 ### Target Learners
-- Elementary-age children (K–5), who show the largest acute attention benefits from classroom activity breaks [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]
+- Elementary-age children (K–5), who show the largest acute attention benefits from classroom activity breaks [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
 - Learners with ADHD or high activity needs, for whom structured movement outlets support on-task behavior [+M]
 - Whole classes during transitions, where a shared routine also supports group cohesion and emotional regulation
 

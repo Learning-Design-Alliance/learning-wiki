@@ -19,7 +19,7 @@ This strategy integrates physical activity into homework routines rather than tr
 
 ## Design Implications
 
-Physical activity before or between cognitive tasks measurably improves attention and on-task behavior in children [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M], and acute exercise bouts produce short-term gains in executive function relevant to homework tasks such as planning and inhibiting distraction [+M]. However, the benefit is time-limited — movement bursts refresh attention for roughly 10–30 minutes afterward, so timing matters more than total volume [+M]. The strategy therefore works as a scheduling design problem: alternate focused work blocks with movement, rather than adding activity only at the end.
+Physical activity before or between cognitive tasks measurably improves attention and on-task behavior in children [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M], and acute exercise bouts produce short-term gains in executive function relevant to homework tasks such as planning and inhibiting distraction [+M]. However, the benefit is time-limited — movement bursts refresh attention for roughly 10–30 minutes afterward, so timing matters more than total volume [+M]. The strategy therefore works as a scheduling design problem: alternate focused work blocks with movement, rather than adding activity only at the end.
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Physical activity before or between cognitive tasks measurably improves attentio
 - **School-side coordination:** teachers assign homework with estimated durations and coordinate across subjects so total load permits after-school activity
 
 ### Target Learners
-- Children and young adolescents with developing attentional control, who show the largest attentional benefits from activity breaks [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]
+- Children and young adolescents with developing attentional control, who show the largest attentional benefits from activity breaks [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
 - Learners with ADHD or high activity needs, for whom scheduled movement functions as a legitimate self-regulation support rather than a disruption [+M]
 - Less critical for adult learners, whose attention spans tolerate longer blocks, though the same cycle applies during long study sessions [~W]
 

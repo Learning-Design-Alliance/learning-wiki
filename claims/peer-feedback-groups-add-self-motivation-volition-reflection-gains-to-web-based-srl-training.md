@@ -63,6 +63,7 @@ Same planned contrasts for Group TDP: "gains in goal-setting and elaboration rem
 
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+- [Metacognition](../learner-variables/metacognition.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Web Based Srl Training Subscale Interactions Planning Metacognition Volition](web-based-srl-training-subscale-interactions-planning-metacognition-volition.md)
@@ -76,3 +77,4 @@ Same planned contrasts for Group TDP: "gains in goal-setting and elaboration rem
 - [Peer feedback promoted critical reflection, collaboration and engagement, but students doubted its reliability because peers were statistics beginners](peer-feedback-soft-evaluative-judgement-statistics.md) — related
 - [The combined training-plus-diary condition improved specific SRL components: SRL knowledge, metacognitive strategies, cognitive strategies (elaboration, organisation, critical thinking), and resource management strategies (time-management, effort regulation)](combined-condition-improved-specific-srl-components.md) — related
 - [Combining a structured learning diary with instruction on self-regulated learning increased students' strategy use and self-efficacy](diary-plus-srl-instruction-raises-strategy-use-self-efficacy.md) — related
+- [Self-regulated problem-solving instruction produced immediate, marked increases in target behaviors for all four students, with a mean of 2.3 training sessions to reach 80% mastery](problem-solving-instruction-increases-target-behaviors-developmental-disabilities.md) — related

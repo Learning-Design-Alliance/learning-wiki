@@ -41,6 +41,11 @@ Meta-analytic subgroup analysis of expressive vocabulary among disadvantaged chi
 
 ## Discussion
 
+## Learner Variables
+- [Communication Skills](../learner-variables/communication-skills.md) — outcome: instruction changes it
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+- [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students](assistments-school-composition-moderators.md) — the general claim this finding bears on, with the studies behind it

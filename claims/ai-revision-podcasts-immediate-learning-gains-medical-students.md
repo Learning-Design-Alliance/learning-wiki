@@ -48,3 +48,4 @@ Paired within-participant t-tests among linked completers (Centre 1 n = 154, Cen
 - [Higher episode completion (>50%) is independently associated with greater learning gain, and the centre effect on gain is mediated by engagement](podcast-dose-response-learning-gain.md) — related
 - [Learners valued AI revision podcasts for portability and 'dead time' use but identified absent pauses and AI voice monotony as design barriers](podcast-design-barriers-pauses-voice-monotony.md) — related
 - [Topic-wise gains were heterogeneous, with some topics showing no meaningful change](podcast-topic-wise-gain-heterogeneity.md) — related
+- [For within-subjects designs, the author recommends reporting Cohen's d_rm or Cohen's d_av rather than Cohen's dz](recommend-drm-or-dav-for-within-designs.md) — related

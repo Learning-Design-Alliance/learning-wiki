@@ -46,6 +46,9 @@ Under [Commognition](../theories/commognition.md), the researcher acted as both 
 ## Discussion
 This is a theory-building empirical case study, not an intervention trial: there is no comparison condition, and the sample is small (n=4) even though the depth of documentation per case is high. The three-stage model and the bonding mechanism are well-corroborated *within this methodological frame* — consistent video evidence, an explicit coding scheme, cross-case replication of sequence — but would benefit from larger-scale testing, and the authors are candid that their task battery could not fully test every constituent claim (e.g., the small-set vs. large-set coalescence order). The instructional implication (embed counting in a purposeful "deed," not a decontextualized exercise) is drawn from a single case's accelerated trajectory and should be treated as a plausible hypothesis rather than an established design recommendation.
 
+## Learner Variables
+- [Number Sense](../learner-variables/number-sense.md) — outcome: instruction changes it
+
 ## Related Claims
 - (none yet linked)
 - [Number Board Games Improve Numerical Knowledge](number-board-games-improve-numerical-knowledge.md) — related

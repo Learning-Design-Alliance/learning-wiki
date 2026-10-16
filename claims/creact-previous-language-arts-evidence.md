@@ -43,6 +43,9 @@ The article reports, citing Sak & Oz (2009), a one group pretest-posttest study 
 ## Discussion
 
 
+## Learner Variables
+- [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Twenty-three 5th graders' creativity scores rise after nine CREACT drawing-arts lessons in a one-group pretest-posttest study without a control group (effect size .71)](creact-improves-creative-thinking-drawing-arts.md) — related
 - No significant interaction between gender and CREACT on pretest or posttest creative performance — related

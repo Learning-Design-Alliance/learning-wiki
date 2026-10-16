@@ -41,6 +41,9 @@ A study cited in the Promoting Understanding, Voice, and Responsibility section.
 
 ## Discussion
 
+## Learner Variables
+- [Identity](../learner-variables/identity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — the general claim this finding bears on, with the studies behind it

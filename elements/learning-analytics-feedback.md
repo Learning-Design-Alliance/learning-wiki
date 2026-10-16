@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 29 claims (11 for, 10 mixed, 8 against) · 25 studies (10 review, 6 associational, 4 theoretical, 3 qualitative, 2 design), `q1`–`q2` · 1 of 25 report an effect size · 28 claims rest on one study
+> **Evidence** · 29 claims (11 for, 10 mixed, 8 against) · 26 studies (10 review, 6 associational, 5 theoretical, 3 qualitative, 2 design), `q1`–`q2` · 1 of 26 report an effect size · 27 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available (Baker & Inventado, 2016). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -52,7 +52,7 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [Students showed only modest engagement with GenAI functionalities during in-semester use of the feedback tool](../claims/modest-in-semester-engagement-genai-feedback-tool.md) [~W] — attached 2026-10-11 from Jin et al. (2025), which proposed "GenAI-powered learning analytics feedback tool with ChatGPT explanation features and dashboard visualizations".
 - [AI in online learning offers personalization, predictive analytics, and potential reduction of instructor time on tasks](../claims/ai-online-learning-benefits-personalization-prediction-time.md) [+W]
 - [Reviewed studies indicate AI predictive analytics can project student progress, group learners by risk, and enable early intervention](../claims/ai-predictive-analytics-early-intervention.md) [+W]
-- [Course Signals at Purdue reported retention and DFW gains that were later questioned as a selection effect, cautioning that correlation is not causal evidence](../claims/course-signals-selection-effect-caution.md) [-W]
+- [Course Signals at Purdue reported retention and DFW gains that were later questioned as a selection effect, cautioning that correlation is not causal evidence](../claims/course-signals-confounding-number-of-classes.md) [-W]
 - [Using predictive analytics while ignoring teacher knowledge may misidentify students at risk of dropping out and negatively influence teacher views](../claims/ignoring-teacher-knowledge-misidentifies-risk-students.md) [-W]
 - [Predictive learning analytics can generate early warnings of dropout risk and trigger targeted interventions in adult education](../claims/predictive-analytics-early-warning-dropout-adults.md) [+W]
 - [Predictive models trained on one semester's offering of a course identified at-risk students in the subsequent semester with high prediction accuracy](../claims/cross-semester-at-risk-prediction-high-accuracy.md) [+W]

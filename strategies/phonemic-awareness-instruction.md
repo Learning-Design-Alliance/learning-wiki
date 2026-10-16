@@ -19,7 +19,7 @@ Phonemic awareness (PA) instruction teaches learners to attend to and manipulate
 
 ## Design Implications
 
-PA instruction is one of the most consistently supported early-literacy interventions: meta-analytic evidence shows reliable positive effects on reading and spelling outcomes [Phonemic awareness training improves reading and spelling outcomes.](../claims/phonemic-awareness-training-improves-reading.md) [+S]. Effects are strongest when instruction is explicit and systematic, focuses on a small set of skills (blending and segmenting above all), and is delivered in short sessions over several weeks rather than as isolated drill [Phonemic awareness training improves reading and spelling outcomes.](../claims/phonemic-awareness-training-improves-reading.md) [+M]. Because phonemes are abstract and invisible, instruction must make them salient — through articulatory cues (what the mouth does), manipulatives (counters, Elkonin boxes), and gestures — reducing the working-memory burden of holding sounds in mind [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
+PA instruction is one of the most consistently supported early-literacy interventions: meta-analytic evidence shows reliable positive effects on reading and spelling outcomes [Phonemic awareness training improves reading and spelling outcomes.](../claims/phonemic-awareness-training-improves-reading.md) [+M]. Effects are strongest when instruction is explicit and systematic, focuses on a small set of skills (blending and segmenting above all), and is delivered in short sessions over several weeks rather than as isolated drill [Phonemic awareness training improves reading and spelling outcomes.](../claims/phonemic-awareness-training-improves-reading.md) [+M]. Because phonemes are abstract and invisible, instruction must make them salient — through articulatory cues (what the mouth does), manipulatives (counters, Elkonin boxes), and gestures — reducing the working-memory burden of holding sounds in mind [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements
@@ -29,9 +29,9 @@ PA instruction is one of the most consistently supported early-literacy interven
 - Ongoing informal assessment to identify children who need more intensive, small-group work
 
 #### Constraints
-- Instruction that stays oral-only too long yields weaker transfer to reading than instruction that connects phonemes to letters early [Phonemic awareness training improves reading and spelling outcomes.](../claims/phonemic-awareness-training-improves-reading.md) [~S]
+- Instruction that stays oral-only too long yields weaker transfer to reading than instruction that connects phonemes to letters early [Phonemic awareness training improves reading and spelling outcomes.](../claims/phonemic-awareness-training-improves-reading.md) [~M]
 - Effects diminish sharply after first grade; PA instruction for older struggling readers works only when embedded in comprehensive remediation, not as a standalone [Phonemic awareness training improves reading and spelling outcomes.](../claims/phonemic-awareness-training-improves-reading.md) [-M]
-- Whole-word or meaning-focused approaches that omit explicit sound-level instruction leave many children without the alphabetic insight needed for decoding [Phonemic awareness training improves reading and spelling outcomes.](../claims/phonemic-awareness-training-improves-reading.md) [-S]
+- Whole-word or meaning-focused approaches that omit explicit sound-level instruction leave many children without the alphabetic insight needed for decoding [Phonemic awareness training improves reading and spelling outcomes.](../claims/phonemic-awareness-training-improves-reading.md) [-M]
 - Children with limited English vocabulary may segment sounds of words they do not know; vocabulary must be checked before sound work begins
 
 #### Implementation Variability
@@ -40,13 +40,13 @@ PA instruction is one of the most consistently supported early-literacy interven
 - **Media:** computer-assisted PA programs (e.g., [Waterford Early Learning](https://www.waterford.org)) can supplement but not replace teacher-led oral work
 
 ### Target Learners
-- Preschool, kindergarten, and first-grade children before or during early reading instruction [Phonemic awareness training improves reading and spelling outcomes.](../claims/phonemic-awareness-training-improves-reading.md) [+S]
+- Preschool, kindergarten, and first-grade children before or during early reading instruction [Phonemic awareness training improves reading and spelling outcomes.](../claims/phonemic-awareness-training-improves-reading.md) [+M]
 - At-risk learners — including children from low-literacy homes and those with dyslexia risk markers — who benefit most from intensive, small-group delivery [Phonemic awareness training improves reading and spelling outcomes.](../claims/phonemic-awareness-training-improves-reading.md) [+M]
 - Older struggling readers only as one component of a multi-component intervention, not as the primary focus [Phonemic awareness training improves reading and spelling outcomes.](../claims/phonemic-awareness-training-improves-reading.md) [-M]
 
 ### Target Learning Goals
 - Alphabetic insight: understanding that spoken words are sequences of phonemes
-- Decoding readiness: building the oral foundation that letter-sound mapping requires [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Decoding readiness: building the oral foundation that letter-sound mapping requires [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Spelling: segmentation skill directly supports encoding words sound-by-sound
 
 ### Instructions

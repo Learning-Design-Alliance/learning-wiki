@@ -42,6 +42,9 @@ Moderation analysis (Hayes Model 1, bootstrap confidence intervals) on the 147-s
 ## Discussion
 
 
+## Learner Variables
+- [Personality Traits](../learner-variables/personality-traits.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Emotional stability shows the strongest negative association with decline in students' subjective well-being under martial law](emotional-stability-strongest-protective-wellbeing-wartime.md) — related

@@ -42,6 +42,9 @@ A quasi-experimental classroom study in which 109 seventh-grade mathematics stud
 ## Discussion
 
 
+## Learner Variables
+- [Problem Solving](../learner-variables/problem-solving.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Differences between the facilitated complex problem solving and lecture-practice conditions did not reach significance on post-test outcomes](fcps-lp-difference-not-significant.md) — related
 - [Productive failure students demonstrated greater representation flexibility in working with graphical representations than students in the other two conditions](pf-greater-representation-flexibility-graphical.md) — related

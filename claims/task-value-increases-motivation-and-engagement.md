@@ -93,6 +93,7 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 
 ## Learner Variables
 - [Interest](../learner-variables/interest.md) — predictor: learners who differ on it differ in outcomes
+- [Achievement Emotions](../learner-variables/achievement-emotions.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — intrinsic value and autonomous motivation often co-occur: tasks learners find interesting are also those they pursue for internal reasons
@@ -156,3 +157,4 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 - [Personalization to student interests improved accuracy on hard knowledge components involving algebraic expression-writing within the tutoring unit](personalization-improves-hard-kc-accuracy-algebra-its.md) — a narrower finding that bears on this claim
 - [Chatbot integration in a smart classroom is expected by the authors to increase learner engagement and academic achievement](chatbot-engagement-achievement-expectation.md) — a narrower finding that bears on this claim
 - [Emotion affects motivation, which in turn affects mental effort investment during learning](emotion-affects-motivation-mental-effort.md) — a broader claim this one bears on
+- [Meaningful choice about learning tasks increases interest, but only under boundary conditions](meaningful-choice-increases-interest-limited.md) — related

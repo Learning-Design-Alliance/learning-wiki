@@ -44,6 +44,7 @@ Randomized controlled trial in one Oregon elementary school: 39 treatment studen
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+- [Reading Fluency](../learner-variables/reading-fluency.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Bullock (2005) RCT found no statistically significant Accelerated Reader effects on comprehension (STAR and 4J Vocabulary)](bullock-rct-null-comprehension-star-vocabulary.md) — related

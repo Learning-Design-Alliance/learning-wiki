@@ -44,6 +44,7 @@ Exploratory case study of expert use of a chat-based generative AI tool, examini
 
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+- [Metacognition](../learner-variables/metacognition.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Human teacher–GenAI collaboration in embodied mathematics learning calls for a complementary interaction model combining AI feedback with human metacognitive guidance](complementary-human-genai-interaction-model.md) — related

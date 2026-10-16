@@ -44,6 +44,7 @@ The brief states this as a documented research finding while reporting that raci
 
 ## Learner Variables
 - [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — moderator: an instructional effect differs by group
+- [Civic Mindedness](../learner-variables/civic-mindedness.md) — outcome: instruction changes it
 
 ## Related Claims
 - [Intergroup contact in diverse schools reduces prejudice and increases positive cross-racial relationships, alongside improved critical thinking and civic outcomes](diverse-schools-social-and-civic-benefits.md) — possibly the same claim (merge candidate)

@@ -44,6 +44,7 @@ Description of the evaluation design across the eight programs: the studies asse
 ## Learner Variables
 - [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
 - [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
+- [Identity](../learner-variables/identity.md) — outcome: instruction changes it
 
 ## Related Claims
 

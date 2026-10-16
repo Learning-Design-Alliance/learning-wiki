@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: faulkner-bond-2026
-    resource: "https://www.wested.org/resource/finding-the-sweet-spot-for-english-learner-reclassification/"
-    title: "Faulkner-Bond, M. (2026). Rethinking English Learner reclassification in California: What research says about the state's criteria. WestEd. https://www.wested.org/resource/finding-the-sweet-spot-for-english-learner-reclassification/"
+    resource: "https://eric.ed.gov/?id=ED681358"
+    title: "Faulkner-Bond, M. (2026). Rethinking English Learner reclassification in California: What research says about the state's criteria. WestEd. https://eric.ed.gov/?id=ED681358"
     author: Faulkner-Bond, M.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Faulkner-Bond 2026
 
-Faulkner-Bond, M. (2026). Rethinking English Learner reclassification in California: What research says about the state's criteria. WestEd. https://www.wested.org/resource/finding-the-sweet-spot-for-english-learner-reclassification/
+Faulkner-Bond, M. (2026). Rethinking English Learner reclassification in California: What research says about the state's criteria. WestEd. https://eric.ed.gov/?id=ED681358
 
 `q2 · i?` · `associational · r2`
 

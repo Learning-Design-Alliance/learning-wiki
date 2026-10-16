@@ -54,6 +54,10 @@ The discussion section synthesizes survey and focus group findings, reporting th
 ## Discussion
 
 
+## Learner Variables
+- [Civic Mindedness](../learner-variables/civic-mindedness.md) — outcome: instruction changes it
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Direct one-on-one interaction with community partners is reported to help students see community members as people rather than stereotypes](csl-one-on-one-partner-contact-disrupts-stereotypes.md) — related
 - [Service-learning students with a SLAM peer mentor scored higher on posttest civic action than non-mentored students, in a non-randomised comparison](peer-mentoring-increases-civic-action-service-learning.md) — a narrower finding that bears on this claim

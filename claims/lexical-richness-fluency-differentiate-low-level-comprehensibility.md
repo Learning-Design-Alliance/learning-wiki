@@ -42,6 +42,9 @@ Quantitative analysis of 40 native French learners' speech samples correlated wi
 ## Discussion
 
 
+## Learner Variables
+- [Oral Language](../learner-variables/oral-language.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Five speech measures clearly distinguish L2 learners at different comprehensibility levels after data triangulation](five-speech-measures-distinguish-comprehensibility-levels.md) — a broader claim this one bears on
 - [Grammatical and discourse-level measures differentiate between high-level L2 learners' comprehensibility](grammatical-discourse-measures-differentiate-high-level-comprehensibility.md) — related

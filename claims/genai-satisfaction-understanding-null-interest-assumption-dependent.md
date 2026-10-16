@@ -52,3 +52,4 @@ Course-evaluation DiD on median Likert scores for understanding, interest, and r
 - [GenAI availability produced no significant differential effect on final grades in more GenAI-susceptible courses relative to less susceptible ones](genai-availability-no-significant-grade-effect-susceptible-courses.md) — related
 - [The share of students earning at least an A rises in more susceptible courses after ChatGPT under the preferred bound, but the shift fails parallel trends and is read as descriptive, not causal](at-least-a-share-increase-unstable-genai.md) — related
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
+- [Solving a creative problem-solving task with ChatGPT is perceived as easier and requires less mental effort, but is not more interesting](chatgpt-lower-perceived-difficulty-effort-no-interest.md) — related

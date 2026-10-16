@@ -44,6 +44,7 @@ Same Shiraz questionnaire survey (n=154); Table 1 reports fear of being negative
 
 ## Learner Variables
 - [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
+- [Vocabulary](../learner-variables/vocabulary.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Fear of making mistakes is the most significant cause of foreign language speaking anxiety among Iranian EFL learners (81%)](fear-of-mistakes-top-speaking-anxiety-iranian-efl.md) — related

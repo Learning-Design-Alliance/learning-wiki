@@ -22,7 +22,7 @@ sources:
     title: "Moon, J. A. (2004). *A Handbook of Reflective and Experiential Learning*. RoutledgeFalmer"
     author: "Moon, J. A"
   - id: hattie-2007
-    resource: "https://doi.org/10.1111/j.1467-8535.2007.00759.x"
+    resource: "https://doi.org/10.3102/003465430298487"
     title: "Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112"
     author: "Hattie, J., & Timperley, H"
 ---
@@ -37,7 +37,7 @@ Reflection is the deliberate act of analyzing one's own experiences, actions, or
 
 ## Design Implications
 
-Reflection deepens learning by engaging learners in self-explanation and self-monitoring rather than leaving experience unprocessed [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Its effectiveness depends on structure: open-ended prompts like "reflect on your learning" produce vague responses, while prompts that direct attention to specific decisions, errors, and alternatives produce substantive analysis. Reflection is most powerful when paired with feedback, so that learners compare their self-analysis against external evidence [Hattie & Timperley, 2007](https://doi.org/10.1111/j.1467-8535.2007.00759.x) [+M].
+Reflection deepens learning by engaging learners in self-explanation and self-monitoring rather than leaving experience unprocessed [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Its effectiveness depends on structure: open-ended prompts like "reflect on your learning" produce vague responses, while prompts that direct attention to specific decisions, errors, and alternatives produce substantive analysis. Reflection is most powerful when paired with feedback, so that learners compare their self-analysis against external evidence [Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487) [+M].
 
 ### Context
 #### Requirements

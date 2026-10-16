@@ -40,7 +40,7 @@ The article's process "begins with statement by the instructor of a problem or g
 
 ### Claims
 - [Ci Cycle Metric Guided Solution Quarry Problem](../claims/ci-cycle-metric-guided-solution-quarry-problem.md) [+M]
-- [Idea Classification Generated New Ideas](../claims/idea-classification-generated-new-ideas.md) [+M]
+- [Idea Classification Generated New Ideas](../claims/idea-classification-generated-new-ideas.md) [+W]
 
 ## Related Patterns
 

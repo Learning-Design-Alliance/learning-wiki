@@ -61,6 +61,9 @@ The Results section reports conditional trust slopes from the need-for-cognition
 ## Discussion
 
 
+## Learner Variables
+- [Need for Cognition](../learner-variables/need-for-cognition.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [The association between early reliance and negative impact strengthens as evaluation literacy increases](early-reliance-evaluation-literacy-interaction.md) — related
 - [AI literacy negatively moderates the trust–appropriate reliance relationship, with the trust slope becoming more negative as AI literacy increases](ai-literacy-moderates-trust-reliance.md) — related

@@ -38,7 +38,7 @@ The article's scheme is organized as four design principles, each answering one 
 
 ### Claims
 - Four Binding Constraints Equitable Language Education [+M]
-- [Llmersion Feasibility Stack Pace Cost](../claims/llmersion-feasibility-stack-pace-cost.md) [+M]
+- [Llmersion Feasibility Stack Pace Cost](../claims/llmersion-feasibility-stack-pace-cost.md) [+W]
 
 ## Related Designs
 - 

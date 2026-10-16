@@ -37,7 +37,7 @@ The chapter's organizing argument is that prevailing research paradigms for unde
 
 ### Claims
 
-- [Mathematics Education Gatekeeper Marginalized Students](../claims/mathematics-education-gatekeeper-marginalized-students.md) [+M]
+- [Mathematics Education Gatekeeper Marginalized Students](../claims/mathematics-education-gatekeeper-marginalized-students.md) [+W]
 - [Educational psychology has long neglected marginalized learners and remains complicit in imposing normative standards and social stratification](../claims/ed-psych-neglect-marginalized-learners-normative-standards.md) [+W]
 
 ## Related Theories

@@ -42,6 +42,9 @@ CRDC analysis of suspension rates by race and ethnicity (Figure 1). The report s
 ## Discussion
 
 
+## Learner Variables
+- [Identity](../learner-variables/identity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Students with disabilities are suspended at more than twice the rate of students without disabilities, and Black students with disabilities face the highest risk at 19%](disability-suspension-disparity.md) — related
 - [At racially/ethnically diverse schools, African American boys are suspended at about 13 percentage points higher rates than other students in the same school](african-american-boys-suspended-13-points-higher.md) — related

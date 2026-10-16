@@ -42,6 +42,9 @@ The review reports Chandler's (2003) study of feedback about error in students' 
 
 ## Discussion
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — the general claim this finding bears on, with the studies behind it

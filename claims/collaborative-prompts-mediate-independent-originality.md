@@ -42,6 +42,9 @@ The article reports that collaborative prompt use "mediated their later advantag
 ## Discussion
 
 
+## Learner Variables
+- [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Free ChatGPT use boosts originality on the assisted creative task but the advantage disappears when assistance is removed](chatgpt-free-use-originality-gains-vanish-unassisted.md) — related
 - [The regulated 'think first, ChatGPT later' group outperformed both other groups in independent originality on the unassisted task despite no assisted-task advantage](regulated-ai-outperforms-independent-originality.md) — related

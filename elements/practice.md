@@ -13,7 +13,7 @@ generated:
 # Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 30 claims (17 for, 10 mixed, 3 against) · 39 studies (16 causal, 11 quant-synthesis, 6 review, 5 theoretical, 1 qualitative), `q1`–`q4` · 11 of 39 report an effect size · 16 claims rest on one study
+> **Evidence** · 29 claims (16 for, 10 mixed, 3 against) · 39 studies (16 causal, 11 quant-synthesis, 6 review, 5 theoretical, 1 qualitative), `q1`–`q4` · 11 of 39 report an effect size · 16 claims rest on one study
 
 ## Description
 Practice asks learners to actively apply new knowledge or skills through structured activities rather than passively receiving information. It converts exposure into fluency and retention by requiring learners to generate responses, solve problems, or perform procedures under conditions that gradually approximate the target performance.
@@ -42,7 +42,7 @@ Practice is one of the most consistently supported instructional elements: activ
 
 ### Target Learning Goals
 - Procedural fluency: automating steps so working memory is freed for higher-order reasoning
-- Retention: strengthening memory through retrieval rather than review [Retrieval practice improves long-term retention.](../claims/worked-examples-with-practice-improve-transfer.md) [+S]
+- Retention: strengthening memory through retrieval rather than review [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
 - Transfer: whole-task practice under varied conditions supports application to new problems [Whole-task performance improves transfer.](../claims/whole-task-performance-improves-transfer.md) [+M]
 
 ### Affordances

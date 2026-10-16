@@ -92,6 +92,9 @@ This National Reading Panel meta-analysis pooled 52 peer-reviewed studies (96 tr
 
 **Open questions.** The meta-analysis recorded above concerns phonemic awareness, the phoneme-level part of phonological awareness; training in larger units such as rhyme and syllables is not separately estimated here.
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Automatic word recognition frees resources for comprehension.](automatic-word-recognition-frees-resources-for-comprehension.md) — the downstream mechanism through which phonemic awareness is expected to benefit reading

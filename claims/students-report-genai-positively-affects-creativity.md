@@ -42,6 +42,9 @@ Semi-structured surveys in the third semester (Case-III) with third-year archite
 ## Discussion
 
 
+## Learner Variables
+- [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
+
 ## Related Claims
 - A bespoke GenAI image workflow most robustly expanded architecture students' creative search space, while less uniformly supporting refinement of final design decisions — related
 - [After workshops, students' active GenAI use concentrated in uncertain design phases and decreased or disappeared in more certain phases](genai-use-concentrates-in-uncertain-design-phases.md) — related

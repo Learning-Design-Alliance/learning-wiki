@@ -63,6 +63,7 @@ The brief reports, citing Schildkraut et al. (2020), that drills and training "i
 
 ## Learner Variables
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+- [Safety](../learner-variables/safety.md) — outcome: instruction changes it
 
 ## Related Claims
 - [95 percent of U.S. schools conduct lockdown drills annually as part of emergency response plans](95-percent-us-schools-conduct-lockdown-drills.md) — related

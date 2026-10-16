@@ -50,3 +50,5 @@ Illustrative hypothetical example of 100 examinees with 95% observed agreement a
 - [DC estimates tend to be lowest when the cut score is set at the peak of the score distribution, where inconsistent decisions are most likely](dc-lowest-at-score-distribution-peak.md) — related
 - The review's evidence base comprises 42 peer-reviewed publications selected from 922 records with high inter-rater agreement (Cohen's kappa = 0.88) — related
 - The interview coding achieved high inter-rater reliability, with Cohen's Kappa of 0.82 between independent coders — related
+- [Kappa cannot reach 1.000 when coders' marginal distributions differ, being bounded by the margins even at maximal agreement](kappa-ceiling-unequal-marginals.md) — related
+- [Cohen's kappa exceeds Scott's pi when coders show unequal marginal category preferences, counting those disagreements as agreement](kappa-exceeds-pi-unequal-margins.md) — related

@@ -22,7 +22,7 @@ sources:
 # Early Education Essentials
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 13 claims (13 for) · 5 studies (3 associational, 1 qualitative, 1 design), `q2` · 0 of 5 report an effect size · 12 claims rest on one study
+> **Evidence** · 13 claims (13 for) · 7 studies (4 associational, 1 causal, 1 qualitative, 1 design), `q2` · 0 of 7 report an effect size · 12 claims rest on one study
 
 ## Description
 Early Ed Essentials is a teacher- and parent-survey assessment system developed by the Ounce of Prevention Fund and the University of Chicago Consortium to measure organizational supports in school- and center-based early-childhood education settings.

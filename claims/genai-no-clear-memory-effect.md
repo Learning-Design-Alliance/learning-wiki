@@ -47,3 +47,4 @@ Preregistered 2×2 ANOVA on the 10-item Stage 3 memory test in the lab experimen
 - [Prior genAI use shows some evidence of poorer subsequent unaided reasoning, confined to the no-incentive condition](prior-genai-use-poorer-unaided-reasoning.md) — related
 - [GenAI use weakens effort adjustment to incentives on subsequent unaided reasoning](genai-weakens-effort-adjustment-to-incentives.md) — related
 - [AI access raises unaided essay quality in both sessions, while AI-generated text detectable in Session One essays disappears by Session Two](genai-raises-unaided-essay-quality.md) — related
+- [Counterbalancing condition did not affect map accuracy and did not interact with test condition](counterbalancing-no-effect-map-accuracy.md) — related

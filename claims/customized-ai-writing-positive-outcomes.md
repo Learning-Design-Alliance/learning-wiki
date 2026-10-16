@@ -42,6 +42,9 @@ Systematic review synthesis of reported outcomes across the 23 studies (RQ4, Fig
 ## Discussion
 
 
+## Learner Variables
+- [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — related
 - [AWE tools such as Grammarly, Quillbot and DeepL Write significantly improve writing precision, fluency and grammatical proficiency through immediate and customized feedback](awe-improve-precision-fluency-grammatical-proficiency.md) — related

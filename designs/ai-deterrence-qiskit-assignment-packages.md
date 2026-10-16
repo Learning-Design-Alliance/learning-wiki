@@ -40,7 +40,7 @@ Three complete take-home homework packages for an undergraduate quantum software
 
 ### Claims
 - [Chatgpt Completes All 150 Qiskit Homework Sessions](../claims/chatgpt-completes-all-150-qiskit-homework-sessions.md) [-M]
-- [Why Qiskit Deterrence Layers Failed](../claims/why-qiskit-deterrence-layers-failed.md) [+M]
+- [Why Qiskit Deterrence Layers Failed](../claims/why-qiskit-deterrence-layers-failed.md) [+W]
 
 ## Related Designs
 - 

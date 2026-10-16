@@ -41,6 +41,10 @@ A narrative research-synthesis statement in the Test Design chapter, attributed 
 
 ## Discussion
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — predictor: learners who differ on it differ in outcomes
+- [Reading Fluency](../learner-variables/reading-fluency.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — the general claim this finding bears on, with the studies behind it

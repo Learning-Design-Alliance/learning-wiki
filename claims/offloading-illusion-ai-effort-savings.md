@@ -43,12 +43,11 @@ Study 2 completion/prediction samples measured subjective mental effort with the
 
 ## Related Claims
 
-- [Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong](ai-access-inflates-confidence.md) — the general claim this finding bears on, with the studies behind it
+- [Access to AI advice roughly doubled reported confidence in answers in one experiment](ai-access-inflates-confidence.md) — the general claim this finding bears on, with the studies behind it
 - [In a one-year PBL deployment, the AI-assisted pipeline was associated with instructor preparation time falling from an average of eight hours to two hours per instruction (an estimated 75% reduction).](ai-pipeline-75-percent-prep-time-reduction.md) — related
 - [Students expect AI to help their test scores, but control students overestimate the effect relative to the experimental estimate](genai-student-beliefs-overestimate-control.md) — related
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
-- [People overestimate how much time AI assistance saves (speedup illusion), driven by miscalibration about AI-assisted completion time while independent completion time is well calibrated](speedup-illusion-ai-time-savings.md) — related
+- [People overestimate how much time AI assistance saves (speedup illusion), driven by miscalibration about AI-assisted completion time while independent completion time is well calibrated](speedup-illusion-ai-assisted-time-underestimation.md) — related
 - [Prompting is a major source of AI-assisted cognitive effort: copying prompts reduces effort but not time, and verbose model responses can make AI-assisted completion slower than predicted](prompting-effort-and-verbose-response-costs.md) — related
-- [People significantly underestimate AI-assisted completion times even though actual AI-assisted and independent completion times do not differ (the speedup illusion)](speedup-illusion-ai-assisted-time-underestimation.md) — related
 - [People are well-calibrated about their own independent completion times](accurate-independent-completion-time-predictions.md) — related
 - [Educators benefit from AI chatbots through time-saving administrative assistance and improved pedagogy](chatbot-educator-time-saving-pedagogy.md) — reports the opposite

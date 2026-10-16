@@ -38,7 +38,7 @@ The article's methodological framework: using multi-year panel data so that "eac
 ### Claims
 
 - [Mastery Platform Longitudinal Positive Effects](../claims/mastery-platform-longitudinal-positive-effects.md) [+M]
-- [Time Varying Confounds Limit Platform Estimates](../claims/time-varying-confounds-limit-platform-estimates.md) [~M]
+- [Time Varying Confounds Limit Platform Estimates](../claims/time-varying-confounds-limit-platform-estimates.md) [~W]
 - [Prior cross-sectional between-group research on the platform found a positive usage–test-score relationship but could not rule out unobserved confounding](../claims/prior-cross-sectional-platform-usage-achievement-link.md) [~W]
 - [Platform treatment effects did not vary across demographic subgroups, suggesting equal benefit regardless of racial background](../claims/mastery-platform-effects-uniform-across-demographics.md) [~W]
 

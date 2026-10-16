@@ -26,7 +26,7 @@ sources:
 # Model Revision
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 10 studies (3 causal, 3 quant-synthesis, 2 review, 1 associational, 1 design), `q2`–`q4` · 1 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies (3 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 1 of 9 report an effect size
 
 ## Description
 Model revision asks learners to articulate a working conceptual model, confront it with evidence and feedback, and deliberately revise it. The element treats the learner's initial understanding as a draft to be evaluated and improved rather than a fixed starting point, making the *process* of conceptual change visible and iterative.
@@ -66,7 +66,6 @@ Model revision supports conceptual change by forcing learners to compare their p
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Dialogue evidence shows coach feedback induces genuine conceptual change, shifting the agent from misconception to conceptually correct explanation rather than superficial answer alignment](../claims/dialogue-feedback-induces-conceptual-change.md) [+W]
 
 ## The evidence by question
 - *Does instruction that names and confronts a science misconception change learners' conceptions more than standard exposition?* [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](../claims/misconceptions-interfere-with-new-learning.md) [+S]

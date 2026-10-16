@@ -42,6 +42,9 @@ Findings section reports the numeracy outcome from the standards/skills aligned 
 ## Discussion
 
 
+## Learner Variables
+- [Number Sense](../learner-variables/number-sense.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Students in the TEC Summer Learning Program showed a 41% pre-to-post gain in mathematics vocabulary](tec-summer-41-percent-math-vocabulary-gain.md) — related
 - [Vista students using Mathspace showed statistically significant math gains over the summer, while benchmark scores were not significantly different in the other two districts](vista-mathspace-significant-summer-math-gains.md) — related

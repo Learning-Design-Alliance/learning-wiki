@@ -37,7 +37,7 @@ The architecture places a hidden, artifact-grounded diagnosis inside an explicit
 - Conceptual database design: translating requirements into entities, attributes, relationships, and semantic constraints in ER diagrams
 
 ### Claims
-- [Staged Disclosure Diagnostic Error Patterns](../claims/staged-disclosure-diagnostic-error-patterns.md) [~M]
+- [Staged Disclosure Diagnostic Error Patterns](../claims/staged-disclosure-diagnostic-error-patterns.md) [~W]
 
 ## Related Designs
 - 

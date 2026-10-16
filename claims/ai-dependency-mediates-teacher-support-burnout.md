@@ -42,6 +42,9 @@ PROCESS Model 4 mediation with 5,000 bootstrap resamples in the same survey. The
 ## Discussion
 
 
+## Learner Variables
+- [Social Supports](../learner-variables/social-supports.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [AI dependency mediates the relationship between academic self-efficacy and learning burnout](ai-dependency-mediates-self-efficacy-burnout.md) — related
 - [Trust in AI partially mediates the associations of both perceived AI empowerment and perceived AI threat with GenAI dependence](trust-in-ai-partially-mediates-appraisals-genai-dependence.md) — related

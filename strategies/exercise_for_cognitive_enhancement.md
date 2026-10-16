@@ -19,7 +19,7 @@ Regular physical exercise improves cognitive function through physiological mech
 
 ## Design Implications
 
-Acute exercise has a reliable but time-dependent effect on cognition: moderate-intensity aerobic activity before learning improves subsequent attention and memory, while very high intensity immediately before encoding can impair it [Acute exercise effects on memory depend on timing and intensity.](../claims/acute-exercise-timing-memory.md) [~M]. Regular activity produces larger and more durable gains in executive function and hippocampal-dependent memory than single sessions [Exercise increases hippocampal volume and improves memory in older adults.](../claims/exercise-increases-hippocampal-volume.md) [+S]. In classrooms, brief physical activity breaks improve on-task attention, especially for younger learners [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M].
+Acute exercise has a reliable but time-dependent effect on cognition: moderate-intensity aerobic activity before learning improves subsequent attention and memory, while very high intensity immediately before encoding can impair it [Acute exercise effects on memory depend on timing and intensity.](../claims/acute-exercise-timing-memory.md) [~M]. Regular activity produces larger and more durable gains in executive function and hippocampal-dependent memory than single sessions [Exercise increases hippocampal volume and improves memory in older adults.](../claims/exercise-increases-hippocampal-volume.md) [+S]. In classrooms, brief physical activity breaks improve on-task attention, especially for younger learners [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M].
 
 ### Context
 #### Requirements
@@ -35,24 +35,24 @@ Acute exercise has a reliable but time-dependent effect on cognition: moderate-i
 
 #### Implementation Variability
 - **Single pre-learning bout**: 10–20 minutes of moderate aerobic activity before a lesson to prime attention
-- **In-class activity breaks**: 5-minute movement breaks during long sessions to restore on-task attention [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]
+- **In-class activity breaks**: 5-minute movement breaks during long sessions to restore on-task attention [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
 - **Post-learning exercise**: light activity shortly after encoding can aid consolidation without interfering with it [Acute exercise effects on memory depend on timing and intensity.](../claims/acute-exercise-timing-memory.md) [+W]
 - **Standing or walking formats**: walking discussions, standing desks, and [Act It Out](../elements/act-it-out.md) integrate movement with content rather than separating them
 - **Long-term programs**: school- or institution-based fitness programs targeting executive function over months
 
 ### Target Learners
-- Children and adolescents, whose attention and self-regulation benefit most from classroom activity breaks [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]
+- Children and adolescents, whose attention and self-regulation benefit most from classroom activity breaks [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
 - Older adults, for whom aerobic exercise slows age-related hippocampal atrophy and preserves memory [Exercise increases hippocampal volume and improves memory in older adults.](../claims/exercise-increases-hippocampal-volume.md) [+S]
 - Learners with ADHD and those with low baseline attentional control, who show disproportionate acute benefits [Acute exercise effects on memory depend on timing and intensity.](../claims/acute-exercise-timing-memory.md) [+W]
 
 ### Target Learning Goals
-- Attention and on-task behavior during instruction [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]
+- Attention and on-task behavior during instruction [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
 - Executive functions (inhibitory control, working memory, cognitive flexibility) that underlie self-regulated learning
 - Long-term retention of hippocampal-dependent material [Exercise increases hippocampal volume and improves memory in older adults.](../claims/exercise-increases-hippocampal-volume.md) [+S]
 
 ### Instructions
 1. Schedule a 10–20 minute moderate-intensity aerobic activity before cognitively demanding instruction; avoid vigorous exercise immediately before encoding [Acute exercise effects on memory depend on timing and intensity.](../claims/acute-exercise-timing-memory.md) [~M]
-2. Insert brief movement breaks every 25–40 minutes during extended sessions [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]
+2. Insert brief movement breaks every 25–40 minutes during extended sessions [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
 3. Where possible, integrate movement with content through role-play or enactment ([Act It Out](../elements/act-it-out.md)) so activity reinforces rather than displaces learning time
 4. Support learners in building a regular routine (3–4 × 30 min/week) as the foundation for durable cognitive benefits [Exercise increases hippocampal volume and improves memory in older adults.](../claims/exercise-increases-hippocampal-volume.md) [+S]
 5. Pair exercise scheduling with [Distributed Practice](../strategies/distributed-practice.md) — spacing review sessions across days lets post-exercise consolidation windows do their work
@@ -63,7 +63,7 @@ Acute exercise has a reliable but time-dependent effect on cognition: moderate-i
 - [Brain Breaks](brain-breaks.md) — short in-class movement breaks, the classroom-scale version of this strategy
 
 ## Examples
-- **Classroom physical activity programs** (e.g., [GoNoodle](https://www.gonoodle.com)) deliver 3–5 minute movement breaks between lessons; studies of such breaks show improved on-task behavior and attention [Classroom physical activity improves attention.](../claims/classroom-physical-activity-improves-attention.md) [+M]
+- **Classroom physical activity programs** (e.g., [GoNoodle](https://www.gonoodle.com)) deliver 3–5 minute movement breaks between lessons; studies of such breaks show improved on-task behavior and attention [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+M]
 - **Erickson et al. (2011)**: one year of aerobic walking increased hippocampal volume ~2% in older adults and improved spatial memory, versus no change in a stretching control group [Exercise increases hippocampal volume and improves memory in older adults.](../claims/exercise-increases-hippocampal-volume.md) [+S]
 - **Pre-lesson walks**: having students walk briskly for 10–15 minutes before reading or mathematics instruction to raise arousal and attention ahead of encoding
 

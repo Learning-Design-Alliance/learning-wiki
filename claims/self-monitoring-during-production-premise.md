@@ -44,6 +44,7 @@ Theoretical argument stated in the article's abstract; no empirical study is rep
 
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+- [Metacognition](../learner-variables/metacognition.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Self-monitoring of work quality requires three student capacities: appreciation of high quality, evaluative skill, and a store of modification tactics](three-capacities-for-evaluative-self-monitoring.md) — related

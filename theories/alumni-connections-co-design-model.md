@@ -36,7 +36,7 @@ The guide's organizing framework is a co-design model in which cross-functional 
 - Gathering alumni feedback on postsecondary preparedness and program impact to improve educational programming and equity
 
 ### Claims
-- [Co Designed Alumni Surveys Hunches To Evidence](../claims/co-designed-alumni-surveys-hunches-to-evidence.md) [+M]
+- [Co Designed Alumni Surveys Hunches To Evidence](../claims/co-designed-alumni-surveys-hunches-to-evidence.md) [+W]
 
 ## Related Theories
 - 

@@ -42,6 +42,9 @@ The brief asserts, citing prior work (endnote 2), that educator wellbeing contri
 ## Discussion
 
 
+## Learner Variables
+- [Social Supports](../learner-variables/social-supports.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Mindfulness and stress management skills may produce positive effects on educator sleep, self-regulation, self-compassion, and job satisfaction](mindfulness-positive-effects-educator-wellbeing.md) — related
 - [Using co-regulation strategies helped facilitators and youth build warm, trusting relationships](co-regulation-builds-warm-trusting-relationships.md) — related

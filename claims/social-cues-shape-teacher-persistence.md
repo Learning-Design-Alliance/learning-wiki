@@ -48,3 +48,4 @@ Narrative review attribution: Payne reports, citing Ron Ferguson's 2003 review o
 ## Related Claims
 - [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](race-gender-grade-differences-persist.md) — related
 - [Among students with the same high grades, ACT scores differ substantially by race/ethnicity, a pattern the report flags as possible racial bias](act-score-gaps-by-race-at-same-gpa.md) — related
+- [Persistence behaviors in the face of challenge differed significantly by age and gender](persistence-differs-by-age-and-gender.md) — related

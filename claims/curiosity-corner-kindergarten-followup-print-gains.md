@@ -42,6 +42,9 @@ Kindergarten follow-up from the PCER Consortium (2008) randomized controlled tri
 ## Discussion
 
 
+## Learner Variables
+- [Alphabet Knowledge and Print Awareness](../learner-variables/alphabet-knowledge-and-print-awareness.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Curiosity Corner shows no discernible effects on preschool print knowledge in the PCER randomized trial](curiosity-corner-no-discernible-print-knowledge-effects.md) — related
 - [Curiosity Corner shows no discernible effects on preschool math outcomes in the PCER randomized trial](curiosity-corner-no-discernible-math-effects.md) — related

@@ -35,7 +35,7 @@ Computational modeling tools such as agent-based modeling (ABM) environments str
 - Building mechanistic, agent-level explanations of a phenomenon (e.g., particle diffusion) using a computational modeling tool, rather than accepting the tool's outputs without connecting them to one's own reasoning
 
 ## Claims
-- [External empirical evidence can refute a computational model of particle interactions when the model's own simulation cannot](../claims/external-evidence-can-refute-computational-models-of-particle-interactions.md) [+M]
+- [External empirical evidence can refute a computational model of particle interactions when the model's own simulation cannot](../claims/external-evidence-can-refute-computational-models-of-particle-interactions.md) [+W]
 
 ## Related Theories
 - (none yet linked)

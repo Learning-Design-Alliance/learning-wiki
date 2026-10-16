@@ -39,8 +39,8 @@ Dewey's moral deliberation, introduced in 1932, is the article's central explana
 
 ### Claims
 
-- [Dewey Rejects Fixed Moral Stages](../claims/dewey-rejects-fixed-moral-stages.md) [+M]
-- [Moral Knowledge Product Of Moral Inquiry](../claims/moral-knowledge-product-of-moral-inquiry.md) [+M]
+- [Dewey Rejects Fixed Moral Stages](../claims/dewey-rejects-fixed-moral-stages.md) [+W]
+- [Moral Knowledge Product Of Moral Inquiry](../claims/moral-knowledge-product-of-moral-inquiry.md) [+W]
 - [Character education is criticized for didacticism and de-emphasizing reflection and moral judgment, and Dewey's deliberation is proposed as a bridge between it and Kohlberg's approach](../claims/character-education-didacticism-critique-dewey-bridge.md) [+W]
 
 ## Related Theories

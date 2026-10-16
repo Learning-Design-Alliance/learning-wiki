@@ -43,6 +43,9 @@ The review reports, citing Butkowsky and Willows (1980), an experimental study m
 ## Discussion
 
 
+## Learner Variables
+- [Academic Self-Concept](../learner-variables/academic-self-concept.md) — outcome: instruction changes it
+
 ## Related Claims
 - Attributing repeated failure to lack of ability fosters learned helplessness, while external, unstable, specific attributions are adaptive — related
 - Outcome-consistent task performances are attributed to stable factors and outcome-conflicting performances to unstable factors — related

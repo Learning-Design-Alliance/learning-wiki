@@ -42,6 +42,9 @@ Simple-slope analysis at ±1 SD of reflective thinking in the moderated mediatio
 ## Discussion
 
 
+## Learner Variables
+- [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 - [GenAI use is positively associated with university students' self-reported critical analytical skills (total effect)](genai-use-positive-association-critical-thinking-total-effect.md) — related
 - [The indirect effect of GenAI use on critical thinking via feedback literacy is conditional on reflective thinking, strengthening as reflectivity rises](moderated-mediation-indirect-effect-conditional-reflective-thinking.md) — related

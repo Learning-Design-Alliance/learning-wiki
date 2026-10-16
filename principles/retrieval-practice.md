@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 58 claims (28 for, 28 mixed, 1 against, 1 unmarked) · 30 studies (9 quant-synthesis, 8 causal, 7 review, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 11 of 30 report an effect size · 51 claims rest on one study
+> **Evidence** · 62 claims (32 for, 28 mixed, 1 against, 1 unmarked) · 32 studies (10 causal, 9 quant-synthesis, 7 review, 2 associational, 2 qualitative, 2 theoretical), `q1`–`q4` · 11 of 32 report an effect size · 55 claims rest on one study
 
 ## Conditional relationship
 
@@ -97,6 +97,10 @@ Each question below links a general claim that gathers the studies behind it int
 None at present: every claim listed here was read against the model on 2026-10-15 and now sits in the situation table or under Evidence and qualifications.
 - [Feedback on a multiple-choice test sharply reduces lure intrusions on a later cued recall test, with immediate and delayed schedules equally effective](../claims/feedback-reduces-lure-intrusions.md) [+W] — attached 2026-10-15 from Andrew C. Butler et al. (2008), which proposed "Provide feedback on multiple-choice tests to boost retention and prevent acquisition of misinformation"; tests this page's relationship.
 - [Taking a multiple-choice test produces a testing effect on later cued recall, but testing without study or feedback can be net harmful](../claims/mc-testing-effect-and-net-harm-boundary.md) [+W] — attached 2026-10-15 from Andrew C. Butler et al. (2008), which proposed "Provide feedback on multiple-choice tests to boost retention and prevent acquisition of misinformation"; tests this page's relationship.
+- [Retrieval before re-presentation (TTST) improves final cued recall of nonsense-syllable/number pairs relative to pure study (Experiment 1)](../claims/ttst-beats-pure-st-nonsense-pairs.md) [+W] — attached 2026-10-16 from Carrier et al. (1992), which proposed "After some learning is achieved, learners should be given forced retrievals without the target material present"; tests this page's relationship.
+- [The TTST advantage persists when no further presentations follow the retrieval manipulation, ruling out encoding-effort strategies (Experiment 3)](../claims/ttst-advantage-not-encoding-strategy.md) [+W] — attached 2026-10-16 from Carrier et al. (1992), which proposed "After some learning is achieved, learners should be given forced retrievals without the target material present"; tests this page's relationship.
+- [The TTST advantage persists in a pure-list design, ruling out differential rehearsal (Experiment 4)](../claims/ttst-advantage-not-differential-rehearsal.md) [+W] — attached 2026-10-16 from Carrier et al. (1992), which proposed "After some learning is achieved, learners should be given forced retrievals without the target material present"; tests this page's relationship.
+- [Permitting feedback skipping increases the number of retrieval attempts completed within a fixed learning time](../claims/skipping-permits-more-retrieval-attempts.md) [+W] — attached 2026-10-16 from Matthew Jensen Hays et al. (2010), which proposed "When study time is fixed, skip feedback after successful retrieval in favor of additional retrieval attempts".
 
 ## Objective and learner-valued goal
 

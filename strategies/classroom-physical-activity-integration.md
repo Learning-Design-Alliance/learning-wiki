@@ -19,7 +19,7 @@ Classroom physical activity integration embeds short bouts of movement — movem
 
 ## Design Implications
 
-Short activity bouts acutely improve on-task attention and classroom behavior, particularly for younger students [Physical activity breaks improve attention and on-task behavior.](../claims/classroom-physical-activity-improves-attention.md) [+S]. Effects on standardized achievement are smaller and depend on whether the activity is integrated with academic content [~M]. Movement that is *meaningfully tied to content* (e.g., acting out a process, gesturing a concept) outperforms generic breaks for learning outcomes, because it adds [Dual Coding](../theories/dual-coding-theory.md) and embodied encoding rather than only restoring attention [~M].
+Short activity bouts acutely improve on-task attention and classroom behavior, particularly for younger students [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+S]. Effects on standardized achievement are smaller and depend on whether the activity is integrated with academic content [~M]. Movement that is *meaningfully tied to content* (e.g., acting out a process, gesturing a concept) outperforms generic breaks for learning outcomes, because it adds [Dual Coding](../theories/dual-coding-theory.md) and embodied encoding rather than only restoring attention [~M].
 
 ### Context
 #### Requirements
@@ -40,7 +40,7 @@ Short activity bouts acutely improve on-task attention and classroom behavior, p
 - **Kinesthetic response routines**: standing votes, gesture-based answering, acting out vocabulary or processes
 
 ### Target Learners
-- Elementary students, who show the most consistent attention benefits [Physical activity breaks improve attention and on-task behavior.](../claims/classroom-physical-activity-improves-attention.md) [+S]
+- Elementary students, who show the most consistent attention benefits [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+S]
 - Students with ADHD or high activity needs, for whom movement opportunities reduce off-task behavior [~M]
 - Adolescents benefit from breaks but need less frequent, more structured bouts than young children
 

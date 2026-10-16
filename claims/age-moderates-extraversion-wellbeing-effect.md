@@ -44,6 +44,7 @@ Additional moderation analysis treating age as covariate in the 147-student samp
 
 ## Learner Variables
 - [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
+- [Personality Traits](../learner-variables/personality-traits.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Extraversion correlates negatively with well-being decline in wartime students, though less strongly than emotional stability](extraversion-protective-wellbeing-wartime.md) — related

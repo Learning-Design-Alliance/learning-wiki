@@ -43,6 +43,9 @@ Meta-analytic comparison of program types across the 165 studies. The synthesis 
 ## Discussion
 
 
+## Learner Variables
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — related

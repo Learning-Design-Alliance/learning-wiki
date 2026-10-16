@@ -42,6 +42,9 @@ Interview-based findings across the three cases: Jacki adjourned unfruitful meet
 ## Discussion
 
 
+## Learner Variables
+- [Metacognition](../learner-variables/metacognition.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [The professional learning community is an environment in which teacher metacognition can be nurtured](plc-nurtures-teacher-metacognition.md) — related
 - [Teacher metacognition in PLCs appears at both a lower level (reflecting on what one does) and a higher level (reflecting on how one reflects)](plc-metacognition-lower-and-higher-levels.md) — related

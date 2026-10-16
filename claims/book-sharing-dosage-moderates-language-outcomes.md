@@ -43,6 +43,8 @@ Pre-specified subgroup meta-regression on expressive and receptive language outc
 
 ## Learner Variables
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — moderator: an instructional effect differs with it
+- [Communication Skills](../learner-variables/communication-skills.md) — outcome: instruction changes it
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
 
 ## Related Claims
 

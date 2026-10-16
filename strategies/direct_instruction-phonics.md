@@ -19,7 +19,7 @@ Direct instruction phonics teaches letter–sound correspondences explicitly, in
 
 ## Design Implications
 
-Explicit, systematic phonics produces stronger word-reading and decoding outcomes than incidental or non-systematic approaches, with the largest advantages for generalization to untaught words [Systematic phonics instruction outperforms whole-word and non-phonics approaches for decoding generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Automatic letter–sound knowledge and blending matter because slow, effortful decoding consumes working memory that would otherwise support comprehension [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Lessons should manage load by introducing one or two new correspondences at a time with cumulative review of prior ones [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
+Explicit, systematic phonics produces stronger word-reading and decoding outcomes than incidental or non-systematic approaches, with the largest advantages for generalization to untaught words [Systematic phonics instruction outperforms whole-word and non-phonics approaches for decoding generalization.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S]. Automatic letter–sound knowledge and blending matter because slow, effortful decoding consumes working memory that would otherwise support comprehension [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Lessons should manage load by introducing one or two new correspondences at a time with cumulative review of prior ones [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M].
 
 ### Context
 #### Requirements
@@ -49,7 +49,7 @@ Explicit, systematic phonics produces stronger word-reading and decoding outcome
 ### Target Learning Goals
 - Alphabetic principle: understanding that letters map to sounds in systematic ways
 - Decoding accuracy and automaticity of taught letter–sound patterns
-- Word recognition fluency that supports comprehension [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Word recognition fluency that supports comprehension [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Encoding (spelling) of taught patterns through dictation practice
 
 ### Instructions

@@ -65,3 +65,4 @@ The authors' inference from the attrition analysis: since lower-achieving and mi
 - [The dashboard's cross-sectional view compares same-grade students across terms using the full sample of testers, but attrition is not random](cross-sectional-view-full-sample-attrition-caveat.md) — related
 - [Teacher attrition is approximately 55% higher in high-poverty schools than in lower-poverty schools](attrition-55-percent-higher-high-poverty-schools.md) — related
 - [Longitudinal growth observed for current ELs likely underestimates total-cohort growth because students who reach English proficiency exit and are no longer assessed](el-exit-censorship-underestimates-growth.md) — related
+- [Year 3 and Year 4 student achievement growth in mathematics and reading showed no significant differences between 2019 and 2020 cohorts in NSW primary schools](covid19-no-significant-achievement-growth-difference-nsw-primary.md) — related

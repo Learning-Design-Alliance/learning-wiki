@@ -42,6 +42,9 @@ RQ1 theme on transformation of learner identity and agency, drawn from teacher a
 ## Discussion
 
 
+## Learner Variables
+- [Identity](../learner-variables/identity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use](teacher-role-shift-facilitator-ethical-supervisor.md) — related
 - [Students perceived the teacher’s modeling with contrasting cases as a turning point that repositioned them as active gatekeepers of AI-generated content](contrasting-cases-gatekeeper-repositioning.md) — related

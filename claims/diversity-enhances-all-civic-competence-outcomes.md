@@ -43,6 +43,9 @@ Correlational analysis (cross tabulations and Pearson correlation) of instructio
 ## Discussion
 
 
+## Learner Variables
+- [Civic Mindedness](../learner-variables/civic-mindedness.md) — outcome: instruction changes it
+
 ## Related Claims
 - Civic competence items cluster into four epistemological components (knowledge, skills, attitudes, actions) in community-based learning course surveys — related
 - [A specific civic education subject provides valuable knowledge but is insufficient on its own to develop civic competence](civic-subject-alone-insufficient.md) — related

@@ -41,6 +41,10 @@ Risk finding from the systematic review's thematic analysis of 50 empirical stud
 
 ## Discussion
 
+## Learner Variables
+- [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
+- [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Meta-reviews reach contradictory conclusions on whether AI reliance harms or helps critical thinking, with substantial design limitations limiting generalizability](contradictory-meta-reviews-ai-critical-thinking.md) — the general claim this finding bears on, with the studies behind it

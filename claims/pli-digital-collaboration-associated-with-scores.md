@@ -42,6 +42,9 @@ Log-data analysis of digital collaboration captured automatically as students us
 ## Discussion
 
 
+## Learner Variables
+- [Collaboration](../learner-variables/collaboration.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [PLI students outscored non-PLI peers on adjusted SBAC ELA and math assessments in most tested elementary and middle grades](pli-higher-adjusted-sbac-ela-math.md) — related
 - [Students whose teachers attended one or two PLI professional learning courses gained more on SBAC, with larger gains for two sessions than one](pli-pd-dose-associated-with-student-gains.md) — related

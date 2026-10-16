@@ -62,7 +62,7 @@ Direct replication (N = 310) replacing live queries with three pre-generated inc
 
 
 ## Related Claims
-- [Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong](ai-access-inflates-confidence.md) — related
+- [Access to AI advice roughly doubled reported confidence in answers in one experiment](ai-access-inflates-confidence.md) — related
 - [Participants seek AI advice less frequently when accuracy carries monetary stakes](stakes-reduce-ai-advice-seeking.md) — related
 - [AI advice dramatically reduces judgment suspension even when it is displayed automatically rather than actively requested](unsolicited-ai-advice-still-suppresses-suspension.md) — related
 - [Monetary stakes for accuracy act independently of AI availability on judgment suspension, with no significant AI × stakes interaction](stakes-independent-of-ai-on-suspension.md) — related

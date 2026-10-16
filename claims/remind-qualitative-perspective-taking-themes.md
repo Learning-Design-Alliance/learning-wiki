@@ -61,6 +61,9 @@ Thematic analysis of Phase 2 reflection prompts on why the avatar did nothing: "
 ## Discussion
 
 
+## Learner Variables
+- [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — outcome: instruction changes it
+
 ## Related Claims
 - [After REMind, children's expectations that confronting a bully would stop the bullying shifted toward a calibrated midpoint](remind-calibrated-bully-outcome-expectations.md) — related
 - [REMind did not significantly change children's expectations that defending would help the victim feel better](remind-victim-outcome-expectations-not-significant.md) — related

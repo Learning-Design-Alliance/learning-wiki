@@ -41,6 +41,9 @@ Conclusion drawn from the study's consultations and implementation case study; t
 
 ## Discussion
 
+## Learner Variables
+- [Social Supports](../learner-variables/social-supports.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Online learning communities do not simply emerge; they must be designed for and scaffolded through teaching and assessment activities](online-communities-must-be-designed-and-scaffolded.md) — the general claim this finding bears on, with the studies behind it

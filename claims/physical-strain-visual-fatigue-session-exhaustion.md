@@ -42,6 +42,9 @@ Frequency counts from grounded theory coding. Representative statements include 
 ## Discussion
 
 
+## Learner Variables
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Cognitive Overload is the most frequently reported dimension of AI fatigue, driven by output volume and repeated verification](cognitive-overload-most-reported-ai-fatigue-dimension.md) — related
 - Grounded theory analysis of 1,054 university students identifies five dimensions of AI fatigue, each with two indicators — a broader claim this one bears on

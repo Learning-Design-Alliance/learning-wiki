@@ -43,7 +43,7 @@ Study 4 (N = 853) was "identical to Study 3 except that, in the conditions where
 
 
 ## Related Claims
-- [Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong](ai-access-inflates-confidence.md) — related
+- [Access to AI advice roughly doubled reported confidence in answers in one experiment](ai-access-inflates-confidence.md) — related
 - [Merely having access to AI advice nearly eliminates people's willingness to suspend judgment under uncertainty, even when the advice is wrong](ai-access-nearly-eliminates-judgment-suspension.md) — related
 - [Monetary stakes for accuracy act independently of AI availability on judgment suspension, with no significant AI × stakes interaction](stakes-independent-of-ai-on-suspension.md) — related
 - [AI assistance can inflate confidence even after errors and reduce accuracy when AI is faulty (cognitive surrender)](cognitive-surrender-inflates-confidence-after-errors.md) — related

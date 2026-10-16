@@ -19,7 +19,7 @@ Wide reading is the sustained, high-volume reading of many texts — typically s
 
 ## Design Implications
 
-Reading volume is one of the strongest correlates of vocabulary growth, background knowledge, and comprehension skill; wide reading converts decoding practice into automatic word recognition, which frees working-memory resources for comprehension [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]. Because the mechanism is cumulative exposure, the strategy works only when volume is genuinely high and texts are readable enough to sustain momentum — a few assigned texts per term does not qualify.
+Reading volume is one of the strongest correlates of vocabulary growth, background knowledge, and comprehension skill; wide reading converts decoding practice into automatic word recognition, which frees working-memory resources for comprehension [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Because the mechanism is cumulative exposure, the strategy works only when volume is genuinely high and texts are readable enough to sustain momentum — a few assigned texts per term does not qualify.
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Reading volume is one of the strongest correlates of vocabulary growth, backgrou
 - Audiobook-supported reading for learners whose listening comprehension exceeds decoding skill
 
 ### Target Learners
-- Developing readers who have basic decoding but need fluency and volume [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
+- Developing readers who have basic decoding but need fluency and volume [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 - Reluctant readers, for whom choice and accessible texts build reading motivation and habit
 - Less effective as a standalone intervention for students with significant decoding deficits [-S]
 

@@ -64,6 +64,11 @@ Appendix C.2 prints WRMT-R Word Attack means of 113.70 (12.10) for LiPS vs 99.50
 ## Discussion
 
 
+## Learner Variables
+- [Decoding](../learner-variables/decoding.md) — outcome: instruction changes it
+- [Phonological Awareness](../learner-variables/phonological-awareness.md) — outcome: instruction changes it
+- [Reading Fluency](../learner-variables/reading-fluency.md) — outcome: instruction changes it
+
 ## Related Claims
 - [In Gunn (1996), LiPS effects on word accuracy/fluency and phonemic decoding were negative and substantively important but not statistically significant](gunn-1996-negative-nonsignificant-alphabetics.md) — related
 - [LiPS has mixed effects on alphabetics for beginning readers: positive and statistically significant in one trial, negative and substantively important (but not significant) in another](lips-mixed-alphabetics-effects.md) — a broader claim this one bears on

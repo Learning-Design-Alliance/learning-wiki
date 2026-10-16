@@ -230,3 +230,7 @@ This study found that the seductive details effect was not uniform: readers with
 - [Weeding extraneous information such as music and complex backgrounds improves retention and transfer from video](weeding-extraneous-content-improves-video-learning.md) — possibly the same claim (merge candidate)
 - [Emotions may act as extraneous cognitive load by competing for limited working memory resources with task-irrelevant processing](emotion-as-extraneous-cognitive-load.md) — related
 - [Reduction of cognitive load can sometimes impair learning rather than enhance it](load-reduction-can-impair-learning.md) — related
+- [High-WMC readers view fewer seductive illustrations and spend less time on them than low-WMC readers](eye-tracking-high-wmc-ignore-seductive-illustrations.md) — a narrower finding that bears on this claim
+- [High-WMC readers show no seductive details effect, with seductive illustrations tending to yield the best performance](high-wmc-no-seduction-effect.md) — a narrower finding that bears on this claim
+- [Low-WMC readers recall fewer correct causes when text contains seductive illustrations compared with nonillustrated text](low-wmc-seductive-essay-detriment.md) — a narrower finding that bears on this claim
+- [Working memory capacity interacts with illustration type: seductive illustrations impair comprehension only for low-WMC readers](wmc-moderates-seductive-details-effect.md) — a narrower finding that bears on this claim

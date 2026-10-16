@@ -38,7 +38,7 @@ The paper's concluding framework defines home culture as "cultural identity whic
 - combating inequities in access to knowledge and power
 
 ### Claims
-- [Incorporating Home Culture Improves Academic Performance](../claims/incorporating-home-culture-improves-academic-performance.md) [+M]
+- [Incorporating Home Culture Improves Academic Performance](../claims/incorporating-home-culture-improves-academic-performance.md) [+W]
 
 ## Related Theories
 - 

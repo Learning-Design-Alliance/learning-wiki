@@ -38,7 +38,7 @@ After an intervention is shown effective, document its specific program elements
 
 ### Claims
 - [Bell Summer Program Random Assignment Effective](../claims/bell-summer-program-random-assignment-effective.md) [+M]
-- [Bell Elements Causal Attribution Limited](../claims/bell-elements-causal-attribution-limited.md) [~M]
+- [Bell Elements Causal Attribution Limited](../claims/bell-elements-causal-attribution-limited.md) [~W]
 
 ## Related Designs
 - 

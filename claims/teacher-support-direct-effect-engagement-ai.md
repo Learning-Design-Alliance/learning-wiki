@@ -44,6 +44,7 @@ In the SEM of 758 Chinese university EFL students, the direct path from teacher 
 
 ## Learner Variables
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+- [Social Supports](../learner-variables/social-supports.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
 - [Mastery-approach, performance-approach, and performance-avoidance goals positively predict engagement, while mastery-avoidance goals do not, in AI-assisted English learning](goal-orientations-predict-engagement-ai-efl.md) — related

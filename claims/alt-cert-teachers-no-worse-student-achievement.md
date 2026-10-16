@@ -60,3 +60,5 @@ Mathematica's random assignment study of alternative routes to teacher certifica
 - [Students of ABCTE teachers scored lower than students of non-ABCTE teachers on the Florida state math test](abcte-florida-lower-math-scores.md) — related
 - [Students of ABCTE-certified teachers and non-ABCTE teachers show no difference in reading achievement gains in Florida](abcte-florida-no-reading-gain-difference.md) — a narrower finding that bears on this claim
 - [Alternative certification programs grew to account for about one-third of all new teachers certified annually in the United States](alternative-certification-one-third-new-teachers.md) — related
+- [Students of TFA teachers did not perform significantly differently from students of other under-certified teachers](tfa-no-different-other-undercertified.md) — related
+- [Students of under-certified teachers made about 20% less academic growth per year than students of regularly certified teachers](undercertified-20-percent-less-growth.md) — reports the opposite

@@ -42,6 +42,9 @@ The article's framing of prior research in its introduction: it reports that stu
 ## Discussion
 
 
+## Learner Variables
+- [Emotional Intelligence](../learner-variables/emotional-intelligence.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Middle school social-emotional learning skills predict being off-track to graduate high school](sel-middle-school-predicts-off-track-graduation.md) — related
 - [Understanding how a student develops social-emotionally over intermediate school can improve identification of students not on track to succeed in high school](sel-trajectories-improve-off-track-identification.md) — a narrower finding that bears on this claim

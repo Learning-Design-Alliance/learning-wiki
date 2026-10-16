@@ -35,7 +35,7 @@ Multimodal resources can support learning when verbal and visual channels are co
 
 #### Constraints
 - Unstructured choice among many formats can fragment attention and increase extraneous load; without [Chunking](../principles/chunking.md) and clear structure, learners skim widely and retain little [~M]
-- Redundant presentation — identical text narrated over identical on-screen text — actively harms learning compared with complementary modalities [Media combinations affect recall and retention depending on how channels are combined.](../claims/media-combinations-affect-recall-and-retention.md) [-S]
+- Redundant presentation — identical text narrated over identical on-screen text — actively harms learning compared with complementary modalities [Media combinations affect recall and retention depending on how channels are combined.](../claims/media-combinations-affect-recall-and-retention.md) [-M]
 - Popular multimodal sources (fanfiction, social media) vary widely in disciplinary accuracy; uncritical inclusion can entrench misconceptions [-M]
 - Assumes device and bandwidth access; a "rich library" that lives only online widens gaps for learners lacking home access unless school time and devices are guaranteed [-M]
 - Uncurated access degrades into browsing without learning; without a task or accountability structure, engagement with the library does not translate into comprehension gains [-M]

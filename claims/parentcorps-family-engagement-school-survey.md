@@ -43,6 +43,9 @@ Second randomized evaluation: 61 New York City public elementary schools and 2,2
 ## Discussion
 
 
+## Learner Variables
+- [Home Learning Environment](../learner-variables/home-learning-environment.md) — outcome: instruction changes it
+
 ## Related Claims
 - ParentCorps improves parent involvement in early learning by teacher report but shows a smaller, non-significant effect by parent report — related
 - ParentCorps reduces disruptive and antisocial behavior problems among pre-K students — related

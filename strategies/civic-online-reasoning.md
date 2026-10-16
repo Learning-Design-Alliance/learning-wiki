@@ -29,7 +29,7 @@ The core insight is empirical: professional fact-checkers evaluate far faster an
 - Low-stakes formative assessment with feedback on evaluation decisions
 
 #### Constraints
-- Checklist-style evaluation (currency, relevance, authority, accuracy, purpose) does not transfer to real web evaluation and can *increase* susceptibility to professional-looking misinformation [Checklist-based source evaluation is ineffective compared to lateral reading.](../claims/checklist-evaluation-ineffective-online.md) [-S]
+- Checklist-style evaluation (currency, relevance, authority, accuracy, purpose) does not transfer to real web evaluation and can *increase* susceptibility to professional-looking misinformation [Checklist-based source evaluation is ineffective compared to lateral reading.](../claims/checklist-evaluation-ineffective-online.md) [-M]
 - One-off lessons produce weak effects; benefits require distributed practice across multiple sessions [Explicit instruction in lateral reading improves students' evaluation of online sources.](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [~M]
 - Effectiveness drops when tasks use artificial or simplified sources, because the difficulty of real evaluation lies in ambiguity and deception
 - Learners with weak background knowledge of civic institutions may misjudge source credibility even with good strategies

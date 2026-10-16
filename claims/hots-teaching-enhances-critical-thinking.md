@@ -41,6 +41,9 @@ Longitudinal case study with a pre-, post-, and post–post experimental design 
 
 ## Discussion
 
+## Learner Variables
+- [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Direct CT instruction combined with modeling, coaching, and discussion yields more consistent CT improvement than implicit teaching strategies](direct-ct-instruction-outperforms-implicit-strategies.md) — the general claim this finding bears on, with the studies behind it

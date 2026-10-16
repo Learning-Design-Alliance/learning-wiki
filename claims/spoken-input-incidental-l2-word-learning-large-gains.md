@@ -42,6 +42,9 @@ Random-effects meta-analysis of 105 effect sizes from 32 primary studies with 1,
 ## Discussion
 
 
+## Learner Variables
+- [Oral Language](../learner-variables/oral-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned](incidental-vocabulary-learning-through-reading-for-meaning.md) — a broader claim this one bears on
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — related

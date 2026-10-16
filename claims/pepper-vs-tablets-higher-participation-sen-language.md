@@ -47,3 +47,4 @@ The review reports, citing Konijn et al. (2022), a comparison of Pepper against 
 - [Empirical research on the Pepper robot in formal education is recent, concentrated in primary education, and dominated by qualitative designs with small samples](pepper-formal-education-evidence-small-qualitative.md) — related
 - [Pepper has been deployed in three predominant pedagogical roles: tutor/teaching assistant, learning partner or tutored agent, and social mediator in inclusive settings](pepper-three-pedagogical-roles.md) — related
 - [Inclusion of learners with special educational needs is typically implicit rather than explicitly designed even in advanced agentic AI systems](inclusion-implicit-not-designed-in-agentic-systems.md) — related
+- [Pedagogical agents as coaches and tutors are most useful with novice learners, while virtual role-players benefit learners across expertise levels](agents-most-effective-novice-learners.md) — related

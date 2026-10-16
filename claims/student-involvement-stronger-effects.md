@@ -43,6 +43,7 @@ The meta-analysis reports "preliminary evidence shows that higher levels of stud
 
 ## Learner Variables
 - [Self-Regulation](../learner-variables/self-regulation.md) — moderator: an instructional effect differs with it
+- [Metacognition](../learner-variables/metacognition.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
 

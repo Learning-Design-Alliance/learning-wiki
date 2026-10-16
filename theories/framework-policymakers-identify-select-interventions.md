@@ -36,7 +36,7 @@ The report's organizing framework is "designed to help policymakers identify and
 - employment outcomes and transition to adulthood
 
 ### Claims
-- [Intervention Value Depends Stakeholder Vantage Point](../claims/intervention-value-depends-stakeholder-vantage-point.md) [+M]
+- [Intervention Value Depends Stakeholder Vantage Point](../claims/intervention-value-depends-stakeholder-vantage-point.md) [+W]
 
 ## Related Theories
 - 

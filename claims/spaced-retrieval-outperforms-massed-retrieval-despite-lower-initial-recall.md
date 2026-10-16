@@ -80,6 +80,9 @@ In the same Karpicke and Bauernschmidt (2011) experiment, as the chapter reports
 ## Discussion
 
 
+## Learner Variables
+- [Long-Term Memory](../learner-variables/long-term-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md)
 - [Distributed Practice Improves Retention](spaced-practice-improves-retention.md) — related
