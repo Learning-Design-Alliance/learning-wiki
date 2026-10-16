@@ -15,12 +15,14 @@ sources:
     author: Theobald, M.
     q: 4
     i: 2
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # SRL training effects vary by outcome category, largest for metacognitive strategies (g = .40) and smallest for cognitive strategies (g = .32)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium
 
 ## Subclaims
 `q4 i2` Meta-analytic effect sizes by outcome were: metacognitive strategies g = .40, resource management strategies g = .39, academic performance g = .37, motivational outcomes g = .35, cognitive strategies g = .32. [→ Theobald 2021](#theobald-2021)
@@ -31,7 +33,7 @@ sources:
 
 Theobald, M. (2021). Self-Regulated Learning Training Programs Enhance University Students' Academic Performance, Self-Regulated Learning Strategies, and Motivation: A Meta-Analysis. Contemporary Educational Psychology. https://doi.org/10.1016/j.cedpsych.2021.101976
 
-`q4 · i2`
+`q4 · i2` · `quant-synthesis · r?`
 
 Pooled effect sizes from the same three-level meta-analysis, broken down by outcome category: "metacognitive strategies (g = .40) and resource management strategies (g = .39)" down to cognitive strategies (g = .32). The printed effect sizes g = .40 and g = .39 fall in the medium range.
 

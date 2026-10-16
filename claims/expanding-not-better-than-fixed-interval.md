@@ -15,12 +15,14 @@ sources:
     author: "Pyc, M. A., & Rawson, K. A."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The authors' findings add to evidence that expanding-interval schedules are not more effective than fixed-interval schedules of practice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Comparison of the 1-5-9 expanding and 5-5-5 fixed conventional schedules in Experiment 1 showed no advantage for the expanding schedule. [→ Pyc 2007](#pyc-2007)
@@ -31,7 +33,7 @@ sources:
 
 Pyc, M. A., & Rawson, K. A. (2007). Examining the efficiency of schedules of distributed retrieval practice. Memory & Cognition, 35(8), 1917-1927. https://link.springer.com/article/10.3758/BF03193420
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Authors' interpretation in the General Discussion, drawing on Experiment 1's inclusion of both an expanding (1-5-9) and a fixed (5-5-5) interval conventional schedule, which performed similarly. They suggest future comparisons of conventional with variable schedules need only include a fixed-interval schedule.
 

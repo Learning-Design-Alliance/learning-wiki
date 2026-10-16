@@ -15,12 +15,14 @@ sources:
     author: "Fan, Y., van der Graaf, J., Lim, L., Raković, M., Singh, S., Kilgour, J., Moore, J., Molenaar, I., Bannert, M., & Gašević, D."
     q: 3
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # A theory-driven trace-based SRL measurement achieved a match rate of 38.97% with think aloud data when evaluated against think aloud as reference point
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The theory-driven process library achieved a match rate of 38.97% (median) with think aloud codes in the first alignment, indicating low construct validity of the initial trace-based SRL measurement. [→ Fan 2022](#fan-2022)
@@ -31,7 +33,7 @@ sources:
 
 Fan, Y., van der Graaf, J., Lim, L., Raković, M., Singh, S., Kilgour, J., Moore, J., Molenaar, I., Bannert, M., & Gašević, D. (2022). Towards investigating the validity of measurement of self-regulated learning based on trace data. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09291-1
 
-`q3 · i?`
+`q3 · i?` · `design · r2`
 
 First alignment between theory-driven SRL processes extracted from trace data and think aloud codes for 32 participants in the training set of the laboratory study. The match rate was 38.97% (median), with low sensitivity and specificity, indicating the need to improve validity of the trace-based measurement relative to the reference point.
 

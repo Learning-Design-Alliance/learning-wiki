@@ -15,18 +15,22 @@ sources:
     author: "Griffin, T. D., Wiley, J., & Thiede, K. W."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: griffin-2008-2
     resource: "https://doi.org/10.3758/MC.36.1.93"
     title: "Griffin, T. D., Wiley, J., & Thiede, K. W. (2008). Individual differences, rereading, and self-explanation: Concurrent processing and cue validity as constraints on metacomprehension accuracy. Memory & Cognition, 36(1), 93-103. https://doi.org/10.3758/MC.36.1.93"
     author: "Griffin, T. D., Wiley, J., & Thiede, K. W."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # A self-explanation instruction during rereading improves monitoring accuracy for all readers above mere rereading (Experiment 2)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Self-explanation reliably improved relative monitoring accuracy over rereading, and the benefit did not interact with comprehension ability or WMC. [→ Griffin 2008](#griffin-2008)
@@ -38,7 +42,7 @@ sources:
 
 Griffin, T. D., Wiley, J., & Thiede, K. W. (2008). Individual differences, rereading, and self-explanation: Concurrent processing and cue validity as constraints on metacomprehension accuracy. Memory & Cognition, 36(1), 93-103. https://doi.org/10.3758/MC.36.1.93
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 2 assigned 94 introductory psychology students to read-once, reread, or self-explanation conditions. In the stepwise regression (Table 3), the explain-vs-rereading predictor was significant; the article reports the self-explain condition reached an uncommonly high accuracy of .63, and the effect did not interact with ability (R2  .01) or WMC (R2  .00).
 
@@ -48,7 +52,7 @@ Experiment 2 assigned 94 introductory psychology students to read-once, reread, 
 
 Griffin, T. D., Wiley, J., & Thiede, K. W. (2008). Individual differences, rereading, and self-explanation: Concurrent processing and cue validity as constraints on metacomprehension accuracy. Memory & Cognition, 36(1), 93-103. https://doi.org/10.3758/MC.36.1.93
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In Experiment 2's stepwise regression, the rereading-vs-once dummy variable was not significant (Step 1, p  .10); the article reports no statistically significant difference between rereading and reading once on monitoring accuracy in this sample; equivalence was not tested.
 

@@ -15,12 +15,14 @@ sources:
     author: "Vaughn, L. M., & Jacquez, F."
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # The article asserts that potential impact and social change rise with increasing stakeholder participation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The article states that the potential for immediate and sustainable impact and social change is thought to rise with increasing stakeholder participation in the research process. [→ Vaughn 2020](#vaughn-2020)
@@ -31,7 +33,7 @@ sources:
 
 Vaughn, L. M., & Jacquez, F. (2020). Participatory Research Methods – Choice Points in the Research Process. Journal of Participatory Research Methods, 1(1). https://doi.org/10.35844/001c.13244
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Authors' interpretive assertion in the participatory research methods section, attributed to the CTSA and IAP2 frameworks. No data or test is reported; the article offers no evidence of its own for this link, presenting it as a cited claim.
 

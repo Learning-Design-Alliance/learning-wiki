@@ -15,12 +15,14 @@ sources:
     author: Thomas C. Toppino and William DiGeorge
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Preschool children benefit from repetition in free recall, recalling repeated pictures better than once-presented ones
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Preschoolers recalled repeated items better than once-presented items in Experiment 2. [→ Thomas C. Toppino and William DiGeorge 1984](#thomas-c-toppino-and-william-digeorge-1984)
@@ -31,7 +33,7 @@ sources:
 
 Thomas C. Toppino and William DiGeorge. (1984). The spacing effect in free recall emerges with development. Memory & Cognition, 12(2), 118-122. https://scholar.google.com/scholar?q=The+spacing+effect+in+free+recall+emerges+with+development+Memory+%26+Cognition+1984
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Planned comparisons in Experiment 2 (18 nursery-school children, within-subjects presentation condition) showed "repeated items were recalled better than once-presented items" (F = 10.02, p < .01), with means of 34.7% for massed and 32.0% for spaced repetitions versus 13.9% for once-presented items.
 

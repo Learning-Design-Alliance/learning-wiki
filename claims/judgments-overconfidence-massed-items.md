@@ -15,18 +15,22 @@ sources:
     author: "Zechmeister, E. B., & Shaughnessy, J. J."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: zechmeister-1980-2
     resource: "https://doi.org/10.3758/bf03329756"
     title: "Zechmeister, E. B., & Shaughnessy, J. J. (1980). When you know that you know and when you think that you know but you don't. Bulletin of the Psychonomic Society, 15(1), 41-44. https://doi.org/10.3758/bf03329756"
     author: "Zechmeister, E. B., & Shaughnessy, J. J."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Learners judge massed-presented items as more likely to be recalled than distributed-presented items, although their recall is worse
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Ratings of recall likelihood were consistently greater for MP than DP items in each study block, though the overall mean difference was not statistically significant. [→ Zechmeister 1980](#zechmeister-1980)
@@ -38,7 +42,7 @@ sources:
 
 Zechmeister, E. B., & Shaughnessy, J. J. (1980). When you know that you know and when you think that you know but you don't. Bulletin of the Psychonomic Society, 15(1), 41-44. https://doi.org/10.3758/bf03329756
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Analysis of 7-point likelihood-of-recall ratings from the 24-subject free recall experiment. In all four study blocks MP ratings exceeded DP ratings (overall means 4.57 vs. 4.23), but the article reports the overall difference was "not statistically significant" [t(23) = 1.04].
 
@@ -48,7 +52,7 @@ Analysis of 7-point likelihood-of-recall ratings from the 24-subject free recall
 
 Zechmeister, E. B., & Shaughnessy, J. J. (1980). When you know that you know and when you think that you know but you don't. Bulletin of the Psychonomic Society, 15(1), 41-44. https://doi.org/10.3758/bf03329756
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 A z-score analysis of the same experiment contrasted the MP-DP difference in recall with the MP-DP difference in ratings. The "difference of the differences was statistically significant", showing ratings ran opposite to recall probability (Figure 2).
 

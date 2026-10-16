@@ -15,12 +15,14 @@ sources:
     author: "Zechmeister, E. B., & Shaughnessy, J. J."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Distributed presentations are recalled better than massed presentations in free recall (the spacing effect), and requiring likelihood ratings does not alter this effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` In free recall, twice-presented distributed items are recalled better than twice-presented massed items. [→ Zechmeister 1980](#zechmeister-1980)
@@ -32,7 +34,7 @@ sources:
 
 Zechmeister, E. B., & Shaughnessy, J. J. (1980). When you know that you know and when you think that you know but you don't. Bulletin of the Psychonomic Society, 15(1), 41-44. https://doi.org/10.3758/bf03329756
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 A free recall experiment with 24 Loyola University students; items presented once or twice (massed or distributed, lags of 3-5 items) at a 6-sec rate, with a 1-min math distractor and 4 min for recall. The article reports "A typical spacing effect was obtained", with the rating requirement not altering it (F < 1).
 

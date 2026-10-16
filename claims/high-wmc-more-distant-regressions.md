@@ -15,12 +15,14 @@ sources:
     author: "Sanchez, C. A., & Wiley, J."
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # High-WMC readers make more distant regressions within text, suggesting more cross-text integration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` High-WMC readers made significantly more distant (greater than one line) regressions within the text (η2 = .43). [→ Sanchez 2006](#sanchez-2006)
@@ -31,7 +33,7 @@ sources:
 
 Sanchez, C. A., & Wiley, J. (2006). An examination of the seductive details effect in terms of working memory capacity. Memory & Cognition, 34(2), 344-355. https://link.springer.com/journal/13421
 
-`q2 · i3`
+`q2 · i3` · `causal · r2`
 
 Experiment 2 eye-tracking analysis of regressions: local (same-line) regressions did not differ between groups, but high-WMC readers showed more distant regressions (M = 235.20 vs 171.40), η2 = .43, which the article interprets as attempts to integrate information across the text.
 

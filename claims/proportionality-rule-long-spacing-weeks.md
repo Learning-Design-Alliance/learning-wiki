@@ -15,12 +15,14 @@ sources:
     author: "Glenberg, A. M., & Lehmann, T. S."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Recall of words repeated across lists spaced up to 1 week follows a proportionality rule: recall is better after short spacing at short retention intervals but better after long spacing at long retention intervals
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` After a short retention interval, recall of between-lists repeated words with 0-day spacing (.42) exceeded recall of words with 7-day spacing (.24); after a 7-day retention interval this reversed, with .06 vs .14. [→ Glenberg 1980](#glenberg-1980)
@@ -31,7 +33,7 @@ sources:
 
 Glenberg, A. M., & Lehmann, T. S. (1980). Spacing repetitions over 1 week. Memory & Cognition, 8(6), 528-538. https://doi.org/10.3758/bf03213772
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 1, a controlled incidental-learning experiment with 48 subjects in four between-subjects conditions (0-0, 0-7, 7-0, 7-7), free recall tested. The spacing x retention interval interaction was significant [F(1,44) = 25.72], showing "significantly greater than recall" for short spacing at short retention intervals and the reverse at long retention intervals.
 

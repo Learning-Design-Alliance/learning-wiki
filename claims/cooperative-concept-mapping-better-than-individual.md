@@ -15,12 +15,14 @@ sources:
     author: Pasana Chularut
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Cooperative concept mapping produces better meaningful learning than individualistic concept mapping
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In a reviewed study of college biology students, students working cooperatively on concept mapping tasks attained meaningful learning better than students working individually. [→ Pasana Chularut 2001](#pasana-chularut-2001)
@@ -31,7 +33,7 @@ sources:
 
 Pasana Chularut. (2001). The Influence of Concept Mapping on Achievement, Self-Regulation, and Self-Efficacy in Students of English as a Second Language. Doctoral dissertation, University of Oklahoma. https://eric.ed.gov/?id=ED3004889
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 The review reports this finding from Okebukola and Jegede (1988), a pretest-posttest study with non-random assignment of 145 college students using concept mapping in cooperative or individualistic learning modes. The review attributes the result to that study; its design is described only as summarized here.
 

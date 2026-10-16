@@ -15,12 +15,14 @@ sources:
     author: "Griffin, T. D., Wiley, J., & Thiede, K. W."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Neither rereading nor self-explanation changed comprehension test performance itself; effects were specific to monitoring accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In both experiments, reading conditions did not differ in mean comprehension test performance, so the monitoring improvements cannot be attributed to performance gains. [→ Griffin 2008](#griffin-2008)
@@ -31,7 +33,7 @@ sources:
 
 Griffin, T. D., Wiley, J., & Thiede, K. W. (2008). Individual differences, rereading, and self-explanation: Concurrent processing and cue validity as constraints on metacomprehension accuracy. Memory & Cognition, 36(1), 93-103. https://doi.org/10.3758/MC.36.1.93
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In Experiment 1, conditions did not differ in mean performance on any of the tests (all reported tests non-significant); in Experiment 2, performance did not reliably differ between conditions on any test except a marginal effect (p  .10) on the RaceIQ text. Mean judgment magnitude also did not reliably differ among conditions in either experiment.
 

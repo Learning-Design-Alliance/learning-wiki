@@ -15,12 +15,14 @@ sources:
     author: "Gasiewski, J. A., Eagan, M. K., Garcia, G. A., Hurtado, S., & Chang, M. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Classroom and institutional differences account for little variance in engagement; nearly all variance is between students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Intraclass correlations from the fully unconditional model attributed 3.1% of engagement variance to classrooms and 4.1% to institutions, with 92.8% at the student level. [→ Gasiewski 2012](#gasiewski-2012)
@@ -31,7 +33,7 @@ sources:
 
 Gasiewski, J. A., Eagan, M. K., Garcia, G. A., Hurtado, S., & Chang, M. J. (2012). From Gatekeeping to Engagement: A Multicontextual, Mixed Method Study of Student Academic Engagement in Introductory STEM Courses. Research in Higher Education, 53, 229–261. https://doi.org/10.1007/s11162-011-9247-y
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Fully unconditional three-level HLM run to justify multilevel modeling. The authors conclude classrooms and institutions have a marginal effect and proceeded with a three-level model anyway because of interest in classroom climate; level 3 included only a random intercept given 15 institutions.
 

@@ -15,12 +15,14 @@ sources:
     author: Michael Wehmeyer, Michelle Schwartz
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # High wage earners had higher total self-determination, autonomy, and psychological empowerment scores than low wage earners, controlling for intelligence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` There were no differences between high and low wage groups on hours worked per week on any measure. [→ Michael Wehmeyer 1997](#michael-wehmeyer-1997)
@@ -31,7 +33,7 @@ sources:
 
 Michael Wehmeyer, Michelle Schwartz. (1997). Self-Determination and Positive Adult Outcomes: A Follow-Up Study of Youth with Mental Retardation or Learning Disabilities. Exceptional Children, 63(2). https://eric.ed.gov/?q=Self-Determination+and+Positive+Adult+Outcomes+Wehmeyer+Schwartz
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Same MANCOVA analysis of former students with cognitive disabilities; the null finding for hours worked is reported with no printed effect size, so equivalence was not tested.
 

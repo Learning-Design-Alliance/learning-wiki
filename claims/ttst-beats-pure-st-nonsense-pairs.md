@@ -15,12 +15,14 @@ sources:
     author: "Carrier, M., & Pashler, H."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Retrieval before re-presentation (TTST) improves final cued recall of nonsense-syllable/number pairs relative to pure study (Experiment 1)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` More TTST pairs than pure ST pairs were correctly completed in the Day 1 and Day 2 cued-recall tests. [→ Carrier 1992](#carrier-1992)
@@ -31,7 +33,7 @@ sources:
 
 Carrier, M., & Pashler, H. (1992). The influence of retrieval on retention. Memory & Cognition, 20(6), 633-642. https://doi.org/10.3758/bf03202713
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Laboratory experiment with 61 subjects (data from 56 analyzed) learning 40 CVC trigram/number pairs, half in pure ST and half in TTST trials. An ANOVA found "More pairs from the TTST condition than the pure ST condition were correctly completed"; means were 5.8 vs 6.4 on Day 1 and 3.7 vs 4.1 on Day 2.
 

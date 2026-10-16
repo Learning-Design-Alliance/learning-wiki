@@ -15,12 +15,14 @@ sources:
     author: Lakens, D.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Standardized effect sizes communicate the practical significance of results and enable meta-analyses and a-priori power analyses, facilitating cumulative science
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Effect sizes present magnitudes in a standardized metric independent of the measurement scale, allow meta-analytic comparison across studies, and inform sample-size planning in new studies. [→ Lakens 2013](#lakens-2013)
@@ -31,7 +33,7 @@ sources:
 
 Lakens, D. (2013). Calculating and reporting effect sizes to facilitate cumulative science: a practical primer for t-tests and ANOVAs. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2013.00863
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The article's introductory argument (theoretical, no data) gives three reasons to report effect sizes: standardized communication of practical significance, meta-analytic comparison, and a-priori power analysis. It states standardized sizes are understood "regardless of the scale that was used to measure the dependent variable."
 

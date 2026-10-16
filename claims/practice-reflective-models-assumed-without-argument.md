@@ -14,12 +14,14 @@ sources:
     author: "The article's literature-based observation, citing Roberts and Thatcher"
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Research practice misaligns with theory: domain knowledge is usually assessed with reflective models without argument for that choice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` In scientific practice, domain knowledge is rarely assessed or modeled as a formative construct; reflective models are assumed without specific justification. [→ practice-1](#stadler-2021)
@@ -30,7 +32,7 @@ sources:
 
 Stadler, Matthias, Michael Sailer, and Frank Fischer. 2021. “Knowledge as a formative construct: a good alpha is not always better.” New Ideas in Psychology 60: 100832. https://doi.org/10.1016/j.newideapsych.2020.100832.
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 The article's literature-based observation, citing Roberts and Thatcher (2009) and Taber (2018). It states researchers "usually seek to maximize interitem correlations rather than to optimally cover the theoretical width of their constructs."
 

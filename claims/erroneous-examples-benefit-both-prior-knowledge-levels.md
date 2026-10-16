@@ -15,12 +15,14 @@ sources:
     author: "Bruce M. McLaren & Deanne M. Adams & Richard E. Mayer"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The delayed erroneous-examples benefit holds for both low and high prior knowledge students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` There was no significant interaction between condition and prior knowledge level on immediate or delayed gains, and the delayed advantage was significant within both low (d=.35) and high prior knowledge (d=.37) subgroups. [→ Bruce M. McLaren & Deanne M. Adams & Richard E. Mayer 2015](#bruce-m-mclaren-deanne-m-adams-richard-e-mayer-2015)
@@ -31,7 +33,7 @@ sources:
 
 Bruce M. McLaren & Deanne M. Adams & Richard E. Mayer. (2015). Delayed Learning Effects with Erroneous Examples: a Study of Learning Decimals with a Web-Based Tutor. International Artificial Intelligence in Education Society 2015. https://doi.org/10.1007/s40593-015-0064-x
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Median-split analysis (200 low, 190 high prior knowledge) plus a stepwise regression on pretest as a continuous variable found "no significant interaction between condition and prior knowledge level". Separate ANCOVAs showed significant delayed gains for both subgroups (d=.35 and d=.37).
 

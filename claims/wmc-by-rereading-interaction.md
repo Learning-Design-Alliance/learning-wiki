@@ -15,12 +15,14 @@ sources:
     author: "Griffin, T. D., Wiley, J., & Thiede, K. W."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Working memory capacity predicts monitoring accuracy after a single reading but not after rereading, independently of comprehension ability (Experiment 2)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Lower-WMC readers had poorer monitoring accuracy when reading once; rereading benefited them to the point where WMC no longer affected accuracy, and this effect was independent of comprehension ability. [→ Griffin 2008](#griffin-2008)
@@ -31,7 +33,7 @@ sources:
 
 Griffin, T. D., Wiley, J., & Thiede, K. W. (2008). Individual differences, rereading, and self-explanation: Concurrent processing and cue validity as constraints on metacomprehension accuracy. Memory & Cognition, 36(1), 93-103. https://doi.org/10.3758/MC.36.1.93
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In Experiment 2, WMC was measured as a composite of reading span and operation span tasks. A stepwise regression (Table 3) retained a significant rereading × WMC term; the article notes the WMC × rereading beta increased only from .25 to .28 when comprehension ability was removed, showing independence.
 

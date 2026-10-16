@@ -15,12 +15,14 @@ sources:
     author: Belland Brian R., Kim ChanMin, Hannafin Michael J.
     q: 3
     i: 2
+    kind: theoretical
+    rigour: 3
 ---
 
 # Interest correlates moderately with academic achievement (mean correlation r = .31, meta-analytic)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · theoretical `r3` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Across studies synthesized in a meta-analysis cited by the review, interest and academic achievement show a mean correlation of r = .31. [→ Belland Brian R. 2013](#belland-brian-r-2013)
@@ -31,7 +33,7 @@ sources:
 
 Belland Brian R., Kim ChanMin, Hannafin Michael J. (2013). A Framework for Designing Scaffolds That Improve Motivation and Cognition. Educational Psychologist. https://doi.org/10.1080/00461520.2013.838920
 
-`q3 · i2`
+`q3 · i2` · `theoretical · r3`
 
 The review reports this finding, citing Schiefele, Krapp, and Winteler (1992); the meta-analysis itself was not read. The article prints the effect size directly: the mean correlation between interest and academic achievement was .31, i.e., r = .31.
 

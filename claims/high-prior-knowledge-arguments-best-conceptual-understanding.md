@@ -15,18 +15,22 @@ sources:
     author: "Leppink, J., Broers, N. J., Imbos, T., van der Vleuten, C. P. M., & Berger, M. P. F."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
   - id: leppink-2012-2
     resource: "https://doi.org/10.1007/s10734-011-9476-1"
     title: "Leppink, J., Broers, N. J., Imbos, T., van der Vleuten, C. P. M., & Berger, M. P. F. (2012). Self-explanation in the domain of statistics: an expertise reversal effect. Higher Education, 63, 771-785. https://doi.org/10.1007/s10734-011-9476-1"
     author: "Leppink, J., Broers, N. J., Imbos, T., van der Vleuten, C. P. M., & Berger, M. P. F."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # High prior knowledge students learned most conceptual understanding from questions plus arguments; answering questions alone was least effective
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2`–`i3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i3` Among high prior knowledge students, the combination of open-ended questions and arguments beat answering open-ended questions only, t(25) = 2.688, Cohen's d = 1.06. [→ Leppink 2012](#leppink-2012)
@@ -38,7 +42,7 @@ sources:
 
 Leppink, J., Broers, N. J., Imbos, T., van der Vleuten, C. P. M., & Berger, M. P. F. (2012). Self-explanation in the domain of statistics: an expertise reversal effect. Higher Education, 63, 771-785. https://doi.org/10.1007/s10734-011-9476-1
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Pairwise comparison within the high prior knowledge group on the conceptual understanding test in the randomized experiment. Questions-only was the least effective condition for this group, significantly below the questions-plus-arguments condition, with Cohen's d = 1.06.
 
@@ -48,7 +52,7 @@ Pairwise comparison within the high prior knowledge group on the conceptual unde
 
 Leppink, J., Broers, N. J., Imbos, T., van der Vleuten, C. P. M., & Berger, M. P. F. (2012). Self-explanation in the domain of statistics: an expertise reversal effect. Higher Education, 63, 771-785. https://doi.org/10.1007/s10734-011-9476-1
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Pairwise comparison within the high prior knowledge group on conceptual understanding. The difference between worked-out examples and questions plus arguments was not statistically significant; the authors attribute this "to a statistical power problem, since the difference illustrates a medium size effect" (d = 0.51).
 

@@ -15,12 +15,14 @@ sources:
     author: Shana K. Carpenter and Harold Pashler
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The testing benefit for map learning holds under both quadrant-based and relative-position-based scoring, liberal and stringent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The test/study advantage was significant for LQ, SQ, LRP, and SRP scoring procedures. [→ Shana K. Carpenter and Harold Pashler 2007](#shana-k-carpenter-and-harold-pashler-2007)
@@ -31,7 +33,7 @@ sources:
 
 Shana K. Carpenter and Harold Pashler. (2007). Testing beyond words: Using tests to enhance visuospatial map learning. Psychonomic Bulletin & Review, 14 (3), 474-478. https://doi.org/10.3758/bf03194092
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In the same 50-subject within-subjects map-learning experiment, blind-scored final drawings were analyzed under liberal quadrant, stringent quadrant, liberal relative position, and stringent relative position procedures. All four yielded significant main effects of test condition, with the F and p values as printed; means from Table 1 ranged from .61 to .74 for test/study versus .53 to .63 for study.
 

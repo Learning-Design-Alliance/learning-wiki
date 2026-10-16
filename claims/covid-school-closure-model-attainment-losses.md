@@ -15,12 +15,14 @@ sources:
     author: Nicola Fuchs-Schündeln, Dirk Krueger, Alexander Ludwig, and Irina Popova
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Model simulations imply Covid-19 school closures plus recession raise the future share of children without a high school degree by 3.8% and reduce the college-degree share by 2.7%
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Across children aged 4 to 14 at the shock, the model implies a 3.8% increase in the future share without a high school degree and a 2.7% reduction in the college-degree share, with average earnings losses of about −1%. [→ Nicola Fuchs-Schündeln 2020](#nicola-fuchs-schundeln-2020)
@@ -31,7 +33,7 @@ sources:
 
 Nicola Fuchs-Schündeln, Dirk Krueger, Alexander Ludwig, and Irina Popova. (2020). The Long-Term Distributional and Welfare Effects of Covid-19 School Closures. NBER Working Paper 27773. http://www.nber.org/papers/w27773
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Structural life-cycle simulation (partial equilibrium) of a one-time six-month school closure shock plus recession income shock, reported in the introduction. The model "implies an increase in the future share of children without a high school degree of 3.8%" and the college reduction of 2.7%; earnings losses "amount to about −1%".
 

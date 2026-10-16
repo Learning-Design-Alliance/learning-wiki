@@ -15,12 +15,14 @@ sources:
     author: Marie-Josée Bisson, Walter J. B. van Heuven, Kathy Conklin, and Richard J. Tunney
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # Per-exposure learning gains decrease as the number of exposures increases: a small but significant negative linear trend in the normalized incidental learning effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Normalized incidental learning effects (effect divided by number of exposures) showed a significant negative linear trend, with additional encounters contributing less learning as exposure count rose (ηp2 = .06). [→ Marie-Josée Bisson 2014](#marie-josee-bisson-2014)
@@ -31,7 +33,7 @@ sources:
 
 Marie-Josée Bisson, Walter J. B. van Heuven, Kathy Conklin, and Richard J. Tunney. (2014). The Role of Repeated Exposure to Multimodal Input in Incidental Acquisition of Foreign Language Vocabulary. Language Learning 64:4. https://doi.org/10.1111/lang.12085
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 ANOVAs on difference scores divided by exposure number (two through eight) in the translation recognition data revealed "a small but signiﬁcant negative linear trend", ηp2 = .06 and ηp2 = .05; Pages and Jonckheere trend tests confirmed it (r = .25 and r = .20).
 

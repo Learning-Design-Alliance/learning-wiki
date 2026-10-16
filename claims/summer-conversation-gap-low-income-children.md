@@ -15,12 +15,14 @@ sources:
     author: Gershenson, S.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Low-income children spend about 12 fewer minutes per day conversing with adults during summer, marginally significant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` APSCC estimates show a roughly 12-minute-per-day summer gap in children's conversation with adults between low-income and wealthier households, marginally significant after Bonferroni adjustment. [→ Gershenson 2013](#gershenson-2013)
@@ -31,7 +33,7 @@ sources:
 
 Gershenson, S. (2013). Do summer time-use gaps vary by socioeconomic status? American University. http://www.bls.gov/tus/
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Tobit interaction-effect estimates from APSCC children's time diaries on time spent conversing with adults. The article prints the gap as "about 12 fewer minutes per day" and reports only marginal significance; no effect size is printed.
 

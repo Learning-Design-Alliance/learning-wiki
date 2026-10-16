@@ -15,12 +15,14 @@ sources:
     author: Kaffenberger, Michelle
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # In the calibrated simulation, a shock reducing grade 3 learning by one-third leaves the cohort a full year of learning behind the no-shock counterfactual by grade 10
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Reducing grade 3 learning gains by one-third reduces average grade 10 learning by a full year relative to the counterfactual of no shock. [→ Kaffenberger 2021](#kaffenberger-2021)
@@ -31,7 +33,7 @@ sources:
 
 Kaffenberger, Michelle. (2021). Modelling the long-run learning impact of the Covid-19 learning shock: Actions to (more than) mitigate loss. International Journal of Educational Development. https://doi.org/10.1016/j.ijedudev.2020.102326
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Simulation using a PPF model calibrated to PISA-D countries, applying a one-third reduction to grade 3 learning and modelling trajectories through grade 10. The modelled finding is that learning is "a full year lower" in grade 10 than the no-shock counterfactual.
 

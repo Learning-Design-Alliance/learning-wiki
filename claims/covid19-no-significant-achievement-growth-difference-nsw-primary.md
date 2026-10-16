@@ -15,12 +15,14 @@ sources:
     author: "Gore, J., Miller, A., Fray, L., Harris, J., & Prieto, E."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Year 3 and Year 4 student achievement growth in mathematics and reading showed no significant differences between 2019 and 2020 cohorts in NSW primary schools
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` No significant differences in student achievement growth were recorded between 2019 and 2020 cohorts in mathematics or reading for Year 3 and Year 4 students. [→ Gore 2021](#gore-2021)
@@ -31,7 +33,7 @@ sources:
 
 Gore, J., Miller, A., Fray, L., Harris, J., & Prieto, E. (2021). The impact of COVID-19 on student learning in New South Wales primary schools: an empirical study. The Australian Educational Researcher, 48, 605-637. https://doi.org/10.1007/s13384-021-00436-w
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Linear mixed models compared matched 2019 and 2020 cohorts (3030 students total: 1584 in 2019, 1446 in 2020) from NSW government schools using PAT mathematics and reading scores at baseline (Term 1) and follow-up (Term 4). The study reports "no differences in student achievement growth were recorded between 2019 and 2020" for either year level.
 

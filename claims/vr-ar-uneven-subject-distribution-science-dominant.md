@@ -15,12 +15,14 @@ sources:
     author: Haozhe Jiang, Deqi Zhu, Ritesh Chugh, Darren Turnbull, Wu Jin
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # VR/AR-supported K-12 STEM research is unevenly distributed across subjects: science dominates, engineering has no studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The largest share of the 117 reviewed articles focused on science learning, mathematics and iSTEM followed, technology learning had two articles, and no article focused on K-12 engineering learning. [→ Haozhe Jiang 2025](#haozhe-jiang-2025)
@@ -31,7 +33,7 @@ sources:
 
 Haozhe Jiang, Deqi Zhu, Ritesh Chugh, Darren Turnbull, Wu Jin. (2025). Virtual reality and augmented reality-supported K-12 STEM learning: trends, advantages and challenges. Education and Information Technologies. https://doi.org/10.1007/s10639-024-13210-z
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Subject categorization of the 117 reviewed articles within the review's trends analysis (Fig. 4). The review counts 77 science articles, 22 mathematics, 16 iSTEM, two technology, and zero engineering, reporting the distribution "across subjects within K-12 STEM education".
 

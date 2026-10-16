@@ -15,12 +15,14 @@ sources:
     author: Matthew Jensen Hays, Nate Kornell, and Robert A. Bjork
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Learners' self-assessments of response correctness are imperfect, with asymmetric error rates for incorrect and correct responses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Participants mistakenly assessed as correct 22% of their incorrect responses and mistakenly assessed as incorrect 10% of their correct responses; the computer made neither error. [→ Matthew Jensen Hays 2010](#matthew-jensen-hays-2010)
@@ -31,7 +33,7 @@ sources:
 
 Matthew Jensen Hays, Nate Kornell, and Robert A. Bjork. (2010). The costs and benefits of providing feedback during learning. Psychonomic Bulletin & Review. https://doi.org/10.3758/PBR.17.6.797
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Assessment-accuracy analysis from space-bar-pressing behavior when the computer controlled skipping; both error types were reliable in the printed statistics and the computer made no such errors.
 

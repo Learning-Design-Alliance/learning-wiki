@@ -17,7 +17,7 @@ sources:
 # Implement computerized covert retrieval practice for visuospatial materials such as maps, faces, and diagrams instead of passive scrutiny
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The authors recommend replacing standard practice in which "a learner [tries] to memorize the map by scrutinizing it" with computer-prompted tests in which features are deleted and covertly recalled, since the procedure "can be implemented readily with computers". They suggest extending it to faces such as wanted posters and to graphs and diagrams in scientific and technical training, offering a nonverbal analogue to flash cards.
@@ -38,8 +38,16 @@ The authors recommend replacing standard practice in which "a learner [tries] to
 ### Target Learning Goals
 - memorizing spatial layouts and nonverbal representations
 
+## Claims
+
+- [Map drawing after 30 min is more accurate for maps learned through covert-retrieval tests than for maps learned through equal conventional study time](../claims/covert-retrieval-tests-improve-map-learning.md) [+W]
+- [The testing benefit for map learning holds under both quadrant-based and relative-position-based scoring, liberal and stringent](../claims/testing-benefit-all-four-scoring-procedures.md) [+W]
+- [Counterbalancing condition did not affect map accuracy and did not interact with test condition](../claims/counterbalancing-no-effect-map-accuracy.md) [~W]
+- [Offering a monetary incentive in both test and study conditions strengthens the case that testing has a true learning advantage over motivated restudy](../claims/monetary-incentive-rules-out-motivation-confound.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Graphic Organizers for Retrieval Practice](graphic_organizers_for_retrieval_practice.md)
 
 ## Examples
 -

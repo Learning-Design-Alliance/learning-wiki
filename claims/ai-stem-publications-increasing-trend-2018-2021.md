@@ -15,12 +15,14 @@ sources:
     author: Weiqi Xu and Fan Ouyang
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Publication of empirical AI-STEM studies increased over the decade, with most articles published 2018–2021
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The number of empirical AI-STEM publications generally increased along the years, with 42 of 63 reviewed articles published from 2018 to 2021 and only 9 in 2011–2014. [→ Weiqi Xu and Fan Ouyang 2022](#weiqi-xu-and-fan-ouyang-2022)
@@ -31,7 +33,7 @@ sources:
 
 Weiqi Xu and Fan Ouyang. (2022). The application of AI technologies in STEM education: a systematic review from 2011 to 2021. International Journal of STEM Education. https://doi.org/10.1186/s40594-022-00377-5
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's year-by-year distribution of the 63 included articles (shown in Fig. 4 and described in the results text) indicates a generally increasing publication trend, with the majority (N = 42) appearing in 2018–2021 versus only 9 in 2011–2014, supporting the article's conclusion of a gradually increasing trend of AI applications in STEM education.
 

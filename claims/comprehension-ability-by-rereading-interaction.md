@@ -15,18 +15,22 @@ sources:
     author: "Griffin, T. D., Wiley, J., & Thiede, K. W."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: griffin-2008-2
     resource: "https://doi.org/10.3758/MC.36.1.93"
     title: "Griffin, T. D., Wiley, J., & Thiede, K. W. (2008). Individual differences, rereading, and self-explanation: Concurrent processing and cue validity as constraints on metacomprehension accuracy. Memory & Cognition, 36(1), 93-103. https://doi.org/10.3758/MC.36.1.93"
     author: "Griffin, T. D., Wiley, J., & Thiede, K. W."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Reading comprehension ability predicts monitoring accuracy after a single reading but not after rereading (Experiments 1 and 2)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Comprehension ability accounted for variance in monitoring accuracy only in the read-once condition; rereading particularly benefited low-ability readers, eliminating the ability–accuracy relationship. [→ Griffin 2008](#griffin-2008)
@@ -38,7 +42,7 @@ sources:
 
 Griffin, T. D., Wiley, J., & Thiede, K. W. (2008). Individual differences, rereading, and self-explanation: Concurrent processing and cue validity as constraints on metacomprehension accuracy. Memory & Cognition, 36(1), 93-103. https://doi.org/10.3758/MC.36.1.93
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 1 regression of monitoring accuracy on condition, comprehension ability (an IVT factor score), and the interaction found a significant interaction, shown in Figure 1; the article reports that rereading produced marked accuracy improvements for low-ability readers but not for higher ability readers.
 
@@ -48,7 +52,7 @@ Experiment 1 regression of monitoring accuracy on condition, comprehension abili
 
 Griffin, T. D., Wiley, J., & Thiede, K. W. (2008). Individual differences, rereading, and self-explanation: Concurrent processing and cue validity as constraints on metacomprehension accuracy. Memory & Cognition, 36(1), 93-103. https://doi.org/10.3758/MC.36.1.93
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 2 (94 introductory psychology students, two dropped) replicated the interaction, shown in Figure 2; the article reports that the positive effect of self-explaining did not interact with ability.
 

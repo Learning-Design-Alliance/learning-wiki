@@ -15,12 +15,14 @@ sources:
     author: "Bruce M. McLaren & Deanne M. Adams & Richard E. Mayer"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The delayed erroneous-examples advantage replicated at one school but was not statistically significant at the other
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Within School A the delayed-test advantage was significant (d=.38), but within School B it was not (p=.17, d=.2). [→ Bruce M. McLaren & Deanne M. Adams & Richard E. Mayer 2015](#bruce-m-mclaren-deanne-m-adams-richard-e-mayer-2015)
@@ -31,7 +33,7 @@ sources:
 
 Bruce M. McLaren & Deanne M. Adams & Richard E. Mayer. (2015). Delayed Learning Effects with Erroneous Examples: a Study of Learning Decimals with a Web-Based Tutor. International Artificial Intelligence in Education Society 2015. https://doi.org/10.1007/s40593-015-0064-x
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Supplementary by-school analysis of the same study: School A showed a significant delayed advantage (F(1252)=6.26, p=.01, d=.38) while "there was no significant difference" at School B, where the sample was smaller.
 

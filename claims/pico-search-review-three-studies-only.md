@@ -15,12 +15,14 @@ sources:
     author: Mette Brandt Eriksen, PhD; Tove Faber Frandsen, PhD
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Only three studies assessing PICO as a search strategy tool were eligible for review, and heterogeneity prevented quantitative analysis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r3` · `q3`
 
 ## Subclaims
 `q3 i?` A systematic review with a comprehensive search found only three studies comparing PICO as a search strategy tool to other models or unguided searching, and due to heterogeneity no quantitative analysis was possible. [→ Mette Brandt Eriksen 2018](#mette-brandt-eriksen-2018)
@@ -31,7 +33,7 @@ sources:
 
 Mette Brandt Eriksen, PhD; Tove Faber Frandsen, PhD. (2018). The impact of patient, intervention, comparison, outcome (PICO) as a search strategy tool on literature search quality: a systematic review. Journal of the Medical Library Association 106 (4). https://doi.org/10.5195/jmla.2018.345
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 Systematic review following AMSTAR and PRISMA 2009 with duplicate screening and a nine-database search up to January 9, 2017. Of 2,163 records, "3 studies were included" in a qualitative analysis; the review reports "Due to differences in intervention, no quantitative analysis was performed."
 

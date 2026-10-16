@@ -85,6 +85,7 @@ Resource evaluation works when learners actively apply criteria to real, contras
 **CRAAP Test (Meriam Library, CSU Chico)** — Widely used currency/relevance/authority/accuracy/purpose checklist; useful as a starting scaffold but should be paired with lateral reading to avoid surface-cue errors.
 
 **Annotated bibliography assignments** — Learners summarize, evaluate, and justify the role of each source in an emerging argument, making evaluative reasoning assessable.
+- [Integrate ChatGPT into Quantum Theory (and similar STEM) courses as a supplement to traditional teaching, with students verifying chatbot answers collaboratively](../strategies/integrate-chatgpt-supplement-traditional-quantum-teaching.md)
 
 ## Key Sources
 - Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40. [doi:10.1177/016146811912101102](https://doi.org/10.1177/016146811912101102)

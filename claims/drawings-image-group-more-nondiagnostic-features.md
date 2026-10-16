@@ -15,12 +15,14 @@ sources:
     author: Goldstone, R. L.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Subjects given image instructions include more nondiagnostic features in their drawings of concepts than subjects given discriminate instructions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Image-instruction subjects drew significantly more nondiagnostic features correctly than discriminate-instruction subjects. [→ Goldstone 1996](#goldstone-1996)
@@ -31,7 +33,7 @@ sources:
 
 Goldstone, R. L. (1996). Isolated and interrelated concepts. Memory & Cognition, 24 (5), 608-628. https://doi.org/10.3758/bf03201087
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Post-task drawing measure in Experiment 1: after categorization, subjects drew their concepts on empty 3 x 3 grids. The overall feature-drawing difference between groups was only marginal [t(26) = 1.94, p = .06], but the nondiagnostic-feature difference was significant.
 

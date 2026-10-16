@@ -15,12 +15,14 @@ sources:
     author: Matthew Jensen Hays, Nate Kornell, and Robert A. Bjork
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Participants' willingness to skip feedback after correct responses increases substantially across retrieval-practice cycles
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Skipping after correct responses rose from below half on Cycle 1 (M = .49) to reliably more on Cycles 2 and 3, reaching a level matching their incorrect-assessment rate by Cycle 4. [→ Matthew Jensen Hays 2010](#matthew-jensen-hays-2010)
@@ -31,7 +33,7 @@ sources:
 
 Matthew Jensen Hays, Nate Kornell, and Robert A. Bjork. (2010). The costs and benefits of providing feedback during learning. Psychonomic Bulletin & Review. https://doi.org/10.3758/PBR.17.6.797
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Cross-cycle analysis of skipping behavior in the skipping-permitted condition; the increase from Cycle 3 to Cycle 4 (M = .85) was only marginal [t(32) = 1.85, p = .074].
 

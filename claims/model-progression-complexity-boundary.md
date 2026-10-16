@@ -15,24 +15,30 @@ sources:
     author: Ton de Jong, Wouter R. van Joolingen
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: ton-de-jong-1998-2
     resource: "https://telearn.hal.science/hal-00190680v1"
     title: "Ton de Jong, Wouter R. van Joolingen. (1998). Scientific Discovery Learning with Computer Simulations of Conceptual Domains. Review of Educational Research. https://telearn.hal.science/hal-00190680v1"
     author: Ton de Jong, Wouter R. van Joolingen
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: ton-de-jong-1998-3
     resource: "https://telearn.hal.science/hal-00190680v1"
     title: "Ton de Jong, Wouter R. van Joolingen. (1998). Scientific Discovery Learning with Computer Simulations of Conceptual Domains. Review of Educational Research. https://telearn.hal.science/hal-00190680v1"
     author: Ton de Jong, Wouter R. van Joolingen
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Model progression benefits learning only in sufficiently complex simulations; in a simple domain it was less efficient than full complexity from the start
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (3 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In a simple disease-spread simulation, model progression had no overall positive effect on performance and was less efficient than immediate full complexity. [→ Ton de Jong 1998](#ton-de-jong-1998)
@@ -45,7 +51,7 @@ sources:
 
 Ton de Jong, Wouter R. van Joolingen. (1998). Scientific Discovery Learning with Computer Simulations of Conceptual Domains. Review of Educational Research. https://telearn.hal.science/hal-00190680v1
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports Quinn and Alessi's experiment with a disease-spread simulation with four input variables, comparing groups given full access immediately against staged access; "model progression had no overall positive effect on performance" in this simple, non-interacting domain.
 
@@ -55,7 +61,7 @@ The review reports Quinn and Alessi's experiment with a disease-spread simulatio
 
 Ton de Jong, Wouter R. van Joolingen. (1998). Scientific Discovery Learning with Computer Simulations of Conceptual Domains. Review of Educational Research. https://telearn.hal.science/hal-00190680v1
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports Swaak et al.'s SETCOM study on harmonic oscillation, where the model developed from free through damped to externally forced oscillation; model progression enlarged "intuitive knowledge" but not conceptual knowledge.
 
@@ -65,7 +71,7 @@ The review reports Swaak et al.'s SETCOM study on harmonic oscillation, where th
 
 Ton de Jong, Wouter R. van Joolingen. (1998). Scientific Discovery Learning with Computer Simulations of Conceptual Domains. Review of Educational Research. https://telearn.hal.science/hal-00190680v1
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports Rieber and Parmley's Newtonian motion study; learners given gradually increasing control "scored significantly higher at a test measuring application of rules" than full-complexity learners; no effect size is printed.
 

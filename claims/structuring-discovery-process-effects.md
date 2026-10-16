@@ -15,12 +15,14 @@ sources:
     author: Ton de Jong, Wouter R. van Joolingen
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Structuring the discovery process can outperform unstructured environments, but effects depend on learner characteristics and the knowledge test used
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Providing a sequence of experimentation steps with detailed directions led up to two and four times as many students to distinguish central heat and temperature concepts compared to an unstructured version. [→ Ton de Jong 1998](#ton-de-jong-1998)
@@ -31,7 +33,7 @@ sources:
 
 Ton de Jong, Wouter R. van Joolingen. (1998). Scientific Discovery Learning with Computer Simulations of Conceptual Domains. Review of Educational Research. https://telearn.hal.science/hal-00190680v1
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports Linn and Songer's structured simulation curriculum with experimentation steps (before, during, after doing the experiment); "up to two and four times as many students" distinguished central concepts versus the unstructured version; these are descriptive proportions, no effect size printed.
 

@@ -15,12 +15,14 @@ sources:
     author: Goldstone, R. L.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Categorization accuracy was significantly higher for infrequently alternated categories than for frequently alternated categories
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Infrequent category alternation produced significantly higher categorization accuracy than frequent alternation. [→ Goldstone 1996](#goldstone-1996)
@@ -31,7 +33,7 @@ sources:
 
 Goldstone, R. L. (1996). Isolated and interrelated concepts. Memory & Cognition, 24 (5), 608-628. https://doi.org/10.3758/bf03201087
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Overall accuracy comparison in Experiment 2's categorization task with 26 undergraduates. The authors attribute the advantage to the materials allowing efficient image-like characterizations, since no features perfectly distinguished the categories.
 

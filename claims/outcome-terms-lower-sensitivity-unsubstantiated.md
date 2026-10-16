@@ -15,12 +15,14 @@ sources:
     author: Mette Brandt Eriksen, PhD; Tove Faber Frandsen, PhD
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The recommendation to avoid outcome-related search terms to preserve sensitivity is not substantiated by available evidence
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The review finds that the claim that searching for outcome-related terms lowers search sensitivity is not substantiated by the limited available data. [→ Mette Brandt Eriksen 2018](#mette-brandt-eriksen-2018)
@@ -31,7 +33,7 @@ sources:
 
 Mette Brandt Eriksen, PhD; Tove Faber Frandsen, PhD. (2018). The impact of patient, intervention, comparison, outcome (PICO) as a search strategy tool on literature search quality: a systematic review. Journal of the Medical Library Association 106 (4). https://doi.org/10.5195/jmla.2018.345
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 The review's assessment of the guideline recommendation (Cochrane Handbook) against the one included study addressing it. The review notes that study "focused on identifying search components and tools that could help clinicians build more effective strategies to answer questions at the point of care" and did not include systematic-review strategies, limiting generalizability.
 

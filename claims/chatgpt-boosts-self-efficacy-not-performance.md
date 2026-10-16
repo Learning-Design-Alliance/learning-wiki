@@ -15,18 +15,22 @@ sources:
     author: "Urban, M., Děchtěrenko, F., Lukavský, J., Hrabalová, V., Svacha, F., Brom, C., & Urban, K."
     q: 3
     i: 2
+    kind: causal
+    rigour: 3
   - id: urban-2024-2
     resource: "https://doi.org/10.1016/j.compedu.2024.105031"
     title: "Urban, M., Děchtěrenko, F., Lukavský, J., Hrabalová, V., Svacha, F., Brom, C., & Urban, K. (2024). ChatGPT Improves Creative Problem-Solving Performance in University Students: An Experimental Study. Computers & Education. https://doi.org/10.1016/j.compedu.2024.105031"
     author: "Urban, M., Děchtěrenko, F., Lukavský, J., Hrabalová, V., Svacha, F., Brom, C., & Urban, K."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # ChatGPT use boosts university students' self-efficacy for task resolution without improving actual performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · associational `r1` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Self-efficacy for task resolution with ChatGPT was moderately higher than control self-efficacy, F(1,142) = 16.28, η2p = .10. [→ Urban 2024](#urban-2024)
@@ -39,7 +43,7 @@ sources:
 
 Urban, M., Děchtěrenko, F., Lukavský, J., Hrabalová, V., Svacha, F., Brom, C., & Urban, K. (2024). ChatGPT Improves Creative Problem-Solving Performance in University Students: An Experimental Study. Computers & Education. https://doi.org/10.1016/j.compedu.2024.105031
 
-`q3 · i2`
+`q3 · i2` · `causal · r3`
 
 ANCOVA on self-efficacy ratings (100-point scale) from the randomized two-condition experiment (N = 145). Between-group self-efficacy without ChatGPT did not differ; the with-ChatGPT comparison showed η2p = .10, and the within-subject contrast η2p = .19.
 
@@ -49,7 +53,7 @@ ANCOVA on self-efficacy ratings (100-point scale) from the randomized two-condit
 
 Urban, M., Děchtěrenko, F., Lukavský, J., Hrabalová, V., Svacha, F., Brom, C., & Urban, K. (2024). ChatGPT Improves Creative Problem-Solving Performance in University Students: An Experimental Study. Computers & Education. https://doi.org/10.1016/j.compedu.2024.105031
 
-`q3 · i?`
+`q3 · i?` · `associational · r1`
 
 Exploratory correlation analysis of Table 3 from the same experiment. The article reports very small control-group and negligible experimental-group correlations, while higher self-efficacy was associated with higher bias indices (control median r = .49).
 

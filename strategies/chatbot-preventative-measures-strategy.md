@@ -46,6 +46,7 @@ The review recommends that educational institutions implement preventative measu
 - [Develop clear institutional GenAI policies, communicate them, raise awareness, and promote digital literacy](institutional-genai-policy-and-awareness-strategy.md)
 - [Institutional integrity programs combining ethical AI-use guidelines, clear definitions of dishonesty, and risk-awareness education](integrity-programs-ethical-ai-use-guidelines.md)
 - [Allocate ongoing professional development so teachers learn to evaluate and integrate AI systems appropriately](ongoing-teacher-pd-for-ai-evaluation-integration.md)
+- [Prevent AI-assisted plagiarism through student education, signed declarations, draft submissions, clear guidelines, and close monitoring](educate-and-monitor-to-prevent-ai-plagiarism.md)
 
 ## Examples
 -

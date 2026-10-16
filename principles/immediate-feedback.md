@@ -26,7 +26,7 @@ sources:
 # Immediate Feedback
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (8 for, 12 mixed) · 28 studies (9 review, 7 causal, 5 qualitative, 4 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 3 of 28 report an effect size · 14 claims rest on one study
+> **Evidence** · 21 claims (9 for, 12 mixed) · 29 studies (10 review, 7 causal, 5 qualitative, 4 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 3 of 29 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -110,6 +110,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Thematic analysis of open responses surfaced four themes: immediacy as core value, calibrated trust, pinpointing the mistake, and progress and control](../claims/four-qualitative-themes-genai-practice-feedback.md) [+W] — attached 2026-10-11 from Lili Chen et al. (2026), which proposed "Decouple feedback immediacy from solution verification: keep the human in the loop upstream at answer verification, not at the point of grading".
+- [Immediate feedback reduces multiple-choice lure production on later tests, and the overall positive effect of testing outweighs negative consequences](../claims/feedback-reduces-lure-production.md) [+W] — attached 2026-10-16 from Marsh et al. (2007), which proposed "Design multiple-choice testing to include immediate feedback, a don't-know option with penalties, and varied question formats to reduce the learning of false facts"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

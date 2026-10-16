@@ -15,12 +15,14 @@ sources:
     author: "Leppink, J., Broers, N. J., Imbos, T., van der Vleuten, C. P. M., & Berger, M. P. F."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Instructional method and prior knowledge interact on conceptual understanding of statistics (expertise reversal effect)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The effect of instructional method on conceptual understanding depends on students' prior knowledge level: a statistically significant interaction was found, F(3, 97) = 2.762, with η² = 0.079. [→ Leppink 2012](#leppink-2012)
@@ -31,7 +33,7 @@ sources:
 
 Leppink, J., Broers, N. J., Imbos, T., van der Vleuten, C. P. M., & Berger, M. P. F. (2012). Self-explanation in the domain of statistics: an expertise reversal effect. Higher Education, 63, 771-785. https://doi.org/10.1007/s10734-011-9476-1
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Two-way ANOVA (instructional method × prior knowledge group) on conceptual understanding scores (scale 0-10) in the randomized experiment with first-year bachelor students. The article prints the interaction statistic and g2 = 0.079 (η², in the 0.04-0.13 band) but the authors treat main effects as uninterpretable given the interaction pattern.
 

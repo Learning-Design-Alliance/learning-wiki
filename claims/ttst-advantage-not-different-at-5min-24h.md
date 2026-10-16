@@ -15,12 +15,14 @@ sources:
     author: "Carrier, M., & Pashler, H."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The retrieval benefit holds at both short (5 min) and long (24 h) retention delays
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The presentation condition x testing day interaction was not reliable in Experiments 1 and 2, indicating the TTST advantage did not differ across the 5-min and 24-h tests. [→ Carrier 1992](#carrier-1992)
@@ -31,7 +33,7 @@ sources:
 
 Carrier, M., & Pashler, H. (1992). The influence of retrieval on retention. Memory & Cognition, 20(6), 633-642. https://doi.org/10.3758/bf03202713
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Omnibus interaction test from the ANOVAs in Experiments 1 and 2, in which cued recall was tested after 5 min on Day 1 and after 21-27 h on Day 2. The article reports the interaction was "not reliable (F < 1)" in both experiments, while testing-day main effects showed forgetting.
 

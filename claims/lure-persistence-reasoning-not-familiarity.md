@@ -15,18 +15,22 @@ sources:
     author: "Marsh, E. J., Roediger, H. L., III, Bjork, R. A., & Bjork, E. L."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: marsh-2007-2
     resource: "https://doi.org/10.3758/bf03194051"
     title: "Marsh, E. J., Roediger, H. L., III, Bjork, R. A., & Bjork, E. L. (2007). The memorial consequences of multiple-choice testing. Psychonomic Bulletin & Review, 14(2), 194-199. https://doi.org/10.3758/bf03194051"
     author: "Marsh, E. J., Roediger, H. L., III, Bjork, R. A., & Bjork, E. L."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Persistence of multiple-choice errors is driven by faulty reasoning that integrates the error into knowledge rather than by mere familiarity of lures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q3 i?` Errors that persisted were those endorsed on the initial test; students rarely selected the correct answer first and then produced a lure. [→ Marsh 2007](#marsh-2007)
@@ -38,7 +42,7 @@ sources:
 
 Marsh, E. J., Roediger, H. L., III, Bjork, R. A., & Bjork, E. L. (2007). The memorial consequences of multiple-choice testing. Psychonomic Bulletin & Review, 14(2), 194-199. https://doi.org/10.3758/bf03194051
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Analysis of the relationship between students' answers on the two tests (Butler, Marsh, Goode, & Roediger, 2006; Roediger & Marsh, 2005) showed persistence was limited to previously endorsed lures, which argues against an illusory-truth familiarity account; no effect size is printed.
 
@@ -48,7 +52,7 @@ Analysis of the relationship between students' answers on the two tests (Butler,
 
 Marsh, E. J., Roediger, H. L., III, Bjork, R. A., & Bjork, E. L. (2007). The memorial consequences of multiple-choice testing. Psychonomic Bulletin & Review, 14(2), 194-199. https://doi.org/10.3758/bf03194051
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 In a study (Huelser & Marsh, 2006) where half the subjects explained their answer choices, a coding scheme classified explanations into eight categories; persistence was 15% for guessed errors, 36% for errors reasoned from supporting information, and 67% for errors from personal experience; these are descriptive percentages, not standardized effect sizes.
 

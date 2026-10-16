@@ -15,12 +15,14 @@ sources:
     author: Jowett, S.
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Coach-athlete relationship and coach leadership or behaviours considered together are better predictors of athletes' and coaches' outcomes than either alone
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Recent research indicates that coach-athlete relationships combined with coach leadership, and relationships combined with coach behaviours, are better predictors of athletes' and coaches' outcomes. [→ Jowett 2017](#jowett-2017)
@@ -31,7 +33,7 @@ sources:
 
 Jowett, S. (2017). Coaching Effectiveness: The Coach-Athlete Relationship at its Heart. Current Opinion in Psychology, 16, 154-158. http://dx.doi.org/10.1016/j.copsyc.2017.05.006
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The review reports that research combining relationship quality with coach leadership or coach behaviours found the combined constructs better predict athletes' and coaches' outcomes. It prints no effect sizes or test statistics for this finding.
 

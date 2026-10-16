@@ -15,12 +15,14 @@ sources:
     author: Klaus Krippendorff
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Cohen's kappa exceeds Scott's pi when coders show unequal marginal category preferences, counting those disagreements as agreement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` When two coders exhibit unequal proclivities for the available categories, kappa exceeds pi because it adds the disagreement over marginal frequencies to the measure as agreement. [→ Klaus Krippendorff 2004](#klaus-krippendorff-2004)
@@ -31,7 +33,7 @@ sources:
 
 Klaus Krippendorff. (2004). Reliability in Content Analysis: Some Common Misconceptions and Recommendations. Human Communication Research 30, 3: 411-433. https://astro.temple.edu/~lombard/carman.htm
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 A mathematical and numerical demonstration using three 2-by-2 (here 3-by-3) contingency tables in Figure 3: two tables with identical %-agreement (.460) but different margin distributions show kappa exceeding pi when margins differ, an "uneven distribution of the mismatching categories" that increases predictability, not agreement.
 

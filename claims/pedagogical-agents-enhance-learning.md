@@ -15,12 +15,14 @@ sources:
     author: "W. Lewis Johnson & James C. Lester"
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Pedagogical agents enhance learning compared with learning environments that do not feature agents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A meta-analysis of 43 studies with more than three thousand subjects found statistically significant learning benefits for learning environments featuring pedagogical agents over those without agents. [→ W. Lewis Johnson & James C. Lester 2015](#w-lewis-johnson-james-c-lester-2015)
@@ -31,7 +33,7 @@ sources:
 
 W. Lewis Johnson & James C. Lester. (2015). Face-to-Face Interaction with Pedagogical Agents, Twenty Years Later. Int J Artif Intell Educ. https://doi.org/10.1007/s40593-015-0065-9
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 Narrative summary of the Schroeder et al. (2013) meta-analysis of 43 studies involving more than three thousand subjects, as reported in this article's retrospective section. The review found agents do enhance learning, described as statistically significant, with no printed effect size.
 

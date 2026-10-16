@@ -15,12 +15,14 @@ sources:
     author: Theobald, M.
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # SRL training programs targeting older students and students with lower prior academic achievement show larger effects on resource management strategies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Larger effect sizes for resource management strategies were found in programs targeting older students and students with lower prior academic achievement. [→ Theobald 2021](#theobald-2021)
@@ -31,7 +33,7 @@ sources:
 
 Theobald, M. (2021). Self-Regulated Learning Training Programs Enhance University Students' Academic Performance, Self-Regulated Learning Strategies, and Motivation: A Meta-Analysis. Contemporary Educational Psychology. https://doi.org/10.1016/j.cedpsych.2021.101976
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Moderator analysis of student characteristics across the included studies: "training programs that targeted older students and students with lower prior academic achievement showed larger effect sizes for resource management strategies."
 

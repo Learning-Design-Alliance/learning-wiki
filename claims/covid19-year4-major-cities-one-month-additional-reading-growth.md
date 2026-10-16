@@ -15,12 +15,14 @@ sources:
     author: "Gore, J., Miller, A., Fray, L., Harris, J., & Prieto, E."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Year 4 students in major cities demonstrated one month's additional reading growth in 2020 compared with 2019
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Year 4 students in major cities demonstrated one month's additional growth in reading in 2020 (d = 0.08, p = 0.0472), with no significant differences in mathematics. [→ Gore 2021](#gore-2021)
@@ -31,7 +33,7 @@ sources:
 
 Gore, J., Miller, A., Fray, L., Harris, J., & Prieto, E. (2021). The impact of COVID-19 on student learning in New South Wales primary schools: an empirical study. The Australian Educational Researcher, 48, 605-637. https://doi.org/10.1007/s13384-021-00436-w
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Linear mixed models by location found Year 4 major-city students' 2020 reading growth exceeded 2019 (d = 0.08, 95% CI = 0.00, 0.17, p = 0.0472). The study reports "one month's additional growth" using EEF standards, with no significant mathematics differences.
 

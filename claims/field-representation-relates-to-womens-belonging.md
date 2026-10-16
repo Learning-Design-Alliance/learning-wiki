@@ -15,12 +15,14 @@ sources:
     author: Katherine Rainey, Melissa Dancy, Roslyn Mickelson, Elizabeth Stearns and Stephanie Moller
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Representation in the sub-discipline relates to belonging: women of color in pSTEM report belonging less frequently than white men
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Women of color in pSTEM, where they are highly underrepresented, reported belonging significantly less frequently than white men (Z = 2.17, p ≤ 0.05), and belonging tended to follow patterns of representation. [→ Katherine Rainey 2018](#katherine-rainey-2018)
@@ -31,7 +33,7 @@ sources:
 
 Katherine Rainey, Melissa Dancy, Roslyn Mickelson, Elizabeth Stearns and Stephanie Moller. (2018). Race and gender differences in how sense of belonging influences decisions to major in STEM. International Journal of STEM Education 5:10. https://doi.org/10.1186/s40594-018-0115-6
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Comparison of belonging by sub-discipline (biology vs physical sciences) among women, disaggregated by race, with men not disaggregated. The article states "Due to small n, comparisons between groups should be made with caution" and notes a general tendency for belonging to follow representation patterns.
 

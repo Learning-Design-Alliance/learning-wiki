@@ -15,12 +15,14 @@ sources:
     author: Ahmad Tarmizi, Rohani
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # When guidance was presented in a unitary (integrated) format, worked examples were superior to conventional problems (Experiments 4 and 5)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` With guidance presented in a unitary format, students learning from worked examples outperformed students solving conventional problems. [→ Ahmad Tarmizi 1991](#ahmad-tarmizi-1991)
@@ -31,7 +33,7 @@ sources:
 
 Ahmad Tarmizi, Rohani. (1991). Guidance During Mathematical Problem Solving. Doctoral thesis, University of New South Wales. http://hdl.handle.net/1959.4/69310
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Experiments 4 and 5 with school students learning circle geometry, reported in the thesis abstract. Presenting text and diagram in a unitary format "did not split attention", and the thesis reports a superiority of worked examples over conventional problems under this format. No effect size is printed.
 

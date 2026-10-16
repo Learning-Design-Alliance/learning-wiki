@@ -15,12 +15,14 @@ sources:
     author: Belland Brian R., Kim ChanMin, Hannafin Michael J.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Meaningful choice about learning tasks increases interest, but only under boundary conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Providing meaningful choice can increase interest, though the effect may be limited to students who already have good interest and situations with sufficient prior knowledge about the choices. [→ Belland Brian R. 2013](#belland-brian-r-2013)
@@ -31,7 +33,7 @@ sources:
 
 Belland Brian R., Kim ChanMin, Hannafin Michael J. (2013). A Framework for Designing Scaffolds That Improve Motivation and Cognition. Educational Psychologist. https://doi.org/10.1080/00461520.2013.838920
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Narrative review attribution to Palmer (2009), Patall (2013), and Pintrich and Schunk (1996); the underlying studies were not read. The review reports that providing meaningful choice about learning tasks can increase interest, under the two stated boundary conditions. No effect size is printed.
 

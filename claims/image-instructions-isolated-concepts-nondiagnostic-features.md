@@ -15,12 +15,14 @@ sources:
     author: Goldstone, R. L.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Imagery instructions yield more isolated concepts than discriminating-feature instructions, as shown by greater influence of nondiagnostic features on categorization accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The influence of nondiagnostic features on categorization accuracy was greater for subjects given image instructions than for those given discriminate instructions. [→ Goldstone 1996](#goldstone-1996)
@@ -32,7 +34,7 @@ sources:
 
 Goldstone, R. L. (1996). Isolated and interrelated concepts. Memory & Cognition, 24 (5), 608-628. https://doi.org/10.3758/bf03201087
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Categorization experiment: 28 undergraduates (image vs. discriminate instruction groups) categorized 600 distortions of two prototypes on Macintosh SE computers. A three-way interaction of diagnosticity, features changed, and instructions was significant; the description reported "nondiagnostic features were more important" under image instructions.
 

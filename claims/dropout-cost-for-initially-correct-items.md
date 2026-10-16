@@ -15,18 +15,22 @@ sources:
     author: "Pyc, M. A., & Rawson, K. A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: pyc-2007-2
     resource: "https://link.springer.com/article/10.3758/BF03193420"
     title: "Pyc, M. A., & Rawson, K. A. (2007). Examining the efficiency of schedules of distributed retrieval practice. Memory & Cognition, 35(8), 1917-1927. https://link.springer.com/article/10.3758/BF03193420"
     author: "Pyc, M. A., & Rawson, K. A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Dropping initially correct items incurred a cost relative to a long-ISI conventional schedule in Experiment 2, but this was offset by gains on initially incorrect items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Final test performance for initially correct items was significantly lower in the 23-drop group than in the 23-23-23 group. [→ Pyc 2007](#pyc-2007)
@@ -38,7 +42,7 @@ sources:
 
 Pyc, M. A., & Rawson, K. A. (2007). Examining the efficiency of schedules of distributed retrieval practice. Memory & Cognition, 35(8), 1917-1927. https://link.springer.com/article/10.3758/BF03193420
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 2 conditional analyses, t(41) = 2.07, p = .044; the authors note "the 23-drop group incurred some cost from discontinuing the practice of initially recalled items." A trend favored 23-drop over 5-5-5, t(41) = 1.83, p = .075.
 
@@ -48,7 +52,7 @@ Experiment 2 conditional analyses, t(41) = 2.07, p = .044; the authors note "the
 
 Pyc, M. A., & Rawson, K. A. (2007). Examining the efficiency of schedules of distributed retrieval practice. Memory & Cognition, 35(8), 1917-1927. https://link.springer.com/article/10.3758/BF03193420
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 1 conditional analyses (Table 1): 23-drop and 5-drop-after-2 groups, all ts < 1.2; the 5-drop group, by contrast, showed significantly lower performance for initially correct items (t(61) = 6.21 and t(61) = 4.72, p < .001).
 

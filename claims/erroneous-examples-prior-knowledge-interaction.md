@@ -15,12 +15,14 @@ sources:
     author: "Tamara van Gog & Nikol Rummel"
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Erroneous examples benefit learners with more prior knowledge, while correct-only solutions better serve low-prior-knowledge learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Große and Renkl found an interaction with prior knowledge: correct plus incorrect solutions fostered far transfer for students with more prior knowledge, whereas correct solutions only worked better for students with low prior knowledge. [→ Tamara van Gog & Nikol Rummel 2010](#tamara-van-gog-nikol-rummel-2010)
@@ -31,7 +33,7 @@ sources:
 
 Tamara van Gog & Nikol Rummel. (2010). Example-Based Learning: Integrating Cognitive and Social-Cognitive Research Perspectives. Educational Psychology Review. https://doi.org/10.1007/s10648-010-9134-7
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Review's account of a single experiment on worked examples in probability calculation comparing correct-and-incorrect versus correct-only solutions; the interaction with prior knowledge reached "far transfer performance". Reported as the review attributes it; design details beyond what is printed are not described.
 

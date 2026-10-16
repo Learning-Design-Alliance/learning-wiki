@@ -15,12 +15,14 @@ sources:
     author: Weiqi Xu and Fan Ouyang
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # AI applications in STEM education foster positive affective perception, including attitude, interest, and motivation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A majority of reviewed studies (N = 17) revealed effects of AI technologies on students' affective perception such as attitude, interest, and motivation, with students showing satisfaction and positive attitudes. [→ Weiqi Xu and Fan Ouyang 2022](#weiqi-xu-and-fan-ouyang-2022)
@@ -31,7 +33,7 @@ sources:
 
 Weiqi Xu and Fan Ouyang. (2022). The application of AI technologies in STEM education: a systematic review from 2011 to 2021. International Journal of STEM Education. https://doi.org/10.1186/s40594-022-00377-5
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's synthesis reports that 17 studies examined affective outcomes. Students showed satisfaction and positive attitude towards the integration of AI technologies and STEM education, and AI applications aroused students' interests and motivation, e.g., positive feedback towards learning analytics in programming classes and a personalized learning environment engaging engineering students with strong interest and motivation.
 

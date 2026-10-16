@@ -15,12 +15,14 @@ sources:
     author: Lakens, D.
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Cohen's small, medium, and large effect size benchmarks are arbitrary and should not be interpreted rigidly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` The conventional d = 0.2, 0.5, 0.8 benchmarks should only be used for extremely novel findings; small effect sizes can have large practical consequences, and effect sizes are best interpreted against related effects in the literature. [→ Lakens 2013](#lakens-2013)
@@ -31,7 +33,7 @@ sources:
 
 Lakens, D. (2013). Calculating and reporting effect sizes to facilitate cumulative science: a practical primer for t-tests and ANOVAs. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2013.00863
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Interpretive argument in the section on interpreting Cohen's d, citing Thompson (2007) and Cohen (1988). The article gives no empirical test of benchmark use; it states small effects can have large consequences, citing a suicide-rate reduction at d = 0.1, and notes there are no clear recommendations for interpretation (Fidler, 2002).
 

@@ -15,12 +15,14 @@ sources:
     author: "Fan, Y., van der Graaf, J., Lim, L., Raković, M., Singh, S., Kilgour, J., Moore, J., Molenaar, I., Bannert, M., & Gašević, D."
     q: 2
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # The theoretical framework categorised SRL into four main categories (Metacognition, Low Cognition, High Cognition, Other) and eight subcategories
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
 `q3 i?` The theoretical framework used four main categories and eight subcategories to code SRL processes. [→ Fan 2022](#fan-2022)
@@ -31,7 +33,7 @@ sources:
 
 Fan, Y., van der Graaf, J., Lim, L., Raković, M., Singh, S., Kilgour, J., Moore, J., Molenaar, I., Bannert, M., & Gašević, D. (2022). Towards investigating the validity of measurement of self-regulated learning based on trace data. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09291-1
 
-`q2 · i?`
+`q2 · i?` · `design · r2`
 
 The theoretical framework (Table 1) contained four main categories and eight subcategories: Metacognition (Orientation, Planning, Monitoring, Evaluation), Low Cognition (First-reading, Re-reading), High Cognition (Elaboration/Organisation), and Other (Motivational/Procedural). This framework served to map action patterns to SRL processes.
 

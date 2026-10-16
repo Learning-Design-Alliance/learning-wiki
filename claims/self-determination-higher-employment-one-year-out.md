@@ -15,12 +15,14 @@ sources:
     author: Michael Wehmeyer, Michelle Schwartz
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Former students in the high self-determination group were more likely to be employed for pay about one year after leaving school than those in the low self-determination group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` For the group as a whole 60% of students were working for pay, and employment differed significantly by self-determination group. [→ Michael Wehmeyer 1997](#michael-wehmeyer-1997)
@@ -31,7 +33,7 @@ sources:
 
 Michael Wehmeyer, Michelle Schwartz. (1997). Self-Determination and Positive Adult Outcomes: A Follow-Up Study of Youth with Mental Retardation or Learning Disabilities. Exceptional Children, 63(2). https://eric.ed.gov/?q=Self-Determination+and+Positive+Adult+Outcomes+Wehmeyer+Schwartz
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Follow-up survey of 80 former students with cognitive disabilities, with chi-square analyses comparing high and low self-determination groups about one year after high school exit. "There were significant differences between self -determination groups on this vari able (x2 = 6.75, p = .009)." No effect size printed.
 

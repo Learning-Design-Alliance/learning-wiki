@@ -41,7 +41,10 @@ As concrete revolutionary moves, the article recommends broadening beyond deskto
 - learning in authentic contexts
 
 ## Related Strategies
-- 
+
+- [Advance AI-motivation research through theory-driven, pedagogically explicit, longitudinal designs covering broader motivational constructs](future-ai-motivation-research-recommendations.md)
+- [Adopt unified KPIs and rigorously assess learner diversity, recommender fairness, and long-term engagement when evaluating ITS](unified-kpis-longitudinal-its-evaluation.md)
+- [Future AI-SRL research should broaden search strategies, include educators and younger learners, address motivation, and apply longitudinal designs](ai-srl-future-research-recommendations.md)
 
 ## Examples
 -

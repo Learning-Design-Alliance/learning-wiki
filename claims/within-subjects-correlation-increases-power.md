@@ -15,12 +15,14 @@ sources:
     author: Lakens, D.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Repeated-measures designs with strongly correlated observations yield dramatically higher statistical power than between-subjects designs for the same mean difference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` A priori power analyses on the same two sets of observations (Mdiff = 1) require an estimated sample size of 44 participants in a between-subjects analysis but only 8 participants when analyzed within-subjects with r = 0.726. [→ Lakens 2013](#lakens-2013)
@@ -31,7 +33,7 @@ sources:
 
 Lakens, D. (2013). Calculating and reporting effect sizes to facilitate cumulative science: a practical primer for t-tests and ANOVAs. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2013.00863
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Worked numerical example in the illustrative example section (artificial movie-evaluation data, α = 0.05, power = 0.95): dependent t-test t(9) = 4.74, p = 0.001, Cohen's dz = 1.50 vs independent t-test t(18) = 2.52. The article reports "a sample size estimate of 8 participants" for the within design versus 44 for between.
 

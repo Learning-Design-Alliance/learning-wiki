@@ -10,15 +10,17 @@ generated:
 evidence_strength: moderate
 sources:
   - id: laczko-kerr-2002
-    title: growth-1
+    title: Laczko-Kerr 2002
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Students of under-certified teachers made about 20% less academic growth per year than students of regularly certified teachers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Students of under-certified teachers make about 20% less academic growth per year than students of teachers with regular certification. [→ growth-1](#laczko-kerr-2002)
@@ -29,7 +31,7 @@ sources:
 
 Laczko-Kerr, I., & Berliner, D. C. (2002, September 6). The Effectiveness of "Teach for America" and Other Under-certified Teachers on Student Academic Achievement: A Case of Harmful Public Policy. Education Policy Analysis Archives, 10(37). http://epaa.asu.edu/epaa/v10n37/
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 From the same matched-pair study of 109 teacher pairs in five low-income Arizona districts, comparing annual academic growth of students of under-certified versus regularly certified teachers. The printed magnitude is a percentage of growth per year, not a standardized effect size, so no standardized impact is coded.
 

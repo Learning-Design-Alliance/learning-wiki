@@ -15,18 +15,22 @@ sources:
     author: Marcel V. J. Veenman
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: marcel-v-j-veenman-2011-2
     resource: "https://doi.org/10.1007/s11409-011-9080-x"
     title: "Marcel V. J. Veenman. (2011). Alternative assessment of strategy use with self-report instruments: a discussion. Metacognition and Learning. https://doi.org/10.1007/s11409-011-9080-x"
     author: Marcel V. J. Veenman
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Within-method convergence (RSAT coding vs human coding; G vs d') indicates stability, not construct validity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Magliano et al. (this issue), correlations of .44 to .70 between RSAT coding and human coding of the same answers inform about stability of measures when replacing human coding, but not about the construct validity of RSAT indirect questioning. [→ Marcel V. J. Veenman 2011](#marcel-v-j-veenman-2011)
@@ -38,7 +42,7 @@ sources:
 
 Marcel V. J. Veenman. (2011). Alternative assessment of strategy use with self-report instruments: a discussion. Metacognition and Learning. https://doi.org/10.1007/s11409-011-9080-x
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Discussion of within-method assessments in which both RSAT coding and human coding were carried out on the same answers to indirect questions. The article compares this to comparing a t-test with ANOVA on the same data, citing Veenman (2005) and Beijk (1977).
 
@@ -48,7 +52,7 @@ Discussion of within-method assessments in which both RSAT coding and human codi
 
 Marcel V. J. Veenman. (2011). Alternative assessment of strategy use with self-report instruments: a discussion. Metacognition and Learning. https://doi.org/10.1007/s11409-011-9080-x
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Discussion of within-method convergence computed from the same confidence ratings and knowledge-test scores. The article adds that for Winne and Muis, external validity cannot be determined because the performance measure is incorporated in the calculation of calibration scores.
 

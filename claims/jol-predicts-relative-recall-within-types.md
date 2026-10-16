@@ -15,12 +15,14 @@ sources:
     author: "Zechmeister, E. B., & Shaughnessy, J. J."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Across item types, items given high recall-likelihood ratings are recalled with greater probability than items given lower ratings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` For singles, MP items, and DP items alike, items rated high (6-7) were recalled more often than items rated low or intermediate. [→ Zechmeister 1980](#zechmeister-1980)
@@ -31,7 +33,7 @@ sources:
 
 Zechmeister, E. B., & Shaughnessy, J. J. (1980). When you know that you know and when you think that you know but you don't. Bulletin of the Psychonomic Society, 15(1), 41-44. https://doi.org/10.3758/bf03329756
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 A final analysis of the same experiment examined recall as a function of rating level, reporting proportions for low (1-2), intermediate (3-5), and high (6-7) ratings (e.g., singles .33/.35/.67; DP .38/.47/.73), which the authors take as "a similar ability to identify those items that were most likely to be recalled".
 

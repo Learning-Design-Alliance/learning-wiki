@@ -15,18 +15,22 @@ sources:
     author: "Bloemer, W., Day, S., & Swan, K."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: bloemer-2017-2
     resource: "https://doi.org/10.24059/olj.v21i3.1233"
     title: "Bloemer, W., Day, S., & Swan, K. (2017). Gap analysis: An innovative look at gateway courses and student retention. Online Learning, 21(3), 5-14. https://doi.org/10.24059/olj.v21i3.1233"
     author: "Bloemer, W., Day, S., & Swan, K."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # First-semester transfer students taking one general education course persisted at rates 15-20% lower than similar non-takers, an effect absent when the course was taken in a later term
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Transfer students, whether online or on-ground, taking the course in their first term were 15-20% less likely to persist than similar students who did not take it. [→ Bloemer 2017](#bloemer-2017)
@@ -38,7 +42,7 @@ sources:
 
 Bloemer, W., Day, S., & Swan, K. (2017). Gap analysis: An innovative look at gateway courses and student retention. Online Learning, 21(3), 5-14. https://doi.org/10.24059/olj.v21i3.1233
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 A persistence-gap analysis of four years of student records broke persistence differences down by Student Type and academic-life stage, comparing takers of the course with similar non-takers. On-ground transfers showed -18.9% and online transfers -15.0% in first term; "First semester transfer students were less likely to persist, by 15-20%."
 
@@ -48,7 +52,7 @@ A persistence-gap analysis of four years of student records broke persistence di
 
 Bloemer, W., Day, S., & Swan, K. (2017). Gap analysis: An innovative look at gateway courses and student retention. Online Learning, 21(3), 5-14. https://doi.org/10.24059/olj.v21i3.1233
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 The same persistence-gap analysis by student type and stage found that in later stages transfer students' persistence gaps were near zero or positive (e.g., second term 0.3% and 5.9%); "If transfer students took the same course in a later term, there were virtually no problems with persistence."
 

@@ -59,10 +59,12 @@ Learning menus operationalize differentiation by pairing teacher-designed tasks 
 6. Debrief the choices themselves — asking learners to justify their selection builds metacognition and improves future menu use.
 
 ## Related Strategies
+
 - [Choice Boards](../elements/choice-boards.md) — the most common visual format for a learning menu
 - [Tiered Assignments](tiered-assignments.md) — differentiation by complexity; menus can be tiered within or across options
 - [Jigsaw](../elements/jigsaw.md) — an alternative structure for distributing varied tasks across learners
 - [Learning Contracts](../elements/learning-contracts.md) — a more individualized version of the same autonomy-with-accountability bargain
+- [Let students choose the complexity level of the LLM feedback](student-selected-feedback-complexity-level.md)
 
 ## Examples
 - **Tiered product menu in a history unit** — all students address the same essential question; options are a written analysis, a narrated documentary segment, or a structured debate brief, each scored with the same rubric.

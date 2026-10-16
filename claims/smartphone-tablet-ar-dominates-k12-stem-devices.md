@@ -15,12 +15,14 @@ sources:
     author: Haozhe Jiang, Deqi Zhu, Ritesh Chugh, Darren Turnbull, Wu Jin
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Non-immersive devices, especially smartphone/tablet-based AR, dominated VR/AR-supported K-12 STEM studies; immersive AR was rarely used
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Non-immersive devices were used in 96 of the 117 reviewed studies versus 28 studies using immersive devices; smartphone/tablet-based AR was the most used device (42 studies), and AR head-mounted displays were used in only three studies. [→ Haozhe Jiang 2025](#haozhe-jiang-2025)
@@ -31,7 +33,7 @@ sources:
 
 Haozhe Jiang, Deqi Zhu, Ritesh Chugh, Darren Turnbull, Wu Jin. (2025). Virtual reality and augmented reality-supported K-12 STEM learning: trends, advantages and challenges. Education and Information Technologies. https://doi.org/10.1007/s10639-024-13210-z
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Device categorization of the reviewed studies (Fig. 5). The review reports 96 non-immersive versus 28 immersive studies, 42 studies using smartphone/tablet-based AR whose use "significantly increased over the last five years", and very few immersive AR uses.
 

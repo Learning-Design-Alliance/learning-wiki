@@ -15,12 +15,14 @@ sources:
     author: Saif Alneyadi and Yousef Wardat
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # ChatGPT-enhanced instruction produced significantly higher overall post-test achievement in Grade 12 Quantum Theory than traditional teaching, with a large effect size (η² > 0.14)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` In a quasi-experiment with 55 experimental and 57 control students, the ChatGPT group achieved significantly higher post-test scores than the control group on overall student achievement, with printed η² values the authors describe as large (exceeding 0.14). [→ Saif Alneyadi and Yousef Wardat 2024](#saif-alneyadi-and-yousef-wardat-2024)
@@ -31,7 +33,7 @@ sources:
 
 Saif Alneyadi and Yousef Wardat. (2024). Integrating ChatGPT in Grade 12 Quantum Theory Education: An Exploratory Study at Emirate School (UAE). International Journal of Information and Education Technology, Vol. 14, No. 3. https://doi.org/10.18178/ijiet.2024.14.3.2061
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Quasi-experimental MANCOVA comparing 55 ChatGPT-enhanced and 57 control students. The article reports significant differences at α = 0.05 and states "The effect size was found to exceed 0.14, which indicates a large effect size" for overall achievement and each sub-skill.
 

@@ -15,12 +15,14 @@ sources:
     author: Weiqi Xu and Fan Ouyang
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Most reviewed studies reported significantly positive AI effects on STEM learning performance, with two null results
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Of 22 studies reporting learning performance effects, 20 showed significantly positive influence of AI techniques on students' learning performances, while two reported insignificant results. [→ Weiqi Xu and Fan Ouyang 2022](#weiqi-xu-and-fan-ouyang-2022)
@@ -31,7 +33,7 @@ sources:
 
 Weiqi Xu and Fan Ouyang. (2022). The application of AI technologies in STEM education: a systematic review from 2011 to 2021. International Journal of STEM Education. https://doi.org/10.1186/s40594-022-00377-5
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's synthesis of the 22 studies reporting learning performance effects found that most showed significantly positive influence of AI techniques on the improvement of students' learning performances (N = 20). Examples include a context-aware ubiquitous learning system in geosciences and a cluster randomized study of My Math Academy showing significant improvement of learning gains, especially for moderate-level students.
 

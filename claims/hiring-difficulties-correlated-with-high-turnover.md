@@ -15,12 +15,14 @@ sources:
     author: Ingersoll, R. M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Schools reporting hiring difficulties are almost twice as likely to have above-average teacher turnover rates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Schools that report difficulties filling their openings are almost twice as likely to have above-average turnover rates compared to schools reporting no difficulties. [→ Ingersoll 2001](#ingersoll-2001)
@@ -31,7 +33,7 @@ sources:
 
 Ingersoll, R. M. (2001). Teacher Turnover and Teacher Shortages: An Organizational Analysis. American Educational Research Journal, 38(3), 499-534. https://eric.ed.gov/?q=Teacher+Turnover+and+Teacher+Shortages+Ingersoll
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Analysis of SASS data linking school recruitment difficulties to retention. Although most schools do not experience hiring difficulty, those that do were "almost twice as likely to have above-average turnover rates," linking staffing problems to turnover.
 

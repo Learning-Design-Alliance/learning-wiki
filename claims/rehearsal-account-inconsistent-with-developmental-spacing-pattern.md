@@ -15,12 +15,14 @@ sources:
     author: Thomas C. Toppino and William DiGeorge
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # A rehearsal-based deficient-processing account cannot explain the developmental emergence of the spacing effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The rehearsal-amount theory predicts no spacing effect for either preschoolers or first-graders, contradicting the observed first-grader effect. [→ Thomas C. Toppino and William DiGeorge 1984](#thomas-c-toppino-and-william-digeorge-1984)
@@ -31,7 +33,7 @@ sources:
 
 Thomas C. Toppino and William DiGeorge. (1984). The spacing effect in free recall emerges with development. Memory & Cognition, 12(2), 118-122. https://scholar.google.com/scholar?q=The+spacing+effect+in+free+recall+emerges+with+development+Memory+%26+Cognition+1984
 
-`q1 · i?`
+`q1 · i?` · `causal · r2`
 
 A theoretical argument in the general discussion: because first-graders rehearse only one item at a time (the most recently presented), massed and spaced repetitions would receive equal rehearsal of the first presentation, so "we should have obtained no spacing effect for either preschool or first-grade children."
 

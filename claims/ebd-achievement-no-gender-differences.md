@@ -13,12 +13,14 @@ sources:
     title: Nelson 2004
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # No gender differences appeared in the academic achievement deficits of students with E/BD
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The study found no apparent gender differences in the academic achievement of students with E/BD. [→ Nelson 2004](#nelson-2004)
@@ -29,7 +31,7 @@ sources:
 
 Nelson, J.R., Benner, G.J., Lane, K.L. & Smith, B.W. (2004) Academic Achievement of K-12 Students With Emotional and Behavioral Disorders. Exceptional Children, 71 (1), 59-73. https://hdl.handle.net/1808/10968
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Gender-comparison analysis in the cross-sectional study of 155 K-12 students with E/BD; the article reports "There appeared to be no gender differences." No test statistic or effect size is printed, so equivalence was not established by a reported effect size.
 

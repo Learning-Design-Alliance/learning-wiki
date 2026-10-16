@@ -15,18 +15,22 @@ sources:
     author: Marcel V. J. Veenman
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
   - id: marcel-v-j-veenman-2011-2
     resource: "https://doi.org/10.1007/s11409-011-9080-x"
     title: "Marcel V. J. Veenman. (2011). Alternative assessment of strategy use with self-report instruments: a discussion. Metacognition and Learning. https://doi.org/10.1007/s11409-011-9080-x"
     author: Marcel V. J. Veenman
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Questioning learners prompts and may distort retrospective self-reports of strategy use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1` argument or single case
+> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Retrospective questions may prompt recall of strategy use that never occurred, elicit socially desirable answers and incorrect labeling, and induce overconfidence (e.g., learners taking paraphrasing for summarizing). [→ Marcel V. J. Veenman 2011](#marcel-v-j-veenman-2011)
@@ -38,7 +42,7 @@ sources:
 
 Marcel V. J. Veenman. (2011). Alternative assessment of strategy use with self-report instruments: a discussion. Metacognition and Learning. https://doi.org/10.1007/s11409-011-9080-x
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Theoretical argument about the prompting effect in off-line assessment. The article adds that "questions may evoke an illusion of familiarity with the strategies that are asked after" and that incorrect labeling occurs when declarative knowledge of strategies is poor.
 
@@ -48,7 +52,7 @@ Theoretical argument about the prompting effect in off-line assessment. The arti
 
 Marcel V. J. Veenman. (2011). Alternative assessment of strategy use with self-report instruments: a discussion. Metacognition and Learning. https://doi.org/10.1007/s11409-011-9080-x
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Theoretical argument that prompting effects are uneven across learners, so self-reports do not merely overestimate strategy use uniformly. The article states this prompting effect might have affected the retrospective questionnaires of Schellings and of Bräten and Strømsø.
 

@@ -15,12 +15,14 @@ sources:
     author: Marcel V. J. Veenman
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Schellings' questionnaire-thinking-aloud convergent correlation of .51 rests on a small sample and is questionable against other studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Schellings (this issue) found a non-significant correlation of .51 between questionnaire and thinking-aloud scores, based on N=16, and its convergence with other studies' correlations of −.07 to .42 is doubtful. [→ Marcel V. J. Veenman 2011](#marcel-v-j-veenman-2011)
@@ -31,7 +33,7 @@ sources:
 
 Marcel V. J. Veenman. (2011). Alternative assessment of strategy use with self-report instruments: a discussion. Metacognition and Learning. https://doi.org/10.1007/s11409-011-9080-x
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Discussion of a convergent-validity validation study comparing a task-specific questionnaire with thinking-aloud protocols of text studying. The article also notes reliabilities for Schellings' subscales were remarkably low and comprehension was not assessed, leaving external validity indeterminate.
 

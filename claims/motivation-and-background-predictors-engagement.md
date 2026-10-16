@@ -15,12 +15,14 @@ sources:
     author: "Gasiewski, J. A., Eagan, M. K., Garcia, G. A., Hurtado, S., & Chang, M. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Pre-med aspiration, excitement about learning, and competitiveness each predict higher engagement; gender, race, and most pre-college measures do not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Students aspiring to a medical degree, those who felt excited about learning new concepts, and those rating themselves more competitive reported significantly higher engagement (all p < 0.05 or stronger). [→ Gasiewski 2012](#gasiewski-2012)
@@ -31,7 +33,7 @@ sources:
 
 Gasiewski, J. A., Eagan, M. K., Garcia, G. A., Hurtado, S., & Chang, M. J. (2012). From Gatekeeping to Engagement: A Multicontextual, Mixed Method Study of Student Academic Engagement in Introductory STEM Courses. Research in Higher Education, 53, 229–261. https://doi.org/10.1007/s11162-011-9247-y
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 HLM results (Table 3) show "Frequency: Felt excited about learning new concepts 0.08 0.01 ***"; the authors report excitement absorbed the predictive power of personal interest, supporting an intrinsic-motivation account. Degree aspiration: medical doctorate (0.05, SE 0.02) and competitiveness (0.04, SE 0.01) were also significant.
 

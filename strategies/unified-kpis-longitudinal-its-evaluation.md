@@ -42,6 +42,7 @@ The review recommends that future ITS research strengthen its empirical foundati
 - [Future AI-SRL research should broaden search strategies, include educators and younger learners, address motivation, and apply longitudinal designs](ai-srl-future-research-recommendations.md)
 - [Adopt more precise terminology such as digital personalized learning (DPL) or personalized adaptive learning, and pursue rigorous longitudinal research with younger learners](future-research-precise-pl-terminology-dpl.md)
 - [Adopt standardized reporting protocols for AR enhanced analytics studies and extend analytics into broader XR (VR/MR) contexts](standardized-reporting-protocols-ar-analytics.md)
+- [Diversify AIED: use diverse technologies, address big problems, and reuse existing resources rather than reinventing content](aied-diversify-technologies-big-problems-existing-resources.md)
 
 ## Examples
 -

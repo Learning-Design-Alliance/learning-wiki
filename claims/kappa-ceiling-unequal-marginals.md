@@ -15,12 +15,14 @@ sources:
     author: Klaus Krippendorff
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Kappa cannot reach 1.000 when coders' marginal distributions differ, being bounded by the margins even at maximal agreement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In data with unequal marginal frequencies, kappa has a maximum well below 1.000 even when agreement is as large as the margins allow. [→ Klaus Krippendorff 2004](#klaus-krippendorff-2004)
@@ -31,7 +33,7 @@ sources:
 
 Klaus Krippendorff. (2004). Reliability in Content Analysis: Some Common Misconceptions and Recommendations. Human Communication Research 30, 3: 411-433. https://astro.temple.edu/~lombard/carman.htm
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Numerical demonstration in the right-hand table of Figure 3: at the largest agreement possible under the given margins, kappa's ceiling is .506, while Benini's beta registers the condition as 1.000. The author notes Cohen (1960) and Brennan and Prediger (1981) had observed this drawback.
 

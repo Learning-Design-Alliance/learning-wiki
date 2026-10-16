@@ -15,12 +15,14 @@ sources:
     author: Gershenson, S.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # No statistically significant summer gap in children's reading time by parental education in the APSCC
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The estimated ten-minute summer reading gap between children of college-educated parents and parents who did not complete high school is not statistically significant. [→ Gershenson 2013](#gershenson-2013)
@@ -31,7 +33,7 @@ sources:
 
 Gershenson, S. (2013). Do summer time-use gaps vary by socioeconomic status? American University. http://www.bls.gov/tus/
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Tobit interaction estimates from APSCC book-reading time. The article reports the estimate as imprecise, possibly due to the small APSCC sample; no effect size is printed, so equivalence was not tested.
 

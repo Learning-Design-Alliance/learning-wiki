@@ -10,15 +10,17 @@ generated:
 evidence_strength: weak
 sources:
   - id: stadler-2021
-    title: alpha-1
+    title: Stadler 2021
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` When a domain knowledge test contains separate items designed for distinct, separable aspects, finding a high alpha coefficient indicates the test is failing its design intent. [→ alpha-1](#stadler-2021)
@@ -29,7 +31,7 @@ sources:
 
 Stadler, Matthias, Michael Sailer, and Frank Fischer. 2021. “Knowledge as a formative construct: a good alpha is not always better.” New Ideas in Psychology 60: 100832. https://doi.org/10.1016/j.newideapsych.2020.100832.
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Analytical argument in the article's section on inadequate selection criteria. Formative indicators need not correlate highly; the article says "correlations among formative indicators should be low enough so that they are not redundant with each other in contributing to the latent construct."
 

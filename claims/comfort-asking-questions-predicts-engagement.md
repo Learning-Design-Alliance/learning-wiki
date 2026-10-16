@@ -15,12 +15,14 @@ sources:
     author: "Gasiewski, J. A., Eagan, M. K., Garcia, G. A., Hurtado, S., & Chang, M. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
 ---
 
 # Feeling comfortable asking questions in class is the strongest classroom-climate predictor of students' behavioral academic engagement in introductory STEM courses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Students who reported feeling comfortable asking questions in their introductory STEM course reported significantly higher behavioral academic engagement (p < 0.001), the largest standardized coefficient among classroom-climate variables. [→ Gasiewski 2012](#gasiewski-2012)
@@ -31,7 +33,7 @@ sources:
 
 Gasiewski, J. A., Eagan, M. K., Garcia, G. A., Hurtado, S., & Chang, M. J. (2012). From Gatekeeping to Engagement: A Multicontextual, Mixed Method Study of Student Academic Engagement in Introductory STEM Courses. Research in Higher Education, 53, 229–261. https://doi.org/10.1007/s11162-011-9247-y
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 HLM analysis of weighted survey data from 2,873 students in 73 introductory STEM courses at 15 institutions predicting the behavioral engagement factor; the Table 3 row shows "Agreement: Felt comfortable asking questions in class 0.22 0.02 ***", significant at p < 0.001.
 

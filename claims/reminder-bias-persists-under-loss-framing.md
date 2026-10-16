@@ -15,12 +15,14 @@ sources:
     author: Lea Fröscher, Ann‑Kathrin Friedrich, Max Berentelg, Curtis Widmer, Sam J. Gilbert and Frank Papenmeier
     q: 3
     i: 2
+    kind: causal
+    rigour: 3
 ---
 
 # Participants still offload more than optimal under loss framing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r3` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Reminder bias under loss framing was significantly greater than zero in Experiment 1 (dz = 0.41) and Experiment 2 (d = 0.25), so loss framing did not achieve fully optimal offloading. [→ Lea Fröscher 2022](#lea-froscher-2022)
@@ -31,7 +33,7 @@ sources:
 
 Lea Fröscher, Ann‑Kathrin Friedrich, Max Berentelg, Curtis Widmer, Sam J. Gilbert and Frank Papenmeier. (2022). Framing cognitive offloading in terms of gains or losses: achieving a more optimal use of reminders. Cognitive Research: Principles and Implications. https://doi.org/10.1186/s41235-022-00416-3
 
-`q3 · i2`
+`q3 · i2` · `causal · r3`
 
 Experiment 1 preregistered one-tailed paired t tests (OIPs vs AIPs) showed the loss-condition reminder bias remained significant, t(77) = 3.60, p < 0.001, dz = 0.41 (printed effect size dz = 0.41, a medium effect); the article states "participants still offloaded more than optimal also under loss framing".
 

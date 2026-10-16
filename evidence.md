@@ -8,33 +8,32 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 16,138 |
-| Evidence entries | 19,179 |
-| Distinct studies | 4,780 |
-| Claims resting on one study | 15,686 (97%) |
+| Claims | 16,128 |
+| Evidence entries | 19,169 |
+| Distinct studies | 4,768 |
+| Claims resting on one study | 15,676 (97%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 875 of 4,780 (18%) |
+| Studies reporting an effect size | 873 of 4,768 (18%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 67 | 504 | 190 | 332 | 1,093 |
-| quant-synthesis | 53 | 105 | 35 | 118 | 311 |
-| review | 60 | 296 | 88 | 125 | 569 |
-| associational | 30 | 557 | 263 | 246 | 1,096 |
-| qualitative | 96 | 253 | 66 | 82 | 497 |
-| design | 51 | 491 | 135 | 30 | 707 |
-| theoretical | 73 | 256 | 58 | 52 | 439 |
-| not yet coded | | | | | 68 |
+| causal | 69 | 520 | 195 | 333 | 1,117 |
+| quant-synthesis | 53 | 107 | 35 | 118 | 313 |
+| review | 63 | 302 | 88 | 125 | 578 |
+| associational | 30 | 563 | 264 | 246 | 1,103 |
+| qualitative | 97 | 253 | 66 | 82 | 498 |
+| design | 51 | 492 | 136 | 30 | 709 |
+| theoretical | 81 | 259 | 58 | 52 | 450 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 704 (15%) | 2,972 (62%) | 986 (21%) | 118 (2%) |
+| 701 (15%) | 2,963 (62%) | 986 (21%) | 118 (2%) |
 
-**Studies per claim:** 0: 0, 1: 15,686, 2: 372, 3: 64, 4 or more: 16.
+**Studies per claim:** 0: 0, 1: 15,676, 2: 372, 3: 64, 4 or more: 16.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -74,7 +73,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 575 pages | 3 | q2–q3 | 0 of 3 |
 | [Prompting learners to self-explain improves understanding and problem solving on …](claims/self-explanation-improves-conceptual-understanding.md) | 475 pages | 4 | q2–q4 | 1 of 4 |
 | [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 395 pages | 2 | q4 | 2 of 2 |
-| [Self-determination theory holds that autonomy support raises intrinsic motivation, and a …](claims/autonomy-supports-intrinsic-motivation.md) | 379 pages | 3 | q1–q4 | 1 of 3 |
+| [Self-determination theory holds that autonomy support raises intrinsic motivation, and a …](claims/autonomy-supports-intrinsic-motivation.md) | 380 pages | 3 | q1–q4 | 1 of 3 |
 | [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 347 pages | 2 | q3–q4 | 1 of 2 |
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 328 pages | 2 | q2 | 0 of 2 |
 | [Self-regulated learning models treat self-monitoring as a core process through which …](claims/self-monitoring-improves-self-regulation.md) | 312 pages | 2 | q3 | 0 of 2 |
@@ -103,13 +102,13 @@ Of the 39 claims cited from 50 or more pages, **6 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-260 claims are cited both ways.
+261 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
 | [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 125 | 81 | 140 | 2 |
 | [Interesting but irrelevant details can impair comprehension and transfer, with effects …](claims/seductive-details-effect.md) | 20 | 15 | 49 | 6 |
-| [Self-determination theory holds that autonomy support raises intrinsic motivation, and a …](claims/autonomy-supports-intrinsic-motivation.md) | 318 | 41 | 19 | 3 |
+| [Self-determination theory holds that autonomy support raises intrinsic motivation, and a …](claims/autonomy-supports-intrinsic-motivation.md) | 318 | 42 | 19 | 3 |
 | [Minimal guidance is less effective for novices than explicit instruction](claims/minimal-guidance-less-effective-for-novices.md) | 24 | 25 | 18 | 3 |
 | [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 491 | 64 | 17 | 3 |
 | [Learning Styles Matching Does Not Improve Learning](claims/learning-styles-matching-does-not-improve-learning.md) | 2 | 1 | 12 | 3 |
@@ -137,14 +136,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 213 | 208 | 22 | 0 |
 | [elements](elements/index.md) | 1,066 | 777 | 2 | 0 |
 | [patterns](patterns/index.md) | 65 | 61 | 23 | 0 |
-| [strategies](strategies/index.md) | 5,724 | 2,560 | 5 | 0 |
+| [strategies](strategies/index.md) | 5,721 | 2,582 | 5 | 0 |
 | [processes](processes/index.md) | 18 | 15 | 6 | 0 |
 | [methods](methods/index.md) | 38 | 22 | 1 | 0 |
 | [theories](theories/index.md) | 1,361 | 908 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 74 | 72 | 31.5 | 0 |
-| [designs](designs/index.md) | 758 | 446 | 1 | 0 |
-| [products](products/index.md) | 1,586 | 1,087 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 449 | 356 | 1 | 0 |
+| [designs](designs/index.md) | 768 | 452 | 1 | 0 |
+| [products](products/index.md) | 1,595 | 1,092 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 454 | 358 | 1 | 0 |
 
 ## Toward pooled estimates
 

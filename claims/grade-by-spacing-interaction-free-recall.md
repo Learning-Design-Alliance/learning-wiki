@@ -15,12 +15,14 @@ sources:
     author: Thomas C. Toppino and William DiGeorge
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Grade level and repetition spacing interact significantly in children's free recall
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A mixed ANOVA on grade level (first-grade vs. preschool) and spacing (massed vs. spaced) found a significant interaction. [→ Thomas C. Toppino and William DiGeorge 1984](#thomas-c-toppino-and-william-digeorge-1984)
@@ -31,7 +33,7 @@ sources:
 
 Thomas C. Toppino and William DiGeorge. (1984). The spacing effect in free recall emerges with development. Memory & Cognition, 12(2), 118-122. https://scholar.google.com/scholar?q=The+spacing+effect+in+free+recall+emerges+with+development+Memory+%26+Cognition+1984
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 A reported footnote analysis of Experiment 2 data found the grade-level by spacing variables "interacted si~ nificantly" (F = 4.65, p < .05), corroborating the planned comparisons showing a spacing effect in first-graders but not preschoolers.
 

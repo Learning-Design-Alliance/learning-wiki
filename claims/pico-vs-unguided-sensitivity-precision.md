@@ -15,12 +15,14 @@ sources:
     author: Mette Brandt Eriksen, PhD; Tove Faber Frandsen, PhD
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # In a randomized crossover trial, PICO searching yielded higher average sensitivity and lower average precision than unguided searching, not statistically significant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · review `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Among 14 residents and 8 specialists in vascular medicine, PICO-guided searching produced higher average sensitivity (13.62 vs 12.27) and lower average precision (3.44 vs 4.02) than unguided searching, though the difference was not statistically significant at p<0.05. [→ Mette Brandt Eriksen 2018](#mette-brandt-eriksen-2018)
@@ -31,7 +33,7 @@ sources:
 
 Mette Brandt Eriksen, PhD; Tove Faber Frandsen, PhD. (2018). The impact of patient, intervention, comparison, outcome (PICO) as a search strategy tool on literature search quality: a systematic review. Journal of the Medical Library Association 106 (4). https://doi.org/10.5195/jmla.2018.345
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 Randomized controlled crossover trial (Hoogendam et al., 2012) with 8 specialists and 14 residents interested in vascular medicine, each performing 5-minute searches on 12 therapeutic questions per condition; sensitivity and precision were calculated against a gold standard from all search output. Table 3 prints PICO averages of 13.62 sensitivity and 3.44 precision versus 12.27 and 4.02 for unguided search.
 

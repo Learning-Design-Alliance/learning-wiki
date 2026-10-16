@@ -15,18 +15,22 @@ sources:
     author: "Bruce M. McLaren & Deanne M. Adams & Richard E. Mayer"
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
   - id: bruce-m-mclaren-deanne-m-adams-richard-e-mayer-2015-2
     resource: "https://doi.org/10.1007/s40593-015-0064-x"
     title: "Bruce M. McLaren & Deanne M. Adams & Richard E. Mayer. (2015). Delayed Learning Effects with Erroneous Examples: a Study of Learning Decimals with a Web-Based Tutor. International Artificial Intelligence in Education Society 2015. https://doi.org/10.1007/s40593-015-0064-x"
     author: "Bruce M. McLaren & Deanne M. Adams & Richard E. Mayer"
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Students like problem solving more than erroneous examples and find its interface easier, though it yields weaker delayed learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` The problem-solving group reported liking the lesson more (d=.21) and finding the interface easier to use (d=.37) than the erroneous examples group. [→ Bruce M. McLaren & Deanne M. Adams & Richard E. Mayer 2015](#bruce-m-mclaren-deanne-m-adams-richard-e-mayer-2015)
@@ -38,7 +42,7 @@ sources:
 
 Bruce M. McLaren & Deanne M. Adams & Richard E. Mayer. (2015). Delayed Learning Effects with Erroneous Examples: a Study of Learning Decimals with a Web-Based Tutor. International Artificial Intelligence in Education Society 2015. https://doi.org/10.1007/s40593-015-0064-x
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 Evaluation questionnaire (four categories, 5-point Likert) after the intervention. "The PS condition students were significantly more likely to report that they liked the lesson" (d=.21); interface ease also favored PS, d=.37, p<.001.
 
@@ -48,7 +52,7 @@ Evaluation questionnaire (four categories, 5-point Likert) after the interventio
 
 Bruce M. McLaren & Deanne M. Adams & Richard E. Mayer. (2015). Delayed Learning Effects with Erroneous Examples: a Study of Learning Decimals with a Web-Based Tutor. International Artificial Intelligence in Education Society 2015. https://doi.org/10.1007/s40593-015-0064-x
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Correlational analysis of the same study: "no significant correlations between students liking ratings" and either immediate or delayed gains. A hierarchical regression also showed no liking × condition interaction.
 

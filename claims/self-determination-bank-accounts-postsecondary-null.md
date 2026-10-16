@@ -15,18 +15,22 @@ sources:
     author: Michael Wehmeyer, Michelle Schwartz
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: michael-wehmeyer-1997-2
     resource: "https://eric.ed.gov/?q=Self-Determination+and+Positive+Adult+Outcomes+Wehmeyer+Schwartz"
     title: "Michael Wehmeyer, Michelle Schwartz. (1997). Self-Determination and Positive Adult Outcomes: A Follow-Up Study of Youth with Mental Retardation or Learning Disabilities. Exceptional Children, 63(2). https://eric.ed.gov/?q=Self-Determination+and+Positive+Adult+Outcomes+Wehmeyer+Schwartz"
     author: Michael Wehmeyer, Michelle Schwartz
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The high self-determination group was more likely to maintain a checking and a savings account, with no significant differences in postsecondary education enrollment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` There were significant differences between low and high self-determination groups on maintaining a checking account and a savings account. [→ Michael Wehmeyer 1997](#michael-wehmeyer-1997)
@@ -38,7 +42,7 @@ sources:
 
 Michael Wehmeyer, Michelle Schwartz. (1997). Self-Determination and Positive Adult Outcomes: A Follow-Up Study of Youth with Mental Retardation or Learning Disabilities. Exceptional Children, 63(2). https://eric.ed.gov/?q=Self-Determination+and+Positive+Adult+Outcomes+Wehmeyer+Schwartz
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Chi-square analyses in the follow-up study of former students with cognitive disabilities; Figure 2 shows the high self-determination group more likely to maintain both account types. No effect size printed.
 
@@ -48,7 +52,7 @@ Chi-square analyses in the follow-up study of former students with cognitive dis
 
 Michael Wehmeyer, Michelle Schwartz. (1997). Self-Determination and Positive Adult Outcomes: A Follow-Up Study of Youth with Mental Retardation or Learning Disabilities. Exceptional Children, 63(2). https://eric.ed.gov/?q=Self-Determination+and+Positive+Adult+Outcomes+Wehmeyer+Schwartz
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Chi-square analyses from the same follow-up study; a null finding with no printed effect size, so equivalence was not tested.
 

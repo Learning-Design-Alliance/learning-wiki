@@ -15,12 +15,14 @@ sources:
     author: Pasana Chularut
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # ESL students taught concept mapping show significantly greater pretest-to-posttest achievement gains than students taught an alternative learning strategy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` For achievement, the concept mapping group showed significantly greater gains from pre-test to post-test than the alternative learning strategy group. [→ Pasana Chularut 2001](#pasana-chularut-2001)
@@ -31,7 +33,7 @@ sources:
 
 Pasana Chularut. (2001). The Influence of Concept Mapping on Achievement, Self-Regulation, and Self-Efficacy in Students of English as a Second Language. Doctoral dissertation, University of Oklahoma. https://eric.ed.gov/?id=ED3004889
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Randomized pretest-posttest control group study of 79 ESL students comparing a concept mapping group and an alternative learning strategy group, analyzed with split-plot ANOVA. The abstract reports "the concept mapping group showed significantly greater gains from pre-test to post-test than the alternative learning strategy group" for achievement.
 

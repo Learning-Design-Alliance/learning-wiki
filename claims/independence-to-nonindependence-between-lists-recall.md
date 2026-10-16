@@ -15,18 +15,22 @@ sources:
     author: "Glenberg, A. M., & Lehmann, T. S."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: glenberg-1980-2
     resource: "https://doi.org/10.3758/bf03213772"
     title: "Glenberg, A. M., & Lehmann, T. S. (1980). Spacing repetitions over 1 week. Memory & Cognition, 8(6), 528-538. https://doi.org/10.3758/bf03213772"
     author: "Glenberg, A. M., & Lehmann, T. S."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Recall of between-lists repeated words matched two-independent-representations predictions at short retention intervals but exceeded independence after long retention intervals
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Predicted recalls under independence (.70, .56, .57 for 0-0, 1-0, 7-0) were almost exactly the same as observed immediate recall. [→ Glenberg 1980](#glenberg-1980)
@@ -38,7 +42,7 @@ sources:
 
 Glenberg, A. M., & Lehmann, T. S. (1980). Spacing repetitions over 1 week. Memory & Cognition, 8(6), 528-538. https://doi.org/10.3758/bf03213772
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Secondary analysis in Experiment 2 testing the independence equation P1 + P2 - P1P2 against observed recall, using once-presented words from each list as estimates of P1 and P2.
 
@@ -48,7 +52,7 @@ Secondary analysis in Experiment 2 testing the independence equation P1 + P2 - P
 
 Glenberg, A. M., & Lehmann, T. S. (1980). Spacing repetitions over 1 week. Memory & Cognition, 8(6), 528-538. https://doi.org/10.3758/bf03213772
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Statistical test of observed minus predicted proportions in Experiment 2's delayed conditions. The authors offer retrieval-based explanations, including a shift from two effective retrieval cues at short retention to one at long retention.
 

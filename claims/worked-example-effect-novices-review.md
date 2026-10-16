@@ -15,12 +15,14 @@ sources:
     author: "Tamara van Gog & Nikol Rummel"
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Studying worked examples is more effective and more efficient than problem solving for novice learners (the worked example effect)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` For novice learners, instruction relying more heavily on studying worked examples than on problem solving yields better learning outcomes with less time and effort during acquisition. [→ Tamara van Gog & Nikol Rummel 2010](#tamara-van-gog-nikol-rummel-2010)
@@ -31,7 +33,7 @@ sources:
 
 Tamara van Gog & Nikol Rummel. (2010). Example-Based Learning: Integrating Cognitive and Social-Cognitive Research Perspectives. Educational Psychology Review. https://doi.org/10.1007/s10648-010-9134-7
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 A narrative review synthesizing worked-example experiments, mostly with highly structured tasks in domains such as algebra, statistics, geometry, and physics. The review attributes the effect to worked examples preventing weak means-ends analysis, stating that better outcomes are "often reached with less investment of time and effort during acquisition".
 

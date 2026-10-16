@@ -15,18 +15,22 @@ sources:
     author: "Gasiewski, J. A., Eagan, M. K., Garcia, G. A., Hurtado, S., & Chang, M. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 3
   - id: gasiewski-2012-2
     resource: "https://doi.org/10.1007/s11162-011-9247-y"
     title: "Gasiewski, J. A., Eagan, M. K., Garcia, G. A., Hurtado, S., & Chang, M. J. (2012). From Gatekeeping to Engagement: A Multicontextual, Mixed Method Study of Student Academic Engagement in Introductory STEM Courses. Research in Higher Education, 53, 229–261. https://doi.org/10.1007/s11162-011-9247-y"
     author: "Gasiewski, J. A., Eagan, M. K., Garcia, G. A., Hurtado, S., & Chang, M. J."
     q: 1
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Perceived collaboration among peers positively predicts academic engagement, but competitive climates can undercut collaboration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1`–`q3`
+> **Evidence** · 1 study (2 entries) · associational `r3` · `q1`–`q3`
 
 ## Subclaims
 `q3 i?` Students who reported feeling collaboration among other students in the course reported significantly higher engagement (p < 0.05). [→ Gasiewski 2012](#gasiewski-2012)
@@ -38,7 +42,7 @@ sources:
 
 Gasiewski, J. A., Eagan, M. K., Garcia, G. A., Hurtado, S., & Chang, M. J. (2012). From Gatekeeping to Engagement: A Multicontextual, Mixed Method Study of Student Academic Engagement in Introductory STEM Courses. Research in Higher Education, 53, 229–261. https://doi.org/10.1007/s11162-011-9247-y
 
-`q3 · i?`
+`q3 · i?` · `associational · r3`
 
 Emotional engagement block of the HLM results (Table 3). The authors interpret that more active learning with peers enhances students' connection and interest in the class.
 
@@ -48,7 +52,7 @@ Emotional engagement block of the HLM results (Table 3). The authors interpret t
 
 Gasiewski, J. A., Eagan, M. K., Garcia, G. A., Hurtado, S., & Chang, M. J. (2012). From Gatekeeping to Engagement: A Multicontextual, Mixed Method Study of Student Academic Engagement in Introductory STEM Courses. Research in Higher Education, 53, 229–261. https://doi.org/10.1007/s11162-011-9247-y
 
-`q1 · i?`
+`q1 · i?` · `qualitative · r3`
 
 Focus-group evidence from 41 groups with 241 students at eight institutions; Celina's quote (Southwestern Private Research University) illustrates students avoiding collaborative learning because of peers' competitiveness.
 

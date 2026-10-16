@@ -42,6 +42,7 @@ The article's first recommendation is to reclaim epistemic labour through assess
 
 - [Require process transparency artefacts: process logs, prompt records, reflective commentaries and oral defences](process-transparency-artefacts-strategy.md)
 - [Teach students to read AI critically and discuss the difference between fluency and thought](teach-critical-reading-of-ai-outputs.md)
+- [Redesign assessments to require critical thinking, originality, interactive activities, and real-time or proctored formats](redesign-assessments-to-resist-chatgpt.md)
 
 ## Examples
 -

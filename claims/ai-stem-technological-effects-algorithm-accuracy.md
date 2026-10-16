@@ -15,12 +15,14 @@ sources:
     author: Weiqi Xu and Fan Ouyang
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Reviewed studies reported good algorithm accuracy and efficiency for AI in STEM, with performance varying by algorithm and granularity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` From the technological perspective, 24 of 63 reviewed articles reported effects such as efficiency of technology and accuracy of algorithm, mainly reporting good efficiency and algorithm accuracy. [→ Weiqi Xu and Fan Ouyang 2022](#weiqi-xu-and-fan-ouyang-2022)
@@ -31,7 +33,7 @@ sources:
 
 Weiqi Xu and Fan Ouyang. (2022). The application of AI technologies in STEM education: a systematic review from 2011 to 2021. International Journal of STEM Education. https://doi.org/10.1186/s40594-022-00377-5
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's synthesis of technological findings covers 24 articles. Examples include AdaBoost.M1 achieving the best performance with the highest accuracy among machine learning algorithms grading open-ended physics questions, ensemble methods (GLMNET) achieving high accuracy where logistic regression performed poorly, and an automated assessment system whose performance degraded when scoring models were built on suites of items rather than individual items.
 

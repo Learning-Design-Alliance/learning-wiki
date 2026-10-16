@@ -10,15 +10,17 @@ generated:
 evidence_strength: moderate
 sources:
   - id: laczko-kerr-2002
-    title: matched-pairs-1
+    title: Laczko-Kerr 2002
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Students of certified teachers outperformed students of under-certified teachers, including TFA teachers, on all three SAT-9 subtests in low-income districts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students of certified teachers out-performed students of under-certified teachers on the reading, mathematics, and language arts subtests of the SAT-9, by about 2 months on a grade equivalent scale. [→ matched-pairs-1](#laczko-kerr-2002)
@@ -29,7 +31,7 @@ sources:
 
 Laczko-Kerr, I., & Berliner, D. C. (2002, September 6). The Effectiveness of "Teach for America" and Other Under-certified Teachers on Student Academic Achievement: A Case of Harmful Public Policy. Education Policy Analysis Archives, 10(37). http://epaa.asu.edu/epaa/v10n37/
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Matched-pair comparison of 109 pairs of recently hired under-certified and certified teachers (from N=293) in five low-income Arizona districts; students all took the mandated state SAT-9 achievement test. The study reports students of certified teachers outperformed students of under-certified teachers "by about 2 months on a grade equivalent scale."
 

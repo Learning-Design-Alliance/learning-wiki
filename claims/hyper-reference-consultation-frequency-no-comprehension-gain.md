@@ -15,12 +15,14 @@ sources:
     author: Yun, J. H.
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Hyper-reference dictionary users consulted vocabulary twice as often as paper-dictionary users, though comprehension did not differ significantly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In Aust, Kelley and Roby's Spanish study, the hyper-reference group looked up vocabulary and references per minute two times more than the paper group, while proposition recall and comprehension did not differ significantly. [→ Yun 2008](#yun-2008)
@@ -31,7 +33,7 @@ sources:
 
 Yun, J. H. (2008). The Effects of Hypertext Glosses on L2 Vocabulary Acquisition: A Meta-Analysis. Doctoral dissertation, University of Kansas. https://kuscholarworks.ku.edu
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r1`
 
 The dissertation reports, citing Aust, Kelley and Roby (1993), a study of 80 fifth-semester Spanish students across four treatments, in which "the hyper-reference group consulted vocabulary and references per minute two times more" than the paper group. The mean number of propositions recalled was not statistically significant between groups.
 

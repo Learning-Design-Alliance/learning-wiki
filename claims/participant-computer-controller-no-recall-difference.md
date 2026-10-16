@@ -15,12 +15,14 @@ sources:
     author: Matthew Jensen Hays, Nate Kornell, and Robert A. Bjork
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Final recall does not differ reliably between participant-controlled and computer-controlled feedback skipping
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Recall was slightly greater when participants controlled skipping (M = .74) than when the computer did (M = .71), a difference that was not reliable. [→ Matthew Jensen Hays 2010](#matthew-jensen-hays-2010)
@@ -31,7 +33,7 @@ sources:
 
 Matthew Jensen Hays, Nate Kornell, and Robert A. Bjork. (2010). The costs and benefits of providing feedback during learning. Psychonomic Bulletin & Review. https://doi.org/10.3758/PBR.17.6.797
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Controller comparison within the skipping-permitted condition of the fixed-time experiment; equivalence was not tested, only a non-significant t test is reported.
 

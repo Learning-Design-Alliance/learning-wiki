@@ -15,12 +15,14 @@ sources:
     author: Pasana Chularut
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # ESL students taught concept mapping show significantly greater gains in self-regulation strategies (self-monitoring and knowledge acquisition strategies) than the alternative strategy group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The concept mapping group showed significantly greater pretest-to-posttest gains in self-monitoring and knowledge acquisition strategies than the alternative learning strategy group. [→ Pasana Chularut 2001](#pasana-chularut-2001)
@@ -31,7 +33,7 @@ sources:
 
 Pasana Chularut. (2001). The Influence of Concept Mapping on Achievement, Self-Regulation, and Self-Efficacy in Students of English as a Second Language. Doctoral dissertation, University of Oklahoma. https://eric.ed.gov/?id=ED3004889
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Same randomized pretest-posttest experiment with 79 ESL students; split-plot and split-plot multivariate analyses of variance were computed. The article reports a statistically significant time-by-method interaction for self-monitoring and knowledge acquisition strategies, with greater gains in the concept mapping group.
 

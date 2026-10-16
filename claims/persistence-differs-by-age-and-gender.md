@@ -10,15 +10,17 @@ generated:
 evidence_strength: moderate
 sources:
   - id: zapata-cáceres-2021
-    title: persistence-1
+    title: Zapata-Cáceres 2021
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Persistence behaviors in the face of challenge differed significantly by age and gender
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Significantly different persistence behaviors in the face of the challenge were observed across age groups and gender. [→ persistence-1](#zapata-caceres-2021)
@@ -29,7 +31,7 @@ sources:
 
 M. Zapata-Cáceres and E. Martín-Barroso, "Applying Game Learning Analytics to a Voluntary Video Game: Intrinsic Motivation, Persistence, and Rewards in Learning to Program at an Early Age," in IEEE Access, vol. 9, pp. 123588-123602, 2021, doi: 10.1109/ACCESS.2021.3110475. https://doi.org/10.1109/access.2021.3110475
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 Game learning analytics over 15 months showed that "significantly different behaviors were observed in the face of the challenge" with respect to persistence. The article names boys in more complex challenges and girls from age 5 onwards as groups needing adapted reinforcement and rewards; no effect sizes are printed.
 

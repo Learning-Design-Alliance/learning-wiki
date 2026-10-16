@@ -13,12 +13,14 @@ sources:
     title: Nelson 2004
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Academic achievement deficits of students with E/BD appear stable across age, and worsen in the case of mathematics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Across age, the achievement deficits of students with E/BD appeared stable, with mathematics deficits appearing to worsen. [→ Nelson 2004](#nelson-2004)
@@ -29,7 +31,7 @@ sources:
 
 Nelson, J.R., Benner, G.J., Lane, K.L. & Smith, B.W. (2004) Academic Achievement of K-12 Students With Emotional and Behavioral Disorders. Exceptional Children, 71 (1), 59-73. https://hdl.handle.net/1808/10968
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Age-comparison analysis in the cross-sectional study of students with E/BD, which the study states "the deficits appeared to be stable or worsen in the case of mathematics across age". No effect size or test statistic is printed in the available text.
 

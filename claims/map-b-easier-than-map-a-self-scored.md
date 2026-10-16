@@ -15,12 +15,14 @@ sources:
     author: Shana K. Carpenter and Harold Pashler
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Map B was self-scored as easier to learn than Map A during the test/study phase
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` First-trial self-scored retrieval success was higher for Map B (82%) than for Map A (73%), and overall success was higher for Map B (87%) than Map A (77%). [→ Shana K. Carpenter and Harold Pashler 2007](#shana-k-carpenter-and-harold-pashler-2007)
@@ -31,7 +33,7 @@ sources:
 
 Shana K. Carpenter and Harold Pashler. (2007). Testing beyond words: Using tests to enhance visuospatial map learning. Psychonomic Bulletin & Review, 14 (3), 474-478. https://doi.org/10.3758/bf03194092
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Secondary analysis of self-scoring during the test/study phase of the map-learning experiment: subjects covertly recalled missing features more successfully for Map B than Map A, both on the first 12 trials, t(48) = 2.11, p < .05, and across all trials, t(48) = 2.54, p < .02. Subjects also completed more test trials for Map B (M = 22.15) than Map A (M = 18.65), but this difference was not significant (t = 1.46).
 

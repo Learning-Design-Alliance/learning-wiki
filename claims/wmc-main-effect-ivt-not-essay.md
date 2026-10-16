@@ -15,18 +15,22 @@ sources:
     author: "Sanchez, C. A., & Wiley, J."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
   - id: sanchez-2006-2
     resource: "https://link.springer.com/journal/13421"
     title: "Sanchez, C. A., & Wiley, J. (2006). An examination of the seductive details effect in terms of working memory capacity. Memory & Cognition, 34(2), 344-355. https://link.springer.com/journal/13421"
     author: "Sanchez, C. A., & Wiley, J."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # WMC shows a main effect on inference verification but not on essay recall
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` High-WMC readers identified correct and incorrect inferences better than low-WMC readers (η2 = .14). [→ Sanchez 2006](#sanchez-2006)
@@ -38,7 +42,7 @@ sources:
 
 Sanchez, C. A., & Wiley, J. (2006). An examination of the seductive details effect in terms of working memory capacity. Memory & Cognition, 34(2), 344-355. https://link.springer.com/journal/13421
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Experiment 1 IVT: high-WMC readers (M = 15.28, SD = 2.42) outperformed low-WMC readers (M = 13.64, SD = 2.14); the ANOVA showed a "significant main effect of WMC" (η2 = .14).
 
@@ -48,7 +52,7 @@ Experiment 1 IVT: high-WMC readers (M = 15.28, SD = 2.42) outperformed low-WMC r
 
 Sanchez, C. A., & Wiley, J. (2006). An examination of the seductive details effect in terms of working memory capacity. Memory & Cognition, 34(2), 344-355. https://link.springer.com/journal/13421
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 1 essay analysis: the 2x3 between-groups ANOVA on correct causes recalled found "no main effect of either WMC" or illustration condition; the article calls this lack of an overall WMC effect somewhat unexpected.
 

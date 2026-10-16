@@ -15,12 +15,14 @@ sources:
     author: Haozhe Jiang, Deqi Zhu, Ritesh Chugh, Darren Turnbull, Wu Jin
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Publications on VR/AR-supported K-12 STEM learning grew rapidly after 2017, with 2022 output four times the 2010 level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The overall number of VR/AR-supported K-12 STEM learning studies experienced rapid growth in 2017–2022, and the 2022 publication number was four times the 2010 number. [→ Haozhe Jiang 2025](#haozhe-jiang-2025)
@@ -31,7 +33,7 @@ sources:
 
 Haozhe Jiang, Deqi Zhu, Ritesh Chugh, Darren Turnbull, Wu Jin. (2025). Virtual reality and augmented reality-supported K-12 STEM learning: trends, advantages and challenges. Education and Information Technologies. https://doi.org/10.1007/s10639-024-13210-z
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Systematic review of 117 articles coded by year of publication (RQ1 trends analysis, Fig. 4). The review reports that publication numbers stayed at five or less per year through 2010–2015 and that the number of published articles in 2022 is "four times more than in 2010".
 

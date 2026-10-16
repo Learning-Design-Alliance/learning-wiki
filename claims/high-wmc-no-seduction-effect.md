@@ -15,18 +15,22 @@ sources:
     author: "Sanchez, C. A., & Wiley, J."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
   - id: sanchez-2006-2
     resource: "https://link.springer.com/journal/13421"
     title: "Sanchez, C. A., & Wiley, J. (2006). An examination of the seductive details effect in terms of working memory capacity. Memory & Cognition, 34(2), 344-355. https://link.springer.com/journal/13421"
     author: "Sanchez, C. A., & Wiley, J."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # High-WMC readers show no seductive details effect, with seductive illustrations tending to yield the best performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` High-WMC readers performed significantly better than low-WMC readers in the seductive condition on the IVT (η2 = .57). [→ Sanchez 2006](#sanchez-2006)
@@ -38,7 +42,7 @@ sources:
 
 Sanchez, C. A., & Wiley, J. (2006). An examination of the seductive details effect in terms of working memory capacity. Memory & Cognition, 34(2), 344-355. https://link.springer.com/journal/13421
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Experiment 1 IVT between-WMC-group comparison in the seductively illustrated condition: high-WMC readers significantly outperformed low-WMC readers (η2 = .57), while groups did not differ in the nonillustrated or conceptual conditions.
 
@@ -48,7 +52,7 @@ Experiment 1 IVT between-WMC-group comparison in the seductively illustrated con
 
 Sanchez, C. A., & Wiley, J. (2006). An examination of the seductive details effect in terms of working memory capacity. Memory & Cognition, 34(2), 344-355. https://link.springer.com/journal/13421
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 1, high-WMC group: planned comparisons showed no difference between nonillustrated and seductively illustrated conditions (F < 1); the advantage of seductive over conceptual illustrations was only marginal (p < .08), and the article reports this opposite effect was not statistically reliable.
 

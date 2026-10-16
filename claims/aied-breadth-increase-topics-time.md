@@ -15,12 +15,14 @@ sources:
     author: "Ido Roll & Ruth Wylie"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Empirical ILE papers show a strong increase in breadth of content and time of use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across the analysed years, empirical papers shifted from single-topic, single-session systems to environments covering many topics over a month or more. [→ Ido Roll & Ruth Wylie 2016](#ido-roll-ruth-wylie-2016)
@@ -31,7 +33,7 @@ sources:
 
 Ido Roll & Ruth Wylie. (2016). Evolution and Revolution in Artificial Intelligence in Education. International Journal of Artificial Intelligence in Education, 26, 582-599. https://doi.org/10.1007/s40593-016-0110-3
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Breadth coding of only the empirical papers (Table 4), using the rubric of 1 topic/less than 1 h, few topics/less than 5 h, or many topics/over a month: in 2014, 5 of 10 empirical papers (50%) covered many topics over a month or more.
 

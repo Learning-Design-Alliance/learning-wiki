@@ -15,12 +15,14 @@ sources:
     author: "Agran, M., Blanchard, C., Wehmeyer, M., & Hughes, C."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # All four students achieved above the performance levels teachers expected on the Goal Attainment Scale, exceeding their personal goals by 10% to 20%
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` On GAS pretests, all participating students achieved above teacher-projected outcomes; Natalie, Andy, and Joan each exceeded their 80% personal goals by 20%, and Jane exceeded her 90% goal by 10%. [→ Agran 2002](#agran-2002)
@@ -31,7 +33,7 @@ sources:
 
 Agran, M., Blanchard, C., Wehmeyer, M., & Hughes, C. (2002). Increasing the Problem-Solving Skills of Students with Developmental Disabilities Participating in General Education. Remedial and Special Education, 23(5), 279-288. https://doi.org/10.1177/07419325020230050301
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Secondary outcome measure: the Goal Attainment Scale, completed by teachers at baseline and by students prior to training, projecting five levels of expected performance. The article reports "all of the participating students achieved above what teachers expected they would achieve."
 

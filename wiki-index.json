@@ -1,16 +1,16 @@
 {
 "counts":{
-"claim":16138,
-"design":758,
+"claim":16128,
+"design":768,
 "element":1066,
 "learner-variable":74,
 "method":38,
 "pattern":65,
 "principle":213,
 "process":18,
-"product":1586,
-"research-method":449,
-"strategy":5724,
+"product":1595,
+"research-method":454,
+"strategy":5721,
 "theory":1361
 },
 "kinds":[
@@ -10396,33 +10396,6 @@
 "path":"claims/and-multifunctional-l1-essays.md",
 "status":"review",
 "title":"The connective and is multifunctional in L1 essays, functioning as resultive and other relations, which may explain its lower frequency in L2 writing",
-"type":"claim"
-},
-{
-"description":"Todos los estudiantes que usan el andamiaje mejoran su capacidad metacognitiva final",
-"evidence_strength":"moderate",
-"id":"andamiaje-mejora-capacidad-metacognitiva-final",
-"path":"claims/andamiaje-mejora-capacidad-metacognitiva-final.md",
-"status":"review",
-"title":"Todos los estudiantes que usan el andamiaje mejoran su capacidad metacognitiva final",
-"type":"claim"
-},
-{
-"description":"Un andamiaje metacognitivo computacional que promueve el automonitoreo mejora el logro de aprendizaje en estudiantes universitarios de medicina en ambientes virtuales",
-"evidence_strength":"moderate",
-"id":"andamiaje-metacognitivo-automonitoreo-mejora-logro",
-"path":"claims/andamiaje-metacognitivo-automonitoreo-mejora-logro.md",
-"status":"review",
-"title":"Un andamiaje metacognitivo computacional que promueve el automonitoreo mejora el logro de aprendizaje en estudiantes universitarios de medicina en ambientes virtuales",
-"type":"claim"
-},
-{
-"description":"El andamiaje de automonitoreo disminuye el efecto negativo del estilo cognitivo sobre estudiantes dependientes de campo e intermedios",
-"evidence_strength":"moderate",
-"id":"andamiaje-reduce-efecto-estilo-cognitivo",
-"path":"claims/andamiaje-reduce-efecto-estilo-cognitivo.md",
-"status":"review",
-"title":"El andamiaje de automonitoreo disminuye el efecto negativo del estilo cognitivo sobre estudiantes dependientes de campo e intermedios",
 "type":"claim"
 },
 {
@@ -29369,15 +29342,6 @@
 "path":"claims/corrective-reading-subgroup-moderators.md",
 "status":"review",
 "title":"Effects of Corrective Reading varied by student subgroup: positive for students with high pretest vocabulary scores and for students not eligible for free/reduced lunch, but not for their counterparts",
-"type":"claim"
-},
-{
-"description":"El estilo cognitivo y los estilos de aprendizaje de Grasha se correlacionan con el logro de aprendizaje y las habilidades metacognitivas iniciales",
-"evidence_strength":"weak",
-"id":"correlaciones-estilos-logro-metacognicion",
-"path":"claims/correlaciones-estilos-logro-metacognicion.md",
-"status":"review",
-"title":"El estilo cognitivo y los estilos de aprendizaje de Grasha se correlacionan con el logro de aprendizaje y las habilidades metacognitivas iniciales",
 "type":"claim"
 },
 {
@@ -66869,15 +66833,6 @@
 "type":"claim"
 },
 {
-"description":"Initial difficulty reflecting was overcome gradually with help, per the author's account",
-"evidence_strength":"weak",
-"id":"initial-reflection-difficulty-overcome-gradually",
-"path":"claims/initial-reflection-difficulty-overcome-gradually.md",
-"status":"review",
-"title":"Initial difficulty reflecting was overcome gradually with help, per the author's account",
-"type":"claim"
-},
-{
 "description":"Under the initial rubric with direct evaluation, machine raters systematically underestimate openness while relevance and clarity align near-perfectly",
 "evidence_strength":"moderate",
 "id":"initial-rubric-openness-systematic-underestimation",
@@ -70410,24 +70365,6 @@
 "type":"claim"
 },
 {
-"description":"Learners in the reported class identified their own strengths and weaknesses through journal-based reflection on task performance",
-"evidence_strength":"weak",
-"id":"journal-reflection-identified-strengths-weaknesses",
-"path":"claims/journal-reflection-identified-strengths-weaknesses.md",
-"status":"review",
-"title":"Learners in the reported class identified their own strengths and weaknesses through journal-based reflection on task performance",
-"type":"claim"
-},
-{
-"description":"Learners' satisfaction with their learning process increased through journal use, per the author's account",
-"evidence_strength":"weak",
-"id":"journal-use-increased-learner-satisfaction",
-"path":"claims/journal-use-increased-learner-satisfaction.md",
-"status":"review",
-"title":"Learners' satisfaction with their learning process increased through journal use, per the author's account",
-"type":"claim"
-},
-{
 "description":"The LLM-based journaling assistant shows no significant effect on students' intrinsic motivation for creating a learning journal",
 "evidence_strength":"moderate",
 "id":"journaling-assistant-no-intrinsic-motivation-effect",
@@ -70443,15 +70380,6 @@
 "path":"claims/journaling-system-improves-srl-all-groups.md",
 "status":"review",
 "title":"Using the chatbot-based journaling system improves self-reported SRL strategy use from pre-survey to 12-week follow-up in all groups, including baseline",
-"type":"claim"
-},
-{
-"description":"Journals made end-of-cycle evaluation of learners' communicative progress easier, according to the author",
-"evidence_strength":"weak",
-"id":"journals-eased-communicative-progress-evaluation",
-"path":"claims/journals-eased-communicative-progress-evaluation.md",
-"status":"review",
-"title":"Journals made end-of-cycle evaluation of learners' communicative progress easier, according to the author",
 "type":"claim"
 },
 {
@@ -74042,15 +73970,6 @@
 "path":"claims/learners-prefer-incremental-hints-over-solutions.md",
 "status":"review",
 "title":"K-12 learners preferred incremental hints and multiple attempts over immediately revealed solutions",
-"type":"claim"
-},
-{
-"description":"Learners reported that journals helped them evaluate their progress and learn from their mistakes",
-"evidence_strength":"weak",
-"id":"learners-reported-journals-useful-progress-evaluation",
-"path":"claims/learners-reported-journals-useful-progress-evaluation.md",
-"status":"review",
-"title":"Learners reported that journals helped them evaluate their progress and learn from their mistakes",
 "type":"claim"
 },
 {
@@ -82576,15 +82495,6 @@
 "path":"claims/memphis-model-adjusts-mobility-demographics-measurement-error.md",
 "status":"review",
 "title":"The Memphis value-added model estimates school effects on student performance while adjusting for mobility, demographics, and measurement error",
-"type":"claim"
-},
-{
-"description":"Los mensajes metacognitivos específicos producen mejores resultados que los genéricos y que ningún mensaje, en ese orden",
-"evidence_strength":"moderate",
-"id":"mensajes-especificos-superan-genericos-control",
-"path":"claims/mensajes-especificos-superan-genericos-control.md",
-"status":"review",
-"title":"Los mensajes metacognitivos específicos producen mejores resultados que los genéricos y que ningún mensaje, en ese orden",
 "type":"claim"
 },
 {
@@ -145951,6 +145861,14 @@
 "type":"design"
 },
 {
+"description":"This intervention taught self-determination skills to middle school students with intellectual disabilities using an alternating-treatments design: \\\"middle school students with intellectual disabilities alternately le...",
+"id":"alternating-treatments-self-determination-intervention",
+"path":"designs/alternating-treatments-self-determination-intervention.md",
+"status":"review",
+"title":"Alternating-treatments self-determination intervention for middle school students with intellectual disabilities",
+"type":"design"
+},
+{
 "description":"Ambiente de aprendizaje computacional para geometría en educación básica primaria, compuesto por tres módulos de aprendizaje con información textual y gráfica, actividades y evaluación final de diez preguntas.",
 "id":"ambiente-solidos-geometricos-andamiaje-autoeficacia",
 "path":"designs/ambiente-solidos-geometricos-andamiaje-autoeficacia.md",
@@ -146678,6 +146596,14 @@
 "path":"designs/context-prompts-gen-ai-physics.md",
 "status":"review",
 "title":"Context prompts: instructor-designed prompts defining role, task, and boundaries of a Gen AI interaction",
+"type":"design"
+},
+{
+"description":"The architecture keeps only a condensed three-paragraph context summary carried forward, plans structure without code, and generates LaTeX and Python section by section in an iterative loop.",
+"id":"context-pruning-and-segmented-generation-mitigate-hallucinations",
+"path":"designs/context-pruning-and-segmented-generation-mitigate-hallucinations.md",
+"status":"review",
+"title":"Mitigate LLM hallucinations in material generation by drastic context pruning and segmented, section-by-section generation rather than single-prompt deck generation",
 "type":"design"
 },
 {
@@ -149328,6 +149254,14 @@
 "type":"design"
 },
 {
+"description":"The article's central framework holds that scaffolds in problem-based learning environments should be designed around six motivational goals.",
+"id":"motivational-scaffolding-framework-six-goals",
+"path":"designs/motivational-scaffolding-framework-six-goals.md",
+"status":"review",
+"title":"Motivational scaffolding framework: six motivationally grounded goals for scaffold design in PBL",
+"type":"design"
+},
+{
 "description":"A web-based visualization probe designed for the study, drawing on MER/DeFT and concreteness fading.",
 "id":"mr-triage-synchronized-code-memory-metaphor-tool",
 "path":"designs/mr-triage-synchronized-code-memory-metaphor-tool.md",
@@ -149930,6 +149864,14 @@
 "type":"design"
 },
 {
+"description":"Even when families own devices, they often lack affordable technical support.",
+"id":"provide-free-low-cost-technical-support-families",
+"path":"designs/provide-free-low-cost-technical-support-families.md",
+"status":"review",
+"title":"Provide free or low-cost technical support and device access so families can maintain the technology they need",
+"type":"design"
+},
+{
 "description":"This pattern embeds quality assurance structurally in the authoring workflow rather than relying on voluntary compliance.",
 "id":"publication-gated-qa-workflow",
 "path":"designs/publication-gated-qa-workflow.md",
@@ -150015,6 +149957,14 @@
 "path":"designs/rag-gpt4o-tutor-training-lesson-generator.md",
 "status":"review",
 "title":"RAG-based GPT-4o lesson generation system with task-decomposition prompting for tutor training lessons",
+"type":"design"
+},
+{
+"description":"RALL-E (Robot-Assisted Language Learning in Education) is an Alelo project that migrates agent technology to the Robokind R25 robot, producing a prototype that can engage in conversation in Chinese.",
+"id":"ralle-robot-language-learning-prototype",
+"path":"designs/ralle-robot-language-learning-prototype.md",
+"status":"review",
+"title":"RALL-E robot-assisted language learning prototype",
 "type":"design"
 },
 {
@@ -150386,6 +150336,14 @@
 "type":"design"
 },
 {
+"description":"The article frames self-determination not merely as a personal competency but as a functional mechanism of curricular access: teaching these skills supplies students with additional means of engaging the general curri...",
+"id":"self-determination-as-curriculum-access-strategies",
+"path":"designs/self-determination-as-curriculum-access-strategies.md",
+"status":"review",
+"title":"Self-determination skills function as access strategies that supplement students' means of reaching the general curriculum",
+"type":"design"
+},
+{
 "description":"The study's mixed-methods evidence base for Sections 4 and 5 comprises a statewide survey of SELPA directors administered February–March 2020, developed with input from the statewide SELPA Executive Board, plus a revi...",
 "id":"selpa-survey-and-allocation-plan-review-2020",
 "path":"designs/selpa-survey-and-allocation-plan-review-2020.md",
@@ -150455,6 +150413,14 @@
 "path":"designs/shared-dialogue-foundation-methods.md",
 "status":"review",
 "title":"Shared-dialogue foundation methods: team-defined mission, behavioral standards, cultural intelligence, and self-assessments",
+"type":"design"
+},
+{
+"description":"Texas interwove responsibility for teacher preparation across educator preparation programs (EPPs) and districts, with grants built on the assumption that the two work in tandem.",
+"id":"shared-governance-epp-district-residency-partnerships",
+"path":"designs/shared-governance-epp-district-residency-partnerships.md",
+"status":"review",
+"title":"Structure EPP–district partnerships around shared governance with joint data-informed decision-making",
 "type":"design"
 },
 {
@@ -150559,6 +150525,14 @@
 "path":"designs/social-constructionist-collaborative-writing-classroom.md",
 "status":"review",
 "title":"Social-constructionist collaborative writing classroom",
+"type":"design"
+},
+{
+"description":"The article uses a social presence framework comprising three communication types — interpersonal communication, open communication, and cohesive communication — as the design basis for the learning buddy chatbot in S...",
+"id":"social-presence-framework-three-communication-types",
+"path":"designs/social-presence-framework-three-communication-types.md",
+"status":"review",
+"title":"Social presence framework with interpersonal, open, and cohesive communication as a design basis for educational chatbots",
 "type":"design"
 },
 {
@@ -150839,6 +150813,14 @@
 "path":"designs/tdhs-double-dose-reading-block.md",
 "status":"review",
 "title":"Double-dose semester block: Strategic Reading first semester, English 1 second semester",
+"type":"design"
+},
+{
+"description":"The article organizes teachable agent (TA) design around three principles drawn from the learning sciences: the TA \\\"makes its thought processes visible\\\"; it \\\"exhibits independent performance to produce recursive feedb...",
+"id":"teachable-agent-three-design-principles",
+"path":"designs/teachable-agent-three-design-principles.md",
+"status":"review",
+"title":"Three design principles for teachable agents: visible thinking, independent performance with recursive feedback, and student responsibility for the agent",
 "type":"design"
 },
 {
@@ -151418,6 +151400,14 @@
 "path":"designs/verification-centered-johnstone-3p-genai-architecture.md",
 "status":"review",
 "title":"Verification-centered Johnstone-3P architecture for GenAI in university chemistry education",
+"type":"design"
+},
+{
+"description":"A voluntary video game addressing basic computational concepts, deployed for early ages and grounded in intrinsic motivation.",
+"id":"voluntary-intrinsic-motivation-programming-game",
+"path":"designs/voluntary-intrinsic-motivation-programming-game.md",
+"status":"review",
+"title":"Voluntary video game teaching basic computational concepts to early-age children, grounded in intrinsic motivation",
 "type":"design"
 },
 {
@@ -164342,6 +164332,14 @@
 "type":"product"
 },
 {
+"description":"The Four-Component Instructional Design model is a framework developed by van Merriënboer and colleagues for designing training programs that support complex skill acquisition and transfer.",
+"id":"4cid-model",
+"path":"products/4cid-model.md",
+"status":"review",
+"title":"4C/ID-model",
+"type":"product"
+},
+{
 "description":"A corpus of 53 screened studies on GenAI effects on academic achievement, higher-order thinking, and writing, assembled and quality-rated by Ying Dong through a PRISMA-based review.",
 "id":"53-study-prisma-screened-evidence-corpus-on-genai-and-educational-outcomes",
 "path":"products/53-study-prisma-screened-evidence-corpus-on-genai-and-educational-outcomes.md",
@@ -164828,6 +164826,14 @@
 "path":"products/aleks-and-aleks-ppl-behavioral-trace-datasets-for-studying-ai-era-learning-behavior.md",
 "status":"review",
 "title":"ALEKS and ALEKS PPL behavioral trace datasets for studying AI-era learning behavior",
+"type":"product"
+},
+{
+"description":"Alelo's VCAT software systems teach cultural knowledge and intercultural interaction through simulated encounters with virtual role-players supported by a fading virtual coach.",
+"id":"alelo-vcat-virtual-cultural-awareness-trainers-with-multi-role-virtual-coach",
+"path":"products/alelo-vcat-virtual-cultural-awareness-trainers-with-multi-role-virtual-coach.md",
+"status":"review",
+"title":"Alelo VCAT Virtual Cultural Awareness Trainers with multi-role Virtual Coach",
 "type":"product"
 },
 {
@@ -168948,6 +168954,14 @@
 "type":"product"
 },
 {
+"description":"A language-analysis tool developed by OpenAI that estimates whether submitted text resembles AI-generated writing, particularly GPT-2-style output.",
+"id":"gpt-2-output-detector-demo",
+"path":"products/gpt-2-output-detector-demo.md",
+"status":"review",
+"title":"GPT-2 Output Detector Demo",
+"type":"product"
+},
+{
 "description":"GPT Tutor is a GPT-4 chat-based mathematics tutoring interface developed and studied by Bastani Hamsa et al.",
 "id":"gpt-tutor",
 "path":"products/gpt-tutor.md",
@@ -170129,6 +170143,14 @@
 "path":"products/league-of-innovative-schools.md",
 "status":"review",
 "title":"League of Innovative Schools",
+"type":"product"
+},
+{
+"description":"LEAP is a web platform developed for teachers to author physics tasks with tailored LLM instructions and deliver automated formative feedback to students.",
+"id":"leap-learning-with-ai-about-physics",
+"path":"products/leap-learning-with-ai-about-physics.md",
+"status":"review",
+"title":"LEAP (Learning with AI about Physics)",
 "type":"product"
 },
 {
@@ -173224,6 +173246,14 @@
 "type":"product"
 },
 {
+"description":"A 30-item quantum-theory achievement test developed by Saif Alneyadi et al.",
+"id":"quantum-theory-test",
+"path":"products/quantum-theory-test.md",
+"status":"review",
+"title":"Quantum Theory Test",
+"type":"product"
+},
+{
 "description":"Carnegie Math Pathways developed these one-term college-level quantitative-reasoning and statistics course sets with embedded developmental corequisite support for colleges serving students placed into developmental mathematics.",
 "id":"quantway-college-with-corequisite-and-statway-college-with-corequisite-one-term-course-set",
 "path":"products/quantway-college-with-corequisite-and-statway-college-with-corequisite-one-term-course-set.md",
@@ -175122,6 +175152,14 @@
 "type":"product"
 },
 {
+"description":"A spreadsheet accompanying Lakens (2013) that calculates and recommends effect sizes for t-test and ANOVA results from user-entered study statistics.",
+"id":"supplementary-spreadsheet-for-effect-size-calculations",
+"path":"products/supplementary-spreadsheet-for-effect-size-calculations.md",
+"status":"review",
+"title":"Supplementary spreadsheet for effect size calculations",
+"type":"product"
+},
+{
 "description":"SupplyNet is a gamified visual simulation system developed by Yanjia Li et al.",
 "id":"supplynet",
 "path":"products/supplynet.md",
@@ -175143,6 +175181,14 @@
 "path":"products/survey-dataset-and-analysis-code-for-digital-distraction-strategy-mining.md",
 "status":"review",
 "title":"Survey dataset and analysis code for digital distraction strategy mining",
+"type":"product"
+},
+{
+"description":"A self-report assessment used to measure students' self-regulation, including self-monitoring and knowledge-acquisition strategies, administered before and after instruction.",
+"id":"survey-of-learning-behaviors",
+"path":"products/survey-of-learning-behaviors.md",
+"status":"review",
+"title":"Survey of Learning Behaviors",
 "type":"product"
 },
 {
@@ -175279,6 +175325,14 @@
 "path":"products/targeted-reading-instruction.md",
 "status":"review",
 "title":"Targeted Reading Instruction",
+"type":"product"
+},
+{
+"description":"A Betty's Brain teachable-agent software variant developed by Doris B.",
+"id":"taxonomy-betty-bettys-brain-variant",
+"path":"products/taxonomy-betty-bettys-brain-variant.md",
+"status":"review",
+"title":"Taxonomy Betty (Betty's Brain variant)",
 "type":"product"
 },
 {
@@ -175639,6 +175693,14 @@
 "path":"products/the-ai-house.md",
 "status":"review",
 "title":"The AI House",
+"type":"product"
+},
+{
+"description":"A 72-item self-report assessment developed by Michael Wehmeyer for measuring global self-determination and its autonomy, self-regulation, psychological empowerment, and self-realization dimensions in adolescents with cognitive disabilities.",
+"id":"the-arcs-self-determination-scale",
+"path":"products/the-arcs-self-determination-scale.md",
+"status":"review",
+"title":"The Arc's Self-Determination Scale",
 "type":"product"
 },
 {
@@ -177566,6 +177628,14 @@
 "type":"research-method"
 },
 {
+"description":"This methodology exposes learners to novel words incidentally, then asks them to learn the words explicitly, with half of the explicit-phase words previously encountered and half completely new.",
+"id":"ebbinghaus-savings-paradigm-variation-for-detecting-early-incidental-vocabulary-gains",
+"path":"research-methods/ebbinghaus-savings-paradigm-variation-for-detecting-early-incidental-vocabulary-gains.md",
+"status":"review",
+"title":"Ebbinghaus savings-paradigm variation for detecting early incidental vocabulary gains",
+"type":"research-method"
+},
+{
 "description":"EduBehaviors is an interpretable annotation framework in which researchers write explicit binary assertions about conversational behavior; LLMs annotate each assertion as true or false, and a rule or trained statistical model combines these values into a construct label.",
 "id":"edubehaviors",
 "path":"research-methods/edubehaviors.md",
@@ -178211,6 +178281,14 @@
 "path":"research-methods/funds-of-knowledge.md",
 "status":"review",
 "title":"Funds of Knowledge",
+"type":"research-method"
+},
+{
+"description":"A learning-analytics method using institutional student records.",
+"id":"gap-analysis-method-for-identifying-gateway-courses-via-predicted-versus-observed-dfw-rate",
+"path":"research-methods/gap-analysis-method-for-identifying-gateway-courses-via-predicted-versus-observed-dfw-rate.md",
+"status":"review",
+"title":"Gap-analysis method for identifying gateway courses via predicted versus observed DFW rates and persistence gaps",
 "type":"research-method"
 },
 {
@@ -178902,6 +178980,14 @@
 "type":"research-method"
 },
 {
+"description":"The article distinguishes two families of strategy-use assessment.",
+"id":"on-line-versus-off-line-methods-for-assessing-strategy-use",
+"path":"research-methods/on-line-versus-off-line-methods-for-assessing-strategy-use.md",
+"status":"review",
+"title":"On-line versus off-line methods for assessing strategy use",
+"type":"research-method"
+},
+{
 "description":"The article reproduces an 82-code educational codebook organised into 7 major categories (MPS, MKT, Cognition, Metacognition, PIU, Student Intent Utterance, Interaction/Discourse) by inlining it into a single GPT-4o-mini prompt at temperature 0: \\\"we reproduce an 82-code educational codebook on119,00",
 "id":"one-shot-gpt-4o-mini-codebook-based-annotation-of-llm-math-tutor-dialogue",
 "path":"research-methods/one-shot-gpt-4o-mini-codebook-based-annotation-of-llm-math-tutor-dialogue.md",
@@ -178971,6 +179057,14 @@
 "path":"research-methods/partially-specified-structural-causal-model-pscm-protocol-for-educational-assessment.md",
 "status":"review",
 "title":"Partially specified structural causal model (PSCM) protocol for educational assessment",
+"type":"research-method"
+},
+{
+"description":"The article defines participatory research (PR) as an \\\"umbrella term for research designs, methods, and frameworks\\\" that \\\"use systematic inquiry in direct collaboration with those affected by the issue being studied for the purpose of action or change\\\".",
+"id":"participatory-research",
+"path":"research-methods/participatory-research.md",
+"status":"review",
+"title":"Participatory research",
 "type":"research-method"
 },
 {
@@ -179987,6 +180081,14 @@
 "path":"research-methods/three-criterion-framework-for-evaluating-test-mode-comparability.md",
 "status":"review",
 "title":"Three-criterion framework for evaluating test mode comparability",
+"type":"research-method"
+},
+{
+"description":"Because no validated risk-of-bias tool existed for studies evaluating search strategy tools, the review authors developed, by consensus, a self-developed set of three criteria: \\\"searcher skills\\\", \\\"match between model and question\\\", and \\\"quality of searches\\\".",
+"id":"three-criterion-risk-of-bias-framework-for-studies-evaluating-search-strategy-tools",
+"path":"research-methods/three-criterion-risk-of-bias-framework-for-studies-evaluating-search-strategy-tools.md",
+"status":"review",
+"title":"Three-criterion risk-of-bias framework for studies evaluating search strategy tools",
 "type":"research-method"
 },
 {
@@ -200252,14 +200354,6 @@
 "type":"strategy"
 },
 {
-"description":"The article suggests allotting time for learners to reflect on and self-assess their performance right after a task is completed, so comments better describe actual performance along with strengths and weaknesses.",
-"id":"immediate-post-task-reflection-with-examples",
-"path":"strategies/immediate-post-task-reflection-with-examples.md",
-"status":"review",
-"title":"Allot reflection time immediately after task completion and require examples for each guideline item",
-"type":"strategy"
-},
-{
 "description":"The article lists classroom techniques that its experiment found sufficient for statistically significant skill improvement: situational communication exercises such as language games, interviews, dialogues, and skits...",
 "id":"immersion-classroom-techniques-esl",
 "path":"strategies/immersion-classroom-techniques-esl.md",
@@ -209167,14 +209261,6 @@
 "path":"strategies/peer-review-protocols.md",
 "status":"review",
 "title":"Peer Review Protocols",
-"type":"strategy"
-},
-{
-"description":"The article recommends that, ideally, learners be given time to share their reflections with classmates in order to enrich the process of reflection and self-assessment.",
-"id":"peer-sharing-of-journal-reflections",
-"path":"strategies/peer-sharing-of-journal-reflections.md",
-"status":"review",
-"title":"Have learners share journal reflections with classmates to enrich reflection and build solidarity",
 "type":"strategy"
 },
 {
@@ -221921,14 +222007,6 @@
 "path":"strategies/teacher-family-community-relationship-support-strategies.md",
 "status":"review",
 "title":"Support teacher relationships with students, families, and communities through community events, home visits, and family voice",
-"type":"strategy"
-},
-{
-"description":"The article recommends that the teacher provide feedback based both on students' reflections and on the teacher's own observations of their performance in the learning journals.",
-"id":"teacher-feedback-on-journal-reflections-and-observations",
-"path":"strategies/teacher-feedback-on-journal-reflections-and-observations.md",
-"status":"review",
-"title":"Provide teacher feedback based on both student reflections and the teacher's own observations",
 "type":"strategy"
 },
 {
@@ -238797,9 +238875,6 @@
 "analytics-feedback-reflection-strengthen-learning-gains":"analytics-feedback-reflection-strengthen-learning-gains",
 "anatomage-vr-engagement-34-percent":"anatomage-vr-engagement-34-percent",
 "and-multifunctional-l1-essays":"and-multifunctional-l1-essays",
-"andamiaje-mejora-capacidad-metacognitiva-final":"andamiaje-mejora-capacidad-metacognitiva-final",
-"andamiaje-metacognitivo-automonitoreo-mejora-logro":"andamiaje-metacognitivo-automonitoreo-mejora-logro",
-"andamiaje-reduce-efecto-estilo-cognitivo":"andamiaje-reduce-efecto-estilo-cognitivo",
 "anderson-papert-comparative-models-control-agency":"anderson-papert-comparative-models-control-agency",
 "animated-persona-and-voice-effects":"animated-persona-and-voice-effects",
 "animated-videos-easiest-engaging-virtual-component":"animated-videos-easiest-engaging-virtual-component",
@@ -240936,7 +241011,6 @@
 "corrective-reading-significant-fluency-effect":"corrective-reading-significant-fluency-effect",
 "corrective-reading-small-evidence-base":"corrective-reading-small-evidence-base",
 "corrective-reading-subgroup-moderators":"corrective-reading-subgroup-moderators",
-"correlaciones-estilos-logro-metacognicion":"correlaciones-estilos-logro-metacognicion",
 "correlation-pattern-hardiness-raa-strongest":"correlation-pattern-hardiness-raa-strongest",
 "correlational-design-limits-epistemic-freedom-study":"correlational-design-limits-epistemic-freedom-study",
 "cost-function-weights-need-factors":"cost-function-weights-need-factors",
@@ -245196,7 +245270,6 @@
 "initial-elp-level-influences-time-to-proficiency":"initial-elp-level-influences-time-to-proficiency",
 "initial-guidance-does-not-improve-learning-from-instruction":"initial-guidance-does-not-improve-learning-from-instruction",
 "initial-inquiry-dominates-chatbot-question-types":"initial-inquiry-dominates-chatbot-question-types",
-"initial-reflection-difficulty-overcome-gradually":"initial-reflection-difficulty-overcome-gradually",
 "initial-rubric-openness-systematic-underestimation":"initial-rubric-openness-systematic-underestimation",
 "initiative-forms-and-roles-served":"initiative-forms-and-roles-served",
 "injected-bugs-eliciting-direct-edits-natural-bugs-reprompting":"injected-bugs-eliciting-direct-edits-natural-bugs-reprompting",
@@ -245596,11 +245669,8 @@
 "jol-consistency-and-rating-evolution":"jol-consistency-and-rating-evolution",
 "jol-predicts-relative-recall-within-types":"jol-predicts-relative-recall-within-types",
 "journal-clubs-enhance-critical-appraisal-pharmacy-students":"journal-clubs-enhance-critical-appraisal-pharmacy-students",
-"journal-reflection-identified-strengths-weaknesses":"journal-reflection-identified-strengths-weaknesses",
-"journal-use-increased-learner-satisfaction":"journal-use-increased-learner-satisfaction",
 "journaling-assistant-no-intrinsic-motivation-effect":"journaling-assistant-no-intrinsic-motivation-effect",
 "journaling-system-improves-srl-all-groups":"journaling-system-improves-srl-all-groups",
-"journals-eased-communicative-progress-evaluation":"journals-eased-communicative-progress-evaluation",
 "journals-secondary-research-heavy-genai-primary-autonomy":"journals-secondary-research-heavy-genai-primary-autonomy",
 "judge-anchoring-raises-human-agreement":"judge-anchoring-raises-human-agreement",
 "judge-calibration-labels-strong-severity-uneven":"judge-calibration-labels-strong-severity-uneven",
@@ -246016,7 +246086,6 @@
 "learners-misjudge-spacing-benefits":"learners-misjudge-spacing-benefits",
 "learners-prefer-cf-more-than-teachers-provide":"learners-prefer-cf-more-than-teachers-provide",
 "learners-prefer-incremental-hints-over-solutions":"learners-prefer-incremental-hints-over-solutions",
-"learners-reported-journals-useful-progress-evaluation":"learners-reported-journals-useful-progress-evaluation",
 "learners-selectively-filter-ai-feedback-agency":"learners-selectively-filter-ai-feedback-agency",
 "learners-underuse-effective-learning-strategies":"learners-underuse-effective-learning-strategies",
 "learners-use-apps-vocabulary-translation-grammar-informally":"learners-use-apps-vocabulary-translation-grammar-informally",
@@ -246984,7 +247053,6 @@
 "memory-features-improve-fit-for-fact-learning-datasets":"memory-features-improve-fit-for-fact-learning-datasets",
 "memory-habit-barriers-contextual":"memory-habit-barriers-contextual",
 "memphis-model-adjusts-mobility-demographics-measurement-error":"memphis-model-adjusts-mobility-demographics-measurement-error",
-"mensajes-especificos-superan-genericos-control":"mensajes-especificos-superan-genericos-control",
 "mental-effort-study-time-indicate-element-interactivity":"mental-effort-study-time-indicate-element-interactivity",
 "mental-representation-not-directly-instructable":"mental-representation-not-directly-instructable",
 "mentor-coach-access-inequity-poverty":"mentor-coach-access-inequity-poverty",
@@ -254224,6 +254292,7 @@
 "align-calpads-ag-categorization-before-eligibility-use":"align-calpads-ag-categorization-before-eligibility-use",
 "align-tier2-with-tier1-core-reading-instruction":"align-tier2-with-tier1-core-reading-instruction",
 "aligned-generative-ai-course-policy-framework":"aligned-generative-ai-course-policy-framework",
+"alternating-treatments-self-determination-intervention":"alternating-treatments-self-determination-intervention",
 "ambiente-solidos-geometricos-andamiaje-autoeficacia":"ambiente-solidos-geometricos-andamiaje-autoeficacia",
 "anchor-llm-inference-provenance-onchain-instructor-cosign":"anchor-llm-inference-provenance-onchain-instructor-cosign",
 "antagonistic-design-agent-steerable-pushback":"antagonistic-design-agent-steerable-pushback",
@@ -254315,6 +254384,7 @@
 "constructivist-model-reconstruction-course-pattern":"constructivist-model-reconstruction-course-pattern",
 "content-language-integration-bricks-and-mortar":"content-language-integration-bricks-and-mortar",
 "context-prompts-gen-ai-physics":"context-prompts-gen-ai-physics",
+"context-pruning-and-segmented-generation-mitigate-hallucinations":"context-pruning-and-segmented-generation-mitigate-hallucinations",
 "contingency-dimension-load-versus-demand":"contingency-dimension-load-versus-demand",
 "control-timing-design-space-ai-visual-authoring":"control-timing-design-space-ai-visual-authoring",
 "conv-ped-tutor-audit-testbed":"conv-ped-tutor-audit-testbed",
@@ -254645,6 +254715,7 @@
 "modify-minimal-program-challenge-pattern":"modify-minimal-program-challenge-pattern",
 "modular-awe-decomposition-framework":"modular-awe-decomposition-framework",
 "modularized-pbl-ai-framework-biomedical":"modularized-pbl-ai-framework-biomedical",
+"motivational-scaffolding-framework-six-goals":"motivational-scaffolding-framework-six-goals",
 "mr-triage-synchronized-code-memory-metaphor-tool":"mr-triage-synchronized-code-memory-metaphor-tool",
 "multi-agent-ai-math-tutor-architecture":"multi-agent-ai-math-tutor-architecture",
 "multi-agent-generate-validate-revise-personalization-framework":"multi-agent-generate-validate-revise-personalization-framework",
@@ -254720,6 +254791,7 @@
 "prompt-programming-platform-bug-injection-pipeline":"prompt-programming-platform-bug-injection-pipeline",
 "propact-hybrid-ai-feedback-system-five-tools":"propact-hybrid-ai-feedback-system-five-tools",
 "proportional-relationship-common-contexts":"proportional-relationship-common-contexts",
+"provide-free-low-cost-technical-support-families":"provide-free-low-cost-technical-support-families",
 "publication-gated-qa-workflow":"publication-gated-qa-workflow",
 "puppetry-steam-ecology-lesson-design":"puppetry-steam-ecology-lesson-design",
 "pusd-universal-screening-toolkit":"pusd-universal-screening-toolkit",
@@ -254731,6 +254803,7 @@
 "rag-genai-chatbot-learning-task":"rag-genai-chatbot-learning-task",
 "rag-generative-ai-platform-construction-education":"rag-generative-ai-platform-construction-education",
 "rag-gpt4o-tutor-training-lesson-generator":"rag-gpt4o-tutor-training-lesson-generator",
+"ralle-robot-language-learning-prototype":"ralle-robot-language-learning-prototype",
 "reactive-proactive-ai-writing-agents-platform":"reactive-proactive-ai-writing-agents-platform",
 "reasoning-centered-product-loop":"reasoning-centered-product-loop",
 "red-light-purple-light-dosage-circle-time":"red-light-purple-light-dosage-circle-time",
@@ -254777,6 +254850,7 @@
 "se-quality-authorizing-ta-activity-set":"se-quality-authorizing-ta-activity-set",
 "secant-tangent-transition-applet-example":"secant-tangent-transition-applet-example",
 "segment-structure-transcript-format":"segment-structure-transcript-format",
+"self-determination-as-curriculum-access-strategies":"self-determination-as-curriculum-access-strategies",
 "selpa-survey-and-allocation-plan-review-2020":"selpa-survey-and-allocation-plan-review-2020",
 "semi-automated-tts-lesson-generation-pipeline":"semi-automated-tts-lesson-generation-pipeline",
 "seven-co-created-cgpt-chatbots-pharmaceutical-science":"seven-co-created-cgpt-chatbots-pharmaceutical-science",
@@ -254786,6 +254860,7 @@
 "sf-dec-early-learning-for-all-network":"sf-dec-early-learning-for-all-network",
 "shard-elevator-acceleration-ai-task":"shard-elevator-acceleration-ai-task",
 "shared-dialogue-foundation-methods":"shared-dialogue-foundation-methods",
+"shared-governance-epp-district-residency-partnerships":"shared-governance-epp-district-residency-partnerships",
 "site-coordinator-role-residency-element":"site-coordinator-role-residency-element",
 "six-component-engaged-math-lesson-structure":"six-component-engaged-math-lesson-structure",
 "six-key-practices-community-school-immigrant-communities":"six-key-practices-community-school-immigrant-communities",
@@ -254799,6 +254874,7 @@
 "slo-thinking-through-components-matters-most":"slo-thinking-through-components-matters-most",
 "small-group-station-rotation-tier2-reading":"small-group-station-rotation-tier2-reading",
 "social-constructionist-collaborative-writing-classroom":"social-constructionist-collaborative-writing-classroom",
+"social-presence-framework-three-communication-types":"social-presence-framework-three-communication-types",
 "sol-multimedia-lesson-sequence-eb":"sol-multimedia-lesson-sequence-eb",
 "spec-driven-development-sdd-methodology":"spec-driven-development-sdd-methodology",
 "special-r1-framework":"special-r1-framework",
@@ -254834,6 +254910,7 @@
 "tasd-teacher-authored-prompt-orchestration":"tasd-teacher-authored-prompt-orchestration",
 "tdaa-test-driven-ai-assisted-pattern":"tdaa-test-driven-ai-assisted-pattern",
 "tdhs-double-dose-reading-block":"tdhs-double-dose-reading-block",
+"teachable-agent-three-design-principles":"teachable-agent-three-design-principles",
 "teachable-chatgpt-agent-prompt-design":"teachable-chatgpt-agent-prompt-design",
 "teacher-led-school-improvement-brockton":"teacher-led-school-improvement-brockton",
 "teachers-deliver-phoneme-awareness-instruction":"teachers-deliver-phoneme-awareness-instruction",
@@ -254907,6 +254984,7 @@
 "values-based-equitable-materials-review-pattern":"values-based-equitable-materials-review-pattern",
 "vcu-university-college-first-year-model":"vcu-university-college-first-year-model",
 "verification-centered-johnstone-3p-genai-architecture":"verification-centered-johnstone-3p-genai-architecture",
+"voluntary-intrinsic-motivation-programming-game":"voluntary-intrinsic-motivation-programming-game",
 "vplc-augmented-assistments-intervention":"vplc-augmented-assistments-intervention",
 "water-balloon-physics-image-task":"water-balloon-physics-image-task",
 "waves-module-simulations-integrated-chatbot":"waves-module-simulations-integrated-chatbot",
@@ -256743,6 +256821,7 @@
 "38-item-genai-motivation-and-engagement-survey-instrument-nine-constructs":"38-item-genai-motivation-and-engagement-survey-instrument-nine-constructs",
 "398-item-evaluation-dataset-of-teacher-requested-geometric-diagrams-from-coteach":"398-item-evaluation-dataset-of-teacher-requested-geometric-diagrams-from-coteach",
 "44-item-ethical-genai-use-questionnaire":"44-item-ethical-genai-use-questionnaire",
+"4cid-model":"4cid-model",
 "53-study-prisma-screened-evidence-corpus-on-genai-and-educational-outcomes":"53-study-prisma-screened-evidence-corpus-on-genai-and-educational-outcomes",
 "585-command-expert-annotated-linuxbash-dataset-with-balanced-four-level-representation":"585-command-expert-annotated-linuxbash-dataset-with-balanced-four-level-representation",
 "5essentials":"5essentials",
@@ -256805,6 +256884,7 @@
 "alas-dropout-prevention-program":"alas-dropout-prevention-program",
 "alders-high-touch-whole-adult-support-approach":"alders-high-touch-whole-adult-support-approach",
 "aleks-and-aleks-ppl-behavioral-trace-datasets-for-studying-ai-era-learning-behavior":"aleks-and-aleks-ppl-behavioral-trace-datasets-for-studying-ai-era-learning-behavior",
+"alelo-vcat-virtual-cultural-awareness-trainers-with-multi-role-virtual-coach":"alelo-vcat-virtual-cultural-awareness-trainers-with-multi-role-virtual-coach",
 "alf-augmented-lectures-feedback-system":"alf-augmented-lectures-feedback-system",
 "algebra-toolkit":"algebra-toolkit",
 "algorag":"algorag",
@@ -257330,6 +257410,7 @@
 "gold-and-ultra-gold-benchmark-subsets":"gold-and-ultra-gold-benchmark-subsets",
 "good-behavior-game":"good-behavior-game",
 "google-expeditions":"google-expeditions",
+"gpt-2-output-detector-demo":"gpt-2-output-detector-demo",
 "gpt-tutor":"gpt-tutor",
 "grad-partnership-student-success-systems":"grad-partnership-student-success-systems",
 "gradeopt":"gradeopt",
@@ -257479,6 +257560,7 @@
 "lead-partnership":"lead-partnership",
 "league-framework":"league-framework",
 "league-of-innovative-schools":"league-of-innovative-schools",
+"leap-learning-with-ai-about-physics":"leap-learning-with-ai-about-physics",
 "learnadapt-praxis":"learnadapt-praxis",
 "learnai-framework":"learnai-framework",
 "learner-variability-project":"learner-variability-project",
@@ -257870,6 +257952,7 @@
 "quality-counts-california-qcc":"quality-counts-california-qcc",
 "quality-teaching-for-english-learners-qtel":"quality-teaching-for-english-learners-qtel",
 "quantum-randi-challenge-qrc":"quantum-randi-challenge-qrc",
+"quantum-theory-test":"quantum-theory-test",
 "quantway-college-with-corequisite-and-statway-college-with-corequisite-one-term-course-set":"quantway-college-with-corequisite-and-statway-college-with-corequisite-one-term-course-set",
 "question-pot":"question-pot",
 "raging-skies":"raging-skies",
@@ -258108,9 +258191,11 @@
 "superkids-reading-program":"superkids-reading-program",
 "supplemental-educational-services":"supplemental-educational-services",
 "supplemental-matrix-of-intervention-strategies-for-18-tier-2-literacy-interventions":"supplemental-matrix-of-intervention-strategies-for-18-tier-2-literacy-interventions",
+"supplementary-spreadsheet-for-effect-size-calculations":"supplementary-spreadsheet-for-effect-size-calculations",
 "supplynet":"supplynet",
 "supporting-effective-educator-development":"supporting-effective-educator-development",
 "survey-dataset-and-analysis-code-for-digital-distraction-strategy-mining":"survey-dataset-and-analysis-code-for-digital-distraction-strategy-mining",
+"survey-of-learning-behaviors":"survey-of-learning-behaviors",
 "svlat-scientific-visualization-literacy-assessment-test":"svlat-scientific-visualization-literacy-assessment-test",
 "symphony-math":"symphony-math",
 "syntea":"syntea",
@@ -258128,6 +258213,7 @@
 "talkingpoints":"talkingpoints",
 "tap-system":"tap-system",
 "targeted-reading-instruction":"targeted-reading-instruction",
+"taxonomy-betty-bettys-brain-variant":"taxonomy-betty-bettys-brain-variant",
 "tclas-high-quality-sustainable-residency-program-grant":"tclas-high-quality-sustainable-residency-program-grant",
 "teach-for-america":"teach-for-america",
 "teach-for-america-investing-in-innovation-scale-up-program":"teach-for-america-investing-in-innovation-scale-up-program",
@@ -258174,6 +258260,7 @@
 "the-3e-framework":"the-3e-framework",
 "the-ai-assessment-scale-aias":"the-ai-assessment-scale-aias",
 "the-ai-house":"the-ai-house",
+"the-arcs-self-determination-scale":"the-arcs-self-determination-scale",
 "the-collaborative":"the-collaborative",
 "the-design-helper":"the-design-helper",
 "the-electric-company-summer-learning-program":"the-electric-company-summer-learning-program",
@@ -258423,6 +258510,7 @@
 "dynemb-knowledge-tracing-framework":"dynemb-knowledge-tracing-framework",
 "early-warning-and-college-readiness-indicator-construction":"early-warning-indicator-construction",
 "early-warning-indicator-construction":"early-warning-indicator-construction",
+"ebbinghaus-savings-paradigm-variation-for-detecting-early-incidental-vocabulary-gains":"ebbinghaus-savings-paradigm-variation-for-detecting-early-incidental-vocabulary-gains",
 "edubehaviors":"edubehaviors",
 "effort-analysis":"effort-analysis",
 "effort-moderated-e-m-scoring-model":"effort-moderated-e-m-scoring-model",
@@ -258504,6 +258592,7 @@
 "fsm-based-evaluation-of-interactivity-in-ai-generated-educational-materials-ee-eval":"fsm-based-evaluation-of-interactivity-in-ai-generated-educational-materials-ee-eval",
 "full-roster-method":"full-roster-method",
 "funds-of-knowledge":"funds-of-knowledge",
+"gap-analysis-method-for-identifying-gateway-courses-via-predicted-versus-observed-dfw-rate":"gap-analysis-method-for-identifying-gateway-courses-via-predicted-versus-observed-dfw-rate",
 "gated-recurrent-unit-gru-network":"gated-recurrent-unit-gru-network",
 "general-education-categorization-two-level-taxonomy-of-learning-environments-endowment-dim":"general-education-categorization-two-level-taxonomy-of-learning-environments-endowment-dim",
 "general-polytomous-testlet-model":"general-polytomous-testlet-model",
@@ -258590,6 +258679,7 @@
 "neural-symbolic-knowledge-tracing-with-conservative-mastery-and-non-mastery-rules":"neural-symbolic-knowledge-tracing-with-conservative-mastery-and-non-mastery-rules",
 "office-hours-queue-simulation-framework":"office-hours-queue-simulation-framework",
 "offline-evaluation-with-calibrated-llm-judges-for-tutoring-behaviors":"offline-evaluation-with-calibrated-llm-judges-for-tutoring-behaviors",
+"on-line-versus-off-line-methods-for-assessing-strategy-use":"on-line-versus-off-line-methods-for-assessing-strategy-use",
 "one-shot-gpt-4o-mini-codebook-based-annotation-of-llm-math-tutor-dialogue":"one-shot-gpt-4o-mini-codebook-based-annotation-of-llm-math-tutor-dialogue",
 "opportunistic-experiments":"opportunistic-experiments",
 "optimnn-reg":"optimnn-reg",
@@ -258599,6 +258689,7 @@
 "p-curve-analysis":"p-curve-analysis",
 "partial-credit-method":"partial-credit-method",
 "partially-specified-structural-causal-model-pscm-protocol-for-educational-assessment":"partially-specified-structural-causal-model-pscm-protocol-for-educational-assessment",
+"participatory-research":"participatory-research",
 "pattern-based-knowledge-component-extraction-from-program-asts":"pattern-based-knowledge-component-extraction-from-program-asts",
 "pea-policy-enforcement-and-authority-analytic-lens":"pea-policy-enforcement-and-authority-analytic-lens",
 "per-draw-robust-linking":"per-draw-robust-linking",
@@ -258726,6 +258817,7 @@
 "three-complementary-views-of-ai-integrated-writing-product-process-and-interaction":"three-complementary-views-of-ai-integrated-writing-product-process-and-interaction",
 "three-component-decomposition-of-teacher-grade-effects":"three-component-decomposition-of-teacher-grade-effects",
 "three-criterion-framework-for-evaluating-test-mode-comparability":"three-criterion-framework-for-evaluating-test-mode-comparability",
+"three-criterion-risk-of-bias-framework-for-studies-evaluating-search-strategy-tools":"three-criterion-risk-of-bias-framework-for-studies-evaluating-search-strategy-tools",
 "three-facet-behavior-management-framework-decomposition-used-for-expert-evaluation":"three-facet-behavior-management-framework-decomposition-used-for-expert-evaluation",
 "three-level-engagement-typology-information-sharing-feedback-and-collaboration":"three-level-engagement-typology-information-sharing-feedback-and-collaboration",
 "three-measures-of-test-adaptation-based-on-optimal-test-information":"three-measures-of-test-adaptation-based-on-optimal-test-information",
@@ -261385,7 +261477,6 @@
 "imagine-math-facts-staffing-monitoring-strategy":"imagine-math-facts-staffing-monitoring-strategy",
 "imagine-math-optional-pd-sessions":"imagine-math-optional-pd-sessions",
 "immediate-ai-comparison-after-manual-estimation-pacing":"immediate-ai-comparison-after-manual-estimation-pacing",
-"immediate-post-task-reflection-with-examples":"immediate-post-task-reflection-with-examples",
 "immersion-classroom-techniques-esl":"immersion-classroom-techniques-esl",
 "impasse-depth-type-analytics-escalation-signals":"impasse-depth-type-analytics-escalation-signals",
 "implement-coherent-linked-student-database-foster-care":"implement-coherent-linked-student-database-foster-care",
@@ -262556,7 +262647,6 @@
 "peer-review-of-cooperative-learning-sessions":"peer-review-of-cooperative-learning-sessions",
 "peer-review-peer-editing":"peer-review-peer-editing",
 "peer-review-protocols":"peer-review-protocols",
-"peer-sharing-of-journal-reflections":"peer-sharing-of-journal-reflections",
 "peer-teaching":"peer-teaching",
 "peer-tutoring":"peer-tutoring",
 "peer-tutoring-after-fading-strategy":"peer-tutoring-after-fading-strategy",
@@ -264268,7 +264358,6 @@
 "teacher-effectiveness-training-conflict-resolution":"teacher-effectiveness-training-conflict-resolution",
 "teacher-facing-analytics-persistence-interpretation":"teacher-facing-analytics-persistence-interpretation",
 "teacher-family-community-relationship-support-strategies":"teacher-family-community-relationship-support-strategies",
-"teacher-feedback-on-journal-reflections-and-observations":"teacher-feedback-on-journal-reflections-and-observations",
 "teacher-guardian-of-ai-task-structure":"teacher-guardian-of-ai-task-structure",
 "teacher-in-the-loop-agentic-architecture":"teacher-in-the-loop-agentic-architecture",
 "teacher-in-the-loop-diagnostic-verification":"teacher-in-the-loop-diagnostic-verification",

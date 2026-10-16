@@ -15,12 +15,14 @@ sources:
     author: Yun, J. H.
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # In Chun and Plass's CyberBuch studies, the text + picture annotation group significantly outperformed text-definition and text + video groups on a vocabulary test
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` German learners consulting text + picture annotations scored significantly higher on a vocabulary test than groups consulting text definitions or text + video, with no significant difference between the latter two. [→ Yun 2008](#yun-2008)
@@ -31,7 +33,7 @@ sources:
 
 Yun, J. H. (2008). The Effects of Hypertext Glosses on L2 Vocabulary Acquisition: A Meta-Analysis. Doctoral dissertation, University of Kansas. https://kuscholarworks.ku.edu
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 The dissertation reports, citing Chun and Plass (1996), a within-subject/repeated-measures study of 160 second-year German students at three US universities using CyberBuch, where "text + picture annotations, significantly outperformed" the other annotation types. No effect size is printed.
 

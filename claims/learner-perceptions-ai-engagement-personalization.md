@@ -13,12 +13,14 @@ sources:
     title: Wei L 2023
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # EFL learners perceive AI-mediated instruction as engaging, personalized, anxiety-reducing, and empowering for autonomous learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Thematic analysis of interviews identified seven themes: immersive engagement, tailored learning pathways, proficiency improvement, intrinsic motivation, self-regulation empowerment, reduced anxiety, and flexible practice. [→ Wei L 2023](#wei-l-2023)
@@ -29,7 +31,7 @@ sources:
 
 Wei L (2023) Artificial intelligence in language instruction: impact on English learning achievement, L2 motivation, and self-regulated learning. Front. Psychol. 14:1261955. https://doi.org/10.3389/fpsyg.2023.1261955
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Qualitative thematic analysis of semi-structured interviews with 14 purposively sampled experimental-group students, transcribed verbatim and coded with member checking and peer debriefing. Themes included personalized pathways — one participant said "The AI platform did not treat everyone the same. It understood where I needed improvement and guided me accordingly" — and non-judgmental feedback that reduced speaking anxiety.
 

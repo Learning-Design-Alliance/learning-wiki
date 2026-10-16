@@ -15,12 +15,14 @@ sources:
     author: "Tamara van Gog & Nikol Rummel"
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # The imagination effect (cognitive rehearsal of example procedures) enhances learning only for learners with prior knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Imagining or cognitively rehearsing the procedure presented in examples enhances learning compared to studying only, but only for students with prior knowledge; for students without prior knowledge, imagining is detrimental. [→ Tamara van Gog & Nikol Rummel 2010](#tamara-van-gog-nikol-rummel-2010)
@@ -31,7 +33,7 @@ sources:
 
 Tamara van Gog & Nikol Rummel. (2010). Example-Based Learning: Integrating Cognitive and Social-Cognitive Research Perspectives. Educational Psychology Review. https://doi.org/10.1007/s10648-010-9134-7
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Narrative review citing Cooper et al. and Ginns et al.: imagining benefits knowledgeable learners while being detrimental for novices, an instance of the expertise reversal effect. Leahy and Sweller showed the effect is more likely with complex, high-intrinsic-load materials.
 

@@ -15,12 +15,14 @@ sources:
     author: Ingersoll, R. M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Both younger and older teachers are more likely to depart than middle-aged teachers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In the regression analysis, the relative odds of young teachers departing are 171% higher than for middle-aged teachers, and older teachers are also more likely to depart. [→ Ingersoll 2001](#ingersoll-2001)
@@ -31,7 +33,7 @@ sources:
 
 Ingersoll, R. M. (2001). Teacher Turnover and Teacher Shortages: An Organizational Analysis. American Educational Research Journal, 38(3), 499-534. https://eric.ed.gov/?q=Teacher+Turnover+and+Teacher+Shortages+Ingersoll
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Multilevel logistic regression (model 1, N = 5643) of TFS data with age entered as three dummy categories. Age was the most salient teacher predictor, replicating the U-shaped relationship found in prior research.
 

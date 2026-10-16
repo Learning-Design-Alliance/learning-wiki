@@ -15,18 +15,22 @@ sources:
     author: Ahmad Tarmizi, Rohani
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
   - id: ahmad-tarmizi-1991-2
     resource: "http://hdl.handle.net/1959.4/69310"
     title: "Ahmad Tarmizi, Rohani. (1991). Guidance During Mathematical Problem Solving. Doctoral thesis, University of New South Wales. http://hdl.handle.net/1959.4/69310"
     author: Ahmad Tarmizi, Rohani
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Problem isomorphs with identical structure differ greatly in difficulty; Monster Change took 16 times as long to solve as the standard problem
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Tower of Hanoi isomorphs with the same structure differ in solution difficulty, with rules that are harder to learn and apply producing much longer solution times. [→ Ahmad Tarmizi 1991](#ahmad-tarmizi-1991)
@@ -38,7 +42,7 @@ sources:
 
 Ahmad Tarmizi, Rohani. (1991). Guidance During Mathematical Problem Solving. Doctoral thesis, University of New South Wales. http://hdl.handle.net/1959.4/69310
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 The thesis reports, citing Kotovsky, Hayes and Simon's series of experiments on Tower of Hanoi isomorphs, the printed solution-time ratios across isomorphs. The review attributes the difficulty differences to learning and applying rule operators. No effect size is printed.
 
@@ -48,7 +52,7 @@ The thesis reports, citing Kotovsky, Hayes and Simon's series of experiments on 
 
 Ahmad Tarmizi, Rohani. (1991). Guidance During Mathematical Problem Solving. Doctoral thesis, University of New South Wales. http://hdl.handle.net/1959.4/69310
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 The thesis reports, citing Kotovsky et al., that isomorphs with readily encoded rules required less working-memory load and that "intensive training on the.rules decreases the difficulty of the problems", explained as rule automation. No effect size is printed.
 

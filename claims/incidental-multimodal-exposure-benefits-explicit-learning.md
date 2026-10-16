@@ -15,12 +15,14 @@ sources:
     author: Marie-Josée Bisson, Walter J. B. van Heuven, Kathy Conklin, and Richard J. Tunney
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Incidental multimodal exposure produces better explicit translation-recognition performance on previously exposed words than on new words in beginner FL learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Participants performed better on old words than new words in the translation recognition task in both block 1 and block 2 of explicit learning. [→ Marie-Josée Bisson 2014](#marie-josee-bisson-2014)
@@ -31,7 +33,7 @@ sources:
 
 Marie-Josée Bisson, Walter J. B. van Heuven, Kathy Conklin, and Richard J. Tunney. (2014). The Role of Repeated Exposure to Multimodal Input in Incidental Acquisition of Foreign Language Vocabulary. Language Learning 64:4. https://doi.org/10.1111/lang.12085
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Repeated-measures ANOVAs on the translation recognition task (phase 2) of the experiment with 78 participants tested showed a main effect of word type, "indicating that participants performed better on old words" than new words, with ηp2 = .39 and ηp2 = .40 in block 1.
 

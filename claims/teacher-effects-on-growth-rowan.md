@@ -10,15 +10,17 @@ generated:
 evidence_strength: weak
 sources:
   - id: laczko-kerr-2002
-    title: rowan-growth-1
+    title: Laczko-Kerr 2002
     q: 2
     i: 3
+    kind: associational
+    rigour: 2
 ---
 
 # Teachers account for large effects on student growth: effect sizes of .77–.88 in reading and .72–.85 in mathematics across years
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Across years, teachers' effects on student growth in reading yielded effect sizes of .77 to .88, and in mathematics .72 to .85. [→ rowan-growth-1](#laczko-kerr-2002)
@@ -29,7 +31,7 @@ sources:
 
 Laczko-Kerr, I., & Berliner, D. C. (2002, September 6). The Effectiveness of "Teach for America" and Other Under-certified Teachers on Student Academic Achievement: A Case of Harmful Public Policy. Education Policy Analysis Archives, 10(37). http://epaa.asu.edu/epaa/v10n37/
 
-`q2 · i3`
+`q2 · i3` · `associational · r2`
 
 This review article reports, citing Rowan, Correnti and Miller (2002), that teacher effects on single-year status were .21 to .42 but growth effects across years were roughly three times greater: printed effect sizes of ".77 to .88" in reading and ".72 and .85" in mathematics, all at or above d = 0.8.
 

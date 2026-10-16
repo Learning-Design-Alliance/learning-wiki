@@ -15,18 +15,22 @@ sources:
     author: Ahmad Tarmizi, Rohani
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
   - id: ahmad-tarmizi-1991-2
     resource: "http://hdl.handle.net/1959.4/69310"
     title: "Ahmad Tarmizi, Rohani. (1991). Guidance During Mathematical Problem Solving. Doctoral thesis, University of New South Wales. http://hdl.handle.net/1959.4/69310"
     author: Ahmad Tarmizi, Rohani
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # Providing subgoals did not help on the Missionaries and Cannibals problem but facilitated performance on an extended 5-Missionaries and 5-Cannibals variant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Providing subgoals was not beneficial on the Missionaries and Cannibals problem due to limited alternative moves and problem space. [→ Ahmad Tarmizi 1991](#ahmad-tarmizi-1991)
@@ -38,7 +42,7 @@ sources:
 
 Ahmad Tarmizi, Rohani. (1991). Guidance During Mathematical Problem Solving. Doctoral thesis, University of New South Wales. http://hdl.handle.net/1959.4/69310
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 The thesis reports, citing Reed and Abramson's experiments on the Missionaries and Cannibals problem with two subgoal variations, that "providing subgoals was not beneficial" on the shorter problem. No effect size is printed.
 
@@ -48,7 +52,7 @@ The thesis reports, citing Reed and Abramson's experiments on the Missionaries a
 
 Ahmad Tarmizi, Rohani. (1991). Guidance During Mathematical Problem Solving. Doctoral thesis, University of New South Wales. http://hdl.handle.net/1959.4/69310
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 The thesis reports, citing Reed and Abramson, that on the extended 5-Missionaries and 5-Cannibals version "subgoals facilitated subjects' performance" (the page's printed sentence is garbled OCR). No effect size is printed.
 

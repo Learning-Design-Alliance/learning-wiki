@@ -15,12 +15,14 @@ sources:
     author: Kaffenberger, Michelle
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # A larger shock halving grade 3 learning leaves the cohort 1.5 years behind by grade 10, with more than 80 percent of in-school children learning nothing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Halving grade 3 learning gains produces 1.5 years less grade 10 learning and raises the share of in-school children outside the range of instruction to more than 80 percent. [→ Kaffenberger 2021](#kaffenberger-2021)
@@ -31,7 +33,7 @@ sources:
 
 Kaffenberger, Michelle. (2021). Modelling the long-run learning impact of the Covid-19 learning shock: Actions to (more than) mitigate loss. International Journal of Educational Development. https://doi.org/10.1016/j.ijedudev.2020.102326
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Second loss scenario in the same calibrated PPF simulation, reducing grade 3 gains by one-half to reflect closure plus learning regression. The article reports the cohort "has gained 1.5 years less learning" than the no-shock counterfactual.
 

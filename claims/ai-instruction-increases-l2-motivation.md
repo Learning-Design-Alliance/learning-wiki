@@ -13,12 +13,14 @@ sources:
     title: Wei L 2023
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # AI-mediated language instruction increases EFL learners' L2 motivation more than traditional instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` L2 motivation improved in both groups over 10 weeks, but the improvement significantly differed between groups, favoring AI-mediated instruction (Group × Time η2 = 0.11). [→ Wei L 2023](#wei-l-2023)
@@ -29,7 +31,7 @@ sources:
 
 Wei L (2023) Artificial intelligence in language instruction: impact on English learning achievement, L2 motivation, and self-regulated learning. Front. Psychol. 14:1261955. https://doi.org/10.3389/fpsyg.2023.1261955
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Mixed-design ANOVA on a 16-item L2 motivation scale (α = 0.82) administered pre and post to both groups. Post-test means were Experimental M = 3.89 (SD = 1.8) versus Control M = 3.35 (SD = 1.5); the Group main effect was also significant (η2 = 0.18 in Table 2).
 

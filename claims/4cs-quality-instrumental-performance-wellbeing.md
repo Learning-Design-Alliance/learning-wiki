@@ -15,12 +15,14 @@ sources:
     author: Jowett, S.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # The quality of the coach-athlete relationship as defined by the 4Cs is instrumental to performance success and wellbeing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Qualitative studies of coach-athlete relationships indicate that relationship quality operationalised by the 4Cs is instrumental to performance success and wellbeing. [→ Jowett 2017](#jowett-2017)
@@ -31,7 +33,7 @@ sources:
 
 Jowett, S. (2017). Coaching Effectiveness: The Coach-Athlete Relationship at its Heart. Current Opinion in Psychology, 16, 154-158. http://dx.doi.org/10.1016/j.copsyc.2017.05.006
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports a series of qualitative studies exploring the content and functions of relationships that were successful and less so, with the overall finding that 4Cs-defined relationship quality is instrumental to performance success and wellbeing. As a narrative synthesis of qualitative work, no effect sizes are printed.
 

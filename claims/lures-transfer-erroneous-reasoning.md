@@ -15,12 +15,14 @@ sources:
     author: "Marsh, E. J., Roediger, H. L., III, Bjork, R. A., & Bjork, E. L."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Incorrect information learned from a multiple-choice test is applied and reasoned with on conceptually related transfer questions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q3 i?` Selecting a lure on a multiple-choice question increased students' likelihood of later using that lure to answer a superficially dissimilar but conceptually related transfer question. [→ Marsh 2007](#marsh-2007)
@@ -31,7 +33,7 @@ sources:
 
 Marsh, E. J., Roediger, H. L., III, Bjork, R. A., & Bjork, E. L. (2007). The memorial consequences of multiple-choice testing. Psychonomic Bulletin & Review, 14(2), 194-199. https://doi.org/10.3758/bf03194051
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 In the Bloom-level experiment, selecting a lure (e.g., gravitation) on an application question about acclimation increased later use of that lure on a conceptually similar but superficially dissimilar transfer question about animals thickening fur in winter; no effect size is printed.
 

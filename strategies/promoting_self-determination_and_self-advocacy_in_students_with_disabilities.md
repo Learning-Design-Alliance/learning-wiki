@@ -60,9 +60,11 @@ Self-determination instruction applies [Self-Determination Theory](../theories/s
 6. Debrief and integrate: after each advocacy episode, reflect on what worked and revise the plan, connecting to [Application](../elements/application.md) and [Integration](../elements/integration.md) of skills across settings
 
 ## Related Strategies
+
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — a classroom structure that gives students genuine decision authority in daily learning
 - [Action Planning](../strategies/action_planning.md) — the planning skill base for student-owned goals
 - [Achievable Micro-Goals](../strategies/achievable_micro-goals.md) — builds the competence experiences that self-determination requires
+- [Teach self-determination component elements through student-directed learning strategies and active student involvement in educational planning](student-directed-strategies-promote-self-determination.md)
 
 ## Examples
 - **Student-led IEP meetings** (e.g., the *I'm Determined* project, Virginia Department of Education, https://www.imdetermined.org): students create "one-pagers" describing their strengths and needs, then present and lead their own eligibility and transition meetings.

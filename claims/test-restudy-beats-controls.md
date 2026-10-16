@@ -15,18 +15,22 @@ sources:
     author: "Pyc, M. A., & Rawson, K. A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: pyc-2007-2
     resource: "https://link.springer.com/article/10.3758/BF03193420"
     title: "Pyc, M. A., & Rawson, K. A. (2007). Examining the efficiency of schedules of distributed retrieval practice. Memory & Cognition, 35(8), 1917-1927. https://link.springer.com/article/10.3758/BF03193420"
     author: "Pyc, M. A., & Rawson, K. A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Repeated test-restudy trials produced higher final cued recall than study-only or single test-restudy controls across both experiments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In Experiment 1, test-restudy items significantly outperformed study-only control items. [→ Pyc 2007](#pyc-2007)
@@ -38,7 +42,7 @@ sources:
 
 Pyc, M. A., & Rawson, K. A. (2007). Examining the efficiency of schedules of distributed retrieval practice. Memory & Cognition, 35(8), 1917-1927. https://link.springer.com/article/10.3758/BF03193420
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 1 mixed-factor ANOVA showed a main effect of activity, F(1,156) = 767.03, p < .001; test–restudy items had significantly higher final test performance than study-only items, replicating prior research with study-only controls.
 
@@ -48,7 +52,7 @@ Experiment 1 mixed-factor ANOVA showed a main effect of activity, F(1,156) = 767
 
 Pyc, M. A., & Rawson, K. A. (2007). Examining the efficiency of schedules of distributed retrieval practice. Memory & Cognition, 35(8), 1917-1927. https://link.springer.com/article/10.3758/BF03193420
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 2 mixed-factor ANOVA, F(1,63) = 96.2, p < .001; schedule main effect and interaction were not significant, F(2,63) = 2.69, p = .076 and F(2,63) = 2.06, p = .137; an ANCOVA using single-condition performance as covariate also showed no group difference, F(2,62) = 2.03, p = .14.
 

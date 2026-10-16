@@ -15,12 +15,14 @@ sources:
     author: Palmer, Susan B.; Wehmeyer, Michael L.; Gipson, Krista; Agran, Martin
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # All students in the self-determination skill intervention achieved their goals at better than average levels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` All students achieved goals at better than average levels. [→ Palmer 2004](#palmer-2004)
@@ -31,7 +33,7 @@ sources:
 
 Palmer, Susan B.; Wehmeyer, Michael L.; Gipson, Krista; Agran, Martin. (2004). Promoting access to the general curriculum by teaching self-determination skills. Exceptional Children, 70(4), 427-439. https://hdl.handle.net/1808/10978
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Outcome finding from the same alternating-treatments study of middle school students with intellectual disabilities: the article states all students achieved goals at better than average levels. No effect size or goal-attainment statistic is printed in the available text.
 

@@ -37,7 +37,7 @@ The article details a four-step procedure for introducing concept mapping, follo
 - Organizing and meaningfully learning content from text
 
 ### Affordances
-- [Concept Mapping Meaningful Learning Framework](../theories/concept-mapping-meaningful-learning-framework.md)
+- [Concept Mapping Meaningful Learning Framework](../theories/semantic-network-theory.md)
 
 ## Related Strategies
 - 

@@ -15,12 +15,14 @@ sources:
     author: Doris B. Chin, Ilsa M. Dohmen, and Daniel L. Schwartz
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The treatment-by-time interaction was significant, and results replicated across both yearly cohorts for both measures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` A significant time x treatment interaction favoring Kit+TA was found, F(2,130) = 21.9, p < .001. [→ Doris B. Chin 2013](#doris-b-chin-2013)
@@ -31,7 +33,7 @@ sources:
 
 Doris B. Chin, Ilsa M. Dohmen, and Daniel L. Schwartz. (2013). Young Children Can Learn Scientific Reasoning with Teachable Agents. IEEE Transactions on Learning Technologies. https://doi.org/10.1109/TLT.2013.24
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Omnibus doubly repeated measures analysis on complete-data students excluding one control class lacking a basic-value post-test. The article reports the significant time x treatment interaction with F ð2; 130Þ¼ 21:9;p < 0:001; no effect size is printed.
 

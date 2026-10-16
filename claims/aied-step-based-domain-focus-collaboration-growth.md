@@ -15,18 +15,22 @@ sources:
     author: "Ido Roll & Ruth Wylie"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: ido-roll-ruth-wylie-2016-2
     resource: "https://doi.org/10.1007/s40593-016-0110-3"
     title: "Ido Roll & Ruth Wylie. (2016). Evolution and Revolution in Artificial Intelligence in Education. International Journal of Artificial Intelligence in Education, 26, 582-599. https://doi.org/10.1007/s40593-016-0110-3"
     author: "Ido Roll & Ruth Wylie"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # The field moved toward step-based problem solving and increased support for collaboration, while focusing on domain-level knowledge
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Interaction-style coding shows increasing focus on step-based systems, and collaborative-structure coding shows 2014 papers include many supported-collaboration examples compared with 1994 and 2004. [→ Ido Roll & Ruth Wylie 2016](#ido-roll-ruth-wylie-2016)
@@ -38,7 +42,7 @@ sources:
 
 Ido Roll & Ruth Wylie. (2016). Evolution and Revolution in Artificial Intelligence in Education. International Journal of Artificial Intelligence in Education, 26, 582-599. https://doi.org/10.1007/s40593-016-0110-3
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Interaction-style and collaborative-structure coding of the 47 papers (Tables 5 and 6): 60% of 2014 empirical papers were step-based, and 2014 included 50% synchronous n-learners:n-computers empirical papers, which the authors call very welcomed.
 
@@ -48,7 +52,7 @@ Interaction-style and collaborative-structure coding of the 47 papers (Tables 5 
 
 Ido Roll & Ruth Wylie. (2016). Evolution and Revolution in Artificial Intelligence in Education. International Journal of Artificial Intelligence in Education, 26, 582-599. https://doi.org/10.1007/s40593-016-0110-3
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Learning-goal coding (Table 7) of the analysed papers: 90% of 2014 empirical papers targeted domain-level knowledge; the authors note supporting collaboration without measuring it did not qualify as a collaborative learning goal.
 

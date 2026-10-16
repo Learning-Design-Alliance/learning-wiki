@@ -15,18 +15,22 @@ sources:
     author: "Pyc, M. A., & Rawson, K. A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: pyc-2007-2
     resource: "https://link.springer.com/article/10.3758/BF03193420"
     title: "Pyc, M. A., & Rawson, K. A. (2007). Examining the efficiency of schedules of distributed retrieval practice. Memory & Cognition, 35(8), 1917-1927. https://link.springer.com/article/10.3758/BF03193420"
     author: "Pyc, M. A., & Rawson, K. A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # A 23-item-ISI dropout schedule achieved final cued-recall performance similar to conventional schedules while using significantly fewer test-restudy trials in two experiments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In Experiment 1, the 23-drop group achieved the same level of final test performance as conventional 5-5-5 and 1-5-9 groups using significantly fewer than 72 trials. [→ Pyc 2007](#pyc-2007)
@@ -38,7 +42,7 @@ sources:
 
 Pyc, M. A., & Rawson, K. A. (2007). Examining the efficiency of schedules of distributed retrieval practice. Memory & Cognition, 35(8), 1917-1927. https://link.springer.com/article/10.3758/BF03193420
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Controlled experiment with 161 undergraduates randomly assigned to five schedule groups learning 24 Swahili-English pairs. The 23-drop group used significantly fewer than 72 trials, t(32) = 3.38, p = .002, and showed "a slight numerical advantage over the conventional groups" at final test.
 
@@ -48,7 +52,7 @@ Controlled experiment with 161 undergraduates randomly assigned to five schedule
 
 Pyc, M. A., & Rawson, K. A. (2007). Examining the efficiency of schedules of distributed retrieval practice. Memory & Cognition, 35(8), 1917-1927. https://link.springer.com/article/10.3758/BF03193420
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Replication experiment with 66 undergraduates in three groups (5-5-5, 23-23-23, 23-drop). The authors conclude that "the dropout schedule did so in significantly fewer trials than the conventional schedules", t(20) = 5.8, p < .001.
 

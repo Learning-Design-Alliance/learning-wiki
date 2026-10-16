@@ -15,12 +15,14 @@ sources:
     author: "Hakiki, M., Fadli, R., Samala, A. D., Fricticarani, A., Dayurni, P., Rahmadani, K., Astiti, A. D., & Sabir, A."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Using ChatGPT during technology learning produces significantly higher post-test learning outcomes than conventional learning in a quasi-experiment of two classes of 31 students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Experimental class students using ChatGPT scored significantly higher on the final test than control class students using conventional methods (t count = 5.424 > t table = 2.000, df = 60, α = 0.05). [→ Hakiki 2023](#hakiki-2023)
@@ -31,7 +33,7 @@ sources:
 
 Hakiki, M., Fadli, R., Samala, A. D., Fricticarani, A., Dayurni, P., Rahmadani, K., Astiti, A. D., & Sabir, A. (2023). Exploring the impact of using Chat-GPT on student learning outcomes in technology learning: The comprehensive experiment. Advances in Mobile Learning Educational Research, 3(2), 859-872. https://doi.org/10.25082/AMLER.2023.02.013
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Quasi-experiment with an experimental class using ChatGPT and a control class using conventional methods, each of 31 students, assessed by final test scores and analyzed with a pooled variance t-test. The article reports "tcount> ttable (5.424> 2.000)" at α = 0.05, so H0 was rejected. No effect size was printed.
 

@@ -15,18 +15,22 @@ sources:
     author: Nicola Fuchs-Schündeln, Dirk Krueger, Alexander Ludwig, and Irina Popova
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
   - id: nicola-fuchs-schündeln-2020-2
     resource: "http://www.nber.org/papers/w27773"
     title: "Nicola Fuchs-Schündeln, Dirk Krueger, Alexander Ludwig, and Irina Popova. (2020). The Long-Term Distributional and Welfare Effects of Covid-19 School Closures. NBER Working Paper 27773. http://www.nber.org/papers/w27773"
     author: Nicola Fuchs-Schündeln, Dirk Krueger, Alexander Ludwig, and Irina Popova
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Children with poorer parents suffer more, and children of high school educated parents experience the largest welfare losses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Children from lower-income households suffer more because a larger share of their educational investment is public, and rich parents increase investment by more than poor parents in response to closures. [→ Nicola Fuchs-Schündeln 2020](#nicola-fuchs-schundeln-2020)
@@ -38,7 +42,7 @@ sources:
 
 Nicola Fuchs-Schündeln, Dirk Krueger, Alexander Ludwig, and Irina Popova. (2020). The Long-Term Distributional and Welfare Effects of Covid-19 School Closures. NBER Working Paper 27773. http://www.nber.org/papers/w27773
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Distributional simulation by parental resources: poorer households rely more on public educational investment, and dynamic complementarity gives rich parents higher incentives and more financial resources to compensate.
 
@@ -48,7 +52,7 @@ Distributional simulation by parental resources: poorer households rely more on 
 
 Nicola Fuchs-Schündeln, Dirk Krueger, Alexander Ludwig, and Irina Popova. (2020). The Long-Term Distributional and Welfare Effects of Covid-19 School Closures. NBER Working Paper 27773. http://www.nber.org/papers/w27773
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Simulation by parental education: lower college attendance rates drive welfare losses; college-educated parents mitigate best, while dropout-parent children already had very low college rates, leaving HS-educated-parent children with the largest losses.
 

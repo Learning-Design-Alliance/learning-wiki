@@ -17,7 +17,7 @@ sources:
 # Three-segment prompt design: Condition, Consequence, and Refinement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article describes a systematic way to write prompts for LLM-based feedback by splitting each prompt into three segments. The Condition specifies when support should be given (e.g., "If the students' answer is incomplete or incorrect"), the Consequence requests a specific output adaptable by the teacher and adaptive to the student's answer, and the Refinement includes a restriction such as "without giving the correct answer". This structure is intended to allow systematic manipulation and empirical investigation of adaptive and adaptable prompt segments.
@@ -36,6 +36,12 @@ The article describes a systematic way to write prompts for LLM-based feedback b
 ### Target Learning Goals
 - formative feedback design
 - self-regulated learning
+
+## Claims
+
+- [Feedback quality in LLM-generated lessons improved with three or more segments compared to one- or two-segment prompting](../claims/feedback-improves-three-or-more-segments.md) [+M]
+- [Task decomposition into three segments yields the highest-rated LLM-generated tutor training lessons, while single-step generation yields the lowest](../claims/three-segment-decomposition-highest-rated-llm-lessons.md) [+M]
+- [The highest decomposition level (five segments) performed slightly worse than the three-segment approach, suggesting non-monotonic benefits of decomposition](../claims/five-segment-decomposition-slightly-worse-than-three.md) [~M]
 
 ## Related Strategies
 - Leap Llm Formative Feedback Platform

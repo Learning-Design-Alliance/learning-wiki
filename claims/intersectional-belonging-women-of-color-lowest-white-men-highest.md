@@ -15,12 +15,14 @@ sources:
     author: Katherine Rainey, Melissa Dancy, Roslyn Mickelson, Elizabeth Stearns and Stephanie Moller
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Women of color are the least likely, and white men the most likely, to report a sense of belonging in STEM majors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Among majors, women of color were the least likely to report a sense of belonging compared to all other students (Z = 3.62, p ≤ 0.01), while white men were the most likely (Z = 2.37, p ≤ 0.01). [→ Katherine Rainey 2018](#katherine-rainey-2018)
@@ -31,7 +33,7 @@ sources:
 
 Katherine Rainey, Melissa Dancy, Roslyn Mickelson, Elizabeth Stearns and Stephanie Moller. (2018). Race and gender differences in how sense of belonging influences decisions to major in STEM. International Journal of STEM Education 5:10. https://doi.org/10.1186/s40594-018-0115-6
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Intersectional comparison of belonging codes among majors by race and gender, analyzed with the study's test of proportions. The article prints both Z statistics for "women of color" and "white men" relative to all other students. No effect size is printed.
 

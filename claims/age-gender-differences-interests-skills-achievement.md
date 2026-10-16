@@ -10,15 +10,17 @@ generated:
 evidence_strength: moderate
 sources:
   - id: zapata-cáceres-2021
-    title: analytics-2
+    title: Zapata-Cáceres 2021
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Game learning analytics showed significant age and gender differences in interests, skills, achievement, and progression through attempts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Significant age and gender differences were found in interests, skills, achievement, and progression through attempts. [→ analytics-2](#zapata-caceres-2021)
@@ -29,7 +31,7 @@ sources:
 
 M. Zapata-Cáceres and E. Martín-Barroso, "Applying Game Learning Analytics to a Voluntary Video Game: Intrinsic Motivation, Persistence, and Rewards in Learning to Program at an Early Age," in IEEE Access, vol. 9, pp. 123588-123602, 2021, doi: 10.1109/ACCESS.2021.3110475. https://doi.org/10.1109/access.2021.3110475
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Observational analysis of game learning analytics collected over 15 months, in which 4124 users played more than 28187 games. The article reports "significant age and gender differences in relation to interests, skills, achievement, and progression through attempts"; no effect sizes are printed in the available text.
 

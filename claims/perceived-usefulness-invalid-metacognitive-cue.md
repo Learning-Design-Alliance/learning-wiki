@@ -15,12 +15,14 @@ sources:
     author: "Urban, M., Děchtěrenko, F., Lukavský, J., Hrabalová, V., Svacha, F., Brom, C., & Urban, K."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 3
 ---
 
 # Perceived usefulness of ChatGPT, an invalid cue, is associated with overestimation of performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Perceived usefulness of ChatGPT was moderately associated with higher bias index (overestimation), median r = .24, while not correlating with actual performance, median r = -.01. [→ Urban 2024](#urban-2024)
@@ -32,7 +34,7 @@ sources:
 
 Urban, M., Děchtěrenko, F., Lukavský, J., Hrabalová, V., Svacha, F., Brom, C., & Urban, K. (2024). ChatGPT Improves Creative Problem-Solving Performance in University Students: An Experimental Study. Computers & Education. https://doi.org/10.1016/j.compedu.2024.105031
 
-`q2 · i?`
+`q2 · i?` · `causal · r3`
 
 Exploratory correlational analysis within the experimental group (N = 77) reported in the Results. The article concludes the more useful participants found ChatGPT, the more they overestimated their answers' quality and originality, and labels these results exploratory.
 

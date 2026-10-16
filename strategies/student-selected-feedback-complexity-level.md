@@ -17,7 +17,7 @@ sources:
 # Let students choose the complexity level of the LLM feedback
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 In LEAP, students can select the complexity of the feedback they receive for each submitted response: low (very easy-to-understand feedback in five sentences for a secondary school student), middle (feedback for a high school student, the default), or high (very elaborate feedback using physical formulas in MathJax format). The article states students "can choose the complexity level of the feedback ... for each submitted response, based on their individual preferences."
@@ -36,8 +36,16 @@ In LEAP, students can select the complexity of the feedback they receive for eac
 ### Target Learning Goals
 - self-regulated learning through adaptive feedback difficulty
 
+## Claims
+
+- [Systematic prompting of an LLM can generate cognitively activating formative feedback aligned with research-based scaffold types (demonstrated, not yet empirically validated)](../claims/leap-prompt-design-generates-cognitively-activating-feedback.md) [+W]
+
 ## Related Strategies
+
 - Leap Llm Formative Feedback Platform
+- [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md)
+- [Learning Menus](learning-menus.md)
+- [Tiered Assignments](tiered-assignments.md)
 
 ## Examples
 -

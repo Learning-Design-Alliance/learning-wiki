@@ -15,12 +15,14 @@ sources:
     author: Yun, J. H.
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # In Yoshii's study, text + picture glosses beat text-only glosses only on a definition-supply test, with no L1 versus L2 gloss difference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Among 195 EFL university students, no significant difference emerged between L1 and L2 gloss groups, while the text + picture advantage over text-only appeared only on the definition-supply test. [→ Yun 2008](#yun-2008)
@@ -31,7 +33,7 @@ sources:
 
 Yun, J. H. (2008). The Effects of Hypertext Glosses on L2 Vocabulary Acquisition: A Meta-Analysis. Doctoral dissertation, University of Kansas. https://kuscholarworks.ku.edu
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 The dissertation reports, citing Yoshii (2006), a mixed-design repeated-measure study of 195 university EFL students in four gloss groups tested immediately and after a two-week delay, where the picture advantage was "found only on a definition-supply test". No effect size printed.
 

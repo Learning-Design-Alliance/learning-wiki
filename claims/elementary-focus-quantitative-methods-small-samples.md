@@ -15,12 +15,14 @@ sources:
     author: Haozhe Jiang, Deqi Zhu, Ritesh Chugh, Darren Turnbull, Wu Jin
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Most VR/AR-supported K-12 STEM studies targeted elementary students and used quantitative methods, with most samples under 100 participants
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Most studies (n = 63) focused on the elementary stage while senior high school was underexplored (19 studies); quantitative methods were most prevalent (60 studies), and 72.65% of studies had fewer than 100 participants. [→ Haozhe Jiang 2025](#haozhe-jiang-2025)
@@ -31,7 +33,7 @@ sources:
 
 Haozhe Jiang, Deqi Zhu, Ritesh Chugh, Darren Turnbull, Wu Jin. (2025). Virtual reality and augmented reality-supported K-12 STEM learning: trends, advantages and challenges. Education and Information Technologies. https://doi.org/10.1007/s10639-024-13210-z
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Participant, method and sample-size categorizations in the review's trends analysis (Figs. 6–8). The review reports most studies (n = 63) at elementary level, 60 quantitative studies versus 53 mixed and 4 qualitative, and that "72.65% of the studies in the 13 years had less than 100 participants".
 

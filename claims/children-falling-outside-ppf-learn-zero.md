@@ -15,12 +15,14 @@ sources:
     author: Kaffenberger, Michelle
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Learning losses accumulate because children fall behind the curriculum and outside the range of the pedagogical production function, making no further gains: 72 percent of in-school children after the unmitigated shock
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Without remediation, the shock places children outside the range of instruction so they learn nothing, with nearly three-quarters (72 percent) of in-school grade 10 children making no learning gains. [→ Kaffenberger 2021](#kaffenberger-2021)
@@ -31,7 +33,7 @@ sources:
 
 Kaffenberger, Michelle. (2021). Modelling the long-run learning impact of the Covid-19 learning shock: Actions to (more than) mitigate loss. International Journal of Educational Development. https://doi.org/10.1016/j.ijedudev.2020.102326
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Mechanism reported for the unmitigated one-third-loss scenario in the PPF simulation: lost learning puts children behind the curriculum, where they cannot engage with the material and stop gaining skills (Fig. 4).
 

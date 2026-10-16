@@ -15,12 +15,14 @@ sources:
     author: "Carrier, M., & Pashler, H."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The TTST advantage replicates with meaningful Eskimo/English word pairs (Experiment 2)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` More Eskimo/English pairs from the TTST condition than the pure ST condition were correctly completed. [→ Carrier 1992](#carrier-1992)
@@ -31,7 +33,7 @@ sources:
 
 Carrier, M., & Pashler, H. (1992). The influence of retrieval on retention. Memory & Cognition, 20(6), 633-642. https://doi.org/10.3758/bf03202713
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Laboratory experiment with 59 subjects (data from 53 analyzed) learning 40 Eskimo/English word pairs under the same procedure as Experiment 1. The ANOVA showed the reliable TTST advantage the article reports; means were 5.7 vs 6.4 (Day 1) and 3.9 vs 4.6 (Day 2).
 

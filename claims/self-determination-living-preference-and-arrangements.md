@@ -15,18 +15,22 @@ sources:
     author: Michael Wehmeyer, Michelle Schwartz
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: michael-wehmeyer-1997-2
     resource: "https://eric.ed.gov/?q=Self-Determination+and+Positive+Adult+Outcomes+Wehmeyer+Schwartz"
     title: "Michael Wehmeyer, Michelle Schwartz. (1997). Self-Determination and Positive Adult Outcomes: A Follow-Up Study of Youth with Mental Retardation or Learning Disabilities. Exceptional Children, 63(2). https://eric.ed.gov/?q=Self-Determination+and+Positive+Adult+Outcomes+Wehmeyer+Schwartz"
     author: Michael Wehmeyer, Michelle Schwartz
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # High self-determination former students were more likely to express a preference to live outside the family home, though actual living arrangements did not differ by self-determination group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` 44% of respondents for the high self-determined group indicated the student wanted to live elsewhere, versus 19% of the low self-determined group. [→ Michael Wehmeyer 1997](#michael-wehmeyer-1997)
@@ -38,7 +42,7 @@ sources:
 
 Michael Wehmeyer, Michelle Schwartz. (1997). Self-Determination and Positive Adult Outcomes: A Follow-Up Study of Youth with Mental Retardation or Learning Disabilities. Exceptional Children, 63(2). https://eric.ed.gov/?q=Self-Determination+and+Positive+Adult+Outcomes+Wehmeyer+Schwartz
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Chi-square analysis of stated preference to live elsewhere in the follow-up survey of 80 former students with cognitive disabilities. No standardized effect size printed.
 
@@ -48,7 +52,7 @@ Chi-square analysis of stated preference to live elsewhere in the follow-up surv
 
 Michael Wehmeyer, Michelle Schwartz. (1997). Self-Determination and Positive Adult Outcomes: A Follow-Up Study of Youth with Mental Retardation or Learning Disabilities. Exceptional Children, 63(2). https://eric.ed.gov/?q=Self-Determination+and+Positive+Adult+Outcomes+Wehmeyer+Schwartz
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 The low number of students living outside the family home (n = 8) made further housing analyses inadvisable; equivalence was not tested.
 

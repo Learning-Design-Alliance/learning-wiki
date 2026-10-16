@@ -15,12 +15,14 @@ sources:
     author: Theobald, M.
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Feedback in course design predicts larger SRL training effects for metacognitive strategies, resource management strategies, and motivation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r?` · `q3`
 
 ## Subclaims
 `q3 i?` Meta-analytic moderator analyses showed feedback predicted larger training effects for metacognitive and resource management strategies as well as motivation. [→ Theobald 2021](#theobald-2021)
@@ -31,7 +33,7 @@ sources:
 
 Theobald, M. (2021). Self-Regulated Learning Training Programs Enhance University Students' Academic Performance, Self-Regulated Learning Strategies, and Motivation: A Meta-Analysis. Contemporary Educational Psychology. https://doi.org/10.1016/j.cedpsych.2021.101976
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r?`
 
 Moderator analysis of course design characteristics across the 49 included studies: "Feedback predicted larger training effects for metacognitive and resource management strategies as well as motivation." No moderator effect size is printed in the supplied text.
 

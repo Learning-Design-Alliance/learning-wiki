@@ -15,18 +15,22 @@ sources:
     author: "Bloemer, W., Day, S., & Swan, K."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
   - id: bloemer-2017-2
     resource: "https://doi.org/10.24059/olj.v21i3.1233"
     title: "Bloemer, W., Day, S., & Swan, K. (2017). Gap analysis: An innovative look at gateway courses and student retention. Online Learning, 21(3), 5-14. https://doi.org/10.24059/olj.v21i3.1233"
     author: "Bloemer, W., Day, S., & Swan, K."
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Gap analysis comparing observed to predicted DFW rates recasts course rankings, revealing courses that exceed or fall below expectations in a way raw DFW ranking does not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Some courses with high observed DFW rates have similarly high predicted DFW rates, so they drop out of the alarm range when gaps are used, while others perform better than predicted. [→ Bloemer 2017](#bloemer-2017)
@@ -38,7 +42,7 @@ sources:
 
 Bloemer, W., Day, S., & Swan, K. (2017). Gap analysis: An innovative look at gateway courses and student retention. Online Learning, 21(3), 5-14. https://doi.org/10.24059/olj.v21i3.1233
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Analysis of all undergraduate degree-seeking students at a small Midwestern public university over four years; a binary logistic regression predicted DFW probability from Student Type, life-cycle stage, prior cumulative GPA, and prior DFW fraction, producing predicted rates benchmarked against observed rates for 34 general education courses. The sixth course "moves from being in the top five problematic courses by actual DFW rate to the middle of th e pack when judged by the gap."
 
@@ -48,7 +52,7 @@ Analysis of all undergraduate degree-seeking students at a small Midwestern publ
 
 Bloemer, W., Day, S., & Swan, K. (2017). Gap analysis: An innovative look at gateway courses and student retention. Online Learning, 21(3), 5-14. https://doi.org/10.24059/olj.v21i3.1233
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 The same four-year institutional records analysis found courses whose DFW rates "are not high enough to attract attention, but are much higher than would be expected for their given student population"; the fifth-ranked-by-gap course "might be overlooked using actual DFW rates" yet ranks in the top 5 by gap.
 

@@ -31,7 +31,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (18 for, 18 mixed, 1 against) · 30 studies (10 review, 7 causal, 5 quant-synthesis, 3 qualitative, 3 theoretical, 2 design), `q1`–`q4` · 5 of 30 report an effect size · 35 claims rest on one study
+> **Evidence** · 38 claims (18 for, 19 mixed, 1 against) · 31 studies (11 review, 7 causal, 5 quant-synthesis, 3 qualitative, 3 theoretical, 2 design), `q1`–`q4` · 5 of 31 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +139,7 @@ Read against this model on 2026-10-15; the claims below do not bear on the relat
 - [Prior Knowledge Impacts Text Understanding](../claims/prior-knowledge-impacts-text-understanding.md) [+M]
 - [Undergraduates learning IoT tasks in VR with ChatGPT-integrated feedback reached significantly higher cognitive levels on memory, understanding, and application tasks than peers receiving traditional VR feedback](../claims/gpt-feedback-vr-higher-cognitive-levels.md) [+W] — attached 2026-10-15 from Wang et al. (2025), which proposed "Integrate generative AI feedback into VR learning environments to provide targeted, real-time feedback that addresses limitations of traditional VR feedback"; tests this page's relationship.
 - [GPT feedback in VR markedly improved problem-solving and critical thinking but had limited impact on creativity](../claims/gpt-feedback-hots-problem-solving-critical-thinking-limited-creativity.md) [~W] — attached 2026-10-15 from Wang et al. (2025), which proposed "Integrate generative AI feedback into VR learning environments to provide targeted, real-time feedback that addresses limitations of traditional VR feedback"; tests this page's relationship.
+- [Multiple-hypothesis strategies improve performance only when simulation complexity is low](../claims/multiple-hypothesis-strategy-low-complexity.md) [~W] — attached 2026-10-16 from Ton de Jong (1998), which proposed "Embed assignments, questions, or games in simulations to support learning outcomes".
 
 ## Objective and learner-valued goal
 

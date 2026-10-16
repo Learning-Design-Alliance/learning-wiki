@@ -15,12 +15,14 @@ sources:
     author: "Tamara van Gog & Nikol Rummel"
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Expertise reversal: high-guidance worked examples become ineffective or detrimental once learners have developed cognitive schemata
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Instructional guidance from worked examples fosters learning when no schemata are available but is ineffective or even detrimental for students who already have relevant schemata, requiring dynamic adaptation of guidance. [→ Tamara van Gog & Nikol Rummel 2010](#tamara-van-gog-nikol-rummel-2010)
@@ -31,7 +33,7 @@ sources:
 
 Tamara van Gog & Nikol Rummel. (2010). Example-Based Learning: Integrating Cognitive and Social-Cognitive Research Perspectives. Educational Psychology Review. https://doi.org/10.1007/s10648-010-9134-7
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Narrative review, citing research on the expertise reversal effect (Kalyuga et al.), reporting that format effectiveness depends on learner prior knowledge. The guidance is "ineffective or even detrimental for learning" once schemata exist, which can also occur within the instruction phase.
 

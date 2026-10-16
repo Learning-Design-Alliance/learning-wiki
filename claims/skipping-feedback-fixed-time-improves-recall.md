@@ -15,12 +15,14 @@ sources:
     author: Matthew Jensen Hays, Nate Kornell, and Robert A. Bjork
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # When total learning time is fixed, permitting learners to skip feedback after retrieval improves delayed final recall compared with mandatory feedback
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Final recall was reliably greater when feedback skipping was permitted (M = .72) than when it was forbidden (M = .63). [→ Matthew Jensen Hays 2010](#matthew-jensen-hays-2010)
@@ -31,7 +33,7 @@ sources:
 
 Matthew Jensen Hays, Nate Kornell, and Robert A. Bjork. (2010). The costs and benefits of providing feedback during learning. Psychonomic Bulletin & Review. https://doi.org/10.3758/PBR.17.6.797
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Controlled experiment with 68 UCLA undergraduates learning Swahili–English pairs under fixed total time; final untimed test after 24–48 h showed that recall was "reliably greater when skipping was permitted" than when forbidden.
 

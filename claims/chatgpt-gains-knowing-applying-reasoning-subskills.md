@@ -15,12 +15,14 @@ sources:
     author: Saif Alneyadi and Yousef Wardat
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # ChatGPT-enhanced instruction improved Knowing, Applying and Reasoning sub-skills significantly, each with a large printed effect size
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Post-test improvements favored the experimental group on all three sub-skills (Knowing, Applying, Reasoning), with MANCOVA results marked Large (η² 0.273, 0.206, 0.263). [→ Saif Alneyadi and Yousef Wardat 2024](#saif-alneyadi-and-yousef-wardat-2024)
@@ -31,7 +33,7 @@ sources:
 
 Saif Alneyadi and Yousef Wardat. (2024). Integrating ChatGPT in Grade 12 Quantum Theory Education: An Exploratory Study at Emirate School (UAE). International Journal of Information and Education Technology, Vol. 14, No. 3. https://doi.org/10.18178/ijiet.2024.14.3.2061
 
-`q3 · i3`
+`q3 · i3` · `causal · r1`
 
 MANCOVA table (Table 3) reporting sub-skill F tests at α = 0.05: Knowing F = 7.46, η² = 0.273; Applying F = 4.78, η² = 0.206; Reasoning F = 6.29, η² = 0.263, each labeled "Large" by the article.
 

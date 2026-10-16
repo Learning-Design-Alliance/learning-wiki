@@ -15,12 +15,14 @@ sources:
     author: "Gore, J., Miller, A., Fray, L., Harris, J., & Prieto, E."
     q: 3
     i: 0
+    kind: associational
+    rigour: 3
 ---
 
 # Year 3 students in mid-ICSEA schools achieved two months additional mathematics growth in 2020 compared with 2019
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · associational `r3` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` Year 3 students in mid-ICSEA schools (950-1050) achieved the equivalent of two months' additional growth in mathematics in 2020 compared with the same ICSEA band in 2019 (d = 0.15, p = 0.002). [→ Gore 2021](#gore-2021)
@@ -31,7 +33,7 @@ sources:
 
 Gore, J., Miller, A., Fray, L., Harris, J., & Prieto, E. (2021). The impact of COVID-19 on student learning in New South Wales primary schools: an empirical study. The Australian Educational Researcher, 48, 605-637. https://doi.org/10.1007/s13384-021-00436-w
 
-`q3 · i0`
+`q3 · i0` · `associational · r3`
 
 Linear mixed models with matched ICSEA subgroups found Year 3 mid-ICSEA students' 2020 mathematics growth exceeded 2019 (d = 0.15, 95% CI = 0.06, 0.25, p = 0.002). The study reports this as "two months' additional growth" using EEF standards.
 

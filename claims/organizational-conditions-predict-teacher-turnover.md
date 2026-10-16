@@ -15,18 +15,22 @@ sources:
     author: Ingersoll, R. M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
   - id: ingersoll-2001-2
     resource: "https://eric.ed.gov/?q=Teacher+Turnover+and+Teacher+Shortages+Ingersoll"
     title: "Ingersoll, R. M. (2001). Teacher Turnover and Teacher Shortages: An Organizational Analysis. American Educational Research Journal, 38(3), 499-534. https://eric.ed.gov/?q=Teacher+Turnover+and+Teacher+Shortages+Ingersoll"
     author: Ingersoll, R. M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Administrative support, student discipline, and faculty influence are associated with teacher turnover after controlling for teacher and school characteristics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Schools providing more administrative support to teachers have distinctly lower turnover; a 1-unit difference in reported support is associated with a 23% difference in the odds of a teacher departing. [→ Ingersoll 2001](#ingersoll-2001)
@@ -38,7 +42,7 @@ sources:
 
 Ingersoll, R. M. (2001). Teacher Turnover and Teacher Shortages: An Organizational Analysis. American Educational Research Journal, 38(3), 499-534. https://eric.ed.gov/?q=Teacher+Turnover+and+Teacher+Shortages+Ingersoll
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Multilevel logistic regression (PROC GENMOD, N = 5643) of the 1991-1992 TFS linked to SASS, controlling for teacher and school characteristics. Administrative support was significantly associated with lower turnover odds.
 
@@ -48,7 +52,7 @@ Multilevel logistic regression (PROC GENMOD, N = 5643) of the 1991-1992 TFS link
 
 Ingersoll, R. M. (2001). Teacher Turnover and Teacher Shortages: An Organizational Analysis. American Educational Research Journal, 38(3), 499-534. https://eric.ed.gov/?q=Teacher+Turnover+and+Teacher+Shortages+Ingersoll
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Same multilevel logistic regression analysis (model 6, N = 5643). Faculty influence over school policies was significantly associated with lower turnover odds after controlling for teacher and school characteristics.
 

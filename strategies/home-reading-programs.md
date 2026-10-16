@@ -58,9 +58,11 @@ The core mechanism is volume of successful reading practice: programs that ensur
 4. Adjust text levels based on check-in data and connect home reading to classroom instruction so practice reinforces taught skills ([Assessment for Learning](../principles/assessment-for-learning.md)).
 
 ## Related Strategies
+
 - [Dialogic Reading](../elements/dialogic-reading.md) — the caregiver-interaction core of many home reading programs
 - [Sustained Silent Reading](sustained-silent-reading.md) — the in-school complement for building voluntary reading volume
 - [Repeated Reading](repeated-reading.md) — a fluency technique families can be coached to use at home
+- [Summer reading programs should provide books matched to students' reading levels, encourage oral reading practice, and include scaffolding](scaffolded-summer-reading-programs.md)
 
 ## Examples
 - **Reading Is Fundamental (RIF)** — book distribution and family engagement programs ([https://www.rif.org](https://www.rif.org))

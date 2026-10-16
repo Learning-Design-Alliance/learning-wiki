@@ -15,12 +15,14 @@ sources:
     author: Marcel V. J. Veenman
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Off-line self-reports of strategy use may not correspond to actual learner behavior due to memory-reconstruction problems
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` While answering off-line questions, learners must reconstruct earlier processes from memory, which may suffer from memory failure and distortions, and distortion increases with the delay between performance and reporting. [→ Marcel V. J. Veenman 2011](#marcel-v-j-veenman-2011)
@@ -31,7 +33,7 @@ sources:
 
 Marcel V. J. Veenman. (2011). Alternative assessment of strategy use with self-report instruments: a discussion. Metacognition and Learning. https://doi.org/10.1007/s11409-011-9080-x
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Theoretical argument in the discussion section, citing Ericsson and Simon (1993) and Nisbett and Wilson (1977), that off-line self-reports rest on memory reconstruction. The article notes "Distortion due to memory failure is likely to increase with the interval between task performance and retrospective reports."
 

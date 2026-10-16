@@ -17,7 +17,7 @@ sources:
 # Integrate ChatGPT into Quantum Theory (and similar STEM) courses as a supplement to traditional teaching, with students verifying chatbot answers collaboratively
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 2 studies (1 causal, 1 quant-synthesis), `q2`–`q4` · 2 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The article supports embedding ChatGPT-supported activities in Quantum Theory courses where students ask questions, receive step-by-step explanations, and verify the chatbot's solutions in groups with teachers. Students themselves stated that "incorporating ChatGPT into the Quantum Theory curriculum would be extremely beneficial", valuing its interactive, personalized support that supplements traditional teaching. Because the chatbot errs on graphs and complex math, answers should be checked against textbooks, articles, and other resources.
@@ -36,6 +36,13 @@ The article supports embedding ChatGPT-supported activities in Quantum Theory co
 
 ### Target Learning Goals
 - Fundamental Quantum Theory concepts, problem-solving skills, and scientific questioning aptitudes
+
+## Claims
+
+- [ChatGPT-enhanced instruction produced significantly higher overall post-test achievement in Grade 12 Quantum Theory than traditional teaching, with a large effect size (η² > 0.14)](../claims/chatgpt-instruction-higher-quantum-posttest-achievement.md) [+W]
+- [Students reported that ChatGPT enhanced engagement, comprehension, problem-solving, and perceived relevance in Quantum Theory](../claims/chatgpt-qualitative-engagement-comprehension-quantum.md) [+W]
+- [Collaborative evaluation of chatbot solutions in groups supported problem-solving: students verified the chatbot's step-by-step photoelectric-effect calculation together](../claims/collaborative-chatbot-answer-verification-problem-solving.md) [+W]
+- [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+W]
 
 ## Related Strategies
 - 

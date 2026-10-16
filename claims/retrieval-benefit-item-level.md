@@ -15,12 +15,14 @@ sources:
     author: "Carrier, M., & Pashler, H."
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The retrieval benefit occurs at the level of individual items, not through general practice at retrieval
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r2` · `q1`
 
 ## Subclaims
 `q1 i?` General retrieval practice cannot account for testing effects, because a benefit of retrieval practice should then also appear for pure ST items. [→ Carrier 1992](#carrier-1992)
@@ -31,7 +33,7 @@ sources:
 
 Carrier, M., & Pashler, H. (1992). The influence of retrieval on retention. Memory & Cognition, 20(6), 633-642. https://doi.org/10.3758/bf03202713
 
-`q1 · i?`
+`q1 · i?` · `causal · r2`
 
 Authors' interpretive argument in the General Discussion, supported by post hoc analyses of Experiments 1-3 that showed no consistent differences in intralist versus extralist errors and no reliable relation of overall memory or distractor performance to the final effect pattern.
 

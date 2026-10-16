@@ -15,12 +15,14 @@ sources:
     author: "Gasiewski, J. A., Eagan, M. K., Garcia, G. A., Hurtado, S., & Chang, M. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Predominantly lecture-based courses are associated with less engagement, while class discussion and group work time are associated with more
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Students who described the course as predominantly lecture-based reported significantly less engagement (p < 0.001), whereas greater reported proportions of class time devoted to discussion (p < 0.05) and group work (p < 0.01) predicted more engagement. [→ Gasiewski 2012](#gasiewski-2012)
@@ -31,7 +33,7 @@ sources:
 
 Gasiewski, J. A., Eagan, M. K., Garcia, G. A., Hurtado, S., & Chang, M. J. (2012). From Gatekeeping to Engagement: A Multicontextual, Mixed Method Study of Student Academic Engagement in Introductory STEM Courses. Research in Higher Education, 53, 229–261. https://doi.org/10.1007/s11162-011-9247-y
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Faculty pedagogy block of the same HLM results (Table 3): the three pedagogy coefficients with significance levels as printed, no effect sizes reported. Focus groups corroborated that lecture felt disengaging and that discussion, group work, clickers, and web-based pedagogy were the most engaging innovations.
 

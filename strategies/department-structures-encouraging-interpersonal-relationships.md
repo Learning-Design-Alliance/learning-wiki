@@ -17,7 +17,7 @@ sources:
 # Departments seeking persistence should take inventory of interpersonal connections and build structures that encourage them
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Based on the finding that interpersonal relationships were the most common reason cited for belonging or its absence, the authors recommend that a department "interested in increasing persistence rates among students from all demographic backgrounds" take inventory of connections among faculty and students and "providing structures that encourage strong interpersonal relationships are likely to be productive strategies."
@@ -35,6 +35,10 @@ Based on the finding that interpersonal relationships were the most common reaso
 
 ### Target Learning Goals
 - increasing persistence rates in STEM majors
+
+## Claims
+
+- [Four factors explain students' sense of belonging in STEM, with interpersonal relationships the most commonly cited](../claims/four-factors-interpersonal-relationships-competence-interest-identity-explain-belonging.md) [+W]
 
 ## Related Strategies
 - 

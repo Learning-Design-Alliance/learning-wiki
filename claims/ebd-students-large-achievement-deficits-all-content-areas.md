@@ -13,12 +13,14 @@ sources:
     title: Nelson 2004
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Students with E/BD in K-12 public school settings show large academic achievement deficits across all content areas
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Students with emotional/behavioral disorders showed large academic achievement deficits across all content areas in a random sample of 155 K-12 students. [→ Nelson 2004](#nelson-2004)
@@ -29,7 +31,7 @@ sources:
 
 Nelson, J.R., Benner, G.J., Lane, K.L. & Smith, B.W. (2004) Academic Achievement of K-12 Students With Emotional and Behavioral Disorders. Exceptional Children, 71 (1), 59-73. https://hdl.handle.net/1808/10968
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Cross-sectional study with a random sample of 155 K-12 students served in public school settings, assessing the extent to which students with E/BD "experience academic achievement deficits". The article reports deficits appeared large across all content areas; no effect size is printed.
 

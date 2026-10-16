@@ -15,12 +15,14 @@ sources:
     author: Gershenson, S.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Summer-SES time-use gaps are larger among children of married parents, suggesting results are not driven by single-parent households
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Restricting the APSCC sample to married-parent households, low-income summer gaps in television viewing and conversation increase in magnitude, and the college-educated television gap more than doubles. [→ Gershenson 2013](#gershenson-2013)
@@ -31,7 +33,7 @@ sources:
 
 Gershenson, S. (2013). Do summer time-use gaps vary by socioeconomic status? American University. http://www.bls.gov/tus/
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Sensitivity analysis in table 3 restricting the APSCC sample to children whose parents were married at the diary date. The article presents this as evidence that the main results are not driven by behaviors in single-parent households; OLS estimates corroborate the Tobit findings.
 

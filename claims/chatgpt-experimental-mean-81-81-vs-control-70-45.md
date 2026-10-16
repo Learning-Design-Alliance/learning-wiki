@@ -15,12 +15,14 @@ sources:
     author: "Hakiki, M., Fadli, R., Samala, A. D., Fricticarani, A., Dayurni, P., Rahmadani, K., Astiti, A. D., & Sabir, A."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Post-test mean learning outcomes were 81.81 in the ChatGPT class versus 70.45 in the conventional class
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The experimental class mean (81.81) exceeded the control class mean (70.45) on the final test. [→ Hakiki 2023](#hakiki-2023)
@@ -31,7 +33,7 @@ sources:
 
 Hakiki, M., Fadli, R., Samala, A. D., Fricticarani, A., Dayurni, P., Rahmadani, K., Astiti, A. D., & Sabir, A. (2023). Exploring the impact of using Chat-GPT on student learning outcomes in technology learning: The comprehensive experiment. Advances in Mobile Learning Educational Research, 3(2), 859-872. https://doi.org/10.25082/AMLER.2023.02.013
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Descriptive comparison of final-test means from the results section, with 31 respondents per class. The article states "the average value obtained between the experimental and control classes has a large difference". Printed standard deviations were 6.353 (experimental, Table 2) and 9.277 (control).
 

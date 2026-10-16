@@ -15,18 +15,22 @@ sources:
     author: "Marsh, E. J., Roediger, H. L., III, Bjork, R. A., & Bjork, E. L."
     q: 3
     i: "?"
+    kind: review
+    rigour: 2
   - id: marsh-2007-2
     resource: "https://doi.org/10.3758/bf03194051"
     title: "Marsh, E. J., Roediger, H. L., III, Bjork, R. A., & Bjork, E. L. (2007). The memorial consequences of multiple-choice testing. Psychonomic Bulletin & Review, 14(2), 194-199. https://doi.org/10.3758/bf03194051"
     author: "Marsh, E. J., Roediger, H. L., III, Bjork, R. A., & Bjork, E. L."
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Multiple-choice testing increases the later production of multiple-choice lures as answers on cued recall tests, even under warning against guessing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` Testing increased use of specific multiple-choice lures as answers on a later cued recall test, from 5% of questions when not previously tested to 12% when tested. [→ Marsh 2007](#marsh-2007)
@@ -38,7 +42,7 @@ sources:
 
 Marsh, E. J., Roediger, H. L., III, Bjork, R. A., & Bjork, E. L. (2007). The memorial consequences of multiple-choice testing. Psychonomic Bulletin & Review, 14(2), 194-199. https://doi.org/10.3758/bf03194051
 
-`q3 · i?`
+`q3 · i?` · `review · r2`
 
 In the multiple-choice experiments described (Roediger & Marsh, 2005), testing increased production of multiple-choice lures on later cued recall questions even when students were strictly warned against guessing, rising from 5% to 12% of answers; these are descriptive percentages with no printed effect size.
 
@@ -48,7 +52,7 @@ In the multiple-choice experiments described (Roediger & Marsh, 2005), testing i
 
 Marsh, E. J., Roediger, H. L., III, Bjork, R. A., & Bjork, E. L. (2007). The memorial consequences of multiple-choice testing. Psychonomic Bulletin & Review, 14(2), 194-199. https://doi.org/10.3758/bf03194051
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 In the SAT II experiment, lure production on the final cued recall test rose from 7% to 16% after testing; the article notes students also produced fewer other wrong answers after testing, so the overall error rate was not higher; no standardized effect size is printed.
 

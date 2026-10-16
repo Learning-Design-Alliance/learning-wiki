@@ -15,18 +15,22 @@ sources:
     author: Ton de Jong, Wouter R. van Joolingen
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: ton-de-jong-1998-2
     resource: "https://telearn.hal.science/hal-00190680v1"
     title: "Ton de Jong, Wouter R. van Joolingen. (1998). Scientific Discovery Learning with Computer Simulations of Conceptual Domains. Review of Educational Research. https://telearn.hal.science/hal-00190680v1"
     author: Ton de Jong, Wouter R. van Joolingen
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Learners have difficulty generating and adapting hypotheses, with low process validity and strong persistence of initial hypotheses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Assessed discovery processes of mechanical engineering students showed an average of only 42% syntactical correctness, lower for hypothesis generation. [→ Ton de Jong 1998](#ton-de-jong-1998)
@@ -38,7 +42,7 @@ sources:
 
 Ton de Jong, Wouter R. van Joolingen. (1998). Scientific Discovery Learning with Computer Simulations of Conceptual Domains. Review of Educational Research. https://telearn.hal.science/hal-00190680v1
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports Njoo and De Jong's assessment of 91 mechanical engineering students working on a control theory simulation, using fill-in forms to score syntactical correctness, finding "42% correctness of processes" overall.
 
@@ -48,7 +52,7 @@ The review reports Njoo and De Jong's assessment of 91 mechanical engineering st
 
 Ton de Jong, Wouter R. van Joolingen. (1998). Scientific Discovery Learning with Computer Simulations of Conceptual Domains. Review of Educational Research. https://telearn.hal.science/hal-00190680v1
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review attributes to Klahr and Dunbar's SDDS studies the finding that "56% of observed cases" involved incorrect retention of hypotheses after disconfirming results; the review reports this second-hand.
 

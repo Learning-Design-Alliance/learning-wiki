@@ -38,7 +38,8 @@ In its conclusion, the article recommends that practitioners write out the how o
 - Learning how to conduct participatory research from published accounts
 
 ## Related Strategies
-- 
+
+- [Use example figures and published case exemplars to select participatory tools for each research step](pr-method-exemplar-matching-strategy.md)
 
 ## Examples
 -

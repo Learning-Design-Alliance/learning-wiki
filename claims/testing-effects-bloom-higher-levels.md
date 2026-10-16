@@ -15,12 +15,14 @@ sources:
     author: "Marsh, E. J., Roediger, H. L., III, Bjork, R. A., & Bjork, E. L."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Positive and negative testing effects occur for questions tapping higher levels of Bloom's taxonomy, and question level does not change the memorial consequences of testing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q3 i?` Testing with either Level 1 or Level 3 questions increased lure answers on the final test, from 2% in the nontested condition to 9% and 11% respectively. [→ Marsh 2007](#marsh-2007)
@@ -31,7 +33,7 @@ sources:
 
 Marsh, E. J., Roediger, H. L., III, Bjork, R. A., & Bjork, E. L. (2007). The memorial consequences of multiple-choice testing. Psychonomic Bulletin & Review, 14(2), 194-199. https://doi.org/10.3758/bf03194051
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 In the same level-of-question experiment, testing with either definitional or application multiple-choice questions increased lure answers on the final test relative to the nontested condition; the authors state changing the question level did not change the memorial consequences of testing; no standardized effect size is printed.
 

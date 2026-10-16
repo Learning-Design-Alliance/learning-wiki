@@ -15,18 +15,22 @@ sources:
     author: "Leppink, J., Broers, N. J., Imbos, T., van der Vleuten, C. P. M., & Berger, M. P. F."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: leppink-2012-2
     resource: "https://doi.org/10.1007/s10734-011-9476-1"
     title: "Leppink, J., Broers, N. J., Imbos, T., van der Vleuten, C. P. M., & Berger, M. P. F. (2012). Self-explanation in the domain of statistics: an expertise reversal effect. Higher Education, 63, 771-785. https://doi.org/10.1007/s10734-011-9476-1"
     author: "Leppink, J., Broers, N. J., Imbos, T., van der Vleuten, C. P. M., & Berger, M. P. F."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Cognitive load when studying depended on instructional method (highest in the worked-out examples condition), but no prior knowledge or test-phase effects emerged
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` The interaction between cognitive load and instructional method was statistically significant, F(3, 101) = 3.690, with η² = 0.099; average cognitive load when studying was highest in the worked-out examples condition. [→ Leppink 2012](#leppink-2012)
@@ -38,7 +42,7 @@ sources:
 
 Leppink, J., Broers, N. J., Imbos, T., van der Vleuten, C. P. M., & Berger, M. P. F. (2012). Self-explanation in the domain of statistics: an expertise reversal effect. Higher Education, 63, 771-785. https://doi.org/10.1007/s10734-011-9476-1
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Split-plot ANOVA on Paas' nine-point cognitive load scale with studying and test ratings as repeated measures; the printed effect size is η² = 0.099 (printed g2 = 0.099), in the 0.04-0.13 band. A studying-phase method main effect was also significant, with "the average cognitive load when studying being highest in the worked-out examples condition".
 
@@ -48,7 +52,7 @@ Split-plot ANOVA on Paas' nine-point cognitive load scale with studying and test
 
 Leppink, J., Broers, N. J., Imbos, T., van der Vleuten, C. P. M., & Berger, M. P. F. (2012). Self-explanation in the domain of statistics: an expertise reversal effect. Higher Education, 63, 771-785. https://doi.org/10.1007/s10734-011-9476-1
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Split-plot ANOVA null results: the hypothesized prior knowledge effect on load and its interactions were non-significant. For load during the test, the method main effect was also non-significant (F(3, 101) = 0.837); the authors conclude the studying-phase effect "is reduced to small and virtually non-existing" at test.
 

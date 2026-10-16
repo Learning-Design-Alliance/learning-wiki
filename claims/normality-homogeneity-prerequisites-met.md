@@ -15,18 +15,22 @@ sources:
     author: "Hakiki, M., Fadli, R., Samala, A. D., Fricticarani, A., Dayurni, P., Rahmadani, K., Astiti, A. D., & Sabir, A."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: hakiki-2023-2
     resource: "https://doi.org/10.25082/AMLER.2023.02.013"
     title: "Hakiki, M., Fadli, R., Samala, A. D., Fricticarani, A., Dayurni, P., Rahmadani, K., Astiti, A. D., & Sabir, A. (2023). Exploring the impact of using Chat-GPT on student learning outcomes in technology learning: The comprehensive experiment. Advances in Mobile Learning Educational Research, 3(2), 859-872. https://doi.org/10.25082/AMLER.2023.02.013"
     author: "Hakiki, M., Fadli, R., Samala, A. D., Fricticarani, A., Dayurni, P., Rahmadani, K., Astiti, A. D., & Sabir, A."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # The outcome data met t-test assumptions: Lilliefors normality (Lo < Lt for both classes) and variance homogeneity (F count 0.579 < F table 1.84)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Lilliefors tests showed both classes' final-test data were normally distributed (Lo < Lt = 0.159). [→ Hakiki 2023](#hakiki-2023)
@@ -38,7 +42,7 @@ sources:
 
 Hakiki, M., Fadli, R., Samala, A. D., Fricticarani, A., Dayurni, P., Rahmadani, K., Astiti, A. D., & Sabir, A. (2023). Exploring the impact of using Chat-GPT on student learning outcomes in technology learning: The comprehensive experiment. Advances in Mobile Learning Educational Research, 3(2), 859-872. https://doi.org/10.25082/AMLER.2023.02.013
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Prerequisite normality testing of final-test scores for both classes (N = 31 each) using the Lilliefors test at a 5% significance level. Table 3 prints Lt = 0.159 with Lo = 0.142 (control) and Lo = 0.150 (experimental), described as "Lo < Lt".
 
@@ -48,7 +52,7 @@ Prerequisite normality testing of final-test scores for both classes (N = 31 eac
 
 Hakiki, M., Fadli, R., Samala, A. D., Fricticarani, A., Dayurni, P., Rahmadani, K., Astiti, A. D., & Sabir, A. (2023). Exploring the impact of using Chat-GPT on student learning outcomes in technology learning: The comprehensive experiment. Advances in Mobile Learning Educational Research, 3(2), 859-872. https://doi.org/10.25082/AMLER.2023.02.013
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Variance homogeneity testing via F test at α = 0.05 with dk = 30, comparing the experimental and control classes' variances. The article reports "The Fcount value is 0.579 while the Ftable value is 1.84", concluding homogeneous variances and justifying the pooled variance t-test.
 

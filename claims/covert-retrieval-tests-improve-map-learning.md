@@ -15,12 +15,14 @@ sources:
     author: Shana K. Carpenter and Harold Pashler
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Map drawing after 30 min is more accurate for maps learned through covert-retrieval tests than for maps learned through equal conventional study time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Subjects' map drawings after 30 min were significantly better for maps learned through test/study than through study alone, under liberal quadrant scoring. [→ Shana K. Carpenter and Harold Pashler 2007](#shana-k-carpenter-and-harold-pashler-2007)
@@ -31,7 +33,7 @@ sources:
 
 Shana K. Carpenter and Harold Pashler. (2007). Testing beyond words: Using tests to enhance visuospatial map learning. Psychonomic Bulletin & Review, 14 (3), 474-478. https://doi.org/10.3758/bf03194092
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Controlled within-subjects laboratory experiment with 50 undergraduates, each learning one map via test/study and one via study, total time held at 120 sec per map. A mixed ANOVA showed a significant main effect of test condition on final drawing accuracy, e.g. F(1,46) = 10.85, p < .005, MSe = .026, for "liberal quadrant (LQ) scoring". Means were .74 (test/study) versus .63 (study) on LQ scoring.
 

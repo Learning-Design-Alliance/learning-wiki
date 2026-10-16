@@ -10,15 +10,17 @@ generated:
 evidence_strength: weak
 sources:
   - id: stadler-2021
-    title: formative-dk-1
+    title: Stadler 2021
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Domain knowledge is theoretically a formative construct formed by distinct, not necessarily associated, aspects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Theoretical conceptualizations of domain knowledge treat it as formed from distinct aspects that define the construct, so the manifest observations chosen form the latent construct. [→ formative-dk-1](#stadler-2021)
@@ -29,7 +31,7 @@ sources:
 
 Stadler, Matthias, Michael Sailer, and Frank Fischer. 2021. “Knowledge as a formative construct: a good alpha is not always better.” New Ideas in Psychology 60: 100832. https://doi.org/10.1016/j.newideapsych.2020.100832.
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 This is the article's own theoretical argument, a definitional/conceptual claim with no empirical data. It cites biology knowledge defined as five distinct disciplines, noting that teaching genetics "would increase his or her latent domain knowledge about biology but would not necessarily increase the student's knowledge about ecology."
 

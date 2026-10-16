@@ -15,12 +15,14 @@ sources:
     author: "Pyc, M. A., & Rawson, K. A."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The effectiveness of dropout schedules depends critically on the length of the interval between presentations of an item
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A dropout schedule with a longer initial ISI was more effective overall than conventional schedules, whereas a dropout schedule with a shorter initial ISI was not. [→ Pyc 2007](#pyc-2007)
@@ -31,7 +33,7 @@ sources:
 
 Pyc, M. A., & Rawson, K. A. (2007). Examining the efficiency of schedules of distributed retrieval practice. Memory & Cognition, 35(8), 1917-1927. https://link.springer.com/article/10.3758/BF03193420
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Across both experiments (227 undergraduates total), the 23-drop schedule matched conventional performance in fewer trials while the 5-drop schedule yielded lower final test performance, supporting the article's conclusion that "dropout can be a more efficient schedule for studying to-be-learned materials" only under a sufficiently long initial interval.
 

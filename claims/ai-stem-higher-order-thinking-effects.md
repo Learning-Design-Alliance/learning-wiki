@@ -15,12 +15,14 @@ sources:
     author: Weiqi Xu and Fan Ouyang
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # AI applications contributed to STEM students' higher-order thinking, including problem-solving, computational thinking, and self-regulated learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Seven reviewed studies revealed effects of AI technologies on students' higher-order thinking, such as problem-solving ability, computational thinking, and self-regulated learning skills. [→ Weiqi Xu and Fan Ouyang 2022](#weiqi-xu-and-fan-ouyang-2022)
@@ -31,7 +33,7 @@ sources:
 
 Weiqi Xu and Fan Ouyang. (2022). The application of AI technologies in STEM education: a systematic review from 2011 to 2021. International Journal of STEM Education. https://doi.org/10.1186/s40594-022-00377-5
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's synthesis of higher-order thinking outcomes covers seven studies. Examples include a flowchart-based intelligent tutoring system yielding better improvement of problem-solving abilities than a control group, a deep learning-based AR system improving computational thinking, and adaptive robotic tutor scaffoldings associated with more self-regulated learning behaviors than a condition without scaffoldings.
 

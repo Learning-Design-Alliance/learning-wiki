@@ -15,18 +15,22 @@ sources:
     author: "Sanchez, C. A., & Wiley, J."
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
   - id: sanchez-2006-2
     resource: "https://link.springer.com/journal/13421"
     title: "Sanchez, C. A., & Wiley, J. (2006). An examination of the seductive details effect in terms of working memory capacity. Memory & Cognition, 34(2), 344-355. https://link.springer.com/journal/13421"
     author: "Sanchez, C. A., & Wiley, J."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Working memory capacity interacts with illustration type: seductive illustrations impair comprehension only for low-WMC readers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2`–`i3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i2` A significant WMC by illustration-condition interaction emerged for essay recall of causal factors (η2 = .09). [→ Sanchez 2006](#sanchez-2006)
@@ -38,7 +42,7 @@ sources:
 
 Sanchez, C. A., & Wiley, J. (2006). An examination of the seductive details effect in terms of working memory capacity. Memory & Cognition, 34(2), 344-355. https://link.springer.com/journal/13421
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Experiment 1: 72 undergraduates (36 high-, 36 low-WMC, prescreened via OSPAN and RSPAN) in a 2x3 between-groups design read an ice ages text that was nonillustrated, conceptually illustrated, or seductively illustrated; essays were scored for "correct causal factors," showing the significant "interaction between WMC and illustration condition" (η2 = .09).
 
@@ -48,7 +52,7 @@ Experiment 1: 72 undergraduates (36 high-, 36 low-WMC, prescreened via OSPAN and
 
 Sanchez, C. A., & Wiley, J. (2006). An examination of the seductive details effect in terms of working memory capacity. Memory & Cognition, 34(2), 344-355. https://link.springer.com/journal/13421
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Experiment 1 inference verification task (25 true/false inferences): the same 2x3 ANOVA found a significant interaction (η2 = .15) "between WMC and illustration condition," with low-WMC readers performing worse only in the seductively illustrated condition.
 

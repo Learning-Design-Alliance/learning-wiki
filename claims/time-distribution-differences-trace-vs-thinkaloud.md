@@ -15,12 +15,14 @@ sources:
     author: "Fan, Y., van der Graaf, J., Lim, L., Raković, M., Singh, S., Kilgour, J., Moore, J., Molenaar, I., Bannert, M., & Gašević, D."
     q: 3
     i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Substantial differences existed between the time distribution of trace-extracted and think aloud-coded SRL processes: 41.66% of session duration had no think aloud code while only 3.19% had no trace process
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · design `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The overall duration for each theory-driven SRL process and think aloud code were quite different, with 41.66% of session duration not coded by think aloud but only 3.19% not covered by trace processes. [→ Fan 2022](#fan-2022)
@@ -31,7 +33,7 @@ sources:
 
 Fan, Y., van der Graaf, J., Lim, L., Raković, M., Singh, S., Kilgour, J., Moore, J., Molenaar, I., Bannert, M., & Gašević, D. (2022). Towards investigating the validity of measurement of self-regulated learning based on trace data. Metacognition and Learning. https://doi.org/10.1007/s11409-022-09291-1
 
-`q3 · i?`
+`q3 · i?` · `design · r2`
 
 Comparison of time distribution across SRL processes between theory-driven trace extraction and think aloud coding (Table 5). Additionally, 50.42% of session duration was extracted as Elaboration/Organisation from trace data versus only 15.42% coded as such from think aloud.
 

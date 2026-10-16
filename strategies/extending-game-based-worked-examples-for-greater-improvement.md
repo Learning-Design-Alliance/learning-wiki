@@ -38,8 +38,10 @@ The authors' forward-looking recommendation, prompted by a gain they call small.
 - Greater improvement in content understanding and problem-solving strategies in game-based tasks
 
 ## Related Strategies
+
 - [Faded Worked Examples](faded-worked-examples.md)
 - [Worked Examples For Game Based Puzzle Problem Solving](../designs/worked-examples-for-game-based-puzzle-problem-solving.md)
+- [Deliver examples with fading (completion strategy) and random (interleaved) sequencing, and promote active processing via self-explanation, subgoal labeling, and comparison](fade-interleave-and-activate-examples-delivery.md)
 
 ## Examples
 -

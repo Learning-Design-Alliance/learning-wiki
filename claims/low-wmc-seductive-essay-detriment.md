@@ -15,12 +15,14 @@ sources:
     author: "Sanchez, C. A., & Wiley, J."
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Low-WMC readers recall fewer correct causes when text contains seductive illustrations compared with nonillustrated text
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` For low-WMC readers, seductive images led to significantly fewer correct causes recalled than the nonillustrated condition (η2 = .19). [→ Sanchez 2006](#sanchez-2006)
@@ -31,7 +33,7 @@ sources:
 
 Sanchez, C. A., & Wiley, J. (2006). An examination of the seductive details effect in terms of working memory capacity. Memory & Cognition, 34(2), 344-355. https://link.springer.com/journal/13421
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Experiment 1 planned comparison within the low-WMC group (n = 12 per condition): essays of low-WMC readers in the seductively illustrated condition contained fewer correct causes (M = .25) than in the nonillustrated condition (M = 1.17), η2 = .19.
 

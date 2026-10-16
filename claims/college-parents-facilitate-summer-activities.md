@@ -15,12 +15,14 @@ sources:
     author: Gershenson, S.
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # The parental summer education gap is largely college-educated parents spending more time facilitating children's summer activities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Decomposing ATUS childcare shows the summer parental-education gap is largely driven by college-educated parents spending more time facilitating children's activities, with an emerging income-based gap of 3 to 5 minutes in physical care and facilitation. [→ Gershenson 2013](#gershenson-2013)
@@ -31,7 +33,7 @@ sources:
 
 Gershenson, S. (2013). Do summer time-use gaps vary by socioeconomic status? American University. http://www.bls.gov/tus/
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 ATUS by-activity Tobit decompositions of childcare into physical care, facilitation of activities, and parent-child interactions. The article also reports "an income-based summer time-use gap of 3 to 5 minutes in physical care and the facilitation of activities".
 

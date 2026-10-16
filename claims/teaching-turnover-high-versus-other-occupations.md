@@ -15,12 +15,14 @@ sources:
     author: Ingersoll, R. M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Teaching has a relatively high turnover rate compared to nursing and national employee turnover benchmarks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Teacher turnover (13.2%-15% annually across SASS cycles) exceeds the national employee turnover benchmark of 11% and the registered hospital nurse turnover rate of 12%. [→ Ingersoll 2001](#ingersoll-2001)
@@ -31,7 +33,7 @@ sources:
 
 Ingersoll, R. M. (2001). Teacher Turnover and Teacher Shortages: An Organizational Analysis. American Educational Research Journal, 38(3), 499-534. https://eric.ed.gov/?q=Teacher+Turnover+and+Teacher+Shortages+Ingersoll
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Descriptive comparison of TFS turnover rates against Bureau of National Affairs employee data (11% per year) and a survey of registered hospital nurses (12% in the mid-1990s). Teaching's rate was higher than both benchmarks.
 

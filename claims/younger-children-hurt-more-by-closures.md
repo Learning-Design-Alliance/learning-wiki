@@ -15,18 +15,22 @@ sources:
     author: Nicola Fuchs-Schündeln, Dirk Krueger, Alexander Ludwig, and Irina Popova
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
   - id: nicola-fuchs-schündeln-2020-2
     resource: "http://www.nber.org/papers/w27773"
     title: "Nicola Fuchs-Schündeln, Dirk Krueger, Alexander Ludwig, and Irina Popova. (2020). The Long-Term Distributional and Welfare Effects of Covid-19 School Closures. NBER Working Paper 27773. http://www.nber.org/papers/w27773"
     author: Nicola Fuchs-Schündeln, Dirk Krueger, Alexander Ludwig, and Irina Popova
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Adverse impacts of school closures are most pronounced for younger school-age children, driven by self-productivity and dynamic complementarity in human capital production
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The adverse impact is most pronounced for children aged 6-10 at the crisis; welfare losses for children aged 6 amount to −1% in consumption-equivalent variation. [→ Nicola Fuchs-Schündeln 2020](#nicola-fuchs-schundeln-2020)
@@ -38,7 +42,7 @@ sources:
 
 Nicola Fuchs-Schündeln, Dirk Krueger, Alexander Ludwig, and Irina Popova. (2020). The Long-Term Distributional and Welfare Effects of Covid-19 School Closures. NBER Working Paper 27773. http://www.nber.org/papers/w27773
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Distributional simulation results by child age at the shock: losses are largest for ages 6-10, with children aged 6 losing "−1% in terms of consumption-equivalent variation".
 
@@ -48,7 +52,7 @@ Distributional simulation results by child age at the shock: losses are largest 
 
 Nicola Fuchs-Schündeln, Dirk Krueger, Alexander Ludwig, and Irina Popova. (2020). The Long-Term Distributional and Welfare Effects of Covid-19 School Closures. NBER Working Paper 27773. http://www.nber.org/papers/w27773
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Mechanism stated in the abstract and grounded in the Cunha-Heckman-style production function: self-productivity and dynamic complementarities mean early losses compound, reducing later parental investment incentives.
 

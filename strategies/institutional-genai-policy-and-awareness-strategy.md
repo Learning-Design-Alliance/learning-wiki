@@ -51,6 +51,7 @@ The article recommends that institutions respond to student confusion about GenA
 - [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
 - [Institutional integrity programs combining ethical AI-use guidelines, clear definitions of dishonesty, and risk-awareness education](integrity-programs-ethical-ai-use-guidelines.md)
 - [Implement preventative measures: student awareness programs and regular professional development training for educators](chatbot-preventative-measures-strategy.md)
+- [Prevent AI-assisted plagiarism through student education, signed declarations, draft submissions, clear guidelines, and close monitoring](educate-and-monitor-to-prevent-ai-plagiarism.md)
 
 ## Examples
 -

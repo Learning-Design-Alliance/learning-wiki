@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 design), `q1`–`q4` · 1 of 10 report an effect size · 5 claims rest on one study
+> **Evidence** · 11 claims (7 for, 4 mixed) · 12 studies (6 causal, 3 quant-synthesis, 2 review, 1 design), `q1`–`q4` · 2 of 12 report an effect size · 9 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -69,6 +69,10 @@ Information processing models are often criticized as overly linear and serial, 
 - [Interleaving effects are stronger when material is more similar between categories, less similar within categories, and more complex](../claims/similarity-and-complexity-moderate-interleaving.md) [+W] — attached 2026-10-13 from Brunmair et al. (2019), which proposed "Attentional bias framework (sequential attention theory) of interleaved learning".
 - [Similarity-based retrieval degrades as the Knowledge Base grows, consistent with the fan effect, stalling the agent](../claims/fan-effect-kb-growth-retrieval-degradation.md) [~W]
 - [Evidence on working memory capacity as a moderator of the interleaving effect is mixed, but WM does not appear to be a major barrier to classroom use](../claims/working-memory-mixed-moderator-interleaving.md) [~W] — attached 2026-10-13 from Jonathan Firth et al. (2021), which proposed "Attentional accounts of the interleaving effect: attention attenuation and attentional bias".
+- [High-WMC readers view fewer seductive illustrations and spend less time on them than low-WMC readers](../claims/eye-tracking-high-wmc-ignore-seductive-illustrations.md) [+W] — attached 2026-10-16 from Sanchez et al. (2006), which proposed "Controlled attention perspective of working memory capacity".
+- [High-WMC readers show no seductive details effect, with seductive illustrations tending to yield the best performance](../claims/high-wmc-no-seduction-effect.md) [~W] — attached 2026-10-16 from Sanchez et al. (2006), which proposed "Controlled attention perspective of working memory capacity".
+- [Preschool children do not exhibit a spacing effect in free recall, although they benefit from repetition](../claims/preschoolers-no-spacing-effect-free-recall.md) [~W] — attached 2026-10-16 from Thomas C. Toppino et al. (1984), which proposed "Deficient-processing and encoding-variability theories of the spacing effect".
+- [First-grade children show the typical spacing effect in free recall with the same picture procedures](../claims/first-graders-spacing-effect-free-recall.md) [+W] — attached 2026-10-16 from Thomas C. Toppino et al. (1984), which proposed "Deficient-processing and encoding-variability theories of the spacing effect".
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]

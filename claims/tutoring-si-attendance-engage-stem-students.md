@@ -15,12 +15,14 @@ sources:
     author: "Gasiewski, J. A., Eagan, M. K., Garcia, G. A., Hurtado, S., & Chang, M. J."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Seeking tutoring and attending supplemental instruction sessions are associated with significantly higher academic engagement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` More frequent use of on-campus tutoring, off-campus professional tutoring, and supplemental instruction each positively predicted engagement (all p < 0.001), regardless of whether attendance was required or optional. [→ Gasiewski 2012](#gasiewski-2012)
@@ -31,7 +33,7 @@ sources:
 
 Gasiewski, J. A., Eagan, M. K., Garcia, G. A., Hurtado, S., & Chang, M. J. (2012). From Gatekeeping to Engagement: A Multicontextual, Mixed Method Study of Student Academic Engagement in Introductory STEM Courses. Research in Higher Education, 53, 229–261. https://doi.org/10.1007/s11162-011-9247-y
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Course-related experiences block of the HLM results (Table 3) for the same 2,873-student sample. The authors note some institutions required these sessions and others made SI optional, but more frequent attendance contributed to higher engagement either way.
 

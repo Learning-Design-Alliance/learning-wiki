@@ -15,18 +15,22 @@ sources:
     author: "Marsh, E. J., Roediger, H. L., III, Bjork, R. A., & Bjork, E. L."
     q: 3
     i: "?"
+    kind: review
+    rigour: 3
   - id: marsh-2007-2
     resource: "https://doi.org/10.3758/bf03194051"
     title: "Marsh, E. J., Roediger, H. L., III, Bjork, R. A., & Bjork, E. L. (2007). The memorial consequences of multiple-choice testing. Psychonomic Bulletin & Review, 14(2), 194-199. https://doi.org/10.3758/bf03194051"
     author: "Marsh, E. J., Roediger, H. L., III, Bjork, R. A., & Bjork, E. L."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Multiple-choice testing improves later cued recall of prose facts, a benefit that persists though reduced after a one-week delay
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` Students answered more cued recall questions correctly when the fact had been previously tested by multiple choice than when it had not, even without feedback. [→ Marsh 2007](#marsh-2007)
@@ -38,7 +42,7 @@ sources:
 
 Marsh, E. J., Roediger, H. L., III, Bjork, R. A., & Bjork, E. L. (2007). The memorial consequences of multiple-choice testing. Psychonomic Bulletin & Review, 14(2), 194-199. https://doi.org/10.3758/bf03194051
 
-`q3 · i?`
+`q3 · i?` · `review · r3`
 
 In Roediger and Marsh (2005) as described in this review, subjects read nonfiction passages; facts were tested on an initial multiple-choice test without feedback or not tested, then all subjects took a final cued recall test five minutes later, with tested facts at "M 63%" versus 40%; no standardized effect size is printed.
 
@@ -48,7 +52,7 @@ In Roediger and Marsh (2005) as described in this review, subjects read nonficti
 
 Marsh, E. J., Roediger, H. L., III, Bjork, R. A., & Bjork, E. L. (2007). The memorial consequences of multiple-choice testing. Psychonomic Bulletin & Review, 14(2), 194-199. https://doi.org/10.3758/bf03194051
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 A delayed-final-test experiment by Fazio, Marsh, and Roediger (2006), cited in the review, found the testing effect on cued recall was smaller after one week yet statistically significant; no effect size is printed.
 

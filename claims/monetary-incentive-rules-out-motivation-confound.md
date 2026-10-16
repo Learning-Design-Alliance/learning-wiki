@@ -15,12 +15,14 @@ sources:
     author: Shana K. Carpenter and Harold Pashler
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Offering a monetary incentive in both test and study conditions strengthens the case that testing has a true learning advantage over motivated restudy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The authors argue that offering a cash bonus in both conditions rules out low motivation in the study condition as an alternative explanation of the testing advantage. [→ Shana K. Carpenter and Harold Pashler 2007](#shana-k-carpenter-and-harold-pashler-2007)
@@ -31,7 +33,7 @@ sources:
 
 Shana K. Carpenter and Harold Pashler. (2007). Testing beyond words: Using tests to enhance visuospatial map learning. Psychonomic Bulletin & Review, 14 (3), 474-478. https://doi.org/10.3758/bf03194092
 
-`q1 · i?`
+`q1 · i?` · `causal · r2`
 
 Authors' interpretation in the Discussion: the study is described as the first testing-effect demonstration in which both conditions carried a $10 incentive for top-third performance, since prior comparisons may have "underestimated what would be learned from additional study in real-world contexts in which learners are motivated".
 

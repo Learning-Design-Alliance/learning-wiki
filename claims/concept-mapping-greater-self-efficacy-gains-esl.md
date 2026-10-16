@@ -15,12 +15,14 @@ sources:
     author: Pasana Chularut
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # ESL students taught concept mapping show significantly greater gains in self-efficacy for learning from text than students taught an alternative learning strategy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The concept mapping group showed significantly greater pretest-to-posttest gains in self-efficacy than the alternative learning strategy group. [→ Pasana Chularut 2001](#pasana-chularut-2001)
@@ -31,7 +33,7 @@ sources:
 
 Pasana Chularut. (2001). The Influence of Concept Mapping on Achievement, Self-Regulation, and Self-Efficacy in Students of English as a Second Language. Doctoral dissertation, University of Oklahoma. https://eric.ed.gov/?id=ED3004889
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In the same 79-student randomized pretest-posttest experiment, split-plot analyses showed a statistically significant time-by-method interaction for self-efficacy, with larger gains for the concept mapping group than the alternative learning strategy group.
 

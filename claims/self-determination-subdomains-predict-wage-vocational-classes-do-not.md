@@ -15,12 +15,14 @@ sources:
     author: Michael Wehmeyer, Michelle Schwartz
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # IQ, psychological empowerment, self-realization, and self-regulation subscale scores contributed significantly to variance in hourly pay, while number of vocational education classes did not
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` A linear regression with hourly pay rate as dependent variable yielded an R2 of .81, with IQ and three self-determination subscales as significant predictors. [→ Michael Wehmeyer 1997](#michael-wehmeyer-1997)
@@ -31,7 +33,7 @@ sources:
 
 Michael Wehmeyer, Michelle Schwartz. (1997). Self-Determination and Positive Adult Outcomes: A Follow-Up Study of Youth with Mental Retardation or Learning Disabilities. Exceptional Children, 63(2). https://eric.ed.gov/?q=Self-Determination+and+Positive+Adult+Outcomes+Wehmeyer+Schwartz
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Linear regression analysis of follow-up survey data; Table 1 reports, for example, SDS Self-Regulation Beta .8569, Sig T .02, and vocational classes Sig T .41. R2 from regression is not treated as an effect size; no standardized effect size is printed.
 

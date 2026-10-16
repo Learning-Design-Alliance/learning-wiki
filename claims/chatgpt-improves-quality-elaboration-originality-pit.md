@@ -15,18 +15,22 @@ sources:
     author: "Urban, M., Děchtěrenko, F., Lukavský, J., Hrabalová, V., Svacha, F., Brom, C., & Urban, K."
     q: 3
     i: 2
+    kind: causal
+    rigour: 3
   - id: urban-2024-2
     resource: "https://doi.org/10.1016/j.compedu.2024.105031"
     title: "Urban, M., Děchtěrenko, F., Lukavský, J., Hrabalová, V., Svacha, F., Brom, C., & Urban, K. (2024). ChatGPT Improves Creative Problem-Solving Performance in University Students: An Experimental Study. Computers & Education. https://doi.org/10.1016/j.compedu.2024.105031"
     author: "Urban, M., Děchtěrenko, F., Lukavský, J., Hrabalová, V., Svacha, F., Brom, C., & Urban, K."
     q: 3
     i: 2
+    kind: causal
+    rigour: 3
 ---
 
 # ChatGPT use improves the quality, elaboration, and originality of university students' solutions to a complex ill-defined problem-solving task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` Students solving the Product Improvement Task with ChatGPT produced solutions of higher quality than controls, F(1,142) = 19.07, η2p = .12. [→ Urban 2024](#urban-2024)
@@ -39,7 +43,7 @@ sources:
 
 Urban, M., Děchtěrenko, F., Lukavský, J., Hrabalová, V., Svacha, F., Brom, C., & Urban, K. (2024). ChatGPT Improves Creative Problem-Solving Performance in University Students: An Experimental Study. Computers & Education. https://doi.org/10.1016/j.compedu.2024.105031
 
-`q3 · i2`
+`q3 · i2` · `causal · r3`
 
 ANCOVAs (with prior ChatGPT experience as covariate) in a randomized experiment with 68 control and 77 experimental university students. The article reports a "strong impact on the quality of the solutions" with η2p = .12, elaboration η2p = .10, originality η2p = .08.
 
@@ -49,7 +53,7 @@ ANCOVAs (with prior ChatGPT experience as covariate) in a randomized experiment 
 
 Urban, M., Děchtěrenko, F., Lukavský, J., Hrabalová, V., Svacha, F., Brom, C., & Urban, K. (2024). ChatGPT Improves Creative Problem-Solving Performance in University Students: An Experimental Study. Computers & Education. https://doi.org/10.1016/j.compedu.2024.105031
 
-`q3 · i2`
+`q3 · i2` · `causal · r3`
 
 Mixed within-between ANCOVA comparing pre-test Unusual Uses Task (solved without ChatGPT in both conditions) with the experimental task. Pre-test groups did not differ, F(1,142) = 0.01, and the interaction term reached η 2p = .05.
 

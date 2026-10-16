@@ -15,18 +15,22 @@ sources:
     author: Goldstone, R. L.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: goldstone-1996-2
     resource: "https://doi.org/10.3758/bf03201087"
     title: "Goldstone, R. L. (1996). Isolated and interrelated concepts. Memory & Cognition, 24 (5), 608-628. https://doi.org/10.3758/bf03201087"
     author: Goldstone, R. L.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Frequent alternation of categories yields more interrelated concepts than infrequent alternation, as indicated by a diagnosticity-by-alternation interaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
 
 ## Subclaims
 `q3 i?` Diagnostic features influenced accuracy more for frequently alternated than infrequently alternated categories. [→ Goldstone 1996](#goldstone-1996)
@@ -38,7 +42,7 @@ sources:
 
 Goldstone, R. L. (1996). Isolated and interrelated concepts. Memory & Cognition, 24 (5), 608-628. https://doi.org/10.3758/bf03201087
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 2: 26 Indiana University undergraduates categorized distortions of two prototypes with no strategy instructions; half saw categories alternate frequently (same-category probability .25), half rarely (.75). Frequent alternation produced the interrelated pattern of slopes.
 
@@ -48,7 +52,7 @@ Experiment 2: 26 Indiana University undergraduates categorized distortions of tw
 
 Goldstone, R. L. (1996). Isolated and interrelated concepts. Memory & Cognition, 24 (5), 608-628. https://doi.org/10.3758/bf03201087
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Drawing measure in Experiment 2: infrequent-alternation subjects drew 8.5 correct nondiagnostic lines versus 7.3 for the frequent-alternation group, converging with the accuracy results from the same categorization task.
 

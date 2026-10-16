@@ -15,12 +15,14 @@ sources:
     author: "Steinert, S., Avila, K. E., Ruzika, S., Kuhn, J., & Küchemann, S."
     q: 1
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Teacher-provided correct answers and pre-prompting reduce erroneous LLM output and hallucinations compared with open chatbot use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The authors report that having the teacher supply the correct solution and pre-prompt the AI strongly reduces erroneous output and hallucinations, though this is an asserted design rationale rather than a measured comparison. [→ Steinert 2024](#steinert-2024)
@@ -31,7 +33,7 @@ sources:
 
 Steinert, S., Avila, K. E., Ruzika, S., Kuhn, J., & Küchemann, S. (2024). Harnessing large language models to develop research-based learning assistants for formative feedback. Smart Learning Environments. https://doi.org/10.1186/s40561-024-00354-1
 
-`q1 · i?`
+`q1 · i?` · `design · r1`
 
 Authors' interpretation in the discussion of LEAP's design, contrasting it with chatbot-style use where students prompt the LLM themselves. No data or error-rate measurements are reported to support the reduction claim.
 

@@ -15,12 +15,14 @@ sources:
     author: "Gore, J., Miller, A., Fray, L., Harris, J., & Prieto, E."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # No significant differences in achievement growth were identified for Indigenous students between 2019 and 2020 cohorts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` For Indigenous students in the sample, no differences in achievement growth were recorded between the 2019 and 2020 cohorts, by subject. [→ Gore 2021](#gore-2021)
@@ -31,7 +33,7 @@ sources:
 
 Gore, J., Miller, A., Fray, L., Harris, J., & Prieto, E. (2021). The impact of COVID-19 on student learning in New South Wales primary schools: an empirical study. The Australian Educational Researcher, 48, 605-637. https://doi.org/10.1007/s13384-021-00436-w
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Linear mixed models compared Indigenous student achievement growth in mathematics and reading between matched 2019 and 2020 cohorts. The study reports "no differences in achievement growth were recorded between the 2019 and 2020 cohorts, by subject" for Indigenous students.
 

@@ -15,12 +15,14 @@ sources:
     author: Kaffenberger, Michelle
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # Remediation combined with long-term reorientation of instruction to children's learning levels fully mitigates the shock and surpasses the no-shock counterfactual by more than a year of learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` Combining grade 4 remediation with an optimised curricular pace from grade 5 onward produces grade 10 learning of 259 on the PISA-like scale, 1.27 years ahead of the no-shock counterfactual. [→ Kaffenberger 2021](#kaffenberger-2021)
@@ -31,7 +33,7 @@ sources:
 
 Kaffenberger, Michelle. (2021). Modelling the long-run learning impact of the Covid-19 learning shock: Actions to (more than) mitigate loss. International Journal of Educational Development. https://doi.org/10.1016/j.ijedudev.2020.102326
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r2`
 
 Final scenario of the calibrated PPF simulation: grade 4 remediation plus reorienting curricular pace to children's learning levels through grade 10. The article reports 259 average cohort learning, "2.3 years' more learning" than unmitigated shock.
 

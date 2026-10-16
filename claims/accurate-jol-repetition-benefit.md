@@ -15,12 +15,14 @@ sources:
     author: "Zechmeister, E. B., & Shaughnessy, J. J."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Learners accurately judge that twice-presented items are more likely to be recalled than once-presented items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Mean ratings of recall likelihood were significantly higher for twice-presented (DP) than once-presented (single) items, matching the direction of the recall advantage. [→ Zechmeister 1980](#zechmeister-1980)
@@ -31,7 +33,7 @@ sources:
 
 Zechmeister, E. B., & Shaughnessy, J. J. (1980). When you know that you know and when you think that you know but you don't. Bulletin of the Psychonomic Society, 15(1), 41-44. https://doi.org/10.3758/bf03329756
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 In the same 24-subject free recall experiment, subjects rated twice-presented items as more recallable than singles (overall means 4.23 DP and 4.57 MP vs. 3.25 single). The article states subjects "accurately assessed the probability of recall to be higher" for twice-presented items.
 

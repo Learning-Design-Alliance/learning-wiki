@@ -31,7 +31,7 @@ sources:
 # Worked Examples
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (12 for, 8 mixed) · 15 studies (10 causal, 2 quant-synthesis, 2 review, 1 theoretical), `q2`–`q3` · 1 of 15 report an effect size · 16 claims rest on one study
+> **Evidence** · 21 claims (13 for, 8 mixed) · 16 studies (11 causal, 2 quant-synthesis, 2 review, 1 theoretical), `q2`–`q3` · 2 of 16 report an effect size · 17 claims rest on one study
 
 ## Conditional relationship
 
@@ -103,6 +103,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Prior Knowledge Worked Example Task Difficulty Three Way Interaction On Algebra Posttest](../claims/prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) [~M]
 - [Studying worked examples between two rounds of a computer puzzle game produced significantly greater knowledge map improvement than no worked examples for adult players](../claims/worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game.md) [+W] — attached 2026-10-07 from Shen et al. (2006), which proposed "Add instructional strategies such as worked examples to commercial off-the-shelf games used for training"; tests this page's relationship.
 - [Studying solved problems improves algebra achievement compared to solving practice problems alone, though the evidence base is rated minimal and one study found negative effects](../claims/solved-problems-improve-algebra-achievement.md) [~W] — attached 2026-10-09 from Star et al. (2015), which proposed "Use solved problems to engage students in analyzing algebraic reasoning and strategies"; tests this page's relationship.
+- [Low prior knowledge students learned most conceptual understanding from worked-out examples, and least from questions plus arguments](../claims/low-prior-knowledge-worked-examples-best-conceptual-understanding.md) [+W] — attached 2026-10-16 from Leppink et al. (2012), which proposed "Introduce new subject matter with worked-out examples, then shift students to formulating arguments once they have sufficient prior knowledge"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

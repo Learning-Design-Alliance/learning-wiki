@@ -15,12 +15,14 @@ sources:
     author: Lea Fröscher, Ann‑Kathrin Friedrich, Max Berentelg, Curtis Widmer, Sam J. Gilbert and Frank Papenmeier
     q: 3
     i: 1
+    kind: causal
+    rigour: 3
 ---
 
 # The more underconfident participants are about their memory abilities, the larger their reminder bias, regardless of framing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r3` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Participants were significantly underconfident about both internal memory (d = 0.21) and reminder accuracy (d = 0.75). [→ Lea Fröscher 2022](#lea-froscher-2022)
@@ -31,7 +33,7 @@ sources:
 
 Lea Fröscher, Ann‑Kathrin Friedrich, Max Berentelg, Curtis Widmer, Sam J. Gilbert and Frank Papenmeier. (2022). Framing cognitive offloading in terms of gains or losses: achieving a more optimal use of reminders. Cognitive Research: Principles and Implications. https://doi.org/10.1186/s41235-022-00416-3
 
-`q3 · i1`
+`q3 · i1` · `causal · r3`
 
 Experiment 2 one-sample t tests against zero on internal and external metacognitive bias scores showed participants were "significantly underconfident about their memory abilities and their accuracy using reminders" (printed effect size d = 0.21 internal, a small effect; d = 0.75 external). The authors note this replicates the negative relationship found in Gilbert et al. (2020).
 

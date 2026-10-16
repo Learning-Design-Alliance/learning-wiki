@@ -13,12 +13,14 @@ sources:
     title: Debby R. E. Cotton 2024
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 2
 ---
 
 # OpenAI's GPT-2 Output Detector distinguished real student essays from ChatGPT-generated essays on the same subjects in a December 2022 trial
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Ten real student essays all scored under 1% chance of being fake while ChatGPT essays on the same subjects scored near 100%, and prompting ChatGPT to imitate an undergraduate only reduced the score to around 97%. [→ Debby R. E. Cotton 2024](#debby-r-e-cotton-2024)
@@ -29,7 +31,7 @@ sources:
 
 Debby R. E. Cotton, Peter A. Cotton & J. Reuben Shipway (2024) Chatting and cheating: Ensuring academic integrity in the era of ChatGPT, Innovations in Education and Teaching International, 61:2, 228-239. https://doi.org/10.1080/14703297.2023.2190148
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r2`
 
 A small trial reported in the authors' discussion: ten real student essays and ChatGPT-generated essays on the same subjects were scored by the GPT-2 Output Detector, showing "less than 1% chance that they were fake" for real work versus near-100% for generated work. No formal design or statistical test is reported.
 

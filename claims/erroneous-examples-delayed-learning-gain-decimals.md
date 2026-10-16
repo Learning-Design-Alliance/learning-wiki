@@ -15,12 +15,14 @@ sources:
     author: "Bruce M. McLaren & Deanne M. Adams & Richard E. Mayer"
     q: 3
     i: 1
+    kind: causal
+    rigour: 2
 ---
 
 # Erroneous examples produce significantly higher delayed-test learning gains than problem solving for decimal learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` Students working with interactive erroneous examples showed significantly higher gains from pretest to delayed posttest than problem-solving students (d=.33), replicating Adams et al. (2014). [→ Bruce M. McLaren & Deanne M. Adams & Richard E. Mayer 2015](#bruce-m-mclaren-deanne-m-adams-richard-e-mayer-2015)
@@ -31,7 +33,7 @@ sources:
 
 Bruce M. McLaren & Deanne M. Adams & Richard E. Mayer. (2015). Delayed Learning Effects with Erroneous Examples: a Study of Learning Decimals with a Web-Based Tutor. International Artificial Intelligence in Education Society 2015. https://doi.org/10.1007/s40593-015-0064-x
 
-`q3 · i1`
+`q3 · i1` · `causal · r2`
 
 Randomized experiment with 390 sixth-grade students (188 ErrEx, 202 PS) using web-based CTAT materials; delayed test given one week after the immediate posttest. "students in the ErrEx group had significantly higher gains than students in the PS condition" with d=.33.
 

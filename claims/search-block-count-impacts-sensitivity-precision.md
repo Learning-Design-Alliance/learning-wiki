@@ -15,12 +15,14 @@ sources:
     author: Mette Brandt Eriksen, PhD; Tove Faber Frandsen, PhD
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # The number of search blocks impacts search quality: fewer blocks yield higher sensitivity and lower precision
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Across the included studies, search strategies with fewer search blocks retrieved more hits, showing higher sensitivity and lower precision, suggesting block count drives the sensitivity-precision trade-off. [→ Mette Brandt Eriksen 2018](#mette-brandt-eriksen-2018)
@@ -31,7 +33,7 @@ sources:
 
 Mette Brandt Eriksen, PhD; Tove Faber Frandsen, PhD. (2018). The impact of patient, intervention, comparison, outcome (PICO) as a search strategy tool on literature search quality: a systematic review. Journal of the Medical Library Association 106 (4). https://doi.org/10.5195/jmla.2018.345
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review's cross-study synthesis of the PIC-versus-PICO and PICO-versus-PICOS/SPIDER comparisons: the three-block PIC strategy showed higher sensitivity and lower precision than four-block PICO, matching the pattern where PICO (three blocks) outperformed four-block PICOS and six-block SPIDER on sensitivity. The review also notes "the more search blocks that are included, the more restricted the search output will be."
 

@@ -15,12 +15,14 @@ sources:
     author: Marcel V. J. Veenman
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # External validity of the special-issue strategy measures was mixed: low-to-moderate comprehension correlations for Bräten and Strømsø and Magliano et al., indeterminate for Schellings and Winne and Muis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Bräten and Strømsø (this issue) obtained rather low correlations of strategy use with text comprehension, although correlations were significant for intertextual comprehension, and cross-text elaboration's contribution to the regression equation was not significant. [→ Marcel V. J. Veenman 2011](#marcel-v-j-veenman-2011)
@@ -31,7 +33,7 @@ sources:
 
 Marcel V. J. Veenman. (2011). Alternative assessment of strategy use with self-report instruments: a discussion. Metacognition and Learning. https://doi.org/10.1007/s11409-011-9080-x
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 External-validity discussion of a questionnaire study assessing shallow information accumulation versus cross-text inferences. The article adds that regression with accumulation and cross-text elaboration as predictors did not account for variance beyond that of individual predictors.
 

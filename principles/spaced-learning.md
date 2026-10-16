@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (22 for, 14 mixed, 1 unmarked) · 29 studies (15 causal, 8 review, 5 quant-synthesis, 1 theoretical), `q1`–`q4` · 7 of 29 report an effect size · 31 claims rest on one study
+> **Evidence** · 40 claims (24 for, 15 mixed, 1 unmarked) · 31 studies (17 causal, 8 review, 5 quant-synthesis, 1 theoretical), `q1`–`q4` · 7 of 31 report an effect size · 34 claims rest on one study
 
 ## Description
 
@@ -159,6 +159,9 @@ Claims this page cited before it was rewritten as a conditional model, or that w
 - [Optimal Leitner Schedule Reviews Lower Decks More Often](../claims/optimal-leitner-schedule-reviews-lower-decks-more-often.md) [+W]
 - [Under the mean-recall approximation, the maximum achievable learning rate is convex in the learner's review frequency budget, suggesting increasing returns at lower budgets.](../claims/leitner-learning-rate-shows-increasing-returns-to-review-budget.md) [~W]
 - [Performance on final tests of learning is improved when multiple study sessions are spaced apart in time rather than massed in immediate succession](../claims/spacing-improves-final-test-performance.md) [+W] — attached 2026-10-15 from Carpenter et al. (2012), which proposed "Incorporate spacing into everyday instruction by separating study sessions over time rather than massing them"; tests this page's relationship.
+- [Preschool children do not exhibit a spacing effect in free recall, although they benefit from repetition](../claims/preschoolers-no-spacing-effect-free-recall.md) [~W] — attached 2026-10-16 from Thomas C. Toppino et al. (1984), which proposed "Accounts of the spacing effect must include processes acquired or developed during childhood, not only hard-wired mechanisms"; tests this page's relationship.
+- [First-grade children show the typical spacing effect in free recall with the same picture procedures](../claims/first-graders-spacing-effect-free-recall.md) [+W] — attached 2026-10-16 from Thomas C. Toppino et al. (1984), which proposed "Accounts of the spacing effect must include processes acquired or developed during childhood, not only hard-wired mechanisms"; tests this page's relationship.
+- [Learners judge massed-presented items as more likely to be recalled than distributed-presented items, although their recall is worse](../claims/judgments-overconfidence-massed-items.md) [+W] — attached 2026-10-16 from Zechmeister et al. (1980), which proposed "Do not rely on learners' sense of knowing for massed-repetition study: ease of re-encountering an item breeds unwarranted confidence"; tests this page's relationship.
 
 ## Source verification and open tests
 

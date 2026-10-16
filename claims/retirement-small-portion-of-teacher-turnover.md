@@ -15,12 +15,14 @@ sources:
     author: Ingersoll, R. M.
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Retirement accounts for only a small portion of total teacher turnover
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Although teacher retirements have increased, they accounted for only 12% of total turnover from 1994 to 1995. [→ Ingersoll 2001](#ingersoll-2001)
@@ -31,7 +33,7 @@ sources:
 
 Ingersoll, R. M. (2001). Teacher Turnover and Teacher Shortages: An Organizational Analysis. American Educational Research Journal, 38(3), 499-534. https://eric.ed.gov/?q=Teacher+Turnover+and+Teacher+Shortages+Ingersoll
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Descriptive analysis of SASS/TFS national data on turnover flows. In 1994-1995 about 50,000 retirees represented "only 24% of the 213,000 leavers and only 12% of the total turnover of 418,000," contradicting the graying-workforce shortage account.
 

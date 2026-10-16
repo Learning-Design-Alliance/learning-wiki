@@ -15,18 +15,22 @@ sources:
     author: Lea Fröscher, Ann‑Kathrin Friedrich, Max Berentelg, Curtis Widmer, Sam J. Gilbert and Frank Papenmeier
     q: 3
     i: 3
+    kind: causal
+    rigour: 3
   - id: lea-fröscher-2022-2
     resource: "https://doi.org/10.1186/s41235-022-00416-3"
     title: "Lea Fröscher, Ann‑Kathrin Friedrich, Max Berentelg, Curtis Widmer, Sam J. Gilbert and Frank Papenmeier. (2022). Framing cognitive offloading in terms of gains or losses: achieving a more optimal use of reminders. Cognitive Research: Principles and Implications. https://doi.org/10.1186/s41235-022-00416-3"
     author: Lea Fröscher, Ann‑Kathrin Friedrich, Max Berentelg, Curtis Widmer, Sam J. Gilbert and Frank Papenmeier
     q: 3
     i: 2
+    kind: causal
+    rigour: 3
 ---
 
 # Participants show a significant reminder bias (overuse of reminders relative to the optimal strategy) when reminders are framed as gains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2`–`i3`
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i3` In Experiment 1, reminder bias in the gain framing condition was significantly greater than zero (dz = 0.82). [→ Lea Fröscher 2022](#lea-froscher-2022)
@@ -38,7 +42,7 @@ sources:
 
 Lea Fröscher, Ann‑Kathrin Friedrich, Max Berentelg, Curtis Widmer, Sam J. Gilbert and Frank Papenmeier. (2022). Framing cognitive offloading in terms of gains or losses: achieving a more optimal use of reminders. Cognitive Research: Principles and Implications. https://doi.org/10.1186/s41235-022-00416-3
 
-`q3 · i3`
+`q3 · i3` · `causal · r3`
 
 Preregistered between-participants online experiment (N = 141 after exclusions) using the optimal reminders task with gain vs. loss framing. One-tailed paired t test (OIPs vs AIPs) showed the gain condition reminder bias was "still significant", t(62) = 6.49, p < 0.001, dz = 0.82 (printed effect size dz = 0.82, a large effect).
 
@@ -48,7 +52,7 @@ Preregistered between-participants online experiment (N = 141 after exclusions) 
 
 Lea Fröscher, Ann‑Kathrin Friedrich, Max Berentelg, Curtis Widmer, Sam J. Gilbert and Frank Papenmeier. (2022). Framing cognitive offloading in terms of gains or losses: achieving a more optimal use of reminders. Cognitive Research: Principles and Implications. https://doi.org/10.1186/s41235-022-00416-3
 
-`q3 · i2`
+`q3 · i2` · `causal · r3`
 
 Preregistered within-participants MTurk experiment (N = 300) with performance-based payment. Preregistered two-tailed one-sample t tests on reminder bias (OIP minus AIP) found a significant bias under gain framing, t(299) = 10.32, p < 0.001, d = 0.60 (printed effect size d = 0.60, a medium effect).
 

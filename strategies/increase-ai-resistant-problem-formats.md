@@ -38,7 +38,8 @@ The article recommends a design-level response to AI-related disengagement: favo
 - Durable knowledge retention
 
 ## Related Strategies
-- 
+
+- [Redesign assessments to require critical thinking, originality, interactive activities, and real-time or proctored formats](redesign-assessments-to-resist-chatgpt.md)
 
 ## Examples
 -

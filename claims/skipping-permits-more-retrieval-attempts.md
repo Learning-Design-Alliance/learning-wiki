@@ -15,12 +15,14 @@ sources:
     author: Matthew Jensen Hays, Nate Kornell, and Robert A. Bjork
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Permitting feedback skipping increases the number of retrieval attempts completed within a fixed learning time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Items received an average of 5.88 test trials when skipping was permitted versus four test trials when skipping was forbidden. [→ Matthew Jensen Hays 2010](#matthew-jensen-hays-2010)
@@ -31,7 +33,7 @@ sources:
 
 Matthew Jensen Hays, Nate Kornell, and Robert A. Bjork. (2010). The costs and benefits of providing feedback during learning. Psychonomic Bulletin & Review. https://doi.org/10.3758/PBR.17.6.797
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Trial-count analysis in the Results section of the fixed-time experiment: permitting skipping "allowed a greater number of retrieval attempts," as the manipulation intended.
 

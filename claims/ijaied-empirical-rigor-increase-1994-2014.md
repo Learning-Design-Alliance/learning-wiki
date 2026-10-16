@@ -15,12 +15,14 @@ sources:
     author: "Ido Roll & Ruth Wylie"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # The proportion of empirical papers in IJAIED rose sharply between 1994 and 2014
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the authors' content analysis of 47 IJAIED papers, only 5% of 1994 papers had empirical data, versus 62% in 2004 and 71% in 2014, showing a clear increase in evaluative rigor. [→ Ido Roll & Ruth Wylie 2016](#ido-roll-ruth-wylie-2016)
@@ -31,7 +33,7 @@ sources:
 
 Ido Roll & Ruth Wylie. (2016). Evolution and Revolution in Artificial Intelligence in Education. International Journal of Artificial Intelligence in Education, 26, 582-599. https://doi.org/10.1007/s40593-016-0110-3
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The authors' analysis of all 47 papers published in IJAIED in 1994, 2004, and 2014, coding each for whether data was collected, reports the quoted percentages: "Only 1 paper from 1994 (out of 20, 5 %) had some form of empirical data."
 

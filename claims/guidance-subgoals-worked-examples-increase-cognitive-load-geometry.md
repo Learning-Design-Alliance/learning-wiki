@@ -15,12 +15,14 @@ sources:
     author: Ahmad Tarmizi, Rohani
     q: 2
     i: "?"
+    kind: causal
+    rigour: "?"
 ---
 
 # For circle geometry problems, guidance in the form of subgoals or worked examples increased cognitive load during problem processing (Experiments 1-3)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Presenting guidance as subgoals or worked examples with geometry problems increased the cognitive load students experienced during problem processing. [→ Ahmad Tarmizi 1991](#ahmad-tarmizi-1991)
@@ -31,7 +33,7 @@ sources:
 
 Ahmad Tarmizi, Rohani. (1991). Guidance During Mathematical Problem Solving. Doctoral thesis, University of New South Wales. http://hdl.handle.net/1959.4/69310
 
-`q2 · i?`
+`q2 · i?` · `causal · r?`
 
 Controlled classroom experiments with school students solving circle geometry problems, as reported in the thesis abstract. The three experiments showed that "giving students guidance in the form of subgoals or worked examples using geometry problems resulted in increased cognitive load". No effect size is printed.
 

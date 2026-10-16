@@ -15,18 +15,22 @@ sources:
     author: "Glenberg, A. M., & Lehmann, T. S."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: glenberg-1980-2
     resource: "https://doi.org/10.3758/bf03213772"
     title: "Glenberg, A. M., & Lehmann, T. S. (1980). Spacing repetitions over 1 week. Memory & Cognition, 8(6), 528-538. https://doi.org/10.3758/bf03213772"
     author: "Glenberg, A. M., & Lehmann, T. S."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # A within-list lag effect persisted at all retention intervals (up to 7 days) when the orienting task allowed interitem associations, disconfirming a pure context-retrieval account for that condition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In Experiment 2 (superordinate generation task), a significant within-list lag effect appeared in almost every list regardless of retention interval, and the predicted four-way interaction was far from significant (F < 1). [→ Glenberg 1980](#glenberg-1980)
@@ -38,7 +42,7 @@ sources:
 
 Glenberg, A. M., & Lehmann, T. S. (1980). Spacing repetitions over 1 week. Memory & Cognition, 8(6), 528-538. https://doi.org/10.3758/bf03213772
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 2 within-list analysis on 96 subjects. The authors attribute the persistence of the lag effect to incidental storage of interitem associations, noting subjects reused superordinates and sometimes generated previous list words as associates.
 
@@ -48,7 +52,7 @@ Experiment 2 within-list analysis on 96 subjects. The authors attribute the pers
 
 Glenberg, A. M., & Lehmann, T. S. (1980). Spacing repetitions over 1 week. Memory & Cognition, 8(6), 528-538. https://doi.org/10.3758/bf03213772
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 1 analysis of 48 subjects revealed a significant four-way interaction [F(1,44) = 9.45, MSe = 2.26], "exactly as predicted by component-levels theory", but the absence of the effect elsewhere may reflect floor effects, motivating Experiment 2.
 

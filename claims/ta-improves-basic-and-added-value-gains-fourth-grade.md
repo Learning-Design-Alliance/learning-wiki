@@ -15,12 +15,14 @@ sources:
     author: Doris B. Chin, Ilsa M. Dohmen, and Daniel L. Schwartz
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Adding a teachable agent to the standard science curriculum improved fourth-graders' learning gains on both curriculum tests and researcher-designed hierarchical reasoning tests
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Kit+TA students improved more than Kit-Only students on basic-value (curriculum) measures; the article prints an effect size of d = 1.1 for this learning-gain difference. [→ Doris B. Chin 2013](#doris-b-chin-2013)
@@ -32,7 +34,7 @@ sources:
 
 Doris B. Chin, Ilsa M. Dohmen, and Daniel L. Schwartz. (2013). Young Children Can Learn Scientific Reasoning with Teachable Agents. IEEE Transactions on Learning Technologies. https://doi.org/10.1109/TLT.2013.24
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 A 2-year quasi-experiment with seven fourth-grade classrooms (Kit+TA versus Kit-Only, same instructional time) analyzed with doubly repeated measures. The article prints the learning-gain effect sizes favoring Kit+TA: d ¼ 1:1 on basic-value and d ¼ 0:93 on added-value measures (i.e., d = 1.1 and d = 0.93 as reported).
 

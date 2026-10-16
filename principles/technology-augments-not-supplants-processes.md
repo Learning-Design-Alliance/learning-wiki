@@ -281,6 +281,7 @@ Assisted performance, unaided immediate performance, delayed retention, transfer
 - [Domain-grounded mediation framework for LLM-assisted VR instruction](../designs/domain-grounded-mediation-llm-vr-instruction.md)
 - [Remora Free Body Diagram Require-GenAI task](../designs/remora-free-body-diagram-task.md)
 - [Open-ended data-interpretation task in which students define their own standards for locating a boundary in simulation results](../designs/open-ended-standard-defining-magnetopause-lab.md)
+- [Combine real people and artificial agents as complements in blended learning environments](../strategies/blending-human-teachers-and-agents.md)
 
 ## Key Sources
 - Land, Susan M.; Hannafin, Michael J. (1996). Student-Centered Learning Environments: Foundations, Assumptions, and Implications. https://eric.ed.gov/?id=ED397810

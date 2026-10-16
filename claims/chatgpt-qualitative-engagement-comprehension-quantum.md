@@ -15,12 +15,14 @@ sources:
     author: Saif Alneyadi and Yousef Wardat
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 2
 ---
 
 # Students reported that ChatGPT enhanced engagement, comprehension, problem-solving, and perceived relevance in Quantum Theory
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Thematic analysis of interviews with 55 students found ChatGPT made Quantum Theory more accessible and engaging and improved understanding and problem-solving. [→ Saif Alneyadi and Yousef Wardat 2024](#saif-alneyadi-and-yousef-wardat-2024)
@@ -31,7 +33,7 @@ sources:
 
 Saif Alneyadi and Yousef Wardat. (2024). Integrating ChatGPT in Grade 12 Quantum Theory Education: An Exploratory Study at Emirate School (UAE). International Journal of Information and Education Technology, Vol. 14, No. 3. https://doi.org/10.18178/ijiet.2024.14.3.2061
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r2`
 
 Semi-structured interviews with 55 students (25 males, 30 females) who used ChatGPT, analyzed thematically. Students described the experience as "transformative" and reported improved comprehension, problem-solving and perceived relevance.
 

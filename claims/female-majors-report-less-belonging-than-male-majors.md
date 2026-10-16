@@ -15,12 +15,14 @@ sources:
     author: Katherine Rainey, Melissa Dancy, Roslyn Mickelson, Elizabeth Stearns and Stephanie Moller
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Female STEM majors report significantly lower sense of belonging than male majors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Among STEM majors, women were significantly less likely than men to report they felt they belonged in STEM (Z = 2.41, p ≤ 0.01); a similar pattern held among leavers. [→ Katherine Rainey 2018](#katherine-rainey-2018)
@@ -31,7 +33,7 @@ sources:
 
 Katherine Rainey, Melissa Dancy, Roslyn Mickelson, Elizabeth Stearns and Stephanie Moller. (2018). Race and gender differences in how sense of belonging influences decisions to major in STEM. International Journal of STEM Education 5:10. https://doi.org/10.1186/s40594-018-0115-6
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Interview study of 201 college seniors from 16 UNC system campuses; coded belonging responses analyzed with a test of proportions. The article reports the gender contrast among majors: "female majors were significantly less likely than male majors to report they felt they belonged in STEM" with Z = 2.41, p ≤ 0.01. No effect size is printed.
 

@@ -15,12 +15,14 @@ sources:
     author: "Agran, M., Blanchard, C., Wehmeyer, M., & Hughes, C."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Self-regulated problem-solving instruction produced immediate, marked increases in target behaviors for all four students, with a mean of 2.3 training sessions to reach 80% mastery
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` During the training condition, there was a marked increase in target performance for all participating students, with a mean of 2.3 training sessions to achieve 80% mastery. [→ Agran 2002](#agran-2002)
@@ -31,7 +33,7 @@ sources:
 
 Agran, M., Blanchard, C., Wehmeyer, M., & Hughes, C. (2002). Increasing the Problem-Solving Skills of Students with Developmental Disabilities Participating in General Education. Remedial and Special Education, 23(5), 279-288. https://doi.org/10.1177/07419325020230050301
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Multiple-baseline-across-participants intervention study of four middle school students with disabilities taught the problem-solving strategy in general education classes. The article reports "a marked increase in student target performance for all participating students" and a mean of 2.3 sessions to 80% mastery.
 

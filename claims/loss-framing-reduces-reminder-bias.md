@@ -15,18 +15,22 @@ sources:
     author: Lea Fröscher, Ann‑Kathrin Friedrich, Max Berentelg, Curtis Widmer, Sam J. Gilbert and Frank Papenmeier
     q: 3
     i: 2
+    kind: causal
+    rigour: 3
   - id: lea-fröscher-2022-2
     resource: "https://doi.org/10.1186/s41235-022-00416-3"
     title: "Lea Fröscher, Ann‑Kathrin Friedrich, Max Berentelg, Curtis Widmer, Sam J. Gilbert and Frank Papenmeier. (2022). Framing cognitive offloading in terms of gains or losses: achieving a more optimal use of reminders. Cognitive Research: Principles and Implications. https://doi.org/10.1186/s41235-022-00416-3"
     author: Lea Fröscher, Ann‑Kathrin Friedrich, Max Berentelg, Curtis Widmer, Sam J. Gilbert and Frank Papenmeier
     q: 3
     i: 1
+    kind: causal
+    rigour: 3
 ---
 
 # Framing reminders as losses reduces, but does not eliminate or reverse, the reminder bias in both between- and within-participants designs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1`–`i2`
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i1`–`i2`
 
 ## Subclaims
 `q3 i2` In Experiment 1, the framing × indifference point interaction was significant (ηp2 = 0.07), with reminder bias 1.19 points greater in the gain than the loss condition. [→ Lea Fröscher 2022](#lea-froscher-2022)
@@ -38,7 +42,7 @@ sources:
 
 Lea Fröscher, Ann‑Kathrin Friedrich, Max Berentelg, Curtis Widmer, Sam J. Gilbert and Frank Papenmeier. (2022). Framing cognitive offloading in terms of gains or losses: achieving a more optimal use of reminders. Cognitive Research: Principles and Implications. https://doi.org/10.1186/s41235-022-00416-3
 
-`q3 · i2`
+`q3 · i2` · `causal · r3`
 
 Experiment 1 (between-participants gain vs loss framing, N = 141) mixed ANOVA on reminder bias scores (OIP minus AIP) found a significant framing × indifference point interaction, F(1, 139) = 10.05, p = 0.002, with printed effect size ηp2 = 0.07 (a medium effect), "with the reminder bias scores, on average, 1.19 points greater" under gains.
 
@@ -48,7 +52,7 @@ Experiment 1 (between-participants gain vs loss framing, N = 141) mixed ANOVA on
 
 Lea Fröscher, Ann‑Kathrin Friedrich, Max Berentelg, Curtis Widmer, Sam J. Gilbert and Frank Papenmeier. (2022). Framing cognitive offloading in terms of gains or losses: achieving a more optimal use of reminders. Cognitive Research: Principles and Implications. https://doi.org/10.1186/s41235-022-00416-3
 
-`q3 · i1`
+`q3 · i1` · `causal · r3`
 
 Experiment 2 (framing within-participants, financially incentivized, N = 300) preregistered paired t test comparing gain and loss reminder bias scores found loss framing reduced the bias, t(299) = 5.05, p < 0.001, dz = 0.29 (printed effect size dz = 0.29, a small effect).
 

@@ -15,24 +15,30 @@ sources:
     author: "Sanchez, C. A., & Wiley, J."
     q: 2
     i: 3
+    kind: causal
+    rigour: 1
   - id: sanchez-2006-2
     resource: "https://link.springer.com/journal/13421"
     title: "Sanchez, C. A., & Wiley, J. (2006). An examination of the seductive details effect in terms of working memory capacity. Memory & Cognition, 34(2), 344-355. https://link.springer.com/journal/13421"
     author: "Sanchez, C. A., & Wiley, J."
     q: 2
     i: 3
+    kind: causal
+    rigour: 2
   - id: sanchez-2006-3
     resource: "https://link.springer.com/journal/13421"
     title: "Sanchez, C. A., & Wiley, J. (2006). An examination of the seductive details effect in terms of working memory capacity. Memory & Cognition, 34(2), 344-355. https://link.springer.com/journal/13421"
     author: "Sanchez, C. A., & Wiley, J."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # High-WMC readers view fewer seductive illustrations and spend less time on them than low-WMC readers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (3 entries) · causal `r1`–`r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` High-WMC individuals spent less overall time viewing the seductive illustrations (η2 = .48). [→ Sanchez 2006](#sanchez-2006)
@@ -45,7 +51,7 @@ sources:
 
 Sanchez, C. A., & Wiley, J. (2006). An examination of the seductive details effect in terms of working memory capacity. Memory & Cognition, 34(2), 344-355. https://link.springer.com/journal/13421
 
-`q2 · i3`
+`q2 · i3` · `causal · r1`
 
 Experiment 2 eye-tracking study of 5 high- and 5 low-WMC readers reading the seductively illustrated text with an Eyelink II tracker: high-WMC readers' overall illustration viewing time was significantly shorter (M = 4.27 vs 8.19 sec per Table 1), η2 = .48.
 
@@ -55,7 +61,7 @@ Experiment 2 eye-tracking study of 5 high- and 5 low-WMC readers reading the sed
 
 Sanchez, C. A., & Wiley, J. (2006). An examination of the seductive details effect in terms of working memory capacity. Memory & Cognition, 34(2), 344-355. https://link.springer.com/journal/13421
 
-`q2 · i3`
+`q2 · i3` · `causal · r2`
 
 Experiment 2: not all subjects viewed all illustrations; high-WMC readers viewed significantly fewer of the 12 seductive illustrations (M = 6.60) than low-WMC readers (M = 8.80), η2 = .46, with no difference in average time per illustration viewed.
 
@@ -65,7 +71,7 @@ Experiment 2: not all subjects viewed all illustrations; high-WMC readers viewed
 
 Sanchez, C. A., & Wiley, J. (2006). An examination of the seductive details effect in terms of working memory capacity. Memory & Cognition, 34(2), 344-355. https://link.springer.com/journal/13421
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Experiment 2 eye-tracking analyses: no reliable differences in overall reading time (10.48 vs 10.11 min), fixations, local regressions, or reading time on text alone; the article notes the groups differed only in how they dealt with the irrelevant illustrations.
 

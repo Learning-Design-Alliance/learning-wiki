@@ -15,18 +15,22 @@ sources:
     author: "Marsh, E. J., Roediger, H. L., III, Bjork, R. A., & Bjork, E. L."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: marsh-2007-2
     resource: "https://doi.org/10.3758/bf03194051"
     title: "Marsh, E. J., Roediger, H. L., III, Bjork, R. A., & Bjork, E. L. (2007). The memorial consequences of multiple-choice testing. Psychonomic Bulletin & Review, 14(2), 194-199. https://doi.org/10.3758/bf03194051"
     author: "Marsh, E. J., Roediger, H. L., III, Bjork, R. A., & Bjork, E. L."
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Immediate feedback reduces multiple-choice lure production on later tests, and the overall positive effect of testing outweighs negative consequences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Giving immediate feedback reduces multiple-choice lure production on a later test. [→ Marsh 2007](#marsh-2007)
@@ -38,7 +42,7 @@ sources:
 
 Marsh, E. J., Roediger, H. L., III, Bjork, R. A., & Bjork, E. L. (2007). The memorial consequences of multiple-choice testing. Psychonomic Bulletin & Review, 14(2), 194-199. https://doi.org/10.3758/bf03194051
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Citing a conference presentation (Butler & Roediger, 2006), the review reports that immediate feedback reduces multiple-choice lure production on later tests; no effect size or test statistic is printed.
 
@@ -48,7 +52,7 @@ Citing a conference presentation (Butler & Roediger, 2006), the review reports t
 
 Marsh, E. J., Roediger, H. L., III, Bjork, R. A., & Bjork, E. L. (2007). The memorial consequences of multiple-choice testing. Psychonomic Bulletin & Review, 14(2), 194-199. https://doi.org/10.3758/bf03194051
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's overall assessment, referencing Figures 1 and 2, is that positive testing effects across prose, SAT II, and Bloom-level materials outweigh the negative effects of lure intrusions; no standardized effect size is printed.
 

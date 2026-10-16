@@ -15,12 +15,14 @@ sources:
     author: Klaus Krippendorff
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Only 69% of 200 surveyed content analyses reported reliabilities, showing no significant improvement over earlier studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Lombard, Snyder-Duch, and Bracken's survey of 200 content analyses indexed in Communication Abstracts between 1994 and 1998 found only 69% of articles report reliabilities. [→ Klaus Krippendorff 2004](#klaus-krippendorff-2004)
@@ -31,7 +33,7 @@ sources:
 
 Klaus Krippendorff. (2004). Reliability in Content Analysis: Some Common Misconceptions and Recommendations. Human Communication Research 30, 3: 411-433. https://astro.temple.edu/~lombard/carman.htm
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 This article reports the finding of Lombard et al. (2002), a survey of 200 content analyses published in a special issue of Human Communication Research; the review attributes it to that prior study rather than conducting it here.
 

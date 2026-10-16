@@ -15,18 +15,22 @@ sources:
     author: Haozhe Jiang, Deqi Zhu, Ritesh Chugh, Darren Turnbull, Wu Jin
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
   - id: haozhe-jiang-2025-2
     resource: "https://doi.org/10.1007/s10639-024-13210-z"
     title: "Haozhe Jiang, Deqi Zhu, Ritesh Chugh, Darren Turnbull, Wu Jin. (2025). Virtual reality and augmented reality-supported K-12 STEM learning: trends, advantages and challenges. Education and Information Technologies. https://doi.org/10.1007/s10639-024-13210-z"
     author: Haozhe Jiang, Deqi Zhu, Ritesh Chugh, Darren Turnbull, Wu Jin
     q: 2
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i?` Across reviewed studies, the largest advantage category was academic achievement (60 studies), followed by motivation (27 studies), cognitive-load reduction (17 studies) and self-efficacy (14 studies), though some studies found no advantage over digital video. [→ Haozhe Jiang 2025](#haozhe-jiang-2025)
@@ -38,7 +42,7 @@ sources:
 
 Haozhe Jiang, Deqi Zhu, Ritesh Chugh, Darren Turnbull, Wu Jin. (2025). Virtual reality and augmented reality-supported K-12 STEM learning: trends, advantages and challenges. Education and Information Technologies. https://doi.org/10.1007/s10639-024-13210-z
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's synthesis of advantages (RQ2, Table 1) counts 60 studies reporting achievement gains, 27 motivation, 17 cognitive-load reduction, and 14 self-efficacy. It notes Chang et al. (2016) "found no significant difference between the learning achievement of students who learn with AR and with digital video".
 
@@ -48,7 +52,7 @@ The review's synthesis of advantages (RQ2, Table 1) counts 60 studies reporting 
 
 Haozhe Jiang, Deqi Zhu, Ritesh Chugh, Darren Turnbull, Wu Jin. (2025). Virtual reality and augmented reality-supported K-12 STEM learning: trends, advantages and challenges. Education and Information Technologies. https://doi.org/10.1007/s10639-024-13210-z
 
-`q2 · i3`
+`q2 · i3` · `quant-synthesis · r2`
 
 Within the same advantages synthesis, the review cites one reviewed study reporting a large attention effect (d = 1.28) but also inconsistent conclusions: one reviewed study found no significant cognitive-load differences for mobile AR versus no AR, and another found mental-effort but not mental-load differences.
 

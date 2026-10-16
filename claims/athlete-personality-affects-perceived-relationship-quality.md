@@ -15,12 +15,14 @@ sources:
     author: Jowett, S.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Athletes' personality affects coaches' perceptions of relationship quality, with more difficult personalities linked to lower closeness, commitment and complementarity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Coaches of athletes with less desirable or potentially more difficult personality traits (e.g., anxious or avoidant attachment styles or neuroticism) are more likely to perceive relationship quality as less positive. [→ Jowett 2017](#jowett-2017)
@@ -31,7 +33,7 @@ sources:
 
 Jowett, S. (2017). Coaching Effectiveness: The Coach-Athlete Relationship at its Heart. Current Opinion in Psychology, 16, 154-158. http://dx.doi.org/10.1016/j.copsyc.2017.05.006
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports quantitative research on antecedents of relationship quality, attributing this finding to studies of the Big-Five personality traits and attachment styles in coach-athlete dyads. The review prints no effect size statistics for this association.
 

@@ -15,18 +15,22 @@ sources:
     author: Belland Brian R., Kim ChanMin, Hannafin Michael J.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
   - id: belland-brian-r-2013-2
     resource: "https://doi.org/10.1080/00461520.2013.838920"
     title: "Belland Brian R., Kim ChanMin, Hannafin Michael J. (2013). A Framework for Designing Scaffolds That Improve Motivation and Cognition. Educational Psychologist. https://doi.org/10.1080/00461520.2013.838920"
     author: Belland Brian R., Kim ChanMin, Hannafin Michael J.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Students perceiving high task value exert greater effort and achieve more than students perceiving low value
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Perceived high task value is associated with greater effort and higher achievement relative to perceived low value. [→ Belland Brian R. 2013](#belland-brian-r-2013)
@@ -38,7 +42,7 @@ sources:
 
 Belland Brian R., Kim ChanMin, Hannafin Michael J. (2013). A Framework for Designing Scaffolds That Improve Motivation and Cognition. Educational Psychologist. https://doi.org/10.1080/00461520.2013.838920
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 The review reports this association citing Cole, Bergin, and Whittaker (2008); the study was not read. It grounds guideline 2, establishing attainment value via explanatory rationales, expert modeling, and reflection prompts.
 
@@ -48,7 +52,7 @@ The review reports this association citing Cole, Bergin, and Whittaker (2008); t
 
 Belland Brian R., Kim ChanMin, Hannafin Michael J. (2013). A Framework for Designing Scaffolds That Improve Motivation and Cognition. Educational Psychologist. https://doi.org/10.1080/00461520.2013.838920
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Additional review attribution, citing Wigfield and Cambria (2010), that task value predicts expectancy for success and self-regulation, reinforcing why scaffold designers should promote perception of high task value in PBL.
 

@@ -33,7 +33,7 @@ sources:
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 37 claims (26 for, 9 mixed, 2 against) · 40 studies (17 causal, 9 quant-synthesis, 7 theoretical, 6 review, 1 design), `q1`–`q4` · 8 of 40 report an effect size · 27 claims rest on one study
+> **Evidence** · 42 claims (31 for, 9 mixed, 2 against) · 42 studies (18 causal, 9 quant-synthesis, 7 review, 7 theoretical, 1 design), `q1`–`q4` · 8 of 42 report an effect size · 32 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -105,6 +105,11 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Emotion may affect intrinsic cognitive load, for example when emotion regulation is part of the learning outcomes](../claims/emotion-as-intrinsic-load-emotion-regulation.md) [+W] — attached 2026-10-15 from Plass et al. (2019), which proposed "Four-perspective taxonomy of emotion–cognitive load relationships understood through an interval view of cognitive load".
 - [Reduction of cognitive load can sometimes impair learning rather than enhance it](../claims/load-reduction-can-impair-learning.md) [~W] — attached 2026-10-15 from Schnotz et al. (2007), which proposed "Zone of proximal development perspective on cognitive load theory".
 - [Germane cognitive load fully mediates the effect of information-search tool on justification quality (exploratory analysis)](../claims/germane-load-mediates-tool-effect-on-justification-quality.md) [+W] — attached 2026-10-15 from Matthias Stadler et al. (2024), which proposed "Cognitive load–self-regulation tradeoff account of information-search tool effects on learning quality"; tests this page's relationship.
+- [For circle geometry problems, guidance in the form of subgoals or worked examples increased cognitive load during problem processing (Experiments 1-3)](../claims/guidance-subgoals-worked-examples-increase-cognitive-load-geometry.md) [+W] — attached 2026-10-16 from Ahmad Tarmizi (1991), which proposed "Split-attention cognitive load account of guidance effects"; tests this page's relationship.
+- [When guidance was presented in a unitary (integrated) format, worked examples were superior to conventional problems (Experiments 4 and 5)](../claims/unitary-format-worked-examples-superior-conventional-problems.md) [+W] — attached 2026-10-16 from Ahmad Tarmizi (1991), which proposed "Split-attention cognitive load account of guidance effects"; tests this page's relationship.
+- [Under many circumstances, studying worked examples produced superior learning compared to active problem solving, as suggested by previous research](../claims/worked-examples-superior-to-problem-solving-many-circumstances.md) [+W] — attached 2026-10-16 from Ahmad Tarmizi (1991), which proposed "Means-ends analysis as a problem-solving strategy that inhibits learning".
+- [Studying worked examples is more effective and more efficient than problem solving for novice learners (the worked example effect)](../claims/worked-example-effect-novices-review.md) [+W] — attached 2026-10-16 from Tamara van Gog et al. (2010), which proposed "Cognitive load explanation of why worked examples outperform unsupported problem solving for novices"; tests this page's relationship.
+- [Expertise reversal: high-guidance worked examples become ineffective or detrimental once learners have developed cognitive schemata](../claims/expertise-reversal-worked-examples.md) [+W] — attached 2026-10-16 from Tamara van Gog et al. (2010), which proposed "Cognitive load explanation of why worked examples outperform unsupported problem solving for novices"; tests this page's relationship.
 
 ## The evidence by question
 

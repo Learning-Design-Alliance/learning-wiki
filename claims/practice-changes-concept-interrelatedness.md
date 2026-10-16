@@ -15,12 +15,14 @@ sources:
     author: Goldstone, R. L.
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Concepts become more interrelated with practice under discriminate instructions, and more isolated with practice under image instructions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Discriminate-group concepts became significantly more interrelated with practice, with nondiagnostic feature influence dropping from 33% to 10% of diagnostic influence. [→ Goldstone 1996](#goldstone-1996)
@@ -32,7 +34,7 @@ sources:
 
 Goldstone, R. L. (1996). Isolated and interrelated concepts. Memory & Cognition, 24 (5), 608-628. https://doi.org/10.3758/bf03201087
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Trial-half analysis from Experiment 1's categorization task: for discriminate subjects the nondiagnostic slope fell from -3.57 to -0.039. The image-group trend was "marginally significant" [F(1,13) = 4.4, p < .06], so the isolation-increase claim is not fully confirmed.
 

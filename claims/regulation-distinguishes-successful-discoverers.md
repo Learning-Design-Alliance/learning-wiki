@@ -15,18 +15,22 @@ sources:
     author: Ton de Jong, Wouter R. van Joolingen
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: ton-de-jong-1998-2
     resource: "https://telearn.hal.science/hal-00190680v1"
     title: "Ton de Jong, Wouter R. van Joolingen. (1998). Scientific Discovery Learning with Computer Simulations of Conceptual Domains. Review of Educational Research. https://telearn.hal.science/hal-00190680v1"
     author: Ton de Jong, Wouter R. van Joolingen
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Successful discoverers regulate learning more systematically, planning experiments and monitoring progress, while unsuccessful learners work unsystematically
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Successful learners follow a plan across experiments, whereas unsuccessful learners use random, locally driven strategies and monitor poorly. [→ Ton de Jong 1998](#ton-de-jong-1998)
@@ -38,7 +42,7 @@ sources:
 
 Ton de Jong, Wouter R. van Joolingen. (1998). Scientific Discovery Learning with Computer Simulations of Conceptual Domains. Review of Educational Research. https://telearn.hal.science/hal-00190680v1
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review's narrative synthesis of process studies attributing to Glaser et al. the observation that "successful discoverers followed a plan over experiments" while unsuccessful learners concentrated on local decisions.
 
@@ -48,7 +52,7 @@ The review's narrative synthesis of process studies attributing to Glaser et al.
 
 Ton de Jong, Wouter R. van Joolingen. (1998). Scientific Discovery Learning with Computer Simulations of Conceptual Domains. Review of Educational Research. https://telearn.hal.science/hal-00190680v1
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports Veenman and Elshout's cross-study comparison, finding working method made "its own contribution to learning outcome on top of intellectual ability"; no effect size is printed.
 

@@ -15,12 +15,14 @@ sources:
     author: Shana K. Carpenter and Harold Pashler
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Counterbalancing condition did not affect map accuracy and did not interact with test condition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Neither main effects nor interactions involving counterbalancing order reached significance for any scoring procedure. [→ Shana K. Carpenter and Harold Pashler 2007](#shana-k-carpenter-and-harold-pashler-2007)
@@ -31,7 +33,7 @@ sources:
 
 Shana K. Carpenter and Harold Pashler. (2007). Testing beyond words: Using tests to enhance visuospatial map learning. Psychonomic Bulletin & Review, 14 (3), 474-478. https://doi.org/10.3758/bf03194092
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Null omnibus result from the same 50-subject mixed ANOVA: counterbalancing order (four conditions assigning Map A or Map B to study or test/study first) produced no significant main effect or interaction with test condition under any of the four scoring procedures.
 

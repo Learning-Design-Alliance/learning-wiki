@@ -15,12 +15,14 @@ sources:
     author: "Steinert, S., Avila, K. E., Ruzika, S., Kuhn, J., & Küchemann, S."
     q: 2
     i: "?"
+    kind: design
+    rigour: 1
 ---
 
 # Systematic prompting of an LLM can generate cognitively activating formative feedback aligned with research-based scaffold types (demonstrated, not yet empirically validated)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` In a demonstration with a Newton's cradle task, strategic prompting of GPT-4 turbo produced feedback formatted as cognitively activating instructions covering metacognitive, self-explanatory, and motivational scaffolds. [→ Steinert 2024](#steinert-2024)
@@ -31,7 +33,7 @@ sources:
 
 Steinert, S., Avila, K. E., Ruzika, S., Kuhn, J., & Küchemann, S. (2024). Harnessing large language models to develop research-based learning assistants for formative feedback. Smart Learning Environments. https://doi.org/10.1186/s40561-024-00354-1
 
-`q2 · i?`
+`q2 · i?` · `design · r1`
 
 The authors' demonstration of LEAP on a Newton's cradle video task, with prompts and GPT-4 turbo responses shown in Table 1. The article notes the scaffolds could "potentially assist students in various self-regulating processes"; no learning outcomes were measured.
 

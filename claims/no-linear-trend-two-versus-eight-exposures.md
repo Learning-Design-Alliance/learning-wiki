@@ -15,12 +15,14 @@ sources:
     author: Marie-Josée Bisson, Walter J. B. van Heuven, Kathy Conklin, and Richard J. Tunney
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # No significant overall linear trend of exposure number on the incidental learning effect, though two exposures yield a significantly smaller effect than eight in block 1
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Linear contrasts showed no significant effect of exposure number in block 1 or block 2, but a one-tailed comparison of two versus eight exposures was significant in the participant analysis in block 1 (d = 0.21). [→ Marie-Josée Bisson 2014](#marie-josee-bisson-2014)
@@ -31,7 +33,7 @@ sources:
 
 Marie-Josée Bisson, Walter J. B. van Heuven, Kathy Conklin, and Richard J. Tunney. (2014). The Role of Repeated Exposure to Multimodal Input in Incidental Acquisition of Foreign Language Vocabulary. Language Learning 64:4. https://doi.org/10.1111/lang.12085
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Repeated-measures ANOVA linear contrasts on difference scores (old minus new) in the participant and item analyses found no significant linear trend across two, four, six, and eight exposures in either block; the article reports only test statistics, no standardized effect for the overall trend.
 

@@ -15,18 +15,22 @@ sources:
     author: "Glenberg, A. M., & Lehmann, T. S."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: glenberg-1980-2
     resource: "https://doi.org/10.3758/bf03213772"
     title: "Glenberg, A. M., & Lehmann, T. S. (1980). Spacing repetitions over 1 week. Memory & Cognition, 8(6), 528-538. https://doi.org/10.3758/bf03213772"
     author: "Glenberg, A. M., & Lehmann, T. S."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # When the orienting task prevented interitem associations, the within-list lag effect was attenuated after long retention intervals and this attenuation was not a floor effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In Experiment 3 the lag-by-list-by-retention-interval interaction only approached significance (F(1,56) = 3.37, p = .07), but the lag effect in List 2 tested immediately was significant [F(1,28) = 6.67]. [→ Glenberg 1980](#glenberg-1980)
@@ -38,7 +42,7 @@ sources:
 
 Glenberg, A. M., & Lehmann, T. S. (1980). Spacing repetitions over 1 week. Memory & Cognition, 8(6), 528-538. https://doi.org/10.3758/bf03213772
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 3, 64 subjects using a cost/size judgment task with constant standards designed "to prevent differential (as a function of within-list lag) storage of interitem associations". The lag effect appeared only at short retention intervals.
 
@@ -48,7 +52,7 @@ Experiment 3, 64 subjects using a cost/size judgment task with constant standard
 
 Glenberg, A. M., & Lehmann, T. S. (1980). Spacing repetitions over 1 week. Memory & Cognition, 8(6), 528-538. https://doi.org/10.3758/bf03213772
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Floor-effect check in Experiment 3 comparing twice-presented to once-presented word recall. The authors conclude that when interitem associations are eliminated, the lag effect attenuation "is not an artifact of low levels of recall".
 

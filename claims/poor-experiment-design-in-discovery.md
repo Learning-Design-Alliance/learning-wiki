@@ -15,18 +15,22 @@ sources:
     author: Ton de Jong, Wouter R. van Joolingen
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
   - id: ton-de-jong-1998-2
     resource: "https://telearn.hal.science/hal-00190680v1"
     title: "Ton de Jong, Wouter R. van Joolingen. (1998). Scientific Discovery Learning with Computer Simulations of Conceptual Domains. Review of Educational Research. https://telearn.hal.science/hal-00190680v1"
     author: Ton de Jong, Wouter R. van Joolingen
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Learners design poor experiments: confirmation bias, inconclusive designs, and ineffective variable manipulation are common
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The percentage of effective experiments (manipulating variables relevant to the tested hypothesis) could be as low as 22%. [→ Ton de Jong 1998](#ton-de-jong-1998)
@@ -38,7 +42,7 @@ sources:
 
 Ton de Jong, Wouter R. van Joolingen. (1998). Scientific Discovery Learning with Computer Simulations of Conceptual Domains. Review of Educational Research. https://telearn.hal.science/hal-00190680v1
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports two studies using a hypothesis scratchpad with simulation environments, in which learners manipulated irrelevant variables; "the percentage of effective experiments could be as low as 22%".
 
@@ -48,7 +52,7 @@ The review reports two studies using a hypothesis scratchpad with simulation env
 
 Ton de Jong, Wouter R. van Joolingen. (1998). Scientific Discovery Learning with Computer Simulations of Conceptual Domains. Review of Educational Research. https://telearn.hal.science/hal-00190680v1
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports Quinn and Alessi's influenza epidemic simulation experiment, where students chose experiment purposes from alternatives before running; only "one out of six in a sample of 179 subjects" aimed at eliminating hypotheses.
 

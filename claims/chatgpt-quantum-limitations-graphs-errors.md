@@ -15,12 +15,14 @@ sources:
     author: Saif Alneyadi and Yousef Wardat
     q: 2
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Students reported ChatGPT limitations in Quantum Theory learning: insufficient in-depth explanations, inability to interpret graphs or graphic equations, and occasional unexplainable mathematical errors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Participants reported ChatGPT lacks proper understanding of physics graphs and sometimes makes mathematical errors a basic calculator would not. [→ Saif Alneyadi and Yousef Wardat 2024](#saif-alneyadi-and-yousef-wardat-2024)
@@ -31,7 +33,7 @@ sources:
 
 Saif Alneyadi and Yousef Wardat. (2024). Integrating ChatGPT in Grade 12 Quantum Theory Education: An Exploratory Study at Emirate School (UAE). International Journal of Information and Education Technology, Vol. 14, No. 3. https://doi.org/10.18178/ijiet.2024.14.3.2061
 
-`q2 · i?`
+`q2 · i?` · `causal · r2`
 
 Theme 4 of the qualitative analysis: students found ChatGPT cannot read graphic equations or draw graphs between two variables (Fig. 3) and "occasionally makes unexplainable mathematical errors", prompting reliance on other resources.
 

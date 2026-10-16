@@ -15,12 +15,14 @@ sources:
     author: Doris B. Chin, Ilsa M. Dohmen, and Daniel L. Schwartz
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Before instruction, control students started significantly higher on basic-value measures, yet were overtaken after instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` Kit-Only students began significantly higher on basic-value measures, F(1,140) = 5.2, p = .024, while pretest scores on other measures were statistically indistinguishable. [→ Doris B. Chin 2013](#doris-b-chin-2013)
@@ -31,7 +33,7 @@ sources:
 
 Doris B. Chin, Ilsa M. Dohmen, and Daniel L. Schwartz. (2013). Young Children Can Learn Scientific Reasoning with Teachable Agents. IEEE Transactions on Learning Technologies. https://doi.org/10.1109/TLT.2013.24
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Pretest comparison in the 2-year classroom quasi-experiment, reported alongside Fig. 6 means. ELA, math achievement, and added-value pretest differences were statistically indistinguishable (all F's < 0.8); no effect size is printed for the basic-value difference.
 

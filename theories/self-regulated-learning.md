@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 53 claims (29 for, 21 mixed, 3 against) · 54 studies (18 associational, 13 causal, 9 quant-synthesis, 5 review, 4 theoretical, 3 qualitative, 2 design), `q1`–`q4` · 16 of 54 report an effect size · 38 claims rest on one study
+> **Evidence** · 55 claims (31 for, 21 mixed, 3 against) · 56 studies (18 associational, 14 causal, 10 quant-synthesis, 5 review, 4 theoretical, 3 qualitative, 2 design), `q1`–`q4` · 17 of 56 report an effect size · 40 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -99,6 +99,8 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [The combined training-plus-diary condition improved specific SRL components: SRL knowledge, metacognitive strategies, cognitive strategies (elaboration, organisation, critical thinking), and resource management strategies (time-management, effort regulation)](../claims/combined-condition-improved-specific-srl-components.md) [+W] — attached 2026-10-15 from Broadbent et al. (2020), which proposed "Self-regulated learning as a multi-component construct with metacognitive, cognitive, and resource management strategies".
 - [Self-monitoring intervention effects rest on four key components: selecting a target behavior, defining it, self-assessment, and self-recording](../claims/self-monitoring-four-key-components.md) [~W] — attached 2026-10-15 from Davis et al. (2016), which proposed "Self-monitoring intervention framework for students with ASD organized around student, intervention, and setting variables".
 - [SRL activity only partially mediates the effect of SRL interventions on achievement in higher education](../claims/srl-partial-mediation-achievement-higher-ed.md) [~W] — attached 2026-10-15 from Jansen et al. (2019), which proposed "Three-relations mediation framework linking SRL interventions, SRL activity, and achievement".
+- [ESL students taught concept mapping show significantly greater gains in self-regulation strategies (self-monitoring and knowledge acquisition strategies) than the alternative strategy group](../claims/concept-mapping-greater-self-regulation-gains-esl.md) [+W] — attached 2026-10-16 from Pasana Chularut (2001), which proposed "Social cognitive theory of self-regulation linking concept mapping to self-observation, self-judgment, self-reaction, and self-efficacy".
+- [SRL training effects vary by outcome category, largest for metacognitive strategies (g = .40) and smallest for cognitive strategies (g = .32)](../claims/srl-training-effects-by-outcome-category.md) [+W] — attached 2026-10-16 from Theobald (2021), which proposed "SRL strategy taxonomy: cognitive, metacognitive, and resource management strategies within a three-phase cyclical process".
 
 ## The evidence by question
 

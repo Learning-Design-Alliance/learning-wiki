@@ -10,15 +10,17 @@ generated:
 evidence_strength: moderate
 sources:
   - id: laczko-kerr-2002
-    title: tfa-null-1
+    title: Laczko-Kerr 2002
     q: 2
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Students of TFA teachers did not perform significantly differently from students of other under-certified teachers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students of TFA teachers did not perform significantly different from students of other under-certified teachers; equivalence was not tested. [→ tfa-null-1](#laczko-kerr-2002)
@@ -29,7 +31,7 @@ sources:
 
 Laczko-Kerr, I., & Berliner, D. C. (2002, September 6). The Effectiveness of "Teach for America" and Other Under-certified Teachers on Student Academic Achievement: A Case of Harmful Public Policy. Education Policy Analysis Archives, 10(37). http://epaa.asu.edu/epaa/v10n37/
 
-`q2 · i?`
+`q2 · i?` · `associational · r2`
 
 Matched-pair comparison in which one subset of the 109 under-certified teachers was from Teach For America. The study reports no statistically significant difference between TFA and other under-certified teachers' students; no effect size or test statistic is printed, so equivalence was not established.
 

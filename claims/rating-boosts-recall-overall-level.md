@@ -15,12 +15,14 @@ sources:
     author: "Zechmeister, E. B., & Shaughnessy, J. J."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Items rated for recall likelihood are recalled at a higher overall level than nonrated items, though extra effective study time confounds this
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Overall recall of rated items was significantly higher than that of nonrated items, but the ratings occurred during additional study time, so effective study time was longer for rated items. [→ Zechmeister 1980](#zechmeister-1980)
@@ -31,7 +33,7 @@ sources:
 
 Zechmeister, E. B., & Shaughnessy, J. J. (1980). When you know that you know and when you think that you know but you don't. Bulletin of the Psychonomic Society, 15(1), 41-44. https://doi.org/10.3758/bf03329756
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Analysis of the free recall experiment comparing rated vs. nonrated items. Rated items were recalled better overall, but the article cautions rated items had additional potential study time during the 6-sec rating interval, so the difference is confounded.
 

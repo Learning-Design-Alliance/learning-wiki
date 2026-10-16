@@ -15,18 +15,22 @@ sources:
     author: "Urban, M., Děchtěrenko, F., Lukavský, J., Hrabalová, V., Svacha, F., Brom, C., & Urban, K."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 3
   - id: urban-2024-2
     resource: "https://doi.org/10.1016/j.compedu.2024.105031"
     title: "Urban, M., Děchtěrenko, F., Lukavský, J., Hrabalová, V., Svacha, F., Brom, C., & Urban, K. (2024). ChatGPT Improves Creative Problem-Solving Performance in University Students: An Experimental Study. Computers & Education. https://doi.org/10.1016/j.compedu.2024.105031"
     author: "Urban, M., Děchtěrenko, F., Lukavský, J., Hrabalová, V., Svacha, F., Brom, C., & Urban, K."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 3
 ---
 
 # ChatGPT use does not change absolute self-evaluation accuracy, but self-evaluation judgments fail to correlate with performance under ChatGPT assistance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
 
 ## Subclaims
 `q3 i?` No between-group difference in absolute self-evaluation accuracy for quality, F(1,142) = 0.16, or originality, F(1,142) = 1.08. [→ Urban 2024](#urban-2024)
@@ -38,7 +42,7 @@ sources:
 
 Urban, M., Děchtěrenko, F., Lukavský, J., Hrabalová, V., Svacha, F., Brom, C., & Urban, K. (2024). ChatGPT Improves Creative Problem-Solving Performance in University Students: An Experimental Study. Computers & Education. https://doi.org/10.1016/j.compedu.2024.105031
 
-`q3 · i?`
+`q3 · i?` · `causal · r3`
 
 ANCOVA on bias indices (self-evaluation minus transformed performance) in the randomized experiment (N = 145). The article reports no statistically significant group difference; equivalence was not tested.
 
@@ -48,7 +52,7 @@ ANCOVA on bias indices (self-evaluation minus transformed performance) in the ra
 
 Urban, M., Děchtěrenko, F., Lukavský, J., Hrabalová, V., Svacha, F., Brom, C., & Urban, K. (2024). ChatGPT Improves Creative Problem-Solving Performance in University Students: An Experimental Study. Computers & Education. https://doi.org/10.1016/j.compedu.2024.105031
 
-`q3 · i?`
+`q3 · i?` · `causal · r3`
 
 Exploratory examination of the correlation matrix in Table 3 from the same experiment. The article cautions that absence of evidence is not evidence of absence and that aggregated data may hide different impacts on different participants.
 

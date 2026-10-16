@@ -17,7 +17,7 @@ sources:
 # Provide authoring tools that make pedagogical agents easy to create for wide adoption
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors argue that for pedagogical agents to be adopted widely there need to be authoring tools that make it easy to create them. Earlier work benefited from off-the-shelf tools such as Microsoft Agent, which has been discontinued without a comparable replacement, while human figures are becoming standard features of e-learning authoring tools such as Adobe Captivate and Articulate Studio, and Alelo's VRP MIL product makes it easy to populate training simulations with virtual role-players from reusable libraries. When such technologies are integrated into an easy-to-use package, agents will become part of the standard repertoire instructional designers use.
@@ -37,8 +37,13 @@ The authors argue that for pedagogical agents to be adopted widely there need to
 ### Target Learning Goals
 - creation of e-learning applications incorporating pedagogical agents
 
+## Claims
+
+- [Pedagogical agents enhance learning compared with learning environments that do not feature agents](../claims/pedagogical-agents-enhance-learning.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Combine real people and artificial agents as complements in blended learning environments](blending-human-teachers-and-agents.md)
 
 ## Examples
 -

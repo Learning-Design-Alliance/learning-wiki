@@ -15,12 +15,14 @@ sources:
     author: Marie-Josée Bisson, Walter J. B. van Heuven, Kathy Conklin, and Richard J. Tunney
     q: 3
     i: 2
+    kind: causal
+    rigour: 2
 ---
 
 # The incidental learning advantage occurs from as little as two exposures to multimodal stimuli in complete beginners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
 `q3 i2` In block 1, simple effects showed significantly higher accuracy for old than new words at each number of exposures from two to eight, including the two-exposure condition (ηp2 = .12). [→ Marie-Josée Bisson 2014](#marie-josee-bisson-2014)
@@ -31,7 +33,7 @@ sources:
 
 Marie-Josée Bisson, Walter J. B. van Heuven, Kathy Conklin, and Richard J. Tunney. (2014). The Role of Repeated Exposure to Multimodal Input in Incidental Acquisition of Foreign Language Vocabulary. Language Learning 64:4. https://doi.org/10.1111/lang.12085
 
-`q3 · i2`
+`q3 · i2` · `causal · r2`
 
 Simple effects analyses in block 1 of the translation recognition task (66 analyzed participants after exclusions) showed old words significantly higher than new words for two to eight exposures; the two-exposure contrast gave ηp2 = .12, with the article reporting all four contrasts significant.
 

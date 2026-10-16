@@ -15,12 +15,14 @@ sources:
     author: "Bruce M. McLaren & Deanne M. Adams & Richard E. Mayer"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Erroneous examples and problem solving do not differ significantly on an immediate posttest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Gain scores from pretest to immediate posttest showed only a marginally significant advantage for erroneous examples (p=.055, d=.22); the groups did not differ significantly on immediate testing. [→ Bruce M. McLaren & Deanne M. Adams & Richard E. Mayer 2015](#bruce-m-mclaren-deanne-m-adams-richard-e-mayer-2015)
@@ -31,7 +33,7 @@ sources:
 
 Bruce M. McLaren & Deanne M. Adams & Richard E. Mayer. (2015). Delayed Learning Effects with Erroneous Examples: a Study of Learning Decimals with a Web-Based Tutor. International Artificial Intelligence in Education Society 2015. https://doi.org/10.1007/s40593-015-0064-x
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Same randomized study's immediate posttest analysis: "a marginally significant effect with ErrEx showing higher gains" (p=.055, d=.22). The delayed advantage did not appear on immediate testing; equivalence was not tested.
 

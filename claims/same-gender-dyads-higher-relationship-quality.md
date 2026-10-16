@@ -15,12 +15,14 @@ sources:
     author: Jowett, S.
     q: 2
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Same-gender coach-athlete dyads perceive higher relationship quality (closeness, commitment, complementarity) than other-gender dyads
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Research highlights that gender is associated with relationship quality, with same-gender coach-athlete dyads perceiving higher quality than other-gender dyads. [→ Jowett 2017](#jowett-2017)
@@ -31,7 +33,7 @@ sources:
 
 Jowett, S. (2017). Coaching Effectiveness: The Coach-Athlete Relationship at its Heart. Current Opinion in Psychology, 16, 154-158. http://dx.doi.org/10.1016/j.copsyc.2017.05.006
 
-`q2 · i?`
+`q2 · i?` · `review · r1`
 
 The review reports quantitative research on antecedents of relationship quality, citing work on gender differences measured by validated relationship questionnaires. The review attributes the finding to Jowett and Nezlek; it prints no effect sizes, and the similarity-attraction theory is offered as an interpretation.
 

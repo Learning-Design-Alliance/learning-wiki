@@ -15,12 +15,14 @@ sources:
     author: Kaffenberger, Michelle
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # The unmitigated shock reduces the share of the grade 3 cohort reaching SDG minimum proficiency in mathematics by grade 10 from 7 percent to 3 percent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Modelling against the PISA-scale 400-point minimum-proficiency definition, the shocked cohort's SDG attainment drops from 7 percent to 3 percent by grade 10. [→ Kaffenberger 2021](#kaffenberger-2021)
@@ -31,7 +33,7 @@ sources:
 
 Kaffenberger, Michelle. (2021). Modelling the long-run learning impact of the Covid-19 learning shock: Actions to (more than) mitigate loss. International Journal of Educational Development. https://doi.org/10.1016/j.ijedudev.2020.102326
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 SDG-4 outcome measure from the calibrated simulation using the UIS definition of minimum proficiency as roughly a PISA score of 400. The half-loss shock reduces attainment further, to 2 percent.
 

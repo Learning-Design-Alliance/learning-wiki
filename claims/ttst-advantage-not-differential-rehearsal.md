@@ -15,12 +15,14 @@ sources:
     author: "Carrier, M., & Pashler, H."
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # The TTST advantage persists in a pure-list design, ruling out differential rehearsal (Experiment 4)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` When items were studied in pure lists rather than mixed lists, the TTST method still yielded higher cued recall, eliminating differential rehearsal as an explanation. [→ Carrier 1992](#carrier-1992)
@@ -31,7 +33,7 @@ sources:
 
 Carrier, M., & Pashler, H. (1992). The influence of retrieval on retention. Memory & Cognition, 20(6), 633-642. https://doi.org/10.3758/bf03202713
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Laboratory experiment with 60 undergraduates studying six five-item sublists, each presented entirely by pure ST or TTST in alternating study-test phases. Proportion correct was 0.71 for TTST versus 0.66 for pure ST; a sign test was reliable (z = 1.75, p < .05).
 

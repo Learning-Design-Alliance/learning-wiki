@@ -15,12 +15,14 @@ sources:
     author: "Gore, J., Miller, A., Fray, L., Harris, J., & Prieto, E."
     q: 3
     i: 0
+    kind: causal
+    rigour: 2
 ---
 
 # Year 3 students in low-ICSEA schools achieved significantly less mathematics growth in 2020, equivalent to two months less than the 2019 cohort
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
 
 ## Subclaims
 `q3 i0` Year 3 students in low-ICSEA schools (ICSEA < 950) achieved significantly less growth in mathematics in 2020 relative to 2019 (d = -0.16, p = 0.0331), equivalent to two months less growth. [→ Gore 2021](#gore-2021)
@@ -31,7 +33,7 @@ sources:
 
 Gore, J., Miller, A., Fray, L., Harris, J., & Prieto, E. (2021). The impact of COVID-19 on student learning in New South Wales primary schools: an empirical study. The Australian Educational Researcher, 48, 605-637. https://doi.org/10.1007/s13384-021-00436-w
 
-`q3 · i0`
+`q3 · i0` · `causal · r2`
 
 Linear mixed models with matched ICSEA subgroups found Year 3 low-ICSEA students' 2020 mathematics growth was significantly lower than 2019 (d = -0.16, 95% CI = -0.31, -0.01, p = 0.0331). The study reports this as "equivalent to two months" less growth using EEF standards.
 

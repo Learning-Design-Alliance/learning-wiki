@@ -15,12 +15,14 @@ sources:
     author: Doris B. Chin, Ilsa M. Dohmen, and Daniel L. Schwartz
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Kit+TA students spontaneously transferred the TA's hierarchical spatial organization to open-ended post-test answers, unlike Kit-Only students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` 13 percent of Kit+TA students versus none of the Kit-Only students spontaneously incorporated hierarchy-relevant spatial information on added-value item 2, χ²(1, N=150) = 8.2, p = .004. [→ Doris B. Chin 2013](#doris-b-chin-2013)
@@ -31,7 +33,7 @@ sources:
 
 Doris B. Chin, Ilsa M. Dohmen, and Daniel L. Schwartz. (2013). Young Children Can Learn Scientific Reasoning with Teachable Agents. IEEE Transactions on Learning Technologies. https://doi.org/10.1109/TLT.2013.24
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 Coding of spontaneous spatial/hierarchical content in answers to open-ended added-value item 2. The article reports the contrast between conditions with χ² ð1; N ¼ 150Þ¼ 8:2; p ¼ 0:004; no effect size is printed.
 

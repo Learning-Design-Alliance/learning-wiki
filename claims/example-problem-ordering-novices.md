@@ -15,12 +15,14 @@ sources:
     author: "Tamara van Gog & Nikol Rummel"
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Example–problem pairs and examples-only are more effective than problem–example pairs for novices, with no significant difference between the first two
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` A recent study found examples only and example–problem pairs more effective than problem solving and problem–example pairs, with no significant difference between examples only and example–problem pairs. [→ Tamara van Gog & Nikol Rummel 2010](#tamara-van-gog-nikol-rummel-2010)
@@ -31,7 +33,7 @@ sources:
 
 Tamara van Gog & Nikol Rummel. (2010). Example-Based Learning: Integrating Cognitive and Social-Cognitive Research Perspectives. Educational Psychology Review. https://doi.org/10.1007/s10648-010-9134-7
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 Narrative review reporting van Gog et al. (2010), which compared examples-only, example–problem pairs, problem–example pairs, and problem solving. Problem–example ordering "did not lead to better learning than problem solving only"; the review attributes this to students being unable to diagnose their own deficiencies.
 

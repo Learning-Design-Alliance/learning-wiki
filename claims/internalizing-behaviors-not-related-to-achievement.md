@@ -13,12 +13,14 @@ sources:
     title: Nelson 2004
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Internalizing behaviors are not related to academic achievement in students with E/BD
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Internalizing problem behaviors were not found to be related to academic achievement, in contrast to externalizing behaviors. [→ Nelson 2004](#nelson-2004)
@@ -29,7 +31,7 @@ sources:
 
 Nelson, J.R., Benner, G.J., Lane, K.L. & Smith, B.W. (2004) Academic Achievement of K-12 Students With Emotional and Behavioral Disorders. Exceptional Children, 71 (1), 59-73. https://hdl.handle.net/1808/10968
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 Contrast between behavior types in the cross-sectional sample: externalizing behaviors "were related to reading, mathematics, and written language achievement; whereas, internalizing ones were not." No effect size for the internalizing null is printed.
 

@@ -15,12 +15,14 @@ sources:
     author: "W. Lewis Johnson & James C. Lester"
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Pedagogical agents as coaches and tutors are most useful with novice learners, while virtual role-players benefit learners across expertise levels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Experience has shown that pedagogical agents as coaches and tutors are most useful and effective with novice learners, since advanced learners have higher motivation, self-efficacy, and self-regulation skills; virtual role-players provide useful practice for a wide range of expertise. [→ W. Lewis Johnson & James C. Lester 2015](#w-lewis-johnson-james-c-lester-2015)
@@ -31,7 +33,7 @@ sources:
 
 W. Lewis Johnson & James C. Lester. (2015). Face-to-Face Interaction with Pedagogical Agents, Twenty Years Later. Int J Artif Intell Educ. https://doi.org/10.1007/s40593-015-0065-9
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The article's retrospective section reports this as accumulated experience citing work such as Wang et al. (2008), an interpretive rather than a single empirical result; no effect size is printed.
 

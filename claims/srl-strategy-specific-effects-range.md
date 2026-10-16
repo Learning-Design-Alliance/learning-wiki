@@ -15,12 +15,14 @@ sources:
     author: Theobald, M.
     q: 4
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Training effects vary across specific SRL strategies, ranging from .23 (rehearsal) to .61 (attention and concentration)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i2` medium
 
 ## Subclaims
 `q4 i2` Effects for specific SRL strategies ranged between .23 (rehearsal) and .61 (attention and concentration). [→ Theobald 2021](#theobald-2021)
@@ -31,7 +33,7 @@ sources:
 
 Theobald, M. (2021). Self-Regulated Learning Training Programs Enhance University Students' Academic Performance, Self-Regulated Learning Strategies, and Motivation: A Meta-Analysis. Contemporary Educational Psychology. https://doi.org/10.1016/j.cedpsych.2021.101976
 
-`q4 · i2`
+`q4 · i2` · `quant-synthesis · r2`
 
 Strategy-level moderator analysis within the meta-analysis: effects "ranged between .23 (rehearsal) and .61 (attention and concentration)". The printed upper endpoint g = .61 is a medium-to-large effect size.
 

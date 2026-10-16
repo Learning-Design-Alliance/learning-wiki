@@ -15,12 +15,14 @@ sources:
     author: Goldstone, R. L.
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Whether a prototype or caricature is categorized more easily is predicted to depend on concept interrelatedness: prototype advantage for isolated, caricature advantage for interrelated concepts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r2` · `q1`
 
 ## Subclaims
 `q1 i?` The framework predicts a prototype advantage for purely isolated concepts and a growing caricature advantage as interrelatedness increases. [→ Goldstone 1996](#goldstone-1996)
@@ -31,7 +33,7 @@ sources:
 
 Goldstone, R. L. (1996). Isolated and interrelated concepts. Memory & Cognition, 24 (5), 608-628. https://doi.org/10.3758/bf03201087
 
-`q1 · i?`
+`q1 · i?` · `causal · r2`
 
 Theoretical argument from the Prototypes, Caricatures, and Concept Definition section: caricatures fit relational rules like "Concept A is small, relative to Concept B" better than prototypes, so "as the interrelatedness of concepts increases, so should the categorization advantage of the caricature". Experiment 4 was designed to test this, but its results section falls beyond the supplied text, so no empirical support is reported here.
 

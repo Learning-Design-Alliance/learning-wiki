@@ -15,12 +15,14 @@ sources:
     author: Belland Brian R., Kim ChanMin, Hannafin Michael J.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Adopting mastery goals rather than performance goals during initial learning promotes transfer
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Recent research on transfer shows mastery goal adoption, versus performance goals, during initial learning promotes transfer of learned knowledge. [→ Belland Brian R. 2013](#belland-brian-r-2013)
@@ -31,7 +33,7 @@ sources:
 
 Belland Brian R., Kim ChanMin, Hannafin Michael J. (2013). A Framework for Designing Scaffolds That Improve Motivation and Cognition. Educational Psychologist. https://doi.org/10.1080/00461520.2013.838920
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Narrative review attribution to Nokes-Malach and Mestre (2013) and Pugh et al. (2009); the underlying studies were not read. This supports the article's guideline that scaffolds promote mastery goals, including encouraging short-term goals and informational feedback.
 

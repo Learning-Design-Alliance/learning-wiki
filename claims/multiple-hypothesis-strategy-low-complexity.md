@@ -15,12 +15,14 @@ sources:
     author: Ton de Jong, Wouter R. van Joolingen
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Multiple-hypothesis strategies improve performance only when simulation complexity is low
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Forcing multiple plausible hypotheses led to more effective performance than a single hypothesis, but only at low simulation complexity; no advantage appeared at higher complexity. [→ Ton de Jong 1998](#ton-de-jong-1998)
@@ -31,7 +33,7 @@ sources:
 
 Ton de Jong, Wouter R. van Joolingen. (1998). Scientific Discovery Learning with Computer Simulations of Conceptual Domains. Review of Educational Research. https://telearn.hal.science/hal-00190680v1
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review reports Quinn and Alessi's experiment with a disease-spread simulation, in which students wrote down one or multiple plausible hypotheses before experimenting; the multiple strategy gave "more effective performance" only at low complexity.
 

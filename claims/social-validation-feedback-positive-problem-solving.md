@@ -15,12 +15,14 @@ sources:
     author: "Agran, M., Blanchard, C., Wehmeyer, M., & Hughes, C."
     q: 1
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Student and teacher social validation feedback supported the strategy, with students reporting improved social lives, class engagement, and goal completion
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · causal `r2` · `q1`
 
 ## Subclaims
 `q2 i?` All four students provided positive feedback on the strategy, and teachers reported improved classroom behavior, engagement, and comfort for each student. [→ Agran 2002](#agran-2002)
@@ -31,7 +33,7 @@ sources:
 
 Agran, M., Blanchard, C., Wehmeyer, M., & Hughes, C. (2002). Increasing the Problem-Solving Skills of Students with Developmental Disabilities Participating in General Education. Remedial and Special Education, 23(5), 279-288. https://doi.org/10.1177/07419325020230050301
 
-`q1 · i?`
+`q1 · i?` · `causal · r2`
 
 Anecdotal social validation data collected at study conclusion from students' answers to six Phase 3 questions and informal teacher reports; the article notes "formal social validation data were not obtained." Each teacher reported improvements for their student.
 

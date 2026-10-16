@@ -38,7 +38,7 @@ The article recommends deploying TAs as an augmentation of district-adopted curr
 - hierarchical reasoning about class inclusion and properties
 
 ### Affordances
-- [Teachable Agent Three Design Principles](../theories/teachable-agent-three-design-principles.md)
+- [Teachable Agent Three Design Principles](../designs/teachable-agent-three-design-principles.md)
 
 ## Related Strategies
 - 

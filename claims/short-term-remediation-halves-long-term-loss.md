@@ -15,12 +15,14 @@ sources:
     author: Kaffenberger, Michelle
     q: 1
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # Short-term remediation covering missed grade 3 material in grade 4 halves the long-term loss, but leaves the cohort 0.55 years behind the no-shock counterfactual
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Modelling remediation of missed grade 3 content during grade 4 raises grade 10 learning by half a school year but does not fully compensate for the shock. [→ Kaffenberger 2021](#kaffenberger-2021)
@@ -31,7 +33,7 @@ sources:
 
 Kaffenberger, Michelle. (2021). Modelling the long-run learning impact of the Covid-19 learning shock: Actions to (more than) mitigate loss. International Journal of Educational Development. https://doi.org/10.1016/j.ijedudev.2020.102326
 
-`q1 · i?`
+`q1 · i?` · `theoretical · r3`
 
 Mitigation scenario in the calibrated PPF simulation covering one-third of the grade 3 curriculum in grade 4 before resuming normal pace. Grade 10 cohort learning remains 0.55 years behind the counterfactual; remediation time reduces time for regular instruction.
 

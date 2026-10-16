@@ -15,12 +15,14 @@ sources:
     author: "Bruce M. McLaren & Deanne M. Adams & Richard E. Mayer"
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
 ---
 
 # Erroneous examples do not raise general confidence calibration but yield more high-confidence correct answers on the delayed posttest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Confidence increased across sessions for both groups with no condition difference, but ErrEx students made more high-confidence correct responses on the delayed posttest (66.27% vs. 63.45%). [→ Bruce M. McLaren & Deanne M. Adams & Richard E. Mayer 2015](#bruce-m-mclaren-deanne-m-adams-richard-e-mayer-2015)
@@ -31,7 +33,7 @@ sources:
 
 Bruce M. McLaren & Deanne M. Adams & Richard E. Mayer. (2015). Delayed Learning Effects with Erroneous Examples: a Study of Learning Decimals with a Web-Based Tutor. International Artificial Intelligence in Education Society 2015. https://doi.org/10.1007/s40593-015-0064-x
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Confidence-rating analysis (six participants removed for logging errors; one item dropped). "Students in the ErrEx condition were more likely to make high confidence correct responses" on the delayed posttest; no other response-type differences were significant.
 

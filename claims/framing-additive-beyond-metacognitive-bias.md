@@ -15,12 +15,14 @@ sources:
     author: Lea Fröscher, Ann‑Kathrin Friedrich, Max Berentelg, Curtis Widmer, Sam J. Gilbert and Frank Papenmeier
     q: 3
     i: "?"
+    kind: causal
+    rigour: 3
 ---
 
 # Framing adds an additive predictive value to the reminder bias beyond participants' internal metacognitive bias
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · causal `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Mixed-effects model comparison showed internal metacognitive bias predicted reminder bias and framing improved fit further, while the bias × framing interaction did not improve fit. [→ Lea Fröscher 2022](#lea-froscher-2022)
@@ -31,7 +33,7 @@ sources:
 
 Lea Fröscher, Ann‑Kathrin Friedrich, Max Berentelg, Curtis Widmer, Sam J. Gilbert and Frank Papenmeier. (2022). Framing cognitive offloading in terms of gains or losses: achieving a more optimal use of reminders. Cognitive Research: Principles and Implications. https://doi.org/10.1186/s41235-022-00416-3
 
-`q3 · i?`
+`q3 · i?` · `causal · r3`
 
 Exploratory mixed-effects models on Experiment 2 reminder bias scores with random participant intercepts: adding internal metacognitive bias improved fit (χ2(1) = 9.29, p = 0.002), adding framing improved fit further, χ2(1) = 23.51, p < 0.001, and the interaction did not (χ2(1) = 0.09, p = 0.761). The article concludes "framing adds an additive predictive value to the reminder bias" beyond metacognitive miscalibration. No standardized effect size is printed, so impact is null.
 

@@ -13,12 +13,14 @@ sources:
     title: Wei L 2023
     q: 3
     i: 3
+    kind: causal
+    rigour: 1
 ---
 
 # AI-mediated language instruction produces significantly greater English learning achievement gains than traditional instruction among EFL learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` After a 10-week intervention, the experimental group's post-test L2 achievement (M = 73.86) significantly exceeded the control group's (M = 61.11), with a significant Group × Time interaction. [→ Wei L 2023](#wei-l-2023)
@@ -29,7 +31,7 @@ sources:
 
 Wei L (2023) Artificial intelligence in language instruction: impact on English learning achievement, L2 motivation, and self-regulated learning. Front. Psychol. 14:1261955. https://doi.org/10.3389/fpsyg.2023.1261955
 
-`q3 · i3`
+`q3 · i3` · `causal · r1`
 
 Mixed-design ANOVA on pre/post English achievement tests (grammar, vocabulary, reading, writing; α = 0.87) with 60 learners in two intact classes over a 10-week intervention. The article also reports a significant main effect for Group [F(1, 58) = 94.35, η2 = 0.81], showing "the AI-mediated language instruction had a substantial impact on enhancing English learning achievement".
 

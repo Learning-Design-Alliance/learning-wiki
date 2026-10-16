@@ -63,6 +63,7 @@ Drawing converts verbal/numeric problem statements into a second, visual represe
 - [Worked examples](worked-examples-first.md) — worked examples can model the drawing step itself, showing what a good diagram looks like before learners generate their own
 - [Think-aloud modeling](../strategies/think-aloud-modeling.md) — pairing verbalized reasoning with diagram construction makes the representation decisions explicit
 - [Choose problems with multiple entry points to stimulate discussion of different solution approaches](multiple-entry-point-problems.md)
+- [Teach a four-step verbalized problem-solving strategy (identify problem, propose solution, implement, evaluate)](four-step-self-regulated-problem-solving-strategy.md)
 
 ## Examples
 - **Singapore Math bar models** — a national curriculum sequence in which students progress from concrete objects to standardized bar diagrams for word problems ([Thinking Blocks](https://www.mathplayground.com/thinkingblocks.html) offers an interactive version)

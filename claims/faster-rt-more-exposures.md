@@ -15,12 +15,14 @@ sources:
     author: Marie-Josée Bisson, Walter J. B. van Heuven, Kathy Conklin, and Richard J. Tunney
     q: 3
     i: 3
+    kind: causal
+    rigour: 2
 ---
 
 # Participants respond increasingly faster to stimuli presented more often during the incidental letter-search task
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Average response times in the incidental learning phase decreased significantly with more exposures (linear contrast ηp2 = .41 in the participant analysis). [→ Marie-Josée Bisson 2014](#marie-josee-bisson-2014)
@@ -31,7 +33,7 @@ sources:
 
 Marie-Josée Bisson, Walter J. B. van Heuven, Kathy Conklin, and Richard J. Tunney. (2014). The Role of Repeated Exposure to Multimodal Input in Incidental Acquisition of Foreign Language Vocabulary. Language Learning 64:4. https://doi.org/10.1111/lang.12085
 
-`q3 · i3`
+`q3 · i3` · `causal · r2`
 
 Response-time analysis of the incidental letter-search phase (from the article's Note 3) found mean RTs of 883 to 827 milliseconds across two to eight exposures, with a significant linear contrast, ηp2 = .41 and ηp2 = .07.
 

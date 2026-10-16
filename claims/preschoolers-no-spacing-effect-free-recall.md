@@ -15,18 +15,22 @@ sources:
     author: Thomas C. Toppino and William DiGeorge
     q: 3
     i: "?"
+    kind: causal
+    rigour: 2
   - id: thomas-c-toppino-and-william-digeorge-1984-2
     resource: "https://scholar.google.com/scholar?q=The+spacing+effect+in+free+recall+emerges+with+development+Memory+%26+Cognition+1984"
     title: "Thomas C. Toppino and William DiGeorge. (1984). The spacing effect in free recall emerges with development. Memory & Cognition, 12(2), 118-122. https://scholar.google.com/scholar?q=The+spacing+effect+in+free+recall+emerges+with+development+Memory+%26+Cognition+1984"
     author: Thomas C. Toppino and William DiGeorge
     q: 3
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Preschool children do not exhibit a spacing effect in free recall, although they benefit from repetition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
 
 ## Subclaims
 `q3 i?` Preschool children recalled massed and spaced repetitions of pictures equally well in free recall. [→ Thomas C. Toppino and William DiGeorge 1984](#thomas-c-toppino-and-william-digeorge-1984)
@@ -38,7 +42,7 @@ sources:
 
 Thomas C. Toppino and William DiGeorge. (1984). The spacing effect in free recall emerges with development. Memory & Cognition, 12(2), 118-122. https://scholar.google.com/scholar?q=The+spacing+effect+in+free+recall+emerges+with+development+Memory+%26+Cognition+1984
 
-`q3 · i?`
+`q3 · i?` · `causal · r2`
 
 Experiment 1, a single-factor within-subjects experiment with 20 nursery-school children (mean age 4 years 4 months) recalling pictures presented at a 5-sec rate, found that "the spacing between repetitions had no effect on performance"; preschoolers recalled 46.7% of both massed and spaced repetitions.
 
@@ -48,7 +52,7 @@ Experiment 1, a single-factor within-subjects experiment with 20 nursery-school 
 
 Thomas C. Toppino and William DiGeorge. (1984). The spacing effect in free recall emerges with development. Memory & Cognition, 12(2), 118-122. https://scholar.google.com/scholar?q=The+spacing+effect+in+free+recall+emerges+with+development+Memory+%26+Cognition+1984
 
-`q3 · i?`
+`q3 · i?` · `causal · r1`
 
 In Experiment 2's planned comparisons on 18 nursery-school children, repetition helped (F = 10.02, p < .01) but "there was no difference between recall of massed and spaced repetitions" (F < 1.00); means were 34.7% massed vs 32.0% spaced.
 

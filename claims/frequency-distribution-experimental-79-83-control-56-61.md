@@ -15,18 +15,22 @@ sources:
     author: "Hakiki, M., Fadli, R., Samala, A. D., Fricticarani, A., Dayurni, P., Rahmadani, K., Astiti, A. D., & Sabir, A."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
   - id: hakiki-2023-2
     resource: "https://doi.org/10.25082/AMLER.2023.02.013"
     title: "Hakiki, M., Fadli, R., Samala, A. D., Fricticarani, A., Dayurni, P., Rahmadani, K., Astiti, A. D., & Sabir, A. (2023). Exploring the impact of using Chat-GPT on student learning outcomes in technology learning: The comprehensive experiment. Advances in Mobile Learning Educational Research, 3(2), 859-872. https://doi.org/10.25082/AMLER.2023.02.013"
     author: "Hakiki, M., Fadli, R., Samala, A. D., Fricticarani, A., Dayurni, P., Rahmadani, K., Astiti, A. D., & Sabir, A."
     q: 2
     i: "?"
+    kind: causal
+    rigour: 1
 ---
 
 # Final-test score distributions concentrated differently by group: the ChatGPT class peaked at interval 79-83 (32.26% of students) while the control class peaked at 56-61 (25.81%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` The most frequent experimental-class score interval was 79-83, accounting for 32.26% of that class. [→ Hakiki 2023](#hakiki-2023)
@@ -38,7 +42,7 @@ sources:
 
 Hakiki, M., Fadli, R., Samala, A. D., Fricticarani, A., Dayurni, P., Rahmadani, K., Astiti, A. D., & Sabir, A. (2023). Exploring the impact of using Chat-GPT on student learning outcomes in technology learning: The comprehensive experiment. Advances in Mobile Learning Educational Research, 3(2), 859-872. https://doi.org/10.25082/AMLER.2023.02.013
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Frequency distribution of final-test scores in the experimental class, presented as Figure 2. The text states the highest-frequency scores are "concentrated within the score interval of 79-83, specifically accounting for 32.26%" (10 of 31 cases).
 
@@ -48,7 +52,7 @@ Frequency distribution of final-test scores in the experimental class, presented
 
 Hakiki, M., Fadli, R., Samala, A. D., Fricticarani, A., Dayurni, P., Rahmadani, K., Astiti, A. D., & Sabir, A. (2023). Exploring the impact of using Chat-GPT on student learning outcomes in technology learning: The comprehensive experiment. Advances in Mobile Learning Educational Research, 3(2), 859-872. https://doi.org/10.25082/AMLER.2023.02.013
 
-`q2 · i?`
+`q2 · i?` · `causal · r1`
 
 Frequency distribution of final-test scores in the control class, presented as Figure 3. The article reports the highest interval is 56-61 "with a frequency of 8 students or 25.81%".
 

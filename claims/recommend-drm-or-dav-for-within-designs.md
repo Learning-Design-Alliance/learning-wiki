@@ -15,12 +15,14 @@ sources:
     author: Lakens, D.
     q: 2
     i: "?"
+    kind: theoretical
+    rigour: 3
 ---
 
 # For within-subjects designs, the author recommends reporting Cohen's d_rm or Cohen's d_av rather than Cohen's dz
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Because Cohen's dz can be recovered from the t-value and n and is rarely used, the general recommendation is to report Cohen's drm or Cohen's dav as the within-subjects standardized mean difference. [→ Lakens 2013](#lakens-2013)
@@ -31,7 +33,7 @@ sources:
 
 Lakens, D. (2013). Calculating and reporting effect sizes to facilitate cumulative science: a practical primer for t-tests and ANOVAs. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2013.00863
 
-`q2 · i?`
+`q2 · i?` · `theoretical · r3`
 
 Authors' recommendation (interpretation, not a tested result) in the section on Cohen's d in one-sample or correlated samples comparisons. Cohen's dav uses the average standard deviation as standardizer; Cohen's drm controls for the correlation between measurements; Table 1 recommends Hedges' gav for meta-analyses of correlated groups.
 

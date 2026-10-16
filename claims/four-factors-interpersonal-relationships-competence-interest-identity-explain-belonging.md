@@ -15,12 +15,14 @@ sources:
     author: Katherine Rainey, Melissa Dancy, Roslyn Mickelson, Elizabeth Stearns and Stephanie Moller
     q: 2
     i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Four factors explain students' sense of belonging in STEM, with interpersonal relationships the most commonly cited
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Coding of interview explanations yielded four themes—interpersonal relationships, competence, personal interest, and science identity; interpersonal relationships were the largest factor cited for positive belonging by every demographic group, and absence of interpersonal relationships was the most common reason majors and leavers gave for not belonging. [→ Katherine Rainey 2018](#katherine-rainey-2018)
@@ -31,7 +33,7 @@ sources:
 
 Katherine Rainey, Melissa Dancy, Roslyn Mickelson, Elizabeth Stearns and Stephanie Moller. (2018). Race and gender differences in how sense of belonging influences decisions to major in STEM. International Journal of STEM Education 5:10. https://doi.org/10.1186/s40594-018-0115-6
 
-`q2 · i?`
+`q2 · i?` · `qualitative · r3`
 
 Frequency counts of belonging-explanation codes from the interviews, shown in Figs. 6 and 7. The article reports "Interpersonal relationships were the largest factor cited for each demographic group" and that science identity was cited by only a small percent, with no significant differences between demographic groups.
 

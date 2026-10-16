@@ -15,12 +15,14 @@ sources:
     author: Ton de Jong, Wouter R. van Joolingen
     q: 2
     i: "?"
+    kind: review
+    rigour: 3
 ---
 
 # Studies comparing pure simulation-based discovery learning with expository teaching show no clear and univocal outcome in favor of simulations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Across comparison studies in biology, economics, mechanics, and electrical circuits, some found favorable results for simulations, some no difference, and some found simulations underperforming tutorials. [→ Ton de Jong 1998](#ton-de-jong-1998)
@@ -31,7 +33,7 @@ sources:
 
 Ton de Jong, Wouter R. van Joolingen. (1998). Scientific Discovery Learning with Computer Simulations of Conceptual Domains. Review of Educational Research. https://telearn.hal.science/hal-00190680v1
 
-`q2 · i?`
+`q2 · i?` · `review · r3`
 
 The review's synthesis of studies contrasting pure conceptual-model simulations with expository instruction across domains including biology, economics, Newtonian mechanics, and electrical circuits, finding "no clear and univocal outcome in favor of simulations".
 
