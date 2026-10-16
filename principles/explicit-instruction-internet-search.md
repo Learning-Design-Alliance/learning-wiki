@@ -122,6 +122,9 @@ No claim in the wiki compares explicit search instruction with unguided explorat
 
 Learners, tasks and settings differ across these claims (writing revision, mathematics tutoring, workers' information seeking, credibility judgments), so do not rank them by effect label. None measures search performance, and none follows learners beyond a month for searching.
 
+## The evidence by question
+- *When learners research a question, does searching with a web search engine lead to deeper learning than asking a generative AI chatbot or reading an AI summary?* [Students using Google produce higher-quality justifications in their final recommendations than students using ChatGPT 3.5](../claims/web-search-higher-quality-justifications-than-llm.md) [+M]
+
 ## Further evidence, not yet read against this model
 
 Claims the earlier page cited that are not used in the model above, and neighbouring claims found while rewriting it. None has been re-read against the model.

@@ -53,6 +53,11 @@ The toolkit prescribes universal early literacy screeners for all K–3 students
 - [Low income, English learner, special education, Black, and Hispanic students were more likely to be classified significantly below benchmark at each time period and more than once](../claims/student-group-risk-disparities.md) [~W]
 - [The predictive value of grade 3 screening benchmarks for MCAS ELA proficiency varies widely: 15 to 69 percent of students classified as on track did not reach MCAS proficiency, and students flagged at risk rarely met proficiency](../claims/screening-predictive-value-varies-15-69-percent.md) [-W]
 
+## The evidence by question
+- *Do early literacy screeners accurately identify which students will go on to struggle in reading?* [Literacy screener benchmarks predict which grade 3 students will not meet MCAS ELA expectations, but not necessarily who will meet them](../claims/screeners-predict-mcas-failure-not-success.md) [~W]
+- *Does reading risk flagged at screening persist, and when in the year and in which grades do flagged students get back on track?* [Most students identified as significantly below benchmark on early literacy screeners remain significantly below benchmark 1 and 2 years later](../claims/significantly-below-benchmark-persists-across-years.md) [+W]
+- *Which groups of students does universal screening flag most often, and does that pattern hold across years and school contexts?* [Students from low income, English learner, special education, and several racial/ethnic groups are more likely to be repeatedly identified as significantly below benchmark, with low income students 2.5 times as likely](../claims/massachusetts-k3-risk-inequities-student-groups.md) [~W]
+
 ## Related Principles
 - 
 

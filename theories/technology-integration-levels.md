@@ -50,6 +50,10 @@ The shared claim across all three models is that low-value technology integratio
 - [Policy guidance is most actionable for final-output substitution scenarios](../claims/substitution-most-actionable-scenario.md) [~W]
 - [Minority of undergraduate health science students reported using GenAI for reflective writing, mostly to support rather than replace reflection](../claims/minority-health-students-genai-reflective-writing.md) [~W]
 
+## The evidence by question
+- *Where on the substitution-to-redefinition range does educational technology use actually sit?* [Most AI implementations in undergraduate higher education sit at the SAMR Substitution or Augmentation levels, with fewer Modification cases and one Redefinition](../claims/ai-integration-mostly-substitution-augmentation.md) [+M]
+- *Does using technology to transform a task, rather than substitute for it, change what learners learn?* [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](../claims/gai-value-contingent-on-pedagogical-integration.md) [+W]
+
 ## Related Theories
 
 - [SAMR model of technology integration (Substitution, Augmentation, Modification, Redefinition)](samr-model-technology-integration.md)

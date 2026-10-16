@@ -80,6 +80,9 @@ Listening comprehension and reading comprehension draw on shared language proces
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — audiobooks can reduce the processing burden of print decoding, especially when paired with visible chunking or text highlighting
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — guided read-alouds and audio-supported reading work best when instructors respond to confusion with prompts, clarifications, and replay
 
+## The evidence by question
+- *Does a learner who listens to a text, or reads while listening, lose anything against reading it?* [Reading and listening yield similar proportions of incidental vocabulary learning, with reading ahead only on some immediate posttests](../claims/reading-versus-listening-incidental-vocabulary-gains.md) [+S]
+
 ## Related Elements
 - [Assigned Readings](assigned-readings.md) — audiobooks are an alternative delivery format for the same content
 - [Annotating](../principles/annotating.md) — requires a text layer; audio-plus-text editions enable both

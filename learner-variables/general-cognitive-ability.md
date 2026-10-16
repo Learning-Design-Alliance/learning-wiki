@@ -74,6 +74,11 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Very few adult immigrants score within the range of child arrivals on a grammaticality judgment test, and those who do have high verbal analytical ability](../claims/few-adult-immigrants-match-child-range-gjt-verbal-analytical-ability.md) [+W] — learners who differ on it differ in outcomes
 - [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](../claims/mit-lower-sat-math-scores-equal-performance.md) [-W] — learners who differ on it differ in outcomes
 
+## The evidence by question
+- *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]
+- *Do structured techniques and guidance help lower-ability learners more than higher-ability ones, narrowing the gap?* [In the few studies that split by ability, learning techniques helped low-ability students and not high-ability students](../claims/learning-techniques-benefit-low-ability-not-high-ability-students.md) [~M]
+- *Does sorting learners into classes or groups by ability help them, and which learners gain or lose?* [Between- or within-class homogeneous ability grouping has a small negative effect on low-ability primary students but no effect on other students](../claims/homogeneous-ability-grouping-negative-low-ability.md) [~M]
+
 ## Related Learner Variables
 - [Prior Knowledge](prior-knowledge.md)
 - [Working Memory](working-memory.md)

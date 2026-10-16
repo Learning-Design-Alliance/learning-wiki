@@ -42,6 +42,9 @@ Communication channels are the element in which learners use designated tools or
 - [Student-generated Facebook groups constitute a hidden curriculum that supports learning outside the formal design studio](../claims/student-generated-hidden-curriculum-sns.md) [+W]
 - [Longer Facebook threads with more interlocutors show distinct structural characteristics compared to the broader corpus](../claims/thread-structure-designerly-talk-corpus.md) [+W]
 
+## The evidence by question
+- *Does the channel learners interact through (face to face, video, text chat, discussion board) change the interaction and what language learners gain from it?* [SCMC interaction shows a small advantage over FTF on overall L2 learning outcomes](../claims/scmc-small-advantage-overall-l2-outcomes.md) [~M]
+
 ## Related Elements
 - [Collaboration](collaboration.md)
 - [Task Management](task-management.md)

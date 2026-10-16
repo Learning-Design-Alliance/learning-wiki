@@ -55,6 +55,10 @@ Committing to a prediction before instruction activates prior conceptions and cr
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [A small question budget of about 200 suffices for strong hypothesis quality, with room to scale](../claims/small-budget-suffices-for-hypothesis-quality.md) [~W]
 
+## The evidence by question
+- *Does conflict-based instruction improve conceptual learning more than standard exposition?* [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+S]
+- *Does adding guidance to inquiry improve what learners learn, and does the kind of guidance matter?* [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](../claims/guidance-improves-inquiry-learning-outcomes.md) [+M]
+
 ## Related Elements
 - [Prediction](prediction.md) — the commitment step that makes prior conceptions explicit
 - [Experimentation](experimentation.md) — the evidence-generating activity most naturally paired with hypothesis testing

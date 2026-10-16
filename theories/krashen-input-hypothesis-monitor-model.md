@@ -49,6 +49,10 @@ The critiques are sharper than the defences. Adamson argues that the absolute sp
 - [Mere exposure to the target language does not automatically lead to native-like communicative competence in adult learners](../claims/mere-exposure-insufficient-advanced-l2-communicative-competence.md) [-W]
 - [Participants incidentally acquired an average of 3.19 of 20 target words after reading two passages](../claims/incidental-acquisition-rate-3-of-20-words.md) [+W]
 
+## The evidence by question
+- *Is exposure to meaningful input enough for learners to acquire L2 grammar, or do some forms need explicit instruction and practice?* [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [-M]
+- *Do learners acquire second-language vocabulary from reading and other meaning-focused input without deliberate study, and how much?* [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](../claims/incidental-vocabulary-exposure-limited.md) [+S]
+
 ## Related Theories
 
 - [Krashen's five hypotheses of second language acquisition as principles for bilingual program design](krashen-five-hypotheses-l2-acquisition.md)

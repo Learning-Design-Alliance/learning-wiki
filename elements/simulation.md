@@ -135,6 +135,11 @@ Simulations support learning by making system dynamics explorable: learners buil
 - **Tested with:** school writing-to-learn studies and a first-year engineering course (structured reflection); 10 SLP graduate students (debriefing, perception only).
 - **Not settled:** no wiki claim compares a simulation with and without a debrief; see [Debrief](debrief.md) for the debrief's own decisions.
 
+## The evidence by question
+- *Does practising in a simulation improve knowledge and skill more than no simulation or conventional training, and for which skills and horizons?* [Simulation Based Education Improves Outcomes](../claims/simulation-based-education-improves-outcomes.md) [+M]
+- *How much guidance should learners get while they explore a simulation, and does the answer change with what they already know?* [Supplementing simulation-based inquiry with learner guidance has a modest effect on learning outcomes (d = 0.49) and inquiry skills (d = 0.41), independent of guidance type (review attribution to D'Angelo et al., 2014)](../claims/simulation-guidance-moderate-effect-dangelo.md) [+M]
+- *Can a virtual simulation stand in for physical materials or authentic situations, and what does each format do better?* [Physical Experience Enhances Science Learning](../claims/physical-experience-enhances-science-learning.md) [~M]
+
 ## Related Elements
 - [Practice](practice.md) — simulation is a structured environment for deliberate practice with built-in consequences
 - [Case Studies](case-studies.md) — a case presents a snapshot of a system; a simulation lets learners intervene in it

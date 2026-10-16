@@ -67,6 +67,10 @@ Concept mapping supports meaningful learning by forcing learners to identify rel
 - [Placing heavier cognitive demands on learners can be counterproductive in mapping tasks](../claims/heavy-cognitive-demands-of-mapping-can-be-counterproductive.md) [-W]
 - [Teacher-initiated and student-mediated semantic mapping did not differ significantly in their effects on EFL reading comprehension](../claims/teacher-initiated-and-student-mediated-mapping-no-difference.md) [~W]
 
+## The evidence by question
+- *Does having learners build an organization of the content as a concept map help, and against what comparison?* [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](../claims/concept-mapping-improves-learning.md) [+S]
+- *Should learners construct the map themselves, study a provided one, or build it with the teacher or a peer?* [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](../claims/learner-constructed-graphic-organizers-outperform-provided.md) [~S]
+
 ## Related Elements
 
 - [Advance Organizers](advance-organizers.md) — a completed concept map is a graphic form of organizer presented before instruction

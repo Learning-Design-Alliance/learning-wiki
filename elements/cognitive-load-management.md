@@ -31,6 +31,11 @@ Cognitive load management is the element in which instruction is designed to red
 - [Segmenting Improves Multimedia Learning](../claims/segmenting-improves-multimedia-learning.md) [+M]
 - [Segmentation Benefits Shrink With Expertise](../claims/segmentation-benefits-shrink-with-expertise.md) [+M]
 
+## The evidence by question
+- *Does removing avoidable processing from a presentation improve learning?* [Cognitive Overload Degrades Learning](../claims/cognitive-overload-degrades-learning.md) [+S]
+- *Should related text and pictures be integrated rather than separated?* [Cognitive Load Reduction Improves Learning](../claims/cognitive-load-reduction-improves-learning.md) [+S]
+- *Does breaking a continuous presentation into segments improve learning over presenting it whole?* [Segmenting Improves Multimedia Learning](../claims/segmenting-improves-multimedia-learning.md) [+M]
+
 ## Related Elements
 - [Worked Examples](worked-examples.md)
 - [Scaffolding](scaffolding.md)

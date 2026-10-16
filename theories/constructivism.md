@@ -46,6 +46,10 @@ In instruction, constructivism is less a single method than a family resemblance
 - [Iranian ELT textbooks show no smooth shift from behaviourism to constructivism across educational levels](../claims/no-smooth-shift-behaviourism-to-constructivism-iranian-elt.md) [~W]
 - [Most prospective teachers see constructivist conceptions as highly valuable but not very applicable, and traditional conceptions as not valuable but highly applicable](../claims/constructivist-valued-but-not-applicable-person-level.md) [~W]
 
+## The evidence by question
+- *Should novices be left to discover the target content without support?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [~S]
+- *Which kind of activity: manipulating material, generating beyond it, or building on a partner's ideas?* [Constructive learning beats active and passive learning](../claims/constructive-learning-beats-active-passive.md) [+M]
+
 ## Related Theories
 
 - [Sociomaterial Agency of Tools](sociomaterial-agency-of-tools.md) — extends constructivism by treating the material substrate of a hands-on task, not just the learner's cognitive engagement with it, as consequential for what gets learned
